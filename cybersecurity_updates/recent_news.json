@@ -1,6 +1,25 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign",
+    "link": "https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html",
+    "published": "Fri, 26 Jun 2026 21:51:25 +0530",
+    "summary": "A Chinese-speaking advanced persistent threat (APT) actor has been linked to a new custom backdoor called TinyRCT as part of cyber attacks aimed at government entities and critical infrastructure in Southeast Asia.\n\nThe activity, particularly aimed at state-owned enterprises in the energy and government sectors, has been attributed to a threat actor called CL-STA-1062, which Palo Alto Networks",
+    "analysis": {
+      "issue": "Unit 42 links CL-STA-1062 to TinyRCT, a custom",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries",
     "link": "https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html",
     "published": "Fri, 26 Jun 2026 19:27:55 +0530",
@@ -172,13 +191,31 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability",
-    "link": "https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html",
-    "published": "Thu, 25 Jun 2026 19:42:52 +0530",
-    "summary": "An analysis of a popular Google Chrome ad block extension for YouTube has uncovered the ability to execute arbitrary JavaScript code.\n\nAccording to Island, the extension, named Adblock for YouTube (ID: cmedhionkhpnakcndndgjdbohmhepckk), has more than 10 million installs and carries a Featured badge on the Chrome Web Store.\n\nThe extension description states that it allows users to prevent web",
+    "source": "Bleeping Computer",
+    "title": "Polymarket customers lose $3 million in supply-chain attack",
+    "link": "https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/",
+    "published": "Fri, 26 Jun 2026 14:04:12 -0400",
+    "summary": "Polymarket says it will fully reimburse customers who lost an estimated $3 million after hackers injected a malicious script into the platform's frontend following a breach at a third-party vendor. [...]",
     "analysis": {
-      "issue": "Island found dormant JavaScript injection paths in Adblock for YouTube, a Chrome extension with 10M+ installs, raising browser security risks",
+      "issue": "Polymarket says it will fully reimburse customers who lost an estimated $3 million after hackers injected a malicious script into the platform's frontend following a breach at a third-party vendor",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Cybersecurity firms targeted by fraudulent OpenAI organization invites",
+    "link": "https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/",
+    "published": "Fri, 26 Jun 2026 13:49:07 -0400",
+    "summary": "Threat actors are creating OpenAI tenants that impersonate legitimate companies and inviting employees to join them, in what appears to be a ploy to trick targets into submitting sensitive company information in chats and projects. [...]",
+    "analysis": {
+      "issue": "Threat actors are creating OpenAI tenants that impersonate legitimate companies and inviting employees to join them, in what appears to be a ploy to trick targets into submitting sensitive company information in chats and projects",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -334,42 +371,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "The Four Elevations of Effective Fraud Prevention",
-    "link": "https://www.bleepingcomputer.com/news/security/the-four-elevations-of-effective-fraud-prevention/",
-    "published": "Thu, 25 Jun 2026 10:01:11 -0400",
-    "summary": "Fraudsters don't attack just one transaction. They target accounts, platforms, and entire ecosystems. IPQS explains the four elevations of fraud prevention and why broader visibility improves fraud detection. [...]",
-    "analysis": {
-      "issue": "Effective fraud prevention programs call for monitoring across every customer touchpoint from account creation to checkout, login to customer service interactions",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Webinar: Why account takeovers remain one of the hardest threats to stop",
-    "link": "https://www.bleepingcomputer.com/news/security/webinar-why-account-takeovers-remain-one-of-the-hardest-threats-to-stop/",
-    "published": "Thu, 25 Jun 2026 08:12:20 -0400",
-    "summary": "Account takeover attacks continue to challenge security teams because attackers often operate through legitimate accounts and trusted services. This webinar explores how behavioral AI can help organizations identify compromised accounts faster and automate response workflows. [...]",
-    "analysis": {
-      "issue": "Organizations continue to invest in phishing defenses, identity protection, and multi-factor authentication, yet account takeover attacks remain one of the most disruptive security incidents facing enterprises today",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
     "link": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
@@ -439,8 +440,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-49160",
         "CVE-2026-45586",
+        "CVE-2026-49160",
         "CVE-2026-50507"
       ],
       "threat_categories": [
@@ -529,35 +530,55 @@
     "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
     "link": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
     "published": "Mon, 18 May 2026 20:48:21 +0000",
-    "summary": "Until this past weekend, a contractor for the Cybersecurity &#038; Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA systems. Security experts said the public archive included files detailing how CISA builds, tests and deploys software internally, and that it represents one of the most egregious government data leaks in recent history.",
-    "analysis": {
-      "issue": "Until this past weekend, a contractor for the Cybersecurity & Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA ",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
+    "summary": "Until this past weekend, a contractor for the Cybersecurity &#038; Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA systems. Security experts said the public archive included files detailing how CISA builds, tests and deploys software internally, and that it represents one of the most egregious government data leaks in recent history."
   },
   {
     "source": "Krebs On Security",
     "title": "Patch Tuesday, May 2026 Edition",
     "link": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
     "published": "Tue, 12 May 2026 21:46:45 +0000",
-    "summary": "Artificial intelligence platforms may be just as susceptible to social engineering as human beings, but they are proving remarkably good at finding security vulnerabilities in human-made computer code. That reality is on full display this month with some of the more widely-used software makers -- including Apple, Google, Microsoft, Mozilla and Oracle -- fixing near record volumes of security bugs, and/or quickening the tempo of their patch releases.",
+    "summary": "Artificial intelligence platforms may be just as susceptible to social engineering as human beings, but they are proving remarkably good at finding security vulnerabilities in human-made computer code. That reality is on full display this month with some of the more widely-used software makers -- including Apple, Google, Microsoft, Mozilla and Oracle -- fixing near record volumes of security bugs, and/or quickening the tempo of their patch releases."
+  },
+  {
+    "source": "Security Week",
+    "title": "Amazon Q Flaw Enabled Cloud Credential Theft via Malicious Repositories",
+    "link": "https://www.securityweek.com/amazon-q-flaw-enabled-cloud-credential-theft-via-malicious-repositories/",
+    "published": "Fri, 26 Jun 2026 15:23:46 +0000",
+    "summary": "<p>AWS has patched the vulnerability and published its own advisory to inform customers about the potential impact. </p>\n<p>The post <a href=\"https://www.securityweek.com/amazon-q-flaw-enabled-cloud-credential-theft-via-malicious-repositories/\">Amazon Q Flaw Enabled Cloud Credential Theft via Malicious Repositories</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
-      "issue": "Artificial intelligence platforms may be just as susceptible to social engineering as human beings, but they are proving remarkably good at finding security vulnerabilities in human-made computer code",
+      "issue": "AWS has patched the vulnerability and published its own advisory to inform customers about the potential impact",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Critical",
-      "cves": [],
+      "severity": "High",
+      "cves": [
+        "CVE-2026-12958",
+        "CVE-2026-12957"
+      ],
       "threat_categories": [
         "Vulnerability",
-        "Malware"
+        "Phishing",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "More Klue Breach Victims Identified as Hackers Get Hacked",
+    "link": "https://www.securityweek.com/more-klue-breach-victims-identified-as-hackers-get-hacked/",
+    "published": "Fri, 26 Jun 2026 15:01:33 +0000",
+    "summary": "<p>Roughly two dozen companies have notified their customers of the Klue-Salesforce incident impact.</p>\n<p>The post <a href=\"https://www.securityweek.com/more-klue-breach-victims-identified-as-hackers-get-hacked/\">More Klue Breach Victims Identified as Hackers Get Hacked</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Roughly two dozen companies have notified their customers of the Klue-Salesforce incident impact",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Supply Chain"
       ]
     }
   },
@@ -723,45 +744,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Runlayer Raises $30 Million in Series A Funding",
-    "link": "https://www.securityweek.com/runlayer-raises-30-million-in-series-a-funding/",
-    "published": "Thu, 25 Jun 2026 12:39:50 +0000",
-    "summary": "<p>The startup’s platform functions as a secure control layer, aiming to secure AI tools across enterprises.</p>\n<p>The post <a href=\"https://www.securityweek.com/runlayer-raises-30-million-in-series-a-funding/\">Runlayer Raises $30 Million in Series A Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The startup’s platform functions as a secure control layer, aiming to secure AI tools across enterprises",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Cal Water Says No OT Systems Breached in Iranian Handala Cyberattack",
-    "link": "https://www.securityweek.com/cal-water-finds-no-evidence-of-ot-activity-after-hackers-claimed-they-could-disrupt-water-supply/",
-    "published": "Thu, 25 Jun 2026 12:07:00 +0000",
-    "summary": "<p>Mandiant has helped the California water utility investigate the cyberattack launched by Iranian hacker group Handala.</p>\n<p>The post <a href=\"https://www.securityweek.com/cal-water-finds-no-evidence-of-ot-activity-after-hackers-claimed-they-could-disrupt-water-supply/\">Cal Water Says No OT Systems Breached in Iranian Handala Cyberattack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Mandiant has helped the California water utility investigate the cyberattack launched by Iranian hacker group Handala",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability",
-        "Malware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Beyond IOCs: AI-enabled threat intelligence",
     "link": "https://blog.talosintelligence.com/beyond-iocs-ai-enabled-threat-intelligence/",
@@ -864,15 +846,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-44803",
+        "CVE-2026-44801",
         "CVE-2026-47289",
         "CVE-2026-42992",
-        "CVE-2026-42985",
         "CVE-2026-44799",
-        "CVE-2026-44801",
+        "CVE-2026-47291",
+        "CVE-2026-42985",
         "CVE-2026-48563",
-        "CVE-2026-44812",
-        "CVE-2026-47291"
+        "CVE-2026-44803",
+        "CVE-2026-44812"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1298,8 +1280,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",

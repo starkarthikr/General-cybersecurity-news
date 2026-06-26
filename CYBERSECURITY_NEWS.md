@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-26 14:36:14 UTC
+**Last Updated:** 2026-06-26 18:09:54 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries](https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html)
+### 1. [Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign](https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 26 Jun 2026 21:51:25 +0530  
+**Severity:** Low  
+**Categories:** Malware, APT  
+
+---
+
+### 2. [New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries](https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 26 Jun 2026 19:27:55 +0530  
@@ -14,7 +23,7 @@
 
 ---
 
-### 2. [Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs](https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html)
+### 3. [Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs](https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 26 Jun 2026 19:23:00 +0530  
@@ -24,7 +33,7 @@
 
 ---
 
-### 3. [CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue](https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html)
+### 4. [CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue](https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 26 Jun 2026 18:01:56 +0530  
@@ -34,7 +43,7 @@
 
 ---
 
-### 4. [New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets](https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html)
+### 5. [New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets](https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 26 Jun 2026 17:21:35 +0530  
@@ -44,7 +53,7 @@
 
 ---
 
-### 5. [Guardian Agents: The Next Layer of Identity Governance](https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html)
+### 6. [Guardian Agents: The Next Layer of Identity Governance](https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 26 Jun 2026 17:00:00 +0530  
@@ -53,7 +62,7 @@
 
 ---
 
-### 6. [Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack](https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html)
+### 7. [Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack](https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 26 Jun 2026 16:35:45 +0530  
@@ -62,7 +71,7 @@
 
 ---
 
-### 7. [Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant](https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html)
+### 8. [Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant](https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 26 Jun 2026 14:57:12 +0530  
@@ -71,7 +80,7 @@
 
 ---
 
-### 8. [Russia Used Cellebrite on Jailed Activist's iPhone Months After Sales Cutoff](https://thehackernews.com/2026/06/russia-used-cellebrite-on-jailed.html)
+### 9. [Russia Used Cellebrite on Jailed Activist's iPhone Months After Sales Cutoff](https://thehackernews.com/2026/06/russia-used-cellebrite-on-jailed.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 26 Jun 2026 14:19:35 +0530  
@@ -80,7 +89,7 @@
 
 ---
 
-### 9. [Google Details Turla's New STOCKSTAY Backdoor Used in Ukraine Espionage Attacks](https://thehackernews.com/2026/06/google-details-turlas-new-stockstay.html)
+### 10. [Google Details Turla's New STOCKSTAY Backdoor Used in Ukraine Espionage Attacks](https://thehackernews.com/2026/06/google-details-turlas-new-stockstay.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 26 Jun 2026 12:45:46 +0530  
@@ -89,16 +98,25 @@
 
 ---
 
-### 10. [Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability](https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html)
+### 11. [Polymarket customers lose $3 million in supply-chain attack](https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 25 Jun 2026 19:42:52 +0530  
+**Source:** Bleeping Computer  
+**Published:** Fri, 26 Jun 2026 14:04:12 -0400  
+**Severity:** Low  
+**Categories:** Supply Chain  
+
+---
+
+### 12. [Cybersecurity firms targeted by fraudulent OpenAI organization invites](https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 26 Jun 2026 13:49:07 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 11. [Your First GRC Agent: A Red Teamer's Walkthrough](https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/)
+### 13. [Your First GRC Agent: A Red Teamer's Walkthrough](https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 26 Jun 2026 10:01:11 -0400  
@@ -107,7 +125,7 @@
 
 ---
 
-### 12. [Anthropic is testing desktop-like Claude Cowork for mobile](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-desktop-like-claude-cowork-for-mobile/)
+### 14. [Anthropic is testing desktop-like Claude Cowork for mobile](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-desktop-like-claude-cowork-for-mobile/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 25 Jun 2026 18:53:32 -0400  
@@ -116,7 +134,7 @@
 
 ---
 
-### 13. [Poland busts SIM-swapping gang tied to millions in crypto theft](https://www.bleepingcomputer.com/news/security/poland-busts-sim-swapping-gang-tied-to-millions-in-crypto-theft/)
+### 15. [Poland busts SIM-swapping gang tied to millions in crypto theft](https://www.bleepingcomputer.com/news/security/poland-busts-sim-swapping-gang-tied-to-millions-in-crypto-theft/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 25 Jun 2026 18:37:42 -0400  
@@ -125,7 +143,7 @@
 
 ---
 
-### 14. [Order-tracking app Shop abused to push callback phishing attacks](https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/)
+### 16. [Order-tracking app Shop abused to push callback phishing attacks](https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 25 Jun 2026 15:45:48 -0400  
@@ -134,7 +152,7 @@
 
 ---
 
-### 15. [Microsoft quietly extends free Windows 10 ESU support to October 2027](https://www.bleepingcomputer.com/news/microsoft/microsoft-quietly-extends-free-windows-10-esu-support-to-october-2027/)
+### 17. [Microsoft quietly extends free Windows 10 ESU support to October 2027](https://www.bleepingcomputer.com/news/microsoft/microsoft-quietly-extends-free-windows-10-esu-support-to-october-2027/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 25 Jun 2026 14:29:20 -0400  
@@ -143,7 +161,7 @@
 
 ---
 
-### 16. [New macOS malware embeds fake errors to confuse AI analysis tools](https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/)
+### 18. [New macOS malware embeds fake errors to confuse AI analysis tools](https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 25 Jun 2026 12:23:19 -0400  
@@ -152,7 +170,7 @@
 
 ---
 
-### 17. [PirloTV sports piracy network disrupted as 44 domains seized](https://www.bleepingcomputer.com/news/security/pirlotv-sports-piracy-network-disrupted-as-44-domains-seized/)
+### 19. [PirloTV sports piracy network disrupted as 44 domains seized](https://www.bleepingcomputer.com/news/security/pirlotv-sports-piracy-network-disrupted-as-44-domains-seized/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 25 Jun 2026 11:36:56 -0400  
@@ -161,28 +179,10 @@
 
 ---
 
-### 18. [Bluekit phishing kit adopts browser-in-the-middle for login theft](https://www.bleepingcomputer.com/news/security/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft/)
+### 20. [Bluekit phishing kit adopts browser-in-the-middle for login theft](https://www.bleepingcomputer.com/news/security/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 25 Jun 2026 11:00:00 -0400  
-**Severity:** Low  
-**Categories:** Phishing  
-
----
-
-### 19. [The Four Elevations of Effective Fraud Prevention](https://www.bleepingcomputer.com/news/security/the-four-elevations-of-effective-fraud-prevention/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 25 Jun 2026 10:01:11 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [Webinar: Why account takeovers remain one of the hardest threats to stop](https://www.bleepingcomputer.com/news/security/webinar-why-account-takeovers-remain-one-of-the-hardest-threats-to-stop/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 25 Jun 2026 08:12:20 -0400  
 **Severity:** Low  
 **Categories:** Phishing  
 
@@ -220,7 +220,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-49160, CVE-2026-45586, CVE-2026-50507  
+**CVEs:** CVE-2026-45586, CVE-2026-49160, CVE-2026-50507  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -265,8 +265,6 @@
 
 **Source:** Krebs On Security  
 **Published:** Mon, 18 May 2026 20:48:21 +0000  
-**Severity:** High  
-**Categories:** Data Breach  
 
 ---
 
@@ -274,12 +272,29 @@
 
 **Source:** Krebs On Security  
 **Published:** Tue, 12 May 2026 21:46:45 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, Malware  
 
 ---
 
-### 31. [In Other News: Chinese Mythos-Like AI, Tata Electronics Breach, Snyk Layoffs](https://www.securityweek.com/in-other-news-chinese-mythos-like-ai-tata-electronics-breach-snyk-layoffs/)
+### 31. [Amazon Q Flaw Enabled Cloud Credential Theft via Malicious Repositories](https://www.securityweek.com/amazon-q-flaw-enabled-cloud-credential-theft-via-malicious-repositories/)
+
+**Source:** Security Week  
+**Published:** Fri, 26 Jun 2026 15:23:46 +0000  
+**Severity:** High  
+**CVEs:** CVE-2026-12958, CVE-2026-12957  
+**Categories:** Vulnerability, Phishing, APT  
+
+---
+
+### 32. [More Klue Breach Victims Identified as Hackers Get Hacked](https://www.securityweek.com/more-klue-breach-victims-identified-as-hackers-get-hacked/)
+
+**Source:** Security Week  
+**Published:** Fri, 26 Jun 2026 15:01:33 +0000  
+**Severity:** Low  
+**Categories:** Ransomware, Data Breach, Supply Chain  
+
+---
+
+### 33. [In Other News: Chinese Mythos-Like AI, Tata Electronics Breach, Snyk Layoffs](https://www.securityweek.com/in-other-news-chinese-mythos-like-ai-tata-electronics-breach-snyk-layoffs/)
 
 **Source:** Security Week  
 **Published:** Fri, 26 Jun 2026 14:30:00 +0000  
@@ -288,7 +303,7 @@
 
 ---
 
-### 32. [Nebulock Raises $25 Million for AI-Native Contextual Security](https://www.securityweek.com/nebulock-raises-25-million-for-ai-native-contextual-security/)
+### 34. [Nebulock Raises $25 Million for AI-Native Contextual Security](https://www.securityweek.com/nebulock-raises-25-million-for-ai-native-contextual-security/)
 
 **Source:** Security Week  
 **Published:** Fri, 26 Jun 2026 12:37:13 +0000  
@@ -297,7 +312,7 @@
 
 ---
 
-### 33. [Linux Foundation Unveils New Open Source Security Project Akrites](https://www.securityweek.com/linux-foundation-unveils-new-open-source-security-project-akrites/)
+### 35. [Linux Foundation Unveils New Open Source Security Project Akrites](https://www.securityweek.com/linux-foundation-unveils-new-open-source-security-project-akrites/)
 
 **Source:** Security Week  
 **Published:** Fri, 26 Jun 2026 11:28:20 +0000  
@@ -306,7 +321,7 @@
 
 ---
 
-### 34. [$3 Million Reportedly Stolen in Polymarket Hack](https://www.securityweek.com/3-million-reportedly-stolen-in-polymarket-hack/)
+### 36. [$3 Million Reportedly Stolen in Polymarket Hack](https://www.securityweek.com/3-million-reportedly-stolen-in-polymarket-hack/)
 
 **Source:** Security Week  
 **Published:** Fri, 26 Jun 2026 09:47:35 +0000  
@@ -315,7 +330,7 @@
 
 ---
 
-### 35. [Russian APT Deploys ‘StockStay’ Backdoor Against Ukrainian Targets](https://www.securityweek.com/russian-apt-deploys-stockstay-backdoor-against-ukrainian-targets/)
+### 37. [Russian APT Deploys ‘StockStay’ Backdoor Against Ukrainian Targets](https://www.securityweek.com/russian-apt-deploys-stockstay-backdoor-against-ukrainian-targets/)
 
 **Source:** Security Week  
 **Published:** Fri, 26 Jun 2026 08:55:08 +0000  
@@ -325,7 +340,7 @@
 
 ---
 
-### 36. [First-Ever Exploitation of PTC Windchill Vulnerability Discovered in the Wild](https://www.securityweek.com/first-ever-exploitation-of-ptc-windchill-vulnerability-discovered-in-the-wild/)
+### 38. [First-Ever Exploitation of PTC Windchill Vulnerability Discovered in the Wild](https://www.securityweek.com/first-ever-exploitation-of-ptc-windchill-vulnerability-discovered-in-the-wild/)
 
 **Source:** Security Week  
 **Published:** Fri, 26 Jun 2026 08:15:21 +0000  
@@ -335,7 +350,7 @@
 
 ---
 
-### 37. [New Enterprise-Ready MCP Specification Brings New Security Challenges](https://www.securityweek.com/new-enterprise-ready-mcp-specification-brings-new-security-challenges/)
+### 39. [New Enterprise-Ready MCP Specification Brings New Security Challenges](https://www.securityweek.com/new-enterprise-ready-mcp-specification-brings-new-security-challenges/)
 
 **Source:** Security Week  
 **Published:** Fri, 26 Jun 2026 08:00:00 +0000  
@@ -344,30 +359,12 @@
 
 ---
 
-### 38. [Philip Martin Joins Uber as Chief Information Security Officer](https://www.securityweek.com/philip-martin-joins-uber-as-chief-information-security-officer/)
+### 40. [Philip Martin Joins Uber as Chief Information Security Officer](https://www.securityweek.com/philip-martin-joins-uber-as-chief-information-security-officer/)
 
 **Source:** Security Week  
 **Published:** Fri, 26 Jun 2026 05:13:00 +0000  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 39. [Runlayer Raises $30 Million in Series A Funding](https://www.securityweek.com/runlayer-raises-30-million-in-series-a-funding/)
-
-**Source:** Security Week  
-**Published:** Thu, 25 Jun 2026 12:39:50 +0000  
-**Severity:** High  
-**Categories:** General Security  
-
----
-
-### 40. [Cal Water Says No OT Systems Breached in Iranian Handala Cyberattack](https://www.securityweek.com/cal-water-finds-no-evidence-of-ot-activity-after-hackers-claimed-they-could-disrupt-water-supply/)
-
-**Source:** Security Week  
-**Published:** Thu, 25 Jun 2026 12:07:00 +0000  
-**Severity:** High  
-**Categories:** Data Breach, Vulnerability, Malware, Supply Chain  
 
 ---
 
@@ -421,7 +418,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-44803, CVE-2026-47289, CVE-2026-42992, CVE-2026-42985, CVE-2026-44799, CVE-2026-44801, CVE-2026-48563, CVE-2026-44812, CVE-2026-47291  
+**CVEs:** CVE-2026-44801, CVE-2026-47289, CVE-2026-42992, CVE-2026-44799, CVE-2026-47291, CVE-2026-42985, CVE-2026-48563, CVE-2026-44803, CVE-2026-44812  
 **Categories:** Vulnerability  
 
 ---
@@ -632,7 +629,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
