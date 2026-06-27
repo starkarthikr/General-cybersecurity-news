@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards",
+    "link": "https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html",
+    "published": "Sat, 27 Jun 2026 17:49:37 +0530",
+    "summary": "OpenAI on Friday released three versions of GPT-5.6, called Sol, Terra, and Luna, as a limited preview to a small number of companies as part of an ongoing engagement with the U.S. government.\n\nWhile Sol is the latest flagship model and the most powerful, Terra strikes a balance between efficiency and power, and Luna is fine-tuned for speed and affordability.\n\n\"GPT‑5.6 Sol launches with our most",
+    "analysis": {
+      "issue": "6 Sol, Terra, and Luna to approved partners, adding stronger safeguards for cyber defense use cases",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys",
     "link": "https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html",
     "published": "Sat, 27 Jun 2026 01:08:29 +0530",
@@ -169,24 +187,6 @@
       "threat_categories": [
         "Malware",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant",
-    "link": "https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html",
-    "published": "Fri, 26 Jun 2026 14:57:12 +0530",
-    "summary": "An active phishing campaign has been targeting hotel and other hospitality organizations across Europe and Asia since April 2026, using photo-themed ZIP files to drop a Node.js implant and dig into front-desk machines, Microsoft says.\n\nThe company has&nbsp;not attributed&nbsp;the activity to a known threat actor, and the operators' end goal is still unclear.\n\nThe lure plays to how hotels work.",
-    "analysis": {
-      "issue": "Microsoft says hotel phishing emails are using Calendly links and photo ZIP files to drop the TonRAT Node",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
       ]
     }
   },
@@ -442,9 +442,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50507",
+        "CVE-2026-49160",
         "CVE-2026-45586",
-        "CVE-2026-49160"
+        "CVE-2026-50507"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -495,7 +495,18 @@
     "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
     "link": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
     "published": "Fri, 22 May 2026 16:34:24 +0000",
-    "summary": "Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity &#038; Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account. The inquiry comes as CISA is still struggling to contain the breach and invalidate the leaked credentials."
+    "summary": "Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity &#038; Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account. The inquiry comes as CISA is still struggling to contain the breach and invalidate the leaked credentials.",
+    "analysis": {
+      "issue": "Lawmakers in both houses of Congress are demanding answers from the U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
   },
   {
     "source": "Krebs On Security",
@@ -550,6 +561,24 @@
       "threat_categories": [
         "Vulnerability",
         "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Chinese Framework Powers 200,000 Scam Sites",
+    "link": "https://www.securityweek.com/chinese-framework-powers-200000-scam-sites/",
+    "published": "Sat, 27 Jun 2026 12:13:51 +0000",
+    "summary": "<p>Threat actors are selling investment scam templates created using the legitimate DCloud Uni-App toolkit.</p>\n<p>The post <a href=\"https://www.securityweek.com/chinese-framework-powers-200000-scam-sites/\">Chinese Framework Powers 200,000 Scam Sites</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Threat actors are selling investment scam templates created using the legitimate DCloud Uni-App toolkit",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
       ]
     }
   },
@@ -710,8 +739,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-4681",
-        "CVE-2026-12569"
+        "CVE-2026-12569",
+        "CVE-2026-4681"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -736,24 +765,6 @@
         "Vulnerability",
         "Phishing",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Philip Martin Joins Uber as Chief Information Security Officer",
-    "link": "https://www.securityweek.com/philip-martin-joins-uber-as-chief-information-security-officer/",
-    "published": "Fri, 26 Jun 2026 05:13:00 +0000",
-    "summary": "<p>Martin brings experience from Coinbase, Palantir, Amazon, and the U.S. Army to lead Uber's cybersecurity and enterprise security organization.</p>\n<p>The post <a href=\"https://www.securityweek.com/philip-martin-joins-uber-as-chief-information-security-officer/\">Philip Martin Joins Uber as Chief Information Security Officer</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Martin brings experience from Coinbase, Palantir, Amazon, and the U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -860,15 +871,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-47291",
-        "CVE-2026-47289",
         "CVE-2026-42985",
-        "CVE-2026-44801",
+        "CVE-2026-47291",
         "CVE-2026-42992",
         "CVE-2026-44799",
         "CVE-2026-44812",
-        "CVE-2026-48563",
-        "CVE-2026-44803"
+        "CVE-2026-47289",
+        "CVE-2026-44801",
+        "CVE-2026-44803",
+        "CVE-2026-48563"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1294,8 +1305,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",

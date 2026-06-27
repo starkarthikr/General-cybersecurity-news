@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-27 10:33:24 UTC
+**Last Updated:** 2026-06-27 13:54:53 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys](https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html)
+### 1. [OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards](https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 27 Jun 2026 17:49:37 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys](https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 27 Jun 2026 01:08:29 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks](https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html)
+### 3. [New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks](https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 26 Jun 2026 23:47:46 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign](https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html)
+### 4. [Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign](https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 26 Jun 2026 21:51:25 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries](https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html)
+### 5. [New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries](https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 26 Jun 2026 19:27:55 +0530  
@@ -41,7 +50,7 @@
 
 ---
 
-### 5. [Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs](https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html)
+### 6. [Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs](https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 26 Jun 2026 19:23:00 +0530  
@@ -51,7 +60,7 @@
 
 ---
 
-### 6. [CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue](https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html)
+### 7. [CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue](https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 26 Jun 2026 18:01:56 +0530  
@@ -61,7 +70,7 @@
 
 ---
 
-### 7. [New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets](https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html)
+### 8. [New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets](https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 26 Jun 2026 17:21:35 +0530  
@@ -71,7 +80,7 @@
 
 ---
 
-### 8. [Guardian Agents: The Next Layer of Identity Governance](https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html)
+### 9. [Guardian Agents: The Next Layer of Identity Governance](https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 26 Jun 2026 17:00:00 +0530  
@@ -80,21 +89,12 @@
 
 ---
 
-### 9. [Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack](https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html)
+### 10. [Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack](https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 26 Jun 2026 16:35:45 +0530  
 **Severity:** Low  
 **Categories:** Malware, Supply Chain  
-
----
-
-### 10. [Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant](https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 26 Jun 2026 14:57:12 +0530  
-**Severity:** Low  
-**Categories:** Phishing  
 
 ---
 
@@ -221,7 +221,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50507, CVE-2026-45586, CVE-2026-49160  
+**CVEs:** CVE-2026-49160, CVE-2026-45586, CVE-2026-50507  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -248,6 +248,8 @@
 
 **Source:** Krebs On Security  
 **Published:** Fri, 22 May 2026 16:34:24 +0000  
+**Severity:** Critical  
+**Categories:** Data Breach  
 
 ---
 
@@ -278,7 +280,16 @@
 
 ---
 
-### 31. [Amazon Q Flaw Enabled Cloud Credential Theft via Malicious Repositories](https://www.securityweek.com/amazon-q-flaw-enabled-cloud-credential-theft-via-malicious-repositories/)
+### 31. [Chinese Framework Powers 200,000 Scam Sites](https://www.securityweek.com/chinese-framework-powers-200000-scam-sites/)
+
+**Source:** Security Week  
+**Published:** Sat, 27 Jun 2026 12:13:51 +0000  
+**Severity:** High  
+**Categories:** Phishing  
+
+---
+
+### 32. [Amazon Q Flaw Enabled Cloud Credential Theft via Malicious Repositories](https://www.securityweek.com/amazon-q-flaw-enabled-cloud-credential-theft-via-malicious-repositories/)
 
 **Source:** Security Week  
 **Published:** Fri, 26 Jun 2026 15:23:46 +0000  
@@ -288,7 +299,7 @@
 
 ---
 
-### 32. [More Klue Breach Victims Identified as Hackers Get Hacked](https://www.securityweek.com/more-klue-breach-victims-identified-as-hackers-get-hacked/)
+### 33. [More Klue Breach Victims Identified as Hackers Get Hacked](https://www.securityweek.com/more-klue-breach-victims-identified-as-hackers-get-hacked/)
 
 **Source:** Security Week  
 **Published:** Fri, 26 Jun 2026 15:01:33 +0000  
@@ -297,7 +308,7 @@
 
 ---
 
-### 33. [In Other News: Chinese Mythos-Like AI, Tata Electronics Breach, Snyk Layoffs](https://www.securityweek.com/in-other-news-chinese-mythos-like-ai-tata-electronics-breach-snyk-layoffs/)
+### 34. [In Other News: Chinese Mythos-Like AI, Tata Electronics Breach, Snyk Layoffs](https://www.securityweek.com/in-other-news-chinese-mythos-like-ai-tata-electronics-breach-snyk-layoffs/)
 
 **Source:** Security Week  
 **Published:** Fri, 26 Jun 2026 14:30:00 +0000  
@@ -306,7 +317,7 @@
 
 ---
 
-### 34. [Nebulock Raises $25 Million for AI-Native Contextual Security](https://www.securityweek.com/nebulock-raises-25-million-for-ai-native-contextual-security/)
+### 35. [Nebulock Raises $25 Million for AI-Native Contextual Security](https://www.securityweek.com/nebulock-raises-25-million-for-ai-native-contextual-security/)
 
 **Source:** Security Week  
 **Published:** Fri, 26 Jun 2026 12:37:13 +0000  
@@ -315,7 +326,7 @@
 
 ---
 
-### 35. [Linux Foundation Unveils New Open Source Security Project Akrites](https://www.securityweek.com/linux-foundation-unveils-new-open-source-security-project-akrites/)
+### 36. [Linux Foundation Unveils New Open Source Security Project Akrites](https://www.securityweek.com/linux-foundation-unveils-new-open-source-security-project-akrites/)
 
 **Source:** Security Week  
 **Published:** Fri, 26 Jun 2026 11:28:20 +0000  
@@ -324,7 +335,7 @@
 
 ---
 
-### 36. [$3 Million Reportedly Stolen in Polymarket Hack](https://www.securityweek.com/3-million-reportedly-stolen-in-polymarket-hack/)
+### 37. [$3 Million Reportedly Stolen in Polymarket Hack](https://www.securityweek.com/3-million-reportedly-stolen-in-polymarket-hack/)
 
 **Source:** Security Week  
 **Published:** Fri, 26 Jun 2026 09:47:35 +0000  
@@ -333,7 +344,7 @@
 
 ---
 
-### 37. [Russian APT Deploys ‘StockStay’ Backdoor Against Ukrainian Targets](https://www.securityweek.com/russian-apt-deploys-stockstay-backdoor-against-ukrainian-targets/)
+### 38. [Russian APT Deploys ‘StockStay’ Backdoor Against Ukrainian Targets](https://www.securityweek.com/russian-apt-deploys-stockstay-backdoor-against-ukrainian-targets/)
 
 **Source:** Security Week  
 **Published:** Fri, 26 Jun 2026 08:55:08 +0000  
@@ -343,31 +354,22 @@
 
 ---
 
-### 38. [First-Ever Exploitation of PTC Windchill Vulnerability Discovered in the Wild](https://www.securityweek.com/first-ever-exploitation-of-ptc-windchill-vulnerability-discovered-in-the-wild/)
+### 39. [First-Ever Exploitation of PTC Windchill Vulnerability Discovered in the Wild](https://www.securityweek.com/first-ever-exploitation-of-ptc-windchill-vulnerability-discovered-in-the-wild/)
 
 **Source:** Security Week  
 **Published:** Fri, 26 Jun 2026 08:15:21 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-4681, CVE-2026-12569  
+**CVEs:** CVE-2026-12569, CVE-2026-4681  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
 
-### 39. [New Enterprise-Ready MCP Specification Brings New Security Challenges](https://www.securityweek.com/new-enterprise-ready-mcp-specification-brings-new-security-challenges/)
+### 40. [New Enterprise-Ready MCP Specification Brings New Security Challenges](https://www.securityweek.com/new-enterprise-ready-mcp-specification-brings-new-security-challenges/)
 
 **Source:** Security Week  
 **Published:** Fri, 26 Jun 2026 08:00:00 +0000  
 **Severity:** Critical  
 **Categories:** Vulnerability, Phishing, Supply Chain  
-
----
-
-### 40. [Philip Martin Joins Uber as Chief Information Security Officer](https://www.securityweek.com/philip-martin-joins-uber-as-chief-information-security-officer/)
-
-**Source:** Security Week  
-**Published:** Fri, 26 Jun 2026 05:13:00 +0000  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -421,7 +423,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-47291, CVE-2026-47289, CVE-2026-42985, CVE-2026-44801, CVE-2026-42992, CVE-2026-44799, CVE-2026-44812, CVE-2026-48563, CVE-2026-44803  
+**CVEs:** CVE-2026-42985, CVE-2026-47291, CVE-2026-42992, CVE-2026-44799, CVE-2026-44812, CVE-2026-47289, CVE-2026-44801, CVE-2026-44803, CVE-2026-48563  
 **Categories:** Vulnerability  
 
 ---
@@ -632,7 +634,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
