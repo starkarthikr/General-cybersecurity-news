@@ -1,6 +1,43 @@
 [
   {
     "source": "The Hacker News",
+    "title": "FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys",
+    "link": "https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html",
+    "published": "Sat, 27 Jun 2026 01:08:29 +0530",
+    "summary": "The FBI and CISA have updated&nbsp;their March warning&nbsp;about Russian intelligence phishing Signal accounts, and the operators have added a step: they now coax targets into handing over their Signal Backup Recovery Key.\n\nHand it over once, and the attacker can restore the account's backup, read the private and group message history, and take over the account. Worse, the key keeps working.",
+    "analysis": {
+      "issue": "Russian intelligence phishing now seeks Signal Backup Recovery Keys to restore message backups and take over Signal accounts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks",
+    "link": "https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html",
+    "published": "Fri, 26 Jun 2026 23:47:46 +0530",
+    "summary": "A newly discovered cyber attack campaign has been observed delivering a previously undocumented malware family called SharkLoader that acts as a loader for deploying Cobalt Strike Beacon on compromised hosts.\n\nKaspersky, which is tracking the activity under the moniker StrikeShark, said the campaign has targeted a diplomatic organization in Indonesia, government organizations in Taiwan,",
+    "analysis": {
+      "issue": "Kaspersky details StrikeShark, a likely Chinese-speaking campaign using SharkLoader, public CVE exploits, and droppers to deploy Cobalt Strike",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign",
     "link": "https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html",
     "published": "Fri, 26 Jun 2026 21:51:25 +0530",
@@ -154,39 +191,40 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Russia Used Cellebrite on Jailed Activist's iPhone Months After Sales Cutoff",
-    "link": "https://thehackernews.com/2026/06/russia-used-cellebrite-on-jailed.html",
-    "published": "Fri, 26 Jun 2026 14:19:35 +0530",
-    "summary": "Russian authorities used Cellebrite's UFED forensic tools to break into the iPhone of detained opposition activist Andrey Pivovarov in June 2021, three months after Cellebrite said it would stop selling its tools and services to Russia and Belarus.\n\nThe finding, published&nbsp;June 25 by the Citizen Lab, rests on two things that rarely line up: traces on the phone itself and an official Russian",
+    "source": "Bleeping Computer",
+    "title": "FBI: Russian hackers now target Signal backup recovery keys",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/",
+    "published": "Fri, 26 Jun 2026 18:06:17 -0400",
+    "summary": "The FBI and CISA are warning that a phishing campaign targeting Signal users tied to Russian intelligence services has evolved to steal Signal Backup Recovery Keys, allowing attackers to access victims' historical messages. [...]",
     "analysis": {
-      "issue": "Citizen Lab says Russian authorities used Cellebrite UFED on Andrey Pivovarov’s seized iPhone after Cellebrite’s 2021 Russia exit",
+      "issue": "The FBI and CISA are warning that a phishing campaign targeting Signal users tied to Russian intelligence services has evolved to steal Signal Backup Recovery Keys, allowing attackers to access victims' historical messages",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Phishing"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Google Details Turla's New STOCKSTAY Backdoor Used in Ukraine Espionage Attacks",
-    "link": "https://thehackernews.com/2026/06/google-details-turlas-new-stockstay.html",
-    "published": "Fri, 26 Jun 2026 12:45:46 +0530",
-    "summary": "The Russian state-sponsored threat actor known as Turla has been attributed to a previously undocumented .NET backdoor called STOCKSTAY that has been deployed against government and military organizations in Ukraine, and entities that have an interest in Italian foreign policy.\n\nDescribing the Windows backdoor as continually developed by the hacking group, Google Threat Intelligence Group (",
+    "source": "Bleeping Computer",
+    "title": "CISA sets urgent deadline to fix Cisco flaw exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/",
+    "published": "Fri, 26 Jun 2026 15:43:06 -0400",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is giving federal agencies until Sunday to patch a vulnerability in Cisco Unified Communications Manager Server that is being actively exploited. [...]",
     "analysis": {
-      "issue": "Google links Turla to STOCKSTAY, a new",
+      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) is giving federal agencies until Sunday to patch a vulnerability in Cisco Unified Communications Manager Server that is being actively exploited",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-20230"
+      ],
       "threat_categories": [
-        "Malware",
-        "Phishing"
+        "Vulnerability"
       ]
     }
   },
@@ -335,42 +373,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "PirloTV sports piracy network disrupted as 44 domains seized",
-    "link": "https://www.bleepingcomputer.com/news/security/pirlotv-sports-piracy-network-disrupted-as-44-domains-seized/",
-    "published": "Thu, 25 Jun 2026 11:36:56 -0400",
-    "summary": "A major sports piracy ring linked to the illegal PirloTV streaming platform has been disrupted in an action that targeted 44 domains. [...]",
-    "analysis": {
-      "issue": "A major sports piracy ring linked to the illegal PirloTV streaming platform has been disrupted in an action that targeted 44 domains",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Bluekit phishing kit adopts browser-in-the-middle for login theft",
-    "link": "https://www.bleepingcomputer.com/news/security/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft/",
-    "published": "Thu, 25 Jun 2026 11:00:00 -0400",
-    "summary": "The Bluekit phishing-as-a-service platform continues to evolve with nearly 70 new hostnames identified over the past week and by adding browser-in-the-middle capabilities for improved data theft. [...]",
-    "analysis": {
-      "issue": "The Bluekit phishing-as-a-service platform continues to evolve with nearly 70 new hostnames identified over the past week, and by adding browser-in-the-middle (BitM) capabilities for improved data theft",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
     "link": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
@@ -440,8 +442,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-45586",
         "CVE-2026-49160",
+        "CVE-2026-45586",
         "CVE-2026-50507"
       ],
       "threat_categories": [
@@ -530,14 +532,37 @@
     "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
     "link": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
     "published": "Mon, 18 May 2026 20:48:21 +0000",
-    "summary": "Until this past weekend, a contractor for the Cybersecurity &#038; Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA systems. Security experts said the public archive included files detailing how CISA builds, tests and deploys software internally, and that it represents one of the most egregious government data leaks in recent history."
+    "summary": "Until this past weekend, a contractor for the Cybersecurity &#038; Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA systems. Security experts said the public archive included files detailing how CISA builds, tests and deploys software internally, and that it represents one of the most egregious government data leaks in recent history.",
+    "analysis": {
+      "issue": "Until this past weekend, a contractor for the Cybersecurity & Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA ",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
   },
   {
     "source": "Krebs On Security",
     "title": "Patch Tuesday, May 2026 Edition",
     "link": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
     "published": "Tue, 12 May 2026 21:46:45 +0000",
-    "summary": "Artificial intelligence platforms may be just as susceptible to social engineering as human beings, but they are proving remarkably good at finding security vulnerabilities in human-made computer code. That reality is on full display this month with some of the more widely-used software makers -- including Apple, Google, Microsoft, Mozilla and Oracle -- fixing near record volumes of security bugs, and/or quickening the tempo of their patch releases."
+    "summary": "Artificial intelligence platforms may be just as susceptible to social engineering as human beings, but they are proving remarkably good at finding security vulnerabilities in human-made computer code. That reality is on full display this month with some of the more widely-used software makers -- including Apple, Google, Microsoft, Mozilla and Oracle -- fixing near record volumes of security bugs, and/or quickening the tempo of their patch releases.",
+    "analysis": {
+      "issue": "Artificial intelligence platforms may be just as susceptible to social engineering as human beings, but they are proving remarkably good at finding security vulnerabilities in human-made computer code",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
   },
   {
     "source": "Security Week",
@@ -552,8 +577,8 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-12958",
-        "CVE-2026-12957"
+        "CVE-2026-12957",
+        "CVE-2026-12958"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -846,15 +871,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-44799",
+        "CVE-2026-48563",
+        "CVE-2026-42985",
+        "CVE-2026-44803",
         "CVE-2026-44801",
+        "CVE-2026-44812",
         "CVE-2026-47289",
         "CVE-2026-42992",
-        "CVE-2026-44799",
-        "CVE-2026-47291",
-        "CVE-2026-42985",
-        "CVE-2026-48563",
-        "CVE-2026-44803",
-        "CVE-2026-44812"
+        "CVE-2026-47291"
       ],
       "threat_categories": [
         "Vulnerability"
