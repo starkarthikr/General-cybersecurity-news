@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-27 03:58:13 UTC
+**Last Updated:** 2026-06-27 04:34:49 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -221,7 +221,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-49160, CVE-2026-45586, CVE-2026-50507  
+**CVEs:** CVE-2026-45586, CVE-2026-50507, CVE-2026-49160  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -423,7 +423,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-44799, CVE-2026-48563, CVE-2026-42985, CVE-2026-44803, CVE-2026-44801, CVE-2026-44812, CVE-2026-47289, CVE-2026-42992, CVE-2026-47291  
+**CVEs:** CVE-2026-44803, CVE-2026-42992, CVE-2026-44799, CVE-2026-42985, CVE-2026-47291, CVE-2026-48563, CVE-2026-44812, CVE-2026-47289, CVE-2026-44801  
 **Categories:** Vulnerability  
 
 ---
