@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-27 13:54:53 UTC
+**Last Updated:** 2026-06-27 17:37:52 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -98,7 +98,16 @@
 
 ---
 
-### 11. [FBI: Russian hackers now target Signal backup recovery keys](https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/)
+### 11. [Clean GitHub repo tricks AI coding agents into running malware](https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/)
+
+**Source:** Bleeping Computer  
+**Published:** Sat, 27 Jun 2026 10:22:36 -0400  
+**Severity:** Low  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 12. [FBI: Russian hackers now target Signal backup recovery keys](https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 26 Jun 2026 18:06:17 -0400  
@@ -107,7 +116,7 @@
 
 ---
 
-### 12. [CISA sets urgent deadline to fix Cisco flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/)
+### 13. [CISA sets urgent deadline to fix Cisco flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 26 Jun 2026 15:43:06 -0400  
@@ -117,7 +126,7 @@
 
 ---
 
-### 13. [Polymarket customers lose $3 million in supply-chain attack](https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/)
+### 14. [Polymarket customers lose $3 million in supply-chain attack](https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 26 Jun 2026 14:04:12 -0400  
@@ -126,7 +135,7 @@
 
 ---
 
-### 14. [Cybersecurity firms targeted by fraudulent OpenAI organization invites](https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/)
+### 15. [Cybersecurity firms targeted by fraudulent OpenAI organization invites](https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 26 Jun 2026 13:49:07 -0400  
@@ -135,7 +144,7 @@
 
 ---
 
-### 15. [Your First GRC Agent: A Red Teamer's Walkthrough](https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/)
+### 16. [Your First GRC Agent: A Red Teamer's Walkthrough](https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 26 Jun 2026 10:01:11 -0400  
@@ -144,7 +153,7 @@
 
 ---
 
-### 16. [Anthropic is testing desktop-like Claude Cowork for mobile](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-desktop-like-claude-cowork-for-mobile/)
+### 17. [Anthropic is testing desktop-like Claude Cowork for mobile](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-desktop-like-claude-cowork-for-mobile/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 25 Jun 2026 18:53:32 -0400  
@@ -153,7 +162,7 @@
 
 ---
 
-### 17. [Poland busts SIM-swapping gang tied to millions in crypto theft](https://www.bleepingcomputer.com/news/security/poland-busts-sim-swapping-gang-tied-to-millions-in-crypto-theft/)
+### 18. [Poland busts SIM-swapping gang tied to millions in crypto theft](https://www.bleepingcomputer.com/news/security/poland-busts-sim-swapping-gang-tied-to-millions-in-crypto-theft/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 25 Jun 2026 18:37:42 -0400  
@@ -162,7 +171,7 @@
 
 ---
 
-### 18. [Order-tracking app Shop abused to push callback phishing attacks](https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/)
+### 19. [Order-tracking app Shop abused to push callback phishing attacks](https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 25 Jun 2026 15:45:48 -0400  
@@ -171,21 +180,12 @@
 
 ---
 
-### 19. [Microsoft quietly extends free Windows 10 ESU support to October 2027](https://www.bleepingcomputer.com/news/microsoft/microsoft-quietly-extends-free-windows-10-esu-support-to-october-2027/)
+### 20. [Microsoft quietly extends free Windows 10 ESU support to October 2027](https://www.bleepingcomputer.com/news/microsoft/microsoft-quietly-extends-free-windows-10-esu-support-to-october-2027/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 25 Jun 2026 14:29:20 -0400  
 **Severity:** Critical  
 **Categories:** General Security  
-
----
-
-### 20. [New macOS malware embeds fake errors to confuse AI analysis tools](https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 25 Jun 2026 12:23:19 -0400  
-**Severity:** High  
-**Categories:** Malware  
 
 ---
 
@@ -221,7 +221,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-49160, CVE-2026-45586, CVE-2026-50507  
+**CVEs:** CVE-2026-49160, CVE-2026-50507, CVE-2026-45586  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -359,7 +359,7 @@
 **Source:** Security Week  
 **Published:** Fri, 26 Jun 2026 08:15:21 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-12569, CVE-2026-4681  
+**CVEs:** CVE-2026-4681, CVE-2026-12569  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -423,7 +423,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-42985, CVE-2026-47291, CVE-2026-42992, CVE-2026-44799, CVE-2026-44812, CVE-2026-47289, CVE-2026-44801, CVE-2026-44803, CVE-2026-48563  
+**CVEs:** CVE-2026-44799, CVE-2026-44812, CVE-2026-47289, CVE-2026-48563, CVE-2026-42992, CVE-2026-44803, CVE-2026-42985, CVE-2026-47291, CVE-2026-44801  
 **Categories:** Vulnerability  
 
 ---
