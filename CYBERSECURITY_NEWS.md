@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-29 15:56:30 UTC
+**Last Updated:** 2026-06-29 18:29:30 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [⚡ Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More](https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html)
+### 1. [WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private](https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 29 Jun 2026 21:39:21 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Mustang Panda Uses Zoho WorkDrive as Command Channel in Indian Government Attacks](https://thehackernews.com/2026/06/mustang-panda-uses-zoho-workdrive-as.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 29 Jun 2026 20:33:40 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [⚡ Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More](https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 29 Jun 2026 20:11:07 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [236,000 DCloud Uni-App Sites Used in Crypto Scams, Phishing, and Wallet Drainers](https://thehackernews.com/2026/06/236000-dcloud-uni-app-sites-used-in.html)
+### 4. [236,000 DCloud Uni-App Sites Used in Crypto Scams, Phishing, and Wallet Drainers](https://thehackernews.com/2026/06/236000-dcloud-uni-app-sites-used-in.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 29 Jun 2026 17:27:40 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [Why Post-Quantum Cryptography Starts With Credentials](https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html)
+### 5. [Why Post-Quantum Cryptography Starts With Credentials](https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 29 Jun 2026 17:12:16 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [Gamaredon Expands Ukraine Attacks with New Malware and Cloud Service Abuse](https://thehackernews.com/2026/06/gamaredon-expands-ukraine-attacks-with.html)
+### 6. [Gamaredon Expands Ukraine Attacks with New Malware and Cloud Service Abuse](https://thehackernews.com/2026/06/gamaredon-expands-ukraine-attacks-with.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 29 Jun 2026 17:10:24 +0530  
@@ -41,7 +59,7 @@
 
 ---
 
-### 5. [Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts](https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html)
+### 7. [Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts](https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 29 Jun 2026 14:02:31 +0530  
@@ -50,7 +68,7 @@
 
 ---
 
-### 6. [Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw](https://thehackernews.com/2026/06/public-poc-released-for-critical.html)
+### 8. [Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw](https://thehackernews.com/2026/06/public-poc-released-for-critical.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 29 Jun 2026 12:36:34 +0530  
@@ -60,7 +78,7 @@
 
 ---
 
-### 7. [Hijacked npm and Go Packages Use VS Code Tasks to Deploy Python Infostealer](https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html)
+### 9. [Hijacked npm and Go Packages Use VS Code Tasks to Deploy Python Infostealer](https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 29 Jun 2026 11:06:06 +0530  
@@ -69,7 +87,7 @@
 
 ---
 
-### 8. [Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials](https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html)
+### 10. [Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials](https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 27 Jun 2026 22:57:11 +0530  
@@ -78,25 +96,25 @@
 
 ---
 
-### 9. [OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards](https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html)
+### 11. [WhatsApp rolls out usernames to help users hide their phone number](https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-usernames-to-help-users-hide-their-phone-number/)
 
-**Source:** The Hacker News  
-**Published:** Sat, 27 Jun 2026 17:49:37 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 29 Jun 2026 13:48:28 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 10. [FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys](https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html)
+### 12. [Microsoft extends Windows Server 2022 hotpatching until October 2027](https://www.bleepingcomputer.com/news/microsoft/microsoft-extends-windows-server-2022-hotpatching-until-october-2027/)
 
-**Source:** The Hacker News  
-**Published:** Sat, 27 Jun 2026 01:08:29 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 29 Jun 2026 13:11:15 -0400  
 **Severity:** Low  
-**Categories:** Phishing  
+**Categories:** General Security  
 
 ---
 
-### 11. [U.S. offers $10 million for hackers targeting WhatsApp, Signal users](https://www.bleepingcomputer.com/news/security/us-offers-10-million-for-hackers-targeting-whatsapp-signal-users/)
+### 13. [U.S. offers $10 million for hackers targeting WhatsApp, Signal users](https://www.bleepingcomputer.com/news/security/us-offers-10-million-for-hackers-targeting-whatsapp-signal-users/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 29 Jun 2026 11:09:43 -0400  
@@ -105,7 +123,7 @@
 
 ---
 
-### 12. [Agentic AI Has an Identity Problem and Attackers Know It](https://www.bleepingcomputer.com/news/security/agentic-ai-has-an-identity-problem-and-attackers-know-it/)
+### 14. [Agentic AI Has an Identity Problem and Attackers Know It](https://www.bleepingcomputer.com/news/security/agentic-ai-has-an-identity-problem-and-attackers-know-it/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 29 Jun 2026 10:01:11 -0400  
@@ -114,7 +132,7 @@
 
 ---
 
-### 13. [Critical SimpleHelp flaw exploited to deploy new stealer malware](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-simplehelp-flaw-deploy-new-djinn-infostealer-taskweaver-malware/)
+### 15. [Critical SimpleHelp flaw exploited to deploy new stealer malware](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-simplehelp-flaw-deploy-new-djinn-infostealer-taskweaver-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 29 Jun 2026 10:00:00 -0400  
@@ -124,7 +142,7 @@
 
 ---
 
-### 14. [Hackers now exploit critical Oracle E-Business flaw in attacks](https://www.bleepingcomputer.com/news/security/new-oracle-e-business-suite-flaw-now-exploited-in-attacks/)
+### 16. [Hackers now exploit critical Oracle E-Business flaw in attacks](https://www.bleepingcomputer.com/news/security/new-oracle-e-business-suite-flaw-now-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 29 Jun 2026 09:46:17 -0400  
@@ -134,7 +152,7 @@
 
 ---
 
-### 15. [Webinar: Why business email compromise attacks keep succeeding](https://www.bleepingcomputer.com/news/security/webinar-why-business-email-compromise-attacks-keep-succeeding/)
+### 17. [Webinar: Why business email compromise attacks keep succeeding](https://www.bleepingcomputer.com/news/security/webinar-why-business-email-compromise-attacks-keep-succeeding/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 29 Jun 2026 08:14:22 -0400  
@@ -143,7 +161,7 @@
 
 ---
 
-### 16. [US seizes hundreds of FIFA World Cup illegal streaming domains](https://www.bleepingcomputer.com/news/security/us-seizes-hundreds-of-fifa-world-cup-illegal-streaming-domains/)
+### 18. [US seizes hundreds of FIFA World Cup illegal streaming domains](https://www.bleepingcomputer.com/news/security/us-seizes-hundreds-of-fifa-world-cup-illegal-streaming-domains/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 29 Jun 2026 07:21:03 -0400  
@@ -152,7 +170,7 @@
 
 ---
 
-### 17. [Data breach exposes up to 14.2 million email logins at six ISPs](https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/)
+### 19. [Data breach exposes up to 14.2 million email logins at six ISPs](https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 28 Jun 2026 10:13:46 -0400  
@@ -161,31 +179,12 @@
 
 ---
 
-### 18. [Clean GitHub repo tricks AI coding agents into running malware](https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/)
+### 20. [Clean GitHub repo tricks AI coding agents into running malware](https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 27 Jun 2026 10:22:36 -0400  
 **Severity:** Low  
 **Categories:** Vulnerability, Malware  
-
----
-
-### 19. [FBI: Russian hackers now target Signal backup recovery keys](https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 26 Jun 2026 18:06:17 -0400  
-**Severity:** High  
-**Categories:** Phishing  
-
----
-
-### 20. [CISA sets urgent deadline to fix Cisco flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 26 Jun 2026 15:43:06 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-20230  
-**Categories:** Vulnerability  
 
 ---
 
@@ -221,7 +220,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50507, CVE-2026-49160, CVE-2026-45586  
+**CVEs:** CVE-2026-49160, CVE-2026-45586, CVE-2026-50507  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -280,7 +279,16 @@
 
 ---
 
-### 31. [Researchers Demo New Claude Code Attack Using Harmless-Looking Repositories to Hijack Developer Machines](https://www.securityweek.com/new-attack-abuses-claude-code-and-harmless-looking-repositories-to-hijack-developer-machines/)
+### 31. [WhatsApp Rolling Out Username Feature to Bolster Phone Number Privacy](https://www.securityweek.com/whatsapp-rolling-out-username-feature-to-bolster-phone-number-privacy/)
+
+**Source:** Security Week  
+**Published:** Mon, 29 Jun 2026 16:00:01 +0000  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 32. [Researchers Demo New Claude Code Attack Using Harmless-Looking Repositories to Hijack Developer Machines](https://www.securityweek.com/new-attack-abuses-claude-code-and-harmless-looking-repositories-to-hijack-developer-machines/)
 
 **Source:** Security Week  
 **Published:** Mon, 29 Jun 2026 14:28:40 +0000  
@@ -289,7 +297,7 @@
 
 ---
 
-### 32. [Straiker Raises $64 Million for AI Security Platform](https://www.securityweek.com/straiker-raises-64-million-for-ai-security-platform/)
+### 33. [Straiker Raises $64 Million for AI Security Platform](https://www.securityweek.com/straiker-raises-64-million-for-ai-security-platform/)
 
 **Source:** Security Week  
 **Published:** Mon, 29 Jun 2026 14:07:34 +0000  
@@ -298,7 +306,7 @@
 
 ---
 
-### 33. [Insurance Regulators Group NAIC Hit in Oracle PeopleSoft Hack](https://www.securityweek.com/insurance-regulators-group-naic-hit-in-oracle-peoplesoft-hack/)
+### 34. [Insurance Regulators Group NAIC Hit in Oracle PeopleSoft Hack](https://www.securityweek.com/insurance-regulators-group-naic-hit-in-oracle-peoplesoft-hack/)
 
 **Source:** Security Week  
 **Published:** Mon, 29 Jun 2026 13:42:28 +0000  
@@ -308,17 +316,17 @@
 
 ---
 
-### 34. [‘DirtyClone’ Linux Kernel Vulnerability Leads to Root Access](https://www.securityweek.com/dirtyclone-linux-kernel-vulnerability-leads-to-root-access/)
+### 35. [‘DirtyClone’ Linux Kernel Vulnerability Leads to Root Access](https://www.securityweek.com/dirtyclone-linux-kernel-vulnerability-leads-to-root-access/)
 
 **Source:** Security Week  
 **Published:** Mon, 29 Jun 2026 11:20:13 +0000  
 **Severity:** High  
-**CVEs:** CVE-2026-43503, CVE-2026-43500, CVE-2026-43284, CVE-2026-46300  
+**CVEs:** CVE-2026-43500, CVE-2026-46300, CVE-2026-43503, CVE-2026-43284  
 **Categories:** Vulnerability  
 
 ---
 
-### 35. [OpenAI and Anthropic Limit New AI Models to Trump-Approved Customers During Cybersecurity Review](https://www.securityweek.com/openai-and-anthropic-limit-new-ai-models-to-trump-approved-customers-during-cybersecurity-review/)
+### 36. [OpenAI and Anthropic Limit New AI Models to Trump-Approved Customers During Cybersecurity Review](https://www.securityweek.com/openai-and-anthropic-limit-new-ai-models-to-trump-approved-customers-during-cybersecurity-review/)
 
 **Source:** Security Week  
 **Published:** Mon, 29 Jun 2026 10:14:01 +0000  
@@ -327,7 +335,7 @@
 
 ---
 
-### 36. [US Offers $10 Million Bounty for Russian State Hackers as Messaging App Attacks Evolve](https://www.securityweek.com/us-offers-10-million-bounty-for-russian-state-hackers-as-messaging-app-attacks-evolve/)
+### 37. [US Offers $10 Million Bounty for Russian State Hackers as Messaging App Attacks Evolve](https://www.securityweek.com/us-offers-10-million-bounty-for-russian-state-hackers-as-messaging-app-attacks-evolve/)
 
 **Source:** Security Week  
 **Published:** Mon, 29 Jun 2026 09:29:34 +0000  
@@ -336,7 +344,7 @@
 
 ---
 
-### 37. [OpenAI Unveils GPT-5.6 Sol as Its Most Advanced Cybersecurity AI](https://www.securityweek.com/openai-unveils-gpt-5-6-sol-as-its-most-advanced-cybersecurity-ai/)
+### 38. [OpenAI Unveils GPT-5.6 Sol as Its Most Advanced Cybersecurity AI](https://www.securityweek.com/openai-unveils-gpt-5-6-sol-as-its-most-advanced-cybersecurity-ai/)
 
 **Source:** Security Week  
 **Published:** Mon, 29 Jun 2026 07:45:57 +0000  
@@ -345,7 +353,7 @@
 
 ---
 
-### 38. [Chinese Framework Powers 200,000 Scam Sites](https://www.securityweek.com/chinese-framework-powers-200000-scam-sites/)
+### 39. [Chinese Framework Powers 200,000 Scam Sites](https://www.securityweek.com/chinese-framework-powers-200000-scam-sites/)
 
 **Source:** Security Week  
 **Published:** Sat, 27 Jun 2026 12:13:51 +0000  
@@ -354,22 +362,13 @@
 
 ---
 
-### 39. [Amazon Q Flaw Enabled Cloud Credential Theft via Malicious Repositories](https://www.securityweek.com/amazon-q-flaw-enabled-cloud-credential-theft-via-malicious-repositories/)
+### 40. [Amazon Q Flaw Enabled Cloud Credential Theft via Malicious Repositories](https://www.securityweek.com/amazon-q-flaw-enabled-cloud-credential-theft-via-malicious-repositories/)
 
 **Source:** Security Week  
 **Published:** Fri, 26 Jun 2026 15:23:46 +0000  
 **Severity:** High  
-**CVEs:** CVE-2026-12957, CVE-2026-12958  
+**CVEs:** CVE-2026-12958, CVE-2026-12957  
 **Categories:** Vulnerability, Phishing, APT  
-
----
-
-### 40. [More Klue Breach Victims Identified as Hackers Get Hacked](https://www.securityweek.com/more-klue-breach-victims-identified-as-hackers-get-hacked/)
-
-**Source:** Security Week  
-**Published:** Fri, 26 Jun 2026 15:01:33 +0000  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach, Supply Chain  
 
 ---
 
@@ -423,7 +422,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-44803, CVE-2026-47291, CVE-2026-44812, CVE-2026-42992, CVE-2026-44801, CVE-2026-48563, CVE-2026-47289, CVE-2026-42985, CVE-2026-44799  
+**CVEs:** CVE-2026-42992, CVE-2026-42985, CVE-2026-44799, CVE-2026-47289, CVE-2026-44803, CVE-2026-47291, CVE-2026-44812, CVE-2026-48563, CVE-2026-44801  
 **Categories:** Vulnerability  
 
 ---
@@ -634,7 +633,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
