@@ -1,6 +1,102 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Why Post-Quantum Cryptography Starts With Credentials",
+    "link": "https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html",
+    "published": "Mon, 29 Jun 2026 17:12:16 +0530",
+    "summary": "Today’s encrypted data, such as credentials, may no longer remain confidential in the future because the public-key cryptography protecting it will soon be broken by quantum computers. Although no machine today can break elliptic curve cryptography or RSA, quantum hardware is advancing rapidly and will inevitably change how organizations protect their data. Ciphertext and credentials captured by",
+    "analysis": {
+      "issue": "Quantum computers will eventually break today’s encryption",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Gamaredon Expands Ukraine Attacks with New Malware and Cloud Service Abuse",
+    "link": "https://thehackernews.com/2026/06/gamaredon-expands-ukraine-attacks-with.html",
+    "published": "Mon, 29 Jun 2026 17:10:24 +0530",
+    "summary": "A Russian advanced persistent threat (APT) group has continued to evolve and expand its malware arsenal as part of its ongoing cyber onslaught against Ukraine throughout 2025.\n\nSlovakian cybersecurity company ESET said it observed 35 distinct spear-phishing campaigns mounted by Gamaredon against new targets, with most of them taking place in the second half of the year. Primary targets of these",
+    "analysis": {
+      "issue": "Gamaredon ran 35 spear-phishing campaigns against Ukraine in 2025, using new PowerShell tools, HTML smuggling, and CVE-2025-8088",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2025-8088"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts",
+    "link": "https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html",
+    "published": "Mon, 29 Jun 2026 14:02:31 +0530",
+    "summary": "Microsoft has shut down a long-running malicious extension operation on the Edge Add-ons store that hid its payloads inside ordinary image and font files, then woke up days after install to steal credentials and run ad fraud.\n\nThe company calls it&nbsp;StegoAd, a mash-up of steganography and adware, and ties 119 extensions to a single threat actor it says has been active since at least 2021.",
+    "analysis": {
+      "issue": "Microsoft removed 119 StegoAd Edge extensions that hid payloads in image and font files to steal credentials and run ad fraud",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw",
+    "link": "https://thehackernews.com/2026/06/public-poc-released-for-critical.html",
+    "published": "Mon, 29 Jun 2026 12:36:34 +0530",
+    "summary": "A public proof-of-concept is now out for CVE-2026-55200, a critical flaw in libssh2 that lets a malicious or compromised SSH server trigger memory corruption on a connecting client, with possible code execution. No credentials, no user interaction. The bug affects every release up to and including 1.11.1 and carries a CVSS 4.0 score of 9.2.\n\nlibssh2 is a client-side SSH library, not a server.",
+    "analysis": {
+      "issue": "A public PoC for CVE-2026-55200 exposes a critical libssh2 flaw that can let a malicious SSH server corrupt client memory",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-55200"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Hijacked npm and Go Packages Use VS Code Tasks to Deploy Python Infostealer",
+    "link": "https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html",
+    "published": "Mon, 29 Jun 2026 11:06:06 +0530",
+    "summary": "Cybersecurity researchers have uncovered two hijacked npm packages and a cluster of Go packages that are designed to deploy a Python-based information stealer on compromised Windows, Linux, and macOS hosts.\n\n\"This attack avoids the most common npm execution paths through lifecycle scripts, perhaps in an attempt to remain 'compatible' with npm v12's security hardenings,\" JFrog said in a",
+    "analysis": {
+      "issue": "Researchers found hijacked npm packages and 16 Go packages using fake font files and VS Code tasks to deploy a Python infostealer",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials",
     "link": "https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html",
     "published": "Sat, 27 Jun 2026 22:57:11 +0530",
@@ -92,100 +188,39 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries",
-    "link": "https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html",
-    "published": "Fri, 26 Jun 2026 19:27:55 +0530",
-    "summary": "A flaw in the Linux kernel's traffic-control subsystem can let a local unprivileged user gain root on affected systems.\n\nCVE-2026-46331, nicknamed \"pedit COW,\" is an out-of-bounds write in the packet-editing action (act_pedit) that corrupts shared page-cache memory. A&nbsp;public, working exploit&nbsp;appeared within a day of the CVE assignment on June 16. Red Hat&nbsp;rates the flaw as",
+    "source": "Bleeping Computer",
+    "title": "Webinar: Why business email compromise attacks keep succeeding",
+    "link": "https://www.bleepingcomputer.com/news/security/webinar-why-business-email-compromise-attacks-keep-succeeding/",
+    "published": "Mon, 29 Jun 2026 08:14:22 -0400",
+    "summary": "Business email compromise attacks increasingly rely on convincing impersonation rather than malware, making them harder for employees and traditional email defenses to detect. This webinar explores how behavioral AI can help identify sophisticated email threats and automate response workflows. [...]",
     "analysis": {
-      "issue": "CVE-2026-46331 lets local users gain root on affected Linux systems by corrupting page-cache memory through act_pedit",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-46331"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs",
-    "link": "https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html",
-    "published": "Fri, 26 Jun 2026 19:23:00 +0530",
-    "summary": "A high-severity flaw in Amazon Q Developer let a malicious repository run commands and steal a developer's cloud credentials. The path was short: a developer opens the repo, trusts the workspace, and Amazon Q does the rest. Amazon has patched it.\n\nTracked as&nbsp;CVE-2026-12957&nbsp;(CVSS 8.5), the bug sat in how Amazon's AI coding assistant handled Model Context Protocol (MCP) servers.\n\nWiz",
-    "analysis": {
-      "issue": "Amazon patched CVE-2026-12957, a high-severity Amazon Q Developer flaw that let malicious MCP config run commands and steal AWS credentials",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2026-12957"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue",
-    "link": "https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html",
-    "published": "Fri, 26 Jun 2026 18:01:56 +0530",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical remote code execution vulnerability impacting PTC Windchill PDMlink and PTC FlexPLM enterprise Product Data Management (PDM) and Product Lifecycle Management (PLM) software to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nThe vulnerability in question is",
-    "analysis": {
-      "issue": "CISA added CVE-2026-12569 to its KEV catalog as attackers exploit the PTC Windchill flaw to deploy JSP web shells",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-12569"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets",
-    "link": "https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html",
-    "published": "Fri, 26 Jun 2026 17:21:35 +0530",
-    "summary": "DirtyClone is a new Linux kernel privilege escalation in the DirtyFrag family.&nbsp;JFrog Security Research published a working exploit walkthrough&nbsp;for the flaw on June 25, the first public demonstration for this variant.\n\nTracked as&nbsp;CVE-2026-43503&nbsp;(CVSS 8.8), it lets a local user corrupt file-backed memory through a cloned network packet and gain root. The patch landed in",
-    "analysis": {
-      "issue": "DirtyClone, tracked as CVE-2026-43503, lets local users gain root by corrupting file-backed memory through cloned network packets",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-43503"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Guardian Agents: The Next Layer of Identity Governance",
-    "link": "https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html",
-    "published": "Fri, 26 Jun 2026 17:00:00 +0530",
-    "summary": "AI agents are moving through enterprise environments, inheriting permissions, traversing systems, and executing decisions at machine speed with minimal oversight. The identity infrastructure built to govern human access wasn't designed for autonomous actors, and the gap between what enterprises are deploying and what their governance programs actually cover is widening fast. This guide breaks",
-    "analysis": {
-      "issue": "Guardian agents monitor AI agent identities at runtime to reduce risks from inherited permissions, stale credentials, and prompt injection",
+      "issue": "Business email compromise (BEC) remains one of the most costly cyber threats facing organizations, with attackers increasingly relying on convincing impersonation rather than malware to trick employees into sending money, sharing sensitive informatio",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "US seizes hundreds of FIFA World Cup illegal streaming domains",
+    "link": "https://www.bleepingcomputer.com/news/security/us-seizes-hundreds-of-fifa-world-cup-illegal-streaming-domains/",
+    "published": "Mon, 29 Jun 2026 07:21:03 -0400",
+    "summary": "The U.S. Justice Department's Criminal Division has seized nearly 400 web domains used for illegally streaming matches at the FIFA World Cup. [...]",
+    "analysis": {
+      "issue": "Justice Department's Criminal Division has seized nearly 400 web domains used for illegally streaming matches at the FIFA World Cup",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
       ]
     }
   },
@@ -339,42 +374,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Poland busts SIM-swapping gang tied to millions in crypto theft",
-    "link": "https://www.bleepingcomputer.com/news/security/poland-busts-sim-swapping-gang-tied-to-millions-in-crypto-theft/",
-    "published": "Thu, 25 Jun 2026 18:37:42 -0400",
-    "summary": "Authorities in Poland have arrested four members of an organized cybercrime group accused of breaching telecommunications partners and hijacking email accounts to carry out SIM-swapping attacks. [...]",
-    "analysis": {
-      "issue": "Authorities in Poland have arrested four members of an organized cybercrime group accused of breaching telecommunications partners and hijacking email accounts to carry out SIM-swapping attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Order-tracking app Shop abused to push callback phishing attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/",
-    "published": "Thu, 25 Jun 2026 15:45:48 -0400",
-    "summary": "Threat actors are increasingly abusing Shop, the order-tracking app from Shopify, by adding fake purchase receipts in users' order histories to trick them into providing sensitive data or installing remote access software. [...]",
-    "analysis": {
-      "issue": "Threat actors are increasingly abusing Shop, the order-tracking app from Shopify, by adding fake purchase receipts in users' order histories to trick them into providing sensitive data or installing remote access software",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
     "link": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
@@ -444,9 +443,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-49160",
+        "CVE-2026-50507",
         "CVE-2026-45586",
-        "CVE-2026-50507"
+        "CVE-2026-49160"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -568,6 +567,86 @@
   },
   {
     "source": "Security Week",
+    "title": "‘DirtyClone’ Linux Kernel Vulnerability Leads to Root Access",
+    "link": "https://www.securityweek.com/dirtyclone-linux-kernel-vulnerability-leads-to-root-access/",
+    "published": "Mon, 29 Jun 2026 11:20:13 +0000",
+    "summary": "<p>A variant of DirtyFrag, the flaw allows unprivileged local users to manipulate the Linux page cache and gain root privileges.</p>\n<p>The post <a href=\"https://www.securityweek.com/dirtyclone-linux-kernel-vulnerability-leads-to-root-access/\">&#8216;DirtyClone&#8217; Linux Kernel Vulnerability Leads to Root Access</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "A variant of DirtyFrag, the flaw allows unprivileged local users to manipulate the Linux page cache and gain root privileges",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2026-43503",
+        "CVE-2026-43284",
+        "CVE-2026-46300",
+        "CVE-2026-43500"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "OpenAI and Anthropic Limit New AI Models to Trump-Approved Customers During Cybersecurity Review",
+    "link": "https://www.securityweek.com/openai-and-anthropic-limit-new-ai-models-to-trump-approved-customers-during-cybersecurity-review/",
+    "published": "Mon, 29 Jun 2026 10:14:01 +0000",
+    "summary": "<p>ChatGPT maker OpenAI said Friday it is restricting the release of its new artificial intelligence model at the request of President Donald Trump’s administration.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-and-anthropic-limit-new-ai-models-to-trump-approved-customers-during-cybersecurity-review/\">OpenAI and Anthropic Limit New AI Models to Trump-Approved Customers During Cybersecurity Review</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "ChatGPT maker OpenAI said Friday it is restricting the release of its new artificial intelligence model at the request of President Donald Trump’s administration",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "US Offers $10 Million Bounty for Russian State Hackers as Messaging App Attacks Evolve",
+    "link": "https://www.securityweek.com/us-offers-10-million-bounty-for-russian-state-hackers-as-messaging-app-attacks-evolve/",
+    "published": "Mon, 29 Jun 2026 09:29:34 +0000",
+    "summary": "<p>UNC5792 and UNC4221 have been targeting US government officials, military leaders, and allied personnel.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-offers-10-million-bounty-for-russian-state-hackers-as-messaging-app-attacks-evolve/\">US Offers $10 Million Bounty for Russian State Hackers as Messaging App Attacks Evolve</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "UNC5792 and UNC4221 have been targeting US government officials, military leaders, and allied personnel",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Phishing",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "OpenAI Unveils GPT-5.6 Sol as Its Most Advanced Cybersecurity AI",
+    "link": "https://www.securityweek.com/openai-unveils-gpt-5-6-sol-as-its-most-advanced-cybersecurity-ai/",
+    "published": "Mon, 29 Jun 2026 07:45:57 +0000",
+    "summary": "<p>The company says Sol matches competing systems like Mythos Preview while using only a third of the output tokens.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-unveils-gpt-5-6-sol-as-its-most-advanced-cybersecurity-ai/\">OpenAI Unveils GPT-5.6 Sol as Its Most Advanced Cybersecurity AI</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The company says Sol matches competing systems like Mythos Preview while using only a third of the output tokens",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Chinese Framework Powers 200,000 Scam Sites",
     "link": "https://www.securityweek.com/chinese-framework-powers-200000-scam-sites/",
     "published": "Sat, 27 Jun 2026 12:13:51 +0000",
@@ -597,8 +676,8 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-12957",
-        "CVE-2026-12958"
+        "CVE-2026-12958",
+        "CVE-2026-12957"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -681,91 +760,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "$3 Million Reportedly Stolen in Polymarket Hack",
-    "link": "https://www.securityweek.com/3-million-reportedly-stolen-in-polymarket-hack/",
-    "published": "Fri, 26 Jun 2026 09:47:35 +0000",
-    "summary": "<p>The decentralized prediction market said hackers targeted some of its users through a compromise of a third-party vendor.</p>\n<p>The post <a href=\"https://www.securityweek.com/3-million-reportedly-stolen-in-polymarket-hack/\">$3 Million Reportedly Stolen in Polymarket Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The decentralized prediction market said hackers targeted some of its users through a compromise of a third-party vendor",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Russian APT Deploys ‘StockStay’ Backdoor Against Ukrainian Targets",
-    "link": "https://www.securityweek.com/russian-apt-deploys-stockstay-backdoor-against-ukrainian-targets/",
-    "published": "Fri, 26 Jun 2026 08:55:08 +0000",
-    "summary": "<p>Turla has been using the backdoor against government and military organizations in Ukraine for espionage.</p>\n<p>The post <a href=\"https://www.securityweek.com/russian-apt-deploys-stockstay-backdoor-against-ukrainian-targets/\">Russian APT Deploys &#8216;StockStay&#8217; Backdoor Against Ukrainian Targets</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Turla has been using the backdoor against government and military organizations in Ukraine for espionage",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2025-8088"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Phishing",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "First-Ever Exploitation of PTC Windchill Vulnerability Discovered in the Wild",
-    "link": "https://www.securityweek.com/first-ever-exploitation-of-ptc-windchill-vulnerability-discovered-in-the-wild/",
-    "published": "Fri, 26 Jun 2026 08:15:21 +0000",
-    "summary": "<p>CISA has added the remote code execution flaw CVE-2026-12569 to its Known Exploited Vulnerabilities catalog.</p>\n<p>The post <a href=\"https://www.securityweek.com/first-ever-exploitation-of-ptc-windchill-vulnerability-discovered-in-the-wild/\">First-Ever Exploitation of PTC Windchill Vulnerability Discovered in the Wild</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "CISA has added the remote code execution flaw CVE-2026-12569 to its Known Exploited Vulnerabilities catalog",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-12569",
-        "CVE-2026-4681"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "New Enterprise-Ready MCP Specification Brings New Security Challenges",
-    "link": "https://www.securityweek.com/new-enterprise-ready-mcp-specification-brings-new-security-challenges/",
-    "published": "Fri, 26 Jun 2026 08:00:00 +0000",
-    "summary": "<p>A major overhaul of the Model Context Protocol shifts critical security responsibilities from the protocol itself to developers and platform operators.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-enterprise-ready-mcp-specification-brings-new-security-challenges/\">New Enterprise-Ready MCP Specification Brings New Security Challenges</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "A major overhaul of the Model Context Protocol shifts critical security responsibilities from the protocol itself to developers and platform operators",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Phishing",
         "Supply Chain"
       ]
     }
@@ -873,15 +867,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-44799",
+        "CVE-2026-48563",
+        "CVE-2026-44812",
+        "CVE-2026-47289",
         "CVE-2026-47291",
         "CVE-2026-42992",
-        "CVE-2026-48563",
-        "CVE-2026-44799",
-        "CVE-2026-47289",
         "CVE-2026-44801",
-        "CVE-2026-42985",
         "CVE-2026-44803",
-        "CVE-2026-44812"
+        "CVE-2026-42985"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1338,6 +1332,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "A week in security (June 22 &#8211; June 28)",
+    "link": "https://www.malwarebytes.com/blog/news/2026/06/a-week-in-security-june-22-june-28",
+    "published": "Mon, 29 Jun 2026 07:01:00 GMT",
+    "summary": "A list of topics we covered in the week of June 22 to June 28 of 2026",
+    "analysis": {
+      "issue": "Last week on Malwarebytes Labs: Stay safe",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Malware steals Chrome session cookies to take over your accounts",
     "link": "https://www.malwarebytes.com/blog/news/2026/06/malware-steals-chrome-session-cookies-to-take-over-your-accounts",
     "published": "Fri, 26 Jun 2026 12:44:01 GMT",
@@ -1492,24 +1504,6 @@
     "link": "https://www.malwarebytes.com/blog/threat-intel/2026/06/inside-the-dark-web-stolen-identities-for-95%c2%a2-malware-and-scams-for-hire",
     "published": "Tue, 23 Jun 2026 15:52:17 GMT",
     "summary": "We spent 48 hours exploring the dark web and found stolen identities, malware, scams, and a thriving cybercrime economy."
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Meta pauses controversial employee-tracking program after security review",
-    "link": "https://www.malwarebytes.com/blog/news/2026/06/meta-pauses-controversial-employee-tracking-program-after-security-review",
-    "published": "Tue, 23 Jun 2026 13:01:50 GMT",
-    "summary": "Meta has paused its controversial employee-tracking program. Unfortunately, employee privacy wasn't what stopped it.",
-    "analysis": {
-      "issue": "Meta has paused a controversial employee‑tracking program after an internal security review found that highly granular keystroke and screen‑capture data from staff laptops was far more widely accessible inside the company than intended",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "APT"
-      ]
-    }
   },
   {
     "source": "Crowdstrike Blog",
