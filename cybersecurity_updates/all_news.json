@@ -1,6 +1,43 @@
 [
   {
     "source": "The Hacker News",
+    "title": "⚡ Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More",
+    "link": "https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html",
+    "published": "Mon, 29 Jun 2026 20:11:07 +0530",
+    "summary": "This week was a reminder that attackers do not always need big tricks. One small mistake, one old access path, one missed patch, and suddenly the door is open.\n\nThe noise is not all noise, either. Forums are talking, researchers are finding easy cracks, and defenders have more cleanup waiting.\n\nHere’s the full Monday recap.\n\n⚡ Threat of the Week\n\nNew DirtyClone Linux Kernel Flaw Lets Local",
+    "analysis": {
+      "issue": "Weekly cybersecurity recap covers DirtyClone, PTC exploits, Gaslight malware, Turla, Operation Endgame, AI risks, and urgent CVEs",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "236,000 DCloud Uni-App Sites Used in Crypto Scams, Phishing, and Wallet Drainers",
+    "link": "https://thehackernews.com/2026/06/236000-dcloud-uni-app-sites-used-in.html",
+    "published": "Mon, 29 Jun 2026 17:27:40 +0530",
+    "summary": "New findings unearthed by Infoblox show that more than 236,000 websites are using investment scam templates built using a legitimate Chinese open-source, cross-platform application development framework called DCloud Uni-App.\n\nThe templates power bogus cryptocurrency exchanges, multi-language pig-butchering operations, WhatsApp phishing networks, fake gambling platforms, brand-impersonation",
+    "analysis": {
+      "issue": "Infoblox found 236,493 DCloud Uni-App domains powering crypto scams, WhatsApp phishing, fake gambling sites, and wallet drainers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Why Post-Quantum Cryptography Starts With Credentials",
     "link": "https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html",
     "published": "Mon, 29 Jun 2026 17:12:16 +0530",
@@ -150,18 +187,56 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks",
-    "link": "https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html",
-    "published": "Fri, 26 Jun 2026 23:47:46 +0530",
-    "summary": "A newly discovered cyber attack campaign has been observed delivering a previously undocumented malware family called SharkLoader that acts as a loader for deploying Cobalt Strike Beacon on compromised hosts.\n\nKaspersky, which is tracking the activity under the moniker StrikeShark, said the campaign has targeted a diplomatic organization in Indonesia, government organizations in Taiwan,",
+    "source": "Bleeping Computer",
+    "title": "U.S. offers $10 million for hackers targeting WhatsApp, Signal users",
+    "link": "https://www.bleepingcomputer.com/news/security/us-offers-10-million-for-hackers-targeting-whatsapp-signal-users/",
+    "published": "Mon, 29 Jun 2026 11:09:43 -0400",
+    "summary": "The U.S. Department of State is offering up to $10 million for information that helps identify or locate members of the UNC5792 and UNC4221 hacker groups, which are linked to Russia's intelligence and military services. [...]",
     "analysis": {
-      "issue": "Kaspersky details StrikeShark, a likely Chinese-speaking campaign using SharkLoader, public CVE exploits, and droppers to deploy Cobalt Strike",
+      "issue": "Department of State is offering up to $10 million for information that helps identify or locate members of the UNC5792 and UNC4221 hacker groups, which are linked to Russia's intelligence and military services",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Agentic AI Has an Identity Problem and Attackers Know It",
+    "link": "https://www.bleepingcomputer.com/news/security/agentic-ai-has-an-identity-problem-and-attackers-know-it/",
+    "published": "Mon, 29 Jun 2026 10:01:11 -0400",
+    "summary": "AI agents can access data, trigger workflows, and take action across enterprise systems. Token Security explains why governing these privileged identities is becoming essential for enterprise security. [...]",
+    "analysis": {
+      "issue": "By Itamar Apelblat, CEO and co-founder, Token Security Every major technology wave creates the same uncomfortable moment for security leaders",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Critical SimpleHelp flaw exploited to deploy new stealer malware",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-simplehelp-flaw-deploy-new-djinn-infostealer-taskweaver-malware/",
+    "published": "Mon, 29 Jun 2026 10:00:00 -0400",
+    "summary": "Hackers are exploiting a recently disclosed critical vulnerability (CVE-2026-48558) in SimpleHelp to deploy Djinn Stealer, a previously undocumented cross-platform information stealer targeting Windows, macOS, and Linux. [...]",
+    "analysis": {
+      "issue": "Hackers are exploiting a recently disclosed critical vulnerability (CVE-2026-48558) in SimpleHelp to deploy Djinn Stealer, a previously undocumented cross-platform information stealer targeting Windows, macOS, and Linux",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-48558"
+      ],
       "threat_categories": [
         "Vulnerability",
         "Malware"
@@ -169,21 +244,22 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign",
-    "link": "https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html",
-    "published": "Fri, 26 Jun 2026 21:51:25 +0530",
-    "summary": "A Chinese-speaking advanced persistent threat (APT) actor has been linked to a new custom backdoor called TinyRCT as part of cyber attacks aimed at government entities and critical infrastructure in Southeast Asia.\n\nThe activity, particularly aimed at state-owned enterprises in the energy and government sectors, has been attributed to a threat actor called CL-STA-1062, which Palo Alto Networks",
+    "source": "Bleeping Computer",
+    "title": "Hackers now exploit critical Oracle E-Business flaw in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/new-oracle-e-business-suite-flaw-now-exploited-in-attacks/",
+    "published": "Mon, 29 Jun 2026 09:46:17 -0400",
+    "summary": "Attackers have begun exploiting a critical vulnerability (CVE-2026-46817) in the Oracle E-Business Suite (EBS) financial application, according to threat intelligence company Defused. [...]",
     "analysis": {
-      "issue": "Unit 42 links CL-STA-1062 to TinyRCT, a custom",
+      "issue": "Attackers have begun exploiting a critical vulnerability (tracked as CVE-2026-46817) in the Oracle E-Business Suite (EBS) financial application, according to threat intelligence company Defused",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-46817"
+      ],
       "threat_categories": [
-        "Malware",
-        "APT"
+        "Vulnerability"
       ]
     }
   },
@@ -302,78 +378,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Polymarket customers lose $3 million in supply-chain attack",
-    "link": "https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/",
-    "published": "Fri, 26 Jun 2026 14:04:12 -0400",
-    "summary": "Polymarket says it will fully reimburse customers who lost an estimated $3 million after hackers injected a malicious script into the platform's frontend following a breach at a third-party vendor. [...]",
-    "analysis": {
-      "issue": "Polymarket says it will fully reimburse customers who lost an estimated $3 million after hackers injected a malicious script into the platform's frontend following a breach at a third-party vendor",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Cybersecurity firms targeted by fraudulent OpenAI organization invites",
-    "link": "https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/",
-    "published": "Fri, 26 Jun 2026 13:49:07 -0400",
-    "summary": "Threat actors are creating OpenAI tenants that impersonate legitimate companies and inviting employees to join them, in what appears to be a ploy to trick targets into submitting sensitive company information in chats and projects. [...]",
-    "analysis": {
-      "issue": "Threat actors are creating OpenAI tenants that impersonate legitimate companies and inviting employees to join them, in what appears to be a ploy to trick targets into submitting sensitive company information in chats and projects",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Your First GRC Agent: A Red Teamer's Walkthrough",
-    "link": "https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/",
-    "published": "Fri, 26 Jun 2026 10:01:11 -0400",
-    "summary": "AI won't replace GRC analysts, but it can eliminate much of the repetitive work they do. Anecdotes walks through building an agent that continuously monitors controls, identifies evidence gaps, and opens remediation tasks. [...]",
-    "analysis": {
-      "issue": "By Maril Vernon, GRC Engineering Evangelist, Anecdotes",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Anthropic is testing desktop-like Claude Cowork for mobile",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-desktop-like-claude-cowork-for-mobile/",
-    "published": "Thu, 25 Jun 2026 18:53:32 -0400",
-    "summary": "Anthropic appears to be testing Claude Cowork support on mobile, allowing you to manage long-running Claude tasks from your phone. [...]",
-    "analysis": {
-      "issue": "Anthropic appears to be testing Claude Cowork support on mobile, allowing you to manage long-running Claude tasks from your phone",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
     "link": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
@@ -444,8 +448,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-50507",
-        "CVE-2026-45586",
-        "CVE-2026-49160"
+        "CVE-2026-49160",
+        "CVE-2026-45586"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -567,6 +571,64 @@
   },
   {
     "source": "Security Week",
+    "title": "Researchers Demo New Claude Code Attack Using Harmless-Looking Repositories to Hijack Developer Machines",
+    "link": "https://www.securityweek.com/new-attack-abuses-claude-code-and-harmless-looking-repositories-to-hijack-developer-machines/",
+    "published": "Mon, 29 Jun 2026 14:28:40 +0000",
+    "summary": "<p>Indirect prompts hidden in a repository can lead to Claude Code spawning a reverse shell on the developer’s machine.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-attack-abuses-claude-code-and-harmless-looking-repositories-to-hijack-developer-machines/\">Researchers Demo New Claude Code Attack Using Harmless-Looking Repositories to Hijack Developer Machines</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Indirect prompts hidden in a repository can lead to Claude Code spawning a reverse shell on the developer’s machine",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Straiker Raises $64 Million for AI Security Platform",
+    "link": "https://www.securityweek.com/straiker-raises-64-million-for-ai-security-platform/",
+    "published": "Mon, 29 Jun 2026 14:07:34 +0000",
+    "summary": "<p>The startup’s platform can identify AI agents and provide visibility into their access, behavior, and risks.</p>\n<p>The post <a href=\"https://www.securityweek.com/straiker-raises-64-million-for-ai-security-platform/\">Straiker Raises $64 Million for AI Security Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The startup’s platform can identify AI agents and provide visibility into their access, behavior, and risks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Insurance Regulators Group NAIC Hit in Oracle PeopleSoft Hack",
+    "link": "https://www.securityweek.com/insurance-regulators-group-naic-hit-in-oracle-peoplesoft-hack/",
+    "published": "Mon, 29 Jun 2026 13:42:28 +0000",
+    "summary": "<p>The ShinyHunters extortion group claims to have stolen 3.1 TB of data from the organization.</p>\n<p>The post <a href=\"https://www.securityweek.com/insurance-regulators-group-naic-hit-in-oracle-peoplesoft-hack/\">Insurance Regulators Group NAIC Hit in Oracle PeopleSoft Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The ShinyHunters extortion group claims to have stolen 3",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-35273"
+      ],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "‘DirtyClone’ Linux Kernel Vulnerability Leads to Root Access",
     "link": "https://www.securityweek.com/dirtyclone-linux-kernel-vulnerability-leads-to-root-access/",
     "published": "Mon, 29 Jun 2026 11:20:13 +0000",
@@ -579,9 +641,9 @@
       "severity": "High",
       "cves": [
         "CVE-2026-43503",
+        "CVE-2026-43500",
         "CVE-2026-43284",
-        "CVE-2026-46300",
-        "CVE-2026-43500"
+        "CVE-2026-46300"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -676,8 +738,8 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-12958",
-        "CVE-2026-12957"
+        "CVE-2026-12957",
+        "CVE-2026-12958"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -702,64 +764,6 @@
       "threat_categories": [
         "Ransomware",
         "Data Breach",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "In Other News: Chinese Mythos-Like AI, Tata Electronics Breach, Snyk Layoffs",
-    "link": "https://www.securityweek.com/in-other-news-chinese-mythos-like-ai-tata-electronics-breach-snyk-layoffs/",
-    "published": "Fri, 26 Jun 2026 14:30:00 +0000",
-    "summary": "<p>Other noteworthy stories that might have slipped under the radar: Russia used Cellebrite to hack activist’s phone, Five Eyes issue urgent AI threat warning, macOS Gaslight backdoor, Scattered Spider guilty pleas.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-chinese-mythos-like-ai-tata-electronics-breach-snyk-layoffs/\">In Other News: Chinese Mythos-Like AI, Tata Electronics Breach, Snyk Layoffs</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Other noteworthy stories that might have slipped under the radar: Russia used Cellebrite to hack activist’s phone, Five Eyes issue urgent AI threat warning, macOS Gaslight backdoor, Scattered Spider guilty pleas",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Phishing",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Nebulock Raises $25 Million for AI-Native Contextual Security",
-    "link": "https://www.securityweek.com/nebulock-raises-25-million-for-ai-native-contextual-security/",
-    "published": "Fri, 26 Jun 2026 12:37:13 +0000",
-    "summary": "<p>The cybersecurity startup provides threat hunting, proactive detection, and behavioral security analytics.</p>\n<p>The post <a href=\"https://www.securityweek.com/nebulock-raises-25-million-for-ai-native-contextual-security/\">Nebulock Raises $25 Million for AI-Native Contextual Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The cybersecurity startup provides threat hunting, proactive detection, and behavioral security analytics",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Linux Foundation Unveils New Open Source Security Project Akrites",
-    "link": "https://www.securityweek.com/linux-foundation-unveils-new-open-source-security-project-akrites/",
-    "published": "Fri, 26 Jun 2026 11:28:20 +0000",
-    "summary": "<p>It will provide the tools and channels to report, patch, and disclose open source software vulnerabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/linux-foundation-unveils-new-open-source-security-project-akrites/\">Linux Foundation Unveils New Open Source Security Project Akrites</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "It will provide the tools and channels to report, patch, and disclose open source software vulnerabilities",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
         "Supply Chain"
       ]
     }
@@ -867,15 +871,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-44799",
-        "CVE-2026-48563",
-        "CVE-2026-44812",
-        "CVE-2026-47289",
+        "CVE-2026-44803",
         "CVE-2026-47291",
+        "CVE-2026-44812",
         "CVE-2026-42992",
         "CVE-2026-44801",
-        "CVE-2026-44803",
-        "CVE-2026-42985"
+        "CVE-2026-48563",
+        "CVE-2026-47289",
+        "CVE-2026-42985",
+        "CVE-2026-44799"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1301,8 +1305,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1327,6 +1331,42 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "This pay gap is programmed (Lock and Code S07E13)",
+    "link": "https://www.malwarebytes.com/blog/podcast/2026/06/this-pay-gap-is-programmed-lock-and-code-s07e13",
+    "published": "Mon, 29 Jun 2026 14:44:37 GMT",
+    "summary": "This week on the Lock and Code podcast, we speak with Veena Dubal about algorithmic wage discrimination and its appetite for all worker data.",
+    "analysis": {
+      "issue": "This week on the Lock and Code podcast… Pay is personal for plenty of Americans, but a new distribution model that consumes vast quantities of worker data is turning pay into something else: personalized",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "119 Edge extensions promised useful tools, instead downloaded malware",
+    "link": "https://www.malwarebytes.com/blog/news/2026/06/119-edge-extensions-promised-useful-tools-instead-downloaded-malware",
+    "published": "Mon, 29 Jun 2026 14:41:18 GMT",
+    "summary": "Microsoft has removed over 100 Edge extensions that were delivering malware hidden in images.",
+    "analysis": {
+      "issue": "Microsoft has removed 119 extensions from the Edge add-on store which were all tied to one adware campaign",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
       ]
     }
   },
@@ -1479,31 +1519,6 @@
         "Phishing"
       ]
     }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "&#8220;Total access to all your devices.&#8221; Sextortion scammers strike again",
-    "link": "https://www.malwarebytes.com/blog/scams/2026/06/total-access-to-all-your-devices-sextortion-scammers-strike-again",
-    "published": "Wed, 24 Jun 2026 10:48:20 GMT",
-    "summary": "They say they have videos, malware, and total control of your devices. Here's how to read a sextortion email like a security researcher instead of a victim.",
-    "analysis": {
-      "issue": "At the moment, we’re seeing all kinds of sextortion emails",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Inside the dark web: Stolen identities for 95¢, malware, and scams-for-hire",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/06/inside-the-dark-web-stolen-identities-for-95%c2%a2-malware-and-scams-for-hire",
-    "published": "Tue, 23 Jun 2026 15:52:17 GMT",
-    "summary": "We spent 48 hours exploring the dark web and found stolen identities, malware, scams, and a thriving cybercrime economy."
   },
   {
     "source": "Crowdstrike Blog",
