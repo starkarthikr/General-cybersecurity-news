@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input",
+    "link": "https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html",
+    "published": "Tue, 30 Jun 2026 00:10:09 +0530",
+    "summary": "Microsoft has found a malicious Chrome extension that posed as the AI search engine Perplexity and quietly logged what people searched for. It routed every query and every character typed into the address bar through an attacker-controlled server before redirecting users to real results.\n\nMicrosoft says Google removed it from the store after responsible disclosure. The extension was called \"",
+    "analysis": {
+      "issue": "Microsoft says a fake Perplexity Chrome extension logged searches, IPs, headers, and address bar input before redirecting users",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private",
     "link": "https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html",
     "published": "Mon, 29 Jun 2026 21:39:21 +0530",
@@ -169,20 +187,41 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials",
-    "link": "https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html",
-    "published": "Sat, 27 Jun 2026 22:57:11 +0530",
-    "summary": "The Security Service of Ukraine (SSU) said it, together with the U.S. Federal Bureau of Investigation (FBI), uncovered a long-running campaign orchestrated by Russian intelligence services to break into the messaging accounts of government officials, military personnel, politicians, and activists in Ukraine, Europe, and the U.S.\n\nThe systematic cyber attacks aimed at stealing sensitive",
+    "source": "Bleeping Computer",
+    "title": "Nissan discloses employee data breach linked to Oracle zero-day attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/",
+    "published": "Mon, 29 Jun 2026 16:40:44 -0400",
+    "summary": "Nissan is warning that it suffered a data breach affecting current and former employees after threat actors exploited an Oracle PeopleSoft vulnerability in data theft attacks previously linked to the ShinyHunters extortion group. [...]",
     "analysis": {
-      "issue": "SSU and FBI say Russian intelligence used fake support SMS to steal messaging credentials from targets in Ukraine, Europe, and the U",
+      "issue": "Nissan is warning that it suffered a data breach affecting current and former employees after threat actors exploited an Oracle PeopleSoft vulnerability in data theft attacks previously linked to the ShinyHunters extortion group",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Data Breach",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "NAIC says public data stolen in ShinyHunters' PeopleSoft breach",
+    "link": "https://www.bleepingcomputer.com/news/security/naic-says-public-data-stolen-in-shinyhunters-peoplesoft-breach/",
+    "published": "Mon, 29 Jun 2026 16:30:28 -0400",
+    "summary": "The National Association of Insurance Commissioners (NAIC) says the ShinyHunters extortion group stole only publicly available data, outdated logs, and configuration files after breaching its systems by exploiting a zero-day vulnerability in an Oracle PeopleSoft server. [...]",
+    "analysis": {
+      "issue": "The National Association of Insurance Commissioners (NAIC) says the ShinyHunters extortion group stole only publicly available data, outdated logs, and configuration files after breaching its systems by exploiting a zero-day vulnerability in an Oracl",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Vulnerability"
       ]
     }
   },
@@ -337,45 +376,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Data breach exposes up to 14.2 million email logins at six ISPs",
-    "link": "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/",
-    "published": "Sun, 28 Jun 2026 10:13:46 -0400",
-    "summary": "Japanese telecommunications operator KDDI Corporation disclosed a data breach where threat actors gained access to one of its email systems used by five other internet service providers (ISPs) in the country. [...]",
-    "analysis": {
-      "issue": "Japanese telecommunications operator KDDI Corporation disclosed a data breach where threat actors gained access to one of its email systems used by five other internet service providers (ISPs) in the country",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Clean GitHub repo tricks AI coding agents into running malware",
-    "link": "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/",
-    "published": "Sat, 27 Jun 2026 10:22:36 -0400",
-    "summary": "An agentic coding tool tasked with cloning and setting up a seemingly benign GitHub repository could execute a malicious payload that remains invisible to security scanners, AI agents, and human reviewers. [...]",
-    "analysis": {
-      "issue": "An agentic coding tool tasked with cloning and setting up a seemingly benign GitHub repository could execute a malicious payload that remains invisible to security scanners, AI agents, and human reviewers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
     "link": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
@@ -445,8 +445,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-49160",
         "CVE-2026-45586",
+        "CVE-2026-49160",
         "CVE-2026-50507"
       ],
       "threat_categories": [
@@ -656,9 +656,9 @@
       "timeline": null,
       "severity": "High",
       "cves": [
+        "CVE-2026-43503",
         "CVE-2026-43500",
         "CVE-2026-46300",
-        "CVE-2026-43503",
         "CVE-2026-43284"
       ],
       "threat_categories": [
@@ -754,8 +754,8 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-12958",
-        "CVE-2026-12957"
+        "CVE-2026-12957",
+        "CVE-2026-12958"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -867,15 +867,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-42992",
         "CVE-2026-42985",
-        "CVE-2026-44799",
-        "CVE-2026-47289",
-        "CVE-2026-44803",
         "CVE-2026-47291",
+        "CVE-2026-44801",
+        "CVE-2026-47289",
+        "CVE-2026-42992",
+        "CVE-2026-44803",
+        "CVE-2026-44799",
         "CVE-2026-44812",
-        "CVE-2026-48563",
-        "CVE-2026-44801"
+        "CVE-2026-48563"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1301,8 +1301,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
