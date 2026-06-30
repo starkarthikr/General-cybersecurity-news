@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "What the Numbers Say About FIFA 2026 Cyber Risk",
+    "link": "https://thehackernews.com/2026/06/what-numbers-say-about-fifa-2026-cyber.html",
+    "published": "Tue, 30 Jun 2026 17:00:00 +0530",
+    "summary": "The FIFA World Cup 2026 opened on June 11. By that date, according to Check Point Research, the fraud infrastructure targeting it had already been built, staged, and partially deployed. Threat actor activity was pre-planned, months out, across three sectors and at least ten languages.\n\nCheck Point Exposure Management published the FIFA World Cup 2026 Cyber Threat Report this month, covering",
+    "analysis": {
+      "issue": "Check Point says fake apps, lookalike domains, and email spoofing gaps were already targeting FIFA World Cup 2026",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer",
     "link": "https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html",
     "published": "Tue, 30 Jun 2026 16:48:47 +0530",
@@ -77,24 +95,6 @@
   },
   {
     "source": "The Hacker News",
-    "title": "Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs",
-    "link": "https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html",
-    "published": "Tue, 30 Jun 2026 12:45:07 +0530",
-    "summary": "Apple on Monday released security updates for iOS, macOS, and the Safari web browser to address over three dozen flaws, including four vulnerabilities in WebKit that were discovered using artificial intelligence (AI) tools like Anthropic Claude and OpenAI Codex Security.\n\nThe WebKit vulnerabilities are listed below -\n\n\n  CVE-2026-43707 - A memory corruption issue that could result in an",
-    "analysis": {
-      "issue": "2 patching 30+ flaws, including AI-discovered WebKit CVEs and kernel bugs; no active exploitat",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
     "title": "Oracle E-Business Suite Flaw CVE-2026-46817 Actively Exploited in the Wild",
     "link": "https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html",
     "published": "Tue, 30 Jun 2026 10:34:06 +0530",
@@ -110,24 +110,6 @@
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input",
-    "link": "https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html",
-    "published": "Tue, 30 Jun 2026 00:10:09 +0530",
-    "summary": "Microsoft has found a malicious Chrome extension that posed as the AI search engine Perplexity and quietly logged what people searched for. It routed every query and every character typed into the address bar through an attacker-controlled server before redirecting users to real results.\n\nMicrosoft says Google removed it from the store after responsible disclosure. The extension was called \"",
-    "analysis": {
-      "issue": "Microsoft says a fake Perplexity Chrome extension logged searches, IPs, headers, and address bar input before redirecting users",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -151,6 +133,42 @@
   },
   {
     "source": "The Hacker News",
+    "title": "Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input",
+    "link": "https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html",
+    "published": "Mon, 29 Jun 2026 21:10:00 +0530",
+    "summary": "Microsoft has found a malicious Chrome extension that posed as the AI search engine Perplexity and quietly logged what people searched for. It routed every query and every character typed into the address bar through an attacker-controlled server before redirecting users to real results.\n\nMicrosoft says Google removed it from the store after responsible disclosure. The extension was called \"",
+    "analysis": {
+      "issue": "Microsoft says a fake Perplexity Chrome extension logged searches, IPs, headers, and address bar input before redirecting users",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs",
+    "link": "https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html",
+    "published": "Mon, 29 Jun 2026 21:00:00 +0530",
+    "summary": "Apple on Monday released security updates for iOS, macOS, and the Safari web browser to address over three dozen flaws, including four vulnerabilities in WebKit that were discovered using artificial intelligence (AI) tools like Anthropic Claude and OpenAI Codex Security.\n\nThe WebKit vulnerabilities are listed below -\n\n\n  CVE-2026-43707 - A memory corruption issue that could result in an",
+    "analysis": {
+      "issue": "2 patching 30+ flaws, including AI-discovered WebKit CVEs and kernel bugs; no active exploitat",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Mustang Panda Uses Zoho WorkDrive as Command Channel in Indian Government Attacks",
     "link": "https://thehackernews.com/2026/06/mustang-panda-uses-zoho-workdrive-as.html",
     "published": "Mon, 29 Jun 2026 20:33:40 +0530",
@@ -168,21 +186,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "⚡ Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More",
-    "link": "https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html",
-    "published": "Mon, 29 Jun 2026 20:11:07 +0530",
-    "summary": "This week was a reminder that attackers do not always need big tricks. One small mistake, one old access path, one missed patch, and suddenly the door is open.\n\nThe noise is not all noise, either. Forums are talking, researchers are finding easy cracks, and defenders have more cleanup waiting.\n\nHere’s the full Monday recap.\n\n⚡ Threat of the Week\n\nNew DirtyClone Linux Kernel Flaw Lets Local",
+    "source": "Bleeping Computer",
+    "title": "Lessons from the Underground: How to Combat Business Email Compromise",
+    "link": "https://www.bleepingcomputer.com/news/security/lessons-from-the-underground-how-to-combat-business-email-compromise/",
+    "published": "Tue, 30 Jun 2026 10:00:10 -0400",
+    "summary": "Business Email Compromise is more than an email scam. It's a coordinated operation involving compromised accounts, financial research, and cash-out networks. Flare explores how underground forums reveal how BEC attacks are planned and executed. [...]",
     "analysis": {
-      "issue": "Weekly cybersecurity recap covers DirtyClone, PTC exploits, Gaslight malware, Turla, Operation Endgame, AI risks, and urgent CVEs",
+      "issue": "Business Email Compromise (BEC) is often described in the media as merely an email scam, but in reality, it’s part of an organized broad operation",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "High",
       "cves": [],
       "threat_categories": [
-        "Vulnerability",
-        "Malware"
+        "General Security"
       ]
     }
   },
@@ -208,7 +225,7 @@
   {
     "source": "Bleeping Computer",
     "title": "Microsoft adds smarter bot protection to Teams meetings",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/mircosoft-adds-smarter-bot-protection-to-teams-meetings/",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-smarter-bot-protection-to-teams-meetings/",
     "published": "Tue, 30 Jun 2026 06:52:26 -0400",
     "summary": "Microsoft has introduced a new Teams admin policy that allows organizers to prevent third-party bots from joining meetings without approval. [...]",
     "analysis": {
@@ -357,24 +374,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "U.S. offers $10 million for hackers targeting WhatsApp, Signal users",
-    "link": "https://www.bleepingcomputer.com/news/security/us-offers-10-million-for-hackers-targeting-whatsapp-signal-users/",
-    "published": "Mon, 29 Jun 2026 11:09:43 -0400",
-    "summary": "The U.S. Department of State is offering up to $10 million for information that helps identify or locate members of the UNC5792 and UNC4221 hacker groups, which are linked to Russia's intelligence and military services. [...]",
-    "analysis": {
-      "issue": "Department of State is offering up to $10 million for information that helps identify or locate members of the UNC5792 and UNC4221 hacker groups, which are linked to Russia's intelligence and military services",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
     "link": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
@@ -444,9 +443,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-45586",
         "CVE-2026-50507",
-        "CVE-2026-49160"
+        "CVE-2026-49160",
+        "CVE-2026-45586"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -568,6 +567,125 @@
   },
   {
     "source": "Security Week",
+    "title": "BlueHammer Vulnerability Exploited in Ransomware Attacks",
+    "link": "https://www.securityweek.com/bluehammer-vulnerability-exploited-in-ransomware-attacks/",
+    "published": "Tue, 30 Jun 2026 13:56:07 +0000",
+    "summary": "<p>The Microsoft Defender vulnerability CVE-2026-33825 was exploited in the wild as a zero-day before patches were released.</p>\n<p>The post <a href=\"https://www.securityweek.com/bluehammer-vulnerability-exploited-in-ransomware-attacks/\">BlueHammer Vulnerability Exploited in Ransomware Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The Microsoft Defender vulnerability CVE-2026-33825 was exploited in the wild as a zero-day before patches were released",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-33825"
+      ],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Decades-Old Bash Tricks Expose AI Coding Agents to Supply Chain Attacks",
+    "link": "https://www.securityweek.com/decades-old-bash-tricks-expose-ai-coding-agents-to-supply-chain-attacks/",
+    "published": "Tue, 30 Jun 2026 13:00:00 +0000",
+    "summary": "<p>Decades-old Bash shell tricks can bypass safeguards in most open source AI coding agents, potentially turning malicious repositories into supply chain attack vectors.</p>\n<p>The post <a href=\"https://www.securityweek.com/decades-old-bash-tricks-expose-ai-coding-agents-to-supply-chain-attacks/\">Decades-Old Bash Tricks Expose AI Coding Agents to Supply Chain Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Decades-old Bash shell tricks can bypass safeguards in most open source AI coding agents, potentially turning malicious repositories into supply chain attack vectors",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Aflac Japan Data Breach Impacts 4.38 Million",
+    "link": "https://www.securityweek.com/aflac-japan-data-breach-impacts-4-38-million/",
+    "published": "Tue, 30 Jun 2026 12:52:33 +0000",
+    "summary": "<p>Hackers accessed the insurance giant’s policyholder portal multiple times between June 15 and June 25.</p>\n<p>The post <a href=\"https://www.securityweek.com/aflac-japan-data-breach-impacts-4-38-million/\">Aflac Japan Data Breach Impacts 4.38 Million</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Hackers accessed the insurance giant’s policyholder portal multiple times between June 15 and June 25",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Hacker Conversations: Chris Thompson, Former Head of IBM X-Force Red, Co-Founder of RemoteThreat",
+    "link": "https://www.securityweek.com/hacker-conversations-chris-thompson-former-head-of-ibm-x-force-red-co-founder-of-remotethreat/",
+    "published": "Tue, 30 Jun 2026 12:00:00 +0000",
+    "summary": "<p>Chris Thompson's journey took him from hacking game controls as a teenager to founding IBM’s X-Force Red team.</p>\n<p>The post <a href=\"https://www.securityweek.com/hacker-conversations-chris-thompson-former-head-of-ibm-x-force-red-co-founder-of-remotethreat/\">Hacker Conversations: Chris Thompson, Former Head of IBM X-Force Red, Co-Founder of RemoteThreat</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Chris Thompson’s journey took him from hacking game controls as a teenager to founding IBM’s X-Force Red team",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Supreme Court Rules Constitutional Privacy Protections Apply to Cellphone Users’ Location History",
+    "link": "https://www.securityweek.com/supreme-court-rules-constitutional-privacy-protections-apply-to-cellphone-users-location-history/",
+    "published": "Tue, 30 Jun 2026 11:48:40 +0000",
+    "summary": "<p>The ruling was made in the case of a bank robber whose identity was discovered through a geofence warrant.</p>\n<p>The post <a href=\"https://www.securityweek.com/supreme-court-rules-constitutional-privacy-protections-apply-to-cellphone-users-location-history/\">Supreme Court Rules Constitutional Privacy Protections Apply to Cellphone Users&#8217; Location History</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The ruling was made in the case of a bank robber whose identity was discovered through a geofence warrant",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Exploitation of Recent Oracle E-Business Suite Vulnerability Begins",
+    "link": "https://www.securityweek.com/exploitation-of-recent-oracle-e-business-suite-vulnerability-begins/",
+    "published": "Tue, 30 Jun 2026 11:29:48 +0000",
+    "summary": "<p>The critical-severity defect allows unauthenticated attackers to take over the E-Business Suite’s Payments product.</p>\n<p>The post <a href=\"https://www.securityweek.com/exploitation-of-recent-oracle-e-business-suite-vulnerability-begins/\">Exploitation of Recent Oracle E-Business Suite Vulnerability Begins</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The critical-severity defect allows unauthenticated attackers to take over the E-Business Suite’s Payments product",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-46817"
+      ],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "The AI Token Costs That Can Break Cybersecurity",
     "link": "https://www.securityweek.com/the-ai-token-costs-that-can-break-cybersecurity/",
     "published": "Tue, 30 Jun 2026 10:00:00 +0000",
@@ -645,123 +763,6 @@
       "threat_categories": [
         "APT",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "New Controller Flaws Expose Highway Signs and Billboards to Remote Hacking",
-    "link": "https://www.securityweek.com/new-controller-flaws-expose-highway-signs-and-billboards-to-remote-hacking/",
-    "published": "Tue, 30 Jun 2026 05:04:15 +0000",
-    "summary": "<p>CISA has published an advisory to inform organizations about three vulnerabilities found by a researcher in Daktronics controllers.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-controller-flaws-expose-highway-signs-and-billboards-to-remote-hacking/\">New Controller Flaws Expose Highway Signs and Billboards to Remote Hacking</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "CISA has published an advisory to inform organizations about three vulnerabilities found by a researcher in Daktronics controllers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "WhatsApp Rolling Out Username Feature to Bolster Phone Number Privacy",
-    "link": "https://www.securityweek.com/whatsapp-rolling-out-username-feature-to-bolster-phone-number-privacy/",
-    "published": "Mon, 29 Jun 2026 16:00:01 +0000",
-    "summary": "<p>An optional ‘username key’ adds another layer by requiring a secondary credential before someone can message users.</p>\n<p>The post <a href=\"https://www.securityweek.com/whatsapp-rolling-out-username-feature-to-bolster-phone-number-privacy/\">WhatsApp Rolling Out Username Feature to Bolster Phone Number Privacy</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "An optional ‘username key’ adds another layer by requiring a secondary credential before someone can message users",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Researchers Demo New Claude Code Attack Using Harmless-Looking Repositories to Hijack Developer Machines",
-    "link": "https://www.securityweek.com/new-attack-abuses-claude-code-and-harmless-looking-repositories-to-hijack-developer-machines/",
-    "published": "Mon, 29 Jun 2026 14:28:40 +0000",
-    "summary": "<p>Indirect prompts hidden in a repository can lead to Claude Code spawning a reverse shell on the developer’s machine.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-attack-abuses-claude-code-and-harmless-looking-repositories-to-hijack-developer-machines/\">Researchers Demo New Claude Code Attack Using Harmless-Looking Repositories to Hijack Developer Machines</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Indirect prompts hidden in a repository can lead to Claude Code spawning a reverse shell on the developer’s machine",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Straiker Raises $64 Million for AI Security Platform",
-    "link": "https://www.securityweek.com/straiker-raises-64-million-for-ai-security-platform/",
-    "published": "Mon, 29 Jun 2026 14:07:34 +0000",
-    "summary": "<p>The startup’s platform can identify AI agents and provide visibility into their access, behavior, and risks.</p>\n<p>The post <a href=\"https://www.securityweek.com/straiker-raises-64-million-for-ai-security-platform/\">Straiker Raises $64 Million for AI Security Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The startup’s platform can identify AI agents and provide visibility into their access, behavior, and risks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Insurance Regulators Group NAIC Hit in Oracle PeopleSoft Hack",
-    "link": "https://www.securityweek.com/insurance-regulators-group-naic-hit-in-oracle-peoplesoft-hack/",
-    "published": "Mon, 29 Jun 2026 13:42:28 +0000",
-    "summary": "<p>The ShinyHunters extortion group claims to have stolen 3.1 TB of data from the organization.</p>\n<p>The post <a href=\"https://www.securityweek.com/insurance-regulators-group-naic-hit-in-oracle-peoplesoft-hack/\">Insurance Regulators Group NAIC Hit in Oracle PeopleSoft Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The ShinyHunters extortion group claims to have stolen 3",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-35273"
-      ],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "‘DirtyClone’ Linux Kernel Vulnerability Leads to Root Access",
-    "link": "https://www.securityweek.com/dirtyclone-linux-kernel-vulnerability-leads-to-root-access/",
-    "published": "Mon, 29 Jun 2026 11:20:13 +0000",
-    "summary": "<p>A variant of DirtyFrag, the flaw allows unprivileged local users to manipulate the Linux page cache and gain root privileges.</p>\n<p>The post <a href=\"https://www.securityweek.com/dirtyclone-linux-kernel-vulnerability-leads-to-root-access/\">&#8216;DirtyClone&#8217; Linux Kernel Vulnerability Leads to Root Access</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "A variant of DirtyFrag, the flaw allows unprivileged local users to manipulate the Linux page cache and gain root privileges",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2026-43284",
-        "CVE-2026-43500",
-        "CVE-2026-43503",
-        "CVE-2026-46300"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -869,12 +870,12 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-44799",
+        "CVE-2026-42992",
+        "CVE-2026-47289",
         "CVE-2026-48563",
         "CVE-2026-47291",
-        "CVE-2026-44812",
-        "CVE-2026-47289",
-        "CVE-2026-42992",
         "CVE-2026-44801",
+        "CVE-2026-44812",
         "CVE-2026-42985",
         "CVE-2026-44803"
       ],

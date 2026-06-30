@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-30 11:27:55 UTC
+**Last Updated:** 2026-06-30 14:30:46 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer](https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html)
+### 1. [What the Numbers Say About FIFA 2026 Cyber Risk](https://thehackernews.com/2026/06/what-numbers-say-about-fifa-2026-cyber.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 30 Jun 2026 17:00:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer](https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 30 Jun 2026 16:48:47 +0530  
@@ -14,7 +23,7 @@
 
 ---
 
-### 2. [AirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks](https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html)
+### 3. [AirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks](https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 30 Jun 2026 14:57:58 +0530  
@@ -23,7 +32,7 @@
 
 ---
 
-### 3. [New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials](https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html)
+### 4. [New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials](https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 30 Jun 2026 14:07:19 +0530  
@@ -32,21 +41,12 @@
 
 ---
 
-### 4. [Progress Kemp LoadMaster Flaw Could Let Attackers Run Root Commands Pre-Auth](https://thehackernews.com/2026/06/progress-kemp-loadmaster-flaw-could-let.html)
+### 5. [Progress Kemp LoadMaster Flaw Could Let Attackers Run Root Commands Pre-Auth](https://thehackernews.com/2026/06/progress-kemp-loadmaster-flaw-could-let.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 30 Jun 2026 13:08:07 +0530  
 **Severity:** Low  
 **CVEs:** CVE-2026-8037  
-**Categories:** Vulnerability  
-
----
-
-### 5. [Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs](https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 30 Jun 2026 12:45:07 +0530  
-**Severity:** Low  
 **Categories:** Vulnerability  
 
 ---
@@ -61,16 +61,7 @@
 
 ---
 
-### 7. [Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input](https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 30 Jun 2026 00:10:09 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 8. [WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private](https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html)
+### 7. [WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private](https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 29 Jun 2026 21:39:21 +0530  
@@ -79,7 +70,25 @@
 
 ---
 
-### 9. [Mustang Panda Uses Zoho WorkDrive as Command Channel in Indian Government Attacks](https://thehackernews.com/2026/06/mustang-panda-uses-zoho-workdrive-as.html)
+### 8. [Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input](https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 29 Jun 2026 21:10:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 9. [Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs](https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 29 Jun 2026 21:00:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 10. [Mustang Panda Uses Zoho WorkDrive as Command Channel in Indian Government Attacks](https://thehackernews.com/2026/06/mustang-panda-uses-zoho-workdrive-as.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 29 Jun 2026 20:33:40 +0530  
@@ -88,16 +97,16 @@
 
 ---
 
-### 10. [⚡ Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More](https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html)
+### 11. [Lessons from the Underground: How to Combat Business Email Compromise](https://www.bleepingcomputer.com/news/security/lessons-from-the-underground-how-to-combat-business-email-compromise/)
 
-**Source:** The Hacker News  
-**Published:** Mon, 29 Jun 2026 20:11:07 +0530  
+**Source:** Bleeping Computer  
+**Published:** Tue, 30 Jun 2026 10:00:10 -0400  
 **Severity:** High  
-**Categories:** Vulnerability, Malware  
+**Categories:** General Security  
 
 ---
 
-### 11. [Insurance giant Aflac discloses data breach after subsidiary hack](https://www.bleepingcomputer.com/news/security/insurance-giant-aflac-discloses-data-breach-after-subsidiary-hack/)
+### 12. [Insurance giant Aflac discloses data breach after subsidiary hack](https://www.bleepingcomputer.com/news/security/insurance-giant-aflac-discloses-data-breach-after-subsidiary-hack/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 30 Jun 2026 07:12:18 -0400  
@@ -106,7 +115,7 @@
 
 ---
 
-### 12. [Microsoft adds smarter bot protection to Teams meetings](https://www.bleepingcomputer.com/news/microsoft/mircosoft-adds-smarter-bot-protection-to-teams-meetings/)
+### 13. [Microsoft adds smarter bot protection to Teams meetings](https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-smarter-bot-protection-to-teams-meetings/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 30 Jun 2026 06:52:26 -0400  
@@ -115,7 +124,7 @@
 
 ---
 
-### 13. [Kali Linux 2026.2 released with 9 new tools, NetHunter updates](https://www.bleepingcomputer.com/news/linux/kali-linux-20262-released-with-9-new-tools-nethunter-updates/)
+### 14. [Kali Linux 2026.2 released with 9 new tools, NetHunter updates](https://www.bleepingcomputer.com/news/linux/kali-linux-20262-released-with-9-new-tools-nethunter-updates/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 30 Jun 2026 05:46:39 -0400  
@@ -124,7 +133,7 @@
 
 ---
 
-### 14. [Blackfield ransomware asks Nidec Corporation for $2 million ransom](https://www.bleepingcomputer.com/news/security/blackfield-ransomware-asks-nidec-corporation-for-2-million-ransom/)
+### 15. [Blackfield ransomware asks Nidec Corporation for $2 million ransom](https://www.bleepingcomputer.com/news/security/blackfield-ransomware-asks-nidec-corporation-for-2-million-ransom/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 30 Jun 2026 05:41:05 -0400  
@@ -133,7 +142,7 @@
 
 ---
 
-### 15. [CISA: Windows BlueHammer flaw now exploited by ransomware gangs](https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/)
+### 16. [CISA: Windows BlueHammer flaw now exploited by ransomware gangs](https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 30 Jun 2026 04:53:13 -0400  
@@ -143,7 +152,7 @@
 
 ---
 
-### 16. [Nissan discloses employee data breach linked to Oracle zero-day attacks](https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/)
+### 17. [Nissan discloses employee data breach linked to Oracle zero-day attacks](https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 29 Jun 2026 16:40:44 -0400  
@@ -152,7 +161,7 @@
 
 ---
 
-### 17. [NAIC says public data stolen in ShinyHunters' PeopleSoft breach](https://www.bleepingcomputer.com/news/security/naic-says-public-data-stolen-in-shinyhunters-peoplesoft-breach/)
+### 18. [NAIC says public data stolen in ShinyHunters' PeopleSoft breach](https://www.bleepingcomputer.com/news/security/naic-says-public-data-stolen-in-shinyhunters-peoplesoft-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 29 Jun 2026 16:30:28 -0400  
@@ -161,7 +170,7 @@
 
 ---
 
-### 18. [WhatsApp rolls out usernames to help users hide their phone number](https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-usernames-to-help-users-hide-their-phone-number/)
+### 19. [WhatsApp rolls out usernames to help users hide their phone number](https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-usernames-to-help-users-hide-their-phone-number/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 29 Jun 2026 13:48:28 -0400  
@@ -170,21 +179,12 @@
 
 ---
 
-### 19. [Microsoft extends Windows Server 2022 hotpatching until October 2027](https://www.bleepingcomputer.com/news/microsoft/microsoft-extends-windows-server-2022-hotpatching-until-october-2027/)
+### 20. [Microsoft extends Windows Server 2022 hotpatching until October 2027](https://www.bleepingcomputer.com/news/microsoft/microsoft-extends-windows-server-2022-hotpatching-until-october-2027/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 29 Jun 2026 13:11:15 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 20. [U.S. offers $10 million for hackers targeting WhatsApp, Signal users](https://www.bleepingcomputer.com/news/security/us-offers-10-million-for-hackers-targeting-whatsapp-signal-users/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 29 Jun 2026 11:09:43 -0400  
-**Severity:** Critical  
-**Categories:** Phishing  
 
 ---
 
@@ -220,7 +220,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-45586, CVE-2026-50507, CVE-2026-49160  
+**CVEs:** CVE-2026-50507, CVE-2026-49160, CVE-2026-45586  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -279,7 +279,63 @@
 
 ---
 
-### 31. [The AI Token Costs That Can Break Cybersecurity](https://www.securityweek.com/the-ai-token-costs-that-can-break-cybersecurity/)
+### 31. [BlueHammer Vulnerability Exploited in Ransomware Attacks](https://www.securityweek.com/bluehammer-vulnerability-exploited-in-ransomware-attacks/)
+
+**Source:** Security Week  
+**Published:** Tue, 30 Jun 2026 13:56:07 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-33825  
+**Categories:** Ransomware, Vulnerability, Malware  
+
+---
+
+### 32. [Decades-Old Bash Tricks Expose AI Coding Agents to Supply Chain Attacks](https://www.securityweek.com/decades-old-bash-tricks-expose-ai-coding-agents-to-supply-chain-attacks/)
+
+**Source:** Security Week  
+**Published:** Tue, 30 Jun 2026 13:00:00 +0000  
+**Severity:** High  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 33. [Aflac Japan Data Breach Impacts 4.38 Million](https://www.securityweek.com/aflac-japan-data-breach-impacts-4-38-million/)
+
+**Source:** Security Week  
+**Published:** Tue, 30 Jun 2026 12:52:33 +0000  
+**Severity:** Low  
+**Categories:** Data Breach, Supply Chain  
+
+---
+
+### 34. [Hacker Conversations: Chris Thompson, Former Head of IBM X-Force Red, Co-Founder of RemoteThreat](https://www.securityweek.com/hacker-conversations-chris-thompson-former-head-of-ibm-x-force-red-co-founder-of-remotethreat/)
+
+**Source:** Security Week  
+**Published:** Tue, 30 Jun 2026 12:00:00 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 35. [Supreme Court Rules Constitutional Privacy Protections Apply to Cellphone Users’ Location History](https://www.securityweek.com/supreme-court-rules-constitutional-privacy-protections-apply-to-cellphone-users-location-history/)
+
+**Source:** Security Week  
+**Published:** Tue, 30 Jun 2026 11:48:40 +0000  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 36. [Exploitation of Recent Oracle E-Business Suite Vulnerability Begins](https://www.securityweek.com/exploitation-of-recent-oracle-e-business-suite-vulnerability-begins/)
+
+**Source:** Security Week  
+**Published:** Tue, 30 Jun 2026 11:29:48 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-46817  
+**Categories:** Ransomware, Data Breach, Vulnerability  
+
+---
+
+### 37. [The AI Token Costs That Can Break Cybersecurity](https://www.securityweek.com/the-ai-token-costs-that-can-break-cybersecurity/)
 
 **Source:** Security Week  
 **Published:** Tue, 30 Jun 2026 10:00:00 +0000  
@@ -288,7 +344,7 @@
 
 ---
 
-### 32. [Nissan Employee Data Breached in Oracle PeopleSoft Hack](https://www.securityweek.com/nissan-employee-data-breached-in-oracle-peoplesoft-hack/)
+### 38. [Nissan Employee Data Breached in Oracle PeopleSoft Hack](https://www.securityweek.com/nissan-employee-data-breached-in-oracle-peoplesoft-hack/)
 
 **Source:** Security Week  
 **Published:** Tue, 30 Jun 2026 09:25:50 +0000  
@@ -298,7 +354,7 @@
 
 ---
 
-### 33. [Critical SimpleHelp Vulnerability Exploited for Malware Delivery](https://www.securityweek.com/critical-simplehelp-vulnerability-exploited-for-malware-delivery/)
+### 39. [Critical SimpleHelp Vulnerability Exploited for Malware Delivery](https://www.securityweek.com/critical-simplehelp-vulnerability-exploited-for-malware-delivery/)
 
 **Source:** Security Week  
 **Published:** Tue, 30 Jun 2026 08:43:10 +0000  
@@ -308,68 +364,12 @@
 
 ---
 
-### 34. [Quantifind Raises $200 Million for AI-Native Risk Intelligence](https://www.securityweek.com/quantifind-raises-200-million-for-ai-native-risk-intelligence/)
+### 40. [Quantifind Raises $200 Million for AI-Native Risk Intelligence](https://www.securityweek.com/quantifind-raises-200-million-for-ai-native-risk-intelligence/)
 
 **Source:** Security Week  
 **Published:** Tue, 30 Jun 2026 06:40:02 +0000  
 **Severity:** High  
 **Categories:** APT, Supply Chain  
-
----
-
-### 35. [New Controller Flaws Expose Highway Signs and Billboards to Remote Hacking](https://www.securityweek.com/new-controller-flaws-expose-highway-signs-and-billboards-to-remote-hacking/)
-
-**Source:** Security Week  
-**Published:** Tue, 30 Jun 2026 05:04:15 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 36. [WhatsApp Rolling Out Username Feature to Bolster Phone Number Privacy](https://www.securityweek.com/whatsapp-rolling-out-username-feature-to-bolster-phone-number-privacy/)
-
-**Source:** Security Week  
-**Published:** Mon, 29 Jun 2026 16:00:01 +0000  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 37. [Researchers Demo New Claude Code Attack Using Harmless-Looking Repositories to Hijack Developer Machines](https://www.securityweek.com/new-attack-abuses-claude-code-and-harmless-looking-repositories-to-hijack-developer-machines/)
-
-**Source:** Security Week  
-**Published:** Mon, 29 Jun 2026 14:28:40 +0000  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 38. [Straiker Raises $64 Million for AI Security Platform](https://www.securityweek.com/straiker-raises-64-million-for-ai-security-platform/)
-
-**Source:** Security Week  
-**Published:** Mon, 29 Jun 2026 14:07:34 +0000  
-**Severity:** Low  
-**Categories:** Vulnerability, Supply Chain  
-
----
-
-### 39. [Insurance Regulators Group NAIC Hit in Oracle PeopleSoft Hack](https://www.securityweek.com/insurance-regulators-group-naic-hit-in-oracle-peoplesoft-hack/)
-
-**Source:** Security Week  
-**Published:** Mon, 29 Jun 2026 13:42:28 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-35273  
-**Categories:** Data Breach, Vulnerability  
-
----
-
-### 40. [‘DirtyClone’ Linux Kernel Vulnerability Leads to Root Access](https://www.securityweek.com/dirtyclone-linux-kernel-vulnerability-leads-to-root-access/)
-
-**Source:** Security Week  
-**Published:** Mon, 29 Jun 2026 11:20:13 +0000  
-**Severity:** High  
-**CVEs:** CVE-2026-43284, CVE-2026-43500, CVE-2026-43503, CVE-2026-46300  
-**Categories:** Vulnerability  
 
 ---
 
@@ -423,7 +423,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-44799, CVE-2026-48563, CVE-2026-47291, CVE-2026-44812, CVE-2026-47289, CVE-2026-42992, CVE-2026-44801, CVE-2026-42985, CVE-2026-44803  
+**CVEs:** CVE-2026-44799, CVE-2026-42992, CVE-2026-47289, CVE-2026-48563, CVE-2026-47291, CVE-2026-44801, CVE-2026-44812, CVE-2026-42985, CVE-2026-44803  
 **Categories:** Vulnerability  
 
 ---
