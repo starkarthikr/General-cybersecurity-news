@@ -1,6 +1,120 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer",
+    "link": "https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html",
+    "published": "Tue, 30 Jun 2026 16:48:47 +0530",
+    "summary": "An unknown threat actor has been observed exploiting a recently disclosed maximum-severity security flaw in SimpleHelp to deliver two previously unreported malware families, TaskWeaver and Djinn Stealer.\n\nThe intrusion involves the exploitation of CVE-2026-48558 (CVSS score: 10.0), a critical authentication bypass vulnerability impacting the OpenID Connect (OIDC) flow that an unauthenticated",
+    "analysis": {
+      "issue": "Attackers exploited SimpleHelp CVE-2026-48558 to deliver TaskWeaver and Djinn Stealer, targeting credentials across cloud, code, AI, and wallet tools",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-48558"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "AirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks",
+    "link": "https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html",
+    "published": "Tue, 30 Jun 2026 14:57:58 +0530",
+    "summary": "Two researchers have found six security flaws in AirDrop and Quick Share, the wireless features that beam files between nearby devices with no cables or shared network.\n\nAn attacker within wireless range, with just a laptop and no prior connection, can crash the sharing service on a Mac or iPhone set to receive from anyone, with no tap or prompt.\n\nThe same research found Quick Share flaws that",
+    "analysis": {
+      "issue": "Researchers found six AirDrop and Quick Share flaws enabling local crashes, Samsung session bypasses, and a fixed Google Windows bug",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials",
+    "link": "https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html",
+    "published": "Tue, 30 Jun 2026 14:07:19 +0530",
+    "summary": "Convince an AI browser that it is playing a game, and it can hand over your login details. That is the finding behind&nbsp;BioShocking, a technique from security firm LayerX that tricked six AI browsers and assistants into copying a user's credentials and sending them to an attacker.\n\nThe targets included OpenAI's ChatGPT Atlas, Perplexity's Comet, and Anthropic's Claude browser extension.\n\nAn",
+    "analysis": {
+      "issue": "LayerX says BioShocking used indirect prompt injection to trick six AI browsers into copying credentials from signed-in accounts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Progress Kemp LoadMaster Flaw Could Let Attackers Run Root Commands Pre-Auth",
+    "link": "https://thehackernews.com/2026/06/progress-kemp-loadmaster-flaw-could-let.html",
+    "published": "Tue, 30 Jun 2026 13:08:07 +0530",
+    "summary": "A critical vulnerability in Progress Kemp LoadMaster can let an unauthenticated attacker execute arbitrary commands as root on the appliance by sending a crafted request to its API.\n\nThe flaw, tracked as&nbsp;CVE-2026-8037, carries a CVSS score of&nbsp;9.8 according to ZDI. A patch is available. If you run LoadMaster with the API enabled, update now.\n\nProgress&nbsp;published its advisory on June",
+    "analysis": {
+      "issue": "CVE-2026-8037 in Progress Kemp LoadMaster allows pre-auth root command execution via API; patches are available and a public PoC is out",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-8037"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs",
+    "link": "https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html",
+    "published": "Tue, 30 Jun 2026 12:45:07 +0530",
+    "summary": "Apple on Monday released security updates for iOS, macOS, and the Safari web browser to address over three dozen flaws, including four vulnerabilities in WebKit that were discovered using artificial intelligence (AI) tools like Anthropic Claude and OpenAI Codex Security.\n\nThe WebKit vulnerabilities are listed below -\n\n\n  CVE-2026-43707 - A memory corruption issue that could result in an",
+    "analysis": {
+      "issue": "2 patching 30+ flaws, including AI-discovered WebKit CVEs and kernel bugs; no active exploitat",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Oracle E-Business Suite Flaw CVE-2026-46817 Actively Exploited in the Wild",
+    "link": "https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html",
+    "published": "Tue, 30 Jun 2026 10:34:06 +0530",
+    "summary": "A critical security flaw impacting Oracle E-Business Suite has come under active exploitation in the wild, according to Defused Cyber.\n\nThe vulnerability, tracked as CVE-2026-46817 (CVSS score: 9.8), refers to an improper privilege management and authentication flaw in Oracle Payments that could be abused to take over susceptible instances.\n\n\"Easily exploitable vulnerability allows",
+    "analysis": {
+      "issue": "Oracle E-Business Suite vulnerability CVE-2026-46817 (CVSS 9",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-46817"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input",
     "link": "https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html",
     "published": "Tue, 30 Jun 2026 00:10:09 +0530",
@@ -73,31 +187,50 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "236,000 DCloud Uni-App Sites Used in Crypto Scams, Phishing, and Wallet Drainers",
-    "link": "https://thehackernews.com/2026/06/236000-dcloud-uni-app-sites-used-in.html",
-    "published": "Mon, 29 Jun 2026 17:27:40 +0530",
-    "summary": "New findings unearthed by Infoblox show that more than 236,000 websites are using investment scam templates built using a legitimate Chinese open-source, cross-platform application development framework called DCloud Uni-App.\n\nThe templates power bogus cryptocurrency exchanges, multi-language pig-butchering operations, WhatsApp phishing networks, fake gambling platforms, brand-impersonation",
+    "source": "Bleeping Computer",
+    "title": "Insurance giant Aflac discloses data breach after subsidiary hack",
+    "link": "https://www.bleepingcomputer.com/news/security/insurance-giant-aflac-discloses-data-breach-after-subsidiary-hack/",
+    "published": "Tue, 30 Jun 2026 07:12:18 -0400",
+    "summary": "American insurance giant Aflac has disclosed a new data breach after attackers breached its Japan subsidiary's systems and stole personal and bank account information. [...]",
     "analysis": {
-      "issue": "Infoblox found 236,493 DCloud Uni-App domains powering crypto scams, WhatsApp phishing, fake gambling sites, and wallet drainers",
+      "issue": "American insurance giant Aflac has disclosed a new data breach after attackers breached its Japan subsidiary's systems and stole personal and bank account information",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Phishing"
+        "Data Breach",
+        "Supply Chain"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Why Post-Quantum Cryptography Starts With Credentials",
-    "link": "https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html",
-    "published": "Mon, 29 Jun 2026 17:12:16 +0530",
-    "summary": "Today’s encrypted data, such as credentials, may no longer remain confidential in the future because the public-key cryptography protecting it will soon be broken by quantum computers. Although no machine today can break elliptic curve cryptography or RSA, quantum hardware is advancing rapidly and will inevitably change how organizations protect their data. Ciphertext and credentials captured by",
+    "source": "Bleeping Computer",
+    "title": "Microsoft adds smarter bot protection to Teams meetings",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/mircosoft-adds-smarter-bot-protection-to-teams-meetings/",
+    "published": "Tue, 30 Jun 2026 06:52:26 -0400",
+    "summary": "Microsoft has introduced a new Teams admin policy that allows organizers to prevent third-party bots from joining meetings without approval. [...]",
     "analysis": {
-      "issue": "Quantum computers will eventually break today’s encryption",
+      "issue": "Microsoft has introduced a new Teams admin policy that allows organizers to prevent third-party bots from joining meetings without approval",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Kali Linux 2026.2 released with 9 new tools, NetHunter updates",
+    "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20262-released-with-9-new-tools-nethunter-updates/",
+    "published": "Tue, 30 Jun 2026 05:46:39 -0400",
+    "summary": "Kali Linux 2026.2, the second release of the year, is now available for download, featuring 9 new tools and numerous Kali NetHunter improvements. [...]",
+    "analysis": {
+      "issue": "2, the second release of the year, is now available for download, featuring 9 new tools and numerous Kali NetHunter improvements",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -109,80 +242,42 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Gamaredon Expands Ukraine Attacks with New Malware and Cloud Service Abuse",
-    "link": "https://thehackernews.com/2026/06/gamaredon-expands-ukraine-attacks-with.html",
-    "published": "Mon, 29 Jun 2026 17:10:24 +0530",
-    "summary": "A Russian advanced persistent threat (APT) group has continued to evolve and expand its malware arsenal as part of its ongoing cyber onslaught against Ukraine throughout 2025.\n\nSlovakian cybersecurity company ESET said it observed 35 distinct spear-phishing campaigns mounted by Gamaredon against new targets, with most of them taking place in the second half of the year. Primary targets of these",
+    "source": "Bleeping Computer",
+    "title": "Blackfield ransomware asks Nidec Corporation for $2 million ransom",
+    "link": "https://www.bleepingcomputer.com/news/security/blackfield-ransomware-asks-nidec-corporation-for-2-million-ransom/",
+    "published": "Tue, 30 Jun 2026 05:41:05 -0400",
+    "summary": "The Blackfield ransomware gang is asking for a $2 million ransom from Nidec Corporation, a large Japanese manufacturer of electronic components for automotive and computing applications. [...]",
     "analysis": {
-      "issue": "Gamaredon ran 35 spear-phishing campaigns against Ukraine in 2025, using new PowerShell tools, HTML smuggling, and CVE-2025-8088",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2025-8088"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts",
-    "link": "https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html",
-    "published": "Mon, 29 Jun 2026 14:02:31 +0530",
-    "summary": "Microsoft has shut down a long-running malicious extension operation on the Edge Add-ons store that hid its payloads inside ordinary image and font files, then woke up days after install to steal credentials and run ad fraud.\n\nThe company calls it&nbsp;StegoAd, a mash-up of steganography and adware, and ties 119 extensions to a single threat actor it says has been active since at least 2021.",
-    "analysis": {
-      "issue": "Microsoft removed 119 StegoAd Edge extensions that hid payloads in image and font files to steal credentials and run ad fraud",
+      "issue": "The Blackfield ransomware gang is asking for a $2 million ransom from Nidec Corporation, a large Japanese manufacturer of electronic components for automotive and computing applications",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "Ransomware"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw",
-    "link": "https://thehackernews.com/2026/06/public-poc-released-for-critical.html",
-    "published": "Mon, 29 Jun 2026 12:36:34 +0530",
-    "summary": "A public proof-of-concept is now out for CVE-2026-55200, a critical flaw in libssh2 that lets a malicious or compromised SSH server trigger memory corruption on a connecting client, with possible code execution. No credentials, no user interaction. The bug affects every release up to and including 1.11.1 and carries a CVSS 4.0 score of 9.2.\n\nlibssh2 is a client-side SSH library, not a server.",
+    "source": "Bleeping Computer",
+    "title": "CISA: Windows BlueHammer flaw now exploited by ransomware gangs",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/",
+    "published": "Tue, 30 Jun 2026 04:53:13 -0400",
+    "summary": "CISA confirmed on Monday that ransomware gangs are now exploiting a Microsoft Defender privilege escalation vulnerability, dubbed BlueHammer, that has previously been abused in zero-day attacks. [...]",
     "analysis": {
-      "issue": "A public PoC for CVE-2026-55200 exposes a critical libssh2 flaw that can let a malicious SSH server corrupt client memory",
+      "issue": "CISA confirmed on Monday that ransomware gangs have begun exploiting a high-severity Microsoft Defender privilege escalation vulnerability that has previously been abused in zero-day attacks",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-55200"
+        "CVE-2026-33825"
       ],
       "threat_categories": [
+        "Ransomware",
+        "Data Breach",
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Hijacked npm and Go Packages Use VS Code Tasks to Deploy Python Infostealer",
-    "link": "https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html",
-    "published": "Mon, 29 Jun 2026 11:06:06 +0530",
-    "summary": "Cybersecurity researchers have uncovered two hijacked npm packages and a cluster of Go packages that are designed to deploy a Python-based information stealer on compromised Windows, Linux, and macOS hosts.\n\n\"This attack avoids the most common npm execution paths through lifecycle scripts, perhaps in an attempt to remain 'compatible' with npm v12's security hardenings,\" JFrog said in a",
-    "analysis": {
-      "issue": "Researchers found hijacked npm packages and 16 Go packages using fake font files and VS Code tasks to deploy a Python infostealer",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -276,102 +371,6 @@
       "cves": [],
       "threat_categories": [
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Agentic AI Has an Identity Problem and Attackers Know It",
-    "link": "https://www.bleepingcomputer.com/news/security/agentic-ai-has-an-identity-problem-and-attackers-know-it/",
-    "published": "Mon, 29 Jun 2026 10:01:11 -0400",
-    "summary": "AI agents can access data, trigger workflows, and take action across enterprise systems. Token Security explains why governing these privileged identities is becoming essential for enterprise security. [...]",
-    "analysis": {
-      "issue": "By Itamar Apelblat, CEO and co-founder, Token Security Every major technology wave creates the same uncomfortable moment for security leaders",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Critical SimpleHelp flaw exploited to deploy new stealer malware",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-simplehelp-flaw-deploy-new-djinn-infostealer-taskweaver-malware/",
-    "published": "Mon, 29 Jun 2026 10:00:00 -0400",
-    "summary": "Hackers are exploiting a recently disclosed critical vulnerability (CVE-2026-48558) in SimpleHelp to deploy Djinn Stealer, a previously undocumented cross-platform information stealer targeting Windows, macOS, and Linux. [...]",
-    "analysis": {
-      "issue": "Hackers are exploiting a recently disclosed critical vulnerability (CVE-2026-48558) in SimpleHelp to deploy Djinn Stealer, a previously undocumented cross-platform information stealer targeting Windows, macOS, and Linux",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-48558"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers now exploit critical Oracle E-Business flaw in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/new-oracle-e-business-suite-flaw-now-exploited-in-attacks/",
-    "published": "Mon, 29 Jun 2026 09:46:17 -0400",
-    "summary": "Attackers have begun exploiting a critical vulnerability (CVE-2026-46817) in the Oracle E-Business Suite (EBS) financial application, according to threat intelligence company Defused. [...]",
-    "analysis": {
-      "issue": "Attackers have begun exploiting a critical vulnerability (tracked as CVE-2026-46817) in the Oracle E-Business Suite (EBS) financial application, according to threat intelligence company Defused",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-46817"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Webinar: Why business email compromise attacks keep succeeding",
-    "link": "https://www.bleepingcomputer.com/news/security/webinar-why-business-email-compromise-attacks-keep-succeeding/",
-    "published": "Mon, 29 Jun 2026 08:14:22 -0400",
-    "summary": "Business email compromise attacks increasingly rely on convincing impersonation rather than malware, making them harder for employees and traditional email defenses to detect. This webinar explores how behavioral AI can help identify sophisticated email threats and automate response workflows. [...]",
-    "analysis": {
-      "issue": "Business email compromise (BEC) remains one of the most costly cyber threats facing organizations, with attackers increasingly relying on convincing impersonation rather than malware to trick employees into sending money, sharing sensitive informatio",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "US seizes hundreds of FIFA World Cup illegal streaming domains",
-    "link": "https://www.bleepingcomputer.com/news/security/us-seizes-hundreds-of-fifa-world-cup-illegal-streaming-domains/",
-    "published": "Mon, 29 Jun 2026 07:21:03 -0400",
-    "summary": "The U.S. Justice Department's Criminal Division has seized nearly 400 web domains used for illegally streaming matches at the FIFA World Cup. [...]",
-    "analysis": {
-      "issue": "Justice Department's Criminal Division has seized nearly 400 web domains used for illegally streaming matches at the FIFA World Cup",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
@@ -569,6 +568,106 @@
   },
   {
     "source": "Security Week",
+    "title": "The AI Token Costs That Can Break Cybersecurity",
+    "link": "https://www.securityweek.com/the-ai-token-costs-that-can-break-cybersecurity/",
+    "published": "Tue, 30 Jun 2026 10:00:00 +0000",
+    "summary": "<p>As cybersecurity platforms embrace agentic AI, organizations must balance detection performance against the escalating costs of token consumption, deployment architecture, and AI credits.</p>\n<p>The post <a href=\"https://www.securityweek.com/the-ai-token-costs-that-can-break-cybersecurity/\">The AI Token Costs That Can Break Cybersecurity</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "As cybersecurity platforms embrace agentic AI, organizations must balance detection performance against the escalating costs of token consumption, deployment architecture, and AI credits",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Nissan Employee Data Breached in Oracle PeopleSoft Hack",
+    "link": "https://www.securityweek.com/nissan-employee-data-breached-in-oracle-peoplesoft-hack/",
+    "published": "Tue, 30 Jun 2026 09:25:50 +0000",
+    "summary": "<p>Only a handful of the 100 organizations targeted in the PeopleSoft campaign have been confirmed.</p>\n<p>The post <a href=\"https://www.securityweek.com/nissan-employee-data-breached-in-oracle-peoplesoft-hack/\">Nissan Employee Data Breached in Oracle PeopleSoft Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Only a handful of the 100 organizations targeted in the PeopleSoft campaign have been confirmed",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-35273"
+      ],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Critical SimpleHelp Vulnerability Exploited for Malware Delivery",
+    "link": "https://www.securityweek.com/critical-simplehelp-vulnerability-exploited-for-malware-delivery/",
+    "published": "Tue, 30 Jun 2026 08:43:10 +0000",
+    "summary": "<p>The threat actor is focused on collecting credentials, SSH keys, cryptocurrency wallets, and development tooling.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-simplehelp-vulnerability-exploited-for-malware-delivery/\">Critical SimpleHelp Vulnerability Exploited for Malware Delivery</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The threat actor is focused on collecting credentials, SSH keys, cryptocurrency wallets, and development tooling",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2026-48558"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Quantifind Raises $200 Million for AI-Native Risk Intelligence",
+    "link": "https://www.securityweek.com/quantifind-raises-200-million-for-ai-native-risk-intelligence/",
+    "published": "Tue, 30 Jun 2026 06:40:02 +0000",
+    "summary": "<p>Quantifind will accelerate international expansion and extend its platform’s localized risk intelligence capabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/quantifind-raises-200-million-for-ai-native-risk-intelligence/\">Quantifind Raises $200 Million for AI-Native Risk Intelligence</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Quantifind will accelerate international expansion and extend its platform’s localized risk intelligence capabilities",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "APT",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "New Controller Flaws Expose Highway Signs and Billboards to Remote Hacking",
+    "link": "https://www.securityweek.com/new-controller-flaws-expose-highway-signs-and-billboards-to-remote-hacking/",
+    "published": "Tue, 30 Jun 2026 05:04:15 +0000",
+    "summary": "<p>CISA has published an advisory to inform organizations about three vulnerabilities found by a researcher in Daktronics controllers.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-controller-flaws-expose-highway-signs-and-billboards-to-remote-hacking/\">New Controller Flaws Expose Highway Signs and Billboards to Remote Hacking</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "CISA has published an advisory to inform organizations about three vulnerabilities found by a researcher in Daktronics controllers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "WhatsApp Rolling Out Username Feature to Bolster Phone Number Privacy",
     "link": "https://www.securityweek.com/whatsapp-rolling-out-username-feature-to-bolster-phone-number-privacy/",
     "published": "Mon, 29 Jun 2026 16:00:01 +0000",
@@ -656,111 +755,13 @@
       "timeline": null,
       "severity": "High",
       "cves": [
+        "CVE-2026-43284",
         "CVE-2026-43500",
         "CVE-2026-43503",
-        "CVE-2026-43284",
         "CVE-2026-46300"
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "OpenAI and Anthropic Limit New AI Models to Trump-Approved Customers During Cybersecurity Review",
-    "link": "https://www.securityweek.com/openai-and-anthropic-limit-new-ai-models-to-trump-approved-customers-during-cybersecurity-review/",
-    "published": "Mon, 29 Jun 2026 10:14:01 +0000",
-    "summary": "<p>ChatGPT maker OpenAI said Friday it is restricting the release of its new artificial intelligence model at the request of President Donald Trump’s administration.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-and-anthropic-limit-new-ai-models-to-trump-approved-customers-during-cybersecurity-review/\">OpenAI and Anthropic Limit New AI Models to Trump-Approved Customers During Cybersecurity Review</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "ChatGPT maker OpenAI said Friday it is restricting the release of its new artificial intelligence model at the request of President Donald Trump’s administration",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "US Offers $10 Million Bounty for Russian State Hackers as Messaging App Attacks Evolve",
-    "link": "https://www.securityweek.com/us-offers-10-million-bounty-for-russian-state-hackers-as-messaging-app-attacks-evolve/",
-    "published": "Mon, 29 Jun 2026 09:29:34 +0000",
-    "summary": "<p>UNC5792 and UNC4221 have been targeting US government officials, military leaders, and allied personnel.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-offers-10-million-bounty-for-russian-state-hackers-as-messaging-app-attacks-evolve/\">US Offers $10 Million Bounty for Russian State Hackers as Messaging App Attacks Evolve</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "UNC5792 and UNC4221 have been targeting US government officials, military leaders, and allied personnel",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Phishing",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "OpenAI Unveils GPT-5.6 Sol as Its Most Advanced Cybersecurity AI",
-    "link": "https://www.securityweek.com/openai-unveils-gpt-5-6-sol-as-its-most-advanced-cybersecurity-ai/",
-    "published": "Mon, 29 Jun 2026 07:45:57 +0000",
-    "summary": "<p>The company says Sol matches competing systems like Mythos Preview while using only a third of the output tokens.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-unveils-gpt-5-6-sol-as-its-most-advanced-cybersecurity-ai/\">OpenAI Unveils GPT-5.6 Sol as Its Most Advanced Cybersecurity AI</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The company says Sol matches competing systems like Mythos Preview while using only a third of the output tokens",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Chinese Framework Powers 200,000 Scam Sites",
-    "link": "https://www.securityweek.com/chinese-framework-powers-200000-scam-sites/",
-    "published": "Sat, 27 Jun 2026 12:13:51 +0000",
-    "summary": "<p>Threat actors are selling investment scam templates created using the legitimate DCloud Uni-App toolkit.</p>\n<p>The post <a href=\"https://www.securityweek.com/chinese-framework-powers-200000-scam-sites/\">Chinese Framework Powers 200,000 Scam Sites</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Threat actors are selling investment scam templates created using the legitimate DCloud Uni-App toolkit",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Amazon Q Flaw Enabled Cloud Credential Theft via Malicious Repositories",
-    "link": "https://www.securityweek.com/amazon-q-flaw-enabled-cloud-credential-theft-via-malicious-repositories/",
-    "published": "Fri, 26 Jun 2026 15:23:46 +0000",
-    "summary": "<p>AWS has patched the vulnerability and published its own advisory to inform customers about the potential impact. </p>\n<p>The post <a href=\"https://www.securityweek.com/amazon-q-flaw-enabled-cloud-credential-theft-via-malicious-repositories/\">Amazon Q Flaw Enabled Cloud Credential Theft via Malicious Repositories</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "AWS has patched the vulnerability and published its own advisory to inform customers about the potential impact",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2026-12957",
-        "CVE-2026-12958"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Phishing",
-        "APT"
       ]
     }
   },
@@ -867,15 +868,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-42985",
-        "CVE-2026-47291",
-        "CVE-2026-48563",
-        "CVE-2026-42992",
-        "CVE-2026-47289",
         "CVE-2026-44799",
-        "CVE-2026-44803",
+        "CVE-2026-48563",
+        "CVE-2026-47291",
+        "CVE-2026-44812",
+        "CVE-2026-47289",
+        "CVE-2026-42992",
         "CVE-2026-44801",
-        "CVE-2026-44812"
+        "CVE-2026-42985",
+        "CVE-2026-44803"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1518,6 +1519,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "Falcon Cloud Security June 2026 Release: Updates for Azure and Google Cloud",
+    "link": "https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-expanding-multi-cloud-coverage/",
+    "published": "Jun 29, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "Learn how new CrowdStrike Falcon Cloud Security innovations expand core capabilities across Azure and Google Cloud",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "The Identity Problem Hiding in AI Agent Deployments",
     "link": "https://www.crowdstrike.com/en-us/blog/the-identity-problem-hiding-in-ai-agent-deployments/",
     "published": "Jun 24, 2026 00:00:00-0500",
@@ -1669,24 +1688,6 @@
     "summary": "",
     "analysis": {
       "issue": "CrowdStrike earned top Innovation and Growth scores in the 2026 Frost Radar for Cloud and Application Runtime Security",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Expands Identity Leadership with OpenID and IDPro",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-identity-leadership-with-openid-and-idpro/",
-    "published": "Jun 10, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "CrowdStrike helps shape identity-first security by advancing open standards and enabling real-time security signals",
       "solution": null,
       "cause": null,
       "timeline": null,
