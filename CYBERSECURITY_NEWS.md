@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-30 18:19:29 UTC
+**Last Updated:** 2026-07-01 04:23:24 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints](https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html)
+### 1. [Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data](https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 30 Jun 2026 23:16:07 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS](https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 30 Jun 2026 23:15:25 +0530  
+**Severity:** Low  
+**Categories:** Malware, DDoS  
+
+---
+
+### 3. [Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints](https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 30 Jun 2026 21:17:20 +0530  
@@ -14,7 +32,7 @@
 
 ---
 
-### 2. [Silent Swap Crypto Clipper Uses Fake Google Notes Extension to Replace Wallet Addresses](https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html)
+### 4. [Silent Swap Crypto Clipper Uses Fake Google Notes Extension to Replace Wallet Addresses](https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 30 Jun 2026 21:10:18 +0530  
@@ -23,7 +41,7 @@
 
 ---
 
-### 3. [GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks](https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html)
+### 5. [GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks](https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 30 Jun 2026 19:56:15 +0530  
@@ -32,7 +50,7 @@
 
 ---
 
-### 4. [282 iOS AI Apps Leak API Keys and Open AI Proxy Access in Network Traffic Study](https://thehackernews.com/2026/06/282-ios-apps-found-leaking-llm-api-keys.html)
+### 6. [282 iOS AI Apps Leak API Keys and Open AI Proxy Access in Network Traffic Study](https://thehackernews.com/2026/06/282-ios-apps-found-leaking-llm-api-keys.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 30 Jun 2026 19:19:34 +0530  
@@ -41,7 +59,7 @@
 
 ---
 
-### 5. [What the Numbers Say About FIFA 2026 Cyber Risk](https://thehackernews.com/2026/06/what-numbers-say-about-fifa-2026-cyber.html)
+### 7. [What the Numbers Say About FIFA 2026 Cyber Risk](https://thehackernews.com/2026/06/what-numbers-say-about-fifa-2026-cyber.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 30 Jun 2026 17:00:00 +0530  
@@ -50,7 +68,7 @@
 
 ---
 
-### 6. [Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer](https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html)
+### 8. [Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer](https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 30 Jun 2026 16:48:47 +0530  
@@ -60,7 +78,7 @@
 
 ---
 
-### 7. [AirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks](https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html)
+### 9. [AirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks](https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 30 Jun 2026 14:57:58 +0530  
@@ -69,7 +87,7 @@
 
 ---
 
-### 8. [New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials](https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html)
+### 10. [New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials](https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 30 Jun 2026 14:07:19 +0530  
@@ -78,27 +96,52 @@
 
 ---
 
-### 9. [Progress Kemp LoadMaster Flaw Could Let Attackers Run Root Commands Pre-Auth](https://thehackernews.com/2026/06/progress-kemp-loadmaster-flaw-could-let.html)
+### 11. [Anthropic to restore Claude Fable access on Wednesday](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-to-restore-claude-fable-access-on-wednesday/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 30 Jun 2026 13:08:07 +0530  
+**Source:** Bleeping Computer  
+**Published:** Tue, 30 Jun 2026 20:35:14 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2026-8037  
-**Categories:** Vulnerability  
+**Categories:** General Security  
 
 ---
 
-### 10. [Oracle E-Business Suite Flaw CVE-2026-46817 Actively Exploited in the Wild](https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html)
+### 12. [Anthropic rolls out Sonnet 5 with near-Opus 4.8 performance at a lower price](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-sonnet-5-with-near-opus-48-performance-at-a-lower-price/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 30 Jun 2026 10:34:06 +0530  
+**Source:** Bleeping Computer  
+**Published:** Tue, 30 Jun 2026 19:13:07 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2026-46817  
-**Categories:** Vulnerability  
+**Categories:** General Security  
 
 ---
 
-### 11. [Fake Perplexity extension on Chrome Web Store tracked searches](https://www.bleepingcomputer.com/news/security/fake-perplexity-extension-on-chrome-web-store-tracked-searches/)
+### 13. [New BioShocking attack manipulates AI browser into data theft](https://www.bleepingcomputer.com/news/security/new-bioshocking-attack-manipulates-ai-browser-into-data-theft/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 30 Jun 2026 17:50:24 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 14. [Microsoft accelerates quantum-safe roadmap as risks grow](https://www.bleepingcomputer.com/news/microsoft/microsoft-accelerates-quantum-safe-roadmap-as-risks-grow/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 30 Jun 2026 17:20:06 -0400  
+**Severity:** Critical  
+**Categories:** General Security  
+
+---
+
+### 15. [Malicious PyPI packages give hackers control of Telegram bot servers](https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-give-hackers-control-of-telegram-bot-servers/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 30 Jun 2026 17:02:55 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 16. [Fake Perplexity extension on Chrome Web Store tracked searches](https://www.bleepingcomputer.com/news/security/fake-perplexity-extension-on-chrome-web-store-tracked-searches/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 30 Jun 2026 11:46:19 -0400  
@@ -107,7 +150,7 @@
 
 ---
 
-### 12. [Lessons from the Underground: How to Combat Business Email Compromise](https://www.bleepingcomputer.com/news/security/lessons-from-the-underground-how-to-combat-business-email-compromise/)
+### 17. [Lessons from the Underground: How to Combat Business Email Compromise](https://www.bleepingcomputer.com/news/security/lessons-from-the-underground-how-to-combat-business-email-compromise/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 30 Jun 2026 10:00:10 -0400  
@@ -116,7 +159,7 @@
 
 ---
 
-### 13. [Insurance giant Aflac discloses data breach after subsidiary hack](https://www.bleepingcomputer.com/news/security/insurance-giant-aflac-discloses-data-breach-after-subsidiary-hack/)
+### 18. [Insurance giant Aflac discloses data breach after subsidiary hack](https://www.bleepingcomputer.com/news/security/insurance-giant-aflac-discloses-data-breach-after-subsidiary-hack/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 30 Jun 2026 07:12:18 -0400  
@@ -125,7 +168,7 @@
 
 ---
 
-### 14. [Microsoft adds smarter bot protection to Teams meetings](https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-smarter-bot-protection-to-teams-meetings/)
+### 19. [Microsoft adds smarter bot protection to Teams meetings](https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-smarter-bot-protection-to-teams-meetings/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 30 Jun 2026 06:52:26 -0400  
@@ -134,56 +177,10 @@
 
 ---
 
-### 15. [Kali Linux 2026.2 released with 9 new tools, NetHunter updates](https://www.bleepingcomputer.com/news/linux/kali-linux-20262-released-with-9-new-tools-nethunter-updates/)
+### 20. [Kali Linux 2026.2 released with 9 new tools, NetHunter updates](https://www.bleepingcomputer.com/news/linux/kali-linux-20262-released-with-9-new-tools-nethunter-updates/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 30 Jun 2026 05:46:39 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 16. [Blackfield ransomware asks Nidec Corporation for $2 million ransom](https://www.bleepingcomputer.com/news/security/blackfield-ransomware-asks-nidec-corporation-for-2-million-ransom/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 30 Jun 2026 05:41:05 -0400  
-**Severity:** Low  
-**Categories:** Ransomware  
-
----
-
-### 17. [CISA: Windows BlueHammer flaw now exploited by ransomware gangs](https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 30 Jun 2026 04:53:13 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-33825  
-**Categories:** Ransomware, Data Breach, Vulnerability  
-
----
-
-### 18. [Nissan discloses employee data breach linked to Oracle zero-day attacks](https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 29 Jun 2026 16:40:44 -0400  
-**Severity:** Low  
-**Categories:** Data Breach, Vulnerability  
-
----
-
-### 19. [NAIC says public data stolen in ShinyHunters' PeopleSoft breach](https://www.bleepingcomputer.com/news/security/naic-says-public-data-stolen-in-shinyhunters-peoplesoft-breach/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 29 Jun 2026 16:30:28 -0400  
-**Severity:** Critical  
-**Categories:** Ransomware, Data Breach, Vulnerability  
-
----
-
-### 20. [WhatsApp rolls out usernames to help users hide their phone number](https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-usernames-to-help-users-hide-their-phone-number/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 29 Jun 2026 13:48:28 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -221,7 +218,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-49160, CVE-2026-50507, CVE-2026-45586  
+**CVEs:** CVE-2026-45586, CVE-2026-49160, CVE-2026-50507  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -424,7 +421,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-44803, CVE-2026-44812, CVE-2026-48563, CVE-2026-44799, CVE-2026-42992, CVE-2026-42985, CVE-2026-47291, CVE-2026-44801, CVE-2026-47289  
+**CVEs:** CVE-2026-44799, CVE-2026-44803, CVE-2026-44812, CVE-2026-44801, CVE-2026-47289, CVE-2026-42985, CVE-2026-47291, CVE-2026-48563, CVE-2026-42992  
 **Categories:** Vulnerability  
 
 ---
@@ -650,7 +647,16 @@
 
 ---
 
-### 71. [Update time: Apple releases security patches for iOS, MacOS Tahoe, Safari](https://www.malwarebytes.com/blog/news/2026/06/update-time-apple-releases-security-patches-for-ios-macos-tahoe-safari)
+### 71. [Watch out for &#8220;high paying, low effort&#8221; Amazon job texts](https://www.malwarebytes.com/blog/scams/2026/06/watch-out-for-high-paying-low-effort-amazon-job-texts)
+
+**Source:** Malwarebytes  
+**Published:** Tue, 30 Jun 2026 20:46:28 GMT  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 72. [Update time: Apple releases security patches for iOS, MacOS Tahoe, Safari](https://www.malwarebytes.com/blog/news/2026/06/update-time-apple-releases-security-patches-for-ios-macos-tahoe-safari)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 30 Jun 2026 14:35:45 GMT  
@@ -659,7 +665,7 @@
 
 ---
 
-### 72. [This pay gap is programmed (Lock and Code S07E13)](https://www.malwarebytes.com/blog/podcast/2026/06/this-pay-gap-is-programmed-lock-and-code-s07e13)
+### 73. [This pay gap is programmed (Lock and Code S07E13)](https://www.malwarebytes.com/blog/podcast/2026/06/this-pay-gap-is-programmed-lock-and-code-s07e13)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 29 Jun 2026 14:44:37 GMT  
@@ -668,7 +674,7 @@
 
 ---
 
-### 73. [119 Edge extensions promised useful tools, instead downloaded malware](https://www.malwarebytes.com/blog/news/2026/06/119-edge-extensions-promised-useful-tools-instead-downloaded-malware)
+### 74. [119 Edge extensions promised useful tools, instead downloaded malware](https://www.malwarebytes.com/blog/news/2026/06/119-edge-extensions-promised-useful-tools-instead-downloaded-malware)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 29 Jun 2026 14:41:18 GMT  
@@ -677,7 +683,7 @@
 
 ---
 
-### 74. [A week in security (June 22 &#8211; June 28)](https://www.malwarebytes.com/blog/news/2026/06/a-week-in-security-june-22-june-28)
+### 75. [A week in security (June 22 &#8211; June 28)](https://www.malwarebytes.com/blog/news/2026/06/a-week-in-security-june-22-june-28)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 29 Jun 2026 07:01:00 GMT  
@@ -686,7 +692,7 @@
 
 ---
 
-### 75. [Malware steals Chrome session cookies to take over your accounts](https://www.malwarebytes.com/blog/news/2026/06/malware-steals-chrome-session-cookies-to-take-over-your-accounts)
+### 76. [Malware steals Chrome session cookies to take over your accounts](https://www.malwarebytes.com/blog/news/2026/06/malware-steals-chrome-session-cookies-to-take-over-your-accounts)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 26 Jun 2026 12:44:01 GMT  
@@ -695,7 +701,7 @@
 
 ---
 
-### 76. [Beware of &#8220;Parcel Expert&#8221; job offers: They&#8217;re parcel mule scams](https://www.malwarebytes.com/blog/scams/2026/06/beware-of-parcel-expert-job-offers-theyre-parcel-mule-scams)
+### 77. [Beware of &#8220;Parcel Expert&#8221; job offers: They&#8217;re parcel mule scams](https://www.malwarebytes.com/blog/scams/2026/06/beware-of-parcel-expert-job-offers-theyre-parcel-mule-scams)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 25 Jun 2026 18:12:51 GMT  
@@ -704,7 +710,7 @@
 
 ---
 
-### 77. [Update Chrome to patch critical browser security flaws](https://www.malwarebytes.com/blog/news/2026/06/update-chrome-to-patch-critical-browser-security-flaws)
+### 78. [Update Chrome to patch critical browser security flaws](https://www.malwarebytes.com/blog/news/2026/06/update-chrome-to-patch-critical-browser-security-flaws)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 25 Jun 2026 11:04:48 GMT  
@@ -714,7 +720,7 @@
 
 ---
 
-### 78. [Fake domain renewal emails trick website owners into paying scammers](https://www.malwarebytes.com/blog/threat-intel/2026/06/fake-domain-renewal-emails-trick-website-owners-into-paying-scammers)
+### 79. [Fake domain renewal emails trick website owners into paying scammers](https://www.malwarebytes.com/blog/threat-intel/2026/06/fake-domain-renewal-emails-trick-website-owners-into-paying-scammers)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 25 Jun 2026 10:26:48 GMT  
@@ -723,22 +729,12 @@
 
 ---
 
-### 79. [Elite network says it was hacked after members&#8217; personal data was left exposed](https://www.malwarebytes.com/blog/privacy/2026/06/elite-network-says-it-was-hacked-after-members-personal-data-was-left-exposed)
+### 80. [Elite network says it was hacked after members&#8217; personal data was left exposed](https://www.malwarebytes.com/blog/privacy/2026/06/elite-network-says-it-was-hacked-after-members-personal-data-was-left-exposed)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 25 Jun 2026 09:08:05 GMT  
 **Severity:** High  
 **Categories:** General Security  
-
----
-
-### 80. [PixelSmash flaw turns video files into attack tools](https://www.malwarebytes.com/blog/news/2026/06/pixelsmash-flaw-turns-video-files-into-attack-tools)
-
-**Source:** Malwarebytes  
-**Published:** Wed, 24 Jun 2026 17:23:41 GMT  
-**Severity:** Critical  
-**CVEs:** CVE-2026-8461  
-**Categories:** Vulnerability  
 
 ---
 

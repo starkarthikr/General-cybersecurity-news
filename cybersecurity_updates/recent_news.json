@@ -1,6 +1,43 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data",
+    "link": "https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html",
+    "published": "Tue, 30 Jun 2026 23:16:07 +0530",
+    "summary": "New Microsoft&nbsp;research&nbsp;shows how attackers can hijack AI agents that act on a user's behalf, using nothing more than a poisoned tool description to make the agent quietly hand over company data to an outsider.\n\nThe trick is that the agent never breaks a rule. Every step looks routine, so in a default setup no alarm may fire.\n\nThe work comes from Microsoft Incident Response and its",
+    "analysis": {
+      "issue": "Poisoned MCP tool descriptions can make agents collect invoices and leak company data through routine approved tool calls",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS",
+    "link": "https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html",
+    "published": "Tue, 30 Jun 2026 23:15:25 +0530",
+    "summary": "A new two-stage malware family called RustDuck is hijacking home routers, IP cameras, Android boxes, and poorly secured servers, then stitching them into a network built to knock websites and online services offline.\n\nResearchers at QiAnXin's&nbsp;XLab&nbsp;have tracked it since February 2026, and say the real story is not how big it is today, but how fast it is changing.\n\nThe end goal is a",
+    "analysis": {
+      "issue": "XLab says the two-stage botnet abuses weak Telnet/SSH logins, exposed ADB, and old flaws while shifting its core to Rust",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints",
     "link": "https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html",
     "published": "Tue, 30 Jun 2026 21:17:20 +0530",
@@ -148,42 +185,92 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Progress Kemp LoadMaster Flaw Could Let Attackers Run Root Commands Pre-Auth",
-    "link": "https://thehackernews.com/2026/06/progress-kemp-loadmaster-flaw-could-let.html",
-    "published": "Tue, 30 Jun 2026 13:08:07 +0530",
-    "summary": "A critical vulnerability in Progress Kemp LoadMaster can let an unauthenticated attacker execute arbitrary commands as root on the appliance by sending a crafted request to its API.\n\nThe flaw, tracked as&nbsp;CVE-2026-8037, carries a CVSS score of&nbsp;9.8 according to ZDI. A patch is available. If you run LoadMaster with the API enabled, update now.\n\nProgress&nbsp;published its advisory on June",
+    "source": "Bleeping Computer",
+    "title": "Anthropic to restore Claude Fable access on Wednesday",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-to-restore-claude-fable-access-on-wednesday/",
+    "published": "Tue, 30 Jun 2026 20:35:14 -0400",
+    "summary": "Anthropic has confirmed that the Department of Commerce has lifted export controls on Claude's two most powerful models, Fable 5 and Mythos 5. [...]",
     "analysis": {
-      "issue": "CVE-2026-8037 in Progress Kemp LoadMaster allows pre-auth root command execution via API; patches are available and a public PoC is out",
+      "issue": "Anthropic has confirmed that the Department of Commerce has lifted export controls on Claude's two most powerful models, Fable 5 and Mythos 5",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [
-        "CVE-2026-8037"
-      ],
+      "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "General Security"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Oracle E-Business Suite Flaw CVE-2026-46817 Actively Exploited in the Wild",
-    "link": "https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html",
-    "published": "Tue, 30 Jun 2026 10:34:06 +0530",
-    "summary": "A critical security flaw impacting Oracle E-Business Suite has come under active exploitation in the wild, according to Defused Cyber.\n\nThe vulnerability, tracked as CVE-2026-46817 (CVSS score: 9.8), refers to an improper privilege management and authentication flaw in Oracle Payments that could be abused to take over susceptible instances.\n\n\"Easily exploitable vulnerability allows",
+    "source": "Bleeping Computer",
+    "title": "Anthropic rolls out Sonnet 5 with near-Opus 4.8 performance at a lower price",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-sonnet-5-with-near-opus-48-performance-at-a-lower-price/",
+    "published": "Tue, 30 Jun 2026 19:13:07 -0400",
+    "summary": "Anthropic is now rolling out Sonnet 5, and it's almost as good as the Opus range, but it is designed to be cheaper than the company's flagship model. [...]",
     "analysis": {
-      "issue": "Oracle E-Business Suite vulnerability CVE-2026-46817 (CVSS 9",
+      "issue": "Anthropic is now rolling out Sonnet 5, and it's almost as good as the Opus range, but it is designed to be cheaper than the company's flagship model",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [
-        "CVE-2026-46817"
-      ],
+      "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "New BioShocking attack manipulates AI browser into data theft",
+    "link": "https://www.bleepingcomputer.com/news/security/new-bioshocking-attack-manipulates-ai-browser-into-data-theft/",
+    "published": "Tue, 30 Jun 2026 17:50:24 -0400",
+    "summary": "A new prompt injection attack dubbed \"BioShocking\" could trick AI-powered browsers into treating real-world risky actions as part of a fictional scenario, causing them to ignore any safety guardrails. [...]",
+    "analysis": {
+      "issue": "A new prompt injection attack dubbed “BioShocking” could trick AI-powered browsers into treating real-world risky actions as part of a fictional scenario, causing them to ignore any safety guardrails",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft accelerates quantum-safe roadmap as risks grow",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-accelerates-quantum-safe-roadmap-as-risks-grow/",
+    "published": "Tue, 30 Jun 2026 17:20:06 -0400",
+    "summary": "Microsoft announced today that it is accelerating its quantum-safe security roadmap, saying advances in quantum computing are bringing the need to replace today's encryption standards sooner than previously expected. [...]",
+    "analysis": {
+      "issue": "Microsoft announced today that it is accelerating its quantum-safe security roadmap, saying advances in quantum computing are bringing the need to replace today's encryption standards sooner than previously expected",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Malicious PyPI packages give hackers control of Telegram bot servers",
+    "link": "https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-give-hackers-control-of-telegram-bot-servers/",
+    "published": "Tue, 30 Jun 2026 17:02:55 -0400",
+    "summary": "A campaign active since last November has been targeting Python developers building Telegram bots with trojanized Pyrogram forks that allow attackers to read arbitrary files on compromised servers. [...]",
+    "analysis": {
+      "issue": "A campaign active since last November has been targeting Python developers building Telegram bots with trojanized Pyrogram forks that allow attackers to read arbitrary files on compromised servers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
       ]
     }
   },
@@ -279,103 +366,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Blackfield ransomware asks Nidec Corporation for $2 million ransom",
-    "link": "https://www.bleepingcomputer.com/news/security/blackfield-ransomware-asks-nidec-corporation-for-2-million-ransom/",
-    "published": "Tue, 30 Jun 2026 05:41:05 -0400",
-    "summary": "The Blackfield ransomware gang is asking for a $2 million ransom from Nidec Corporation, a large Japanese manufacturer of electronic components for automotive and computing applications. [...]",
-    "analysis": {
-      "issue": "The Blackfield ransomware gang is asking for a $2 million ransom from Nidec Corporation, a large Japanese manufacturer of electronic components for automotive and computing applications",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA: Windows BlueHammer flaw now exploited by ransomware gangs",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/",
-    "published": "Tue, 30 Jun 2026 04:53:13 -0400",
-    "summary": "CISA confirmed on Monday that ransomware gangs are now exploiting a Microsoft Defender privilege escalation vulnerability, dubbed BlueHammer, that has previously been abused in zero-day attacks. [...]",
-    "analysis": {
-      "issue": "CISA confirmed on Monday that ransomware gangs have begun exploiting a high-severity Microsoft Defender privilege escalation vulnerability that has previously been abused in zero-day attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-33825"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Nissan discloses employee data breach linked to Oracle zero-day attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/",
-    "published": "Mon, 29 Jun 2026 16:40:44 -0400",
-    "summary": "Nissan is warning that it suffered a data breach affecting current and former employees after threat actors exploited an Oracle PeopleSoft vulnerability in data theft attacks previously linked to the ShinyHunters extortion group. [...]",
-    "analysis": {
-      "issue": "Nissan is warning that it suffered a data breach affecting current and former employees after threat actors exploited an Oracle PeopleSoft vulnerability in data theft attacks previously linked to the ShinyHunters extortion group",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "NAIC says public data stolen in ShinyHunters' PeopleSoft breach",
-    "link": "https://www.bleepingcomputer.com/news/security/naic-says-public-data-stolen-in-shinyhunters-peoplesoft-breach/",
-    "published": "Mon, 29 Jun 2026 16:30:28 -0400",
-    "summary": "The National Association of Insurance Commissioners (NAIC) says the ShinyHunters extortion group stole only publicly available data, outdated logs, and configuration files after breaching its systems by exploiting a zero-day vulnerability in an Oracle PeopleSoft server. [...]",
-    "analysis": {
-      "issue": "The National Association of Insurance Commissioners (NAIC) says the ShinyHunters extortion group stole only publicly available data, outdated logs, and configuration files after breaching its systems by exploiting a zero-day vulnerability in an Oracl",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "WhatsApp rolls out usernames to help users hide their phone number",
-    "link": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-usernames-to-help-users-hide-their-phone-number/",
-    "published": "Mon, 29 Jun 2026 13:48:28 -0400",
-    "summary": "WhatsApp is finally allowing users to reserve usernames, a privacy feature that lets them hide their phone numbers from people not in their contact list. [...]",
-    "analysis": {
-      "issue": "WhatsApp is finally allowing users to reserve usernames, a privacy feature that lets them hide their phone numbers from people not in their contact list",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
     "link": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
@@ -445,9 +435,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-45586",
         "CVE-2026-49160",
-        "CVE-2026-50507",
-        "CVE-2026-45586"
+        "CVE-2026-50507"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -871,15 +861,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-44799",
         "CVE-2026-44803",
         "CVE-2026-44812",
-        "CVE-2026-48563",
-        "CVE-2026-44799",
-        "CVE-2026-42992",
+        "CVE-2026-44801",
+        "CVE-2026-47289",
         "CVE-2026-42985",
         "CVE-2026-47291",
-        "CVE-2026-44801",
-        "CVE-2026-47289"
+        "CVE-2026-48563",
+        "CVE-2026-42992"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1336,6 +1326,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Watch out for &#8220;high paying, low effort&#8221; Amazon job texts",
+    "link": "https://www.malwarebytes.com/blog/scams/2026/06/watch-out-for-high-paying-low-effort-amazon-job-texts",
+    "published": "Tue, 30 Jun 2026 20:46:28 GMT",
+    "summary": "Scammers are using Amazon and the promise of big money to lure people in to their trap.",
+    "analysis": {
+      "issue": "Remote, flexible, high‑paying work is a tempting prospect, and the holy grail for many people looking for a new role",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Update time: Apple releases security patches for iOS, MacOS Tahoe, Safari",
     "link": "https://www.malwarebytes.com/blog/news/2026/06/update-time-apple-releases-security-patches-for-ios-macos-tahoe-safari",
     "published": "Tue, 30 Jun 2026 14:35:45 GMT",
@@ -1496,26 +1504,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "PixelSmash flaw turns video files into attack tools",
-    "link": "https://www.malwarebytes.com/blog/news/2026/06/pixelsmash-flaw-turns-video-files-into-attack-tools",
-    "published": "Wed, 24 Jun 2026 17:23:41 GMT",
-    "summary": "Researchers have found a critical FFmpeg flaw that could let attackers use a malicious video file to compromise vulnerable systems.",
-    "analysis": {
-      "issue": "A newly discovered vulnerability in FFmpeg’s MagicYUV decoder can turn a tiny, malformed video into a foothold for attackers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-8461"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
