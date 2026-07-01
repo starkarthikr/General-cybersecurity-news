@@ -1,6 +1,97 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Microsoft Accelerates Post-Quantum Cryptography Shift to 2029",
+    "link": "https://thehackernews.com/2026/07/microsoft-accelerates-post-quantum.html",
+    "published": "Wed, 01 Jul 2026 16:11:36 +0530",
+    "summary": "Microsoft on Tuesday said it's accelerating its quantum safe security roadmap, stating technology advances in quantum computing are making it essential to replace existing encryption standards sooner than previously expected.\n\n\"Advances in quantum research and development have shifted the risk horizon,\" Mark Russinovich, chief technology officer of Microsoft Azure, said. \"We believe",
+    "analysis": {
+      "issue": "The roadmap adds PQC to SFI and focuses on TLS 1",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware",
+    "link": "https://thehackernews.com/2026/07/phantom-squatting-uses-ai-hallucinated.html",
+    "published": "Wed, 01 Jul 2026 12:50:51 +0530",
+    "summary": "Large language models keep inventing web addresses that do not exist. Attackers have started buying those made-up domains before anyone else can, then hosting phishing pages on them to catch traffic that AI tools point their way.\n\nPalo Alto Networks'&nbsp;Unit 42&nbsp;calls the trick phantom squatting, and its new research shows it is already happening in the wild.\n\nThe reason it matters is",
+    "analysis": {
+      "issue": "Unit 42 found 250,000 unowned domains in 2",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Anthropic Restores Claude Fable 5 After U.S. Lifts Jailbreak-Linked Export Controls",
+    "link": "https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html",
+    "published": "Wed, 01 Jul 2026 12:16:17 +0530",
+    "summary": "Anthropic is putting Claude Fable 5 back online worldwide. On&nbsp;June 30, the U.S. Commerce Department lifted the export controls it had imposed on Fable and its more tightly controlled sibling Mythos 5 about two and a half weeks earlier.\n\nFable 5 returns to users on Wednesday, July 1, across Claude.ai, the Claude Platform, Claude Code, and Claude Cowork.\n\nExport controls restrict who can",
+    "analysis": {
+      "issue": "June 30 decision ended controls tied to an Amazon-reported Fable 5 jailbreak; Anthropic says a classifier blocks it in over 99% of tries",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Azure CLI Password Spray Hits at Least 78 Microsoft Accounts in 81M+ Attempts",
+    "link": "https://thehackernews.com/2026/07/azure-cli-password-spray-hits-at-least.html",
+    "published": "Wed, 01 Jul 2026 11:16:03 +0530",
+    "summary": "Cybersecurity researchers have warned of a \"massive, ongoing, automated password spray attack\" aimed at Microsoft's Azure command-line interface (CLI), compromising dozens of accounts in the process.\n\nThe activity, per Huntress, originates from an IPv6 address range (2a0a:d683::/32) controlled by internet infrastructure provider LSHIY LLC (AS32167).\n\n\"Between June 12 and June 26, the threat",
+    "analysis": {
+      "issue": "Huntress says attackers made 81M Azure CLI password spray attempts from June 12-26, 2026, using ROPC to bypass weak CAPs",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Researcher Analyzes 3,000 Live ClickFix Payloads, Exposing API-Driven Malware Delivery",
+    "link": "https://thehackernews.com/2026/07/researcher-analyzes-3000-live-clickfix.html",
+    "published": "Wed, 01 Jul 2026 11:02:12 +0530",
+    "summary": "ClickFix, the trick that fools people into running malware by hand, has quietly grown a back office.\n\nNew research shows the malicious commands behind its fake \"prove you're human\" pages are now handed out by API-driven servers that give each visitor the same malware in a different disguise. The same research also turned up a new delivery method built to slip past Windows' script scanning.",
+    "analysis": {
+      "issue": "Researcher analyzed 3,000 ClickFix payloads and found rotating wrappers plus a Downloads-folder method built to bypass AMSI",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service",
     "link": "https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html",
     "published": "Wed, 01 Jul 2026 09:24:22 +0530",
@@ -93,31 +184,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks",
-    "link": "https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html",
-    "published": "Tue, 30 Jun 2026 19:56:15 +0530",
-    "summary": "The safety check that is supposed to stop an AI coding agent from running a dangerous command can be walked straight past using a shell trick that has been public for decades.\n\nNew research from&nbsp;Adversa AI, which is named the bypass GuardFall, found it works against ten of the eleven popular open-source coding and computer-use agents the firm tested. Only one, \"Continue,\" was built to",
+    "source": "Bleeping Computer",
+    "title": "Microsoft fixes GIF functionality in the Windows Emoji Panel",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-gif-functionality-in-the-windows-emoji-panel/",
+    "published": "Wed, 01 Jul 2026 06:52:26 -0400",
+    "summary": "Microsoft has fixed the GIF functionality in the Emoji Panel for Windows 11 and Windows Server users after the provider shut down its service. [...]",
     "analysis": {
-      "issue": "Adversa AI says GuardFall bypassed safety checks in 10 of 11 AI coding agents by exploiting how Bash rewrites commands before execution",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "282 iOS AI Apps Leak API Keys and Open AI Proxy Access in Network Traffic Study",
-    "link": "https://thehackernews.com/2026/06/282-ios-apps-found-leaking-llm-api-keys.html",
-    "published": "Tue, 30 Jun 2026 19:19:34 +0530",
-    "summary": "Researchers tested 444 AI chatbot apps for iPhone and found that 282 of them, nearly two-thirds, exposed paid AI access through their network traffic.\n\nIn many cases, the path in was visible just by watching what the app sent: a plaintext API key, a reusable token, or a backend server that accepted requests with no key at all.\n\nWhoever grabs it can send model requests on the developer's account,",
-    "analysis": {
-      "issue": "Wake Forest study finds 282 of 444 iOS AI apps leak API keys via network traffic, enabling unauthorized AI usage and billing risk",
+      "issue": "Microsoft has fixed the GIF functionality in the Emoji Panel for Windows 11 and Windows Server users after the provider shut down its service",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -129,13 +202,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "What the Numbers Say About FIFA 2026 Cyber Risk",
-    "link": "https://thehackernews.com/2026/06/what-numbers-say-about-fifa-2026-cyber.html",
-    "published": "Tue, 30 Jun 2026 17:00:00 +0530",
-    "summary": "The FIFA World Cup 2026 opened on June 11. By that date, according to Check Point Research, the fraud infrastructure targeting it had already been built, staged, and partially deployed. Threat actor activity was pre-planned, months out, across three sectors and at least ten languages.\n\nCheck Point Exposure Management published the FIFA World Cup 2026 Cyber Threat Report this month, covering",
+    "source": "Bleeping Computer",
+    "title": "Amazon fined $2.25M for withholding evidence from fraud victims",
+    "link": "https://www.bleepingcomputer.com/news/security/amazon-fined-225m-for-withholding-evidence-from-fraud-victims/",
+    "published": "Wed, 01 Jul 2026 05:43:27 -0400",
+    "summary": "The U.S. Federal Trade Commission (FTC) says Amazon will pay a $2.25 million civil penalty to settle charges that it blocked identity theft victims' access to transaction records. [...]",
     "analysis": {
-      "issue": "Check Point says fake apps, lookalike domains, and email spoofing gaps were already targeting FIFA World Cup 2026",
+      "issue": "Federal Trade Commission (FTC) says Amazon will pay a $2",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -147,40 +220,27 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer",
-    "link": "https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html",
-    "published": "Tue, 30 Jun 2026 16:48:47 +0530",
-    "summary": "An unknown threat actor has been observed exploiting a recently disclosed maximum-severity security flaw in SimpleHelp to deliver two previously unreported malware families, TaskWeaver and Djinn Stealer.\n\nThe intrusion involves the exploitation of CVE-2026-48558 (CVSS score: 10.0), a critical authentication bypass vulnerability impacting the OpenID Connect (OIDC) flow that an unauthenticated",
+    "source": "Bleeping Computer",
+    "title": "Adobe patches seven max severity ColdFusion, Campaign flaws",
+    "link": "https://www.bleepingcomputer.com/news/security/adobe-patches-seven-max-severity-coldfusion-campaign-flaws/",
+    "published": "Wed, 01 Jul 2026 03:34:52 -0400",
+    "summary": "Adobe has released security patches for seven maximum-severity vulnerabilities in the ColdFusion web app development platform and the Campaign Classic marketing automation platform. [...]",
     "analysis": {
-      "issue": "Attackers exploited SimpleHelp CVE-2026-48558 to deliver TaskWeaver and Djinn Stealer, targeting credentials across cloud, code, AI, and wallet tools",
+      "issue": "Adobe has released security patches for seven maximum-severity vulnerabilities in the ColdFusion web app development platform and the Campaign Classic marketing automation platform",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [
-        "CVE-2026-48558"
+        "CVE-2026-48282",
+        "CVE-2026-48277",
+        "CVE-2026-48316",
+        "CVE-2026-48286",
+        "CVE-2026-48281",
+        "CVE-2026-48276"
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "AirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks",
-    "link": "https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html",
-    "published": "Tue, 30 Jun 2026 14:57:58 +0530",
-    "summary": "Two researchers have found six security flaws in AirDrop and Quick Share, the wireless features that beam files between nearby devices with no cables or shared network.\n\nAn attacker within wireless range, with just a laptop and no prior connection, can crash the sharing service on a Mac or iPhone set to receive from anyone, with no tap or prompt.\n\nThe same research found Quick Share flaws that",
-    "analysis": {
-      "issue": "Researchers found six AirDrop and Quick Share flaws enabling local crashes, Samsung session bypasses, and a fixed Google Windows bug",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -311,61 +371,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Insurance giant Aflac discloses data breach after subsidiary hack",
-    "link": "https://www.bleepingcomputer.com/news/security/insurance-giant-aflac-discloses-data-breach-after-subsidiary-hack/",
-    "published": "Tue, 30 Jun 2026 07:12:18 -0400",
-    "summary": "American insurance giant Aflac has disclosed a new data breach after attackers breached its Japan subsidiary's systems and stole personal and bank account information. [...]",
-    "analysis": {
-      "issue": "American insurance giant Aflac has disclosed a new data breach after attackers breached its Japan subsidiary's systems and stole personal and bank account information",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft adds smarter bot protection to Teams meetings",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-smarter-bot-protection-to-teams-meetings/",
-    "published": "Tue, 30 Jun 2026 06:52:26 -0400",
-    "summary": "Microsoft has introduced a new Teams admin policy that allows organizers to prevent third-party bots from joining meetings without approval. [...]",
-    "analysis": {
-      "issue": "Microsoft has introduced a new Teams admin policy that allows organizers to prevent third-party bots from joining meetings without approval",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Kali Linux 2026.2 released with 9 new tools, NetHunter updates",
-    "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20262-released-with-9-new-tools-nethunter-updates/",
-    "published": "Tue, 30 Jun 2026 05:46:39 -0400",
-    "summary": "Kali Linux 2026.2, the second release of the year, is now available for download, featuring 9 new tools and numerous Kali NetHunter improvements. [...]",
-    "analysis": {
-      "issue": "2, the second release of the year, is now available for download, featuring 9 new tools and numerous Kali NetHunter improvements",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
     "link": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
@@ -436,8 +441,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-50507",
-        "CVE-2026-45586",
-        "CVE-2026-49160"
+        "CVE-2026-49160",
+        "CVE-2026-45586"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -559,6 +564,157 @@
   },
   {
     "source": "Security Week",
+    "title": "Adobe Patches Critical ColdFusion, Campaign Classic Vulnerabilities",
+    "link": "https://www.securityweek.com/adobe-patches-critical-coldfusion-campaign-classic-vulnerabilities/",
+    "published": "Wed, 01 Jul 2026 11:27:07 +0000",
+    "summary": "<p>Seven of the security defects have a maximum severity rating of 10/10 and could lead to arbitrary code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/adobe-patches-critical-coldfusion-campaign-classic-vulnerabilities/\">Adobe Patches Critical ColdFusion, Campaign Classic Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Seven of the security defects have a maximum severity rating of 10/10 and could lead to arbitrary code execution",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-48282",
+        "CVE-2026-48285",
+        "CVE-2026-48313",
+        "CVE-2026-48277",
+        "CVE-2026-48316",
+        "CVE-2026-48286",
+        "CVE-2026-48281",
+        "CVE-2026-48307",
+        "CVE-2026-48283",
+        "CVE-2026-48314",
+        "CVE-2026-48315",
+        "CVE-2026-48276"
+      ],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Citrix Patches NetScaler Vulnerabilities, Including New ‘HTTP/2 Bomb’ Attack",
+    "link": "https://www.securityweek.com/citrix-patches-netscaler-vulnerabilities-including-new-http-2-bomb-attack/",
+    "published": "Wed, 01 Jul 2026 11:20:45 +0000",
+    "summary": "<p>Citrix urges customers to patch NetScaler after fixing six vulnerabilities, including the HTTP/2 Bomb flaw and a high-severity CitrixBleed-style information disclosure bug.</p>\n<p>The post <a href=\"https://www.securityweek.com/citrix-patches-netscaler-vulnerabilities-including-new-http-2-bomb-attack/\">Citrix Patches NetScaler Vulnerabilities, Including New ‘HTTP/2 Bomb’ Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Citrix urges customers to patch NetScaler after fixing six vulnerabilities, including the HTTP/2 Bomb flaw and a high-severity CitrixBleed-style information disclosure bug",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-8655",
+        "CVE-2026-8451",
+        "CVE-2026-8452",
+        "CVE-2026-13474",
+        "CVE-2026-10816",
+        "CVE-2026-49975"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Frontier AI: Six Questions Every Enterprise Should Ask Security Vendors",
+    "link": "https://www.securityweek.com/frontier-ai-six-questions-every-enterprise-should-ask-security-vendors/",
+    "published": "Wed, 01 Jul 2026 10:00:00 +0000",
+    "summary": "<p>From model selection and automation to validation and measurable results, the right questions can help enterprises separate genuine AI capabilities from marketing hype.</p>\n<p>The post <a href=\"https://www.securityweek.com/frontier-ai-six-questions-every-enterprise-should-ask-security-vendors/\">Frontier AI: Six Questions Every Enterprise Should Ask Security Vendors</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "From model selection and automation to validation and measurable results, the right questions can help enterprises separate genuine AI capabilities from marketing hype",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Apple Patches Dozens of Vulnerabilities Across iOS, macOS, and Safari",
+    "link": "https://www.securityweek.com/apple-patches-dozens-of-vulnerabilities-across-ios-macos-and-safari/",
+    "published": "Wed, 01 Jul 2026 09:30:00 +0000",
+    "summary": "<p>The updates fix vulnerabilities in WebKit, the kernel, WebRTC, Web Extensions, and other components affecting iPhone, iPad, Mac, and Safari users.</p>\n<p>The post <a href=\"https://www.securityweek.com/apple-patches-dozens-of-vulnerabilities-across-ios-macos-and-safari/\">Apple Patches Dozens of Vulnerabilities Across iOS, macOS, and Safari</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The updates fix vulnerabilities in WebKit, the kernel, WebRTC, Web Extensions, and other components affecting iPhone, iPad, Mac, and Safari users",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Dawnguard Raises $6.3 Million for Security Architecture Automation Platform",
+    "link": "https://www.securityweek.com/dawnguard-raises-6-3-million-for-security-architecture-automation-platform/",
+    "published": "Wed, 01 Jul 2026 08:55:35 +0000",
+    "summary": "<p>The company has publicly launched its solution to help organizations design, build, and operate secure cloud systems.</p>\n<p>The post <a href=\"https://www.securityweek.com/dawnguard-raises-6-3-million-for-security-architecture-automation-platform/\">Dawnguard Raises $6.3 Million for Security Architecture Automation Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The company has publicly launched its solution to help organizations design, build, and operate secure cloud systems",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Massive Password Spray Campaign Targeting Azure CLI",
+    "link": "https://www.securityweek.com/massive-password-spray-campaign-targeting-azure-cli/",
+    "published": "Wed, 01 Jul 2026 07:46:33 +0000",
+    "summary": "<p>Hackers were seen making over 81 million login attempts originating from systems associated with hosting provider LSHIY.</p>\n<p>The post <a href=\"https://www.securityweek.com/massive-password-spray-campaign-targeting-azure-cli/\">Massive Password Spray Campaign Targeting Azure CLI</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Hackers were seen making over 81 million login attempts originating from systems associated with hosting provider LSHIY",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Google Patches 382 Chrome Vulnerabilities",
+    "link": "https://www.securityweek.com/google-patches-382-chrome-vulnerabilities/",
+    "published": "Wed, 01 Jul 2026 06:14:41 +0000",
+    "summary": "<p>Fifteen of the newly patched flaws have been rated ‘critical’ and 67 have been rated ‘high severity’.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-patches-382-chrome-vulnerabilities/\">Google Patches 382 Chrome Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Fifteen of the newly patched flaws have been rated ‘critical’ and 67 have been rated ‘high severity’",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "BlueHammer Vulnerability Exploited in Ransomware Attacks",
     "link": "https://www.securityweek.com/bluehammer-vulnerability-exploited-in-ransomware-attacks/",
     "published": "Tue, 30 Jun 2026 13:56:07 +0000",
@@ -618,143 +774,39 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Hacker Conversations: Chris Thompson, Former Head of IBM X-Force Red, Co-Founder of RemoteThreat",
-    "link": "https://www.securityweek.com/hacker-conversations-chris-thompson-former-head-of-ibm-x-force-red-co-founder-of-remotethreat/",
-    "published": "Tue, 30 Jun 2026 12:00:00 +0000",
-    "summary": "<p>Chris Thompson's journey took him from hacking game controls as a teenager to founding IBM’s X-Force Red team.</p>\n<p>The post <a href=\"https://www.securityweek.com/hacker-conversations-chris-thompson-former-head-of-ibm-x-force-red-co-founder-of-remotethreat/\">Hacker Conversations: Chris Thompson, Former Head of IBM X-Force Red, Co-Founder of RemoteThreat</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "source": "Talos Blog",
+    "title": "Martin Lee: Running through the Arctic (and the threat landscape)",
+    "link": "https://blog.talosintelligence.com/martin-lee-running-through-the-arctic-and-the-threat-landscape/",
+    "published": "Wed, 01 Jul 2026 10:00:57 GMT",
+    "summary": "Ever wonder how someone goes from studying human viruses to leading cybersecurity teams? In this Humans of Talos, we’re joined by Martin Lee, EMEA Lead, to talk about his journey into the industry.",
     "analysis": {
-      "issue": "Chris Thompson’s journey took him from hacking game controls as a teenager to founding IBM’s X-Force Red team",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Supreme Court Rules Constitutional Privacy Protections Apply to Cellphone Users’ Location History",
-    "link": "https://www.securityweek.com/supreme-court-rules-constitutional-privacy-protections-apply-to-cellphone-users-location-history/",
-    "published": "Tue, 30 Jun 2026 11:48:40 +0000",
-    "summary": "<p>The ruling was made in the case of a bank robber whose identity was discovered through a geofence warrant.</p>\n<p>The post <a href=\"https://www.securityweek.com/supreme-court-rules-constitutional-privacy-protections-apply-to-cellphone-users-location-history/\">Supreme Court Rules Constitutional Privacy Protections Apply to Cellphone Users&#8217; Location History</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The ruling was made in the case of a bank robber whose identity was discovered through a geofence warrant",
+      "issue": "Ever wonder how someone goes from studying human viruses to leading cybersecurity teams",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "APT"
       ]
     }
   },
   {
-    "source": "Security Week",
-    "title": "Exploitation of Recent Oracle E-Business Suite Vulnerability Begins",
-    "link": "https://www.securityweek.com/exploitation-of-recent-oracle-e-business-suite-vulnerability-begins/",
-    "published": "Tue, 30 Jun 2026 11:29:48 +0000",
-    "summary": "<p>The critical-severity defect allows unauthenticated attackers to take over the E-Business Suite’s Payments product.</p>\n<p>The post <a href=\"https://www.securityweek.com/exploitation-of-recent-oracle-e-business-suite-vulnerability-begins/\">Exploitation of Recent Oracle E-Business Suite Vulnerability Begins</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "source": "Talos Blog",
+    "title": "ARToken: Inside an EvilTokens affiliate panel targeting Microsoft 365",
+    "link": "https://blog.talosintelligence.com/artoken-inside-an-eviltokens-affiliate-panel-targeting-microsoft-365/",
+    "published": "Wed, 01 Jul 2026 10:00:38 GMT",
+    "summary": "Talos has identified \"ARToken,\" a phishing-as-a-service platform that targets Microsoft 365. The ARToken panel exposes 80+ API endpoints for device code phishing, Primary Refresh Token persistence, email access, BEC operations, and SharePoint exfiltration.",
     "analysis": {
-      "issue": "The critical-severity defect allows unauthenticated attackers to take over the E-Business Suite’s Payments product",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-46817"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "The AI Token Costs That Can Break Cybersecurity",
-    "link": "https://www.securityweek.com/the-ai-token-costs-that-can-break-cybersecurity/",
-    "published": "Tue, 30 Jun 2026 10:00:00 +0000",
-    "summary": "<p>As cybersecurity platforms embrace agentic AI, organizations must balance detection performance against the escalating costs of token consumption, deployment architecture, and AI credits.</p>\n<p>The post <a href=\"https://www.securityweek.com/the-ai-token-costs-that-can-break-cybersecurity/\">The AI Token Costs That Can Break Cybersecurity</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "As cybersecurity platforms embrace agentic AI, organizations must balance detection performance against the escalating costs of token consumption, deployment architecture, and AI credits",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Nissan Employee Data Breached in Oracle PeopleSoft Hack",
-    "link": "https://www.securityweek.com/nissan-employee-data-breached-in-oracle-peoplesoft-hack/",
-    "published": "Tue, 30 Jun 2026 09:25:50 +0000",
-    "summary": "<p>Only a handful of the 100 organizations targeted in the PeopleSoft campaign have been confirmed.</p>\n<p>The post <a href=\"https://www.securityweek.com/nissan-employee-data-breached-in-oracle-peoplesoft-hack/\">Nissan Employee Data Breached in Oracle PeopleSoft Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Only a handful of the 100 organizations targeted in the PeopleSoft campaign have been confirmed",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-35273"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Critical SimpleHelp Vulnerability Exploited for Malware Delivery",
-    "link": "https://www.securityweek.com/critical-simplehelp-vulnerability-exploited-for-malware-delivery/",
-    "published": "Tue, 30 Jun 2026 08:43:10 +0000",
-    "summary": "<p>The threat actor is focused on collecting credentials, SSH keys, cryptocurrency wallets, and development tooling.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-simplehelp-vulnerability-exploited-for-malware-delivery/\">Critical SimpleHelp Vulnerability Exploited for Malware Delivery</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The threat actor is focused on collecting credentials, SSH keys, cryptocurrency wallets, and development tooling",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2026-48558"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Quantifind Raises $200 Million for AI-Native Risk Intelligence",
-    "link": "https://www.securityweek.com/quantifind-raises-200-million-for-ai-native-risk-intelligence/",
-    "published": "Tue, 30 Jun 2026 06:40:02 +0000",
-    "summary": "<p>Quantifind will accelerate international expansion and extend its platform’s localized risk intelligence capabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/quantifind-raises-200-million-for-ai-native-risk-intelligence/\">Quantifind Raises $200 Million for AI-Native Risk Intelligence</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Quantifind will accelerate international expansion and extend its platform’s localized risk intelligence capabilities",
+      "issue": "In March 2026, Sekoia published a two-part analysis of EvilTokens, a PhaaS platform that abuses Microsoft's OAuth 2",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "High",
       "cves": [],
       "threat_categories": [
-        "APT",
-        "Supply Chain"
+        "Phishing",
+        "APT"
       ]
     }
   },
@@ -861,15 +913,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-47291",
-        "CVE-2026-42992",
-        "CVE-2026-44812",
-        "CVE-2026-42985",
+        "CVE-2026-44801",
         "CVE-2026-44799",
         "CVE-2026-48563",
+        "CVE-2026-47291",
+        "CVE-2026-47289",
         "CVE-2026-44803",
-        "CVE-2026-44801",
-        "CVE-2026-47289"
+        "CVE-2026-42985",
+        "CVE-2026-44812",
+        "CVE-2026-42992"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -906,42 +958,6 @@
       "cause": null,
       "timeline": null,
       "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "Hypotheses, telemetry, and human judgment: Inside Cisco Talos Threat Hunting",
-    "link": "https://blog.talosintelligence.com/hypotheses-telemetry-and-human-judgment-inside-cisco-talos-threat-hunting/",
-    "published": "Thu, 04 Jun 2026 12:05:05 GMT",
-    "summary": "Learn how Cisco Talos Threat Hunting uses hypothesis-driven methods and multi-domain telemetry correlation to find stealthy threats operating below automated detection thresholds.",
-    "analysis": {
-      "issue": "By Ron Scott-Adams Most security tools operate on a simple principle: If a known-bad pattern appears, fire an alert",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "Less panic patching, more precision",
-    "link": "https://blog.talosintelligence.com/less-panic-patching-more-precision/",
-    "published": "Thu, 28 May 2026 18:00:27 GMT",
-    "summary": "In this newsletter, Thor breaks down why you should stop relying solely on CVSS and start using EPSS and GCVE to focus your patching efforts on the threats that actually matter.",
-    "analysis": {
-      "issue": "Welcome to this week's edition of the Threat Source newsletter",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
       "cves": [],
       "threat_categories": [
         "Vulnerability"
@@ -1326,6 +1342,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "ChatGPT produced graphic violent images that shocked researchers",
+    "link": "https://www.malwarebytes.com/blog/ai/2026/07/chatgpt-produced-graphic-violent-images-that-shocked-researchers",
+    "published": "Wed, 01 Jul 2026 09:10:01 GMT",
+    "summary": "AI assistants like ChatGPT are supposed to have appropriate guardrails to stop people creating harmful content. However, they don't always work.",
+    "analysis": {
+      "issue": "AI assistants like ChatGPT are supposed to be safe to use, with appropriate guardrails to stop people creating harmful content",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Watch out for &#8220;high paying, low effort&#8221; Amazon job texts",
     "link": "https://www.malwarebytes.com/blog/scams/2026/06/watch-out-for-high-paying-low-effort-amazon-job-texts",
     "published": "Tue, 30 Jun 2026 20:46:28 GMT",
@@ -1490,20 +1524,20 @@
     }
   },
   {
-    "source": "Malwarebytes",
-    "title": "Elite network says it was hacked after members&#8217; personal data was left exposed",
-    "link": "https://www.malwarebytes.com/blog/privacy/2026/06/elite-network-says-it-was-hacked-after-members-personal-data-was-left-exposed",
-    "published": "Thu, 25 Jun 2026 09:08:05 GMT",
-    "summary": "Personal data belonging to politicians, military leaders, and executives was left publicly accessible in what looks like a security misconfiguration.",
+    "source": "Crowdstrike Blog",
+    "title": "Browser Security: Zero-Days Are Only Part of the Problem",
+    "link": "https://www.crowdstrike.com/en-us/blog/browser-security-zero-days-are-only-part-of-the-problem/",
+    "published": "Jun 30, 2026 00:00:00-0500",
+    "summary": "",
     "analysis": {
-      "issue": "Some organizations exist to be exclusive",
+      "issue": "Learn about browser-based zero-day vulnerabilities and how to take steps to reduce risk for your business environment",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "High",
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Vulnerability"
       ]
     }
   },
@@ -1660,24 +1694,6 @@
     "summary": "",
     "analysis": {
       "issue": "Learn how AI governance frameworks can stall AI technology innovation and adoption and what CIOs can do to respond",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Named an Innovation and Growth Leader in the 2026 Frost Radar&trade;: Cloud and Application Runtime Security",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-leads-2026-frost-radar-cloud-runtime-security/",
-    "published": "Jun 11, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "CrowdStrike earned top Innovation and Growth scores in the 2026 Frost Radar for Cloud and Application Runtime Security",
       "solution": null,
       "cause": null,
       "timeline": null,
