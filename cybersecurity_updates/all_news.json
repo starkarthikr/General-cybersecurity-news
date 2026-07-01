@@ -1,6 +1,60 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Progress Kemp LoadMaster Pre-Auth RCE Flaw Faces Active Exploitation Attempts",
+    "link": "https://thehackernews.com/2026/07/latest-progress-kemp-loadmaster-pre.html",
+    "published": "Wed, 01 Jul 2026 19:26:18 +0530",
+    "summary": "A recently disclosed critical security flaw impacting Progress Kemp LoadMaster is seeing active exploitation attempts, according to an advisory from eSentire's Threat Response Unit (TRU).\n\nThe Canadian cybersecurity company said it identified exploitation attempts targeting CVE-2026-8037 (CVSS score: 9.6), an operating system (OS) command injection flaw that could be exploited to achieve",
+    "analysis": {
+      "issue": "eSentire says attacks began June 29 against a CVSS 9",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "AI-Generated Browser Ransomware Abuses Chromium API on Windows and Android",
+    "link": "https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html",
+    "published": "Wed, 01 Jul 2026 18:29:19 +0530",
+    "summary": "Cybersecurity researchers have flagged a new malware artifact generated using DeepSeek that constructed a novel attack path combining \"unrealistic browser-malware concepts with a real browser capability\" to turn it into a working ransomware technique that runs entirely inside the browser on both Windows and Android devices.\n\n\"This is the first documented case where a frontier AI model",
+    "analysis": {
+      "issue": "Uses Chromium’s File System Access API after user permission to encrypt files without a native payload or reported in-the-wild abuse",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "2026 Cybersecurity Assessment: The Gap Between Awareness and Resilience",
+    "link": "https://thehackernews.com/2026/07/2026-cybersecurity-assessment-gap.html",
+    "published": "Wed, 01 Jul 2026 17:00:00 +0530",
+    "summary": "Organizations have never had greater awareness of cyber risk. Yet turning that awareness into operational resilience has never been more challenging. The 2026 Bitdefender Cybersecurity Assessment confirms this is the case, as this year's findings reveal a series of surprising contradictions.\n\nHere are a few examples, based on the independent survey of 1,200 IT and cybersecurity professionals",
+    "analysis": {
+      "issue": "Based on 1,200 IT and security pros, the cybersecurity assessment details Shadow AI gaps, LOTL risk, and breach disclosure pressure",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Microsoft Accelerates Post-Quantum Cryptography Shift to 2029",
     "link": "https://thehackernews.com/2026/07/microsoft-accelerates-post-quantum.html",
     "published": "Wed, 01 Jul 2026 16:11:36 +0530",
@@ -127,59 +181,42 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS",
-    "link": "https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html",
-    "published": "Tue, 30 Jun 2026 23:15:25 +0530",
-    "summary": "A new two-stage malware family called RustDuck is hijacking home routers, IP cameras, Android boxes, and poorly secured servers, then stitching them into a network built to knock websites and online services offline.\n\nResearchers at QiAnXin's&nbsp;XLab&nbsp;have tracked it since February 2026, and say the real story is not how big it is today, but how fast it is changing.\n\nThe end goal is a",
+    "source": "Bleeping Computer",
+    "title": "Turning Indicators into Intelligence in OpenCTI with Criminal IP",
+    "link": "https://www.bleepingcomputer.com/news/security/turning-indicators-into-intelligence-in-opencti-with-criminal-ip/",
+    "published": "Wed, 01 Jul 2026 10:01:11 -0400",
+    "summary": "Threat intelligence is only as useful as the context behind it. Criminal IP explains how its integration enriches threat indicators in OpenCTI with risk scoring, infrastructure intelligence, and phishing analysis. [...]",
     "analysis": {
-      "issue": "XLab says the two-stage botnet abuses weak Telnet/SSH logins, exposed ADB, and old flaws while shifting its core to Rust",
+      "issue": "Cyber threat intelligence becomes more valuable when indicators are enriched with context that supports investigation, correlation, and decision-making",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "Malware",
-        "DDoS"
+        "Vulnerability",
+        "Phishing"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints",
-    "link": "https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html",
-    "published": "Tue, 30 Jun 2026 21:17:20 +0530",
-    "summary": "Threat actors are continuing to exploit a critical Langflow vulnerability as part of fresh attacks designed to deliver a Monero cryptocurrency miner.\n\nThe activity has been found to weaponize CVE-2026-33017 (CVSS score: 9.3), an unauthenticated remote code execution (RCE) vulnerability in Langflow, indicating threat actors are scanning and targeting exposed artificial intelligence (AI)",
+    "source": "Bleeping Computer",
+    "title": "Over 900 Oracle E-Business instances exposed to ongoing attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/over-900-oracle-e-business-instances-exposed-to-ongoing-attacks/",
+    "published": "Wed, 01 Jul 2026 08:30:01 -0400",
+    "summary": "Over 900 Oracle E-Business Suite (EBS) instances have been found exposed online amid ongoing attacks exploiting a critical security flaw. [...]",
     "analysis": {
-      "issue": "CVE-2026-33017 lets attackers abuse an unauthenticated Langflow API endpoint, run Lambsys, and spread via reused SSH keys",
+      "issue": "Over 900 Oracle E-Business Suite (EBS) instances have been found exposed online amid ongoing attacks exploiting a critical security flaw",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [
-        "CVE-2026-33017"
+        "CVE-2024-21182",
+        "CVE-2026-46817"
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Silent Swap Crypto Clipper Uses Fake Google Notes Extension to Replace Wallet Addresses",
-    "link": "https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html",
-    "published": "Tue, 30 Jun 2026 21:10:18 +0530",
-    "summary": "Cybersecurity researchers have flagged an active browser extension campaign that is designed to steal cryptocurrency by stealthily replacing wallet addresses when unsuspecting users initiate a transaction.\n\nThe cryptocurrency clipper activity has been codenamed Silent Swap by McAfee Labs.\n\n\"The campaign is delivered through unsigned installers – observed in both .NET and Golang variants – that",
-    "analysis": {
-      "issue": "McAfee says the campaign uses unsigned",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -188,9 +225,9 @@
     "title": "Microsoft fixes GIF functionality in the Windows Emoji Panel",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-gif-functionality-in-the-windows-emoji-panel/",
     "published": "Wed, 01 Jul 2026 06:52:26 -0400",
-    "summary": "Microsoft has fixed the GIF functionality in the Emoji Panel for Windows 11 and Windows Server users after the provider shut down its service. [...]",
+    "summary": "Microsoft has fixed the GIF functionality in the Emoji Panel for Windows 11 users after the provider shut down its service. [...]",
     "analysis": {
-      "issue": "Microsoft has fixed the GIF functionality in the Emoji Panel for Windows 11 and Windows Server users after the provider shut down its service",
+      "issue": "Microsoft has fixed the GIF functionality in the Emoji Panel for Windows 11 users after the provider shut down its service",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -234,10 +271,10 @@
       "cves": [
         "CVE-2026-48282",
         "CVE-2026-48277",
-        "CVE-2026-48316",
-        "CVE-2026-48286",
+        "CVE-2026-48276",
         "CVE-2026-48281",
-        "CVE-2026-48276"
+        "CVE-2026-48316",
+        "CVE-2026-48286"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -335,42 +372,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Fake Perplexity extension on Chrome Web Store tracked searches",
-    "link": "https://www.bleepingcomputer.com/news/security/fake-perplexity-extension-on-chrome-web-store-tracked-searches/",
-    "published": "Tue, 30 Jun 2026 11:46:19 -0400",
-    "summary": "A malicious extension in the Chrome Web Store is masquerading as the Perplexity AI answer engine, intercepting search traffic and collecting browsing information. [...]",
-    "analysis": {
-      "issue": "A malicious extension in the Chrome Web Store is masquerading as the Perplexity AI answer engine, intercepting search traffic and collecting browsing information",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Lessons from the Underground: How to Combat Business Email Compromise",
-    "link": "https://www.bleepingcomputer.com/news/security/lessons-from-the-underground-how-to-combat-business-email-compromise/",
-    "published": "Tue, 30 Jun 2026 10:00:10 -0400",
-    "summary": "Business Email Compromise is more than an email scam. It's a coordinated operation involving compromised accounts, financial research, and cash-out networks. Flare explores how underground forums reveal how BEC attacks are planned and executed. [...]",
-    "analysis": {
-      "issue": "Business Email Compromise (BEC) is often described in the media as merely an email scam, but in reality, it’s part of an organized broad operation",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
     "link": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
@@ -441,8 +442,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-50507",
-        "CVE-2026-49160",
-        "CVE-2026-45586"
+        "CVE-2026-45586",
+        "CVE-2026-49160"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -575,18 +576,18 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-48282",
-        "CVE-2026-48285",
-        "CVE-2026-48313",
         "CVE-2026-48277",
-        "CVE-2026-48316",
-        "CVE-2026-48286",
-        "CVE-2026-48281",
-        "CVE-2026-48307",
-        "CVE-2026-48283",
-        "CVE-2026-48314",
+        "CVE-2026-48282",
+        "CVE-2026-48276",
         "CVE-2026-48315",
-        "CVE-2026-48276"
+        "CVE-2026-48307",
+        "CVE-2026-48314",
+        "CVE-2026-48281",
+        "CVE-2026-48313",
+        "CVE-2026-48283",
+        "CVE-2026-48285",
+        "CVE-2026-48316",
+        "CVE-2026-48286"
       ],
       "threat_categories": [
         "Ransomware",
@@ -609,10 +610,10 @@
       "cves": [
         "CVE-2026-8655",
         "CVE-2026-8451",
-        "CVE-2026-8452",
-        "CVE-2026-13474",
         "CVE-2026-10816",
-        "CVE-2026-49975"
+        "CVE-2026-8452",
+        "CVE-2026-49975",
+        "CVE-2026-13474"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -915,13 +916,13 @@
       "cves": [
         "CVE-2026-44801",
         "CVE-2026-44799",
+        "CVE-2026-42992",
+        "CVE-2026-42985",
+        "CVE-2026-47289",
         "CVE-2026-48563",
         "CVE-2026-47291",
-        "CVE-2026-47289",
         "CVE-2026-44803",
-        "CVE-2026-42985",
-        "CVE-2026-44812",
-        "CVE-2026-42992"
+        "CVE-2026-44812"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -961,6 +962,24 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "Iran-Nexus TAG-182 Disseminates MarkiRAT Surveillance Tool",
+    "link": "https://www.recordedfuture.com/research/nexus-tag182-disseminates-markirat",
+    "published": "Wed, 01 Jul 2026 00:00:00 GMT",
+    "summary": "Discover how Iranian-nexus threat cluster TAG-182 uses MarkiRAT malware and fake VPN/media apps to conduct cyber surveillance operations against domestic targets.",
+    "analysis": {
+      "issue": "Discover how Iranian-nexus threat cluster TAG-182 uses MarkiRAT malware and fake VPN/media apps to conduct cyber surveillance operations against domestic targets",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
       ]
     }
   },
@@ -1116,24 +1135,6 @@
     "summary": "Prepare for the 2026 FIFA World Cup with expert analysis of the physical and cyber threat landscape. Discover key mitigation strategies for host city officials to ensure public safety",
     "analysis": {
       "issue": "Prepare for the 2026 FIFA World Cup with expert analysis of the physical and cyber threat landscape",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "China's Noncombatant Evacuation Operations: 2005–2025",
-    "link": "https://www.recordedfuture.com/blog/china-noncombatant-evacuation-operations-2005-2025",
-    "published": "Wed, 10 Jun 2026 00:00:00 GMT",
-    "summary": "Explore the Insikt Group study on 37 Chinese noncombatant evacuation operations (NEOs) from 2005–2025, revealing how China leverages SOEs and civilian resources for its overseas interests",
-    "analysis": {
-      "issue": "Explore the Insikt Group study on 37 Chinese noncombatant evacuation operations (NEOs) from 2005–2025, revealing how China leverages SOEs and civilian resources for its overseas interests",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1311,8 +1312,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1337,6 +1338,42 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "BioShocking: when “gaming” AI agents is no longer a game",
+    "link": "https://www.malwarebytes.com/blog/ai/2026/07/bioshocking-when-gaming-ai-agents-is-no-longer-a-game",
+    "published": "Wed, 01 Jul 2026 12:50:59 GMT",
+    "summary": "Researchers warned AI vendors about a proof-of-concept called BioShiocking that tricks agents by gamifying the outcome.",
+    "analysis": {
+      "issue": "AI-powered browsers and agents promise to take the drudgery out of web tasks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Chrome needs another whopper update to fix 382 security bugs",
+    "link": "https://www.malwarebytes.com/blog/bugs/2026/07/chrome-needs-another-whopper-update-to-fix-382-security-fixes",
+    "published": "Wed, 01 Jul 2026 11:40:49 GMT",
+    "summary": "Google's released a huge update of 382 security fixes, 15 of which were rated as critical. So, it's time to update again!",
+    "analysis": {
+      "issue": "If there was ever a time when it dawned on users how full of holes the software they’ve been using is, it’s now",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1475,44 +1512,6 @@
     "summary": "Most parcel mule scams start with fake job offers that trick victims into handling stolen goods.",
     "analysis": {
       "issue": "A parcel mule scam, also called a reshipping scam, is a fake job offer designed to recruit people into handling stolen goods",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Update Chrome to patch critical browser security flaws",
-    "link": "https://www.malwarebytes.com/blog/news/2026/06/update-chrome-to-patch-critical-browser-security-flaws",
-    "published": "Thu, 25 Jun 2026 11:04:48 GMT",
-    "summary": "Chrome has patched 18 vulnerabilities, including four critical flaws. Two WebGL bugs could allow attackers to escape the browser's security sandbox.",
-    "analysis": {
-      "issue": "Google released a security update for Chrome that fixes 18 vulnerabilities, including four rated Critical",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-13028"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Fake domain renewal emails trick website owners into paying scammers",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/06/fake-domain-renewal-emails-trick-website-owners-into-paying-scammers",
-    "published": "Thu, 25 Jun 2026 10:26:48 GMT",
-    "summary": "We uncovered fake domain renewal notices and convincing websites to pressure website owners into paying scammers.",
-    "analysis": {
-      "issue": "You receive an email warning that your website’s domain name is about to expire",
       "solution": null,
       "cause": null,
       "timeline": null,
