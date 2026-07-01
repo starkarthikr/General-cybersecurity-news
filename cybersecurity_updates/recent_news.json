@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service",
+    "link": "https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html",
+    "published": "Wed, 01 Jul 2026 09:24:22 +0530",
+    "summary": "Citrix on Tuesday released security updates to address multiple flaws in NetScaler ADC (formerly Citrix ADC) and NetScaler Gateway (formerly Citrix Gateway) that could be exploited by an attacker to facilitate arbitrary file reads or trigger a denial-of-service (DoS) condition.\n\nThe vulnerabilities are listed below -\n\n\n  CVE-2026-8451 (CVSS score: 8.8) - An insufficient input validation",
+    "analysis": {
+      "issue": "Security updates fix six NetScaler ADC and Gateway vulnerabilities, including 8",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data",
     "link": "https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html",
     "published": "Tue, 30 Jun 2026 23:16:07 +0530",
@@ -156,24 +174,6 @@
     "summary": "Two researchers have found six security flaws in AirDrop and Quick Share, the wireless features that beam files between nearby devices with no cables or shared network.\n\nAn attacker within wireless range, with just a laptop and no prior connection, can crash the sharing service on a Mac or iPhone set to receive from anyone, with no tap or prompt.\n\nThe same research found Quick Share flaws that",
     "analysis": {
       "issue": "Researchers found six AirDrop and Quick Share flaws enabling local crashes, Samsung session bypasses, and a fixed Google Windows bug",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials",
-    "link": "https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html",
-    "published": "Tue, 30 Jun 2026 14:07:19 +0530",
-    "summary": "Convince an AI browser that it is playing a game, and it can hand over your login details. That is the finding behind&nbsp;BioShocking, a technique from security firm LayerX that tricked six AI browsers and assistants into copying a user's credentials and sending them to an attacker.\n\nThe targets included OpenAI's ChatGPT Atlas, Perplexity's Comet, and Anthropic's Claude browser extension.\n\nAn",
-    "analysis": {
-      "issue": "LayerX says BioShocking used indirect prompt injection to trick six AI browsers into copying credentials from signed-in accounts",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -435,9 +435,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-50507",
         "CVE-2026-45586",
-        "CVE-2026-49160",
-        "CVE-2026-50507"
+        "CVE-2026-49160"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -861,15 +861,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-44799",
-        "CVE-2026-44803",
-        "CVE-2026-44812",
-        "CVE-2026-44801",
-        "CVE-2026-47289",
-        "CVE-2026-42985",
         "CVE-2026-47291",
+        "CVE-2026-42992",
+        "CVE-2026-44812",
+        "CVE-2026-42985",
+        "CVE-2026-44799",
         "CVE-2026-48563",
-        "CVE-2026-42992"
+        "CVE-2026-44803",
+        "CVE-2026-44801",
+        "CVE-2026-47289"
       ],
       "threat_categories": [
         "Vulnerability"

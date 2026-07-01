@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-01 04:23:24 UTC
+**Last Updated:** 2026-07-01 05:05:40 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data](https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html)
+### 1. [Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service](https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 01 Jul 2026 09:24:22 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data](https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 30 Jun 2026 23:16:07 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS](https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html)
+### 3. [RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS](https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 30 Jun 2026 23:15:25 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints](https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html)
+### 4. [Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints](https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 30 Jun 2026 21:17:20 +0530  
@@ -32,7 +41,7 @@
 
 ---
 
-### 4. [Silent Swap Crypto Clipper Uses Fake Google Notes Extension to Replace Wallet Addresses](https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html)
+### 5. [Silent Swap Crypto Clipper Uses Fake Google Notes Extension to Replace Wallet Addresses](https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 30 Jun 2026 21:10:18 +0530  
@@ -41,7 +50,7 @@
 
 ---
 
-### 5. [GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks](https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html)
+### 6. [GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks](https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 30 Jun 2026 19:56:15 +0530  
@@ -50,7 +59,7 @@
 
 ---
 
-### 6. [282 iOS AI Apps Leak API Keys and Open AI Proxy Access in Network Traffic Study](https://thehackernews.com/2026/06/282-ios-apps-found-leaking-llm-api-keys.html)
+### 7. [282 iOS AI Apps Leak API Keys and Open AI Proxy Access in Network Traffic Study](https://thehackernews.com/2026/06/282-ios-apps-found-leaking-llm-api-keys.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 30 Jun 2026 19:19:34 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [What the Numbers Say About FIFA 2026 Cyber Risk](https://thehackernews.com/2026/06/what-numbers-say-about-fifa-2026-cyber.html)
+### 8. [What the Numbers Say About FIFA 2026 Cyber Risk](https://thehackernews.com/2026/06/what-numbers-say-about-fifa-2026-cyber.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 30 Jun 2026 17:00:00 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer](https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html)
+### 9. [Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer](https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 30 Jun 2026 16:48:47 +0530  
@@ -78,19 +87,10 @@
 
 ---
 
-### 9. [AirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks](https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html)
+### 10. [AirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks](https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 30 Jun 2026 14:57:58 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials](https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 30 Jun 2026 14:07:19 +0530  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -218,7 +218,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-45586, CVE-2026-49160, CVE-2026-50507  
+**CVEs:** CVE-2026-50507, CVE-2026-45586, CVE-2026-49160  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -421,7 +421,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-44799, CVE-2026-44803, CVE-2026-44812, CVE-2026-44801, CVE-2026-47289, CVE-2026-42985, CVE-2026-47291, CVE-2026-48563, CVE-2026-42992  
+**CVEs:** CVE-2026-47291, CVE-2026-42992, CVE-2026-44812, CVE-2026-42985, CVE-2026-44799, CVE-2026-48563, CVE-2026-44803, CVE-2026-44801, CVE-2026-47289  
 **Categories:** Vulnerability  
 
 ---
