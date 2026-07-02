@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-02 14:13:55 UTC
+**Last Updated:** 2026-07-02 18:13:19 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API](https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html)
+### 1. [ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories](https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 02 Jul 2026 20:54:18 +0530  
+**Severity:** Low  
+**Categories:** Ransomware, Phishing  
+
+---
+
+### 2. [ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API](https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Jul 2026 18:34:13 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Identity Lifecycle Management Wasn't Built for AI Agents](https://thehackernews.com/2026/07/identity-lifecycle-management.html)
+### 3. [Identity Lifecycle Management Wasn't Built for AI Agents](https://thehackernews.com/2026/07/identity-lifecycle-management.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Jul 2026 17:00:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack](https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html)
+### 4. [AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack](https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Jul 2026 14:43:13 +0530  
@@ -32,7 +41,7 @@
 
 ---
 
-### 4. [FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations](https://thehackernews.com/2026/07/fortibleed-credential-theft-linked-to.html)
+### 5. [FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations](https://thehackernews.com/2026/07/fortibleed-credential-theft-linked-to.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Jul 2026 13:30:49 +0530  
@@ -41,7 +50,7 @@
 
 ---
 
-### 5. [New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos](https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html)
+### 6. [New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos](https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Jul 2026 12:54:23 +0530  
@@ -50,7 +59,7 @@
 
 ---
 
-### 6. [SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation](https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html)
+### 7. [SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation](https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Jul 2026 11:16:45 +0530  
@@ -60,7 +69,7 @@
 
 ---
 
-### 7. [Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters](https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html)
+### 8. [Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters](https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Jul 2026 01:10:06 +0530  
@@ -69,7 +78,7 @@
 
 ---
 
-### 8. [19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges](https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html)
+### 9. [19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges](https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Jul 2026 00:58:07 +0530  
@@ -78,7 +87,7 @@
 
 ---
 
-### 9. [SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT](https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html)
+### 10. [SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT](https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 01 Jul 2026 23:23:06 +0530  
@@ -87,16 +96,16 @@
 
 ---
 
-### 10. [VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer](https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html)
+### 11. [Google loses final appeal to overturn €4.1 billion EU fine](https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 01 Jul 2026 22:48:50 +0530  
-**Severity:** Low  
-**Categories:** Malware  
+**Source:** Bleeping Computer  
+**Published:** Thu, 02 Jul 2026 11:18:51 -0400  
+**Severity:** High  
+**Categories:** General Security  
 
 ---
 
-### 11. [ConsentFix and ClickFix: How Microsoft 365 Accounts are Hijacked in 3 Seconds](https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/)
+### 12. [ConsentFix and ClickFix: How Microsoft 365 Accounts are Hijacked in 3 Seconds](https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Jul 2026 10:00:10 -0400  
@@ -105,7 +114,7 @@
 
 ---
 
-### 12. [Microsoft fixes bug that removed Copilot buttons in Outlook](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/)
+### 13. [Microsoft fixes bug that removed Copilot buttons in Outlook](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Jul 2026 08:15:47 -0400  
@@ -114,7 +123,7 @@
 
 ---
 
-### 13. [Cisco finally confirms attackers exploiting Unified CM flaw](https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/)
+### 14. [Cisco finally confirms attackers exploiting Unified CM flaw](https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Jul 2026 07:35:25 -0400  
@@ -124,7 +133,7 @@
 
 ---
 
-### 14. [CISA: Microsoft SharePoint RCE flaw now actively exploited](https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/)
+### 15. [CISA: Microsoft SharePoint RCE flaw now actively exploited](https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Jul 2026 06:52:43 -0400  
@@ -134,7 +143,7 @@
 
 ---
 
-### 15. [Opera rolls out Paste Protect feature to fight ClickFix attacks](https://www.bleepingcomputer.com/news/security/opera-rolls-out-paste-protect-feature-to-fight-clickfix-attacks/)
+### 16. [Opera rolls out Paste Protect feature to fight ClickFix attacks](https://www.bleepingcomputer.com/news/security/opera-rolls-out-paste-protect-feature-to-fight-clickfix-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Jul 2026 06:46:58 -0400  
@@ -143,7 +152,7 @@
 
 ---
 
-### 16. [Alleged Scattered Spider hacker extradited to the United States](https://www.bleepingcomputer.com/news/security/alleged-scattered-spider-hacker-extradited-to-the-united-states/)
+### 17. [Alleged Scattered Spider hacker extradited to the United States](https://www.bleepingcomputer.com/news/security/alleged-scattered-spider-hacker-extradited-to-the-united-states/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Jul 2026 04:58:25 -0400  
@@ -152,7 +161,7 @@
 
 ---
 
-### 17. [Medtronic notifies customers impacted by ShinyHunters data breach](https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/)
+### 18. [Medtronic notifies customers impacted by ShinyHunters data breach](https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Jul 2026 00:25:42 -0400  
@@ -161,7 +170,7 @@
 
 ---
 
-### 18. [FortiBleed credential-theft campaign linked to Lynx ransomware](https://www.bleepingcomputer.com/news/security/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware/)
+### 19. [FortiBleed credential-theft campaign linked to Lynx ransomware](https://www.bleepingcomputer.com/news/security/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 01 Jul 2026 17:37:24 -0400  
@@ -170,21 +179,12 @@
 
 ---
 
-### 19. [Kubota says hackers had month-long access to network systems](https://www.bleepingcomputer.com/news/security/kubota-says-hackers-had-month-long-access-to-network-systems/)
+### 20. [Kubota says hackers had month-long access to network systems](https://www.bleepingcomputer.com/news/security/kubota-says-hackers-had-month-long-access-to-network-systems/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 01 Jul 2026 17:09:06 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 20. [New ChocoPoC malware targets researchers via trojanized PoC exploits](https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 01 Jul 2026 16:08:13 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability, Malware  
 
 ---
 
@@ -279,7 +279,17 @@
 
 ---
 
-### 31. [How to Conduct a Successful Audit of AI-Driven Software Development](https://www.securityweek.com/how-to-conduct-a-successful-audit-of-ai-driven-software-development/)
+### 31. [New CitrixBleed Vulnerability Exploited Immediately After Public Disclosure](https://www.securityweek.com/new-citrixbleed-vulnerability-exploited-immediately-after-public-disclosure/)
+
+**Source:** Security Week  
+**Published:** Thu, 02 Jul 2026 15:04:22 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-8451  
+**Categories:** Vulnerability  
+
+---
+
+### 32. [How to Conduct a Successful Audit of AI-Driven Software Development](https://www.securityweek.com/how-to-conduct-a-successful-audit-of-ai-driven-software-development/)
 
 **Source:** Security Week  
 **Published:** Thu, 02 Jul 2026 13:15:00 +0000  
@@ -288,7 +298,7 @@
 
 ---
 
-### 32. [FortiBleed Campaign Linked to INC, Lynx Ransomware Attacks](https://www.securityweek.com/fortibleed-campaign-linked-to-inc-lynx-ransomware-attacks/)
+### 33. [FortiBleed Campaign Linked to INC, Lynx Ransomware Attacks](https://www.securityweek.com/fortibleed-campaign-linked-to-inc-lynx-ransomware-attacks/)
 
 **Source:** Security Week  
 **Published:** Thu, 02 Jul 2026 12:34:29 +0000  
@@ -297,7 +307,7 @@
 
 ---
 
-### 33. [Trump Administration Lifts Restrictions on Anthropic’s Claude Models After Cybersecurity Alarm](https://www.securityweek.com/trump-administration-lifts-restrictions-on-anthropics-claude-models-after-cybersecurity-alarm/)
+### 34. [Trump Administration Lifts Restrictions on Anthropic’s Claude Models After Cybersecurity Alarm](https://www.securityweek.com/trump-administration-lifts-restrictions-on-anthropics-claude-models-after-cybersecurity-alarm/)
 
 **Source:** Security Week  
 **Published:** Thu, 02 Jul 2026 11:01:48 +0000  
@@ -306,7 +316,7 @@
 
 ---
 
-### 34. [Cisco Confirms In-the-Wild Exploitation of Unified CM Vulnerability](https://www.securityweek.com/cisco-confirms-in-the-wild-exploitation-of-unified-cm-vulnerability/)
+### 35. [Cisco Confirms In-the-Wild Exploitation of Unified CM Vulnerability](https://www.securityweek.com/cisco-confirms-in-the-wild-exploitation-of-unified-cm-vulnerability/)
 
 **Source:** Security Week  
 **Published:** Thu, 02 Jul 2026 10:48:43 +0000  
@@ -316,7 +326,7 @@
 
 ---
 
-### 35. [‘BioShocking’ Attack Tricks AI Browsers Into Stealing Credentials](https://www.securityweek.com/bioshocking-attack-tricks-ai-browsers-into-stealing-credentials/)
+### 36. [‘BioShocking’ Attack Tricks AI Browsers Into Stealing Credentials](https://www.securityweek.com/bioshocking-attack-tricks-ai-browsers-into-stealing-credentials/)
 
 **Source:** Security Week  
 **Published:** Thu, 02 Jul 2026 10:45:00 +0000  
@@ -325,7 +335,7 @@
 
 ---
 
-### 36. [CISA Warns of Actively Exploited Microsoft SharePoint Vulnerability](https://www.securityweek.com/cisa-warns-of-actively-exploited-microsoft-sharepoint-vulnerability/)
+### 37. [CISA Warns of Actively Exploited Microsoft SharePoint Vulnerability](https://www.securityweek.com/cisa-warns-of-actively-exploited-microsoft-sharepoint-vulnerability/)
 
 **Source:** Security Week  
 **Published:** Thu, 02 Jul 2026 10:30:42 +0000  
@@ -335,7 +345,7 @@
 
 ---
 
-### 37. [Microsoft Adds New Teams Controls to Block Unauthorized AI Bots From Meetings](https://www.securityweek.com/microsoft-adds-new-teams-controls-to-block-unauthorized-ai-bots-from-meetings/)
+### 38. [Microsoft Adds New Teams Controls to Block Unauthorized AI Bots From Meetings](https://www.securityweek.com/microsoft-adds-new-teams-controls-to-block-unauthorized-ai-bots-from-meetings/)
 
 **Source:** Security Week  
 **Published:** Wed, 01 Jul 2026 18:08:15 +0000  
@@ -344,36 +354,36 @@
 
 ---
 
-### 38. [Adobe Patches Critical ColdFusion, Campaign Classic Vulnerabilities](https://www.securityweek.com/adobe-patches-critical-coldfusion-campaign-classic-vulnerabilities/)
+### 39. [Adobe Patches Critical ColdFusion, Campaign Classic Vulnerabilities](https://www.securityweek.com/adobe-patches-critical-coldfusion-campaign-classic-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Wed, 01 Jul 2026 11:27:07 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48315, CVE-2026-48276, CVE-2026-48313, CVE-2026-48286, CVE-2026-48285, CVE-2026-48314, CVE-2026-48281, CVE-2026-48277, CVE-2026-48283, CVE-2026-48316, CVE-2026-48282, CVE-2026-48307  
+**CVEs:** CVE-2026-48315, CVE-2026-48285, CVE-2026-48307, CVE-2026-48281, CVE-2026-48276, CVE-2026-48282, CVE-2026-48316, CVE-2026-48313, CVE-2026-48314, CVE-2026-48277, CVE-2026-48286, CVE-2026-48283  
 **Categories:** Ransomware, Vulnerability  
 
 ---
 
-### 39. [Citrix Patches NetScaler Vulnerabilities, Including New ‘HTTP/2 Bomb’ Attack](https://www.securityweek.com/citrix-patches-netscaler-vulnerabilities-including-new-http-2-bomb-attack/)
+### 40. [Citrix Patches NetScaler Vulnerabilities, Including New ‘HTTP/2 Bomb’ Attack](https://www.securityweek.com/citrix-patches-netscaler-vulnerabilities-including-new-http-2-bomb-attack/)
 
 **Source:** Security Week  
 **Published:** Wed, 01 Jul 2026 11:20:45 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-49975, CVE-2026-10816, CVE-2026-8451, CVE-2026-13474, CVE-2026-8452, CVE-2026-8655  
+**CVEs:** CVE-2026-10816, CVE-2026-8451, CVE-2026-49975, CVE-2026-13474, CVE-2026-8655, CVE-2026-8452  
 **Categories:** Vulnerability, Malware, Supply Chain  
 
 ---
 
-### 40. [Frontier AI: Six Questions Every Enterprise Should Ask Security Vendors](https://www.securityweek.com/frontier-ai-six-questions-every-enterprise-should-ask-security-vendors/)
+### 41. [Catan and Mouse](https://blog.talosintelligence.com/catan-and-mouse/)
 
-**Source:** Security Week  
-**Published:** Wed, 01 Jul 2026 10:00:00 +0000  
-**Severity:** Low  
+**Source:** Talos Blog  
+**Published:** Thu, 02 Jul 2026 18:00:34 GMT  
+**Severity:** High  
 **Categories:** General Security  
 
 ---
 
-### 41. [Martin Lee: Running through the Arctic (and the threat landscape)](https://blog.talosintelligence.com/martin-lee-running-through-the-arctic-and-the-threat-landscape/)
+### 42. [Martin Lee: Running through the Arctic (and the threat landscape)](https://blog.talosintelligence.com/martin-lee-running-through-the-arctic-and-the-threat-landscape/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 01 Jul 2026 10:00:57 GMT  
@@ -382,7 +392,7 @@
 
 ---
 
-### 42. [ARToken: Inside an EvilTokens affiliate panel targeting Microsoft 365](https://blog.talosintelligence.com/artoken-inside-an-eviltokens-affiliate-panel-targeting-microsoft-365/)
+### 43. [ARToken: Inside an EvilTokens affiliate panel targeting Microsoft 365](https://blog.talosintelligence.com/artoken-inside-an-eviltokens-affiliate-panel-targeting-microsoft-365/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 01 Jul 2026 10:00:38 GMT  
@@ -391,7 +401,7 @@
 
 ---
 
-### 43. [Beyond IOCs: AI-enabled threat intelligence](https://blog.talosintelligence.com/beyond-iocs-ai-enabled-threat-intelligence/)
+### 44. [Beyond IOCs: AI-enabled threat intelligence](https://blog.talosintelligence.com/beyond-iocs-ai-enabled-threat-intelligence/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 25 Jun 2026 18:00:26 GMT  
@@ -400,7 +410,7 @@
 
 ---
 
-### 44. [Introduction to COM usage by Windows threats](https://blog.talosintelligence.com/introduction-to-com-usage-by-windows-threats/)
+### 45. [Introduction to COM usage by Windows threats](https://blog.talosintelligence.com/introduction-to-com-usage-by-windows-threats/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 25 Jun 2026 10:00:26 GMT  
@@ -409,7 +419,7 @@
 
 ---
 
-### 45. [Close Encounters of the Human Kind](https://blog.talosintelligence.com/close-encounters-of-the-human-kind/)
+### 46. [Close Encounters of the Human Kind](https://blog.talosintelligence.com/close-encounters-of-the-human-kind/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 18 Jun 2026 18:00:24 GMT  
@@ -418,7 +428,7 @@
 
 ---
 
-### 46. [Scripting the disassembler: Local agentic reverse engineering through vbdec’s live COM object model](https://blog.talosintelligence.com/scripting-the-disassembler/)
+### 47. [Scripting the disassembler: Local agentic reverse engineering through vbdec’s live COM object model](https://blog.talosintelligence.com/scripting-the-disassembler/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 18 Jun 2026 10:00:05 GMT  
@@ -427,7 +437,7 @@
 
 ---
 
-### 47. [A tale of two eras](https://blog.talosintelligence.com/a-tale-of-two-eras/)
+### 48. [A tale of two eras](https://blog.talosintelligence.com/a-tale-of-two-eras/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 11 Jun 2026 18:00:49 GMT  
@@ -436,31 +446,22 @@
 
 ---
 
-### 48. [Microsoft Patch Tuesday for June 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-for-june-2026-snort-rules-and-prominent-vulnerabilities/)
+### 49. [Microsoft Patch Tuesday for June 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-for-june-2026-snort-rules-and-prominent-vulnerabilities/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-47291, CVE-2026-44801, CVE-2026-42992, CVE-2026-44812, CVE-2026-48563, CVE-2026-42985, CVE-2026-44799, CVE-2026-47289, CVE-2026-44803  
+**CVEs:** CVE-2026-42992, CVE-2026-47291, CVE-2026-42985, CVE-2026-44812, CVE-2026-47289, CVE-2026-44801, CVE-2026-44799, CVE-2026-44803, CVE-2026-48563  
 **Categories:** Vulnerability  
 
 ---
 
-### 49. [Reporting from Vegas: Networking, AI, and good boys](https://blog.talosintelligence.com/reporting-from-vegas-networking-ai-and-good-boys/)
+### 50. [Reporting from Vegas: Networking, AI, and good boys](https://blog.talosintelligence.com/reporting-from-vegas-networking-ai-and-good-boys/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 04 Jun 2026 18:00:59 GMT  
 **Severity:** High  
 **Categories:** General Security  
-
----
-
-### 50. [Winning the cyber marathon with Tony Giandomenico](https://blog.talosintelligence.com/winning-the-cyber-marathon-with-tony-giandomenico/)
-
-**Source:** Talos Blog  
-**Published:** Thu, 04 Jun 2026 12:05:31 GMT  
-**Severity:** High  
-**Categories:** Vulnerability  
 
 ---
 
@@ -649,7 +650,25 @@
 
 ---
 
-### 71. [WinRAR flaw could allow attackers to take control of your computer](https://www.malwarebytes.com/blog/news/2026/07/winrar-flaw-could-allow-attackers-to-take-control-of-your-computer)
+### 71. [Apple’s Hide My Email doesn&#8217;t hide it very well](https://www.malwarebytes.com/blog/news/2026/07/apples-hide-my-email-doesnt-hide-it-very-well)
+
+**Source:** Malwarebytes  
+**Published:** Thu, 02 Jul 2026 16:22:25 GMT  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 72. [Fake Google and Cloudflare verification pages spread multiple malware families](https://www.malwarebytes.com/blog/threat-intel/2026/07/fake-google-and-cloudflare-verification-pages-spread-multiple-malware-families)
+
+**Source:** Malwarebytes  
+**Published:** Thu, 02 Jul 2026 16:05:08 GMT  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 73. [WinRAR flaw could allow attackers to take control of your computer](https://www.malwarebytes.com/blog/news/2026/07/winrar-flaw-could-allow-attackers-to-take-control-of-your-computer)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 02 Jul 2026 12:38:12 GMT  
@@ -659,7 +678,7 @@
 
 ---
 
-### 72. [Fake Perplexity Chrome extension spies on your searches](https://www.malwarebytes.com/blog/privacy/2026/07/fake-perplexity-chrome-extension-spies-on-your-searches)
+### 74. [Fake Perplexity Chrome extension spies on your searches](https://www.malwarebytes.com/blog/privacy/2026/07/fake-perplexity-chrome-extension-spies-on-your-searches)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 01 Jul 2026 20:11:27 GMT  
@@ -668,7 +687,7 @@
 
 ---
 
-### 73. [BioShocking: when “gaming” AI agents is no longer a game](https://www.malwarebytes.com/blog/ai/2026/07/bioshocking-when-gaming-ai-agents-is-no-longer-a-game)
+### 75. [BioShocking: when “gaming” AI agents is no longer a game](https://www.malwarebytes.com/blog/ai/2026/07/bioshocking-when-gaming-ai-agents-is-no-longer-a-game)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 01 Jul 2026 12:50:59 GMT  
@@ -677,7 +696,7 @@
 
 ---
 
-### 74. [Chrome needs another whopper update to fix 382 security bugs](https://www.malwarebytes.com/blog/bugs/2026/07/chrome-needs-another-whopper-update-to-fix-382-security-fixes)
+### 76. [Chrome needs another whopper update to fix 382 security bugs](https://www.malwarebytes.com/blog/bugs/2026/07/chrome-needs-another-whopper-update-to-fix-382-security-fixes)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 01 Jul 2026 11:40:49 GMT  
@@ -686,7 +705,7 @@
 
 ---
 
-### 75. [ChatGPT produced graphic violent images that shocked researchers](https://www.malwarebytes.com/blog/ai/2026/07/chatgpt-produced-graphic-violent-images-that-shocked-researchers)
+### 77. [ChatGPT produced graphic violent images that shocked researchers](https://www.malwarebytes.com/blog/ai/2026/07/chatgpt-produced-graphic-violent-images-that-shocked-researchers)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 01 Jul 2026 09:10:01 GMT  
@@ -695,7 +714,7 @@
 
 ---
 
-### 76. [Watch out for &#8220;high paying, low effort&#8221; Amazon job texts](https://www.malwarebytes.com/blog/scams/2026/06/watch-out-for-high-paying-low-effort-amazon-job-texts)
+### 78. [Watch out for &#8220;high paying, low effort&#8221; Amazon job texts](https://www.malwarebytes.com/blog/scams/2026/06/watch-out-for-high-paying-low-effort-amazon-job-texts)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 30 Jun 2026 20:46:28 GMT  
@@ -704,7 +723,7 @@
 
 ---
 
-### 77. [Update time: Apple releases security patches for iOS, MacOS Tahoe, Safari](https://www.malwarebytes.com/blog/news/2026/06/update-time-apple-releases-security-patches-for-ios-macos-tahoe-safari)
+### 79. [Update time: Apple releases security patches for iOS, MacOS Tahoe, Safari](https://www.malwarebytes.com/blog/news/2026/06/update-time-apple-releases-security-patches-for-ios-macos-tahoe-safari)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 30 Jun 2026 14:35:45 GMT  
@@ -713,30 +732,12 @@
 
 ---
 
-### 78. [This pay gap is programmed (Lock and Code S07E13)](https://www.malwarebytes.com/blog/podcast/2026/06/this-pay-gap-is-programmed-lock-and-code-s07e13)
+### 80. [This pay gap is programmed (Lock and Code S07E13)](https://www.malwarebytes.com/blog/podcast/2026/06/this-pay-gap-is-programmed-lock-and-code-s07e13)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 29 Jun 2026 14:44:37 GMT  
 **Severity:** High  
 **Categories:** General Security  
-
----
-
-### 79. [119 Edge extensions promised useful tools, instead downloaded malware](https://www.malwarebytes.com/blog/news/2026/06/119-edge-extensions-promised-useful-tools-instead-downloaded-malware)
-
-**Source:** Malwarebytes  
-**Published:** Mon, 29 Jun 2026 14:41:18 GMT  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 80. [A week in security (June 22 &#8211; June 28)](https://www.malwarebytes.com/blog/news/2026/06/a-week-in-security-june-22-june-28)
-
-**Source:** Malwarebytes  
-**Published:** Mon, 29 Jun 2026 07:01:00 GMT  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 

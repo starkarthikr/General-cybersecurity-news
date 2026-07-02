@@ -1,6 +1,25 @@
 [
   {
     "source": "The Hacker News",
+    "title": "ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories",
+    "link": "https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html",
+    "published": "Thu, 02 Jul 2026 20:54:18 +0530",
+    "summary": "This week’s security news is mostly about weak spots.\n\nBrowsers, bots, sandboxes, AI systems, and email flows all show the same problem in different ways. Everything looks normal until someone tests a small gap and finds a way through.\n\nThis is not one big break. It is small permissions, weak checks, open systems, and normal tools doing things they were allowed to do. That same pattern runs",
+    "analysis": {
+      "issue": "ThreatsDay Bulletin covers this week’s cyber threats, from phishing and ransomware to exposed AI systems, sandbox flaws, and browser abuse",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API",
     "link": "https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html",
     "published": "Thu, 02 Jul 2026 18:34:13 +0530",
@@ -169,20 +188,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer",
-    "link": "https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html",
-    "published": "Wed, 01 Jul 2026 22:48:50 +0530",
-    "summary": "Cybersecurity researchers have flagged a new multi-stage malware delivery attack chain that uses social engineering and Blogger pages to deliver an information stealer called PureLogs.\n\nThe activity has been codenamed VEIL#DROP by Securonix. It's suspected that the initial payloads are distributed either via spear-phishing or a drive-by compromise, which occurs when an unsuspecting user lands on",
+    "source": "Bleeping Computer",
+    "title": "Google loses final appeal to overturn €4.1 billion EU fine",
+    "link": "https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/",
+    "published": "Thu, 02 Jul 2026 11:18:51 -0400",
+    "summary": "Court of Justice of the European Union (CJEU) has dismissed Google's final appeal against a €4.1 billion ($4.7 billion) antitrust fine over the company's use of Android to promote its Chrome browser and search service. [...]",
     "analysis": {
-      "issue": "Securonix says PureLogs infection starts with a fake PDF JavaScript file and uses PowerShell, fileless",
+      "issue": "Court of Justice of the European Union (CJEU) has dismissed Google's final appeal against a €4",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "General Security"
       ]
     }
   },
@@ -353,25 +372,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New ChocoPoC malware targets researchers via trojanized PoC exploits",
-    "link": "https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/",
-    "published": "Wed, 01 Jul 2026 16:08:13 -0400",
-    "summary": "Multiple weaponized proof-of-concept (PoC) exploits on GitHub were found delivering a Python-based remote access trojan (RAT) named ChocoPoC that can execute commands and steal sensitive data in a campaign believed to target cybersecurity researchers. [...]",
-    "analysis": {
-      "issue": "Multiple weaponized proof-of-concept (PoC) exploits on GitHub were found delivering a Python-based remote access trojan (RAT) named ChocoPoC that can execute commands and steal sensitive data in a campaign believed to target cybersecurity researchers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
       ]
     }
   },
@@ -569,6 +569,26 @@
   },
   {
     "source": "Security Week",
+    "title": "New CitrixBleed Vulnerability Exploited Immediately After Public Disclosure",
+    "link": "https://www.securityweek.com/new-citrixbleed-vulnerability-exploited-immediately-after-public-disclosure/",
+    "published": "Thu, 02 Jul 2026 15:04:22 +0000",
+    "summary": "<p>Hackers are targeting NetScaler appliances using public PoC code to retrieve arbitrary memory content in the HTTP response.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-citrixbleed-vulnerability-exploited-immediately-after-public-disclosure/\">New CitrixBleed Vulnerability Exploited Immediately After Public Disclosure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Hackers are targeting NetScaler appliances using public PoC code to retrieve arbitrary memory content in the HTTP response",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-8451"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "How to Conduct a Successful Audit of AI-Driven Software Development",
     "link": "https://www.securityweek.com/how-to-conduct-a-successful-audit-of-ai-driven-software-development/",
     "published": "Thu, 02 Jul 2026 13:15:00 +0000",
@@ -714,17 +734,17 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-48315",
-        "CVE-2026-48276",
-        "CVE-2026-48313",
-        "CVE-2026-48286",
         "CVE-2026-48285",
-        "CVE-2026-48314",
+        "CVE-2026-48307",
         "CVE-2026-48281",
-        "CVE-2026-48277",
-        "CVE-2026-48283",
-        "CVE-2026-48316",
+        "CVE-2026-48276",
         "CVE-2026-48282",
-        "CVE-2026-48307"
+        "CVE-2026-48316",
+        "CVE-2026-48313",
+        "CVE-2026-48314",
+        "CVE-2026-48277",
+        "CVE-2026-48286",
+        "CVE-2026-48283"
       ],
       "threat_categories": [
         "Ransomware",
@@ -745,12 +765,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-49975",
         "CVE-2026-10816",
         "CVE-2026-8451",
+        "CVE-2026-49975",
         "CVE-2026-13474",
-        "CVE-2026-8452",
-        "CVE-2026-8655"
+        "CVE-2026-8655",
+        "CVE-2026-8452"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -760,17 +780,17 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Frontier AI: Six Questions Every Enterprise Should Ask Security Vendors",
-    "link": "https://www.securityweek.com/frontier-ai-six-questions-every-enterprise-should-ask-security-vendors/",
-    "published": "Wed, 01 Jul 2026 10:00:00 +0000",
-    "summary": "<p>From model selection and automation to validation and measurable results, the right questions can help enterprises separate genuine AI capabilities from marketing hype.</p>\n<p>The post <a href=\"https://www.securityweek.com/frontier-ai-six-questions-every-enterprise-should-ask-security-vendors/\">Frontier AI: Six Questions Every Enterprise Should Ask Security Vendors</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "source": "Talos Blog",
+    "title": "Catan and Mouse",
+    "link": "https://blog.talosintelligence.com/catan-and-mouse/",
+    "published": "Thu, 02 Jul 2026 18:00:34 GMT",
+    "summary": "What do board games and cybersecurity have in common? Pattern recognition. Strategy. Adaptation. In this week’s Threat Source Bill explores why curiosity may be a defender’s most valuable skill.",
     "analysis": {
-      "issue": "From model selection and automation to validation and measurable results, the right questions can help enterprises separate genuine AI capabilities from marketing hype",
+      "issue": "Welcome to this week’s edition of the Threat Source newsletter",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
         "General Security"
@@ -917,15 +937,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-47291",
-        "CVE-2026-44801",
         "CVE-2026-42992",
-        "CVE-2026-44812",
-        "CVE-2026-48563",
+        "CVE-2026-47291",
         "CVE-2026-42985",
-        "CVE-2026-44799",
+        "CVE-2026-44812",
         "CVE-2026-47289",
-        "CVE-2026-44803"
+        "CVE-2026-44801",
+        "CVE-2026-44799",
+        "CVE-2026-44803",
+        "CVE-2026-48563"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -947,24 +967,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "Winning the cyber marathon with Tony Giandomenico",
-    "link": "https://blog.talosintelligence.com/winning-the-cyber-marathon-with-tony-giandomenico/",
-    "published": "Thu, 04 Jun 2026 12:05:31 GMT",
-    "summary": "Tony Giandomenico, Senior Director of Product Management, joins Amy to discuss the Talos Threat Hunting launch what he's excited about for the future of cybersecurity, and, of course, his Ironman triathlons.",
-    "analysis": {
-      "issue": "In the high-speed world of cybersecurity, the difference between a breach and a breakthrough often comes down to endurance",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -1346,6 +1348,42 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Apple’s Hide My Email doesn&#8217;t hide it very well",
+    "link": "https://www.malwarebytes.com/blog/news/2026/07/apples-hide-my-email-doesnt-hide-it-very-well",
+    "published": "Thu, 02 Jul 2026 16:22:25 GMT",
+    "summary": "A year ago a researcher found a vulnerability in Apple's Hide My Email feature and now he's tired of waiting for a fix.",
+    "analysis": {
+      "issue": "404 Media reports that a researcher has found a vulnerability in Apple’s Hide My Email feature that could allow someone to discover a person’s real email address",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Fake Google and Cloudflare verification pages spread multiple malware families",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/07/fake-google-and-cloudflare-verification-pages-spread-multiple-malware-families",
+    "published": "Thu, 02 Jul 2026 16:05:08 GMT",
+    "summary": "We uncovered ClickFix attacks using fake Google and Cloudflare pages to deliver everything from infostealers to a newly discovered malware loader.",
+    "analysis": {
+      "issue": "ClickFix attacks, which trick people into running malicious commands themselves, continue to evolve",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "WinRAR flaw could allow attackers to take control of your computer",
     "link": "https://www.malwarebytes.com/blog/news/2026/07/winrar-flaw-could-allow-attackers-to-take-control-of-your-computer",
     "published": "Thu, 02 Jul 2026 12:38:12 GMT",
@@ -1489,42 +1527,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "119 Edge extensions promised useful tools, instead downloaded malware",
-    "link": "https://www.malwarebytes.com/blog/news/2026/06/119-edge-extensions-promised-useful-tools-instead-downloaded-malware",
-    "published": "Mon, 29 Jun 2026 14:41:18 GMT",
-    "summary": "Microsoft has removed over 100 Edge extensions that were delivering malware hidden in images.",
-    "analysis": {
-      "issue": "Microsoft has removed 119 extensions from the Edge add-on store which were all tied to one adware campaign",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "A week in security (June 22 &#8211; June 28)",
-    "link": "https://www.malwarebytes.com/blog/news/2026/06/a-week-in-security-june-22-june-28",
-    "published": "Mon, 29 Jun 2026 07:01:00 GMT",
-    "summary": "A list of topics we covered in the week of June 22 to June 28 of 2026",
-    "analysis": {
-      "issue": "Last week on Malwarebytes Labs: Stay safe",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
