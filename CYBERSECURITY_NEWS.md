@@ -1,10 +1,46 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-01 18:25:51 UTC
+**Last Updated:** 2026-07-02 04:02:30 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures](https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html)
+### 1. [Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters](https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 02 Jul 2026 01:10:06 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges](https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 02 Jul 2026 00:58:07 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT](https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 01 Jul 2026 23:23:06 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 4. [VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer](https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 01 Jul 2026 22:48:50 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 5. [Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures](https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 01 Jul 2026 20:56:55 +0530  
@@ -13,7 +49,7 @@
 
 ---
 
-### 2. [Adobe Patches 7 CVSS 10.0 Flaws in ColdFusion and Campaign Classic](https://thehackernews.com/2026/07/adobe-patches-7-cvss-100-flaws-in.html)
+### 6. [Adobe Patches 7 CVSS 10.0 Flaws in ColdFusion and Campaign Classic](https://thehackernews.com/2026/07/adobe-patches-7-cvss-100-flaws-in.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 01 Jul 2026 20:55:46 +0530  
@@ -22,7 +58,7 @@
 
 ---
 
-### 3. [Critical Cursor Flaws Could Let Prompt Injection Escape Sandbox and Run Commands](https://thehackernews.com/2026/07/critical-cursor-flaws-could-let-prompt.html)
+### 7. [Critical Cursor Flaws Could Let Prompt Injection Escape Sandbox and Run Commands](https://thehackernews.com/2026/07/critical-cursor-flaws-could-let-prompt.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 01 Jul 2026 20:12:54 +0530  
@@ -32,7 +68,7 @@
 
 ---
 
-### 4. [Progress Kemp LoadMaster Pre-Auth RCE Flaw Faces Active Exploitation Attempts](https://thehackernews.com/2026/07/latest-progress-kemp-loadmaster-pre.html)
+### 8. [Progress Kemp LoadMaster Pre-Auth RCE Flaw Faces Active Exploitation Attempts](https://thehackernews.com/2026/07/latest-progress-kemp-loadmaster-pre.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 01 Jul 2026 19:26:18 +0530  
@@ -41,7 +77,7 @@
 
 ---
 
-### 5. [AI-Generated Browser Ransomware Abuses Chromium API on Windows and Android](https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html)
+### 9. [AI-Generated Browser Ransomware Abuses Chromium API on Windows and Android](https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 01 Jul 2026 18:29:19 +0530  
@@ -50,7 +86,7 @@
 
 ---
 
-### 6. [2026 Cybersecurity Assessment: The Gap Between Awareness and Resilience](https://thehackernews.com/2026/07/2026-cybersecurity-assessment-gap.html)
+### 10. [2026 Cybersecurity Assessment: The Gap Between Awareness and Resilience](https://thehackernews.com/2026/07/2026-cybersecurity-assessment-gap.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 01 Jul 2026 17:00:00 +0530  
@@ -59,43 +95,34 @@
 
 ---
 
-### 7. [Microsoft Accelerates Post-Quantum Cryptography Shift to 2029](https://thehackernews.com/2026/07/microsoft-accelerates-post-quantum.html)
+### 11. [FortiBleed credential-theft campaign linked to Lynx ransomware](https://www.bleepingcomputer.com/news/security/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 01 Jul 2026 16:11:36 +0530  
+**Source:** Bleeping Computer  
+**Published:** Wed, 01 Jul 2026 17:37:24 -0400  
+**Severity:** Low  
+**Categories:** Ransomware, Phishing  
+
+---
+
+### 12. [Kubota says hackers had month-long access to network systems](https://www.bleepingcomputer.com/news/security/kubota-says-hackers-had-month-long-access-to-network-systems/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 01 Jul 2026 17:09:06 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 8. [Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware](https://thehackernews.com/2026/07/phantom-squatting-uses-ai-hallucinated.html)
+### 13. [New ChocoPoC malware targets researchers via trojanized PoC exploits](https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 01 Jul 2026 12:50:51 +0530  
+**Source:** Bleeping Computer  
+**Published:** Wed, 01 Jul 2026 16:08:13 -0400  
 **Severity:** Low  
-**Categories:** Malware, Phishing  
+**Categories:** Vulnerability, Malware  
 
 ---
 
-### 9. [Anthropic Restores Claude Fable 5 After U.S. Lifts Jailbreak-Linked Export Controls](https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 01 Jul 2026 12:16:17 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [Azure CLI Password Spray Hits at Least 78 Microsoft Accounts in 81M+ Attempts](https://thehackernews.com/2026/07/azure-cli-password-spray-hits-at-least.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 01 Jul 2026 11:16:03 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 11. [DHS confirms hackers breached HSIN info-sharing platform](https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/)
+### 14. [DHS confirms hackers breached HSIN info-sharing platform](https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 01 Jul 2026 13:32:22 -0400  
@@ -104,7 +131,7 @@
 
 ---
 
-### 12. [Webinar: Why traditional email security is no longer enough](https://www.bleepingcomputer.com/news/security/webinar-why-traditional-email-security-is-no-longer-enough/)
+### 15. [Webinar: Why traditional email security is no longer enough](https://www.bleepingcomputer.com/news/security/webinar-why-traditional-email-security-is-no-longer-enough/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 01 Jul 2026 12:54:22 -0400  
@@ -113,7 +140,7 @@
 
 ---
 
-### 13. [Hackers target Microsoft 365 accounts with 81 million login attempts](https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-365-accounts-with-81-million-login-attempts/)
+### 16. [Hackers target Microsoft 365 accounts with 81 million login attempts](https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-365-accounts-with-81-million-login-attempts/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 01 Jul 2026 12:38:01 -0400  
@@ -122,7 +149,7 @@
 
 ---
 
-### 14. [Turning Indicators into Intelligence in OpenCTI with Criminal IP](https://www.bleepingcomputer.com/news/security/turning-indicators-into-intelligence-in-opencti-with-criminal-ip/)
+### 17. [Turning Indicators into Intelligence in OpenCTI with Criminal IP](https://www.bleepingcomputer.com/news/security/turning-indicators-into-intelligence-in-opencti-with-criminal-ip/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 01 Jul 2026 10:01:11 -0400  
@@ -131,7 +158,7 @@
 
 ---
 
-### 15. [Over 900 Oracle E-Business instances exposed to ongoing attacks](https://www.bleepingcomputer.com/news/security/over-900-oracle-e-business-instances-exposed-to-ongoing-attacks/)
+### 18. [Over 900 Oracle E-Business instances exposed to ongoing attacks](https://www.bleepingcomputer.com/news/security/over-900-oracle-e-business-instances-exposed-to-ongoing-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 01 Jul 2026 08:30:01 -0400  
@@ -141,7 +168,7 @@
 
 ---
 
-### 16. [Microsoft fixes GIF functionality in the Windows Emoji Panel](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-gif-functionality-in-the-windows-emoji-panel/)
+### 19. [Microsoft fixes GIF functionality in the Windows Emoji Panel](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-gif-functionality-in-the-windows-emoji-panel/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 01 Jul 2026 06:52:26 -0400  
@@ -150,38 +177,10 @@
 
 ---
 
-### 17. [Amazon fined $2.25M for withholding evidence from fraud victims](https://www.bleepingcomputer.com/news/security/amazon-fined-225m-for-withholding-evidence-from-fraud-victims/)
+### 20. [Amazon fined $2.25M for withholding evidence from fraud victims](https://www.bleepingcomputer.com/news/security/amazon-fined-225m-for-withholding-evidence-from-fraud-victims/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 01 Jul 2026 05:43:27 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 18. [Adobe patches seven max severity ColdFusion, Campaign flaws](https://www.bleepingcomputer.com/news/security/adobe-patches-seven-max-severity-coldfusion-campaign-flaws/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 01 Jul 2026 03:34:52 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-48276, CVE-2026-48281, CVE-2026-48286, CVE-2026-48282, CVE-2026-48277, CVE-2026-48316  
-**Categories:** Vulnerability  
-
----
-
-### 19. [Anthropic to restore Claude Fable access on Wednesday](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-to-restore-claude-fable-access-on-wednesday/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 30 Jun 2026 20:35:14 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [Anthropic rolls out Sonnet 5 with near-Opus 4.8 performance at a lower price](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-sonnet-5-with-near-opus-48-performance-at-a-lower-price/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 30 Jun 2026 19:13:07 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -219,7 +218,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50507, CVE-2026-45586, CVE-2026-49160  
+**CVEs:** CVE-2026-49160, CVE-2026-45586, CVE-2026-50507  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -292,7 +291,7 @@
 **Source:** Security Week  
 **Published:** Wed, 01 Jul 2026 11:27:07 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48283, CVE-2026-48307, CVE-2026-48285, CVE-2026-48276, CVE-2026-48313, CVE-2026-48315, CVE-2026-48281, CVE-2026-48286, CVE-2026-48282, CVE-2026-48277, CVE-2026-48314, CVE-2026-48316  
+**CVEs:** CVE-2026-48313, CVE-2026-48276, CVE-2026-48314, CVE-2026-48285, CVE-2026-48307, CVE-2026-48286, CVE-2026-48281, CVE-2026-48316, CVE-2026-48277, CVE-2026-48315, CVE-2026-48282, CVE-2026-48283  
 **Categories:** Ransomware, Vulnerability  
 
 ---
@@ -302,7 +301,7 @@
 **Source:** Security Week  
 **Published:** Wed, 01 Jul 2026 11:20:45 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-10816, CVE-2026-8451, CVE-2026-49975, CVE-2026-8655, CVE-2026-8452, CVE-2026-13474  
+**CVEs:** CVE-2026-8655, CVE-2026-8452, CVE-2026-10816, CVE-2026-49975, CVE-2026-13474, CVE-2026-8451  
 **Categories:** Vulnerability, Malware, Supply Chain  
 
 ---
@@ -439,7 +438,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-44799, CVE-2026-44803, CVE-2026-44801, CVE-2026-47289, CVE-2026-42992, CVE-2026-44812, CVE-2026-47291, CVE-2026-48563, CVE-2026-42985  
+**CVEs:** CVE-2026-48563, CVE-2026-47289, CVE-2026-42992, CVE-2026-42985, CVE-2026-44799, CVE-2026-47291, CVE-2026-44803, CVE-2026-44801, CVE-2026-44812  
 **Categories:** Vulnerability  
 
 ---
@@ -647,7 +646,16 @@
 
 ---
 
-### 71. [BioShocking: when “gaming” AI agents is no longer a game](https://www.malwarebytes.com/blog/ai/2026/07/bioshocking-when-gaming-ai-agents-is-no-longer-a-game)
+### 71. [Fake Perplexity Chrome extension spies on your searches](https://www.malwarebytes.com/blog/privacy/2026/07/fake-perplexity-chrome-extension-spies-on-your-searches)
+
+**Source:** Malwarebytes  
+**Published:** Wed, 01 Jul 2026 20:11:27 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 72. [BioShocking: when “gaming” AI agents is no longer a game](https://www.malwarebytes.com/blog/ai/2026/07/bioshocking-when-gaming-ai-agents-is-no-longer-a-game)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 01 Jul 2026 12:50:59 GMT  
@@ -656,7 +664,7 @@
 
 ---
 
-### 72. [Chrome needs another whopper update to fix 382 security bugs](https://www.malwarebytes.com/blog/bugs/2026/07/chrome-needs-another-whopper-update-to-fix-382-security-fixes)
+### 73. [Chrome needs another whopper update to fix 382 security bugs](https://www.malwarebytes.com/blog/bugs/2026/07/chrome-needs-another-whopper-update-to-fix-382-security-fixes)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 01 Jul 2026 11:40:49 GMT  
@@ -665,7 +673,7 @@
 
 ---
 
-### 73. [ChatGPT produced graphic violent images that shocked researchers](https://www.malwarebytes.com/blog/ai/2026/07/chatgpt-produced-graphic-violent-images-that-shocked-researchers)
+### 74. [ChatGPT produced graphic violent images that shocked researchers](https://www.malwarebytes.com/blog/ai/2026/07/chatgpt-produced-graphic-violent-images-that-shocked-researchers)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 01 Jul 2026 09:10:01 GMT  
@@ -674,7 +682,7 @@
 
 ---
 
-### 74. [Watch out for &#8220;high paying, low effort&#8221; Amazon job texts](https://www.malwarebytes.com/blog/scams/2026/06/watch-out-for-high-paying-low-effort-amazon-job-texts)
+### 75. [Watch out for &#8220;high paying, low effort&#8221; Amazon job texts](https://www.malwarebytes.com/blog/scams/2026/06/watch-out-for-high-paying-low-effort-amazon-job-texts)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 30 Jun 2026 20:46:28 GMT  
@@ -683,7 +691,7 @@
 
 ---
 
-### 75. [Update time: Apple releases security patches for iOS, MacOS Tahoe, Safari](https://www.malwarebytes.com/blog/news/2026/06/update-time-apple-releases-security-patches-for-ios-macos-tahoe-safari)
+### 76. [Update time: Apple releases security patches for iOS, MacOS Tahoe, Safari](https://www.malwarebytes.com/blog/news/2026/06/update-time-apple-releases-security-patches-for-ios-macos-tahoe-safari)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 30 Jun 2026 14:35:45 GMT  
@@ -692,7 +700,7 @@
 
 ---
 
-### 76. [This pay gap is programmed (Lock and Code S07E13)](https://www.malwarebytes.com/blog/podcast/2026/06/this-pay-gap-is-programmed-lock-and-code-s07e13)
+### 77. [This pay gap is programmed (Lock and Code S07E13)](https://www.malwarebytes.com/blog/podcast/2026/06/this-pay-gap-is-programmed-lock-and-code-s07e13)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 29 Jun 2026 14:44:37 GMT  
@@ -701,7 +709,7 @@
 
 ---
 
-### 77. [119 Edge extensions promised useful tools, instead downloaded malware](https://www.malwarebytes.com/blog/news/2026/06/119-edge-extensions-promised-useful-tools-instead-downloaded-malware)
+### 78. [119 Edge extensions promised useful tools, instead downloaded malware](https://www.malwarebytes.com/blog/news/2026/06/119-edge-extensions-promised-useful-tools-instead-downloaded-malware)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 29 Jun 2026 14:41:18 GMT  
@@ -710,7 +718,7 @@
 
 ---
 
-### 78. [A week in security (June 22 &#8211; June 28)](https://www.malwarebytes.com/blog/news/2026/06/a-week-in-security-june-22-june-28)
+### 79. [A week in security (June 22 &#8211; June 28)](https://www.malwarebytes.com/blog/news/2026/06/a-week-in-security-june-22-june-28)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 29 Jun 2026 07:01:00 GMT  
@@ -719,21 +727,12 @@
 
 ---
 
-### 79. [Malware steals Chrome session cookies to take over your accounts](https://www.malwarebytes.com/blog/news/2026/06/malware-steals-chrome-session-cookies-to-take-over-your-accounts)
+### 80. [Malware steals Chrome session cookies to take over your accounts](https://www.malwarebytes.com/blog/news/2026/06/malware-steals-chrome-session-cookies-to-take-over-your-accounts)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 26 Jun 2026 12:44:01 GMT  
 **Severity:** Low  
 **Categories:** Malware, Phishing  
-
----
-
-### 80. [Beware of &#8220;Parcel Expert&#8221; job offers: They&#8217;re parcel mule scams](https://www.malwarebytes.com/blog/scams/2026/06/beware-of-parcel-expert-job-offers-theyre-parcel-mule-scams)
-
-**Source:** Malwarebytes  
-**Published:** Thu, 25 Jun 2026 18:12:51 GMT  
-**Severity:** High  
-**Categories:** General Security  
 
 ---
 

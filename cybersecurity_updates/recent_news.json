@@ -1,6 +1,78 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters",
+    "link": "https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html",
+    "published": "Thu, 02 Jul 2026 01:10:06 +0530",
+    "summary": "Argo CD, a widely used tool for deploying software to Kubernetes, has an unpatched flaw in its repo-server component that lets an unauthenticated attacker run code, provided they can reach the component's internal network port.\n\nSynacktiv, which found the bug, says it can lead to a full cluster takeover. There is no fix and no CVE. The firm says it reported the flaw to Argo CD's maintainers in",
+    "analysis": {
+      "issue": "Synacktiv says attackers who reach Argo CD's internal gRPC port can run commands, with network policies the main defense",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges",
+    "link": "https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html",
+    "published": "Thu, 02 Jul 2026 00:58:07 +0530",
+    "summary": "A teenager accused of belonging to the hacking group Scattered Spider has been extradited from Finland to face U.S. charges of conspiracy, computer intrusion, and fraud, the U.S. Department of Justice&nbsp;announced&nbsp;on July 1.\n\nPeter Stokes, 19, a dual U.S. and Estonian citizen, appeared in a Chicago federal court on June 30, where a judge ordered him held in custody.\n\nFinnish police",
+    "analysis": {
+      "issue": "charges tied to at least four alleged intrusions, including a 2025 jewelry retailer hack",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT",
+    "link": "https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html",
+    "published": "Wed, 01 Jul 2026 23:23:06 +0530",
+    "summary": "Unknown threat actors are leveraging the ScreenConnect remote access tool as a way to deploy and execute AsyncRAT.\n\nKaspersky said the activity is part of a \"massive, multi-domain, multi-language\" campaign that distributes malicious installer archives hosted on spoofed websites.\n\nThese installers masquerade as popular software like OBS Studio, DNS Jumper, DS4Windows, and Bandicam, among others.",
+    "analysis": {
+      "issue": "Kaspersky says 90+ spoofed domains use malicious installers and SEO to deliver AsyncRAT to Windows systems through ScreenConnect",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer",
+    "link": "https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html",
+    "published": "Wed, 01 Jul 2026 22:48:50 +0530",
+    "summary": "Cybersecurity researchers have flagged a new multi-stage malware delivery attack chain that uses social engineering and Blogger pages to deliver an information stealer called PureLogs.\n\nThe activity has been codenamed VEIL#DROP by Securonix. It's suspected that the initial payloads are distributed either via spear-phishing or a drive-by compromise, which occurs when an unsuspecting user lands on",
+    "analysis": {
+      "issue": "Securonix says PureLogs infection starts with a fake PDF JavaScript file and uses PowerShell, fileless",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures",
     "link": "https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html",
     "published": "Wed, 01 Jul 2026 20:56:55 +0530",
@@ -111,50 +183,32 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Microsoft Accelerates Post-Quantum Cryptography Shift to 2029",
-    "link": "https://thehackernews.com/2026/07/microsoft-accelerates-post-quantum.html",
-    "published": "Wed, 01 Jul 2026 16:11:36 +0530",
-    "summary": "Microsoft on Tuesday said it's accelerating its quantum safe security roadmap, stating technology advances in quantum computing are making it essential to replace existing encryption standards sooner than previously expected.\n\n\"Advances in quantum research and development have shifted the risk horizon,\" Mark Russinovich, chief technology officer of Microsoft Azure, said. \"We believe",
+    "source": "Bleeping Computer",
+    "title": "FortiBleed credential-theft campaign linked to Lynx ransomware",
+    "link": "https://www.bleepingcomputer.com/news/security/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware/",
+    "published": "Wed, 01 Jul 2026 17:37:24 -0400",
+    "summary": "The massive FortiBleed credential theft campaign has been linked to the INC and Lynx ransomware operations, suggesting the stolen Fortinet credentials were intended to fuel future network intrusions. [...]",
     "analysis": {
-      "issue": "The roadmap adds PQC to SFI and focuses on TLS 1",
+      "issue": "The massive FortiBleed credential theft campaign has been linked to the INC and Lynx ransomware operations, suggesting the stolen Fortinet credentials were intended to fuel future network intrusions",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware",
-    "link": "https://thehackernews.com/2026/07/phantom-squatting-uses-ai-hallucinated.html",
-    "published": "Wed, 01 Jul 2026 12:50:51 +0530",
-    "summary": "Large language models keep inventing web addresses that do not exist. Attackers have started buying those made-up domains before anyone else can, then hosting phishing pages on them to catch traffic that AI tools point their way.\n\nPalo Alto Networks'&nbsp;Unit 42&nbsp;calls the trick phantom squatting, and its new research shows it is already happening in the wild.\n\nThe reason it matters is",
-    "analysis": {
-      "issue": "Unit 42 found 250,000 unowned domains in 2",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
+        "Ransomware",
         "Phishing"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Anthropic Restores Claude Fable 5 After U.S. Lifts Jailbreak-Linked Export Controls",
-    "link": "https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html",
-    "published": "Wed, 01 Jul 2026 12:16:17 +0530",
-    "summary": "Anthropic is putting Claude Fable 5 back online worldwide. On&nbsp;June 30, the U.S. Commerce Department lifted the export controls it had imposed on Fable and its more tightly controlled sibling Mythos 5 about two and a half weeks earlier.\n\nFable 5 returns to users on Wednesday, July 1, across Claude.ai, the Claude Platform, Claude Code, and Claude Cowork.\n\nExport controls restrict who can",
+    "source": "Bleeping Computer",
+    "title": "Kubota says hackers had month-long access to network systems",
+    "link": "https://www.bleepingcomputer.com/news/security/kubota-says-hackers-had-month-long-access-to-network-systems/",
+    "published": "Wed, 01 Jul 2026 17:09:06 -0400",
+    "summary": "Kubota North America Corporation disclosed that hackers had access to some of its network systems for more than a month earlier this year. [...]",
     "analysis": {
-      "issue": "June 30 decision ended controls tied to an Amazon-reported Fable 5 jailbreak; Anthropic says a classifier blocks it in over 99% of tries",
+      "issue": "Kubota North America Corporation disclosed that hackers had access to some of its network systems for more than a month earlier this year",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -166,20 +220,21 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Azure CLI Password Spray Hits at Least 78 Microsoft Accounts in 81M+ Attempts",
-    "link": "https://thehackernews.com/2026/07/azure-cli-password-spray-hits-at-least.html",
-    "published": "Wed, 01 Jul 2026 11:16:03 +0530",
-    "summary": "Cybersecurity researchers have warned of a \"massive, ongoing, automated password spray attack\" aimed at Microsoft's Azure command-line interface (CLI), compromising dozens of accounts in the process.\n\nThe activity, per Huntress, originates from an IPv6 address range (2a0a:d683::/32) controlled by internet infrastructure provider LSHIY LLC (AS32167).\n\n\"Between June 12 and June 26, the threat",
+    "source": "Bleeping Computer",
+    "title": "New ChocoPoC malware targets researchers via trojanized PoC exploits",
+    "link": "https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/",
+    "published": "Wed, 01 Jul 2026 16:08:13 -0400",
+    "summary": "Multiple weaponized proof-of-concept (PoC) exploits on GitHub were found delivering a Python-based remote access trojan (RAT) named ChocoPoC that can execute commands and steal sensitive data in a campaign believed to target cybersecurity researchers. [...]",
     "analysis": {
-      "issue": "Huntress says attackers made 81M Azure CLI password spray attempts from June 12-26, 2026, using ROPC to bypass weak CAPs",
+      "issue": "Multiple weaponized proof-of-concept (PoC) exploits on GitHub were found delivering a Python-based remote access trojan (RAT) named ChocoPoC that can execute commands and steal sensitive data in a campaign believed to target cybersecurity researchers",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Vulnerability",
+        "Malware"
       ]
     }
   },
@@ -316,67 +371,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Adobe patches seven max severity ColdFusion, Campaign flaws",
-    "link": "https://www.bleepingcomputer.com/news/security/adobe-patches-seven-max-severity-coldfusion-campaign-flaws/",
-    "published": "Wed, 01 Jul 2026 03:34:52 -0400",
-    "summary": "Adobe has released security patches for seven maximum-severity vulnerabilities in the ColdFusion web app development platform and the Campaign Classic marketing automation platform. [...]",
-    "analysis": {
-      "issue": "Adobe has released security patches for seven maximum-severity vulnerabilities in the ColdFusion web app development platform and the Campaign Classic marketing automation platform",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-48276",
-        "CVE-2026-48281",
-        "CVE-2026-48286",
-        "CVE-2026-48282",
-        "CVE-2026-48277",
-        "CVE-2026-48316"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Anthropic to restore Claude Fable access on Wednesday",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-to-restore-claude-fable-access-on-wednesday/",
-    "published": "Tue, 30 Jun 2026 20:35:14 -0400",
-    "summary": "Anthropic has confirmed that the Department of Commerce has lifted export controls on Claude's two most powerful models, Fable 5 and Mythos 5. [...]",
-    "analysis": {
-      "issue": "Anthropic has confirmed that the Department of Commerce has lifted export controls on Claude's two most powerful models, Fable 5 and Mythos 5",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Anthropic rolls out Sonnet 5 with near-Opus 4.8 performance at a lower price",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-sonnet-5-with-near-opus-48-performance-at-a-lower-price/",
-    "published": "Tue, 30 Jun 2026 19:13:07 -0400",
-    "summary": "Anthropic is now rolling out Sonnet 5, and it's almost as good as the Opus range, but it is designed to be cheaper than the company's flagship model. [...]",
-    "analysis": {
-      "issue": "Anthropic is now rolling out Sonnet 5, and it's almost as good as the Opus range, but it is designed to be cheaper than the company's flagship model",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
     "link": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
@@ -446,9 +440,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50507",
+        "CVE-2026-49160",
         "CVE-2026-45586",
-        "CVE-2026-49160"
+        "CVE-2026-50507"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -600,18 +594,18 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-48283",
-        "CVE-2026-48307",
-        "CVE-2026-48285",
-        "CVE-2026-48276",
         "CVE-2026-48313",
-        "CVE-2026-48315",
-        "CVE-2026-48281",
-        "CVE-2026-48286",
-        "CVE-2026-48282",
-        "CVE-2026-48277",
+        "CVE-2026-48276",
         "CVE-2026-48314",
-        "CVE-2026-48316"
+        "CVE-2026-48285",
+        "CVE-2026-48307",
+        "CVE-2026-48286",
+        "CVE-2026-48281",
+        "CVE-2026-48316",
+        "CVE-2026-48277",
+        "CVE-2026-48315",
+        "CVE-2026-48282",
+        "CVE-2026-48283"
       ],
       "threat_categories": [
         "Ransomware",
@@ -632,12 +626,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-10816",
-        "CVE-2026-8451",
-        "CVE-2026-49975",
         "CVE-2026-8655",
         "CVE-2026-8452",
-        "CVE-2026-13474"
+        "CVE-2026-10816",
+        "CVE-2026-49975",
+        "CVE-2026-13474",
+        "CVE-2026-8451"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -919,15 +913,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-44799",
-        "CVE-2026-44803",
-        "CVE-2026-44801",
+        "CVE-2026-48563",
         "CVE-2026-47289",
         "CVE-2026-42992",
-        "CVE-2026-44812",
+        "CVE-2026-42985",
+        "CVE-2026-44799",
         "CVE-2026-47291",
-        "CVE-2026-48563",
-        "CVE-2026-42985"
+        "CVE-2026-44803",
+        "CVE-2026-44801",
+        "CVE-2026-44812"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1348,6 +1342,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Fake Perplexity Chrome extension spies on your searches",
+    "link": "https://www.malwarebytes.com/blog/privacy/2026/07/fake-perplexity-chrome-extension-spies-on-your-searches",
+    "published": "Wed, 01 Jul 2026 20:11:27 GMT",
+    "summary": "A fake Perplexity Chrome extension secretly monitored searches. If you installed \"Search for perplexity ai,\" you need to remove it manually.",
+    "analysis": {
+      "issue": "Type “Perplexity” into the Chrome Web Store and you get a range of browser extensions offering access to the popular AI search service",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "BioShocking: when “gaming” AI agents is no longer a game",
     "link": "https://www.malwarebytes.com/blog/ai/2026/07/bioshocking-when-gaming-ai-agents-is-no-longer-a-game",
     "published": "Wed, 01 Jul 2026 12:50:59 GMT",
@@ -1506,24 +1518,6 @@
       "threat_categories": [
         "Malware",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Beware of &#8220;Parcel Expert&#8221; job offers: They&#8217;re parcel mule scams",
-    "link": "https://www.malwarebytes.com/blog/scams/2026/06/beware-of-parcel-expert-job-offers-theyre-parcel-mule-scams",
-    "published": "Thu, 25 Jun 2026 18:12:51 GMT",
-    "summary": "Most parcel mule scams start with fake job offers that trick victims into handling stolen goods.",
-    "analysis": {
-      "issue": "A parcel mule scam, also called a reshipping scam, is a fake job offer designed to recruit people into handling stolen goods",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
