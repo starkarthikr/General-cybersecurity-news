@@ -120,8 +120,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-50548",
-        "CVE-2026-50549"
+        "CVE-2026-50549",
+        "CVE-2026-50548"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -179,6 +179,26 @@
       "cves": [],
       "threat_categories": [
         "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Medtronic notifies customers impacted by ShinyHunters data breach",
+    "link": "https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/",
+    "published": "Thu, 02 Jul 2026 00:25:42 -0400",
+    "summary": "Healthcare device firm Medtronic is notifying affected customers about a data breach that exposed their personal data to an unauthorized third party. [...]",
+    "analysis": {
+      "issue": "Healthcare device firm Medtronic is notifying affected customers about a data breach that exposed their personal data to an unauthorized third party",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Supply Chain"
       ]
     }
   },
@@ -353,24 +373,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Amazon fined $2.25M for withholding evidence from fraud victims",
-    "link": "https://www.bleepingcomputer.com/news/security/amazon-fined-225m-for-withholding-evidence-from-fraud-victims/",
-    "published": "Wed, 01 Jul 2026 05:43:27 -0400",
-    "summary": "The U.S. Federal Trade Commission (FTC) says Amazon will pay a $2.25 million civil penalty to settle charges that it blocked identity theft victims' access to transaction records. [...]",
-    "analysis": {
-      "issue": "Federal Trade Commission (FTC) says Amazon will pay a $2",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
     "link": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
@@ -441,8 +443,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-49160",
-        "CVE-2026-45586",
-        "CVE-2026-50507"
+        "CVE-2026-50507",
+        "CVE-2026-45586"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -594,18 +596,18 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-48313",
-        "CVE-2026-48276",
-        "CVE-2026-48314",
-        "CVE-2026-48285",
         "CVE-2026-48307",
-        "CVE-2026-48286",
-        "CVE-2026-48281",
-        "CVE-2026-48316",
         "CVE-2026-48277",
+        "CVE-2026-48283",
+        "CVE-2026-48316",
+        "CVE-2026-48281",
         "CVE-2026-48315",
+        "CVE-2026-48313",
         "CVE-2026-48282",
-        "CVE-2026-48283"
+        "CVE-2026-48285",
+        "CVE-2026-48276",
+        "CVE-2026-48286",
+        "CVE-2026-48314"
       ],
       "threat_categories": [
         "Ransomware",
@@ -626,12 +628,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-8655",
-        "CVE-2026-8452",
-        "CVE-2026-10816",
         "CVE-2026-49975",
+        "CVE-2026-10816",
+        "CVE-2026-8451",
         "CVE-2026-13474",
-        "CVE-2026-8451"
+        "CVE-2026-8655",
+        "CVE-2026-8452"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -913,15 +915,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-48563",
-        "CVE-2026-47289",
-        "CVE-2026-42992",
         "CVE-2026-42985",
-        "CVE-2026-44799",
+        "CVE-2026-42992",
+        "CVE-2026-48563",
         "CVE-2026-47291",
         "CVE-2026-44803",
-        "CVE-2026-44801",
-        "CVE-2026-44812"
+        "CVE-2026-47289",
+        "CVE-2026-44799",
+        "CVE-2026-44812",
+        "CVE-2026-44801"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1311,8 +1313,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",

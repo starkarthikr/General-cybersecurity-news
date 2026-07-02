@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-02 04:02:30 UTC
+**Last Updated:** 2026-07-02 04:39:44 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -63,7 +63,7 @@
 **Source:** The Hacker News  
 **Published:** Wed, 01 Jul 2026 20:12:54 +0530  
 **Severity:** Low  
-**CVEs:** CVE-2026-50548, CVE-2026-50549  
+**CVEs:** CVE-2026-50549, CVE-2026-50548  
 **Categories:** Vulnerability  
 
 ---
@@ -95,7 +95,16 @@
 
 ---
 
-### 11. [FortiBleed credential-theft campaign linked to Lynx ransomware](https://www.bleepingcomputer.com/news/security/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware/)
+### 11. [Medtronic notifies customers impacted by ShinyHunters data breach](https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 02 Jul 2026 00:25:42 -0400  
+**Severity:** Low  
+**Categories:** Ransomware, Data Breach, Supply Chain  
+
+---
+
+### 12. [FortiBleed credential-theft campaign linked to Lynx ransomware](https://www.bleepingcomputer.com/news/security/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 01 Jul 2026 17:37:24 -0400  
@@ -104,7 +113,7 @@
 
 ---
 
-### 12. [Kubota says hackers had month-long access to network systems](https://www.bleepingcomputer.com/news/security/kubota-says-hackers-had-month-long-access-to-network-systems/)
+### 13. [Kubota says hackers had month-long access to network systems](https://www.bleepingcomputer.com/news/security/kubota-says-hackers-had-month-long-access-to-network-systems/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 01 Jul 2026 17:09:06 -0400  
@@ -113,7 +122,7 @@
 
 ---
 
-### 13. [New ChocoPoC malware targets researchers via trojanized PoC exploits](https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/)
+### 14. [New ChocoPoC malware targets researchers via trojanized PoC exploits](https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 01 Jul 2026 16:08:13 -0400  
@@ -122,7 +131,7 @@
 
 ---
 
-### 14. [DHS confirms hackers breached HSIN info-sharing platform](https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/)
+### 15. [DHS confirms hackers breached HSIN info-sharing platform](https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 01 Jul 2026 13:32:22 -0400  
@@ -131,7 +140,7 @@
 
 ---
 
-### 15. [Webinar: Why traditional email security is no longer enough](https://www.bleepingcomputer.com/news/security/webinar-why-traditional-email-security-is-no-longer-enough/)
+### 16. [Webinar: Why traditional email security is no longer enough](https://www.bleepingcomputer.com/news/security/webinar-why-traditional-email-security-is-no-longer-enough/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 01 Jul 2026 12:54:22 -0400  
@@ -140,7 +149,7 @@
 
 ---
 
-### 16. [Hackers target Microsoft 365 accounts with 81 million login attempts](https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-365-accounts-with-81-million-login-attempts/)
+### 17. [Hackers target Microsoft 365 accounts with 81 million login attempts](https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-365-accounts-with-81-million-login-attempts/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 01 Jul 2026 12:38:01 -0400  
@@ -149,7 +158,7 @@
 
 ---
 
-### 17. [Turning Indicators into Intelligence in OpenCTI with Criminal IP](https://www.bleepingcomputer.com/news/security/turning-indicators-into-intelligence-in-opencti-with-criminal-ip/)
+### 18. [Turning Indicators into Intelligence in OpenCTI with Criminal IP](https://www.bleepingcomputer.com/news/security/turning-indicators-into-intelligence-in-opencti-with-criminal-ip/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 01 Jul 2026 10:01:11 -0400  
@@ -158,7 +167,7 @@
 
 ---
 
-### 18. [Over 900 Oracle E-Business instances exposed to ongoing attacks](https://www.bleepingcomputer.com/news/security/over-900-oracle-e-business-instances-exposed-to-ongoing-attacks/)
+### 19. [Over 900 Oracle E-Business instances exposed to ongoing attacks](https://www.bleepingcomputer.com/news/security/over-900-oracle-e-business-instances-exposed-to-ongoing-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 01 Jul 2026 08:30:01 -0400  
@@ -168,19 +177,10 @@
 
 ---
 
-### 19. [Microsoft fixes GIF functionality in the Windows Emoji Panel](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-gif-functionality-in-the-windows-emoji-panel/)
+### 20. [Microsoft fixes GIF functionality in the Windows Emoji Panel](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-gif-functionality-in-the-windows-emoji-panel/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 01 Jul 2026 06:52:26 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [Amazon fined $2.25M for withholding evidence from fraud victims](https://www.bleepingcomputer.com/news/security/amazon-fined-225m-for-withholding-evidence-from-fraud-victims/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 01 Jul 2026 05:43:27 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -218,7 +218,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-49160, CVE-2026-45586, CVE-2026-50507  
+**CVEs:** CVE-2026-49160, CVE-2026-50507, CVE-2026-45586  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -291,7 +291,7 @@
 **Source:** Security Week  
 **Published:** Wed, 01 Jul 2026 11:27:07 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48313, CVE-2026-48276, CVE-2026-48314, CVE-2026-48285, CVE-2026-48307, CVE-2026-48286, CVE-2026-48281, CVE-2026-48316, CVE-2026-48277, CVE-2026-48315, CVE-2026-48282, CVE-2026-48283  
+**CVEs:** CVE-2026-48307, CVE-2026-48277, CVE-2026-48283, CVE-2026-48316, CVE-2026-48281, CVE-2026-48315, CVE-2026-48313, CVE-2026-48282, CVE-2026-48285, CVE-2026-48276, CVE-2026-48286, CVE-2026-48314  
 **Categories:** Ransomware, Vulnerability  
 
 ---
@@ -301,7 +301,7 @@
 **Source:** Security Week  
 **Published:** Wed, 01 Jul 2026 11:20:45 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-8655, CVE-2026-8452, CVE-2026-10816, CVE-2026-49975, CVE-2026-13474, CVE-2026-8451  
+**CVEs:** CVE-2026-49975, CVE-2026-10816, CVE-2026-8451, CVE-2026-13474, CVE-2026-8655, CVE-2026-8452  
 **Categories:** Vulnerability, Malware, Supply Chain  
 
 ---
@@ -438,7 +438,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48563, CVE-2026-47289, CVE-2026-42992, CVE-2026-42985, CVE-2026-44799, CVE-2026-47291, CVE-2026-44803, CVE-2026-44801, CVE-2026-44812  
+**CVEs:** CVE-2026-42985, CVE-2026-42992, CVE-2026-48563, CVE-2026-47291, CVE-2026-44803, CVE-2026-47289, CVE-2026-44799, CVE-2026-44812, CVE-2026-44801  
 **Categories:** Vulnerability  
 
 ---
@@ -631,7 +631,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
