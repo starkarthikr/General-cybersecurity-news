@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API",
+    "link": "https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html",
+    "published": "Thu, 02 Jul 2026 18:34:13 +0530",
+    "summary": "The threat actor known as ToddyCat has been attributed to a new malware called Umbrij that's designed to gain surreptitious access to a victim's email correspondence via the Google API.\n\n\"In this campaign, the attackers focused their attention on corporate email communications hosted on Gmail, targeting access compromise via APIs,\" Kaspersky said in a detailed report published this week. \"",
+    "analysis": {
+      "issue": "Kaspersky reports ToddyCat’s Umbrij abuses headless Chromium and OAuth flows to extract Gmail authorization codes, enabling access via tokens",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Identity Lifecycle Management Wasn't Built for AI Agents",
+    "link": "https://thehackernews.com/2026/07/identity-lifecycle-management.html",
+    "published": "Thu, 02 Jul 2026 17:00:00 +0530",
+    "summary": "Identity lifecycle management was architected around a person with an employment record, a manager, and a departure date. AI agents have none of those. As autonomous principals proliferate across enterprise environments, the governance model built for humans develops structural blind spots that traditional IGA tools weren't designed to detect. This guide covers where that model breaks, what it",
+    "analysis": {
+      "issue": "Identity Lifecycle Management Wasn't Built for AI Agents  | Read more hacking news on The Hacker News cybersecurity news website and learn how to protect against cyberattacks and software vulnerabilities",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack",
     "link": "https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html",
     "published": "Thu, 02 Jul 2026 14:43:13 +0530",
@@ -151,36 +187,57 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures",
-    "link": "https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html",
-    "published": "Wed, 01 Jul 2026 20:56:55 +0530",
-    "summary": "A Brazilian banking trojan called Ousaban is going after Windows users who bank in Spain and Portugal.&nbsp;Fortinet's FortiGuard Labs&nbsp;identified the campaign in May 2026.\n\nIt opens with a phishing PDF disguised as a corrupted file, checks that the visitor is really in Spain or Portugal, and hides its real payload inside an image.\n\nThe goal is the usual one: steal banking logins and take",
+    "source": "Bleeping Computer",
+    "title": "ConsentFix and ClickFix: How Microsoft 365 Accounts are Hijacked in 3 Seconds",
+    "link": "https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/",
+    "published": "Thu, 02 Jul 2026 10:00:10 -0400",
+    "summary": "ConsentFix and ClickFix attacks steal Microsoft 365 tokens in seconds using fake prompts and OAuth flows. Learn how these MFA bypass tactics work and how to defend against them. [...]",
     "analysis": {
-      "issue": "Fortinet says the May 2026 Ousaban campaign uses PDF lures, geofencing, and steganography to target Windows banking users",
+      "issue": "It can start with something as mundane as dragging a link into your browser",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "Vulnerability",
+        "APT"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Adobe Patches 7 CVSS 10.0 Flaws in ColdFusion and Campaign Classic",
-    "link": "https://thehackernews.com/2026/07/adobe-patches-7-cvss-100-flaws-in.html",
-    "published": "Wed, 01 Jul 2026 20:55:46 +0530",
-    "summary": "Adobe has released patches for multiple maximum-severity security flaws impacting Adobe ColdFusion and Adobe Campaign Classic.\n\nThe ColdFusion updates \"resolves critical and important vulnerabilities that could lead to arbitrary code execution, privilege escalation, arbitrary file system read, and security feature bypass,\" Adobe said in an alert released Tuesday.\n\nThe vulnerabilities are listed",
+    "source": "Bleeping Computer",
+    "title": "Microsoft fixes bug that removed Copilot buttons in Outlook",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/",
+    "published": "Thu, 02 Jul 2026 08:15:47 -0400",
+    "summary": "Microsoft has fixed a known issue causing the Copilot Chat or Copilot buttons in Classic Outlook to disappear for Windows users with the Copilot Chat (Basic) license. [...]",
     "analysis": {
-      "issue": "ColdFusion 2023 Update 21, 2025 Update 10, and ACC v7 build 9397 fix code execution bugs; no exploits reported",
+      "issue": "Microsoft has fixed a known issue causing the Copilot Chat or Copilot buttons in Classic Outlook to disappear for Windows users with the Copilot Chat (Basic) license",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Cisco finally confirms attackers exploiting Unified CM flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/",
+    "published": "Thu, 02 Jul 2026 07:35:25 -0400",
+    "summary": "Cisco confirmed that attackers are now exploiting a Unified Communications Manager (Unified CM) vulnerability patched in early June. [...]",
+    "analysis": {
+      "issue": "Cisco confirmed that attackers are now exploiting a Unified Communications Manager (Unified CM) vulnerability patched in early June",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-20230"
+      ],
       "threat_categories": [
         "Vulnerability"
       ]
@@ -319,62 +376,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "DHS confirms hackers breached HSIN info-sharing platform",
-    "link": "https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/",
-    "published": "Wed, 01 Jul 2026 13:32:22 -0400",
-    "summary": "The Department of Homeland Security is investigating a cyberattack that compromised the Homeland Security Information Network (HSIN), a sensitive information-sharing platform used by federal, state, local, and private-sector partners. [...]",
-    "analysis": {
-      "issue": "The Department of Homeland Security is investigating a cyberattack that compromised the Homeland Security Information Network (HSIN), a sensitive information-sharing platform used by federal, state, local, and private-sector partners",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Webinar: Why traditional email security is no longer enough",
-    "link": "https://www.bleepingcomputer.com/news/security/webinar-why-traditional-email-security-is-no-longer-enough/",
-    "published": "Wed, 01 Jul 2026 12:54:22 -0400",
-    "summary": "Modern phishing, business email compromise, and account takeover attacks increasingly exploit trusted identities and legitimate business workflows, making them harder for traditional email defenses to detect. This webinar explores how behavioral AI can help organizations automate detection and response. [...]",
-    "analysis": {
-      "issue": "For years, organizations have relied on secure email gateways, reputation services, and signature-based detection to stop phishing attacks before they reached employees",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers target Microsoft 365 accounts with 81 million login attempts",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-365-accounts-with-81-million-login-attempts/",
-    "published": "Wed, 01 Jul 2026 12:38:01 -0400",
-    "summary": "An aggressive password-spraying campaign targeting Microsoft 365 environments generated more than 81 million login attempts over a two-week period. [...]",
-    "analysis": {
-      "issue": "An aggressive password-spraying campaign targeting Microsoft 365 environments generated more than 81 million login attempts over a two-week period",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
     "link": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
@@ -444,9 +445,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50507",
+        "CVE-2026-45586",
         "CVE-2026-49160",
-        "CVE-2026-45586"
+        "CVE-2026-50507"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -568,6 +569,44 @@
   },
   {
     "source": "Security Week",
+    "title": "How to Conduct a Successful Audit of AI-Driven Software Development",
+    "link": "https://www.securityweek.com/how-to-conduct-a-successful-audit-of-ai-driven-software-development/",
+    "published": "Thu, 02 Jul 2026 13:15:00 +0000",
+    "summary": "<p>As AI-generated code becomes commonplace, CISOs need new audit strategies to measure developer practices, govern AI tool usage, and identify software risks before they reach production.</p>\n<p>The post <a href=\"https://www.securityweek.com/how-to-conduct-a-successful-audit-of-ai-driven-software-development/\">How to Conduct a Successful Audit of AI-Driven Software Development</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "As AI-generated code becomes commonplace, CISOs need new audit strategies to measure developer practices, govern AI tool usage, and identify software risks before they reach production",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "FortiBleed Campaign Linked to INC, Lynx Ransomware Attacks",
+    "link": "https://www.securityweek.com/fortibleed-campaign-linked-to-inc-lynx-ransomware-attacks/",
+    "published": "Thu, 02 Jul 2026 12:34:29 +0000",
+    "summary": "<p>Researchers say credentials harvested from hundreds of thousands of FortiGate firewalls are being used to facilitate ransomware attacks by the INC and Lynx operations.</p>\n<p>The post <a href=\"https://www.securityweek.com/fortibleed-campaign-linked-to-inc-lynx-ransomware-attacks/\">FortiBleed Campaign Linked to INC, Lynx Ransomware Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Researchers say credentials harvested from hundreds of thousands of FortiGate firewalls are being used to facilitate ransomware attacks by the INC and Lynx operations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Trump Administration Lifts Restrictions on Anthropic’s Claude Models After Cybersecurity Alarm",
     "link": "https://www.securityweek.com/trump-administration-lifts-restrictions-on-anthropics-claude-models-after-cybersecurity-alarm/",
     "published": "Thu, 02 Jul 2026 11:01:48 +0000",
@@ -675,17 +714,17 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-48315",
-        "CVE-2026-48282",
-        "CVE-2026-48285",
-        "CVE-2026-48316",
         "CVE-2026-48276",
+        "CVE-2026-48313",
+        "CVE-2026-48286",
+        "CVE-2026-48285",
         "CVE-2026-48314",
         "CVE-2026-48281",
         "CVE-2026-48277",
-        "CVE-2026-48307",
         "CVE-2026-48283",
-        "CVE-2026-48313",
-        "CVE-2026-48286"
+        "CVE-2026-48316",
+        "CVE-2026-48282",
+        "CVE-2026-48307"
       ],
       "threat_categories": [
         "Ransomware",
@@ -706,12 +745,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-13474",
-        "CVE-2026-8655",
+        "CVE-2026-49975",
         "CVE-2026-10816",
         "CVE-2026-8451",
+        "CVE-2026-13474",
         "CVE-2026-8452",
-        "CVE-2026-49975"
+        "CVE-2026-8655"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -735,42 +774,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Apple Patches Dozens of Vulnerabilities Across iOS, macOS, and Safari",
-    "link": "https://www.securityweek.com/apple-patches-dozens-of-vulnerabilities-across-ios-macos-and-safari/",
-    "published": "Wed, 01 Jul 2026 09:30:00 +0000",
-    "summary": "<p>The updates fix vulnerabilities in WebKit, the kernel, WebRTC, Web Extensions, and other components affecting iPhone, iPad, Mac, and Safari users.</p>\n<p>The post <a href=\"https://www.securityweek.com/apple-patches-dozens-of-vulnerabilities-across-ios-macos-and-safari/\">Apple Patches Dozens of Vulnerabilities Across iOS, macOS, and Safari</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The updates fix vulnerabilities in WebKit, the kernel, WebRTC, Web Extensions, and other components affecting iPhone, iPad, Mac, and Safari users",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Dawnguard Raises $6.3 Million for Security Architecture Automation Platform",
-    "link": "https://www.securityweek.com/dawnguard-raises-6-3-million-for-security-architecture-automation-platform/",
-    "published": "Wed, 01 Jul 2026 08:55:35 +0000",
-    "summary": "<p>The company has publicly launched its solution to help organizations design, build, and operate secure cloud systems.</p>\n<p>The post <a href=\"https://www.securityweek.com/dawnguard-raises-6-3-million-for-security-architecture-automation-platform/\">Dawnguard Raises $6.3 Million for Security Architecture Automation Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The company has publicly launched its solution to help organizations design, build, and operate secure cloud systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -914,15 +917,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-48563",
         "CVE-2026-47291",
-        "CVE-2026-42992",
-        "CVE-2026-42985",
         "CVE-2026-44801",
-        "CVE-2026-44803",
-        "CVE-2026-44799",
+        "CVE-2026-42992",
         "CVE-2026-44812",
-        "CVE-2026-47289"
+        "CVE-2026-48563",
+        "CVE-2026-42985",
+        "CVE-2026-44799",
+        "CVE-2026-47289",
+        "CVE-2026-44803"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1312,8 +1315,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1338,6 +1341,28 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "WinRAR flaw could allow attackers to take control of your computer",
+    "link": "https://www.malwarebytes.com/blog/news/2026/07/winrar-flaw-could-allow-attackers-to-take-control-of-your-computer",
+    "published": "Thu, 02 Jul 2026 12:38:12 GMT",
+    "summary": "A new WinRAR update fixes a serious security flaw, but without automatic updates many users could miss the patch.",
+    "analysis": {
+      "issue": "Rarlab has released a new version of the popular WinRAR tool to patch a vulnerability that can be abused in remote code execution attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2023-40477",
+        "CVE-2026-14191"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
       ]
     }
   },
@@ -1500,25 +1525,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Malware steals Chrome session cookies to take over your accounts",
-    "link": "https://www.malwarebytes.com/blog/news/2026/06/malware-steals-chrome-session-cookies-to-take-over-your-accounts",
-    "published": "Fri, 26 Jun 2026 12:44:01 GMT",
-    "summary": "A phishing campaign installs a malicious Chrome extension to hijack browser sessions and compromise Windows devices.",
-    "analysis": {
-      "issue": "An email attachment leads to the installation of a malicious Chrome extension",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
       ]
     }
   },
