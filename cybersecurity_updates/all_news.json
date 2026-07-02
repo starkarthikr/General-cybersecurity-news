@@ -1,6 +1,85 @@
 [
   {
     "source": "The Hacker News",
+    "title": "AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack",
+    "link": "https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html",
+    "published": "Thu, 02 Jul 2026 14:43:13 +0530",
+    "summary": "Security firm&nbsp;Sysdig&nbsp;says it has found what it believes is the first ransomware attack run from start to finish by an AI agent.\n\nIts Threat Research Team calls the operator JADEPUFFER and says a large language model handled the whole job: breaking in, stealing credentials, moving deeper into the network, then encrypting and wiping a company's production database.\n\nRansomware has always",
+    "analysis": {
+      "issue": "Sysdig says JADEPUFFER used CVE-2025-3248 in Langflow to automate intrusion, credential theft, encryption, and data wipe",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2025-3248"
+      ],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations",
+    "link": "https://thehackernews.com/2026/07/fortibleed-credential-theft-linked-to.html",
+    "published": "Thu, 02 Jul 2026 13:30:49 +0530",
+    "summary": "The recently discovered financially-motivated FortiBleed campaign has been attributed to INC and Lynx ransomware operations, indicating that the verified, stolen credentials were intended for follow-on intrusions.\n\n\"An operator tied to FortiBleed's infrastructure was found actively working negotiation panels for both groups, tying mass FortiGate credential theft directly to ransomware deployment",
+    "analysis": {
+      "issue": "SOCRadar says FortiBleed led to 354 completed FortiGate intrusions and at least 12 ransomware deployments",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos",
+    "link": "https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html",
+    "published": "Thu, 02 Jul 2026 12:54:23 +0530",
+    "summary": "Attackers are hiding a data-stealing trojan inside fake exploit code aimed at the people who hunt bugs for a living. The malware, called ChocoPoC, travels in Python proof-of-concept (PoC) repositories on GitHub that claim to exploit hot new CVEs.\n\nRun one, and it quietly lifts your saved passwords, browser cookies, and files, then hands the attacker a shell on your machine.&nbsp;YesWeHack and",
+    "analysis": {
+      "issue": "Fake CVE exploit repos pull frint and skytext packages to steal researcher credentials, with servers still live as of July 1",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation",
+    "link": "https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html",
+    "published": "Thu, 02 Jul 2026 11:16:45 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a high-severity flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nThe vulnerability, tracked as CVE-2026-45659 (CVSS score: 8.8), is a case of remote code execution arising from the deserialization of untrusted data. The issue",
+    "analysis": {
+      "issue": "CISA added CVE-2026-45659 SharePoint Server RCE to KEV following confirmed exploitation, requiring U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-45659"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters",
     "link": "https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html",
     "published": "Thu, 02 Jul 2026 01:10:06 +0530",
@@ -108,20 +187,19 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Critical Cursor Flaws Could Let Prompt Injection Escape Sandbox and Run Commands",
-    "link": "https://thehackernews.com/2026/07/critical-cursor-flaws-could-let-prompt.html",
-    "published": "Wed, 01 Jul 2026 20:12:54 +0530",
-    "summary": "Two flaws in Cursor, an AI code editor, could let a single, ordinary-looking prompt break out of the editor's safety sandbox and run any command on a developer's computer. There is no click to fall for and no approval box to ignore.\n\nCato AI Labs&nbsp;found the pair and named them DuneSlide. They are tracked as&nbsp;CVE-2026-50548&nbsp;and&nbsp;CVE-2026-50549, both rated 9.8 out of 10 (or 9.3",
+    "source": "Bleeping Computer",
+    "title": "CISA: Microsoft SharePoint RCE flaw now actively exploited",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/",
+    "published": "Thu, 02 Jul 2026 06:52:43 -0400",
+    "summary": "CISA warned on Wednesday that attackers have begun exploiting a high-severity Microsoft SharePoint remote code execution vulnerability patched in May. [...]",
     "analysis": {
-      "issue": "0, CVE-2026-50548 and CVE-2026-50549 could enable zero-click command execution via hidden instructions",
+      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) warned on Wednesday that attackers have begun exploiting a high-severity Microsoft SharePoint remote code execution vulnerability",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [
-        "CVE-2026-50549",
-        "CVE-2026-50548"
+        "CVE-2026-45659"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -129,56 +207,38 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Progress Kemp LoadMaster Pre-Auth RCE Flaw Faces Active Exploitation Attempts",
-    "link": "https://thehackernews.com/2026/07/latest-progress-kemp-loadmaster-pre.html",
-    "published": "Wed, 01 Jul 2026 19:26:18 +0530",
-    "summary": "A recently disclosed critical security flaw impacting Progress Kemp LoadMaster is seeing active exploitation attempts, according to an advisory from eSentire's Threat Response Unit (TRU).\n\nThe Canadian cybersecurity company said it identified exploitation attempts targeting CVE-2026-8037 (CVSS score: 9.6), an operating system (OS) command injection flaw that could be exploited to achieve",
+    "source": "Bleeping Computer",
+    "title": "Opera rolls out Paste Protect feature to fight ClickFix attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/opera-rolls-out-paste-protect-feature-to-fight-clickfix-attacks/",
+    "published": "Thu, 02 Jul 2026 06:46:58 -0400",
+    "summary": "Opera has introduced Paste Protect, a security feature designed to block ClickFix-style attacks that trick users into executing malicious commands through social engineering. [...]",
     "analysis": {
-      "issue": "eSentire says attacks began June 29 against a CVSS 9",
+      "issue": "Opera has introduced Paste Protect, a security feature designed to block ClickFix-style attacks that trick users into executing malicious commands through social engineering",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "Malware"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "AI-Generated Browser Ransomware Abuses Chromium API on Windows and Android",
-    "link": "https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html",
-    "published": "Wed, 01 Jul 2026 18:29:19 +0530",
-    "summary": "Cybersecurity researchers have flagged a new malware artifact generated using DeepSeek that constructed a novel attack path combining \"unrealistic browser-malware concepts with a real browser capability\" to turn it into a working ransomware technique that runs entirely inside the browser on both Windows and Android devices.\n\n\"This is the first documented case where a frontier AI model",
+    "source": "Bleeping Computer",
+    "title": "Alleged Scattered Spider hacker extradited to the United States",
+    "link": "https://www.bleepingcomputer.com/news/security/alleged-scattered-spider-hacker-extradited-to-the-united-states/",
+    "published": "Thu, 02 Jul 2026 04:58:25 -0400",
+    "summary": "A dual United States and Estonian citizen has been extradited to the U.S. to face charges alleging he was a member of the Scattered Spider hacking collective. [...]",
     "analysis": {
-      "issue": "Uses Chromium’s File System Access API after user permission to encrypt files without a native payload or reported in-the-wild abuse",
+      "issue": "A dual United States and Estonian citizen has been extradited to the U",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
         "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "2026 Cybersecurity Assessment: The Gap Between Awareness and Resilience",
-    "link": "https://thehackernews.com/2026/07/2026-cybersecurity-assessment-gap.html",
-    "published": "Wed, 01 Jul 2026 17:00:00 +0530",
-    "summary": "Organizations have never had greater awareness of cyber risk. Yet turning that awareness into operational resilience has never been more challenging. The 2026 Bitdefender Cybersecurity Assessment confirms this is the case, as this year's findings reveal a series of surprising contradictions.\n\nHere are a few examples, based on the independent survey of 1,200 IT and cybersecurity professionals",
-    "analysis": {
-      "issue": "Based on 1,200 IT and security pros, the cybersecurity assessment details Shadow AI gaps, LOTL risk, and breach disclosure pressure",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -315,64 +375,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Turning Indicators into Intelligence in OpenCTI with Criminal IP",
-    "link": "https://www.bleepingcomputer.com/news/security/turning-indicators-into-intelligence-in-opencti-with-criminal-ip/",
-    "published": "Wed, 01 Jul 2026 10:01:11 -0400",
-    "summary": "Threat intelligence is only as useful as the context behind it. Criminal IP explains how its integration enriches threat indicators in OpenCTI with risk scoring, infrastructure intelligence, and phishing analysis. [...]",
-    "analysis": {
-      "issue": "Cyber threat intelligence becomes more valuable when indicators are enriched with context that supports investigation, correlation, and decision-making",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Over 900 Oracle E-Business instances exposed to ongoing attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/over-900-oracle-e-business-instances-exposed-to-ongoing-attacks/",
-    "published": "Wed, 01 Jul 2026 08:30:01 -0400",
-    "summary": "Over 900 Oracle E-Business Suite (EBS) instances have been found exposed online amid ongoing attacks exploiting a critical security flaw. [...]",
-    "analysis": {
-      "issue": "Over 900 Oracle E-Business Suite (EBS) instances have been found exposed online amid ongoing attacks exploiting a critical security flaw",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2024-21182",
-        "CVE-2026-46817"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft fixes GIF functionality in the Windows Emoji Panel",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-gif-functionality-in-the-windows-emoji-panel/",
-    "published": "Wed, 01 Jul 2026 06:52:26 -0400",
-    "summary": "Microsoft has fixed the GIF functionality in the Emoji Panel for Windows 11 users after the provider shut down its service. [...]",
-    "analysis": {
-      "issue": "Microsoft has fixed the GIF functionality in the Emoji Panel for Windows 11 users after the provider shut down its service",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
     "link": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
@@ -442,8 +444,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-49160",
         "CVE-2026-50507",
+        "CVE-2026-49160",
         "CVE-2026-45586"
       ],
       "threat_categories": [
@@ -566,6 +568,82 @@
   },
   {
     "source": "Security Week",
+    "title": "Trump Administration Lifts Restrictions on Anthropic’s Claude Models After Cybersecurity Alarm",
+    "link": "https://www.securityweek.com/trump-administration-lifts-restrictions-on-anthropics-claude-models-after-cybersecurity-alarm/",
+    "published": "Thu, 02 Jul 2026 11:01:48 +0000",
+    "summary": "<p>Anthropic said Tuesday night that its AI model called Claude Fable 5 is now widely available.</p>\n<p>The post <a href=\"https://www.securityweek.com/trump-administration-lifts-restrictions-on-anthropics-claude-models-after-cybersecurity-alarm/\">Trump Administration Lifts Restrictions on Anthropic’s Claude Models After Cybersecurity Alarm</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Anthropic said Tuesday night that its AI model called Claude Fable 5 is now widely available",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Cisco Confirms In-the-Wild Exploitation of Unified CM Vulnerability",
+    "link": "https://www.securityweek.com/cisco-confirms-in-the-wild-exploitation-of-unified-cm-vulnerability/",
+    "published": "Thu, 02 Jul 2026 10:48:43 +0000",
+    "summary": "<p>A PoC exploit has been available since public disclosure, and the first exploitation attempts were observed last week.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-confirms-in-the-wild-exploitation-of-unified-cm-vulnerability/\">Cisco Confirms In-the-Wild Exploitation of Unified CM Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "A PoC exploit has been available since public disclosure, and the first exploitation attempts were observed last week",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-20230"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "‘BioShocking’ Attack Tricks AI Browsers Into Stealing Credentials",
+    "link": "https://www.securityweek.com/bioshocking-attack-tricks-ai-browsers-into-stealing-credentials/",
+    "published": "Thu, 02 Jul 2026 10:45:00 +0000",
+    "summary": "<p>Researchers show how context manipulation can cause agentic browsers to abandon safety guardrails and exfiltrate sensitive credentials.</p>\n<p>The post <a href=\"https://www.securityweek.com/bioshocking-attack-tricks-ai-browsers-into-stealing-credentials/\">&#8216;BioShocking&#8217; Attack Tricks AI Browsers Into Stealing Credentials</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Researchers show how context manipulation can cause agentic browsers to abandon safety guardrails and exfiltrate sensitive credentials",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "CISA Warns of Actively Exploited Microsoft SharePoint Vulnerability",
+    "link": "https://www.securityweek.com/cisa-warns-of-actively-exploited-microsoft-sharepoint-vulnerability/",
+    "published": "Thu, 02 Jul 2026 10:30:42 +0000",
+    "summary": "<p>CISA says threat actors are exploiting a recently patched SharePoint remote code execution vulnerability (CVE-2026-45659). </p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-warns-of-actively-exploited-microsoft-sharepoint-vulnerability/\">CISA Warns of Actively Exploited Microsoft SharePoint Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "CISA says threat actors are exploiting a recently patched SharePoint remote code execution vulnerability (CVE-2026-45659)",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-45659"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Microsoft Adds New Teams Controls to Block Unauthorized AI Bots From Meetings",
     "link": "https://www.securityweek.com/microsoft-adds-new-teams-controls-to-block-unauthorized-ai-bots-from-meetings/",
     "published": "Wed, 01 Jul 2026 18:08:15 +0000",
@@ -596,18 +674,18 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-48307",
-        "CVE-2026-48277",
-        "CVE-2026-48283",
-        "CVE-2026-48316",
-        "CVE-2026-48281",
         "CVE-2026-48315",
-        "CVE-2026-48313",
         "CVE-2026-48282",
         "CVE-2026-48285",
+        "CVE-2026-48316",
         "CVE-2026-48276",
-        "CVE-2026-48286",
-        "CVE-2026-48314"
+        "CVE-2026-48314",
+        "CVE-2026-48281",
+        "CVE-2026-48277",
+        "CVE-2026-48307",
+        "CVE-2026-48283",
+        "CVE-2026-48313",
+        "CVE-2026-48286"
       ],
       "threat_categories": [
         "Ransomware",
@@ -628,12 +706,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-49975",
-        "CVE-2026-10816",
-        "CVE-2026-8451",
         "CVE-2026-13474",
         "CVE-2026-8655",
-        "CVE-2026-8452"
+        "CVE-2026-10816",
+        "CVE-2026-8451",
+        "CVE-2026-8452",
+        "CVE-2026-49975"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -693,85 +771,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Massive Password Spray Campaign Targeting Azure CLI",
-    "link": "https://www.securityweek.com/massive-password-spray-campaign-targeting-azure-cli/",
-    "published": "Wed, 01 Jul 2026 07:46:33 +0000",
-    "summary": "<p>Hackers were seen making over 81 million login attempts originating from systems associated with hosting provider LSHIY.</p>\n<p>The post <a href=\"https://www.securityweek.com/massive-password-spray-campaign-targeting-azure-cli/\">Massive Password Spray Campaign Targeting Azure CLI</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Hackers were seen making over 81 million login attempts originating from systems associated with hosting provider LSHIY",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Google Patches 382 Chrome Vulnerabilities",
-    "link": "https://www.securityweek.com/google-patches-382-chrome-vulnerabilities/",
-    "published": "Wed, 01 Jul 2026 06:14:41 +0000",
-    "summary": "<p>Fifteen of the newly patched flaws have been rated ‘critical’ and 67 have been rated ‘high severity’.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-patches-382-chrome-vulnerabilities/\">Google Patches 382 Chrome Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Fifteen of the newly patched flaws have been rated ‘critical’ and 67 have been rated ‘high severity’",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "BlueHammer Vulnerability Exploited in Ransomware Attacks",
-    "link": "https://www.securityweek.com/bluehammer-vulnerability-exploited-in-ransomware-attacks/",
-    "published": "Tue, 30 Jun 2026 13:56:07 +0000",
-    "summary": "<p>The Microsoft Defender vulnerability CVE-2026-33825 was exploited in the wild as a zero-day before patches were released.</p>\n<p>The post <a href=\"https://www.securityweek.com/bluehammer-vulnerability-exploited-in-ransomware-attacks/\">BlueHammer Vulnerability Exploited in Ransomware Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The Microsoft Defender vulnerability CVE-2026-33825 was exploited in the wild as a zero-day before patches were released",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-33825"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Decades-Old Bash Tricks Expose AI Coding Agents to Supply Chain Attacks",
-    "link": "https://www.securityweek.com/decades-old-bash-tricks-expose-ai-coding-agents-to-supply-chain-attacks/",
-    "published": "Tue, 30 Jun 2026 13:00:00 +0000",
-    "summary": "<p>Decades-old Bash shell tricks can bypass safeguards in most open source AI coding agents, potentially turning malicious repositories into supply chain attack vectors.</p>\n<p>The post <a href=\"https://www.securityweek.com/decades-old-bash-tricks-expose-ai-coding-agents-to-supply-chain-attacks/\">Decades-Old Bash Tricks Expose AI Coding Agents to Supply Chain Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Decades-old Bash shell tricks can bypass safeguards in most open source AI coding agents, potentially turning malicious repositories into supply chain attack vectors",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
       ]
     }
   },
@@ -915,15 +914,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-42985",
-        "CVE-2026-42992",
         "CVE-2026-48563",
         "CVE-2026-47291",
+        "CVE-2026-42992",
+        "CVE-2026-42985",
+        "CVE-2026-44801",
         "CVE-2026-44803",
-        "CVE-2026-47289",
         "CVE-2026-44799",
         "CVE-2026-44812",
-        "CVE-2026-44801"
+        "CVE-2026-47289"
       ],
       "threat_categories": [
         "Vulnerability"
