@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-03 04:25:30 UTC
+**Last Updated:** 2026-07-03 11:09:23 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices](https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html)
+### 1. [European Parliament Member Investigating Spyware Was Hacked With Pegasus](https://thehackernews.com/2026/07/european-parliament-member.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 03 Jul 2026 16:35:43 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords](https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 03 Jul 2026 13:33:37 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices](https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 03 Jul 2026 00:24:06 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials](https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html)
+### 4. [Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials](https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 03 Jul 2026 00:00:33 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories](https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html)
+### 5. [ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories](https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Jul 2026 20:54:18 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API](https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html)
+### 6. [ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API](https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Jul 2026 18:34:13 +0530  
@@ -40,7 +58,7 @@
 
 ---
 
-### 5. [Identity Lifecycle Management Wasn't Built for AI Agents](https://thehackernews.com/2026/07/identity-lifecycle-management.html)
+### 7. [Identity Lifecycle Management Wasn't Built for AI Agents](https://thehackernews.com/2026/07/identity-lifecycle-management.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Jul 2026 17:00:00 +0530  
@@ -49,7 +67,7 @@
 
 ---
 
-### 6. [AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack](https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html)
+### 8. [AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack](https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Jul 2026 14:43:13 +0530  
@@ -59,7 +77,7 @@
 
 ---
 
-### 7. [FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations](https://thehackernews.com/2026/07/fortibleed-credential-theft-linked-to.html)
+### 9. [FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations](https://thehackernews.com/2026/07/fortibleed-credential-theft-linked-to.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Jul 2026 13:30:49 +0530  
@@ -68,31 +86,12 @@
 
 ---
 
-### 8. [New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos](https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html)
+### 10. [New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos](https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Jul 2026 12:54:23 +0530  
 **Severity:** Low  
 **Categories:** Vulnerability  
-
----
-
-### 9. [SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation](https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 02 Jul 2026 11:16:45 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-45659  
-**Categories:** Vulnerability  
-
----
-
-### 10. [Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters](https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 02 Jul 2026 01:10:06 +0530  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -229,7 +228,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-45586, CVE-2026-50507, CVE-2026-49160  
+**CVEs:** CVE-2026-50507, CVE-2026-49160, CVE-2026-45586  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -279,7 +278,54 @@
 
 ---
 
-### 31. [New CitrixBleed Vulnerability Exploited Immediately After Public Disclosure](https://www.securityweek.com/new-citrixbleed-vulnerability-exploited-immediately-after-public-disclosure/)
+### 31. [Agentic AI Used to Conduct Ransomware Attack via Langflow](https://www.securityweek.com/agentic-ai-used-to-conduct-ransomware-attack-via-langflow/)
+
+**Source:** Security Week  
+**Published:** Fri, 03 Jul 2026 11:00:00 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2021-29441, CVE-2025-3248  
+**Categories:** Ransomware, Vulnerability, Malware, APT  
+
+---
+
+### 32. [Medtronic Data Breach Impacts 3.8 Million People](https://www.securityweek.com/medtronic-data-breach-impacts-3-8-million-people/)
+
+**Source:** Security Week  
+**Published:** Fri, 03 Jul 2026 10:00:00 +0000  
+**Severity:** Low  
+**Categories:** Ransomware, Data Breach, Supply Chain  
+
+---
+
+### 33. [Alleged Scattered Spider Hacker Extradited to US](https://www.securityweek.com/alleged-scattered-spider-hacker-extradited-to-us/)
+
+**Source:** Security Week  
+**Published:** Fri, 03 Jul 2026 09:30:00 +0000  
+**Severity:** High  
+**Categories:** Ransomware, Malware  
+
+---
+
+### 34. [Google, FBI Disrupt NetNut Residential Proxy Network Powered by Millions of Devices](https://www.securityweek.com/google-fbi-disrupt-netnut-residential-proxy-network-powered-by-millions-of-devices/)
+
+**Source:** Security Week  
+**Published:** Fri, 03 Jul 2026 08:13:22 +0000  
+**Severity:** Low  
+**Categories:** Malware, APT, DDoS  
+
+---
+
+### 35. [Critical Cursor AI Code Editor Flaws Could Lead to OS-Level Remote Code Execution](https://www.securityweek.com/critical-cursor-ai-ide-flaws-could-lead-to-os-level-remote-code-execution/)
+
+**Source:** Security Week  
+**Published:** Fri, 03 Jul 2026 07:57:53 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-50549, CVE-2026-50548  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 36. [New CitrixBleed Vulnerability Exploited Immediately After Public Disclosure](https://www.securityweek.com/new-citrixbleed-vulnerability-exploited-immediately-after-public-disclosure/)
 
 **Source:** Security Week  
 **Published:** Thu, 02 Jul 2026 15:04:22 +0000  
@@ -289,7 +335,7 @@
 
 ---
 
-### 32. [How to Conduct a Successful Audit of AI-Driven Software Development](https://www.securityweek.com/how-to-conduct-a-successful-audit-of-ai-driven-software-development/)
+### 37. [How to Conduct a Successful Audit of AI-Driven Software Development](https://www.securityweek.com/how-to-conduct-a-successful-audit-of-ai-driven-software-development/)
 
 **Source:** Security Week  
 **Published:** Thu, 02 Jul 2026 13:15:00 +0000  
@@ -298,7 +344,7 @@
 
 ---
 
-### 33. [FortiBleed Campaign Linked to INC, Lynx Ransomware Attacks](https://www.securityweek.com/fortibleed-campaign-linked-to-inc-lynx-ransomware-attacks/)
+### 38. [FortiBleed Campaign Linked to INC, Lynx Ransomware Attacks](https://www.securityweek.com/fortibleed-campaign-linked-to-inc-lynx-ransomware-attacks/)
 
 **Source:** Security Week  
 **Published:** Thu, 02 Jul 2026 12:34:29 +0000  
@@ -307,7 +353,7 @@
 
 ---
 
-### 34. [Trump Administration Lifts Restrictions on Anthropic’s Claude Models After Cybersecurity Alarm](https://www.securityweek.com/trump-administration-lifts-restrictions-on-anthropics-claude-models-after-cybersecurity-alarm/)
+### 39. [Trump Administration Lifts Restrictions on Anthropic’s Claude Models After Cybersecurity Alarm](https://www.securityweek.com/trump-administration-lifts-restrictions-on-anthropics-claude-models-after-cybersecurity-alarm/)
 
 **Source:** Security Week  
 **Published:** Thu, 02 Jul 2026 11:01:48 +0000  
@@ -316,61 +362,13 @@
 
 ---
 
-### 35. [Cisco Confirms In-the-Wild Exploitation of Unified CM Vulnerability](https://www.securityweek.com/cisco-confirms-in-the-wild-exploitation-of-unified-cm-vulnerability/)
+### 40. [Cisco Confirms In-the-Wild Exploitation of Unified CM Vulnerability](https://www.securityweek.com/cisco-confirms-in-the-wild-exploitation-of-unified-cm-vulnerability/)
 
 **Source:** Security Week  
 **Published:** Thu, 02 Jul 2026 10:48:43 +0000  
 **Severity:** Critical  
 **CVEs:** CVE-2026-20230  
 **Categories:** Vulnerability  
-
----
-
-### 36. [‘BioShocking’ Attack Tricks AI Browsers Into Stealing Credentials](https://www.securityweek.com/bioshocking-attack-tricks-ai-browsers-into-stealing-credentials/)
-
-**Source:** Security Week  
-**Published:** Thu, 02 Jul 2026 10:45:00 +0000  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 37. [CISA Warns of Actively Exploited Microsoft SharePoint Vulnerability](https://www.securityweek.com/cisa-warns-of-actively-exploited-microsoft-sharepoint-vulnerability/)
-
-**Source:** Security Week  
-**Published:** Thu, 02 Jul 2026 10:30:42 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-45659  
-**Categories:** Vulnerability  
-
----
-
-### 38. [Microsoft Adds New Teams Controls to Block Unauthorized AI Bots From Meetings](https://www.securityweek.com/microsoft-adds-new-teams-controls-to-block-unauthorized-ai-bots-from-meetings/)
-
-**Source:** Security Week  
-**Published:** Wed, 01 Jul 2026 18:08:15 +0000  
-**Severity:** Low  
-**Categories:** Ransomware, APT  
-
----
-
-### 39. [Adobe Patches Critical ColdFusion, Campaign Classic Vulnerabilities](https://www.securityweek.com/adobe-patches-critical-coldfusion-campaign-classic-vulnerabilities/)
-
-**Source:** Security Week  
-**Published:** Wed, 01 Jul 2026 11:27:07 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-48314, CVE-2026-48277, CVE-2026-48283, CVE-2026-48313, CVE-2026-48282, CVE-2026-48281, CVE-2026-48285, CVE-2026-48315, CVE-2026-48307, CVE-2026-48286, CVE-2026-48316, CVE-2026-48276  
-**Categories:** Ransomware, Vulnerability  
-
----
-
-### 40. [Citrix Patches NetScaler Vulnerabilities, Including New ‘HTTP/2 Bomb’ Attack](https://www.securityweek.com/citrix-patches-netscaler-vulnerabilities-including-new-http-2-bomb-attack/)
-
-**Source:** Security Week  
-**Published:** Wed, 01 Jul 2026 11:20:45 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-13474, CVE-2026-49975, CVE-2026-8655, CVE-2026-10816, CVE-2026-8451, CVE-2026-8452  
-**Categories:** Vulnerability, Malware, Supply Chain  
 
 ---
 
@@ -451,7 +449,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-44803, CVE-2026-44801, CVE-2026-47289, CVE-2026-47291, CVE-2026-48563, CVE-2026-44799, CVE-2026-44812, CVE-2026-42992, CVE-2026-42985  
+**CVEs:** CVE-2026-42985, CVE-2026-44812, CVE-2026-44801, CVE-2026-48563, CVE-2026-47291, CVE-2026-44799, CVE-2026-44803, CVE-2026-42992, CVE-2026-47289  
 **Categories:** Vulnerability  
 
 ---
@@ -673,7 +671,7 @@
 **Source:** Malwarebytes  
 **Published:** Thu, 02 Jul 2026 12:38:12 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2023-40477, CVE-2026-14191  
+**CVEs:** CVE-2026-14191, CVE-2023-40477  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
