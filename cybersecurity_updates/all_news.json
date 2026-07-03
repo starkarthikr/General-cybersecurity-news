@@ -1,6 +1,27 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer",
+    "link": "https://thehackernews.com/2026/07/armored-likho-targets-government.html",
+    "published": "Fri, 03 Jul 2026 19:06:33 +0530",
+    "summary": "A previously undocumented threat actor known as Armored Likho has been attributed to cyber attacks targeting government agencies and the electric power sector across Russia, Brazil, and Kazakhstan.\n\n\"Armored Likho blends financially motivated campaigns targeting private individuals with targeted cyber espionage aimed at organizations,\" Kaspersky said in a technical analysis published today. \"",
+    "analysis": {
+      "issue": "Kaspersky says the attacks use phishing, GitHub-hosted payloads, CVE-2025-9491 LNK abuse, and Go2Tunnel-based tunneling",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2025-9491"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "European Parliament Member Investigating Spyware Was Hacked With Pegasus",
     "link": "https://thehackernews.com/2026/07/european-parliament-member.html",
     "published": "Fri, 03 Jul 2026 16:35:43 +0530",
@@ -169,20 +190,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos",
-    "link": "https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html",
-    "published": "Thu, 02 Jul 2026 12:54:23 +0530",
-    "summary": "Attackers are hiding a data-stealing trojan inside fake exploit code aimed at the people who hunt bugs for a living. The malware, called ChocoPoC, travels in Python proof-of-concept (PoC) repositories on GitHub that claim to exploit hot new CVEs.\n\nRun one, and it quietly lifts your saved passwords, browser cookies, and files, then hands the attacker a shell on your machine.&nbsp;YesWeHack and",
+    "source": "Bleeping Computer",
+    "title": "ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit",
+    "link": "https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/",
+    "published": "Fri, 03 Jul 2026 10:12:22 -0400",
+    "summary": "A new phishing-as-a-service (PhaaS) platform dubbed \"ARToken\" appears to operate as an affiliate of the EvilTokens phishing platform, giving researchers a glimpse into an extensive toolkit designed to compromise Microsoft 365. [...]",
     "analysis": {
-      "issue": "Fake CVE exploit repos pull frint and skytext packages to steal researcher credentials, with servers still live as of July 1",
+      "issue": "A new phishing-as-a-service (PhaaS) platform dubbed \"ARToken\" appears to operate as an affiliate of the EvilTokens phishing platform, giving researchers a glimpse into an extensive toolkit designed to compromise Microsoft 365",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "Phishing"
       ]
     }
   },
@@ -350,26 +371,6 @@
       "cves": [],
       "threat_categories": [
         "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Medtronic notifies customers impacted by ShinyHunters data breach",
-    "link": "https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/",
-    "published": "Thu, 02 Jul 2026 00:25:42 -0400",
-    "summary": "Healthcare device firm Medtronic is notifying affected customers about a data breach that exposed their personal data to an unauthorized third party. [...]",
-    "analysis": {
-      "issue": "Healthcare device firm Medtronic is notifying affected customers about a data breach that exposed their personal data to an unauthorized third party",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Supply Chain"
       ]
     }
   },
@@ -578,8 +579,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2021-29441",
-        "CVE-2025-3248"
+        "CVE-2025-3248",
+        "CVE-2021-29441"
       ],
       "threat_categories": [
         "Ransomware",
@@ -925,13 +926,13 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-42985",
-        "CVE-2026-44812",
-        "CVE-2026-44801",
-        "CVE-2026-48563",
-        "CVE-2026-47291",
-        "CVE-2026-44799",
-        "CVE-2026-44803",
         "CVE-2026-42992",
+        "CVE-2026-44812",
+        "CVE-2026-48563",
+        "CVE-2026-44799",
+        "CVE-2026-47291",
+        "CVE-2026-44801",
+        "CVE-2026-44803",
         "CVE-2026-47289"
       ],
       "threat_categories": [
@@ -1335,6 +1336,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Verified X ad spreads Mac malware, while ConsentFix steals Microsoft accounts",
+    "link": "https://www.malwarebytes.com/blog/news/2026/07/verified-x-ad-spreads-mac-malware-while-consentfix-steals-microsoft-accounts",
+    "published": "Fri, 03 Jul 2026 13:30:36 GMT",
+    "summary": "Two new campaigns show how cybercriminals are increasingly relying on social engineering instead of software exploits to compromise devices and accounts.",
+    "analysis": {
+      "issue": "Cybercriminals are finding new ways to trick people into compromising their own devices and accounts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Apple’s Hide My Email doesn&#8217;t hide it very well",
     "link": "https://www.malwarebytes.com/blog/news/2026/07/apples-hide-my-email-doesnt-hide-it-very-well",
     "published": "Thu, 02 Jul 2026 16:22:25 GMT",
@@ -1493,24 +1512,6 @@
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "This pay gap is programmed (Lock and Code S07E13)",
-    "link": "https://www.malwarebytes.com/blog/podcast/2026/06/this-pay-gap-is-programmed-lock-and-code-s07e13",
-    "published": "Mon, 29 Jun 2026 14:44:37 GMT",
-    "summary": "This week on the Lock and Code podcast, we speak with Veena Dubal about algorithmic wage discrimination and its appetite for all worker data.",
-    "analysis": {
-      "issue": "This week on the Lock and Code podcast… Pay is personal for plenty of Americans, but a new distribution model that consumes vast quantities of worker data is turning pay into something else: personalized",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
       "cves": [],
       "threat_categories": [
         "General Security"
