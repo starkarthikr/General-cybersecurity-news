@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-03 14:21:30 UTC
+**Last Updated:** 2026-07-03 17:57:11 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer](https://thehackernews.com/2026/07/armored-likho-targets-government.html)
+### 1. [North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets](https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 03 Jul 2026 21:37:15 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer](https://thehackernews.com/2026/07/armored-likho-targets-government.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 03 Jul 2026 19:06:33 +0530  
@@ -14,7 +23,7 @@
 
 ---
 
-### 2. [European Parliament Member Investigating Spyware Was Hacked With Pegasus](https://thehackernews.com/2026/07/european-parliament-member.html)
+### 3. [European Parliament Member Investigating Spyware Was Hacked With Pegasus](https://thehackernews.com/2026/07/european-parliament-member.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 03 Jul 2026 16:35:43 +0530  
@@ -23,7 +32,7 @@
 
 ---
 
-### 3. [PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords](https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html)
+### 4. [PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords](https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 03 Jul 2026 13:33:37 +0530  
@@ -32,7 +41,7 @@
 
 ---
 
-### 4. [Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices](https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html)
+### 5. [Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices](https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 03 Jul 2026 00:24:06 +0530  
@@ -41,7 +50,7 @@
 
 ---
 
-### 5. [Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials](https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html)
+### 6. [Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials](https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 03 Jul 2026 00:00:33 +0530  
@@ -50,7 +59,7 @@
 
 ---
 
-### 6. [ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories](https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html)
+### 7. [ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories](https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Jul 2026 20:54:18 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API](https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html)
+### 8. [ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API](https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Jul 2026 18:34:13 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [Identity Lifecycle Management Wasn't Built for AI Agents](https://thehackernews.com/2026/07/identity-lifecycle-management.html)
+### 9. [Identity Lifecycle Management Wasn't Built for AI Agents](https://thehackernews.com/2026/07/identity-lifecycle-management.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Jul 2026 17:00:00 +0530  
@@ -77,7 +86,7 @@
 
 ---
 
-### 9. [AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack](https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html)
+### 10. [AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack](https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Jul 2026 14:43:13 +0530  
@@ -87,16 +96,16 @@
 
 ---
 
-### 10. [FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations](https://thehackernews.com/2026/07/fortibleed-credential-theft-linked-to.html)
+### 11. [NetNut proxy network disrupted, 2 million infected devices cut off](https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 02 Jul 2026 13:30:49 +0530  
+**Source:** Bleeping Computer  
+**Published:** Fri, 03 Jul 2026 13:50:04 -0400  
 **Severity:** Low  
-**Categories:** Ransomware, Phishing  
+**Categories:** Malware  
 
 ---
 
-### 11. [ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit](https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/)
+### 12. [ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit](https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 03 Jul 2026 10:12:22 -0400  
@@ -105,7 +114,7 @@
 
 ---
 
-### 12. [Claude Fable 5 isn’t permanently leaving subscriptions, Anthropic says](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/)
+### 13. [Claude Fable 5 isn’t permanently leaving subscriptions, Anthropic says](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Jul 2026 21:37:09 -0400  
@@ -114,7 +123,7 @@
 
 ---
 
-### 13. [Claude Fable relaunch disappoints users with nerfed performance](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/)
+### 14. [Claude Fable relaunch disappoints users with nerfed performance](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Jul 2026 20:48:30 -0400  
@@ -123,7 +132,7 @@
 
 ---
 
-### 14. [Google loses final appeal to overturn €4.1 billion EU fine](https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/)
+### 15. [Google loses final appeal to overturn €4.1 billion EU fine](https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Jul 2026 11:18:51 -0400  
@@ -132,7 +141,7 @@
 
 ---
 
-### 15. [ConsentFix and ClickFix: How Microsoft 365 Accounts are Hijacked in 3 Seconds](https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/)
+### 16. [ConsentFix and ClickFix: How Microsoft 365 Accounts are Hijacked in 3 Seconds](https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Jul 2026 10:00:10 -0400  
@@ -141,7 +150,7 @@
 
 ---
 
-### 16. [Microsoft fixes bug that removed Copilot buttons in Outlook](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/)
+### 17. [Microsoft fixes bug that removed Copilot buttons in Outlook](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Jul 2026 08:15:47 -0400  
@@ -150,7 +159,7 @@
 
 ---
 
-### 17. [Cisco finally confirms attackers exploiting Unified CM flaw](https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/)
+### 18. [Cisco finally confirms attackers exploiting Unified CM flaw](https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Jul 2026 07:35:25 -0400  
@@ -160,7 +169,7 @@
 
 ---
 
-### 18. [CISA: Microsoft SharePoint RCE flaw now actively exploited](https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/)
+### 19. [CISA: Microsoft SharePoint RCE flaw now actively exploited](https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Jul 2026 06:52:43 -0400  
@@ -170,21 +179,12 @@
 
 ---
 
-### 19. [Opera rolls out Paste Protect feature to fight ClickFix attacks](https://www.bleepingcomputer.com/news/security/opera-rolls-out-paste-protect-feature-to-fight-clickfix-attacks/)
+### 20. [Opera rolls out Paste Protect feature to fight ClickFix attacks](https://www.bleepingcomputer.com/news/security/opera-rolls-out-paste-protect-feature-to-fight-clickfix-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Jul 2026 06:46:58 -0400  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 20. [Alleged Scattered Spider hacker extradited to the United States](https://www.bleepingcomputer.com/news/security/alleged-scattered-spider-hacker-extradited-to-the-united-states/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 02 Jul 2026 04:58:25 -0400  
-**Severity:** High  
-**Categories:** Ransomware  
 
 ---
 
@@ -279,17 +279,26 @@
 
 ---
 
-### 31. [Agentic AI Used to Conduct Ransomware Attack via Langflow](https://www.securityweek.com/agentic-ai-used-to-conduct-ransomware-attack-via-langflow/)
+### 31. [In Other News: Canadian Hacker Jailed, Open Source Zero-Days, Two Sentenced for ATM Jackpotting](https://www.securityweek.com/in-other-news-canadian-hacker-jailed-open-source-zero-days-two-sentenced-for-atm-jackpotting/)
+
+**Source:** Security Week  
+**Published:** Fri, 03 Jul 2026 15:10:42 +0000  
+**Severity:** Critical  
+**Categories:** Data Breach, Vulnerability, Malware  
+
+---
+
+### 32. [Agentic AI Used to Conduct Ransomware Attack via Langflow](https://www.securityweek.com/agentic-ai-used-to-conduct-ransomware-attack-via-langflow/)
 
 **Source:** Security Week  
 **Published:** Fri, 03 Jul 2026 11:00:00 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-3248, CVE-2021-29441  
+**CVEs:** CVE-2021-29441, CVE-2025-3248  
 **Categories:** Ransomware, Vulnerability, Malware, APT  
 
 ---
 
-### 32. [Medtronic Data Breach Impacts 3.8 Million People](https://www.securityweek.com/medtronic-data-breach-impacts-3-8-million-people/)
+### 33. [Medtronic Data Breach Impacts 3.8 Million People](https://www.securityweek.com/medtronic-data-breach-impacts-3-8-million-people/)
 
 **Source:** Security Week  
 **Published:** Fri, 03 Jul 2026 10:00:00 +0000  
@@ -298,7 +307,7 @@
 
 ---
 
-### 33. [Alleged Scattered Spider Hacker Extradited to US](https://www.securityweek.com/alleged-scattered-spider-hacker-extradited-to-us/)
+### 34. [Alleged Scattered Spider Hacker Extradited to US](https://www.securityweek.com/alleged-scattered-spider-hacker-extradited-to-us/)
 
 **Source:** Security Week  
 **Published:** Fri, 03 Jul 2026 09:30:00 +0000  
@@ -307,7 +316,7 @@
 
 ---
 
-### 34. [Google, FBI Disrupt NetNut Residential Proxy Network Powered by Millions of Devices](https://www.securityweek.com/google-fbi-disrupt-netnut-residential-proxy-network-powered-by-millions-of-devices/)
+### 35. [Google, FBI Disrupt NetNut Residential Proxy Network Powered by Millions of Devices](https://www.securityweek.com/google-fbi-disrupt-netnut-residential-proxy-network-powered-by-millions-of-devices/)
 
 **Source:** Security Week  
 **Published:** Fri, 03 Jul 2026 08:13:22 +0000  
@@ -316,17 +325,17 @@
 
 ---
 
-### 35. [Critical Cursor AI Code Editor Flaws Could Lead to OS-Level Remote Code Execution](https://www.securityweek.com/critical-cursor-ai-ide-flaws-could-lead-to-os-level-remote-code-execution/)
+### 36. [Critical Cursor AI Code Editor Flaws Could Lead to OS-Level Remote Code Execution](https://www.securityweek.com/critical-cursor-ai-ide-flaws-could-lead-to-os-level-remote-code-execution/)
 
 **Source:** Security Week  
 **Published:** Fri, 03 Jul 2026 07:57:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50549, CVE-2026-50548  
+**CVEs:** CVE-2026-50548, CVE-2026-50549  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
 
-### 36. [New CitrixBleed Vulnerability Exploited Immediately After Public Disclosure](https://www.securityweek.com/new-citrixbleed-vulnerability-exploited-immediately-after-public-disclosure/)
+### 37. [New CitrixBleed Vulnerability Exploited Immediately After Public Disclosure](https://www.securityweek.com/new-citrixbleed-vulnerability-exploited-immediately-after-public-disclosure/)
 
 **Source:** Security Week  
 **Published:** Thu, 02 Jul 2026 15:04:22 +0000  
@@ -336,7 +345,7 @@
 
 ---
 
-### 37. [How to Conduct a Successful Audit of AI-Driven Software Development](https://www.securityweek.com/how-to-conduct-a-successful-audit-of-ai-driven-software-development/)
+### 38. [How to Conduct a Successful Audit of AI-Driven Software Development](https://www.securityweek.com/how-to-conduct-a-successful-audit-of-ai-driven-software-development/)
 
 **Source:** Security Week  
 **Published:** Thu, 02 Jul 2026 13:15:00 +0000  
@@ -345,7 +354,7 @@
 
 ---
 
-### 38. [FortiBleed Campaign Linked to INC, Lynx Ransomware Attacks](https://www.securityweek.com/fortibleed-campaign-linked-to-inc-lynx-ransomware-attacks/)
+### 39. [FortiBleed Campaign Linked to INC, Lynx Ransomware Attacks](https://www.securityweek.com/fortibleed-campaign-linked-to-inc-lynx-ransomware-attacks/)
 
 **Source:** Security Week  
 **Published:** Thu, 02 Jul 2026 12:34:29 +0000  
@@ -354,21 +363,11 @@
 
 ---
 
-### 39. [Trump Administration Lifts Restrictions on Anthropic’s Claude Models After Cybersecurity Alarm](https://www.securityweek.com/trump-administration-lifts-restrictions-on-anthropics-claude-models-after-cybersecurity-alarm/)
+### 40. [Trump Administration Lifts Restrictions on Anthropic’s Claude Models After Cybersecurity Alarm](https://www.securityweek.com/trump-administration-lifts-restrictions-on-anthropics-claude-models-after-cybersecurity-alarm/)
 
 **Source:** Security Week  
 **Published:** Thu, 02 Jul 2026 11:01:48 +0000  
 **Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 40. [Cisco Confirms In-the-Wild Exploitation of Unified CM Vulnerability](https://www.securityweek.com/cisco-confirms-in-the-wild-exploitation-of-unified-cm-vulnerability/)
-
-**Source:** Security Week  
-**Published:** Thu, 02 Jul 2026 10:48:43 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-20230  
 **Categories:** Vulnerability  
 
 ---
@@ -450,7 +449,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-42985, CVE-2026-42992, CVE-2026-44812, CVE-2026-48563, CVE-2026-44799, CVE-2026-47291, CVE-2026-44801, CVE-2026-44803, CVE-2026-47289  
+**CVEs:** CVE-2026-47291, CVE-2026-42992, CVE-2026-44812, CVE-2026-44799, CVE-2026-48563, CVE-2026-47289, CVE-2026-44801, CVE-2026-44803, CVE-2026-42985  
 **Categories:** Vulnerability  
 
 ---
@@ -634,7 +633,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -681,7 +680,7 @@
 **Source:** Malwarebytes  
 **Published:** Thu, 02 Jul 2026 12:38:12 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-14191, CVE-2023-40477  
+**CVEs:** CVE-2023-40477, CVE-2026-14191  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

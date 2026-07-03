@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets",
+    "link": "https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html",
+    "published": "Fri, 03 Jul 2026 21:37:15 +0530",
+    "summary": "Threat actors with ties to North Korea have been linked to a fresh set of malicious npm packages that masquerade as Rollup polyfill tooling to facilitate remote access and data theft.\n\nAccording to JFrog, the packages \"rollup-packages-polyfill-core\" and \"rollup-runtime-polyfill-core\" mimic the legitimate \"rollup-plugin-polyfill-node\" project, down to the description, repository metadata, and",
+    "analysis": {
+      "issue": "JFrog says six malicious npm packages used hidden install-time execution, JSONKeeper fetches, and sandbox checks to enable remote access",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer",
     "link": "https://thehackernews.com/2026/07/armored-likho-targets-government.html",
     "published": "Fri, 03 Jul 2026 19:06:33 +0530",
@@ -171,21 +189,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations",
-    "link": "https://thehackernews.com/2026/07/fortibleed-credential-theft-linked-to.html",
-    "published": "Thu, 02 Jul 2026 13:30:49 +0530",
-    "summary": "The recently discovered financially-motivated FortiBleed campaign has been attributed to INC and Lynx ransomware operations, indicating that the verified, stolen credentials were intended for follow-on intrusions.\n\n\"An operator tied to FortiBleed's infrastructure was found actively working negotiation panels for both groups, tying mass FortiGate credential theft directly to ransomware deployment",
+    "source": "Bleeping Computer",
+    "title": "NetNut proxy network disrupted, 2 million infected devices cut off",
+    "link": "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/",
+    "published": "Fri, 03 Jul 2026 13:50:04 -0400",
+    "summary": "A joint operation involving Google has disrupted NetNut, a residential proxy network that gave access to millions of compromised Android devices, including smart TVs and streaming boxes. [...]",
     "analysis": {
-      "issue": "SOCRadar says FortiBleed led to 354 completed FortiGate intrusions and at least 12 ransomware deployments",
+      "issue": "A joint operation involving Google has disrupted NetNut, a residential proxy network that gave access to millions of compromised Android devices, including smart TVs and streaming boxes",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Ransomware",
-        "Phishing"
+        "Malware"
       ]
     }
   },
@@ -353,24 +370,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Alleged Scattered Spider hacker extradited to the United States",
-    "link": "https://www.bleepingcomputer.com/news/security/alleged-scattered-spider-hacker-extradited-to-the-united-states/",
-    "published": "Thu, 02 Jul 2026 04:58:25 -0400",
-    "summary": "A dual United States and Estonian citizen has been extradited to the U.S. to face charges alleging he was a member of the Scattered Spider hacking collective. [...]",
-    "analysis": {
-      "issue": "A dual United States and Estonian citizen has been extradited to the U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
       ]
     }
   },
@@ -568,6 +567,26 @@
   },
   {
     "source": "Security Week",
+    "title": "In Other News: Canadian Hacker Jailed, Open Source Zero-Days, Two Sentenced for ATM Jackpotting",
+    "link": "https://www.securityweek.com/in-other-news-canadian-hacker-jailed-open-source-zero-days-two-sentenced-for-atm-jackpotting/",
+    "published": "Fri, 03 Jul 2026 15:10:42 +0000",
+    "summary": "<p>Noteworthy stories that might have slipped under the radar: Anonymous-linked Canadian hacker jailed, researcher drops zero-days in open source projects, Venezuelans sentenced in the US over ATM jackpotting. </p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-canadian-hacker-jailed-open-source-zero-days-two-sentenced-for-atm-jackpotting/\">In Other News: Canadian Hacker Jailed, Open Source Zero-Days, Two Sentenced for ATM Jackpotting</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Noteworthy stories that might have slipped under the radar: Anonymous-linked Canadian hacker jailed, researcher drops zero-days in open source projects, Venezuelans sentenced in the US over ATM jackpotting",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Agentic AI Used to Conduct Ransomware Attack via Langflow",
     "link": "https://www.securityweek.com/agentic-ai-used-to-conduct-ransomware-attack-via-langflow/",
     "published": "Fri, 03 Jul 2026 11:00:00 +0000",
@@ -579,8 +598,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-3248",
-        "CVE-2021-29441"
+        "CVE-2021-29441",
+        "CVE-2025-3248"
       ],
       "threat_categories": [
         "Ransomware",
@@ -662,8 +681,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50549",
-        "CVE-2026-50548"
+        "CVE-2026-50548",
+        "CVE-2026-50549"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -742,26 +761,6 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Cisco Confirms In-the-Wild Exploitation of Unified CM Vulnerability",
-    "link": "https://www.securityweek.com/cisco-confirms-in-the-wild-exploitation-of-unified-cm-vulnerability/",
-    "published": "Thu, 02 Jul 2026 10:48:43 +0000",
-    "summary": "<p>A PoC exploit has been available since public disclosure, and the first exploitation attempts were observed last week.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-confirms-in-the-wild-exploitation-of-unified-cm-vulnerability/\">Cisco Confirms In-the-Wild Exploitation of Unified CM Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "A PoC exploit has been available since public disclosure, and the first exploitation attempts were observed last week",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-20230"
-      ],
       "threat_categories": [
         "Vulnerability"
       ]
@@ -925,15 +924,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-42985",
+        "CVE-2026-47291",
         "CVE-2026-42992",
         "CVE-2026-44812",
-        "CVE-2026-48563",
         "CVE-2026-44799",
-        "CVE-2026-47291",
+        "CVE-2026-48563",
+        "CVE-2026-47289",
         "CVE-2026-44801",
         "CVE-2026-44803",
-        "CVE-2026-47289"
+        "CVE-2026-42985"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1305,8 +1304,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1401,8 +1400,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-14191",
-        "CVE-2023-40477"
+        "CVE-2023-40477",
+        "CVE-2026-14191"
       ],
       "threat_categories": [
         "Vulnerability",
