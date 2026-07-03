@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-03 03:48:27 UTC
+**Last Updated:** 2026-07-03 04:25:30 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -229,7 +229,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-45586, CVE-2026-49160, CVE-2026-50507  
+**CVEs:** CVE-2026-45586, CVE-2026-50507, CVE-2026-49160  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -359,7 +359,7 @@
 **Source:** Security Week  
 **Published:** Wed, 01 Jul 2026 11:27:07 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48285, CVE-2026-48314, CVE-2026-48316, CVE-2026-48281, CVE-2026-48286, CVE-2026-48307, CVE-2026-48283, CVE-2026-48276, CVE-2026-48315, CVE-2026-48277, CVE-2026-48282, CVE-2026-48313  
+**CVEs:** CVE-2026-48314, CVE-2026-48277, CVE-2026-48283, CVE-2026-48313, CVE-2026-48282, CVE-2026-48281, CVE-2026-48285, CVE-2026-48315, CVE-2026-48307, CVE-2026-48286, CVE-2026-48316, CVE-2026-48276  
 **Categories:** Ransomware, Vulnerability  
 
 ---
@@ -369,7 +369,7 @@
 **Source:** Security Week  
 **Published:** Wed, 01 Jul 2026 11:20:45 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-8452, CVE-2026-49975, CVE-2026-13474, CVE-2026-8451, CVE-2026-8655, CVE-2026-10816  
+**CVEs:** CVE-2026-13474, CVE-2026-49975, CVE-2026-8655, CVE-2026-10816, CVE-2026-8451, CVE-2026-8452  
 **Categories:** Vulnerability, Malware, Supply Chain  
 
 ---
@@ -451,7 +451,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-42992, CVE-2026-44799, CVE-2026-47291, CVE-2026-44801, CVE-2026-42985, CVE-2026-44803, CVE-2026-48563, CVE-2026-44812, CVE-2026-47289  
+**CVEs:** CVE-2026-44803, CVE-2026-44801, CVE-2026-47289, CVE-2026-47291, CVE-2026-48563, CVE-2026-44799, CVE-2026-44812, CVE-2026-42992, CVE-2026-42985  
 **Categories:** Vulnerability  
 
 ---
@@ -673,7 +673,7 @@
 **Source:** Malwarebytes  
 **Published:** Thu, 02 Jul 2026 12:38:12 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-14191, CVE-2023-40477  
+**CVEs:** CVE-2023-40477, CVE-2026-14191  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
