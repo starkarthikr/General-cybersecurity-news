@@ -1,6 +1,43 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices",
+    "link": "https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html",
+    "published": "Fri, 03 Jul 2026 00:24:06 +0530",
+    "summary": "Google has significantly degraded NetNut, one of the biggest networks that turns home devices into rented relays for other people's traffic.\n\nWorking with the FBI, Lumen, and others, Google's Threat Intelligence Group (GTIG)&nbsp;said this week&nbsp;it had reduced the network's pool of usable devices by millions.\n\nGoogle identifies NetNut, also tracked as Popa, as a network spread across home",
+    "analysis": {
+      "issue": "GTIG says 316 threat clusters used suspected NetNut exit nodes in one June week to hide locations and run password-guessing attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials",
+    "link": "https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html",
+    "published": "Fri, 03 Jul 2026 00:00:33 +0530",
+    "summary": "Threat actors associated with the Anubis ransomware operation have been observed exploiting the Citrix Bleed 2 (CVE-2025-5777) vulnerability to obtain initial access.\n\n\"Although tactics differ between affiliates, common patterns emerged in tradecraft through use of legitimate Remote Management and Monitoring (RMM) tooling, credential access, and hands-on-keyboard procedures used for lateral",
+    "analysis": {
+      "issue": "Arctic Wolf says Anubis affiliates abused RMM tools, VPN logins, RDP, PsExec, and cloud-transfer tools before ransomware deployment",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories",
     "link": "https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html",
     "published": "Thu, 02 Jul 2026 20:54:18 +0530",
@@ -152,17 +189,17 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges",
-    "link": "https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html",
-    "published": "Thu, 02 Jul 2026 00:58:07 +0530",
-    "summary": "A teenager accused of belonging to the hacking group Scattered Spider has been extradited from Finland to face U.S. charges of conspiracy, computer intrusion, and fraud, the U.S. Department of Justice&nbsp;announced&nbsp;on July 1.\n\nPeter Stokes, 19, a dual U.S. and Estonian citizen, appeared in a Chicago federal court on June 30, where a judge ordered him held in custody.\n\nFinnish police",
+    "source": "Bleeping Computer",
+    "title": "Claude Fable 5 isn’t permanently leaving subscriptions, Anthropic says",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/",
+    "published": "Thu, 02 Jul 2026 21:37:09 -0400",
+    "summary": "Anthropic says Claude Fable 5 won't be accessible via Claude subscriptions after July 7, but it's not a permanent change, and the company expects the model to return outside the usage-based plan soon. [...]",
     "analysis": {
-      "issue": "charges tied to at least four alleged intrusions, including a 2025 jewelry retailer hack",
+      "issue": "Anthropic says Claude Fable 5 won't be accessible via Claude subscriptions after July 7, but it's not a permanent change, and the company expects the model to return outside the usage-based plan soon",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
         "General Security"
@@ -170,13 +207,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT",
-    "link": "https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html",
-    "published": "Wed, 01 Jul 2026 23:23:06 +0530",
-    "summary": "Unknown threat actors are leveraging the ScreenConnect remote access tool as a way to deploy and execute AsyncRAT.\n\nKaspersky said the activity is part of a \"massive, multi-domain, multi-language\" campaign that distributes malicious installer archives hosted on spoofed websites.\n\nThese installers masquerade as popular software like OBS Studio, DNS Jumper, DS4Windows, and Bandicam, among others.",
+    "source": "Bleeping Computer",
+    "title": "Claude Fable relaunch disappoints users with nerfed performance",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/",
+    "published": "Thu, 02 Jul 2026 20:48:30 -0400",
+    "summary": "Claude Fable, the company's most powerful model, is now available to all users, but early impressions are disappointing, as it appears to be nowhere near the original release. [...]",
     "analysis": {
-      "issue": "Kaspersky says 90+ spoofed domains use malicious installers and SEO to deliver AsyncRAT to Windows systems through ScreenConnect",
+      "issue": "Claude Fable, the company's most powerful model, is now available to all users, but early impressions are disappointing, as it appears to be nowhere near the original release",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -339,39 +376,21 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "FortiBleed credential-theft campaign linked to Lynx ransomware",
-    "link": "https://www.bleepingcomputer.com/news/security/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware/",
-    "published": "Wed, 01 Jul 2026 17:37:24 -0400",
-    "summary": "The massive FortiBleed credential theft campaign has been linked to the INC and Lynx ransomware operations, suggesting the stolen Fortinet credentials were intended to fuel future network intrusions. [...]",
+    "source": "Krebs On Security",
+    "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
+    "link": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
+    "published": "Thu, 02 Jul 2026 19:27:33 +0000",
+    "summary": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASDAQ: ALAR]. The action comes roughly two weeks after KrebsOnSecurity published findings from multiple security firms connecting NetNut to the Popa botnet, a collection of at least two million devices that have been compromised by malicious software with little or no consent from victims.",
     "analysis": {
-      "issue": "The massive FortiBleed credential theft campaign has been linked to the INC and Lynx ransomware operations, suggesting the stolen Fortinet credentials were intended to fuel future network intrusions",
+      "issue": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASD",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Ransomware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Kubota says hackers had month-long access to network systems",
-    "link": "https://www.bleepingcomputer.com/news/security/kubota-says-hackers-had-month-long-access-to-network-systems/",
-    "published": "Wed, 01 Jul 2026 17:09:06 -0400",
-    "summary": "Kubota North America Corporation disclosed that hackers had access to some of its network systems for more than a month earlier this year. [...]",
-    "analysis": {
-      "issue": "Kubota North America Corporation disclosed that hackers had access to some of its network systems for more than a month earlier this year",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
+        "Malware",
+        "Supply Chain"
       ]
     }
   },
@@ -549,25 +568,6 @@
     }
   },
   {
-    "source": "Krebs On Security",
-    "title": "Patch Tuesday, May 2026 Edition",
-    "link": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
-    "published": "Tue, 12 May 2026 21:46:45 +0000",
-    "summary": "Artificial intelligence platforms may be just as susceptible to social engineering as human beings, but they are proving remarkably good at finding security vulnerabilities in human-made computer code. That reality is on full display this month with some of the more widely-used software makers -- including Apple, Google, Microsoft, Mozilla and Oracle -- fixing near record volumes of security bugs, and/or quickening the tempo of their patch releases.",
-    "analysis": {
-      "issue": "Artificial intelligence platforms may be just as susceptible to social engineering as human beings, but they are proving remarkably good at finding security vulnerabilities in human-made computer code",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Security Week",
     "title": "New CitrixBleed Vulnerability Exploited Immediately After Public Disclosure",
     "link": "https://www.securityweek.com/new-citrixbleed-vulnerability-exploited-immediately-after-public-disclosure/",
@@ -733,18 +733,18 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-48315",
         "CVE-2026-48285",
-        "CVE-2026-48307",
-        "CVE-2026-48281",
-        "CVE-2026-48276",
-        "CVE-2026-48282",
-        "CVE-2026-48316",
-        "CVE-2026-48313",
         "CVE-2026-48314",
-        "CVE-2026-48277",
+        "CVE-2026-48316",
+        "CVE-2026-48281",
         "CVE-2026-48286",
-        "CVE-2026-48283"
+        "CVE-2026-48307",
+        "CVE-2026-48283",
+        "CVE-2026-48276",
+        "CVE-2026-48315",
+        "CVE-2026-48277",
+        "CVE-2026-48282",
+        "CVE-2026-48313"
       ],
       "threat_categories": [
         "Ransomware",
@@ -765,12 +765,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-10816",
-        "CVE-2026-8451",
+        "CVE-2026-8452",
         "CVE-2026-49975",
         "CVE-2026-13474",
+        "CVE-2026-8451",
         "CVE-2026-8655",
-        "CVE-2026-8452"
+        "CVE-2026-10816"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -938,14 +938,14 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-42992",
-        "CVE-2026-47291",
-        "CVE-2026-42985",
-        "CVE-2026-44812",
-        "CVE-2026-47289",
-        "CVE-2026-44801",
         "CVE-2026-44799",
+        "CVE-2026-47291",
+        "CVE-2026-44801",
+        "CVE-2026-42985",
         "CVE-2026-44803",
-        "CVE-2026-48563"
+        "CVE-2026-48563",
+        "CVE-2026-44812",
+        "CVE-2026-47289"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1395,8 +1395,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2023-40477",
-        "CVE-2026-14191"
+        "CVE-2026-14191",
+        "CVE-2023-40477"
       ],
       "threat_categories": [
         "Vulnerability",

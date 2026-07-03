@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-02 18:13:19 UTC
+**Last Updated:** 2026-07-03 03:48:27 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories](https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html)
+### 1. [Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices](https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 03 Jul 2026 00:24:06 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials](https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 03 Jul 2026 00:00:33 +0530  
+**Severity:** Low  
+**Categories:** Ransomware, Supply Chain  
+
+---
+
+### 3. [ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories](https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Jul 2026 20:54:18 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API](https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html)
+### 4. [ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API](https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Jul 2026 18:34:13 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [Identity Lifecycle Management Wasn't Built for AI Agents](https://thehackernews.com/2026/07/identity-lifecycle-management.html)
+### 5. [Identity Lifecycle Management Wasn't Built for AI Agents](https://thehackernews.com/2026/07/identity-lifecycle-management.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Jul 2026 17:00:00 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack](https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html)
+### 6. [AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack](https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Jul 2026 14:43:13 +0530  
@@ -41,7 +59,7 @@
 
 ---
 
-### 5. [FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations](https://thehackernews.com/2026/07/fortibleed-credential-theft-linked-to.html)
+### 7. [FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations](https://thehackernews.com/2026/07/fortibleed-credential-theft-linked-to.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Jul 2026 13:30:49 +0530  
@@ -50,7 +68,7 @@
 
 ---
 
-### 6. [New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos](https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html)
+### 8. [New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos](https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Jul 2026 12:54:23 +0530  
@@ -59,7 +77,7 @@
 
 ---
 
-### 7. [SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation](https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html)
+### 9. [SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation](https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Jul 2026 11:16:45 +0530  
@@ -69,7 +87,7 @@
 
 ---
 
-### 8. [Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters](https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html)
+### 10. [Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters](https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Jul 2026 01:10:06 +0530  
@@ -78,25 +96,25 @@
 
 ---
 
-### 9. [19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges](https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html)
+### 11. [Claude Fable 5 isn’t permanently leaving subscriptions, Anthropic says](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 02 Jul 2026 00:58:07 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 02 Jul 2026 21:37:09 -0400  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 12. [Claude Fable relaunch disappoints users with nerfed performance](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 02 Jul 2026 20:48:30 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 10. [SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT](https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 01 Jul 2026 23:23:06 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 11. [Google loses final appeal to overturn €4.1 billion EU fine](https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/)
+### 13. [Google loses final appeal to overturn €4.1 billion EU fine](https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Jul 2026 11:18:51 -0400  
@@ -105,7 +123,7 @@
 
 ---
 
-### 12. [ConsentFix and ClickFix: How Microsoft 365 Accounts are Hijacked in 3 Seconds](https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/)
+### 14. [ConsentFix and ClickFix: How Microsoft 365 Accounts are Hijacked in 3 Seconds](https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Jul 2026 10:00:10 -0400  
@@ -114,7 +132,7 @@
 
 ---
 
-### 13. [Microsoft fixes bug that removed Copilot buttons in Outlook](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/)
+### 15. [Microsoft fixes bug that removed Copilot buttons in Outlook](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Jul 2026 08:15:47 -0400  
@@ -123,7 +141,7 @@
 
 ---
 
-### 14. [Cisco finally confirms attackers exploiting Unified CM flaw](https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/)
+### 16. [Cisco finally confirms attackers exploiting Unified CM flaw](https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Jul 2026 07:35:25 -0400  
@@ -133,7 +151,7 @@
 
 ---
 
-### 15. [CISA: Microsoft SharePoint RCE flaw now actively exploited](https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/)
+### 17. [CISA: Microsoft SharePoint RCE flaw now actively exploited](https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Jul 2026 06:52:43 -0400  
@@ -143,7 +161,7 @@
 
 ---
 
-### 16. [Opera rolls out Paste Protect feature to fight ClickFix attacks](https://www.bleepingcomputer.com/news/security/opera-rolls-out-paste-protect-feature-to-fight-clickfix-attacks/)
+### 18. [Opera rolls out Paste Protect feature to fight ClickFix attacks](https://www.bleepingcomputer.com/news/security/opera-rolls-out-paste-protect-feature-to-fight-clickfix-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Jul 2026 06:46:58 -0400  
@@ -152,7 +170,7 @@
 
 ---
 
-### 17. [Alleged Scattered Spider hacker extradited to the United States](https://www.bleepingcomputer.com/news/security/alleged-scattered-spider-hacker-extradited-to-the-united-states/)
+### 19. [Alleged Scattered Spider hacker extradited to the United States](https://www.bleepingcomputer.com/news/security/alleged-scattered-spider-hacker-extradited-to-the-united-states/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Jul 2026 04:58:25 -0400  
@@ -161,7 +179,7 @@
 
 ---
 
-### 18. [Medtronic notifies customers impacted by ShinyHunters data breach](https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/)
+### 20. [Medtronic notifies customers impacted by ShinyHunters data breach](https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Jul 2026 00:25:42 -0400  
@@ -170,25 +188,16 @@
 
 ---
 
-### 19. [FortiBleed credential-theft campaign linked to Lynx ransomware](https://www.bleepingcomputer.com/news/security/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware/)
+### 21. [FBI Seizes NetNut Proxy Platform, Popa Botnet](https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/)
 
-**Source:** Bleeping Computer  
-**Published:** Wed, 01 Jul 2026 17:37:24 -0400  
+**Source:** Krebs On Security  
+**Published:** Thu, 02 Jul 2026 19:27:33 +0000  
 **Severity:** Low  
-**Categories:** Ransomware, Phishing  
+**Categories:** Malware, Supply Chain  
 
 ---
 
-### 20. [Kubota says hackers had month-long access to network systems](https://www.bleepingcomputer.com/news/security/kubota-says-hackers-had-month-long-access-to-network-systems/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 01 Jul 2026 17:09:06 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 21. [Scattered Spider Hackers Plead Guilty on Day 1 of Trial](https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/)
+### 22. [Scattered Spider Hackers Plead Guilty on Day 1 of Trial](https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 23 Jun 2026 16:12:49 +0000  
@@ -197,7 +206,7 @@
 
 ---
 
-### 22. [‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm](https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/)
+### 23. [‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm](https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 18 Jun 2026 17:37:58 +0000  
@@ -206,7 +215,7 @@
 
 ---
 
-### 23. [Who Runs the Ransomware Group ‘The Gentlemen?’](https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/)
+### 24. [Who Runs the Ransomware Group ‘The Gentlemen?’](https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 10 Jun 2026 14:03:44 +0000  
@@ -215,7 +224,7 @@
 
 ---
 
-### 24. [A Record-Breaking Patch Tuesday for June 2026](https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/)
+### 25. [A Record-Breaking Patch Tuesday for June 2026](https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
@@ -225,7 +234,7 @@
 
 ---
 
-### 25. [Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts](https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/)
+### 26. [Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts](https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 01 Jun 2026 17:32:50 +0000  
@@ -234,7 +243,7 @@
 
 ---
 
-### 26. [Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks](https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/)
+### 27. [Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks](https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 25 May 2026 13:21:49 +0000  
@@ -243,7 +252,7 @@
 
 ---
 
-### 27. [Lawmakers Demand Answers as CISA Tries to Contain Data Leak](https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/)
+### 28. [Lawmakers Demand Answers as CISA Tries to Contain Data Leak](https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/)
 
 **Source:** Krebs On Security  
 **Published:** Fri, 22 May 2026 16:34:24 +0000  
@@ -252,7 +261,7 @@
 
 ---
 
-### 28. [Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada](https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/)
+### 29. [Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada](https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 21 May 2026 21:50:25 +0000  
@@ -261,21 +270,12 @@
 
 ---
 
-### 29. [CISA Admin Leaked AWS GovCloud Keys on Github](https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/)
+### 30. [CISA Admin Leaked AWS GovCloud Keys on Github](https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 18 May 2026 20:48:21 +0000  
 **Severity:** High  
 **Categories:** Data Breach  
-
----
-
-### 30. [Patch Tuesday, May 2026 Edition](https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/)
-
-**Source:** Krebs On Security  
-**Published:** Tue, 12 May 2026 21:46:45 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, Malware  
 
 ---
 
@@ -359,7 +359,7 @@
 **Source:** Security Week  
 **Published:** Wed, 01 Jul 2026 11:27:07 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48315, CVE-2026-48285, CVE-2026-48307, CVE-2026-48281, CVE-2026-48276, CVE-2026-48282, CVE-2026-48316, CVE-2026-48313, CVE-2026-48314, CVE-2026-48277, CVE-2026-48286, CVE-2026-48283  
+**CVEs:** CVE-2026-48285, CVE-2026-48314, CVE-2026-48316, CVE-2026-48281, CVE-2026-48286, CVE-2026-48307, CVE-2026-48283, CVE-2026-48276, CVE-2026-48315, CVE-2026-48277, CVE-2026-48282, CVE-2026-48313  
 **Categories:** Ransomware, Vulnerability  
 
 ---
@@ -369,7 +369,7 @@
 **Source:** Security Week  
 **Published:** Wed, 01 Jul 2026 11:20:45 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-10816, CVE-2026-8451, CVE-2026-49975, CVE-2026-13474, CVE-2026-8655, CVE-2026-8452  
+**CVEs:** CVE-2026-8452, CVE-2026-49975, CVE-2026-13474, CVE-2026-8451, CVE-2026-8655, CVE-2026-10816  
 **Categories:** Vulnerability, Malware, Supply Chain  
 
 ---
@@ -451,7 +451,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-42992, CVE-2026-47291, CVE-2026-42985, CVE-2026-44812, CVE-2026-47289, CVE-2026-44801, CVE-2026-44799, CVE-2026-44803, CVE-2026-48563  
+**CVEs:** CVE-2026-42992, CVE-2026-44799, CVE-2026-47291, CVE-2026-44801, CVE-2026-42985, CVE-2026-44803, CVE-2026-48563, CVE-2026-44812, CVE-2026-47289  
 **Categories:** Vulnerability  
 
 ---
@@ -673,7 +673,7 @@
 **Source:** Malwarebytes  
 **Published:** Thu, 02 Jul 2026 12:38:12 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2023-40477, CVE-2026-14191  
+**CVEs:** CVE-2026-14191, CVE-2023-40477  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
