@@ -1,10 +1,38 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-03 17:57:11 UTC
+**Last Updated:** 2026-07-04 03:39:54 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets](https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html)
+### 1. [Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices](https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 04 Jul 2026 01:49:31 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [New "Bad Epoll" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android](https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 04 Jul 2026 01:10:01 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-46242  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [New Avalon Malware Framework Packs CrownX Ransomware Capabilities](https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 04 Jul 2026 00:25:24 +0530  
+**Severity:** Low  
+**Categories:** Ransomware, Malware  
+
+---
+
+### 4. [North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets](https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 03 Jul 2026 21:37:15 +0530  
@@ -13,7 +41,7 @@
 
 ---
 
-### 2. [Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer](https://thehackernews.com/2026/07/armored-likho-targets-government.html)
+### 5. [Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer](https://thehackernews.com/2026/07/armored-likho-targets-government.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 03 Jul 2026 19:06:33 +0530  
@@ -23,7 +51,7 @@
 
 ---
 
-### 3. [European Parliament Member Investigating Spyware Was Hacked With Pegasus](https://thehackernews.com/2026/07/european-parliament-member.html)
+### 6. [European Parliament Member Investigating Spyware Was Hacked With Pegasus](https://thehackernews.com/2026/07/european-parliament-member.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 03 Jul 2026 16:35:43 +0530  
@@ -32,7 +60,7 @@
 
 ---
 
-### 4. [PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords](https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html)
+### 7. [PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords](https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 03 Jul 2026 13:33:37 +0530  
@@ -41,7 +69,7 @@
 
 ---
 
-### 5. [Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices](https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html)
+### 8. [Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices](https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 03 Jul 2026 00:24:06 +0530  
@@ -50,7 +78,7 @@
 
 ---
 
-### 6. [Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials](https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html)
+### 9. [Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials](https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 03 Jul 2026 00:00:33 +0530  
@@ -59,40 +87,12 @@
 
 ---
 
-### 7. [ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories](https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html)
+### 10. [ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories](https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Jul 2026 20:54:18 +0530  
 **Severity:** Low  
 **Categories:** Ransomware, Phishing  
-
----
-
-### 8. [ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API](https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 02 Jul 2026 18:34:13 +0530  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 9. [Identity Lifecycle Management Wasn't Built for AI Agents](https://thehackernews.com/2026/07/identity-lifecycle-management.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 02 Jul 2026 17:00:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack](https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 02 Jul 2026 14:43:13 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2025-3248  
-**Categories:** Ransomware, Vulnerability, Phishing  
 
 ---
 
@@ -293,7 +293,7 @@
 **Source:** Security Week  
 **Published:** Fri, 03 Jul 2026 11:00:00 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2021-29441, CVE-2025-3248  
+**CVEs:** CVE-2025-3248, CVE-2021-29441  
 **Categories:** Ransomware, Vulnerability, Malware, APT  
 
 ---
@@ -330,7 +330,7 @@
 **Source:** Security Week  
 **Published:** Fri, 03 Jul 2026 07:57:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50548, CVE-2026-50549  
+**CVEs:** CVE-2026-50549, CVE-2026-50548  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -449,7 +449,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-47291, CVE-2026-42992, CVE-2026-44812, CVE-2026-44799, CVE-2026-48563, CVE-2026-47289, CVE-2026-44801, CVE-2026-44803, CVE-2026-42985  
+**CVEs:** CVE-2026-47291, CVE-2026-47289, CVE-2026-42992, CVE-2026-44801, CVE-2026-48563, CVE-2026-44803, CVE-2026-44799, CVE-2026-42985, CVE-2026-44812  
 **Categories:** Vulnerability  
 
 ---

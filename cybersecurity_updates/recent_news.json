@@ -1,6 +1,63 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices",
+    "link": "https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html",
+    "published": "Sat, 04 Jul 2026 01:49:31 +0530",
+    "summary": "Security firm runZero has&nbsp;disclosed seven vulnerabilities&nbsp;in&nbsp;FatFs, a small filesystem library that lets a device read and write the FAT and exFAT formats used on USB drives and SD cards.\n\nThe flaws matter because FatFs is nearly everywhere. It ships inside the firmware that runs security cameras, drones, industrial controllers, hardware crypto wallets, and other devices built on",
+    "analysis": {
+      "issue": "runZero says six FatFs bugs lack upstream fixes; PoC disk images are public, but no attacks have been reported since July 1",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "New \"Bad Epoll\" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android",
+    "link": "https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html",
+    "published": "Sat, 04 Jul 2026 01:10:01 +0530",
+    "summary": "A newly disclosed Linux kernel flaw called Bad Epoll (CVE-2026-46242) lets an ordinary user with no special access take full control of a machine as root. It affects Linux desktops, servers, and Android, and a fix is out.\n\nBad Epoll sits in the same small stretch of kernel code where Anthropic's most powerful AI model, Mythos, recently found a different bug.\n\nThe AI caught one flaw and missed",
+    "analysis": {
+      "issue": "Bad Epoll (CVE-2026-46242) is a use-after-free race in the Linux kernel that lets a local user gain root on Linux and Android",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-46242"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "New Avalon Malware Framework Packs CrownX Ransomware Capabilities",
+    "link": "https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html",
+    "published": "Sat, 04 Jul 2026 00:25:24 +0530",
+    "summary": "Cybersecurity researchers have discovered a previously undocumented modular malware framework codenamed Avalon that's distributed by means of a multi-stage phishing chain capable of bypassing traditional security controls.\n\nAvalon combines credential collection, lateral movement, remote access, recovery disruption, and ransomware execution, bringing together diverse functions under one",
+    "analysis": {
+      "issue": "Blackpoint says Avalon uses Proton Drive, ISO images, LNK files, and MSBuild to disable ETW, steal credentials, and deploy CrownX ransomware",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets",
     "link": "https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html",
     "published": "Fri, 03 Jul 2026 21:37:15 +0530",
@@ -126,64 +183,6 @@
       "cves": [],
       "threat_categories": [
         "Ransomware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API",
-    "link": "https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html",
-    "published": "Thu, 02 Jul 2026 18:34:13 +0530",
-    "summary": "The threat actor known as ToddyCat has been attributed to a new malware called Umbrij that's designed to gain surreptitious access to a victim's email correspondence via the Google API.\n\n\"In this campaign, the attackers focused their attention on corporate email communications hosted on Gmail, targeting access compromise via APIs,\" Kaspersky said in a detailed report published this week. \"",
-    "analysis": {
-      "issue": "Kaspersky reports ToddyCat’s Umbrij abuses headless Chromium and OAuth flows to extract Gmail authorization codes, enabling access via tokens",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Identity Lifecycle Management Wasn't Built for AI Agents",
-    "link": "https://thehackernews.com/2026/07/identity-lifecycle-management.html",
-    "published": "Thu, 02 Jul 2026 17:00:00 +0530",
-    "summary": "Identity lifecycle management was architected around a person with an employment record, a manager, and a departure date. AI agents have none of those. As autonomous principals proliferate across enterprise environments, the governance model built for humans develops structural blind spots that traditional IGA tools weren't designed to detect. This guide covers where that model breaks, what it",
-    "analysis": {
-      "issue": "Identity Lifecycle Management Wasn't Built for AI Agents  | Read more hacking news on The Hacker News cybersecurity news website and learn how to protect against cyberattacks and software vulnerabilities",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack",
-    "link": "https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html",
-    "published": "Thu, 02 Jul 2026 14:43:13 +0530",
-    "summary": "Security firm&nbsp;Sysdig&nbsp;says it has found what it believes is the first ransomware attack run from start to finish by an AI agent.\n\nIts Threat Research Team calls the operator JADEPUFFER and says a large language model handled the whole job: breaking in, stealing credentials, moving deeper into the network, then encrypting and wiping a company's production database.\n\nRansomware has always",
-    "analysis": {
-      "issue": "Sysdig says JADEPUFFER used CVE-2025-3248 in Langflow to automate intrusion, credential theft, encryption, and data wipe",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2025-3248"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
         "Phishing"
       ]
     }
@@ -598,8 +597,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2021-29441",
-        "CVE-2025-3248"
+        "CVE-2025-3248",
+        "CVE-2021-29441"
       ],
       "threat_categories": [
         "Ransomware",
@@ -681,8 +680,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50548",
-        "CVE-2026-50549"
+        "CVE-2026-50549",
+        "CVE-2026-50548"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -925,14 +924,14 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-47291",
-        "CVE-2026-42992",
-        "CVE-2026-44812",
-        "CVE-2026-44799",
-        "CVE-2026-48563",
         "CVE-2026-47289",
+        "CVE-2026-42992",
         "CVE-2026-44801",
+        "CVE-2026-48563",
         "CVE-2026-44803",
-        "CVE-2026-42985"
+        "CVE-2026-44799",
+        "CVE-2026-42985",
+        "CVE-2026-44812"
       ],
       "threat_categories": [
         "Vulnerability"
