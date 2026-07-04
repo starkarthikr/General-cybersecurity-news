@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-04 10:32:58 UTC
+**Last Updated:** 2026-07-04 13:46:13 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices](https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html)
+### 1. [U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case](https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 04 Jul 2026 18:17:53 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign](https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 04 Jul 2026 16:47:24 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 3. [Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices](https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 04 Jul 2026 01:49:31 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [New "Bad Epoll" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android](https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html)
+### 4. [New "Bad Epoll" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android](https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 04 Jul 2026 01:10:01 +0530  
@@ -23,7 +41,7 @@
 
 ---
 
-### 3. [New Avalon Malware Framework Packs CrownX Ransomware Capabilities](https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html)
+### 5. [New Avalon Malware Framework Packs CrownX Ransomware Capabilities](https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 04 Jul 2026 00:25:24 +0530  
@@ -32,7 +50,7 @@
 
 ---
 
-### 4. [North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets](https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html)
+### 6. [North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets](https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 03 Jul 2026 21:37:15 +0530  
@@ -41,7 +59,7 @@
 
 ---
 
-### 5. [Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer](https://thehackernews.com/2026/07/armored-likho-targets-government.html)
+### 7. [Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer](https://thehackernews.com/2026/07/armored-likho-targets-government.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 03 Jul 2026 19:06:33 +0530  
@@ -51,7 +69,7 @@
 
 ---
 
-### 6. [European Parliament Member Investigating Spyware Was Hacked With Pegasus](https://thehackernews.com/2026/07/european-parliament-member.html)
+### 8. [European Parliament Member Investigating Spyware Was Hacked With Pegasus](https://thehackernews.com/2026/07/european-parliament-member.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 03 Jul 2026 16:35:43 +0530  
@@ -60,7 +78,7 @@
 
 ---
 
-### 7. [PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords](https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html)
+### 9. [PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords](https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 03 Jul 2026 13:33:37 +0530  
@@ -69,30 +87,12 @@
 
 ---
 
-### 8. [Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices](https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html)
+### 10. [Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices](https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 03 Jul 2026 00:24:06 +0530  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 9. [Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials](https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 03 Jul 2026 00:00:33 +0530  
-**Severity:** Low  
-**Categories:** Ransomware, Supply Chain  
-
----
-
-### 10. [ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories](https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 02 Jul 2026 20:54:18 +0530  
-**Severity:** Low  
-**Categories:** Ransomware, Phishing  
 
 ---
 
@@ -229,7 +229,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50507, CVE-2026-49160, CVE-2026-45586  
+**CVEs:** CVE-2026-49160, CVE-2026-50507, CVE-2026-45586  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -293,7 +293,7 @@
 **Source:** Security Week  
 **Published:** Fri, 03 Jul 2026 11:00:00 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-3248, CVE-2021-29441  
+**CVEs:** CVE-2021-29441, CVE-2025-3248  
 **Categories:** Ransomware, Vulnerability, Malware, APT  
 
 ---
@@ -330,7 +330,7 @@
 **Source:** Security Week  
 **Published:** Fri, 03 Jul 2026 07:57:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50548, CVE-2026-50549  
+**CVEs:** CVE-2026-50549, CVE-2026-50548  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -449,7 +449,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-47289, CVE-2026-44812, CVE-2026-48563, CVE-2026-44799, CVE-2026-44801, CVE-2026-42992, CVE-2026-42985, CVE-2026-47291, CVE-2026-44803  
+**CVEs:** CVE-2026-42985, CVE-2026-47291, CVE-2026-44801, CVE-2026-48563, CVE-2026-42992, CVE-2026-44812, CVE-2026-47289, CVE-2026-44799, CVE-2026-44803  
 **Categories:** Vulnerability  
 
 ---
@@ -633,7 +633,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -680,7 +680,7 @@
 **Source:** Malwarebytes  
 **Published:** Thu, 02 Jul 2026 12:38:12 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2023-40477, CVE-2026-14191  
+**CVEs:** CVE-2026-14191, CVE-2023-40477  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

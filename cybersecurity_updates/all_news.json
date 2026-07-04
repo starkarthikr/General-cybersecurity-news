@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case",
+    "link": "https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html",
+    "published": "Sat, 04 Jul 2026 18:17:53 +0530",
+    "summary": "A U.S. government entity paid about $1 million to keep stolen files from being leaked, according to a new&nbsp;case study by Rakesh Krishnan for Ransom-ISAC, built on a leaked negotiation chat and the blockchain trail the payment left.\n\nThe odd part: the group that took the money calls itself Kairos, but it may not be a ransomware gang at all. Krishnan found no sign that it ever locked a single",
+    "analysis": {
+      "issue": "The case study found no encryptor or locked machines, only stolen files used as leverage in a month-long negotiation ending June 13, 2025",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign",
+    "link": "https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html",
+    "published": "Sat, 04 Jul 2026 16:47:24 +0530",
+    "summary": "The North Korean threat actors linked to the Contagious Interview campaign have been observed publishing 108 unique packages and web browser extensions spanning npm, Packagist, Go, and Google Chrome as part of an ongoing activity referred to as PolinRider.\n\n\"The campaign remains active, and new malicious packages are likely to continue appearing as threat actors compromise maintainer accounts,",
+    "analysis": {
+      "issue": "The campaign spans npm, Packagist, Go, and Chrome, using obfuscated JavaScript loaders and VS Code tasks to deliver malware",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices",
     "link": "https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html",
     "published": "Sat, 04 Jul 2026 01:49:31 +0530",
@@ -146,44 +182,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials",
-    "link": "https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html",
-    "published": "Fri, 03 Jul 2026 00:00:33 +0530",
-    "summary": "Threat actors associated with the Anubis ransomware operation have been observed exploiting the Citrix Bleed 2 (CVE-2025-5777) vulnerability to obtain initial access.\n\n\"Although tactics differ between affiliates, common patterns emerged in tradecraft through use of legitimate Remote Management and Monitoring (RMM) tooling, credential access, and hands-on-keyboard procedures used for lateral",
-    "analysis": {
-      "issue": "Arctic Wolf says Anubis affiliates abused RMM tools, VPN logins, RDP, PsExec, and cloud-transfer tools before ransomware deployment",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories",
-    "link": "https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html",
-    "published": "Thu, 02 Jul 2026 20:54:18 +0530",
-    "summary": "This week’s security news is mostly about weak spots.\n\nBrowsers, bots, sandboxes, AI systems, and email flows all show the same problem in different ways. Everything looks normal until someone tests a small gap and finds a way through.\n\nThis is not one big break. It is small permissions, weak checks, open systems, and normal tools doing things they were allowed to do. That same pattern runs",
-    "analysis": {
-      "issue": "ThreatsDay Bulletin covers this week’s cyber threats, from phishing and ransomware to exposed AI systems, sandbox flaws, and browser abuse",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Phishing"
       ]
     }
   },
@@ -461,8 +459,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50507",
         "CVE-2026-49160",
+        "CVE-2026-50507",
         "CVE-2026-45586"
       ],
       "threat_categories": [
@@ -597,8 +595,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-3248",
-        "CVE-2021-29441"
+        "CVE-2021-29441",
+        "CVE-2025-3248"
       ],
       "threat_categories": [
         "Ransomware",
@@ -680,8 +678,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50548",
-        "CVE-2026-50549"
+        "CVE-2026-50549",
+        "CVE-2026-50548"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -923,14 +921,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-47289",
-        "CVE-2026-44812",
-        "CVE-2026-48563",
-        "CVE-2026-44799",
-        "CVE-2026-44801",
-        "CVE-2026-42992",
         "CVE-2026-42985",
         "CVE-2026-47291",
+        "CVE-2026-44801",
+        "CVE-2026-48563",
+        "CVE-2026-42992",
+        "CVE-2026-44812",
+        "CVE-2026-47289",
+        "CVE-2026-44799",
         "CVE-2026-44803"
       ],
       "threat_categories": [
@@ -1303,8 +1301,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1399,8 +1397,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2023-40477",
-        "CVE-2026-14191"
+        "CVE-2026-14191",
+        "CVE-2023-40477"
       ],
       "threat_categories": [
         "Vulnerability",
