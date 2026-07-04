@@ -187,6 +187,28 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "JadePuffer ransomware used AI agent to automate entire attack",
+    "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/",
+    "published": "Sat, 04 Jul 2026 10:16:38 -0400",
+    "summary": "Researchers identified what they believe is the first documented case of a ransomware operation, JadePuffer, conducted entirely by a large language model (LLM) agent. [...]",
+    "analysis": {
+      "issue": "Researchers identified what they believe is the first documented case of a ransomware operation, JadePuffer, conducted entirely by a large language model (LLM) agent",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2025-3248"
+      ],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "NetNut proxy network disrupted, 2 million infected devices cut off",
     "link": "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/",
     "published": "Fri, 03 Jul 2026 13:50:04 -0400",
@@ -353,24 +375,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Opera rolls out Paste Protect feature to fight ClickFix attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/opera-rolls-out-paste-protect-feature-to-fight-clickfix-attacks/",
-    "published": "Thu, 02 Jul 2026 06:46:58 -0400",
-    "summary": "Opera has introduced Paste Protect, a security feature designed to block ClickFix-style attacks that trick users into executing malicious commands through social engineering. [...]",
-    "analysis": {
-      "issue": "Opera has introduced Paste Protect, a security feature designed to block ClickFix-style attacks that trick users into executing malicious commands through social engineering",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
     "link": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
@@ -459,8 +463,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-49160",
         "CVE-2026-50507",
+        "CVE-2026-49160",
         "CVE-2026-45586"
       ],
       "threat_categories": [
@@ -921,15 +925,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-42985",
-        "CVE-2026-47291",
-        "CVE-2026-44801",
-        "CVE-2026-48563",
-        "CVE-2026-42992",
+        "CVE-2026-44799",
         "CVE-2026-44812",
         "CVE-2026-47289",
-        "CVE-2026-44799",
-        "CVE-2026-44803"
+        "CVE-2026-47291",
+        "CVE-2026-44803",
+        "CVE-2026-42985",
+        "CVE-2026-42992",
+        "CVE-2026-48563",
+        "CVE-2026-44801"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1301,8 +1305,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
