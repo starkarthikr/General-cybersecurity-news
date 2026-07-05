@@ -187,6 +187,24 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Flipper Zero firmware development continues with community help",
+    "link": "https://www.bleepingcomputer.com/news/security/flipper-zero-firmware-development-continues-with-community-help/",
+    "published": "Sun, 05 Jul 2026 10:14:52 -0400",
+    "summary": "Flipper Devices says development of the Flipper Zero firmware will continue, albeit with a smaller internal team and greater reliance on community contributions. [...]",
+    "analysis": {
+      "issue": "Flipper Devices says development of the Flipper Zero firmware will continue, albeit with a smaller internal team and greater reliance on community contributions",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "JadePuffer ransomware used AI agent to automate entire attack",
     "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/",
     "published": "Sat, 04 Jul 2026 10:16:38 -0400",
@@ -355,26 +373,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "CISA: Microsoft SharePoint RCE flaw now actively exploited",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/",
-    "published": "Thu, 02 Jul 2026 06:52:43 -0400",
-    "summary": "CISA warned on Wednesday that attackers have begun exploiting a high-severity Microsoft SharePoint remote code execution vulnerability patched in May. [...]",
-    "analysis": {
-      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) warned on Wednesday that attackers have begun exploiting a high-severity Microsoft SharePoint remote code execution vulnerability",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-45659"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
     "link": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
@@ -463,9 +461,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-49160",
+        "CVE-2026-45586",
         "CVE-2026-50507",
-        "CVE-2026-45586"
+        "CVE-2026-49160"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -496,20 +494,7 @@
     "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
     "link": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
     "published": "Mon, 25 May 2026 13:21:49 +0000",
-    "summary": "Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to carry out cyberattacks, influence operations and disinformation campaigns inside the European Union. The two men were the focus of a 2025 KrebsOnSecurity story about how their hosting companies had assumed control over the technical infrastructure of Stark Industries Solutions, an Internet service provider sanctioned last year by the EU as a frequent staging ground for cyber mischief from Russia's intelligence agencies.",
-    "analysis": {
-      "issue": "Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to carry out cyberattacks, influence operations and disinformation campaigns inside the European Union",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "APT",
-        "DDoS"
-      ]
-    }
+    "summary": "Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to carry out cyberattacks, influence operations and disinformation campaigns inside the European Union. The two men were the focus of a 2025 KrebsOnSecurity story about how their hosting companies had assumed control over the technical infrastructure of Stark Industries Solutions, an Internet service provider sanctioned last year by the EU as a frequent staging ground for cyber mischief from Russia's intelligence agencies."
   },
   {
     "source": "Krebs On Security",
@@ -599,8 +584,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2021-29441",
-        "CVE-2025-3248"
+        "CVE-2025-3248",
+        "CVE-2021-29441"
       ],
       "threat_categories": [
         "Ransomware",
@@ -682,8 +667,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50549",
-        "CVE-2026-50548"
+        "CVE-2026-50548",
+        "CVE-2026-50549"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -925,15 +910,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-44799",
-        "CVE-2026-48563",
-        "CVE-2026-42985",
         "CVE-2026-42992",
+        "CVE-2026-42985",
+        "CVE-2026-47291",
         "CVE-2026-44801",
         "CVE-2026-47289",
         "CVE-2026-44812",
-        "CVE-2026-44803",
-        "CVE-2026-47291"
+        "CVE-2026-48563",
+        "CVE-2026-44799",
+        "CVE-2026-44803"
       ],
       "threat_categories": [
         "Vulnerability"

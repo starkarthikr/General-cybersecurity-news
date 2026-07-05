@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-05 13:52:12 UTC
+**Last Updated:** 2026-07-05 17:36:44 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -96,7 +96,16 @@
 
 ---
 
-### 11. [JadePuffer ransomware used AI agent to automate entire attack](https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/)
+### 11. [Flipper Zero firmware development continues with community help](https://www.bleepingcomputer.com/news/security/flipper-zero-firmware-development-continues-with-community-help/)
+
+**Source:** Bleeping Computer  
+**Published:** Sun, 05 Jul 2026 10:14:52 -0400  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 12. [JadePuffer ransomware used AI agent to automate entire attack](https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 04 Jul 2026 10:16:38 -0400  
@@ -106,7 +115,7 @@
 
 ---
 
-### 12. [NetNut proxy network disrupted, 2 million infected devices cut off](https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/)
+### 13. [NetNut proxy network disrupted, 2 million infected devices cut off](https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 03 Jul 2026 13:50:04 -0400  
@@ -115,7 +124,7 @@
 
 ---
 
-### 13. [ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit](https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/)
+### 14. [ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit](https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 03 Jul 2026 10:12:22 -0400  
@@ -124,7 +133,7 @@
 
 ---
 
-### 14. [Claude Fable 5 isn’t permanently leaving subscriptions, Anthropic says](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/)
+### 15. [Claude Fable 5 isn’t permanently leaving subscriptions, Anthropic says](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Jul 2026 21:37:09 -0400  
@@ -133,7 +142,7 @@
 
 ---
 
-### 15. [Claude Fable relaunch disappoints users with nerfed performance](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/)
+### 16. [Claude Fable relaunch disappoints users with nerfed performance](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Jul 2026 20:48:30 -0400  
@@ -142,7 +151,7 @@
 
 ---
 
-### 16. [Google loses final appeal to overturn €4.1 billion EU fine](https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/)
+### 17. [Google loses final appeal to overturn €4.1 billion EU fine](https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Jul 2026 11:18:51 -0400  
@@ -151,7 +160,7 @@
 
 ---
 
-### 17. [ConsentFix and ClickFix: How Microsoft 365 Accounts are Hijacked in 3 Seconds](https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/)
+### 18. [ConsentFix and ClickFix: How Microsoft 365 Accounts are Hijacked in 3 Seconds](https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Jul 2026 10:00:10 -0400  
@@ -160,7 +169,7 @@
 
 ---
 
-### 18. [Microsoft fixes bug that removed Copilot buttons in Outlook](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/)
+### 19. [Microsoft fixes bug that removed Copilot buttons in Outlook](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Jul 2026 08:15:47 -0400  
@@ -169,22 +178,12 @@
 
 ---
 
-### 19. [Cisco finally confirms attackers exploiting Unified CM flaw](https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/)
+### 20. [Cisco finally confirms attackers exploiting Unified CM flaw](https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Jul 2026 07:35:25 -0400  
 **Severity:** Low  
 **CVEs:** CVE-2026-20230  
-**Categories:** Vulnerability  
-
----
-
-### 20. [CISA: Microsoft SharePoint RCE flaw now actively exploited](https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 02 Jul 2026 06:52:43 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-45659  
 **Categories:** Vulnerability  
 
 ---
@@ -230,7 +229,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-49160, CVE-2026-50507, CVE-2026-45586  
+**CVEs:** CVE-2026-45586, CVE-2026-50507, CVE-2026-49160  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -248,8 +247,6 @@
 
 **Source:** Krebs On Security  
 **Published:** Mon, 25 May 2026 13:21:49 +0000  
-**Severity:** Low  
-**Categories:** Data Breach, APT, DDoS  
 
 ---
 
@@ -294,7 +291,7 @@
 **Source:** Security Week  
 **Published:** Fri, 03 Jul 2026 11:00:00 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2021-29441, CVE-2025-3248  
+**CVEs:** CVE-2025-3248, CVE-2021-29441  
 **Categories:** Ransomware, Vulnerability, Malware, APT  
 
 ---
@@ -331,7 +328,7 @@
 **Source:** Security Week  
 **Published:** Fri, 03 Jul 2026 07:57:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50549, CVE-2026-50548  
+**CVEs:** CVE-2026-50548, CVE-2026-50549  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -450,7 +447,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-44799, CVE-2026-48563, CVE-2026-42985, CVE-2026-42992, CVE-2026-44801, CVE-2026-47289, CVE-2026-44812, CVE-2026-44803, CVE-2026-47291  
+**CVEs:** CVE-2026-42992, CVE-2026-42985, CVE-2026-47291, CVE-2026-44801, CVE-2026-47289, CVE-2026-44812, CVE-2026-48563, CVE-2026-44799, CVE-2026-44803  
 **Categories:** Vulnerability  
 
 ---
