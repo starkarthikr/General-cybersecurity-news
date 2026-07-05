@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-05 10:37:41 UTC
+**Last Updated:** 2026-07-05 13:52:12 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -331,7 +331,7 @@
 **Source:** Security Week  
 **Published:** Fri, 03 Jul 2026 07:57:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50548, CVE-2026-50549  
+**CVEs:** CVE-2026-50549, CVE-2026-50548  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -450,7 +450,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-44799, CVE-2026-44803, CVE-2026-42985, CVE-2026-47289, CVE-2026-42992, CVE-2026-48563, CVE-2026-44812, CVE-2026-44801, CVE-2026-47291  
+**CVEs:** CVE-2026-44799, CVE-2026-48563, CVE-2026-42985, CVE-2026-42992, CVE-2026-44801, CVE-2026-47289, CVE-2026-44812, CVE-2026-44803, CVE-2026-47291  
 **Categories:** Vulnerability  
 
 ---
@@ -634,7 +634,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
