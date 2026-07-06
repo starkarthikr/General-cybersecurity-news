@@ -1,6 +1,26 @@
 [
   {
     "source": "The Hacker News",
+    "title": "⚡ Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More",
+    "link": "https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html",
+    "published": "Mon, 06 Jul 2026 18:31:14 +0530",
+    "summary": "A streaming box should not need a threat model. Neither should a username field, a demo repo, a reset flow, or a browser permission prompt. That is the irritating part this week: the risky pieces were ordinary.\n\nHome devices became a routing cover. Clean code pulled dirt from a dependency. Identity shortcuts aged badly. AI systems trusted the wrong instructions. Same soft spot throughout: trust",
+    "analysis": {
+      "issue": "Monday recap covers proxy botnets, fake PoC malware, browser ransomware research, AI agent risks, phishing tricks, and urgent CVEs",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions",
     "link": "https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html",
     "published": "Mon, 06 Jul 2026 17:00:02 +0530",
@@ -162,22 +182,41 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "New \"Bad Epoll\" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android",
-    "link": "https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html",
-    "published": "Sat, 04 Jul 2026 01:10:01 +0530",
-    "summary": "A newly disclosed Linux kernel flaw called Bad Epoll (CVE-2026-46242) lets an ordinary user with no special access take full control of a machine as root. It affects Linux desktops, servers, and Android, and a fix is out.\n\nBad Epoll sits in the same small stretch of kernel code where Anthropic's most powerful AI model, Mythos, recently found a different bug.\n\nThe AI caught one flaw and missed",
+    "source": "Bleeping Computer",
+    "title": "Software Is Now Written at the Speed of Thought. Security Isn't.",
+    "link": "https://www.bleepingcomputer.com/news/security/software-is-now-written-at-the-speed-of-thought-security-isnt/",
+    "published": "Mon, 06 Jul 2026 10:00:10 -0400",
+    "summary": "Every evolution in software development has reduced the friction between an idea and a deployable application. AI may remove the final barrier, but it also removes many of the moments where security decisions have traditionally taken place. [...]",
     "analysis": {
-      "issue": "Bad Epoll (CVE-2026-46242) is a use-after-free race in the Linux kernel that lets a local user gain root on Linux and Android",
+      "issue": "Haber, Chief Security Advisor, BeyondTrust Every major evolution in software development has reduced the friction between an idea and a deployable solution",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Max severity Adobe ColdFusion flaw now exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/max-severity-adobe-coldfusion-flaw-now-exploited-in-attacks/",
+    "published": "Mon, 06 Jul 2026 09:18:37 -0400",
+    "summary": "Attackers are now exploiting a maximum-severity Adobe ColdFusion vulnerability tracked as CVE-2026-48282, according to vulnerability intelligence company KEVIntel. [...]",
+    "analysis": {
+      "issue": "Attackers are now exploiting a maximum-severity Adobe ColdFusion vulnerability tracked as CVE-2026-48282, according to vulnerability intelligence company KEVIntel",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
       "cves": [
-        "CVE-2026-46242"
+        "CVE-2026-48282"
       ],
       "threat_categories": [
-        "Vulnerability"
+        "Vulnerability",
+        "APT"
       ]
     }
   },
@@ -331,44 +370,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Microsoft fixes bug that removed Copilot buttons in Outlook",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/",
-    "published": "Thu, 02 Jul 2026 08:15:47 -0400",
-    "summary": "Microsoft has fixed a known issue causing the Copilot Chat or Copilot buttons in Classic Outlook to disappear for Windows users with the Copilot Chat (Basic) license. [...]",
-    "analysis": {
-      "issue": "Microsoft has fixed a known issue causing the Copilot Chat or Copilot buttons in Classic Outlook to disappear for Windows users with the Copilot Chat (Basic) license",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Cisco finally confirms attackers exploiting Unified CM flaw",
-    "link": "https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/",
-    "published": "Thu, 02 Jul 2026 07:35:25 -0400",
-    "summary": "Cisco confirmed that attackers are now exploiting a Unified Communications Manager (Unified CM) vulnerability patched in early June. [...]",
-    "analysis": {
-      "issue": "Cisco confirmed that attackers are now exploiting a Unified Communications Manager (Unified CM) vulnerability patched in early June",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-20230"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
     "link": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
@@ -457,9 +458,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-45586",
+        "CVE-2026-50507",
         "CVE-2026-49160",
-        "CVE-2026-50507"
+        "CVE-2026-45586"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -557,6 +558,86 @@
       "cves": [],
       "threat_categories": [
         "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "The Shift Toward Business-Aligned Risk Management",
+    "link": "https://www.securityweek.com/the-shift-toward-business-aligned-risk-management/",
+    "published": "Mon, 06 Jul 2026 15:20:42 +0000",
+    "summary": "<p>Moving from isolated, technical data to a continuous risk lifecycle can help organizations align security controls with actual business consequences.</p>\n<p>The post <a href=\"https://www.securityweek.com/the-shift-toward-business-aligned-risk-management/\">The Shift Toward Business-Aligned Risk Management</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Moving from isolated, technical data to a continuous risk lifecycle can help organizations align security controls with actual business consequences",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Armored Likho APT Targeting Government, Electric Power Entities",
+    "link": "https://www.securityweek.com/armored-likho-apt-targeting-government-electric-power-entities/",
+    "published": "Mon, 06 Jul 2026 15:10:39 +0000",
+    "summary": "<p>The threat actor uses modular RATs and information stealers in financially motivated and cyber espionage campaigns.</p>\n<p>The post <a href=\"https://www.securityweek.com/armored-likho-apt-targeting-government-electric-power-entities/\">Armored Likho APT Targeting Government, Electric Power Entities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The threat actor uses modular RATs and information stealers in financially motivated and cyber espionage campaigns",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Malware",
+        "Phishing",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "North Korean Hackers Target Open Source Developers in Supply Chain Attacks",
+    "link": "https://www.securityweek.com/north-korean-hackers-target-open-source-developers-in-supply-chain-attacks/",
+    "published": "Mon, 06 Jul 2026 13:11:16 +0000",
+    "summary": "<p>The PolinRider campaign has compromised more than 100 legitimate open source packages and repositories to deliver a backdoor and information stealer to developers.</p>\n<p>The post <a href=\"https://www.securityweek.com/north-korean-hackers-target-open-source-developers-in-supply-chain-attacks/\">North Korean Hackers Target Open Source Developers in Supply Chain Attacks </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The PolinRider campaign has compromised more than 100 legitimate open source packages and repositories to deliver a backdoor and information stealer to developers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Proof-of-Concept Exploit Released for Linux ‘Bad Epoll’ Root Access Vulnerability",
+    "link": "https://www.securityweek.com/proof-of-concept-exploit-released-for-linux-bad-epoll-root-access-vulnerability/",
+    "published": "Mon, 06 Jul 2026 12:48:01 +0000",
+    "summary": "<p>Organizations are urged to patch after proof-of-concept code makes the Linux root escalation flaw easier to exploit.</p>\n<p>The post <a href=\"https://www.securityweek.com/proof-of-concept-exploit-released-for-linux-bad-epoll-root-access-vulnerability/\">Proof-of-Concept Exploit Released for Linux ‘Bad Epoll’ Root Access Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Organizations are urged to patch after proof-of-concept code makes the Linux root escalation flaw easier to exploit",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-46242",
+        "CVE-2026-43074"
+      ],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -679,86 +760,6 @@
         "Malware",
         "APT",
         "DDoS"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Critical Cursor AI Code Editor Flaws Could Lead to OS-Level Remote Code Execution",
-    "link": "https://www.securityweek.com/critical-cursor-ai-ide-flaws-could-lead-to-os-level-remote-code-execution/",
-    "published": "Fri, 03 Jul 2026 07:57:53 +0000",
-    "summary": "<p>The DuneSlide vulnerabilities enable zero-click prompt injection attacks that escape Cursor's sandbox and execute arbitrary code on the underlying operating system.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-cursor-ai-ide-flaws-could-lead-to-os-level-remote-code-execution/\">Critical Cursor AI Code Editor Flaws Could Lead to OS-Level Remote Code Execution</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The DuneSlide vulnerabilities enable zero-click prompt injection attacks that escape Cursor’s sandbox and execute arbitrary code on the underlying operating system",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-50549",
-        "CVE-2026-50548"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "New CitrixBleed Vulnerability Exploited Immediately After Public Disclosure",
-    "link": "https://www.securityweek.com/new-citrixbleed-vulnerability-exploited-immediately-after-public-disclosure/",
-    "published": "Thu, 02 Jul 2026 15:04:22 +0000",
-    "summary": "<p>Hackers are targeting NetScaler appliances using public PoC code to retrieve arbitrary memory content in the HTTP response.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-citrixbleed-vulnerability-exploited-immediately-after-public-disclosure/\">New CitrixBleed Vulnerability Exploited Immediately After Public Disclosure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Hackers are targeting NetScaler appliances using public PoC code to retrieve arbitrary memory content in the HTTP response",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-8451"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "How to Conduct a Successful Audit of AI-Driven Software Development",
-    "link": "https://www.securityweek.com/how-to-conduct-a-successful-audit-of-ai-driven-software-development/",
-    "published": "Thu, 02 Jul 2026 13:15:00 +0000",
-    "summary": "<p>As AI-generated code becomes commonplace, CISOs need new audit strategies to measure developer practices, govern AI tool usage, and identify software risks before they reach production.</p>\n<p>The post <a href=\"https://www.securityweek.com/how-to-conduct-a-successful-audit-of-ai-driven-software-development/\">How to Conduct a Successful Audit of AI-Driven Software Development</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "As AI-generated code becomes commonplace, CISOs need new audit strategies to measure developer practices, govern AI tool usage, and identify software risks before they reach production",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "FortiBleed Campaign Linked to INC, Lynx Ransomware Attacks",
-    "link": "https://www.securityweek.com/fortibleed-campaign-linked-to-inc-lynx-ransomware-attacks/",
-    "published": "Thu, 02 Jul 2026 12:34:29 +0000",
-    "summary": "<p>Researchers say credentials harvested from hundreds of thousands of FortiGate firewalls are being used to facilitate ransomware attacks by the INC and Lynx operations.</p>\n<p>The post <a href=\"https://www.securityweek.com/fortibleed-campaign-linked-to-inc-lynx-ransomware-attacks/\">FortiBleed Campaign Linked to INC, Lynx Ransomware Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Researchers say credentials harvested from hundreds of thousands of FortiGate firewalls are being used to facilitate ransomware attacks by the INC and Lynx operations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "APT"
       ]
     }
   },
@@ -920,15 +921,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-42985",
-        "CVE-2026-48563",
-        "CVE-2026-44799",
-        "CVE-2026-44803",
-        "CVE-2026-47289",
-        "CVE-2026-44801",
-        "CVE-2026-42992",
         "CVE-2026-44812",
-        "CVE-2026-47291"
+        "CVE-2026-48563",
+        "CVE-2026-47289",
+        "CVE-2026-44803",
+        "CVE-2026-42985",
+        "CVE-2026-47291",
+        "CVE-2026-44799",
+        "CVE-2026-44801",
+        "CVE-2026-42992"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1331,6 +1332,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Choose your WhatsApp username carefully",
+    "link": "https://www.malwarebytes.com/blog/news/2026/07/choose-your-whatsapp-username-carefully",
+    "published": "Mon, 06 Jul 2026 12:51:52 GMT",
+    "summary": "WhatsApp is introducing usernames to help protect your phone number. Just make sure you don't undermine that privacy by choosing the wrong one.",
+    "analysis": {
+      "issue": "Dutch consumer organization Consumentenbond has warned users to be careful when choosing their optional WhatsApp username",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "NetNut botnet takes a hit. Don’t be part of the next one.",
     "link": "https://www.malwarebytes.com/blog/news/2026/07/netnut-botnet-takes-a-hit-dont-be-part-of-the-next-one",
     "published": "Mon, 06 Jul 2026 11:52:14 GMT",
@@ -1410,7 +1429,7 @@
     "published": "Thu, 02 Jul 2026 16:05:08 GMT",
     "summary": "We uncovered ClickFix attacks using fake Google and Cloudflare pages to deliver everything from infostealers to a newly discovered malware loader.",
     "analysis": {
-      "issue": "ClickFix attacks, which trick people into running malicious commands themselves, continue to evolve",
+      "issue": "Updated July 6 to add connections with SyncTDS and TrafficTDS  ClickFix attacks, which trick people into running malicious commands themselves, continue to evolve",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1491,24 +1510,6 @@
       "cause": null,
       "timeline": null,
       "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "ChatGPT produced graphic violent images that shocked researchers",
-    "link": "https://www.malwarebytes.com/blog/ai/2026/07/chatgpt-produced-graphic-violent-images-that-shocked-researchers",
-    "published": "Wed, 01 Jul 2026 09:10:01 GMT",
-    "summary": "AI assistants like ChatGPT are supposed to have appropriate guardrails to stop people creating harmful content. However, they don't always work.",
-    "analysis": {
-      "issue": "AI assistants like ChatGPT are supposed to be safe to use, with appropriate guardrails to stop people creating harmful content",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
       "cves": [],
       "threat_categories": [
         "General Security"
