@@ -1,10 +1,29 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-06 15:45:19 UTC
+**Last Updated:** 2026-07-06 18:26:24 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [⚡ Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More](https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html)
+### 1. [16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems](https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 06 Jul 2026 23:07:01 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure](https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 06 Jul 2026 21:58:59 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-20896  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [⚡ Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More](https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 06 Jul 2026 18:31:14 +0530  
@@ -13,7 +32,7 @@
 
 ---
 
-### 2. [How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions](https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html)
+### 4. [How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions](https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 06 Jul 2026 17:00:02 +0530  
@@ -22,7 +41,7 @@
 
 ---
 
-### 3. [Suspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT](https://thehackernews.com/2026/07/suspected-china-nexus-hackers-use-fake.html)
+### 5. [Suspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT](https://thehackernews.com/2026/07/suspected-china-nexus-hackers-use-fake.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 06 Jul 2026 16:28:16 +0530  
@@ -31,7 +50,7 @@
 
 ---
 
-### 4. [New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions](https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html)
+### 6. [New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions](https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 06 Jul 2026 14:20:54 +0530  
@@ -40,7 +59,7 @@
 
 ---
 
-### 5. [New Java-Based QuimaRAT MaaS Built to Run on Windows, Linux, and macOS](https://thehackernews.com/2026/07/new-java-based-quimarat-maas-built-to.html)
+### 7. [New Java-Based QuimaRAT MaaS Built to Run on Windows, Linux, and macOS](https://thehackernews.com/2026/07/new-java-based-quimarat-maas-built-to.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 06 Jul 2026 13:43:33 +0530  
@@ -49,7 +68,7 @@
 
 ---
 
-### 6. [Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages](https://thehackernews.com/2026/07/opera-gx-flaw-let-malicious-sites-auto.html)
+### 8. [Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages](https://thehackernews.com/2026/07/opera-gx-flaw-let-malicious-sites-auto.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 06 Jul 2026 12:57:50 +0530  
@@ -58,7 +77,7 @@
 
 ---
 
-### 7. [SkillCloak Lets Malicious AI Agent Skills Evade Static Scanners with Self-Extracting Packing](https://thehackernews.com/2026/07/new-skillcloak-technique-lets-malicious.html)
+### 9. [SkillCloak Lets Malicious AI Agent Skills Evade Static Scanners with Self-Extracting Packing](https://thehackernews.com/2026/07/new-skillcloak-technique-lets-malicious.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 06 Jul 2026 12:03:56 +0530  
@@ -67,7 +86,7 @@
 
 ---
 
-### 8. [U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case](https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html)
+### 10. [U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case](https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 04 Jul 2026 18:17:53 +0530  
@@ -76,25 +95,16 @@
 
 ---
 
-### 9. [North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign](https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html)
+### 11. [Vietnam arrests suspects behind HiAnime anime piracy service](https://www.bleepingcomputer.com/news/security/vietnam-arrests-suspects-behind-hianime-anime-piracy-service/)
 
-**Source:** The Hacker News  
-**Published:** Sat, 04 Jul 2026 16:47:24 +0530  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 10. [Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices](https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html)
-
-**Source:** The Hacker News  
-**Published:** Sat, 04 Jul 2026 01:49:31 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 06 Jul 2026 14:25:06 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 11. [Software Is Now Written at the Speed of Thought. Security Isn't.](https://www.bleepingcomputer.com/news/security/software-is-now-written-at-the-speed-of-thought-security-isnt/)
+### 12. [Software Is Now Written at the Speed of Thought. Security Isn't.](https://www.bleepingcomputer.com/news/security/software-is-now-written-at-the-speed-of-thought-security-isnt/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 06 Jul 2026 10:00:10 -0400  
@@ -103,7 +113,7 @@
 
 ---
 
-### 12. [Max severity Adobe ColdFusion flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/max-severity-adobe-coldfusion-flaw-now-exploited-in-attacks/)
+### 13. [Max severity Adobe ColdFusion flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/max-severity-adobe-coldfusion-flaw-now-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 06 Jul 2026 09:18:37 -0400  
@@ -113,7 +123,7 @@
 
 ---
 
-### 13. [Flipper Zero firmware development continues with community help](https://www.bleepingcomputer.com/news/security/flipper-zero-firmware-development-continues-with-community-help/)
+### 14. [Flipper Zero firmware development continues with community help](https://www.bleepingcomputer.com/news/security/flipper-zero-firmware-development-continues-with-community-help/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 05 Jul 2026 10:14:52 -0400  
@@ -122,7 +132,7 @@
 
 ---
 
-### 14. [JadePuffer ransomware used AI agent to automate entire attack](https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/)
+### 15. [JadePuffer ransomware used AI agent to automate entire attack](https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 04 Jul 2026 10:16:38 -0400  
@@ -132,7 +142,7 @@
 
 ---
 
-### 15. [NetNut proxy network disrupted, 2 million infected devices cut off](https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/)
+### 16. [NetNut proxy network disrupted, 2 million infected devices cut off](https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 03 Jul 2026 13:50:04 -0400  
@@ -141,7 +151,7 @@
 
 ---
 
-### 16. [ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit](https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/)
+### 17. [ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit](https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 03 Jul 2026 10:12:22 -0400  
@@ -150,7 +160,7 @@
 
 ---
 
-### 17. [Claude Fable 5 isn’t permanently leaving subscriptions, Anthropic says](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/)
+### 18. [Claude Fable 5 isn’t permanently leaving subscriptions, Anthropic says](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Jul 2026 21:37:09 -0400  
@@ -159,7 +169,7 @@
 
 ---
 
-### 18. [Claude Fable relaunch disappoints users with nerfed performance](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/)
+### 19. [Claude Fable relaunch disappoints users with nerfed performance](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Jul 2026 20:48:30 -0400  
@@ -168,21 +178,12 @@
 
 ---
 
-### 19. [Google loses final appeal to overturn €4.1 billion EU fine](https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/)
+### 20. [Google loses final appeal to overturn €4.1 billion EU fine](https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Jul 2026 11:18:51 -0400  
 **Severity:** High  
 **Categories:** General Security  
-
----
-
-### 20. [ConsentFix and ClickFix: How Microsoft 365 Accounts are Hijacked in 3 Seconds](https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 02 Jul 2026 10:00:10 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability, APT  
 
 ---
 
@@ -227,7 +228,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50507, CVE-2026-49160, CVE-2026-45586  
+**CVEs:** CVE-2026-49160, CVE-2026-45586, CVE-2026-50507  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -245,8 +246,6 @@
 
 **Source:** Krebs On Security  
 **Published:** Mon, 25 May 2026 13:21:49 +0000  
-**Severity:** Low  
-**Categories:** Data Breach, APT, DDoS  
 
 ---
 
@@ -254,8 +253,6 @@
 
 **Source:** Krebs On Security  
 **Published:** Fri, 22 May 2026 16:34:24 +0000  
-**Severity:** Critical  
-**Categories:** Data Breach  
 
 ---
 
@@ -263,8 +260,6 @@
 
 **Source:** Krebs On Security  
 **Published:** Thu, 21 May 2026 21:50:25 +0000  
-**Severity:** Critical  
-**Categories:** Malware, DDoS  
 
 ---
 
@@ -272,8 +267,6 @@
 
 **Source:** Krebs On Security  
 **Published:** Mon, 18 May 2026 20:48:21 +0000  
-**Severity:** High  
-**Categories:** Data Breach  
 
 ---
 
@@ -309,7 +302,7 @@
 **Source:** Security Week  
 **Published:** Mon, 06 Jul 2026 12:48:01 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-46242, CVE-2026-43074  
+**CVEs:** CVE-2026-43074, CVE-2026-46242  
 **Categories:** Vulnerability  
 
 ---
@@ -446,7 +439,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-44812, CVE-2026-48563, CVE-2026-47289, CVE-2026-44803, CVE-2026-42985, CVE-2026-47291, CVE-2026-44799, CVE-2026-44801, CVE-2026-42992  
+**CVEs:** CVE-2026-48563, CVE-2026-47289, CVE-2026-44803, CVE-2026-44812, CVE-2026-42985, CVE-2026-44801, CVE-2026-42992, CVE-2026-44799, CVE-2026-47291  
 **Categories:** Vulnerability  
 
 ---
@@ -630,7 +623,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -645,7 +638,16 @@
 
 ---
 
-### 71. [Choose your WhatsApp username carefully](https://www.malwarebytes.com/blog/news/2026/07/choose-your-whatsapp-username-carefully)
+### 71. [How to tell if an image is AI-generated](https://www.malwarebytes.com/blog/ai/2026/07/how-to-tell-if-an-image-is-ai-generated)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 06 Jul 2026 16:22:32 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 72. [Choose your WhatsApp username carefully](https://www.malwarebytes.com/blog/news/2026/07/choose-your-whatsapp-username-carefully)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 06 Jul 2026 12:51:52 GMT  
@@ -654,7 +656,7 @@
 
 ---
 
-### 72. [NetNut botnet takes a hit. Don’t be part of the next one.](https://www.malwarebytes.com/blog/news/2026/07/netnut-botnet-takes-a-hit-dont-be-part-of-the-next-one)
+### 73. [NetNut botnet takes a hit. Don’t be part of the next one.](https://www.malwarebytes.com/blog/news/2026/07/netnut-botnet-takes-a-hit-dont-be-part-of-the-next-one)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 06 Jul 2026 11:52:14 GMT  
@@ -663,7 +665,7 @@
 
 ---
 
-### 73. [A week in security (June 29 &#8211; July 5)](https://www.malwarebytes.com/blog/news/2026/07/a-week-in-security-june-29-july-5)
+### 74. [A week in security (June 29 &#8211; July 5)](https://www.malwarebytes.com/blog/news/2026/07/a-week-in-security-june-29-july-5)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 06 Jul 2026 07:14:12 GMT  
@@ -672,7 +674,7 @@
 
 ---
 
-### 74. [Verified X ad spreads Mac malware, while ConsentFix steals Microsoft accounts](https://www.malwarebytes.com/blog/news/2026/07/verified-x-ad-spreads-mac-malware-while-consentfix-steals-microsoft-accounts)
+### 75. [Verified X ad spreads Mac malware, while ConsentFix steals Microsoft accounts](https://www.malwarebytes.com/blog/news/2026/07/verified-x-ad-spreads-mac-malware-while-consentfix-steals-microsoft-accounts)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 03 Jul 2026 13:30:36 GMT  
@@ -681,7 +683,7 @@
 
 ---
 
-### 75. [Apple’s Hide My Email doesn&#8217;t hide it very well](https://www.malwarebytes.com/blog/news/2026/07/apples-hide-my-email-doesnt-hide-it-very-well)
+### 76. [Apple’s Hide My Email doesn&#8217;t hide it very well](https://www.malwarebytes.com/blog/news/2026/07/apples-hide-my-email-doesnt-hide-it-very-well)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 02 Jul 2026 16:22:25 GMT  
@@ -690,7 +692,7 @@
 
 ---
 
-### 76. [Fake Google and Cloudflare verification pages spread multiple malware families](https://www.malwarebytes.com/blog/threat-intel/2026/07/fake-google-and-cloudflare-verification-pages-spread-multiple-malware-families)
+### 77. [Fake Google and Cloudflare verification pages spread multiple malware families](https://www.malwarebytes.com/blog/threat-intel/2026/07/fake-google-and-cloudflare-verification-pages-spread-multiple-malware-families)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 02 Jul 2026 16:05:08 GMT  
@@ -699,7 +701,7 @@
 
 ---
 
-### 77. [WinRAR flaw could allow attackers to take control of your computer](https://www.malwarebytes.com/blog/news/2026/07/winrar-flaw-could-allow-attackers-to-take-control-of-your-computer)
+### 78. [WinRAR flaw could allow attackers to take control of your computer](https://www.malwarebytes.com/blog/news/2026/07/winrar-flaw-could-allow-attackers-to-take-control-of-your-computer)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 02 Jul 2026 12:38:12 GMT  
@@ -709,7 +711,7 @@
 
 ---
 
-### 78. [Fake Perplexity Chrome extension spies on your searches](https://www.malwarebytes.com/blog/privacy/2026/07/fake-perplexity-chrome-extension-spies-on-your-searches)
+### 79. [Fake Perplexity Chrome extension spies on your searches](https://www.malwarebytes.com/blog/privacy/2026/07/fake-perplexity-chrome-extension-spies-on-your-searches)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 01 Jul 2026 20:11:27 GMT  
@@ -718,20 +720,11 @@
 
 ---
 
-### 79. [BioShocking: when “gaming” AI agents is no longer a game](https://www.malwarebytes.com/blog/ai/2026/07/bioshocking-when-gaming-ai-agents-is-no-longer-a-game)
+### 80. [BioShocking: when “gaming” AI agents is no longer a game](https://www.malwarebytes.com/blog/ai/2026/07/bioshocking-when-gaming-ai-agents-is-no-longer-a-game)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 01 Jul 2026 12:50:59 GMT  
 **Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 80. [Chrome needs another whopper update to fix 382 security bugs](https://www.malwarebytes.com/blog/bugs/2026/07/chrome-needs-another-whopper-update-to-fix-382-security-fixes)
-
-**Source:** Malwarebytes  
-**Published:** Wed, 01 Jul 2026 11:40:49 GMT  
-**Severity:** Critical  
 **Categories:** General Security  
 
 ---

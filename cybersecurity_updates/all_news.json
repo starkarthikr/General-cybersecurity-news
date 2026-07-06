@@ -1,6 +1,44 @@
 [
   {
     "source": "The Hacker News",
+    "title": "16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems",
+    "link": "https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html",
+    "published": "Mon, 06 Jul 2026 23:07:01 +0530",
+    "summary": "A use-after-free bug in Linux's KVM hypervisor can be triggered from a guest virtual machine to corrupt the shadow-page state of the host kernel that runs it.\n\nDubbed 'Januscape' and tracked as&nbsp;CVE-2026-53359, the flaw sits in the shadow MMU code that KVM shares across both Intel and AMD. The public proof-of-concept panics the host; the researcher claims that a separate, unreleased exploit",
+    "analysis": {
+      "issue": "Januscape abuses KVM shadow MMU page reuse to panic x86 hosts, with Kim reporting a controlled full escape exploit behind the unreleased path",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure",
+    "link": "https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html",
+    "published": "Mon, 06 Jul 2026 21:58:59 +0530",
+    "summary": "Threat actors have been observed attempting to exploit a recently patched critical security flaw in Gitea Docker images, according to Sysdig.\n\nThe vulnerability in question is CVE-2026-20896 (CVSS score: 9.8), a vulnerability that stems from the DevOps platform trusting the \"X-WEBAUTH-USER\" header from any source IP address, effectively allowing an unauthenticated internet client to get elevated",
+    "analysis": {
+      "issue": "CVE-2026-20896 lets reachable Gitea Docker containers trust spoofed X-WEBAUTH-USER headers when reverse proxy auth is enabled",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-20896"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "⚡ Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More",
     "link": "https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html",
     "published": "Mon, 06 Jul 2026 18:31:14 +0530",
@@ -146,31 +184,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign",
-    "link": "https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html",
-    "published": "Sat, 04 Jul 2026 16:47:24 +0530",
-    "summary": "The North Korean threat actors linked to the Contagious Interview campaign have been observed publishing 108 unique packages and web browser extensions spanning npm, Packagist, Go, and Google Chrome as part of an ongoing activity referred to as PolinRider.\n\n\"The campaign remains active, and new malicious packages are likely to continue appearing as threat actors compromise maintainer accounts,",
+    "source": "Bleeping Computer",
+    "title": "Vietnam arrests suspects behind HiAnime anime piracy service",
+    "link": "https://www.bleepingcomputer.com/news/security/vietnam-arrests-suspects-behind-hianime-anime-piracy-service/",
+    "published": "Mon, 06 Jul 2026 14:25:06 -0400",
+    "summary": "​Vietnamese authorities have arrested and are prosecuting seven suspects believed to have run HiAnime, the largest anime piracy streaming service before its shutdown in June. [...]",
     "analysis": {
-      "issue": "The campaign spans npm, Packagist, Go, and Chrome, using obfuscated JavaScript loaders and VS Code tasks to deliver malware",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices",
-    "link": "https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html",
-    "published": "Sat, 04 Jul 2026 01:49:31 +0530",
-    "summary": "Security firm runZero has&nbsp;disclosed seven vulnerabilities&nbsp;in&nbsp;FatFs, a small filesystem library that lets a device read and write the FAT and exFAT formats used on USB drives and SD cards.\n\nThe flaws matter because FatFs is nearly everywhere. It ships inside the firmware that runs security cameras, drones, industrial controllers, hardware crypto wallets, and other devices built on",
-    "analysis": {
-      "issue": "runZero says six FatFs bugs lack upstream fixes; PoC disk images are public, but no attacks have been reported since July 1",
+      "issue": "​Vietnamese authorities have arrested and are prosecuting seven suspects believed to have run HiAnime, the largest anime piracy streaming service before its shutdown in June",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -351,25 +371,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "ConsentFix and ClickFix: How Microsoft 365 Accounts are Hijacked in 3 Seconds",
-    "link": "https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/",
-    "published": "Thu, 02 Jul 2026 10:00:10 -0400",
-    "summary": "ConsentFix and ClickFix attacks steal Microsoft 365 tokens in seconds using fake prompts and OAuth flows. Learn how these MFA bypass tactics work and how to defend against them. [...]",
-    "analysis": {
-      "issue": "It can start with something as mundane as dragging a link into your browser",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "APT"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
     "link": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
@@ -458,9 +459,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50507",
         "CVE-2026-49160",
-        "CVE-2026-45586"
+        "CVE-2026-45586",
+        "CVE-2026-50507"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -491,75 +492,28 @@
     "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
     "link": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
     "published": "Mon, 25 May 2026 13:21:49 +0000",
-    "summary": "Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to carry out cyberattacks, influence operations and disinformation campaigns inside the European Union. The two men were the focus of a 2025 KrebsOnSecurity story about how their hosting companies had assumed control over the technical infrastructure of Stark Industries Solutions, an Internet service provider sanctioned last year by the EU as a frequent staging ground for cyber mischief from Russia's intelligence agencies.",
-    "analysis": {
-      "issue": "Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to carry out cyberattacks, influence operations and disinformation campaigns inside the European Union",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "APT",
-        "DDoS"
-      ]
-    }
+    "summary": "Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to carry out cyberattacks, influence operations and disinformation campaigns inside the European Union. The two men were the focus of a 2025 KrebsOnSecurity story about how their hosting companies had assumed control over the technical infrastructure of Stark Industries Solutions, an Internet service provider sanctioned last year by the EU as a frequent staging ground for cyber mischief from Russia's intelligence agencies."
   },
   {
     "source": "Krebs On Security",
     "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
     "link": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
     "published": "Fri, 22 May 2026 16:34:24 +0000",
-    "summary": "Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity &#038; Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account. The inquiry comes as CISA is still struggling to contain the breach and invalidate the leaked credentials.",
-    "analysis": {
-      "issue": "Lawmakers in both houses of Congress are demanding answers from the U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
+    "summary": "Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity &#038; Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account. The inquiry comes as CISA is still struggling to contain the breach and invalidate the leaked credentials."
   },
   {
     "source": "Krebs On Security",
     "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
     "link": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
     "published": "Thu, 21 May 2026 21:50:25 +0000",
-    "summary": "Canadian authorities on Wednesday arrested a 23-year-old Ottawa man on suspicion of building and operating Kimwolf, a fast spreading Internet-of-Things botnet that enslaved millions of devices for use in a series of massive distributed denial-of-service (DDoS) attacks over the past six months. KrebsOnSecurity publicly named the suspect in February 2026 after the accused launched a volley of DDoS, doxing and swatting campaigns against this author and a security researcher. He now faces criminal hacking charges in both Canada and the United States.",
-    "analysis": {
-      "issue": "Canadian authorities on Wednesday arrested a 23-year-old Ottawa man on suspicion of building and operating Kimwolf, a fast spreading Internet-of-Things botnet that enslaved millions of devices for use in a series of massive distributed denial-of-serv",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "DDoS"
-      ]
-    }
+    "summary": "Canadian authorities on Wednesday arrested a 23-year-old Ottawa man on suspicion of building and operating Kimwolf, a fast spreading Internet-of-Things botnet that enslaved millions of devices for use in a series of massive distributed denial-of-service (DDoS) attacks over the past six months. KrebsOnSecurity publicly named the suspect in February 2026 after the accused launched a volley of DDoS, doxing and swatting campaigns against this author and a security researcher. He now faces criminal hacking charges in both Canada and the United States."
   },
   {
     "source": "Krebs On Security",
     "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
     "link": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
     "published": "Mon, 18 May 2026 20:48:21 +0000",
-    "summary": "Until this past weekend, a contractor for the Cybersecurity &#038; Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA systems. Security experts said the public archive included files detailing how CISA builds, tests and deploys software internally, and that it represents one of the most egregious government data leaks in recent history.",
-    "analysis": {
-      "issue": "Until this past weekend, a contractor for the Cybersecurity & Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA ",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
+    "summary": "Until this past weekend, a contractor for the Cybersecurity &#038; Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA systems. Security experts said the public archive included files detailing how CISA builds, tests and deploys software internally, and that it represents one of the most egregious government data leaks in recent history."
   },
   {
     "source": "Security Week",
@@ -633,8 +587,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-46242",
-        "CVE-2026-43074"
+        "CVE-2026-43074",
+        "CVE-2026-46242"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -921,15 +875,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-44812",
         "CVE-2026-48563",
         "CVE-2026-47289",
         "CVE-2026-44803",
+        "CVE-2026-44812",
         "CVE-2026-42985",
-        "CVE-2026-47291",
-        "CVE-2026-44799",
         "CVE-2026-44801",
-        "CVE-2026-42992"
+        "CVE-2026-42992",
+        "CVE-2026-44799",
+        "CVE-2026-47291"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1301,8 +1255,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1327,6 +1281,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "How to tell if an image is AI-generated",
+    "link": "https://www.malwarebytes.com/blog/ai/2026/07/how-to-tell-if-an-image-is-ai-generated",
+    "published": "Mon, 06 Jul 2026 16:22:32 GMT",
+    "summary": "Scammers are using AI-generated images to make fake stories more convincing. Here's how to separate real from fake.",
+    "analysis": {
+      "issue": "A photo of an injured dog by the roadside",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1492,24 +1464,6 @@
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Chrome needs another whopper update to fix 382 security bugs",
-    "link": "https://www.malwarebytes.com/blog/bugs/2026/07/chrome-needs-another-whopper-update-to-fix-382-security-fixes",
-    "published": "Wed, 01 Jul 2026 11:40:49 GMT",
-    "summary": "Google's released a huge update of 382 security fixes, 15 of which were rated as critical. So, it's time to update again!",
-    "analysis": {
-      "issue": "If there was ever a time when it dawned on users how full of holes the software they’ve been using is, it’s now",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
       "cves": [],
       "threat_categories": [
         "General Security"
