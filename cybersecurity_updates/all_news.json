@@ -1,6 +1,114 @@
 [
   {
     "source": "The Hacker News",
+    "title": "How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions",
+    "link": "https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html",
+    "published": "Mon, 06 Jul 2026 17:00:02 +0530",
+    "summary": "Building a shortlist for an AI SOC evaluation can be tough. SIEM, SOAR, and pureplay AI SOC vendors are all saying the same thing. But behind the identical label sit very different products, from chat assistants bolted onto a legacy SIEM to agent platforms that run detection, triage, investigation, and response on their own data foundation.\n\nWhether a platform will materially change outcomes for",
+    "analysis": {
+      "issue": "AI SOC buyers should test data correlation, full-lifecycle agents, auditable verdicts, staged autonomy, and measurable outcomes before a POC",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Suspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT",
+    "link": "https://thehackernews.com/2026/07/suspected-china-nexus-hackers-use-fake.html",
+    "published": "Mon, 06 Jul 2026 16:28:16 +0530",
+    "summary": "A suspected China-nexus threat activity cluster has been observed targeting Indian taxpayers, tax professionals, and corporate finance teams to deliver a remote access trojan designed to steal sensitive data from compromised hosts.\n\nThe multi-stage campaign, codenamed Operation DragonReturn by Seqrite Labs, involves sending spear-phishing emails impersonating the Income Tax Department of India.",
+    "analysis": {
+      "issue": "Researchers link the India-focused operation to ChinaNet infrastructure and tactical overlaps with Silver Fox, but attribution remains suspected",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions",
+    "link": "https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html",
+    "published": "Mon, 06 Jul 2026 14:20:54 +0530",
+    "summary": "Researchers at&nbsp;Shandong University&nbsp;have shown a fast new way to pull data off computers that are cut off from every network. The technique, called&nbsp;TrojPix, tweaks on-screen pixels in ways the eye cannot see, so that the video cable carrying them radiates a faint radio signal a nearby receiver can decode.\n\nBut TrojPix works only once malware is already on the target machine, so it",
+    "analysis": {
+      "issue": "TrojPix uses imperceptible pixel modulation so copper video cables radiate data, hitting 8",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "New Java-Based QuimaRAT MaaS Built to Run on Windows, Linux, and macOS",
+    "link": "https://thehackernews.com/2026/07/new-java-based-quimarat-maas-built-to.html",
+    "published": "Mon, 06 Jul 2026 13:43:33 +0530",
+    "summary": "Cybersecurity researchers have flagged a novel Java-based remote access trojan (RAT) called QuimaRAT that's capable of targeting Windows, Linux, and macOS environments.\n\nAccording to LevelBlue, the cross-platform malware is advertised under a malware-as-a-service (MaaS) model, costing anywhere between $150 for one month to $1,200 for lifetime access. Other subscription tiers include $300 for",
+    "analysis": {
+      "issue": "LevelBlue says QuimaRAT uses encrypted plugins, OS-specific persistence, and JNA libraries to control Windows, Linux, and macOS systems",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages",
+    "link": "https://thehackernews.com/2026/07/opera-gx-flaw-let-malicious-sites-auto.html",
+    "published": "Mon, 06 Jul 2026 12:57:50 +0530",
+    "summary": "Researchers found a flaw in&nbsp;Opera GX, the gaming-focused version of the Opera browser, that let a malicious website silently install a browser add-on and use it to lift specific data from the pages a victim visits.\n\nIn a proof of concept, they reconstructed a signed-in user's full Gmail address from a single visit, with no click. Opera has patched the flaw and says it found no evidence that",
+    "analysis": {
+      "issue": "Opera GX patched a flaw that let malicious sites silently install GX Mods and leak a signed-in user’s Gmail address with CSS",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "SkillCloak Lets Malicious AI Agent Skills Evade Static Scanners with Self-Extracting Packing",
+    "link": "https://thehackernews.com/2026/07/new-skillcloak-technique-lets-malicious.html",
+    "published": "Mon, 06 Jul 2026 12:03:56 +0530",
+    "summary": "Scanners meant to catch malicious add-on \"skills\" for AI coding agents can be fooled by a few simple changes that leave the malware working, according to a&nbsp;new study&nbsp;from researchers at the Hong Kong University of Science and Technology.\n\nTheir strongest trick slipped past every scanner tested more than 90% of the time, and the same team built a runtime checker that catches most of the",
+    "analysis": {
+      "issue": "Learn how malicious AI agent skills easily bypass static scanners",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case",
     "link": "https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html",
     "published": "Sat, 04 Jul 2026 18:17:53 +0530",
@@ -70,118 +178,6 @@
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "New Avalon Malware Framework Packs CrownX Ransomware Capabilities",
-    "link": "https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html",
-    "published": "Sat, 04 Jul 2026 00:25:24 +0530",
-    "summary": "Cybersecurity researchers have discovered a previously undocumented modular malware framework codenamed Avalon that's distributed by means of a multi-stage phishing chain capable of bypassing traditional security controls.\n\nAvalon combines credential collection, lateral movement, remote access, recovery disruption, and ransomware execution, bringing together diverse functions under one",
-    "analysis": {
-      "issue": "Blackpoint says Avalon uses Proton Drive, ISO images, LNK files, and MSBuild to disable ETW, steal credentials, and deploy CrownX ransomware",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets",
-    "link": "https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html",
-    "published": "Fri, 03 Jul 2026 21:37:15 +0530",
-    "summary": "Threat actors with ties to North Korea have been linked to a fresh set of malicious npm packages that masquerade as Rollup polyfill tooling to facilitate remote access and data theft.\n\nAccording to JFrog, the packages \"rollup-packages-polyfill-core\" and \"rollup-runtime-polyfill-core\" mimic the legitimate \"rollup-plugin-polyfill-node\" project, down to the description, repository metadata, and",
-    "analysis": {
-      "issue": "JFrog says six malicious npm packages used hidden install-time execution, JSONKeeper fetches, and sandbox checks to enable remote access",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer",
-    "link": "https://thehackernews.com/2026/07/armored-likho-targets-government.html",
-    "published": "Fri, 03 Jul 2026 19:06:33 +0530",
-    "summary": "A previously undocumented threat actor known as Armored Likho has been attributed to cyber attacks targeting government agencies and the electric power sector across Russia, Brazil, and Kazakhstan.\n\n\"Armored Likho blends financially motivated campaigns targeting private individuals with targeted cyber espionage aimed at organizations,\" Kaspersky said in a technical analysis published today. \"",
-    "analysis": {
-      "issue": "Kaspersky says the attacks use phishing, GitHub-hosted payloads, CVE-2025-9491 LNK abuse, and Go2Tunnel-based tunneling",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2025-9491"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "European Parliament Member Investigating Spyware Was Hacked With Pegasus",
-    "link": "https://thehackernews.com/2026/07/european-parliament-member.html",
-    "published": "Fri, 03 Jul 2026 16:35:43 +0530",
-    "summary": "A new report from the Citizen Lab has revealed that former Member of the European Parliament Stelios Kouloglou had his mobile device repeatedly hacked with the notorious Pegasus spyware while serving on a committee that was tasked with investigating the abuse of such commercial surveillance tools in the bloc.\n\n\"Through forensic analysis of his device, we found that the attackers could have had",
-    "analysis": {
-      "issue": "Citizen Lab says Pegasus hit Kouloglou’s iPhone in 2022 and 2023 via Apple’s HomeKit zero-click exploit, patched in iOS 16",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords",
-    "link": "https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html",
-    "published": "Fri, 03 Jul 2026 13:33:37 +0530",
-    "summary": "Cybersecurity researchers have flagged a new macOS information stealer called PamStealer that employs a series of clever tricks to infect systems and siphon sensitive data.\n\nThe stealer, discovered by Jamf Threat Labs, is distributed as a compiled AppleScript (.scpt) file impersonating Maccy, a legitimate open-source clipboard manager. It has been codenamed PamStealer owing to its ability to",
-    "analysis": {
-      "issue": "Jamf says the Rust-based PamStealer targets Apple Silicon Macs, steals browser, wallet, Keychain, and clipboard data, and persists",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices",
-    "link": "https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html",
-    "published": "Fri, 03 Jul 2026 00:24:06 +0530",
-    "summary": "Google has significantly degraded NetNut, one of the biggest networks that turns home devices into rented relays for other people's traffic.\n\nWorking with the FBI, Lumen, and others, Google's Threat Intelligence Group (GTIG)&nbsp;said this week&nbsp;it had reduced the network's pool of usable devices by millions.\n\nGoogle identifies NetNut, also tracked as Popa, as a network spread across home",
-    "analysis": {
-      "issue": "GTIG says 316 threat clusters used suspected NetNut exit nodes in one June week to hide locations and run password-guessing attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -461,9 +457,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50507",
+        "CVE-2026-45586",
         "CVE-2026-49160",
-        "CVE-2026-45586"
+        "CVE-2026-50507"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -566,6 +562,25 @@
   },
   {
     "source": "Security Week",
+    "title": "Prompt Injection Attacks Trick AI Agents Into Making Crypto Payments",
+    "link": "https://www.securityweek.com/prompt-injection-attacks-trick-ai-agents-into-making-crypto-payments/",
+    "published": "Mon, 06 Jul 2026 11:19:47 +0000",
+    "summary": "<p>Researchers uncovered two campaigns embedding indirect prompt injections in malicious websites to exploit autonomous AI agents browsing the web.</p>\n<p>The post <a href=\"https://www.securityweek.com/prompt-injection-attacks-trick-ai-agents-into-making-crypto-payments/\">Prompt Injection Attacks Trick AI Agents Into Making Crypto Payments</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Researchers uncovered two campaigns embedding indirect prompt injections in malicious websites to exploit autonomous AI agents browsing the web",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "In Other News: Canadian Hacker Jailed, Open Source Zero-Days, Two Sentenced for ATM Jackpotting",
     "link": "https://www.securityweek.com/in-other-news-canadian-hacker-jailed-open-source-zero-days-two-sentenced-for-atm-jackpotting/",
     "published": "Fri, 03 Jul 2026 15:10:42 +0000",
@@ -597,8 +612,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-3248",
-        "CVE-2021-29441"
+        "CVE-2021-29441",
+        "CVE-2025-3248"
       ],
       "threat_categories": [
         "Ransomware",
@@ -680,8 +695,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50548",
-        "CVE-2026-50549"
+        "CVE-2026-50549",
+        "CVE-2026-50548"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -744,24 +759,6 @@
         "Ransomware",
         "Vulnerability",
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Trump Administration Lifts Restrictions on Anthropic’s Claude Models After Cybersecurity Alarm",
-    "link": "https://www.securityweek.com/trump-administration-lifts-restrictions-on-anthropics-claude-models-after-cybersecurity-alarm/",
-    "published": "Thu, 02 Jul 2026 11:01:48 +0000",
-    "summary": "<p>Anthropic said Tuesday night that its AI model called Claude Fable 5 is now widely available.</p>\n<p>The post <a href=\"https://www.securityweek.com/trump-administration-lifts-restrictions-on-anthropics-claude-models-after-cybersecurity-alarm/\">Trump Administration Lifts Restrictions on Anthropic’s Claude Models After Cybersecurity Alarm</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Anthropic said Tuesday night that its AI model called Claude Fable 5 is now widely available",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -923,15 +920,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-44812",
-        "CVE-2026-47291",
         "CVE-2026-42985",
-        "CVE-2026-47289",
         "CVE-2026-48563",
-        "CVE-2026-44801",
         "CVE-2026-44799",
         "CVE-2026-44803",
-        "CVE-2026-42992"
+        "CVE-2026-47289",
+        "CVE-2026-44801",
+        "CVE-2026-42992",
+        "CVE-2026-44812",
+        "CVE-2026-47291"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1303,8 +1300,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1329,6 +1326,44 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "NetNut botnet takes a hit. Don’t be part of the next one.",
+    "link": "https://www.malwarebytes.com/blog/news/2026/07/netnut-botnet-takes-a-hit-dont-be-part-of-the-next-one",
+    "published": "Mon, 06 Jul 2026 11:52:14 GMT",
+    "summary": "Google, the FBI, and other partners have disrupted a residential proxy network built on millions of hijacked devices and used by criminals.",
+    "analysis": {
+      "issue": "In a joint operation, Google, the FBI, and other partners have dealt a significant blow to the residential proxy ecosystem by disrupting the NetNut (also tracked as Popa) botnet",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "DDoS",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "A week in security (June 29 &#8211; July 5)",
+    "link": "https://www.malwarebytes.com/blog/news/2026/07/a-week-in-security-june-29-july-5",
+    "published": "Mon, 06 Jul 2026 07:14:12 GMT",
+    "summary": "A list of topics we covered in the week of June 29 to July 5 of 2026",
+    "analysis": {
+      "issue": "Last week on Malwarebytes Labs: Stay safe",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
       ]
     }
   },
@@ -1399,8 +1434,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2023-40477",
-        "CVE-2026-14191"
+        "CVE-2026-14191",
+        "CVE-2023-40477"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1470,42 +1505,6 @@
     "summary": "AI assistants like ChatGPT are supposed to have appropriate guardrails to stop people creating harmful content. However, they don't always work.",
     "analysis": {
       "issue": "AI assistants like ChatGPT are supposed to be safe to use, with appropriate guardrails to stop people creating harmful content",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Watch out for &#8220;high paying, low effort&#8221; Amazon job texts",
-    "link": "https://www.malwarebytes.com/blog/scams/2026/06/watch-out-for-high-paying-low-effort-amazon-job-texts",
-    "published": "Tue, 30 Jun 2026 20:46:28 GMT",
-    "summary": "Scammers are using Amazon and the promise of big money to lure people in to their trap.",
-    "analysis": {
-      "issue": "Remote, flexible, high‑paying work is a tempting prospect, and the holy grail for many people looking for a new role",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Update time: Apple releases security patches for iOS, MacOS Tahoe, Safari",
-    "link": "https://www.malwarebytes.com/blog/news/2026/06/update-time-apple-releases-security-patches-for-ios-macos-tahoe-safari",
-    "published": "Tue, 30 Jun 2026 14:35:45 GMT",
-    "summary": "A new Apple update fixes a multitude of browser and browser related vulnerabilities which have been public knowledge for a while",
-    "analysis": {
-      "issue": "Apple has released security updates for more than two dozen security vulnerabilities across iPhone, iPad, and Mac",
       "solution": null,
       "cause": null,
       "timeline": null,
