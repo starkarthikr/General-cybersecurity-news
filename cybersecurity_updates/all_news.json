@@ -1,6 +1,78 @@
 [
   {
     "source": "The Hacker News",
+    "title": "RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service",
+    "link": "https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html",
+    "published": "Tue, 07 Jul 2026 22:40:15 +0530",
+    "summary": "A new Android malware operation called RedWing is being rented out on Telegram as a ready-made bank-fraud service. It lets even low-skill criminals take over a victim's phone, steal their banking logins, and capture the one-time codes that protect their accounts.\n\nZimperium's zLabs, which found the operation, says it looks like a new variant of Oblivion, a $300-a-month rent-a-malware tool",
+    "analysis": {
+      "issue": "Zimperium found RedWing, a rented Android kit that steals banking logins, lifts one-time codes, and forwards calls to defeat phone-based 2FA",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots",
+    "link": "https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html",
+    "published": "Tue, 07 Jul 2026 22:07:33 +0530",
+    "summary": "A critical flaw in Google's Dialogflow CX could have let an attacker with edit rights on one Code Block-enabled agent compromise other Code Block-enabled agents in the same Google Cloud project.\n\nFrom there, they could read live conversations, steal the data users shared, and make the bots send attacker-written messages, including requests to re-enter a password.\n\nSecurity firm Varonis found it",
+    "analysis": {
+      "issue": "Google fixed Rogue Agent, a Dialogflow CX Code Blocks flaw that could let one writable agent affect every chatbot in a Cloud project",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "DEBULL Tooling Abuses Microsoft Device-Code Flow to Target M365 Accounts",
+    "link": "https://thehackernews.com/2026/07/debull-tooling-abuses-microsoft-device.html",
+    "published": "Tue, 07 Jul 2026 20:44:14 +0530",
+    "summary": "A Microsoft 365 device code phishing campaign has been observed leveraging collaboration-themed lures to take control of victim accounts between the last week of June 2026 and into early July, per findings from ZeroBEC.\n\n\"The campaign did not depend on a fake Microsoft password page. It used a malicious collaboration-style lure to push users into the legitimate Microsoft device login experience,",
+    "analysis": {
+      "issue": "Talos details ARToken, a PhaaS panel tied to EvilTokens that supports device code phishing, BEC workflows, SharePoint theft, and PRT persistence",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data",
+    "link": "https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html",
+    "published": "Tue, 07 Jul 2026 19:34:50 +0530",
+    "summary": "A public issue can trick GitHub Agentic Workflows into leaking the contents of an organization's private repositories, researchers at Noma Security have shown.\n\nThe attacker needs only to open a normal-looking issue on a public repository, with no stolen credentials and no access to the organization. If that organization has given the agent read access across its repositories, private ones",
+    "analysis": {
+      "issue": "The issue affects GitHub Agentic Workflows setups that read public input, hold private repo access, and can post output publicly",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Court Filing Reveals Windows Device ID Helped FBI Trace Alleged Scattered Spider Hacker",
     "link": "https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html",
     "published": "Tue, 07 Jul 2026 18:57:20 +0530",
@@ -111,78 +183,41 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations",
-    "link": "https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html",
-    "published": "Tue, 07 Jul 2026 00:04:26 +0530",
-    "summary": "An Iranian hacking group affiliated with Iran's Ministry of Intelligence and Security (MOIS) has been wielding a previously undocumented modular command-and-control (C2) framework dubbed Cavern (aka Cav3rn) targeting Israeli organizations.\n\nThe activity, which has primarily singled out IT providers and government sectors, has been attributed to a threat cluster tracked by Check Point Research",
+    "source": "Bleeping Computer",
+    "title": "Hidden backdoor in Tenda router firmware grants admin access",
+    "link": "https://www.bleepingcomputer.com/news/security/hidden-backdoor-in-tenda-router-firmware-grants-admin-access/",
+    "published": "Tue, 07 Jul 2026 13:27:22 -0400",
+    "summary": "A hidden authentication backdoor has been found in multiple Tenda router firmware versions, potentially allowing an attacker to gain administrative access to the device's web management panel. [...]",
     "analysis": {
-      "issue": "Cavern agents were observed in the wild using DLL sideloading, NativeAOT modules, AppDomain unloading, and low VirusTotal detection rates",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems",
-    "link": "https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html",
-    "published": "Mon, 06 Jul 2026 23:07:01 +0530",
-    "summary": "A use-after-free bug in Linux's KVM hypervisor can be triggered from a guest virtual machine to corrupt the shadow-page state of the host kernel that runs it.\n\nDubbed 'Januscape' and tracked as&nbsp;CVE-2026-53359, the flaw sits in the shadow MMU code that KVM shares across both Intel and AMD. The public proof-of-concept panics the host; the researcher claims that a separate, unreleased exploit",
-    "analysis": {
-      "issue": "Januscape abuses KVM shadow MMU page reuse to panic x86 hosts, with Kim reporting a controlled full escape exploit behind the unreleased path",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure",
-    "link": "https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html",
-    "published": "Mon, 06 Jul 2026 21:58:59 +0530",
-    "summary": "Threat actors have been observed attempting to exploit a recently patched critical security flaw in Gitea Docker images, according to Sysdig.\n\nThe vulnerability in question is CVE-2026-20896 (CVSS score: 9.8), a vulnerability that stems from the DevOps platform trusting the \"X-WEBAUTH-USER\" header from any source IP address, effectively allowing an unauthenticated internet client to get elevated",
-    "analysis": {
-      "issue": "CVE-2026-20896 lets reachable Gitea Docker containers trust spoofed X-WEBAUTH-USER headers when reverse proxy auth is enabled",
+      "issue": "A hidden authentication backdoor has been found in multiple Tenda router firmware versions, potentially allowing an attacker to gain administrative access to the device's web management panel",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-20896"
+        "CVE-2026-11405"
       ],
       "threat_categories": [
-        "Vulnerability"
+        "Vulnerability",
+        "Malware"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "⚡ Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More",
-    "link": "https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html",
-    "published": "Mon, 06 Jul 2026 18:31:14 +0530",
-    "summary": "A streaming box should not need a threat model. Neither should a username field, a demo repo, a reset flow, or a browser permission prompt. That is the irritating part this week: the risky pieces were ordinary.\n\nHome devices became a routing cover. Clean code pulled dirt from a dependency. Identity shortcuts aged badly. AI systems trusted the wrong instructions. Same soft spot throughout: trust",
+    "source": "Bleeping Computer",
+    "title": "Spain arrests suspected member of pro-Russian hacktivist groups",
+    "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-member-of-pro-russian-hacktivist-groups/",
+    "published": "Tue, 07 Jul 2026 11:21:21 -0400",
+    "summary": "The National Police in Spain have arrested a man who is suspected of being an active member of the CyberArmy of Russia Reborn (CARR) and Z-Pentest, both pro-Russian hacktivist groups. [...]",
     "analysis": {
-      "issue": "Monday recap covers proxy botnets, fake PoC malware, browser ransomware research, AI agent risks, phishing tricks, and urgent CVEs",
+      "issue": "Spain's National Police have arrested a man who is suspected of being an active member of the CyberArmy of Russia Reborn (CARR) and Z-Pentest, both pro-Russian hacktivist groups",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "High",
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "Ransomware",
-        "Malware",
-        "Phishing"
+        "APT"
       ]
     }
   },
@@ -274,10 +309,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-40140",
         "CVE-2026-40141",
         "CVE-2026-40139",
-        "CVE-2026-40138",
-        "CVE-2026-40140"
+        "CVE-2026-40138"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -336,42 +371,6 @@
       "threat_categories": [
         "Malware",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Vietnam arrests suspects behind HiAnime anime piracy service",
-    "link": "https://www.bleepingcomputer.com/news/security/vietnam-arrests-suspects-behind-hianime-anime-piracy-service/",
-    "published": "Mon, 06 Jul 2026 14:25:06 -0400",
-    "summary": "​Vietnamese authorities have arrested and are prosecuting seven suspects believed to have run HiAnime, the largest anime piracy streaming service before its shutdown in June. [...]",
-    "analysis": {
-      "issue": "​Vietnamese authorities have arrested and are prosecuting seven suspects believed to have run HiAnime, the largest anime piracy streaming service before its shutdown in June",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Software Is Now Written at the Speed of Thought. Security Isn't.",
-    "link": "https://www.bleepingcomputer.com/news/security/software-is-now-written-at-the-speed-of-thought-security-isnt/",
-    "published": "Mon, 06 Jul 2026 10:00:10 -0400",
-    "summary": "Every evolution in software development has reduced the friction between an idea and a deployable application. AI may remove the final barrier, but it also removes many of the moments where security decisions have traditionally taken place. [...]",
-    "analysis": {
-      "issue": "Haber, Chief Security Advisor, BeyondTrust Every major evolution in software development has reduced the friction between an idea and a deployable solution",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "APT"
       ]
     }
   },
@@ -569,6 +568,45 @@
   },
   {
     "source": "Security Week",
+    "title": "County Government Reportedly Paid $1 Million to Cyber Extortion Group",
+    "link": "https://www.securityweek.com/county-government-reportedly-paid-1-million-to-cyber-extortion-group/",
+    "published": "Tue, 07 Jul 2026 17:31:54 +0000",
+    "summary": "<p>The alleged victim, believed to be a small Ohio county, reportedly paid the extortion group to prevent the public release of sensitive stolen data.</p>\n<p>The post <a href=\"https://www.securityweek.com/county-government-reportedly-paid-1-million-to-cyber-extortion-group/\">County Government Reportedly Paid $1 Million to Cyber Extortion Group</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The alleged victim, believed to be a small Ohio county, reportedly paid the extortion group to prevent the public release of sensitive stolen data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Critical Gitea Flaw Under Active Exploitation, Researchers Warn",
+    "link": "https://www.securityweek.com/critical-gitea-flaw-under-active-exploitation-researchers-warn/",
+    "published": "Tue, 07 Jul 2026 17:17:19 +0000",
+    "summary": "<p>Attackers are exploiting the critical Gitea vulnerability CVE-2026-20896 to bypass authentication with a single HTTP header and access vulnerable repositories and secrets.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-gitea-flaw-under-active-exploitation-researchers-warn/\">Critical Gitea Flaw Under Active Exploitation, Researchers Warn</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Attackers are exploiting the critical Gitea vulnerability CVE-2026-20896 to bypass authentication with a single HTTP header and access vulnerable repositories and secrets",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-20896"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "CISA Reportedly Using Anthropic’s Mythos to Scan Government Software for Flaws",
     "link": "https://www.securityweek.com/cisa-reportedly-using-anthropics-mythos-to-scan-government-software-for-flaws/",
     "published": "Tue, 07 Jul 2026 13:13:02 +0000",
@@ -720,46 +758,6 @@
       "threat_categories": [
         "Ransomware",
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Armored Likho APT Targeting Government, Electric Power Entities",
-    "link": "https://www.securityweek.com/armored-likho-apt-targeting-government-electric-power-entities/",
-    "published": "Mon, 06 Jul 2026 15:10:39 +0000",
-    "summary": "<p>The threat actor uses modular RATs and information stealers in financially motivated and cyber espionage campaigns.</p>\n<p>The post <a href=\"https://www.securityweek.com/armored-likho-apt-targeting-government-electric-power-entities/\">Armored Likho APT Targeting Government, Electric Power Entities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The threat actor uses modular RATs and information stealers in financially motivated and cyber espionage campaigns",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Malware",
-        "Phishing",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "North Korean Hackers Target Open Source Developers in Supply Chain Attacks",
-    "link": "https://www.securityweek.com/north-korean-hackers-target-open-source-developers-in-supply-chain-attacks/",
-    "published": "Mon, 06 Jul 2026 13:11:16 +0000",
-    "summary": "<p>The PolinRider campaign has compromised more than 100 legitimate open source packages and repositories to deliver a backdoor and information stealer to developers.</p>\n<p>The post <a href=\"https://www.securityweek.com/north-korean-hackers-target-open-source-developers-in-supply-chain-attacks/\">North Korean Hackers Target Open Source Developers in Supply Chain Attacks </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The PolinRider campaign has compromised more than 100 legitimate open source packages and repositories to deliver a backdoor and information stealer to developers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Supply Chain"
       ]
     }
   },
@@ -943,15 +941,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-47289",
-        "CVE-2026-48563",
         "CVE-2026-44803",
         "CVE-2026-44799",
+        "CVE-2026-42985",
+        "CVE-2026-47289",
         "CVE-2026-47291",
+        "CVE-2026-48563",
         "CVE-2026-42992",
         "CVE-2026-44801",
-        "CVE-2026-44812",
-        "CVE-2026-42985"
+        "CVE-2026-44812"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1305,8 +1303,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1331,6 +1329,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "How the Reddit and Discord false report scam steals accounts",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/07/how-the-reddit-and-discord-false-report-scam-steals-accounts",
+    "published": "Tue, 07 Jul 2026 17:45:35 GMT",
+    "summary": "Scammers are tricking Reddit and Discord users into handing over login codes by claiming they were involved in a false report.",
+    "analysis": {
+      "issue": "A stranger messages you on Reddit",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
       ]
     }
   },
@@ -1500,20 +1516,20 @@
     }
   },
   {
-    "source": "Malwarebytes",
-    "title": "Fake Google and Cloudflare verification pages spread multiple malware families",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/07/fake-google-and-cloudflare-verification-pages-spread-multiple-malware-families",
-    "published": "Thu, 02 Jul 2026 16:05:08 GMT",
-    "summary": "We uncovered ClickFix attacks using fake Google and Cloudflare pages to deliver everything from infostealers to a newly discovered malware loader.",
+    "source": "Crowdstrike Blog",
+    "title": "CrowdStrike Uncovers New Prompt Injection Techniques",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-prompt-injection-techniques/",
+    "published": "Jul 07, 2026 00:00:00-0500",
+    "summary": "",
     "analysis": {
-      "issue": "Updated July 6 to add connections with SyncTDS and TrafficTDS  ClickFix attacks, which trick people into running malicious commands themselves, continue to evolve",
+      "issue": "CrowdStrike expands its prompt injection taxonomy to 200+ techniques, revealing new AI attack methods to help security teams defend AI agents and LLMs",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "General Security"
       ]
     }
   },
@@ -1677,24 +1693,6 @@
       "threat_categories": [
         "Vulnerability",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Announces Continuous Identity for AI Agents",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-announces-continuous-identity-for-ai-agents/",
-    "published": "Jun 15, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "Innovations bring CI to AI agents, extend modern privilege access, and unify identity intel across all identities",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   }
