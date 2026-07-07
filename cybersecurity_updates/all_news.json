@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations",
+    "link": "https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html",
+    "published": "Tue, 07 Jul 2026 00:04:26 +0530",
+    "summary": "An Iranian hacking group affiliated with Iran's Ministry of Intelligence and Security (MOIS) has been wielding a previously undocumented modular command-and-control (C2) framework dubbed Cavern (aka Cav3rn) targeting Israeli organizations.\n\nThe activity, which has primarily singled out IT providers and government sectors, has been attributed to a threat cluster tracked by Check Point Research",
+    "analysis": {
+      "issue": "Cavern agents were observed in the wild using DLL sideloading, NativeAOT modules, AppDomain unloading, and low VirusTotal detection rates",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems",
     "link": "https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html",
     "published": "Mon, 06 Jul 2026 23:07:01 +0530",
@@ -166,20 +184,39 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case",
-    "link": "https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html",
-    "published": "Sat, 04 Jul 2026 18:17:53 +0530",
-    "summary": "A U.S. government entity paid about $1 million to keep stolen files from being leaked, according to a new&nbsp;case study by Rakesh Krishnan for Ransom-ISAC, built on a leaked negotiation chat and the blockchain trail the payment left.\n\nThe odd part: the group that took the money calls itself Kairos, but it may not be a ransomware gang at all. Krishnan found no sign that it ever locked a single",
+    "source": "Bleeping Computer",
+    "title": "Phishing poses as big-brand job interview to steal Google accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/phishing-poses-as-big-brand-job-interview-to-steal-google-accounts/",
+    "published": "Mon, 06 Jul 2026 16:27:37 -0400",
+    "summary": "A phishing campaign is impersonating more than 30 well-known brands, including Adobe, Netflix, Coca-Cola, and OpenAI, in fake job interviews to steal Google account credentials from marketing professionals. [...]",
     "analysis": {
-      "issue": "The case study found no encryptor or locked machines, only stolen files used as leverage in a month-long negotiation ending June 13, 2025",
+      "issue": "A phishing campaign is impersonating more than 30 well-known brands, including Adobe, Netflix, Coca-Cola, and OpenAI, in fake job interviews to steal Google account credentials from marketing professionals",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Fake IT support calls on Microsoft Teams push EtherRAT malware",
+    "link": "https://www.bleepingcomputer.com/news/security/fake-it-support-calls-on-microsoft-teams-push-etherrat-malware/",
+    "published": "Mon, 06 Jul 2026 16:23:45 -0400",
+    "summary": "Threat actors are abusing Microsoft Teams voice calls by impersonating corporate IT support staff to trick employees into installing the EtherRAT malware, giving attackers initial access to corporate networks. [...]",
+    "analysis": {
+      "issue": "Threat actors are abusing Microsoft Teams voice calls by impersonating corporate IT support staff to trick employees into installing the EtherRAT malware, giving attackers initial access to corporate networks",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Malware",
+        "Phishing"
       ]
     }
   },
@@ -335,42 +372,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Claude Fable relaunch disappoints users with nerfed performance",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/",
-    "published": "Thu, 02 Jul 2026 20:48:30 -0400",
-    "summary": "Claude Fable, the company's most powerful model, is now available to all users, but early impressions are disappointing, as it appears to be nowhere near the original release. [...]",
-    "analysis": {
-      "issue": "Claude Fable, the company's most powerful model, is now available to all users, but early impressions are disappointing, as it appears to be nowhere near the original release",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Google loses final appeal to overturn €4.1 billion EU fine",
-    "link": "https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/",
-    "published": "Thu, 02 Jul 2026 11:18:51 -0400",
-    "summary": "Court of Justice of the European Union (CJEU) has dismissed Google's final appeal against a €4.1 billion ($4.7 billion) antitrust fine over the company's use of Android to promote its Chrome browser and search service. [...]",
-    "analysis": {
-      "issue": "Court of Justice of the European Union (CJEU) has dismissed Google's final appeal against a €4",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
     "link": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
@@ -492,28 +493,96 @@
     "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
     "link": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
     "published": "Mon, 25 May 2026 13:21:49 +0000",
-    "summary": "Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to carry out cyberattacks, influence operations and disinformation campaigns inside the European Union. The two men were the focus of a 2025 KrebsOnSecurity story about how their hosting companies had assumed control over the technical infrastructure of Stark Industries Solutions, an Internet service provider sanctioned last year by the EU as a frequent staging ground for cyber mischief from Russia's intelligence agencies."
+    "summary": "Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to carry out cyberattacks, influence operations and disinformation campaigns inside the European Union. The two men were the focus of a 2025 KrebsOnSecurity story about how their hosting companies had assumed control over the technical infrastructure of Stark Industries Solutions, an Internet service provider sanctioned last year by the EU as a frequent staging ground for cyber mischief from Russia's intelligence agencies.",
+    "analysis": {
+      "issue": "Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to carry out cyberattacks, influence operations and disinformation campaigns inside the European Union",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "APT",
+        "DDoS"
+      ]
+    }
   },
   {
     "source": "Krebs On Security",
     "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
     "link": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
     "published": "Fri, 22 May 2026 16:34:24 +0000",
-    "summary": "Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity &#038; Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account. The inquiry comes as CISA is still struggling to contain the breach and invalidate the leaked credentials."
+    "summary": "Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity &#038; Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account. The inquiry comes as CISA is still struggling to contain the breach and invalidate the leaked credentials.",
+    "analysis": {
+      "issue": "Lawmakers in both houses of Congress are demanding answers from the U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
   },
   {
     "source": "Krebs On Security",
     "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
     "link": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
     "published": "Thu, 21 May 2026 21:50:25 +0000",
-    "summary": "Canadian authorities on Wednesday arrested a 23-year-old Ottawa man on suspicion of building and operating Kimwolf, a fast spreading Internet-of-Things botnet that enslaved millions of devices for use in a series of massive distributed denial-of-service (DDoS) attacks over the past six months. KrebsOnSecurity publicly named the suspect in February 2026 after the accused launched a volley of DDoS, doxing and swatting campaigns against this author and a security researcher. He now faces criminal hacking charges in both Canada and the United States."
+    "summary": "Canadian authorities on Wednesday arrested a 23-year-old Ottawa man on suspicion of building and operating Kimwolf, a fast spreading Internet-of-Things botnet that enslaved millions of devices for use in a series of massive distributed denial-of-service (DDoS) attacks over the past six months. KrebsOnSecurity publicly named the suspect in February 2026 after the accused launched a volley of DDoS, doxing and swatting campaigns against this author and a security researcher. He now faces criminal hacking charges in both Canada and the United States.",
+    "analysis": {
+      "issue": "Canadian authorities on Wednesday arrested a 23-year-old Ottawa man on suspicion of building and operating Kimwolf, a fast spreading Internet-of-Things botnet that enslaved millions of devices for use in a series of massive distributed denial-of-serv",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "DDoS"
+      ]
+    }
   },
   {
     "source": "Krebs On Security",
     "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
     "link": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
     "published": "Mon, 18 May 2026 20:48:21 +0000",
-    "summary": "Until this past weekend, a contractor for the Cybersecurity &#038; Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA systems. Security experts said the public archive included files detailing how CISA builds, tests and deploys software internally, and that it represents one of the most egregious government data leaks in recent history."
+    "summary": "Until this past weekend, a contractor for the Cybersecurity &#038; Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA systems. Security experts said the public archive included files detailing how CISA builds, tests and deploys software internally, and that it represents one of the most egregious government data leaks in recent history.",
+    "analysis": {
+      "issue": "Until this past weekend, a contractor for the Cybersecurity & Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA ",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Blogspot-Hosted Payloads Delivered in ‘Veil#Drop’ Attacks",
+    "link": "https://www.securityweek.com/blogspot-hosted-payloads-delivered-in-veildrop-attacks/",
+    "published": "Mon, 06 Jul 2026 19:14:08 +0000",
+    "summary": "<p>Securonix says the sophisticated framework abuses compromised websites, Blogspot, PowerShell, and fileless techniques to evade detection and deploy the PureLog information stealer.</p>\n<p>The post <a href=\"https://www.securityweek.com/blogspot-hosted-payloads-delivered-in-veildrop-attacks/\">Blogspot-Hosted Payloads Delivered in &#8216;Veil#Drop&#8217; Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Securonix says the sophisticated framework abuses compromised websites, Blogspot, PowerShell, and fileless techniques to evade detection and deploy the PureLog information stealer",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "Malware",
+        "Phishing"
+      ]
+    }
   },
   {
     "source": "Security Week",
@@ -698,26 +767,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Google, FBI Disrupt NetNut Residential Proxy Network Powered by Millions of Devices",
-    "link": "https://www.securityweek.com/google-fbi-disrupt-netnut-residential-proxy-network-powered-by-millions-of-devices/",
-    "published": "Fri, 03 Jul 2026 08:13:22 +0000",
-    "summary": "<p>NetNut rented access to millions of compromised devices, allowing cybercriminals and nation-state actors to mask their identities during attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-fbi-disrupt-netnut-residential-proxy-network-powered-by-millions-of-devices/\">Google, FBI Disrupt NetNut Residential Proxy Network Powered by Millions of Devices</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "NetNut rented access to millions of compromised devices, allowing cybercriminals and nation-state actors to mask their identities during attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "APT",
-        "DDoS"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Catan and Mouse",
     "link": "https://blog.talosintelligence.com/catan-and-mouse/",
@@ -875,15 +924,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-48563",
-        "CVE-2026-47289",
-        "CVE-2026-44803",
-        "CVE-2026-44812",
-        "CVE-2026-42985",
         "CVE-2026-44801",
-        "CVE-2026-42992",
+        "CVE-2026-44812",
+        "CVE-2026-47291",
+        "CVE-2026-48563",
         "CVE-2026-44799",
-        "CVE-2026-47291"
+        "CVE-2026-42985",
+        "CVE-2026-47289",
+        "CVE-2026-42992",
+        "CVE-2026-44803"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1425,8 +1474,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-14191",
-        "CVE-2023-40477"
+        "CVE-2023-40477",
+        "CVE-2026-14191"
       ],
       "threat_categories": [
         "Vulnerability",
