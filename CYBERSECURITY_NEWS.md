@@ -1,10 +1,38 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-08 03:54:31 UTC
+**Last Updated:** 2026-07-08 10:36:04 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service](https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html)
+### 1. [China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware](https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 08 Jul 2026 14:34:33 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 2. [15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros](https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 08 Jul 2026 11:46:44 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-43499  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV](https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 08 Jul 2026 11:03:12 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 4. [RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service](https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 07 Jul 2026 22:40:15 +0530  
@@ -13,7 +41,7 @@
 
 ---
 
-### 2. [Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots](https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html)
+### 5. [Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots](https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 07 Jul 2026 22:07:33 +0530  
@@ -22,7 +50,7 @@
 
 ---
 
-### 3. [DEBULL Tooling Abuses Microsoft Device-Code Flow to Target M365 Accounts](https://thehackernews.com/2026/07/debull-tooling-abuses-microsoft-device.html)
+### 6. [DEBULL Tooling Abuses Microsoft Device-Code Flow to Target M365 Accounts](https://thehackernews.com/2026/07/debull-tooling-abuses-microsoft-device.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 07 Jul 2026 20:44:14 +0530  
@@ -31,7 +59,7 @@
 
 ---
 
-### 4. [Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data](https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html)
+### 7. [Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data](https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 07 Jul 2026 19:34:50 +0530  
@@ -40,7 +68,7 @@
 
 ---
 
-### 5. [Court Filing Reveals Windows Device ID Helped FBI Trace Alleged Scattered Spider Hacker](https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html)
+### 8. [Court Filing Reveals Windows Device ID Helped FBI Trace Alleged Scattered Spider Hacker](https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 07 Jul 2026 18:57:20 +0530  
@@ -49,7 +77,7 @@
 
 ---
 
-### 6. [Writer AI Flaw Could Let Agent Previews Leak Session Tokens Across Tenants](https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html)
+### 9. [Writer AI Flaw Could Let Agent Previews Leak Session Tokens Across Tenants](https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 07 Jul 2026 18:57:09 +0530  
@@ -58,7 +86,7 @@
 
 ---
 
-### 7. [What Changes When Your Software Supply Chain Includes AI Writing Your Code?](https://thehackernews.com/2026/07/what-changes-when-your-software-supply.html)
+### 10. [What Changes When Your Software Supply Chain Includes AI Writing Your Code?](https://thehackernews.com/2026/07/what-changes-when-your-software-supply.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 07 Jul 2026 17:00:00 +0530  
@@ -67,35 +95,37 @@
 
 ---
 
-### 8. [Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities](https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html)
+### 11. [CISA orders feds to prioritize patching Langflow auth bypass flaw](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 07 Jul 2026 14:40:51 +0530  
+**Source:** Bleeping Computer  
+**Published:** Wed, 08 Jul 2026 05:58:11 -0400  
 **Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 9. [CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware](https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 07 Jul 2026 12:10:47 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-11405  
+**CVEs:** CVE-2026-55255  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 10. [BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA](https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html)
+### 12. [Ubiquiti warns of new max severity  UniFi OS vulnerability](https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 07 Jul 2026 10:46:51 +0530  
-**Severity:** Low  
-**Categories:** General Security  
+**Source:** Bleeping Computer  
+**Published:** Wed, 08 Jul 2026 04:15:20 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-55116, CVE-2026-54402, CVE-2026-50746, CVE-2026-55115, CVE-2026-54400, CVE-2026-50747, CVE-2026-50748  
+**Categories:** Vulnerability  
 
 ---
 
-### 11. [Accenture confirms breach after hacker offers stolen data for sale](https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/)
+### 13. [CISA orders feds to patch max severity ColdFusion flaw by Friday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-coldfusion-flaw-by-friday/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 08 Jul 2026 03:16:55 -0400  
+**Severity:** High  
+**CVEs:** CVE-2026-48282  
+**Categories:** Vulnerability  
+
+---
+
+### 14. [Accenture confirms breach after hacker offers stolen data for sale](https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 07 Jul 2026 18:06:07 -0400  
@@ -104,17 +134,17 @@
 
 ---
 
-### 12. [Chinese hackers develop LONGLEASH malware to expand ORB network](https://www.bleepingcomputer.com/news/security/chinese-hackers-develop-longleash-malware-to-expand-orb-network/)
+### 15. [Chinese hackers develop LONGLEASH malware to expand ORB network](https://www.bleepingcomputer.com/news/security/chinese-hackers-develop-longleash-malware-to-expand-orb-network/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 07 Jul 2026 14:52:19 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2020-22653, CVE-2025-2492, CVE-2020-22658, CVE-2023-25717  
+**CVEs:** CVE-2025-2492, CVE-2020-22653, CVE-2020-22658, CVE-2023-25717  
 **Categories:** Vulnerability, Malware, APT  
 
 ---
 
-### 13. [Hidden backdoor in Tenda router firmware grants admin access](https://www.bleepingcomputer.com/news/security/hidden-backdoor-in-tenda-router-firmware-grants-admin-access/)
+### 16. [Hidden backdoor in Tenda router firmware grants admin access](https://www.bleepingcomputer.com/news/security/hidden-backdoor-in-tenda-router-firmware-grants-admin-access/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 07 Jul 2026 13:27:22 -0400  
@@ -124,7 +154,7 @@
 
 ---
 
-### 14. [Spain arrests suspected member of pro-Russian hacktivist groups](https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-member-of-pro-russian-hacktivist-groups/)
+### 17. [Spain arrests suspected member of pro-Russian hacktivist groups](https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-member-of-pro-russian-hacktivist-groups/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 07 Jul 2026 11:21:21 -0400  
@@ -133,7 +163,7 @@
 
 ---
 
-### 15. [The GitHub Actions Attack Pattern Your CI Security Scanners Miss](https://www.bleepingcomputer.com/news/security/the-github-actions-attack-pattern-your-ci-security-scanners-miss/)
+### 18. [The GitHub Actions Attack Pattern Your CI Security Scanners Miss](https://www.bleepingcomputer.com/news/security/the-github-actions-attack-pattern-your-ci-security-scanners-miss/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 07 Jul 2026 10:01:11 -0400  
@@ -142,7 +172,7 @@
 
 ---
 
-### 16. [Webinar tomorrow: Why modern email attacks require a new approach to defense](https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-modern-email-attacks-require-a-new-approach-to-defense/)
+### 19. [Webinar tomorrow: Why modern email attacks require a new approach to defense](https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-modern-email-attacks-require-a-new-approach-to-defense/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 07 Jul 2026 08:12:20 -0400  
@@ -151,41 +181,13 @@
 
 ---
 
-### 17. [New Januscape Linux flaw allows VM escape on Intel, AMD devices](https://www.bleepingcomputer.com/news/linux/new-januscape-linux-kernel-flaw-allows-vm-escape-on-intel-amd-devices/)
+### 20. [New Januscape Linux flaw allows VM escape on Intel, AMD devices](https://www.bleepingcomputer.com/news/linux/new-januscape-linux-kernel-flaw-allows-vm-escape-on-intel-amd-devices/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 07 Jul 2026 08:06:09 -0400  
 **Severity:** Critical  
 **CVEs:** CVE-2026-53359  
 **Categories:** Vulnerability  
-
----
-
-### 18. [Microsoft to enable Windows settings backup by default for orgs](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-windows-backup-for-organizations-by-default/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 07 Jul 2026 05:41:19 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 19. [BeyondTrust warns of critical flaws in remote access software](https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 07 Jul 2026 04:12:10 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-40141, CVE-2026-40140, CVE-2026-40139, CVE-2026-40138  
-**Categories:** Vulnerability  
-
----
-
-### 20. [Microsoft testing new Cloud Rebuild Windows 11 recovery feature](https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-cloud-rebuild-windows-11-recovery-feature/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 07 Jul 2026 03:37:38 -0400  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -230,7 +232,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-45586, CVE-2026-49160, CVE-2026-50507  
+**CVEs:** CVE-2026-49160, CVE-2026-50507, CVE-2026-45586  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -280,7 +282,16 @@
 
 ---
 
-### 31. [County Government Reportedly Paid $1 Million to Cyber Extortion Group](https://www.securityweek.com/county-government-reportedly-paid-1-million-to-cyber-extortion-group/)
+### 31. [Critical Vulnerability Exposes GitHub Agentic Workflows to Prompt Injection](https://www.securityweek.com/critical-vulnerability-exposes-github-agentic-workflows-to-prompt-injection/)
+
+**Source:** Security Week  
+**Published:** Wed, 08 Jul 2026 10:30:55 +0000  
+**Severity:** Critical  
+**Categories:** Ransomware, Vulnerability  
+
+---
+
+### 32. [County Government Reportedly Paid $1 Million to Cyber Extortion Group](https://www.securityweek.com/county-government-reportedly-paid-1-million-to-cyber-extortion-group/)
 
 **Source:** Security Week  
 **Published:** Tue, 07 Jul 2026 17:31:54 +0000  
@@ -289,7 +300,7 @@
 
 ---
 
-### 32. [Critical Gitea Flaw Under Active Exploitation, Researchers Warn](https://www.securityweek.com/critical-gitea-flaw-under-active-exploitation-researchers-warn/)
+### 33. [Critical Gitea Flaw Under Active Exploitation, Researchers Warn](https://www.securityweek.com/critical-gitea-flaw-under-active-exploitation-researchers-warn/)
 
 **Source:** Security Week  
 **Published:** Tue, 07 Jul 2026 17:17:19 +0000  
@@ -299,7 +310,7 @@
 
 ---
 
-### 33. [CISA Reportedly Using Anthropic’s Mythos to Scan Government Software for Flaws](https://www.securityweek.com/cisa-reportedly-using-anthropics-mythos-to-scan-government-software-for-flaws/)
+### 34. [CISA Reportedly Using Anthropic’s Mythos to Scan Government Software for Flaws](https://www.securityweek.com/cisa-reportedly-using-anthropics-mythos-to-scan-government-software-for-flaws/)
 
 **Source:** Security Week  
 **Published:** Tue, 07 Jul 2026 13:13:02 +0000  
@@ -308,7 +319,7 @@
 
 ---
 
-### 34. [Critical Adobe ColdFusion Vulnerability Exploited in Attacks](https://www.securityweek.com/critical-adobe-coldfusion-vulnerability-exploited-in-attacks/)
+### 35. [Critical Adobe ColdFusion Vulnerability Exploited in Attacks](https://www.securityweek.com/critical-adobe-coldfusion-vulnerability-exploited-in-attacks/)
 
 **Source:** Security Week  
 **Published:** Tue, 07 Jul 2026 12:38:34 +0000  
@@ -318,7 +329,7 @@
 
 ---
 
-### 35. [Iran-Linked Hackers Using Modular C&C Framework in Cyberattacks](https://www.securityweek.com/iran-linked-hackers-using-modular-cc-framework-in-cyberattacks/)
+### 36. [Iran-Linked Hackers Using Modular C&C Framework in Cyberattacks](https://www.securityweek.com/iran-linked-hackers-using-modular-cc-framework-in-cyberattacks/)
 
 **Source:** Security Week  
 **Published:** Tue, 07 Jul 2026 12:21:56 +0000  
@@ -327,7 +338,7 @@
 
 ---
 
-### 36. [CISO Conversations: Tarah Wheeler, Cybersecurity Leader, Thought Leader and Original Thinker](https://www.securityweek.com/ciso-conversations-tarah-wheeler-cybersecurity-leader-thought-leader-and-original-thinker/)
+### 37. [CISO Conversations: Tarah Wheeler, Cybersecurity Leader, Thought Leader and Original Thinker](https://www.securityweek.com/ciso-conversations-tarah-wheeler-cybersecurity-leader-thought-leader-and-original-thinker/)
 
 **Source:** Security Week  
 **Published:** Tue, 07 Jul 2026 12:00:00 +0000  
@@ -336,7 +347,7 @@
 
 ---
 
-### 37. [Linux Kernel Vulnerability Allows VM Escape on Intel and AMD Systems](https://www.securityweek.com/linux-kernel-vulnerability-allows-vm-escape-on-intel-and-amd-systems/)
+### 38. [Linux Kernel Vulnerability Allows VM Escape on Intel and AMD Systems](https://www.securityweek.com/linux-kernel-vulnerability-allows-vm-escape-on-intel-and-amd-systems/)
 
 **Source:** Security Week  
 **Published:** Tue, 07 Jul 2026 10:00:00 +0000  
@@ -346,7 +357,7 @@
 
 ---
 
-### 38. [Keyfactor Scores $1 Billion+ Investment for AI, Post-Quantum Security](https://www.securityweek.com/keyfactor-scores-1-billion-investment-for-ai-post-quantum-security/)
+### 39. [Keyfactor Scores $1 Billion+ Investment for AI, Post-Quantum Security](https://www.securityweek.com/keyfactor-scores-1-billion-investment-for-ai-post-quantum-security/)
 
 **Source:** Security Week  
 **Published:** Tue, 07 Jul 2026 09:30:00 +0000  
@@ -355,21 +366,12 @@
 
 ---
 
-### 39. [Blogspot-Hosted Payloads Delivered in ‘Veil#Drop’ Attacks](https://www.securityweek.com/blogspot-hosted-payloads-delivered-in-veildrop-attacks/)
+### 40. [Blogspot-Hosted Payloads Delivered in ‘Veil#Drop’ Attacks](https://www.securityweek.com/blogspot-hosted-payloads-delivered-in-veildrop-attacks/)
 
 **Source:** Security Week  
 **Published:** Mon, 06 Jul 2026 19:14:08 +0000  
 **Severity:** Critical  
 **Categories:** Ransomware, Vulnerability, Malware, Phishing  
-
----
-
-### 40. [The Shift Toward Business-Aligned Risk Management](https://www.securityweek.com/the-shift-toward-business-aligned-risk-management/)
-
-**Source:** Security Week  
-**Published:** Mon, 06 Jul 2026 15:20:42 +0000  
-**Severity:** Critical  
-**Categories:** Ransomware, Vulnerability  
 
 ---
 
@@ -460,7 +462,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-44799, CVE-2026-47289, CVE-2026-42985, CVE-2026-44803, CVE-2026-42992, CVE-2026-44801, CVE-2026-47291, CVE-2026-48563, CVE-2026-44812  
+**CVEs:** CVE-2026-42992, CVE-2026-47289, CVE-2026-47291, CVE-2026-42985, CVE-2026-44801, CVE-2026-44799, CVE-2026-48563, CVE-2026-44803, CVE-2026-44812  
 **Categories:** Vulnerability  
 
 ---

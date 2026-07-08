@@ -1,6 +1,62 @@
 [
   {
     "source": "The Hacker News",
+    "title": "China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware",
+    "link": "https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html",
+    "published": "Wed, 08 Jul 2026 14:34:33 +0530",
+    "summary": "A Chinese threat actor tracked as UAT-7810 is actively refining its bespoke malware to expand its Operational Relay Box (ORB) network by breaking into internet-facing networking devices.\n\nAccording to findings from Cisco Talos, UAT-7810 is an advanced persistent threat (APT) actor that's responsible for maintaining and proliferating LapDogs, an ORB network that first came to light in June 2025.",
+    "analysis": {
+      "issue": "Cisco Talos says UAT-7810 is refining LONGLEASH, DOGLEASH, and JARLEASH to expand the LapDogs ORB network",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros",
+    "link": "https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html",
+    "published": "Wed, 08 Jul 2026 11:46:44 +0530",
+    "summary": "Researchers at&nbsp;Nebula Security&nbsp;have disclosed GhostLock (CVE-2026-43499), a 15-year-old Linux kernel flaw that lets any logged-in user take full&nbsp;root&nbsp;control of a machine that has not been patched.\n\nThe vulnerable code has shipped by default in essentially every mainstream distribution since 2011. The flaw needs no special permission, no unusual settings, and no network",
+    "analysis": {
+      "issue": "GhostLock (CVE-2026-43499), a 15-year-old use-after-free in Linux's futex code, gives any local user root",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-43499"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV",
+    "link": "https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html",
+    "published": "Wed, 08 Jul 2026 11:03:12 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nThe vulnerabilities are listed below -\n\n\n  CVE-2026-48282 (CVSS score: 10.0) - A path traversal vulnerability in Adobe ColdFusion that could lead to arbitrary code execution in the context of the",
+    "analysis": {
+      "issue": "CISA added four exploited flaws to KEV, covering Adobe ColdFusion, Joomla page builders, and Langflow ahead of July 10 fixes",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service",
     "link": "https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html",
     "published": "Tue, 07 Jul 2026 22:40:15 +0530",
@@ -126,37 +182,19 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities",
-    "link": "https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html",
-    "published": "Tue, 07 Jul 2026 14:40:51 +0530",
-    "summary": "A suspected China-aligned threat activity cluster has been observed exploiting Roundcube webmail software belonging to physics and engineering departments of U.S. and Canadian universities as part of a new campaign.\n\nThe activity involves the exploitation of now-patched, critical security flaws in the open-source email solution, such as CVE-2024-42009 (CVSS score: 9.3), to siphon credentials,",
+    "source": "Bleeping Computer",
+    "title": "CISA orders feds to prioritize patching Langflow auth bypass flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/",
+    "published": "Wed, 08 Jul 2026 05:58:11 -0400",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) gave federal agencies until Friday to patch an actively exploited vulnerability in the Langflow visual framework for building AI agents. [...]",
     "analysis": {
-      "issue": "Proofpoint says UNK_MassTraction exploited patched Roundcube flaws to target U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware",
-    "link": "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html",
-    "published": "Tue, 07 Jul 2026 12:10:47 +0530",
-    "summary": "Several versions of firmware released by Chinese network device manufacturer Tenda have been found to embed an undocumented authentication backdoor that enables administrative access to the devices' web management interfaces, the CERT Coordination Center (CERT/CC) warned Monday.\n\n\"An attacker can exploit this vulnerability, tracked as CVE-2026-11405, to bypass the password verification process",
-    "analysis": {
-      "issue": "CVE-2026-11405 affects five Tenda firmware builds and can bypass password checks through an undocumented admin login path in /bin/httpd",
+      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) gave federal agencies until Friday to patch an actively exploited vulnerability in the Langflow visual framework for building AI agents",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-11405"
+        "CVE-2026-55255"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -165,20 +203,48 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA",
-    "link": "https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html",
-    "published": "Tue, 07 Jul 2026 10:46:51 +0530",
-    "summary": "BeyondTrust has released updates to address two critical security flaws affecting Remote Support (RS) and Privileged Remote Access (PRA) products that, if successfully exploited, could allow unauthenticated attackers to take control of susceptible devices.\n\nThe vulnerabilities are listed below -\n\n\n  CVE-2026-40138 (CVSS score: 9.2) - A pre-authentication vulnerability exists in the",
+    "source": "Bleeping Computer",
+    "title": "Ubiquiti warns of new max severity  UniFi OS vulnerability",
+    "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/",
+    "published": "Wed, 08 Jul 2026 04:15:20 -0400",
+    "summary": "Ubiquiti has released security updates to patch seven critical vulnerabilities in UniFi OS, including a maximum-severity flaw that can be exploited in command injection attacks. [...]",
     "analysis": {
-      "issue": "BeyondTrust fixed four RS and PRA flaws, including two pre-auth bugs that could bypass appliance access controls under specific configurations",
+      "issue": "Ubiquiti has released security updates to patch seven critical vulnerabilities in UniFi OS, including a maximum-severity flaw tracked as CVE-2026-50746 that can be exploited in command injection attacks",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-55116",
+        "CVE-2026-54402",
+        "CVE-2026-50746",
+        "CVE-2026-55115",
+        "CVE-2026-54400",
+        "CVE-2026-50747",
+        "CVE-2026-50748"
+      ],
       "threat_categories": [
-        "General Security"
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "CISA orders feds to patch max severity ColdFusion flaw by Friday",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-coldfusion-flaw-by-friday/",
+    "published": "Wed, 08 Jul 2026 03:16:55 -0400",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered government agencies to patch an actively exploited maximum-severity flaw in the Adobe ColdFusion commercial web app development platform by Friday. [...]",
+    "analysis": {
+      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) has ordered government agencies to patch an actively exploited maximum-severity flaw in the Adobe ColdFusion commercial web app development platform by Friday",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2026-48282"
+      ],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -213,8 +279,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2020-22653",
         "CVE-2025-2492",
+        "CVE-2020-22653",
         "CVE-2020-22658",
         "CVE-2023-25717"
       ],
@@ -322,65 +388,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Microsoft to enable Windows settings backup by default for orgs",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-windows-backup-for-organizations-by-default/",
-    "published": "Tue, 07 Jul 2026 05:41:19 -0400",
-    "summary": "Microsoft says the Windows settings backup and restore tool will be enabled by default on Microsoft Entra-joined or Microsoft Entra hybrid-joined enterprise systems after upgrading to Windows 11 26H2. [...]",
-    "analysis": {
-      "issue": "Microsoft says the Windows settings backup and restore tool will be enabled by default on Microsoft Entra-joined or Microsoft Entra hybrid-joined enterprise systems after upgrading to Windows 11 26H2",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "BeyondTrust warns of critical flaws in remote access software",
-    "link": "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/",
-    "published": "Tue, 07 Jul 2026 04:12:10 -0400",
-    "summary": "BeyondTrust warned customers to patch two critical security flaws in its Remote Support (RS) and Privileged Remote Access (PRA) software that could allow attackers to bypass authentication. [...]",
-    "analysis": {
-      "issue": "BeyondTrust warned customers to patch two critical security flaws in its Remote Support (RS) and Privileged Remote Access (PRA) software that could allow attackers to bypass authentication",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-40141",
-        "CVE-2026-40140",
-        "CVE-2026-40139",
-        "CVE-2026-40138"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft testing new Cloud Rebuild Windows 11 recovery feature",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-cloud-rebuild-windows-11-recovery-feature/",
-    "published": "Tue, 07 Jul 2026 03:37:38 -0400",
-    "summary": "Microsoft has begun testing the Cloud Rebuild recovery feature in the latest Windows 11 Insider Preview builds released for users in the Experimental channel. [...]",
-    "analysis": {
-      "issue": "Microsoft has begun testing the Cloud Rebuild recovery feature in the latest Windows 11 Insider Preview builds released for users in the Experimental channel",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
     "link": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
@@ -469,9 +476,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-45586",
         "CVE-2026-49160",
-        "CVE-2026-50507"
+        "CVE-2026-50507",
+        "CVE-2026-45586"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -569,6 +576,25 @@
       "cves": [],
       "threat_categories": [
         "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Critical Vulnerability Exposes GitHub Agentic Workflows to Prompt Injection",
+    "link": "https://www.securityweek.com/critical-vulnerability-exposes-github-agentic-workflows-to-prompt-injection/",
+    "published": "Wed, 08 Jul 2026 10:30:55 +0000",
+    "summary": "<p>Researchers show how attackers can use a crafted public GitHub Issue to trick AI-powered workflows into exposing data from private repositories without authentication.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-vulnerability-exposes-github-agentic-workflows-to-prompt-injection/\">Critical Vulnerability Exposes GitHub Agentic Workflows to Prompt Injection</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Researchers show how attackers can use a crafted public GitHub Issue to trick AI-powered workflows into exposing data from private repositories without authentication",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability"
       ]
     }
   },
@@ -745,25 +771,6 @@
         "Vulnerability",
         "Malware",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "The Shift Toward Business-Aligned Risk Management",
-    "link": "https://www.securityweek.com/the-shift-toward-business-aligned-risk-management/",
-    "published": "Mon, 06 Jul 2026 15:20:42 +0000",
-    "summary": "<p>Moving from isolated, technical data to a continuous risk lifecycle can help organizations align security controls with actual business consequences.</p>\n<p>The post <a href=\"https://www.securityweek.com/the-shift-toward-business-aligned-risk-management/\">The Shift Toward Business-Aligned Risk Management</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Moving from isolated, technical data to a continuous risk lifecycle can help organizations align security controls with actual business consequences",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
       ]
     }
   },
@@ -947,14 +954,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-44799",
-        "CVE-2026-47289",
-        "CVE-2026-42985",
-        "CVE-2026-44803",
         "CVE-2026-42992",
-        "CVE-2026-44801",
+        "CVE-2026-47289",
         "CVE-2026-47291",
+        "CVE-2026-42985",
+        "CVE-2026-44801",
+        "CVE-2026-44799",
         "CVE-2026-48563",
+        "CVE-2026-44803",
         "CVE-2026-44812"
       ],
       "threat_categories": [
