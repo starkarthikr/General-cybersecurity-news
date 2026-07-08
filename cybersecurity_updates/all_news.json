@@ -1,6 +1,60 @@
 [
   {
     "source": "The Hacker News",
+    "title": "AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers",
+    "link": "https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html",
+    "published": "Wed, 08 Jul 2026 22:32:12 +0530",
+    "summary": "Sophos looked at a week of its own endpoint data and found that AI coding agents such as Claude Code, Cursor, and OpenAI Codex are setting off detection rules written to catch human intruders.\n\nThe agents are not malicious. They just do a lot of things that, to a behavioral engine, look exactly like an attack.\n\nDecrypting browser credentials, listing what sits in Windows' credential store,",
+    "analysis": {
+      "issue": "Sophos says Claude Code, Cursor, and Codex triggered Windows endpoint rules for credential access, LOLBin downloads, and persistence",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware",
+    "link": "https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html",
+    "published": "Wed, 08 Jul 2026 20:37:24 +0530",
+    "summary": "AI coding assistants have a habit of making things up. Ask one to fetch a popular tool, and it will sometimes hand back a real-sounding name for a project that does not exist.\n\nNew research, which its authors call&nbsp;HalluSquatting, turns that habit into an attack: work out the fake names an AI reliably invents, register them first, and wait for the assistant to fetch your trap on a user's",
+    "analysis": {
+      "issue": "Researchers show HalluSquatting can make AI coding agents fetch fake repositories or skills and run attacker-supplied code",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS",
+    "link": "https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html",
+    "published": "Wed, 08 Jul 2026 20:08:05 +0530",
+    "summary": "Ubiquiti has shipped updates to address multiple critical security flaws impacting UniFi Connect, UniFi Talk, UniFi Access, UniFi Protect, and UniFi OS that could result in privilege escalation and arbitrary command execution.\n\nThe list of vulnerabilities is as follows -\n\n\n  CVE-2026-50746 (CVSS score: 10.0) - An improper access control vulnerability in UniFi Connect Application that an attacker",
+    "analysis": {
+      "issue": "Ubiquiti fixes seven critical UniFi flaws across Connect, Talk, Access, Protect, and OS, with no evidence of exploitation in the wild found",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "New Ghost Phishing Wave Is Breaking Traditional Email Security",
     "link": "https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html",
     "published": "Wed, 08 Jul 2026 18:30:00 +0530",
@@ -129,56 +183,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV",
-    "link": "https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html",
-    "published": "Wed, 08 Jul 2026 11:03:12 +0530",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nThe vulnerabilities are listed below -\n\n\n  CVE-2026-48282 (CVSS score: 10.0) - A path traversal vulnerability in Adobe ColdFusion that could lead to arbitrary code execution in the context of the",
+    "source": "Bleeping Computer",
+    "title": "Entra passkey enrollment vishing targets Microsoft 365 users",
+    "link": "https://www.bleepingcomputer.com/news/security/entra-passkey-enrollment-vishing-targets-microsoft-365-users/",
+    "published": "Wed, 08 Jul 2026 12:47:25 -0400",
+    "summary": "A threat actor has been targeting organizations across multiple sectors with voice-based fake security requests that ask Microsoft 365 users to enroll a new Entra passkey. [...]",
     "analysis": {
-      "issue": "CISA added four exploited flaws to KEV, covering Adobe ColdFusion, Joomla page builders, and Langflow ahead of July 10 fixes",
+      "issue": "A threat actor has been targeting organizations across multiple sectors with voice-based fake security requests that ask Microsoft 365 users to enroll a new Entra passkey",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service",
-    "link": "https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html",
-    "published": "Tue, 07 Jul 2026 22:40:15 +0530",
-    "summary": "A new Android malware operation called RedWing is being rented out on Telegram as a ready-made bank-fraud service. It lets even low-skill criminals take over a victim's phone, steal their banking logins, and capture the one-time codes that protect their accounts.\n\nZimperium's zLabs, which found the operation, says it looks like a new variant of Oblivion, a $300-a-month rent-a-malware tool",
-    "analysis": {
-      "issue": "Zimperium found RedWing, a rented Android kit that steals banking logins, lifts one-time codes, and forwards calls to defeat phone-based 2FA",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots",
-    "link": "https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html",
-    "published": "Tue, 07 Jul 2026 22:07:33 +0530",
-    "summary": "A critical flaw in Google's Dialogflow CX could have let an attacker with edit rights on one Code Block-enabled agent compromise other Code Block-enabled agents in the same Google Cloud project.\n\nFrom there, they could read live conversations, steal the data users shared, and make the bots send attacker-written messages, including requests to re-enter a password.\n\nSecurity firm Varonis found it",
-    "analysis": {
-      "issue": "Google fixed Rogue Agent, a Dialogflow CX Code Blocks flaw that could let one writable agent affect every chatbot in a Cloud project",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
+        "Phishing"
       ]
     }
   },
@@ -274,13 +292,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50747",
-        "CVE-2026-54400",
-        "CVE-2026-55115",
-        "CVE-2026-54402",
         "CVE-2026-55116",
+        "CVE-2026-50747",
+        "CVE-2026-55115",
         "CVE-2026-50748",
-        "CVE-2026-50746"
+        "CVE-2026-54400",
+        "CVE-2026-50746",
+        "CVE-2026-54402"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -339,9 +357,9 @@
       "severity": "Low",
       "cves": [
         "CVE-2020-22658",
+        "CVE-2020-22653",
         "CVE-2023-25717",
-        "CVE-2025-2492",
-        "CVE-2020-22653"
+        "CVE-2025-2492"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -368,24 +386,6 @@
       "threat_categories": [
         "Vulnerability",
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Spain arrests suspected member of pro-Russian hacktivist groups",
-    "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-member-of-pro-russian-hacktivist-groups/",
-    "published": "Tue, 07 Jul 2026 11:21:21 -0400",
-    "summary": "The National Police in Spain have arrested a man who is suspected of being an active member of the CyberArmy of Russia Reborn (CARR) and Z-Pentest, both pro-Russian hacktivist groups. [...]",
-    "analysis": {
-      "issue": "Spain's National Police have arrested a man who is suspected of being an active member of the CyberArmy of Russia Reborn (CARR) and Z-Pentest, both pro-Russian hacktivist groups",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "APT"
       ]
     }
   },
@@ -583,6 +583,48 @@
   },
   {
     "source": "Security Week",
+    "title": "Accenture Confirms Data Breach After Hacker Claims Source Code Theft",
+    "link": "https://www.securityweek.com/accenture-confirms-data-breach-after-hacker-claims-source-code-theft/",
+    "published": "Wed, 08 Jul 2026 16:09:15 +0000",
+    "summary": "<p>The professional services giant says it contained the incident, remediated its source, and experienced no operational or service delivery impact.</p>\n<p>The post <a href=\"https://www.securityweek.com/accenture-confirms-data-breach-after-hacker-claims-source-code-theft/\">Accenture Confirms Data Breach After Hacker Claims Source Code Theft</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The professional services giant says it contained the incident, remediated its source, and experienced no operational or service delivery impact",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "China-Linked APT Expands Arsenal With New ‘Leash’ Backdoors",
+    "link": "https://www.securityweek.com/china-linked-apt-expands-arsenal-with-new-leash-backdoors/",
+    "published": "Wed, 08 Jul 2026 15:42:11 +0000",
+    "summary": "<p>Cisco says the threat actor behind the LapDogs campaign has expanded its SOHO router malware toolkit with LongLeash, DogLeash, and JarLeash backdoors.</p>\n<p>The post <a href=\"https://www.securityweek.com/china-linked-apt-expands-arsenal-with-new-leash-backdoors/\">China-Linked APT Expands Arsenal With New &#8216;Leash&#8217; Backdoors</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Cisco says the threat actor behind the LapDogs campaign has expanded its SOHO router malware toolkit with LongLeash, DogLeash, and JarLeash backdoors",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2020-22658",
+        "CVE-2020-22653",
+        "CVE-2023-25717"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Webinar Today: Why Email Security Keeps Failing",
     "link": "https://www.securityweek.com/webinar-today-why-email-security-keeps-failing/",
     "published": "Wed, 08 Jul 2026 13:16:28 +0000",
@@ -631,11 +673,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-48282",
-        "CVE-2026-33017",
         "CVE-2026-55255",
+        "CVE-2026-56290",
         "CVE-2026-48908",
-        "CVE-2026-56290"
+        "CVE-2026-33017",
+        "CVE-2026-48282"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -736,45 +778,6 @@
       ],
       "threat_categories": [
         "Vulnerability",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Iran-Linked Hackers Using Modular C&C Framework in Cyberattacks",
-    "link": "https://www.securityweek.com/iran-linked-hackers-using-modular-cc-framework-in-cyberattacks/",
-    "published": "Tue, 07 Jul 2026 12:21:56 +0000",
-    "summary": "<p>Researchers say the Iran-linked threat actor used an adaptable modular malware framework and compromised IT service providers to reach high-value targets in Israel.</p>\n<p>The post <a href=\"https://www.securityweek.com/iran-linked-hackers-using-modular-cc-framework-in-cyberattacks/\">Iran-Linked Hackers Using Modular C&amp;C Framework in Cyberattacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Researchers say the Iran-linked threat actor used an adaptable modular malware framework and compromised IT service providers to reach high-value targets in Israel",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "CISO Conversations: Tarah Wheeler, Cybersecurity Leader, Thought Leader and Original Thinker",
-    "link": "https://www.securityweek.com/ciso-conversations-tarah-wheeler-cybersecurity-leader-thought-leader-and-original-thinker/",
-    "published": "Tue, 07 Jul 2026 12:00:00 +0000",
-    "summary": "<p>Tarah Wheeler is CISO at TPO Group, a firm that provides cybersecurity consultancy for high-stakes organizations. But despite this elevated position, her journey was far from typical.</p>\n<p>The post <a href=\"https://www.securityweek.com/ciso-conversations-tarah-wheeler-cybersecurity-leader-thought-leader-and-original-thinker/\">CISO Conversations: Tarah Wheeler, Cybersecurity Leader, Thought Leader and Original Thinker</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Tarah Wheeler is CISO at TPO Group, a firm that provides cybersecurity consultancy for high-stakes organizations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Phishing",
         "APT"
       ]
     }
@@ -959,15 +962,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-42985",
-        "CVE-2026-44801",
-        "CVE-2026-44799",
-        "CVE-2026-42992",
         "CVE-2026-44812",
-        "CVE-2026-47291",
+        "CVE-2026-42985",
+        "CVE-2026-44803",
+        "CVE-2026-44801",
+        "CVE-2026-42992",
         "CVE-2026-48563",
         "CVE-2026-47289",
-        "CVE-2026-44803"
+        "CVE-2026-44799",
+        "CVE-2026-47291"
       ],
       "threat_categories": [
         "Vulnerability"

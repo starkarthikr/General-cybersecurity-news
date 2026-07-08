@@ -1,10 +1,37 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-08 14:27:46 UTC
+**Last Updated:** 2026-07-08 18:00:31 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [New Ghost Phishing Wave Is Breaking Traditional Email Security](https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html)
+### 1. [AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers](https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 08 Jul 2026 22:32:12 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware](https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 08 Jul 2026 20:37:24 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 3. [Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS](https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 08 Jul 2026 20:08:05 +0530  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 4. [New Ghost Phishing Wave Is Breaking Traditional Email Security](https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 08 Jul 2026 18:30:00 +0530  
@@ -13,7 +40,7 @@
 
 ---
 
-### 2. [SCMBANKER Malware Uses ClickFix Lures to Target Mexican Banking Users](https://thehackernews.com/2026/07/scmbanker-malware-uses-clickfix-lures.html)
+### 5. [SCMBANKER Malware Uses ClickFix Lures to Target Mexican Banking Users](https://thehackernews.com/2026/07/scmbanker-malware-uses-clickfix-lures.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 08 Jul 2026 18:22:15 +0530  
@@ -22,7 +49,7 @@
 
 ---
 
-### 3. [GitHub 'Verified' Commits Can Be Rewritten Into New Hashes Without Breaking Signatures](https://thehackernews.com/2026/07/github-verified-commits-can-be.html)
+### 6. [GitHub 'Verified' Commits Can Be Rewritten Into New Hashes Without Breaking Signatures](https://thehackernews.com/2026/07/github-verified-commits-can-be.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 08 Jul 2026 17:21:24 +0530  
@@ -31,7 +58,7 @@
 
 ---
 
-### 4. [The Verification Step Is the New ATO Battleground in 2026](https://thehackernews.com/2026/07/the-verification-step-is-new-ato.html)
+### 7. [The Verification Step Is the New ATO Battleground in 2026](https://thehackernews.com/2026/07/the-verification-step-is-new-ato.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 08 Jul 2026 17:00:00 +0530  
@@ -40,7 +67,7 @@
 
 ---
 
-### 5. [GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code](https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html)
+### 8. [GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code](https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 08 Jul 2026 16:51:07 +0530  
@@ -49,7 +76,7 @@
 
 ---
 
-### 6. [China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware](https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html)
+### 9. [China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware](https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 08 Jul 2026 14:34:33 +0530  
@@ -58,7 +85,7 @@
 
 ---
 
-### 7. [15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros](https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html)
+### 10. [15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros](https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 08 Jul 2026 11:46:44 +0530  
@@ -68,34 +95,16 @@
 
 ---
 
-### 8. [CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV](https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html)
+### 11. [Entra passkey enrollment vishing targets Microsoft 365 users](https://www.bleepingcomputer.com/news/security/entra-passkey-enrollment-vishing-targets-microsoft-365-users/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 08 Jul 2026 11:03:12 +0530  
+**Source:** Bleeping Computer  
+**Published:** Wed, 08 Jul 2026 12:47:25 -0400  
 **Severity:** Low  
-**Categories:** Vulnerability  
+**Categories:** Phishing  
 
 ---
 
-### 9. [RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service](https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 07 Jul 2026 22:40:15 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots](https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 07 Jul 2026 22:07:33 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 11. [3 Ways AI Powers Service Desk Attacks and How to Prevent Them](https://www.bleepingcomputer.com/news/security/3-ways-ai-powers-service-desk-attacks-and-how-to-prevent-them/)
+### 12. [3 Ways AI Powers Service Desk Attacks and How to Prevent Them](https://www.bleepingcomputer.com/news/security/3-ways-ai-powers-service-desk-attacks-and-how-to-prevent-them/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 08 Jul 2026 10:01:11 -0400  
@@ -104,7 +113,7 @@
 
 ---
 
-### 12. [DuckDuckGo browser now blocks YouTube video ads](https://www.bleepingcomputer.com/news/software/duckduckgo-browser-now-blocks-youtube-video-ads/)
+### 13. [DuckDuckGo browser now blocks YouTube video ads](https://www.bleepingcomputer.com/news/software/duckduckgo-browser-now-blocks-youtube-video-ads/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 08 Jul 2026 08:00:00 -0400  
@@ -113,7 +122,7 @@
 
 ---
 
-### 13. [Telco giant KDDI says data breach affects over 12 million people](https://www.bleepingcomputer.com/news/security/japanese-telecom-giant-kddi-says-data-breach-affects-12-million-people/)
+### 14. [Telco giant KDDI says data breach affects over 12 million people](https://www.bleepingcomputer.com/news/security/japanese-telecom-giant-kddi-says-data-breach-affects-12-million-people/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 08 Jul 2026 07:24:16 -0400  
@@ -122,7 +131,7 @@
 
 ---
 
-### 14. [CISA orders feds to prioritize patching Langflow auth bypass flaw](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/)
+### 15. [CISA orders feds to prioritize patching Langflow auth bypass flaw](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 08 Jul 2026 05:58:11 -0400  
@@ -132,17 +141,17 @@
 
 ---
 
-### 15. [Ubiquiti warns of new max severity  UniFi OS vulnerability](https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/)
+### 16. [Ubiquiti warns of new max severity  UniFi OS vulnerability](https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 08 Jul 2026 04:15:20 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50747, CVE-2026-54400, CVE-2026-55115, CVE-2026-54402, CVE-2026-55116, CVE-2026-50748, CVE-2026-50746  
+**CVEs:** CVE-2026-55116, CVE-2026-50747, CVE-2026-55115, CVE-2026-50748, CVE-2026-54400, CVE-2026-50746, CVE-2026-54402  
 **Categories:** Vulnerability  
 
 ---
 
-### 16. [CISA orders feds to patch max severity ColdFusion flaw by Friday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-coldfusion-flaw-by-friday/)
+### 17. [CISA orders feds to patch max severity ColdFusion flaw by Friday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-coldfusion-flaw-by-friday/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 08 Jul 2026 03:16:55 -0400  
@@ -152,7 +161,7 @@
 
 ---
 
-### 17. [Accenture confirms breach after hacker offers stolen data for sale](https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/)
+### 18. [Accenture confirms breach after hacker offers stolen data for sale](https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 07 Jul 2026 18:06:07 -0400  
@@ -161,32 +170,23 @@
 
 ---
 
-### 18. [Chinese hackers develop LONGLEASH malware to expand ORB network](https://www.bleepingcomputer.com/news/security/chinese-hackers-develop-longleash-malware-to-expand-orb-network/)
+### 19. [Chinese hackers develop LONGLEASH malware to expand ORB network](https://www.bleepingcomputer.com/news/security/chinese-hackers-develop-longleash-malware-to-expand-orb-network/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 07 Jul 2026 14:52:19 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2020-22658, CVE-2023-25717, CVE-2025-2492, CVE-2020-22653  
+**CVEs:** CVE-2020-22658, CVE-2020-22653, CVE-2023-25717, CVE-2025-2492  
 **Categories:** Vulnerability, Malware, APT  
 
 ---
 
-### 19. [Hidden backdoor in Tenda router firmware grants admin access](https://www.bleepingcomputer.com/news/security/hidden-backdoor-in-tenda-router-firmware-grants-admin-access/)
+### 20. [Hidden backdoor in Tenda router firmware grants admin access](https://www.bleepingcomputer.com/news/security/hidden-backdoor-in-tenda-router-firmware-grants-admin-access/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 07 Jul 2026 13:27:22 -0400  
 **Severity:** Low  
 **CVEs:** CVE-2026-11405  
 **Categories:** Vulnerability, Malware  
-
----
-
-### 20. [Spain arrests suspected member of pro-Russian hacktivist groups](https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-member-of-pro-russian-hacktivist-groups/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 07 Jul 2026 11:21:21 -0400  
-**Severity:** Critical  
-**Categories:** APT  
 
 ---
 
@@ -281,7 +281,26 @@
 
 ---
 
-### 31. [Webinar Today: Why Email Security Keeps Failing](https://www.securityweek.com/webinar-today-why-email-security-keeps-failing/)
+### 31. [Accenture Confirms Data Breach After Hacker Claims Source Code Theft](https://www.securityweek.com/accenture-confirms-data-breach-after-hacker-claims-source-code-theft/)
+
+**Source:** Security Week  
+**Published:** Wed, 08 Jul 2026 16:09:15 +0000  
+**Severity:** High  
+**Categories:** Data Breach  
+
+---
+
+### 32. [China-Linked APT Expands Arsenal With New ‘Leash’ Backdoors](https://www.securityweek.com/china-linked-apt-expands-arsenal-with-new-leash-backdoors/)
+
+**Source:** Security Week  
+**Published:** Wed, 08 Jul 2026 15:42:11 +0000  
+**Severity:** Low  
+**CVEs:** CVE-2020-22658, CVE-2020-22653, CVE-2023-25717  
+**Categories:** Vulnerability, Malware, APT  
+
+---
+
+### 33. [Webinar Today: Why Email Security Keeps Failing](https://www.securityweek.com/webinar-today-why-email-security-keeps-failing/)
 
 **Source:** Security Week  
 **Published:** Wed, 08 Jul 2026 13:16:28 +0000  
@@ -290,7 +309,7 @@
 
 ---
 
-### 32. [Google Dialogflow CX Bug Allowed Attackers to Hijack AI Conversations](https://www.securityweek.com/google-dialogflow-cx-bug-allowed-attackers-to-hijack-ai-conversations/)
+### 34. [Google Dialogflow CX Bug Allowed Attackers to Hijack AI Conversations](https://www.securityweek.com/google-dialogflow-cx-bug-allowed-attackers-to-hijack-ai-conversations/)
 
 **Source:** Security Week  
 **Published:** Wed, 08 Jul 2026 12:15:00 +0000  
@@ -299,17 +318,17 @@
 
 ---
 
-### 33. [CISA Urges Immediate Patching of Exploited ColdFusion, Langflow, Joomla Flaws](https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-coldfusion-langflow-joomla-flaws/)
+### 35. [CISA Urges Immediate Patching of Exploited ColdFusion, Langflow, Joomla Flaws](https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-coldfusion-langflow-joomla-flaws/)
 
 **Source:** Security Week  
 **Published:** Wed, 08 Jul 2026 10:45:25 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48282, CVE-2026-33017, CVE-2026-55255, CVE-2026-48908, CVE-2026-56290  
+**CVEs:** CVE-2026-55255, CVE-2026-56290, CVE-2026-48908, CVE-2026-33017, CVE-2026-48282  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 34. [Critical Vulnerability Exposes GitHub Agentic Workflows to Prompt Injection](https://www.securityweek.com/critical-vulnerability-exposes-github-agentic-workflows-to-prompt-injection/)
+### 36. [Critical Vulnerability Exposes GitHub Agentic Workflows to Prompt Injection](https://www.securityweek.com/critical-vulnerability-exposes-github-agentic-workflows-to-prompt-injection/)
 
 **Source:** Security Week  
 **Published:** Wed, 08 Jul 2026 10:30:55 +0000  
@@ -318,7 +337,7 @@
 
 ---
 
-### 35. [County Government Reportedly Paid $1 Million to Cyber Extortion Group](https://www.securityweek.com/county-government-reportedly-paid-1-million-to-cyber-extortion-group/)
+### 37. [County Government Reportedly Paid $1 Million to Cyber Extortion Group](https://www.securityweek.com/county-government-reportedly-paid-1-million-to-cyber-extortion-group/)
 
 **Source:** Security Week  
 **Published:** Tue, 07 Jul 2026 17:31:54 +0000  
@@ -327,7 +346,7 @@
 
 ---
 
-### 36. [Critical Gitea Flaw Under Active Exploitation, Researchers Warn](https://www.securityweek.com/critical-gitea-flaw-under-active-exploitation-researchers-warn/)
+### 38. [Critical Gitea Flaw Under Active Exploitation, Researchers Warn](https://www.securityweek.com/critical-gitea-flaw-under-active-exploitation-researchers-warn/)
 
 **Source:** Security Week  
 **Published:** Tue, 07 Jul 2026 17:17:19 +0000  
@@ -337,7 +356,7 @@
 
 ---
 
-### 37. [CISA Reportedly Using Anthropic’s Mythos to Scan Government Software for Flaws](https://www.securityweek.com/cisa-reportedly-using-anthropics-mythos-to-scan-government-software-for-flaws/)
+### 39. [CISA Reportedly Using Anthropic’s Mythos to Scan Government Software for Flaws](https://www.securityweek.com/cisa-reportedly-using-anthropics-mythos-to-scan-government-software-for-flaws/)
 
 **Source:** Security Week  
 **Published:** Tue, 07 Jul 2026 13:13:02 +0000  
@@ -346,31 +365,13 @@
 
 ---
 
-### 38. [Critical Adobe ColdFusion Vulnerability Exploited in Attacks](https://www.securityweek.com/critical-adobe-coldfusion-vulnerability-exploited-in-attacks/)
+### 40. [Critical Adobe ColdFusion Vulnerability Exploited in Attacks](https://www.securityweek.com/critical-adobe-coldfusion-vulnerability-exploited-in-attacks/)
 
 **Source:** Security Week  
 **Published:** Tue, 07 Jul 2026 12:38:34 +0000  
 **Severity:** Critical  
 **CVEs:** CVE-2026-48282  
 **Categories:** Vulnerability, APT  
-
----
-
-### 39. [Iran-Linked Hackers Using Modular C&C Framework in Cyberattacks](https://www.securityweek.com/iran-linked-hackers-using-modular-cc-framework-in-cyberattacks/)
-
-**Source:** Security Week  
-**Published:** Tue, 07 Jul 2026 12:21:56 +0000  
-**Severity:** High  
-**Categories:** Ransomware, Malware, APT  
-
----
-
-### 40. [CISO Conversations: Tarah Wheeler, Cybersecurity Leader, Thought Leader and Original Thinker](https://www.securityweek.com/ciso-conversations-tarah-wheeler-cybersecurity-leader-thought-leader-and-original-thinker/)
-
-**Source:** Security Week  
-**Published:** Tue, 07 Jul 2026 12:00:00 +0000  
-**Severity:** Critical  
-**Categories:** Phishing, APT  
 
 ---
 
@@ -461,7 +462,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-42985, CVE-2026-44801, CVE-2026-44799, CVE-2026-42992, CVE-2026-44812, CVE-2026-47291, CVE-2026-48563, CVE-2026-47289, CVE-2026-44803  
+**CVEs:** CVE-2026-44812, CVE-2026-42985, CVE-2026-44803, CVE-2026-44801, CVE-2026-42992, CVE-2026-48563, CVE-2026-47289, CVE-2026-44799, CVE-2026-47291  
 **Categories:** Vulnerability  
 
 ---
