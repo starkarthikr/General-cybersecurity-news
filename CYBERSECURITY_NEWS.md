@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-07 18:29:17 UTC
+**Last Updated:** 2026-07-08 03:22:28 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,26 @@
 
 ---
 
-### 11. [Hidden backdoor in Tenda router firmware grants admin access](https://www.bleepingcomputer.com/news/security/hidden-backdoor-in-tenda-router-firmware-grants-admin-access/)
+### 11. [Accenture confirms breach after hacker offers stolen data for sale](https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 07 Jul 2026 18:06:07 -0400  
+**Severity:** Low  
+**Categories:** Data Breach  
+
+---
+
+### 12. [Chinese hackers develop LONGLEASH malware to expand ORB network](https://www.bleepingcomputer.com/news/security/chinese-hackers-develop-longleash-malware-to-expand-orb-network/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 07 Jul 2026 14:52:19 -0400  
+**Severity:** Low  
+**CVEs:** CVE-2020-22658, CVE-2023-25717, CVE-2020-22653, CVE-2025-2492  
+**Categories:** Vulnerability, Malware, APT  
+
+---
+
+### 13. [Hidden backdoor in Tenda router firmware grants admin access](https://www.bleepingcomputer.com/news/security/hidden-backdoor-in-tenda-router-firmware-grants-admin-access/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 07 Jul 2026 13:27:22 -0400  
@@ -105,7 +124,7 @@
 
 ---
 
-### 12. [Spain arrests suspected member of pro-Russian hacktivist groups](https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-member-of-pro-russian-hacktivist-groups/)
+### 14. [Spain arrests suspected member of pro-Russian hacktivist groups](https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-member-of-pro-russian-hacktivist-groups/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 07 Jul 2026 11:21:21 -0400  
@@ -114,7 +133,7 @@
 
 ---
 
-### 13. [The GitHub Actions Attack Pattern Your CI Security Scanners Miss](https://www.bleepingcomputer.com/news/security/the-github-actions-attack-pattern-your-ci-security-scanners-miss/)
+### 15. [The GitHub Actions Attack Pattern Your CI Security Scanners Miss](https://www.bleepingcomputer.com/news/security/the-github-actions-attack-pattern-your-ci-security-scanners-miss/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 07 Jul 2026 10:01:11 -0400  
@@ -123,7 +142,7 @@
 
 ---
 
-### 14. [Webinar tomorrow: Why modern email attacks require a new approach to defense](https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-modern-email-attacks-require-a-new-approach-to-defense/)
+### 16. [Webinar tomorrow: Why modern email attacks require a new approach to defense](https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-modern-email-attacks-require-a-new-approach-to-defense/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 07 Jul 2026 08:12:20 -0400  
@@ -132,7 +151,7 @@
 
 ---
 
-### 15. [New Januscape Linux flaw allows VM escape on Intel, AMD devices](https://www.bleepingcomputer.com/news/linux/new-januscape-linux-kernel-flaw-allows-vm-escape-on-intel-amd-devices/)
+### 17. [New Januscape Linux flaw allows VM escape on Intel, AMD devices](https://www.bleepingcomputer.com/news/linux/new-januscape-linux-kernel-flaw-allows-vm-escape-on-intel-amd-devices/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 07 Jul 2026 08:06:09 -0400  
@@ -142,7 +161,7 @@
 
 ---
 
-### 16. [Microsoft to enable Windows settings backup by default for orgs](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-windows-backup-for-organizations-by-default/)
+### 18. [Microsoft to enable Windows settings backup by default for orgs](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-windows-backup-for-organizations-by-default/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 07 Jul 2026 05:41:19 -0400  
@@ -151,40 +170,22 @@
 
 ---
 
-### 17. [BeyondTrust warns of critical flaws in remote access software](https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/)
+### 19. [BeyondTrust warns of critical flaws in remote access software](https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 07 Jul 2026 04:12:10 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-40140, CVE-2026-40141, CVE-2026-40139, CVE-2026-40138  
+**CVEs:** CVE-2026-40138, CVE-2026-40140, CVE-2026-40141, CVE-2026-40139  
 **Categories:** Vulnerability  
 
 ---
 
-### 18. [Microsoft testing new Cloud Rebuild Windows 11 recovery feature](https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-cloud-rebuild-windows-11-recovery-feature/)
+### 20. [Microsoft testing new Cloud Rebuild Windows 11 recovery feature](https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-cloud-rebuild-windows-11-recovery-feature/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 07 Jul 2026 03:37:38 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 19. [Phishing poses as big-brand job interview to steal Google accounts](https://www.bleepingcomputer.com/news/security/phishing-poses-as-big-brand-job-interview-to-steal-google-accounts/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 06 Jul 2026 16:27:37 -0400  
-**Severity:** High  
-**Categories:** Phishing  
-
----
-
-### 20. [Fake IT support calls on Microsoft Teams push EtherRAT malware](https://www.bleepingcomputer.com/news/security/fake-it-support-calls-on-microsoft-teams-push-etherrat-malware/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 06 Jul 2026 16:23:45 -0400  
-**Severity:** Low  
-**Categories:** Malware, Phishing  
 
 ---
 
@@ -229,7 +230,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-45586, CVE-2026-49160, CVE-2026-50507  
+**CVEs:** CVE-2026-49160, CVE-2026-45586, CVE-2026-50507  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -459,7 +460,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-44803, CVE-2026-44799, CVE-2026-42985, CVE-2026-47289, CVE-2026-47291, CVE-2026-48563, CVE-2026-42992, CVE-2026-44801, CVE-2026-44812  
+**CVEs:** CVE-2026-44812, CVE-2026-47291, CVE-2026-42992, CVE-2026-42985, CVE-2026-44801, CVE-2026-48563, CVE-2026-44803, CVE-2026-47289, CVE-2026-44799  
 **Categories:** Vulnerability  
 
 ---
@@ -634,7 +635,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -739,16 +740,7 @@
 
 ---
 
-### 81. [CrowdStrike Uncovers New Prompt Injection Techniques](https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-prompt-injection-techniques/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Jul 07, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 82. [How AI-leading Security Teams Are Building the Agentic SOC](https://www.crowdstrike.com/en-us/blog/how-ai-leading-security-teams-are-building-the-agentic-soc/)
+### 81. [How AI-leading Security Teams Are Building the Agentic SOC](https://www.crowdstrike.com/en-us/blog/how-ai-leading-security-teams-are-building-the-agentic-soc/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 06, 2026 00:00:00-0500  
@@ -757,7 +749,7 @@
 
 ---
 
-### 83. [Browser Security: Zero-Days Are Only Part of the Problem](https://www.crowdstrike.com/en-us/blog/browser-security-zero-days-are-only-part-of-the-problem/)
+### 82. [Browser Security: Zero-Days Are Only Part of the Problem](https://www.crowdstrike.com/en-us/blog/browser-security-zero-days-are-only-part-of-the-problem/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 30, 2026 00:00:00-0500  
@@ -766,7 +758,7 @@
 
 ---
 
-### 84. [Falcon Cloud Security June 2026 Release: Updates for Azure and Google Cloud](https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-expanding-multi-cloud-coverage/)
+### 83. [Falcon Cloud Security June 2026 Release: Updates for Azure and Google Cloud](https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-expanding-multi-cloud-coverage/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 29, 2026 00:00:00-0500  
@@ -775,7 +767,7 @@
 
 ---
 
-### 85. [The Identity Problem Hiding in AI Agent Deployments](https://www.crowdstrike.com/en-us/blog/the-identity-problem-hiding-in-ai-agent-deployments/)
+### 84. [The Identity Problem Hiding in AI Agent Deployments](https://www.crowdstrike.com/en-us/blog/the-identity-problem-hiding-in-ai-agent-deployments/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 24, 2026 00:00:00-0500  
@@ -784,7 +776,7 @@
 
 ---
 
-### 86. [94% of Organizations Report Cloud Breaches: CrowdStrike State of CDR Survey](https://www.crowdstrike.com/en-us/blog/crowdstrike-state-of-cdr-survey-key-takeaways/)
+### 85. [94% of Organizations Report Cloud Breaches: CrowdStrike State of CDR Survey](https://www.crowdstrike.com/en-us/blog/crowdstrike-state-of-cdr-survey-key-takeaways/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 22, 2026 00:00:00-0500  
@@ -793,7 +785,7 @@
 
 ---
 
-### 87. [New Abuse of the ClickOnce Technology, Part 2: Stop Threat Actors from Clicking Once and Staying Forever](https://www.crowdstrike.com/en-us/blog/new-abuse-of-the-clickonce-technology-part-two/)
+### 86. [New Abuse of the ClickOnce Technology, Part 2: Stop Threat Actors from Clicking Once and Staying Forever](https://www.crowdstrike.com/en-us/blog/new-abuse-of-the-clickonce-technology-part-two/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 18, 2026 00:00:00-0500  
@@ -802,7 +794,7 @@
 
 ---
 
-### 88. [New Abuse of the ClickOnce Technology, Part 1: The Inner Workings of ClickOnce Application Deployment](https://www.crowdstrike.com/en-us/blog/new-abuse-of-the-clickonce-technology-part-one/)
+### 87. [New Abuse of the ClickOnce Technology, Part 1: The Inner Workings of ClickOnce Application Deployment](https://www.crowdstrike.com/en-us/blog/new-abuse-of-the-clickonce-technology-part-one/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 18, 2026 00:00:00-0500  
@@ -811,7 +803,7 @@
 
 ---
 
-### 89. [After Executive Order 14409: Next Steps for Securing AI](https://www.crowdstrike.com/en-us/blog/after-executive-order-14409-next-steps-for-securing-ai/)
+### 88. [After Executive Order 14409: Next Steps for Securing AI](https://www.crowdstrike.com/en-us/blog/after-executive-order-14409-next-steps-for-securing-ai/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 17, 2026 00:00:00-0500  
@@ -820,12 +812,21 @@
 
 ---
 
-### 90. [Falcon Exposure Management Now Available for Third-Party Environments](https://www.crowdstrike.com/en-us/blog/falcon-exposure-management-now-available-for-third-party-environments/)
+### 89. [Falcon Exposure Management Now Available for Third-Party Environments](https://www.crowdstrike.com/en-us/blog/falcon-exposure-management-now-available-for-third-party-environments/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 16, 2026 00:00:00-0500  
 **Severity:** Low  
 **Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 90. [CrowdStrike Announces Continuous Identity for AI Agents](https://www.crowdstrike.com/en-us/blog/crowdstrike-announces-continuous-identity-for-ai-agents/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Jun 15, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** General Security  
 
 ---
 
