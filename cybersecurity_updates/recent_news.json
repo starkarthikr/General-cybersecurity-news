@@ -1,6 +1,97 @@
 [
   {
     "source": "The Hacker News",
+    "title": "New Ghost Phishing Wave Is Breaking Traditional Email Security",
+    "link": "https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html",
+    "published": "Wed, 08 Jul 2026 18:30:00 +0530",
+    "summary": "A recent EvilTokens campaign targeting businesses across the US and Europe is exposing a new email security blind spot. This “ghost phishing” technique keeps the malicious page hidden until it decrypts and comes to life inside the victim’s browser.\n\nFor security leaders, the risk is clear: traditional URL checks may miss the attack while Microsoft 365 access, sensitive data, and response time",
+    "analysis": {
+      "issue": "EvilTokens uses AES-GCM encrypted HTML and Microsoft Device Code Phishing to hide Microsoft 365 account takeover pages until browser render",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "SCMBANKER Malware Uses ClickFix Lures to Target Mexican Banking Users",
+    "link": "https://thehackernews.com/2026/07/scmbanker-malware-uses-clickfix-lures.html",
+    "published": "Wed, 08 Jul 2026 18:22:15 +0530",
+    "summary": "A new banking fraudulent operation is targeting customers of Mexican banks, fintech, payment processors, and cryptocurrency exchanges using ClickFix lures.\n\nThe activity cluster, tracked by Elastic Security Labs under the moniker REF6045, involves infecting victims through fake CAPTCHA verification pages that deceive them into running a malicious command that installs a PowerShell toolkit dubbed",
+    "analysis": {
+      "issue": "SCMBANKER watches banking windows, captures screenshots, hijacks CLABE and card numbers, and can deploy Remote Utilities for hands-on access",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "GitHub 'Verified' Commits Can Be Rewritten Into New Hashes Without Breaking Signatures",
+    "link": "https://thehackernews.com/2026/07/github-verified-commits-can-be.html",
+    "published": "Wed, 08 Jul 2026 17:21:24 +0530",
+    "summary": "New research shows that a signed Git commit's hash is not the one-of-a-kind name that much of the software world assumes it to be. Given any signed commit, someone without the signing key can mint a second commit with the same files, author, and date, and a valid signature, GitHub still stamps \"Verified.\"\n\nEverything a reviewer would check matches. The commit's hash does not. That matters",
+    "analysis": {
+      "issue": "Research shows signed Git commits can be re-encoded into fresh GitHub Verified hashes without changing files or breaking signatures",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "The Verification Step Is the New ATO Battleground in 2026",
+    "link": "https://thehackernews.com/2026/07/the-verification-step-is-new-ato.html",
+    "published": "Wed, 08 Jul 2026 17:00:00 +0530",
+    "summary": "For years, account takeover (ATO) followed a predictable script. Attackers bought stolen credentials in bulk, ran them through automated tools, and waited for matches. Credential stuffing was cheap, scalable, and for defenders, relatively well understood.\n\nThat era is ending. Not because attackers gave up, but because the front door finally got harder to kick in.\n\nPasskeys are now mainstream.",
+    "analysis": {
+      "issue": "Passkeys reduce stolen-password value, shifting ATO toward recovery, re-verification, magic links, and AI-driven identity fraud in 2026",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code",
+    "link": "https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html",
+    "published": "Wed, 08 Jul 2026 16:51:07 +0530",
+    "summary": "An AI coding assistant that refuses to answer a dangerous request in its chat box can answer it anyway if the same request is broken into small, ordinary-looking steps inside a code editor. That is the finding of a&nbsp;new study of GitHub Copilot&nbsp;by researchers Abhishek Kumar and Carsten Maple.\n\nThe models they tested through Copilot, Claude from Anthropic, and Gemini from Google, refused",
+    "analysis": {
+      "issue": "GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code | Read more hacking news on The Hacker News cybersecurity news website and learn how to protect against cyberattacks and software vulnerabilities",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware",
     "link": "https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html",
     "published": "Wed, 08 Jul 2026 14:34:33 +0530",
@@ -92,31 +183,33 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "DEBULL Tooling Abuses Microsoft Device-Code Flow to Target M365 Accounts",
-    "link": "https://thehackernews.com/2026/07/debull-tooling-abuses-microsoft-device.html",
-    "published": "Tue, 07 Jul 2026 20:44:14 +0530",
-    "summary": "A Microsoft 365 device code phishing campaign has been observed leveraging collaboration-themed lures to take control of victim accounts between the last week of June 2026 and into early July, per findings from ZeroBEC.\n\n\"The campaign did not depend on a fake Microsoft password page. It used a malicious collaboration-style lure to push users into the legitimate Microsoft device login experience,",
+    "source": "Bleeping Computer",
+    "title": "3 Ways AI Powers Service Desk Attacks and How to Prevent Them",
+    "link": "https://www.bleepingcomputer.com/news/security/3-ways-ai-powers-service-desk-attacks-and-how-to-prevent-them/",
+    "published": "Wed, 08 Jul 2026 10:01:11 -0400",
+    "summary": "Specops Software explains how AI is making service desk impersonation attacks more convincing, personalized, and scalable, along with practical steps organizations can take to strengthen onboarding and identity verification. [...]",
     "analysis": {
-      "issue": "Talos details ARToken, a PhaaS panel tied to EvilTokens that supports device code phishing, BEC workflows, SharePoint theft, and PRT persistence",
+      "issue": "IBM’s 2025 Cost of a Data Breach Report found that 16% of breaches studied involved attackers using AI tools, most often for phishing or deepfake impersonation attacks",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
+        "Data Breach",
+        "Vulnerability",
         "Phishing"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data",
-    "link": "https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html",
-    "published": "Tue, 07 Jul 2026 19:34:50 +0530",
-    "summary": "A public issue can trick GitHub Agentic Workflows into leaking the contents of an organization's private repositories, researchers at Noma Security have shown.\n\nThe attacker needs only to open a normal-looking issue on a public repository, with no stolen credentials and no access to the organization. If that organization has given the agent read access across its repositories, private ones",
+    "source": "Bleeping Computer",
+    "title": "DuckDuckGo browser now blocks YouTube video ads",
+    "link": "https://www.bleepingcomputer.com/news/software/duckduckgo-browser-now-blocks-youtube-video-ads/",
+    "published": "Wed, 08 Jul 2026 08:00:00 -0400",
+    "summary": "DuckDuckGo announced that its browser can now block most video ads on YouTube, including those shown before the video starts playing and during playback. [...]",
     "analysis": {
-      "issue": "The issue affects GitHub Agentic Workflows setups that read public input, hold private repo access, and can post output publicly",
+      "issue": "DuckDuckGo announced that its browser can now block most video ads on YouTube, including those shown before the video starts playing and during playback",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -128,55 +221,21 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Court Filing Reveals Windows Device ID Helped FBI Trace Alleged Scattered Spider Hacker",
-    "link": "https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html",
-    "published": "Tue, 07 Jul 2026 18:57:20 +0530",
-    "summary": "U.S. prosecutors linked an alleged Scattered Spider hacker to a break-in at a luxury jewelry retailer using a persistent Windows device ID, according to a newly unsealed federal complaint.\n\nMicrosoft records tied that ID first to the account the attackers used to keep access during the May 2025 intrusion, then to online accounts prosecutors say belong to 19-year-old Peter Stokes.\n\nStokes is",
+    "source": "Bleeping Computer",
+    "title": "Telco giant KDDI says data breach affects over 12 million people",
+    "link": "https://www.bleepingcomputer.com/news/security/japanese-telecom-giant-kddi-says-data-breach-affects-12-million-people/",
+    "published": "Wed, 08 Jul 2026 07:24:16 -0400",
+    "summary": "Japanese telecommunications giant KDDI says that millions of people had their email addresses and passwords exposed after attackers breached an email platform used by five internet service providers (ISPs) in the country. [...]",
     "analysis": {
-      "issue": "Federal complaint says a Windows GDID tied Peter Stokes to a May 2025 jewelry retailer hack that stole 77GB and drew an $8M ransom demand",
+      "issue": "Japanese telecommunications giant KDDI revealed that millions of people had their email addresses and passwords exposed after attackers breached an email platform used by five internet service providers (ISPs) in the country",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Writer AI Flaw Could Let Agent Previews Leak Session Tokens Across Tenants",
-    "link": "https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html",
-    "published": "Tue, 07 Jul 2026 18:57:09 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a now-patched critical session isolation vulnerability in Writer, an enterprise generative artificial intelligence (AI) platform, that could result in cross-tenant compromise.\n\nThe one-click vulnerability has been codenamed WriteOut by the Sand Security Research team.\n\n\"An outsider could go from having no access to taking over any Writer AI",
-    "analysis": {
-      "issue": "Writer patched WriteOut after Sand Security found sandbox previews could forward session cookies into attacker-controlled agents",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "What Changes When Your Software Supply Chain Includes AI Writing Your Code?",
-    "link": "https://thehackernews.com/2026/07/what-changes-when-your-software-supply.html",
-    "published": "Tue, 07 Jul 2026 17:00:00 +0530",
-    "summary": "Software supply chain security was hard enough. Then AI joined the build pipeline.\n\nFor five years, \"software supply chain security\" meant one question: what's in your code? Which open-source packages, which versions, which transitive dependencies three layers deep that nobody chose on purpose? \n\nSolarWinds, Log4Shell, and XZ Utils all taught the same lesson: the risk lives less in the code a",
-    "analysis": {
-      "issue": "AI agents, prompts, and MCP tools now shape software builds, forcing teams to track provenance beyond packages and generated code alone",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
+        "Data Breach",
+        "Vulnerability",
         "Supply Chain"
       ]
     }
@@ -215,13 +274,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-55116",
-        "CVE-2026-54402",
-        "CVE-2026-50746",
-        "CVE-2026-55115",
-        "CVE-2026-54400",
         "CVE-2026-50747",
-        "CVE-2026-50748"
+        "CVE-2026-54400",
+        "CVE-2026-55115",
+        "CVE-2026-54402",
+        "CVE-2026-55116",
+        "CVE-2026-50748",
+        "CVE-2026-50746"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -279,10 +338,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2025-2492",
-        "CVE-2020-22653",
         "CVE-2020-22658",
-        "CVE-2023-25717"
+        "CVE-2023-25717",
+        "CVE-2025-2492",
+        "CVE-2020-22653"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -331,57 +390,18 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "The GitHub Actions Attack Pattern Your CI Security Scanners Miss",
-    "link": "https://www.bleepingcomputer.com/news/security/the-github-actions-attack-pattern-your-ci-security-scanners-miss/",
-    "published": "Tue, 07 Jul 2026 10:01:11 -0400",
-    "summary": "ActiveState explains how GitHub Actions attack chains can evade traditional CI security scanners, why passing a scan doesn't guarantee a secure pipeline, and how organizations can better govern their CI/CD workflows. [...]",
+    "source": "Krebs On Security",
+    "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
+    "link": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
+    "published": "Wed, 08 Jul 2026 12:31:39 +0000",
+    "summary": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures included fake intelligence companies and a now-defunct AI-based lobbying platform they operated under assumed names.",
     "analysis": {
-      "issue": "A green pipeline is not a governed one, and agentic coding is widening the gap faster than review can close it",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Webinar tomorrow: Why modern email attacks require a new approach to defense",
-    "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-modern-email-attacks-require-a-new-approach-to-defense/",
-    "published": "Tue, 07 Jul 2026 08:12:20 -0400",
-    "summary": "Tomorrow's webinar explores how behavioral AI can help organizations detect sophisticated phishing, business email compromise, and account takeover attacks while reducing alert fatigue through automated investigation and response workflows. [...]",
-    "analysis": {
-      "issue": "Organizations continue to invest in secure email gateways, multi-factor authentication, and identity protection, yet phishing, business email compromise (BEC), and account takeover (ATO) attacks remain among the most persistent threats facing securit",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New Januscape Linux flaw allows VM escape on Intel, AMD devices",
-    "link": "https://www.bleepingcomputer.com/news/linux/new-januscape-linux-kernel-flaw-allows-vm-escape-on-intel-amd-devices/",
-    "published": "Tue, 07 Jul 2026 08:06:09 -0400",
-    "summary": "A 16-year-old Linux kernel vulnerability, dubbed Januscape, allows attackers to escape a virtual machine and execute arbitrary code on the host. [...]",
-    "analysis": {
-      "issue": "A 16-year-old Linux kernel vulnerability, dubbed Januscape, allows attackers to escape a virtual machine and execute arbitrary code on the host",
+      "issue": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures included fake intelligence compan",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
-      "cves": [
-        "CVE-2026-53359"
-      ],
+      "cves": [],
       "threat_categories": [
         "Vulnerability"
       ]
@@ -476,9 +496,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-49160",
+        "CVE-2026-45586",
         "CVE-2026-50507",
-        "CVE-2026-45586"
+        "CVE-2026-49160"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -562,20 +582,64 @@
     }
   },
   {
-    "source": "Krebs On Security",
-    "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
-    "link": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
-    "published": "Mon, 18 May 2026 20:48:21 +0000",
-    "summary": "Until this past weekend, a contractor for the Cybersecurity &#038; Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA systems. Security experts said the public archive included files detailing how CISA builds, tests and deploys software internally, and that it represents one of the most egregious government data leaks in recent history.",
+    "source": "Security Week",
+    "title": "Webinar Today: Why Email Security Keeps Failing",
+    "link": "https://www.securityweek.com/webinar-today-why-email-security-keeps-failing/",
+    "published": "Wed, 08 Jul 2026 13:16:28 +0000",
+    "summary": "<p>Join the webinar as we break down why email-layer defenses alone can’t keep pace with the modern phishing ecosystem.</p>\n<p>The post <a href=\"https://www.securityweek.com/webinar-today-why-email-security-keeps-failing/\">Webinar Today: Why Email Security Keeps Failing</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
-      "issue": "Until this past weekend, a contractor for the Cybersecurity & Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA ",
+      "issue": "Join the webinar as we break down why email-layer defenses alone can’t keep pace with the modern phishing ecosystem",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "High",
+      "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Data Breach"
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Google Dialogflow CX Bug Allowed Attackers to Hijack AI Conversations",
+    "link": "https://www.securityweek.com/google-dialogflow-cx-bug-allowed-attackers-to-hijack-ai-conversations/",
+    "published": "Wed, 08 Jul 2026 12:15:00 +0000",
+    "summary": "<p>The \"Rogue Agent\" vulnerability could have enabled attackers to silently manipulate AI conversations, exfiltrate data, and compromise every Dialogflow CX agent within the same Google Cloud project.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-dialogflow-cx-bug-allowed-attackers-to-hijack-ai-conversations/\">Google Dialogflow CX Bug Allowed Attackers to Hijack AI Conversations</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The “Rogue Agent” vulnerability could have enabled attackers to silently manipulate AI conversations, exfiltrate data, and compromise every Dialogflow CX agent within the same Google Cloud project",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "CISA Urges Immediate Patching of Exploited ColdFusion, Langflow, Joomla Flaws",
+    "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-coldfusion-langflow-joomla-flaws/",
+    "published": "Wed, 08 Jul 2026 10:45:25 +0000",
+    "summary": "<p>Two newly disclosed critical vulnerabilities in Adobe ColdFusion and Langflow join two Joomla extension flaws in CISA's Known Exploited Vulnerabilities catalog, with federal agencies given until July 10 to patch.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-coldfusion-langflow-joomla-flaws/\">CISA Urges Immediate Patching of Exploited ColdFusion, Langflow, Joomla Flaws</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Two newly disclosed critical vulnerabilities in Adobe ColdFusion and Langflow join two Joomla extension flaws in CISA’s Known Exploited Vulnerabilities catalog, with federal agencies given until July 10 to patch",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-48282",
+        "CVE-2026-33017",
+        "CVE-2026-55255",
+        "CVE-2026-48908",
+        "CVE-2026-56290"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
       ]
     }
   },
@@ -712,65 +776,6 @@
       "threat_categories": [
         "Phishing",
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Linux Kernel Vulnerability Allows VM Escape on Intel and AMD Systems",
-    "link": "https://www.securityweek.com/linux-kernel-vulnerability-allows-vm-escape-on-intel-and-amd-systems/",
-    "published": "Tue, 07 Jul 2026 10:00:00 +0000",
-    "summary": "<p>The 16-year-old Januscape flaw affects Linux's KVM hypervisor, allowing attackers to escape virtual machines and potentially execute code on the underlying host.</p>\n<p>The post <a href=\"https://www.securityweek.com/linux-kernel-vulnerability-allows-vm-escape-on-intel-and-amd-systems/\">Linux Kernel Vulnerability Allows VM Escape on Intel and AMD Systems</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The 16-year-old Januscape flaw affects Linux’s KVM hypervisor, allowing attackers to escape virtual machines and potentially execute code on the underlying host",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-53359"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Keyfactor Scores $1 Billion+ Investment for AI, Post-Quantum Security",
-    "link": "https://www.securityweek.com/keyfactor-scores-1-billion-investment-for-ai-post-quantum-security/",
-    "published": "Tue, 07 Jul 2026 09:30:00 +0000",
-    "summary": "<p>The investment will accelerate Keyfactor's machine identity, PKI, and cryptographic security platform as enterprises prepare for AI-driven and post-quantum threats.</p>\n<p>The post <a href=\"https://www.securityweek.com/keyfactor-scores-1-billion-investment-for-ai-post-quantum-security/\">Keyfactor Scores $1 Billion+ Investment for AI, Post-Quantum Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The investment will accelerate Keyfactor’s machine identity, PKI, and cryptographic security platform as enterprises prepare for AI-driven and post-quantum threats",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Blogspot-Hosted Payloads Delivered in ‘Veil#Drop’ Attacks",
-    "link": "https://www.securityweek.com/blogspot-hosted-payloads-delivered-in-veildrop-attacks/",
-    "published": "Mon, 06 Jul 2026 19:14:08 +0000",
-    "summary": "<p>Securonix says the sophisticated framework abuses compromised websites, Blogspot, PowerShell, and fileless techniques to evade detection and deploy the PureLog information stealer.</p>\n<p>The post <a href=\"https://www.securityweek.com/blogspot-hosted-payloads-delivered-in-veildrop-attacks/\">Blogspot-Hosted Payloads Delivered in &#8216;Veil#Drop&#8217; Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Securonix says the sophisticated framework abuses compromised websites, Blogspot, PowerShell, and fileless techniques to evade detection and deploy the PureLog information stealer",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Malware",
-        "Phishing"
       ]
     }
   },
@@ -954,18 +959,36 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-42992",
-        "CVE-2026-47289",
-        "CVE-2026-47291",
         "CVE-2026-42985",
         "CVE-2026-44801",
         "CVE-2026-44799",
+        "CVE-2026-42992",
+        "CVE-2026-44812",
+        "CVE-2026-47291",
         "CVE-2026-48563",
-        "CVE-2026-44803",
-        "CVE-2026-44812"
+        "CVE-2026-47289",
+        "CVE-2026-44803"
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "The Threat Isn’t the Frontier Model",
+    "link": "https://www.recordedfuture.com/blog/build-defensive-ai-agents",
+    "published": "Wed, 08 Jul 2026 00:00:00 GMT",
+    "summary": "The real AI threat isn't frontier models. It's cheap local models getting easier to run. Here's why CISOs should build defensive agents now, before attackers scale.",
+    "analysis": {
+      "issue": "The real AI threat isn't frontier models",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1121,24 +1144,6 @@
     "summary": "Discover how Iranian and Russian shadow fleets use a vast network of fake maritime websites and fraudulent documents to evade international sanctions",
     "analysis": {
       "issue": "Discover how Iranian and Russian shadow fleets use a vast network of fake maritime websites and fraudulent documents to evade international sanctions",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "2026 FIFA World Cup: What Public Safety Officials Need to Know",
-    "link": "https://www.recordedfuture.com/blog/2026-fifa-world-cup-cyber-physical-threats-security-guide",
-    "published": "Wed, 10 Jun 2026 00:00:00 GMT",
-    "summary": "Prepare for the 2026 FIFA World Cup with expert analysis of the physical and cyber threat landscape. Discover key mitigation strategies for host city officials to ensure public safety",
-    "analysis": {
-      "issue": "Prepare for the 2026 FIFA World Cup with expert analysis of the physical and cyber threat landscape",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1316,8 +1321,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1342,6 +1347,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Your next car could be watching your face",
+    "link": "https://www.malwarebytes.com/blog/news/2026/07/your-next-car-could-be-watching-your-face",
+    "published": "Wed, 08 Jul 2026 12:13:07 GMT",
+    "summary": "Driver-monitoring technology is becoming mandatory in new cars, but privacy experts warn it could create new risks alongside the safety benefits.",
+    "analysis": {
+      "issue": "To reduce traffic incidents, all new cars sold in the EU must now include driver-monitoring technology, including Driver Drowsiness and Attention Warning (DDAW) systems and, on newer vehicles, Advanced Driver Distraction Warning (ADDW) systems",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1507,24 +1530,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Apple’s Hide My Email doesn&#8217;t hide it very well",
-    "link": "https://www.malwarebytes.com/blog/news/2026/07/apples-hide-my-email-doesnt-hide-it-very-well",
-    "published": "Thu, 02 Jul 2026 16:22:25 GMT",
-    "summary": "A year ago a researcher found a vulnerability in Apple's Hide My Email feature and now he's tired of waiting for a fix.",
-    "analysis": {
-      "issue": "404 Media reports that a researcher has found a vulnerability in Apple’s Hide My Email feature that could allow someone to discover a person’s real email address",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },

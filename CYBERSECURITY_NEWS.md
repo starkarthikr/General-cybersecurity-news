@@ -1,10 +1,55 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-08 10:36:04 UTC
+**Last Updated:** 2026-07-08 14:27:46 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware](https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html)
+### 1. [New Ghost Phishing Wave Is Breaking Traditional Email Security](https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 08 Jul 2026 18:30:00 +0530  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 2. [SCMBANKER Malware Uses ClickFix Lures to Target Mexican Banking Users](https://thehackernews.com/2026/07/scmbanker-malware-uses-clickfix-lures.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 08 Jul 2026 18:22:15 +0530  
+**Severity:** Low  
+**Categories:** Malware, APT  
+
+---
+
+### 3. [GitHub 'Verified' Commits Can Be Rewritten Into New Hashes Without Breaking Signatures](https://thehackernews.com/2026/07/github-verified-commits-can-be.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 08 Jul 2026 17:21:24 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 4. [The Verification Step Is the New ATO Battleground in 2026](https://thehackernews.com/2026/07/the-verification-step-is-new-ato.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 08 Jul 2026 17:00:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 5. [GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code](https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 08 Jul 2026 16:51:07 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 6. [China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware](https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 08 Jul 2026 14:34:33 +0530  
@@ -13,7 +58,7 @@
 
 ---
 
-### 2. [15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros](https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html)
+### 7. [15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros](https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 08 Jul 2026 11:46:44 +0530  
@@ -23,7 +68,7 @@
 
 ---
 
-### 3. [CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV](https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html)
+### 8. [CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV](https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 08 Jul 2026 11:03:12 +0530  
@@ -32,7 +77,7 @@
 
 ---
 
-### 4. [RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service](https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html)
+### 9. [RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service](https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 07 Jul 2026 22:40:15 +0530  
@@ -41,7 +86,7 @@
 
 ---
 
-### 5. [Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots](https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html)
+### 10. [Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots](https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 07 Jul 2026 22:07:33 +0530  
@@ -50,52 +95,34 @@
 
 ---
 
-### 6. [DEBULL Tooling Abuses Microsoft Device-Code Flow to Target M365 Accounts](https://thehackernews.com/2026/07/debull-tooling-abuses-microsoft-device.html)
+### 11. [3 Ways AI Powers Service Desk Attacks and How to Prevent Them](https://www.bleepingcomputer.com/news/security/3-ways-ai-powers-service-desk-attacks-and-how-to-prevent-them/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 07 Jul 2026 20:44:14 +0530  
-**Severity:** Low  
-**Categories:** Phishing  
-
----
-
-### 7. [Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data](https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 07 Jul 2026 19:34:50 +0530  
-**Severity:** Low  
-**Categories:** General Security  
+**Source:** Bleeping Computer  
+**Published:** Wed, 08 Jul 2026 10:01:11 -0400  
+**Severity:** High  
+**Categories:** Data Breach, Vulnerability, Phishing  
 
 ---
 
-### 8. [Court Filing Reveals Windows Device ID Helped FBI Trace Alleged Scattered Spider Hacker](https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html)
+### 12. [DuckDuckGo browser now blocks YouTube video ads](https://www.bleepingcomputer.com/news/software/duckduckgo-browser-now-blocks-youtube-video-ads/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 07 Jul 2026 18:57:20 +0530  
-**Severity:** Low  
-**Categories:** Ransomware  
-
----
-
-### 9. [Writer AI Flaw Could Let Agent Previews Leak Session Tokens Across Tenants](https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 07 Jul 2026 18:57:09 +0530  
+**Source:** Bleeping Computer  
+**Published:** Wed, 08 Jul 2026 08:00:00 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 10. [What Changes When Your Software Supply Chain Includes AI Writing Your Code?](https://thehackernews.com/2026/07/what-changes-when-your-software-supply.html)
+### 13. [Telco giant KDDI says data breach affects over 12 million people](https://www.bleepingcomputer.com/news/security/japanese-telecom-giant-kddi-says-data-breach-affects-12-million-people/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 07 Jul 2026 17:00:00 +0530  
-**Severity:** Low  
-**Categories:** Supply Chain  
+**Source:** Bleeping Computer  
+**Published:** Wed, 08 Jul 2026 07:24:16 -0400  
+**Severity:** Critical  
+**Categories:** Data Breach, Vulnerability, Supply Chain  
 
 ---
 
-### 11. [CISA orders feds to prioritize patching Langflow auth bypass flaw](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/)
+### 14. [CISA orders feds to prioritize patching Langflow auth bypass flaw](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 08 Jul 2026 05:58:11 -0400  
@@ -105,17 +132,17 @@
 
 ---
 
-### 12. [Ubiquiti warns of new max severity  UniFi OS vulnerability](https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/)
+### 15. [Ubiquiti warns of new max severity  UniFi OS vulnerability](https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 08 Jul 2026 04:15:20 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-55116, CVE-2026-54402, CVE-2026-50746, CVE-2026-55115, CVE-2026-54400, CVE-2026-50747, CVE-2026-50748  
+**CVEs:** CVE-2026-50747, CVE-2026-54400, CVE-2026-55115, CVE-2026-54402, CVE-2026-55116, CVE-2026-50748, CVE-2026-50746  
 **Categories:** Vulnerability  
 
 ---
 
-### 13. [CISA orders feds to patch max severity ColdFusion flaw by Friday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-coldfusion-flaw-by-friday/)
+### 16. [CISA orders feds to patch max severity ColdFusion flaw by Friday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-coldfusion-flaw-by-friday/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 08 Jul 2026 03:16:55 -0400  
@@ -125,7 +152,7 @@
 
 ---
 
-### 14. [Accenture confirms breach after hacker offers stolen data for sale](https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/)
+### 17. [Accenture confirms breach after hacker offers stolen data for sale](https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 07 Jul 2026 18:06:07 -0400  
@@ -134,17 +161,17 @@
 
 ---
 
-### 15. [Chinese hackers develop LONGLEASH malware to expand ORB network](https://www.bleepingcomputer.com/news/security/chinese-hackers-develop-longleash-malware-to-expand-orb-network/)
+### 18. [Chinese hackers develop LONGLEASH malware to expand ORB network](https://www.bleepingcomputer.com/news/security/chinese-hackers-develop-longleash-malware-to-expand-orb-network/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 07 Jul 2026 14:52:19 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2025-2492, CVE-2020-22653, CVE-2020-22658, CVE-2023-25717  
+**CVEs:** CVE-2020-22658, CVE-2023-25717, CVE-2025-2492, CVE-2020-22653  
 **Categories:** Vulnerability, Malware, APT  
 
 ---
 
-### 16. [Hidden backdoor in Tenda router firmware grants admin access](https://www.bleepingcomputer.com/news/security/hidden-backdoor-in-tenda-router-firmware-grants-admin-access/)
+### 19. [Hidden backdoor in Tenda router firmware grants admin access](https://www.bleepingcomputer.com/news/security/hidden-backdoor-in-tenda-router-firmware-grants-admin-access/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 07 Jul 2026 13:27:22 -0400  
@@ -154,7 +181,7 @@
 
 ---
 
-### 17. [Spain arrests suspected member of pro-Russian hacktivist groups](https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-member-of-pro-russian-hacktivist-groups/)
+### 20. [Spain arrests suspected member of pro-Russian hacktivist groups](https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-member-of-pro-russian-hacktivist-groups/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 07 Jul 2026 11:21:21 -0400  
@@ -163,35 +190,16 @@
 
 ---
 
-### 18. [The GitHub Actions Attack Pattern Your CI Security Scanners Miss](https://www.bleepingcomputer.com/news/security/the-github-actions-attack-pattern-your-ci-security-scanners-miss/)
+### 21. [Felons, Fraudsters Flog Offensive Cybersecurity Startup](https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/)
 
-**Source:** Bleeping Computer  
-**Published:** Tue, 07 Jul 2026 10:01:11 -0400  
-**Severity:** High  
-**Categories:** Vulnerability  
-
----
-
-### 19. [Webinar tomorrow: Why modern email attacks require a new approach to defense](https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-modern-email-attacks-require-a-new-approach-to-defense/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 07 Jul 2026 08:12:20 -0400  
-**Severity:** Low  
-**Categories:** Malware, Phishing  
-
----
-
-### 20. [New Januscape Linux flaw allows VM escape on Intel, AMD devices](https://www.bleepingcomputer.com/news/linux/new-januscape-linux-kernel-flaw-allows-vm-escape-on-intel-amd-devices/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 07 Jul 2026 08:06:09 -0400  
+**Source:** Krebs On Security  
+**Published:** Wed, 08 Jul 2026 12:31:39 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-53359  
 **Categories:** Vulnerability  
 
 ---
 
-### 21. [FBI Seizes NetNut Proxy Platform, Popa Botnet](https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/)
+### 22. [FBI Seizes NetNut Proxy Platform, Popa Botnet](https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 02 Jul 2026 19:27:33 +0000  
@@ -200,7 +208,7 @@
 
 ---
 
-### 22. [Scattered Spider Hackers Plead Guilty on Day 1 of Trial](https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/)
+### 23. [Scattered Spider Hackers Plead Guilty on Day 1 of Trial](https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 23 Jun 2026 16:12:49 +0000  
@@ -209,7 +217,7 @@
 
 ---
 
-### 23. [‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm](https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/)
+### 24. [‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm](https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 18 Jun 2026 17:37:58 +0000  
@@ -218,7 +226,7 @@
 
 ---
 
-### 24. [Who Runs the Ransomware Group ‘The Gentlemen?’](https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/)
+### 25. [Who Runs the Ransomware Group ‘The Gentlemen?’](https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 10 Jun 2026 14:03:44 +0000  
@@ -227,17 +235,17 @@
 
 ---
 
-### 25. [A Record-Breaking Patch Tuesday for June 2026](https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/)
+### 26. [A Record-Breaking Patch Tuesday for June 2026](https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-49160, CVE-2026-50507, CVE-2026-45586  
+**CVEs:** CVE-2026-45586, CVE-2026-50507, CVE-2026-49160  
 **Categories:** Vulnerability, DDoS  
 
 ---
 
-### 26. [Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts](https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/)
+### 27. [Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts](https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 01 Jun 2026 17:32:50 +0000  
@@ -246,7 +254,7 @@
 
 ---
 
-### 27. [Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks](https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/)
+### 28. [Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks](https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 25 May 2026 13:21:49 +0000  
@@ -255,7 +263,7 @@
 
 ---
 
-### 28. [Lawmakers Demand Answers as CISA Tries to Contain Data Leak](https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/)
+### 29. [Lawmakers Demand Answers as CISA Tries to Contain Data Leak](https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/)
 
 **Source:** Krebs On Security  
 **Published:** Fri, 22 May 2026 16:34:24 +0000  
@@ -264,7 +272,7 @@
 
 ---
 
-### 29. [Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada](https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/)
+### 30. [Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada](https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 21 May 2026 21:50:25 +0000  
@@ -273,16 +281,35 @@
 
 ---
 
-### 30. [CISA Admin Leaked AWS GovCloud Keys on Github](https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/)
+### 31. [Webinar Today: Why Email Security Keeps Failing](https://www.securityweek.com/webinar-today-why-email-security-keeps-failing/)
 
-**Source:** Krebs On Security  
-**Published:** Mon, 18 May 2026 20:48:21 +0000  
-**Severity:** High  
-**Categories:** Data Breach  
+**Source:** Security Week  
+**Published:** Wed, 08 Jul 2026 13:16:28 +0000  
+**Severity:** Low  
+**Categories:** Phishing  
 
 ---
 
-### 31. [Critical Vulnerability Exposes GitHub Agentic Workflows to Prompt Injection](https://www.securityweek.com/critical-vulnerability-exposes-github-agentic-workflows-to-prompt-injection/)
+### 32. [Google Dialogflow CX Bug Allowed Attackers to Hijack AI Conversations](https://www.securityweek.com/google-dialogflow-cx-bug-allowed-attackers-to-hijack-ai-conversations/)
+
+**Source:** Security Week  
+**Published:** Wed, 08 Jul 2026 12:15:00 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, Phishing  
+
+---
+
+### 33. [CISA Urges Immediate Patching of Exploited ColdFusion, Langflow, Joomla Flaws](https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-coldfusion-langflow-joomla-flaws/)
+
+**Source:** Security Week  
+**Published:** Wed, 08 Jul 2026 10:45:25 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-48282, CVE-2026-33017, CVE-2026-55255, CVE-2026-48908, CVE-2026-56290  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 34. [Critical Vulnerability Exposes GitHub Agentic Workflows to Prompt Injection](https://www.securityweek.com/critical-vulnerability-exposes-github-agentic-workflows-to-prompt-injection/)
 
 **Source:** Security Week  
 **Published:** Wed, 08 Jul 2026 10:30:55 +0000  
@@ -291,7 +318,7 @@
 
 ---
 
-### 32. [County Government Reportedly Paid $1 Million to Cyber Extortion Group](https://www.securityweek.com/county-government-reportedly-paid-1-million-to-cyber-extortion-group/)
+### 35. [County Government Reportedly Paid $1 Million to Cyber Extortion Group](https://www.securityweek.com/county-government-reportedly-paid-1-million-to-cyber-extortion-group/)
 
 **Source:** Security Week  
 **Published:** Tue, 07 Jul 2026 17:31:54 +0000  
@@ -300,7 +327,7 @@
 
 ---
 
-### 33. [Critical Gitea Flaw Under Active Exploitation, Researchers Warn](https://www.securityweek.com/critical-gitea-flaw-under-active-exploitation-researchers-warn/)
+### 36. [Critical Gitea Flaw Under Active Exploitation, Researchers Warn](https://www.securityweek.com/critical-gitea-flaw-under-active-exploitation-researchers-warn/)
 
 **Source:** Security Week  
 **Published:** Tue, 07 Jul 2026 17:17:19 +0000  
@@ -310,7 +337,7 @@
 
 ---
 
-### 34. [CISA Reportedly Using Anthropic’s Mythos to Scan Government Software for Flaws](https://www.securityweek.com/cisa-reportedly-using-anthropics-mythos-to-scan-government-software-for-flaws/)
+### 37. [CISA Reportedly Using Anthropic’s Mythos to Scan Government Software for Flaws](https://www.securityweek.com/cisa-reportedly-using-anthropics-mythos-to-scan-government-software-for-flaws/)
 
 **Source:** Security Week  
 **Published:** Tue, 07 Jul 2026 13:13:02 +0000  
@@ -319,7 +346,7 @@
 
 ---
 
-### 35. [Critical Adobe ColdFusion Vulnerability Exploited in Attacks](https://www.securityweek.com/critical-adobe-coldfusion-vulnerability-exploited-in-attacks/)
+### 38. [Critical Adobe ColdFusion Vulnerability Exploited in Attacks](https://www.securityweek.com/critical-adobe-coldfusion-vulnerability-exploited-in-attacks/)
 
 **Source:** Security Week  
 **Published:** Tue, 07 Jul 2026 12:38:34 +0000  
@@ -329,7 +356,7 @@
 
 ---
 
-### 36. [Iran-Linked Hackers Using Modular C&C Framework in Cyberattacks](https://www.securityweek.com/iran-linked-hackers-using-modular-cc-framework-in-cyberattacks/)
+### 39. [Iran-Linked Hackers Using Modular C&C Framework in Cyberattacks](https://www.securityweek.com/iran-linked-hackers-using-modular-cc-framework-in-cyberattacks/)
 
 **Source:** Security Week  
 **Published:** Tue, 07 Jul 2026 12:21:56 +0000  
@@ -338,40 +365,12 @@
 
 ---
 
-### 37. [CISO Conversations: Tarah Wheeler, Cybersecurity Leader, Thought Leader and Original Thinker](https://www.securityweek.com/ciso-conversations-tarah-wheeler-cybersecurity-leader-thought-leader-and-original-thinker/)
+### 40. [CISO Conversations: Tarah Wheeler, Cybersecurity Leader, Thought Leader and Original Thinker](https://www.securityweek.com/ciso-conversations-tarah-wheeler-cybersecurity-leader-thought-leader-and-original-thinker/)
 
 **Source:** Security Week  
 **Published:** Tue, 07 Jul 2026 12:00:00 +0000  
 **Severity:** Critical  
 **Categories:** Phishing, APT  
-
----
-
-### 38. [Linux Kernel Vulnerability Allows VM Escape on Intel and AMD Systems](https://www.securityweek.com/linux-kernel-vulnerability-allows-vm-escape-on-intel-and-amd-systems/)
-
-**Source:** Security Week  
-**Published:** Tue, 07 Jul 2026 10:00:00 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-53359  
-**Categories:** Vulnerability  
-
----
-
-### 39. [Keyfactor Scores $1 Billion+ Investment for AI, Post-Quantum Security](https://www.securityweek.com/keyfactor-scores-1-billion-investment-for-ai-post-quantum-security/)
-
-**Source:** Security Week  
-**Published:** Tue, 07 Jul 2026 09:30:00 +0000  
-**Severity:** High  
-**Categories:** General Security  
-
----
-
-### 40. [Blogspot-Hosted Payloads Delivered in ‘Veil#Drop’ Attacks](https://www.securityweek.com/blogspot-hosted-payloads-delivered-in-veildrop-attacks/)
-
-**Source:** Security Week  
-**Published:** Mon, 06 Jul 2026 19:14:08 +0000  
-**Severity:** Critical  
-**Categories:** Ransomware, Vulnerability, Malware, Phishing  
 
 ---
 
@@ -462,12 +461,21 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-42992, CVE-2026-47289, CVE-2026-47291, CVE-2026-42985, CVE-2026-44801, CVE-2026-44799, CVE-2026-48563, CVE-2026-44803, CVE-2026-44812  
+**CVEs:** CVE-2026-42985, CVE-2026-44801, CVE-2026-44799, CVE-2026-42992, CVE-2026-44812, CVE-2026-47291, CVE-2026-48563, CVE-2026-47289, CVE-2026-44803  
 **Categories:** Vulnerability  
 
 ---
 
-### 51. [Iran-Nexus TAG-182 Disseminates MarkiRAT Surveillance Tool](https://www.recordedfuture.com/research/nexus-tag182-disseminates-markirat)
+### 51. [The Threat Isn’t the Frontier Model](https://www.recordedfuture.com/blog/build-defensive-ai-agents)
+
+**Source:** Recorded Future  
+**Published:** Wed, 08 Jul 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 52. [Iran-Nexus TAG-182 Disseminates MarkiRAT Surveillance Tool](https://www.recordedfuture.com/research/nexus-tag182-disseminates-markirat)
 
 **Source:** Recorded Future  
 **Published:** Wed, 01 Jul 2026 00:00:00 GMT  
@@ -476,7 +484,7 @@
 
 ---
 
-### 52. [Where Expertise Meets Algorithm: The Insikt Group® Intelligence Edge](https://www.recordedfuture.com/blog/expertise-meets-algorithm-intelligence-edge)
+### 53. [Where Expertise Meets Algorithm: The Insikt Group® Intelligence Edge](https://www.recordedfuture.com/blog/expertise-meets-algorithm-intelligence-edge)
 
 **Source:** Recorded Future  
 **Published:** Thu, 25 Jun 2026 00:00:00 GMT  
@@ -485,7 +493,7 @@
 
 ---
 
-### 53. [Evaluating Mexico’s New Cybersecurity Plan](https://www.recordedfuture.com/research/mexico-new-cybersecurity-plan-evaluation)
+### 54. [Evaluating Mexico’s New Cybersecurity Plan](https://www.recordedfuture.com/research/mexico-new-cybersecurity-plan-evaluation)
 
 **Source:** Recorded Future  
 **Published:** Thu, 25 Jun 2026 00:00:00 GMT  
@@ -494,7 +502,7 @@
 
 ---
 
-### 54. [FortiBleed Campaign Exposing Credentials for 73,932 FortiGate Systems](https://www.recordedfuture.com/blog/critical-fortibleed-campaign)
+### 55. [FortiBleed Campaign Exposing Credentials for 73,932 FortiGate Systems](https://www.recordedfuture.com/blog/critical-fortibleed-campaign)
 
 **Source:** Recorded Future  
 **Published:** Wed, 24 Jun 2026 00:00:00 GMT  
@@ -503,7 +511,7 @@
 
 ---
 
-### 55. [The Purchase Scam Tactic Headed  for the World Cup | Recorded Future](https://www.recordedfuture.com/blog/world-cup-purchase-scam-tactics)
+### 56. [The Purchase Scam Tactic Headed  for the World Cup | Recorded Future](https://www.recordedfuture.com/blog/world-cup-purchase-scam-tactics)
 
 **Source:** Recorded Future  
 **Published:** Tue, 23 Jun 2026 00:00:00 GMT  
@@ -512,7 +520,7 @@
 
 ---
 
-### 56. [State Digital Surveillance Risk Landscape](https://www.recordedfuture.com/research/state-digital-surveillance-risk-landscape)
+### 57. [State Digital Surveillance Risk Landscape](https://www.recordedfuture.com/research/state-digital-surveillance-risk-landscape)
 
 **Source:** Recorded Future  
 **Published:** Wed, 17 Jun 2026 00:00:00 GMT  
@@ -521,7 +529,7 @@
 
 ---
 
-### 57. [The Intelligence No One Else Has: Inside Recorded Future’s Proprietary Collection Engine](https://www.recordedfuture.com/blog/proprietary-collection-engine)
+### 58. [The Intelligence No One Else Has: Inside Recorded Future’s Proprietary Collection Engine](https://www.recordedfuture.com/blog/proprietary-collection-engine)
 
 **Source:** Recorded Future  
 **Published:** Tue, 16 Jun 2026 00:00:00 GMT  
@@ -530,7 +538,7 @@
 
 ---
 
-### 58. [Recorded Future Launches Impact and Metrics Dashboard](https://www.recordedfuture.com/blog/impact-metrics-dashboard)
+### 59. [Recorded Future Launches Impact and Metrics Dashboard](https://www.recordedfuture.com/blog/impact-metrics-dashboard)
 
 **Source:** Recorded Future  
 **Published:** Thu, 11 Jun 2026 00:00:00 GMT  
@@ -539,19 +547,10 @@
 
 ---
 
-### 59. [Cyber-Enabled Maritime Sanctions Evasion](https://www.recordedfuture.com/research/cyber-maritime-sanctions-evasion)
+### 60. [Cyber-Enabled Maritime Sanctions Evasion](https://www.recordedfuture.com/research/cyber-maritime-sanctions-evasion)
 
 **Source:** Recorded Future  
 **Published:** Thu, 11 Jun 2026 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 60. [2026 FIFA World Cup: What Public Safety Officials Need to Know](https://www.recordedfuture.com/blog/2026-fifa-world-cup-cyber-physical-threats-security-guide)
-
-**Source:** Recorded Future  
-**Published:** Wed, 10 Jun 2026 00:00:00 GMT  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -637,7 +636,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -652,7 +651,16 @@
 
 ---
 
-### 71. [How the Reddit and Discord false report scam steals accounts](https://www.malwarebytes.com/blog/threat-intel/2026/07/how-the-reddit-and-discord-false-report-scam-steals-accounts)
+### 71. [Your next car could be watching your face](https://www.malwarebytes.com/blog/news/2026/07/your-next-car-could-be-watching-your-face)
+
+**Source:** Malwarebytes  
+**Published:** Wed, 08 Jul 2026 12:13:07 GMT  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 72. [How the Reddit and Discord false report scam steals accounts](https://www.malwarebytes.com/blog/threat-intel/2026/07/how-the-reddit-and-discord-false-report-scam-steals-accounts)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 07 Jul 2026 17:45:35 GMT  
@@ -661,7 +669,7 @@
 
 ---
 
-### 72. [Fake Netflix, Coca-Cola, and FIFA job scams target marketers](https://www.malwarebytes.com/blog/scams/2026/07/fake-netflix-coca-cola-and-fifa-job-scams-target-marketers)
+### 73. [Fake Netflix, Coca-Cola, and FIFA job scams target marketers](https://www.malwarebytes.com/blog/scams/2026/07/fake-netflix-coca-cola-and-fifa-job-scams-target-marketers)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 07 Jul 2026 13:43:44 GMT  
@@ -670,7 +678,7 @@
 
 ---
 
-### 73. [Claude Code’s hidden tracker was an “experiment,” says Anthropic](https://www.malwarebytes.com/blog/news/2026/07/claude-codes-hidden-tracker-was-an-experiment-says-anthropic)
+### 74. [Claude Code’s hidden tracker was an “experiment,” says Anthropic](https://www.malwarebytes.com/blog/news/2026/07/claude-codes-hidden-tracker-was-an-experiment-says-anthropic)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 07 Jul 2026 11:20:28 GMT  
@@ -679,7 +687,7 @@
 
 ---
 
-### 74. [Scammers are using AI to sell impossible flowers](https://www.malwarebytes.com/blog/scams/2026/07/scammers-are-using-ai-to-sell-impossible-flowers)
+### 75. [Scammers are using AI to sell impossible flowers](https://www.malwarebytes.com/blog/scams/2026/07/scammers-are-using-ai-to-sell-impossible-flowers)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 07 Jul 2026 09:31:52 GMT  
@@ -688,7 +696,7 @@
 
 ---
 
-### 75. [How to tell if an image is AI-generated](https://www.malwarebytes.com/blog/ai/2026/07/how-to-tell-if-an-image-is-ai-generated)
+### 76. [How to tell if an image is AI-generated](https://www.malwarebytes.com/blog/ai/2026/07/how-to-tell-if-an-image-is-ai-generated)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 06 Jul 2026 16:22:32 GMT  
@@ -697,7 +705,7 @@
 
 ---
 
-### 76. [Choose your WhatsApp username carefully](https://www.malwarebytes.com/blog/news/2026/07/choose-your-whatsapp-username-carefully)
+### 77. [Choose your WhatsApp username carefully](https://www.malwarebytes.com/blog/news/2026/07/choose-your-whatsapp-username-carefully)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 06 Jul 2026 12:51:52 GMT  
@@ -706,7 +714,7 @@
 
 ---
 
-### 77. [NetNut botnet takes a hit. Don’t be part of the next one.](https://www.malwarebytes.com/blog/news/2026/07/netnut-botnet-takes-a-hit-dont-be-part-of-the-next-one)
+### 78. [NetNut botnet takes a hit. Don’t be part of the next one.](https://www.malwarebytes.com/blog/news/2026/07/netnut-botnet-takes-a-hit-dont-be-part-of-the-next-one)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 06 Jul 2026 11:52:14 GMT  
@@ -715,7 +723,7 @@
 
 ---
 
-### 78. [A week in security (June 29 &#8211; July 5)](https://www.malwarebytes.com/blog/news/2026/07/a-week-in-security-june-29-july-5)
+### 79. [A week in security (June 29 &#8211; July 5)](https://www.malwarebytes.com/blog/news/2026/07/a-week-in-security-june-29-july-5)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 06 Jul 2026 07:14:12 GMT  
@@ -724,21 +732,12 @@
 
 ---
 
-### 79. [Verified X ad spreads Mac malware, while ConsentFix steals Microsoft accounts](https://www.malwarebytes.com/blog/news/2026/07/verified-x-ad-spreads-mac-malware-while-consentfix-steals-microsoft-accounts)
+### 80. [Verified X ad spreads Mac malware, while ConsentFix steals Microsoft accounts](https://www.malwarebytes.com/blog/news/2026/07/verified-x-ad-spreads-mac-malware-while-consentfix-steals-microsoft-accounts)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 03 Jul 2026 13:30:36 GMT  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 80. [Apple’s Hide My Email doesn&#8217;t hide it very well](https://www.malwarebytes.com/blog/news/2026/07/apples-hide-my-email-doesnt-hide-it-very-well)
-
-**Source:** Malwarebytes  
-**Published:** Thu, 02 Jul 2026 16:22:25 GMT  
-**Severity:** Low  
-**Categories:** Vulnerability  
 
 ---
 
