@@ -1,6 +1,43 @@
 [
   {
     "source": "The Hacker News",
+    "title": "npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk",
+    "link": "https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html",
+    "published": "Thu, 09 Jul 2026 22:19:02 +0530",
+    "summary": "GitHub has officially announced the release of npm version 12 with install scripts disabled by default, along with deprecating granular access tokens (GATs) designed to bypass two-factor authentication (2FA).\n\nThe Microsoft-owned subsidiary noted that the following npm install behaviors that used to run automatically before have been made opt-in&nbsp;-\n\n\n  allowScripts defaults to off, meaning",
+    "analysis": {
+      "issue": "GitHub releases npm 12 with install scripts off by default and begins phasing out 2FA bypass tokens for sensitive npm actions",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories",
+    "link": "https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html",
+    "published": "Thu, 09 Jul 2026 20:39:28 +0530",
+    "summary": "Most security mess starts as admin work. A link gets clicked. A tool gets trusted. A bucket name gets reused. A setting stays loose because nobody wants to touch&nbsp;it.\n\nThis week is full of that kind of damage. Not loud. Not clever. Just small gaps doing big jobs. The worst part is how normal it all looks until the bill arrives.\n\nThe full ThreatsDay list is below.\n\n\n\n\n\n  \n\n  \n  \n    Global",
+    "analysis": {
+      "issue": "ThreatsDay Bulletin covers fraud arrests, supply-chain attacks, phishing, cloud hijacking, ransomware, Windows flaws, and AI-driven data exfiltration",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up",
     "link": "https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html",
     "published": "Thu, 09 Jul 2026 17:56:58 +0530",
@@ -144,38 +181,39 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers",
-    "link": "https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html",
-    "published": "Wed, 08 Jul 2026 22:32:12 +0530",
-    "summary": "Sophos looked at a week of its own endpoint data and found that AI coding agents such as Claude Code, Cursor, and OpenAI Codex are setting off detection rules written to catch human intruders.\n\nThe agents are not malicious. They just do a lot of things that, to a behavioral engine, look exactly like an attack.\n\nDecrypting browser credentials, listing what sits in Windows' credential store,",
+    "source": "Bleeping Computer",
+    "title": "New Helix vishing group emerges in SharePoint data theft attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/",
+    "published": "Thu, 09 Jul 2026 13:08:29 -0400",
+    "summary": "A new data-extortion group called Helix is using identity-focused tactics such as voice phishing (vishing), device code phishing, and multi-factor authentication (MFA) abuse to steal data from SharePoint environments. [...]",
     "analysis": {
-      "issue": "Sophos says Claude Code, Cursor, and Codex triggered Windows endpoint rules for credential access, LOLBin downloads, and persistence",
+      "issue": "A new data-extortion group called Helix is using identity-focused tactics such as voice phishing (vishing), device code phishing, and multi-factor authentication (MFA) abuse to steal data from SharePoint environments",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Ransomware",
+        "Phishing"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware",
-    "link": "https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html",
-    "published": "Wed, 08 Jul 2026 20:37:24 +0530",
-    "summary": "AI coding assistants have a habit of making things up. Ask one to fetch a popular tool, and it will sometimes hand back a real-sounding name for a project that does not exist.\n\nNew research, which its authors call&nbsp;HalluSquatting, turns that habit into an attack: work out the fake names an AI reliably invents, register them first, and wait for the assistant to fetch your trap on a user's",
+    "source": "Bleeping Computer",
+    "title": "Microsoft expects more Windows security updates from AI-discovered flaws",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/",
+    "published": "Thu, 09 Jul 2026 13:00:00 -0400",
+    "summary": "Microsoft says Windows users should expect to see an increase in security updates as the company increasingly relies on artificial intelligence to discover vulnerabilities in its codebase. [...]",
     "analysis": {
-      "issue": "Researchers show HalluSquatting can make AI coding agents fetch fake repositories or skills and run attacker-supplied code",
+      "issue": "Microsoft says Windows users should expect to see an increase in security updates as the company increasingly relies on artificial intelligence to discover vulnerabilities in its codebase",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "Vulnerability"
       ]
     }
   },
@@ -327,46 +365,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Hackers exploit Roundcube flaw to spy on academic researchers",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-roundcube-flaw-to-spy-on-academic-researchers/",
-    "published": "Wed, 08 Jul 2026 14:56:02 -0400",
-    "summary": "A China-linked threat cluster has been exploiting vulnerable Roundcube servers at U.S. and Canadian universities to steal credentials and deploy backdoor malware. [...]",
-    "analysis": {
-      "issue": "A China-linked threat cluster has been exploiting vulnerable Roundcube servers at U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2024-42009",
-        "CVE-2025-49113"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Entra passkey enrollment vishing targets Microsoft 365 users",
-    "link": "https://www.bleepingcomputer.com/news/security/entra-passkey-enrollment-vishing-targets-microsoft-365-users/",
-    "published": "Wed, 08 Jul 2026 12:47:25 -0400",
-    "summary": "A threat actor has been targeting organizations across multiple sectors with voice-based fake security requests that ask Microsoft 365 users to enroll a new Entra passkey. [...]",
-    "analysis": {
-      "issue": "A threat actor has been targeting organizations across multiple sectors with voice-based fake security requests that ask Microsoft 365 users to enroll a new Entra passkey",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
     "link": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
@@ -473,8 +471,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-45586",
         "CVE-2026-50507",
+        "CVE-2026-45586",
         "CVE-2026-49160"
       ],
       "threat_categories": [
@@ -759,6 +757,24 @@
   },
   {
     "source": "Talos Blog",
+    "title": "Winning 54% of the time",
+    "link": "https://blog.talosintelligence.com/winning-54-of-the-time/",
+    "published": "Thu, 09 Jul 2026 18:00:06 GMT",
+    "summary": "With Wimbledon's help, Hazel argues against the popular myth that \"Attackers only need to be right once, but defenders need to be right 100% of the time.\"",
+    "analysis": {
+      "issue": "Welcome to this week’s Threat Source newsletter",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Talos Blog",
     "title": "UAT-7810 continues building ORB networks using new malware",
     "link": "https://blog.talosintelligence.com/uat-7810/",
     "published": "Tue, 07 Jul 2026 10:00:05 GMT",
@@ -925,30 +941,20 @@
     }
   },
   {
-    "source": "Talos Blog",
-    "title": "Microsoft Patch Tuesday for June 2026 — Snort rules and prominent vulnerabilities",
-    "link": "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-june-2026-snort-rules-and-prominent-vulnerabilities/",
-    "published": "Tue, 09 Jun 2026 21:21:00 GMT",
-    "summary": "Microsoft Patch Tuesday details for June 2026.",
+    "source": "Recorded Future",
+    "title": "RiskX interview video featuring Colin Mahony and Mastercard's Aditi Sawhney",
+    "link": "https://www.recordedfuture.com/blog/riskx-interview-payment-fraud",
+    "published": "Thu, 09 Jul 2026 00:00:00 GMT",
+    "summary": "Recorded Future CEO Colin Mahony and Mastercard’s Aditi Sawhney discuss the convergence of cyber and financial crime. Explore how Payment Fraud helps teams move from reactive fraud models to proactive, pre-monetization disruption.",
     "analysis": {
-      "issue": "Microsoft has released its monthly security update for June 2026, which includes 206 vulnerabilities affecting a range of products, including 32 that Microsoft marked as “critical”",
+      "issue": "Recorded Future CEO Colin Mahony and Mastercard’s Aditi Sawhney discuss the convergence of cyber and financial crime",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-44812",
-        "CVE-2026-42985",
-        "CVE-2026-42992",
-        "CVE-2026-44803",
-        "CVE-2026-44799",
-        "CVE-2026-47291",
-        "CVE-2026-48563",
-        "CVE-2026-47289",
-        "CVE-2026-44801"
-      ],
+      "severity": "Low",
+      "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "General Security"
       ]
     }
   },
@@ -1104,24 +1110,6 @@
     "summary": "See the business value of your intelligence program in one live, continuously updated dashboard, built for the conversations that matter most with the executives who own budget and strategy.",
     "analysis": {
       "issue": "See the business value of your intelligence program in one live, continuously updated dashboard, built for the conversations that matter most with the executives who own budget and strategy",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Cyber-Enabled Maritime Sanctions Evasion",
-    "link": "https://www.recordedfuture.com/research/cyber-maritime-sanctions-evasion",
-    "published": "Thu, 11 Jun 2026 00:00:00 GMT",
-    "summary": "Discover how Iranian and Russian shadow fleets use a vast network of fake maritime websites and fraudulent documents to evade international sanctions",
-    "analysis": {
-      "issue": "Discover how Iranian and Russian shadow fleets use a vast network of fake maritime websites and fraudulent documents to evade international sanctions",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1516,6 +1504,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "Why AI Governance Without Guardrails Is Theater",
+    "link": "https://www.crowdstrike.com/en-us/blog/why-ai-governance-without-guardrails-is-theater/",
+    "published": "Jul 09, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "Learn how to address the widening gap between AI usage and AI governance with scalable visibility and enforcement",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "Falcon Secure Access Sets the Standard for Zero Trust Browser Security",
     "link": "https://www.crowdstrike.com/en-us/blog/falcon-secure-access-sets-standard-for-zero-trust-security-browser/",
     "published": "Jul 08, 2026 00:00:00-0500",
@@ -1666,24 +1672,6 @@
     "summary": "",
     "analysis": {
       "issue": "Learn how the ClickOnce deployment technology works, as well as its security implications in Part 1 of a two-part series",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "After Executive Order 14409: Next Steps for Securing AI",
-    "link": "https://www.crowdstrike.com/en-us/blog/after-executive-order-14409-next-steps-for-securing-ai/",
-    "published": "Jun 17, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "Learn how the EO mobilizes the U",
       "solution": null,
       "cause": null,
       "timeline": null,

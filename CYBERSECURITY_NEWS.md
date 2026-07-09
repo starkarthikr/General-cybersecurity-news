@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-09 15:22:14 UTC
+**Last Updated:** 2026-07-09 18:17:19 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up](https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html)
+### 1. [npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk](https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 09 Jul 2026 22:19:02 +0530  
+**Severity:** Low  
+**Categories:** Supply Chain  
+
+---
+
+### 2. [ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories](https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 09 Jul 2026 20:39:28 +0530  
+**Severity:** Low  
+**Categories:** Ransomware, Phishing  
+
+---
+
+### 3. [AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up](https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 09 Jul 2026 17:56:58 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [Summer of Clearinghouses](https://thehackernews.com/2026/07/summer-of-clearinghouses.html)
+### 4. [Summer of Clearinghouses](https://thehackernews.com/2026/07/summer-of-clearinghouses.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 09 Jul 2026 16:30:00 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [GodDamn Ransomware Uses PoisonX Driver to Disable Endpoint Defenses](https://thehackernews.com/2026/07/goddamn-ransomware-uses-poisonx-driver.html)
+### 5. [GodDamn Ransomware Uses PoisonX Driver to Disable Endpoint Defenses](https://thehackernews.com/2026/07/goddamn-ransomware-uses-poisonx-driver.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 09 Jul 2026 16:13:09 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges](https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html)
+### 6. [Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges](https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 09 Jul 2026 14:18:48 +0530  
@@ -40,7 +58,7 @@
 
 ---
 
-### 5. [Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images](https://thehackernews.com/2026/07/metas-new-ai-image-tool-lets-others-use.html)
+### 7. [Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images](https://thehackernews.com/2026/07/metas-new-ai-image-tool-lets-others-use.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 09 Jul 2026 12:51:06 +0530  
@@ -49,7 +67,7 @@
 
 ---
 
-### 6. [Top AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It](https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html)
+### 8. [Top AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It](https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 09 Jul 2026 10:45:02 +0530  
@@ -58,7 +76,7 @@
 
 ---
 
-### 7. [GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents](https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html)
+### 9. [GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents](https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 09 Jul 2026 09:57:18 +0530  
@@ -67,7 +85,7 @@
 
 ---
 
-### 8. [Fake 7-Zip Installers Turn Devices Into Residential Proxy Nodes](https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html)
+### 10. [Fake 7-Zip Installers Turn Devices Into Residential Proxy Nodes](https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 09 Jul 2026 09:31:49 +0530  
@@ -76,25 +94,25 @@
 
 ---
 
-### 9. [AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers](https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html)
+### 11. [New Helix vishing group emerges in SharePoint data theft attacks](https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 08 Jul 2026 22:32:12 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 09 Jul 2026 13:08:29 -0400  
 **Severity:** Low  
-**Categories:** General Security  
+**Categories:** Ransomware, Phishing  
 
 ---
 
-### 10. [New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware](https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html)
+### 12. [Microsoft expects more Windows security updates from AI-discovered flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 08 Jul 2026 20:37:24 +0530  
-**Severity:** Low  
-**Categories:** Malware  
+**Source:** Bleeping Computer  
+**Published:** Thu, 09 Jul 2026 13:00:00 -0400  
+**Severity:** Critical  
+**Categories:** Vulnerability  
 
 ---
 
-### 11. [New Forg365 phishing platform uses AI to target Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/new-forg365-phishing-platform-uses-ai-to-target-microsoft-365-accounts/)
+### 13. [New Forg365 phishing platform uses AI to target Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/new-forg365-phishing-platform-uses-ai-to-target-microsoft-365-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 09 Jul 2026 10:39:51 -0400  
@@ -103,7 +121,7 @@
 
 ---
 
-### 12. [The Hidden Security Risks of Reduced Summer IT Coverage](https://www.bleepingcomputer.com/news/security/the-hidden-security-risks-of-reduced-summer-it-coverage/)
+### 14. [The Hidden Security Risks of Reduced Summer IT Coverage](https://www.bleepingcomputer.com/news/security/the-hidden-security-risks-of-reduced-summer-it-coverage/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 09 Jul 2026 10:02:12 -0400  
@@ -112,7 +130,7 @@
 
 ---
 
-### 13. [Microsoft to retire the OWA Light client in Exchange Server](https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-owa-light-retirement-in-exchange-server/)
+### 15. [Microsoft to retire the OWA Light client in Exchange Server](https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-owa-light-retirement-in-exchange-server/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 09 Jul 2026 07:00:35 -0400  
@@ -121,7 +139,7 @@
 
 ---
 
-### 14. [Police arrests 5,800 suspects in global anti-fraud crackdown](https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/)
+### 16. [Police arrests 5,800 suspects in global anti-fraud crackdown](https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 09 Jul 2026 05:47:28 -0400  
@@ -130,7 +148,7 @@
 
 ---
 
-### 15. [AssuranceAmerica data breach exposes records of 6.9 million drivers](https://www.bleepingcomputer.com/news/security/assuranceamerica-data-breach-exposes-records-of-69-million-drivers/)
+### 17. [AssuranceAmerica data breach exposes records of 6.9 million drivers](https://www.bleepingcomputer.com/news/security/assuranceamerica-data-breach-exposes-records-of-69-million-drivers/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 09 Jul 2026 03:47:16 -0400  
@@ -139,7 +157,7 @@
 
 ---
 
-### 16. [Microsoft patches RoguePlanet Defender zero-day vulnerability](https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/)
+### 18. [Microsoft patches RoguePlanet Defender zero-day vulnerability](https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 09 Jul 2026 01:42:49 -0400  
@@ -149,7 +167,7 @@
 
 ---
 
-### 17. [Mount Royal University confirms breach as hackers claim attack](https://www.bleepingcomputer.com/news/security/mount-royal-university-confirms-breach-as-hackers-claim-attack/)
+### 19. [Mount Royal University confirms breach as hackers claim attack](https://www.bleepingcomputer.com/news/security/mount-royal-university-confirms-breach-as-hackers-claim-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 08 Jul 2026 17:26:59 -0400  
@@ -158,31 +176,12 @@
 
 ---
 
-### 18. [Fake Paysafe, Skrill SDKs on NPM and PyPi steal credentials](https://www.bleepingcomputer.com/news/security/fake-paysafe-skrill-sdks-on-npm-and-pypi-steal-credentials/)
+### 20. [Fake Paysafe, Skrill SDKs on NPM and PyPi steal credentials](https://www.bleepingcomputer.com/news/security/fake-paysafe-skrill-sdks-on-npm-and-pypi-steal-credentials/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 08 Jul 2026 15:54:59 -0400  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 19. [Hackers exploit Roundcube flaw to spy on academic researchers](https://www.bleepingcomputer.com/news/security/hackers-exploit-roundcube-flaw-to-spy-on-academic-researchers/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 08 Jul 2026 14:56:02 -0400  
-**Severity:** Low  
-**CVEs:** CVE-2024-42009, CVE-2025-49113  
-**Categories:** Vulnerability, Malware  
-
----
-
-### 20. [Entra passkey enrollment vishing targets Microsoft 365 users](https://www.bleepingcomputer.com/news/security/entra-passkey-enrollment-vishing-targets-microsoft-365-users/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 08 Jul 2026 12:47:25 -0400  
-**Severity:** Low  
-**Categories:** Phishing  
 
 ---
 
@@ -236,7 +235,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-45586, CVE-2026-50507, CVE-2026-49160  
+**CVEs:** CVE-2026-50507, CVE-2026-45586, CVE-2026-49160  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -370,7 +369,16 @@
 
 ---
 
-### 41. [UAT-7810 continues building ORB networks using new malware](https://blog.talosintelligence.com/uat-7810/)
+### 41. [Winning 54% of the time](https://blog.talosintelligence.com/winning-54-of-the-time/)
+
+**Source:** Talos Blog  
+**Published:** Thu, 09 Jul 2026 18:00:06 GMT  
+**Severity:** Low  
+**Categories:** APT  
+
+---
+
+### 42. [UAT-7810 continues building ORB networks using new malware](https://blog.talosintelligence.com/uat-7810/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 07 Jul 2026 10:00:05 GMT  
@@ -380,7 +388,7 @@
 
 ---
 
-### 42. [Catan and Mouse](https://blog.talosintelligence.com/catan-and-mouse/)
+### 43. [Catan and Mouse](https://blog.talosintelligence.com/catan-and-mouse/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 02 Jul 2026 18:00:34 GMT  
@@ -389,7 +397,7 @@
 
 ---
 
-### 43. [Martin Lee: Running through the Arctic (and the threat landscape)](https://blog.talosintelligence.com/martin-lee-running-through-the-arctic-and-the-threat-landscape/)
+### 44. [Martin Lee: Running through the Arctic (and the threat landscape)](https://blog.talosintelligence.com/martin-lee-running-through-the-arctic-and-the-threat-landscape/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 01 Jul 2026 10:00:57 GMT  
@@ -398,7 +406,7 @@
 
 ---
 
-### 44. [ARToken: Inside an EvilTokens affiliate panel targeting Microsoft 365](https://blog.talosintelligence.com/artoken-inside-an-eviltokens-affiliate-panel-targeting-microsoft-365/)
+### 45. [ARToken: Inside an EvilTokens affiliate panel targeting Microsoft 365](https://blog.talosintelligence.com/artoken-inside-an-eviltokens-affiliate-panel-targeting-microsoft-365/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 01 Jul 2026 10:00:38 GMT  
@@ -407,7 +415,7 @@
 
 ---
 
-### 45. [Beyond IOCs: AI-enabled threat intelligence](https://blog.talosintelligence.com/beyond-iocs-ai-enabled-threat-intelligence/)
+### 46. [Beyond IOCs: AI-enabled threat intelligence](https://blog.talosintelligence.com/beyond-iocs-ai-enabled-threat-intelligence/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 25 Jun 2026 18:00:26 GMT  
@@ -416,7 +424,7 @@
 
 ---
 
-### 46. [Introduction to COM usage by Windows threats](https://blog.talosintelligence.com/introduction-to-com-usage-by-windows-threats/)
+### 47. [Introduction to COM usage by Windows threats](https://blog.talosintelligence.com/introduction-to-com-usage-by-windows-threats/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 25 Jun 2026 10:00:26 GMT  
@@ -425,7 +433,7 @@
 
 ---
 
-### 47. [Close Encounters of the Human Kind](https://blog.talosintelligence.com/close-encounters-of-the-human-kind/)
+### 48. [Close Encounters of the Human Kind](https://blog.talosintelligence.com/close-encounters-of-the-human-kind/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 18 Jun 2026 18:00:24 GMT  
@@ -434,7 +442,7 @@
 
 ---
 
-### 48. [Scripting the disassembler: Local agentic reverse engineering through vbdec’s live COM object model](https://blog.talosintelligence.com/scripting-the-disassembler/)
+### 49. [Scripting the disassembler: Local agentic reverse engineering through vbdec’s live COM object model](https://blog.talosintelligence.com/scripting-the-disassembler/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 18 Jun 2026 10:00:05 GMT  
@@ -443,7 +451,7 @@
 
 ---
 
-### 49. [A tale of two eras](https://blog.talosintelligence.com/a-tale-of-two-eras/)
+### 50. [A tale of two eras](https://blog.talosintelligence.com/a-tale-of-two-eras/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 11 Jun 2026 18:00:49 GMT  
@@ -452,17 +460,16 @@
 
 ---
 
-### 50. [Microsoft Patch Tuesday for June 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-for-june-2026-snort-rules-and-prominent-vulnerabilities/)
+### 51. [RiskX interview video featuring Colin Mahony and Mastercard's Aditi Sawhney](https://www.recordedfuture.com/blog/riskx-interview-payment-fraud)
 
-**Source:** Talos Blog  
-**Published:** Tue, 09 Jun 2026 21:21:00 GMT  
-**Severity:** Critical  
-**CVEs:** CVE-2026-44812, CVE-2026-42985, CVE-2026-42992, CVE-2026-44803, CVE-2026-44799, CVE-2026-47291, CVE-2026-48563, CVE-2026-47289, CVE-2026-44801  
-**Categories:** Vulnerability  
+**Source:** Recorded Future  
+**Published:** Thu, 09 Jul 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** General Security  
 
 ---
 
-### 51. [The Threat Isn’t the Frontier Model](https://www.recordedfuture.com/blog/build-defensive-ai-agents)
+### 52. [The Threat Isn’t the Frontier Model](https://www.recordedfuture.com/blog/build-defensive-ai-agents)
 
 **Source:** Recorded Future  
 **Published:** Wed, 08 Jul 2026 00:00:00 GMT  
@@ -471,7 +478,7 @@
 
 ---
 
-### 52. [Iran-Nexus TAG-182 Disseminates MarkiRAT Surveillance Tool](https://www.recordedfuture.com/research/nexus-tag182-disseminates-markirat)
+### 53. [Iran-Nexus TAG-182 Disseminates MarkiRAT Surveillance Tool](https://www.recordedfuture.com/research/nexus-tag182-disseminates-markirat)
 
 **Source:** Recorded Future  
 **Published:** Wed, 01 Jul 2026 00:00:00 GMT  
@@ -480,7 +487,7 @@
 
 ---
 
-### 53. [Where Expertise Meets Algorithm: The Insikt Group® Intelligence Edge](https://www.recordedfuture.com/blog/expertise-meets-algorithm-intelligence-edge)
+### 54. [Where Expertise Meets Algorithm: The Insikt Group® Intelligence Edge](https://www.recordedfuture.com/blog/expertise-meets-algorithm-intelligence-edge)
 
 **Source:** Recorded Future  
 **Published:** Thu, 25 Jun 2026 00:00:00 GMT  
@@ -489,7 +496,7 @@
 
 ---
 
-### 54. [Evaluating Mexico’s New Cybersecurity Plan](https://www.recordedfuture.com/research/mexico-new-cybersecurity-plan-evaluation)
+### 55. [Evaluating Mexico’s New Cybersecurity Plan](https://www.recordedfuture.com/research/mexico-new-cybersecurity-plan-evaluation)
 
 **Source:** Recorded Future  
 **Published:** Thu, 25 Jun 2026 00:00:00 GMT  
@@ -498,7 +505,7 @@
 
 ---
 
-### 55. [FortiBleed Campaign Exposing Credentials for 73,932 FortiGate Systems](https://www.recordedfuture.com/blog/critical-fortibleed-campaign)
+### 56. [FortiBleed Campaign Exposing Credentials for 73,932 FortiGate Systems](https://www.recordedfuture.com/blog/critical-fortibleed-campaign)
 
 **Source:** Recorded Future  
 **Published:** Wed, 24 Jun 2026 00:00:00 GMT  
@@ -507,7 +514,7 @@
 
 ---
 
-### 56. [The Purchase Scam Tactic Headed  for the World Cup | Recorded Future](https://www.recordedfuture.com/blog/world-cup-purchase-scam-tactics)
+### 57. [The Purchase Scam Tactic Headed  for the World Cup | Recorded Future](https://www.recordedfuture.com/blog/world-cup-purchase-scam-tactics)
 
 **Source:** Recorded Future  
 **Published:** Tue, 23 Jun 2026 00:00:00 GMT  
@@ -516,7 +523,7 @@
 
 ---
 
-### 57. [State Digital Surveillance Risk Landscape](https://www.recordedfuture.com/research/state-digital-surveillance-risk-landscape)
+### 58. [State Digital Surveillance Risk Landscape](https://www.recordedfuture.com/research/state-digital-surveillance-risk-landscape)
 
 **Source:** Recorded Future  
 **Published:** Wed, 17 Jun 2026 00:00:00 GMT  
@@ -525,7 +532,7 @@
 
 ---
 
-### 58. [The Intelligence No One Else Has: Inside Recorded Future’s Proprietary Collection Engine](https://www.recordedfuture.com/blog/proprietary-collection-engine)
+### 59. [The Intelligence No One Else Has: Inside Recorded Future’s Proprietary Collection Engine](https://www.recordedfuture.com/blog/proprietary-collection-engine)
 
 **Source:** Recorded Future  
 **Published:** Tue, 16 Jun 2026 00:00:00 GMT  
@@ -534,16 +541,7 @@
 
 ---
 
-### 59. [Recorded Future Launches Impact and Metrics Dashboard](https://www.recordedfuture.com/blog/impact-metrics-dashboard)
-
-**Source:** Recorded Future  
-**Published:** Thu, 11 Jun 2026 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 60. [Cyber-Enabled Maritime Sanctions Evasion](https://www.recordedfuture.com/research/cyber-maritime-sanctions-evasion)
+### 60. [Recorded Future Launches Impact and Metrics Dashboard](https://www.recordedfuture.com/blog/impact-metrics-dashboard)
 
 **Source:** Recorded Future  
 **Published:** Thu, 11 Jun 2026 00:00:00 GMT  
@@ -738,7 +736,16 @@
 
 ---
 
-### 81. [Falcon Secure Access Sets the Standard for Zero Trust Browser Security](https://www.crowdstrike.com/en-us/blog/falcon-secure-access-sets-standard-for-zero-trust-security-browser/)
+### 81. [Why AI Governance Without Guardrails Is Theater](https://www.crowdstrike.com/en-us/blog/why-ai-governance-without-guardrails-is-theater/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Jul 09, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 82. [Falcon Secure Access Sets the Standard for Zero Trust Browser Security](https://www.crowdstrike.com/en-us/blog/falcon-secure-access-sets-standard-for-zero-trust-security-browser/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 08, 2026 00:00:00-0500  
@@ -747,7 +754,7 @@
 
 ---
 
-### 82. [CrowdStrike Uncovers New Prompt Injection Techniques](https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-prompt-injection-techniques/)
+### 83. [CrowdStrike Uncovers New Prompt Injection Techniques](https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-prompt-injection-techniques/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 07, 2026 00:00:00-0500  
@@ -756,7 +763,7 @@
 
 ---
 
-### 83. [How AI-leading Security Teams Are Building the Agentic SOC](https://www.crowdstrike.com/en-us/blog/how-ai-leading-security-teams-are-building-the-agentic-soc/)
+### 84. [How AI-leading Security Teams Are Building the Agentic SOC](https://www.crowdstrike.com/en-us/blog/how-ai-leading-security-teams-are-building-the-agentic-soc/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 06, 2026 00:00:00-0500  
@@ -765,7 +772,7 @@
 
 ---
 
-### 84. [Browser Security: Zero-Days Are Only Part of the Problem](https://www.crowdstrike.com/en-us/blog/browser-security-zero-days-are-only-part-of-the-problem/)
+### 85. [Browser Security: Zero-Days Are Only Part of the Problem](https://www.crowdstrike.com/en-us/blog/browser-security-zero-days-are-only-part-of-the-problem/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 30, 2026 00:00:00-0500  
@@ -774,7 +781,7 @@
 
 ---
 
-### 85. [Falcon Cloud Security June 2026 Release: Updates for Azure and Google Cloud](https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-expanding-multi-cloud-coverage/)
+### 86. [Falcon Cloud Security June 2026 Release: Updates for Azure and Google Cloud](https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-expanding-multi-cloud-coverage/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 29, 2026 00:00:00-0500  
@@ -783,7 +790,7 @@
 
 ---
 
-### 86. [The Identity Problem Hiding in AI Agent Deployments](https://www.crowdstrike.com/en-us/blog/the-identity-problem-hiding-in-ai-agent-deployments/)
+### 87. [The Identity Problem Hiding in AI Agent Deployments](https://www.crowdstrike.com/en-us/blog/the-identity-problem-hiding-in-ai-agent-deployments/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 24, 2026 00:00:00-0500  
@@ -792,7 +799,7 @@
 
 ---
 
-### 87. [94% of Organizations Report Cloud Breaches: CrowdStrike State of CDR Survey](https://www.crowdstrike.com/en-us/blog/crowdstrike-state-of-cdr-survey-key-takeaways/)
+### 88. [94% of Organizations Report Cloud Breaches: CrowdStrike State of CDR Survey](https://www.crowdstrike.com/en-us/blog/crowdstrike-state-of-cdr-survey-key-takeaways/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 22, 2026 00:00:00-0500  
@@ -801,7 +808,7 @@
 
 ---
 
-### 88. [New Abuse of the ClickOnce Technology, Part 2: Stop Threat Actors from Clicking Once and Staying Forever](https://www.crowdstrike.com/en-us/blog/new-abuse-of-the-clickonce-technology-part-two/)
+### 89. [New Abuse of the ClickOnce Technology, Part 2: Stop Threat Actors from Clicking Once and Staying Forever](https://www.crowdstrike.com/en-us/blog/new-abuse-of-the-clickonce-technology-part-two/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 18, 2026 00:00:00-0500  
@@ -810,19 +817,10 @@
 
 ---
 
-### 89. [New Abuse of the ClickOnce Technology, Part 1: The Inner Workings of ClickOnce Application Deployment](https://www.crowdstrike.com/en-us/blog/new-abuse-of-the-clickonce-technology-part-one/)
+### 90. [New Abuse of the ClickOnce Technology, Part 1: The Inner Workings of ClickOnce Application Deployment](https://www.crowdstrike.com/en-us/blog/new-abuse-of-the-clickonce-technology-part-one/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 18, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 90. [After Executive Order 14409: Next Steps for Securing AI](https://www.crowdstrike.com/en-us/blog/after-executive-order-14409-next-steps-for-securing-ai/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Jun 17, 2026 00:00:00-0500  
 **Severity:** Low  
 **Categories:** General Security  
 
