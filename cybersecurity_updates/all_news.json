@@ -184,6 +184,64 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Mount Royal University confirms breach as hackers claim attack",
+    "link": "https://www.bleepingcomputer.com/news/security/mount-royal-university-confirms-breach-as-hackers-claim-attack/",
+    "published": "Wed, 08 Jul 2026 17:26:59 -0400",
+    "summary": "Mount Royal University in Calgary says hackers stole and then deleted data from its file storage systems after breaching the university's network. [...]",
+    "analysis": {
+      "issue": "Mount Royal University in Calgary says hackers stole and then deleted data from its file storage systems after breaching the university's network",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Fake Paysafe, Skrill SDKs on NPM and PyPi steal credentials",
+    "link": "https://www.bleepingcomputer.com/news/security/fake-paysafe-skrill-sdks-on-npm-and-pypi-steal-credentials/",
+    "published": "Wed, 08 Jul 2026 15:54:59 -0400",
+    "summary": "Malicious packages on the Node Package Manager (npm) and the Python Package Index (PyPI) delivered stealer malware to developers and users of Paysafe, Skrill, and Neteller payment applications. [...]",
+    "analysis": {
+      "issue": "Malicious packages on the Node Package Manager (npm) and the Python Package Index (PyPI) delivered stealer malware to developers and users of Paysafe, Skrill, and Neteller payment applications",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Hackers exploit Roundcube flaw to spy on academic researchers",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-roundcube-flaw-to-spy-on-academic-researchers/",
+    "published": "Wed, 08 Jul 2026 14:56:02 -0400",
+    "summary": "A China-linked threat cluster has been exploiting vulnerable Roundcube servers at U.S. and Canadian universities to steal credentials and deploy backdoor malware. [...]",
+    "analysis": {
+      "issue": "A China-linked threat cluster has been exploiting vulnerable Roundcube servers at U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2025-49113",
+        "CVE-2024-42009"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Entra passkey enrollment vishing targets Microsoft 365 users",
     "link": "https://www.bleepingcomputer.com/news/security/entra-passkey-enrollment-vishing-targets-microsoft-365-users/",
     "published": "Wed, 08 Jul 2026 12:47:25 -0400",
@@ -293,10 +351,10 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-55116",
-        "CVE-2026-50747",
         "CVE-2026-55115",
-        "CVE-2026-50748",
         "CVE-2026-54400",
+        "CVE-2026-50748",
+        "CVE-2026-50747",
         "CVE-2026-50746",
         "CVE-2026-54402"
       ],
@@ -322,70 +380,6 @@
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Accenture confirms breach after hacker offers stolen data for sale",
-    "link": "https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/",
-    "published": "Tue, 07 Jul 2026 18:06:07 -0400",
-    "summary": "IT services giant Accenture has confirmed it suffered a security breach after a threat actor claimed to have stolen 35 GB of source code and other data from the company. [...]",
-    "analysis": {
-      "issue": "IT services giant Accenture has confirmed it suffered a security breach after a threat actor claimed to have stolen 35 GB of source code and other data from the company",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Chinese hackers develop LONGLEASH malware to expand ORB network",
-    "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-develop-longleash-malware-to-expand-orb-network/",
-    "published": "Tue, 07 Jul 2026 14:52:19 -0400",
-    "summary": "Chinese hackers tracked as 'UAT-7810' are actively evolving their malware to expand their Operational Relay Box (ORB) network by compromising internet-facing networking devices, primarily unpatched Ruckus routers. [...]",
-    "analysis": {
-      "issue": "Chinese hackers tracked as 'UAT-7810' are actively evolving their malware to expand their Operational Relay Box (ORB) network by compromising internet-facing networking devices, primarily unpatched Ruckus routers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2020-22658",
-        "CVE-2020-22653",
-        "CVE-2023-25717",
-        "CVE-2025-2492"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hidden backdoor in Tenda router firmware grants admin access",
-    "link": "https://www.bleepingcomputer.com/news/security/hidden-backdoor-in-tenda-router-firmware-grants-admin-access/",
-    "published": "Tue, 07 Jul 2026 13:27:22 -0400",
-    "summary": "A hidden authentication backdoor has been found in multiple Tenda router firmware versions, potentially allowing an attacker to gain administrative access to the device's web management panel. [...]",
-    "analysis": {
-      "issue": "A hidden authentication backdoor has been found in multiple Tenda router firmware versions, potentially allowing an attacker to gain administrative access to the device's web management panel",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-11405"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
       ]
     }
   },
@@ -612,9 +606,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2020-22658",
         "CVE-2020-22653",
-        "CVE-2023-25717"
+        "CVE-2023-25717",
+        "CVE-2020-22658"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -675,9 +669,9 @@
       "cves": [
         "CVE-2026-55255",
         "CVE-2026-56290",
-        "CVE-2026-48908",
         "CVE-2026-33017",
-        "CVE-2026-48282"
+        "CVE-2026-48282",
+        "CVE-2026-48908"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -962,15 +956,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-44812",
-        "CVE-2026-42985",
-        "CVE-2026-44803",
-        "CVE-2026-44801",
-        "CVE-2026-42992",
         "CVE-2026-48563",
-        "CVE-2026-47289",
+        "CVE-2026-47291",
+        "CVE-2026-44801",
+        "CVE-2026-42985",
         "CVE-2026-44799",
-        "CVE-2026-47291"
+        "CVE-2026-42992",
+        "CVE-2026-44812",
+        "CVE-2026-47289",
+        "CVE-2026-44803"
       ],
       "threat_categories": [
         "Vulnerability"

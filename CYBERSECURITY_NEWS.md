@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-08 18:00:31 UTC
+**Last Updated:** 2026-07-09 03:50:07 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,35 @@
 
 ---
 
-### 11. [Entra passkey enrollment vishing targets Microsoft 365 users](https://www.bleepingcomputer.com/news/security/entra-passkey-enrollment-vishing-targets-microsoft-365-users/)
+### 11. [Mount Royal University confirms breach as hackers claim attack](https://www.bleepingcomputer.com/news/security/mount-royal-university-confirms-breach-as-hackers-claim-attack/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 08 Jul 2026 17:26:59 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 12. [Fake Paysafe, Skrill SDKs on NPM and PyPi steal credentials](https://www.bleepingcomputer.com/news/security/fake-paysafe-skrill-sdks-on-npm-and-pypi-steal-credentials/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 08 Jul 2026 15:54:59 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 13. [Hackers exploit Roundcube flaw to spy on academic researchers](https://www.bleepingcomputer.com/news/security/hackers-exploit-roundcube-flaw-to-spy-on-academic-researchers/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 08 Jul 2026 14:56:02 -0400  
+**Severity:** Low  
+**CVEs:** CVE-2025-49113, CVE-2024-42009  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 14. [Entra passkey enrollment vishing targets Microsoft 365 users](https://www.bleepingcomputer.com/news/security/entra-passkey-enrollment-vishing-targets-microsoft-365-users/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 08 Jul 2026 12:47:25 -0400  
@@ -104,7 +132,7 @@
 
 ---
 
-### 12. [3 Ways AI Powers Service Desk Attacks and How to Prevent Them](https://www.bleepingcomputer.com/news/security/3-ways-ai-powers-service-desk-attacks-and-how-to-prevent-them/)
+### 15. [3 Ways AI Powers Service Desk Attacks and How to Prevent Them](https://www.bleepingcomputer.com/news/security/3-ways-ai-powers-service-desk-attacks-and-how-to-prevent-them/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 08 Jul 2026 10:01:11 -0400  
@@ -113,7 +141,7 @@
 
 ---
 
-### 13. [DuckDuckGo browser now blocks YouTube video ads](https://www.bleepingcomputer.com/news/software/duckduckgo-browser-now-blocks-youtube-video-ads/)
+### 16. [DuckDuckGo browser now blocks YouTube video ads](https://www.bleepingcomputer.com/news/software/duckduckgo-browser-now-blocks-youtube-video-ads/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 08 Jul 2026 08:00:00 -0400  
@@ -122,7 +150,7 @@
 
 ---
 
-### 14. [Telco giant KDDI says data breach affects over 12 million people](https://www.bleepingcomputer.com/news/security/japanese-telecom-giant-kddi-says-data-breach-affects-12-million-people/)
+### 17. [Telco giant KDDI says data breach affects over 12 million people](https://www.bleepingcomputer.com/news/security/japanese-telecom-giant-kddi-says-data-breach-affects-12-million-people/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 08 Jul 2026 07:24:16 -0400  
@@ -131,7 +159,7 @@
 
 ---
 
-### 15. [CISA orders feds to prioritize patching Langflow auth bypass flaw](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/)
+### 18. [CISA orders feds to prioritize patching Langflow auth bypass flaw](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 08 Jul 2026 05:58:11 -0400  
@@ -141,52 +169,23 @@
 
 ---
 
-### 16. [Ubiquiti warns of new max severity  UniFi OS vulnerability](https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/)
+### 19. [Ubiquiti warns of new max severity  UniFi OS vulnerability](https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 08 Jul 2026 04:15:20 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-55116, CVE-2026-50747, CVE-2026-55115, CVE-2026-50748, CVE-2026-54400, CVE-2026-50746, CVE-2026-54402  
+**CVEs:** CVE-2026-55116, CVE-2026-55115, CVE-2026-54400, CVE-2026-50748, CVE-2026-50747, CVE-2026-50746, CVE-2026-54402  
 **Categories:** Vulnerability  
 
 ---
 
-### 17. [CISA orders feds to patch max severity ColdFusion flaw by Friday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-coldfusion-flaw-by-friday/)
+### 20. [CISA orders feds to patch max severity ColdFusion flaw by Friday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-coldfusion-flaw-by-friday/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 08 Jul 2026 03:16:55 -0400  
 **Severity:** High  
 **CVEs:** CVE-2026-48282  
 **Categories:** Vulnerability  
-
----
-
-### 18. [Accenture confirms breach after hacker offers stolen data for sale](https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 07 Jul 2026 18:06:07 -0400  
-**Severity:** Low  
-**Categories:** Data Breach  
-
----
-
-### 19. [Chinese hackers develop LONGLEASH malware to expand ORB network](https://www.bleepingcomputer.com/news/security/chinese-hackers-develop-longleash-malware-to-expand-orb-network/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 07 Jul 2026 14:52:19 -0400  
-**Severity:** Low  
-**CVEs:** CVE-2020-22658, CVE-2020-22653, CVE-2023-25717, CVE-2025-2492  
-**Categories:** Vulnerability, Malware, APT  
-
----
-
-### 20. [Hidden backdoor in Tenda router firmware grants admin access](https://www.bleepingcomputer.com/news/security/hidden-backdoor-in-tenda-router-firmware-grants-admin-access/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 07 Jul 2026 13:27:22 -0400  
-**Severity:** Low  
-**CVEs:** CVE-2026-11405  
-**Categories:** Vulnerability, Malware  
 
 ---
 
@@ -295,7 +294,7 @@
 **Source:** Security Week  
 **Published:** Wed, 08 Jul 2026 15:42:11 +0000  
 **Severity:** Low  
-**CVEs:** CVE-2020-22658, CVE-2020-22653, CVE-2023-25717  
+**CVEs:** CVE-2020-22653, CVE-2023-25717, CVE-2020-22658  
 **Categories:** Vulnerability, Malware, APT  
 
 ---
@@ -323,7 +322,7 @@
 **Source:** Security Week  
 **Published:** Wed, 08 Jul 2026 10:45:25 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-55255, CVE-2026-56290, CVE-2026-48908, CVE-2026-33017, CVE-2026-48282  
+**CVEs:** CVE-2026-55255, CVE-2026-56290, CVE-2026-33017, CVE-2026-48282, CVE-2026-48908  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -462,7 +461,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-44812, CVE-2026-42985, CVE-2026-44803, CVE-2026-44801, CVE-2026-42992, CVE-2026-48563, CVE-2026-47289, CVE-2026-44799, CVE-2026-47291  
+**CVEs:** CVE-2026-48563, CVE-2026-47291, CVE-2026-44801, CVE-2026-42985, CVE-2026-44799, CVE-2026-42992, CVE-2026-44812, CVE-2026-47289, CVE-2026-44803  
 **Categories:** Vulnerability  
 
 ---
