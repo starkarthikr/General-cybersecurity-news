@@ -1,6 +1,60 @@
 [
   {
     "source": "The Hacker News",
+    "title": "AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up",
+    "link": "https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html",
+    "published": "Thu, 09 Jul 2026 17:56:58 +0530",
+    "summary": "AI has changed how fast attacks move. Work that once took an attacker days now takes minutes. Using models like Mythos, attackers write tailored bait, pick targets, test what lands, and jump to the next host before your team clears the first alert.\n\nThat is the gap, and it is not your fault. The tools and runbooks most teams run on were built for attackers who work at human speed. AI-driven",
+    "analysis": {
+      "issue": "AI-powered attacks move faster than human runbooks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Summer of Clearinghouses",
+    "link": "https://thehackernews.com/2026/07/summer-of-clearinghouses.html",
+    "published": "Thu, 09 Jul 2026 16:30:00 +0530",
+    "summary": "Everyone seems to have announced a clearinghouse over the past few weeks. We did too. Ours is called Athena, and the main thing that sets it apart is that it was already real and running when we announced it — built quietly months earlier, heads down, taking findings and shipping fixes, because customers kept asking us to. We only announced it now because everyone else started announcing theirs,",
+    "analysis": {
+      "issue": "Chainguard argues AI-driven vulnerability discovery is shifting open source disclosure from hand coordination to automated orchestration",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "GodDamn Ransomware Uses PoisonX Driver to Disable Endpoint Defenses",
+    "link": "https://thehackernews.com/2026/07/goddamn-ransomware-uses-poisonx-driver.html",
+    "published": "Thu, 09 Jul 2026 16:13:09 +0530",
+    "summary": "Cybersecurity researchers have flagged a new ransomware family called GodDamn that employs the PoisonX kernel driver to neutralize security software as part of its defense evasion strategy.\n\nAccording to a new report published by the Threat Hunter Team from Symantec, the ransomware was first publicly spotted in the wild on May 21, 2026. It's assessed to be a rebrand of the Beast ransomware,",
+    "analysis": {
+      "issue": "GodDamn ransomware, tied by Symantec to Hyadina's Beast lineage, uses AnyDesk, PsExec, and PoisonX to move and evade defenses",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges",
     "link": "https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html",
     "published": "Thu, 09 Jul 2026 14:18:48 +0530",
@@ -126,31 +180,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS",
-    "link": "https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html",
-    "published": "Wed, 08 Jul 2026 20:08:05 +0530",
-    "summary": "Ubiquiti has shipped updates to address multiple critical security flaws impacting UniFi Connect, UniFi Talk, UniFi Access, UniFi Protect, and UniFi OS that could result in privilege escalation and arbitrary command execution.\n\nThe list of vulnerabilities is as follows -\n\n\n  CVE-2026-50746 (CVSS score: 10.0) - An improper access control vulnerability in UniFi Connect Application that an attacker",
+    "source": "Bleeping Computer",
+    "title": "New Forg365 phishing platform uses AI to target Microsoft 365 accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/new-forg365-phishing-platform-uses-ai-to-target-microsoft-365-accounts/",
+    "published": "Thu, 09 Jul 2026 10:39:51 -0400",
+    "summary": "A new phishing-as-a-service (PhaaS) operation called Forg365 focuses on stealing Microsoft 365 accounts by combining adversary-in-the-middle (AiTM) and device code methods with AI-assisted lure generation. [...]",
     "analysis": {
-      "issue": "Ubiquiti fixes seven critical UniFi flaws across Connect, Talk, Access, Protect, and OS, with no evidence of exploitation in the wild found",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "New Ghost Phishing Wave Is Breaking Traditional Email Security",
-    "link": "https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html",
-    "published": "Wed, 08 Jul 2026 18:30:00 +0530",
-    "summary": "A recent EvilTokens campaign targeting businesses across the US and Europe is exposing a new email security blind spot. This “ghost phishing” technique keeps the malicious page hidden until it decrypts and comes to life inside the victim’s browser.\n\nFor security leaders, the risk is clear: traditional URL checks may miss the attack while Microsoft 365 access, sensitive data, and response time",
-    "analysis": {
-      "issue": "EvilTokens uses AES-GCM encrypted HTML and Microsoft Device Code Phishing to hide Microsoft 365 account takeover pages until browser render",
+      "issue": "A new phishing-as-a-service (PhaaS) operation called Forg365 focuses on stealing Microsoft 365 accounts by combining adversary-in-the-middle (AiTM) and device code methods with AI-assisted lure generation",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -162,21 +198,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "SCMBANKER Malware Uses ClickFix Lures to Target Mexican Banking Users",
-    "link": "https://thehackernews.com/2026/07/scmbanker-malware-uses-clickfix-lures.html",
-    "published": "Wed, 08 Jul 2026 18:22:15 +0530",
-    "summary": "A new banking fraudulent operation is targeting customers of Mexican banks, fintech, payment processors, and cryptocurrency exchanges using ClickFix lures.\n\nThe activity cluster, tracked by Elastic Security Labs under the moniker REF6045, involves infecting victims through fake CAPTCHA verification pages that deceive them into running a malicious command that installs a PowerShell toolkit dubbed",
+    "source": "Bleeping Computer",
+    "title": "The Hidden Security Risks of Reduced Summer IT Coverage",
+    "link": "https://www.bleepingcomputer.com/news/security/the-hidden-security-risks-of-reduced-summer-it-coverage/",
+    "published": "Thu, 09 Jul 2026 10:02:12 -0400",
+    "summary": "Security operations don't slow down when IT teams take vacation, but staffing levels often do. Kaseya explains how AI-driven automation can help organizations maintain consistent security operations and reduce reliance on manual processes year-round. [...]",
     "analysis": {
-      "issue": "SCMBANKER watches banking windows, captures screenshots, hijacks CLABE and card numbers, and can deploy Remote Utilities for hands-on access",
+      "issue": "For most organizations, summer means vacation schedules, lighter staffing levels and slower business operations",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware",
-        "APT"
+        "Vulnerability"
       ]
     }
   },
@@ -332,44 +367,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "3 Ways AI Powers Service Desk Attacks and How to Prevent Them",
-    "link": "https://www.bleepingcomputer.com/news/security/3-ways-ai-powers-service-desk-attacks-and-how-to-prevent-them/",
-    "published": "Wed, 08 Jul 2026 10:01:11 -0400",
-    "summary": "Specops Software explains how AI is making service desk impersonation attacks more convincing, personalized, and scalable, along with practical steps organizations can take to strengthen onboarding and identity verification. [...]",
-    "analysis": {
-      "issue": "IBM’s 2025 Cost of a Data Breach Report found that 16% of breaches studied involved attackers using AI tools, most often for phishing or deepfake impersonation attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "DuckDuckGo browser now blocks YouTube video ads",
-    "link": "https://www.bleepingcomputer.com/news/software/duckduckgo-browser-now-blocks-youtube-video-ads/",
-    "published": "Wed, 08 Jul 2026 08:00:00 -0400",
-    "summary": "DuckDuckGo announced that its browser can now block most video ads on YouTube, including those shown before the video starts playing and during playback. [...]",
-    "analysis": {
-      "issue": "DuckDuckGo announced that its browser can now block most video ads on YouTube, including those shown before the video starts playing and during playback",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
     "link": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
@@ -476,8 +473,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50507",
         "CVE-2026-45586",
+        "CVE-2026-50507",
         "CVE-2026-49160"
       ],
       "threat_categories": [
@@ -563,6 +560,106 @@
   },
   {
     "source": "Security Week",
+    "title": "QIZ Security Raises $17 Million for Cryptographic Governance Platform",
+    "link": "https://www.securityweek.com/qiz-security-raises-17-million-for-cryptographic-governance-platform/",
+    "published": "Thu, 09 Jul 2026 15:03:51 +0000",
+    "summary": "<p>The Israeli company has developed a cryptographic posture and post-quantum cryptography management platform.</p>\n<p>The post <a href=\"https://www.securityweek.com/qiz-security-raises-17-million-for-cryptographic-governance-platform/\">QIZ Security Raises $17 Million for Cryptographic Governance Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The Israeli company has developed a cryptographic posture and post-quantum cryptography management platform",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "UK Government Rolls Out Agentic AI Defense Plan Alongside Industry Pledge",
+    "link": "https://www.securityweek.com/uk-government-rolls-out-agentic-ai-defense-plan-alongside-industry-pledge/",
+    "published": "Thu, 09 Jul 2026 14:19:53 +0000",
+    "summary": "<p>Two announcements on July 7, 2026, demonstrate the government’s determination to improve the level of cybersecurity within the UK.</p>\n<p>The post <a href=\"https://www.securityweek.com/uk-government-rolls-out-agentic-ai-defense-plan-alongside-industry-pledge/\">UK Government Rolls Out Agentic AI Defense Plan Alongside Industry Pledge</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Two announcements on July 7, 2026, demonstrate the government’s determination to improve the level of cybersecurity within the UK",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Palo Alto Networks Patches 13 Vulnerabilities",
+    "link": "https://www.securityweek.com/palo-alto-networks-patches-13-vulnerabilities/",
+    "published": "Thu, 09 Jul 2026 13:49:42 +0000",
+    "summary": "<p>Buffer overflow, DoS, command injection, SSRF, authentication bypass, and other types of vulnerabilities have been found in PAN-OS software.</p>\n<p>The post <a href=\"https://www.securityweek.com/palo-alto-networks-patches-13-vulnerabilities/\">Palo Alto Networks Patches 13 Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Buffer overflow, DoS, command injection, SSRF, authentication bypass, and other types of vulnerabilities have been found in PAN-OS software",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-0288"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "12 Million Impacted by Data Breach at Japanese Telco KDDI",
+    "link": "https://www.securityweek.com/12-million-impacted-by-data-breach-at-japanese-telco-kddi/",
+    "published": "Thu, 09 Jul 2026 12:18:46 +0000",
+    "summary": "<p>Hackers exploited a zero-day vulnerability in a third-party system to access a KDDI email system for ISPs.</p>\n<p>The post <a href=\"https://www.securityweek.com/12-million-impacted-by-data-breach-at-japanese-telco-kddi/\">12 Million Impacted by Data Breach at Japanese Telco KDDI</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Hackers exploited a zero-day vulnerability in a third-party system to access a KDDI email system for ISPs",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "15-Year-Old Linux Vulnerability ‘GhostLock’ Earns Researchers $92k From Google",
+    "link": "https://www.securityweek.com/15-year-old-linux-vulnerability-ghostlock-earns-researchers-92k-from-google/",
+    "published": "Thu, 09 Jul 2026 11:52:35 +0000",
+    "summary": "<p>Affecting every major distribution since 2011, the Linux kernel vulnerability allows attackers to gain root access.</p>\n<p>The post <a href=\"https://www.securityweek.com/15-year-old-linux-vulnerability-ghostlock-earns-researchers-92k-from-google/\">15-Year-Old Linux Vulnerability &#8216;GhostLock&#8217; Earns Researchers $92k From Google</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Affecting every major distribution since 2011, the Linux kernel vulnerability allows attackers to gain root access",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2026-43499"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Microsoft Patches Defender ‘RoguePlanet’ Vulnerability",
     "link": "https://www.securityweek.com/microsoft-patches-defender-rogueplanet-vulnerability/",
     "published": "Thu, 09 Jul 2026 10:28:35 +0000",
@@ -575,9 +672,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-41091",
-        "CVE-2026-33825",
         "CVE-2026-50656",
-        "CVE-2026-45498"
+        "CVE-2026-45498",
+        "CVE-2026-33825"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -657,107 +754,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Unpatched Backdoor in Tenda Firmware Grants Admin Access to Devices",
-    "link": "https://www.securityweek.com/unpatched-backdoor-in-tenda-firmware-grants-admin-access-to-devices/",
-    "published": "Thu, 09 Jul 2026 05:00:41 +0000",
-    "summary": "<p>Tracked as CVE-2026-11405, the vulnerability allows unauthenticated attackers to access a device's web management interface.</p>\n<p>The post <a href=\"https://www.securityweek.com/unpatched-backdoor-in-tenda-firmware-grants-admin-access-to-devices/\">Unpatched Backdoor in Tenda Firmware Grants Admin Access to Devices</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Tracked as CVE-2026-11405, the vulnerability allows unauthenticated attackers to access a device’s web management interface",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-11405",
-        "CVE-2026-13753"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Accenture Confirms Data Breach After Hacker Claims Source Code Theft",
-    "link": "https://www.securityweek.com/accenture-confirms-data-breach-after-hacker-claims-source-code-theft/",
-    "published": "Wed, 08 Jul 2026 16:09:15 +0000",
-    "summary": "<p>The professional services giant says it contained the incident, remediated its source, and experienced no operational or service delivery impact.</p>\n<p>The post <a href=\"https://www.securityweek.com/accenture-confirms-data-breach-after-hacker-claims-source-code-theft/\">Accenture Confirms Data Breach After Hacker Claims Source Code Theft</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The professional services giant says it contained the incident, remediated its source, and experienced no operational or service delivery impact",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "China-Linked APT Expands Arsenal With New ‘Leash’ Backdoors",
-    "link": "https://www.securityweek.com/china-linked-apt-expands-arsenal-with-new-leash-backdoors/",
-    "published": "Wed, 08 Jul 2026 15:42:11 +0000",
-    "summary": "<p>Cisco says the threat actor behind the LapDogs campaign has expanded its SOHO router malware toolkit with LongLeash, DogLeash, and JarLeash backdoors.</p>\n<p>The post <a href=\"https://www.securityweek.com/china-linked-apt-expands-arsenal-with-new-leash-backdoors/\">China-Linked APT Expands Arsenal With New &#8216;Leash&#8217; Backdoors</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Cisco says the threat actor behind the LapDogs campaign has expanded its SOHO router malware toolkit with LongLeash, DogLeash, and JarLeash backdoors",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2020-22658",
-        "CVE-2023-25717",
-        "CVE-2020-22653"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Webinar Today: Why Email Security Keeps Failing",
-    "link": "https://www.securityweek.com/webinar-today-why-email-security-keeps-failing/",
-    "published": "Wed, 08 Jul 2026 13:16:28 +0000",
-    "summary": "<p>Join the webinar as we break down why email-layer defenses alone can’t keep pace with the modern phishing ecosystem.</p>\n<p>The post <a href=\"https://www.securityweek.com/webinar-today-why-email-security-keeps-failing/\">Webinar Today: Why Email Security Keeps Failing</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Join the webinar as we break down why email-layer defenses alone can’t keep pace with the modern phishing ecosystem",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Google Dialogflow CX Bug Allowed Attackers to Hijack AI Conversations",
-    "link": "https://www.securityweek.com/google-dialogflow-cx-bug-allowed-attackers-to-hijack-ai-conversations/",
-    "published": "Wed, 08 Jul 2026 12:15:00 +0000",
-    "summary": "<p>The \"Rogue Agent\" vulnerability could have enabled attackers to silently manipulate AI conversations, exfiltrate data, and compromise every Dialogflow CX agent within the same Google Cloud project.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-dialogflow-cx-bug-allowed-attackers-to-hijack-ai-conversations/\">Google Dialogflow CX Bug Allowed Attackers to Hijack AI Conversations</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The “Rogue Agent” vulnerability could have enabled attackers to silently manipulate AI conversations, exfiltrate data, and compromise every Dialogflow CX agent within the same Google Cloud project",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Phishing"
       ]
     }
   },
@@ -944,12 +940,12 @@
         "CVE-2026-44812",
         "CVE-2026-42985",
         "CVE-2026-42992",
-        "CVE-2026-44801",
         "CVE-2026-44803",
+        "CVE-2026-44799",
         "CVE-2026-47291",
-        "CVE-2026-47289",
         "CVE-2026-48563",
-        "CVE-2026-44799"
+        "CVE-2026-47289",
+        "CVE-2026-44801"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1334,6 +1330,65 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "How World Cup crypto prediction sites take your money",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/07/how-world-cup-crypto-prediction-sites-take-your-money",
+    "published": "Thu, 09 Jul 2026 15:12:43 GMT",
+    "summary": "Crypto prediction games promise easy wins, but some are little more than token sales or outright scams. Here's what to look for.",
+    "analysis": {
+      "issue": "Crypto prediction and betting sites are appearing around the World Cup, and researchers have already tracked scams aimed at fans, including fake ticketing, fixed-match betting, prediction scams, and fan-branded meme coins",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "6.9 million driver’s license numbers stolen from AssuranceAmerica",
+    "link": "https://www.malwarebytes.com/blog/data-breaches/2026/07/6-9-million-drivers-license-numbers-stolen-from-assuranceamerica",
+    "published": "Thu, 09 Jul 2026 15:06:29 GMT",
+    "summary": "Millions of AssuranceAmerica customers are being notified after attackers accessed driver's license numbers and other personal information.",
+    "analysis": {
+      "issue": "Insurance provider AssuranceAmerica has confirmed a data breach affecting the personal information and driver’s license numbers of up to 6",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Microsoft fixes RoguePlanet zero-day in Defender",
+    "link": "https://www.malwarebytes.com/blog/news/2026/07/microsoft-fixes-rogueplanet-zero-day-in-defender",
+    "published": "Thu, 09 Jul 2026 11:38:12 GMT",
+    "summary": "The RoguePlanet zero-day is now fixed in Microsoft Defender. Here's how to make sure your system is protected.",
+    "analysis": {
+      "issue": "Microsoft issued a security update that fixes the zero-day vulnerability known as RoguePlanet in Microsoft Defender",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-50656"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Turn off this Meta setting before someone generates AI images of you",
     "link": "https://www.malwarebytes.com/blog/ai/2026/07/turn-off-this-meta-setting-before-someone-generates-ai-images-of-you",
     "published": "Thu, 09 Jul 2026 09:30:20 GMT",
@@ -1456,62 +1511,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Choose your WhatsApp username carefully",
-    "link": "https://www.malwarebytes.com/blog/news/2026/07/choose-your-whatsapp-username-carefully",
-    "published": "Mon, 06 Jul 2026 12:51:52 GMT",
-    "summary": "WhatsApp is introducing usernames to help protect your phone number. Just make sure you don't undermine that privacy by choosing the wrong one.",
-    "analysis": {
-      "issue": "Dutch consumer organization Consumentenbond has warned users to be careful when choosing their optional WhatsApp username",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "NetNut botnet takes a hit. Don’t be part of the next one.",
-    "link": "https://www.malwarebytes.com/blog/news/2026/07/netnut-botnet-takes-a-hit-dont-be-part-of-the-next-one",
-    "published": "Mon, 06 Jul 2026 11:52:14 GMT",
-    "summary": "Google, the FBI, and other partners have disrupted a residential proxy network built on millions of hijacked devices and used by criminals.",
-    "analysis": {
-      "issue": "In a joint operation, Google, the FBI, and other partners have dealt a significant blow to the residential proxy ecosystem by disrupting the NetNut (also tracked as Popa) botnet",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "DDoS",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "A week in security (June 29 &#8211; July 5)",
-    "link": "https://www.malwarebytes.com/blog/news/2026/07/a-week-in-security-june-29-july-5",
-    "published": "Mon, 06 Jul 2026 07:14:12 GMT",
-    "summary": "A list of topics we covered in the week of June 29 to July 5 of 2026",
-    "analysis": {
-      "issue": "Last week on Malwarebytes Labs: Stay safe",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },

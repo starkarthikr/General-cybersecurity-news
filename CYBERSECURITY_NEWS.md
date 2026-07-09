@@ -1,10 +1,37 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-09 11:31:50 UTC
+**Last Updated:** 2026-07-09 15:22:14 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges](https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html)
+### 1. [AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up](https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 09 Jul 2026 17:56:58 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Summer of Clearinghouses](https://thehackernews.com/2026/07/summer-of-clearinghouses.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 09 Jul 2026 16:30:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [GodDamn Ransomware Uses PoisonX Driver to Disable Endpoint Defenses](https://thehackernews.com/2026/07/goddamn-ransomware-uses-poisonx-driver.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 09 Jul 2026 16:13:09 +0530  
+**Severity:** Low  
+**Categories:** Ransomware  
+
+---
+
+### 4. [Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges](https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 09 Jul 2026 14:18:48 +0530  
@@ -13,7 +40,7 @@
 
 ---
 
-### 2. [Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images](https://thehackernews.com/2026/07/metas-new-ai-image-tool-lets-others-use.html)
+### 5. [Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images](https://thehackernews.com/2026/07/metas-new-ai-image-tool-lets-others-use.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 09 Jul 2026 12:51:06 +0530  
@@ -22,7 +49,7 @@
 
 ---
 
-### 3. [Top AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It](https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html)
+### 6. [Top AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It](https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 09 Jul 2026 10:45:02 +0530  
@@ -31,7 +58,7 @@
 
 ---
 
-### 4. [GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents](https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html)
+### 7. [GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents](https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 09 Jul 2026 09:57:18 +0530  
@@ -40,7 +67,7 @@
 
 ---
 
-### 5. [Fake 7-Zip Installers Turn Devices Into Residential Proxy Nodes](https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html)
+### 8. [Fake 7-Zip Installers Turn Devices Into Residential Proxy Nodes](https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 09 Jul 2026 09:31:49 +0530  
@@ -49,7 +76,7 @@
 
 ---
 
-### 6. [AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers](https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html)
+### 9. [AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers](https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 08 Jul 2026 22:32:12 +0530  
@@ -58,7 +85,7 @@
 
 ---
 
-### 7. [New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware](https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html)
+### 10. [New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware](https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 08 Jul 2026 20:37:24 +0530  
@@ -67,34 +94,25 @@
 
 ---
 
-### 8. [Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS](https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html)
+### 11. [New Forg365 phishing platform uses AI to target Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/new-forg365-phishing-platform-uses-ai-to-target-microsoft-365-accounts/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 08 Jul 2026 20:08:05 +0530  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 9. [New Ghost Phishing Wave Is Breaking Traditional Email Security](https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 08 Jul 2026 18:30:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 09 Jul 2026 10:39:51 -0400  
 **Severity:** Low  
 **Categories:** Phishing  
 
 ---
 
-### 10. [SCMBANKER Malware Uses ClickFix Lures to Target Mexican Banking Users](https://thehackernews.com/2026/07/scmbanker-malware-uses-clickfix-lures.html)
+### 12. [The Hidden Security Risks of Reduced Summer IT Coverage](https://www.bleepingcomputer.com/news/security/the-hidden-security-risks-of-reduced-summer-it-coverage/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 08 Jul 2026 18:22:15 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 09 Jul 2026 10:02:12 -0400  
 **Severity:** Low  
-**Categories:** Malware, APT  
+**Categories:** Vulnerability  
 
 ---
 
-### 11. [Microsoft to retire the OWA Light client in Exchange Server](https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-owa-light-retirement-in-exchange-server/)
+### 13. [Microsoft to retire the OWA Light client in Exchange Server](https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-owa-light-retirement-in-exchange-server/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 09 Jul 2026 07:00:35 -0400  
@@ -103,7 +121,7 @@
 
 ---
 
-### 12. [Police arrests 5,800 suspects in global anti-fraud crackdown](https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/)
+### 14. [Police arrests 5,800 suspects in global anti-fraud crackdown](https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 09 Jul 2026 05:47:28 -0400  
@@ -112,7 +130,7 @@
 
 ---
 
-### 13. [AssuranceAmerica data breach exposes records of 6.9 million drivers](https://www.bleepingcomputer.com/news/security/assuranceamerica-data-breach-exposes-records-of-69-million-drivers/)
+### 15. [AssuranceAmerica data breach exposes records of 6.9 million drivers](https://www.bleepingcomputer.com/news/security/assuranceamerica-data-breach-exposes-records-of-69-million-drivers/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 09 Jul 2026 03:47:16 -0400  
@@ -121,7 +139,7 @@
 
 ---
 
-### 14. [Microsoft patches RoguePlanet Defender zero-day vulnerability](https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/)
+### 16. [Microsoft patches RoguePlanet Defender zero-day vulnerability](https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 09 Jul 2026 01:42:49 -0400  
@@ -131,7 +149,7 @@
 
 ---
 
-### 15. [Mount Royal University confirms breach as hackers claim attack](https://www.bleepingcomputer.com/news/security/mount-royal-university-confirms-breach-as-hackers-claim-attack/)
+### 17. [Mount Royal University confirms breach as hackers claim attack](https://www.bleepingcomputer.com/news/security/mount-royal-university-confirms-breach-as-hackers-claim-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 08 Jul 2026 17:26:59 -0400  
@@ -140,7 +158,7 @@
 
 ---
 
-### 16. [Fake Paysafe, Skrill SDKs on NPM and PyPi steal credentials](https://www.bleepingcomputer.com/news/security/fake-paysafe-skrill-sdks-on-npm-and-pypi-steal-credentials/)
+### 18. [Fake Paysafe, Skrill SDKs on NPM and PyPi steal credentials](https://www.bleepingcomputer.com/news/security/fake-paysafe-skrill-sdks-on-npm-and-pypi-steal-credentials/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 08 Jul 2026 15:54:59 -0400  
@@ -149,7 +167,7 @@
 
 ---
 
-### 17. [Hackers exploit Roundcube flaw to spy on academic researchers](https://www.bleepingcomputer.com/news/security/hackers-exploit-roundcube-flaw-to-spy-on-academic-researchers/)
+### 19. [Hackers exploit Roundcube flaw to spy on academic researchers](https://www.bleepingcomputer.com/news/security/hackers-exploit-roundcube-flaw-to-spy-on-academic-researchers/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 08 Jul 2026 14:56:02 -0400  
@@ -159,30 +177,12 @@
 
 ---
 
-### 18. [Entra passkey enrollment vishing targets Microsoft 365 users](https://www.bleepingcomputer.com/news/security/entra-passkey-enrollment-vishing-targets-microsoft-365-users/)
+### 20. [Entra passkey enrollment vishing targets Microsoft 365 users](https://www.bleepingcomputer.com/news/security/entra-passkey-enrollment-vishing-targets-microsoft-365-users/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 08 Jul 2026 12:47:25 -0400  
 **Severity:** Low  
 **Categories:** Phishing  
-
----
-
-### 19. [3 Ways AI Powers Service Desk Attacks and How to Prevent Them](https://www.bleepingcomputer.com/news/security/3-ways-ai-powers-service-desk-attacks-and-how-to-prevent-them/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 08 Jul 2026 10:01:11 -0400  
-**Severity:** High  
-**Categories:** Data Breach, Vulnerability, Phishing  
-
----
-
-### 20. [DuckDuckGo browser now blocks YouTube video ads](https://www.bleepingcomputer.com/news/software/duckduckgo-browser-now-blocks-youtube-video-ads/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 08 Jul 2026 08:00:00 -0400  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -236,7 +236,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50507, CVE-2026-45586, CVE-2026-49160  
+**CVEs:** CVE-2026-45586, CVE-2026-50507, CVE-2026-49160  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -277,17 +277,64 @@
 
 ---
 
-### 31. [Microsoft Patches Defender ‘RoguePlanet’ Vulnerability](https://www.securityweek.com/microsoft-patches-defender-rogueplanet-vulnerability/)
+### 31. [QIZ Security Raises $17 Million for Cryptographic Governance Platform](https://www.securityweek.com/qiz-security-raises-17-million-for-cryptographic-governance-platform/)
 
 **Source:** Security Week  
-**Published:** Thu, 09 Jul 2026 10:28:35 +0000  
+**Published:** Thu, 09 Jul 2026 15:03:51 +0000  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 32. [UK Government Rolls Out Agentic AI Defense Plan Alongside Industry Pledge](https://www.securityweek.com/uk-government-rolls-out-agentic-ai-defense-plan-alongside-industry-pledge/)
+
+**Source:** Security Week  
+**Published:** Thu, 09 Jul 2026 14:19:53 +0000  
+**Severity:** High  
+**Categories:** Ransomware, Vulnerability, Supply Chain  
+
+---
+
+### 33. [Palo Alto Networks Patches 13 Vulnerabilities](https://www.securityweek.com/palo-alto-networks-patches-13-vulnerabilities/)
+
+**Source:** Security Week  
+**Published:** Thu, 09 Jul 2026 13:49:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-41091, CVE-2026-33825, CVE-2026-50656, CVE-2026-45498  
+**CVEs:** CVE-2026-0288  
+**Categories:** Vulnerability  
+
+---
+
+### 34. [12 Million Impacted by Data Breach at Japanese Telco KDDI](https://www.securityweek.com/12-million-impacted-by-data-breach-at-japanese-telco-kddi/)
+
+**Source:** Security Week  
+**Published:** Thu, 09 Jul 2026 12:18:46 +0000  
+**Severity:** Critical  
+**Categories:** Ransomware, Data Breach, Vulnerability, Supply Chain  
+
+---
+
+### 35. [15-Year-Old Linux Vulnerability ‘GhostLock’ Earns Researchers $92k From Google](https://www.securityweek.com/15-year-old-linux-vulnerability-ghostlock-earns-researchers-92k-from-google/)
+
+**Source:** Security Week  
+**Published:** Thu, 09 Jul 2026 11:52:35 +0000  
+**Severity:** High  
+**CVEs:** CVE-2026-43499  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 32. [Mount Royal University Confirms Data Stolen in Ransomware Attack](https://www.securityweek.com/mount-royal-university-confirms-data-stolen-in-ransomware-attack/)
+### 36. [Microsoft Patches Defender ‘RoguePlanet’ Vulnerability](https://www.securityweek.com/microsoft-patches-defender-rogueplanet-vulnerability/)
+
+**Source:** Security Week  
+**Published:** Thu, 09 Jul 2026 10:28:35 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-41091, CVE-2026-50656, CVE-2026-45498, CVE-2026-33825  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 37. [Mount Royal University Confirms Data Stolen in Ransomware Attack](https://www.securityweek.com/mount-royal-university-confirms-data-stolen-in-ransomware-attack/)
 
 **Source:** Security Week  
 **Published:** Thu, 09 Jul 2026 10:06:18 +0000  
@@ -296,7 +343,7 @@
 
 ---
 
-### 33. [AI Coding Tools Tricked Into Hacking Developer Machine via Decades-Old Technique](https://www.securityweek.com/ai-coding-tools-tricked-into-hacking-developer-machine-via-decades-old-technique/)
+### 38. [AI Coding Tools Tricked Into Hacking Developer Machine via Decades-Old Technique](https://www.securityweek.com/ai-coding-tools-tricked-into-hacking-developer-machine-via-decades-old-technique/)
 
 **Source:** Security Week  
 **Published:** Thu, 09 Jul 2026 08:52:21 +0000  
@@ -305,7 +352,7 @@
 
 ---
 
-### 34. [Chrome 150 Update Patches 27 Vulnerabilities](https://www.securityweek.com/chrome-150-update-patches-27-vulnerabilities/)
+### 39. [Chrome 150 Update Patches 27 Vulnerabilities](https://www.securityweek.com/chrome-150-update-patches-27-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Thu, 09 Jul 2026 07:27:59 +0000  
@@ -314,59 +361,12 @@
 
 ---
 
-### 35. [8Layers Raises $2.9 Million for Identity Security Platform](https://www.securityweek.com/8layers-raises-2-9-million-for-identity-security-platform/)
+### 40. [8Layers Raises $2.9 Million for Identity Security Platform](https://www.securityweek.com/8layers-raises-2-9-million-for-identity-security-platform/)
 
 **Source:** Security Week  
 **Published:** Thu, 09 Jul 2026 06:45:22 +0000  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 36. [Unpatched Backdoor in Tenda Firmware Grants Admin Access to Devices](https://www.securityweek.com/unpatched-backdoor-in-tenda-firmware-grants-admin-access-to-devices/)
-
-**Source:** Security Week  
-**Published:** Thu, 09 Jul 2026 05:00:41 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-11405, CVE-2026-13753  
-**Categories:** Vulnerability, Malware  
-
----
-
-### 37. [Accenture Confirms Data Breach After Hacker Claims Source Code Theft](https://www.securityweek.com/accenture-confirms-data-breach-after-hacker-claims-source-code-theft/)
-
-**Source:** Security Week  
-**Published:** Wed, 08 Jul 2026 16:09:15 +0000  
-**Severity:** High  
-**Categories:** Data Breach  
-
----
-
-### 38. [China-Linked APT Expands Arsenal With New ‘Leash’ Backdoors](https://www.securityweek.com/china-linked-apt-expands-arsenal-with-new-leash-backdoors/)
-
-**Source:** Security Week  
-**Published:** Wed, 08 Jul 2026 15:42:11 +0000  
-**Severity:** Low  
-**CVEs:** CVE-2020-22658, CVE-2023-25717, CVE-2020-22653  
-**Categories:** Vulnerability, Malware, APT  
-
----
-
-### 39. [Webinar Today: Why Email Security Keeps Failing](https://www.securityweek.com/webinar-today-why-email-security-keeps-failing/)
-
-**Source:** Security Week  
-**Published:** Wed, 08 Jul 2026 13:16:28 +0000  
-**Severity:** Low  
-**Categories:** Phishing  
-
----
-
-### 40. [Google Dialogflow CX Bug Allowed Attackers to Hijack AI Conversations](https://www.securityweek.com/google-dialogflow-cx-bug-allowed-attackers-to-hijack-ai-conversations/)
-
-**Source:** Security Week  
-**Published:** Wed, 08 Jul 2026 12:15:00 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, Phishing  
 
 ---
 
@@ -457,7 +457,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-44812, CVE-2026-42985, CVE-2026-42992, CVE-2026-44801, CVE-2026-44803, CVE-2026-47291, CVE-2026-47289, CVE-2026-48563, CVE-2026-44799  
+**CVEs:** CVE-2026-44812, CVE-2026-42985, CVE-2026-42992, CVE-2026-44803, CVE-2026-44799, CVE-2026-47291, CVE-2026-48563, CVE-2026-47289, CVE-2026-44801  
 **Categories:** Vulnerability  
 
 ---
@@ -647,7 +647,35 @@
 
 ---
 
-### 71. [Turn off this Meta setting before someone generates AI images of you](https://www.malwarebytes.com/blog/ai/2026/07/turn-off-this-meta-setting-before-someone-generates-ai-images-of-you)
+### 71. [How World Cup crypto prediction sites take your money](https://www.malwarebytes.com/blog/threat-intel/2026/07/how-world-cup-crypto-prediction-sites-take-your-money)
+
+**Source:** Malwarebytes  
+**Published:** Thu, 09 Jul 2026 15:12:43 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 72. [6.9 million driver’s license numbers stolen from AssuranceAmerica](https://www.malwarebytes.com/blog/data-breaches/2026/07/6-9-million-drivers-license-numbers-stolen-from-assuranceamerica)
+
+**Source:** Malwarebytes  
+**Published:** Thu, 09 Jul 2026 15:06:29 GMT  
+**Severity:** Low  
+**Categories:** Ransomware, Data Breach, Phishing  
+
+---
+
+### 73. [Microsoft fixes RoguePlanet zero-day in Defender](https://www.malwarebytes.com/blog/news/2026/07/microsoft-fixes-rogueplanet-zero-day-in-defender)
+
+**Source:** Malwarebytes  
+**Published:** Thu, 09 Jul 2026 11:38:12 GMT  
+**Severity:** Critical  
+**CVEs:** CVE-2026-50656  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 74. [Turn off this Meta setting before someone generates AI images of you](https://www.malwarebytes.com/blog/ai/2026/07/turn-off-this-meta-setting-before-someone-generates-ai-images-of-you)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 09 Jul 2026 09:30:20 GMT  
@@ -656,7 +684,7 @@
 
 ---
 
-### 72. [Your next car could be watching your face](https://www.malwarebytes.com/blog/news/2026/07/your-next-car-could-be-watching-your-face)
+### 75. [Your next car could be watching your face](https://www.malwarebytes.com/blog/news/2026/07/your-next-car-could-be-watching-your-face)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 08 Jul 2026 12:13:07 GMT  
@@ -665,7 +693,7 @@
 
 ---
 
-### 73. [How the Reddit and Discord false report scam steals accounts](https://www.malwarebytes.com/blog/threat-intel/2026/07/how-the-reddit-and-discord-false-report-scam-steals-accounts)
+### 76. [How the Reddit and Discord false report scam steals accounts](https://www.malwarebytes.com/blog/threat-intel/2026/07/how-the-reddit-and-discord-false-report-scam-steals-accounts)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 07 Jul 2026 17:45:35 GMT  
@@ -674,7 +702,7 @@
 
 ---
 
-### 74. [Fake Netflix, Coca-Cola, and FIFA job scams target marketers](https://www.malwarebytes.com/blog/scams/2026/07/fake-netflix-coca-cola-and-fifa-job-scams-target-marketers)
+### 77. [Fake Netflix, Coca-Cola, and FIFA job scams target marketers](https://www.malwarebytes.com/blog/scams/2026/07/fake-netflix-coca-cola-and-fifa-job-scams-target-marketers)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 07 Jul 2026 13:43:44 GMT  
@@ -683,7 +711,7 @@
 
 ---
 
-### 75. [Claude Code’s hidden tracker was an “experiment,” says Anthropic](https://www.malwarebytes.com/blog/news/2026/07/claude-codes-hidden-tracker-was-an-experiment-says-anthropic)
+### 78. [Claude Code’s hidden tracker was an “experiment,” says Anthropic](https://www.malwarebytes.com/blog/news/2026/07/claude-codes-hidden-tracker-was-an-experiment-says-anthropic)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 07 Jul 2026 11:20:28 GMT  
@@ -692,7 +720,7 @@
 
 ---
 
-### 76. [Scammers are using AI to sell impossible flowers](https://www.malwarebytes.com/blog/scams/2026/07/scammers-are-using-ai-to-sell-impossible-flowers)
+### 79. [Scammers are using AI to sell impossible flowers](https://www.malwarebytes.com/blog/scams/2026/07/scammers-are-using-ai-to-sell-impossible-flowers)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 07 Jul 2026 09:31:52 GMT  
@@ -701,39 +729,12 @@
 
 ---
 
-### 77. [How to tell if an image is AI-generated](https://www.malwarebytes.com/blog/ai/2026/07/how-to-tell-if-an-image-is-ai-generated)
+### 80. [How to tell if an image is AI-generated](https://www.malwarebytes.com/blog/ai/2026/07/how-to-tell-if-an-image-is-ai-generated)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 06 Jul 2026 16:22:32 GMT  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 78. [Choose your WhatsApp username carefully](https://www.malwarebytes.com/blog/news/2026/07/choose-your-whatsapp-username-carefully)
-
-**Source:** Malwarebytes  
-**Published:** Mon, 06 Jul 2026 12:51:52 GMT  
-**Severity:** High  
-**Categories:** General Security  
-
----
-
-### 79. [NetNut botnet takes a hit. Don’t be part of the next one.](https://www.malwarebytes.com/blog/news/2026/07/netnut-botnet-takes-a-hit-dont-be-part-of-the-next-one)
-
-**Source:** Malwarebytes  
-**Published:** Mon, 06 Jul 2026 11:52:14 GMT  
-**Severity:** High  
-**Categories:** Malware, DDoS, Supply Chain  
-
----
-
-### 80. [A week in security (June 29 &#8211; July 5)](https://www.malwarebytes.com/blog/news/2026/07/a-week-in-security-june-29-july-5)
-
-**Source:** Malwarebytes  
-**Published:** Mon, 06 Jul 2026 07:14:12 GMT  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
