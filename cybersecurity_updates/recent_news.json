@@ -1,6 +1,96 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges",
+    "link": "https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html",
+    "published": "Thu, 09 Jul 2026 14:18:48 +0530",
+    "summary": "Microsoft has released security updates for a Defender vulnerability known as RoguePlanet, nearly a month after details of the flaw became public.\n\nThe vulnerability, tracked as CVE-2026-50656 (CVSS score: 7.8), is a privilege escalation issue in the Microsoft Malware Protection Engine (\"mpengine.dll\"), which provides scanning, detection, and cleaning capabilities for its antivirus and",
+    "analysis": {
+      "issue": "Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges | Read more hacking news on The Hacker News cybersecurity news website and learn how to protect against cyberattacks and software vulnerabilities",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images",
+    "link": "https://thehackernews.com/2026/07/metas-new-ai-image-tool-lets-others-use.html",
+    "published": "Thu, 09 Jul 2026 12:51:06 +0530",
+    "summary": "Meta has announced that its new artificial intelligence (AI) model Muse Image lets people use public Instagram posts and reels to generate AI content, and it's enabled by default.\n\n\"You can also @-mention Instagram accounts in the Meta AI app to bring specific Instagram profiles right into your images,\" the social media giant said in a post.\n\n\"Whether you want to design a custom event invitation",
+    "analysis": {
+      "issue": "Meta Muse Image lets users tag public Instagram accounts to generate AI images, with public posts and reels reusable by default unless disabled",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Top AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It",
+    "link": "https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html",
+    "published": "Thu, 09 Jul 2026 10:45:02 +0530",
+    "summary": "Ask an AI coding agent to scan open-source code for security holes, and it might run the attacker's code on your own machine instead.\n\nThat is the finding in a&nbsp;proof-of-concept published Wednesday&nbsp;by the AI Now Institute, an attack it calls \"Friendly Fire.\" It works against Anthropic's Claude Code and OpenAI's Codex when either is running in an autonomous mode that approves its own",
+    "analysis": {
+      "issue": "AI Now’s Friendly Fire PoC shows Claude Code and Codex running README-planted payloads on hosts when autonomous command approval is enabled",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents",
+    "link": "https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html",
+    "published": "Thu, 09 Jul 2026 09:57:18 +0530",
+    "summary": "Researchers at&nbsp;Wiz&nbsp;found that a flaw in six popular AI coding assistants lets a booby-trapped code project quietly take control of a developer's computer. The assistant asks permission to edit one harmless-looking file, but the write lands on a sensitive one instead.\n\nThe affected tools are Amazon Q Developer, Anthropic's Claude Code, Augment, Cursor, Google Antigravity, and Windsurf.",
+    "analysis": {
+      "issue": "Wiz says GhostApproval abuses symlinks so AI coding agents write to SSH keys or shell startup files while showing benign paths",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Fake 7-Zip Installers Turn Devices Into Residential Proxy Nodes",
+    "link": "https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html",
+    "published": "Thu, 09 Jul 2026 09:31:49 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a new threat actor dubbed Lurking Lizard that has been operating an end-to-end malicious residential proxy business using an infrastructure comprising more than 230 lookalike domains.\n\nThe activity dates back to at least August 2022, according to DNS threat intelligence firm Infoblox. Once such campaign, observed earlier this year, involved the",
+    "analysis": {
+      "issue": "Infoblox says Lurking Lizard has used fake installers, mobile apps, and lookalike domains to recruit devices into a proxy botnet",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers",
     "link": "https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html",
     "published": "Wed, 08 Jul 2026 22:32:12 +0530",
@@ -91,13 +181,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "GitHub 'Verified' Commits Can Be Rewritten Into New Hashes Without Breaking Signatures",
-    "link": "https://thehackernews.com/2026/07/github-verified-commits-can-be.html",
-    "published": "Wed, 08 Jul 2026 17:21:24 +0530",
-    "summary": "New research shows that a signed Git commit's hash is not the one-of-a-kind name that much of the software world assumes it to be. Given any signed commit, someone without the signing key can mint a second commit with the same files, author, and date, and a valid signature, GitHub still stamps \"Verified.\"\n\nEverything a reviewer would check matches. The commit's hash does not. That matters",
+    "source": "Bleeping Computer",
+    "title": "Microsoft to retire the OWA Light client in Exchange Server",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-owa-light-retirement-in-exchange-server/",
+    "published": "Thu, 09 Jul 2026 07:00:35 -0400",
+    "summary": "Microsoft has announced plans to disable Outlook Web Access (OWA) Light, the lightweight version of the Outlook Web App email client, in a future Exchange Server update. [...]",
     "analysis": {
-      "issue": "Research shows signed Git commits can be re-encoded into fresh GitHub Verified hashes without changing files or breaking signatures",
+      "issue": "Microsoft has announced plans to disable Outlook Web Access (OWA) Light, the lightweight version of the Outlook Web App email client, in a future Exchange Server update",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -109,17 +199,17 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "The Verification Step Is the New ATO Battleground in 2026",
-    "link": "https://thehackernews.com/2026/07/the-verification-step-is-new-ato.html",
-    "published": "Wed, 08 Jul 2026 17:00:00 +0530",
-    "summary": "For years, account takeover (ATO) followed a predictable script. Attackers bought stolen credentials in bulk, ran them through automated tools, and waited for matches. Credential stuffing was cheap, scalable, and for defenders, relatively well understood.\n\nThat era is ending. Not because attackers gave up, but because the front door finally got harder to kick in.\n\nPasskeys are now mainstream.",
+    "source": "Bleeping Computer",
+    "title": "Police arrests 5,800 suspects in global anti-fraud crackdown",
+    "link": "https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/",
+    "published": "Thu, 09 Jul 2026 05:47:28 -0400",
+    "summary": "Law enforcement agencies have arrested 5,811 suspects and seized $293 million in illicit assets in a global anti-fraud operation spanning 97 countries. [...]",
     "analysis": {
-      "issue": "Passkeys reduce stolen-password value, shifting ATO toward recovery, re-verification, magic links, and AI-driven identity fraud in 2026",
+      "issue": "Law enforcement agencies have arrested 5,811 suspects and seized $293 million in illicit assets in a global anti-fraud operation spanning 97 countries",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
         "General Security"
@@ -127,58 +217,41 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code",
-    "link": "https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html",
-    "published": "Wed, 08 Jul 2026 16:51:07 +0530",
-    "summary": "An AI coding assistant that refuses to answer a dangerous request in its chat box can answer it anyway if the same request is broken into small, ordinary-looking steps inside a code editor. That is the finding of a&nbsp;new study of GitHub Copilot&nbsp;by researchers Abhishek Kumar and Carsten Maple.\n\nThe models they tested through Copilot, Claude from Anthropic, and Gemini from Google, refused",
+    "source": "Bleeping Computer",
+    "title": "AssuranceAmerica data breach exposes records of 6.9 million drivers",
+    "link": "https://www.bleepingcomputer.com/news/security/assuranceamerica-data-breach-exposes-records-of-69-million-drivers/",
+    "published": "Thu, 09 Jul 2026 03:47:16 -0400",
+    "summary": "American insurance company AssuranceAmerica has disclosed a data breach impacting nearly 7 million drivers after attackers gained access to its systems earlier this year.  [...]",
     "analysis": {
-      "issue": "GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code | Read more hacking news on The Hacker News cybersecurity news website and learn how to protect against cyberattacks and software vulnerabilities",
+      "issue": "American insurance company AssuranceAmerica has disclosed a data breach impacting nearly 7 million drivers after attackers gained access to its systems earlier this year",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Data Breach"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware",
-    "link": "https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html",
-    "published": "Wed, 08 Jul 2026 14:34:33 +0530",
-    "summary": "A Chinese threat actor tracked as UAT-7810 is actively refining its bespoke malware to expand its Operational Relay Box (ORB) network by breaking into internet-facing networking devices.\n\nAccording to findings from Cisco Talos, UAT-7810 is an advanced persistent threat (APT) actor that's responsible for maintaining and proliferating LapDogs, an ORB network that first came to light in June 2025.",
+    "source": "Bleeping Computer",
+    "title": "Microsoft patches RoguePlanet Defender zero-day vulnerability",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/",
+    "published": "Thu, 09 Jul 2026 01:42:49 -0400",
+    "summary": "Microsoft has released a security patch to address a Defender zero-day vulnerability known as \"RoguePlanet,\" disclosed after the June 2026 Patch Tuesday. [...]",
     "analysis": {
-      "issue": "Cisco Talos says UAT-7810 is refining LONGLEASH, DOGLEASH, and JARLEASH to expand the LapDogs ORB network",
+      "issue": "Microsoft has released a security patch to address a Defender zero-day vulnerability known as \"RoguePlanet,\" disclosed after the June 2026 Patch Tuesday",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros",
-    "link": "https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html",
-    "published": "Wed, 08 Jul 2026 11:46:44 +0530",
-    "summary": "Researchers at&nbsp;Nebula Security&nbsp;have disclosed GhostLock (CVE-2026-43499), a 15-year-old Linux kernel flaw that lets any logged-in user take full&nbsp;root&nbsp;control of a machine that has not been patched.\n\nThe vulnerable code has shipped by default in essentially every mainstream distribution since 2011. The flaw needs no special permission, no unusual settings, and no network",
-    "analysis": {
-      "issue": "GhostLock (CVE-2026-43499), a 15-year-old use-after-free in Linux's futex code, gives any local user root",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [
-        "CVE-2026-43499"
+        "CVE-2026-50656"
       ],
       "threat_categories": [
-        "Vulnerability"
+        "Vulnerability",
+        "Malware"
       ]
     }
   },
@@ -297,93 +370,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Telco giant KDDI says data breach affects over 12 million people",
-    "link": "https://www.bleepingcomputer.com/news/security/japanese-telecom-giant-kddi-says-data-breach-affects-12-million-people/",
-    "published": "Wed, 08 Jul 2026 07:24:16 -0400",
-    "summary": "Japanese telecommunications giant KDDI says that millions of people had their email addresses and passwords exposed after attackers breached an email platform used by five internet service providers (ISPs) in the country. [...]",
-    "analysis": {
-      "issue": "Japanese telecommunications giant KDDI revealed that millions of people had their email addresses and passwords exposed after attackers breached an email platform used by five internet service providers (ISPs) in the country",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA orders feds to prioritize patching Langflow auth bypass flaw",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/",
-    "published": "Wed, 08 Jul 2026 05:58:11 -0400",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) gave federal agencies until Friday to patch an actively exploited vulnerability in the Langflow visual framework for building AI agents. [...]",
-    "analysis": {
-      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) gave federal agencies until Friday to patch an actively exploited vulnerability in the Langflow visual framework for building AI agents",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-55255"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Ubiquiti warns of new max severity  UniFi OS vulnerability",
-    "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/",
-    "published": "Wed, 08 Jul 2026 04:15:20 -0400",
-    "summary": "Ubiquiti has released security updates to patch seven critical vulnerabilities in UniFi OS, including a maximum-severity flaw that can be exploited in command injection attacks. [...]",
-    "analysis": {
-      "issue": "Ubiquiti has released security updates to patch seven critical vulnerabilities in UniFi OS, including a maximum-severity flaw tracked as CVE-2026-50746 that can be exploited in command injection attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-54402",
-        "CVE-2026-50747",
-        "CVE-2026-54400",
-        "CVE-2026-55115",
-        "CVE-2026-55116",
-        "CVE-2026-50748",
-        "CVE-2026-50746"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA orders feds to patch max severity ColdFusion flaw by Friday",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-coldfusion-flaw-by-friday/",
-    "published": "Wed, 08 Jul 2026 03:16:55 -0400",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered government agencies to patch an actively exploited maximum-severity flaw in the Adobe ColdFusion commercial web app development platform by Friday. [...]",
-    "analysis": {
-      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) has ordered government agencies to patch an actively exploited maximum-severity flaw in the Adobe ColdFusion commercial web app development platform by Friday",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2026-48282"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
     "link": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
@@ -490,8 +476,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-45586",
         "CVE-2026-50507",
+        "CVE-2026-45586",
         "CVE-2026-49160"
       ],
       "threat_categories": [
@@ -577,6 +563,127 @@
   },
   {
     "source": "Security Week",
+    "title": "Microsoft Patches Defender ‘RoguePlanet’ Vulnerability",
+    "link": "https://www.securityweek.com/microsoft-patches-defender-rogueplanet-vulnerability/",
+    "published": "Thu, 09 Jul 2026 10:28:35 +0000",
+    "summary": "<p>The privilege escalation vulnerability tracked as CVE-2026-50656 has been patched with a Microsoft Malware Protection Engine update.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-patches-defender-rogueplanet-vulnerability/\">Microsoft Patches Defender &#8216;RoguePlanet&#8217; Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The privilege escalation vulnerability tracked as CVE-2026-50656 has been patched with a Microsoft Malware Protection Engine update",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-41091",
+        "CVE-2026-33825",
+        "CVE-2026-50656",
+        "CVE-2026-45498"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Mount Royal University Confirms Data Stolen in Ransomware Attack",
+    "link": "https://www.securityweek.com/mount-royal-university-confirms-data-stolen-in-ransomware-attack/",
+    "published": "Thu, 09 Jul 2026 10:06:18 +0000",
+    "summary": "<p>Hackers accessed the institution’s internal network and deleted two drives containing employee, student, and university data.</p>\n<p>The post <a href=\"https://www.securityweek.com/mount-royal-university-confirms-data-stolen-in-ransomware-attack/\">Mount Royal University Confirms Data Stolen in Ransomware Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Hackers accessed the institution’s internal network and deleted two drives containing employee, student, and university data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "AI Coding Tools Tricked Into Hacking Developer Machine via Decades-Old Technique",
+    "link": "https://www.securityweek.com/ai-coding-tools-tricked-into-hacking-developer-machine-via-decades-old-technique/",
+    "published": "Thu, 09 Jul 2026 08:52:21 +0000",
+    "summary": "<p>Wiz has disclosed the details of a new AI coding assistant attack method it has dubbed GhostApproval.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-coding-tools-tricked-into-hacking-developer-machine-via-decades-old-technique/\">AI Coding Tools Tricked Into Hacking Developer Machine via Decades-Old Technique</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Wiz has disclosed the details of a new AI coding assistant attack method it has dubbed GhostApproval",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Chrome 150 Update Patches 27 Vulnerabilities",
+    "link": "https://www.securityweek.com/chrome-150-update-patches-27-vulnerabilities/",
+    "published": "Thu, 09 Jul 2026 07:27:59 +0000",
+    "summary": "<p>The security refresh resolves 13 use-after-free bugs, including two critical-severity flaws found by Google.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-150-update-patches-27-vulnerabilities/\">Chrome 150 Update Patches 27 Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The security refresh resolves 13 use-after-free bugs, including two critical-severity flaws found by Google",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "8Layers Raises $2.9 Million for Identity Security Platform",
+    "link": "https://www.securityweek.com/8layers-raises-2-9-million-for-identity-security-platform/",
+    "published": "Thu, 09 Jul 2026 06:45:22 +0000",
+    "summary": "<p>The Spanish startup has closed an extended pre-seed funding round two months after launching its digital identity protection platform.</p>\n<p>The post <a href=\"https://www.securityweek.com/8layers-raises-2-9-million-for-identity-security-platform/\">8Layers Raises $2.9 Million for Identity Security Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The Spanish startup has closed an extended pre-seed funding round two months after launching its digital identity protection platform",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Unpatched Backdoor in Tenda Firmware Grants Admin Access to Devices",
+    "link": "https://www.securityweek.com/unpatched-backdoor-in-tenda-firmware-grants-admin-access-to-devices/",
+    "published": "Thu, 09 Jul 2026 05:00:41 +0000",
+    "summary": "<p>Tracked as CVE-2026-11405, the vulnerability allows unauthenticated attackers to access a device's web management interface.</p>\n<p>The post <a href=\"https://www.securityweek.com/unpatched-backdoor-in-tenda-firmware-grants-admin-access-to-devices/\">Unpatched Backdoor in Tenda Firmware Grants Admin Access to Devices</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Tracked as CVE-2026-11405, the vulnerability allows unauthenticated attackers to access a device’s web management interface",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-11405",
+        "CVE-2026-13753"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Accenture Confirms Data Breach After Hacker Claims Source Code Theft",
     "link": "https://www.securityweek.com/accenture-confirms-data-breach-after-hacker-claims-source-code-theft/",
     "published": "Wed, 08 Jul 2026 16:09:15 +0000",
@@ -651,128 +758,6 @@
       "threat_categories": [
         "Vulnerability",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "CISA Urges Immediate Patching of Exploited ColdFusion, Langflow, Joomla Flaws",
-    "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-coldfusion-langflow-joomla-flaws/",
-    "published": "Wed, 08 Jul 2026 10:45:25 +0000",
-    "summary": "<p>Two newly disclosed critical vulnerabilities in Adobe ColdFusion and Langflow join two Joomla extension flaws in CISA's Known Exploited Vulnerabilities catalog, with federal agencies given until July 10 to patch.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-coldfusion-langflow-joomla-flaws/\">CISA Urges Immediate Patching of Exploited ColdFusion, Langflow, Joomla Flaws</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Two newly disclosed critical vulnerabilities in Adobe ColdFusion and Langflow join two Joomla extension flaws in CISA’s Known Exploited Vulnerabilities catalog, with federal agencies given until July 10 to patch",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-33017",
-        "CVE-2026-55255",
-        "CVE-2026-48908",
-        "CVE-2026-48282",
-        "CVE-2026-56290"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Critical Vulnerability Exposes GitHub Agentic Workflows to Prompt Injection",
-    "link": "https://www.securityweek.com/critical-vulnerability-exposes-github-agentic-workflows-to-prompt-injection/",
-    "published": "Wed, 08 Jul 2026 10:30:55 +0000",
-    "summary": "<p>Researchers show how attackers can use a crafted public GitHub Issue to trick AI-powered workflows into exposing data from private repositories without authentication.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-vulnerability-exposes-github-agentic-workflows-to-prompt-injection/\">Critical Vulnerability Exposes GitHub Agentic Workflows to Prompt Injection</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Researchers show how attackers can use a crafted public GitHub Issue to trick AI-powered workflows into exposing data from private repositories without authentication",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "County Government Reportedly Paid $1 Million to Cyber Extortion Group",
-    "link": "https://www.securityweek.com/county-government-reportedly-paid-1-million-to-cyber-extortion-group/",
-    "published": "Tue, 07 Jul 2026 17:31:54 +0000",
-    "summary": "<p>The alleged victim, believed to be a small Ohio county, reportedly paid the extortion group to prevent the public release of sensitive stolen data.</p>\n<p>The post <a href=\"https://www.securityweek.com/county-government-reportedly-paid-1-million-to-cyber-extortion-group/\">County Government Reportedly Paid $1 Million to Cyber Extortion Group</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The alleged victim, believed to be a small Ohio county, reportedly paid the extortion group to prevent the public release of sensitive stolen data",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Critical Gitea Flaw Under Active Exploitation, Researchers Warn",
-    "link": "https://www.securityweek.com/critical-gitea-flaw-under-active-exploitation-researchers-warn/",
-    "published": "Tue, 07 Jul 2026 17:17:19 +0000",
-    "summary": "<p>Attackers are exploiting the critical Gitea vulnerability CVE-2026-20896 to bypass authentication with a single HTTP header and access vulnerable repositories and secrets.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-gitea-flaw-under-active-exploitation-researchers-warn/\">Critical Gitea Flaw Under Active Exploitation, Researchers Warn</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Attackers are exploiting the critical Gitea vulnerability CVE-2026-20896 to bypass authentication with a single HTTP header and access vulnerable repositories and secrets",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-20896"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "CISA Reportedly Using Anthropic’s Mythos to Scan Government Software for Flaws",
-    "link": "https://www.securityweek.com/cisa-reportedly-using-anthropics-mythos-to-scan-government-software-for-flaws/",
-    "published": "Tue, 07 Jul 2026 13:13:02 +0000",
-    "summary": "<p>The audits are reportedly being spearheaded by CISA’s Attack Surface Evaluation team, a specialized unit tasked with conducting digital defense assessments and simulated hacking exercises.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-reportedly-using-anthropics-mythos-to-scan-government-software-for-flaws/\">CISA Reportedly Using Anthropic’s Mythos to Scan Government Software for Flaws</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The audits are reportedly being spearheaded by CISA’s Attack Surface Evaluation team, a specialized unit tasked with conducting digital defense assessments and simulated hacking exercises",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Critical Adobe ColdFusion Vulnerability Exploited in Attacks",
-    "link": "https://www.securityweek.com/critical-adobe-coldfusion-vulnerability-exploited-in-attacks/",
-    "published": "Tue, 07 Jul 2026 12:38:34 +0000",
-    "summary": "<p>Hackers are exploiting a recently patched critical vulnerability (CVE-2026-48282) in Adobe ColdFusion that carries a CVSS score of 10/10.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-adobe-coldfusion-vulnerability-exploited-in-attacks/\">Critical Adobe ColdFusion Vulnerability Exploited in Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Hackers are exploiting a recently patched critical vulnerability (CVE-2026-48282) in Adobe ColdFusion that carries a CVSS score of 10/10",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-48282"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "APT"
       ]
     }
   },
@@ -957,14 +942,14 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-44812",
-        "CVE-2026-44801",
-        "CVE-2026-47289",
-        "CVE-2026-47291",
-        "CVE-2026-44803",
         "CVE-2026-42985",
-        "CVE-2026-44799",
+        "CVE-2026-42992",
+        "CVE-2026-44801",
+        "CVE-2026-44803",
+        "CVE-2026-47291",
+        "CVE-2026-47289",
         "CVE-2026-48563",
-        "CVE-2026-42992"
+        "CVE-2026-44799"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1318,8 +1303,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1344,6 +1329,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Turn off this Meta setting before someone generates AI images of you",
+    "link": "https://www.malwarebytes.com/blog/ai/2026/07/turn-off-this-meta-setting-before-someone-generates-ai-images-of-you",
+    "published": "Thu, 09 Jul 2026 09:30:20 GMT",
+    "summary": "Meta's new Muse Image tool lets anyone generate AI images of you from your public Insta profile. You won't be notified, and it's on by default.",
+    "analysis": {
+      "issue": "Every consumer app has a settings menu that lets you make decisions about things like notifications or dark mode",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1513,20 +1516,20 @@
     }
   },
   {
-    "source": "Malwarebytes",
-    "title": "Verified X ad spreads Mac malware, while ConsentFix steals Microsoft accounts",
-    "link": "https://www.malwarebytes.com/blog/news/2026/07/verified-x-ad-spreads-mac-malware-while-consentfix-steals-microsoft-accounts",
-    "published": "Fri, 03 Jul 2026 13:30:36 GMT",
-    "summary": "Two new campaigns show how cybercriminals are increasingly relying on social engineering instead of software exploits to compromise devices and accounts.",
+    "source": "Crowdstrike Blog",
+    "title": "Falcon Secure Access Sets the Standard for Zero Trust Browser Security",
+    "link": "https://www.crowdstrike.com/en-us/blog/falcon-secure-access-sets-standard-for-zero-trust-security-browser/",
+    "published": "Jul 08, 2026 00:00:00-0500",
+    "summary": "",
     "analysis": {
-      "issue": "Cybercriminals are finding new ways to trick people into compromising their own devices and accounts",
+      "issue": "Frost & Sullivan names CrowdStrike the 2026 Global Enabling Technology Leader in Zero Trust Browser Security",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "General Security"
       ]
     }
   },
@@ -1689,25 +1692,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "Falcon Exposure Management Now Available for Third-Party Environments",
-    "link": "https://www.crowdstrike.com/en-us/blog/falcon-exposure-management-now-available-for-third-party-environments/",
-    "published": "Jun 16, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "Organizations gain exploitability-driven prioritization and continuous visibility to face modern security challenges",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
       ]
     }
   }
