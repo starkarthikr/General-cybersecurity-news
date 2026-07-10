@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-09 18:17:19 UTC
+**Last Updated:** 2026-07-10 03:51:04 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk](https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html)
+### 1. [Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs](https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 10 Jul 2026 00:08:49 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware](https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 09 Jul 2026 23:38:07 +0530  
+**Severity:** Low  
+**Categories:** Ransomware, Malware  
+
+---
+
+### 3. [npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk](https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 09 Jul 2026 22:19:02 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories](https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html)
+### 4. [ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories](https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 09 Jul 2026 20:39:28 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up](https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html)
+### 5. [AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up](https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 09 Jul 2026 17:56:58 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [Summer of Clearinghouses](https://thehackernews.com/2026/07/summer-of-clearinghouses.html)
+### 6. [Summer of Clearinghouses](https://thehackernews.com/2026/07/summer-of-clearinghouses.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 09 Jul 2026 16:30:00 +0530  
@@ -40,7 +58,7 @@
 
 ---
 
-### 5. [GodDamn Ransomware Uses PoisonX Driver to Disable Endpoint Defenses](https://thehackernews.com/2026/07/goddamn-ransomware-uses-poisonx-driver.html)
+### 7. [GodDamn Ransomware Uses PoisonX Driver to Disable Endpoint Defenses](https://thehackernews.com/2026/07/goddamn-ransomware-uses-poisonx-driver.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 09 Jul 2026 16:13:09 +0530  
@@ -49,7 +67,7 @@
 
 ---
 
-### 6. [Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges](https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html)
+### 8. [Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges](https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 09 Jul 2026 14:18:48 +0530  
@@ -58,7 +76,7 @@
 
 ---
 
-### 7. [Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images](https://thehackernews.com/2026/07/metas-new-ai-image-tool-lets-others-use.html)
+### 9. [Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images](https://thehackernews.com/2026/07/metas-new-ai-image-tool-lets-others-use.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 09 Jul 2026 12:51:06 +0530  
@@ -67,7 +85,7 @@
 
 ---
 
-### 8. [Top AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It](https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html)
+### 10. [Top AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It](https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 09 Jul 2026 10:45:02 +0530  
@@ -76,25 +94,25 @@
 
 ---
 
-### 9. [GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents](https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html)
+### 11. [OpenMandriva Linux says contributor tried to sabotage the project](https://www.bleepingcomputer.com/news/security/openmandriva-linux-says-contributor-tried-to-sabotage-the-project/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 09 Jul 2026 09:57:18 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 09 Jul 2026 18:14:13 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 10. [Fake 7-Zip Installers Turn Devices Into Residential Proxy Nodes](https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html)
+### 12. [Injective SDK on npm infected with cryptocurrency wallet stealer](https://www.bleepingcomputer.com/news/security/injective-sdk-on-npm-infected-with-cryptocurrency-wallet-stealer/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 09 Jul 2026 09:31:49 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 09 Jul 2026 16:10:00 -0400  
 **Severity:** Low  
-**Categories:** Malware  
+**Categories:** General Security  
 
 ---
 
-### 11. [New Helix vishing group emerges in SharePoint data theft attacks](https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/)
+### 13. [New Helix vishing group emerges in SharePoint data theft attacks](https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 09 Jul 2026 13:08:29 -0400  
@@ -103,7 +121,7 @@
 
 ---
 
-### 12. [Microsoft expects more Windows security updates from AI-discovered flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/)
+### 14. [Microsoft expects more Windows security updates from AI-discovered flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 09 Jul 2026 13:00:00 -0400  
@@ -112,7 +130,7 @@
 
 ---
 
-### 13. [New Forg365 phishing platform uses AI to target Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/new-forg365-phishing-platform-uses-ai-to-target-microsoft-365-accounts/)
+### 15. [New Forg365 phishing platform uses AI to target Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/new-forg365-phishing-platform-uses-ai-to-target-microsoft-365-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 09 Jul 2026 10:39:51 -0400  
@@ -121,7 +139,7 @@
 
 ---
 
-### 14. [The Hidden Security Risks of Reduced Summer IT Coverage](https://www.bleepingcomputer.com/news/security/the-hidden-security-risks-of-reduced-summer-it-coverage/)
+### 16. [The Hidden Security Risks of Reduced Summer IT Coverage](https://www.bleepingcomputer.com/news/security/the-hidden-security-risks-of-reduced-summer-it-coverage/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 09 Jul 2026 10:02:12 -0400  
@@ -130,7 +148,7 @@
 
 ---
 
-### 15. [Microsoft to retire the OWA Light client in Exchange Server](https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-owa-light-retirement-in-exchange-server/)
+### 17. [Microsoft to retire the OWA Light client in Exchange Server](https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-owa-light-retirement-in-exchange-server/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 09 Jul 2026 07:00:35 -0400  
@@ -139,7 +157,7 @@
 
 ---
 
-### 16. [Police arrests 5,800 suspects in global anti-fraud crackdown](https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/)
+### 18. [Police arrests 5,800 suspects in global anti-fraud crackdown](https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 09 Jul 2026 05:47:28 -0400  
@@ -148,7 +166,7 @@
 
 ---
 
-### 17. [AssuranceAmerica data breach exposes records of 6.9 million drivers](https://www.bleepingcomputer.com/news/security/assuranceamerica-data-breach-exposes-records-of-69-million-drivers/)
+### 19. [AssuranceAmerica data breach exposes records of 6.9 million drivers](https://www.bleepingcomputer.com/news/security/assuranceamerica-data-breach-exposes-records-of-69-million-drivers/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 09 Jul 2026 03:47:16 -0400  
@@ -157,31 +175,13 @@
 
 ---
 
-### 18. [Microsoft patches RoguePlanet Defender zero-day vulnerability](https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/)
+### 20. [Microsoft patches RoguePlanet Defender zero-day vulnerability](https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 09 Jul 2026 01:42:49 -0400  
 **Severity:** Critical  
 **CVEs:** CVE-2026-50656  
 **Categories:** Vulnerability, Malware  
-
----
-
-### 19. [Mount Royal University confirms breach as hackers claim attack](https://www.bleepingcomputer.com/news/security/mount-royal-university-confirms-breach-as-hackers-claim-attack/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 08 Jul 2026 17:26:59 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [Fake Paysafe, Skrill SDKs on NPM and PyPi steal credentials](https://www.bleepingcomputer.com/news/security/fake-paysafe-skrill-sdks-on-npm-and-pypi-steal-credentials/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 08 Jul 2026 15:54:59 -0400  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
@@ -328,7 +328,7 @@
 **Source:** Security Week  
 **Published:** Thu, 09 Jul 2026 10:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-41091, CVE-2026-50656, CVE-2026-45498, CVE-2026-33825  
+**CVEs:** CVE-2026-50656, CVE-2026-45498, CVE-2026-41091, CVE-2026-33825  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -369,7 +369,17 @@
 
 ---
 
-### 41. [Winning 54% of the time](https://blog.talosintelligence.com/winning-54-of-the-time/)
+### 41. [WolfSSL, GeoVision, VTK vulnerabilities](https://blog.talosintelligence.com/wolfssl-vulnerabilities/)
+
+**Source:** Talos Blog  
+**Published:** Thu, 09 Jul 2026 18:52:29 GMT  
+**Severity:** Low  
+**CVEs:** CVE-2026-25106, CVE-2026-28739, CVE-2026-33091  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 42. [Winning 54% of the time](https://blog.talosintelligence.com/winning-54-of-the-time/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 09 Jul 2026 18:00:06 GMT  
@@ -378,7 +388,7 @@
 
 ---
 
-### 42. [UAT-7810 continues building ORB networks using new malware](https://blog.talosintelligence.com/uat-7810/)
+### 43. [UAT-7810 continues building ORB networks using new malware](https://blog.talosintelligence.com/uat-7810/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 07 Jul 2026 10:00:05 GMT  
@@ -388,7 +398,7 @@
 
 ---
 
-### 43. [Catan and Mouse](https://blog.talosintelligence.com/catan-and-mouse/)
+### 44. [Catan and Mouse](https://blog.talosintelligence.com/catan-and-mouse/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 02 Jul 2026 18:00:34 GMT  
@@ -397,7 +407,7 @@
 
 ---
 
-### 44. [Martin Lee: Running through the Arctic (and the threat landscape)](https://blog.talosintelligence.com/martin-lee-running-through-the-arctic-and-the-threat-landscape/)
+### 45. [Martin Lee: Running through the Arctic (and the threat landscape)](https://blog.talosintelligence.com/martin-lee-running-through-the-arctic-and-the-threat-landscape/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 01 Jul 2026 10:00:57 GMT  
@@ -406,7 +416,7 @@
 
 ---
 
-### 45. [ARToken: Inside an EvilTokens affiliate panel targeting Microsoft 365](https://blog.talosintelligence.com/artoken-inside-an-eviltokens-affiliate-panel-targeting-microsoft-365/)
+### 46. [ARToken: Inside an EvilTokens affiliate panel targeting Microsoft 365](https://blog.talosintelligence.com/artoken-inside-an-eviltokens-affiliate-panel-targeting-microsoft-365/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 01 Jul 2026 10:00:38 GMT  
@@ -415,7 +425,7 @@
 
 ---
 
-### 46. [Beyond IOCs: AI-enabled threat intelligence](https://blog.talosintelligence.com/beyond-iocs-ai-enabled-threat-intelligence/)
+### 47. [Beyond IOCs: AI-enabled threat intelligence](https://blog.talosintelligence.com/beyond-iocs-ai-enabled-threat-intelligence/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 25 Jun 2026 18:00:26 GMT  
@@ -424,7 +434,7 @@
 
 ---
 
-### 47. [Introduction to COM usage by Windows threats](https://blog.talosintelligence.com/introduction-to-com-usage-by-windows-threats/)
+### 48. [Introduction to COM usage by Windows threats](https://blog.talosintelligence.com/introduction-to-com-usage-by-windows-threats/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 25 Jun 2026 10:00:26 GMT  
@@ -433,7 +443,7 @@
 
 ---
 
-### 48. [Close Encounters of the Human Kind](https://blog.talosintelligence.com/close-encounters-of-the-human-kind/)
+### 49. [Close Encounters of the Human Kind](https://blog.talosintelligence.com/close-encounters-of-the-human-kind/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 18 Jun 2026 18:00:24 GMT  
@@ -442,21 +452,12 @@
 
 ---
 
-### 49. [Scripting the disassembler: Local agentic reverse engineering through vbdec’s live COM object model](https://blog.talosintelligence.com/scripting-the-disassembler/)
+### 50. [Scripting the disassembler: Local agentic reverse engineering through vbdec’s live COM object model](https://blog.talosintelligence.com/scripting-the-disassembler/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 18 Jun 2026 10:00:05 GMT  
 **Severity:** High  
 **Categories:** General Security  
-
----
-
-### 50. [A tale of two eras](https://blog.talosintelligence.com/a-tale-of-two-eras/)
-
-**Source:** Talos Blog  
-**Published:** Thu, 11 Jun 2026 18:00:49 GMT  
-**Severity:** Low  
-**Categories:** APT  
 
 ---
 
