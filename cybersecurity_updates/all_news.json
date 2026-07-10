@@ -1,12 +1,120 @@
 [
   {
     "source": "The Hacker News",
-    "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain $3.1 Million From Cryptocurrency Wallets",
+    "title": "New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic",
+    "link": "https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html",
+    "published": "Fri, 10 Jul 2026 18:45:23 +0530",
+    "summary": "The China-linked cybercrime group known as Silver Fox has been attributed to a new Rust-based remote access trojan (RAR) called MODBEACON.\n\nChinese cybersecurity company QiAnXin said that while the threat cluster may appear like a low-sophistication, high-activity operation that propagates malware via counterfeit installers using SEO poisoning techniques, it belies their true organizational",
+    "analysis": {
+      "issue": "China-linked Silver Fox deploys the Rust-based MODBEACON RAT through fake software installers, targeting technology, education, and state-owned firms",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers",
+    "link": "https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html",
+    "published": "Fri, 10 Jul 2026 17:17:43 +0530",
+    "summary": "A single wrong variable on one line in XQUIC, Alibaba's QUIC and HTTP/3 library, lets any remote client crash the server with a short burst of completely legal traffic. There is no patch.\n\nFoxIO researcher Sébastien Féry&nbsp;disclosed the flaw on July 8&nbsp;and nicknamed it XRING. He says it needs no login and no malformed packets: about 260 bytes of ordinary QPACK traffic takes the server",
+    "analysis": {
+      "issue": "FoxIO disclosed XRING, an unpatched XQUIC flaw that lets unauthenticated clients crash HTTP/3 servers with 260 bytes of legal QPACK traffic",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "From 17,000 to 1.1 Million Assets: How Lumen Technologies Rebuilt Exposure Management at Scale",
+    "link": "https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html",
+    "published": "Fri, 10 Jul 2026 17:09:40 +0530",
+    "summary": "Most enterprises assume their asset inventory is close enough to accurate. The evidence suggests otherwise. According to a survey of over 600 security leaders in the 2026 Axonius Actionability Report, only 45% of organizations consolidate their asset and exposure data into a single view, and every downstream security program inherits whatever the inventory gets wrong.\n\nLumen Technologies, a",
+    "analysis": {
+      "issue": "Lumen used Axonius to reconcile 40-plus systems, uncover 60 times more devices, and rebuild exposure management around trusted asset data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Exposed Hacker Server Reveals WP-SHELLSTORM Backdooring Thousands of WordPress Sites",
+    "link": "https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html",
+    "published": "Fri, 10 Jul 2026 17:00:02 +0530",
+    "summary": "A cybercrime crew left one of its own servers wide open on the internet for three weeks, and it exposed the operation's inner workings: the hacking tools, the activity logs, and target lists naming more than 1.4 million websites.\n\nFar fewer were actually broken into, but the exposed files showed researchers how a mass site-hacking operation runs from the inside.\n\nThe operation, now tracked as",
+    "analysis": {
+      "issue": "An open WP-SHELLSTORM server exposed tools, logs, and target lists naming 1",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking",
+    "link": "https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html",
+    "published": "Fri, 10 Jul 2026 16:26:23 +0530",
+    "summary": "Researchers ran 281 of the most popular free VPN apps on the Google Play Store through a new testing system and found that many fail at the basics people install a VPN for, i.e., keeping their traffic private and secure.\n\nThe apps flagged with at least one problem have been installed more than 2.4 billion times.\n\nThe problems are basic, not sophisticated. 29 apps let user traffic leak outside",
+    "analysis": {
+      "issue": "Researchers tested 281 free Android VPN apps and found DNS leaks, plaintext traffic, weak tunnels, and flaws across apps with 2",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsoft 365 Access",
+    "link": "https://thehackernews.com/2026/07/hackers-use-fake-microsoft-entra.html",
+    "published": "Fri, 10 Jul 2026 16:00:20 +0530",
+    "summary": "A threat actor has been targeting organizations spanning multiple sectors with voice-based fake security requests that prompt Microsoft 365 users to enroll a new Entra passkey with an aim to carry out data extortion attacks.\n\nThe threat actor, tracked by Okta under the moniker O-UNC-066, has deployed a panel-controlled phishing kit that's capable of targeting the passkey enrollment process. The",
+    "analysis": {
+      "issue": "O-UNC-066 uses vishing and a live phishing kit to trick Microsoft 365 users into enrolling attacker-controlled Entra passkeys for account access",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain Over $5 Million From Cryptocurrency Wallets",
     "link": "https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html",
     "published": "Fri, 10 Jul 2026 14:30:05 +0530",
-    "summary": "Security firm&nbsp;Coinspect&nbsp;has disclosed a crypto wallet flaw it calls&nbsp;Ill Bloom, and attackers are already using it. The flaw is in how some wallet software generated its recovery phrase, the words that control the money. When that phrase is made with weak randomness, an attacker can work it out and take everything it controls.\n\nCoinspect has confirmed one coordinated sweep on May",
+    "summary": "Security firm&nbsp;Coinspect&nbsp;has disclosed a crypto wallet flaw it calls&nbsp;Ill Bloom, and attackers are already using it. The flaw is in how some wallet software generated its recovery phrase, the words that control the money. When that phrase is made with weak randomness, an attacker can work it out and take everything it controls.\n\nThe firm has confirmed one coordinated sweep on May 27",
     "analysis": {
-      "issue": "1M from 431 wallets drained due to Ill Bloom flaw, affecting crypto wallets from mobile apps built weak seed generation",
+      "issue": "Coinspect confirms over $5M stolen via the Ill Bloom flaw",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -73,50 +181,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk",
-    "link": "https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html",
-    "published": "Thu, 09 Jul 2026 22:19:02 +0530",
-    "summary": "GitHub has officially announced the release of npm version 12 with install scripts disabled by default, along with deprecating granular access tokens (GATs) designed to bypass two-factor authentication (2FA).\n\nThe Microsoft-owned subsidiary noted that the following npm install behaviors that used to run automatically before have been made opt-in&nbsp;-\n\n\n  allowScripts defaults to off, meaning",
+    "source": "Bleeping Computer",
+    "title": "The Replicant in Your Directory: AI Agents and the Identity Security Gap",
+    "link": "https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/",
+    "published": "Fri, 10 Jul 2026 10:00:10 -0400",
+    "summary": "AI agents are accelerating the growth of non-human identities, making it harder for organizations to understand what exists, who owns it, and what it can access. Netwrix explains why stronger visibility and identity governance are essential as AI expands the enterprise attack surface. [...]",
     "analysis": {
-      "issue": "GitHub releases npm 12 with install scripts off by default and begins phasing out 2FA bypass tokens for sensitive npm actions",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories",
-    "link": "https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html",
-    "published": "Thu, 09 Jul 2026 20:39:28 +0530",
-    "summary": "Most security mess starts as admin work. A link gets clicked. A tool gets trusted. A bucket name gets reused. A setting stays loose because nobody wants to touch&nbsp;it.\n\nThis week is full of that kind of damage. Not loud. Not clever. Just small gaps doing big jobs. The worst part is how normal it all looks until the bill arrives.\n\nThe full ThreatsDay list is below.\n\n\n\n\n\n  \n\n  \n  \n    Global",
-    "analysis": {
-      "issue": "ThreatsDay Bulletin covers fraud arrests, supply-chain attacks, phishing, cloud hijacking, ransomware, Windows flaws, and AI-driven data exfiltration",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up",
-    "link": "https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html",
-    "published": "Thu, 09 Jul 2026 17:56:58 +0530",
-    "summary": "AI has changed how fast attacks move. Work that once took an attacker days now takes minutes. Using models like Mythos, attackers write tailored bait, pick targets, test what lands, and jump to the next host before your team clears the first alert.\n\nThat is the gap, and it is not your fault. The tools and runbooks most teams run on were built for attackers who work at human speed. AI-driven",
-    "analysis": {
-      "issue": "AI-powered attacks move faster than human runbooks",
+      "issue": "By Grady Summers, CEO, Netwrix Security was built for people",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -128,56 +199,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Summer of Clearinghouses",
-    "link": "https://thehackernews.com/2026/07/summer-of-clearinghouses.html",
-    "published": "Thu, 09 Jul 2026 16:30:00 +0530",
-    "summary": "Everyone seems to have announced a clearinghouse over the past few weeks. We did too. Ours is called Athena, and the main thing that sets it apart is that it was already real and running when we announced it — built quietly months earlier, heads down, taking findings and shipping fixes, because customers kept asking us to. We only announced it now because everyone else started announcing theirs,",
+    "source": "Bleeping Computer",
+    "title": "Zimbra urges customers to patch critical web client XSS flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/",
+    "published": "Fri, 10 Jul 2026 07:47:38 -0400",
+    "summary": "The Zimbra security team urged customers to patch a critical vulnerability affecting the Classic Web Client used to access the Zimbra Collaboration suite. [...]",
     "analysis": {
-      "issue": "Chainguard argues AI-driven vulnerability discovery is shifting open source disclosure from hand coordination to automated orchestration",
+      "issue": "The Zimbra security team urged customers to patch a critical vulnerability affecting the Classic Web Client used to access the Zimbra Collaboration suite",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "GodDamn Ransomware Uses PoisonX Driver to Disable Endpoint Defenses",
-    "link": "https://thehackernews.com/2026/07/goddamn-ransomware-uses-poisonx-driver.html",
-    "published": "Thu, 09 Jul 2026 16:13:09 +0530",
-    "summary": "Cybersecurity researchers have flagged a new ransomware family called GodDamn that employs the PoisonX kernel driver to neutralize security software as part of its defense evasion strategy.\n\nAccording to a new report published by the Threat Hunter Team from Symantec, the ransomware was first publicly spotted in the wild on May 21, 2026. It's assessed to be a rebrand of the Beast ransomware,",
-    "analysis": {
-      "issue": "GodDamn ransomware, tied by Symantec to Hyadina's Beast lineage, uses AnyDesk, PsExec, and PoisonX to move and evade defenses",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges",
-    "link": "https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html",
-    "published": "Thu, 09 Jul 2026 14:18:48 +0530",
-    "summary": "Microsoft has released security updates for a Defender vulnerability known as RoguePlanet, nearly a month after details of the flaw became public.\n\nThe vulnerability, tracked as CVE-2026-50656 (CVSS score: 7.8), is a privilege escalation issue in the Microsoft Malware Protection Engine (\"mpengine.dll\"), which provides scanning, detection, and cleaning capabilities for its antivirus and",
-    "analysis": {
-      "issue": "Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges | Read more hacking news on The Hacker News cybersecurity news website and learn how to protect against cyberattacks and software vulnerabilities",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -327,42 +362,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Police arrests 5,800 suspects in global anti-fraud crackdown",
-    "link": "https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/",
-    "published": "Thu, 09 Jul 2026 05:47:28 -0400",
-    "summary": "Law enforcement agencies have arrested 5,811 suspects and seized $293 million in illicit assets in a global anti-fraud operation spanning 97 countries. [...]",
-    "analysis": {
-      "issue": "Law enforcement agencies have arrested 5,811 suspects and seized $293 million in illicit assets in a global anti-fraud operation spanning 97 countries",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "AssuranceAmerica data breach exposes records of 6.9 million drivers",
-    "link": "https://www.bleepingcomputer.com/news/security/assuranceamerica-data-breach-exposes-records-of-69-million-drivers/",
-    "published": "Thu, 09 Jul 2026 03:47:16 -0400",
-    "summary": "American insurance company AssuranceAmerica has disclosed a data breach impacting nearly 7 million drivers after attackers gained access to its systems earlier this year.  [...]",
-    "analysis": {
-      "issue": "American insurance company AssuranceAmerica has disclosed a data breach impacting nearly 7 million drivers after attackers gained access to its systems earlier this year",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
     "link": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
@@ -469,9 +468,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50507",
         "CVE-2026-49160",
-        "CVE-2026-45586"
+        "CVE-2026-45586",
+        "CVE-2026-50507"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -551,6 +550,43 @@
       "threat_categories": [
         "Malware",
         "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Third US Security Expert Sentenced to Prison for Helping Ransomware Gang",
+    "link": "https://www.securityweek.com/third-us-security-expert-sentenced-to-prison-for-helping-ransomware-gang/",
+    "published": "Fri, 10 Jul 2026 12:58:39 +0000",
+    "summary": "<p>Angelo Martino, a former ransomware negotiator, was sentenced to 70 months for helping the BlackCat/Alphv group.</p>\n<p>The post <a href=\"https://www.securityweek.com/third-us-security-expert-sentenced-to-prison-for-helping-ransomware-gang/\">Third US Security Expert Sentenced to Prison for Helping Ransomware Gang</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Angelo Martino, a former ransomware negotiator, was sentenced to 70 months for helping the BlackCat/Alphv group",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "China, India-Linked Hackers Both Targeted Same Pakistani Police Force",
+    "link": "https://www.securityweek.com/china-india-linked-hackers-both-targeted-same-pakistani-police-force/",
+    "published": "Fri, 10 Jul 2026 11:55:11 +0000",
+    "summary": "<p>Both foes and allies have targeted the Balochistan Police force in Pakistan for at least two years, according to SentinelOne.</p>\n<p>The post <a href=\"https://www.securityweek.com/china-india-linked-hackers-both-targeted-same-pakistani-police-force/\">China, India-Linked Hackers Both Targeted Same Pakistani Police Force</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Both foes and allies have targeted the Balochistan Police force in Pakistan for at least two years, according to SentinelOne",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "APT"
       ]
     }
   },
@@ -713,51 +749,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "15-Year-Old Linux Vulnerability ‘GhostLock’ Earns Researchers $92k From Google",
-    "link": "https://www.securityweek.com/15-year-old-linux-vulnerability-ghostlock-earns-researchers-92k-from-google/",
-    "published": "Thu, 09 Jul 2026 11:52:35 +0000",
-    "summary": "<p>Affecting every major distribution since 2011, the Linux kernel vulnerability allows attackers to gain root access.</p>\n<p>The post <a href=\"https://www.securityweek.com/15-year-old-linux-vulnerability-ghostlock-earns-researchers-92k-from-google/\">15-Year-Old Linux Vulnerability &#8216;GhostLock&#8217; Earns Researchers $92k From Google</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Affecting every major distribution since 2011, the Linux kernel vulnerability allows attackers to gain root access",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2026-43499"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Microsoft Patches Defender ‘RoguePlanet’ Vulnerability",
-    "link": "https://www.securityweek.com/microsoft-patches-defender-rogueplanet-vulnerability/",
-    "published": "Thu, 09 Jul 2026 10:28:35 +0000",
-    "summary": "<p>The privilege escalation vulnerability tracked as CVE-2026-50656 has been patched with a Microsoft Malware Protection Engine update.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-patches-defender-rogueplanet-vulnerability/\">Microsoft Patches Defender &#8216;RoguePlanet&#8217; Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The privilege escalation vulnerability tracked as CVE-2026-50656 has been patched with a Microsoft Malware Protection Engine update",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-50656",
-        "CVE-2026-33825",
-        "CVE-2026-45498",
-        "CVE-2026-41091"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "WolfSSL, GeoVision, VTK vulnerabilities",
     "link": "https://blog.talosintelligence.com/wolfssl-vulnerabilities/",
@@ -770,9 +761,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-28739",
+        "CVE-2026-33091",
         "CVE-2026-25106",
-        "CVE-2026-33091"
+        "CVE-2026-28739"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -949,6 +940,24 @@
   },
   {
     "source": "Recorded Future",
+    "title": "June 2026 CVE Landscape",
+    "link": "https://www.recordedfuture.com/blog/june-2026-cve-landscape",
+    "published": "Fri, 10 Jul 2026 00:00:00 GMT",
+    "summary": "In June 2026, Insikt Group® identified 60 high-impact vulnerabilities that should be prioritized for remediation, 30 of which had a Very Critical Recorded Future Risk Score. This represents a 49% increase from last month.",
+    "analysis": {
+      "issue": "In June 2026, Insikt Group® identified 60 high-impact vulnerabilities that should be prioritized for remediation, 30 of which had a Very Critical Recorded Future Risk Score",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
     "title": "RiskX interview video featuring Colin Mahony and Mastercard's Aditi Sawhney",
     "link": "https://www.recordedfuture.com/blog/riskx-interview-payment-fraud",
     "published": "Thu, 09 Jul 2026 00:00:00 GMT",
@@ -1099,24 +1108,6 @@
     "summary": "Learn how Recorded Future’s proprietary collection engine empowers organizations to move beyond reactive security. Discover the power of our four unique intelligence source types—technical, underground, community, and open-source—working together to provide proactive, full-lifecycle threat protection.",
     "analysis": {
       "issue": "Learn how Recorded Future’s proprietary collection engine empowers organizations to move beyond reactive security",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Recorded Future Launches Impact and Metrics Dashboard",
-    "link": "https://www.recordedfuture.com/blog/impact-metrics-dashboard",
-    "published": "Thu, 11 Jun 2026 00:00:00 GMT",
-    "summary": "See the business value of your intelligence program in one live, continuously updated dashboard, built for the conversations that matter most with the executives who own budget and strategy.",
-    "analysis": {
-      "issue": "See the business value of your intelligence program in one live, continuously updated dashboard, built for the conversations that matter most with the executives who own budget and strategy",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1294,8 +1285,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1320,6 +1311,26 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "This new Windows malware can take over your PC and wipe it clean",
+    "link": "https://www.malwarebytes.com/blog/news/2026/07/this-new-windows-malware-can-take-over-your-pc-and-wipe-it-clean",
+    "published": "Fri, 10 Jul 2026 13:25:41 GMT",
+    "summary": "GigaWiper is a remote access Trojan that can spy on victims and permanently wipe their systems in three different ways.",
+    "analysis": {
+      "issue": "Microsoft published new research on GigaWiper, a modular Golang backdoor for Windows that combines robust remote access with multiple ways to permanently destroy systems and data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Malware",
+        "APT"
       ]
     }
   },
@@ -1488,24 +1499,6 @@
       "threat_categories": [
         "Vulnerability",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Claude Code’s hidden tracker was an “experiment,” says Anthropic",
-    "link": "https://www.malwarebytes.com/blog/news/2026/07/claude-codes-hidden-tracker-was-an-experiment-says-anthropic",
-    "published": "Tue, 07 Jul 2026 11:20:28 GMT",
-    "summary": "Anthropic's hidden Claude Code tracker has raised new questions about prompt steganography and developer trust.",
-    "analysis": {
-      "issue": "As a developer, you want to use tools you can trust and rely on",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
