@@ -670,10 +670,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50656",
-        "CVE-2026-45498",
         "CVE-2026-41091",
-        "CVE-2026-33825"
+        "CVE-2026-50656",
+        "CVE-2026-33825",
+        "CVE-2026-45498"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -769,8 +769,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-25106",
         "CVE-2026-28739",
+        "CVE-2026-25106",
         "CVE-2026-33091"
       ],
       "threat_categories": [
