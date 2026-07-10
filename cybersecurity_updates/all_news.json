@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain $3.1 Million From Cryptocurrency Wallets",
+    "link": "https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html",
+    "published": "Fri, 10 Jul 2026 14:30:05 +0530",
+    "summary": "Security firm&nbsp;Coinspect&nbsp;has disclosed a crypto wallet flaw it calls&nbsp;Ill Bloom, and attackers are already using it. The flaw is in how some wallet software generated its recovery phrase, the words that control the money. When that phrase is made with weak randomness, an attacker can work it out and take everything it controls.\n\nCoinspect has confirmed one coordinated sweep on May",
+    "analysis": {
+      "issue": "1M from 431 wallets drained due to Ill Bloom flaw, affecting crypto wallets from mobile apps built weak seed generation",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Ransomware Negotiator Gets 70 Months in Prison for Aiding BlackCat Attacks",
+    "link": "https://thehackernews.com/2026/07/ransomware-negotiator-gets-70-months-in.html",
+    "published": "Fri, 10 Jul 2026 13:40:12 +0530",
+    "summary": "A 41-year-old former ransomware negotiator has been sentenced to nearly six years (i.e., 70 months) in prison in the U.S. for their role in conspiring with the now-defunct BlackCat ransomware operators to extort multiple victims and working with two other cybersecurity professionals to target additional victims in 2023.\n\nIn a sentencing memorandum, federal prosecutors described Martino as a \"",
+    "analysis": {
+      "issue": "Former ransomware negotiator Angelo Martino gets 70 months for giving victim negotiation data to BlackCat operators and aiding extortion",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs",
     "link": "https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html",
     "published": "Fri, 10 Jul 2026 00:08:49 +0530",
@@ -146,38 +182,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images",
-    "link": "https://thehackernews.com/2026/07/metas-new-ai-image-tool-lets-others-use.html",
-    "published": "Thu, 09 Jul 2026 12:51:06 +0530",
-    "summary": "Meta has announced that its new artificial intelligence (AI) model Muse Image lets people use public Instagram posts and reels to generate AI content, and it's enabled by default.\n\n\"You can also @-mention Instagram accounts in the Meta AI app to bring specific Instagram profiles right into your images,\" the social media giant said in a post.\n\n\"Whether you want to design a custom event invitation",
+    "source": "Bleeping Computer",
+    "title": "Former ransomware negotiator gets 4 years for BlackCat attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/",
+    "published": "Fri, 10 Jul 2026 04:17:52 -0400",
+    "summary": "A former employee of cybersecurity incident response company DigitalMint was sentenced to 70 months in prison for targeting U.S. companies in BlackCat (ALPHV) ransomware attacks. [...]",
     "analysis": {
-      "issue": "Meta Muse Image lets users tag public Instagram accounts to generate AI images, with public posts and reels reusable by default unless disabled",
+      "issue": "A former employee of cybersecurity incident response company DigitalMint was sentenced to 70 months in prison for targeting U",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Top AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It",
-    "link": "https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html",
-    "published": "Thu, 09 Jul 2026 10:45:02 +0530",
-    "summary": "Ask an AI coding agent to scan open-source code for security holes, and it might run the attacker's code on your own machine instead.\n\nThat is the finding in a&nbsp;proof-of-concept published Wednesday&nbsp;by the AI Now Institute, an attack it calls \"Friendly Fire.\" It works against Anthropic's Claude Code and OpenAI's Codex when either is running in an autonomous mode that approves its own",
-    "analysis": {
-      "issue": "AI Now’s Friendly Fire PoC shows Claude Code and Codex running README-planted payloads on hosts when autonomous command approval is enabled",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
+        "Ransomware"
       ]
     }
   },
@@ -345,27 +363,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Microsoft patches RoguePlanet Defender zero-day vulnerability",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/",
-    "published": "Thu, 09 Jul 2026 01:42:49 -0400",
-    "summary": "Microsoft has released a security patch to address a Defender zero-day vulnerability known as \"RoguePlanet,\" disclosed after the June 2026 Patch Tuesday. [...]",
-    "analysis": {
-      "issue": "Microsoft has released a security patch to address a Defender zero-day vulnerability known as \"RoguePlanet,\" disclosed after the June 2026 Patch Tuesday",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-50656"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
     "link": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
@@ -473,8 +470,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-50507",
-        "CVE-2026-45586",
-        "CVE-2026-49160"
+        "CVE-2026-49160",
+        "CVE-2026-45586"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -554,6 +551,85 @@
       "threat_categories": [
         "Malware",
         "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Okta Warns of Vishing Attacks Targeting Microsoft 365 Customers",
+    "link": "https://www.securityweek.com/okta-warns-of-vishing-attacks-targeting-microsoft-365-customers/",
+    "published": "Fri, 10 Jul 2026 11:06:36 +0000",
+    "summary": "<p>The attackers call victims to direct them to phishing websites mirroring Microsoft Entra ID login pages.</p>\n<p>The post <a href=\"https://www.securityweek.com/okta-warns-of-vishing-attacks-targeting-microsoft-365-customers/\">Okta Warns of Vishing Attacks Targeting Microsoft 365 Customers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The attackers call victims to direct them to phishing websites mirroring Microsoft Entra ID login pages",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "GigaWiper Combines Multiple Malware for System-Level Sabotage",
+    "link": "https://www.securityweek.com/gigawiper-combines-multiple-malware-for-system-level-sabotage/",
+    "published": "Fri, 10 Jul 2026 09:12:08 +0000",
+    "summary": "<p>The backdoor’s destructive capabilities include a standalone wiper, ransomware encryption, and a multi-pass wiping command.</p>\n<p>The post <a href=\"https://www.securityweek.com/gigawiper-combines-multiple-malware-for-system-level-sabotage/\">GigaWiper Combines Multiple Malware for System-Level Sabotage</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The backdoor’s destructive capabilities include a standalone wiper, ransomware encryption, and a multi-pass wiping command",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "‘HalluSquatting’ Turns AI Hallucinations Into Botnet Delivery Mechanism",
+    "link": "https://www.securityweek.com/hallusquatting-turns-ai-hallucinations-into-botnet-delivery-mechanism/",
+    "published": "Fri, 10 Jul 2026 08:32:33 +0000",
+    "summary": "<p>Researchers demonstrate adversarial hallucination squatting against popular AI assistants to achieve remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/hallusquatting-turns-ai-hallucinations-into-botnet-delivery-mechanism/\">&#8216;HalluSquatting&#8217; Turns AI Hallucinations Into Botnet Delivery Mechanism</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Researchers demonstrate adversarial hallucination squatting against popular AI assistants to achieve remote code execution",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Network of 200 GitHub Repositories Used for Malware Infection",
+    "link": "https://www.securityweek.com/network-of-200-github-repositories-used-for-malware-infection/",
+    "published": "Fri, 10 Jul 2026 08:00:14 +0000",
+    "summary": "<p>A Go module is used to load PowerShell code that fetches a resolver from public dead drops to execute Windows malware.</p>\n<p>The post <a href=\"https://www.securityweek.com/network-of-200-github-repositories-used-for-malware-infection/\">Network of 200 GitHub Repositories Used for Malware Infection</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "A Go module is used to load PowerShell code that fetches a resolver from public dead drops to execute Windows malware",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Malware",
+        "APT",
+        "Supply Chain"
       ]
     }
   },
@@ -670,89 +746,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-41091",
         "CVE-2026-50656",
         "CVE-2026-33825",
-        "CVE-2026-45498"
+        "CVE-2026-45498",
+        "CVE-2026-41091"
       ],
       "threat_categories": [
         "Vulnerability",
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Mount Royal University Confirms Data Stolen in Ransomware Attack",
-    "link": "https://www.securityweek.com/mount-royal-university-confirms-data-stolen-in-ransomware-attack/",
-    "published": "Thu, 09 Jul 2026 10:06:18 +0000",
-    "summary": "<p>Hackers accessed the institution’s internal network and deleted two drives containing employee, student, and university data.</p>\n<p>The post <a href=\"https://www.securityweek.com/mount-royal-university-confirms-data-stolen-in-ransomware-attack/\">Mount Royal University Confirms Data Stolen in Ransomware Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Hackers accessed the institution’s internal network and deleted two drives containing employee, student, and university data",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "AI Coding Tools Tricked Into Hacking Developer Machine via Decades-Old Technique",
-    "link": "https://www.securityweek.com/ai-coding-tools-tricked-into-hacking-developer-machine-via-decades-old-technique/",
-    "published": "Thu, 09 Jul 2026 08:52:21 +0000",
-    "summary": "<p>Wiz has disclosed the details of a new AI coding assistant attack method it has dubbed GhostApproval.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-coding-tools-tricked-into-hacking-developer-machine-via-decades-old-technique/\">AI Coding Tools Tricked Into Hacking Developer Machine via Decades-Old Technique</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Wiz has disclosed the details of a new AI coding assistant attack method it has dubbed GhostApproval",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Chrome 150 Update Patches 27 Vulnerabilities",
-    "link": "https://www.securityweek.com/chrome-150-update-patches-27-vulnerabilities/",
-    "published": "Thu, 09 Jul 2026 07:27:59 +0000",
-    "summary": "<p>The security refresh resolves 13 use-after-free bugs, including two critical-severity flaws found by Google.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-150-update-patches-27-vulnerabilities/\">Chrome 150 Update Patches 27 Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The security refresh resolves 13 use-after-free bugs, including two critical-severity flaws found by Google",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "8Layers Raises $2.9 Million for Identity Security Platform",
-    "link": "https://www.securityweek.com/8layers-raises-2-9-million-for-identity-security-platform/",
-    "published": "Thu, 09 Jul 2026 06:45:22 +0000",
-    "summary": "<p>The Spanish startup has closed an extended pre-seed funding round two months after launching its digital identity protection platform.</p>\n<p>The post <a href=\"https://www.securityweek.com/8layers-raises-2-9-million-for-identity-security-platform/\">8Layers Raises $2.9 Million for Identity Security Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The Spanish startup has closed an extended pre-seed funding round two months after launching its digital identity protection platform",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -1324,6 +1325,42 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "How mule betting scams recruit ordinary people",
+    "link": "https://www.malwarebytes.com/blog/scams/2026/07/how-mule-betting-scams-recruit-ordinary-people",
+    "published": "Fri, 10 Jul 2026 11:02:40 GMT",
+    "summary": "Easy-money offers to open a gambling account could make you part of a money laundering operation. Here's how to spot a mule betting scam.",
+    "analysis": {
+      "issue": "Mule betting or third-party betting account scams are a form of money mule scam where criminals recruit or coerce people into opening gambling accounts in their own name",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Two Chrome updates in two days fix critical vulnerabilities",
+    "link": "https://www.malwarebytes.com/blog/news/2026/07/two-chrome-updates-in-two-days-fix-critical-vulnerabilities",
+    "published": "Fri, 10 Jul 2026 10:32:54 GMT",
+    "summary": "Chrome updates are arriving within days of each other. Learn how to update Chrome and check if you're running the latest version.",
+    "analysis": {
+      "issue": "Updating Chrome is becoming an almost daily task lately",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "How World Cup crypto prediction sites take your money",
     "link": "https://www.malwarebytes.com/blog/threat-intel/2026/07/how-world-cup-crypto-prediction-sites-take-your-money",
     "published": "Thu, 09 Jul 2026 15:12:43 GMT",
@@ -1462,42 +1499,6 @@
     "summary": "Anthropic's hidden Claude Code tracker has raised new questions about prompt steganography and developer trust.",
     "analysis": {
       "issue": "As a developer, you want to use tools you can trust and rely on",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Scammers are using AI to sell impossible flowers",
-    "link": "https://www.malwarebytes.com/blog/scams/2026/07/scammers-are-using-ai-to-sell-impossible-flowers",
-    "published": "Tue, 07 Jul 2026 09:31:52 GMT",
-    "summary": "AI-generated flower scams are blooming online, with scammers using fake images to sell seeds for plants that don't exist, like these \"cat's face orchids.\"",
-    "analysis": {
-      "issue": "We’ve had problems with deepfake celebrity scams, non-consensual deepfake sexual material, and deepfake politicians",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "How to tell if an image is AI-generated",
-    "link": "https://www.malwarebytes.com/blog/ai/2026/07/how-to-tell-if-an-image-is-ai-generated",
-    "published": "Mon, 06 Jul 2026 16:22:32 GMT",
-    "summary": "Scammers are using AI-generated images to make fake stories more convincing. Here's how to separate real from fake.",
-    "analysis": {
-      "issue": "A photo of an injured dog by the roadside",
       "solution": null,
       "cause": null,
       "timeline": null,
