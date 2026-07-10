@@ -1,10 +1,46 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-10 14:40:16 UTC
+**Last Updated:** 2026-07-10 18:08:16 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic](https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html)
+### 1. [Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages](https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 10 Jul 2026 22:59:28 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot](https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 10 Jul 2026 21:27:14 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched](https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 10 Jul 2026 20:21:49 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 4. [Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws](https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 10 Jul 2026 19:49:50 +0530  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 5. [New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic](https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 10 Jul 2026 18:45:23 +0530  
@@ -13,7 +49,7 @@
 
 ---
 
-### 2. [Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers](https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html)
+### 6. [Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers](https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 10 Jul 2026 17:17:43 +0530  
@@ -22,7 +58,7 @@
 
 ---
 
-### 3. [From 17,000 to 1.1 Million Assets: How Lumen Technologies Rebuilt Exposure Management at Scale](https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html)
+### 7. [From 17,000 to 1.1 Million Assets: How Lumen Technologies Rebuilt Exposure Management at Scale](https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 10 Jul 2026 17:09:40 +0530  
@@ -31,7 +67,7 @@
 
 ---
 
-### 4. [Exposed Hacker Server Reveals WP-SHELLSTORM Backdooring Thousands of WordPress Sites](https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html)
+### 8. [Exposed Hacker Server Reveals WP-SHELLSTORM Backdooring Thousands of WordPress Sites](https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 10 Jul 2026 17:00:02 +0530  
@@ -40,7 +76,7 @@
 
 ---
 
-### 5. [Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking](https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html)
+### 9. [Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking](https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 10 Jul 2026 16:26:23 +0530  
@@ -49,7 +85,7 @@
 
 ---
 
-### 6. [Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsoft 365 Access](https://thehackernews.com/2026/07/hackers-use-fake-microsoft-entra.html)
+### 10. [Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsoft 365 Access](https://thehackernews.com/2026/07/hackers-use-fake-microsoft-entra.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 10 Jul 2026 16:00:20 +0530  
@@ -58,43 +94,53 @@
 
 ---
 
-### 7. [Attackers Exploit 'Ill Bloom' Vulnerability to Drain Over $5 Million From Cryptocurrency Wallets](https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html)
+### 11. [Ryuk ransomware member pleads guilty in the US, faces 15 years in prison](https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-pleads-guilty-in-the-us-faces-15-years-in-prison/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 10 Jul 2026 14:30:05 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 8. [Ransomware Negotiator Gets 70 Months in Prison for Aiding BlackCat Attacks](https://thehackernews.com/2026/07/ransomware-negotiator-gets-70-months-in.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 10 Jul 2026 13:40:12 +0530  
-**Severity:** Low  
+**Source:** Bleeping Computer  
+**Published:** Fri, 10 Jul 2026 13:46:10 -0400  
+**Severity:** High  
 **Categories:** Ransomware  
 
 ---
 
-### 9. [Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs](https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html)
+### 12. [Police suspects Dutch hackers were involved in Odido breach](https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 10 Jul 2026 00:08:49 +0530  
+**Source:** Bleeping Computer  
+**Published:** Fri, 10 Jul 2026 12:37:01 -0400  
+**Severity:** Low  
+**Categories:** Data Breach, Phishing  
+
+---
+
+### 13. [Progress urges ShareFile admins to shut down servers over “credible” threat](https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 10 Jul 2026 12:26:10 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 10. [New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware](https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html)
+### 14. [Hackers exploit critical auth bypass in Gitea Docker image](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 09 Jul 2026 23:38:07 +0530  
-**Severity:** Low  
-**Categories:** Ransomware, Malware  
+**Source:** Bleeping Computer  
+**Published:** Fri, 10 Jul 2026 11:48:38 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-20896  
+**Categories:** Vulnerability  
 
 ---
 
-### 11. [The Replicant in Your Directory: AI Agents and the Identity Security Gap](https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/)
+### 15. [Money launderer accused of stealing seized crypto while in prison](https://www.bleepingcomputer.com/news/security/money-launderer-accused-of-stealing-seized-crypto-while-in-prison/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 10 Jul 2026 11:30:19 -0400  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 16. [The Replicant in Your Directory: AI Agents and the Identity Security Gap](https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 10 Jul 2026 10:00:10 -0400  
@@ -103,7 +149,7 @@
 
 ---
 
-### 12. [Zimbra urges customers to patch critical web client XSS flaw](https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/)
+### 17. [Zimbra urges customers to patch critical web client XSS flaw](https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 10 Jul 2026 07:47:38 -0400  
@@ -112,7 +158,7 @@
 
 ---
 
-### 13. [Former ransomware negotiator gets 4 years for BlackCat attacks](https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/)
+### 18. [Former ransomware negotiator gets 4 years for BlackCat attacks](https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 10 Jul 2026 04:17:52 -0400  
@@ -121,7 +167,7 @@
 
 ---
 
-### 14. [OpenMandriva Linux says contributor tried to sabotage the project](https://www.bleepingcomputer.com/news/security/openmandriva-linux-says-contributor-tried-to-sabotage-the-project/)
+### 19. [OpenMandriva Linux says contributor tried to sabotage the project](https://www.bleepingcomputer.com/news/security/openmandriva-linux-says-contributor-tried-to-sabotage-the-project/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 09 Jul 2026 18:14:13 -0400  
@@ -130,55 +176,10 @@
 
 ---
 
-### 15. [Injective SDK on npm infected with cryptocurrency wallet stealer](https://www.bleepingcomputer.com/news/security/injective-sdk-on-npm-infected-with-cryptocurrency-wallet-stealer/)
+### 20. [Injective SDK on npm infected with cryptocurrency wallet stealer](https://www.bleepingcomputer.com/news/security/injective-sdk-on-npm-infected-with-cryptocurrency-wallet-stealer/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 09 Jul 2026 16:10:00 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 16. [New Helix vishing group emerges in SharePoint data theft attacks](https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 09 Jul 2026 13:08:29 -0400  
-**Severity:** Low  
-**Categories:** Ransomware, Phishing  
-
----
-
-### 17. [Microsoft expects more Windows security updates from AI-discovered flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 09 Jul 2026 13:00:00 -0400  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 18. [New Forg365 phishing platform uses AI to target Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/new-forg365-phishing-platform-uses-ai-to-target-microsoft-365-accounts/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 09 Jul 2026 10:39:51 -0400  
-**Severity:** Low  
-**Categories:** Phishing  
-
----
-
-### 19. [The Hidden Security Risks of Reduced Summer IT Coverage](https://www.bleepingcomputer.com/news/security/the-hidden-security-risks-of-reduced-summer-it-coverage/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 09 Jul 2026 10:02:12 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 20. [Microsoft to retire the OWA Light client in Exchange Server](https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-owa-light-retirement-in-exchange-server/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 09 Jul 2026 07:00:35 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -234,7 +235,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-49160, CVE-2026-45586, CVE-2026-50507  
+**CVEs:** CVE-2026-50507, CVE-2026-45586, CVE-2026-49160  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -275,7 +276,16 @@
 
 ---
 
-### 31. [Third US Security Expert Sentenced to Prison for Helping Ransomware Gang](https://www.securityweek.com/third-us-security-expert-sentenced-to-prison-for-helping-ransomware-gang/)
+### 31. [In Other News: DHS Database Hacked, Adobe Boosts Patch Cadence, Canada Disrupts Ransomware Ops](https://www.securityweek.com/in-other-news-dhs-database-hacked-adobe-boosts-patch-cadence-canada-disrupts-ransomware-ops/)
+
+**Source:** Security Week  
+**Published:** Fri, 10 Jul 2026 15:01:19 +0000  
+**Severity:** Critical  
+**Categories:** Ransomware, Data Breach, Vulnerability, Malware  
+
+---
+
+### 32. [Third US Security Expert Sentenced to Prison for Helping Ransomware Gang](https://www.securityweek.com/third-us-security-expert-sentenced-to-prison-for-helping-ransomware-gang/)
 
 **Source:** Security Week  
 **Published:** Fri, 10 Jul 2026 12:58:39 +0000  
@@ -284,7 +294,7 @@
 
 ---
 
-### 32. [China, India-Linked Hackers Both Targeted Same Pakistani Police Force](https://www.securityweek.com/china-india-linked-hackers-both-targeted-same-pakistani-police-force/)
+### 33. [China, India-Linked Hackers Both Targeted Same Pakistani Police Force](https://www.securityweek.com/china-india-linked-hackers-both-targeted-same-pakistani-police-force/)
 
 **Source:** Security Week  
 **Published:** Fri, 10 Jul 2026 11:55:11 +0000  
@@ -293,7 +303,7 @@
 
 ---
 
-### 33. [Okta Warns of Vishing Attacks Targeting Microsoft 365 Customers](https://www.securityweek.com/okta-warns-of-vishing-attacks-targeting-microsoft-365-customers/)
+### 34. [Okta Warns of Vishing Attacks Targeting Microsoft 365 Customers](https://www.securityweek.com/okta-warns-of-vishing-attacks-targeting-microsoft-365-customers/)
 
 **Source:** Security Week  
 **Published:** Fri, 10 Jul 2026 11:06:36 +0000  
@@ -302,7 +312,7 @@
 
 ---
 
-### 34. [GigaWiper Combines Multiple Malware for System-Level Sabotage](https://www.securityweek.com/gigawiper-combines-multiple-malware-for-system-level-sabotage/)
+### 35. [GigaWiper Combines Multiple Malware for System-Level Sabotage](https://www.securityweek.com/gigawiper-combines-multiple-malware-for-system-level-sabotage/)
 
 **Source:** Security Week  
 **Published:** Fri, 10 Jul 2026 09:12:08 +0000  
@@ -311,7 +321,7 @@
 
 ---
 
-### 35. [‘HalluSquatting’ Turns AI Hallucinations Into Botnet Delivery Mechanism](https://www.securityweek.com/hallusquatting-turns-ai-hallucinations-into-botnet-delivery-mechanism/)
+### 36. [‘HalluSquatting’ Turns AI Hallucinations Into Botnet Delivery Mechanism](https://www.securityweek.com/hallusquatting-turns-ai-hallucinations-into-botnet-delivery-mechanism/)
 
 **Source:** Security Week  
 **Published:** Fri, 10 Jul 2026 08:32:33 +0000  
@@ -320,7 +330,7 @@
 
 ---
 
-### 36. [Network of 200 GitHub Repositories Used for Malware Infection](https://www.securityweek.com/network-of-200-github-repositories-used-for-malware-infection/)
+### 37. [Network of 200 GitHub Repositories Used for Malware Infection](https://www.securityweek.com/network-of-200-github-repositories-used-for-malware-infection/)
 
 **Source:** Security Week  
 **Published:** Fri, 10 Jul 2026 08:00:14 +0000  
@@ -329,7 +339,7 @@
 
 ---
 
-### 37. [QIZ Security Raises $17 Million for Cryptographic Governance Platform](https://www.securityweek.com/qiz-security-raises-17-million-for-cryptographic-governance-platform/)
+### 38. [QIZ Security Raises $17 Million for Cryptographic Governance Platform](https://www.securityweek.com/qiz-security-raises-17-million-for-cryptographic-governance-platform/)
 
 **Source:** Security Week  
 **Published:** Thu, 09 Jul 2026 15:03:51 +0000  
@@ -338,7 +348,7 @@
 
 ---
 
-### 38. [UK Government Rolls Out Agentic AI Defense Plan Alongside Industry Pledge](https://www.securityweek.com/uk-government-rolls-out-agentic-ai-defense-plan-alongside-industry-pledge/)
+### 39. [UK Government Rolls Out Agentic AI Defense Plan Alongside Industry Pledge](https://www.securityweek.com/uk-government-rolls-out-agentic-ai-defense-plan-alongside-industry-pledge/)
 
 **Source:** Security Week  
 **Published:** Thu, 09 Jul 2026 14:19:53 +0000  
@@ -347,7 +357,7 @@
 
 ---
 
-### 39. [Palo Alto Networks Patches 13 Vulnerabilities](https://www.securityweek.com/palo-alto-networks-patches-13-vulnerabilities/)
+### 40. [Palo Alto Networks Patches 13 Vulnerabilities](https://www.securityweek.com/palo-alto-networks-patches-13-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Thu, 09 Jul 2026 13:49:42 +0000  
@@ -357,21 +367,12 @@
 
 ---
 
-### 40. [12 Million Impacted by Data Breach at Japanese Telco KDDI](https://www.securityweek.com/12-million-impacted-by-data-breach-at-japanese-telco-kddi/)
-
-**Source:** Security Week  
-**Published:** Thu, 09 Jul 2026 12:18:46 +0000  
-**Severity:** Critical  
-**Categories:** Ransomware, Data Breach, Vulnerability, Supply Chain  
-
----
-
 ### 41. [WolfSSL, GeoVision, VTK vulnerabilities](https://blog.talosintelligence.com/wolfssl-vulnerabilities/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 09 Jul 2026 18:52:29 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-33091, CVE-2026-25106, CVE-2026-28739  
+**CVEs:** CVE-2026-25106, CVE-2026-33091, CVE-2026-28739  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -628,7 +629,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
