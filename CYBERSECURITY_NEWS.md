@@ -1,19 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-10 18:08:16 UTC
+**Last Updated:** 2026-07-11 03:17:21 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages](https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html)
+### 1. [URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat](https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html)
 
 **Source:** The Hacker News  
-**Published:** Fri, 10 Jul 2026 22:59:28 +0530  
+**Published:** Fri, 10 Jul 2026 22:00:00 +0530  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 2. [Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot](https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html)
+### 2. [Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages](https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 10 Jul 2026 21:59:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot](https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 10 Jul 2026 21:27:14 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched](https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html)
+### 4. [Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched](https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 10 Jul 2026 20:21:49 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws](https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html)
+### 5. [Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws](https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 10 Jul 2026 19:49:50 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic](https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html)
+### 6. [New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic](https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 10 Jul 2026 18:45:23 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers](https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html)
+### 7. [Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers](https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 10 Jul 2026 17:17:43 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [From 17,000 to 1.1 Million Assets: How Lumen Technologies Rebuilt Exposure Management at Scale](https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html)
+### 8. [From 17,000 to 1.1 Million Assets: How Lumen Technologies Rebuilt Exposure Management at Scale](https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 10 Jul 2026 17:09:40 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [Exposed Hacker Server Reveals WP-SHELLSTORM Backdooring Thousands of WordPress Sites](https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html)
+### 9. [Exposed Hacker Server Reveals WP-SHELLSTORM Backdooring Thousands of WordPress Sites](https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 10 Jul 2026 17:00:02 +0530  
@@ -76,7 +85,7 @@
 
 ---
 
-### 9. [Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking](https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html)
+### 10. [Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking](https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 10 Jul 2026 16:26:23 +0530  
@@ -85,16 +94,16 @@
 
 ---
 
-### 10. [Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsoft 365 Access](https://thehackernews.com/2026/07/hackers-use-fake-microsoft-entra.html)
+### 11. [New U-Boot flaws could enable stealthy firmware attacks](https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 10 Jul 2026 16:00:20 +0530  
-**Severity:** Low  
-**Categories:** Phishing  
+**Source:** Bleeping Computer  
+**Published:** Fri, 10 Jul 2026 17:59:02 -0400  
+**Severity:** Critical  
+**Categories:** Malware, DDoS  
 
 ---
 
-### 11. [Ryuk ransomware member pleads guilty in the US, faces 15 years in prison](https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-pleads-guilty-in-the-us-faces-15-years-in-prison/)
+### 12. [Ryuk ransomware member pleads guilty in the US, faces 15 years in prison](https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-pleads-guilty-in-the-us-faces-15-years-in-prison/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 10 Jul 2026 13:46:10 -0400  
@@ -103,7 +112,7 @@
 
 ---
 
-### 12. [Police suspects Dutch hackers were involved in Odido breach](https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/)
+### 13. [Police suspects Dutch hackers were involved in Odido breach](https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 10 Jul 2026 12:37:01 -0400  
@@ -112,7 +121,7 @@
 
 ---
 
-### 13. [Progress urges ShareFile admins to shut down servers over “credible” threat](https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/)
+### 14. [Progress urges ShareFile admins to shut down servers over “credible” threat](https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 10 Jul 2026 12:26:10 -0400  
@@ -121,7 +130,7 @@
 
 ---
 
-### 14. [Hackers exploit critical auth bypass in Gitea Docker image](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/)
+### 15. [Hackers exploit critical auth bypass in Gitea Docker image](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 10 Jul 2026 11:48:38 -0400  
@@ -131,7 +140,7 @@
 
 ---
 
-### 15. [Money launderer accused of stealing seized crypto while in prison](https://www.bleepingcomputer.com/news/security/money-launderer-accused-of-stealing-seized-crypto-while-in-prison/)
+### 16. [Money launderer accused of stealing seized crypto while in prison](https://www.bleepingcomputer.com/news/security/money-launderer-accused-of-stealing-seized-crypto-while-in-prison/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 10 Jul 2026 11:30:19 -0400  
@@ -140,7 +149,7 @@
 
 ---
 
-### 16. [The Replicant in Your Directory: AI Agents and the Identity Security Gap](https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/)
+### 17. [The Replicant in Your Directory: AI Agents and the Identity Security Gap](https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 10 Jul 2026 10:00:10 -0400  
@@ -149,7 +158,7 @@
 
 ---
 
-### 17. [Zimbra urges customers to patch critical web client XSS flaw](https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/)
+### 18. [Zimbra urges customers to patch critical web client XSS flaw](https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 10 Jul 2026 07:47:38 -0400  
@@ -158,7 +167,7 @@
 
 ---
 
-### 18. [Former ransomware negotiator gets 4 years for BlackCat attacks](https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/)
+### 19. [Former ransomware negotiator gets 4 years for BlackCat attacks](https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 10 Jul 2026 04:17:52 -0400  
@@ -167,19 +176,10 @@
 
 ---
 
-### 19. [OpenMandriva Linux says contributor tried to sabotage the project](https://www.bleepingcomputer.com/news/security/openmandriva-linux-says-contributor-tried-to-sabotage-the-project/)
+### 20. [OpenMandriva Linux says contributor tried to sabotage the project](https://www.bleepingcomputer.com/news/security/openmandriva-linux-says-contributor-tried-to-sabotage-the-project/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 09 Jul 2026 18:14:13 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [Injective SDK on npm infected with cryptocurrency wallet stealer](https://www.bleepingcomputer.com/news/security/injective-sdk-on-npm-infected-with-cryptocurrency-wallet-stealer/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 09 Jul 2026 16:10:00 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -235,7 +235,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50507, CVE-2026-45586, CVE-2026-49160  
+**CVEs:** CVE-2026-45586, CVE-2026-50507, CVE-2026-49160  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -372,7 +372,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 09 Jul 2026 18:52:29 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-25106, CVE-2026-33091, CVE-2026-28739  
+**CVEs:** CVE-2026-33091, CVE-2026-25106, CVE-2026-28739  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -629,7 +629,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

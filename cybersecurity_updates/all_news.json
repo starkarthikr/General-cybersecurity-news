@@ -1,9 +1,27 @@
 [
   {
     "source": "The Hacker News",
+    "title": "URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat",
+    "link": "https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html",
+    "published": "Fri, 10 Jul 2026 22:00:00 +0530",
+    "summary": "Progress Software has told ShareFile customers to shut down the Windows servers running their Storage Zone Controllers, confirming to The Hacker News that it is responding to a \"credible external security threat.\"\n\nThe company has temporarily disabled access to the affected accounts, a step it says it took \"out of an abundance of caution\" while it works with internal and external security",
+    "analysis": {
+      "issue": "Progress ordered ShareFile customers to shut down their Storage Zone Controllers while it investigates a credible external security threat",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages",
     "link": "https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html",
-    "published": "Fri, 10 Jul 2026 22:59:28 +0530",
+    "published": "Fri, 10 Jul 2026 21:59:00 +0530",
     "summary": "Unknown threat actors compromised the Injective Labs SDK project's GitHub repository and leveraged it to publish a malicious package on the npm registry to steal cryptocurrency wallet private keys and mnemonic seed phrases.\n\nThe compromised version, @injectivelabs/sdk-ts@1.20.21, came embedded with fake telemetry functionality that exfiltrated data from cryptocurrency wallets. The version was",
     "analysis": {
       "issue": "Unknown attackers compromised Injective Labs' GitHub repo to publish npm package 1",
@@ -162,20 +180,21 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsoft 365 Access",
-    "link": "https://thehackernews.com/2026/07/hackers-use-fake-microsoft-entra.html",
-    "published": "Fri, 10 Jul 2026 16:00:20 +0530",
-    "summary": "A threat actor has been targeting organizations spanning multiple sectors with voice-based fake security requests that prompt Microsoft 365 users to enroll a new Entra passkey with an aim to carry out data extortion attacks.\n\nThe threat actor, tracked by Okta under the moniker O-UNC-066, has deployed a panel-controlled phishing kit that's capable of targeting the passkey enrollment process. The",
+    "source": "Bleeping Computer",
+    "title": "New U-Boot flaws could enable stealthy firmware attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/",
+    "published": "Fri, 10 Jul 2026 17:59:02 -0400",
+    "summary": "Six vulnerabilities in the widely used U-Boot bootloader have been discovered that could allow attackers to execute malicious code during device boot, potentially enabling stealthy firmware attacks that compromise security protections and install persistent malware. [...]",
     "analysis": {
-      "issue": "O-UNC-066 uses vishing and a live phishing kit to trick Microsoft 365 users into enrolling attacker-controlled Entra passkeys for account access",
+      "issue": "Six vulnerabilities in the widely used U-Boot bootloader have been discovered that could allow attackers to execute malicious code during device boot, potentially enabling stealthy firmware attacks that compromise security protections and install per",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "Phishing"
+        "Malware",
+        "DDoS"
       ]
     }
   },
@@ -345,24 +364,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Injective SDK on npm infected with cryptocurrency wallet stealer",
-    "link": "https://www.bleepingcomputer.com/news/security/injective-sdk-on-npm-infected-with-cryptocurrency-wallet-stealer/",
-    "published": "Thu, 09 Jul 2026 16:10:00 -0400",
-    "summary": "Hackers compromised the Injective Labs SDK project's GitHub repository and used it to publish a malicious package on the Node Package Manager (npm) that stole cryptocurrency wallet private keys and mnemonic seed phrases. [...]",
-    "analysis": {
-      "issue": "Hackers compromised the Injective Labs SDK project's GitHub repository and used it to publish a malicious package on the Node Package Manager (npm) that stole cryptocurrency wallet private keys and mnemonic seed phrases",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
     "link": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
@@ -469,8 +470,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50507",
         "CVE-2026-45586",
+        "CVE-2026-50507",
         "CVE-2026-49160"
       ],
       "threat_categories": [
@@ -762,8 +763,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-25106",
         "CVE-2026-33091",
+        "CVE-2026-25106",
         "CVE-2026-28739"
       ],
       "threat_categories": [
@@ -1286,8 +1287,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
