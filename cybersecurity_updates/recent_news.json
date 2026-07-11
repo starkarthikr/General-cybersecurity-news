@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions",
+    "link": "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html",
+    "published": "Sat, 11 Jul 2026 12:15:55 +0530",
+    "summary": "Zimbra is urging customers to apply updates to address a critical security vulnerability impacting the Classic Web Client that could result in arbitrary code execution.\n\nThe vulnerability has been described as a case of stored cross-site scripting (XSS) that could allow specially crafted emails to execute malicious scripts in a user's session. It has yet to be assigned a CVE identifier.\n\n\"The",
+    "analysis": {
+      "issue": "Zimbra fixes a critical stored XSS flaw in its Classic Web Client that could let crafted emails run malicious scripts when opened",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat",
     "link": "https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html",
     "published": "Fri, 10 Jul 2026 22:00:00 +0530",
@@ -162,13 +180,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking",
-    "link": "https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html",
-    "published": "Fri, 10 Jul 2026 16:26:23 +0530",
-    "summary": "Researchers ran 281 of the most popular free VPN apps on the Google Play Store through a new testing system and found that many fail at the basics people install a VPN for, i.e., keeping their traffic private and secure.\n\nThe apps flagged with at least one problem have been installed more than 2.4 billion times.\n\nThe problems are basic, not sophisticated. 29 apps let user traffic leak outside",
+    "source": "Bleeping Computer",
+    "title": "'Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets",
+    "link": "https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/",
+    "published": "Sat, 11 Jul 2026 05:03:57 -0400",
+    "summary": "A PNG hiding a prompt injection could steal your repo's secrets, researchers demonstrate. The technique, dubbed 'Ghostcommit,' slipped past AI code reviewers CodeRabbit and Bugbot, which never open image files at all, then convinced a coding agent to read a repo's .env and write every secret into the code as a list of numbers. [...]",
     "analysis": {
-      "issue": "Researchers tested 281 free Android VPN apps and found DNS leaks, plaintext traffic, weak tunnels, and flaws across apps with 2",
+      "issue": "Researchers have built a pull request that steals a repository's secrets by hiding the malicious instruction inside a PNG that AI code reviewers never open",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -346,24 +364,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "OpenMandriva Linux says contributor tried to sabotage the project",
-    "link": "https://www.bleepingcomputer.com/news/security/openmandriva-linux-says-contributor-tried-to-sabotage-the-project/",
-    "published": "Thu, 09 Jul 2026 18:14:13 -0400",
-    "summary": "The OpenMandriva Linux project announced that it was the target of an attempted act of internal sabotage after a dispute among contributors. [...]",
-    "analysis": {
-      "issue": "The OpenMandriva Linux project announced that it was the target of an attempted act of internal sabotage after a dispute among contributors",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
     "link": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
@@ -470,9 +470,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-49160",
         "CVE-2026-45586",
-        "CVE-2026-50507",
-        "CVE-2026-49160"
+        "CVE-2026-50507"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -763,9 +763,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
+        "CVE-2026-33091",
         "CVE-2026-25106",
-        "CVE-2026-28739",
-        "CVE-2026-33091"
+        "CVE-2026-28739"
       ],
       "threat_categories": [
         "Vulnerability",
