@@ -181,6 +181,24 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "RedHook Android malware now uses Wireless ADB for shell access",
+    "link": "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/",
+    "published": "Sun, 12 Jul 2026 10:27:32 -0400",
+    "summary": "A new version of the RedHook Android malware abuses the Android Wireless Debugging (Wireless ADB) mechanism in a novel way to gain shell-level privileges without requiring a computer connection. [...]",
+    "analysis": {
+      "issue": "A new version of the RedHook Android malware abuses the Android Wireless Debugging (Wireless ADB) mechanism in a novel way to gain shell-level privileges without requiring a computer connection",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Australia warns of global campaign targeting vulnerable CMS platforms",
     "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/",
     "published": "Sat, 11 Jul 2026 10:18:23 -0400",
@@ -347,24 +365,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Zimbra urges customers to patch critical web client XSS flaw",
-    "link": "https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/",
-    "published": "Fri, 10 Jul 2026 07:47:38 -0400",
-    "summary": "The Zimbra security team urged customers to patch a critical vulnerability affecting the Classic Web Client used to access the Zimbra Collaboration suite. [...]",
-    "analysis": {
-      "issue": "The Zimbra security team urged customers to patch a critical vulnerability affecting the Classic Web Client used to access the Zimbra Collaboration suite",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
     "link": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
@@ -471,8 +471,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-49160",
         "CVE-2026-50507",
+        "CVE-2026-49160",
         "CVE-2026-45586"
       ],
       "threat_categories": [
@@ -763,9 +763,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
+        "CVE-2026-25106",
         "CVE-2026-28739",
-        "CVE-2026-33091",
-        "CVE-2026-25106"
+        "CVE-2026-33091"
       ],
       "threat_categories": [
         "Vulnerability",
