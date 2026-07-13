@@ -1,6 +1,78 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft",
+    "link": "https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html",
+    "published": "Mon, 13 Jul 2026 18:33:33 +0530",
+    "summary": "A new phishing-as-a-service (PhaaS) operation called Forg365 is using a combination of device code phishing, adversary-in-the-middle (AitM) tactics, antibot evasion, artificial intelligence (AI)-assisted lure creation, and post-compromise mailbox operations targeting Microsoft 365 accounts.\n\nDistributed via Telegram and costing $400 a month (or $3,800 per year), attack chains leverage phishing",
+    "analysis": {
+      "issue": "Forg365 targets Microsoft 365 with device code and AitM phishing, then uses stolen tokens for persistent browser sessions and mailbox access",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling",
+    "link": "https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html",
+    "published": "Mon, 13 Jul 2026 17:24:46 +0530",
+    "summary": "Meta has filed a patent application for an AI that listens to your voice throughout the day, works out how it thinks you are feeling from the way you sound, and keeps a timestamped log of every read.\n\nEach read gets pinned to the moment it happened: the time, your location, what you were doing, even how you were using your phone. Some versions in the filing would listen all day; others would",
+    "analysis": {
+      "issue": "Meta filed a patent for an AI that reads your mood from your voice, eyes, and phone and keeps a timestamped log of it",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots",
+    "link": "https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html",
+    "published": "Mon, 13 Jul 2026 17:07:05 +0530",
+    "summary": "A few days ago, I was sitting with the CISO of a Fortune 50 company, walking through how his security team was thinking about AI agents in the SOC. Smart team. Serious program. They had already connected Claude to a few detection tools and were seeing real value in specific investigations. But as we mapped out the broader architecture, something kept nagging at me. The design they were building",
+    "analysis": {
+      "issue": "Research on 25 million enterprise alerts finds 98% can be resolved autonomously, leaving less than 2% of SOC cases for human analyst review",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory",
+    "link": "https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html",
+    "published": "Mon, 13 Jul 2026 16:32:33 +0530",
+    "summary": "Cybersecurity researchers have flagged an intrusion in which an unknown threat actor leveraged a vibe-coded PowerShell script for Active Directory (AD) enumeration.\n\n\"The script looked for the Domain Controller (DC) and mapped users, computers, and domains, before creating a directory and exporting out a number of files, and finally creating AD_Report.html to measure the success of the",
+    "analysis": {
+      "issue": "A likely AI-generated PowerShell script mapped Active Directory after an attacker gained RDP access to a Windows Server with compromised credentials",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365",
     "link": "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html",
     "published": "Mon, 13 Jul 2026 13:00:00 +0530",
@@ -109,13 +181,31 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages",
-    "link": "https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html",
-    "published": "Fri, 10 Jul 2026 21:59:00 +0530",
-    "summary": "Unknown threat actors compromised the Injective Labs SDK project's GitHub repository and leveraged it to publish a malicious package on the npm registry to steal cryptocurrency wallet private keys and mnemonic seed phrases.\n\nThe compromised version, @injectivelabs/sdk-ts@1.20.21, came embedded with fake telemetry functionality that exfiltrated data from cryptocurrency wallets. The version was",
+    "source": "Bleeping Computer",
+    "title": "Lidl discloses online shop breach after service provider hack",
+    "link": "https://www.bleepingcomputer.com/news/security/lidl-discloses-online-shop-breach-after-service-provider-hack/",
+    "published": "Mon, 13 Jul 2026 10:19:43 -0400",
+    "summary": "German discount supermarket chain Lidl notified customers in Germany, Belgium, and the Netherlands that attackers stole their personal information in a breach at a service provider. [...]",
     "analysis": {
-      "issue": "Unknown attackers compromised Injective Labs' GitHub repo to publish npm package 1",
+      "issue": "German discount supermarket chain Lidl notified customers in Germany, Belgium, and the Netherlands that attackers stole their personal information in a breach at a service provider",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Breach at the Beach: Play the Ultimate Entra ID CTF",
+    "link": "https://www.bleepingcomputer.com/news/security/breach-at-the-beach-play-the-ultimate-entra-id-ctf/",
+    "published": "Mon, 13 Jul 2026 10:01:11 -0400",
+    "summary": "Learn how attackers abuse Entra ID through a free hands-on Capture the Flag. Varonis created the Breach at the Beach CTF to teach defenders how to investigate Entra ID attack techniques using realistic scenarios. [...]",
+    "analysis": {
+      "issue": "Discover how Varonis Threat Labs created Breach at the Beach, a unique Entra ID training experience",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -127,56 +217,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot",
-    "link": "https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html",
-    "published": "Fri, 10 Jul 2026 21:27:14 +0530",
-    "summary": "Researchers at firmware security firm&nbsp;Binarly&nbsp;have found six new flaws in U-Boot, the small program that starts up hardware as varied as home routers, smart cameras, and the management chips inside data-center servers.\n\nFour of the bugs can crash a device. The other two could let an attacker who slips a malicious image in front of the bootloader run their own code, before the device",
+    "source": "Bleeping Computer",
+    "title": "UK charges suspects linked to Russian Coms call spoofing platform",
+    "link": "https://www.bleepingcomputer.com/news/security/uk-charges-suspects-linked-to-russian-coms-call-spoofing-platform/",
+    "published": "Mon, 13 Jul 2026 09:23:30 -0400",
+    "summary": "UK authorities charged five people following a National Crime Agency (NCA) investigation into Russian Coms, a major caller ID spoofing platform used by criminals to make over 1.8 million scam calls. [...]",
     "analysis": {
-      "issue": "Six U-Boot flaws include four that can crash devices and two that could run code before signature checks; no fixed stable release exists",
+      "issue": "UK authorities charged five people following a National Crime Agency (NCA) investigation into Russian Coms, a major caller ID spoofing platform used by criminals to make over 1",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched",
-    "link": "https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html",
-    "published": "Fri, 10 Jul 2026 20:21:49 +0530",
-    "summary": "Researchers at Ledger's&nbsp;Donjon security team&nbsp;have shown that a precisely timed laser pulse, aimed at the chip inside a Tangem crypto wallet card, can reset the card's password to anything the attacker picks.\n\nNo old password. No backup card. Once it is reset, whoever did it controls the wallet and can move the coins&nbsp;out.\n\nThis is not an emergency for most owners. The attack needs",
-    "analysis": {
-      "issue": "Ledger researchers used laser fault injection to reset Tangem wallet passwords, but the invasive attack needs physical access and a $250,000 lab",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws",
-    "link": "https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html",
-    "published": "Fri, 10 Jul 2026 19:49:50 +0530",
-    "summary": "Details have emerged about three now-patched security flaws in the OpenClaw personal artificial intelligence (AI) assistant that, if successfully exploited, could enable credential theft, privilege escalation, and arbitrary code execution on the host.\n\nA brief description of the high-severity vulnerabilities is as follows&nbsp;-\n\n\n  GHSA-hjr6-g723-hmfm (CVSS score: 8.8) - An operating system",
-    "analysis": {
-      "issue": "A researcher says three patched OpenClaw flaws could enable credential theft, privilege escalation, and host code execution via WhatsApp",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
       ]
     }
   },
@@ -310,62 +364,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "New U-Boot flaws could enable stealthy firmware attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/",
-    "published": "Fri, 10 Jul 2026 17:59:02 -0400",
-    "summary": "Six vulnerabilities in the widely used U-Boot bootloader have been discovered that could allow attackers to execute malicious code during device boot, potentially enabling stealthy firmware attacks that compromise security protections and install persistent malware. [...]",
-    "analysis": {
-      "issue": "Six vulnerabilities in the widely used U-Boot bootloader have been discovered that could allow attackers to execute malicious code during device boot, potentially enabling stealthy firmware attacks that compromise security protections and install per",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "DDoS"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Ryuk ransomware member pleads guilty in the US, faces 15 years in prison",
-    "link": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-pleads-guilty-in-the-us-faces-15-years-in-prison/",
-    "published": "Fri, 10 Jul 2026 13:46:10 -0400",
-    "summary": "A 34-year-old Armenian man has pleaded guilty to hacking U.S. companies and deploying the infamous Ryuk ransomware to encrypt their systems. [...]",
-    "analysis": {
-      "issue": "A 34-year-old Armenian man has pleaded guilty to hacking U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Police suspects Dutch hackers were involved in Odido breach",
-    "link": "https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/",
-    "published": "Fri, 10 Jul 2026 12:37:01 -0400",
-    "summary": "The Dutch National Police (Politie) says it has found \"strong indications\" that Dutch hackers have been involved in a February breach at the telecommunications provider Odido. [...]",
-    "analysis": {
-      "issue": "The Dutch National Police (Politie) says it has found \"strong indications\" that Dutch hackers have been involved in a February breach at the telecommunications provider Odido",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Phishing"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
     "link": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
@@ -472,9 +470,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-50507",
         "CVE-2026-49160",
-        "CVE-2026-45586",
-        "CVE-2026-50507"
+        "CVE-2026-45586"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -554,6 +552,64 @@
       "threat_categories": [
         "Malware",
         "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Hacker Conversations: Jesse McGraw (GhostExodus), From Blackhat Hacker to Redemption",
+    "link": "https://www.securityweek.com/hacker-conversations-jesse-mcgraw-ghostexodus-from-blackhat-hacker-to-redemption/",
+    "published": "Mon, 13 Jul 2026 14:30:00 +0000",
+    "summary": "<p>Once a notorious blackhat hacker, McGraw shares his journey from high school hacking and prison to redemption as a cybersecurity advocate.</p>\n<p>The post <a href=\"https://www.securityweek.com/hacker-conversations-jesse-mcgraw-ghostexodus-from-blackhat-hacker-to-redemption/\">Hacker Conversations: Jesse McGraw (GhostExodus), From Blackhat Hacker to Redemption</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Once a notorious blackhat hacker, McGraw shares his journey from high school hacking and prison to redemption as a cybersecurity advocate",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Cybersecurity M&A Roundup: 37 Deals Announced in June 2026",
+    "link": "https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-june-2026/",
+    "published": "Mon, 13 Jul 2026 12:20:14 +0000",
+    "summary": "<p>Significant cybersecurity M&#038;A deals announced by 1Password, Accenture, Cisco, F5, Rubrik, and SailPoint.</p>\n<p>The post <a href=\"https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-june-2026/\">Cybersecurity M&#038;A Roundup: 37 Deals Announced in June 2026</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Significant cybersecurity M&A deals announced by 1Password, Accenture, Cisco, F5, Rubrik, and SailPoint",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "RabbitMQ Vulnerability Threatens Enterprise Systems",
+    "link": "https://www.securityweek.com/rabbitmq-vulnerability-threatens-enterprise-systems/",
+    "published": "Mon, 13 Jul 2026 12:00:00 +0000",
+    "summary": "<p>Unauthenticated attackers could obtain the broker's confidential OAuth client secret, allowing them to take control of the broker.</p>\n<p>The post <a href=\"https://www.securityweek.com/rabbitmq-vulnerability-threatens-enterprise-systems/\">RabbitMQ Vulnerability Threatens Enterprise Systems</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Unauthenticated attackers could obtain the broker’s confidential OAuth client secret, allowing them to take control of the broker",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-57221",
+        "CVE-2026-5721"
+      ],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -694,62 +750,6 @@
         "Data Breach",
         "Vulnerability",
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Third US Security Expert Sentenced to Prison for Helping Ransomware Gang",
-    "link": "https://www.securityweek.com/third-us-security-expert-sentenced-to-prison-for-helping-ransomware-gang/",
-    "published": "Fri, 10 Jul 2026 12:58:39 +0000",
-    "summary": "<p>Angelo Martino, a former ransomware negotiator, was sentenced to 70 months for helping the BlackCat/Alphv group.</p>\n<p>The post <a href=\"https://www.securityweek.com/third-us-security-expert-sentenced-to-prison-for-helping-ransomware-gang/\">Third US Security Expert Sentenced to Prison for Helping Ransomware Gang</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Angelo Martino, a former ransomware negotiator, was sentenced to 70 months for helping the BlackCat/Alphv group",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "China, India-Linked Hackers Both Targeted Same Pakistani Police Force",
-    "link": "https://www.securityweek.com/china-india-linked-hackers-both-targeted-same-pakistani-police-force/",
-    "published": "Fri, 10 Jul 2026 11:55:11 +0000",
-    "summary": "<p>Both foes and allies have targeted the Balochistan Police force in Pakistan for at least two years, according to SentinelOne.</p>\n<p>The post <a href=\"https://www.securityweek.com/china-india-linked-hackers-both-targeted-same-pakistani-police-force/\">China, India-Linked Hackers Both Targeted Same Pakistani Police Force</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Both foes and allies have targeted the Balochistan Police force in Pakistan for at least two years, according to SentinelOne",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Okta Warns of Vishing Attacks Targeting Microsoft 365 Customers",
-    "link": "https://www.securityweek.com/okta-warns-of-vishing-attacks-targeting-microsoft-365-customers/",
-    "published": "Fri, 10 Jul 2026 11:06:36 +0000",
-    "summary": "<p>The attackers call victims to direct them to phishing websites mirroring Microsoft Entra ID login pages.</p>\n<p>The post <a href=\"https://www.securityweek.com/okta-warns-of-vishing-attacks-targeting-microsoft-365-customers/\">Okta Warns of Vishing Attacks Targeting Microsoft 365 Customers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The attackers call victims to direct them to phishing websites mirroring Microsoft Entra ID login pages",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing",
-        "APT"
       ]
     }
   },
@@ -1321,6 +1321,42 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Trusting your kids online isn&#8217;t enough (Lock and Code S07E14)",
+    "link": "https://www.malwarebytes.com/blog/podcast/2026/07/trusting-your-kids-online-isnt-enough-lock-and-code-s07e14",
+    "published": "Mon, 13 Jul 2026 14:33:41 GMT",
+    "summary": "This week on the Lock and Code podcast, we speak with Anna Brading about what actually works in keeping her kids safe online.",
+    "analysis": {
+      "issue": "This week on the Lock and Code podcast… There is a lot going on right now regarding the safety of kids online",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Ghostcommit attack hides malicious AI instructions in images",
+    "link": "https://www.malwarebytes.com/blog/ai/2026/07/ghostcommit-attack-hides-malicious-ai-instructions-in-images",
+    "published": "Mon, 13 Jul 2026 13:18:50 GMT",
+    "summary": "A proof-of-concept attack hides prompt injection in a PNG file, turning routine code reviews into a path for secret theft.",
+    "analysis": {
+      "issue": "Ghostcommit is a proof of concept that shows how AI assistants used to review software code can be tricked by hidden instructions embedded in images",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Fake crypto gift card sites are getting harder to spot",
     "link": "https://www.malwarebytes.com/blog/threat-intel/2026/07/fake-crypto-gift-card-sites-are-getting-harder-to-spot",
     "published": "Mon, 13 Jul 2026 11:05:28 GMT",
@@ -1467,42 +1503,6 @@
       "threat_categories": [
         "Vulnerability",
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Turn off this Meta setting before someone generates AI images of you",
-    "link": "https://www.malwarebytes.com/blog/ai/2026/07/turn-off-this-meta-setting-before-someone-generates-ai-images-of-you",
-    "published": "Thu, 09 Jul 2026 09:30:20 GMT",
-    "summary": "Meta's new Muse Image tool lets anyone generate AI images of you from your public Insta profile. You won't be notified, and it's on by default.",
-    "analysis": {
-      "issue": "Every consumer app has a settings menu that lets you make decisions about things like notifications or dark mode",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Your next car could be watching your face",
-    "link": "https://www.malwarebytes.com/blog/news/2026/07/your-next-car-could-be-watching-your-face",
-    "published": "Wed, 08 Jul 2026 12:13:07 GMT",
-    "summary": "Driver-monitoring technology is becoming mandatory in new cars, but privacy experts warn it could create new risks alongside the safety benefits.",
-    "analysis": {
-      "issue": "To reduce traffic incidents, all new cars sold in the EU must now include driver-monitoring technology, including Driver Drowsiness and Attention Warning (DDAW) systems and, on newer vehicles, Advanced Driver Distraction Warning (ADDW) systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },

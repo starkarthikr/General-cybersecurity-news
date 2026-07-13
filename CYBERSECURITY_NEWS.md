@@ -1,10 +1,46 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-13 11:38:40 UTC
+**Last Updated:** 2026-07-13 14:46:46 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365](https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html)
+### 1. [Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft](https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 13 Jul 2026 18:33:33 +0530  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 2. [Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling](https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 13 Jul 2026 17:24:46 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots](https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 13 Jul 2026 17:07:05 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 4. [Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory](https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 13 Jul 2026 16:32:33 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 5. [Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365](https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 13 Jul 2026 13:00:00 +0530  
@@ -13,7 +49,7 @@
 
 ---
 
-### 2. [iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days](https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html)
+### 6. [iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days](https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 13 Jul 2026 11:06:02 +0530  
@@ -22,7 +58,7 @@
 
 ---
 
-### 3. [Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install](https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html)
+### 7. [Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install](https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 11 Jul 2026 23:29:26 +0530  
@@ -31,7 +67,7 @@
 
 ---
 
-### 4. [Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns](https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html)
+### 8. [Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns](https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 11 Jul 2026 23:19:31 +0530  
@@ -40,7 +76,7 @@
 
 ---
 
-### 5. [Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions](https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html)
+### 9. [Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions](https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 11 Jul 2026 12:15:55 +0530  
@@ -49,7 +85,7 @@
 
 ---
 
-### 6. [URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat](https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html)
+### 10. [URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat](https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 10 Jul 2026 22:00:00 +0530  
@@ -58,43 +94,34 @@
 
 ---
 
-### 7. [Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages](https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html)
+### 11. [Lidl discloses online shop breach after service provider hack](https://www.bleepingcomputer.com/news/security/lidl-discloses-online-shop-breach-after-service-provider-hack/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 10 Jul 2026 21:59:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 13 Jul 2026 10:19:43 -0400  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 12. [Breach at the Beach: Play the Ultimate Entra ID CTF](https://www.bleepingcomputer.com/news/security/breach-at-the-beach-play-the-ultimate-entra-id-ctf/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 13 Jul 2026 10:01:11 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 8. [Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot](https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html)
+### 13. [UK charges suspects linked to Russian Coms call spoofing platform](https://www.bleepingcomputer.com/news/security/uk-charges-suspects-linked-to-russian-coms-call-spoofing-platform/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 10 Jul 2026 21:27:14 +0530  
-**Severity:** Low  
+**Source:** Bleeping Computer  
+**Published:** Mon, 13 Jul 2026 09:23:30 -0400  
+**Severity:** High  
 **Categories:** General Security  
 
 ---
 
-### 9. [Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched](https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 10 Jul 2026 20:21:49 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws](https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 10 Jul 2026 19:49:50 +0530  
-**Severity:** Low  
-**Categories:** Phishing  
-
----
-
-### 11. [EU sanctions Russian GRU military hackers over cyberattacks](https://www.bleepingcomputer.com/news/security/eu-and-uk-hit-russia-with-first-joint-cyber-sanctions-package/)
+### 14. [EU sanctions Russian GRU military hackers over cyberattacks](https://www.bleepingcomputer.com/news/security/eu-and-uk-hit-russia-with-first-joint-cyber-sanctions-package/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 13 Jul 2026 07:19:05 -0400  
@@ -103,7 +130,7 @@
 
 ---
 
-### 12. [US and allies warn of Russian critical infrastructure attacks](https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/)
+### 15. [US and allies warn of Russian critical infrastructure attacks](https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 13 Jul 2026 05:32:23 -0400  
@@ -113,7 +140,7 @@
 
 ---
 
-### 13. [OpenAI temporarily relaxes GPT-5.6 Sol usage limits](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/)
+### 16. [OpenAI temporarily relaxes GPT-5.6 Sol usage limits](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 12 Jul 2026 20:44:44 -0400  
@@ -122,7 +149,7 @@
 
 ---
 
-### 14. [Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/)
+### 17. [Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 12 Jul 2026 15:39:12 -0400  
@@ -131,7 +158,7 @@
 
 ---
 
-### 15. [RedHook Android malware now uses Wireless ADB for shell access](https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/)
+### 18. [RedHook Android malware now uses Wireless ADB for shell access](https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 12 Jul 2026 10:27:32 -0400  
@@ -140,7 +167,7 @@
 
 ---
 
-### 16. [Australia warns of global campaign targeting vulnerable CMS platforms](https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/)
+### 19. [Australia warns of global campaign targeting vulnerable CMS platforms](https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 11 Jul 2026 10:18:23 -0400  
@@ -149,39 +176,12 @@
 
 ---
 
-### 17. ['Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets](https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/)
+### 20. ['Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets](https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 11 Jul 2026 05:03:57 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 18. [New U-Boot flaws could enable stealthy firmware attacks](https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 10 Jul 2026 17:59:02 -0400  
-**Severity:** Critical  
-**Categories:** Malware, DDoS  
-
----
-
-### 19. [Ryuk ransomware member pleads guilty in the US, faces 15 years in prison](https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-pleads-guilty-in-the-us-faces-15-years-in-prison/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 10 Jul 2026 13:46:10 -0400  
-**Severity:** High  
-**Categories:** Ransomware  
-
----
-
-### 20. [Police suspects Dutch hackers were involved in Odido breach](https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 10 Jul 2026 12:37:01 -0400  
-**Severity:** Low  
-**Categories:** Data Breach, Phishing  
 
 ---
 
@@ -235,7 +235,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-49160, CVE-2026-45586, CVE-2026-50507  
+**CVEs:** CVE-2026-50507, CVE-2026-49160, CVE-2026-45586  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -276,7 +276,35 @@
 
 ---
 
-### 31. [Zimbra Patches Critical Code Execution Vulnerability](https://www.securityweek.com/zimbra-patches-critical-code-execution-vulnerability/)
+### 31. [Hacker Conversations: Jesse McGraw (GhostExodus), From Blackhat Hacker to Redemption](https://www.securityweek.com/hacker-conversations-jesse-mcgraw-ghostexodus-from-blackhat-hacker-to-redemption/)
+
+**Source:** Security Week  
+**Published:** Mon, 13 Jul 2026 14:30:00 +0000  
+**Severity:** High  
+**Categories:** Malware, APT  
+
+---
+
+### 32. [Cybersecurity M&A Roundup: 37 Deals Announced in June 2026](https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-june-2026/)
+
+**Source:** Security Week  
+**Published:** Mon, 13 Jul 2026 12:20:14 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 33. [RabbitMQ Vulnerability Threatens Enterprise Systems](https://www.securityweek.com/rabbitmq-vulnerability-threatens-enterprise-systems/)
+
+**Source:** Security Week  
+**Published:** Mon, 13 Jul 2026 12:00:00 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-57221, CVE-2026-5721  
+**Categories:** Vulnerability  
+
+---
+
+### 34. [Zimbra Patches Critical Code Execution Vulnerability](https://www.securityweek.com/zimbra-patches-critical-code-execution-vulnerability/)
 
 **Source:** Security Week  
 **Published:** Mon, 13 Jul 2026 10:03:47 +0000  
@@ -285,7 +313,7 @@
 
 ---
 
-### 32. [EU Targets Russian Intelligence Officers Accused of Running a Yearslong Cyber Spying Campaign](https://www.securityweek.com/eu-targets-russian-intelligence-officers-accused-of-running-a-yearslong-cyber-spying-campaign/)
+### 35. [EU Targets Russian Intelligence Officers Accused of Running a Yearslong Cyber Spying Campaign](https://www.securityweek.com/eu-targets-russian-intelligence-officers-accused-of-running-a-yearslong-cyber-spying-campaign/)
 
 **Source:** Security Week  
 **Published:** Mon, 13 Jul 2026 10:00:00 +0000  
@@ -294,7 +322,7 @@
 
 ---
 
-### 33. [Organizations Warned of Exploited Joomla Extension Vulnerabilities](https://www.securityweek.com/organizations-warned-of-exploited-joomla-extension-vulnerabilities/)
+### 36. [Organizations Warned of Exploited Joomla Extension Vulnerabilities](https://www.securityweek.com/organizations-warned-of-exploited-joomla-extension-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Mon, 13 Jul 2026 09:08:02 +0000  
@@ -304,7 +332,7 @@
 
 ---
 
-### 34. [Progress Prompts ShareFile Storage Zone Controller Shutdown Amid Security Concerns](https://www.securityweek.com/progress-prompts-sharefile-storage-zone-controller-shutdown-amid-security-concerns/)
+### 37. [Progress Prompts ShareFile Storage Zone Controller Shutdown Amid Security Concerns](https://www.securityweek.com/progress-prompts-sharefile-storage-zone-controller-shutdown-amid-security-concerns/)
 
 **Source:** Security Week  
 **Published:** Mon, 13 Jul 2026 08:20:46 +0000  
@@ -314,7 +342,7 @@
 
 ---
 
-### 35. [Centers Laboratory Data Breach Affects 540,000 Individuals](https://www.securityweek.com/centers-laboratory-data-breach-affects-540000-individuals/)
+### 38. [Centers Laboratory Data Breach Affects 540,000 Individuals](https://www.securityweek.com/centers-laboratory-data-breach-affects-540000-individuals/)
 
 **Source:** Security Week  
 **Published:** Mon, 13 Jul 2026 08:10:44 +0000  
@@ -323,7 +351,7 @@
 
 ---
 
-### 36. [Ghost Accounts Abuse GitHub API in Mass Recon Campaign](https://www.securityweek.com/ghost-accounts-abuse-github-api-in-mass-recon-campaign/)
+### 39. [Ghost Accounts Abuse GitHub API in Mass Recon Campaign](https://www.securityweek.com/ghost-accounts-abuse-github-api-in-mass-recon-campaign/)
 
 **Source:** Security Week  
 **Published:** Sat, 11 Jul 2026 17:30:00 +0000  
@@ -332,39 +360,12 @@
 
 ---
 
-### 37. [In Other News: DHS Database Hacked, Adobe Boosts Patch Cadence, Canada Disrupts Ransomware Ops](https://www.securityweek.com/in-other-news-dhs-database-hacked-adobe-boosts-patch-cadence-canada-disrupts-ransomware-ops/)
+### 40. [In Other News: DHS Database Hacked, Adobe Boosts Patch Cadence, Canada Disrupts Ransomware Ops](https://www.securityweek.com/in-other-news-dhs-database-hacked-adobe-boosts-patch-cadence-canada-disrupts-ransomware-ops/)
 
 **Source:** Security Week  
 **Published:** Fri, 10 Jul 2026 15:01:19 +0000  
 **Severity:** Critical  
 **Categories:** Ransomware, Data Breach, Vulnerability, Malware  
-
----
-
-### 38. [Third US Security Expert Sentenced to Prison for Helping Ransomware Gang](https://www.securityweek.com/third-us-security-expert-sentenced-to-prison-for-helping-ransomware-gang/)
-
-**Source:** Security Week  
-**Published:** Fri, 10 Jul 2026 12:58:39 +0000  
-**Severity:** Low  
-**Categories:** Ransomware  
-
----
-
-### 39. [China, India-Linked Hackers Both Targeted Same Pakistani Police Force](https://www.securityweek.com/china-india-linked-hackers-both-targeted-same-pakistani-police-force/)
-
-**Source:** Security Week  
-**Published:** Fri, 10 Jul 2026 11:55:11 +0000  
-**Severity:** Low  
-**Categories:** Malware, APT  
-
----
-
-### 40. [Okta Warns of Vishing Attacks Targeting Microsoft 365 Customers](https://www.securityweek.com/okta-warns-of-vishing-attacks-targeting-microsoft-365-customers/)
-
-**Source:** Security Week  
-**Published:** Fri, 10 Jul 2026 11:06:36 +0000  
-**Severity:** Low  
-**Categories:** Phishing, APT  
 
 ---
 
@@ -645,7 +646,25 @@
 
 ---
 
-### 71. [Fake crypto gift card sites are getting harder to spot](https://www.malwarebytes.com/blog/threat-intel/2026/07/fake-crypto-gift-card-sites-are-getting-harder-to-spot)
+### 71. [Trusting your kids online isn&#8217;t enough (Lock and Code S07E14)](https://www.malwarebytes.com/blog/podcast/2026/07/trusting-your-kids-online-isnt-enough-lock-and-code-s07e14)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 13 Jul 2026 14:33:41 GMT  
+**Severity:** High  
+**Categories:** Malware  
+
+---
+
+### 72. [Ghostcommit attack hides malicious AI instructions in images](https://www.malwarebytes.com/blog/ai/2026/07/ghostcommit-attack-hides-malicious-ai-instructions-in-images)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 13 Jul 2026 13:18:50 GMT  
+**Severity:** Low  
+**Categories:** Data Breach  
+
+---
+
+### 73. [Fake crypto gift card sites are getting harder to spot](https://www.malwarebytes.com/blog/threat-intel/2026/07/fake-crypto-gift-card-sites-are-getting-harder-to-spot)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 13 Jul 2026 11:05:28 GMT  
@@ -654,7 +673,7 @@
 
 ---
 
-### 72. [A week in security (July 6 &#8211; July 12)](https://www.malwarebytes.com/blog/news/2026/07/a-week-in-security-july-6-july-12)
+### 74. [A week in security (July 6 &#8211; July 12)](https://www.malwarebytes.com/blog/news/2026/07/a-week-in-security-july-6-july-12)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 13 Jul 2026 07:01:00 GMT  
@@ -663,7 +682,7 @@
 
 ---
 
-### 73. [This new Windows malware can take over your PC and wipe it clean](https://www.malwarebytes.com/blog/news/2026/07/this-new-windows-malware-can-take-over-your-pc-and-wipe-it-clean)
+### 75. [This new Windows malware can take over your PC and wipe it clean](https://www.malwarebytes.com/blog/news/2026/07/this-new-windows-malware-can-take-over-your-pc-and-wipe-it-clean)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 10 Jul 2026 13:25:41 GMT  
@@ -672,7 +691,7 @@
 
 ---
 
-### 74. [How mule betting scams recruit ordinary people](https://www.malwarebytes.com/blog/scams/2026/07/how-mule-betting-scams-recruit-ordinary-people)
+### 76. [How mule betting scams recruit ordinary people](https://www.malwarebytes.com/blog/scams/2026/07/how-mule-betting-scams-recruit-ordinary-people)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 10 Jul 2026 11:02:40 GMT  
@@ -681,7 +700,7 @@
 
 ---
 
-### 75. [Two Chrome updates in two days fix critical vulnerabilities](https://www.malwarebytes.com/blog/news/2026/07/two-chrome-updates-in-two-days-fix-critical-vulnerabilities)
+### 77. [Two Chrome updates in two days fix critical vulnerabilities](https://www.malwarebytes.com/blog/news/2026/07/two-chrome-updates-in-two-days-fix-critical-vulnerabilities)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 10 Jul 2026 10:32:54 GMT  
@@ -690,7 +709,7 @@
 
 ---
 
-### 76. [How World Cup crypto prediction sites take your money](https://www.malwarebytes.com/blog/threat-intel/2026/07/how-world-cup-crypto-prediction-sites-take-your-money)
+### 78. [How World Cup crypto prediction sites take your money](https://www.malwarebytes.com/blog/threat-intel/2026/07/how-world-cup-crypto-prediction-sites-take-your-money)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 09 Jul 2026 15:12:43 GMT  
@@ -699,7 +718,7 @@
 
 ---
 
-### 77. [6.9 million driver’s license numbers stolen from AssuranceAmerica](https://www.malwarebytes.com/blog/data-breaches/2026/07/6-9-million-drivers-license-numbers-stolen-from-assuranceamerica)
+### 79. [6.9 million driver’s license numbers stolen from AssuranceAmerica](https://www.malwarebytes.com/blog/data-breaches/2026/07/6-9-million-drivers-license-numbers-stolen-from-assuranceamerica)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 09 Jul 2026 15:06:29 GMT  
@@ -708,31 +727,13 @@
 
 ---
 
-### 78. [Microsoft fixes RoguePlanet zero-day in Defender](https://www.malwarebytes.com/blog/news/2026/07/microsoft-fixes-rogueplanet-zero-day-in-defender)
+### 80. [Microsoft fixes RoguePlanet zero-day in Defender](https://www.malwarebytes.com/blog/news/2026/07/microsoft-fixes-rogueplanet-zero-day-in-defender)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 09 Jul 2026 11:38:12 GMT  
 **Severity:** Critical  
 **CVEs:** CVE-2026-50656  
 **Categories:** Vulnerability, Malware  
-
----
-
-### 79. [Turn off this Meta setting before someone generates AI images of you](https://www.malwarebytes.com/blog/ai/2026/07/turn-off-this-meta-setting-before-someone-generates-ai-images-of-you)
-
-**Source:** Malwarebytes  
-**Published:** Thu, 09 Jul 2026 09:30:20 GMT  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 80. [Your next car could be watching your face](https://www.malwarebytes.com/blog/news/2026/07/your-next-car-could-be-watching-your-face)
-
-**Source:** Malwarebytes  
-**Published:** Wed, 08 Jul 2026 12:13:07 GMT  
-**Severity:** High  
-**Categories:** General Security  
 
 ---
 
