@@ -1,6 +1,79 @@
 [
   {
     "source": "The Hacker News",
+    "title": "CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks",
+    "link": "https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html",
+    "published": "Mon, 13 Jul 2026 23:06:12 +0530",
+    "summary": "Cybersecurity researchers have flagged a new macOS information stealer called CrashStealer that's capable of harvesting sensitive data from compromised systems.\n\nUnlike other information stealers that are built on AppleScript droppers or Objective-C-based wrappers, CrashStealer is implemented in native C++, according to Jamf Threat Labs.\n\n\"It validates the victim's login password locally before",
+    "analysis": {
+      "issue": "CrashStealer uses a notarized macOS dropper to pass Gatekeeper, then steals browser, wallet, password manager, file, and keychain data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Google and Microsoft Pull ModHeader With 1.6 Million Installs After Dormant Collector Found",
+    "link": "https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html",
+    "published": "Mon, 13 Jul 2026 22:47:24 +0530",
+    "summary": "Google and Microsoft have pulled ModHeader, a popular header-editing extension with roughly 1.6 million installs across Chrome and Edge, after researchers found a hidden browsing-history collector built into its official store version.\n\nThe collector was dormant. An empty allow-list kept it switched off, and no proof has emerged that it ever gathered or sent a single browsing domain.\n\nThe",
+    "analysis": {
+      "issue": "Google and Microsoft pulled ModHeader after researchers found a dormant collector built to encrypt and upload up to 1,000 visited domains",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "⚡ Weekly Recap: ShareFile Threat, Citrix Bleed 2 Ransomware, AI Coding Attacks, and More",
+    "link": "https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html",
+    "published": "Mon, 13 Jul 2026 20:35:57 +0530",
+    "summary": "Somewhere right now, a security tool is quietly finding bugs faster than any human can fix them. That's supposed to be the good news. The catch is that the attackers have the same tools, pointed the other way, and they don't file tickets.\n\nThat's the shape of this week. Trusted code turns on the people who installed it. Old bugs from last year are still landing because the fix sat in a queue too",
+    "analysis": {
+      "issue": "From a rushed ShareFile shutdown to poisoned npm packages and AI assistants tricked into installing malware, here's every threat you need to know this",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "New MemGhost Attack Plants Persistent False Memories in AI Agents Through One Email",
+    "link": "https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html",
+    "published": "Mon, 13 Jul 2026 19:19:48 +0530",
+    "summary": "Give an AI assistant a memory and access to your inbox, and you hand an attacker a way to rewrite what it thinks it knows about you. A single email can trick that agent into saving a false \"fact\" about the user, hide the change, and quietly steer its answers in later sessions.\n\nWhen it works, the person reads an ordinary-looking reply and never learns their assistant was tampered with.\n\nThe",
+    "analysis": {
+      "issue": "A single crafted email can plant a false, lasting memory in AI agents like OpenClaw, hide it from the user, and slip past the defenses built to catch",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft",
     "link": "https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html",
     "published": "Mon, 13 Jul 2026 18:33:33 +0530",
@@ -109,74 +182,23 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
-    "link": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html",
-    "published": "Sat, 11 Jul 2026 23:29:26 +0530",
-    "summary": "The jscrambler npm package was compromised, and simply installing its&nbsp;8.14.0&nbsp;release runs an infostealer on your machine. Published on July 11, 2026, the malicious version carries a&nbsp;preinstall&nbsp;hook that drops and executes a native binary, one build each for Windows, macOS, and Linux.\n\nSocket flagged the release&nbsp;six minutes after it was published. If you or one of your",
+    "source": "Bleeping Computer",
+    "title": "CISA warns of actively exploited RCE flaws in Joomla extensions",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/",
+    "published": "Mon, 13 Jul 2026 11:20:16 -0400",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are exploiting vulnerabilities in the iCagenda and Balbooa Forms extensions for Joomla to achieve remote code execution through arbitrary file uploads. [...]",
     "analysis": {
-      "issue": "0 runs hidden binaries during npm install on Windows, macOS, and Linux, with no fix available as of July 11, 2026",
+      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are exploiting vulnerabilities in the iCagenda and Balbooa Forms extensions for Joomla to achieve remote code execution through arbitrary file uploads",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [],
+      "cves": [
+        "CVE-2026-56291",
+        "CVE-2026-48939"
+      ],
       "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns",
-    "link": "https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html",
-    "published": "Sat, 11 Jul 2026 23:19:31 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of sustained cyber espionage activity against several Pakistani law enforcement organizations undertaken by suspected China- and India-aligned threat actors between February 2024 and April 2026.\n\n\"At Balochistan Police, the compromised assets included servers hosting web applications that manage police and citizen data, such as criminal and",
-    "analysis": {
-      "issue": "Suspected China- and India-aligned actors targeted Pakistani police systems with PlugX, ShadowPad, Remcos, and Cobalt Strike from 2024 to 2026",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions",
-    "link": "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html",
-    "published": "Sat, 11 Jul 2026 12:15:55 +0530",
-    "summary": "Zimbra is urging customers to apply updates to address a critical security vulnerability impacting the Classic Web Client that could result in arbitrary code execution.\n\nThe vulnerability has been described as a case of stored cross-site scripting (XSS) that could allow specially crafted emails to execute malicious scripts in a user's session. It has yet to be assigned a CVE identifier.\n\n\"The",
-    "analysis": {
-      "issue": "Zimbra fixes a critical stored XSS flaw in its Classic Web Client that could let crafted emails run malicious scripts when opened",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat",
-    "link": "https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html",
-    "published": "Fri, 10 Jul 2026 22:00:00 +0530",
-    "summary": "Progress Software has told ShareFile customers to shut down the Windows servers running their Storage Zone Controllers, confirming to The Hacker News that it is responding to a \"credible external security threat.\"\n\nThe company has temporarily disabled access to the affected accounts, a step it says it took \"out of an abundance of caution\" while it works with internal and external security",
-    "analysis": {
-      "issue": "Progress ordered ShareFile customers to shut down their Storage Zone Controllers while it investigates a credible external security threat",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
+        "Vulnerability"
       ]
     }
   },
@@ -346,20 +368,21 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "'Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets",
-    "link": "https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/",
-    "published": "Sat, 11 Jul 2026 05:03:57 -0400",
-    "summary": "A PNG hiding a prompt injection could steal your repo's secrets, researchers demonstrate. The technique, dubbed 'Ghostcommit,' slipped past AI code reviewers CodeRabbit and Bugbot, which never open image files at all, then convinced a coding agent to read a repo's .env and write every secret into the code as a list of numbers. [...]",
+    "source": "Krebs On Security",
+    "title": "Lessons Learned from CISA’s Recent GitHub Leak",
+    "link": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
+    "published": "Mon, 13 Jul 2026 15:03:28 +0000",
+    "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response provide important lessons that all security teams should absorb.",
     "analysis": {
-      "issue": "Researchers have built a pull request that steals a repository's secrets by hiding the malicious instruction inside a PNG that AI code reviewers never open",
+      "issue": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a recent data leak in which a contractor published dozens of internal CISA credentials — including AWS Govcloud keys — in a public GitHub repository for almost six",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Data Breach",
+        "Vulnerability"
       ]
     }
   },
@@ -537,25 +560,6 @@
     }
   },
   {
-    "source": "Krebs On Security",
-    "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
-    "link": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
-    "published": "Thu, 21 May 2026 21:50:25 +0000",
-    "summary": "Canadian authorities on Wednesday arrested a 23-year-old Ottawa man on suspicion of building and operating Kimwolf, a fast spreading Internet-of-Things botnet that enslaved millions of devices for use in a series of massive distributed denial-of-service (DDoS) attacks over the past six months. KrebsOnSecurity publicly named the suspect in February 2026 after the accused launched a volley of DDoS, doxing and swatting campaigns against this author and a security researcher. He now faces criminal hacking charges in both Canada and the United States.",
-    "analysis": {
-      "issue": "Canadian authorities on Wednesday arrested a 23-year-old Ottawa man on suspicion of building and operating Kimwolf, a fast spreading Internet-of-Things botnet that enslaved millions of devices for use in a series of massive distributed denial-of-serv",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "DDoS"
-      ]
-    }
-  },
-  {
     "source": "Security Week",
     "title": "Hacker Conversations: Jesse McGraw (GhostExodus), From Blackhat Hacker to Redemption",
     "link": "https://www.securityweek.com/hacker-conversations-jesse-mcgraw-ghostexodus-from-blackhat-hacker-to-redemption/",
@@ -662,8 +666,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-48939",
-        "CVE-2026-56291"
+        "CVE-2026-56291",
+        "CVE-2026-48939"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -683,8 +687,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-2701",
-        "CVE-2026-2699"
+        "CVE-2026-2699",
+        "CVE-2026-2701"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -766,9 +770,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-28739",
+        "CVE-2026-33091",
         "CVE-2026-25106",
-        "CVE-2026-33091"
+        "CVE-2026-28739"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1290,8 +1294,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",

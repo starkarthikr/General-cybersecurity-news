@@ -1,10 +1,46 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-13 14:46:46 UTC
+**Last Updated:** 2026-07-13 18:16:29 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft](https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html)
+### 1. [CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks](https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 13 Jul 2026 23:06:12 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 2. [Google and Microsoft Pull ModHeader With 1.6 Million Installs After Dormant Collector Found](https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 13 Jul 2026 22:47:24 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [⚡ Weekly Recap: ShareFile Threat, Citrix Bleed 2 Ransomware, AI Coding Attacks, and More](https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 13 Jul 2026 20:35:57 +0530  
+**Severity:** Low  
+**Categories:** Ransomware, Malware  
+
+---
+
+### 4. [New MemGhost Attack Plants Persistent False Memories in AI Agents Through One Email](https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 13 Jul 2026 19:19:48 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 5. [Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft](https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 13 Jul 2026 18:33:33 +0530  
@@ -13,7 +49,7 @@
 
 ---
 
-### 2. [Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling](https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html)
+### 6. [Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling](https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 13 Jul 2026 17:24:46 +0530  
@@ -22,7 +58,7 @@
 
 ---
 
-### 3. [Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots](https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html)
+### 7. [Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots](https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 13 Jul 2026 17:07:05 +0530  
@@ -31,7 +67,7 @@
 
 ---
 
-### 4. [Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory](https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html)
+### 8. [Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory](https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 13 Jul 2026 16:32:33 +0530  
@@ -40,7 +76,7 @@
 
 ---
 
-### 5. [Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365](https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html)
+### 9. [Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365](https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 13 Jul 2026 13:00:00 +0530  
@@ -49,7 +85,7 @@
 
 ---
 
-### 6. [iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days](https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html)
+### 10. [iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days](https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 13 Jul 2026 11:06:02 +0530  
@@ -58,43 +94,17 @@
 
 ---
 
-### 7. [Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install](https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html)
+### 11. [CISA warns of actively exploited RCE flaws in Joomla extensions](https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/)
 
-**Source:** The Hacker News  
-**Published:** Sat, 11 Jul 2026 23:29:26 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 13 Jul 2026 11:20:16 -0400  
 **Severity:** Low  
-**Categories:** General Security  
+**CVEs:** CVE-2026-56291, CVE-2026-48939  
+**Categories:** Vulnerability  
 
 ---
 
-### 8. [Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns](https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html)
-
-**Source:** The Hacker News  
-**Published:** Sat, 11 Jul 2026 23:19:31 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 9. [Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions](https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html)
-
-**Source:** The Hacker News  
-**Published:** Sat, 11 Jul 2026 12:15:55 +0530  
-**Severity:** Critical  
-**Categories:** General Security  
-
----
-
-### 10. [URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat](https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 10 Jul 2026 22:00:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 11. [Lidl discloses online shop breach after service provider hack](https://www.bleepingcomputer.com/news/security/lidl-discloses-online-shop-breach-after-service-provider-hack/)
+### 12. [Lidl discloses online shop breach after service provider hack](https://www.bleepingcomputer.com/news/security/lidl-discloses-online-shop-breach-after-service-provider-hack/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 13 Jul 2026 10:19:43 -0400  
@@ -103,7 +113,7 @@
 
 ---
 
-### 12. [Breach at the Beach: Play the Ultimate Entra ID CTF](https://www.bleepingcomputer.com/news/security/breach-at-the-beach-play-the-ultimate-entra-id-ctf/)
+### 13. [Breach at the Beach: Play the Ultimate Entra ID CTF](https://www.bleepingcomputer.com/news/security/breach-at-the-beach-play-the-ultimate-entra-id-ctf/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 13 Jul 2026 10:01:11 -0400  
@@ -112,7 +122,7 @@
 
 ---
 
-### 13. [UK charges suspects linked to Russian Coms call spoofing platform](https://www.bleepingcomputer.com/news/security/uk-charges-suspects-linked-to-russian-coms-call-spoofing-platform/)
+### 14. [UK charges suspects linked to Russian Coms call spoofing platform](https://www.bleepingcomputer.com/news/security/uk-charges-suspects-linked-to-russian-coms-call-spoofing-platform/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 13 Jul 2026 09:23:30 -0400  
@@ -121,7 +131,7 @@
 
 ---
 
-### 14. [EU sanctions Russian GRU military hackers over cyberattacks](https://www.bleepingcomputer.com/news/security/eu-and-uk-hit-russia-with-first-joint-cyber-sanctions-package/)
+### 15. [EU sanctions Russian GRU military hackers over cyberattacks](https://www.bleepingcomputer.com/news/security/eu-and-uk-hit-russia-with-first-joint-cyber-sanctions-package/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 13 Jul 2026 07:19:05 -0400  
@@ -130,7 +140,7 @@
 
 ---
 
-### 15. [US and allies warn of Russian critical infrastructure attacks](https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/)
+### 16. [US and allies warn of Russian critical infrastructure attacks](https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 13 Jul 2026 05:32:23 -0400  
@@ -140,7 +150,7 @@
 
 ---
 
-### 16. [OpenAI temporarily relaxes GPT-5.6 Sol usage limits](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/)
+### 17. [OpenAI temporarily relaxes GPT-5.6 Sol usage limits](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 12 Jul 2026 20:44:44 -0400  
@@ -149,7 +159,7 @@
 
 ---
 
-### 17. [Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/)
+### 18. [Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 12 Jul 2026 15:39:12 -0400  
@@ -158,7 +168,7 @@
 
 ---
 
-### 18. [RedHook Android malware now uses Wireless ADB for shell access](https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/)
+### 19. [RedHook Android malware now uses Wireless ADB for shell access](https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 12 Jul 2026 10:27:32 -0400  
@@ -167,7 +177,7 @@
 
 ---
 
-### 19. [Australia warns of global campaign targeting vulnerable CMS platforms](https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/)
+### 20. [Australia warns of global campaign targeting vulnerable CMS platforms](https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 11 Jul 2026 10:18:23 -0400  
@@ -176,16 +186,16 @@
 
 ---
 
-### 20. ['Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets](https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/)
+### 21. [Lessons Learned from CISA’s Recent GitHub Leak](https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/)
 
-**Source:** Bleeping Computer  
-**Published:** Sat, 11 Jul 2026 05:03:57 -0400  
+**Source:** Krebs On Security  
+**Published:** Mon, 13 Jul 2026 15:03:28 +0000  
 **Severity:** Low  
-**Categories:** General Security  
+**Categories:** Data Breach, Vulnerability  
 
 ---
 
-### 21. [Felons, Fraudsters Flog Offensive Cybersecurity Startup](https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/)
+### 22. [Felons, Fraudsters Flog Offensive Cybersecurity Startup](https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 08 Jul 2026 12:31:39 +0000  
@@ -194,7 +204,7 @@
 
 ---
 
-### 22. [FBI Seizes NetNut Proxy Platform, Popa Botnet](https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/)
+### 23. [FBI Seizes NetNut Proxy Platform, Popa Botnet](https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 02 Jul 2026 19:27:33 +0000  
@@ -203,7 +213,7 @@
 
 ---
 
-### 23. [Scattered Spider Hackers Plead Guilty on Day 1 of Trial](https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/)
+### 24. [Scattered Spider Hackers Plead Guilty on Day 1 of Trial](https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 23 Jun 2026 16:12:49 +0000  
@@ -212,7 +222,7 @@
 
 ---
 
-### 24. [‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm](https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/)
+### 25. [‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm](https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 18 Jun 2026 17:37:58 +0000  
@@ -221,7 +231,7 @@
 
 ---
 
-### 25. [Who Runs the Ransomware Group ‘The Gentlemen?’](https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/)
+### 26. [Who Runs the Ransomware Group ‘The Gentlemen?’](https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 10 Jun 2026 14:03:44 +0000  
@@ -230,7 +240,7 @@
 
 ---
 
-### 26. [A Record-Breaking Patch Tuesday for June 2026](https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/)
+### 27. [A Record-Breaking Patch Tuesday for June 2026](https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
@@ -240,7 +250,7 @@
 
 ---
 
-### 27. [Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts](https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/)
+### 28. [Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts](https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 01 Jun 2026 17:32:50 +0000  
@@ -249,7 +259,7 @@
 
 ---
 
-### 28. [Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks](https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/)
+### 29. [Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks](https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 25 May 2026 13:21:49 +0000  
@@ -258,21 +268,12 @@
 
 ---
 
-### 29. [Lawmakers Demand Answers as CISA Tries to Contain Data Leak](https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/)
+### 30. [Lawmakers Demand Answers as CISA Tries to Contain Data Leak](https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/)
 
 **Source:** Krebs On Security  
 **Published:** Fri, 22 May 2026 16:34:24 +0000  
 **Severity:** Critical  
 **Categories:** Data Breach  
-
----
-
-### 30. [Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada](https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/)
-
-**Source:** Krebs On Security  
-**Published:** Thu, 21 May 2026 21:50:25 +0000  
-**Severity:** Critical  
-**Categories:** Malware, DDoS  
 
 ---
 
@@ -327,7 +328,7 @@
 **Source:** Security Week  
 **Published:** Mon, 13 Jul 2026 09:08:02 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48939, CVE-2026-56291  
+**CVEs:** CVE-2026-56291, CVE-2026-48939  
 **Categories:** Vulnerability  
 
 ---
@@ -337,7 +338,7 @@
 **Source:** Security Week  
 **Published:** Mon, 13 Jul 2026 08:20:46 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-2701, CVE-2026-2699  
+**CVEs:** CVE-2026-2699, CVE-2026-2701  
 **Categories:** Vulnerability, Malware, Supply Chain  
 
 ---
@@ -374,7 +375,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 09 Jul 2026 18:52:29 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-28739, CVE-2026-25106, CVE-2026-33091  
+**CVEs:** CVE-2026-33091, CVE-2026-25106, CVE-2026-28739  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -631,7 +632,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
