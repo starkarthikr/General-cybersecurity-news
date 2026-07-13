@@ -1,6 +1,43 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365",
+    "link": "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html",
+    "published": "Mon, 13 Jul 2026 13:00:00 +0530",
+    "summary": "An attacker running a live Microsoft 365 phishing operation left a Python web server listening on a public port with directory listing switched on. The command that did it:&nbsp;python3 -m http.server 8080, was still sitting in the readable&nbsp;.bash_history.\n\nFrom that one lapse, French security firm&nbsp;Lexfo&nbsp;lifted the operator's entire toolkit and pivoted through it to two more",
+    "analysis": {
+      "issue": "An exposed attack server led Lexfo to three Microsoft 365 phishing operations using Evilginx and device code abuse to capture sessions",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days",
+    "link": "https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html",
+    "published": "Mon, 13 Jul 2026 11:06:02 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two maximum-severity security flaws impacting iCagenda and Balbooa extensions for Joomla to its Known Exploited Vulnerabilities (KEV) catalog, following reports of zero-day exploitation in the wild.\n\nThe vulnerabilities, both rated 10.0 on the CVSS scoring system, are below -\n\n\n  CVE-2026-48939 - A vulnerability in the",
+    "analysis": {
+      "issue": "CISA adds exploited iCagenda and Balbooa Forms flaws to KEV after reported zero-day attacks enabled PHP uploads and remote code execution on sites",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
     "link": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html",
     "published": "Sat, 11 Jul 2026 23:29:26 +0530",
@@ -144,38 +181,40 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic",
-    "link": "https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html",
-    "published": "Fri, 10 Jul 2026 18:45:23 +0530",
-    "summary": "The China-linked cybercrime group known as Silver Fox has been attributed to a new Rust-based remote access trojan (RAR) called MODBEACON.\n\nChinese cybersecurity company QiAnXin said that while the threat cluster may appear like a low-sophistication, high-activity operation that propagates malware via counterfeit installers using SEO poisoning techniques, it belies their true organizational",
+    "source": "Bleeping Computer",
+    "title": "EU sanctions Russian GRU military hackers over cyberattacks",
+    "link": "https://www.bleepingcomputer.com/news/security/eu-and-uk-hit-russia-with-first-joint-cyber-sanctions-package/",
+    "published": "Mon, 13 Jul 2026 07:19:05 -0400",
+    "summary": "The European Union and the United Kingdom jointly sanctioned dozens of Russian individuals and entities and accused Russia of coordinating a network of hacking groups responsible for attacks across Europe. [...]",
     "analysis": {
-      "issue": "China-linked Silver Fox deploys the Rust-based MODBEACON RAT through fake software installers, targeting technology, education, and state-owned firms",
+      "issue": "The European Union and the United Kingdom jointly sanctioned dozens of Russian individuals and entities and accused Russia of coordinating a network of hacking groups responsible for attacks across Europe",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Malware"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers",
-    "link": "https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html",
-    "published": "Fri, 10 Jul 2026 17:17:43 +0530",
-    "summary": "A single wrong variable on one line in XQUIC, Alibaba's QUIC and HTTP/3 library, lets any remote client crash the server with a short burst of completely legal traffic. There is no patch.\n\nFoxIO researcher Sébastien Féry&nbsp;disclosed the flaw on July 8&nbsp;and nicknamed it XRING. He says it needs no login and no malformed packets: about 260 bytes of ordinary QPACK traffic takes the server",
+    "source": "Bleeping Computer",
+    "title": "US and allies warn of Russian critical infrastructure attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/",
+    "published": "Mon, 13 Jul 2026 05:32:23 -0400",
+    "summary": "Cybersecurity agencies from the United States and eight other countries have issued a joint warning that Russian state hackers are targeting vulnerable and poorly configured routers to infiltrate critical infrastructure networks. [...]",
     "analysis": {
-      "issue": "FoxIO disclosed XRING, an unpatched XQUIC flaw that lets unauthenticated clients crash HTTP/3 servers with 260 bytes of legal QPACK traffic",
+      "issue": "Cybersecurity agencies from the United States and eight other countries have issued a joint warning that Russian state hackers are targeting vulnerable and poorly configured routers to infiltrate critical infrastructure networks",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
+      "severity": "Critical",
+      "cves": [
+        "CVE-2018-0171"
+      ],
       "threat_categories": [
-        "General Security"
+        "Vulnerability"
       ]
     }
   },
@@ -327,40 +366,294 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Progress urges ShareFile admins to shut down servers over “credible” threat",
-    "link": "https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/",
-    "published": "Fri, 10 Jul 2026 12:26:10 -0400",
-    "summary": "Progress Software is emailing ShareFile customers who use Storage Zone Controllers to immediately shut down their servers after identifying what it describes as a \"credible external security threat\" targeting the on-premises secure file-sharing software. [...]",
+    "source": "Krebs On Security",
+    "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
+    "link": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
+    "published": "Wed, 08 Jul 2026 12:31:39 +0000",
+    "summary": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures included fake intelligence companies and a now-defunct AI-based lobbying platform they operated under assumed names.",
     "analysis": {
-      "issue": "Progress Software is emailing ShareFile customers who use Storage Zone Controllers to immediately shut down their servers after identifying what it describes as a \"credible external security threat\" targeting the on-premises secure file-sharing softw",
+      "issue": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures included fake intelligence compan",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
+    "link": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
+    "published": "Thu, 02 Jul 2026 19:27:33 +0000",
+    "summary": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASDAQ: ALAR]. The action comes roughly two weeks after KrebsOnSecurity published findings from multiple security firms connecting NetNut to the Popa botnet, a collection of at least two million devices that have been compromised by malicious software with little or no consent from victims.",
+    "analysis": {
+      "issue": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASD",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Malware",
+        "Supply Chain"
       ]
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Hackers exploit critical auth bypass in Gitea Docker image",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/",
-    "published": "Fri, 10 Jul 2026 11:48:38 -0400",
-    "summary": "Hackers are actively exploiting a critical vulnerability in the official Docker image for the Gitea self-hosted Git service that allows attackers to impersonate any user, including administrators. [...]",
+    "source": "Krebs On Security",
+    "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
+    "link": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
+    "published": "Tue, 23 Jun 2026 16:12:49 +0000",
+    "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as Scattered Spider, and their guilty pleas came on the first day of what was expected to be a six-week trial.",
     "analysis": {
-      "issue": "Hackers are actively exploiting a critical vulnerability in the official Docker image for the Gitea self-hosted Git service that allows attackers to impersonate any user, including administrators",
+      "issue": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm",
+    "link": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
+    "published": "Thu, 18 Jun 2026 17:37:58 +0000",
+    "summary": "For the past four years, a sprawling Android-based botnet called Popa has forced millions of consumer TV boxes to relay Internet traffic linked to advertising fraud, account takeovers, and mass data-scraping efforts. This week, researchers from multiple security firms concluded that the Popa botnet is linked to NetNut, a \"residential proxy\" provider operated by the publicly-traded Israeli firm Alarum Technologies Ltd [NASDAQ: ALAR].",
+    "analysis": {
+      "issue": "For the past four years, a sprawling Android-based botnet called Popa has forced millions of consumer TV boxes to relay Internet traffic linked to advertising fraud, account takeovers, and mass data-scraping efforts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
+    "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
+    "published": "Wed, 10 Jun 2026 14:03:44 +0000",
+    "summary": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ransom paid by victims. This post examines clues pointing to a real life identity for the administrator of The Gentlemen ransomware group.",
+    "analysis": {
+      "issue": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ranso",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "A Record-Breaking Patch Tuesday for June 2026",
+    "link": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
+    "published": "Tue, 09 Jun 2026 22:07:28 +0000",
+    "summary": "Microsoft today released software updates to plug nearly 200 security holes across its Windows operating systems and supported software, a record number of fixes for the company's monthly Patch Tuesday cycle. Nearly three dozen of those bugs earned Microsoft's most dire \"critical\" rating, and exploit code for at least three of the weaknesses is now publicly available.",
+    "analysis": {
+      "issue": "Microsoft today released software updates to plug nearly 200 security holes across its Windows operating systems and supported software, a record number of fixes for the company’s monthly Patch Tuesday cycle",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20896"
+        "CVE-2026-49160",
+        "CVE-2026-45586",
+        "CVE-2026-50507"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
+    "link": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
+    "published": "Mon, 01 Jun 2026 17:32:50 +0000",
+    "summary": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U.S. Space Force were briefly defaced with pro-Iranian images and messages over the weekend, after instructions began circulating on Telegram showing how to trick Meta's \"AI support assistant\" bot into resetting account passwords.",
+    "analysis": {
+      "issue": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+    "link": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+    "published": "Mon, 25 May 2026 13:21:49 +0000",
+    "summary": "Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to carry out cyberattacks, influence operations and disinformation campaigns inside the European Union. The two men were the focus of a 2025 KrebsOnSecurity story about how their hosting companies had assumed control over the technical infrastructure of Stark Industries Solutions, an Internet service provider sanctioned last year by the EU as a frequent staging ground for cyber mischief from Russia's intelligence agencies.",
+    "analysis": {
+      "issue": "Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to carry out cyberattacks, influence operations and disinformation campaigns inside the European Union",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "APT",
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
+    "link": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+    "published": "Fri, 22 May 2026 16:34:24 +0000",
+    "summary": "Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity &#038; Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account. The inquiry comes as CISA is still struggling to contain the breach and invalidate the leaked credentials.",
+    "analysis": {
+      "issue": "Lawmakers in both houses of Congress are demanding answers from the U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
+    "link": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
+    "published": "Thu, 21 May 2026 21:50:25 +0000",
+    "summary": "Canadian authorities on Wednesday arrested a 23-year-old Ottawa man on suspicion of building and operating Kimwolf, a fast spreading Internet-of-Things botnet that enslaved millions of devices for use in a series of massive distributed denial-of-service (DDoS) attacks over the past six months. KrebsOnSecurity publicly named the suspect in February 2026 after the accused launched a volley of DDoS, doxing and swatting campaigns against this author and a security researcher. He now faces criminal hacking charges in both Canada and the United States.",
+    "analysis": {
+      "issue": "Canadian authorities on Wednesday arrested a 23-year-old Ottawa man on suspicion of building and operating Kimwolf, a fast spreading Internet-of-Things botnet that enslaved millions of devices for use in a series of massive distributed denial-of-serv",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Zimbra Patches Critical Code Execution Vulnerability",
+    "link": "https://www.securityweek.com/zimbra-patches-critical-code-execution-vulnerability/",
+    "published": "Mon, 13 Jul 2026 10:03:47 +0000",
+    "summary": "<p>The flaw results in malicious code embedded in crafted emails being executed when the emails are opened.</p>\n<p>The post <a href=\"https://www.securityweek.com/zimbra-patches-critical-code-execution-vulnerability/\">Zimbra Patches Critical Code Execution Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The flaw results in malicious code embedded in crafted emails being executed when the emails are opened",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "EU Targets Russian Intelligence Officers Accused of Running a Yearslong Cyber Spying Campaign",
+    "link": "https://www.securityweek.com/eu-targets-russian-intelligence-officers-accused-of-running-a-yearslong-cyber-spying-campaign/",
+    "published": "Mon, 13 Jul 2026 10:00:00 +0000",
+    "summary": "<p>The move targeted people and entities accused of links to an online spying network that the EU claims targeted governments and carried out sabotage operations against critical infrastructure.</p>\n<p>The post <a href=\"https://www.securityweek.com/eu-targets-russian-intelligence-officers-accused-of-running-a-yearslong-cyber-spying-campaign/\">EU Targets Russian Intelligence Officers Accused of Running a Yearslong Cyber Spying Campaign</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The move targeted people and entities accused of links to an online spying network that the EU claims targeted governments and carried out sabotage operations against critical infrastructure",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Organizations Warned of Exploited Joomla Extension Vulnerabilities",
+    "link": "https://www.securityweek.com/organizations-warned-of-exploited-joomla-extension-vulnerabilities/",
+    "published": "Mon, 13 Jul 2026 09:08:02 +0000",
+    "summary": "<p>Threat actors have been targeting Balbooa Forms and iCagenda Joomla extension flaws for remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/organizations-warned-of-exploited-joomla-extension-vulnerabilities/\">Organizations Warned of Exploited Joomla Extension Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Threat actors have been targeting Balbooa Forms and iCagenda Joomla extension flaws for remote code execution",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-48939",
+        "CVE-2026-56291"
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Progress Prompts ShareFile Storage Zone Controller Shutdown Amid Security Concerns",
+    "link": "https://www.securityweek.com/progress-prompts-sharefile-storage-zone-controller-shutdown-amid-security-concerns/",
+    "published": "Mon, 13 Jul 2026 08:20:46 +0000",
+    "summary": "<p>The company notified customers to manually shut down their servers while it is investigating a credible threat.</p>\n<p>The post <a href=\"https://www.securityweek.com/progress-prompts-sharefile-storage-zone-controller-shutdown-amid-security-concerns/\">Progress Prompts ShareFile Storage Zone Controller Shutdown Amid Security Concerns</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The company notified customers to manually shut down their servers while it is investigating a credible threat",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-2701",
+        "CVE-2026-2699"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Centers Laboratory Data Breach Affects 540,000 Individuals",
+    "link": "https://www.securityweek.com/centers-laboratory-data-breach-affects-540000-individuals/",
+    "published": "Mon, 13 Jul 2026 08:10:44 +0000",
+    "summary": "<p>The WorldLeaks extortion group claimed to have stolen 720 GB of data from the healthcare testing and laboratory services provider.</p>\n<p>The post <a href=\"https://www.securityweek.com/centers-laboratory-data-breach-affects-540000-individuals/\">Centers Laboratory Data Breach Affects 540,000 Individuals</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The WorldLeaks extortion group claimed to have stolen 720 GB of data from the healthcare testing and laboratory services provider",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Malware"
       ]
     }
   },
@@ -461,104 +754,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "GigaWiper Combines Multiple Malware for System-Level Sabotage",
-    "link": "https://www.securityweek.com/gigawiper-combines-multiple-malware-for-system-level-sabotage/",
-    "published": "Fri, 10 Jul 2026 09:12:08 +0000",
-    "summary": "<p>The backdoor’s destructive capabilities include a standalone wiper, ransomware encryption, and a multi-pass wiping command.</p>\n<p>The post <a href=\"https://www.securityweek.com/gigawiper-combines-multiple-malware-for-system-level-sabotage/\">GigaWiper Combines Multiple Malware for System-Level Sabotage</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The backdoor’s destructive capabilities include a standalone wiper, ransomware encryption, and a multi-pass wiping command",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "‘HalluSquatting’ Turns AI Hallucinations Into Botnet Delivery Mechanism",
-    "link": "https://www.securityweek.com/hallusquatting-turns-ai-hallucinations-into-botnet-delivery-mechanism/",
-    "published": "Fri, 10 Jul 2026 08:32:33 +0000",
-    "summary": "<p>Researchers demonstrate adversarial hallucination squatting against popular AI assistants to achieve remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/hallusquatting-turns-ai-hallucinations-into-botnet-delivery-mechanism/\">&#8216;HalluSquatting&#8217; Turns AI Hallucinations Into Botnet Delivery Mechanism</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Researchers demonstrate adversarial hallucination squatting against popular AI assistants to achieve remote code execution",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Network of 200 GitHub Repositories Used for Malware Infection",
-    "link": "https://www.securityweek.com/network-of-200-github-repositories-used-for-malware-infection/",
-    "published": "Fri, 10 Jul 2026 08:00:14 +0000",
-    "summary": "<p>A Go module is used to load PowerShell code that fetches a resolver from public dead drops to execute Windows malware.</p>\n<p>The post <a href=\"https://www.securityweek.com/network-of-200-github-repositories-used-for-malware-infection/\">Network of 200 GitHub Repositories Used for Malware Infection</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "A Go module is used to load PowerShell code that fetches a resolver from public dead drops to execute Windows malware",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Malware",
-        "APT",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "QIZ Security Raises $17 Million for Cryptographic Governance Platform",
-    "link": "https://www.securityweek.com/qiz-security-raises-17-million-for-cryptographic-governance-platform/",
-    "published": "Thu, 09 Jul 2026 15:03:51 +0000",
-    "summary": "<p>The Israeli company has developed a cryptographic posture and post-quantum cryptography management platform.</p>\n<p>The post <a href=\"https://www.securityweek.com/qiz-security-raises-17-million-for-cryptographic-governance-platform/\">QIZ Security Raises $17 Million for Cryptographic Governance Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The Israeli company has developed a cryptographic posture and post-quantum cryptography management platform",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "UK Government Rolls Out Agentic AI Defense Plan Alongside Industry Pledge",
-    "link": "https://www.securityweek.com/uk-government-rolls-out-agentic-ai-defense-plan-alongside-industry-pledge/",
-    "published": "Thu, 09 Jul 2026 14:19:53 +0000",
-    "summary": "<p>Two announcements on July 7, 2026, demonstrate the government’s determination to improve the level of cybersecurity within the UK.</p>\n<p>The post <a href=\"https://www.securityweek.com/uk-government-rolls-out-agentic-ai-defense-plan-alongside-industry-pledge/\">UK Government Rolls Out Agentic AI Defense Plan Alongside Industry Pledge</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Two announcements on July 7, 2026, demonstrate the government’s determination to improve the level of cybersecurity within the UK",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "WolfSSL, GeoVision, VTK vulnerabilities",
     "link": "https://blog.talosintelligence.com/wolfssl-vulnerabilities/",
@@ -572,8 +767,8 @@
       "severity": "Low",
       "cves": [
         "CVE-2026-28739",
-        "CVE-2026-33091",
-        "CVE-2026-25106"
+        "CVE-2026-25106",
+        "CVE-2026-33091"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1126,6 +1321,42 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Fake crypto gift card sites are getting harder to spot",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/07/fake-crypto-gift-card-sites-are-getting-harder-to-spot",
+    "published": "Mon, 13 Jul 2026 11:05:28 GMT",
+    "summary": "Scam crypto gift card stores look almost identical to the real thing. One wrong click can leave you with no card and no way to get your money back.",
+    "analysis": {
+      "issue": "You want to turn some crypto into a gift card",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "A week in security (July 6 &#8211; July 12)",
+    "link": "https://www.malwarebytes.com/blog/news/2026/07/a-week-in-security-july-6-july-12",
+    "published": "Mon, 13 Jul 2026 07:01:00 GMT",
+    "summary": "A list of topics we covered in the week of July 6 to July 12 of 2026",
+    "analysis": {
+      "issue": "Last week on Malwarebytes Labs: Stay safe",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "This new Windows malware can take over your PC and wipe it clean",
     "link": "https://www.malwarebytes.com/blog/news/2026/07/this-new-windows-malware-can-take-over-your-pc-and-wipe-it-clean",
     "published": "Fri, 10 Jul 2026 13:25:41 GMT",
@@ -1272,43 +1503,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "How the Reddit and Discord false report scam steals accounts",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/07/how-the-reddit-and-discord-false-report-scam-steals-accounts",
-    "published": "Tue, 07 Jul 2026 17:45:35 GMT",
-    "summary": "Scammers are tricking Reddit and Discord users into handing over login codes by claiming they were involved in a false report.",
-    "analysis": {
-      "issue": "A stranger messages you on Reddit",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Fake Netflix, Coca-Cola, and FIFA job scams target marketers",
-    "link": "https://www.malwarebytes.com/blog/scams/2026/07/fake-netflix-coca-cola-and-fifa-job-scams-target-marketers",
-    "published": "Tue, 07 Jul 2026 13:43:44 GMT",
-    "summary": "A fake recruiter phishing campaign uses trusted brands, nested redirects, and fake Google prompts to steal accounts.",
-    "analysis": {
-      "issue": "Attackers are impersonating major companies and recruiters to target marketing professionals, using trusted services and browser tricks to make the scam look legitimate",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Phishing"
       ]
     }
   },
