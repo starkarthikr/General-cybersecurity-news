@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-12 17:32:48 UTC
+**Last Updated:** 2026-07-13 03:32:03 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -94,7 +94,25 @@
 
 ---
 
-### 11. [RedHook Android malware now uses Wireless ADB for shell access](https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/)
+### 11. [OpenAI temporarily relaxes GPT-5.6 Sol usage limits](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/)
+
+**Source:** Bleeping Computer  
+**Published:** Sun, 12 Jul 2026 20:44:44 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 12. [Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/)
+
+**Source:** Bleeping Computer  
+**Published:** Sun, 12 Jul 2026 15:39:12 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 13. [RedHook Android malware now uses Wireless ADB for shell access](https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 12 Jul 2026 10:27:32 -0400  
@@ -103,7 +121,7 @@
 
 ---
 
-### 12. [Australia warns of global campaign targeting vulnerable CMS platforms](https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/)
+### 14. [Australia warns of global campaign targeting vulnerable CMS platforms](https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 11 Jul 2026 10:18:23 -0400  
@@ -112,7 +130,7 @@
 
 ---
 
-### 13. ['Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets](https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/)
+### 15. ['Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets](https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 11 Jul 2026 05:03:57 -0400  
@@ -121,7 +139,7 @@
 
 ---
 
-### 14. [New U-Boot flaws could enable stealthy firmware attacks](https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/)
+### 16. [New U-Boot flaws could enable stealthy firmware attacks](https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 10 Jul 2026 17:59:02 -0400  
@@ -130,7 +148,7 @@
 
 ---
 
-### 15. [Ryuk ransomware member pleads guilty in the US, faces 15 years in prison](https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-pleads-guilty-in-the-us-faces-15-years-in-prison/)
+### 17. [Ryuk ransomware member pleads guilty in the US, faces 15 years in prison](https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-pleads-guilty-in-the-us-faces-15-years-in-prison/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 10 Jul 2026 13:46:10 -0400  
@@ -139,7 +157,7 @@
 
 ---
 
-### 16. [Police suspects Dutch hackers were involved in Odido breach](https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/)
+### 18. [Police suspects Dutch hackers were involved in Odido breach](https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 10 Jul 2026 12:37:01 -0400  
@@ -148,7 +166,7 @@
 
 ---
 
-### 17. [Progress urges ShareFile admins to shut down servers over “credible” threat](https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/)
+### 19. [Progress urges ShareFile admins to shut down servers over “credible” threat](https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 10 Jul 2026 12:26:10 -0400  
@@ -157,31 +175,13 @@
 
 ---
 
-### 18. [Hackers exploit critical auth bypass in Gitea Docker image](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/)
+### 20. [Hackers exploit critical auth bypass in Gitea Docker image](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 10 Jul 2026 11:48:38 -0400  
 **Severity:** Critical  
 **CVEs:** CVE-2026-20896  
 **Categories:** Vulnerability  
-
----
-
-### 19. [Money launderer accused of stealing seized crypto while in prison](https://www.bleepingcomputer.com/news/security/money-launderer-accused-of-stealing-seized-crypto-while-in-prison/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 10 Jul 2026 11:30:19 -0400  
-**Severity:** High  
-**Categories:** General Security  
-
----
-
-### 20. [The Replicant in Your Directory: AI Agents and the Identity Security Gap](https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 10 Jul 2026 10:00:10 -0400  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -235,7 +235,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50507, CVE-2026-49160, CVE-2026-45586  
+**CVEs:** CVE-2026-49160, CVE-2026-50507, CVE-2026-45586  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -371,7 +371,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 09 Jul 2026 18:52:29 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-25106, CVE-2026-28739, CVE-2026-33091  
+**CVEs:** CVE-2026-28739, CVE-2026-33091, CVE-2026-25106  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -628,7 +628,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

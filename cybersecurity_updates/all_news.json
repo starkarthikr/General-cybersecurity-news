@@ -181,6 +181,42 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "OpenAI temporarily relaxes GPT-5.6 Sol usage limits",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/",
+    "published": "Sun, 12 Jul 2026 20:44:44 -0400",
+    "summary": "OpenAI is temporarily relaxing GPT-5.6 Sol usage after demand for the company's most powerful model surged over the past 48 hours. [...]",
+    "analysis": {
+      "issue": "OpenAI is temporarily relaxing GPT-5",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/",
+    "published": "Sun, 12 Jul 2026 15:39:12 -0400",
+    "summary": "Anthropic has just extended access to Claude Fable 5 for paid subscribers until July 19, giving you another week to keep using the most powerful model. [...]",
+    "analysis": {
+      "issue": "Anthropic has just extended access to Claude Fable 5 for paid subscribers until July 19, giving you another week to keep using the most powerful model",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "RedHook Android malware now uses Wireless ADB for shell access",
     "link": "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/",
     "published": "Sun, 12 Jul 2026 10:27:32 -0400",
@@ -329,42 +365,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Money launderer accused of stealing seized crypto while in prison",
-    "link": "https://www.bleepingcomputer.com/news/security/money-launderer-accused-of-stealing-seized-crypto-while-in-prison/",
-    "published": "Fri, 10 Jul 2026 11:30:19 -0400",
-    "summary": "A Bulgarian national has been charged with stealing $290,000 in government-seized cryptocurrency while serving 121 months in prison for helping launder millions stolen from American fraud victims. [...]",
-    "analysis": {
-      "issue": "A Bulgarian national has been charged with stealing $290,000 in government-seized cryptocurrency while serving 121 months in prison for helping launder millions stolen from American fraud victims",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "The Replicant in Your Directory: AI Agents and the Identity Security Gap",
-    "link": "https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/",
-    "published": "Fri, 10 Jul 2026 10:00:10 -0400",
-    "summary": "AI agents are accelerating the growth of non-human identities, making it harder for organizations to understand what exists, who owns it, and what it can access. Netwrix explains why stronger visibility and identity governance are essential as AI expands the enterprise attack surface. [...]",
-    "analysis": {
-      "issue": "By Grady Summers, CEO, Netwrix Security was built for people",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
     "link": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
@@ -471,8 +471,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50507",
         "CVE-2026-49160",
+        "CVE-2026-50507",
         "CVE-2026-45586"
       ],
       "threat_categories": [
@@ -763,9 +763,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-25106",
         "CVE-2026-28739",
-        "CVE-2026-33091"
+        "CVE-2026-33091",
+        "CVE-2026-25106"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1287,8 +1287,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
