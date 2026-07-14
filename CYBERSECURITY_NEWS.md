@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-14 13:57:19 UTC
+**Last Updated:** 2026-07-14 17:40:47 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot](https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html)
+### 1. [LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts](https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 14 Jul 2026 22:22:37 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata](https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 14 Jul 2026 19:18:07 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot](https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 14 Jul 2026 18:16:18 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks](https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html)
+### 4. [Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks](https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 14 Jul 2026 17:25:00 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [How Pentera Turns AI Security Workflows into Validation Engines](https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html)
+### 5. [How Pentera Turns AI Security Workflows into Validation Engines](https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 14 Jul 2026 17:00:00 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials](https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html)
+### 6. [OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials](https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 14 Jul 2026 16:51:35 +0530  
@@ -40,7 +58,7 @@
 
 ---
 
-### 5. [Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read](https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html)
+### 7. [Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read](https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 14 Jul 2026 14:32:48 +0530  
@@ -49,7 +67,7 @@
 
 ---
 
-### 6. [U.S. Sanctions First VPN Service and Malware Cryptor Seller Over Ransomware Support](https://thehackernews.com/2026/07/us-sanctions-first-vpn-service-and.html)
+### 8. [U.S. Sanctions First VPN Service and Malware Cryptor Seller Over Ransomware Support](https://thehackernews.com/2026/07/us-sanctions-first-vpn-service-and.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 14 Jul 2026 13:32:33 +0530  
@@ -58,7 +76,7 @@
 
 ---
 
-### 7. [148 npm Packages Disguised as Student Proxies Turned Browsers Into a DDoS Botnet](https://thehackernews.com/2026/07/148-npm-packages-disguised-as-student.html)
+### 9. [148 npm Packages Disguised as Student Proxies Turned Browsers Into a DDoS Botnet](https://thehackernews.com/2026/07/148-npm-packages-disguised-as-student.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 14 Jul 2026 12:38:36 +0530  
@@ -67,7 +85,7 @@
 
 ---
 
-### 8. [Microsoft Maps Three Salesforce Attack Paths Tied to a Year of ShinyHunters Activity](https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html)
+### 10. [Microsoft Maps Three Salesforce Attack Paths Tied to a Year of ShinyHunters Activity](https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 14 Jul 2026 11:49:24 +0530  
@@ -76,25 +94,34 @@
 
 ---
 
-### 9. [CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks](https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html)
+### 11. [Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown](https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/)
 
-**Source:** The Hacker News  
-**Published:** Mon, 13 Jul 2026 23:06:12 +0530  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 10. [Google and Microsoft Pull ModHeader With 1.6 Million Installs After Dormant Collector Found](https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 13 Jul 2026 22:47:24 +0530  
-**Severity:** Low  
-**Categories:** General Security  
+**Source:** Bleeping Computer  
+**Published:** Tue, 14 Jul 2026 12:08:47 -0400  
+**Severity:** Critical  
+**Categories:** Vulnerability  
 
 ---
 
-### 11. [Microsoft Entra ID gets passkeys default authentication starting September](https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/)
+### 12. [LastPass, Bitwarden users targeted with fake security alerts](https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 14 Jul 2026 11:31:52 -0400  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 13. [You Don't Have to Run an Exploit to Know If You're Vulnerable](https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 14 Jul 2026 10:00:10 -0400  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 14. [Microsoft Entra ID gets passkeys default authentication starting September](https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 14 Jul 2026 08:49:56 -0400  
@@ -103,7 +130,7 @@
 
 ---
 
-### 12. [New phishing kits target Microsoft 365 accounts, evade MFA](https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/)
+### 15. [New phishing kits target Microsoft 365 accounts, evade MFA](https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 14 Jul 2026 08:49:00 -0400  
@@ -112,17 +139,17 @@
 
 ---
 
-### 13. [SAP warns of critical flaws in NetWeaver and Commerce Cloud](https://www.bleepingcomputer.com/news/security/sap-warns-of-critical-flaws-in-netweaver-and-commerce-cloud/)
+### 16. [SAP warns of critical flaws in NetWeaver and Commerce Cloud](https://www.bleepingcomputer.com/news/security/sap-warns-of-critical-flaws-in-netweaver-and-commerce-cloud/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 14 Jul 2026 07:42:21 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-44761, CVE-2026-44747, CVE-2026-27690  
+**CVEs:** CVE-2026-44747, CVE-2026-44761, CVE-2026-27690  
 **Categories:** Vulnerability  
 
 ---
 
-### 14. [Microsoft starts testing cleaner Windows Search without ads](https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-testing-cleaner-windows-search-without-ads/)
+### 17. [Microsoft starts testing cleaner Windows Search without ads](https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-testing-cleaner-windows-search-without-ads/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 14 Jul 2026 06:47:23 -0400  
@@ -131,7 +158,7 @@
 
 ---
 
-### 15. [US sanctions VPN, malware providers for enabling ransomware attacks](https://www.bleepingcomputer.com/news/security/us-sanctions-vpn-malware-providers-linked-to-ransomware-gangs/)
+### 18. [US sanctions VPN, malware providers for enabling ransomware attacks](https://www.bleepingcomputer.com/news/security/us-sanctions-vpn-malware-providers-linked-to-ransomware-gangs/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 14 Jul 2026 05:40:13 -0400  
@@ -140,7 +167,7 @@
 
 ---
 
-### 16. [Japan's largest taxi operator shuts systems after cyberattack](https://www.bleepingcomputer.com/news/security/japans-largest-taxi-operator-shuts-systems-after-cyberattack/)
+### 19. [Japan's largest taxi operator shuts systems after cyberattack](https://www.bleepingcomputer.com/news/security/japans-largest-taxi-operator-shuts-systems-after-cyberattack/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 13 Jul 2026 16:18:59 -0400  
@@ -149,7 +176,7 @@
 
 ---
 
-### 17. [Hackers backdoor Jscrambler npm package with infostealer malware](https://www.bleepingcomputer.com/news/security/hackers-backdoor-jscrambler-npm-package-with-infostealer-malware/)
+### 20. [Hackers backdoor Jscrambler npm package with infostealer malware](https://www.bleepingcomputer.com/news/security/hackers-backdoor-jscrambler-npm-package-with-infostealer-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 13 Jul 2026 15:44:19 -0400  
@@ -158,38 +185,12 @@
 
 ---
 
-### 18. [New CrashStealer malware poses as Apple crash reporting tool](https://www.bleepingcomputer.com/news/security/new-crashstealer-malware-poses-as-apple-crash-reporting-tool/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 13 Jul 2026 15:04:02 -0400  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 19. [CISA warns of actively exploited RCE flaws in Joomla extensions](https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 13 Jul 2026 11:20:16 -0400  
-**Severity:** Low  
-**CVEs:** CVE-2026-56291, CVE-2026-48939  
-**Categories:** Vulnerability  
-
----
-
-### 20. [Lidl discloses online shop breach after service provider hack](https://www.bleepingcomputer.com/news/security/lidl-discloses-online-shop-breach-after-service-provider-hack/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 13 Jul 2026 10:19:43 -0400  
-**Severity:** High  
-**Categories:** General Security  
-
----
-
 ### 21. [Lessons Learned from CISA’s Recent GitHub Leak](https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 13 Jul 2026 15:03:28 +0000  
+**Severity:** Low  
+**Categories:** Data Breach, Vulnerability  
 
 ---
 
@@ -275,17 +276,27 @@
 
 ---
 
-### 31. [7 Severe Vulnerabilities Patched in VMware Avi Load Balancer](https://www.securityweek.com/7-severe-vulnerabilities-patched-in-vmware-avi-load-balancer/)
+### 31. [Adobe Patches Critical ColdFusion Vulnerabilities](https://www.securityweek.com/adobe-patches-critical-coldfusion-vulnerabilities/)
 
 **Source:** Security Week  
-**Published:** Tue, 14 Jul 2026 13:55:41 +0000  
+**Published:** Tue, 14 Jul 2026 17:06:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-47866, CVE-2026-47868, CVE-2026-47870, CVE-2026-47865, CVE-2026-47867, CVE-2026-47869, CVE-2026-47871  
+**CVEs:** CVE-2026-48334, CVE-2026-48284, CVE-2026-48322, CVE-2026-48259, CVE-2026-48359, CVE-2026-48318, CVE-2026-48327, CVE-2026-48358, CVE-2026-48321, CVE-2026-48325, CVE-2026-48324, CVE-2026-48356, CVE-2026-48319  
 **Categories:** Vulnerability  
 
 ---
 
-### 32. [Unpatched Claude for Chrome Flaw Lets Extensions Read Gmail, Calendar](https://www.securityweek.com/unpatched-claude-for-chrome-flaw-lets-extensions-read-gmail-calendar/)
+### 32. [7 Severe Vulnerabilities Patched in VMware Avi Load Balancer](https://www.securityweek.com/7-severe-vulnerabilities-patched-in-vmware-avi-load-balancer/)
+
+**Source:** Security Week  
+**Published:** Tue, 14 Jul 2026 13:55:41 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-47870, CVE-2026-47868, CVE-2026-47865, CVE-2026-47871, CVE-2026-47867, CVE-2026-47869, CVE-2026-47866  
+**Categories:** Vulnerability  
+
+---
+
+### 33. [Unpatched Claude for Chrome Flaw Lets Extensions Read Gmail, Calendar](https://www.securityweek.com/unpatched-claude-for-chrome-flaw-lets-extensions-read-gmail-calendar/)
 
 **Source:** Security Week  
 **Published:** Tue, 14 Jul 2026 13:00:00 +0000  
@@ -294,27 +305,27 @@
 
 ---
 
-### 33. [SAP Patches Critical Vulnerabilities in NetWeaver, Approuter, Commerce Cloud](https://www.securityweek.com/sap-patches-critical-vulnerabilities-in-netweaver-approuter-commerce-cloud/)
+### 34. [SAP Patches Critical Vulnerabilities in NetWeaver, Approuter, Commerce Cloud](https://www.securityweek.com/sap-patches-critical-vulnerabilities-in-netweaver-approuter-commerce-cloud/)
 
 **Source:** Security Week  
 **Published:** Tue, 14 Jul 2026 11:17:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-44761, CVE-2026-44747, CVE-2026-27690  
+**CVEs:** CVE-2026-44747, CVE-2026-44761, CVE-2026-27690  
 **Categories:** Vulnerability  
 
 ---
 
-### 34. [US, Allies Warn of Russian Cyberattacks Targeting Critical Infrastructure Routers](https://www.securityweek.com/us-allies-warn-of-russian-cyberattacks-targeting-critical-infrastructure-routers/)
+### 35. [US, Allies Warn of Russian Cyberattacks Targeting Critical Infrastructure Routers](https://www.securityweek.com/us-allies-warn-of-russian-cyberattacks-targeting-critical-infrastructure-routers/)
 
 **Source:** Security Week  
 **Published:** Tue, 14 Jul 2026 10:51:01 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2008-4128, CVE-2018-0171  
+**CVEs:** CVE-2018-0171, CVE-2008-4128  
 **Categories:** Vulnerability, Malware, APT  
 
 ---
 
-### 35. [Valarian Raises $50 Million for Sovereign Infrastructure Control Layer](https://www.securityweek.com/valarian-raises-50-million-for-sovereign-infrastructure-control-layer/)
+### 36. [Valarian Raises $50 Million for Sovereign Infrastructure Control Layer](https://www.securityweek.com/valarian-raises-50-million-for-sovereign-infrastructure-control-layer/)
 
 **Source:** Security Week  
 **Published:** Tue, 14 Jul 2026 09:32:15 +0000  
@@ -323,7 +334,7 @@
 
 ---
 
-### 36. [Multiple Jscrambler Packages Impacted by Supply Chain Attack](https://www.securityweek.com/multiple-jscrambler-packages-impacted-by-supply-chain-attack/)
+### 37. [Multiple Jscrambler Packages Impacted by Supply Chain Attack](https://www.securityweek.com/multiple-jscrambler-packages-impacted-by-supply-chain-attack/)
 
 **Source:** Security Week  
 **Published:** Tue, 14 Jul 2026 09:04:39 +0000  
@@ -332,7 +343,7 @@
 
 ---
 
-### 37. [Pentagon Suspends CMMC Phase 2 as It Rethinks Contractor Cybersecurity Rules](https://www.securityweek.com/pentagon-suspends-cmmc-phase-2-as-it-rethinks-contractor-cybersecurity-rules/)
+### 38. [Pentagon Suspends CMMC Phase 2 as It Rethinks Contractor Cybersecurity Rules](https://www.securityweek.com/pentagon-suspends-cmmc-phase-2-as-it-rethinks-contractor-cybersecurity-rules/)
 
 **Source:** Security Week  
 **Published:** Tue, 14 Jul 2026 06:37:50 +0000  
@@ -341,7 +352,7 @@
 
 ---
 
-### 38. [Hacker Conversations: Jesse McGraw (GhostExodus), From Blackhat Hacker to Redemption](https://www.securityweek.com/hacker-conversations-jesse-mcgraw-ghostexodus-from-blackhat-hacker-to-redemption/)
+### 39. [Hacker Conversations: Jesse McGraw (GhostExodus), From Blackhat Hacker to Redemption](https://www.securityweek.com/hacker-conversations-jesse-mcgraw-ghostexodus-from-blackhat-hacker-to-redemption/)
 
 **Source:** Security Week  
 **Published:** Mon, 13 Jul 2026 14:30:00 +0000  
@@ -350,21 +361,11 @@
 
 ---
 
-### 39. [Cybersecurity M&A Roundup: 37 Deals Announced in June 2026](https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-june-2026/)
+### 40. [Cybersecurity M&A Roundup: 37 Deals Announced in June 2026](https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-june-2026/)
 
 **Source:** Security Week  
 **Published:** Mon, 13 Jul 2026 12:20:14 +0000  
 **Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 40. [RabbitMQ Vulnerability Threatens Enterprise Systems](https://www.securityweek.com/rabbitmq-vulnerability-threatens-enterprise-systems/)
-
-**Source:** Security Week  
-**Published:** Mon, 13 Jul 2026 12:00:00 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-57221, CVE-2026-57219  
 **Categories:** Vulnerability  
 
 ---
@@ -392,7 +393,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 09 Jul 2026 18:52:29 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-25106, CVE-2026-28739, CVE-2026-33091  
+**CVEs:** CVE-2026-28739, CVE-2026-33091, CVE-2026-25106  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -631,7 +632,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

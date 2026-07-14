@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts",
+    "link": "https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html",
+    "published": "Tue, 14 Jul 2026 22:22:37 +0530",
+    "summary": "Cybersecurity researchers have flagged a previously undocumented Rust-based remote access trojan (RAT) codenamed LabubaRAT that masquerades as NVIDIA software to blend into target environments.\n\n\"LabubaRAT creates a reusable foothold for hands-on activity,\" Blackpoint Cyber researchers Sam Decker and Nevan Beal said in an analysis published today. \"Once deployed, it can profile the host,",
+    "analysis": {
+      "issue": "LabubaRAT poses as NVIDIA software, profiles security tools, and uses HTTPS, WebView2, or DNS tunneling to maintain remote access on Windows hosts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata",
+    "link": "https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html",
+    "published": "Tue, 14 Jul 2026 19:18:07 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of two access control-related flaws impacting the RabbitMQ message broker service that could allow attackers to leak OAuth client secrets, expose enterprise messaging infrastructure to takeover risks, and bypass tenant boundaries.\n\nMiggo's security team, which discovered and reported the flaws, said one \"leaks the broker's confidential OAuth",
+    "analysis": {
+      "issue": "Two RabbitMQ flaws can expose OAuth secrets or queue metadata, with one potentially enabling full broker takeover in affected configurations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot",
     "link": "https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html",
     "published": "Tue, 14 Jul 2026 18:16:18 +0530",
@@ -146,38 +182,56 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks",
-    "link": "https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html",
-    "published": "Mon, 13 Jul 2026 23:06:12 +0530",
-    "summary": "Cybersecurity researchers have flagged a new macOS information stealer called CrashStealer that's capable of harvesting sensitive data from compromised systems.\n\nUnlike other information stealers that are built on AppleScript droppers or Objective-C-based wrappers, CrashStealer is implemented in native C++, according to Jamf Threat Labs.\n\n\"It validates the victim's login password locally before",
+    "source": "Bleeping Computer",
+    "title": "Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown",
+    "link": "https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/",
+    "published": "Tue, 14 Jul 2026 12:08:47 -0400",
+    "summary": "Progress Software has confirmed that a high-severity zero-day vulnerability is behind the emergency shutdown of ShareFile Storage Zone Controllers last week and has released security updates to patch the flaw. [...]",
     "analysis": {
-      "issue": "CrashStealer uses a notarized macOS dropper to pass Gatekeeper, then steals browser, wallet, password manager, file, and keychain data",
+      "issue": "Progress Software has confirmed that a high-severity zero-day vulnerability is behind the emergency shutdown of ShareFile Storage Zone Controllers last week and has released security updates to patch the flaw",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "Vulnerability"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Google and Microsoft Pull ModHeader With 1.6 Million Installs After Dormant Collector Found",
-    "link": "https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html",
-    "published": "Mon, 13 Jul 2026 22:47:24 +0530",
-    "summary": "Google and Microsoft have pulled ModHeader, a popular header-editing extension with roughly 1.6 million installs across Chrome and Edge, after researchers found a hidden browsing-history collector built into its official store version.\n\nThe collector was dormant. An empty allow-list kept it switched off, and no proof has emerged that it ever gathered or sent a single browsing domain.\n\nThe",
+    "source": "Bleeping Computer",
+    "title": "LastPass, Bitwarden users targeted with fake security alerts",
+    "link": "https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/",
+    "published": "Tue, 14 Jul 2026 11:31:52 -0400",
+    "summary": "LastPass is warning users about an ongoing phishing campaign that is using fake security notices to direct them to fraudulent websites. [...]",
     "analysis": {
-      "issue": "Google and Microsoft pulled ModHeader after researchers found a dormant collector built to encrypt and upload up to 1,000 visited domains",
+      "issue": "LastPass is warning users about an ongoing phishing campaign that is using fake security notices to direct them to fraudulent websites",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "You Don't Have to Run an Exploit to Know If You're Vulnerable",
+    "link": "https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/",
+    "published": "Tue, 14 Jul 2026 10:00:10 -0400",
+    "summary": "Many vulnerabilities cannot be safely validated with live exploits, either because no exploit exists or the affected systems are too critical to test. Picus explains how TTP chaining helps organizations determine exploitability by validating the attack techniques an exploit depends on, without launching the exploit itself. [...]",
+    "analysis": {
+      "issue": "The timeline that vulnerability management was built on has quietly disappeared",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -230,8 +284,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-44761",
         "CVE-2026-44747",
+        "CVE-2026-44761",
         "CVE-2026-27690"
       ],
       "threat_categories": [
@@ -313,68 +367,23 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "New CrashStealer malware poses as Apple crash reporting tool",
-    "link": "https://www.bleepingcomputer.com/news/security/new-crashstealer-malware-poses-as-apple-crash-reporting-tool/",
-    "published": "Mon, 13 Jul 2026 15:04:02 -0400",
-    "summary": "A new macOS information-stealing malware called CrashStealer pretends to be Apple's crash-reporting tool to steal credentials, keychain data, and crypto wallets. [...]",
-    "analysis": {
-      "issue": "A new macOS information-stealing malware called CrashStealer pretends to be Apple's crash-reporting tool to steal credentials, keychain data, and crypto wallets",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA warns of actively exploited RCE flaws in Joomla extensions",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/",
-    "published": "Mon, 13 Jul 2026 11:20:16 -0400",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are exploiting vulnerabilities in the iCagenda and Balbooa Forms extensions for Joomla to achieve remote code execution through arbitrary file uploads. [...]",
-    "analysis": {
-      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are exploiting vulnerabilities in the iCagenda and Balbooa Forms extensions for Joomla to achieve remote code execution through arbitrary file uploads",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-56291",
-        "CVE-2026-48939"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Lidl discloses online shop breach after service provider hack",
-    "link": "https://www.bleepingcomputer.com/news/security/lidl-discloses-online-shop-breach-after-service-provider-hack/",
-    "published": "Mon, 13 Jul 2026 10:19:43 -0400",
-    "summary": "German discount supermarket chain Lidl notified customers in Germany, Belgium, and the Netherlands that attackers stole their personal information in a breach at a service provider. [...]",
-    "analysis": {
-      "issue": "German discount supermarket chain Lidl notified customers in Germany, Belgium, and the Netherlands that attackers stole their personal information in a breach at a service provider",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Lessons Learned from CISA’s Recent GitHub Leak",
     "link": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
     "published": "Mon, 13 Jul 2026 15:03:28 +0000",
-    "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response provide important lessons that all security teams should absorb."
+    "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response provide important lessons that all security teams should absorb.",
+    "analysis": {
+      "issue": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a recent data leak in which a contractor published dozens of internal CISA credentials — including AWS Govcloud keys — in a public GitHub repository for almost six",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability"
+      ]
+    }
   },
   {
     "source": "Krebs On Security",
@@ -551,6 +560,38 @@
   },
   {
     "source": "Security Week",
+    "title": "Adobe Patches Critical ColdFusion Vulnerabilities",
+    "link": "https://www.securityweek.com/adobe-patches-critical-coldfusion-vulnerabilities/",
+    "published": "Tue, 14 Jul 2026 17:06:35 +0000",
+    "summary": "<p>The ColdFusion security defects could allow attackers to execute arbitrary code or elevate their privileges.</p>\n<p>The post <a href=\"https://www.securityweek.com/adobe-patches-critical-coldfusion-vulnerabilities/\">Adobe Patches Critical ColdFusion Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The ColdFusion security defects could allow attackers to execute arbitrary code or elevate their privileges",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-48334",
+        "CVE-2026-48284",
+        "CVE-2026-48322",
+        "CVE-2026-48259",
+        "CVE-2026-48359",
+        "CVE-2026-48318",
+        "CVE-2026-48327",
+        "CVE-2026-48358",
+        "CVE-2026-48321",
+        "CVE-2026-48325",
+        "CVE-2026-48324",
+        "CVE-2026-48356",
+        "CVE-2026-48319"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "7 Severe Vulnerabilities Patched in VMware Avi Load Balancer",
     "link": "https://www.securityweek.com/7-severe-vulnerabilities-patched-in-vmware-avi-load-balancer/",
     "published": "Tue, 14 Jul 2026 13:55:41 +0000",
@@ -562,13 +603,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-47866",
-        "CVE-2026-47868",
         "CVE-2026-47870",
+        "CVE-2026-47868",
         "CVE-2026-47865",
+        "CVE-2026-47871",
         "CVE-2026-47867",
         "CVE-2026-47869",
-        "CVE-2026-47871"
+        "CVE-2026-47866"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -607,8 +648,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-44761",
         "CVE-2026-44747",
+        "CVE-2026-44761",
         "CVE-2026-27690"
       ],
       "threat_categories": [
@@ -629,8 +670,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2008-4128",
-        "CVE-2018-0171"
+        "CVE-2018-0171",
+        "CVE-2008-4128"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -733,27 +774,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "RabbitMQ Vulnerability Threatens Enterprise Systems",
-    "link": "https://www.securityweek.com/rabbitmq-vulnerability-threatens-enterprise-systems/",
-    "published": "Mon, 13 Jul 2026 12:00:00 +0000",
-    "summary": "<p>Unauthenticated attackers could obtain the broker's confidential OAuth client secret, allowing them to take control of the broker.</p>\n<p>The post <a href=\"https://www.securityweek.com/rabbitmq-vulnerability-threatens-enterprise-systems/\">RabbitMQ Vulnerability Threatens Enterprise Systems</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Unauthenticated attackers could obtain the broker’s confidential OAuth client secret, allowing them to take control of the broker",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-57221",
-        "CVE-2026-57219"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "[Video] Where protection starts: Cisco Talos Intelligence Integrations",
     "link": "https://blog.talosintelligence.com/video-where-protection-starts-cisco-talos-intelligence-integrations/",
@@ -805,9 +825,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-25106",
         "CVE-2026-28739",
-        "CVE-2026-33091"
+        "CVE-2026-33091",
+        "CVE-2026-25106"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1293,8 +1313,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
