@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-13 18:16:29 UTC
+**Last Updated:** 2026-07-14 02:53:55 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -94,7 +94,34 @@
 
 ---
 
-### 11. [CISA warns of actively exploited RCE flaws in Joomla extensions](https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/)
+### 11. [Japan's largest taxi operator shuts systems after cyberattack](https://www.bleepingcomputer.com/news/security/japans-largest-taxi-operator-shuts-systems-after-cyberattack/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 13 Jul 2026 16:18:59 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 12. [Hackers backdoor Jscrambler npm package with infostealer malware](https://www.bleepingcomputer.com/news/security/hackers-backdoor-jscrambler-npm-package-with-infostealer-malware/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 13 Jul 2026 15:44:19 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 13. [New CrashStealer malware poses as Apple crash reporting tool](https://www.bleepingcomputer.com/news/security/new-crashstealer-malware-poses-as-apple-crash-reporting-tool/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 13 Jul 2026 15:04:02 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 14. [CISA warns of actively exploited RCE flaws in Joomla extensions](https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 13 Jul 2026 11:20:16 -0400  
@@ -104,7 +131,7 @@
 
 ---
 
-### 12. [Lidl discloses online shop breach after service provider hack](https://www.bleepingcomputer.com/news/security/lidl-discloses-online-shop-breach-after-service-provider-hack/)
+### 15. [Lidl discloses online shop breach after service provider hack](https://www.bleepingcomputer.com/news/security/lidl-discloses-online-shop-breach-after-service-provider-hack/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 13 Jul 2026 10:19:43 -0400  
@@ -113,7 +140,7 @@
 
 ---
 
-### 13. [Breach at the Beach: Play the Ultimate Entra ID CTF](https://www.bleepingcomputer.com/news/security/breach-at-the-beach-play-the-ultimate-entra-id-ctf/)
+### 16. [Breach at the Beach: Play the Ultimate Entra ID CTF](https://www.bleepingcomputer.com/news/security/breach-at-the-beach-play-the-ultimate-entra-id-ctf/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 13 Jul 2026 10:01:11 -0400  
@@ -122,7 +149,7 @@
 
 ---
 
-### 14. [UK charges suspects linked to Russian Coms call spoofing platform](https://www.bleepingcomputer.com/news/security/uk-charges-suspects-linked-to-russian-coms-call-spoofing-platform/)
+### 17. [UK charges suspects linked to Russian Coms call spoofing platform](https://www.bleepingcomputer.com/news/security/uk-charges-suspects-linked-to-russian-coms-call-spoofing-platform/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 13 Jul 2026 09:23:30 -0400  
@@ -131,7 +158,7 @@
 
 ---
 
-### 15. [EU sanctions Russian GRU military hackers over cyberattacks](https://www.bleepingcomputer.com/news/security/eu-and-uk-hit-russia-with-first-joint-cyber-sanctions-package/)
+### 18. [EU sanctions Russian GRU military hackers over cyberattacks](https://www.bleepingcomputer.com/news/security/eu-and-uk-hit-russia-with-first-joint-cyber-sanctions-package/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 13 Jul 2026 07:19:05 -0400  
@@ -140,7 +167,7 @@
 
 ---
 
-### 16. [US and allies warn of Russian critical infrastructure attacks](https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/)
+### 19. [US and allies warn of Russian critical infrastructure attacks](https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 13 Jul 2026 05:32:23 -0400  
@@ -150,39 +177,12 @@
 
 ---
 
-### 17. [OpenAI temporarily relaxes GPT-5.6 Sol usage limits](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/)
+### 20. [OpenAI temporarily relaxes GPT-5.6 Sol usage limits](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 12 Jul 2026 20:44:44 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 18. [Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/)
-
-**Source:** Bleeping Computer  
-**Published:** Sun, 12 Jul 2026 15:39:12 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 19. [RedHook Android malware now uses Wireless ADB for shell access](https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/)
-
-**Source:** Bleeping Computer  
-**Published:** Sun, 12 Jul 2026 10:27:32 -0400  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 20. [Australia warns of global campaign targeting vulnerable CMS platforms](https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 11 Jul 2026 10:18:23 -0400  
-**Severity:** Medium  
-**Categories:** Vulnerability, Malware  
 
 ---
 
@@ -245,7 +245,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50507, CVE-2026-49160, CVE-2026-45586  
+**CVEs:** CVE-2026-49160, CVE-2026-50507, CVE-2026-45586  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -328,7 +328,7 @@
 **Source:** Security Week  
 **Published:** Mon, 13 Jul 2026 09:08:02 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56291, CVE-2026-48939  
+**CVEs:** CVE-2026-48939, CVE-2026-56291  
 **Categories:** Vulnerability  
 
 ---
@@ -338,7 +338,7 @@
 **Source:** Security Week  
 **Published:** Mon, 13 Jul 2026 08:20:46 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-2699, CVE-2026-2701  
+**CVEs:** CVE-2026-2701, CVE-2026-2699  
 **Categories:** Vulnerability, Malware, Supply Chain  
 
 ---
@@ -375,7 +375,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 09 Jul 2026 18:52:29 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-33091, CVE-2026-25106, CVE-2026-28739  
+**CVEs:** CVE-2026-25106, CVE-2026-33091, CVE-2026-28739  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -534,19 +534,19 @@
 
 ---
 
-### 59. [State Digital Surveillance Risk Landscape](https://www.recordedfuture.com/research/state-digital-surveillance-risk-landscape)
+### 59. [The Klue Security Incident and Its Impact on Recorded Future](https://www.recordedfuture.com/blog/klue-security-incident)
 
 **Source:** Recorded Future  
-**Published:** Wed, 17 Jun 2026 00:00:00 GMT  
+**Published:** Thu, 18 Jun 2026 00:00:00 GMT  
 **Severity:** Low  
-**Categories:** General Security  
+**Categories:** Supply Chain  
 
 ---
 
-### 60. [The Intelligence No One Else Has: Inside Recorded Future’s Proprietary Collection Engine](https://www.recordedfuture.com/blog/proprietary-collection-engine)
+### 60. [State Digital Surveillance Risk Landscape](https://www.recordedfuture.com/research/state-digital-surveillance-risk-landscape)
 
 **Source:** Recorded Future  
-**Published:** Tue, 16 Jun 2026 00:00:00 GMT  
+**Published:** Wed, 17 Jun 2026 00:00:00 GMT  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -632,7 +632,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

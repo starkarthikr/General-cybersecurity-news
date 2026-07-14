@@ -183,6 +183,60 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Japan's largest taxi operator shuts systems after cyberattack",
+    "link": "https://www.bleepingcomputer.com/news/security/japans-largest-taxi-operator-shuts-systems-after-cyberattack/",
+    "published": "Mon, 13 Jul 2026 16:18:59 -0400",
+    "summary": "Japan's largest taxi operator, Nihon Kotsu, announced that its systems were compromised in a cyberattack, forcing the company to shut down part of its infrastructure. [...]",
+    "analysis": {
+      "issue": "Japan's largest taxi operator, Nihon Kotsu, announced that its systems were compromised in a cyberattack, forcing the company to shut down part of its infrastructure",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Hackers backdoor Jscrambler npm package with infostealer malware",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-jscrambler-npm-package-with-infostealer-malware/",
+    "published": "Mon, 13 Jul 2026 15:44:19 -0400",
+    "summary": "The Jscrambler client-side web security company disclosed that a threat actor published a malicious version of its npm package that has been downloaded almost 1,500 times. [...]",
+    "analysis": {
+      "issue": "The Jscrambler client-side web security company disclosed that a threat actor published a malicious version of its npm package that has been downloaded almost 1,500 times",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "New CrashStealer malware poses as Apple crash reporting tool",
+    "link": "https://www.bleepingcomputer.com/news/security/new-crashstealer-malware-poses-as-apple-crash-reporting-tool/",
+    "published": "Mon, 13 Jul 2026 15:04:02 -0400",
+    "summary": "A new macOS information-stealing malware called CrashStealer pretends to be Apple's crash-reporting tool to steal credentials, keychain data, and crypto wallets. [...]",
+    "analysis": {
+      "issue": "A new macOS information-stealing malware called CrashStealer pretends to be Apple's crash-reporting tool to steal credentials, keychain data, and crypto wallets",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "CISA warns of actively exploited RCE flaws in Joomla extensions",
     "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/",
     "published": "Mon, 13 Jul 2026 11:20:16 -0400",
@@ -313,61 +367,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/",
-    "published": "Sun, 12 Jul 2026 15:39:12 -0400",
-    "summary": "Anthropic has just extended access to Claude Fable 5 for paid subscribers until July 19, giving you another week to keep using the most powerful model. [...]",
-    "analysis": {
-      "issue": "Anthropic has just extended access to Claude Fable 5 for paid subscribers until July 19, giving you another week to keep using the most powerful model",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "RedHook Android malware now uses Wireless ADB for shell access",
-    "link": "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/",
-    "published": "Sun, 12 Jul 2026 10:27:32 -0400",
-    "summary": "A new version of the RedHook Android malware abuses the Android Wireless Debugging (Wireless ADB) mechanism in a novel way to gain shell-level privileges without requiring a computer connection. [...]",
-    "analysis": {
-      "issue": "A new version of the RedHook Android malware abuses the Android Wireless Debugging (Wireless ADB) mechanism in a novel way to gain shell-level privileges without requiring a computer connection",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Australia warns of global campaign targeting vulnerable CMS platforms",
-    "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/",
-    "published": "Sat, 11 Jul 2026 10:18:23 -0400",
-    "summary": "The Australian Cyber Security Centre (ACSC) issued an alert about a global exploitation campaign targeting vulnerable content management systems (CMS) and plugins. [...]",
-    "analysis": {
-      "issue": "The Australian Cyber Security Centre (ACSC) issued an alert about a global exploitation campaign targeting vulnerable content management systems (CMS) and plugins",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Medium",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Lessons Learned from CISA’s Recent GitHub Leak",
     "link": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
@@ -493,8 +492,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50507",
         "CVE-2026-49160",
+        "CVE-2026-50507",
         "CVE-2026-45586"
       ],
       "threat_categories": [
@@ -666,8 +665,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56291",
-        "CVE-2026-48939"
+        "CVE-2026-48939",
+        "CVE-2026-56291"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -687,8 +686,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-2699",
-        "CVE-2026-2701"
+        "CVE-2026-2701",
+        "CVE-2026-2699"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -770,8 +769,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-33091",
         "CVE-2026-25106",
+        "CVE-2026-33091",
         "CVE-2026-28739"
       ],
       "threat_categories": [
@@ -1093,30 +1092,30 @@
   },
   {
     "source": "Recorded Future",
-    "title": "State Digital Surveillance Risk Landscape",
-    "link": "https://www.recordedfuture.com/research/state-digital-surveillance-risk-landscape",
-    "published": "Wed, 17 Jun 2026 00:00:00 GMT",
-    "summary": "Explore the state digital surveillance risk landscape. Learn how governments use spyware, AI, and network interception to monitor travelers and how to mitigate these risks.",
+    "title": "The Klue Security Incident and Its Impact on Recorded Future",
+    "link": "https://www.recordedfuture.com/blog/klue-security-incident",
+    "published": "Thu, 18 Jun 2026 00:00:00 GMT",
+    "summary": "Transparency is core to how we operate. Read our statement on a recent third-party vendor security incident, including our findings and the actions we've taken to protect customer information.",
     "analysis": {
-      "issue": "Explore the state digital surveillance risk landscape",
+      "issue": "Transparency is core to how we operate",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Supply Chain"
       ]
     }
   },
   {
     "source": "Recorded Future",
-    "title": "The Intelligence No One Else Has: Inside Recorded Future’s Proprietary Collection Engine",
-    "link": "https://www.recordedfuture.com/blog/proprietary-collection-engine",
-    "published": "Tue, 16 Jun 2026 00:00:00 GMT",
-    "summary": "Learn how Recorded Future’s proprietary collection engine empowers organizations to move beyond reactive security. Discover the power of our four unique intelligence source types—technical, underground, community, and open-source—working together to provide proactive, full-lifecycle threat protection.",
+    "title": "State Digital Surveillance Risk Landscape",
+    "link": "https://www.recordedfuture.com/research/state-digital-surveillance-risk-landscape",
+    "published": "Wed, 17 Jun 2026 00:00:00 GMT",
+    "summary": "Explore the state digital surveillance risk landscape. Learn how governments use spyware, AI, and network interception to monitor travelers and how to mitigate these risks.",
     "analysis": {
-      "issue": "Learn how Recorded Future’s proprietary collection engine empowers organizations to move beyond reactive security",
+      "issue": "Explore the state digital surveillance risk landscape",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1294,8 +1293,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
