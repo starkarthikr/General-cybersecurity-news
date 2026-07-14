@@ -1,7 +1,79 @@
 [
   {
     "source": "The Hacker News",
-    "title": "Grok Build Uploads Entire Git Repositories to xAI Storage, Not Just Files It Reads",
+    "title": "11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot",
+    "link": "https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html",
+    "published": "Tue, 14 Jul 2026 18:16:18 +0530",
+    "summary": "Cybersecurity researchers have discovered 11 old, Microsoft-signed, Unified Extensible Firmware Interface (UEFI) applications that could be abused to bypass Secure Boot on most systems using the modern firmware standard.\n\n\"An attacker exploiting one of these vulnerable applications can execute untrusted code during system boot, enabling deployment of malicious UEFI bootkits or other malware,\"",
+    "analysis": {
+      "issue": "Eleven old Microsoft-signed UEFI shims could let admin-level attackers bypass Secure Boot and run code before the operating system loads",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks",
+    "link": "https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html",
+    "published": "Tue, 14 Jul 2026 17:25:00 +0530",
+    "summary": "Researchers at KU Leuven tested 85 of the most popular crypto wallets that run as browser extensions and found that the wallets themselves leak enough to link and track the people using them.\n\nThe way these wallets talk to websites and blockchain servers can tie a person's separate addresses together and let outsiders follow them from site to site. And on a site that already holds a name or",
+    "analysis": {
+      "issue": "Researchers found built-in privacy leaks in 85 browser wallets that can link addresses, survive logout, and expose users across unrelated sites",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "How Pentera Turns AI Security Workflows into Validation Engines",
+    "link": "https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html",
+    "published": "Tue, 14 Jul 2026 17:00:00 +0530",
+    "summary": "AI security agents are starting to influence real security decisions. They summarize findings, prioritize remediation, recommend next steps, and help teams move faster. But most still rely on fragmented risk signals: scanner output, severity scores, threat intelligence, configuration findings, and exposure data.\n\nThat fragmentation matters because attackers do not move through environments one",
+    "analysis": {
+      "issue": "Pentera’s MCP Server gives AI assistants access to validated attack paths, helping teams prioritize exploitable risks and verify remediation",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials",
+    "link": "https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html",
+    "published": "Tue, 14 Jul 2026 16:51:35 +0530",
+    "summary": "At least two distinct threat actors are weaponizing a novel evasion technique called OAuth client ID spoofing in cloud campaigns, while slipping past telemetry.\n\nThe activity allows users to enumerate user accounts and validate stolen credentials in Microsoft Entra ID environments, without ever generating a successful sign-in event that would otherwise alert defenders. And bad actors have begun",
+    "analysis": {
+      "issue": "OAuth client ID spoofing lets attackers test Entra accounts and stolen passwords without successful sign-ins, leaving application names blank in logs",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read",
     "link": "https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html",
     "published": "Tue, 14 Jul 2026 14:32:48 +0530",
     "summary": "xAI's Grok Build coding CLI was uploading entire Git repositories, full commit history and all, to a Google Cloud Storage bucket run by xAI, not just the files a coding task needed.\n\nA researcher publishing as cereblab, testing version 0.2.93, captured one of those uploads, cloned the git bundle out of the intercepted request, and pulled back a file the agent had been told in plain terms not",
@@ -110,50 +182,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "⚡ Weekly Recap: ShareFile Threat, Citrix Bleed 2 Ransomware, AI Coding Attacks, and More",
-    "link": "https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html",
-    "published": "Mon, 13 Jul 2026 20:35:57 +0530",
-    "summary": "Somewhere right now, a security tool is quietly finding bugs faster than any human can fix them. That's supposed to be the good news. The catch is that the attackers have the same tools, pointed the other way, and they don't file tickets.\n\nThat's the shape of this week. Trusted code turns on the people who installed it. Old bugs from last year are still landing because the fix sat in a queue too",
+    "source": "Bleeping Computer",
+    "title": "Microsoft Entra ID gets passkeys default authentication starting September",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/",
+    "published": "Tue, 14 Jul 2026 08:49:56 -0400",
+    "summary": "Microsoft has announced that passkeys will become the default authentication method for the Entra ID enterprise identity service starting September 2026. [...]",
     "analysis": {
-      "issue": "From a rushed ShareFile shutdown to poisoned npm packages and AI assistants tricked into installing malware, here's every threat you need to know this",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "New MemGhost Attack Plants Persistent False Memories in AI Agents Through One Email",
-    "link": "https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html",
-    "published": "Mon, 13 Jul 2026 19:19:48 +0530",
-    "summary": "Give an AI assistant a memory and access to your inbox, and you hand an attacker a way to rewrite what it thinks it knows about you. A single email can trick that agent into saving a false \"fact\" about the user, hide the change, and quietly steer its answers in later sessions.\n\nWhen it works, the person reads an ordinary-looking reply and never learns their assistant was tampered with.\n\nThe",
-    "analysis": {
-      "issue": "A single crafted email can plant a false, lasting memory in AI agents like OpenClaw, hide it from the user, and slip past the defenses built to catch",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft",
-    "link": "https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html",
-    "published": "Mon, 13 Jul 2026 18:33:33 +0530",
-    "summary": "A new phishing-as-a-service (PhaaS) operation called Forg365 is using a combination of device code phishing, adversary-in-the-middle (AitM) tactics, antibot evasion, artificial intelligence (AI)-assisted lure creation, and post-compromise mailbox operations targeting Microsoft 365 accounts.\n\nDistributed via Telegram and costing $400 a month (or $3,800 per year), attack chains leverage phishing",
-    "analysis": {
-      "issue": "Forg365 targets Microsoft 365 with device code and AitM phishing, then uses stolen tokens for persistent browser sessions and mailbox access",
+      "issue": "Microsoft has announced that passkeys will become the default authentication method for the Entra ID enterprise identity service starting September 2026",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -165,13 +200,53 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling",
-    "link": "https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html",
-    "published": "Mon, 13 Jul 2026 17:24:46 +0530",
-    "summary": "Meta has filed a patent application for an AI that listens to your voice throughout the day, works out how it thinks you are feeling from the way you sound, and keeps a timestamped log of every read.\n\nEach read gets pinned to the moment it happened: the time, your location, what you were doing, even how you were using your phone. Some versions in the filing would listen all day; others would",
+    "source": "Bleeping Computer",
+    "title": "New phishing kits target Microsoft 365 accounts, evade MFA",
+    "link": "https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/",
+    "published": "Tue, 14 Jul 2026 08:49:00 -0400",
+    "summary": "Two new phishing kits, Jalisco and OmegaLord, have been discovered in attacks targeting Microsoft 365 accounts, using techniques that defeat multi-factor authentication (MFA). [...]",
     "analysis": {
-      "issue": "Meta filed a patent for an AI that reads your mood from your voice, eyes, and phone and keeps a timestamped log of it",
+      "issue": "Two new phishing kits, Jalisco and OmegaLord, have been discovered in attacks targeting Microsoft 365 accounts, using techniques that defeat multi-factor authentication (MFA)",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "SAP warns of critical flaws in NetWeaver and Commerce Cloud",
+    "link": "https://www.bleepingcomputer.com/news/security/sap-warns-of-critical-flaws-in-netweaver-and-commerce-cloud/",
+    "published": "Tue, 14 Jul 2026 07:42:21 -0400",
+    "summary": "SAP has addressed 16 vulnerabilities across multiple products as part of its July 2026 security updates, including three critical flaws in NetWeaver, Commerce Cloud, and AppRouter. [...]",
+    "analysis": {
+      "issue": "SAP has addressed 16 vulnerabilities across multiple products as part of its July 2026 security updates, including three critical flaws in NetWeaver, Commerce Cloud, and AppRouter",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-44761",
+        "CVE-2026-44747",
+        "CVE-2026-27690"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft starts testing cleaner Windows Search without ads",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-testing-cleaner-windows-search-without-ads/",
+    "published": "Tue, 14 Jul 2026 06:47:23 -0400",
+    "summary": "Microsoft is now testing a cleaner and faster version of Windows Search that should prioritize relevant results over ads and promotional content. [...]",
+    "analysis": {
+      "issue": "Microsoft is now testing a cleaner and faster version of Windows Search that should prioritize relevant results over ads and promotional content",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -295,97 +370,11 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Breach at the Beach: Play the Ultimate Entra ID CTF",
-    "link": "https://www.bleepingcomputer.com/news/security/breach-at-the-beach-play-the-ultimate-entra-id-ctf/",
-    "published": "Mon, 13 Jul 2026 10:01:11 -0400",
-    "summary": "Learn how attackers abuse Entra ID through a free hands-on Capture the Flag. Varonis created the Breach at the Beach CTF to teach defenders how to investigate Entra ID attack techniques using realistic scenarios. [...]",
-    "analysis": {
-      "issue": "Discover how Varonis Threat Labs created Breach at the Beach, a unique Entra ID training experience",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "UK charges suspects linked to Russian Coms call spoofing platform",
-    "link": "https://www.bleepingcomputer.com/news/security/uk-charges-suspects-linked-to-russian-coms-call-spoofing-platform/",
-    "published": "Mon, 13 Jul 2026 09:23:30 -0400",
-    "summary": "UK authorities charged five people following a National Crime Agency (NCA) investigation into Russian Coms, a major caller ID spoofing platform used by criminals to make over 1.8 million scam calls. [...]",
-    "analysis": {
-      "issue": "UK authorities charged five people following a National Crime Agency (NCA) investigation into Russian Coms, a major caller ID spoofing platform used by criminals to make over 1",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "EU sanctions Russian GRU military hackers over cyberattacks",
-    "link": "https://www.bleepingcomputer.com/news/security/eu-and-uk-hit-russia-with-first-joint-cyber-sanctions-package/",
-    "published": "Mon, 13 Jul 2026 07:19:05 -0400",
-    "summary": "The European Union and the United Kingdom jointly sanctioned dozens of Russian individuals and entities and accused Russia of coordinating a network of hacking groups responsible for attacks across Europe. [...]",
-    "analysis": {
-      "issue": "The European Union and the United Kingdom jointly sanctioned dozens of Russian individuals and entities and accused Russia of coordinating a network of hacking groups responsible for attacks across Europe",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "US and allies warn of Russian critical infrastructure attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/",
-    "published": "Mon, 13 Jul 2026 05:32:23 -0400",
-    "summary": "Cybersecurity agencies from the United States and eight other countries have issued a joint warning that Russian state hackers are targeting vulnerable and poorly configured routers to infiltrate critical infrastructure networks. [...]",
-    "analysis": {
-      "issue": "Cybersecurity agencies from the United States and eight other countries have issued a joint warning that Russian state hackers are targeting vulnerable and poorly configured routers to infiltrate critical infrastructure networks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2018-0171"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Lessons Learned from CISA’s Recent GitHub Leak",
     "link": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
     "published": "Mon, 13 Jul 2026 15:03:28 +0000",
-    "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response provide important lessons that all security teams should absorb.",
-    "analysis": {
-      "issue": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a recent data leak in which a contractor published dozens of internal CISA credentials — including AWS Govcloud keys — in a public GitHub repository for almost six",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability"
-      ]
-    }
+    "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response provide important lessons that all security teams should absorb."
   },
   {
     "source": "Krebs On Security",
@@ -494,9 +483,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-49160",
         "CVE-2026-50507",
-        "CVE-2026-45586"
+        "CVE-2026-45586",
+        "CVE-2026-49160"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -557,6 +546,96 @@
       "cves": [],
       "threat_categories": [
         "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "7 Severe Vulnerabilities Patched in VMware Avi Load Balancer",
+    "link": "https://www.securityweek.com/7-severe-vulnerabilities-patched-in-vmware-avi-load-balancer/",
+    "published": "Tue, 14 Jul 2026 13:55:41 +0000",
+    "summary": "<p>The flaws can be exploited for authentication bypass, remote code execution, privilege escalation, and directory traversal.</p>\n<p>The post <a href=\"https://www.securityweek.com/7-severe-vulnerabilities-patched-in-vmware-avi-load-balancer/\">7 Severe Vulnerabilities Patched in VMware Avi Load Balancer</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The flaws can be exploited for authentication bypass, remote code execution, privilege escalation, and directory traversal",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-47866",
+        "CVE-2026-47868",
+        "CVE-2026-47870",
+        "CVE-2026-47865",
+        "CVE-2026-47867",
+        "CVE-2026-47869",
+        "CVE-2026-47871"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Unpatched Claude for Chrome Flaw Lets Extensions Read Gmail, Calendar",
+    "link": "https://www.securityweek.com/unpatched-claude-for-chrome-flaw-lets-extensions-read-gmail-calendar/",
+    "published": "Tue, 14 Jul 2026 13:00:00 +0000",
+    "summary": "<p>A ClaudeBleed-linked vulnerability reportedly persists across eight patches, exposing potentially sensitive data to other extensions. </p>\n<p>The post <a href=\"https://www.securityweek.com/unpatched-claude-for-chrome-flaw-lets-extensions-read-gmail-calendar/\">Unpatched Claude for Chrome Flaw Lets Extensions Read Gmail, Calendar</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "A ClaudeBleed-linked vulnerability reportedly persists across eight patches, exposing potentially sensitive data to other extensions",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "SAP Patches Critical Vulnerabilities in NetWeaver, Approuter, Commerce Cloud",
+    "link": "https://www.securityweek.com/sap-patches-critical-vulnerabilities-in-netweaver-approuter-commerce-cloud/",
+    "published": "Tue, 14 Jul 2026 11:17:56 +0000",
+    "summary": "<p>The flaws could allow attackers to access and modify data, and cause system unavailability and request-response desynchronization.</p>\n<p>The post <a href=\"https://www.securityweek.com/sap-patches-critical-vulnerabilities-in-netweaver-approuter-commerce-cloud/\">SAP Patches Critical Vulnerabilities in NetWeaver, Approuter, Commerce Cloud</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The flaws could allow attackers to access and modify data, and cause system unavailability and request-response desynchronization",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-44761",
+        "CVE-2026-44747",
+        "CVE-2026-27690"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "US, Allies Warn of Russian Cyberattacks Targeting Critical Infrastructure Routers",
+    "link": "https://www.securityweek.com/us-allies-warn-of-russian-cyberattacks-targeting-critical-infrastructure-routers/",
+    "published": "Tue, 14 Jul 2026 10:51:01 +0000",
+    "summary": "<p>Multiple state-sponsored APTs are compromising poorly secured devices across critical infrastructure sector networks.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-allies-warn-of-russian-cyberattacks-targeting-critical-infrastructure-routers/\">US, Allies Warn of Russian Cyberattacks Targeting Critical Infrastructure Routers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Multiple state-sponsored APTs are compromising poorly secured devices across critical infrastructure sector networks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2008-4128",
+        "CVE-2018-0171"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "APT"
       ]
     }
   },
@@ -675,82 +754,22 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Zimbra Patches Critical Code Execution Vulnerability",
-    "link": "https://www.securityweek.com/zimbra-patches-critical-code-execution-vulnerability/",
-    "published": "Mon, 13 Jul 2026 10:03:47 +0000",
-    "summary": "<p>The flaw results in malicious code embedded in crafted emails being executed when the emails are opened.</p>\n<p>The post <a href=\"https://www.securityweek.com/zimbra-patches-critical-code-execution-vulnerability/\">Zimbra Patches Critical Code Execution Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "source": "Talos Blog",
+    "title": "[Video] Where protection starts: Cisco Talos Intelligence Integrations",
+    "link": "https://blog.talosintelligence.com/video-where-protection-starts-cisco-talos-intelligence-integrations/",
+    "published": "Tue, 14 Jul 2026 10:47:18 GMT",
+    "summary": "Every day, defenders make high-consequence decisions with incomplete information. Learn how Cisco Talos Intelligence Integrations help reduce uncertainty by turning the latest threat intelligence into proactive protections across Cisco technologies.",
     "analysis": {
-      "issue": "The flaw results in malicious code embedded in crafted emails being executed when the emails are opened",
+      "issue": "Cybersecurity has always involved elements of uncertainty",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Critical",
+      "severity": "Low",
       "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "EU Targets Russian Intelligence Officers Accused of Running a Yearslong Cyber Spying Campaign",
-    "link": "https://www.securityweek.com/eu-targets-russian-intelligence-officers-accused-of-running-a-yearslong-cyber-spying-campaign/",
-    "published": "Mon, 13 Jul 2026 10:00:00 +0000",
-    "summary": "<p>The move targeted people and entities accused of links to an online spying network that the EU claims targeted governments and carried out sabotage operations against critical infrastructure.</p>\n<p>The post <a href=\"https://www.securityweek.com/eu-targets-russian-intelligence-officers-accused-of-running-a-yearslong-cyber-spying-campaign/\">EU Targets Russian Intelligence Officers Accused of Running a Yearslong Cyber Spying Campaign</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The move targeted people and entities accused of links to an online spying network that the EU claims targeted governments and carried out sabotage operations against critical infrastructure",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Organizations Warned of Exploited Joomla Extension Vulnerabilities",
-    "link": "https://www.securityweek.com/organizations-warned-of-exploited-joomla-extension-vulnerabilities/",
-    "published": "Mon, 13 Jul 2026 09:08:02 +0000",
-    "summary": "<p>Threat actors have been targeting Balbooa Forms and iCagenda Joomla extension flaws for remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/organizations-warned-of-exploited-joomla-extension-vulnerabilities/\">Organizations Warned of Exploited Joomla Extension Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Threat actors have been targeting Balbooa Forms and iCagenda Joomla extension flaws for remote code execution",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-56291",
-        "CVE-2026-48939"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Progress Prompts ShareFile Storage Zone Controller Shutdown Amid Security Concerns",
-    "link": "https://www.securityweek.com/progress-prompts-sharefile-storage-zone-controller-shutdown-amid-security-concerns/",
-    "published": "Mon, 13 Jul 2026 08:20:46 +0000",
-    "summary": "<p>The company notified customers to manually shut down their servers while it is investigating a credible threat.</p>\n<p>The post <a href=\"https://www.securityweek.com/progress-prompts-sharefile-storage-zone-controller-shutdown-amid-security-concerns/\">Progress Prompts ShareFile Storage Zone Controller Shutdown Amid Security Concerns</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The company notified customers to manually shut down their servers while it is investigating a credible threat",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-2699",
-        "CVE-2026-2701"
-      ],
       "threat_categories": [
         "Vulnerability",
         "Malware",
-        "Supply Chain"
+        "APT"
       ]
     }
   },
@@ -786,9 +805,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
+        "CVE-2026-25106",
         "CVE-2026-28739",
-        "CVE-2026-33091",
-        "CVE-2026-25106"
+        "CVE-2026-33091"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -928,13 +947,13 @@
     }
   },
   {
-    "source": "Talos Blog",
-    "title": "Close Encounters of the Human Kind",
-    "link": "https://blog.talosintelligence.com/close-encounters-of-the-human-kind/",
-    "published": "Thu, 18 Jun 2026 18:00:24 GMT",
-    "summary": "In the latest Threat Source, Hazel channels her inner Spielberg to explore why humans are delightfully irrational, reminding us that while security best practices are simple in theory, they’re a lot harder to pull off when you’re busy dealing with real life.",
+    "source": "Recorded Future",
+    "title": "The FBI Warned About Fake Permit Fees. The Harder Question Is Where the Money Goes. | Recorded Future",
+    "link": "https://www.recordedfuture.com/blog/fbi-fake-permit-fees",
+    "published": "Tue, 14 Jul 2026 00:00:00 GMT",
+    "summary": "A government impersonation scam is targeting property owners with fake planning and zoning permit invoices, and authorized wire transfers are clearing behavioral controls. Here's how the scheme works and why beneficiary account intelligence is the signal that catches it.",
     "analysis": {
-      "issue": "Welcome to this week’s Threat Source newsletter",
+      "issue": "A government impersonation scam is targeting property owners with fake planning and zoning permit invoices, and authorized wire transfers are clearing behavioral controls",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1097,24 +1116,6 @@
     "summary": "A purchase scam tactic hijacks organic search through compromised sites, and it’s built to scale into 2026 FIFA World Cup fraud. How it works and how to respond.",
     "analysis": {
       "issue": "A purchase scam tactic hijacks organic search through compromised sites, and it’s built to scale into 2026 FIFA World Cup fraud",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "State Digital Surveillance Risk Landscape",
-    "link": "https://www.recordedfuture.com/research/state-digital-surveillance-risk-landscape",
-    "published": "Wed, 17 Jun 2026 00:00:00 GMT",
-    "summary": "Explore the state digital surveillance risk landscape. Learn how governments use spyware, AI, and network interception to monitor travelers and how to mitigate these risks.",
-    "analysis": {
-      "issue": "Explore the state digital surveillance risk landscape",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1323,6 +1324,25 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Warning: Scammers are using FaceTime to empty bank accounts",
+    "link": "https://www.malwarebytes.com/blog/news/2026/07/warning-scammers-are-using-facetime-to-empty-bank-accounts",
+    "published": "Tue, 14 Jul 2026 11:09:02 GMT",
+    "summary": "Cybercriminals are combining social engineering through apps like FaceTime with unpatched devices to steal credentials and drain bank accounts.",
+    "analysis": {
+      "issue": "Apple is urging users to treat any suspicious FaceTime call or message as untrusted, especially if it involves payments, refunds, password resets, or requests for personal information",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "The inside job that cost ransomware victims millions",
     "link": "https://www.malwarebytes.com/blog/news/2026/07/the-inside-job-that-cost-ransomware-victims-millions",
     "published": "Tue, 14 Jul 2026 09:26:51 GMT",
@@ -1482,26 +1502,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "6.9 million driver’s license numbers stolen from AssuranceAmerica",
-    "link": "https://www.malwarebytes.com/blog/data-breaches/2026/07/6-9-million-drivers-license-numbers-stolen-from-assuranceamerica",
-    "published": "Thu, 09 Jul 2026 15:06:29 GMT",
-    "summary": "Millions of AssuranceAmerica customers are being notified after attackers accessed driver's license numbers and other personal information.",
-    "analysis": {
-      "issue": "Insurance provider AssuranceAmerica has confirmed a data breach affecting the personal information and driver’s license numbers of up to 6",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Phishing"
       ]
     }
   },
