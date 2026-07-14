@@ -1,6 +1,80 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Grok Build Uploads Entire Git Repositories to xAI Storage, Not Just Files It Reads",
+    "link": "https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html",
+    "published": "Tue, 14 Jul 2026 14:32:48 +0530",
+    "summary": "xAI's Grok Build coding CLI was uploading entire Git repositories, full commit history and all, to a Google Cloud Storage bucket run by xAI, not just the files a coding task needed.\n\nA researcher publishing as cereblab, testing version 0.2.93, captured one of those uploads, cloned the git bundle out of the intercepted request, and pulled back a file the agent had been told in plain terms not",
+    "analysis": {
+      "issue": "Grok Build uploaded tracked Git repositories and full commit history to xAI storage by default, including unread files and unredacted",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "U.S. Sanctions First VPN Service and Malware Cryptor Seller Over Ransomware Support",
+    "link": "https://thehackernews.com/2026/07/us-sanctions-first-vpn-service-and.html",
+    "published": "Tue, 14 Jul 2026 13:32:33 +0530",
+    "summary": "The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) has designated two individuals and a VPN service provider for enabling ransomware actors' and other cybercriminals' malicious activities, including ransomware attacks against Americans.\n\nThe VPN, named First VPN Service (1VPNS), has been accused of offering its tools to ransomware groups, along with its 45-year-old Ukrainian",
+    "analysis": {
+      "issue": "sanctions First VPN and two operators over ransomware support as the U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "148 npm Packages Disguised as Student Proxies Turned Browsers Into a DDoS Botnet",
+    "link": "https://thehackernews.com/2026/07/148-npm-packages-disguised-as-student.html",
+    "published": "Tue, 14 Jul 2026 12:38:36 +0530",
+    "summary": "A campaign of 148 npm packages disguised as student web proxies turned visitors' browsers into a distributed denial-of-service botnet for roughly two weeks in May, according to new research from&nbsp;JFrog.\n\nThe packages did not go after the developers who might install them. The operators used the registry as free hosting for a booby-trapped proxy site and let the students who came to dodge",
+    "analysis": {
+      "issue": "JFrog finds 148 npm proxy packages turned student browsers into a DDoS botnet, while a mutable loader lets operators re-arm it without updates",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Microsoft Maps Three Salesforce Attack Paths Tied to a Year of ShinyHunters Activity",
+    "link": "https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html",
+    "published": "Tue, 14 Jul 2026 11:49:24 +0530",
+    "summary": "Attackers whose methods line up with the data-extortion group&nbsp;ShinyHunters&nbsp;have spent the past year walking into corporate Salesforce environments without exploiting a single flaw in the platform.\n\nThe way in has been the trust the organization had already extended, usually through the OAuth connections that tie Salesforce to the apps and third-party vendors around it.\n\nIn&nbsp;",
+    "analysis": {
+      "issue": "Microsoft maps three Salesforce intrusion paths that abuse OAuth apps, vendor tokens, and guest access while ordinary sign-in monitoring stays quiet",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks",
     "link": "https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html",
     "published": "Mon, 13 Jul 2026 23:06:12 +0530",
@@ -109,75 +183,21 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots",
-    "link": "https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html",
-    "published": "Mon, 13 Jul 2026 17:07:05 +0530",
-    "summary": "A few days ago, I was sitting with the CISO of a Fortune 50 company, walking through how his security team was thinking about AI agents in the SOC. Smart team. Serious program. They had already connected Claude to a few detection tools and were seeing real value in specific investigations. But as we mapped out the broader architecture, something kept nagging at me. The design they were building",
+    "source": "Bleeping Computer",
+    "title": "US sanctions VPN, malware providers for enabling ransomware attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-vpn-malware-providers-linked-to-ransomware-gangs/",
+    "published": "Tue, 14 Jul 2026 05:40:13 -0400",
+    "summary": "The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) sanctioned two individuals and one entity for enabling ransomware attacks against U.S. organizations. [...]",
     "analysis": {
-      "issue": "Research on 25 million enterprise alerts finds 98% can be resolved autonomously, leaving less than 2% of SOC cases for human analyst review",
+      "issue": "Treasury Department's Office of Foreign Assets Control (OFAC) sanctioned two individuals and one entity for enabling ransomware attacks against U",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory",
-    "link": "https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html",
-    "published": "Mon, 13 Jul 2026 16:32:33 +0530",
-    "summary": "Cybersecurity researchers have flagged an intrusion in which an unknown threat actor leveraged a vibe-coded PowerShell script for Active Directory (AD) enumeration.\n\n\"The script looked for the Domain Controller (DC) and mapped users, computers, and domains, before creating a directory and exporting out a number of files, and finally creating AD_Report.html to measure the success of the",
-    "analysis": {
-      "issue": "A likely AI-generated PowerShell script mapped Active Directory after an attacker gained RDP access to a Windows Server with compromised credentials",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365",
-    "link": "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html",
-    "published": "Mon, 13 Jul 2026 13:00:00 +0530",
-    "summary": "An attacker running a live Microsoft 365 phishing operation left a Python web server listening on a public port with directory listing switched on. The command that did it:&nbsp;python3 -m http.server 8080, was still sitting in the readable&nbsp;.bash_history.\n\nFrom that one lapse, French security firm&nbsp;Lexfo&nbsp;lifted the operator's entire toolkit and pivoted through it to two more",
-    "analysis": {
-      "issue": "An exposed attack server led Lexfo to three Microsoft 365 phishing operations using Evilginx and device code abuse to capture sessions",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days",
-    "link": "https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html",
-    "published": "Mon, 13 Jul 2026 11:06:02 +0530",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two maximum-severity security flaws impacting iCagenda and Balbooa extensions for Joomla to its Known Exploited Vulnerabilities (KEV) catalog, following reports of zero-day exploitation in the wild.\n\nThe vulnerabilities, both rated 10.0 on the CVSS scoring system, are below -\n\n\n  CVE-2026-48939 - A vulnerability in the",
-    "analysis": {
-      "issue": "CISA adds exploited iCagenda and Balbooa Forms flaws to KEV after reported zero-day attacks enabled PHP uploads and remote code execution on sites",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
+        "Ransomware",
+        "Malware"
       ]
     }
   },
@@ -349,24 +369,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "OpenAI temporarily relaxes GPT-5.6 Sol usage limits",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/",
-    "published": "Sun, 12 Jul 2026 20:44:44 -0400",
-    "summary": "OpenAI is temporarily relaxing GPT-5.6 Sol usage after demand for the company's most powerful model surged over the past 48 hours. [...]",
-    "analysis": {
-      "issue": "OpenAI is temporarily relaxing GPT-5",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Lessons Learned from CISA’s Recent GitHub Leak",
     "link": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
@@ -492,9 +494,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-49160",
         "CVE-2026-50507",
-        "CVE-2026-45586",
-        "CVE-2026-49160"
+        "CVE-2026-45586"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -560,6 +562,62 @@
   },
   {
     "source": "Security Week",
+    "title": "Valarian Raises $50 Million for Sovereign Infrastructure Control Layer",
+    "link": "https://www.securityweek.com/valarian-raises-50-million-for-sovereign-infrastructure-control-layer/",
+    "published": "Tue, 14 Jul 2026 09:32:15 +0000",
+    "summary": "<p>UK-based cybersecurity firm Valarian has raised a total of $70 million for its ACRA technology.</p>\n<p>The post <a href=\"https://www.securityweek.com/valarian-raises-50-million-for-sovereign-infrastructure-control-layer/\">Valarian Raises $50 Million for Sovereign Infrastructure Control Layer</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "UK-based cybersecurity firm Valarian has raised a total of $70 million for its ACRA technology",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Multiple Jscrambler Packages Impacted by Supply Chain Attack",
+    "link": "https://www.securityweek.com/multiple-jscrambler-packages-impacted-by-supply-chain-attack/",
+    "published": "Tue, 14 Jul 2026 09:04:39 +0000",
+    "summary": "<p>A threat actor poisoned several Jscrambler NPM package versions to drop a cross-platform credential stealer.</p>\n<p>The post <a href=\"https://www.securityweek.com/multiple-jscrambler-packages-impacted-by-supply-chain-attack/\">Multiple Jscrambler Packages Impacted by Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "A threat actor poisoned several Jscrambler NPM package versions to drop a cross-platform credential stealer",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Pentagon Suspends CMMC Phase 2 as It Rethinks Contractor Cybersecurity Rules",
+    "link": "https://www.securityweek.com/pentagon-suspends-cmmc-phase-2-as-it-rethinks-contractor-cybersecurity-rules/",
+    "published": "Tue, 14 Jul 2026 06:37:50 +0000",
+    "summary": "<p>A new CMMC review and reform task force will conduct a comprehensive review of the program.</p>\n<p>The post <a href=\"https://www.securityweek.com/pentagon-suspends-cmmc-phase-2-as-it-rethinks-contractor-cybersecurity-rules/\">Pentagon Suspends CMMC Phase 2 as It Rethinks Contractor Cybersecurity Rules</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "A new CMMC review and reform task force will conduct a comprehensive review of the program",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Hacker Conversations: Jesse McGraw (GhostExodus), From Blackhat Hacker to Redemption",
     "link": "https://www.securityweek.com/hacker-conversations-jesse-mcgraw-ghostexodus-from-blackhat-hacker-to-redemption/",
     "published": "Mon, 13 Jul 2026 14:30:00 +0000",
@@ -609,7 +667,7 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-57221",
-        "CVE-2026-5721"
+        "CVE-2026-57219"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -697,62 +755,21 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Centers Laboratory Data Breach Affects 540,000 Individuals",
-    "link": "https://www.securityweek.com/centers-laboratory-data-breach-affects-540000-individuals/",
-    "published": "Mon, 13 Jul 2026 08:10:44 +0000",
-    "summary": "<p>The WorldLeaks extortion group claimed to have stolen 720 GB of data from the healthcare testing and laboratory services provider.</p>\n<p>The post <a href=\"https://www.securityweek.com/centers-laboratory-data-breach-affects-540000-individuals/\">Centers Laboratory Data Breach Affects 540,000 Individuals</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "source": "Talos Blog",
+    "title": "The serpent’s tongue: Luring the Python out of its den",
+    "link": "https://blog.talosintelligence.com/the-serpents-tongue-luring-the-python-out-of-its-den/",
+    "published": "Tue, 14 Jul 2026 10:00:06 GMT",
+    "summary": "This blog examines the full lifecycle of a Python package, from hosting on repositories such as PyPI or custom web servers, through source and wheel distribution formats, to the final installation into virtual or system-wide Python environments.",
     "analysis": {
-      "issue": "The WorldLeaks extortion group claimed to have stolen 720 GB of data from the healthcare testing and laboratory services provider",
+      "issue": "Due to the friendly nature of its syntax, extensive capabilities, and wide range of libraries, Python’s adoption by the developer community has been steadily increasing",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "High",
       "cves": [],
       "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Ghost Accounts Abuse GitHub API in Mass Recon Campaign",
-    "link": "https://www.securityweek.com/ghost-accounts-abuse-github-api-in-mass-recon-campaign/",
-    "published": "Sat, 11 Jul 2026 17:30:00 +0000",
-    "summary": "<p>Multiple campaigns are using ghost accounts to map GitHub organizations, including their repositories and members.</p>\n<p>The post <a href=\"https://www.securityweek.com/ghost-accounts-abuse-github-api-in-mass-recon-campaign/\">Ghost Accounts Abuse GitHub API in Mass Recon Campaign</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Multiple campaigns are using ghost accounts to map GitHub organizations, including their repositories and members",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "In Other News: DHS Database Hacked, Adobe Boosts Patch Cadence, Canada Disrupts Ransomware Ops",
-    "link": "https://www.securityweek.com/in-other-news-dhs-database-hacked-adobe-boosts-patch-cadence-canada-disrupts-ransomware-ops/",
-    "published": "Fri, 10 Jul 2026 15:01:19 +0000",
-    "summary": "<p>Other noteworthy stories that might have slipped under the radar: Abnormal AI sued by Anthropic, AssuranceAmerica data breach affects 7 million people, NSA brings back TAO.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-dhs-database-hacked-adobe-boosts-patch-cadence-canada-disrupts-ransomware-ops/\">In Other News: DHS Database Hacked, Adobe Boosts Patch Cadence, Canada Disrupts Ransomware Ops</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Other noteworthy stories that might have slipped under the radar: Abnormal AI sued by Anthropic, AssuranceAmerica data breach affects 7 million people, NSA brings back TAO",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Vulnerability",
-        "Malware"
+        "Malware",
+        "Supply Chain"
       ]
     }
   },
@@ -929,17 +946,17 @@
     }
   },
   {
-    "source": "Talos Blog",
-    "title": "Scripting the disassembler: Local agentic reverse engineering through vbdec’s live COM object model",
-    "link": "https://blog.talosintelligence.com/scripting-the-disassembler/",
-    "published": "Thu, 18 Jun 2026 10:00:05 GMT",
-    "summary": "Cisco Talos detailed a new approach to reverse engineering that pairs local AI agents with traditional analysis tools like the VB6 disassembler vbdec. Instead of awkwardly bolting AI onto the software, vbdec exposes its parsed data through a live COM interface.",
+    "source": "Recorded Future",
+    "title": "KlueセキュリティインシデントとRecorded Futureへの影響",
+    "link": "https://www.recordedfuture.com/blog/klue-security-incident-jp",
+    "published": "Mon, 13 Jul 2026 00:00:00 GMT",
+    "summary": "透明性は私たちの企業運営の根幹をなすものです。最近発生したサードパーティベンダーによるセキュリティインシデントに関する声明をご覧ください。調査結果および、お客様の情報を保護するために講じた対策について記載しております。",
     "analysis": {
-      "issue": "VB6 binaries are laid out as a complex file format with embedded metadata",
+      "issue": "透明性は私たちの企業運営の根幹をなすものです。最近発生したサードパーティベンダーによるセキュリティインシデントに関する声明をご覧ください。調査結果および、お客様の情報を保護するために講じた対策について記載しております。",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "High",
+      "severity": "Low",
       "cves": [],
       "threat_categories": [
         "General Security"
@@ -1087,24 +1104,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "The Klue Security Incident and Its Impact on Recorded Future",
-    "link": "https://www.recordedfuture.com/blog/klue-security-incident",
-    "published": "Thu, 18 Jun 2026 00:00:00 GMT",
-    "summary": "Transparency is core to how we operate. Read our statement on a recent third-party vendor security incident, including our findings and the actions we've taken to protect customer information.",
-    "analysis": {
-      "issue": "Transparency is core to how we operate",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
       ]
     }
   },
@@ -1324,6 +1323,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "The inside job that cost ransomware victims millions",
+    "link": "https://www.malwarebytes.com/blog/news/2026/07/the-inside-job-that-cost-ransomware-victims-millions",
+    "published": "Tue, 14 Jul 2026 09:26:51 GMT",
+    "summary": "Instead of helping victims negotiate with BlackCat, a trusted ransomware negotiator secretly helped the gang extort them.",
+    "analysis": {
+      "issue": "When a ransomware crew locks up your servers, the outside negotiator you hire has to know everything about you so that they can negotiate a smaller ransom payment",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Trusting your kids online isn&#8217;t enough (Lock and Code S07E14)",
     "link": "https://www.malwarebytes.com/blog/podcast/2026/07/trusting-your-kids-online-isnt-enough-lock-and-code-s07e14",
     "published": "Mon, 13 Jul 2026 14:33:41 GMT",
@@ -1485,27 +1502,6 @@
         "Ransomware",
         "Data Breach",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Microsoft fixes RoguePlanet zero-day in Defender",
-    "link": "https://www.malwarebytes.com/blog/news/2026/07/microsoft-fixes-rogueplanet-zero-day-in-defender",
-    "published": "Thu, 09 Jul 2026 11:38:12 GMT",
-    "summary": "The RoguePlanet zero-day is now fixed in Microsoft Defender. Here's how to make sure your system is protected.",
-    "analysis": {
-      "issue": "Microsoft issued a security update that fixes the zero-day vulnerability known as RoguePlanet in Microsoft Defender",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-50656"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
       ]
     }
   },
