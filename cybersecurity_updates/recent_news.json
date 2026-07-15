@@ -1,6 +1,43 @@
 [
   {
     "source": "The Hacker News",
+    "title": "OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps",
+    "link": "https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html",
+    "published": "Wed, 15 Jul 2026 21:00:30 +0530",
+    "summary": "A malware framework called OkoBot has been running on Windows machines since April 2025, and one of its modules is built to con hardware wallet owners out of their recovery phrase.\n\nOn an infected PC, the request comes from inside the wallet's own desktop software. Sometimes it waits until you plug the device in first. The page is malicious. The app around it is the real one you installed, and",
+    "analysis": {
+      "issue": "OkoBot injects recovery phrase lures into Ledger and Trezor apps, targeting hundreds of Windows users across more than 25 countries",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
+    "link": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html",
+    "published": "Wed, 15 Jul 2026 18:48:53 +0530",
+    "summary": "Mozilla has released updates to address two critical flaws in Firefox for which it warned that exploit code has been published.\n\nThe vulnerabilities are listed below -\n\n\n  CVE-2026-15718, an invalid pointer in the JavaScript: WebAssembly component\n  CVE-2026-15719, a site isolation in the DOM: Navigation component\n\n\"We are aware that exploit code for this is public, however we are not aware of",
+    "analysis": {
+      "issue": "Mozilla fixes two critical Firefox flaws with public exploit code as Google, Adobe, and Broadcom patch Chrome, ColdFusion, and VMware security bugs",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "SASE Has An AI Blind Spot. Inspecting Packets Is No Longer Enough.",
     "link": "https://thehackernews.com/2026/07/sase-has-ai-blind-spot-inspecting.html",
     "published": "Wed, 15 Jul 2026 17:20:01 +0530",
@@ -144,38 +181,39 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads",
-    "link": "https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html",
-    "published": "Tue, 14 Jul 2026 22:57:23 +0530",
-    "summary": "Any other browser extension that can run a script on claude.ai can still trigger Claude for Chrome tasks aimed at your Gmail, your latest Google Doc and its comments, and your Calendar.\n\nBoth this and ClaudeBleed need a rogue extension that can already run a script on claude.ai; the difference is scope. Anthropic restricted the arbitrary-prompt path in May as part of its response to the&nbsp;",
+    "source": "Bleeping Computer",
+    "title": "​    ​AsyncAPI npm packages infected with credential-stealing malware",
+    "link": "https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/",
+    "published": "Wed, 15 Jul 2026 11:37:27 -0400",
+    "summary": "Five malicious versions of AsyncAPI packages were published to the Node Package Manager (npm) in a supply-chain attack that delivered a remote access trojan with info-stealing capabilities. [...]",
     "analysis": {
-      "issue": "80 still accepts forged clicks from other extensions, triggering Gmail, Docs, and Calendar tasks silently in hands-off mode",
+      "issue": "Five malicious versions of AsyncAPI packages were published to the Node Package Manager (npm) in a supply-chain attack that delivered a remote access trojan with info-stealing capabilities",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Vulnerability",
+        "Malware"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts",
-    "link": "https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html",
-    "published": "Tue, 14 Jul 2026 22:22:37 +0530",
-    "summary": "Cybersecurity researchers have flagged a previously undocumented Rust-based remote access trojan (RAT) codenamed LabubaRAT that masquerades as NVIDIA software to blend into target environments.\n\n\"LabubaRAT creates a reusable foothold for hands-on activity,\" Blackpoint Cyber researchers Sam Decker and Nevan Beal said in an analysis published today. \"Once deployed, it can profile the host,",
+    "source": "Bleeping Computer",
+    "title": "We built a vulnerability vending machine: AI tokens in, zero-days out",
+    "link": "https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/",
+    "published": "Wed, 15 Jul 2026 10:01:11 -0400",
+    "summary": "Intruder built an AI-powered \"vulnerability vending machine\" that combines code slicing with LLMs to automatically discover complex software vulnerabilities. The company explains how the system found and exploited a previously unknown WordPress plugin zero-day, with additional discoveries already under responsible disclosure. [...]",
     "analysis": {
-      "issue": "LabubaRAT poses as NVIDIA software, profiles security tools, and uses HTTPS, WebView2, or DNS tunneling to maintain remote access on Windows hosts",
+      "issue": "AI is changing how vulnerability research gets done, but most of the conversation is still theoretical: what a model might eventually be capable of, rather than what it can actually find today",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Vulnerability"
       ]
     }
   },
@@ -192,11 +230,11 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-32201",
+        "CVE-2026-56164",
         "CVE-2026-55040",
         "CVE-2026-58644",
-        "CVE-2026-56164",
-        "CVE-2026-45659"
+        "CVE-2026-45659",
+        "CVE-2026-32201"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -304,9 +342,9 @@
     "title": "Microsoft releases Windows 10 KB5099539 extended security update",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5099539-extended-security-update/",
     "published": "Tue, 14 Jul 2026 14:49:28 -0400",
-    "summary": "Microsoft has released the Windows 10 KB5099539 extended security update, which includes the July 2026 Patch Tuesday security updates for 570 vulnerabilities, along with additional security fixes. [...]",
+    "summary": "Microsoft has released the Windows 10 KB5099539 extended security update, which includes this month's record-breaking July 2026 Patch Tuesday fixes, along with additional security improvements. [...]",
     "analysis": {
-      "issue": "Microsoft has released the Windows 10 KB5099539 extended security update, which includes the July 2026 Patch Tuesday security updates for 570 vulnerabilities, along with additional security fixes",
+      "issue": "Microsoft has released the Windows 10 KB5099539 extended security update, which includes this month's record-breaking July 2026 Patch Tuesday fixes, along with additional security improvements",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -336,42 +374,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Windows 11 KB5101650 & KB5099414 cumulative updates released",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101650-and-kb5099414-cumulative-updates-released/",
-    "published": "Tue, 14 Jul 2026 13:41:16 -0400",
-    "summary": "Microsoft has released Windows 11's June 2026 Update for version 25H2, 24H2, and 23H2, bringing fixes for over 570 security issues. [...]",
-    "analysis": {
-      "issue": "Microsoft has released Windows 11 KB5101650 and KB5099414 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown",
-    "link": "https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/",
-    "published": "Tue, 14 Jul 2026 12:08:47 -0400",
-    "summary": "Progress Software has confirmed that a high-severity zero-day vulnerability is behind the emergency shutdown of ShareFile Storage Zone Controllers last week and has released security updates to patch the flaw. [...]",
-    "analysis": {
-      "issue": "Progress Software has confirmed that a high-severity zero-day vulnerability is behind the emergency shutdown of ShareFile Storage Zone Controllers last week and has released security updates to patch the flaw",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Microsoft Patches a Record 570 Security Flaws",
     "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
@@ -385,9 +387,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-48561",
-        "CVE-2026-56155",
+        "CVE-2026-56164",
         "CVE-2026-50661",
-        "CVE-2026-56164"
+        "CVE-2026-56155"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -521,9 +523,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-49160",
         "CVE-2026-50507",
-        "CVE-2026-45586",
-        "CVE-2026-49160"
+        "CVE-2026-45586"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -566,6 +568,50 @@
         "Data Breach",
         "APT",
         "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Unpatched Cursor Vulnerability Exposes Users to Code Execution",
+    "link": "https://www.securityweek.com/unpatched-cursor-vulnerability-exposes-users-to-code-execution/",
+    "published": "Wed, 15 Jul 2026 14:37:13 +0000",
+    "summary": "<p>An attacker can create a malicious repository containing a git.exe in the project root, and Cursor executes it automatically.</p>\n<p>The post <a href=\"https://www.securityweek.com/unpatched-cursor-vulnerability-exposes-users-to-code-execution/\">Unpatched Cursor Vulnerability Exposes Users to Code Execution</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "An attacker can create a malicious repository containing a git",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "CISA Urges Immediate Patching of Exploited SharePoint Vulnerabilities",
+    "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-sharepoint-vulnerabilities/",
+    "published": "Wed, 15 Jul 2026 14:07:44 +0000",
+    "summary": "<p>Three vulnerabilities are actively exploited in attacks, including two that have been targeted as zero-days.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-sharepoint-vulnerabilities/\">CISA Urges Immediate Patching of Exploited SharePoint Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Three vulnerabilities are actively exploited in attacks, including two that have been targeted as zero-days",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-56164",
+        "CVE-2026-55040",
+        "CVE-2026-58644",
+        "CVE-2026-45659",
+        "CVE-2026-32201"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
       ]
     }
   },
@@ -641,9 +687,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-14903",
         "CVE-2026-6875",
-        "CVE-2026-14902",
-        "CVE-2026-14903"
+        "CVE-2026-14902"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -719,61 +765,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-15718",
-        "CVE-2026-15764",
         "CVE-2026-15719",
-        "CVE-2026-15765"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "SonicWall Issues Urgent SMA Patch Warning for Two Zero-Day Exploits",
-    "link": "https://www.securityweek.com/sonicwall-issues-urgent-sma-patch-warning-for-two-zero-day-exploits/",
-    "published": "Wed, 15 Jul 2026 05:19:42 +0000",
-    "summary": "<p>SonicWall SMA1000 zero-day vulnerabilities CVE-2026-15409 and CVE-2026-15410 can be exploited for remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/sonicwall-issues-urgent-sma-patch-warning-for-two-zero-day-exploits/\">SonicWall Issues Urgent SMA Patch Warning for Two Zero-Day Exploits</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "SonicWall SMA1000 zero-day vulnerabilities CVE-2026-15409 and CVE-2026-15410 can be exploited for remote code execution",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-15410",
-        "CVE-2026-15409"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Microsoft Patches Record 622 Vulnerabilities, Including Two Exploited Zero-Days",
-    "link": "https://www.securityweek.com/microsoft-patches-record-622-vulnerabilities-including-two-exploited-zero-days/",
-    "published": "Tue, 14 Jul 2026 18:50:20 +0000",
-    "summary": "<p>Two flaws in Active Directory and SharePoint Server have been exploited as zero-days, and a BitLocker bug was publicly disclosed.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-patches-record-622-vulnerabilities-including-two-exploited-zero-days/\">Microsoft Patches Record 622 Vulnerabilities, Including Two Exploited Zero-Days</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Two flaws in Active Directory and SharePoint Server have been exploited as zero-days, and a BitLocker bug was publicly disclosed",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-56155",
-        "CVE-2026-57092",
-        "CVE-2026-56190",
-        "CVE-2026-50661",
-        "CVE-2026-55008",
-        "CVE-2026-56164",
-        "CVE-2026-55010",
-        "CVE-2026-50518",
-        "CVE-2026-56188",
-        "CVE-2026-50522"
+        "CVE-2026-15718",
+        "CVE-2026-15765",
+        "CVE-2026-15764"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -785,42 +780,42 @@
     "title": "Microsoft Patch Tuesday for July 2026 — Snort rules and prominent vulnerabilities",
     "link": "https://blog.talosintelligence.com/microsoft-patch-tuesday-july-2026/",
     "published": "Tue, 14 Jul 2026 20:27:33 GMT",
-    "summary": "<p>Microsoft has released its monthly security update for July 2026, which includes 622 vulnerabilities affecting a range of products, including 57 that Microsoft marked as &quot;critical&quot;.</p><p>Microsoft notes that two of the vulnerabilities disclosed this month have been exploited in the wild.</p><p><a href=\"https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-56155\">CVE-2026-56155</a> is an important-</p>",
+    "summary": "Microsoft has released its monthly security update for July 2026, which includes 622 vulnerabilities affecting a range of products, including 57 that Microsoft marked as \"critical.\"",
     "analysis": {
-      "issue": "Microsoft has released its monthly security update for July 2026, which includes 622 vulnerabilities affecting a range of products, including 57 that Microsoft marked as \"critical\"",
+      "issue": "Microsoft has released its monthly security update for July 2026, which includes 622 vulnerabilities affecting a range of products, including 57 that Microsoft marked as \"critical",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-58644",
-        "CVE-2026-55123",
-        "CVE-2026-50522",
         "CVE-2026-54992",
-        "CVE-2026-55045",
-        "CVE-2026-55944",
-        "CVE-2026-56155",
-        "CVE-2026-50370",
-        "CVE-2026-55010",
-        "CVE-2026-56164",
-        "CVE-2026-50467",
-        "CVE-2026-55129",
-        "CVE-2026-50655",
-        "CVE-2026-55049",
-        "CVE-2026-55018",
-        "CVE-2026-54128",
-        "CVE-2026-50314",
-        "CVE-2026-55132",
-        "CVE-2026-55120",
-        "CVE-2026-55140",
         "CVE-2026-55127",
+        "CVE-2026-55010",
+        "CVE-2026-50314",
         "CVE-2026-55043",
         "CVE-2026-55022",
-        "CVE-2026-55056",
         "CVE-2026-50518",
+        "CVE-2026-55018",
+        "CVE-2026-55944",
+        "CVE-2026-50467",
+        "CVE-2026-50327",
+        "CVE-2026-54128",
+        "CVE-2026-55056",
         "CVE-2026-56188",
+        "CVE-2026-55123",
+        "CVE-2026-50370",
+        "CVE-2026-56164",
+        "CVE-2026-55120",
+        "CVE-2026-50655",
+        "CVE-2026-56155",
+        "CVE-2026-55045",
+        "CVE-2026-58644",
+        "CVE-2026-55140",
+        "CVE-2026-50522",
+        "CVE-2026-55049",
+        "CVE-2026-55129",
         "CVE-2026-55033",
-        "CVE-2026-50327"
+        "CVE-2026-55132"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -879,9 +874,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-33091",
+        "CVE-2026-25106",
         "CVE-2026-28739",
-        "CVE-2026-25106"
+        "CVE-2026-33091"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1004,6 +999,24 @@
   },
   {
     "source": "Recorded Future",
+    "title": "The Shift: A New Era of AI Regulation",
+    "link": "https://www.recordedfuture.com/blog/the-shift-new-era-ai",
+    "published": "Wed, 15 Jul 2026 00:00:00 GMT",
+    "summary": "Explore how recent US export controls on frontier AI models like Anthropic's Fable signal a new era of regulatory uncertainty. Learn how security leaders can build resilient AI strategies by treating frontier models as volatile assets rather than stable technology",
+    "analysis": {
+      "issue": "Explore how recent US export controls on frontier AI models like Anthropic's Fable signal a new era of regulatory uncertainty",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
     "title": "The FBI Warned About Fake Permit Fees. The Harder Question Is Where the Money Goes. | Recorded Future",
     "link": "https://www.recordedfuture.com/blog/fbi-fake-permit-fees",
     "published": "Tue, 14 Jul 2026 00:00:00 GMT",
@@ -1076,6 +1089,24 @@
   },
   {
     "source": "Recorded Future",
+    "title": "Recorded FutureがGartner® サイバー脅威インテリジェンス・テクノロジー部門のMagic Quadrant™のリーダーの１社に位置づけられました。",
+    "link": "https://www.recordedfuture.com/blog/gartner-mq-announcement-jp",
+    "published": "Thu, 02 Jul 2026 00:00:00 GMT",
+    "summary": "Gartnerがサイバー脅威インテリジェンスのマジック・クアドラントのリーダーの１社と評価 — 能動的サイバー防御法施行を前に、日本企業が今すべきこと",
+    "analysis": {
+      "issue": "Gartnerがサイバー脅威インテリジェンスのマジック・クアドラントのリーダーの１社と評価 — 能動的サイバー防御法施行を前に、日本企業が今すべきこと",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
     "title": "Iran-Nexus TAG-182 Disseminates MarkiRAT Surveillance Tool",
     "link": "https://www.recordedfuture.com/research/nexus-tag182-disseminates-markirat",
     "published": "Wed, 01 Jul 2026 00:00:00 GMT",
@@ -1136,42 +1167,6 @@
     "summary": "A dataset containing valid administrative and VPN credentials for tens of thousands of Fortinet FortiGate firewalls.",
     "analysis": {
       "issue": "A dataset containing valid administrative and VPN credentials for tens of thousands of Fortinet FortiGate firewalls",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "The Purchase Scam Tactic Headed  for the World Cup | Recorded Future",
-    "link": "https://www.recordedfuture.com/blog/world-cup-purchase-scam-tactics",
-    "published": "Tue, 23 Jun 2026 00:00:00 GMT",
-    "summary": "A purchase scam tactic hijacks organic search through compromised sites, and it’s built to scale into 2026 FIFA World Cup fraud. How it works and how to respond.",
-    "analysis": {
-      "issue": "A purchase scam tactic hijacks organic search through compromised sites, and it’s built to scale into 2026 FIFA World Cup fraud",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "State Digital Surveillance Risk Landscape",
-    "link": "https://www.recordedfuture.com/research/state-digital-surveillance-risk-landscape",
-    "published": "Wed, 17 Jun 2026 00:00:00 GMT",
-    "summary": "Explore the state digital surveillance risk landscape. Learn how governments use spyware, AI, and network interception to monitor travelers and how to mitigate these risks.",
-    "analysis": {
-      "issue": "Explore the state digital surveillance risk landscape",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1349,8 +1344,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1375,6 +1370,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Claude for Chrome flaw could let rogue extensions access your Gmail",
+    "link": "https://www.malwarebytes.com/blog/news/2026/07/claude-for-chrome-flaw-could-let-rogue-extensions-access-your-gmail",
+    "published": "Wed, 15 Jul 2026 14:25:53 GMT",
+    "summary": "The ClaudeBleed vulnerability still lets malicious Chrome extensions abuse Claude for Chrome's permissions.",
+    "analysis": {
+      "issue": "First reported in May, ClaudeBleed is basically a “fake remote control” problem",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1540,24 +1553,6 @@
         "Ransomware",
         "Malware",
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "How mule betting scams recruit ordinary people",
-    "link": "https://www.malwarebytes.com/blog/scams/2026/07/how-mule-betting-scams-recruit-ordinary-people",
-    "published": "Fri, 10 Jul 2026 11:02:40 GMT",
-    "summary": "Easy-money offers to open a gambling account could make you part of a money laundering operation. Here's how to spot a mule betting scam.",
-    "analysis": {
-      "issue": "Mule betting or third-party betting account scams are a form of money mule scam where criminals recruit or coerce people into opening gambling accounts in their own name",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
       ]
     }
   },
