@@ -1,6 +1,78 @@
 [
   {
     "source": "The Hacker News",
+    "title": "SASE Has An AI Blind Spot. Inspecting Packets Is No Longer Enough.",
+    "link": "https://thehackernews.com/2026/07/sase-has-ai-blind-spot-inspecting.html",
+    "published": "Wed, 15 Jul 2026 17:20:01 +0530",
+    "summary": "For years, routing traffic through cloud proxies was good enough. Then work moved to the browser, AI entered the workflow, and the inspection model stopped keeping up.\n\nEnterprise workflows now live across SaaS applications, browsers, and an expanding ecosystem of generative AI tools, unsanctioned browser extensions, and autonomous agents. Employees routinely paste intellectual property into",
+    "analysis": {
+      "issue": "Modern SASE shifts enforcement to browsers and endpoints as AI workflows, TLS 1",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday",
+    "link": "https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html",
+    "published": "Wed, 15 Jul 2026 16:37:07 +0530",
+    "summary": "Security researcher Chaotic Eclipse (aka Nightmare-Eclipse) has released a new proof-of-concept (PoC) exploit called LegacyHive.\n\nIt has been described as a Windows User Profile Service arbitrary hive load elevation of privileges vulnerability. The Windows User Profile Service, also referred to as ProfSvc, is a core system component that manages user accounts and environments.\n\n\"The PoC requires",
+    "analysis": {
+      "issue": "LegacyHive is a PoC for a Windows ProfSvc privilege escalation flaw that works after the July 2026 update, but the public build needs extra credential",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "New Webinar: Closing the Approval Gap in AI-Era Ad Tech",
+    "link": "https://thehackernews.com/2026/07/new-webinar-closing-approval-gap-in-ai.html",
+    "published": "Wed, 15 Jul 2026 16:36:57 +0530",
+    "summary": "A single approved marketing tag can quietly load fourth-party code your security team has never seen, granting full access to your forms, customer data, and checkout pages.\n\nThis on-demand webinar reveals how this Approval Gap forms, and gives your team the blueprint to close it before an auditor, regulator, or attacker finds it first.\n\nThe Reality of the Approval Gap\n\nIt's a pattern every",
+    "analysis": {
+      "issue": "Approved marketing tags can load unvetted fourth-party scripts with access to forms, checkout fields, and customer data after the initial review",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Cursor Flaw Lets Malicious Cloned Repositories Trigger Windows Code Execution",
+    "link": "https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html",
+    "published": "Wed, 15 Jul 2026 16:25:22 +0530",
+    "summary": "Open a repository in Cursor&nbsp;on Windows and, if a file named&nbsp;git.exe&nbsp;is sitting in the project root, Cursor runs it. No click, no approval dialog, no warning that anything in the folder is about to execute.\n\nWhatever that binary does, it does as you, with your source, your SSH keys and your cloud tokens. Cursor keeps re-running it for as long as the project stays open.\n\nNo prompt",
+    "analysis": {
+      "issue": "exe when a Windows project opens, enabling code execution as the user",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Compromised AsyncAPI npm Packages Deliver Multi-Stage Botnet Malware",
     "link": "https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html",
     "published": "Wed, 15 Jul 2026 14:46:13 +0530",
@@ -108,78 +180,6 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata",
-    "link": "https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html",
-    "published": "Tue, 14 Jul 2026 19:18:07 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of two access control-related flaws impacting the RabbitMQ message broker service that could allow attackers to leak OAuth client secrets, expose enterprise messaging infrastructure to takeover risks, and bypass tenant boundaries.\n\nMiggo's security team, which discovered and reported the flaws, said one \"leaks the broker's confidential OAuth",
-    "analysis": {
-      "issue": "Two RabbitMQ flaws can expose OAuth secrets or queue metadata, with one potentially enabling full broker takeover in affected configurations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot",
-    "link": "https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html",
-    "published": "Tue, 14 Jul 2026 18:16:18 +0530",
-    "summary": "Cybersecurity researchers have discovered 11 old, Microsoft-signed, Unified Extensible Firmware Interface (UEFI) applications that could be abused to bypass Secure Boot on most systems using the modern firmware standard.\n\n\"An attacker exploiting one of these vulnerable applications can execute untrusted code during system boot, enabling deployment of malicious UEFI bootkits or other malware,\"",
-    "analysis": {
-      "issue": "Eleven old Microsoft-signed UEFI shims could let admin-level attackers bypass Secure Boot and run code before the operating system loads",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks",
-    "link": "https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html",
-    "published": "Tue, 14 Jul 2026 17:25:00 +0530",
-    "summary": "Researchers at KU Leuven tested 85 of the most popular crypto wallets that run as browser extensions and found that the wallets themselves leak enough to link and track the people using them.\n\nThe way these wallets talk to websites and blockchain servers can tie a person's separate addresses together and let outsiders follow them from site to site. And on a site that already holds a name or",
-    "analysis": {
-      "issue": "Researchers found built-in privacy leaks in 85 browser wallets that can link addresses, survive logout, and expose users across unrelated sites",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "How Pentera Turns AI Security Workflows into Validation Engines",
-    "link": "https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html",
-    "published": "Tue, 14 Jul 2026 17:00:00 +0530",
-    "summary": "AI security agents are starting to influence real security decisions. They summarize findings, prioritize remediation, recommend next steps, and help teams move faster. But most still rely on fragmented risk signals: scanner output, severity scores, threat intelligence, configuration findings, and exposure data.\n\nThat fragmentation matters because attackers do not move through environments one",
-    "analysis": {
-      "issue": "Pentera’s MCP Server gives AI assistants access to validated attack paths, helping teams prioritize exploitable risks and verify remediation",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
     "title": "CISA warns admins to patch actively exploited SharePoint flaws",
     "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/",
@@ -192,11 +192,11 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-55040",
-        "CVE-2026-56164",
         "CVE-2026-32201",
-        "CVE-2026-45659",
-        "CVE-2026-58644"
+        "CVE-2026-55040",
+        "CVE-2026-58644",
+        "CVE-2026-56164",
+        "CVE-2026-45659"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -255,8 +255,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-15409",
-        "CVE-2026-15410"
+        "CVE-2026-15410",
+        "CVE-2026-15409"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -384,10 +384,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56164",
-        "CVE-2026-56155",
         "CVE-2026-48561",
-        "CVE-2026-50661"
+        "CVE-2026-56155",
+        "CVE-2026-50661",
+        "CVE-2026-56164"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -522,8 +522,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-50507",
-        "CVE-2026-49160",
-        "CVE-2026-45586"
+        "CVE-2026-45586",
+        "CVE-2026-49160"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -566,6 +566,87 @@
         "Data Breach",
         "APT",
         "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Windows Bind Link Attacks Can Hide Malware From EDR Tools",
+    "link": "https://www.securityweek.com/windows-bind-link-attacks-can-hide-malware-from-edr-tools/",
+    "published": "Wed, 15 Jul 2026 13:00:00 +0000",
+    "summary": "<p>Bitdefender researchers show how Windows bind links can create conflicting filesystem views to hide malware from endpoint security products.</p>\n<p>The post <a href=\"https://www.securityweek.com/windows-bind-link-attacks-can-hide-malware-from-edr-tools/\">Windows Bind Link Attacks Can Hide Malware From EDR Tools</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Bitdefender researchers show how Windows bind links can create conflicting filesystem views to hide malware from endpoint security products",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Virtual Event Today: Cloud & Data Security Summit",
+    "link": "https://www.securityweek.com/virtual-event-today-cloud-data-security-summit/",
+    "published": "Wed, 15 Jul 2026 12:52:10 +0000",
+    "summary": "<p>Attendees will be able to interact with leading solution providers and other end users facing similar challenges in securing a variety of cloud deployments.</p>\n<p>The post <a href=\"https://www.securityweek.com/virtual-event-today-cloud-data-security-summit/\">Virtual Event Today: Cloud &amp; Data Security Summit</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Attendees will be able to interact with leading solution providers and other end users facing similar challenges in securing a variety of cloud deployments",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "US Charges Russian Individuals and Firms for Running Cybercrime Services",
+    "link": "https://www.securityweek.com/us-charges-russian-individuals-and-firms-for-running-cybercrime-services/",
+    "published": "Wed, 15 Jul 2026 11:58:05 +0000",
+    "summary": "<p>The suspects and their companies were previously sanctioned by the United States and its allies.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-charges-russian-individuals-and-firms-for-running-cybercrime-services/\">US Charges Russian Individuals and Firms for Running Cybercrime Services</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The suspects and their companies were previously sanctioned by the United States and its allies",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Phishing",
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Vulnerabilities Patched by Fortinet, Ivanti, ServiceNow",
+    "link": "https://www.securityweek.com/vulnerabilities-patched-by-fortinet-ivanti-servicenow/",
+    "published": "Wed, 15 Jul 2026 11:02:57 +0000",
+    "summary": "<p>A critical security defect in the ServiceNow AI platform could allow remote attackers to execute arbitrary code.</p>\n<p>The post <a href=\"https://www.securityweek.com/vulnerabilities-patched-by-fortinet-ivanti-servicenow/\">Vulnerabilities Patched by Fortinet, Ivanti, ServiceNow</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "A critical security defect in the ServiceNow AI platform could allow remote attackers to execute arbitrary code",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-6875",
+        "CVE-2026-14902",
+        "CVE-2026-14903"
+      ],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -661,8 +742,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-15409",
-        "CVE-2026-15410"
+        "CVE-2026-15410",
+        "CVE-2026-15409"
       ],
       "threat_categories": [
         "Ransomware",
@@ -683,116 +764,19 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56188",
-        "CVE-2026-55010",
-        "CVE-2026-55008",
+        "CVE-2026-56155",
         "CVE-2026-57092",
         "CVE-2026-56190",
         "CVE-2026-50661",
+        "CVE-2026-55008",
         "CVE-2026-56164",
-        "CVE-2026-50522",
+        "CVE-2026-55010",
         "CVE-2026-50518",
-        "CVE-2026-56155"
+        "CVE-2026-56188",
+        "CVE-2026-50522"
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Synopsys Finds No Evidence of Data Breach Amid Bosch Hack Claims",
-    "link": "https://www.securityweek.com/synopsys-finds-no-evidence-of-data-breach-following-bosch-hack-claims/",
-    "published": "Tue, 14 Jul 2026 18:18:45 +0000",
-    "summary": "<p>The D1R cybercrime group claimed to have stolen valuable data from Synopsys and Bosch, threatening to leak it unless a ransom is paid. </p>\n<p>The post <a href=\"https://www.securityweek.com/synopsys-finds-no-evidence-of-data-breach-following-bosch-hack-claims/\">Synopsys Finds No Evidence of Data Breach Amid Bosch Hack Claims</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The D1R cybercrime group claimed to have stolen valuable data from Synopsys and Bosch, threatening to leak it unless a ransom is paid",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Adobe Patches Critical ColdFusion Vulnerabilities",
-    "link": "https://www.securityweek.com/adobe-patches-critical-coldfusion-vulnerabilities/",
-    "published": "Tue, 14 Jul 2026 17:06:35 +0000",
-    "summary": "<p>The ColdFusion security defects could allow attackers to execute arbitrary code or elevate their privileges.</p>\n<p>The post <a href=\"https://www.securityweek.com/adobe-patches-critical-coldfusion-vulnerabilities/\">Adobe Patches Critical ColdFusion Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The ColdFusion security defects could allow attackers to execute arbitrary code or elevate their privileges",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-48318",
-        "CVE-2026-48284",
-        "CVE-2026-48334",
-        "CVE-2026-48325",
-        "CVE-2026-48358",
-        "CVE-2026-48322",
-        "CVE-2026-48327",
-        "CVE-2026-48356",
-        "CVE-2026-48324",
-        "CVE-2026-48359",
-        "CVE-2026-48319",
-        "CVE-2026-48321",
-        "CVE-2026-48259"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "7 Severe Vulnerabilities Patched in VMware Avi Load Balancer",
-    "link": "https://www.securityweek.com/7-severe-vulnerabilities-patched-in-vmware-avi-load-balancer/",
-    "published": "Tue, 14 Jul 2026 13:55:41 +0000",
-    "summary": "<p>The flaws can be exploited for authentication bypass, remote code execution, privilege escalation, and directory traversal.</p>\n<p>The post <a href=\"https://www.securityweek.com/7-severe-vulnerabilities-patched-in-vmware-avi-load-balancer/\">7 Severe Vulnerabilities Patched in VMware Avi Load Balancer</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The flaws can be exploited for authentication bypass, remote code execution, privilege escalation, and directory traversal",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-47871",
-        "CVE-2026-47870",
-        "CVE-2026-47867",
-        "CVE-2026-47865",
-        "CVE-2026-47868",
-        "CVE-2026-47869",
-        "CVE-2026-47866"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Unpatched Claude for Chrome Flaw Lets Extensions Read Gmail, Calendar",
-    "link": "https://www.securityweek.com/unpatched-claude-for-chrome-flaw-lets-extensions-read-gmail-calendar/",
-    "published": "Tue, 14 Jul 2026 13:00:00 +0000",
-    "summary": "<p>A ClaudeBleed-linked vulnerability reportedly persists across eight patches, exposing potentially sensitive data to other extensions. </p>\n<p>The post <a href=\"https://www.securityweek.com/unpatched-claude-for-chrome-flaw-lets-extensions-read-gmail-calendar/\">Unpatched Claude for Chrome Flaw Lets Extensions Read Gmail, Calendar</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "A ClaudeBleed-linked vulnerability reportedly persists across eight patches, exposing potentially sensitive data to other extensions",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
       ]
     }
   },
@@ -809,34 +793,34 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56188",
-        "CVE-2026-55049",
-        "CVE-2026-50327",
+        "CVE-2026-58644",
+        "CVE-2026-55123",
+        "CVE-2026-50522",
         "CVE-2026-54992",
-        "CVE-2026-55056",
+        "CVE-2026-55045",
+        "CVE-2026-55944",
+        "CVE-2026-56155",
+        "CVE-2026-50370",
+        "CVE-2026-55010",
+        "CVE-2026-56164",
+        "CVE-2026-50467",
+        "CVE-2026-55129",
+        "CVE-2026-50655",
+        "CVE-2026-55049",
+        "CVE-2026-55018",
         "CVE-2026-54128",
         "CVE-2026-50314",
-        "CVE-2026-55045",
-        "CVE-2026-50655",
-        "CVE-2026-55022",
-        "CVE-2026-56155",
-        "CVE-2026-55120",
-        "CVE-2026-55129",
-        "CVE-2026-50370",
-        "CVE-2026-56164",
-        "CVE-2026-58644",
-        "CVE-2026-50522",
-        "CVE-2026-55010",
-        "CVE-2026-50467",
-        "CVE-2026-50518",
         "CVE-2026-55132",
+        "CVE-2026-55120",
+        "CVE-2026-55140",
         "CVE-2026-55127",
-        "CVE-2026-55123",
-        "CVE-2026-55018",
-        "CVE-2026-55944",
-        "CVE-2026-55033",
         "CVE-2026-55043",
-        "CVE-2026-55140"
+        "CVE-2026-55022",
+        "CVE-2026-55056",
+        "CVE-2026-50518",
+        "CVE-2026-56188",
+        "CVE-2026-55033",
+        "CVE-2026-50327"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -896,8 +880,8 @@
       "severity": "Low",
       "cves": [
         "CVE-2026-33091",
-        "CVE-2026-25106",
-        "CVE-2026-28739"
+        "CVE-2026-28739",
+        "CVE-2026-25106"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1365,8 +1349,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1389,6 +1373,24 @@
       "cves": [
         "CVE-2022-2856"
       ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "July 2026 Patch Tuesday fixes 622 Microsoft CVEs, including three zero-days",
+    "link": "https://www.malwarebytes.com/blog/bugs/2026/07/july-2026-patch-tuesday-fixes-622-microsoft-cves-including-three-zero-days",
+    "published": "Wed, 15 Jul 2026 12:21:11 GMT",
+    "summary": "Microsoft's July 2026 Patch Tuesday sets yet another record, fixing 622 Microsoft CVEs—three times as many as last month.",
+    "analysis": {
+      "issue": "Just one month ago, June 2026 Patch Tuesday broke Microsoft’s previous record with 206 CVEs and three zero‑days",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
       "threat_categories": [
         "Vulnerability"
       ]
@@ -1556,24 +1558,6 @@
       "cves": [],
       "threat_categories": [
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Two Chrome updates in two days fix critical vulnerabilities",
-    "link": "https://www.malwarebytes.com/blog/news/2026/07/two-chrome-updates-in-two-days-fix-critical-vulnerabilities",
-    "published": "Fri, 10 Jul 2026 10:32:54 GMT",
-    "summary": "Chrome updates are arriving within days of each other. Learn how to update Chrome and check if you're running the latest version.",
-    "analysis": {
-      "issue": "Updating Chrome is becoming an almost daily task lately",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
