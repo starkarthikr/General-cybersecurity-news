@@ -1,6 +1,60 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack",
+    "link": "https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html",
+    "published": "Wed, 15 Jul 2026 01:55:47 +0530",
+    "summary": "Microsoft shipped its largest Patch Tuesday on record today, and two of the fixes close holes that attackers are already exploiting. The release covers 622 of Microsoft's own CVEs by its&nbsp;Security Update Guide&nbsp;count, more than triple&nbsp;June's previous high of around 200.\n\nThose two live bugs are the ones to grab first. Microsoft credits incident responders for both. Both are",
+    "analysis": {
+      "issue": "Microsoft fixes a record 622 CVEs, including two exploited SharePoint and AD FS zero-days, while a Kerberos RC4 change could break service account log",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "SAP Patches CVSS 9.9 NetWeaver ABAP Flaw That Could Expose or Modify Data",
+    "link": "https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html",
+    "published": "Tue, 14 Jul 2026 23:47:57 +0530",
+    "summary": "SAP has rolled out updates to address multiple vulnerabilities as part of its July 2026 security updates, including a critical flaw in SAP NetWeaver Application Server ABAP.\n\nThe vulnerability in question is CVE-2026-44747 (CVSS score: 9.9), an out-of-bounds write flaw that allows an authenticated attacker to leverage logical errors in memory management to cause a memory corruption that could",
+    "analysis": {
+      "issue": "SAP patches three critical flaws, including a 9",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads",
+    "link": "https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html",
+    "published": "Tue, 14 Jul 2026 22:57:23 +0530",
+    "summary": "Any other browser extension that can run a script on claude.ai can still trigger Claude for Chrome tasks aimed at your Gmail, your latest Google Doc and its comments, and your Calendar.\n\nBoth this and ClaudeBleed need a rogue extension that can already run a script on claude.ai; the difference is scope. Anthropic restricted the arbitrary-prompt path in May as part of its response to the&nbsp;",
+    "analysis": {
+      "issue": "80 still accepts forged clicks from other extensions, triggering Gmail, Docs, and Calendar tasks silently in hands-off mode",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts",
     "link": "https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html",
     "published": "Tue, 14 Jul 2026 22:22:37 +0530",
@@ -126,51 +180,106 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "U.S. Sanctions First VPN Service and Malware Cryptor Seller Over Ransomware Support",
-    "link": "https://thehackernews.com/2026/07/us-sanctions-first-vpn-service-and.html",
-    "published": "Tue, 14 Jul 2026 13:32:33 +0530",
-    "summary": "The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) has designated two individuals and a VPN service provider for enabling ransomware actors' and other cybercriminals' malicious activities, including ransomware attacks against Americans.\n\nThe VPN, named First VPN Service (1VPNS), has been accused of offering its tools to ransomware groups, along with its 45-year-old Ukrainian",
+    "source": "Bleeping Computer",
+    "title": "SonicWall warns of SMA1000 flaws exploited in zero-day attacks, patch now",
+    "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/",
+    "published": "Tue, 14 Jul 2026 17:23:24 -0400",
+    "summary": "SonicWall warns that threat actors have been exploiting two SMA1000 vulnerabilities, tracked as CVE-2026-15409 and CVE-2026-15410, in zero-day attacks and urges customers to install the newly released security updates. [...]",
     "analysis": {
-      "issue": "sanctions First VPN and two operators over ransomware support as the U",
+      "issue": "SonicWall warns that threat actors have been exploiting two SMA1000 vulnerabilities, tracked as CVE-2026-15409 and CVE-2026-15410, in zero-day attacks and urges customers to install the newly released security updates",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-15409",
+        "CVE-2026-15410"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Spanish Police take down €140 million cyber fraud ring, arrest four",
+    "link": "https://www.bleepingcomputer.com/news/security/spanish-police-take-down-140-million-cyber-fraud-ring-arrest-four/",
+    "published": "Tue, 14 Jul 2026 16:23:09 -0400",
+    "summary": "The Spanish Police dismantled a cybercrime and money-laundering organization that made €140 million ($160 million) from investment fraud and business email compromise (BEC) attacks. [...]",
+    "analysis": {
+      "issue": "The Spanish Police dismantled a cybercrime and money-laundering organization that made €140 million ($160 million) from investment fraud and business email compromise (BEC) attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Nearly 300 GitHub repos pose as legit software to push malware",
+    "link": "https://www.bleepingcomputer.com/news/security/nearly-300-github-repos-pose-as-legit-software-to-push-malware/",
+    "published": "Tue, 14 Jul 2026 15:15:17 -0400",
+    "summary": "A threat actor has published hundreds of fake GitHub repositories impersonating legitimate software and security projects to distribute infostealer malware. [...]",
+    "analysis": {
+      "issue": "A threat actor has published hundreds of fake GitHub repositories impersonating legitimate software and security projects to distribute infostealer malware",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Ransomware",
         "Malware"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "148 npm Packages Disguised as Student Proxies Turned Browsers Into a DDoS Botnet",
-    "link": "https://thehackernews.com/2026/07/148-npm-packages-disguised-as-student.html",
-    "published": "Tue, 14 Jul 2026 12:38:36 +0530",
-    "summary": "A campaign of 148 npm packages disguised as student web proxies turned visitors' browsers into a distributed denial-of-service botnet for roughly two weeks in May, according to new research from&nbsp;JFrog.\n\nThe packages did not go after the developers who might install them. The operators used the registry as free hosting for a booby-trapped proxy site and let the students who came to dodge",
+    "source": "Bleeping Computer",
+    "title": "Microsoft releases Windows 10 KB5099539 extended security update",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5099539-extended-security-update/",
+    "published": "Tue, 14 Jul 2026 14:49:28 -0400",
+    "summary": "Microsoft has released the Windows 10 KB5099539 extended security update, which includes the July 2026 Patch Tuesday security updates for 570 vulnerabilities, along with additional security fixes. [...]",
     "analysis": {
-      "issue": "JFrog finds 148 npm proxy packages turned student browsers into a DDoS botnet, while a mutable loader lets operators re-arm it without updates",
+      "issue": "Microsoft has released the Windows 10 KB5099539 extended security update, which includes the July 2026 Patch Tuesday security updates for 570 vulnerabilities, along with additional security fixes",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "Malware",
-        "DDoS"
+        "Vulnerability"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Microsoft Maps Three Salesforce Attack Paths Tied to a Year of ShinyHunters Activity",
-    "link": "https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html",
-    "published": "Tue, 14 Jul 2026 11:49:24 +0530",
-    "summary": "Attackers whose methods line up with the data-extortion group&nbsp;ShinyHunters&nbsp;have spent the past year walking into corporate Salesforce environments without exploiting a single flaw in the platform.\n\nThe way in has been the trust the organization had already extended, usually through the OAuth connections that tie Salesforce to the apps and third-party vendors around it.\n\nIn&nbsp;",
+    "source": "Bleeping Computer",
+    "title": "Microsoft July 2026 Patch Tuesday fixes massive 570 flaws, 3 zero-days",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2026-patch-tuesday-fixes-massive-570-flaws-3-zero-days/",
+    "published": "Tue, 14 Jul 2026 14:01:36 -0400",
+    "summary": "Today is Microsoft's July 2026 Patch Tuesday, and with it comes security updates for a record-breaking 570 flaws, including two zero-day vulnerabilities exploited in attacks and one publicly disclosed. [...]",
     "analysis": {
-      "issue": "Microsoft maps three Salesforce intrusion paths that abuse OAuth apps, vendor tokens, and guest access while ordinary sign-in monitoring stays quiet",
+      "issue": "Today is Microsoft's July 2026 Patch Tuesday, and with it comes security updates for a record-breaking 570 flaws, including two zero-day vulnerabilities exploited in attacks and one publicly disclosed",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Windows 11 KB5101650 & KB5099414 cumulative updates released",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101650-and-kb5099414-cumulative-updates-released/",
+    "published": "Tue, 14 Jul 2026 13:41:16 -0400",
+    "summary": "Microsoft has released Windows 11's June 2026 Update for version 25H2, 24H2, and 23H2, bringing fixes for over 570 security issues. [...]",
+    "analysis": {
+      "issue": "Microsoft has released Windows 11 KB5101650 and KB5099414 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -254,114 +363,25 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "New phishing kits target Microsoft 365 accounts, evade MFA",
-    "link": "https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/",
-    "published": "Tue, 14 Jul 2026 08:49:00 -0400",
-    "summary": "Two new phishing kits, Jalisco and OmegaLord, have been discovered in attacks targeting Microsoft 365 accounts, using techniques that defeat multi-factor authentication (MFA). [...]",
+    "source": "Krebs On Security",
+    "title": "Microsoft Patches a Record 570 Security Flaws",
+    "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+    "published": "Tue, 14 Jul 2026 19:22:42 +0000",
+    "summary": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning patch counts to vulnerability discoveries aided by artificial intelligence.",
     "analysis": {
-      "issue": "Two new phishing kits, Jalisco and OmegaLord, have been discovered in attacks targeting Microsoft 365 accounts, using techniques that defeat multi-factor authentication (MFA)",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "SAP warns of critical flaws in NetWeaver and Commerce Cloud",
-    "link": "https://www.bleepingcomputer.com/news/security/sap-warns-of-critical-flaws-in-netweaver-and-commerce-cloud/",
-    "published": "Tue, 14 Jul 2026 07:42:21 -0400",
-    "summary": "SAP has addressed 16 vulnerabilities across multiple products as part of its July 2026 security updates, including three critical flaws in NetWeaver, Commerce Cloud, and AppRouter. [...]",
-    "analysis": {
-      "issue": "SAP has addressed 16 vulnerabilities across multiple products as part of its July 2026 security updates, including three critical flaws in NetWeaver, Commerce Cloud, and AppRouter",
+      "issue": "today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-44747",
-        "CVE-2026-44761",
-        "CVE-2026-27690"
+        "CVE-2026-50661",
+        "CVE-2026-56164",
+        "CVE-2026-56155",
+        "CVE-2026-48561"
       ],
       "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft starts testing cleaner Windows Search without ads",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-testing-cleaner-windows-search-without-ads/",
-    "published": "Tue, 14 Jul 2026 06:47:23 -0400",
-    "summary": "Microsoft is now testing a cleaner and faster version of Windows Search that should prioritize relevant results over ads and promotional content. [...]",
-    "analysis": {
-      "issue": "Microsoft is now testing a cleaner and faster version of Windows Search that should prioritize relevant results over ads and promotional content",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "US sanctions VPN, malware providers for enabling ransomware attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-vpn-malware-providers-linked-to-ransomware-gangs/",
-    "published": "Tue, 14 Jul 2026 05:40:13 -0400",
-    "summary": "The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) sanctioned two individuals and one entity for enabling ransomware attacks against U.S. organizations. [...]",
-    "analysis": {
-      "issue": "Treasury Department's Office of Foreign Assets Control (OFAC) sanctioned two individuals and one entity for enabling ransomware attacks against U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Japan's largest taxi operator shuts systems after cyberattack",
-    "link": "https://www.bleepingcomputer.com/news/security/japans-largest-taxi-operator-shuts-systems-after-cyberattack/",
-    "published": "Mon, 13 Jul 2026 16:18:59 -0400",
-    "summary": "Japan's largest taxi operator, Nihon Kotsu, announced that its systems were compromised in a cyberattack, forcing the company to shut down part of its infrastructure. [...]",
-    "analysis": {
-      "issue": "Japan's largest taxi operator, Nihon Kotsu, announced that its systems were compromised in a cyberattack, forcing the company to shut down part of its infrastructure",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers backdoor Jscrambler npm package with infostealer malware",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-jscrambler-npm-package-with-infostealer-malware/",
-    "published": "Mon, 13 Jul 2026 15:44:19 -0400",
-    "summary": "The Jscrambler client-side web security company disclosed that a threat actor published a malicious version of its npm package that has been downloaded almost 1,500 times. [...]",
-    "analysis": {
-      "issue": "The Jscrambler client-side web security company disclosed that a threat actor published a malicious version of its npm package that has been downloaded almost 1,500 times",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
+        "Vulnerability",
         "Malware"
       ]
     }
@@ -493,8 +513,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-50507",
-        "CVE-2026-45586",
-        "CVE-2026-49160"
+        "CVE-2026-49160",
+        "CVE-2026-45586"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -541,20 +561,51 @@
     }
   },
   {
-    "source": "Krebs On Security",
-    "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
-    "link": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
-    "published": "Fri, 22 May 2026 16:34:24 +0000",
-    "summary": "Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity &#038; Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account. The inquiry comes as CISA is still struggling to contain the breach and invalidate the leaked credentials.",
+    "source": "Security Week",
+    "title": "Microsoft Patches Record 622 Vulnerabilities, Including Two Exploited Zero-Days",
+    "link": "https://www.securityweek.com/microsoft-patches-record-622-vulnerabilities-including-two-exploited-zero-days/",
+    "published": "Tue, 14 Jul 2026 18:50:20 +0000",
+    "summary": "<p>Two flaws in Active Directory and SharePoint Server have been exploited as zero-days, and a BitLocker bug was publicly disclosed.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-patches-record-622-vulnerabilities-including-two-exploited-zero-days/\">Microsoft Patches Record 622 Vulnerabilities, Including Two Exploited Zero-Days</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
-      "issue": "Lawmakers in both houses of Congress are demanding answers from the U",
+      "issue": "Two flaws in Active Directory and SharePoint Server have been exploited as zero-days, and a BitLocker bug was publicly disclosed",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-56155",
+        "CVE-2026-50522",
+        "CVE-2026-50661",
+        "CVE-2026-56164",
+        "CVE-2026-55008",
+        "CVE-2026-50518",
+        "CVE-2026-57092",
+        "CVE-2026-55010",
+        "CVE-2026-56190",
+        "CVE-2026-56188"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Synopsys Finds No Evidence of Data Breach Amid Bosch Hack Claims",
+    "link": "https://www.securityweek.com/synopsys-finds-no-evidence-of-data-breach-following-bosch-hack-claims/",
+    "published": "Tue, 14 Jul 2026 18:18:45 +0000",
+    "summary": "<p>The D1R cybercrime group claimed to have stolen valuable data from Synopsys and Bosch, threatening to leak it unless a ransom is paid. </p>\n<p>The post <a href=\"https://www.securityweek.com/synopsys-finds-no-evidence-of-data-breach-following-bosch-hack-claims/\">Synopsys Finds No Evidence of Data Breach Amid Bosch Hack Claims</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The D1R cybercrime group claimed to have stolen valuable data from Synopsys and Bosch, threatening to leak it unless a ransom is paid",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "Data Breach"
+        "Ransomware",
+        "Data Breach",
+        "Vulnerability"
       ]
     }
   },
@@ -571,19 +622,19 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-48334",
-        "CVE-2026-48284",
-        "CVE-2026-48322",
-        "CVE-2026-48259",
         "CVE-2026-48359",
+        "CVE-2026-48284",
         "CVE-2026-48318",
-        "CVE-2026-48327",
-        "CVE-2026-48358",
-        "CVE-2026-48321",
         "CVE-2026-48325",
+        "CVE-2026-48322",
         "CVE-2026-48324",
+        "CVE-2026-48358",
+        "CVE-2026-48259",
         "CVE-2026-48356",
-        "CVE-2026-48319"
+        "CVE-2026-48321",
+        "CVE-2026-48319",
+        "CVE-2026-48334",
+        "CVE-2026-48327"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -603,13 +654,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-47870",
+        "CVE-2026-47871",
+        "CVE-2026-47869",
+        "CVE-2026-47867",
+        "CVE-2026-47866",
         "CVE-2026-47868",
         "CVE-2026-47865",
-        "CVE-2026-47871",
-        "CVE-2026-47867",
-        "CVE-2026-47869",
-        "CVE-2026-47866"
+        "CVE-2026-47870"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -648,9 +699,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-44747",
         "CVE-2026-44761",
-        "CVE-2026-27690"
+        "CVE-2026-27690",
+        "CVE-2026-44747"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -670,8 +721,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2018-0171",
-        "CVE-2008-4128"
+        "CVE-2008-4128",
+        "CVE-2018-0171"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -737,37 +788,47 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Hacker Conversations: Jesse McGraw (GhostExodus), From Blackhat Hacker to Redemption",
-    "link": "https://www.securityweek.com/hacker-conversations-jesse-mcgraw-ghostexodus-from-blackhat-hacker-to-redemption/",
-    "published": "Mon, 13 Jul 2026 14:30:00 +0000",
-    "summary": "<p>Once a notorious blackhat hacker, McGraw shares his journey from high school hacking and prison to redemption as a cybersecurity advocate.</p>\n<p>The post <a href=\"https://www.securityweek.com/hacker-conversations-jesse-mcgraw-ghostexodus-from-blackhat-hacker-to-redemption/\">Hacker Conversations: Jesse McGraw (GhostExodus), From Blackhat Hacker to Redemption</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "source": "Talos Blog",
+    "title": "Microsoft Patch Tuesday for July 2026 — Snort rules and prominent vulnerabilities",
+    "link": "https://blog.talosintelligence.com/microsoft-patch-tuesday-july-2026/",
+    "published": "Tue, 14 Jul 2026 20:27:33 GMT",
+    "summary": "<p>Microsoft has released its monthly security update for July 2026, which includes 622 vulnerabilities affecting a range of products, including 57 that Microsoft marked as &quot;critical&quot;.</p><p>Microsoft notes that two of the vulnerabilities disclosed this month have been exploited in the wild.</p><p><a href=\"https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-56155\">CVE-2026-56155</a> is an important-</p>",
     "analysis": {
-      "issue": "Once a notorious blackhat hacker, McGraw shares his journey from high school hacking and prison to redemption as a cybersecurity advocate",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Cybersecurity M&A Roundup: 37 Deals Announced in June 2026",
-    "link": "https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-june-2026/",
-    "published": "Mon, 13 Jul 2026 12:20:14 +0000",
-    "summary": "<p>Significant cybersecurity M&#038;A deals announced by 1Password, Accenture, Cisco, F5, Rubrik, and SailPoint.</p>\n<p>The post <a href=\"https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-june-2026/\">Cybersecurity M&#038;A Roundup: 37 Deals Announced in June 2026</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Significant cybersecurity M&A deals announced by 1Password, Accenture, Cisco, F5, Rubrik, and SailPoint",
+      "issue": "Microsoft has released its monthly security update for July 2026, which includes 622 vulnerabilities affecting a range of products, including 57 that Microsoft marked as \"critical\"",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
-      "cves": [],
+      "cves": [
+        "CVE-2026-55022",
+        "CVE-2026-55056",
+        "CVE-2026-56164",
+        "CVE-2026-55132",
+        "CVE-2026-55140",
+        "CVE-2026-50467",
+        "CVE-2026-55033",
+        "CVE-2026-55045",
+        "CVE-2026-54992",
+        "CVE-2026-50522",
+        "CVE-2026-55120",
+        "CVE-2026-55127",
+        "CVE-2026-50370",
+        "CVE-2026-55010",
+        "CVE-2026-55123",
+        "CVE-2026-50655",
+        "CVE-2026-56155",
+        "CVE-2026-50314",
+        "CVE-2026-54128",
+        "CVE-2026-50518",
+        "CVE-2026-55018",
+        "CVE-2026-58644",
+        "CVE-2026-55129",
+        "CVE-2026-50327",
+        "CVE-2026-55049",
+        "CVE-2026-55944",
+        "CVE-2026-55043",
+        "CVE-2026-56188"
+      ],
       "threat_categories": [
         "Vulnerability"
       ]
@@ -825,9 +886,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-28739",
+        "CVE-2026-25106",
         "CVE-2026-33091",
-        "CVE-2026-25106"
+        "CVE-2026-28739"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -949,24 +1010,6 @@
     }
   },
   {
-    "source": "Talos Blog",
-    "title": "Introduction to COM usage by Windows threats",
-    "link": "https://blog.talosintelligence.com/introduction-to-com-usage-by-windows-threats/",
-    "published": "Thu, 25 Jun 2026 10:00:26 GMT",
-    "summary": "Component Object Model (COM) is a fundamental Windows technology used by legitimate applications for object activation, inter-process communication, automation and language-independent component reuse. Those same qualities make it useful to threat actors.",
-    "analysis": {
-      "issue": "Component Object Model (COM) is one of the Windows technologies that analysts regularly encounter but may not always prioritize during triage, as the manual analysis of COM functionality in binary executable files can be labor-intensive",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Recorded Future",
     "title": "The FBI Warned About Fake Permit Fees. The Harder Question Is Where the Money Goes. | Recorded Future",
     "link": "https://www.recordedfuture.com/blog/fbi-fake-permit-fees",
@@ -974,24 +1017,6 @@
     "summary": "A government impersonation scam is targeting property owners with fake planning and zoning permit invoices, and authorized wire transfers are clearing behavioral controls. Here's how the scheme works and why beneficiary account intelligence is the signal that catches it.",
     "analysis": {
       "issue": "A government impersonation scam is targeting property owners with fake planning and zoning permit invoices, and authorized wire transfers are clearing behavioral controls",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "KlueセキュリティインシデントとRecorded Futureへの影響",
-    "link": "https://www.recordedfuture.com/blog/klue-security-incident-jp",
-    "published": "Mon, 13 Jul 2026 00:00:00 GMT",
-    "summary": "透明性は私たちの企業運営の根幹をなすものです。最近発生したサードパーティベンダーによるセキュリティインシデントに関する声明をご覧ください。調査結果および、お客様の情報を保護するために講じた対策について記載しております。",
-    "analysis": {
-      "issue": "透明性は私たちの企業運営の根幹をなすものです。最近発生したサードパーティベンダーによるセキュリティインシデントに関する声明をご覧ください。調査結果および、お客様の情報を保護するために講じた対策について記載しております。",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1136,6 +1161,24 @@
     "summary": "A purchase scam tactic hijacks organic search through compromised sites, and it’s built to scale into 2026 FIFA World Cup fraud. How it works and how to respond.",
     "analysis": {
       "issue": "A purchase scam tactic hijacks organic search through compromised sites, and it’s built to scale into 2026 FIFA World Cup fraud",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "State Digital Surveillance Risk Landscape",
+    "link": "https://www.recordedfuture.com/research/state-digital-surveillance-risk-landscape",
+    "published": "Wed, 17 Jun 2026 00:00:00 GMT",
+    "summary": "Explore the state digital surveillance risk landscape. Learn how governments use spyware, AI, and network interception to monitor travelers and how to mitigate these risks.",
+    "analysis": {
+      "issue": "Explore the state digital surveillance risk landscape",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1313,8 +1356,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
