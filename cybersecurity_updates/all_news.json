@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Compromised AsyncAPI npm Packages Deliver Multi-Stage Botnet Malware",
+    "link": "https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html",
+    "published": "Wed, 15 Jul 2026 14:46:13 +0530",
+    "summary": "Four compromised npm packages in the @asyncapi namespace have been observed distributing a multi-stage botnet loader, according to findings from OX Security, SafeDep, Socket, and StepSecurity.\n\nThe affected packages are listed below -\n\n\n  @asyncapi/generator-helpers@1.1.1\n  @asyncapi/generator-components@0.7.1\n  @asyncapi/generator@3.3.1\n  @asyncapi/specs(v6.11.2, v6.11.2-alpha.1)\n\n\"The",
+    "analysis": {
+      "issue": "Four compromised AsyncAPI npm packages load a multi-stage botnet from IPFS after attackers abuse GitHub Actions, despite valid provenance attestations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands",
+    "link": "https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html",
+    "published": "Wed, 15 Jul 2026 11:00:21 +0530",
+    "summary": "SonicWall has warned of active exploitation of two zero-day vulnerabilities impacting Secure Mobile Access (SMA) 1000 series appliances, one of which could be exploited to achieve arbitrary command execution.\n\nThe vulnerabilities are listed below -\n\n\n  CVE-2026-15409 (CVSS score: 10.0) - A Server-side request forgery (SSRF) vulnerability that a remote unauthenticated attacker could exploit to",
+    "analysis": {
+      "issue": "SonicWall says attackers are exploiting two SMA 1000 zero-days, including a code injection flaw that could enable administrator command execution",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack",
     "link": "https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html",
     "published": "Wed, 15 Jul 2026 01:55:47 +0530",
@@ -144,13 +180,38 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials",
-    "link": "https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html",
-    "published": "Tue, 14 Jul 2026 16:51:35 +0530",
-    "summary": "At least two distinct threat actors are weaponizing a novel evasion technique called OAuth client ID spoofing in cloud campaigns, while slipping past telemetry.\n\nThe activity allows users to enumerate user accounts and validate stolen credentials in Microsoft Entra ID environments, without ever generating a successful sign-in event that would otherwise alert defenders. And bad actors have begun",
+    "source": "Bleeping Computer",
+    "title": "CISA warns admins to patch actively exploited SharePoint flaws",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/",
+    "published": "Wed, 15 Jul 2026 05:44:52 -0400",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned Tuesday that attackers are actively exploiting three vulnerabilities to hack Internet-exposed on-premises SharePoint Server instances. [...]",
     "analysis": {
-      "issue": "OAuth client ID spoofing lets attackers test Entra accounts and stolen passwords without successful sign-ins, leaving application names blank in logs",
+      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) warned Tuesday that attackers are actively exploiting three vulnerabilities to hack Internet-exposed on-premises SharePoint Server instances",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-55040",
+        "CVE-2026-56164",
+        "CVE-2026-32201",
+        "CVE-2026-45659",
+        "CVE-2026-58644"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft: Some Dell PCs shut down after recent Windows updates",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-dell-devices-shut-down-after-windows-update/",
+    "published": "Wed, 15 Jul 2026 04:26:48 -0400",
+    "summary": "Microsoft is blocking this month's Windows 11 security updates on some Dell devices because they are causing shutdowns and performance issues. [...]",
+    "analysis": {
+      "issue": "Microsoft is blocking this month's Windows 11 security updates on some Dell devices because they are causing shutdowns and performance issues",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -162,20 +223,22 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read",
-    "link": "https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html",
-    "published": "Tue, 14 Jul 2026 14:32:48 +0530",
-    "summary": "xAI's Grok Build coding CLI was uploading entire Git repositories, full commit history and all, to a Google Cloud Storage bucket run by xAI, not just the files a coding task needed.\n\nA researcher publishing as cereblab, testing version 0.2.93, captured one of those uploads, cloned the git bundle out of the intercepted request, and pulled back a file the agent had been told in plain terms not",
+    "source": "Bleeping Computer",
+    "title": "US charges alleged operators of Russian bulletproof hosting service",
+    "link": "https://www.bleepingcomputer.com/news/security/us-charges-alleged-russian-bulletproof-hosting-service-operators/",
+    "published": "Wed, 15 Jul 2026 03:45:50 -0400",
+    "summary": "U.S. federal prosecutors have unsealed charges against three Russian nationals, accusing them of providing bulletproof hosting (BPH) services to ransomware gangs that caused over $62 million in damages to victims worldwide. [...]",
     "analysis": {
-      "issue": "Grok Build uploaded tracked Git repositories and full commit history to xAI storage by default, including unread files and unredacted",
+      "issue": "federal prosecutors have unsealed charges against three Russian nationals, accusing them of providing bulletproof hosting (BPH) services to ransomware gangs that caused over $62 million in damages to victims worldwide",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Ransomware",
+        "Malware",
+        "Phishing"
       ]
     }
   },
@@ -309,60 +372,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "LastPass, Bitwarden users targeted with fake security alerts",
-    "link": "https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/",
-    "published": "Tue, 14 Jul 2026 11:31:52 -0400",
-    "summary": "LastPass is warning users about an ongoing phishing campaign that is using fake security notices to direct them to fraudulent websites. [...]",
-    "analysis": {
-      "issue": "LastPass is warning users about an ongoing phishing campaign that is using fake security notices to direct them to fraudulent websites",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "You Don't Have to Run an Exploit to Know If You're Vulnerable",
-    "link": "https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/",
-    "published": "Tue, 14 Jul 2026 10:00:10 -0400",
-    "summary": "Many vulnerabilities cannot be safely validated with live exploits, either because no exploit exists or the affected systems are too critical to test. Picus explains how TTP chaining helps organizations determine exploitability by validating the attack techniques an exploit depends on, without launching the exploit itself. [...]",
-    "analysis": {
-      "issue": "The timeline that vulnerability management was built on has quietly disappeared",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft Entra ID gets passkeys default authentication starting September",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/",
-    "published": "Tue, 14 Jul 2026 08:49:56 -0400",
-    "summary": "Microsoft has announced that passkeys will become the default authentication method for the Entra ID enterprise identity service starting September 2026. [...]",
-    "analysis": {
-      "issue": "Microsoft has announced that passkeys will become the default authentication method for the Entra ID enterprise identity service starting September 2026",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Microsoft Patches a Record 570 Security Flaws",
     "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
@@ -375,10 +384,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56155",
-        "CVE-2026-50661",
         "CVE-2026-56164",
-        "CVE-2026-48561"
+        "CVE-2026-56155",
+        "CVE-2026-48561",
+        "CVE-2026-50661"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -512,9 +521,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-50507",
         "CVE-2026-49160",
-        "CVE-2026-45586",
-        "CVE-2026-50507"
+        "CVE-2026-45586"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -562,6 +571,107 @@
   },
   {
     "source": "Security Week",
+    "title": "White House Launches AI-Driven ‘Gold Eagle’ Vulnerability Coordination Initiative",
+    "link": "https://www.securityweek.com/white-house-launches-ai-driven-gold-eagle-vulnerability-coordination-initiative/",
+    "published": "Wed, 15 Jul 2026 10:18:25 +0000",
+    "summary": "<p>The new program stems from an AI-focused Executive Order signed by President Trump on June 2.</p>\n<p>The post <a href=\"https://www.securityweek.com/white-house-launches-ai-driven-gold-eagle-vulnerability-coordination-initiative/\">White House Launches AI-Driven &#8216;Gold Eagle&#8217; Vulnerability Coordination Initiative</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The new program stems from an AI-focused Executive Order signed by President Trump on June 2",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Progress Confirms Zero-Day Vulnerability Behind ShareFile Disruption",
+    "link": "https://www.securityweek.com/progress-confirms-zero-day-vulnerability-behind-sharefile-disruption/",
+    "published": "Wed, 15 Jul 2026 09:48:29 +0000",
+    "summary": "<p>The company has rolled out a fix and is restoring access for Storage Zones Controller customers who apply it.</p>\n<p>The post <a href=\"https://www.securityweek.com/progress-confirms-zero-day-vulnerability-behind-sharefile-disruption/\">Progress Confirms Zero-Day Vulnerability Behind ShareFile Disruption</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The company has rolled out a fix and is restoring access for Storage Zones Controller customers who apply it",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Rockwell",
+    "link": "https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-rockwell/",
+    "published": "Wed, 15 Jul 2026 09:19:58 +0000",
+    "summary": "<p>The industrial giants fixed dozens of vulnerabilities across their ICS products, with advisories also released by CISA and VDE CERT.</p>\n<p>The post <a href=\"https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-rockwell/\">ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Rockwell</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The industrial giants fixed dozens of vulnerabilities across their ICS products, with advisories also released by CISA and VDE CERT",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "APT",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Critical Vulnerabilities Patched With Fresh Chrome 150, Firefox 152 Updates",
+    "link": "https://www.securityweek.com/critical-vulnerabilities-patched-with-fresh-chrome-150-firefox-152-updates/",
+    "published": "Wed, 15 Jul 2026 07:24:52 +0000",
+    "summary": "<p>Public exploit code targeting the Firefox flaws exists, but no in-the-wild exploitation has been observed.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-vulnerabilities-patched-with-fresh-chrome-150-firefox-152-updates/\">Critical Vulnerabilities Patched With Fresh Chrome 150, Firefox 152 Updates</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Public exploit code targeting the Firefox flaws exists, but no in-the-wild exploitation has been observed",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-15718",
+        "CVE-2026-15764",
+        "CVE-2026-15719",
+        "CVE-2026-15765"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "SonicWall Issues Urgent SMA Patch Warning for Two Zero-Day Exploits",
+    "link": "https://www.securityweek.com/sonicwall-issues-urgent-sma-patch-warning-for-two-zero-day-exploits/",
+    "published": "Wed, 15 Jul 2026 05:19:42 +0000",
+    "summary": "<p>SonicWall SMA1000 zero-day vulnerabilities CVE-2026-15409 and CVE-2026-15410 can be exploited for remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/sonicwall-issues-urgent-sma-patch-warning-for-two-zero-day-exploits/\">SonicWall Issues Urgent SMA Patch Warning for Two Zero-Day Exploits</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "SonicWall SMA1000 zero-day vulnerabilities CVE-2026-15409 and CVE-2026-15410 can be exploited for remote code execution",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-15409",
+        "CVE-2026-15410"
+      ],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Microsoft Patches Record 622 Vulnerabilities, Including Two Exploited Zero-Days",
     "link": "https://www.securityweek.com/microsoft-patches-record-622-vulnerabilities-including-two-exploited-zero-days/",
     "published": "Tue, 14 Jul 2026 18:50:20 +0000",
@@ -573,16 +683,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56155",
-        "CVE-2026-55008",
-        "CVE-2026-50518",
-        "CVE-2026-50522",
-        "CVE-2026-50661",
         "CVE-2026-56188",
         "CVE-2026-55010",
+        "CVE-2026-55008",
         "CVE-2026-57092",
         "CVE-2026-56190",
-        "CVE-2026-56164"
+        "CVE-2026-50661",
+        "CVE-2026-56164",
+        "CVE-2026-50522",
+        "CVE-2026-50518",
+        "CVE-2026-56155"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -622,19 +732,19 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-48319",
-        "CVE-2026-48356",
+        "CVE-2026-48318",
+        "CVE-2026-48284",
+        "CVE-2026-48334",
+        "CVE-2026-48325",
         "CVE-2026-48358",
         "CVE-2026-48322",
         "CVE-2026-48327",
-        "CVE-2026-48318",
-        "CVE-2026-48359",
-        "CVE-2026-48259",
-        "CVE-2026-48325",
-        "CVE-2026-48321",
+        "CVE-2026-48356",
         "CVE-2026-48324",
-        "CVE-2026-48334",
-        "CVE-2026-48284"
+        "CVE-2026-48359",
+        "CVE-2026-48319",
+        "CVE-2026-48321",
+        "CVE-2026-48259"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -654,13 +764,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-47866",
-        "CVE-2026-47868",
-        "CVE-2026-47865",
-        "CVE-2026-47870",
         "CVE-2026-47871",
+        "CVE-2026-47870",
+        "CVE-2026-47867",
+        "CVE-2026-47865",
+        "CVE-2026-47868",
         "CVE-2026-47869",
-        "CVE-2026-47867"
+        "CVE-2026-47866"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -687,107 +797,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "SAP Patches Critical Vulnerabilities in NetWeaver, Approuter, Commerce Cloud",
-    "link": "https://www.securityweek.com/sap-patches-critical-vulnerabilities-in-netweaver-approuter-commerce-cloud/",
-    "published": "Tue, 14 Jul 2026 11:17:56 +0000",
-    "summary": "<p>The flaws could allow attackers to access and modify data, and cause system unavailability and request-response desynchronization.</p>\n<p>The post <a href=\"https://www.securityweek.com/sap-patches-critical-vulnerabilities-in-netweaver-approuter-commerce-cloud/\">SAP Patches Critical Vulnerabilities in NetWeaver, Approuter, Commerce Cloud</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The flaws could allow attackers to access and modify data, and cause system unavailability and request-response desynchronization",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-27690",
-        "CVE-2026-44761",
-        "CVE-2026-44747"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "US, Allies Warn of Russian Cyberattacks Targeting Critical Infrastructure Routers",
-    "link": "https://www.securityweek.com/us-allies-warn-of-russian-cyberattacks-targeting-critical-infrastructure-routers/",
-    "published": "Tue, 14 Jul 2026 10:51:01 +0000",
-    "summary": "<p>Multiple state-sponsored APTs are compromising poorly secured devices across critical infrastructure sector networks.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-allies-warn-of-russian-cyberattacks-targeting-critical-infrastructure-routers/\">US, Allies Warn of Russian Cyberattacks Targeting Critical Infrastructure Routers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Multiple state-sponsored APTs are compromising poorly secured devices across critical infrastructure sector networks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2018-0171",
-        "CVE-2008-4128"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Valarian Raises $50 Million for Sovereign Infrastructure Control Layer",
-    "link": "https://www.securityweek.com/valarian-raises-50-million-for-sovereign-infrastructure-control-layer/",
-    "published": "Tue, 14 Jul 2026 09:32:15 +0000",
-    "summary": "<p>UK-based cybersecurity firm Valarian has raised a total of $70 million for its ACRA technology.</p>\n<p>The post <a href=\"https://www.securityweek.com/valarian-raises-50-million-for-sovereign-infrastructure-control-layer/\">Valarian Raises $50 Million for Sovereign Infrastructure Control Layer</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "UK-based cybersecurity firm Valarian has raised a total of $70 million for its ACRA technology",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Multiple Jscrambler Packages Impacted by Supply Chain Attack",
-    "link": "https://www.securityweek.com/multiple-jscrambler-packages-impacted-by-supply-chain-attack/",
-    "published": "Tue, 14 Jul 2026 09:04:39 +0000",
-    "summary": "<p>A threat actor poisoned several Jscrambler NPM package versions to drop a cross-platform credential stealer.</p>\n<p>The post <a href=\"https://www.securityweek.com/multiple-jscrambler-packages-impacted-by-supply-chain-attack/\">Multiple Jscrambler Packages Impacted by Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "A threat actor poisoned several Jscrambler NPM package versions to drop a cross-platform credential stealer",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Malware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Pentagon Suspends CMMC Phase 2 as It Rethinks Contractor Cybersecurity Rules",
-    "link": "https://www.securityweek.com/pentagon-suspends-cmmc-phase-2-as-it-rethinks-contractor-cybersecurity-rules/",
-    "published": "Tue, 14 Jul 2026 06:37:50 +0000",
-    "summary": "<p>A new CMMC review and reform task force will conduct a comprehensive review of the program.</p>\n<p>The post <a href=\"https://www.securityweek.com/pentagon-suspends-cmmc-phase-2-as-it-rethinks-contractor-cybersecurity-rules/\">Pentagon Suspends CMMC Phase 2 as It Rethinks Contractor Cybersecurity Rules</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "A new CMMC review and reform task force will conduct a comprehensive review of the program",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Microsoft Patch Tuesday for July 2026 — Snort rules and prominent vulnerabilities",
     "link": "https://blog.talosintelligence.com/microsoft-patch-tuesday-july-2026/",
@@ -800,34 +809,34 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56155",
-        "CVE-2026-54128",
+        "CVE-2026-56188",
         "CVE-2026-55049",
-        "CVE-2026-55140",
+        "CVE-2026-50327",
         "CVE-2026-54992",
+        "CVE-2026-55056",
+        "CVE-2026-54128",
+        "CVE-2026-50314",
+        "CVE-2026-55045",
+        "CVE-2026-50655",
+        "CVE-2026-55022",
+        "CVE-2026-56155",
+        "CVE-2026-55120",
+        "CVE-2026-55129",
+        "CVE-2026-50370",
+        "CVE-2026-56164",
+        "CVE-2026-58644",
+        "CVE-2026-50522",
         "CVE-2026-55010",
         "CVE-2026-50467",
-        "CVE-2026-55045",
-        "CVE-2026-50370",
-        "CVE-2026-55018",
-        "CVE-2026-56164",
-        "CVE-2026-50314",
         "CVE-2026-50518",
-        "CVE-2026-50522",
-        "CVE-2026-55127",
-        "CVE-2026-50327",
-        "CVE-2026-55022",
-        "CVE-2026-55129",
-        "CVE-2026-56188",
-        "CVE-2026-58644",
-        "CVE-2026-55056",
-        "CVE-2026-55043",
-        "CVE-2026-55120",
-        "CVE-2026-55123",
         "CVE-2026-55132",
-        "CVE-2026-55033",
+        "CVE-2026-55127",
+        "CVE-2026-55123",
+        "CVE-2026-55018",
         "CVE-2026-55944",
-        "CVE-2026-50655"
+        "CVE-2026-55033",
+        "CVE-2026-55043",
+        "CVE-2026-55140"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1387,6 +1396,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "This fake Apple app can unlock your Mac&#8217;s password vault",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/07/this-fake-apple-app-can-unlock-your-macs-password-vault",
+    "published": "Wed, 15 Jul 2026 08:42:03 GMT",
+    "summary": "Disguised as Apple's CrashReporter, CrashStealer steals passwords, browser data, crypto wallets, and other sensitive information.",
+    "analysis": {
+      "issue": "CrashStealer is a new macOS infostealer that masquerades as Apple’s CrashReporter component, uses an Apple‑notarized installer to slip past Gatekeeper, tricks users into handing over their password, and then systematically loots browsers, password ma",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Warning: Scammers are using FaceTime to empty bank accounts",
     "link": "https://www.malwarebytes.com/blog/news/2026/07/warning-scammers-are-using-facetime-to-empty-bank-accounts",
     "published": "Tue, 14 Jul 2026 11:09:02 GMT",
@@ -1551,20 +1578,20 @@
     }
   },
   {
-    "source": "Malwarebytes",
-    "title": "How World Cup crypto prediction sites take your money",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/07/how-world-cup-crypto-prediction-sites-take-your-money",
-    "published": "Thu, 09 Jul 2026 15:12:43 GMT",
-    "summary": "Crypto prediction games promise easy wins, but some are little more than token sales or outright scams. Here's what to look for.",
+    "source": "Crowdstrike Blog",
+    "title": "July 2026 Patch Tuesday: Microsoft Patches 622 Vulnerabilities Including Two Exploited Zero-Days",
+    "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-july-2026/",
+    "published": "Jul 14, 2026 00:00:00-0500",
+    "summary": "",
     "analysis": {
-      "issue": "Crypto prediction and betting sites are appearing around the World Cup, and researchers have already tracked scams aimed at fans, including fake ticketing, fixed-match betting, prediction scams, and fan-branded meme coins",
+      "issue": "Microsoft has released security updates for 622 vulnerabilities in its July 2026 Patch Tuesday rollout",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Vulnerability"
       ]
     }
   },
@@ -1720,24 +1747,6 @@
     "summary": "",
     "analysis": {
       "issue": "In Part 2 of this two-part blog series, learn how threat actors weaponize ClickOnce features and how Falcon can detect and respond",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "New Abuse of the ClickOnce Technology, Part 1: The Inner Workings of ClickOnce Application Deployment",
-    "link": "https://www.crowdstrike.com/en-us/blog/new-abuse-of-the-clickonce-technology-part-one/",
-    "published": "Jun 18, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "Learn how the ClickOnce deployment technology works, as well as its security implications in Part 1 of a two-part series",
       "solution": null,
       "cause": null,
       "timeline": null,
