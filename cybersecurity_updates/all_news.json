@@ -1,6 +1,132 @@
 [
   {
     "source": "The Hacker News",
+    "title": "New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands",
+    "link": "https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html",
+    "published": "Thu, 16 Jul 2026 18:20:13 +0530",
+    "summary": "Cybersecurity researchers have called attention to a new modular malware called TELEPUZ that's been spreading via websites infected with ClickFix lures since late April 2026.\n\n\"The malware is full-featured, lightweight, and modular,\" Elastic Security Labs researcher Cyril François said in a technical report. \"While the number of C2 [command-and-control] domains is currently small, the daily",
+    "analysis": {
+      "issue": "New TELEPUZ malware spreads through ClickFix, then steals browser cookies, logs keystrokes, runs commands, and installs itself as a Windows service",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "New ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password",
+    "link": "https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html",
+    "published": "Thu, 16 Jul 2026 18:03:42 +0530",
+    "summary": "ClickLock Stealer, a new macOS infostealer, answers a victim's refusal by killing their apps on a loop until they hand over the login password. It arrives as a command pasted into Terminal, asks for the password behind a fake system dialog, and when the victim cancels, installs two LaunchAgents and quietly exits.\n\nAt the next login, Finder, the Dock, Spotlight, Terminal, Activity Monitor, and",
+    "analysis": {
+      "issue": "ClickLock Stealer kills macOS apps every 210 milliseconds until victims enter a password, then steals browser credentials, cookies, wallets, and Keych",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "20+ Hijacked Government Websites Became an Attack Channel",
+    "link": "https://thehackernews.com/2026/07/20-hijacked-government-websites.html",
+    "published": "Thu, 16 Jul 2026 17:28:00 +0530",
+    "summary": "More than 20 Brazilian government websites were hijacked and turned into malware delivery channels in an active PhantomEnigma campaign uncovered by ANY.RUN, a leading provider of interactive malware analysis and threat intelligence solutions.\n\nThe investigation revealed previously undocumented backdoor behavior, hidden infrastructure relationships, and multiple attack arms behind a campaign",
+    "analysis": {
+      "issue": "PhantomEnigma uses more than 20 hijacked Brazilian government sites and compromised mailboxes to deliver a modular Node",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "New Agent Data Injection Attack Can Make AI Agents Misclick or Run Attacker Commands",
+    "link": "https://thehackernews.com/2026/07/new-agent-data-injection-attack-can.html",
+    "published": "Thu, 16 Jul 2026 17:02:28 +0530",
+    "summary": "Ask an AI agent to summarize the reviews on a product page, and a single planted review can make it click \"Buy Now\" instead. Ask a coding assistant to apply a maintainer's fix from a GitHub thread, and a fake comment can make it run a stranger's command on your computer.\n\nNeither trick hijacks the agent's task. Each one just corrupts the facts it trusts and lets it carry on with the job you",
+    "analysis": {
+      "issue": "Agent data injection forges trusted fields across six AI models, redirecting web and coding agents while bypassing prompt injection defenses",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Daxin Resurfaces in Taiwan Alongside Stupig Pre-Login SYSTEM Backdoor",
+    "link": "https://thehackernews.com/2026/07/daxin-resurfaces-in-taiwan-alongside.html",
+    "published": "Thu, 16 Jul 2026 16:47:23 +0530",
+    "summary": "An advanced malware previously attributed to a China-linked threat actor has resurfaced after more than four years within a Taiwan manufacturing firm, along with a previously unreported backdoor dubbed Stupig.\n\nDaxin (\"srt64.sys\"), as the kernel-mode rootkit is referred to, was first documented by Broadcom-owned Symantec in March 2022, with evidence indicating its use in targeted attacks aimed",
+    "analysis": {
+      "issue": "Daxin resurfaces at a Taiwan manufacturer alongside Stupig, a new backdoor that runs SYSTEM commands before sign-in through Windows' logon process",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "AI Can Find Bugs, But Human Knowledge Still Proves Them",
+    "link": "https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html",
+    "published": "Thu, 16 Jul 2026 15:40:00 +0530",
+    "summary": "Artificial intelligence (AI) is changing offensive security, but it has not changed the standard that matters most: a finding has to be proven before it becomes useful. AI-assisted tools can read code quickly, generate payloads, summarize attack surfaces, explain unfamiliar APIs, and run repetitive testing workflows at impressive speed. That is a real advantage for security teams. It also",
+    "analysis": {
+      "issue": "AI speeds offensive testing, but unproven findings increase triage noise unless teams verify reachability, impact, and deployed context",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Unpatched Shark Vacuum Flaw Could Let Attackers Control Other Vacuums Region-Wide",
+    "link": "https://thehackernews.com/2026/07/unpatched-shark-vacuum-flaw-could-let.html",
+    "published": "Thu, 16 Jul 2026 14:53:19 +0530",
+    "summary": "Pull the certificate off the flash of a Shark RV2320EDUS robot vacuum, and you can run root commands on other people's Shark vacuums across the same AWS region: watch the camera, drive the robot, read the map of the house, and take the Wi-Fi password in plaintext.\n\nA researcher publishing under the handle tokay0&nbsp;put the method online&nbsp;on Monday, having tested it only against vacuums he",
+    "analysis": {
+      "issue": "Shark AWS IoT policy flaw could let one certificate send root commands to other vacuums in the same region, exposing cameras, maps, and Wi-Fi password",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "OpenAI’s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol",
     "link": "https://thehackernews.com/2026/07/openais-gpt-red-automates-prompt.html",
     "published": "Thu, 16 Jul 2026 14:12:31 +0530",
@@ -58,129 +184,76 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps",
-    "link": "https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html",
-    "published": "Wed, 15 Jul 2026 21:00:30 +0530",
-    "summary": "A malware framework called OkoBot has been running on Windows machines since April 2025, and one of its modules is built to con hardware wallet owners out of their recovery phrase.\n\nOn an infected PC, the request comes from inside the wallet's own desktop software. Sometimes it waits until you plug the device in first. The page is malicious. The app around it is the real one you installed, and",
+    "source": "Bleeping Computer",
+    "title": "23andMe to pay $18 million in new genetics data breach settlement",
+    "link": "https://www.bleepingcomputer.com/news/security/23andme-to-pay-18-million-in-new-genetics-data-breach-settlement/",
+    "published": "Thu, 16 Jul 2026 09:47:23 -0400",
+    "summary": "Genetic testing company 23andMe has agreed to pay $18 million to settle claims from a coalition of 43 attorneys general that it failed to protect customers' genetic data. [...]",
     "analysis": {
-      "issue": "OkoBot injects recovery phrase lures into Ledger and Trezor apps, targeting hundreds of Windows users across more than 25 countries",
+      "issue": "Genetic testing company 23andMe (now Chrome Holding Co",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware",
-        "Phishing"
+        "Data Breach"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
-    "link": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html",
-    "published": "Wed, 15 Jul 2026 18:48:53 +0530",
-    "summary": "Mozilla has released updates to address two critical flaws in Firefox for which it warned that exploit code has been published.\n\nThe vulnerabilities are listed below -\n\n\n  CVE-2026-15718, an invalid pointer in the JavaScript: WebAssembly component\n  CVE-2026-15719, a site isolation in the DOM: Navigation component\n\n\"We are aware that exploit code for this is public, however we are not aware of",
+    "source": "Bleeping Computer",
+    "title": "Scattered Spider members behind TfL hack get five years in prison",
+    "link": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-behind-transport-for-london-hack-get-five-years-in-prison/",
+    "published": "Thu, 16 Jul 2026 08:31:29 -0400",
+    "summary": "Two leading members of the Scattered Spider cybercrime collective were sentenced to five years and six months in prison each for hacking Transport for London (TfL) in 2024. [...]",
     "analysis": {
-      "issue": "Mozilla fixes two critical Firefox flaws with public exploit code as Google, Adobe, and Broadcom patch Chrome, ColdFusion, and VMware security bugs",
+      "issue": "Two leading members of the Scattered Spider cybercrime collective were sentenced to five years and six months in prison each for hacking Transport for London (TfL) in 2024",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Windows 11 24H2 Home and Pro reach end of support in 90 days",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-90-days/",
+    "published": "Thu, 16 Jul 2026 07:59:24 -0400",
+    "summary": "Microsoft announced on Wednesday that systems running Windows 10 Enterprise LTSB 2016 and Home and Pro editions of Windows 11 24H2 will stop receiving updates in three months. [...]",
+    "analysis": {
+      "issue": "Microsoft announced on Wednesday that systems running Windows 10 Enterprise LTSB 2016 and Home and Pro editions of Windows 11 24H2 will stop receiving updates in three months",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "CISA orders feds to patch actively exploited Oracle flaw by Saturday",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-flaw-by-saturday/",
+    "published": "Thu, 16 Jul 2026 06:56:03 -0400",
+    "summary": "CISA has ordered federal agencies to secure their systems by Saturday against ongoing attacks exploiting a critical vulnerability in the Oracle E-Business Suite financial application. [...]",
+    "analysis": {
+      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to secure their systems by Saturday against ongoing attacks exploiting a critical vulnerability in the Oracle E-Business Suite (EBS) financial application",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
-      "cves": [],
+      "cves": [
+        "CVE-2026-46817"
+      ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "SASE Has An AI Blind Spot. Inspecting Packets Is No Longer Enough.",
-    "link": "https://thehackernews.com/2026/07/sase-has-ai-blind-spot-inspecting.html",
-    "published": "Wed, 15 Jul 2026 17:20:01 +0530",
-    "summary": "For years, routing traffic through cloud proxies was good enough. Then work moved to the browser, AI entered the workflow, and the inspection model stopped keeping up.\n\nEnterprise workflows now live across SaaS applications, browsers, and an expanding ecosystem of generative AI tools, unsanctioned browser extensions, and autonomous agents. Employees routinely paste intellectual property into",
-    "analysis": {
-      "issue": "Modern SASE shifts enforcement to browsers and endpoints as AI workflows, TLS 1",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday",
-    "link": "https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html",
-    "published": "Wed, 15 Jul 2026 16:37:07 +0530",
-    "summary": "Security researcher Chaotic Eclipse (aka Nightmare-Eclipse) has released a new proof-of-concept (PoC) exploit called LegacyHive.\n\nIt has been described as a Windows User Profile Service arbitrary hive load elevation of privileges vulnerability. The Windows User Profile Service, also referred to as ProfSvc, is a core system component that manages user accounts and environments.\n\n\"The PoC requires",
-    "analysis": {
-      "issue": "LegacyHive is a PoC for a Windows ProfSvc privilege escalation flaw that works after the July 2026 update, but the public build needs extra credential",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "New Webinar: Closing the Approval Gap in AI-Era Ad Tech",
-    "link": "https://thehackernews.com/2026/07/new-webinar-closing-approval-gap-in-ai.html",
-    "published": "Wed, 15 Jul 2026 16:36:57 +0530",
-    "summary": "A single approved marketing tag can quietly load fourth-party code your security team has never seen, granting full access to your forms, customer data, and checkout pages.\n\nThis on-demand webinar reveals how this Approval Gap forms, and gives your team the blueprint to close it before an auditor, regulator, or attacker finds it first.\n\nThe Reality of the Approval Gap\n\nIt's a pattern every",
-    "analysis": {
-      "issue": "Approved marketing tags can load unvetted fourth-party scripts with access to forms, checkout fields, and customer data after the initial review",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Cursor Flaw Lets Malicious Cloned Repositories Trigger Windows Code Execution",
-    "link": "https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html",
-    "published": "Wed, 15 Jul 2026 16:25:22 +0530",
-    "summary": "Open a repository in Cursor&nbsp;on Windows and, if a file named&nbsp;git.exe&nbsp;is sitting in the project root, Cursor runs it. No click, no approval dialog, no warning that anything in the folder is about to execute.\n\nWhatever that binary does, it does as you, with your source, your SSH keys and your cloud tokens. Cursor keeps re-running it for as long as the project stays open.\n\nNo prompt",
-    "analysis": {
-      "issue": "exe when a Windows project opens, enabling code execution as the user",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Compromised AsyncAPI npm Packages Deliver Multi-Stage Botnet Malware",
-    "link": "https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html",
-    "published": "Wed, 15 Jul 2026 14:46:13 +0530",
-    "summary": "Four compromised npm packages in the @asyncapi namespace have been observed distributing a multi-stage botnet loader, according to findings from OX Security, SafeDep, Socket, and StepSecurity.\n\nThe affected packages are listed below -\n\n\n  @asyncapi/generator-helpers@1.1.1\n  @asyncapi/generator-components@0.7.1\n  @asyncapi/generator@3.3.1\n  @asyncapi/specs(v6.11.2, v6.11.2-alpha.1)\n\n\"The",
-    "analysis": {
-      "issue": "Four compromised AsyncAPI npm packages load a multi-stage botnet from IPFS after attackers abuse GitHub Actions, despite valid provenance attestations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
@@ -296,87 +369,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "We built a vulnerability vending machine: AI tokens in, zero-days out",
-    "link": "https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/",
-    "published": "Wed, 15 Jul 2026 10:01:11 -0400",
-    "summary": "Intruder built an AI-powered \"vulnerability vending machine\" that combines code slicing with LLMs to automatically discover complex software vulnerabilities. The company explains how the system found and exploited a previously unknown WordPress plugin zero-day, with additional discoveries already under responsible disclosure. [...]",
-    "analysis": {
-      "issue": "AI is changing how vulnerability research gets done, but most of the conversation is still theoretical: what a model might eventually be capable of, rather than what it can actually find today",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA warns admins to patch actively exploited SharePoint flaws",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/",
-    "published": "Wed, 15 Jul 2026 05:44:52 -0400",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned Tuesday that attackers are actively exploiting three vulnerabilities to hack Internet-exposed on-premises SharePoint Server instances. [...]",
-    "analysis": {
-      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) warned Tuesday that attackers are actively exploiting three vulnerabilities to hack Internet-exposed on-premises SharePoint Server instances",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-45659",
-        "CVE-2026-58644",
-        "CVE-2026-55040",
-        "CVE-2026-56164",
-        "CVE-2026-32201"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft: Some Dell PCs shut down after recent Windows updates",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-dell-devices-shut-down-after-windows-update/",
-    "published": "Wed, 15 Jul 2026 04:26:48 -0400",
-    "summary": "Microsoft is blocking this month's Windows 11 security updates on some Dell devices because they are causing shutdowns and performance issues. [...]",
-    "analysis": {
-      "issue": "Microsoft is blocking this month's Windows 11 security updates on some Dell devices because they are causing shutdowns and performance issues",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "US charges alleged operators of Russian bulletproof hosting service",
-    "link": "https://www.bleepingcomputer.com/news/security/us-charges-alleged-russian-bulletproof-hosting-service-operators/",
-    "published": "Wed, 15 Jul 2026 03:45:50 -0400",
-    "summary": "U.S. federal prosecutors have unsealed charges against three Russian nationals, accusing them of providing bulletproof hosting (BPH) services to ransomware gangs that caused over $62 million in damages to victims worldwide. [...]",
-    "analysis": {
-      "issue": "federal prosecutors have unsealed charges against three Russian nationals, accusing them of providing bulletproof hosting (BPH) services to ransomware gangs that caused over $62 million in damages to victims worldwide",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Microsoft Patches a Record 570 Security Flaws",
     "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
@@ -389,10 +381,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56155",
         "CVE-2026-48561",
         "CVE-2026-56164",
-        "CVE-2026-50661"
+        "CVE-2026-50661",
+        "CVE-2026-56155"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -498,7 +490,20 @@
     "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
     "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
     "published": "Wed, 10 Jun 2026 14:03:44 +0000",
-    "summary": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ransom paid by victims. This post examines clues pointing to a real life identity for the administrator of The Gentlemen ransomware group."
+    "summary": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ransom paid by victims. This post examines clues pointing to a real life identity for the administrator of The Gentlemen ransomware group.",
+    "analysis": {
+      "issue": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ranso",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "Malware"
+      ]
+    }
   },
   {
     "source": "Krebs On Security",
@@ -514,8 +519,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-45586",
-        "CVE-2026-50507",
-        "CVE-2026-49160"
+        "CVE-2026-49160",
+        "CVE-2026-50507"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -558,6 +563,105 @@
         "Data Breach",
         "APT",
         "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Two Scattered Spider Hackers Sentenced to Jail in UK",
+    "link": "https://www.securityweek.com/two-scattered-spider-hackers-sentenced-to-jail-in-uk/",
+    "published": "Thu, 16 Jul 2026 13:21:12 +0000",
+    "summary": "<p>Thalha Jubair and Owen Flowers were prosecuted over a 2024 cyberattack targeting Transport for London (TfL).</p>\n<p>The post <a href=\"https://www.securityweek.com/two-scattered-spider-hackers-sentenced-to-jail-in-uk/\">Two Scattered Spider Hackers Sentenced to Jail in UK</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Thalha Jubair and Owen Flowers were prosecuted over a 2024 cyberattack targeting Transport for London (TfL)",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "AI Data Centers Are Being Built Faster Than They Can Be Secured",
+    "link": "https://www.securityweek.com/ai-data-centers-are-being-built-faster-than-they-can-be-secured/",
+    "published": "Thu, 16 Jul 2026 13:00:00 +0000",
+    "summary": "<p>AI infrastructure introduces new security risks that traditional data center designs were never built to handle.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-data-centers-are-being-built-faster-than-they-can-be-secured/\">AI Data Centers Are Being Built Faster Than They Can Be Secured</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "AI infrastructure introduces new security risks that traditional data center designs were never built to handle",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "‘ClickLock Stealer’ Bypasses macOS Security With Social Engineering, Process Killing",
+    "link": "https://www.securityweek.com/clicklock-stealer-bypasses-macos-security-with-social-engineering-process-killing/",
+    "published": "Thu, 16 Jul 2026 12:43:59 +0000",
+    "summary": "<p>The new macOS malware has targeted at least 100 users to steal their passwords and cryptocurrency. </p>\n<p>The post <a href=\"https://www.securityweek.com/clicklock-stealer-bypasses-macos-security-with-social-engineering-process-killing/\">&#8216;ClickLock Stealer&#8217; Bypasses macOS Security With Social Engineering, Process Killing</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The new macOS malware has targeted at least 100 users to steal their passwords and cryptocurrency",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Oak Emerges From Stealth Mode With $60 Million in Funding",
+    "link": "https://www.securityweek.com/oak-emerges-from-stealth-mode-with-60-million-in-funding/",
+    "published": "Thu, 16 Jul 2026 11:23:56 +0000",
+    "summary": "<p>The startup has built an AI-powered Identity Operating System that governs all identities across an organization’s environment.</p>\n<p>The post <a href=\"https://www.securityweek.com/oak-emerges-from-stealth-mode-with-60-million-in-funding/\">Oak Emerges From Stealth Mode With $60 Million in Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The startup has built an AI-powered Identity Operating System that governs all identities across an organization’s environment",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Splunk, Zoom Patch Critical Vulnerabilities",
+    "link": "https://www.securityweek.com/splunk-zoom-patch-critical-vulnerabilities/",
+    "published": "Thu, 16 Jul 2026 10:54:34 +0000",
+    "summary": "<p>The flaws could allow attackers to access credentials and data, take over accounts, and escalate their privileges.</p>\n<p>The post <a href=\"https://www.securityweek.com/splunk-zoom-patch-critical-vulnerabilities/\">Splunk, Zoom Patch Critical Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The flaws could allow attackers to access credentials and data, take over accounts, and escalate their privileges",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-20296",
+        "CVE-2026-20298",
+        "CVE-2026-53412",
+        "CVE-2026-20297"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
       ]
     }
   },
@@ -663,109 +767,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Unpatched Cursor Vulnerability Exposes Users to Code Execution",
-    "link": "https://www.securityweek.com/unpatched-cursor-vulnerability-exposes-users-to-code-execution/",
-    "published": "Wed, 15 Jul 2026 14:37:13 +0000",
-    "summary": "<p>An attacker can create a malicious repository containing a git.exe in the project root, and Cursor executes it automatically.</p>\n<p>The post <a href=\"https://www.securityweek.com/unpatched-cursor-vulnerability-exposes-users-to-code-execution/\">Unpatched Cursor Vulnerability Exposes Users to Code Execution</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "An attacker can create a malicious repository containing a git",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "CISA Urges Immediate Patching of Exploited SharePoint Vulnerabilities",
-    "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-sharepoint-vulnerabilities/",
-    "published": "Wed, 15 Jul 2026 14:07:44 +0000",
-    "summary": "<p>Three vulnerabilities are actively exploited in attacks, including two that have been targeted as zero-days.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-sharepoint-vulnerabilities/\">CISA Urges Immediate Patching of Exploited SharePoint Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Three vulnerabilities are actively exploited in attacks, including two that have been targeted as zero-days",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-45659",
-        "CVE-2026-58644",
-        "CVE-2026-55040",
-        "CVE-2026-56164",
-        "CVE-2026-32201"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Windows Bind Link Attacks Can Hide Malware From EDR Tools",
-    "link": "https://www.securityweek.com/windows-bind-link-attacks-can-hide-malware-from-edr-tools/",
-    "published": "Wed, 15 Jul 2026 13:00:00 +0000",
-    "summary": "<p>Bitdefender researchers show how Windows bind links can create conflicting filesystem views to hide malware from endpoint security products.</p>\n<p>The post <a href=\"https://www.securityweek.com/windows-bind-link-attacks-can-hide-malware-from-edr-tools/\">Windows Bind Link Attacks Can Hide Malware From EDR Tools</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Bitdefender researchers show how Windows bind links can create conflicting filesystem views to hide malware from endpoint security products",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Virtual Event Today: Cloud & Data Security Summit",
-    "link": "https://www.securityweek.com/virtual-event-today-cloud-data-security-summit/",
-    "published": "Wed, 15 Jul 2026 12:52:10 +0000",
-    "summary": "<p>Attendees will be able to interact with leading solution providers and other end users facing similar challenges in securing a variety of cloud deployments.</p>\n<p>The post <a href=\"https://www.securityweek.com/virtual-event-today-cloud-data-security-summit/\">Virtual Event Today: Cloud &amp; Data Security Summit</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Attendees will be able to interact with leading solution providers and other end users facing similar challenges in securing a variety of cloud deployments",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "US Charges Russian Individuals and Firms for Running Cybercrime Services",
-    "link": "https://www.securityweek.com/us-charges-russian-individuals-and-firms-for-running-cybercrime-services/",
-    "published": "Wed, 15 Jul 2026 11:58:05 +0000",
-    "summary": "<p>The suspects and their companies were previously sanctioned by the United States and its allies.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-charges-russian-individuals-and-firms-for-running-cybercrime-services/\">US Charges Russian Individuals and Firms for Running Cybercrime Services</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The suspects and their companies were previously sanctioned by the United States and its allies",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Phishing",
-        "DDoS"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "The Hunter's Paradox: Is it time to embrace automated threat hunting?",
     "link": "https://blog.talosintelligence.com/the-hunters-paradox-is-it-time-to-embrace-automated-threat-hunting/",
@@ -814,34 +815,34 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56188",
-        "CVE-2026-54128",
-        "CVE-2026-55944",
-        "CVE-2026-55022",
-        "CVE-2026-50655",
-        "CVE-2026-58644",
-        "CVE-2026-55018",
-        "CVE-2026-55132",
         "CVE-2026-55123",
-        "CVE-2026-56164",
-        "CVE-2026-55033",
-        "CVE-2026-50314",
+        "CVE-2026-55129",
+        "CVE-2026-54128",
+        "CVE-2026-55120",
+        "CVE-2026-58644",
+        "CVE-2026-55043",
+        "CVE-2026-50522",
+        "CVE-2026-50518",
+        "CVE-2026-55140",
         "CVE-2026-54992",
+        "CVE-2026-55022",
+        "CVE-2026-55049",
+        "CVE-2026-56155",
+        "CVE-2026-50370",
+        "CVE-2026-56188",
+        "CVE-2026-56164",
+        "CVE-2026-50314",
+        "CVE-2026-55056",
+        "CVE-2026-55045",
         "CVE-2026-50327",
         "CVE-2026-55010",
-        "CVE-2026-55045",
-        "CVE-2026-55049",
-        "CVE-2026-55129",
         "CVE-2026-50467",
-        "CVE-2026-50370",
-        "CVE-2026-56155",
-        "CVE-2026-50518",
-        "CVE-2026-55043",
-        "CVE-2026-55140",
-        "CVE-2026-55120",
+        "CVE-2026-55033",
+        "CVE-2026-55132",
+        "CVE-2026-55944",
         "CVE-2026-55127",
-        "CVE-2026-50522",
-        "CVE-2026-55056"
+        "CVE-2026-55018",
+        "CVE-2026-50655"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -900,9 +901,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-25106",
         "CVE-2026-28739",
-        "CVE-2026-33091"
+        "CVE-2026-33091",
+        "CVE-2026-25106"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -983,6 +984,24 @@
       "cves": [],
       "threat_categories": [
         "APT"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "AI Has Enhanced Iran’s Asymmetric Playbook During the 2026 Conflict",
+    "link": "https://www.recordedfuture.com/research/iran-ai-asymmetric-playbook",
+    "published": "Thu, 16 Jul 2026 00:00:00 GMT",
+    "summary": "Explore how Iran has utilized AI to enhance its asymmetric playbook during the 2026 conflict. Learn how AI acts as a force multiplier for Iranian cyber operations, influence campaigns, and domestic surveillance.",
+    "analysis": {
+      "issue": "Explore how Iran has utilized AI to enhance its asymmetric playbook during the 2026 conflict",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1138,24 +1157,6 @@
     "summary": "A dataset containing valid administrative and VPN credentials for tens of thousands of Fortinet FortiGate firewalls.",
     "analysis": {
       "issue": "A dataset containing valid administrative and VPN credentials for tens of thousands of Fortinet FortiGate firewalls",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "The Purchase Scam Tactic Headed  for the World Cup | Recorded Future",
-    "link": "https://www.recordedfuture.com/blog/world-cup-purchase-scam-tactics",
-    "published": "Tue, 23 Jun 2026 00:00:00 GMT",
-    "summary": "A purchase scam tactic hijacks organic search through compromised sites, and it’s built to scale into 2026 FIFA World Cup fraud. How it works and how to respond.",
-    "analysis": {
-      "issue": "A purchase scam tactic hijacks organic search through compromised sites, and it’s built to scale into 2026 FIFA World Cup fraud",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1364,6 +1365,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Security updates available for Adobe, Chrome, Firefox, VMWare, and Zoom",
+    "link": "https://www.malwarebytes.com/blog/bugs/2026/07/security-updates-available-for-adobe-chrome-firefox-vmware-and-zoom",
+    "published": "Thu, 16 Jul 2026 10:47:22 GMT",
+    "summary": "Several updates have been made available including those for Adobe, Chrome, Firefox, VMWare, and Zoom.",
+    "analysis": {
+      "issue": "Security updates are not just for enterprises with a dedicated security team and a change-management calendar",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Samsung backs down on threat to delete health data",
     "link": "https://www.malwarebytes.com/blog/privacy/2026/07/samsung-backs-down-on-threat-to-delete-health-data",
     "published": "Thu, 16 Jul 2026 09:25:59 GMT",
@@ -1522,24 +1541,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "A week in security (July 6 &#8211; July 12)",
-    "link": "https://www.malwarebytes.com/blog/news/2026/07/a-week-in-security-july-6-july-12",
-    "published": "Mon, 13 Jul 2026 07:01:00 GMT",
-    "summary": "A list of topics we covered in the week of July 6 to July 12 of 2026",
-    "analysis": {
-      "issue": "Last week on Malwarebytes Labs: Stay safe",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
