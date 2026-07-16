@@ -1,10 +1,17 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-15 17:47:18 UTC
+**Last Updated:** 2026-07-16 03:13:34 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps](https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html)
+### 1. [TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development](https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 16 Jul 2026 00:13:08 +0530  
+
+---
+
+### 2. [OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps](https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 15 Jul 2026 21:00:30 +0530  
@@ -13,7 +20,7 @@
 
 ---
 
-### 2. [Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws](https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html)
+### 3. [Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws](https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 15 Jul 2026 18:48:53 +0530  
@@ -22,7 +29,7 @@
 
 ---
 
-### 3. [SASE Has An AI Blind Spot. Inspecting Packets Is No Longer Enough.](https://thehackernews.com/2026/07/sase-has-ai-blind-spot-inspecting.html)
+### 4. [SASE Has An AI Blind Spot. Inspecting Packets Is No Longer Enough.](https://thehackernews.com/2026/07/sase-has-ai-blind-spot-inspecting.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 15 Jul 2026 17:20:01 +0530  
@@ -31,7 +38,7 @@
 
 ---
 
-### 4. [Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday](https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html)
+### 5. [Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday](https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 15 Jul 2026 16:37:07 +0530  
@@ -40,7 +47,7 @@
 
 ---
 
-### 5. [New Webinar: Closing the Approval Gap in AI-Era Ad Tech](https://thehackernews.com/2026/07/new-webinar-closing-approval-gap-in-ai.html)
+### 6. [New Webinar: Closing the Approval Gap in AI-Era Ad Tech](https://thehackernews.com/2026/07/new-webinar-closing-approval-gap-in-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 15 Jul 2026 16:36:57 +0530  
@@ -49,7 +56,7 @@
 
 ---
 
-### 6. [Cursor Flaw Lets Malicious Cloned Repositories Trigger Windows Code Execution](https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html)
+### 7. [Cursor Flaw Lets Malicious Cloned Repositories Trigger Windows Code Execution](https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 15 Jul 2026 16:25:22 +0530  
@@ -58,7 +65,7 @@
 
 ---
 
-### 7. [Compromised AsyncAPI npm Packages Deliver Multi-Stage Botnet Malware](https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html)
+### 8. [Compromised AsyncAPI npm Packages Deliver Multi-Stage Botnet Malware](https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 15 Jul 2026 14:46:13 +0530  
@@ -67,7 +74,7 @@
 
 ---
 
-### 8. [Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands](https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html)
+### 9. [Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands](https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 15 Jul 2026 11:00:21 +0530  
@@ -76,7 +83,7 @@
 
 ---
 
-### 9. [Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack](https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html)
+### 10. [Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack](https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 15 Jul 2026 01:55:47 +0530  
@@ -85,16 +92,35 @@
 
 ---
 
-### 10. [SAP Patches CVSS 9.9 NetWeaver ABAP Flaw That Could Expose or Modify Data](https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html)
+### 11. [Dutch police bust investment fraud ring stealing over €100 million](https://www.bleepingcomputer.com/news/security/dutch-police-bust-investment-fraud-ring-stealing-over-100-million/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 14 Jul 2026 23:47:57 +0530  
-**Severity:** Critical  
+**Source:** Bleeping Computer  
+**Published:** Wed, 15 Jul 2026 17:55:50 -0400  
+**Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 11. [​    ​AsyncAPI npm packages infected with credential-stealing malware](https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/)
+### 12. [Zoom warns of critical account takeover vulnerability](https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 15 Jul 2026 16:16:02 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-53412  
+**Categories:** Vulnerability  
+
+---
+
+### 13. [Google Gemini CLI abused as a hacking agent, malware botnet operator](https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 15 Jul 2026 14:33:48 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 14. [AsyncAPI npm packages infected with credential-stealing malware](https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 15 Jul 2026 11:37:27 -0400  
@@ -103,7 +129,7 @@
 
 ---
 
-### 12. [We built a vulnerability vending machine: AI tokens in, zero-days out](https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/)
+### 15. [We built a vulnerability vending machine: AI tokens in, zero-days out](https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 15 Jul 2026 10:01:11 -0400  
@@ -112,17 +138,17 @@
 
 ---
 
-### 13. [CISA warns admins to patch actively exploited SharePoint flaws](https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/)
+### 16. [CISA warns admins to patch actively exploited SharePoint flaws](https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 15 Jul 2026 05:44:52 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2026-56164, CVE-2026-55040, CVE-2026-58644, CVE-2026-45659, CVE-2026-32201  
+**CVEs:** CVE-2026-32201, CVE-2026-58644, CVE-2026-56164, CVE-2026-45659, CVE-2026-55040  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 14. [Microsoft: Some Dell PCs shut down after recent Windows updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-some-dell-devices-shut-down-after-windows-update/)
+### 17. [Microsoft: Some Dell PCs shut down after recent Windows updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-some-dell-devices-shut-down-after-windows-update/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 15 Jul 2026 04:26:48 -0400  
@@ -131,7 +157,7 @@
 
 ---
 
-### 15. [US charges alleged operators of Russian bulletproof hosting service](https://www.bleepingcomputer.com/news/security/us-charges-alleged-russian-bulletproof-hosting-service-operators/)
+### 18. [US charges alleged operators of Russian bulletproof hosting service](https://www.bleepingcomputer.com/news/security/us-charges-alleged-russian-bulletproof-hosting-service-operators/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 15 Jul 2026 03:45:50 -0400  
@@ -140,7 +166,7 @@
 
 ---
 
-### 16. [SonicWall warns of SMA1000 flaws exploited in zero-day attacks, patch now](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/)
+### 19. [SonicWall warns of SMA1000 flaws exploited in zero-day attacks, patch now](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 14 Jul 2026 17:23:24 -0400  
@@ -150,7 +176,7 @@
 
 ---
 
-### 17. [Spanish Police take down €140 million cyber fraud ring, arrest four](https://www.bleepingcomputer.com/news/security/spanish-police-take-down-140-million-cyber-fraud-ring-arrest-four/)
+### 20. [Spanish Police take down €140 million cyber fraud ring, arrest four](https://www.bleepingcomputer.com/news/security/spanish-police-take-down-140-million-cyber-fraud-ring-arrest-four/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 14 Jul 2026 16:23:09 -0400  
@@ -159,39 +185,12 @@
 
 ---
 
-### 18. [Nearly 300 GitHub repos pose as legit software to push malware](https://www.bleepingcomputer.com/news/security/nearly-300-github-repos-pose-as-legit-software-to-push-malware/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 14 Jul 2026 15:15:17 -0400  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 19. [Microsoft releases Windows 10 KB5099539 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5099539-extended-security-update/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 14 Jul 2026 14:49:28 -0400  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 20. [Microsoft July 2026 Patch Tuesday fixes massive 570 flaws, 3 zero-days](https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2026-patch-tuesday-fixes-massive-570-flaws-3-zero-days/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 14 Jul 2026 14:01:36 -0400  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
 ### 21. [Microsoft Patches a Record 570 Security Flaws](https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48561, CVE-2026-56164, CVE-2026-50661, CVE-2026-56155  
+**CVEs:** CVE-2026-56155, CVE-2026-48561, CVE-2026-56164, CVE-2026-50661  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -255,7 +254,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-49160, CVE-2026-50507, CVE-2026-45586  
+**CVEs:** CVE-2026-45586, CVE-2026-49160, CVE-2026-50507  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -292,7 +291,7 @@
 **Source:** Security Week  
 **Published:** Wed, 15 Jul 2026 14:07:44 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56164, CVE-2026-55040, CVE-2026-58644, CVE-2026-45659, CVE-2026-32201  
+**CVEs:** CVE-2026-32201, CVE-2026-58644, CVE-2026-56164, CVE-2026-45659, CVE-2026-55040  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -329,7 +328,7 @@
 **Source:** Security Week  
 **Published:** Wed, 15 Jul 2026 11:02:57 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-14903, CVE-2026-6875, CVE-2026-14902  
+**CVEs:** CVE-2026-14902, CVE-2026-6875, CVE-2026-14903  
 **Categories:** Vulnerability  
 
 ---
@@ -366,7 +365,7 @@
 **Source:** Security Week  
 **Published:** Wed, 15 Jul 2026 07:24:52 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-15719, CVE-2026-15718, CVE-2026-15765, CVE-2026-15764  
+**CVEs:** CVE-2026-15764, CVE-2026-15718, CVE-2026-15719, CVE-2026-15765  
 **Categories:** Vulnerability  
 
 ---
@@ -376,7 +375,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Jul 2026 20:27:33 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-54992, CVE-2026-55127, CVE-2026-55010, CVE-2026-50314, CVE-2026-55043, CVE-2026-55022, CVE-2026-50518, CVE-2026-55018, CVE-2026-55944, CVE-2026-50467, CVE-2026-50327, CVE-2026-54128, CVE-2026-55056, CVE-2026-56188, CVE-2026-55123, CVE-2026-50370, CVE-2026-56164, CVE-2026-55120, CVE-2026-50655, CVE-2026-56155, CVE-2026-55045, CVE-2026-58644, CVE-2026-55140, CVE-2026-50522, CVE-2026-55049, CVE-2026-55129, CVE-2026-55033, CVE-2026-55132  
+**CVEs:** CVE-2026-50370, CVE-2026-50327, CVE-2026-56155, CVE-2026-55022, CVE-2026-55120, CVE-2026-50314, CVE-2026-55045, CVE-2026-55018, CVE-2026-55043, CVE-2026-50518, CVE-2026-50655, CVE-2026-58644, CVE-2026-56164, CVE-2026-54128, CVE-2026-55944, CVE-2026-50522, CVE-2026-55132, CVE-2026-54992, CVE-2026-55123, CVE-2026-55140, CVE-2026-55010, CVE-2026-50467, CVE-2026-55127, CVE-2026-55033, CVE-2026-55056, CVE-2026-55129, CVE-2026-55049, CVE-2026-56188  
 **Categories:** Vulnerability  
 
 ---
@@ -509,16 +508,7 @@
 
 ---
 
-### 56. [Recorded FutureがGartner® サイバー脅威インテリジェンス・テクノロジー部門のMagic Quadrant™のリーダーの１社に位置づけられました。](https://www.recordedfuture.com/blog/gartner-mq-announcement-jp)
-
-**Source:** Recorded Future  
-**Published:** Thu, 02 Jul 2026 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 57. [Iran-Nexus TAG-182 Disseminates MarkiRAT Surveillance Tool](https://www.recordedfuture.com/research/nexus-tag182-disseminates-markirat)
+### 56. [Iran-Nexus TAG-182 Disseminates MarkiRAT Surveillance Tool](https://www.recordedfuture.com/research/nexus-tag182-disseminates-markirat)
 
 **Source:** Recorded Future  
 **Published:** Wed, 01 Jul 2026 00:00:00 GMT  
@@ -527,7 +517,7 @@
 
 ---
 
-### 58. [Where Expertise Meets Algorithm: The Insikt Group® Intelligence Edge](https://www.recordedfuture.com/blog/expertise-meets-algorithm-intelligence-edge)
+### 57. [Where Expertise Meets Algorithm: The Insikt Group® Intelligence Edge](https://www.recordedfuture.com/blog/expertise-meets-algorithm-intelligence-edge)
 
 **Source:** Recorded Future  
 **Published:** Thu, 25 Jun 2026 00:00:00 GMT  
@@ -536,7 +526,7 @@
 
 ---
 
-### 59. [Evaluating Mexico’s New Cybersecurity Plan](https://www.recordedfuture.com/research/mexico-new-cybersecurity-plan-evaluation)
+### 58. [Evaluating Mexico’s New Cybersecurity Plan](https://www.recordedfuture.com/research/mexico-new-cybersecurity-plan-evaluation)
 
 **Source:** Recorded Future  
 **Published:** Thu, 25 Jun 2026 00:00:00 GMT  
@@ -545,10 +535,19 @@
 
 ---
 
-### 60. [FortiBleed Campaign Exposing Credentials for 73,932 FortiGate Systems](https://www.recordedfuture.com/blog/critical-fortibleed-campaign)
+### 59. [FortiBleed Campaign Exposing Credentials for 73,932 FortiGate Systems](https://www.recordedfuture.com/blog/critical-fortibleed-campaign)
 
 **Source:** Recorded Future  
 **Published:** Wed, 24 Jun 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 60. [The Purchase Scam Tactic Headed  for the World Cup | Recorded Future](https://www.recordedfuture.com/blog/world-cup-purchase-scam-tactics)
+
+**Source:** Recorded Future  
+**Published:** Tue, 23 Jun 2026 00:00:00 GMT  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -739,7 +738,16 @@
 
 ---
 
-### 81. [July 2026 Patch Tuesday: Microsoft Patches 622 Vulnerabilities Including Two Exploited Zero-Days](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-july-2026/)
+### 81. [AIDR: How CrowdStrike Is Defining the Next Era of Cybersecurity](https://www.crowdstrike.com/en-us/blog/aidr-how-crowdstrike-is-defining-next-era-of-cybersecurity/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Jul 15, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 82. [July 2026 Patch Tuesday: Microsoft Patches 622 Vulnerabilities Including Two Exploited Zero-Days](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-july-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 14, 2026 00:00:00-0500  
@@ -748,7 +756,7 @@
 
 ---
 
-### 82. [Why AI Governance Without Guardrails Is Theater](https://www.crowdstrike.com/en-us/blog/why-ai-governance-without-guardrails-is-theater/)
+### 83. [Why AI Governance Without Guardrails Is Theater](https://www.crowdstrike.com/en-us/blog/why-ai-governance-without-guardrails-is-theater/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 09, 2026 00:00:00-0500  
@@ -757,7 +765,7 @@
 
 ---
 
-### 83. [Falcon Secure Access Sets the Standard for Zero Trust Browser Security](https://www.crowdstrike.com/en-us/blog/falcon-secure-access-sets-standard-for-zero-trust-security-browser/)
+### 84. [Falcon Secure Access Sets the Standard for Zero Trust Browser Security](https://www.crowdstrike.com/en-us/blog/falcon-secure-access-sets-standard-for-zero-trust-security-browser/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 08, 2026 00:00:00-0500  
@@ -766,7 +774,7 @@
 
 ---
 
-### 84. [CrowdStrike Uncovers New Prompt Injection Techniques](https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-prompt-injection-techniques/)
+### 85. [CrowdStrike Uncovers New Prompt Injection Techniques](https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-prompt-injection-techniques/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 07, 2026 00:00:00-0500  
@@ -775,7 +783,7 @@
 
 ---
 
-### 85. [How AI-leading Security Teams Are Building the Agentic SOC](https://www.crowdstrike.com/en-us/blog/how-ai-leading-security-teams-are-building-the-agentic-soc/)
+### 86. [How AI-leading Security Teams Are Building the Agentic SOC](https://www.crowdstrike.com/en-us/blog/how-ai-leading-security-teams-are-building-the-agentic-soc/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 06, 2026 00:00:00-0500  
@@ -784,7 +792,7 @@
 
 ---
 
-### 86. [Browser Security: Zero-Days Are Only Part of the Problem](https://www.crowdstrike.com/en-us/blog/browser-security-zero-days-are-only-part-of-the-problem/)
+### 87. [Browser Security: Zero-Days Are Only Part of the Problem](https://www.crowdstrike.com/en-us/blog/browser-security-zero-days-are-only-part-of-the-problem/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 30, 2026 00:00:00-0500  
@@ -793,7 +801,7 @@
 
 ---
 
-### 87. [Falcon Cloud Security June 2026 Release: Updates for Azure and Google Cloud](https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-expanding-multi-cloud-coverage/)
+### 88. [Falcon Cloud Security June 2026 Release: Updates for Azure and Google Cloud](https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-expanding-multi-cloud-coverage/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 29, 2026 00:00:00-0500  
@@ -802,7 +810,7 @@
 
 ---
 
-### 88. [The Identity Problem Hiding in AI Agent Deployments](https://www.crowdstrike.com/en-us/blog/the-identity-problem-hiding-in-ai-agent-deployments/)
+### 89. [The Identity Problem Hiding in AI Agent Deployments](https://www.crowdstrike.com/en-us/blog/the-identity-problem-hiding-in-ai-agent-deployments/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 24, 2026 00:00:00-0500  
@@ -811,19 +819,10 @@
 
 ---
 
-### 89. [94% of Organizations Report Cloud Breaches: CrowdStrike State of CDR Survey](https://www.crowdstrike.com/en-us/blog/crowdstrike-state-of-cdr-survey-key-takeaways/)
+### 90. [94% of Organizations Report Cloud Breaches: CrowdStrike State of CDR Survey](https://www.crowdstrike.com/en-us/blog/crowdstrike-state-of-cdr-survey-key-takeaways/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 22, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 90. [New Abuse of the ClickOnce Technology, Part 2: Stop Threat Actors from Clicking Once and Staying Forever](https://www.crowdstrike.com/en-us/blog/new-abuse-of-the-clickonce-technology-part-two/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Jun 18, 2026 00:00:00-0500  
 **Severity:** Low  
 **Categories:** General Security  
 

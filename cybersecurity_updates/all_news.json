@@ -1,6 +1,13 @@
 [
   {
     "source": "The Hacker News",
+    "title": "TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development",
+    "link": "https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html",
+    "published": "Thu, 16 Jul 2026 00:13:08 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a previously unreported Internet-of-Things (IoT) botnet framework dubbed TuxBot v3 Evolution that shows signs of being developed with assistance from a large language model (LLM), albeit with not so successful results.\n\n\"While the AI complied with their request to generate botnet code, it included a safety disclaimer that the developer failed"
+  },
+  {
+    "source": "The Hacker News",
     "title": "OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps",
     "link": "https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html",
     "published": "Wed, 15 Jul 2026 21:00:30 +0530",
@@ -163,17 +170,17 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "SAP Patches CVSS 9.9 NetWeaver ABAP Flaw That Could Expose or Modify Data",
-    "link": "https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html",
-    "published": "Tue, 14 Jul 2026 23:47:57 +0530",
-    "summary": "SAP has rolled out updates to address multiple vulnerabilities as part of its July 2026 security updates, including a critical flaw in SAP NetWeaver Application Server ABAP.\n\nThe vulnerability in question is CVE-2026-44747 (CVSS score: 9.9), an out-of-bounds write flaw that allows an authenticated attacker to leverage logical errors in memory management to cause a memory corruption that could",
+    "source": "Bleeping Computer",
+    "title": "Dutch police bust investment fraud ring stealing over €100 million",
+    "link": "https://www.bleepingcomputer.com/news/security/dutch-police-bust-investment-fraud-ring-stealing-over-100-million/",
+    "published": "Wed, 15 Jul 2026 17:55:50 -0400",
+    "summary": "The Dutch Police announced the arrest of multiple individuals suspected of being part of an international investment fraud scheme estimated to have tens of thousands of victims. [...]",
     "analysis": {
-      "issue": "SAP patches three critical flaws, including a 9",
+      "issue": "The Dutch Police announced the arrest of multiple individuals suspected of being part of an international investment fraud scheme estimated to have tens of thousands of victims",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Critical",
+      "severity": "Low",
       "cves": [],
       "threat_categories": [
         "General Security"
@@ -182,7 +189,45 @@
   },
   {
     "source": "Bleeping Computer",
-    "title": "​    ​AsyncAPI npm packages infected with credential-stealing malware",
+    "title": "Zoom warns of critical account takeover vulnerability",
+    "link": "https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/",
+    "published": "Wed, 15 Jul 2026 16:16:02 -0400",
+    "summary": "Zoom is warning of a critical vulnerability in its desktop client and software development kit for Windows that could be exploited by an unauthenticated party to hijack accounts. [...]",
+    "analysis": {
+      "issue": "Zoom is warning of a critical vulnerability in its desktop client and software development kit for Windows that could be exploited by an unauthenticated party to hijack accounts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-53412"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Google Gemini CLI abused as a hacking agent, malware botnet operator",
+    "link": "https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/",
+    "published": "Wed, 15 Jul 2026 14:33:48 -0400",
+    "summary": "A Russian-speaking threat actor known as \"bandcampro\" used Google's open-source Gemini CLI AI tool as a hacking agent and to operate a small-scale botnet. [...]",
+    "analysis": {
+      "issue": "A Russian-speaking threat actor known as \"bandcampro\" used Google's open-source Gemini CLI AI tool as a hacking agent and to operate a small-scale botnet",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "AsyncAPI npm packages infected with credential-stealing malware",
     "link": "https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/",
     "published": "Wed, 15 Jul 2026 11:37:27 -0400",
     "summary": "Five malicious versions of AsyncAPI packages were published to the Node Package Manager (npm) in a supply-chain attack that delivered a remote access trojan with info-stealing capabilities. [...]",
@@ -230,11 +275,11 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-56164",
-        "CVE-2026-55040",
+        "CVE-2026-32201",
         "CVE-2026-58644",
+        "CVE-2026-56164",
         "CVE-2026-45659",
-        "CVE-2026-32201"
+        "CVE-2026-55040"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -320,60 +365,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Nearly 300 GitHub repos pose as legit software to push malware",
-    "link": "https://www.bleepingcomputer.com/news/security/nearly-300-github-repos-pose-as-legit-software-to-push-malware/",
-    "published": "Tue, 14 Jul 2026 15:15:17 -0400",
-    "summary": "A threat actor has published hundreds of fake GitHub repositories impersonating legitimate software and security projects to distribute infostealer malware. [...]",
-    "analysis": {
-      "issue": "A threat actor has published hundreds of fake GitHub repositories impersonating legitimate software and security projects to distribute infostealer malware",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft releases Windows 10 KB5099539 extended security update",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5099539-extended-security-update/",
-    "published": "Tue, 14 Jul 2026 14:49:28 -0400",
-    "summary": "Microsoft has released the Windows 10 KB5099539 extended security update, which includes this month's record-breaking July 2026 Patch Tuesday fixes, along with additional security improvements. [...]",
-    "analysis": {
-      "issue": "Microsoft has released the Windows 10 KB5099539 extended security update, which includes this month's record-breaking July 2026 Patch Tuesday fixes, along with additional security improvements",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft July 2026 Patch Tuesday fixes massive 570 flaws, 3 zero-days",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2026-patch-tuesday-fixes-massive-570-flaws-3-zero-days/",
-    "published": "Tue, 14 Jul 2026 14:01:36 -0400",
-    "summary": "Today is Microsoft's July 2026 Patch Tuesday, and with it comes security updates for a record-breaking 570 flaws, including two zero-day vulnerabilities exploited in attacks and one publicly disclosed. [...]",
-    "analysis": {
-      "issue": "Today is Microsoft's July 2026 Patch Tuesday, and with it comes security updates for a record-breaking 570 flaws, including two zero-day vulnerabilities exploited in attacks and one publicly disclosed",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Microsoft Patches a Record 570 Security Flaws",
     "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
@@ -386,10 +377,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-56155",
         "CVE-2026-48561",
         "CVE-2026-56164",
-        "CVE-2026-50661",
-        "CVE-2026-56155"
+        "CVE-2026-50661"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -523,9 +514,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-45586",
         "CVE-2026-49160",
-        "CVE-2026-50507",
-        "CVE-2026-45586"
+        "CVE-2026-50507"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -603,11 +594,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56164",
-        "CVE-2026-55040",
+        "CVE-2026-32201",
         "CVE-2026-58644",
+        "CVE-2026-56164",
         "CVE-2026-45659",
-        "CVE-2026-32201"
+        "CVE-2026-55040"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -687,9 +678,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-14903",
+        "CVE-2026-14902",
         "CVE-2026-6875",
-        "CVE-2026-14902"
+        "CVE-2026-14903"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -765,10 +756,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-15719",
+        "CVE-2026-15764",
         "CVE-2026-15718",
-        "CVE-2026-15765",
-        "CVE-2026-15764"
+        "CVE-2026-15719",
+        "CVE-2026-15765"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -788,34 +779,34 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-54992",
-        "CVE-2026-55127",
-        "CVE-2026-55010",
-        "CVE-2026-50314",
-        "CVE-2026-55043",
-        "CVE-2026-55022",
-        "CVE-2026-50518",
-        "CVE-2026-55018",
-        "CVE-2026-55944",
-        "CVE-2026-50467",
-        "CVE-2026-50327",
-        "CVE-2026-54128",
-        "CVE-2026-55056",
-        "CVE-2026-56188",
-        "CVE-2026-55123",
         "CVE-2026-50370",
-        "CVE-2026-56164",
-        "CVE-2026-55120",
-        "CVE-2026-50655",
+        "CVE-2026-50327",
         "CVE-2026-56155",
+        "CVE-2026-55022",
+        "CVE-2026-55120",
+        "CVE-2026-50314",
         "CVE-2026-55045",
+        "CVE-2026-55018",
+        "CVE-2026-55043",
+        "CVE-2026-50518",
+        "CVE-2026-50655",
         "CVE-2026-58644",
-        "CVE-2026-55140",
+        "CVE-2026-56164",
+        "CVE-2026-54128",
+        "CVE-2026-55944",
         "CVE-2026-50522",
-        "CVE-2026-55049",
-        "CVE-2026-55129",
+        "CVE-2026-55132",
+        "CVE-2026-54992",
+        "CVE-2026-55123",
+        "CVE-2026-55140",
+        "CVE-2026-55010",
+        "CVE-2026-50467",
+        "CVE-2026-55127",
         "CVE-2026-55033",
-        "CVE-2026-55132"
+        "CVE-2026-55056",
+        "CVE-2026-55129",
+        "CVE-2026-55049",
+        "CVE-2026-56188"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1089,24 +1080,6 @@
   },
   {
     "source": "Recorded Future",
-    "title": "Recorded FutureがGartner® サイバー脅威インテリジェンス・テクノロジー部門のMagic Quadrant™のリーダーの１社に位置づけられました。",
-    "link": "https://www.recordedfuture.com/blog/gartner-mq-announcement-jp",
-    "published": "Thu, 02 Jul 2026 00:00:00 GMT",
-    "summary": "Gartnerがサイバー脅威インテリジェンスのマジック・クアドラントのリーダーの１社と評価 — 能動的サイバー防御法施行を前に、日本企業が今すべきこと",
-    "analysis": {
-      "issue": "Gartnerがサイバー脅威インテリジェンスのマジック・クアドラントのリーダーの１社と評価 — 能動的サイバー防御法施行を前に、日本企業が今すべきこと",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
     "title": "Iran-Nexus TAG-182 Disseminates MarkiRAT Surveillance Tool",
     "link": "https://www.recordedfuture.com/research/nexus-tag182-disseminates-markirat",
     "published": "Wed, 01 Jul 2026 00:00:00 GMT",
@@ -1167,6 +1140,24 @@
     "summary": "A dataset containing valid administrative and VPN credentials for tens of thousands of Fortinet FortiGate firewalls.",
     "analysis": {
       "issue": "A dataset containing valid administrative and VPN credentials for tens of thousands of Fortinet FortiGate firewalls",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "The Purchase Scam Tactic Headed  for the World Cup | Recorded Future",
+    "link": "https://www.recordedfuture.com/blog/world-cup-purchase-scam-tactics",
+    "published": "Tue, 23 Jun 2026 00:00:00 GMT",
+    "summary": "A purchase scam tactic hijacks organic search through compromised sites, and it’s built to scale into 2026 FIFA World Cup fraud. How it works and how to respond.",
+    "analysis": {
+      "issue": "A purchase scam tactic hijacks organic search through compromised sites, and it’s built to scale into 2026 FIFA World Cup fraud",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1558,6 +1549,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "AIDR: How CrowdStrike Is Defining the Next Era of Cybersecurity",
+    "link": "https://www.crowdstrike.com/en-us/blog/aidr-how-crowdstrike-is-defining-next-era-of-cybersecurity/",
+    "published": "Jul 15, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "CrowdStrike is pioneering AIDR, a new, unified runtime security category for protecting AI agents across all environments",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "July 2026 Patch Tuesday: Microsoft Patches 622 Vulnerabilities Including Two Exploited Zero-Days",
     "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-july-2026/",
     "published": "Jul 14, 2026 00:00:00-0500",
@@ -1708,24 +1717,6 @@
     "summary": "",
     "analysis": {
       "issue": "The survey reveals the consequences of poor cloud visibility, inability to distinguish malicious activity, and more",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "New Abuse of the ClickOnce Technology, Part 2: Stop Threat Actors from Clicking Once and Staying Forever",
-    "link": "https://www.crowdstrike.com/en-us/blog/new-abuse-of-the-clickonce-technology-part-two/",
-    "published": "Jun 18, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "In Part 2 of this two-part blog series, learn how threat actors weaponize ClickOnce features and how Falcon can detect and respond",
       "solution": null,
       "cause": null,
       "timeline": null,
