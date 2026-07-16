@@ -1,6 +1,44 @@
 [
   {
     "source": "The Hacker News",
+    "title": "OpenAI’s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol",
+    "link": "https://thehackernews.com/2026/07/openais-gpt-red-automates-prompt.html",
+    "published": "Thu, 16 Jul 2026 14:12:31 +0530",
+    "summary": "OpenAI has disclosed details of GPT-Red, an internal automated red-teaming model that scales prompt injection vulnerability discovery with an aim to fix issues before the tools are deployed widely.\n\n\"GPT‑Red is a strong red-teamer, and our previous models are highly vulnerable to its prompt injection attacks,\" the artificial intelligence (AI) company said. \"We use GPT‑Red to adversarially train",
+    "analysis": {
+      "issue": "OpenAI says GPT-Red automates prompt injection testing and helped GPT-5",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Zoom Patches Critical Windows Flaw That Could Enable Account Takeover",
+    "link": "https://thehackernews.com/2026/07/zoom-patches-critical-windows-flaw-that.html",
+    "published": "Thu, 16 Jul 2026 12:52:44 +0530",
+    "summary": "Zoom has released security updates for a critical security flaw impacting Zoom Workplace for Windows that could facilitate account takeover.\n\nThe vulnerability, tracked as CVE-2026-53412 (CVSS score: 9.8), affects Zoom Desktop Client for Windows, Zoom VDI Client for Windows, and Zoom Meeting SDK for Windows.\n\n\"Improper Input Validation in Zoom Desktop Client for Windows, Zoom VDI Client for",
+    "analysis": {
+      "issue": "8-rated Windows flaw that could enable account takeover via network access, plus three privilege escalation bugs",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-53412"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development",
     "link": "https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html",
     "published": "Thu, 16 Jul 2026 00:13:08 +0530",
@@ -147,38 +185,38 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands",
-    "link": "https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html",
-    "published": "Wed, 15 Jul 2026 11:00:21 +0530",
-    "summary": "SonicWall has warned of active exploitation of two zero-day vulnerabilities impacting Secure Mobile Access (SMA) 1000 series appliances, one of which could be exploited to achieve arbitrary command execution.\n\nThe vulnerabilities are listed below -\n\n\n  CVE-2026-15409 (CVSS score: 10.0) - A Server-side request forgery (SSRF) vulnerability that a remote unauthenticated attacker could exploit to",
+    "source": "Bleeping Computer",
+    "title": "Russian hackers trojanize WebEx, Zoom apps to push Starland malware",
+    "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-trojanize-webex-zoom-apps-to-push-starland-malware/",
+    "published": "Thu, 16 Jul 2026 06:19:34 -0400",
+    "summary": "A financially motivated Russian threat actor tracked as UAT-11795 is using trojanized software to steal credentials and cryptocurrency by deploying a new backdoor called Starland RAT. [...]",
     "analysis": {
-      "issue": "SonicWall says attackers are exploiting two SMA 1000 zero-days, including a code injection flaw that could enable administrator command execution",
+      "issue": "A financially motivated Russian threat actor tracked as UAT-11795 is using trojanized software to steal credentials and cryptocurrency by deploying a new backdoor called Starland RAT",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Critical",
+      "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "Malware"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack",
-    "link": "https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html",
-    "published": "Wed, 15 Jul 2026 01:55:47 +0530",
-    "summary": "Microsoft shipped its largest Patch Tuesday on record today, and two of the fixes close holes that attackers are already exploiting. The release covers 622 of Microsoft's own CVEs by its&nbsp;Security Update Guide&nbsp;count, more than triple&nbsp;June's previous high of around 200.\n\nThose two live bugs are the ones to grab first. Microsoft credits incident responders for both. Both are",
+    "source": "Bleeping Computer",
+    "title": "New Spirals ransomware encrypts victim network in under 24 hours",
+    "link": "https://www.bleepingcomputer.com/news/security/new-spirals-ransomware-encrypts-victim-network-in-under-24-hours/",
+    "published": "Thu, 16 Jul 2026 06:00:00 -0400",
+    "summary": "A new ransomware actor called Spirals completed a corporate intrusion, from initial access to data theft and encryption, in less than 24 hours. [...]",
     "analysis": {
-      "issue": "Microsoft fixes a record 622 CVEs, including two exploited SharePoint and AD FS zero-days, while a Kerberos RC4 change could break service account log",
+      "issue": "A new ransomware actor called Spirals completed a corporate intrusion, from initial access to data theft and encryption, in less than 24 hours",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Critical",
+      "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "Ransomware"
       ]
     }
   },
@@ -288,11 +326,11 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-56164",
+        "CVE-2026-45659",
         "CVE-2026-58644",
         "CVE-2026-55040",
-        "CVE-2026-32201",
-        "CVE-2026-45659"
+        "CVE-2026-56164",
+        "CVE-2026-32201"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -339,45 +377,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "SonicWall warns of SMA1000 flaws exploited in zero-day attacks, patch now",
-    "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/",
-    "published": "Tue, 14 Jul 2026 17:23:24 -0400",
-    "summary": "SonicWall warns that threat actors have been exploiting two SMA1000 vulnerabilities, tracked as CVE-2026-15409 and CVE-2026-15410, in zero-day attacks and urges customers to install the newly released security updates. [...]",
-    "analysis": {
-      "issue": "SonicWall warns that threat actors have been exploiting two SMA1000 vulnerabilities, tracked as CVE-2026-15409 and CVE-2026-15410, in zero-day attacks and urges customers to install the newly released security updates",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-15410",
-        "CVE-2026-15409"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Spanish Police take down €140 million cyber fraud ring, arrest four",
-    "link": "https://www.bleepingcomputer.com/news/security/spanish-police-take-down-140-million-cyber-fraud-ring-arrest-four/",
-    "published": "Tue, 14 Jul 2026 16:23:09 -0400",
-    "summary": "The Spanish Police dismantled a cybercrime and money-laundering organization that made €140 million ($160 million) from investment fraud and business email compromise (BEC) attacks. [...]",
-    "analysis": {
-      "issue": "The Spanish Police dismantled a cybercrime and money-laundering organization that made €140 million ($160 million) from investment fraud and business email compromise (BEC) attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Microsoft Patches a Record 570 Security Flaws",
     "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
@@ -390,9 +389,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56164",
-        "CVE-2026-48561",
         "CVE-2026-56155",
+        "CVE-2026-48561",
+        "CVE-2026-56164",
         "CVE-2026-50661"
       ],
       "threat_categories": [
@@ -499,20 +498,7 @@
     "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
     "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
     "published": "Wed, 10 Jun 2026 14:03:44 +0000",
-    "summary": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ransom paid by victims. This post examines clues pointing to a real life identity for the administrator of The Gentlemen ransomware group.",
-    "analysis": {
-      "issue": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ranso",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Malware"
-      ]
-    }
+    "summary": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ransom paid by victims. This post examines clues pointing to a real life identity for the administrator of The Gentlemen ransomware group."
   },
   {
     "source": "Krebs On Security",
@@ -577,6 +563,107 @@
   },
   {
     "source": "Security Week",
+    "title": "F5 Patches Multiple NGINX, BIG-IP Vulnerabilities",
+    "link": "https://www.securityweek.com/f5-patches-multiple-nginx-big-ip-vulnerabilities/",
+    "published": "Thu, 16 Jul 2026 09:20:10 +0000",
+    "summary": "<p>Attackers could exploit the bugs to modify configurations, terminate or restart processes, cross security boundaries, leak memory, and execute code.</p>\n<p>The post <a href=\"https://www.securityweek.com/f5-patches-multiple-nginx-big-ip-vulnerabilities/\">F5 Patches Multiple NGINX, BIG-IP Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Attackers could exploit the bugs to modify configurations, terminate or restart processes, cross security boundaries, leak memory, and execute code",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-42533"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "China’s Top Cybersecurity Firms Hit by Mounting Military Procurement Bans",
+    "link": "https://www.securityweek.com/chinas-top-cybersecurity-firms-hit-by-mounting-military-procurement-bans/",
+    "published": "Thu, 16 Jul 2026 08:49:27 +0000",
+    "summary": "<p>Chinese cybersecurity firms are facing action from the country’s military, but it’s not due to product or technical failures.</p>\n<p>The post <a href=\"https://www.securityweek.com/chinas-top-cybersecurity-firms-hit-by-mounting-military-procurement-bans/\">China&#8217;s Top Cybersecurity Firms Hit by Mounting Military Procurement Bans</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Chinese cybersecurity firms are facing action from the country’s military, but it’s not due to product or technical failures",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Old UEFI Shims Expose Systems to Secure Boot Bypass",
+    "link": "https://www.securityweek.com/old-uefi-shims-expose-systems-to-secure-boot-bypass/",
+    "published": "Thu, 16 Jul 2026 07:59:22 +0000",
+    "summary": "<p>Signed by Microsoft, the vulnerable UEFI shim bootloaders could be abused on any system, regardless of the OS.</p>\n<p>The post <a href=\"https://www.securityweek.com/old-uefi-shims-expose-systems-to-secure-boot-bypass/\">Old UEFI Shims Expose Systems to Secure Boot Bypass</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Signed by Microsoft, the vulnerable UEFI shim bootloaders could be abused on any system, regardless of the OS",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-10797",
+        "CVE-2026-8863"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Nightmare Eclipse Drops ‘LegacyHive’ Windows Zero-Day",
+    "link": "https://www.securityweek.com/nightmare-eclipse-drops-legacyhive-windows-zero-day/",
+    "published": "Thu, 16 Jul 2026 06:48:40 +0000",
+    "summary": "<p>The researcher stripped the proof-of-concept (PoC) exploit to prevent immediate exploitation of the vulnerability.</p>\n<p>The post <a href=\"https://www.securityweek.com/nightmare-eclipse-drops-legacyhive-windows-zero-day/\">Nightmare Eclipse Drops &#8216;LegacyHive&#8217; Windows Zero-Day </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The researcher stripped the proof-of-concept (PoC) exploit to prevent immediate exploitation of the vulnerability",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Trend Micro, Tanium, ESET and Tenable Patch Severe Product Vulnerabilities",
+    "link": "https://www.securityweek.com/trend-micro-tanium-eset-and-tenable-patch-severe-product-vulnerabilities/",
+    "published": "Thu, 16 Jul 2026 06:08:08 +0000",
+    "summary": "<p>The cybersecurity companies patched critical and high-severity vulnerabilities in some of their products.</p>\n<p>The post <a href=\"https://www.securityweek.com/trend-micro-tanium-eset-and-tenable-patch-severe-product-vulnerabilities/\">Trend Micro, Tanium, ESET and Tenable Patch Severe Product Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The cybersecurity companies patched critical and high-severity vulnerabilities in some of their products",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-15265"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Unpatched Cursor Vulnerability Exposes Users to Code Execution",
     "link": "https://www.securityweek.com/unpatched-cursor-vulnerability-exposes-users-to-code-execution/",
     "published": "Wed, 15 Jul 2026 14:37:13 +0000",
@@ -607,11 +694,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56164",
+        "CVE-2026-45659",
         "CVE-2026-58644",
         "CVE-2026-55040",
-        "CVE-2026-32201",
-        "CVE-2026-45659"
+        "CVE-2026-56164",
+        "CVE-2026-32201"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -679,103 +766,38 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Vulnerabilities Patched by Fortinet, Ivanti, ServiceNow",
-    "link": "https://www.securityweek.com/vulnerabilities-patched-by-fortinet-ivanti-servicenow/",
-    "published": "Wed, 15 Jul 2026 11:02:57 +0000",
-    "summary": "<p>A critical security defect in the ServiceNow AI platform could allow remote attackers to execute arbitrary code.</p>\n<p>The post <a href=\"https://www.securityweek.com/vulnerabilities-patched-by-fortinet-ivanti-servicenow/\">Vulnerabilities Patched by Fortinet, Ivanti, ServiceNow</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "source": "Talos Blog",
+    "title": "The Hunter's Paradox: Is it time to embrace automated threat hunting?",
+    "link": "https://blog.talosintelligence.com/the-hunters-paradox-is-it-time-to-embrace-automated-threat-hunting/",
+    "published": "Thu, 16 Jul 2026 10:00:07 GMT",
+    "summary": "Humans can no longer keep up with the volume and velocity of security data on their own, but AI can't be fully trusted. David discusses the merits of both and muses on what the future might look like.",
     "analysis": {
-      "issue": "A critical security defect in the ServiceNow AI platform could allow remote attackers to execute arbitrary code",
+      "issue": "Should we let AI run our threat hunts",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-14902",
-        "CVE-2026-6875",
-        "CVE-2026-14903"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "White House Launches AI-Driven ‘Gold Eagle’ Vulnerability Coordination Initiative",
-    "link": "https://www.securityweek.com/white-house-launches-ai-driven-gold-eagle-vulnerability-coordination-initiative/",
-    "published": "Wed, 15 Jul 2026 10:18:25 +0000",
-    "summary": "<p>The new program stems from an AI-focused Executive Order signed by President Trump on June 2.</p>\n<p>The post <a href=\"https://www.securityweek.com/white-house-launches-ai-driven-gold-eagle-vulnerability-coordination-initiative/\">White House Launches AI-Driven &#8216;Gold Eagle&#8217; Vulnerability Coordination Initiative</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The new program stems from an AI-focused Executive Order signed by President Trump on June 2",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
+      "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "General Security"
       ]
     }
   },
   {
-    "source": "Security Week",
-    "title": "Progress Confirms Zero-Day Vulnerability Behind ShareFile Disruption",
-    "link": "https://www.securityweek.com/progress-confirms-zero-day-vulnerability-behind-sharefile-disruption/",
-    "published": "Wed, 15 Jul 2026 09:48:29 +0000",
-    "summary": "<p>The company has rolled out a fix and is restoring access for Storage Zones Controller customers who apply it.</p>\n<p>The post <a href=\"https://www.securityweek.com/progress-confirms-zero-day-vulnerability-behind-sharefile-disruption/\">Progress Confirms Zero-Day Vulnerability Behind ShareFile Disruption</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "source": "Talos Blog",
+    "title": "UAT-11795 deploys novel Starland RAT and bespoke WLDR C2 implant in financially motivated campaign",
+    "link": "https://blog.talosintelligence.com/uat-11795-deploys-novel-starland-rat-and-bespoke-wldr-c2-implant-in-financially-motivated-campaign/",
+    "published": "Thu, 16 Jul 2026 10:00:01 GMT",
+    "summary": "Cisco Talos is disclosing UAT-11795, a sophisticated, Russian-speaking, financially motivated adversary that has been conducting a malicious campaign targeting users in the U.S. and Europe since at least June 2025.",
     "analysis": {
-      "issue": "The company has rolled out a fix and is restoring access for Storage Zones Controller customers who apply it",
+      "issue": "According to the telemetry data, the infection is predominantly observed in the United States",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Critical",
+      "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Rockwell",
-    "link": "https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-rockwell/",
-    "published": "Wed, 15 Jul 2026 09:19:58 +0000",
-    "summary": "<p>The industrial giants fixed dozens of vulnerabilities across their ICS products, with advisories also released by CISA and VDE CERT.</p>\n<p>The post <a href=\"https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-rockwell/\">ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Rockwell</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The industrial giants fixed dozens of vulnerabilities across their ICS products, with advisories also released by CISA and VDE CERT",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "APT",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Critical Vulnerabilities Patched With Fresh Chrome 150, Firefox 152 Updates",
-    "link": "https://www.securityweek.com/critical-vulnerabilities-patched-with-fresh-chrome-150-firefox-152-updates/",
-    "published": "Wed, 15 Jul 2026 07:24:52 +0000",
-    "summary": "<p>Public exploit code targeting the Firefox flaws exists, but no in-the-wild exploitation has been observed.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-vulnerabilities-patched-with-fresh-chrome-150-firefox-152-updates/\">Critical Vulnerabilities Patched With Fresh Chrome 150, Firefox 152 Updates</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Public exploit code targeting the Firefox flaws exists, but no in-the-wild exploitation has been observed",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-15764",
-        "CVE-2026-15765",
-        "CVE-2026-15718",
-        "CVE-2026-15719"
-      ],
-      "threat_categories": [
-        "Vulnerability"
+        "Malware"
       ]
     }
   },
@@ -792,34 +814,34 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-55129",
-        "CVE-2026-50518",
-        "CVE-2026-58644",
-        "CVE-2026-54992",
-        "CVE-2026-50522",
-        "CVE-2026-55120",
-        "CVE-2026-54128",
-        "CVE-2026-55049",
-        "CVE-2026-56164",
-        "CVE-2026-55132",
-        "CVE-2026-50327",
-        "CVE-2026-55056",
-        "CVE-2026-55127",
-        "CVE-2026-50314",
-        "CVE-2026-50467",
-        "CVE-2026-55043",
-        "CVE-2026-55018",
-        "CVE-2026-55123",
-        "CVE-2026-55140",
         "CVE-2026-56188",
-        "CVE-2026-50655",
-        "CVE-2026-55022",
-        "CVE-2026-50370",
+        "CVE-2026-54128",
         "CVE-2026-55944",
-        "CVE-2026-56155",
+        "CVE-2026-55022",
+        "CVE-2026-50655",
+        "CVE-2026-58644",
+        "CVE-2026-55018",
+        "CVE-2026-55132",
+        "CVE-2026-55123",
+        "CVE-2026-56164",
         "CVE-2026-55033",
+        "CVE-2026-50314",
+        "CVE-2026-54992",
+        "CVE-2026-50327",
         "CVE-2026-55010",
-        "CVE-2026-55045"
+        "CVE-2026-55045",
+        "CVE-2026-55049",
+        "CVE-2026-55129",
+        "CVE-2026-50467",
+        "CVE-2026-50370",
+        "CVE-2026-56155",
+        "CVE-2026-50518",
+        "CVE-2026-55043",
+        "CVE-2026-55140",
+        "CVE-2026-55120",
+        "CVE-2026-55127",
+        "CVE-2026-50522",
+        "CVE-2026-55056"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -878,9 +900,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-33091",
         "CVE-2026-25106",
-        "CVE-2026-28739"
+        "CVE-2026-28739",
+        "CVE-2026-33091"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -961,43 +983,6 @@
       "cves": [],
       "threat_categories": [
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "ARToken: Inside an EvilTokens affiliate panel targeting Microsoft 365",
-    "link": "https://blog.talosintelligence.com/artoken-inside-an-eviltokens-affiliate-panel-targeting-microsoft-365/",
-    "published": "Wed, 01 Jul 2026 10:00:38 GMT",
-    "summary": "Talos has identified \"ARToken,\" a phishing-as-a-service platform that targets Microsoft 365. The ARToken panel exposes 80+ API endpoints for device code phishing, Primary Refresh Token persistence, email access, BEC operations, and SharePoint exfiltration.",
-    "analysis": {
-      "issue": "In March 2026, Sekoia published a two-part analysis of EvilTokens, a PhaaS platform that abuses Microsoft's OAuth 2",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Phishing",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "Beyond IOCs: AI-enabled threat intelligence",
-    "link": "https://blog.talosintelligence.com/beyond-iocs-ai-enabled-threat-intelligence/",
-    "published": "Thu, 25 Jun 2026 18:00:26 GMT",
-    "summary": "In this week’s newsletter, Martin considers how AI will help threat intelligence by creating an easily queryable data source of intelligence reports.",
-    "analysis": {
-      "issue": "Welcome to this week’s Threat Source newsletter",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
@@ -1379,6 +1364,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Samsung backs down on threat to delete health data",
+    "link": "https://www.malwarebytes.com/blog/privacy/2026/07/samsung-backs-down-on-threat-to-delete-health-data",
+    "published": "Thu, 16 Jul 2026 09:25:59 GMT",
+    "summary": "Samsung threatened to delete users' health data if they refused AI training. After a backlash, it quickly backed down.",
+    "analysis": {
+      "issue": "If you pay for something, you expect it to work as intended",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Claude for Chrome flaw could let rogue extensions access your Gmail",
     "link": "https://www.malwarebytes.com/blog/news/2026/07/claude-for-chrome-flaw-could-let-rogue-extensions-access-your-gmail",
     "published": "Wed, 15 Jul 2026 14:25:53 GMT",
@@ -1537,26 +1540,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "This new Windows malware can take over your PC and wipe it clean",
-    "link": "https://www.malwarebytes.com/blog/news/2026/07/this-new-windows-malware-can-take-over-your-pc-and-wipe-it-clean",
-    "published": "Fri, 10 Jul 2026 13:25:41 GMT",
-    "summary": "GigaWiper is a remote access Trojan that can spy on victims and permanently wipe their systems in three different ways.",
-    "analysis": {
-      "issue": "Microsoft published new research on GigaWiper, a modular Golang backdoor for Windows that combines robust remote access with multiple ways to permanently destroy systems and data",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Malware",
-        "APT"
       ]
     }
   },
