@@ -1,10 +1,55 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-17 10:18:03 UTC
+**Last Updated:** 2026-07-17 13:50:03 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV](https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html)
+### 1. [E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants](https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 17 Jul 2026 17:14:41 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?](https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 17 Jul 2026 17:00:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man](https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 17 Jul 2026 16:23:31 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 4. [ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files](https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 17 Jul 2026 14:26:39 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 5. [New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage](https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 17 Jul 2026 14:16:45 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 6. [CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV](https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 17 Jul 2026 12:12:23 +0530  
@@ -14,7 +59,7 @@
 
 ---
 
-### 2. [Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack](https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html)
+### 7. [Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack](https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 16 Jul 2026 22:39:25 +0530  
@@ -23,7 +68,7 @@
 
 ---
 
-### 3. [ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories](https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html)
+### 8. [ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories](https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 16 Jul 2026 21:11:15 +0530  
@@ -32,7 +77,7 @@
 
 ---
 
-### 4. [n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer](https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html)
+### 9. [n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer](https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 16 Jul 2026 19:03:25 +0530  
@@ -42,7 +87,7 @@
 
 ---
 
-### 5. [New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands](https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html)
+### 10. [New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands](https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 16 Jul 2026 18:20:13 +0530  
@@ -51,52 +96,16 @@
 
 ---
 
-### 6. [New ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password](https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html)
+### 11. [New Windows LegacyHive zero-day gives hackers admin privileges](https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 16 Jul 2026 18:03:42 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 7. [20+ Hijacked Government Websites Became an Attack Channel](https://thehackernews.com/2026/07/20-hijacked-government-websites.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 16 Jul 2026 17:28:00 +0530  
-**Severity:** Low  
-**Categories:** Malware  
+**Source:** Bleeping Computer  
+**Published:** Fri, 17 Jul 2026 07:05:30 -0400  
+**Severity:** Critical  
+**Categories:** Vulnerability  
 
 ---
 
-### 8. [New Agent Data Injection Attack Can Make AI Agents Misclick or Run Attacker Commands](https://thehackernews.com/2026/07/new-agent-data-injection-attack-can.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 16 Jul 2026 17:02:28 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 9. [Daxin Resurfaces in Taiwan Alongside Stupig Pre-Login SYSTEM Backdoor](https://thehackernews.com/2026/07/daxin-resurfaces-in-taiwan-alongside.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 16 Jul 2026 16:47:23 +0530  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 10. [AI Can Find Bugs, But Human Knowledge Still Proves Them](https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 16 Jul 2026 15:40:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 11. [Windows Server 2022 reach end of mainstream support in 90 days](https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/)
+### 12. [Windows Server 2022 reach end of mainstream support in 90 days](https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 17 Jul 2026 05:10:15 -0400  
@@ -105,7 +114,7 @@
 
 ---
 
-### 12. [US charges two over laundering $43 million from investment fraud](https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/)
+### 13. [US charges two over laundering $43 million from investment fraud](https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 17 Jul 2026 04:13:37 -0400  
@@ -114,17 +123,17 @@
 
 ---
 
-### 13. [CISA urges immediate action on actively exploited Fortinet flaws](https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/)
+### 14. [CISA urges immediate action on actively exploited Fortinet flaws](https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 17 Jul 2026 03:03:33 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-39808, CVE-2026-25089, CVE-2026-39813  
+**CVEs:** CVE-2026-25089, CVE-2026-39813, CVE-2026-39808  
 **Categories:** Vulnerability  
 
 ---
 
-### 14. [New ClickLock macOS malware traps users into revealing login password](https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/)
+### 15. [New ClickLock macOS malware traps users into revealing login password](https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 16 Jul 2026 17:52:54 -0400  
@@ -133,7 +142,7 @@
 
 ---
 
-### 15. [Coca-Cola says Fairlife ransomware attack halts US dairy production](https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/)
+### 16. [Coca-Cola says Fairlife ransomware attack halts US dairy production](https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 16 Jul 2026 17:09:41 -0400  
@@ -142,7 +151,7 @@
 
 ---
 
-### 16. [Claude Chrome extension flaw lets malicious extensions trigger AI actions](https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/)
+### 17. [Claude Chrome extension flaw lets malicious extensions trigger AI actions](https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 16 Jul 2026 15:26:07 -0400  
@@ -151,7 +160,7 @@
 
 ---
 
-### 17. [New OkoBot framework deploys 20 payloads to steal data, crypto](https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/)
+### 18. [New OkoBot framework deploys 20 payloads to steal data, crypto](https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 16 Jul 2026 15:09:35 -0400  
@@ -160,7 +169,7 @@
 
 ---
 
-### 18. [AI Agents Broke the Security Playbook. Here's What Replaces It.](https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/)
+### 19. [AI Agents Broke the Security Playbook. Here's What Replaces It.](https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 16 Jul 2026 10:00:10 -0400  
@@ -169,7 +178,7 @@
 
 ---
 
-### 19. [23andMe to pay $18 million in new genetics data breach settlement](https://www.bleepingcomputer.com/news/security/23andme-to-pay-18-million-in-new-genetics-data-breach-settlement/)
+### 20. [23andMe to pay $18 million in new genetics data breach settlement](https://www.bleepingcomputer.com/news/security/23andme-to-pay-18-million-in-new-genetics-data-breach-settlement/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 16 Jul 2026 09:47:23 -0400  
@@ -178,21 +187,12 @@
 
 ---
 
-### 20. [Scattered Spider members behind TfL hack get five years in prison](https://www.bleepingcomputer.com/news/security/scattered-spider-members-behind-transport-for-london-hack-get-five-years-in-prison/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 16 Jul 2026 08:31:29 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
 ### 21. [Microsoft Patches a Record 570 Security Flaws](https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48561, CVE-2026-56164, CVE-2026-56155, CVE-2026-50661  
+**CVEs:** CVE-2026-50661, CVE-2026-56164, CVE-2026-56155, CVE-2026-48561  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -256,7 +256,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-45586, CVE-2026-50507, CVE-2026-49160  
+**CVEs:** CVE-2026-49160, CVE-2026-45586, CVE-2026-50507  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -279,7 +279,34 @@
 
 ---
 
-### 31. [Cyberattack Disrupts Operations of Japanese Frozen Food Giant Nichirei](https://www.securityweek.com/cyberattack-disrupts-operations-of-japanese-frozen-food-giant-nichirei/)
+### 31. [Podcast: Broken Governance, Agentic AI, and the MindStone Agent Exclusive](https://www.securityweek.com/podcast-broken-governance-agentic-ai-and-the-mindstone-agent-exclusive/)
+
+**Source:** Security Week  
+**Published:** Fri, 17 Jul 2026 12:11:22 +0000  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 32. [Beacon Security Raises $13 Million for Security Data Platform](https://www.securityweek.com/beacon-security-raises-13-million-for-security-data-platform/)
+
+**Source:** Security Week  
+**Published:** Fri, 17 Jul 2026 11:43:36 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 33. [Industry Reactions to Pentagon Suspending CMMC Phase 2: Feedback Friday](https://www.securityweek.com/industry-reactions-to-pentagon-suspending-cmmc-phase-2-feedback-friday/)
+
+**Source:** Security Week  
+**Published:** Fri, 17 Jul 2026 11:08:04 +0000  
+**Severity:** Critical  
+**Categories:** Supply Chain  
+
+---
+
+### 34. [Cyberattack Disrupts Operations of Japanese Frozen Food Giant Nichirei](https://www.securityweek.com/cyberattack-disrupts-operations-of-japanese-frozen-food-giant-nichirei/)
 
 **Source:** Security Week  
 **Published:** Fri, 17 Jul 2026 09:06:27 +0000  
@@ -288,7 +315,7 @@
 
 ---
 
-### 32. [Risk Ledger Raises $32 Million in Series B Funding](https://www.securityweek.com/risk-ledger-raises-32-million-in-series-b-funding/)
+### 35. [Risk Ledger Raises $32 Million in Series B Funding](https://www.securityweek.com/risk-ledger-raises-32-million-in-series-b-funding/)
 
 **Source:** Security Week  
 **Published:** Fri, 17 Jul 2026 08:31:00 +0000  
@@ -297,17 +324,17 @@
 
 ---
 
-### 33. [Fresh SharePoint Vulnerability Exploited Soon After Disclosure](https://www.securityweek.com/fresh-sharepoint-vulnerability-exploited-soon-after-disclosure/)
+### 36. [Fresh SharePoint Vulnerability Exploited Soon After Disclosure](https://www.securityweek.com/fresh-sharepoint-vulnerability-exploited-soon-after-disclosure/)
 
 **Source:** Security Week  
 **Published:** Fri, 17 Jul 2026 07:15:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-55040, CVE-2026-58644, CVE-2026-39808, CVE-2026-25089, CVE-2026-56164  
+**CVEs:** CVE-2026-56164, CVE-2026-25089, CVE-2026-39808, CVE-2026-58644, CVE-2026-55040  
 **Categories:** Vulnerability  
 
 ---
 
-### 34. [Coca-Cola Suspends US Fairlife Production Due to Ransomware Attack](https://www.securityweek.com/coca-cola-suspends-us-fairlife-production-due-to-ransomware-attack/)
+### 37. [Coca-Cola Suspends US Fairlife Production Due to Ransomware Attack](https://www.securityweek.com/coca-cola-suspends-us-fairlife-production-due-to-ransomware-attack/)
 
 **Source:** Security Week  
 **Published:** Fri, 17 Jul 2026 06:23:08 +0000  
@@ -316,7 +343,7 @@
 
 ---
 
-### 35. [Legacy Systems, Real-World Impacts: The Reality of OT Security](https://www.securityweek.com/legacy-systems-real-world-impacts-the-reality-of-ot-security/)
+### 38. [Legacy Systems, Real-World Impacts: The Reality of OT Security](https://www.securityweek.com/legacy-systems-real-world-impacts-the-reality-of-ot-security/)
 
 **Source:** Security Week  
 **Published:** Thu, 16 Jul 2026 15:15:00 +0000  
@@ -325,7 +352,7 @@
 
 ---
 
-### 36. [Two Scattered Spider Hackers Sentenced to Jail in UK](https://www.securityweek.com/two-scattered-spider-hackers-sentenced-to-jail-in-uk/)
+### 39. [Two Scattered Spider Hackers Sentenced to Jail in UK](https://www.securityweek.com/two-scattered-spider-hackers-sentenced-to-jail-in-uk/)
 
 **Source:** Security Week  
 **Published:** Thu, 16 Jul 2026 13:21:12 +0000  
@@ -334,39 +361,11 @@
 
 ---
 
-### 37. [AI Data Centers Are Being Built Faster Than They Can Be Secured](https://www.securityweek.com/ai-data-centers-are-being-built-faster-than-they-can-be-secured/)
+### 40. [AI Data Centers Are Being Built Faster Than They Can Be Secured](https://www.securityweek.com/ai-data-centers-are-being-built-faster-than-they-can-be-secured/)
 
 **Source:** Security Week  
 **Published:** Thu, 16 Jul 2026 13:00:00 +0000  
 **Severity:** Critical  
-**Categories:** Vulnerability, Supply Chain  
-
----
-
-### 38. [‘ClickLock Stealer’ Bypasses macOS Security With Social Engineering, Process Killing](https://www.securityweek.com/clicklock-stealer-bypasses-macos-security-with-social-engineering-process-killing/)
-
-**Source:** Security Week  
-**Published:** Thu, 16 Jul 2026 12:43:59 +0000  
-**Severity:** Low  
-**Categories:** Vulnerability, Malware, APT  
-
----
-
-### 39. [Oak Emerges From Stealth Mode With $60 Million in Funding](https://www.securityweek.com/oak-emerges-from-stealth-mode-with-60-million-in-funding/)
-
-**Source:** Security Week  
-**Published:** Thu, 16 Jul 2026 11:23:56 +0000  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 40. [Splunk, Zoom Patch Critical Vulnerabilities](https://www.securityweek.com/splunk-zoom-patch-critical-vulnerabilities/)
-
-**Source:** Security Week  
-**Published:** Thu, 16 Jul 2026 10:54:34 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-53412, CVE-2026-20297, CVE-2026-20298, CVE-2026-20296  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -403,7 +402,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Jul 2026 20:27:33 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-55127, CVE-2026-55045, CVE-2026-56155, CVE-2026-50327, CVE-2026-54992, CVE-2026-54128, CVE-2026-50655, CVE-2026-55944, CVE-2026-55022, CVE-2026-55049, CVE-2026-55043, CVE-2026-55018, CVE-2026-55056, CVE-2026-55123, CVE-2026-50314, CVE-2026-50522, CVE-2026-50467, CVE-2026-55010, CVE-2026-50518, CVE-2026-55033, CVE-2026-50370, CVE-2026-56188, CVE-2026-58644, CVE-2026-55132, CVE-2026-55129, CVE-2026-55120, CVE-2026-55140, CVE-2026-56164  
+**CVEs:** CVE-2026-50522, CVE-2026-54128, CVE-2026-56155, CVE-2026-55123, CVE-2026-55127, CVE-2026-50518, CVE-2026-55120, CVE-2026-55049, CVE-2026-56164, CVE-2026-50314, CVE-2026-50370, CVE-2026-50467, CVE-2026-55140, CVE-2026-55045, CVE-2026-56188, CVE-2026-55022, CVE-2026-55018, CVE-2026-55129, CVE-2026-50655, CVE-2026-55010, CVE-2026-58644, CVE-2026-55944, CVE-2026-55132, CVE-2026-50327, CVE-2026-55043, CVE-2026-55033, CVE-2026-55056, CVE-2026-54992  
 **Categories:** Vulnerability  
 
 ---
@@ -634,7 +633,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -649,7 +648,25 @@
 
 ---
 
-### 71. [The backlash against Flock cameras is spreading](https://www.malwarebytes.com/blog/news/2026/07/the-backlash-against-flock-cameras-is-spreading)
+### 71. [Shark vacuum flaw exposes cameras, home maps and Wi-Fi passwords](https://www.malwarebytes.com/blog/news/2026/07/shark-vacuum-flaw-exposes-cameras-home-maps-and-wi-fi-passwords)
+
+**Source:** Malwarebytes  
+**Published:** Fri, 17 Jul 2026 12:29:56 GMT  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 72. [How to use GitHub safely](https://www.malwarebytes.com/blog/how-to/2026/07/how-to-use-github-safely)
+
+**Source:** Malwarebytes  
+**Published:** Fri, 17 Jul 2026 10:43:29 GMT  
+**Severity:** High  
+**Categories:** Malware  
+
+---
+
+### 73. [The backlash against Flock cameras is spreading](https://www.malwarebytes.com/blog/news/2026/07/the-backlash-against-flock-cameras-is-spreading)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 16 Jul 2026 13:56:14 GMT  
@@ -658,7 +675,7 @@
 
 ---
 
-### 72. [Security updates available for Adobe, Chrome, Firefox, VMWare, and Zoom](https://www.malwarebytes.com/blog/bugs/2026/07/security-updates-available-for-adobe-chrome-firefox-vmware-and-zoom)
+### 74. [Security updates available for Adobe, Chrome, Firefox, VMWare, and Zoom](https://www.malwarebytes.com/blog/bugs/2026/07/security-updates-available-for-adobe-chrome-firefox-vmware-and-zoom)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 16 Jul 2026 10:47:22 GMT  
@@ -667,7 +684,7 @@
 
 ---
 
-### 73. [Samsung backs down on threat to delete health data](https://www.malwarebytes.com/blog/privacy/2026/07/samsung-backs-down-on-threat-to-delete-health-data)
+### 75. [Samsung backs down on threat to delete health data](https://www.malwarebytes.com/blog/privacy/2026/07/samsung-backs-down-on-threat-to-delete-health-data)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 16 Jul 2026 09:25:59 GMT  
@@ -676,7 +693,7 @@
 
 ---
 
-### 74. [Claude for Chrome flaw could let rogue extensions access your Gmail](https://www.malwarebytes.com/blog/news/2026/07/claude-for-chrome-flaw-could-let-rogue-extensions-access-your-gmail)
+### 76. [Claude for Chrome flaw could let rogue extensions access your Gmail](https://www.malwarebytes.com/blog/news/2026/07/claude-for-chrome-flaw-could-let-rogue-extensions-access-your-gmail)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 15 Jul 2026 14:25:53 GMT  
@@ -685,7 +702,7 @@
 
 ---
 
-### 75. [July 2026 Patch Tuesday fixes 622 Microsoft CVEs, including three zero-days](https://www.malwarebytes.com/blog/bugs/2026/07/july-2026-patch-tuesday-fixes-622-microsoft-cves-including-three-zero-days)
+### 77. [July 2026 Patch Tuesday fixes 622 Microsoft CVEs, including three zero-days](https://www.malwarebytes.com/blog/bugs/2026/07/july-2026-patch-tuesday-fixes-622-microsoft-cves-including-three-zero-days)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 15 Jul 2026 12:21:11 GMT  
@@ -694,7 +711,7 @@
 
 ---
 
-### 76. [This fake Apple app can unlock your Mac&#8217;s password vault](https://www.malwarebytes.com/blog/threat-intel/2026/07/this-fake-apple-app-can-unlock-your-macs-password-vault)
+### 78. [This fake Apple app can unlock your Mac&#8217;s password vault](https://www.malwarebytes.com/blog/threat-intel/2026/07/this-fake-apple-app-can-unlock-your-macs-password-vault)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 15 Jul 2026 08:42:03 GMT  
@@ -703,7 +720,7 @@
 
 ---
 
-### 77. [Warning: Scammers are using FaceTime to empty bank accounts](https://www.malwarebytes.com/blog/news/2026/07/warning-scammers-are-using-facetime-to-empty-bank-accounts)
+### 79. [Warning: Scammers are using FaceTime to empty bank accounts](https://www.malwarebytes.com/blog/news/2026/07/warning-scammers-are-using-facetime-to-empty-bank-accounts)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 14 Jul 2026 11:09:02 GMT  
@@ -712,30 +729,12 @@
 
 ---
 
-### 78. [The inside job that cost ransomware victims millions](https://www.malwarebytes.com/blog/news/2026/07/the-inside-job-that-cost-ransomware-victims-millions)
+### 80. [The inside job that cost ransomware victims millions](https://www.malwarebytes.com/blog/news/2026/07/the-inside-job-that-cost-ransomware-victims-millions)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 14 Jul 2026 09:26:51 GMT  
 **Severity:** Low  
 **Categories:** Ransomware  
-
----
-
-### 79. [Trusting your kids online isn&#8217;t enough (Lock and Code S07E14)](https://www.malwarebytes.com/blog/podcast/2026/07/trusting-your-kids-online-isnt-enough-lock-and-code-s07e14)
-
-**Source:** Malwarebytes  
-**Published:** Mon, 13 Jul 2026 14:33:41 GMT  
-**Severity:** High  
-**Categories:** Malware  
-
----
-
-### 80. [Ghostcommit attack hides malicious AI instructions in images](https://www.malwarebytes.com/blog/ai/2026/07/ghostcommit-attack-hides-malicious-ai-instructions-in-images)
-
-**Source:** Malwarebytes  
-**Published:** Mon, 13 Jul 2026 13:18:50 GMT  
-**Severity:** Low  
-**Categories:** Data Breach  
 
 ---
 
