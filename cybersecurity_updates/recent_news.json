@@ -1,6 +1,26 @@
 [
   {
     "source": "The Hacker News",
+    "title": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
+    "link": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html",
+    "published": "Fri, 17 Jul 2026 12:12:23 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly patched security flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by July 19, 2026.\n\nThe vulnerability in question is CVE-2026-58644 (CVSS score: 9.8), a critical deserialization",
+    "analysis": {
+      "issue": "CISA says SharePoint CVE-2026-58644 was exploited before Microsoft patched it, affecting all supported on-premises versions and enabling RCE",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-58644"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack",
     "link": "https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html",
     "published": "Thu, 16 Jul 2026 22:39:25 +0530",
@@ -166,13 +186,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Unpatched Shark Vacuum Flaw Could Let Attackers Control Other Vacuums Region-Wide",
-    "link": "https://thehackernews.com/2026/07/unpatched-shark-vacuum-flaw-could-let.html",
-    "published": "Thu, 16 Jul 2026 14:53:19 +0530",
-    "summary": "Pull the certificate off the flash of a Shark RV2320EDUS robot vacuum, and you can run root commands on other people's Shark vacuums across the same AWS region: watch the camera, drive the robot, read the map of the house, and take the Wi-Fi password in plaintext.\n\nA researcher publishing under the handle tokay0&nbsp;put the method online&nbsp;on Monday, having tested it only against vacuums he",
+    "source": "Bleeping Computer",
+    "title": "Windows Server 2022 reach end of mainstream support in 90 days",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/",
+    "published": "Fri, 17 Jul 2026 05:10:15 -0400",
+    "summary": "Microsoft announced that Windows Server 2022 will reach the mainstream end date in October 2026, but will switch to extended support and continue receiving security updates for five more years. [...]",
     "analysis": {
-      "issue": "Shark AWS IoT policy flaw could let one certificate send root commands to other vacuums in the same region, exposing cameras, maps, and Wi-Fi password",
+      "issue": "Microsoft announced that Windows Server 2022 will reach the mainstream end date in October 2026, but will switch to extended support and continue receiving security updates for five more years",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -180,6 +200,46 @@
       "cves": [],
       "threat_categories": [
         "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "US charges two over laundering $43 million from investment fraud",
+    "link": "https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/",
+    "published": "Fri, 17 Jul 2026 04:13:37 -0400",
+    "summary": "U.S. prosecutors on Thursday charged a New York man and woman for their roles in a large-scale crime ring that laundered money stolen in cyber investment fraud scams. [...]",
+    "analysis": {
+      "issue": "prosecutors on Thursday charged a New York man and woman for their roles in a large-scale crime ring that laundered money stolen in cyber investment fraud scams",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "CISA urges immediate action on actively exploited Fortinet flaws",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/",
+    "published": "Fri, 17 Jul 2026 03:03:33 -0400",
+    "summary": "CISA on Thursday ordered government agencies to prioritize patching two actively exploited vulnerabilities in the Fortinet FortiSandbox threat detection platform. [...]",
+    "analysis": {
+      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) on Thursday ordered government agencies to prioritize patching two actively exploited vulnerabilities in the Fortinet FortiSandbox threat detection platform",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-39808",
+        "CVE-2026-25089",
+        "CVE-2026-39813"
+      ],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -310,62 +370,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Windows 11 24H2 Home and Pro reach end of support in 90 days",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-90-days/",
-    "published": "Thu, 16 Jul 2026 07:59:24 -0400",
-    "summary": "Microsoft announced on Wednesday that systems running Windows 10 Enterprise LTSB 2016 and Home and Pro editions of Windows 11 24H2 will stop receiving updates in three months. [...]",
-    "analysis": {
-      "issue": "Microsoft announced on Wednesday that systems running Windows 10 Enterprise LTSB 2016 and Home and Pro editions of Windows 11 24H2 will stop receiving updates in three months",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA orders feds to patch actively exploited Oracle flaw by Saturday",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-flaw-by-saturday/",
-    "published": "Thu, 16 Jul 2026 06:56:03 -0400",
-    "summary": "CISA has ordered federal agencies to secure their systems by Saturday against ongoing attacks exploiting a critical vulnerability in the Oracle E-Business Suite financial application. [...]",
-    "analysis": {
-      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to secure their systems by Saturday against ongoing attacks exploiting a critical vulnerability in the Oracle E-Business Suite (EBS) financial application",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-46817"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Russian hackers trojanize WebEx, Zoom apps to push Starland malware",
-    "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-trojanize-webex-zoom-apps-to-push-starland-malware/",
-    "published": "Thu, 16 Jul 2026 06:19:34 -0400",
-    "summary": "A financially motivated Russian threat actor tracked as UAT-11795 is using trojanized software to steal credentials and cryptocurrency by deploying a new backdoor called Starland RAT. [...]",
-    "analysis": {
-      "issue": "A financially motivated Russian threat actor tracked as UAT-11795 is using trojanized software to steal credentials and cryptocurrency by deploying a new backdoor called Starland RAT",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Microsoft Patches a Record 570 Security Flaws",
     "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
@@ -378,10 +382,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50661",
+        "CVE-2026-48561",
         "CVE-2026-56164",
         "CVE-2026-56155",
-        "CVE-2026-48561"
+        "CVE-2026-50661"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -565,6 +569,86 @@
   },
   {
     "source": "Security Week",
+    "title": "Cyberattack Disrupts Operations of Japanese Frozen Food Giant Nichirei",
+    "link": "https://www.securityweek.com/cyberattack-disrupts-operations-of-japanese-frozen-food-giant-nichirei/",
+    "published": "Fri, 17 Jul 2026 09:06:27 +0000",
+    "summary": "<p>The company disconnected its systems on July 13 and is starting to gradually restore operations.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyberattack-disrupts-operations-of-japanese-frozen-food-giant-nichirei/\">Cyberattack Disrupts Operations of Japanese Frozen Food Giant Nichirei</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The company disconnected its systems on July 13 and is starting to gradually restore operations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Risk Ledger Raises $32 Million in Series B Funding",
+    "link": "https://www.securityweek.com/risk-ledger-raises-32-million-in-series-b-funding/",
+    "published": "Fri, 17 Jul 2026 08:31:00 +0000",
+    "summary": "<p>The British firm has built a collaborative platform to help organizations address supply chain security risks.</p>\n<p>The post <a href=\"https://www.securityweek.com/risk-ledger-raises-32-million-in-series-b-funding/\">Risk Ledger Raises $32 Million in Series B Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The British firm has built a collaborative platform to help organizations address supply chain security risks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Fresh SharePoint Vulnerability Exploited Soon After Disclosure",
+    "link": "https://www.securityweek.com/fresh-sharepoint-vulnerability-exploited-soon-after-disclosure/",
+    "published": "Fri, 17 Jul 2026 07:15:59 +0000",
+    "summary": "<p>The critical-severity security defect allows remote, authenticated attackers to execute arbitrary code on the server.</p>\n<p>The post <a href=\"https://www.securityweek.com/fresh-sharepoint-vulnerability-exploited-soon-after-disclosure/\">Fresh SharePoint Vulnerability Exploited Soon After Disclosure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The critical-severity security defect allows remote, authenticated attackers to execute arbitrary code on the server",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-55040",
+        "CVE-2026-58644",
+        "CVE-2026-39808",
+        "CVE-2026-25089",
+        "CVE-2026-56164"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Coca-Cola Suspends US Fairlife Production Due to Ransomware Attack",
+    "link": "https://www.securityweek.com/coca-cola-suspends-us-fairlife-production-due-to-ransomware-attack/",
+    "published": "Fri, 17 Jul 2026 06:23:08 +0000",
+    "summary": "<p>The company has yet to determine the full scope, nature, and impact of the incident.</p>\n<p>The post <a href=\"https://www.securityweek.com/coca-cola-suspends-us-fairlife-production-due-to-ransomware-attack/\">Coca-Cola Suspends US Fairlife Production Due to Ransomware Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The company has yet to determine the full scope, nature, and impact of the incident",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Legacy Systems, Real-World Impacts: The Reality of OT Security",
     "link": "https://www.securityweek.com/legacy-systems-real-world-impacts-the-reality-of-ot-security/",
     "published": "Thu, 16 Jul 2026 15:15:00 +0000",
@@ -671,94 +755,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-53412",
         "CVE-2026-20297",
-        "CVE-2026-20296",
         "CVE-2026-20298",
-        "CVE-2026-53412"
+        "CVE-2026-20296"
       ],
       "threat_categories": [
         "Vulnerability",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "F5 Patches Multiple NGINX, BIG-IP Vulnerabilities",
-    "link": "https://www.securityweek.com/f5-patches-multiple-nginx-big-ip-vulnerabilities/",
-    "published": "Thu, 16 Jul 2026 09:20:10 +0000",
-    "summary": "<p>Attackers could exploit the bugs to modify configurations, terminate or restart processes, cross security boundaries, leak memory, and execute code.</p>\n<p>The post <a href=\"https://www.securityweek.com/f5-patches-multiple-nginx-big-ip-vulnerabilities/\">F5 Patches Multiple NGINX, BIG-IP Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Attackers could exploit the bugs to modify configurations, terminate or restart processes, cross security boundaries, leak memory, and execute code",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-42533"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "China’s Top Cybersecurity Firms Hit by Mounting Military Procurement Bans",
-    "link": "https://www.securityweek.com/chinas-top-cybersecurity-firms-hit-by-mounting-military-procurement-bans/",
-    "published": "Thu, 16 Jul 2026 08:49:27 +0000",
-    "summary": "<p>Chinese cybersecurity firms are facing action from the country’s military, but it’s not due to product or technical failures.</p>\n<p>The post <a href=\"https://www.securityweek.com/chinas-top-cybersecurity-firms-hit-by-mounting-military-procurement-bans/\">China&#8217;s Top Cybersecurity Firms Hit by Mounting Military Procurement Bans</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Chinese cybersecurity firms are facing action from the country’s military, but it’s not due to product or technical failures",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Old UEFI Shims Expose Systems to Secure Boot Bypass",
-    "link": "https://www.securityweek.com/old-uefi-shims-expose-systems-to-secure-boot-bypass/",
-    "published": "Thu, 16 Jul 2026 07:59:22 +0000",
-    "summary": "<p>Signed by Microsoft, the vulnerable UEFI shim bootloaders could be abused on any system, regardless of the OS.</p>\n<p>The post <a href=\"https://www.securityweek.com/old-uefi-shims-expose-systems-to-secure-boot-bypass/\">Old UEFI Shims Expose Systems to Secure Boot Bypass</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Signed by Microsoft, the vulnerable UEFI shim bootloaders could be abused on any system, regardless of the OS",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-8863",
-        "CVE-2026-10797"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Nightmare Eclipse Drops ‘LegacyHive’ Windows Zero-Day",
-    "link": "https://www.securityweek.com/nightmare-eclipse-drops-legacyhive-windows-zero-day/",
-    "published": "Thu, 16 Jul 2026 06:48:40 +0000",
-    "summary": "<p>The researcher stripped the proof-of-concept (PoC) exploit to prevent immediate exploitation of the vulnerability.</p>\n<p>The post <a href=\"https://www.securityweek.com/nightmare-eclipse-drops-legacyhive-windows-zero-day/\">Nightmare Eclipse Drops &#8216;LegacyHive&#8217; Windows Zero-Day </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The researcher stripped the proof-of-concept (PoC) exploit to prevent immediate exploitation of the vulnerability",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
       ]
     }
   },
@@ -830,34 +834,34 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-58644",
-        "CVE-2026-55010",
-        "CVE-2026-55033",
-        "CVE-2026-55120",
-        "CVE-2026-55132",
-        "CVE-2026-56164",
-        "CVE-2026-56188",
+        "CVE-2026-55127",
+        "CVE-2026-55045",
+        "CVE-2026-56155",
+        "CVE-2026-50327",
+        "CVE-2026-54992",
         "CVE-2026-54128",
         "CVE-2026-50655",
-        "CVE-2026-54992",
-        "CVE-2026-55056",
-        "CVE-2026-50467",
-        "CVE-2026-50314",
-        "CVE-2026-56155",
-        "CVE-2026-55049",
-        "CVE-2026-55045",
-        "CVE-2026-55140",
-        "CVE-2026-55127",
         "CVE-2026-55944",
         "CVE-2026-55022",
-        "CVE-2026-55123",
-        "CVE-2026-50522",
-        "CVE-2026-50370",
+        "CVE-2026-55049",
         "CVE-2026-55043",
         "CVE-2026-55018",
-        "CVE-2026-55129",
+        "CVE-2026-55056",
+        "CVE-2026-55123",
+        "CVE-2026-50314",
+        "CVE-2026-50522",
+        "CVE-2026-50467",
+        "CVE-2026-55010",
         "CVE-2026-50518",
-        "CVE-2026-50327"
+        "CVE-2026-55033",
+        "CVE-2026-50370",
+        "CVE-2026-56188",
+        "CVE-2026-58644",
+        "CVE-2026-55132",
+        "CVE-2026-55129",
+        "CVE-2026-55120",
+        "CVE-2026-55140",
+        "CVE-2026-56164"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -916,9 +920,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-25106",
         "CVE-2026-33091",
-        "CVE-2026-28739"
+        "CVE-2026-28739",
+        "CVE-2026-25106"
       ],
       "threat_categories": [
         "Vulnerability",

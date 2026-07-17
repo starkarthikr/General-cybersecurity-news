@@ -1,10 +1,20 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-17 03:46:41 UTC
+**Last Updated:** 2026-07-17 10:18:03 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack](https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html)
+### 1. [CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV](https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 17 Jul 2026 12:12:23 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-58644  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack](https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 16 Jul 2026 22:39:25 +0530  
@@ -13,7 +23,7 @@
 
 ---
 
-### 2. [ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories](https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html)
+### 3. [ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories](https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 16 Jul 2026 21:11:15 +0530  
@@ -22,7 +32,7 @@
 
 ---
 
-### 3. [n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer](https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html)
+### 4. [n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer](https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 16 Jul 2026 19:03:25 +0530  
@@ -32,7 +42,7 @@
 
 ---
 
-### 4. [New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands](https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html)
+### 5. [New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands](https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 16 Jul 2026 18:20:13 +0530  
@@ -41,7 +51,7 @@
 
 ---
 
-### 5. [New ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password](https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html)
+### 6. [New ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password](https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 16 Jul 2026 18:03:42 +0530  
@@ -50,7 +60,7 @@
 
 ---
 
-### 6. [20+ Hijacked Government Websites Became an Attack Channel](https://thehackernews.com/2026/07/20-hijacked-government-websites.html)
+### 7. [20+ Hijacked Government Websites Became an Attack Channel](https://thehackernews.com/2026/07/20-hijacked-government-websites.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 16 Jul 2026 17:28:00 +0530  
@@ -59,7 +69,7 @@
 
 ---
 
-### 7. [New Agent Data Injection Attack Can Make AI Agents Misclick or Run Attacker Commands](https://thehackernews.com/2026/07/new-agent-data-injection-attack-can.html)
+### 8. [New Agent Data Injection Attack Can Make AI Agents Misclick or Run Attacker Commands](https://thehackernews.com/2026/07/new-agent-data-injection-attack-can.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 16 Jul 2026 17:02:28 +0530  
@@ -68,7 +78,7 @@
 
 ---
 
-### 8. [Daxin Resurfaces in Taiwan Alongside Stupig Pre-Login SYSTEM Backdoor](https://thehackernews.com/2026/07/daxin-resurfaces-in-taiwan-alongside.html)
+### 9. [Daxin Resurfaces in Taiwan Alongside Stupig Pre-Login SYSTEM Backdoor](https://thehackernews.com/2026/07/daxin-resurfaces-in-taiwan-alongside.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 16 Jul 2026 16:47:23 +0530  
@@ -77,7 +87,7 @@
 
 ---
 
-### 9. [AI Can Find Bugs, But Human Knowledge Still Proves Them](https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html)
+### 10. [AI Can Find Bugs, But Human Knowledge Still Proves Them](https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 16 Jul 2026 15:40:00 +0530  
@@ -86,16 +96,35 @@
 
 ---
 
-### 10. [Unpatched Shark Vacuum Flaw Could Let Attackers Control Other Vacuums Region-Wide](https://thehackernews.com/2026/07/unpatched-shark-vacuum-flaw-could-let.html)
+### 11. [Windows Server 2022 reach end of mainstream support in 90 days](https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 16 Jul 2026 14:53:19 +0530  
+**Source:** Bleeping Computer  
+**Published:** Fri, 17 Jul 2026 05:10:15 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 11. [New ClickLock macOS malware traps users into revealing login password](https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/)
+### 12. [US charges two over laundering $43 million from investment fraud](https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 17 Jul 2026 04:13:37 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 13. [CISA urges immediate action on actively exploited Fortinet flaws](https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 17 Jul 2026 03:03:33 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-39808, CVE-2026-25089, CVE-2026-39813  
+**Categories:** Vulnerability  
+
+---
+
+### 14. [New ClickLock macOS malware traps users into revealing login password](https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 16 Jul 2026 17:52:54 -0400  
@@ -104,7 +133,7 @@
 
 ---
 
-### 12. [Coca-Cola says Fairlife ransomware attack halts US dairy production](https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/)
+### 15. [Coca-Cola says Fairlife ransomware attack halts US dairy production](https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 16 Jul 2026 17:09:41 -0400  
@@ -113,7 +142,7 @@
 
 ---
 
-### 13. [Claude Chrome extension flaw lets malicious extensions trigger AI actions](https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/)
+### 16. [Claude Chrome extension flaw lets malicious extensions trigger AI actions](https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 16 Jul 2026 15:26:07 -0400  
@@ -122,7 +151,7 @@
 
 ---
 
-### 14. [New OkoBot framework deploys 20 payloads to steal data, crypto](https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/)
+### 17. [New OkoBot framework deploys 20 payloads to steal data, crypto](https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 16 Jul 2026 15:09:35 -0400  
@@ -131,7 +160,7 @@
 
 ---
 
-### 15. [AI Agents Broke the Security Playbook. Here's What Replaces It.](https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/)
+### 18. [AI Agents Broke the Security Playbook. Here's What Replaces It.](https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 16 Jul 2026 10:00:10 -0400  
@@ -140,7 +169,7 @@
 
 ---
 
-### 16. [23andMe to pay $18 million in new genetics data breach settlement](https://www.bleepingcomputer.com/news/security/23andme-to-pay-18-million-in-new-genetics-data-breach-settlement/)
+### 19. [23andMe to pay $18 million in new genetics data breach settlement](https://www.bleepingcomputer.com/news/security/23andme-to-pay-18-million-in-new-genetics-data-breach-settlement/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 16 Jul 2026 09:47:23 -0400  
@@ -149,7 +178,7 @@
 
 ---
 
-### 17. [Scattered Spider members behind TfL hack get five years in prison](https://www.bleepingcomputer.com/news/security/scattered-spider-members-behind-transport-for-london-hack-get-five-years-in-prison/)
+### 20. [Scattered Spider members behind TfL hack get five years in prison](https://www.bleepingcomputer.com/news/security/scattered-spider-members-behind-transport-for-london-hack-get-five-years-in-prison/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 16 Jul 2026 08:31:29 -0400  
@@ -158,40 +187,12 @@
 
 ---
 
-### 18. [Windows 11 24H2 Home and Pro reach end of support in 90 days](https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-90-days/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 16 Jul 2026 07:59:24 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 19. [CISA orders feds to patch actively exploited Oracle flaw by Saturday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-flaw-by-saturday/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 16 Jul 2026 06:56:03 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-46817  
-**Categories:** Vulnerability  
-
----
-
-### 20. [Russian hackers trojanize WebEx, Zoom apps to push Starland malware](https://www.bleepingcomputer.com/news/security/russian-hackers-trojanize-webex-zoom-apps-to-push-starland-malware/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 16 Jul 2026 06:19:34 -0400  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
 ### 21. [Microsoft Patches a Record 570 Security Flaws](https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50661, CVE-2026-56164, CVE-2026-56155, CVE-2026-48561  
+**CVEs:** CVE-2026-48561, CVE-2026-56164, CVE-2026-56155, CVE-2026-50661  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -278,7 +279,44 @@
 
 ---
 
-### 31. [Legacy Systems, Real-World Impacts: The Reality of OT Security](https://www.securityweek.com/legacy-systems-real-world-impacts-the-reality-of-ot-security/)
+### 31. [Cyberattack Disrupts Operations of Japanese Frozen Food Giant Nichirei](https://www.securityweek.com/cyberattack-disrupts-operations-of-japanese-frozen-food-giant-nichirei/)
+
+**Source:** Security Week  
+**Published:** Fri, 17 Jul 2026 09:06:27 +0000  
+**Severity:** Critical  
+**Categories:** Ransomware, Vulnerability  
+
+---
+
+### 32. [Risk Ledger Raises $32 Million in Series B Funding](https://www.securityweek.com/risk-ledger-raises-32-million-in-series-b-funding/)
+
+**Source:** Security Week  
+**Published:** Fri, 17 Jul 2026 08:31:00 +0000  
+**Severity:** Critical  
+**Categories:** Supply Chain  
+
+---
+
+### 33. [Fresh SharePoint Vulnerability Exploited Soon After Disclosure](https://www.securityweek.com/fresh-sharepoint-vulnerability-exploited-soon-after-disclosure/)
+
+**Source:** Security Week  
+**Published:** Fri, 17 Jul 2026 07:15:59 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-55040, CVE-2026-58644, CVE-2026-39808, CVE-2026-25089, CVE-2026-56164  
+**Categories:** Vulnerability  
+
+---
+
+### 34. [Coca-Cola Suspends US Fairlife Production Due to Ransomware Attack](https://www.securityweek.com/coca-cola-suspends-us-fairlife-production-due-to-ransomware-attack/)
+
+**Source:** Security Week  
+**Published:** Fri, 17 Jul 2026 06:23:08 +0000  
+**Severity:** Low  
+**Categories:** Ransomware, Data Breach  
+
+---
+
+### 35. [Legacy Systems, Real-World Impacts: The Reality of OT Security](https://www.securityweek.com/legacy-systems-real-world-impacts-the-reality-of-ot-security/)
 
 **Source:** Security Week  
 **Published:** Thu, 16 Jul 2026 15:15:00 +0000  
@@ -287,7 +325,7 @@
 
 ---
 
-### 32. [Two Scattered Spider Hackers Sentenced to Jail in UK](https://www.securityweek.com/two-scattered-spider-hackers-sentenced-to-jail-in-uk/)
+### 36. [Two Scattered Spider Hackers Sentenced to Jail in UK](https://www.securityweek.com/two-scattered-spider-hackers-sentenced-to-jail-in-uk/)
 
 **Source:** Security Week  
 **Published:** Thu, 16 Jul 2026 13:21:12 +0000  
@@ -296,7 +334,7 @@
 
 ---
 
-### 33. [AI Data Centers Are Being Built Faster Than They Can Be Secured](https://www.securityweek.com/ai-data-centers-are-being-built-faster-than-they-can-be-secured/)
+### 37. [AI Data Centers Are Being Built Faster Than They Can Be Secured](https://www.securityweek.com/ai-data-centers-are-being-built-faster-than-they-can-be-secured/)
 
 **Source:** Security Week  
 **Published:** Thu, 16 Jul 2026 13:00:00 +0000  
@@ -305,7 +343,7 @@
 
 ---
 
-### 34. [‘ClickLock Stealer’ Bypasses macOS Security With Social Engineering, Process Killing](https://www.securityweek.com/clicklock-stealer-bypasses-macos-security-with-social-engineering-process-killing/)
+### 38. [‘ClickLock Stealer’ Bypasses macOS Security With Social Engineering, Process Killing](https://www.securityweek.com/clicklock-stealer-bypasses-macos-security-with-social-engineering-process-killing/)
 
 **Source:** Security Week  
 **Published:** Thu, 16 Jul 2026 12:43:59 +0000  
@@ -314,7 +352,7 @@
 
 ---
 
-### 35. [Oak Emerges From Stealth Mode With $60 Million in Funding](https://www.securityweek.com/oak-emerges-from-stealth-mode-with-60-million-in-funding/)
+### 39. [Oak Emerges From Stealth Mode With $60 Million in Funding](https://www.securityweek.com/oak-emerges-from-stealth-mode-with-60-million-in-funding/)
 
 **Source:** Security Week  
 **Published:** Thu, 16 Jul 2026 11:23:56 +0000  
@@ -323,51 +361,13 @@
 
 ---
 
-### 36. [Splunk, Zoom Patch Critical Vulnerabilities](https://www.securityweek.com/splunk-zoom-patch-critical-vulnerabilities/)
+### 40. [Splunk, Zoom Patch Critical Vulnerabilities](https://www.securityweek.com/splunk-zoom-patch-critical-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Thu, 16 Jul 2026 10:54:34 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20297, CVE-2026-20296, CVE-2026-20298, CVE-2026-53412  
+**CVEs:** CVE-2026-53412, CVE-2026-20297, CVE-2026-20298, CVE-2026-20296  
 **Categories:** Vulnerability, Supply Chain  
-
----
-
-### 37. [F5 Patches Multiple NGINX, BIG-IP Vulnerabilities](https://www.securityweek.com/f5-patches-multiple-nginx-big-ip-vulnerabilities/)
-
-**Source:** Security Week  
-**Published:** Thu, 16 Jul 2026 09:20:10 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-42533  
-**Categories:** Vulnerability, APT  
-
----
-
-### 38. [China’s Top Cybersecurity Firms Hit by Mounting Military Procurement Bans](https://www.securityweek.com/chinas-top-cybersecurity-firms-hit-by-mounting-military-procurement-bans/)
-
-**Source:** Security Week  
-**Published:** Thu, 16 Jul 2026 08:49:27 +0000  
-**Severity:** Critical  
-**Categories:** APT  
-
----
-
-### 39. [Old UEFI Shims Expose Systems to Secure Boot Bypass](https://www.securityweek.com/old-uefi-shims-expose-systems-to-secure-boot-bypass/)
-
-**Source:** Security Week  
-**Published:** Thu, 16 Jul 2026 07:59:22 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-8863, CVE-2026-10797  
-**Categories:** Vulnerability, Supply Chain  
-
----
-
-### 40. [Nightmare Eclipse Drops ‘LegacyHive’ Windows Zero-Day](https://www.securityweek.com/nightmare-eclipse-drops-legacyhive-windows-zero-day/)
-
-**Source:** Security Week  
-**Published:** Thu, 16 Jul 2026 06:48:40 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, Malware  
 
 ---
 
@@ -403,7 +403,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Jul 2026 20:27:33 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-58644, CVE-2026-55010, CVE-2026-55033, CVE-2026-55120, CVE-2026-55132, CVE-2026-56164, CVE-2026-56188, CVE-2026-54128, CVE-2026-50655, CVE-2026-54992, CVE-2026-55056, CVE-2026-50467, CVE-2026-50314, CVE-2026-56155, CVE-2026-55049, CVE-2026-55045, CVE-2026-55140, CVE-2026-55127, CVE-2026-55944, CVE-2026-55022, CVE-2026-55123, CVE-2026-50522, CVE-2026-50370, CVE-2026-55043, CVE-2026-55018, CVE-2026-55129, CVE-2026-50518, CVE-2026-50327  
+**CVEs:** CVE-2026-55127, CVE-2026-55045, CVE-2026-56155, CVE-2026-50327, CVE-2026-54992, CVE-2026-54128, CVE-2026-50655, CVE-2026-55944, CVE-2026-55022, CVE-2026-55049, CVE-2026-55043, CVE-2026-55018, CVE-2026-55056, CVE-2026-55123, CVE-2026-50314, CVE-2026-50522, CVE-2026-50467, CVE-2026-55010, CVE-2026-50518, CVE-2026-55033, CVE-2026-50370, CVE-2026-56188, CVE-2026-58644, CVE-2026-55132, CVE-2026-55129, CVE-2026-55120, CVE-2026-55140, CVE-2026-56164  
 **Categories:** Vulnerability  
 
 ---
@@ -431,7 +431,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 09 Jul 2026 18:52:29 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-25106, CVE-2026-33091, CVE-2026-28739  
+**CVEs:** CVE-2026-33091, CVE-2026-28739, CVE-2026-25106  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
