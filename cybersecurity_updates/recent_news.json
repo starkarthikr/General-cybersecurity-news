@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack",
+    "link": "https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html",
+    "published": "Thu, 16 Jul 2026 22:39:25 +0530",
+    "summary": "Owen Flowers, 18, and Thalha Jubair, 20, were each sentenced to five and a half years at Woolwich Crown Court on Thursday, 16 July 2026, for the 2024 hack of Transport for London.\n\nThe attack left 148 TfL systems inoperable and forced all 27,000 of the transport authority's employees into an office to get their passwords reset in person. Both the NCA and the CPS put TfL's losses and recovery",
+    "analysis": {
+      "issue": "5 years each for the £29 million 2024 attack, which disabled 148 systems, exposed customer data, and disrupted travel services",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories",
     "link": "https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html",
     "published": "Thu, 16 Jul 2026 21:11:15 +0530",
@@ -166,13 +184,49 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "OpenAI’s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol",
-    "link": "https://thehackernews.com/2026/07/openais-gpt-red-automates-prompt.html",
-    "published": "Thu, 16 Jul 2026 14:12:31 +0530",
-    "summary": "OpenAI has disclosed details of GPT-Red, an internal automated red-teaming model that scales prompt injection vulnerability discovery with an aim to fix issues before the tools are deployed widely.\n\n\"GPT‑Red is a strong red-teamer, and our previous models are highly vulnerable to its prompt injection attacks,\" the artificial intelligence (AI) company said. \"We use GPT‑Red to adversarially train",
+    "source": "Bleeping Computer",
+    "title": "New ClickLock macOS malware traps users into revealing login password",
+    "link": "https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/",
+    "published": "Thu, 16 Jul 2026 17:52:54 -0400",
+    "summary": "A new macOS information-stealing malware dubbed ClickLock terminates all visible processes to force users into entering their system login password. [...]",
     "analysis": {
-      "issue": "OpenAI says GPT-Red automates prompt injection testing and helped GPT-5",
+      "issue": "A new macOS information-stealing malware dubbed ClickLock terminates all visible processes to force users into entering their system login password",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Coca-Cola says Fairlife ransomware attack halts US dairy production",
+    "link": "https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/",
+    "published": "Thu, 16 Jul 2026 17:09:41 -0400",
+    "summary": "The Coca-Cola Company disclosed today that a ransomware attack impacting its Fairlife dairy subsidiary has disrupted operations, temporarily suspending production of Fairlife products across the United States. [...]",
+    "analysis": {
+      "issue": "The Coca-Cola Company disclosed today that a ransomware attack impacting its Fairlife dairy subsidiary has disrupted operations, temporarily suspending production of Fairlife products across the United States",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Claude Chrome extension flaw lets malicious extensions trigger AI actions",
+    "link": "https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/",
+    "published": "Thu, 16 Jul 2026 15:26:07 -0400",
+    "summary": "A flaw in Anthropic's Claude for Chrome browser extension could allow a malicious extension to trigger predefined AI actions by simulating user clicks, potentially allowing it to abuse Claude's access to connected services such as Gmail, Google Docs, Google Calendar, and Salesforce. [...]",
+    "analysis": {
+      "issue": "A flaw in Anthropic's Claude for Chrome browser extension could allow a malicious extension to trigger predefined AI actions by simulating user clicks, potentially allowing it to abuse Claude's access to connected services such as Gmail, Google Docs,",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -180,6 +234,24 @@
       "cves": [],
       "threat_categories": [
         "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "New OkoBot framework deploys 20 payloads to steal data, crypto",
+    "link": "https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/",
+    "published": "Thu, 16 Jul 2026 15:09:35 -0400",
+    "summary": "A new malicious framework called OkoBot is delivering more than 20 payloads in attacks focused on stealing cryptocurrency wallet seed phrases, credentials, and other sensitive data. [...]",
+    "analysis": {
+      "issue": "A new malicious framework called OkoBot is delivering more than 20 payloads in attacks focused on stealing cryptocurrency wallet seed phrases, credentials, and other sensitive data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
       ]
     }
   },
@@ -294,80 +366,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "New Spirals ransomware encrypts victim network in under 24 hours",
-    "link": "https://www.bleepingcomputer.com/news/security/new-spirals-ransomware-encrypts-victim-network-in-under-24-hours/",
-    "published": "Thu, 16 Jul 2026 06:00:00 -0400",
-    "summary": "A new ransomware actor called Spirals completed a corporate intrusion, from initial access to data theft and encryption, in less than 24 hours. [...]",
-    "analysis": {
-      "issue": "A new ransomware actor called Spirals completed a corporate intrusion, from initial access to data theft and encryption, in less than 24 hours",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Dutch police bust investment fraud ring stealing over €100 million",
-    "link": "https://www.bleepingcomputer.com/news/security/dutch-police-bust-investment-fraud-ring-stealing-over-100-million/",
-    "published": "Wed, 15 Jul 2026 17:55:50 -0400",
-    "summary": "The Dutch Police announced the arrest of multiple individuals suspected of being part of an international investment fraud scheme estimated to have tens of thousands of victims. [...]",
-    "analysis": {
-      "issue": "The Dutch Police announced the arrest of multiple individuals suspected of being part of an international investment fraud scheme estimated to have tens of thousands of victims",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Zoom warns of critical account takeover vulnerability",
-    "link": "https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/",
-    "published": "Wed, 15 Jul 2026 16:16:02 -0400",
-    "summary": "Zoom is warning of a critical vulnerability in its desktop client and software development kit for Windows that could be exploited by an unauthenticated party to hijack accounts. [...]",
-    "analysis": {
-      "issue": "Zoom is warning of a critical vulnerability in its desktop client and software development kit for Windows that could be exploited by an unauthenticated party to hijack accounts",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-53412"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Google Gemini CLI abused as a hacking agent, malware botnet operator",
-    "link": "https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/",
-    "published": "Wed, 15 Jul 2026 14:33:48 -0400",
-    "summary": "A Russian-speaking threat actor known as \"bandcampro\" used Google's open-source Gemini CLI AI tool as a hacking agent and to operate a small-scale botnet. [...]",
-    "analysis": {
-      "issue": "A Russian-speaking threat actor known as \"bandcampro\" used Google's open-source Gemini CLI AI tool as a hacking agent and to operate a small-scale botnet",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Microsoft Patches a Record 570 Security Flaws",
     "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
@@ -381,9 +379,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-56164",
-        "CVE-2026-48561",
+        "CVE-2026-56155",
         "CVE-2026-50661",
-        "CVE-2026-56155"
+        "CVE-2026-48561"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -517,9 +515,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50507",
+        "CVE-2026-45586",
         "CVE-2026-49160",
-        "CVE-2026-45586"
+        "CVE-2026-50507"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -673,10 +671,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20296",
-        "CVE-2026-20297",
+        "CVE-2026-53412",
         "CVE-2026-20298",
-        "CVE-2026-53412"
+        "CVE-2026-20297",
+        "CVE-2026-20296"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -736,8 +734,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-10797",
-        "CVE-2026-8863"
+        "CVE-2026-8863",
+        "CVE-2026-10797"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -753,6 +751,25 @@
     "summary": "<p>The researcher stripped the proof-of-concept (PoC) exploit to prevent immediate exploitation of the vulnerability.</p>\n<p>The post <a href=\"https://www.securityweek.com/nightmare-eclipse-drops-legacyhive-windows-zero-day/\">Nightmare Eclipse Drops &#8216;LegacyHive&#8217; Windows Zero-Day </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
       "issue": "The researcher stripped the proof-of-concept (PoC) exploit to prevent immediate exploitation of the vulnerability",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Talos Blog",
+    "title": "Begun, the Patch Wars have",
+    "link": "https://blog.talosintelligence.com/begun-the-patch-wars-have/",
+    "published": "Thu, 16 Jul 2026 18:00:50 GMT",
+    "summary": "Long foretold, the Great Patching has begun and it’s a doozy. Buckle in as Joe takes you through the story.",
+    "analysis": {
+      "issue": "Welcome to this week’s edition of the Threat Source newsletter",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -813,34 +830,34 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-55123",
-        "CVE-2026-50327",
-        "CVE-2026-55045",
-        "CVE-2026-55944",
-        "CVE-2026-54992",
-        "CVE-2026-56188",
-        "CVE-2026-50518",
-        "CVE-2026-55010",
-        "CVE-2026-55140",
-        "CVE-2026-50522",
-        "CVE-2026-55056",
-        "CVE-2026-55120",
-        "CVE-2026-50467",
-        "CVE-2026-55049",
-        "CVE-2026-55127",
-        "CVE-2026-55043",
-        "CVE-2026-56164",
-        "CVE-2026-55129",
-        "CVE-2026-55022",
         "CVE-2026-50655",
-        "CVE-2026-55033",
+        "CVE-2026-56155",
         "CVE-2026-55018",
+        "CVE-2026-50518",
+        "CVE-2026-55120",
+        "CVE-2026-58644",
+        "CVE-2026-55944",
+        "CVE-2026-50327",
+        "CVE-2026-55049",
+        "CVE-2026-55129",
+        "CVE-2026-55010",
         "CVE-2026-54128",
         "CVE-2026-50370",
         "CVE-2026-55132",
+        "CVE-2026-55045",
+        "CVE-2026-55033",
+        "CVE-2026-55022",
+        "CVE-2026-54992",
+        "CVE-2026-55140",
+        "CVE-2026-55123",
+        "CVE-2026-55043",
+        "CVE-2026-56188",
         "CVE-2026-50314",
-        "CVE-2026-58644",
-        "CVE-2026-56155"
+        "CVE-2026-55056",
+        "CVE-2026-55127",
+        "CVE-2026-50522",
+        "CVE-2026-50467",
+        "CVE-2026-56164"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -899,9 +916,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-33091",
         "CVE-2026-25106",
-        "CVE-2026-28739"
+        "CVE-2026-28739",
+        "CVE-2026-33091"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -964,24 +981,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "Martin Lee: Running through the Arctic (and the threat landscape)",
-    "link": "https://blog.talosintelligence.com/martin-lee-running-through-the-arctic-and-the-threat-landscape/",
-    "published": "Wed, 01 Jul 2026 10:00:57 GMT",
-    "summary": "Ever wonder how someone goes from studying human viruses to leading cybersecurity teams? In this Humans of Talos, we’re joined by Martin Lee, EMEA Lead, to talk about his journey into the industry.",
-    "analysis": {
-      "issue": "Ever wonder how someone goes from studying human viruses to leading cybersecurity teams",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "APT"
       ]
     }
   },
@@ -1332,8 +1331,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1358,6 +1357,187 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "The backlash against Flock cameras is spreading",
+    "link": "https://www.malwarebytes.com/blog/news/2026/07/the-backlash-against-flock-cameras-is-spreading",
+    "published": "Thu, 16 Jul 2026 13:56:14 GMT",
+    "summary": "Privacy concerns have dogged Flock's automated license plate recognition system for years. Now accuracy and reliability are coming under scrutiny too.",
+    "analysis": {
+      "issue": "Flock-style ALPR systems carry serious privacy and civil-liberties risks, and the backlash is now starting to show up in agency decisions too",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Security updates available for Adobe, Chrome, Firefox, VMWare, and Zoom",
+    "link": "https://www.malwarebytes.com/blog/bugs/2026/07/security-updates-available-for-adobe-chrome-firefox-vmware-and-zoom",
+    "published": "Thu, 16 Jul 2026 10:47:22 GMT",
+    "summary": "Several updates have been made available including those for Adobe, Chrome, Firefox, VMWare, and Zoom.",
+    "analysis": {
+      "issue": "Security updates are not just for enterprises with a dedicated security team and a change-management calendar",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Samsung backs down on threat to delete health data",
+    "link": "https://www.malwarebytes.com/blog/privacy/2026/07/samsung-backs-down-on-threat-to-delete-health-data",
+    "published": "Thu, 16 Jul 2026 09:25:59 GMT",
+    "summary": "Samsung threatened to delete users' health data if they refused AI training. After a backlash, it quickly backed down.",
+    "analysis": {
+      "issue": "If you pay for something, you expect it to work as intended",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Claude for Chrome flaw could let rogue extensions access your Gmail",
+    "link": "https://www.malwarebytes.com/blog/news/2026/07/claude-for-chrome-flaw-could-let-rogue-extensions-access-your-gmail",
+    "published": "Wed, 15 Jul 2026 14:25:53 GMT",
+    "summary": "The ClaudeBleed vulnerability still lets malicious Chrome extensions abuse Claude for Chrome's permissions.",
+    "analysis": {
+      "issue": "First reported in May, ClaudeBleed is basically a “fake remote control” problem",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "July 2026 Patch Tuesday fixes 622 Microsoft CVEs, including three zero-days",
+    "link": "https://www.malwarebytes.com/blog/bugs/2026/07/july-2026-patch-tuesday-fixes-622-microsoft-cves-including-three-zero-days",
+    "published": "Wed, 15 Jul 2026 12:21:11 GMT",
+    "summary": "Microsoft's July 2026 Patch Tuesday sets yet another record, fixing 622 Microsoft CVEs—three times as many as last month.",
+    "analysis": {
+      "issue": "Just one month ago, June 2026 Patch Tuesday broke Microsoft’s previous record with 206 CVEs and three zero‑days",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "This fake Apple app can unlock your Mac&#8217;s password vault",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/07/this-fake-apple-app-can-unlock-your-macs-password-vault",
+    "published": "Wed, 15 Jul 2026 08:42:03 GMT",
+    "summary": "Disguised as Apple's CrashReporter, CrashStealer steals passwords, browser data, crypto wallets, and other sensitive information.",
+    "analysis": {
+      "issue": "CrashStealer is a new macOS infostealer that masquerades as Apple’s CrashReporter component, uses an Apple‑notarized installer to slip past Gatekeeper, tricks users into handing over their password, and then systematically loots browsers, password ma",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Warning: Scammers are using FaceTime to empty bank accounts",
+    "link": "https://www.malwarebytes.com/blog/news/2026/07/warning-scammers-are-using-facetime-to-empty-bank-accounts",
+    "published": "Tue, 14 Jul 2026 11:09:02 GMT",
+    "summary": "Cybercriminals are combining social engineering through apps like FaceTime with unpatched devices to steal credentials and drain bank accounts.",
+    "analysis": {
+      "issue": "Apple is urging users to treat any suspicious FaceTime call or message as untrusted, especially if it involves payments, refunds, password resets, or requests for personal information",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "The inside job that cost ransomware victims millions",
+    "link": "https://www.malwarebytes.com/blog/news/2026/07/the-inside-job-that-cost-ransomware-victims-millions",
+    "published": "Tue, 14 Jul 2026 09:26:51 GMT",
+    "summary": "Instead of helping victims negotiate with BlackCat, a trusted ransomware negotiator secretly helped the gang extort them.",
+    "analysis": {
+      "issue": "When a ransomware crew locks up your servers, the outside negotiator you hire has to know everything about you so that they can negotiate a smaller ransom payment",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Trusting your kids online isn&#8217;t enough (Lock and Code S07E14)",
+    "link": "https://www.malwarebytes.com/blog/podcast/2026/07/trusting-your-kids-online-isnt-enough-lock-and-code-s07e14",
+    "published": "Mon, 13 Jul 2026 14:33:41 GMT",
+    "summary": "This week on the Lock and Code podcast, we speak with Anna Brading about what actually works in keeping her kids safe online.",
+    "analysis": {
+      "issue": "This week on the Lock and Code podcast… There is a lot going on right now regarding the safety of kids online",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Ghostcommit attack hides malicious AI instructions in images",
+    "link": "https://www.malwarebytes.com/blog/ai/2026/07/ghostcommit-attack-hides-malicious-ai-instructions-in-images",
+    "published": "Mon, 13 Jul 2026 13:18:50 GMT",
+    "summary": "A proof-of-concept attack hides prompt injection in a PNG file, turning routine code reviews into a path for secret theft.",
+    "analysis": {
+      "issue": "Ghostcommit is a proof of concept that shows how AI assistants used to review software code can be tricked by hidden instructions embedded in images",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
       ]
     }
   },
