@@ -182,6 +182,25 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "The Future of Age Verification: Your Face Never Leaves Your Device",
+    "link": "https://www.bleepingcomputer.com/news/security/the-future-of-age-verification-your-face-never-leaves-your-device/",
+    "published": "Sat, 18 Jul 2026 09:15:24 -0400",
+    "summary": "As age verification laws expand worldwide, organizations face growing pressure to protect users' privacy while meeting regulatory requirements. Incode explains how on-device age estimation verifies age without transmitting or storing facial images, reducing biometric privacy risks while supporting compliance. [...]",
+    "analysis": {
+      "issue": "Age checks are becoming law worldwide",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Abbott probes two cyber incidents amid extortion claims",
     "link": "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/",
     "published": "Fri, 17 Jul 2026 16:45:52 -0400",
@@ -321,9 +340,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-39808",
+        "CVE-2026-39813",
         "CVE-2026-25089",
-        "CVE-2026-39813"
+        "CVE-2026-39808"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -349,24 +368,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Coca-Cola says Fairlife ransomware attack halts US dairy production",
-    "link": "https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/",
-    "published": "Thu, 16 Jul 2026 17:09:41 -0400",
-    "summary": "The Coca-Cola Company disclosed today that a ransomware attack impacting its Fairlife dairy subsidiary has disrupted operations, temporarily suspending production of Fairlife products across the United States. [...]",
-    "analysis": {
-      "issue": "The Coca-Cola Company disclosed today that a ransomware attack impacting its Fairlife dairy subsidiary has disrupted operations, temporarily suspending production of Fairlife products across the United States",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Microsoft Patches a Record 570 Security Flaws",
     "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
@@ -380,9 +381,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-50661",
-        "CVE-2026-56155",
         "CVE-2026-56164",
-        "CVE-2026-48561"
+        "CVE-2026-48561",
+        "CVE-2026-56155"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -516,9 +517,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-49160",
+        "CVE-2026-50507",
         "CVE-2026-45586",
-        "CVE-2026-50507"
+        "CVE-2026-49160"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -690,11 +691,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-39808",
         "CVE-2026-55040",
-        "CVE-2026-58644",
-        "CVE-2026-56164",
         "CVE-2026-25089",
-        "CVE-2026-39808"
+        "CVE-2026-56164",
+        "CVE-2026-58644"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -826,34 +827,34 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56188",
-        "CVE-2026-55127",
         "CVE-2026-55033",
-        "CVE-2026-55944",
-        "CVE-2026-54992",
-        "CVE-2026-55132",
-        "CVE-2026-55056",
-        "CVE-2026-56155",
-        "CVE-2026-55049",
-        "CVE-2026-50655",
-        "CVE-2026-55120",
-        "CVE-2026-55018",
-        "CVE-2026-55022",
-        "CVE-2026-50370",
-        "CVE-2026-55043",
-        "CVE-2026-50518",
-        "CVE-2026-50327",
         "CVE-2026-55123",
-        "CVE-2026-55129",
-        "CVE-2026-50467",
-        "CVE-2026-55045",
-        "CVE-2026-50522",
+        "CVE-2026-55018",
+        "CVE-2026-55049",
         "CVE-2026-58644",
-        "CVE-2026-50314",
+        "CVE-2026-50327",
+        "CVE-2026-50655",
+        "CVE-2026-55043",
         "CVE-2026-56164",
-        "CVE-2026-55010",
+        "CVE-2026-50314",
+        "CVE-2026-55022",
+        "CVE-2026-55140",
+        "CVE-2026-55056",
+        "CVE-2026-54992",
         "CVE-2026-54128",
-        "CVE-2026-55140"
+        "CVE-2026-55120",
+        "CVE-2026-55045",
+        "CVE-2026-56155",
+        "CVE-2026-55132",
+        "CVE-2026-50467",
+        "CVE-2026-55010",
+        "CVE-2026-56188",
+        "CVE-2026-50518",
+        "CVE-2026-50370",
+        "CVE-2026-55944",
+        "CVE-2026-55127",
+        "CVE-2026-55129",
+        "CVE-2026-50522"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -912,9 +913,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
+        "CVE-2026-28739",
         "CVE-2026-33091",
-        "CVE-2026-25106",
-        "CVE-2026-28739"
+        "CVE-2026-25106"
       ],
       "threat_categories": [
         "Vulnerability",
