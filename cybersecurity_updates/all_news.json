@@ -182,6 +182,45 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "WordPress Core \"wp2shell\" RCE flaws get public exploits, patch now",
+    "link": "https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/",
+    "published": "Sat, 18 Jul 2026 13:22:47 -0400",
+    "summary": "Public exploits have been released for the critical \"wp2shell\" remote code execution vulnerabilities affecting WordPress Core, making it imperative that administrators patch their sites immediately. [...]",
+    "analysis": {
+      "issue": "Public exploits have been released for the critical \"wp2shell\" remote code execution vulnerabilities affecting WordPress Core, making it imperative that administrators patch their sites immediately",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-60137",
+        "CVE-2026-63030"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft warns of surge in ACR Stealer attacks on customers",
+    "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/",
+    "published": "Sat, 18 Jul 2026 10:17:19 -0400",
+    "summary": "Microsoft has observed a surge in attacks using the ACR Stealer malware to steal browser-stored passwords, authentication tokens, and sensitive documents from its enterprise customers. [...]",
+    "analysis": {
+      "issue": "Microsoft has observed a surge in attacks using the ACR Stealer malware to steal browser-stored passwords, authentication tokens, and sensitive documents from its enterprise customers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "The Future of Age Verification: Your Face Never Leaves Your Device",
     "link": "https://www.bleepingcomputer.com/news/security/the-future-of-age-verification-your-face-never-leaves-your-device/",
     "published": "Sat, 18 Jul 2026 09:15:24 -0400",
@@ -328,46 +367,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "CISA urges immediate action on actively exploited Fortinet flaws",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/",
-    "published": "Fri, 17 Jul 2026 03:03:33 -0400",
-    "summary": "CISA on Thursday ordered government agencies to prioritize patching two actively exploited vulnerabilities in the Fortinet FortiSandbox threat detection platform. [...]",
-    "analysis": {
-      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) on Thursday ordered government agencies to prioritize patching two actively exploited vulnerabilities in the Fortinet FortiSandbox threat detection platform",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-39813",
-        "CVE-2026-25089",
-        "CVE-2026-39808"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New ClickLock macOS malware traps users into revealing login password",
-    "link": "https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/",
-    "published": "Thu, 16 Jul 2026 17:52:54 -0400",
-    "summary": "A new macOS information-stealing malware dubbed ClickLock terminates all visible processes to force users into entering their system login password. [...]",
-    "analysis": {
-      "issue": "A new macOS information-stealing malware dubbed ClickLock terminates all visible processes to force users into entering their system login password",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Microsoft Patches a Record 570 Security Flaws",
     "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
@@ -380,10 +379,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50661",
         "CVE-2026-56164",
-        "CVE-2026-48561",
-        "CVE-2026-56155"
+        "CVE-2026-56155",
+        "CVE-2026-50661",
+        "CVE-2026-48561"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -518,8 +517,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-50507",
-        "CVE-2026-45586",
-        "CVE-2026-49160"
+        "CVE-2026-49160",
+        "CVE-2026-45586"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -691,11 +690,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-39808",
-        "CVE-2026-55040",
-        "CVE-2026-25089",
+        "CVE-2026-58644",
         "CVE-2026-56164",
-        "CVE-2026-58644"
+        "CVE-2026-55040",
+        "CVE-2026-39808",
+        "CVE-2026-25089"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -827,34 +826,34 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-55033",
-        "CVE-2026-55123",
-        "CVE-2026-55018",
-        "CVE-2026-55049",
-        "CVE-2026-58644",
-        "CVE-2026-50327",
-        "CVE-2026-50655",
-        "CVE-2026-55043",
-        "CVE-2026-56164",
-        "CVE-2026-50314",
-        "CVE-2026-55022",
-        "CVE-2026-55140",
-        "CVE-2026-55056",
-        "CVE-2026-54992",
         "CVE-2026-54128",
-        "CVE-2026-55120",
-        "CVE-2026-55045",
-        "CVE-2026-56155",
-        "CVE-2026-55132",
-        "CVE-2026-50467",
-        "CVE-2026-55010",
-        "CVE-2026-56188",
-        "CVE-2026-50518",
-        "CVE-2026-50370",
-        "CVE-2026-55944",
+        "CVE-2026-55018",
+        "CVE-2026-55022",
+        "CVE-2026-50655",
         "CVE-2026-55127",
+        "CVE-2026-55033",
+        "CVE-2026-55944",
+        "CVE-2026-50522",
+        "CVE-2026-56164",
+        "CVE-2026-55120",
+        "CVE-2026-55123",
+        "CVE-2026-55049",
+        "CVE-2026-56188",
+        "CVE-2026-54992",
+        "CVE-2026-55056",
+        "CVE-2026-50467",
+        "CVE-2026-50370",
+        "CVE-2026-55140",
+        "CVE-2026-56155",
+        "CVE-2026-50327",
+        "CVE-2026-50314",
         "CVE-2026-55129",
-        "CVE-2026-50522"
+        "CVE-2026-55045",
+        "CVE-2026-55010",
+        "CVE-2026-50518",
+        "CVE-2026-55132",
+        "CVE-2026-58644",
+        "CVE-2026-55043"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -913,9 +912,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-28739",
         "CVE-2026-33091",
-        "CVE-2026-25106"
+        "CVE-2026-25106",
+        "CVE-2026-28739"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1328,8 +1327,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
