@@ -1,10 +1,35 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-17 17:38:39 UTC
+**Last Updated:** 2026-07-18 02:53:56 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens](https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html)
+### 1. [New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code](https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 18 Jul 2026 02:50:10 +0530  
+
+---
+
+### 2. [OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests](https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 18 Jul 2026 01:50:53 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT](https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 18 Jul 2026 00:24:51 +0530  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 4. [New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens](https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 17 Jul 2026 22:42:23 +0530  
@@ -13,7 +38,7 @@
 
 ---
 
-### 2. [GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft](https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html)
+### 5. [GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft](https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 17 Jul 2026 22:09:16 +0530  
@@ -22,7 +47,7 @@
 
 ---
 
-### 3. [Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images](https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html)
+### 6. [Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images](https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 17 Jul 2026 19:18:56 +0530  
@@ -31,7 +56,7 @@
 
 ---
 
-### 4. [E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants](https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html)
+### 7. [E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants](https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 17 Jul 2026 17:14:41 +0530  
@@ -40,7 +65,7 @@
 
 ---
 
-### 5. [The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?](https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html)
+### 8. [The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?](https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 17 Jul 2026 17:00:00 +0530  
@@ -49,7 +74,7 @@
 
 ---
 
-### 6. [Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man](https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html)
+### 9. [Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man](https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 17 Jul 2026 16:23:31 +0530  
@@ -58,7 +83,7 @@
 
 ---
 
-### 7. [ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files](https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html)
+### 10. [ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files](https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 17 Jul 2026 14:26:39 +0530  
@@ -67,35 +92,25 @@
 
 ---
 
-### 8. [New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage](https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html)
+### 11. [Abbott probes two cyber incidents amid extortion claims](https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 17 Jul 2026 14:16:45 +0530  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 9. [CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV](https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 17 Jul 2026 12:12:23 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-58644  
-**Categories:** Vulnerability  
-
----
-
-### 10. [Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack](https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 16 Jul 2026 22:39:25 +0530  
+**Source:** Bleeping Computer  
+**Published:** Fri, 17 Jul 2026 16:45:52 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 11. [Ernst & Young discloses data breach after support system hack](https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/)
+### 12. [HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload](https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 17 Jul 2026 13:56:21 -0400  
+**Severity:** Low  
+**Categories:** Vulnerability, DDoS  
+
+---
+
+### 13. [Ernst & Young discloses data breach after support system hack](https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 17 Jul 2026 10:55:28 -0400  
@@ -104,7 +119,7 @@
 
 ---
 
-### 12. [Inside the Search for "Clean" Residential Proxies for Carding](https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/)
+### 14. [Inside the Search for "Clean" Residential Proxies for Carding](https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 17 Jul 2026 10:00:10 -0400  
@@ -113,7 +128,7 @@
 
 ---
 
-### 13. [New Windows LegacyHive zero-day gives hackers admin privileges](https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/)
+### 15. [New Windows LegacyHive zero-day gives hackers admin privileges](https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 17 Jul 2026 07:05:30 -0400  
@@ -122,7 +137,7 @@
 
 ---
 
-### 14. [Windows Server 2022 reach end of mainstream support in 90 days](https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/)
+### 16. [Windows Server 2022 reach end of mainstream support in 90 days](https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 17 Jul 2026 05:10:15 -0400  
@@ -131,7 +146,7 @@
 
 ---
 
-### 15. [US charges two over laundering $43 million from investment fraud](https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/)
+### 17. [US charges two over laundering $43 million from investment fraud](https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 17 Jul 2026 04:13:37 -0400  
@@ -140,17 +155,17 @@
 
 ---
 
-### 16. [CISA urges immediate action on actively exploited Fortinet flaws](https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/)
+### 18. [CISA urges immediate action on actively exploited Fortinet flaws](https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 17 Jul 2026 03:03:33 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-39808, CVE-2026-39813, CVE-2026-25089  
+**CVEs:** CVE-2026-39813, CVE-2026-25089, CVE-2026-39808  
 **Categories:** Vulnerability  
 
 ---
 
-### 17. [New ClickLock macOS malware traps users into revealing login password](https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/)
+### 19. [New ClickLock macOS malware traps users into revealing login password](https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 16 Jul 2026 17:52:54 -0400  
@@ -159,7 +174,7 @@
 
 ---
 
-### 18. [Coca-Cola says Fairlife ransomware attack halts US dairy production](https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/)
+### 20. [Coca-Cola says Fairlife ransomware attack halts US dairy production](https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 16 Jul 2026 17:09:41 -0400  
@@ -168,30 +183,12 @@
 
 ---
 
-### 19. [Claude Chrome extension flaw lets malicious extensions trigger AI actions](https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 16 Jul 2026 15:26:07 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [New OkoBot framework deploys 20 payloads to steal data, crypto](https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 16 Jul 2026 15:09:35 -0400  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
 ### 21. [Microsoft Patches a Record 570 Security Flaws](https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56164, CVE-2026-56155, CVE-2026-48561, CVE-2026-50661  
+**CVEs:** CVE-2026-48561, CVE-2026-50661, CVE-2026-56155, CVE-2026-56164  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -255,7 +252,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-45586, CVE-2026-49160, CVE-2026-50507  
+**CVEs:** CVE-2026-50507, CVE-2026-49160, CVE-2026-45586  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -337,7 +334,7 @@
 **Source:** Security Week  
 **Published:** Fri, 17 Jul 2026 07:15:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-39808, CVE-2026-58644, CVE-2026-56164, CVE-2026-55040, CVE-2026-25089  
+**CVEs:** CVE-2026-55040, CVE-2026-25089, CVE-2026-58644, CVE-2026-56164, CVE-2026-39808  
 **Categories:** Vulnerability  
 
 ---
@@ -401,7 +398,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Jul 2026 20:27:33 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-55022, CVE-2026-56188, CVE-2026-55018, CVE-2026-55056, CVE-2026-50522, CVE-2026-55120, CVE-2026-50314, CVE-2026-55129, CVE-2026-50655, CVE-2026-50370, CVE-2026-55132, CVE-2026-50518, CVE-2026-56155, CVE-2026-55127, CVE-2026-54992, CVE-2026-55049, CVE-2026-55140, CVE-2026-55123, CVE-2026-55033, CVE-2026-55010, CVE-2026-55944, CVE-2026-50467, CVE-2026-54128, CVE-2026-50327, CVE-2026-55045, CVE-2026-55043, CVE-2026-58644, CVE-2026-56164  
+**CVEs:** CVE-2026-55140, CVE-2026-55043, CVE-2026-55033, CVE-2026-50327, CVE-2026-50518, CVE-2026-55010, CVE-2026-55056, CVE-2026-55045, CVE-2026-55129, CVE-2026-50655, CVE-2026-55123, CVE-2026-56155, CVE-2026-50522, CVE-2026-50467, CVE-2026-55944, CVE-2026-55018, CVE-2026-54128, CVE-2026-58644, CVE-2026-55132, CVE-2026-56188, CVE-2026-54992, CVE-2026-50370, CVE-2026-55127, CVE-2026-55049, CVE-2026-55120, CVE-2026-50314, CVE-2026-55022, CVE-2026-56164  
 **Categories:** Vulnerability  
 
 ---
@@ -429,7 +426,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 09 Jul 2026 18:52:29 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-33091, CVE-2026-28739, CVE-2026-25106  
+**CVEs:** CVE-2026-25106, CVE-2026-28739, CVE-2026-33091  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -632,7 +629,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

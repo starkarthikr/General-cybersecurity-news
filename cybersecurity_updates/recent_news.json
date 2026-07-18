@@ -1,6 +1,49 @@
 [
   {
     "source": "The Hacker News",
+    "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
+    "link": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
+    "published": "Sat, 18 Jul 2026 02:50:10 +0530",
+    "summary": "An anonymous HTTP request can run code on a WordPress site. The bug is in core, so a bare install with zero plugins is exploitable.\n\nEvery 6.9 and 7.0 site was in range until Friday, when WordPress shipped 6.9.5 and 7.0.2 and enabled what it calls forced updates through its auto-update system.\n\nAdam Kues at Assetnote, Searchlight Cyber's attack surface management arm, found the flaw and reported"
+  },
+  {
+    "source": "The Hacker News",
+    "title": "OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests",
+    "link": "https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html",
+    "published": "Sat, 18 Jul 2026 01:50:53 +0530",
+    "summary": "Eleven bytes will make an unpatched OpenSSL server set aside up to 131 KB of memory for a message that never arrives. On the glibc systems Okta tested, that memory is gone until the process restarts.\n\nOpenSSL shipped the HollowByte fix in June with no CVE, no advisory, and no changelog entry pointing at it. Okta's Red Team, which reported the denial-of-service bug and named it, published the",
+    "analysis": {
+      "issue": "OpenSSL fixed HollowByte after 11-byte TLS requests could strand memory on glibc systems, but shipped no CVE, advisory, or changelog note",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT",
+    "link": "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html",
+    "published": "Sat, 18 Jul 2026 00:24:51 +0530",
+    "summary": "Cybersecurity researchers have discovered a cluster of seven malicious npm packages targeting the Vite frontend tooling ecosystem as part of a software supply chain attack.\n\nThe malicious package campaign, codenamed ViteVenom by Checkmarx, marks an expansion of ChainVeil, which was observed using an \"unprecedented\" four-tier blockchain-based command-and-control (C2) infrastructure spanning Tron,",
+    "analysis": {
+      "issue": "Seven malicious npm packages target Vite developers, using blockchain-based C2 to deliver a RAT for credential theft, file exfiltration, persistence",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
     "link": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html",
     "published": "Fri, 17 Jul 2026 22:42:23 +0530",
@@ -127,51 +170,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage",
-    "link": "https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html",
-    "published": "Fri, 17 Jul 2026 14:16:45 +0530",
-    "summary": "Cybersecurity researchers have discovered a previously undocumented malware called GoSerpent that has been put to use in cyber attacks targeting entities in Southeast Asia since late 2025 with a focus on long-term access and intelligence gathering.\n\nRussian cybersecurity company Kaspersky, which uncovered the activity in February 2026, said it was aimed at government and diplomatic entities in",
+    "source": "Bleeping Computer",
+    "title": "Abbott probes two cyber incidents amid extortion claims",
+    "link": "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/",
+    "published": "Fri, 17 Jul 2026 16:45:52 -0400",
+    "summary": "Abbott Laboratories is investigating two separate cybersecurity incidents after confirming unauthorized access to internal legacy Exact Sciences systems in its Cancer Diagnostics business, while also investigating a separate claim that attackers breached its LabCentral portal and stole company data. [...]",
     "analysis": {
-      "issue": "New GoSerpent malware targets Southeast Asian government and diplomatic entities, deploying SOCKS5 proxies, credential dumpers, and data theft tools",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
-    "link": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html",
-    "published": "Fri, 17 Jul 2026 12:12:23 +0530",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly patched security flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by July 19, 2026.\n\nThe vulnerability in question is CVE-2026-58644 (CVSS score: 9.8), a critical deserialization",
-    "analysis": {
-      "issue": "CISA says SharePoint CVE-2026-58644 was exploited before Microsoft patched it, affecting all supported on-premises versions and enabling RCE",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-58644"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack",
-    "link": "https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html",
-    "published": "Thu, 16 Jul 2026 22:39:25 +0530",
-    "summary": "Owen Flowers, 18, and Thalha Jubair, 20, were each sentenced to five and a half years at Woolwich Crown Court on Thursday, 16 July 2026, for the 2024 hack of Transport for London.\n\nThe attack left 148 TfL systems inoperable and forced all 27,000 of the transport authority's employees into an office to get their passwords reset in person. Both the NCA and the CPS put TfL's losses and recovery",
-    "analysis": {
-      "issue": "5 years each for the £29 million 2024 attack, which disabled 148 systems, exposed customer data, and disrupted travel services",
+      "issue": "Abbott Laboratories is investigating two separate cybersecurity incidents after confirming unauthorized access to internal legacy Exact Sciences systems in its Cancer Diagnostics business, while also investigating a separate claim that attackers brea",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -179,6 +184,25 @@
       "cves": [],
       "threat_categories": [
         "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload",
+    "link": "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/",
+    "published": "Fri, 17 Jul 2026 13:56:21 -0400",
+    "summary": "A vulnerability dubbed HollowByte allows unauthenticated attackers to trigger a denial-of-service (DoS) condition on OpenSSL servers with a malicious payload of just 11 bytes. [...]",
+    "analysis": {
+      "issue": "A vulnerability dubbed HollowByte allows unauthenticated attackers to trigger a denial-of-service (DoS) condition on OpenSSL servers with a malicious payload of just 11 bytes",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "DDoS"
       ]
     }
   },
@@ -286,9 +310,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-39808",
         "CVE-2026-39813",
-        "CVE-2026-25089"
+        "CVE-2026-25089",
+        "CVE-2026-39808"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -332,42 +356,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Claude Chrome extension flaw lets malicious extensions trigger AI actions",
-    "link": "https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/",
-    "published": "Thu, 16 Jul 2026 15:26:07 -0400",
-    "summary": "A flaw in Anthropic's Claude for Chrome browser extension could allow a malicious extension to trigger predefined AI actions by simulating user clicks, potentially allowing it to abuse Claude's access to connected services such as Gmail, Google Docs, Google Calendar, and Salesforce. [...]",
-    "analysis": {
-      "issue": "A flaw in Anthropic's Claude for Chrome browser extension could allow a malicious extension to trigger predefined AI actions by simulating user clicks, potentially allowing it to abuse Claude's access to connected services such as Gmail, Google Docs,",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New OkoBot framework deploys 20 payloads to steal data, crypto",
-    "link": "https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/",
-    "published": "Thu, 16 Jul 2026 15:09:35 -0400",
-    "summary": "A new malicious framework called OkoBot is delivering more than 20 payloads in attacks focused on stealing cryptocurrency wallet seed phrases, credentials, and other sensitive data. [...]",
-    "analysis": {
-      "issue": "A new malicious framework called OkoBot is delivering more than 20 payloads in attacks focused on stealing cryptocurrency wallet seed phrases, credentials, and other sensitive data",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Microsoft Patches a Record 570 Security Flaws",
     "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
@@ -380,10 +368,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56164",
-        "CVE-2026-56155",
         "CVE-2026-48561",
-        "CVE-2026-50661"
+        "CVE-2026-50661",
+        "CVE-2026-56155",
+        "CVE-2026-56164"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -517,9 +505,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-45586",
+        "CVE-2026-50507",
         "CVE-2026-49160",
-        "CVE-2026-50507"
+        "CVE-2026-45586"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -691,11 +679,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-39808",
+        "CVE-2026-55040",
+        "CVE-2026-25089",
         "CVE-2026-58644",
         "CVE-2026-56164",
-        "CVE-2026-55040",
-        "CVE-2026-25089"
+        "CVE-2026-39808"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -827,33 +815,33 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-55022",
-        "CVE-2026-56188",
-        "CVE-2026-55018",
+        "CVE-2026-55140",
+        "CVE-2026-55043",
+        "CVE-2026-55033",
+        "CVE-2026-50327",
+        "CVE-2026-50518",
+        "CVE-2026-55010",
         "CVE-2026-55056",
-        "CVE-2026-50522",
-        "CVE-2026-55120",
-        "CVE-2026-50314",
+        "CVE-2026-55045",
         "CVE-2026-55129",
         "CVE-2026-50655",
-        "CVE-2026-50370",
-        "CVE-2026-55132",
-        "CVE-2026-50518",
-        "CVE-2026-56155",
-        "CVE-2026-55127",
-        "CVE-2026-54992",
-        "CVE-2026-55049",
-        "CVE-2026-55140",
         "CVE-2026-55123",
-        "CVE-2026-55033",
-        "CVE-2026-55010",
-        "CVE-2026-55944",
+        "CVE-2026-56155",
+        "CVE-2026-50522",
         "CVE-2026-50467",
+        "CVE-2026-55944",
+        "CVE-2026-55018",
         "CVE-2026-54128",
-        "CVE-2026-50327",
-        "CVE-2026-55045",
-        "CVE-2026-55043",
         "CVE-2026-58644",
+        "CVE-2026-55132",
+        "CVE-2026-56188",
+        "CVE-2026-54992",
+        "CVE-2026-50370",
+        "CVE-2026-55127",
+        "CVE-2026-55049",
+        "CVE-2026-55120",
+        "CVE-2026-50314",
+        "CVE-2026-55022",
         "CVE-2026-56164"
       ],
       "threat_categories": [
@@ -913,9 +901,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-33091",
+        "CVE-2026-25106",
         "CVE-2026-28739",
-        "CVE-2026-25106"
+        "CVE-2026-33091"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1058,9 +1046,9 @@
     "title": "June 2026 CVE Landscape",
     "link": "https://www.recordedfuture.com/blog/june-2026-cve-landscape",
     "published": "Fri, 10 Jul 2026 00:00:00 GMT",
-    "summary": "In June 2026, Insikt Group® identified 60 high-impact vulnerabilities that should be prioritized for remediation, 30 of which had a Very Critical Recorded Future Risk Score. This represents a 49% increase from last month.",
+    "summary": "In June 2026, Insikt Group® identified 59 high-impact vulnerabilities that should be prioritized for remediation, 30 of which had a Very Critical Recorded Future Risk Score. This represents a 47% increase from last month.",
     "analysis": {
-      "issue": "In June 2026, Insikt Group® identified 60 high-impact vulnerabilities that should be prioritized for remediation, 30 of which had a Very Critical Recorded Future Risk Score",
+      "issue": "In June 2026, Insikt Group® identified 59 high-impact vulnerabilities that should be prioritized for remediation, 30 of which had a Very Critical Recorded Future Risk Score",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1328,8 +1316,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
