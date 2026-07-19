@@ -182,6 +182,24 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives",
+    "link": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
+    "published": "Sat, 18 Jul 2026 15:32:02 -0400",
+    "summary": "7-Zip version 26.02 was released to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed files. [...]",
+    "analysis": {
+      "issue": "02 was released to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed files",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "WordPress Core \"wp2shell\" RCE flaws get public exploits, patch now",
     "link": "https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/",
     "published": "Sat, 18 Jul 2026 13:22:47 -0400",
@@ -193,8 +211,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-60137",
-        "CVE-2026-63030"
+        "CVE-2026-63030",
+        "CVE-2026-60137"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -349,24 +367,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "US charges two over laundering $43 million from investment fraud",
-    "link": "https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/",
-    "published": "Fri, 17 Jul 2026 04:13:37 -0400",
-    "summary": "U.S. prosecutors on Thursday charged a New York man and woman for their roles in a large-scale crime ring that laundered money stolen in cyber investment fraud scams. [...]",
-    "analysis": {
-      "issue": "prosecutors on Thursday charged a New York man and woman for their roles in a large-scale crime ring that laundered money stolen in cyber investment fraud scams",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Microsoft Patches a Record 570 Security Flaws",
     "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
@@ -379,10 +379,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56164",
+        "CVE-2026-48561",
         "CVE-2026-56155",
-        "CVE-2026-50661",
-        "CVE-2026-48561"
+        "CVE-2026-56164",
+        "CVE-2026-50661"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -517,8 +517,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-50507",
-        "CVE-2026-49160",
-        "CVE-2026-45586"
+        "CVE-2026-45586",
+        "CVE-2026-49160"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -690,11 +690,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-58644",
-        "CVE-2026-56164",
         "CVE-2026-55040",
         "CVE-2026-39808",
-        "CVE-2026-25089"
+        "CVE-2026-56164",
+        "CVE-2026-25089",
+        "CVE-2026-58644"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -826,34 +826,34 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-55056",
+        "CVE-2026-55010",
+        "CVE-2026-56155",
+        "CVE-2026-55045",
+        "CVE-2026-55944",
+        "CVE-2026-54992",
+        "CVE-2026-56188",
+        "CVE-2026-50370",
         "CVE-2026-54128",
         "CVE-2026-55018",
-        "CVE-2026-55022",
+        "CVE-2026-56164",
+        "CVE-2026-55123",
+        "CVE-2026-50467",
+        "CVE-2026-50518",
+        "CVE-2026-50314",
         "CVE-2026-50655",
         "CVE-2026-55127",
-        "CVE-2026-55033",
-        "CVE-2026-55944",
-        "CVE-2026-50522",
-        "CVE-2026-56164",
-        "CVE-2026-55120",
-        "CVE-2026-55123",
-        "CVE-2026-55049",
-        "CVE-2026-56188",
-        "CVE-2026-54992",
-        "CVE-2026-55056",
-        "CVE-2026-50467",
-        "CVE-2026-50370",
-        "CVE-2026-55140",
-        "CVE-2026-56155",
         "CVE-2026-50327",
-        "CVE-2026-50314",
-        "CVE-2026-55129",
-        "CVE-2026-55045",
-        "CVE-2026-55010",
-        "CVE-2026-50518",
         "CVE-2026-55132",
-        "CVE-2026-58644",
-        "CVE-2026-55043"
+        "CVE-2026-55120",
+        "CVE-2026-55140",
+        "CVE-2026-55049",
+        "CVE-2026-55022",
+        "CVE-2026-55043",
+        "CVE-2026-55033",
+        "CVE-2026-55129",
+        "CVE-2026-50522",
+        "CVE-2026-58644"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -912,9 +912,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-33091",
         "CVE-2026-25106",
-        "CVE-2026-28739"
+        "CVE-2026-28739",
+        "CVE-2026-33091"
       ],
       "threat_categories": [
         "Vulnerability",

@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-18 17:30:30 UTC
+**Last Updated:** 2026-07-19 03:25:16 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -94,17 +94,26 @@
 
 ---
 
-### 11. [WordPress Core "wp2shell" RCE flaws get public exploits, patch now](https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/)
+### 11. [Update now: 7-Zip fixes RCE flaw exploitable with malicious archives](https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/)
 
 **Source:** Bleeping Computer  
-**Published:** Sat, 18 Jul 2026 13:22:47 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-60137, CVE-2026-63030  
+**Published:** Sat, 18 Jul 2026 15:32:02 -0400  
+**Severity:** Low  
 **Categories:** Vulnerability  
 
 ---
 
-### 12. [Microsoft warns of surge in ACR Stealer attacks on customers](https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/)
+### 12. [WordPress Core "wp2shell" RCE flaws get public exploits, patch now](https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/)
+
+**Source:** Bleeping Computer  
+**Published:** Sat, 18 Jul 2026 13:22:47 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-63030, CVE-2026-60137  
+**Categories:** Vulnerability  
+
+---
+
+### 13. [Microsoft warns of surge in ACR Stealer attacks on customers](https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 18 Jul 2026 10:17:19 -0400  
@@ -113,7 +122,7 @@
 
 ---
 
-### 13. [The Future of Age Verification: Your Face Never Leaves Your Device](https://www.bleepingcomputer.com/news/security/the-future-of-age-verification-your-face-never-leaves-your-device/)
+### 14. [The Future of Age Verification: Your Face Never Leaves Your Device](https://www.bleepingcomputer.com/news/security/the-future-of-age-verification-your-face-never-leaves-your-device/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 18 Jul 2026 09:15:24 -0400  
@@ -122,7 +131,7 @@
 
 ---
 
-### 14. [Abbott probes two cyber incidents amid extortion claims](https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/)
+### 15. [Abbott probes two cyber incidents amid extortion claims](https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 17 Jul 2026 16:45:52 -0400  
@@ -131,7 +140,7 @@
 
 ---
 
-### 15. [HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload](https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/)
+### 16. [HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload](https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 17 Jul 2026 13:56:21 -0400  
@@ -140,7 +149,7 @@
 
 ---
 
-### 16. [Ernst & Young discloses data breach after support system hack](https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/)
+### 17. [Ernst & Young discloses data breach after support system hack](https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 17 Jul 2026 10:55:28 -0400  
@@ -149,7 +158,7 @@
 
 ---
 
-### 17. [Inside the Search for "Clean" Residential Proxies for Carding](https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/)
+### 18. [Inside the Search for "Clean" Residential Proxies for Carding](https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 17 Jul 2026 10:00:10 -0400  
@@ -158,7 +167,7 @@
 
 ---
 
-### 18. [New Windows LegacyHive zero-day gives hackers admin privileges](https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/)
+### 19. [New Windows LegacyHive zero-day gives hackers admin privileges](https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 17 Jul 2026 07:05:30 -0400  
@@ -167,19 +176,10 @@
 
 ---
 
-### 19. [Windows Server 2022 reach end of mainstream support in 90 days](https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/)
+### 20. [Windows Server 2022 reach end of mainstream support in 90 days](https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 17 Jul 2026 05:10:15 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [US charges two over laundering $43 million from investment fraud](https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 17 Jul 2026 04:13:37 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -190,7 +190,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56164, CVE-2026-56155, CVE-2026-50661, CVE-2026-48561  
+**CVEs:** CVE-2026-48561, CVE-2026-56155, CVE-2026-56164, CVE-2026-50661  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -254,7 +254,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50507, CVE-2026-49160, CVE-2026-45586  
+**CVEs:** CVE-2026-50507, CVE-2026-45586, CVE-2026-49160  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -336,7 +336,7 @@
 **Source:** Security Week  
 **Published:** Fri, 17 Jul 2026 07:15:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-58644, CVE-2026-56164, CVE-2026-55040, CVE-2026-39808, CVE-2026-25089  
+**CVEs:** CVE-2026-55040, CVE-2026-39808, CVE-2026-56164, CVE-2026-25089, CVE-2026-58644  
 **Categories:** Vulnerability  
 
 ---
@@ -400,7 +400,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Jul 2026 20:27:33 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-54128, CVE-2026-55018, CVE-2026-55022, CVE-2026-50655, CVE-2026-55127, CVE-2026-55033, CVE-2026-55944, CVE-2026-50522, CVE-2026-56164, CVE-2026-55120, CVE-2026-55123, CVE-2026-55049, CVE-2026-56188, CVE-2026-54992, CVE-2026-55056, CVE-2026-50467, CVE-2026-50370, CVE-2026-55140, CVE-2026-56155, CVE-2026-50327, CVE-2026-50314, CVE-2026-55129, CVE-2026-55045, CVE-2026-55010, CVE-2026-50518, CVE-2026-55132, CVE-2026-58644, CVE-2026-55043  
+**CVEs:** CVE-2026-55056, CVE-2026-55010, CVE-2026-56155, CVE-2026-55045, CVE-2026-55944, CVE-2026-54992, CVE-2026-56188, CVE-2026-50370, CVE-2026-54128, CVE-2026-55018, CVE-2026-56164, CVE-2026-55123, CVE-2026-50467, CVE-2026-50518, CVE-2026-50314, CVE-2026-50655, CVE-2026-55127, CVE-2026-50327, CVE-2026-55132, CVE-2026-55120, CVE-2026-55140, CVE-2026-55049, CVE-2026-55022, CVE-2026-55043, CVE-2026-55033, CVE-2026-55129, CVE-2026-50522, CVE-2026-58644  
 **Categories:** Vulnerability  
 
 ---
@@ -428,7 +428,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 09 Jul 2026 18:52:29 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-33091, CVE-2026-25106, CVE-2026-28739  
+**CVEs:** CVE-2026-25106, CVE-2026-28739, CVE-2026-33091  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
