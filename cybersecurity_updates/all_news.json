@@ -1,6 +1,26 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
+    "link": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html",
+    "published": "Mon, 20 Jul 2026 02:12:49 +0530",
+    "summary": "F5 has shipped fixes for a critical nginx flaw that lets a remote, unauthenticated attacker trigger a heap buffer overflow in the worker process with crafted HTTP requests. CVE-2026-42533 was patched on July 15 in nginx 1.30.4 (stable) and 1.31.3 (mainline), and in NGINX Plus 37.0.3.1; anyone on an earlier build should upgrade.\n\nTriggering it can crash or restart the worker, causing a denial of",
+    "analysis": {
+      "issue": "F5 patches CVE-2026-42533, a regex map heap overflow that crashes nginx workers and may allow RCE in specific configurations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-42533"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware",
     "link": "https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html",
     "published": "Sun, 19 Jul 2026 19:00:55 +0530",
@@ -166,24 +186,6 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?",
-    "link": "https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html",
-    "published": "Fri, 17 Jul 2026 17:00:00 +0530",
-    "summary": "Military forces are under increasing pressure to field autonomous capabilities faster than ever before. Across the U.S., UK, and NATO, new investment, evolving defense strategies, and accelerated acquisition pathways are transforming how capability is delivered, rewarding programs that can move from concept to operational deployment at commercial speed.\n\nNow the focus shifts to the trusted",
-    "analysis": {
-      "issue": "Autonomous defense systems need trusted infrastructure to move telemetry, command data, and AI outputs across platforms, classifications, and allies",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
     "title": "Hackers abuse ViPNet software to target Russian govt agencies",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/",
@@ -206,9 +208,9 @@
     "title": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives",
     "link": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
     "published": "Sat, 18 Jul 2026 15:32:02 -0400",
-    "summary": "7-Zip version 26.02 was released to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed files. [...]",
+    "summary": "7-Zip version 26.02 was released on June 25 to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed files. [...]",
     "analysis": {
-      "issue": "02 was released to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed files",
+      "issue": "02 was released on June 25 to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed files",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -384,8 +386,8 @@
       "cves": [
         "CVE-2026-48561",
         "CVE-2026-56155",
-        "CVE-2026-50661",
-        "CVE-2026-56164"
+        "CVE-2026-56164",
+        "CVE-2026-50661"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -693,11 +695,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56164",
         "CVE-2026-55040",
-        "CVE-2026-25089",
         "CVE-2026-39808",
-        "CVE-2026-58644"
+        "CVE-2026-56164",
+        "CVE-2026-58644",
+        "CVE-2026-25089"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -829,34 +831,34 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-55056",
-        "CVE-2026-55018",
-        "CVE-2026-55010",
-        "CVE-2026-55123",
-        "CVE-2026-55049",
-        "CVE-2026-54992",
-        "CVE-2026-50522",
-        "CVE-2026-55043",
-        "CVE-2026-55140",
-        "CVE-2026-58644",
-        "CVE-2026-55022",
-        "CVE-2026-50518",
-        "CVE-2026-56188",
         "CVE-2026-56164",
-        "CVE-2026-55045",
-        "CVE-2026-50314",
+        "CVE-2026-55127",
+        "CVE-2026-50370",
+        "CVE-2026-54992",
+        "CVE-2026-50327",
+        "CVE-2026-50467",
+        "CVE-2026-55120",
+        "CVE-2026-55022",
+        "CVE-2026-55140",
+        "CVE-2026-55123",
+        "CVE-2026-58644",
         "CVE-2026-54128",
         "CVE-2026-56155",
-        "CVE-2026-55127",
-        "CVE-2026-50467",
-        "CVE-2026-50327",
-        "CVE-2026-50370",
-        "CVE-2026-55132",
-        "CVE-2026-50655",
         "CVE-2026-55129",
-        "CVE-2026-55120",
+        "CVE-2026-55010",
+        "CVE-2026-55033",
         "CVE-2026-55944",
-        "CVE-2026-55033"
+        "CVE-2026-50655",
+        "CVE-2026-55132",
+        "CVE-2026-50518",
+        "CVE-2026-55018",
+        "CVE-2026-55043",
+        "CVE-2026-50522",
+        "CVE-2026-50314",
+        "CVE-2026-55049",
+        "CVE-2026-56188",
+        "CVE-2026-55045",
+        "CVE-2026-55056"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -915,9 +917,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-25106",
+        "CVE-2026-33091",
         "CVE-2026-28739",
-        "CVE-2026-33091"
+        "CVE-2026-25106"
       ],
       "threat_categories": [
         "Vulnerability",

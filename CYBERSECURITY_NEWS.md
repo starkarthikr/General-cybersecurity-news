@@ -1,10 +1,20 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-19 17:32:05 UTC
+**Last Updated:** 2026-07-20 03:39:30 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware](https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html)
+### 1. [Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution](https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 20 Jul 2026 02:12:49 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-42533  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware](https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 19 Jul 2026 19:00:55 +0530  
@@ -13,7 +23,7 @@
 
 ---
 
-### 2. [SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access](https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html)
+### 3. [SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access](https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 19 Jul 2026 18:48:56 +0530  
@@ -22,7 +32,7 @@
 
 ---
 
-### 3. [New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code](https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html)
+### 4. [New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code](https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 18 Jul 2026 02:50:10 +0530  
@@ -31,7 +41,7 @@
 
 ---
 
-### 4. [OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests](https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html)
+### 5. [OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests](https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 18 Jul 2026 01:50:53 +0530  
@@ -40,7 +50,7 @@
 
 ---
 
-### 5. [Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT](https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html)
+### 6. [Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT](https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 18 Jul 2026 00:24:51 +0530  
@@ -49,7 +59,7 @@
 
 ---
 
-### 6. [New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens](https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html)
+### 7. [New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens](https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 17 Jul 2026 22:42:23 +0530  
@@ -58,7 +68,7 @@
 
 ---
 
-### 7. [GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft](https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html)
+### 8. [GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft](https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 17 Jul 2026 22:09:16 +0530  
@@ -67,7 +77,7 @@
 
 ---
 
-### 8. [Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images](https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html)
+### 9. [Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images](https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 17 Jul 2026 19:18:56 +0530  
@@ -76,19 +86,10 @@
 
 ---
 
-### 9. [E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants](https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html)
+### 10. [E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants](https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 17 Jul 2026 17:14:41 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?](https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 17 Jul 2026 17:00:00 +0530  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -190,7 +191,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48561, CVE-2026-56155, CVE-2026-50661, CVE-2026-56164  
+**CVEs:** CVE-2026-48561, CVE-2026-56155, CVE-2026-56164, CVE-2026-50661  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -336,7 +337,7 @@
 **Source:** Security Week  
 **Published:** Fri, 17 Jul 2026 07:15:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56164, CVE-2026-55040, CVE-2026-25089, CVE-2026-39808, CVE-2026-58644  
+**CVEs:** CVE-2026-55040, CVE-2026-39808, CVE-2026-56164, CVE-2026-58644, CVE-2026-25089  
 **Categories:** Vulnerability  
 
 ---
@@ -400,7 +401,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Jul 2026 20:27:33 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-55056, CVE-2026-55018, CVE-2026-55010, CVE-2026-55123, CVE-2026-55049, CVE-2026-54992, CVE-2026-50522, CVE-2026-55043, CVE-2026-55140, CVE-2026-58644, CVE-2026-55022, CVE-2026-50518, CVE-2026-56188, CVE-2026-56164, CVE-2026-55045, CVE-2026-50314, CVE-2026-54128, CVE-2026-56155, CVE-2026-55127, CVE-2026-50467, CVE-2026-50327, CVE-2026-50370, CVE-2026-55132, CVE-2026-50655, CVE-2026-55129, CVE-2026-55120, CVE-2026-55944, CVE-2026-55033  
+**CVEs:** CVE-2026-56164, CVE-2026-55127, CVE-2026-50370, CVE-2026-54992, CVE-2026-50327, CVE-2026-50467, CVE-2026-55120, CVE-2026-55022, CVE-2026-55140, CVE-2026-55123, CVE-2026-58644, CVE-2026-54128, CVE-2026-56155, CVE-2026-55129, CVE-2026-55010, CVE-2026-55033, CVE-2026-55944, CVE-2026-50655, CVE-2026-55132, CVE-2026-50518, CVE-2026-55018, CVE-2026-55043, CVE-2026-50522, CVE-2026-50314, CVE-2026-55049, CVE-2026-56188, CVE-2026-55045, CVE-2026-55056  
 **Categories:** Vulnerability  
 
 ---
@@ -428,7 +429,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 09 Jul 2026 18:52:29 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-25106, CVE-2026-28739, CVE-2026-33091  
+**CVEs:** CVE-2026-33091, CVE-2026-28739, CVE-2026-25106  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
