@@ -1,6 +1,61 @@
 [
   {
     "source": "The Hacker News",
+    "title": "⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More",
+    "link": "https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html",
+    "published": "Mon, 20 Jul 2026 19:02:26 +0530",
+    "summary": "A single request should not be able to do this much. But this week, small inputs led to code execution, memory loss, stolen keys, and disabled security tools.\n\nThe paths were often simple: exposed systems, weak checks, old drivers, fake prompts, and public code used for malware delivery. Some bugs were new. Others were already being used before defenders had time to patch.\n\nHere is the full",
+    "analysis": {
+      "issue": "This recap covers exploited flaws, exposed systems, malware campaigns, weak defaults, and the security gaps demanding attention",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine",
+    "link": "https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html",
+    "published": "Mon, 20 Jul 2026 17:43:39 +0530",
+    "summary": "At least one Russian intelligence service is systematically hijacking internet-connected security cameras across Europe and Ukraine, using the feeds to watch military transport routes, weapons shipments bound for Kyiv, and the locations of Ukrainian troops.\n\nThat is the finding of a cybersecurity advisory published July 10 by the AIVD and MIVD, the Netherlands' civilian and military intelligence",
+    "analysis": {
+      "issue": "Russian intelligence hijacks exposed cameras to track military routes as Censys flags 87,000 devices matching known-exploited services in Europe",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Mythos Didn't Break Your Security Program. Your Exposure Window Could.",
+    "link": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html",
+    "published": "Mon, 20 Jul 2026 17:00:00 +0530",
+    "summary": "The industry spent the initial months after Anthropic's April 7 Mythos reveal focused on volume. How many new CVEs would Mythos add to an already overloaded pipeline? How quickly would the flood of AI-driven discovery overwhelm triage capabilities? How long would it take adversaries to weaponize Mythos findings at scale? Those questions were and remain valid. Yet they all stop short of",
+    "analysis": {
+      "issue": "AI-driven discovery widens the exposure window as attackers break out in 29 minutes while critical application flaws take 55 days to remediate",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction",
     "link": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
     "published": "Mon, 20 Jul 2026 14:40:56 +0530",
@@ -60,18 +115,7 @@
     "title": "SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines",
     "link": "https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html",
     "published": "Mon, 20 Jul 2026 10:45:39 +0530",
-    "summary": "Cybersecurity researchers have flagged a new software supply chain attack codenamed SleeperGem targeting the Ruby ecosystem after three malicious gems were published to RubyGems with the end goal of serving additional payloads.\n\nThe rogue gems are listed below -\n\n\n  git_credential_manager (versions 2.8.0, 2.8.1, 2.8.2, 2.8.3) - Published on July 18, 2026\n  Dendreo (versions 1.1.3, 1.1.4) -",
-    "analysis": {
-      "issue": "Three malicious RubyGems packages in the SleeperGem attack skip CI runners, target developer machines, and install persistent native malware",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
+    "summary": "Cybersecurity researchers have flagged a new software supply chain attack codenamed SleeperGem targeting the Ruby ecosystem after three malicious gems were published to RubyGems with the end goal of serving additional payloads.\n\nThe rogue gems are listed below -\n\n\n  git_credential_manager (versions 2.8.0, 2.8.1, 2.8.2, 2.8.3) - Published on July 18, 2026\n  Dendreo (versions 1.1.3, 1.1.4) -"
   },
   {
     "source": "The Hacker News",
@@ -133,13 +177,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
-    "link": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
-    "published": "Sat, 18 Jul 2026 02:50:10 +0530",
-    "summary": "Updated July 18, 2026: the two flaws now carry CVE IDs, the full mechanism has been published, a persistent-object-cache condition has surfaced, and a working proof-of-concept is public. The story below reflects all of it.\n\nAn anonymous HTTP request can run code on a WordPress site. The bug is in core, so a bare install with zero plugins is exploitable. Every 6.9 and 7.0 site was in range until",
+    "source": "Bleeping Computer",
+    "title": "An AI SOC Evaluation Guide for Security Leaders",
+    "link": "https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/",
+    "published": "Mon, 20 Jul 2026 10:01:11 -0400",
+    "summary": "Choosing an AI SOC platform requires understanding how it will perform in your own environment, not just during an evaluation. Prophet Security shares a practical framework for assessing AI SOC solutions, including how to validate accuracy, operating models, long-term reliability, and production readiness. [...]",
     "analysis": {
-      "issue": "2 patch wp2shell, a pre-auth core RCE that lets anonymous attackers run code on default installs, even with no plugins",
+      "issue": "The market for AI in the SOC has moved faster than the methods for evaluating it",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -151,38 +195,21 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests",
-    "link": "https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html",
-    "published": "Sat, 18 Jul 2026 01:50:53 +0530",
-    "summary": "Eleven bytes will make an unpatched OpenSSL server set aside up to 131 KB of memory for a message that never arrives. On the glibc systems Okta tested, that memory is gone until the process restarts.\n\nOpenSSL shipped the HollowByte fix in June with no CVE, no advisory, and no changelog entry pointing at it. Okta's Red Team, which reported the denial-of-service bug and named it, published the",
+    "source": "Bleeping Computer",
+    "title": "Hugging Face warns an autonomous AI agent hacked its network",
+    "link": "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/",
+    "published": "Mon, 20 Jul 2026 07:56:28 -0400",
+    "summary": "The Hugging Face artificial intelligence repository disclosed that attackers gained access to internal datasets and credentials after breaching its production infrastructure using an autonomous AI agent system. [...]",
     "analysis": {
-      "issue": "OpenSSL fixed HollowByte after 11-byte TLS requests could strand memory on glibc systems, but shipped no CVE, advisory, or changelog note",
+      "issue": "The Hugging Face artificial intelligence repository disclosed that attackers gained access to internal datasets and credentials after breaching its production infrastructure using an autonomous AI agent system",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT",
-    "link": "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html",
-    "published": "Sat, 18 Jul 2026 00:24:51 +0530",
-    "summary": "Cybersecurity researchers have discovered a cluster of seven malicious npm packages targeting the Vite frontend tooling ecosystem as part of a software supply chain attack.\n\nThe malicious package campaign, codenamed ViteVenom by Checkmarx, marks an expansion of ChainVeil, which was observed using an \"unprecedented\" four-tier blockchain-based command-and-control (C2) infrastructure spanning Tron,",
-    "analysis": {
-      "issue": "Seven malicious npm packages target Vite developers, using blockchain-based C2 to deliver a RAT for credential theft, file exfiltration, persistence",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
+        "Vulnerability",
+        "Supply Chain"
       ]
     }
   },
@@ -291,8 +318,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-63030",
-        "CVE-2026-60137"
+        "CVE-2026-60137",
+        "CVE-2026-63030"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -337,43 +364,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Abbott probes two cyber incidents amid extortion claims",
-    "link": "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/",
-    "published": "Fri, 17 Jul 2026 16:45:52 -0400",
-    "summary": "Abbott Laboratories is investigating two separate cybersecurity incidents after confirming unauthorized access to internal legacy Exact Sciences systems in its Cancer Diagnostics business, while also investigating a separate claim that attackers breached its LabCentral portal and stole company data. [...]",
-    "analysis": {
-      "issue": "Abbott Laboratories is investigating two separate cybersecurity incidents after confirming unauthorized access to internal legacy Exact Sciences systems in its Cancer Diagnostics business, while also investigating a separate claim that attackers brea",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload",
-    "link": "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/",
-    "published": "Fri, 17 Jul 2026 13:56:21 -0400",
-    "summary": "A vulnerability dubbed HollowByte allows unauthenticated attackers to trigger a denial-of-service (DoS) condition on OpenSSL servers with a malicious payload of just 11 bytes. [...]",
-    "analysis": {
-      "issue": "A vulnerability dubbed HollowByte allows unauthenticated attackers to trigger a denial-of-service (DoS) condition on OpenSSL servers with a malicious payload of just 11 bytes",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "DDoS"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Microsoft Patches a Record 570 Security Flaws",
     "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
@@ -386,10 +376,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56155",
+        "CVE-2026-56164",
         "CVE-2026-48561",
-        "CVE-2026-50661",
-        "CVE-2026-56164"
+        "CVE-2026-56155",
+        "CVE-2026-50661"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -523,8 +513,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-45586",
         "CVE-2026-50507",
+        "CVE-2026-45586",
         "CVE-2026-49160"
       ],
       "threat_categories": [
@@ -568,6 +558,86 @@
         "Data Breach",
         "APT",
         "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "SonicWall Zero-Days Exploited to Deliver Custom Malware for Weeks Before Patch",
+    "link": "https://www.securityweek.com/sonicwall-zero-days-exploited-to-deliver-custom-malware-for-weeks-before-patch/",
+    "published": "Mon, 20 Jul 2026 14:11:05 +0000",
+    "summary": "<p>The zero-days CVE-2026-15409 and CVE-2026-15410 were exploited by a threat actor tracked by Volexity as UTA0533.</p>\n<p>The post <a href=\"https://www.securityweek.com/sonicwall-zero-days-exploited-to-deliver-custom-malware-for-weeks-before-patch/\">SonicWall Zero-Days Exploited to Deliver Custom Malware for Weeks Before Patch</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The zero-days CVE-2026-15409 and CVE-2026-15410 were exploited by a threat actor tracked by Volexity as UTA0533",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-15409",
+        "CVE-2026-15410"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "OpenSSL Silently Fixes ‘HollowByte’ DoS Vulnerability",
+    "link": "https://www.securityweek.com/openssl-silently-fixes-hollowbyte-dos-vulnerability/",
+    "published": "Mon, 20 Jul 2026 12:32:40 +0000",
+    "summary": "<p>Attackers could send waves of malicious payloads to trigger buffer pre-allocations that are not freed, exhausting server memory.</p>\n<p>The post <a href=\"https://www.securityweek.com/openssl-silently-fixes-hollowbyte-dos-vulnerability/\">OpenSSL Silently Fixes &#8216;HollowByte&#8217; DoS Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Attackers could send waves of malicious payloads to trigger buffer pre-allocations that are not freed, exhausting server memory",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "New Index Tracks Material Breaches — And Refuses to Add Up the Losses",
+    "link": "https://www.securityweek.com/new-index-tracks-material-breaches-and-refuses-to-add-up-the-losses/",
+    "published": "Mon, 20 Jul 2026 11:46:50 +0000",
+    "summary": "<p>Longtime cybersecurity executive Richard Bird built the resource for security experts, journalists, policymakers, and everyday citizens.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-index-tracks-material-breaches-and-refuses-to-add-up-the-losses/\">New Index Tracks Material Breaches — And Refuses to Add Up the Losses</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Longtime cybersecurity executive Richard Bird built the resource for security experts, journalists, policymakers, and everyday citizens",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Medium",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Ernst & Young Data Breach Affects Personal, Financial Information",
+    "link": "https://www.securityweek.com/ernst-young-data-breach-affects-personal-financial-information/",
+    "published": "Mon, 20 Jul 2026 11:27:38 +0000",
+    "summary": "<p>Hackers stole names, addresses, Social Security numbers, credit/debit card numbers, and other information from a third-party management platform.</p>\n<p>The post <a href=\"https://www.securityweek.com/ernst-young-data-breach-affects-personal-financial-information/\">Ernst &#038; Young Data Breach Affects Personal, Financial Information</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Hackers stole names, addresses, Social Security numbers, credit/debit card numbers, and other information from a third-party management platform",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Supply Chain"
       ]
     }
   },
@@ -660,8 +730,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-63030",
-        "CVE-2026-60137"
+        "CVE-2026-60137",
+        "CVE-2026-63030"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -688,79 +758,6 @@
         "Vulnerability",
         "Malware",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Podcast: Broken Governance, Agentic AI, and the MindStone Agent Exclusive",
-    "link": "https://www.securityweek.com/podcast-broken-governance-agentic-ai-and-the-mindstone-agent-exclusive/",
-    "published": "Fri, 17 Jul 2026 12:11:22 +0000",
-    "summary": "<p>(Video) Artificial intelligence is transforming cybersecurity, but are governance, compliance, and security practices evolving fast enough to keep up?</p>\n<p>The post <a href=\"https://www.securityweek.com/podcast-broken-governance-agentic-ai-and-the-mindstone-agent-exclusive/\">Podcast: Broken Governance, Agentic AI, and the MindStone Agent Exclusive</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "(Video) Artificial intelligence is transforming cybersecurity, but are governance, compliance, and security practices evolving fast enough to keep up",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Beacon Security Raises $13 Million for Security Data Platform",
-    "link": "https://www.securityweek.com/beacon-security-raises-13-million-for-security-data-platform/",
-    "published": "Fri, 17 Jul 2026 11:43:36 +0000",
-    "summary": "<p>The startup helps organizations detect, hunt, and protect their assets across environments at machine speed.</p>\n<p>The post <a href=\"https://www.securityweek.com/beacon-security-raises-13-million-for-security-data-platform/\">Beacon Security Raises $13 Million for Security Data Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The startup helps organizations detect, hunt, and protect their assets across environments at machine speed",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Industry Reactions to Pentagon Suspending CMMC Phase 2: Feedback Friday",
-    "link": "https://www.securityweek.com/industry-reactions-to-pentagon-suspending-cmmc-phase-2-feedback-friday/",
-    "published": "Fri, 17 Jul 2026 11:08:04 +0000",
-    "summary": "<p>Industry professionals broadly agree that the suspension pauses third-party CMMC audits but not the underlying legal obligation to protect CUI.</p>\n<p>The post <a href=\"https://www.securityweek.com/industry-reactions-to-pentagon-suspending-cmmc-phase-2-feedback-friday/\">Industry Reactions to Pentagon Suspending CMMC Phase 2: Feedback Friday</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Industry professionals broadly agree that the suspension pauses third-party CMMC audits but not the underlying legal obligation to protect CUI",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Cyberattack Disrupts Operations of Japanese Frozen Food Giant Nichirei",
-    "link": "https://www.securityweek.com/cyberattack-disrupts-operations-of-japanese-frozen-food-giant-nichirei/",
-    "published": "Fri, 17 Jul 2026 09:06:27 +0000",
-    "summary": "<p>The company disconnected its systems on July 13 and is starting to gradually restore operations.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyberattack-disrupts-operations-of-japanese-frozen-food-giant-nichirei/\">Cyberattack Disrupts Operations of Japanese Frozen Food Giant Nichirei</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The company disconnected its systems on July 13 and is starting to gradually restore operations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
       ]
     }
   },
@@ -832,34 +829,34 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56155",
-        "CVE-2026-56188",
-        "CVE-2026-55018",
-        "CVE-2026-55123",
-        "CVE-2026-54128",
-        "CVE-2026-55010",
-        "CVE-2026-55132",
-        "CVE-2026-50370",
-        "CVE-2026-50327",
-        "CVE-2026-50467",
-        "CVE-2026-55033",
-        "CVE-2026-55049",
-        "CVE-2026-50655",
-        "CVE-2026-50518",
-        "CVE-2026-55129",
-        "CVE-2026-55056",
         "CVE-2026-55140",
-        "CVE-2026-58644",
-        "CVE-2026-55127",
-        "CVE-2026-50522",
-        "CVE-2026-55045",
+        "CVE-2026-50327",
+        "CVE-2026-50655",
+        "CVE-2026-50314",
         "CVE-2026-55944",
-        "CVE-2026-55120",
-        "CVE-2026-55043",
+        "CVE-2026-55132",
+        "CVE-2026-55018",
+        "CVE-2026-55129",
+        "CVE-2026-50522",
+        "CVE-2026-55049",
         "CVE-2026-56164",
+        "CVE-2026-55127",
+        "CVE-2026-55056",
         "CVE-2026-55022",
+        "CVE-2026-50370",
+        "CVE-2026-58644",
         "CVE-2026-54992",
-        "CVE-2026-50314"
+        "CVE-2026-50467",
+        "CVE-2026-55120",
+        "CVE-2026-56155",
+        "CVE-2026-55045",
+        "CVE-2026-55033",
+        "CVE-2026-56188",
+        "CVE-2026-55123",
+        "CVE-2026-50518",
+        "CVE-2026-55010",
+        "CVE-2026-54128",
+        "CVE-2026-55043"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -919,8 +916,8 @@
       "severity": "Low",
       "cves": [
         "CVE-2026-25106",
-        "CVE-2026-33091",
-        "CVE-2026-28739"
+        "CVE-2026-28739",
+        "CVE-2026-33091"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1333,8 +1330,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
