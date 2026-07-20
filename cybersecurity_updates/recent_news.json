@@ -43,20 +43,7 @@
     "title": "SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access",
     "link": "https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html",
     "published": "Sun, 19 Jul 2026 18:48:56 +0530",
-    "summary": "A previously undocumented threat actor has been attributed to the exploitation of recently disclosed SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances as zero-days prior their public disclosure since June 22, 2026.\n\nCybersecurity company Volexity is tracking the activity under the moniker UTA0533. The discovery was made following an incident response investigation earlier this",
-    "analysis": {
-      "issue": "Volexity links UTA0533 to two SonicWall SMA 1000 zero-days used before disclosure to gain root, plant malware, and capture LDAP credentials",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "APT"
-      ]
-    }
+    "summary": "A previously undocumented threat actor has been attributed to the exploitation of recently disclosed SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances as zero-days prior their public disclosure since June 22, 2026.\n\nCybersecurity company Volexity is tracking the activity under the moniker UTA0533. The discovery was made following an incident response investigation earlier this"
   },
   {
     "source": "The Hacker News",
@@ -172,18 +159,7 @@
     "title": "E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants",
     "link": "https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html",
     "published": "Fri, 17 Jul 2026 17:14:41 +0530",
-    "summary": "The European Commission on Thursday ordered Google to give rival AI assistants the same reach into Android that Gemini already has: the camera, the microphone, whatever is on screen, a wake word that fires with the display off, and the ability to drive other apps in the background by imitating taps and typing.\n\nGoogle has to ship it in the next major release, Android 18, and by 1 August 2027 at",
-    "analysis": {
-      "issue": "EU orders Google to open 11 Android 18 features to rival AI assistants by August 2027, while sharing anonymized Search data under DMA rules",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
+    "summary": "The European Commission on Thursday ordered Google to give rival AI assistants the same reach into Android that Gemini already has: the camera, the microphone, whatever is on screen, a wake word that fires with the display off, and the ability to drive other apps in the background by imitating taps and typing.\n\nGoogle has to ship it in the next major release, Android 18, and by 1 August 2027 at"
   },
   {
     "source": "Bleeping Computer",
@@ -234,8 +210,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-60137",
-        "CVE-2026-63030"
+        "CVE-2026-63030",
+        "CVE-2026-60137"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -384,10 +360,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-48561",
         "CVE-2026-56155",
+        "CVE-2026-50661",
         "CVE-2026-56164",
-        "CVE-2026-50661"
+        "CVE-2026-48561"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -522,8 +498,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-49160",
-        "CVE-2026-45586",
-        "CVE-2026-50507"
+        "CVE-2026-50507",
+        "CVE-2026-45586"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -695,10 +671,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-55040",
-        "CVE-2026-39808",
         "CVE-2026-56164",
+        "CVE-2026-39808",
         "CVE-2026-58644",
+        "CVE-2026-55040",
         "CVE-2026-25089"
       ],
       "threat_categories": [
@@ -831,34 +807,34 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56164",
-        "CVE-2026-55127",
         "CVE-2026-50370",
+        "CVE-2026-55127",
+        "CVE-2026-50522",
+        "CVE-2026-56164",
+        "CVE-2026-56188",
+        "CVE-2026-55018",
+        "CVE-2026-55123",
+        "CVE-2026-56155",
+        "CVE-2026-50655",
+        "CVE-2026-50518",
+        "CVE-2026-54128",
+        "CVE-2026-55056",
+        "CVE-2026-55049",
+        "CVE-2026-55033",
         "CVE-2026-54992",
-        "CVE-2026-50327",
+        "CVE-2026-55129",
         "CVE-2026-50467",
         "CVE-2026-55120",
         "CVE-2026-55022",
-        "CVE-2026-55140",
-        "CVE-2026-55123",
-        "CVE-2026-58644",
-        "CVE-2026-54128",
-        "CVE-2026-56155",
-        "CVE-2026-55129",
-        "CVE-2026-55010",
-        "CVE-2026-55033",
-        "CVE-2026-55944",
-        "CVE-2026-50655",
         "CVE-2026-55132",
-        "CVE-2026-50518",
-        "CVE-2026-55018",
-        "CVE-2026-55043",
-        "CVE-2026-50522",
-        "CVE-2026-50314",
-        "CVE-2026-55049",
-        "CVE-2026-56188",
+        "CVE-2026-58644",
         "CVE-2026-55045",
-        "CVE-2026-55056"
+        "CVE-2026-50314",
+        "CVE-2026-55010",
+        "CVE-2026-50327",
+        "CVE-2026-55043",
+        "CVE-2026-55140",
+        "CVE-2026-55944"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -917,9 +893,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-33091",
         "CVE-2026-28739",
-        "CVE-2026-25106"
+        "CVE-2026-25106",
+        "CVE-2026-33091"
       ],
       "threat_categories": [
         "Vulnerability",
