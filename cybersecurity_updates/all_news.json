@@ -1,6 +1,103 @@
 [
   {
     "source": "The Hacker News",
+    "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
+    "link": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
+    "published": "Tue, 21 Jul 2026 21:36:12 +0530",
+    "summary": "Hidden text on a web page was enough to make Kiro, AWS's agentic coding IDE, rewrite its own configuration file and run an attacker's code on a developer's machine, with no approval step able to stop it.\n\nIntezer, in research with Kodem Security, found that a request as ordinary as asking Kiro to summarize a page could end in remote code execution. AWS has patched the issue, and no CVE has been",
+    "analysis": {
+      "issue": "AWS fixed a Kiro prompt injection chain that rewrote mcp",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities",
+    "link": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html",
+    "published": "Tue, 21 Jul 2026 20:39:28 +0530",
+    "summary": "Google's DeepMind on Tuesday announced the release of Gemini 3.5 Flash Cyber, a specialized artificial intelligence (AI) model built atop 3.5 Flash that's designed to discover, validate, and patch vulnerabilities quickly and efficiently.\n\nAccording to the tech giant, the model will be exclusively available to governments and trusted partners via CodeMender as part of a limited-access pilot",
+    "analysis": {
+      "issue": "5 Flash Cyber found 55 confirmed V8 issues and will enter a limited CodeMender pilot for governments and trusted partners",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC",
+    "link": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html",
+    "published": "Tue, 21 Jul 2026 20:27:51 +0530",
+    "summary": "A third SharePoint Server flaw patched by Microsoft as part of its Patch Tuesday update for July 2026 has come under active exploitation, per watchTowr.\n\nThe vulnerability in question is CVE-2026-50522 (CVSS score: 9.8), a critical deserialization of untrusted data in Microsoft Office SharePoint that could allow an unauthorized attacker to execute code over a network. Microsoft credited DEVCORE",
+    "analysis": {
+      "issue": "watchTowr reports active exploitation of SharePoint CVE-2026-50522 after a public PoC, with attackers stealing machine keys for persistence",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-50522"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
+    "link": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html",
+    "published": "Tue, 21 Jul 2026 19:34:57 +0530",
+    "summary": "Threat actors have been observed exploiting a now-patched high-severity Palo Alto Networks PAN-OS vulnerability as an entry point to deploy Qilin (aka Agenda) ransomware on victim environments.\n\nArctic Wolf Labs said it investigated multiple intrusions in June 2026 that began with the exploitation of CVE-2026-0257 (CVSS score: 7.8), an authentication bypass flaw affecting the portal and gateway",
+    "analysis": {
+      "issue": "Attackers exploit PAN-OS CVE-2026-0257 to deploy Qilin ransomware, with intrusions ranging from rapid encryption to data theft and double extortion",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-0257"
+      ],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Zimbra Patches Critical SNMP Command Injection and Four XSS Vulnerabilities",
+    "link": "https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html",
+    "published": "Tue, 21 Jul 2026 18:48:31 +0530",
+    "summary": "Zimbra has rolled out fixes to address multiple critical security issues, including a command injection flaw in the Simple Network Management Protocol (SNMP) monitoring component.\n\nAs many as nine security vulnerabilities have been patched in Zimbra 10.1.20. Topping the list is a command injection vulnerability in the SNMP monitoring component when SNMP notifications are enabled.\n\nAlso patched",
+    "analysis": {
+      "issue": "20 fixes nine flaws, including SNMP command injection and CVE-2026-50055, which could enable email exfiltration",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-50055"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs",
     "link": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html",
     "published": "Tue, 21 Jul 2026 17:28:00 +0530",
@@ -93,19 +190,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution",
-    "link": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
-    "published": "Tue, 21 Jul 2026 11:59:26 +0530",
-    "summary": "Threat actors are now exploiting a recently disclosed critical security flaw impacting ServiceNow AI Platform, according to Defused Cyber.\n\nIn a post shared on X, the threat intelligence firm said it's observing in-the-wild exploitation of CVE-2026-6875 (CVSS score: 9.5), a sandbox escape vulnerability that could allow an unauthenticated user to run arbitrary code.\n\nPatches for the flaw were",
+    "source": "Bleeping Computer",
+    "title": "Critical wp2shell WordPress flaws exploited to install webshells",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/",
+    "published": "Tue, 21 Jul 2026 12:41:50 -0400",
+    "summary": "Hackers are exploiting the \"wp2shell\" critical vulnerability suite (CVE-2026-63030 and CVE-2026-60137) affecting WordPress Core to deploy persistent webshells and install malicious plugins on affected servers. [...]",
     "analysis": {
-      "issue": "Attackers exploit CVE-2026-6875 in ServiceNow AI Platform, a pre-auth sandbox escape that could compromise instances and connected proxy servers",
+      "issue": "Hackers are exploiting the \"wp2shell\" critical vulnerability suite (CVE-2026-63030 and CVE-2026-60137) affecting WordPress Core to deploy persistent webshells and install malicious plugins on affected servers",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [
-        "CVE-2026-6875"
+        "CVE-2026-63030",
+        "CVE-2026-60137"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -113,65 +211,23 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware",
-    "link": "https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html",
-    "published": "Mon, 20 Jul 2026 23:53:03 +0530",
-    "summary": "Cybersecurity researchers have discovered nearly 7,600 malicious GitHub repositories, out of which more than 800 pose as artificial intelligence (AI) skills or Model Context Protocol (MCP) servers to deliver a malware family known as SmartLoader as part of an ongoing campaign codenamed FakeGit.\n\n\"FakeGit uses copied projects, lookalike developer profiles, convincing READMEs, and malicious ZIP"
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign",
-    "link": "https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html",
-    "published": "Mon, 20 Jul 2026 22:59:50 +0530",
-    "summary": "A malware operator left its delivery server wide open, and Rapid7 pulled down the whole toolkit: 1,048 files spanning lure templates, filename-spoofing tests, execution experiments, droppers, builder notes, and two campaign chains. One was already live against Windows users in Mexico, delivering an infostealer through a fake government ID-lookup site over WebDAV.\n\nWhat makes it more than a",
+    "source": "Bleeping Computer",
+    "title": "Closing the Identity Gaps in Critical Infrastructure Security",
+    "link": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gaps-in-critical-infrastructure-security/",
+    "published": "Tue, 21 Jul 2026 10:00:10 -0400",
+    "summary": "Critical infrastructure attacks often begin with stolen credentials, compromised devices, or trusted accounts. Specops Software explains why Zero Trust should verify both user identities and device trust before granting access to critical systems. [...]",
     "analysis": {
-      "issue": "Rapid7 pulls 1,048 files from an exposed server, linking an LLM-assisted phishing pipeline to a live WebDAV campaign targeting Mexico",
+      "issue": "In May 2021, the Colonial Pipeline ransomware attack showed how quickly a compromised account can become a national issue",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050",
-    "link": "https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html",
-    "published": "Mon, 20 Jul 2026 20:03:43 +0530",
-    "summary": "A newly discovered espionage implant has been using a hijacked Microsoft 365 calendar as its command channel, planting operator instructions and smuggling out stolen files as attachments on calendar events dated to the year 2050.\n\nGroup-IB, which named the malware HollowGraph, says the approach moves tasking and stolen data through legitimate Microsoft Graph API traffic, so the activity looks",
-    "analysis": {
-      "issue": "HollowGraph uses Microsoft 365 calendar events dated to 2050 to receive commands and exfiltrate encrypted files through legitimate Graph API traffic",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More",
-    "link": "https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html",
-    "published": "Mon, 20 Jul 2026 19:02:26 +0530",
-    "summary": "A single request should not be able to do this much. But this week, small inputs led to code execution, memory loss, stolen keys, and disabled security tools.\n\nThe paths were often simple: exposed systems, weak checks, old drivers, fake prompts, and public code used for malware delivery. Some bugs were new. Others were already being used before defenders had time to patch.\n\nHere is the full",
-    "analysis": {
-      "issue": "This recap covers exploited flaws, exposed systems, malware campaigns, weak defaults, and the security gaps demanding attention",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
+        "Ransomware",
         "Vulnerability",
-        "Malware"
+        "APT",
+        "Supply Chain"
       ]
     }
   },
@@ -330,47 +386,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "JadePuffer agentic attacks now target AI model data with ransomware",
-    "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/",
-    "published": "Mon, 20 Jul 2026 17:08:02 -0400",
-    "summary": "The JadePuffer autonomous AI agent has upgraded with custom malware called EncForge that focuses on encrypting AI assets, such as training datasets, vector databases, and model checkpoints. [...]",
-    "analysis": {
-      "issue": "The JadePuffer autonomous AI agent has upgraded with custom malware called EncForge that focuses on encrypting AI assets, such as training datasets, vector databases, and model checkpoints",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2025-3248"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New HollowGraph malware uses Microsoft Graph for stealthy C2 comms",
-    "link": "https://www.bleepingcomputer.com/news/security/new-hollowgraph-malware-uses-microsoft-graph-for-stealthy-c2-comms/",
-    "published": "Mon, 20 Jul 2026 13:43:01 -0400",
-    "summary": "A malicious component dubbed HollowGraph uses the calendar feature in compromised Microsoft 365 mailboxes as a command-and-control channel to receive attacker commands and exfiltrate stolen data. [...]",
-    "analysis": {
-      "issue": "A malicious component dubbed HollowGraph uses the calendar feature in compromised Microsoft 365 mailboxes as a command-and-control channel to receive attacker commands and exfiltrate stolen data",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Microsoft Patches a Record 570 Security Flaws",
     "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
@@ -383,9 +398,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56155",
-        "CVE-2026-50661",
         "CVE-2026-48561",
+        "CVE-2026-50661",
+        "CVE-2026-56155",
         "CVE-2026-56164"
       ],
       "threat_categories": [
@@ -570,6 +585,24 @@
   },
   {
     "source": "Security Week",
+    "title": "Cisco Launches Low-Cost AI Models for Source Code Security",
+    "link": "https://www.securityweek.com/cisco-launches-low-cost-ai-models-for-source-code-security/",
+    "published": "Tue, 21 Jul 2026 17:44:33 +0000",
+    "summary": "<p>The open-weight Antares models are designed to pinpoint known vulnerabilities in codebases faster and at a fraction of the cost of larger AI models.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-launches-low-cost-ai-models-for-source-code-security/\">Cisco Launches Low-Cost AI Models for Source Code Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The open-weight Antares models are designed to pinpoint known vulnerabilities in codebases faster and at a fraction of the cost of larger AI models",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Empirical Security Raises $25 Million in Series A Funding",
     "link": "https://www.securityweek.com/empirical-security-raises-25-million-in-series-a-funding/",
     "published": "Tue, 21 Jul 2026 12:47:18 +0000",
@@ -737,31 +770,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-50054",
         "CVE-2026-50055",
-        "CVE-2026-10631",
-        "CVE-2026-50054"
+        "CVE-2026-10631"
       ],
       "threat_categories": [
         "Vulnerability",
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Neo Emerges From Stealth With $100M to Control and Secure Enterprise AI Software",
-    "link": "https://www.securityweek.com/neo-emerges-from-stealth-with-100m-to-control-and-secure-enterprise-ai-software/",
-    "published": "Mon, 20 Jul 2026 14:54:03 +0000",
-    "summary": "<p>Neo raised money across seed and Series A funding rounds from Andreessen Horowitz, Bessemer Venture Partners, and others.</p>\n<p>The post <a href=\"https://www.securityweek.com/neo-emerges-from-stealth-with-100m-to-control-and-secure-enterprise-ai-software/\">Neo Emerges From Stealth With $100M to Control and Secure Enterprise AI Software</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Neo raised money across seed and Series A funding rounds from Andreessen Horowitz, Bessemer Venture Partners, and others",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -833,34 +848,34 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-55010",
-        "CVE-2026-54128",
-        "CVE-2026-55049",
-        "CVE-2026-55018",
-        "CVE-2026-55127",
-        "CVE-2026-50522",
-        "CVE-2026-55056",
-        "CVE-2026-55140",
-        "CVE-2026-55123",
-        "CVE-2026-58644",
-        "CVE-2026-56155",
-        "CVE-2026-50327",
-        "CVE-2026-55129",
-        "CVE-2026-50370",
-        "CVE-2026-55944",
         "CVE-2026-55043",
+        "CVE-2026-55944",
+        "CVE-2026-55033",
+        "CVE-2026-55049",
+        "CVE-2026-50518",
+        "CVE-2026-56188",
+        "CVE-2026-54128",
+        "CVE-2026-55120",
+        "CVE-2026-58644",
+        "CVE-2026-55022",
+        "CVE-2026-55018",
+        "CVE-2026-55010",
+        "CVE-2026-55127",
+        "CVE-2026-56155",
         "CVE-2026-56164",
         "CVE-2026-55132",
-        "CVE-2026-56188",
-        "CVE-2026-50467",
-        "CVE-2026-55033",
-        "CVE-2026-50655",
-        "CVE-2026-50518",
-        "CVE-2026-54992",
+        "CVE-2026-55129",
+        "CVE-2026-50370",
+        "CVE-2026-55056",
         "CVE-2026-50314",
+        "CVE-2026-55140",
+        "CVE-2026-54992",
+        "CVE-2026-50655",
+        "CVE-2026-50522",
         "CVE-2026-55045",
-        "CVE-2026-55022",
-        "CVE-2026-55120"
+        "CVE-2026-50327",
+        "CVE-2026-55123",
+        "CVE-2026-50467"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1334,8 +1349,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1360,6 +1375,26 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "What happens if you visit a WordPress site hacked through wp2shell?",
+    "link": "https://www.malwarebytes.com/blog/bugs/2026/07/what-happens-if-you-visit-a-wordpress-site-hacked-through-wp2shell",
+    "published": "Tue, 21 Jul 2026 14:57:27 GMT",
+    "summary": "Attackers started exploiting the critical wp2shell vulnerability chain within hours of patches being released, putting sites and their visitors at risk.",
+    "analysis": {
+      "issue": "WordPress has patched a serious core vulnerability chain known as wp2shell, and site owners are understandably focused on updating their own sites",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Phishing"
       ]
     }
   },
@@ -1528,20 +1563,20 @@
     }
   },
   {
-    "source": "Malwarebytes",
-    "title": "The backlash against Flock cameras is spreading",
-    "link": "https://www.malwarebytes.com/blog/news/2026/07/the-backlash-against-flock-cameras-is-spreading",
-    "published": "Thu, 16 Jul 2026 13:56:14 GMT",
-    "summary": "Privacy concerns have dogged Flock's automated license plate recognition system for years. Now accuracy and reliability are coming under scrutiny too.",
+    "source": "Crowdstrike Blog",
+    "title": "Denying the Worm: Detecting SANDWORM_MODE and the Emerging Class of AI Toolchain Supply Chain Attacks",
+    "link": "https://www.crowdstrike.com/en-us/blog/denying-the-worm-sandworm-mode-and-ai-toolchain-supply-chain-attacks/",
+    "published": "Jul 21, 2026 00:00:00-0500",
+    "summary": "",
     "analysis": {
-      "issue": "Flock-style ALPR systems carry serious privacy and civil-liberties risks, and the backlash is now starting to show up in agency decisions too",
+      "issue": "Learn about the anatomy of the SANDWORM_MODE infection chain mapped against the components of a modern AI CI/CD pipeline",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "High",
+      "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Supply Chain"
       ]
     }
   },
@@ -1697,24 +1732,6 @@
     "summary": "",
     "analysis": {
       "issue": "Learn how new CrowdStrike Falcon Cloud Security innovations expand core capabilities across Azure and Google Cloud",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "The Identity Problem Hiding in AI Agent Deployments",
-    "link": "https://www.crowdstrike.com/en-us/blog/the-identity-problem-hiding-in-ai-agent-deployments/",
-    "published": "Jun 24, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "Learn the implications for the lack of standardization in OAuth access tokens and how the industry can move forward",
       "solution": null,
       "cause": null,
       "timeline": null,
