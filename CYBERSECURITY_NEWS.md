@@ -1,10 +1,37 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-21 10:38:20 UTC
+**Last Updated:** 2026-07-21 14:05:53 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning](https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html)
+### 1. [Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs](https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 21 Jul 2026 17:28:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [N-day is Becoming N-Hour. Patching Faster Won't Save You.](https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 21 Jul 2026 17:12:23 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit](https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 21 Jul 2026 16:54:50 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 4. [WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning](https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 21 Jul 2026 14:29:30 +0530  
@@ -13,7 +40,7 @@
 
 ---
 
-### 2. [New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack](https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html)
+### 5. [New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack](https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 21 Jul 2026 13:04:32 +0530  
@@ -23,7 +50,7 @@
 
 ---
 
-### 3. [Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution](https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html)
+### 6. [Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution](https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 21 Jul 2026 11:59:26 +0530  
@@ -33,14 +60,14 @@
 
 ---
 
-### 4. [FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware](https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html)
+### 7. [FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware](https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 20 Jul 2026 23:53:03 +0530  
 
 ---
 
-### 5. [Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign](https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html)
+### 8. [Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign](https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 20 Jul 2026 22:59:50 +0530  
@@ -49,7 +76,7 @@
 
 ---
 
-### 6. [HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050](https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html)
+### 9. [HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050](https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 20 Jul 2026 20:03:43 +0530  
@@ -58,7 +85,7 @@
 
 ---
 
-### 7. [⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More](https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html)
+### 10. [⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More](https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 20 Jul 2026 19:02:26 +0530  
@@ -67,35 +94,16 @@
 
 ---
 
-### 8. [Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine](https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html)
+### 11. [US seizes over 1,000 websites in FIFA World Cup piracy crackdown](https://www.bleepingcomputer.com/news/security/us-seizes-over-1-000-fifa-world-cup-illegal-streaming-domains/)
 
-**Source:** The Hacker News  
-**Published:** Mon, 20 Jul 2026 17:43:39 +0530  
+**Source:** Bleeping Computer  
+**Published:** Tue, 21 Jul 2026 07:07:07 -0400  
 **Severity:** Low  
-**Categories:** Vulnerability  
+**Categories:** Malware  
 
 ---
 
-### 9. [Mythos Didn't Break Your Security Program. Your Exposure Window Could.](https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 20 Jul 2026 17:00:00 +0530  
-**Severity:** Critical  
-**Categories:** General Security  
-
----
-
-### 10. [New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction](https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 20 Jul 2026 14:40:56 +0530  
-**Severity:** High  
-**CVEs:** CVE-2026-14266  
-**Categories:** Vulnerability  
-
----
-
-### 11. [Critical Palo Alto VPN bug now exploited by Qilin ransomware gang](https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/)
+### 12. [Critical Palo Alto VPN bug now exploited by Qilin ransomware gang](https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 21 Jul 2026 06:12:24 -0400  
@@ -105,7 +113,7 @@
 
 ---
 
-### 12. [Microsoft shares manual fix for WSUS sync delays and timeouts](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/)
+### 13. [Microsoft shares manual fix for WSUS sync delays and timeouts](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 21 Jul 2026 05:05:50 -0400  
@@ -114,7 +122,7 @@
 
 ---
 
-### 13. [Windows LegacyHive zero-day flaw gets free, unofficial patches](https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/)
+### 14. [Windows LegacyHive zero-day flaw gets free, unofficial patches](https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 21 Jul 2026 04:06:26 -0400  
@@ -123,7 +131,7 @@
 
 ---
 
-### 14. [Estée Lauder discloses data breach via Oracle E-Business flaw](https://www.bleepingcomputer.com/news/security/est-e-lauder-discloses-data-breach-via-oracle-e-business-flaw/)
+### 15. [Estée Lauder discloses data breach via Oracle E-Business flaw](https://www.bleepingcomputer.com/news/security/est-e-lauder-discloses-data-breach-via-oracle-e-business-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 20 Jul 2026 18:39:30 -0400  
@@ -133,7 +141,7 @@
 
 ---
 
-### 15. [SonicWall SMA1000 flaws exploited as zero-days to push custom malware](https://www.bleepingcomputer.com/news/security/sonicwall-sma1000-flaws-exploited-as-zero-days-to-push-custom-malware/)
+### 16. [SonicWall SMA1000 flaws exploited as zero-days to push custom malware](https://www.bleepingcomputer.com/news/security/sonicwall-sma1000-flaws-exploited-as-zero-days-to-push-custom-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 20 Jul 2026 18:23:23 -0400  
@@ -143,7 +151,7 @@
 
 ---
 
-### 16. [Hackers steal $23.7 million in crypto from Ostium in off-chain attack](https://www.bleepingcomputer.com/news/security/hackers-steal-237-million-in-crypto-from-ostium-in-off-chain-attack/)
+### 17. [Hackers steal $23.7 million in crypto from Ostium in off-chain attack](https://www.bleepingcomputer.com/news/security/hackers-steal-237-million-in-crypto-from-ostium-in-off-chain-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 20 Jul 2026 18:22:56 -0400  
@@ -152,7 +160,7 @@
 
 ---
 
-### 17. [Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes](https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/)
+### 18. [Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes](https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 20 Jul 2026 17:14:42 -0400  
@@ -161,7 +169,7 @@
 
 ---
 
-### 18. [JadePuffer agentic attacks now target AI model data with ransomware](https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/)
+### 19. [JadePuffer agentic attacks now target AI model data with ransomware](https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 20 Jul 2026 17:08:02 -0400  
@@ -171,7 +179,7 @@
 
 ---
 
-### 19. [New HollowGraph malware uses Microsoft Graph for stealthy C2 comms](https://www.bleepingcomputer.com/news/security/new-hollowgraph-malware-uses-microsoft-graph-for-stealthy-c2-comms/)
+### 20. [New HollowGraph malware uses Microsoft Graph for stealthy C2 comms](https://www.bleepingcomputer.com/news/security/new-hollowgraph-malware-uses-microsoft-graph-for-stealthy-c2-comms/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 20 Jul 2026 13:43:01 -0400  
@@ -180,21 +188,12 @@
 
 ---
 
-### 20. [An AI SOC Evaluation Guide for Security Leaders](https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 20 Jul 2026 10:01:11 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
 ### 21. [Microsoft Patches a Record 570 Security Flaws](https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48561, CVE-2026-56155, CVE-2026-56164, CVE-2026-50661  
+**CVEs:** CVE-2026-56155, CVE-2026-50661, CVE-2026-48561, CVE-2026-56164  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -258,7 +257,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-45586, CVE-2026-50507, CVE-2026-49160  
+**CVEs:** CVE-2026-50507, CVE-2026-49160, CVE-2026-45586  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -281,7 +280,53 @@
 
 ---
 
-### 31. [Meta Paid $78,000 Bounty for Vulnerability Exposing Customer Support Data](https://www.securityweek.com/meta-pays-78000-bounty-for-vulnerability-exposing-customer-support-data/)
+### 31. [Empirical Security Raises $25 Million in Series A Funding](https://www.securityweek.com/empirical-security-raises-25-million-in-series-a-funding/)
+
+**Source:** Security Week  
+**Published:** Tue, 21 Jul 2026 12:47:18 +0000  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 32. [SecurityWeek Launches Critical Impact Awards to Recognize Excellence in Industrial Cybersecurity](https://www.securityweek.com/securityweek-launches-critical-impact-awards-to-recognize-excellence-in-industrial-cybersecurity/)
+
+**Source:** Security Week  
+**Published:** Tue, 21 Jul 2026 12:30:00 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 33. [New HollowGraph Malware Abuses Microsoft 365 Calendar for C&C Communication](https://www.securityweek.com/new-hollowgraph-malware-abuses-microsoft-365-calendar-for-cc-communication/)
+
+**Source:** Security Week  
+**Published:** Tue, 21 Jul 2026 11:55:28 +0000  
+**Severity:** High  
+**Categories:** Malware, APT, Supply Chain  
+
+---
+
+### 34. [CISO Conversations: Andreas Gaetje – From Economics to CISO at Körber AG](https://www.securityweek.com/ciso-conversations-andreas-gaetje-from-economics-to-ciso-at-korber-ag/)
+
+**Source:** Security Week  
+**Published:** Tue, 21 Jul 2026 11:30:00 +0000  
+**Severity:** High  
+**Categories:** APT  
+
+---
+
+### 35. [Estée Lauder Discloses Impact From Oracle EBS Zero-Day Hack](https://www.securityweek.com/estee-lauder-discloses-impact-from-oracle-ebs-zero-day-hack/)
+
+**Source:** Security Week  
+**Published:** Tue, 21 Jul 2026 11:12:33 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2025-61882  
+**Categories:** Data Breach, Vulnerability, Supply Chain  
+
+---
+
+### 36. [Meta Paid $78,000 Bounty for Vulnerability Exposing Customer Support Data](https://www.securityweek.com/meta-pays-78000-bounty-for-vulnerability-exposing-customer-support-data/)
 
 **Source:** Security Week  
 **Published:** Tue, 21 Jul 2026 10:19:21 +0000  
@@ -290,7 +335,7 @@
 
 ---
 
-### 32. [Clover Health Investments Discloses Data Breach](https://www.securityweek.com/clover-health-investments-discloses-data-breach/)
+### 37. [Clover Health Investments Discloses Data Breach](https://www.securityweek.com/clover-health-investments-discloses-data-breach/)
 
 **Source:** Security Week  
 **Published:** Tue, 21 Jul 2026 09:36:51 +0000  
@@ -299,7 +344,7 @@
 
 ---
 
-### 33. [Exploitation of ServiceNow Vulnerability Seen Days After Disclosure](https://www.securityweek.com/exploitation-of-servicenow-vulnerability-seen-days-after-disclosure/)
+### 38. [Exploitation of ServiceNow Vulnerability Seen Days After Disclosure](https://www.securityweek.com/exploitation-of-servicenow-vulnerability-seen-days-after-disclosure/)
 
 **Source:** Security Week  
 **Published:** Tue, 21 Jul 2026 08:41:53 +0000  
@@ -309,66 +354,20 @@
 
 ---
 
-### 34. [Zimbra Update Patches Critical Vulnerabilities](https://www.securityweek.com/zimbra-update-patches-critical-vulnerabilities/)
+### 39. [Zimbra Update Patches Critical Vulnerabilities](https://www.securityweek.com/zimbra-update-patches-critical-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Tue, 21 Jul 2026 08:20:08 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-10631, CVE-2026-50054, CVE-2026-50055  
+**CVEs:** CVE-2026-50055, CVE-2026-10631, CVE-2026-50054  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 35. [Neo Emerges From Stealth With $100M to Control and Secure Enterprise AI Software](https://www.securityweek.com/neo-emerges-from-stealth-with-100m-to-control-and-secure-enterprise-ai-software/)
+### 40. [Neo Emerges From Stealth With $100M to Control and Secure Enterprise AI Software](https://www.securityweek.com/neo-emerges-from-stealth-with-100m-to-control-and-secure-enterprise-ai-software/)
 
 **Source:** Security Week  
 **Published:** Mon, 20 Jul 2026 14:54:03 +0000  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 36. [SonicWall Zero-Days Exploited to Deliver Custom Malware for Weeks Before Patch](https://www.securityweek.com/sonicwall-zero-days-exploited-to-deliver-custom-malware-for-weeks-before-patch/)
-
-**Source:** Security Week  
-**Published:** Mon, 20 Jul 2026 14:11:05 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-15409, CVE-2026-15410  
-**Categories:** Vulnerability, Malware, APT  
-
----
-
-### 37. [OpenSSL Silently Fixes ‘HollowByte’ DoS Vulnerability](https://www.securityweek.com/openssl-silently-fixes-hollowbyte-dos-vulnerability/)
-
-**Source:** Security Week  
-**Published:** Mon, 20 Jul 2026 12:32:40 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 38. [New Index Tracks Material Breaches — And Refuses to Add Up the Losses](https://www.securityweek.com/new-index-tracks-material-breaches-and-refuses-to-add-up-the-losses/)
-
-**Source:** Security Week  
-**Published:** Mon, 20 Jul 2026 11:46:50 +0000  
-**Severity:** Medium  
-**Categories:** Data Breach, Supply Chain  
-
----
-
-### 39. [Ernst & Young Data Breach Affects Personal, Financial Information](https://www.securityweek.com/ernst-young-data-breach-affects-personal-financial-information/)
-
-**Source:** Security Week  
-**Published:** Mon, 20 Jul 2026 11:27:38 +0000  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach, Supply Chain  
-
----
-
-### 40. [Watch on Demand: Cloud & Data Security Summit](https://www.securityweek.com/virtual-event-today-cloud-data-security-summit/)
-
-**Source:** Security Week  
-**Published:** Mon, 20 Jul 2026 10:31:25 +0000  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -406,7 +405,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Jul 2026 20:27:33 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-55123, CVE-2026-55049, CVE-2026-55140, CVE-2026-55022, CVE-2026-50370, CVE-2026-54128, CVE-2026-55129, CVE-2026-50314, CVE-2026-50467, CVE-2026-55056, CVE-2026-55132, CVE-2026-55043, CVE-2026-55033, CVE-2026-58644, CVE-2026-56164, CVE-2026-50522, CVE-2026-50518, CVE-2026-55944, CVE-2026-54992, CVE-2026-55127, CVE-2026-56188, CVE-2026-50327, CVE-2026-55120, CVE-2026-55045, CVE-2026-50655, CVE-2026-55018, CVE-2026-56155, CVE-2026-55010  
+**CVEs:** CVE-2026-55010, CVE-2026-54128, CVE-2026-55049, CVE-2026-55018, CVE-2026-55127, CVE-2026-50522, CVE-2026-55056, CVE-2026-55140, CVE-2026-55123, CVE-2026-58644, CVE-2026-56155, CVE-2026-50327, CVE-2026-55129, CVE-2026-50370, CVE-2026-55944, CVE-2026-55043, CVE-2026-56164, CVE-2026-55132, CVE-2026-56188, CVE-2026-50467, CVE-2026-55033, CVE-2026-50655, CVE-2026-50518, CVE-2026-54992, CVE-2026-50314, CVE-2026-55045, CVE-2026-55022, CVE-2026-55120  
 **Categories:** Vulnerability  
 
 ---
@@ -434,7 +433,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 09 Jul 2026 18:52:29 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-33091, CVE-2026-25106, CVE-2026-28739  
+**CVEs:** CVE-2026-28739, CVE-2026-33091, CVE-2026-25106  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -637,7 +636,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -652,7 +651,25 @@
 
 ---
 
-### 71. [AI nudify apps spark legal scrutiny of Apple and Google&#8217;s profits](https://www.malwarebytes.com/blog/privacy/2026/07/ai-nudify-apps-spark-legal-scrutiny-of-apple-and-googles-profits)
+### 71. [New ClickLock Stealer locks your Mac until you hand over your password](https://www.malwarebytes.com/blog/news/2026/07/new-clicklock-stealer-locks-your-mac-until-you-hand-over-your-password)
+
+**Source:** Malwarebytes  
+**Published:** Tue, 21 Jul 2026 11:59:31 GMT  
+**Severity:** Low  
+**Categories:** Malware, Phishing  
+
+---
+
+### 72. [Don&#8217;t trust that &#8220;FBI agent&#8221; in your DMs](https://www.malwarebytes.com/blog/news/2026/07/dont-trust-that-fbi-agent-in-your-dms)
+
+**Source:** Malwarebytes  
+**Published:** Tue, 21 Jul 2026 11:33:35 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 73. [AI nudify apps spark legal scrutiny of Apple and Google&#8217;s profits](https://www.malwarebytes.com/blog/privacy/2026/07/ai-nudify-apps-spark-legal-scrutiny-of-apple-and-googles-profits)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 21 Jul 2026 09:48:44 GMT  
@@ -661,7 +678,7 @@
 
 ---
 
-### 72. [The Odyssey piracy scams appear within hours of the movie&#8217;s release](https://www.malwarebytes.com/blog/threat-intel/2026/07/the-odyssey-piracy-scams-appear-within-hours-of-the-movies-release)
+### 74. [The Odyssey piracy scams appear within hours of the movie&#8217;s release](https://www.malwarebytes.com/blog/threat-intel/2026/07/the-odyssey-piracy-scams-appear-within-hours-of-the-movies-release)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 20 Jul 2026 15:41:26 GMT  
@@ -670,7 +687,7 @@
 
 ---
 
-### 73. [Healthcare giant Abbott probes two cyber incidents amid extortion claims](https://www.malwarebytes.com/blog/data-breaches/2026/07/healthcare-giant-abbott-probes-two-cyber-incidents-amid-extortion-claims)
+### 75. [Healthcare giant Abbott probes two cyber incidents amid extortion claims](https://www.malwarebytes.com/blog/data-breaches/2026/07/healthcare-giant-abbott-probes-two-cyber-incidents-amid-extortion-claims)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 20 Jul 2026 14:31:17 GMT  
@@ -679,7 +696,7 @@
 
 ---
 
-### 74. [Fake games spread stealers with RenPy Loader, MSBuild and EtherHiding](https://www.malwarebytes.com/blog/threat-intel/2026/07/fake-games-spread-stealers-with-renpy-loader-msbuild-and-etherhiding)
+### 76. [Fake games spread stealers with RenPy Loader, MSBuild and EtherHiding](https://www.malwarebytes.com/blog/threat-intel/2026/07/fake-games-spread-stealers-with-renpy-loader-msbuild-and-etherhiding)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 20 Jul 2026 10:59:45 GMT  
@@ -688,7 +705,7 @@
 
 ---
 
-### 75. [A week in security (July 13 &#8211; July 19)](https://www.malwarebytes.com/blog/news/2026/07/a-week-in-security-july-13-july-19)
+### 77. [A week in security (July 13 &#8211; July 19)](https://www.malwarebytes.com/blog/news/2026/07/a-week-in-security-july-13-july-19)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 20 Jul 2026 07:02:00 GMT  
@@ -697,7 +714,7 @@
 
 ---
 
-### 76. [Shark vacuum flaw exposes cameras, home maps and Wi-Fi passwords](https://www.malwarebytes.com/blog/news/2026/07/shark-vacuum-flaw-exposes-cameras-home-maps-and-wi-fi-passwords)
+### 78. [Shark vacuum flaw exposes cameras, home maps and Wi-Fi passwords](https://www.malwarebytes.com/blog/news/2026/07/shark-vacuum-flaw-exposes-cameras-home-maps-and-wi-fi-passwords)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 17 Jul 2026 12:29:56 GMT  
@@ -706,7 +723,7 @@
 
 ---
 
-### 77. [How to use GitHub safely](https://www.malwarebytes.com/blog/how-to/2026/07/how-to-use-github-safely)
+### 79. [How to use GitHub safely](https://www.malwarebytes.com/blog/how-to/2026/07/how-to-use-github-safely)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 17 Jul 2026 10:43:29 GMT  
@@ -715,29 +732,11 @@
 
 ---
 
-### 78. [The backlash against Flock cameras is spreading](https://www.malwarebytes.com/blog/news/2026/07/the-backlash-against-flock-cameras-is-spreading)
+### 80. [The backlash against Flock cameras is spreading](https://www.malwarebytes.com/blog/news/2026/07/the-backlash-against-flock-cameras-is-spreading)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 16 Jul 2026 13:56:14 GMT  
 **Severity:** High  
-**Categories:** General Security  
-
----
-
-### 79. [Security updates available for Adobe, Chrome, Firefox, VMWare, and Zoom](https://www.malwarebytes.com/blog/bugs/2026/07/security-updates-available-for-adobe-chrome-firefox-vmware-and-zoom)
-
-**Source:** Malwarebytes  
-**Published:** Thu, 16 Jul 2026 10:47:22 GMT  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 80. [Samsung backs down on threat to delete health data](https://www.malwarebytes.com/blog/privacy/2026/07/samsung-backs-down-on-threat-to-delete-health-data)
-
-**Source:** Malwarebytes  
-**Published:** Thu, 16 Jul 2026 09:25:59 GMT  
-**Severity:** Low  
 **Categories:** General Security  
 
 ---

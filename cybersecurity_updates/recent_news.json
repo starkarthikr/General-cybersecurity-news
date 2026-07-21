@@ -1,6 +1,60 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs",
+    "link": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html",
+    "published": "Tue, 21 Jul 2026 17:28:00 +0530",
+    "summary": "An Android app that can draw over other windows and write to shared storage can slip instructions to the AI agent driving that phone, in text no human eye will ever see. Two more steps, and the same app is running commands on the PC driving the agent.\n\nResearchers demonstrated that chain, plus six other attacks, against five open-source mobile agent frameworks: AppAgent, AppAgentX,",
+    "analysis": {
+      "issue": "Open-source Android AI agents can turn hidden screen text into host commands, and all five tested frameworks failed at least six lab attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "N-day is Becoming N-Hour. Patching Faster Won't Save You.",
+    "link": "https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html",
+    "published": "Tue, 21 Jul 2026 17:12:23 +0530",
+    "summary": "Every patch is a confession.\n\nThe moment a vendor ships a security fix, the diff between the old code and the new code tells anyone watching exactly what was broken and where. Turn that diff back into a working exploit, and you can hit every system that hasn't updated yet. This is N-day exploitation, and it's always been a race: the vendor patches, the clock starts, and defenders try to deploy",
+    "analysis": {
+      "issue": "Claude Mythos turns a Firefox patch into a working exploit within an hour, collapsing an N-day window once measured in weeks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit",
+    "link": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html",
+    "published": "Tue, 21 Jul 2026 16:54:50 +0530",
+    "summary": "A cloud tenant using nothing but ordinary GPU access can push a data center's power draw up and down fast enough to threaten the grid it runs on, with no exploit and no break-in.\n\nThat is the claim behind Bit2Watt, described by three Zhejiang University researchers in a paper accepted to CHES 2026, the IACR's hardware-security conference, and the evidence splits in two: they measured the power",
+    "analysis": {
+      "issue": "Bit2Watt uses ordinary cloud GPU workloads to modulate power, with worst-case simulations showing grid instability across 1,000 synchronized GPUs",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
     "link": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html",
     "published": "Tue, 21 Jul 2026 14:29:30 +0530",
@@ -122,58 +176,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine",
-    "link": "https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html",
-    "published": "Mon, 20 Jul 2026 17:43:39 +0530",
-    "summary": "At least one Russian intelligence service is systematically hijacking internet-connected security cameras across Europe and Ukraine, using the feeds to watch military transport routes, weapons shipments bound for Kyiv, and the locations of Ukrainian troops.\n\nThat is the finding of a cybersecurity advisory published July 10 by the AIVD and MIVD, the Netherlands' civilian and military intelligence",
+    "source": "Bleeping Computer",
+    "title": "US seizes over 1,000 websites in FIFA World Cup piracy crackdown",
+    "link": "https://www.bleepingcomputer.com/news/security/us-seizes-over-1-000-fifa-world-cup-illegal-streaming-domains/",
+    "published": "Tue, 21 Jul 2026 07:07:07 -0400",
+    "summary": "The U.S. Justice Department has seized more than 1,000 websites and blocked 1,970 domains used to stream FIFA World Cup 2026 matches without authorization. [...]",
     "analysis": {
-      "issue": "Russian intelligence hijacks exposed cameras to track military routes as Censys flags 87,000 devices matching known-exploited services in Europe",
+      "issue": "Justice Department has seized more than 1,000 websites and blocked 1,970 domains used to stream FIFA World Cup 2026 matches without authorization",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Mythos Didn't Break Your Security Program. Your Exposure Window Could.",
-    "link": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html",
-    "published": "Mon, 20 Jul 2026 17:00:00 +0530",
-    "summary": "The industry spent the initial months after Anthropic's April 7 Mythos reveal focused on volume. How many new CVEs would Mythos add to an already overloaded pipeline? How quickly would the flood of AI-driven discovery overwhelm triage capabilities? How long would it take adversaries to weaponize Mythos findings at scale? Those questions were and remain valid. Yet they all stop short of",
-    "analysis": {
-      "issue": "AI-driven discovery widens the exposure window as attackers break out in 29 minutes while critical application flaws take 55 days to remediate",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction",
-    "link": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
-    "published": "Mon, 20 Jul 2026 14:40:56 +0530",
-    "summary": "Opening a crafted XZ archive in 7-Zip could let an attacker run code on the machine. The flaw, CVE-2026-14266, is a heap-based buffer overflow in how the archiver processes XZ chunked data, and Trend Micro's Zero Day Initiative (ZDI) detailed it on July 15. A fix shipped on June 25 in 7-Zip 26.02.\n\nThe overflow lets an attacker \"execute code in the context of the current process,\" per the",
-    "analysis": {
-      "issue": "CVE-2026-14266 is a high-severity heap overflow in 7-Zip’s XZ decoder that could run code when a user opens a crafted archive",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2026-14266"
-      ],
-      "threat_categories": [
-        "Vulnerability"
+        "Malware"
       ]
     }
   },
@@ -355,24 +371,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "An AI SOC Evaluation Guide for Security Leaders",
-    "link": "https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/",
-    "published": "Mon, 20 Jul 2026 10:01:11 -0400",
-    "summary": "Choosing an AI SOC platform requires understanding how it will perform in your own environment, not just during an evaluation. Prophet Security shares a practical framework for assessing AI SOC solutions, including how to validate accuracy, operating models, long-term reliability, and production readiness. [...]",
-    "analysis": {
-      "issue": "The market for AI in the SOC has moved faster than the methods for evaluating it",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Microsoft Patches a Record 570 Security Flaws",
     "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
@@ -385,10 +383,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-48561",
         "CVE-2026-56155",
-        "CVE-2026-56164",
-        "CVE-2026-50661"
+        "CVE-2026-50661",
+        "CVE-2026-48561",
+        "CVE-2026-56164"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -522,9 +520,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-45586",
         "CVE-2026-50507",
-        "CVE-2026-49160"
+        "CVE-2026-49160",
+        "CVE-2026-45586"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -567,6 +565,102 @@
         "Data Breach",
         "APT",
         "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Empirical Security Raises $25 Million in Series A Funding",
+    "link": "https://www.securityweek.com/empirical-security-raises-25-million-in-series-a-funding/",
+    "published": "Tue, 21 Jul 2026 12:47:18 +0000",
+    "summary": "<p>The startup will use the investment to accelerate the development of its threat prediction and discovery products.</p>\n<p>The post <a href=\"https://www.securityweek.com/empirical-security-raises-25-million-in-series-a-funding/\">Empirical Security Raises $25 Million in Series A Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The startup will use the investment to accelerate the development of its threat prediction and discovery products",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "SecurityWeek Launches Critical Impact Awards to Recognize Excellence in Industrial Cybersecurity",
+    "link": "https://www.securityweek.com/securityweek-launches-critical-impact-awards-to-recognize-excellence-in-industrial-cybersecurity/",
+    "published": "Tue, 21 Jul 2026 12:30:00 +0000",
+    "summary": "<p>Independently judged and sponsor-neutral, the new awards program honors the people, organizations, and technologies delivering proven impact in industrial cybersecurity; winners to be announced live at the 2026 ICS Cybersecurity Conference in Nashville</p>\n<p>The post <a href=\"https://www.securityweek.com/securityweek-launches-critical-impact-awards-to-recognize-excellence-in-industrial-cybersecurity/\">SecurityWeek Launches Critical Impact Awards to Recognize Excellence in Industrial Cybersecurity</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Independently judged and sponsor-neutral, the new awards program honors the people, organizations, and technologies delivering proven impact in industrial cybersecurity; winners to be announced live at the 2026 ICS Cybersecurity Conference in Nashvil",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "New HollowGraph Malware Abuses Microsoft 365 Calendar for C&C Communication",
+    "link": "https://www.securityweek.com/new-hollowgraph-malware-abuses-microsoft-365-calendar-for-cc-communication/",
+    "published": "Tue, 21 Jul 2026 11:55:28 +0000",
+    "summary": "<p>Part of a larger toolkit, HollowGraph uses a compromised 365 account’s calendar as a two-way dead-drop.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-hollowgraph-malware-abuses-microsoft-365-calendar-for-cc-communication/\">New HollowGraph Malware Abuses Microsoft 365 Calendar for C&#038;C Communication</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Part of a larger toolkit, HollowGraph uses a compromised 365 account’s calendar as a two-way dead-drop",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "APT",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "CISO Conversations: Andreas Gaetje – From Economics to CISO at Körber AG",
+    "link": "https://www.securityweek.com/ciso-conversations-andreas-gaetje-from-economics-to-ciso-at-korber-ag/",
+    "published": "Tue, 21 Jul 2026 11:30:00 +0000",
+    "summary": "<p>Gaetje’s story shows that you don’t need to be a ‘deep bit-crawler’ to become a Chief Information Security Officer.</p>\n<p>The post <a href=\"https://www.securityweek.com/ciso-conversations-andreas-gaetje-from-economics-to-ciso-at-korber-ag/\">CISO Conversations: Andreas Gaetje – From Economics to CISO at Körber AG</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Gaetje’s story shows that you don’t need to be a ‘deep bit-crawler’ to become a Chief Information Security Officer",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Estée Lauder Discloses Impact From Oracle EBS Zero-Day Hack",
+    "link": "https://www.securityweek.com/estee-lauder-discloses-impact-from-oracle-ebs-zero-day-hack/",
+    "published": "Tue, 21 Jul 2026 11:12:33 +0000",
+    "summary": "<p>Hackers exfiltrated personal, financial, and health information from the company’s Oracle EBS instance in August 2025.</p>\n<p>The post <a href=\"https://www.securityweek.com/estee-lauder-discloses-impact-from-oracle-ebs-zero-day-hack/\">Estée Lauder Discloses Impact From Oracle EBS Zero-Day Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Hackers exfiltrated personal, financial, and health information from the company’s Oracle EBS instance in August 2025",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2025-61882"
+      ],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability",
+        "Supply Chain"
       ]
     }
   },
@@ -643,9 +737,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-50055",
         "CVE-2026-10631",
-        "CVE-2026-50054",
-        "CVE-2026-50055"
+        "CVE-2026-50054"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -661,104 +755,6 @@
     "summary": "<p>Neo raised money across seed and Series A funding rounds from Andreessen Horowitz, Bessemer Venture Partners, and others.</p>\n<p>The post <a href=\"https://www.securityweek.com/neo-emerges-from-stealth-with-100m-to-control-and-secure-enterprise-ai-software/\">Neo Emerges From Stealth With $100M to Control and Secure Enterprise AI Software</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
       "issue": "Neo raised money across seed and Series A funding rounds from Andreessen Horowitz, Bessemer Venture Partners, and others",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "SonicWall Zero-Days Exploited to Deliver Custom Malware for Weeks Before Patch",
-    "link": "https://www.securityweek.com/sonicwall-zero-days-exploited-to-deliver-custom-malware-for-weeks-before-patch/",
-    "published": "Mon, 20 Jul 2026 14:11:05 +0000",
-    "summary": "<p>The zero-days CVE-2026-15409 and CVE-2026-15410 were exploited by a threat actor tracked by Volexity as UTA0533.</p>\n<p>The post <a href=\"https://www.securityweek.com/sonicwall-zero-days-exploited-to-deliver-custom-malware-for-weeks-before-patch/\">SonicWall Zero-Days Exploited to Deliver Custom Malware for Weeks Before Patch</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The zero-days CVE-2026-15409 and CVE-2026-15410 were exploited by a threat actor tracked by Volexity as UTA0533",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-15409",
-        "CVE-2026-15410"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "OpenSSL Silently Fixes ‘HollowByte’ DoS Vulnerability",
-    "link": "https://www.securityweek.com/openssl-silently-fixes-hollowbyte-dos-vulnerability/",
-    "published": "Mon, 20 Jul 2026 12:32:40 +0000",
-    "summary": "<p>Attackers could send waves of malicious payloads to trigger buffer pre-allocations that are not freed, exhausting server memory.</p>\n<p>The post <a href=\"https://www.securityweek.com/openssl-silently-fixes-hollowbyte-dos-vulnerability/\">OpenSSL Silently Fixes &#8216;HollowByte&#8217; DoS Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Attackers could send waves of malicious payloads to trigger buffer pre-allocations that are not freed, exhausting server memory",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "New Index Tracks Material Breaches — And Refuses to Add Up the Losses",
-    "link": "https://www.securityweek.com/new-index-tracks-material-breaches-and-refuses-to-add-up-the-losses/",
-    "published": "Mon, 20 Jul 2026 11:46:50 +0000",
-    "summary": "<p>Longtime cybersecurity executive Richard Bird built the resource for security experts, journalists, policymakers, and everyday citizens.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-index-tracks-material-breaches-and-refuses-to-add-up-the-losses/\">New Index Tracks Material Breaches — And Refuses to Add Up the Losses</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Longtime cybersecurity executive Richard Bird built the resource for security experts, journalists, policymakers, and everyday citizens",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Medium",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Ernst & Young Data Breach Affects Personal, Financial Information",
-    "link": "https://www.securityweek.com/ernst-young-data-breach-affects-personal-financial-information/",
-    "published": "Mon, 20 Jul 2026 11:27:38 +0000",
-    "summary": "<p>Hackers stole names, addresses, Social Security numbers, credit/debit card numbers, and other information from a third-party management platform.</p>\n<p>The post <a href=\"https://www.securityweek.com/ernst-young-data-breach-affects-personal-financial-information/\">Ernst &#038; Young Data Breach Affects Personal, Financial Information</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Hackers stole names, addresses, Social Security numbers, credit/debit card numbers, and other information from a third-party management platform",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Watch on Demand: Cloud & Data Security Summit",
-    "link": "https://www.securityweek.com/virtual-event-today-cloud-data-security-summit/",
-    "published": "Mon, 20 Jul 2026 10:31:25 +0000",
-    "summary": "<p>Attendees will be able to interact with leading solution providers and other end users facing similar challenges in securing a variety of cloud deployments.</p>\n<p>The post <a href=\"https://www.securityweek.com/virtual-event-today-cloud-data-security-summit/\">Watch on Demand: Cloud &amp; Data Security Summit</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Attendees will be able to interact with leading solution providers and other end users facing similar challenges in securing a variety of cloud deployments",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -837,34 +833,34 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-55123",
-        "CVE-2026-55049",
-        "CVE-2026-55140",
-        "CVE-2026-55022",
-        "CVE-2026-50370",
+        "CVE-2026-55010",
         "CVE-2026-54128",
-        "CVE-2026-55129",
-        "CVE-2026-50314",
-        "CVE-2026-50467",
-        "CVE-2026-55056",
-        "CVE-2026-55132",
-        "CVE-2026-55043",
-        "CVE-2026-55033",
-        "CVE-2026-58644",
-        "CVE-2026-56164",
-        "CVE-2026-50522",
-        "CVE-2026-50518",
-        "CVE-2026-55944",
-        "CVE-2026-54992",
-        "CVE-2026-55127",
-        "CVE-2026-56188",
-        "CVE-2026-50327",
-        "CVE-2026-55120",
-        "CVE-2026-55045",
-        "CVE-2026-50655",
+        "CVE-2026-55049",
         "CVE-2026-55018",
+        "CVE-2026-55127",
+        "CVE-2026-50522",
+        "CVE-2026-55056",
+        "CVE-2026-55140",
+        "CVE-2026-55123",
+        "CVE-2026-58644",
         "CVE-2026-56155",
-        "CVE-2026-55010"
+        "CVE-2026-50327",
+        "CVE-2026-55129",
+        "CVE-2026-50370",
+        "CVE-2026-55944",
+        "CVE-2026-55043",
+        "CVE-2026-56164",
+        "CVE-2026-55132",
+        "CVE-2026-56188",
+        "CVE-2026-50467",
+        "CVE-2026-55033",
+        "CVE-2026-50655",
+        "CVE-2026-50518",
+        "CVE-2026-54992",
+        "CVE-2026-50314",
+        "CVE-2026-55045",
+        "CVE-2026-55022",
+        "CVE-2026-55120"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -923,9 +919,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
+        "CVE-2026-28739",
         "CVE-2026-33091",
-        "CVE-2026-25106",
-        "CVE-2026-28739"
+        "CVE-2026-25106"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1338,8 +1334,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1364,6 +1360,43 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "New ClickLock Stealer locks your Mac until you hand over your password",
+    "link": "https://www.malwarebytes.com/blog/news/2026/07/new-clicklock-stealer-locks-your-mac-until-you-hand-over-your-password",
+    "published": "Tue, 21 Jul 2026 11:59:31 GMT",
+    "summary": "A new macOS infostealer tricks victims into revealing their system password and installs a persistent backdoor for future access.",
+    "analysis": {
+      "issue": "ClickLock Stealer is a new, modular macOS infostealer delivered via ClickFix-style phishing pages that can lock a victim’s Mac, steal their macOS password, browser and password manager data, cryptocurrency wallets, and then leave behind a persistent ",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Don&#8217;t trust that &#8220;FBI agent&#8221; in your DMs",
+    "link": "https://www.malwarebytes.com/blog/news/2026/07/dont-trust-that-fbi-agent-in-your-dms",
+    "published": "Tue, 21 Jul 2026 11:33:35 GMT",
+    "summary": "The FBI is warning that fraudsters are using fake IC3 accounts and direct messages to target people who've already been scammed.",
+    "analysis": {
+      "issue": "The Federal Bureau of Investigation’s (FBI) Internet Crime Complaint Center (IC3) is warning that scammers are impersonating the bureau on social media and on messaging apps, targeting people who’ve already been victims of cybercrime",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1506,42 +1539,6 @@
       "cause": null,
       "timeline": null,
       "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Security updates available for Adobe, Chrome, Firefox, VMWare, and Zoom",
-    "link": "https://www.malwarebytes.com/blog/bugs/2026/07/security-updates-available-for-adobe-chrome-firefox-vmware-and-zoom",
-    "published": "Thu, 16 Jul 2026 10:47:22 GMT",
-    "summary": "Several updates have been made available including those for Adobe, Chrome, Firefox, VMWare, and Zoom.",
-    "analysis": {
-      "issue": "Security updates are not just for enterprises with a dedicated security team and a change-management calendar",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Samsung backs down on threat to delete health data",
-    "link": "https://www.malwarebytes.com/blog/privacy/2026/07/samsung-backs-down-on-threat-to-delete-health-data",
-    "published": "Thu, 16 Jul 2026 09:25:59 GMT",
-    "summary": "Samsung threatened to delete users' health data if they refused AI training. After a backlash, it quickly backed down.",
-    "analysis": {
-      "issue": "If you pay for something, you expect it to work as intended",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
       "cves": [],
       "threat_categories": [
         "General Security"
