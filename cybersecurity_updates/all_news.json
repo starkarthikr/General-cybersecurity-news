@@ -4,7 +4,18 @@
     "title": "FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware",
     "link": "https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html",
     "published": "Mon, 20 Jul 2026 23:53:03 +0530",
-    "summary": "Cybersecurity researchers have discovered nearly 7,600 malicious GitHub repositories, out of which more than 800 pose as artificial intelligence (AI) skills or Model Context Protocol (MCP) servers to deliver a malware family known as SmartLoader as part of an ongoing campaign codenamed FakeGit.\n\n\"FakeGit uses copied projects, lookalike developer profiles, convincing READMEs, and malicious ZIP"
+    "summary": "Cybersecurity researchers have discovered nearly 7,600 malicious GitHub repositories, out of which more than 800 pose as artificial intelligence (AI) skills or Model Context Protocol (MCP) servers to deliver a malware family known as SmartLoader as part of an ongoing campaign codenamed FakeGit.\n\n\"FakeGit uses copied projects, lookalike developer profiles, convincing READMEs, and malicious ZIP",
+    "analysis": {
+      "issue": "Researchers uncover 7,600 FakeGit GitHub repos, including 800 AI skills and MCP lures spreading SmartLoader malware",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
   },
   {
     "source": "The Hacker News",
@@ -85,38 +96,14 @@
     "title": "Mythos Didn't Break Your Security Program. Your Exposure Window Could.",
     "link": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html",
     "published": "Mon, 20 Jul 2026 17:00:00 +0530",
-    "summary": "The industry spent the initial months after Anthropic's April 7 Mythos reveal focused on volume. How many new CVEs would Mythos add to an already overloaded pipeline? How quickly would the flood of AI-driven discovery overwhelm triage capabilities? How long would it take adversaries to weaponize Mythos findings at scale? Those questions were and remain valid. Yet they all stop short of",
-    "analysis": {
-      "issue": "AI-driven discovery widens the exposure window as attackers break out in 29 minutes while critical application flaws take 55 days to remediate",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
+    "summary": "The industry spent the initial months after Anthropic's April 7 Mythos reveal focused on volume. How many new CVEs would Mythos add to an already overloaded pipeline? How quickly would the flood of AI-driven discovery overwhelm triage capabilities? How long would it take adversaries to weaponize Mythos findings at scale? Those questions were and remain valid. Yet they all stop short of"
   },
   {
     "source": "The Hacker News",
     "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction",
     "link": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
     "published": "Mon, 20 Jul 2026 14:40:56 +0530",
-    "summary": "Opening a crafted XZ archive in 7-Zip could let an attacker run code on the machine. The flaw, CVE-2026-14266, is a heap-based buffer overflow in how the archiver processes XZ chunked data, and Trend Micro's Zero Day Initiative (ZDI) detailed it on July 15. A fix shipped on June 25 in 7-Zip 26.02.\n\nThe overflow lets an attacker \"execute code in the context of the current process,\" per the",
-    "analysis": {
-      "issue": "CVE-2026-14266 is a high-severity heap overflow in 7-Zip’s XZ decoder that could run code when a user opens a crafted archive",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2026-14266"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
+    "summary": "Opening a crafted XZ archive in 7-Zip could let an attacker run code on the machine. The flaw, CVE-2026-14266, is a heap-based buffer overflow in how the archiver processes XZ chunked data, and Trend Micro's Zero Day Initiative (ZDI) detailed it on July 15. A fix shipped on June 25 in 7-Zip 26.02.\n\nThe overflow lets an attacker \"execute code in the context of the current process,\" per the"
   },
   {
     "source": "The Hacker News",
@@ -378,10 +365,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56164",
         "CVE-2026-50661",
+        "CVE-2026-48561",
         "CVE-2026-56155",
-        "CVE-2026-48561"
+        "CVE-2026-56164"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -750,8 +737,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-63030",
-        "CVE-2026-60137"
+        "CVE-2026-60137",
+        "CVE-2026-63030"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -827,34 +814,34 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50370",
-        "CVE-2026-50467",
-        "CVE-2026-55033",
-        "CVE-2026-55022",
-        "CVE-2026-55129",
-        "CVE-2026-55018",
-        "CVE-2026-55043",
-        "CVE-2026-58644",
-        "CVE-2026-54992",
-        "CVE-2026-56188",
-        "CVE-2026-55010",
-        "CVE-2026-56164",
-        "CVE-2026-55056",
-        "CVE-2026-50522",
-        "CVE-2026-50314",
-        "CVE-2026-50327",
-        "CVE-2026-50655",
-        "CVE-2026-50518",
-        "CVE-2026-55132",
-        "CVE-2026-55123",
-        "CVE-2026-55140",
-        "CVE-2026-55120",
-        "CVE-2026-55045",
-        "CVE-2026-55127",
         "CVE-2026-54128",
+        "CVE-2026-58644",
         "CVE-2026-55944",
+        "CVE-2026-55045",
+        "CVE-2026-55018",
+        "CVE-2026-55120",
+        "CVE-2026-55033",
+        "CVE-2026-55010",
+        "CVE-2026-55022",
+        "CVE-2026-55043",
+        "CVE-2026-50314",
+        "CVE-2026-55140",
+        "CVE-2026-50518",
+        "CVE-2026-55127",
+        "CVE-2026-55129",
+        "CVE-2026-55123",
+        "CVE-2026-54992",
+        "CVE-2026-56155",
+        "CVE-2026-50522",
+        "CVE-2026-50370",
+        "CVE-2026-50655",
+        "CVE-2026-50327",
+        "CVE-2026-55132",
+        "CVE-2026-56164",
         "CVE-2026-55049",
-        "CVE-2026-56155"
+        "CVE-2026-56188",
+        "CVE-2026-55056",
+        "CVE-2026-50467"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -913,9 +900,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
+        "CVE-2026-25106",
         "CVE-2026-33091",
-        "CVE-2026-28739",
-        "CVE-2026-25106"
+        "CVE-2026-28739"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1540,6 +1527,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "Beyond the Model: Harnessing Frontier AI for Stronger Cyber Defense",
+    "link": "https://www.crowdstrike.com/en-us/blog/harnessing-frontier-ai-for-stronger-defense/",
+    "published": "Jul 20, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "When CrowdStrike tested frontier AI in vulnerability research, we learned the greatest differentiator wasn’t the model used, but the harness around it",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "AIDR: How CrowdStrike Is Defining the Next Era of Cybersecurity",
     "link": "https://www.crowdstrike.com/en-us/blog/aidr-how-crowdstrike-is-defining-next-era-of-cybersecurity/",
     "published": "Jul 15, 2026 00:00:00-0500",
@@ -1690,24 +1695,6 @@
     "summary": "",
     "analysis": {
       "issue": "Learn the implications for the lack of standardization in OAuth access tokens and how the industry can move forward",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "94% of Organizations Report Cloud Breaches: CrowdStrike State of CDR Survey",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-state-of-cdr-survey-key-takeaways/",
-    "published": "Jun 22, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "The survey reveals the consequences of poor cloud visibility, inability to distinguish malicious activity, and more",
       "solution": null,
       "cause": null,
       "timeline": null,

@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-21 03:19:27 UTC
+**Last Updated:** 2026-07-21 03:56:19 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -8,6 +8,8 @@
 
 **Source:** The Hacker News  
 **Published:** Mon, 20 Jul 2026 23:53:03 +0530  
+**Severity:** Low  
+**Categories:** Malware  
 
 ---
 
@@ -51,8 +53,6 @@
 
 **Source:** The Hacker News  
 **Published:** Mon, 20 Jul 2026 17:00:00 +0530  
-**Severity:** Critical  
-**Categories:** General Security  
 
 ---
 
@@ -60,9 +60,6 @@
 
 **Source:** The Hacker News  
 **Published:** Mon, 20 Jul 2026 14:40:56 +0530  
-**Severity:** High  
-**CVEs:** CVE-2026-14266  
-**Categories:** Vulnerability  
 
 ---
 
@@ -191,7 +188,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56164, CVE-2026-50661, CVE-2026-56155, CVE-2026-48561  
+**CVEs:** CVE-2026-50661, CVE-2026-48561, CVE-2026-56155, CVE-2026-56164  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -365,7 +362,7 @@
 **Source:** Security Week  
 **Published:** Mon, 20 Jul 2026 05:21:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-63030, CVE-2026-60137  
+**CVEs:** CVE-2026-60137, CVE-2026-63030  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -402,7 +399,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Jul 2026 20:27:33 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50370, CVE-2026-50467, CVE-2026-55033, CVE-2026-55022, CVE-2026-55129, CVE-2026-55018, CVE-2026-55043, CVE-2026-58644, CVE-2026-54992, CVE-2026-56188, CVE-2026-55010, CVE-2026-56164, CVE-2026-55056, CVE-2026-50522, CVE-2026-50314, CVE-2026-50327, CVE-2026-50655, CVE-2026-50518, CVE-2026-55132, CVE-2026-55123, CVE-2026-55140, CVE-2026-55120, CVE-2026-55045, CVE-2026-55127, CVE-2026-54128, CVE-2026-55944, CVE-2026-55049, CVE-2026-56155  
+**CVEs:** CVE-2026-54128, CVE-2026-58644, CVE-2026-55944, CVE-2026-55045, CVE-2026-55018, CVE-2026-55120, CVE-2026-55033, CVE-2026-55010, CVE-2026-55022, CVE-2026-55043, CVE-2026-50314, CVE-2026-55140, CVE-2026-50518, CVE-2026-55127, CVE-2026-55129, CVE-2026-55123, CVE-2026-54992, CVE-2026-56155, CVE-2026-50522, CVE-2026-50370, CVE-2026-50655, CVE-2026-50327, CVE-2026-55132, CVE-2026-56164, CVE-2026-55049, CVE-2026-56188, CVE-2026-55056, CVE-2026-50467  
 **Categories:** Vulnerability  
 
 ---
@@ -430,7 +427,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 09 Jul 2026 18:52:29 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-33091, CVE-2026-28739, CVE-2026-25106  
+**CVEs:** CVE-2026-25106, CVE-2026-33091, CVE-2026-28739  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -738,7 +735,16 @@
 
 ---
 
-### 81. [AIDR: How CrowdStrike Is Defining the Next Era of Cybersecurity](https://www.crowdstrike.com/en-us/blog/aidr-how-crowdstrike-is-defining-next-era-of-cybersecurity/)
+### 81. [Beyond the Model: Harnessing Frontier AI for Stronger Cyber Defense](https://www.crowdstrike.com/en-us/blog/harnessing-frontier-ai-for-stronger-defense/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Jul 20, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 82. [AIDR: How CrowdStrike Is Defining the Next Era of Cybersecurity](https://www.crowdstrike.com/en-us/blog/aidr-how-crowdstrike-is-defining-next-era-of-cybersecurity/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 15, 2026 00:00:00-0500  
@@ -747,7 +753,7 @@
 
 ---
 
-### 82. [July 2026 Patch Tuesday: Microsoft Patches 622 Vulnerabilities Including Two Exploited Zero-Days](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-july-2026/)
+### 83. [July 2026 Patch Tuesday: Microsoft Patches 622 Vulnerabilities Including Two Exploited Zero-Days](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-july-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 14, 2026 00:00:00-0500  
@@ -756,7 +762,7 @@
 
 ---
 
-### 83. [Why AI Governance Without Guardrails Is Theater](https://www.crowdstrike.com/en-us/blog/why-ai-governance-without-guardrails-is-theater/)
+### 84. [Why AI Governance Without Guardrails Is Theater](https://www.crowdstrike.com/en-us/blog/why-ai-governance-without-guardrails-is-theater/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 09, 2026 00:00:00-0500  
@@ -765,7 +771,7 @@
 
 ---
 
-### 84. [Falcon Secure Access Sets the Standard for Zero Trust Browser Security](https://www.crowdstrike.com/en-us/blog/falcon-secure-access-sets-standard-for-zero-trust-security-browser/)
+### 85. [Falcon Secure Access Sets the Standard for Zero Trust Browser Security](https://www.crowdstrike.com/en-us/blog/falcon-secure-access-sets-standard-for-zero-trust-security-browser/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 08, 2026 00:00:00-0500  
@@ -774,7 +780,7 @@
 
 ---
 
-### 85. [CrowdStrike Uncovers New Prompt Injection Techniques](https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-prompt-injection-techniques/)
+### 86. [CrowdStrike Uncovers New Prompt Injection Techniques](https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-prompt-injection-techniques/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 07, 2026 00:00:00-0500  
@@ -783,7 +789,7 @@
 
 ---
 
-### 86. [How AI-leading Security Teams Are Building the Agentic SOC](https://www.crowdstrike.com/en-us/blog/how-ai-leading-security-teams-are-building-the-agentic-soc/)
+### 87. [How AI-leading Security Teams Are Building the Agentic SOC](https://www.crowdstrike.com/en-us/blog/how-ai-leading-security-teams-are-building-the-agentic-soc/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 06, 2026 00:00:00-0500  
@@ -792,7 +798,7 @@
 
 ---
 
-### 87. [Browser Security: Zero-Days Are Only Part of the Problem](https://www.crowdstrike.com/en-us/blog/browser-security-zero-days-are-only-part-of-the-problem/)
+### 88. [Browser Security: Zero-Days Are Only Part of the Problem](https://www.crowdstrike.com/en-us/blog/browser-security-zero-days-are-only-part-of-the-problem/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 30, 2026 00:00:00-0500  
@@ -801,7 +807,7 @@
 
 ---
 
-### 88. [Falcon Cloud Security June 2026 Release: Updates for Azure and Google Cloud](https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-expanding-multi-cloud-coverage/)
+### 89. [Falcon Cloud Security June 2026 Release: Updates for Azure and Google Cloud](https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-expanding-multi-cloud-coverage/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 29, 2026 00:00:00-0500  
@@ -810,19 +816,10 @@
 
 ---
 
-### 89. [The Identity Problem Hiding in AI Agent Deployments](https://www.crowdstrike.com/en-us/blog/the-identity-problem-hiding-in-ai-agent-deployments/)
+### 90. [The Identity Problem Hiding in AI Agent Deployments](https://www.crowdstrike.com/en-us/blog/the-identity-problem-hiding-in-ai-agent-deployments/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 24, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 90. [94% of Organizations Report Cloud Breaches: CrowdStrike State of CDR Survey](https://www.crowdstrike.com/en-us/blog/crowdstrike-state-of-cdr-survey-key-takeaways/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Jun 22, 2026 00:00:00-0500  
 **Severity:** Low  
 **Categories:** General Security  
 
