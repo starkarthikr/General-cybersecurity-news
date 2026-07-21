@@ -1,10 +1,17 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-20 18:28:47 UTC
+**Last Updated:** 2026-07-21 03:19:27 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign](https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html)
+### 1. [FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware](https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 20 Jul 2026 23:53:03 +0530  
+
+---
+
+### 2. [Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign](https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 20 Jul 2026 22:59:50 +0530  
@@ -13,7 +20,7 @@
 
 ---
 
-### 2. [HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050](https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html)
+### 3. [HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050](https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 20 Jul 2026 20:03:43 +0530  
@@ -22,7 +29,7 @@
 
 ---
 
-### 3. [⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More](https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html)
+### 4. [⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More](https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 20 Jul 2026 19:02:26 +0530  
@@ -31,7 +38,7 @@
 
 ---
 
-### 4. [Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine](https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html)
+### 5. [Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine](https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 20 Jul 2026 17:43:39 +0530  
@@ -40,7 +47,7 @@
 
 ---
 
-### 5. [Mythos Didn't Break Your Security Program. Your Exposure Window Could.](https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html)
+### 6. [Mythos Didn't Break Your Security Program. Your Exposure Window Could.](https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 20 Jul 2026 17:00:00 +0530  
@@ -49,7 +56,7 @@
 
 ---
 
-### 6. [New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction](https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html)
+### 7. [New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction](https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 20 Jul 2026 14:40:56 +0530  
@@ -59,7 +66,7 @@
 
 ---
 
-### 7. [Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs](https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html)
+### 8. [Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs](https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 20 Jul 2026 14:37:11 +0530  
@@ -68,7 +75,7 @@
 
 ---
 
-### 8. [World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent](https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html)
+### 9. [World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent](https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 20 Jul 2026 10:57:26 +0530  
@@ -77,7 +84,7 @@
 
 ---
 
-### 9. [SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines](https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html)
+### 10. [SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines](https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 20 Jul 2026 10:45:39 +0530  
@@ -86,17 +93,55 @@
 
 ---
 
-### 10. [Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution](https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html)
+### 11. [Estée Lauder discloses data breach via Oracle E-Business flaw](https://www.bleepingcomputer.com/news/security/est-e-lauder-discloses-data-breach-via-oracle-e-business-flaw/)
 
-**Source:** The Hacker News  
-**Published:** Mon, 20 Jul 2026 02:12:49 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 20 Jul 2026 18:39:30 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2026-42533  
-**Categories:** Vulnerability  
+**CVEs:** CVE-2025-61882  
+**Categories:** Data Breach, Vulnerability  
 
 ---
 
-### 11. [New HollowGraph malware uses Microsoft Graph for stealthy C2 comms](https://www.bleepingcomputer.com/news/security/new-hollowgraph-malware-uses-microsoft-graph-for-stealthy-c2-comms/)
+### 12. [SonicWall SMA1000 flaws exploited as zero-days to push custom malware](https://www.bleepingcomputer.com/news/security/sonicwall-sma1000-flaws-exploited-as-zero-days-to-push-custom-malware/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 20 Jul 2026 18:23:23 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-15410, CVE-2026-15409  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 13. [Hackers steal $23.7 million in crypto from Ostium in off-chain attack](https://www.bleepingcomputer.com/news/security/hackers-steal-237-million-in-crypto-from-ostium-in-off-chain-attack/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 20 Jul 2026 18:22:56 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 14. [Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes](https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 20 Jul 2026 17:14:42 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 15. [JadePuffer agentic attacks now target AI model data with ransomware](https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 20 Jul 2026 17:08:02 -0400  
+**Severity:** Low  
+**CVEs:** CVE-2025-3248  
+**Categories:** Ransomware, Vulnerability, Malware, APT  
+
+---
+
+### 16. [New HollowGraph malware uses Microsoft Graph for stealthy C2 comms](https://www.bleepingcomputer.com/news/security/new-hollowgraph-malware-uses-microsoft-graph-for-stealthy-c2-comms/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 20 Jul 2026 13:43:01 -0400  
@@ -105,7 +150,7 @@
 
 ---
 
-### 12. [An AI SOC Evaluation Guide for Security Leaders](https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/)
+### 17. [An AI SOC Evaluation Guide for Security Leaders](https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 20 Jul 2026 10:01:11 -0400  
@@ -114,7 +159,7 @@
 
 ---
 
-### 13. [Hugging Face warns an autonomous AI agent hacked its network](https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/)
+### 18. [Hugging Face warns an autonomous AI agent hacked its network](https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 20 Jul 2026 07:56:28 -0400  
@@ -123,7 +168,7 @@
 
 ---
 
-### 14. [Microsoft confirms Windows Server Update Services sync delays](https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-wsus-server-sync-delays-and-timeouts/)
+### 19. [Microsoft confirms Windows Server Update Services sync delays](https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-wsus-server-sync-delays-and-timeouts/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 20 Jul 2026 06:47:28 -0400  
@@ -132,7 +177,7 @@
 
 ---
 
-### 15. [Windows KB5121767 OOB update fixes shutdowns on some Dell PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/)
+### 20. [Windows KB5121767 OOB update fixes shutdowns on some Dell PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 20 Jul 2026 06:06:17 -0400  
@@ -141,59 +186,12 @@
 
 ---
 
-### 16. [Critical ServiceNow code execution flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 20 Jul 2026 05:29:20 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-6875  
-**Categories:** Vulnerability  
-
----
-
-### 17. [Hackers abuse ViPNet software to target Russian govt agencies](https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/)
-
-**Source:** Bleeping Computer  
-**Published:** Sun, 19 Jul 2026 10:23:46 -0400  
-**Severity:** High  
-**Categories:** Malware  
-
----
-
-### 18. [Update now: 7-Zip fixes RCE flaw exploitable with malicious archives](https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 18 Jul 2026 15:32:02 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 19. [WordPress Core "wp2shell" RCE flaws get public exploits, patch now](https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 18 Jul 2026 13:22:47 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-63030, CVE-2026-60137  
-**Categories:** Vulnerability  
-
----
-
-### 20. [Microsoft warns of surge in ACR Stealer attacks on customers](https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 18 Jul 2026 10:17:19 -0400  
-**Severity:** High  
-**Categories:** Malware  
-
----
-
 ### 21. [Microsoft Patches a Record 570 Security Flaws](https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50661, CVE-2026-48561, CVE-2026-56164, CVE-2026-56155  
+**CVEs:** CVE-2026-56164, CVE-2026-50661, CVE-2026-56155, CVE-2026-48561  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -257,7 +255,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50507, CVE-2026-45586, CVE-2026-49160  
+**CVEs:** CVE-2026-49160, CVE-2026-50507, CVE-2026-45586  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -294,7 +292,7 @@
 **Source:** Security Week  
 **Published:** Mon, 20 Jul 2026 14:11:05 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-15409, CVE-2026-15410  
+**CVEs:** CVE-2026-15410, CVE-2026-15409  
 **Categories:** Vulnerability, Malware, APT  
 
 ---
@@ -404,7 +402,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Jul 2026 20:27:33 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-54128, CVE-2026-55140, CVE-2026-55056, CVE-2026-55043, CVE-2026-56155, CVE-2026-55033, CVE-2026-50370, CVE-2026-55010, CVE-2026-54992, CVE-2026-50327, CVE-2026-55018, CVE-2026-55049, CVE-2026-56164, CVE-2026-50314, CVE-2026-58644, CVE-2026-55045, CVE-2026-50522, CVE-2026-55129, CVE-2026-55123, CVE-2026-55127, CVE-2026-55132, CVE-2026-55120, CVE-2026-50518, CVE-2026-56188, CVE-2026-55022, CVE-2026-50655, CVE-2026-55944, CVE-2026-50467  
+**CVEs:** CVE-2026-50370, CVE-2026-50467, CVE-2026-55033, CVE-2026-55022, CVE-2026-55129, CVE-2026-55018, CVE-2026-55043, CVE-2026-58644, CVE-2026-54992, CVE-2026-56188, CVE-2026-55010, CVE-2026-56164, CVE-2026-55056, CVE-2026-50522, CVE-2026-50314, CVE-2026-50327, CVE-2026-50655, CVE-2026-50518, CVE-2026-55132, CVE-2026-55123, CVE-2026-55140, CVE-2026-55120, CVE-2026-55045, CVE-2026-55127, CVE-2026-54128, CVE-2026-55944, CVE-2026-55049, CVE-2026-56155  
 **Categories:** Vulnerability  
 
 ---
@@ -432,7 +430,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 09 Jul 2026 18:52:29 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-25106, CVE-2026-33091, CVE-2026-28739  
+**CVEs:** CVE-2026-33091, CVE-2026-28739, CVE-2026-25106  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -635,7 +633,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

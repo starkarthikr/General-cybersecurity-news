@@ -1,6 +1,13 @@
 [
   {
     "source": "The Hacker News",
+    "title": "FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware",
+    "link": "https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html",
+    "published": "Mon, 20 Jul 2026 23:53:03 +0530",
+    "summary": "Cybersecurity researchers have discovered nearly 7,600 malicious GitHub repositories, out of which more than 800 pose as artificial intelligence (AI) skills or Model Context Protocol (MCP) servers to deliver a malware family known as SmartLoader as part of an ongoing campaign codenamed FakeGit.\n\n\"FakeGit uses copied projects, lookalike developer profiles, convincing READMEs, and malicious ZIP"
+  },
+  {
+    "source": "The Hacker News",
     "title": "Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign",
     "link": "https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html",
     "published": "Mon, 20 Jul 2026 22:59:50 +0530",
@@ -166,22 +173,104 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
-    "link": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html",
-    "published": "Mon, 20 Jul 2026 02:12:49 +0530",
-    "summary": "F5 has shipped fixes for a critical nginx flaw that lets a remote, unauthenticated attacker trigger a heap buffer overflow in the worker process with crafted HTTP requests. CVE-2026-42533 was patched on July 15 in nginx 1.30.4 (stable) and 1.31.3 (mainline), and in NGINX Plus 37.0.3.1; anyone on an earlier build should upgrade.\n\nTriggering it can crash or restart the worker, causing a denial of",
+    "source": "Bleeping Computer",
+    "title": "Estée Lauder discloses data breach via Oracle E-Business flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/est-e-lauder-discloses-data-breach-via-oracle-e-business-flaw/",
+    "published": "Mon, 20 Jul 2026 18:39:30 -0400",
+    "summary": "Cosmetics giant Estée Lauder is notifying customers of a data breach after hackers exploited a flaw in Oracle E-Business Suite that the company used for human resources (HR) operations. [...]",
     "analysis": {
-      "issue": "F5 patches CVE-2026-42533, a regex map heap overflow that crashes nginx workers and may allow RCE in specific configurations",
+      "issue": "Cosmetics giant Estée Lauder is notifying customers of a data breach after hackers exploited a flaw in Oracle E-Business Suite that the company used for human resources (HR) operations",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-42533"
+        "CVE-2025-61882"
       ],
       "threat_categories": [
+        "Data Breach",
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "SonicWall SMA1000 flaws exploited as zero-days to push custom malware",
+    "link": "https://www.bleepingcomputer.com/news/security/sonicwall-sma1000-flaws-exploited-as-zero-days-to-push-custom-malware/",
+    "published": "Mon, 20 Jul 2026 18:23:23 -0400",
+    "summary": "Two recently disclosed SonicWall SMA1000 vulnerabilities were exploited in zero-day attacks for weeks, allowing threat actors to install custom malware on vulnerable VPN appliances. [...]",
+    "analysis": {
+      "issue": "Two recently disclosed SonicWall SMA1000 vulnerabilities were exploited in zero-day attacks for weeks, allowing threat actors to install custom malware on vulnerable VPN appliances",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-15410",
+        "CVE-2026-15409"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Hackers steal $23.7 million in crypto from Ostium in off-chain attack",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-237-million-in-crypto-from-ostium-in-off-chain-attack/",
+    "published": "Mon, 20 Jul 2026 18:22:56 -0400",
+    "summary": "The Ostium trading platform announced that an attacker stole $23.75 million from its liquidity provider vault last week, after compromising off-chain infrastructure used to feed prices into the protocol. [...]",
+    "analysis": {
+      "issue": "The Ostium trading platform announced that an attacker stole $23",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes",
+    "link": "https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/",
+    "published": "Mon, 20 Jul 2026 17:14:42 -0400",
+    "summary": "Researchers escaped the sandboxes in Cursor, Codex, Gemini CLI and Antigravity by having the AI agent write files that trusted host tools later run. Multiple CVEs, patches, and Google downgrading two Antigravity findings. [...]",
+    "analysis": {
+      "issue": "Security researchers broke out of the sandboxes in four widely used AI coding agents, including Cursor, OpenAI's Codex, Google's Gemini CLI and Antigravity, without attacking the sandbox head-on",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "JadePuffer agentic attacks now target AI model data with ransomware",
+    "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/",
+    "published": "Mon, 20 Jul 2026 17:08:02 -0400",
+    "summary": "The JadePuffer autonomous AI agent has upgraded with custom malware called EncForge that focuses on encrypting AI assets, such as training datasets, vector databases, and model checkpoints. [...]",
+    "analysis": {
+      "issue": "The JadePuffer autonomous AI agent has upgraded with custom malware called EncForge that focuses on encrypting AI assets, such as training datasets, vector databases, and model checkpoints",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2025-3248"
+      ],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "Malware",
+        "APT"
       ]
     }
   },
@@ -277,101 +366,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Critical ServiceNow code execution flaw now exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/",
-    "published": "Mon, 20 Jul 2026 05:29:20 -0400",
-    "summary": "Attackers have begun exploiting a critical vulnerability (CVE-2026-6875) in the ServiceNow AI Platform, according to threat intelligence company Defused. [...]",
-    "analysis": {
-      "issue": "Attackers have begun exploiting a critical vulnerability (CVE-2026-6875) in the ServiceNow AI Platform, according to threat intelligence company Defused",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-6875"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers abuse ViPNet software to target Russian govt agencies",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/",
-    "published": "Sun, 19 Jul 2026 10:23:46 -0400",
-    "summary": "An advanced threat actor is abusing the update mechanism for the ViPNet private networking product suite to target Russian organizations, including government agencies. [...]",
-    "analysis": {
-      "issue": "An advanced threat actor is abusing the update mechanism for the ViPNet private networking product suite to target Russian organizations, including government agencies",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives",
-    "link": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
-    "published": "Sat, 18 Jul 2026 15:32:02 -0400",
-    "summary": "7-Zip version 26.02 was released on June 25 to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed files. [...]",
-    "analysis": {
-      "issue": "02 was released on June 25 to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed files",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "WordPress Core \"wp2shell\" RCE flaws get public exploits, patch now",
-    "link": "https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/",
-    "published": "Sat, 18 Jul 2026 13:22:47 -0400",
-    "summary": "Public exploits have been released for the critical \"wp2shell\" remote code execution vulnerabilities affecting WordPress Core, making it imperative that administrators patch their sites immediately. [...]",
-    "analysis": {
-      "issue": "Public exploits have been released for the critical \"wp2shell\" remote code execution vulnerabilities affecting WordPress Core, making it imperative that administrators patch their sites immediately",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-63030",
-        "CVE-2026-60137"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft warns of surge in ACR Stealer attacks on customers",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/",
-    "published": "Sat, 18 Jul 2026 10:17:19 -0400",
-    "summary": "Microsoft has observed a surge in attacks using the ACR Stealer malware to steal browser-stored passwords, authentication tokens, and sensitive documents from its enterprise customers. [...]",
-    "analysis": {
-      "issue": "Microsoft has observed a surge in attacks using the ACR Stealer malware to steal browser-stored passwords, authentication tokens, and sensitive documents from its enterprise customers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Microsoft Patches a Record 570 Security Flaws",
     "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
@@ -384,10 +378,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50661",
-        "CVE-2026-48561",
         "CVE-2026-56164",
-        "CVE-2026-56155"
+        "CVE-2026-50661",
+        "CVE-2026-56155",
+        "CVE-2026-48561"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -521,9 +515,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-49160",
         "CVE-2026-50507",
-        "CVE-2026-45586",
-        "CVE-2026-49160"
+        "CVE-2026-45586"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -600,8 +594,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-15409",
-        "CVE-2026-15410"
+        "CVE-2026-15410",
+        "CVE-2026-15409"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -833,34 +827,34 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-54128",
-        "CVE-2026-55140",
-        "CVE-2026-55056",
-        "CVE-2026-55043",
-        "CVE-2026-56155",
-        "CVE-2026-55033",
         "CVE-2026-50370",
-        "CVE-2026-55010",
-        "CVE-2026-54992",
-        "CVE-2026-50327",
-        "CVE-2026-55018",
-        "CVE-2026-55049",
-        "CVE-2026-56164",
-        "CVE-2026-50314",
-        "CVE-2026-58644",
-        "CVE-2026-55045",
-        "CVE-2026-50522",
-        "CVE-2026-55129",
-        "CVE-2026-55123",
-        "CVE-2026-55127",
-        "CVE-2026-55132",
-        "CVE-2026-55120",
-        "CVE-2026-50518",
-        "CVE-2026-56188",
+        "CVE-2026-50467",
+        "CVE-2026-55033",
         "CVE-2026-55022",
+        "CVE-2026-55129",
+        "CVE-2026-55018",
+        "CVE-2026-55043",
+        "CVE-2026-58644",
+        "CVE-2026-54992",
+        "CVE-2026-56188",
+        "CVE-2026-55010",
+        "CVE-2026-56164",
+        "CVE-2026-55056",
+        "CVE-2026-50522",
+        "CVE-2026-50314",
+        "CVE-2026-50327",
         "CVE-2026-50655",
+        "CVE-2026-50518",
+        "CVE-2026-55132",
+        "CVE-2026-55123",
+        "CVE-2026-55140",
+        "CVE-2026-55120",
+        "CVE-2026-55045",
+        "CVE-2026-55127",
+        "CVE-2026-54128",
         "CVE-2026-55944",
-        "CVE-2026-50467"
+        "CVE-2026-55049",
+        "CVE-2026-56155"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -919,9 +913,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-25106",
         "CVE-2026-33091",
-        "CVE-2026-28739"
+        "CVE-2026-28739",
+        "CVE-2026-25106"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1334,8 +1328,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
