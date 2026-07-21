@@ -1,21 +1,69 @@
 [
   {
     "source": "The Hacker News",
-    "title": "FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware",
-    "link": "https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html",
-    "published": "Mon, 20 Jul 2026 23:53:03 +0530",
-    "summary": "Cybersecurity researchers have discovered nearly 7,600 malicious GitHub repositories, out of which more than 800 pose as artificial intelligence (AI) skills or Model Context Protocol (MCP) servers to deliver a malware family known as SmartLoader as part of an ongoing campaign codenamed FakeGit.\n\n\"FakeGit uses copied projects, lookalike developer profiles, convincing READMEs, and malicious ZIP",
+    "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
+    "link": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html",
+    "published": "Tue, 21 Jul 2026 14:29:30 +0530",
+    "summary": "Attackers have begun to exploit two critical vulnerabilities in WordPress that, when combined together, enable unauthenticated remote code execution (RCE) and complete compromise of vulnerable websites.\n\nThe two security flaws, tracked as CVE-2026-63030 and CVE-2026-60137, have been codenamed wp2shell.\n\n\"By the early hours of Saturday morning (UTC), successful exploitation was already well",
     "analysis": {
-      "issue": "Researchers uncover 7,600 FakeGit GitHub repos, including 800 AI skills and MCP lures spreading SmartLoader malware",
+      "issue": "Attackers are exploiting two WordPress flaws as wp2shell, chaining them for unauthenticated RCE and deploying web shells and malicious plugins",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "Vulnerability"
       ]
     }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
+    "link": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
+    "published": "Tue, 21 Jul 2026 13:04:32 +0530",
+    "summary": "Researchers at Sysdig have linked a second attack on the same Langflow server to JADEPUFFER, the AI-agent-driven operator it first documented earlier this month.\n\nThe same operator has now been spotted deploying ENCFORGE, a new compiled Go ransomware designed to encrypt model weights, vector indexes, training datasets, and other AI infrastructure files across the host filesystem.\n\nThe entry",
+    "analysis": {
+      "issue": "JADEPUFFER exploits Langflow CVE-2025-3248 to deploy ENCFORGE ransomware against AI model weights, vector indexes, and training data on the host",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2025-3248"
+      ],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution",
+    "link": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
+    "published": "Tue, 21 Jul 2026 11:59:26 +0530",
+    "summary": "Threat actors are now exploiting a recently disclosed critical security flaw impacting ServiceNow AI Platform, according to Defused Cyber.\n\nIn a post shared on X, the threat intelligence firm said it's observing in-the-wild exploitation of CVE-2026-6875 (CVSS score: 9.5), a sandbox escape vulnerability that could allow an unauthenticated user to run arbitrary code.\n\nPatches for the flaw were",
+    "analysis": {
+      "issue": "Attackers exploit CVE-2026-6875 in ServiceNow AI Platform, a pre-auth sandbox escape that could compromise instances and connected proxy servers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-6875"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware",
+    "link": "https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html",
+    "published": "Mon, 20 Jul 2026 23:53:03 +0530",
+    "summary": "Cybersecurity researchers have discovered nearly 7,600 malicious GitHub repositories, out of which more than 800 pose as artificial intelligence (AI) skills or Model Context Protocol (MCP) servers to deliver a malware family known as SmartLoader as part of an ongoing campaign codenamed FakeGit.\n\n\"FakeGit uses copied projects, lookalike developer profiles, convincing READMEs, and malicious ZIP"
   },
   {
     "source": "The Hacker News",
@@ -96,41 +144,68 @@
     "title": "Mythos Didn't Break Your Security Program. Your Exposure Window Could.",
     "link": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html",
     "published": "Mon, 20 Jul 2026 17:00:00 +0530",
-    "summary": "The industry spent the initial months after Anthropic's April 7 Mythos reveal focused on volume. How many new CVEs would Mythos add to an already overloaded pipeline? How quickly would the flood of AI-driven discovery overwhelm triage capabilities? How long would it take adversaries to weaponize Mythos findings at scale? Those questions were and remain valid. Yet they all stop short of"
+    "summary": "The industry spent the initial months after Anthropic's April 7 Mythos reveal focused on volume. How many new CVEs would Mythos add to an already overloaded pipeline? How quickly would the flood of AI-driven discovery overwhelm triage capabilities? How long would it take adversaries to weaponize Mythos findings at scale? Those questions were and remain valid. Yet they all stop short of",
+    "analysis": {
+      "issue": "AI-driven discovery widens the exposure window as attackers break out in 29 minutes while critical application flaws take 55 days to remediate",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
   },
   {
     "source": "The Hacker News",
     "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction",
     "link": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
     "published": "Mon, 20 Jul 2026 14:40:56 +0530",
-    "summary": "Opening a crafted XZ archive in 7-Zip could let an attacker run code on the machine. The flaw, CVE-2026-14266, is a heap-based buffer overflow in how the archiver processes XZ chunked data, and Trend Micro's Zero Day Initiative (ZDI) detailed it on July 15. A fix shipped on June 25 in 7-Zip 26.02.\n\nThe overflow lets an attacker \"execute code in the context of the current process,\" per the"
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs",
-    "link": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html",
-    "published": "Mon, 20 Jul 2026 14:37:11 +0530",
-    "summary": "A solo Russian-speaking threat actor known as \"bandcampro\" outsourced a chunk of their operations to Google's open-source Gemini CLI artificial intelligence (AI) and commandeered a live botnet.\n\nThe findings come from an analysis of 200 Gemini CLI session logs between March 19 and April 21, 2026, which found the threat actor using AI, among other things, to crack passwords, set up a residential",
+    "summary": "Opening a crafted XZ archive in 7-Zip could let an attacker run code on the machine. The flaw, CVE-2026-14266, is a heap-based buffer overflow in how the archiver processes XZ chunked data, and Trend Micro's Zero Day Initiative (ZDI) detailed it on July 15. A fix shipped on June 25 in 7-Zip 26.02.\n\nThe overflow lets an attacker \"execute code in the context of the current process,\" per the",
     "analysis": {
-      "issue": "Bandcampro uses Google Gemini CLI to run an eight-PC dental clinic botnet, rebuild its C&C in six minutes, and automate coding and debugging",
+      "issue": "CVE-2026-14266 is a high-severity heap overflow in 7-Zip’s XZ decoder that could run code when a user opens a crafted archive",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
+      "severity": "High",
+      "cves": [
+        "CVE-2026-14266"
+      ],
       "threat_categories": [
-        "Malware"
+        "Vulnerability"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
-    "link": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html",
-    "published": "Mon, 20 Jul 2026 10:57:26 +0530",
-    "summary": "In an ironic twist, open-source artificial intelligence (AI) platform Hugging Face revealed that it was the victim of a hack perpetrated by an autonomous AI agent system.\n\nThe company said it detected and responded to the incident targeting its production infrastructure earlier last week.\n\n\"We identified unauthorized access to a limited set of internal datasets and to several credentials used by",
+    "source": "Bleeping Computer",
+    "title": "Critical Palo Alto VPN bug now exploited by Qilin ransomware gang",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
+    "published": "Tue, 21 Jul 2026 06:12:24 -0400",
+    "summary": "The Qilin ransomware gang is exploiting a critical PAN-OS GlobalProtect authentication bypass flaw to breach victims' networks, according to cybersecurity company Arctic Wolf. [...]",
     "analysis": {
-      "issue": "Hugging Face says an autonomous AI agent breached production through a malicious dataset, accessing internal data and service credentials",
+      "issue": "The Qilin ransomware gang is exploiting a critical PAN-OS GlobalProtect authentication bypass flaw to breach victims' networks, according to cybersecurity company Arctic Wolf",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-0257"
+      ],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft shares manual fix for WSUS sync delays and timeouts",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/",
+    "published": "Tue, 21 Jul 2026 05:05:50 -0400",
+    "summary": "Microsoft has shared manual mitigations to help IT administrators fix Windows Server Update Services (WSUS) servers affected by a known issue that causes Windows Update scans to fail or time out. [...]",
+    "analysis": {
+      "issue": "Microsoft has shared manual mitigations to help IT administrators fix Windows Server Update Services (WSUS) servers affected by a known issue that causes Windows Update scans to fail or time out",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -142,20 +217,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines",
-    "link": "https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html",
-    "published": "Mon, 20 Jul 2026 10:45:39 +0530",
-    "summary": "Cybersecurity researchers have flagged a new software supply chain attack codenamed SleeperGem targeting the Ruby ecosystem after three malicious gems were published to RubyGems with the end goal of serving additional payloads.\n\nThe rogue gems are listed below -\n\n\n  git_credential_manager (versions 2.8.0, 2.8.1, 2.8.2, 2.8.3) - Published on July 18, 2026\n  Dendreo (versions 1.1.3, 1.1.4) -",
+    "source": "Bleeping Computer",
+    "title": "Windows LegacyHive zero-day flaw gets free, unofficial patches",
+    "link": "https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/",
+    "published": "Tue, 21 Jul 2026 04:06:26 -0400",
+    "summary": "Free unofficial patches are available for a recently disclosed Windows zero-day flaw that allows attackers to escalate privileges on up-to-date Windows systems. [...]",
     "analysis": {
-      "issue": "Three malicious RubyGems packages in the SleeperGem attack skip CI runners, target developer machines, and install persistent native malware",
+      "issue": "Free unofficial patches are available for a recently disclosed Windows zero-day flaw that allows attackers to escalate privileges on up-to-date Windows systems",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "Vulnerability"
       ]
     }
   },
@@ -193,8 +268,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-15410",
-        "CVE-2026-15409"
+        "CVE-2026-15409",
+        "CVE-2026-15410"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -298,61 +373,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Hugging Face warns an autonomous AI agent hacked its network",
-    "link": "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/",
-    "published": "Mon, 20 Jul 2026 07:56:28 -0400",
-    "summary": "The Hugging Face artificial intelligence repository disclosed that attackers gained access to internal datasets and credentials after breaching its production infrastructure using an autonomous AI agent system. [...]",
-    "analysis": {
-      "issue": "The Hugging Face artificial intelligence repository disclosed that attackers gained access to internal datasets and credentials after breaching its production infrastructure using an autonomous AI agent system",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft confirms Windows Server Update Services sync delays",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-wsus-server-sync-delays-and-timeouts/",
-    "published": "Mon, 20 Jul 2026 06:47:28 -0400",
-    "summary": "Microsoft is working to fix a known issue affecting Windows Server Update Services (WSUS) servers, which has caused synchronization problems for more than a week. [...]",
-    "analysis": {
-      "issue": "Microsoft is working to fix a known issue affecting Windows Server Update Services (WSUS) servers, which has caused synchronization problems for more than a week",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Windows KB5121767 OOB update fixes shutdowns on some Dell PCs",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/",
-    "published": "Mon, 20 Jul 2026 06:06:17 -0400",
-    "summary": "Microsoft has released emergency updates to fix a known issue causing some Dell PCs to shut down after installing the July 2026 Windows 11 security updates. [...]",
-    "analysis": {
-      "issue": "Microsoft has released emergency updates to fix a known issue causing some Dell PCs to experience performance issues or shut down after installing the July 2026 Windows 11 security updates",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Microsoft Patches a Record 570 Security Flaws",
     "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
@@ -365,10 +385,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50661",
         "CVE-2026-48561",
         "CVE-2026-56155",
-        "CVE-2026-56164"
+        "CVE-2026-56164",
+        "CVE-2026-50661"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -502,9 +522,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-49160",
+        "CVE-2026-45586",
         "CVE-2026-50507",
-        "CVE-2026-45586"
+        "CVE-2026-49160"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -552,6 +572,89 @@
   },
   {
     "source": "Security Week",
+    "title": "Meta Paid $78,000 Bounty for Vulnerability Exposing Customer Support Data",
+    "link": "https://www.securityweek.com/meta-pays-78000-bounty-for-vulnerability-exposing-customer-support-data/",
+    "published": "Tue, 21 Jul 2026 10:19:21 +0000",
+    "summary": "<p>A security researcher discovered a broken access control vulnerability in Meta’s support infrastructure.</p>\n<p>The post <a href=\"https://www.securityweek.com/meta-pays-78000-bounty-for-vulnerability-exposing-customer-support-data/\">Meta Paid $78,000 Bounty for Vulnerability Exposing Customer Support Data</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "A security researcher discovered a broken access control vulnerability in Meta’s support infrastructure",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Clover Health Investments Discloses Data Breach",
+    "link": "https://www.securityweek.com/clover-health-investments-discloses-data-breach/",
+    "published": "Tue, 21 Jul 2026 09:36:51 +0000",
+    "summary": "<p>Using social engineering, hackers compromised employee accounts with access to personal and health information.</p>\n<p>The post <a href=\"https://www.securityweek.com/clover-health-investments-discloses-data-breach/\">Clover Health Investments Discloses Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Using social engineering, hackers compromised employee accounts with access to personal and health information",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Exploitation of ServiceNow Vulnerability Seen Days After Disclosure",
+    "link": "https://www.securityweek.com/exploitation-of-servicenow-vulnerability-seen-days-after-disclosure/",
+    "published": "Tue, 21 Jul 2026 08:41:53 +0000",
+    "summary": "<p>The ServiceNow AI platform vulnerability tracked as CVE-2026-6875 can be exploited for remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/exploitation-of-servicenow-vulnerability-seen-days-after-disclosure/\">Exploitation of ServiceNow Vulnerability Seen Days After Disclosure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The ServiceNow AI platform vulnerability tracked as CVE-2026-6875 can be exploited for remote code execution",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-6875"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Zimbra Update Patches Critical Vulnerabilities",
+    "link": "https://www.securityweek.com/zimbra-update-patches-critical-vulnerabilities/",
+    "published": "Tue, 21 Jul 2026 08:20:08 +0000",
+    "summary": "<p>The latest Zimbra refresh resolves command injection, XSS, restriction bypass, and SSRF security defects.</p>\n<p>The post <a href=\"https://www.securityweek.com/zimbra-update-patches-critical-vulnerabilities/\">Zimbra Update Patches Critical Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The latest Zimbra refresh resolves command injection, XSS, restriction bypass, and SSRF security defects",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-10631",
+        "CVE-2026-50054",
+        "CVE-2026-50055"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Neo Emerges From Stealth With $100M to Control and Secure Enterprise AI Software",
     "link": "https://www.securityweek.com/neo-emerges-from-stealth-with-100m-to-control-and-secure-enterprise-ai-software/",
     "published": "Mon, 20 Jul 2026 14:54:03 +0000",
@@ -581,8 +684,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-15410",
-        "CVE-2026-15409"
+        "CVE-2026-15409",
+        "CVE-2026-15410"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -667,86 +770,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Capital One Open Sources AI-Powered ‘VulnHunter’ Security Tool",
-    "link": "https://www.securityweek.com/capital-one-open-sources-ai-powered-vulnhunter-security-tool/",
-    "published": "Mon, 20 Jul 2026 10:25:07 +0000",
-    "summary": "<p>The agentic security tool identifies potentially exploitable code flaws, traces attack paths, and recommends targeted remediations.</p>\n<p>The post <a href=\"https://www.securityweek.com/capital-one-open-sources-ai-powered-vulnhunter-security-tool/\">Capital One Open Sources AI-Powered ‘VulnHunter’ Security Tool</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The agentic security tool identifies potentially exploitable code flaws, traces attack paths, and recommends targeted remediations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Hugging Face Hacked in Autonomous AI Attack",
-    "link": "https://www.securityweek.com/hugging-face-hacked-in-autonomous-ai-attack/",
-    "published": "Mon, 20 Jul 2026 09:36:15 +0000",
-    "summary": "<p>Targeting production infrastructure, the attack compromised internal datasets and service credentials.</p>\n<p>The post <a href=\"https://www.securityweek.com/hugging-face-hacked-in-autonomous-ai-attack/\">Hugging Face Hacked in Autonomous AI Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Targeting production infrastructure, the attack compromised internal datasets and service credentials",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Chrome 150 Update Patches Severe Memory Safety Bugs",
-    "link": "https://www.securityweek.com/chrome-150-update-patches-severe-memory-safety-bugs/",
-    "published": "Mon, 20 Jul 2026 08:12:19 +0000",
-    "summary": "<p>The fresh security update resolves six critical and high-severity use-after-free vulnerabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-150-update-patches-severe-memory-safety-bugs/\">Chrome 150 Update Patches Severe Memory Safety Bugs</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The fresh security update resolves six critical and high-severity use-after-free vulnerabilities",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "WP2Shell WordPress Vulnerabilities Exploited in the Wild",
-    "link": "https://www.securityweek.com/wp2shell-wordpress-vulnerabilities-exploited-in-the-wild/",
-    "published": "Mon, 20 Jul 2026 05:21:29 +0000",
-    "summary": "<p>Exploitation of the new WordPress vulnerabilities tracked as CVE-2026-60137 and CVE-2026-63030 started soon after disclosure.</p>\n<p>The post <a href=\"https://www.securityweek.com/wp2shell-wordpress-vulnerabilities-exploited-in-the-wild/\">WP2Shell WordPress Vulnerabilities Exploited in the Wild</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Exploitation of the new WordPress vulnerabilities tracked as CVE-2026-60137 and CVE-2026-63030 started soon after disclosure",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-60137",
-        "CVE-2026-63030"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Begun, the Patch Wars have",
     "link": "https://blog.talosintelligence.com/begun-the-patch-wars-have/",
@@ -814,34 +837,34 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-54128",
-        "CVE-2026-58644",
-        "CVE-2026-55944",
-        "CVE-2026-55045",
-        "CVE-2026-55018",
-        "CVE-2026-55120",
-        "CVE-2026-55033",
-        "CVE-2026-55010",
-        "CVE-2026-55022",
-        "CVE-2026-55043",
-        "CVE-2026-50314",
-        "CVE-2026-55140",
-        "CVE-2026-50518",
-        "CVE-2026-55127",
-        "CVE-2026-55129",
         "CVE-2026-55123",
-        "CVE-2026-54992",
-        "CVE-2026-56155",
-        "CVE-2026-50522",
-        "CVE-2026-50370",
-        "CVE-2026-50655",
-        "CVE-2026-50327",
-        "CVE-2026-55132",
-        "CVE-2026-56164",
         "CVE-2026-55049",
-        "CVE-2026-56188",
+        "CVE-2026-55140",
+        "CVE-2026-55022",
+        "CVE-2026-50370",
+        "CVE-2026-54128",
+        "CVE-2026-55129",
+        "CVE-2026-50314",
+        "CVE-2026-50467",
         "CVE-2026-55056",
-        "CVE-2026-50467"
+        "CVE-2026-55132",
+        "CVE-2026-55043",
+        "CVE-2026-55033",
+        "CVE-2026-58644",
+        "CVE-2026-56164",
+        "CVE-2026-50522",
+        "CVE-2026-50518",
+        "CVE-2026-55944",
+        "CVE-2026-54992",
+        "CVE-2026-55127",
+        "CVE-2026-56188",
+        "CVE-2026-50327",
+        "CVE-2026-55120",
+        "CVE-2026-55045",
+        "CVE-2026-50655",
+        "CVE-2026-55018",
+        "CVE-2026-56155",
+        "CVE-2026-55010"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -900,8 +923,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-25106",
         "CVE-2026-33091",
+        "CVE-2026-25106",
         "CVE-2026-28739"
       ],
       "threat_categories": [
@@ -1346,6 +1369,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "AI nudify apps spark legal scrutiny of Apple and Google&#8217;s profits",
+    "link": "https://www.malwarebytes.com/blog/privacy/2026/07/ai-nudify-apps-spark-legal-scrutiny-of-apple-and-googles-profits",
+    "published": "Tue, 21 Jul 2026 09:48:44 GMT",
+    "summary": "Instead of fighting over what app stores host, the San Francisco City Attorney is targeting how they make money from AI nudify apps.",
+    "analysis": {
+      "issue": "You expect all kinds of apps on Apple’s App Store and Google’s Play Store, from weather monitors to home automation apps and games",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "The Odyssey piracy scams appear within hours of the movie&#8217;s release",
     "link": "https://www.malwarebytes.com/blog/threat-intel/2026/07/the-odyssey-piracy-scams-appear-within-hours-of-the-movies-release",
     "published": "Mon, 20 Jul 2026 15:41:26 GMT",
@@ -1497,24 +1538,6 @@
     "summary": "Samsung threatened to delete users' health data if they refused AI training. After a backlash, it quickly backed down.",
     "analysis": {
       "issue": "If you pay for something, you expect it to work as intended",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Claude for Chrome flaw could let rogue extensions access your Gmail",
-    "link": "https://www.malwarebytes.com/blog/news/2026/07/claude-for-chrome-flaw-could-let-rogue-extensions-access-your-gmail",
-    "published": "Wed, 15 Jul 2026 14:25:53 GMT",
-    "summary": "The ClaudeBleed vulnerability still lets malicious Chrome extensions abuse Claude for Chrome's permissions.",
-    "analysis": {
-      "issue": "First reported in May, ClaudeBleed is basically a “fake remote control” problem",
       "solution": null,
       "cause": null,
       "timeline": null,
