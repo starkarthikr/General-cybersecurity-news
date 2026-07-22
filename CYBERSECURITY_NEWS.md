@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-21 17:53:26 UTC
+**Last Updated:** 2026-07-22 03:17:59 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code](https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html)
+### 1. [Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs](https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 22 Jul 2026 00:16:32 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code](https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 21 Jul 2026 21:36:12 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities](https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html)
+### 3. [Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities](https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 21 Jul 2026 20:39:28 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC](https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html)
+### 4. [Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC](https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 21 Jul 2026 20:27:51 +0530  
@@ -32,7 +41,7 @@
 
 ---
 
-### 4. [Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access](https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html)
+### 5. [Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access](https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 21 Jul 2026 19:34:57 +0530  
@@ -42,7 +51,7 @@
 
 ---
 
-### 5. [Zimbra Patches Critical SNMP Command Injection and Four XSS Vulnerabilities](https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html)
+### 6. [Zimbra Patches Critical SNMP Command Injection and Four XSS Vulnerabilities](https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 21 Jul 2026 18:48:31 +0530  
@@ -52,7 +61,7 @@
 
 ---
 
-### 6. [Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs](https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html)
+### 7. [Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs](https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 21 Jul 2026 17:28:00 +0530  
@@ -61,7 +70,7 @@
 
 ---
 
-### 7. [N-day is Becoming N-Hour. Patching Faster Won't Save You.](https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html)
+### 8. [N-day is Becoming N-Hour. Patching Faster Won't Save You.](https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 21 Jul 2026 17:12:23 +0530  
@@ -70,7 +79,7 @@
 
 ---
 
-### 8. [New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit](https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html)
+### 9. [New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit](https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 21 Jul 2026 16:54:50 +0530  
@@ -79,7 +88,7 @@
 
 ---
 
-### 9. [WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning](https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html)
+### 10. [WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning](https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 21 Jul 2026 14:29:30 +0530  
@@ -88,27 +97,54 @@
 
 ---
 
-### 10. [New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack](https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html)
+### 11. [Police dismantle Kratos phishing platform, arrest developer](https://www.bleepingcomputer.com/news/security/police-dismantle-kratos-phishing-platform-arrest-developer/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 21 Jul 2026 13:04:32 +0530  
+**Source:** Bleeping Computer  
+**Published:** Tue, 21 Jul 2026 19:07:33 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2025-3248  
-**Categories:** Ransomware, Vulnerability  
+**Categories:** Phishing  
 
 ---
 
-### 11. [Critical wp2shell WordPress flaws exploited to install webshells](https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/)
+### 12. [FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware](https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 21 Jul 2026 18:34:17 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 13. [Critical SharePoint RCE flaw exploited to steal machine keys](https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 21 Jul 2026 16:06:55 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-50522  
+**Categories:** Vulnerability, APT  
+
+---
+
+### 14. [Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak](https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 21 Jul 2026 14:50:54 -0400  
+**Severity:** Low  
+**Categories:** Ransomware  
+
+---
+
+### 15. [Critical wp2shell WordPress flaws exploited to install webshells](https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 21 Jul 2026 12:41:50 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-63030, CVE-2026-60137  
+**CVEs:** CVE-2026-60137, CVE-2026-63030  
 **Categories:** Vulnerability  
 
 ---
 
-### 12. [Closing the Identity Gaps in Critical Infrastructure Security](https://www.bleepingcomputer.com/news/security/closing-the-identity-gaps-in-critical-infrastructure-security/)
+### 16. [Closing the Identity Gaps in Critical Infrastructure Security](https://www.bleepingcomputer.com/news/security/closing-the-identity-gaps-in-critical-infrastructure-security/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 21 Jul 2026 10:00:10 -0400  
@@ -117,7 +153,7 @@
 
 ---
 
-### 13. [US seizes over 1,000 websites in FIFA World Cup piracy crackdown](https://www.bleepingcomputer.com/news/security/us-seizes-over-1-000-fifa-world-cup-illegal-streaming-domains/)
+### 17. [US seizes over 1,000 websites in FIFA World Cup piracy crackdown](https://www.bleepingcomputer.com/news/security/us-seizes-over-1-000-fifa-world-cup-illegal-streaming-domains/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 21 Jul 2026 07:07:07 -0400  
@@ -126,7 +162,7 @@
 
 ---
 
-### 14. [Critical Palo Alto VPN bug now exploited by Qilin ransomware gang](https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/)
+### 18. [Critical Palo Alto VPN bug now exploited by Qilin ransomware gang](https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 21 Jul 2026 06:12:24 -0400  
@@ -136,7 +172,7 @@
 
 ---
 
-### 15. [Microsoft shares manual fix for WSUS sync delays and timeouts](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/)
+### 19. [Microsoft shares manual fix for WSUS sync delays and timeouts](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 21 Jul 2026 05:05:50 -0400  
@@ -145,7 +181,7 @@
 
 ---
 
-### 16. [Windows LegacyHive zero-day flaw gets free, unofficial patches](https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/)
+### 20. [Windows LegacyHive zero-day flaw gets free, unofficial patches](https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 21 Jul 2026 04:06:26 -0400  
@@ -154,55 +190,26 @@
 
 ---
 
-### 17. [Estée Lauder discloses data breach via Oracle E-Business flaw](https://www.bleepingcomputer.com/news/security/est-e-lauder-discloses-data-breach-via-oracle-e-business-flaw/)
+### 21. [LG to Ban Residential Proxies from Smart TV Apps](https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/)
 
-**Source:** Bleeping Computer  
-**Published:** Mon, 20 Jul 2026 18:39:30 -0400  
-**Severity:** Low  
-**CVEs:** CVE-2025-61882  
-**Categories:** Data Breach, Vulnerability  
-
----
-
-### 18. [SonicWall SMA1000 flaws exploited as zero-days to push custom malware](https://www.bleepingcomputer.com/news/security/sonicwall-sma1000-flaws-exploited-as-zero-days-to-push-custom-malware/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 20 Jul 2026 18:23:23 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-15409, CVE-2026-15410  
-**Categories:** Vulnerability, Malware  
-
----
-
-### 19. [Hackers steal $23.7 million in crypto from Ostium in off-chain attack](https://www.bleepingcomputer.com/news/security/hackers-steal-237-million-in-crypto-from-ostium-in-off-chain-attack/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 20 Jul 2026 18:22:56 -0400  
+**Source:** Krebs On Security  
+**Published:** Wed, 22 Jul 2026 01:10:38 +0000  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 20. [Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes](https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 20 Jul 2026 17:14:42 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 21. [Microsoft Patches a Record 570 Security Flaws](https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/)
+### 22. [Microsoft Patches a Record 570 Security Flaws](https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48561, CVE-2026-50661, CVE-2026-56155, CVE-2026-56164  
+**CVEs:** CVE-2026-56155, CVE-2026-48561, CVE-2026-50661, CVE-2026-56164  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 22. [Lessons Learned from CISA’s Recent GitHub Leak](https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/)
+### 23. [Lessons Learned from CISA’s Recent GitHub Leak](https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 13 Jul 2026 15:03:28 +0000  
@@ -211,7 +218,7 @@
 
 ---
 
-### 23. [Felons, Fraudsters Flog Offensive Cybersecurity Startup](https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/)
+### 24. [Felons, Fraudsters Flog Offensive Cybersecurity Startup](https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 08 Jul 2026 12:31:39 +0000  
@@ -220,7 +227,7 @@
 
 ---
 
-### 24. [FBI Seizes NetNut Proxy Platform, Popa Botnet](https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/)
+### 25. [FBI Seizes NetNut Proxy Platform, Popa Botnet](https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 02 Jul 2026 19:27:33 +0000  
@@ -229,7 +236,7 @@
 
 ---
 
-### 25. [Scattered Spider Hackers Plead Guilty on Day 1 of Trial](https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/)
+### 26. [Scattered Spider Hackers Plead Guilty on Day 1 of Trial](https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 23 Jun 2026 16:12:49 +0000  
@@ -238,7 +245,7 @@
 
 ---
 
-### 26. [‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm](https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/)
+### 27. [‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm](https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 18 Jun 2026 17:37:58 +0000  
@@ -247,7 +254,7 @@
 
 ---
 
-### 27. [Who Runs the Ransomware Group ‘The Gentlemen?’](https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/)
+### 28. [Who Runs the Ransomware Group ‘The Gentlemen?’](https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 10 Jun 2026 14:03:44 +0000  
@@ -256,17 +263,17 @@
 
 ---
 
-### 28. [A Record-Breaking Patch Tuesday for June 2026](https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/)
+### 29. [A Record-Breaking Patch Tuesday for June 2026](https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50507, CVE-2026-49160, CVE-2026-45586  
+**CVEs:** CVE-2026-50507, CVE-2026-45586, CVE-2026-49160  
 **Categories:** Vulnerability, DDoS  
 
 ---
 
-### 29. [Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts](https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/)
+### 30. [Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts](https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 01 Jun 2026 17:32:50 +0000  
@@ -275,16 +282,16 @@
 
 ---
 
-### 30. [Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks](https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/)
+### 31. [Trump Orders Defense Contractors to Map Software, Suppliers Across Critical Supply Chains](https://www.securityweek.com/trump-orders-defense-contractors-to-map-software-suppliers-across-critical-supply-chains/)
 
-**Source:** Krebs On Security  
-**Published:** Mon, 25 May 2026 13:21:49 +0000  
-**Severity:** Low  
-**Categories:** Data Breach, APT, DDoS  
+**Source:** Security Week  
+**Published:** Tue, 21 Jul 2026 18:16:09 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, Supply Chain  
 
 ---
 
-### 31. [Cisco Launches Low-Cost AI Models for Source Code Security](https://www.securityweek.com/cisco-launches-low-cost-ai-models-for-source-code-security/)
+### 32. [Cisco Launches Low-Cost AI Models for Source Code Security](https://www.securityweek.com/cisco-launches-low-cost-ai-models-for-source-code-security/)
 
 **Source:** Security Week  
 **Published:** Tue, 21 Jul 2026 17:44:33 +0000  
@@ -293,7 +300,7 @@
 
 ---
 
-### 32. [Empirical Security Raises $25 Million in Series A Funding](https://www.securityweek.com/empirical-security-raises-25-million-in-series-a-funding/)
+### 33. [Empirical Security Raises $25 Million in Series A Funding](https://www.securityweek.com/empirical-security-raises-25-million-in-series-a-funding/)
 
 **Source:** Security Week  
 **Published:** Tue, 21 Jul 2026 12:47:18 +0000  
@@ -302,7 +309,7 @@
 
 ---
 
-### 33. [SecurityWeek Launches Critical Impact Awards to Recognize Excellence in Industrial Cybersecurity](https://www.securityweek.com/securityweek-launches-critical-impact-awards-to-recognize-excellence-in-industrial-cybersecurity/)
+### 34. [SecurityWeek Launches Critical Impact Awards to Recognize Excellence in Industrial Cybersecurity](https://www.securityweek.com/securityweek-launches-critical-impact-awards-to-recognize-excellence-in-industrial-cybersecurity/)
 
 **Source:** Security Week  
 **Published:** Tue, 21 Jul 2026 12:30:00 +0000  
@@ -311,7 +318,7 @@
 
 ---
 
-### 34. [New HollowGraph Malware Abuses Microsoft 365 Calendar for C&C Communication](https://www.securityweek.com/new-hollowgraph-malware-abuses-microsoft-365-calendar-for-cc-communication/)
+### 35. [New HollowGraph Malware Abuses Microsoft 365 Calendar for C&C Communication](https://www.securityweek.com/new-hollowgraph-malware-abuses-microsoft-365-calendar-for-cc-communication/)
 
 **Source:** Security Week  
 **Published:** Tue, 21 Jul 2026 11:55:28 +0000  
@@ -320,7 +327,7 @@
 
 ---
 
-### 35. [CISO Conversations: Andreas Gaetje – From Economics to CISO at Körber AG](https://www.securityweek.com/ciso-conversations-andreas-gaetje-from-economics-to-ciso-at-korber-ag/)
+### 36. [CISO Conversations: Andreas Gaetje – From Economics to CISO at Körber AG](https://www.securityweek.com/ciso-conversations-andreas-gaetje-from-economics-to-ciso-at-korber-ag/)
 
 **Source:** Security Week  
 **Published:** Tue, 21 Jul 2026 11:30:00 +0000  
@@ -329,7 +336,7 @@
 
 ---
 
-### 36. [Estée Lauder Discloses Impact From Oracle EBS Zero-Day Hack](https://www.securityweek.com/estee-lauder-discloses-impact-from-oracle-ebs-zero-day-hack/)
+### 37. [Estée Lauder Discloses Impact From Oracle EBS Zero-Day Hack](https://www.securityweek.com/estee-lauder-discloses-impact-from-oracle-ebs-zero-day-hack/)
 
 **Source:** Security Week  
 **Published:** Tue, 21 Jul 2026 11:12:33 +0000  
@@ -339,7 +346,7 @@
 
 ---
 
-### 37. [Meta Paid $78,000 Bounty for Vulnerability Exposing Customer Support Data](https://www.securityweek.com/meta-pays-78000-bounty-for-vulnerability-exposing-customer-support-data/)
+### 38. [Meta Paid $78,000 Bounty for Vulnerability Exposing Customer Support Data](https://www.securityweek.com/meta-pays-78000-bounty-for-vulnerability-exposing-customer-support-data/)
 
 **Source:** Security Week  
 **Published:** Tue, 21 Jul 2026 10:19:21 +0000  
@@ -348,7 +355,7 @@
 
 ---
 
-### 38. [Clover Health Investments Discloses Data Breach](https://www.securityweek.com/clover-health-investments-discloses-data-breach/)
+### 39. [Clover Health Investments Discloses Data Breach](https://www.securityweek.com/clover-health-investments-discloses-data-breach/)
 
 **Source:** Security Week  
 **Published:** Tue, 21 Jul 2026 09:36:51 +0000  
@@ -357,23 +364,13 @@
 
 ---
 
-### 39. [Exploitation of ServiceNow Vulnerability Seen Days After Disclosure](https://www.securityweek.com/exploitation-of-servicenow-vulnerability-seen-days-after-disclosure/)
+### 40. [Exploitation of ServiceNow Vulnerability Seen Days After Disclosure](https://www.securityweek.com/exploitation-of-servicenow-vulnerability-seen-days-after-disclosure/)
 
 **Source:** Security Week  
 **Published:** Tue, 21 Jul 2026 08:41:53 +0000  
 **Severity:** Critical  
 **CVEs:** CVE-2026-6875  
 **Categories:** Vulnerability, Malware, APT  
-
----
-
-### 40. [Zimbra Update Patches Critical Vulnerabilities](https://www.securityweek.com/zimbra-update-patches-critical-vulnerabilities/)
-
-**Source:** Security Week  
-**Published:** Tue, 21 Jul 2026 08:20:08 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-50054, CVE-2026-50055, CVE-2026-10631  
-**Categories:** Vulnerability, Malware  
 
 ---
 
@@ -409,7 +406,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Jul 2026 20:27:33 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-55043, CVE-2026-55944, CVE-2026-55033, CVE-2026-55049, CVE-2026-50518, CVE-2026-56188, CVE-2026-54128, CVE-2026-55120, CVE-2026-58644, CVE-2026-55022, CVE-2026-55018, CVE-2026-55010, CVE-2026-55127, CVE-2026-56155, CVE-2026-56164, CVE-2026-55132, CVE-2026-55129, CVE-2026-50370, CVE-2026-55056, CVE-2026-50314, CVE-2026-55140, CVE-2026-54992, CVE-2026-50655, CVE-2026-50522, CVE-2026-55045, CVE-2026-50327, CVE-2026-55123, CVE-2026-50467  
+**CVEs:** CVE-2026-56164, CVE-2026-50655, CVE-2026-55056, CVE-2026-55132, CVE-2026-55049, CVE-2026-50327, CVE-2026-55140, CVE-2026-55129, CVE-2026-55045, CVE-2026-54128, CVE-2026-56188, CVE-2026-50518, CVE-2026-55033, CVE-2026-55018, CVE-2026-50314, CVE-2026-50370, CVE-2026-58644, CVE-2026-55944, CVE-2026-55043, CVE-2026-54992, CVE-2026-55127, CVE-2026-55123, CVE-2026-50467, CVE-2026-55120, CVE-2026-55010, CVE-2026-55022, CVE-2026-56155, CVE-2026-50522  
 **Categories:** Vulnerability  
 
 ---
@@ -437,7 +434,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 09 Jul 2026 18:52:29 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-28739, CVE-2026-33091, CVE-2026-25106  
+**CVEs:** CVE-2026-25106, CVE-2026-33091, CVE-2026-28739  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
