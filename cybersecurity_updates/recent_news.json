@@ -1,6 +1,78 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA",
+    "link": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
+    "published": "Wed, 22 Jul 2026 12:08:45 +0530",
+    "summary": "German and US law enforcement have taken down the core infrastructure of Kratos, described by German investigators as one of the world's most widely used criminal phishing kits, and Indonesian authorities arrested the man they say developed and ran it.\n\nIn a joint announcement on Monday, the Frankfurt public prosecutor's cybercrime unit (ZIT) and Germany's Federal Criminal Police Office (BKA)",
+    "analysis": {
+      "issue": "Authorities seize 200 Kratos servers and arrest its alleged developer and operator; investigators estimate 15,000 campaigns ran monthly",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library",
+    "link": "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html",
+    "published": "Wed, 22 Jul 2026 11:30:06 +0530",
+    "summary": "Cybersecurity researchers have discovered a NuGet typosquat that's unlike the typical information-stealing malware distributed via package registries: usual info-stealers: it's designed to rig live game results on Digitain.\n\nThe package, named \"Newtonsoftt.Json.Net,\" masquerades as the Newtonsoft.Json library and is a trojanized fork. Seven versions of the package have been published to the",
+    "analysis": {
+      "issue": "A trojanized NuGet typosquat targets Digitain's FG-Crash backend, rigs live game results, and later versions exfiltrate them as fake telemetry",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents",
+    "link": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html",
+    "published": "Wed, 22 Jul 2026 10:27:52 +0530",
+    "summary": "A single invisible comment in an Azure DevOps pull request can turn a reviewer's own AI coding agent against them, driving it into projects the attacker has no rights to reach and quietly leaking what it finds.\n\nThe flaw is in Microsoft's official Azure DevOps MCP server, and it works because one of its tools returns pull request descriptions without a prompt-injection guardrail the company had",
+    "analysis": {
+      "issue": "A hidden Azure DevOps PR comment can steer a reviewer’s AI agent into other projects and expose source code, secrets, and work items",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
+    "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
+    "published": "Wed, 22 Jul 2026 09:48:33 +0530",
+    "summary": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugging Face's production infrastructure last week.\n\nThe AI company said the models were operating with \"reduced cyber refusals for evaluation purposes\" that might otherwise limit their ability to",
+    "analysis": {
+      "issue": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark | Read more hacking news on The Hacker News cybersecurity news website and learn how to protect against cyberattacks and software vulnerabilities",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
     "link": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
     "published": "Wed, 22 Jul 2026 00:16:32 +0530",
@@ -115,71 +187,36 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs",
-    "link": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html",
-    "published": "Tue, 21 Jul 2026 17:28:00 +0530",
-    "summary": "An Android app that can draw over other windows and write to shared storage can slip instructions to the AI agent driving that phone, in text no human eye will ever see. Two more steps, and the same app is running commands on the PC driving the agent.\n\nResearchers demonstrated that chain, plus six other attacks, against five open-source mobile agent frameworks: AppAgent, AppAgentX,",
+    "source": "Bleeping Computer",
+    "title": "Chick-fil-A discloses data breach after credential stuffing attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/",
+    "published": "Wed, 22 Jul 2026 02:40:29 -0400",
+    "summary": "American fast food restaurant chain Chick-fil-A is notifying customers of a data breach after their accounts were hacked in a wave of recent credential stuffing attacks. [...]",
     "analysis": {
-      "issue": "Open-source Android AI agents can turn hidden screen text into host commands, and all five tested frameworks failed at least six lab attacks",
+      "issue": "American fast food restaurant chain Chick-fil-A is notifying an undisclosed number of customers of a data breach after their accounts were hacked in a wave of recent credential stuffing attacks",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Data Breach",
+        "Supply Chain"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "N-day is Becoming N-Hour. Patching Faster Won't Save You.",
-    "link": "https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html",
-    "published": "Tue, 21 Jul 2026 17:12:23 +0530",
-    "summary": "Every patch is a confession.\n\nThe moment a vendor ships a security fix, the diff between the old code and the new code tells anyone watching exactly what was broken and where. Turn that diff back into a working exploit, and you can hit every system that hasn't updated yet. This is N-day exploitation, and it's always been a race: the vendor patches, the clock starts, and defenders try to deploy",
+    "source": "Bleeping Computer",
+    "title": "OpenAI says its AI models hacked Hugging Face during testing",
+    "link": "https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing/",
+    "published": "Wed, 22 Jul 2026 01:19:20 -0400",
+    "summary": "OpenAI says its AI models, including GPT‑5.6 Sol and a pre-release model, hacked into the Hugging Face artificial intelligence repository while being tested in a sandboxed testing environment. [...]",
     "analysis": {
-      "issue": "Claude Mythos turns a Firefox patch into a working exploit within an hour, collapsing an N-day window once measured in weeks",
+      "issue": "OpenAI says its AI models, including GPT‑5",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit",
-    "link": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html",
-    "published": "Tue, 21 Jul 2026 16:54:50 +0530",
-    "summary": "A cloud tenant using nothing but ordinary GPU access can push a data center's power draw up and down fast enough to threaten the grid it runs on, with no exploit and no break-in.\n\nThat is the claim behind Bit2Watt, described by three Zhejiang University researchers in a paper accepted to CHES 2026, the IACR's hardware-security conference, and the evidence splits in two: they measured the power",
-    "analysis": {
-      "issue": "Bit2Watt uses ordinary cloud GPU workloads to modulate power, with worst-case simulations showing grid instability across 1,000 synchronized GPUs",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
-    "link": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html",
-    "published": "Tue, 21 Jul 2026 14:29:30 +0530",
-    "summary": "Attackers have begun to exploit two critical vulnerabilities in WordPress that, when combined together, enable unauthenticated remote code execution (RCE) and complete compromise of vulnerable websites.\n\nThe two security flaws, tracked as CVE-2026-63030 and CVE-2026-60137, have been codenamed wp2shell.\n\n\"By the early hours of Saturday morning (UTC), successful exploitation was already well",
-    "analysis": {
-      "issue": "Attackers are exploiting two WordPress flaws as wp2shell, chaining them for unauthenticated RCE and deploying web shells and malicious plugins",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
         "Vulnerability"
@@ -274,8 +311,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-60137",
-        "CVE-2026-63030"
+        "CVE-2026-63030",
+        "CVE-2026-60137"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -343,42 +380,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Microsoft shares manual fix for WSUS sync delays and timeouts",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/",
-    "published": "Tue, 21 Jul 2026 05:05:50 -0400",
-    "summary": "Microsoft has shared manual mitigations to help IT administrators fix Windows Server Update Services (WSUS) servers affected by a known issue that causes Windows Update scans to fail or time out. [...]",
-    "analysis": {
-      "issue": "Microsoft has shared manual mitigations to help IT administrators fix Windows Server Update Services (WSUS) servers affected by a known issue that causes Windows Update scans to fail or time out",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Windows LegacyHive zero-day flaw gets free, unofficial patches",
-    "link": "https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/",
-    "published": "Tue, 21 Jul 2026 04:06:26 -0400",
-    "summary": "Free unofficial patches are available for a recently disclosed Windows zero-day flaw that allows attackers to escalate privileges on up-to-date Windows systems. [...]",
-    "analysis": {
-      "issue": "Free unofficial patches are available for a recently disclosed Windows zero-day flaw that allows attackers to escalate privileges on up-to-date Windows systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "LG to Ban Residential Proxies from Smart TV Apps",
     "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
@@ -409,10 +410,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50661",
         "CVE-2026-56164",
-        "CVE-2026-56155",
-        "CVE-2026-48561"
+        "CVE-2026-48561",
+        "CVE-2026-50661",
+        "CVE-2026-56155"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -546,8 +547,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50507",
         "CVE-2026-45586",
+        "CVE-2026-50507",
         "CVE-2026-49160"
       ],
       "threat_categories": [
@@ -571,6 +572,83 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Endpoint Security Firm Glow Launches With $180M in Funding at $1.2B Valuation",
+    "link": "https://www.securityweek.com/endpoint-security-firm-glow-launches-with-180m-in-funding-at-1-2b-valuation/",
+    "published": "Wed, 22 Jul 2026 10:00:00 +0000",
+    "summary": "<p>Using AI, the startup provides adaptive prevention through environment mapping, risk analysis, and automated policy enforcement.</p>\n<p>The post <a href=\"https://www.securityweek.com/endpoint-security-firm-glow-launches-with-180m-in-funding-at-1-2b-valuation/\">Endpoint Security Firm Glow Launches With $180M in Funding at $1.2B Valuation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Using AI, the startup provides adaptive prevention through environment mapping, risk analysis, and automated policy enforcement",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Oracle Patches Over 1,400 Vulnerabilities With Quarterly Security Updates",
+    "link": "https://www.securityweek.com/oracle-patches-over-1400-vulnerabilities-with-quarterly-security-updates/",
+    "published": "Wed, 22 Jul 2026 09:33:12 +0000",
+    "summary": "<p>Many of the vulnerabilities fixed with the July 2026 Critical Patch Update were likely discovered by AI.</p>\n<p>The post <a href=\"https://www.securityweek.com/oracle-patches-over-1400-vulnerabilities-with-quarterly-security-updates/\">Oracle Patches Over 1,400 Vulnerabilities With Quarterly Security Updates</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Many of the vulnerabilities fixed with the July 2026 Critical Patch Update were likely discovered by AI",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Ransomware Group Threatening to Leak Data Stolen From Coca-Cola’s Fairlife",
+    "link": "https://www.securityweek.com/ransomware-group-threatening-to-leak-data-stolen-from-coca-colas-fairlife/",
+    "published": "Wed, 22 Jul 2026 08:32:02 +0000",
+    "summary": "<p>The Anubis ransomware group claims to have stolen 1 TB of confidential data from the Coca-Cola subsidiary.</p>\n<p>The post <a href=\"https://www.securityweek.com/ransomware-group-threatening-to-leak-data-stolen-from-coca-colas-fairlife/\">Ransomware Group Threatening to Leak Data Stolen From Coca-Cola&#8217;s Fairlife</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The Anubis ransomware group claims to have stolen 1 TB of confidential data from the Coca-Cola subsidiary",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "OpenAI Says Its AI Models Broke Loose and Hacked Hugging Face",
+    "link": "https://www.securityweek.com/openai-says-its-ai-models-broke-loose-and-hacked-hugging-face/",
+    "published": "Wed, 22 Jul 2026 07:48:49 +0000",
+    "summary": "<p>OpenAI says its AI models went rogue, as CISOS call the incident a watershed moment, warning that autonomous AI threat models have officially crossed into production reality.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-says-its-ai-models-broke-loose-and-hacked-hugging-face/\">OpenAI Says Its AI Models Broke Loose and Hacked Hugging Face </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "OpenAI says its AI models went rogue, as CISOS call the incident a watershed moment, warning that autonomous AI threat models have officially crossed into production reality",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
       ]
     }
   },
@@ -686,88 +764,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Estée Lauder Discloses Impact From Oracle EBS Zero-Day Hack",
-    "link": "https://www.securityweek.com/estee-lauder-discloses-impact-from-oracle-ebs-zero-day-hack/",
-    "published": "Tue, 21 Jul 2026 11:12:33 +0000",
-    "summary": "<p>Hackers exfiltrated personal, financial, and health information from the company’s Oracle EBS instance in August 2025.</p>\n<p>The post <a href=\"https://www.securityweek.com/estee-lauder-discloses-impact-from-oracle-ebs-zero-day-hack/\">Estée Lauder Discloses Impact From Oracle EBS Zero-Day Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Hackers exfiltrated personal, financial, and health information from the company’s Oracle EBS instance in August 2025",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2025-61882"
-      ],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Meta Paid $78,000 Bounty for Vulnerability Exposing Customer Support Data",
-    "link": "https://www.securityweek.com/meta-pays-78000-bounty-for-vulnerability-exposing-customer-support-data/",
-    "published": "Tue, 21 Jul 2026 10:19:21 +0000",
-    "summary": "<p>A security researcher discovered a broken access control vulnerability in Meta’s support infrastructure.</p>\n<p>The post <a href=\"https://www.securityweek.com/meta-pays-78000-bounty-for-vulnerability-exposing-customer-support-data/\">Meta Paid $78,000 Bounty for Vulnerability Exposing Customer Support Data</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "A security researcher discovered a broken access control vulnerability in Meta’s support infrastructure",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Clover Health Investments Discloses Data Breach",
-    "link": "https://www.securityweek.com/clover-health-investments-discloses-data-breach/",
-    "published": "Tue, 21 Jul 2026 09:36:51 +0000",
-    "summary": "<p>Using social engineering, hackers compromised employee accounts with access to personal and health information.</p>\n<p>The post <a href=\"https://www.securityweek.com/clover-health-investments-discloses-data-breach/\">Clover Health Investments Discloses Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Using social engineering, hackers compromised employee accounts with access to personal and health information",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Exploitation of ServiceNow Vulnerability Seen Days After Disclosure",
-    "link": "https://www.securityweek.com/exploitation-of-servicenow-vulnerability-seen-days-after-disclosure/",
-    "published": "Tue, 21 Jul 2026 08:41:53 +0000",
-    "summary": "<p>The ServiceNow AI platform vulnerability tracked as CVE-2026-6875 can be exploited for remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/exploitation-of-servicenow-vulnerability-seen-days-after-disclosure/\">Exploitation of ServiceNow Vulnerability Seen Days After Disclosure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The ServiceNow AI platform vulnerability tracked as CVE-2026-6875 can be exploited for remote code execution",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-6875"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Begun, the Patch Wars have",
     "link": "https://blog.talosintelligence.com/begun-the-patch-wars-have/",
@@ -835,34 +831,34 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56188",
+        "CVE-2026-50370",
+        "CVE-2026-55018",
         "CVE-2026-56164",
-        "CVE-2026-54128",
-        "CVE-2026-50327",
-        "CVE-2026-55056",
+        "CVE-2026-55944",
         "CVE-2026-55049",
-        "CVE-2026-50314",
-        "CVE-2026-55120",
-        "CVE-2026-55022",
+        "CVE-2026-55056",
+        "CVE-2026-54992",
         "CVE-2026-55123",
-        "CVE-2026-55132",
+        "CVE-2026-55127",
+        "CVE-2026-55022",
         "CVE-2026-55043",
+        "CVE-2026-50518",
+        "CVE-2026-55120",
+        "CVE-2026-55140",
+        "CVE-2026-50314",
         "CVE-2026-55010",
-        "CVE-2026-58644",
+        "CVE-2026-55129",
+        "CVE-2026-55033",
+        "CVE-2026-54128",
+        "CVE-2026-50522",
+        "CVE-2026-50327",
         "CVE-2026-50655",
         "CVE-2026-50467",
-        "CVE-2026-50522",
-        "CVE-2026-55018",
-        "CVE-2026-55033",
-        "CVE-2026-55129",
+        "CVE-2026-56188",
         "CVE-2026-56155",
-        "CVE-2026-54992",
-        "CVE-2026-50370",
-        "CVE-2026-55140",
-        "CVE-2026-55127",
+        "CVE-2026-55132",
         "CVE-2026-55045",
-        "CVE-2026-50518",
-        "CVE-2026-55944"
+        "CVE-2026-58644"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -922,8 +918,8 @@
       "severity": "Low",
       "cves": [
         "CVE-2026-33091",
-        "CVE-2026-28739",
-        "CVE-2026-25106"
+        "CVE-2026-25106",
+        "CVE-2026-28739"
       ],
       "threat_categories": [
         "Vulnerability",
