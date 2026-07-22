@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-22 14:08:24 UTC
+**Last Updated:** 2026-07-22 17:49:02 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,34 @@
 
 ---
 
-### 11. [Adobe Chrome extension flaw let sites access private WhatsApp chats](https://www.bleepingcomputer.com/news/security/adobe-chrome-extension-flaw-let-sites-access-private-whatsapp-chats/)
+### 11. [Swiss rail giant Stadler rejects $12.3M ransom demand after cyberattack](https://www.bleepingcomputer.com/news/security/swiss-rail-giant-stadler-rejects-123m-ransom-demand-after-cyberattack/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 22 Jul 2026 12:59:17 -0400  
+**Severity:** Low  
+**Categories:** Ransomware  
+
+---
+
+### 12. [How enterprise GenAI can amplify ransomware risk — and how to contain it](https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 22 Jul 2026 11:30:00 -0400  
+**Severity:** Low  
+**Categories:** Ransomware  
+
+---
+
+### 13. [New InfraTrust report reveals infrastructure flaws admins should patch first](https://www.bleepingcomputer.com/news/security/new-infratrust-report-reveals-infrastructure-flaws-admins-should-patch-first/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 22 Jul 2026 10:15:00 -0400  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 14. [Adobe Chrome extension flaw let sites access private WhatsApp chats](https://www.bleepingcomputer.com/news/security/adobe-chrome-extension-flaw-let-sites-access-private-whatsapp-chats/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 22 Jul 2026 09:22:20 -0400  
@@ -105,7 +132,7 @@
 
 ---
 
-### 12. [CISA orders urgent action on actively exploited Langflow RCE flaw](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-langflow-rce-flaw/)
+### 15. [CISA orders urgent action on actively exploited Langflow RCE flaw](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-langflow-rce-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 22 Jul 2026 07:43:28 -0400  
@@ -115,7 +142,7 @@
 
 ---
 
-### 13. [Stop renting storage space — this lifetime 2TB plan is yours for $59](https://www.bleepingcomputer.com/news/security/stop-renting-storage-space-this-lifetime-2tb-plan-is-yours-for-59/)
+### 16. [Stop renting storage space — this lifetime 2TB plan is yours for $59](https://www.bleepingcomputer.com/news/security/stop-renting-storage-space-this-lifetime-2tb-plan-is-yours-for-59/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 22 Jul 2026 07:09:16 -0400  
@@ -124,7 +151,7 @@
 
 ---
 
-### 14. [Microsoft to stop Exchange 2016 / 2019 security updates in October](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-esu-program-ends-in-october/)
+### 17. [Microsoft to stop Exchange 2016 / 2019 security updates in October](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-esu-program-ends-in-october/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 22 Jul 2026 06:44:52 -0400  
@@ -133,7 +160,7 @@
 
 ---
 
-### 15. [Chick-fil-A discloses data breach after credential stuffing attacks](https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/)
+### 18. [Chick-fil-A discloses data breach after credential stuffing attacks](https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 22 Jul 2026 02:40:29 -0400  
@@ -142,7 +169,7 @@
 
 ---
 
-### 16. [OpenAI says its AI models hacked Hugging Face during testing](https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing/)
+### 19. [OpenAI says its AI models hacked Hugging Face during testing](https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 22 Jul 2026 01:19:20 -0400  
@@ -151,40 +178,12 @@
 
 ---
 
-### 17. [Police dismantle Kratos phishing platform, arrest developer](https://www.bleepingcomputer.com/news/security/police-dismantle-kratos-phishing-platform-arrest-developer/)
+### 20. [Police dismantle Kratos phishing platform, arrest developer](https://www.bleepingcomputer.com/news/security/police-dismantle-kratos-phishing-platform-arrest-developer/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 21 Jul 2026 19:07:33 -0400  
 **Severity:** Low  
 **Categories:** Phishing  
-
----
-
-### 18. [FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware](https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 21 Jul 2026 18:34:17 -0400  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 19. [Critical SharePoint RCE flaw exploited to steal machine keys](https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 21 Jul 2026 16:06:55 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-50522  
-**Categories:** Vulnerability, APT  
-
----
-
-### 20. [Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak](https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 21 Jul 2026 14:50:54 -0400  
-**Severity:** Low  
-**Categories:** Ransomware  
 
 ---
 
@@ -202,7 +201,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56155, CVE-2026-50661, CVE-2026-48561, CVE-2026-56164  
+**CVEs:** CVE-2026-56155, CVE-2026-48561, CVE-2026-56164, CVE-2026-50661  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -280,7 +279,35 @@
 
 ---
 
-### 31. [When Identity Verification Fails: Lessons from a Real-World SIM Swap and Near Account Takeover](https://www.securityweek.com/when-identity-verification-fails-lessons-from-a-real-world-sim-swap-and-near-account-takeover/)
+### 31. [Suno, Paidwork Data Breaches Affect Tens of Millions of Accounts](https://www.securityweek.com/suno-paidwork-data-breaches-affect-tens-of-millions-of-accounts/)
+
+**Source:** Security Week  
+**Published:** Wed, 22 Jul 2026 15:02:11 +0000  
+**Severity:** Critical  
+**Categories:** Ransomware, Data Breach, Vulnerability  
+
+---
+
+### 32. [Palo Alto Networks to Acquire Observability Platform Provider Embrace](https://www.securityweek.com/palo-alto-networks-to-acquire-observability-platform-provider-embrace/)
+
+**Source:** Security Week  
+**Published:** Wed, 22 Jul 2026 14:58:53 +0000  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 33. [Flaw in Adobe Extension With 300M Installs Enabled WhatsApp Data Theft](https://www.securityweek.com/flaw-in-adobe-extension-with-300m-installs-enabled-whatsapp-data-theft/)
+
+**Source:** Security Week  
+**Published:** Wed, 22 Jul 2026 14:22:31 +0000  
+**Severity:** High  
+**CVEs:** CVE-2026-48294  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 34. [When Identity Verification Fails: Lessons from a Real-World SIM Swap and Near Account Takeover](https://www.securityweek.com/when-identity-verification-fails-lessons-from-a-real-world-sim-swap-and-near-account-takeover/)
 
 **Source:** Security Week  
 **Published:** Wed, 22 Jul 2026 14:00:00 +0000  
@@ -289,7 +316,7 @@
 
 ---
 
-### 32. [StrongestLayer Raises $4.1 Million in Seed Funding Extension](https://www.securityweek.com/strongestlayer-raises-4-1-million-in-seed-funding-extension/)
+### 35. [StrongestLayer Raises $4.1 Million in Seed Funding Extension](https://www.securityweek.com/strongestlayer-raises-4-1-million-in-seed-funding-extension/)
 
 **Source:** Security Week  
 **Published:** Wed, 22 Jul 2026 13:00:00 +0000  
@@ -298,7 +325,7 @@
 
 ---
 
-### 33. [Vibe-Coded Apps Riddled With Exploitable Security Flaws](https://www.securityweek.com/vibe-coded-apps-riddled-with-exploitable-security-flaws/)
+### 36. [Vibe-Coded Apps Riddled With Exploitable Security Flaws](https://www.securityweek.com/vibe-coded-apps-riddled-with-exploitable-security-flaws/)
 
 **Source:** Security Week  
 **Published:** Wed, 22 Jul 2026 13:00:00 +0000  
@@ -307,17 +334,17 @@
 
 ---
 
-### 34. [Fourth SharePoint Vulnerability Exploited in Past Month’s Wave of Attacks](https://www.securityweek.com/fourth-sharepoint-vulnerability-exploited-in-past-months-wave-of-attacks/)
+### 37. [Fourth SharePoint Vulnerability Exploited in Past Month’s Wave of Attacks](https://www.securityweek.com/fourth-sharepoint-vulnerability-exploited-in-past-months-wave-of-attacks/)
 
 **Source:** Security Week  
 **Published:** Wed, 22 Jul 2026 11:29:16 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50522, CVE-2026-58644, CVE-2026-56164, CVE-2026-45659  
+**CVEs:** CVE-2026-58644, CVE-2026-45659, CVE-2026-56164, CVE-2026-50522  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 35. [Endpoint Security Firm Glow Launches With $180M in Funding at $1.2B Valuation](https://www.securityweek.com/endpoint-security-firm-glow-launches-with-180m-in-funding-at-1-2b-valuation/)
+### 38. [Endpoint Security Firm Glow Launches With $180M in Funding at $1.2B Valuation](https://www.securityweek.com/endpoint-security-firm-glow-launches-with-180m-in-funding-at-1-2b-valuation/)
 
 **Source:** Security Week  
 **Published:** Wed, 22 Jul 2026 10:00:00 +0000  
@@ -326,7 +353,7 @@
 
 ---
 
-### 36. [Oracle Patches Over 1,400 Vulnerabilities With Quarterly Security Updates](https://www.securityweek.com/oracle-patches-over-1400-vulnerabilities-with-quarterly-security-updates/)
+### 39. [Oracle Patches Over 1,400 Vulnerabilities With Quarterly Security Updates](https://www.securityweek.com/oracle-patches-over-1400-vulnerabilities-with-quarterly-security-updates/)
 
 **Source:** Security Week  
 **Published:** Wed, 22 Jul 2026 09:33:12 +0000  
@@ -335,39 +362,12 @@
 
 ---
 
-### 37. [Ransomware Group Threatening to Leak Data Stolen From Coca-Cola’s Fairlife](https://www.securityweek.com/ransomware-group-threatening-to-leak-data-stolen-from-coca-colas-fairlife/)
+### 40. [Ransomware Group Threatening to Leak Data Stolen From Coca-Cola’s Fairlife](https://www.securityweek.com/ransomware-group-threatening-to-leak-data-stolen-from-coca-colas-fairlife/)
 
 **Source:** Security Week  
 **Published:** Wed, 22 Jul 2026 08:32:02 +0000  
 **Severity:** Critical  
 **Categories:** Ransomware, Data Breach, Vulnerability  
-
----
-
-### 38. [OpenAI Says Its AI Models Broke Loose and Hacked Hugging Face](https://www.securityweek.com/openai-says-its-ai-models-broke-loose-and-hacked-hugging-face/)
-
-**Source:** Security Week  
-**Published:** Wed, 22 Jul 2026 07:48:49 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, Supply Chain  
-
----
-
-### 39. [Trump Orders Defense Contractors to Map Software, Suppliers Across Critical Supply Chains](https://www.securityweek.com/trump-orders-defense-contractors-to-map-software-suppliers-across-critical-supply-chains/)
-
-**Source:** Security Week  
-**Published:** Tue, 21 Jul 2026 18:16:09 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, Supply Chain  
-
----
-
-### 40. [Cisco Launches Low-Cost AI Models for Source Code Security](https://www.securityweek.com/cisco-launches-low-cost-ai-models-for-source-code-security/)
-
-**Source:** Security Week  
-**Published:** Tue, 21 Jul 2026 17:44:33 +0000  
-**Severity:** High  
-**Categories:** Vulnerability  
 
 ---
 
@@ -403,7 +403,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Jul 2026 20:27:33 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56155, CVE-2026-50327, CVE-2026-55127, CVE-2026-50522, CVE-2026-55045, CVE-2026-50655, CVE-2026-54128, CVE-2026-55010, CVE-2026-54992, CVE-2026-58644, CVE-2026-55043, CVE-2026-55018, CVE-2026-55120, CVE-2026-55140, CVE-2026-55944, CVE-2026-50467, CVE-2026-55022, CVE-2026-56164, CVE-2026-55132, CVE-2026-55129, CVE-2026-50314, CVE-2026-50370, CVE-2026-50518, CVE-2026-55049, CVE-2026-55056, CVE-2026-55123, CVE-2026-55033, CVE-2026-56188  
+**CVEs:** CVE-2026-55043, CVE-2026-55018, CVE-2026-50467, CVE-2026-50314, CVE-2026-55056, CVE-2026-50655, CVE-2026-55010, CVE-2026-55022, CVE-2026-55045, CVE-2026-55127, CVE-2026-55140, CVE-2026-55033, CVE-2026-50522, CVE-2026-56188, CVE-2026-50327, CVE-2026-50518, CVE-2026-55120, CVE-2026-55944, CVE-2026-55129, CVE-2026-58644, CVE-2026-50370, CVE-2026-55132, CVE-2026-56155, CVE-2026-56164, CVE-2026-55049, CVE-2026-55123, CVE-2026-54128, CVE-2026-54992  
 **Categories:** Vulnerability  
 
 ---
@@ -431,7 +431,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 09 Jul 2026 18:52:29 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-25106, CVE-2026-28739, CVE-2026-33091  
+**CVEs:** CVE-2026-28739, CVE-2026-25106, CVE-2026-33091  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -464,7 +464,16 @@
 
 ---
 
-### 51. [Threat Hunting: A Guide | Recorded Future](https://www.recordedfuture.com/blog/cyber-threat-hunting)
+### 51. [Modern Attack Vectors | Recorded Future](https://www.recordedfuture.com/blog/modern-attack-vectors)
+
+**Source:** Recorded Future  
+**Published:** Wed, 22 Jul 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 52. [Threat Hunting: A Guide | Recorded Future](https://www.recordedfuture.com/blog/cyber-threat-hunting)
 
 **Source:** Recorded Future  
 **Published:** Mon, 20 Jul 2026 00:00:00 GMT  
@@ -473,7 +482,7 @@
 
 ---
 
-### 52. [Tracking Advanced Persistent Threat Groups | Recorded Future](https://www.recordedfuture.com/blog/tracking-advanced-persistent-threats)
+### 53. [Tracking Advanced Persistent Threat Groups | Recorded Future](https://www.recordedfuture.com/blog/tracking-advanced-persistent-threats)
 
 **Source:** Recorded Future  
 **Published:** Fri, 17 Jul 2026 00:00:00 GMT  
@@ -482,7 +491,7 @@
 
 ---
 
-### 53. [AI Has Enhanced Iran’s Asymmetric Playbook During the 2026 Conflict](https://www.recordedfuture.com/research/iran-ai-asymmetric-playbook)
+### 54. [AI Has Enhanced Iran’s Asymmetric Playbook During the 2026 Conflict](https://www.recordedfuture.com/research/iran-ai-asymmetric-playbook)
 
 **Source:** Recorded Future  
 **Published:** Thu, 16 Jul 2026 00:00:00 GMT  
@@ -491,7 +500,7 @@
 
 ---
 
-### 54. [The Shift: A New Era of AI Regulation](https://www.recordedfuture.com/blog/the-shift-new-era-ai)
+### 55. [The Shift: A New Era of AI Regulation](https://www.recordedfuture.com/blog/the-shift-new-era-ai)
 
 **Source:** Recorded Future  
 **Published:** Wed, 15 Jul 2026 00:00:00 GMT  
@@ -500,7 +509,7 @@
 
 ---
 
-### 55. [The FBI Warned About Fake Permit Fees. The Harder Question Is Where the Money Goes. | Recorded Future](https://www.recordedfuture.com/blog/fbi-fake-permit-fees)
+### 56. [The FBI Warned About Fake Permit Fees. The Harder Question Is Where the Money Goes. | Recorded Future](https://www.recordedfuture.com/blog/fbi-fake-permit-fees)
 
 **Source:** Recorded Future  
 **Published:** Tue, 14 Jul 2026 00:00:00 GMT  
@@ -509,7 +518,7 @@
 
 ---
 
-### 56. [June 2026 CVE Landscape](https://www.recordedfuture.com/blog/june-2026-cve-landscape)
+### 57. [June 2026 CVE Landscape](https://www.recordedfuture.com/blog/june-2026-cve-landscape)
 
 **Source:** Recorded Future  
 **Published:** Fri, 10 Jul 2026 00:00:00 GMT  
@@ -518,7 +527,7 @@
 
 ---
 
-### 57. [RiskX interview video featuring Colin Mahony and Mastercard's Aditi Sawhney](https://www.recordedfuture.com/blog/riskx-interview-payment-fraud)
+### 58. [RiskX interview video featuring Colin Mahony and Mastercard's Aditi Sawhney](https://www.recordedfuture.com/blog/riskx-interview-payment-fraud)
 
 **Source:** Recorded Future  
 **Published:** Thu, 09 Jul 2026 00:00:00 GMT  
@@ -527,7 +536,7 @@
 
 ---
 
-### 58. [The Threat Isn’t the Frontier Model](https://www.recordedfuture.com/blog/build-defensive-ai-agents)
+### 59. [The Threat Isn’t the Frontier Model](https://www.recordedfuture.com/blog/build-defensive-ai-agents)
 
 **Source:** Recorded Future  
 **Published:** Wed, 08 Jul 2026 00:00:00 GMT  
@@ -536,21 +545,12 @@
 
 ---
 
-### 59. [Iran-Nexus TAG-182 Disseminates MarkiRAT Surveillance Tool](https://www.recordedfuture.com/research/nexus-tag182-disseminates-markirat)
+### 60. [Iran-Nexus TAG-182 Disseminates MarkiRAT Surveillance Tool](https://www.recordedfuture.com/research/nexus-tag182-disseminates-markirat)
 
 **Source:** Recorded Future  
 **Published:** Wed, 01 Jul 2026 00:00:00 GMT  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 60. [Where Expertise Meets Algorithm: The Insikt Group® Intelligence Edge](https://www.recordedfuture.com/blog/expertise-meets-algorithm-intelligence-edge)
-
-**Source:** Recorded Future  
-**Published:** Thu, 25 Jun 2026 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -634,7 +634,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
