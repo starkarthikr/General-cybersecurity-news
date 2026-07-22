@@ -1,6 +1,80 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication",
+    "link": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html",
+    "published": "Wed, 22 Jul 2026 18:06:36 +0530",
+    "summary": "A high-severity security flaw impacting open-source developer platform Windmill has come under active exploitation in the wild, per VulnCheck.\n\nThe vulnerability in question is CVE-2026-29059 (CVSS score: 7.5), a case of unauthenticated path traversal impacting Windmill's \"get_log_file\" endpoint (\"/api/w/{workspace}/jobs_u/get_log_file/{filename}\").\n\n\"The filename parameter is concatenated into",
+    "analysis": {
+      "issue": "VulnCheck says attackers are exploiting Windmill CVE-2026-29059 to read server files, with about 170 vulnerable systems exposed in 24 countries",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-29059"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "The Fastest Path to AI Adoption Runs Through Security",
+    "link": "https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html",
+    "published": "Wed, 22 Jul 2026 17:28:00 +0530",
+    "summary": "Security leaders who build fast, visible paths to AI adoption are becoming the most valued partners in their organizations. AI governance done right gives security teams the visibility they need, employees the tools they want, and CISOs the strategic influence they have earned.\n\nAccording to McKinsey's State of AI report, 76 percent of employees now use AI in some capacity at work, up from 55",
+    "analysis": {
+      "issue": "With 76% of employees using AI at work, fast approval paths help security teams reduce shadow AI and steer staff to approved tools",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
+    "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
+    "published": "Wed, 22 Jul 2026 17:00:02 +0530",
+    "summary": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugging Face's production infrastructure last week.\n\nThe AI company said the models were operating with \"reduced cyber refusals for evaluation purposes\" that might otherwise limit their ability to",
+    "analysis": {
+      "issue": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark | Read more hacking news on The Hacker News cybersecurity news website and learn how to protect against cyberattacks and software vulnerabilities",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Why Modern SOCs Need Multi-Layered Detections",
+    "link": "https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html",
+    "published": "Wed, 22 Jul 2026 16:55:35 +0530",
+    "summary": "The cycle is over. For years, cybersecurity followed a familiar pattern: defenses improved, attackers adapted, and the back-and-forth continued. Today, AI-equipped attackers are simply outpacing defenses. Most intrusions now bypass endpoint and malware-based detection entirely.\n\nThe CrowdStrike Global Threat Report estimates around 79% of attacks are malware-free, as threat actors rely on",
+    "analysis": {
+      "issue": "Network Detection and Response gives AI the evidence to connect siloed alerts, verify attacks, and contain threats when endpoint agents go dark",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA",
     "link": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
     "published": "Wed, 22 Jul 2026 12:08:45 +0530",
@@ -43,24 +117,6 @@
     "summary": "A single invisible comment in an Azure DevOps pull request can turn a reviewer's own AI coding agent against them, driving it into projects the attacker has no rights to reach and quietly leaking what it finds.\n\nThe flaw is in Microsoft's official Azure DevOps MCP server, and it works because one of its tools returns pull request descriptions without a prompt-injection guardrail the company had",
     "analysis": {
       "issue": "A hidden Azure DevOps PR comment can steer a reviewer’s AI agent into other projects and expose source code, secrets, and work items",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
-    "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
-    "published": "Wed, 22 Jul 2026 09:48:33 +0530",
-    "summary": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugging Face's production infrastructure last week.\n\nThe AI company said the models were operating with \"reduced cyber refusals for evaluation purposes\" that might otherwise limit their ability to",
-    "analysis": {
-      "issue": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark | Read more hacking news on The Hacker News cybersecurity news website and learn how to protect against cyberattacks and software vulnerabilities",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -126,19 +182,19 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC",
-    "link": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html",
-    "published": "Tue, 21 Jul 2026 20:27:51 +0530",
-    "summary": "A third SharePoint Server flaw patched by Microsoft as part of its Patch Tuesday update for July 2026 has come under active exploitation, per watchTowr.\n\nThe vulnerability in question is CVE-2026-50522 (CVSS score: 9.8), a critical deserialization of untrusted data in Microsoft Office SharePoint that could allow an unauthorized attacker to execute code over a network. Microsoft credited DEVCORE",
+    "source": "Bleeping Computer",
+    "title": "Adobe Chrome extension flaw let sites access private WhatsApp chats",
+    "link": "https://www.bleepingcomputer.com/news/security/adobe-chrome-extension-flaw-let-sites-access-private-whatsapp-chats/",
+    "published": "Wed, 22 Jul 2026 09:22:20 -0400",
+    "summary": "The Adobe Acrobat extension for Chrome could be used to access conversations and data rendered in WhatsApp Web without any form of authentication. [...]",
     "analysis": {
-      "issue": "watchTowr reports active exploitation of SharePoint CVE-2026-50522 after a public PoC, with attackers stealing machine keys for persistence",
+      "issue": "The Adobe Acrobat extension for Chrome could be used to access conversations and data rendered in WhatsApp Web without any form of authentication",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-50522"
+        "CVE-2026-48294"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -146,43 +202,59 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
-    "link": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html",
-    "published": "Tue, 21 Jul 2026 19:34:57 +0530",
-    "summary": "Threat actors have been observed exploiting a now-patched high-severity Palo Alto Networks PAN-OS vulnerability as an entry point to deploy Qilin (aka Agenda) ransomware on victim environments.\n\nArctic Wolf Labs said it investigated multiple intrusions in June 2026 that began with the exploitation of CVE-2026-0257 (CVSS score: 7.8), an authentication bypass flaw affecting the portal and gateway",
+    "source": "Bleeping Computer",
+    "title": "CISA orders urgent action on actively exploited Langflow RCE flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-langflow-rce-flaw/",
+    "published": "Wed, 22 Jul 2026 07:43:28 -0400",
+    "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday ordered U.S. government agencies to prioritize patching an actively exploited vulnerability in the Langflow visual framework for building AI agents. [...]",
     "analysis": {
-      "issue": "Attackers exploit PAN-OS CVE-2026-0257 to deploy Qilin ransomware, with intrusions ranging from rapid encryption to data theft and double extortion",
+      "issue": "The Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday ordered U",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [
-        "CVE-2026-0257"
+        "CVE-2026-0770"
       ],
       "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
+        "Vulnerability",
+        "Malware"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Zimbra Patches Critical SNMP Command Injection and Four XSS Vulnerabilities",
-    "link": "https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html",
-    "published": "Tue, 21 Jul 2026 18:48:31 +0530",
-    "summary": "Zimbra has rolled out fixes to address multiple critical security issues, including a command injection flaw in the Simple Network Management Protocol (SNMP) monitoring component.\n\nAs many as nine security vulnerabilities have been patched in Zimbra 10.1.20. Topping the list is a command injection vulnerability in the SNMP monitoring component when SNMP notifications are enabled.\n\nAlso patched",
+    "source": "Bleeping Computer",
+    "title": "Stop renting storage space — this lifetime 2TB plan is yours for $59",
+    "link": "https://www.bleepingcomputer.com/news/security/stop-renting-storage-space-this-lifetime-2tb-plan-is-yours-for-59/",
+    "published": "Wed, 22 Jul 2026 07:09:16 -0400",
+    "summary": "Cloud storage costs tend to creep up over time, since most services charge monthly or annually for as long as you use them. FileJump's Lifetime Plan skips that model entirely, offering 2TB of cloud storage for a single payment of $59 (MSRP $467). [...]",
     "analysis": {
-      "issue": "20 fixes nine flaws, including SNMP command injection and CVE-2026-50055, which could enable email exfiltration",
+      "issue": "Cloud storage costs tend to creep up over time, since most services charge monthly or annually for as long as you use them",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [
-        "CVE-2026-50055"
-      ],
+      "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft to stop Exchange 2016 / 2019 security updates in October",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-esu-program-ends-in-october/",
+    "published": "Wed, 22 Jul 2026 06:44:52 -0400",
+    "summary": "Microsoft has reminded customers that it will stop shipping security updates for Exchange 2016 and 2019 through the Extended Security Update (ESU) program in October. [...]",
+    "analysis": {
+      "issue": "Microsoft has reminded customers that it will stop shipping security updates for Exchange 2016 and 2019 through the Extended Security Update (ESU) program in October",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -299,87 +371,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Critical wp2shell WordPress flaws exploited to install webshells",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/",
-    "published": "Tue, 21 Jul 2026 12:41:50 -0400",
-    "summary": "Hackers are exploiting the \"wp2shell\" critical vulnerability suite (CVE-2026-63030 and CVE-2026-60137) affecting WordPress Core to deploy persistent webshells and install malicious plugins on affected servers. [...]",
-    "analysis": {
-      "issue": "Hackers are exploiting the \"wp2shell\" critical vulnerability suite (CVE-2026-63030 and CVE-2026-60137) affecting WordPress Core to deploy persistent webshells and install malicious plugins on affected servers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-63030",
-        "CVE-2026-60137"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Closing the Identity Gaps in Critical Infrastructure Security",
-    "link": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gaps-in-critical-infrastructure-security/",
-    "published": "Tue, 21 Jul 2026 10:00:10 -0400",
-    "summary": "Critical infrastructure attacks often begin with stolen credentials, compromised devices, or trusted accounts. Specops Software explains why Zero Trust should verify both user identities and device trust before granting access to critical systems. [...]",
-    "analysis": {
-      "issue": "In May 2021, the Colonial Pipeline ransomware attack showed how quickly a compromised account can become a national issue",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "APT",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "US seizes over 1,000 websites in FIFA World Cup piracy crackdown",
-    "link": "https://www.bleepingcomputer.com/news/security/us-seizes-over-1-000-fifa-world-cup-illegal-streaming-domains/",
-    "published": "Tue, 21 Jul 2026 07:07:07 -0400",
-    "summary": "The U.S. Justice Department has seized more than 1,000 websites and blocked 1,970 domains used to stream FIFA World Cup 2026 matches without authorization. [...]",
-    "analysis": {
-      "issue": "Justice Department has seized more than 1,000 websites and blocked 1,970 domains used to stream FIFA World Cup 2026 matches without authorization",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Critical Palo Alto VPN bug now exploited by Qilin ransomware gang",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
-    "published": "Tue, 21 Jul 2026 06:12:24 -0400",
-    "summary": "The Qilin ransomware gang is exploiting a critical PAN-OS GlobalProtect authentication bypass flaw to breach victims' networks, according to cybersecurity company Arctic Wolf. [...]",
-    "analysis": {
-      "issue": "The Qilin ransomware gang is exploiting a critical PAN-OS GlobalProtect authentication bypass flaw to breach victims' networks, according to cybersecurity company Arctic Wolf",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-0257"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "LG to Ban Residential Proxies from Smart TV Apps",
     "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
@@ -410,10 +401,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56164",
-        "CVE-2026-48561",
+        "CVE-2026-56155",
         "CVE-2026-50661",
-        "CVE-2026-56155"
+        "CVE-2026-48561",
+        "CVE-2026-56164"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -577,6 +568,86 @@
   },
   {
     "source": "Security Week",
+    "title": "When Identity Verification Fails: Lessons from a Real-World SIM Swap and Near Account Takeover",
+    "link": "https://www.securityweek.com/when-identity-verification-fails-lessons-from-a-real-world-sim-swap-and-near-account-takeover/",
+    "published": "Wed, 22 Jul 2026 14:00:00 +0000",
+    "summary": "<p>Identity confidence changes throughout every interaction and should be reassessed continuously as new risk signals emerge.</p>\n<p>The post <a href=\"https://www.securityweek.com/when-identity-verification-fails-lessons-from-a-real-world-sim-swap-and-near-account-takeover/\">When Identity Verification Fails: Lessons from a Real-World SIM Swap and Near Account Takeover</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Identity confidence changes throughout every interaction and should be reassessed continuously as new risk signals emerge",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "StrongestLayer Raises $4.1 Million in Seed Funding Extension",
+    "link": "https://www.securityweek.com/strongestlayer-raises-4-1-million-in-seed-funding-extension/",
+    "published": "Wed, 22 Jul 2026 13:00:00 +0000",
+    "summary": "<p>The startup will use the fresh investment to accelerate its go-to-market strategy and to expand its platform.</p>\n<p>The post <a href=\"https://www.securityweek.com/strongestlayer-raises-4-1-million-in-seed-funding-extension/\">StrongestLayer Raises $4.1 Million in Seed Funding Extension</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The startup will use the fresh investment to accelerate its go-to-market strategy and to expand its platform",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Vibe-Coded Apps Riddled With Exploitable Security Flaws",
+    "link": "https://www.securityweek.com/vibe-coded-apps-riddled-with-exploitable-security-flaws/",
+    "published": "Wed, 22 Jul 2026 13:00:00 +0000",
+    "summary": "<p>Analysis found 434 exploitable flaws in AI-generated apps, with denial-of-service, authorization and secrets exposure risks among the most common issues.</p>\n<p>The post <a href=\"https://www.securityweek.com/vibe-coded-apps-riddled-with-exploitable-security-flaws/\">Vibe-Coded Apps Riddled With Exploitable Security Flaws</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Analysis found 434 exploitable flaws in AI-generated apps, with denial-of-service, authorization and secrets exposure risks among the most common issues",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Fourth SharePoint Vulnerability Exploited in Past Month’s Wave of Attacks",
+    "link": "https://www.securityweek.com/fourth-sharepoint-vulnerability-exploited-in-past-months-wave-of-attacks/",
+    "published": "Wed, 22 Jul 2026 11:29:16 +0000",
+    "summary": "<p>CVE-2026-50522 is being exploited by threat actors to steal machine keys and retain long-term access.</p>\n<p>The post <a href=\"https://www.securityweek.com/fourth-sharepoint-vulnerability-exploited-in-past-months-wave-of-attacks/\">Fourth SharePoint Vulnerability Exploited in Past Month&#8217;s Wave of Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "CVE-2026-50522 is being exploited by threat actors to steal machine keys and retain long-term access",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-50522",
+        "CVE-2026-58644",
+        "CVE-2026-56164",
+        "CVE-2026-45659"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Endpoint Security Firm Glow Launches With $180M in Funding at $1.2B Valuation",
     "link": "https://www.securityweek.com/endpoint-security-firm-glow-launches-with-180m-in-funding-at-1-2b-valuation/",
     "published": "Wed, 22 Jul 2026 10:00:00 +0000",
@@ -690,80 +761,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Empirical Security Raises $25 Million in Series A Funding",
-    "link": "https://www.securityweek.com/empirical-security-raises-25-million-in-series-a-funding/",
-    "published": "Tue, 21 Jul 2026 12:47:18 +0000",
-    "summary": "<p>The startup will use the investment to accelerate the development of its threat prediction and discovery products.</p>\n<p>The post <a href=\"https://www.securityweek.com/empirical-security-raises-25-million-in-series-a-funding/\">Empirical Security Raises $25 Million in Series A Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The startup will use the investment to accelerate the development of its threat prediction and discovery products",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "SecurityWeek Launches Critical Impact Awards to Recognize Excellence in Industrial Cybersecurity",
-    "link": "https://www.securityweek.com/securityweek-launches-critical-impact-awards-to-recognize-excellence-in-industrial-cybersecurity/",
-    "published": "Tue, 21 Jul 2026 12:30:00 +0000",
-    "summary": "<p>Independently judged and sponsor-neutral, the new awards program honors the people, organizations, and technologies delivering proven impact in industrial cybersecurity; winners to be announced live at the 2026 ICS Cybersecurity Conference in Nashville</p>\n<p>The post <a href=\"https://www.securityweek.com/securityweek-launches-critical-impact-awards-to-recognize-excellence-in-industrial-cybersecurity/\">SecurityWeek Launches Critical Impact Awards to Recognize Excellence in Industrial Cybersecurity</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Independently judged and sponsor-neutral, the new awards program honors the people, organizations, and technologies delivering proven impact in industrial cybersecurity; winners to be announced live at the 2026 ICS Cybersecurity Conference in Nashvil",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "New HollowGraph Malware Abuses Microsoft 365 Calendar for C&C Communication",
-    "link": "https://www.securityweek.com/new-hollowgraph-malware-abuses-microsoft-365-calendar-for-cc-communication/",
-    "published": "Tue, 21 Jul 2026 11:55:28 +0000",
-    "summary": "<p>Part of a larger toolkit, HollowGraph uses a compromised 365 account’s calendar as a two-way dead-drop.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-hollowgraph-malware-abuses-microsoft-365-calendar-for-cc-communication/\">New HollowGraph Malware Abuses Microsoft 365 Calendar for C&#038;C Communication</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Part of a larger toolkit, HollowGraph uses a compromised 365 account’s calendar as a two-way dead-drop",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "APT",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "CISO Conversations: Andreas Gaetje – From Economics to CISO at Körber AG",
-    "link": "https://www.securityweek.com/ciso-conversations-andreas-gaetje-from-economics-to-ciso-at-korber-ag/",
-    "published": "Tue, 21 Jul 2026 11:30:00 +0000",
-    "summary": "<p>Gaetje’s story shows that you don’t need to be a ‘deep bit-crawler’ to become a Chief Information Security Officer.</p>\n<p>The post <a href=\"https://www.securityweek.com/ciso-conversations-andreas-gaetje-from-economics-to-ciso-at-korber-ag/\">CISO Conversations: Andreas Gaetje – From Economics to CISO at Körber AG</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Gaetje’s story shows that you don’t need to be a ‘deep bit-crawler’ to become a Chief Information Security Officer",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "APT"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Begun, the Patch Wars have",
     "link": "https://blog.talosintelligence.com/begun-the-patch-wars-have/",
@@ -831,34 +828,34 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50370",
-        "CVE-2026-55018",
-        "CVE-2026-56164",
-        "CVE-2026-55944",
-        "CVE-2026-55049",
-        "CVE-2026-55056",
-        "CVE-2026-54992",
-        "CVE-2026-55123",
+        "CVE-2026-56155",
+        "CVE-2026-50327",
         "CVE-2026-55127",
-        "CVE-2026-55022",
+        "CVE-2026-50522",
+        "CVE-2026-55045",
+        "CVE-2026-50655",
+        "CVE-2026-54128",
+        "CVE-2026-55010",
+        "CVE-2026-54992",
+        "CVE-2026-58644",
         "CVE-2026-55043",
-        "CVE-2026-50518",
+        "CVE-2026-55018",
         "CVE-2026-55120",
         "CVE-2026-55140",
-        "CVE-2026-50314",
-        "CVE-2026-55010",
-        "CVE-2026-55129",
-        "CVE-2026-55033",
-        "CVE-2026-54128",
-        "CVE-2026-50522",
-        "CVE-2026-50327",
-        "CVE-2026-50655",
+        "CVE-2026-55944",
         "CVE-2026-50467",
-        "CVE-2026-56188",
-        "CVE-2026-56155",
+        "CVE-2026-55022",
+        "CVE-2026-56164",
         "CVE-2026-55132",
-        "CVE-2026-55045",
-        "CVE-2026-58644"
+        "CVE-2026-55129",
+        "CVE-2026-50314",
+        "CVE-2026-50370",
+        "CVE-2026-50518",
+        "CVE-2026-55049",
+        "CVE-2026-55056",
+        "CVE-2026-55123",
+        "CVE-2026-55033",
+        "CVE-2026-56188"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -917,9 +914,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-33091",
         "CVE-2026-25106",
-        "CVE-2026-28739"
+        "CVE-2026-28739",
+        "CVE-2026-33091"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1363,6 +1360,44 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Chick-fil-A loyalty accounts hijacked using stolen passwords",
+    "link": "https://www.malwarebytes.com/blog/data-breaches/2026/07/chick-fil-a-loyalty-accounts-hijacked-using-stolen-passwords",
+    "published": "Wed, 22 Jul 2026 12:46:18 GMT",
+    "summary": "If you have a Chick-fil-A One account, now is a good time to change your password—and make sure it's one you don't use anywhere else.",
+    "analysis": {
+      "issue": "Fast-food chain Chick-fil-A is warning customers after attackers hijacked loyalty accounts using stolen passwords in a credential stuffing attack",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Paidwork breach exposes data of 23 million users: Check if you&#8217;re affected",
+    "link": "https://www.malwarebytes.com/blog/data-breaches/2026/07/paidwork-breach-exposes-data-of-23-million-users-check-if-youre-affected",
+    "published": "Wed, 22 Jul 2026 11:34:49 GMT",
+    "summary": "A reported breach at microtask platform Paidwork exposed personal and financial data of more than 23 million users. Here's how to check if you're affected.",
+    "analysis": {
+      "issue": "A data breach at Paidwork, a platform that pays people small amounts to complete online microtasks, has exposed personal and financial information of more than 23 million users",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "What happens if you visit a WordPress site hacked through wp2shell?",
     "link": "https://www.malwarebytes.com/blog/bugs/2026/07/what-happens-if-you-visit-a-wordpress-site-hacked-through-wp2shell",
     "published": "Tue, 21 Jul 2026 14:57:27 GMT",
@@ -1506,42 +1541,6 @@
       "threat_categories": [
         "Malware",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Shark vacuum flaw exposes cameras, home maps and Wi-Fi passwords",
-    "link": "https://www.malwarebytes.com/blog/news/2026/07/shark-vacuum-flaw-exposes-cameras-home-maps-and-wi-fi-passwords",
-    "published": "Fri, 17 Jul 2026 12:29:56 GMT",
-    "summary": "One compromised Shark robot vacuum could unlock remote access to many others.",
-    "analysis": {
-      "issue": "Shark’s cloud-connected robot vacuums are currently exposed by an unpatched AWS (Amazon Web Services) IoT (Internet of Things) policy flaw that could turn one compromised device into a remote-control skeleton key for many others in the same region, w",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "How to use GitHub safely",
-    "link": "https://www.malwarebytes.com/blog/how-to/2026/07/how-to-use-github-safely",
-    "published": "Fri, 17 Jul 2026 10:43:29 GMT",
-    "summary": "Knowing how to spot a malicious GitHub repository can help you avoid downloading malware disguised as legitimate software.",
-    "analysis": {
-      "issue": "GitHub is rapidly becoming the go-to platform for sharing software",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
