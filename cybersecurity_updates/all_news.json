@@ -1,6 +1,80 @@
 [
   {
     "source": "The Hacker News",
+    "title": "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories",
+    "link": "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html",
+    "published": "Thu, 23 Jul 2026 20:32:07 +0530",
+    "summary": "Most of this week's trouble came dressed as something useful.\n\nA package stole data. A fake extension opened remote access. A safety app became spyware. An image gave hidden orders to an AI agent. Other threats hid in open systems, weak code, and normal network traffic.\n\n\n The threats change every week. Subscribe, and we’ll alert you when each new ThreatsDay Bulletin is out.\n\n\nThe danger was",
+    "analysis": {
+      "issue": "This week’s ThreatsDay Bulletin covers malicious packages, fake apps, AI prompt attacks, exposed systems, weak defaults, and stealthy malware traffic",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files",
+    "link": "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html",
+    "published": "Thu, 23 Jul 2026 18:57:59 +0530",
+    "summary": "Cybersecurity researchers have uncovered a sandbox escape vulnerability in Anthropic's Claude Cowork that makes it possible to break out of the confines of a Linux virtual machine (VM) within which the agent runs to read or write files anywhere on the Mac.\n\nAccomplish AI, which shared details of the vulnerability with The Hacker News ahead of publication, said about 500,000 macOS users running",
+    "analysis": {
+      "issue": "SharedRoot exploits CVE-2026-46331 in local Claude Cowork sessions to gain guest root and read or write files across the host Mac",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-46331"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge",
+    "link": "https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html",
+    "published": "Thu, 23 Jul 2026 18:41:09 +0530",
+    "summary": "The Chaos ransomware group ran its command-and-control through the victim's own browser. Cisco Talos on Thursday detailed msaRAT, the Rust implant behind it, found on a compromised Windows machine ahead of the encryptor.\n\nThe implant never opens an outbound connection of its own. Its process talks to 127.0.0.1 and nothing else. It starts Chrome or Edge in headless mode and drives the browser",
+    "analysis": {
+      "issue": "Chaos-linked msaRAT drives headless Chrome or Edge over CDP, relaying encrypted C2 through Twilio TURN while its own process stays on loopback",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "China-Nexus JadeProx Uses New TriBack Loader in Government and Healthcare Attacks",
+    "link": "https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html",
+    "published": "Thu, 23 Jul 2026 17:50:23 +0530",
+    "summary": "An exposed Alibaba Cloud server has revealed a China-nexus operation that Group-IB tracks as JadeProx. The cluster has targeted government, healthcare, and education organizations across Asia and Latin America with a previously undocumented Windows loader called TriBack Loader.\n\nGroup-IB found the server in mid-April 2026 in Alibaba Cloud's Singapore region; it was offline by the time the report",
+    "analysis": {
+      "issue": "JadeProx uses the new TriBack Loader against government, healthcare, and education targets through DLL sideloading and a fake Claude installer",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "How Synthetic Identity Fraud is Coming for Machine Identities",
     "link": "https://thehackernews.com/2026/07/how-synthetic-identity-fraud-is-coming.html",
     "published": "Thu, 23 Jul 2026 17:15:00 +0530",
@@ -114,73 +188,54 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs",
-    "link": "https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html",
-    "published": "Wed, 22 Jul 2026 23:37:16 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a new local privilege escalation (LPE) vulnerability in snap-confine that an unprivileged user can trigger to obtain root access and gain complete control of a target environment.\n\nThe high-severity flaw, tracked as CVE-2026-8933 (CVSS score: 7.8), impacts default installations of Ubuntu Desktop 24.04, 25.10, and 26.04. The disclosure comes as",
+    "source": "Bleeping Computer",
+    "title": "Russian hackers exploit Zimbra zero-click flaw for email theft",
+    "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/",
+    "published": "Thu, 23 Jul 2026 12:49:27 -0400",
+    "summary": "CISA is warning that the Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is targeting organizations using Zimbra Collaboration email servers by combining phishing attacks with the exploitation of a now-patched Zimbra vulnerability. [...]",
     "analysis": {
-      "issue": "CVE-2026-8933 combines two snap-confine races that could turn local Ubuntu access into root on default Desktop 24",
+      "issue": "CISA is warning that the Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is targeting organizations using Zimbra Collaboration email servers by combining phishing attacks with the exploitation of a now-patched Zimbra ",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [
-        "CVE-2026-8933"
+        "CVE-2025-66376"
       ],
       "threat_categories": [
-        "Vulnerability"
+        "Vulnerability",
+        "Phishing"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data",
-    "link": "https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html",
-    "published": "Wed, 22 Jul 2026 20:31:21 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a now-patched vulnerability chain in the Adobe Acrobat Chrome extension that has over 314 million users, which, if exploited, could facilitate a silent hijack of a user's WhatsApp data.\n\nThe shortcoming has been codenamed HermeticReader by Guardio Labs. It's officially tracked as CVE-2026-48294 (CVSS score: 7.4), with the vulnerability",
+    "source": "Bleeping Computer",
+    "title": "Hackers abuse Notepad++ plugins to stealthily install malware",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/",
+    "published": "Thu, 23 Jul 2026 12:32:35 -0400",
+    "summary": "Ukraine's CERT has uncovered attacks distributing an archive containing the legitimate Notepad++ application and a malicious utility called LunchPoke disguised as a plugin to establish persistence. [...]",
     "analysis": {
-      "issue": "Adobe patched CVE-2026-48294 after malicious pages could abuse its Acrobat Chrome extension to expose rendered WhatsApp Web chat data",
+      "issue": "Ukraine's CERT has uncovered attacks distributing an archive containing the legitimate Notepad++ application and a malicious utility called LunchPoke disguised as a plugin to establish persistence",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [
-        "CVE-2026-48294"
-      ],
+      "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "Vulnerability",
+        "Malware",
+        "APT"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication",
-    "link": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html",
-    "published": "Wed, 22 Jul 2026 18:06:36 +0530",
-    "summary": "A high-severity security flaw impacting open-source developer platform Windmill has come under active exploitation in the wild, per VulnCheck.\n\nThe vulnerability in question is CVE-2026-29059 (CVSS score: 7.5), a case of unauthenticated path traversal impacting Windmill's \"get_log_file\" endpoint (\"/api/w/{workspace}/jobs_u/get_log_file/{filename}\").\n\n\"The filename parameter is concatenated into",
+    "source": "Bleeping Computer",
+    "title": "Microsoft 365 outage affects Teams, SharePoint and other services",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/",
+    "published": "Thu, 23 Jul 2026 11:34:43 -0400",
+    "summary": "Microsoft Teams and several Microsoft 365 services are experiencing an ongoing outage, with users reporting problems accessing Teams, SharePoint, Excel and the Microsoft 365 Admin Center. [...]",
     "analysis": {
-      "issue": "VulnCheck says attackers are exploiting Windmill CVE-2026-29059 to read server files, with about 170 vulnerable systems exposed in 24 countries",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-29059"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "The Fastest Path to AI Adoption Runs Through Security",
-    "link": "https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html",
-    "published": "Wed, 22 Jul 2026 17:28:00 +0530",
-    "summary": "Security leaders who build fast, visible paths to AI adoption are becoming the most valued partners in their organizations. AI governance done right gives security teams the visibility they need, employees the tools they want, and CISOs the strategic influence they have earned.\n\nAccording to McKinsey's State of AI report, 76 percent of employees now use AI in some capacity at work, up from 55",
-    "analysis": {
-      "issue": "With 76% of employees using AI at work, fast approval paths help security teams reduce shadow AI and steer staff to approved tools",
+      "issue": "Microsoft Teams and several Microsoft 365 services are experiencing an outage, primarily affecting users in North America",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -324,61 +379,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "South Korea discloses data breach impacting diplomats worldwide",
-    "link": "https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/",
-    "published": "Wed, 22 Jul 2026 16:06:54 -0400",
-    "summary": "South Korea disclosed that hackers breached the National Diplomatic Academy's online education system for ten months and stole personal information belonging to current and former employees of the Ministry of Foreign Affairs (MFA), including overseas diplomats. [...]",
-    "analysis": {
-      "issue": "South Korea disclosed that hackers breached the National Diplomatic Academy's online education system for ten months and stole personal information belonging to current and former employees of the Ministry of Foreign Affairs (MFA), including overseas",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Swiss rail giant Stadler rejects $12.3M ransom demand after cyberattack",
-    "link": "https://www.bleepingcomputer.com/news/security/swiss-rail-giant-stadler-rejects-123m-ransom-demand-after-cyberattack/",
-    "published": "Wed, 22 Jul 2026 12:59:17 -0400",
-    "summary": "Swiss rail vehicle manufacturer Stadler Rail says the Everest ransomware gang demanded about $12.3 million after breaching a data exchange platform shared with one of its suppliers. [...]",
-    "analysis": {
-      "issue": "Swiss rail vehicle manufacturer Stadler Rail says the Everest ransomware gang demanded about $12",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "How enterprise GenAI can amplify ransomware risk — and how to contain it",
-    "link": "https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/",
-    "published": "Wed, 22 Jul 2026 11:30:00 -0400",
-    "summary": "Enterprise AI can accelerate ransomware attacks when AI assistants and agents inherit excessive permissions or compromised identities. Acronis explains how identity controls, governance, and least-privilege access help reduce AI-enabled ransomware risk while supporting secure AI adoption. [...]",
-    "analysis": {
-      "issue": "Generative AI is rapidly becoming part of everyday business operations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "LG to Ban Residential Proxies from Smart TV Apps",
     "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
@@ -409,10 +409,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56164",
         "CVE-2026-50661",
         "CVE-2026-48561",
-        "CVE-2026-56155"
+        "CVE-2026-56155",
+        "CVE-2026-56164"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -546,8 +546,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-45586",
         "CVE-2026-49160",
+        "CVE-2026-45586",
         "CVE-2026-50507"
       ],
       "threat_categories": [
@@ -571,6 +571,67 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "OpenAI Fixes ChatGPT Agent Flaw That Could Let Attackers Forge an AI Insider",
+    "link": "https://www.securityweek.com/openai-fixes-chatgpt-agent-flaw-that-could-let-attackers-forge-an-ai-insider/",
+    "published": "Thu, 23 Jul 2026 15:09:59 +0000",
+    "summary": "<p>AgentForger allows an attacker to create, insert and remotely control an invisible autonomous AI agent inside a victim organization.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-fixes-chatgpt-agent-flaw-that-could-let-attackers-forge-an-ai-insider/\">OpenAI Fixes ChatGPT Agent Flaw That Could Let Attackers Forge an AI Insider</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "AgentForger allows an attacker to create, insert and remotely control an invisible autonomous AI agent inside a victim organization",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Is Patching Dead? Vulnerability Management in the Post-Mythos Era",
+    "link": "https://www.securityweek.com/is-patching-dead-vulnerability-management-in-the-post-mythos-era/",
+    "published": "Thu, 23 Jul 2026 15:00:00 +0000",
+    "summary": "<p>You cannot out-patch a machine that writes a working exploit from a vulnerability description in twenty hours. Stop trying to optimize a game you cannot win.</p>\n<p>The post <a href=\"https://www.securityweek.com/is-patching-dead-vulnerability-management-in-the-post-mythos-era/\">Is Patching Dead? Vulnerability Management in the Post-Mythos Era</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "You cannot out-patch a machine that writes a working exploit from a vulnerability description in twenty hours",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Chick-fil-A Accounts Get Fried in Credential Stuffing Attack",
+    "link": "https://www.securityweek.com/chick-fil-a-accounts-get-fried-in-credential-stuffing-attack/",
+    "published": "Thu, 23 Jul 2026 14:55:19 +0000",
+    "summary": "<p>Threat actors used credentials obtained from other companies to hack into Chick-fil-A One accounts.</p>\n<p>The post <a href=\"https://www.securityweek.com/chick-fil-a-accounts-get-fried-in-credential-stuffing-attack/\">Chick-fil-A Accounts Get Fried in Credential Stuffing Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Threat actors used credentials obtained from other companies to hack into Chick-fil-A One accounts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Malware",
+        "Phishing",
+        "Supply Chain"
       ]
     }
   },
@@ -662,11 +723,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-16232",
         "CVE-2026-50751",
         "CVE-2026-62144",
         "CVE-2026-62145",
-        "CVE-2024-24919"
+        "CVE-2024-24919",
+        "CVE-2026-16232"
       ],
       "threat_categories": [
         "Ransomware",
@@ -711,65 +772,6 @@
         "Ransomware",
         "Data Breach",
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Palo Alto Networks to Acquire Observability Platform Provider Embrace",
-    "link": "https://www.securityweek.com/palo-alto-networks-to-acquire-observability-platform-provider-embrace/",
-    "published": "Wed, 22 Jul 2026 14:58:53 +0000",
-    "summary": "<p>Acquisition follows January's Chronosphere deal, deepening Palo Alto Networks' push beyond core security into observability.</p>\n<p>The post <a href=\"https://www.securityweek.com/palo-alto-networks-to-acquire-observability-platform-provider-embrace/\">Palo Alto Networks to Acquire Observability Platform Provider Embrace</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Acquisition follows January’s Chronosphere deal, deepening Palo Alto Networks’ push beyond core security into observability",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Flaw in Adobe Extension With 300M Installs Enabled WhatsApp Data Theft",
-    "link": "https://www.securityweek.com/flaw-in-adobe-extension-with-300m-installs-enabled-whatsapp-data-theft/",
-    "published": "Wed, 22 Jul 2026 14:22:31 +0000",
-    "summary": "<p>An attacker only needed to convince the targeted user to visit a malicious website to exfiltrate WhatsApp messages and contacts.</p>\n<p>The post <a href=\"https://www.securityweek.com/flaw-in-adobe-extension-with-300m-installs-enabled-whatsapp-data-theft/\">Flaw in Adobe Extension With 300M Installs Enabled WhatsApp Data Theft</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "An attacker only needed to convince the targeted user to visit a malicious website to exfiltrate WhatsApp messages and contacts",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2026-48294"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "When Identity Verification Fails: Lessons from a Real-World SIM Swap and Near Account Takeover",
-    "link": "https://www.securityweek.com/when-identity-verification-fails-lessons-from-a-real-world-sim-swap-and-near-account-takeover/",
-    "published": "Wed, 22 Jul 2026 14:00:00 +0000",
-    "summary": "<p>Identity confidence changes throughout every interaction and should be reassessed continuously as new risk signals emerge.</p>\n<p>The post <a href=\"https://www.securityweek.com/when-identity-verification-fails-lessons-from-a-real-world-sim-swap-and-near-account-takeover/\">When Identity Verification Fails: Lessons from a Real-World SIM Swap and Near Account Takeover</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Identity confidence changes throughout every interaction and should be reassessed continuously as new risk signals emerge",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Phishing",
-        "APT"
       ]
     }
   },
@@ -878,34 +880,34 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-55140",
-        "CVE-2026-55129",
-        "CVE-2026-54128",
-        "CVE-2026-55944",
-        "CVE-2026-54992",
-        "CVE-2026-55132",
-        "CVE-2026-50655",
-        "CVE-2026-56164",
-        "CVE-2026-55010",
-        "CVE-2026-55127",
-        "CVE-2026-56155",
-        "CVE-2026-55120",
-        "CVE-2026-55056",
+        "CVE-2026-50467",
         "CVE-2026-55022",
-        "CVE-2026-55049",
-        "CVE-2026-55033",
-        "CVE-2026-50370",
-        "CVE-2026-50522",
-        "CVE-2026-55043",
-        "CVE-2026-55123",
-        "CVE-2026-50327",
-        "CVE-2026-55018",
-        "CVE-2026-58644",
-        "CVE-2026-55045",
         "CVE-2026-50518",
         "CVE-2026-56188",
-        "CVE-2026-50467",
-        "CVE-2026-50314"
+        "CVE-2026-55045",
+        "CVE-2026-55049",
+        "CVE-2026-50655",
+        "CVE-2026-58644",
+        "CVE-2026-55018",
+        "CVE-2026-50314",
+        "CVE-2026-55120",
+        "CVE-2026-50370",
+        "CVE-2026-55043",
+        "CVE-2026-55010",
+        "CVE-2026-55129",
+        "CVE-2026-54128",
+        "CVE-2026-50327",
+        "CVE-2026-55056",
+        "CVE-2026-54992",
+        "CVE-2026-56155",
+        "CVE-2026-55944",
+        "CVE-2026-50522",
+        "CVE-2026-55033",
+        "CVE-2026-55123",
+        "CVE-2026-56164",
+        "CVE-2026-55132",
+        "CVE-2026-55127",
+        "CVE-2026-55140"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -964,8 +966,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-25106",
         "CVE-2026-28739",
+        "CVE-2026-25106",
         "CVE-2026-33091"
       ],
       "threat_categories": [
@@ -1339,8 +1341,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",

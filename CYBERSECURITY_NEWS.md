@@ -1,10 +1,47 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-23 14:14:48 UTC
+**Last Updated:** 2026-07-23 17:54:57 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [How Synthetic Identity Fraud is Coming for Machine Identities](https://thehackernews.com/2026/07/how-synthetic-identity-fraud-is-coming.html)
+### 1. [ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories](https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 23 Jul 2026 20:32:07 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 2. [Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files](https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 23 Jul 2026 18:57:59 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-46331  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge](https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 23 Jul 2026 18:41:09 +0530  
+**Severity:** Low  
+**Categories:** Ransomware  
+
+---
+
+### 4. [China-Nexus JadeProx Uses New TriBack Loader in Government and Healthcare Attacks](https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 23 Jul 2026 17:50:23 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 5. [How Synthetic Identity Fraud is Coming for Machine Identities](https://thehackernews.com/2026/07/how-synthetic-identity-fraud-is-coming.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 23 Jul 2026 17:15:00 +0530  
@@ -13,7 +50,7 @@
 
 ---
 
-### 2. [Attackers Weaponize GitHub Actions Runners to Target cPanel and WHM Servers](https://thehackernews.com/2026/07/attackers-weaponize-github-actions.html)
+### 6. [Attackers Weaponize GitHub Actions Runners to Target cPanel and WHM Servers](https://thehackernews.com/2026/07/attackers-weaponize-github-actions.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 23 Jul 2026 16:58:54 +0530  
@@ -23,7 +60,7 @@
 
 ---
 
-### 3. [Google Adds Selfie Video Recovery for Users Locked Out of Their Accounts](https://thehackernews.com/2026/07/google-adds-selfie-video-recovery-for.html)
+### 7. [Google Adds Selfie Video Recovery for Users Locked Out of Their Accounts](https://thehackernews.com/2026/07/google-adds-selfie-video-recovery-for.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 23 Jul 2026 15:30:00 +0530  
@@ -32,7 +69,7 @@
 
 ---
 
-### 4. [Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs](https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html)
+### 8. [Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs](https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 23 Jul 2026 13:34:35 +0530  
@@ -42,7 +79,7 @@
 
 ---
 
-### 5. [Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access](https://thehackernews.com/2026/07/check-point-patches-exploited.html)
+### 9. [Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access](https://thehackernews.com/2026/07/check-point-patches-exploited.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 23 Jul 2026 12:04:36 +0530  
@@ -52,7 +89,7 @@
 
 ---
 
-### 6. [GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier](https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html)
+### 10. [GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier](https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 23 Jul 2026 00:07:42 +0530  
@@ -61,46 +98,35 @@
 
 ---
 
-### 7. [Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs](https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html)
+### 11. [Russian hackers exploit Zimbra zero-click flaw for email theft](https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 22 Jul 2026 23:37:16 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-8933  
-**Categories:** Vulnerability  
-
----
-
-### 8. [Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data](https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 22 Jul 2026 20:31:21 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-48294  
-**Categories:** Vulnerability  
+**Source:** Bleeping Computer  
+**Published:** Thu, 23 Jul 2026 12:49:27 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2025-66376  
+**Categories:** Vulnerability, Phishing  
 
 ---
 
-### 9. [Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication](https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html)
+### 12. [Hackers abuse Notepad++ plugins to stealthily install malware](https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 22 Jul 2026 18:06:36 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 23 Jul 2026 12:32:35 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2026-29059  
-**Categories:** Vulnerability  
+**Categories:** Vulnerability, Malware, APT  
 
 ---
 
-### 10. [The Fastest Path to AI Adoption Runs Through Security](https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html)
+### 13. [Microsoft 365 outage affects Teams, SharePoint and other services](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 22 Jul 2026 17:28:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 23 Jul 2026 11:34:43 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 11. [FedRAMP Rev5 Is Ending: What the 20x Transition Really Requires](https://www.bleepingcomputer.com/news/security/fedramp-rev5-is-ending-what-the-20x-transition-really-requires/)
+### 14. [FedRAMP Rev5 Is Ending: What the 20x Transition Really Requires](https://www.bleepingcomputer.com/news/security/fedramp-rev5-is-ending-what-the-20x-transition-really-requires/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 23 Jul 2026 10:00:10 -0400  
@@ -109,7 +135,7 @@
 
 ---
 
-### 12. [EU fines Google $1 billion for search, app store antitrust violations](https://www.bleepingcomputer.com/news/google/eu-fines-google-1-billion-for-digital-markets-act-breaches-in-search-and-play-store/)
+### 15. [EU fines Google $1 billion for search, app store antitrust violations](https://www.bleepingcomputer.com/news/google/eu-fines-google-1-billion-for-digital-markets-act-breaches-in-search-and-play-store/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 23 Jul 2026 08:33:19 -0400  
@@ -118,7 +144,7 @@
 
 ---
 
-### 13. [New RefluXFS Linux flaw lets attackers gain root privileges](https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/)
+### 16. [New RefluXFS Linux flaw lets attackers gain root privileges](https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 23 Jul 2026 07:40:16 -0400  
@@ -128,7 +154,7 @@
 
 ---
 
-### 14. [New msaRAT malware uses Chrome, Edge browsers to route C2 traffic](https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/)
+### 17. [New msaRAT malware uses Chrome, Edge browsers to route C2 traffic](https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 23 Jul 2026 06:00:00 -0400  
@@ -137,7 +163,7 @@
 
 ---
 
-### 15. [Microsoft working to fix Exchange Online mailbox quarantine issue](https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-exchange-online-mailbox-quarantine-issue/)
+### 18. [Microsoft working to fix Exchange Online mailbox quarantine issue](https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-exchange-online-mailbox-quarantine-issue/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 23 Jul 2026 05:20:10 -0400  
@@ -146,7 +172,7 @@
 
 ---
 
-### 16. [Check Point warns of SmartConsole zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/)
+### 19. [Check Point warns of SmartConsole zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 23 Jul 2026 04:13:07 -0400  
@@ -156,39 +182,12 @@
 
 ---
 
-### 17. [Upbound says hack caused $13 million in fraudulent Acima leases](https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/)
+### 20. [Upbound says hack caused $13 million in fraudulent Acima leases](https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 22 Jul 2026 17:43:39 -0400  
 **Severity:** Low  
 **Categories:** Supply Chain  
-
----
-
-### 18. [South Korea discloses data breach impacting diplomats worldwide](https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 22 Jul 2026 16:06:54 -0400  
-**Severity:** Low  
-**Categories:** Data Breach, Vulnerability  
-
----
-
-### 19. [Swiss rail giant Stadler rejects $12.3M ransom demand after cyberattack](https://www.bleepingcomputer.com/news/security/swiss-rail-giant-stadler-rejects-123m-ransom-demand-after-cyberattack/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 22 Jul 2026 12:59:17 -0400  
-**Severity:** Low  
-**Categories:** Ransomware  
-
----
-
-### 20. [How enterprise GenAI can amplify ransomware risk — and how to contain it](https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 22 Jul 2026 11:30:00 -0400  
-**Severity:** Low  
-**Categories:** Ransomware  
 
 ---
 
@@ -206,7 +205,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56164, CVE-2026-50661, CVE-2026-48561, CVE-2026-56155  
+**CVEs:** CVE-2026-50661, CVE-2026-48561, CVE-2026-56155, CVE-2026-56164  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -270,7 +269,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-45586, CVE-2026-49160, CVE-2026-50507  
+**CVEs:** CVE-2026-49160, CVE-2026-45586, CVE-2026-50507  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -284,7 +283,34 @@
 
 ---
 
-### 31. [Abstract Raises $25 Million to Expand Composable Security Operations Platform](https://www.securityweek.com/abstract-raises-25-million-to-expand-composable-security-operations-platform/)
+### 31. [OpenAI Fixes ChatGPT Agent Flaw That Could Let Attackers Forge an AI Insider](https://www.securityweek.com/openai-fixes-chatgpt-agent-flaw-that-could-let-attackers-forge-an-ai-insider/)
+
+**Source:** Security Week  
+**Published:** Thu, 23 Jul 2026 15:09:59 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, Phishing  
+
+---
+
+### 32. [Is Patching Dead? Vulnerability Management in the Post-Mythos Era](https://www.securityweek.com/is-patching-dead-vulnerability-management-in-the-post-mythos-era/)
+
+**Source:** Security Week  
+**Published:** Thu, 23 Jul 2026 15:00:00 +0000  
+**Severity:** Critical  
+**Categories:** Ransomware, Data Breach, Vulnerability  
+
+---
+
+### 33. [Chick-fil-A Accounts Get Fried in Credential Stuffing Attack](https://www.securityweek.com/chick-fil-a-accounts-get-fried-in-credential-stuffing-attack/)
+
+**Source:** Security Week  
+**Published:** Thu, 23 Jul 2026 14:55:19 +0000  
+**Severity:** High  
+**Categories:** Ransomware, Data Breach, Malware, Phishing, Supply Chain  
+
+---
+
+### 34. [Abstract Raises $25 Million to Expand Composable Security Operations Platform](https://www.securityweek.com/abstract-raises-25-million-to-expand-composable-security-operations-platform/)
 
 **Source:** Security Week  
 **Published:** Thu, 23 Jul 2026 13:54:56 +0000  
@@ -293,7 +319,7 @@
 
 ---
 
-### 32. [Nuclear-Sabotage Malware Benchmark Trips Up Most Frontier AI Models](https://www.securityweek.com/nuclear-sabotage-malware-benchmark-trips-up-most-frontier-ai-models/)
+### 35. [Nuclear-Sabotage Malware Benchmark Trips Up Most Frontier AI Models](https://www.securityweek.com/nuclear-sabotage-malware-benchmark-trips-up-most-frontier-ai-models/)
 
 **Source:** Security Week  
 **Published:** Thu, 23 Jul 2026 12:42:12 +0000  
@@ -302,7 +328,7 @@
 
 ---
 
-### 33. [Upbound Group Says Data Breach Led to $13 Million in Fraudulent Contract Losses](https://www.securityweek.com/upbound-group-says-data-breach-led-to-13-million-in-fraudulent-contract-losses/)
+### 36. [Upbound Group Says Data Breach Led to $13 Million in Fraudulent Contract Losses](https://www.securityweek.com/upbound-group-says-data-breach-led-to-13-million-in-fraudulent-contract-losses/)
 
 **Source:** Security Week  
 **Published:** Thu, 23 Jul 2026 10:49:10 +0000  
@@ -311,7 +337,7 @@
 
 ---
 
-### 34. [Assaf Keren Appointed New CISO of Meta](https://www.securityweek.com/assaf-keren-appointed-new-ciso-of-meta/)
+### 37. [Assaf Keren Appointed New CISO of Meta](https://www.securityweek.com/assaf-keren-appointed-new-ciso-of-meta/)
 
 **Source:** Security Week  
 **Published:** Thu, 23 Jul 2026 09:53:51 +0000  
@@ -320,17 +346,17 @@
 
 ---
 
-### 35. [New Check Point Zero-Day Vulnerability Exploited in the Wild](https://www.securityweek.com/new-check-point-zero-day-vulnerability-exploited-in-the-wild/)
+### 38. [New Check Point Zero-Day Vulnerability Exploited in the Wild](https://www.securityweek.com/new-check-point-zero-day-vulnerability-exploited-in-the-wild/)
 
 **Source:** Security Week  
 **Published:** Thu, 23 Jul 2026 09:06:04 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-16232, CVE-2026-50751, CVE-2026-62144, CVE-2026-62145, CVE-2024-24919  
+**CVEs:** CVE-2026-50751, CVE-2026-62144, CVE-2026-62145, CVE-2024-24919, CVE-2026-16232  
 **Categories:** Ransomware, Vulnerability, Malware  
 
 ---
 
-### 36. [US Warns of Iranian Hackers Targeting Siemens, Schneider, and Rockwell ICS Devices](https://www.securityweek.com/us-warns-of-iranian-hackers-targeting-siemens-schneider-and-rockwell-ics-devices/)
+### 39. [US Warns of Iranian Hackers Targeting Siemens, Schneider, and Rockwell ICS Devices](https://www.securityweek.com/us-warns-of-iranian-hackers-targeting-siemens-schneider-and-rockwell-ics-devices/)
 
 **Source:** Security Week  
 **Published:** Thu, 23 Jul 2026 05:28:50 +0000  
@@ -339,40 +365,12 @@
 
 ---
 
-### 37. [Suno, Paidwork Data Breaches Affect Tens of Millions of Accounts](https://www.securityweek.com/suno-paidwork-data-breaches-affect-tens-of-millions-of-accounts/)
+### 40. [Suno, Paidwork Data Breaches Affect Tens of Millions of Accounts](https://www.securityweek.com/suno-paidwork-data-breaches-affect-tens-of-millions-of-accounts/)
 
 **Source:** Security Week  
 **Published:** Wed, 22 Jul 2026 15:02:11 +0000  
 **Severity:** Critical  
 **Categories:** Ransomware, Data Breach, Vulnerability  
-
----
-
-### 38. [Palo Alto Networks to Acquire Observability Platform Provider Embrace](https://www.securityweek.com/palo-alto-networks-to-acquire-observability-platform-provider-embrace/)
-
-**Source:** Security Week  
-**Published:** Wed, 22 Jul 2026 14:58:53 +0000  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 39. [Flaw in Adobe Extension With 300M Installs Enabled WhatsApp Data Theft](https://www.securityweek.com/flaw-in-adobe-extension-with-300m-installs-enabled-whatsapp-data-theft/)
-
-**Source:** Security Week  
-**Published:** Wed, 22 Jul 2026 14:22:31 +0000  
-**Severity:** High  
-**CVEs:** CVE-2026-48294  
-**Categories:** Vulnerability, Malware  
-
----
-
-### 40. [When Identity Verification Fails: Lessons from a Real-World SIM Swap and Near Account Takeover](https://www.securityweek.com/when-identity-verification-fails-lessons-from-a-real-world-sim-swap-and-near-account-takeover/)
-
-**Source:** Security Week  
-**Published:** Wed, 22 Jul 2026 14:00:00 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, Phishing, APT  
 
 ---
 
@@ -426,7 +424,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Jul 2026 20:27:33 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-55140, CVE-2026-55129, CVE-2026-54128, CVE-2026-55944, CVE-2026-54992, CVE-2026-55132, CVE-2026-50655, CVE-2026-56164, CVE-2026-55010, CVE-2026-55127, CVE-2026-56155, CVE-2026-55120, CVE-2026-55056, CVE-2026-55022, CVE-2026-55049, CVE-2026-55033, CVE-2026-50370, CVE-2026-50522, CVE-2026-55043, CVE-2026-55123, CVE-2026-50327, CVE-2026-55018, CVE-2026-58644, CVE-2026-55045, CVE-2026-50518, CVE-2026-56188, CVE-2026-50467, CVE-2026-50314  
+**CVEs:** CVE-2026-50467, CVE-2026-55022, CVE-2026-50518, CVE-2026-56188, CVE-2026-55045, CVE-2026-55049, CVE-2026-50655, CVE-2026-58644, CVE-2026-55018, CVE-2026-50314, CVE-2026-55120, CVE-2026-50370, CVE-2026-55043, CVE-2026-55010, CVE-2026-55129, CVE-2026-54128, CVE-2026-50327, CVE-2026-55056, CVE-2026-54992, CVE-2026-56155, CVE-2026-55944, CVE-2026-50522, CVE-2026-55033, CVE-2026-55123, CVE-2026-56164, CVE-2026-55132, CVE-2026-55127, CVE-2026-55140  
 **Categories:** Vulnerability  
 
 ---
@@ -454,7 +452,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 09 Jul 2026 18:52:29 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-25106, CVE-2026-28739, CVE-2026-33091  
+**CVEs:** CVE-2026-28739, CVE-2026-25106, CVE-2026-33091  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -638,7 +636,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
