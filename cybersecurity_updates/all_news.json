@@ -1,6 +1,64 @@
 [
   {
     "source": "The Hacker News",
+    "title": "GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier",
+    "link": "https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html",
+    "published": "Thu, 23 Jul 2026 00:07:42 +0530",
+    "summary": "Beginning July 27, 2026, GitHub will cut public bug bounty payouts by at least half at every severity level. Critical findings will drop from $20,000-$30,000+ to a fixed $10,000, while its permanent invite-only VIP tier will pay $30,000 or more.\n\nReports filed before that date, including those already in GitHub's growing triage queue, will retain the previous payout terms.\n\nGitHub said the",
+    "analysis": {
+      "issue": "GitHub cuts public bug bounty payouts by at least half on July 27, while critical VIP rewards start at $30,000",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs",
+    "link": "https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html",
+    "published": "Wed, 22 Jul 2026 23:37:16 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a new local privilege escalation (LPE) vulnerability in snap-confine that an unprivileged user can trigger to obtain root access and gain complete control of a target environment.\n\nThe high-severity flaw, tracked as CVE-2026-8933 (CVSS score: 7.8), impacts default installations of Ubuntu Desktop 24.04, 25.10, and 26.04. The disclosure comes as",
+    "analysis": {
+      "issue": "CVE-2026-8933 combines two snap-confine races that could turn local Ubuntu access into root on default Desktop 24",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-8933"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data",
+    "link": "https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html",
+    "published": "Wed, 22 Jul 2026 20:31:21 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a now-patched vulnerability chain in the Adobe Acrobat Chrome extension that has over 314 million users, which, if exploited, could facilitate a silent hijack of a user's WhatsApp data.\n\nThe shortcoming has been codenamed HermeticReader by Guardio Labs. It's officially tracked as CVE-2026-48294 (CVSS score: 7.4), with the vulnerability",
+    "analysis": {
+      "issue": "Adobe patched CVE-2026-48294 after malicious pages could abuse its Acrobat Chrome extension to expose rendered WhatsApp Web chat data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-48294"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication",
     "link": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html",
     "published": "Wed, 22 Jul 2026 18:06:36 +0530",
@@ -128,56 +186,39 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
-    "link": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
-    "published": "Wed, 22 Jul 2026 00:16:32 +0530",
-    "summary": "Apple has moved to address a security flaw in its Hide My Email service that enabled users' real email addresses to be unmasked, effectively undermining the feature's privacy guarantees.\n\n404 Media reported Tuesday that a fix for the issue was deployed by Apple on July 3, 2026, after more than a year, when it was disclosed to the company by Tyler Murphy, co-founder of EasyOptOuts.\n\nHide My Email",
+    "source": "Bleeping Computer",
+    "title": "Upbound says hack caused $13 million in fraudulent Acima leases",
+    "link": "https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/",
+    "published": "Wed, 22 Jul 2026 17:43:39 -0400",
+    "summary": "The Upbound Group fintech company disclosed that threat actors who stole data from its systems leveraged it to create $13 million in Acima leases. [...]",
     "analysis": {
-      "issue": "Apple fixed a Hide My Email flaw that exposed real addresses in mail logs when messages were rejected as spam, more than a year after disclosure",
+      "issue": "The Upbound Group fintech company disclosed that threat actors who stole data from its systems leveraged it to create $13 million in Acima leases",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Supply Chain"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
-    "link": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
-    "published": "Tue, 21 Jul 2026 21:36:12 +0530",
-    "summary": "Hidden text on a web page was enough to make Kiro, AWS's agentic coding IDE, rewrite its own configuration file and run an attacker's code on a developer's machine, with no approval step able to stop it.\n\nIntezer, in research with Kodem Security, found that a request as ordinary as asking Kiro to summarize a page could end in remote code execution. AWS has patched the issue, and no CVE has been",
+    "source": "Bleeping Computer",
+    "title": "South Korea discloses data breach impacting diplomats worldwide",
+    "link": "https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/",
+    "published": "Wed, 22 Jul 2026 16:06:54 -0400",
+    "summary": "South Korea disclosed that hackers breached the National Diplomatic Academy's online education system for ten months and stole personal information belonging to current and former employees of the Ministry of Foreign Affairs (MFA), including overseas diplomats. [...]",
     "analysis": {
-      "issue": "AWS fixed a Kiro prompt injection chain that rewrote mcp",
+      "issue": "South Korea disclosed that hackers breached the National Diplomatic Academy's online education system for ten months and stole personal information belonging to current and former employees of the Ministry of Foreign Affairs (MFA), including overseas",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities",
-    "link": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html",
-    "published": "Tue, 21 Jul 2026 20:39:28 +0530",
-    "summary": "Google's DeepMind on Tuesday announced the release of Gemini 3.5 Flash Cyber, a specialized artificial intelligence (AI) model built atop 3.5 Flash that's designed to discover, validate, and patch vulnerabilities quickly and efficiently.\n\nAccording to the tech giant, the model will be exclusively available to governments and trusted partners via CodeMender as part of a limited-access pilot",
-    "analysis": {
-      "issue": "5 Flash Cyber found 55 confirmed V8 issues and will enter a limited CodeMender pilot for governments and trusted partners",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
+        "Data Breach",
+        "Vulnerability"
       ]
     }
   },
@@ -332,42 +373,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "OpenAI says its AI models hacked Hugging Face during testing",
-    "link": "https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing/",
-    "published": "Wed, 22 Jul 2026 01:19:20 -0400",
-    "summary": "OpenAI says its AI models, including GPT‑5.6 Sol and a pre-release model, hacked into the Hugging Face artificial intelligence repository while being tested in a sandboxed testing environment. [...]",
-    "analysis": {
-      "issue": "OpenAI says its AI models, including GPT‑5",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Police dismantle Kratos phishing platform, arrest developer",
-    "link": "https://www.bleepingcomputer.com/news/security/police-dismantle-kratos-phishing-platform-arrest-developer/",
-    "published": "Tue, 21 Jul 2026 19:07:33 -0400",
-    "summary": "Authorities in Germany and the U.S. dismantled the central infrastructure of Kratos, a phishing-as-a-service (PhaaS) platform with global reach, and its developer was arrested in Indonesia. [...]",
-    "analysis": {
-      "issue": "Authorities in Germany and the U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "LG to Ban Residential Proxies from Smart TV Apps",
     "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
@@ -399,9 +404,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-56155",
-        "CVE-2026-48561",
         "CVE-2026-56164",
-        "CVE-2026-50661"
+        "CVE-2026-50661",
+        "CVE-2026-48561"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -693,8 +698,8 @@
       "cves": [
         "CVE-2026-58644",
         "CVE-2026-45659",
-        "CVE-2026-56164",
-        "CVE-2026-50522"
+        "CVE-2026-50522",
+        "CVE-2026-56164"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -828,34 +833,34 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-50655",
+        "CVE-2026-56164",
+        "CVE-2026-55132",
+        "CVE-2026-54128",
+        "CVE-2026-55127",
+        "CVE-2026-50327",
+        "CVE-2026-55944",
         "CVE-2026-55043",
+        "CVE-2026-55056",
+        "CVE-2026-50522",
+        "CVE-2026-54992",
+        "CVE-2026-55010",
+        "CVE-2026-55033",
+        "CVE-2026-50370",
+        "CVE-2026-50314",
+        "CVE-2026-56155",
+        "CVE-2026-55129",
+        "CVE-2026-55123",
+        "CVE-2026-55120",
         "CVE-2026-55018",
         "CVE-2026-50467",
-        "CVE-2026-50314",
-        "CVE-2026-55056",
-        "CVE-2026-50655",
-        "CVE-2026-55010",
-        "CVE-2026-55022",
-        "CVE-2026-55045",
-        "CVE-2026-55127",
-        "CVE-2026-55140",
-        "CVE-2026-55033",
-        "CVE-2026-50522",
         "CVE-2026-56188",
-        "CVE-2026-50327",
-        "CVE-2026-50518",
-        "CVE-2026-55120",
-        "CVE-2026-55944",
-        "CVE-2026-55129",
-        "CVE-2026-58644",
-        "CVE-2026-50370",
-        "CVE-2026-55132",
-        "CVE-2026-56155",
-        "CVE-2026-56164",
+        "CVE-2026-55045",
+        "CVE-2026-55140",
         "CVE-2026-55049",
-        "CVE-2026-55123",
-        "CVE-2026-54128",
-        "CVE-2026-54992"
+        "CVE-2026-50518",
+        "CVE-2026-58644",
+        "CVE-2026-55022"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -914,8 +919,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-28739",
         "CVE-2026-25106",
+        "CVE-2026-28739",
         "CVE-2026-33091"
       ],
       "threat_categories": [

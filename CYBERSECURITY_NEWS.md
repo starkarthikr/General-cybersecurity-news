@@ -1,10 +1,39 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-22 17:49:02 UTC
+**Last Updated:** 2026-07-23 03:24:20 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication](https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html)
+### 1. [GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier](https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 23 Jul 2026 00:07:42 +0530  
+**Severity:** Critical  
+**Categories:** General Security  
+
+---
+
+### 2. [Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs](https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 22 Jul 2026 23:37:16 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-8933  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data](https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 22 Jul 2026 20:31:21 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-48294  
+**Categories:** Vulnerability  
+
+---
+
+### 4. [Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication](https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 22 Jul 2026 18:06:36 +0530  
@@ -14,7 +43,7 @@
 
 ---
 
-### 2. [The Fastest Path to AI Adoption Runs Through Security](https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html)
+### 5. [The Fastest Path to AI Adoption Runs Through Security](https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 22 Jul 2026 17:28:00 +0530  
@@ -23,7 +52,7 @@
 
 ---
 
-### 3. [OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark](https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html)
+### 6. [OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark](https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 22 Jul 2026 17:00:02 +0530  
@@ -32,7 +61,7 @@
 
 ---
 
-### 4. [Why Modern SOCs Need Multi-Layered Detections](https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html)
+### 7. [Why Modern SOCs Need Multi-Layered Detections](https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 22 Jul 2026 16:55:35 +0530  
@@ -41,7 +70,7 @@
 
 ---
 
-### 5. [Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA](https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html)
+### 8. [Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA](https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 22 Jul 2026 12:08:45 +0530  
@@ -50,7 +79,7 @@
 
 ---
 
-### 6. [Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library](https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html)
+### 9. [Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library](https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 22 Jul 2026 11:30:06 +0530  
@@ -59,7 +88,7 @@
 
 ---
 
-### 7. [Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents](https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html)
+### 10. [Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents](https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 22 Jul 2026 10:27:52 +0530  
@@ -68,34 +97,25 @@
 
 ---
 
-### 8. [Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs](https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html)
+### 11. [Upbound says hack caused $13 million in fraudulent Acima leases](https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 22 Jul 2026 00:16:32 +0530  
+**Source:** Bleeping Computer  
+**Published:** Wed, 22 Jul 2026 17:43:39 -0400  
 **Severity:** Low  
-**Categories:** General Security  
+**Categories:** Supply Chain  
 
 ---
 
-### 9. [AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code](https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html)
+### 12. [South Korea discloses data breach impacting diplomats worldwide](https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 21 Jul 2026 21:36:12 +0530  
+**Source:** Bleeping Computer  
+**Published:** Wed, 22 Jul 2026 16:06:54 -0400  
 **Severity:** Low  
-**Categories:** General Security  
+**Categories:** Data Breach, Vulnerability  
 
 ---
 
-### 10. [Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities](https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 21 Jul 2026 20:39:28 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 11. [Swiss rail giant Stadler rejects $12.3M ransom demand after cyberattack](https://www.bleepingcomputer.com/news/security/swiss-rail-giant-stadler-rejects-123m-ransom-demand-after-cyberattack/)
+### 13. [Swiss rail giant Stadler rejects $12.3M ransom demand after cyberattack](https://www.bleepingcomputer.com/news/security/swiss-rail-giant-stadler-rejects-123m-ransom-demand-after-cyberattack/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 22 Jul 2026 12:59:17 -0400  
@@ -104,7 +124,7 @@
 
 ---
 
-### 12. [How enterprise GenAI can amplify ransomware risk — and how to contain it](https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/)
+### 14. [How enterprise GenAI can amplify ransomware risk — and how to contain it](https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 22 Jul 2026 11:30:00 -0400  
@@ -113,7 +133,7 @@
 
 ---
 
-### 13. [New InfraTrust report reveals infrastructure flaws admins should patch first](https://www.bleepingcomputer.com/news/security/new-infratrust-report-reveals-infrastructure-flaws-admins-should-patch-first/)
+### 15. [New InfraTrust report reveals infrastructure flaws admins should patch first](https://www.bleepingcomputer.com/news/security/new-infratrust-report-reveals-infrastructure-flaws-admins-should-patch-first/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 22 Jul 2026 10:15:00 -0400  
@@ -122,7 +142,7 @@
 
 ---
 
-### 14. [Adobe Chrome extension flaw let sites access private WhatsApp chats](https://www.bleepingcomputer.com/news/security/adobe-chrome-extension-flaw-let-sites-access-private-whatsapp-chats/)
+### 16. [Adobe Chrome extension flaw let sites access private WhatsApp chats](https://www.bleepingcomputer.com/news/security/adobe-chrome-extension-flaw-let-sites-access-private-whatsapp-chats/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 22 Jul 2026 09:22:20 -0400  
@@ -132,7 +152,7 @@
 
 ---
 
-### 15. [CISA orders urgent action on actively exploited Langflow RCE flaw](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-langflow-rce-flaw/)
+### 17. [CISA orders urgent action on actively exploited Langflow RCE flaw](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-langflow-rce-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 22 Jul 2026 07:43:28 -0400  
@@ -142,7 +162,7 @@
 
 ---
 
-### 16. [Stop renting storage space — this lifetime 2TB plan is yours for $59](https://www.bleepingcomputer.com/news/security/stop-renting-storage-space-this-lifetime-2tb-plan-is-yours-for-59/)
+### 18. [Stop renting storage space — this lifetime 2TB plan is yours for $59](https://www.bleepingcomputer.com/news/security/stop-renting-storage-space-this-lifetime-2tb-plan-is-yours-for-59/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 22 Jul 2026 07:09:16 -0400  
@@ -151,7 +171,7 @@
 
 ---
 
-### 17. [Microsoft to stop Exchange 2016 / 2019 security updates in October](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-esu-program-ends-in-october/)
+### 19. [Microsoft to stop Exchange 2016 / 2019 security updates in October](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-esu-program-ends-in-october/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 22 Jul 2026 06:44:52 -0400  
@@ -160,30 +180,12 @@
 
 ---
 
-### 18. [Chick-fil-A discloses data breach after credential stuffing attacks](https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/)
+### 20. [Chick-fil-A discloses data breach after credential stuffing attacks](https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 22 Jul 2026 02:40:29 -0400  
 **Severity:** Low  
 **Categories:** Data Breach, Supply Chain  
-
----
-
-### 19. [OpenAI says its AI models hacked Hugging Face during testing](https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 22 Jul 2026 01:19:20 -0400  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 20. [Police dismantle Kratos phishing platform, arrest developer](https://www.bleepingcomputer.com/news/security/police-dismantle-kratos-phishing-platform-arrest-developer/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 21 Jul 2026 19:07:33 -0400  
-**Severity:** Low  
-**Categories:** Phishing  
 
 ---
 
@@ -201,7 +203,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56155, CVE-2026-48561, CVE-2026-56164, CVE-2026-50661  
+**CVEs:** CVE-2026-56155, CVE-2026-56164, CVE-2026-50661, CVE-2026-48561  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -339,7 +341,7 @@
 **Source:** Security Week  
 **Published:** Wed, 22 Jul 2026 11:29:16 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-58644, CVE-2026-45659, CVE-2026-56164, CVE-2026-50522  
+**CVEs:** CVE-2026-58644, CVE-2026-45659, CVE-2026-50522, CVE-2026-56164  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -403,7 +405,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Jul 2026 20:27:33 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-55043, CVE-2026-55018, CVE-2026-50467, CVE-2026-50314, CVE-2026-55056, CVE-2026-50655, CVE-2026-55010, CVE-2026-55022, CVE-2026-55045, CVE-2026-55127, CVE-2026-55140, CVE-2026-55033, CVE-2026-50522, CVE-2026-56188, CVE-2026-50327, CVE-2026-50518, CVE-2026-55120, CVE-2026-55944, CVE-2026-55129, CVE-2026-58644, CVE-2026-50370, CVE-2026-55132, CVE-2026-56155, CVE-2026-56164, CVE-2026-55049, CVE-2026-55123, CVE-2026-54128, CVE-2026-54992  
+**CVEs:** CVE-2026-50655, CVE-2026-56164, CVE-2026-55132, CVE-2026-54128, CVE-2026-55127, CVE-2026-50327, CVE-2026-55944, CVE-2026-55043, CVE-2026-55056, CVE-2026-50522, CVE-2026-54992, CVE-2026-55010, CVE-2026-55033, CVE-2026-50370, CVE-2026-50314, CVE-2026-56155, CVE-2026-55129, CVE-2026-55123, CVE-2026-55120, CVE-2026-55018, CVE-2026-50467, CVE-2026-56188, CVE-2026-55045, CVE-2026-55140, CVE-2026-55049, CVE-2026-50518, CVE-2026-58644, CVE-2026-55022  
 **Categories:** Vulnerability  
 
 ---
@@ -431,7 +433,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 09 Jul 2026 18:52:29 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-28739, CVE-2026-25106, CVE-2026-33091  
+**CVEs:** CVE-2026-25106, CVE-2026-28739, CVE-2026-33091  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
