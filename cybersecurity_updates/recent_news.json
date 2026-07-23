@@ -1,6 +1,62 @@
 [
   {
     "source": "The Hacker News",
+    "title": "How Synthetic Identity Fraud is Coming for Machine Identities",
+    "link": "https://thehackernews.com/2026/07/how-synthetic-identity-fraud-is-coming.html",
+    "published": "Thu, 23 Jul 2026 17:15:00 +0530",
+    "summary": "Most people understand identity theft as an attacker stealing a real person's sensitive information and impersonating them. Synthetic identity fraud is much harder to catch. Instead of stealing a real identity, the attacker manufactures a new one, frankensteining together several real data points with fabricated ones to create a person who doesn't exist. Since no real victim monitors misuse, a",
+    "analysis": {
+      "issue": "Synthetic identity fraud has a machine-side equivalent: fabricated NHIs",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Attackers Weaponize GitHub Actions Runners to Target cPanel and WHM Servers",
+    "link": "https://thehackernews.com/2026/07/attackers-weaponize-github-actions.html",
+    "published": "Thu, 23 Jul 2026 16:58:54 +0530",
+    "summary": "Cybersecurity researchers have shed light on a large-scale campaign that has turned compromised GitHub repositories into distributed attack infrastructure designed to target cPanel and WebHost Manager (WHM) instances.\n\nThe activity involves malicious Packagist development versions spanning 10 packages associated with a legitimate PHP and DevOps developer, dinushchathurya, between July 12 and 13,",
+    "analysis": {
+      "issue": "Attackers abuse compromised GitHub repos and hosted runners to target cPanel and WHM via CVE-2026-41940, using 583 workflows across 10 versions",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-41940"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Google Adds Selfie Video Recovery for Users Locked Out of Their Accounts",
+    "link": "https://thehackernews.com/2026/07/google-adds-selfie-video-recovery-for.html",
+    "published": "Thu, 23 Jul 2026 15:30:00 +0530",
+    "summary": "Google on Thursday announced a new way for users to sign-in to their accounts by letting them take a selfie video.\n\nThe selfie for sign-in, per the tech giant, is another option on top of existing recovery methods to log in to an account, including an email address or a phone number. The idea is to use a video selfie as a way to regain access if a user ever gets locked out or doesn't have access",
+    "analysis": {
+      "issue": "Google adds selfie video sign-in for eligible accounts, matching live head movements against a saved encrypted video to help recover access",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs",
     "link": "https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html",
     "published": "Thu, 23 Jul 2026 13:34:35 +0530",
@@ -136,13 +192,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
-    "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
-    "published": "Wed, 22 Jul 2026 17:00:02 +0530",
-    "summary": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugging Face's production infrastructure last week.\n\nThe AI company said the models were operating with \"reduced cyber refusals for evaluation purposes\" that might otherwise limit their ability to",
+    "source": "Bleeping Computer",
+    "title": "FedRAMP Rev5 Is Ending: What the 20x Transition Really Requires",
+    "link": "https://www.bleepingcomputer.com/news/security/fedramp-rev5-is-ending-what-the-20x-transition-really-requires/",
+    "published": "Thu, 23 Jul 2026 10:00:10 -0400",
+    "summary": "FedRAMP 20X replaces point-in-time assessments with continuous, machine-readable evidence that demonstrates security controls are working. Anecdotes explains what the transition from Rev5 to FedRAMP 20X means and how organizations can prepare for continuous, evidence-based assurance. [...]",
     "analysis": {
-      "issue": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark | Read more hacking news on The Hacker News cybersecurity news website and learn how to protect against cyberattacks and software vulnerabilities",
+      "issue": "By Maril Vernon, Field CISO, Anecdotes I spent years on the offensive side of security performing red and purple team assessments, bypassing controls that GRC teams, and often times even auditors, were convinced were working",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -154,38 +210,40 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Why Modern SOCs Need Multi-Layered Detections",
-    "link": "https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html",
-    "published": "Wed, 22 Jul 2026 16:55:35 +0530",
-    "summary": "The cycle is over. For years, cybersecurity followed a familiar pattern: defenses improved, attackers adapted, and the back-and-forth continued. Today, AI-equipped attackers are simply outpacing defenses. Most intrusions now bypass endpoint and malware-based detection entirely.\n\nThe CrowdStrike Global Threat Report estimates around 79% of attacks are malware-free, as threat actors rely on",
+    "source": "Bleeping Computer",
+    "title": "EU fines Google $1 billion for search, app store antitrust violations",
+    "link": "https://www.bleepingcomputer.com/news/google/eu-fines-google-1-billion-for-digital-markets-act-breaches-in-search-and-play-store/",
+    "published": "Thu, 23 Jul 2026 08:33:19 -0400",
+    "summary": "The European Commission fined Google €890 million ($1 billion) on Thursday after finding the company had violated the European Union's Digital Markets Act (DMA), which ensures fair online competition. [...]",
     "analysis": {
-      "issue": "Network Detection and Response gives AI the evidence to connect siloed alerts, verify attacks, and contain threats when endpoint agents go dark",
+      "issue": "The European Commission fined Google €890 million ($1 billion) on Thursday after finding the company had violated the European Union's Digital Markets Act (DMA), which ensures fair online competition",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Supply Chain"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA",
-    "link": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
-    "published": "Wed, 22 Jul 2026 12:08:45 +0530",
-    "summary": "German and US law enforcement have taken down the core infrastructure of Kratos, described by German investigators as one of the world's most widely used criminal phishing kits, and Indonesian authorities arrested the man they say developed and ran it.\n\nIn a joint announcement on Monday, the Frankfurt public prosecutor's cybercrime unit (ZIT) and Germany's Federal Criminal Police Office (BKA)",
+    "source": "Bleeping Computer",
+    "title": "New RefluXFS Linux flaw lets attackers gain root privileges",
+    "link": "https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/",
+    "published": "Thu, 23 Jul 2026 07:40:16 -0400",
+    "summary": "A nine-year-old race condition vulnerability in the Linux kernel's XFS filesystem, tracked as CVE-2026-64600, allows local attackers to overwrite protected files and gain root privileges. [...]",
     "analysis": {
-      "issue": "Authorities seize 200 Kratos servers and arrest its alleged developer and operator; investigators estimate 15,000 campaigns ran monthly",
+      "issue": "A nine-year-old race condition vulnerability in the Linux kernel's XFS filesystem, tracked as CVE-2026-64600, allows local attackers to overwrite protected files and gain root privileges",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
+      "severity": "High",
+      "cves": [
+        "CVE-2026-64600"
+      ],
       "threat_categories": [
-        "Phishing"
+        "Vulnerability"
       ]
     }
   },
@@ -321,65 +379,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "New InfraTrust report reveals infrastructure flaws admins should patch first",
-    "link": "https://www.bleepingcomputer.com/news/security/new-infratrust-report-reveals-infrastructure-flaws-admins-should-patch-first/",
-    "published": "Wed, 22 Jul 2026 10:15:00 -0400",
-    "summary": "Eclypsium has launched InfraTrust, a new infrastructure cybersecurity knowledge base and monthly InfraTrust Pulse report designed to help organizations prioritize vulnerabilities affecting infrastructure, firmware, networking, and edge devices. [...]",
-    "analysis": {
-      "issue": "Eclypsium has launched InfraTrust, a new infrastructure cybersecurity knowledge base and monthly InfraTrust Pulse report designed to help organizations prioritize vulnerabilities affecting infrastructure, firmware, networking, and edge devices",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Adobe Chrome extension flaw let sites access private WhatsApp chats",
-    "link": "https://www.bleepingcomputer.com/news/security/adobe-chrome-extension-flaw-let-sites-access-private-whatsapp-chats/",
-    "published": "Wed, 22 Jul 2026 09:22:20 -0400",
-    "summary": "The Adobe Acrobat extension for Chrome could be used to access conversations and data rendered in WhatsApp Web without any form of authentication. [...]",
-    "analysis": {
-      "issue": "The Adobe Acrobat extension for Chrome could be used to access conversations and data rendered in WhatsApp Web without any form of authentication",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-48294"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA orders urgent action on actively exploited Langflow RCE flaw",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-langflow-rce-flaw/",
-    "published": "Wed, 22 Jul 2026 07:43:28 -0400",
-    "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday ordered U.S. government agencies to prioritize patching an actively exploited vulnerability in the Langflow visual framework for building AI agents. [...]",
-    "analysis": {
-      "issue": "The Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday ordered U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-0770"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "LG to Ban Residential Proxies from Smart TV Apps",
     "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
@@ -410,10 +409,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56155",
         "CVE-2026-56164",
         "CVE-2026-50661",
-        "CVE-2026-48561"
+        "CVE-2026-48561",
+        "CVE-2026-56155"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -547,8 +546,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-49160",
         "CVE-2026-45586",
+        "CVE-2026-49160",
         "CVE-2026-50507"
       ],
       "threat_categories": [
@@ -571,6 +570,63 @@
       "severity": "High",
       "cves": [],
       "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Abstract Raises $25 Million to Expand Composable Security Operations Platform",
+    "link": "https://www.securityweek.com/abstract-raises-25-million-to-expand-composable-security-operations-platform/",
+    "published": "Thu, 23 Jul 2026 13:54:56 +0000",
+    "summary": "<p>The latest investment round brings the total raised by Abstract to nearly $50 million.</p>\n<p>The post <a href=\"https://www.securityweek.com/abstract-raises-25-million-to-expand-composable-security-operations-platform/\">Abstract Raises $25 Million to Expand Composable Security Operations Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The latest investment round brings the total raised by Abstract to nearly $50 million",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Nuclear-Sabotage Malware Benchmark Trips Up Most Frontier AI Models",
+    "link": "https://www.securityweek.com/nuclear-sabotage-malware-benchmark-trips-up-most-frontier-ai-models/",
+    "published": "Thu, 23 Jul 2026 12:42:12 +0000",
+    "summary": "<p>SentinelOne’s new benchmark, built on the Fast16 case, shows which AI models can sustain a malware investigation and which cannot.</p>\n<p>The post <a href=\"https://www.securityweek.com/nuclear-sabotage-malware-benchmark-trips-up-most-frontier-ai-models/\">Nuclear-Sabotage Malware Benchmark Trips Up Most Frontier AI Models</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "SentinelOne’s new benchmark, built on the Fast16 case, shows which AI models can sustain a malware investigation and which cannot",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Upbound Group Says Data Breach Led to $13 Million in Fraudulent Contract Losses",
+    "link": "https://www.securityweek.com/upbound-group-says-data-breach-led-to-13-million-in-fraudulent-contract-losses/",
+    "published": "Thu, 23 Jul 2026 10:49:10 +0000",
+    "summary": "<p>Hackers recently obtained non-sensitive customer information and other documents from the company.</p>\n<p>The post <a href=\"https://www.securityweek.com/upbound-group-says-data-breach-led-to-13-million-in-fraudulent-contract-losses/\">Upbound Group Says Data Breach Led to $13 Million in Fraudulent Contract Losses</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Hackers recently obtained non-sensitive customer information and other documents from the company",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
         "Vulnerability"
       ]
     }
@@ -606,11 +662,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-62144",
         "CVE-2026-16232",
         "CVE-2026-50751",
-        "CVE-2024-24919",
-        "CVE-2026-62145"
+        "CVE-2026-62144",
+        "CVE-2026-62145",
+        "CVE-2024-24919"
       ],
       "threat_categories": [
         "Ransomware",
@@ -714,66 +770,6 @@
         "Vulnerability",
         "Phishing",
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "StrongestLayer Raises $4.1 Million in Seed Funding Extension",
-    "link": "https://www.securityweek.com/strongestlayer-raises-4-1-million-in-seed-funding-extension/",
-    "published": "Wed, 22 Jul 2026 13:00:00 +0000",
-    "summary": "<p>The startup will use the fresh investment to accelerate its go-to-market strategy and to expand its platform.</p>\n<p>The post <a href=\"https://www.securityweek.com/strongestlayer-raises-4-1-million-in-seed-funding-extension/\">StrongestLayer Raises $4.1 Million in Seed Funding Extension</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The startup will use the fresh investment to accelerate its go-to-market strategy and to expand its platform",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Vibe-Coded Apps Riddled With Exploitable Security Flaws",
-    "link": "https://www.securityweek.com/vibe-coded-apps-riddled-with-exploitable-security-flaws/",
-    "published": "Wed, 22 Jul 2026 13:00:00 +0000",
-    "summary": "<p>Analysis found 434 exploitable flaws in AI-generated apps, with denial-of-service, authorization and secrets exposure risks among the most common issues.</p>\n<p>The post <a href=\"https://www.securityweek.com/vibe-coded-apps-riddled-with-exploitable-security-flaws/\">Vibe-Coded Apps Riddled With Exploitable Security Flaws</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Analysis found 434 exploitable flaws in AI-generated apps, with denial-of-service, authorization and secrets exposure risks among the most common issues",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Fourth SharePoint Vulnerability Exploited in Past Month’s Wave of Attacks",
-    "link": "https://www.securityweek.com/fourth-sharepoint-vulnerability-exploited-in-past-months-wave-of-attacks/",
-    "published": "Wed, 22 Jul 2026 11:29:16 +0000",
-    "summary": "<p>CVE-2026-50522 is being exploited by threat actors to steal machine keys and retain long-term access.</p>\n<p>The post <a href=\"https://www.securityweek.com/fourth-sharepoint-vulnerability-exploited-in-past-months-wave-of-attacks/\">Fourth SharePoint Vulnerability Exploited in Past Month&#8217;s Wave of Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "CVE-2026-50522 is being exploited by threat actors to steal machine keys and retain long-term access",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-45659",
-        "CVE-2026-56164",
-        "CVE-2026-50522",
-        "CVE-2026-58644"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
       ]
     }
   },
@@ -882,34 +878,34 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-55140",
+        "CVE-2026-55129",
         "CVE-2026-54128",
+        "CVE-2026-55944",
+        "CVE-2026-54992",
+        "CVE-2026-55132",
+        "CVE-2026-50655",
+        "CVE-2026-56164",
+        "CVE-2026-55010",
+        "CVE-2026-55127",
+        "CVE-2026-56155",
+        "CVE-2026-55120",
+        "CVE-2026-55056",
+        "CVE-2026-55022",
+        "CVE-2026-55049",
+        "CVE-2026-55033",
+        "CVE-2026-50370",
         "CVE-2026-50522",
         "CVE-2026-55043",
-        "CVE-2026-55132",
-        "CVE-2026-55022",
-        "CVE-2026-55018",
         "CVE-2026-55123",
-        "CVE-2026-55010",
-        "CVE-2026-55045",
-        "CVE-2026-56188",
-        "CVE-2026-55049",
-        "CVE-2026-55140",
-        "CVE-2026-56164",
-        "CVE-2026-56155",
-        "CVE-2026-58644",
         "CVE-2026-50327",
-        "CVE-2026-55033",
+        "CVE-2026-55018",
+        "CVE-2026-58644",
+        "CVE-2026-55045",
         "CVE-2026-50518",
+        "CVE-2026-56188",
         "CVE-2026-50467",
-        "CVE-2026-54992",
-        "CVE-2026-55129",
-        "CVE-2026-50655",
-        "CVE-2026-55056",
-        "CVE-2026-55127",
-        "CVE-2026-50370",
-        "CVE-2026-55120",
-        "CVE-2026-50314",
-        "CVE-2026-55944"
+        "CVE-2026-50314"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -993,6 +989,24 @@
       "cves": [],
       "threat_categories": [
         "APT"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "TAG-195 Upgrades MaaS Ecosystem with Modular Tools",
+    "link": "https://www.recordedfuture.com/research/tag-195-evolves-maas-ecosystem",
+    "published": "Thu, 23 Jul 2026 00:00:00 GMT",
+    "summary": "Insikt Group identifies four new TAG-195 malware families, revealing an architectural transition toward modular, operator-driven tooling in the MaaS ecosystem",
+    "analysis": {
+      "issue": "Insikt Group identifies four new TAG-195 malware families, revealing an architectural transition toward modular, operator-driven tooling in the MaaS ecosystem",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
       ]
     }
   },
@@ -1155,24 +1169,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Iran-Nexus TAG-182 Disseminates MarkiRAT Surveillance Tool",
-    "link": "https://www.recordedfuture.com/research/nexus-tag182-disseminates-markirat",
-    "published": "Wed, 01 Jul 2026 00:00:00 GMT",
-    "summary": "Discover how Iranian-nexus threat cluster TAG-182 uses MarkiRAT malware and fake VPN/media apps to conduct cyber surveillance operations against domestic targets.",
-    "analysis": {
-      "issue": "Discover how Iranian-nexus threat cluster TAG-182 uses MarkiRAT malware and fake VPN/media apps to conduct cyber surveillance operations against domestic targets",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
@@ -1374,6 +1370,45 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Millions of cars could be tracked and unlocked  by a hidden security flaw",
+    "link": "https://www.malwarebytes.com/blog/bugs/2026/07/millions-of-cars-could-be-tracked-and-unlocked-by-a-hidden-security-flaw",
+    "published": "Thu, 23 Jul 2026 11:24:58 GMT",
+    "summary": "A hidden flaw in a dealer-installed car alarm could let attackers unlock vehicles and track their locations. Many owners don't know they have one.",
+    "analysis": {
+      "issue": "A car alarm vendor’s coding mistake has left millions of vehicles vulnerable to theft and location tracking",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "WhatsApp Web chats exposed by Adobe&#8217;s Acrobat extension flaw",
+    "link": "https://www.malwarebytes.com/blog/bugs/2026/07/whatsapp-web-chats-exposed-by-adobes-acrobat-extension-flaw",
+    "published": "Thu, 23 Jul 2026 11:24:04 GMT",
+    "summary": "HermeticReader is a now-patched vulnerability in Adobe's popular Acrobat Chrome extension that could have been used to spy on WhatsApp Web users.",
+    "analysis": {
+      "issue": "HermeticReader is the name given to a recently disclosed vulnerability in the Adobe Acrobat PDF extension for Chrome, tracked as CVE-2026-48294",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2026-48294"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Chick-fil-A loyalty accounts hijacked using stolen passwords",
     "link": "https://www.malwarebytes.com/blog/data-breaches/2026/07/chick-fil-a-loyalty-accounts-hijacked-using-stolen-passwords",
     "published": "Wed, 22 Jul 2026 12:46:18 GMT",
@@ -1518,43 +1553,6 @@
       "cves": [],
       "threat_categories": [
         "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Fake games spread stealers with RenPy Loader, MSBuild and EtherHiding",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/07/fake-games-spread-stealers-with-renpy-loader-msbuild-and-etherhiding",
-    "published": "Mon, 20 Jul 2026 10:59:45 GMT",
-    "summary": "We look into how attackers are using the legitimate Ren'Py game engine to spread a malware loader that ultimately delivers Amatera Stealer.",
-    "analysis": {
-      "issue": "We have detected several campaigns using fake downloads of games, mods, cracks, and software to spread RenPy Loader",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "A week in security (July 13 &#8211; July 19)",
-    "link": "https://www.malwarebytes.com/blog/news/2026/07/a-week-in-security-july-13-july-19",
-    "published": "Mon, 20 Jul 2026 07:02:00 GMT",
-    "summary": "A list of topics we covered in the week of July 13 to July 19 of 2026",
-    "analysis": {
-      "issue": "Last week on Malwarebytes Labs: Stay safe",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
       ]
     }
   },
