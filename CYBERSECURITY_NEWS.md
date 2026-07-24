@@ -1,10 +1,20 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-23 17:54:57 UTC
+**Last Updated:** 2026-07-24 03:18:23 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories](https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html)
+### 1. [Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes](https://thehackernews.com/2026/07/russian-espionage-group-exploited.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 24 Jul 2026 00:06:08 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2025-66376  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories](https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 23 Jul 2026 20:32:07 +0530  
@@ -13,7 +23,7 @@
 
 ---
 
-### 2. [Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files](https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html)
+### 3. [Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files](https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 23 Jul 2026 18:57:59 +0530  
@@ -23,7 +33,7 @@
 
 ---
 
-### 3. [Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge](https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html)
+### 4. [Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge](https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 23 Jul 2026 18:41:09 +0530  
@@ -32,7 +42,7 @@
 
 ---
 
-### 4. [China-Nexus JadeProx Uses New TriBack Loader in Government and Healthcare Attacks](https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html)
+### 5. [China-Nexus JadeProx Uses New TriBack Loader in Government and Healthcare Attacks](https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 23 Jul 2026 17:50:23 +0530  
@@ -41,7 +51,7 @@
 
 ---
 
-### 5. [How Synthetic Identity Fraud is Coming for Machine Identities](https://thehackernews.com/2026/07/how-synthetic-identity-fraud-is-coming.html)
+### 6. [How Synthetic Identity Fraud is Coming for Machine Identities](https://thehackernews.com/2026/07/how-synthetic-identity-fraud-is-coming.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 23 Jul 2026 17:15:00 +0530  
@@ -50,7 +60,7 @@
 
 ---
 
-### 6. [Attackers Weaponize GitHub Actions Runners to Target cPanel and WHM Servers](https://thehackernews.com/2026/07/attackers-weaponize-github-actions.html)
+### 7. [Attackers Weaponize GitHub Actions Runners to Target cPanel and WHM Servers](https://thehackernews.com/2026/07/attackers-weaponize-github-actions.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 23 Jul 2026 16:58:54 +0530  
@@ -60,7 +70,7 @@
 
 ---
 
-### 7. [Google Adds Selfie Video Recovery for Users Locked Out of Their Accounts](https://thehackernews.com/2026/07/google-adds-selfie-video-recovery-for.html)
+### 8. [Google Adds Selfie Video Recovery for Users Locked Out of Their Accounts](https://thehackernews.com/2026/07/google-adds-selfie-video-recovery-for.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 23 Jul 2026 15:30:00 +0530  
@@ -69,7 +79,7 @@
 
 ---
 
-### 8. [Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs](https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html)
+### 9. [Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs](https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 23 Jul 2026 13:34:35 +0530  
@@ -79,7 +89,7 @@
 
 ---
 
-### 9. [Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access](https://thehackernews.com/2026/07/check-point-patches-exploited.html)
+### 10. [Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access](https://thehackernews.com/2026/07/check-point-patches-exploited.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 23 Jul 2026 12:04:36 +0530  
@@ -89,16 +99,34 @@
 
 ---
 
-### 10. [GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier](https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html)
+### 11. [New Dolphin X malware uses AI to rank high-value targets](https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 23 Jul 2026 00:07:42 +0530  
-**Severity:** Critical  
-**Categories:** General Security  
+**Source:** Bleeping Computer  
+**Published:** Thu, 23 Jul 2026 17:20:34 -0400  
+**Severity:** High  
+**Categories:** Malware  
 
 ---
 
-### 11. [Russian hackers exploit Zimbra zero-click flaw for email theft](https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/)
+### 12. [Australian energy provider Origin says data breach exposes client data](https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 23 Jul 2026 16:14:35 -0400  
+**Severity:** Low  
+**Categories:** Data Breach  
+
+---
+
+### 13. [Fake Claude app promoted by Bing ads pushes SectopRAT malware](https://www.bleepingcomputer.com/news/security/fake-claude-app-promoted-by-bing-ads-pushes-sectoprat-malware/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 23 Jul 2026 15:48:30 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 14. [Russian hackers exploit Zimbra zero-click flaw for email theft](https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 23 Jul 2026 12:49:27 -0400  
@@ -108,7 +136,7 @@
 
 ---
 
-### 12. [Hackers abuse Notepad++ plugins to stealthily install malware](https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/)
+### 15. [Hackers abuse Notepad++ plugins to stealthily install malware](https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 23 Jul 2026 12:32:35 -0400  
@@ -117,7 +145,7 @@
 
 ---
 
-### 13. [Microsoft 365 outage affects Teams, SharePoint and other services](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/)
+### 16. [Microsoft 365 outage affects Teams, SharePoint and other services](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 23 Jul 2026 11:34:43 -0400  
@@ -126,7 +154,7 @@
 
 ---
 
-### 14. [FedRAMP Rev5 Is Ending: What the 20x Transition Really Requires](https://www.bleepingcomputer.com/news/security/fedramp-rev5-is-ending-what-the-20x-transition-really-requires/)
+### 17. [FedRAMP Rev5 Is Ending: What the 20x Transition Really Requires](https://www.bleepingcomputer.com/news/security/fedramp-rev5-is-ending-what-the-20x-transition-really-requires/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 23 Jul 2026 10:00:10 -0400  
@@ -135,7 +163,7 @@
 
 ---
 
-### 15. [EU fines Google $1 billion for search, app store antitrust violations](https://www.bleepingcomputer.com/news/google/eu-fines-google-1-billion-for-digital-markets-act-breaches-in-search-and-play-store/)
+### 18. [EU fines Google $1 billion for search, app store antitrust violations](https://www.bleepingcomputer.com/news/google/eu-fines-google-1-billion-for-digital-markets-act-breaches-in-search-and-play-store/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 23 Jul 2026 08:33:19 -0400  
@@ -144,7 +172,7 @@
 
 ---
 
-### 16. [New RefluXFS Linux flaw lets attackers gain root privileges](https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/)
+### 19. [New RefluXFS Linux flaw lets attackers gain root privileges](https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 23 Jul 2026 07:40:16 -0400  
@@ -154,40 +182,12 @@
 
 ---
 
-### 17. [New msaRAT malware uses Chrome, Edge browsers to route C2 traffic](https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/)
+### 20. [New msaRAT malware uses Chrome, Edge browsers to route C2 traffic](https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 23 Jul 2026 06:00:00 -0400  
 **Severity:** Low  
 **Categories:** Ransomware, Malware, Phishing  
-
----
-
-### 18. [Microsoft working to fix Exchange Online mailbox quarantine issue](https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-exchange-online-mailbox-quarantine-issue/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 23 Jul 2026 05:20:10 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 19. [Check Point warns of SmartConsole zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 23 Jul 2026 04:13:07 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-16232  
-**Categories:** Vulnerability  
-
----
-
-### 20. [Upbound says hack caused $13 million in fraudulent Acima leases](https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 22 Jul 2026 17:43:39 -0400  
-**Severity:** Low  
-**Categories:** Supply Chain  
 
 ---
 
@@ -205,7 +205,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50661, CVE-2026-48561, CVE-2026-56155, CVE-2026-56164  
+**CVEs:** CVE-2026-56164, CVE-2026-48561, CVE-2026-56155, CVE-2026-50661  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -269,7 +269,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-49160, CVE-2026-45586, CVE-2026-50507  
+**CVEs:** CVE-2026-49160, CVE-2026-50507, CVE-2026-45586  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -351,7 +351,7 @@
 **Source:** Security Week  
 **Published:** Thu, 23 Jul 2026 09:06:04 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50751, CVE-2026-62144, CVE-2026-62145, CVE-2024-24919, CVE-2026-16232  
+**CVEs:** CVE-2026-16232, CVE-2024-24919, CVE-2026-62145, CVE-2026-50751, CVE-2026-62144  
 **Categories:** Ransomware, Vulnerability, Malware  
 
 ---
@@ -374,7 +374,16 @@
 
 ---
 
-### 41. [Chaos ransomware's msaRAT: Living off the browser to build a covert C2 channel](https://blog.talosintelligence.com/chaos-msarat-living-off-the-browser-to-build-covert-c2-channel/)
+### 41. [Don’t swing at everything](https://blog.talosintelligence.com/dont-swing-at-everything/)
+
+**Source:** Talos Blog  
+**Published:** Thu, 23 Jul 2026 18:00:46 GMT  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 42. [Chaos ransomware's msaRAT: Living off the browser to build a covert C2 channel](https://blog.talosintelligence.com/chaos-msarat-living-off-the-browser-to-build-covert-c2-channel/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 23 Jul 2026 10:00:38 GMT  
@@ -383,7 +392,7 @@
 
 ---
 
-### 42. [Preview: Cisco Talos at Black Hat USA 2026](https://blog.talosintelligence.com/preview-cisco-talos-at-black-hat-usa-2026/)
+### 43. [Preview: Cisco Talos at Black Hat USA 2026](https://blog.talosintelligence.com/preview-cisco-talos-at-black-hat-usa-2026/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 23 Jul 2026 10:00:14 GMT  
@@ -392,7 +401,7 @@
 
 ---
 
-### 43. [Begun, the Patch Wars have](https://blog.talosintelligence.com/begun-the-patch-wars-have/)
+### 44. [Begun, the Patch Wars have](https://blog.talosintelligence.com/begun-the-patch-wars-have/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 16 Jul 2026 18:00:50 GMT  
@@ -401,7 +410,7 @@
 
 ---
 
-### 44. [The Hunter's Paradox: Is it time to embrace automated threat hunting?](https://blog.talosintelligence.com/the-hunters-paradox-is-it-time-to-embrace-automated-threat-hunting/)
+### 45. [The Hunter's Paradox: Is it time to embrace automated threat hunting?](https://blog.talosintelligence.com/the-hunters-paradox-is-it-time-to-embrace-automated-threat-hunting/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 16 Jul 2026 10:00:07 GMT  
@@ -410,7 +419,7 @@
 
 ---
 
-### 45. [UAT-11795 deploys novel Starland RAT and bespoke WLDR C2 implant in financially motivated campaign](https://blog.talosintelligence.com/uat-11795-deploys-novel-starland-rat-and-bespoke-wldr-c2-implant-in-financially-motivated-campaign/)
+### 46. [UAT-11795 deploys novel Starland RAT and bespoke WLDR C2 implant in financially motivated campaign](https://blog.talosintelligence.com/uat-11795-deploys-novel-starland-rat-and-bespoke-wldr-c2-implant-in-financially-motivated-campaign/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 16 Jul 2026 10:00:01 GMT  
@@ -419,17 +428,17 @@
 
 ---
 
-### 46. [Microsoft Patch Tuesday for July 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-july-2026/)
+### 47. [Microsoft Patch Tuesday for July 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-july-2026/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 14 Jul 2026 20:27:33 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50467, CVE-2026-55022, CVE-2026-50518, CVE-2026-56188, CVE-2026-55045, CVE-2026-55049, CVE-2026-50655, CVE-2026-58644, CVE-2026-55018, CVE-2026-50314, CVE-2026-55120, CVE-2026-50370, CVE-2026-55043, CVE-2026-55010, CVE-2026-55129, CVE-2026-54128, CVE-2026-50327, CVE-2026-55056, CVE-2026-54992, CVE-2026-56155, CVE-2026-55944, CVE-2026-50522, CVE-2026-55033, CVE-2026-55123, CVE-2026-56164, CVE-2026-55132, CVE-2026-55127, CVE-2026-55140  
+**CVEs:** CVE-2026-50314, CVE-2026-50518, CVE-2026-55043, CVE-2026-56188, CVE-2026-50467, CVE-2026-54992, CVE-2026-55010, CVE-2026-55127, CVE-2026-55045, CVE-2026-55022, CVE-2026-55018, CVE-2026-55140, CVE-2026-55132, CVE-2026-55123, CVE-2026-55120, CVE-2026-50522, CVE-2026-55129, CVE-2026-55033, CVE-2026-55056, CVE-2026-58644, CVE-2026-50655, CVE-2026-56155, CVE-2026-55049, CVE-2026-50327, CVE-2026-56164, CVE-2026-50370, CVE-2026-54128, CVE-2026-55944  
 **Categories:** Vulnerability  
 
 ---
 
-### 47. [[Video] Where protection starts: Cisco Talos Intelligence Integrations](https://blog.talosintelligence.com/video-where-protection-starts-cisco-talos-intelligence-integrations/)
+### 48. [[Video] Where protection starts: Cisco Talos Intelligence Integrations](https://blog.talosintelligence.com/video-where-protection-starts-cisco-talos-intelligence-integrations/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 14 Jul 2026 10:47:18 GMT  
@@ -438,7 +447,7 @@
 
 ---
 
-### 48. [The serpent’s tongue: Luring the Python out of its den](https://blog.talosintelligence.com/the-serpents-tongue-luring-the-python-out-of-its-den/)
+### 49. [The serpent’s tongue: Luring the Python out of its den](https://blog.talosintelligence.com/the-serpents-tongue-luring-the-python-out-of-its-den/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 14 Jul 2026 10:00:06 GMT  
@@ -447,22 +456,13 @@
 
 ---
 
-### 49. [WolfSSL, GeoVision, VTK vulnerabilities](https://blog.talosintelligence.com/wolfssl-vulnerabilities/)
+### 50. [WolfSSL, GeoVision, VTK vulnerabilities](https://blog.talosintelligence.com/wolfssl-vulnerabilities/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 09 Jul 2026 18:52:29 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-28739, CVE-2026-25106, CVE-2026-33091  
+**CVEs:** CVE-2026-28739, CVE-2026-33091, CVE-2026-25106  
 **Categories:** Vulnerability, Supply Chain  
-
----
-
-### 50. [Winning 54% of the time](https://blog.talosintelligence.com/winning-54-of-the-time/)
-
-**Source:** Talos Blog  
-**Published:** Thu, 09 Jul 2026 18:00:06 GMT  
-**Severity:** Low  
-**Categories:** APT  
 
 ---
 
@@ -636,7 +636,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
