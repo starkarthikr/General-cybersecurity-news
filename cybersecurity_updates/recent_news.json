@@ -1,6 +1,43 @@
 [
   {
     "source": "The Hacker News",
+    "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
+    "link": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html",
+    "published": "Fri, 24 Jul 2026 20:42:35 +0530",
+    "summary": "The North Korean threat actors behind the ClickFix-style campaigns that employ typosquatted Zoom and Microsoft Teams domains have been found to operate an active phishing kit to impersonate the videoconferencing platforms in social engineering campaigns designed to deliver malware.\n\n\"BlueNoroff has operationalised trust abuse by combining compromised industry contacts, social engineering, wallet",
+    "analysis": {
+      "issue": "BlueNoroff uses fake Zoom and Teams meetings to profile crypto wallets, hijack Telegram accounts, and deliver Windows and macOS malware",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller",
+    "link": "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html",
+    "published": "Fri, 24 Jul 2026 19:45:21 +0530",
+    "summary": "Researchers H0j3n and Aniq Fakhrul published a working exploit on July 24 that lets a low-privileged Active Directory user obtain a certificate for a Domain Controller and authenticate as that machine.\n\nThey codenamed the flaw Certighost. Because Domain Controller accounts carry directory replication rights, the resulting Kerberos credential can retrieve the krbtgt secret through DCSync.",
+    "analysis": {
+      "issue": "Certighost exploit lets a domain user obtain a Domain Controller certificate and reach DCSync through a vulnerable AD CS chase",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link",
     "link": "https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html",
     "published": "Fri, 24 Jul 2026 17:23:55 +0530",
@@ -144,40 +181,76 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes",
-    "link": "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html",
-    "published": "Fri, 24 Jul 2026 00:06:08 +0530",
-    "summary": "A Russian state-supported espionage group spent months reading Western mailboxes through a then-unknown flaw in Zimbra's webmail client.\n\nThe payload goes after the last 90 days of email, the organization's entire email directory, the password saved in the browser and the codes kept for two-factor recovery. Opening the message was enough to start it.\n\nThe NSA, CISA and partner agencies published",
+    "source": "Bleeping Computer",
+    "title": "Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/",
+    "published": "Fri, 24 Jul 2026 13:50:37 -0400",
+    "summary": "Hackers are changing the DNS settings on Wi-Fi devices at hotels and conference centers to redirect users to fake Microsoft 365 login pages. [...]",
     "analysis": {
-      "issue": "Russian spies exploited CVE-2025-66376 in Zimbra to steal 90 days of mail, passwords, 2FA codes, and directories from Western targets",
+      "issue": "Hackers are changing the DNS settings on Wi-Fi devices at hotels and conference centers to redirect users to fake Microsoft 365 login pages",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2025-66376"
-      ],
+      "severity": "High",
+      "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "Vulnerability",
+        "APT"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories",
-    "link": "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html",
-    "published": "Thu, 23 Jul 2026 20:32:07 +0530",
-    "summary": "Most of this week's trouble came dressed as something useful.\n\nA package stole data. A fake extension opened remote access. A safety app became spyware. An image gave hidden orders to an AI agent. Other threats hid in open systems, weak code, and normal network traffic.\n\n\n The threats change every week. Subscribe, and we’ll alert you when each new ThreatsDay Bulletin is out.\n\n\nThe danger was",
+    "source": "Bleeping Computer",
+    "title": "Microsoft blames massive Microsoft 365 outage on maintenance bug",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/",
+    "published": "Fri, 24 Jul 2026 11:41:44 -0400",
+    "summary": "Microsoft says a bug in its automated network maintenance request system caused Thursday's massive outage by mistakenly removing IP routes from more devices than intended, disrupting Azure and Microsoft 365 services. [...]",
     "analysis": {
-      "issue": "This week’s ThreatsDay Bulletin covers malicious packages, fake apps, AI prompt attacks, exposed systems, weak defaults, and stealthy malware traffic",
+      "issue": "Microsoft says a bug in its automated network maintenance request system caused Thursday's massive outage by mistakenly removing IP routes from more devices than intended, disrupting Azure and Microsoft 365 services",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Chick-fil-A data breach affects more than 13,000 customers",
+    "link": "https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/",
+    "published": "Fri, 24 Jul 2026 10:04:29 -0400",
+    "summary": "Chick-fil-A has confirmed that over 13,000 customers had their accounts breached in a wave of credential stuffing attacks targeting its website and mobile app between June 17 and June 19. [...]",
+    "analysis": {
+      "issue": "American fast food restaurant chain Chick-fil-A has confirmed that over 13,000 customers had their data stolen in a recent wave of credential stuffing attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Slopsquatting, Phantom Domains, and HalluSquatting Are the Same AI Attack",
+    "link": "https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/",
+    "published": "Fri, 24 Jul 2026 10:01:11 -0400",
+    "summary": "Slopsquatting, phantom squatting, and HalluSquatting all exploit the same late-binding attack pattern, where AI coding agents trust hallucinated package, repo, or domain names. ActiveState explains how pre-fetch verification and governed dependency management can help stop these attacks before malicious code enters the pipeline. [...]",
+    "analysis": {
+      "issue": "Three attacks, three names, and one identical flaw: AI coding agents treat a hallucinated identifier as a verified command",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
       ]
     }
   },
@@ -293,83 +366,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Russian hackers exploit Zimbra zero-click flaw for email theft",
-    "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/",
-    "published": "Thu, 23 Jul 2026 12:49:27 -0400",
-    "summary": "CISA is warning that the Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is targeting organizations using Zimbra Collaboration email servers by combining phishing attacks with the exploitation of a now-patched Zimbra vulnerability. [...]",
-    "analysis": {
-      "issue": "CISA is warning that the Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is targeting organizations using Zimbra Collaboration email servers by combining phishing attacks with the exploitation of a now-patched Zimbra ",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2025-66376"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers abuse Notepad++ plugins to stealthily install malware",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/",
-    "published": "Thu, 23 Jul 2026 12:32:35 -0400",
-    "summary": "Ukraine's CERT has uncovered attacks distributing an archive containing the legitimate Notepad++ application and a malicious utility called LunchPoke disguised as a plugin to establish persistence. [...]",
-    "analysis": {
-      "issue": "Ukraine's CERT has uncovered attacks distributing an archive containing the legitimate Notepad++ application and a malicious utility called LunchPoke disguised as a plugin to establish persistence",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft 365 outage affects Teams, SharePoint and other services",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/",
-    "published": "Thu, 23 Jul 2026 11:34:43 -0400",
-    "summary": "Microsoft is impacted by a massive outage affecting Teams and Microsoft 365 services, primarily affecting users in North America. [...]",
-    "analysis": {
-      "issue": "Update 7/23/26 9:55 PM ET: Article updated that the outage has been resolved",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "FedRAMP Rev5 Is Ending: What the 20x Transition Really Requires",
-    "link": "https://www.bleepingcomputer.com/news/security/fedramp-rev5-is-ending-what-the-20x-transition-really-requires/",
-    "published": "Thu, 23 Jul 2026 10:00:10 -0400",
-    "summary": "FedRAMP 20X replaces point-in-time assessments with continuous, machine-readable evidence that demonstrates security controls are working. Anecdotes explains what the transition from Rev5 to FedRAMP 20X means and how organizations can prepare for continuous, evidence-based assurance. [...]",
-    "analysis": {
-      "issue": "By Maril Vernon, Field CISO, Anecdotes I spent years on the offensive side of security performing red and purple team assessments, bypassing controls that GRC teams, and often times even auditors, were convinced were working",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "LG to Ban Residential Proxies from Smart TV Apps",
     "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
@@ -400,9 +396,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-56164",
         "CVE-2026-50661",
         "CVE-2026-56155",
-        "CVE-2026-56164",
         "CVE-2026-48561"
       ],
       "threat_categories": [
@@ -537,9 +533,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-49160",
         "CVE-2026-50507",
-        "CVE-2026-45586",
-        "CVE-2026-49160"
+        "CVE-2026-45586"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -562,6 +558,33 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "In Other News: Dolphin X AI-Powered Malware, Car Anti-Theft Device Hack, 400 Linux Kernel Flaws",
+    "link": "https://www.securityweek.com/in-other-news-dolphin-x-ai-powered-malware-car-anti-theft-device-hack-400-linux-kernel-flaws/",
+    "published": "Fri, 24 Jul 2026 14:20:00 +0000",
+    "summary": "<p>Noteworthy stories that might have slipped under the radar: Siemens ROX II industrial switch vulnerabilities, Russian Zimbra webmail espionage campaign, Stadler Rail ransomware extortion attempt.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-dolphin-x-ai-powered-malware-car-anti-theft-device-hack-400-linux-kernel-flaws/\">In Other News: Dolphin X AI-Powered Malware, Car Anti-Theft Device Hack, 400 Linux Kernel Flaws</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Noteworthy stories that might have slipped under the radar: Siemens ROX II industrial switch vulnerabilities, Russian Zimbra webmail espionage campaign, Stadler Rail ransomware extortion attempt",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2025-40948",
+        "CVE-2025-40947",
+        "CVE-2025-40949",
+        "CVE-2025-66376"
+      ],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "Malware",
+        "Phishing",
+        "APT"
       ]
     }
   },
@@ -744,24 +767,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Assaf Keren Appointed New CISO of Meta",
-    "link": "https://www.securityweek.com/assaf-keren-appointed-new-ciso-of-meta/",
-    "published": "Thu, 23 Jul 2026 09:53:51 +0000",
-    "summary": "<p>He replaces Guy Rosen, who announced his retirement from the company after 13 years.</p>\n<p>The post <a href=\"https://www.securityweek.com/assaf-keren-appointed-new-ciso-of-meta/\">Assaf Keren Appointed New CISO of Meta</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "He replaces Guy Rosen, who announced his retirement from the company after 13 years",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Don’t swing at everything",
     "link": "https://blog.talosintelligence.com/dont-swing-at-everything/",
@@ -884,34 +889,34 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-55129",
-        "CVE-2026-55045",
-        "CVE-2026-55010",
-        "CVE-2026-50327",
-        "CVE-2026-50655",
-        "CVE-2026-55056",
-        "CVE-2026-50518",
-        "CVE-2026-50314",
-        "CVE-2026-56164",
-        "CVE-2026-55043",
-        "CVE-2026-55018",
-        "CVE-2026-55132",
-        "CVE-2026-58644",
         "CVE-2026-50370",
-        "CVE-2026-55944",
+        "CVE-2026-55132",
+        "CVE-2026-56155",
         "CVE-2026-56188",
-        "CVE-2026-50467",
-        "CVE-2026-55022",
-        "CVE-2026-50522",
-        "CVE-2026-55123",
         "CVE-2026-55140",
         "CVE-2026-55033",
-        "CVE-2026-55120",
-        "CVE-2026-55127",
-        "CVE-2026-56155",
-        "CVE-2026-54992",
+        "CVE-2026-55010",
+        "CVE-2026-55018",
+        "CVE-2026-55043",
+        "CVE-2026-55022",
         "CVE-2026-54128",
-        "CVE-2026-55049"
+        "CVE-2026-50327",
+        "CVE-2026-54992",
+        "CVE-2026-55127",
+        "CVE-2026-55049",
+        "CVE-2026-55056",
+        "CVE-2026-55123",
+        "CVE-2026-55120",
+        "CVE-2026-58644",
+        "CVE-2026-50467",
+        "CVE-2026-50655",
+        "CVE-2026-55129",
+        "CVE-2026-55944",
+        "CVE-2026-56164",
+        "CVE-2026-55045",
+        "CVE-2026-50518",
+        "CVE-2026-50314",
+        "CVE-2026-50522"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -970,13 +975,31 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-33091",
         "CVE-2026-28739",
-        "CVE-2026-25106"
+        "CVE-2026-25106",
+        "CVE-2026-33091"
       ],
       "threat_categories": [
         "Vulnerability",
         "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "Ransomware is the Scoreboard",
+    "link": "https://www.recordedfuture.com/blog/ransomware-is-the-scoreboard",
+    "published": "Fri, 24 Jul 2026 00:00:00 GMT",
+    "summary": "Ransomware is the scoreboard for defensive architecture. Learn why traditional security methods fail and how to use AI and threat intelligence to identify and remediate critical attack paths.",
+    "analysis": {
+      "issue": "Ransomware is the scoreboard for defensive architecture",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
       ]
     }
   },
@@ -1132,24 +1155,6 @@
     "summary": "Recorded Future CEO Colin Mahony and Mastercard’s Aditi Sawhney discuss the convergence of cyber and financial crime. Explore how Payment Fraud helps teams move from reactive fraud models to proactive, pre-monetization disruption.",
     "analysis": {
       "issue": "Recorded Future CEO Colin Mahony and Mastercard’s Aditi Sawhney discuss the convergence of cyber and financial crime",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "The Threat Isn’t the Frontier Model",
-    "link": "https://www.recordedfuture.com/blog/build-defensive-ai-agents",
-    "published": "Wed, 08 Jul 2026 00:00:00 GMT",
-    "summary": "The real AI threat isn't frontier models. It's cheap local models getting easier to run. Here's why CISOs should build defensive agents now, before attackers scale.",
-    "analysis": {
-      "issue": "The real AI threat isn't frontier models",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1358,6 +1363,79 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Don&#8217;t get fooled by TikTok resin art scams",
+    "link": "https://www.malwarebytes.com/blog/scams/2026/07/dont-get-fooled-by-tiktok-resin-art-scams",
+    "published": "Fri, 24 Jul 2026 14:56:34 GMT",
+    "summary": "Scammers are using stolen videos and fake artist profiles to trick people into buying resin art that never arrives. Here's how to spot the warning signs.",
+    "analysis": {
+      "issue": "Resin art has become a popular corner of TikTok, with some videos attracting millions of views",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Call of Duty Mobile scam uses fake free points to steal player accounts",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/07/call-of-duty-mobile-scam-uses-fake-free-points-to-steal-player-accounts",
+    "published": "Fri, 24 Jul 2026 14:54:23 GMT",
+    "summary": "A phishing site posing as a free Call of Duty Points giveaway is stealing Activision logins and two-factor authentication codes.",
+    "analysis": {
+      "issue": "Call of Duty Mobile players should watch out for a phishing campaign disguised as a free Call of Duty Points giveaway",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "OpenAI&#8217;s agent escaped its sandbox during a security test",
+    "link": "https://www.malwarebytes.com/blog/news/2026/07/openais-agent-escaped-its-sandbox-during-a-security-test",
+    "published": "Fri, 24 Jul 2026 14:51:45 GMT",
+    "summary": "An OpenAI agent escaped its sandbox, stole credentials, and broke into Hugging Face. Here's what that actually means.",
+    "analysis": {
+      "issue": "During an internal OpenAI security evaluation, a chain of AI models escaped its sandbox, reached the internet, and then accessed Hugging Face infrastructure to complete the test objective",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Google wants to store a selfie video of your face",
+    "link": "https://www.malwarebytes.com/blog/privacy/2026/07/google-wants-to-store-a-selfie-video-of-your-face",
+    "published": "Fri, 24 Jul 2026 13:41:45 GMT",
+    "summary": "A new selfie video verification feature could make recovering your Google Account easier. But it also creates new security and privacy concerns.",
+    "analysis": {
+      "issue": "Google has started rolling out a new way to recover access to your account if you’ve lost your phone or forgotten your password: a “selfie video” verification option",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Beyond the Play Store: How Android threats really spread",
     "link": "https://www.malwarebytes.com/blog/inside-malwarebytes/2026/07/beyond-the-play-store-how-android-threats-really-spread",
     "published": "Fri, 24 Jul 2026 12:00:00 GMT",
@@ -1468,79 +1546,6 @@
         "Vulnerability",
         "Malware",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "New ClickLock Stealer locks your Mac until you hand over your password",
-    "link": "https://www.malwarebytes.com/blog/news/2026/07/new-clicklock-stealer-locks-your-mac-until-you-hand-over-your-password",
-    "published": "Tue, 21 Jul 2026 11:59:31 GMT",
-    "summary": "A new macOS infostealer tricks victims into revealing their system password and installs a persistent backdoor for future access.",
-    "analysis": {
-      "issue": "ClickLock Stealer is a new, modular macOS infostealer delivered via ClickFix-style phishing pages that can lock a victim’s Mac, steal their macOS password, browser and password manager data, cryptocurrency wallets, and then leave behind a persistent ",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Don&#8217;t trust that &#8220;FBI agent&#8221; in your DMs",
-    "link": "https://www.malwarebytes.com/blog/news/2026/07/dont-trust-that-fbi-agent-in-your-dms",
-    "published": "Tue, 21 Jul 2026 11:33:35 GMT",
-    "summary": "The FBI is warning that fraudsters are using fake IC3 accounts and direct messages to target people who've already been scammed.",
-    "analysis": {
-      "issue": "The Federal Bureau of Investigation’s (FBI) Internet Crime Complaint Center (IC3) is warning that scammers are impersonating the bureau on social media and on messaging apps, targeting people who’ve already been victims of cybercrime",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "AI nudify apps spark legal scrutiny of Apple and Google&#8217;s profits",
-    "link": "https://www.malwarebytes.com/blog/privacy/2026/07/ai-nudify-apps-spark-legal-scrutiny-of-apple-and-googles-profits",
-    "published": "Tue, 21 Jul 2026 09:48:44 GMT",
-    "summary": "Instead of fighting over what app stores host, the San Francisco City Attorney is targeting how they make money from AI nudify apps.",
-    "analysis": {
-      "issue": "You expect all kinds of apps on Apple’s App Store and Google’s Play Store, from weather monitors to home automation apps and games",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "The Odyssey piracy scams appear within hours of the movie&#8217;s release",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/07/the-odyssey-piracy-scams-appear-within-hours-of-the-movies-release",
-    "published": "Mon, 20 Jul 2026 15:41:26 GMT",
-    "summary": "The release of The Odyssey has already sparked a wave of piracy scams, from fake browser errors to malware masquerading as movie files.",
-    "analysis": {
-      "issue": "Christopher Nolan’s The Odyssey is one of the biggest movie releases of the year and scammers wasted no time taking advantage of it",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
