@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-25 03:49:09 UTC
+**Last Updated:** 2026-07-25 10:07:53 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery](https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html)
+### 1. [Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git](https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 25 Jul 2026 14:04:15 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery](https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 24 Jul 2026 20:42:35 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller](https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html)
+### 3. [Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller](https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 24 Jul 2026 19:45:21 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link](https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html)
+### 4. [ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link](https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 24 Jul 2026 17:23:55 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers](https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html)
+### 5. [Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers](https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 24 Jul 2026 17:15:17 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do](https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html)
+### 6. [Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do](https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 24 Jul 2026 17:00:00 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry](https://thehackernews.com/2026/07/hacker-runs-hermes-ai-agent-unattended.html)
+### 7. [Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry](https://thehackernews.com/2026/07/hacker-runs-hermes-ai-agent-unattended.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 24 Jul 2026 15:45:29 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [Golden Chickens Resurfaces With Four New Malware Families and Modular Implants](https://thehackernews.com/2026/07/golden-chickens-resurfaces-with-four.html)
+### 8. [Golden Chickens Resurfaces With Four New Malware Families and Modular Implants](https://thehackernews.com/2026/07/golden-chickens-resurfaces-with-four.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 24 Jul 2026 15:39:24 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats](https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html)
+### 9. [NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats](https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 24 Jul 2026 13:11:06 +0530  
@@ -76,7 +85,7 @@
 
 ---
 
-### 9. [Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say](https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html)
+### 10. [Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say](https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 24 Jul 2026 12:28:27 +0530  
@@ -85,16 +94,16 @@
 
 ---
 
-### 10. [Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks](https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html)
+### 11. [OpenAI confirms ChatGPT is down worldwide](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 24 Jul 2026 12:20:57 +0530  
-**Severity:** Low  
+**Source:** Bleeping Computer  
+**Published:** Sat, 25 Jul 2026 05:31:09 -0400  
+**Severity:** High  
 **Categories:** General Security  
 
 ---
 
-### 11. [OnTrac notifies customers of data breach after network hack](https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/)
+### 12. [OnTrac notifies customers of data breach after network hack](https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 24 Jul 2026 15:55:01 -0400  
@@ -103,7 +112,7 @@
 
 ---
 
-### 12. [Hermes AI agent used to automate attack on Thai Finance Ministry](https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/)
+### 13. [Hermes AI agent used to automate attack on Thai Finance Ministry](https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 24 Jul 2026 15:09:09 -0400  
@@ -112,7 +121,7 @@
 
 ---
 
-### 13. [Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/)
+### 14. [Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 24 Jul 2026 13:50:37 -0400  
@@ -121,7 +130,7 @@
 
 ---
 
-### 14. [Microsoft blames massive Microsoft 365 outage on maintenance bug](https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/)
+### 15. [Microsoft blames massive Microsoft 365 outage on maintenance bug](https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 24 Jul 2026 11:41:44 -0400  
@@ -130,7 +139,7 @@
 
 ---
 
-### 15. [Chick-fil-A data breach affects more than 13,000 customers](https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/)
+### 16. [Chick-fil-A data breach affects more than 13,000 customers](https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 24 Jul 2026 10:04:29 -0400  
@@ -139,7 +148,7 @@
 
 ---
 
-### 16. [Slopsquatting, Phantom Domains, and HalluSquatting Are the Same AI Attack](https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/)
+### 17. [Slopsquatting, Phantom Domains, and HalluSquatting Are the Same AI Attack](https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 24 Jul 2026 10:01:11 -0400  
@@ -148,7 +157,7 @@
 
 ---
 
-### 17. [Europol flags 4,340 URLs for removal in 'The Com' crackdown](https://www.bleepingcomputer.com/news/security/europol-flags-4-340-urls-for-removal-in-the-com-crackdown/)
+### 18. [Europol flags 4,340 URLs for removal in 'The Com' crackdown](https://www.bleepingcomputer.com/news/security/europol-flags-4-340-urls-for-removal-in-the-com-crackdown/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 24 Jul 2026 08:56:53 -0400  
@@ -157,7 +166,7 @@
 
 ---
 
-### 18. [Man gets six years for hacking 750 women's Snapchat accounts](https://www.bleepingcomputer.com/news/security/man-gets-six-years-for-hacking-750-womens-snapchat-accounts/)
+### 19. [Man gets six years for hacking 750 women's Snapchat accounts](https://www.bleepingcomputer.com/news/security/man-gets-six-years-for-hacking-750-womens-snapchat-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 24 Jul 2026 07:17:19 -0400  
@@ -166,22 +175,13 @@
 
 ---
 
-### 19. [Clop ransomware targets Windchill, FlexPLM in data theft attacks](https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/)
+### 20. [Clop ransomware targets Windchill, FlexPLM in data theft attacks](https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 24 Jul 2026 03:36:39 -0400  
 **Severity:** Critical  
 **CVEs:** CVE-2026-12569  
 **Categories:** Ransomware, Vulnerability  
-
----
-
-### 20. [New Dolphin X malware uses AI to rank high-value targets](https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 23 Jul 2026 17:20:34 -0400  
-**Severity:** High  
-**Categories:** Malware  
 
 ---
 
@@ -199,7 +199,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50661, CVE-2026-56155, CVE-2026-56164, CVE-2026-48561  
+**CVEs:** CVE-2026-48561, CVE-2026-50661, CVE-2026-56155, CVE-2026-56164  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -263,7 +263,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-45586, CVE-2026-49160, CVE-2026-50507  
+**CVEs:** CVE-2026-50507, CVE-2026-45586, CVE-2026-49160  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -277,17 +277,27 @@
 
 ---
 
-### 31. [In Other News: Dolphin X AI-Powered Malware, Car Anti-Theft Device Hack, 400 Linux Kernel Flaws](https://www.securityweek.com/in-other-news-dolphin-x-ai-powered-malware-car-anti-theft-device-hack-400-linux-kernel-flaws/)
+### 31. [Rockwell Patches Code Execution Flaws in Arena Simulation Software](https://www.securityweek.com/rockwell-patches-code-execution-flaws-in-arena-simulation-software/)
+
+**Source:** Security Week  
+**Published:** Sat, 25 Jul 2026 08:30:00 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-8085, CVE-2026-8314, CVE-2026-8312, CVE-2026-8313  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 32. [In Other News: Dolphin X AI-Powered Malware, Car Anti-Theft Device Hack, 400 Linux Kernel Flaws](https://www.securityweek.com/in-other-news-dolphin-x-ai-powered-malware-car-anti-theft-device-hack-400-linux-kernel-flaws/)
 
 **Source:** Security Week  
 **Published:** Fri, 24 Jul 2026 14:20:00 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-66376, CVE-2025-40947, CVE-2025-40948, CVE-2025-40949  
+**CVEs:** CVE-2025-40949, CVE-2025-40948, CVE-2025-66376, CVE-2025-40947  
 **Categories:** Ransomware, Vulnerability, Malware, Phishing, APT  
 
 ---
 
-### 32. [AegisAI Raises $36 Million for AI-Powered Email Security](https://www.securityweek.com/aegisai-raises-36-million-for-ai-powered-email-security/)
+### 33. [AegisAI Raises $36 Million for AI-Powered Email Security](https://www.securityweek.com/aegisai-raises-36-million-for-ai-powered-email-security/)
 
 **Source:** Security Week  
 **Published:** Fri, 24 Jul 2026 12:01:18 +0000  
@@ -296,7 +306,7 @@
 
 ---
 
-### 33. [Industry Reactions to OpenAI Models Hacking Hugging Face: Feedback Friday](https://www.securityweek.com/industry-reactions-to-openai-models-hacking-hugging-face-feedback-friday/)
+### 34. [Industry Reactions to OpenAI Models Hacking Hugging Face: Feedback Friday](https://www.securityweek.com/industry-reactions-to-openai-models-hacking-hugging-face-feedback-friday/)
 
 **Source:** Security Week  
 **Published:** Fri, 24 Jul 2026 11:19:46 +0000  
@@ -305,7 +315,7 @@
 
 ---
 
-### 34. [Data Breach Confirmed After Australian Energy Giant Origin Is Hacked](https://www.securityweek.com/data-breach-confirmed-after-australian-energy-giant-origin-is-hacked/)
+### 35. [Data Breach Confirmed After Australian Energy Giant Origin Is Hacked](https://www.securityweek.com/data-breach-confirmed-after-australian-energy-giant-origin-is-hacked/)
 
 **Source:** Security Week  
 **Published:** Fri, 24 Jul 2026 05:52:31 +0000  
@@ -314,7 +324,7 @@
 
 ---
 
-### 35. [OpenAI Fixes ChatGPT Agent Flaw That Could Let Attackers Forge an AI Insider](https://www.securityweek.com/openai-fixes-chatgpt-agent-flaw-that-could-let-attackers-forge-an-ai-insider/)
+### 36. [OpenAI Fixes ChatGPT Agent Flaw That Could Let Attackers Forge an AI Insider](https://www.securityweek.com/openai-fixes-chatgpt-agent-flaw-that-could-let-attackers-forge-an-ai-insider/)
 
 **Source:** Security Week  
 **Published:** Thu, 23 Jul 2026 15:09:59 +0000  
@@ -323,7 +333,7 @@
 
 ---
 
-### 36. [Is Patching Dead? Vulnerability Management in the Post-Mythos Era](https://www.securityweek.com/is-patching-dead-vulnerability-management-in-the-post-mythos-era/)
+### 37. [Is Patching Dead? Vulnerability Management in the Post-Mythos Era](https://www.securityweek.com/is-patching-dead-vulnerability-management-in-the-post-mythos-era/)
 
 **Source:** Security Week  
 **Published:** Thu, 23 Jul 2026 15:00:00 +0000  
@@ -332,7 +342,7 @@
 
 ---
 
-### 37. [Chick-fil-A Accounts Get Fried in Credential Stuffing Attack](https://www.securityweek.com/chick-fil-a-accounts-get-fried-in-credential-stuffing-attack/)
+### 38. [Chick-fil-A Accounts Get Fried in Credential Stuffing Attack](https://www.securityweek.com/chick-fil-a-accounts-get-fried-in-credential-stuffing-attack/)
 
 **Source:** Security Week  
 **Published:** Thu, 23 Jul 2026 14:55:19 +0000  
@@ -341,7 +351,7 @@
 
 ---
 
-### 38. [Abstract Raises $25 Million to Expand Composable Security Operations Platform](https://www.securityweek.com/abstract-raises-25-million-to-expand-composable-security-operations-platform/)
+### 39. [Abstract Raises $25 Million to Expand Composable Security Operations Platform](https://www.securityweek.com/abstract-raises-25-million-to-expand-composable-security-operations-platform/)
 
 **Source:** Security Week  
 **Published:** Thu, 23 Jul 2026 13:54:56 +0000  
@@ -350,21 +360,12 @@
 
 ---
 
-### 39. [Nuclear-Sabotage Malware Benchmark Trips Up Most Frontier AI Models](https://www.securityweek.com/nuclear-sabotage-malware-benchmark-trips-up-most-frontier-ai-models/)
+### 40. [Nuclear-Sabotage Malware Benchmark Trips Up Most Frontier AI Models](https://www.securityweek.com/nuclear-sabotage-malware-benchmark-trips-up-most-frontier-ai-models/)
 
 **Source:** Security Week  
 **Published:** Thu, 23 Jul 2026 12:42:12 +0000  
 **Severity:** Low  
 **Categories:** Vulnerability, Malware  
-
----
-
-### 40. [Upbound Group Says Data Breach Led to $13 Million in Fraudulent Contract Losses](https://www.securityweek.com/upbound-group-says-data-breach-led-to-13-million-in-fraudulent-contract-losses/)
-
-**Source:** Security Week  
-**Published:** Thu, 23 Jul 2026 10:49:10 +0000  
-**Severity:** Critical  
-**Categories:** Ransomware, Data Breach, Vulnerability  
 
 ---
 
@@ -427,7 +428,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Jul 2026 20:27:33 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-58644, CVE-2026-50467, CVE-2026-50327, CVE-2026-55056, CVE-2026-50518, CVE-2026-55043, CVE-2026-54128, CVE-2026-56188, CVE-2026-55049, CVE-2026-56155, CVE-2026-54992, CVE-2026-55129, CVE-2026-50522, CVE-2026-50370, CVE-2026-55120, CVE-2026-55033, CVE-2026-55127, CVE-2026-55132, CVE-2026-55944, CVE-2026-55010, CVE-2026-50314, CVE-2026-55123, CVE-2026-55018, CVE-2026-56164, CVE-2026-55045, CVE-2026-55022, CVE-2026-50655, CVE-2026-55140  
+**CVEs:** CVE-2026-55123, CVE-2026-50370, CVE-2026-54128, CVE-2026-55120, CVE-2026-50467, CVE-2026-55010, CVE-2026-56155, CVE-2026-55033, CVE-2026-58644, CVE-2026-55140, CVE-2026-50522, CVE-2026-50327, CVE-2026-54992, CVE-2026-55127, CVE-2026-55045, CVE-2026-50518, CVE-2026-55043, CVE-2026-55132, CVE-2026-55056, CVE-2026-55018, CVE-2026-55022, CVE-2026-50655, CVE-2026-55944, CVE-2026-56164, CVE-2026-50314, CVE-2026-56188, CVE-2026-55049, CVE-2026-55129  
 **Categories:** Vulnerability  
 
 ---
@@ -455,7 +456,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 09 Jul 2026 18:52:29 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-25106, CVE-2026-28739, CVE-2026-33091  
+**CVEs:** CVE-2026-28739, CVE-2026-25106, CVE-2026-33091  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -630,7 +631,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
