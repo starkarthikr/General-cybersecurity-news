@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-25 13:46:37 UTC
+**Last Updated:** 2026-07-25 17:32:37 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,25 @@
 
 ---
 
-### 11. [OpenAI confirms ChatGPT is down worldwide](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/)
+### 11. [Malicious sites use JavaScript to build malware in browser memory](https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/)
+
+**Source:** Bleeping Computer  
+**Published:** Sat, 25 Jul 2026 11:21:09 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 12. [ShinyHunters data leaks fuel $2,000 sextortion email scam](https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/)
+
+**Source:** Bleeping Computer  
+**Published:** Sat, 25 Jul 2026 10:16:26 -0400  
+**Severity:** Low  
+**Categories:** Data Breach, Malware  
+
+---
+
+### 13. [OpenAI confirms ChatGPT is down worldwide](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 25 Jul 2026 05:31:09 -0400  
@@ -104,7 +122,7 @@
 
 ---
 
-### 12. [OnTrac notifies customers of data breach after network hack](https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/)
+### 14. [OnTrac notifies customers of data breach after network hack](https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 24 Jul 2026 15:55:01 -0400  
@@ -113,7 +131,7 @@
 
 ---
 
-### 13. [Hermes AI agent used to automate attack on Thai Finance Ministry](https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/)
+### 15. [Hermes AI agent used to automate attack on Thai Finance Ministry](https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 24 Jul 2026 15:09:09 -0400  
@@ -122,7 +140,7 @@
 
 ---
 
-### 14. [Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/)
+### 16. [Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 24 Jul 2026 13:50:37 -0400  
@@ -131,7 +149,7 @@
 
 ---
 
-### 15. [Microsoft blames massive Microsoft 365 outage on maintenance bug](https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/)
+### 17. [Microsoft blames massive Microsoft 365 outage on maintenance bug](https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 24 Jul 2026 11:41:44 -0400  
@@ -140,7 +158,7 @@
 
 ---
 
-### 16. [Chick-fil-A data breach affects more than 13,000 customers](https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/)
+### 18. [Chick-fil-A data breach affects more than 13,000 customers](https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 24 Jul 2026 10:04:29 -0400  
@@ -149,7 +167,7 @@
 
 ---
 
-### 17. [Slopsquatting, Phantom Domains, and HalluSquatting Are the Same AI Attack](https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/)
+### 19. [Slopsquatting, Phantom Domains, and HalluSquatting Are the Same AI Attack](https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 24 Jul 2026 10:01:11 -0400  
@@ -158,31 +176,12 @@
 
 ---
 
-### 18. [Europol flags 4,340 URLs for removal in 'The Com' crackdown](https://www.bleepingcomputer.com/news/security/europol-flags-4-340-urls-for-removal-in-the-com-crackdown/)
+### 20. [Europol flags 4,340 URLs for removal in 'The Com' crackdown](https://www.bleepingcomputer.com/news/security/europol-flags-4-340-urls-for-removal-in-the-com-crackdown/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 24 Jul 2026 08:56:53 -0400  
 **Severity:** Low  
 **Categories:** Vulnerability  
-
----
-
-### 19. [Man gets six years for hacking 750 women's Snapchat accounts](https://www.bleepingcomputer.com/news/security/man-gets-six-years-for-hacking-750-womens-snapchat-accounts/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 24 Jul 2026 07:17:19 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [Clop ransomware targets Windchill, FlexPLM in data theft attacks](https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 24 Jul 2026 03:36:39 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-12569  
-**Categories:** Ransomware, Vulnerability  
 
 ---
 
@@ -200,7 +199,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56155, CVE-2026-50661, CVE-2026-48561, CVE-2026-56164  
+**CVEs:** CVE-2026-50661, CVE-2026-56164, CVE-2026-48561, CVE-2026-56155  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -264,7 +263,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-49160, CVE-2026-50507, CVE-2026-45586  
+**CVEs:** CVE-2026-45586, CVE-2026-49160, CVE-2026-50507  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -283,7 +282,7 @@
 **Source:** Security Week  
 **Published:** Sat, 25 Jul 2026 08:30:00 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-8314, CVE-2026-8313, CVE-2026-8312, CVE-2026-8085  
+**CVEs:** CVE-2026-8312, CVE-2026-8085, CVE-2026-8313, CVE-2026-8314  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -293,7 +292,7 @@
 **Source:** Security Week  
 **Published:** Fri, 24 Jul 2026 14:20:00 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-66376, CVE-2025-40947, CVE-2025-40949, CVE-2025-40948  
+**CVEs:** CVE-2025-40947, CVE-2025-40948, CVE-2025-40949, CVE-2025-66376  
 **Categories:** Ransomware, Vulnerability, Malware, Phishing, APT  
 
 ---
@@ -429,7 +428,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Jul 2026 20:27:33 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-55140, CVE-2026-50522, CVE-2026-56155, CVE-2026-55010, CVE-2026-55045, CVE-2026-56188, CVE-2026-55129, CVE-2026-50655, CVE-2026-55127, CVE-2026-55043, CVE-2026-50314, CVE-2026-55132, CVE-2026-54992, CVE-2026-55123, CVE-2026-55120, CVE-2026-55022, CVE-2026-55056, CVE-2026-55049, CVE-2026-50518, CVE-2026-55033, CVE-2026-50467, CVE-2026-56164, CVE-2026-50370, CVE-2026-58644, CVE-2026-50327, CVE-2026-55018, CVE-2026-55944, CVE-2026-54128  
+**CVEs:** CVE-2026-50314, CVE-2026-55045, CVE-2026-55010, CVE-2026-50522, CVE-2026-55056, CVE-2026-56155, CVE-2026-50467, CVE-2026-55123, CVE-2026-50518, CVE-2026-55129, CVE-2026-54128, CVE-2026-58644, CVE-2026-55033, CVE-2026-56188, CVE-2026-55022, CVE-2026-54992, CVE-2026-50327, CVE-2026-55127, CVE-2026-50370, CVE-2026-55043, CVE-2026-56164, CVE-2026-55049, CVE-2026-55018, CVE-2026-55132, CVE-2026-55140, CVE-2026-50655, CVE-2026-55944, CVE-2026-55120  
 **Categories:** Vulnerability  
 
 ---
@@ -457,7 +456,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 09 Jul 2026 18:52:29 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-25106, CVE-2026-33091, CVE-2026-28739  
+**CVEs:** CVE-2026-28739, CVE-2026-33091, CVE-2026-25106  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -632,7 +631,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
