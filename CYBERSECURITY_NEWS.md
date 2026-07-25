@@ -1,19 +1,56 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-25 10:07:53 UTC
+**Last Updated:** 2026-07-25 13:46:37 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git](https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html)
+### 1. [Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available](https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html)
 
 **Source:** The Hacker News  
-**Published:** Sat, 25 Jul 2026 14:04:15 +0530  
+**Published:** Sat, 25 Jul 2026 18:22:43 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-16723  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git](https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 25 Jul 2026 15:44:26 +0530  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 2. [BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery](https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html)
+### 3. [CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking](https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 25 Jul 2026 15:44:21 +0530  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 4. [Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE](https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 25 Jul 2026 15:44:03 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 5. [DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts](https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 25 Jul 2026 15:23:41 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 6. [BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery](https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 24 Jul 2026 20:42:35 +0530  
@@ -22,7 +59,7 @@
 
 ---
 
-### 3. [Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller](https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html)
+### 7. [Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller](https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 24 Jul 2026 19:45:21 +0530  
@@ -31,7 +68,7 @@
 
 ---
 
-### 4. [ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link](https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html)
+### 8. [ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link](https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 24 Jul 2026 17:23:55 +0530  
@@ -40,7 +77,7 @@
 
 ---
 
-### 5. [Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers](https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html)
+### 9. [Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers](https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 24 Jul 2026 17:15:17 +0530  
@@ -49,48 +86,12 @@
 
 ---
 
-### 6. [Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do](https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html)
+### 10. [Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do](https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 24 Jul 2026 17:00:00 +0530  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 7. [Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry](https://thehackernews.com/2026/07/hacker-runs-hermes-ai-agent-unattended.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 24 Jul 2026 15:45:29 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 8. [Golden Chickens Resurfaces With Four New Malware Families and Modular Implants](https://thehackernews.com/2026/07/golden-chickens-resurfaces-with-four.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 24 Jul 2026 15:39:24 +0530  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 9. [NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats](https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 24 Jul 2026 13:11:06 +0530  
-**Severity:** High  
-**Categories:** General Security  
-
----
-
-### 10. [Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say](https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 24 Jul 2026 12:28:27 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
 
 ---
 
@@ -199,7 +200,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48561, CVE-2026-50661, CVE-2026-56155, CVE-2026-56164  
+**CVEs:** CVE-2026-56155, CVE-2026-50661, CVE-2026-48561, CVE-2026-56164  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -263,7 +264,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50507, CVE-2026-45586, CVE-2026-49160  
+**CVEs:** CVE-2026-49160, CVE-2026-50507, CVE-2026-45586  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -282,7 +283,7 @@
 **Source:** Security Week  
 **Published:** Sat, 25 Jul 2026 08:30:00 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-8085, CVE-2026-8314, CVE-2026-8312, CVE-2026-8313  
+**CVEs:** CVE-2026-8314, CVE-2026-8313, CVE-2026-8312, CVE-2026-8085  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -292,7 +293,7 @@
 **Source:** Security Week  
 **Published:** Fri, 24 Jul 2026 14:20:00 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-40949, CVE-2025-40948, CVE-2025-66376, CVE-2025-40947  
+**CVEs:** CVE-2025-66376, CVE-2025-40947, CVE-2025-40949, CVE-2025-40948  
 **Categories:** Ransomware, Vulnerability, Malware, Phishing, APT  
 
 ---
@@ -428,7 +429,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Jul 2026 20:27:33 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-55123, CVE-2026-50370, CVE-2026-54128, CVE-2026-55120, CVE-2026-50467, CVE-2026-55010, CVE-2026-56155, CVE-2026-55033, CVE-2026-58644, CVE-2026-55140, CVE-2026-50522, CVE-2026-50327, CVE-2026-54992, CVE-2026-55127, CVE-2026-55045, CVE-2026-50518, CVE-2026-55043, CVE-2026-55132, CVE-2026-55056, CVE-2026-55018, CVE-2026-55022, CVE-2026-50655, CVE-2026-55944, CVE-2026-56164, CVE-2026-50314, CVE-2026-56188, CVE-2026-55049, CVE-2026-55129  
+**CVEs:** CVE-2026-55140, CVE-2026-50522, CVE-2026-56155, CVE-2026-55010, CVE-2026-55045, CVE-2026-56188, CVE-2026-55129, CVE-2026-50655, CVE-2026-55127, CVE-2026-55043, CVE-2026-50314, CVE-2026-55132, CVE-2026-54992, CVE-2026-55123, CVE-2026-55120, CVE-2026-55022, CVE-2026-55056, CVE-2026-55049, CVE-2026-50518, CVE-2026-55033, CVE-2026-50467, CVE-2026-56164, CVE-2026-50370, CVE-2026-58644, CVE-2026-50327, CVE-2026-55018, CVE-2026-55944, CVE-2026-54128  
 **Categories:** Vulnerability  
 
 ---
@@ -456,7 +457,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 09 Jul 2026 18:52:29 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-28739, CVE-2026-25106, CVE-2026-33091  
+**CVEs:** CVE-2026-25106, CVE-2026-33091, CVE-2026-28739  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -631,7 +632,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

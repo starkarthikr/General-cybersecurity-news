@@ -1,12 +1,86 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
+    "link": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
+    "published": "Sat, 25 Jul 2026 18:22:43 +0530",
+    "summary": "Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boot applications, a malicious JSON request can execute code without authentication, with the privileges of the Java process.\n\nTracked as CVE-2026-16723, the vulnerability carries an Alibaba-assigned CVSS score of 9.0. The confirmed chain requires",
+    "analysis": {
+      "issue": "x flaw CVE-2026-16723 can trigger unauthenticated RCE in Spring Boot fat-JAR apps, with attacks reported and no patched 1",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-16723"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
     "link": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html",
-    "published": "Sat, 25 Jul 2026 14:04:15 +0530",
-    "summary": "Security researcher Yuhang Wu at depthfirst has published a working proof-of-concept (PoC) exploit that executes commands as git on an unpatched self-managed GitLab 18.11.3 server.\n\nAn ordinary authenticated user triggers it by committing two crafted Jupyter notebooks and requesting their diff. The chain needs no administrator rights, continuous integration (CI) runner access, victim interaction",
+    "published": "Sat, 25 Jul 2026 15:44:26 +0530",
+    "summary": "Security researchers at&nbsp;depthfirst published working exploit code on July 24 for a GitLab flaw that GitLab patched six weeks earlier, on June 10. It runs commands as git on any self-managed 18.11.3 server that has not taken the update.\n\nAny authenticated user who can push to a project can run it. The attacker commits a crafted Jupyter notebook and opens its commit diff, which leaks a heap",
     "analysis": {
       "issue": "3 PoC chains two Oj parser bugs through crafted Jupyter notebook diffs to execute commands as git without admin rights",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking",
+    "link": "https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html",
+    "published": "Sat, 25 Jul 2026 15:44:21 +0530",
+    "summary": "For years, phishing campaigns targeting financial institutions followed the same playbook. Victims were tricked into entering usernames and passwords, attackers collected the credentials, and accounts were compromised later when an opportunity arose.\n\nThat model is changing.\n\nRecent investigations into insurance-focused phishing operations reveal a more immediate approach. Instead of harvesting",
+    "analysis": {
+      "issue": "CTM360 says the InsureOTP Kit relays stolen logins and OTPs in real time, letting attackers hijack insurance accounts in one session",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE",
+    "link": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html",
+    "published": "Sat, 25 Jul 2026 15:44:03 +0530",
+    "summary": "Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM deployments as part of a new data extortion campaign.\n\n\"Attackers chain a pre-authentication information disclosure in the FlexPLM WSDL endpoint with a server-side flaw in the Windchill login servlet, enabling",
+    "analysis": {
+      "issue": "Suspected Cl0p actors chain a FlexPLM WSDL leak with a Windchill flaw for unauthenticated RCE, dropping JSP web shells and stealing product data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts",
+    "link": "https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html",
+    "published": "Sat, 25 Jul 2026 15:23:41 +0530",
+    "summary": "The operators of the DevMan ransomware-as-a-service (RaaS) scheme are maintaining a dedicated web platform that offers affiliates the ability to build payloads, oversee earnings, and manage various aspects related to victims.\n\nSwiss cybersecurity company PRODAFT is tracking the centrally administered RaaS operation under the name Funky Mantis.\n\n\"The portal combined build generation, finance,",
+    "analysis": {
+      "issue": "DevMan's v3 RaaS portal centralizes payload builds, network access, victim tracking, team controls, deadlines, and an 80-20 affiliate split",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -109,85 +183,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry",
-    "link": "https://thehackernews.com/2026/07/hacker-runs-hermes-ai-agent-unattended.html",
-    "published": "Fri, 24 Jul 2026 15:45:29 +0530",
-    "summary": "Someone installed a popular AI assistant on a rented server, switched off the setting that makes it ask permission before running risky commands, and pointed it at Thailand's Ministry of Finance, which runs the country's treasury and tax collection.\n\nThe agent then worked through the ministry's network on its own, checking hosts for ways to gain root access, hunting through file systems, and",
-    "analysis": {
-      "issue": "An operator ran the Hermes AI agent with approval prompts disabled during a Thai finance ministry intrusion, then left its logs on an open directory",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Golden Chickens Resurfaces With Four New Malware Families and Modular Implants",
-    "link": "https://thehackernews.com/2026/07/golden-chickens-resurfaces-with-four.html",
-    "published": "Fri, 24 Jul 2026 15:39:24 +0530",
-    "summary": "The threat actors behind the Golden Chickens malware-as-a-service (MaaS) ecosystem have resurfaced with four new malware families, indicating that the operators are showing no signs of stopping despite extensive public disclosures into their inner workings.\n\nThe malware families in question are: TinyEgg, ChonkyChicken, a modularized variant of ChonkyChicken, and a modified web browser credential",
-    "analysis": {
-      "issue": "Golden Chickens returns with four malware families using ClickFix, modular implants, and live Chrome session control",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats",
-    "link": "https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html",
-    "published": "Fri, 24 Jul 2026 13:11:06 +0530",
-    "summary": "Eight security flaws in NodeBB went public on Wednesday, along with the code to exploit them. Aikido Security rates all eight as high severity and says its AI pentest agents found them in a six-hour review of the forum software's source code.\n\nEvery version before 4.14.0 is affected. NodeBB has fixed them all, and administrators should be on 4.14.2.\n\nThe simplest one takes a settings change. A",
-    "analysis": {
-      "issue": "NodeBB fixes eight flaws Aikido rates high severity, including bugs exposing admin pages, private messages, and federation content to outsiders",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say",
-    "link": "https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html",
-    "published": "Fri, 24 Jul 2026 12:28:27 +0530",
-    "summary": "Redis shipped seven security releases on July 23 after researchers published authenticated RCE PoCs for stock Redis 6.2.22, 7.4.9, 8.6.4, and 8.8.0.\n\nAll four chains require RESTORE. The Streams chains also need EVAL and XGROUP; the 8.8.0 chain needs EVAL and the bundled RedisBloom module. Redis says the underlying memory flaws may lead to remote code execution.\n\nRedis 6.2.23, 7.2.15, and 7.4.10",
-    "analysis": {
-      "issue": "Redis ships seven security releases after authenticated RESTORE RCE PoCs target versions 6",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
     "title": "OpenAI confirms ChatGPT is down worldwide",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/",
     "published": "Sat, 25 Jul 2026 05:31:09 -0400",
     "summary": "ChatGPT, the famous artificial intelligence chatbot that allows users to converse with various personalities and topics, has connectivity issues worldwide. [...]",
     "analysis": {
-      "issue": "ChatGPT is experiencing a major outage, and users are unable to load chat, including previous conversations",
+      "issue": "ChatGPT is experiencing a major outage, and users are unable to load chats, including previous conversations",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -398,9 +400,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-48561",
-        "CVE-2026-50661",
         "CVE-2026-56155",
+        "CVE-2026-50661",
+        "CVE-2026-48561",
         "CVE-2026-56164"
       ],
       "threat_categories": [
@@ -535,9 +537,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-49160",
         "CVE-2026-50507",
-        "CVE-2026-45586",
-        "CVE-2026-49160"
+        "CVE-2026-45586"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -576,10 +578,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-8085",
         "CVE-2026-8314",
+        "CVE-2026-8313",
         "CVE-2026-8312",
-        "CVE-2026-8313"
+        "CVE-2026-8085"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -600,10 +602,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-40949",
-        "CVE-2025-40948",
         "CVE-2025-66376",
-        "CVE-2025-40947"
+        "CVE-2025-40947",
+        "CVE-2025-40949",
+        "CVE-2025-40948"
       ],
       "threat_categories": [
         "Ransomware",
@@ -895,34 +897,34 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-55123",
-        "CVE-2026-50370",
-        "CVE-2026-54128",
-        "CVE-2026-55120",
-        "CVE-2026-50467",
-        "CVE-2026-55010",
-        "CVE-2026-56155",
-        "CVE-2026-55033",
-        "CVE-2026-58644",
         "CVE-2026-55140",
         "CVE-2026-50522",
-        "CVE-2026-50327",
-        "CVE-2026-54992",
-        "CVE-2026-55127",
+        "CVE-2026-56155",
+        "CVE-2026-55010",
         "CVE-2026-55045",
-        "CVE-2026-50518",
-        "CVE-2026-55043",
-        "CVE-2026-55132",
-        "CVE-2026-55056",
-        "CVE-2026-55018",
-        "CVE-2026-55022",
-        "CVE-2026-50655",
-        "CVE-2026-55944",
-        "CVE-2026-56164",
-        "CVE-2026-50314",
         "CVE-2026-56188",
+        "CVE-2026-55129",
+        "CVE-2026-50655",
+        "CVE-2026-55127",
+        "CVE-2026-55043",
+        "CVE-2026-50314",
+        "CVE-2026-55132",
+        "CVE-2026-54992",
+        "CVE-2026-55123",
+        "CVE-2026-55120",
+        "CVE-2026-55022",
+        "CVE-2026-55056",
         "CVE-2026-55049",
-        "CVE-2026-55129"
+        "CVE-2026-50518",
+        "CVE-2026-55033",
+        "CVE-2026-50467",
+        "CVE-2026-56164",
+        "CVE-2026-50370",
+        "CVE-2026-58644",
+        "CVE-2026-50327",
+        "CVE-2026-55018",
+        "CVE-2026-55944",
+        "CVE-2026-54128"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -981,9 +983,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-28739",
         "CVE-2026-25106",
-        "CVE-2026-33091"
+        "CVE-2026-33091",
+        "CVE-2026-28739"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1338,8 +1340,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
