@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-25 17:32:37 UTC
+**Last Updated:** 2026-07-26 03:31:02 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available](https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html)
+### 1. [Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable](https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html)
+
+**Source:** The Hacker News  
+**Published:** Sun, 26 Jul 2026 00:18:44 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 2. [Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available](https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 25 Jul 2026 18:22:43 +0530  
@@ -14,7 +23,7 @@
 
 ---
 
-### 2. [Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git](https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html)
+### 3. [Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git](https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 25 Jul 2026 15:44:26 +0530  
@@ -23,7 +32,7 @@
 
 ---
 
-### 3. [CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking](https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html)
+### 4. [CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking](https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 25 Jul 2026 15:44:21 +0530  
@@ -32,7 +41,7 @@
 
 ---
 
-### 4. [Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE](https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html)
+### 5. [Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE](https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 25 Jul 2026 15:44:03 +0530  
@@ -41,7 +50,7 @@
 
 ---
 
-### 5. [DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts](https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html)
+### 6. [DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts](https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 25 Jul 2026 15:23:41 +0530  
@@ -50,7 +59,7 @@
 
 ---
 
-### 6. [BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery](https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html)
+### 7. [BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery](https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 24 Jul 2026 20:42:35 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller](https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html)
+### 8. [Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller](https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 24 Jul 2026 19:45:21 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link](https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html)
+### 9. [ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link](https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 24 Jul 2026 17:23:55 +0530  
@@ -77,7 +86,7 @@
 
 ---
 
-### 9. [Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers](https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html)
+### 10. [Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers](https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 24 Jul 2026 17:15:17 +0530  
@@ -86,16 +95,16 @@
 
 ---
 
-### 10. [Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do](https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html)
+### 11. [Steam forum ClickFix attacks infect gamers with XMRig cryptominers](https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 24 Jul 2026 17:00:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Sat, 25 Jul 2026 18:37:47 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 11. [Malicious sites use JavaScript to build malware in browser memory](https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/)
+### 12. [Malicious sites use JavaScript to build malware in browser memory](https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 25 Jul 2026 11:21:09 -0400  
@@ -104,7 +113,7 @@
 
 ---
 
-### 12. [ShinyHunters data leaks fuel $2,000 sextortion email scam](https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/)
+### 13. [ShinyHunters data leaks fuel $2,000 sextortion email scam](https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 25 Jul 2026 10:16:26 -0400  
@@ -113,7 +122,7 @@
 
 ---
 
-### 13. [OpenAI confirms ChatGPT is down worldwide](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/)
+### 14. [OpenAI confirms ChatGPT is down worldwide](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 25 Jul 2026 05:31:09 -0400  
@@ -122,7 +131,7 @@
 
 ---
 
-### 14. [OnTrac notifies customers of data breach after network hack](https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/)
+### 15. [OnTrac notifies customers of data breach after network hack](https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 24 Jul 2026 15:55:01 -0400  
@@ -131,7 +140,7 @@
 
 ---
 
-### 15. [Hermes AI agent used to automate attack on Thai Finance Ministry](https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/)
+### 16. [Hermes AI agent used to automate attack on Thai Finance Ministry](https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 24 Jul 2026 15:09:09 -0400  
@@ -140,7 +149,7 @@
 
 ---
 
-### 16. [Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/)
+### 17. [Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 24 Jul 2026 13:50:37 -0400  
@@ -149,7 +158,7 @@
 
 ---
 
-### 17. [Microsoft blames massive Microsoft 365 outage on maintenance bug](https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/)
+### 18. [Microsoft blames massive Microsoft 365 outage on maintenance bug](https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 24 Jul 2026 11:41:44 -0400  
@@ -158,7 +167,7 @@
 
 ---
 
-### 18. [Chick-fil-A data breach affects more than 13,000 customers](https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/)
+### 19. [Chick-fil-A data breach affects more than 13,000 customers](https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 24 Jul 2026 10:04:29 -0400  
@@ -167,21 +176,12 @@
 
 ---
 
-### 19. [Slopsquatting, Phantom Domains, and HalluSquatting Are the Same AI Attack](https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/)
+### 20. [Slopsquatting, Phantom Domains, and HalluSquatting Are the Same AI Attack](https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 24 Jul 2026 10:01:11 -0400  
 **Severity:** Low  
 **Categories:** Phishing  
-
----
-
-### 20. [Europol flags 4,340 URLs for removal in 'The Com' crackdown](https://www.bleepingcomputer.com/news/security/europol-flags-4-340-urls-for-removal-in-the-com-crackdown/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 24 Jul 2026 08:56:53 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability  
 
 ---
 
@@ -199,7 +199,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50661, CVE-2026-56164, CVE-2026-48561, CVE-2026-56155  
+**CVEs:** CVE-2026-56164, CVE-2026-48561, CVE-2026-50661, CVE-2026-56155  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -263,7 +263,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-45586, CVE-2026-49160, CVE-2026-50507  
+**CVEs:** CVE-2026-45586, CVE-2026-50507, CVE-2026-49160  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -282,7 +282,7 @@
 **Source:** Security Week  
 **Published:** Sat, 25 Jul 2026 08:30:00 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-8312, CVE-2026-8085, CVE-2026-8313, CVE-2026-8314  
+**CVEs:** CVE-2026-8314, CVE-2026-8085, CVE-2026-8312, CVE-2026-8313  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -292,7 +292,7 @@
 **Source:** Security Week  
 **Published:** Fri, 24 Jul 2026 14:20:00 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-40947, CVE-2025-40948, CVE-2025-40949, CVE-2025-66376  
+**CVEs:** CVE-2025-40947, CVE-2025-66376, CVE-2025-40948, CVE-2025-40949  
 **Categories:** Ransomware, Vulnerability, Malware, Phishing, APT  
 
 ---
@@ -428,7 +428,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Jul 2026 20:27:33 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50314, CVE-2026-55045, CVE-2026-55010, CVE-2026-50522, CVE-2026-55056, CVE-2026-56155, CVE-2026-50467, CVE-2026-55123, CVE-2026-50518, CVE-2026-55129, CVE-2026-54128, CVE-2026-58644, CVE-2026-55033, CVE-2026-56188, CVE-2026-55022, CVE-2026-54992, CVE-2026-50327, CVE-2026-55127, CVE-2026-50370, CVE-2026-55043, CVE-2026-56164, CVE-2026-55049, CVE-2026-55018, CVE-2026-55132, CVE-2026-55140, CVE-2026-50655, CVE-2026-55944, CVE-2026-55120  
+**CVEs:** CVE-2026-50327, CVE-2026-55140, CVE-2026-55010, CVE-2026-55056, CVE-2026-56164, CVE-2026-50518, CVE-2026-55120, CVE-2026-50370, CVE-2026-55043, CVE-2026-55123, CVE-2026-55033, CVE-2026-55045, CVE-2026-55049, CVE-2026-55129, CVE-2026-55944, CVE-2026-50522, CVE-2026-50314, CVE-2026-55022, CVE-2026-50655, CVE-2026-55132, CVE-2026-56188, CVE-2026-55127, CVE-2026-56155, CVE-2026-54128, CVE-2026-55018, CVE-2026-50467, CVE-2026-58644, CVE-2026-54992  
 **Categories:** Vulnerability  
 
 ---
@@ -456,7 +456,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 09 Jul 2026 18:52:29 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-28739, CVE-2026-33091, CVE-2026-25106  
+**CVEs:** CVE-2026-33091, CVE-2026-25106, CVE-2026-28739  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
