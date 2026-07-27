@@ -1,10 +1,46 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-27 11:51:06 UTC
+**Last Updated:** 2026-07-27 14:47:59 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments](https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html)
+### 1. [⚡ Weekly Recap: Rogue AI Agents, Check Point Exploit, Slopsquatting, ClickFix Lures and More](https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 27 Jul 2026 19:40:54 +0530  
+**Severity:** Low  
+**Categories:** Data Breach, Vulnerability  
+
+---
+
+### 2. [n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process](https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 27 Jul 2026 18:35:15 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [Operation BlueDash Deploys Level RMM and ScreenConnect via Fake Teams Update](https://thehackernews.com/2026/07/operation-bluedash-deploys-level-rmm.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 27 Jul 2026 18:07:49 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 4. [Cruciferra Crypter Uses BYOVD and Process Ghosting to Hide Windows Malware](https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 27 Jul 2026 16:21:45 +0530  
+**Severity:** Low  
+**Categories:** Malware, Phishing  
+
+---
+
+### 5. [TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments](https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 27 Jul 2026 14:18:47 +0530  
@@ -13,7 +49,7 @@
 
 ---
 
-### 2. [GitHub Adds 3-Day Dependabot Cooldown to Limit Poisoned Package Adoption](https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html)
+### 6. [GitHub Adds 3-Day Dependabot Cooldown to Limit Poisoned Package Adoption](https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 27 Jul 2026 13:31:23 +0530  
@@ -22,7 +58,7 @@
 
 ---
 
-### 3. [Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable](https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html)
+### 7. [Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable](https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 26 Jul 2026 00:18:44 +0530  
@@ -31,7 +67,7 @@
 
 ---
 
-### 4. [Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available](https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html)
+### 8. [Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available](https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 25 Jul 2026 18:22:43 +0530  
@@ -41,7 +77,7 @@
 
 ---
 
-### 5. [Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git](https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html)
+### 9. [Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git](https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 25 Jul 2026 15:44:26 +0530  
@@ -50,7 +86,7 @@
 
 ---
 
-### 6. [CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking](https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html)
+### 10. [CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking](https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 25 Jul 2026 15:44:21 +0530  
@@ -59,43 +95,16 @@
 
 ---
 
-### 7. [Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE](https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html)
+### 11. [Shadow AI agents are multiplying. Here's how to find and secure them.](https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/)
 
-**Source:** The Hacker News  
-**Published:** Sat, 25 Jul 2026 15:44:03 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 27 Jul 2026 10:01:11 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 8. [DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts](https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html)
-
-**Source:** The Hacker News  
-**Published:** Sat, 25 Jul 2026 15:23:41 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 9. [BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery](https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 24 Jul 2026 20:42:35 +0530  
-**Severity:** Low  
-**Categories:** Malware, Phishing  
-
----
-
-### 10. [Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller](https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 24 Jul 2026 19:45:21 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 11. [GitHub, PyPI add time-based defenses against supply chain attacks](https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/)
+### 12. [GitHub, PyPI add time-based defenses against supply chain attacks](https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 26 Jul 2026 10:13:39 -0400  
@@ -104,7 +113,7 @@
 
 ---
 
-### 12. [Steam forum ClickFix attacks infect gamers with XMRig cryptominers](https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/)
+### 13. [Steam forum ClickFix attacks infect gamers with XMRig cryptominers](https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 25 Jul 2026 18:37:47 -0400  
@@ -113,7 +122,7 @@
 
 ---
 
-### 13. [Malicious sites use JavaScript to build malware in browser memory](https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/)
+### 14. [Malicious sites use JavaScript to build malware in browser memory](https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 25 Jul 2026 11:21:09 -0400  
@@ -122,7 +131,7 @@
 
 ---
 
-### 14. [ShinyHunters data leaks fuel $2,000 sextortion email scam](https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/)
+### 15. [ShinyHunters data leaks fuel $2,000 sextortion email scam](https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 25 Jul 2026 10:16:26 -0400  
@@ -131,7 +140,7 @@
 
 ---
 
-### 15. [OpenAI confirms ChatGPT is down worldwide](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/)
+### 16. [OpenAI confirms ChatGPT is down worldwide](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 25 Jul 2026 05:31:09 -0400  
@@ -140,7 +149,7 @@
 
 ---
 
-### 16. [OnTrac notifies customers of data breach after network hack](https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/)
+### 17. [OnTrac notifies customers of data breach after network hack](https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 24 Jul 2026 15:55:01 -0400  
@@ -149,7 +158,7 @@
 
 ---
 
-### 17. [Hermes AI agent used to automate attack on Thai Finance Ministry](https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/)
+### 18. [Hermes AI agent used to automate attack on Thai Finance Ministry](https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 24 Jul 2026 15:09:09 -0400  
@@ -158,7 +167,7 @@
 
 ---
 
-### 18. [Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/)
+### 19. [Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 24 Jul 2026 13:50:37 -0400  
@@ -167,21 +176,12 @@
 
 ---
 
-### 19. [Microsoft blames massive Microsoft 365 outage on maintenance bug](https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/)
+### 20. [Microsoft blames massive Microsoft 365 outage on maintenance bug](https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 24 Jul 2026 11:41:44 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 20. [Chick-fil-A data breach affects more than 13,000 customers](https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 24 Jul 2026 10:04:29 -0400  
-**Severity:** Low  
-**Categories:** Data Breach, Supply Chain  
 
 ---
 
@@ -199,7 +199,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56155, CVE-2026-48561, CVE-2026-50661, CVE-2026-56164  
+**CVEs:** CVE-2026-56155, CVE-2026-50661, CVE-2026-56164, CVE-2026-48561  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -263,7 +263,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-49160, CVE-2026-50507, CVE-2026-45586  
+**CVEs:** CVE-2026-50507, CVE-2026-49160, CVE-2026-45586  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -277,7 +277,44 @@
 
 ---
 
-### 31. [Coca-Cola Confirms Data Breach After Fairlife Ransomware Attack](https://www.securityweek.com/coca-cola-confirms-data-breach-after-fairlife-ransomware-attack/)
+### 31. [New GitHub, PyPI Policies Boost Supply Chain Security](https://www.securityweek.com/new-github-pypi-policies-boost-supply-chain-security/)
+
+**Source:** Security Week  
+**Published:** Mon, 27 Jul 2026 14:26:00 +0000  
+**Severity:** Critical  
+**Categories:** Supply Chain  
+
+---
+
+### 32. [PTC Windchill Vulnerability Exploited in Ransomware Campaign](https://www.securityweek.com/ptc-windchill-vulnerability-exploited-in-ransomware-campaign/)
+
+**Source:** Security Week  
+**Published:** Mon, 27 Jul 2026 13:19:30 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-12569  
+**Categories:** Ransomware, Vulnerability  
+
+---
+
+### 33. [MedusaHVNC Malware Uses Hidden Windows Desktops to Evade Detection](https://www.securityweek.com/medusahvnc-malware-uses-hidden-windows-desktops-to-evade-detection/)
+
+**Source:** Security Week  
+**Published:** Mon, 27 Jul 2026 13:00:00 +0000  
+**Severity:** Low  
+**Categories:** Malware, APT  
+
+---
+
+### 34. [Nvidia and Tech Giants Launch AI Security Alliance](https://www.securityweek.com/nvidia-and-tech-giants-launch-ai-security-alliance/)
+
+**Source:** Security Week  
+**Published:** Mon, 27 Jul 2026 12:25:43 +0000  
+**Severity:** Low  
+**Categories:** Vulnerability, Malware, APT, Supply Chain  
+
+---
+
+### 35. [Coca-Cola Confirms Data Breach After Fairlife Ransomware Attack](https://www.securityweek.com/coca-cola-confirms-data-breach-after-fairlife-ransomware-attack/)
 
 **Source:** Security Week  
 **Published:** Mon, 27 Jul 2026 11:29:03 +0000  
@@ -286,7 +323,7 @@
 
 ---
 
-### 32. [Beelzebub Raises $3.4 Million for Hacker-Trapping Platform](https://www.securityweek.com/beelzebub-raises-3-4-million-for-hacker-trapping-platform/)
+### 36. [Beelzebub Raises $3.4 Million for Hacker-Trapping Platform](https://www.securityweek.com/beelzebub-raises-3-4-million-for-hacker-trapping-platform/)
 
 **Source:** Security Week  
 **Published:** Mon, 27 Jul 2026 11:06:24 +0000  
@@ -295,7 +332,7 @@
 
 ---
 
-### 33. [What’s Hiding in Your Mobile Apps? Lookout MSEC Aims to Find Out](https://www.securityweek.com/whats-hiding-in-your-mobile-apps-lookout-msec-aims-to-find-out/)
+### 37. [What’s Hiding in Your Mobile Apps? Lookout MSEC Aims to Find Out](https://www.securityweek.com/whats-hiding-in-your-mobile-apps-lookout-msec-aims-to-find-out/)
 
 **Source:** Security Week  
 **Published:** Mon, 27 Jul 2026 11:00:00 +0000  
@@ -304,7 +341,7 @@
 
 ---
 
-### 34. [Hacked Public Wi-Fi Gateways Used to Harvest Corporate Credentials](https://www.securityweek.com/hacked-public-wi-fi-gateways-used-to-harvest-corporate-credentials/)
+### 38. [Hacked Public Wi-Fi Gateways Used to Harvest Corporate Credentials](https://www.securityweek.com/hacked-public-wi-fi-gateways-used-to-harvest-corporate-credentials/)
 
 **Source:** Security Week  
 **Published:** Mon, 27 Jul 2026 10:50:19 +0000  
@@ -313,7 +350,7 @@
 
 ---
 
-### 35. [Anthropic’s Opus 5 Nears Mythos 5 on Finding Bugs, but Falls Short on Exploits](https://www.securityweek.com/anthropics-opus-5-nears-mythos-5-on-finding-bugs-but-falls-short-on-exploits/)
+### 39. [Anthropic’s Opus 5 Nears Mythos 5 on Finding Bugs, but Falls Short on Exploits](https://www.securityweek.com/anthropics-opus-5-nears-mythos-5-on-finding-bugs-but-falls-short-on-exploits/)
 
 **Source:** Security Week  
 **Published:** Mon, 27 Jul 2026 10:02:41 +0000  
@@ -322,50 +359,12 @@
 
 ---
 
-### 36. [DentaQuest Data Breach Potentially Impacts Over 23 Million People](https://www.securityweek.com/dentaquest-data-breach-potentially-impacts-over-23-million-people/)
+### 40. [DentaQuest Data Breach Potentially Impacts Over 23 Million People](https://www.securityweek.com/dentaquest-data-breach-potentially-impacts-over-23-million-people/)
 
 **Source:** Security Week  
 **Published:** Mon, 27 Jul 2026 09:34:12 +0000  
 **Severity:** Low  
 **Categories:** Data Breach  
-
----
-
-### 37. [MCBS Data Breach Affects 1.2 Million Individuals](https://www.securityweek.com/mcbs-data-breach-affects-1-2-million-individuals/)
-
-**Source:** Security Week  
-**Published:** Mon, 27 Jul 2026 04:51:32 +0000  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach  
-
----
-
-### 38. [Rockwell Patches Code Execution Flaws in Arena Simulation Software](https://www.securityweek.com/rockwell-patches-code-execution-flaws-in-arena-simulation-software/)
-
-**Source:** Security Week  
-**Published:** Sat, 25 Jul 2026 08:30:00 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-8313, CVE-2026-8085, CVE-2026-8314, CVE-2026-8312  
-**Categories:** Vulnerability, Supply Chain  
-
----
-
-### 39. [In Other News: Dolphin X AI-Powered Malware, Car Anti-Theft Device Hack, 400 Linux Kernel Flaws](https://www.securityweek.com/in-other-news-dolphin-x-ai-powered-malware-car-anti-theft-device-hack-400-linux-kernel-flaws/)
-
-**Source:** Security Week  
-**Published:** Fri, 24 Jul 2026 14:20:00 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2025-40947, CVE-2025-40949, CVE-2025-40948, CVE-2025-66376  
-**Categories:** Ransomware, Vulnerability, Malware, Phishing, APT  
-
----
-
-### 40. [AegisAI Raises $36 Million for AI-Powered Email Security](https://www.securityweek.com/aegisai-raises-36-million-for-ai-powered-email-security/)
-
-**Source:** Security Week  
-**Published:** Fri, 24 Jul 2026 12:01:18 +0000  
-**Severity:** Low  
-**Categories:** Phishing, APT  
 
 ---
 
@@ -428,7 +427,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Jul 2026 20:27:33 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50522, CVE-2026-50314, CVE-2026-55045, CVE-2026-56188, CVE-2026-55033, CVE-2026-50467, CVE-2026-55120, CVE-2026-50370, CVE-2026-55043, CVE-2026-50518, CVE-2026-56164, CVE-2026-55140, CVE-2026-55056, CVE-2026-55022, CVE-2026-55129, CVE-2026-55132, CVE-2026-58644, CVE-2026-56155, CVE-2026-54128, CVE-2026-50655, CVE-2026-54992, CVE-2026-55018, CVE-2026-55010, CVE-2026-55127, CVE-2026-50327, CVE-2026-55944, CVE-2026-55049, CVE-2026-55123  
+**CVEs:** CVE-2026-56188, CVE-2026-55120, CVE-2026-54128, CVE-2026-50522, CVE-2026-55056, CVE-2026-50467, CVE-2026-50518, CVE-2026-55010, CVE-2026-55033, CVE-2026-56164, CVE-2026-55045, CVE-2026-55127, CVE-2026-55129, CVE-2026-50314, CVE-2026-54992, CVE-2026-55018, CVE-2026-50370, CVE-2026-50655, CVE-2026-50327, CVE-2026-56155, CVE-2026-55140, CVE-2026-55022, CVE-2026-55049, CVE-2026-55944, CVE-2026-55043, CVE-2026-55132, CVE-2026-58644, CVE-2026-55123  
 **Categories:** Vulnerability  
 
 ---
@@ -456,7 +455,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 09 Jul 2026 18:52:29 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-25106, CVE-2026-28739, CVE-2026-33091  
+**CVEs:** CVE-2026-28739, CVE-2026-33091, CVE-2026-25106  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -631,7 +630,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -646,7 +645,16 @@
 
 ---
 
-### 71. [A week in security (July 20 &#8211; July 26)](https://www.malwarebytes.com/blog/news/2026/07/a-week-in-security-july-20-july-26)
+### 71. [What&#8217;s your data worth on the dark web? (Lock and Code S07E15)](https://www.malwarebytes.com/blog/podcast/2026/07/whats-your-data-worth-on-the-dark-web-lock-and-code-s07e15)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 27 Jul 2026 14:35:34 GMT  
+**Severity:** Low  
+**Categories:** Malware, APT  
+
+---
+
+### 72. [A week in security (July 20 &#8211; July 26)](https://www.malwarebytes.com/blog/news/2026/07/a-week-in-security-july-20-july-26)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 27 Jul 2026 07:01:00 GMT  
@@ -655,7 +663,7 @@
 
 ---
 
-### 72. [Don&#8217;t get fooled by TikTok resin art scams](https://www.malwarebytes.com/blog/scams/2026/07/dont-get-fooled-by-tiktok-resin-art-scams)
+### 73. [Don&#8217;t get fooled by TikTok resin art scams](https://www.malwarebytes.com/blog/scams/2026/07/dont-get-fooled-by-tiktok-resin-art-scams)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 24 Jul 2026 14:56:34 GMT  
@@ -664,7 +672,7 @@
 
 ---
 
-### 73. [Call of Duty Mobile scam uses fake free points to steal player accounts](https://www.malwarebytes.com/blog/threat-intel/2026/07/call-of-duty-mobile-scam-uses-fake-free-points-to-steal-player-accounts)
+### 74. [Call of Duty Mobile scam uses fake free points to steal player accounts](https://www.malwarebytes.com/blog/threat-intel/2026/07/call-of-duty-mobile-scam-uses-fake-free-points-to-steal-player-accounts)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 24 Jul 2026 14:54:23 GMT  
@@ -673,7 +681,7 @@
 
 ---
 
-### 74. [OpenAI&#8217;s agent escaped its sandbox during a security test](https://www.malwarebytes.com/blog/news/2026/07/openais-agent-escaped-its-sandbox-during-a-security-test)
+### 75. [OpenAI&#8217;s agent escaped its sandbox during a security test](https://www.malwarebytes.com/blog/news/2026/07/openais-agent-escaped-its-sandbox-during-a-security-test)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 24 Jul 2026 14:51:45 GMT  
@@ -682,7 +690,7 @@
 
 ---
 
-### 75. [Google wants to store a selfie video of your face](https://www.malwarebytes.com/blog/privacy/2026/07/google-wants-to-store-a-selfie-video-of-your-face)
+### 76. [Google wants to store a selfie video of your face](https://www.malwarebytes.com/blog/privacy/2026/07/google-wants-to-store-a-selfie-video-of-your-face)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 24 Jul 2026 13:41:45 GMT  
@@ -691,7 +699,7 @@
 
 ---
 
-### 76. [Beyond the Play Store: How Android threats really spread](https://www.malwarebytes.com/blog/inside-malwarebytes/2026/07/beyond-the-play-store-how-android-threats-really-spread)
+### 77. [Beyond the Play Store: How Android threats really spread](https://www.malwarebytes.com/blog/inside-malwarebytes/2026/07/beyond-the-play-store-how-android-threats-really-spread)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 24 Jul 2026 12:00:00 GMT  
@@ -700,7 +708,7 @@
 
 ---
 
-### 77. [Millions of cars could be tracked and unlocked  by a hidden security flaw](https://www.malwarebytes.com/blog/bugs/2026/07/millions-of-cars-could-be-tracked-and-unlocked-by-a-hidden-security-flaw)
+### 78. [Millions of cars could be tracked and unlocked  by a hidden security flaw](https://www.malwarebytes.com/blog/bugs/2026/07/millions-of-cars-could-be-tracked-and-unlocked-by-a-hidden-security-flaw)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 23 Jul 2026 11:24:58 GMT  
@@ -709,7 +717,7 @@
 
 ---
 
-### 78. [WhatsApp Web chats exposed by Adobe&#8217;s Acrobat extension flaw](https://www.malwarebytes.com/blog/bugs/2026/07/whatsapp-web-chats-exposed-by-adobes-acrobat-extension-flaw)
+### 79. [WhatsApp Web chats exposed by Adobe&#8217;s Acrobat extension flaw](https://www.malwarebytes.com/blog/bugs/2026/07/whatsapp-web-chats-exposed-by-adobes-acrobat-extension-flaw)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 23 Jul 2026 11:24:04 GMT  
@@ -719,21 +727,12 @@
 
 ---
 
-### 79. [Chick-fil-A loyalty accounts hijacked using stolen passwords](https://www.malwarebytes.com/blog/data-breaches/2026/07/chick-fil-a-loyalty-accounts-hijacked-using-stolen-passwords)
+### 80. [Chick-fil-A loyalty accounts hijacked using stolen passwords](https://www.malwarebytes.com/blog/data-breaches/2026/07/chick-fil-a-loyalty-accounts-hijacked-using-stolen-passwords)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 22 Jul 2026 12:46:18 GMT  
 **Severity:** Low  
 **Categories:** Data Breach, Malware  
-
----
-
-### 80. [Paidwork breach exposes data of 23 million users: Check if you&#8217;re affected](https://www.malwarebytes.com/blog/data-breaches/2026/07/paidwork-breach-exposes-data-of-23-million-users-check-if-youre-affected)
-
-**Source:** Malwarebytes  
-**Published:** Wed, 22 Jul 2026 11:34:49 GMT  
-**Severity:** Critical  
-**Categories:** Data Breach, Phishing  
 
 ---
 
