@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments",
+    "link": "https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html",
+    "published": "Mon, 27 Jul 2026 14:18:47 +0530",
+    "summary": "Cybersecurity researchers have flagged fresh malicious cyber activity by a threat actor with ties to East Asia targeting government entities in the Middle East.\n\nThe intrusions have resulted in the deployment of previously unreported malware families dubbed TELESHIM, MIXEDKEY, and BINDCLOAK, according to Zscaler ThreatLabz. The cybersecurity firm said it detected the campaign earlier this month.",
+    "analysis": {
+      "issue": "TELESHIM uses Telegram C2 in attacks on Middle East governments alongside two more new malware families",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "GitHub Adds 3-Day Dependabot Cooldown to Limit Poisoned Package Adoption",
+    "link": "https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html",
+    "published": "Mon, 27 Jul 2026 13:31:23 +0530",
+    "summary": "GitHub has announced a new cooldown mechanism in Dependabot, allowing the tool to wait at least three days after a release is published before opening a pull request.\n\n\"The cooldown configuration option in the dependabot.yml still controls the behavior, though, so you can choose a different cooldown parameter that fits your project,\" the Microsoft-owned subsidiary said.\n\nAccording to GitHub, the",
+    "analysis": {
+      "issue": "GitHub gives Dependabot version updates a three-day cooldown to curb short-lived poisoned packages, while security fixes still ship immediately",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
     "link": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html",
     "published": "Sun, 26 Jul 2026 00:18:44 +0530",
@@ -143,42 +179,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link",
-    "link": "https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html",
-    "published": "Fri, 24 Jul 2026 17:23:55 +0530",
-    "summary": "Cybersecurity researchers have disclosed a critical vulnerability in OpenAI's ChatGPT Workspace Agents that could have allowed a single phishing link to stealthily build, authorize, and deploy an autonomous artificial intelligence (AI) agent inside a victim's organization.\n\nThe vulnerability has been codenamed AgentForger by Zenity Labs. The issue has since been addressed by OpenAI as of June 8,",
-    "analysis": {
-      "issue": "AgentForger could let a phishing link forge, publish, and schedule a rogue ChatGPT Workspace Agent with access to connected apps",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers",
-    "link": "https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html",
-    "published": "Fri, 24 Jul 2026 17:15:17 +0530",
-    "summary": "A crafted SVG submitted to Bing's image search ran commands as NT AUTHORITY\\SYSTEM on Microsoft's production image-processing workers, and as root on the Linux machines in the same fleet.\n\nXBOW's testing got the same result on workers across different hosts and network ranges, so the problem sat in Bing's image tier, not on one bad machine. Microsoft issued two critical CVEs, CVE-2026-32194 and",
-    "analysis": {
-      "issue": "Two Bing image search flaws let crafted SVGs run commands as SYSTEM on Windows workers & root on Linux before Microsoft fixed them server-side",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -398,10 +398,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56164",
-        "CVE-2026-48561",
         "CVE-2026-56155",
-        "CVE-2026-50661"
+        "CVE-2026-48561",
+        "CVE-2026-50661",
+        "CVE-2026-56164"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -535,9 +535,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-45586",
         "CVE-2026-49160",
-        "CVE-2026-50507"
+        "CVE-2026-50507",
+        "CVE-2026-45586"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -565,6 +565,139 @@
   },
   {
     "source": "Security Week",
+    "title": "Coca-Cola Confirms Data Breach After Fairlife Ransomware Attack",
+    "link": "https://www.securityweek.com/coca-cola-confirms-data-breach-after-fairlife-ransomware-attack/",
+    "published": "Mon, 27 Jul 2026 11:29:03 +0000",
+    "summary": "<p>The Anubis cybercrime group has taken credit for the attack and is threatening to leak data.</p>\n<p>The post <a href=\"https://www.securityweek.com/coca-cola-confirms-data-breach-after-fairlife-ransomware-attack/\">Coca-Cola Confirms Data Breach After Fairlife Ransomware Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The Anubis cybercrime group has taken credit for the attack and is threatening to leak data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Beelzebub Raises $3.4 Million for Hacker-Trapping Platform",
+    "link": "https://www.securityweek.com/beelzebub-raises-3-4-million-for-hacker-trapping-platform/",
+    "published": "Mon, 27 Jul 2026 11:06:24 +0000",
+    "summary": "<p>The company plans to expand its research team, open new offices in Rome and San Francisco, and acquire new clients.</p>\n<p>The post <a href=\"https://www.securityweek.com/beelzebub-raises-3-4-million-for-hacker-trapping-platform/\">Beelzebub Raises $3.4 Million for Hacker-Trapping Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The company plans to expand its research team, open new offices in Rome and San Francisco, and acquire new clients",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "What’s Hiding in Your Mobile Apps? Lookout MSEC Aims to Find Out",
+    "link": "https://www.securityweek.com/whats-hiding-in-your-mobile-apps-lookout-msec-aims-to-find-out/",
+    "published": "Mon, 27 Jul 2026 11:00:00 +0000",
+    "summary": "<p>The new Mobile Security Exposure Center creates SBOMs for enterprise mobile apps to uncover vulnerable components, dependencies and hidden risks.</p>\n<p>The post <a href=\"https://www.securityweek.com/whats-hiding-in-your-mobile-apps-lookout-msec-aims-to-find-out/\">What’s Hiding in Your Mobile Apps? Lookout MSEC Aims to Find Out</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The new Mobile Security Exposure Center creates SBOMs for enterprise mobile apps to uncover vulnerable components, dependencies and hidden risks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Hacked Public Wi-Fi Gateways Used to Harvest Corporate Credentials",
+    "link": "https://www.securityweek.com/hacked-public-wi-fi-gateways-used-to-harvest-corporate-credentials/",
+    "published": "Mon, 27 Jul 2026 10:50:19 +0000",
+    "summary": "<p>A threat actor has been using the compromised appliances to target the Microsoft 365 accounts of traveling corporate employees.</p>\n<p>The post <a href=\"https://www.securityweek.com/hacked-public-wi-fi-gateways-used-to-harvest-corporate-credentials/\">Hacked Public Wi-Fi Gateways Used to Harvest Corporate Credentials</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "A threat actor has been using the compromised appliances to target the Microsoft 365 accounts of traveling corporate employees",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Anthropic’s Opus 5 Nears Mythos 5 on Finding Bugs, but Falls Short on Exploits",
+    "link": "https://www.securityweek.com/anthropics-opus-5-nears-mythos-5-on-finding-bugs-but-falls-short-on-exploits/",
+    "published": "Mon, 27 Jul 2026 10:02:41 +0000",
+    "summary": "<p>Binary-based vulnerability scanning, penetration testing, and exploit generation are blocked in Opus 5.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropics-opus-5-nears-mythos-5-on-finding-bugs-but-falls-short-on-exploits/\">Anthropic&#8217;s Opus 5 Nears Mythos 5 on Finding Bugs, but Falls Short on Exploits</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Binary-based vulnerability scanning, penetration testing, and exploit generation are blocked in Opus 5",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "DentaQuest Data Breach Potentially Impacts Over 23 Million People",
+    "link": "https://www.securityweek.com/dentaquest-data-breach-potentially-impacts-over-23-million-people/",
+    "published": "Mon, 27 Jul 2026 09:34:12 +0000",
+    "summary": "<p>In May 2026, hackers stole personal and dental health information from DentaQuest’s computer network.</p>\n<p>The post <a href=\"https://www.securityweek.com/dentaquest-data-breach-potentially-impacts-over-23-million-people/\">DentaQuest Data Breach Potentially Impacts Over 23 Million People</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "In May 2026, hackers stole personal and dental health information from DentaQuest’s computer network",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "MCBS Data Breach Affects 1.2 Million Individuals",
+    "link": "https://www.securityweek.com/mcbs-data-breach-affects-1-2-million-individuals/",
+    "published": "Mon, 27 Jul 2026 04:51:32 +0000",
+    "summary": "<p>The PEAR ransomware group claimed to have stolen 3 TB of information from the medical business management company.</p>\n<p>The post <a href=\"https://www.securityweek.com/mcbs-data-breach-affects-1-2-million-individuals/\">MCBS Data Breach Affects 1.2 Million Individuals</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The PEAR ransomware group claimed to have stolen 3 TB of information from the medical business management company",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Rockwell Patches Code Execution Flaws in Arena Simulation Software",
     "link": "https://www.securityweek.com/rockwell-patches-code-execution-flaws-in-arena-simulation-software/",
     "published": "Sat, 25 Jul 2026 08:30:00 +0000",
@@ -577,9 +710,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-8313",
-        "CVE-2026-8312",
+        "CVE-2026-8085",
         "CVE-2026-8314",
-        "CVE-2026-8085"
+        "CVE-2026-8312"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -601,8 +734,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2025-40947",
-        "CVE-2025-40948",
         "CVE-2025-40949",
+        "CVE-2025-40948",
         "CVE-2025-66376"
       ],
       "threat_categories": [
@@ -630,145 +763,6 @@
       "threat_categories": [
         "Phishing",
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Industry Reactions to OpenAI Models Hacking Hugging Face: Feedback Friday",
-    "link": "https://www.securityweek.com/industry-reactions-to-openai-models-hacking-hugging-face-feedback-friday/",
-    "published": "Fri, 24 Jul 2026 11:19:46 +0000",
-    "summary": "<p>Industry professionals debate whether it represents a lab containment failure or an unprecedented agentic capability milestone.</p>\n<p>The post <a href=\"https://www.securityweek.com/industry-reactions-to-openai-models-hacking-hugging-face-feedback-friday/\">Industry Reactions to OpenAI Models Hacking Hugging Face: Feedback Friday</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Industry professionals debate whether it represents a lab containment failure or an unprecedented agentic capability milestone",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Phishing",
-        "APT",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Data Breach Confirmed After Australian Energy Giant Origin Is Hacked",
-    "link": "https://www.securityweek.com/data-breach-confirmed-after-australian-energy-giant-origin-is-hacked/",
-    "published": "Fri, 24 Jul 2026 05:52:31 +0000",
-    "summary": "<p>A hacker claims to have stolen the information of 2 million Origin Energy customers and is threatening to leak it. </p>\n<p>The post <a href=\"https://www.securityweek.com/data-breach-confirmed-after-australian-energy-giant-origin-is-hacked/\">Data Breach Confirmed After Australian Energy Giant Origin Is Hacked</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "A hacker claims to have stolen the information of 2 million Origin Energy customers and is threatening to leak it",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "OpenAI Fixes ChatGPT Agent Flaw That Could Let Attackers Forge an AI Insider",
-    "link": "https://www.securityweek.com/openai-fixes-chatgpt-agent-flaw-that-could-let-attackers-forge-an-ai-insider/",
-    "published": "Thu, 23 Jul 2026 15:09:59 +0000",
-    "summary": "<p>AgentForger allows an attacker to create, insert and remotely control an invisible autonomous AI agent inside a victim organization.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-fixes-chatgpt-agent-flaw-that-could-let-attackers-forge-an-ai-insider/\">OpenAI Fixes ChatGPT Agent Flaw That Could Let Attackers Forge an AI Insider</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "AgentForger allows an attacker to create, insert and remotely control an invisible autonomous AI agent inside a victim organization",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Is Patching Dead? Vulnerability Management in the Post-Mythos Era",
-    "link": "https://www.securityweek.com/is-patching-dead-vulnerability-management-in-the-post-mythos-era/",
-    "published": "Thu, 23 Jul 2026 15:00:00 +0000",
-    "summary": "<p>You cannot out-patch a machine that writes a working exploit from a vulnerability description in twenty hours. Stop trying to optimize a game you cannot win.</p>\n<p>The post <a href=\"https://www.securityweek.com/is-patching-dead-vulnerability-management-in-the-post-mythos-era/\">Is Patching Dead? Vulnerability Management in the Post-Mythos Era</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "You cannot out-patch a machine that writes a working exploit from a vulnerability description in twenty hours",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Chick-fil-A Accounts Get Fried in Credential Stuffing Attack",
-    "link": "https://www.securityweek.com/chick-fil-a-accounts-get-fried-in-credential-stuffing-attack/",
-    "published": "Thu, 23 Jul 2026 14:55:19 +0000",
-    "summary": "<p>Threat actors used credentials obtained from other companies to hack into Chick-fil-A One accounts.</p>\n<p>The post <a href=\"https://www.securityweek.com/chick-fil-a-accounts-get-fried-in-credential-stuffing-attack/\">Chick-fil-A Accounts Get Fried in Credential Stuffing Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Threat actors used credentials obtained from other companies to hack into Chick-fil-A One accounts",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Malware",
-        "Phishing",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Abstract Raises $25 Million to Expand Composable Security Operations Platform",
-    "link": "https://www.securityweek.com/abstract-raises-25-million-to-expand-composable-security-operations-platform/",
-    "published": "Thu, 23 Jul 2026 13:54:56 +0000",
-    "summary": "<p>The latest investment round brings the total raised by Abstract to nearly $50 million.</p>\n<p>The post <a href=\"https://www.securityweek.com/abstract-raises-25-million-to-expand-composable-security-operations-platform/\">Abstract Raises $25 Million to Expand Composable Security Operations Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The latest investment round brings the total raised by Abstract to nearly $50 million",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Nuclear-Sabotage Malware Benchmark Trips Up Most Frontier AI Models",
-    "link": "https://www.securityweek.com/nuclear-sabotage-malware-benchmark-trips-up-most-frontier-ai-models/",
-    "published": "Thu, 23 Jul 2026 12:42:12 +0000",
-    "summary": "<p>SentinelOne’s new benchmark, built on the Fast16 case, shows which AI models can sustain a malware investigation and which cannot.</p>\n<p>The post <a href=\"https://www.securityweek.com/nuclear-sabotage-malware-benchmark-trips-up-most-frontier-ai-models/\">Nuclear-Sabotage Malware Benchmark Trips Up Most Frontier AI Models</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "SentinelOne’s new benchmark, built on the Fast16 case, shows which AI models can sustain a malware investigation and which cannot",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
       ]
     }
   },
@@ -895,34 +889,34 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-55045",
-        "CVE-2026-50467",
-        "CVE-2026-56164",
-        "CVE-2026-55056",
-        "CVE-2026-55132",
-        "CVE-2026-50370",
-        "CVE-2026-55033",
-        "CVE-2026-55018",
-        "CVE-2026-55049",
-        "CVE-2026-55127",
-        "CVE-2026-55129",
         "CVE-2026-50522",
         "CVE-2026-50314",
-        "CVE-2026-56155",
-        "CVE-2026-55010",
-        "CVE-2026-55022",
-        "CVE-2026-55120",
+        "CVE-2026-55045",
         "CVE-2026-56188",
+        "CVE-2026-55033",
+        "CVE-2026-50467",
+        "CVE-2026-55120",
+        "CVE-2026-50370",
+        "CVE-2026-55043",
+        "CVE-2026-50518",
+        "CVE-2026-56164",
+        "CVE-2026-55140",
+        "CVE-2026-55056",
+        "CVE-2026-55022",
+        "CVE-2026-55129",
+        "CVE-2026-55132",
+        "CVE-2026-58644",
+        "CVE-2026-56155",
         "CVE-2026-54128",
         "CVE-2026-50655",
-        "CVE-2026-55123",
-        "CVE-2026-55043",
         "CVE-2026-54992",
-        "CVE-2026-58644",
-        "CVE-2026-55944",
-        "CVE-2026-55140",
+        "CVE-2026-55018",
+        "CVE-2026-55010",
+        "CVE-2026-55127",
         "CVE-2026-50327",
-        "CVE-2026-50518"
+        "CVE-2026-55944",
+        "CVE-2026-55049",
+        "CVE-2026-55123"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -982,8 +976,8 @@
       "severity": "Low",
       "cves": [
         "CVE-2026-25106",
-        "CVE-2026-33091",
-        "CVE-2026-28739"
+        "CVE-2026-28739",
+        "CVE-2026-33091"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1338,8 +1332,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1364,6 +1358,25 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "A week in security (July 20 &#8211; July 26)",
+    "link": "https://www.malwarebytes.com/blog/news/2026/07/a-week-in-security-july-20-july-26",
+    "published": "Mon, 27 Jul 2026 07:01:00 GMT",
+    "summary": "A list of topics we covered in the week of July 20 to July 26 of 2026",
+    "analysis": {
+      "issue": "Last week on Malwarebytes Labs: Stay safe",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
       ]
     }
   },
@@ -1536,22 +1549,20 @@
     }
   },
   {
-    "source": "Malwarebytes",
-    "title": "What happens if you visit a WordPress site hacked through wp2shell?",
-    "link": "https://www.malwarebytes.com/blog/bugs/2026/07/what-happens-if-you-visit-a-wordpress-site-hacked-through-wp2shell",
-    "published": "Tue, 21 Jul 2026 14:57:27 GMT",
-    "summary": "Attackers started exploiting the critical wp2shell vulnerability chain within hours of patches being released, putting sites and their visitors at risk.",
+    "source": "Crowdstrike Blog",
+    "title": "CrowdStrike Joins the Open Secure AI Alliance to Advance AI Safety and Security",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-joins-the-open-secure-ai-alliance/",
+    "published": "Jul 27, 2026 00:00:00-0400",
+    "summary": "",
     "analysis": {
-      "issue": "WordPress has patched a serious core vulnerability chain known as wp2shell, and site owners are understandably focused on updating their own sites",
+      "issue": "CrowdStrike joins the Open Secure AI Alliance to help defenders secure the AI era through open models, shared research, and collective defense",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Phishing"
+        "General Security"
       ]
     }
   },
@@ -1714,24 +1725,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "Browser Security: Zero-Days Are Only Part of the Problem",
-    "link": "https://www.crowdstrike.com/en-us/blog/browser-security-zero-days-are-only-part-of-the-problem/",
-    "published": "Jun 30, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "Learn about browser-based zero-day vulnerabilities and how to take steps to reduce risk for your business environment",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   }
