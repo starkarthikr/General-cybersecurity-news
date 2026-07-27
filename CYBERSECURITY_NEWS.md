@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-26 17:32:27 UTC
+**Last Updated:** 2026-07-27 03:39:02 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,7 @@
 
 ---
 
-### 11. [GitHub, PyPI add time-absed defenses against supply chain attacks](https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/)
+### 11. [GitHub, PyPI add time-based defenses against supply chain attacks](https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 26 Jul 2026 10:13:39 -0400  
@@ -199,7 +199,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56155, CVE-2026-48561, CVE-2026-56164, CVE-2026-50661  
+**CVEs:** CVE-2026-56155, CVE-2026-56164, CVE-2026-48561, CVE-2026-50661  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -282,7 +282,7 @@
 **Source:** Security Week  
 **Published:** Sat, 25 Jul 2026 08:30:00 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-8313, CVE-2026-8312, CVE-2026-8085, CVE-2026-8314  
+**CVEs:** CVE-2026-8312, CVE-2026-8313, CVE-2026-8085, CVE-2026-8314  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -292,7 +292,7 @@
 **Source:** Security Week  
 **Published:** Fri, 24 Jul 2026 14:20:00 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-40949, CVE-2025-40948, CVE-2025-66376, CVE-2025-40947  
+**CVEs:** CVE-2025-40948, CVE-2025-40949, CVE-2025-66376, CVE-2025-40947  
 **Categories:** Ransomware, Vulnerability, Malware, Phishing, APT  
 
 ---
@@ -428,7 +428,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Jul 2026 20:27:33 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-55056, CVE-2026-55033, CVE-2026-55045, CVE-2026-56155, CVE-2026-55127, CVE-2026-55120, CVE-2026-55140, CVE-2026-55129, CVE-2026-50467, CVE-2026-50314, CVE-2026-56164, CVE-2026-50327, CVE-2026-54992, CVE-2026-50522, CVE-2026-50655, CVE-2026-55043, CVE-2026-55010, CVE-2026-50370, CVE-2026-50518, CVE-2026-55022, CVE-2026-54128, CVE-2026-56188, CVE-2026-55049, CVE-2026-55123, CVE-2026-58644, CVE-2026-55132, CVE-2026-55018, CVE-2026-55944  
+**CVEs:** CVE-2026-56155, CVE-2026-55049, CVE-2026-50518, CVE-2026-55129, CVE-2026-54992, CVE-2026-58644, CVE-2026-50655, CVE-2026-55010, CVE-2026-55043, CVE-2026-55944, CVE-2026-50522, CVE-2026-55022, CVE-2026-55018, CVE-2026-55132, CVE-2026-50467, CVE-2026-55033, CVE-2026-55127, CVE-2026-55045, CVE-2026-55056, CVE-2026-50314, CVE-2026-54128, CVE-2026-50370, CVE-2026-50327, CVE-2026-55120, CVE-2026-55140, CVE-2026-55123, CVE-2026-56164, CVE-2026-56188  
 **Categories:** Vulnerability  
 
 ---
@@ -456,7 +456,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 09 Jul 2026 18:52:29 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-33091, CVE-2026-25106, CVE-2026-28739  
+**CVEs:** CVE-2026-33091, CVE-2026-28739, CVE-2026-25106  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -631,7 +631,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
