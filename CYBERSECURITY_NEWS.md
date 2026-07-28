@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-28 14:22:14 UTC
+**Last Updated:** 2026-07-28 17:54:34 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach](https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html)
+### 1. [Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process](https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 28 Jul 2026 20:31:33 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 2. [24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login](https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 28 Jul 2026 20:11:36 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach](https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 28 Jul 2026 19:03:47 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root](https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html)
+### 4. [Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root](https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 28 Jul 2026 18:26:14 +0530  
@@ -23,7 +41,7 @@
 
 ---
 
-### 3. [Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays](https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html)
+### 5. [Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays](https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 28 Jul 2026 17:25:20 +0530  
@@ -32,7 +50,7 @@
 
 ---
 
-### 4. [Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In](https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html)
+### 6. [Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In](https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 28 Jul 2026 13:41:22 +0530  
@@ -42,7 +60,7 @@
 
 ---
 
-### 5. [Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit](https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html)
+### 7. [Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit](https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 28 Jul 2026 13:34:44 +0530  
@@ -51,7 +69,7 @@
 
 ---
 
-### 6. [Microsoft Says New Cybersecurity AI Model Helps MDASH Score 95.95% at Half the Cost](https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html)
+### 8. [Microsoft Says New Cybersecurity AI Model Helps MDASH Score 95.95% at Half the Cost](https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 28 Jul 2026 11:37:22 +0530  
@@ -60,7 +78,7 @@
 
 ---
 
-### 7. [Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw](https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html)
+### 9. [Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw](https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 28 Jul 2026 10:13:53 +0530  
@@ -70,31 +88,12 @@
 
 ---
 
-### 8. [NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework](https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html)
+### 10. [NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework](https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 27 Jul 2026 23:40:05 +0530  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 9. [Dysphoria IoT Botnet Adds Blockchain C2 and Victim Relays After JackSkid Disruption](https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 27 Jul 2026 22:46:28 +0530  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 10. [Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw](https://thehackernews.com/2026/07/public-exploit-released-for-patched.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 27 Jul 2026 20:10:00 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-61511  
-**Categories:** Vulnerability  
 
 ---
 
@@ -205,9 +204,6 @@
 
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-56155, CVE-2026-48561, CVE-2026-56164, CVE-2026-50661  
-**Categories:** Vulnerability, Malware  
 
 ---
 
@@ -215,8 +211,6 @@
 
 **Source:** Krebs On Security  
 **Published:** Mon, 13 Jul 2026 15:03:28 +0000  
-**Severity:** Low  
-**Categories:** Data Breach, Vulnerability  
 
 ---
 
@@ -224,8 +218,6 @@
 
 **Source:** Krebs On Security  
 **Published:** Wed, 08 Jul 2026 12:31:39 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability  
 
 ---
 
@@ -233,8 +225,6 @@
 
 **Source:** Krebs On Security  
 **Published:** Thu, 02 Jul 2026 19:27:33 +0000  
-**Severity:** Low  
-**Categories:** Malware, Supply Chain  
 
 ---
 
@@ -242,8 +232,6 @@
 
 **Source:** Krebs On Security  
 **Published:** Tue, 23 Jun 2026 16:12:49 +0000  
-**Severity:** High  
-**Categories:** Ransomware, Phishing  
 
 ---
 
@@ -251,8 +239,6 @@
 
 **Source:** Krebs On Security  
 **Published:** Thu, 18 Jun 2026 17:37:58 +0000  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
@@ -260,8 +246,6 @@
 
 **Source:** Krebs On Security  
 **Published:** Wed, 10 Jun 2026 14:03:44 +0000  
-**Severity:** Low  
-**Categories:** Ransomware, Vulnerability, Malware  
 
 ---
 
@@ -279,12 +263,19 @@
 
 **Source:** Krebs On Security  
 **Published:** Mon, 01 Jun 2026 17:32:50 +0000  
-**Severity:** High  
-**Categories:** Vulnerability  
 
 ---
 
-### 31. [Apple Patches 87 Vulnerabilities in iOS, 155 in macOS Tahoe](https://www.securityweek.com/apple-patches-87-vulnerabilities-in-ios-155-in-macos-tahoe/)
+### 31. [Cyera Acquiring Oasis Security in $1 Billion Deal](https://www.securityweek.com/cyera-acquiring-oasis-security-in-1-billion-deal/)
+
+**Source:** Security Week  
+**Published:** Tue, 28 Jul 2026 14:55:30 +0000  
+**Severity:** Critical  
+**Categories:** General Security  
+
+---
+
+### 32. [Apple Patches 87 Vulnerabilities in iOS, 155 in macOS Tahoe](https://www.securityweek.com/apple-patches-87-vulnerabilities-in-ios-155-in-macos-tahoe/)
 
 **Source:** Security Week  
 **Published:** Tue, 28 Jul 2026 14:19:31 +0000  
@@ -294,7 +285,7 @@
 
 ---
 
-### 32. [OT Security Startup Frenos Raises $1.52 Million](https://www.securityweek.com/ot-security-startup-frenos-raises-1-52-million/)
+### 33. [OT Security Startup Frenos Raises $1.52 Million](https://www.securityweek.com/ot-security-startup-frenos-raises-1-52-million/)
 
 **Source:** Security Week  
 **Published:** Tue, 28 Jul 2026 13:05:25 +0000  
@@ -303,7 +294,7 @@
 
 ---
 
-### 33. [Microsoft Unveils MAI-Cyber-1-Flash, Its First Cybersecurity AI Model](https://www.securityweek.com/microsoft-unveils-mai-cyber-1-flash-its-first-cybersecurity-ai-model/)
+### 34. [Microsoft Unveils MAI-Cyber-1-Flash, Its First Cybersecurity AI Model](https://www.securityweek.com/microsoft-unveils-mai-cyber-1-flash-its-first-cybersecurity-ai-model/)
 
 **Source:** Security Week  
 **Published:** Tue, 28 Jul 2026 11:11:48 +0000  
@@ -312,7 +303,7 @@
 
 ---
 
-### 34. [Hacker Conversations: Tal Kollander’s Journey From Black Hat to Hack Blocker](https://www.securityweek.com/hacker-conversations-tal-kollanders-journey-from-black-hat-to-hack-blocker/)
+### 35. [Hacker Conversations: Tal Kollander’s Journey From Black Hat to Hack Blocker](https://www.securityweek.com/hacker-conversations-tal-kollanders-journey-from-black-hat-to-hack-blocker/)
 
 **Source:** Security Week  
 **Published:** Tue, 28 Jul 2026 11:00:00 +0000  
@@ -321,7 +312,7 @@
 
 ---
 
-### 35. [Act Security Emerges from Stealth to Fight the Patch Problem](https://www.securityweek.com/act-security-emerges-from-stealth-to-fight-the-patch-problem/)
+### 36. [Act Security Emerges from Stealth to Fight the Patch Problem](https://www.securityweek.com/act-security-emerges-from-stealth-to-fight-the-patch-problem/)
 
 **Source:** Security Week  
 **Published:** Tue, 28 Jul 2026 11:00:00 +0000  
@@ -330,7 +321,7 @@
 
 ---
 
-### 36. [Hush Security Raises $30 Million for AI Agent Governance](https://www.securityweek.com/hush-security-raises-30-million-for-ai-agent-governance/)
+### 37. [Hush Security Raises $30 Million for AI Agent Governance](https://www.securityweek.com/hush-security-raises-30-million-for-ai-agent-governance/)
 
 **Source:** Security Week  
 **Published:** Tue, 28 Jul 2026 10:17:27 +0000  
@@ -339,7 +330,7 @@
 
 ---
 
-### 37. [Google Adopts New Threat Actor Naming System](https://www.securityweek.com/google-adopts-new-threat-actor-naming-system/)
+### 38. [Google Adopts New Threat Actor Naming System](https://www.securityweek.com/google-adopts-new-threat-actor-naming-system/)
 
 **Source:** Security Week  
 **Published:** Tue, 28 Jul 2026 08:42:52 +0000  
@@ -348,7 +339,7 @@
 
 ---
 
-### 38. [Unpatched Fastjson Vulnerability Exploited in Attacks](https://www.securityweek.com/unpatched-fastjson-vulnerability-exploited-in-attacks/)
+### 39. [Unpatched Fastjson Vulnerability Exploited in Attacks](https://www.securityweek.com/unpatched-fastjson-vulnerability-exploited-in-attacks/)
 
 **Source:** Security Week  
 **Published:** Tue, 28 Jul 2026 07:27:55 +0000  
@@ -358,22 +349,13 @@
 
 ---
 
-### 39. [Critical Arista VeloCloud Orchestrator Vulnerability Exploited as Zero-Day](https://www.securityweek.com/critical-arista-velocloud-orchestrator-vulnerability-exploited-as-zero-day/)
+### 40. [Critical Arista VeloCloud Orchestrator Vulnerability Exploited as Zero-Day](https://www.securityweek.com/critical-arista-velocloud-orchestrator-vulnerability-exploited-as-zero-day/)
 
 **Source:** Security Week  
 **Published:** Tue, 28 Jul 2026 06:40:36 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2023-27997, CVE-2024-21762, CVE-2026-16812, CVE-2022-42475, CVE-2025-68686  
+**CVEs:** CVE-2022-42475, CVE-2024-21762, CVE-2023-27997, CVE-2025-68686, CVE-2026-16812  
 **Categories:** Ransomware, Vulnerability  
-
----
-
-### 40. [Origin Energy Data Breach Affects 900,000 Australians](https://www.securityweek.com/origin-energy-data-breach-affects-900000-australians/)
-
-**Source:** Security Week  
-**Published:** Tue, 28 Jul 2026 05:01:05 +0000  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach  
 
 ---
 
@@ -445,7 +427,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Jul 2026 20:27:33 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-55127, CVE-2026-58644, CVE-2026-55140, CVE-2026-55132, CVE-2026-55043, CVE-2026-50655, CVE-2026-50518, CVE-2026-55120, CVE-2026-55022, CVE-2026-50522, CVE-2026-50370, CVE-2026-55123, CVE-2026-55049, CVE-2026-50467, CVE-2026-55056, CVE-2026-55033, CVE-2026-56188, CVE-2026-56164, CVE-2026-55129, CVE-2026-54128, CVE-2026-56155, CVE-2026-55944, CVE-2026-55018, CVE-2026-50327, CVE-2026-55010, CVE-2026-50314, CVE-2026-54992, CVE-2026-55045  
+**CVEs:** CVE-2026-50655, CVE-2026-55120, CVE-2026-55033, CVE-2026-55056, CVE-2026-55127, CVE-2026-56155, CVE-2026-58644, CVE-2026-56164, CVE-2026-55043, CVE-2026-50522, CVE-2026-55129, CVE-2026-55944, CVE-2026-55018, CVE-2026-55010, CVE-2026-55045, CVE-2026-55049, CVE-2026-55123, CVE-2026-55022, CVE-2026-50370, CVE-2026-54992, CVE-2026-56188, CVE-2026-55140, CVE-2026-55132, CVE-2026-50314, CVE-2026-50327, CVE-2026-50467, CVE-2026-50518, CVE-2026-54128  
 **Categories:** Vulnerability  
 
 ---

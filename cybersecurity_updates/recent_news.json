@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process",
+    "link": "https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html",
+    "published": "Tue, 28 Jul 2026 20:31:33 +0530",
+    "summary": "A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main process.\n\nIf that happens, Tengu's other persistence mechanisms get another chance to relaunch it. Nozomi Networks Labs observed the dropper reaching its honeypots through Telnet credential brute force.\n\nTengu supports 25 distributed denial-of-service (",
+    "analysis": {
+      "issue": "Tengu abuses Linux hardware watchdogs to reboot devices after its main process is killed, letting other persistence mechanisms relaunch it",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login",
+    "link": "https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html",
+    "published": "Tue, 28 Jul 2026 20:11:36 +0530",
+    "summary": "Cybersecurity researchers have sounded an alert after finding more than 36,000 Baseboard Management Controller (BMC) management interfaces exposing Intelligent Platform Management Interface (IPMI) protocol to the public internet.\n\nOf the 36,872 internet-exposed server-management interfaces running IPMI, 24,650 have been found to disclose password-derived authentication hashes before login due to",
+    "analysis": {
+      "issue": "Researchers find 24,650 exposed BMCs disclose IPMI authentication hashes before login, enabling offline password cracking",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach",
     "link": "https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html",
     "published": "Tue, 28 Jul 2026 19:03:47 +0530",
@@ -146,44 +182,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Dysphoria IoT Botnet Adds Blockchain C2 and Victim Relays After JackSkid Disruption",
-    "link": "https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html",
-    "published": "Mon, 27 Jul 2026 22:46:28 +0530",
-    "summary": "Dysphoria, an Internet of Things (IoT) botnet line tracked by CNCERT and XLab, has adopted blockchain-based name services and infected-device relays after a March law-enforcement operation against JackSkid infrastructure. The researchers say the design makes the botnet harder to disrupt.\n\nCNCERT, China's national computer emergency response team, and XLab, the threat-intelligence lab of Chinese",
-    "analysis": {
-      "issue": "Dysphoria adds blockchain C2 and victim relays after the JackSkid disruption, keeping controllers one step removed from addresses exposed to bots",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw",
-    "link": "https://thehackernews.com/2026/07/public-exploit-released-for-patched.html",
-    "published": "Mon, 27 Jul 2026 20:10:00 +0530",
-    "summary": "Public exploit details released on July 27 show how an unauthenticated request can reach PHP's eval() function inside vBulletin and execute code on an unpatched forum server. The attack requires no account, administrative access, or interaction from another user.\n\nSSD Secure Disclosure lists vBulletin 6.2.1 and earlier, and 6.1.6 and earlier, as affected, but does not give a lower version",
-    "analysis": {
-      "issue": "Public exploit details show how CVE-2026-61511 reaches PHP eval() in unpatched vBulletin forums through a visitor-controlled template value",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-61511"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -400,137 +398,49 @@
     "title": "Microsoft Patches a Record 570 Security Flaws",
     "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
     "published": "Tue, 14 Jul 2026 19:22:42 +0000",
-    "summary": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning patch counts to vulnerability discoveries aided by artificial intelligence.",
-    "analysis": {
-      "issue": "today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-56155",
-        "CVE-2026-48561",
-        "CVE-2026-56164",
-        "CVE-2026-50661"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
+    "summary": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning patch counts to vulnerability discoveries aided by artificial intelligence."
   },
   {
     "source": "Krebs On Security",
     "title": "Lessons Learned from CISA’s Recent GitHub Leak",
     "link": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
     "published": "Mon, 13 Jul 2026 15:03:28 +0000",
-    "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response provide important lessons that all security teams should absorb.",
-    "analysis": {
-      "issue": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a recent data leak in which a contractor published dozens of internal CISA credentials — including AWS Govcloud keys — in a public GitHub repository for almost six",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability"
-      ]
-    }
+    "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response provide important lessons that all security teams should absorb."
   },
   {
     "source": "Krebs On Security",
     "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
     "link": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
     "published": "Wed, 08 Jul 2026 12:31:39 +0000",
-    "summary": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures included fake intelligence companies and a now-defunct AI-based lobbying platform they operated under assumed names.",
-    "analysis": {
-      "issue": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures included fake intelligence compan",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
+    "summary": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures included fake intelligence companies and a now-defunct AI-based lobbying platform they operated under assumed names."
   },
   {
     "source": "Krebs On Security",
     "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
     "link": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
     "published": "Thu, 02 Jul 2026 19:27:33 +0000",
-    "summary": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASDAQ: ALAR]. The action comes roughly two weeks after KrebsOnSecurity published findings from multiple security firms connecting NetNut to the Popa botnet, a collection of at least two million devices that have been compromised by malicious software with little or no consent from victims.",
-    "analysis": {
-      "issue": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASD",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Supply Chain"
-      ]
-    }
+    "summary": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASDAQ: ALAR]. The action comes roughly two weeks after KrebsOnSecurity published findings from multiple security firms connecting NetNut to the Popa botnet, a collection of at least two million devices that have been compromised by malicious software with little or no consent from victims."
   },
   {
     "source": "Krebs On Security",
     "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
     "link": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
     "published": "Tue, 23 Jun 2026 16:12:49 +0000",
-    "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as Scattered Spider, and their guilty pleas came on the first day of what was expected to be a six-week trial.",
-    "analysis": {
-      "issue": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Phishing"
-      ]
-    }
+    "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as Scattered Spider, and their guilty pleas came on the first day of what was expected to be a six-week trial."
   },
   {
     "source": "Krebs On Security",
     "title": "‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm",
     "link": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
     "published": "Thu, 18 Jun 2026 17:37:58 +0000",
-    "summary": "For the past four years, a sprawling Android-based botnet called Popa has forced millions of consumer TV boxes to relay Internet traffic linked to advertising fraud, account takeovers, and mass data-scraping efforts. This week, researchers from multiple security firms concluded that the Popa botnet is linked to NetNut, a \"residential proxy\" provider operated by the publicly-traded Israeli firm Alarum Technologies Ltd [NASDAQ: ALAR].",
-    "analysis": {
-      "issue": "For the past four years, a sprawling Android-based botnet called Popa has forced millions of consumer TV boxes to relay Internet traffic linked to advertising fraud, account takeovers, and mass data-scraping efforts",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
+    "summary": "For the past four years, a sprawling Android-based botnet called Popa has forced millions of consumer TV boxes to relay Internet traffic linked to advertising fraud, account takeovers, and mass data-scraping efforts. This week, researchers from multiple security firms concluded that the Popa botnet is linked to NetNut, a \"residential proxy\" provider operated by the publicly-traded Israeli firm Alarum Technologies Ltd [NASDAQ: ALAR]."
   },
   {
     "source": "Krebs On Security",
     "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
     "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
     "published": "Wed, 10 Jun 2026 14:03:44 +0000",
-    "summary": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ransom paid by victims. This post examines clues pointing to a real life identity for the administrator of The Gentlemen ransomware group.",
-    "analysis": {
-      "issue": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ranso",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Malware"
-      ]
-    }
+    "summary": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ransom paid by victims. This post examines clues pointing to a real life identity for the administrator of The Gentlemen ransomware group."
   },
   {
     "source": "Krebs On Security",
@@ -560,16 +470,23 @@
     "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
     "link": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
     "published": "Mon, 01 Jun 2026 17:32:50 +0000",
-    "summary": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U.S. Space Force were briefly defaced with pro-Iranian images and messages over the weekend, after instructions began circulating on Telegram showing how to trick Meta's \"AI support assistant\" bot into resetting account passwords.",
+    "summary": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U.S. Space Force were briefly defaced with pro-Iranian images and messages over the weekend, after instructions began circulating on Telegram showing how to trick Meta's \"AI support assistant\" bot into resetting account passwords."
+  },
+  {
+    "source": "Security Week",
+    "title": "Cyera Acquiring Oasis Security in $1 Billion Deal",
+    "link": "https://www.securityweek.com/cyera-acquiring-oasis-security-in-1-billion-deal/",
+    "published": "Tue, 28 Jul 2026 14:55:30 +0000",
+    "summary": "<p>Oasis Security recently raised $120 million in Series B funding for its agentic access management platform.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyera-acquiring-oasis-security-in-1-billion-deal/\">Cyera Acquiring Oasis Security in $1 Billion Deal</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
-      "issue": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U",
+      "issue": "Oasis Security recently raised $120 million in Series B funding for its agentic access management platform",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "High",
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "General Security"
       ]
     }
   },
@@ -737,34 +654,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2023-27997",
-        "CVE-2024-21762",
-        "CVE-2026-16812",
         "CVE-2022-42475",
-        "CVE-2025-68686"
+        "CVE-2024-21762",
+        "CVE-2023-27997",
+        "CVE-2025-68686",
+        "CVE-2026-16812"
       ],
       "threat_categories": [
         "Ransomware",
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Origin Energy Data Breach Affects 900,000 Australians",
-    "link": "https://www.securityweek.com/origin-energy-data-breach-affects-900000-australians/",
-    "published": "Tue, 28 Jul 2026 05:01:05 +0000",
-    "summary": "<p>The hacker claimed to have stolen the information of 2 million Origin Energy customers after breaching its systems.</p>\n<p>The post <a href=\"https://www.securityweek.com/origin-energy-data-breach-affects-900000-australians/\">Origin Energy Data Breach Affects 900,000 Australians</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The hacker claimed to have stolen the information of 2 million Origin Energy customers after breaching its systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach"
       ]
     }
   },
@@ -912,34 +810,34 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-55127",
-        "CVE-2026-58644",
-        "CVE-2026-55140",
-        "CVE-2026-55132",
-        "CVE-2026-55043",
         "CVE-2026-50655",
-        "CVE-2026-50518",
         "CVE-2026-55120",
-        "CVE-2026-55022",
-        "CVE-2026-50522",
-        "CVE-2026-50370",
-        "CVE-2026-55123",
-        "CVE-2026-55049",
-        "CVE-2026-50467",
-        "CVE-2026-55056",
         "CVE-2026-55033",
-        "CVE-2026-56188",
-        "CVE-2026-56164",
-        "CVE-2026-55129",
-        "CVE-2026-54128",
+        "CVE-2026-55056",
+        "CVE-2026-55127",
         "CVE-2026-56155",
+        "CVE-2026-58644",
+        "CVE-2026-56164",
+        "CVE-2026-55043",
+        "CVE-2026-50522",
+        "CVE-2026-55129",
         "CVE-2026-55944",
         "CVE-2026-55018",
-        "CVE-2026-50327",
         "CVE-2026-55010",
-        "CVE-2026-50314",
+        "CVE-2026-55045",
+        "CVE-2026-55049",
+        "CVE-2026-55123",
+        "CVE-2026-55022",
+        "CVE-2026-50370",
         "CVE-2026-54992",
-        "CVE-2026-55045"
+        "CVE-2026-56188",
+        "CVE-2026-55140",
+        "CVE-2026-55132",
+        "CVE-2026-50314",
+        "CVE-2026-50327",
+        "CVE-2026-50467",
+        "CVE-2026-50518",
+        "CVE-2026-54128"
       ],
       "threat_categories": [
         "Vulnerability"
