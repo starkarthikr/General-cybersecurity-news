@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework",
+    "link": "https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html",
+    "published": "Mon, 27 Jul 2026 23:40:05 +0530",
+    "summary": "NVIDIA and 36 other organizations have formed the Open Secure AI Alliance to develop and share open technologies, techniques, and tools for securing software and artificial intelligence (AI) agents.\n\nThe 37-member group spans cloud, security, enterprise software, and AI companies, including Microsoft, Cisco, Cloudflare, CrowdStrike, Hugging Face, IBM, Palo Alto Networks, Red Hat, and the Linux",
+    "analysis": {
+      "issue": "NVIDIA and 36 partners form the Open Secure AI Alliance and release NOOA, while governance and joint deliverables remain undisclosed",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Dysphoria IoT Botnet Adds Blockchain C2 and Victim Relays After JackSkid Disruption",
     "link": "https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html",
     "published": "Mon, 27 Jul 2026 22:46:28 +0530",
@@ -166,19 +184,78 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
-    "link": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
-    "published": "Sat, 25 Jul 2026 18:22:43 +0530",
-    "summary": "Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boot applications, a malicious JSON request can execute code without authentication, with the privileges of the Java process.\n\nTracked as CVE-2026-16723, the vulnerability carries an Alibaba-assigned CVSS score of 9.0. The confirmed chain requires",
+    "source": "Bleeping Computer",
+    "title": "Hackers target US firms in FastJson RCE zero-day attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/",
+    "published": "Mon, 27 Jul 2026 19:49:44 -0400",
+    "summary": "Hackers are actively exploiting a vulnerability in the FastJson open-source Java library, allowing remote code execution without user interaction or elevated privileges. [...]",
     "analysis": {
-      "issue": "x flaw CVE-2026-16723 can trigger unauthenticated RCE in Spring Boot fat-JAR apps, with attacks reported and no patched 1",
+      "issue": "Hackers are actively exploiting a vulnerability in the FastJson open-source Java library, allowing remote code execution without user interaction or elevated privileges",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [
         "CVE-2026-16723"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Arista patches VeloCloud Orchestrator zero-day exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/",
+    "published": "Mon, 27 Jul 2026 18:49:44 -0400",
+    "summary": "Arista has patched a maximum-severity command injection vulnerability in on-premises VeloCloud Orchestrator deployments that is being actively exploited in attacks. [...]",
+    "analysis": {
+      "issue": "Arista has patched a maximum-severity command injection vulnerability in on-premises VeloCloud Orchestrator deployments that is being actively exploited in attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-16812"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "New Dysphoria DDoS botnet spreads to 200k devices worldwide",
+    "link": "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/",
+    "published": "Mon, 27 Jul 2026 17:08:15 -0400",
+    "summary": "A botnet called Dysphoria has compromised around 200,000 devices across the world and is using them for distributed denial of service (DDoS) attacks and traffic relay operations. [...]",
+    "analysis": {
+      "issue": "A botnet called Dysphoria has compromised around 200,000 devices across the world and is using them for distributed denial of service (DDoS) attacks and traffic relay operations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "New Certighost PoC exploit lets attackers hijack Windows domains",
+    "link": "https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/",
+    "published": "Mon, 27 Jul 2026 17:00:25 -0400",
+    "summary": "A proof-of-concept exploit for \"Certighost,\" a Windows Active Directory Certificate Services vulnerability, has been released that can allow authenticated attackers to potentially compromise a Windows domain. [...]",
+    "analysis": {
+      "issue": "A proof-of-concept exploit for “Certighost,” a Windows Active Directory Certificate Services vulnerability, has been released that can allow authenticated attackers to potentially compromise a Windows domain",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-54121"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -295,81 +372,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Malicious sites use JavaScript to build malware in browser memory",
-    "link": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
-    "published": "Sat, 25 Jul 2026 11:21:09 -0400",
-    "summary": "A massive malvertising campaign is using fake Solana, Luno, and TradingView webpages with malicious JavaScript that instructs browsers to assemble malware directly in memory. [...]",
-    "analysis": {
-      "issue": "A massive malvertising campaign is using fake Solana, Luno, and TradingView webpages with malicious JavaScript that instructs browsers to assemble malware directly in memory",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam",
-    "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
-    "published": "Sat, 25 Jul 2026 10:16:26 -0400",
-    "summary": "Threat actors are using email addresses exposed in data breaches leaked by the ShinyHunters extortion group to send sextortion emails demanding $2,000 in Bitcoin. [...]",
-    "analysis": {
-      "issue": "Threat actors are using email addresses exposed in data breaches leaked by the ShinyHunters extortion group to send sextortion emails demanding $2,000 in Bitcoin",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "OpenAI confirms ChatGPT is down worldwide",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/",
-    "published": "Sat, 25 Jul 2026 05:31:09 -0400",
-    "summary": "ChatGPT, the famous artificial intelligence chatbot that allows users to converse with various personalities and topics, has connectivity issues worldwide. [...]",
-    "analysis": {
-      "issue": "ChatGPT is experiencing a major outage, and users are unable to load chats, including previous conversations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "OnTrac notifies customers of data breach after network hack",
-    "link": "https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/",
-    "published": "Fri, 24 Jul 2026 15:55:01 -0400",
-    "summary": "OnTrac parcel delivery company is informing that hackers breached its corporate network and may have accessed personal details belonging to its customers. [...]",
-    "analysis": {
-      "issue": "OnTrac parcel delivery company is informing that hackers breached its corporate network and may have accessed personal details belonging to its customers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "LG to Ban Residential Proxies from Smart TV Apps",
     "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
@@ -400,10 +402,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-48561",
+        "CVE-2026-50661",
         "CVE-2026-56164",
         "CVE-2026-56155",
-        "CVE-2026-50661"
+        "CVE-2026-48561"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -538,8 +540,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-45586",
-        "CVE-2026-49160",
-        "CVE-2026-50507"
+        "CVE-2026-50507",
+        "CVE-2026-49160"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -562,6 +564,24 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "For Some, So-Called ‘Skynet Day’ Came too Close to Sci-Fi After a Rogue Agent Hacked Into a Startup",
+    "link": "https://www.securityweek.com/for-some-so-called-skynet-day-came-too-close-to-sci-fi-after-a-rogue-agent-hacked-into-a-startup/",
+    "published": "Tue, 28 Jul 2026 02:28:03 +0000",
+    "summary": "<p>Decades after it appeared in “The Terminator,” Skynet looks more like a forecast of the cyber incident in which a rogue AI system hacked into another AI company on its own.</p>\n<p>The post <a href=\"https://www.securityweek.com/for-some-so-called-skynet-day-came-too-close-to-sci-fi-after-a-rogue-agent-hacked-into-a-startup/\">For Some, So-Called ‘Skynet Day’ Came too Close to Sci-Fi After a Rogue Agent Hacked Into a Startup</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Decades after it appeared in “The Terminator,” Skynet looks more like a forecast of the cyber incident in which a rogue AI system hacked into another AI company on its own",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "APT"
       ]
     }
   },
@@ -741,24 +761,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "DentaQuest Data Breach Potentially Impacts Over 23 Million People",
-    "link": "https://www.securityweek.com/dentaquest-data-breach-potentially-impacts-over-23-million-people/",
-    "published": "Mon, 27 Jul 2026 09:34:12 +0000",
-    "summary": "<p>In May 2026, hackers stole personal and dental health information from DentaQuest’s computer network.</p>\n<p>The post <a href=\"https://www.securityweek.com/dentaquest-data-breach-potentially-impacts-over-23-million-people/\">DentaQuest Data Breach Potentially Impacts Over 23 Million People</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "In May 2026, hackers stole personal and dental health information from DentaQuest’s computer network",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Don’t swing at everything",
     "link": "https://blog.talosintelligence.com/dont-swing-at-everything/",
@@ -881,34 +883,34 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56164",
-        "CVE-2026-50467",
-        "CVE-2026-56155",
-        "CVE-2026-50655",
-        "CVE-2026-55132",
-        "CVE-2026-55033",
-        "CVE-2026-50314",
-        "CVE-2026-55127",
-        "CVE-2026-55049",
-        "CVE-2026-55120",
-        "CVE-2026-55022",
-        "CVE-2026-55043",
-        "CVE-2026-55045",
-        "CVE-2026-55010",
-        "CVE-2026-55140",
-        "CVE-2026-55018",
-        "CVE-2026-54992",
-        "CVE-2026-50522",
-        "CVE-2026-55129",
-        "CVE-2026-50370",
-        "CVE-2026-55944",
-        "CVE-2026-56188",
-        "CVE-2026-50327",
-        "CVE-2026-58644",
-        "CVE-2026-54128",
-        "CVE-2026-50518",
         "CVE-2026-55056",
-        "CVE-2026-55123"
+        "CVE-2026-55022",
+        "CVE-2026-55045",
+        "CVE-2026-55140",
+        "CVE-2026-55127",
+        "CVE-2026-56155",
+        "CVE-2026-50370",
+        "CVE-2026-50655",
+        "CVE-2026-50522",
+        "CVE-2026-55018",
+        "CVE-2026-55043",
+        "CVE-2026-54992",
+        "CVE-2026-55010",
+        "CVE-2026-58644",
+        "CVE-2026-55120",
+        "CVE-2026-55944",
+        "CVE-2026-55129",
+        "CVE-2026-50327",
+        "CVE-2026-55049",
+        "CVE-2026-50518",
+        "CVE-2026-55123",
+        "CVE-2026-56164",
+        "CVE-2026-50314",
+        "CVE-2026-54128",
+        "CVE-2026-56188",
+        "CVE-2026-50467",
+        "CVE-2026-55132",
+        "CVE-2026-55033"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1324,8 +1326,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1350,6 +1352,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Aftercall ads are driving Android users crazy",
+    "link": "https://www.malwarebytes.com/blog/news/2026/07/aftercall-ads-are-driving-android-users-crazy",
+    "published": "Mon, 27 Jul 2026 19:00:05 GMT",
+    "summary": "A newly uncovered ad fraud campaign is spreading Android apps that display full-screen ads every time you end a phone call.",
+    "analysis": {
+      "issue": "Aftercall is a wave of deceptive Android apps on Google Play that pose as everyday tools while bombarding users with pop-up ads after every phone call",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1521,23 +1541,20 @@
     }
   },
   {
-    "source": "Malwarebytes",
-    "title": "WhatsApp Web chats exposed by Adobe&#8217;s Acrobat extension flaw",
-    "link": "https://www.malwarebytes.com/blog/bugs/2026/07/whatsapp-web-chats-exposed-by-adobes-acrobat-extension-flaw",
-    "published": "Thu, 23 Jul 2026 11:24:04 GMT",
-    "summary": "HermeticReader is a now-patched vulnerability in Adobe's popular Acrobat Chrome extension that could have been used to spy on WhatsApp Web users.",
+    "source": "Crowdstrike Blog",
+    "title": "5 High-Impact Use Cases for Falcon Onum",
+    "link": "https://www.crowdstrike.com/en-us/blog/five-high-impact-use-cases-for-falcon-onum/",
+    "published": "Jul 27, 2026 00:00:00-0500",
+    "summary": "",
     "analysis": {
-      "issue": "HermeticReader is the name given to a recently disclosed vulnerability in the Adobe Acrobat PDF extension for Chrome, tracked as CVE-2026-48294",
+      "issue": "Falcon Onum gives organizations real-time control of security telemetry for the agentic SOC",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2026-48294"
-      ],
+      "severity": "Low",
+      "cves": [],
       "threat_categories": [
-        "Vulnerability",
-        "Malware"
+        "General Security"
       ]
     }
   },
@@ -1562,7 +1579,7 @@
   {
     "source": "Crowdstrike Blog",
     "title": "CrowdStrike Falcon Platform Helps Meet U.S. Government Mandates for CISA BOD-26-04",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-helps-meet-us-goverment-mandates-cisa-bod-26-04/",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-helps-meet-us-government-mandates-cisa-bod-26-04/",
     "published": "Jul 22, 2026 00:00:00-0500",
     "summary": "",
     "analysis": {
@@ -1693,24 +1710,6 @@
     "summary": "",
     "analysis": {
       "issue": "CrowdStrike expands its prompt injection taxonomy to 200+ techniques, revealing new AI attack methods to help security teams defend AI agents and LLMs",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "How AI-leading Security Teams Are Building the Agentic SOC",
-    "link": "https://www.crowdstrike.com/en-us/blog/how-ai-leading-security-teams-are-building-the-agentic-soc/",
-    "published": "Jul 06, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "Learn how Charlotte AI AgentWorks empowers any team to encode their agentic SOC with custom, secure-by-design agents",
       "solution": null,
       "cause": null,
       "timeline": null,

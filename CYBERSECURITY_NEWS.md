@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-27 18:05:18 UTC
+**Last Updated:** 2026-07-28 02:55:18 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Dysphoria IoT Botnet Adds Blockchain C2 and Victim Relays After JackSkid Disruption](https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html)
+### 1. [NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework](https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 27 Jul 2026 23:40:05 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Dysphoria IoT Botnet Adds Blockchain C2 and Victim Relays After JackSkid Disruption](https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 27 Jul 2026 22:46:28 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw](https://thehackernews.com/2026/07/public-exploit-released-for-patched.html)
+### 3. [Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw](https://thehackernews.com/2026/07/public-exploit-released-for-patched.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 27 Jul 2026 20:10:00 +0530  
@@ -23,7 +32,7 @@
 
 ---
 
-### 3. [⚡ Weekly Recap: Rogue AI Agents, Check Point Exploit, Slopsquatting, ClickFix Lures and More](https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html)
+### 4. [⚡ Weekly Recap: Rogue AI Agents, Check Point Exploit, Slopsquatting, ClickFix Lures and More](https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 27 Jul 2026 19:40:54 +0530  
@@ -32,7 +41,7 @@
 
 ---
 
-### 4. [n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process](https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html)
+### 5. [n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process](https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 27 Jul 2026 18:35:15 +0530  
@@ -41,7 +50,7 @@
 
 ---
 
-### 5. [Operation BlueDash Deploys Level RMM and ScreenConnect via Fake Teams Update](https://thehackernews.com/2026/07/operation-bluedash-deploys-level-rmm.html)
+### 6. [Operation BlueDash Deploys Level RMM and ScreenConnect via Fake Teams Update](https://thehackernews.com/2026/07/operation-bluedash-deploys-level-rmm.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 27 Jul 2026 18:07:49 +0530  
@@ -50,7 +59,7 @@
 
 ---
 
-### 6. [Cruciferra Crypter Uses BYOVD and Process Ghosting to Hide Windows Malware](https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html)
+### 7. [Cruciferra Crypter Uses BYOVD and Process Ghosting to Hide Windows Malware](https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 27 Jul 2026 16:21:45 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments](https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html)
+### 8. [TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments](https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 27 Jul 2026 14:18:47 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [GitHub Adds 3-Day Dependabot Cooldown to Limit Poisoned Package Adoption](https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html)
+### 9. [GitHub Adds 3-Day Dependabot Cooldown to Limit Poisoned Package Adoption](https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 27 Jul 2026 13:31:23 +0530  
@@ -77,7 +86,7 @@
 
 ---
 
-### 9. [Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable](https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html)
+### 10. [Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable](https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 26 Jul 2026 00:18:44 +0530  
@@ -86,17 +95,46 @@
 
 ---
 
-### 10. [Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available](https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html)
+### 11. [Hackers target US firms in FastJson RCE zero-day attacks](https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/)
 
-**Source:** The Hacker News  
-**Published:** Sat, 25 Jul 2026 18:22:43 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 27 Jul 2026 19:49:44 -0400  
 **Severity:** Low  
 **CVEs:** CVE-2026-16723  
 **Categories:** Vulnerability  
 
 ---
 
-### 11. [Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin](https://www.bleepingcomputer.com/news/apple/apple-sued-over-fake-app-store-crypto-wallet-app-stealing-18m-in-bitcoin/)
+### 12. [Arista patches VeloCloud Orchestrator zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 27 Jul 2026 18:49:44 -0400  
+**Severity:** Low  
+**CVEs:** CVE-2026-16812  
+**Categories:** Vulnerability  
+
+---
+
+### 13. [New Dysphoria DDoS botnet spreads to 200k devices worldwide](https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 27 Jul 2026 17:08:15 -0400  
+**Severity:** Low  
+**Categories:** Malware, DDoS  
+
+---
+
+### 14. [New Certighost PoC exploit lets attackers hijack Windows domains](https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 27 Jul 2026 17:00:25 -0400  
+**Severity:** Low  
+**CVEs:** CVE-2026-54121  
+**Categories:** Vulnerability  
+
+---
+
+### 15. [Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin](https://www.bleepingcomputer.com/news/apple/apple-sued-over-fake-app-store-crypto-wallet-app-stealing-18m-in-bitcoin/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 27 Jul 2026 13:29:07 -0400  
@@ -105,7 +143,7 @@
 
 ---
 
-### 12. [Coca-Cola confirms data theft in Fairlife ransomware attack](https://www.bleepingcomputer.com/news/security/coca-cola-confirms-data-theft-in-fairlife-ransomware-attack/)
+### 16. [Coca-Cola confirms data theft in Fairlife ransomware attack](https://www.bleepingcomputer.com/news/security/coca-cola-confirms-data-theft-in-fairlife-ransomware-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 27 Jul 2026 11:39:51 -0400  
@@ -114,7 +152,7 @@
 
 ---
 
-### 13. [Ernst & Young data breach claimed by ShinyHunters extortion gang](https://www.bleepingcomputer.com/news/security/ernst-and-young-data-breach-claimed-by-shinyhunters-extortion-gang/)
+### 17. [Ernst & Young data breach claimed by ShinyHunters extortion gang](https://www.bleepingcomputer.com/news/security/ernst-and-young-data-breach-claimed-by-shinyhunters-extortion-gang/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 27 Jul 2026 11:12:27 -0400  
@@ -123,7 +161,7 @@
 
 ---
 
-### 14. [Shadow AI agents are multiplying. Here's how to find and secure them.](https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/)
+### 18. [Shadow AI agents are multiplying. Here's how to find and secure them.](https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 27 Jul 2026 10:01:11 -0400  
@@ -132,7 +170,7 @@
 
 ---
 
-### 15. [GitHub, PyPI add time-based defenses against supply chain attacks](https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/)
+### 19. [GitHub, PyPI add time-based defenses against supply chain attacks](https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 26 Jul 2026 10:13:39 -0400  
@@ -141,48 +179,12 @@
 
 ---
 
-### 16. [Steam forum ClickFix attacks infect gamers with XMRig cryptominers](https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/)
+### 20. [Steam forum ClickFix attacks infect gamers with XMRig cryptominers](https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 25 Jul 2026 18:37:47 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 17. [Malicious sites use JavaScript to build malware in browser memory](https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 25 Jul 2026 11:21:09 -0400  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 18. [ShinyHunters data leaks fuel $2,000 sextortion email scam](https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 25 Jul 2026 10:16:26 -0400  
-**Severity:** Low  
-**Categories:** Data Breach, Malware  
-
----
-
-### 19. [OpenAI confirms ChatGPT is down worldwide](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 25 Jul 2026 05:31:09 -0400  
-**Severity:** High  
-**Categories:** General Security  
-
----
-
-### 20. [OnTrac notifies customers of data breach after network hack](https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 24 Jul 2026 15:55:01 -0400  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach, Supply Chain  
 
 ---
 
@@ -200,7 +202,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48561, CVE-2026-56164, CVE-2026-56155, CVE-2026-50661  
+**CVEs:** CVE-2026-50661, CVE-2026-56164, CVE-2026-56155, CVE-2026-48561  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -264,7 +266,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-45586, CVE-2026-49160, CVE-2026-50507  
+**CVEs:** CVE-2026-45586, CVE-2026-50507, CVE-2026-49160  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -278,7 +280,16 @@
 
 ---
 
-### 31. [New GitHub, PyPI Policies Boost Supply Chain Security](https://www.securityweek.com/new-github-pypi-policies-boost-supply-chain-security/)
+### 31. [For Some, So-Called ‘Skynet Day’ Came too Close to Sci-Fi After a Rogue Agent Hacked Into a Startup](https://www.securityweek.com/for-some-so-called-skynet-day-came-too-close-to-sci-fi-after-a-rogue-agent-hacked-into-a-startup/)
+
+**Source:** Security Week  
+**Published:** Tue, 28 Jul 2026 02:28:03 +0000  
+**Severity:** High  
+**Categories:** APT  
+
+---
+
+### 32. [New GitHub, PyPI Policies Boost Supply Chain Security](https://www.securityweek.com/new-github-pypi-policies-boost-supply-chain-security/)
 
 **Source:** Security Week  
 **Published:** Mon, 27 Jul 2026 14:26:00 +0000  
@@ -287,7 +298,7 @@
 
 ---
 
-### 32. [PTC Windchill Vulnerability Exploited in Ransomware Campaign](https://www.securityweek.com/ptc-windchill-vulnerability-exploited-in-ransomware-campaign/)
+### 33. [PTC Windchill Vulnerability Exploited in Ransomware Campaign](https://www.securityweek.com/ptc-windchill-vulnerability-exploited-in-ransomware-campaign/)
 
 **Source:** Security Week  
 **Published:** Mon, 27 Jul 2026 13:19:30 +0000  
@@ -297,7 +308,7 @@
 
 ---
 
-### 33. [MedusaHVNC Malware Uses Hidden Windows Desktops to Evade Detection](https://www.securityweek.com/medusahvnc-malware-uses-hidden-windows-desktops-to-evade-detection/)
+### 34. [MedusaHVNC Malware Uses Hidden Windows Desktops to Evade Detection](https://www.securityweek.com/medusahvnc-malware-uses-hidden-windows-desktops-to-evade-detection/)
 
 **Source:** Security Week  
 **Published:** Mon, 27 Jul 2026 13:00:00 +0000  
@@ -306,7 +317,7 @@
 
 ---
 
-### 34. [Nvidia and Tech Giants Launch AI Security Alliance](https://www.securityweek.com/nvidia-and-tech-giants-launch-ai-security-alliance/)
+### 35. [Nvidia and Tech Giants Launch AI Security Alliance](https://www.securityweek.com/nvidia-and-tech-giants-launch-ai-security-alliance/)
 
 **Source:** Security Week  
 **Published:** Mon, 27 Jul 2026 12:25:43 +0000  
@@ -315,7 +326,7 @@
 
 ---
 
-### 35. [Coca-Cola Confirms Data Breach After Fairlife Ransomware Attack](https://www.securityweek.com/coca-cola-confirms-data-breach-after-fairlife-ransomware-attack/)
+### 36. [Coca-Cola Confirms Data Breach After Fairlife Ransomware Attack](https://www.securityweek.com/coca-cola-confirms-data-breach-after-fairlife-ransomware-attack/)
 
 **Source:** Security Week  
 **Published:** Mon, 27 Jul 2026 11:29:03 +0000  
@@ -324,7 +335,7 @@
 
 ---
 
-### 36. [Beelzebub Raises $3.4 Million for Hacker-Trapping Platform](https://www.securityweek.com/beelzebub-raises-3-4-million-for-hacker-trapping-platform/)
+### 37. [Beelzebub Raises $3.4 Million for Hacker-Trapping Platform](https://www.securityweek.com/beelzebub-raises-3-4-million-for-hacker-trapping-platform/)
 
 **Source:** Security Week  
 **Published:** Mon, 27 Jul 2026 11:06:24 +0000  
@@ -333,7 +344,7 @@
 
 ---
 
-### 37. [What’s Hiding in Your Mobile Apps? Lookout MSEC Aims to Find Out](https://www.securityweek.com/whats-hiding-in-your-mobile-apps-lookout-msec-aims-to-find-out/)
+### 38. [What’s Hiding in Your Mobile Apps? Lookout MSEC Aims to Find Out](https://www.securityweek.com/whats-hiding-in-your-mobile-apps-lookout-msec-aims-to-find-out/)
 
 **Source:** Security Week  
 **Published:** Mon, 27 Jul 2026 11:00:00 +0000  
@@ -342,7 +353,7 @@
 
 ---
 
-### 38. [Hacked Public Wi-Fi Gateways Used to Harvest Corporate Credentials](https://www.securityweek.com/hacked-public-wi-fi-gateways-used-to-harvest-corporate-credentials/)
+### 39. [Hacked Public Wi-Fi Gateways Used to Harvest Corporate Credentials](https://www.securityweek.com/hacked-public-wi-fi-gateways-used-to-harvest-corporate-credentials/)
 
 **Source:** Security Week  
 **Published:** Mon, 27 Jul 2026 10:50:19 +0000  
@@ -351,21 +362,12 @@
 
 ---
 
-### 39. [Anthropic’s Opus 5 Nears Mythos 5 on Finding Bugs, but Falls Short on Exploits](https://www.securityweek.com/anthropics-opus-5-nears-mythos-5-on-finding-bugs-but-falls-short-on-exploits/)
+### 40. [Anthropic’s Opus 5 Nears Mythos 5 on Finding Bugs, but Falls Short on Exploits](https://www.securityweek.com/anthropics-opus-5-nears-mythos-5-on-finding-bugs-but-falls-short-on-exploits/)
 
 **Source:** Security Week  
 **Published:** Mon, 27 Jul 2026 10:02:41 +0000  
 **Severity:** Low  
 **Categories:** Vulnerability, Malware  
-
----
-
-### 40. [DentaQuest Data Breach Potentially Impacts Over 23 Million People](https://www.securityweek.com/dentaquest-data-breach-potentially-impacts-over-23-million-people/)
-
-**Source:** Security Week  
-**Published:** Mon, 27 Jul 2026 09:34:12 +0000  
-**Severity:** Low  
-**Categories:** Data Breach  
 
 ---
 
@@ -428,7 +430,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Jul 2026 20:27:33 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56164, CVE-2026-50467, CVE-2026-56155, CVE-2026-50655, CVE-2026-55132, CVE-2026-55033, CVE-2026-50314, CVE-2026-55127, CVE-2026-55049, CVE-2026-55120, CVE-2026-55022, CVE-2026-55043, CVE-2026-55045, CVE-2026-55010, CVE-2026-55140, CVE-2026-55018, CVE-2026-54992, CVE-2026-50522, CVE-2026-55129, CVE-2026-50370, CVE-2026-55944, CVE-2026-56188, CVE-2026-50327, CVE-2026-58644, CVE-2026-54128, CVE-2026-50518, CVE-2026-55056, CVE-2026-55123  
+**CVEs:** CVE-2026-55056, CVE-2026-55022, CVE-2026-55045, CVE-2026-55140, CVE-2026-55127, CVE-2026-56155, CVE-2026-50370, CVE-2026-50655, CVE-2026-50522, CVE-2026-55018, CVE-2026-55043, CVE-2026-54992, CVE-2026-55010, CVE-2026-58644, CVE-2026-55120, CVE-2026-55944, CVE-2026-55129, CVE-2026-50327, CVE-2026-55049, CVE-2026-50518, CVE-2026-55123, CVE-2026-56164, CVE-2026-50314, CVE-2026-54128, CVE-2026-56188, CVE-2026-50467, CVE-2026-55132, CVE-2026-55033  
 **Categories:** Vulnerability  
 
 ---
@@ -631,7 +633,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -646,7 +648,16 @@
 
 ---
 
-### 71. [Sextortion scammers are exploiting ShinyHunters data leaks](https://www.malwarebytes.com/blog/scams/2026/07/sextortion-scammers-are-exploiting-shinyhunters-data-leaks)
+### 71. [Aftercall ads are driving Android users crazy](https://www.malwarebytes.com/blog/news/2026/07/aftercall-ads-are-driving-android-users-crazy)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 27 Jul 2026 19:00:05 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 72. [Sextortion scammers are exploiting ShinyHunters data leaks](https://www.malwarebytes.com/blog/scams/2026/07/sextortion-scammers-are-exploiting-shinyhunters-data-leaks)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 27 Jul 2026 15:00:23 GMT  
@@ -655,7 +666,7 @@
 
 ---
 
-### 72. [What&#8217;s your data worth on the dark web? (Lock and Code S07E15)](https://www.malwarebytes.com/blog/podcast/2026/07/whats-your-data-worth-on-the-dark-web-lock-and-code-s07e15)
+### 73. [What&#8217;s your data worth on the dark web? (Lock and Code S07E15)](https://www.malwarebytes.com/blog/podcast/2026/07/whats-your-data-worth-on-the-dark-web-lock-and-code-s07e15)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 27 Jul 2026 14:35:34 GMT  
@@ -664,7 +675,7 @@
 
 ---
 
-### 73. [A week in security (July 20 &#8211; July 26)](https://www.malwarebytes.com/blog/news/2026/07/a-week-in-security-july-20-july-26)
+### 74. [A week in security (July 20 &#8211; July 26)](https://www.malwarebytes.com/blog/news/2026/07/a-week-in-security-july-20-july-26)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 27 Jul 2026 07:01:00 GMT  
@@ -673,7 +684,7 @@
 
 ---
 
-### 74. [Don&#8217;t get fooled by TikTok resin art scams](https://www.malwarebytes.com/blog/scams/2026/07/dont-get-fooled-by-tiktok-resin-art-scams)
+### 75. [Don&#8217;t get fooled by TikTok resin art scams](https://www.malwarebytes.com/blog/scams/2026/07/dont-get-fooled-by-tiktok-resin-art-scams)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 24 Jul 2026 14:56:34 GMT  
@@ -682,7 +693,7 @@
 
 ---
 
-### 75. [Call of Duty Mobile scam uses fake free points to steal player accounts](https://www.malwarebytes.com/blog/threat-intel/2026/07/call-of-duty-mobile-scam-uses-fake-free-points-to-steal-player-accounts)
+### 76. [Call of Duty Mobile scam uses fake free points to steal player accounts](https://www.malwarebytes.com/blog/threat-intel/2026/07/call-of-duty-mobile-scam-uses-fake-free-points-to-steal-player-accounts)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 24 Jul 2026 14:54:23 GMT  
@@ -691,7 +702,7 @@
 
 ---
 
-### 76. [OpenAI&#8217;s agent escaped its sandbox during a security test](https://www.malwarebytes.com/blog/news/2026/07/openais-agent-escaped-its-sandbox-during-a-security-test)
+### 77. [OpenAI&#8217;s agent escaped its sandbox during a security test](https://www.malwarebytes.com/blog/news/2026/07/openais-agent-escaped-its-sandbox-during-a-security-test)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 24 Jul 2026 14:51:45 GMT  
@@ -700,7 +711,7 @@
 
 ---
 
-### 77. [Google wants to store a selfie video of your face](https://www.malwarebytes.com/blog/privacy/2026/07/google-wants-to-store-a-selfie-video-of-your-face)
+### 78. [Google wants to store a selfie video of your face](https://www.malwarebytes.com/blog/privacy/2026/07/google-wants-to-store-a-selfie-video-of-your-face)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 24 Jul 2026 13:41:45 GMT  
@@ -709,7 +720,7 @@
 
 ---
 
-### 78. [Beyond the Play Store: How Android threats really spread](https://www.malwarebytes.com/blog/inside-malwarebytes/2026/07/beyond-the-play-store-how-android-threats-really-spread)
+### 79. [Beyond the Play Store: How Android threats really spread](https://www.malwarebytes.com/blog/inside-malwarebytes/2026/07/beyond-the-play-store-how-android-threats-really-spread)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 24 Jul 2026 12:00:00 GMT  
@@ -718,7 +729,7 @@
 
 ---
 
-### 79. [Millions of cars could be tracked and unlocked  by a hidden security flaw](https://www.malwarebytes.com/blog/bugs/2026/07/millions-of-cars-could-be-tracked-and-unlocked-by-a-hidden-security-flaw)
+### 80. [Millions of cars could be tracked and unlocked  by a hidden security flaw](https://www.malwarebytes.com/blog/bugs/2026/07/millions-of-cars-could-be-tracked-and-unlocked-by-a-hidden-security-flaw)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 23 Jul 2026 11:24:58 GMT  
@@ -727,17 +738,16 @@
 
 ---
 
-### 80. [WhatsApp Web chats exposed by Adobe&#8217;s Acrobat extension flaw](https://www.malwarebytes.com/blog/bugs/2026/07/whatsapp-web-chats-exposed-by-adobes-acrobat-extension-flaw)
+### 81. [5 High-Impact Use Cases for Falcon Onum](https://www.crowdstrike.com/en-us/blog/five-high-impact-use-cases-for-falcon-onum/)
 
-**Source:** Malwarebytes  
-**Published:** Thu, 23 Jul 2026 11:24:04 GMT  
-**Severity:** High  
-**CVEs:** CVE-2026-48294  
-**Categories:** Vulnerability, Malware  
+**Source:** Crowdstrike Blog  
+**Published:** Jul 27, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** General Security  
 
 ---
 
-### 81. [CrowdStrike Joins the Open Secure AI Alliance to Advance AI Safety and Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-joins-the-open-secure-ai-alliance/)
+### 82. [CrowdStrike Joins the Open Secure AI Alliance to Advance AI Safety and Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-joins-the-open-secure-ai-alliance/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 27, 2026 00:00:00-0400  
@@ -746,7 +756,7 @@
 
 ---
 
-### 82. [CrowdStrike Falcon Platform Helps Meet U.S. Government Mandates for CISA BOD-26-04](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-helps-meet-us-goverment-mandates-cisa-bod-26-04/)
+### 83. [CrowdStrike Falcon Platform Helps Meet U.S. Government Mandates for CISA BOD-26-04](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-helps-meet-us-government-mandates-cisa-bod-26-04/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 22, 2026 00:00:00-0500  
@@ -755,7 +765,7 @@
 
 ---
 
-### 83. [Denying the Worm: Detecting SANDWORM_MODE and the Emerging Class of AI Toolchain Supply Chain Attacks](https://www.crowdstrike.com/en-us/blog/denying-the-worm-sandworm-mode-and-ai-toolchain-supply-chain-attacks/)
+### 84. [Denying the Worm: Detecting SANDWORM_MODE and the Emerging Class of AI Toolchain Supply Chain Attacks](https://www.crowdstrike.com/en-us/blog/denying-the-worm-sandworm-mode-and-ai-toolchain-supply-chain-attacks/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 21, 2026 00:00:00-0500  
@@ -764,7 +774,7 @@
 
 ---
 
-### 84. [Beyond the Model: Harnessing Frontier AI for Stronger Cyber Defense](https://www.crowdstrike.com/en-us/blog/harnessing-frontier-ai-for-stronger-defense/)
+### 85. [Beyond the Model: Harnessing Frontier AI for Stronger Cyber Defense](https://www.crowdstrike.com/en-us/blog/harnessing-frontier-ai-for-stronger-defense/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 20, 2026 00:00:00-0500  
@@ -773,7 +783,7 @@
 
 ---
 
-### 85. [AIDR: How CrowdStrike Is Defining the Next Era of Cybersecurity](https://www.crowdstrike.com/en-us/blog/aidr-how-crowdstrike-is-defining-next-era-of-cybersecurity/)
+### 86. [AIDR: How CrowdStrike Is Defining the Next Era of Cybersecurity](https://www.crowdstrike.com/en-us/blog/aidr-how-crowdstrike-is-defining-next-era-of-cybersecurity/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 15, 2026 00:00:00-0500  
@@ -782,7 +792,7 @@
 
 ---
 
-### 86. [July 2026 Patch Tuesday: Microsoft Patches 622 Vulnerabilities Including Two Exploited Zero-Days](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-july-2026/)
+### 87. [July 2026 Patch Tuesday: Microsoft Patches 622 Vulnerabilities Including Two Exploited Zero-Days](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-july-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 14, 2026 00:00:00-0500  
@@ -791,7 +801,7 @@
 
 ---
 
-### 87. [Why AI Governance Without Guardrails Is Theater](https://www.crowdstrike.com/en-us/blog/why-ai-governance-without-guardrails-is-theater/)
+### 88. [Why AI Governance Without Guardrails Is Theater](https://www.crowdstrike.com/en-us/blog/why-ai-governance-without-guardrails-is-theater/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 09, 2026 00:00:00-0500  
@@ -800,7 +810,7 @@
 
 ---
 
-### 88. [Falcon Secure Access Sets the Standard for Zero Trust Browser Security](https://www.crowdstrike.com/en-us/blog/falcon-secure-access-sets-standard-for-zero-trust-security-browser/)
+### 89. [Falcon Secure Access Sets the Standard for Zero Trust Browser Security](https://www.crowdstrike.com/en-us/blog/falcon-secure-access-sets-standard-for-zero-trust-security-browser/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 08, 2026 00:00:00-0500  
@@ -809,19 +819,10 @@
 
 ---
 
-### 89. [CrowdStrike Uncovers New Prompt Injection Techniques](https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-prompt-injection-techniques/)
+### 90. [CrowdStrike Uncovers New Prompt Injection Techniques](https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-prompt-injection-techniques/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 07, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 90. [How AI-leading Security Teams Are Building the Agentic SOC](https://www.crowdstrike.com/en-us/blog/how-ai-leading-security-teams-are-building-the-agentic-soc/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Jul 06, 2026 00:00:00-0500  
 **Severity:** Low  
 **Categories:** General Security  
 
