@@ -1,6 +1,80 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
+    "link": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
+    "published": "Wed, 29 Jul 2026 21:09:30 +0530",
+    "summary": "Cybersecurity researchers have flagged a maximum-severity security flaw in Ruflo, an open-source agent meta-harness for Anthropic Claude Code and OpenAI Codex, that could result in unauthenticated remote code execution.\n\nThe vulnerability, tracked as CVE-2026-59726 (CVSS score: 10.0), impacts all versions of the project before version 3.16.3. It has been codenamed RufRoot by Noma Security's",
+    "analysis": {
+      "issue": "Ruflo CVE-2026-59726 exposes an unauthenticated MCP bridge that could enable RCE, LLM key theft, conversation access, and AI memory poisoning",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-59726"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape",
+    "link": "https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html",
+    "published": "Wed, 29 Jul 2026 21:01:15 +0530",
+    "summary": "Broadcom has released security updates to address multiple security flaws impacting VMware ESX, vCenter, Workstation, and Fusion, three of which have been designated as critical in severity.\n\nThe first of the three critical-rated flaws is CVE-2026-59309 (CVSS score: 9.8), which has been described as an authentication bypass in VMware vCenter.\n\n\"A malicious actor with network access to vCenter",
+    "analysis": {
+      "issue": "Broadcom fixes two critical VMware vCenter flaws and a VMXNET3 ESX escape, with no evidence of exploitation in the wild",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline",
+    "link": "https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html",
+    "published": "Wed, 29 Jul 2026 19:18:36 +0530",
+    "summary": "A coordinated cyberattack targeted operational technology at more than 30 Minnesota community water systems on July 26 and 27, triggering a statewide cybersecurity response.\n\nBraham, Plymouth, South St. Paul and Maple Plain have publicly described a plant outage, communications failures or affected automated controls.\n\nBraham's water plant went offline, and the city asked residents to minimize",
+    "analysis": {
+      "issue": "A coordinated cyberattack targeted more than 30 Minnesota water systems, disrupting a plant and cellular links while affecting automated controls",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments",
+    "link": "https://thehackernews.com/2026/07/nine-year-fraud-campaign.html",
+    "published": "Wed, 29 Jul 2026 19:12:57 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a large-scale fraud campaign that involves creating lookalike websites of major Russian companies with an aim to siphon funds from international firms for more than nine years.\n\nAccording to Russian cybersecurity vendor F6, the threat actors have set up clone websites of Russian companies across fertilizer manufacturers, petrochemical companies",
+    "analysis": {
+      "issue": "A fraud campaign active since 2017 uses nearly 100 clone domains to steal advance payments from international B2B buyers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Mythos Asks the Right Question. It Doesn't Answer It.",
     "link": "https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html",
     "published": "Wed, 29 Jul 2026 17:45:00 +0530",
@@ -113,73 +187,35 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "New Gitea RCE Lets Repository Writers Plant a Git Hook to Run Shell Commands",
-    "link": "https://thehackernews.com/2026/07/new-gitea-rce-lets-repository-writers.html",
-    "published": "Wed, 29 Jul 2026 13:17:19 +0530",
-    "summary": "Gitea, the self-hosted Git platform, has patched a critical remote code execution vulnerability. A user with ordinary repository write access can turn attacker-controlled patch content into a live Git hook and run shell commands as the Gitea service account.\n\nTracked as CVE-2026-60004 (CVSS score: 9.8), the flaw affects Gitea versions 1.17 and later before 1.27.1 and is fixed in 1.27.1. The",
+    "source": "Bleeping Computer",
+    "title": "OpenAI agent used exposed credentials at 4 services in Hugging Face breach",
+    "link": "https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/",
+    "published": "Wed, 29 Jul 2026 12:04:59 -0400",
+    "summary": "In a new update, OpenAI says its AI models also used publicly exposed credentials to compromise accounts on four third-party services during the recent attack on Hugging Face, expanding the scope of the four-day security incident to other organizations. [...]",
     "analysis": {
-      "issue": "Gitea fixes CVE-2026-60004, a 9",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-60004"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates",
-    "link": "https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html",
-    "published": "Wed, 29 Jul 2026 12:37:23 +0530",
-    "summary": "Source code for the Flying Eagle Android remote access trojan (RAT) framework is circulating through criminal Telegram channels. Hunt.io and independent researcher NetAskari traced matching control panels and certificates to 170 internet servers.\n\nThey linked the framework to a fake \"公安一网通办\" Public Security service application targeting Android users in China. The kit supports payment-password",
-    "analysis": {
-      "issue": "Flying Eagle Android RAT source code is circulating on Telegram, while Hunt",
+      "issue": "In a new update, OpenAI says its AI models also used publicly exposed credentials to compromise accounts on four third-party services during the recent attack on Hugging Face, expanding the scope of the four-day security incident to other organizatio",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Supply Chain"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js",
-    "link": "https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html",
-    "published": "Wed, 29 Jul 2026 09:50:57 +0530",
-    "summary": "Beta release versions of two npm packages in the @joyfill namespace have been compromised to deliver a remote access trojan (RAT) associated with the DEV#POPPER malware family.\n\nThe list of affected packages is as follows -\n\n\n  @joyfill/layouts@0.1.2-2773.beta.0\n  @joyfill/components@4.0.0-rc24-2773-beta.4\n\nThe two packages \"contain an import-time JavaScript implant that resolves encrypted code",
+    "source": "Bleeping Computer",
+    "title": "Hackers disrupt over 30 Minnesota water utilities in coordinated OT attack",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/",
+    "published": "Wed, 29 Jul 2026 10:55:57 -0400",
+    "summary": "The Minnesota IT Services (MNIT) agency activated its cybersecurity incident response capabilities across the entire state after hackers targeted more than 30 community water systems in \"a coordinated cyberattack.\" [...]",
     "analysis": {
-      "issue": "Two @joyfill npm beta packages run an import-time implant that uses Tron, Aptos, and BSC to deliver a DEV#POPPER-linked Node",
+      "issue": "The Minnesota IT Services (MNIT) agency activated its cybersecurity incident response capabilities across the entire state after hackers targeted more than 30 community water systems in “a coordinated cyberattack",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
-    "link": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html",
-    "published": "Wed, 29 Jul 2026 00:29:07 +0530",
-    "summary": "Anthropic says Claude Mythos Preview helped derive an end-to-end key-recovery attack against HAWK-256 and a 200- to 800-fold speedup for an attack on seven-round AES-128.\n\nThe HAWK attack exploits a previously unused symmetry in the lattice behind the signature scheme. Anthropic's released implementation gives an expected end-to-end runtime of about three hours and 42 minutes on a 96-core server",
-    "analysis": {
-      "issue": "Anthropic says Claude recovered HAWK-256 signing material and sped up a seven-round AES-128 attack, but neither affects production systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
         "General Security"
@@ -336,44 +372,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Over 24,000 exposed server BMCs leak password hash via decades-old flaw",
-    "link": "https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/",
-    "published": "Tue, 28 Jul 2026 08:10:23 -0400",
-    "summary": "More than 24,000 internet-exposed servers are leaking authentication password hashes due to a 20-year-old vulnerability in their Baseboard Management Controller (BMC) interface. [...]",
-    "analysis": {
-      "issue": "More than 24,000 internet-exposed servers are leaking authentication password hashes due to a 20-year-old vulnerability in their Baseboard Management Controller (BMC) interface",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2013-4786"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Data breach at medical billing firm MCBS affects 1.26 million people",
-    "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/",
-    "published": "Tue, 28 Jul 2026 05:10:03 -0400",
-    "summary": "Healthcare billing company Medical Computer Business Services (MCBS) has disclosed that a 2025 network breach exposed the sensitive information of more than 1.2 million people. [...]",
-    "analysis": {
-      "issue": "Healthcare billing company Medical Computer Business Services (MCBS) has disclosed that a 2025 network breach exposed the sensitive information of more than 1",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "LG to Ban Residential Proxies from Smart TV Apps",
     "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
@@ -404,9 +402,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-48561",
         "CVE-2026-56155",
         "CVE-2026-50661",
-        "CVE-2026-48561",
         "CVE-2026-56164"
       ],
       "threat_categories": [
@@ -541,9 +539,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-49160",
         "CVE-2026-50507",
-        "CVE-2026-45586"
+        "CVE-2026-45586",
+        "CVE-2026-49160"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -638,9 +636,9 @@
       "cves": [
         "CVE-2026-59309",
         "CVE-2026-59310",
+        "CVE-2026-41709",
         "CVE-2026-47876",
-        "CVE-2026-41703",
-        "CVE-2026-41709"
+        "CVE-2026-41703"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -716,15 +714,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-66018",
         "CVE-2026-65921",
         "CVE-2026-65923",
-        "CVE-2026-66018",
+        "CVE-2026-65925",
         "CVE-2026-65924",
-        "CVE-2026-65617",
-        "CVE-2026-65922",
-        "CVE-2026-66014",
         "CVE-2026-66015",
-        "CVE-2026-65925"
+        "CVE-2026-65617",
+        "CVE-2026-66014",
+        "CVE-2026-65922"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -914,34 +912,34 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-55127",
-        "CVE-2026-54128",
-        "CVE-2026-50314",
-        "CVE-2026-55140",
-        "CVE-2026-55129",
-        "CVE-2026-58644",
         "CVE-2026-50370",
-        "CVE-2026-55018",
-        "CVE-2026-55123",
-        "CVE-2026-50518",
-        "CVE-2026-55944",
-        "CVE-2026-56155",
-        "CVE-2026-55056",
-        "CVE-2026-55043",
-        "CVE-2026-50327",
-        "CVE-2026-56164",
-        "CVE-2026-55033",
         "CVE-2026-55045",
+        "CVE-2026-55056",
         "CVE-2026-56188",
-        "CVE-2026-50522",
-        "CVE-2026-54992",
-        "CVE-2026-55049",
-        "CVE-2026-50467",
-        "CVE-2026-55132",
+        "CVE-2026-50314",
+        "CVE-2026-55129",
+        "CVE-2026-54128",
+        "CVE-2026-50518",
+        "CVE-2026-55140",
+        "CVE-2026-56155",
+        "CVE-2026-55127",
         "CVE-2026-50655",
-        "CVE-2026-55120",
+        "CVE-2026-50522",
         "CVE-2026-55022",
-        "CVE-2026-55010"
+        "CVE-2026-55049",
+        "CVE-2026-56164",
+        "CVE-2026-50327",
+        "CVE-2026-55132",
+        "CVE-2026-55018",
+        "CVE-2026-55120",
+        "CVE-2026-55043",
+        "CVE-2026-54992",
+        "CVE-2026-55010",
+        "CVE-2026-55033",
+        "CVE-2026-55123",
+        "CVE-2026-58644",
+        "CVE-2026-55944",
+        "CVE-2026-50467"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1365,6 +1363,61 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Buying TikTok views or followers? Here&#8217;s what you&#8217;re really getting",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/07/buying-tiktok-views-or-followers-heres-what-youre-really-getting",
+    "published": "Wed, 29 Jul 2026 16:54:46 GMT",
+    "summary": "Behind TikTok's booming growth industry are fake engagements, stolen accounts, and a fast track to getting flagged.",
+    "analysis": {
+      "issue": "A whole industry has sprung up around selling TikTok “growth",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "AI robocalls: Why caller ID is still lying to you",
+    "link": "https://www.malwarebytes.com/blog/news/2026/07/ai-robocalls-why-caller-id-is-still-lying-to-you",
+    "published": "Wed, 29 Jul 2026 15:15:32 GMT",
+    "summary": "AI is making robocall scams cheaper, more convincing, and harder to spot. Here's why caller ID still isn't enough.",
+    "analysis": {
+      "issue": "If you feel like your phone has turned into a scam megaphone, you’re not alone",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "OpenAI explains how its AI agent breached Hugging Face",
+    "link": "https://www.malwarebytes.com/blog/news/2026/07/openai-explains-how-its-ai-agent-breached-hugging-face",
+    "published": "Wed, 29 Jul 2026 14:20:32 GMT",
+    "summary": "OpenAI has published an update on the incident in which one of its agents escaped its sandbox and accessed Hugging Face infrastructure.",
+    "analysis": {
+      "issue": "On July 28, OpenAI published an update on the agent that escaped its sandbox and hacked into Hugging Face during an internal cybersecurity evaluation",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "We found 120 fake Walmart stores trying to steal your credit card",
     "link": "https://www.malwarebytes.com/blog/scams/2026/07/we-found-120-fake-walmart-stores-trying-to-steal-your-credit-card",
     "published": "Wed, 29 Jul 2026 10:32:17 GMT",
@@ -1488,62 +1541,6 @@
         "Data Breach",
         "Vulnerability",
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "What&#8217;s your data worth on the dark web? (Lock and Code S07E15)",
-    "link": "https://www.malwarebytes.com/blog/podcast/2026/07/whats-your-data-worth-on-the-dark-web-lock-and-code-s07e15",
-    "published": "Mon, 27 Jul 2026 14:35:34 GMT",
-    "summary": "This week on the Lock and Code podcast, we discuss just exactly why it is that hackers and scammers want your data—and how you're at risk.",
-    "analysis": {
-      "issue": "This week on the Lock and Code podcast… Twenty years ago, a British mathematician named Clive Humby popularized a phrase that came to describe data’s relationship with the entire global economy: “Data is the new oil",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "A week in security (July 20 &#8211; July 26)",
-    "link": "https://www.malwarebytes.com/blog/news/2026/07/a-week-in-security-july-20-july-26",
-    "published": "Mon, 27 Jul 2026 07:01:00 GMT",
-    "summary": "A list of topics we covered in the week of July 20 to July 26 of 2026",
-    "analysis": {
-      "issue": "Last week on Malwarebytes Labs: Stay safe",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Don&#8217;t get fooled by TikTok resin art scams",
-    "link": "https://www.malwarebytes.com/blog/scams/2026/07/dont-get-fooled-by-tiktok-resin-art-scams",
-    "published": "Fri, 24 Jul 2026 14:56:34 GMT",
-    "summary": "Scammers are using stolen videos and fake artist profiles to trick people into buying resin art that never arrives. Here's how to spot the warning signs.",
-    "analysis": {
-      "issue": "Resin art has become a popular corner of TikTok, with some videos attracting millions of views",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
