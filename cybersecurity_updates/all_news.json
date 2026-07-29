@@ -1,6 +1,62 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Mythos Asks the Right Question. It Doesn't Answer It.",
+    "link": "https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html",
+    "published": "Wed, 29 Jul 2026 17:45:00 +0530",
+    "summary": "AI is compressing exploit timelines. The real question isn't whether your vulnerability management playbook needs to change, it's which part of it you've been getting wrong all along.\n\nThe conversation happening in security circles right now goes something like this: Mythos is here. Exploit timelines are collapsing. Does the vulnerability management playbook need to change?\n\nThe honest answer is",
+    "analysis": {
+      "issue": "50,000 findings sorted by CVSS isn't a priority list",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser",
+    "link": "https://thehackernews.com/2026/07/researchers-show-single-malicious.html",
+    "published": "Wed, 29 Jul 2026 17:27:00 +0530",
+    "summary": "Nebula Security says a patched Firefox JIT flaw could be triggered by simply visiting a malicious webpage and was also used to compromise Tor Browser.\n\nTracked as CVE-2026-10702, the bug provides arbitrary code execution inside the browser's renderer process. Mozilla rated it High and fixed it in the Firefox 151.0.3 update.\n\n\"No settings or additional user interaction are required,\" Eten Zou,",
+    "analysis": {
+      "issue": "Nebula says CVE-2026-10702 lets a malicious webpage compromise Tor Browser and start an Android 17 root chain",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-10702"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "73% of Organizations Say They Are Not Fully Ready for a Major Cyberattack",
+    "link": "https://thehackernews.com/2026/07/73-of-organizations-say-they-are-not.html",
+    "published": "Wed, 29 Jul 2026 16:43:10 +0530",
+    "summary": "Most organizations have incident response plans, security tools, and technical teams in place. Yet new research suggests that many still lack the coordination, visibility, and executive alignment needed to withstand a serious cyberattack.\n\nAccording to The State of Incident Response Readiness 2026, based on a survey of 600 senior IT security decision makers conducted by Vanson Bourne in January",
+    "analysis": {
+      "issue": "A 2026 survey of 600 security leaders finds 73% of organizations are not fully ready for a major cyberattack, despite widespread planning",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Russia Charges Telegram Founder Pavel Durov With Aiding Terrorist Activity",
     "link": "https://thehackernews.com/2026/07/russia-charges-telegram-founder-pavel.html",
     "published": "Wed, 29 Jul 2026 16:30:00 +0530",
@@ -131,31 +187,31 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process",
-    "link": "https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html",
-    "published": "Tue, 28 Jul 2026 20:31:33 +0530",
-    "summary": "A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main process.\n\nIf that happens, Tengu's other persistence mechanisms get another chance to relaunch it. Nozomi Networks Labs observed the dropper reaching its honeypots through Telnet credential brute force.\n\nTengu supports 25 distributed denial-of-service (",
+    "source": "Bleeping Computer",
+    "title": "Your AI Agents Are Guessing at Scale: Permissions Decide the Damage",
+    "link": "https://www.bleepingcomputer.com/news/security/your-ai-agents-are-guessing-at-scale-permissions-decide-the-damage/",
+    "published": "Wed, 29 Jul 2026 10:02:12 -0400",
+    "summary": "AI agents are designed to improvise as they complete tasks, making broad permissions a growing security risk. Token Security explains why identity, intent-based access controls, and least privilege are becoming the foundation for securing agentic AI. [...]",
     "analysis": {
-      "issue": "Tengu abuses Linux hardware watchdogs to reboot devices after its main process is killed, letting other persistence mechanisms relaunch it",
+      "issue": "Watch an agent work through a task, and you’ll see the future of enterprise security",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "APT"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login",
-    "link": "https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html",
-    "published": "Tue, 28 Jul 2026 20:11:36 +0530",
-    "summary": "Cybersecurity researchers have sounded an alert after finding more than 36,000 Baseboard Management Controller (BMC) management interfaces exposing Intelligent Platform Management Interface (IPMI) protocol to the public internet.\n\nOf the 36,872 internet-exposed server-management interfaces running IPMI, 24,650 have been found to disclose password-derived authentication hashes before login due to",
+    "source": "Bleeping Computer",
+    "title": "Windows 11 KB5101684 update released with 42 changes and fixes",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101684-update-released-with-42-changes-and-fixes/",
+    "published": "Wed, 29 Jul 2026 09:56:22 -0400",
+    "summary": "​​Microsoft has released the KB5101684 preview cumulative update for Windows 11 24H2 and 25H2, which 42 bug fixes and additional feature improvements for the operating system. [...]",
     "analysis": {
-      "issue": "Researchers find 24,650 exposed BMCs disclose IPMI authentication hashes before login, enabling offline password cracking",
+      "issue": "​​Microsoft has released the KB5101684 preview cumulative update for Windows 11 24H2 and 25H2, which 42 bug fixes and additional feature improvements for the operating system",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -167,20 +223,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach",
-    "link": "https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html",
-    "published": "Tue, 28 Jul 2026 19:03:47 +0530",
-    "summary": "JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluation environment.\n\nArtifactory is JFrog's software repository manager. OpenAI says the models then escalated privileges and moved laterally until they reached an internet-connected node. JFrog says it has since developed and released fixes for cloud",
+    "source": "Bleeping Computer",
+    "title": "These near-mint ASUS Chromebook refurbs are only $145",
+    "link": "https://www.bleepingcomputer.com/news/security/these-near-mint-asus-chromebook-refurbs-are-only-145/",
+    "published": "Wed, 29 Jul 2026 07:12:19 -0400",
+    "summary": "Buying a new computer in 2026 is a unique experience. Rather than deal with incredibly high tech prices, more shoppers are opting for high-quality refurbished tech. This ASUS Chromebook CM30 refurb is in near-mint condition with a grade \"A\" rating, but it still only costs $144.97 (reg. $369.99) on sale. [...]",
     "analysis": {
-      "issue": "JFrog confirms OpenAI models exploited Artifactory during a sealed test; a separate path later breached Hugging Face",
+      "issue": "Buying a new computer in 2026 is a unique experience",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "APT"
       ]
     }
   },
@@ -318,65 +374,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Hackers target US firms in FastJson RCE zero-day attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/",
-    "published": "Mon, 27 Jul 2026 19:49:44 -0400",
-    "summary": "Hackers are actively exploiting a vulnerability in the FastJson open-source Java library, allowing remote code execution without user interaction or elevated privileges. [...]",
-    "analysis": {
-      "issue": "Hackers are actively exploiting a vulnerability in the FastJson open-source Java library, allowing remote code execution without user interaction or elevated privileges",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-16723"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Arista patches VeloCloud Orchestrator zero-day exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/",
-    "published": "Mon, 27 Jul 2026 18:49:44 -0400",
-    "summary": "Arista has patched a maximum-severity command injection vulnerability in on-premises VeloCloud Orchestrator deployments that is being actively exploited in attacks. [...]",
-    "analysis": {
-      "issue": "Arista has patched a maximum-severity command injection vulnerability in on-premises VeloCloud Orchestrator deployments that is being actively exploited in attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-16812"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New Dysphoria DDoS botnet spreads to 200k devices worldwide",
-    "link": "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/",
-    "published": "Mon, 27 Jul 2026 17:08:15 -0400",
-    "summary": "A botnet called Dysphoria has compromised around 200,000 devices across the world and is using them for distributed denial of service (DDoS) attacks and traffic relay operations. [...]",
-    "analysis": {
-      "issue": "A botnet called Dysphoria has compromised around 200,000 devices across the world and is using them for distributed denial of service (DDoS) attacks and traffic relay operations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "DDoS"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "LG to Ban Residential Proxies from Smart TV Apps",
     "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
@@ -408,8 +405,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-56155",
-        "CVE-2026-48561",
         "CVE-2026-50661",
+        "CVE-2026-48561",
         "CVE-2026-56164"
       ],
       "threat_categories": [
@@ -545,8 +542,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-49160",
-        "CVE-2026-45586",
-        "CVE-2026-50507"
+        "CVE-2026-50507",
+        "CVE-2026-45586"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -569,6 +566,85 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "US Bans Foreign-Made Humanoid Robots, Targeting China Over National Security",
+    "link": "https://www.securityweek.com/us-bans-foreign-made-humanoid-robots-targeting-china-over-national-security/",
+    "published": "Wed, 29 Jul 2026 13:31:00 +0000",
+    "summary": "<p>The agency said imports of advanced robots pose cybersecurity and other national security risks.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-bans-foreign-made-humanoid-robots-targeting-china-over-national-security/\">US Bans Foreign-Made Humanoid Robots, Targeting China Over National Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The agency said imports of advanced robots pose cybersecurity and other national security risks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Mate Security Raises $35 Million for Agentic SOC",
+    "link": "https://www.securityweek.com/mate-security-raises-35-million-for-agentic-soc/",
+    "published": "Wed, 29 Jul 2026 12:47:13 +0000",
+    "summary": "<p>The startup will use the investment to expand its customer support, sales, and R&#038;D teams.</p>\n<p>The post <a href=\"https://www.securityweek.com/mate-security-raises-35-million-for-agentic-soc/\">Mate Security Raises $35 Million for Agentic SOC</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The startup will use the investment to expand its customer support, sales, and R&D teams",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "ThreatLocker Raises $190 Million in Series F Funding",
+    "link": "https://www.securityweek.com/threatlocker-raises-190-million-in-series-f-funding/",
+    "published": "Wed, 29 Jul 2026 12:17:14 +0000",
+    "summary": "<p>The company was previously valued at $1.6 billion, and the latest raise has significantly increased that valuation.</p>\n<p>The post <a href=\"https://www.securityweek.com/threatlocker-raises-190-million-in-series-f-funding/\">ThreatLocker Raises $190 Million in Series F Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The company was previously valued at $1",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Critical VM Escape Vulnerability Patched in VMware ESXi",
+    "link": "https://www.securityweek.com/critical-vm-escape-vulnerability-patched-in-vmware-esxi/",
+    "published": "Wed, 29 Jul 2026 11:42:38 +0000",
+    "summary": "<p>A total of five vulnerabilities have been patched in VMware ESXi, vCenter, Workstation, and Fusion.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-vm-escape-vulnerability-patched-in-vmware-esxi/\">Critical VM Escape Vulnerability Patched in VMware ESXi</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "A total of five vulnerabilities have been patched in VMware ESXi, vCenter, Workstation, and Fusion",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-59309",
+        "CVE-2026-59310",
+        "CVE-2026-47876",
+        "CVE-2026-41703",
+        "CVE-2026-41709"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "APT"
       ]
     }
   },
@@ -640,15 +716,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-66014",
-        "CVE-2026-65924",
-        "CVE-2026-65617",
         "CVE-2026-65921",
-        "CVE-2026-65922",
         "CVE-2026-65923",
         "CVE-2026-66018",
-        "CVE-2026-65925",
-        "CVE-2026-66015"
+        "CVE-2026-65924",
+        "CVE-2026-65617",
+        "CVE-2026-65922",
+        "CVE-2026-66014",
+        "CVE-2026-66015",
+        "CVE-2026-65925"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -691,81 +767,6 @@
         "Ransomware",
         "Data Breach",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Cyera Acquiring Oasis Security in $1 Billion Deal",
-    "link": "https://www.securityweek.com/cyera-acquiring-oasis-security-in-1-billion-deal/",
-    "published": "Tue, 28 Jul 2026 14:55:30 +0000",
-    "summary": "<p>Oasis Security recently raised $120 million in Series B funding for its agentic access management platform.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyera-acquiring-oasis-security-in-1-billion-deal/\">Cyera Acquiring Oasis Security in $1 Billion Deal</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Oasis Security recently raised $120 million in Series B funding for its agentic access management platform",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Apple Patches 87 Vulnerabilities in iOS, 155 in macOS Tahoe",
-    "link": "https://www.securityweek.com/apple-patches-87-vulnerabilities-in-ios-155-in-macos-tahoe/",
-    "published": "Tue, 28 Jul 2026 14:19:31 +0000",
-    "summary": "<p>Apple announced that dozens of vulnerabilities have been patched in each of its operating systems.</p>\n<p>The post <a href=\"https://www.securityweek.com/apple-patches-87-vulnerabilities-in-ios-155-in-macos-tahoe/\">Apple Patches 87 Vulnerabilities in iOS, 155 in macOS Tahoe</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Apple announced that dozens of vulnerabilities have been patched in each of its operating systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-43810"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "OT Security Startup Frenos Raises $1.52 Million",
-    "link": "https://www.securityweek.com/ot-security-startup-frenos-raises-1-52-million/",
-    "published": "Tue, 28 Jul 2026 13:05:25 +0000",
-    "summary": "<p>The company will use the fresh investment to grow its customer success and AI R&#038;D teams.</p>\n<p>The post <a href=\"https://www.securityweek.com/ot-security-startup-frenos-raises-1-52-million/\">OT Security Startup Frenos Raises $1.52 Million</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The company will use the fresh investment to grow its customer success and AI R&D teams",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Microsoft Unveils MAI-Cyber-1-Flash, Its First Cybersecurity AI Model",
-    "link": "https://www.securityweek.com/microsoft-unveils-mai-cyber-1-flash-its-first-cybersecurity-ai-model/",
-    "published": "Tue, 28 Jul 2026 11:11:48 +0000",
-    "summary": "<p>The company claims MAI-Cyber-1-Flash tops Anthropic’s Mythos and OpenAI’s GPT-5.6 Sol in CyberGym testing.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-unveils-mai-cyber-1-flash-its-first-cybersecurity-ai-model/\">Microsoft Unveils MAI-Cyber-1-Flash, Its First Cybersecurity AI Model </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The company claims MAI-Cyber-1-Flash tops Anthropic’s Mythos and OpenAI’s GPT-5",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
       ]
     }
   },
@@ -913,34 +914,34 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-55127",
+        "CVE-2026-54128",
+        "CVE-2026-50314",
+        "CVE-2026-55140",
+        "CVE-2026-55129",
+        "CVE-2026-58644",
+        "CVE-2026-50370",
+        "CVE-2026-55018",
+        "CVE-2026-55123",
+        "CVE-2026-50518",
+        "CVE-2026-55944",
+        "CVE-2026-56155",
+        "CVE-2026-55056",
         "CVE-2026-55043",
         "CVE-2026-50327",
         "CVE-2026-56164",
-        "CVE-2026-55140",
-        "CVE-2026-55045",
-        "CVE-2026-55132",
-        "CVE-2026-50467",
-        "CVE-2026-55018",
-        "CVE-2026-54128",
-        "CVE-2026-55127",
         "CVE-2026-55033",
-        "CVE-2026-55049",
-        "CVE-2026-50370",
-        "CVE-2026-55129",
-        "CVE-2026-50522",
-        "CVE-2026-50655",
-        "CVE-2026-50314",
-        "CVE-2026-55010",
-        "CVE-2026-56155",
-        "CVE-2026-50518",
+        "CVE-2026-55045",
         "CVE-2026-56188",
-        "CVE-2026-55120",
+        "CVE-2026-50522",
         "CVE-2026-54992",
+        "CVE-2026-55049",
+        "CVE-2026-50467",
+        "CVE-2026-55132",
+        "CVE-2026-50655",
+        "CVE-2026-55120",
         "CVE-2026-55022",
-        "CVE-2026-55123",
-        "CVE-2026-55056",
-        "CVE-2026-55944",
-        "CVE-2026-58644"
+        "CVE-2026-55010"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1333,8 +1334,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
