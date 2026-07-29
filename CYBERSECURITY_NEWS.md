@@ -1,10 +1,66 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-29 03:49:24 UTC
+**Last Updated:** 2026-07-29 11:02:58 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack](https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html)
+### 1. [Russia Charges Telegram Founder Pavel Durov With Aiding Terrorist Activity](https://thehackernews.com/2026/07/russia-charges-telegram-founder-pavel.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 29 Jul 2026 16:30:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass](https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 29 Jul 2026 14:28:27 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-16232  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach](https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 29 Jul 2026 13:21:00 +0530  
+**Severity:** Critical  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 4. [New Gitea RCE Lets Repository Writers Plant a Git Hook to Run Shell Commands](https://thehackernews.com/2026/07/new-gitea-rce-lets-repository-writers.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 29 Jul 2026 13:17:19 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-60004  
+**Categories:** Vulnerability  
+
+---
+
+### 5. [Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates](https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 29 Jul 2026 12:37:23 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 6. [Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js](https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 29 Jul 2026 09:50:57 +0530  
+**Severity:** Low  
+**Categories:** APT  
+
+---
+
+### 7. [Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack](https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 29 Jul 2026 00:29:07 +0530  
@@ -13,7 +69,7 @@
 
 ---
 
-### 2. [Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process](https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html)
+### 8. [Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process](https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 28 Jul 2026 20:31:33 +0530  
@@ -22,7 +78,7 @@
 
 ---
 
-### 3. [24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login](https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html)
+### 9. [24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login](https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 28 Jul 2026 20:11:36 +0530  
@@ -31,68 +87,11 @@
 
 ---
 
-### 4. [JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach](https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html)
+### 10. [JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach](https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 28 Jul 2026 19:03:47 +0530  
 **Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 5. [Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root](https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 28 Jul 2026 18:26:14 +0530  
-**Severity:** Critical  
-**CVEs:** CVE-2026-53921  
-**Categories:** Vulnerability  
-
----
-
-### 6. [Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays](https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 28 Jul 2026 17:25:20 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 7. [Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In](https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 28 Jul 2026 13:41:22 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-63077  
-**Categories:** Vulnerability  
-
----
-
-### 8. [Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit](https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 28 Jul 2026 13:34:44 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 9. [Microsoft Says New Cybersecurity AI Model Helps MDASH Score 95.95% at Half the Cost](https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 28 Jul 2026 11:37:22 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw](https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 28 Jul 2026 10:13:53 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-16812  
 **Categories:** Vulnerability  
 
 ---
@@ -205,7 +204,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50661, CVE-2026-48561, CVE-2026-56164, CVE-2026-56155  
+**CVEs:** CVE-2026-56155, CVE-2026-48561, CVE-2026-50661, CVE-2026-56164  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -269,7 +268,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50507, CVE-2026-49160, CVE-2026-45586  
+**CVEs:** CVE-2026-49160, CVE-2026-45586, CVE-2026-50507  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -283,7 +282,62 @@
 
 ---
 
-### 31. [Cyera Acquiring Oasis Security in $1 Billion Deal](https://www.securityweek.com/cyera-acquiring-oasis-security-in-1-billion-deal/)
+### 31. [US, Australia Release OT Isolation Guidance for Critical Infrastructure](https://www.securityweek.com/us-australia-release-ot-isolation-guidance-for-critical-infrastructure/)
+
+**Source:** Security Week  
+**Published:** Wed, 29 Jul 2026 10:58:44 +0000  
+**Severity:** Critical  
+**Categories:** General Security  
+
+---
+
+### 32. [OpenAI’s Rogue AI Ventured Beyond Hugging Face](https://www.securityweek.com/openais-rogue-ai-ventured-beyond-hugging-face/)
+
+**Source:** Security Week  
+**Published:** Wed, 29 Jul 2026 10:10:09 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, APT  
+
+---
+
+### 33. [Spur Raises $200 Million for IP Intelligence Platform](https://www.securityweek.com/spur-raises-200-million-for-ip-intelligence-platform/)
+
+**Source:** Security Week  
+**Published:** Wed, 29 Jul 2026 09:12:19 +0000  
+**Severity:** Critical  
+**Categories:** General Security  
+
+---
+
+### 34. [JFrog Zero-Days Exploited in OpenAI-Hugging Face Hack](https://www.securityweek.com/jfrog-zero-days-exploited-in-openai-hugging-face-hack/)
+
+**Source:** Security Week  
+**Published:** Wed, 29 Jul 2026 08:46:30 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-66014, CVE-2026-65924, CVE-2026-65617, CVE-2026-65921, CVE-2026-65922, CVE-2026-65923, CVE-2026-66018, CVE-2026-65925, CVE-2026-66015  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 35. [Dozens of Minnesota Water Utilities Targeted in Coordinated OT Attacks](https://www.securityweek.com/dozens-of-minnesota-water-utilities-targeted-in-coordinated-ot-attacks/)
+
+**Source:** Security Week  
+**Published:** Wed, 29 Jul 2026 07:53:22 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 36. [ShinyHunters Claims Ernst & Young Hack](https://www.securityweek.com/shinyhunters-claims-ernst-young-hack/)
+
+**Source:** Security Week  
+**Published:** Wed, 29 Jul 2026 06:23:34 +0000  
+**Severity:** High  
+**Categories:** Ransomware, Data Breach, Supply Chain  
+
+---
+
+### 37. [Cyera Acquiring Oasis Security in $1 Billion Deal](https://www.securityweek.com/cyera-acquiring-oasis-security-in-1-billion-deal/)
 
 **Source:** Security Week  
 **Published:** Tue, 28 Jul 2026 14:55:30 +0000  
@@ -292,7 +346,7 @@
 
 ---
 
-### 32. [Apple Patches 87 Vulnerabilities in iOS, 155 in macOS Tahoe](https://www.securityweek.com/apple-patches-87-vulnerabilities-in-ios-155-in-macos-tahoe/)
+### 38. [Apple Patches 87 Vulnerabilities in iOS, 155 in macOS Tahoe](https://www.securityweek.com/apple-patches-87-vulnerabilities-in-ios-155-in-macos-tahoe/)
 
 **Source:** Security Week  
 **Published:** Tue, 28 Jul 2026 14:19:31 +0000  
@@ -302,7 +356,7 @@
 
 ---
 
-### 33. [OT Security Startup Frenos Raises $1.52 Million](https://www.securityweek.com/ot-security-startup-frenos-raises-1-52-million/)
+### 39. [OT Security Startup Frenos Raises $1.52 Million](https://www.securityweek.com/ot-security-startup-frenos-raises-1-52-million/)
 
 **Source:** Security Week  
 **Published:** Tue, 28 Jul 2026 13:05:25 +0000  
@@ -311,68 +365,12 @@
 
 ---
 
-### 34. [Microsoft Unveils MAI-Cyber-1-Flash, Its First Cybersecurity AI Model](https://www.securityweek.com/microsoft-unveils-mai-cyber-1-flash-its-first-cybersecurity-ai-model/)
+### 40. [Microsoft Unveils MAI-Cyber-1-Flash, Its First Cybersecurity AI Model](https://www.securityweek.com/microsoft-unveils-mai-cyber-1-flash-its-first-cybersecurity-ai-model/)
 
 **Source:** Security Week  
 **Published:** Tue, 28 Jul 2026 11:11:48 +0000  
 **Severity:** Low  
 **Categories:** Vulnerability, Malware  
-
----
-
-### 35. [Hacker Conversations: Tal Kollander’s Journey From Black Hat to Hack Blocker](https://www.securityweek.com/hacker-conversations-tal-kollanders-journey-from-black-hat-to-hack-blocker/)
-
-**Source:** Security Week  
-**Published:** Tue, 28 Jul 2026 11:00:00 +0000  
-**Severity:** Critical  
-**Categories:** General Security  
-
----
-
-### 36. [Act Security Emerges from Stealth to Fight the Patch Problem](https://www.securityweek.com/act-security-emerges-from-stealth-to-fight-the-patch-problem/)
-
-**Source:** Security Week  
-**Published:** Tue, 28 Jul 2026 11:00:00 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, Malware  
-
----
-
-### 37. [Hush Security Raises $30 Million for AI Agent Governance](https://www.securityweek.com/hush-security-raises-30-million-for-ai-agent-governance/)
-
-**Source:** Security Week  
-**Published:** Tue, 28 Jul 2026 10:17:27 +0000  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 38. [Google Adopts New Threat Actor Naming System](https://www.securityweek.com/google-adopts-new-threat-actor-naming-system/)
-
-**Source:** Security Week  
-**Published:** Tue, 28 Jul 2026 08:42:52 +0000  
-**Severity:** High  
-**Categories:** APT  
-
----
-
-### 39. [Unpatched Fastjson Vulnerability Exploited in Attacks](https://www.securityweek.com/unpatched-fastjson-vulnerability-exploited-in-attacks/)
-
-**Source:** Security Week  
-**Published:** Tue, 28 Jul 2026 07:27:55 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-16723  
-**Categories:** Vulnerability, Supply Chain  
-
----
-
-### 40. [Critical Arista VeloCloud Orchestrator Vulnerability Exploited as Zero-Day](https://www.securityweek.com/critical-arista-velocloud-orchestrator-vulnerability-exploited-as-zero-day/)
-
-**Source:** Security Week  
-**Published:** Tue, 28 Jul 2026 06:40:36 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2023-27997, CVE-2024-21762, CVE-2022-42475, CVE-2025-68686, CVE-2026-16812  
-**Categories:** Ransomware, Vulnerability  
 
 ---
 
@@ -444,7 +442,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Jul 2026 20:27:33 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-58644, CVE-2026-55049, CVE-2026-56155, CVE-2026-55022, CVE-2026-55018, CVE-2026-56188, CVE-2026-55127, CVE-2026-55056, CVE-2026-54128, CVE-2026-55120, CVE-2026-55132, CVE-2026-50518, CVE-2026-50655, CVE-2026-50327, CVE-2026-55010, CVE-2026-55944, CVE-2026-56164, CVE-2026-50467, CVE-2026-50314, CVE-2026-55123, CVE-2026-55045, CVE-2026-55129, CVE-2026-50370, CVE-2026-54992, CVE-2026-55140, CVE-2026-55043, CVE-2026-55033, CVE-2026-50522  
+**CVEs:** CVE-2026-55043, CVE-2026-50327, CVE-2026-56164, CVE-2026-55140, CVE-2026-55045, CVE-2026-55132, CVE-2026-50467, CVE-2026-55018, CVE-2026-54128, CVE-2026-55127, CVE-2026-55033, CVE-2026-55049, CVE-2026-50370, CVE-2026-55129, CVE-2026-50522, CVE-2026-50655, CVE-2026-50314, CVE-2026-55010, CVE-2026-56155, CVE-2026-50518, CVE-2026-56188, CVE-2026-55120, CVE-2026-54992, CVE-2026-55022, CVE-2026-55123, CVE-2026-55056, CVE-2026-55944, CVE-2026-58644  
 **Categories:** Vulnerability  
 
 ---
@@ -652,7 +650,16 @@
 
 ---
 
-### 71. [We rebuilt Malwarebytes Mobile Security for the scams of today](https://www.malwarebytes.com/blog/product/2026/07/we-rebuilt-malwarebytes-mobile-security-for-the-scams-of-today)
+### 71. [We found 120 fake Walmart stores trying to steal your credit card](https://www.malwarebytes.com/blog/scams/2026/07/we-found-120-fake-walmart-stores-trying-to-steal-your-credit-card)
+
+**Source:** Malwarebytes  
+**Published:** Wed, 29 Jul 2026 10:32:17 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 72. [We rebuilt Malwarebytes Mobile Security for the scams of today](https://www.malwarebytes.com/blog/product/2026/07/we-rebuilt-malwarebytes-mobile-security-for-the-scams-of-today)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 28 Jul 2026 12:40:00 GMT  
@@ -661,7 +668,7 @@
 
 ---
 
-### 72. [Shared Claude chats were searchable on Google](https://www.malwarebytes.com/blog/privacy/2026/07/shared-claude-chats-were-searchable-on-google)
+### 73. [Shared Claude chats were searchable on Google](https://www.malwarebytes.com/blog/privacy/2026/07/shared-claude-chats-were-searchable-on-google)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 28 Jul 2026 12:33:11 GMT  
@@ -670,7 +677,7 @@
 
 ---
 
-### 73. [Update your iPhone, iPad and Mac to fix Apple security holes](https://www.malwarebytes.com/blog/news/2026/07/july-apple-updates-are-especially-important-if-you-receive-images)
+### 74. [Update your iPhone, iPad and Mac to fix Apple security holes](https://www.malwarebytes.com/blog/news/2026/07/july-apple-updates-are-especially-important-if-you-receive-images)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 28 Jul 2026 11:35:40 GMT  
@@ -679,7 +686,7 @@
 
 ---
 
-### 74. [Vatican&#8217;s Click To Pray app exposed personal data from 700,000 users](https://www.malwarebytes.com/blog/privacy/2026/07/vaticans-click-to-pray-app-exposed-personal-data-from-700000-users)
+### 75. [Vatican&#8217;s Click To Pray app exposed personal data from 700,000 users](https://www.malwarebytes.com/blog/privacy/2026/07/vaticans-click-to-pray-app-exposed-personal-data-from-700000-users)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 28 Jul 2026 11:11:36 GMT  
@@ -688,7 +695,7 @@
 
 ---
 
-### 75. [Aftercall ads are driving Android users crazy](https://www.malwarebytes.com/blog/news/2026/07/aftercall-ads-are-driving-android-users-crazy)
+### 76. [Aftercall ads are driving Android users crazy](https://www.malwarebytes.com/blog/news/2026/07/aftercall-ads-are-driving-android-users-crazy)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 27 Jul 2026 19:00:05 GMT  
@@ -697,7 +704,7 @@
 
 ---
 
-### 76. [Sextortion scammers are exploiting ShinyHunters data leaks](https://www.malwarebytes.com/blog/scams/2026/07/sextortion-scammers-are-exploiting-shinyhunters-data-leaks)
+### 77. [Sextortion scammers are exploiting ShinyHunters data leaks](https://www.malwarebytes.com/blog/scams/2026/07/sextortion-scammers-are-exploiting-shinyhunters-data-leaks)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 27 Jul 2026 15:00:23 GMT  
@@ -706,7 +713,7 @@
 
 ---
 
-### 77. [What&#8217;s your data worth on the dark web? (Lock and Code S07E15)](https://www.malwarebytes.com/blog/podcast/2026/07/whats-your-data-worth-on-the-dark-web-lock-and-code-s07e15)
+### 78. [What&#8217;s your data worth on the dark web? (Lock and Code S07E15)](https://www.malwarebytes.com/blog/podcast/2026/07/whats-your-data-worth-on-the-dark-web-lock-and-code-s07e15)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 27 Jul 2026 14:35:34 GMT  
@@ -715,7 +722,7 @@
 
 ---
 
-### 78. [A week in security (July 20 &#8211; July 26)](https://www.malwarebytes.com/blog/news/2026/07/a-week-in-security-july-20-july-26)
+### 79. [A week in security (July 20 &#8211; July 26)](https://www.malwarebytes.com/blog/news/2026/07/a-week-in-security-july-20-july-26)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 27 Jul 2026 07:01:00 GMT  
@@ -724,21 +731,12 @@
 
 ---
 
-### 79. [Don&#8217;t get fooled by TikTok resin art scams](https://www.malwarebytes.com/blog/scams/2026/07/dont-get-fooled-by-tiktok-resin-art-scams)
+### 80. [Don&#8217;t get fooled by TikTok resin art scams](https://www.malwarebytes.com/blog/scams/2026/07/dont-get-fooled-by-tiktok-resin-art-scams)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 24 Jul 2026 14:56:34 GMT  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 80. [Call of Duty Mobile scam uses fake free points to steal player accounts](https://www.malwarebytes.com/blog/threat-intel/2026/07/call-of-duty-mobile-scam-uses-fake-free-points-to-steal-player-accounts)
-
-**Source:** Malwarebytes  
-**Published:** Fri, 24 Jul 2026 14:54:23 GMT  
-**Severity:** Low  
-**Categories:** Phishing, APT  
 
 ---
 
