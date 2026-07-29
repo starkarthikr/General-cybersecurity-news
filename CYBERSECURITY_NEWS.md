@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-28 17:54:34 UTC
+**Last Updated:** 2026-07-29 03:14:25 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process](https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html)
+### 1. [Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack](https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 29 Jul 2026 00:29:07 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process](https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 28 Jul 2026 20:31:33 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login](https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html)
+### 3. [24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login](https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 28 Jul 2026 20:11:36 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach](https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html)
+### 4. [JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach](https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 28 Jul 2026 19:03:47 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root](https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html)
+### 5. [Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root](https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 28 Jul 2026 18:26:14 +0530  
@@ -41,7 +50,7 @@
 
 ---
 
-### 5. [Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays](https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html)
+### 6. [Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays](https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 28 Jul 2026 17:25:20 +0530  
@@ -50,7 +59,7 @@
 
 ---
 
-### 6. [Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In](https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html)
+### 7. [Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In](https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 28 Jul 2026 13:41:22 +0530  
@@ -60,7 +69,7 @@
 
 ---
 
-### 7. [Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit](https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html)
+### 8. [Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit](https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 28 Jul 2026 13:34:44 +0530  
@@ -69,7 +78,7 @@
 
 ---
 
-### 8. [Microsoft Says New Cybersecurity AI Model Helps MDASH Score 95.95% at Half the Cost](https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html)
+### 9. [Microsoft Says New Cybersecurity AI Model Helps MDASH Score 95.95% at Half the Cost](https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 28 Jul 2026 11:37:22 +0530  
@@ -78,7 +87,7 @@
 
 ---
 
-### 9. [Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw](https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html)
+### 10. [Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw](https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 28 Jul 2026 10:13:53 +0530  
@@ -88,16 +97,44 @@
 
 ---
 
-### 10. [NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework](https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html)
+### 11. [CubePilot drone software dev hit by DNS hijacking to intercept traffic](https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/)
 
-**Source:** The Hacker News  
-**Published:** Mon, 27 Jul 2026 23:40:05 +0530  
-**Severity:** Low  
-**Categories:** General Security  
+**Source:** Bleeping Computer  
+**Published:** Tue, 28 Jul 2026 17:17:39 -0400  
+**Severity:** Critical  
+**Categories:** Malware, Phishing, APT  
 
 ---
 
-### 11. [Is Your SSO Protected Against Modern Credential Attacks?](https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/)
+### 12. [OpenAI models used Artifactory zero-days to escape to the internet](https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 28 Jul 2026 16:37:06 -0400  
+**Severity:** Critical  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 13. [CISA shares advice on isolating vital systems during cyberattacks](https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 28 Jul 2026 14:41:04 -0400  
+**Severity:** Critical  
+**Categories:** Ransomware  
+
+---
+
+### 14. [vBulletin fixes critical pre-auth RCE flaw with public exploit](https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 28 Jul 2026 14:08:50 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-61511  
+**Categories:** Vulnerability  
+
+---
+
+### 15. [Is Your SSO Protected Against Modern Credential Attacks?](https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 28 Jul 2026 10:00:10 -0400  
@@ -106,7 +143,7 @@
 
 ---
 
-### 12. [Over 24,000 exposed server BMCs leak password hash via decades-old flaw](https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/)
+### 16. [Over 24,000 exposed server BMCs leak password hash via decades-old flaw](https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 28 Jul 2026 08:10:23 -0400  
@@ -116,7 +153,7 @@
 
 ---
 
-### 13. [Data breach at medical billing firm MCBS affects 1.26 million people](https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/)
+### 17. [Data breach at medical billing firm MCBS affects 1.26 million people](https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 28 Jul 2026 05:10:03 -0400  
@@ -125,7 +162,7 @@
 
 ---
 
-### 14. [Hackers target US firms in FastJson RCE zero-day attacks](https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/)
+### 18. [Hackers target US firms in FastJson RCE zero-day attacks](https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 27 Jul 2026 19:49:44 -0400  
@@ -135,7 +172,7 @@
 
 ---
 
-### 15. [Arista patches VeloCloud Orchestrator zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/)
+### 19. [Arista patches VeloCloud Orchestrator zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 27 Jul 2026 18:49:44 -0400  
@@ -145,49 +182,12 @@
 
 ---
 
-### 16. [New Dysphoria DDoS botnet spreads to 200k devices worldwide](https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/)
+### 20. [New Dysphoria DDoS botnet spreads to 200k devices worldwide](https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 27 Jul 2026 17:08:15 -0400  
 **Severity:** Low  
 **Categories:** Malware, DDoS  
-
----
-
-### 17. [New Certighost PoC exploit lets attackers hijack Windows domains](https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 27 Jul 2026 17:00:25 -0400  
-**Severity:** Low  
-**CVEs:** CVE-2026-54121  
-**Categories:** Vulnerability  
-
----
-
-### 18. [Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin](https://www.bleepingcomputer.com/news/apple/apple-sued-over-fake-app-store-crypto-wallet-app-stealing-18m-in-bitcoin/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 27 Jul 2026 13:29:07 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 19. [Coca-Cola confirms data theft in Fairlife ransomware attack](https://www.bleepingcomputer.com/news/security/coca-cola-confirms-data-theft-in-fairlife-ransomware-attack/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 27 Jul 2026 11:39:51 -0400  
-**Severity:** Low  
-**Categories:** Ransomware  
-
----
-
-### 20. [Ernst & Young data breach claimed by ShinyHunters extortion gang](https://www.bleepingcomputer.com/news/security/ernst-and-young-data-breach-claimed-by-shinyhunters-extortion-gang/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 27 Jul 2026 11:12:27 -0400  
-**Severity:** Low  
-**Categories:** Data Breach, Supply Chain  
 
 ---
 
@@ -204,6 +204,9 @@
 
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-50661, CVE-2026-56155, CVE-2026-48561, CVE-2026-56164  
+**Categories:** Vulnerability, Malware  
 
 ---
 
@@ -211,6 +214,8 @@
 
 **Source:** Krebs On Security  
 **Published:** Mon, 13 Jul 2026 15:03:28 +0000  
+**Severity:** Low  
+**Categories:** Data Breach, Vulnerability  
 
 ---
 
@@ -218,6 +223,8 @@
 
 **Source:** Krebs On Security  
 **Published:** Wed, 08 Jul 2026 12:31:39 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability  
 
 ---
 
@@ -225,6 +232,8 @@
 
 **Source:** Krebs On Security  
 **Published:** Thu, 02 Jul 2026 19:27:33 +0000  
+**Severity:** Low  
+**Categories:** Malware, Supply Chain  
 
 ---
 
@@ -232,6 +241,8 @@
 
 **Source:** Krebs On Security  
 **Published:** Tue, 23 Jun 2026 16:12:49 +0000  
+**Severity:** High  
+**Categories:** Ransomware, Phishing  
 
 ---
 
@@ -239,6 +250,8 @@
 
 **Source:** Krebs On Security  
 **Published:** Thu, 18 Jun 2026 17:37:58 +0000  
+**Severity:** Low  
+**Categories:** Malware  
 
 ---
 
@@ -246,6 +259,8 @@
 
 **Source:** Krebs On Security  
 **Published:** Wed, 10 Jun 2026 14:03:44 +0000  
+**Severity:** Low  
+**Categories:** Ransomware, Vulnerability, Malware  
 
 ---
 
@@ -263,6 +278,8 @@
 
 **Source:** Krebs On Security  
 **Published:** Mon, 01 Jun 2026 17:32:50 +0000  
+**Severity:** High  
+**Categories:** Vulnerability  
 
 ---
 
@@ -354,7 +371,7 @@
 **Source:** Security Week  
 **Published:** Tue, 28 Jul 2026 06:40:36 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-42475, CVE-2024-21762, CVE-2023-27997, CVE-2025-68686, CVE-2026-16812  
+**CVEs:** CVE-2022-42475, CVE-2023-27997, CVE-2024-21762, CVE-2025-68686, CVE-2026-16812  
 **Categories:** Ransomware, Vulnerability  
 
 ---
@@ -427,7 +444,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Jul 2026 20:27:33 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50655, CVE-2026-55120, CVE-2026-55033, CVE-2026-55056, CVE-2026-55127, CVE-2026-56155, CVE-2026-58644, CVE-2026-56164, CVE-2026-55043, CVE-2026-50522, CVE-2026-55129, CVE-2026-55944, CVE-2026-55018, CVE-2026-55010, CVE-2026-55045, CVE-2026-55049, CVE-2026-55123, CVE-2026-55022, CVE-2026-50370, CVE-2026-54992, CVE-2026-56188, CVE-2026-55140, CVE-2026-55132, CVE-2026-50314, CVE-2026-50327, CVE-2026-50467, CVE-2026-50518, CVE-2026-54128  
+**CVEs:** CVE-2026-55129, CVE-2026-56164, CVE-2026-55045, CVE-2026-54992, CVE-2026-55033, CVE-2026-55123, CVE-2026-58644, CVE-2026-55132, CVE-2026-55140, CVE-2026-54128, CVE-2026-55127, CVE-2026-50655, CVE-2026-55043, CVE-2026-50370, CVE-2026-55010, CVE-2026-55120, CVE-2026-55049, CVE-2026-56188, CVE-2026-50327, CVE-2026-50522, CVE-2026-55944, CVE-2026-55022, CVE-2026-50314, CVE-2026-55056, CVE-2026-56155, CVE-2026-50518, CVE-2026-50467, CVE-2026-55018  
 **Categories:** Vulnerability  
 
 ---
@@ -620,7 +637,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
