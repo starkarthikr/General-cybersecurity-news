@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-30 02:47:14 UTC
+**Last Updated:** 2026-07-30 03:41:20 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -204,7 +204,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56164, CVE-2026-48561, CVE-2026-56155, CVE-2026-50661  
+**CVEs:** CVE-2026-56164, CVE-2026-56155, CVE-2026-48561, CVE-2026-50661  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -268,7 +268,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-45586, CVE-2026-50507, CVE-2026-49160  
+**CVEs:** CVE-2026-49160, CVE-2026-45586, CVE-2026-50507  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -314,7 +314,7 @@
 **Source:** Security Week  
 **Published:** Wed, 29 Jul 2026 11:42:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-59310, CVE-2026-41709, CVE-2026-59309, CVE-2026-41703, CVE-2026-47876  
+**CVEs:** CVE-2026-59310, CVE-2026-41709, CVE-2026-41703, CVE-2026-59309, CVE-2026-47876  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -351,7 +351,7 @@
 **Source:** Security Week  
 **Published:** Wed, 29 Jul 2026 08:46:30 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-66018, CVE-2026-65923, CVE-2026-65922, CVE-2026-65924, CVE-2026-65921, CVE-2026-65617, CVE-2026-66015, CVE-2026-66014, CVE-2026-65925  
+**CVEs:** CVE-2026-66018, CVE-2026-66014, CVE-2026-65922, CVE-2026-65925, CVE-2026-65617, CVE-2026-65923, CVE-2026-65924, CVE-2026-65921, CVE-2026-66015  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -442,7 +442,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Jul 2026 20:27:33 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56164, CVE-2026-55120, CVE-2026-55010, CVE-2026-55018, CVE-2026-55022, CVE-2026-50327, CVE-2026-56188, CVE-2026-50522, CVE-2026-55140, CVE-2026-55127, CVE-2026-55129, CVE-2026-54128, CVE-2026-50518, CVE-2026-55049, CVE-2026-50467, CVE-2026-55043, CVE-2026-55123, CVE-2026-54992, CVE-2026-50314, CVE-2026-55033, CVE-2026-55045, CVE-2026-50370, CVE-2026-58644, CVE-2026-55056, CVE-2026-50655, CVE-2026-55944, CVE-2026-55132, CVE-2026-56155  
+**CVEs:** CVE-2026-56155, CVE-2026-55056, CVE-2026-50518, CVE-2026-55049, CVE-2026-55022, CVE-2026-55944, CVE-2026-50522, CVE-2026-55132, CVE-2026-54992, CVE-2026-55123, CVE-2026-55018, CVE-2026-58644, CVE-2026-50467, CVE-2026-55120, CVE-2026-54128, CVE-2026-55033, CVE-2026-55140, CVE-2026-50655, CVE-2026-55010, CVE-2026-50370, CVE-2026-56164, CVE-2026-55043, CVE-2026-55045, CVE-2026-50327, CVE-2026-55127, CVE-2026-55129, CVE-2026-50314, CVE-2026-56188  
 **Categories:** Vulnerability  
 
 ---
@@ -635,7 +635,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -740,34 +740,7 @@
 
 ---
 
-### 81. [Inside Astaroth's New Spambot Component](https://www.crowdstrike.com/en-us/blog/inside-astaroths-new-spambot-component/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Jul 29, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 82. [Falcon Cloud Security July 2026 Release: Helping Security Teams Move Faster in the Cloud](https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-helping-security-teams-move-faster/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Jul 29, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 83. [Falcon Platform IOAs Arrive in Falcon Next-Gen SIEM to Identify New Threats](https://www.crowdstrike.com/en-us/blog/falcon-platform-ioas-arrive-in-falcon-next-gen-siem/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Jul 29, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 84. [5 High-Impact Use Cases for Falcon Onum](https://www.crowdstrike.com/en-us/blog/five-high-impact-use-cases-for-falcon-onum/)
+### 81. [5 High-Impact Use Cases for Falcon Onum](https://www.crowdstrike.com/en-us/blog/five-high-impact-use-cases-for-falcon-onum/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 27, 2026 00:00:00-0500  
@@ -776,7 +749,7 @@
 
 ---
 
-### 85. [CrowdStrike Joins the Open Secure AI Alliance to Advance AI Safety and Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-joins-the-open-secure-ai-alliance/)
+### 82. [CrowdStrike Joins the Open Secure AI Alliance to Advance AI Safety and Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-joins-the-open-secure-ai-alliance/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 27, 2026 00:00:00-0400  
@@ -785,7 +758,7 @@
 
 ---
 
-### 86. [CrowdStrike Falcon Platform Helps Meet U.S. Government Mandates for CISA BOD-26-04](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-helps-meet-us-government-mandates-cisa-bod-26-04/)
+### 83. [CrowdStrike Falcon Platform Helps Meet U.S. Government Mandates for CISA BOD-26-04](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-helps-meet-us-government-mandates-cisa-bod-26-04/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 22, 2026 00:00:00-0500  
@@ -794,7 +767,7 @@
 
 ---
 
-### 87. [Denying the Worm: Detecting SANDWORM_MODE and the Emerging Class of AI Toolchain Supply Chain Attacks](https://www.crowdstrike.com/en-us/blog/denying-the-worm-sandworm-mode-and-ai-toolchain-supply-chain-attacks/)
+### 84. [Denying the Worm: Detecting SANDWORM_MODE and the Emerging Class of AI Toolchain Supply Chain Attacks](https://www.crowdstrike.com/en-us/blog/denying-the-worm-sandworm-mode-and-ai-toolchain-supply-chain-attacks/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 21, 2026 00:00:00-0500  
@@ -803,7 +776,7 @@
 
 ---
 
-### 88. [Beyond the Model: Harnessing Frontier AI for Stronger Cyber Defense](https://www.crowdstrike.com/en-us/blog/harnessing-frontier-ai-for-stronger-defense/)
+### 85. [Beyond the Model: Harnessing Frontier AI for Stronger Cyber Defense](https://www.crowdstrike.com/en-us/blog/harnessing-frontier-ai-for-stronger-defense/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 20, 2026 00:00:00-0500  
@@ -812,7 +785,7 @@
 
 ---
 
-### 89. [AIDR: How CrowdStrike Is Defining the Next Era of Cybersecurity](https://www.crowdstrike.com/en-us/blog/aidr-how-crowdstrike-is-defining-next-era-of-cybersecurity/)
+### 86. [AIDR: How CrowdStrike Is Defining the Next Era of Cybersecurity](https://www.crowdstrike.com/en-us/blog/aidr-how-crowdstrike-is-defining-next-era-of-cybersecurity/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 15, 2026 00:00:00-0500  
@@ -821,12 +794,39 @@
 
 ---
 
-### 90. [July 2026 Patch Tuesday: Microsoft Patches 622 Vulnerabilities Including Two Exploited Zero-Days](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-july-2026/)
+### 87. [July 2026 Patch Tuesday: Microsoft Patches 622 Vulnerabilities Including Two Exploited Zero-Days](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-july-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 14, 2026 00:00:00-0500  
 **Severity:** Low  
 **Categories:** Vulnerability  
+
+---
+
+### 88. [Why AI Governance Without Guardrails Is Theater](https://www.crowdstrike.com/en-us/blog/why-ai-governance-without-guardrails-is-theater/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Jul 09, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 89. [Falcon Secure Access Sets the Standard for Zero Trust Browser Security](https://www.crowdstrike.com/en-us/blog/falcon-secure-access-sets-standard-for-zero-trust-security-browser/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Jul 08, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 90. [CrowdStrike Uncovers New Prompt Injection Techniques](https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-prompt-injection-techniques/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Jul 07, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** General Security  
 
 ---
 
