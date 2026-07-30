@@ -1,6 +1,82 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation",
+    "link": "https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html",
+    "published": "Thu, 30 Jul 2026 13:10:48 +0530",
+    "summary": "The Russian threat actors recently linked to the exploitation of a now-patched vulnerability in Zimbra have been observed exploiting another vulnerability, this time in Microsoft Outlook Web Access (OWA), to target U.S. and European government entities, as well as the telecommunications, financial, hospitality, and aerospace sectors.\n\nThe activity, which began on July 22, 2026, involves the",
+    "analysis": {
+      "issue": "Russian hackers exploit CVE-2026-42897 in OWA to deploy OWAReaper, a browser implant that persists through credential rotation and device re-imaging",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-42897"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks",
+    "link": "https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html",
+    "published": "Thu, 30 Jul 2026 12:58:43 +0530",
+    "summary": "The Federal Communications Commission (FCC) added foreign-produced mobile robots and networked power inverters to its Covered List on July 28. The move generally prevents new models from receiving the equipment authorization required for import, marketing, or sale in the US.\n\nPreviously authorized models can still be sold, and devices people already own are unaffected. Federal purchases and use",
+    "analysis": {
+      "issue": "FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks | Read more hacking news on The Hacker News cybersecurity news website and learn how to protect against cyberattacks and software vulnerabilities",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet",
+    "link": "https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html",
+    "published": "Thu, 30 Jul 2026 11:35:17 +0530",
+    "summary": "Amazon has tied the September 2025 hijack of the npm packages debug and chalk to North Korea. For ten months, the incident sat in the public record as crypto theft: a maintainer phished through a lookalike npm domain and a wallet-draining script pushed into at least 18 packages carrying more than 2 billion weekly downloads between them.\n\nThe original Aikido and Wiz reports did not attribute the",
+    "analysis": {
+      "issue": "Amazon links the 2025 debug and chalk npm hijack to Sapphire Sleet with medium confidence, but does not show which evidence ties the incident",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Medium",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data",
+    "link": "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html",
+    "published": "Thu, 30 Jul 2026 10:38:39 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a newly disclosed security flaw impacting Cisco Secure Firewall Management Center (FMC) Software to its Known Exploited Vulnerabilities (KEV) catalog, following reports of zero-day exploitation.\n\nThe vulnerability, assigned CVE-2026-20316 (CVSS score: 5.3), could permit an unauthenticated, remote attacker to log",
+    "analysis": {
+      "issue": "Cisco FMC flaw CVE-2026-20316 is under active exploitation, letting unauthenticated attackers use static credentials to access sensitive data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-20316"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
     "link": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
     "published": "Wed, 29 Jul 2026 23:40:00 +0530",
@@ -112,82 +188,6 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser",
-    "link": "https://thehackernews.com/2026/07/researchers-show-single-malicious.html",
-    "published": "Wed, 29 Jul 2026 17:27:00 +0530",
-    "summary": "Nebula Security says a patched Firefox JIT flaw could be triggered by simply visiting a malicious webpage and was also used to compromise Tor Browser.\n\nTracked as CVE-2026-10702, the bug provides arbitrary code execution inside the browser's renderer process. Mozilla rated it High and fixed it in the Firefox 151.0.3 update.\n\n\"No settings or additional user interaction are required,\" Eten Zou,",
-    "analysis": {
-      "issue": "Nebula says CVE-2026-10702 lets a malicious webpage compromise Tor Browser and start an Android 17 root chain",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-10702"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "73% of Organizations Say They Are Not Fully Ready for a Major Cyberattack",
-    "link": "https://thehackernews.com/2026/07/73-of-organizations-say-they-are-not.html",
-    "published": "Wed, 29 Jul 2026 16:43:10 +0530",
-    "summary": "Most organizations have incident response plans, security tools, and technical teams in place. Yet new research suggests that many still lack the coordination, visibility, and executive alignment needed to withstand a serious cyberattack.\n\nAccording to The State of Incident Response Readiness 2026, based on a survey of 600 senior IT security decision makers conducted by Vanson Bourne in January",
-    "analysis": {
-      "issue": "A 2026 survey of 600 security leaders finds 73% of organizations are not fully ready for a major cyberattack, despite widespread planning",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Russia Charges Telegram Founder Pavel Durov With Aiding Terrorist Activity",
-    "link": "https://thehackernews.com/2026/07/russia-charges-telegram-founder-pavel.html",
-    "published": "Wed, 29 Jul 2026 16:30:00 +0530",
-    "summary": "The Federal Security Service of the Russian Federation (FSB) on Wednesday said it charged Telegram founder Pavel Durov for allegedly facilitating terrorist activities and for failing to remove prohibited information in violation of Russian law.\n\nThe principal security agency said the instant messaging platform \"failed to remove numerous channels, chats, and bots on the platform that are",
-    "analysis": {
-      "issue": "Russia charges Telegram founder Pavel Durov with aiding terrorist activity over channels it says were used to plan sabotage and terrorism",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass",
-    "link": "https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html",
-    "published": "Wed, 29 Jul 2026 14:28:27 +0530",
-    "summary": "Cybersecurity researchers have shared additional technical details about a recently patched critical security flaw impacting Check Point Security Management Server and Multi-Domain Security Management Server (MDS) that has come under active exploitation in the wild.\n\nThe vulnerability, tracked as CVE-2026-16232 (CVSS score: 9.3), is an authentication bypass in the SmartConsole login process that",
-    "analysis": {
-      "issue": "CVE-2026-16232 bypasses SmartConsole authentication, letting remote attackers gain full administrator access; Check Point patched it July 22",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-16232"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
     "title": "Russian hackers exploit Exchange OWA zero-day for long-term mailbox access",
     "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
@@ -200,8 +200,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-66376",
-        "CVE-2026-42897"
+        "CVE-2026-42897",
+        "CVE-2025-66376"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -407,10 +407,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56164",
-        "CVE-2026-56155",
         "CVE-2026-48561",
-        "CVE-2026-50661"
+        "CVE-2026-50661",
+        "CVE-2026-56155",
+        "CVE-2026-56164"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -544,9 +544,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-49160",
+        "CVE-2026-50507",
         "CVE-2026-45586",
-        "CVE-2026-50507"
+        "CVE-2026-49160"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -567,6 +567,102 @@
       "timeline": null,
       "severity": "High",
       "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Critical Ruflo Flaw Lets Attackers Spawn Rogue AI Swarms",
+    "link": "https://www.securityweek.com/critical-ruflo-flaw-lets-attackers-spawn-rogue-ai-swarms/",
+    "published": "Thu, 30 Jul 2026 09:56:10 +0000",
+    "summary": "<p>Unauthenticated attackers could send HTTP requests to an exposed endpoint to execute commands inside the MCP bridge container.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-ruflo-flaw-lets-attackers-spawn-rogue-ai-swarms/\">Critical Ruflo Flaw Lets Attackers Spawn Rogue AI Swarms </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Unauthenticated attackers could send HTTP requests to an exposed endpoint to execute commands inside the MCP bridge container",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-59726"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "1 in 5 Data Center Assets Are Within Easy Reach of Attackers",
+    "link": "https://www.securityweek.com/1-in-5-data-center-assets-are-within-easy-reach-of-attackers/",
+    "published": "Thu, 30 Jul 2026 09:28:37 +0000",
+    "summary": "<p>Claroty has analyzed 750,000 cyber-physical systems across some of the world’s largest data center facilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/1-in-5-data-center-assets-are-within-easy-reach-of-attackers/\">1 in 5 Data Center Assets Are Within Easy Reach of Attackers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Claroty has analyzed 750,000 cyber-physical systems across some of the world’s largest data center facilities",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "US and Allies Update SBOM Guidance",
+    "link": "https://www.securityweek.com/us-and-allies-update-sbom-guidance/",
+    "published": "Thu, 30 Jul 2026 08:21:19 +0000",
+    "summary": "<p>Five years after the initial release, the refresh introduces new elements, removes others, and updates terminology.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-and-allies-update-sbom-guidance/\">US and Allies Update SBOM Guidance</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Five years after the initial release, the refresh introduces new elements, removes others, and updates terminology",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Chrome 151 Patches 370 Vulnerabilities",
+    "link": "https://www.securityweek.com/chrome-151-patches-370-vulnerabilities/",
+    "published": "Thu, 30 Jul 2026 07:51:24 +0000",
+    "summary": "<p>The major browser update resolves roughly 80 critical- and high-severity security defects.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-151-patches-370-vulnerabilities/\">Chrome 151 Patches 370 Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The major browser update resolves roughly 80 critical- and high-severity security defects",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Cisco Secure FMC Zero-Day Exploited in the Wild",
+    "link": "https://www.securityweek.com/cisco-secure-fmc-zero-day-exploited-in-the-wild/",
+    "published": "Thu, 30 Jul 2026 06:31:31 +0000",
+    "summary": "<p>The vulnerability tracked as CVE-2026-20316 can be exploited by a remote, unauthenticated attacker to log into affected devices. </p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-secure-fmc-zero-day-exploited-in-the-wild/\">Cisco Secure FMC Zero-Day Exploited in the Wild</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The vulnerability tracked as CVE-2026-20316 can be exploited by a remote, unauthenticated attacker to log into affected devices",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-20316",
+        "CVE-2026-20079"
+      ],
       "threat_categories": [
         "Vulnerability"
       ]
@@ -639,11 +735,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-47876",
+        "CVE-2026-41703",
         "CVE-2026-59310",
         "CVE-2026-41709",
-        "CVE-2026-41703",
-        "CVE-2026-59309",
-        "CVE-2026-47876"
+        "CVE-2026-59309"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -670,106 +766,20 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "OpenAI’s Rogue AI Ventured Beyond Hugging Face",
-    "link": "https://www.securityweek.com/openais-rogue-ai-ventured-beyond-hugging-face/",
-    "published": "Wed, 29 Jul 2026 10:10:09 +0000",
-    "summary": "<p>Hugging Face has published an anatomy of the attack and OpenAI has shared additional information from its investigation.</p>\n<p>The post <a href=\"https://www.securityweek.com/openais-rogue-ai-ventured-beyond-hugging-face/\">OpenAI&#8217;s Rogue AI Ventured Beyond Hugging Face</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "source": "Talos Blog",
+    "title": "Black Hat special: Rewind and revisit",
+    "link": "https://blog.talosintelligence.com/black-hat-special-rewind-and-revisit/",
+    "published": "Thu, 30 Jul 2026 10:00:08 GMT",
+    "summary": "Amy looks back at the incredible journeys that brought past guests to the world of threat intelligence.",
     "analysis": {
-      "issue": "Hugging Face has published an anatomy of the attack and OpenAI has shared additional information from its investigation",
+      "issue": "Cybersecurity is rarely a straight line",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Spur Raises $200 Million for IP Intelligence Platform",
-    "link": "https://www.securityweek.com/spur-raises-200-million-for-ip-intelligence-platform/",
-    "published": "Wed, 29 Jul 2026 09:12:19 +0000",
-    "summary": "<p>The IP intelligence company will use the fresh investment to accelerate and scale its operations.</p>\n<p>The post <a href=\"https://www.securityweek.com/spur-raises-200-million-for-ip-intelligence-platform/\">Spur Raises $200 Million for IP Intelligence Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The IP intelligence company will use the fresh investment to accelerate and scale its operations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
+      "severity": "Low",
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "JFrog Zero-Days Exploited in OpenAI-Hugging Face Hack",
-    "link": "https://www.securityweek.com/jfrog-zero-days-exploited-in-openai-hugging-face-hack/",
-    "published": "Wed, 29 Jul 2026 08:46:30 +0000",
-    "summary": "<p>The OpenAI models targeted services beyond Hugging Face as they attempted to solve the tasks they were given.</p>\n<p>The post <a href=\"https://www.securityweek.com/jfrog-zero-days-exploited-in-openai-hugging-face-hack/\">JFrog Zero-Days Exploited in OpenAI-Hugging Face Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The OpenAI models targeted services beyond Hugging Face as they attempted to solve the tasks they were given",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-66018",
-        "CVE-2026-66014",
-        "CVE-2026-65922",
-        "CVE-2026-65925",
-        "CVE-2026-65617",
-        "CVE-2026-65923",
-        "CVE-2026-65924",
-        "CVE-2026-65921",
-        "CVE-2026-66015"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Dozens of Minnesota Water Utilities Targeted in Coordinated OT Attacks",
-    "link": "https://www.securityweek.com/dozens-of-minnesota-water-utilities-targeted-in-coordinated-ot-attacks/",
-    "published": "Wed, 29 Jul 2026 07:53:22 +0000",
-    "summary": "<p>State and federal agencies respond after intrusions disrupt automated controls at municipal water and wastewater utilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/dozens-of-minnesota-water-utilities-targeted-in-coordinated-ot-attacks/\">Dozens of Minnesota Water Utilities Targeted in Coordinated OT Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "State and federal agencies respond after intrusions disrupt automated controls at municipal water and wastewater utilities",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "ShinyHunters Claims Ernst & Young Hack",
-    "link": "https://www.securityweek.com/shinyhunters-claims-ernst-young-hack/",
-    "published": "Wed, 29 Jul 2026 06:23:34 +0000",
-    "summary": "<p>Ernst &#038; Young previously confirmed that personal and financial information was stolen from a third-party management platform.</p>\n<p>The post <a href=\"https://www.securityweek.com/shinyhunters-claims-ernst-young-hack/\">ShinyHunters Claims Ernst &#038; Young Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Ernst & Young previously confirmed that personal and financial information was stolen from a third-party management platform",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Supply Chain"
       ]
     }
   },
@@ -917,34 +927,34 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56155",
-        "CVE-2026-55056",
         "CVE-2026-50518",
-        "CVE-2026-55049",
-        "CVE-2026-55022",
-        "CVE-2026-55944",
-        "CVE-2026-50522",
-        "CVE-2026-55132",
-        "CVE-2026-54992",
-        "CVE-2026-55123",
-        "CVE-2026-55018",
-        "CVE-2026-58644",
-        "CVE-2026-50467",
-        "CVE-2026-55120",
-        "CVE-2026-54128",
-        "CVE-2026-55033",
-        "CVE-2026-55140",
-        "CVE-2026-50655",
-        "CVE-2026-55010",
-        "CVE-2026-50370",
-        "CVE-2026-56164",
-        "CVE-2026-55043",
-        "CVE-2026-55045",
         "CVE-2026-50327",
+        "CVE-2026-54992",
+        "CVE-2026-50655",
+        "CVE-2026-54128",
+        "CVE-2026-55056",
+        "CVE-2026-55033",
+        "CVE-2026-55022",
+        "CVE-2026-55140",
+        "CVE-2026-58644",
+        "CVE-2026-55049",
+        "CVE-2026-55043",
+        "CVE-2026-55010",
         "CVE-2026-55127",
+        "CVE-2026-55944",
+        "CVE-2026-56164",
+        "CVE-2026-55132",
         "CVE-2026-55129",
+        "CVE-2026-50522",
         "CVE-2026-50314",
-        "CVE-2026-56188"
+        "CVE-2026-50467",
+        "CVE-2026-56188",
+        "CVE-2026-55045",
+        "CVE-2026-55123",
+        "CVE-2026-56155",
+        "CVE-2026-55120",
+        "CVE-2026-55018",
+        "CVE-2026-50370"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -968,25 +978,6 @@
         "Vulnerability",
         "Malware",
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "The serpent’s tongue: Luring the Python out of its den",
-    "link": "https://blog.talosintelligence.com/the-serpents-tongue-luring-the-python-out-of-its-den/",
-    "published": "Tue, 14 Jul 2026 10:00:06 GMT",
-    "summary": "This blog examines the full lifecycle of a Python package, from hosting on repositories such as PyPI or custom web servers, through source and wheel distribution formats, to the final installation into virtual or system-wide Python environments.",
-    "analysis": {
-      "issue": "Due to the friendly nature of its syntax, extensive capabilities, and wide range of libraries, Python’s adoption by the developer community has been steadily increasing",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Supply Chain"
       ]
     }
   },
@@ -1337,8 +1328,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1549,6 +1540,60 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "Inside Astaroth's New Spambot Component",
+    "link": "https://www.crowdstrike.com/en-us/blog/inside-astaroths-new-spambot-component/",
+    "published": "Jul 29, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "Learn about the new Astaroth spambot component, how it overlaps with other spambots, and its role in the LATAM eCrime ecosystem",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
+    "title": "Falcon Cloud Security July 2026 Release: Helping Security Teams Move Faster in the Cloud",
+    "link": "https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-helping-security-teams-move-faster/",
+    "published": "Jul 29, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "Recent Falcon Cloud Security updates include stronger infrastructure-as-code security, streamlined cloud identity investigations, and expanded agentless workload visibility",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
+    "title": "Falcon Platform IOAs Arrive in Falcon Next-Gen SIEM to Identify New Threats",
+    "link": "https://www.crowdstrike.com/en-us/blog/falcon-platform-ioas-arrive-in-falcon-next-gen-siem/",
+    "published": "Jul 29, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "Falcon Platform IOAs automatically deliver CrowdStrike-managed detections based on the latest threat intel",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "5 High-Impact Use Cases for Falcon Onum",
     "link": "https://www.crowdstrike.com/en-us/blog/five-high-impact-use-cases-for-falcon-onum/",
     "published": "Jul 27, 2026 00:00:00-0500",
@@ -1670,60 +1715,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "Why AI Governance Without Guardrails Is Theater",
-    "link": "https://www.crowdstrike.com/en-us/blog/why-ai-governance-without-guardrails-is-theater/",
-    "published": "Jul 09, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "Learn how to address the widening gap between AI usage and AI governance with scalable visibility and enforcement",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "Falcon Secure Access Sets the Standard for Zero Trust Browser Security",
-    "link": "https://www.crowdstrike.com/en-us/blog/falcon-secure-access-sets-standard-for-zero-trust-security-browser/",
-    "published": "Jul 08, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "Frost & Sullivan names CrowdStrike the 2026 Global Enabling Technology Leader in Zero Trust Browser Security",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Uncovers New Prompt Injection Techniques",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-prompt-injection-techniques/",
-    "published": "Jul 07, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "CrowdStrike expands its prompt injection taxonomy to 200+ techniques, revealing new AI attack methods to help security teams defend AI agents and LLMs",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   }

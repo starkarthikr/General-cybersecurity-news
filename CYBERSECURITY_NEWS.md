@@ -1,10 +1,48 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-30 03:41:20 UTC
+**Last Updated:** 2026-07-30 10:38:25 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads](https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html)
+### 1. [Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation](https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 30 Jul 2026 13:10:48 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-42897  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks](https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 30 Jul 2026 12:58:43 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet](https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 30 Jul 2026 11:35:17 +0530  
+**Severity:** Medium  
+**Categories:** General Security  
+
+---
+
+### 4. [Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data](https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 30 Jul 2026 10:38:39 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-20316  
+**Categories:** Vulnerability  
+
+---
+
+### 5. [Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads](https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 29 Jul 2026 23:40:00 +0530  
@@ -14,7 +52,7 @@
 
 ---
 
-### 2. [Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory](https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html)
+### 6. [Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory](https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 29 Jul 2026 21:09:30 +0530  
@@ -24,7 +62,7 @@
 
 ---
 
-### 3. [Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape](https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html)
+### 7. [Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape](https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 29 Jul 2026 21:01:15 +0530  
@@ -33,7 +71,7 @@
 
 ---
 
-### 4. [Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline](https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html)
+### 8. [Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline](https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 29 Jul 2026 19:18:36 +0530  
@@ -42,7 +80,7 @@
 
 ---
 
-### 5. [Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments](https://thehackernews.com/2026/07/nine-year-fraud-campaign.html)
+### 9. [Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments](https://thehackernews.com/2026/07/nine-year-fraud-campaign.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 29 Jul 2026 19:12:57 +0530  
@@ -51,7 +89,7 @@
 
 ---
 
-### 6. [Mythos Asks the Right Question. It Doesn't Answer It.](https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html)
+### 10. [Mythos Asks the Right Question. It Doesn't Answer It.](https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 29 Jul 2026 17:45:00 +0530  
@@ -60,50 +98,12 @@
 
 ---
 
-### 7. [Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser](https://thehackernews.com/2026/07/researchers-show-single-malicious.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 29 Jul 2026 17:27:00 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-10702  
-**Categories:** Vulnerability  
-
----
-
-### 8. [73% of Organizations Say They Are Not Fully Ready for a Major Cyberattack](https://thehackernews.com/2026/07/73-of-organizations-say-they-are-not.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 29 Jul 2026 16:43:10 +0530  
-**Severity:** High  
-**Categories:** General Security  
-
----
-
-### 9. [Russia Charges Telegram Founder Pavel Durov With Aiding Terrorist Activity](https://thehackernews.com/2026/07/russia-charges-telegram-founder-pavel.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 29 Jul 2026 16:30:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass](https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 29 Jul 2026 14:28:27 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-16232  
-**Categories:** Vulnerability  
-
----
-
 ### 11. [Russian hackers exploit Exchange OWA zero-day for long-term mailbox access](https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 29 Jul 2026 19:44:07 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2025-66376, CVE-2026-42897  
+**CVEs:** CVE-2026-42897, CVE-2025-66376  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -204,7 +204,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56164, CVE-2026-56155, CVE-2026-48561, CVE-2026-50661  
+**CVEs:** CVE-2026-48561, CVE-2026-50661, CVE-2026-56155, CVE-2026-56164  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -268,7 +268,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-49160, CVE-2026-45586, CVE-2026-50507  
+**CVEs:** CVE-2026-50507, CVE-2026-45586, CVE-2026-49160  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -282,7 +282,54 @@
 
 ---
 
-### 31. [US Bans Foreign-Made Humanoid Robots, Targeting China Over National Security](https://www.securityweek.com/us-bans-foreign-made-humanoid-robots-targeting-china-over-national-security/)
+### 31. [Critical Ruflo Flaw Lets Attackers Spawn Rogue AI Swarms](https://www.securityweek.com/critical-ruflo-flaw-lets-attackers-spawn-rogue-ai-swarms/)
+
+**Source:** Security Week  
+**Published:** Thu, 30 Jul 2026 09:56:10 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-59726  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 32. [1 in 5 Data Center Assets Are Within Easy Reach of Attackers](https://www.securityweek.com/1-in-5-data-center-assets-are-within-easy-reach-of-attackers/)
+
+**Source:** Security Week  
+**Published:** Thu, 30 Jul 2026 09:28:37 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 33. [US and Allies Update SBOM Guidance](https://www.securityweek.com/us-and-allies-update-sbom-guidance/)
+
+**Source:** Security Week  
+**Published:** Thu, 30 Jul 2026 08:21:19 +0000  
+**Severity:** Critical  
+**Categories:** Supply Chain  
+
+---
+
+### 34. [Chrome 151 Patches 370 Vulnerabilities](https://www.securityweek.com/chrome-151-patches-370-vulnerabilities/)
+
+**Source:** Security Week  
+**Published:** Thu, 30 Jul 2026 07:51:24 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 35. [Cisco Secure FMC Zero-Day Exploited in the Wild](https://www.securityweek.com/cisco-secure-fmc-zero-day-exploited-in-the-wild/)
+
+**Source:** Security Week  
+**Published:** Thu, 30 Jul 2026 06:31:31 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-20316, CVE-2026-20079  
+**Categories:** Vulnerability  
+
+---
+
+### 36. [US Bans Foreign-Made Humanoid Robots, Targeting China Over National Security](https://www.securityweek.com/us-bans-foreign-made-humanoid-robots-targeting-china-over-national-security/)
 
 **Source:** Security Week  
 **Published:** Wed, 29 Jul 2026 13:31:00 +0000  
@@ -291,7 +338,7 @@
 
 ---
 
-### 32. [Mate Security Raises $35 Million for Agentic SOC](https://www.securityweek.com/mate-security-raises-35-million-for-agentic-soc/)
+### 37. [Mate Security Raises $35 Million for Agentic SOC](https://www.securityweek.com/mate-security-raises-35-million-for-agentic-soc/)
 
 **Source:** Security Week  
 **Published:** Wed, 29 Jul 2026 12:47:13 +0000  
@@ -300,7 +347,7 @@
 
 ---
 
-### 33. [ThreatLocker Raises $190 Million in Series F Funding](https://www.securityweek.com/threatlocker-raises-190-million-in-series-f-funding/)
+### 38. [ThreatLocker Raises $190 Million in Series F Funding](https://www.securityweek.com/threatlocker-raises-190-million-in-series-f-funding/)
 
 **Source:** Security Week  
 **Published:** Wed, 29 Jul 2026 12:17:14 +0000  
@@ -309,17 +356,17 @@
 
 ---
 
-### 34. [Critical VM Escape Vulnerability Patched in VMware ESXi](https://www.securityweek.com/critical-vm-escape-vulnerability-patched-in-vmware-esxi/)
+### 39. [Critical VM Escape Vulnerability Patched in VMware ESXi](https://www.securityweek.com/critical-vm-escape-vulnerability-patched-in-vmware-esxi/)
 
 **Source:** Security Week  
 **Published:** Wed, 29 Jul 2026 11:42:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-59310, CVE-2026-41709, CVE-2026-41703, CVE-2026-59309, CVE-2026-47876  
+**CVEs:** CVE-2026-47876, CVE-2026-41703, CVE-2026-59310, CVE-2026-41709, CVE-2026-59309  
 **Categories:** Vulnerability, APT  
 
 ---
 
-### 35. [US, Australia Release OT Isolation Guidance for Critical Infrastructure](https://www.securityweek.com/us-australia-release-ot-isolation-guidance-for-critical-infrastructure/)
+### 40. [US, Australia Release OT Isolation Guidance for Critical Infrastructure](https://www.securityweek.com/us-australia-release-ot-isolation-guidance-for-critical-infrastructure/)
 
 **Source:** Security Week  
 **Published:** Wed, 29 Jul 2026 10:58:44 +0000  
@@ -328,53 +375,16 @@
 
 ---
 
-### 36. [OpenAI’s Rogue AI Ventured Beyond Hugging Face](https://www.securityweek.com/openais-rogue-ai-ventured-beyond-hugging-face/)
+### 41. [Black Hat special: Rewind and revisit](https://blog.talosintelligence.com/black-hat-special-rewind-and-revisit/)
 
-**Source:** Security Week  
-**Published:** Wed, 29 Jul 2026 10:10:09 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, APT  
-
----
-
-### 37. [Spur Raises $200 Million for IP Intelligence Platform](https://www.securityweek.com/spur-raises-200-million-for-ip-intelligence-platform/)
-
-**Source:** Security Week  
-**Published:** Wed, 29 Jul 2026 09:12:19 +0000  
-**Severity:** Critical  
+**Source:** Talos Blog  
+**Published:** Thu, 30 Jul 2026 10:00:08 GMT  
+**Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 38. [JFrog Zero-Days Exploited in OpenAI-Hugging Face Hack](https://www.securityweek.com/jfrog-zero-days-exploited-in-openai-hugging-face-hack/)
-
-**Source:** Security Week  
-**Published:** Wed, 29 Jul 2026 08:46:30 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-66018, CVE-2026-66014, CVE-2026-65922, CVE-2026-65925, CVE-2026-65617, CVE-2026-65923, CVE-2026-65924, CVE-2026-65921, CVE-2026-66015  
-**Categories:** Vulnerability, Supply Chain  
-
----
-
-### 39. [Dozens of Minnesota Water Utilities Targeted in Coordinated OT Attacks](https://www.securityweek.com/dozens-of-minnesota-water-utilities-targeted-in-coordinated-ot-attacks/)
-
-**Source:** Security Week  
-**Published:** Wed, 29 Jul 2026 07:53:22 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 40. [ShinyHunters Claims Ernst & Young Hack](https://www.securityweek.com/shinyhunters-claims-ernst-young-hack/)
-
-**Source:** Security Week  
-**Published:** Wed, 29 Jul 2026 06:23:34 +0000  
-**Severity:** High  
-**Categories:** Ransomware, Data Breach, Supply Chain  
-
----
-
-### 41. [IR Trends Q2 2026: Phishing and weaponized remote management tools drive attack chains](https://blog.talosintelligence.com/ir-trends-q2-2026/)
+### 42. [IR Trends Q2 2026: Phishing and weaponized remote management tools drive attack chains](https://blog.talosintelligence.com/ir-trends-q2-2026/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 28 Jul 2026 10:00:01 GMT  
@@ -383,7 +393,7 @@
 
 ---
 
-### 42. [Don’t swing at everything](https://blog.talosintelligence.com/dont-swing-at-everything/)
+### 43. [Don’t swing at everything](https://blog.talosintelligence.com/dont-swing-at-everything/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 23 Jul 2026 18:00:46 GMT  
@@ -392,7 +402,7 @@
 
 ---
 
-### 43. [Chaos ransomware's msaRAT: Living off the browser to build a covert C2 channel](https://blog.talosintelligence.com/chaos-msarat-living-off-the-browser-to-build-covert-c2-channel/)
+### 44. [Chaos ransomware's msaRAT: Living off the browser to build a covert C2 channel](https://blog.talosintelligence.com/chaos-msarat-living-off-the-browser-to-build-covert-c2-channel/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 23 Jul 2026 10:00:38 GMT  
@@ -401,7 +411,7 @@
 
 ---
 
-### 44. [Preview: Cisco Talos at Black Hat USA 2026](https://blog.talosintelligence.com/preview-cisco-talos-at-black-hat-usa-2026/)
+### 45. [Preview: Cisco Talos at Black Hat USA 2026](https://blog.talosintelligence.com/preview-cisco-talos-at-black-hat-usa-2026/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 23 Jul 2026 10:00:14 GMT  
@@ -410,7 +420,7 @@
 
 ---
 
-### 45. [Begun, the Patch Wars have](https://blog.talosintelligence.com/begun-the-patch-wars-have/)
+### 46. [Begun, the Patch Wars have](https://blog.talosintelligence.com/begun-the-patch-wars-have/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 16 Jul 2026 18:00:50 GMT  
@@ -419,7 +429,7 @@
 
 ---
 
-### 46. [The Hunter's Paradox: Is it time to embrace automated threat hunting?](https://blog.talosintelligence.com/the-hunters-paradox-is-it-time-to-embrace-automated-threat-hunting/)
+### 47. [The Hunter's Paradox: Is it time to embrace automated threat hunting?](https://blog.talosintelligence.com/the-hunters-paradox-is-it-time-to-embrace-automated-threat-hunting/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 16 Jul 2026 10:00:07 GMT  
@@ -428,7 +438,7 @@
 
 ---
 
-### 47. [UAT-11795 deploys novel Starland RAT and bespoke WLDR C2 implant in financially motivated campaign](https://blog.talosintelligence.com/uat-11795-deploys-novel-starland-rat-and-bespoke-wldr-c2-implant-in-financially-motivated-campaign/)
+### 48. [UAT-11795 deploys novel Starland RAT and bespoke WLDR C2 implant in financially motivated campaign](https://blog.talosintelligence.com/uat-11795-deploys-novel-starland-rat-and-bespoke-wldr-c2-implant-in-financially-motivated-campaign/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 16 Jul 2026 10:00:01 GMT  
@@ -437,31 +447,22 @@
 
 ---
 
-### 48. [Microsoft Patch Tuesday for July 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-july-2026/)
+### 49. [Microsoft Patch Tuesday for July 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-july-2026/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 14 Jul 2026 20:27:33 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56155, CVE-2026-55056, CVE-2026-50518, CVE-2026-55049, CVE-2026-55022, CVE-2026-55944, CVE-2026-50522, CVE-2026-55132, CVE-2026-54992, CVE-2026-55123, CVE-2026-55018, CVE-2026-58644, CVE-2026-50467, CVE-2026-55120, CVE-2026-54128, CVE-2026-55033, CVE-2026-55140, CVE-2026-50655, CVE-2026-55010, CVE-2026-50370, CVE-2026-56164, CVE-2026-55043, CVE-2026-55045, CVE-2026-50327, CVE-2026-55127, CVE-2026-55129, CVE-2026-50314, CVE-2026-56188  
+**CVEs:** CVE-2026-50518, CVE-2026-50327, CVE-2026-54992, CVE-2026-50655, CVE-2026-54128, CVE-2026-55056, CVE-2026-55033, CVE-2026-55022, CVE-2026-55140, CVE-2026-58644, CVE-2026-55049, CVE-2026-55043, CVE-2026-55010, CVE-2026-55127, CVE-2026-55944, CVE-2026-56164, CVE-2026-55132, CVE-2026-55129, CVE-2026-50522, CVE-2026-50314, CVE-2026-50467, CVE-2026-56188, CVE-2026-55045, CVE-2026-55123, CVE-2026-56155, CVE-2026-55120, CVE-2026-55018, CVE-2026-50370  
 **Categories:** Vulnerability  
 
 ---
 
-### 49. [[Video] Where protection starts: Cisco Talos Intelligence Integrations](https://blog.talosintelligence.com/video-where-protection-starts-cisco-talos-intelligence-integrations/)
+### 50. [[Video] Where protection starts: Cisco Talos Intelligence Integrations](https://blog.talosintelligence.com/video-where-protection-starts-cisco-talos-intelligence-integrations/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 14 Jul 2026 10:47:18 GMT  
 **Severity:** Low  
 **Categories:** Vulnerability, Malware, APT  
-
----
-
-### 50. [The serpent’s tongue: Luring the Python out of its den](https://blog.talosintelligence.com/the-serpents-tongue-luring-the-python-out-of-its-den/)
-
-**Source:** Talos Blog  
-**Published:** Tue, 14 Jul 2026 10:00:06 GMT  
-**Severity:** High  
-**Categories:** Malware, Supply Chain  
 
 ---
 
@@ -635,7 +636,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -740,7 +741,34 @@
 
 ---
 
-### 81. [5 High-Impact Use Cases for Falcon Onum](https://www.crowdstrike.com/en-us/blog/five-high-impact-use-cases-for-falcon-onum/)
+### 81. [Inside Astaroth's New Spambot Component](https://www.crowdstrike.com/en-us/blog/inside-astaroths-new-spambot-component/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Jul 29, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 82. [Falcon Cloud Security July 2026 Release: Helping Security Teams Move Faster in the Cloud](https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-helping-security-teams-move-faster/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Jul 29, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 83. [Falcon Platform IOAs Arrive in Falcon Next-Gen SIEM to Identify New Threats](https://www.crowdstrike.com/en-us/blog/falcon-platform-ioas-arrive-in-falcon-next-gen-siem/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Jul 29, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 84. [5 High-Impact Use Cases for Falcon Onum](https://www.crowdstrike.com/en-us/blog/five-high-impact-use-cases-for-falcon-onum/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 27, 2026 00:00:00-0500  
@@ -749,7 +777,7 @@
 
 ---
 
-### 82. [CrowdStrike Joins the Open Secure AI Alliance to Advance AI Safety and Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-joins-the-open-secure-ai-alliance/)
+### 85. [CrowdStrike Joins the Open Secure AI Alliance to Advance AI Safety and Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-joins-the-open-secure-ai-alliance/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 27, 2026 00:00:00-0400  
@@ -758,7 +786,7 @@
 
 ---
 
-### 83. [CrowdStrike Falcon Platform Helps Meet U.S. Government Mandates for CISA BOD-26-04](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-helps-meet-us-government-mandates-cisa-bod-26-04/)
+### 86. [CrowdStrike Falcon Platform Helps Meet U.S. Government Mandates for CISA BOD-26-04](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-helps-meet-us-government-mandates-cisa-bod-26-04/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 22, 2026 00:00:00-0500  
@@ -767,7 +795,7 @@
 
 ---
 
-### 84. [Denying the Worm: Detecting SANDWORM_MODE and the Emerging Class of AI Toolchain Supply Chain Attacks](https://www.crowdstrike.com/en-us/blog/denying-the-worm-sandworm-mode-and-ai-toolchain-supply-chain-attacks/)
+### 87. [Denying the Worm: Detecting SANDWORM_MODE and the Emerging Class of AI Toolchain Supply Chain Attacks](https://www.crowdstrike.com/en-us/blog/denying-the-worm-sandworm-mode-and-ai-toolchain-supply-chain-attacks/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 21, 2026 00:00:00-0500  
@@ -776,7 +804,7 @@
 
 ---
 
-### 85. [Beyond the Model: Harnessing Frontier AI for Stronger Cyber Defense](https://www.crowdstrike.com/en-us/blog/harnessing-frontier-ai-for-stronger-defense/)
+### 88. [Beyond the Model: Harnessing Frontier AI for Stronger Cyber Defense](https://www.crowdstrike.com/en-us/blog/harnessing-frontier-ai-for-stronger-defense/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 20, 2026 00:00:00-0500  
@@ -785,7 +813,7 @@
 
 ---
 
-### 86. [AIDR: How CrowdStrike Is Defining the Next Era of Cybersecurity](https://www.crowdstrike.com/en-us/blog/aidr-how-crowdstrike-is-defining-next-era-of-cybersecurity/)
+### 89. [AIDR: How CrowdStrike Is Defining the Next Era of Cybersecurity](https://www.crowdstrike.com/en-us/blog/aidr-how-crowdstrike-is-defining-next-era-of-cybersecurity/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 15, 2026 00:00:00-0500  
@@ -794,39 +822,12 @@
 
 ---
 
-### 87. [July 2026 Patch Tuesday: Microsoft Patches 622 Vulnerabilities Including Two Exploited Zero-Days](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-july-2026/)
+### 90. [July 2026 Patch Tuesday: Microsoft Patches 622 Vulnerabilities Including Two Exploited Zero-Days](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-july-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 14, 2026 00:00:00-0500  
 **Severity:** Low  
 **Categories:** Vulnerability  
-
----
-
-### 88. [Why AI Governance Without Guardrails Is Theater](https://www.crowdstrike.com/en-us/blog/why-ai-governance-without-guardrails-is-theater/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Jul 09, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 89. [Falcon Secure Access Sets the Standard for Zero Trust Browser Security](https://www.crowdstrike.com/en-us/blog/falcon-secure-access-sets-standard-for-zero-trust-security-browser/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Jul 08, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 90. [CrowdStrike Uncovers New Prompt Injection Techniques](https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-prompt-injection-techniques/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Jul 07, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
