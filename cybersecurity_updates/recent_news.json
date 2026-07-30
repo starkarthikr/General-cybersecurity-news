@@ -1,6 +1,26 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
+    "link": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
+    "published": "Wed, 29 Jul 2026 23:40:00 +0530",
+    "summary": "Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads.\n\nTracked as CVE-2026-66066 (CVSS score: 9.5), the flaw can expose the Rails process environment and secrets such as secret_key_base, the Rails master key, database passwords, cloud storage credentials,",
+    "analysis": {
+      "issue": "CVE-2026-66066 could expose Rails server files through image uploads, leaking secrets that may enable RCE or lateral movement",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-66066"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
     "link": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
     "published": "Wed, 29 Jul 2026 21:09:30 +0530",
@@ -168,20 +188,80 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach",
-    "link": "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html",
-    "published": "Wed, 29 Jul 2026 13:21:00 +0530",
-    "summary": "OpenAI on Tuesday revealed the rogue artificial intelligence (AI) agent that escaped its sealed evaluation environment and broke into Hugging Face's production environment also hacked multiple third-party accounts and services as part of the attack.\n\nThe latest disclosure shows that the security incident, which stemmed from an internal security test, was more extensive in scope than previously",
+    "source": "Bleeping Computer",
+    "title": "Russian hackers exploit Exchange OWA zero-day for long-term mailbox access",
+    "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
+    "published": "Wed, 29 Jul 2026 19:44:07 -0400",
+    "summary": "The Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is exploiting an Exchange Outlook Web Access vulnerability in email campaigns to deliver a sophisticated backdoor called OWAReaper. [...]",
     "analysis": {
-      "issue": "An OpenAI agent exploited an Artifactory zero-day, escaped its sandbox, and accessed four third-party accounts during a Hugging Face breach",
+      "issue": "The Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is exploiting an Exchange Outlook Web Access vulnerability in email campaigns to deliver a sophisticated backdoor called OWAReaper",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
-      "cves": [],
+      "cves": [
+        "CVE-2025-66376",
+        "CVE-2026-42897"
+      ],
       "threat_categories": [
         "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Anthropic confirms Claude is down worldwide",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/",
+    "published": "Wed, 29 Jul 2026 17:39:29 -0400",
+    "summary": "Claude is down for some users, with Anthropic confirming elevated errors across multiple AI models. The disruption is causing requests to fail with a \"529 Overloaded\" message, including in Claude and tools that rely on its API. [...]",
+    "analysis": {
+      "issue": "Claude is down for some users, with Anthropic confirming elevated errors across multiple AI models",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Cisco warns of FMC static credential flaw exploited in zero-day attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/",
+    "published": "Wed, 29 Jul 2026 17:35:40 -0400",
+    "summary": "Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to vulnerable devices. [...]",
+    "analysis": {
+      "issue": "Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to vulnerable devices",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-20316"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Health-ISAC warns of rising ShinyHunters data theft attacks on healthcare",
+    "link": "https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/",
+    "published": "Wed, 29 Jul 2026 13:54:05 -0400",
+    "summary": "Health-ISAC, a cybersecurity information-sharing organization for the health sector, is warning healthcare and medical technology organizations of an observed increase in successful attacks by ShinyHunters. [...]",
+    "analysis": {
+      "issue": "Health-ISAC, a cybersecurity information-sharing organization for the health sector, is warning healthcare and medical technology organizations of an observed increase in successful attacks by ShinyHunters",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing",
         "Supply Chain"
       ]
     }
@@ -297,81 +377,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "OpenAI models used Artifactory zero-days to escape to the internet",
-    "link": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
-    "published": "Tue, 28 Jul 2026 16:37:06 -0400",
-    "summary": "JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing environment and gain access to the internet before attacking Hugging Face. [...]",
-    "analysis": {
-      "issue": "JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing environment and gain access to the internet before attacking Hugging Face",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA shares advice on isolating vital systems during cyberattacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/",
-    "published": "Tue, 28 Jul 2026 14:41:04 -0400",
-    "summary": "The U.S. and Australian governments have released new guidance urging critical infrastructure organizations to prepare to isolate vital operational technology systems in the event of a cyberattack or other major disruptions. [...]",
-    "analysis": {
-      "issue": "and Australian governments have released new guidance urging critical infrastructure organizations to prepare to isolate vital operational technology systems in the event of a cyberattack or other major disruptions",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
-    "link": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
-    "published": "Tue, 28 Jul 2026 14:08:50 -0400",
-    "summary": "A critical vulnerability in the vBulletin forum software allows unauthenticated attackers to execute arbitrary PHP code through template rendering. [...]",
-    "analysis": {
-      "issue": "A critical vulnerability in the vBulletin forum software allows unauthenticated attackers to execute arbitrary PHP code through template rendering",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-61511"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Is Your SSO Protected Against Modern Credential Attacks?",
-    "link": "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/",
-    "published": "Tue, 28 Jul 2026 10:00:10 -0400",
-    "summary": "A compromised SSO login can provide attackers with access to multiple enterprise applications and services. Specops Software explains how stronger passwords, phishing-resistant MFA, and identity hardening help secure modern SSO environments and the applications they protect. [...]",
-    "analysis": {
-      "issue": "Single sign on (SSO) simplifies access by letting users log into multiple systems with one set of credentials",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "LG to Ban Residential Proxies from Smart TV Apps",
     "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
@@ -402,10 +407,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-56164",
         "CVE-2026-48561",
         "CVE-2026-56155",
-        "CVE-2026-50661",
-        "CVE-2026-56164"
+        "CVE-2026-50661"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -539,8 +544,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50507",
         "CVE-2026-45586",
+        "CVE-2026-50507",
         "CVE-2026-49160"
       ],
       "threat_categories": [
@@ -634,11 +639,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-59309",
         "CVE-2026-59310",
         "CVE-2026-41709",
-        "CVE-2026-47876",
-        "CVE-2026-41703"
+        "CVE-2026-59309",
+        "CVE-2026-41703",
+        "CVE-2026-47876"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -715,14 +720,14 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-66018",
-        "CVE-2026-65921",
         "CVE-2026-65923",
-        "CVE-2026-65925",
+        "CVE-2026-65922",
         "CVE-2026-65924",
-        "CVE-2026-66015",
+        "CVE-2026-65921",
         "CVE-2026-65617",
+        "CVE-2026-66015",
         "CVE-2026-66014",
-        "CVE-2026-65922"
+        "CVE-2026-65925"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -912,34 +917,34 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50370",
-        "CVE-2026-55045",
-        "CVE-2026-55056",
+        "CVE-2026-56164",
+        "CVE-2026-55120",
+        "CVE-2026-55010",
+        "CVE-2026-55018",
+        "CVE-2026-55022",
+        "CVE-2026-50327",
         "CVE-2026-56188",
-        "CVE-2026-50314",
+        "CVE-2026-50522",
+        "CVE-2026-55140",
+        "CVE-2026-55127",
         "CVE-2026-55129",
         "CVE-2026-54128",
         "CVE-2026-50518",
-        "CVE-2026-55140",
-        "CVE-2026-56155",
-        "CVE-2026-55127",
-        "CVE-2026-50655",
-        "CVE-2026-50522",
-        "CVE-2026-55022",
         "CVE-2026-55049",
-        "CVE-2026-56164",
-        "CVE-2026-50327",
-        "CVE-2026-55132",
-        "CVE-2026-55018",
-        "CVE-2026-55120",
+        "CVE-2026-50467",
         "CVE-2026-55043",
-        "CVE-2026-54992",
-        "CVE-2026-55010",
-        "CVE-2026-55033",
         "CVE-2026-55123",
+        "CVE-2026-54992",
+        "CVE-2026-50314",
+        "CVE-2026-55033",
+        "CVE-2026-55045",
+        "CVE-2026-50370",
         "CVE-2026-58644",
+        "CVE-2026-55056",
+        "CVE-2026-50655",
         "CVE-2026-55944",
-        "CVE-2026-50467"
+        "CVE-2026-55132",
+        "CVE-2026-56155"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -982,6 +987,24 @@
       "threat_categories": [
         "Malware",
         "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "Dealing with AI-Generated Extortion",
+    "link": "https://www.recordedfuture.com/blog/ai-generated-extortion",
+    "published": "Thu, 30 Jul 2026 00:00:00 GMT",
+    "summary": "Combat AI-generated extortion and fake ransomware leaks. Learn how organizations can verify data authenticity using robust governance and threat intelligence.",
+    "analysis": {
+      "issue": "Combat AI-generated extortion and fake ransomware leaks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
       ]
     }
   },
@@ -1141,24 +1164,6 @@
       "cause": null,
       "timeline": null,
       "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "RiskX interview video featuring Colin Mahony and Mastercard's Aditi Sawhney",
-    "link": "https://www.recordedfuture.com/blog/riskx-interview-payment-fraud",
-    "published": "Thu, 09 Jul 2026 00:00:00 GMT",
-    "summary": "Recorded Future CEO Colin Mahony and Mastercard’s Aditi Sawhney discuss the convergence of cyber and financial crime. Explore how Payment Fraud helps teams move from reactive fraud models to proactive, pre-monetization disruption.",
-    "analysis": {
-      "issue": "Recorded Future CEO Colin Mahony and Mastercard’s Aditi Sawhney discuss the convergence of cyber and financial crime",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
       "cves": [],
       "threat_categories": [
         "General Security"
@@ -1332,8 +1337,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1358,6 +1363,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Apple accused of letting fake crypto app steal $1.8 million",
+    "link": "https://www.malwarebytes.com/blog/news/2026/07/apple-accused-of-letting-fake-crypto-app-steal-1-8-million",
+    "published": "Wed, 29 Jul 2026 22:30:40 GMT",
+    "summary": "The case raises fresh questions about how effectively Apple polices apps that impersonate legitimate developers.",
+    "analysis": {
+      "issue": "Apple’s tagline for its App Store says, “The apps you love",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1525,22 +1548,56 @@
     }
   },
   {
-    "source": "Malwarebytes",
-    "title": "Sextortion scammers are exploiting ShinyHunters data leaks",
-    "link": "https://www.malwarebytes.com/blog/scams/2026/07/sextortion-scammers-are-exploiting-shinyhunters-data-leaks",
-    "published": "Mon, 27 Jul 2026 15:00:23 GMT",
-    "summary": "Scammers are posing as ShinyHunters and using leaked email addresses to make their sextortion emails seem more credible.",
+    "source": "Crowdstrike Blog",
+    "title": "Inside Astaroth's New Spambot Component",
+    "link": "https://www.crowdstrike.com/en-us/blog/inside-astaroths-new-spambot-component/",
+    "published": "Jul 29, 2026 00:00:00-0500",
+    "summary": "",
     "analysis": {
-      "issue": "Sextortion scammers are using email addresses from data leaked by the ShinyHunters hacking group to add some credibility to their feeble attempts to convince people they have embarrassing information about them",
+      "issue": "Learn about the new Astaroth spambot component, how it overlaps with other spambots, and its role in the LATAM eCrime ecosystem",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Data Breach",
-        "Vulnerability",
-        "Malware"
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
+    "title": "Falcon Cloud Security July 2026 Release: Helping Security Teams Move Faster in the Cloud",
+    "link": "https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-helping-security-teams-move-faster/",
+    "published": "Jul 29, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "Recent Falcon Cloud Security updates include stronger infrastructure-as-code security, streamlined cloud identity investigations, and expanded agentless workload visibility",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
+    "title": "Falcon Platform IOAs Arrive in Falcon Next-Gen SIEM to Identify New Threats",
+    "link": "https://www.crowdstrike.com/en-us/blog/falcon-platform-ioas-arrive-in-falcon-next-gen-siem/",
+    "published": "Jul 29, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "Falcon Platform IOAs automatically deliver CrowdStrike-managed detections based on the latest threat intel",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1667,60 +1724,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "Why AI Governance Without Guardrails Is Theater",
-    "link": "https://www.crowdstrike.com/en-us/blog/why-ai-governance-without-guardrails-is-theater/",
-    "published": "Jul 09, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "Learn how to address the widening gap between AI usage and AI governance with scalable visibility and enforcement",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "Falcon Secure Access Sets the Standard for Zero Trust Browser Security",
-    "link": "https://www.crowdstrike.com/en-us/blog/falcon-secure-access-sets-standard-for-zero-trust-security-browser/",
-    "published": "Jul 08, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "Frost & Sullivan names CrowdStrike the 2026 Global Enabling Technology Leader in Zero Trust Browser Security",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Uncovers New Prompt Injection Techniques",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-prompt-injection-techniques/",
-    "published": "Jul 07, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "CrowdStrike expands its prompt injection taxonomy to 200+ techniques, revealing new AI attack methods to help security teams defend AI agents and LLMs",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   }
