@@ -1,6 +1,43 @@
 [
   {
     "source": "The Hacker News",
+    "title": "ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories",
+    "link": "https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html",
+    "published": "Thu, 30 Jul 2026 20:55:57 +0530",
+    "summary": "A lot of security still comes down to trusting the wrong screen.\n\nThis week, that screen might be a login page, an install guide, a recruiter call, or a familiar service behaving slightly wrong. Behind it: reused credentials, exposed systems, quiet loaders, abused trust, and exploit paths that should have been harder.\n\nSome defenses improved. The loose parts still got found first. Anyway,",
+    "analysis": {
+      "issue": "Autonomous AI attacks, SonicWall credential stuffing, DNS hijacking, fake Claude malware, Chrome flaws, phishing campaigns, and more security news",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database",
+    "link": "https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html",
+    "published": "Thu, 30 Jul 2026 19:04:09 +0530",
+    "summary": "A now-patched vulnerability in Azure Cosmos DB could have let an attacker escape the service's Gremlin query sandbox and obtain full read and write access to databases across customer tenants, according to Wiz.\n\nWiz, which codenamed the chain CosmosEscape, said the exploit chain began with a crafted query against a Gremlin database controlled by the attacker. From there, code execution on a",
+    "analysis": {
+      "issue": "Azure Cosmos DB's Gremlin flaw let Wiz escape the sandbox and retrieve an account key",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents",
     "link": "https://thehackernews.com/2026/07/microsoft-copilot-for-word-can-copy.html",
     "published": "Thu, 30 Jul 2026 17:24:49 +0530",
@@ -149,42 +186,75 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
-    "link": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
-    "published": "Wed, 29 Jul 2026 23:40:00 +0530",
-    "summary": "Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads.\n\nTracked as CVE-2026-66066 (CVSS score: 9.5), the flaw can expose the Rails process environment and secrets such as secret_key_base, the Rails master key, database passwords, cloud storage credentials,",
+    "source": "Bleeping Computer",
+    "title": "Google says AI helped Chrome fix 1,072 security bugs in two releases",
+    "link": "https://www.bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases/",
+    "published": "Thu, 30 Jul 2026 13:00:00 -0400",
+    "summary": "Google says artificial intelligence is dramatically increasing the number of security vulnerabilities it can find and fix in Chrome, with more than 1,000 security bugs patched across the browser's two most recent releases as it expands its use of AI. [...]",
     "analysis": {
-      "issue": "CVE-2026-66066 could expose Rails server files through image uploads, leaking secrets that may enable RCE or lateral movement",
+      "issue": "Google says artificial intelligence is dramatically increasing the number of security vulnerabilities it can find and fix in Chrome, with more than 1,000 security bugs patched across the browser's two most recent releases as it expands its use of AI",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [
-        "CVE-2026-66066"
-      ],
+      "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "Vulnerability",
+        "APT"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
-    "link": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
-    "published": "Wed, 29 Jul 2026 21:09:30 +0530",
-    "summary": "Cybersecurity researchers have flagged a maximum-severity security flaw in Ruflo, an open-source agent meta-harness for Anthropic Claude Code and OpenAI Codex, that could result in unauthenticated remote code execution.\n\nThe vulnerability, tracked as CVE-2026-59726 (CVSS score: 10.0), impacts all versions of the project before version 3.16.3. It has been codenamed RufRoot by Noma Security's",
+    "source": "Bleeping Computer",
+    "title": "ShinyHunters claims Brinks Home breach, threatens to leak stolen data",
+    "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/",
+    "published": "Thu, 30 Jul 2026 12:46:15 -0400",
+    "summary": "Residential security company Brinks Home has disclosed that hackers breached some of its systems and are threatening to leak allegedly stolen data. [...]",
     "analysis": {
-      "issue": "Ruflo CVE-2026-59726 exposes an unauthenticated MCP bridge that could enable RCE, LLM key theft, conversation access, and AI memory poisoning",
+      "issue": "Residential security company Brinks Home has disclosed that hackers breached some of its systems and are threatening to leak allegedly stolen data",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [
-        "CVE-2026-59726"
-      ],
+      "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft Teams vishing attacks lead to Chaos ransomware attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-vishing-attacks-lead-to-chaos-ransomware-attacks/",
+    "published": "Thu, 30 Jul 2026 11:56:33 -0400",
+    "summary": "Threat actors are impersonating IT support staff in Microsoft Teams calls to gain remote access to corporate devices and deploy Chaos ransomware in attacks targeting North American organizations. [...]",
+    "analysis": {
+      "issue": "Threat actors are impersonating IT support staff in Microsoft Teams calls to gain remote access to corporate devices and deploy Chaos ransomware in attacks targeting North American organizations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Analog Devices discloses data breach, says operations unaffected",
+    "link": "https://www.bleepingcomputer.com/news/security/analog-devices-discloses-data-breach-says-operations-unaffected/",
+    "published": "Thu, 30 Jul 2026 11:12:25 -0400",
+    "summary": "American semiconductor company Analog Devices announced that an unauthorized party accessed some of its systems and exfiltrated certain files. [...]",
+    "analysis": {
+      "issue": "American semiconductor company Analog Devices announced that an unauthorized party accessed some of its systems and exfiltrated certain files",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
       ]
     }
   },
@@ -306,74 +376,20 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Hackers disrupt over 30 Minnesota water utilities in coordinated OT attack",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/",
-    "published": "Wed, 29 Jul 2026 10:55:57 -0400",
-    "summary": "The Minnesota IT Services (MNIT) agency activated its cybersecurity incident response capabilities across the entire state after hackers targeted more than 30 community water systems in \"a coordinated cyberattack.\" [...]",
+    "source": "Krebs On Security",
+    "title": "Read This Before You Buy That TV Streaming Stick",
+    "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+    "published": "Thu, 30 Jul 2026 16:49:00 +0000",
+    "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a groundbreaking new analysis finds these devices also routinely spoof themselves as mobile phones clicking ads on AI-generated websites as part of sprawling operation that seeks to defraud online merchants and advertising networks.",
     "analysis": {
-      "issue": "The Minnesota IT Services (MNIT) agency activated its cybersecurity incident response capabilities across the entire state after hackers targeted more than 30 community water systems in “a coordinated cyberattack",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Your AI Agents Are Guessing at Scale: Permissions Decide the Damage",
-    "link": "https://www.bleepingcomputer.com/news/security/your-ai-agents-are-guessing-at-scale-permissions-decide-the-damage/",
-    "published": "Wed, 29 Jul 2026 10:02:12 -0400",
-    "summary": "AI agents are designed to improvise as they complete tasks, making broad permissions a growing security risk. Token Security explains why identity, intent-based access controls, and least privilege are becoming the foundation for securing agentic AI. [...]",
-    "analysis": {
-      "issue": "Watch an agent work through a task, and you’ll see the future of enterprise security",
+      "issue": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user’s Internet connection out to strangers",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Windows 11 KB5101684 update released with 42 changes and fixes",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101684-update-released-with-42-changes-and-fixes/",
-    "published": "Wed, 29 Jul 2026 09:56:22 -0400",
-    "summary": "​​Microsoft has released the KB5101684 preview cumulative update for Windows 11 24H2 and 25H2, which 42 bug fixes and additional feature improvements for the operating system. [...]",
-    "analysis": {
-      "issue": "​​Microsoft has released the KB5101684 preview cumulative update for Windows 11 24H2 and 25H2, which 42 bug fixes and additional feature improvements for the operating system",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "These near-mint ASUS Chromebook refurbs are only $145",
-    "link": "https://www.bleepingcomputer.com/news/security/these-near-mint-asus-chromebook-refurbs-are-only-145/",
-    "published": "Wed, 29 Jul 2026 07:12:19 -0400",
-    "summary": "Buying a new computer in 2026 is a unique experience. Rather than deal with incredibly high tech prices, more shoppers are opting for high-quality refurbished tech. This ASUS Chromebook CM30 refurb is in near-mint condition with a grade \"A\" rating, but it still only costs $144.97 (reg. $369.99) on sale. [...]",
-    "analysis": {
-      "issue": "Buying a new computer in 2026 is a unique experience",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "APT"
+        "Malware"
       ]
     }
   },
@@ -408,9 +424,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56155",
-        "CVE-2026-48561",
         "CVE-2026-50661",
+        "CVE-2026-48561",
+        "CVE-2026-56155",
         "CVE-2026-56164"
       ],
       "threat_categories": [
@@ -545,8 +561,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-45586",
         "CVE-2026-49160",
+        "CVE-2026-45586",
         "CVE-2026-50507"
       ],
       "threat_categories": [
@@ -556,20 +572,20 @@
     }
   },
   {
-    "source": "Krebs On Security",
-    "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
-    "link": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
-    "published": "Mon, 01 Jun 2026 17:32:50 +0000",
-    "summary": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U.S. Space Force were briefly defaced with pro-Iranian images and messages over the weekend, after instructions began circulating on Telegram showing how to trick Meta's \"AI support assistant\" bot into resetting account passwords.",
+    "source": "Security Week",
+    "title": "Timeless Compliance: Why Better Questions Beat Bigger Frameworks",
+    "link": "https://www.securityweek.com/timeless-compliance-why-better-questions-beat-bigger-frameworks/",
+    "published": "Thu, 30 Jul 2026 15:46:17 +0000",
+    "summary": "<p>The best compliance programs aren't the biggest ones. They're the ones built on a short list of questions that can actually be answered, and that still hold true when the models change.</p>\n<p>The post <a href=\"https://www.securityweek.com/timeless-compliance-why-better-questions-beat-bigger-frameworks/\">Timeless Compliance: Why Better Questions Beat Bigger Frameworks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
-      "issue": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U",
+      "issue": "The best compliance programs aren’t the biggest ones",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "High",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "Supply Chain"
       ]
     }
   },
@@ -744,24 +760,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Chrome 151 Patches 370 Vulnerabilities",
-    "link": "https://www.securityweek.com/chrome-151-patches-370-vulnerabilities/",
-    "published": "Thu, 30 Jul 2026 07:51:24 +0000",
-    "summary": "<p>The major browser update resolves roughly 80 critical- and high-severity security defects.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-151-patches-370-vulnerabilities/\">Chrome 151 Patches 370 Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The major browser update resolves roughly 80 critical- and high-severity security defects",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Black Hat special: Rewind and revisit",
     "link": "https://blog.talosintelligence.com/black-hat-special-rewind-and-revisit/",
@@ -923,34 +921,34 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-54128",
-        "CVE-2026-55022",
-        "CVE-2026-55129",
-        "CVE-2026-50522",
-        "CVE-2026-50314",
-        "CVE-2026-55140",
-        "CVE-2026-55033",
-        "CVE-2026-50518",
-        "CVE-2026-56188",
-        "CVE-2026-50467",
-        "CVE-2026-55045",
-        "CVE-2026-50327",
-        "CVE-2026-55049",
-        "CVE-2026-58644",
-        "CVE-2026-56164",
         "CVE-2026-55127",
-        "CVE-2026-55010",
+        "CVE-2026-55022",
+        "CVE-2026-58644",
+        "CVE-2026-55018",
+        "CVE-2026-55033",
+        "CVE-2026-56155",
         "CVE-2026-55043",
+        "CVE-2026-50518",
+        "CVE-2026-55120",
+        "CVE-2026-54128",
+        "CVE-2026-55056",
+        "CVE-2026-55123",
+        "CVE-2026-55045",
+        "CVE-2026-50467",
+        "CVE-2026-56188",
+        "CVE-2026-55140",
+        "CVE-2026-50370",
+        "CVE-2026-56164",
+        "CVE-2026-55944",
         "CVE-2026-54992",
         "CVE-2026-55132",
-        "CVE-2026-55120",
-        "CVE-2026-55123",
-        "CVE-2026-55018",
-        "CVE-2026-50370",
-        "CVE-2026-56155",
-        "CVE-2026-55944",
-        "CVE-2026-55056",
-        "CVE-2026-50655"
+        "CVE-2026-50655",
+        "CVE-2026-55049",
+        "CVE-2026-50314",
+        "CVE-2026-50327",
+        "CVE-2026-55010",
+        "CVE-2026-55129",
+        "CVE-2026-50522"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1355,6 +1353,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Malwarebytes for Windows, now available on the Microsoft Store",
+    "link": "https://www.malwarebytes.com/blog/product/2026/07/malwarebytes-for-windows-now-available-on-the-microsoft-store",
+    "published": "Thu, 30 Jul 2026 16:01:11 GMT",
+    "summary": "Install Malwarebytes for Windows from the Microsoft Store with the same full protection and features.",
+    "analysis": {
+      "issue": "When you’re setting up a new PC or looking for an app you already know, the Microsoft Store is often the easiest place to start",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Hims &amp; Hers sued over alleged health data privacy failures",
     "link": "https://www.malwarebytes.com/blog/privacy/2026/07/hims-hers-sued-over-alleged-health-data-privacy-failures",
     "published": "Thu, 30 Jul 2026 13:58:10 GMT",
@@ -1507,24 +1523,6 @@
     "summary": "Reddit users found that by using a specific search query, they could find shared Claude conversations in search results.",
     "analysis": {
       "issue": "Reddit users found that by using a specific Google search query, it was possible to find Claude conversations that users had shared",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Update your iPhone, iPad and Mac to fix Apple security holes",
-    "link": "https://www.malwarebytes.com/blog/news/2026/07/july-apple-updates-are-especially-important-if-you-receive-images",
-    "published": "Tue, 28 Jul 2026 11:35:40 GMT",
-    "summary": "Apple issued a large July security update with several image processing related vulnerabilities that could compromise your device.",
-    "analysis": {
-      "issue": "Apple has shipped a hefty round of July security patches, headlined by iOS/iPadOS 26",
       "solution": null,
       "cause": null,
       "timeline": null,

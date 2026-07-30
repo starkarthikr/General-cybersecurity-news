@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-30 14:16:00 UTC
+**Last Updated:** 2026-07-30 17:57:17 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents](https://thehackernews.com/2026/07/microsoft-copilot-for-word-can-copy.html)
+### 1. [ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories](https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 30 Jul 2026 20:55:57 +0530  
+**Severity:** Low  
+**Categories:** Malware, Phishing  
+
+---
+
+### 2. [Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database](https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 30 Jul 2026 19:04:09 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents](https://thehackernews.com/2026/07/microsoft-copilot-for-word-can-copy.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 30 Jul 2026 17:24:49 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [The Network Has Become the Control Plane for AI Security](https://thehackernews.com/2026/07/the-network-has-become-control-plane.html)
+### 4. [The Network Has Become the Control Plane for AI Security](https://thehackernews.com/2026/07/the-network-has-become-control-plane.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 30 Jul 2026 17:02:46 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts](https://thehackernews.com/2026/07/hackers-exploit-anysign4pc-via-hacked.html)
+### 5. [Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts](https://thehackernews.com/2026/07/hackers-exploit-anysign4pc-via-hacked.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 30 Jul 2026 16:03:15 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT](https://thehackernews.com/2026/07/silverfox-targets-japanese-manufacturer.html)
+### 6. [SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT](https://thehackernews.com/2026/07/silverfox-targets-japanese-manufacturer.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 30 Jul 2026 16:02:59 +0530  
@@ -40,7 +58,7 @@
 
 ---
 
-### 5. [Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation](https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html)
+### 7. [Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation](https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 30 Jul 2026 13:10:48 +0530  
@@ -50,7 +68,7 @@
 
 ---
 
-### 6. [FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks](https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html)
+### 8. [FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks](https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 30 Jul 2026 12:58:43 +0530  
@@ -59,7 +77,7 @@
 
 ---
 
-### 7. [Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet](https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html)
+### 9. [Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet](https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 30 Jul 2026 11:35:17 +0530  
@@ -68,7 +86,7 @@
 
 ---
 
-### 8. [Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data](https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html)
+### 10. [Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data](https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 30 Jul 2026 10:38:39 +0530  
@@ -78,27 +96,43 @@
 
 ---
 
-### 9. [Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads](https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html)
+### 11. [Google says AI helped Chrome fix 1,072 security bugs in two releases](https://www.bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 29 Jul 2026 23:40:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 30 Jul 2026 13:00:00 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2026-66066  
-**Categories:** Vulnerability  
+**Categories:** Vulnerability, APT  
 
 ---
 
-### 10. [Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory](https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html)
+### 12. [ShinyHunters claims Brinks Home breach, threatens to leak stolen data](https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 29 Jul 2026 21:09:30 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 30 Jul 2026 12:46:15 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2026-59726  
-**Categories:** Vulnerability  
+**Categories:** General Security  
 
 ---
 
-### 11. [After the Break-In: What Attackers Do Once They're Already Inside](https://www.bleepingcomputer.com/news/security/after-the-break-in-what-attackers-do-once-theyre-already-inside/)
+### 13. [Microsoft Teams vishing attacks lead to Chaos ransomware attacks](https://www.bleepingcomputer.com/news/security/microsoft-teams-vishing-attacks-lead-to-chaos-ransomware-attacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 30 Jul 2026 11:56:33 -0400  
+**Severity:** Low  
+**Categories:** Ransomware  
+
+---
+
+### 14. [Analog Devices discloses data breach, says operations unaffected](https://www.bleepingcomputer.com/news/security/analog-devices-discloses-data-breach-says-operations-unaffected/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 30 Jul 2026 11:12:25 -0400  
+**Severity:** Low  
+**Categories:** Data Breach  
+
+---
+
+### 15. [After the Break-In: What Attackers Do Once They're Already Inside](https://www.bleepingcomputer.com/news/security/after-the-break-in-what-attackers-do-once-theyre-already-inside/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 30 Jul 2026 10:01:11 -0400  
@@ -107,7 +141,7 @@
 
 ---
 
-### 12. [Russian hackers exploit Exchange OWA zero-day for long-term mailbox access](https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/)
+### 16. [Russian hackers exploit Exchange OWA zero-day for long-term mailbox access](https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 29 Jul 2026 19:44:07 -0400  
@@ -117,7 +151,7 @@
 
 ---
 
-### 13. [Anthropic confirms Claude is down worldwide](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/)
+### 17. [Anthropic confirms Claude is down worldwide](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 29 Jul 2026 17:39:29 -0400  
@@ -126,7 +160,7 @@
 
 ---
 
-### 14. [Cisco warns of FMC static credential flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/)
+### 18. [Cisco warns of FMC static credential flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 29 Jul 2026 17:35:40 -0400  
@@ -136,7 +170,7 @@
 
 ---
 
-### 15. [Health-ISAC warns of rising ShinyHunters data theft attacks on healthcare](https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/)
+### 19. [Health-ISAC warns of rising ShinyHunters data theft attacks on healthcare](https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 29 Jul 2026 13:54:05 -0400  
@@ -145,7 +179,7 @@
 
 ---
 
-### 16. [OpenAI agent used exposed credentials at 4 services in Hugging Face breach](https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/)
+### 20. [OpenAI agent used exposed credentials at 4 services in Hugging Face breach](https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 29 Jul 2026 12:04:59 -0400  
@@ -154,43 +188,16 @@
 
 ---
 
-### 17. [Hackers disrupt over 30 Minnesota water utilities in coordinated OT attack](https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/)
+### 21. [Read This Before You Buy That TV Streaming Stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/)
 
-**Source:** Bleeping Computer  
-**Published:** Wed, 29 Jul 2026 10:55:57 -0400  
-**Severity:** Critical  
-**Categories:** General Security  
-
----
-
-### 18. [Your AI Agents Are Guessing at Scale: Permissions Decide the Damage](https://www.bleepingcomputer.com/news/security/your-ai-agents-are-guessing-at-scale-permissions-decide-the-damage/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 29 Jul 2026 10:02:12 -0400  
+**Source:** Krebs On Security  
+**Published:** Thu, 30 Jul 2026 16:49:00 +0000  
 **Severity:** Low  
-**Categories:** APT  
+**Categories:** Malware  
 
 ---
 
-### 19. [Windows 11 KB5101684 update released with 42 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101684-update-released-with-42-changes-and-fixes/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 29 Jul 2026 09:56:22 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [These near-mint ASUS Chromebook refurbs are only $145](https://www.bleepingcomputer.com/news/security/these-near-mint-asus-chromebook-refurbs-are-only-145/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 29 Jul 2026 07:12:19 -0400  
-**Severity:** High  
-**Categories:** APT  
-
----
-
-### 21. [LG to Ban Residential Proxies from Smart TV Apps](https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/)
+### 22. [LG to Ban Residential Proxies from Smart TV Apps](https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 22 Jul 2026 01:10:38 +0000  
@@ -199,17 +206,17 @@
 
 ---
 
-### 22. [Microsoft Patches a Record 570 Security Flaws](https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/)
+### 23. [Microsoft Patches a Record 570 Security Flaws](https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56155, CVE-2026-48561, CVE-2026-50661, CVE-2026-56164  
+**CVEs:** CVE-2026-50661, CVE-2026-48561, CVE-2026-56155, CVE-2026-56164  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 23. [Lessons Learned from CISA’s Recent GitHub Leak](https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/)
+### 24. [Lessons Learned from CISA’s Recent GitHub Leak](https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 13 Jul 2026 15:03:28 +0000  
@@ -218,7 +225,7 @@
 
 ---
 
-### 24. [Felons, Fraudsters Flog Offensive Cybersecurity Startup](https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/)
+### 25. [Felons, Fraudsters Flog Offensive Cybersecurity Startup](https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 08 Jul 2026 12:31:39 +0000  
@@ -227,7 +234,7 @@
 
 ---
 
-### 25. [FBI Seizes NetNut Proxy Platform, Popa Botnet](https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/)
+### 26. [FBI Seizes NetNut Proxy Platform, Popa Botnet](https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 02 Jul 2026 19:27:33 +0000  
@@ -236,7 +243,7 @@
 
 ---
 
-### 26. [Scattered Spider Hackers Plead Guilty on Day 1 of Trial](https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/)
+### 27. [Scattered Spider Hackers Plead Guilty on Day 1 of Trial](https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 23 Jun 2026 16:12:49 +0000  
@@ -245,7 +252,7 @@
 
 ---
 
-### 27. [‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm](https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/)
+### 28. [‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm](https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 18 Jun 2026 17:37:58 +0000  
@@ -254,7 +261,7 @@
 
 ---
 
-### 28. [Who Runs the Ransomware Group ‘The Gentlemen?’](https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/)
+### 29. [Who Runs the Ransomware Group ‘The Gentlemen?’](https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 10 Jun 2026 14:03:44 +0000  
@@ -263,26 +270,26 @@
 
 ---
 
-### 29. [A Record-Breaking Patch Tuesday for June 2026](https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/)
+### 30. [A Record-Breaking Patch Tuesday for June 2026](https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-45586, CVE-2026-49160, CVE-2026-50507  
+**CVEs:** CVE-2026-49160, CVE-2026-45586, CVE-2026-50507  
 **Categories:** Vulnerability, DDoS  
 
 ---
 
-### 30. [Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts](https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/)
+### 31. [Timeless Compliance: Why Better Questions Beat Bigger Frameworks](https://www.securityweek.com/timeless-compliance-why-better-questions-beat-bigger-frameworks/)
 
-**Source:** Krebs On Security  
-**Published:** Mon, 01 Jun 2026 17:32:50 +0000  
+**Source:** Security Week  
+**Published:** Thu, 30 Jul 2026 15:46:17 +0000  
 **Severity:** High  
-**Categories:** Vulnerability  
+**Categories:** Supply Chain  
 
 ---
 
-### 31. [DataBahn Raises $40 Million for Agentic Data Pipeline Management](https://www.securityweek.com/databahn-raises-40-million-for-agentic-data-pipeline-management/)
+### 32. [DataBahn Raises $40 Million for Agentic Data Pipeline Management](https://www.securityweek.com/databahn-raises-40-million-for-agentic-data-pipeline-management/)
 
 **Source:** Security Week  
 **Published:** Thu, 30 Jul 2026 14:00:00 +0000  
@@ -291,7 +298,7 @@
 
 ---
 
-### 32. [Cantina Emerges From Stealth With $8 Million in Funding](https://www.securityweek.com/cantina-emerges-from-stealth-with-8-million-in-funding/)
+### 33. [Cantina Emerges From Stealth With $8 Million in Funding](https://www.securityweek.com/cantina-emerges-from-stealth-with-8-million-in-funding/)
 
 **Source:** Security Week  
 **Published:** Thu, 30 Jul 2026 13:00:00 +0000  
@@ -300,7 +307,7 @@
 
 ---
 
-### 33. [Discern Security Raises $13 Million in Series A Funding](https://www.securityweek.com/discern-security-raises-13-million-in-series-a-funding/)
+### 34. [Discern Security Raises $13 Million in Series A Funding](https://www.securityweek.com/discern-security-raises-13-million-in-series-a-funding/)
 
 **Source:** Security Week  
 **Published:** Thu, 30 Jul 2026 13:00:00 +0000  
@@ -309,7 +316,7 @@
 
 ---
 
-### 34. [Onyx Security Raises $113 Million to Control AI Agents in the Enterprise](https://www.securityweek.com/onyx-security-raises-113-million-to-control-ai-agents-in-the-enterprise/)
+### 35. [Onyx Security Raises $113 Million to Control AI Agents in the Enterprise](https://www.securityweek.com/onyx-security-raises-113-million-to-control-ai-agents-in-the-enterprise/)
 
 **Source:** Security Week  
 **Published:** Thu, 30 Jul 2026 12:29:03 +0000  
@@ -318,7 +325,7 @@
 
 ---
 
-### 35. [‘DangleGeddon’: AI Could Weaponize Forgotten DNS Records at Global Scale](https://www.securityweek.com/danglegeddon-ai-could-weaponize-forgotten-dns-records-at-global-scale/)
+### 36. [‘DangleGeddon’: AI Could Weaponize Forgotten DNS Records at Global Scale](https://www.securityweek.com/danglegeddon-ai-could-weaponize-forgotten-dns-records-at-global-scale/)
 
 **Source:** Security Week  
 **Published:** Thu, 30 Jul 2026 12:15:24 +0000  
@@ -327,7 +334,7 @@
 
 ---
 
-### 36. [Semiconductor Firm Analog Devices Discloses Data Breach](https://www.securityweek.com/semiconductor-firm-analog-devices-discloses-data-breach/)
+### 37. [Semiconductor Firm Analog Devices Discloses Data Breach](https://www.securityweek.com/semiconductor-firm-analog-devices-discloses-data-breach/)
 
 **Source:** Security Week  
 **Published:** Thu, 30 Jul 2026 11:16:23 +0000  
@@ -336,7 +343,7 @@
 
 ---
 
-### 37. [Critical Ruflo Flaw Lets Attackers Spawn Rogue AI Swarms](https://www.securityweek.com/critical-ruflo-flaw-lets-attackers-spawn-rogue-ai-swarms/)
+### 38. [Critical Ruflo Flaw Lets Attackers Spawn Rogue AI Swarms](https://www.securityweek.com/critical-ruflo-flaw-lets-attackers-spawn-rogue-ai-swarms/)
 
 **Source:** Security Week  
 **Published:** Thu, 30 Jul 2026 09:56:10 +0000  
@@ -346,7 +353,7 @@
 
 ---
 
-### 38. [1 in 5 Data Center Assets Are Within Easy Reach of Attackers](https://www.securityweek.com/1-in-5-data-center-assets-are-within-easy-reach-of-attackers/)
+### 39. [1 in 5 Data Center Assets Are Within Easy Reach of Attackers](https://www.securityweek.com/1-in-5-data-center-assets-are-within-easy-reach-of-attackers/)
 
 **Source:** Security Week  
 **Published:** Thu, 30 Jul 2026 09:28:37 +0000  
@@ -355,21 +362,12 @@
 
 ---
 
-### 39. [US and Allies Update SBOM Guidance](https://www.securityweek.com/us-and-allies-update-sbom-guidance/)
+### 40. [US and Allies Update SBOM Guidance](https://www.securityweek.com/us-and-allies-update-sbom-guidance/)
 
 **Source:** Security Week  
 **Published:** Thu, 30 Jul 2026 08:21:19 +0000  
 **Severity:** Critical  
 **Categories:** Supply Chain  
-
----
-
-### 40. [Chrome 151 Patches 370 Vulnerabilities](https://www.securityweek.com/chrome-151-patches-370-vulnerabilities/)
-
-**Source:** Security Week  
-**Published:** Thu, 30 Jul 2026 07:51:24 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability  
 
 ---
 
@@ -450,7 +448,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Jul 2026 20:27:33 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-54128, CVE-2026-55022, CVE-2026-55129, CVE-2026-50522, CVE-2026-50314, CVE-2026-55140, CVE-2026-55033, CVE-2026-50518, CVE-2026-56188, CVE-2026-50467, CVE-2026-55045, CVE-2026-50327, CVE-2026-55049, CVE-2026-58644, CVE-2026-56164, CVE-2026-55127, CVE-2026-55010, CVE-2026-55043, CVE-2026-54992, CVE-2026-55132, CVE-2026-55120, CVE-2026-55123, CVE-2026-55018, CVE-2026-50370, CVE-2026-56155, CVE-2026-55944, CVE-2026-55056, CVE-2026-50655  
+**CVEs:** CVE-2026-55127, CVE-2026-55022, CVE-2026-58644, CVE-2026-55018, CVE-2026-55033, CVE-2026-56155, CVE-2026-55043, CVE-2026-50518, CVE-2026-55120, CVE-2026-54128, CVE-2026-55056, CVE-2026-55123, CVE-2026-55045, CVE-2026-50467, CVE-2026-56188, CVE-2026-55140, CVE-2026-50370, CVE-2026-56164, CVE-2026-55944, CVE-2026-54992, CVE-2026-55132, CVE-2026-50655, CVE-2026-55049, CVE-2026-50314, CVE-2026-50327, CVE-2026-55010, CVE-2026-55129, CVE-2026-50522  
 **Categories:** Vulnerability  
 
 ---
@@ -649,7 +647,16 @@
 
 ---
 
-### 71. [Hims &amp; Hers sued over alleged health data privacy failures](https://www.malwarebytes.com/blog/privacy/2026/07/hims-hers-sued-over-alleged-health-data-privacy-failures)
+### 71. [Malwarebytes for Windows, now available on the Microsoft Store](https://www.malwarebytes.com/blog/product/2026/07/malwarebytes-for-windows-now-available-on-the-microsoft-store)
+
+**Source:** Malwarebytes  
+**Published:** Thu, 30 Jul 2026 16:01:11 GMT  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 72. [Hims &amp; Hers sued over alleged health data privacy failures](https://www.malwarebytes.com/blog/privacy/2026/07/hims-hers-sued-over-alleged-health-data-privacy-failures)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 30 Jul 2026 13:58:10 GMT  
@@ -658,7 +665,7 @@
 
 ---
 
-### 72. [Hidden prompt turns Microsoft Copilot into an AI worm](https://www.malwarebytes.com/blog/ai/2026/07/hidden-microsoft-copilot-ai-worm)
+### 73. [Hidden prompt turns Microsoft Copilot into an AI worm](https://www.malwarebytes.com/blog/ai/2026/07/hidden-microsoft-copilot-ai-worm)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 30 Jul 2026 12:58:45 GMT  
@@ -667,7 +674,7 @@
 
 ---
 
-### 73. [Apple accused of letting fake crypto app steal $1.8 million](https://www.malwarebytes.com/blog/news/2026/07/apple-accused-of-letting-fake-crypto-app-steal-1-8-million)
+### 74. [Apple accused of letting fake crypto app steal $1.8 million](https://www.malwarebytes.com/blog/news/2026/07/apple-accused-of-letting-fake-crypto-app-steal-1-8-million)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 29 Jul 2026 22:30:40 GMT  
@@ -676,7 +683,7 @@
 
 ---
 
-### 74. [Buying TikTok views or followers? Here&#8217;s what you&#8217;re really getting](https://www.malwarebytes.com/blog/threat-intel/2026/07/buying-tiktok-views-or-followers-heres-what-youre-really-getting)
+### 75. [Buying TikTok views or followers? Here&#8217;s what you&#8217;re really getting](https://www.malwarebytes.com/blog/threat-intel/2026/07/buying-tiktok-views-or-followers-heres-what-youre-really-getting)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 29 Jul 2026 16:54:46 GMT  
@@ -685,7 +692,7 @@
 
 ---
 
-### 75. [AI robocalls: Why caller ID is still lying to you](https://www.malwarebytes.com/blog/news/2026/07/ai-robocalls-why-caller-id-is-still-lying-to-you)
+### 76. [AI robocalls: Why caller ID is still lying to you](https://www.malwarebytes.com/blog/news/2026/07/ai-robocalls-why-caller-id-is-still-lying-to-you)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 29 Jul 2026 15:15:32 GMT  
@@ -694,7 +701,7 @@
 
 ---
 
-### 76. [OpenAI explains how its AI agent breached Hugging Face](https://www.malwarebytes.com/blog/news/2026/07/openai-explains-how-its-ai-agent-breached-hugging-face)
+### 77. [OpenAI explains how its AI agent breached Hugging Face](https://www.malwarebytes.com/blog/news/2026/07/openai-explains-how-its-ai-agent-breached-hugging-face)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 29 Jul 2026 14:20:32 GMT  
@@ -703,7 +710,7 @@
 
 ---
 
-### 77. [We found 120 fake Walmart stores trying to steal your credit card](https://www.malwarebytes.com/blog/scams/2026/07/we-found-120-fake-walmart-stores-trying-to-steal-your-credit-card)
+### 78. [We found 120 fake Walmart stores trying to steal your credit card](https://www.malwarebytes.com/blog/scams/2026/07/we-found-120-fake-walmart-stores-trying-to-steal-your-credit-card)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 29 Jul 2026 10:32:17 GMT  
@@ -712,7 +719,7 @@
 
 ---
 
-### 78. [We rebuilt Malwarebytes Mobile Security for the scams of today](https://www.malwarebytes.com/blog/product/2026/07/we-rebuilt-malwarebytes-mobile-security-for-the-scams-of-today)
+### 79. [We rebuilt Malwarebytes Mobile Security for the scams of today](https://www.malwarebytes.com/blog/product/2026/07/we-rebuilt-malwarebytes-mobile-security-for-the-scams-of-today)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 28 Jul 2026 12:40:00 GMT  
@@ -721,19 +728,10 @@
 
 ---
 
-### 79. [Shared Claude chats were searchable on Google](https://www.malwarebytes.com/blog/privacy/2026/07/shared-claude-chats-were-searchable-on-google)
+### 80. [Shared Claude chats were searchable on Google](https://www.malwarebytes.com/blog/privacy/2026/07/shared-claude-chats-were-searchable-on-google)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 28 Jul 2026 12:33:11 GMT  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 80. [Update your iPhone, iPad and Mac to fix Apple security holes](https://www.malwarebytes.com/blog/news/2026/07/july-apple-updates-are-especially-important-if-you-receive-images)
-
-**Source:** Malwarebytes  
-**Published:** Tue, 28 Jul 2026 11:35:40 GMT  
 **Severity:** Low  
 **Categories:** General Security  
 
