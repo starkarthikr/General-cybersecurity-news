@@ -1,6 +1,79 @@
 [
   {
     "source": "The Hacker News",
+    "title": "HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm",
+    "link": "https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html",
+    "published": "Fri, 31 Jul 2026 22:09:31 +0530",
+    "summary": "Cybersecurity researchers have shed light on a previously undocumented Go-based loader framework called HollowFrame and a Rust-based malware family tracked as Matryoshka.\n\nAccording to Blackpoint Cyber, the intrusion sequence begins with a spear-phishing message containing a link to an encrypted archive, which holds a Windows Shortcut (LNK). Executing the file triggers a multi-stage chain that",
+    "analysis": {
+      "issue": "HollowFrame and Matryoshka use DLL side-loading and GitHub C2 to gain a persistent foothold on two law firm endpoints",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies",
+    "link": "https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html",
+    "published": "Fri, 31 Jul 2026 20:15:01 +0530",
+    "summary": "Bitsight says some cheap Android TV boxes have shipped with apps that rewrite their hardware identity to mimic Samsung, Huawei, Xiaomi, or Vivo phones, then click ads on websites run by the same operators.\n\nResearchers named the operation Fuyao and attributed it to Zhejiang Fengwo IoT Technology Co., Ltd., a mainland China company founded in 2019.\n\nThe same apps have a second job. When a box",
+    "analysis": {
+      "issue": "Fuyao turns cheap Android TV boxes into fake phones for ad fraud and SOCKS5 exit nodes on owners’ broadband",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined",
+    "link": "https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html",
+    "published": "Fri, 31 Jul 2026 18:21:52 +0530",
+    "summary": "Google on Thursday announced that it fixed a whopping 1,072 security bugs in Chrome versions 149 and 150, surpassing the total number of flaws the company fixed across the prior 23 milestones combined.\n\nBoth versions were released last month. In its latest patch for Chrome 151, released Wednesday, the tech giant resolved 370 flaws, out of which 349 were reported by Google itself. Seven of the",
+    "analysis": {
+      "issue": "Google fixed 1,072 Chrome flaws in versions 149 and 150, more than the prior 23 milestones combined, as AI-driven discovery accelerates bug reports",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw",
+    "link": "https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html",
+    "published": "Fri, 31 Jul 2026 17:25:00 +0530",
+    "summary": "An academic study has disclosed a \"widespread class\" of security vulnerabilities impacting 4G and 5G core networks that, if successfully exploited, could trigger denial-of-service (DoS) attacks and even session hijacking, allowing an attacker to seize control of a user's network session.\n\nThe findings have been released by a group of researchers from Singapore's Nanyang Technological University",
+    "analysis": {
+      "issue": "Researchers found 84 flaws in seven open-source 4G and 5G cores that could enable DoS or session hijacking when internal interfaces become reachable",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026",
     "link": "https://thehackernews.com/2026/07/6-reasons-why-device-code-phishing-is.html",
     "published": "Fri, 31 Jul 2026 16:54:59 +0530",
@@ -109,17 +182,35 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents",
-    "link": "https://thehackernews.com/2026/07/microsoft-copilot-for-word-can-copy.html",
-    "published": "Thu, 30 Jul 2026 17:24:49 +0530",
-    "summary": "Hidden instructions in a Word document can make Microsoft 365 Copilot rewrite figures in a report, then copy the same instructions into the finished file. Håkon Måløy disclosed the technique on July 28, 144 days after reporting it to Microsoft.\n\nIn his proof of concept, the internally generated file triggered the same behavior when it was used in a second Copilot drafting session.\n\nMåløy's",
+    "source": "Bleeping Computer",
+    "title": "Hacker uses DeepSeek AI to autonomously attack vulnerable servers",
+    "link": "https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/",
+    "published": "Fri, 31 Jul 2026 13:35:35 -0400",
+    "summary": "A Chinese-speaking threat actor is using the DeepSeek AI model and the open-source Hermes Agent to conduct autonomous cyberattacks on exposed servers with limited human involvement. [...]",
     "analysis": {
-      "issue": "Microsoft 365 Copilot prompt injection can alter report figures and copy hidden instructions into generated files, letting them affect later drafts",
+      "issue": "A Chinese-speaking threat actor is using the DeepSeek AI model and the open-source Hermes Agent to conduct autonomous cyberattacks on exposed servers with limited human involvement",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "CISA warns of cyberattacks disrupting U.S. water utilities",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/",
+    "published": "Fri, 31 Jul 2026 12:49:49 -0400",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a significant increase in attacks targeting internet-exposed programmable logic controllers (PLCs) in the water and wastewater systems sector. [...]",
+    "analysis": {
+      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) is warning of a significant increase in attacks targeting internet-exposed programmable logic controllers (PLCs) in the water and wastewater systems sector",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
         "General Security"
@@ -127,57 +218,23 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "The Network Has Become the Control Plane for AI Security",
-    "link": "https://thehackernews.com/2026/07/the-network-has-become-control-plane.html",
-    "published": "Thu, 30 Jul 2026 17:02:46 +0530",
-    "summary": "Network firewalls are the workhorses of modern cybersecurity. They are trusted to protect the network, blocking malicious traffic and preventing intrusions and breaches. And for decades, network security teams have built controls around a relatively stable model: users connect to applications, applications exchange data, and security tools inspect packets, protocols, and destinations. Firewalls",
+    "source": "Bleeping Computer",
+    "title": "ESET tracks rise in malicious AI skills and adaptable malware",
+    "link": "https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/",
+    "published": "Fri, 31 Jul 2026 10:01:11 -0400",
+    "summary": "Attackers are adapting established techniques to AI platforms, emerging technologies, and changing user behavior. ESET's new threat report examines the rise of malicious AI skills, AI-assisted malware, ClickFix attacks, record quishing activity, and ransomware tools designed to disable security software. [...]",
     "analysis": {
-      "issue": "Check Point launches an AI Network Firewall to inspect prompts, model calls, APIs, and agent activity across enterprise networks",
+      "issue": "The first half of 2026 shows how attackers continue to improve the efficiency and scalability of their operations",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts",
-    "link": "https://thehackernews.com/2026/07/hackers-exploit-anysign4pc-via-hacked.html",
-    "published": "Thu, 30 Jul 2026 16:03:15 +0530",
-    "summary": "South Korean authorities and four security firms have disclosed a state-sponsored campaign that compromised trusted domestic websites. The attackers used those sites to exploit locally installed financial-security software and infect targeted visitors with SIGNBT or COPPERHEDGE backdoors.\n\nA compromised page could infect a system running a vulnerable AnySign4PC version without a prompt or",
-    "analysis": {
-      "issue": "State-sponsored hackers used compromised South Korean websites to exploit AnySign4PC and install SIGNBT or COPPERHEDGE without a download prompt",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
+        "Ransomware",
         "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT",
-    "link": "https://thehackernews.com/2026/07/silverfox-targets-japanese-manufacturer.html",
-    "published": "Thu, 30 Jul 2026 16:02:59 +0530",
-    "summary": "The Chinese cybercrime group known as Silver Fox has been observed using new drivers as part of bring your own vulnerable driver (BYOVD) attacks targeting a Japanese organization in the industrial manufacturing sector to ultimately deliver ValleyRAT (aka Winos 4.0) for persistent remote access.\n\n\"In this campaign, the group combines new vulnerable-driver abuse, newly observed abuse of legitimate",
-    "analysis": {
-      "issue": "Silver Fox uses a three-driver BYOVD framework, DLL sideloading, and dual watchdogs to keep ValleyRAT running at a Japanese manufacturing organization",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
+        "Malware",
+        "APT"
       ]
     }
   },
@@ -274,10 +331,10 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-47876",
-        "CVE-2026-41709",
-        "CVE-2026-59310",
         "CVE-2026-41703",
-        "CVE-2026-59309"
+        "CVE-2026-59310",
+        "CVE-2026-59309",
+        "CVE-2026-41709"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -318,62 +375,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft Teams vishing attacks lead to Chaos ransomware attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-vishing-attacks-lead-to-chaos-ransomware-attacks/",
-    "published": "Thu, 30 Jul 2026 11:56:33 -0400",
-    "summary": "Threat actors are impersonating IT support staff in Microsoft Teams calls to gain remote access to corporate devices and deploy Chaos ransomware in attacks targeting North American organizations. [...]",
-    "analysis": {
-      "issue": "Threat actors are impersonating IT support staff in Microsoft Teams calls to gain remote access to corporate devices and deploy Chaos ransomware in attacks targeting North American organizations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Analog Devices discloses data breach, says operations unaffected",
-    "link": "https://www.bleepingcomputer.com/news/security/analog-devices-discloses-data-breach-says-operations-unaffected/",
-    "published": "Thu, 30 Jul 2026 11:12:25 -0400",
-    "summary": "American semiconductor company Analog Devices announced that an unauthorized party accessed some of its systems and exfiltrated certain files. [...]",
-    "analysis": {
-      "issue": "American semiconductor company Analog Devices announced that an unauthorized party accessed some of its systems and exfiltrated certain files",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "After the Break-In: What Attackers Do Once They're Already Inside",
-    "link": "https://www.bleepingcomputer.com/news/security/after-the-break-in-what-attackers-do-once-theyre-already-inside/",
-    "published": "Thu, 30 Jul 2026 10:01:11 -0400",
-    "summary": "Attackers rarely stop after gaining initial access. Huntress analyzes a real-world intrusion to show how threat actors establish persistence, disable defenses, and reshape compromised systems, and why defenders must investigate the original entry point rather than simply remove the malware. [...]",
-    "analysis": {
-      "issue": "Most of us in IT spend our energy trying to keep attackers out",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Malware"
       ]
     }
   },
@@ -426,10 +427,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50661",
-        "CVE-2026-56155",
+        "CVE-2026-48561",
         "CVE-2026-56164",
-        "CVE-2026-48561"
+        "CVE-2026-50661",
+        "CVE-2026-56155"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -563,13 +564,52 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-45586",
         "CVE-2026-49160",
-        "CVE-2026-50507"
+        "CVE-2026-50507",
+        "CVE-2026-45586"
       ],
       "threat_categories": [
         "Vulnerability",
         "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research",
+    "link": "https://www.securityweek.com/in-other-news-openai-open-source-tool-aws-links-hacks-to-north-korea-mythos-crypto-research/",
+    "published": "Fri, 31 Jul 2026 15:47:02 +0000",
+    "summary": "<p>Noteworthy stories that might have slipped under the radar: parcel delivery company OnTrac hacked, Adobe patches, UK Department for Education loses 607,000 records.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-openai-open-source-tool-aws-links-hacks-to-north-korea-mythos-crypto-research/\">In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Noteworthy stories that might have slipped under the radar: parcel delivery company OnTrac hacked, Adobe patches, UK Department for Education loses 607,000 records",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Cyberattacks on Minnesota Water Systems Investigated as Officials Warn About Iranian Hackers",
+    "link": "https://www.securityweek.com/cyberattacks-on-minnesota-water-systems-investigated-as-officials-warn-about-iranian-hackers/",
+    "published": "Fri, 31 Jul 2026 15:17:41 +0000",
+    "summary": "<p>Iran has the “geopolitical motivations” and a recent history of targeting water systems, experts pointed out.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyberattacks-on-minnesota-water-systems-investigated-as-officials-warn-about-iranian-hackers/\">Cyberattacks on Minnesota Water Systems Investigated as Officials Warn About Iranian Hackers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Iran has the “geopolitical motivations” and a recent history of targeting water systems, experts pointed out",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
       ]
     }
   },
@@ -635,10 +675,10 @@
   },
   {
     "source": "Security Week",
-    "title": "Critical Flaw Led to Azure Cosmos DB Pwnage",
+    "title": "Critical Flaw Allowed to Azure Cosmos DB Pwnage",
     "link": "https://www.securityweek.com/critical-flaw-led-to-azure-cosmos-db-pwnage/",
     "published": "Fri, 31 Jul 2026 09:04:02 +0000",
-    "summary": "<p>Named CosmosEscape, the vulnerability exposed the primary key for Cosmos DB accounts, granting full read and write access.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-flaw-led-to-azure-cosmos-db-pwnage/\">Critical Flaw Led to Azure Cosmos DB Pwnage</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "summary": "<p>Named CosmosEscape, the vulnerability exposed the primary key for Cosmos DB accounts, granting full read and write access.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-flaw-led-to-azure-cosmos-db-pwnage/\">Critical Flaw Allowed to Azure Cosmos DB Pwnage</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
       "issue": "Named CosmosEscape, the vulnerability exposed the primary key for Cosmos DB accounts, granting full read and write access",
       "solution": null,
@@ -724,42 +764,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Okta to Acquire Identity Threat Detection Firm Permiso",
-    "link": "https://www.securityweek.com/okta-to-acquire-identity-threat-detection-firm-permiso/",
-    "published": "Thu, 30 Jul 2026 19:10:26 +0000",
-    "summary": "<p>The deal extends Okta's reach beyond identity management and into the realm of security operations, positioning the company to compete more directly on identity threat detection and response.</p>\n<p>The post <a href=\"https://www.securityweek.com/okta-to-acquire-identity-threat-detection-firm-permiso/\">Okta to Acquire Identity Threat Detection Firm Permiso</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The deal extends Okta’s reach beyond identity management and into the realm of security operations, positioning the company to compete more directly on identity threat detection and response",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Timeless Compliance: Why Better Questions Beat Bigger Frameworks",
-    "link": "https://www.securityweek.com/timeless-compliance-why-better-questions-beat-bigger-frameworks/",
-    "published": "Thu, 30 Jul 2026 15:46:17 +0000",
-    "summary": "<p>The best compliance programs aren't the biggest ones. They're the ones built on a short list of questions that can actually be answered, and that still hold true when the models change.</p>\n<p>The post <a href=\"https://www.securityweek.com/timeless-compliance-why-better-questions-beat-bigger-frameworks/\">Timeless Compliance: Why Better Questions Beat Bigger Frameworks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The best compliance programs aren’t the biggest ones",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
       ]
     }
   },
@@ -943,34 +947,34 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50655",
-        "CVE-2026-55043",
-        "CVE-2026-55033",
-        "CVE-2026-55944",
-        "CVE-2026-56164",
-        "CVE-2026-55045",
-        "CVE-2026-50327",
+        "CVE-2026-50314",
+        "CVE-2026-55129",
         "CVE-2026-55049",
         "CVE-2026-55120",
-        "CVE-2026-55140",
-        "CVE-2026-56155",
-        "CVE-2026-55123",
-        "CVE-2026-50467",
-        "CVE-2026-54128",
-        "CVE-2026-58644",
-        "CVE-2026-50518",
-        "CVE-2026-56188",
-        "CVE-2026-55056",
-        "CVE-2026-55022",
         "CVE-2026-50522",
-        "CVE-2026-55018",
-        "CVE-2026-55132",
-        "CVE-2026-54992",
         "CVE-2026-55127",
-        "CVE-2026-55010",
-        "CVE-2026-50314",
+        "CVE-2026-55022",
         "CVE-2026-50370",
-        "CVE-2026-55129"
+        "CVE-2026-55033",
+        "CVE-2026-58644",
+        "CVE-2026-55010",
+        "CVE-2026-50655",
+        "CVE-2026-50467",
+        "CVE-2026-50518",
+        "CVE-2026-55056",
+        "CVE-2026-55944",
+        "CVE-2026-56188",
+        "CVE-2026-54992",
+        "CVE-2026-55045",
+        "CVE-2026-56164",
+        "CVE-2026-55018",
+        "CVE-2026-50327",
+        "CVE-2026-55140",
+        "CVE-2026-55132",
+        "CVE-2026-54128",
+        "CVE-2026-55123",
+        "CVE-2026-56155",
+        "CVE-2026-55043"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1324,8 +1328,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1350,6 +1354,25 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Fake Fortnite rewards are stealing players&#8217; accounts",
+    "link": "https://www.malwarebytes.com/blog/scams/2026/07/fake-fortnite-rewards-are-stealing-players-accounts",
+    "published": "Fri, 31 Jul 2026 16:16:58 GMT",
+    "summary": "Scammers are using fake V-Bucks offers and locker value sites to hijack Fortnite accounts.",
+    "analysis": {
+      "issue": "Fortnite scam pages like the ones below appear by the dozen every day, recycled endlessly under different names and designs",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing",
+        "Supply Chain"
       ]
     }
   },
@@ -1514,24 +1537,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "We rebuilt Malwarebytes Mobile Security for the scams of today",
-    "link": "https://www.malwarebytes.com/blog/product/2026/07/we-rebuilt-malwarebytes-mobile-security-for-the-scams-of-today",
-    "published": "Tue, 28 Jul 2026 12:40:00 GMT",
-    "summary": "Your phone needs more than a lock screen to stay safe. We've rebuilt Malwarebytes Mobile Security to put scam protection first and keep your phone secure.",
-    "analysis": {
-      "issue": "Nearly half of people encounter a scam on their phone every single day",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
