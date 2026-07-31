@@ -1,6 +1,60 @@
 [
   {
     "source": "The Hacker News",
+    "title": "6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026",
+    "link": "https://thehackernews.com/2026/07/6-reasons-why-device-code-phishing-is.html",
+    "published": "Fri, 31 Jul 2026 16:54:59 +0530",
+    "summary": "Device code phishing - the abuse of the OAuth 2.0 device authorization grant to steal access tokens - has evolved from a niche red-team technique to an industrial-scale threat in under six months.\n\nDesigned for input-constrained devices like smart TVs, printers, and so on, the device authorization login flow has been adopted by a wide range of apps and use-cases that it wasn't originally",
+    "analysis": {
+      "issue": "Push tracks 25-plus device code phishing kits that bypass passkeys; Barracuda counted 7 million attacks in four weeks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Chinese Hacker Commands DeepSeek via Telegram to Launch Autonomous Attacks",
+    "link": "https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html",
+    "published": "Fri, 31 Jul 2026 16:51:27 +0530",
+    "summary": "Palo Alto Networks' Unit 42 says a Chinese-speaking threat actor used DeepSeek through the open-source Hermes Agent framework to launch attacks autonomously.\n\nAfter an initial Telegram instruction, the agent found internet-facing systems and selected public exploits. The researchers recovered no further operator input in the session.\n\nThe operator, tracked through the aliases knaithe and KnYuan,",
+    "analysis": {
+      "issue": "Chinese-speaking actor used DeepSeek through Hermes Agent to launch attacks after one Telegram instruction in a 460-plus-target operation",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Anthropic Says Claude Mistook the Open Internet for a CTF and Breached Three Organizations",
+    "link": "https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html",
+    "published": "Fri, 31 Jul 2026 12:11:44 +0530",
+    "summary": "Anthropic on Thursday became the latest artificial intelligence (AI) company to reveal that three of its models, including Claude Opus 4.7, Mythos 5, and an unnamed research model, had breached three unnamed organizations during cybersecurity testing without its knowledge.\n\nThe AI firm said the earliest incidents date back to April 2026, adding it made the discoveries after launching a \"",
+    "analysis": {
+      "issue": "Anthropic says 3 Claude models breached real organizations after misconfigured CTF evaluations exposed them to the open internet and production system",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware",
     "link": "https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html",
     "published": "Thu, 30 Jul 2026 23:48:24 +0530",
@@ -128,62 +182,6 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation",
-    "link": "https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html",
-    "published": "Thu, 30 Jul 2026 13:10:48 +0530",
-    "summary": "The Russian threat actors recently linked to the exploitation of a now-patched vulnerability in Zimbra have been observed exploiting another vulnerability, this time in Microsoft Outlook Web Access (OWA), to target U.S. and European government entities, as well as the telecommunications, financial, hospitality, and aerospace sectors.\n\nThe activity, which began on July 22, 2026, involves the",
-    "analysis": {
-      "issue": "Russian hackers exploit CVE-2026-42897 in OWA to deploy OWAReaper, a browser implant that persists through credential rotation and device re-imaging",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-42897"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks",
-    "link": "https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html",
-    "published": "Thu, 30 Jul 2026 12:58:43 +0530",
-    "summary": "The Federal Communications Commission (FCC) added foreign-produced mobile robots and networked power inverters to its Covered List on July 28. The move generally prevents new models from receiving the equipment authorization required for import, marketing, or sale in the US.\n\nPreviously authorized models can still be sold, and devices people already own are unaffected. Federal purchases and use",
-    "analysis": {
-      "issue": "FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks | Read more hacking news on The Hacker News cybersecurity news website and learn how to protect against cyberattacks and software vulnerabilities",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet",
-    "link": "https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html",
-    "published": "Thu, 30 Jul 2026 11:35:17 +0530",
-    "summary": "Amazon has tied the September 2025 hijack of the npm packages debug and chalk to North Korea. For ten months, the incident sat in the public record as crypto theft: a maintainer phished through a lookalike npm domain and a wallet-draining script pushed into at least 18 packages carrying more than 2 billion weekly downloads between them.\n\nThe original Aikido and Wiz reports did not attribute the",
-    "analysis": {
-      "issue": "Amazon links the 2025 debug and chalk npm hijack to Sapphire Sleet with medium confidence, but does not show which evidence ties the incident",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Medium",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
     "title": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests",
     "link": "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/",
@@ -278,8 +276,8 @@
         "CVE-2026-47876",
         "CVE-2026-41709",
         "CVE-2026-59310",
-        "CVE-2026-59309",
-        "CVE-2026-41703"
+        "CVE-2026-41703",
+        "CVE-2026-59309"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -428,10 +426,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56164",
+        "CVE-2026-50661",
         "CVE-2026-56155",
-        "CVE-2026-48561",
-        "CVE-2026-50661"
+        "CVE-2026-56164",
+        "CVE-2026-48561"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -565,9 +563,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50507",
+        "CVE-2026-45586",
         "CVE-2026-49160",
-        "CVE-2026-45586"
+        "CVE-2026-50507"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -593,6 +591,24 @@
       "threat_categories": [
         "Vulnerability",
         "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "EU to Crack Down on AI Deepfakes, Illicit Imagery and Hacking With New Team in Brussels",
+    "link": "https://www.securityweek.com/eu-to-crack-down-on-ai-deepfakes-illicit-imagery-and-hacking-with-new-team-in-brussels/",
+    "published": "Fri, 31 Jul 2026 10:00:00 +0000",
+    "summary": "<p>When the AI Act comes into force, AI companies will be required to make clear to consumers with labels or digital watermarks that chatbots or imagery are generated with AI.</p>\n<p>The post <a href=\"https://www.securityweek.com/eu-to-crack-down-on-ai-deepfakes-illicit-imagery-and-hacking-with-new-team-in-brussels/\">EU to Crack Down on AI Deepfakes, Illicit Imagery and Hacking With New Team in Brussels</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "When the AI Act comes into force, AI companies will be required to make clear to consumers with labels or digital watermarks that chatbots or imagery are generated with AI",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -744,24 +760,6 @@
       "cves": [],
       "threat_categories": [
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "DataBahn Raises $40 Million for Agentic Data Pipeline Management",
-    "link": "https://www.securityweek.com/databahn-raises-40-million-for-agentic-data-pipeline-management/",
-    "published": "Thu, 30 Jul 2026 14:00:00 +0000",
-    "summary": "<p>The company will accelerate investments in R&#038;D and product innovation to expand its agentic data control plane.</p>\n<p>The post <a href=\"https://www.securityweek.com/databahn-raises-40-million-for-agentic-data-pipeline-management/\">DataBahn Raises $40 Million for Agentic Data Pipeline Management</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The company will accelerate investments in R&D and product innovation to expand its agentic data control plane",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -945,34 +943,34 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50370",
-        "CVE-2026-50327",
-        "CVE-2026-50467",
-        "CVE-2026-55049",
-        "CVE-2026-55056",
-        "CVE-2026-55127",
         "CVE-2026-50655",
-        "CVE-2026-54128",
         "CVE-2026-55043",
-        "CVE-2026-56188",
-        "CVE-2026-55010",
-        "CVE-2026-50518",
         "CVE-2026-55033",
-        "CVE-2026-55132",
         "CVE-2026-55944",
-        "CVE-2026-55045",
-        "CVE-2026-55129",
         "CVE-2026-56164",
-        "CVE-2026-55123",
-        "CVE-2026-55022",
+        "CVE-2026-55045",
+        "CVE-2026-50327",
+        "CVE-2026-55049",
         "CVE-2026-55120",
-        "CVE-2026-50314",
+        "CVE-2026-55140",
         "CVE-2026-56155",
-        "CVE-2026-54992",
-        "CVE-2026-55018",
-        "CVE-2026-50522",
+        "CVE-2026-55123",
+        "CVE-2026-50467",
+        "CVE-2026-54128",
         "CVE-2026-58644",
-        "CVE-2026-55140"
+        "CVE-2026-50518",
+        "CVE-2026-56188",
+        "CVE-2026-55056",
+        "CVE-2026-55022",
+        "CVE-2026-50522",
+        "CVE-2026-55018",
+        "CVE-2026-55132",
+        "CVE-2026-54992",
+        "CVE-2026-55127",
+        "CVE-2026-55010",
+        "CVE-2026-50314",
+        "CVE-2026-50370",
+        "CVE-2026-55129"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1326,8 +1324,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1352,6 +1350,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Fake Flash Player installs AtlasRAT",
+    "link": "https://www.malwarebytes.com/blog/news/2026/07/fake-flash-player-installs-atlasrat",
+    "published": "Fri, 31 Jul 2026 11:03:29 GMT",
+    "summary": "Researchers have uncovered a new campaign that spreads the AtlasRAT remote access Trojan by disguising it as a Flash Player installer.",
+    "analysis": {
+      "issue": "Researchers have described a campaign that delivers a remote access Trojan (RAT) called AtlasRAT through a fake Flash Player installer",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
       ]
     }
   },
@@ -1516,24 +1532,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Shared Claude chats were searchable on Google",
-    "link": "https://www.malwarebytes.com/blog/privacy/2026/07/shared-claude-chats-were-searchable-on-google",
-    "published": "Tue, 28 Jul 2026 12:33:11 GMT",
-    "summary": "Reddit users found that by using a specific search query, they could find shared Claude conversations in search results.",
-    "analysis": {
-      "issue": "Reddit users found that by using a specific Google search query, it was possible to find Claude conversations that users had shared",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
