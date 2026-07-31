@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-31 04:00:30 UTC
+**Last Updated:** 2026-07-31 11:05:48 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -137,7 +137,7 @@
 **Source:** Bleeping Computer  
 **Published:** Thu, 30 Jul 2026 14:00:51 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-47876, CVE-2026-59310, CVE-2026-41703, CVE-2026-59309, CVE-2026-41709  
+**CVEs:** CVE-2026-47876, CVE-2026-41709, CVE-2026-59310, CVE-2026-59309, CVE-2026-41703  
 **Categories:** Vulnerability  
 
 ---
@@ -210,7 +210,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48561, CVE-2026-56155, CVE-2026-50661, CVE-2026-56164  
+**CVEs:** CVE-2026-56164, CVE-2026-56155, CVE-2026-48561, CVE-2026-50661  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -274,12 +274,59 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-49160, CVE-2026-50507, CVE-2026-45586  
+**CVEs:** CVE-2026-50507, CVE-2026-49160, CVE-2026-45586  
 **Categories:** Vulnerability, DDoS  
 
 ---
 
-### 31. [CISA Urges Water Sector to Protect OT After Coordinated Attacks on PLCs](https://www.securityweek.com/cisa-urges-water-sector-to-protect-ot-after-coordinated-attacks-on-plcs/)
+### 31. [Google AI Uncovers 13-Year-Old Chrome Flaw Amid Record Patching Pace](https://www.securityweek.com/googles-ai-agent-uncovers-13-year-old-chrome-flaw-amid-record-patching-pace/)
+
+**Source:** Security Week  
+**Published:** Fri, 31 Jul 2026 10:28:45 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-3545  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 32. [Prompted by OpenAI Disclosure, Anthropic Finds Its Own Models Hacked 3 Organizations](https://www.securityweek.com/after-openai-disclosure-anthropic-finds-its-own-models-hacked-3-organizations/)
+
+**Source:** Security Week  
+**Published:** Fri, 31 Jul 2026 09:39:57 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, Malware, APT, Supply Chain  
+
+---
+
+### 33. [Critical Flaw Led to Azure Cosmos DB Pwnage](https://www.securityweek.com/critical-flaw-led-to-azure-cosmos-db-pwnage/)
+
+**Source:** Security Week  
+**Published:** Fri, 31 Jul 2026 09:04:02 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 34. [CareCloud Data Breach Impacts Over 350,000](https://www.securityweek.com/carecloud-data-breach-impacts-over-350000/)
+
+**Source:** Security Week  
+**Published:** Fri, 31 Jul 2026 07:51:43 +0000  
+**Severity:** Low  
+**Categories:** Ransomware, Data Breach  
+
+---
+
+### 35. [Critical Code Execution Vulnerability Patched in TeamCity](https://www.securityweek.com/critical-code-execution-vulnerability-patched-in-teamcity/)
+
+**Source:** Security Week  
+**Published:** Fri, 31 Jul 2026 06:50:30 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-63077  
+**Categories:** Vulnerability  
+
+---
+
+### 36. [CISA Urges Water Sector to Protect OT After Coordinated Attacks on PLCs](https://www.securityweek.com/cisa-urges-water-sector-to-protect-ot-after-coordinated-attacks-on-plcs/)
 
 **Source:** Security Week  
 **Published:** Thu, 30 Jul 2026 22:18:36 +0000  
@@ -288,7 +335,7 @@
 
 ---
 
-### 32. [Bank of America to Acquire Cybersecurity Firm MDSec](https://www.securityweek.com/bank-of-america-to-acquire-cybersecurity-firm-mdsec/)
+### 37. [Bank of America to Acquire Cybersecurity Firm MDSec](https://www.securityweek.com/bank-of-america-to-acquire-cybersecurity-firm-mdsec/)
 
 **Source:** Security Week  
 **Published:** Thu, 30 Jul 2026 21:02:21 +0000  
@@ -297,7 +344,7 @@
 
 ---
 
-### 33. [Okta to Acquire Identity Threat Detection Firm Permiso](https://www.securityweek.com/okta-to-acquire-identity-threat-detection-firm-permiso/)
+### 38. [Okta to Acquire Identity Threat Detection Firm Permiso](https://www.securityweek.com/okta-to-acquire-identity-threat-detection-firm-permiso/)
 
 **Source:** Security Week  
 **Published:** Thu, 30 Jul 2026 19:10:26 +0000  
@@ -306,7 +353,7 @@
 
 ---
 
-### 34. [Timeless Compliance: Why Better Questions Beat Bigger Frameworks](https://www.securityweek.com/timeless-compliance-why-better-questions-beat-bigger-frameworks/)
+### 39. [Timeless Compliance: Why Better Questions Beat Bigger Frameworks](https://www.securityweek.com/timeless-compliance-why-better-questions-beat-bigger-frameworks/)
 
 **Source:** Security Week  
 **Published:** Thu, 30 Jul 2026 15:46:17 +0000  
@@ -315,57 +362,12 @@
 
 ---
 
-### 35. [DataBahn Raises $40 Million for Agentic Data Pipeline Management](https://www.securityweek.com/databahn-raises-40-million-for-agentic-data-pipeline-management/)
+### 40. [DataBahn Raises $40 Million for Agentic Data Pipeline Management](https://www.securityweek.com/databahn-raises-40-million-for-agentic-data-pipeline-management/)
 
 **Source:** Security Week  
 **Published:** Thu, 30 Jul 2026 14:00:00 +0000  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 36. [Cantina Emerges From Stealth With $8 Million in Funding](https://www.securityweek.com/cantina-emerges-from-stealth-with-8-million-in-funding/)
-
-**Source:** Security Week  
-**Published:** Thu, 30 Jul 2026 13:00:00 +0000  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 37. [Discern Security Raises $13 Million in Series A Funding](https://www.securityweek.com/discern-security-raises-13-million-in-series-a-funding/)
-
-**Source:** Security Week  
-**Published:** Thu, 30 Jul 2026 13:00:00 +0000  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 38. [Onyx Security Raises $113 Million to Control AI Agents in the Enterprise](https://www.securityweek.com/onyx-security-raises-113-million-to-control-ai-agents-in-the-enterprise/)
-
-**Source:** Security Week  
-**Published:** Thu, 30 Jul 2026 12:29:03 +0000  
-**Severity:** Critical  
-**Categories:** General Security  
-
----
-
-### 39. [‘DangleGeddon’: AI Could Weaponize Forgotten DNS Records at Global Scale](https://www.securityweek.com/danglegeddon-ai-could-weaponize-forgotten-dns-records-at-global-scale/)
-
-**Source:** Security Week  
-**Published:** Thu, 30 Jul 2026 12:15:24 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, Malware, Phishing, APT, Supply Chain  
-
----
-
-### 40. [Semiconductor Firm Analog Devices Discloses Data Breach](https://www.securityweek.com/semiconductor-firm-analog-devices-discloses-data-breach/)
-
-**Source:** Security Week  
-**Published:** Thu, 30 Jul 2026 11:16:23 +0000  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach  
 
 ---
 
@@ -455,7 +457,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Jul 2026 20:27:33 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-55045, CVE-2026-55018, CVE-2026-50655, CVE-2026-55129, CVE-2026-50518, CVE-2026-55140, CVE-2026-50522, CVE-2026-55056, CVE-2026-58644, CVE-2026-55010, CVE-2026-55127, CVE-2026-54128, CVE-2026-55049, CVE-2026-50370, CVE-2026-55022, CVE-2026-56155, CVE-2026-54992, CVE-2026-56188, CVE-2026-55123, CVE-2026-50467, CVE-2026-55132, CVE-2026-56164, CVE-2026-50327, CVE-2026-55944, CVE-2026-55043, CVE-2026-50314, CVE-2026-55033, CVE-2026-55120  
+**CVEs:** CVE-2026-50370, CVE-2026-50327, CVE-2026-50467, CVE-2026-55049, CVE-2026-55056, CVE-2026-55127, CVE-2026-50655, CVE-2026-54128, CVE-2026-55043, CVE-2026-56188, CVE-2026-55010, CVE-2026-50518, CVE-2026-55033, CVE-2026-55132, CVE-2026-55944, CVE-2026-55045, CVE-2026-55129, CVE-2026-56164, CVE-2026-55123, CVE-2026-55022, CVE-2026-55120, CVE-2026-50314, CVE-2026-56155, CVE-2026-54992, CVE-2026-55018, CVE-2026-50522, CVE-2026-58644, CVE-2026-55140  
 **Categories:** Vulnerability  
 
 ---
@@ -630,7 +632,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -735,7 +737,16 @@
 
 ---
 
-### 81. [Inside Astaroth's New Spambot Component](https://www.crowdstrike.com/en-us/blog/inside-astaroths-new-spambot-component/)
+### 81. [Falcon AIDR Now Protects Copilot Studio Agents and Claude Code](https://www.crowdstrike.com/en-us/blog/falcon-aidr-protects-copilot-studio-agents-and-claude-code/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Jul 30, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 82. [Inside Astaroth's New Spambot Component](https://www.crowdstrike.com/en-us/blog/inside-astaroths-new-spambot-component/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 29, 2026 00:00:00-0500  
@@ -744,7 +755,7 @@
 
 ---
 
-### 82. [Falcon Cloud Security July 2026 Release: Helping Security Teams Move Faster in the Cloud](https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-helping-security-teams-move-faster/)
+### 83. [Falcon Cloud Security July 2026 Release: Helping Security Teams Move Faster in the Cloud](https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-helping-security-teams-move-faster/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 29, 2026 00:00:00-0500  
@@ -753,7 +764,7 @@
 
 ---
 
-### 83. [Falcon Platform IOAs Arrive in Falcon Next-Gen SIEM to Identify New Threats](https://www.crowdstrike.com/en-us/blog/falcon-platform-ioas-arrive-in-falcon-next-gen-siem/)
+### 84. [Falcon Platform IOAs Arrive in Falcon Next-Gen SIEM to Identify New Threats](https://www.crowdstrike.com/en-us/blog/falcon-platform-ioas-arrive-in-falcon-next-gen-siem/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 29, 2026 00:00:00-0500  
@@ -762,7 +773,7 @@
 
 ---
 
-### 84. [5 High-Impact Use Cases for Falcon Onum](https://www.crowdstrike.com/en-us/blog/five-high-impact-use-cases-for-falcon-onum/)
+### 85. [5 High-Impact Use Cases for Falcon Onum](https://www.crowdstrike.com/en-us/blog/five-high-impact-use-cases-for-falcon-onum/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 27, 2026 00:00:00-0500  
@@ -771,7 +782,7 @@
 
 ---
 
-### 85. [CrowdStrike Joins the Open Secure AI Alliance to Advance AI Safety and Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-joins-the-open-secure-ai-alliance/)
+### 86. [CrowdStrike Joins the Open Secure AI Alliance to Advance AI Safety and Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-joins-the-open-secure-ai-alliance/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 27, 2026 00:00:00-0400  
@@ -780,7 +791,7 @@
 
 ---
 
-### 86. [CrowdStrike Falcon Platform Helps Meet U.S. Government Mandates for CISA BOD-26-04](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-helps-meet-us-government-mandates-cisa-bod-26-04/)
+### 87. [CrowdStrike Falcon Platform Helps Meet U.S. Government Mandates for CISA BOD-26-04](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-helps-meet-us-government-mandates-cisa-bod-26-04/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 22, 2026 00:00:00-0500  
@@ -789,7 +800,7 @@
 
 ---
 
-### 87. [Denying the Worm: Detecting SANDWORM_MODE and the Emerging Class of AI Toolchain Supply Chain Attacks](https://www.crowdstrike.com/en-us/blog/denying-the-worm-sandworm-mode-and-ai-toolchain-supply-chain-attacks/)
+### 88. [Denying the Worm: Detecting SANDWORM_MODE and the Emerging Class of AI Toolchain Supply Chain Attacks](https://www.crowdstrike.com/en-us/blog/denying-the-worm-sandworm-mode-and-ai-toolchain-supply-chain-attacks/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 21, 2026 00:00:00-0500  
@@ -798,7 +809,7 @@
 
 ---
 
-### 88. [Beyond the Model: Harnessing Frontier AI for Stronger Cyber Defense](https://www.crowdstrike.com/en-us/blog/harnessing-frontier-ai-for-stronger-defense/)
+### 89. [Beyond the Model: Harnessing Frontier AI for Stronger Cyber Defense](https://www.crowdstrike.com/en-us/blog/harnessing-frontier-ai-for-stronger-defense/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 20, 2026 00:00:00-0500  
@@ -807,21 +818,12 @@
 
 ---
 
-### 89. [AIDR: How CrowdStrike Is Defining the Next Era of Cybersecurity](https://www.crowdstrike.com/en-us/blog/aidr-how-crowdstrike-is-defining-next-era-of-cybersecurity/)
+### 90. [AIDR: How CrowdStrike Is Defining the Next Era of Cybersecurity](https://www.crowdstrike.com/en-us/blog/aidr-how-crowdstrike-is-defining-next-era-of-cybersecurity/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 15, 2026 00:00:00-0500  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 90. [July 2026 Patch Tuesday: Microsoft Patches 622 Vulnerabilities Including Two Exploited Zero-Days](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-july-2026/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Jul 14, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** Vulnerability  
 
 ---
 
