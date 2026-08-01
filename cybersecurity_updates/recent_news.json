@@ -1,6 +1,62 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites",
+    "link": "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html",
+    "published": "Sat, 01 Aug 2026 14:33:07 +0530",
+    "summary": "Attackers modified a JavaScript file served by advertising technology company Adform, turning it into a browser-side tool that rewrites cryptocurrency wallet addresses.\n\nAdform detected the incident on July 27, 2026, removed the malicious code, notified affected clients, and reported it to authorities.\n\nAnyone who visited a site carrying the affected script on July 27 and copied a Bitcoin,",
+    "analysis": {
+      "issue": "Attackers altered Adform's trackpoint-async",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction",
+    "link": "https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html",
+    "published": "Sat, 01 Aug 2026 12:42:42 +0530",
+    "summary": "Adobe has released security updates to address a maximum-severity security flaw in Campaign Classic (ACC), its enterprise-focused marketing automation platform, that could result in arbitrary code execution.\n\nThe vulnerability, tracked as CVE-2026-48449, carries a severity score of 10.0 on the CVSS scoring system.\n\nIt has been described as a case of incorrect authorization that could result in",
+    "analysis": {
+      "issue": "Adobe patches CVE-2026-48449, a CVSS 10",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-48449"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware",
+    "link": "https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html",
+    "published": "Sat, 01 Aug 2026 11:59:05 +0530",
+    "summary": "A fake browser update served over hijacked hotel Wi-Fi has been used to deliver CornFlake, a remote access trojan (RAT) that can capture webcam images, microphone audio, and keystrokes, Microsoft said in its latest report.\n\nResearchers track the operation as CaptiveCrunch and attribute it to Storm-2945. It assesses Storm-2945 to be an operational sub-cluster of Midnight Blizzard, also known as",
+    "analysis": {
+      "issue": "Microsoft links hijacked hotel Wi-Fi to fake updates that deliver CornFlake, steal cloud tokens, and abuse device codes to target travelers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk",
     "link": "https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html",
     "published": "Sat, 01 Aug 2026 00:22:04 +0530",
@@ -123,61 +179,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Anthropic Says Claude Mistook the Open Internet for a CTF and Breached Three Organizations",
-    "link": "https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html",
-    "published": "Fri, 31 Jul 2026 12:11:44 +0530",
-    "summary": "Anthropic on Thursday became the latest artificial intelligence (AI) company to reveal that three of its models, including Claude Opus 4.7, Mythos 5, and an unnamed research model, had breached three unnamed organizations during cybersecurity testing without its knowledge.\n\nThe AI firm said the earliest incidents date back to April 2026, adding it made the discoveries after launching a \"",
-    "analysis": {
-      "issue": "Anthropic says 3 Claude models breached real organizations after misconfigured CTF evaluations exposed them to the open internet and production system",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware",
-    "link": "https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html",
-    "published": "Thu, 30 Jul 2026 23:48:24 +0530",
-    "summary": "Threat actors with ties to North Korea have been attributed to a sophisticated macOS malvertising campaign that involves redirecting users to fake web pages displaying a full-screen non-existent update sequence to deliver malware as part of a new iteration of the long-running Contagious Interview campaign.\n\nThe defining aspect of the attack is that bogus macOS software update screen stealthily",
-    "analysis": {
-      "issue": "DPRK-linked macOS malvertising uses fake updates and ClickFix to install a backdoor that fetches a stealer targeting 157 crypto wallets",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories",
-    "link": "https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html",
-    "published": "Thu, 30 Jul 2026 20:55:57 +0530",
-    "summary": "A lot of security still comes down to trusting the wrong screen.\n\nThis week, that screen might be a login page, an install guide, a recruiter call, or a familiar service behaving slightly wrong. Behind it: reused credentials, exposed systems, quiet loaders, abused trust, and exploit paths that should have been harder.\n\nSome defenses improved. The loose parts still got found first. Anyway,",
-    "analysis": {
-      "issue": "Autonomous AI attacks, SonicWall credential stuffing, DNS hijacking, fake Claude malware, Chrome flaws, phishing campaigns, and more security news",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
       ]
     }
   },
@@ -557,9 +558,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-49160",
         "CVE-2026-45586",
-        "CVE-2026-50507",
-        "CVE-2026-49160"
+        "CVE-2026-50507"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -940,34 +941,34 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50327",
-        "CVE-2026-55018",
-        "CVE-2026-58644",
-        "CVE-2026-55120",
-        "CVE-2026-50467",
-        "CVE-2026-56155",
-        "CVE-2026-55043",
-        "CVE-2026-56164",
+        "CVE-2026-55033",
         "CVE-2026-55129",
-        "CVE-2026-50314",
-        "CVE-2026-55944",
+        "CVE-2026-50370",
         "CVE-2026-55140",
         "CVE-2026-50655",
-        "CVE-2026-55056",
-        "CVE-2026-55022",
-        "CVE-2026-55049",
-        "CVE-2026-55045",
-        "CVE-2026-56188",
-        "CVE-2026-50370",
-        "CVE-2026-55127",
+        "CVE-2026-56155",
+        "CVE-2026-56164",
+        "CVE-2026-54128",
+        "CVE-2026-55018",
         "CVE-2026-54992",
-        "CVE-2026-55033",
+        "CVE-2026-55045",
+        "CVE-2026-55944",
         "CVE-2026-50518",
+        "CVE-2026-55022",
+        "CVE-2026-58644",
+        "CVE-2026-56188",
+        "CVE-2026-55010",
+        "CVE-2026-55120",
+        "CVE-2026-55049",
+        "CVE-2026-55056",
+        "CVE-2026-55043",
         "CVE-2026-50522",
         "CVE-2026-55132",
+        "CVE-2026-50327",
         "CVE-2026-55123",
-        "CVE-2026-55010",
-        "CVE-2026-54128"
+        "CVE-2026-50314",
+        "CVE-2026-50467",
+        "CVE-2026-55127"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1321,8 +1322,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",

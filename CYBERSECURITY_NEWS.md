@@ -1,10 +1,38 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-01 04:02:49 UTC
+**Last Updated:** 2026-08-01 10:16:21 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk](https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html)
+### 1. [Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites](https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 01 Aug 2026 14:33:07 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction](https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 01 Aug 2026 12:42:42 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-48449  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware](https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 01 Aug 2026 11:59:05 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 4. [Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk](https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 01 Aug 2026 00:22:04 +0530  
@@ -13,7 +41,7 @@
 
 ---
 
-### 2. [HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm](https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html)
+### 5. [HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm](https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 31 Jul 2026 22:09:31 +0530  
@@ -22,7 +50,7 @@
 
 ---
 
-### 3. [Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies](https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html)
+### 6. [Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies](https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 31 Jul 2026 20:15:01 +0530  
@@ -31,7 +59,7 @@
 
 ---
 
-### 4. [Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined](https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html)
+### 7. [Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined](https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 31 Jul 2026 18:21:52 +0530  
@@ -40,7 +68,7 @@
 
 ---
 
-### 5. [Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw](https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html)
+### 8. [Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw](https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 31 Jul 2026 17:25:00 +0530  
@@ -49,7 +77,7 @@
 
 ---
 
-### 6. [6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026](https://thehackernews.com/2026/07/6-reasons-why-device-code-phishing-is.html)
+### 9. [6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026](https://thehackernews.com/2026/07/6-reasons-why-device-code-phishing-is.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 31 Jul 2026 16:54:59 +0530  
@@ -58,39 +86,12 @@
 
 ---
 
-### 7. [Chinese Hacker Commands DeepSeek via Telegram to Launch Autonomous Attacks](https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html)
+### 10. [Chinese Hacker Commands DeepSeek via Telegram to Launch Autonomous Attacks](https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 31 Jul 2026 16:51:27 +0530  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 8. [Anthropic Says Claude Mistook the Open Internet for a CTF and Breached Three Organizations](https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 31 Jul 2026 12:11:44 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 9. [DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware](https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 30 Jul 2026 23:48:24 +0530  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 10. [ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories](https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 30 Jul 2026 20:55:57 +0530  
-**Severity:** Low  
-**Categories:** Malware, Phishing  
 
 ---
 
@@ -272,7 +273,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-45586, CVE-2026-50507, CVE-2026-49160  
+**CVEs:** CVE-2026-49160, CVE-2026-45586, CVE-2026-50507  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -455,7 +456,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Jul 2026 20:27:33 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50327, CVE-2026-55018, CVE-2026-58644, CVE-2026-55120, CVE-2026-50467, CVE-2026-56155, CVE-2026-55043, CVE-2026-56164, CVE-2026-55129, CVE-2026-50314, CVE-2026-55944, CVE-2026-55140, CVE-2026-50655, CVE-2026-55056, CVE-2026-55022, CVE-2026-55049, CVE-2026-55045, CVE-2026-56188, CVE-2026-50370, CVE-2026-55127, CVE-2026-54992, CVE-2026-55033, CVE-2026-50518, CVE-2026-50522, CVE-2026-55132, CVE-2026-55123, CVE-2026-55010, CVE-2026-54128  
+**CVEs:** CVE-2026-55033, CVE-2026-55129, CVE-2026-50370, CVE-2026-55140, CVE-2026-50655, CVE-2026-56155, CVE-2026-56164, CVE-2026-54128, CVE-2026-55018, CVE-2026-54992, CVE-2026-55045, CVE-2026-55944, CVE-2026-50518, CVE-2026-55022, CVE-2026-58644, CVE-2026-56188, CVE-2026-55010, CVE-2026-55120, CVE-2026-55049, CVE-2026-55056, CVE-2026-55043, CVE-2026-50522, CVE-2026-55132, CVE-2026-50327, CVE-2026-55123, CVE-2026-50314, CVE-2026-50467, CVE-2026-55127  
 **Categories:** Vulnerability  
 
 ---
@@ -630,7 +631,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
