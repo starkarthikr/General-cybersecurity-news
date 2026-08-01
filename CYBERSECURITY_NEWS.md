@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-07-31 18:03:59 UTC
+**Last Updated:** 2026-08-01 03:29:23 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm](https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html)
+### 1. [Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk](https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 01 Aug 2026 00:22:04 +0530  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 2. [HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm](https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 31 Jul 2026 22:09:31 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies](https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html)
+### 3. [Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies](https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 31 Jul 2026 20:15:01 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined](https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html)
+### 4. [Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined](https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 31 Jul 2026 18:21:52 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw](https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html)
+### 5. [Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw](https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 31 Jul 2026 17:25:00 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026](https://thehackernews.com/2026/07/6-reasons-why-device-code-phishing-is.html)
+### 6. [6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026](https://thehackernews.com/2026/07/6-reasons-why-device-code-phishing-is.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 31 Jul 2026 16:54:59 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [Chinese Hacker Commands DeepSeek via Telegram to Launch Autonomous Attacks](https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html)
+### 7. [Chinese Hacker Commands DeepSeek via Telegram to Launch Autonomous Attacks](https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 31 Jul 2026 16:51:27 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [Anthropic Says Claude Mistook the Open Internet for a CTF and Breached Three Organizations](https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html)
+### 8. [Anthropic Says Claude Mistook the Open Internet for a CTF and Breached Three Organizations](https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 31 Jul 2026 12:11:44 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware](https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html)
+### 9. [DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware](https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 30 Jul 2026 23:48:24 +0530  
@@ -76,7 +85,7 @@
 
 ---
 
-### 9. [ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories](https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html)
+### 10. [ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories](https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 30 Jul 2026 20:55:57 +0530  
@@ -85,16 +94,43 @@
 
 ---
 
-### 10. [Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database](https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html)
+### 11. [Amgen says cloud data breach exposed patient health, proprietary info](https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 30 Jul 2026 19:04:09 +0530  
+**Source:** Bleeping Computer  
+**Published:** Fri, 31 Jul 2026 18:16:42 -0400  
+**Severity:** Low  
+**Categories:** Data Breach, Supply Chain  
+
+---
+
+### 12. [Arch Linux disables AUR package adoption to stop malware flood](https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 31 Jul 2026 17:38:08 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 13. [Online ad firm Adform’s script compromised to steal cryptocurrency](https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 31 Jul 2026 17:09:25 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 14. [OpenAI says its new GPT 5.6 models are becoming more cost-efficient](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-gpt-56-models-are-becoming-more-cost-efficient/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 31 Jul 2026 14:52:44 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 11. [Hacker uses DeepSeek AI to autonomously attack vulnerable servers](https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/)
+### 15. [Hacker uses DeepSeek AI to autonomously attack vulnerable servers](https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 31 Jul 2026 13:35:35 -0400  
@@ -103,7 +139,7 @@
 
 ---
 
-### 12. [CISA warns of cyberattacks disrupting U.S. water utilities](https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/)
+### 16. [CISA warns of cyberattacks disrupting U.S. water utilities](https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 31 Jul 2026 12:49:49 -0400  
@@ -112,7 +148,7 @@
 
 ---
 
-### 13. [ESET tracks rise in malicious AI skills and adaptable malware](https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/)
+### 17. [ESET tracks rise in malicious AI skills and adaptable malware](https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 31 Jul 2026 10:01:11 -0400  
@@ -121,7 +157,7 @@
 
 ---
 
-### 14. [Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests](https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/)
+### 18. [Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests](https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 30 Jul 2026 20:57:25 -0400  
@@ -130,7 +166,7 @@
 
 ---
 
-### 15. [South Korea fines telco giant KT $39 million for customer data breach](https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/)
+### 19. [South Korea fines telco giant KT $39 million for customer data breach](https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 30 Jul 2026 18:28:30 -0400  
@@ -139,50 +175,13 @@
 
 ---
 
-### 16. [JetBrains warns of critical TeamCity remote code execution flaw](https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw/)
+### 20. [JetBrains warns of critical TeamCity remote code execution flaw](https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 30 Jul 2026 18:01:31 -0400  
 **Severity:** Critical  
 **CVEs:** CVE-2026-63077  
 **Categories:** Ransomware, Vulnerability  
-
----
-
-### 17. [Amazon links Debug, Chalk NPM supply-chain attacks to North Korean hackers](https://www.bleepingcomputer.com/news/security/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hackers/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 30 Jul 2026 14:13:24 -0400  
-**Severity:** High  
-**Categories:** Malware, Supply Chain  
-
----
-
-### 18. [VMware fixes three critical flaws allowing auth bypass, VM escapes](https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 30 Jul 2026 14:00:51 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-47876, CVE-2026-41703, CVE-2026-59310, CVE-2026-59309, CVE-2026-41709  
-**Categories:** Vulnerability  
-
----
-
-### 19. [Google says AI helped Chrome fix 1,072 security bugs in two releases](https://www.bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 30 Jul 2026 13:00:00 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability, APT  
-
----
-
-### 20. [ShinyHunters claims Brinks Home breach, threatens to leak stolen data](https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 30 Jul 2026 12:46:15 -0400  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -209,7 +208,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48561, CVE-2026-56164, CVE-2026-50661, CVE-2026-56155  
+**CVEs:** CVE-2026-50661, CVE-2026-56164, CVE-2026-48561, CVE-2026-56155  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -273,7 +272,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-49160, CVE-2026-50507, CVE-2026-45586  
+**CVEs:** CVE-2026-45586, CVE-2026-50507, CVE-2026-49160  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -456,7 +455,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Jul 2026 20:27:33 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50314, CVE-2026-55129, CVE-2026-55049, CVE-2026-55120, CVE-2026-50522, CVE-2026-55127, CVE-2026-55022, CVE-2026-50370, CVE-2026-55033, CVE-2026-58644, CVE-2026-55010, CVE-2026-50655, CVE-2026-50467, CVE-2026-50518, CVE-2026-55056, CVE-2026-55944, CVE-2026-56188, CVE-2026-54992, CVE-2026-55045, CVE-2026-56164, CVE-2026-55018, CVE-2026-50327, CVE-2026-55140, CVE-2026-55132, CVE-2026-54128, CVE-2026-55123, CVE-2026-56155, CVE-2026-55043  
+**CVEs:** CVE-2026-55944, CVE-2026-55033, CVE-2026-55043, CVE-2026-58644, CVE-2026-54992, CVE-2026-56164, CVE-2026-50518, CVE-2026-55129, CVE-2026-55045, CVE-2026-55132, CVE-2026-55140, CVE-2026-55123, CVE-2026-55056, CVE-2026-55049, CVE-2026-50314, CVE-2026-50370, CVE-2026-55120, CVE-2026-55127, CVE-2026-55018, CVE-2026-55010, CVE-2026-56188, CVE-2026-55022, CVE-2026-56155, CVE-2026-50327, CVE-2026-50522, CVE-2026-50655, CVE-2026-50467, CVE-2026-54128  
 **Categories:** Vulnerability  
 
 ---
