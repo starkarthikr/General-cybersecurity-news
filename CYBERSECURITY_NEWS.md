@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-01 10:16:21 UTC
+**Last Updated:** 2026-08-01 13:39:41 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -209,7 +209,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50661, CVE-2026-56164, CVE-2026-48561, CVE-2026-56155  
+**CVEs:** CVE-2026-56155, CVE-2026-48561, CVE-2026-50661, CVE-2026-56164  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -273,12 +273,31 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-49160, CVE-2026-45586, CVE-2026-50507  
+**CVEs:** CVE-2026-49160, CVE-2026-50507, CVE-2026-45586  
 **Categories:** Vulnerability, DDoS  
 
 ---
 
-### 31. [In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research](https://www.securityweek.com/in-other-news-openai-open-source-tool-aws-links-hacks-to-north-korea-mythos-crypto-research/)
+### 31. [Balance Theory Raises $19 Million to Help Enterprises Manage Cybersecurity Investments](https://www.securityweek.com/balance-theory-raises-19-million-to-help-enterprises-manage-cybersecurity-investments/)
+
+**Source:** Security Week  
+**Published:** Sat, 01 Aug 2026 12:30:00 +0000  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 32. [Ruby on Rails Patches Critical Vulnerability](https://www.securityweek.com/ruby-on-rails-patches-critical-vulnerability/)
+
+**Source:** Security Week  
+**Published:** Sat, 01 Aug 2026 11:15:00 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-66066  
+**Categories:** Vulnerability  
+
+---
+
+### 33. [In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research](https://www.securityweek.com/in-other-news-openai-open-source-tool-aws-links-hacks-to-north-korea-mythos-crypto-research/)
 
 **Source:** Security Week  
 **Published:** Fri, 31 Jul 2026 15:47:02 +0000  
@@ -287,7 +306,7 @@
 
 ---
 
-### 32. [Cyberattacks on Minnesota Water Systems Investigated as Officials Warn About Iranian Hackers](https://www.securityweek.com/cyberattacks-on-minnesota-water-systems-investigated-as-officials-warn-about-iranian-hackers/)
+### 34. [Cyberattacks on Minnesota Water Systems Investigated as Officials Warn About Iranian Hackers](https://www.securityweek.com/cyberattacks-on-minnesota-water-systems-investigated-as-officials-warn-about-iranian-hackers/)
 
 **Source:** Security Week  
 **Published:** Fri, 31 Jul 2026 15:17:41 +0000  
@@ -296,7 +315,7 @@
 
 ---
 
-### 33. [Google AI Uncovers 13-Year-Old Chrome Flaw Amid Record Patching Pace](https://www.securityweek.com/googles-ai-agent-uncovers-13-year-old-chrome-flaw-amid-record-patching-pace/)
+### 35. [Google AI Uncovers 13-Year-Old Chrome Flaw Amid Record Patching Pace](https://www.securityweek.com/googles-ai-agent-uncovers-13-year-old-chrome-flaw-amid-record-patching-pace/)
 
 **Source:** Security Week  
 **Published:** Fri, 31 Jul 2026 10:28:45 +0000  
@@ -306,7 +325,7 @@
 
 ---
 
-### 34. [EU to Crack Down on AI Deepfakes, Illicit Imagery and Hacking With New Team in Brussels](https://www.securityweek.com/eu-to-crack-down-on-ai-deepfakes-illicit-imagery-and-hacking-with-new-team-in-brussels/)
+### 36. [EU to Crack Down on AI Deepfakes, Illicit Imagery and Hacking With New Team in Brussels](https://www.securityweek.com/eu-to-crack-down-on-ai-deepfakes-illicit-imagery-and-hacking-with-new-team-in-brussels/)
 
 **Source:** Security Week  
 **Published:** Fri, 31 Jul 2026 10:00:00 +0000  
@@ -315,7 +334,7 @@
 
 ---
 
-### 35. [Prompted by OpenAI Disclosure, Anthropic Finds Its Own Models Hacked 3 Organizations](https://www.securityweek.com/after-openai-disclosure-anthropic-finds-its-own-models-hacked-3-organizations/)
+### 37. [Prompted by OpenAI Disclosure, Anthropic Finds Its Own Models Hacked 3 Organizations](https://www.securityweek.com/after-openai-disclosure-anthropic-finds-its-own-models-hacked-3-organizations/)
 
 **Source:** Security Week  
 **Published:** Fri, 31 Jul 2026 09:39:57 +0000  
@@ -324,7 +343,7 @@
 
 ---
 
-### 36. [Critical Flaw Allowed to Azure Cosmos DB Pwnage](https://www.securityweek.com/critical-flaw-led-to-azure-cosmos-db-pwnage/)
+### 38. [Critical Flaw Allowed to Azure Cosmos DB Pwnage](https://www.securityweek.com/critical-flaw-led-to-azure-cosmos-db-pwnage/)
 
 **Source:** Security Week  
 **Published:** Fri, 31 Jul 2026 09:04:02 +0000  
@@ -333,7 +352,7 @@
 
 ---
 
-### 37. [CareCloud Data Breach Impacts Over 350,000](https://www.securityweek.com/carecloud-data-breach-impacts-over-350000/)
+### 39. [CareCloud Data Breach Impacts Over 350,000](https://www.securityweek.com/carecloud-data-breach-impacts-over-350000/)
 
 **Source:** Security Week  
 **Published:** Fri, 31 Jul 2026 07:51:43 +0000  
@@ -342,31 +361,13 @@
 
 ---
 
-### 38. [Critical Code Execution Vulnerability Patched in TeamCity](https://www.securityweek.com/critical-code-execution-vulnerability-patched-in-teamcity/)
+### 40. [Critical Code Execution Vulnerability Patched in TeamCity](https://www.securityweek.com/critical-code-execution-vulnerability-patched-in-teamcity/)
 
 **Source:** Security Week  
 **Published:** Fri, 31 Jul 2026 06:50:30 +0000  
 **Severity:** Critical  
 **CVEs:** CVE-2026-63077  
 **Categories:** Vulnerability  
-
----
-
-### 39. [CISA Urges Water Sector to Protect OT After Coordinated Attacks on PLCs](https://www.securityweek.com/cisa-urges-water-sector-to-protect-ot-after-coordinated-attacks-on-plcs/)
-
-**Source:** Security Week  
-**Published:** Thu, 30 Jul 2026 22:18:36 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, APT  
-
----
-
-### 40. [Bank of America to Acquire Cybersecurity Firm MDSec](https://www.securityweek.com/bank-of-america-to-acquire-cybersecurity-firm-mdsec/)
-
-**Source:** Security Week  
-**Published:** Thu, 30 Jul 2026 21:02:21 +0000  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -456,7 +457,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Jul 2026 20:27:33 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-55033, CVE-2026-55129, CVE-2026-50370, CVE-2026-55140, CVE-2026-50655, CVE-2026-56155, CVE-2026-56164, CVE-2026-54128, CVE-2026-55018, CVE-2026-54992, CVE-2026-55045, CVE-2026-55944, CVE-2026-50518, CVE-2026-55022, CVE-2026-58644, CVE-2026-56188, CVE-2026-55010, CVE-2026-55120, CVE-2026-55049, CVE-2026-55056, CVE-2026-55043, CVE-2026-50522, CVE-2026-55132, CVE-2026-50327, CVE-2026-55123, CVE-2026-50314, CVE-2026-50467, CVE-2026-55127  
+**CVEs:** CVE-2026-50522, CVE-2026-56164, CVE-2026-55132, CVE-2026-55140, CVE-2026-50327, CVE-2026-55129, CVE-2026-55049, CVE-2026-55033, CVE-2026-55127, CVE-2026-55043, CVE-2026-50467, CVE-2026-54128, CVE-2026-55045, CVE-2026-58644, CVE-2026-56188, CVE-2026-50518, CVE-2026-55120, CVE-2026-55123, CVE-2026-50655, CVE-2026-56155, CVE-2026-55056, CVE-2026-50370, CVE-2026-55944, CVE-2026-55022, CVE-2026-55018, CVE-2026-50314, CVE-2026-54992, CVE-2026-55010  
 **Categories:** Vulnerability  
 
 ---
@@ -631,7 +632,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

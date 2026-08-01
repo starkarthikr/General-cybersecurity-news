@@ -421,10 +421,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50661",
-        "CVE-2026-56164",
+        "CVE-2026-56155",
         "CVE-2026-48561",
-        "CVE-2026-56155"
+        "CVE-2026-50661",
+        "CVE-2026-56164"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -559,12 +559,50 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-49160",
-        "CVE-2026-45586",
-        "CVE-2026-50507"
+        "CVE-2026-50507",
+        "CVE-2026-45586"
       ],
       "threat_categories": [
         "Vulnerability",
         "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Balance Theory Raises $19 Million to Help Enterprises Manage Cybersecurity Investments",
+    "link": "https://www.securityweek.com/balance-theory-raises-19-million-to-help-enterprises-manage-cybersecurity-investments/",
+    "published": "Sat, 01 Aug 2026 12:30:00 +0000",
+    "summary": "<p>The funding round was led by SYN Ventures, with participation from existing investors DataTribe and TEDCO. </p>\n<p>The post <a href=\"https://www.securityweek.com/balance-theory-raises-19-million-to-help-enterprises-manage-cybersecurity-investments/\">Balance Theory Raises $19 Million to Help Enterprises Manage Cybersecurity Investments</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The funding round was led by SYN Ventures, with participation from existing investors DataTribe and TEDCO",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Ruby on Rails Patches Critical Vulnerability",
+    "link": "https://www.securityweek.com/ruby-on-rails-patches-critical-vulnerability/",
+    "published": "Sat, 01 Aug 2026 11:15:00 +0000",
+    "summary": "<p>The flaw can be exploited by unauthenticated attackers to read arbitrary files and potentially achieve remote code execution (RCE).</p>\n<p>The post <a href=\"https://www.securityweek.com/ruby-on-rails-patches-critical-vulnerability/\">Ruby on Rails Patches Critical Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The flaw can be exploited by unauthenticated attackers to read arbitrary files and potentially achieve remote code execution (RCE)",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-66066"
+      ],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -721,43 +759,6 @@
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "CISA Urges Water Sector to Protect OT After Coordinated Attacks on PLCs",
-    "link": "https://www.securityweek.com/cisa-urges-water-sector-to-protect-ot-after-coordinated-attacks-on-plcs/",
-    "published": "Thu, 30 Jul 2026 22:18:36 +0000",
-    "summary": "<p>CISA is urging water and wastewater utilities to lock down internet-exposed controllers, days after intrusions hit dozens of Minnesota systems.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-urges-water-sector-to-protect-ot-after-coordinated-attacks-on-plcs/\">CISA Urges Water Sector to Protect OT After Coordinated Attacks on PLCs</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "CISA is urging water and wastewater utilities to lock down internet-exposed controllers, days after intrusions hit dozens of Minnesota systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Bank of America to Acquire Cybersecurity Firm MDSec",
-    "link": "https://www.securityweek.com/bank-of-america-to-acquire-cybersecurity-firm-mdsec/",
-    "published": "Thu, 30 Jul 2026 21:02:21 +0000",
-    "summary": "<p>The acquisition will add approximately 65 cybersecurity professionals to Bank of America’s operations in the United Kingdom.</p>\n<p>The post <a href=\"https://www.securityweek.com/bank-of-america-to-acquire-cybersecurity-firm-mdsec/\">Bank of America to Acquire Cybersecurity Firm MDSec</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The acquisition will add approximately 65 cybersecurity professionals to Bank of America’s operations in the United Kingdom",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -941,34 +942,34 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-55033",
-        "CVE-2026-55129",
-        "CVE-2026-50370",
-        "CVE-2026-55140",
-        "CVE-2026-50655",
-        "CVE-2026-56155",
+        "CVE-2026-50522",
         "CVE-2026-56164",
+        "CVE-2026-55132",
+        "CVE-2026-55140",
+        "CVE-2026-50327",
+        "CVE-2026-55129",
+        "CVE-2026-55049",
+        "CVE-2026-55033",
+        "CVE-2026-55127",
+        "CVE-2026-55043",
+        "CVE-2026-50467",
         "CVE-2026-54128",
-        "CVE-2026-55018",
-        "CVE-2026-54992",
         "CVE-2026-55045",
-        "CVE-2026-55944",
-        "CVE-2026-50518",
-        "CVE-2026-55022",
         "CVE-2026-58644",
         "CVE-2026-56188",
-        "CVE-2026-55010",
+        "CVE-2026-50518",
         "CVE-2026-55120",
-        "CVE-2026-55049",
-        "CVE-2026-55056",
-        "CVE-2026-55043",
-        "CVE-2026-50522",
-        "CVE-2026-55132",
-        "CVE-2026-50327",
         "CVE-2026-55123",
+        "CVE-2026-50655",
+        "CVE-2026-56155",
+        "CVE-2026-55056",
+        "CVE-2026-50370",
+        "CVE-2026-55944",
+        "CVE-2026-55022",
+        "CVE-2026-55018",
         "CVE-2026-50314",
-        "CVE-2026-50467",
-        "CVE-2026-55127"
+        "CVE-2026-54992",
+        "CVE-2026-55010"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1322,8 +1323,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
