@@ -184,6 +184,24 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Google Chrome may soon block New Tab hijacker extensions by default",
+    "link": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
+    "published": "Sun, 02 Aug 2026 10:17:16 -0400",
+    "summary": "Google is preparing a new Chrome security feature that would block policy-installed extensions from hijacking the New Tab page or changing the default search engine. [...]",
+    "analysis": {
+      "issue": "Google is preparing a new Chrome security feature that would block policy-installed extensions from hijacking the New Tab page or changing the default search engine",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Rails patches critical Active Storage flaw with RCE potential",
     "link": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
     "published": "Sat, 01 Aug 2026 10:20:30 -0400",
@@ -354,24 +372,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "South Korea fines telco giant KT $39 million for customer data breach",
-    "link": "https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/",
-    "published": "Thu, 30 Jul 2026 18:28:30 -0400",
-    "summary": "South Korea's Personal Information Protection Commission (PIPC) has fined telecommunications giant KT Corporation KRW 53.979 billion ($39 million) over data protection violations. [...]",
-    "analysis": {
-      "issue": "South Korea's Personal Information Protection Commission (PIPC) has fined telecommunications giant KT Corporation KRW 53",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Read This Before You Buy That TV Streaming Stick",
     "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
@@ -420,9 +420,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-48561",
-        "CVE-2026-56155",
         "CVE-2026-50661",
+        "CVE-2026-56155",
+        "CVE-2026-48561",
         "CVE-2026-56164"
       ],
       "threat_categories": [
@@ -557,8 +557,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-45586",
         "CVE-2026-50507",
+        "CVE-2026-45586",
         "CVE-2026-49160"
       ],
       "threat_categories": [
@@ -941,34 +941,34 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-55123",
-        "CVE-2026-55132",
-        "CVE-2026-55944",
-        "CVE-2026-55129",
-        "CVE-2026-50655",
-        "CVE-2026-55140",
-        "CVE-2026-50522",
-        "CVE-2026-50327",
-        "CVE-2026-56164",
-        "CVE-2026-50370",
-        "CVE-2026-55018",
-        "CVE-2026-55043",
-        "CVE-2026-50314",
-        "CVE-2026-56188",
         "CVE-2026-55127",
-        "CVE-2026-54128",
-        "CVE-2026-55010",
-        "CVE-2026-58644",
-        "CVE-2026-55045",
-        "CVE-2026-55022",
-        "CVE-2026-55056",
         "CVE-2026-50518",
-        "CVE-2026-50467",
-        "CVE-2026-55033",
+        "CVE-2026-50314",
+        "CVE-2026-55056",
+        "CVE-2026-50522",
+        "CVE-2026-55123",
+        "CVE-2026-50370",
+        "CVE-2026-50327",
+        "CVE-2026-50655",
+        "CVE-2026-55129",
         "CVE-2026-55120",
+        "CVE-2026-55018",
+        "CVE-2026-56188",
+        "CVE-2026-54128",
+        "CVE-2026-55022",
         "CVE-2026-55049",
         "CVE-2026-56155",
-        "CVE-2026-54992"
+        "CVE-2026-58644",
+        "CVE-2026-56164",
+        "CVE-2026-55010",
+        "CVE-2026-55043",
+        "CVE-2026-55944",
+        "CVE-2026-55045",
+        "CVE-2026-55140",
+        "CVE-2026-55033",
+        "CVE-2026-54992",
+        "CVE-2026-55132",
+        "CVE-2026-50467"
       ],
       "threat_categories": [
         "Vulnerability"
