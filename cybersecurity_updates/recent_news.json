@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
+    "link": "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html",
+    "published": "Sat, 01 Aug 2026 22:47:22 +0530",
+    "summary": "An attacker drained 1,196 Bitcoin addresses in 41 minutes on July 30, taking 1,082.65 BTC worth about $70.2 million at the time. Galaxy Research mapped the sweep and tied it to a firmware flaw in Coldcard, the Bitcoin-only hardware wallet made by Canadian firm Coinkite.\n\nA March 2021 firmware integration error routed seed generation to a deterministic software pseudorandom number generator (PRNG",
+    "analysis": {
+      "issue": "A Coldcard firmware flaw weakens wallet seed generation across five models, while Galaxy links a 1,196-address, $70",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites",
     "link": "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html",
     "published": "Sat, 01 Aug 2026 14:33:07 +0530",
@@ -161,24 +179,6 @@
       "cves": [],
       "threat_categories": [
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Chinese Hacker Commands DeepSeek via Telegram to Launch Autonomous Attacks",
-    "link": "https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html",
-    "published": "Fri, 31 Jul 2026 16:51:27 +0530",
-    "summary": "Palo Alto Networks' Unit 42 says a Chinese-speaking threat actor used DeepSeek through the open-source Hermes Agent framework to launch attacks autonomously.\n\nAfter an initial Telegram instruction, the agent found internet-facing systems and selected public exploits. The researchers recovered no further operator input in the session.\n\nThe operator, tracked through the aliases knaithe and KnYuan,",
-    "analysis": {
-      "issue": "Chinese-speaking actor used DeepSeek through Hermes Agent to launch attacks after one Telegram instruction in a 460-plus-target operation",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -421,9 +421,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-48561",
-        "CVE-2026-56155",
         "CVE-2026-56164",
-        "CVE-2026-50661"
+        "CVE-2026-50661",
+        "CVE-2026-56155"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -941,34 +941,34 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-55140",
-        "CVE-2026-50655",
-        "CVE-2026-50327",
-        "CVE-2026-58644",
-        "CVE-2026-55018",
-        "CVE-2026-56188",
         "CVE-2026-56164",
-        "CVE-2026-55043",
-        "CVE-2026-55123",
-        "CVE-2026-55132",
-        "CVE-2026-50518",
-        "CVE-2026-56155",
-        "CVE-2026-55010",
-        "CVE-2026-55127",
-        "CVE-2026-50314",
-        "CVE-2026-54992",
-        "CVE-2026-55056",
-        "CVE-2026-50522",
-        "CVE-2026-54128",
-        "CVE-2026-55129",
-        "CVE-2026-50370",
-        "CVE-2026-50467",
-        "CVE-2026-55944",
         "CVE-2026-55049",
-        "CVE-2026-55120",
-        "CVE-2026-55033",
+        "CVE-2026-50467",
+        "CVE-2026-55056",
+        "CVE-2026-54992",
+        "CVE-2026-55944",
+        "CVE-2026-50327",
         "CVE-2026-55045",
-        "CVE-2026-55022"
+        "CVE-2026-58644",
+        "CVE-2026-55033",
+        "CVE-2026-56188",
+        "CVE-2026-55132",
+        "CVE-2026-55120",
+        "CVE-2026-55129",
+        "CVE-2026-54128",
+        "CVE-2026-50518",
+        "CVE-2026-50370",
+        "CVE-2026-55127",
+        "CVE-2026-55043",
+        "CVE-2026-50655",
+        "CVE-2026-55140",
+        "CVE-2026-55010",
+        "CVE-2026-50314",
+        "CVE-2026-55022",
+        "CVE-2026-55123",
+        "CVE-2026-55018",
+        "CVE-2026-50522",
+        "CVE-2026-56155"
       ],
       "threat_categories": [
         "Vulnerability"

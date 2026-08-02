@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-01 17:33:15 UTC
+**Last Updated:** 2026-08-02 03:28:49 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites](https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html)
+### 1. [Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes](https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 01 Aug 2026 22:47:22 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites](https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 01 Aug 2026 14:33:07 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction](https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html)
+### 3. [Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction](https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 01 Aug 2026 12:42:42 +0530  
@@ -23,7 +32,7 @@
 
 ---
 
-### 3. [Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware](https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html)
+### 4. [Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware](https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 01 Aug 2026 11:59:05 +0530  
@@ -32,7 +41,7 @@
 
 ---
 
-### 4. [Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk](https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html)
+### 5. [Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk](https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 01 Aug 2026 00:22:04 +0530  
@@ -41,7 +50,7 @@
 
 ---
 
-### 5. [HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm](https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html)
+### 6. [HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm](https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 31 Jul 2026 22:09:31 +0530  
@@ -50,7 +59,7 @@
 
 ---
 
-### 6. [Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies](https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html)
+### 7. [Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies](https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 31 Jul 2026 20:15:01 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined](https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html)
+### 8. [Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined](https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 31 Jul 2026 18:21:52 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw](https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html)
+### 9. [Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw](https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 31 Jul 2026 17:25:00 +0530  
@@ -77,21 +86,12 @@
 
 ---
 
-### 9. [6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026](https://thehackernews.com/2026/07/6-reasons-why-device-code-phishing-is.html)
+### 10. [6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026](https://thehackernews.com/2026/07/6-reasons-why-device-code-phishing-is.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 31 Jul 2026 16:54:59 +0530  
 **Severity:** Low  
 **Categories:** Phishing  
-
----
-
-### 10. [Chinese Hacker Commands DeepSeek via Telegram to Launch Autonomous Attacks](https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 31 Jul 2026 16:51:27 +0530  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -209,7 +209,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48561, CVE-2026-56155, CVE-2026-56164, CVE-2026-50661  
+**CVEs:** CVE-2026-48561, CVE-2026-56164, CVE-2026-50661, CVE-2026-56155  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -457,7 +457,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Jul 2026 20:27:33 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-55140, CVE-2026-50655, CVE-2026-50327, CVE-2026-58644, CVE-2026-55018, CVE-2026-56188, CVE-2026-56164, CVE-2026-55043, CVE-2026-55123, CVE-2026-55132, CVE-2026-50518, CVE-2026-56155, CVE-2026-55010, CVE-2026-55127, CVE-2026-50314, CVE-2026-54992, CVE-2026-55056, CVE-2026-50522, CVE-2026-54128, CVE-2026-55129, CVE-2026-50370, CVE-2026-50467, CVE-2026-55944, CVE-2026-55049, CVE-2026-55120, CVE-2026-55033, CVE-2026-55045, CVE-2026-55022  
+**CVEs:** CVE-2026-56164, CVE-2026-55049, CVE-2026-50467, CVE-2026-55056, CVE-2026-54992, CVE-2026-55944, CVE-2026-50327, CVE-2026-55045, CVE-2026-58644, CVE-2026-55033, CVE-2026-56188, CVE-2026-55132, CVE-2026-55120, CVE-2026-55129, CVE-2026-54128, CVE-2026-50518, CVE-2026-50370, CVE-2026-55127, CVE-2026-55043, CVE-2026-50655, CVE-2026-55140, CVE-2026-55010, CVE-2026-50314, CVE-2026-55022, CVE-2026-55123, CVE-2026-55018, CVE-2026-50522, CVE-2026-56155  
 **Categories:** Vulnerability  
 
 ---
