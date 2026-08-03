@@ -1,6 +1,46 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
+    "link": "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html",
+    "published": "Mon, 03 Aug 2026 21:54:47 +0530",
+    "summary": "Malware running as an ordinary user on a Windows machine can sign into a victim's passkey-protected accounts without a fingerprint, a PIN, or anything at all appearing on the victim's screen.\n\nUnit 42 detailed three attack paths against Chrome's Google Password Manager cloud authenticator, which it calls Pass-ta-key, Silver Pass-ta-key and Golden Pass-ta-key; the strongest targets the master key",
+    "analysis": {
+      "issue": "Unit 42 details three Chrome passkey attack paths that could let Windows malware bypass verification or recover synced private keys after compromise",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws",
+    "link": "https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html",
+    "published": "Mon, 03 Aug 2026 21:45:13 +0530",
+    "summary": "The INC Ransomware operation has emerged as the \"dominant threat actor\" exploiting the recently disclosed security flaws in SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances.\n\nIn a report published over the weekend, Resecurity said it observed the INC Ransomware accelerating its activity since the beginning of August 2026, listing multiple victims on its data leak site. Per",
+    "analysis": {
+      "issue": "INC Ransomware is suspected of chaining CVE-2026-15409 and CVE-2026-15410 to steal credentials, TOTP seeds, and reach internal networks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-15410",
+        "CVE-2026-15409"
+      ],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks",
     "link": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
     "published": "Mon, 03 Aug 2026 19:33:11 +0530",
@@ -40,7 +80,7 @@
     "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
     "link": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
     "published": "Mon, 03 Aug 2026 16:19:06 +0530",
-    "summary": "An unknown Chinese-threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit.\n\nAttack surface management platform Censys said it identified the threat actor running more than 100 web properties, most of which are fake Amazon Web Services (AWS) sign-in pages on a domain that also hosts the exploit toolkit.\n\n\"",
+    "summary": "An unknown Chinese-speaking threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit.\n\nAttack surface management platform Censys said it identified the threat actor running more than 100 web properties, most of which are fake Amazon Web Services (AWS) sign-in pages on a domain that also hosts the exploit",
     "analysis": {
       "issue": "An unknown Chinese threat actor runs leaked DarkSword across 100-plus web properties, using fake AWS and Apple logins to deploy GHOSTBLADE on iOS",
       "solution": null,
@@ -146,13 +186,33 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites",
-    "link": "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html",
-    "published": "Sat, 01 Aug 2026 14:33:07 +0530",
-    "summary": "Attackers modified a JavaScript file served by advertising technology company Adform, turning it into a browser-side tool that rewrites cryptocurrency wallet addresses.\n\nAdform detected the incident on July 27, 2026, removed the malicious code, notified affected clients, and reported it to authorities.\n\nAnyone who visited a site carrying the affected script on July 27 and copied a Bitcoin,",
+    "source": "Bleeping Computer",
+    "title": "N-able warns of N-central auth bypass flaw exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/",
+    "published": "Mon, 03 Aug 2026 13:00:56 -0400",
+    "summary": "N-able is warning customers that hackers are exploiting an authentication bypass vulnerability (CVE-2026-18577) affecting both hosted and on-premises N-central servers. [...]",
     "analysis": {
-      "issue": "Attackers altered Adform's trackpoint-async",
+      "issue": "N-able is warning customers that hackers are exploiting an authentication bypass vulnerability (CVE-2026-18577) affecting both hosted and on-premises N-central servers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-18577"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "ExfilSquad hackers leak info of over 100,000 UK police officers, staff",
+    "link": "https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/",
+    "published": "Mon, 03 Aug 2026 11:04:39 -0400",
+    "summary": "A cyberattack on the U.K.'s Police National Legal Database (PNLD) has compromised contact data of more than 100,000 police officers and other criminal justice professionals. [...]",
+    "analysis": {
+      "issue": "'s Police National Legal Database (PNLD) has compromised contact data of more than 100,000 police officers and other criminal justice professionals",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -164,28 +224,8 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction",
-    "link": "https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html",
-    "published": "Sat, 01 Aug 2026 12:42:42 +0530",
-    "summary": "Adobe has released security updates to address a maximum-severity security flaw in Campaign Classic (ACC), its enterprise-focused marketing automation platform, that could result in arbitrary code execution.\n\nThe vulnerability, tracked as CVE-2026-48449, carries a severity score of 10.0 on the CVSS scoring system.\n\nIt has been described as a case of incorrect authorization that could result in",
-    "analysis": {
-      "issue": "Adobe patches CVE-2026-48449, a CVSS 10",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-48449"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
-    "title": "Inside the Underground Business of BTMOB RAT",
+    "title": "Inside the Underground Business of the Android BTMOB RAT malware",
     "link": "https://www.bleepingcomputer.com/news/security/inside-the-underground-business-of-btmob-rat/",
     "published": "Mon, 03 Aug 2026 10:45:55 -0400",
     "summary": "Flare researchers analyzed thousands of underground posts to examine how the BTMOB Android malware operation evolved into a fragmented ecosystem of resellers, source-code vendors, custom versions, and competing sales channels. [...]",
@@ -331,42 +371,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "OpenAI says its new GPT 5.6 models are becoming more cost-efficient",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-gpt-56-models-are-becoming-more-cost-efficient/",
-    "published": "Fri, 31 Jul 2026 14:52:44 -0400",
-    "summary": "OpenAI says it has reduced the price of two GPT-5.6 models, cutting Luna's API price by 80% and Terra's by 20% as it works to make its models more efficient. [...]",
-    "analysis": {
-      "issue": "OpenAI says it has reduced the price of two GPT-5",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hacker uses DeepSeek AI to autonomously attack vulnerable servers",
-    "link": "https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/",
-    "published": "Fri, 31 Jul 2026 13:35:35 -0400",
-    "summary": "A Chinese-speaking threat actor is using the DeepSeek AI model and the open-source Hermes Agent to conduct autonomous cyberattacks on exposed servers with limited human involvement. [...]",
-    "analysis": {
-      "issue": "A Chinese-speaking threat actor is using the DeepSeek AI model and the open-source Hermes Agent to conduct autonomous cyberattacks on exposed servers with limited human involvement",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Read This Before You Buy That TV Streaming Stick",
     "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
@@ -415,10 +419,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56155",
-        "CVE-2026-56164",
         "CVE-2026-50661",
-        "CVE-2026-48561"
+        "CVE-2026-48561",
+        "CVE-2026-56155",
+        "CVE-2026-56164"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -564,6 +568,42 @@
   },
   {
     "source": "Security Week",
+    "title": "Black Hat USA 2026 – Summary of Vendor Announcements (Part 1)",
+    "link": "https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-1/",
+    "published": "Mon, 03 Aug 2026 15:50:00 +0000",
+    "summary": "<p>Many companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas.</p>\n<p>The post <a href=\"https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-1/\">Black Hat USA 2026 – Summary of Vendor Announcements (Part 1)</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Many companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Visa to Acquire Fraud Intelligence Firm BioCatch for $2.4 Billion",
+    "link": "https://www.securityweek.com/visa-to-acquire-fraud-intelligence-firm-biocatch-for-2-4-billion/",
+    "published": "Mon, 03 Aug 2026 15:32:05 +0000",
+    "summary": "<p>The payments giant says BioCatch’s behavioral and device intelligence will help financial institutions combat account takeovers, scams and other forms of digital fraud.</p>\n<p>The post <a href=\"https://www.securityweek.com/visa-to-acquire-fraud-intelligence-firm-biocatch-for-2-4-billion/\">Visa to Acquire Fraud Intelligence Firm BioCatch for $2.4 Billion</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The payments giant says BioCatch’s behavioral and device intelligence will help financial institutions combat account takeovers, scams and other forms of digital fraud",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "River Bank Says Hackers Deleted Data Stolen in Ransomware Attack",
     "link": "https://www.securityweek.com/river-bank-says-hackers-deleted-data-stolen-in-ransomware-attack/",
     "published": "Mon, 03 Aug 2026 13:02:06 +0000",
@@ -613,10 +653,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-18577",
-        "CVE-2025-8876",
         "CVE-2025-8875",
-        "CVE-2026-18556"
+        "CVE-2025-8876",
+        "CVE-2026-18556",
+        "CVE-2026-18577"
       ],
       "threat_categories": [
         "Ransomware",
@@ -657,8 +697,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-15409",
-        "CVE-2026-15410"
+        "CVE-2026-15410",
+        "CVE-2026-15409"
       ],
       "threat_categories": [
         "Ransomware",
@@ -724,43 +764,21 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Ruby on Rails Patches Critical Vulnerability",
-    "link": "https://www.securityweek.com/ruby-on-rails-patches-critical-vulnerability/",
-    "published": "Sat, 01 Aug 2026 11:15:00 +0000",
-    "summary": "<p>The flaw can be exploited by unauthenticated attackers to read arbitrary files and potentially achieve remote code execution (RCE).</p>\n<p>The post <a href=\"https://www.securityweek.com/ruby-on-rails-patches-critical-vulnerability/\">Ruby on Rails Patches Critical Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "source": "Talos Blog",
+    "title": "[Webinar] Tales from the Frontlines: An exclusive briefing on Q2 incidents",
+    "link": "https://blog.talosintelligence.com/webinar-tales-from-the-frontlines-an-exclusive-briefing-on-q2-incidents/",
+    "published": "Mon, 03 Aug 2026 16:00:12 GMT",
+    "summary": "Register for an exclusive, unrecorded 30-minute webinar to review the most high-impact incidents Talos IR faced in Q2.",
     "analysis": {
-      "issue": "The flaw can be exploited by unauthenticated attackers to read arbitrary files and potentially achieve remote code execution (RCE)",
+      "issue": "Have you ever read the Talos IR Quarterly Trends report and wondered, “How did that phishing or ransomware campaign actually play out",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-66066"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research",
-    "link": "https://www.securityweek.com/in-other-news-openai-open-source-tool-aws-links-hacks-to-north-korea-mythos-crypto-research/",
-    "published": "Fri, 31 Jul 2026 15:47:02 +0000",
-    "summary": "<p>Noteworthy stories that might have slipped under the radar: parcel delivery company OnTrac hacked, Adobe patches, UK Department for Education loses 607,000 records.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-openai-open-source-tool-aws-links-hacks-to-north-korea-mythos-crypto-research/\">In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Noteworthy stories that might have slipped under the radar: parcel delivery company OnTrac hacked, Adobe patches, UK Department for Education loses 607,000 records",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
         "Ransomware",
-        "Vulnerability",
-        "Malware",
-        "Supply Chain"
+        "Phishing"
       ]
     }
   },
@@ -928,53 +946,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "Microsoft Patch Tuesday for July 2026 — Snort rules and prominent vulnerabilities",
-    "link": "https://blog.talosintelligence.com/microsoft-patch-tuesday-july-2026/",
-    "published": "Tue, 14 Jul 2026 20:27:33 GMT",
-    "summary": "Microsoft has released its monthly security update for July 2026, which includes 622 vulnerabilities affecting a range of products, including 57 that Microsoft marked as \"critical.\"",
-    "analysis": {
-      "issue": "Microsoft has released its monthly security update for July 2026, which includes 622 vulnerabilities affecting a range of products, including 57 that Microsoft marked as \"critical",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-55010",
-        "CVE-2026-55129",
-        "CVE-2026-55944",
-        "CVE-2026-54992",
-        "CVE-2026-55022",
-        "CVE-2026-50518",
-        "CVE-2026-55045",
-        "CVE-2026-54128",
-        "CVE-2026-56188",
-        "CVE-2026-55120",
-        "CVE-2026-50327",
-        "CVE-2026-55127",
-        "CVE-2026-56164",
-        "CVE-2026-55140",
-        "CVE-2026-56155",
-        "CVE-2026-55123",
-        "CVE-2026-55043",
-        "CVE-2026-50655",
-        "CVE-2026-50314",
-        "CVE-2026-55132",
-        "CVE-2026-50370",
-        "CVE-2026-55056",
-        "CVE-2026-55033",
-        "CVE-2026-50522",
-        "CVE-2026-55049",
-        "CVE-2026-58644",
-        "CVE-2026-55018",
-        "CVE-2026-50467"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },

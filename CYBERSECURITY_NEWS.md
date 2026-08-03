@@ -1,10 +1,29 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-03 14:51:13 UTC
+**Last Updated:** 2026-08-03 18:17:02 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks](https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html)
+### 1. [Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts](https://thehackernews.com/2026/08/google-password-manager-attacks-could.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 03 Aug 2026 21:54:47 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 2. [INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws](https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 03 Aug 2026 21:45:13 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-15410, CVE-2026-15409  
+**Categories:** Ransomware, Vulnerability  
+
+---
+
+### 3. [⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks](https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 03 Aug 2026 19:33:11 +0530  
@@ -13,7 +32,7 @@
 
 ---
 
-### 2. [FOMO in the SOC: Where AI Platforms like Claude Actually Fit](https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html)
+### 4. [FOMO in the SOC: Where AI Platforms like Claude Actually Fit](https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 03 Aug 2026 17:00:00 +0530  
@@ -22,7 +41,7 @@
 
 ---
 
-### 3. [Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS](https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html)
+### 5. [Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS](https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 03 Aug 2026 16:19:06 +0530  
@@ -31,7 +50,7 @@
 
 ---
 
-### 4. [PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web](https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html)
+### 6. [PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web](https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 03 Aug 2026 14:43:56 +0530  
@@ -40,7 +59,7 @@
 
 ---
 
-### 5. [Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable](https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html)
+### 7. [Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable](https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 03 Aug 2026 13:35:30 +0530  
@@ -50,7 +69,7 @@
 
 ---
 
-### 6. [N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete](https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html)
+### 8. [N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete](https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 03 Aug 2026 12:11:46 +0530  
@@ -59,7 +78,7 @@
 
 ---
 
-### 7. [Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code](https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html)
+### 9. [Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code](https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 03 Aug 2026 12:10:31 +0530  
@@ -68,7 +87,7 @@
 
 ---
 
-### 8. [Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes](https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html)
+### 10. [Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes](https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 01 Aug 2026 22:47:22 +0530  
@@ -77,26 +96,26 @@
 
 ---
 
-### 9. [Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites](https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html)
+### 11. [N-able warns of N-central auth bypass flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/)
 
-**Source:** The Hacker News  
-**Published:** Sat, 01 Aug 2026 14:33:07 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 03 Aug 2026 13:00:56 -0400  
+**Severity:** Low  
+**CVEs:** CVE-2026-18577  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [ExfilSquad hackers leak info of over 100,000 UK police officers, staff](https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 03 Aug 2026 11:04:39 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 10. [Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction](https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html)
-
-**Source:** The Hacker News  
-**Published:** Sat, 01 Aug 2026 12:42:42 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-48449  
-**Categories:** Vulnerability  
-
----
-
-### 11. [Inside the Underground Business of BTMOB RAT](https://www.bleepingcomputer.com/news/security/inside-the-underground-business-of-btmob-rat/)
+### 13. [Inside the Underground Business of the Android BTMOB RAT malware](https://www.bleepingcomputer.com/news/security/inside-the-underground-business-of-btmob-rat/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 03 Aug 2026 10:45:55 -0400  
@@ -105,7 +124,7 @@
 
 ---
 
-### 12. [OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/)
+### 14. [OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 02 Aug 2026 18:31:41 -0400  
@@ -114,7 +133,7 @@
 
 ---
 
-### 13. [COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft](https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/)
+### 15. [COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft](https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 02 Aug 2026 17:14:29 -0400  
@@ -123,7 +142,7 @@
 
 ---
 
-### 14. [Google Chrome may soon block New Tab hijacker extensions by default](https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/)
+### 16. [Google Chrome may soon block New Tab hijacker extensions by default](https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 02 Aug 2026 10:17:16 -0400  
@@ -132,7 +151,7 @@
 
 ---
 
-### 15. [Rails patches critical Active Storage flaw with RCE potential](https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/)
+### 17. [Rails patches critical Active Storage flaw with RCE potential](https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 01 Aug 2026 10:20:30 -0400  
@@ -142,7 +161,7 @@
 
 ---
 
-### 16. [Amgen says cloud data breach exposed patient health, proprietary info](https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/)
+### 18. [Amgen says cloud data breach exposed patient health, proprietary info](https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 31 Jul 2026 18:16:42 -0400  
@@ -151,7 +170,7 @@
 
 ---
 
-### 17. [Arch Linux disables AUR package adoption to stop malware flood](https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/)
+### 19. [Arch Linux disables AUR package adoption to stop malware flood](https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 31 Jul 2026 17:38:08 -0400  
@@ -160,30 +179,12 @@
 
 ---
 
-### 18. [Online ad firm Adform’s script compromised to steal cryptocurrency](https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/)
+### 20. [Online ad firm Adform’s script compromised to steal cryptocurrency](https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 31 Jul 2026 17:09:25 -0400  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 19. [OpenAI says its new GPT 5.6 models are becoming more cost-efficient](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-gpt-56-models-are-becoming-more-cost-efficient/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 31 Jul 2026 14:52:44 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [Hacker uses DeepSeek AI to autonomously attack vulnerable servers](https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 31 Jul 2026 13:35:35 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability  
 
 ---
 
@@ -210,7 +211,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56155, CVE-2026-56164, CVE-2026-50661, CVE-2026-48561  
+**CVEs:** CVE-2026-50661, CVE-2026-48561, CVE-2026-56155, CVE-2026-56164  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -279,7 +280,25 @@
 
 ---
 
-### 31. [River Bank Says Hackers Deleted Data Stolen in Ransomware Attack](https://www.securityweek.com/river-bank-says-hackers-deleted-data-stolen-in-ransomware-attack/)
+### 31. [Black Hat USA 2026 – Summary of Vendor Announcements (Part 1)](https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-1/)
+
+**Source:** Security Week  
+**Published:** Mon, 03 Aug 2026 15:50:00 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 32. [Visa to Acquire Fraud Intelligence Firm BioCatch for $2.4 Billion](https://www.securityweek.com/visa-to-acquire-fraud-intelligence-firm-biocatch-for-2-4-billion/)
+
+**Source:** Security Week  
+**Published:** Mon, 03 Aug 2026 15:32:05 +0000  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 33. [River Bank Says Hackers Deleted Data Stolen in Ransomware Attack](https://www.securityweek.com/river-bank-says-hackers-deleted-data-stolen-in-ransomware-attack/)
 
 **Source:** Security Week  
 **Published:** Mon, 03 Aug 2026 13:02:06 +0000  
@@ -288,7 +307,7 @@
 
 ---
 
-### 32. [Horizon3 Raises $250 Million to Fund Continuing Growth](https://www.securityweek.com/horizon3-raises-250-million-to-fund-continuing-growth/)
+### 34. [Horizon3 Raises $250 Million to Fund Continuing Growth](https://www.securityweek.com/horizon3-raises-250-million-to-fund-continuing-growth/)
 
 **Source:** Security Week  
 **Published:** Mon, 03 Aug 2026 13:00:00 +0000  
@@ -297,17 +316,17 @@
 
 ---
 
-### 33. [N‑able Patches Vulnerability Exploited to Hack N-central Servers](https://www.securityweek.com/n-able-patches-vulnerability-exploited-to-hack-n-central-servers/)
+### 35. [N‑able Patches Vulnerability Exploited to Hack N-central Servers](https://www.securityweek.com/n-able-patches-vulnerability-exploited-to-hack-n-central-servers/)
 
 **Source:** Security Week  
 **Published:** Mon, 03 Aug 2026 12:34:06 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-18577, CVE-2025-8876, CVE-2025-8875, CVE-2026-18556  
+**CVEs:** CVE-2025-8875, CVE-2025-8876, CVE-2026-18556, CVE-2026-18577  
 **Categories:** Ransomware, Vulnerability  
 
 ---
 
-### 34. [Brinks Home Discloses Data Breach as Hackers Leak Files](https://www.securityweek.com/brinks-home-discloses-data-breach-as-hackers-leak-files/)
+### 36. [Brinks Home Discloses Data Breach as Hackers Leak Files](https://www.securityweek.com/brinks-home-discloses-data-breach-as-hackers-leak-files/)
 
 **Source:** Security Week  
 **Published:** Mon, 03 Aug 2026 11:45:14 +0000  
@@ -316,17 +335,17 @@
 
 ---
 
-### 35. [Recent SonicWall Vulnerabilities Exploited in Ransomware Attacks](https://www.securityweek.com/recent-sonicwall-vulnerabilities-exploited-in-ransomware-attacks/)
+### 37. [Recent SonicWall Vulnerabilities Exploited in Ransomware Attacks](https://www.securityweek.com/recent-sonicwall-vulnerabilities-exploited-in-ransomware-attacks/)
 
 **Source:** Security Week  
 **Published:** Mon, 03 Aug 2026 10:39:41 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-15409, CVE-2026-15410  
+**CVEs:** CVE-2026-15410, CVE-2026-15409  
 **Categories:** Ransomware, Vulnerability, Malware  
 
 ---
 
-### 36. [Russian State APT Linked to Recent Public Wi-Fi Gateway Hacking](https://www.securityweek.com/russian-state-apt-linked-to-recent-public-wi-fi-gateway-hacking/)
+### 38. [Russian State APT Linked to Recent Public Wi-Fi Gateway Hacking](https://www.securityweek.com/russian-state-apt-linked-to-recent-public-wi-fi-gateway-hacking/)
 
 **Source:** Security Week  
 **Published:** Mon, 03 Aug 2026 09:17:37 +0000  
@@ -335,7 +354,7 @@
 
 ---
 
-### 37. [US Water Cyberattacks Extend Beyond Minnesota to at Least 6 Other States](https://www.securityweek.com/us-water-cyberattacks-extend-beyond-minnesota-to-at-least-6-other-states/)
+### 39. [US Water Cyberattacks Extend Beyond Minnesota to at Least 6 Other States](https://www.securityweek.com/us-water-cyberattacks-extend-beyond-minnesota-to-at-least-6-other-states/)
 
 **Source:** Security Week  
 **Published:** Mon, 03 Aug 2026 08:48:02 +0000  
@@ -344,7 +363,7 @@
 
 ---
 
-### 38. [Balance Theory Raises $19 Million to Help Enterprises Manage Cybersecurity Investments](https://www.securityweek.com/balance-theory-raises-19-million-to-help-enterprises-manage-cybersecurity-investments/)
+### 40. [Balance Theory Raises $19 Million to Help Enterprises Manage Cybersecurity Investments](https://www.securityweek.com/balance-theory-raises-19-million-to-help-enterprises-manage-cybersecurity-investments/)
 
 **Source:** Security Week  
 **Published:** Sat, 01 Aug 2026 12:30:00 +0000  
@@ -353,26 +372,16 @@
 
 ---
 
-### 39. [Ruby on Rails Patches Critical Vulnerability](https://www.securityweek.com/ruby-on-rails-patches-critical-vulnerability/)
+### 41. [[Webinar] Tales from the Frontlines: An exclusive briefing on Q2 incidents](https://blog.talosintelligence.com/webinar-tales-from-the-frontlines-an-exclusive-briefing-on-q2-incidents/)
 
-**Source:** Security Week  
-**Published:** Sat, 01 Aug 2026 11:15:00 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-66066  
-**Categories:** Vulnerability  
-
----
-
-### 40. [In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research](https://www.securityweek.com/in-other-news-openai-open-source-tool-aws-links-hacks-to-north-korea-mythos-crypto-research/)
-
-**Source:** Security Week  
-**Published:** Fri, 31 Jul 2026 15:47:02 +0000  
-**Severity:** Critical  
-**Categories:** Ransomware, Vulnerability, Malware, Supply Chain  
+**Source:** Talos Blog  
+**Published:** Mon, 03 Aug 2026 16:00:12 GMT  
+**Severity:** High  
+**Categories:** Ransomware, Phishing  
 
 ---
 
-### 41. [You were onto something with “It’s the Climb,” Miley](https://blog.talosintelligence.com/you-were-onto-something-with-its-the-climb-miley/)
+### 42. [You were onto something with “It’s the Climb,” Miley](https://blog.talosintelligence.com/you-were-onto-something-with-its-the-climb-miley/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 30 Jul 2026 18:00:35 GMT  
@@ -381,7 +390,7 @@
 
 ---
 
-### 42. [Black Hat special: Rewind and revisit](https://blog.talosintelligence.com/black-hat-special-rewind-and-revisit/)
+### 43. [Black Hat special: Rewind and revisit](https://blog.talosintelligence.com/black-hat-special-rewind-and-revisit/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 30 Jul 2026 10:00:08 GMT  
@@ -390,7 +399,7 @@
 
 ---
 
-### 43. [IR Trends Q2 2026: Phishing and weaponized remote management tools drive attack chains](https://blog.talosintelligence.com/ir-trends-q2-2026/)
+### 44. [IR Trends Q2 2026: Phishing and weaponized remote management tools drive attack chains](https://blog.talosintelligence.com/ir-trends-q2-2026/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 28 Jul 2026 10:00:01 GMT  
@@ -399,7 +408,7 @@
 
 ---
 
-### 44. [Don’t swing at everything](https://blog.talosintelligence.com/dont-swing-at-everything/)
+### 45. [Don’t swing at everything](https://blog.talosintelligence.com/dont-swing-at-everything/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 23 Jul 2026 18:00:46 GMT  
@@ -408,7 +417,7 @@
 
 ---
 
-### 45. [Chaos ransomware's msaRAT: Living off the browser to build a covert C2 channel](https://blog.talosintelligence.com/chaos-msarat-living-off-the-browser-to-build-covert-c2-channel/)
+### 46. [Chaos ransomware's msaRAT: Living off the browser to build a covert C2 channel](https://blog.talosintelligence.com/chaos-msarat-living-off-the-browser-to-build-covert-c2-channel/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 23 Jul 2026 10:00:38 GMT  
@@ -417,7 +426,7 @@
 
 ---
 
-### 46. [Preview: Cisco Talos at Black Hat USA 2026](https://blog.talosintelligence.com/preview-cisco-talos-at-black-hat-usa-2026/)
+### 47. [Preview: Cisco Talos at Black Hat USA 2026](https://blog.talosintelligence.com/preview-cisco-talos-at-black-hat-usa-2026/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 23 Jul 2026 10:00:14 GMT  
@@ -426,7 +435,7 @@
 
 ---
 
-### 47. [Begun, the Patch Wars have](https://blog.talosintelligence.com/begun-the-patch-wars-have/)
+### 48. [Begun, the Patch Wars have](https://blog.talosintelligence.com/begun-the-patch-wars-have/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 16 Jul 2026 18:00:50 GMT  
@@ -435,7 +444,7 @@
 
 ---
 
-### 48. [The Hunter's Paradox: Is it time to embrace automated threat hunting?](https://blog.talosintelligence.com/the-hunters-paradox-is-it-time-to-embrace-automated-threat-hunting/)
+### 49. [The Hunter's Paradox: Is it time to embrace automated threat hunting?](https://blog.talosintelligence.com/the-hunters-paradox-is-it-time-to-embrace-automated-threat-hunting/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 16 Jul 2026 10:00:07 GMT  
@@ -444,22 +453,12 @@
 
 ---
 
-### 49. [UAT-11795 deploys novel Starland RAT and bespoke WLDR C2 implant in financially motivated campaign](https://blog.talosintelligence.com/uat-11795-deploys-novel-starland-rat-and-bespoke-wldr-c2-implant-in-financially-motivated-campaign/)
+### 50. [UAT-11795 deploys novel Starland RAT and bespoke WLDR C2 implant in financially motivated campaign](https://blog.talosintelligence.com/uat-11795-deploys-novel-starland-rat-and-bespoke-wldr-c2-implant-in-financially-motivated-campaign/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 16 Jul 2026 10:00:01 GMT  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 50. [Microsoft Patch Tuesday for July 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-july-2026/)
-
-**Source:** Talos Blog  
-**Published:** Tue, 14 Jul 2026 20:27:33 GMT  
-**Severity:** Critical  
-**CVEs:** CVE-2026-55010, CVE-2026-55129, CVE-2026-55944, CVE-2026-54992, CVE-2026-55022, CVE-2026-50518, CVE-2026-55045, CVE-2026-54128, CVE-2026-56188, CVE-2026-55120, CVE-2026-50327, CVE-2026-55127, CVE-2026-56164, CVE-2026-55140, CVE-2026-56155, CVE-2026-55123, CVE-2026-55043, CVE-2026-50655, CVE-2026-50314, CVE-2026-55132, CVE-2026-50370, CVE-2026-55056, CVE-2026-55033, CVE-2026-50522, CVE-2026-55049, CVE-2026-58644, CVE-2026-55018, CVE-2026-50467  
-**Categories:** Vulnerability  
 
 ---
 
