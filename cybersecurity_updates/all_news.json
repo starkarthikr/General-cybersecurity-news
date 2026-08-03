@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks",
+    "link": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
+    "published": "Mon, 03 Aug 2026 19:33:11 +0530",
+    "summary": "This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an intruder around. Public systems, package feeds, hotel networks, and login flows all gave away more than intended.\n\nSome of it was clever. Most of it was just access left lying around: old bugs, exposed gear, poisoned dependencies, weak defaults, and tooling that moved from",
+    "analysis": {
+      "issue": "This week’s cybersecurity recap covers rogue AI models, an $88M Bitcoin theft, OWA exploits, water-system attacks, Teams vishing, and poisoned package",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit",
+    "link": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
+    "published": "Mon, 03 Aug 2026 17:00:00 +0530",
+    "summary": "AI is moving incredibly fast, and every security leader is feeling the pressure to keep up.\n\nAI platforms like Claude, Codex and Cursor are already helping security teams write detections, investigate alerts, summarize incidents, and automate repetitive work. The conversation has evolved from whether AI belongs in the SOC, to where each type of AI delivers the most value.\n\nWith so many new AI",
+    "analysis": {
+      "issue": "Autonomous AI SOCs investigate every alert with selective AI reasoning, while Claude helps analysts hunt, write detections, and decide",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
     "link": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
     "published": "Mon, 03 Aug 2026 16:19:06 +0530",
@@ -148,13 +184,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware",
-    "link": "https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html",
-    "published": "Sat, 01 Aug 2026 11:59:05 +0530",
-    "summary": "A fake browser update served over hijacked hotel Wi-Fi has been used to deliver CornFlake, a remote access trojan (RAT) that can capture webcam images, microphone audio, and keystrokes, Microsoft said in its latest report.\n\nResearchers track the operation as CaptiveCrunch and attribute it to Storm-2945. It assesses Storm-2945 to be an operational sub-cluster of Midnight Blizzard, also known as",
+    "source": "Bleeping Computer",
+    "title": "Inside the Underground Business of BTMOB RAT",
+    "link": "https://www.bleepingcomputer.com/news/security/inside-the-underground-business-of-btmob-rat/",
+    "published": "Mon, 03 Aug 2026 10:45:55 -0400",
+    "summary": "Flare researchers analyzed thousands of underground posts to examine how the BTMOB Android malware operation evolved into a fragmented ecosystem of resellers, source-code vendors, custom versions, and competing sales channels. [...]",
     "analysis": {
-      "issue": "Microsoft links hijacked hotel Wi-Fi to fake updates that deliver CornFlake, steal cloud tokens, and abuse device codes to target travelers",
+      "issue": "The Android RAT’s official operation is surrounded by cheaper resellers, alleged source-code vendors, independent server owners, and possible impersonators",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -162,24 +198,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk",
-    "link": "https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html",
-    "published": "Sat, 01 Aug 2026 00:22:04 +0530",
-    "summary": "A Chinese-speaking threat actor is suspected to be behind a fresh wave of cyber attacks targeting government organizations mainly located in Central Asia, including Afghanistan, Kyrgyzstan, Tajikistan, Uzbekistan, Kazakhstan, and the Syrian Arab Republic, since January 2025.\n\nThese targeted organizations operate across several sectors, such as healthcare, research, government offices,",
-    "analysis": {
-      "issue": "Suspected Chinese-speaking hackers use OctLurk and SilkLurk to target Central Asian governments with in-memory plugins and credential theft",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
       ]
     }
   },
@@ -349,24 +367,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "CISA warns of cyberattacks disrupting U.S. water utilities",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/",
-    "published": "Fri, 31 Jul 2026 12:49:49 -0400",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a significant increase in attacks targeting internet-exposed programmable logic controllers (PLCs) in the water and wastewater systems sector. [...]",
-    "analysis": {
-      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) is warning of a significant increase in attacks targeting internet-exposed programmable logic controllers (PLCs) in the water and wastewater systems sector",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Read This Before You Buy That TV Streaming Stick",
     "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
@@ -415,10 +415,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50661",
-        "CVE-2026-48561",
         "CVE-2026-56155",
-        "CVE-2026-56164"
+        "CVE-2026-56164",
+        "CVE-2026-50661",
+        "CVE-2026-48561"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -552,13 +552,75 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-45586",
         "CVE-2026-50507",
-        "CVE-2026-49160"
+        "CVE-2026-49160",
+        "CVE-2026-45586"
       ],
       "threat_categories": [
         "Vulnerability",
         "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "River Bank Says Hackers Deleted Data Stolen in Ransomware Attack",
+    "link": "https://www.securityweek.com/river-bank-says-hackers-deleted-data-stolen-in-ransomware-attack/",
+    "published": "Mon, 03 Aug 2026 13:02:06 +0000",
+    "summary": "<p>The bank holding company was hacked in June, but the investigation into the incident continues.</p>\n<p>The post <a href=\"https://www.securityweek.com/river-bank-says-hackers-deleted-data-stolen-in-ransomware-attack/\">River Bank Says Hackers Deleted Data Stolen in Ransomware Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The bank holding company was hacked in June, but the investigation into the incident continues",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Horizon3 Raises $250 Million to Fund Continuing Growth",
+    "link": "https://www.securityweek.com/horizon3-raises-250-million-to-fund-continuing-growth/",
+    "published": "Mon, 03 Aug 2026 13:00:00 +0000",
+    "summary": "<p>Venture financing has become an essential factor in growing new business in today’s fast moving economy. Horizon3’s latest funding explains how and why.</p>\n<p>The post <a href=\"https://www.securityweek.com/horizon3-raises-250-million-to-fund-continuing-growth/\">Horizon3 Raises $250 Million to Fund Continuing Growth</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Venture financing has become an essential factor in growing new business in today’s fast moving economy",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "N‑able Patches Vulnerability Exploited to Hack N-central Servers",
+    "link": "https://www.securityweek.com/n-able-patches-vulnerability-exploited-to-hack-n-central-servers/",
+    "published": "Mon, 03 Aug 2026 12:34:06 +0000",
+    "summary": "<p>The N‑central vulnerability CVE-2026-18577 has been exploited in the wild after threat actors found a patch bypass.</p>\n<p>The post <a href=\"https://www.securityweek.com/n-able-patches-vulnerability-exploited-to-hack-n-central-servers/\">N‑able Patches Vulnerability Exploited to Hack N-central Servers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The N‑central vulnerability CVE-2026-18577 has been exploited in the wild after threat actors found a patch bypass",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-18577",
+        "CVE-2025-8876",
+        "CVE-2025-8875",
+        "CVE-2026-18556"
+      ],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability"
       ]
     }
   },
@@ -595,8 +657,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-15410",
-        "CVE-2026-15409"
+        "CVE-2026-15409",
+        "CVE-2026-15410"
       ],
       "threat_categories": [
         "Ransomware",
@@ -699,63 +761,6 @@
         "Vulnerability",
         "Malware",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Cyberattacks on Minnesota Water Systems Investigated as Officials Warn About Iranian Hackers",
-    "link": "https://www.securityweek.com/cyberattacks-on-minnesota-water-systems-investigated-as-officials-warn-about-iranian-hackers/",
-    "published": "Fri, 31 Jul 2026 15:17:41 +0000",
-    "summary": "<p>Iran has the “geopolitical motivations” and a recent history of targeting water systems, experts pointed out.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyberattacks-on-minnesota-water-systems-investigated-as-officials-warn-about-iranian-hackers/\">Cyberattacks on Minnesota Water Systems Investigated as Officials Warn About Iranian Hackers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Iran has the “geopolitical motivations” and a recent history of targeting water systems, experts pointed out",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Google AI Uncovers 13-Year-Old Chrome Flaw Amid Record Patching Pace",
-    "link": "https://www.securityweek.com/googles-ai-agent-uncovers-13-year-old-chrome-flaw-amid-record-patching-pace/",
-    "published": "Fri, 31 Jul 2026 10:28:45 +0000",
-    "summary": "<p>The internet giant has built an agent harness to find vulnerabilities across Chrome’s codebase.</p>\n<p>The post <a href=\"https://www.securityweek.com/googles-ai-agent-uncovers-13-year-old-chrome-flaw-amid-record-patching-pace/\">Google AI Uncovers 13-Year-Old Chrome Flaw Amid Record Patching Pace</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The internet giant has built an agent harness to find vulnerabilities across Chrome’s codebase",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-3545"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "EU to Crack Down on AI Deepfakes, Illicit Imagery and Hacking With New Team in Brussels",
-    "link": "https://www.securityweek.com/eu-to-crack-down-on-ai-deepfakes-illicit-imagery-and-hacking-with-new-team-in-brussels/",
-    "published": "Fri, 31 Jul 2026 10:00:00 +0000",
-    "summary": "<p>When the AI Act comes into force, AI companies will be required to make clear to consumers with labels or digital watermarks that chatbots or imagery are generated with AI.</p>\n<p>The post <a href=\"https://www.securityweek.com/eu-to-crack-down-on-ai-deepfakes-illicit-imagery-and-hacking-with-new-team-in-brussels/\">EU to Crack Down on AI Deepfakes, Illicit Imagery and Hacking With New Team in Brussels</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "When the AI Act comes into force, AI companies will be required to make clear to consumers with labels or digital watermarks that chatbots or imagery are generated with AI",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -939,34 +944,34 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50655",
-        "CVE-2026-55120",
-        "CVE-2026-55944",
-        "CVE-2026-55127",
-        "CVE-2026-55043",
-        "CVE-2026-54128",
-        "CVE-2026-50467",
-        "CVE-2026-56188",
-        "CVE-2026-55018",
-        "CVE-2026-56155",
-        "CVE-2026-55049",
-        "CVE-2026-55022",
-        "CVE-2026-50522",
-        "CVE-2026-55033",
         "CVE-2026-55010",
-        "CVE-2026-58644",
-        "CVE-2026-54992",
-        "CVE-2026-50327",
-        "CVE-2026-50518",
-        "CVE-2026-50370",
-        "CVE-2026-56164",
-        "CVE-2026-50314",
-        "CVE-2026-55045",
         "CVE-2026-55129",
+        "CVE-2026-55944",
+        "CVE-2026-54992",
+        "CVE-2026-55022",
+        "CVE-2026-50518",
+        "CVE-2026-55045",
+        "CVE-2026-54128",
+        "CVE-2026-56188",
+        "CVE-2026-55120",
+        "CVE-2026-50327",
+        "CVE-2026-55127",
+        "CVE-2026-56164",
         "CVE-2026-55140",
+        "CVE-2026-56155",
         "CVE-2026-55123",
+        "CVE-2026-55043",
+        "CVE-2026-50655",
+        "CVE-2026-50314",
+        "CVE-2026-55132",
+        "CVE-2026-50370",
         "CVE-2026-55056",
-        "CVE-2026-55132"
+        "CVE-2026-55033",
+        "CVE-2026-50522",
+        "CVE-2026-55049",
+        "CVE-2026-58644",
+        "CVE-2026-55018",
+        "CVE-2026-50467"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1320,8 +1325,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
