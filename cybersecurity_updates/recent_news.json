@@ -184,6 +184,42 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/",
+    "published": "Sun, 02 Aug 2026 18:31:41 -0400",
+    "summary": "OpenAI has revealed Astra, an unreleased model designed to tackle complex, long-running tasks, after an internal version produced ten significant advances in mathematics and theoretical computer science. [...]",
+    "analysis": {
+      "issue": "OpenAI has revealed Astra, an unreleased model designed to tackle complex, long-running tasks, after an internal version produced ten significant advances in mathematics and theoretical computer science",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft",
+    "link": "https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/",
+    "published": "Sun, 02 Aug 2026 17:14:29 -0400",
+    "summary": "A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose seeds were generated using a flawed random number generator. [...]",
+    "analysis": {
+      "issue": "Researchers suspect that a vulnerability in COLDCARD hardware wallet firmware was exploited to steal an estimated $88",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Google Chrome may soon block New Tab hijacker extensions by default",
     "link": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
     "published": "Sun, 02 Aug 2026 10:17:16 -0400",
@@ -330,48 +366,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "ESET tracks rise in malicious AI skills and adaptable malware",
-    "link": "https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/",
-    "published": "Fri, 31 Jul 2026 10:01:11 -0400",
-    "summary": "Attackers are adapting established techniques to AI platforms, emerging technologies, and changing user behavior. ESET's new threat report examines the rise of malicious AI skills, AI-assisted malware, ClickFix attacks, record quishing activity, and ransomware tools designed to disable security software. [...]",
-    "analysis": {
-      "issue": "The first half of 2026 shows how attackers continue to improve the efficiency and scalability of their operations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests",
-    "link": "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/",
-    "published": "Thu, 30 Jul 2026 20:57:25 -0400",
-    "summary": "One of Anthropic's Claude models built and uploaded a malicious Python package to PyPI during a botched security evaluation, where it ran on 15 real systems and stole credentials from a security vendor. It was one of three incidents affecting real companies. [...]",
-    "analysis": {
-      "issue": "Anthropic said today that during internal security testing, one of its Claude models built a malicious Python package and uploaded it to PyPI, where it ran on 15 real systems before the registry's automated defenses pulled it",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "APT",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Read This Before You Buy That TV Streaming Stick",
     "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
@@ -421,9 +415,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-50661",
-        "CVE-2026-56155",
+        "CVE-2026-56164",
         "CVE-2026-48561",
-        "CVE-2026-56164"
+        "CVE-2026-56155"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -557,9 +551,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50507",
+        "CVE-2026-49160",
         "CVE-2026-45586",
-        "CVE-2026-49160"
+        "CVE-2026-50507"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -941,34 +935,34 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-55127",
-        "CVE-2026-50518",
-        "CVE-2026-50314",
-        "CVE-2026-55056",
-        "CVE-2026-50522",
-        "CVE-2026-55123",
-        "CVE-2026-50370",
-        "CVE-2026-50327",
-        "CVE-2026-50655",
-        "CVE-2026-55129",
-        "CVE-2026-55120",
+        "CVE-2026-55045",
         "CVE-2026-55018",
-        "CVE-2026-56188",
-        "CVE-2026-54128",
-        "CVE-2026-55022",
+        "CVE-2026-55944",
         "CVE-2026-55049",
         "CVE-2026-56155",
-        "CVE-2026-58644",
-        "CVE-2026-56164",
-        "CVE-2026-55010",
-        "CVE-2026-55043",
-        "CVE-2026-55944",
-        "CVE-2026-55045",
-        "CVE-2026-55140",
+        "CVE-2026-50467",
+        "CVE-2026-54128",
         "CVE-2026-55033",
-        "CVE-2026-54992",
+        "CVE-2026-55140",
+        "CVE-2026-56188",
+        "CVE-2026-58644",
+        "CVE-2026-50370",
         "CVE-2026-55132",
-        "CVE-2026-50467"
+        "CVE-2026-50522",
+        "CVE-2026-50327",
+        "CVE-2026-55123",
+        "CVE-2026-55010",
+        "CVE-2026-55120",
+        "CVE-2026-55127",
+        "CVE-2026-54992",
+        "CVE-2026-50518",
+        "CVE-2026-50314",
+        "CVE-2026-55043",
+        "CVE-2026-55056",
+        "CVE-2026-55022",
+        "CVE-2026-55129",
+        "CVE-2026-50655",
+        "CVE-2026-56164"
       ],
       "threat_categories": [
         "Vulnerability"

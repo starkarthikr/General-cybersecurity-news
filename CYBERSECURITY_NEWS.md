@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-02 17:32:11 UTC
+**Last Updated:** 2026-08-03 03:30:58 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,25 @@
 
 ---
 
-### 11. [Google Chrome may soon block New Tab hijacker extensions by default](https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/)
+### 11. [OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/)
+
+**Source:** Bleeping Computer  
+**Published:** Sun, 02 Aug 2026 18:31:41 -0400  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 12. [COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft](https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/)
+
+**Source:** Bleeping Computer  
+**Published:** Sun, 02 Aug 2026 17:14:29 -0400  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 13. [Google Chrome may soon block New Tab hijacker extensions by default](https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 02 Aug 2026 10:17:16 -0400  
@@ -104,7 +122,7 @@
 
 ---
 
-### 12. [Rails patches critical Active Storage flaw with RCE potential](https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/)
+### 14. [Rails patches critical Active Storage flaw with RCE potential](https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 01 Aug 2026 10:20:30 -0400  
@@ -114,7 +132,7 @@
 
 ---
 
-### 13. [Amgen says cloud data breach exposed patient health, proprietary info](https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/)
+### 15. [Amgen says cloud data breach exposed patient health, proprietary info](https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 31 Jul 2026 18:16:42 -0400  
@@ -123,7 +141,7 @@
 
 ---
 
-### 14. [Arch Linux disables AUR package adoption to stop malware flood](https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/)
+### 16. [Arch Linux disables AUR package adoption to stop malware flood](https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 31 Jul 2026 17:38:08 -0400  
@@ -132,7 +150,7 @@
 
 ---
 
-### 15. [Online ad firm Adform’s script compromised to steal cryptocurrency](https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/)
+### 17. [Online ad firm Adform’s script compromised to steal cryptocurrency](https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 31 Jul 2026 17:09:25 -0400  
@@ -141,7 +159,7 @@
 
 ---
 
-### 16. [OpenAI says its new GPT 5.6 models are becoming more cost-efficient](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-gpt-56-models-are-becoming-more-cost-efficient/)
+### 18. [OpenAI says its new GPT 5.6 models are becoming more cost-efficient](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-gpt-56-models-are-becoming-more-cost-efficient/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 31 Jul 2026 14:52:44 -0400  
@@ -150,7 +168,7 @@
 
 ---
 
-### 17. [Hacker uses DeepSeek AI to autonomously attack vulnerable servers](https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/)
+### 19. [Hacker uses DeepSeek AI to autonomously attack vulnerable servers](https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 31 Jul 2026 13:35:35 -0400  
@@ -159,30 +177,12 @@
 
 ---
 
-### 18. [CISA warns of cyberattacks disrupting U.S. water utilities](https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/)
+### 20. [CISA warns of cyberattacks disrupting U.S. water utilities](https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 31 Jul 2026 12:49:49 -0400  
 **Severity:** Critical  
 **Categories:** General Security  
-
----
-
-### 19. [ESET tracks rise in malicious AI skills and adaptable malware](https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 31 Jul 2026 10:01:11 -0400  
-**Severity:** Low  
-**Categories:** Ransomware, Vulnerability, Malware, APT  
-
----
-
-### 20. [Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests](https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 30 Jul 2026 20:57:25 -0400  
-**Severity:** Critical  
-**Categories:** Vulnerability, Malware, APT, Supply Chain  
 
 ---
 
@@ -209,7 +209,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50661, CVE-2026-56155, CVE-2026-48561, CVE-2026-56164  
+**CVEs:** CVE-2026-50661, CVE-2026-56164, CVE-2026-48561, CVE-2026-56155  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -273,7 +273,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50507, CVE-2026-45586, CVE-2026-49160  
+**CVEs:** CVE-2026-49160, CVE-2026-45586, CVE-2026-50507  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -457,7 +457,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Jul 2026 20:27:33 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-55127, CVE-2026-50518, CVE-2026-50314, CVE-2026-55056, CVE-2026-50522, CVE-2026-55123, CVE-2026-50370, CVE-2026-50327, CVE-2026-50655, CVE-2026-55129, CVE-2026-55120, CVE-2026-55018, CVE-2026-56188, CVE-2026-54128, CVE-2026-55022, CVE-2026-55049, CVE-2026-56155, CVE-2026-58644, CVE-2026-56164, CVE-2026-55010, CVE-2026-55043, CVE-2026-55944, CVE-2026-55045, CVE-2026-55140, CVE-2026-55033, CVE-2026-54992, CVE-2026-55132, CVE-2026-50467  
+**CVEs:** CVE-2026-55045, CVE-2026-55018, CVE-2026-55944, CVE-2026-55049, CVE-2026-56155, CVE-2026-50467, CVE-2026-54128, CVE-2026-55033, CVE-2026-55140, CVE-2026-56188, CVE-2026-58644, CVE-2026-50370, CVE-2026-55132, CVE-2026-50522, CVE-2026-50327, CVE-2026-55123, CVE-2026-55010, CVE-2026-55120, CVE-2026-55127, CVE-2026-54992, CVE-2026-50518, CVE-2026-50314, CVE-2026-55043, CVE-2026-55056, CVE-2026-55022, CVE-2026-55129, CVE-2026-50655, CVE-2026-56164  
 **Categories:** Vulnerability  
 
 ---
