@@ -1,6 +1,98 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
+    "link": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
+    "published": "Mon, 03 Aug 2026 16:19:06 +0530",
+    "summary": "An unknown Chinese-threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit.\n\nAttack surface management platform Censys said it identified the threat actor running more than 100 web properties, most of which are fake Amazon Web Services (AWS) sign-in pages on a domain that also hosts the exploit toolkit.\n\n\"",
+    "analysis": {
+      "issue": "An unknown Chinese threat actor runs leaked DarkSword across 100-plus web properties, using fake AWS and Apple logins to deploy GHOSTBLADE on iOS",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web",
+    "link": "https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html",
+    "published": "Mon, 03 Aug 2026 14:43:56 +0530",
+    "summary": "The Police National Legal Database (PNLD) has confirmed that police, government and customer contact information was compromised and published on the dark web.\n\nThe data included names, organisations and work email addresses belonging to police officers, police staff, criminal justice professionals, government partners and customers.\n\nThe incident, identified on July 26, also exposed some names",
+    "analysis": {
+      "issue": "PNLD confirms police, government and customer contact data was published on the dark web, including names and emails from some Ask the Police users",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable",
+    "link": "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html",
+    "published": "Mon, 03 Aug 2026 13:35:30 +0530",
+    "summary": "Thermo Fisher Scientific has patched a flaw in select Applied Biosystems human identification software that could allow data files to be altered before analysis software loads them.\n\nThe vendor's July 31 security bulletin says nearly undetectable changes to .fsa and .hid outputs could occur if laboratory controls are circumvented.\n\nThermo Fisher tracks the issue as CVE-2026-17583 and rates it",
+    "analysis": {
+      "issue": "Thermo Fisher patched CVE-2026-17583, which could let attackers make nearly undetectable changes to Applied Biosystems DNA files before analysis",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-17583"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete",
+    "link": "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html",
+    "published": "Mon, 03 Aug 2026 12:11:46 +0530",
+    "summary": "N-able said attackers exploited an authentication bypass in N-central to gain remote administrative access and reach the customer systems managed through those servers.\n\nIts first fix was incomplete. CVE-2026-18577 affects N-central builds prior to 2026.3.1.7. N-able shipped build 2026.3.1.7 on August 2 as the first unaffected version.\n\nN-central is the remote monitoring and management platform",
+    "analysis": {
+      "issue": "N-able says attackers exploited an N-central authentication bypass to take over servers, reach managed endpoints, and preserve access with Cloudflare",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code",
+    "link": "https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html",
+    "published": "Mon, 03 Aug 2026 12:10:31 +0530",
+    "summary": "Three high-severity security flaws have been disclosed in Hugging Face's Diffusers library that could allow crafted model repositories to stealthily execute arbitrary code on machines that load it, opening the artificial intelligence (AI) supply chain to security risk.\n\n\"These vulnerabilities are bypassing trust_remote_code, the safeguard designed to stop unreviewed code from running in the",
+    "analysis": {
+      "issue": "Three Hugging Face Diffusers flaws bypass trust_remote_code, letting crafted model repositories execute code during custom pipeline loading",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
     "link": "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html",
     "published": "Sat, 01 Aug 2026 22:47:22 +0530",
@@ -81,97 +173,6 @@
     "summary": "A Chinese-speaking threat actor is suspected to be behind a fresh wave of cyber attacks targeting government organizations mainly located in Central Asia, including Afghanistan, Kyrgyzstan, Tajikistan, Uzbekistan, Kazakhstan, and the Syrian Arab Republic, since January 2025.\n\nThese targeted organizations operate across several sectors, such as healthcare, research, government offices,",
     "analysis": {
       "issue": "Suspected Chinese-speaking hackers use OctLurk and SilkLurk to target Central Asian governments with in-memory plugins and credential theft",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm",
-    "link": "https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html",
-    "published": "Fri, 31 Jul 2026 22:09:31 +0530",
-    "summary": "Cybersecurity researchers have shed light on a previously undocumented Go-based loader framework called HollowFrame and a Rust-based malware family tracked as Matryoshka.\n\nAccording to Blackpoint Cyber, the intrusion sequence begins with a spear-phishing message containing a link to an encrypted archive, which holds a Windows Shortcut (LNK). Executing the file triggers a multi-stage chain that",
-    "analysis": {
-      "issue": "HollowFrame and Matryoshka use DLL side-loading and GitHub C2 to gain a persistent foothold on two law firm endpoints",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies",
-    "link": "https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html",
-    "published": "Fri, 31 Jul 2026 20:15:01 +0530",
-    "summary": "Bitsight says some cheap Android TV boxes have shipped with apps that rewrite their hardware identity to mimic Samsung, Huawei, Xiaomi, or Vivo phones, then click ads on websites run by the same operators.\n\nResearchers named the operation Fuyao and attributed it to Zhejiang Fengwo IoT Technology Co., Ltd., a mainland China company founded in 2019.\n\nThe same apps have a second job. When a box",
-    "analysis": {
-      "issue": "Fuyao turns cheap Android TV boxes into fake phones for ad fraud and SOCKS5 exit nodes on owners’ broadband",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined",
-    "link": "https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html",
-    "published": "Fri, 31 Jul 2026 18:21:52 +0530",
-    "summary": "Google on Thursday announced that it fixed a whopping 1,072 security bugs in Chrome versions 149 and 150, surpassing the total number of flaws the company fixed across the prior 23 milestones combined.\n\nBoth versions were released last month. In its latest patch for Chrome 151, released Wednesday, the tech giant resolved 370 flaws, out of which 349 were reported by Google itself. Seven of the",
-    "analysis": {
-      "issue": "Google fixed 1,072 Chrome flaws in versions 149 and 150, more than the prior 23 milestones combined, as AI-driven discovery accelerates bug reports",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw",
-    "link": "https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html",
-    "published": "Fri, 31 Jul 2026 17:25:00 +0530",
-    "summary": "An academic study has disclosed a \"widespread class\" of security vulnerabilities impacting 4G and 5G core networks that, if successfully exploited, could trigger denial-of-service (DoS) attacks and even session hijacking, allowing an attacker to seize control of a user's network session.\n\nThe findings have been released by a group of researchers from Singapore's Nanyang Technological University",
-    "analysis": {
-      "issue": "Researchers found 84 flaws in seven open-source 4G and 5G cores that could enable DoS or session hijacking when internal interfaces become reachable",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026",
-    "link": "https://thehackernews.com/2026/07/6-reasons-why-device-code-phishing-is.html",
-    "published": "Fri, 31 Jul 2026 16:54:59 +0530",
-    "summary": "Device code phishing - the abuse of the OAuth 2.0 device authorization grant to steal access tokens - has evolved from a niche red-team technique to an industrial-scale threat in under six months.\n\nDesigned for input-constrained devices like smart TVs, printers, and so on, the device authorization login flow has been adopted by a wide range of apps and use-cases that it wasn't originally",
-    "analysis": {
-      "issue": "Push tracks 25-plus device code phishing kits that bypass passkeys; Barracuda counted 7 million attacks in four weeks",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -414,10 +415,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56164",
-        "CVE-2026-56155",
+        "CVE-2026-50661",
         "CVE-2026-48561",
-        "CVE-2026-50661"
+        "CVE-2026-56155",
+        "CVE-2026-56164"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -551,13 +552,94 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50507",
         "CVE-2026-45586",
+        "CVE-2026-50507",
         "CVE-2026-49160"
       ],
       "threat_categories": [
         "Vulnerability",
         "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Brinks Home Discloses Data Breach as Hackers Leak Files",
+    "link": "https://www.securityweek.com/brinks-home-discloses-data-breach-as-hackers-leak-files/",
+    "published": "Mon, 03 Aug 2026 11:45:14 +0000",
+    "summary": "<p>The physical security firm says its alarm monitoring and system functionality have not been affected.</p>\n<p>The post <a href=\"https://www.securityweek.com/brinks-home-discloses-data-breach-as-hackers-leak-files/\">Brinks Home Discloses Data Breach as Hackers Leak Files</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The physical security firm says its alarm monitoring and system functionality have not been affected",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Recent SonicWall Vulnerabilities Exploited in Ransomware Attacks",
+    "link": "https://www.securityweek.com/recent-sonicwall-vulnerabilities-exploited-in-ransomware-attacks/",
+    "published": "Mon, 03 Aug 2026 10:39:41 +0000",
+    "summary": "<p>The INC Ransomware gang has been targeting vulnerable SMA1000 appliances for root access and lateral movement.</p>\n<p>The post <a href=\"https://www.securityweek.com/recent-sonicwall-vulnerabilities-exploited-in-ransomware-attacks/\">Recent SonicWall Vulnerabilities Exploited in Ransomware Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The INC Ransomware gang has been targeting vulnerable SMA1000 appliances for root access and lateral movement",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-15410",
+        "CVE-2026-15409"
+      ],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Russian State APT Linked to Recent Public Wi-Fi Gateway Hacking",
+    "link": "https://www.securityweek.com/russian-state-apt-linked-to-recent-public-wi-fi-gateway-hacking/",
+    "published": "Mon, 03 Aug 2026 09:17:37 +0000",
+    "summary": "<p>Midnight Blizzard has been stealing Microsoft account credentials via compromised Wi-Fi networks at hospitality organizations.</p>\n<p>The post <a href=\"https://www.securityweek.com/russian-state-apt-linked-to-recent-public-wi-fi-gateway-hacking/\">Russian State APT Linked to Recent Public Wi-Fi Gateway Hacking</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Midnight Blizzard has been stealing Microsoft account credentials via compromised Wi-Fi networks at hospitality organizations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "US Water Cyberattacks Extend Beyond Minnesota to at Least 6 Other States",
+    "link": "https://www.securityweek.com/us-water-cyberattacks-extend-beyond-minnesota-to-at-least-6-other-states/",
+    "published": "Mon, 03 Aug 2026 08:48:02 +0000",
+    "summary": "<p>Michigan, South Dakota, and Georgia are reportedly on the list of states whose water systems have been targeted by Iran-linked hackers.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-water-cyberattacks-extend-beyond-minnesota-to-at-least-6-other-states/\">US Water Cyberattacks Extend Beyond Minnesota to at Least 6 Other States</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Michigan, South Dakota, and Georgia are reportedly on the list of states whose water systems have been targeted by Iran-linked hackers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -672,84 +754,6 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Prompted by OpenAI Disclosure, Anthropic Finds Its Own Models Hacked 3 Organizations",
-    "link": "https://www.securityweek.com/after-openai-disclosure-anthropic-finds-its-own-models-hacked-3-organizations/",
-    "published": "Fri, 31 Jul 2026 09:39:57 +0000",
-    "summary": "<p>A security company’s systems were hacked after it installed a malicious Python package deployed by Claude. </p>\n<p>The post <a href=\"https://www.securityweek.com/after-openai-disclosure-anthropic-finds-its-own-models-hacked-3-organizations/\">Prompted by OpenAI Disclosure, Anthropic Finds Its Own Models Hacked 3 Organizations</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "A security company’s systems were hacked after it installed a malicious Python package deployed by Claude",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "APT",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Critical Flaw Allowed to Azure Cosmos DB Pwnage",
-    "link": "https://www.securityweek.com/critical-flaw-led-to-azure-cosmos-db-pwnage/",
-    "published": "Fri, 31 Jul 2026 09:04:02 +0000",
-    "summary": "<p>Named CosmosEscape, the vulnerability exposed the primary key for Cosmos DB accounts, granting full read and write access.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-flaw-led-to-azure-cosmos-db-pwnage/\">Critical Flaw Allowed to Azure Cosmos DB Pwnage</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Named CosmosEscape, the vulnerability exposed the primary key for Cosmos DB accounts, granting full read and write access",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "CareCloud Data Breach Impacts Over 350,000",
-    "link": "https://www.securityweek.com/carecloud-data-breach-impacts-over-350000/",
-    "published": "Fri, 31 Jul 2026 07:51:43 +0000",
-    "summary": "<p>In March 2026, hackers stole personal, financial, and medical information from the company’s AWS environment.</p>\n<p>The post <a href=\"https://www.securityweek.com/carecloud-data-breach-impacts-over-350000/\">CareCloud Data Breach Impacts Over 350,000</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "In March 2026, hackers stole personal, financial, and medical information from the company’s AWS environment",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Critical Code Execution Vulnerability Patched in TeamCity",
-    "link": "https://www.securityweek.com/critical-code-execution-vulnerability-patched-in-teamcity/",
-    "published": "Fri, 31 Jul 2026 06:50:30 +0000",
-    "summary": "<p>Tracked as CVE-2026-63077, the security defect can be exploited without authentication via the agent polling protocol.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-code-execution-vulnerability-patched-in-teamcity/\">Critical Code Execution Vulnerability Patched in TeamCity </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Tracked as CVE-2026-63077, the security defect can be exploited without authentication via the agent polling protocol",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-63077"
-      ],
       "threat_categories": [
         "Vulnerability"
       ]
@@ -935,33 +939,33 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-55010",
-        "CVE-2026-55140",
-        "CVE-2026-55022",
-        "CVE-2026-55049",
-        "CVE-2026-54128",
-        "CVE-2026-55129",
-        "CVE-2026-50327",
-        "CVE-2026-56164",
-        "CVE-2026-50467",
-        "CVE-2026-50370",
-        "CVE-2026-55120",
-        "CVE-2026-50314",
-        "CVE-2026-55127",
-        "CVE-2026-56188",
-        "CVE-2026-55123",
-        "CVE-2026-56155",
-        "CVE-2026-58644",
-        "CVE-2026-50522",
-        "CVE-2026-55045",
-        "CVE-2026-55056",
-        "CVE-2026-55033",
-        "CVE-2026-55944",
-        "CVE-2026-50518",
         "CVE-2026-50655",
+        "CVE-2026-55120",
+        "CVE-2026-55944",
+        "CVE-2026-55127",
         "CVE-2026-55043",
+        "CVE-2026-54128",
+        "CVE-2026-50467",
+        "CVE-2026-56188",
         "CVE-2026-55018",
+        "CVE-2026-56155",
+        "CVE-2026-55049",
+        "CVE-2026-55022",
+        "CVE-2026-50522",
+        "CVE-2026-55033",
+        "CVE-2026-55010",
+        "CVE-2026-58644",
         "CVE-2026-54992",
+        "CVE-2026-50327",
+        "CVE-2026-50518",
+        "CVE-2026-50370",
+        "CVE-2026-56164",
+        "CVE-2026-50314",
+        "CVE-2026-55045",
+        "CVE-2026-55129",
+        "CVE-2026-55140",
+        "CVE-2026-55123",
+        "CVE-2026-55056",
         "CVE-2026-55132"
       ],
       "threat_categories": [
@@ -1347,6 +1351,25 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "A week in security (July 27 &#8211; August 2)",
+    "link": "https://www.malwarebytes.com/blog/news/2026/08/a-week-in-security-july-27-august-2",
+    "published": "Mon, 03 Aug 2026 07:01:00 GMT",
+    "summary": "A list of topics we covered in the week of July 27 to August 2 of 2026",
+    "analysis": {
+      "issue": "Last week on Malwarebytes Labs: Stay safe",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Fake Fortnite rewards are stealing players&#8217; accounts",
     "link": "https://www.malwarebytes.com/blog/scams/2026/07/fake-fortnite-rewards-are-stealing-players-accounts",
     "published": "Fri, 31 Jul 2026 16:16:58 GMT",
@@ -1511,20 +1534,20 @@
     }
   },
   {
-    "source": "Malwarebytes",
-    "title": "We found 120 fake Walmart stores trying to steal your credit card",
-    "link": "https://www.malwarebytes.com/blog/scams/2026/07/we-found-120-fake-walmart-stores-trying-to-steal-your-credit-card",
-    "published": "Wed, 29 Jul 2026 10:32:17 GMT",
-    "summary": "Fake Walmart stores are offering unbelievable bargains on liquor to lure shoppers into entering their credit card details.",
+    "source": "Crowdstrike Blog",
+    "title": "CrowdStrike 2026 Threat Hunting Report: Exploitation Window Closes as AI Use Accelerates",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-threat-hunting-report/",
+    "published": "Aug 03, 2026 00:00:00-0500",
+    "summary": "",
     "analysis": {
-      "issue": "Shoppers browsing on their phones are landing on convincing Walmart lookalike sites offering name-brand liquor at 40% to 70% off, only to be led straight to a checkout page asking for a full credit card number, expiry date, and CVV",
+      "issue": "The CrowdStrike 2026 Threat Hunting Report shares observations and real-world case studies demonstrating an increase in attacks on trusted relationships and adversarial use of AI",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Vulnerability"
       ]
     }
   },
@@ -1687,24 +1710,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "AIDR: How CrowdStrike Is Defining the Next Era of Cybersecurity",
-    "link": "https://www.crowdstrike.com/en-us/blog/aidr-how-crowdstrike-is-defining-next-era-of-cybersecurity/",
-    "published": "Jul 15, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "CrowdStrike is pioneering AIDR, a new, unified runtime security category for protecting AI agents across all environments",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   }

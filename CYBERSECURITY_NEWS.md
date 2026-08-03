@@ -1,10 +1,56 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-03 04:06:39 UTC
+**Last Updated:** 2026-08-03 11:57:02 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes](https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html)
+### 1. [Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS](https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 03 Aug 2026 16:19:06 +0530  
+**Severity:** Low  
+**Categories:** Data Breach  
+
+---
+
+### 2. [PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web](https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 03 Aug 2026 14:43:56 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable](https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 03 Aug 2026 13:35:30 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-17583  
+**Categories:** Vulnerability  
+
+---
+
+### 4. [N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete](https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 03 Aug 2026 12:11:46 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 5. [Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code](https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 03 Aug 2026 12:10:31 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 6. [Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes](https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 01 Aug 2026 22:47:22 +0530  
@@ -13,7 +59,7 @@
 
 ---
 
-### 2. [Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites](https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html)
+### 7. [Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites](https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 01 Aug 2026 14:33:07 +0530  
@@ -22,7 +68,7 @@
 
 ---
 
-### 3. [Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction](https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html)
+### 8. [Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction](https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 01 Aug 2026 12:42:42 +0530  
@@ -32,7 +78,7 @@
 
 ---
 
-### 4. [Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware](https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html)
+### 9. [Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware](https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 01 Aug 2026 11:59:05 +0530  
@@ -41,55 +87,10 @@
 
 ---
 
-### 5. [Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk](https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html)
+### 10. [Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk](https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 01 Aug 2026 00:22:04 +0530  
-**Severity:** Low  
-**Categories:** Phishing  
-
----
-
-### 6. [HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm](https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 31 Jul 2026 22:09:31 +0530  
-**Severity:** Low  
-**Categories:** Malware, Phishing  
-
----
-
-### 7. [Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies](https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 31 Jul 2026 20:15:01 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 8. [Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined](https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 31 Jul 2026 18:21:52 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 9. [Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw](https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 31 Jul 2026 17:25:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026](https://thehackernews.com/2026/07/6-reasons-why-device-code-phishing-is.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 31 Jul 2026 16:54:59 +0530  
 **Severity:** Low  
 **Categories:** Phishing  
 
@@ -209,7 +210,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56164, CVE-2026-56155, CVE-2026-48561, CVE-2026-50661  
+**CVEs:** CVE-2026-50661, CVE-2026-48561, CVE-2026-56155, CVE-2026-56164  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -273,12 +274,49 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50507, CVE-2026-45586, CVE-2026-49160  
+**CVEs:** CVE-2026-45586, CVE-2026-50507, CVE-2026-49160  
 **Categories:** Vulnerability, DDoS  
 
 ---
 
-### 31. [Balance Theory Raises $19 Million to Help Enterprises Manage Cybersecurity Investments](https://www.securityweek.com/balance-theory-raises-19-million-to-help-enterprises-manage-cybersecurity-investments/)
+### 31. [Brinks Home Discloses Data Breach as Hackers Leak Files](https://www.securityweek.com/brinks-home-discloses-data-breach-as-hackers-leak-files/)
+
+**Source:** Security Week  
+**Published:** Mon, 03 Aug 2026 11:45:14 +0000  
+**Severity:** Low  
+**Categories:** Ransomware, Data Breach, APT  
+
+---
+
+### 32. [Recent SonicWall Vulnerabilities Exploited in Ransomware Attacks](https://www.securityweek.com/recent-sonicwall-vulnerabilities-exploited-in-ransomware-attacks/)
+
+**Source:** Security Week  
+**Published:** Mon, 03 Aug 2026 10:39:41 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-15410, CVE-2026-15409  
+**Categories:** Ransomware, Vulnerability, Malware  
+
+---
+
+### 33. [Russian State APT Linked to Recent Public Wi-Fi Gateway Hacking](https://www.securityweek.com/russian-state-apt-linked-to-recent-public-wi-fi-gateway-hacking/)
+
+**Source:** Security Week  
+**Published:** Mon, 03 Aug 2026 09:17:37 +0000  
+**Severity:** Critical  
+**Categories:** Malware, Phishing, APT  
+
+---
+
+### 34. [US Water Cyberattacks Extend Beyond Minnesota to at Least 6 Other States](https://www.securityweek.com/us-water-cyberattacks-extend-beyond-minnesota-to-at-least-6-other-states/)
+
+**Source:** Security Week  
+**Published:** Mon, 03 Aug 2026 08:48:02 +0000  
+**Severity:** Critical  
+**Categories:** General Security  
+
+---
+
+### 35. [Balance Theory Raises $19 Million to Help Enterprises Manage Cybersecurity Investments](https://www.securityweek.com/balance-theory-raises-19-million-to-help-enterprises-manage-cybersecurity-investments/)
 
 **Source:** Security Week  
 **Published:** Sat, 01 Aug 2026 12:30:00 +0000  
@@ -287,7 +325,7 @@
 
 ---
 
-### 32. [Ruby on Rails Patches Critical Vulnerability](https://www.securityweek.com/ruby-on-rails-patches-critical-vulnerability/)
+### 36. [Ruby on Rails Patches Critical Vulnerability](https://www.securityweek.com/ruby-on-rails-patches-critical-vulnerability/)
 
 **Source:** Security Week  
 **Published:** Sat, 01 Aug 2026 11:15:00 +0000  
@@ -297,7 +335,7 @@
 
 ---
 
-### 33. [In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research](https://www.securityweek.com/in-other-news-openai-open-source-tool-aws-links-hacks-to-north-korea-mythos-crypto-research/)
+### 37. [In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research](https://www.securityweek.com/in-other-news-openai-open-source-tool-aws-links-hacks-to-north-korea-mythos-crypto-research/)
 
 **Source:** Security Week  
 **Published:** Fri, 31 Jul 2026 15:47:02 +0000  
@@ -306,7 +344,7 @@
 
 ---
 
-### 34. [Cyberattacks on Minnesota Water Systems Investigated as Officials Warn About Iranian Hackers](https://www.securityweek.com/cyberattacks-on-minnesota-water-systems-investigated-as-officials-warn-about-iranian-hackers/)
+### 38. [Cyberattacks on Minnesota Water Systems Investigated as Officials Warn About Iranian Hackers](https://www.securityweek.com/cyberattacks-on-minnesota-water-systems-investigated-as-officials-warn-about-iranian-hackers/)
 
 **Source:** Security Week  
 **Published:** Fri, 31 Jul 2026 15:17:41 +0000  
@@ -315,7 +353,7 @@
 
 ---
 
-### 35. [Google AI Uncovers 13-Year-Old Chrome Flaw Amid Record Patching Pace](https://www.securityweek.com/googles-ai-agent-uncovers-13-year-old-chrome-flaw-amid-record-patching-pace/)
+### 39. [Google AI Uncovers 13-Year-Old Chrome Flaw Amid Record Patching Pace](https://www.securityweek.com/googles-ai-agent-uncovers-13-year-old-chrome-flaw-amid-record-patching-pace/)
 
 **Source:** Security Week  
 **Published:** Fri, 31 Jul 2026 10:28:45 +0000  
@@ -325,48 +363,11 @@
 
 ---
 
-### 36. [EU to Crack Down on AI Deepfakes, Illicit Imagery and Hacking With New Team in Brussels](https://www.securityweek.com/eu-to-crack-down-on-ai-deepfakes-illicit-imagery-and-hacking-with-new-team-in-brussels/)
+### 40. [EU to Crack Down on AI Deepfakes, Illicit Imagery and Hacking With New Team in Brussels](https://www.securityweek.com/eu-to-crack-down-on-ai-deepfakes-illicit-imagery-and-hacking-with-new-team-in-brussels/)
 
 **Source:** Security Week  
 **Published:** Fri, 31 Jul 2026 10:00:00 +0000  
 **Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 37. [Prompted by OpenAI Disclosure, Anthropic Finds Its Own Models Hacked 3 Organizations](https://www.securityweek.com/after-openai-disclosure-anthropic-finds-its-own-models-hacked-3-organizations/)
-
-**Source:** Security Week  
-**Published:** Fri, 31 Jul 2026 09:39:57 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, Malware, APT, Supply Chain  
-
----
-
-### 38. [Critical Flaw Allowed to Azure Cosmos DB Pwnage](https://www.securityweek.com/critical-flaw-led-to-azure-cosmos-db-pwnage/)
-
-**Source:** Security Week  
-**Published:** Fri, 31 Jul 2026 09:04:02 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 39. [CareCloud Data Breach Impacts Over 350,000](https://www.securityweek.com/carecloud-data-breach-impacts-over-350000/)
-
-**Source:** Security Week  
-**Published:** Fri, 31 Jul 2026 07:51:43 +0000  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach  
-
----
-
-### 40. [Critical Code Execution Vulnerability Patched in TeamCity](https://www.securityweek.com/critical-code-execution-vulnerability-patched-in-teamcity/)
-
-**Source:** Security Week  
-**Published:** Fri, 31 Jul 2026 06:50:30 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-63077  
 **Categories:** Vulnerability  
 
 ---
@@ -457,7 +458,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Jul 2026 20:27:33 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-55010, CVE-2026-55140, CVE-2026-55022, CVE-2026-55049, CVE-2026-54128, CVE-2026-55129, CVE-2026-50327, CVE-2026-56164, CVE-2026-50467, CVE-2026-50370, CVE-2026-55120, CVE-2026-50314, CVE-2026-55127, CVE-2026-56188, CVE-2026-55123, CVE-2026-56155, CVE-2026-58644, CVE-2026-50522, CVE-2026-55045, CVE-2026-55056, CVE-2026-55033, CVE-2026-55944, CVE-2026-50518, CVE-2026-50655, CVE-2026-55043, CVE-2026-55018, CVE-2026-54992, CVE-2026-55132  
+**CVEs:** CVE-2026-50655, CVE-2026-55120, CVE-2026-55944, CVE-2026-55127, CVE-2026-55043, CVE-2026-54128, CVE-2026-50467, CVE-2026-56188, CVE-2026-55018, CVE-2026-56155, CVE-2026-55049, CVE-2026-55022, CVE-2026-50522, CVE-2026-55033, CVE-2026-55010, CVE-2026-58644, CVE-2026-54992, CVE-2026-50327, CVE-2026-50518, CVE-2026-50370, CVE-2026-56164, CVE-2026-50314, CVE-2026-55045, CVE-2026-55129, CVE-2026-55140, CVE-2026-55123, CVE-2026-55056, CVE-2026-55132  
 **Categories:** Vulnerability  
 
 ---
@@ -647,7 +648,16 @@
 
 ---
 
-### 71. [Fake Fortnite rewards are stealing players&#8217; accounts](https://www.malwarebytes.com/blog/scams/2026/07/fake-fortnite-rewards-are-stealing-players-accounts)
+### 71. [A week in security (July 27 &#8211; August 2)](https://www.malwarebytes.com/blog/news/2026/08/a-week-in-security-july-27-august-2)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 03 Aug 2026 07:01:00 GMT  
+**Severity:** Low  
+**Categories:** Malware, Phishing  
+
+---
+
+### 72. [Fake Fortnite rewards are stealing players&#8217; accounts](https://www.malwarebytes.com/blog/scams/2026/07/fake-fortnite-rewards-are-stealing-players-accounts)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 31 Jul 2026 16:16:58 GMT  
@@ -656,7 +666,7 @@
 
 ---
 
-### 72. [Fake Flash Player installs AtlasRAT](https://www.malwarebytes.com/blog/news/2026/07/fake-flash-player-installs-atlasrat)
+### 73. [Fake Flash Player installs AtlasRAT](https://www.malwarebytes.com/blog/news/2026/07/fake-flash-player-installs-atlasrat)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 31 Jul 2026 11:03:29 GMT  
@@ -665,7 +675,7 @@
 
 ---
 
-### 73. [Malwarebytes for Windows, now available on the Microsoft Store](https://www.malwarebytes.com/blog/product/2026/07/malwarebytes-for-windows-now-available-on-the-microsoft-store)
+### 74. [Malwarebytes for Windows, now available on the Microsoft Store](https://www.malwarebytes.com/blog/product/2026/07/malwarebytes-for-windows-now-available-on-the-microsoft-store)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 30 Jul 2026 16:01:11 GMT  
@@ -674,7 +684,7 @@
 
 ---
 
-### 74. [Hims &amp; Hers sued over alleged health data privacy failures](https://www.malwarebytes.com/blog/privacy/2026/07/hims-hers-sued-over-alleged-health-data-privacy-failures)
+### 75. [Hims &amp; Hers sued over alleged health data privacy failures](https://www.malwarebytes.com/blog/privacy/2026/07/hims-hers-sued-over-alleged-health-data-privacy-failures)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 30 Jul 2026 13:58:10 GMT  
@@ -683,7 +693,7 @@
 
 ---
 
-### 75. [Hidden prompt turns Microsoft Copilot into an AI worm](https://www.malwarebytes.com/blog/ai/2026/07/hidden-microsoft-copilot-ai-worm)
+### 76. [Hidden prompt turns Microsoft Copilot into an AI worm](https://www.malwarebytes.com/blog/ai/2026/07/hidden-microsoft-copilot-ai-worm)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 30 Jul 2026 12:58:45 GMT  
@@ -692,7 +702,7 @@
 
 ---
 
-### 76. [Apple accused of letting fake crypto app steal $1.8 million](https://www.malwarebytes.com/blog/news/2026/07/apple-accused-of-letting-fake-crypto-app-steal-1-8-million)
+### 77. [Apple accused of letting fake crypto app steal $1.8 million](https://www.malwarebytes.com/blog/news/2026/07/apple-accused-of-letting-fake-crypto-app-steal-1-8-million)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 29 Jul 2026 22:30:40 GMT  
@@ -701,7 +711,7 @@
 
 ---
 
-### 77. [Buying TikTok views or followers? Here&#8217;s what you&#8217;re really getting](https://www.malwarebytes.com/blog/threat-intel/2026/07/buying-tiktok-views-or-followers-heres-what-youre-really-getting)
+### 78. [Buying TikTok views or followers? Here&#8217;s what you&#8217;re really getting](https://www.malwarebytes.com/blog/threat-intel/2026/07/buying-tiktok-views-or-followers-heres-what-youre-really-getting)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 29 Jul 2026 16:54:46 GMT  
@@ -710,7 +720,7 @@
 
 ---
 
-### 78. [AI robocalls: Why caller ID is still lying to you](https://www.malwarebytes.com/blog/news/2026/07/ai-robocalls-why-caller-id-is-still-lying-to-you)
+### 79. [AI robocalls: Why caller ID is still lying to you](https://www.malwarebytes.com/blog/news/2026/07/ai-robocalls-why-caller-id-is-still-lying-to-you)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 29 Jul 2026 15:15:32 GMT  
@@ -719,7 +729,7 @@
 
 ---
 
-### 79. [OpenAI explains how its AI agent breached Hugging Face](https://www.malwarebytes.com/blog/news/2026/07/openai-explains-how-its-ai-agent-breached-hugging-face)
+### 80. [OpenAI explains how its AI agent breached Hugging Face](https://www.malwarebytes.com/blog/news/2026/07/openai-explains-how-its-ai-agent-breached-hugging-face)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 29 Jul 2026 14:20:32 GMT  
@@ -728,16 +738,16 @@
 
 ---
 
-### 80. [We found 120 fake Walmart stores trying to steal your credit card](https://www.malwarebytes.com/blog/scams/2026/07/we-found-120-fake-walmart-stores-trying-to-steal-your-credit-card)
+### 81. [CrowdStrike 2026 Threat Hunting Report: Exploitation Window Closes as AI Use Accelerates](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-threat-hunting-report/)
 
-**Source:** Malwarebytes  
-**Published:** Wed, 29 Jul 2026 10:32:17 GMT  
+**Source:** Crowdstrike Blog  
+**Published:** Aug 03, 2026 00:00:00-0500  
 **Severity:** Low  
-**Categories:** General Security  
+**Categories:** Vulnerability  
 
 ---
 
-### 81. [Falcon AIDR Now Protects Copilot Studio Agents and Claude Code](https://www.crowdstrike.com/en-us/blog/falcon-aidr-protects-copilot-studio-agents-and-claude-code/)
+### 82. [Falcon AIDR Now Protects Copilot Studio Agents and Claude Code](https://www.crowdstrike.com/en-us/blog/falcon-aidr-protects-copilot-studio-agents-and-claude-code/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 30, 2026 00:00:00-0500  
@@ -746,7 +756,7 @@
 
 ---
 
-### 82. [Inside Astaroth's New Spambot Component](https://www.crowdstrike.com/en-us/blog/inside-astaroths-new-spambot-component/)
+### 83. [Inside Astaroth's New Spambot Component](https://www.crowdstrike.com/en-us/blog/inside-astaroths-new-spambot-component/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 29, 2026 00:00:00-0500  
@@ -755,7 +765,7 @@
 
 ---
 
-### 83. [Falcon Cloud Security July 2026 Release: Helping Security Teams Move Faster in the Cloud](https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-helping-security-teams-move-faster/)
+### 84. [Falcon Cloud Security July 2026 Release: Helping Security Teams Move Faster in the Cloud](https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-helping-security-teams-move-faster/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 29, 2026 00:00:00-0500  
@@ -764,7 +774,7 @@
 
 ---
 
-### 84. [Falcon Platform IOAs Arrive in Falcon Next-Gen SIEM to Identify New Threats](https://www.crowdstrike.com/en-us/blog/falcon-platform-ioas-arrive-in-falcon-next-gen-siem/)
+### 85. [Falcon Platform IOAs Arrive in Falcon Next-Gen SIEM to Identify New Threats](https://www.crowdstrike.com/en-us/blog/falcon-platform-ioas-arrive-in-falcon-next-gen-siem/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 29, 2026 00:00:00-0500  
@@ -773,7 +783,7 @@
 
 ---
 
-### 85. [5 High-Impact Use Cases for Falcon Onum](https://www.crowdstrike.com/en-us/blog/five-high-impact-use-cases-for-falcon-onum/)
+### 86. [5 High-Impact Use Cases for Falcon Onum](https://www.crowdstrike.com/en-us/blog/five-high-impact-use-cases-for-falcon-onum/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 27, 2026 00:00:00-0500  
@@ -782,7 +792,7 @@
 
 ---
 
-### 86. [CrowdStrike Joins the Open Secure AI Alliance to Advance AI Safety and Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-joins-the-open-secure-ai-alliance/)
+### 87. [CrowdStrike Joins the Open Secure AI Alliance to Advance AI Safety and Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-joins-the-open-secure-ai-alliance/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 27, 2026 00:00:00-0400  
@@ -791,7 +801,7 @@
 
 ---
 
-### 87. [CrowdStrike Falcon Platform Helps Meet U.S. Government Mandates for CISA BOD-26-04](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-helps-meet-us-government-mandates-cisa-bod-26-04/)
+### 88. [CrowdStrike Falcon Platform Helps Meet U.S. Government Mandates for CISA BOD-26-04](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-helps-meet-us-government-mandates-cisa-bod-26-04/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 22, 2026 00:00:00-0500  
@@ -800,7 +810,7 @@
 
 ---
 
-### 88. [Denying the Worm: Detecting SANDWORM_MODE and the Emerging Class of AI Toolchain Supply Chain Attacks](https://www.crowdstrike.com/en-us/blog/denying-the-worm-sandworm-mode-and-ai-toolchain-supply-chain-attacks/)
+### 89. [Denying the Worm: Detecting SANDWORM_MODE and the Emerging Class of AI Toolchain Supply Chain Attacks](https://www.crowdstrike.com/en-us/blog/denying-the-worm-sandworm-mode-and-ai-toolchain-supply-chain-attacks/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 21, 2026 00:00:00-0500  
@@ -809,21 +819,12 @@
 
 ---
 
-### 89. [Beyond the Model: Harnessing Frontier AI for Stronger Cyber Defense](https://www.crowdstrike.com/en-us/blog/harnessing-frontier-ai-for-stronger-defense/)
+### 90. [Beyond the Model: Harnessing Frontier AI for Stronger Cyber Defense](https://www.crowdstrike.com/en-us/blog/harnessing-frontier-ai-for-stronger-defense/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 20, 2026 00:00:00-0500  
 **Severity:** Low  
 **Categories:** Vulnerability  
-
----
-
-### 90. [AIDR: How CrowdStrike Is Defining the Next Era of Cybersecurity](https://www.crowdstrike.com/en-us/blog/aidr-how-crowdstrike-is-defining-next-era-of-cybersecurity/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Jul 15, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
