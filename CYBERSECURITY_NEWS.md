@@ -1,10 +1,29 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-04 03:48:52 UTC
+**Last Updated:** 2026-08-04 11:03:34 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users](https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html)
+### 1. [DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT](https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 04 Aug 2026 14:33:23 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 2. [CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises](https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 04 Aug 2026 12:30:13 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-18577  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users](https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 04 Aug 2026 00:13:53 +0530  
@@ -13,7 +32,7 @@
 
 ---
 
-### 2. [Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts](https://thehackernews.com/2026/08/google-password-manager-attacks-could.html)
+### 4. [Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts](https://thehackernews.com/2026/08/google-password-manager-attacks-could.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 03 Aug 2026 21:54:47 +0530  
@@ -22,17 +41,17 @@
 
 ---
 
-### 3. [INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws](https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html)
+### 5. [INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws](https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 03 Aug 2026 21:45:13 +0530  
 **Severity:** Low  
-**CVEs:** CVE-2026-15410, CVE-2026-15409  
+**CVEs:** CVE-2026-15409, CVE-2026-15410  
 **Categories:** Ransomware, Vulnerability  
 
 ---
 
-### 4. [⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks](https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html)
+### 6. [⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks](https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 03 Aug 2026 19:33:11 +0530  
@@ -41,7 +60,7 @@
 
 ---
 
-### 5. [FOMO in the SOC: Where AI Platforms like Claude Actually Fit](https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html)
+### 7. [FOMO in the SOC: Where AI Platforms like Claude Actually Fit](https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 03 Aug 2026 17:00:00 +0530  
@@ -50,7 +69,7 @@
 
 ---
 
-### 6. [Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS](https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html)
+### 8. [Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS](https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 03 Aug 2026 16:19:06 +0530  
@@ -59,7 +78,7 @@
 
 ---
 
-### 7. [PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web](https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html)
+### 9. [PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web](https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 03 Aug 2026 14:43:56 +0530  
@@ -68,31 +87,13 @@
 
 ---
 
-### 8. [Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable](https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html)
+### 10. [Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable](https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 03 Aug 2026 13:35:30 +0530  
 **Severity:** Low  
 **CVEs:** CVE-2026-17583  
 **Categories:** Vulnerability  
-
----
-
-### 9. [N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete](https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 03 Aug 2026 12:11:46 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 10. [Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code](https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 03 Aug 2026 12:10:31 +0530  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -210,7 +211,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50661, CVE-2026-56155, CVE-2026-56164, CVE-2026-48561  
+**CVEs:** CVE-2026-56164, CVE-2026-48561, CVE-2026-50661, CVE-2026-56155  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -279,7 +280,44 @@
 
 ---
 
-### 31. [New York Awards $9 Million to Strengthen Cybersecurity at 153 Water Systems](https://www.securityweek.com/new-york-awards-9-million-to-strengthen-cybersecurity-at-153-water-systems/)
+### 31. [Gemini Agent-to-Agent Attack Method Exposed Secrets, Enabled Pull Request Tampering](https://www.securityweek.com/gemini-agent-to-agent-attack-exposed-secrets-enabled-pull-request-tampering/)
+
+**Source:** Security Week  
+**Published:** Tue, 04 Aug 2026 10:54:30 +0000  
+**Severity:** Critical  
+**Categories:** Data Breach, Vulnerability, Supply Chain  
+
+---
+
+### 32. [Decades-Old BMC Vulnerability Exposes Thousands of Data Centers to Attacks](https://www.securityweek.com/decades-old-bmc-vulnerability-exposes-thousands-of-data-centers-to-attacks/)
+
+**Source:** Security Week  
+**Published:** Tue, 04 Aug 2026 09:56:06 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2013-4786  
+**Categories:** Ransomware, Vulnerability  
+
+---
+
+### 33. [150,000 Impacted by Madera Community Hospital Data Breach](https://www.securityweek.com/150000-impacted-by-madera-community-hospital-data-breach/)
+
+**Source:** Security Week  
+**Published:** Tue, 04 Aug 2026 08:33:45 +0000  
+**Severity:** Low  
+**Categories:** Ransomware, Data Breach, Supply Chain  
+
+---
+
+### 34. [Microsoft Bug Bounty Program: $20 Million Paid to 500 Researchers](https://www.securityweek.com/microsoft-bug-bounty-program-20-million-paid-to-500-researchers/)
+
+**Source:** Security Week  
+**Published:** Tue, 04 Aug 2026 05:18:34 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 35. [New York Awards $9 Million to Strengthen Cybersecurity at 153 Water Systems](https://www.securityweek.com/new-york-awards-9-million-to-strengthen-cybersecurity-at-153-water-systems/)
 
 **Source:** Security Week  
 **Published:** Tue, 04 Aug 2026 01:54:00 +0000  
@@ -288,7 +326,7 @@
 
 ---
 
-### 32. [Black Hat USA 2026 – Summary of Vendor Announcements (Part 1)](https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-1/)
+### 36. [Black Hat USA 2026 – Summary of Vendor Announcements (Part 1)](https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-1/)
 
 **Source:** Security Week  
 **Published:** Mon, 03 Aug 2026 15:50:00 +0000  
@@ -297,7 +335,7 @@
 
 ---
 
-### 33. [Visa to Acquire Fraud Intelligence Firm BioCatch for $2.4 Billion](https://www.securityweek.com/visa-to-acquire-fraud-intelligence-firm-biocatch-for-2-4-billion/)
+### 37. [Visa to Acquire Fraud Intelligence Firm BioCatch for $2.4 Billion](https://www.securityweek.com/visa-to-acquire-fraud-intelligence-firm-biocatch-for-2-4-billion/)
 
 **Source:** Security Week  
 **Published:** Mon, 03 Aug 2026 15:32:05 +0000  
@@ -306,7 +344,7 @@
 
 ---
 
-### 34. [Cyberattack Hits Liechtenstein’s Register of People Behind Companies and Foundations](https://www.securityweek.com/cyberattack-hits-liechtensteins-register-of-people-behind-companies-and-foundations/)
+### 38. [Cyberattack Hits Liechtenstein’s Register of People Behind Companies and Foundations](https://www.securityweek.com/cyberattack-hits-liechtensteins-register-of-people-behind-companies-and-foundations/)
 
 **Source:** Security Week  
 **Published:** Mon, 03 Aug 2026 15:15:00 +0000  
@@ -315,7 +353,7 @@
 
 ---
 
-### 35. [River Bank Says Hackers Deleted Data Stolen in Ransomware Attack](https://www.securityweek.com/river-bank-says-hackers-deleted-data-stolen-in-ransomware-attack/)
+### 39. [River Bank Says Hackers Deleted Data Stolen in Ransomware Attack](https://www.securityweek.com/river-bank-says-hackers-deleted-data-stolen-in-ransomware-attack/)
 
 **Source:** Security Week  
 **Published:** Mon, 03 Aug 2026 13:02:06 +0000  
@@ -324,7 +362,7 @@
 
 ---
 
-### 36. [Horizon3 Raises $250 Million to Fund Continuing Growth](https://www.securityweek.com/horizon3-raises-250-million-to-fund-continuing-growth/)
+### 40. [Horizon3 Raises $250 Million to Fund Continuing Growth](https://www.securityweek.com/horizon3-raises-250-million-to-fund-continuing-growth/)
 
 **Source:** Security Week  
 **Published:** Mon, 03 Aug 2026 13:00:00 +0000  
@@ -333,45 +371,16 @@
 
 ---
 
-### 37. [N‑able Patches Vulnerability Exploited to Hack N-central Servers](https://www.securityweek.com/n-able-patches-vulnerability-exploited-to-hack-n-central-servers/)
+### 41. [“Keep going, bro. You’ve got this!” A data-driven look at how adversaries are weaponizing AI](https://blog.talosintelligence.com/keep-going-bro-youve-got-this-a-data-driven-look-at-how-adversaries-are-weaponizing-ai/)
 
-**Source:** Security Week  
-**Published:** Mon, 03 Aug 2026 12:34:06 +0000  
+**Source:** Talos Blog  
+**Published:** Tue, 04 Aug 2026 10:00:11 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2025-8875, CVE-2025-8876, CVE-2026-18577, CVE-2026-18556  
-**Categories:** Ransomware, Vulnerability  
+**Categories:** Vulnerability, DDoS  
 
 ---
 
-### 38. [Brinks Home Discloses Data Breach as Hackers Leak Files](https://www.securityweek.com/brinks-home-discloses-data-breach-as-hackers-leak-files/)
-
-**Source:** Security Week  
-**Published:** Mon, 03 Aug 2026 11:45:14 +0000  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach, APT  
-
----
-
-### 39. [Recent SonicWall Vulnerabilities Exploited in Ransomware Attacks](https://www.securityweek.com/recent-sonicwall-vulnerabilities-exploited-in-ransomware-attacks/)
-
-**Source:** Security Week  
-**Published:** Mon, 03 Aug 2026 10:39:41 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-15410, CVE-2026-15409  
-**Categories:** Ransomware, Vulnerability, Malware  
-
----
-
-### 40. [Russian State APT Linked to Recent Public Wi-Fi Gateway Hacking](https://www.securityweek.com/russian-state-apt-linked-to-recent-public-wi-fi-gateway-hacking/)
-
-**Source:** Security Week  
-**Published:** Mon, 03 Aug 2026 09:17:37 +0000  
-**Severity:** Critical  
-**Categories:** Malware, Phishing, APT  
-
----
-
-### 41. [[Webinar] Tales from the Frontlines: An exclusive briefing on Q2 incidents](https://blog.talosintelligence.com/webinar-tales-from-the-frontlines-an-exclusive-briefing-on-q2-incidents/)
+### 42. [[Webinar] Tales from the Frontlines: An exclusive briefing on Q2 incidents](https://blog.talosintelligence.com/webinar-tales-from-the-frontlines-an-exclusive-briefing-on-q2-incidents/)
 
 **Source:** Talos Blog  
 **Published:** Mon, 03 Aug 2026 16:00:12 GMT  
@@ -380,7 +389,7 @@
 
 ---
 
-### 42. [You were onto something with “It’s the Climb,” Miley](https://blog.talosintelligence.com/you-were-onto-something-with-its-the-climb-miley/)
+### 43. [You were onto something with “It’s the Climb,” Miley](https://blog.talosintelligence.com/you-were-onto-something-with-its-the-climb-miley/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 30 Jul 2026 18:00:35 GMT  
@@ -389,7 +398,7 @@
 
 ---
 
-### 43. [Black Hat special: Rewind and revisit](https://blog.talosintelligence.com/black-hat-special-rewind-and-revisit/)
+### 44. [Black Hat special: Rewind and revisit](https://blog.talosintelligence.com/black-hat-special-rewind-and-revisit/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 30 Jul 2026 10:00:08 GMT  
@@ -398,7 +407,7 @@
 
 ---
 
-### 44. [IR Trends Q2 2026: Phishing and weaponized remote management tools drive attack chains](https://blog.talosintelligence.com/ir-trends-q2-2026/)
+### 45. [IR Trends Q2 2026: Phishing and weaponized remote management tools drive attack chains](https://blog.talosintelligence.com/ir-trends-q2-2026/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 28 Jul 2026 10:00:01 GMT  
@@ -407,7 +416,7 @@
 
 ---
 
-### 45. [Don’t swing at everything](https://blog.talosintelligence.com/dont-swing-at-everything/)
+### 46. [Don’t swing at everything](https://blog.talosintelligence.com/dont-swing-at-everything/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 23 Jul 2026 18:00:46 GMT  
@@ -416,7 +425,7 @@
 
 ---
 
-### 46. [Chaos ransomware's msaRAT: Living off the browser to build a covert C2 channel](https://blog.talosintelligence.com/chaos-msarat-living-off-the-browser-to-build-covert-c2-channel/)
+### 47. [Chaos ransomware's msaRAT: Living off the browser to build a covert C2 channel](https://blog.talosintelligence.com/chaos-msarat-living-off-the-browser-to-build-covert-c2-channel/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 23 Jul 2026 10:00:38 GMT  
@@ -425,7 +434,7 @@
 
 ---
 
-### 47. [Preview: Cisco Talos at Black Hat USA 2026](https://blog.talosintelligence.com/preview-cisco-talos-at-black-hat-usa-2026/)
+### 48. [Preview: Cisco Talos at Black Hat USA 2026](https://blog.talosintelligence.com/preview-cisco-talos-at-black-hat-usa-2026/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 23 Jul 2026 10:00:14 GMT  
@@ -434,7 +443,7 @@
 
 ---
 
-### 48. [Begun, the Patch Wars have](https://blog.talosintelligence.com/begun-the-patch-wars-have/)
+### 49. [Begun, the Patch Wars have](https://blog.talosintelligence.com/begun-the-patch-wars-have/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 16 Jul 2026 18:00:50 GMT  
@@ -443,21 +452,12 @@
 
 ---
 
-### 49. [The Hunter's Paradox: Is it time to embrace automated threat hunting?](https://blog.talosintelligence.com/the-hunters-paradox-is-it-time-to-embrace-automated-threat-hunting/)
+### 50. [The Hunter's Paradox: Is it time to embrace automated threat hunting?](https://blog.talosintelligence.com/the-hunters-paradox-is-it-time-to-embrace-automated-threat-hunting/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 16 Jul 2026 10:00:07 GMT  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 50. [UAT-11795 deploys novel Starland RAT and bespoke WLDR C2 implant in financially motivated campaign](https://blog.talosintelligence.com/uat-11795-deploys-novel-starland-rat-and-bespoke-wldr-c2-implant-in-financially-motivated-campaign/)
-
-**Source:** Talos Blog  
-**Published:** Thu, 16 Jul 2026 10:00:01 GMT  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
@@ -631,7 +631,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -646,7 +646,16 @@
 
 ---
 
-### 71. [&#8220;Adult TikTok&#8221; searches lead to scams](https://www.malwarebytes.com/blog/scams/2026/08/adult-tiktok-searches-lead-to-scams)
+### 71. [WhatsApp account takeover scam asks you to &#8220;vote for my friend&#8221;](https://www.malwarebytes.com/blog/scams/2026/08/whatsapp-account-takeover-scam-asks-you-to-vote-for-my-friend)
+
+**Source:** Malwarebytes  
+**Published:** Tue, 04 Aug 2026 06:22:48 GMT  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 72. [&#8220;Adult TikTok&#8221; searches lead to scams](https://www.malwarebytes.com/blog/scams/2026/08/adult-tiktok-searches-lead-to-scams)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 03 Aug 2026 21:35:18 GMT  
@@ -655,7 +664,7 @@
 
 ---
 
-### 72. [The AI Act kicks into action, forces companies to be clear about AI chatbots](https://www.malwarebytes.com/blog/news/2026/08/the-ai-act-kicks-into-action-forces-companies-to-be-clear-about-ai-bots)
+### 73. [The AI Act kicks into action, forces companies to be clear about AI chatbots](https://www.malwarebytes.com/blog/news/2026/08/the-ai-act-kicks-into-action-forces-companies-to-be-clear-about-ai-bots)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 03 Aug 2026 21:08:29 GMT  
@@ -664,7 +673,7 @@
 
 ---
 
-### 73. [Californians can tell data brokers to DROP their information](https://www.malwarebytes.com/blog/news/2026/08/californians-can-tell-data-brokers-to-drop-their-information)
+### 74. [Californians can tell data brokers to DROP their information](https://www.malwarebytes.com/blog/news/2026/08/californians-can-tell-data-brokers-to-drop-their-information)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 03 Aug 2026 20:50:32 GMT  
@@ -673,7 +682,7 @@
 
 ---
 
-### 74. [A week in security (July 27 &#8211; August 2)](https://www.malwarebytes.com/blog/news/2026/08/a-week-in-security-july-27-august-2)
+### 75. [A week in security (July 27 &#8211; August 2)](https://www.malwarebytes.com/blog/news/2026/08/a-week-in-security-july-27-august-2)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 03 Aug 2026 07:01:00 GMT  
@@ -682,7 +691,7 @@
 
 ---
 
-### 75. [Fake Fortnite rewards are stealing players&#8217; accounts](https://www.malwarebytes.com/blog/scams/2026/07/fake-fortnite-rewards-are-stealing-players-accounts)
+### 76. [Fake Fortnite rewards are stealing players&#8217; accounts](https://www.malwarebytes.com/blog/scams/2026/07/fake-fortnite-rewards-are-stealing-players-accounts)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 31 Jul 2026 16:16:58 GMT  
@@ -691,7 +700,7 @@
 
 ---
 
-### 76. [Fake Flash Player installs AtlasRAT](https://www.malwarebytes.com/blog/news/2026/07/fake-flash-player-installs-atlasrat)
+### 77. [Fake Flash Player installs AtlasRAT](https://www.malwarebytes.com/blog/news/2026/07/fake-flash-player-installs-atlasrat)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 31 Jul 2026 11:03:29 GMT  
@@ -700,7 +709,7 @@
 
 ---
 
-### 77. [Malwarebytes for Windows, now available on the Microsoft Store](https://www.malwarebytes.com/blog/product/2026/07/malwarebytes-for-windows-now-available-on-the-microsoft-store)
+### 78. [Malwarebytes for Windows, now available on the Microsoft Store](https://www.malwarebytes.com/blog/product/2026/07/malwarebytes-for-windows-now-available-on-the-microsoft-store)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 30 Jul 2026 16:01:11 GMT  
@@ -709,7 +718,7 @@
 
 ---
 
-### 78. [Hims &amp; Hers sued over alleged health data privacy failures](https://www.malwarebytes.com/blog/privacy/2026/07/hims-hers-sued-over-alleged-health-data-privacy-failures)
+### 79. [Hims &amp; Hers sued over alleged health data privacy failures](https://www.malwarebytes.com/blog/privacy/2026/07/hims-hers-sued-over-alleged-health-data-privacy-failures)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 30 Jul 2026 13:58:10 GMT  
@@ -718,21 +727,12 @@
 
 ---
 
-### 79. [Hidden prompt turns Microsoft Copilot into an AI worm](https://www.malwarebytes.com/blog/ai/2026/07/hidden-microsoft-copilot-ai-worm)
+### 80. [Hidden prompt turns Microsoft Copilot into an AI worm](https://www.malwarebytes.com/blog/ai/2026/07/hidden-microsoft-copilot-ai-worm)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 30 Jul 2026 12:58:45 GMT  
 **Severity:** Low  
 **Categories:** Vulnerability, Malware  
-
----
-
-### 80. [Apple accused of letting fake crypto app steal $1.8 million](https://www.malwarebytes.com/blog/news/2026/07/apple-accused-of-letting-fake-crypto-app-steal-1-8-million)
-
-**Source:** Malwarebytes  
-**Published:** Wed, 29 Jul 2026 22:30:40 GMT  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 

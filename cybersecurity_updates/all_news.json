@@ -1,6 +1,44 @@
 [
   {
     "source": "The Hacker News",
+    "title": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT",
+    "link": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
+    "published": "Tue, 04 Aug 2026 14:33:23 +0530",
+    "summary": "A new Russian loader-as-a-service (LaaS) codenamed DOUBLECUP has been using ClickFix lures as a way to stage malware-laced PNG images in victims' browser cache and ultimately deliver CountLoader and a previously undocumented remote access trojan called DeviceManager.\n\n\"The first stage drops a steganographic PNG image into the browser's cache, retrieves its hidden content, and executes the second",
+    "analysis": {
+      "issue": "DOUBLECUP hides malware stages in cached PNG files, then uses ClickFix commands to deliver CountLoader variants and the DeviceManager RAT in memory",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises",
+    "link": "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html",
+    "published": "Tue, 04 Aug 2026 12:30:13 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog following reports of active exploitation in the wild.\n\nThe vulnerability, tracked as CVE-2026-18577 (CVSS score: 8.2), is a case of incomplete patching for CVE-2026-18556 (CVSS score: 8.2) that allows",
+    "analysis": {
+      "issue": "CVE-2026-18577 is under active exploitation, letting attackers bypass N-able N-central authentication and pivot from servers into managed endpoints",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-18577"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users",
     "link": "https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html",
     "published": "Tue, 04 Aug 2026 00:13:53 +0530",
@@ -48,8 +86,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-15410",
-        "CVE-2026-15409"
+        "CVE-2026-15409",
+        "CVE-2026-15410"
       ],
       "threat_categories": [
         "Ransomware",
@@ -146,42 +184,6 @@
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete",
-    "link": "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html",
-    "published": "Mon, 03 Aug 2026 12:11:46 +0530",
-    "summary": "N-able said attackers exploited an authentication bypass in N-central to gain remote administrative access and reach the customer systems managed through those servers.\n\nIts first fix was incomplete. CVE-2026-18577 affects N-central builds prior to 2026.3.1.7. N-able shipped build 2026.3.1.7 on August 2 as the first unaffected version.\n\nN-central is the remote monitoring and management platform",
-    "analysis": {
-      "issue": "N-able says attackers exploited an N-central authentication bypass to take over servers, reach managed endpoints, and preserve access with Cloudflare",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code",
-    "link": "https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html",
-    "published": "Mon, 03 Aug 2026 12:10:31 +0530",
-    "summary": "Three high-severity security flaws have been disclosed in Hugging Face's Diffusers library that could allow crafted model repositories to stealthily execute arbitrary code on machines that load it, opening the artificial intelligence (AI) supply chain to security risk.\n\n\"These vulnerabilities are bypassing trust_remote_code, the safeguard designed to stop unreviewed code from running in the",
-    "analysis": {
-      "issue": "Three Hugging Face Diffusers flaws bypass trust_remote_code, letting crafted model repositories execute code during custom pipeline loading",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -420,10 +422,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50661",
-        "CVE-2026-56155",
         "CVE-2026-56164",
-        "CVE-2026-48561"
+        "CVE-2026-48561",
+        "CVE-2026-50661",
+        "CVE-2026-56155"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -569,6 +571,86 @@
   },
   {
     "source": "Security Week",
+    "title": "Gemini Agent-to-Agent Attack Method Exposed Secrets, Enabled Pull Request Tampering",
+    "link": "https://www.securityweek.com/gemini-agent-to-agent-attack-exposed-secrets-enabled-pull-request-tampering/",
+    "published": "Tue, 04 Aug 2026 10:54:30 +0000",
+    "summary": "<p>A crafted prompt to a low-privilege Google ADK agent could be used to pass a malicious hand-off comment to a privileged agent.</p>\n<p>The post <a href=\"https://www.securityweek.com/gemini-agent-to-agent-attack-exposed-secrets-enabled-pull-request-tampering/\">Gemini Agent-to-Agent Attack Method Exposed Secrets, Enabled Pull Request Tampering</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "A crafted prompt to a low-privilege Google ADK agent could be used to pass a malicious hand-off comment to a privileged agent",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Decades-Old BMC Vulnerability Exposes Thousands of Data Centers to Attacks",
+    "link": "https://www.securityweek.com/decades-old-bmc-vulnerability-exposes-thousands-of-data-centers-to-attacks/",
+    "published": "Tue, 04 Aug 2026 09:56:06 +0000",
+    "summary": "<p>Over 24,000 internet-accessible server-management interfaces disclose authentication hashes before login.</p>\n<p>The post <a href=\"https://www.securityweek.com/decades-old-bmc-vulnerability-exposes-thousands-of-data-centers-to-attacks/\">Decades-Old BMC Vulnerability Exposes Thousands of Data Centers to Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Over 24,000 internet-accessible server-management interfaces disclose authentication hashes before login",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2013-4786"
+      ],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "150,000 Impacted by Madera Community Hospital Data Breach",
+    "link": "https://www.securityweek.com/150000-impacted-by-madera-community-hospital-data-breach/",
+    "published": "Tue, 04 Aug 2026 08:33:45 +0000",
+    "summary": "<p>An extortion group stole personal, financial, and medical information from the hospital’s network.</p>\n<p>The post <a href=\"https://www.securityweek.com/150000-impacted-by-madera-community-hospital-data-breach/\">150,000 Impacted by Madera Community Hospital Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "An extortion group stole personal, financial, and medical information from the hospital’s network",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Microsoft Bug Bounty Program: $20 Million Paid to 500 Researchers",
+    "link": "https://www.securityweek.com/microsoft-bug-bounty-program-20-million-paid-to-500-researchers/",
+    "published": "Tue, 04 Aug 2026 05:18:34 +0000",
+    "summary": "<p>The biggest single reward paid out by Microsoft between July 1, 2025, and June 30, 2026, was $200,000.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-bug-bounty-program-20-million-paid-to-500-researchers/\">Microsoft Bug Bounty Program: $20 Million Paid to 500 Researchers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The biggest single reward paid out by Microsoft between July 1, 2025, and June 30, 2026, was $200,000",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "New York Awards $9 Million to Strengthen Cybersecurity at 153 Water Systems",
     "link": "https://www.securityweek.com/new-york-awards-9-million-to-strengthen-cybersecurity-at-153-water-systems/",
     "published": "Tue, 04 Aug 2026 01:54:00 +0000",
@@ -678,89 +760,21 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "N‑able Patches Vulnerability Exploited to Hack N-central Servers",
-    "link": "https://www.securityweek.com/n-able-patches-vulnerability-exploited-to-hack-n-central-servers/",
-    "published": "Mon, 03 Aug 2026 12:34:06 +0000",
-    "summary": "<p>The N‑central vulnerability CVE-2026-18577 has been exploited in the wild after threat actors found a patch bypass.</p>\n<p>The post <a href=\"https://www.securityweek.com/n-able-patches-vulnerability-exploited-to-hack-n-central-servers/\">N‑able Patches Vulnerability Exploited to Hack N-central Servers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "source": "Talos Blog",
+    "title": "“Keep going, bro. You’ve got this!” A data-driven look at how adversaries are weaponizing AI",
+    "link": "https://blog.talosintelligence.com/keep-going-bro-youve-got-this-a-data-driven-look-at-how-adversaries-are-weaponizing-ai/",
+    "published": "Tue, 04 Aug 2026 10:00:11 GMT",
+    "summary": "Talos has collected prompt logs from threat actor endpoints running various applications, such as Claude Code, CodeX, Cursor, or Gemini. This blog is an analysis of the ways we've seen bad actors leveraging cloud-based AI.",
     "analysis": {
-      "issue": "The N‑central vulnerability CVE-2026-18577 has been exploited in the wild after threat actors found a patch bypass",
+      "issue": "Artificial intelligence (AI) and associated language models are now ubiquitous and heavily used in both personal and professional contexts to streamline tasks and expand capabilities",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
-      "cves": [
-        "CVE-2025-8875",
-        "CVE-2025-8876",
-        "CVE-2026-18577",
-        "CVE-2026-18556"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Brinks Home Discloses Data Breach as Hackers Leak Files",
-    "link": "https://www.securityweek.com/brinks-home-discloses-data-breach-as-hackers-leak-files/",
-    "published": "Mon, 03 Aug 2026 11:45:14 +0000",
-    "summary": "<p>The physical security firm says its alarm monitoring and system functionality have not been affected.</p>\n<p>The post <a href=\"https://www.securityweek.com/brinks-home-discloses-data-breach-as-hackers-leak-files/\">Brinks Home Discloses Data Breach as Hackers Leak Files</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The physical security firm says its alarm monitoring and system functionality have not been affected",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Recent SonicWall Vulnerabilities Exploited in Ransomware Attacks",
-    "link": "https://www.securityweek.com/recent-sonicwall-vulnerabilities-exploited-in-ransomware-attacks/",
-    "published": "Mon, 03 Aug 2026 10:39:41 +0000",
-    "summary": "<p>The INC Ransomware gang has been targeting vulnerable SMA1000 appliances for root access and lateral movement.</p>\n<p>The post <a href=\"https://www.securityweek.com/recent-sonicwall-vulnerabilities-exploited-in-ransomware-attacks/\">Recent SonicWall Vulnerabilities Exploited in Ransomware Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The INC Ransomware gang has been targeting vulnerable SMA1000 appliances for root access and lateral movement",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-15410",
-        "CVE-2026-15409"
-      ],
-      "threat_categories": [
-        "Ransomware",
         "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Russian State APT Linked to Recent Public Wi-Fi Gateway Hacking",
-    "link": "https://www.securityweek.com/russian-state-apt-linked-to-recent-public-wi-fi-gateway-hacking/",
-    "published": "Mon, 03 Aug 2026 09:17:37 +0000",
-    "summary": "<p>Midnight Blizzard has been stealing Microsoft account credentials via compromised Wi-Fi networks at hospitality organizations.</p>\n<p>The post <a href=\"https://www.securityweek.com/russian-state-apt-linked-to-recent-public-wi-fi-gateway-hacking/\">Russian State APT Linked to Recent Public Wi-Fi Gateway Hacking</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Midnight Blizzard has been stealing Microsoft account credentials via compromised Wi-Fi networks at hospitality organizations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing",
-        "APT"
+        "DDoS"
       ]
     }
   },
@@ -929,24 +943,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "UAT-11795 deploys novel Starland RAT and bespoke WLDR C2 implant in financially motivated campaign",
-    "link": "https://blog.talosintelligence.com/uat-11795-deploys-novel-starland-rat-and-bespoke-wldr-c2-implant-in-financially-motivated-campaign/",
-    "published": "Thu, 16 Jul 2026 10:00:01 GMT",
-    "summary": "Cisco Talos is disclosing UAT-11795, a sophisticated, Russian-speaking, financially motivated adversary that has been conducting a malicious campaign targeting users in the U.S. and Europe since at least June 2025.",
-    "analysis": {
-      "issue": "According to the telemetry data, the infection is predominantly observed in the United States",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
@@ -1297,8 +1293,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1323,6 +1319,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "WhatsApp account takeover scam asks you to &#8220;vote for my friend&#8221;",
+    "link": "https://www.malwarebytes.com/blog/scams/2026/08/whatsapp-account-takeover-scam-asks-you-to-vote-for-my-friend",
+    "published": "Tue, 04 Aug 2026 06:22:48 GMT",
+    "summary": "Scammers are trying to take over WhatsApp accounts by sending messages asking people to vote for a friend in a fake online contest.",
+    "analysis": {
+      "issue": "A scam is spreading through WhatsApp with the goal of taking over victims’ accounts entirely",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1488,24 +1502,6 @@
       "threat_categories": [
         "Vulnerability",
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Apple accused of letting fake crypto app steal $1.8 million",
-    "link": "https://www.malwarebytes.com/blog/news/2026/07/apple-accused-of-letting-fake-crypto-app-steal-1-8-million",
-    "published": "Wed, 29 Jul 2026 22:30:40 GMT",
-    "summary": "The case raises fresh questions about how effectively Apple polices apps that impersonate legitimate developers.",
-    "analysis": {
-      "issue": "Apple’s tagline for its App Store says, “The apps you love",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
