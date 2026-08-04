@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users",
+    "link": "https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html",
+    "published": "Tue, 04 Aug 2026 00:13:53 +0530",
+    "summary": "Cybersecurity researchers have discovered a new set of malicious npm packages that target users of Alibaba developer tools with a cross-platform remote access trojan (RAT) as part of a sophisticated, targeted software supply chain attack targeting Chinese-speaking environments.\n\nOne of the packages in question is \"lib-mtop,\" an unscoped package with the same name as a private Alibaba package",
+    "analysis": {
+      "issue": "Malicious npm packages impersonate Alibaba tools to deliver a cross-platform RAT with command execution, persistence, and lateral movement",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
     "link": "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html",
     "published": "Mon, 03 Aug 2026 21:54:47 +0530",
@@ -168,20 +186,78 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
-    "link": "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html",
-    "published": "Sat, 01 Aug 2026 22:47:22 +0530",
-    "summary": "An attacker drained 1,196 Bitcoin addresses in 41 minutes on July 30, taking 1,082.65 BTC worth about $70.2 million at the time. Galaxy Research mapped the sweep and tied it to a firmware flaw in Coldcard, the Bitcoin-only hardware wallet made by Canadian firm Coinkite.\n\nA March 2021 firmware integration error routed seed generation to a deterministic software pseudorandom number generator (PRNG",
+    "source": "Bleeping Computer",
+    "title": "Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/",
+    "published": "Mon, 03 Aug 2026 20:17:15 -0400",
+    "summary": "Microsoft has linked a global campaign targeting hospitality Wi-Fi networks to the Russian threat actor Midnight Blizzard, also known as APT29. [...]",
     "analysis": {
-      "issue": "A Coldcard firmware flaw weakens wallet seed generation across five models, while Galaxy links a 1,196-address, $70",
+      "issue": "Microsoft has linked a global campaign targeting hospitality Wi-Fi networks to the Russian threat actor Midnight Blizzard, also known as APT29",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Malware",
+        "Phishing",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "New Pass-ta-key attacks let malware hijack Google-synced passkeys",
+    "link": "https://www.bleepingcomputer.com/news/security/new-pass-ta-key-attacks-let-malware-hijack-google-synced-passkeys/",
+    "published": "Mon, 03 Aug 2026 19:58:01 -0400",
+    "summary": "Security researchers have discovered three attacks that allow malware on already-compromised Windows devices to abuse Google Password Manager's synced passkeys to take over accounts, bypass user verification, and extract passkey private keys. [...]",
+    "analysis": {
+      "issue": "Security researchers have discovered three attacks that allow malware on already-compromised Windows devices to abuse Google Password Manager's synced passkeys to take over accounts, bypass user verification, and extract passkey private keys",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "New DOUBLECUP ClickFix service hides malware in browser cache images",
+    "link": "https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/",
+    "published": "Mon, 03 Aug 2026 16:01:22 -0400",
+    "summary": "A new Russian loader-as-a-service named DOUBLECUP uses ClickFix attacks to hide malicious code in PNG images cached by victims' browsers, ultimately delivering CountLoader to Windows and macOS devices and a new remote access trojan named DeviceManager to Windows systems. [...]",
+    "analysis": {
+      "issue": "A new Russian loader-as-a-service named DOUBLECUP uses ClickFix attacks to hide malicious code in PNG images cached by victims' browsers, ultimately delivering CountLoader to Windows and macOS devices and a new remote access trojan named DeviceManage",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Fake Roblox Xeno script launcher pushes infostealer, RAT malware",
+    "link": "https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/",
+    "published": "Mon, 03 Aug 2026 15:25:10 -0400",
+    "summary": "Fake Xeno Executor installers are infecting unsuspecting Roblox players with malware that provides remote access and steals sensitive information. [...]",
+    "analysis": {
+      "issue": "Fake Xeno Executor installers are infecting unsuspecting Roblox players with malware that provides remote access and steals sensitive information",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
       ]
     }
   },
@@ -296,81 +372,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Rails patches critical Active Storage flaw with RCE potential",
-    "link": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
-    "published": "Sat, 01 Aug 2026 10:20:30 -0400",
-    "summary": "A critical vulnerability in the Active Storage framework can allow an unauthenticated attacker to read arbitrary files from a Rails application, and potentially escalate to remote code execution (RCE). [...]",
-    "analysis": {
-      "issue": "A critical vulnerability in the Active Storage framework can allow an unauthenticated attacker to read arbitrary files from a Rails application, and potentially escalate to remote code execution (RCE)",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-66066"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Amgen says cloud data breach exposed patient health, proprietary info",
-    "link": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/",
-    "published": "Fri, 31 Jul 2026 18:16:42 -0400",
-    "summary": "Pharmaceutical company Amgen says it suffered a data breach after threat actors stole corporate data and patient information stored in multiple cloud systems operated by third-party service providers. [...]",
-    "analysis": {
-      "issue": "Pharmaceutical company Amgen says it suffered a data breach after threat actors stole corporate data and patient information stored in multiple cloud systems operated by third-party service providers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Arch Linux disables AUR package adoption to stop malware flood",
-    "link": "https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/",
-    "published": "Fri, 31 Jul 2026 17:38:08 -0400",
-    "summary": "The Arch Linux project has temporarily disabled adoption of Arch User Repository (AUR) packages after a surge in malicious takeovers of existing packages. [...]",
-    "analysis": {
-      "issue": "The Arch Linux project has temporarily disabled adoption of Arch User Repository (AUR) packages after a surge in malicious takeovers of existing packages",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Online ad firm Adform’s script compromised to steal cryptocurrency",
-    "link": "https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/",
-    "published": "Fri, 31 Jul 2026 17:09:25 -0400",
-    "summary": "Online advertising firm Adform suffered a supply-chain attack that delivered cryptocurrency-stealing scripts to websites using its ad platform, replacing wallet addresses copied to visitors' clipboards with ones controlled by an attacker. [...]",
-    "analysis": {
-      "issue": "Online advertising firm Adform suffered a supply-chain attack that delivered cryptocurrency-stealing scripts to websites using its ad platform, replacing wallet addresses copied to visitors’ clipboards with ones controlled by an attacker",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Read This Before You Buy That TV Streaming Stick",
     "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
@@ -419,10 +420,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50661",
-        "CVE-2026-48561",
         "CVE-2026-56155",
-        "CVE-2026-56164"
+        "CVE-2026-48561",
+        "CVE-2026-56164",
+        "CVE-2026-50661"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -556,13 +557,31 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50507",
         "CVE-2026-49160",
-        "CVE-2026-45586"
+        "CVE-2026-45586",
+        "CVE-2026-50507"
       ],
       "threat_categories": [
         "Vulnerability",
         "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "New York Awards $9 Million to Strengthen Cybersecurity at 153 Water Systems",
+    "link": "https://www.securityweek.com/new-york-awards-9-million-to-strengthen-cybersecurity-at-153-water-systems/",
+    "published": "Tue, 04 Aug 2026 01:54:00 +0000",
+    "summary": "<p>The grants will help local governments assess and improve cyber defenses amid a multistate campaign targeting water and wastewater infrastructure.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-york-awards-9-million-to-strengthen-cybersecurity-at-153-water-systems/\">New York Awards $9 Million to Strengthen Cybersecurity at 153 Water Systems</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The grants will help local governments assess and improve cyber defenses amid a multistate campaign targeting water and wastewater infrastructure",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -596,6 +615,24 @@
       "cause": null,
       "timeline": null,
       "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Cyberattack Hits Liechtenstein’s Register of People Behind Companies and Foundations",
+    "link": "https://www.securityweek.com/cyberattack-hits-liechtensteins-register-of-people-behind-companies-and-foundations/",
+    "published": "Mon, 03 Aug 2026 15:15:00 +0000",
+    "summary": "<p>The list of people behind companies, foundations and trusteeships is part of efforts to combat money laundering and terror financing.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyberattack-hits-liechtensteins-register-of-people-behind-companies-and-foundations/\">Cyberattack Hits Liechtenstein’s Register of People Behind Companies and Foundations</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The list of people behind companies, foundations and trusteeships is part of efforts to combat money laundering and terror financing",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
       "cves": [],
       "threat_categories": [
         "General Security"
@@ -653,8 +690,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-8875",
         "CVE-2025-8876",
+        "CVE-2025-8875",
         "CVE-2026-18556",
         "CVE-2026-18577"
       ],
@@ -724,42 +761,6 @@
         "Malware",
         "Phishing",
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "US Water Cyberattacks Extend Beyond Minnesota to at Least 6 Other States",
-    "link": "https://www.securityweek.com/us-water-cyberattacks-extend-beyond-minnesota-to-at-least-6-other-states/",
-    "published": "Mon, 03 Aug 2026 08:48:02 +0000",
-    "summary": "<p>Michigan, South Dakota, and Georgia are reportedly on the list of states whose water systems have been targeted by Iran-linked hackers.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-water-cyberattacks-extend-beyond-minnesota-to-at-least-6-other-states/\">US Water Cyberattacks Extend Beyond Minnesota to at Least 6 Other States</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Michigan, South Dakota, and Georgia are reportedly on the list of states whose water systems have been targeted by Iran-linked hackers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Balance Theory Raises $19 Million to Help Enterprises Manage Cybersecurity Investments",
-    "link": "https://www.securityweek.com/balance-theory-raises-19-million-to-help-enterprises-manage-cybersecurity-investments/",
-    "published": "Sat, 01 Aug 2026 12:30:00 +0000",
-    "summary": "<p>The funding round was led by SYN Ventures, with participation from existing investors DataTribe and TEDCO. </p>\n<p>The post <a href=\"https://www.securityweek.com/balance-theory-raises-19-million-to-help-enterprises-manage-cybersecurity-investments/\">Balance Theory Raises $19 Million to Help Enterprises Manage Cybersecurity Investments</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The funding round was led by SYN Ventures, with participation from existing investors DataTribe and TEDCO",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -1327,6 +1328,60 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "&#8220;Adult TikTok&#8221; searches lead to scams",
+    "link": "https://www.malwarebytes.com/blog/scams/2026/08/adult-tiktok-searches-lead-to-scams",
+    "published": "Mon, 03 Aug 2026 21:35:18 GMT",
+    "summary": "That \"free\" adult TikTok site could leave you with spam, unwanted apps, or fake verification fees.",
+    "analysis": {
+      "issue": "Search for certain combinations of “TikTok” and adult content, and sooner or later you’ll land on a page promising exactly what you searched for: an endless feed of explicit clips, no signup required, just tap and watch",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "The AI Act kicks into action, forces companies to be clear about AI chatbots",
+    "link": "https://www.malwarebytes.com/blog/news/2026/08/the-ai-act-kicks-into-action-forces-companies-to-be-clear-about-ai-bots",
+    "published": "Mon, 03 Aug 2026 21:08:29 GMT",
+    "summary": "The European Union (EU) has started enforcing key parts of the AI Act, with immediate, visible consequences for chatbots, deepfakes and other consumer‑facing AI.",
+    "analysis": {
+      "issue": "The European Union (EU) has started enforcing key parts of the AI Act, with immediate, visible consequences for chatbots, deepfakes and other consumer‑facing Artificial Intelligence (AI) systems",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Californians can tell data brokers to DROP their information",
+    "link": "https://www.malwarebytes.com/blog/news/2026/08/californians-can-tell-data-brokers-to-drop-their-information",
+    "published": "Mon, 03 Aug 2026 20:50:32 GMT",
+    "summary": "California has launched the Delete Request and Opt‑out Platform (DROP), a state‑run portal that lets residents send deletion and opt‑out requests to all registered data brokers.",
+    "analysis": {
+      "issue": "California has launched the Delete Request and Opt‑out Platform (DROP), a state‑run portal that lets residents send deletion and opt‑out requests to all registered data brokers in one place",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "A week in security (July 27 &#8211; August 2)",
     "link": "https://www.malwarebytes.com/blog/news/2026/08/a-week-in-security-july-27-august-2",
     "published": "Mon, 03 Aug 2026 07:01:00 GMT",
@@ -1451,61 +1506,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Buying TikTok views or followers? Here&#8217;s what you&#8217;re really getting",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/07/buying-tiktok-views-or-followers-heres-what-youre-really-getting",
-    "published": "Wed, 29 Jul 2026 16:54:46 GMT",
-    "summary": "Behind TikTok's booming growth industry are fake engagements, stolen accounts, and a fast track to getting flagged.",
-    "analysis": {
-      "issue": "A whole industry has sprung up around selling TikTok “growth",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "AI robocalls: Why caller ID is still lying to you",
-    "link": "https://www.malwarebytes.com/blog/news/2026/07/ai-robocalls-why-caller-id-is-still-lying-to-you",
-    "published": "Wed, 29 Jul 2026 15:15:32 GMT",
-    "summary": "AI is making robocall scams cheaper, more convincing, and harder to spot. Here's why caller ID still isn't enough.",
-    "analysis": {
-      "issue": "If you feel like your phone has turned into a scam megaphone, you’re not alone",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "OpenAI explains how its AI agent breached Hugging Face",
-    "link": "https://www.malwarebytes.com/blog/news/2026/07/openai-explains-how-its-ai-agent-breached-hugging-face",
-    "published": "Wed, 29 Jul 2026 14:20:32 GMT",
-    "summary": "OpenAI has published an update on the incident in which one of its agents escaped its sandbox and accessed Hugging Face infrastructure.",
-    "analysis": {
-      "issue": "On July 28, OpenAI published an update on the agent that escaped its sandbox and hacked into Hugging Face during an internal cybersecurity evaluation",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
       ]
     }
   },
