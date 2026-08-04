@@ -1,10 +1,56 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-04 11:03:34 UTC
+**Last Updated:** 2026-08-04 14:28:06 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT](https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html)
+### 1. [Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks](https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 04 Aug 2026 19:00:23 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access](https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 04 Aug 2026 18:41:22 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted](https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 04 Aug 2026 17:00:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 4. [Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent](https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 04 Aug 2026 16:46:23 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 5. [New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root](https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 04 Aug 2026 16:06:27 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-58048  
+**Categories:** Vulnerability  
+
+---
+
+### 6. [DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT](https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 04 Aug 2026 14:33:23 +0530  
@@ -13,7 +59,7 @@
 
 ---
 
-### 2. [CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises](https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html)
+### 7. [CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises](https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 04 Aug 2026 12:30:13 +0530  
@@ -23,7 +69,7 @@
 
 ---
 
-### 3. [18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users](https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html)
+### 8. [18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users](https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 04 Aug 2026 00:13:53 +0530  
@@ -32,7 +78,7 @@
 
 ---
 
-### 4. [Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts](https://thehackernews.com/2026/08/google-password-manager-attacks-could.html)
+### 9. [Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts](https://thehackernews.com/2026/08/google-password-manager-attacks-could.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 03 Aug 2026 21:54:47 +0530  
@@ -41,7 +87,7 @@
 
 ---
 
-### 5. [INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws](https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html)
+### 10. [INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws](https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 03 Aug 2026 21:45:13 +0530  
@@ -51,53 +97,16 @@
 
 ---
 
-### 6. [⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks](https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html)
+### 11. [Varonis Agent IBAC keeps AI agents within their intended boundaries](https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/)
 
-**Source:** The Hacker News  
-**Published:** Mon, 03 Aug 2026 19:33:11 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 7. [FOMO in the SOC: Where AI Platforms like Claude Actually Fit](https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 03 Aug 2026 17:00:00 +0530  
-**Severity:** Low  
+**Source:** Bleeping Computer  
+**Published:** Tue, 04 Aug 2026 10:00:10 -0400  
+**Severity:** Critical  
 **Categories:** General Security  
 
 ---
 
-### 8. [Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS](https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 03 Aug 2026 16:19:06 +0530  
-**Severity:** Low  
-**Categories:** Data Breach  
-
----
-
-### 9. [PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web](https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 03 Aug 2026 14:43:56 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable](https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 03 Aug 2026 13:35:30 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-17583  
-**Categories:** Vulnerability  
-
----
-
-### 11. [Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/)
+### 12. [Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 03 Aug 2026 20:17:15 -0400  
@@ -106,7 +115,7 @@
 
 ---
 
-### 12. [New Pass-ta-key attacks let malware hijack Google-synced passkeys](https://www.bleepingcomputer.com/news/security/new-pass-ta-key-attacks-let-malware-hijack-google-synced-passkeys/)
+### 13. [New Pass-ta-key attacks let malware hijack Google-synced passkeys](https://www.bleepingcomputer.com/news/security/new-pass-ta-key-attacks-let-malware-hijack-google-synced-passkeys/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 03 Aug 2026 19:58:01 -0400  
@@ -115,7 +124,7 @@
 
 ---
 
-### 13. [New DOUBLECUP ClickFix service hides malware in browser cache images](https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/)
+### 14. [New DOUBLECUP ClickFix service hides malware in browser cache images](https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 03 Aug 2026 16:01:22 -0400  
@@ -124,7 +133,7 @@
 
 ---
 
-### 14. [Fake Roblox Xeno script launcher pushes infostealer, RAT malware](https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/)
+### 15. [Fake Roblox Xeno script launcher pushes infostealer, RAT malware](https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 03 Aug 2026 15:25:10 -0400  
@@ -133,7 +142,7 @@
 
 ---
 
-### 15. [N-able warns of N-central auth bypass flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/)
+### 16. [N-able warns of N-central auth bypass flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 03 Aug 2026 13:00:56 -0400  
@@ -143,7 +152,7 @@
 
 ---
 
-### 16. [ExfilSquad hackers leak info of over 100,000 UK police officers, staff](https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/)
+### 17. [ExfilSquad hackers leak info of over 100,000 UK police officers, staff](https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 03 Aug 2026 11:04:39 -0400  
@@ -152,7 +161,7 @@
 
 ---
 
-### 17. [Inside the Underground Business of the Android BTMOB RAT malware](https://www.bleepingcomputer.com/news/security/inside-the-underground-business-of-btmob-rat/)
+### 18. [Inside the Underground Business of the Android BTMOB RAT malware](https://www.bleepingcomputer.com/news/security/inside-the-underground-business-of-btmob-rat/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 03 Aug 2026 10:45:55 -0400  
@@ -161,7 +170,7 @@
 
 ---
 
-### 18. [OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/)
+### 19. [OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 02 Aug 2026 18:31:41 -0400  
@@ -170,21 +179,12 @@
 
 ---
 
-### 19. [COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft](https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/)
+### 20. [COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft](https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 02 Aug 2026 17:14:29 -0400  
 **Severity:** Low  
 **Categories:** Vulnerability  
-
----
-
-### 20. [Google Chrome may soon block New Tab hijacker extensions by default](https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/)
-
-**Source:** Bleeping Computer  
-**Published:** Sun, 02 Aug 2026 10:17:16 -0400  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
@@ -211,7 +211,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56164, CVE-2026-48561, CVE-2026-50661, CVE-2026-56155  
+**CVEs:** CVE-2026-56155, CVE-2026-56164, CVE-2026-50661, CVE-2026-48561  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -275,12 +275,49 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50507, CVE-2026-49160, CVE-2026-45586  
+**CVEs:** CVE-2026-50507, CVE-2026-45586, CVE-2026-49160  
 **Categories:** Vulnerability, DDoS  
 
 ---
 
-### 31. [Gemini Agent-to-Agent Attack Method Exposed Secrets, Enabled Pull Request Tampering](https://www.securityweek.com/gemini-agent-to-agent-attack-exposed-secrets-enabled-pull-request-tampering/)
+### 31. [Weaponized Email AI Assistants Could Help Attackers Hijack Accounts](https://www.securityweek.com/weaponized-email-ai-assistants-could-help-attackers-hijack-accounts/)
+
+**Source:** Security Week  
+**Published:** Tue, 04 Aug 2026 13:54:13 +0000  
+**Severity:** Critical  
+**Categories:** Phishing  
+
+---
+
+### 32. [Zenity Raises $125 Million in Series C Funding](https://www.securityweek.com/zenity-raises-125-million-in-series-c-funding/)
+
+**Source:** Security Week  
+**Published:** Tue, 04 Aug 2026 13:40:42 +0000  
+**Severity:** Critical  
+**Categories:** General Security  
+
+---
+
+### 33. [TP-Link Omada ZTP Vulnerabilities Chain Into Full Network Takeover](https://www.securityweek.com/tp-link-omada-ztp-vulnerabilities-chain-into-full-network-takeover/)
+
+**Source:** Security Week  
+**Published:** Tue, 04 Aug 2026 12:00:00 +0000  
+**Severity:** High  
+**CVEs:** CVE-2025-7851, CVE-2025-7850  
+**Categories:** Vulnerability  
+
+---
+
+### 34. [Obsidian Security Raises $85 Million at $1.1 Billion Valuation](https://www.securityweek.com/obsidian-security-raises-85-million-at-1-1-billion-valuation/)
+
+**Source:** Security Week  
+**Published:** Tue, 04 Aug 2026 12:00:00 +0000  
+**Severity:** Low  
+**Categories:** Supply Chain  
+
+---
+
+### 35. [Gemini Agent-to-Agent Attack Method Exposed Secrets, Enabled Pull Request Tampering](https://www.securityweek.com/gemini-agent-to-agent-attack-exposed-secrets-enabled-pull-request-tampering/)
 
 **Source:** Security Week  
 **Published:** Tue, 04 Aug 2026 10:54:30 +0000  
@@ -289,7 +326,7 @@
 
 ---
 
-### 32. [Decades-Old BMC Vulnerability Exposes Thousands of Data Centers to Attacks](https://www.securityweek.com/decades-old-bmc-vulnerability-exposes-thousands-of-data-centers-to-attacks/)
+### 36. [Decades-Old BMC Vulnerability Exposes Thousands of Data Centers to Attacks](https://www.securityweek.com/decades-old-bmc-vulnerability-exposes-thousands-of-data-centers-to-attacks/)
 
 **Source:** Security Week  
 **Published:** Tue, 04 Aug 2026 09:56:06 +0000  
@@ -299,7 +336,7 @@
 
 ---
 
-### 33. [150,000 Impacted by Madera Community Hospital Data Breach](https://www.securityweek.com/150000-impacted-by-madera-community-hospital-data-breach/)
+### 37. [150,000 Impacted by Madera Community Hospital Data Breach](https://www.securityweek.com/150000-impacted-by-madera-community-hospital-data-breach/)
 
 **Source:** Security Week  
 **Published:** Tue, 04 Aug 2026 08:33:45 +0000  
@@ -308,7 +345,7 @@
 
 ---
 
-### 34. [Microsoft Bug Bounty Program: $20 Million Paid to 500 Researchers](https://www.securityweek.com/microsoft-bug-bounty-program-20-million-paid-to-500-researchers/)
+### 38. [Microsoft Bug Bounty Program: $20 Million Paid to 500 Researchers](https://www.securityweek.com/microsoft-bug-bounty-program-20-million-paid-to-500-researchers/)
 
 **Source:** Security Week  
 **Published:** Tue, 04 Aug 2026 05:18:34 +0000  
@@ -317,7 +354,7 @@
 
 ---
 
-### 35. [New York Awards $9 Million to Strengthen Cybersecurity at 153 Water Systems](https://www.securityweek.com/new-york-awards-9-million-to-strengthen-cybersecurity-at-153-water-systems/)
+### 39. [New York Awards $9 Million to Strengthen Cybersecurity at 153 Water Systems](https://www.securityweek.com/new-york-awards-9-million-to-strengthen-cybersecurity-at-153-water-systems/)
 
 **Source:** Security Week  
 **Published:** Tue, 04 Aug 2026 01:54:00 +0000  
@@ -326,48 +363,12 @@
 
 ---
 
-### 36. [Black Hat USA 2026 – Summary of Vendor Announcements (Part 1)](https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-1/)
+### 40. [Black Hat USA 2026 – Summary of Vendor Announcements (Part 1)](https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-1/)
 
 **Source:** Security Week  
 **Published:** Mon, 03 Aug 2026 15:50:00 +0000  
 **Severity:** Critical  
 **Categories:** Vulnerability  
-
----
-
-### 37. [Visa to Acquire Fraud Intelligence Firm BioCatch for $2.4 Billion](https://www.securityweek.com/visa-to-acquire-fraud-intelligence-firm-biocatch-for-2-4-billion/)
-
-**Source:** Security Week  
-**Published:** Mon, 03 Aug 2026 15:32:05 +0000  
-**Severity:** High  
-**Categories:** General Security  
-
----
-
-### 38. [Cyberattack Hits Liechtenstein’s Register of People Behind Companies and Foundations](https://www.securityweek.com/cyberattack-hits-liechtensteins-register-of-people-behind-companies-and-foundations/)
-
-**Source:** Security Week  
-**Published:** Mon, 03 Aug 2026 15:15:00 +0000  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 39. [River Bank Says Hackers Deleted Data Stolen in Ransomware Attack](https://www.securityweek.com/river-bank-says-hackers-deleted-data-stolen-in-ransomware-attack/)
-
-**Source:** Security Week  
-**Published:** Mon, 03 Aug 2026 13:02:06 +0000  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach, Supply Chain  
-
----
-
-### 40. [Horizon3 Raises $250 Million to Fund Continuing Growth](https://www.securityweek.com/horizon3-raises-250-million-to-fund-continuing-growth/)
-
-**Source:** Security Week  
-**Published:** Mon, 03 Aug 2026 13:00:00 +0000  
-**Severity:** Critical  
-**Categories:** General Security  
 
 ---
 
@@ -646,7 +647,25 @@
 
 ---
 
-### 71. [WhatsApp account takeover scam asks you to &#8220;vote for my friend&#8221;](https://www.malwarebytes.com/blog/scams/2026/08/whatsapp-account-takeover-scam-asks-you-to-vote-for-my-friend)
+### 71. [Travelers targeted when logging into hotel Wi-Fi networks](https://www.malwarebytes.com/blog/news/2026/08/travelers-targeted-when-logging-into-hotel-wi-fi-networks)
+
+**Source:** Malwarebytes  
+**Published:** Tue, 04 Aug 2026 12:05:16 GMT  
+**Severity:** Low  
+**Categories:** Malware, APT  
+
+---
+
+### 72. [Online backlash ends in Google rolling back Google Earth AI tool after a day](https://www.malwarebytes.com/blog/news/2026/08/online-backlash-ends-in-google-rolling-back-google-earth-ai-tool-after-a-day)
+
+**Source:** Malwarebytes  
+**Published:** Tue, 04 Aug 2026 11:35:19 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 73. [WhatsApp account takeover scam asks you to &#8220;vote for my friend&#8221;](https://www.malwarebytes.com/blog/scams/2026/08/whatsapp-account-takeover-scam-asks-you-to-vote-for-my-friend)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 04 Aug 2026 06:22:48 GMT  
@@ -655,7 +674,7 @@
 
 ---
 
-### 72. [&#8220;Adult TikTok&#8221; searches lead to scams](https://www.malwarebytes.com/blog/scams/2026/08/adult-tiktok-searches-lead-to-scams)
+### 74. [&#8220;Adult TikTok&#8221; searches lead to scams](https://www.malwarebytes.com/blog/scams/2026/08/adult-tiktok-searches-lead-to-scams)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 03 Aug 2026 21:35:18 GMT  
@@ -664,7 +683,7 @@
 
 ---
 
-### 73. [The AI Act kicks into action, forces companies to be clear about AI chatbots](https://www.malwarebytes.com/blog/news/2026/08/the-ai-act-kicks-into-action-forces-companies-to-be-clear-about-ai-bots)
+### 75. [The AI Act kicks into action, forces companies to be clear about AI chatbots](https://www.malwarebytes.com/blog/news/2026/08/the-ai-act-kicks-into-action-forces-companies-to-be-clear-about-ai-bots)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 03 Aug 2026 21:08:29 GMT  
@@ -673,7 +692,7 @@
 
 ---
 
-### 74. [Californians can tell data brokers to DROP their information](https://www.malwarebytes.com/blog/news/2026/08/californians-can-tell-data-brokers-to-drop-their-information)
+### 76. [Californians can tell data brokers to DROP their information](https://www.malwarebytes.com/blog/news/2026/08/californians-can-tell-data-brokers-to-drop-their-information)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 03 Aug 2026 20:50:32 GMT  
@@ -682,7 +701,7 @@
 
 ---
 
-### 75. [A week in security (July 27 &#8211; August 2)](https://www.malwarebytes.com/blog/news/2026/08/a-week-in-security-july-27-august-2)
+### 77. [A week in security (July 27 &#8211; August 2)](https://www.malwarebytes.com/blog/news/2026/08/a-week-in-security-july-27-august-2)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 03 Aug 2026 07:01:00 GMT  
@@ -691,7 +710,7 @@
 
 ---
 
-### 76. [Fake Fortnite rewards are stealing players&#8217; accounts](https://www.malwarebytes.com/blog/scams/2026/07/fake-fortnite-rewards-are-stealing-players-accounts)
+### 78. [Fake Fortnite rewards are stealing players&#8217; accounts](https://www.malwarebytes.com/blog/scams/2026/07/fake-fortnite-rewards-are-stealing-players-accounts)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 31 Jul 2026 16:16:58 GMT  
@@ -700,7 +719,7 @@
 
 ---
 
-### 77. [Fake Flash Player installs AtlasRAT](https://www.malwarebytes.com/blog/news/2026/07/fake-flash-player-installs-atlasrat)
+### 79. [Fake Flash Player installs AtlasRAT](https://www.malwarebytes.com/blog/news/2026/07/fake-flash-player-installs-atlasrat)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 31 Jul 2026 11:03:29 GMT  
@@ -709,30 +728,12 @@
 
 ---
 
-### 78. [Malwarebytes for Windows, now available on the Microsoft Store](https://www.malwarebytes.com/blog/product/2026/07/malwarebytes-for-windows-now-available-on-the-microsoft-store)
+### 80. [Malwarebytes for Windows, now available on the Microsoft Store](https://www.malwarebytes.com/blog/product/2026/07/malwarebytes-for-windows-now-available-on-the-microsoft-store)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 30 Jul 2026 16:01:11 GMT  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 79. [Hims &amp; Hers sued over alleged health data privacy failures](https://www.malwarebytes.com/blog/privacy/2026/07/hims-hers-sued-over-alleged-health-data-privacy-failures)
-
-**Source:** Malwarebytes  
-**Published:** Thu, 30 Jul 2026 13:58:10 GMT  
-**Severity:** High  
-**Categories:** General Security  
-
----
-
-### 80. [Hidden prompt turns Microsoft Copilot into an AI worm](https://www.malwarebytes.com/blog/ai/2026/07/hidden-microsoft-copilot-ai-worm)
-
-**Source:** Malwarebytes  
-**Published:** Thu, 30 Jul 2026 12:58:45 GMT  
-**Severity:** Low  
-**Categories:** Vulnerability, Malware  
 
 ---
 

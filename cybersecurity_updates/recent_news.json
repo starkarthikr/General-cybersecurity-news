@@ -1,6 +1,98 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks",
+    "link": "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html",
+    "published": "Tue, 04 Aug 2026 19:00:23 +0530",
+    "summary": "A credential-stealing npm worm that first appeared in keyv@6.0.0 spread beyond the Keyv and Cacheable namespaces into hundreds of packages across multiple organizations on August 4, 2026.\n\nSafeDep verified 353 poisoned versions across 79 package names in the npm registry. Its monitoring put the wider footprint at 442 versions across 353 names, while Aikido later reported at least 868 packages",
+    "analysis": {
+      "issue": "A Keyv-linked npm worm poisoned 353 versions across 79 package names, stealing developer and CI credentials while repository hooks remained present",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access",
+    "link": "https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html",
+    "published": "Tue, 04 Aug 2026 18:41:22 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of an active, multi-wave campaign that employs social engineering lures themed around Adobe and Zoom software updates, business document reviews, and system maintenance utilities to stealthily deploy Remote Monitoring and Management (RMM) programs like ConnectWise ScreenConnect.\n\nThe campaign has been codenamed SMOKE#SCREEN by Securonix Threat",
+    "analysis": {
+      "issue": "SMOKE#SCREEN uses fake Adobe and Zoom updates, document lures, and trusted cloud services to install ScreenConnect for persistent remote access",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted",
+    "link": "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html",
+    "published": "Tue, 04 Aug 2026 17:00:00 +0530",
+    "summary": "The cybersecurity industry has spent decades assuming that offensive capability scales with technical expertise.\n\nThat assumption is starting to break.\n\nSecurity teams have long estimated risk by ranking attacker sophistication. Nation-state actors sat at one end. Organized criminal groups followed. Inexperienced attackers, dismissed as \"script kiddies,\" sat at the other end, running public",
+    "analysis": {
+      "issue": "AI-powered attackers are lowering the skill barrier for cyberattacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent",
+    "link": "https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html",
+    "published": "Tue, 04 Aug 2026 16:46:23 +0530",
+    "summary": "Google deleted three AI agent workflows from its Agent Development Kit (ADK) Python repository. Pillar Security showed that a public GitHub issue could manipulate a triage agent into triggering a privileged code-fixing agent.\n\nThe researchers said the public agent could be prompt-injected into posting /adk-issue-fix as adk-bot. They identified the bot as a collaborator, so that comment satisfied",
+    "analysis": {
+      "issue": "Google removed 3 ADK AI workflows after Pillar showed a public GitHub issue could trigger a privileged agent & reach code execution on a CI runner",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
+    "link": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html",
+    "published": "Tue, 04 Aug 2026 16:06:27 +0530",
+    "summary": "cPanel has patched a flaw that let an authenticated hosting customer execute SQL in the database's root context, crossing the privilege boundary between a cPanel account and the server's administrative database identity. It shipped in a targeted security release that closes two other routes past account boundaries.\n\nThe database bug is tracked as CVE-2026-58048 (CVSS 4.0 score: 9.4) and affects",
+    "analysis": {
+      "issue": "cPanel patches CVE-2026-58048, which could let authenticated customers run SQL as database root and, in some setups, compromise the OS",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-58048"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT",
     "link": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
     "published": "Tue, 04 Aug 2026 14:33:23 +0530",
@@ -96,94 +188,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks",
-    "link": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
-    "published": "Mon, 03 Aug 2026 19:33:11 +0530",
-    "summary": "This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an intruder around. Public systems, package feeds, hotel networks, and login flows all gave away more than intended.\n\nSome of it was clever. Most of it was just access left lying around: old bugs, exposed gear, poisoned dependencies, weak defaults, and tooling that moved from",
+    "source": "Bleeping Computer",
+    "title": "Varonis Agent IBAC keeps AI agents within their intended boundaries",
+    "link": "https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/",
+    "published": "Tue, 04 Aug 2026 10:00:10 -0400",
+    "summary": "AI agents need broad access to be useful, but traditional access controls cannot determine whether an action aligns with a user's intent. Varonis explains how Agent IBAC detects intent drift and enforces real-time guardrails to keep agents within their intended boundaries. [...]",
     "analysis": {
-      "issue": "This week’s cybersecurity recap covers rogue AI models, an $88M Bitcoin theft, OWA exploits, water-system attacks, Teams vishing, and poisoned package",
+      "issue": "Yesterday, Varonis announced Agent Intent-Based Access Control (IBAC), a new capability in Varonis Atlas that lets businesses connect AI agents to their enterprise data with safeguards that stop dangerous or out-of-policy behavior",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit",
-    "link": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
-    "published": "Mon, 03 Aug 2026 17:00:00 +0530",
-    "summary": "AI is moving incredibly fast, and every security leader is feeling the pressure to keep up.\n\nAI platforms like Claude, Codex and Cursor are already helping security teams write detections, investigate alerts, summarize incidents, and automate repetitive work. The conversation has evolved from whether AI belongs in the SOC, to where each type of AI delivers the most value.\n\nWith so many new AI",
-    "analysis": {
-      "issue": "Autonomous AI SOCs investigate every alert with selective AI reasoning, while Claude helps analysts hunt, write detections, and decide",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
-    "link": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
-    "published": "Mon, 03 Aug 2026 16:19:06 +0530",
-    "summary": "An unknown Chinese-speaking threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit.\n\nAttack surface management platform Censys said it identified the threat actor running more than 100 web properties, most of which are fake Amazon Web Services (AWS) sign-in pages on a domain that also hosts the exploit",
-    "analysis": {
-      "issue": "An unknown Chinese threat actor runs leaked DarkSword across 100-plus web properties, using fake AWS and Apple logins to deploy GHOSTBLADE on iOS",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web",
-    "link": "https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html",
-    "published": "Mon, 03 Aug 2026 14:43:56 +0530",
-    "summary": "The Police National Legal Database (PNLD) has confirmed that police, government and customer contact information was compromised and published on the dark web.\n\nThe data included names, organisations and work email addresses belonging to police officers, police staff, criminal justice professionals, government partners and customers.\n\nThe incident, identified on July 26, also exposed some names",
-    "analysis": {
-      "issue": "PNLD confirms police, government and customer contact data was published on the dark web, including names and emails from some Ask the Police users",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable",
-    "link": "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html",
-    "published": "Mon, 03 Aug 2026 13:35:30 +0530",
-    "summary": "Thermo Fisher Scientific has patched a flaw in select Applied Biosystems human identification software that could allow data files to be altered before analysis software loads them.\n\nThe vendor's July 31 security bulletin says nearly undetectable changes to .fsa and .hid outputs could occur if laboratory controls are circumvented.\n\nThermo Fisher tracks the issue as CVE-2026-17583 and rates it",
-    "analysis": {
-      "issue": "Thermo Fisher patched CVE-2026-17583, which could let attackers make nearly undetectable changes to Applied Biosystems DNA files before analysis",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-17583"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -356,24 +374,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Google Chrome may soon block New Tab hijacker extensions by default",
-    "link": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
-    "published": "Sun, 02 Aug 2026 10:17:16 -0400",
-    "summary": "Google is preparing a new Chrome security feature that would block policy-installed extensions from hijacking the New Tab page or changing the default search engine. [...]",
-    "analysis": {
-      "issue": "Google is preparing a new Chrome security feature that would block policy-installed extensions from hijacking the New Tab page or changing the default search engine",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Read This Before You Buy That TV Streaming Stick",
     "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
@@ -422,10 +422,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-56155",
         "CVE-2026-56164",
-        "CVE-2026-48561",
         "CVE-2026-50661",
-        "CVE-2026-56155"
+        "CVE-2026-48561"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -560,12 +560,87 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-50507",
-        "CVE-2026-49160",
-        "CVE-2026-45586"
+        "CVE-2026-45586",
+        "CVE-2026-49160"
       ],
       "threat_categories": [
         "Vulnerability",
         "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Weaponized Email AI Assistants Could Help Attackers Hijack Accounts",
+    "link": "https://www.securityweek.com/weaponized-email-ai-assistants-could-help-attackers-hijack-accounts/",
+    "published": "Tue, 04 Aug 2026 13:54:13 +0000",
+    "summary": "<p>Researchers demonstrate how attackers could abuse built-in email chatbots to evade detection, impersonate trusted employees, compromise executive accounts, and facilitate financial fraud.</p>\n<p>The post <a href=\"https://www.securityweek.com/weaponized-email-ai-assistants-could-help-attackers-hijack-accounts/\">Weaponized Email AI Assistants Could Help Attackers Hijack Accounts</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Researchers demonstrate how attackers could abuse built-in email chatbots to evade detection, impersonate trusted employees, compromise executive accounts, and facilitate financial fraud",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Zenity Raises $125 Million in Series C Funding",
+    "link": "https://www.securityweek.com/zenity-raises-125-million-in-series-c-funding/",
+    "published": "Tue, 04 Aug 2026 13:40:42 +0000",
+    "summary": "<p>The AI security company will invest in product innovation, global expansion, and customer experience.</p>\n<p>The post <a href=\"https://www.securityweek.com/zenity-raises-125-million-in-series-c-funding/\">Zenity Raises $125 Million in Series C Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The AI security company will invest in product innovation, global expansion, and customer experience",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "TP-Link Omada ZTP Vulnerabilities Chain Into Full Network Takeover",
+    "link": "https://www.securityweek.com/tp-link-omada-ztp-vulnerabilities-chain-into-full-network-takeover/",
+    "published": "Tue, 04 Aug 2026 12:00:00 +0000",
+    "summary": "<p>Forescout researchers have found 15 new vulnerabilities in the TP-Link Omada networking ecosystem.</p>\n<p>The post <a href=\"https://www.securityweek.com/tp-link-omada-ztp-vulnerabilities-chain-into-full-network-takeover/\">TP-Link Omada ZTP Vulnerabilities Chain Into Full Network Takeover</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Forescout researchers have found 15 new vulnerabilities in the TP-Link Omada networking ecosystem",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2025-7851",
+        "CVE-2025-7850"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Obsidian Security Raises $85 Million at $1.1 Billion Valuation",
+    "link": "https://www.securityweek.com/obsidian-security-raises-85-million-at-1-1-billion-valuation/",
+    "published": "Tue, 04 Aug 2026 12:00:00 +0000",
+    "summary": "<p>Obsidian Security has developed a platform for governing AI agents across third-party applications.</p>\n<p>The post <a href=\"https://www.securityweek.com/obsidian-security-raises-85-million-at-1-1-billion-valuation/\">Obsidian Security Raises $85 Million at $1.1 Billion Valuation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Obsidian Security has developed a platform for governing AI agents across third-party applications",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
       ]
     }
   },
@@ -682,80 +757,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Visa to Acquire Fraud Intelligence Firm BioCatch for $2.4 Billion",
-    "link": "https://www.securityweek.com/visa-to-acquire-fraud-intelligence-firm-biocatch-for-2-4-billion/",
-    "published": "Mon, 03 Aug 2026 15:32:05 +0000",
-    "summary": "<p>The payments giant says BioCatch’s behavioral and device intelligence will help financial institutions combat account takeovers, scams and other forms of digital fraud.</p>\n<p>The post <a href=\"https://www.securityweek.com/visa-to-acquire-fraud-intelligence-firm-biocatch-for-2-4-billion/\">Visa to Acquire Fraud Intelligence Firm BioCatch for $2.4 Billion</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The payments giant says BioCatch’s behavioral and device intelligence will help financial institutions combat account takeovers, scams and other forms of digital fraud",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Cyberattack Hits Liechtenstein’s Register of People Behind Companies and Foundations",
-    "link": "https://www.securityweek.com/cyberattack-hits-liechtensteins-register-of-people-behind-companies-and-foundations/",
-    "published": "Mon, 03 Aug 2026 15:15:00 +0000",
-    "summary": "<p>The list of people behind companies, foundations and trusteeships is part of efforts to combat money laundering and terror financing.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyberattack-hits-liechtensteins-register-of-people-behind-companies-and-foundations/\">Cyberattack Hits Liechtenstein’s Register of People Behind Companies and Foundations</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The list of people behind companies, foundations and trusteeships is part of efforts to combat money laundering and terror financing",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "River Bank Says Hackers Deleted Data Stolen in Ransomware Attack",
-    "link": "https://www.securityweek.com/river-bank-says-hackers-deleted-data-stolen-in-ransomware-attack/",
-    "published": "Mon, 03 Aug 2026 13:02:06 +0000",
-    "summary": "<p>The bank holding company was hacked in June, but the investigation into the incident continues.</p>\n<p>The post <a href=\"https://www.securityweek.com/river-bank-says-hackers-deleted-data-stolen-in-ransomware-attack/\">River Bank Says Hackers Deleted Data Stolen in Ransomware Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The bank holding company was hacked in June, but the investigation into the incident continues",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Horizon3 Raises $250 Million to Fund Continuing Growth",
-    "link": "https://www.securityweek.com/horizon3-raises-250-million-to-fund-continuing-growth/",
-    "published": "Mon, 03 Aug 2026 13:00:00 +0000",
-    "summary": "<p>Venture financing has become an essential factor in growing new business in today’s fast moving economy. Horizon3’s latest funding explains how and why.</p>\n<p>The post <a href=\"https://www.securityweek.com/horizon3-raises-250-million-to-fund-continuing-growth/\">Horizon3 Raises $250 Million to Fund Continuing Growth</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Venture financing has become an essential factor in growing new business in today’s fast moving economy",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -1324,6 +1325,43 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Travelers targeted when logging into hotel Wi-Fi networks",
+    "link": "https://www.malwarebytes.com/blog/news/2026/08/travelers-targeted-when-logging-into-hotel-wi-fi-networks",
+    "published": "Tue, 04 Aug 2026 12:05:16 GMT",
+    "summary": "Russian cybercrime groups are running a campaign that abuses hospitality Wi-Fi to steal information from travelers worldwide.",
+    "analysis": {
+      "issue": "Microsoft has warned that hotel, conference, and other hospitality Wi-Fi networks are being actively abused by a Russian group to target travelers worldwide",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Online backlash ends in Google rolling back Google Earth AI tool after a day",
+    "link": "https://www.malwarebytes.com/blog/news/2026/08/online-backlash-ends-in-google-rolling-back-google-earth-ai-tool-after-a-day",
+    "published": "Tue, 04 Aug 2026 11:35:19 GMT",
+    "summary": "Google has walked back an AI feature that allowed users to generate artificial images inside Google Earth, after a predictable flurry of deepfakes.",
+    "analysis": {
+      "issue": "Google has walked back an AI feature that allowed users to generate artificial images inside Google Earth, after a predictable flurry of deepfakes",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "WhatsApp account takeover scam asks you to &#8220;vote for my friend&#8221;",
     "link": "https://www.malwarebytes.com/blog/scams/2026/08/whatsapp-account-takeover-scam-asks-you-to-vote-for-my-friend",
     "published": "Tue, 04 Aug 2026 06:22:48 GMT",
@@ -1464,43 +1502,6 @@
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Hims &amp; Hers sued over alleged health data privacy failures",
-    "link": "https://www.malwarebytes.com/blog/privacy/2026/07/hims-hers-sued-over-alleged-health-data-privacy-failures",
-    "published": "Thu, 30 Jul 2026 13:58:10 GMT",
-    "summary": "The FTC has sued telehealth provider Hims &#038; Hers, alleging it shared customers' sensitive health information with advertisers.",
-    "analysis": {
-      "issue": "The US Federal Trade Commission (FTC), together with Utah and California, has filed a lawsuit against telehealth provider Hims & Hers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Hidden prompt turns Microsoft Copilot into an AI worm",
-    "link": "https://www.malwarebytes.com/blog/ai/2026/07/hidden-microsoft-copilot-ai-worm",
-    "published": "Thu, 30 Jul 2026 12:58:45 GMT",
-    "summary": "A new type of attack can trick Microsoft Copilot for Word into spreading hidden prompt injections from document to document.",
-    "analysis": {
-      "issue": "A security researcher has demonstrated how Microsoft Copilot for Word can be tricked into spreading a self‑propagating prompt‑injection “AI worm",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
         "Malware"
       ]
     }
