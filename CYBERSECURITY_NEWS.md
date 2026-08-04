@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-04 14:28:06 UTC
+**Last Updated:** 2026-08-04 18:11:05 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks](https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html)
+### 1. [Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens](https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 04 Aug 2026 22:57:39 +0530  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 2. [Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks](https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 04 Aug 2026 19:00:23 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access](https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html)
+### 3. [Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access](https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 04 Aug 2026 18:41:22 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted](https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html)
+### 4. [When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted](https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 04 Aug 2026 17:00:00 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent](https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html)
+### 5. [Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent](https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 04 Aug 2026 16:46:23 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root](https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html)
+### 6. [New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root](https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 04 Aug 2026 16:06:27 +0530  
@@ -50,7 +59,7 @@
 
 ---
 
-### 6. [DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT](https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html)
+### 7. [DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT](https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 04 Aug 2026 14:33:23 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises](https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html)
+### 8. [CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises](https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 04 Aug 2026 12:30:13 +0530  
@@ -69,7 +78,7 @@
 
 ---
 
-### 8. [18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users](https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html)
+### 9. [18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users](https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 04 Aug 2026 00:13:53 +0530  
@@ -78,7 +87,7 @@
 
 ---
 
-### 9. [Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts](https://thehackernews.com/2026/08/google-password-manager-attacks-could.html)
+### 10. [Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts](https://thehackernews.com/2026/08/google-password-manager-attacks-could.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 03 Aug 2026 21:54:47 +0530  
@@ -87,17 +96,16 @@
 
 ---
 
-### 10. [INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws](https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html)
+### 11. [Massive ChainDrop npm supply-chain attack infects hundreds of packages](https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/)
 
-**Source:** The Hacker News  
-**Published:** Mon, 03 Aug 2026 21:45:13 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-15409, CVE-2026-15410  
-**Categories:** Ransomware, Vulnerability  
+**Source:** Bleeping Computer  
+**Published:** Tue, 04 Aug 2026 11:24:35 -0400  
+**Severity:** High  
+**Categories:** Malware  
 
 ---
 
-### 11. [Varonis Agent IBAC keeps AI agents within their intended boundaries](https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/)
+### 12. [Varonis Agent IBAC keeps AI agents within their intended boundaries](https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 04 Aug 2026 10:00:10 -0400  
@@ -106,7 +114,7 @@
 
 ---
 
-### 12. [Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/)
+### 13. [Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 03 Aug 2026 20:17:15 -0400  
@@ -115,7 +123,7 @@
 
 ---
 
-### 13. [New Pass-ta-key attacks let malware hijack Google-synced passkeys](https://www.bleepingcomputer.com/news/security/new-pass-ta-key-attacks-let-malware-hijack-google-synced-passkeys/)
+### 14. [New Pass-ta-key attacks let malware hijack Google-synced passkeys](https://www.bleepingcomputer.com/news/security/new-pass-ta-key-attacks-let-malware-hijack-google-synced-passkeys/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 03 Aug 2026 19:58:01 -0400  
@@ -124,7 +132,7 @@
 
 ---
 
-### 14. [New DOUBLECUP ClickFix service hides malware in browser cache images](https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/)
+### 15. [New DOUBLECUP ClickFix service hides malware in browser cache images](https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 03 Aug 2026 16:01:22 -0400  
@@ -133,7 +141,7 @@
 
 ---
 
-### 15. [Fake Roblox Xeno script launcher pushes infostealer, RAT malware](https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/)
+### 16. [Fake Roblox Xeno script launcher pushes infostealer, RAT malware](https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 03 Aug 2026 15:25:10 -0400  
@@ -142,7 +150,7 @@
 
 ---
 
-### 16. [N-able warns of N-central auth bypass flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/)
+### 17. [N-able warns of N-central auth bypass flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 03 Aug 2026 13:00:56 -0400  
@@ -152,7 +160,7 @@
 
 ---
 
-### 17. [ExfilSquad hackers leak info of over 100,000 UK police officers, staff](https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/)
+### 18. [ExfilSquad hackers leak info of over 100,000 UK police officers, staff](https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 03 Aug 2026 11:04:39 -0400  
@@ -161,7 +169,7 @@
 
 ---
 
-### 18. [Inside the Underground Business of the Android BTMOB RAT malware](https://www.bleepingcomputer.com/news/security/inside-the-underground-business-of-btmob-rat/)
+### 19. [Inside the Underground Business of the Android BTMOB RAT malware](https://www.bleepingcomputer.com/news/security/inside-the-underground-business-of-btmob-rat/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 03 Aug 2026 10:45:55 -0400  
@@ -170,21 +178,12 @@
 
 ---
 
-### 19. [OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/)
+### 20. [OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 02 Aug 2026 18:31:41 -0400  
 **Severity:** High  
 **Categories:** General Security  
-
----
-
-### 20. [COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft](https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/)
-
-**Source:** Bleeping Computer  
-**Published:** Sun, 02 Aug 2026 17:14:29 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability  
 
 ---
 
@@ -211,7 +210,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56155, CVE-2026-56164, CVE-2026-50661, CVE-2026-48561  
+**CVEs:** CVE-2026-56155, CVE-2026-50661, CVE-2026-48561, CVE-2026-56164  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -275,12 +274,48 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50507, CVE-2026-45586, CVE-2026-49160  
+**CVEs:** CVE-2026-49160, CVE-2026-45586, CVE-2026-50507  
 **Categories:** Vulnerability, DDoS  
 
 ---
 
-### 31. [Weaponized Email AI Assistants Could Help Attackers Hijack Accounts](https://www.securityweek.com/weaponized-email-ai-assistants-could-help-attackers-hijack-accounts/)
+### 31. [Black Hat USA 2026 – Summary of Vendor Announcements (Part 2)](https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-2/)
+
+**Source:** Security Week  
+**Published:** Tue, 04 Aug 2026 16:49:39 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, APT, Supply Chain  
+
+---
+
+### 32. [Rethinking AI Security: Why CASB and DLP Need an Interaction-Aware Layer](https://www.securityweek.com/rethinking-ai-security-why-casb-and-dlp-need-an-interaction-aware-layer/)
+
+**Source:** Security Week  
+**Published:** Tue, 04 Aug 2026 16:15:00 +0000  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 33. [Oligo Raises $60 Million for Runtime Security](https://www.securityweek.com/oligo-raises-60-million-for-runtime-security/)
+
+**Source:** Security Week  
+**Published:** Tue, 04 Aug 2026 15:00:00 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 34. [CISO Conversations: Russ Kirby – Passion Is the Antidote to Burnout](https://www.securityweek.com/ciso-conversation-russ-kirby-passion-is-the-antidote-to-burnout/)
+
+**Source:** Security Week  
+**Published:** Tue, 04 Aug 2026 14:30:00 +0000  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 35. [Weaponized Email AI Assistants Could Help Attackers Hijack Accounts](https://www.securityweek.com/weaponized-email-ai-assistants-could-help-attackers-hijack-accounts/)
 
 **Source:** Security Week  
 **Published:** Tue, 04 Aug 2026 13:54:13 +0000  
@@ -289,7 +324,7 @@
 
 ---
 
-### 32. [Zenity Raises $125 Million in Series C Funding](https://www.securityweek.com/zenity-raises-125-million-in-series-c-funding/)
+### 36. [Zenity Raises $125 Million in Series C Funding](https://www.securityweek.com/zenity-raises-125-million-in-series-c-funding/)
 
 **Source:** Security Week  
 **Published:** Tue, 04 Aug 2026 13:40:42 +0000  
@@ -298,7 +333,7 @@
 
 ---
 
-### 33. [TP-Link Omada ZTP Vulnerabilities Chain Into Full Network Takeover](https://www.securityweek.com/tp-link-omada-ztp-vulnerabilities-chain-into-full-network-takeover/)
+### 37. [TP-Link Omada ZTP Vulnerabilities Chain Into Full Network Takeover](https://www.securityweek.com/tp-link-omada-ztp-vulnerabilities-chain-into-full-network-takeover/)
 
 **Source:** Security Week  
 **Published:** Tue, 04 Aug 2026 12:00:00 +0000  
@@ -308,7 +343,7 @@
 
 ---
 
-### 34. [Obsidian Security Raises $85 Million at $1.1 Billion Valuation](https://www.securityweek.com/obsidian-security-raises-85-million-at-1-1-billion-valuation/)
+### 38. [Obsidian Security Raises $85 Million at $1.1 Billion Valuation](https://www.securityweek.com/obsidian-security-raises-85-million-at-1-1-billion-valuation/)
 
 **Source:** Security Week  
 **Published:** Tue, 04 Aug 2026 12:00:00 +0000  
@@ -317,7 +352,7 @@
 
 ---
 
-### 35. [Gemini Agent-to-Agent Attack Method Exposed Secrets, Enabled Pull Request Tampering](https://www.securityweek.com/gemini-agent-to-agent-attack-exposed-secrets-enabled-pull-request-tampering/)
+### 39. [Gemini Agent-to-Agent Attack Method Exposed Secrets, Enabled Pull Request Tampering](https://www.securityweek.com/gemini-agent-to-agent-attack-exposed-secrets-enabled-pull-request-tampering/)
 
 **Source:** Security Week  
 **Published:** Tue, 04 Aug 2026 10:54:30 +0000  
@@ -326,49 +361,13 @@
 
 ---
 
-### 36. [Decades-Old BMC Vulnerability Exposes Thousands of Data Centers to Attacks](https://www.securityweek.com/decades-old-bmc-vulnerability-exposes-thousands-of-data-centers-to-attacks/)
+### 40. [Decades-Old BMC Vulnerability Exposes Thousands of Data Centers to Attacks](https://www.securityweek.com/decades-old-bmc-vulnerability-exposes-thousands-of-data-centers-to-attacks/)
 
 **Source:** Security Week  
 **Published:** Tue, 04 Aug 2026 09:56:06 +0000  
 **Severity:** Critical  
 **CVEs:** CVE-2013-4786  
 **Categories:** Ransomware, Vulnerability  
-
----
-
-### 37. [150,000 Impacted by Madera Community Hospital Data Breach](https://www.securityweek.com/150000-impacted-by-madera-community-hospital-data-breach/)
-
-**Source:** Security Week  
-**Published:** Tue, 04 Aug 2026 08:33:45 +0000  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach, Supply Chain  
-
----
-
-### 38. [Microsoft Bug Bounty Program: $20 Million Paid to 500 Researchers](https://www.securityweek.com/microsoft-bug-bounty-program-20-million-paid-to-500-researchers/)
-
-**Source:** Security Week  
-**Published:** Tue, 04 Aug 2026 05:18:34 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, Supply Chain  
-
----
-
-### 39. [New York Awards $9 Million to Strengthen Cybersecurity at 153 Water Systems](https://www.securityweek.com/new-york-awards-9-million-to-strengthen-cybersecurity-at-153-water-systems/)
-
-**Source:** Security Week  
-**Published:** Tue, 04 Aug 2026 01:54:00 +0000  
-**Severity:** Critical  
-**Categories:** General Security  
-
----
-
-### 40. [Black Hat USA 2026 – Summary of Vendor Announcements (Part 1)](https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-1/)
-
-**Source:** Security Week  
-**Published:** Mon, 03 Aug 2026 15:50:00 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability  
 
 ---
 

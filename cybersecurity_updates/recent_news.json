@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens",
+    "link": "https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html",
+    "published": "Tue, 04 Aug 2026 22:57:39 +0530",
+    "summary": "The commercial phishing-as-a-service (PhaaS) toolkit known as Greatness has become the latest crimeware solution to add support for device code phishing, a rapidly growing cyber threat that abuses the legitimate OAuth 2.0 Device Authorization Grant to bypass Multi-Factor Authentication (MFA) and seize control of user accounts.\n\n\"Greatness supports AiTM [adversary-in-the-middle] credential and",
+    "analysis": {
+      "issue": "Greatness PhaaS adds device code phishing to bypass MFA and steal OAuth tokens alongside AiTM and consent abuse",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks",
     "link": "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html",
     "published": "Tue, 04 Aug 2026 19:00:23 +0530",
@@ -166,24 +184,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws",
-    "link": "https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html",
-    "published": "Mon, 03 Aug 2026 21:45:13 +0530",
-    "summary": "The INC Ransomware operation has emerged as the \"dominant threat actor\" exploiting the recently disclosed security flaws in SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances.\n\nIn a report published over the weekend, Resecurity said it observed the INC Ransomware accelerating its activity since the beginning of August 2026, listing multiple victims on its data leak site. Per",
+    "source": "Bleeping Computer",
+    "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
+    "link": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
+    "published": "Tue, 04 Aug 2026 11:24:35 -0400",
+    "summary": "Self-propagating malware named 'ChainDrop' has compromised more than 1,300 packages with a combined 2 billion monthly downloads on the Node Package Manager (npm) registry. [...]",
     "analysis": {
-      "issue": "INC Ransomware is suspected of chaining CVE-2026-15409 and CVE-2026-15410 to steal credentials, TOTP seeds, and reach internal networks",
+      "issue": "Self-propagating malware named 'ChainDrop' has compromised more than 1,300 packages with a combined 2 billion monthly downloads on the Node Package Manager (npm) registry",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-15409",
-        "CVE-2026-15410"
-      ],
+      "severity": "High",
+      "cves": [],
       "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
+        "Malware"
       ]
     }
   },
@@ -356,24 +370,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft",
-    "link": "https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/",
-    "published": "Sun, 02 Aug 2026 17:14:29 -0400",
-    "summary": "A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose seeds were generated using a flawed random number generator. [...]",
-    "analysis": {
-      "issue": "Researchers suspect that a vulnerability in COLDCARD hardware wallet firmware was exploited to steal an estimated $88",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Read This Before You Buy That TV Streaming Stick",
     "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
@@ -423,9 +419,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-56155",
-        "CVE-2026-56164",
         "CVE-2026-50661",
-        "CVE-2026-48561"
+        "CVE-2026-48561",
+        "CVE-2026-56164"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -559,13 +555,88 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50507",
+        "CVE-2026-49160",
         "CVE-2026-45586",
-        "CVE-2026-49160"
+        "CVE-2026-50507"
       ],
       "threat_categories": [
         "Vulnerability",
         "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Black Hat USA 2026 – Summary of Vendor Announcements (Part 2)",
+    "link": "https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-2/",
+    "published": "Tue, 04 Aug 2026 16:49:39 +0000",
+    "summary": "<p>Many companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas.</p>\n<p>The post <a href=\"https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-2/\">Black Hat USA 2026 – Summary of Vendor Announcements (Part 2)</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Many companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "APT",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Rethinking AI Security: Why CASB and DLP Need an Interaction-Aware Layer",
+    "link": "https://www.securityweek.com/rethinking-ai-security-why-casb-and-dlp-need-an-interaction-aware-layer/",
+    "published": "Tue, 04 Aug 2026 16:15:00 +0000",
+    "summary": "<p>Build your strategy around answering these questions to ensure employees use AI productively while keeping sensitive data, IP, and agent behavior within the boundaries set for safe AI use.</p>\n<p>The post <a href=\"https://www.securityweek.com/rethinking-ai-security-why-casb-and-dlp-need-an-interaction-aware-layer/\">Rethinking AI Security: Why CASB and DLP Need an Interaction-Aware Layer</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Build your strategy around answering these questions to ensure employees use AI productively while keeping sensitive data, IP, and agent behavior within the boundaries set for safe AI use",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Oligo Raises $60 Million for Runtime Security",
+    "link": "https://www.securityweek.com/oligo-raises-60-million-for-runtime-security/",
+    "published": "Tue, 04 Aug 2026 15:00:00 +0000",
+    "summary": "<p>The company will use the investment to accelerate product innovation and expand go-to-market operations.</p>\n<p>The post <a href=\"https://www.securityweek.com/oligo-raises-60-million-for-runtime-security/\">Oligo Raises $60 Million for Runtime Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The company will use the investment to accelerate product innovation and expand go-to-market operations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "CISO Conversations: Russ Kirby – Passion Is the Antidote to Burnout",
+    "link": "https://www.securityweek.com/ciso-conversation-russ-kirby-passion-is-the-antidote-to-burnout/",
+    "published": "Tue, 04 Aug 2026 14:30:00 +0000",
+    "summary": "<p>Russ Kirby, CISO at Ping Identity, shares how passion, courage, and “good enough” thinking shaped his path from HP to the C-suite—and what keeps him up at night.</p>\n<p>The post <a href=\"https://www.securityweek.com/ciso-conversation-russ-kirby-passion-is-the-antidote-to-burnout/\">CISO Conversations: Russ Kirby – Passion Is the Antidote to Burnout</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Russ Kirby, CISO at Ping Identity, shares how passion, courage, and “good enough” thinking shaped his path from HP to the C-suite—and what keeps him up at night",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -681,81 +752,6 @@
       ],
       "threat_categories": [
         "Ransomware",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "150,000 Impacted by Madera Community Hospital Data Breach",
-    "link": "https://www.securityweek.com/150000-impacted-by-madera-community-hospital-data-breach/",
-    "published": "Tue, 04 Aug 2026 08:33:45 +0000",
-    "summary": "<p>An extortion group stole personal, financial, and medical information from the hospital’s network.</p>\n<p>The post <a href=\"https://www.securityweek.com/150000-impacted-by-madera-community-hospital-data-breach/\">150,000 Impacted by Madera Community Hospital Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "An extortion group stole personal, financial, and medical information from the hospital’s network",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Microsoft Bug Bounty Program: $20 Million Paid to 500 Researchers",
-    "link": "https://www.securityweek.com/microsoft-bug-bounty-program-20-million-paid-to-500-researchers/",
-    "published": "Tue, 04 Aug 2026 05:18:34 +0000",
-    "summary": "<p>The biggest single reward paid out by Microsoft between July 1, 2025, and June 30, 2026, was $200,000.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-bug-bounty-program-20-million-paid-to-500-researchers/\">Microsoft Bug Bounty Program: $20 Million Paid to 500 Researchers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The biggest single reward paid out by Microsoft between July 1, 2025, and June 30, 2026, was $200,000",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "New York Awards $9 Million to Strengthen Cybersecurity at 153 Water Systems",
-    "link": "https://www.securityweek.com/new-york-awards-9-million-to-strengthen-cybersecurity-at-153-water-systems/",
-    "published": "Tue, 04 Aug 2026 01:54:00 +0000",
-    "summary": "<p>The grants will help local governments assess and improve cyber defenses amid a multistate campaign targeting water and wastewater infrastructure.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-york-awards-9-million-to-strengthen-cybersecurity-at-153-water-systems/\">New York Awards $9 Million to Strengthen Cybersecurity at 153 Water Systems</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The grants will help local governments assess and improve cyber defenses amid a multistate campaign targeting water and wastewater infrastructure",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Black Hat USA 2026 – Summary of Vendor Announcements (Part 1)",
-    "link": "https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-1/",
-    "published": "Mon, 03 Aug 2026 15:50:00 +0000",
-    "summary": "<p>Many companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas.</p>\n<p>The post <a href=\"https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-1/\">Black Hat USA 2026 – Summary of Vendor Announcements (Part 1)</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Many companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
         "Vulnerability"
       ]
     }
