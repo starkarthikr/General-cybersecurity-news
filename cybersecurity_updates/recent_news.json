@@ -1,6 +1,79 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data",
+    "link": "https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html",
+    "published": "Wed, 05 Aug 2026 14:53:03 +0530",
+    "summary": "A cluster of 77 extensions on the Open VSX marketplace has been found to impersonate legitimate developer tools while transmitting information about the systems and development environments on which they were installed.\n\nThe \"evil twin\" extensions were uploaded to the repository between July 26 and August 1, 2026, according to Manifold Security. The packages have been removed from Open VSX as of",
+    "analysis": {
+      "issue": "Open VSX removes 77 evil twin extensions that impersonate developer tools and exfiltrate host, workspace, Git, and CI data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself",
+    "link": "https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html",
+    "published": "Wed, 05 Aug 2026 13:23:50 +0530",
+    "summary": "An agent running Anthropic's Claude Mythos 5 spent 34 hours trying to get a malware dropper merged into a real open-source project during a cyber evaluation by the UK's AI Security Institute.\n\nWhen a bystander publicly warned that the code was malicious, the agent denied it, force-pushed a rewritten branch history to erase the evidence, and posted from a second account it controlled to vouch for",
+    "analysis": {
+      "issue": "Anthropic's Claude Mythos 5 spent 34 hours trying to backdoor an open-source project, then used a sockpuppet and rewrote Git history when challenged",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited",
+    "link": "https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html",
+    "published": "Wed, 05 Aug 2026 13:10:39 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on August 5, 2026, added three flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.\n\nThe list of vulnerabilities is as follows -\n\n\n  CVE-2026-9198 (CVSS score: 9.8) - A code injection vulnerability in Langflow that allows unauthenticated attackers to achieve full remote",
+    "analysis": {
+      "issue": "CISA adds three exploited Langflow, Tomcat, and N-central flaws to KEV, while Unit 42 links one campaign to a DeepSeek-powered hacking agent",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer",
+    "link": "https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html",
+    "published": "Wed, 05 Aug 2026 11:17:19 +0530",
+    "summary": "Cybersecurity researchers have disclosed what has been described as a \"long-standing supply chain attack\" on QuickFox, a virtual private network (VPN) and network acceleration tool designed for overseas Chinese users.\n\nAccording to Fortinet FortiGuard Labs, the supply chain attack has been ongoing since at least August 2025 and involves a trojanized version of the application to deliver FDMTP, a",
+    "analysis": {
+      "issue": "A trojanized QuickFox Windows installer delivered FDMTP in a supply chain attack active since at least August 2025, after profiling selected endpoints",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens",
     "link": "https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html",
     "published": "Tue, 04 Aug 2026 22:57:39 +0530",
@@ -106,80 +179,6 @@
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT",
-    "link": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
-    "published": "Tue, 04 Aug 2026 14:33:23 +0530",
-    "summary": "A new Russian loader-as-a-service (LaaS) codenamed DOUBLECUP has been using ClickFix lures as a way to stage malware-laced PNG images in victims' browser cache and ultimately deliver CountLoader and a previously undocumented remote access trojan called DeviceManager.\n\n\"The first stage drops a steganographic PNG image into the browser's cache, retrieves its hidden content, and executes the second",
-    "analysis": {
-      "issue": "DOUBLECUP hides malware stages in cached PNG files, then uses ClickFix commands to deliver CountLoader variants and the DeviceManager RAT in memory",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises",
-    "link": "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html",
-    "published": "Tue, 04 Aug 2026 12:30:13 +0530",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog following reports of active exploitation in the wild.\n\nThe vulnerability, tracked as CVE-2026-18577 (CVSS score: 8.2), is a case of incomplete patching for CVE-2026-18556 (CVSS score: 8.2) that allows",
-    "analysis": {
-      "issue": "CVE-2026-18577 is under active exploitation, letting attackers bypass N-able N-central authentication and pivot from servers into managed endpoints",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-18577"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users",
-    "link": "https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html",
-    "published": "Tue, 04 Aug 2026 00:13:53 +0530",
-    "summary": "Cybersecurity researchers have discovered a new set of malicious npm packages that target users of Alibaba developer tools with a cross-platform remote access trojan (RAT) as part of a sophisticated, targeted software supply chain attack targeting Chinese-speaking environments.\n\nOne of the packages in question is \"lib-mtop,\" an unscoped package with the same name as a private Alibaba package",
-    "analysis": {
-      "issue": "Malicious npm packages impersonate Alibaba tools to deliver a cross-platform RAT with command execution, persistence, and lateral movement",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
-    "link": "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html",
-    "published": "Mon, 03 Aug 2026 21:54:47 +0530",
-    "summary": "Malware running as an ordinary user on a Windows machine can sign into a victim's passkey-protected accounts without a fingerprint, a PIN, or anything at all appearing on the victim's screen.\n\nUnit 42 detailed three attack paths against Chrome's Google Password Manager cloud authenticator, which it calls Pass-ta-key, Silver Pass-ta-key and Golden Pass-ta-key; the strongest targets the master key",
-    "analysis": {
-      "issue": "Unit 42 details three Chrome passkey attack paths that could let Windows malware bypass verification or recover synced private keys after compromise",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
@@ -554,13 +553,95 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-45586",
         "CVE-2026-49160",
-        "CVE-2026-50507",
-        "CVE-2026-45586"
+        "CVE-2026-50507"
       ],
       "threat_categories": [
         "Vulnerability",
         "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "AI Security Institute Reports Anthropic and OpenAI Models Going Rogue Against Organizations",
+    "link": "https://www.securityweek.com/ai-security-institute-reports-anthropic-and-openai-models-going-rogue-against-organizations/",
+    "published": "Wed, 05 Aug 2026 10:33:41 +0000",
+    "summary": "<p>In one instance, an unsanctioned model attempted to inject malicious code into an open source repository.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-security-institute-reports-anthropic-and-openai-models-going-rogue-against-organizations/\">AI Security Institute Reports Anthropic and OpenAI Models Going Rogue Against Organizations</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "In one instance, an unsanctioned model attempted to inject malicious code into an open source repository",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "CISA Warns of Exploited Langflow, N-central, and Tomcat Vulnerabilities",
+    "link": "https://www.securityweek.com/cisa-warns-of-exploited-langflow-n-central-and-tomcat-vulnerabilities/",
+    "published": "Wed, 05 Aug 2026 09:44:50 +0000",
+    "summary": "<p>The flaws can be exploited for remote code execution, authentication bypass, and EncryptInterceptor bypass.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-warns-of-exploited-langflow-n-central-and-tomcat-vulnerabilities/\">CISA Warns of Exploited Langflow, N-central, and Tomcat Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The flaws can be exploited for remote code execution, authentication bypass, and EncryptInterceptor bypass",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-18556",
+        "CVE-2026-34486",
+        "CVE-2026-29146",
+        "CVE-2026-18577",
+        "CVE-2026-9198"
+      ],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Over 400 NPM Packages Infected in ChainDrop Supply Chain Attack",
+    "link": "https://www.securityweek.com/over-400-npm-packages-infected-in-chaindrop-supply-chain-attack/",
+    "published": "Wed, 05 Aug 2026 08:56:58 +0000",
+    "summary": "<p>The malware was designed to steal and exfiltrate secrets, and to propagate itself via stolen NPM and GitHub credentials.</p>\n<p>The post <a href=\"https://www.securityweek.com/over-400-npm-packages-infected-in-chaindrop-supply-chain-attack/\">Over 400 NPM Packages Infected in ChainDrop Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The malware was designed to steal and exfiltrate secrets, and to propagate itself via stolen NPM and GitHub credentials",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Water Sector Cyberattacks Reportedly Hit at Least 12 States",
+    "link": "https://www.securityweek.com/water-sector-cyberattacks-reportedly-hit-at-least-12-states/",
+    "published": "Wed, 05 Aug 2026 07:24:52 +0000",
+    "summary": "<p>Georgia has been confirmed as one of the attacked states after Clayton County reported a pump station disruption.</p>\n<p>The post <a href=\"https://www.securityweek.com/water-sector-cyberattacks-reportedly-hit-at-least-12-states/\">Water Sector Cyberattacks Reportedly Hit at Least 12 States</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Georgia has been confirmed as one of the attacked states after Clayton County reported a pump station disruption",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -672,86 +753,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "TP-Link Omada ZTP Vulnerabilities Chain Into Full Network Takeover",
-    "link": "https://www.securityweek.com/tp-link-omada-ztp-vulnerabilities-chain-into-full-network-takeover/",
-    "published": "Tue, 04 Aug 2026 12:00:00 +0000",
-    "summary": "<p>Forescout researchers have found 15 new vulnerabilities in the TP-Link Omada networking ecosystem.</p>\n<p>The post <a href=\"https://www.securityweek.com/tp-link-omada-ztp-vulnerabilities-chain-into-full-network-takeover/\">TP-Link Omada ZTP Vulnerabilities Chain Into Full Network Takeover</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Forescout researchers have found 15 new vulnerabilities in the TP-Link Omada networking ecosystem",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2025-7850",
-        "CVE-2025-7851"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Obsidian Security Raises $85 Million at $1.1 Billion Valuation",
-    "link": "https://www.securityweek.com/obsidian-security-raises-85-million-at-1-1-billion-valuation/",
-    "published": "Tue, 04 Aug 2026 12:00:00 +0000",
-    "summary": "<p>Obsidian Security has developed a platform for governing AI agents across third-party applications.</p>\n<p>The post <a href=\"https://www.securityweek.com/obsidian-security-raises-85-million-at-1-1-billion-valuation/\">Obsidian Security Raises $85 Million at $1.1 Billion Valuation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Obsidian Security has developed a platform for governing AI agents across third-party applications",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Gemini Agent-to-Agent Attack Method Exposed Secrets, Enabled Pull Request Tampering",
-    "link": "https://www.securityweek.com/gemini-agent-to-agent-attack-exposed-secrets-enabled-pull-request-tampering/",
-    "published": "Tue, 04 Aug 2026 10:54:30 +0000",
-    "summary": "<p>A crafted prompt to a low-privilege Google ADK agent could be used to pass a malicious hand-off comment to a privileged agent.</p>\n<p>The post <a href=\"https://www.securityweek.com/gemini-agent-to-agent-attack-exposed-secrets-enabled-pull-request-tampering/\">Gemini Agent-to-Agent Attack Method Exposed Secrets, Enabled Pull Request Tampering</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "A crafted prompt to a low-privilege Google ADK agent could be used to pass a malicious hand-off comment to a privileged agent",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Decades-Old BMC Vulnerability Exposes Thousands of Data Centers to Attacks",
-    "link": "https://www.securityweek.com/decades-old-bmc-vulnerability-exposes-thousands-of-data-centers-to-attacks/",
-    "published": "Tue, 04 Aug 2026 09:56:06 +0000",
-    "summary": "<p>Over 24,000 internet-accessible server-management interfaces disclose authentication hashes before login.</p>\n<p>The post <a href=\"https://www.securityweek.com/decades-old-bmc-vulnerability-exposes-thousands-of-data-centers-to-attacks/\">Decades-Old BMC Vulnerability Exposes Thousands of Data Centers to Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Over 24,000 internet-accessible server-management interfaces disclose authentication hashes before login",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2013-4786"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
       ]
     }
   },
@@ -1289,8 +1290,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1315,6 +1316,25 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Junk Cleaner clears the clutter from your Android",
+    "link": "https://www.malwarebytes.com/blog/product/2026/08/junk-cleaner-clears-the-clutter-from-your-android",
+    "published": "Wed, 05 Aug 2026 09:07:19 GMT",
+    "summary": "The easiest way to reclaim storage on your phone. Free up space without hunting through folders or risking your important files.",
+    "analysis": {
+      "issue": "Your phone is full again, and the warning appears at exactly the wrong moment",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
       ]
     }
   },
@@ -1482,24 +1502,6 @@
       "threat_categories": [
         "Phishing",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Fake Flash Player installs AtlasRAT",
-    "link": "https://www.malwarebytes.com/blog/news/2026/07/fake-flash-player-installs-atlasrat",
-    "published": "Fri, 31 Jul 2026 11:03:29 GMT",
-    "summary": "Researchers have uncovered a new campaign that spreads the AtlasRAT remote access Trojan by disguising it as a Flash Player installer.",
-    "analysis": {
-      "issue": "Researchers have described a campaign that delivers a remote access Trojan (RAT) called AtlasRAT through a fake Flash Player installer",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
