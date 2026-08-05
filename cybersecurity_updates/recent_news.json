@@ -185,6 +185,97 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "OpenAI, Anthropic AI agents targeted real people and systems in cyber tests",
+    "link": "https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/",
+    "published": "Tue, 04 Aug 2026 19:39:59 -0400",
+    "summary": "OpenAI and Anthropic have confirmed that their AI models were involved in separate, newly disclosed third-party cybersecurity testing incidents that resulted in a real website being breached and social engineering attacks against people outside the intended testing boundaries. [...]",
+    "analysis": {
+      "issue": "OpenAI and Anthropic have confirmed that their AI models were involved in separate, newly disclosed third-party cybersecurity testing incidents that resulted in a real website being breached and social engineering attacks against people outside the i",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "TP-Link patches Omada ZTP flaws allowing hackers to breach networks",
+    "link": "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/",
+    "published": "Tue, 04 Aug 2026 18:18:20 -0400",
+    "summary": "TP-Link has patched 15 vulnerabilities in the zero-touch provisioning (ZTP) mechanism of its Omada network devices that could be chained with previously disclosed flaws to achieve remote code execution (RCE). [...]",
+    "analysis": {
+      "issue": "TP-Link has patched 15 vulnerabilities in the zero-touch provisioning (ZTP) mechanism of its Omada network devices that could be chained with previously disclosed flaws to achieve remote code execution (RCE)",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Medium",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Phishing service spoofs RingCentral to steal Microsoft 365 accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/",
+    "published": "Tue, 04 Aug 2026 17:45:36 -0400",
+    "summary": "The Greatness phishing-as-a-service (PhaaS) platform has expanded from credential phishing to adversary-in-the-middle attacks and device-code phishing targeting Microsoft 365 accounts. [...]",
+    "analysis": {
+      "issue": "The Greatness phishing-as-a-service (PhaaS) platform has expanded from credential phishing to adversary-in-the-middle attacks and device-code phishing targeting Microsoft 365 accounts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
+    "link": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
+    "published": "Tue, 04 Aug 2026 15:03:09 -0400",
+    "summary": "A new version of the XCSSET malware is targeting thousands of macOS users through compromised Xcode projects and GitHub repositories. [...]",
+    "analysis": {
+      "issue": "A new version of the XCSSET malware is targeting thousands of macOS users through compromised Xcode projects and GitHub repositories",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "77 Open VSX extensions found harvesting developer info",
+    "link": "https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/",
+    "published": "Tue, 04 Aug 2026 14:50:55 -0400",
+    "summary": "77 extensions on the Open VSX marketplace impersonated legitimate developer tools while transmitting information about the systems and development environments where they were installed. [...]",
+    "analysis": {
+      "issue": "77 extensions on the Open VSX marketplace impersonated legitimate developer tools while transmitting information about the systems and development environments where they were installed",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
     "link": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
     "published": "Tue, 04 Aug 2026 11:24:35 -0400",
@@ -278,98 +369,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Fake Roblox Xeno script launcher pushes infostealer, RAT malware",
-    "link": "https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/",
-    "published": "Mon, 03 Aug 2026 15:25:10 -0400",
-    "summary": "Fake Xeno Executor installers are infecting unsuspecting Roblox players with malware that provides remote access and steals sensitive information. [...]",
-    "analysis": {
-      "issue": "Fake Xeno Executor installers are infecting unsuspecting Roblox players with malware that provides remote access and steals sensitive information",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "N-able warns of N-central auth bypass flaw exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/",
-    "published": "Mon, 03 Aug 2026 13:00:56 -0400",
-    "summary": "N-able is warning customers that hackers are exploiting an authentication bypass vulnerability (CVE-2026-18577) affecting both hosted and on-premises N-central servers. [...]",
-    "analysis": {
-      "issue": "N-able is warning customers that hackers are exploiting an authentication bypass vulnerability (CVE-2026-18577) affecting both hosted and on-premises N-central servers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-18577"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "ExfilSquad hackers leak info of over 100,000 UK police officers, staff",
-    "link": "https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/",
-    "published": "Mon, 03 Aug 2026 11:04:39 -0400",
-    "summary": "A cyberattack on the U.K.'s Police National Legal Database (PNLD) has compromised contact data of more than 100,000 police officers and other criminal justice professionals. [...]",
-    "analysis": {
-      "issue": "'s Police National Legal Database (PNLD) has compromised contact data of more than 100,000 police officers and other criminal justice professionals",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Inside the Underground Business of the Android BTMOB RAT malware",
-    "link": "https://www.bleepingcomputer.com/news/security/inside-the-underground-business-of-btmob-rat/",
-    "published": "Mon, 03 Aug 2026 10:45:55 -0400",
-    "summary": "Flare researchers analyzed thousands of underground posts to examine how the BTMOB Android malware operation evolved into a fragmented ecosystem of resellers, source-code vendors, custom versions, and competing sales channels. [...]",
-    "analysis": {
-      "issue": "The Android RAT’s official operation is surrounded by cheaper resellers, alleged source-code vendors, independent server owners, and possible impersonators",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/",
-    "published": "Sun, 02 Aug 2026 18:31:41 -0400",
-    "summary": "OpenAI has revealed Astra, an unreleased model designed to tackle complex, long-running tasks, after an internal version produced ten significant advances in mathematics and theoretical computer science. [...]",
-    "analysis": {
-      "issue": "OpenAI has revealed Astra, an unreleased model designed to tackle complex, long-running tasks, after an internal version produced ten significant advances in mathematics and theoretical computer science",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Read This Before You Buy That TV Streaming Stick",
     "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
@@ -418,10 +417,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56155",
+        "CVE-2026-56164",
         "CVE-2026-50661",
         "CVE-2026-48561",
-        "CVE-2026-56164"
+        "CVE-2026-56155"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -555,9 +554,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-49160",
         "CVE-2026-45586",
-        "CVE-2026-50507"
+        "CVE-2026-50507",
+        "CVE-2026-49160"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -689,8 +688,8 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2025-7851",
-        "CVE-2025-7850"
+        "CVE-2025-7850",
+        "CVE-2025-7851"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1290,8 +1289,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1316,6 +1315,26 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Apple battles it out again with the UK over encrypted iCloud access",
+    "link": "https://www.malwarebytes.com/blog/news/2026/08/apple-battles-it-out-again-with-uk-over-encrypted-icloud-access",
+    "published": "Tue, 04 Aug 2026 20:30:13 GMT",
+    "summary": "Apple is fighting another attempt by the UK's Home Office to get a backdoor providing access to encrypted iCloud data.",
+    "analysis": {
+      "issue": "The UK Home Office has once again demanded Apple allows it access to encrypted iCloud data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability",
+        "Malware"
       ]
     }
   },
@@ -1485,20 +1504,20 @@
     }
   },
   {
-    "source": "Malwarebytes",
-    "title": "Malwarebytes for Windows, now available on the Microsoft Store",
-    "link": "https://www.malwarebytes.com/blog/product/2026/07/malwarebytes-for-windows-now-available-on-the-microsoft-store",
-    "published": "Thu, 30 Jul 2026 16:01:11 GMT",
-    "summary": "Install Malwarebytes for Windows from the Microsoft Store with the same full protection and features.",
+    "source": "Crowdstrike Blog",
+    "title": "Secure Agent Harness Execution: Preventing Escape",
+    "link": "https://www.crowdstrike.com/en-us/blog/secure-agent-harness-execution-preventing-escape/",
+    "published": "Aug 04, 2026 00:00:00-0500",
+    "summary": "",
     "analysis": {
-      "issue": "When you’re setting up a new PC or looking for an app you already know, the Microsoft Store is often the easiest place to start",
+      "issue": "CrowdStrike uses a defense-in-depth architecture, consisting of seven independent control layers, to prevent autonomous AI agents from taking unintended actions",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "General Security"
       ]
     }
   },
@@ -1661,24 +1680,6 @@
       "cves": [],
       "threat_categories": [
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "Beyond the Model: Harnessing Frontier AI for Stronger Cyber Defense",
-    "link": "https://www.crowdstrike.com/en-us/blog/harnessing-frontier-ai-for-stronger-defense/",
-    "published": "Jul 20, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "When CrowdStrike tested frontier AI in vulnerability research, we learned the greatest differentiator wasn’t the model used, but the harness around it",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   }

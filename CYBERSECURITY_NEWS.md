@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-04 18:11:05 UTC
+**Last Updated:** 2026-08-05 02:54:59 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -96,7 +96,52 @@
 
 ---
 
-### 11. [Massive ChainDrop npm supply-chain attack infects hundreds of packages](https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/)
+### 11. [OpenAI, Anthropic AI agents targeted real people and systems in cyber tests](https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 04 Aug 2026 19:39:59 -0400  
+**Severity:** Low  
+**Categories:** Supply Chain  
+
+---
+
+### 12. [TP-Link patches Omada ZTP flaws allowing hackers to breach networks](https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 04 Aug 2026 18:18:20 -0400  
+**Severity:** Medium  
+**Categories:** General Security  
+
+---
+
+### 13. [Phishing service spoofs RingCentral to steal Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 04 Aug 2026 17:45:36 -0400  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 14. [New XCSSET variant targets macOS devs via compromised Xcode projects](https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 04 Aug 2026 15:03:09 -0400  
+**Severity:** Critical  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 15. [77 Open VSX extensions found harvesting developer info](https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 04 Aug 2026 14:50:55 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 16. [Massive ChainDrop npm supply-chain attack infects hundreds of packages](https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 04 Aug 2026 11:24:35 -0400  
@@ -105,7 +150,7 @@
 
 ---
 
-### 12. [Varonis Agent IBAC keeps AI agents within their intended boundaries](https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/)
+### 17. [Varonis Agent IBAC keeps AI agents within their intended boundaries](https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 04 Aug 2026 10:00:10 -0400  
@@ -114,7 +159,7 @@
 
 ---
 
-### 13. [Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/)
+### 18. [Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 03 Aug 2026 20:17:15 -0400  
@@ -123,7 +168,7 @@
 
 ---
 
-### 14. [New Pass-ta-key attacks let malware hijack Google-synced passkeys](https://www.bleepingcomputer.com/news/security/new-pass-ta-key-attacks-let-malware-hijack-google-synced-passkeys/)
+### 19. [New Pass-ta-key attacks let malware hijack Google-synced passkeys](https://www.bleepingcomputer.com/news/security/new-pass-ta-key-attacks-let-malware-hijack-google-synced-passkeys/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 03 Aug 2026 19:58:01 -0400  
@@ -132,58 +177,12 @@
 
 ---
 
-### 15. [New DOUBLECUP ClickFix service hides malware in browser cache images](https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/)
+### 20. [New DOUBLECUP ClickFix service hides malware in browser cache images](https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 03 Aug 2026 16:01:22 -0400  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 16. [Fake Roblox Xeno script launcher pushes infostealer, RAT malware](https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 03 Aug 2026 15:25:10 -0400  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 17. [N-able warns of N-central auth bypass flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 03 Aug 2026 13:00:56 -0400  
-**Severity:** Low  
-**CVEs:** CVE-2026-18577  
-**Categories:** Vulnerability  
-
----
-
-### 18. [ExfilSquad hackers leak info of over 100,000 UK police officers, staff](https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 03 Aug 2026 11:04:39 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 19. [Inside the Underground Business of the Android BTMOB RAT malware](https://www.bleepingcomputer.com/news/security/inside-the-underground-business-of-btmob-rat/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 03 Aug 2026 10:45:55 -0400  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 20. [OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/)
-
-**Source:** Bleeping Computer  
-**Published:** Sun, 02 Aug 2026 18:31:41 -0400  
-**Severity:** High  
-**Categories:** General Security  
 
 ---
 
@@ -210,7 +209,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56155, CVE-2026-50661, CVE-2026-48561, CVE-2026-56164  
+**CVEs:** CVE-2026-56164, CVE-2026-50661, CVE-2026-48561, CVE-2026-56155  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -274,7 +273,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-49160, CVE-2026-45586, CVE-2026-50507  
+**CVEs:** CVE-2026-45586, CVE-2026-50507, CVE-2026-49160  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -338,7 +337,7 @@
 **Source:** Security Week  
 **Published:** Tue, 04 Aug 2026 12:00:00 +0000  
 **Severity:** High  
-**CVEs:** CVE-2025-7851, CVE-2025-7850  
+**CVEs:** CVE-2025-7850, CVE-2025-7851  
 **Categories:** Vulnerability  
 
 ---
@@ -631,7 +630,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -646,7 +645,16 @@
 
 ---
 
-### 71. [Travelers targeted when logging into hotel Wi-Fi networks](https://www.malwarebytes.com/blog/news/2026/08/travelers-targeted-when-logging-into-hotel-wi-fi-networks)
+### 71. [Apple battles it out again with the UK over encrypted iCloud access](https://www.malwarebytes.com/blog/news/2026/08/apple-battles-it-out-again-with-uk-over-encrypted-icloud-access)
+
+**Source:** Malwarebytes  
+**Published:** Tue, 04 Aug 2026 20:30:13 GMT  
+**Severity:** Low  
+**Categories:** Data Breach, Vulnerability, Malware  
+
+---
+
+### 72. [Travelers targeted when logging into hotel Wi-Fi networks](https://www.malwarebytes.com/blog/news/2026/08/travelers-targeted-when-logging-into-hotel-wi-fi-networks)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 04 Aug 2026 12:05:16 GMT  
@@ -655,7 +663,7 @@
 
 ---
 
-### 72. [Online backlash ends in Google rolling back Google Earth AI tool after a day](https://www.malwarebytes.com/blog/news/2026/08/online-backlash-ends-in-google-rolling-back-google-earth-ai-tool-after-a-day)
+### 73. [Online backlash ends in Google rolling back Google Earth AI tool after a day](https://www.malwarebytes.com/blog/news/2026/08/online-backlash-ends-in-google-rolling-back-google-earth-ai-tool-after-a-day)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 04 Aug 2026 11:35:19 GMT  
@@ -664,7 +672,7 @@
 
 ---
 
-### 73. [WhatsApp account takeover scam asks you to &#8220;vote for my friend&#8221;](https://www.malwarebytes.com/blog/scams/2026/08/whatsapp-account-takeover-scam-asks-you-to-vote-for-my-friend)
+### 74. [WhatsApp account takeover scam asks you to &#8220;vote for my friend&#8221;](https://www.malwarebytes.com/blog/scams/2026/08/whatsapp-account-takeover-scam-asks-you-to-vote-for-my-friend)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 04 Aug 2026 06:22:48 GMT  
@@ -673,7 +681,7 @@
 
 ---
 
-### 74. [&#8220;Adult TikTok&#8221; searches lead to scams](https://www.malwarebytes.com/blog/scams/2026/08/adult-tiktok-searches-lead-to-scams)
+### 75. [&#8220;Adult TikTok&#8221; searches lead to scams](https://www.malwarebytes.com/blog/scams/2026/08/adult-tiktok-searches-lead-to-scams)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 03 Aug 2026 21:35:18 GMT  
@@ -682,7 +690,7 @@
 
 ---
 
-### 75. [The AI Act kicks into action, forces companies to be clear about AI chatbots](https://www.malwarebytes.com/blog/news/2026/08/the-ai-act-kicks-into-action-forces-companies-to-be-clear-about-ai-bots)
+### 76. [The AI Act kicks into action, forces companies to be clear about AI chatbots](https://www.malwarebytes.com/blog/news/2026/08/the-ai-act-kicks-into-action-forces-companies-to-be-clear-about-ai-bots)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 03 Aug 2026 21:08:29 GMT  
@@ -691,7 +699,7 @@
 
 ---
 
-### 76. [Californians can tell data brokers to DROP their information](https://www.malwarebytes.com/blog/news/2026/08/californians-can-tell-data-brokers-to-drop-their-information)
+### 77. [Californians can tell data brokers to DROP their information](https://www.malwarebytes.com/blog/news/2026/08/californians-can-tell-data-brokers-to-drop-their-information)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 03 Aug 2026 20:50:32 GMT  
@@ -700,7 +708,7 @@
 
 ---
 
-### 77. [A week in security (July 27 &#8211; August 2)](https://www.malwarebytes.com/blog/news/2026/08/a-week-in-security-july-27-august-2)
+### 78. [A week in security (July 27 &#8211; August 2)](https://www.malwarebytes.com/blog/news/2026/08/a-week-in-security-july-27-august-2)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 03 Aug 2026 07:01:00 GMT  
@@ -709,7 +717,7 @@
 
 ---
 
-### 78. [Fake Fortnite rewards are stealing players&#8217; accounts](https://www.malwarebytes.com/blog/scams/2026/07/fake-fortnite-rewards-are-stealing-players-accounts)
+### 79. [Fake Fortnite rewards are stealing players&#8217; accounts](https://www.malwarebytes.com/blog/scams/2026/07/fake-fortnite-rewards-are-stealing-players-accounts)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 31 Jul 2026 16:16:58 GMT  
@@ -718,7 +726,7 @@
 
 ---
 
-### 79. [Fake Flash Player installs AtlasRAT](https://www.malwarebytes.com/blog/news/2026/07/fake-flash-player-installs-atlasrat)
+### 80. [Fake Flash Player installs AtlasRAT](https://www.malwarebytes.com/blog/news/2026/07/fake-flash-player-installs-atlasrat)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 31 Jul 2026 11:03:29 GMT  
@@ -727,16 +735,16 @@
 
 ---
 
-### 80. [Malwarebytes for Windows, now available on the Microsoft Store](https://www.malwarebytes.com/blog/product/2026/07/malwarebytes-for-windows-now-available-on-the-microsoft-store)
+### 81. [Secure Agent Harness Execution: Preventing Escape](https://www.crowdstrike.com/en-us/blog/secure-agent-harness-execution-preventing-escape/)
 
-**Source:** Malwarebytes  
-**Published:** Thu, 30 Jul 2026 16:01:11 GMT  
+**Source:** Crowdstrike Blog  
+**Published:** Aug 04, 2026 00:00:00-0500  
 **Severity:** Low  
-**Categories:** Malware  
+**Categories:** General Security  
 
 ---
 
-### 81. [CrowdStrike 2026 Threat Hunting Report: Exploitation Window Closes as AI Use Accelerates](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-threat-hunting-report/)
+### 82. [CrowdStrike 2026 Threat Hunting Report: Exploitation Window Closes as AI Use Accelerates](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-threat-hunting-report/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Aug 03, 2026 00:00:00-0500  
@@ -745,7 +753,7 @@
 
 ---
 
-### 82. [Falcon AIDR Now Protects Copilot Studio Agents and Claude Code](https://www.crowdstrike.com/en-us/blog/falcon-aidr-protects-copilot-studio-agents-and-claude-code/)
+### 83. [Falcon AIDR Now Protects Copilot Studio Agents and Claude Code](https://www.crowdstrike.com/en-us/blog/falcon-aidr-protects-copilot-studio-agents-and-claude-code/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 30, 2026 00:00:00-0500  
@@ -754,7 +762,7 @@
 
 ---
 
-### 83. [Inside Astaroth's New Spambot Component](https://www.crowdstrike.com/en-us/blog/inside-astaroths-new-spambot-component/)
+### 84. [Inside Astaroth's New Spambot Component](https://www.crowdstrike.com/en-us/blog/inside-astaroths-new-spambot-component/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 29, 2026 00:00:00-0500  
@@ -763,7 +771,7 @@
 
 ---
 
-### 84. [Falcon Cloud Security July 2026 Release: Helping Security Teams Move Faster in the Cloud](https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-helping-security-teams-move-faster/)
+### 85. [Falcon Cloud Security July 2026 Release: Helping Security Teams Move Faster in the Cloud](https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-helping-security-teams-move-faster/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 29, 2026 00:00:00-0500  
@@ -772,7 +780,7 @@
 
 ---
 
-### 85. [Falcon Platform IOAs Arrive in Falcon Next-Gen SIEM to Identify New Threats](https://www.crowdstrike.com/en-us/blog/falcon-platform-ioas-arrive-in-falcon-next-gen-siem/)
+### 86. [Falcon Platform IOAs Arrive in Falcon Next-Gen SIEM to Identify New Threats](https://www.crowdstrike.com/en-us/blog/falcon-platform-ioas-arrive-in-falcon-next-gen-siem/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 29, 2026 00:00:00-0500  
@@ -781,7 +789,7 @@
 
 ---
 
-### 86. [5 High-Impact Use Cases for Falcon Onum](https://www.crowdstrike.com/en-us/blog/five-high-impact-use-cases-for-falcon-onum/)
+### 87. [5 High-Impact Use Cases for Falcon Onum](https://www.crowdstrike.com/en-us/blog/five-high-impact-use-cases-for-falcon-onum/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 27, 2026 00:00:00-0500  
@@ -790,7 +798,7 @@
 
 ---
 
-### 87. [CrowdStrike Joins the Open Secure AI Alliance to Advance AI Safety and Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-joins-the-open-secure-ai-alliance/)
+### 88. [CrowdStrike Joins the Open Secure AI Alliance to Advance AI Safety and Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-joins-the-open-secure-ai-alliance/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 27, 2026 00:00:00-0400  
@@ -799,7 +807,7 @@
 
 ---
 
-### 88. [CrowdStrike Falcon Platform Helps Meet U.S. Government Mandates for CISA BOD-26-04](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-helps-meet-us-government-mandates-cisa-bod-26-04/)
+### 89. [CrowdStrike Falcon Platform Helps Meet U.S. Government Mandates for CISA BOD-26-04](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-helps-meet-us-government-mandates-cisa-bod-26-04/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 22, 2026 00:00:00-0500  
@@ -808,21 +816,12 @@
 
 ---
 
-### 89. [Denying the Worm: Detecting SANDWORM_MODE and the Emerging Class of AI Toolchain Supply Chain Attacks](https://www.crowdstrike.com/en-us/blog/denying-the-worm-sandworm-mode-and-ai-toolchain-supply-chain-attacks/)
+### 90. [Denying the Worm: Detecting SANDWORM_MODE and the Emerging Class of AI Toolchain Supply Chain Attacks](https://www.crowdstrike.com/en-us/blog/denying-the-worm-sandworm-mode-and-ai-toolchain-supply-chain-attacks/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 21, 2026 00:00:00-0500  
 **Severity:** Low  
 **Categories:** Supply Chain  
-
----
-
-### 90. [Beyond the Model: Harnessing Frontier AI for Stronger Cyber Defense](https://www.crowdstrike.com/en-us/blog/harnessing-frontier-ai-for-stronger-defense/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Jul 20, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** Vulnerability  
 
 ---
 
