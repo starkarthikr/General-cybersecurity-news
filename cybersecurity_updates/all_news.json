@@ -1,6 +1,83 @@
 [
   {
     "source": "The Hacker News",
+    "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
+    "link": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html",
+    "published": "Wed, 05 Aug 2026 17:13:27 +0530",
+    "summary": "A memory corruption flaw in the Linux kernel's Open vSwitch datapath gives ordinary local users a path to root on a broad set of default-configured distributions, and a public exploit ships with pre-built records for roughly 800 kernel builds.\n\nThe vulnerability, tracked as CVE-2026-64531 (CVSS score: 7.8) and codenamed OVSwrap by its discoverer, was disclosed by security researcher Asim",
+    "analysis": {
+      "issue": "CVE-2026-64531 lets local users exploit Open vSwitch kernel memory corruption to gain root, with a public PoC covering roughly 800 builds",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-64531"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk",
+    "link": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html",
+    "published": "Wed, 05 Aug 2026 17:13:19 +0530",
+    "summary": "Kali365 is turning a legitimate Microsoft login into a gateway to corporate data.\n\nThe phishing kit targets US organizations with attacker-controlled device codes that victims approve on Microsoft's real authentication page. Once access and refresh tokens are issued, attackers may retain access to email, documents, and cloud resources, creating a direct path to data exposure, financial fraud,",
+    "analysis": {
+      "issue": "Kali365 targets US organizations with attacker-controlled device codes, potentially exposing Microsoft 365 email, files, and cloud resources",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
+    "link": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html",
+    "published": "Wed, 05 Aug 2026 16:34:23 +0530",
+    "summary": "An unauthenticated attacker can read any file the service account can access on Gitea, the self-hosted Git platform, in versions 1.22.1 through 1.27.0. No login, no repository write access. A public repository and crafted Org-mode markup are enough. The flaw is fixed in Gitea 1.27.1.\n\nThe file-read flaw is tracked as CVE-2026-59774, rated Critical with a CVSS score of 9.8, and received its",
+    "analysis": {
+      "issue": "Gitea fixes CVE-2026-59774, a 9",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-59774"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Leaked n8n API Tokens Exposed Live Instances to Credential Theft",
+    "link": "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html",
+    "published": "Wed, 05 Aug 2026 16:05:29 +0530",
+    "summary": "GitGuardian researchers found 321 n8n instances accepting API tokens exposed in public GitHub commits and demonstrated four ways attackers could use them to access sensitive data and downstream credentials without exploiting a software vulnerability.\n\nWe scanned public GitHub commits for exposed n8n API tokens and identified 4,576 unique credentials associated with 1,255 hostnames. Of the 896",
+    "analysis": {
+      "issue": "GitGuardian found 321 n8n instances accepting leaked GitHub tokens that could expose workflows, data, and downstream credentials without a CVE",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data",
     "link": "https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html",
     "published": "Wed, 05 Aug 2026 14:53:03 +0530",
@@ -109,76 +186,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access",
-    "link": "https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html",
-    "published": "Tue, 04 Aug 2026 18:41:22 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of an active, multi-wave campaign that employs social engineering lures themed around Adobe and Zoom software updates, business document reviews, and system maintenance utilities to stealthily deploy Remote Monitoring and Management (RMM) programs like ConnectWise ScreenConnect.\n\nThe campaign has been codenamed SMOKE#SCREEN by Securonix Threat",
+    "source": "Bleeping Computer",
+    "title": "How AI-powered phishing killed blocklists for good",
+    "link": "https://www.bleepingcomputer.com/news/security/how-ai-powered-phishing-killed-blocklists-for-good/",
+    "published": "Wed, 05 Aug 2026 10:01:11 -0400",
+    "summary": "AI is helping attackers create disposable phishing infrastructure and rapidly evolving toolkits that blocklists cannot track fast enough. Push Security explains why browser-level, technique-based detection offers a more durable defense than relying on domains, signatures, and other known-bad indicators. [...]",
     "analysis": {
-      "issue": "SMOKE#SCREEN uses fake Adobe and Zoom updates, document lures, and trusted cloud services to install ScreenConnect for persistent remote access",
+      "issue": "Blocklists were already losing ground before AI entered the picture",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted",
-    "link": "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html",
-    "published": "Tue, 04 Aug 2026 17:00:00 +0530",
-    "summary": "The cybersecurity industry has spent decades assuming that offensive capability scales with technical expertise.\n\nThat assumption is starting to break.\n\nSecurity teams have long estimated risk by ranking attacker sophistication. Nation-state actors sat at one end. Organized criminal groups followed. Inexperienced attackers, dismissed as \"script kiddies,\" sat at the other end, running public",
-    "analysis": {
-      "issue": "AI-powered attackers are lowering the skill barrier for cyberattacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent",
-    "link": "https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html",
-    "published": "Tue, 04 Aug 2026 16:46:23 +0530",
-    "summary": "Google deleted three AI agent workflows from its Agent Development Kit (ADK) Python repository. Pillar Security showed that a public GitHub issue could manipulate a triage agent into triggering a privileged code-fixing agent.\n\nThe researchers said the public agent could be prompt-injected into posting /adk-issue-fix as adk-bot. They identified the bot as a collaborator, so that comment satisfied",
-    "analysis": {
-      "issue": "Google removed 3 ADK AI workflows after Pillar showed a public GitHub issue could trigger a privileged agent & reach code execution on a CI runner",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
-    "link": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html",
-    "published": "Tue, 04 Aug 2026 16:06:27 +0530",
-    "summary": "cPanel has patched a flaw that let an authenticated hosting customer execute SQL in the database's root context, crossing the privilege boundary between a cPanel account and the server's administrative database identity. It shipped in a targeted security release that closes two other routes past account boundaries.\n\nThe database bug is tracked as CVE-2026-58048 (CVSS 4.0 score: 9.4) and affects",
-    "analysis": {
-      "issue": "cPanel patches CVE-2026-58048, which could let authenticated customers run SQL as database root and, in some setups, compromise the OS",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-58048"
-      ],
-      "threat_categories": [
-        "Vulnerability"
+        "Phishing"
       ]
     }
   },
@@ -350,24 +371,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "New DOUBLECUP ClickFix service hides malware in browser cache images",
-    "link": "https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/",
-    "published": "Mon, 03 Aug 2026 16:01:22 -0400",
-    "summary": "A new Russian loader-as-a-service named DOUBLECUP uses ClickFix attacks to hide malicious code in PNG images cached by victims' browsers, ultimately delivering CountLoader to Windows and macOS devices and a new remote access trojan named DeviceManager to Windows systems. [...]",
-    "analysis": {
-      "issue": "A new Russian loader-as-a-service named DOUBLECUP uses ClickFix attacks to hide malicious code in PNG images cached by victims' browsers, ultimately delivering CountLoader to Windows and macOS devices and a new remote access trojan named DeviceManage",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Read This Before You Buy That TV Streaming Stick",
     "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
@@ -416,9 +419,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-56155",
         "CVE-2026-56164",
         "CVE-2026-50661",
-        "CVE-2026-56155",
         "CVE-2026-48561"
       ],
       "threat_categories": [
@@ -553,9 +556,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-45586",
         "CVE-2026-49160",
-        "CVE-2026-50507"
+        "CVE-2026-50507",
+        "CVE-2026-45586"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -565,12 +568,90 @@
   },
   {
     "source": "Security Week",
-    "title": "AI Security Institute Reports Anthropic and OpenAI Models Going Rogue Against Organizations",
+    "title": "The Fourth Battlefield: The Growing Role of Cyber Operations in Global Conflict",
+    "link": "https://www.securityweek.com/the-fourth-battlefield-the-growing-role-of-cyber-operations-in-global-conflict/",
+    "published": "Wed, 05 Aug 2026 13:00:08 +0000",
+    "summary": "<p>CrowdStrike co-founder Dmitri Alperovitch discusses how cyber operations support kinetic warfare, signal coming conflicts, and reshape the global battlefield.</p>\n<p>The post <a href=\"https://www.securityweek.com/the-fourth-battlefield-the-growing-role-of-cyber-operations-in-global-conflict/\">The Fourth Battlefield: The Growing Role of Cyber Operations in Global Conflict</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "CrowdStrike co-founder Dmitri Alperovitch discusses how cyber operations support kinetic warfare, signal coming conflicts, and reshape the global battlefield",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "Malware",
+        "APT",
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts",
+    "link": "https://www.securityweek.com/new-attack-methods-enable-malware-to-hijack-passkey-protected-accounts/",
+    "published": "Wed, 05 Aug 2026 12:48:49 +0000",
+    "summary": "<p>Palo Alto Networks researchers have demonstrated attacks against Google’s synced passkey implementation.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-attack-methods-enable-malware-to-hijack-passkey-protected-accounts/\">New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Palo Alto Networks researchers have demonstrated attacks against Google’s synced passkey implementation",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "311,000 Impacted by Brown Health Medical Group-MA Data Breach",
+    "link": "https://www.securityweek.com/311000-impacted-by-brown-health-medical-group-ma-data-breach/",
+    "published": "Wed, 05 Aug 2026 11:35:23 +0000",
+    "summary": "<p>Hackers stole personal information, medical records, and financial information from the organization’s server.</p>\n<p>The post <a href=\"https://www.securityweek.com/311000-impacted-by-brown-health-medical-group-ma-data-breach/\">311,000 Impacted by Brown Health Medical Group-MA Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Hackers stole personal information, medical records, and financial information from the organization’s server",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Cybersecurity Alliance Drafts SAFE Guidelines for Sharing AI Incident Data",
+    "link": "https://www.securityweek.com/cybersecurity-alliance-drafts-safe-guidelines-for-sharing-ai-incident-data/",
+    "published": "Wed, 05 Aug 2026 11:11:29 +0000",
+    "summary": "<p>The guidelines are the work of the recently launched Open Secure AI Alliance, which now includes 120 organizations.</p>\n<p>The post <a href=\"https://www.securityweek.com/cybersecurity-alliance-drafts-safe-guidelines-for-sharing-ai-incident-data/\">Cybersecurity Alliance Drafts SAFE Guidelines for Sharing AI Incident Data </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The guidelines are the work of the recently launched Open Secure AI Alliance, which now includes 120 organizations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "AI Agents Targeted Real People and Projects During Cybersecurity Tests",
     "link": "https://www.securityweek.com/ai-security-institute-reports-anthropic-and-openai-models-going-rogue-against-organizations/",
     "published": "Wed, 05 Aug 2026 10:33:41 +0000",
-    "summary": "<p>In one instance, an unsanctioned model attempted to inject malicious code into an open source repository.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-security-institute-reports-anthropic-and-openai-models-going-rogue-against-organizations/\">AI Security Institute Reports Anthropic and OpenAI Models Going Rogue Against Organizations</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "summary": "<p>AI Security Institute reports Anthropic and OpenAI models going rogue against real people, organizations, and open source projects.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-security-institute-reports-anthropic-and-openai-models-going-rogue-against-organizations/\">AI Agents Targeted Real People and Projects During Cybersecurity Tests</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
-      "issue": "In one instance, an unsanctioned model attempted to inject malicious code into an open source repository",
+      "issue": "AI Security Institute reports Anthropic and OpenAI models going rogue against real people, organizations, and open source projects",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -594,10 +675,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-18556",
-        "CVE-2026-34486",
         "CVE-2026-29146",
         "CVE-2026-18577",
+        "CVE-2026-18556",
+        "CVE-2026-34486",
         "CVE-2026-9198"
       ],
       "threat_categories": [
@@ -677,79 +758,6 @@
       "cause": null,
       "timeline": null,
       "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Oligo Raises $60 Million for Runtime Security",
-    "link": "https://www.securityweek.com/oligo-raises-60-million-for-runtime-security/",
-    "published": "Tue, 04 Aug 2026 15:00:00 +0000",
-    "summary": "<p>The company will use the investment to accelerate product innovation and expand go-to-market operations.</p>\n<p>The post <a href=\"https://www.securityweek.com/oligo-raises-60-million-for-runtime-security/\">Oligo Raises $60 Million for Runtime Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The company will use the investment to accelerate product innovation and expand go-to-market operations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "CISO Conversations: Russ Kirby – Passion Is the Antidote to Burnout",
-    "link": "https://www.securityweek.com/ciso-conversation-russ-kirby-passion-is-the-antidote-to-burnout/",
-    "published": "Tue, 04 Aug 2026 14:30:00 +0000",
-    "summary": "<p>Russ Kirby, CISO at Ping Identity, shares how passion, courage, and “good enough” thinking shaped his path from HP to the C-suite—and what keeps him up at night.</p>\n<p>The post <a href=\"https://www.securityweek.com/ciso-conversation-russ-kirby-passion-is-the-antidote-to-burnout/\">CISO Conversations: Russ Kirby – Passion Is the Antidote to Burnout</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Russ Kirby, CISO at Ping Identity, shares how passion, courage, and “good enough” thinking shaped his path from HP to the C-suite—and what keeps him up at night",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Weaponized Email AI Assistants Could Help Attackers Hijack Accounts",
-    "link": "https://www.securityweek.com/weaponized-email-ai-assistants-could-help-attackers-hijack-accounts/",
-    "published": "Tue, 04 Aug 2026 13:54:13 +0000",
-    "summary": "<p>Researchers demonstrate how attackers could abuse built-in email chatbots to evade detection, impersonate trusted employees, compromise executive accounts, and facilitate financial fraud.</p>\n<p>The post <a href=\"https://www.securityweek.com/weaponized-email-ai-assistants-could-help-attackers-hijack-accounts/\">Weaponized Email AI Assistants Could Help Attackers Hijack Accounts</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Researchers demonstrate how attackers could abuse built-in email chatbots to evade detection, impersonate trusted employees, compromise executive accounts, and facilitate financial fraud",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Zenity Raises $125 Million in Series C Funding",
-    "link": "https://www.securityweek.com/zenity-raises-125-million-in-series-c-funding/",
-    "published": "Tue, 04 Aug 2026 13:40:42 +0000",
-    "summary": "<p>The AI security company will invest in product innovation, global expansion, and customer experience.</p>\n<p>The post <a href=\"https://www.securityweek.com/zenity-raises-125-million-in-series-c-funding/\">Zenity Raises $125 Million in Series C Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The AI security company will invest in product innovation, global expansion, and customer experience",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
       "cves": [],
       "threat_categories": [
         "General Security"
@@ -1321,6 +1329,26 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Google’s synchronized passkeys can be stolen in &#8216;Pass‑ta‑key&#8217; attacks",
+    "link": "https://www.malwarebytes.com/blog/news/2026/08/googles-synchronized-passkeys-can-be-stolen-in-pass-ta-key-attacks",
+    "published": "Wed, 05 Aug 2026 11:11:48 GMT",
+    "summary": "Over time, passkeys are supposed to replace passwords. But what happens when malware steals the master key?",
+    "analysis": {
+      "issue": "Passkeys were supposed to make stolen passwords a thing of the past",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Junk Cleaner clears the clutter from your Android",
     "link": "https://www.malwarebytes.com/blog/product/2026/08/junk-cleaner-clears-the-clutter-from-your-android",
     "published": "Wed, 05 Aug 2026 09:07:19 GMT",
@@ -1483,25 +1511,6 @@
       "threat_categories": [
         "Malware",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Fake Fortnite rewards are stealing players&#8217; accounts",
-    "link": "https://www.malwarebytes.com/blog/scams/2026/07/fake-fortnite-rewards-are-stealing-players-accounts",
-    "published": "Fri, 31 Jul 2026 16:16:58 GMT",
-    "summary": "Scammers are using fake V-Bucks offers and locker value sites to hijack Fortnite accounts.",
-    "analysis": {
-      "issue": "Fortnite scam pages like the ones below appear by the dozen every day, recycled endlessly under different names and designs",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing",
-        "Supply Chain"
       ]
     }
   },
