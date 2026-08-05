@@ -1,10 +1,46 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-05 14:21:23 UTC
+**Last Updated:** 2026-08-05 18:04:34 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch](https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html)
+### 1. [Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt](https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 05 Aug 2026 21:06:03 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports](https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 05 Aug 2026 20:44:05 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug](https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 05 Aug 2026 19:57:30 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 4. [Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain](https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 05 Aug 2026 19:11:27 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 5. [New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch](https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 05 Aug 2026 17:13:27 +0530  
@@ -14,7 +50,7 @@
 
 ---
 
-### 2. [Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk](https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html)
+### 6. [Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk](https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 05 Aug 2026 17:13:19 +0530  
@@ -23,7 +59,7 @@
 
 ---
 
-### 3. [Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup](https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html)
+### 7. [Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup](https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 05 Aug 2026 16:34:23 +0530  
@@ -33,7 +69,7 @@
 
 ---
 
-### 4. [Leaked n8n API Tokens Exposed Live Instances to Credential Theft](https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html)
+### 8. [Leaked n8n API Tokens Exposed Live Instances to Credential Theft](https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 05 Aug 2026 16:05:29 +0530  
@@ -42,7 +78,7 @@
 
 ---
 
-### 5. [Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data](https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html)
+### 9. [Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data](https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 05 Aug 2026 14:53:03 +0530  
@@ -51,7 +87,7 @@
 
 ---
 
-### 6. [Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself](https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html)
+### 10. [Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself](https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 05 Aug 2026 13:23:50 +0530  
@@ -60,43 +96,35 @@
 
 ---
 
-### 7. [CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited](https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html)
+### 11. [COLDCARD security audit phishing attack installs remote access tool](https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 05 Aug 2026 13:10:39 +0530  
+**Source:** Bleeping Computer  
+**Published:** Wed, 05 Aug 2026 13:49:41 -0400  
 **Severity:** Low  
+**Categories:** Vulnerability, Phishing  
+
+---
+
+### 12. [CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws](https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 05 Aug 2026 11:51:33 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-9198, CVE-2026-0770, CVE-2026-18576  
 **Categories:** Vulnerability  
 
 ---
 
-### 8. [QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer](https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html)
+### 13. [Google Blogger locks hundreds of blogs in malware false positive](https://www.bleepingcomputer.com/news/google/google-blogger-locks-hundreds-of-blogs-in-malware-false-positive/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 05 Aug 2026 11:17:19 +0530  
+**Source:** Bleeping Computer  
+**Published:** Wed, 05 Aug 2026 10:59:29 -0400  
 **Severity:** Low  
-**Categories:** Malware, Supply Chain  
+**Categories:** Malware  
 
 ---
 
-### 9. [Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens](https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 04 Aug 2026 22:57:39 +0530  
-**Severity:** Low  
-**Categories:** Phishing  
-
----
-
-### 10. [Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks](https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 04 Aug 2026 19:00:23 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 11. [How AI-powered phishing killed blocklists for good](https://www.bleepingcomputer.com/news/security/how-ai-powered-phishing-killed-blocklists-for-good/)
+### 14. [How AI-powered phishing killed blocklists for good](https://www.bleepingcomputer.com/news/security/how-ai-powered-phishing-killed-blocklists-for-good/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 05 Aug 2026 10:01:11 -0400  
@@ -105,7 +133,7 @@
 
 ---
 
-### 12. [OpenAI, Anthropic AI agents targeted real people and systems in cyber tests](https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/)
+### 15. [OpenAI, Anthropic AI agents targeted real people and systems in cyber tests](https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 04 Aug 2026 19:39:59 -0400  
@@ -114,7 +142,7 @@
 
 ---
 
-### 13. [TP-Link patches Omada ZTP flaws allowing hackers to breach networks](https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/)
+### 16. [TP-Link patches Omada ZTP flaws allowing hackers to breach networks](https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 04 Aug 2026 18:18:20 -0400  
@@ -123,7 +151,7 @@
 
 ---
 
-### 14. [Phishing service spoofs RingCentral to steal Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/)
+### 17. [Phishing service spoofs RingCentral to steal Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 04 Aug 2026 17:45:36 -0400  
@@ -132,7 +160,7 @@
 
 ---
 
-### 15. [New XCSSET variant targets macOS devs via compromised Xcode projects](https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/)
+### 18. [New XCSSET variant targets macOS devs via compromised Xcode projects](https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 04 Aug 2026 15:03:09 -0400  
@@ -141,7 +169,7 @@
 
 ---
 
-### 16. [77 Open VSX extensions found harvesting developer info](https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/)
+### 19. [77 Open VSX extensions found harvesting developer info](https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 04 Aug 2026 14:50:55 -0400  
@@ -150,39 +178,12 @@
 
 ---
 
-### 17. [Massive ChainDrop npm supply-chain attack infects hundreds of packages](https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/)
+### 20. [Massive ChainDrop npm supply-chain attack infects hundreds of packages](https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 04 Aug 2026 11:24:35 -0400  
 **Severity:** High  
 **Categories:** Malware  
-
----
-
-### 18. [Varonis Agent IBAC keeps AI agents within their intended boundaries](https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 04 Aug 2026 10:00:10 -0400  
-**Severity:** Critical  
-**Categories:** General Security  
-
----
-
-### 19. [Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 03 Aug 2026 20:17:15 -0400  
-**Severity:** Low  
-**Categories:** Malware, Phishing, APT  
-
----
-
-### 20. [New Pass-ta-key attacks let malware hijack Google-synced passkeys](https://www.bleepingcomputer.com/news/security/new-pass-ta-key-attacks-let-malware-hijack-google-synced-passkeys/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 03 Aug 2026 19:58:01 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability, Malware, Phishing  
 
 ---
 
@@ -209,7 +210,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56155, CVE-2026-56164, CVE-2026-50661, CVE-2026-48561  
+**CVEs:** CVE-2026-56164, CVE-2026-50661, CVE-2026-48561, CVE-2026-56155  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -273,12 +274,21 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-49160, CVE-2026-50507, CVE-2026-45586  
+**CVEs:** CVE-2026-45586, CVE-2026-50507, CVE-2026-49160  
 **Categories:** Vulnerability, DDoS  
 
 ---
 
-### 31. [The Fourth Battlefield: The Growing Role of Cyber Operations in Global Conflict](https://www.securityweek.com/the-fourth-battlefield-the-growing-role-of-cyber-operations-in-global-conflict/)
+### 31. [Black Hat USA 2026 – Summary of Vendor Announcements (Part 3)](https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-3/)
+
+**Source:** Security Week  
+**Published:** Wed, 05 Aug 2026 14:36:29 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, Malware, APT, Supply Chain  
+
+---
+
+### 32. [The Fourth Battlefield: The Growing Role of Cyber Operations in Global Conflict](https://www.securityweek.com/the-fourth-battlefield-the-growing-role-of-cyber-operations-in-global-conflict/)
 
 **Source:** Security Week  
 **Published:** Wed, 05 Aug 2026 13:00:08 +0000  
@@ -287,7 +297,7 @@
 
 ---
 
-### 32. [New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts](https://www.securityweek.com/new-attack-methods-enable-malware-to-hijack-passkey-protected-accounts/)
+### 33. [New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts](https://www.securityweek.com/new-attack-methods-enable-malware-to-hijack-passkey-protected-accounts/)
 
 **Source:** Security Week  
 **Published:** Wed, 05 Aug 2026 12:48:49 +0000  
@@ -296,7 +306,7 @@
 
 ---
 
-### 33. [311,000 Impacted by Brown Health Medical Group-MA Data Breach](https://www.securityweek.com/311000-impacted-by-brown-health-medical-group-ma-data-breach/)
+### 34. [311,000 Impacted by Brown Health Medical Group-MA Data Breach](https://www.securityweek.com/311000-impacted-by-brown-health-medical-group-ma-data-breach/)
 
 **Source:** Security Week  
 **Published:** Wed, 05 Aug 2026 11:35:23 +0000  
@@ -305,7 +315,7 @@
 
 ---
 
-### 34. [Cybersecurity Alliance Drafts SAFE Guidelines for Sharing AI Incident Data](https://www.securityweek.com/cybersecurity-alliance-drafts-safe-guidelines-for-sharing-ai-incident-data/)
+### 35. [Cybersecurity Alliance Drafts SAFE Guidelines for Sharing AI Incident Data](https://www.securityweek.com/cybersecurity-alliance-drafts-safe-guidelines-for-sharing-ai-incident-data/)
 
 **Source:** Security Week  
 **Published:** Wed, 05 Aug 2026 11:11:29 +0000  
@@ -314,7 +324,7 @@
 
 ---
 
-### 35. [AI Agents Targeted Real People and Projects During Cybersecurity Tests](https://www.securityweek.com/ai-security-institute-reports-anthropic-and-openai-models-going-rogue-against-organizations/)
+### 36. [AI Agents Targeted Real People and Projects During Cybersecurity Tests](https://www.securityweek.com/ai-security-institute-reports-anthropic-and-openai-models-going-rogue-against-organizations/)
 
 **Source:** Security Week  
 **Published:** Wed, 05 Aug 2026 10:33:41 +0000  
@@ -323,17 +333,17 @@
 
 ---
 
-### 36. [CISA Warns of Exploited Langflow, N-central, and Tomcat Vulnerabilities](https://www.securityweek.com/cisa-warns-of-exploited-langflow-n-central-and-tomcat-vulnerabilities/)
+### 37. [CISA Warns of Exploited Langflow, N-central, and Tomcat Vulnerabilities](https://www.securityweek.com/cisa-warns-of-exploited-langflow-n-central-and-tomcat-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Wed, 05 Aug 2026 09:44:50 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-29146, CVE-2026-18577, CVE-2026-18556, CVE-2026-34486, CVE-2026-9198  
+**CVEs:** CVE-2026-29146, CVE-2026-18556, CVE-2026-18577, CVE-2026-34486, CVE-2026-9198  
 **Categories:** Ransomware, Vulnerability, Malware  
 
 ---
 
-### 37. [Over 400 NPM Packages Infected in ChainDrop Supply Chain Attack](https://www.securityweek.com/over-400-npm-packages-infected-in-chaindrop-supply-chain-attack/)
+### 38. [Over 400 NPM Packages Infected in ChainDrop Supply Chain Attack](https://www.securityweek.com/over-400-npm-packages-infected-in-chaindrop-supply-chain-attack/)
 
 **Source:** Security Week  
 **Published:** Wed, 05 Aug 2026 08:56:58 +0000  
@@ -342,7 +352,7 @@
 
 ---
 
-### 38. [Water Sector Cyberattacks Reportedly Hit at Least 12 States](https://www.securityweek.com/water-sector-cyberattacks-reportedly-hit-at-least-12-states/)
+### 39. [Water Sector Cyberattacks Reportedly Hit at Least 12 States](https://www.securityweek.com/water-sector-cyberattacks-reportedly-hit-at-least-12-states/)
 
 **Source:** Security Week  
 **Published:** Wed, 05 Aug 2026 07:24:52 +0000  
@@ -351,21 +361,12 @@
 
 ---
 
-### 39. [Black Hat USA 2026 – Summary of Vendor Announcements (Part 2)](https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-2/)
+### 40. [Black Hat USA 2026 – Summary of Vendor Announcements (Part 2)](https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-2/)
 
 **Source:** Security Week  
 **Published:** Tue, 04 Aug 2026 16:49:39 +0000  
 **Severity:** Critical  
 **Categories:** Vulnerability, APT, Supply Chain  
-
----
-
-### 40. [Rethinking AI Security: Why CASB and DLP Need an Interaction-Aware Layer](https://www.securityweek.com/rethinking-ai-security-why-casb-and-dlp-need-an-interaction-aware-layer/)
-
-**Source:** Security Week  
-**Published:** Tue, 04 Aug 2026 16:15:00 +0000  
-**Severity:** High  
-**Categories:** General Security  
 
 ---
 
@@ -629,7 +630,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
