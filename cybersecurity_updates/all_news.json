@@ -1,6 +1,78 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities",
+    "link": "https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html",
+    "published": "Thu, 06 Aug 2026 17:46:58 +0530",
+    "summary": "Forescout found 22 internet-facing Rockwell Automation programmable logic controllers (PLCs) in cities hit by recent cyberattacks on US water utilities. Nineteen used the same mobile carrier network.\n\nIts August 3 scan counted 4,407 exposed Rockwell controllers worldwide, including 2,844 in the United States, but Forescout could not confirm any were compromised. That figure counts exposed",
+    "analysis": {
+      "issue": "Forescout found 22 exposed Rockwell PLCs in cities hit by water attacks; direct access can let attackers change settings without exploiting a flaw",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "CryptoJS Weak RNG Behind $5.7 Million in Drains Affects Five Crypto Wallet Apps",
+    "link": "https://thehackernews.com/2026/08/cryptojs-weak-rng-behind-57-million-in.html",
+    "published": "Thu, 06 Aug 2026 17:19:48 +0530",
+    "summary": "Coinspect has identified CryptoJS.lib.WordArray.random() as the weak random number generator behind the Ill Bloom wallet drains.\n\nIntroduced in the JavaScript cryptography library 12 years ago, the function supplied weak entropy that affected wallet apps used to generate recovery phrases. Coinspect's on-chain analysis puts the measured theft across two sweeps since late May at a lower bound of",
+    "analysis": {
+      "issue": "CryptoJS's weak RNG made recovery phrases guessable across five wallet apps, enabling Ill Bloom thefts totaling at least $5",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Apple iCloud Private Relay Can Expose Real IPs Through WebKit Proxy Bypasses",
+    "link": "https://thehackernews.com/2026/08/webkit-proxy-bypasses-can-expose-real.html",
+    "published": "Thu, 06 Aug 2026 17:03:08 +0530",
+    "summary": "Cybersecurity researchers have disclosed a security issue with Apple's iCloud Private Relay tool that can expose a user's real IP address.\n\nIntroduced with iOS 15, iCloud Private Relay employs a dual-hop architecture to ensure users' privacy by routing their Safari web traffic through two relays so that no single third-party, including Apple, can determine where the request is originating from",
+    "analysis": {
+      "issue": "Researchers say three WebKit features can bypass Apple's iCloud Private Relay and browser proxies, exposing users' real IP addresses on iOS and macOS",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "AI Recommendation Poisoning: How \"Ask AI\" Buttons Silently Alter LLM Memory",
+    "link": "https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html",
+    "published": "Thu, 06 Aug 2026 17:00:00 +0530",
+    "summary": "A new class of prompt injection is spreading across commercial websites. It requires no malware, no stolen credentials, and no zero-day exploit. It abuses a standard feature built into almost every major AI assistant: pre-filled deep links.\n\nWe observed production websites embedding hidden prompt injection payloads inside \"Ask AI\" buttons on marketing and competitor comparison pages. When a user",
+    "analysis": {
+      "issue": "Pre-filled \"Ask AI\" links can save vendor domains as trusted sources, potentially biasing future answers without malware or stolen credentials",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access",
     "link": "https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html",
     "published": "Thu, 06 Aug 2026 14:49:23 +0530",
@@ -110,74 +182,21 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
-    "link": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
-    "published": "Thu, 06 Aug 2026 00:14:31 +0530",
-    "summary": "A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a change Microsoft Threat Intelligence tracked on infrastructure it had been watching for weeks.\n\nThe server-side gate hides the malicious page from crawlers and sandboxes while presenting selected Mac users with a fake software download. Microsoft",
+    "source": "Bleeping Computer",
+    "title": "How AI Exposed a Browser Security Gap that Enterprises Cannot Ignore",
+    "link": "https://www.bleepingcomputer.com/news/security/how-ai-exposed-a-browser-security-gap-that-enterprises-cannot-ignore/",
+    "published": "Thu, 06 Aug 2026 10:02:12 -0400",
+    "summary": "AI did not create a new browser security problem. It exposed one that enterprises have long been able to ignore. Skyhigh Security explains why browsers have become a critical control point for governing data movement, AI interactions, and modern work. [...]",
     "analysis": {
-      "issue": "A macOS ClickFix campaign uses more than 250 domains and server-side fingerprinting to hide AMOS lures from crawlers and serve selected Mac users",
+      "issue": "By Thyaga Vasudevan, EVP of Product at Skyhigh Security For decades, enterprise security was largely focused on endpoints and networks",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes",
-    "link": "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html",
-    "published": "Thu, 06 Aug 2026 00:03:47 +0530",
-    "summary": "OpenAI said it disrupted a Cambodia-based scam operation that used its generative artificial intelligence (AI) chatbot ChatGPT to facilitate a wide range of investment, romance, gambling, and law enforcement impersonation schemes.\n\nTo that end, it banned a coordinated network of ChatGPT accounts likely originating from Southeast Asia and operating from the city of Poipet, a region with extensive",
-    "analysis": {
-      "issue": "OpenAI disrupted a Poipet-based ChatGPT network used for investment, romance, gambling, and law enforcement impersonation scams and forged documents",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
-    "link": "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html",
-    "published": "Wed, 05 Aug 2026 21:06:03 +0530",
-    "summary": "Cybersecurity researchers have discovered more than half-a-dozen services advertisements for illegal access to artificial intelligence (AI) models on underground cybercrime forums and messaging platforms.\n\nOne such service, Poison Claude, claims to offer access to Anthropic's large language models (LLMs), including Opus 4.8, Opus 4.7, Opus 4.6, and Sonnet 4.6.\n\n\"Advertisements for Poison Claude",
-    "analysis": {
-      "issue": "Researchers find more than six illegal AI access ads, including Poison Claude, which claims 5-15% pricing while its operator can see customer prompts",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports",
-    "link": "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html",
-    "published": "Wed, 05 Aug 2026 20:44:05 +0530",
-    "summary": "Two security flaws in Paperclip could let attackers execute commands on a network server or a developer's computer. Paperclip is an open-source control plane for teams of artificial intelligence (AI) agents, and both paths rely on importing a malicious agent and starting it.\n\nA third flaw could expose sensitive data and control-plane details through application programming interface (API) routes",
-    "analysis": {
-      "issue": "Paperclip flaws could let attackers run commands on servers or developer machines; v2026",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
+        "APT",
+        "Supply Chain"
       ]
     }
   },
@@ -350,24 +369,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Phishing service spoofs RingCentral to steal Microsoft 365 accounts",
-    "link": "https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/",
-    "published": "Tue, 04 Aug 2026 17:45:36 -0400",
-    "summary": "The Greatness phishing-as-a-service (PhaaS) platform has expanded from credential phishing to adversary-in-the-middle attacks and device-code phishing targeting Microsoft 365 accounts. [...]",
-    "analysis": {
-      "issue": "The Greatness phishing-as-a-service (PhaaS) platform has expanded from credential phishing to adversary-in-the-middle attacks and device-code phishing targeting Microsoft 365 accounts",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Read This Before You Buy That TV Streaming Stick",
     "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
@@ -416,9 +417,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-56164",
         "CVE-2026-48561",
         "CVE-2026-50661",
-        "CVE-2026-56164",
         "CVE-2026-56155"
       ],
       "threat_categories": [
@@ -553,13 +554,72 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-45586",
         "CVE-2026-50507",
-        "CVE-2026-49160",
-        "CVE-2026-45586"
+        "CVE-2026-49160"
       ],
       "threat_categories": [
         "Vulnerability",
         "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Zero-Click AI Browser Hacking: Claude and ChatGPT Atlas Hijacked via Emails, X Posts",
+    "link": "https://www.securityweek.com/zero-click-ai-browser-hacking-claude-and-chatgpt-atlas-hijacked-via-emails-x-posts/",
+    "published": "Thu, 06 Aug 2026 12:54:09 +0000",
+    "summary": "<p>Zenity researchers reported the findings to Anthropic and OpenAI in late 2025 and early 2026, but they remain unpatched.</p>\n<p>The post <a href=\"https://www.securityweek.com/zero-click-ai-browser-hacking-claude-and-chatgpt-atlas-hijacked-via-emails-x-posts/\">Zero-Click AI Browser Hacking: Claude and ChatGPT Atlas Hijacked via Emails, X Posts</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Zenity researchers reported the findings to Anthropic and OpenAI in late 2025 and early 2026, but they remain unpatched",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Podcast: Compliance Won’t Save You: The Future of Cyber Risk with Edna Conway",
+    "link": "https://www.securityweek.com/podcast-compliance-wont-save-you-the-future-of-cyber-risk-with-edna-conway/",
+    "published": "Thu, 06 Aug 2026 12:00:00 +0000",
+    "summary": "<p>(Video) In this podcast, we share insights from Edna Conway, a recognized leader in cybersecurity and supply chain resilience with over 40 years of experience in the field. </p>\n<p>The post <a href=\"https://www.securityweek.com/podcast-compliance-wont-save-you-the-future-of-cyber-risk-with-edna-conway/\">Podcast: Compliance Won’t Save You: The Future of Cyber Risk with Edna Conway</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "(Video) In this podcast, we share insights from Edna Conway, a recognized leader in cybersecurity and supply chain resilience with over 40 years of experience in the field",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "APT",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Critical Paperclip Flaw Allowed Admin Access, Code Execution",
+    "link": "https://www.securityweek.com/critical-paperclip-flaw-allowed-admin-access-code-execution/",
+    "published": "Thu, 06 Aug 2026 11:09:11 +0000",
+    "summary": "<p>An attacker could self-register, sign in for board-level API access, and import a new company for code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-paperclip-flaw-allowed-admin-access-code-execution/\">Critical Paperclip Flaw Allowed Admin Access, Code Execution</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "An attacker could self-register, sign in for board-level API access, and import a new company for code execution",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-41679"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "APT"
       ]
     }
   },
@@ -615,15 +675,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20312",
-        "CVE-2026-20272",
-        "CVE-2026-20267",
-        "CVE-2026-20304",
-        "CVE-2026-20079",
         "CVE-2026-20310",
         "CVE-2026-20303",
+        "CVE-2026-20267",
+        "CVE-2026-20272",
+        "CVE-2026-20313",
+        "CVE-2026-20079",
+        "CVE-2026-20312",
         "CVE-2026-20200",
-        "CVE-2026-20313"
+        "CVE-2026-20304"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -713,62 +773,6 @@
         "Malware",
         "APT",
         "DDoS"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts",
-    "link": "https://www.securityweek.com/new-attack-methods-enable-malware-to-hijack-passkey-protected-accounts/",
-    "published": "Wed, 05 Aug 2026 12:48:49 +0000",
-    "summary": "<p>Palo Alto Networks researchers have demonstrated attacks against Google’s synced passkey implementation.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-attack-methods-enable-malware-to-hijack-passkey-protected-accounts/\">New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Palo Alto Networks researchers have demonstrated attacks against Google’s synced passkey implementation",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "311,000 Impacted by Brown Health Medical Group-MA Data Breach",
-    "link": "https://www.securityweek.com/311000-impacted-by-brown-health-medical-group-ma-data-breach/",
-    "published": "Wed, 05 Aug 2026 11:35:23 +0000",
-    "summary": "<p>Hackers stole personal information, medical records, and financial information from the organization’s server.</p>\n<p>The post <a href=\"https://www.securityweek.com/311000-impacted-by-brown-health-medical-group-ma-data-breach/\">311,000 Impacted by Brown Health Medical Group-MA Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Hackers stole personal information, medical records, and financial information from the organization’s server",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Cybersecurity Alliance Drafts SAFE Guidelines for Sharing AI Incident Data",
-    "link": "https://www.securityweek.com/cybersecurity-alliance-drafts-safe-guidelines-for-sharing-ai-incident-data/",
-    "published": "Wed, 05 Aug 2026 11:11:29 +0000",
-    "summary": "<p>The guidelines are the work of the recently launched Open Secure AI Alliance, which now includes 120 organizations.</p>\n<p>The post <a href=\"https://www.securityweek.com/cybersecurity-alliance-drafts-safe-guidelines-for-sharing-ai-incident-data/\">Cybersecurity Alliance Drafts SAFE Guidelines for Sharing AI Incident Data </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The guidelines are the work of the recently launched Open Secure AI Alliance, which now includes 120 organizations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -961,12 +965,48 @@
   },
   {
     "source": "Recorded Future",
+    "title": "Emerging Threats to Neurotechnology",
+    "link": "https://www.recordedfuture.com/research/emerging-threats-neurotechnology",
+    "published": "Thu, 06 Aug 2026 00:00:00 GMT",
+    "summary": "Explore the evolving security landscape of neurotechnology, including risks like IP theft, data extortion, and regulatory challenges in this emerging field.",
+    "analysis": {
+      "issue": "Explore the evolving security landscape of neurotechnology, including risks like IP theft, data extortion, and regulatory challenges in this emerging field",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
     "title": "Hype vs. Reality: What the Hugging Face Incident Means for AI Safety",
     "link": "https://www.recordedfuture.com/blog/hugging-face-ai-safety",
     "published": "Wed, 05 Aug 2026 00:00:00 GMT",
     "summary": "Discover the security lessons from the recent incident where autonomous AI agents breached Hugging Face infrastructure.",
     "analysis": {
       "issue": "Discover the security lessons from the recent incident where autonomous AI agents breached Hugging Face infrastructure",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "8 Ways AI is Changing Threat Intelligence",
+    "link": "https://www.recordedfuture.com/blog/ai-changing-threat-intelligence",
+    "published": "Mon, 03 Aug 2026 00:00:00 GMT",
+    "summary": "Explore eight key ways that AI is reshaping the threat intelligence landscape, from creating speed and stealth advantages for adversaries to helping defenders better prioritize threats and allocate resources.",
+    "analysis": {
+      "issue": "Explore eight key ways that AI is reshaping the threat intelligence landscape, from creating speed and stealth advantages for adversaries to helping defenders better prioritize threats and allocate resources",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1093,42 +1133,6 @@
     "summary": "Learn how real-time cyber intelligence powers advanced persistent threat detection, from exposing infrastructure to stopping attacks early.",
     "analysis": {
       "issue": "Learn how real-time cyber intelligence powers advanced persistent threat detection, from exposing infrastructure to stopping attacks early",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "AI Has Enhanced Iran’s Asymmetric Playbook During the 2026 Conflict",
-    "link": "https://www.recordedfuture.com/research/iran-ai-asymmetric-playbook",
-    "published": "Thu, 16 Jul 2026 00:00:00 GMT",
-    "summary": "Explore how Iran has utilized AI to enhance its asymmetric playbook during the 2026 conflict. Learn how AI acts as a force multiplier for Iranian cyber operations, influence campaigns, and domestic surveillance.",
-    "analysis": {
-      "issue": "Explore how Iran has utilized AI to enhance its asymmetric playbook during the 2026 conflict",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "The Shift: A New Era of AI Regulation",
-    "link": "https://www.recordedfuture.com/blog/the-shift-new-era-ai",
-    "published": "Wed, 15 Jul 2026 00:00:00 GMT",
-    "summary": "Explore how recent US export controls on frontier AI models like Anthropic's Fable signal a new era of regulatory uncertainty. Learn how security leaders can build resilient AI strategies by treating frontier models as volatile assets rather than stable technology",
-    "analysis": {
-      "issue": "Explore how recent US export controls on frontier AI models like Anthropic's Fable signal a new era of regulatory uncertainty",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1337,6 +1341,42 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Scammers target OnlyFans users with deepfakes",
+    "link": "https://www.malwarebytes.com/blog/news/2026/08/scammers-target-onlyfans-users-with-deepfakes",
+    "published": "Thu, 06 Aug 2026 11:38:27 GMT",
+    "summary": "Criminals are impersonating OnlyFans creators using AI tools in order to scam followers.",
+    "analysis": {
+      "issue": "OnlyFans creators are used to posting adult videos of themselves online, but what happens if someone takes control of their images and uses them for fraud",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Amazon and Apple impersonated in “$149.99 unauthorized charge” scam",
+    "link": "https://www.malwarebytes.com/blog/scams/2026/08/amazon-and-apple-impersonated-in-149-99-unauthorized-charge-scam",
+    "published": "Thu, 06 Aug 2026 10:55:11 GMT",
+    "summary": "Different logos, different color schemes, same scam.",
+    "analysis": {
+      "issue": "If you’ve spent any time browsing lately, you may have run into a full-screen popup warning you that your Apple ID or Amazon account was just used for a mysterious $149",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Anthropic’s Mythos AI used social engineering to target real people",
     "link": "https://www.malwarebytes.com/blog/news/2026/08/anthropics-mythos-ai-used-social-engineering-to-target-real-people",
     "published": "Thu, 06 Aug 2026 10:45:31 GMT",
@@ -1483,42 +1523,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "The AI Act kicks into action, forces companies to be clear about AI chatbots",
-    "link": "https://www.malwarebytes.com/blog/news/2026/08/the-ai-act-kicks-into-action-forces-companies-to-be-clear-about-ai-bots",
-    "published": "Mon, 03 Aug 2026 21:08:29 GMT",
-    "summary": "The European Union (EU) has started enforcing key parts of the AI Act, with immediate, visible consequences for chatbots, deepfakes and other consumer‑facing AI.",
-    "analysis": {
-      "issue": "The European Union (EU) has started enforcing key parts of the AI Act, with immediate, visible consequences for chatbots, deepfakes and other consumer‑facing Artificial Intelligence (AI) systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Californians can tell data brokers to DROP their information",
-    "link": "https://www.malwarebytes.com/blog/news/2026/08/californians-can-tell-data-brokers-to-drop-their-information",
-    "published": "Mon, 03 Aug 2026 20:50:32 GMT",
-    "summary": "California has launched the Delete Request and Opt‑out Platform (DROP), a state‑run portal that lets residents send deletion and opt‑out requests to all registered data brokers.",
-    "analysis": {
-      "issue": "California has launched the Delete Request and Opt‑out Platform (DROP), a state‑run portal that lets residents send deletion and opt‑out requests to all registered data brokers in one place",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
