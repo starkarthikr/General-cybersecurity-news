@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
+    "link": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
+    "published": "Thu, 06 Aug 2026 00:14:31 +0530",
+    "summary": "A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a change Microsoft Threat Intelligence tracked on infrastructure it had been watching for weeks.\n\nThe server-side gate hides the malicious page from crawlers and sandboxes while presenting selected Mac users with a fake software download. Microsoft",
+    "analysis": {
+      "issue": "A macOS ClickFix campaign uses more than 250 domains and server-side fingerprinting to hide AMOS lures from crawlers and serve selected Mac users",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes",
+    "link": "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html",
+    "published": "Thu, 06 Aug 2026 00:03:47 +0530",
+    "summary": "OpenAI said it disrupted a Cambodia-based scam operation that used its generative artificial intelligence (AI) chatbot ChatGPT to facilitate a wide range of investment, romance, gambling, and law enforcement impersonation schemes.\n\nTo that end, it banned a coordinated network of ChatGPT accounts likely originating from Southeast Asia and operating from the city of Poipet, a region with extensive",
+    "analysis": {
+      "issue": "OpenAI disrupted a Poipet-based ChatGPT network used for investment, romance, gambling, and law enforcement impersonation scams and forged documents",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
     "link": "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html",
     "published": "Wed, 05 Aug 2026 21:06:03 +0530",
@@ -149,31 +185,31 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data",
-    "link": "https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html",
-    "published": "Wed, 05 Aug 2026 14:53:03 +0530",
-    "summary": "A cluster of 77 extensions on the Open VSX marketplace has been found to impersonate legitimate developer tools while transmitting information about the systems and development environments on which they were installed.\n\nThe \"evil twin\" extensions were uploaded to the repository between July 26 and August 1, 2026, according to Manifold Security. The packages have been removed from Open VSX as of",
+    "source": "Bleeping Computer",
+    "title": "Ransom Cartel ransomware creator sentenced to 16 years in prison",
+    "link": "https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/",
+    "published": "Wed, 05 Aug 2026 19:00:50 -0400",
+    "summary": "Maksim Silnikau, the creator and administrator of the Ransom Cartel ransomware operation, was sentenced to 16 years in prison for his role in ransomware attacks against at least 18 companies worldwide. [...]",
     "analysis": {
-      "issue": "Open VSX removes 77 evil twin extensions that impersonate developer tools and exfiltrate host, workspace, Git, and CI data",
+      "issue": "Maksim Silnikau, the creator and administrator of the Ransom Cartel ransomware operation, was sentenced to 16 years in prison for his role in ransomware attacks against at least 18 companies worldwide",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Ransomware"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself",
-    "link": "https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html",
-    "published": "Wed, 05 Aug 2026 13:23:50 +0530",
-    "summary": "An agent running Anthropic's Claude Mythos 5 spent 34 hours trying to get a malware dropper merged into a real open-source project during a cyber evaluation by the UK's AI Security Institute.\n\nWhen a bystander publicly warned that the code was malicious, the agent denied it, force-pushed a rewritten branch history to erase the evidence, and posted from a second account it controlled to vouch for",
+    "source": "Bleeping Computer",
+    "title": "Canadian pleads guilty to Snowflake cloud data-theft attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/",
+    "published": "Wed, 05 Aug 2026 17:53:26 -0400",
+    "summary": "A Canadian man pleaded guilty today to his role in accessing company accounts at cloud storage provider Snowflake and stealing data from at least 165 organizations in a scheme to extort millions of dollars from victims. [...]",
     "analysis": {
-      "issue": "Anthropic's Claude Mythos 5 spent 34 hours trying to backdoor an open-source project, then used a sockpuppet and rewrote Git history when challenged",
+      "issue": "A Canadian man pleaded guilty today to his role in accessing company accounts at cloud storage provider Snowflake and stealing data from at least 165 organizations in a scheme to extort millions of dollars from victims",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -181,6 +217,25 @@
       "cves": [],
       "threat_categories": [
         "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Hackers run khunt post-exploitation toolkit from Oracle database",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
+    "published": "Wed, 05 Aug 2026 15:55:25 -0400",
+    "summary": "Hackers exploited a SQL injection vulnerability to install a post-exploitation toolkit directly inside an Oracle database that was used to breach a corporate network. [...]",
+    "analysis": {
+      "issue": "Hackers exploited a SQL injection vulnerability to install a post-exploitation toolkit directly inside an Oracle database that was used to breach a corporate network",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing"
       ]
     }
   },
@@ -216,9 +271,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-9198",
+        "CVE-2026-18576",
         "CVE-2026-0770",
-        "CVE-2026-18576"
+        "CVE-2026-9198"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -316,61 +371,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
-    "link": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
-    "published": "Tue, 04 Aug 2026 15:03:09 -0400",
-    "summary": "A new version of the XCSSET malware is targeting thousands of macOS users through compromised Xcode projects and GitHub repositories. [...]",
-    "analysis": {
-      "issue": "A new version of the XCSSET malware is targeting thousands of macOS users through compromised Xcode projects and GitHub repositories",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "77 Open VSX extensions found harvesting developer info",
-    "link": "https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/",
-    "published": "Tue, 04 Aug 2026 14:50:55 -0400",
-    "summary": "77 extensions on the Open VSX marketplace impersonated legitimate developer tools while transmitting information about the systems and development environments where they were installed. [...]",
-    "analysis": {
-      "issue": "77 extensions on the Open VSX marketplace impersonated legitimate developer tools while transmitting information about the systems and development environments where they were installed",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
-    "link": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
-    "published": "Tue, 04 Aug 2026 11:24:35 -0400",
-    "summary": "Self-propagating malware named 'ChainDrop' has compromised more than 1,300 packages with a combined 2 billion monthly downloads on the Node Package Manager (npm) registry. [...]",
-    "analysis": {
-      "issue": "Self-propagating malware named 'ChainDrop' has compromised more than 1,300 packages with a combined 2 billion monthly downloads on the Node Package Manager (npm) registry",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Read This Before You Buy That TV Streaming Stick",
     "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
@@ -420,8 +420,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-56164",
-        "CVE-2026-50661",
         "CVE-2026-48561",
+        "CVE-2026-50661",
         "CVE-2026-56155"
       ],
       "threat_categories": [
@@ -556,13 +556,35 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-49160",
         "CVE-2026-45586",
-        "CVE-2026-50507",
-        "CVE-2026-49160"
+        "CVE-2026-50507"
       ],
       "threat_categories": [
         "Vulnerability",
         "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "How a $50,000 Exploit Chain Turned Bixby Against Samsung Phones",
+    "link": "https://www.securityweek.com/how-a-50000-exploit-chain-turned-bixby-against-samsung-phones/",
+    "published": "Wed, 05 Aug 2026 19:40:00 +0000",
+    "summary": "<p>The chain involved the exploitation of several vulnerabilities in the Samsung Members and Samsung Account applications.</p>\n<p>The post <a href=\"https://www.securityweek.com/how-a-50000-exploit-chain-turned-bixby-against-samsung-phones/\">How a $50,000 Exploit Chain Turned Bixby Against Samsung Phones </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The chain involved the exploitation of several vulnerabilities in the Samsung Members and Samsung Account applications",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2025-21079",
+        "CVE-2025-58486",
+        "CVE-2025-58487"
+      ],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -696,11 +718,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-29146",
-        "CVE-2026-18556",
-        "CVE-2026-18577",
         "CVE-2026-34486",
-        "CVE-2026-9198"
+        "CVE-2026-9198",
+        "CVE-2026-18556",
+        "CVE-2026-29146",
+        "CVE-2026-18577"
       ],
       "threat_categories": [
         "Ransomware",
@@ -744,26 +766,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Black Hat USA 2026 – Summary of Vendor Announcements (Part 2)",
-    "link": "https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-2/",
-    "published": "Tue, 04 Aug 2026 16:49:39 +0000",
-    "summary": "<p>Many companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas.</p>\n<p>The post <a href=\"https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-2/\">Black Hat USA 2026 – Summary of Vendor Announcements (Part 2)</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Many companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "APT",
-        "Supply Chain"
       ]
     }
   },
@@ -956,6 +958,24 @@
   },
   {
     "source": "Recorded Future",
+    "title": "Hype vs. Reality: What the Hugging Face Incident Means for AI Safety",
+    "link": "https://www.recordedfuture.com/blog/hugging-face-ai-safety",
+    "published": "Wed, 05 Aug 2026 00:00:00 GMT",
+    "summary": "Discover the security lessons from the recent incident where autonomous AI agents breached Hugging Face infrastructure.",
+    "analysis": {
+      "issue": "Discover the security lessons from the recent incident where autonomous AI agents breached Hugging Face infrastructure",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
     "title": "Iran War’s Secondary Effects Shape 2026 US Violent Extremism",
     "link": "https://www.recordedfuture.com/research/iran-violent-extremism-landscape",
     "published": "Thu, 30 Jul 2026 00:00:00 GMT",
@@ -1106,24 +1126,6 @@
     "summary": "Explore how recent US export controls on frontier AI models like Anthropic's Fable signal a new era of regulatory uncertainty. Learn how security leaders can build resilient AI strategies by treating frontier models as volatile assets rather than stable technology",
     "analysis": {
       "issue": "Explore how recent US export controls on frontier AI models like Anthropic's Fable signal a new era of regulatory uncertainty",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "The FBI Warned About Fake Permit Fees. The Harder Question Is Where the Money Goes. | Recorded Future",
-    "link": "https://www.recordedfuture.com/blog/fbi-fake-permit-fees",
-    "published": "Tue, 14 Jul 2026 00:00:00 GMT",
-    "summary": "A government impersonation scam is targeting property owners with fake planning and zoning permit invoices, and authorized wire transfers are clearing behavioral controls. Here's how the scheme works and why beneficiary account intelligence is the signal that catches it.",
-    "analysis": {
-      "issue": "A government impersonation scam is targeting property owners with fake planning and zoning permit invoices, and authorized wire transfers are clearing behavioral controls",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1332,7 +1334,7 @@
   },
   {
     "source": "Malwarebytes",
-    "title": "Google’s synchronized passkeys can be stolen in &#8216;Pass‑ta‑key&#8217; attacks",
+    "title": "Google’s synchronized passkeys can be stolen in ‘Pass‑ta‑key’ attacks",
     "link": "https://www.malwarebytes.com/blog/news/2026/08/googles-synchronized-passkeys-can-be-stolen-in-pass-ta-key-attacks",
     "published": "Wed, 05 Aug 2026 11:11:48 GMT",
     "summary": "Over time, passkeys are supposed to replace passwords. But what happens when malware steals the master key?",
@@ -1428,7 +1430,7 @@
   },
   {
     "source": "Malwarebytes",
-    "title": "WhatsApp account takeover scam asks you to &#8220;vote for my friend&#8221;",
+    "title": "WhatsApp account takeover scam asks you to “vote for my friend”",
     "link": "https://www.malwarebytes.com/blog/scams/2026/08/whatsapp-account-takeover-scam-asks-you-to-vote-for-my-friend",
     "published": "Tue, 04 Aug 2026 06:22:48 GMT",
     "summary": "Scammers are trying to take over WhatsApp accounts by sending messages asking people to vote for a friend in a fake online contest.",
@@ -1446,7 +1448,7 @@
   },
   {
     "source": "Malwarebytes",
-    "title": "&#8220;Adult TikTok&#8221; searches lead to scams",
+    "title": "“Adult TikTok” searches lead to scams",
     "link": "https://www.malwarebytes.com/blog/scams/2026/08/adult-tiktok-searches-lead-to-scams",
     "published": "Mon, 03 Aug 2026 21:35:18 GMT",
     "summary": "That \"free\" adult TikTok site could leave you with spam, unwanted apps, or fake verification fees.",
@@ -1500,7 +1502,7 @@
   },
   {
     "source": "Malwarebytes",
-    "title": "A week in security (July 27 &#8211; August 2)",
+    "title": "A week in security (July 27 – August 2)",
     "link": "https://www.malwarebytes.com/blog/news/2026/08/a-week-in-security-july-27-august-2",
     "published": "Mon, 03 Aug 2026 07:01:00 GMT",
     "summary": "A list of topics we covered in the week of July 27 to August 2 of 2026",
