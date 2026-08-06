@@ -1,6 +1,116 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access",
+    "link": "https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html",
+    "published": "Thu, 06 Aug 2026 14:49:23 +0530",
+    "summary": "Attackers broke into an organization's Oracle database through a SQL injection flaw in a public-facing web application, then installed a post-exploitation toolkit without writing an executable to disk. They fed Java source code to the database, let Oracle compile it into stored schema objects, and ran commands from inside the database engine.\n\nHuntress, which tracks the toolkit as khunt,",
+    "analysis": {
+      "issue": "Attackers compile khunt inside Oracle after a web SQL injection, reach Windows SYSTEM, and stage credential data and registry hives locally",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model",
+    "link": "https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html",
+    "published": "Thu, 06 Aug 2026 14:27:30 +0530",
+    "summary": "Security flaws in agent infrastructure from Amazon Web Services (AWS), Google, and Vercel let untrusted or forged instructions reach an agent's tools with no check that a model turn had authorized them.\n\nIn several of the attack paths, the model never ran at all, so system prompts, content filters, and model-level guardrails never got a chance to intervene.\n\nThe affected products include Amazon",
+    "analysis": {
+      "issue": "AI agent flaws in AWS, Google, and Vercel let forged tool calls reach tools without model authorization, while several paths skip the model entirely",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells",
+    "link": "https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html",
+    "published": "Thu, 06 Aug 2026 13:35:22 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a \"factory-shipped backdoor\" implanted in at least 20 Chinese router models from Zbtlink.\n\nAccording to a new report from VulnCheck, the implant appears in all 21 firmware images currently available from Zbtlink that span more than 2 years. The backdoors are designed such that they start automatically and attempt to beacon to Chinese",
+    "analysis": {
+      "issue": "At least 20 Zbtlink router models ship with ENDLESSDOORS, a root backdoor that attempts C2 contact as often as every 35 seconds and accepts commands",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service",
+    "link": "https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html",
+    "published": "Thu, 06 Aug 2026 12:49:54 +0530",
+    "summary": "A federal judge in Alexandria, Virginia, sentenced Maksim Silnikau to 16 years in prison on August 5 for creating and running Ransom Cartel, the ransomware-as-a-service operation he stood up in 2021.\n\nBetween 2021 and 2023, Ransom Cartel conspirators attacked at least 18 companies, including firms in California, New York and Nebraska, and others abroad, according to the Justice Department.",
+    "analysis": {
+      "issue": "Maksim Silnikau gets 16 years for running Ransom Cartel, which DOJ says attacked at least 18 companies in the U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild",
+    "link": "https://thehackernews.com/2026/08/cisa-flags-teamcity-cve-2026-63077-rce.html",
+    "published": "Thu, 06 Aug 2026 12:21:43 +0530",
+    "summary": "A newly patched security flaw impacting on-premise versions of JetBrains TeamCity has come under active exploitation in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA).\n\nThe vulnerability in question is CVE-2026-63077 (CVSS score: 9.8), a case of deserialization of untrusted data that could allow an unauthenticated attacker with access to a TeamCity server",
+    "analysis": {
+      "issue": "CISA says attackers are exploiting TeamCity CVE-2026-63077, an unauthenticated RCE flaw that can expose credentials and compromise build pipelines",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-63077"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People",
+    "link": "https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html",
+    "published": "Thu, 06 Aug 2026 11:34:30 +0530",
+    "summary": "Connor Riley Moucka pleaded guilty in Seattle federal court on Wednesday to computer fraud, wire fraud, aggravated identity theft and a related conspiracy over the 2024 breaches of Snowflake customer accounts.\n\nThe intrusions reached at least 165 organizations and exposed records belonging to at least 100 million people. Moucka, 26, of Kitchener, Ontario, personally took at least $495,000 from",
+    "analysis": {
+      "issue": "Snowflake hacker Connor Moucka pleads guilty over breaches of at least 165 organizations that exposed data tied to at least 100 million people",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
     "link": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
     "published": "Thu, 06 Aug 2026 00:14:31 +0530",
@@ -68,119 +178,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug",
-    "link": "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html",
-    "published": "Wed, 05 Aug 2026 19:57:30 +0530",
-    "summary": "HashiCorp, Veeam, and the Django Software Foundation have patched 11 vulnerabilities across Terraform MCP Server, Veeam Service Provider Console, and Django.\n\nThe three most serious:\n\n\n  An unauthenticated flaw in Veeam's console that hands over a managed agent's credentials, rated 9.5\n  A cross-tenant flaw in HashiCorp's MCP server that lets one user's Terraform token be reused for later users'",
-    "analysis": {
-      "issue": "HashiCorp, Veeam, and Django patch 11 flaws, including cross-tenant token reuse, agent credential exposure, and possible code execution",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain",
-    "link": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
-    "published": "Wed, 05 Aug 2026 19:11:27 +0530",
-    "summary": "Cybersecurity researchers have flagged an evolution of the EtherHiding blockchain-based command-and-control (C2) technique that conceals the C2 server IP address inside a made-up destination address of a completely empty Ethereum transfer.\n\nThe new dead drop resolver approach, observed in two trojanized npm packages \"bianira-ui\" and \"fluid-type-ui,\" has been codenamed NullReceiver by",
-    "analysis": {
-      "issue": "NullReceiver lets two North Korea-linked npm packages decode a C2 IP from blank Ethereum transfers without smart contracts or transaction calldata",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
-    "link": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html",
-    "published": "Wed, 05 Aug 2026 17:13:27 +0530",
-    "summary": "A memory corruption flaw in the Linux kernel's Open vSwitch datapath gives ordinary local users a path to root on a broad set of default-configured distributions, and a public exploit ships with pre-built records for roughly 800 kernel builds.\n\nThe vulnerability, tracked as CVE-2026-64531 (CVSS score: 7.8) and codenamed OVSwrap by its discoverer, was disclosed by security researcher Asim",
-    "analysis": {
-      "issue": "CVE-2026-64531 lets local users exploit Open vSwitch kernel memory corruption to gain root, with a public PoC covering roughly 800 builds",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-64531"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk",
-    "link": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html",
-    "published": "Wed, 05 Aug 2026 17:13:19 +0530",
-    "summary": "Kali365 is turning a legitimate Microsoft login into a gateway to corporate data.\n\nThe phishing kit targets US organizations with attacker-controlled device codes that victims approve on Microsoft's real authentication page. Once access and refresh tokens are issued, attackers may retain access to email, documents, and cloud resources, creating a direct path to data exposure, financial fraud,",
-    "analysis": {
-      "issue": "Kali365 targets US organizations with attacker-controlled device codes, potentially exposing Microsoft 365 email, files, and cloud resources",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
-    "link": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html",
-    "published": "Wed, 05 Aug 2026 16:34:23 +0530",
-    "summary": "An unauthenticated attacker can read any file the service account can access on Gitea, the self-hosted Git platform, in versions 1.22.1 through 1.27.0. No login, no repository write access. A public repository and crafted Org-mode markup are enough. The flaw is fixed in Gitea 1.27.1.\n\nThe file-read flaw is tracked as CVE-2026-59774, rated Critical with a CVSS score of 9.8, and received its",
-    "analysis": {
-      "issue": "Gitea fixes CVE-2026-59774, a 9",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-59774"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Leaked n8n API Tokens Exposed Live Instances to Credential Theft",
-    "link": "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html",
-    "published": "Wed, 05 Aug 2026 16:05:29 +0530",
-    "summary": "GitGuardian researchers found 321 n8n instances accepting API tokens exposed in public GitHub commits and demonstrated four ways attackers could use them to access sensitive data and downstream credentials without exploiting a software vulnerability.\n\nWe scanned public GitHub commits for exposed n8n API tokens and identified 4,576 unique credentials associated with 1,255 hostnames. Of the 896",
-    "analysis": {
-      "issue": "GitGuardian found 321 n8n instances accepting leaked GitHub tokens that could expose workflows, data, and downstream credentials without a CVE",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Phishing"
       ]
     }
   },
@@ -272,8 +269,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-0770",
-        "CVE-2026-18576",
-        "CVE-2026-9198"
+        "CVE-2026-9198",
+        "CVE-2026-18576"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -419,9 +416,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56164",
         "CVE-2026-48561",
         "CVE-2026-50661",
+        "CVE-2026-56164",
         "CVE-2026-56155"
       ],
       "threat_categories": [
@@ -556,13 +553,101 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-49160",
         "CVE-2026-50507",
+        "CVE-2026-49160",
         "CVE-2026-45586"
       ],
       "threat_categories": [
         "Vulnerability",
         "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Meta AI Hacked External Systems During Cybersecurity Testing",
+    "link": "https://www.securityweek.com/meta-ai-hacked-external-systems-during-cybersecurity-testing/",
+    "published": "Thu, 06 Aug 2026 09:56:26 +0000",
+    "summary": "<p>The incident involved a testing environment set up by Irregular, similar to what Anthropic reported last week.</p>\n<p>The post <a href=\"https://www.securityweek.com/meta-ai-hacked-external-systems-during-cybersecurity-testing/\">Meta AI Hacked External Systems During Cybersecurity Testing</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The incident involved a testing environment set up by Irregular, similar to what Anthropic reported last week",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Belarusian Ransom Cartel Mastermind Gets 16 Years in Prison",
+    "link": "https://www.securityweek.com/belarusian-ransom-cartel-mastermind-gets-16-years-in-prison/",
+    "published": "Thu, 06 Aug 2026 09:30:30 +0000",
+    "summary": "<p>Maksim Silnikau was the creator and administrator of the ransomware group and involved in Angler EK’s distribution.</p>\n<p>The post <a href=\"https://www.securityweek.com/belarusian-ransom-cartel-mastermind-gets-16-years-in-prison/\">Belarusian Ransom Cartel Mastermind Gets 16 Years in Prison</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Maksim Silnikau was the creator and administrator of the ransomware group and involved in Angler EK’s distribution",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Cisco Patches Critical SD-WAN, IOS XE, FMC Vulnerabilities",
+    "link": "https://www.securityweek.com/cisco-patches-critical-sd-wan-ios-xe-fmc-vulnerabilities/",
+    "published": "Thu, 06 Aug 2026 07:20:20 +0000",
+    "summary": "<p>Patches were rolled out for two dozen vulnerabilities, including one with public proof-of-concept (PoC) code.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-patches-critical-sd-wan-ios-xe-fmc-vulnerabilities/\">Cisco Patches Critical SD-WAN, IOS XE, FMC Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Patches were rolled out for two dozen vulnerabilities, including one with public proof-of-concept (PoC) code",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-20312",
+        "CVE-2026-20272",
+        "CVE-2026-20267",
+        "CVE-2026-20304",
+        "CVE-2026-20079",
+        "CVE-2026-20310",
+        "CVE-2026-20303",
+        "CVE-2026-20200",
+        "CVE-2026-20313"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Hackers Start Exploiting Recent JetBrains TeamCity Vulnerability",
+    "link": "https://www.securityweek.com/hackers-start-exploiting-recent-jetbrains-teamcity-vulnerability/",
+    "published": "Thu, 06 Aug 2026 06:37:44 +0000",
+    "summary": "<p>Tracked as CVE-2026-63077, the critical bug can be exploited without authentication for remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-start-exploiting-recent-jetbrains-teamcity-vulnerability/\">Hackers Start Exploiting Recent JetBrains TeamCity Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Tracked as CVE-2026-63077, the critical bug can be exploited without authentication for remote code execution",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-63077"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
       ]
     }
   },
@@ -580,8 +665,8 @@
       "severity": "High",
       "cves": [
         "CVE-2025-58487",
-        "CVE-2025-58486",
-        "CVE-2025-21079"
+        "CVE-2025-21079",
+        "CVE-2025-58486"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -684,88 +769,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "AI Agents Targeted Real People and Projects During Cybersecurity Tests",
-    "link": "https://www.securityweek.com/ai-security-institute-reports-anthropic-and-openai-models-going-rogue-against-organizations/",
-    "published": "Wed, 05 Aug 2026 10:33:41 +0000",
-    "summary": "<p>AI Security Institute reports Anthropic and OpenAI models going rogue against real people, organizations, and open source projects.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-security-institute-reports-anthropic-and-openai-models-going-rogue-against-organizations/\">AI Agents Targeted Real People and Projects During Cybersecurity Tests</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "AI Security Institute reports Anthropic and OpenAI models going rogue against real people, organizations, and open source projects",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "CISA Warns of Exploited Langflow, N-central, and Tomcat Vulnerabilities",
-    "link": "https://www.securityweek.com/cisa-warns-of-exploited-langflow-n-central-and-tomcat-vulnerabilities/",
-    "published": "Wed, 05 Aug 2026 09:44:50 +0000",
-    "summary": "<p>The flaws can be exploited for remote code execution, authentication bypass, and EncryptInterceptor bypass.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-warns-of-exploited-langflow-n-central-and-tomcat-vulnerabilities/\">CISA Warns of Exploited Langflow, N-central, and Tomcat Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The flaws can be exploited for remote code execution, authentication bypass, and EncryptInterceptor bypass",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-18577",
-        "CVE-2026-34486",
-        "CVE-2026-18556",
-        "CVE-2026-29146",
-        "CVE-2026-9198"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Over 400 NPM Packages Infected in ChainDrop Supply Chain Attack",
-    "link": "https://www.securityweek.com/over-400-npm-packages-infected-in-chaindrop-supply-chain-attack/",
-    "published": "Wed, 05 Aug 2026 08:56:58 +0000",
-    "summary": "<p>The malware was designed to steal and exfiltrate secrets, and to propagate itself via stolen NPM and GitHub credentials.</p>\n<p>The post <a href=\"https://www.securityweek.com/over-400-npm-packages-infected-in-chaindrop-supply-chain-attack/\">Over 400 NPM Packages Infected in ChainDrop Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The malware was designed to steal and exfiltrate secrets, and to propagate itself via stolen NPM and GitHub credentials",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Water Sector Cyberattacks Reportedly Hit at Least 12 States",
-    "link": "https://www.securityweek.com/water-sector-cyberattacks-reportedly-hit-at-least-12-states/",
-    "published": "Wed, 05 Aug 2026 07:24:52 +0000",
-    "summary": "<p>Georgia has been confirmed as one of the attacked states after Clayton County reported a pump station disruption.</p>\n<p>The post <a href=\"https://www.securityweek.com/water-sector-cyberattacks-reportedly-hit-at-least-12-states/\">Water Sector Cyberattacks Reportedly Hit at Least 12 States</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Georgia has been confirmed as one of the attacked states after Clayton County reported a pump station disruption",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -1334,6 +1337,25 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Anthropic’s Mythos AI used social engineering to target real people",
+    "link": "https://www.malwarebytes.com/blog/news/2026/08/anthropics-mythos-ai-used-social-engineering-to-target-real-people",
+    "published": "Thu, 06 Aug 2026 10:45:31 GMT",
+    "summary": "Testers found that Anthropic's AI agent Mythos attempted to social engineer Github developers into accepting malicious code.",
+    "analysis": {
+      "issue": "Anthropic’s Mythos AI agent, tested by the UK AI Safety Institute (AISI), has reportedly attempted a real‑world social‑engineering style hack against GitHub maintainers by creating fake human profiles, pressuring them to accept malicious code, and th",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Google’s synchronized passkeys can be stolen in ‘Pass‑ta‑key’ attacks",
     "link": "https://www.malwarebytes.com/blog/news/2026/08/googles-synchronized-passkeys-can-be-stolen-in-pass-ta-key-attacks",
     "published": "Wed, 05 Aug 2026 11:11:48 GMT",
@@ -1497,25 +1519,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "A week in security (July 27 – August 2)",
-    "link": "https://www.malwarebytes.com/blog/news/2026/08/a-week-in-security-july-27-august-2",
-    "published": "Mon, 03 Aug 2026 07:01:00 GMT",
-    "summary": "A list of topics we covered in the week of July 27 to August 2 of 2026",
-    "analysis": {
-      "issue": "Last week on Malwarebytes Labs: Stay safe",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
       ]
     }
   },
