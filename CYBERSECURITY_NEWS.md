@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-07 03:28:44 UTC
+**Last Updated:** 2026-08-07 09:32:03 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts](https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html)
+### 1. [TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign](https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 07 Aug 2026 12:20:05 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 2. [New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts](https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 06 Aug 2026 23:28:30 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.8 CVSS Score Bugs](https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html)
+### 3. [Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.9 CVSS Score Bugs](https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 06 Aug 2026 22:43:15 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs](https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html)
+### 4. [New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs](https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 06 Aug 2026 21:47:13 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories](https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html)
+### 5. [ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories](https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 06 Aug 2026 20:54:31 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities](https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html)
+### 6. [Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities](https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 06 Aug 2026 17:46:58 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [CryptoJS Weak RNG Behind $5.7 Million in Drains Affects Five Crypto Wallet Apps](https://thehackernews.com/2026/08/cryptojs-weak-rng-behind-57-million-in.html)
+### 7. [CryptoJS Weak RNG Behind $5.7 Million in Drains Affects Five Crypto Wallet Apps](https://thehackernews.com/2026/08/cryptojs-weak-rng-behind-57-million-in.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 06 Aug 2026 17:19:48 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [Apple iCloud Private Relay Can Expose Real IPs Through WebKit Proxy Bypasses](https://thehackernews.com/2026/08/webkit-proxy-bypasses-can-expose-real.html)
+### 8. [Apple iCloud Private Relay Can Expose Real IPs Through WebKit Proxy Bypasses](https://thehackernews.com/2026/08/webkit-proxy-bypasses-can-expose-real.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 06 Aug 2026 17:03:08 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [AI Recommendation Poisoning: How "Ask AI" Buttons Silently Alter LLM Memory](https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html)
+### 9. [AI Recommendation Poisoning: How "Ask AI" Buttons Silently Alter LLM Memory](https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 06 Aug 2026 17:00:00 +0530  
@@ -76,19 +85,10 @@
 
 ---
 
-### 9. [Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access](https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html)
+### 10. [Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access](https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 06 Aug 2026 14:49:23 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model](https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 06 Aug 2026 14:27:30 +0530  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -126,7 +126,7 @@
 **Source:** Bleeping Computer  
 **Published:** Thu, 06 Aug 2026 14:14:19 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50522, CVE-2026-56164  
+**CVEs:** CVE-2026-56164, CVE-2026-50522  
 **Categories:** Vulnerability  
 
 ---
@@ -217,7 +217,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56155, CVE-2026-48561, CVE-2026-56164, CVE-2026-50661  
+**CVEs:** CVE-2026-56164, CVE-2026-50661, CVE-2026-48561, CVE-2026-56155  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -276,7 +276,45 @@
 
 ---
 
-### 31. [Snowflake Hacker Pleads Guilty in US Court](https://www.securityweek.com/snowflake-hacker-pleads-guilty-in-us-court/)
+### 31. [Black Hat USA 2026 – Summary of Vendor Announcements (Part 4)](https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-4/)
+
+**Source:** Security Week  
+**Published:** Fri, 07 Aug 2026 09:24:22 +0000  
+**Severity:** Low  
+**CVEs:** CVE-2026-56181, CVE-2026-63913  
+**Categories:** Vulnerability, APT, DDoS, Supply Chain  
+
+---
+
+### 32. [Microsoft, Apple Release Fresh Security Updates](https://www.securityweek.com/microsoft-apple-release-fresh-security-updates/)
+
+**Source:** Security Week  
+**Published:** Fri, 07 Aug 2026 09:09:54 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-50515, CVE-2026-56162, CVE-2026-62830, CVE-2026-59115, CVE-2026-65400, CVE-2026-65667, CVE-2026-63508, CVE-2026-50481  
+**Categories:** Vulnerability  
+
+---
+
+### 33. [3.8 Million Impacted by Unlimited Technology Systems Data Breach](https://www.securityweek.com/3-8-million-impacted-by-unlimited-technology-systems-data-breach/)
+
+**Source:** Security Week  
+**Published:** Fri, 07 Aug 2026 07:22:05 +0000  
+**Severity:** Low  
+**Categories:** Ransomware, Data Breach  
+
+---
+
+### 34. [Critical Vulnerabilities Patched With Chrome 151 Update](https://www.securityweek.com/critical-vulnerabilities-patched-with-chrome-151-update/)
+
+**Source:** Security Week  
+**Published:** Fri, 07 Aug 2026 06:56:56 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 35. [Snowflake Hacker Pleads Guilty in US Court](https://www.securityweek.com/snowflake-hacker-pleads-guilty-in-us-court/)
 
 **Source:** Security Week  
 **Published:** Thu, 06 Aug 2026 14:56:31 +0000  
@@ -285,7 +323,7 @@
 
 ---
 
-### 32. [Zero-Click AI Browser Hacking: Claude and ChatGPT Atlas Hijacked via Emails, X Posts](https://www.securityweek.com/zero-click-ai-browser-hacking-claude-and-chatgpt-atlas-hijacked-via-emails-x-posts/)
+### 36. [Zero-Click AI Browser Hacking: Claude and ChatGPT Atlas Hijacked via Emails, X Posts](https://www.securityweek.com/zero-click-ai-browser-hacking-claude-and-chatgpt-atlas-hijacked-via-emails-x-posts/)
 
 **Source:** Security Week  
 **Published:** Thu, 06 Aug 2026 12:54:09 +0000  
@@ -294,7 +332,7 @@
 
 ---
 
-### 33. [Podcast: Compliance Won’t Save You: The Future of Cyber Risk with Edna Conway](https://www.securityweek.com/podcast-compliance-wont-save-you-the-future-of-cyber-risk-with-edna-conway/)
+### 37. [Podcast: Compliance Won’t Save You: The Future of Cyber Risk with Edna Conway](https://www.securityweek.com/podcast-compliance-wont-save-you-the-future-of-cyber-risk-with-edna-conway/)
 
 **Source:** Security Week  
 **Published:** Thu, 06 Aug 2026 12:00:00 +0000  
@@ -303,7 +341,7 @@
 
 ---
 
-### 34. [Critical Paperclip Flaw Allowed Admin Access, Code Execution](https://www.securityweek.com/critical-paperclip-flaw-allowed-admin-access-code-execution/)
+### 38. [Critical Paperclip Flaw Allowed Admin Access, Code Execution](https://www.securityweek.com/critical-paperclip-flaw-allowed-admin-access-code-execution/)
 
 **Source:** Security Week  
 **Published:** Thu, 06 Aug 2026 11:09:11 +0000  
@@ -313,7 +351,7 @@
 
 ---
 
-### 35. [Meta AI Hacked External Systems During Cybersecurity Testing](https://www.securityweek.com/meta-ai-hacked-external-systems-during-cybersecurity-testing/)
+### 39. [Meta AI Hacked External Systems During Cybersecurity Testing](https://www.securityweek.com/meta-ai-hacked-external-systems-during-cybersecurity-testing/)
 
 **Source:** Security Week  
 **Published:** Thu, 06 Aug 2026 09:56:26 +0000  
@@ -322,51 +360,12 @@
 
 ---
 
-### 36. [Belarusian Ransom Cartel Mastermind Gets 16 Years in Prison](https://www.securityweek.com/belarusian-ransom-cartel-mastermind-gets-16-years-in-prison/)
+### 40. [Belarusian Ransom Cartel Mastermind Gets 16 Years in Prison](https://www.securityweek.com/belarusian-ransom-cartel-mastermind-gets-16-years-in-prison/)
 
 **Source:** Security Week  
 **Published:** Thu, 06 Aug 2026 09:30:30 +0000  
 **Severity:** Low  
 **Categories:** Ransomware, Vulnerability, Malware  
-
----
-
-### 37. [Cisco Patches Critical SD-WAN, IOS XE, FMC Vulnerabilities](https://www.securityweek.com/cisco-patches-critical-sd-wan-ios-xe-fmc-vulnerabilities/)
-
-**Source:** Security Week  
-**Published:** Thu, 06 Aug 2026 07:20:20 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-20312, CVE-2026-20079, CVE-2026-20303, CVE-2026-20267, CVE-2026-20310, CVE-2026-20313, CVE-2026-20272, CVE-2026-20200, CVE-2026-20304  
-**Categories:** Vulnerability  
-
----
-
-### 38. [Hackers Start Exploiting Recent JetBrains TeamCity Vulnerability](https://www.securityweek.com/hackers-start-exploiting-recent-jetbrains-teamcity-vulnerability/)
-
-**Source:** Security Week  
-**Published:** Thu, 06 Aug 2026 06:37:44 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-63077  
-**Categories:** Vulnerability, Malware  
-
----
-
-### 39. [How a $50,000 Exploit Chain Turned Bixby Against Samsung Phones](https://www.securityweek.com/how-a-50000-exploit-chain-turned-bixby-against-samsung-phones/)
-
-**Source:** Security Week  
-**Published:** Wed, 05 Aug 2026 19:40:00 +0000  
-**Severity:** High  
-**CVEs:** CVE-2025-21079, CVE-2025-58486, CVE-2025-58487  
-**Categories:** Vulnerability  
-
----
-
-### 40. [Black Hat USA 2026 – Summary of Vendor Announcements (Part 3)](https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-3/)
-
-**Source:** Security Week  
-**Published:** Wed, 05 Aug 2026 14:36:29 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, Malware, APT, Supply Chain  
 
 ---
 

@@ -1,6 +1,25 @@
 [
   {
     "source": "The Hacker News",
+    "title": "TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign",
+    "link": "https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html",
+    "published": "Fri, 07 Aug 2026 12:20:05 +0530",
+    "summary": "A new analysis has uncovered that the threat actor tracked as TeamPCP has been active on the cybercrime scene as far back as 2020, indicating the group has been compromising internet-facing infrastructure for years before training their sights on the software supply chain.\n\n\"The connection is supported by overlapping domains, malware deployment paths, staging techniques, backend infrastructure,",
+    "analysis": {
+      "issue": "Oligo links TeamPCP activity back to Redis attacks in 2020, tracing its shift from cloud exploitation to open-source supply chain compromises",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts",
     "link": "https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html",
     "published": "Thu, 06 Aug 2026 23:28:30 +0530",
@@ -19,7 +38,7 @@
   },
   {
     "source": "The Hacker News",
-    "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.8 CVSS Score Bugs",
+    "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.9 CVSS Score Bugs",
     "link": "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
     "published": "Thu, 06 Aug 2026 22:43:15 +0530",
     "summary": "Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review.\n\nThe security issues affect Cisco Catalyst SD-WAN Software, regardless of device configuration, and Cisco IOS XE Software when it is running in autonomous or controller mode.\n\n\"These vulnerabilities were found",
@@ -164,24 +183,6 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model",
-    "link": "https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html",
-    "published": "Thu, 06 Aug 2026 14:27:30 +0530",
-    "summary": "Security flaws in agent infrastructure from Amazon Web Services (AWS), Google, and Vercel let untrusted or forged instructions reach an agent's tools with no check that a model turn had authorized them.\n\nIn several of the attack paths, the model never ran at all, so system prompts, content filters, and model-level guardrails never got a chance to intervene.\n\nThe affected products include Amazon",
-    "analysis": {
-      "issue": "AI agent flaws in AWS, Google, and Vercel let forged tool calls reach tools without model authorization, while several paths skip the model entirely",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
     "title": "OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/",
@@ -248,8 +249,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50522",
-        "CVE-2026-56164"
+        "CVE-2026-56164",
+        "CVE-2026-50522"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -436,10 +437,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56155",
-        "CVE-2026-48561",
         "CVE-2026-56164",
-        "CVE-2026-50661"
+        "CVE-2026-50661",
+        "CVE-2026-48561",
+        "CVE-2026-56155"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -562,6 +563,94 @@
   },
   {
     "source": "Security Week",
+    "title": "Black Hat USA 2026 – Summary of Vendor Announcements (Part 4)",
+    "link": "https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-4/",
+    "published": "Fri, 07 Aug 2026 09:24:22 +0000",
+    "summary": "<p>Companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas.</p>\n<p>The post <a href=\"https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-4/\">Black Hat USA 2026 – Summary of Vendor Announcements (Part 4)</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-56181",
+        "CVE-2026-63913"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "APT",
+        "DDoS",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Microsoft, Apple Release Fresh Security Updates",
+    "link": "https://www.securityweek.com/microsoft-apple-release-fresh-security-updates/",
+    "published": "Fri, 07 Aug 2026 09:09:54 +0000",
+    "summary": "<p>Microsoft fixed critical vulnerabilities across Azure, Entra, and SharePoint, while Apple patched a high-severity authentication bypass.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-apple-release-fresh-security-updates/\">Microsoft, Apple Release Fresh Security Updates</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Microsoft fixed critical vulnerabilities across Azure, Entra, and SharePoint, while Apple patched a high-severity authentication bypass",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-50515",
+        "CVE-2026-56162",
+        "CVE-2026-62830",
+        "CVE-2026-59115",
+        "CVE-2026-65400",
+        "CVE-2026-65667",
+        "CVE-2026-63508",
+        "CVE-2026-50481"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "3.8 Million Impacted by Unlimited Technology Systems Data Breach",
+    "link": "https://www.securityweek.com/3-8-million-impacted-by-unlimited-technology-systems-data-breach/",
+    "published": "Fri, 07 Aug 2026 07:22:05 +0000",
+    "summary": "<p>Hackers stole personal, medical, and health insurance information from a company’s data center.</p>\n<p>The post <a href=\"https://www.securityweek.com/3-8-million-impacted-by-unlimited-technology-systems-data-breach/\">3.8 Million Impacted by Unlimited Technology Systems Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Hackers stole personal, medical, and health insurance information from a company’s data center",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Critical Vulnerabilities Patched With Chrome 151 Update",
+    "link": "https://www.securityweek.com/critical-vulnerabilities-patched-with-chrome-151-update/",
+    "published": "Fri, 07 Aug 2026 06:56:56 +0000",
+    "summary": "<p>The browser refresh eliminates over two dozen memory safety bugs, including critical use-after-free flaws.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-vulnerabilities-patched-with-chrome-151-update/\">Critical Vulnerabilities Patched With Chrome 151 Update</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The browser refresh eliminates over two dozen memory safety bugs, including critical use-after-free flaws",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Snowflake Hacker Pleads Guilty in US Court",
     "link": "https://www.securityweek.com/snowflake-hacker-pleads-guilty-in-us-court/",
     "published": "Thu, 06 Aug 2026 14:56:31 +0000",
@@ -673,98 +762,6 @@
         "Ransomware",
         "Vulnerability",
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Cisco Patches Critical SD-WAN, IOS XE, FMC Vulnerabilities",
-    "link": "https://www.securityweek.com/cisco-patches-critical-sd-wan-ios-xe-fmc-vulnerabilities/",
-    "published": "Thu, 06 Aug 2026 07:20:20 +0000",
-    "summary": "<p>Patches were rolled out for two dozen vulnerabilities, including one with public proof-of-concept (PoC) code.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-patches-critical-sd-wan-ios-xe-fmc-vulnerabilities/\">Cisco Patches Critical SD-WAN, IOS XE, FMC Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Patches were rolled out for two dozen vulnerabilities, including one with public proof-of-concept (PoC) code",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-20312",
-        "CVE-2026-20079",
-        "CVE-2026-20303",
-        "CVE-2026-20267",
-        "CVE-2026-20310",
-        "CVE-2026-20313",
-        "CVE-2026-20272",
-        "CVE-2026-20200",
-        "CVE-2026-20304"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Hackers Start Exploiting Recent JetBrains TeamCity Vulnerability",
-    "link": "https://www.securityweek.com/hackers-start-exploiting-recent-jetbrains-teamcity-vulnerability/",
-    "published": "Thu, 06 Aug 2026 06:37:44 +0000",
-    "summary": "<p>Tracked as CVE-2026-63077, the critical bug can be exploited without authentication for remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-start-exploiting-recent-jetbrains-teamcity-vulnerability/\">Hackers Start Exploiting Recent JetBrains TeamCity Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Tracked as CVE-2026-63077, the critical bug can be exploited without authentication for remote code execution",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-63077"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "How a $50,000 Exploit Chain Turned Bixby Against Samsung Phones",
-    "link": "https://www.securityweek.com/how-a-50000-exploit-chain-turned-bixby-against-samsung-phones/",
-    "published": "Wed, 05 Aug 2026 19:40:00 +0000",
-    "summary": "<p>The chain involved the exploitation of several vulnerabilities in the Samsung Members and Samsung Account applications.</p>\n<p>The post <a href=\"https://www.securityweek.com/how-a-50000-exploit-chain-turned-bixby-against-samsung-phones/\">How a $50,000 Exploit Chain Turned Bixby Against Samsung Phones </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The chain involved the exploitation of several vulnerabilities in the Samsung Members and Samsung Account applications",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2025-21079",
-        "CVE-2025-58486",
-        "CVE-2025-58487"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Black Hat USA 2026 – Summary of Vendor Announcements (Part 3)",
-    "link": "https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-3/",
-    "published": "Wed, 05 Aug 2026 14:36:29 +0000",
-    "summary": "<p>Many companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas.</p>\n<p>The post <a href=\"https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-3/\">Black Hat USA 2026 – Summary of Vendor Announcements (Part 3)</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Many companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "APT",
-        "Supply Chain"
       ]
     }
   },
