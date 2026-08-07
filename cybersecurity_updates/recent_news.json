@@ -1,6 +1,26 @@
 [
   {
     "source": "The Hacker News",
+    "title": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP",
+    "link": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
+    "published": "Fri, 07 Aug 2026 18:26:23 +0530",
+    "summary": "WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system. pwn.ai demonstrated how the flaw can be chained into PHP code execution on the server when a logged-in administrator interacts with an attacker-controlled page.\n\nTracked as&nbsp;CVE-2026-64638&nbsp;(CVSS score: 8.9), the",
+    "analysis": {
+      "issue": "WordPress fixes CVE-2026-64638, a pre-auth login XSS affecting every version, with a demonstrated path to PHP execution under specific conditions",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-64638"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Growing Up The Hard Way",
     "link": "https://thehackernews.com/2026/08/growing-up-hard-way.html",
     "published": "Fri, 07 Aug 2026 17:25:26 +0530",
@@ -165,13 +185,49 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.9 CVSS Score Bugs",
-    "link": "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
-    "published": "Thu, 06 Aug 2026 22:43:15 +0530",
-    "summary": "Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review.\n\nThe security issues affect Cisco Catalyst SD-WAN Software, regardless of device configuration, and Cisco IOS XE Software when it is running in autonomous or controller mode.\n\n\"These vulnerabilities were found",
+    "source": "Bleeping Computer",
+    "title": "Levi Strauss & Co. says hackers stole corporate data in cyberattack",
+    "link": "https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/",
+    "published": "Fri, 07 Aug 2026 11:48:20 -0400",
+    "summary": "Levi Strauss & Co. (Levi's) says that hackers used social engineering on three of its employees to gain access to and steal corporate data stored on their machines. [...]",
     "analysis": {
-      "issue": "Cisco patches 12 Catalyst SD-WAN and IOS XE flaws, including three 9",
+      "issue": "(Levi’s) says that hackers used social engineering on three of its employees to gain access to and steal corporate data stored on their machines",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Real emails, hijacked payments: Two H1 2026 attack chains",
+    "link": "https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/",
+    "published": "Fri, 07 Aug 2026 10:00:10 -0400",
+    "summary": "Gen's H1 2026 Threat Report examines two separate attack chains. One used compromised business inboxes and browser manipulation in a banking-malware campaign, while the other used clipboard hijacking to redirect cryptocurrency payments. [...]",
+    "analysis": {
+      "issue": "Gen Threat Labs followed two H1 2026 campaigns where attackers used legitimate accounts, browser settings and blockchain data as part of the attack path",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "North Carolina Ports confirms cyberattack disrupting operations",
+    "link": "https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/",
+    "published": "Fri, 07 Aug 2026 09:34:40 -0400",
+    "summary": "The North Carolina Ports Authority has confirmed that a cyberattack disrupted IT systems and slowed operations at Port of Wilmington, Port of Morehead City, and Charlotte Inland Port. [...]",
+    "analysis": {
+      "issue": "The North Carolina Ports Authority has confirmed that a cyberattack disrupted IT systems and slowed operations at the Port of Wilmington, Port of Morehead City, and Charlotte Inland Port",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -249,8 +305,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50522",
-        "CVE-2026-56164"
+        "CVE-2026-56164",
+        "CVE-2026-50522"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -310,61 +366,6 @@
       "threat_categories": [
         "APT",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Ransom Cartel ransomware creator sentenced to 16 years in prison",
-    "link": "https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/",
-    "published": "Wed, 05 Aug 2026 19:00:50 -0400",
-    "summary": "Maksim Silnikau, the creator and administrator of the Ransom Cartel ransomware operation, was sentenced to 16 years in prison for his role in ransomware attacks against at least 18 companies worldwide. [...]",
-    "analysis": {
-      "issue": "Maksim Silnikau, the creator and administrator of the Ransom Cartel ransomware operation, was sentenced to 16 years in prison for his role in ransomware attacks against at least 18 companies worldwide",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Canadian pleads guilty to Snowflake cloud data-theft attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/",
-    "published": "Wed, 05 Aug 2026 17:53:26 -0400",
-    "summary": "A Canadian man pleaded guilty today to his role in accessing company accounts at cloud storage provider Snowflake and stealing data from at least 165 organizations in a scheme to extort millions of dollars from victims. [...]",
-    "analysis": {
-      "issue": "A Canadian man pleaded guilty today to his role in accessing company accounts at cloud storage provider Snowflake and stealing data from at least 165 organizations in a scheme to extort millions of dollars from victims",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers run khunt post-exploitation toolkit from Oracle database",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
-    "published": "Wed, 05 Aug 2026 15:55:25 -0400",
-    "summary": "Hackers exploited a SQL injection vulnerability to install a post-exploitation toolkit directly inside an Oracle database that was used to breach a corporate network. [...]",
-    "analysis": {
-      "issue": "Hackers exploited a SQL injection vulnerability to install a post-exploitation toolkit directly inside an Oracle database that was used to breach a corporate network",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Phishing"
       ]
     }
   },
@@ -437,10 +438,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56155",
-        "CVE-2026-48561",
+        "CVE-2026-56164",
         "CVE-2026-50661",
-        "CVE-2026-56164"
+        "CVE-2026-56155",
+        "CVE-2026-48561"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -563,6 +564,27 @@
   },
   {
     "source": "Security Week",
+    "title": "In Other News: AI Slop Limits Apple Bounties, North Carolina Port Attacks, Hackers Target Wall Street",
+    "link": "https://www.securityweek.com/in-other-news-ai-slop-limits-apple-bounties-north-carolina-port-attacks-hackers-target-wall-street/",
+    "published": "Fri, 07 Aug 2026 14:26:42 +0000",
+    "summary": "<p>Noteworthy stories that might have slipped under the radar: ban on Chinese data center tech, QuickFox VPN supply chain attack, IEH Corporation mailbox breached via phishing.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-ai-slop-limits-apple-bounties-north-carolina-port-attacks-hackers-target-wall-street/\">In Other News: AI Slop Limits Apple Bounties, North Carolina Port Attacks, Hackers Target Wall Street</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Noteworthy stories that might have slipped under the radar: ban on Chinese data center tech, QuickFox VPN supply chain attack, IEH Corporation mailbox breached via phishing",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Phishing",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Vishing Extortion Group UNC6671 Rebrands After Making Millions",
     "link": "https://www.securityweek.com/vishing-extortion-group-unc6671-rebrands-after-making-millions/",
     "published": "Fri, 07 Aug 2026 11:06:01 +0000",
@@ -635,14 +657,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50481",
-        "CVE-2026-65667",
-        "CVE-2026-65400",
         "CVE-2026-63508",
-        "CVE-2026-50515",
         "CVE-2026-56162",
         "CVE-2026-62830",
-        "CVE-2026-59115"
+        "CVE-2026-65667",
+        "CVE-2026-65400",
+        "CVE-2026-59115",
+        "CVE-2026-50515",
+        "CVE-2026-50481"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -739,27 +761,6 @@
       "threat_categories": [
         "APT",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Critical Paperclip Flaw Allowed Admin Access, Code Execution",
-    "link": "https://www.securityweek.com/critical-paperclip-flaw-allowed-admin-access-code-execution/",
-    "published": "Thu, 06 Aug 2026 11:09:11 +0000",
-    "summary": "<p>An attacker could self-register, sign in for board-level API access, and import a new company for code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-paperclip-flaw-allowed-admin-access-code-execution/\">Critical Paperclip Flaw Allowed Admin Access, Code Execution</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "An attacker could self-register, sign in for board-level API access, and import a new company for code execution",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-41679"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "APT"
       ]
     }
   },

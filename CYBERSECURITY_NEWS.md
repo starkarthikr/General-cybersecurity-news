@@ -1,10 +1,20 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-07 13:15:38 UTC
+**Last Updated:** 2026-08-07 17:24:03 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Growing Up The Hard Way](https://thehackernews.com/2026/08/growing-up-hard-way.html)
+### 1. [New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP](https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 07 Aug 2026 18:26:23 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-64638  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Growing Up The Hard Way](https://thehackernews.com/2026/08/growing-up-hard-way.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 07 Aug 2026 17:25:26 +0530  
@@ -13,7 +23,7 @@
 
 ---
 
-### 2. [18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers](https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html)
+### 3. [18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers](https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 07 Aug 2026 16:40:33 +0530  
@@ -23,7 +33,7 @@
 
 ---
 
-### 3. [New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables](https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html)
+### 4. [New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables](https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 07 Aug 2026 16:28:38 +0530  
@@ -32,7 +42,7 @@
 
 ---
 
-### 4. [Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails](https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html)
+### 5. [Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails](https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 07 Aug 2026 16:08:27 +0530  
@@ -41,7 +51,7 @@
 
 ---
 
-### 5. [AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day](https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html)
+### 6. [AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day](https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 07 Aug 2026 15:39:54 +0530  
@@ -50,7 +60,7 @@
 
 ---
 
-### 6. [Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access](https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html)
+### 7. [Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access](https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 07 Aug 2026 14:22:11 +0530  
@@ -59,7 +69,7 @@
 
 ---
 
-### 7. [Claude Code and Gemini CLI Flaws Let a GitHub Issue Reach CI Workflow Secrets](https://thehackernews.com/2026/08/claude-code-and-gemini-cli-flaws-let.html)
+### 8. [Claude Code and Gemini CLI Flaws Let a GitHub Issue Reach CI Workflow Secrets](https://thehackernews.com/2026/08/claude-code-and-gemini-cli-flaws-let.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 07 Aug 2026 13:48:35 +0530  
@@ -68,7 +78,7 @@
 
 ---
 
-### 8. [TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign](https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html)
+### 9. [TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign](https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 07 Aug 2026 12:20:05 +0530  
@@ -77,7 +87,7 @@
 
 ---
 
-### 9. [New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts](https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html)
+### 10. [New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts](https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 06 Aug 2026 23:28:30 +0530  
@@ -86,16 +96,34 @@
 
 ---
 
-### 10. [Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.9 CVSS Score Bugs](https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html)
+### 11. [Levi Strauss & Co. says hackers stole corporate data in cyberattack](https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 06 Aug 2026 22:43:15 +0530  
+**Source:** Bleeping Computer  
+**Published:** Fri, 07 Aug 2026 11:48:20 -0400  
+**Severity:** Low  
+**Categories:** Supply Chain  
+
+---
+
+### 12. [Real emails, hijacked payments: Two H1 2026 attack chains](https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 07 Aug 2026 10:00:10 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 13. [North Carolina Ports confirms cyberattack disrupting operations](https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 07 Aug 2026 09:34:40 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 11. [OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/)
+### 14. [OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 06 Aug 2026 18:48:22 -0400  
@@ -104,7 +132,7 @@
 
 ---
 
-### 12. [ClickFix attack pushes macOS infostealer for crypto theft attacks](https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/)
+### 15. [ClickFix attack pushes macOS infostealer for crypto theft attacks](https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 06 Aug 2026 18:37:17 -0400  
@@ -113,7 +141,7 @@
 
 ---
 
-### 13. [Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group](https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/)
+### 16. [Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group](https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 06 Aug 2026 16:07:24 -0400  
@@ -122,17 +150,17 @@
 
 ---
 
-### 14. [Swiss government SharePoint breach compromised 200 accounts](https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/)
+### 17. [Swiss government SharePoint breach compromised 200 accounts](https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 06 Aug 2026 14:14:19 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50522, CVE-2026-56164  
+**CVEs:** CVE-2026-56164, CVE-2026-50522  
 **Categories:** Vulnerability  
 
 ---
 
-### 15. [New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes](https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/)
+### 18. [New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes](https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 06 Aug 2026 14:03:45 -0400  
@@ -141,7 +169,7 @@
 
 ---
 
-### 16. [Meta AI model hacked a company during misconfigured cyber test](https://www.bleepingcomputer.com/news/security/meta-ai-model-hacked-a-company-during-misconfigured-cyber-test/)
+### 19. [Meta AI model hacked a company during misconfigured cyber test](https://www.bleepingcomputer.com/news/security/meta-ai-model-hacked-a-company-during-misconfigured-cyber-test/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 06 Aug 2026 12:11:39 -0400  
@@ -150,39 +178,12 @@
 
 ---
 
-### 17. [How AI Exposed a Browser Security Gap that Enterprises Cannot Ignore](https://www.bleepingcomputer.com/news/security/how-ai-exposed-a-browser-security-gap-that-enterprises-cannot-ignore/)
+### 20. [How AI Exposed a Browser Security Gap that Enterprises Cannot Ignore](https://www.bleepingcomputer.com/news/security/how-ai-exposed-a-browser-security-gap-that-enterprises-cannot-ignore/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 06 Aug 2026 10:02:12 -0400  
 **Severity:** Critical  
 **Categories:** APT, Supply Chain  
-
----
-
-### 18. [Ransom Cartel ransomware creator sentenced to 16 years in prison](https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 05 Aug 2026 19:00:50 -0400  
-**Severity:** Low  
-**Categories:** Ransomware  
-
----
-
-### 19. [Canadian pleads guilty to Snowflake cloud data-theft attacks](https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 05 Aug 2026 17:53:26 -0400  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 20. [Hackers run khunt post-exploitation toolkit from Oracle database](https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 05 Aug 2026 15:55:25 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability, Phishing  
 
 ---
 
@@ -218,7 +219,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56155, CVE-2026-48561, CVE-2026-50661, CVE-2026-56164  
+**CVEs:** CVE-2026-56164, CVE-2026-50661, CVE-2026-56155, CVE-2026-48561  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -277,7 +278,16 @@
 
 ---
 
-### 31. [Vishing Extortion Group UNC6671 Rebrands After Making Millions](https://www.securityweek.com/vishing-extortion-group-unc6671-rebrands-after-making-millions/)
+### 31. [In Other News: AI Slop Limits Apple Bounties, North Carolina Port Attacks, Hackers Target Wall Street](https://www.securityweek.com/in-other-news-ai-slop-limits-apple-bounties-north-carolina-port-attacks-hackers-target-wall-street/)
+
+**Source:** Security Week  
+**Published:** Fri, 07 Aug 2026 14:26:42 +0000  
+**Severity:** High  
+**Categories:** Vulnerability, Malware, Phishing, Supply Chain  
+
+---
+
+### 32. [Vishing Extortion Group UNC6671 Rebrands After Making Millions](https://www.securityweek.com/vishing-extortion-group-unc6671-rebrands-after-making-millions/)
 
 **Source:** Security Week  
 **Published:** Fri, 07 Aug 2026 11:06:01 +0000  
@@ -286,7 +296,7 @@
 
 ---
 
-### 32. [Truck Brake Controller’s Safety Recall Doubled as Hidden Security Fix](https://www.securityweek.com/truck-brake-controllers-safety-recall-doubled-as-hidden-security-fix/)
+### 33. [Truck Brake Controller’s Safety Recall Doubled as Hidden Security Fix](https://www.securityweek.com/truck-brake-controllers-safety-recall-doubled-as-hidden-security-fix/)
 
 **Source:** Security Week  
 **Published:** Fri, 07 Aug 2026 10:00:00 +0000  
@@ -295,7 +305,7 @@
 
 ---
 
-### 33. [Black Hat USA 2026 – Summary of Vendor Announcements (Part 4)](https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-4/)
+### 34. [Black Hat USA 2026 – Summary of Vendor Announcements (Part 4)](https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-4/)
 
 **Source:** Security Week  
 **Published:** Fri, 07 Aug 2026 09:24:22 +0000  
@@ -305,17 +315,17 @@
 
 ---
 
-### 34. [Microsoft, Apple Release Fresh Security Updates](https://www.securityweek.com/microsoft-apple-release-fresh-security-updates/)
+### 35. [Microsoft, Apple Release Fresh Security Updates](https://www.securityweek.com/microsoft-apple-release-fresh-security-updates/)
 
 **Source:** Security Week  
 **Published:** Fri, 07 Aug 2026 09:09:54 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50481, CVE-2026-65667, CVE-2026-65400, CVE-2026-63508, CVE-2026-50515, CVE-2026-56162, CVE-2026-62830, CVE-2026-59115  
+**CVEs:** CVE-2026-63508, CVE-2026-56162, CVE-2026-62830, CVE-2026-65667, CVE-2026-65400, CVE-2026-59115, CVE-2026-50515, CVE-2026-50481  
 **Categories:** Vulnerability  
 
 ---
 
-### 35. [3.8 Million Impacted by Unlimited Technology Systems Data Breach](https://www.securityweek.com/3-8-million-impacted-by-unlimited-technology-systems-data-breach/)
+### 36. [3.8 Million Impacted by Unlimited Technology Systems Data Breach](https://www.securityweek.com/3-8-million-impacted-by-unlimited-technology-systems-data-breach/)
 
 **Source:** Security Week  
 **Published:** Fri, 07 Aug 2026 07:22:05 +0000  
@@ -324,7 +334,7 @@
 
 ---
 
-### 36. [Critical Vulnerabilities Patched With Chrome 151 Update](https://www.securityweek.com/critical-vulnerabilities-patched-with-chrome-151-update/)
+### 37. [Critical Vulnerabilities Patched With Chrome 151 Update](https://www.securityweek.com/critical-vulnerabilities-patched-with-chrome-151-update/)
 
 **Source:** Security Week  
 **Published:** Fri, 07 Aug 2026 06:56:56 +0000  
@@ -333,7 +343,7 @@
 
 ---
 
-### 37. [Snowflake Hacker Pleads Guilty in US Court](https://www.securityweek.com/snowflake-hacker-pleads-guilty-in-us-court/)
+### 38. [Snowflake Hacker Pleads Guilty in US Court](https://www.securityweek.com/snowflake-hacker-pleads-guilty-in-us-court/)
 
 **Source:** Security Week  
 **Published:** Thu, 06 Aug 2026 14:56:31 +0000  
@@ -342,7 +352,7 @@
 
 ---
 
-### 38. [Zero-Click AI Browser Hacking: Claude and ChatGPT Atlas Hijacked via Emails, X Posts](https://www.securityweek.com/zero-click-ai-browser-hacking-claude-and-chatgpt-atlas-hijacked-via-emails-x-posts/)
+### 39. [Zero-Click AI Browser Hacking: Claude and ChatGPT Atlas Hijacked via Emails, X Posts](https://www.securityweek.com/zero-click-ai-browser-hacking-claude-and-chatgpt-atlas-hijacked-via-emails-x-posts/)
 
 **Source:** Security Week  
 **Published:** Thu, 06 Aug 2026 12:54:09 +0000  
@@ -351,22 +361,12 @@
 
 ---
 
-### 39. [Podcast: Compliance Won’t Save You: The Future of Cyber Risk with Edna Conway](https://www.securityweek.com/podcast-compliance-wont-save-you-the-future-of-cyber-risk-with-edna-conway/)
+### 40. [Podcast: Compliance Won’t Save You: The Future of Cyber Risk with Edna Conway](https://www.securityweek.com/podcast-compliance-wont-save-you-the-future-of-cyber-risk-with-edna-conway/)
 
 **Source:** Security Week  
 **Published:** Thu, 06 Aug 2026 12:00:00 +0000  
 **Severity:** Critical  
 **Categories:** APT, Supply Chain  
-
----
-
-### 40. [Critical Paperclip Flaw Allowed Admin Access, Code Execution](https://www.securityweek.com/critical-paperclip-flaw-allowed-admin-access-code-execution/)
-
-**Source:** Security Week  
-**Published:** Thu, 06 Aug 2026 11:09:11 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-41679  
-**Categories:** Vulnerability, APT  
 
 ---
 
