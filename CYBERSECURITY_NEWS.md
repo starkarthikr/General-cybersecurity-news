@@ -1,10 +1,46 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-06 14:24:57 UTC
+**Last Updated:** 2026-08-07 02:53:44 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities](https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html)
+### 1. [New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts](https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 06 Aug 2026 23:28:30 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.8 CVSS Score Bugs](https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 06 Aug 2026 22:43:15 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs](https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 06 Aug 2026 21:47:13 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 4. [ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories](https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 06 Aug 2026 20:54:31 +0530  
+**Severity:** Low  
+**Categories:** Ransomware, Malware, Phishing  
+
+---
+
+### 5. [Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities](https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 06 Aug 2026 17:46:58 +0530  
@@ -13,7 +49,7 @@
 
 ---
 
-### 2. [CryptoJS Weak RNG Behind $5.7 Million in Drains Affects Five Crypto Wallet Apps](https://thehackernews.com/2026/08/cryptojs-weak-rng-behind-57-million-in.html)
+### 6. [CryptoJS Weak RNG Behind $5.7 Million in Drains Affects Five Crypto Wallet Apps](https://thehackernews.com/2026/08/cryptojs-weak-rng-behind-57-million-in.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 06 Aug 2026 17:19:48 +0530  
@@ -22,7 +58,7 @@
 
 ---
 
-### 3. [Apple iCloud Private Relay Can Expose Real IPs Through WebKit Proxy Bypasses](https://thehackernews.com/2026/08/webkit-proxy-bypasses-can-expose-real.html)
+### 7. [Apple iCloud Private Relay Can Expose Real IPs Through WebKit Proxy Bypasses](https://thehackernews.com/2026/08/webkit-proxy-bypasses-can-expose-real.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 06 Aug 2026 17:03:08 +0530  
@@ -31,7 +67,7 @@
 
 ---
 
-### 4. [AI Recommendation Poisoning: How "Ask AI" Buttons Silently Alter LLM Memory](https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html)
+### 8. [AI Recommendation Poisoning: How "Ask AI" Buttons Silently Alter LLM Memory](https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 06 Aug 2026 17:00:00 +0530  
@@ -40,7 +76,7 @@
 
 ---
 
-### 5. [Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access](https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html)
+### 9. [Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access](https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 06 Aug 2026 14:49:23 +0530  
@@ -49,7 +85,7 @@
 
 ---
 
-### 6. [AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model](https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html)
+### 10. [AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model](https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 06 Aug 2026 14:27:30 +0530  
@@ -58,44 +94,62 @@
 
 ---
 
-### 7. [Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells](https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html)
+### 11. [OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 06 Aug 2026 13:35:22 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 06 Aug 2026 18:48:22 -0400  
+**Severity:** High  
+**Categories:** APT  
+
+---
+
+### 12. [ClickFix attack pushes macOS infostealer for crypto theft attacks](https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 06 Aug 2026 18:37:17 -0400  
 **Severity:** Low  
 **Categories:** Malware  
 
 ---
 
-### 8. [Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service](https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html)
+### 13. [Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group](https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 06 Aug 2026 12:49:54 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 06 Aug 2026 16:07:24 -0400  
 **Severity:** Low  
-**Categories:** Ransomware  
+**Categories:** Phishing  
 
 ---
 
-### 9. [CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild](https://thehackernews.com/2026/08/cisa-flags-teamcity-cve-2026-63077-rce.html)
+### 14. [Swiss government SharePoint breach compromised 200 accounts](https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 06 Aug 2026 12:21:43 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-63077  
+**Source:** Bleeping Computer  
+**Published:** Thu, 06 Aug 2026 14:14:19 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-56164, CVE-2026-50522  
 **Categories:** Vulnerability  
 
 ---
 
-### 10. [Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People](https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html)
+### 15. [New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes](https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 06 Aug 2026 11:34:30 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 06 Aug 2026 14:03:45 -0400  
 **Severity:** Low  
-**Categories:** General Security  
+**Categories:** Vulnerability  
 
 ---
 
-### 11. [How AI Exposed a Browser Security Gap that Enterprises Cannot Ignore](https://www.bleepingcomputer.com/news/security/how-ai-exposed-a-browser-security-gap-that-enterprises-cannot-ignore/)
+### 16. [Meta AI model hacked a company during misconfigured cyber test](https://www.bleepingcomputer.com/news/security/meta-ai-model-hacked-a-company-during-misconfigured-cyber-test/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 06 Aug 2026 12:11:39 -0400  
+**Severity:** Low  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 17. [How AI Exposed a Browser Security Gap that Enterprises Cannot Ignore](https://www.bleepingcomputer.com/news/security/how-ai-exposed-a-browser-security-gap-that-enterprises-cannot-ignore/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 06 Aug 2026 10:02:12 -0400  
@@ -104,7 +158,7 @@
 
 ---
 
-### 12. [Ransom Cartel ransomware creator sentenced to 16 years in prison](https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/)
+### 18. [Ransom Cartel ransomware creator sentenced to 16 years in prison](https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 05 Aug 2026 19:00:50 -0400  
@@ -113,7 +167,7 @@
 
 ---
 
-### 13. [Canadian pleads guilty to Snowflake cloud data-theft attacks](https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/)
+### 19. [Canadian pleads guilty to Snowflake cloud data-theft attacks](https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 05 Aug 2026 17:53:26 -0400  
@@ -122,7 +176,7 @@
 
 ---
 
-### 14. [Hackers run khunt post-exploitation toolkit from Oracle database](https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/)
+### 20. [Hackers run khunt post-exploitation toolkit from Oracle database](https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 05 Aug 2026 15:55:25 -0400  
@@ -131,62 +185,16 @@
 
 ---
 
-### 15. [COLDCARD security audit phishing attack installs remote access tool](https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/)
+### 21. [Canadian Man Pleads Guilty in Snowflake Extortions](https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/)
 
-**Source:** Bleeping Computer  
-**Published:** Wed, 05 Aug 2026 13:49:41 -0400  
+**Source:** Krebs On Security  
+**Published:** Thu, 06 Aug 2026 17:00:56 +0000  
 **Severity:** Low  
-**Categories:** Vulnerability, Phishing  
+**Categories:** Ransomware, Data Breach, Phishing  
 
 ---
 
-### 16. [CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws](https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 05 Aug 2026 11:51:33 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-0770, CVE-2026-9198, CVE-2026-18576  
-**Categories:** Vulnerability  
-
----
-
-### 17. [Google Blogger locks hundreds of blogs in malware false positive](https://www.bleepingcomputer.com/news/google/google-blogger-locks-hundreds-of-blogs-in-malware-false-positive/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 05 Aug 2026 10:59:29 -0400  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 18. [How AI-powered phishing killed blocklists for good](https://www.bleepingcomputer.com/news/security/how-ai-powered-phishing-killed-blocklists-for-good/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 05 Aug 2026 10:01:11 -0400  
-**Severity:** Low  
-**Categories:** Phishing  
-
----
-
-### 19. [OpenAI, Anthropic AI agents targeted real people and systems in cyber tests](https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 04 Aug 2026 19:39:59 -0400  
-**Severity:** Low  
-**Categories:** Supply Chain  
-
----
-
-### 20. [TP-Link patches Omada ZTP flaws allowing hackers to breach networks](https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 04 Aug 2026 18:18:20 -0400  
-**Severity:** Medium  
-**Categories:** General Security  
-
----
-
-### 21. [Read This Before You Buy That TV Streaming Stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/)
+### 22. [Read This Before You Buy That TV Streaming Stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 30 Jul 2026 16:49:00 +0000  
@@ -195,7 +203,7 @@
 
 ---
 
-### 22. [LG to Ban Residential Proxies from Smart TV Apps](https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/)
+### 23. [LG to Ban Residential Proxies from Smart TV Apps](https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 22 Jul 2026 01:10:38 +0000  
@@ -204,17 +212,17 @@
 
 ---
 
-### 23. [Microsoft Patches a Record 570 Security Flaws](https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/)
+### 24. [Microsoft Patches a Record 570 Security Flaws](https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56164, CVE-2026-48561, CVE-2026-50661, CVE-2026-56155  
+**CVEs:** CVE-2026-56155, CVE-2026-48561, CVE-2026-56164, CVE-2026-50661  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 24. [Lessons Learned from CISA’s Recent GitHub Leak](https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/)
+### 25. [Lessons Learned from CISA’s Recent GitHub Leak](https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 13 Jul 2026 15:03:28 +0000  
@@ -223,7 +231,7 @@
 
 ---
 
-### 25. [Felons, Fraudsters Flog Offensive Cybersecurity Startup](https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/)
+### 26. [Felons, Fraudsters Flog Offensive Cybersecurity Startup](https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 08 Jul 2026 12:31:39 +0000  
@@ -232,7 +240,7 @@
 
 ---
 
-### 26. [FBI Seizes NetNut Proxy Platform, Popa Botnet](https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/)
+### 27. [FBI Seizes NetNut Proxy Platform, Popa Botnet](https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 02 Jul 2026 19:27:33 +0000  
@@ -241,7 +249,7 @@
 
 ---
 
-### 27. [Scattered Spider Hackers Plead Guilty on Day 1 of Trial](https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/)
+### 28. [Scattered Spider Hackers Plead Guilty on Day 1 of Trial](https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 23 Jun 2026 16:12:49 +0000  
@@ -250,7 +258,7 @@
 
 ---
 
-### 28. [‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm](https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/)
+### 29. [‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm](https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 18 Jun 2026 17:37:58 +0000  
@@ -259,7 +267,7 @@
 
 ---
 
-### 29. [Who Runs the Ransomware Group ‘The Gentlemen?’](https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/)
+### 30. [Who Runs the Ransomware Group ‘The Gentlemen?’](https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 10 Jun 2026 14:03:44 +0000  
@@ -268,17 +276,16 @@
 
 ---
 
-### 30. [A Record-Breaking Patch Tuesday for June 2026](https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/)
+### 31. [Snowflake Hacker Pleads Guilty in US Court](https://www.securityweek.com/snowflake-hacker-pleads-guilty-in-us-court/)
 
-**Source:** Krebs On Security  
-**Published:** Tue, 09 Jun 2026 22:07:28 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-45586, CVE-2026-50507, CVE-2026-49160  
-**Categories:** Vulnerability, DDoS  
+**Source:** Security Week  
+**Published:** Thu, 06 Aug 2026 14:56:31 +0000  
+**Severity:** Low  
+**Categories:** Ransomware  
 
 ---
 
-### 31. [Zero-Click AI Browser Hacking: Claude and ChatGPT Atlas Hijacked via Emails, X Posts](https://www.securityweek.com/zero-click-ai-browser-hacking-claude-and-chatgpt-atlas-hijacked-via-emails-x-posts/)
+### 32. [Zero-Click AI Browser Hacking: Claude and ChatGPT Atlas Hijacked via Emails, X Posts](https://www.securityweek.com/zero-click-ai-browser-hacking-claude-and-chatgpt-atlas-hijacked-via-emails-x-posts/)
 
 **Source:** Security Week  
 **Published:** Thu, 06 Aug 2026 12:54:09 +0000  
@@ -287,7 +294,7 @@
 
 ---
 
-### 32. [Podcast: Compliance Won’t Save You: The Future of Cyber Risk with Edna Conway](https://www.securityweek.com/podcast-compliance-wont-save-you-the-future-of-cyber-risk-with-edna-conway/)
+### 33. [Podcast: Compliance Won’t Save You: The Future of Cyber Risk with Edna Conway](https://www.securityweek.com/podcast-compliance-wont-save-you-the-future-of-cyber-risk-with-edna-conway/)
 
 **Source:** Security Week  
 **Published:** Thu, 06 Aug 2026 12:00:00 +0000  
@@ -296,7 +303,7 @@
 
 ---
 
-### 33. [Critical Paperclip Flaw Allowed Admin Access, Code Execution](https://www.securityweek.com/critical-paperclip-flaw-allowed-admin-access-code-execution/)
+### 34. [Critical Paperclip Flaw Allowed Admin Access, Code Execution](https://www.securityweek.com/critical-paperclip-flaw-allowed-admin-access-code-execution/)
 
 **Source:** Security Week  
 **Published:** Thu, 06 Aug 2026 11:09:11 +0000  
@@ -306,7 +313,7 @@
 
 ---
 
-### 34. [Meta AI Hacked External Systems During Cybersecurity Testing](https://www.securityweek.com/meta-ai-hacked-external-systems-during-cybersecurity-testing/)
+### 35. [Meta AI Hacked External Systems During Cybersecurity Testing](https://www.securityweek.com/meta-ai-hacked-external-systems-during-cybersecurity-testing/)
 
 **Source:** Security Week  
 **Published:** Thu, 06 Aug 2026 09:56:26 +0000  
@@ -315,7 +322,7 @@
 
 ---
 
-### 35. [Belarusian Ransom Cartel Mastermind Gets 16 Years in Prison](https://www.securityweek.com/belarusian-ransom-cartel-mastermind-gets-16-years-in-prison/)
+### 36. [Belarusian Ransom Cartel Mastermind Gets 16 Years in Prison](https://www.securityweek.com/belarusian-ransom-cartel-mastermind-gets-16-years-in-prison/)
 
 **Source:** Security Week  
 **Published:** Thu, 06 Aug 2026 09:30:30 +0000  
@@ -324,17 +331,17 @@
 
 ---
 
-### 36. [Cisco Patches Critical SD-WAN, IOS XE, FMC Vulnerabilities](https://www.securityweek.com/cisco-patches-critical-sd-wan-ios-xe-fmc-vulnerabilities/)
+### 37. [Cisco Patches Critical SD-WAN, IOS XE, FMC Vulnerabilities](https://www.securityweek.com/cisco-patches-critical-sd-wan-ios-xe-fmc-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Thu, 06 Aug 2026 07:20:20 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20310, CVE-2026-20303, CVE-2026-20267, CVE-2026-20272, CVE-2026-20313, CVE-2026-20079, CVE-2026-20312, CVE-2026-20200, CVE-2026-20304  
+**CVEs:** CVE-2026-20200, CVE-2026-20310, CVE-2026-20303, CVE-2026-20272, CVE-2026-20079, CVE-2026-20313, CVE-2026-20312, CVE-2026-20304, CVE-2026-20267  
 **Categories:** Vulnerability  
 
 ---
 
-### 37. [Hackers Start Exploiting Recent JetBrains TeamCity Vulnerability](https://www.securityweek.com/hackers-start-exploiting-recent-jetbrains-teamcity-vulnerability/)
+### 38. [Hackers Start Exploiting Recent JetBrains TeamCity Vulnerability](https://www.securityweek.com/hackers-start-exploiting-recent-jetbrains-teamcity-vulnerability/)
 
 **Source:** Security Week  
 **Published:** Thu, 06 Aug 2026 06:37:44 +0000  
@@ -344,17 +351,17 @@
 
 ---
 
-### 38. [How a $50,000 Exploit Chain Turned Bixby Against Samsung Phones](https://www.securityweek.com/how-a-50000-exploit-chain-turned-bixby-against-samsung-phones/)
+### 39. [How a $50,000 Exploit Chain Turned Bixby Against Samsung Phones](https://www.securityweek.com/how-a-50000-exploit-chain-turned-bixby-against-samsung-phones/)
 
 **Source:** Security Week  
 **Published:** Wed, 05 Aug 2026 19:40:00 +0000  
 **Severity:** High  
-**CVEs:** CVE-2025-58487, CVE-2025-21079, CVE-2025-58486  
+**CVEs:** CVE-2025-21079, CVE-2025-58487, CVE-2025-58486  
 **Categories:** Vulnerability  
 
 ---
 
-### 39. [Black Hat USA 2026 – Summary of Vendor Announcements (Part 3)](https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-3/)
+### 40. [Black Hat USA 2026 – Summary of Vendor Announcements (Part 3)](https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-3/)
 
 **Source:** Security Week  
 **Published:** Wed, 05 Aug 2026 14:36:29 +0000  
@@ -363,16 +370,16 @@
 
 ---
 
-### 40. [The Fourth Battlefield: The Growing Role of Cyber Operations in Global Conflict](https://www.securityweek.com/the-fourth-battlefield-the-growing-role-of-cyber-operations-in-global-conflict/)
+### 41. [Why metaphor may dictate your security strategy](https://blog.talosintelligence.com/why-metaphor-may-dictate-your-security-strategy/)
 
-**Source:** Security Week  
-**Published:** Wed, 05 Aug 2026 13:00:08 +0000  
-**Severity:** Critical  
-**Categories:** Ransomware, Vulnerability, Malware, APT, DDoS  
+**Source:** Talos Blog  
+**Published:** Thu, 06 Aug 2026 18:00:01 GMT  
+**Severity:** Low  
+**Categories:** General Security  
 
 ---
 
-### 41. [“Keep going, bro. You’ve got this!” A data-driven look at how adversaries are weaponizing AI](https://blog.talosintelligence.com/keep-going-bro-youve-got-this-a-data-driven-look-at-how-adversaries-are-weaponizing-ai/)
+### 42. [“Keep going, bro. You’ve got this!” A data-driven look at how adversaries are weaponizing AI](https://blog.talosintelligence.com/keep-going-bro-youve-got-this-a-data-driven-look-at-how-adversaries-are-weaponizing-ai/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 04 Aug 2026 10:00:11 GMT  
@@ -381,7 +388,7 @@
 
 ---
 
-### 42. [[Webinar] Tales from the Frontlines: An exclusive briefing on Q2 incidents](https://blog.talosintelligence.com/webinar-tales-from-the-frontlines-an-exclusive-briefing-on-q2-incidents/)
+### 43. [[Webinar] Tales from the Frontlines: An exclusive briefing on Q2 incidents](https://blog.talosintelligence.com/webinar-tales-from-the-frontlines-an-exclusive-briefing-on-q2-incidents/)
 
 **Source:** Talos Blog  
 **Published:** Mon, 03 Aug 2026 16:00:12 GMT  
@@ -390,7 +397,7 @@
 
 ---
 
-### 43. [You were onto something with “It’s the Climb,” Miley](https://blog.talosintelligence.com/you-were-onto-something-with-its-the-climb-miley/)
+### 44. [You were onto something with “It’s the Climb,” Miley](https://blog.talosintelligence.com/you-were-onto-something-with-its-the-climb-miley/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 30 Jul 2026 18:00:35 GMT  
@@ -399,7 +406,7 @@
 
 ---
 
-### 44. [Black Hat special: Rewind and revisit](https://blog.talosintelligence.com/black-hat-special-rewind-and-revisit/)
+### 45. [Black Hat special: Rewind and revisit](https://blog.talosintelligence.com/black-hat-special-rewind-and-revisit/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 30 Jul 2026 10:00:08 GMT  
@@ -408,7 +415,7 @@
 
 ---
 
-### 45. [IR Trends Q2 2026: Phishing and weaponized remote management tools drive attack chains](https://blog.talosintelligence.com/ir-trends-q2-2026/)
+### 46. [IR Trends Q2 2026: Phishing and weaponized remote management tools drive attack chains](https://blog.talosintelligence.com/ir-trends-q2-2026/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 28 Jul 2026 10:00:01 GMT  
@@ -417,7 +424,7 @@
 
 ---
 
-### 46. [Don’t swing at everything](https://blog.talosintelligence.com/dont-swing-at-everything/)
+### 47. [Don’t swing at everything](https://blog.talosintelligence.com/dont-swing-at-everything/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 23 Jul 2026 18:00:46 GMT  
@@ -426,7 +433,7 @@
 
 ---
 
-### 47. [Chaos ransomware's msaRAT: Living off the browser to build a covert C2 channel](https://blog.talosintelligence.com/chaos-msarat-living-off-the-browser-to-build-covert-c2-channel/)
+### 48. [Chaos ransomware's msaRAT: Living off the browser to build a covert C2 channel](https://blog.talosintelligence.com/chaos-msarat-living-off-the-browser-to-build-covert-c2-channel/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 23 Jul 2026 10:00:38 GMT  
@@ -435,7 +442,7 @@
 
 ---
 
-### 48. [Preview: Cisco Talos at Black Hat USA 2026](https://blog.talosintelligence.com/preview-cisco-talos-at-black-hat-usa-2026/)
+### 49. [Preview: Cisco Talos at Black Hat USA 2026](https://blog.talosintelligence.com/preview-cisco-talos-at-black-hat-usa-2026/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 23 Jul 2026 10:00:14 GMT  
@@ -444,21 +451,12 @@
 
 ---
 
-### 49. [Begun, the Patch Wars have](https://blog.talosintelligence.com/begun-the-patch-wars-have/)
+### 50. [Begun, the Patch Wars have](https://blog.talosintelligence.com/begun-the-patch-wars-have/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 16 Jul 2026 18:00:50 GMT  
 **Severity:** Critical  
 **Categories:** Vulnerability, Malware  
-
----
-
-### 50. [The Hunter's Paradox: Is it time to embrace automated threat hunting?](https://blog.talosintelligence.com/the-hunters-paradox-is-it-time-to-embrace-automated-threat-hunting/)
-
-**Source:** Talos Blog  
-**Published:** Thu, 16 Jul 2026 10:00:07 GMT  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -632,7 +630,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -647,7 +645,16 @@
 
 ---
 
-### 71. [Scammers target OnlyFans users with deepfakes](https://www.malwarebytes.com/blog/news/2026/08/scammers-target-onlyfans-users-with-deepfakes)
+### 71. [Apple WebKit vulnerabilities reveal your IP address, despite Private Relay](https://www.malwarebytes.com/blog/news/2026/08/apple-webkit-vulnerabilities-reveal-your-ip-address-despite-private-relay)
+
+**Source:** Malwarebytes  
+**Published:** Thu, 06 Aug 2026 14:30:35 GMT  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 72. [Scammers target OnlyFans users with deepfakes](https://www.malwarebytes.com/blog/news/2026/08/scammers-target-onlyfans-users-with-deepfakes)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 06 Aug 2026 11:38:27 GMT  
@@ -656,7 +663,7 @@
 
 ---
 
-### 72. [Amazon and Apple impersonated in “$149.99 unauthorized charge” scam](https://www.malwarebytes.com/blog/scams/2026/08/amazon-and-apple-impersonated-in-149-99-unauthorized-charge-scam)
+### 73. [Amazon and Apple impersonated in “$149.99 unauthorized charge” scam](https://www.malwarebytes.com/blog/scams/2026/08/amazon-and-apple-impersonated-in-149-99-unauthorized-charge-scam)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 06 Aug 2026 10:55:11 GMT  
@@ -665,7 +672,7 @@
 
 ---
 
-### 73. [Anthropic’s Mythos AI used social engineering to target real people](https://www.malwarebytes.com/blog/news/2026/08/anthropics-mythos-ai-used-social-engineering-to-target-real-people)
+### 74. [Anthropic’s Mythos AI used social engineering to target real people](https://www.malwarebytes.com/blog/news/2026/08/anthropics-mythos-ai-used-social-engineering-to-target-real-people)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 06 Aug 2026 10:45:31 GMT  
@@ -674,7 +681,7 @@
 
 ---
 
-### 74. [Google’s synchronized passkeys can be stolen in ‘Pass‑ta‑key’ attacks](https://www.malwarebytes.com/blog/news/2026/08/googles-synchronized-passkeys-can-be-stolen-in-pass-ta-key-attacks)
+### 75. [Google’s synchronized passkeys can be stolen in ‘Pass‑ta‑key’ attacks](https://www.malwarebytes.com/blog/news/2026/08/googles-synchronized-passkeys-can-be-stolen-in-pass-ta-key-attacks)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 05 Aug 2026 11:11:48 GMT  
@@ -683,7 +690,7 @@
 
 ---
 
-### 75. [Junk Cleaner clears the clutter from your Android](https://www.malwarebytes.com/blog/product/2026/08/junk-cleaner-clears-the-clutter-from-your-android)
+### 76. [Junk Cleaner clears the clutter from your Android](https://www.malwarebytes.com/blog/product/2026/08/junk-cleaner-clears-the-clutter-from-your-android)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 05 Aug 2026 09:07:19 GMT  
@@ -692,7 +699,7 @@
 
 ---
 
-### 76. [Apple battles it out again with the UK over encrypted iCloud access](https://www.malwarebytes.com/blog/news/2026/08/apple-battles-it-out-again-with-uk-over-encrypted-icloud-access)
+### 77. [Apple battles it out again with the UK over encrypted iCloud access](https://www.malwarebytes.com/blog/news/2026/08/apple-battles-it-out-again-with-uk-over-encrypted-icloud-access)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 04 Aug 2026 20:30:13 GMT  
@@ -701,7 +708,7 @@
 
 ---
 
-### 77. [Travelers targeted when logging into hotel Wi-Fi networks](https://www.malwarebytes.com/blog/news/2026/08/travelers-targeted-when-logging-into-hotel-wi-fi-networks)
+### 78. [Travelers targeted when logging into hotel Wi-Fi networks](https://www.malwarebytes.com/blog/news/2026/08/travelers-targeted-when-logging-into-hotel-wi-fi-networks)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 04 Aug 2026 12:05:16 GMT  
@@ -710,7 +717,7 @@
 
 ---
 
-### 78. [Online backlash ends in Google rolling back Google Earth AI tool after a day](https://www.malwarebytes.com/blog/news/2026/08/online-backlash-ends-in-google-rolling-back-google-earth-ai-tool-after-a-day)
+### 79. [Online backlash ends in Google rolling back Google Earth AI tool after a day](https://www.malwarebytes.com/blog/news/2026/08/online-backlash-ends-in-google-rolling-back-google-earth-ai-tool-after-a-day)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 04 Aug 2026 11:35:19 GMT  
@@ -719,7 +726,7 @@
 
 ---
 
-### 79. [WhatsApp account takeover scam asks you to “vote for my friend”](https://www.malwarebytes.com/blog/scams/2026/08/whatsapp-account-takeover-scam-asks-you-to-vote-for-my-friend)
+### 80. [WhatsApp account takeover scam asks you to “vote for my friend”](https://www.malwarebytes.com/blog/scams/2026/08/whatsapp-account-takeover-scam-asks-you-to-vote-for-my-friend)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 04 Aug 2026 06:22:48 GMT  
@@ -728,16 +735,16 @@
 
 ---
 
-### 80. [“Adult TikTok” searches lead to scams](https://www.malwarebytes.com/blog/scams/2026/08/adult-tiktok-searches-lead-to-scams)
+### 81. [Expanding AI Benchmarks in Cybersecurity Beyond Vulnerability Discovery](https://www.crowdstrike.com/en-us/blog/expanding-cybersecurity-ai-benchmarks-beyond-vulnerability-discovery/)
 
-**Source:** Malwarebytes  
-**Published:** Mon, 03 Aug 2026 21:35:18 GMT  
+**Source:** Crowdstrike Blog  
+**Published:** Aug 06, 2026 00:00:00-0500  
 **Severity:** Low  
 **Categories:** Vulnerability  
 
 ---
 
-### 81. [Secure Agent Harness Execution: Preventing Escape](https://www.crowdstrike.com/en-us/blog/secure-agent-harness-execution-preventing-escape/)
+### 82. [Secure Agent Harness Execution: Preventing Escape](https://www.crowdstrike.com/en-us/blog/secure-agent-harness-execution-preventing-escape/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Aug 04, 2026 00:00:00-0500  
@@ -746,7 +753,7 @@
 
 ---
 
-### 82. [CrowdStrike 2026 Threat Hunting Report: Exploitation Window Closes as AI Use Accelerates](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-threat-hunting-report/)
+### 83. [CrowdStrike 2026 Threat Hunting Report: Exploitation Window Closes as AI Use Accelerates](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-threat-hunting-report/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Aug 03, 2026 00:00:00-0500  
@@ -755,7 +762,7 @@
 
 ---
 
-### 83. [Falcon AIDR Now Protects Copilot Studio Agents and Claude Code](https://www.crowdstrike.com/en-us/blog/falcon-aidr-protects-copilot-studio-agents-and-claude-code/)
+### 84. [Falcon AIDR Now Protects Copilot Studio Agents and Claude Code](https://www.crowdstrike.com/en-us/blog/falcon-aidr-protects-copilot-studio-agents-and-claude-code/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 30, 2026 00:00:00-0500  
@@ -764,7 +771,7 @@
 
 ---
 
-### 84. [Inside Astaroth's New Spambot Component](https://www.crowdstrike.com/en-us/blog/inside-astaroths-new-spambot-component/)
+### 85. [Inside Astaroth's New Spambot Component](https://www.crowdstrike.com/en-us/blog/inside-astaroths-new-spambot-component/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 29, 2026 00:00:00-0500  
@@ -773,7 +780,7 @@
 
 ---
 
-### 85. [Falcon Cloud Security July 2026 Release: Helping Security Teams Move Faster in the Cloud](https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-helping-security-teams-move-faster/)
+### 86. [Falcon Cloud Security July 2026 Release: Helping Security Teams Move Faster in the Cloud](https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-helping-security-teams-move-faster/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 29, 2026 00:00:00-0500  
@@ -782,7 +789,7 @@
 
 ---
 
-### 86. [Falcon Platform IOAs Arrive in Falcon Next-Gen SIEM to Identify New Threats](https://www.crowdstrike.com/en-us/blog/falcon-platform-ioas-arrive-in-falcon-next-gen-siem/)
+### 87. [Falcon Platform IOAs Arrive in Falcon Next-Gen SIEM to Identify New Threats](https://www.crowdstrike.com/en-us/blog/falcon-platform-ioas-arrive-in-falcon-next-gen-siem/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 29, 2026 00:00:00-0500  
@@ -791,7 +798,7 @@
 
 ---
 
-### 87. [5 High-Impact Use Cases for Falcon Onum](https://www.crowdstrike.com/en-us/blog/five-high-impact-use-cases-for-falcon-onum/)
+### 88. [5 High-Impact Use Cases for Falcon Onum](https://www.crowdstrike.com/en-us/blog/five-high-impact-use-cases-for-falcon-onum/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 27, 2026 00:00:00-0500  
@@ -800,7 +807,7 @@
 
 ---
 
-### 88. [CrowdStrike Joins the Open Secure AI Alliance to Advance AI Safety and Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-joins-the-open-secure-ai-alliance/)
+### 89. [CrowdStrike Joins the Open Secure AI Alliance to Advance AI Safety and Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-joins-the-open-secure-ai-alliance/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 27, 2026 00:00:00-0400  
@@ -809,21 +816,12 @@
 
 ---
 
-### 89. [CrowdStrike Falcon Platform Helps Meet U.S. Government Mandates for CISA BOD-26-04](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-helps-meet-us-government-mandates-cisa-bod-26-04/)
+### 90. [CrowdStrike Falcon Platform Helps Meet U.S. Government Mandates for CISA BOD-26-04](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-helps-meet-us-government-mandates-cisa-bod-26-04/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 22, 2026 00:00:00-0500  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 90. [Denying the Worm: Detecting SANDWORM_MODE and the Emerging Class of AI Toolchain Supply Chain Attacks](https://www.crowdstrike.com/en-us/blog/denying-the-worm-sandworm-mode-and-ai-toolchain-supply-chain-attacks/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Jul 21, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** Supply Chain  
 
 ---
 
