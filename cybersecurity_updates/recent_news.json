@@ -1,6 +1,134 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Growing Up The Hard Way",
+    "link": "https://thehackernews.com/2026/08/growing-up-hard-way.html",
+    "published": "Fri, 07 Aug 2026 17:25:26 +0530",
+    "summary": "Open Source had a great childhood.\n\nFor two decades it got to be a kid. It ran around barefoot, gave everything away, trusted strangers, and never once thought about who was watching. It ran the kind of lemonade stand that took IOUs from anyone who wandered up — take what you need, pay me back whenever, no need to leave a name. It was idyllic. It was also, in retrospect, a little feral.\n\nThen,",
+    "analysis": {
+      "issue": "Open source may split as the EU Cyber Resilience Act and enterprise security demands favor reachable, patchable, accountable projects",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers",
+    "link": "https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html",
+    "published": "Fri, 07 Aug 2026 16:40:33 +0530",
+    "summary": "A use-after-free bug in Linux's SCTP networking code can be turned into full root on a host, and Tencent researchers say they used it to escape a container and reach the machine underneath.\n\nThe flaw has existed since 2008. The fix already shipped: stable kernels 7.1.6, 6.18.42, 6.12.101 and 6.6.148, released August 3, close it. Anyone running an older kernel with SCTP reachable should update.",
+    "analysis": {
+      "issue": "Linux SCTP flaw CVE-2026-64564 dates back to 2008 and Tencent researchers say it could escape containers and gain host root",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-64564"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
+    "link": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
+    "published": "Fri, 07 Aug 2026 16:28:38 +0530",
+    "summary": "Security researcher Malcolm Stagg has disclosed a new attack class called&nbsp;NatJack&nbsp;that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS responses, expose mapped ports, and exhaust NAT tables.\n\nPresented at Black Hat USA 2026, the research found affected behavior across independently developed implementations, including Windows and",
+    "analysis": {
+      "issue": "NatJack abuses NAT state to hijack TCP sessions and spoof DNS responses; Windows and Linux flaws are tracked under two CVEs",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails",
+    "link": "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html",
+    "published": "Fri, 07 Aug 2026 16:08:27 +0530",
+    "summary": "Cybersecurity researchers have called attention to an active \"widespread email-driven phishing campaign\" that employs adversary-in-the-middle (AitM) techniques to take control of Microsoft 365 accounts with an aim to identify key personnel involved in financial workflows and gather related email.\n\n\"The campaign uses residential proxies to disguise malicious sign-ins as ordinary consumer traffic,",
+    "analysis": {
+      "issue": "AitM phishing hijacks Microsoft 365 accounts, then uses residential proxies and Microsoft Graph API access to collect payroll and finance email",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day",
+    "link": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
+    "published": "Fri, 07 Aug 2026 15:39:54 +0530",
+    "summary": "PortSwigger says HTTP Terminator, an artificial intelligence (AI)-assisted research system built by James Kettle, generated and proved new HTTP desynchronization techniques after exploring 30,000 candidate desync vectors.\n\nPortSwigger said a separate human-guided discovery cascade also exposed a zero-day in Apache Traffic Server. Kettle said HTTP Terminator tested 30,000 websites where",
+    "analysis": {
+      "issue": "PortSwigger says HTTP Terminator generated 30,000 desync vectors, found roughly 700 vulnerable targets, and helped uncover an Apache zero-day",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access",
+    "link": "https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html",
+    "published": "Fri, 07 Aug 2026 14:22:11 +0530",
+    "summary": "Entra ID researcher Dirk-jan Mollema demonstrated that malware already running in a signed-in Windows session can silently use the victim's Windows Hello for Business key to authenticate to Microsoft Entra ID.\n\nThe attacker can then establish longer-term cloud access, register a device it controls, obtain a Primary Refresh Token (PRT), and add further authentication methods where tenant policies",
+    "analysis": {
+      "issue": "Windows Hello keys can be abused from signed-in Windows sessions to gain Entra ID access without extracting TPM-backed private keys",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Claude Code and Gemini CLI Flaws Let a GitHub Issue Reach CI Workflow Secrets",
+    "link": "https://thehackernews.com/2026/08/claude-code-and-gemini-cli-flaws-let.html",
+    "published": "Fri, 07 Aug 2026 13:48:35 +0530",
+    "summary": "A GitHub issue opened by an account with no repository privileges was enough to execute code on the CI runners behind Anthropic's and Google's own coding-agent repositories. On OpenAI's, it was enough to hijack the next agent run.\n\nNovee Security ran the attack against each vendor's agent in the configuration that the vendor ships by default, and presented the work at Black Hat USA on August 5.",
+    "analysis": {
+      "issue": "Gemini CLI and Claude Code flaws let untrusted GitHub input reach CI workflows, including host command execution and API key exposure",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign",
     "link": "https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html",
     "published": "Fri, 07 Aug 2026 12:20:05 +0530",
@@ -44,134 +172,6 @@
     "summary": "Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review.\n\nThe security issues affect Cisco Catalyst SD-WAN Software, regardless of device configuration, and Cisco IOS XE Software when it is running in autonomous or controller mode.\n\n\"These vulnerabilities were found",
     "analysis": {
       "issue": "Cisco patches 12 Catalyst SD-WAN and IOS XE flaws, including three 9",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs",
-    "link": "https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html",
-    "published": "Thu, 06 Aug 2026 21:47:13 +0530",
-    "summary": "An unprivileged Linux program can time a hardware interrupt to land in the gap between a processor sanitizing its branch predictor and the kernel using it, re-poisoning the predictor after the defense has run.\n\nMIT CSAIL researchers Daniël Trujillo and Mengjia Yan named the technique INTERRUPT INJECTION. On an AMD Zen 2 machine running Linux 6.14 with every default Spectre v2 mitigation on,",
-    "analysis": {
-      "issue": "INTERRUPT INJECTION lets unprivileged Linux code bypass Spectre v2 defenses and leak AMD Zen 2 kernel memory at 5",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories",
-    "link": "https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html",
-    "published": "Thu, 06 Aug 2026 20:54:31 +0530",
-    "summary": "Apparently, opening the thing is now enough. A repo can run before the first prompt, a package can hide among hundreds, and a harmless-looking PDF can finish the job.\n\nThis week runs on cheap leverage: exposed servers, recycled bugs, poisoned agent instructions, remote-access tools dressed as support software, and trusted defaults doing attackers a favor.\n\nNothing here is especially mystical.",
-    "analysis": {
-      "issue": "This week’s ThreatsDay Bulletin covers malicious packages, AI agent risks, phishing chains, exposed systems, router flaws, and ransomware tactics",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities",
-    "link": "https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html",
-    "published": "Thu, 06 Aug 2026 17:46:58 +0530",
-    "summary": "Forescout found 22 internet-facing Rockwell Automation programmable logic controllers (PLCs) in cities hit by recent cyberattacks on US water utilities. Nineteen used the same mobile carrier network.\n\nIts August 3 scan counted 4,407 exposed Rockwell controllers worldwide, including 2,844 in the United States, but Forescout could not confirm any were compromised. That figure counts exposed",
-    "analysis": {
-      "issue": "Forescout found 22 exposed Rockwell PLCs in cities hit by water attacks; direct access can let attackers change settings without exploiting a flaw",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "CryptoJS Weak RNG Behind $5.7 Million in Drains Affects Five Crypto Wallet Apps",
-    "link": "https://thehackernews.com/2026/08/cryptojs-weak-rng-behind-57-million-in.html",
-    "published": "Thu, 06 Aug 2026 17:19:48 +0530",
-    "summary": "Coinspect has identified CryptoJS.lib.WordArray.random() as the weak random number generator behind the Ill Bloom wallet drains.\n\nIntroduced in the JavaScript cryptography library 12 years ago, the function supplied weak entropy that affected wallet apps used to generate recovery phrases. Coinspect's on-chain analysis puts the measured theft across two sweeps since late May at a lower bound of",
-    "analysis": {
-      "issue": "CryptoJS's weak RNG made recovery phrases guessable across five wallet apps, enabling Ill Bloom thefts totaling at least $5",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Apple iCloud Private Relay Can Expose Real IPs Through WebKit Proxy Bypasses",
-    "link": "https://thehackernews.com/2026/08/webkit-proxy-bypasses-can-expose-real.html",
-    "published": "Thu, 06 Aug 2026 17:03:08 +0530",
-    "summary": "Cybersecurity researchers have disclosed a security issue with Apple's iCloud Private Relay tool that can expose a user's real IP address.\n\nIntroduced with iOS 15, iCloud Private Relay employs a dual-hop architecture to ensure users' privacy by routing their Safari web traffic through two relays so that no single third-party, including Apple, can determine where the request is originating from",
-    "analysis": {
-      "issue": "Researchers say three WebKit features can bypass Apple's iCloud Private Relay and browser proxies, exposing users' real IP addresses on iOS and macOS",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "AI Recommendation Poisoning: How \"Ask AI\" Buttons Silently Alter LLM Memory",
-    "link": "https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html",
-    "published": "Thu, 06 Aug 2026 17:00:00 +0530",
-    "summary": "A new class of prompt injection is spreading across commercial websites. It requires no malware, no stolen credentials, and no zero-day exploit. It abuses a standard feature built into almost every major AI assistant: pre-filled deep links.\n\nWe observed production websites embedding hidden prompt injection payloads inside \"Ask AI\" buttons on marketing and competitor comparison pages. When a user",
-    "analysis": {
-      "issue": "Pre-filled \"Ask AI\" links can save vendor domains as trusted sources, potentially biasing future answers without malware or stolen credentials",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access",
-    "link": "https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html",
-    "published": "Thu, 06 Aug 2026 14:49:23 +0530",
-    "summary": "Attackers broke into an organization's Oracle database through a SQL injection flaw in a public-facing web application, then installed a post-exploitation toolkit without writing an executable to disk. They fed Java source code to the database, let Oracle compile it into stored schema objects, and ran commands from inside the database engine.\n\nHuntress, which tracks the toolkit as khunt,",
-    "analysis": {
-      "issue": "Attackers compile khunt inside Oracle after a web SQL injection, reach Windows SYSTEM, and stage credential data and registry hives locally",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -249,8 +249,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56164",
-        "CVE-2026-50522"
+        "CVE-2026-50522",
+        "CVE-2026-56164"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -437,10 +437,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56164",
-        "CVE-2026-50661",
+        "CVE-2026-56155",
         "CVE-2026-48561",
-        "CVE-2026-56155"
+        "CVE-2026-50661",
+        "CVE-2026-56164"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -563,6 +563,43 @@
   },
   {
     "source": "Security Week",
+    "title": "Vishing Extortion Group UNC6671 Rebrands After Making Millions",
+    "link": "https://www.securityweek.com/vishing-extortion-group-unc6671-rebrands-after-making-millions/",
+    "published": "Fri, 07 Aug 2026 11:06:01 +0000",
+    "summary": "<p>Initially calling itself BlackFile, the group has expanded operations to the Redact, Pink, Helix, and Falcon brands.</p>\n<p>The post <a href=\"https://www.securityweek.com/vishing-extortion-group-unc6671-rebrands-after-making-millions/\">Vishing Extortion Group UNC6671 Rebrands After Making Millions</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Initially calling itself BlackFile, the group has expanded operations to the Redact, Pink, Helix, and Falcon brands",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Truck Brake Controller’s Safety Recall Doubled as Hidden Security Fix",
+    "link": "https://www.securityweek.com/truck-brake-controllers-safety-recall-doubled-as-hidden-security-fix/",
+    "published": "Fri, 07 Aug 2026 10:00:00 +0000",
+    "summary": "<p>NMFTA research shows a Bendix EC80 brake controller safety recall also patched remote code execution and DoS vulnerabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/truck-brake-controllers-safety-recall-doubled-as-hidden-security-fix/\">Truck Brake Controller&#8217;s Safety Recall Doubled as Hidden Security Fix</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "NMFTA research shows a Bendix EC80 brake controller safety recall also patched remote code execution and DoS vulnerabilities",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Black Hat USA 2026 – Summary of Vendor Announcements (Part 4)",
     "link": "https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-4/",
     "published": "Fri, 07 Aug 2026 09:24:22 +0000",
@@ -574,8 +611,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-56181",
-        "CVE-2026-63913"
+        "CVE-2026-63913",
+        "CVE-2026-56181"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -598,14 +635,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-50481",
+        "CVE-2026-65667",
+        "CVE-2026-65400",
+        "CVE-2026-63508",
         "CVE-2026-50515",
         "CVE-2026-56162",
         "CVE-2026-62830",
-        "CVE-2026-59115",
-        "CVE-2026-65400",
-        "CVE-2026-65667",
-        "CVE-2026-63508",
-        "CVE-2026-50481"
+        "CVE-2026-59115"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -723,45 +760,6 @@
       "threat_categories": [
         "Vulnerability",
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Meta AI Hacked External Systems During Cybersecurity Testing",
-    "link": "https://www.securityweek.com/meta-ai-hacked-external-systems-during-cybersecurity-testing/",
-    "published": "Thu, 06 Aug 2026 09:56:26 +0000",
-    "summary": "<p>The incident involved a testing environment set up by Irregular, similar to what Anthropic reported last week.</p>\n<p>The post <a href=\"https://www.securityweek.com/meta-ai-hacked-external-systems-during-cybersecurity-testing/\">Meta AI Hacked External Systems During Cybersecurity Testing</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The incident involved a testing environment set up by Irregular, similar to what Anthropic reported last week",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Belarusian Ransom Cartel Mastermind Gets 16 Years in Prison",
-    "link": "https://www.securityweek.com/belarusian-ransom-cartel-mastermind-gets-16-years-in-prison/",
-    "published": "Thu, 06 Aug 2026 09:30:30 +0000",
-    "summary": "<p>Maksim Silnikau was the creator and administrator of the ransomware group and involved in Angler EK’s distribution.</p>\n<p>The post <a href=\"https://www.securityweek.com/belarusian-ransom-cartel-mastermind-gets-16-years-in-prison/\">Belarusian Ransom Cartel Mastermind Gets 16 Years in Prison</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Maksim Silnikau was the creator and administrator of the ransomware group and involved in Angler EK’s distribution",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Malware"
       ]
     }
   },
@@ -1299,8 +1297,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
