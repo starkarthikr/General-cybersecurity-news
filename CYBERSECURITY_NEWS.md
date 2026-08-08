@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-08 12:58:44 UTC
+**Last Updated:** 2026-08-08 17:03:03 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -97,7 +97,16 @@
 
 ---
 
-### 11. [Metabase SQLi zero-day exploited in customer data-theft attacks](https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/)
+### 11. [Hackers breach TrueConf to trojanize client installers with backdoors](https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/)
+
+**Source:** Bleeping Computer  
+**Published:** Sat, 08 Aug 2026 10:16:23 -0400  
+**Severity:** High  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 12. [Metabase SQLi zero-day exploited in customer data-theft attacks](https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 07 Aug 2026 16:14:46 -0400  
@@ -106,7 +115,7 @@
 
 ---
 
-### 12. [Unlimited Technology Systems breach impacts 3.8 million people](https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/)
+### 13. [Unlimited Technology Systems breach impacts 3.8 million people](https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 07 Aug 2026 15:30:41 -0400  
@@ -115,7 +124,7 @@
 
 ---
 
-### 13. [Levi Strauss & Co. says hackers stole corporate data in cyberattack](https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/)
+### 14. [Levi Strauss & Co. says hackers stole corporate data in cyberattack](https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 07 Aug 2026 11:48:20 -0400  
@@ -124,7 +133,7 @@
 
 ---
 
-### 14. [Real emails, hijacked payments: Two H1 2026 attack chains](https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/)
+### 15. [Real emails, hijacked payments: Two H1 2026 attack chains](https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 07 Aug 2026 10:00:10 -0400  
@@ -133,7 +142,7 @@
 
 ---
 
-### 15. [North Carolina Ports confirms cyberattack disrupting operations](https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/)
+### 16. [North Carolina Ports confirms cyberattack disrupting operations](https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 07 Aug 2026 09:34:40 -0400  
@@ -142,7 +151,7 @@
 
 ---
 
-### 16. [OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/)
+### 17. [OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 06 Aug 2026 18:48:22 -0400  
@@ -151,7 +160,7 @@
 
 ---
 
-### 17. [ClickFix attack pushes macOS infostealer for crypto theft attacks](https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/)
+### 18. [ClickFix attack pushes macOS infostealer for crypto theft attacks](https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 06 Aug 2026 18:37:17 -0400  
@@ -160,7 +169,7 @@
 
 ---
 
-### 18. [Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group](https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/)
+### 19. [Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group](https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 06 Aug 2026 16:07:24 -0400  
@@ -169,21 +178,12 @@
 
 ---
 
-### 19. [Swiss government SharePoint breach compromised 200 accounts](https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/)
+### 20. [Swiss government SharePoint breach compromised 200 accounts](https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 06 Aug 2026 14:14:19 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50522, CVE-2026-56164  
-**Categories:** Vulnerability  
-
----
-
-### 20. [New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes](https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 06 Aug 2026 14:03:45 -0400  
-**Severity:** Low  
+**CVEs:** CVE-2026-56164, CVE-2026-50522  
 **Categories:** Vulnerability  
 
 ---
@@ -220,7 +220,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50661, CVE-2026-48561, CVE-2026-56164, CVE-2026-56155  
+**CVEs:** CVE-2026-50661, CVE-2026-56164, CVE-2026-48561, CVE-2026-56155  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -330,7 +330,7 @@
 **Source:** Security Week  
 **Published:** Fri, 07 Aug 2026 09:09:54 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62830, CVE-2026-65667, CVE-2026-63508, CVE-2026-59115, CVE-2026-50515, CVE-2026-65400, CVE-2026-50481, CVE-2026-56162  
+**CVEs:** CVE-2026-50515, CVE-2026-65667, CVE-2026-59115, CVE-2026-65400, CVE-2026-62830, CVE-2026-63508, CVE-2026-50481, CVE-2026-56162  
 **Categories:** Vulnerability  
 
 ---
@@ -631,7 +631,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

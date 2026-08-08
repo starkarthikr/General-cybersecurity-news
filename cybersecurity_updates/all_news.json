@@ -187,6 +187,25 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Hackers breach TrueConf to trojanize client installers with backdoors",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
+    "published": "Sat, 08 Aug 2026 10:16:23 -0400",
+    "summary": "The Head Mare hacktivist group has been exploiting vulnerabilities in unpatched TrueConf video conferencing servers to replace client installers with malicious versions that deliver backdoors. [...]",
+    "analysis": {
+      "issue": "The Head Mare hacktivist group has been exploiting vulnerabilities in unpatched TrueConf video conferencing servers to replace client installers with malicious versions that deliver backdoors",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Metabase SQLi zero-day exploited in customer data-theft attacks",
     "link": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
     "published": "Fri, 07 Aug 2026 16:14:46 -0400",
@@ -342,27 +361,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50522",
-        "CVE-2026-56164"
+        "CVE-2026-56164",
+        "CVE-2026-50522"
       ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes",
-    "link": "https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/",
-    "published": "Thu, 06 Aug 2026 14:03:45 -0400",
-    "summary": "Researchers found a way to bypass recent mitigations for Spectre v2 speculative execution side-channel attacks and developed an exploit to leak secrets from Linux machines. [...]",
-    "analysis": {
-      "issue": "Researchers found a way to bypass recent mitigations for Spectre v2 speculative execution side-channel attacks and developed an exploit to leak secrets from Linux machines",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
       "threat_categories": [
         "Vulnerability"
       ]
@@ -438,8 +439,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-50661",
-        "CVE-2026-48561",
         "CVE-2026-56164",
+        "CVE-2026-48561",
         "CVE-2026-56155"
       ],
       "threat_categories": [
@@ -676,12 +677,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-62830",
-        "CVE-2026-65667",
-        "CVE-2026-63508",
-        "CVE-2026-59115",
         "CVE-2026-50515",
+        "CVE-2026-65667",
+        "CVE-2026-59115",
         "CVE-2026-65400",
+        "CVE-2026-62830",
+        "CVE-2026-63508",
         "CVE-2026-50481",
         "CVE-2026-56162"
       ],
@@ -1298,8 +1299,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
