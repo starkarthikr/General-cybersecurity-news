@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-08 09:10:41 UTC
+**Last Updated:** 2026-08-08 12:58:44 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication](https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html)
+### 1. [Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers](https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 08 Aug 2026 14:24:50 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens](https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 08 Aug 2026 13:33:57 +0530  
+**Severity:** Low  
+**Categories:** APT  
+
+---
+
+### 3. [Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication](https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 08 Aug 2026 12:28:31 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist](https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html)
+### 4. [N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist](https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 08 Aug 2026 12:27:43 +0530  
@@ -23,7 +41,7 @@
 
 ---
 
-### 3. [Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts](https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html)
+### 5. [Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts](https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 08 Aug 2026 12:22:16 +0530  
@@ -33,7 +51,7 @@
 
 ---
 
-### 4. [Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer](https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html)
+### 6. [Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer](https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 08 Aug 2026 00:18:17 +0530  
@@ -42,7 +60,7 @@
 
 ---
 
-### 5. [ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets](https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html)
+### 7. [ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets](https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 07 Aug 2026 23:59:08 +0530  
@@ -51,7 +69,7 @@
 
 ---
 
-### 6. [UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data](https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html)
+### 8. [UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data](https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 07 Aug 2026 23:46:13 +0530  
@@ -60,7 +78,7 @@
 
 ---
 
-### 7. [New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP](https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html)
+### 9. [New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP](https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 07 Aug 2026 18:26:23 +0530  
@@ -70,29 +88,10 @@
 
 ---
 
-### 8. [Growing Up The Hard Way](https://thehackernews.com/2026/08/growing-up-hard-way.html)
+### 10. [Growing Up The Hard Way](https://thehackernews.com/2026/08/growing-up-hard-way.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 07 Aug 2026 17:25:26 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 9. [18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers](https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 07 Aug 2026 16:40:33 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-64564  
-**Categories:** Vulnerability  
-
----
-
-### 10. [New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables](https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 07 Aug 2026 16:28:38 +0530  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -221,7 +220,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56164, CVE-2026-48561, CVE-2026-50661, CVE-2026-56155  
+**CVEs:** CVE-2026-50661, CVE-2026-48561, CVE-2026-56164, CVE-2026-56155  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -280,7 +279,16 @@
 
 ---
 
-### 31. [In Other News: AI Slop Limits Apple Bounties, North Carolina Port Attacks, Hackers Target Wall Street](https://www.securityweek.com/in-other-news-ai-slop-limits-apple-bounties-north-carolina-port-attacks-hackers-target-wall-street/)
+### 31. [Critical One-Click Vulnerability in Atlassian’s Rovo AI Exposed Enterprise Data](https://www.securityweek.com/critical-one-click-vulnerability-in-atlassians-rovo-ai-exposed-enterprise-data/)
+
+**Source:** Security Week  
+**Published:** Sat, 08 Aug 2026 11:30:00 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, Phishing, Supply Chain  
+
+---
+
+### 32. [In Other News: AI Slop Limits Apple Bounties, North Carolina Port Attacks, Hackers Target Wall Street](https://www.securityweek.com/in-other-news-ai-slop-limits-apple-bounties-north-carolina-port-attacks-hackers-target-wall-street/)
 
 **Source:** Security Week  
 **Published:** Fri, 07 Aug 2026 14:26:42 +0000  
@@ -289,7 +297,7 @@
 
 ---
 
-### 32. [Vishing Extortion Group UNC6671 Rebrands After Making Millions](https://www.securityweek.com/vishing-extortion-group-unc6671-rebrands-after-making-millions/)
+### 33. [Vishing Extortion Group UNC6671 Rebrands After Making Millions](https://www.securityweek.com/vishing-extortion-group-unc6671-rebrands-after-making-millions/)
 
 **Source:** Security Week  
 **Published:** Fri, 07 Aug 2026 11:06:01 +0000  
@@ -298,7 +306,7 @@
 
 ---
 
-### 33. [Truck Brake Controller’s Safety Recall Doubled as Hidden Security Fix](https://www.securityweek.com/truck-brake-controllers-safety-recall-doubled-as-hidden-security-fix/)
+### 34. [Truck Brake Controller’s Safety Recall Doubled as Hidden Security Fix](https://www.securityweek.com/truck-brake-controllers-safety-recall-doubled-as-hidden-security-fix/)
 
 **Source:** Security Week  
 **Published:** Fri, 07 Aug 2026 10:00:00 +0000  
@@ -307,27 +315,27 @@
 
 ---
 
-### 34. [Black Hat USA 2026 – Summary of Vendor Announcements (Part 4)](https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-4/)
+### 35. [Black Hat USA 2026 – Summary of Vendor Announcements (Part 4)](https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-4/)
 
 **Source:** Security Week  
 **Published:** Fri, 07 Aug 2026 09:24:22 +0000  
 **Severity:** Low  
-**CVEs:** CVE-2026-56181, CVE-2026-63913  
+**CVEs:** CVE-2026-63913, CVE-2026-56181  
 **Categories:** Vulnerability, APT, DDoS, Supply Chain  
 
 ---
 
-### 35. [Microsoft, Apple Release Fresh Security Updates](https://www.securityweek.com/microsoft-apple-release-fresh-security-updates/)
+### 36. [Microsoft, Apple Release Fresh Security Updates](https://www.securityweek.com/microsoft-apple-release-fresh-security-updates/)
 
 **Source:** Security Week  
 **Published:** Fri, 07 Aug 2026 09:09:54 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50515, CVE-2026-59115, CVE-2026-50481, CVE-2026-65400, CVE-2026-62830, CVE-2026-65667, CVE-2026-63508, CVE-2026-56162  
+**CVEs:** CVE-2026-62830, CVE-2026-65667, CVE-2026-63508, CVE-2026-59115, CVE-2026-50515, CVE-2026-65400, CVE-2026-50481, CVE-2026-56162  
 **Categories:** Vulnerability  
 
 ---
 
-### 36. [3.8 Million Impacted by Unlimited Technology Systems Data Breach](https://www.securityweek.com/3-8-million-impacted-by-unlimited-technology-systems-data-breach/)
+### 37. [3.8 Million Impacted by Unlimited Technology Systems Data Breach](https://www.securityweek.com/3-8-million-impacted-by-unlimited-technology-systems-data-breach/)
 
 **Source:** Security Week  
 **Published:** Fri, 07 Aug 2026 07:22:05 +0000  
@@ -336,7 +344,7 @@
 
 ---
 
-### 37. [Critical Vulnerabilities Patched With Chrome 151 Update](https://www.securityweek.com/critical-vulnerabilities-patched-with-chrome-151-update/)
+### 38. [Critical Vulnerabilities Patched With Chrome 151 Update](https://www.securityweek.com/critical-vulnerabilities-patched-with-chrome-151-update/)
 
 **Source:** Security Week  
 **Published:** Fri, 07 Aug 2026 06:56:56 +0000  
@@ -345,7 +353,7 @@
 
 ---
 
-### 38. [Snowflake Hacker Pleads Guilty in US Court](https://www.securityweek.com/snowflake-hacker-pleads-guilty-in-us-court/)
+### 39. [Snowflake Hacker Pleads Guilty in US Court](https://www.securityweek.com/snowflake-hacker-pleads-guilty-in-us-court/)
 
 **Source:** Security Week  
 **Published:** Thu, 06 Aug 2026 14:56:31 +0000  
@@ -354,21 +362,12 @@
 
 ---
 
-### 39. [Zero-Click AI Browser Hacking: Claude and ChatGPT Atlas Hijacked via Emails, X Posts](https://www.securityweek.com/zero-click-ai-browser-hacking-claude-and-chatgpt-atlas-hijacked-via-emails-x-posts/)
+### 40. [Zero-Click AI Browser Hacking: Claude and ChatGPT Atlas Hijacked via Emails, X Posts](https://www.securityweek.com/zero-click-ai-browser-hacking-claude-and-chatgpt-atlas-hijacked-via-emails-x-posts/)
 
 **Source:** Security Week  
 **Published:** Thu, 06 Aug 2026 12:54:09 +0000  
 **Severity:** Critical  
 **Categories:** Vulnerability, Phishing  
-
----
-
-### 40. [Podcast: Compliance Won’t Save You: The Future of Cyber Risk with Edna Conway](https://www.securityweek.com/podcast-compliance-wont-save-you-the-future-of-cyber-risk-with-edna-conway/)
-
-**Source:** Security Week  
-**Published:** Thu, 06 Aug 2026 12:00:00 +0000  
-**Severity:** Critical  
-**Categories:** APT, Supply Chain  
 
 ---
 
@@ -632,7 +631,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
