@@ -340,8 +340,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56164",
-        "CVE-2026-50522"
+        "CVE-2026-50522",
+        "CVE-2026-56164"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -435,8 +435,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50661",
         "CVE-2026-48561",
+        "CVE-2026-50661",
         "CVE-2026-56155",
         "CVE-2026-56164"
       ],
@@ -654,14 +654,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-62830",
-        "CVE-2026-50515",
-        "CVE-2026-65400",
         "CVE-2026-65667",
+        "CVE-2026-50515",
+        "CVE-2026-62830",
+        "CVE-2026-56162",
+        "CVE-2026-65400",
         "CVE-2026-59115",
-        "CVE-2026-63508",
         "CVE-2026-50481",
-        "CVE-2026-56162"
+        "CVE-2026-63508"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1513,24 +1513,6 @@
   },
   {
     "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Threat Hunts for Shell Command Obfuscation on VMware ESX",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-hunts-for-shell-command-obfuscation-vmware-esx/",
-    "published": "Aug 07, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "CrowdStrike researchers tested obfuscation techniques on an ESX environment, cataloged 21 distinct methods, and built regex-based detection patterns based on their research",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
     "title": "Expanding AI Benchmarks in Cybersecurity Beyond Vulnerability Discovery",
     "link": "https://www.crowdstrike.com/en-us/blog/expanding-cybersecurity-ai-benchmarks-beyond-vulnerability-discovery/",
     "published": "Aug 06, 2026 00:00:00-0500",
@@ -1681,6 +1663,24 @@
     "summary": "",
     "analysis": {
       "issue": "CrowdStrike joins the Open Secure AI Alliance to help defenders secure the AI era through open models, shared research, and collective defense",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
+    "title": "CrowdStrike Falcon Platform Helps Meet U.S. Government Mandates for CISA BOD-26-04",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-helps-meet-us-government-mandates-cisa-bod-26-04/",
+    "published": "Jul 22, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "The CrowdStrike Falcon platform supports U",
       "solution": null,
       "cause": null,
       "timeline": null,
