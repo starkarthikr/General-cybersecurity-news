@@ -1,10 +1,39 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-08 02:28:20 UTC
+**Last Updated:** 2026-08-08 09:10:41 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer](https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html)
+### 1. [Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication](https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 08 Aug 2026 12:28:31 +0530  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist](https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 08 Aug 2026 12:27:43 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-18577  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts](https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 08 Aug 2026 12:22:16 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-8037  
+**Categories:** Vulnerability  
+
+---
+
+### 4. [Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer](https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 08 Aug 2026 00:18:17 +0530  
@@ -13,7 +42,7 @@
 
 ---
 
-### 2. [ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets](https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html)
+### 5. [ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets](https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 07 Aug 2026 23:59:08 +0530  
@@ -22,7 +51,7 @@
 
 ---
 
-### 3. [UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data](https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html)
+### 6. [UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data](https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 07 Aug 2026 23:46:13 +0530  
@@ -31,7 +60,7 @@
 
 ---
 
-### 4. [New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP](https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html)
+### 7. [New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP](https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 07 Aug 2026 18:26:23 +0530  
@@ -41,7 +70,7 @@
 
 ---
 
-### 5. [Growing Up The Hard Way](https://thehackernews.com/2026/08/growing-up-hard-way.html)
+### 8. [Growing Up The Hard Way](https://thehackernews.com/2026/08/growing-up-hard-way.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 07 Aug 2026 17:25:26 +0530  
@@ -50,7 +79,7 @@
 
 ---
 
-### 6. [18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers](https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html)
+### 9. [18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers](https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 07 Aug 2026 16:40:33 +0530  
@@ -60,39 +89,12 @@
 
 ---
 
-### 7. [New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables](https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html)
+### 10. [New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables](https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 07 Aug 2026 16:28:38 +0530  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 8. [Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails](https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 07 Aug 2026 16:08:27 +0530  
-**Severity:** Low  
-**Categories:** Phishing  
-
----
-
-### 9. [AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day](https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 07 Aug 2026 15:39:54 +0530  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 10. [Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access](https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 07 Aug 2026 14:22:11 +0530  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
@@ -219,7 +221,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48561, CVE-2026-50661, CVE-2026-56155, CVE-2026-56164  
+**CVEs:** CVE-2026-56164, CVE-2026-48561, CVE-2026-50661, CVE-2026-56155  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -320,7 +322,7 @@
 **Source:** Security Week  
 **Published:** Fri, 07 Aug 2026 09:09:54 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-65667, CVE-2026-50515, CVE-2026-62830, CVE-2026-56162, CVE-2026-65400, CVE-2026-59115, CVE-2026-50481, CVE-2026-63508  
+**CVEs:** CVE-2026-50515, CVE-2026-59115, CVE-2026-50481, CVE-2026-65400, CVE-2026-62830, CVE-2026-65667, CVE-2026-63508, CVE-2026-56162  
 **Categories:** Vulnerability  
 
 ---
@@ -735,7 +737,16 @@
 
 ---
 
-### 81. [Expanding AI Benchmarks in Cybersecurity Beyond Vulnerability Discovery](https://www.crowdstrike.com/en-us/blog/expanding-cybersecurity-ai-benchmarks-beyond-vulnerability-discovery/)
+### 81. [CrowdStrike Threat Hunts for Shell Command Obfuscation on VMware ESX](https://www.crowdstrike.com/en-us/blog/crowdstrike-hunts-for-shell-command-obfuscation-vmware-esx/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Aug 07, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 82. [Expanding AI Benchmarks in Cybersecurity Beyond Vulnerability Discovery](https://www.crowdstrike.com/en-us/blog/expanding-cybersecurity-ai-benchmarks-beyond-vulnerability-discovery/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Aug 06, 2026 00:00:00-0500  
@@ -744,7 +755,7 @@
 
 ---
 
-### 82. [Secure Agent Harness Execution: Preventing Escape](https://www.crowdstrike.com/en-us/blog/secure-agent-harness-execution-preventing-escape/)
+### 83. [Secure Agent Harness Execution: Preventing Escape](https://www.crowdstrike.com/en-us/blog/secure-agent-harness-execution-preventing-escape/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Aug 04, 2026 00:00:00-0500  
@@ -753,7 +764,7 @@
 
 ---
 
-### 83. [CrowdStrike 2026 Threat Hunting Report: Exploitation Window Closes as AI Use Accelerates](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-threat-hunting-report/)
+### 84. [CrowdStrike 2026 Threat Hunting Report: Exploitation Window Closes as AI Use Accelerates](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-threat-hunting-report/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Aug 03, 2026 00:00:00-0500  
@@ -762,7 +773,7 @@
 
 ---
 
-### 84. [Falcon AIDR Now Protects Copilot Studio Agents and Claude Code](https://www.crowdstrike.com/en-us/blog/falcon-aidr-protects-copilot-studio-agents-and-claude-code/)
+### 85. [Falcon AIDR Now Protects Copilot Studio Agents and Claude Code](https://www.crowdstrike.com/en-us/blog/falcon-aidr-protects-copilot-studio-agents-and-claude-code/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 30, 2026 00:00:00-0500  
@@ -771,7 +782,7 @@
 
 ---
 
-### 85. [Inside Astaroth's New Spambot Component](https://www.crowdstrike.com/en-us/blog/inside-astaroths-new-spambot-component/)
+### 86. [Inside Astaroth's New Spambot Component](https://www.crowdstrike.com/en-us/blog/inside-astaroths-new-spambot-component/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 29, 2026 00:00:00-0500  
@@ -780,7 +791,7 @@
 
 ---
 
-### 86. [Falcon Cloud Security July 2026 Release: Helping Security Teams Move Faster in the Cloud](https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-helping-security-teams-move-faster/)
+### 87. [Falcon Cloud Security July 2026 Release: Helping Security Teams Move Faster in the Cloud](https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-helping-security-teams-move-faster/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 29, 2026 00:00:00-0500  
@@ -789,7 +800,7 @@
 
 ---
 
-### 87. [Falcon Platform IOAs Arrive in Falcon Next-Gen SIEM to Identify New Threats](https://www.crowdstrike.com/en-us/blog/falcon-platform-ioas-arrive-in-falcon-next-gen-siem/)
+### 88. [Falcon Platform IOAs Arrive in Falcon Next-Gen SIEM to Identify New Threats](https://www.crowdstrike.com/en-us/blog/falcon-platform-ioas-arrive-in-falcon-next-gen-siem/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 29, 2026 00:00:00-0500  
@@ -798,7 +809,7 @@
 
 ---
 
-### 88. [5 High-Impact Use Cases for Falcon Onum](https://www.crowdstrike.com/en-us/blog/five-high-impact-use-cases-for-falcon-onum/)
+### 89. [5 High-Impact Use Cases for Falcon Onum](https://www.crowdstrike.com/en-us/blog/five-high-impact-use-cases-for-falcon-onum/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 27, 2026 00:00:00-0500  
@@ -807,19 +818,10 @@
 
 ---
 
-### 89. [CrowdStrike Joins the Open Secure AI Alliance to Advance AI Safety and Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-joins-the-open-secure-ai-alliance/)
+### 90. [CrowdStrike Joins the Open Secure AI Alliance to Advance AI Safety and Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-joins-the-open-secure-ai-alliance/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 27, 2026 00:00:00-0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 90. [CrowdStrike Falcon Platform Helps Meet U.S. Government Mandates for CISA BOD-26-04](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-helps-meet-us-government-mandates-cisa-bod-26-04/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Jul 22, 2026 00:00:00-0500  
 **Severity:** Low  
 **Categories:** General Security  
 

@@ -1,6 +1,64 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication",
+    "link": "https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html",
+    "published": "Sat, 08 Aug 2026 12:28:31 +0530",
+    "summary": "Metabase has warned that a maximum-severity security flaw impacting its business intelligence and data visualization software package has been exploited in the wild as a zero-day.\n\nThe vulnerability (CVSS score: 10.0), which does not carry a CVE identifier, allows an unauthenticated remote attacker to inject arbitrary SQL into the Metabase application database, enabling them to gain",
+    "analysis": {
+      "issue": "0 zero-day SQL injection was exploited in the wild; the flaw can grant admin access and expose connected database data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist",
+    "link": "https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html",
+    "published": "Sat, 08 Aug 2026 12:27:43 +0530",
+    "summary": "N-able has released a fresh round of hotfixes for N‑central as part of its investigation into ongoing exploitation of a recently disclosed security flaw in the Remote Monitoring and Management (RMM) product.\n\n\"We are proactively expanding protections in response to ongoing monitoring of threat actors as they evolve their attack techniques,\" the company said.\n\n\"This is not a duplicate of our",
+    "analysis": {
+      "issue": "N-able releases N-central Hotfix 2 amid CVE-2026-18577 exploitation that gave attackers admin access and persistent access to managed systems",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-18577"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts",
+    "link": "https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html",
+    "published": "Sat, 08 Aug 2026 12:22:16 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical-severity security flaw impacting Progress Kemp LoadMaster to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild.\n\nThe vulnerability, tracked as CVE-2026-8037 (CVSS score: 9.6), is a command injection flaw that could be weaponized to achieve arbitrary",
+    "analysis": {
+      "issue": "CISA adds Progress Kemp LoadMaster CVE-2026-8037 to KEV after active exploitation reports, with 792 attempts logged across 65 IPs in 41 days",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-8037"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer",
     "link": "https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html",
     "published": "Sat, 08 Aug 2026 00:18:17 +0530",
@@ -40,7 +98,7 @@
     "title": "UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data",
     "link": "https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html",
     "published": "Fri, 07 Aug 2026 23:46:13 +0530",
-    "summary": "A recent wave of cyber attacks targeting financial services, private equity, and professional services is attributed to a data extortion group known as UNC6671.\n\n\"UNC6671 continues to rely on voice phishing (vishing) to target enterprise employees, posing as IT help desk staff facilitating mandatory, urgent security migrations. Significantly, the threat actor often contacts employees via their",
+    "summary": "A recent wave of cyber attacks targeting financial services, private equity, and professional services has been attributed to a data extortion group known as UNC6671.\n\n\"UNC6671 continues to rely on voice phishing (vishing) to target enterprise employees, posing as IT help desk staff facilitating mandatory, urgent security migrations. Significantly, the threat actor often contacts employees via",
     "analysis": {
       "issue": "UNC6671 uses vishing and AitM phishing to steal cloud credentials and MFA tokens, then exfiltrate data from Microsoft 365, Okta, and other SaaS apps",
       "solution": null,
@@ -126,60 +184,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails",
-    "link": "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html",
-    "published": "Fri, 07 Aug 2026 16:08:27 +0530",
-    "summary": "Cybersecurity researchers have called attention to an active \"widespread email-driven phishing campaign\" that employs adversary-in-the-middle (AitM) techniques to take control of Microsoft 365 accounts with an aim to identify key personnel involved in financial workflows and gather related email.\n\n\"The campaign uses residential proxies to disguise malicious sign-ins as ordinary consumer traffic,",
-    "analysis": {
-      "issue": "AitM phishing hijacks Microsoft 365 accounts, then uses residential proxies and Microsoft Graph API access to collect payroll and finance email",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day",
-    "link": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
-    "published": "Fri, 07 Aug 2026 15:39:54 +0530",
-    "summary": "PortSwigger says HTTP Terminator, an artificial intelligence (AI)-assisted research system built by James Kettle, generated and proved new HTTP desynchronization techniques after exploring 30,000 candidate desync vectors.\n\nPortSwigger said a separate human-guided discovery cascade also exposed a zero-day in Apache Traffic Server. Kettle said HTTP Terminator tested 30,000 websites where",
-    "analysis": {
-      "issue": "PortSwigger says HTTP Terminator generated 30,000 desync vectors, found roughly 700 vulnerable targets, and helped uncover an Apache zero-day",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access",
-    "link": "https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html",
-    "published": "Fri, 07 Aug 2026 14:22:11 +0530",
-    "summary": "Entra ID researcher Dirk-jan Mollema demonstrated that malware already running in a signed-in Windows session can silently use the victim's Windows Hello for Business key to authenticate to Microsoft Entra ID.\n\nThe attacker can then establish longer-term cloud access, register a device it controls, obtain a Primary Refresh Token (PRT), and add further authentication methods where tenant policies",
-    "analysis": {
-      "issue": "Windows Hello keys can be abused from signed-in Windows sessions to gain Entra ID access without extracting TPM-backed private keys",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
@@ -435,10 +439,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-56164",
         "CVE-2026-48561",
         "CVE-2026-50661",
-        "CVE-2026-56155",
-        "CVE-2026-56164"
+        "CVE-2026-56155"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -654,14 +658,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-65667",
         "CVE-2026-50515",
-        "CVE-2026-62830",
-        "CVE-2026-56162",
-        "CVE-2026-65400",
         "CVE-2026-59115",
         "CVE-2026-50481",
-        "CVE-2026-63508"
+        "CVE-2026-65400",
+        "CVE-2026-62830",
+        "CVE-2026-65667",
+        "CVE-2026-63508",
+        "CVE-2026-56162"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1513,6 +1517,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "CrowdStrike Threat Hunts for Shell Command Obfuscation on VMware ESX",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-hunts-for-shell-command-obfuscation-vmware-esx/",
+    "published": "Aug 07, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "CrowdStrike researchers tested obfuscation techniques on an ESX environment, cataloged 21 distinct methods, and built regex-based detection patterns based on their research",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "Expanding AI Benchmarks in Cybersecurity Beyond Vulnerability Discovery",
     "link": "https://www.crowdstrike.com/en-us/blog/expanding-cybersecurity-ai-benchmarks-beyond-vulnerability-discovery/",
     "published": "Aug 06, 2026 00:00:00-0500",
@@ -1663,24 +1685,6 @@
     "summary": "",
     "analysis": {
       "issue": "CrowdStrike joins the Open Secure AI Alliance to help defenders secure the AI era through open models, shared research, and collective defense",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Falcon Platform Helps Meet U.S. Government Mandates for CISA BOD-26-04",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-helps-meet-us-government-mandates-cisa-bod-26-04/",
-    "published": "Jul 22, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "The CrowdStrike Falcon platform supports U",
       "solution": null,
       "cause": null,
       "timeline": null,
