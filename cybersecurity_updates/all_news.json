@@ -1,6 +1,44 @@
 [
   {
     "source": "The Hacker News",
+    "title": "⚡ Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors",
+    "link": "https://thehackernews.com/2026/08/weekly-recap-ai-goes-rogue-metabase-0.html",
+    "published": "Mon, 10 Aug 2026 20:30:29 +0530",
+    "summary": "A lot of security problems still begin with someone doing a completely normal thing. Cloning a repo. Answering a call. Leaving a box exposed. Trusting the default.\n\nThat pretty much covers the mood this week. Old bugs are back, supply chains are getting stranger, and some exploit paths are so short you wonder what was supposed to stop them in the first place.\n\nThat’s only part of it. Here’s",
+    "analysis": {
+      "issue": "This week’s cybersecurity recap covers rogue AI behavior, an exploited Metabase zero-day, MCP supply-chain attacks, router backdoors, and more",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development",
+    "link": "https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html",
+    "published": "Mon, 10 Aug 2026 18:49:58 +0530",
+    "summary": "North Korea's state hackers are no longer content to type prompts into public chatbots. One of the country's main espionage groups has begun running artificial intelligence (AI) offline on its own servers, connecting document-search tools to files in its possession, and collecting the software parts needed to build AI into its malware.\n\nSouth Korean security firm Genians says it uncovered the",
+    "analysis": {
+      "issue": "Kimsuky runs Ollama, GPT4All, and Msty offline while testing RAG and collecting AI libraries that could support phishing, malware, and data analysis",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA",
     "link": "https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html",
     "published": "Mon, 10 Aug 2026 17:55:04 +0530",
@@ -145,42 +183,44 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist",
-    "link": "https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html",
-    "published": "Sat, 08 Aug 2026 12:27:43 +0530",
-    "summary": "N-able has released a fresh round of hotfixes for N‑central as part of its investigation into ongoing exploitation of a recently disclosed security flaw in the Remote Monitoring and Management (RMM) product.\n\n\"We are proactively expanding protections in response to ongoing monitoring of threat actors as they evolve their attack techniques,\" the company said.\n\n\"This is not a duplicate of our",
+    "source": "Bleeping Computer",
+    "title": "CISA: SonicWall SMA1000 flaws now exploited by ransomware gangs",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/",
+    "published": "Mon, 10 Aug 2026 10:34:32 -0400",
+    "summary": "CISA has confirmed that ransomware gangs have begun exploiting two recently patched SonicWall SMA1000 vulnerabilities, including a maximum-severity server-side request forgery (SSRF) flaw. [...]",
     "analysis": {
-      "issue": "N-able releases N-central Hotfix 2 amid CVE-2026-18577 exploitation that gave attackers admin access and persistent access to managed systems",
+      "issue": "CISA has confirmed that ransomware gangs have begun exploiting two recently patched SonicWall SMA1000 vulnerabilities, including a maximum-severity server-side request forgery (SSRF) flaw",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [
-        "CVE-2026-18577"
+        "CVE-2026-15410",
+        "CVE-2026-15409"
       ],
       "threat_categories": [
-        "Vulnerability"
+        "Ransomware",
+        "Vulnerability",
+        "Malware"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts",
-    "link": "https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html",
-    "published": "Sat, 08 Aug 2026 12:22:16 +0530",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical-severity security flaw impacting Progress Kemp LoadMaster to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild.\n\nThe vulnerability, tracked as CVE-2026-8037 (CVSS score: 9.6), is a command injection flaw that could be weaponized to achieve arbitrary",
+    "source": "Bleeping Computer",
+    "title": "When Credentials Are No Longer Enough: Device Trust in the AI Era",
+    "link": "https://www.bleepingcomputer.com/news/security/when-credentials-are-no-longer-enough-device-trust-in-the-ai-era/",
+    "published": "Mon, 10 Aug 2026 10:01:11 -0400",
+    "summary": "AI is making phishing, credential theft, and social engineering faster and more efficient, while traditional trust signals such as passwords, MFA, IP reputation, and geolocation become easier to bypass. Specops explains why organizations are increasingly adding device trust to their Zero Trust strategies. [...]",
     "analysis": {
-      "issue": "CISA adds Progress Kemp LoadMaster CVE-2026-8037 to KEV after active exploitation reports, with 792 attempts logged across 65 IPs in 41 days",
+      "issue": "Identity security is under growing strain",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [
-        "CVE-2026-8037"
-      ],
+      "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "Phishing",
+        "APT"
       ]
     }
   },
@@ -332,42 +372,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Real emails, hijacked payments: Two H1 2026 attack chains",
-    "link": "https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/",
-    "published": "Fri, 07 Aug 2026 10:00:10 -0400",
-    "summary": "Gen's H1 2026 Threat Report examines two separate attack chains. One used compromised business inboxes and browser manipulation in a banking-malware campaign, while the other used clipboard hijacking to redirect cryptocurrency payments. [...]",
-    "analysis": {
-      "issue": "Gen Threat Labs followed two H1 2026 campaigns where attackers used legitimate accounts, browser settings and blockchain data as part of the attack path",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "North Carolina Ports confirms cyberattack disrupting operations",
-    "link": "https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/",
-    "published": "Fri, 07 Aug 2026 09:34:40 -0400",
-    "summary": "The North Carolina Ports Authority has confirmed that a cyberattack disrupted IT systems and slowed operations at Port of Wilmington, Port of Morehead City, and Charlotte Inland Port. [...]",
-    "analysis": {
-      "issue": "The North Carolina Ports Authority has confirmed that a cyberattack disrupted IT systems and slowed operations at the Port of Wilmington, Port of Morehead City, and Charlotte Inland Port",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
     "link": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
@@ -436,10 +440,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50661",
-        "CVE-2026-48561",
+        "CVE-2026-56164",
         "CVE-2026-56155",
-        "CVE-2026-56164"
+        "CVE-2026-50661",
+        "CVE-2026-48561"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -555,6 +559,70 @@
       "cves": [],
       "threat_categories": [
         "Ransomware",
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "OpenAI’s Upcoming Astra Model Raises Autonomous Cyberattack Concerns",
+    "link": "https://www.securityweek.com/openais-upcoming-astra-model-raises-autonomous-cyberattack-concerns/",
+    "published": "Mon, 10 Aug 2026 14:33:36 +0000",
+    "summary": "<p>The current GPT-5.6-Sol has been assigned a ‘high’ cybersecurity threshold, but Astra could reach the maximum ‘critical’ threshold. </p>\n<p>The post <a href=\"https://www.securityweek.com/openais-upcoming-astra-model-raises-autonomous-cyberattack-concerns/\">OpenAI’s Upcoming Astra Model Raises Autonomous Cyberattack Concerns</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "6-Sol has been assigned a ‘high’ cybersecurity threshold, but Astra could reach the maximum ‘critical’ threshold",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Stealthium Targets Security Blind Spots in AI Accelerators and Neo-Clouds",
+    "link": "https://www.securityweek.com/stealthium-targets-security-blind-spots-in-ai-accelerators-and-neo-clouds/",
+    "published": "Mon, 10 Aug 2026 14:19:36 +0000",
+    "summary": "<p>The startup analyzes subtle telemetry signals to detect attacks that traditional security tools cannot see inside accelerator-powered AI infrastructure.</p>\n<p>The post <a href=\"https://www.securityweek.com/stealthium-targets-security-blind-spots-in-ai-accelerators-and-neo-clouds/\">Stealthium Targets Security Blind Spots in AI Accelerators and Neo-Clouds</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The startup analyzes subtle telemetry signals to detect attacks that traditional security tools cannot see inside accelerator-powered AI infrastructure",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Cisco Warns of High-Severity ClamAV Vulnerabilities With Public PoC",
+    "link": "https://www.securityweek.com/cisco-warns-of-high-severity-clamav-vulnerabilities-with-public-poc/",
+    "published": "Mon, 10 Aug 2026 14:07:48 +0000",
+    "summary": "<p>Remote, unauthenticated attackers could exploit the bugs to cause a denial-of-service (DoS) condition.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-warns-of-high-severity-clamav-vulnerabilities-with-public-poc/\">Cisco Warns of High-Severity ClamAV Vulnerabilities With Public PoC</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Remote, unauthenticated attackers could exploit the bugs to cause a denial-of-service (DoS) condition",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-20348",
+        "CVE-2026-20345",
+        "CVE-2026-20338",
+        "CVE-2026-20339",
+        "CVE-2026-20337"
+      ],
+      "threat_categories": [
         "Vulnerability",
         "Malware"
       ]
@@ -690,65 +758,6 @@
         "Vulnerability",
         "Phishing",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Critical One-Click Vulnerability in Atlassian’s Rovo AI Exposed Enterprise Data",
-    "link": "https://www.securityweek.com/critical-one-click-vulnerability-in-atlassians-rovo-ai-exposed-enterprise-data/",
-    "published": "Sat, 08 Aug 2026 11:30:00 +0000",
-    "summary": "<p>The RovoBlast attack method identified by Varonis researchers could have been exploited to steal Confluence, Jira and SharePoint data.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-one-click-vulnerability-in-atlassians-rovo-ai-exposed-enterprise-data/\">Critical One-Click Vulnerability in Atlassian&#8217;s Rovo AI Exposed Enterprise Data</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The RovoBlast attack method identified by Varonis researchers could have been exploited to steal Confluence, Jira and SharePoint data",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "In Other News: AI Slop Limits Apple Bounties, North Carolina Port Attacks, Hackers Target Wall Street",
-    "link": "https://www.securityweek.com/in-other-news-ai-slop-limits-apple-bounties-north-carolina-port-attacks-hackers-target-wall-street/",
-    "published": "Fri, 07 Aug 2026 14:26:42 +0000",
-    "summary": "<p>Noteworthy stories that might have slipped under the radar: ban on Chinese data center tech, QuickFox VPN supply chain attack, IEH Corporation mailbox breached via phishing.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-ai-slop-limits-apple-bounties-north-carolina-port-attacks-hackers-target-wall-street/\">In Other News: AI Slop Limits Apple Bounties, North Carolina Port Attacks, Hackers Target Wall Street</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Noteworthy stories that might have slipped under the radar: ban on Chinese data center tech, QuickFox VPN supply chain attack, IEH Corporation mailbox breached via phishing",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Phishing",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Vishing Extortion Group UNC6671 Rebrands After Making Millions",
-    "link": "https://www.securityweek.com/vishing-extortion-group-unc6671-rebrands-after-making-millions/",
-    "published": "Fri, 07 Aug 2026 11:06:01 +0000",
-    "summary": "<p>Initially calling itself BlackFile, the group has expanded operations to the Redact, Pink, Helix, and Falcon brands.</p>\n<p>The post <a href=\"https://www.securityweek.com/vishing-extortion-group-unc6671-rebrands-after-making-millions/\">Vishing Extortion Group UNC6671 Rebrands After Making Millions</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Initially calling itself BlackFile, the group has expanded operations to the Redact, Pink, Helix, and Falcon brands",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Phishing"
       ]
     }
   },
@@ -941,6 +950,24 @@
   },
   {
     "source": "Recorded Future",
+    "title": "The Hugging Face Hack Was Cheap Persistence at Work",
+    "link": "https://www.recordedfuture.com/blog/hugging-face-cheap-persistence",
+    "published": "Mon, 10 Aug 2026 00:00:00 GMT",
+    "summary": "The Hugging Face incident shows AI won't make attackers brilliant. It makes persistence cheap. Defense has to close the gap from weak evidence to action.",
+    "analysis": {
+      "issue": "The Hugging Face incident shows AI won't make attackers brilliant",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
     "title": "July 2026 CVE Landscape",
     "link": "https://www.recordedfuture.com/blog/july-2026-cve-landscape",
     "published": "Fri, 07 Aug 2026 00:00:00 GMT",
@@ -1091,24 +1118,6 @@
     "summary": "What is an attack vector, and how does it impact your business? Discover the top threat actor targets in 2026 and learn attack vector vs attack surface dynamics.",
     "analysis": {
       "issue": "What is an attack vector, and how does it impact your business",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Threat Hunting: A Guide | Recorded Future",
-    "link": "https://www.recordedfuture.com/blog/cyber-threat-hunting",
-    "published": "Mon, 20 Jul 2026 00:00:00 GMT",
-    "summary": "Master modern cyber threat hunting by embracing real-time threat intelligence. Discover the elite tools, steps, and frameworks to expose hidden adversaries.",
-    "analysis": {
-      "issue": "Master modern cyber threat hunting by embracing real-time threat intelligence",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1286,8 +1295,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1312,6 +1321,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "New turnkey kit makes it easy for anyone to become a scammer",
+    "link": "https://www.malwarebytes.com/blog/scams/2026/08/new-turnkey-kit-makes-it-easy-for-anyone-to-become-a-scammer",
+    "published": "Mon, 10 Aug 2026 15:27:33 GMT",
+    "summary": "We discovered a kit that gave us an insight into how modern online scams are built, promoted, and potentially used to target everyday consumers.",
+    "analysis": {
+      "issue": "In 2026, online scams have unfortunately become part of the new normal",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1475,25 +1502,6 @@
       "cves": [],
       "threat_categories": [
         "Data Breach",
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Junk Cleaner clears the clutter from your Android",
-    "link": "https://www.malwarebytes.com/blog/product/2026/08/junk-cleaner-clears-the-clutter-from-your-android",
-    "published": "Wed, 05 Aug 2026 09:07:19 GMT",
-    "summary": "The easiest way to reclaim storage on your phone. Free up space without hunting through folders or risking your important files.",
-    "analysis": {
-      "issue": "Your phone is full again, and the warning appears at exactly the wrong moment",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
         "Malware",
         "Phishing"
       ]
