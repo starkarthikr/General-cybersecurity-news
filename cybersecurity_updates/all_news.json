@@ -1,6 +1,61 @@
 [
   {
     "source": "The Hacker News",
+    "title": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA",
+    "link": "https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html",
+    "published": "Mon, 10 Aug 2026 17:55:04 +0530",
+    "summary": "Three separate research efforts last week demonstrated ways to defeat passkey protections without breaking the cryptography they rest on.\n\nPasskeys are designed to replace reusable passwords and resist phishing. The attacks instead reused signed authentication material that Windows had exposed, abused a cloud-synced passkey system from malware already on the victim's machine, and used a&nbsp;",
+    "analysis": {
+      "issue": "Passkey attacks abuse Windows logs, Google Password Manager, and Windows Hello to bypass phishing-resistant MFA without breaking FIDO2",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development",
+    "link": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
+    "published": "Mon, 10 Aug 2026 17:22:16 +0530",
+    "summary": "AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prioritize fixes, and control risk at human speed.\n\nWhen software output jumps 10 to 50 times, the problem is no longer just finding vulnerabilities. It is keeping security from becoming the bottleneck, or worse, losing control of what gets shipped.",
+    "analysis": {
+      "issue": "AI-driven development can raise code output 10 to 50 times, forcing security teams to rethink review, remediation, and governance",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore",
+    "link": "https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html",
+    "published": "Mon, 10 Aug 2026 17:03:41 +0530",
+    "summary": "The threat actor known as Head Mare has been observed weaponizing security flaws in unpatched TrueConf servers once again in attacks targeting Russian companies spanning instrumentation, electronics, transport, energy, IT, and software development sectors.\n\nRussian cybersecurity vendor Kaspersky said it detected the attacks in July 2026.\n\nThe activity involves exploiting a vulnerability chain",
+    "analysis": {
+      "issue": "Head Mare exploits two TrueConf flaws to gain SYSTEM privileges and replace client installers with PhantomCore malware across Russian companies",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Solidity Pro VS Code Extensions Steal Crypto Wallets, API Keys, and Credentials",
     "link": "https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html",
     "published": "Mon, 10 Aug 2026 13:08:23 +0530",
@@ -130,13 +185,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer",
-    "link": "https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html",
-    "published": "Sat, 08 Aug 2026 00:18:17 +0530",
-    "summary": "A cluster of nearly 800 malicious packages has been published to the npm registry as part of a new campaign designed to deliver cross-platform malware targeting Windows, Mac, and Linux systems.\n\n\"These packages appear to use AI slop squatted, or randomly generated typo-squatting package names, but all of them deliver a powerful RAT and infostealer payload,\" OpenSourceMalware researcher Paul",
+    "source": "Bleeping Computer",
+    "title": "Member of The Com sent to prison for blackmail, sextortion",
+    "link": "https://www.bleepingcomputer.com/news/security/member-of-the-com-sent-to-prison-for-blackmail-sextortion/",
+    "published": "Mon, 10 Aug 2026 08:56:28 -0400",
+    "summary": "A member of \"The Com,\" a loose-knit online cybercrime collective that targets children and teenagers, has been sentenced to two years in prison for blackmail and sextortion offenses against nearly 120 victims worldwide. [...]",
     "analysis": {
-      "issue": "Nearly 800 malicious npm packages deliver a cross-platform RAT and infostealer, using WEL1DROPPER to target Windows, macOS, and Linux systems",
+      "issue": "A member of \"The Com,\" a loose-knit online cybercrime collective that targets children and teenagers, has been sentenced to two years in prison for blackmail and sextortion offenses against nearly 120 victims worldwide",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -148,38 +203,38 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets",
-    "link": "https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html",
-    "published": "Fri, 07 Aug 2026 23:59:08 +0530",
-    "summary": "ClickFix-style attacks are being used to deliver a Go-based malware capable of stealing cryptocurrency assets, as well as browser-stored passwords, Apple iCloud Keychain data, and cached credentials.\n\nThe macOS-focused infection chain is designed to deliver a shell script that profiles the host and then fetches a macOS malware payload that's compatible with the computer's CPU architecture.\n\n\"",
+    "source": "Bleeping Computer",
+    "title": "LexisNexis shuts down services after suspicious activity on servers",
+    "link": "https://www.bleepingcomputer.com/news/security/lexisnexis-shuts-down-services-after-suspicious-activity-on-servers/",
+    "published": "Mon, 10 Aug 2026 08:11:52 -0400",
+    "summary": "LexisNexis took its Diligence, Metabase API, and Newsdesk services offline as part of its response to unusual activity on servers hosted and managed by an unnamed third-party vendor. [...]",
     "analysis": {
-      "issue": "ClickFix attacks deliver a Go-based macOS stealer that steals passwords and Keychain data and can drain part or all of cryptocurrency wallets",
+      "issue": "LexisNexis took its Diligence, Metabase API, and Newsdesk services offline as part of its response to unusual activity on servers hosted and managed by an unnamed third-party vendor",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Supply Chain"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data",
-    "link": "https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html",
-    "published": "Fri, 07 Aug 2026 23:46:13 +0530",
-    "summary": "A recent wave of cyber attacks targeting financial services, private equity, and professional services has been attributed to a data extortion group known as UNC6671.\n\n\"UNC6671 continues to rely on voice phishing (vishing) to target enterprise employees, posing as IT help desk staff facilitating mandatory, urgent security migrations. Significantly, the threat actor often contacts employees via",
+    "source": "Bleeping Computer",
+    "title": "Valve notifies Steam hardware customers of a data breach",
+    "link": "https://www.bleepingcomputer.com/news/security/valve-notifies-steam-hardware-customers-of-a-data-breach/",
+    "published": "Mon, 10 Aug 2026 07:47:55 -0400",
+    "summary": "Video game publisher and digital distribution giant Valve is notifying Steam hardware customers in Europe that hackers stole their data after hacking its shipping partner, CEVA Logistics. [...]",
     "analysis": {
-      "issue": "UNC6671 uses vishing and AitM phishing to steal cloud credentials and MFA tokens, then exfiltrate data from Microsoft 365, Okta, and other SaaS apps",
+      "issue": "Video game publisher and digital distribution giant Valve is notifying Steam hardware customers in Europe that hackers stole their data after hacking its shipping partner, CEVA Logistics",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Phishing"
+        "Data Breach"
       ]
     }
   },
@@ -313,60 +368,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/",
-    "published": "Thu, 06 Aug 2026 18:48:22 -0400",
-    "summary": "OpenAI is rolling out a more reliable version of ChatGPT GPT-5.6 Sol for Plus and Pro users, while Free users are getting unlimited text chats with GPT-5.6 Luna. [...]",
-    "analysis": {
-      "issue": "OpenAI is rolling out a more reliable version of ChatGPT GPT-5",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "ClickFix attack pushes macOS infostealer for crypto theft attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/",
-    "published": "Thu, 06 Aug 2026 18:37:17 -0400",
-    "summary": "A Go-based malware delivered in ClickFix attacks targeting macOS users is stealing cryptocurrency assets, browser-stored passwords, Apple Keychain data, and cached credentials. [...]",
-    "analysis": {
-      "issue": "A Go-based malware delivered in ClickFix attacks targeting macOS users is stealing cryptocurrency assets, browser-stored passwords, Apple Keychain data, and cached credentials",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group",
-    "link": "https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/",
-    "published": "Thu, 06 Aug 2026 16:07:24 -0400",
-    "summary": "A recent wave of cyberattacks targeting hedge funds, private-equity firms, and other financial organizations has been linked to UNC6671, an extortion group reportedly associated with the BlackFile threat actors. [...]",
-    "analysis": {
-      "issue": "Update: Added statement from Falcon extortion gang below",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
     "link": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
@@ -437,8 +438,8 @@
       "cves": [
         "CVE-2026-50661",
         "CVE-2026-48561",
-        "CVE-2026-56164",
-        "CVE-2026-56155"
+        "CVE-2026-56155",
+        "CVE-2026-56164"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -561,6 +562,78 @@
   },
   {
     "source": "Security Week",
+    "title": "‘Ghostjacking’ Attack Uses Poisoned Logs to Turn AI Agents Bad",
+    "link": "https://www.securityweek.com/ghostjacking-attack-uses-poisoned-logs-to-turn-ai-agents-bad/",
+    "published": "Mon, 10 Aug 2026 12:59:34 +0000",
+    "summary": "<p>An AI agent executes instructions that an attacker has planted in the log or alert that records a blocked request word for word.</p>\n<p>The post <a href=\"https://www.securityweek.com/ghostjacking-attack-uses-poisoned-logs-to-turn-ai-agents-bad/\">&#8216;Ghostjacking&#8217; Attack Uses Poisoned Logs to Turn AI Agents Bad</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "An AI agent executes instructions that an attacker has planted in the log or alert that records a blocked request word for word",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "New Jersey, Alabama Join States Targeted in Water Cyberattacks",
+    "link": "https://www.securityweek.com/new-jersey-alabama-join-states-targeted-in-water-cyberattacks/",
+    "published": "Mon, 10 Aug 2026 11:44:26 +0000",
+    "summary": "<p>Hackers linked to Iran targeted industrial control systems (ICS) at water facilities in at least a dozen US states.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-jersey-alabama-join-states-targeted-in-water-cyberattacks/\">New Jersey, Alabama Join States Targeted in Water Cyberattacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Hackers linked to Iran targeted industrial control systems (ICS) at water facilities in at least a dozen US states",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Metabase Patches Vulnerability Exploited as Zero-Day",
+    "link": "https://www.securityweek.com/metabase-patches-vulnerability-exploited-as-zero-day/",
+    "published": "Mon, 10 Aug 2026 11:03:55 +0000",
+    "summary": "<p>The security defect allows unauthenticated, remote attackers to gain administrative access to Metabase instances.</p>\n<p>The post <a href=\"https://www.securityweek.com/metabase-patches-vulnerability-exploited-as-zero-day/\">Metabase Patches Vulnerability Exploited as Zero-Day</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The security defect allows unauthenticated, remote attackers to gain administrative access to Metabase instances",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Novel Private APN Pivot Let Hackers Sabotage Second Polish Energy Facility",
+    "link": "https://www.securityweek.com/novel-private-apn-pivot-let-hackers-sabotage-second-polish-energy-facility/",
+    "published": "Mon, 10 Aug 2026 10:01:52 +0000",
+    "summary": "<p>CERT.PL said this appears to be the first instance of a private APN being used as an attack vector.</p>\n<p>The post <a href=\"https://www.securityweek.com/novel-private-apn-pivot-let-hackers-sabotage-second-polish-energy-facility/\">Novel Private APN Pivot Let Hackers Sabotage Second Polish Energy Facility</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "PL said this appears to be the first instance of a private APN being used as an attack vector",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "CISA Urges Immediate Patching of Exploited Progress LoadMaster Vulnerability",
     "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-progress-loadmaster-vulnerability/",
     "published": "Mon, 10 Aug 2026 09:31:51 +0000",
@@ -676,94 +749,6 @@
       "threat_categories": [
         "Ransomware",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Truck Brake Controller’s Safety Recall Doubled as Hidden Security Fix",
-    "link": "https://www.securityweek.com/truck-brake-controllers-safety-recall-doubled-as-hidden-security-fix/",
-    "published": "Fri, 07 Aug 2026 10:00:00 +0000",
-    "summary": "<p>NMFTA research shows a Bendix EC80 brake controller safety recall also patched remote code execution and DoS vulnerabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/truck-brake-controllers-safety-recall-doubled-as-hidden-security-fix/\">Truck Brake Controller&#8217;s Safety Recall Doubled as Hidden Security Fix</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "NMFTA research shows a Bendix EC80 brake controller safety recall also patched remote code execution and DoS vulnerabilities",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Black Hat USA 2026 – Summary of Vendor Announcements (Part 4)",
-    "link": "https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-4/",
-    "published": "Fri, 07 Aug 2026 09:24:22 +0000",
-    "summary": "<p>Companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas.</p>\n<p>The post <a href=\"https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-4/\">Black Hat USA 2026 – Summary of Vendor Announcements (Part 4)</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-63913",
-        "CVE-2026-56181"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "APT",
-        "DDoS",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Microsoft, Apple Release Fresh Security Updates",
-    "link": "https://www.securityweek.com/microsoft-apple-release-fresh-security-updates/",
-    "published": "Fri, 07 Aug 2026 09:09:54 +0000",
-    "summary": "<p>Microsoft fixed critical vulnerabilities across Azure, Entra, and SharePoint, while Apple patched a high-severity authentication bypass.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-apple-release-fresh-security-updates/\">Microsoft, Apple Release Fresh Security Updates</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Microsoft fixed critical vulnerabilities across Azure, Entra, and SharePoint, while Apple patched a high-severity authentication bypass",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-65400",
-        "CVE-2026-59115",
-        "CVE-2026-50481",
-        "CVE-2026-50515",
-        "CVE-2026-65667",
-        "CVE-2026-62830",
-        "CVE-2026-56162",
-        "CVE-2026-63508"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "3.8 Million Impacted by Unlimited Technology Systems Data Breach",
-    "link": "https://www.securityweek.com/3-8-million-impacted-by-unlimited-technology-systems-data-breach/",
-    "published": "Fri, 07 Aug 2026 07:22:05 +0000",
-    "summary": "<p>Hackers stole personal, medical, and health insurance information from a company’s data center.</p>\n<p>The post <a href=\"https://www.securityweek.com/3-8-million-impacted-by-unlimited-technology-systems-data-breach/\">3.8 Million Impacted by Unlimited Technology Systems Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Hackers stole personal, medical, and health insurance information from a company’s data center",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach"
       ]
     }
   },
@@ -1332,6 +1317,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Edge is dropping older extensions, affecting popular privacy tools",
+    "link": "https://www.malwarebytes.com/blog/news/2026/08/edge-is-dropping-older-extensions-affecting-popular-privacy-tools",
+    "published": "Mon, 10 Aug 2026 12:47:20 GMT",
+    "summary": "Microsoft is retiring Manifest V2, the technology behind older Edge extensions. Some popular privacy tools will lose features or stop working.",
+    "analysis": {
+      "issue": "Microsoft is beginning the retirement of Manifest V2 (MV2) extensions in Edge this month, with consumer completion targeted for the end of 2026 and managed-enterprise deprecation in early 2027",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "A week in security (August 3 – August 9)",
     "link": "https://www.malwarebytes.com/blog/news/2026/08/a-week-in-security-august-3-august-9",
     "published": "Mon, 10 Aug 2026 07:01:00 GMT",
@@ -1493,26 +1496,6 @@
       "threat_categories": [
         "Malware",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Apple battles it out again with the UK over encrypted iCloud access",
-    "link": "https://www.malwarebytes.com/blog/news/2026/08/apple-battles-it-out-again-with-uk-over-encrypted-icloud-access",
-    "published": "Tue, 04 Aug 2026 20:30:13 GMT",
-    "summary": "Apple is fighting another attempt by the UK's Home Office to get a backdoor providing access to encrypted iCloud data.",
-    "analysis": {
-      "issue": "The UK Home Office has once again demanded Apple allows it access to encrypted iCloud data",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability",
-        "Malware"
       ]
     }
   },
