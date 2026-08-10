@@ -361,8 +361,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50522",
-        "CVE-2026-56164"
+        "CVE-2026-56164",
+        "CVE-2026-50522"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -577,7 +577,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability",
-        "Phishing",
         "Supply Chain"
       ]
     }
@@ -653,8 +652,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-63913",
-        "CVE-2026-56181"
+        "CVE-2026-56181",
+        "CVE-2026-63913"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -677,14 +676,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-65400",
-        "CVE-2026-59115",
-        "CVE-2026-62830",
-        "CVE-2026-56162",
-        "CVE-2026-65667",
-        "CVE-2026-50515",
         "CVE-2026-63508",
-        "CVE-2026-50481"
+        "CVE-2026-59115",
+        "CVE-2026-50515",
+        "CVE-2026-65400",
+        "CVE-2026-56162",
+        "CVE-2026-62830",
+        "CVE-2026-50481",
+        "CVE-2026-65667"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1299,8 +1298,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",

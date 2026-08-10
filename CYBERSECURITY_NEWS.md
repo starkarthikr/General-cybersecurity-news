@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-09 17:04:24 UTC
+**Last Updated:** 2026-08-10 02:10:50 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -183,7 +183,7 @@
 **Source:** Bleeping Computer  
 **Published:** Thu, 06 Aug 2026 14:14:19 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50522, CVE-2026-56164  
+**CVEs:** CVE-2026-56164, CVE-2026-50522  
 **Categories:** Vulnerability  
 
 ---
@@ -284,7 +284,7 @@
 **Source:** Security Week  
 **Published:** Sat, 08 Aug 2026 11:30:00 +0000  
 **Severity:** Critical  
-**Categories:** Vulnerability, Phishing, Supply Chain  
+**Categories:** Vulnerability, Supply Chain  
 
 ---
 
@@ -320,7 +320,7 @@
 **Source:** Security Week  
 **Published:** Fri, 07 Aug 2026 09:24:22 +0000  
 **Severity:** Low  
-**CVEs:** CVE-2026-63913, CVE-2026-56181  
+**CVEs:** CVE-2026-56181, CVE-2026-63913  
 **Categories:** Vulnerability, APT, DDoS, Supply Chain  
 
 ---
@@ -330,7 +330,7 @@
 **Source:** Security Week  
 **Published:** Fri, 07 Aug 2026 09:09:54 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-65400, CVE-2026-59115, CVE-2026-62830, CVE-2026-56162, CVE-2026-65667, CVE-2026-50515, CVE-2026-63508, CVE-2026-50481  
+**CVEs:** CVE-2026-63508, CVE-2026-59115, CVE-2026-50515, CVE-2026-65400, CVE-2026-56162, CVE-2026-62830, CVE-2026-50481, CVE-2026-65667  
 **Categories:** Vulnerability  
 
 ---
@@ -631,7 +631,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
