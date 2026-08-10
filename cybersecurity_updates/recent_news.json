@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Solidity Pro VS Code Extensions Steal Crypto Wallets, API Keys, and Credentials",
+    "link": "https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html",
+    "published": "Mon, 10 Aug 2026 13:08:23 +0530",
+    "summary": "Cybersecurity researchers have flagged a malicious Microsoft Visual Studio Code (VS Code) extension named Solidity Pro (\"solidity-pro\") that has been observed delivering a browser wallet and credential stealer.\n\nThe names of the extensions are below -\n\n\n  helper-beeps.solidity-pro\n  web3devtoolsx.solidity-pro\n\nAlthough neither of the extensions is now available on Open VSX, the GitHub repository",
+    "analysis": {
+      "issue": "Malicious Solidity Pro VS Code extensions steal crypto wallets, API keys, SSH keys, and developer tokens, then exfiltrate the data via Telegram",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause",
+    "link": "https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html",
+    "published": "Mon, 10 Aug 2026 11:20:03 +0530",
+    "summary": "OpenAI has announced that it's pausing some \"internal activities\" involving its upcoming artificial intelligence (AI) model Astra after an internal evaluation found it had made significant advancements in agentic coding and cybersecurity.\n\nIn response to the discovery, the AI upstart said it's implementing security controls for higher-capability models and associated activities, such as isolated",
+    "analysis": {
+      "issue": "OpenAI pauses some Astra activities after tests leave it unable to rule out Critical cyber capability, prompting tighter controls for higher-risk mode",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers",
     "link": "https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html",
     "published": "Sat, 08 Aug 2026 14:24:50 +0530",
@@ -148,40 +184,22 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP",
-    "link": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
-    "published": "Fri, 07 Aug 2026 18:26:23 +0530",
-    "summary": "WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system. pwn.ai demonstrated how the flaw can be chained into PHP code execution on the server when a logged-in administrator interacts with an attacker-controlled page.\n\nTracked as&nbsp;CVE-2026-64638&nbsp;(CVSS score: 8.9), the high-severity",
+    "source": "Bleeping Computer",
+    "title": "Critical Progress LoadMaster flaw now actively exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-progress-loadmaster-flaw-exploited-in-attacks/",
+    "published": "Mon, 10 Aug 2026 05:49:37 -0400",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity Progress Kemp LoadMaster command injection vulnerability. [...]",
     "analysis": {
-      "issue": "WordPress fixes CVE-2026-64638, a pre-auth login XSS affecting every version, with a demonstrated path to PHP execution under specific conditions",
+      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity Progress Kemp LoadMaster command injection vulnerability",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [
-        "CVE-2026-64638"
+        "CVE-2026-8037"
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Growing Up The Hard Way",
-    "link": "https://thehackernews.com/2026/08/growing-up-hard-way.html",
-    "published": "Fri, 07 Aug 2026 17:25:26 +0530",
-    "summary": "Open Source had a great childhood.\n\nFor two decades it got to be a kid. It ran around barefoot, gave everything away, trusted strangers, and never once thought about who was watching. It ran the kind of lemonade stand that took IOUs from anyone who wandered up — take what you need, pay me back whenever, no need to leave a name. It was idyllic. It was also, in retrospect, a little feral.\n\nThen,",
-    "analysis": {
-      "issue": "Open source may split as the EU Cyber Resilience Act and enterprise security demands favor reachable, patchable, accountable projects",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -349,27 +367,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Swiss government SharePoint breach compromised 200 accounts",
-    "link": "https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/",
-    "published": "Thu, 06 Aug 2026 14:14:19 -0400",
-    "summary": "Switzerland's federal IT office says hackers exploited vulnerabilities to breach its Microsoft SharePoint servers and compromised approximately 200 accounts. [...]",
-    "analysis": {
-      "issue": "Switzerland’s federal IT office says hackers exploited vulnerabilities to breach its Microsoft SharePoint servers and compromised approximately 200 accounts",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-50522",
-        "CVE-2026-56164"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
     "link": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
@@ -438,10 +435,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56155",
-        "CVE-2026-56164",
+        "CVE-2026-50661",
         "CVE-2026-48561",
-        "CVE-2026-50661"
+        "CVE-2026-56164",
+        "CVE-2026-56155"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -564,6 +561,67 @@
   },
   {
     "source": "Security Week",
+    "title": "CISA Urges Immediate Patching of Exploited Progress LoadMaster Vulnerability",
+    "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-progress-loadmaster-vulnerability/",
+    "published": "Mon, 10 Aug 2026 09:31:51 +0000",
+    "summary": "<p>The critical-severity flaw allows unauthenticated, remote attackers to execute arbitrary commands.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-progress-loadmaster-vulnerability/\">CISA Urges Immediate Patching of Exploited Progress LoadMaster Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The critical-severity flaw allows unauthenticated, remote attackers to execute arbitrary commands",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-8037",
+        "CVE-2026-33691"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Corporate Data Stolen in Levi Strauss Cyberattack",
+    "link": "https://www.securityweek.com/corporate-data-stolen-in-levi-strauss-cyberattack/",
+    "published": "Mon, 10 Aug 2026 08:55:44 +0000",
+    "summary": "<p>Using social engineering, a threat actor accessed the computers of three employees and exfiltrated data from them.</p>\n<p>The post <a href=\"https://www.securityweek.com/corporate-data-stolen-in-levi-strauss-cyberattack/\">Corporate Data Stolen in Levi Strauss Cyberattack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Using social engineering, a threat actor accessed the computers of three employees and exfiltrated data from them",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Phishing",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Critical Flaws Discovered in Belgian eID Software Used by 2 Million People",
+    "link": "https://www.securityweek.com/critical-flaws-discovered-in-belgian-eid-software-used-by-2-million-people/",
+    "published": "Mon, 10 Aug 2026 04:44:32 +0000",
+    "summary": "<p>The vulnerabilities affected software used by eight of Belgium’s ten largest banks and over 60 government agencies.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-flaws-discovered-in-belgian-eid-software-used-by-2-million-people/\">Critical Flaws Discovered in Belgian eID Software Used by 2 Million People</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The vulnerabilities affected software used by eight of Belgium’s ten largest banks and over 60 government agencies",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Critical One-Click Vulnerability in Atlassian’s Rovo AI Exposed Enterprise Data",
     "link": "https://www.securityweek.com/critical-one-click-vulnerability-in-atlassians-rovo-ai-exposed-enterprise-data/",
     "published": "Sat, 08 Aug 2026 11:30:00 +0000",
@@ -676,13 +734,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56162",
         "CVE-2026-65400",
+        "CVE-2026-59115",
+        "CVE-2026-50481",
+        "CVE-2026-50515",
         "CVE-2026-65667",
         "CVE-2026-62830",
-        "CVE-2026-50481",
-        "CVE-2026-59115",
-        "CVE-2026-50515",
+        "CVE-2026-56162",
         "CVE-2026-63508"
       ],
       "threat_categories": [
@@ -706,61 +764,6 @@
       "threat_categories": [
         "Ransomware",
         "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Critical Vulnerabilities Patched With Chrome 151 Update",
-    "link": "https://www.securityweek.com/critical-vulnerabilities-patched-with-chrome-151-update/",
-    "published": "Fri, 07 Aug 2026 06:56:56 +0000",
-    "summary": "<p>The browser refresh eliminates over two dozen memory safety bugs, including critical use-after-free flaws.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-vulnerabilities-patched-with-chrome-151-update/\">Critical Vulnerabilities Patched With Chrome 151 Update</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The browser refresh eliminates over two dozen memory safety bugs, including critical use-after-free flaws",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Snowflake Hacker Pleads Guilty in US Court",
-    "link": "https://www.securityweek.com/snowflake-hacker-pleads-guilty-in-us-court/",
-    "published": "Thu, 06 Aug 2026 14:56:31 +0000",
-    "summary": "<p>Connor Riley Moucka was extradited to the United States in July 2025 after he was arrested in Canada. </p>\n<p>The post <a href=\"https://www.securityweek.com/snowflake-hacker-pleads-guilty-in-us-court/\">Snowflake Hacker Pleads Guilty in US Court</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Connor Riley Moucka was extradited to the United States in July 2025 after he was arrested in Canada",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Zero-Click AI Browser Hacking: Claude and ChatGPT Atlas Hijacked via Emails, X Posts",
-    "link": "https://www.securityweek.com/zero-click-ai-browser-hacking-claude-and-chatgpt-atlas-hijacked-via-emails-x-posts/",
-    "published": "Thu, 06 Aug 2026 12:54:09 +0000",
-    "summary": "<p>Zenity researchers reported the findings to Anthropic and OpenAI in late 2025 and early 2026, but they remain unpatched.</p>\n<p>The post <a href=\"https://www.securityweek.com/zero-click-ai-browser-hacking-claude-and-chatgpt-atlas-hijacked-via-emails-x-posts/\">Zero-Click AI Browser Hacking: Claude and ChatGPT Atlas Hijacked via Emails, X Posts</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Zenity researchers reported the findings to Anthropic and OpenAI in late 2025 and early 2026, but they remain unpatched",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Phishing"
       ]
     }
   },
@@ -1329,6 +1332,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "A week in security (August 3 – August 9)",
+    "link": "https://www.malwarebytes.com/blog/news/2026/08/a-week-in-security-august-3-august-9",
+    "published": "Mon, 10 Aug 2026 07:01:00 GMT",
+    "summary": "A list of topics we covered in the week of August 3 to August 9 of 2026",
+    "analysis": {
+      "issue": "Last week on Malwarebytes Labs: Stay safe",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "AI chat bots are sliding into League of Legends friend requests",
     "link": "https://www.malwarebytes.com/blog/ai/2026/08/ai-chat-bots-are-sliding-into-league-of-legends-friend-requests",
     "published": "Fri, 07 Aug 2026 21:26:41 GMT",
@@ -1492,25 +1513,6 @@
         "Data Breach",
         "Vulnerability",
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Travelers targeted when logging into hotel Wi-Fi networks",
-    "link": "https://www.malwarebytes.com/blog/news/2026/08/travelers-targeted-when-logging-into-hotel-wi-fi-networks",
-    "published": "Tue, 04 Aug 2026 12:05:16 GMT",
-    "summary": "Russian cybercrime groups are running a campaign that abuses hospitality Wi-Fi to steal information from travelers worldwide.",
-    "analysis": {
-      "issue": "Microsoft has warned that hotel, conference, and other hospitality Wi-Fi networks are being actively abused by a Russian group to target travelers worldwide",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "APT"
       ]
     }
   },

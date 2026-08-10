@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-10 02:41:08 UTC
+**Last Updated:** 2026-08-10 09:57:49 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers](https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html)
+### 1. [Solidity Pro VS Code Extensions Steal Crypto Wallets, API Keys, and Credentials](https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 10 Aug 2026 13:08:23 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause](https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 10 Aug 2026 11:20:03 +0530  
+**Severity:** Critical  
+**Categories:** General Security  
+
+---
+
+### 3. [Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers](https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 08 Aug 2026 14:24:50 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens](https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html)
+### 4. [New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens](https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 08 Aug 2026 13:33:57 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication](https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html)
+### 5. [Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication](https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 08 Aug 2026 12:28:31 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist](https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html)
+### 6. [N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist](https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 08 Aug 2026 12:27:43 +0530  
@@ -41,7 +59,7 @@
 
 ---
 
-### 5. [Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts](https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html)
+### 7. [Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts](https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 08 Aug 2026 12:22:16 +0530  
@@ -51,7 +69,7 @@
 
 ---
 
-### 6. [Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer](https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html)
+### 8. [Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer](https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 08 Aug 2026 00:18:17 +0530  
@@ -60,7 +78,7 @@
 
 ---
 
-### 7. [ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets](https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html)
+### 9. [ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets](https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 07 Aug 2026 23:59:08 +0530  
@@ -69,7 +87,7 @@
 
 ---
 
-### 8. [UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data](https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html)
+### 10. [UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data](https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 07 Aug 2026 23:46:13 +0530  
@@ -78,26 +96,17 @@
 
 ---
 
-### 9. [New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP](https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html)
+### 11. [Critical Progress LoadMaster flaw now actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-progress-loadmaster-flaw-exploited-in-attacks/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 07 Aug 2026 18:26:23 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-64638  
+**Source:** Bleeping Computer  
+**Published:** Mon, 10 Aug 2026 05:49:37 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-8037  
 **Categories:** Vulnerability  
 
 ---
 
-### 10. [Growing Up The Hard Way](https://thehackernews.com/2026/08/growing-up-hard-way.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 07 Aug 2026 17:25:26 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 11. [Hackers breach TrueConf to trojanize client installers with backdoors](https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/)
+### 12. [Hackers breach TrueConf to trojanize client installers with backdoors](https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 08 Aug 2026 10:16:23 -0400  
@@ -106,7 +115,7 @@
 
 ---
 
-### 12. [Metabase SQLi zero-day exploited in customer data-theft attacks](https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/)
+### 13. [Metabase SQLi zero-day exploited in customer data-theft attacks](https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 07 Aug 2026 16:14:46 -0400  
@@ -115,7 +124,7 @@
 
 ---
 
-### 13. [Unlimited Technology Systems breach impacts 3.8 million people](https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/)
+### 14. [Unlimited Technology Systems breach impacts 3.8 million people](https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 07 Aug 2026 15:30:41 -0400  
@@ -124,7 +133,7 @@
 
 ---
 
-### 14. [Levi Strauss & Co. says hackers stole corporate data in cyberattack](https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/)
+### 15. [Levi Strauss & Co. says hackers stole corporate data in cyberattack](https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 07 Aug 2026 11:48:20 -0400  
@@ -133,7 +142,7 @@
 
 ---
 
-### 15. [Real emails, hijacked payments: Two H1 2026 attack chains](https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/)
+### 16. [Real emails, hijacked payments: Two H1 2026 attack chains](https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 07 Aug 2026 10:00:10 -0400  
@@ -142,7 +151,7 @@
 
 ---
 
-### 16. [North Carolina Ports confirms cyberattack disrupting operations](https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/)
+### 17. [North Carolina Ports confirms cyberattack disrupting operations](https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 07 Aug 2026 09:34:40 -0400  
@@ -151,7 +160,7 @@
 
 ---
 
-### 17. [OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/)
+### 18. [OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 06 Aug 2026 18:48:22 -0400  
@@ -160,7 +169,7 @@
 
 ---
 
-### 18. [ClickFix attack pushes macOS infostealer for crypto theft attacks](https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/)
+### 19. [ClickFix attack pushes macOS infostealer for crypto theft attacks](https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 06 Aug 2026 18:37:17 -0400  
@@ -169,22 +178,12 @@
 
 ---
 
-### 19. [Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group](https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/)
+### 20. [Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group](https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 06 Aug 2026 16:07:24 -0400  
 **Severity:** Low  
 **Categories:** Phishing  
-
----
-
-### 20. [Swiss government SharePoint breach compromised 200 accounts](https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 06 Aug 2026 14:14:19 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-50522, CVE-2026-56164  
-**Categories:** Vulnerability  
 
 ---
 
@@ -220,7 +219,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56155, CVE-2026-56164, CVE-2026-48561, CVE-2026-50661  
+**CVEs:** CVE-2026-50661, CVE-2026-48561, CVE-2026-56164, CVE-2026-56155  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -279,7 +278,35 @@
 
 ---
 
-### 31. [Critical One-Click Vulnerability in Atlassian’s Rovo AI Exposed Enterprise Data](https://www.securityweek.com/critical-one-click-vulnerability-in-atlassians-rovo-ai-exposed-enterprise-data/)
+### 31. [CISA Urges Immediate Patching of Exploited Progress LoadMaster Vulnerability](https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-progress-loadmaster-vulnerability/)
+
+**Source:** Security Week  
+**Published:** Mon, 10 Aug 2026 09:31:51 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-8037, CVE-2026-33691  
+**Categories:** Vulnerability  
+
+---
+
+### 32. [Corporate Data Stolen in Levi Strauss Cyberattack](https://www.securityweek.com/corporate-data-stolen-in-levi-strauss-cyberattack/)
+
+**Source:** Security Week  
+**Published:** Mon, 10 Aug 2026 08:55:44 +0000  
+**Severity:** Low  
+**Categories:** Data Breach, Phishing, Supply Chain  
+
+---
+
+### 33. [Critical Flaws Discovered in Belgian eID Software Used by 2 Million People](https://www.securityweek.com/critical-flaws-discovered-in-belgian-eid-software-used-by-2-million-people/)
+
+**Source:** Security Week  
+**Published:** Mon, 10 Aug 2026 04:44:32 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, Phishing, Supply Chain  
+
+---
+
+### 34. [Critical One-Click Vulnerability in Atlassian’s Rovo AI Exposed Enterprise Data](https://www.securityweek.com/critical-one-click-vulnerability-in-atlassians-rovo-ai-exposed-enterprise-data/)
 
 **Source:** Security Week  
 **Published:** Sat, 08 Aug 2026 11:30:00 +0000  
@@ -288,7 +315,7 @@
 
 ---
 
-### 32. [In Other News: AI Slop Limits Apple Bounties, North Carolina Port Attacks, Hackers Target Wall Street](https://www.securityweek.com/in-other-news-ai-slop-limits-apple-bounties-north-carolina-port-attacks-hackers-target-wall-street/)
+### 35. [In Other News: AI Slop Limits Apple Bounties, North Carolina Port Attacks, Hackers Target Wall Street](https://www.securityweek.com/in-other-news-ai-slop-limits-apple-bounties-north-carolina-port-attacks-hackers-target-wall-street/)
 
 **Source:** Security Week  
 **Published:** Fri, 07 Aug 2026 14:26:42 +0000  
@@ -297,7 +324,7 @@
 
 ---
 
-### 33. [Vishing Extortion Group UNC6671 Rebrands After Making Millions](https://www.securityweek.com/vishing-extortion-group-unc6671-rebrands-after-making-millions/)
+### 36. [Vishing Extortion Group UNC6671 Rebrands After Making Millions](https://www.securityweek.com/vishing-extortion-group-unc6671-rebrands-after-making-millions/)
 
 **Source:** Security Week  
 **Published:** Fri, 07 Aug 2026 11:06:01 +0000  
@@ -306,7 +333,7 @@
 
 ---
 
-### 34. [Truck Brake Controller’s Safety Recall Doubled as Hidden Security Fix](https://www.securityweek.com/truck-brake-controllers-safety-recall-doubled-as-hidden-security-fix/)
+### 37. [Truck Brake Controller’s Safety Recall Doubled as Hidden Security Fix](https://www.securityweek.com/truck-brake-controllers-safety-recall-doubled-as-hidden-security-fix/)
 
 **Source:** Security Week  
 **Published:** Fri, 07 Aug 2026 10:00:00 +0000  
@@ -315,7 +342,7 @@
 
 ---
 
-### 35. [Black Hat USA 2026 – Summary of Vendor Announcements (Part 4)](https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-4/)
+### 38. [Black Hat USA 2026 – Summary of Vendor Announcements (Part 4)](https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-4/)
 
 **Source:** Security Week  
 **Published:** Fri, 07 Aug 2026 09:24:22 +0000  
@@ -325,49 +352,22 @@
 
 ---
 
-### 36. [Microsoft, Apple Release Fresh Security Updates](https://www.securityweek.com/microsoft-apple-release-fresh-security-updates/)
+### 39. [Microsoft, Apple Release Fresh Security Updates](https://www.securityweek.com/microsoft-apple-release-fresh-security-updates/)
 
 **Source:** Security Week  
 **Published:** Fri, 07 Aug 2026 09:09:54 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56162, CVE-2026-65400, CVE-2026-65667, CVE-2026-62830, CVE-2026-50481, CVE-2026-59115, CVE-2026-50515, CVE-2026-63508  
+**CVEs:** CVE-2026-65400, CVE-2026-59115, CVE-2026-50481, CVE-2026-50515, CVE-2026-65667, CVE-2026-62830, CVE-2026-56162, CVE-2026-63508  
 **Categories:** Vulnerability  
 
 ---
 
-### 37. [3.8 Million Impacted by Unlimited Technology Systems Data Breach](https://www.securityweek.com/3-8-million-impacted-by-unlimited-technology-systems-data-breach/)
+### 40. [3.8 Million Impacted by Unlimited Technology Systems Data Breach](https://www.securityweek.com/3-8-million-impacted-by-unlimited-technology-systems-data-breach/)
 
 **Source:** Security Week  
 **Published:** Fri, 07 Aug 2026 07:22:05 +0000  
 **Severity:** Low  
 **Categories:** Ransomware, Data Breach  
-
----
-
-### 38. [Critical Vulnerabilities Patched With Chrome 151 Update](https://www.securityweek.com/critical-vulnerabilities-patched-with-chrome-151-update/)
-
-**Source:** Security Week  
-**Published:** Fri, 07 Aug 2026 06:56:56 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 39. [Snowflake Hacker Pleads Guilty in US Court](https://www.securityweek.com/snowflake-hacker-pleads-guilty-in-us-court/)
-
-**Source:** Security Week  
-**Published:** Thu, 06 Aug 2026 14:56:31 +0000  
-**Severity:** Low  
-**Categories:** Ransomware  
-
----
-
-### 40. [Zero-Click AI Browser Hacking: Claude and ChatGPT Atlas Hijacked via Emails, X Posts](https://www.securityweek.com/zero-click-ai-browser-hacking-claude-and-chatgpt-atlas-hijacked-via-emails-x-posts/)
-
-**Source:** Security Week  
-**Published:** Thu, 06 Aug 2026 12:54:09 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, Phishing  
 
 ---
 
@@ -646,7 +646,16 @@
 
 ---
 
-### 71. [AI chat bots are sliding into League of Legends friend requests](https://www.malwarebytes.com/blog/ai/2026/08/ai-chat-bots-are-sliding-into-league-of-legends-friend-requests)
+### 71. [A week in security (August 3 – August 9)](https://www.malwarebytes.com/blog/news/2026/08/a-week-in-security-august-3-august-9)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 10 Aug 2026 07:01:00 GMT  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 72. [AI chat bots are sliding into League of Legends friend requests](https://www.malwarebytes.com/blog/ai/2026/08/ai-chat-bots-are-sliding-into-league-of-legends-friend-requests)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 07 Aug 2026 21:26:41 GMT  
@@ -655,7 +664,7 @@
 
 ---
 
-### 72. [Meta ordered to pay $942 million over harm to children](https://www.malwarebytes.com/blog/uncategorized/2026/08/meta-ordered-to-pay-942-million-over-harm-to-children)
+### 73. [Meta ordered to pay $942 million over harm to children](https://www.malwarebytes.com/blog/uncategorized/2026/08/meta-ordered-to-pay-942-million-over-harm-to-children)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 07 Aug 2026 21:04:55 GMT  
@@ -664,7 +673,7 @@
 
 ---
 
-### 73. [Apple WebKit vulnerabilities reveal your IP address, despite Private Relay](https://www.malwarebytes.com/blog/news/2026/08/apple-webkit-vulnerabilities-reveal-your-ip-address-despite-private-relay)
+### 74. [Apple WebKit vulnerabilities reveal your IP address, despite Private Relay](https://www.malwarebytes.com/blog/news/2026/08/apple-webkit-vulnerabilities-reveal-your-ip-address-despite-private-relay)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 06 Aug 2026 14:30:35 GMT  
@@ -673,7 +682,7 @@
 
 ---
 
-### 74. [Scammers target OnlyFans users with deepfakes](https://www.malwarebytes.com/blog/news/2026/08/scammers-target-onlyfans-users-with-deepfakes)
+### 75. [Scammers target OnlyFans users with deepfakes](https://www.malwarebytes.com/blog/news/2026/08/scammers-target-onlyfans-users-with-deepfakes)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 06 Aug 2026 11:38:27 GMT  
@@ -682,7 +691,7 @@
 
 ---
 
-### 75. [Amazon and Apple impersonated in “$149.99 unauthorized charge” scam](https://www.malwarebytes.com/blog/scams/2026/08/amazon-and-apple-impersonated-in-149-99-unauthorized-charge-scam)
+### 76. [Amazon and Apple impersonated in “$149.99 unauthorized charge” scam](https://www.malwarebytes.com/blog/scams/2026/08/amazon-and-apple-impersonated-in-149-99-unauthorized-charge-scam)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 06 Aug 2026 10:55:11 GMT  
@@ -691,7 +700,7 @@
 
 ---
 
-### 76. [Anthropic’s Mythos AI used social engineering to target real people](https://www.malwarebytes.com/blog/news/2026/08/anthropics-mythos-ai-used-social-engineering-to-target-real-people)
+### 77. [Anthropic’s Mythos AI used social engineering to target real people](https://www.malwarebytes.com/blog/news/2026/08/anthropics-mythos-ai-used-social-engineering-to-target-real-people)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 06 Aug 2026 10:45:31 GMT  
@@ -700,7 +709,7 @@
 
 ---
 
-### 77. [Google’s synchronized passkeys can be stolen in ‘Pass‑ta‑key’ attacks](https://www.malwarebytes.com/blog/news/2026/08/googles-synchronized-passkeys-can-be-stolen-in-pass-ta-key-attacks)
+### 78. [Google’s synchronized passkeys can be stolen in ‘Pass‑ta‑key’ attacks](https://www.malwarebytes.com/blog/news/2026/08/googles-synchronized-passkeys-can-be-stolen-in-pass-ta-key-attacks)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 05 Aug 2026 11:11:48 GMT  
@@ -709,7 +718,7 @@
 
 ---
 
-### 78. [Junk Cleaner clears the clutter from your Android](https://www.malwarebytes.com/blog/product/2026/08/junk-cleaner-clears-the-clutter-from-your-android)
+### 79. [Junk Cleaner clears the clutter from your Android](https://www.malwarebytes.com/blog/product/2026/08/junk-cleaner-clears-the-clutter-from-your-android)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 05 Aug 2026 09:07:19 GMT  
@@ -718,21 +727,12 @@
 
 ---
 
-### 79. [Apple battles it out again with the UK over encrypted iCloud access](https://www.malwarebytes.com/blog/news/2026/08/apple-battles-it-out-again-with-uk-over-encrypted-icloud-access)
+### 80. [Apple battles it out again with the UK over encrypted iCloud access](https://www.malwarebytes.com/blog/news/2026/08/apple-battles-it-out-again-with-uk-over-encrypted-icloud-access)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 04 Aug 2026 20:30:13 GMT  
 **Severity:** Low  
 **Categories:** Data Breach, Vulnerability, Malware  
-
----
-
-### 80. [Travelers targeted when logging into hotel Wi-Fi networks](https://www.malwarebytes.com/blog/news/2026/08/travelers-targeted-when-logging-into-hotel-wi-fi-networks)
-
-**Source:** Malwarebytes  
-**Published:** Tue, 04 Aug 2026 12:05:16 GMT  
-**Severity:** Low  
-**Categories:** Malware, APT  
 
 ---
 
