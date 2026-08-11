@@ -1,6 +1,45 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development",
+    "link": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
+    "published": "Mon, 10 Aug 2026 22:59:17 +0530",
+    "summary": "AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prioritize fixes, and control risk at human speed.\n\nWhen software output jumps 10 to 50 times, the problem is no longer just finding vulnerabilities. It is keeping security from becoming the bottleneck, or worse, losing control of what gets shipped.",
+    "analysis": {
+      "issue": "AI-driven development can raise code output 10 to 50 times, forcing security teams to rethink review, remediation, and governance",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw",
+    "link": "https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html",
+    "published": "Mon, 10 Aug 2026 22:08:37 +0530",
+    "summary": "Microsoft has disclosed that Storm-1175, a financially motivated threat actor linked to China, has deployed a previously undocumented ransomware strain called StormEncryptor.\n\nThe use of StormEncryptor marks a shift from the adversary's previous use of Medusa ransomware, the Microsoft Threat Intelligence Team said.\n\n\"StormEncryptor is written in C++ and appends the file name extension .encrypted",
+    "analysis": {
+      "issue": "Microsoft says Storm-1175 is deploying new StormEncryptor ransomware, likely after exploiting N-able N-central CVE-2026-18577 for access",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-18577"
+      ],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "⚡ Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors",
     "link": "https://thehackernews.com/2026/08/weekly-recap-ai-goes-rogue-metabase-0.html",
     "published": "Mon, 10 Aug 2026 20:30:29 +0530",
@@ -52,24 +91,6 @@
       "cves": [],
       "threat_categories": [
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development",
-    "link": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
-    "published": "Mon, 10 Aug 2026 17:22:16 +0530",
-    "summary": "AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prioritize fixes, and control risk at human speed.\n\nWhen software output jumps 10 to 50 times, the problem is no longer just finding vulnerabilities. It is keeping security from becoming the bottleneck, or worse, losing control of what gets shipped.",
-    "analysis": {
-      "issue": "AI-driven development can raise code output 10 to 50 times, forcing security teams to rethink review, remediation, and governance",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -165,20 +186,79 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication",
-    "link": "https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html",
-    "published": "Sat, 08 Aug 2026 12:28:31 +0530",
-    "summary": "Metabase has warned that a maximum-severity security flaw impacting its business intelligence and data visualization software package has been exploited in the wild as a zero-day.\n\nThe vulnerability (CVSS score: 10.0), which does not carry a CVE identifier, allows an unauthenticated remote attacker to inject arbitrary SQL into the Metabase application database, enabling them to gain",
+    "source": "Bleeping Computer",
+    "title": "Hackers breached a small Polish energy plant via private APN last year",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/",
+    "published": "Mon, 10 Aug 2026 19:07:21 -0400",
+    "summary": "Hackers breached a heat-and-power plant facility in Poland, which supplies heat to about 50,000 residents, using a private APN (Access Point Name) to access an OT (Operational Technology) network. [...]",
     "analysis": {
-      "issue": "0 zero-day SQL injection was exploited in the wild; the flaw can grant admin access and expose connected database data",
+      "issue": "Hackers used a dedicated mobile gateway to compromise a second facility during the destructive cyberattacks that hit Poland's energy sector last year",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "BdThemes plugins supply-chain hack creates rogue WordPress admins",
+    "link": "https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/",
+    "published": "Mon, 10 Aug 2026 17:12:10 -0400",
+    "summary": "A threat actor compromised the upstream infrastructure of BdThemes, a developer of premium WordPress web-design tools, and modified a remote JSON feed delivered to administrators' browsers to create rogue admin accounts. [...]",
+    "analysis": {
+      "issue": "A threat actor compromised the upstream infrastructure of BdThemes, a developer of premium WordPress web-design tools, and modified a remote JSON feed delivered to administrators’ browsers to create rogue admin accounts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users",
+    "link": "https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/",
+    "published": "Mon, 10 Aug 2026 15:24:40 -0400",
+    "summary": "OpenAI has developed a new model called \"GPT 5.6 Cyber,\" designed for vulnerability research, penetration testing, incident response, and remediation. [...]",
+    "analysis": {
+      "issue": "OpenAI has developed a new model called \"GPT 5",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "New StormEncryptor ransomware used by former Medusa affiliate",
+    "link": "https://www.bleepingcomputer.com/news/security/new-stormencryptor-ransomware-used-by-former-medusa-affiliate/",
+    "published": "Mon, 10 Aug 2026 13:42:00 -0400",
+    "summary": "A financially motivated threat actor previously associated with the Medusa ransomware operation is now deploying a new ransomware strain called StormEncryptor. [...]",
+    "analysis": {
+      "issue": "A financially motivated threat actor previously associated with the Medusa ransomware operation is now deploying a new ransomware strain called StormEncryptor",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
-      "cves": [],
+      "cves": [
+        "CVE-2026-18577"
+      ],
       "threat_categories": [
-        "Vulnerability"
+        "Ransomware",
+        "Data Breach",
+        "Vulnerability",
+        "Malware"
       ]
     }
   },
@@ -299,272 +379,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Hackers breach TrueConf to trojanize client installers with backdoors",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
-    "published": "Sat, 08 Aug 2026 10:16:23 -0400",
-    "summary": "The Head Mare hacktivist group has been exploiting vulnerabilities in unpatched TrueConf video conferencing servers to replace client installers with malicious versions that deliver backdoors. [...]",
-    "analysis": {
-      "issue": "The Head Mare hacktivist group has been exploiting vulnerabilities in unpatched TrueConf video conferencing servers to replace client installers with malicious versions that deliver backdoors",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Metabase SQLi zero-day exploited in customer data-theft attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
-    "published": "Fri, 07 Aug 2026 16:14:46 -0400",
-    "summary": "A critical Metabase SQL injection vulnerability was exploited in zero-day attacks to breach customer instances in data theft attacks, known to impact Framework and Tally. [...]",
-    "analysis": {
-      "issue": "A critical Metabase SQL injection vulnerability was exploited in zero-day attacks to breach customer instances in data theft attacks, known to impact Framework and Tally",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Unlimited Technology Systems breach impacts 3.8 million people",
-    "link": "https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/",
-    "published": "Fri, 07 Aug 2026 15:30:41 -0400",
-    "summary": "Healthcare software company Unlimited Technology Systems reported that more than 3.8 million people were impacted by a data breach incident that occurred in October 2025. [...]",
-    "analysis": {
-      "issue": "Healthcare software company Unlimited Technology Systems reported that more than 3",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Levi Strauss & Co. says hackers stole corporate data in cyberattack",
-    "link": "https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/",
-    "published": "Fri, 07 Aug 2026 11:48:20 -0400",
-    "summary": "Levi Strauss & Co. (Levi's) says that hackers used social engineering on three of its employees to gain access to and steal corporate data stored on their machines. [...]",
-    "analysis": {
-      "issue": "(Levi’s) says that hackers used social engineering on three of its employees to gain access to and steal corporate data stored on their machines",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
-    "link": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
-    "published": "Thu, 06 Aug 2026 17:00:56 +0000",
-    "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&#038;T customers.",
-    "analysis": {
-      "issue": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud provider Snowflake",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Read This Before You Buy That TV Streaming Stick",
-    "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-    "published": "Thu, 30 Jul 2026 16:49:00 +0000",
-    "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a groundbreaking new analysis finds these devices also routinely spoof themselves as mobile phones clicking ads on AI-generated websites as part of sprawling operation that seeks to defraud online merchants and advertising networks.",
-    "analysis": {
-      "issue": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user’s Internet connection out to strangers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "LG to Ban Residential Proxies from Smart TV Apps",
-    "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
-    "published": "Wed, 22 Jul 2026 01:10:38 +0000",
-    "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers found that more than 42 percent of games and other apps available for download on LG's webOS store allow unknown third-parties to route their Internet traffic through a user's TV.",
-    "analysis": {
-      "issue": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one’s television into an always-on residential proxy node",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Microsoft Patches a Record 570 Security Flaws",
-    "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
-    "published": "Tue, 14 Jul 2026 19:22:42 +0000",
-    "summary": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning patch counts to vulnerability discoveries aided by artificial intelligence.",
-    "analysis": {
-      "issue": "today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-56164",
-        "CVE-2026-56155",
-        "CVE-2026-50661",
-        "CVE-2026-48561"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Lessons Learned from CISA’s Recent GitHub Leak",
-    "link": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
-    "published": "Mon, 13 Jul 2026 15:03:28 +0000",
-    "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response provide important lessons that all security teams should absorb.",
-    "analysis": {
-      "issue": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a recent data leak in which a contractor published dozens of internal CISA credentials — including AWS Govcloud keys — in a public GitHub repository for almost six",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
-    "link": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
-    "published": "Wed, 08 Jul 2026 12:31:39 +0000",
-    "summary": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures included fake intelligence companies and a now-defunct AI-based lobbying platform they operated under assumed names.",
-    "analysis": {
-      "issue": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures included fake intelligence compan",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
-    "link": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
-    "published": "Thu, 02 Jul 2026 19:27:33 +0000",
-    "summary": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASDAQ: ALAR]. The action comes roughly two weeks after KrebsOnSecurity published findings from multiple security firms connecting NetNut to the Popa botnet, a collection of at least two million devices that have been compromised by malicious software with little or no consent from victims.",
-    "analysis": {
-      "issue": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASD",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
-    "link": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
-    "published": "Tue, 23 Jun 2026 16:12:49 +0000",
-    "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as Scattered Spider, and their guilty pleas came on the first day of what was expected to be a six-week trial.",
-    "analysis": {
-      "issue": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm",
-    "link": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
-    "published": "Thu, 18 Jun 2026 17:37:58 +0000",
-    "summary": "For the past four years, a sprawling Android-based botnet called Popa has forced millions of consumer TV boxes to relay Internet traffic linked to advertising fraud, account takeovers, and mass data-scraping efforts. This week, researchers from multiple security firms concluded that the Popa botnet is linked to NetNut, a \"residential proxy\" provider operated by the publicly-traded Israeli firm Alarum Technologies Ltd [NASDAQ: ALAR].",
-    "analysis": {
-      "issue": "For the past four years, a sprawling Android-based botnet called Popa has forced millions of consumer TV boxes to relay Internet traffic linked to advertising fraud, account takeovers, and mass data-scraping efforts",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
-    "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
-    "published": "Wed, 10 Jun 2026 14:03:44 +0000",
-    "summary": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ransom paid by victims. This post examines clues pointing to a real life identity for the administrator of The Gentlemen ransomware group.",
-    "analysis": {
-      "issue": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ranso",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Security Week",
     "title": "OpenAI’s Upcoming Astra Model Raises Autonomous Cyberattack Concerns",
     "link": "https://www.securityweek.com/openais-upcoming-astra-model-raises-autonomous-cyberattack-concerns/",
@@ -616,11 +430,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20348",
-        "CVE-2026-20345",
         "CVE-2026-20338",
-        "CVE-2026-20339",
-        "CVE-2026-20337"
+        "CVE-2026-20345",
+        "CVE-2026-20337",
+        "CVE-2026-20348",
+        "CVE-2026-20339"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -953,9 +767,9 @@
     "title": "The Hugging Face Hack Was Cheap Persistence at Work",
     "link": "https://www.recordedfuture.com/blog/hugging-face-cheap-persistence",
     "published": "Mon, 10 Aug 2026 00:00:00 GMT",
-    "summary": "The Hugging Face incident shows AI won't make attackers brilliant. It makes persistence cheap. Defense has to close the gap from weak evidence to action.",
+    "summary": "The Hugging Face and OpenAI security incident showed AI doesn't make attackers smarter. It makes persistence cheap, and defenses built for alerts can't keep up.",
     "analysis": {
-      "issue": "The Hugging Face incident shows AI won't make attackers brilliant",
+      "issue": "The Hugging Face and OpenAI security incident showed AI doesn't make attackers smarter",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1295,8 +1109,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1321,6 +1135,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "How to fake a data trail (and maybe lower prices) (Lock and Code S07E16)",
+    "link": "https://www.malwarebytes.com/blog/podcast/2026/08/how-to-fake-a-data-trail-and-maybe-lower-prices-lock-and-code-s07e16",
+    "published": "Mon, 10 Aug 2026 17:11:00 GMT",
+    "summary": "This week on the Lock and Code podcast, we speak with Chris Parr about his inventive and all-too-funny stress-test of surveillance pricing.",
+    "analysis": {
+      "issue": "It may sound entirely bizarre but the prices you once paid for hotels, educational classes, or staplers could have all been higher because you used a Mac computer, lived in a certain zip code, or lacked an Office Depot in your neighborhood",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1484,26 +1316,6 @@
       "threat_categories": [
         "Vulnerability",
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Google’s synchronized passkeys can be stolen in ‘Pass‑ta‑key’ attacks",
-    "link": "https://www.malwarebytes.com/blog/news/2026/08/googles-synchronized-passkeys-can-be-stolen-in-pass-ta-key-attacks",
-    "published": "Wed, 05 Aug 2026 11:11:48 GMT",
-    "summary": "Over time, passkeys are supposed to replace passwords. But what happens when malware steals the master key?",
-    "analysis": {
-      "issue": "Passkeys were supposed to make stolen passwords a thing of the past",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Malware",
-        "Phishing"
       ]
     }
   },
