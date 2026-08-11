@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development",
+    "link": "https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html",
+    "published": "Tue, 11 Aug 2026 18:41:23 +0530",
+    "summary": "OpenAI on Monday unveiled a new cybersecurity-focused model called GPT‑5.6‑Cyber that it said is focused on vulnerability research, penetration testing, and incident response.\n\n\"Built on GPT‑5.6 Sol, it is trained to improve capabilities on several specialized cybersecurity tasks (e.g., finding zero-day vulnerabilities and developing exploit chains) and to reduce refusals for certain higher-risk",
+    "analysis": {
+      "issue": "6-Cyber, a reduced-safeguard model that completes 95% of advanced cyber requests and finds zero-day flaws",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "A Malicious SIM Card Can Run Attacker Code Inside the Modems Behind Cellular IoT Devices",
     "link": "https://thehackernews.com/2026/08/a-malicious-sim-card-can-run-attacker.html",
     "published": "Tue, 11 Aug 2026 17:35:03 +0530",
@@ -164,23 +182,40 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw",
-    "link": "https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html",
-    "published": "Mon, 10 Aug 2026 22:08:37 +0530",
-    "summary": "Microsoft has disclosed that Storm-1175, a financially motivated threat actor linked to China, has deployed a previously undocumented ransomware strain called StormEncryptor.\n\nThe use of StormEncryptor marks a shift from the adversary's previous use of Medusa ransomware, the Microsoft Threat Intelligence Team said.\n\n\"StormEncryptor is written in C++ and appends the file name extension .encrypted",
+    "source": "Bleeping Computer",
+    "title": "Wesco confirms security incident after ExfilSquad claims data theft",
+    "link": "https://www.bleepingcomputer.com/news/security/wesco-confirms-security-incident-after-exfilsquad-claims-data-theft/",
+    "published": "Tue, 11 Aug 2026 11:59:35 -0400",
+    "summary": "Global supply chain and distribution giant Wesco has confirmed in a statement for BleepingComputer that it is investigating a cybersecurity incident. [...]",
     "analysis": {
-      "issue": "Microsoft says Storm-1175 is deploying new StormEncryptor ransomware, likely after exploiting N-able N-central CVE-2026-18577 for access",
+      "issue": "Global supply chain and distribution giant Wesco has confirmed in a statement to BleepingComputer that it is investigating a cybersecurity incident",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [
-        "CVE-2026-18577"
-      ],
+      "cves": [],
       "threat_categories": [
         "Ransomware",
-        "Vulnerability"
+        "Data Breach",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Mozilla updates GPG signing key for Firefox releases after exposure",
+    "link": "https://www.bleepingcomputer.com/news/security/mozilla-updates-gpg-key-for-signing-firefox-thunderbird-releases-after-exposure/",
+    "published": "Tue, 11 Aug 2026 09:20:28 -0400",
+    "summary": "Mozilla announced today that it updated the GPG key used to sign Firefox and Thunderbird releases after it was accidentally exposed on GitHub. [...]",
+    "analysis": {
+      "issue": "Mozilla announced today that it updated the GPG key used to sign Firefox and Thunderbird releases after it was accidentally exposed on GitHub",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
       ]
     }
   },
@@ -278,8 +313,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2024-55591",
-        "CVE-2025-24472"
+        "CVE-2025-24472",
+        "CVE-2024-55591"
       ],
       "threat_categories": [
         "Ransomware",
@@ -340,52 +375,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New StormEncryptor ransomware used by former Medusa affiliate",
-    "link": "https://www.bleepingcomputer.com/news/security/new-stormencryptor-ransomware-used-by-former-medusa-affiliate/",
-    "published": "Mon, 10 Aug 2026 13:42:00 -0400",
-    "summary": "A financially motivated threat actor previously associated with the Medusa ransomware operation is now deploying a new ransomware strain called StormEncryptor. [...]",
-    "analysis": {
-      "issue": "A financially motivated threat actor previously associated with the Medusa ransomware operation is now deploying a new ransomware strain called StormEncryptor",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-18577"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA: SonicWall SMA1000 flaws now exploited by ransomware gangs",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/",
-    "published": "Mon, 10 Aug 2026 10:34:32 -0400",
-    "summary": "CISA has confirmed that ransomware gangs have begun exploiting two recently patched SonicWall SMA1000 vulnerabilities, including a maximum-severity server-side request forgery (SSRF) flaw. [...]",
-    "analysis": {
-      "issue": "CISA has confirmed that ransomware gangs have begun exploiting two recently patched SonicWall SMA1000 vulnerabilities, including a maximum-severity server-side request forgery (SSRF) flaw",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-15410",
-        "CVE-2026-15409"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Malware"
       ]
     }
   },
@@ -458,10 +447,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56164",
-        "CVE-2026-48561",
         "CVE-2026-50661",
-        "CVE-2026-56155"
+        "CVE-2026-48561",
+        "CVE-2026-56155",
+        "CVE-2026-56164"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -584,6 +573,115 @@
   },
   {
     "source": "Security Week",
+    "title": "Adobe Urges Immediate Patching of Critical ColdFusion, Campaign Classic Flaws",
+    "link": "https://www.securityweek.com/adobe-urges-immediate-patching-of-critical-coldfusion-campaign-classic-flaws/",
+    "published": "Tue, 11 Aug 2026 16:50:19 +0000",
+    "summary": "<p>The security defects could be exploited for arbitrary code execution and denial-of-service.</p>\n<p>The post <a href=\"https://www.securityweek.com/adobe-urges-immediate-patching-of-critical-coldfusion-campaign-classic-flaws/\">Adobe Urges Immediate Patching of Critical ColdFusion, Campaign Classic Flaws</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The security defects could be exploited for arbitrary code execution and denial-of-service",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-48273",
+        "CVE-2026-71362",
+        "CVE-2026-71398",
+        "CVE-2026-71384",
+        "CVE-2026-48362",
+        "CVE-2026-48381",
+        "CVE-2026-27302"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Zoom Patches Zero-Click Code Execution Vulnerability",
+    "link": "https://www.securityweek.com/zoom-patches-zero-click-code-execution-vulnerability/",
+    "published": "Tue, 11 Aug 2026 15:49:53 +0000",
+    "summary": "<p>Impacting Zoom annotation, the bug could be exploited by a meeting participant to execute code on another participant’s machine.</p>\n<p>The post <a href=\"https://www.securityweek.com/zoom-patches-zero-click-code-execution-vulnerability/\">Zoom Patches Zero-Click Code Execution Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Impacting Zoom annotation, the bug could be exploited by a meeting participant to execute code on another participant’s machine",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-53414",
+        "CVE-2026-53415",
+        "CVE-2026-53416",
+        "CVE-2026-53413"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "The AI Governance Gap Is a Leadership Problem: Waiting Won’t Close It",
+    "link": "https://www.securityweek.com/the-ai-governance-gap-is-a-leadership-problem-waiting-wont-close-it/",
+    "published": "Tue, 11 Aug 2026 15:00:00 +0000",
+    "summary": "<p>Organizations are rushing to implement AI without fully grasping where its legal protections begin and end.</p>\n<p>The post <a href=\"https://www.securityweek.com/the-ai-governance-gap-is-a-leadership-problem-waiting-wont-close-it/\">The AI Governance Gap Is a Leadership Problem: Waiting Won&#8217;t Close It</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Organizations are rushing to implement AI without fully grasping where its legal protections begin and end",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "SAP Patches Critical Code Injection, Memory Corruption Vulnerabilities",
+    "link": "https://www.securityweek.com/sap-patches-critical-code-injection-memory-corruption-vulnerabilities/",
+    "published": "Tue, 11 Aug 2026 14:14:32 +0000",
+    "summary": "<p>SAP released 28 new and two updated security notes, including four notes dealing with critical-severity bugs.</p>\n<p>The post <a href=\"https://www.securityweek.com/sap-patches-critical-code-injection-memory-corruption-vulnerabilities/\">SAP Patches Critical Code Injection, Memory Corruption Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "SAP released 28 new and two updated security notes, including four notes dealing with critical-severity bugs",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-58231",
+        "CVE-2026-44758",
+        "CVE-2026-44772",
+        "CVE-2026-34265"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "US Water Systems Get Cyber Boost From New Senate Bill and ‘Water Watch Center’",
+    "link": "https://www.securityweek.com/us-water-systems-get-cyber-boost-from-new-senate-bill-and-water-watch-center/",
+    "published": "Tue, 11 Aug 2026 14:03:32 +0000",
+    "summary": "<p>The Water Watch Center launched at DEF CON aims to help under-resourced utilities protect their systems against hackers.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-water-systems-get-cyber-boost-from-new-senate-bill-and-water-watch-center/\">US Water Systems Get Cyber Boost From New Senate Bill and &#8216;Water Watch Center&#8217;</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The Water Watch Center launched at DEF CON aims to help under-resourced utilities protect their systems against hackers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Corma Raises $60 Million for Defensive Cybersecurity AI Model",
     "link": "https://www.securityweek.com/corma-raises-60-million-for-defensive-cybersecurity-ai-model/",
     "published": "Tue, 11 Aug 2026 12:01:46 +0000",
@@ -674,106 +772,6 @@
       "threat_categories": [
         "Vulnerability",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "OpenAI’s Upcoming Astra Model Raises Autonomous Cyberattack Concerns",
-    "link": "https://www.securityweek.com/openais-upcoming-astra-model-raises-autonomous-cyberattack-concerns/",
-    "published": "Mon, 10 Aug 2026 14:33:36 +0000",
-    "summary": "<p>The current GPT-5.6-Sol has been assigned a ‘high’ cybersecurity threshold, but Astra could reach the maximum ‘critical’ threshold. </p>\n<p>The post <a href=\"https://www.securityweek.com/openais-upcoming-astra-model-raises-autonomous-cyberattack-concerns/\">OpenAI’s Upcoming Astra Model Raises Autonomous Cyberattack Concerns</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "6-Sol has been assigned a ‘high’ cybersecurity threshold, but Astra could reach the maximum ‘critical’ threshold",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Stealthium Targets Security Blind Spots in AI Accelerators and Neo-Clouds",
-    "link": "https://www.securityweek.com/stealthium-targets-security-blind-spots-in-ai-accelerators-and-neo-clouds/",
-    "published": "Mon, 10 Aug 2026 14:19:36 +0000",
-    "summary": "<p>The startup analyzes subtle telemetry signals to detect attacks that traditional security tools cannot see inside accelerator-powered AI infrastructure.</p>\n<p>The post <a href=\"https://www.securityweek.com/stealthium-targets-security-blind-spots-in-ai-accelerators-and-neo-clouds/\">Stealthium Targets Security Blind Spots in AI Accelerators and Neo-Clouds</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The startup analyzes subtle telemetry signals to detect attacks that traditional security tools cannot see inside accelerator-powered AI infrastructure",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Cisco Warns of High-Severity ClamAV Vulnerabilities With Public PoC",
-    "link": "https://www.securityweek.com/cisco-warns-of-high-severity-clamav-vulnerabilities-with-public-poc/",
-    "published": "Mon, 10 Aug 2026 14:07:48 +0000",
-    "summary": "<p>Remote, unauthenticated attackers could exploit the bugs to cause a denial-of-service (DoS) condition.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-warns-of-high-severity-clamav-vulnerabilities-with-public-poc/\">Cisco Warns of High-Severity ClamAV Vulnerabilities With Public PoC</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Remote, unauthenticated attackers could exploit the bugs to cause a denial-of-service (DoS) condition",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-20337",
-        "CVE-2026-20339",
-        "CVE-2026-20345",
-        "CVE-2026-20348",
-        "CVE-2026-20338"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "‘Ghostjacking’ Attack Uses Poisoned Logs to Turn AI Agents Bad",
-    "link": "https://www.securityweek.com/ghostjacking-attack-uses-poisoned-logs-to-turn-ai-agents-bad/",
-    "published": "Mon, 10 Aug 2026 12:59:34 +0000",
-    "summary": "<p>An AI agent executes instructions that an attacker has planted in the log or alert that records a blocked request word for word.</p>\n<p>The post <a href=\"https://www.securityweek.com/ghostjacking-attack-uses-poisoned-logs-to-turn-ai-agents-bad/\">&#8216;Ghostjacking&#8217; Attack Uses Poisoned Logs to Turn AI Agents Bad</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "An AI agent executes instructions that an attacker has planted in the log or alert that records a blocked request word for word",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "New Jersey, Alabama Join States Targeted in Water Cyberattacks",
-    "link": "https://www.securityweek.com/new-jersey-alabama-join-states-targeted-in-water-cyberattacks/",
-    "published": "Mon, 10 Aug 2026 11:44:26 +0000",
-    "summary": "<p>Hackers linked to Iran targeted industrial control systems (ICS) at water facilities in at least a dozen US states.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-jersey-alabama-join-states-targeted-in-water-cyberattacks/\">New Jersey, Alabama Join States Targeted in Water Cyberattacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Hackers linked to Iran targeted industrial control systems (ICS) at water facilities in at least a dozen US states",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -966,6 +964,24 @@
   },
   {
     "source": "Recorded Future",
+    "title": "Mines, Minds, and Machines: The Journey of AI",
+    "link": "https://www.recordedfuture.com/blog/mines-minds-machines",
+    "published": "Tue, 11 Aug 2026 00:00:00 GMT",
+    "summary": "Minerals become chips. Chips become data centers. Data centers become models, and models are acquiring arms and legs. From Earth to Embodied AI traces the supply chain of the fourth industrial revolution, and shows how geopolitical rivalry and cyber operations now run along every link, from mine to machine.",
+    "analysis": {
+      "issue": "Data centers become models, and models are acquiring arms and legs",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
     "title": "The Hugging Face Hack Was Cheap Persistence at Work",
     "link": "https://www.recordedfuture.com/blog/hugging-face-cheap-persistence",
     "published": "Mon, 10 Aug 2026 00:00:00 GMT",
@@ -1123,24 +1139,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Modern Attack Vectors | Recorded Future",
-    "link": "https://www.recordedfuture.com/blog/modern-attack-vectors",
-    "published": "Wed, 22 Jul 2026 00:00:00 GMT",
-    "summary": "What is an attack vector, and how does it impact your business? Discover the top threat actor targets in 2026 and learn attack vector vs attack surface dynamics.",
-    "analysis": {
-      "issue": "What is an attack vector, and how does it impact your business",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -1311,8 +1309,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1337,6 +1335,60 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Valve warns Steam hardware buyers: Expect fake delivery scams",
+    "link": "https://www.malwarebytes.com/blog/data-breaches/2026/08/valve-warns-steam-hardware-buyers-expect-fake-delivery-scams",
+    "published": "Tue, 11 Aug 2026 16:31:55 GMT",
+    "summary": "The warning affects recent buyers of Steam hardware, including the hugely popular Steam Deck.",
+    "analysis": {
+      "issue": "Most of us are wise to phishing emails that don’t contain much personal information",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Social media platforms crack down on drone factory recruiting game",
+    "link": "https://www.malwarebytes.com/blog/news/2026/08/social-media-platforms-crack-down-on-drone-factory-recruiting-game",
+    "published": "Tue, 11 Aug 2026 16:05:56 GMT",
+    "summary": "Researchers found that games and major US social media platforms were used to lure young people into jobs in Russia's drone industry.",
+    "analysis": {
+      "issue": "A video game about drone warfare may look like an unusual cybersecurity story",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Sexual predators targeting online accounts for intimate images, FBI warns",
+    "link": "https://www.malwarebytes.com/blog/news/2026/08/sexual-predators-targeting-online-accounts-for-intimate-images-fbi-warns",
+    "published": "Tue, 11 Aug 2026 13:39:07 GMT",
+    "summary": "The FBI is warning that criminals are breaking into social media to steal and distribute non-consensual intimate images and videos.",
+    "analysis": {
+      "issue": "The FBI has issued a Public Service Announcement (PSA) warning that criminals are breaking into social media and personal accounts to steal and distribute intimate images and videos without consent",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
       ]
     }
   },
@@ -1456,60 +1508,6 @@
     "summary": "A list of topics we covered in the week of August 3 to August 9 of 2026",
     "analysis": {
       "issue": "Last week on Malwarebytes Labs: Stay safe",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "AI chat bots are sliding into League of Legends friend requests",
-    "link": "https://www.malwarebytes.com/blog/ai/2026/08/ai-chat-bots-are-sliding-into-league-of-legends-friend-requests",
-    "published": "Fri, 07 Aug 2026 21:26:41 GMT",
-    "summary": "Chat bots are sending friend requests in Riot immediately after ending your game. What are the scammers up to now?",
-    "analysis": {
-      "issue": ", a co-worker, recently shared a firsthand account of how bots are adding League of Legends players via the Riot client friends list immediately after a match ends, striking up a flirty conversation, and eventually pushing an OnlyFans link",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Meta ordered to pay $942 million over harm to children",
-    "link": "https://www.malwarebytes.com/blog/uncategorized/2026/08/meta-ordered-to-pay-942-million-over-harm-to-children",
-    "published": "Fri, 07 Aug 2026 21:04:55 GMT",
-    "summary": "A new court ruling not only fined Meta to the extent of $942 million but also ordered it to improve its age assurance tools.",
-    "analysis": {
-      "issue": "A New Mexico court has ordered Meta to pay a total of $942 million after finding that Facebook and Instagram harmed young users and that the company misled consumers about the safety of its platforms",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Apple WebKit vulnerabilities reveal your IP address, despite Private Relay",
-    "link": "https://www.malwarebytes.com/blog/news/2026/08/apple-webkit-vulnerabilities-reveal-your-ip-address-despite-private-relay",
-    "published": "Thu, 06 Aug 2026 14:30:35 GMT",
-    "summary": "Researchers have found three methods to bypass Apple's Private Relay which is supposed to shield users' IP addresses and location.",
-    "analysis": {
-      "issue": "Three WebKit mechanisms have been discovered to bypass Apple’s iCloud Private Relay",
       "solution": null,
       "cause": null,
       "timeline": null,
