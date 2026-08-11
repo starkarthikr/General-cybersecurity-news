@@ -1,6 +1,43 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine",
+    "link": "https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html",
+    "published": "Tue, 11 Aug 2026 12:25:45 +0530",
+    "summary": "Attackers shut down a steam turbine and the process-water treatment system at a Polish combined heat and power plant by coming in over the private cellular network the local grid operator uses to reach remote equipment.\n\nThe plant supplies heat to roughly 50,000 residents. Recovery began at about 7:30 a.m. while the intruders were still active inside the network, and customers lost neither heat",
+    "analysis": {
+      "issue": "Attackers pivoted through a private cellular APN to shut a turbine and water treatment system at a Polish CHP plant serving 50,000 residents",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins",
+    "link": "https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html",
+    "published": "Tue, 11 Aug 2026 11:18:44 +0530",
+    "summary": "Cybersecurity researchers have warned of a supply chain compromise impacting WordPress plugin vendor BdThemes, prompting the content management systems (CMS) platform's plugins team to temporarily disable their downloads.\n\n\"Unlike traditional software supply chain attacks, zero source code files were modified within the official WordPress.org repository,\" Wordfence researcher Paolo Tresso said.",
+    "analysis": {
+      "issue": "BdThemes' compromised JSON feed exploits XSS in seven WordPress plugins, creating rogue admins and installing a PHP web shell without plugin updates",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development",
     "link": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
     "published": "Mon, 10 Aug 2026 22:59:17 +0530",
@@ -150,42 +187,6 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers",
-    "link": "https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html",
-    "published": "Sat, 08 Aug 2026 14:24:50 +0530",
-    "summary": "Attacker-controlled instructions can make Atlassian's Rovo assistant collect Jira or Confluence data that a signed-in user can access, then send it to an outside server. Two security firms found that behavior independently, by different routes. Only one of those routes is confirmed closed.\n\nPromptArmor, an AI security firm, hid the instructions in content Rovo reads. It said an uploaded file was",
-    "analysis": {
-      "issue": "Atlassian Rovo prompt injection can send Jira and Confluence data to attacker servers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens",
-    "link": "https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html",
-    "published": "Sat, 08 Aug 2026 13:33:57 +0530",
-    "summary": "New research shows content inside an email can escape its message boundary and interfere with the webmail interface.\n\nAcross attack chains spanning Outlook, Gmail, Fastmail, Proton Mail, Yahoo Mail, and AOL Mail, the techniques can capture passwords, take over third-party accounts, leak tokens, hijack trusted UI actions, and manipulate AI tools that read email.\n\nPortSwigger researcher Gareth",
-    "analysis": {
-      "issue": "Outlook CSS techniques can spoof Microsoft sign-in and capture passwords, while Gmail image-set() can trigger external requests from malicious email c",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "APT"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
     "title": "Hackers breached a small Polish energy plant via private APN last year",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/",
@@ -275,8 +276,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-15409",
-        "CVE-2026-15410"
+        "CVE-2026-15410",
+        "CVE-2026-15409"
       ],
       "threat_categories": [
         "Ransomware",
@@ -573,6 +574,25 @@
   },
   {
     "source": "Security Week",
+    "title": "Mozilla Issues New Firefox GPG Key Following Exposure",
+    "link": "https://www.securityweek.com/mozilla-issues-new-firefox-gpg-key-following-exposure/",
+    "published": "Tue, 11 Aug 2026 06:16:01 +0000",
+    "summary": "<p>The previous GPG signing subkey was inadvertently added to a GitHub repository and Mozilla decided to revoke it.</p>\n<p>The post <a href=\"https://www.securityweek.com/mozilla-issues-new-firefox-gpg-key-following-exposure/\">Mozilla Issues New Firefox GPG Key Following Exposure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The previous GPG signing subkey was inadvertently added to a GitHub repository and Mozilla decided to revoke it",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "OpenAI’s Upcoming Astra Model Raises Autonomous Cyberattack Concerns",
     "link": "https://www.securityweek.com/openais-upcoming-astra-model-raises-autonomous-cyberattack-concerns/",
     "published": "Mon, 10 Aug 2026 14:33:36 +0000",
@@ -623,11 +643,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20338",
+        "CVE-2026-20339",
         "CVE-2026-20337",
-        "CVE-2026-20348",
         "CVE-2026-20345",
-        "CVE-2026-20339"
+        "CVE-2026-20338",
+        "CVE-2026-20348"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -720,8 +740,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-8037",
-        "CVE-2026-33691"
+        "CVE-2026-33691",
+        "CVE-2026-8037"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -743,26 +763,6 @@
       "cves": [],
       "threat_categories": [
         "Data Breach",
-        "Phishing",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Critical Flaws Discovered in Belgian eID Software Used by 2 Million People",
-    "link": "https://www.securityweek.com/critical-flaws-discovered-in-belgian-eid-software-used-by-2-million-people/",
-    "published": "Mon, 10 Aug 2026 04:44:32 +0000",
-    "summary": "<p>The vulnerabilities affected software used by eight of Belgium’s ten largest banks and over 60 government agencies.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-flaws-discovered-in-belgian-eid-software-used-by-2-million-people/\">Critical Flaws Discovered in Belgian eID Software Used by 2 Million People</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The vulnerabilities affected software used by eight of Belgium’s ten largest banks and over 60 government agencies",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
         "Phishing",
         "Supply Chain"
       ]
@@ -1333,6 +1333,42 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Watch out for fake TikTok Shops trying to steal your money",
+    "link": "https://www.malwarebytes.com/blog/scams/2026/08/watch-out-for-fake-tiktok-shops-trying-to-steal-your-money",
+    "published": "Tue, 11 Aug 2026 09:05:57 GMT",
+    "summary": "TikTok Shop is huge, so it's no wonder that impersonation shops have popped up. Here's how to stay safe.",
+    "analysis": {
+      "issue": "TikTok Shop is a real, functioning e-commerce feature built into the TikTok app, allowing users to buy goods without ever leaving TikTok",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Fake popular sites offer a free app, instead take over PCs",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/08/fake-popular-sites-offer-a-free-app-instead-take-over-pcs",
+    "published": "Tue, 11 Aug 2026 08:55:45 GMT",
+    "summary": "Fake branded download pages are tricking Windows users into installing legitimate remote-access software that's being abused by attackers.",
+    "analysis": {
+      "issue": "A website built to look almost exactly like CNN’s homepage is telling visitors to download “the new CNN app",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "How to fake a data trail (and maybe lower prices) (Lock and Code S07E16)",
     "link": "https://www.malwarebytes.com/blog/podcast/2026/08/how-to-fake-a-data-trail-and-maybe-lower-prices-lock-and-code-s07e16",
     "published": "Mon, 10 Aug 2026 17:11:00 GMT",
@@ -1472,43 +1508,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Amazon and Apple impersonated in “$149.99 unauthorized charge” scam",
-    "link": "https://www.malwarebytes.com/blog/scams/2026/08/amazon-and-apple-impersonated-in-149-99-unauthorized-charge-scam",
-    "published": "Thu, 06 Aug 2026 10:55:11 GMT",
-    "summary": "Different logos, different color schemes, same scam.",
-    "analysis": {
-      "issue": "If you’ve spent any time browsing lately, you may have run into a full-screen popup warning you that your Apple ID or Amazon account was just used for a mysterious $149",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Anthropic’s Mythos AI used social engineering to target real people",
-    "link": "https://www.malwarebytes.com/blog/news/2026/08/anthropics-mythos-ai-used-social-engineering-to-target-real-people",
-    "published": "Thu, 06 Aug 2026 10:45:31 GMT",
-    "summary": "Testers found that Anthropic's AI agent Mythos attempted to social engineer Github developers into accepting malicious code.",
-    "analysis": {
-      "issue": "Anthropic’s Mythos AI agent, tested by the UK AI Safety Institute (AISI), has reportedly attempted a real‑world social‑engineering style hack against GitHub maintainers by creating fake human profiles, pressuring them to accept malicious code, and th",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "APT"
       ]
     }
   },
