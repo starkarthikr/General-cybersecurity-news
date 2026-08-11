@@ -1,6 +1,115 @@
 [
   {
     "source": "The Hacker News",
+    "title": "A Malicious SIM Card Can Run Attacker Code Inside the Modems Behind Cellular IoT Devices",
+    "link": "https://thehackernews.com/2026/08/a-malicious-sim-card-can-run-attacker.html",
+    "published": "Tue, 11 Aug 2026 17:35:03 +0530",
+    "summary": "A malicious SIM card can order the device it sits in to run commands of the attacker's choosing. On the cellular modules built into electric-vehicle chargers, industrial routers, and car telematics units, that is enough to take the whole device over.\n\nResearchers at the University of Birmingham and the security firm Fuzzware tested 26 phones and cellular modules for the capability, found it",
+    "analysis": {
+      "issue": "Malicious SIM cards can use RUN AT to execute modem commands on cellular IoT devices, including EV chargers, routers, and telematics units",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Mozilla Revokes Firefox and Thunderbird Linux Signing Key After Key Lands in Private Repo",
+    "link": "https://thehackernews.com/2026/08/mozilla-revokes-firefox-and-thunderbird.html",
+    "published": "Tue, 11 Aug 2026 17:34:51 +0530",
+    "summary": "Mozilla has scrapped the cryptographic key behind Firefox and Thunderbird downloads for Linux after an unencrypted copy of it was committed by mistake to one of the company's own private code repositories.\n\nThat key is how a user, or a Linux distribution packaging the browser, confirms a downloaded Firefox tarball came from Mozilla and was not tampered with.\n\nThat decision carries a cost for",
+    "analysis": {
+      "issue": "Mozilla revokes a Firefox and Thunderbird Linux signing subkey after an unencrypted copy landed in a private repository",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Researchers Built a Fake Crypto Startup and Hired Three Suspected North Korean IT Workers",
+    "link": "https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html",
+    "published": "Tue, 11 Aug 2026 17:05:03 +0530",
+    "summary": "Security researchers invented a cryptocurrency startup, advertised developer jobs, and hired three people they believe were North Korean operatives. Every virtual machine the company issued was recording.\n\nThe onboarding paperwork is the part hiring teams can use. The first hire claimed to live in Pasadena, Texas, then sent a California driver's license and a New York bank account.\n\nThe",
+    "analysis": {
+      "issue": "Researchers hired three suspected North Korean IT workers into a fake crypto startup, exposing forged IDs, AI tools, VPNs, and remote access",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11",
+    "link": "https://thehackernews.com/2026/08/researchers-turn-usb-auto-install-into.html",
+    "published": "Tue, 11 Aug 2026 16:18:26 +0530",
+    "summary": "Windows Plug and Play can be abused to fetch signed vendor software for an emulated USB device and execute privileged installation components that researchers chained to SYSTEM access on a fully updated Windows 11 machine.\n\nThe same PnP path can be triggered over Remote Desktop without physical hardware when supported Plug and Play or low-level USB redirection is enabled; Microsoft says that",
+    "analysis": {
+      "issue": "Windows Plug and Play can abuse signed vendor installers to gain SYSTEM access on Windows 11, including over RDP when USB redirection is enabled",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets",
+    "link": "https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html",
+    "published": "Tue, 11 Aug 2026 15:54:00 +0530",
+    "summary": "A malicious tool server connected to an AI coding assistant can quietly walk off with SSH keys, environment secrets, source code, and customer data without ever sending one obviously harmful instruction.\n\nThe trick can work even after a blunt version of the same theft is refused: split the request into fragments that each look routine, place them in channels the assistant already uses, and let",
+    "analysis": {
+      "issue": "GhostSplice splits MCP instructions across channels, letting AI coding agents combine them to exfiltrate SSH keys, secrets, and source code",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Gunra Ransomware Exploits Fortinet and Schneider Electric Flaws to Breach Networks",
+    "link": "https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html",
+    "published": "Tue, 11 Aug 2026 14:46:24 +0530",
+    "summary": "Cybersecurity and intelligence agencies from South Korea and the U.S. warned of Gunra ransomware attacks targeting critical infrastructure sectors and organizations across the world.\n\nTargets of these attacks include healthcare and public health, financial services, government services and facilities, and professional and nonprofit services.\n\n\"Gunra is another variant in the ongoing trend of",
+    "analysis": {
+      "issue": "Gunra ransomware exploits Fortinet and Schneider Electric flaws to breach critical infrastructure, steal data, and encrypt systems",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine",
     "link": "https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html",
     "published": "Tue, 11 Aug 2026 12:25:45 +0530",
@@ -76,74 +185,80 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "⚡ Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors",
-    "link": "https://thehackernews.com/2026/08/weekly-recap-ai-goes-rogue-metabase-0.html",
-    "published": "Mon, 10 Aug 2026 20:30:29 +0530",
-    "summary": "A lot of security problems still begin with someone doing a completely normal thing. Cloning a repo. Answering a call. Leaving a box exposed. Trusting the default.\n\nThat pretty much covers the mood this week. Old bugs are back, supply chains are getting stranger, and some exploit paths are so short you wonder what was supposed to stop them in the first place.\n\nThat’s only part of it. Here’s",
+    "source": "Bleeping Computer",
+    "title": "Vague Task, Total Access: When AI Delegation Becomes a Security Risk",
+    "link": "https://www.bleepingcomputer.com/news/security/vague-task-total-access-when-ai-delegation-becomes-a-security-risk/",
+    "published": "Tue, 11 Aug 2026 09:15:24 -0400",
+    "summary": "AI agents can improvise beyond the intended scope of a task when they are given broad access to enterprise systems and data. Token Security explains why organizations need to define agent intent and continuously enforce permissions around what each agent was actually created to do. [...]",
     "analysis": {
-      "issue": "This week’s cybersecurity recap covers rogue AI behavior, an exploited Metabase zero-day, MCP supply-chain attacks, router backdoors, and more",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development",
-    "link": "https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html",
-    "published": "Mon, 10 Aug 2026 18:49:58 +0530",
-    "summary": "North Korea's state hackers are no longer content to type prompts into public chatbots. One of the country's main espionage groups has begun running artificial intelligence (AI) offline on its own servers, connecting document-search tools to files in its possession, and collecting the software parts needed to build AI into its malware.\n\nSouth Korean security firm Genians says it uncovered the",
-    "analysis": {
-      "issue": "Kimsuky runs Ollama, GPT4All, and Msty offline while testing RAG and collecting AI libraries that could support phishing, malware, and data analysis",
+      "issue": "Every agent incident disclosed this summer ends the same way: the agent completed its task with everything it had",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "DDoS attacks over 1 Tbps surged fivefold in the second quarter",
+    "link": "https://www.bleepingcomputer.com/news/security/ddos-attacks-over-1-tbps-surged-fivefold-in-the-second-quarter/",
+    "published": "Tue, 11 Aug 2026 09:00:00 -0400",
+    "summary": "Cloudflare says it mitigated more than 800 network-layer distributed denial-of-service (DDoS) attacks exceeding 1 Tbps in the second quarter of the year. [...]",
+    "analysis": {
+      "issue": "Cloudflare says it mitigated more than 800 network-layer distributed denial-of-service (DDoS) attacks exceeding 1 Tbps in the second quarter of the year",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
       "cves": [],
       "threat_categories": [
         "Malware",
-        "Phishing"
+        "DDoS"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA",
-    "link": "https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html",
-    "published": "Mon, 10 Aug 2026 17:55:04 +0530",
-    "summary": "Three separate research efforts last week demonstrated ways to defeat passkey protections without breaking the cryptography they rest on.\n\nPasskeys are designed to replace reusable passwords and resist phishing. The attacks instead reused signed authentication material that Windows had exposed, abused a cloud-synced passkey system from malware already on the victim's machine, and used a&nbsp;",
+    "source": "Bleeping Computer",
+    "title": "CISA: Microsoft SharePoint flaw now exploited in ransomware attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-flaw-now-exploited-in-ransomware-attacks/",
+    "published": "Tue, 11 Aug 2026 08:12:16 -0400",
+    "summary": "CISA confirmed today that ransomware gangs have begun abusing a high-severity Microsoft SharePoint remote code execution vulnerability, which has been flagged as actively exploited since early July. [...]",
     "analysis": {
-      "issue": "Passkey attacks abuse Windows logs, Google Password Manager, and Windows Hello to bypass phishing-resistant MFA without breaking FIDO2",
+      "issue": "CISA confirmed today that ransomware gangs have begun abusing a high-severity Microsoft SharePoint remote code execution vulnerability, which has been flagged as actively exploited since early July",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
+      "severity": "High",
+      "cves": [
+        "CVE-2026-45659"
+      ],
       "threat_categories": [
-        "Phishing"
+        "Ransomware",
+        "Vulnerability",
+        "Malware"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore",
-    "link": "https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html",
-    "published": "Mon, 10 Aug 2026 17:03:41 +0530",
-    "summary": "The threat actor known as Head Mare has been observed weaponizing security flaws in unpatched TrueConf servers once again in attacks targeting Russian companies spanning instrumentation, electronics, transport, energy, IT, and software development sectors.\n\nRussian cybersecurity vendor Kaspersky said it detected the attacks in July 2026.\n\nThe activity involves exploiting a vulnerability chain",
+    "source": "Bleeping Computer",
+    "title": "Cisco warns of high-severity ClamAV flaws with public exploits",
+    "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-high-severity-clamav-flaws-with-public-exploits/",
+    "published": "Tue, 11 Aug 2026 07:03:01 -0400",
+    "summary": "Cisco warned of two high-severity vulnerabilities affecting the Secure Endpoint Connector that allow threat actors to crash the ClamAV scanning process in denial-of-service (DoS) attacks. [...]",
     "analysis": {
-      "issue": "Head Mare exploits two TrueConf flaws to gain SYSTEM privileges and replace client installers with PhantomCore malware across Russian companies",
+      "issue": "Cisco warned of two high-severity vulnerabilities affecting the Secure Endpoint Connector that allow threat actors to crash the ClamAV scanning process in denial-of-service (DoS) attacks",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
+      "severity": "High",
+      "cves": [
+        "CVE-2026-20337",
+        "CVE-2026-20338"
+      ],
       "threat_categories": [
         "Vulnerability",
         "Malware"
@@ -151,38 +266,26 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Solidity Pro VS Code Extensions Steal Crypto Wallets, API Keys, and Credentials",
-    "link": "https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html",
-    "published": "Mon, 10 Aug 2026 13:08:23 +0530",
-    "summary": "Cybersecurity researchers have flagged a malicious Microsoft Visual Studio Code (VS Code) extension named Solidity Pro (\"solidity-pro\") that has been observed delivering a browser wallet and credential stealer.\n\nThe names of the extensions are below -\n\n\n  helper-beeps.solidity-pro\n  web3devtoolsx.solidity-pro\n\nAlthough neither of the extensions is now available on Open VSX, the GitHub repository",
+    "source": "Bleeping Computer",
+    "title": "US and South Korea warn of Gunra ransomware targeting govt agencies",
+    "link": "https://www.bleepingcomputer.com/news/security/us-warns-of-gunra-ransomware-attacks-against-government-critical-infrastructure/",
+    "published": "Tue, 11 Aug 2026 05:47:06 -0400",
+    "summary": "U.S. federal agencies and South Korea's National Policy Agency warned government and critical infrastructure organizations worldwide to secure their systems against Gunra ransomware attacks. [...]",
     "analysis": {
-      "issue": "Malicious Solidity Pro VS Code extensions steal crypto wallets, API keys, SSH keys, and developer tokens, then exfiltrate the data via Telegram",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause",
-    "link": "https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html",
-    "published": "Mon, 10 Aug 2026 11:20:03 +0530",
-    "summary": "OpenAI has announced that it's pausing some \"internal activities\" involving its upcoming artificial intelligence (AI) model Astra after an internal evaluation found it had made significant advancements in agentic coding and cybersecurity.\n\nIn response to the discovery, the AI upstart said it's implementing security controls for higher-capability models and associated activities, such as isolated",
-    "analysis": {
-      "issue": "OpenAI pauses some Astra activities after tests leave it unable to rule out Critical cyber capability, prompting tighter controls for higher-risk mode",
+      "issue": "federal agencies and South Korea's National Policy Agency warned government and critical infrastructure organizations worldwide to secure their systems against Gunra ransomware attacks",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
-      "cves": [],
+      "cves": [
+        "CVE-2024-55591",
+        "CVE-2025-24472"
+      ],
       "threat_categories": [
-        "General Security"
+        "Ransomware",
+        "Data Breach",
+        "Vulnerability",
+        "Malware"
       ]
     }
   },
@@ -287,99 +390,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "When Credentials Are No Longer Enough: Device Trust in the AI Era",
-    "link": "https://www.bleepingcomputer.com/news/security/when-credentials-are-no-longer-enough-device-trust-in-the-ai-era/",
-    "published": "Mon, 10 Aug 2026 10:01:11 -0400",
-    "summary": "AI is making phishing, credential theft, and social engineering faster and more efficient, while traditional trust signals such as passwords, MFA, IP reputation, and geolocation become easier to bypass. Specops explains why organizations are increasingly adding device trust to their Zero Trust strategies. [...]",
-    "analysis": {
-      "issue": "Identity security is under growing strain",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Member of The Com sent to prison for blackmail, sextortion",
-    "link": "https://www.bleepingcomputer.com/news/security/member-of-the-com-sent-to-prison-for-blackmail-sextortion/",
-    "published": "Mon, 10 Aug 2026 08:56:28 -0400",
-    "summary": "A member of \"The Com,\" a loose-knit online cybercrime collective that targets children and teenagers, has been sentenced to two years in prison for blackmail and sextortion offenses against nearly 120 victims worldwide. [...]",
-    "analysis": {
-      "issue": "A member of \"The Com,\" a loose-knit online cybercrime collective that targets children and teenagers, has been sentenced to two years in prison for blackmail and sextortion offenses against nearly 120 victims worldwide",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "LexisNexis shuts down services after suspicious activity on servers",
-    "link": "https://www.bleepingcomputer.com/news/security/lexisnexis-shuts-down-services-after-suspicious-activity-on-servers/",
-    "published": "Mon, 10 Aug 2026 08:11:52 -0400",
-    "summary": "LexisNexis took its Diligence, Metabase API, and Newsdesk services offline as part of its response to unusual activity on servers hosted and managed by an unnamed third-party vendor. [...]",
-    "analysis": {
-      "issue": "LexisNexis took its Diligence, Metabase API, and Newsdesk services offline as part of its response to unusual activity on servers hosted and managed by an unnamed third-party vendor",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Valve notifies Steam hardware customers of a data breach",
-    "link": "https://www.bleepingcomputer.com/news/security/valve-notifies-steam-hardware-customers-of-a-data-breach/",
-    "published": "Mon, 10 Aug 2026 07:47:55 -0400",
-    "summary": "Video game publisher and digital distribution giant Valve is notifying Steam hardware customers in Europe that hackers stole their data after hacking its shipping partner, CEVA Logistics. [...]",
-    "analysis": {
-      "issue": "Video game publisher and digital distribution giant Valve is notifying Steam hardware customers in Europe that hackers stole their data after hacking its shipping partner, CEVA Logistics",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Critical Progress LoadMaster flaw now actively exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-progress-loadmaster-flaw-exploited-in-attacks/",
-    "published": "Mon, 10 Aug 2026 05:49:37 -0400",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity Progress Kemp LoadMaster command injection vulnerability. [...]",
-    "analysis": {
-      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity Progress Kemp LoadMaster command injection vulnerability",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-8037"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
     "link": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
@@ -448,10 +458,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56155",
         "CVE-2026-56164",
+        "CVE-2026-48561",
         "CVE-2026-50661",
-        "CVE-2026-48561"
+        "CVE-2026-56155"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -574,6 +584,82 @@
   },
   {
     "source": "Security Week",
+    "title": "Corma Raises $60 Million for Defensive Cybersecurity AI Model",
+    "link": "https://www.securityweek.com/corma-raises-60-million-for-defensive-cybersecurity-ai-model/",
+    "published": "Tue, 11 Aug 2026 12:01:46 +0000",
+    "summary": "<p>Corma emerged from stealth with seed funding from Sequoia Capital, Khosla Ventures, and Coatue.</p>\n<p>The post <a href=\"https://www.securityweek.com/corma-raises-60-million-for-defensive-cybersecurity-ai-model/\">Corma Raises $60 Million for Defensive Cybersecurity AI Model</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Corma emerged from stealth with seed funding from Sequoia Capital, Khosla Ventures, and Coatue",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Extension Banned for Stealing AI Chats Returns to Chrome Store, Resumes Malicious Activities",
+    "link": "https://www.securityweek.com/extension-banned-for-stealing-ai-chats-returns-to-chrome-store-resumes-malicious-activities/",
+    "published": "Tue, 11 Aug 2026 11:15:15 +0000",
+    "summary": "<p>The extension amassed over 300,000 installs and a 4.6 rating before Google removed it for stealing data.</p>\n<p>The post <a href=\"https://www.securityweek.com/extension-banned-for-stealing-ai-chats-returns-to-chrome-store-resumes-malicious-activities/\">Extension Banned for Stealing AI Chats Returns to Chrome Store, Resumes Malicious Activities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The extension amassed over 300,000 installs and a 4",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Hacker Conversations: Marcus Hutchins and the Journey From the Gray Zone to Redemption",
+    "link": "https://www.securityweek.com/hacker-conversations-marcus-hutchins/",
+    "published": "Tue, 11 Aug 2026 10:00:00 +0000",
+    "summary": "<p>Marcus Hutchins doesn’t personally consider himself a hacker – but he accepts the epithet because it’s a widely used term for what he once did.</p>\n<p>The post <a href=\"https://www.securityweek.com/hacker-conversations-marcus-hutchins/\">Hacker Conversations: Marcus Hutchins and the Journey From the Gray Zone to Redemption</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Marcus Hutchins doesn’t personally consider himself a hacker – but he accepts the epithet because it’s a widely used term for what he once did",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "OpenAI Unveils New Cybersecurity Model GPT-5.6-Cyber",
+    "link": "https://www.securityweek.com/openai-unveils-new-cybersecurity-model-gpt-5-6-cyber/",
+    "published": "Tue, 11 Aug 2026 09:45:05 +0000",
+    "summary": "<p>OpenAI has also announced the expansion of its Daybreak platform to give more organizations access to its AI.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-unveils-new-cybersecurity-model-gpt-5-6-cyber/\">OpenAI Unveils New Cybersecurity Model GPT-5.6-Cyber</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "OpenAI has also announced the expansion of its Daybreak platform to give more organizations access to its AI",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Mozilla Issues New Firefox GPG Key Following Exposure",
     "link": "https://www.securityweek.com/mozilla-issues-new-firefox-gpg-key-following-exposure/",
     "published": "Tue, 11 Aug 2026 06:16:01 +0000",
@@ -643,11 +729,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20339",
         "CVE-2026-20337",
+        "CVE-2026-20339",
         "CVE-2026-20345",
-        "CVE-2026-20338",
-        "CVE-2026-20348"
+        "CVE-2026-20348",
+        "CVE-2026-20338"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -688,83 +774,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Metabase Patches Vulnerability Exploited as Zero-Day",
-    "link": "https://www.securityweek.com/metabase-patches-vulnerability-exploited-as-zero-day/",
-    "published": "Mon, 10 Aug 2026 11:03:55 +0000",
-    "summary": "<p>The security defect allows unauthenticated, remote attackers to gain administrative access to Metabase instances.</p>\n<p>The post <a href=\"https://www.securityweek.com/metabase-patches-vulnerability-exploited-as-zero-day/\">Metabase Patches Vulnerability Exploited as Zero-Day</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The security defect allows unauthenticated, remote attackers to gain administrative access to Metabase instances",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Novel Private APN Pivot Let Hackers Sabotage Second Polish Energy Facility",
-    "link": "https://www.securityweek.com/novel-private-apn-pivot-let-hackers-sabotage-second-polish-energy-facility/",
-    "published": "Mon, 10 Aug 2026 10:01:52 +0000",
-    "summary": "<p>CERT.PL said this appears to be the first instance of a private APN being used as an attack vector.</p>\n<p>The post <a href=\"https://www.securityweek.com/novel-private-apn-pivot-let-hackers-sabotage-second-polish-energy-facility/\">Novel Private APN Pivot Let Hackers Sabotage Second Polish Energy Facility</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "PL said this appears to be the first instance of a private APN being used as an attack vector",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "CISA Urges Immediate Patching of Exploited Progress LoadMaster Vulnerability",
-    "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-progress-loadmaster-vulnerability/",
-    "published": "Mon, 10 Aug 2026 09:31:51 +0000",
-    "summary": "<p>The critical-severity flaw allows unauthenticated, remote attackers to execute arbitrary commands.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-progress-loadmaster-vulnerability/\">CISA Urges Immediate Patching of Exploited Progress LoadMaster Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The critical-severity flaw allows unauthenticated, remote attackers to execute arbitrary commands",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-33691",
-        "CVE-2026-8037"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Corporate Data Stolen in Levi Strauss Cyberattack",
-    "link": "https://www.securityweek.com/corporate-data-stolen-in-levi-strauss-cyberattack/",
-    "published": "Mon, 10 Aug 2026 08:55:44 +0000",
-    "summary": "<p>Using social engineering, a threat actor accessed the computers of three employees and exfiltrated data from them.</p>\n<p>The post <a href=\"https://www.securityweek.com/corporate-data-stolen-in-levi-strauss-cyberattack/\">Corporate Data Stolen in Levi Strauss Cyberattack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Using social engineering, a threat actor accessed the computers of three employees and exfiltrated data from them",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Phishing",
-        "Supply Chain"
       ]
     }
   },
@@ -1333,6 +1342,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Love/hate relationship: The AI affair. Young people love AI, but it’s breaking their trust",
+    "link": "https://www.malwarebytes.com/blog/ai/2026/08/love-hate-relationship-the-ai-affair-young-people-love-ai-but-its-breaking-their-trust",
+    "published": "Tue, 11 Aug 2026 12:30:00 GMT",
+    "summary": "The same technology making our lives easier is also making it harder. How are young people navigating this new world?",
+    "analysis": {
+      "issue": "Young people use AI for everything",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Watch out for fake TikTok Shops trying to steal your money",
     "link": "https://www.malwarebytes.com/blog/scams/2026/08/watch-out-for-fake-tiktok-shops-trying-to-steal-your-money",
     "published": "Tue, 11 Aug 2026 09:05:57 GMT",
@@ -1490,24 +1517,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Scammers target OnlyFans users with deepfakes",
-    "link": "https://www.malwarebytes.com/blog/news/2026/08/scammers-target-onlyfans-users-with-deepfakes",
-    "published": "Thu, 06 Aug 2026 11:38:27 GMT",
-    "summary": "Criminals are impersonating OnlyFans creators using AI tools in order to scam followers.",
-    "analysis": {
-      "issue": "OnlyFans creators are used to posting adult videos of themselves online, but what happens if someone takes control of their images and uses them for fraud",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
