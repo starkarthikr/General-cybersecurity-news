@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-12 13:21:20 UTC
+**Last Updated:** 2026-08-12 17:29:20 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning](https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html)
+### 1. [737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One](https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 12 Aug 2026 19:39:50 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning](https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 12 Aug 2026 17:17:38 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Enterprise Defenses Recovered at the Edge and Collapsed Inside](https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html)
+### 3. [Enterprise Defenses Recovered at the Edge and Collapsed Inside](https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 12 Aug 2026 17:11:34 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws](https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html)
+### 4. [Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws](https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 12 Aug 2026 16:43:03 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access](https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html)
+### 5. [Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access](https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 12 Aug 2026 14:31:54 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations](https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html)
+### 6. [Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations](https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 12 Aug 2026 13:34:52 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code](https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html)
+### 7. [SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code](https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 12 Aug 2026 13:01:40 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access](https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html)
+### 8. [ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access](https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 12 Aug 2026 12:11:38 +0530  
@@ -69,7 +78,7 @@
 
 ---
 
-### 8. [Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS](https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html)
+### 9. [Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS](https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 12 Aug 2026 11:45:58 +0530  
@@ -79,7 +88,7 @@
 
 ---
 
-### 9. [Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack](https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html)
+### 10. [Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack](https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 12 Aug 2026 01:40:55 +0530  
@@ -89,16 +98,44 @@
 
 ---
 
-### 10. [Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing](https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html)
+### 11. [Plug and Pwn attack uses fake USB devices for Windows SYSTEM access](https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 12 Aug 2026 01:06:37 +0530  
+**Source:** Bleeping Computer  
+**Published:** Wed, 12 Aug 2026 12:05:12 -0400  
 **Severity:** Low  
-**Categories:** Malware, DDoS  
+**Categories:** Vulnerability  
 
 ---
 
-### 11. [Hackers leverage new Microsoft SharePoint exploit in attacks](https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/)
+### 12. [Lazarus hackers exploited Windows zero-day to target defense firms](https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 12 Aug 2026 11:38:08 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-68820  
+**Categories:** Vulnerability, Phishing, APT  
+
+---
+
+### 13. [FBI: Hackers target online accounts to steal nude photos](https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-targeting-online-accounts-to-steal-explicit-photos/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 12 Aug 2026 10:15:09 -0400  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 14. [The Threat Hiding in Your Hiring Process: How Fake Remote Workers Get In](https://www.bleepingcomputer.com/news/security/the-threat-hiding-in-your-hiring-process-how-fake-remote-workers-get-in/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 12 Aug 2026 10:01:11 -0400  
+**Severity:** Low  
+**Categories:** Vulnerability, Phishing, APT  
+
+---
+
+### 15. [Hackers leverage new Microsoft SharePoint exploit in attacks](https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 12 Aug 2026 08:25:37 -0400  
@@ -108,7 +145,7 @@
 
 ---
 
-### 12. [Signal adds new security feature to thwart man-in-the-middle attacks](https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/)
+### 16. [Signal adds new security feature to thwart man-in-the-middle attacks](https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 12 Aug 2026 07:21:42 -0400  
@@ -117,7 +154,7 @@
 
 ---
 
-### 13. [New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges](https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/)
+### 17. [New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges](https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 12 Aug 2026 06:15:22 -0400  
@@ -127,7 +164,7 @@
 
 ---
 
-### 14. [Google says Chrome cuts 7 billion unwanted Android notifications a day to fight abuse](https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/)
+### 18. [Google says Chrome cuts 7 billion unwanted Android notifications a day to fight abuse](https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 11 Aug 2026 21:15:55 -0400  
@@ -136,7 +173,7 @@
 
 ---
 
-### 15. [DeadLock ransomware uses blockchain to resist infrastructure takedown](https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/)
+### 19. [DeadLock ransomware uses blockchain to resist infrastructure takedown](https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 11 Aug 2026 18:15:22 -0400  
@@ -145,7 +182,7 @@
 
 ---
 
-### 16. [Sandworm hackers target IT pros with trojanized WireGuard VPN client](https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/)
+### 20. [Sandworm hackers target IT pros with trojanized WireGuard VPN client](https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 11 Aug 2026 17:07:24 -0400  
@@ -154,49 +191,12 @@
 
 ---
 
-### 17. [Cisco warns of ASA and FTD VPN flaw exploited to crash devices](https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 11 Aug 2026 15:45:31 -0400  
-**Severity:** High  
-**CVEs:** CVE-2026-20349  
-**Categories:** Vulnerability, APT  
-
----
-
-### 18. [Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees](https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 11 Aug 2026 14:34:23 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 19. [Microsoft releases Windows 10 KB5120249 extended security update](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 11 Aug 2026 14:26:03 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days](https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 11 Aug 2026 14:08:50 -0400  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
 ### 21. [Microsoft Plugs Nearly 400 Security Holes](https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-72971, CVE-2026-68820, CVE-2026-62832  
+**CVEs:** CVE-2026-68820, CVE-2026-62832, CVE-2026-72971  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -233,7 +233,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48561, CVE-2026-50661, CVE-2026-56164, CVE-2026-56155  
+**CVEs:** CVE-2026-56164, CVE-2026-56155, CVE-2026-48561, CVE-2026-50661  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -283,7 +283,26 @@
 
 ---
 
-### 31. [WhatsApp Unveils New Scam Alert Feature](https://www.securityweek.com/whatsapp-unveils-new-scam-alert-feature/)
+### 31. [SharePoint Vulnerability Exploited Shortly After PoC Release](https://www.securityweek.com/sharepoint-vulnerability-exploited-shortly-after-poc-release/)
+
+**Source:** Security Week  
+**Published:** Wed, 12 Aug 2026 14:47:01 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-50522, CVE-2026-45659, CVE-2026-63520, CVE-2026-58644, CVE-2026-56164, CVE-2026-55040  
+**Categories:** Vulnerability  
+
+---
+
+### 32. [Mindgard Raises $30 Million to Protect AI Systems](https://www.securityweek.com/mindgard-raises-30-million-to-protect-ai-systems/)
+
+**Source:** Security Week  
+**Published:** Wed, 12 Aug 2026 13:24:00 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, APT  
+
+---
+
+### 33. [WhatsApp Unveils New Scam Alert Feature](https://www.securityweek.com/whatsapp-unveils-new-scam-alert-feature/)
 
 **Source:** Security Week  
 **Published:** Wed, 12 Aug 2026 13:00:00 +0000  
@@ -292,7 +311,7 @@
 
 ---
 
-### 32. [Stealthy ‘City-Forum’ Attacks Target Salesforce and ServiceNow With Custom Toolset](https://www.securityweek.com/stealthy-city-forum-attacks-target-salesforce-and-servicenow-with-custom-toolset/)
+### 34. [Stealthy ‘City-Forum’ Attacks Target Salesforce and ServiceNow With Custom Toolset](https://www.securityweek.com/stealthy-city-forum-attacks-target-salesforce-and-servicenow-with-custom-toolset/)
 
 **Source:** Security Week  
 **Published:** Wed, 12 Aug 2026 13:00:00 +0000  
@@ -301,7 +320,7 @@
 
 ---
 
-### 33. [Ceva Logistics Operations Disrupted by Cyberattack](https://www.securityweek.com/ceva-logistics-operations-disrupted-by-cyberattack/)
+### 35. [Ceva Logistics Operations Disrupted by Cyberattack](https://www.securityweek.com/ceva-logistics-operations-disrupted-by-cyberattack/)
 
 **Source:** Security Week  
 **Published:** Wed, 12 Aug 2026 11:37:28 +0000  
@@ -310,7 +329,7 @@
 
 ---
 
-### 34. [Chipmaker Patch Tuesday: Intel, AMD Fix Over 80 Vulnerabilities Combined](https://www.securityweek.com/chipmaker-patch-tuesday-intel-amd-fix-over-80-vulnerabilities-combined/)
+### 36. [Chipmaker Patch Tuesday: Intel, AMD Fix Over 80 Vulnerabilities Combined](https://www.securityweek.com/chipmaker-patch-tuesday-intel-amd-fix-over-80-vulnerabilities-combined/)
 
 **Source:** Security Week  
 **Published:** Wed, 12 Aug 2026 10:55:04 +0000  
@@ -319,7 +338,7 @@
 
 ---
 
-### 35. [Over 2,500 Organizations Impacted by LiteLLM Supply Chain Attack](https://www.securityweek.com/over-2500-organizations-impacted-by-litellm-supply-chain-attack/)
+### 37. [Over 2,500 Organizations Impacted by LiteLLM Supply Chain Attack](https://www.securityweek.com/over-2500-organizations-impacted-by-litellm-supply-chain-attack/)
 
 **Source:** Security Week  
 **Published:** Wed, 12 Aug 2026 09:55:45 +0000  
@@ -328,7 +347,7 @@
 
 ---
 
-### 36. [Fresh Windows Zero-Day Exploited in North Korean Cyberattacks](https://www.securityweek.com/fresh-windows-zero-day-exploited-in-north-korean-cyberattacks/)
+### 38. [Fresh Windows Zero-Day Exploited in North Korean Cyberattacks](https://www.securityweek.com/fresh-windows-zero-day-exploited-in-north-korean-cyberattacks/)
 
 **Source:** Security Week  
 **Published:** Wed, 12 Aug 2026 08:45:53 +0000  
@@ -338,17 +357,17 @@
 
 ---
 
-### 37. [Ivanti EPM Update Patches Remotely Exploitable Flaws](https://www.securityweek.com/ivanti-epm-update-patches-remotely-exploitable-flaws/)
+### 39. [Ivanti EPM Update Patches Remotely Exploitable Flaws](https://www.securityweek.com/ivanti-epm-update-patches-remotely-exploitable-flaws/)
 
 **Source:** Security Week  
 **Published:** Wed, 12 Aug 2026 08:14:46 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-18125, CVE-2026-18127, CVE-2026-18129  
+**CVEs:** CVE-2026-18129, CVE-2026-18125, CVE-2026-18127  
 **Categories:** Vulnerability  
 
 ---
 
-### 38. [ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Phoenix Contact](https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-phoenix-contact-2/)
+### 40. [ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Phoenix Contact](https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-phoenix-contact-2/)
 
 **Source:** Security Week  
 **Published:** Wed, 12 Aug 2026 07:51:55 +0000  
@@ -357,32 +376,12 @@
 
 ---
 
-### 39. [SonicWall Patches Critical Vulnerabilities in Discontinued GMS Platform](https://www.securityweek.com/sonicwall-patches-critical-vulnerabilities-in-discontinued-gms-platform/)
-
-**Source:** Security Week  
-**Published:** Wed, 12 Aug 2026 07:31:11 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-66145, CVE-2026-66150, CVE-2026-66147, CVE-2026-66149  
-**Categories:** Vulnerability  
-
----
-
-### 40. [Cisco Patches Firewall Zero-Day Exploited for DoS Attacks](https://www.securityweek.com/cisco-patches-firewall-zero-day-exploited-for-dos-attacks/)
-
-**Source:** Security Week  
-**Published:** Wed, 12 Aug 2026 05:10:47 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-20349  
-**Categories:** Vulnerability, APT  
-
----
-
 ### 41. [Microsoft Patch Tuesday for August 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-for-august-2026/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 11 Aug 2026 22:21:02 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-65665, CVE-2026-68820, CVE-2026-62823, CVE-2026-62893  
+**CVEs:** CVE-2026-68820, CVE-2026-62823, CVE-2026-65665, CVE-2026-62893  
 **Categories:** Vulnerability  
 
 ---
@@ -638,7 +637,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -653,7 +652,27 @@
 
 ---
 
-### 71. [Fake CCleaner installs GhostDesk Chrome spyware](https://www.malwarebytes.com/blog/threat-intel/2026/08/fake-ccleaner-installs-ghostdesk-chrome-spyware)
+### 71. [“Zoomsday” flaws could let one Zoom participant attack another](https://www.malwarebytes.com/blog/bugs/2026/08/zoomsday-flaws-could-let-one-zoom-participant-attack-another)
+
+**Source:** Malwarebytes  
+**Published:** Wed, 12 Aug 2026 14:43:13 GMT  
+**Severity:** Critical  
+**CVEs:** CVE-2026-53415, CVE-2026-53413, CVE-2026-53414  
+**Categories:** Data Breach, Vulnerability  
+
+---
+
+### 72. [Patch Tuesday: Update now to fix 421 flaws, including three zero-days](https://www.malwarebytes.com/blog/bugs/2026/08/patch-tuesday-update-now-to-fix-421-flaws-including-three-zero-days)
+
+**Source:** Malwarebytes  
+**Published:** Wed, 12 Aug 2026 13:48:49 GMT  
+**Severity:** Critical  
+**CVEs:** CVE-2026-62832, CVE-2026-62893  
+**Categories:** Vulnerability, Phishing, APT  
+
+---
+
+### 73. [Fake CCleaner installs GhostDesk Chrome spyware](https://www.malwarebytes.com/blog/threat-intel/2026/08/fake-ccleaner-installs-ghostdesk-chrome-spyware)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 11 Aug 2026 20:41:27 GMT  
@@ -662,7 +681,7 @@
 
 ---
 
-### 72. [Valve warns Steam hardware buyers: Expect fake delivery scams](https://www.malwarebytes.com/blog/data-breaches/2026/08/valve-warns-steam-hardware-buyers-expect-fake-delivery-scams)
+### 74. [Valve warns Steam hardware buyers: Expect fake delivery scams](https://www.malwarebytes.com/blog/data-breaches/2026/08/valve-warns-steam-hardware-buyers-expect-fake-delivery-scams)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 11 Aug 2026 16:31:55 GMT  
@@ -671,7 +690,7 @@
 
 ---
 
-### 73. [Social media platforms crack down on drone factory recruiting game](https://www.malwarebytes.com/blog/news/2026/08/social-media-platforms-crack-down-on-drone-factory-recruiting-game)
+### 75. [Social media platforms crack down on drone factory recruiting game](https://www.malwarebytes.com/blog/news/2026/08/social-media-platforms-crack-down-on-drone-factory-recruiting-game)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 11 Aug 2026 16:05:56 GMT  
@@ -680,7 +699,7 @@
 
 ---
 
-### 74. [Sexual predators targeting online accounts for intimate images, FBI warns](https://www.malwarebytes.com/blog/news/2026/08/sexual-predators-targeting-online-accounts-for-intimate-images-fbi-warns)
+### 76. [Sexual predators targeting online accounts for intimate images, FBI warns](https://www.malwarebytes.com/blog/news/2026/08/sexual-predators-targeting-online-accounts-for-intimate-images-fbi-warns)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 11 Aug 2026 13:39:07 GMT  
@@ -689,7 +708,7 @@
 
 ---
 
-### 75. [Love/hate relationship: The AI affair. Young people love AI, but it’s breaking their trust](https://www.malwarebytes.com/blog/ai/2026/08/love-hate-relationship-the-ai-affair-young-people-love-ai-but-its-breaking-their-trust)
+### 77. [Love/hate relationship: The AI affair. Young people love AI, but it’s breaking their trust](https://www.malwarebytes.com/blog/ai/2026/08/love-hate-relationship-the-ai-affair-young-people-love-ai-but-its-breaking-their-trust)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 11 Aug 2026 12:30:00 GMT  
@@ -698,7 +717,7 @@
 
 ---
 
-### 76. [Watch out for fake TikTok Shops trying to steal your money](https://www.malwarebytes.com/blog/scams/2026/08/watch-out-for-fake-tiktok-shops-trying-to-steal-your-money)
+### 78. [Watch out for fake TikTok Shops trying to steal your money](https://www.malwarebytes.com/blog/scams/2026/08/watch-out-for-fake-tiktok-shops-trying-to-steal-your-money)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 11 Aug 2026 09:05:57 GMT  
@@ -707,7 +726,7 @@
 
 ---
 
-### 77. [Fake popular sites offer a free app, instead take over PCs](https://www.malwarebytes.com/blog/threat-intel/2026/08/fake-popular-sites-offer-a-free-app-instead-take-over-pcs)
+### 79. [Fake popular sites offer a free app, instead take over PCs](https://www.malwarebytes.com/blog/threat-intel/2026/08/fake-popular-sites-offer-a-free-app-instead-take-over-pcs)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 11 Aug 2026 08:55:45 GMT  
@@ -716,30 +735,12 @@
 
 ---
 
-### 78. [How to fake a data trail (and maybe lower prices) (Lock and Code S07E16)](https://www.malwarebytes.com/blog/podcast/2026/08/how-to-fake-a-data-trail-and-maybe-lower-prices-lock-and-code-s07e16)
+### 80. [How to fake a data trail (and maybe lower prices) (Lock and Code S07E16)](https://www.malwarebytes.com/blog/podcast/2026/08/how-to-fake-a-data-trail-and-maybe-lower-prices-lock-and-code-s07e16)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 10 Aug 2026 17:11:00 GMT  
 **Severity:** High  
 **Categories:** General Security  
-
----
-
-### 79. [New turnkey kit makes it easy for anyone to become a scammer](https://www.malwarebytes.com/blog/scams/2026/08/new-turnkey-kit-makes-it-easy-for-anyone-to-become-a-scammer)
-
-**Source:** Malwarebytes  
-**Published:** Mon, 10 Aug 2026 15:27:33 GMT  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 80. [Edge is dropping older extensions, affecting popular privacy tools](https://www.malwarebytes.com/blog/news/2026/08/edge-is-dropping-older-extensions-affecting-popular-privacy-tools)
-
-**Source:** Malwarebytes  
-**Published:** Mon, 10 Aug 2026 12:47:20 GMT  
-**Severity:** Low  
-**Categories:** APT  
 
 ---
 

@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One",
+    "link": "https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html",
+    "published": "Wed, 12 Aug 2026 19:39:50 +0530",
+    "summary": "A massive set of 737 free VPN and proxy extensions have been found to mainly target Russian-speaking users seeking access to blocked services with an aim to intercept browser traffic and route them through a proxy infrastructure.\n\nThe extensions, published across at least 40 Chrome Web Store developer accounts, racked up 75,486 installs. Of those identified, 274 have been found to impersonate 66",
+    "analysis": {
+      "issue": "737 Chrome VPN extensions with 75,486 installs route browser traffic through SOCKS5 proxies, putting the operator in an AitM position",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
     "link": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
     "published": "Wed, 12 Aug 2026 17:17:38 +0530",
@@ -170,21 +188,80 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing",
-    "link": "https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html",
-    "published": "Wed, 12 Aug 2026 01:06:37 +0530",
-    "summary": "Cybersecurity researchers have discovered a new version of the Kimwolf/AISURU Android and Internet of Things (IoT) botnet that comes with significant improvements to improve its operational resilience and conduct distributed denial-of-service (DDoS) attacks.\n\nThe new version, tracked as Kimwolf v7, was discovered by Palo Alto Networks Unit 42 in February 2026.\n\n\"Kimwolf v7 adds an HTTP/2-based",
+    "source": "Bleeping Computer",
+    "title": "Plug and Pwn attack uses fake USB devices for Windows SYSTEM access",
+    "link": "https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/",
+    "published": "Wed, 12 Aug 2026 12:05:12 -0400",
+    "summary": "Security researchers have disclosed new \"Plug and Pwn\" attacks that abuse the Windows Plug and Play feature to trigger Windows into installing vulnerable or insecure vendor software and gain SYSTEM privileges. [...]",
     "analysis": {
-      "issue": "Kimwolf v7 adds browser-like HTTP/2 DDoS floods, ENS and Tor C2 resilience, and shifts propagation to an external loader",
+      "issue": "Security researchers have disclosed new \"Plug and Pwn\" attacks that abuse the Windows Plug and Play feature to trigger Windows into installing vulnerable or insecure vendor software and gain SYSTEM privileges",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware",
-        "DDoS"
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Lazarus hackers exploited Windows zero-day to target defense firms",
+    "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/",
+    "published": "Wed, 12 Aug 2026 11:38:08 -0400",
+    "summary": "North Korean hackers have been exploiting a Windows zero-day vulnerability (CVE-2026-68820) to target defense-sector companies as part of the Operation Dream Job campaign. [...]",
+    "analysis": {
+      "issue": "North Korean hackers have been exploiting a Windows zero-day vulnerability (CVE-2026-68820) to target defense-sector companies as part of the Operation Dream Job campaign",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-68820"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "FBI: Hackers target online accounts to steal nude photos",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-targeting-online-accounts-to-steal-explicit-photos/",
+    "published": "Wed, 12 Aug 2026 10:15:09 -0400",
+    "summary": "The FBI warns that cybercriminals are targeting adults' and children's social media and other online accounts to steal sexually explicit images or videos. [...]",
+    "analysis": {
+      "issue": "The FBI warns that cybercriminals are targeting adults' and children's social media and other online accounts to steal sexually explicit images or videos",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "The Threat Hiding in Your Hiring Process: How Fake Remote Workers Get In",
+    "link": "https://www.bleepingcomputer.com/news/security/the-threat-hiding-in-your-hiring-process-how-fake-remote-workers-get-in/",
+    "published": "Wed, 12 Aug 2026 10:01:11 -0400",
+    "summary": "Fake remote workers can exploit gaps between hiring checks, device delivery, and account access to enter organizations under false identities. Specops Software explains how document verification and biometric liveness checks can help organizations confirm that the person receiving access is the legitimate new hire. [...]",
+    "analysis": {
+      "issue": "For many security teams, the expected route into the corporate network begins with a phishing email or exploited vulnerability",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing",
+        "APT"
       ]
     }
   },
@@ -304,81 +381,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Cisco warns of ASA and FTD VPN flaw exploited to crash devices",
-    "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/",
-    "published": "Tue, 11 Aug 2026 15:45:31 -0400",
-    "summary": "Cisco is warning that a high-severity denial-of-service vulnerability in Secure Firewall ASA and Threat Defense (FTD) software is being actively exploited in attacks to remotely crash affected devices. [...]",
-    "analysis": {
-      "issue": "Cisco is warning that a high-severity denial-of-service vulnerability in Secure Firewall ASA and Threat Defense (FTD) software is being actively exploited in attacks to remotely crash affected devices",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2026-20349"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees",
-    "link": "https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/",
-    "published": "Tue, 11 Aug 2026 14:34:23 -0400",
-    "summary": "Delta Air Lines is investigating an unauthorized Wi-Fi network that appeared aboard a flight from Las Vegas to Atlanta carrying passengers who had attended the DEF CON hacker convention. [...]",
-    "analysis": {
-      "issue": "Delta Air Lines is investigating an unauthorized Wi-Fi network that appeared aboard a flight from Las Vegas to Atlanta carrying passengers who had attended the DEF CON hacker convention",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft releases Windows 10 KB5120249 extended security update",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/",
-    "published": "Tue, 11 Aug 2026 14:26:03 -0400",
-    "summary": "Microsoft has released Windows 10 KB5120249 Extended Security Updates for versions 22H2 and 21H2 to fix security vulnerabilities and bugs. [...]",
-    "analysis": {
-      "issue": "Microsoft has released the Windows 10 KB5120249 Extended Security Updates (ESU) for versions 22H2 and 21H2 to fix security vulnerabilities and bugs",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/",
-    "published": "Tue, 11 Aug 2026 14:08:50 -0400",
-    "summary": "Today is Microsoft's August 2026 Patch Tuesday, and with it comes security updates for a massive 400 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
-    "analysis": {
-      "issue": "Today is Microsoft's August 2026 Patch Tuesday, and with it comes security updates for a massive 400 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Microsoft Plugs Nearly 400 Security Holes",
     "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
@@ -391,9 +393,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-72971",
         "CVE-2026-68820",
-        "CVE-2026-62832"
+        "CVE-2026-62832",
+        "CVE-2026-72971"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -470,10 +472,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-48561",
-        "CVE-2026-50661",
         "CVE-2026-56164",
-        "CVE-2026-56155"
+        "CVE-2026-56155",
+        "CVE-2026-48561",
+        "CVE-2026-50661"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -571,6 +573,50 @@
       "cves": [],
       "threat_categories": [
         "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "SharePoint Vulnerability Exploited Shortly After PoC Release",
+    "link": "https://www.securityweek.com/sharepoint-vulnerability-exploited-shortly-after-poc-release/",
+    "published": "Wed, 12 Aug 2026 14:47:01 +0000",
+    "summary": "<p>The vulnerability was patched by Microsoft in July and CISA warned that it could end up being exploited in the wild.</p>\n<p>The post <a href=\"https://www.securityweek.com/sharepoint-vulnerability-exploited-shortly-after-poc-release/\">SharePoint Vulnerability Exploited Shortly After PoC Release</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The vulnerability was patched by Microsoft in July and CISA warned that it could end up being exploited in the wild",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-50522",
+        "CVE-2026-45659",
+        "CVE-2026-63520",
+        "CVE-2026-58644",
+        "CVE-2026-56164",
+        "CVE-2026-55040"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Mindgard Raises $30 Million to Protect AI Systems",
+    "link": "https://www.securityweek.com/mindgard-raises-30-million-to-protect-ai-systems/",
+    "published": "Wed, 12 Aug 2026 13:24:00 +0000",
+    "summary": "<p>The cybersecurity startup will use the fresh investment to scale its product, engineering, sales, and marketing teams.</p>\n<p>The post <a href=\"https://www.securityweek.com/mindgard-raises-30-million-to-protect-ai-systems/\">Mindgard Raises $30 Million to Protect AI Systems</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The cybersecurity startup will use the fresh investment to scale its product, engineering, sales, and marketing teams",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "APT"
       ]
     }
   },
@@ -704,9 +750,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-18129",
         "CVE-2026-18125",
-        "CVE-2026-18127",
-        "CVE-2026-18129"
+        "CVE-2026-18127"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -732,50 +778,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "SonicWall Patches Critical Vulnerabilities in Discontinued GMS Platform",
-    "link": "https://www.securityweek.com/sonicwall-patches-critical-vulnerabilities-in-discontinued-gms-platform/",
-    "published": "Wed, 12 Aug 2026 07:31:11 +0000",
-    "summary": "<p>The security defects could allow unauthenticated attackers to execute arbitrary code remotely and read sensitive data.</p>\n<p>The post <a href=\"https://www.securityweek.com/sonicwall-patches-critical-vulnerabilities-in-discontinued-gms-platform/\">SonicWall Patches Critical Vulnerabilities in Discontinued GMS Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The security defects could allow unauthenticated attackers to execute arbitrary code remotely and read sensitive data",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-66145",
-        "CVE-2026-66150",
-        "CVE-2026-66147",
-        "CVE-2026-66149"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Cisco Patches Firewall Zero-Day Exploited for DoS Attacks",
-    "link": "https://www.securityweek.com/cisco-patches-firewall-zero-day-exploited-for-dos-attacks/",
-    "published": "Wed, 12 Aug 2026 05:10:47 +0000",
-    "summary": "<p>CVE-2026-20349 can be exploited remotely without authentication against Secure Firewall ASA and FTD devices.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-patches-firewall-zero-day-exploited-for-dos-attacks/\">Cisco Patches Firewall Zero-Day Exploited for DoS Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "CVE-2026-20349 can be exploited remotely without authentication against Secure Firewall ASA and FTD devices",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-20349"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "APT"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Microsoft Patch Tuesday for August 2026 — Snort rules and prominent vulnerabilities",
     "link": "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-august-2026/",
@@ -788,9 +790,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-65665",
         "CVE-2026-68820",
         "CVE-2026-62823",
+        "CVE-2026-65665",
         "CVE-2026-62893"
       ],
       "threat_categories": [
@@ -1313,8 +1315,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1339,6 +1341,52 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "“Zoomsday” flaws could let one Zoom participant attack another",
+    "link": "https://www.malwarebytes.com/blog/bugs/2026/08/zoomsday-flaws-could-let-one-zoom-participant-attack-another",
+    "published": "Wed, 12 Aug 2026 14:43:13 GMT",
+    "summary": "Update Zoom now to protect against critical vulnerabilities that could allow an attacker in the same meeting to run malicious code on your device.",
+    "analysis": {
+      "issue": "Researchers have found three vulnerabilities in the popular Zoom meeting platform that could let one meeting participant attack another through malicious collaboration data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-53415",
+        "CVE-2026-53413",
+        "CVE-2026-53414"
+      ],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Patch Tuesday: Update now to fix 421 flaws, including three zero-days",
+    "link": "https://www.malwarebytes.com/blog/bugs/2026/08/patch-tuesday-update-now-to-fix-421-flaws-including-three-zero-days",
+    "published": "Wed, 12 Aug 2026 13:48:49 GMT",
+    "summary": "Microsoft's August Patch Tuesday fixes 421 vulnerabilities, including three zero-days, 62 critical flaws, and dozens of Office remote code execution bugs.",
+    "analysis": {
+      "issue": "Microsoft’s August 2026 Patch Tuesday addresses 421 Microsoft vulnerabilities, including 62 rated Critical",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-62832",
+        "CVE-2026-62893"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing",
+        "APT"
       ]
     }
   },
@@ -1484,42 +1532,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "New turnkey kit makes it easy for anyone to become a scammer",
-    "link": "https://www.malwarebytes.com/blog/scams/2026/08/new-turnkey-kit-makes-it-easy-for-anyone-to-become-a-scammer",
-    "published": "Mon, 10 Aug 2026 15:27:33 GMT",
-    "summary": "We discovered a kit that gave us an insight into how modern online scams are built, promoted, and potentially used to target everyday consumers.",
-    "analysis": {
-      "issue": "In 2026, online scams have unfortunately become part of the new normal",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Edge is dropping older extensions, affecting popular privacy tools",
-    "link": "https://www.malwarebytes.com/blog/news/2026/08/edge-is-dropping-older-extensions-affecting-popular-privacy-tools",
-    "published": "Mon, 10 Aug 2026 12:47:20 GMT",
-    "summary": "Microsoft is retiring Manifest V2, the technology behind older Edge extensions. Some popular privacy tools will lose features or stop working.",
-    "analysis": {
-      "issue": "Microsoft is beginning the retirement of Manifest V2 (MV2) extensions in Edge this month, with consumer completion targeted for the end of 2026 and managed-enterprise deprecation in early 2027",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "APT"
       ]
     }
   },
