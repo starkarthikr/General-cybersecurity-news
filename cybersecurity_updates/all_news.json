@@ -1,6 +1,120 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
+    "link": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
+    "published": "Wed, 12 Aug 2026 01:40:55 +0530",
+    "summary": "Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks.\n\nThe bug sits in a core Windows kernel driver that handles network socket operations. An attacker with code already running on a machine can use it to escalate to SYSTEM. That patch goes out first.\n\nThe flaw is tracked as CVE-2026-68820 (CVSS score: 7.0) and is the only",
+    "analysis": {
+      "issue": "Microsoft patches 398 flaws, including exploited CVE-2026-68820 that lets local attackers reach SYSTEM, plus four unauthenticated 9",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-68820"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing",
+    "link": "https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html",
+    "published": "Wed, 12 Aug 2026 01:06:37 +0530",
+    "summary": "Cybersecurity researchers have discovered a new version of the Kimwolf/AISURU Android and Internet of Things (IoT) botnet that comes with significant improvements to improve its operational resilience and conduct distributed denial-of-service (DDoS) attacks.\n\nThe new version, tracked as Kimwolf v7, was discovered by Palo Alto Networks Unit 42 in February 2026.\n\n\"Kimwolf v7 adds an HTTP/2-based",
+    "analysis": {
+      "issue": "Kimwolf v7 adds browser-like HTTP/2 DDoS floods, ENS and Tor C2 resilience, and shifts propagation to an external loader",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client",
+    "link": "https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html",
+    "published": "Wed, 12 Aug 2026 00:38:47 +0530",
+    "summary": "Anyone sharing their screen on a Zoom call could have taken over the computers of everyone watching, and anyone watching could have taken over the presenter's.\n\nThe flaw sat in the annotation tool, the feature that lets participants draw and type on a shared screen, and it asked nothing of the victim beyond being in the meeting. No click, no download, no prompt, and nothing on screen to show it",
+    "analysis": {
+      "issue": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client | Read more hacking news on The Hacker News cybersecurity news website and learn how to protect against cyberattacks and software vulnerabilities",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands",
+    "link": "https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html",
+    "published": "Wed, 12 Aug 2026 00:06:47 +0530",
+    "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new social engineering campaign orchestrated by Russian nation-state threat actors targeting IT workers in the country by masquerading as recruiters to trick them into installing malware.\n\nCERT-UA pinned the activity on a threat cluster it tracks as UAC-0145, which is a subgroup within Sandworm (aka APT44,",
+    "analysis": {
+      "issue": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands | Read more hacking news on The Hacker News cybersecurity news website and learn how to protect against cyberattacks and software vulnerabilities",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
+    "link": "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html",
+    "published": "Tue, 11 Aug 2026 22:17:44 +0530",
+    "summary": "Security researchers found a way to enter Microsoft SharePoint servers as any user, including an administrator, with no valid account. A significant part of the work that found it was done through an AI agent.\n\nThe flaw, tracked as&nbsp;CVE-2026-55040&nbsp;(CVSS 9.1), affects SharePoint Server Subscription Edition, SharePoint Server 2019, and SharePoint Server 2016. Microsoft's",
+    "analysis": {
+      "issue": "SharePoint CVE-2026-55040 lets unauthenticated attackers impersonate users and chain with CVE-2026-63520 for code execution",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-55040",
+        "CVE-2026-63520"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt",
+    "link": "https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html",
+    "published": "Tue, 11 Aug 2026 22:05:27 +0530",
+    "summary": "The ransomware group known as DeadLock has been observed using decentralized infrastructure to facilitate victim communications and data leak operations in a bid to improve operational resilience.\n\n\"Its recovery ecosystem combines the Session messaging network with blockchain-backed services that store and deliver resources used throughout the extortion process,\" the Microsoft Threat",
+    "analysis": {
+      "issue": "DeadLock ransomware uses Polygon smart contracts, Session, and blockchain-hosted leak content to make extortion infrastructure harder to disrupt",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development",
     "link": "https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html",
     "published": "Tue, 11 Aug 2026 18:41:23 +0530",
@@ -72,13 +186,91 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11",
-    "link": "https://thehackernews.com/2026/08/researchers-turn-usb-auto-install-into.html",
-    "published": "Tue, 11 Aug 2026 16:18:26 +0530",
-    "summary": "Windows Plug and Play can be abused to fetch signed vendor software for an emulated USB device and execute privileged installation components that researchers chained to SYSTEM access on a fully updated Windows 11 machine.\n\nThe same PnP path can be triggered over Remote Desktop without physical hardware when supported Plug and Play or low-level USB redirection is enabled; Microsoft says that",
+    "source": "Bleeping Computer",
+    "title": "Google says Chrome cuts 7 billion unwanted Android notifications a day to fight abuse",
+    "link": "https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/",
+    "published": "Tue, 11 Aug 2026 21:15:55 -0400",
+    "summary": "Google says Chrome's anti-abuse systems reduced unwanted notifications on Android by more than 7 billion per day during the first quarter of 2026. [...]",
     "analysis": {
-      "issue": "Windows Plug and Play can abuse signed vendor installers to gain SYSTEM access on Windows 11, including over RDP when USB redirection is enabled",
+      "issue": "Google says Chrome's anti-abuse systems reduced unwanted notifications on Android by more than 7 billion per day during the first quarter of 2026",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "DeadLock ransomware uses blockchain to resist infrastructure takedown",
+    "link": "https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/",
+    "published": "Tue, 11 Aug 2026 18:15:22 -0400",
+    "summary": "The DeadLock ransomware operation is using a decentralized infrastructure that relies on blockchain-backed services to protect its communication with victims and data-leak activity. [...]",
+    "analysis": {
+      "issue": "The DeadLock ransomware operation is using a decentralized infrastructure that relies on blockchain-backed services to protect its communication with victims and data-leak activity",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Sandworm hackers target IT pros with trojanized WireGuard VPN client",
+    "link": "https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/",
+    "published": "Tue, 11 Aug 2026 17:07:24 -0400",
+    "summary": "Hackers associated with the Russian threat group Sandworm have been targeting system administrators and IT professionals through fake job offers since at least May. [...]",
+    "analysis": {
+      "issue": "Hackers associated with the Russian threat group Sandworm have been targeting system administrators and IT professionals through fake job offers since at least May",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Cisco warns of ASA and FTD VPN flaw exploited to crash devices",
+    "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/",
+    "published": "Tue, 11 Aug 2026 15:45:31 -0400",
+    "summary": "Cisco is warning that a high-severity denial-of-service vulnerability in Secure Firewall ASA and Threat Defense (FTD) software is being actively exploited in attacks to remotely crash affected devices. [...]",
+    "analysis": {
+      "issue": "Cisco is warning that a high-severity denial-of-service vulnerability in Secure Firewall ASA and Threat Defense (FTD) software is being actively exploited in attacks to remotely crash affected devices",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2026-20349"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees",
+    "link": "https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/",
+    "published": "Tue, 11 Aug 2026 14:34:23 -0400",
+    "summary": "Delta Air Lines is investigating an unauthorized Wi-Fi network that appeared aboard a flight from Las Vegas to Atlanta carrying passengers who had attended the DEF CON hacker convention. [...]",
+    "analysis": {
+      "issue": "Delta Air Lines is investigating an unauthorized Wi-Fi network that appeared aboard a flight from Las Vegas to Atlanta carrying passengers who had attended the DEF CON hacker convention",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -90,13 +282,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets",
-    "link": "https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html",
-    "published": "Tue, 11 Aug 2026 15:54:00 +0530",
-    "summary": "A malicious tool server connected to an AI coding assistant can quietly walk off with SSH keys, environment secrets, source code, and customer data without ever sending one obviously harmful instruction.\n\nThe trick can work even after a blunt version of the same theft is refused: split the request into fragments that each look routine, place them in channels the assistant already uses, and let",
+    "source": "Bleeping Computer",
+    "title": "Microsoft releases Windows 10 KB5120249 extended security update",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/",
+    "published": "Tue, 11 Aug 2026 14:26:03 -0400",
+    "summary": "Microsoft has released Windows 10 KB5120249 Extended Security Updates for versions 22H2 and 21H2 to fix security vulnerabilities and bugs. [...]",
     "analysis": {
-      "issue": "GhostSplice splits MCP instructions across channels, letting AI coding agents combine them to exfiltrate SSH keys, secrets, and source code",
+      "issue": "Microsoft has released the Windows 10 KB5120249 Extended Security Updates (ESU) for versions 22H2 and 21H2 to fix security vulnerabilities and bugs",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -108,69 +300,31 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Gunra Ransomware Exploits Fortinet and Schneider Electric Flaws to Breach Networks",
-    "link": "https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html",
-    "published": "Tue, 11 Aug 2026 14:46:24 +0530",
-    "summary": "Cybersecurity and intelligence agencies from South Korea and the U.S. warned of Gunra ransomware attacks targeting critical infrastructure sectors and organizations across the world.\n\nTargets of these attacks include healthcare and public health, financial services, government services and facilities, and professional and nonprofit services.\n\n\"Gunra is another variant in the ongoing trend of",
+    "source": "Bleeping Computer",
+    "title": "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/",
+    "published": "Tue, 11 Aug 2026 14:08:50 -0400",
+    "summary": "Today is Microsoft's August 2026 Patch Tuesday, and with it comes security updates for a massive 400 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
     "analysis": {
-      "issue": "Gunra ransomware exploits Fortinet and Schneider Electric flaws to breach critical infrastructure, steal data, and encrypt systems",
+      "issue": "Today is Microsoft's August 2026 Patch Tuesday, and with it comes security updates for a massive 400 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "Ransomware",
         "Vulnerability"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine",
-    "link": "https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html",
-    "published": "Tue, 11 Aug 2026 12:25:45 +0530",
-    "summary": "Attackers shut down a steam turbine and the process-water treatment system at a Polish combined heat and power plant by coming in over the private cellular network the local grid operator uses to reach remote equipment.\n\nThe plant supplies heat to roughly 50,000 residents. Recovery began at about 7:30 a.m. while the intruders were still active inside the network, and customers lost neither heat",
+    "source": "Bleeping Computer",
+    "title": "Windows 11 KB5121003 & KB5120240 cumulative updates released",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5121003-and-kb5120240-cumulative-updates-released/",
+    "published": "Tue, 11 Aug 2026 13:38:42 -0400",
+    "summary": "Microsoft has released Windows 11 KB5121003 and KB5120240 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
     "analysis": {
-      "issue": "Attackers pivoted through a private cellular APN to shut a turbine and water treatment system at a Polish CHP plant serving 50,000 residents",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins",
-    "link": "https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html",
-    "published": "Tue, 11 Aug 2026 11:18:44 +0530",
-    "summary": "Cybersecurity researchers have warned of a supply chain compromise impacting WordPress plugin vendor BdThemes, prompting the content management systems (CMS) platform's plugins team to temporarily disable their downloads.\n\n\"Unlike traditional software supply chain attacks, zero source code files were modified within the official WordPress.org repository,\" Wordfence researcher Paolo Tresso said.",
-    "analysis": {
-      "issue": "BdThemes' compromised JSON feed exploits XSS in seven WordPress plugins, creating rogue admins and installing a PHP web shell without plugin updates",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development",
-    "link": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
-    "published": "Mon, 10 Aug 2026 22:59:17 +0530",
-    "summary": "AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prioritize fixes, and control risk at human speed.\n\nWhen software output jumps 10 to 50 times, the problem is no longer just finding vulnerabilities. It is keeping security from becoming the bottleneck, or worse, losing control of what gets shipped.",
-    "analysis": {
-      "issue": "AI-driven development can raise code output 10 to 50 times, forcing security teams to rethink review, remediation, and governance",
+      "issue": "Microsoft has released Windows 11 KB512103 and KB5120240 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -220,161 +374,25 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Vague Task, Total Access: When AI Delegation Becomes a Security Risk",
-    "link": "https://www.bleepingcomputer.com/news/security/vague-task-total-access-when-ai-delegation-becomes-a-security-risk/",
-    "published": "Tue, 11 Aug 2026 09:15:24 -0400",
-    "summary": "AI agents can improvise beyond the intended scope of a task when they are given broad access to enterprise systems and data. Token Security explains why organizations need to define agent intent and continuously enforce permissions around what each agent was actually created to do. [...]",
+    "source": "Krebs On Security",
+    "title": "Microsoft Plugs Nearly 400 Security Holes",
+    "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
+    "published": "Tue, 11 Aug 2026 21:28:35 +0000",
+    "summary": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today.",
     "analysis": {
-      "issue": "Every agent incident disclosed this summer ends the same way: the agent completed its task with everything it had",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "DDoS attacks over 1 Tbps surged fivefold in the second quarter",
-    "link": "https://www.bleepingcomputer.com/news/security/ddos-attacks-over-1-tbps-surged-fivefold-in-the-second-quarter/",
-    "published": "Tue, 11 Aug 2026 09:00:00 -0400",
-    "summary": "Cloudflare says it mitigated more than 800 network-layer distributed denial-of-service (DDoS) attacks exceeding 1 Tbps in the second quarter of the year. [...]",
-    "analysis": {
-      "issue": "Cloudflare says it mitigated more than 800 network-layer distributed denial-of-service (DDoS) attacks exceeding 1 Tbps in the second quarter of the year",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "DDoS"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA: Microsoft SharePoint flaw now exploited in ransomware attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-flaw-now-exploited-in-ransomware-attacks/",
-    "published": "Tue, 11 Aug 2026 08:12:16 -0400",
-    "summary": "CISA confirmed today that ransomware gangs have begun abusing a high-severity Microsoft SharePoint remote code execution vulnerability, which has been flagged as actively exploited since early July. [...]",
-    "analysis": {
-      "issue": "CISA confirmed today that ransomware gangs have begun abusing a high-severity Microsoft SharePoint remote code execution vulnerability, which has been flagged as actively exploited since early July",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2026-45659"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Cisco warns of high-severity ClamAV flaws with public exploits",
-    "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-high-severity-clamav-flaws-with-public-exploits/",
-    "published": "Tue, 11 Aug 2026 07:03:01 -0400",
-    "summary": "Cisco warned of two high-severity vulnerabilities affecting the Secure Endpoint Connector that allow threat actors to crash the ClamAV scanning process in denial-of-service (DoS) attacks. [...]",
-    "analysis": {
-      "issue": "Cisco warned of two high-severity vulnerabilities affecting the Secure Endpoint Connector that allow threat actors to crash the ClamAV scanning process in denial-of-service (DoS) attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2026-20337",
-        "CVE-2026-20338"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "US and South Korea warn of Gunra ransomware targeting govt agencies",
-    "link": "https://www.bleepingcomputer.com/news/security/us-warns-of-gunra-ransomware-attacks-against-government-critical-infrastructure/",
-    "published": "Tue, 11 Aug 2026 05:47:06 -0400",
-    "summary": "U.S. federal agencies and South Korea's National Policy Agency warned government and critical infrastructure organizations worldwide to secure their systems against Gunra ransomware attacks. [...]",
-    "analysis": {
-      "issue": "federal agencies and South Korea's National Policy Agency warned government and critical infrastructure organizations worldwide to secure their systems against Gunra ransomware attacks",
+      "issue": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-24472",
-        "CVE-2024-55591"
+        "CVE-2026-72971",
+        "CVE-2026-62832",
+        "CVE-2026-68820"
       ],
       "threat_categories": [
-        "Ransomware",
-        "Data Breach",
         "Vulnerability",
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers breached a small Polish energy plant via private APN last year",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/",
-    "published": "Mon, 10 Aug 2026 19:07:21 -0400",
-    "summary": "Hackers breached a heat-and-power plant facility in Poland, which supplies heat to about 50,000 residents, using a private APN (Access Point Name) to access an OT (Operational Technology) network. [...]",
-    "analysis": {
-      "issue": "Hackers used a dedicated mobile gateway to compromise a second facility during the destructive cyberattacks that hit Poland's energy sector last year",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "BdThemes plugins supply-chain hack creates rogue WordPress admins",
-    "link": "https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/",
-    "published": "Mon, 10 Aug 2026 17:12:10 -0400",
-    "summary": "A threat actor compromised the upstream infrastructure of BdThemes, a developer of premium WordPress web-design tools, and modified a remote JSON feed delivered to administrators' browsers to create rogue admin accounts. [...]",
-    "analysis": {
-      "issue": "A threat actor compromised the upstream infrastructure of BdThemes, a developer of premium WordPress web-design tools, and modified a remote JSON feed delivered to administrators’ browsers to create rogue admin accounts",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users",
-    "link": "https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/",
-    "published": "Mon, 10 Aug 2026 15:24:40 -0400",
-    "summary": "OpenAI has developed a new model called \"GPT 5.6 Cyber,\" designed for vulnerability research, penetration testing, incident response, and remediation. [...]",
-    "analysis": {
-      "issue": "OpenAI has developed a new model called \"GPT 5",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -552,22 +570,35 @@
     }
   },
   {
-    "source": "Krebs On Security",
-    "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
-    "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
-    "published": "Wed, 10 Jun 2026 14:03:44 +0000",
-    "summary": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ransom paid by victims. This post examines clues pointing to a real life identity for the administrator of The Gentlemen ransomware group.",
+    "source": "Security Week",
+    "title": "August 2026 Patch Tuesday: Microsoft Fixes 421 CVEs, One Exploited Zero-Day",
+    "link": "https://www.securityweek.com/august-2026-patch-tuesday-microsoft-fixes-421-cves-one-exploited-zero-day/",
+    "published": "Tue, 11 Aug 2026 18:46:07 +0000",
+    "summary": "<p>A use-after-free in the afd.sys Windows kernel-mode driver has been exploited to gain SYSTEM privileges.</p>\n<p>The post <a href=\"https://www.securityweek.com/august-2026-patch-tuesday-microsoft-fixes-421-cves-one-exploited-zero-day/\">August 2026 Patch Tuesday: Microsoft Fixes 421 CVEs, One Exploited Zero-Day</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
-      "issue": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ranso",
+      "issue": "sys Windows kernel-mode driver has been exploited to gain SYSTEM privileges",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
+      "severity": "Critical",
+      "cves": [
+        "CVE-2025-32709",
+        "CVE-2026-72971",
+        "CVE-2026-62832",
+        "CVE-2026-62893",
+        "CVE-2026-62911",
+        "CVE-2026-62878",
+        "CVE-2026-59124",
+        "CVE-2026-62815",
+        "CVE-2024-38193",
+        "CVE-2026-68820",
+        "CVE-2026-6726",
+        "CVE-2025-21418",
+        "CVE-2026-6727"
+      ],
       "threat_categories": [
-        "Ransomware",
         "Vulnerability",
-        "Malware"
+        "APT"
       ]
     }
   },
@@ -584,13 +615,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-48273",
-        "CVE-2026-71362",
         "CVE-2026-71398",
-        "CVE-2026-71384",
-        "CVE-2026-48362",
         "CVE-2026-48381",
-        "CVE-2026-27302"
+        "CVE-2026-71362",
+        "CVE-2026-48362",
+        "CVE-2026-48273",
+        "CVE-2026-27302",
+        "CVE-2026-71384"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -610,10 +641,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-53414",
-        "CVE-2026-53415",
         "CVE-2026-53416",
-        "CVE-2026-53413"
+        "CVE-2026-53413",
+        "CVE-2026-53415",
+        "CVE-2026-53414"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -651,10 +682,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-58231",
+        "CVE-2026-34265",
         "CVE-2026-44758",
-        "CVE-2026-44772",
-        "CVE-2026-34265"
+        "CVE-2026-58231",
+        "CVE-2026-44772"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -757,21 +788,25 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Mozilla Issues New Firefox GPG Key Following Exposure",
-    "link": "https://www.securityweek.com/mozilla-issues-new-firefox-gpg-key-following-exposure/",
-    "published": "Tue, 11 Aug 2026 06:16:01 +0000",
-    "summary": "<p>The previous GPG signing subkey was inadvertently added to a GitHub repository and Mozilla decided to revoke it.</p>\n<p>The post <a href=\"https://www.securityweek.com/mozilla-issues-new-firefox-gpg-key-following-exposure/\">Mozilla Issues New Firefox GPG Key Following Exposure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "source": "Talos Blog",
+    "title": "Microsoft Patch Tuesday for August 2026 — Snort rules and prominent vulnerabilities",
+    "link": "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-august-2026/",
+    "published": "Tue, 11 Aug 2026 22:21:02 GMT",
+    "summary": "Microsoft has released its monthly security update for August 2026, which includes 421 vulnerabilities affecting a range of products, including 62 that Microsoft marked as \"critical.\"",
     "analysis": {
-      "issue": "The previous GPG signing subkey was inadvertently added to a GitHub repository and Mozilla decided to revoke it",
+      "issue": "Microsoft has released its monthly security update for August 2026, which includes 421 vulnerabilities affecting a range of products, including 62 that Microsoft marked as \"critical",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-62893",
+        "CVE-2026-62823",
+        "CVE-2026-65665",
+        "CVE-2026-68820"
+      ],
       "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
+        "Vulnerability"
       ]
     }
   },
@@ -940,25 +975,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "Begun, the Patch Wars have",
-    "link": "https://blog.talosintelligence.com/begun-the-patch-wars-have/",
-    "published": "Thu, 16 Jul 2026 18:00:50 GMT",
-    "summary": "Long foretold, the Great Patching has begun and it’s a doozy. Buckle in as Joe takes you through the story.",
-    "analysis": {
-      "issue": "Welcome to this week’s edition of the Threat Source newsletter",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
       ]
     }
   },
@@ -1340,6 +1356,25 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Fake CCleaner installs GhostDesk Chrome spyware",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/08/fake-ccleaner-installs-ghostdesk-chrome-spyware",
+    "published": "Tue, 11 Aug 2026 20:41:27 GMT",
+    "summary": "A convincing fake CCleaner website delivers a multi-stage malware attack that installs a spyware extension inside Chrome.",
+    "analysis": {
+      "issue": "A fake version of the popular PC cleaning tool CCleaner is being used to infect Windows users with a malicious Chrome extension called GhostDesk, which acts as spyware inside the browser",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Valve warns Steam hardware buyers: Expect fake delivery scams",
     "link": "https://www.malwarebytes.com/blog/data-breaches/2026/08/valve-warns-steam-hardware-buyers-expect-fake-delivery-scams",
     "published": "Tue, 11 Aug 2026 16:31:55 GMT",
@@ -1497,24 +1532,6 @@
       "cves": [],
       "threat_categories": [
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "A week in security (August 3 – August 9)",
-    "link": "https://www.malwarebytes.com/blog/news/2026/08/a-week-in-security-august-3-august-9",
-    "published": "Mon, 10 Aug 2026 07:01:00 GMT",
-    "summary": "A list of topics we covered in the week of August 3 to August 9 of 2026",
-    "analysis": {
-      "issue": "Last week on Malwarebytes Labs: Stay safe",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
