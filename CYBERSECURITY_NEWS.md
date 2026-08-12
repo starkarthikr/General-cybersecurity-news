@@ -1,10 +1,46 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-12 09:41:13 UTC
+**Last Updated:** 2026-08-12 13:21:20 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations](https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html)
+### 1. [OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning](https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 12 Aug 2026 17:17:38 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Enterprise Defenses Recovered at the Edge and Collapsed Inside](https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 12 Aug 2026 17:11:34 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws](https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 12 Aug 2026 16:43:03 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 4. [Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access](https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 12 Aug 2026 14:31:54 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 5. [Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations](https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 12 Aug 2026 13:34:52 +0530  
@@ -13,7 +49,7 @@
 
 ---
 
-### 2. [SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code](https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html)
+### 6. [SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code](https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 12 Aug 2026 13:01:40 +0530  
@@ -23,7 +59,7 @@
 
 ---
 
-### 3. [ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access](https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html)
+### 7. [ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access](https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 12 Aug 2026 12:11:38 +0530  
@@ -33,7 +69,7 @@
 
 ---
 
-### 4. [Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS](https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html)
+### 8. [Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS](https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 12 Aug 2026 11:45:58 +0530  
@@ -43,7 +79,7 @@
 
 ---
 
-### 5. [Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack](https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html)
+### 9. [Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack](https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 12 Aug 2026 01:40:55 +0530  
@@ -53,7 +89,7 @@
 
 ---
 
-### 6. [Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing](https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html)
+### 10. [Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing](https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 12 Aug 2026 01:06:37 +0530  
@@ -62,44 +98,36 @@
 
 ---
 
-### 7. [Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client](https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html)
+### 11. [Hackers leverage new Microsoft SharePoint exploit in attacks](https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 12 Aug 2026 00:38:47 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 8. [Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands](https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 12 Aug 2026 00:06:47 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 9. [Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE](https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 11 Aug 2026 22:17:44 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-63520, CVE-2026-55040  
+**Source:** Bleeping Computer  
+**Published:** Wed, 12 Aug 2026 08:25:37 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-55040  
 **Categories:** Vulnerability  
 
 ---
 
-### 10. [DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt](https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html)
+### 12. [Signal adds new security feature to thwart man-in-the-middle attacks](https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 11 Aug 2026 22:05:27 +0530  
+**Source:** Bleeping Computer  
+**Published:** Wed, 12 Aug 2026 07:21:42 -0400  
 **Severity:** Low  
-**Categories:** Ransomware  
+**Categories:** Supply Chain  
 
 ---
 
-### 11. [Google says Chrome cuts 7 billion unwanted Android notifications a day to fight abuse](https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/)
+### 13. [New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges](https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 12 Aug 2026 06:15:22 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-50656  
+**Categories:** Vulnerability  
+
+---
+
+### 14. [Google says Chrome cuts 7 billion unwanted Android notifications a day to fight abuse](https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 11 Aug 2026 21:15:55 -0400  
@@ -108,7 +136,7 @@
 
 ---
 
-### 12. [DeadLock ransomware uses blockchain to resist infrastructure takedown](https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/)
+### 15. [DeadLock ransomware uses blockchain to resist infrastructure takedown](https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 11 Aug 2026 18:15:22 -0400  
@@ -117,7 +145,7 @@
 
 ---
 
-### 13. [Sandworm hackers target IT pros with trojanized WireGuard VPN client](https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/)
+### 16. [Sandworm hackers target IT pros with trojanized WireGuard VPN client](https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 11 Aug 2026 17:07:24 -0400  
@@ -126,7 +154,7 @@
 
 ---
 
-### 14. [Cisco warns of ASA and FTD VPN flaw exploited to crash devices](https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/)
+### 17. [Cisco warns of ASA and FTD VPN flaw exploited to crash devices](https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 11 Aug 2026 15:45:31 -0400  
@@ -136,7 +164,7 @@
 
 ---
 
-### 15. [Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees](https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/)
+### 18. [Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees](https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 11 Aug 2026 14:34:23 -0400  
@@ -145,7 +173,7 @@
 
 ---
 
-### 16. [Microsoft releases Windows 10 KB5120249 extended security update](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/)
+### 19. [Microsoft releases Windows 10 KB5120249 extended security update](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 11 Aug 2026 14:26:03 -0400  
@@ -154,39 +182,12 @@
 
 ---
 
-### 17. [Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days](https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/)
+### 20. [Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days](https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 11 Aug 2026 14:08:50 -0400  
 **Severity:** Critical  
 **Categories:** Vulnerability  
-
----
-
-### 18. [Windows 11 KB5121003 & KB5120240 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5121003-and-kb5120240-cumulative-updates-released/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 11 Aug 2026 13:38:42 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 19. [Wesco confirms security incident after ExfilSquad claims data theft](https://www.bleepingcomputer.com/news/security/wesco-confirms-security-incident-after-exfilsquad-claims-data-theft/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 11 Aug 2026 11:59:35 -0400  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach, Supply Chain  
-
----
-
-### 20. [Mozilla updates GPG signing key for Firefox releases after exposure](https://www.bleepingcomputer.com/news/security/mozilla-updates-gpg-key-for-signing-firefox-thunderbird-releases-after-exposure/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 11 Aug 2026 09:20:28 -0400  
-**Severity:** Low  
-**Categories:** Supply Chain  
 
 ---
 
@@ -232,7 +233,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48561, CVE-2026-56164, CVE-2026-56155, CVE-2026-50661  
+**CVEs:** CVE-2026-48561, CVE-2026-50661, CVE-2026-56164, CVE-2026-56155  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -282,27 +283,72 @@
 
 ---
 
-### 31. [Fresh Windows Zero-Day Exploited in North Korean Cyberattacks](https://www.securityweek.com/fresh-windows-zero-day-exploited-in-north-korean-cyberattacks/)
+### 31. [WhatsApp Unveils New Scam Alert Feature](https://www.securityweek.com/whatsapp-unveils-new-scam-alert-feature/)
 
 **Source:** Security Week  
-**Published:** Wed, 12 Aug 2026 08:45:53 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2025-49113, CVE-2026-68820  
-**Categories:** Vulnerability, Malware, APT  
+**Published:** Wed, 12 Aug 2026 13:00:00 +0000  
+**Severity:** Low  
+**Categories:** Phishing, Supply Chain  
 
 ---
 
-### 32. [Ivanti EPM Update Patches Remotely Exploitable Flaws](https://www.securityweek.com/ivanti-epm-update-patches-remotely-exploitable-flaws/)
+### 32. [Stealthy ‘City-Forum’ Attacks Target Salesforce and ServiceNow With Custom Toolset](https://www.securityweek.com/stealthy-city-forum-attacks-target-salesforce-and-servicenow-with-custom-toolset/)
 
 **Source:** Security Week  
-**Published:** Wed, 12 Aug 2026 08:14:46 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-18129, CVE-2026-18127, CVE-2026-18125  
+**Published:** Wed, 12 Aug 2026 13:00:00 +0000  
+**Severity:** High  
 **Categories:** Vulnerability  
 
 ---
 
-### 33. [ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Phoenix Contact](https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-phoenix-contact-2/)
+### 33. [Ceva Logistics Operations Disrupted by Cyberattack](https://www.securityweek.com/ceva-logistics-operations-disrupted-by-cyberattack/)
+
+**Source:** Security Week  
+**Published:** Wed, 12 Aug 2026 11:37:28 +0000  
+**Severity:** Low  
+**Categories:** Data Breach  
+
+---
+
+### 34. [Chipmaker Patch Tuesday: Intel, AMD Fix Over 80 Vulnerabilities Combined](https://www.securityweek.com/chipmaker-patch-tuesday-intel-amd-fix-over-80-vulnerabilities-combined/)
+
+**Source:** Security Week  
+**Published:** Wed, 12 Aug 2026 10:55:04 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 35. [Over 2,500 Organizations Impacted by LiteLLM Supply Chain Attack](https://www.securityweek.com/over-2500-organizations-impacted-by-litellm-supply-chain-attack/)
+
+**Source:** Security Week  
+**Published:** Wed, 12 Aug 2026 09:55:45 +0000  
+**Severity:** High  
+**Categories:** Vulnerability, Malware, APT, Supply Chain  
+
+---
+
+### 36. [Fresh Windows Zero-Day Exploited in North Korean Cyberattacks](https://www.securityweek.com/fresh-windows-zero-day-exploited-in-north-korean-cyberattacks/)
+
+**Source:** Security Week  
+**Published:** Wed, 12 Aug 2026 08:45:53 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-68820, CVE-2025-49113  
+**Categories:** Vulnerability, Malware, APT  
+
+---
+
+### 37. [Ivanti EPM Update Patches Remotely Exploitable Flaws](https://www.securityweek.com/ivanti-epm-update-patches-remotely-exploitable-flaws/)
+
+**Source:** Security Week  
+**Published:** Wed, 12 Aug 2026 08:14:46 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-18125, CVE-2026-18127, CVE-2026-18129  
+**Categories:** Vulnerability  
+
+---
+
+### 38. [ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Phoenix Contact](https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-phoenix-contact-2/)
 
 **Source:** Security Week  
 **Published:** Wed, 12 Aug 2026 07:51:55 +0000  
@@ -311,17 +357,17 @@
 
 ---
 
-### 34. [SonicWall Patches Critical Vulnerabilities in Discontinued GMS Platform](https://www.securityweek.com/sonicwall-patches-critical-vulnerabilities-in-discontinued-gms-platform/)
+### 39. [SonicWall Patches Critical Vulnerabilities in Discontinued GMS Platform](https://www.securityweek.com/sonicwall-patches-critical-vulnerabilities-in-discontinued-gms-platform/)
 
 **Source:** Security Week  
 **Published:** Wed, 12 Aug 2026 07:31:11 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-66150, CVE-2026-66149, CVE-2026-66147, CVE-2026-66145  
+**CVEs:** CVE-2026-66145, CVE-2026-66150, CVE-2026-66147, CVE-2026-66149  
 **Categories:** Vulnerability  
 
 ---
 
-### 35. [Cisco Patches Firewall Zero-Day Exploited for DoS Attacks](https://www.securityweek.com/cisco-patches-firewall-zero-day-exploited-for-dos-attacks/)
+### 40. [Cisco Patches Firewall Zero-Day Exploited for DoS Attacks](https://www.securityweek.com/cisco-patches-firewall-zero-day-exploited-for-dos-attacks/)
 
 **Source:** Security Week  
 **Published:** Wed, 12 Aug 2026 05:10:47 +0000  
@@ -331,61 +377,12 @@
 
 ---
 
-### 36. [August 2026 Patch Tuesday: Microsoft Fixes 421 CVEs, One Exploited Zero-Day](https://www.securityweek.com/august-2026-patch-tuesday-microsoft-fixes-421-cves-one-exploited-zero-day/)
-
-**Source:** Security Week  
-**Published:** Tue, 11 Aug 2026 18:46:07 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-62878, CVE-2024-38193, CVE-2026-72971, CVE-2026-62815, CVE-2026-6726, CVE-2026-6727, CVE-2026-62911, CVE-2026-62832, CVE-2025-32709, CVE-2026-62893, CVE-2025-21418, CVE-2026-68820, CVE-2026-59124  
-**Categories:** Vulnerability, APT  
-
----
-
-### 37. [Adobe Urges Immediate Patching of Critical ColdFusion, Campaign Classic Flaws](https://www.securityweek.com/adobe-urges-immediate-patching-of-critical-coldfusion-campaign-classic-flaws/)
-
-**Source:** Security Week  
-**Published:** Tue, 11 Aug 2026 16:50:19 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-71384, CVE-2026-48273, CVE-2026-71398, CVE-2026-71362, CVE-2026-48362, CVE-2026-48381, CVE-2026-27302  
-**Categories:** Vulnerability  
-
----
-
-### 38. [Zoom Patches Zero-Click Code Execution Vulnerability](https://www.securityweek.com/zoom-patches-zero-click-code-execution-vulnerability/)
-
-**Source:** Security Week  
-**Published:** Tue, 11 Aug 2026 15:49:53 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-53415, CVE-2026-53413, CVE-2026-53414, CVE-2026-53416  
-**Categories:** Vulnerability  
-
----
-
-### 39. [The AI Governance Gap Is a Leadership Problem: Waiting Won’t Close It](https://www.securityweek.com/the-ai-governance-gap-is-a-leadership-problem-waiting-wont-close-it/)
-
-**Source:** Security Week  
-**Published:** Tue, 11 Aug 2026 15:00:00 +0000  
-**Severity:** Critical  
-**Categories:** APT  
-
----
-
-### 40. [SAP Patches Critical Code Injection, Memory Corruption Vulnerabilities](https://www.securityweek.com/sap-patches-critical-code-injection-memory-corruption-vulnerabilities/)
-
-**Source:** Security Week  
-**Published:** Tue, 11 Aug 2026 14:14:32 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-44772, CVE-2026-34265, CVE-2026-58231, CVE-2026-44758  
-**Categories:** Vulnerability, APT  
-
----
-
 ### 41. [Microsoft Patch Tuesday for August 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-for-august-2026/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 11 Aug 2026 22:21:02 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-65665, CVE-2026-62893, CVE-2026-68820, CVE-2026-62823  
+**CVEs:** CVE-2026-65665, CVE-2026-68820, CVE-2026-62823, CVE-2026-62893  
 **Categories:** Vulnerability  
 
 ---

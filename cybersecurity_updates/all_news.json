@@ -1,6 +1,78 @@
 [
   {
     "source": "The Hacker News",
+    "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
+    "link": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
+    "published": "Wed, 12 Aug 2026 17:17:38 +0530",
+    "summary": "A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs, including API keys and passwords.\n\nThe weakness affected encrypted reasoning objects used by the providers' reasoning APIs, where a block created in one session could be replayed into another and, during testing,",
+    "analysis": {
+      "issue": "Replayable AI reasoning blocks let researchers recover API keys and passwords from public logs; they say the main extraction attack is now mitigated",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Enterprise Defenses Recovered at the Edge and Collapsed Inside",
+    "link": "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html",
+    "published": "Wed, 12 Aug 2026 17:11:34 +0530",
+    "summary": "Enterprise defenses are tuned to catch the attacks that make noise. This year's data shows attackers winning by making none.\n\nAccording to Picus Labs' new Blue Report 2026, which measured more than 338 million real attack simulations across actual client production environments in the first half of 2026, defenses are having one of their strongest years yet. Average prevention effectiveness",
+    "analysis": {
+      "issue": "Picus' Blue Report 2026 finds 69% prevention across more than 338 million simulations, but post-compromise prevention falls to 37%",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
+    "link": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
+    "published": "Wed, 12 Aug 2026 16:43:03 +0530",
+    "summary": "Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code execution and privilege escalation.\n\nThe most severe of the flaws are listed below -\n\n\n  CVE-2026-48362 (CVSS score: 10.0) - An operating system command injection vulnerability in ColdFusion that could",
+    "analysis": {
+      "issue": "Adobe patches seven ColdFusion, Commerce, and Campaign Classic flaws that could enable code execution, privilege escalation, or denial-of-service",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
+    "link": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
+    "published": "Wed, 12 Aug 2026 14:31:54 +0530",
+    "summary": "Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO.\n\nThe vulnerability in question is CVE-2026-59310 (CVSS score: 9.8), a directory-traversal vulnerability in the VMware vCenter server that a malicious actor with network access can exploit to execute arbitrary code. Patches for the flaw were",
+    "analysis": {
+      "issue": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access | Read more hacking news on The Hacker News cybersecurity news website and learn how to protect against cyberattacks and software vulnerabilities",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
     "link": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
     "published": "Wed, 12 Aug 2026 13:34:52 +0530",
@@ -117,55 +189,18 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client",
-    "link": "https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html",
-    "published": "Wed, 12 Aug 2026 00:38:47 +0530",
-    "summary": "Anyone sharing their screen on a Zoom call could have taken over the computers of everyone watching, and anyone watching could have taken over the presenter's.\n\nThe flaw sat in the annotation tool, the feature that lets participants draw and type on a shared screen, and it asked nothing of the victim beyond being in the meeting. No click, no download, no prompt, and nothing on screen to show it",
+    "source": "Bleeping Computer",
+    "title": "Hackers leverage new Microsoft SharePoint exploit in attacks",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/",
+    "published": "Wed, 12 Aug 2026 08:25:37 -0400",
+    "summary": "Hackers have already begun using a proof-of-concept (PoC) exploit for a critical Microsoft SharePoint vulnerability, published by cybersecurity company Rapid7 on Tuesday. [...]",
     "analysis": {
-      "issue": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client | Read more hacking news on The Hacker News cybersecurity news website and learn how to protect against cyberattacks and software vulnerabilities",
+      "issue": "A proof-of-concept (PoC) exploit for a critical Microsoft SharePoint vulnerability, published by cybersecurity company Rapid7 on Tuesday, is already being used in attacks",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands",
-    "link": "https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html",
-    "published": "Wed, 12 Aug 2026 00:06:47 +0530",
-    "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new social engineering campaign orchestrated by Russian nation-state threat actors targeting IT workers in the country by masquerading as recruiters to trick them into installing malware.\n\nCERT-UA pinned the activity on a threat cluster it tracks as UAC-0145, which is a subgroup within Sandworm (aka APT44,",
-    "analysis": {
-      "issue": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands | Read more hacking news on The Hacker News cybersecurity news website and learn how to protect against cyberattacks and software vulnerabilities",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
-    "link": "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html",
-    "published": "Tue, 11 Aug 2026 22:17:44 +0530",
-    "summary": "Security researchers found a way to enter Microsoft SharePoint servers as any user, including an administrator, with no valid account. A significant part of the work that found it was done through an AI agent.\n\nThe flaw, tracked as&nbsp;CVE-2026-55040&nbsp;(CVSS 9.1), affects SharePoint Server Subscription Edition, SharePoint Server 2019, and SharePoint Server 2016. Microsoft's",
-    "analysis": {
-      "issue": "SharePoint CVE-2026-55040 lets unauthenticated attackers impersonate users and chain with CVE-2026-63520 for code execution",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [
-        "CVE-2026-63520",
         "CVE-2026-55040"
       ],
       "threat_categories": [
@@ -174,20 +209,40 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt",
-    "link": "https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html",
-    "published": "Tue, 11 Aug 2026 22:05:27 +0530",
-    "summary": "The ransomware group known as DeadLock has been observed using decentralized infrastructure to facilitate victim communications and data leak operations in a bid to improve operational resilience.\n\n\"Its recovery ecosystem combines the Session messaging network with blockchain-backed services that store and deliver resources used throughout the extortion process,\" the Microsoft Threat",
+    "source": "Bleeping Computer",
+    "title": "Signal adds new security feature to thwart man-in-the-middle attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/",
+    "published": "Wed, 12 Aug 2026 07:21:42 -0400",
+    "summary": "​Signal has introduced Automatic Key Verification, a new security feature that gives users a new way to ensure their encrypted chats haven't been intercepted. [...]",
     "analysis": {
-      "issue": "DeadLock ransomware uses Polygon smart contracts, Session, and blockchain-hosted leak content to make extortion infrastructure harder to disrupt",
+      "issue": "Signal has introduced Automatic Key Verification, a new security feature that gives users a new way to ensure their encrypted chats haven't been intercepted",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Ransomware"
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges",
+    "link": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/",
+    "published": "Wed, 12 Aug 2026 06:15:22 -0400",
+    "summary": "Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldBreak\" after Microsoft released the August 2026 Patch Tuesday security updates. [...]",
+    "analysis": {
+      "issue": "A security researcher known as Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldBreak\" after Microsoft released the August 2026 Patch Tuesday security updates",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-50656"
+      ],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -324,62 +379,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Windows 11 KB5121003 & KB5120240 cumulative updates released",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5121003-and-kb5120240-cumulative-updates-released/",
-    "published": "Tue, 11 Aug 2026 13:38:42 -0400",
-    "summary": "Microsoft has released Windows 11 KB5121003 and KB5120240 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
-    "analysis": {
-      "issue": "Microsoft has released Windows 11 KB512103 and KB5120240 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Wesco confirms security incident after ExfilSquad claims data theft",
-    "link": "https://www.bleepingcomputer.com/news/security/wesco-confirms-security-incident-after-exfilsquad-claims-data-theft/",
-    "published": "Tue, 11 Aug 2026 11:59:35 -0400",
-    "summary": "Global supply chain and distribution giant Wesco has confirmed in a statement for BleepingComputer that it is investigating a cybersecurity incident. [...]",
-    "analysis": {
-      "issue": "Global supply chain and distribution giant Wesco has confirmed in a statement to BleepingComputer that it is investigating a cybersecurity incident",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Mozilla updates GPG signing key for Firefox releases after exposure",
-    "link": "https://www.bleepingcomputer.com/news/security/mozilla-updates-gpg-key-for-signing-firefox-thunderbird-releases-after-exposure/",
-    "published": "Tue, 11 Aug 2026 09:20:28 -0400",
-    "summary": "Mozilla announced today that it updated the GPG key used to sign Firefox and Thunderbird releases after it was accidentally exposed on GitHub. [...]",
-    "analysis": {
-      "issue": "Mozilla announced today that it updated the GPG key used to sign Firefox and Thunderbird releases after it was accidentally exposed on GitHub",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Microsoft Plugs Nearly 400 Security Holes",
     "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
@@ -472,9 +471,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-48561",
+        "CVE-2026-50661",
         "CVE-2026-56164",
-        "CVE-2026-56155",
-        "CVE-2026-50661"
+        "CVE-2026-56155"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -577,6 +576,100 @@
   },
   {
     "source": "Security Week",
+    "title": "WhatsApp Unveils New Scam Alert Feature",
+    "link": "https://www.securityweek.com/whatsapp-unveils-new-scam-alert-feature/",
+    "published": "Wed, 12 Aug 2026 13:00:00 +0000",
+    "summary": "<p>Signal has also made a security announcement: an automatic key verification feature to complement its safety number system.</p>\n<p>The post <a href=\"https://www.securityweek.com/whatsapp-unveils-new-scam-alert-feature/\">WhatsApp Unveils New Scam Alert Feature</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Signal has also made a security announcement: an automatic key verification feature to complement its safety number system",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Stealthy ‘City-Forum’ Attacks Target Salesforce and ServiceNow With Custom Toolset",
+    "link": "https://www.securityweek.com/stealthy-city-forum-attacks-target-salesforce-and-servicenow-with-custom-toolset/",
+    "published": "Wed, 12 Aug 2026 13:00:00 +0000",
+    "summary": "<p>Researchers observed the novel campaign exploiting unauthenticated guest access to quietly enumerate and exfiltrate exposed data from both platforms.</p>\n<p>The post <a href=\"https://www.securityweek.com/stealthy-city-forum-attacks-target-salesforce-and-servicenow-with-custom-toolset/\">Stealthy ‘City-Forum’ Attacks Target Salesforce and ServiceNow With Custom Toolset</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Researchers observed the novel campaign exploiting unauthenticated guest access to quietly enumerate and exfiltrate exposed data from both platforms",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Ceva Logistics Operations Disrupted by Cyberattack",
+    "link": "https://www.securityweek.com/ceva-logistics-operations-disrupted-by-cyberattack/",
+    "published": "Wed, 12 Aug 2026 11:37:28 +0000",
+    "summary": "<p>Affecting European contract logistics operations at eight Ceva warehouses, the incident caused shipment delays for multiple customers.</p>\n<p>The post <a href=\"https://www.securityweek.com/ceva-logistics-operations-disrupted-by-cyberattack/\">Ceva Logistics Operations Disrupted by Cyberattack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Affecting European contract logistics operations at eight Ceva warehouses, the incident caused shipment delays for multiple customers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Chipmaker Patch Tuesday: Intel, AMD Fix Over 80 Vulnerabilities Combined",
+    "link": "https://www.securityweek.com/chipmaker-patch-tuesday-intel-amd-fix-over-80-vulnerabilities-combined/",
+    "published": "Wed, 12 Aug 2026 10:55:04 +0000",
+    "summary": "<p>Intel has informed customers about several high-severity vulnerabilities that can lead to privilege escalation and even code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/chipmaker-patch-tuesday-intel-amd-fix-over-80-vulnerabilities-combined/\">Chipmaker Patch Tuesday: Intel, AMD Fix Over 80 Vulnerabilities Combined</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Intel has informed customers about several high-severity vulnerabilities that can lead to privilege escalation and even code execution",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Over 2,500 Organizations Impacted by LiteLLM Supply Chain Attack",
+    "link": "https://www.securityweek.com/over-2500-organizations-impacted-by-litellm-supply-chain-attack/",
+    "published": "Wed, 12 Aug 2026 09:55:45 +0000",
+    "summary": "<p>LiteLLM was compromised through the Trivy hack and abused to distribute information-stealing malware to its users.</p>\n<p>The post <a href=\"https://www.securityweek.com/over-2500-organizations-impacted-by-litellm-supply-chain-attack/\">Over 2,500 Organizations Impacted by LiteLLM Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "LiteLLM was compromised through the Trivy hack and abused to distribute information-stealing malware to its users",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "APT",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Fresh Windows Zero-Day Exploited in North Korean Cyberattacks",
     "link": "https://www.securityweek.com/fresh-windows-zero-day-exploited-in-north-korean-cyberattacks/",
     "published": "Wed, 12 Aug 2026 08:45:53 +0000",
@@ -588,8 +681,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-49113",
-        "CVE-2026-68820"
+        "CVE-2026-68820",
+        "CVE-2025-49113"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -611,9 +704,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-18129",
+        "CVE-2026-18125",
         "CVE-2026-18127",
-        "CVE-2026-18125"
+        "CVE-2026-18129"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -651,10 +744,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-66145",
         "CVE-2026-66150",
-        "CVE-2026-66149",
         "CVE-2026-66147",
-        "CVE-2026-66145"
+        "CVE-2026-66149"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -683,130 +776,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "August 2026 Patch Tuesday: Microsoft Fixes 421 CVEs, One Exploited Zero-Day",
-    "link": "https://www.securityweek.com/august-2026-patch-tuesday-microsoft-fixes-421-cves-one-exploited-zero-day/",
-    "published": "Tue, 11 Aug 2026 18:46:07 +0000",
-    "summary": "<p>A use-after-free in the afd.sys Windows kernel-mode driver has been exploited to gain SYSTEM privileges.</p>\n<p>The post <a href=\"https://www.securityweek.com/august-2026-patch-tuesday-microsoft-fixes-421-cves-one-exploited-zero-day/\">August 2026 Patch Tuesday: Microsoft Fixes 421 CVEs, One Exploited Zero-Day</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "sys Windows kernel-mode driver has been exploited to gain SYSTEM privileges",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-62878",
-        "CVE-2024-38193",
-        "CVE-2026-72971",
-        "CVE-2026-62815",
-        "CVE-2026-6726",
-        "CVE-2026-6727",
-        "CVE-2026-62911",
-        "CVE-2026-62832",
-        "CVE-2025-32709",
-        "CVE-2026-62893",
-        "CVE-2025-21418",
-        "CVE-2026-68820",
-        "CVE-2026-59124"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Adobe Urges Immediate Patching of Critical ColdFusion, Campaign Classic Flaws",
-    "link": "https://www.securityweek.com/adobe-urges-immediate-patching-of-critical-coldfusion-campaign-classic-flaws/",
-    "published": "Tue, 11 Aug 2026 16:50:19 +0000",
-    "summary": "<p>The security defects could be exploited for arbitrary code execution and denial-of-service.</p>\n<p>The post <a href=\"https://www.securityweek.com/adobe-urges-immediate-patching-of-critical-coldfusion-campaign-classic-flaws/\">Adobe Urges Immediate Patching of Critical ColdFusion, Campaign Classic Flaws</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The security defects could be exploited for arbitrary code execution and denial-of-service",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-71384",
-        "CVE-2026-48273",
-        "CVE-2026-71398",
-        "CVE-2026-71362",
-        "CVE-2026-48362",
-        "CVE-2026-48381",
-        "CVE-2026-27302"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Zoom Patches Zero-Click Code Execution Vulnerability",
-    "link": "https://www.securityweek.com/zoom-patches-zero-click-code-execution-vulnerability/",
-    "published": "Tue, 11 Aug 2026 15:49:53 +0000",
-    "summary": "<p>Impacting Zoom annotation, the bug could be exploited by a meeting participant to execute code on another participant’s machine.</p>\n<p>The post <a href=\"https://www.securityweek.com/zoom-patches-zero-click-code-execution-vulnerability/\">Zoom Patches Zero-Click Code Execution Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Impacting Zoom annotation, the bug could be exploited by a meeting participant to execute code on another participant’s machine",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-53415",
-        "CVE-2026-53413",
-        "CVE-2026-53414",
-        "CVE-2026-53416"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "The AI Governance Gap Is a Leadership Problem: Waiting Won’t Close It",
-    "link": "https://www.securityweek.com/the-ai-governance-gap-is-a-leadership-problem-waiting-wont-close-it/",
-    "published": "Tue, 11 Aug 2026 15:00:00 +0000",
-    "summary": "<p>Organizations are rushing to implement AI without fully grasping where its legal protections begin and end.</p>\n<p>The post <a href=\"https://www.securityweek.com/the-ai-governance-gap-is-a-leadership-problem-waiting-wont-close-it/\">The AI Governance Gap Is a Leadership Problem: Waiting Won&#8217;t Close It</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Organizations are rushing to implement AI without fully grasping where its legal protections begin and end",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "SAP Patches Critical Code Injection, Memory Corruption Vulnerabilities",
-    "link": "https://www.securityweek.com/sap-patches-critical-code-injection-memory-corruption-vulnerabilities/",
-    "published": "Tue, 11 Aug 2026 14:14:32 +0000",
-    "summary": "<p>SAP released 28 new and two updated security notes, including four notes dealing with critical-severity bugs.</p>\n<p>The post <a href=\"https://www.securityweek.com/sap-patches-critical-code-injection-memory-corruption-vulnerabilities/\">SAP Patches Critical Code Injection, Memory Corruption Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "SAP released 28 new and two updated security notes, including four notes dealing with critical-severity bugs",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-44772",
-        "CVE-2026-34265",
-        "CVE-2026-58231",
-        "CVE-2026-44758"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "APT"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Microsoft Patch Tuesday for August 2026 — Snort rules and prominent vulnerabilities",
     "link": "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-august-2026/",
@@ -820,9 +789,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-65665",
-        "CVE-2026-62893",
         "CVE-2026-68820",
-        "CVE-2026-62823"
+        "CVE-2026-62823",
+        "CVE-2026-62893"
       ],
       "threat_categories": [
         "Vulnerability"
