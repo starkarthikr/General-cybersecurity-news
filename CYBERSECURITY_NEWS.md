@@ -1,10 +1,49 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-12 03:04:48 UTC
+**Last Updated:** 2026-08-12 09:41:13 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack](https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html)
+### 1. [Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations](https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 12 Aug 2026 13:34:52 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code](https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 12 Aug 2026 13:01:40 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-58231  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access](https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 12 Aug 2026 12:11:38 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-50656  
+**Categories:** Vulnerability  
+
+---
+
+### 4. [Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS](https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 12 Aug 2026 11:45:58 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-20349  
+**Categories:** Vulnerability  
+
+---
+
+### 5. [Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack](https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 12 Aug 2026 01:40:55 +0530  
@@ -14,7 +53,7 @@
 
 ---
 
-### 2. [Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing](https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html)
+### 6. [Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing](https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 12 Aug 2026 01:06:37 +0530  
@@ -23,7 +62,7 @@
 
 ---
 
-### 3. [Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client](https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html)
+### 7. [Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client](https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 12 Aug 2026 00:38:47 +0530  
@@ -32,7 +71,7 @@
 
 ---
 
-### 4. [Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands](https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html)
+### 8. [Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands](https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 12 Aug 2026 00:06:47 +0530  
@@ -41,7 +80,7 @@
 
 ---
 
-### 5. [Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE](https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html)
+### 9. [Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE](https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 11 Aug 2026 22:17:44 +0530  
@@ -51,48 +90,12 @@
 
 ---
 
-### 6. [DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt](https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html)
+### 10. [DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt](https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 11 Aug 2026 22:05:27 +0530  
 **Severity:** Low  
 **Categories:** Ransomware  
-
----
-
-### 7. [OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development](https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 11 Aug 2026 18:41:23 +0530  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 8. [A Malicious SIM Card Can Run Attacker Code Inside the Modems Behind Cellular IoT Devices](https://thehackernews.com/2026/08/a-malicious-sim-card-can-run-attacker.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 11 Aug 2026 17:35:03 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 9. [Mozilla Revokes Firefox and Thunderbird Linux Signing Key After Key Lands in Private Repo](https://thehackernews.com/2026/08/mozilla-revokes-firefox-and-thunderbird.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 11 Aug 2026 17:34:51 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [Researchers Built a Fake Crypto Startup and Hired Three Suspected North Korean IT Workers](https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 11 Aug 2026 17:05:03 +0530  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -192,7 +195,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-72971, CVE-2026-62832, CVE-2026-68820  
+**CVEs:** CVE-2026-72971, CVE-2026-68820, CVE-2026-62832  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -229,7 +232,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56164, CVE-2026-56155, CVE-2026-48561, CVE-2026-50661  
+**CVEs:** CVE-2026-48561, CVE-2026-56164, CVE-2026-56155, CVE-2026-50661  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -279,37 +282,86 @@
 
 ---
 
-### 31. [August 2026 Patch Tuesday: Microsoft Fixes 421 CVEs, One Exploited Zero-Day](https://www.securityweek.com/august-2026-patch-tuesday-microsoft-fixes-421-cves-one-exploited-zero-day/)
+### 31. [Fresh Windows Zero-Day Exploited in North Korean Cyberattacks](https://www.securityweek.com/fresh-windows-zero-day-exploited-in-north-korean-cyberattacks/)
 
 **Source:** Security Week  
-**Published:** Tue, 11 Aug 2026 18:46:07 +0000  
+**Published:** Wed, 12 Aug 2026 08:45:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-6727, CVE-2026-68820, CVE-2025-21418, CVE-2026-72971, CVE-2026-59124, CVE-2026-62832, CVE-2026-62878, CVE-2026-62911, CVE-2024-38193, CVE-2026-62815, CVE-2025-32709, CVE-2026-62893, CVE-2026-6726  
+**CVEs:** CVE-2025-49113, CVE-2026-68820  
+**Categories:** Vulnerability, Malware, APT  
+
+---
+
+### 32. [Ivanti EPM Update Patches Remotely Exploitable Flaws](https://www.securityweek.com/ivanti-epm-update-patches-remotely-exploitable-flaws/)
+
+**Source:** Security Week  
+**Published:** Wed, 12 Aug 2026 08:14:46 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-18129, CVE-2026-18127, CVE-2026-18125  
+**Categories:** Vulnerability  
+
+---
+
+### 33. [ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Phoenix Contact](https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-phoenix-contact-2/)
+
+**Source:** Security Week  
+**Published:** Wed, 12 Aug 2026 07:51:55 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 34. [SonicWall Patches Critical Vulnerabilities in Discontinued GMS Platform](https://www.securityweek.com/sonicwall-patches-critical-vulnerabilities-in-discontinued-gms-platform/)
+
+**Source:** Security Week  
+**Published:** Wed, 12 Aug 2026 07:31:11 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-66150, CVE-2026-66149, CVE-2026-66147, CVE-2026-66145  
+**Categories:** Vulnerability  
+
+---
+
+### 35. [Cisco Patches Firewall Zero-Day Exploited for DoS Attacks](https://www.securityweek.com/cisco-patches-firewall-zero-day-exploited-for-dos-attacks/)
+
+**Source:** Security Week  
+**Published:** Wed, 12 Aug 2026 05:10:47 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-20349  
 **Categories:** Vulnerability, APT  
 
 ---
 
-### 32. [Adobe Urges Immediate Patching of Critical ColdFusion, Campaign Classic Flaws](https://www.securityweek.com/adobe-urges-immediate-patching-of-critical-coldfusion-campaign-classic-flaws/)
+### 36. [August 2026 Patch Tuesday: Microsoft Fixes 421 CVEs, One Exploited Zero-Day](https://www.securityweek.com/august-2026-patch-tuesday-microsoft-fixes-421-cves-one-exploited-zero-day/)
+
+**Source:** Security Week  
+**Published:** Tue, 11 Aug 2026 18:46:07 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-62878, CVE-2024-38193, CVE-2026-72971, CVE-2026-62815, CVE-2026-6726, CVE-2026-6727, CVE-2026-62911, CVE-2026-62832, CVE-2025-32709, CVE-2026-62893, CVE-2025-21418, CVE-2026-68820, CVE-2026-59124  
+**Categories:** Vulnerability, APT  
+
+---
+
+### 37. [Adobe Urges Immediate Patching of Critical ColdFusion, Campaign Classic Flaws](https://www.securityweek.com/adobe-urges-immediate-patching-of-critical-coldfusion-campaign-classic-flaws/)
 
 **Source:** Security Week  
 **Published:** Tue, 11 Aug 2026 16:50:19 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-71362, CVE-2026-48381, CVE-2026-71384, CVE-2026-27302, CVE-2026-48273, CVE-2026-48362, CVE-2026-71398  
+**CVEs:** CVE-2026-71384, CVE-2026-48273, CVE-2026-71398, CVE-2026-71362, CVE-2026-48362, CVE-2026-48381, CVE-2026-27302  
 **Categories:** Vulnerability  
 
 ---
 
-### 33. [Zoom Patches Zero-Click Code Execution Vulnerability](https://www.securityweek.com/zoom-patches-zero-click-code-execution-vulnerability/)
+### 38. [Zoom Patches Zero-Click Code Execution Vulnerability](https://www.securityweek.com/zoom-patches-zero-click-code-execution-vulnerability/)
 
 **Source:** Security Week  
 **Published:** Tue, 11 Aug 2026 15:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-53416, CVE-2026-53414, CVE-2026-53413, CVE-2026-53415  
+**CVEs:** CVE-2026-53415, CVE-2026-53413, CVE-2026-53414, CVE-2026-53416  
 **Categories:** Vulnerability  
 
 ---
 
-### 34. [The AI Governance Gap Is a Leadership Problem: Waiting Won’t Close It](https://www.securityweek.com/the-ai-governance-gap-is-a-leadership-problem-waiting-wont-close-it/)
+### 39. [The AI Governance Gap Is a Leadership Problem: Waiting Won’t Close It](https://www.securityweek.com/the-ai-governance-gap-is-a-leadership-problem-waiting-wont-close-it/)
 
 **Source:** Security Week  
 **Published:** Tue, 11 Aug 2026 15:00:00 +0000  
@@ -318,7 +370,7 @@
 
 ---
 
-### 35. [SAP Patches Critical Code Injection, Memory Corruption Vulnerabilities](https://www.securityweek.com/sap-patches-critical-code-injection-memory-corruption-vulnerabilities/)
+### 40. [SAP Patches Critical Code Injection, Memory Corruption Vulnerabilities](https://www.securityweek.com/sap-patches-critical-code-injection-memory-corruption-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Tue, 11 Aug 2026 14:14:32 +0000  
@@ -328,57 +380,12 @@
 
 ---
 
-### 36. [US Water Systems Get Cyber Boost From New Senate Bill and ‘Water Watch Center’](https://www.securityweek.com/us-water-systems-get-cyber-boost-from-new-senate-bill-and-water-watch-center/)
-
-**Source:** Security Week  
-**Published:** Tue, 11 Aug 2026 14:03:32 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 37. [Corma Raises $60 Million for Defensive Cybersecurity AI Model](https://www.securityweek.com/corma-raises-60-million-for-defensive-cybersecurity-ai-model/)
-
-**Source:** Security Week  
-**Published:** Tue, 11 Aug 2026 12:01:46 +0000  
-**Severity:** Low  
-**Categories:** APT  
-
----
-
-### 38. [Extension Banned for Stealing AI Chats Returns to Chrome Store, Resumes Malicious Activities](https://www.securityweek.com/extension-banned-for-stealing-ai-chats-returns-to-chrome-store-resumes-malicious-activities/)
-
-**Source:** Security Week  
-**Published:** Tue, 11 Aug 2026 11:15:15 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, Malware  
-
----
-
-### 39. [Hacker Conversations: Marcus Hutchins and the Journey From the Gray Zone to Redemption](https://www.securityweek.com/hacker-conversations-marcus-hutchins/)
-
-**Source:** Security Week  
-**Published:** Tue, 11 Aug 2026 10:00:00 +0000  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach, Vulnerability, Malware  
-
----
-
-### 40. [OpenAI Unveils New Cybersecurity Model GPT-5.6-Cyber](https://www.securityweek.com/openai-unveils-new-cybersecurity-model-gpt-5-6-cyber/)
-
-**Source:** Security Week  
-**Published:** Tue, 11 Aug 2026 09:45:05 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
 ### 41. [Microsoft Patch Tuesday for August 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-for-august-2026/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 11 Aug 2026 22:21:02 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-65665, CVE-2026-62823, CVE-2026-62893, CVE-2026-68820  
+**CVEs:** CVE-2026-65665, CVE-2026-62893, CVE-2026-68820, CVE-2026-62823  
 **Categories:** Vulnerability  
 
 ---
@@ -739,7 +746,16 @@
 
 ---
 
-### 81. [CrowdStrike Threat Hunts for Shell Command Obfuscation on VMware ESX](https://www.crowdstrike.com/en-us/blog/crowdstrike-hunts-for-shell-command-obfuscation-vmware-esx/)
+### 81. [August 2026 Patch Tuesday: One Exploited Zero-Day and 62 Critical Vulnerabilities Among 415 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-august-2026/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Aug 11, 2026 00:00:00-0500  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 82. [CrowdStrike Threat Hunts for Shell Command Obfuscation on VMware ESX](https://www.crowdstrike.com/en-us/blog/crowdstrike-hunts-for-shell-command-obfuscation-vmware-esx/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Aug 07, 2026 00:00:00-0500  
@@ -748,7 +764,7 @@
 
 ---
 
-### 82. [Expanding AI Benchmarks in Cybersecurity Beyond Vulnerability Discovery](https://www.crowdstrike.com/en-us/blog/expanding-cybersecurity-ai-benchmarks-beyond-vulnerability-discovery/)
+### 83. [Expanding AI Benchmarks in Cybersecurity Beyond Vulnerability Discovery](https://www.crowdstrike.com/en-us/blog/expanding-cybersecurity-ai-benchmarks-beyond-vulnerability-discovery/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Aug 06, 2026 00:00:00-0500  
@@ -757,7 +773,7 @@
 
 ---
 
-### 83. [Secure Agent Harness Execution: Preventing Escape](https://www.crowdstrike.com/en-us/blog/secure-agent-harness-execution-preventing-escape/)
+### 84. [Secure Agent Harness Execution: Preventing Escape](https://www.crowdstrike.com/en-us/blog/secure-agent-harness-execution-preventing-escape/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Aug 04, 2026 00:00:00-0500  
@@ -766,7 +782,7 @@
 
 ---
 
-### 84. [CrowdStrike 2026 Threat Hunting Report: Exploitation Window Closes as AI Use Accelerates](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-threat-hunting-report/)
+### 85. [CrowdStrike 2026 Threat Hunting Report: Exploitation Window Closes as AI Use Accelerates](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-threat-hunting-report/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Aug 03, 2026 00:00:00-0500  
@@ -775,7 +791,7 @@
 
 ---
 
-### 85. [Falcon AIDR Now Protects Copilot Studio Agents and Claude Code](https://www.crowdstrike.com/en-us/blog/falcon-aidr-protects-copilot-studio-agents-and-claude-code/)
+### 86. [Falcon AIDR Now Protects Copilot Studio Agents and Claude Code](https://www.crowdstrike.com/en-us/blog/falcon-aidr-protects-copilot-studio-agents-and-claude-code/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 30, 2026 00:00:00-0500  
@@ -784,7 +800,7 @@
 
 ---
 
-### 86. [Inside Astaroth's New Spambot Component](https://www.crowdstrike.com/en-us/blog/inside-astaroths-new-spambot-component/)
+### 87. [Inside Astaroth's New Spambot Component](https://www.crowdstrike.com/en-us/blog/inside-astaroths-new-spambot-component/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 29, 2026 00:00:00-0500  
@@ -793,7 +809,7 @@
 
 ---
 
-### 87. [Falcon Cloud Security July 2026 Release: Helping Security Teams Move Faster in the Cloud](https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-helping-security-teams-move-faster/)
+### 88. [Falcon Cloud Security July 2026 Release: Helping Security Teams Move Faster in the Cloud](https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-helping-security-teams-move-faster/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 29, 2026 00:00:00-0500  
@@ -802,7 +818,7 @@
 
 ---
 
-### 88. [Falcon Platform IOAs Arrive in Falcon Next-Gen SIEM to Identify New Threats](https://www.crowdstrike.com/en-us/blog/falcon-platform-ioas-arrive-in-falcon-next-gen-siem/)
+### 89. [Falcon Platform IOAs Arrive in Falcon Next-Gen SIEM to Identify New Threats](https://www.crowdstrike.com/en-us/blog/falcon-platform-ioas-arrive-in-falcon-next-gen-siem/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 29, 2026 00:00:00-0500  
@@ -811,19 +827,10 @@
 
 ---
 
-### 89. [5 High-Impact Use Cases for Falcon Onum](https://www.crowdstrike.com/en-us/blog/five-high-impact-use-cases-for-falcon-onum/)
+### 90. [5 High-Impact Use Cases for Falcon Onum](https://www.crowdstrike.com/en-us/blog/five-high-impact-use-cases-for-falcon-onum/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 27, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 90. [CrowdStrike Joins the Open Secure AI Alliance to Advance AI Safety and Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-joins-the-open-secure-ai-alliance/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Jul 27, 2026 00:00:00-0400  
 **Severity:** Low  
 **Categories:** General Security  
 

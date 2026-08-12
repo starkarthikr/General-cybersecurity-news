@@ -1,6 +1,84 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
+    "link": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
+    "published": "Wed, 12 Aug 2026 13:34:52 +0530",
+    "summary": "Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from systems that installed them.\n\nThreat intelligence firm CloudSEK now says a dataset it obtained, built from roughly 434,000 files the attackers captured, maps potential exposure to more",
+    "analysis": {
+      "issue": "Malicious LiteLLM PyPI releases stole cloud and SSH keys, Kubernetes tokens, and other secrets, potentially exposing 2,500+ organizations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
+    "link": "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html",
+    "published": "Wed, 12 Aug 2026 13:01:40 +0530",
+    "summary": "SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution.\n\nThe vulnerability, assigned the CVE identifier CVE-2026-58231, is rated 10.0 on the CVSS scoring system. It has been described as a case of insufficient authorization checks and input validation.\n\n\"SAP Commerce Cloud allows an",
+    "analysis": {
+      "issue": "SAP fixes CVE-2026-58231, a CVSS 10",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-58231"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
+    "link": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html",
+    "published": "Wed, 12 Aug 2026 12:11:38 +0530",
+    "summary": "The security researcher going by the name Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has released a proof-of-concept (PoC) for a new Microsoft zero-day called ShieldBreak.\n\nThe vulnerability, rooted in Microsoft Defender for Windows, demonstrates a patch bypass for CVE-2026-50656 (CVSS score: 7.8), otherwise known as RoguePlanet.\n\nRoguePlanet has been described",
+    "analysis": {
+      "issue": "ShieldBreak is a claimed patch bypass for Defender flaw CVE-2026-50656, with a PoC tested on Windows 11 25H2 and Server 2025",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-50656"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS",
+    "link": "https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html",
+    "published": "Wed, 12 Aug 2026 11:45:58 +0530",
+    "summary": "Cisco has warned that a new vulnerability impacting Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software has been exploited in the wild.\n\nThe high-severity flaw, tracked as CVE-2026-20349 (CVSS score: 8.6), is a case of insufficient error checking when processing HTTP requests that could allow an unauthenticated, remote attacker to trigger",
+    "analysis": {
+      "issue": "Cisco says attackers are exploiting CVE-2026-20349 in ASA and FTD, letting crafted HTTP requests trigger DoS via Remote Access SSL VPN",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-20349"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
     "link": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
     "published": "Wed, 12 Aug 2026 01:40:55 +0530",
@@ -110,78 +188,6 @@
       "cves": [],
       "threat_categories": [
         "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development",
-    "link": "https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html",
-    "published": "Tue, 11 Aug 2026 18:41:23 +0530",
-    "summary": "OpenAI on Monday unveiled a new cybersecurity-focused model called GPT‑5.6‑Cyber that it said is focused on vulnerability research, penetration testing, and incident response.\n\n\"Built on GPT‑5.6 Sol, it is trained to improve capabilities on several specialized cybersecurity tasks (e.g., finding zero-day vulnerabilities and developing exploit chains) and to reduce refusals for certain higher-risk",
-    "analysis": {
-      "issue": "6-Cyber, a reduced-safeguard model that completes 95% of advanced cyber requests and finds zero-day flaws",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "A Malicious SIM Card Can Run Attacker Code Inside the Modems Behind Cellular IoT Devices",
-    "link": "https://thehackernews.com/2026/08/a-malicious-sim-card-can-run-attacker.html",
-    "published": "Tue, 11 Aug 2026 17:35:03 +0530",
-    "summary": "A malicious SIM card can order the device it sits in to run commands of the attacker's choosing. On the cellular modules built into electric-vehicle chargers, industrial routers, and car telematics units, that is enough to take the whole device over.\n\nResearchers at the University of Birmingham and the security firm Fuzzware tested 26 phones and cellular modules for the capability, found it",
-    "analysis": {
-      "issue": "Malicious SIM cards can use RUN AT to execute modem commands on cellular IoT devices, including EV chargers, routers, and telematics units",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Mozilla Revokes Firefox and Thunderbird Linux Signing Key After Key Lands in Private Repo",
-    "link": "https://thehackernews.com/2026/08/mozilla-revokes-firefox-and-thunderbird.html",
-    "published": "Tue, 11 Aug 2026 17:34:51 +0530",
-    "summary": "Mozilla has scrapped the cryptographic key behind Firefox and Thunderbird downloads for Linux after an unencrypted copy of it was committed by mistake to one of the company's own private code repositories.\n\nThat key is how a user, or a Linux distribution packaging the browser, confirms a downloaded Firefox tarball came from Mozilla and was not tampered with.\n\nThat decision carries a cost for",
-    "analysis": {
-      "issue": "Mozilla revokes a Firefox and Thunderbird Linux signing subkey after an unencrypted copy landed in a private repository",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Researchers Built a Fake Crypto Startup and Hired Three Suspected North Korean IT Workers",
-    "link": "https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html",
-    "published": "Tue, 11 Aug 2026 17:05:03 +0530",
-    "summary": "Security researchers invented a cryptocurrency startup, advertised developer jobs, and hired three people they believe were North Korean operatives. Every virtual machine the company issued was recording.\n\nThe onboarding paperwork is the part hiring teams can use. The first hire claimed to live in Pasadena, Texas, then sent a California driver's license and a New York bank account.\n\nThe",
-    "analysis": {
-      "issue": "Researchers hired three suspected North Korean IT workers into a fake crypto startup, exposing forged IDs, AI tools, VPNs, and remote access",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -387,8 +393,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-72971",
-        "CVE-2026-62832",
-        "CVE-2026-68820"
+        "CVE-2026-68820",
+        "CVE-2026-62832"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -465,9 +471,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-48561",
         "CVE-2026-56164",
         "CVE-2026-56155",
-        "CVE-2026-48561",
         "CVE-2026-50661"
       ],
       "threat_categories": [
@@ -571,6 +577,113 @@
   },
   {
     "source": "Security Week",
+    "title": "Fresh Windows Zero-Day Exploited in North Korean Cyberattacks",
+    "link": "https://www.securityweek.com/fresh-windows-zero-day-exploited-in-north-korean-cyberattacks/",
+    "published": "Wed, 12 Aug 2026 08:45:53 +0000",
+    "summary": "<p>The bug allowed attackers to gain full control of the victims’ systems and deploy the ForestTiger backdoor.</p>\n<p>The post <a href=\"https://www.securityweek.com/fresh-windows-zero-day-exploited-in-north-korean-cyberattacks/\">Fresh Windows Zero-Day Exploited in North Korean Cyberattacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The bug allowed attackers to gain full control of the victims’ systems and deploy the ForestTiger backdoor",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2025-49113",
+        "CVE-2026-68820"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Ivanti EPM Update Patches Remotely Exploitable Flaws",
+    "link": "https://www.securityweek.com/ivanti-epm-update-patches-remotely-exploitable-flaws/",
+    "published": "Wed, 12 Aug 2026 08:14:46 +0000",
+    "summary": "<p>The vulnerabilities could be exploited to leak credentials for external SQL connections or crash an agent service.</p>\n<p>The post <a href=\"https://www.securityweek.com/ivanti-epm-update-patches-remotely-exploitable-flaws/\">Ivanti EPM Update Patches Remotely Exploitable Flaws</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The vulnerabilities could be exploited to leak credentials for external SQL connections or crash an agent service",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-18129",
+        "CVE-2026-18127",
+        "CVE-2026-18125"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Phoenix Contact",
+    "link": "https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-phoenix-contact-2/",
+    "published": "Wed, 12 Aug 2026 07:51:55 +0000",
+    "summary": "<p>CISA has also published several advisories describing vulnerabilities in ICS and other OT products.</p>\n<p>The post <a href=\"https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-phoenix-contact-2/\">ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Phoenix Contact</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "CISA has also published several advisories describing vulnerabilities in ICS and other OT products",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "SonicWall Patches Critical Vulnerabilities in Discontinued GMS Platform",
+    "link": "https://www.securityweek.com/sonicwall-patches-critical-vulnerabilities-in-discontinued-gms-platform/",
+    "published": "Wed, 12 Aug 2026 07:31:11 +0000",
+    "summary": "<p>The security defects could allow unauthenticated attackers to execute arbitrary code remotely and read sensitive data.</p>\n<p>The post <a href=\"https://www.securityweek.com/sonicwall-patches-critical-vulnerabilities-in-discontinued-gms-platform/\">SonicWall Patches Critical Vulnerabilities in Discontinued GMS Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The security defects could allow unauthenticated attackers to execute arbitrary code remotely and read sensitive data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-66150",
+        "CVE-2026-66149",
+        "CVE-2026-66147",
+        "CVE-2026-66145"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Cisco Patches Firewall Zero-Day Exploited for DoS Attacks",
+    "link": "https://www.securityweek.com/cisco-patches-firewall-zero-day-exploited-for-dos-attacks/",
+    "published": "Wed, 12 Aug 2026 05:10:47 +0000",
+    "summary": "<p>CVE-2026-20349 can be exploited remotely without authentication against Secure Firewall ASA and FTD devices.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-patches-firewall-zero-day-exploited-for-dos-attacks/\">Cisco Patches Firewall Zero-Day Exploited for DoS Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "CVE-2026-20349 can be exploited remotely without authentication against Secure Firewall ASA and FTD devices",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-20349"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "August 2026 Patch Tuesday: Microsoft Fixes 421 CVEs, One Exploited Zero-Day",
     "link": "https://www.securityweek.com/august-2026-patch-tuesday-microsoft-fixes-421-cves-one-exploited-zero-day/",
     "published": "Tue, 11 Aug 2026 18:46:07 +0000",
@@ -582,19 +695,19 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-6727",
-        "CVE-2026-68820",
-        "CVE-2025-21418",
-        "CVE-2026-72971",
-        "CVE-2026-59124",
-        "CVE-2026-62832",
         "CVE-2026-62878",
-        "CVE-2026-62911",
         "CVE-2024-38193",
+        "CVE-2026-72971",
         "CVE-2026-62815",
+        "CVE-2026-6726",
+        "CVE-2026-6727",
+        "CVE-2026-62911",
+        "CVE-2026-62832",
         "CVE-2025-32709",
         "CVE-2026-62893",
-        "CVE-2026-6726"
+        "CVE-2025-21418",
+        "CVE-2026-68820",
+        "CVE-2026-59124"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -615,13 +728,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-71362",
-        "CVE-2026-48381",
         "CVE-2026-71384",
-        "CVE-2026-27302",
         "CVE-2026-48273",
+        "CVE-2026-71398",
+        "CVE-2026-71362",
         "CVE-2026-48362",
-        "CVE-2026-71398"
+        "CVE-2026-48381",
+        "CVE-2026-27302"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -641,10 +754,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-53416",
-        "CVE-2026-53414",
+        "CVE-2026-53415",
         "CVE-2026-53413",
-        "CVE-2026-53415"
+        "CVE-2026-53414",
+        "CVE-2026-53416"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -694,100 +807,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "US Water Systems Get Cyber Boost From New Senate Bill and ‘Water Watch Center’",
-    "link": "https://www.securityweek.com/us-water-systems-get-cyber-boost-from-new-senate-bill-and-water-watch-center/",
-    "published": "Tue, 11 Aug 2026 14:03:32 +0000",
-    "summary": "<p>The Water Watch Center launched at DEF CON aims to help under-resourced utilities protect their systems against hackers.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-water-systems-get-cyber-boost-from-new-senate-bill-and-water-watch-center/\">US Water Systems Get Cyber Boost From New Senate Bill and &#8216;Water Watch Center&#8217;</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The Water Watch Center launched at DEF CON aims to help under-resourced utilities protect their systems against hackers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Corma Raises $60 Million for Defensive Cybersecurity AI Model",
-    "link": "https://www.securityweek.com/corma-raises-60-million-for-defensive-cybersecurity-ai-model/",
-    "published": "Tue, 11 Aug 2026 12:01:46 +0000",
-    "summary": "<p>Corma emerged from stealth with seed funding from Sequoia Capital, Khosla Ventures, and Coatue.</p>\n<p>The post <a href=\"https://www.securityweek.com/corma-raises-60-million-for-defensive-cybersecurity-ai-model/\">Corma Raises $60 Million for Defensive Cybersecurity AI Model</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Corma emerged from stealth with seed funding from Sequoia Capital, Khosla Ventures, and Coatue",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Extension Banned for Stealing AI Chats Returns to Chrome Store, Resumes Malicious Activities",
-    "link": "https://www.securityweek.com/extension-banned-for-stealing-ai-chats-returns-to-chrome-store-resumes-malicious-activities/",
-    "published": "Tue, 11 Aug 2026 11:15:15 +0000",
-    "summary": "<p>The extension amassed over 300,000 installs and a 4.6 rating before Google removed it for stealing data.</p>\n<p>The post <a href=\"https://www.securityweek.com/extension-banned-for-stealing-ai-chats-returns-to-chrome-store-resumes-malicious-activities/\">Extension Banned for Stealing AI Chats Returns to Chrome Store, Resumes Malicious Activities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The extension amassed over 300,000 installs and a 4",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Hacker Conversations: Marcus Hutchins and the Journey From the Gray Zone to Redemption",
-    "link": "https://www.securityweek.com/hacker-conversations-marcus-hutchins/",
-    "published": "Tue, 11 Aug 2026 10:00:00 +0000",
-    "summary": "<p>Marcus Hutchins doesn’t personally consider himself a hacker – but he accepts the epithet because it’s a widely used term for what he once did.</p>\n<p>The post <a href=\"https://www.securityweek.com/hacker-conversations-marcus-hutchins/\">Hacker Conversations: Marcus Hutchins and the Journey From the Gray Zone to Redemption</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Marcus Hutchins doesn’t personally consider himself a hacker – but he accepts the epithet because it’s a widely used term for what he once did",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "OpenAI Unveils New Cybersecurity Model GPT-5.6-Cyber",
-    "link": "https://www.securityweek.com/openai-unveils-new-cybersecurity-model-gpt-5-6-cyber/",
-    "published": "Tue, 11 Aug 2026 09:45:05 +0000",
-    "summary": "<p>OpenAI has also announced the expansion of its Daybreak platform to give more organizations access to its AI.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-unveils-new-cybersecurity-model-gpt-5-6-cyber/\">OpenAI Unveils New Cybersecurity Model GPT-5.6-Cyber</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "OpenAI has also announced the expansion of its Daybreak platform to give more organizations access to its AI",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Microsoft Patch Tuesday for August 2026 — Snort rules and prominent vulnerabilities",
     "link": "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-august-2026/",
@@ -801,9 +820,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-65665",
-        "CVE-2026-62823",
         "CVE-2026-62893",
-        "CVE-2026-68820"
+        "CVE-2026-68820",
+        "CVE-2026-62823"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1537,6 +1556,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "August 2026 Patch Tuesday: One Exploited Zero-Day and 62 Critical Vulnerabilities Among 415 CVEs",
+    "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-august-2026/",
+    "published": "Aug 11, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "Microsoft has released security updates for 415 vulnerabilities, including one exploited zero-day and 62 critical, in its August 2026 Patch Tuesday rollout",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "CrowdStrike Threat Hunts for Shell Command Obfuscation on VMware ESX",
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-hunts-for-shell-command-obfuscation-vmware-esx/",
     "published": "Aug 07, 2026 00:00:00-0500",
@@ -1687,24 +1724,6 @@
     "summary": "",
     "analysis": {
       "issue": "Falcon Onum gives organizations real-time control of security telemetry for the agentic SOC",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Joins the Open Secure AI Alliance to Advance AI Safety and Security",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-joins-the-open-secure-ai-alliance/",
-    "published": "Jul 27, 2026 00:00:00-0400",
-    "summary": "",
-    "analysis": {
-      "issue": "CrowdStrike joins the Open Secure AI Alliance to help defenders secure the AI era through open models, shared research, and collective defense",
       "solution": null,
       "cause": null,
       "timeline": null,
