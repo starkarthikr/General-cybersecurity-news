@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-12 02:23:18 UTC
+**Last Updated:** 2026-08-12 03:04:48 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -46,7 +46,7 @@
 **Source:** The Hacker News  
 **Published:** Tue, 11 Aug 2026 22:17:44 +0530  
 **Severity:** Low  
-**CVEs:** CVE-2026-55040, CVE-2026-63520  
+**CVEs:** CVE-2026-63520, CVE-2026-55040  
 **Categories:** Vulnerability  
 
 ---
@@ -229,7 +229,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50661, CVE-2026-48561, CVE-2026-56155, CVE-2026-56164  
+**CVEs:** CVE-2026-56164, CVE-2026-56155, CVE-2026-48561, CVE-2026-50661  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -284,7 +284,7 @@
 **Source:** Security Week  
 **Published:** Tue, 11 Aug 2026 18:46:07 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-32709, CVE-2026-72971, CVE-2026-62832, CVE-2026-62893, CVE-2026-62911, CVE-2026-62878, CVE-2026-59124, CVE-2026-62815, CVE-2024-38193, CVE-2026-68820, CVE-2026-6726, CVE-2025-21418, CVE-2026-6727  
+**CVEs:** CVE-2026-6727, CVE-2026-68820, CVE-2025-21418, CVE-2026-72971, CVE-2026-59124, CVE-2026-62832, CVE-2026-62878, CVE-2026-62911, CVE-2024-38193, CVE-2026-62815, CVE-2025-32709, CVE-2026-62893, CVE-2026-6726  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -294,7 +294,7 @@
 **Source:** Security Week  
 **Published:** Tue, 11 Aug 2026 16:50:19 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-71398, CVE-2026-48381, CVE-2026-71362, CVE-2026-48362, CVE-2026-48273, CVE-2026-27302, CVE-2026-71384  
+**CVEs:** CVE-2026-71362, CVE-2026-48381, CVE-2026-71384, CVE-2026-27302, CVE-2026-48273, CVE-2026-48362, CVE-2026-71398  
 **Categories:** Vulnerability  
 
 ---
@@ -304,7 +304,7 @@
 **Source:** Security Week  
 **Published:** Tue, 11 Aug 2026 15:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-53416, CVE-2026-53413, CVE-2026-53415, CVE-2026-53414  
+**CVEs:** CVE-2026-53416, CVE-2026-53414, CVE-2026-53413, CVE-2026-53415  
 **Categories:** Vulnerability  
 
 ---
@@ -323,7 +323,7 @@
 **Source:** Security Week  
 **Published:** Tue, 11 Aug 2026 14:14:32 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-34265, CVE-2026-44758, CVE-2026-58231, CVE-2026-44772  
+**CVEs:** CVE-2026-44772, CVE-2026-34265, CVE-2026-58231, CVE-2026-44758  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -378,7 +378,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 11 Aug 2026 22:21:02 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62893, CVE-2026-62823, CVE-2026-65665, CVE-2026-68820  
+**CVEs:** CVE-2026-65665, CVE-2026-62823, CVE-2026-62893, CVE-2026-68820  
 **Categories:** Vulnerability  
 
 ---
