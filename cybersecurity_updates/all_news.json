@@ -191,6 +191,24 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "WhatsApp rolls out new feature that flags potential scam messages",
+    "link": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/",
+    "published": "Thu, 13 Aug 2026 07:50:22 -0400",
+    "summary": "WhatsApp has begun rolling out a new optional \"Scam Alert\" feature, which uses a local machine learning model to warn users when scammers are targeting them. [...]",
+    "analysis": {
+      "issue": "WhatsApp has begun rolling out a new optional \"Scam Alert\" feature, which uses a local machine learning model to warn users when scammers are targeting them",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "\"City-Forum\" data-theft attacks target Salesforce, ServiceNow portals",
     "link": "https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/",
     "published": "Wed, 12 Aug 2026 19:07:23 -0400",
@@ -362,24 +380,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Signal adds new security feature to thwart man-in-the-middle attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/",
-    "published": "Wed, 12 Aug 2026 07:21:42 -0400",
-    "summary": "​Signal has introduced Automatic Key Verification, a new security feature that gives users a new way to ensure their encrypted chats haven't been intercepted. [...]",
-    "analysis": {
-      "issue": "Signal has introduced Automatic Key Verification, a new security feature that gives users a new way to ensure their encrypted chats haven't been intercepted",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Microsoft Plugs Nearly 400 Security Holes",
     "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
@@ -392,9 +392,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-62832",
         "CVE-2026-68820",
-        "CVE-2026-72971",
-        "CVE-2026-62832"
+        "CVE-2026-72971"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -471,10 +471,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56164",
         "CVE-2026-50661",
-        "CVE-2026-56155",
-        "CVE-2026-48561"
+        "CVE-2026-48561",
+        "CVE-2026-56164",
+        "CVE-2026-56155"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -577,6 +577,86 @@
   },
   {
     "source": "Security Week",
+    "title": "WordPress 7.0.4 Patches Remote Code Execution Vulnerability",
+    "link": "https://www.securityweek.com/wordpress-7-0-4-patches-remote-code-execution-vulnerability/",
+    "published": "Thu, 13 Aug 2026 12:53:56 +0000",
+    "summary": "<p>Attackers with Author-level user or higher permissions could exploit the flaw via malicious Postscript files.</p>\n<p>The post <a href=\"https://www.securityweek.com/wordpress-7-0-4-patches-remote-code-execution-vulnerability/\">WordPress 7.0.4 Patches Remote Code Execution Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Attackers with Author-level user or higher permissions could exploit the flaw via malicious Postscript files",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-65640"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Venture Firm Team8 Secures Additional $365 Million",
+    "link": "https://www.securityweek.com/venture-firm-team8-secures-additional-365-million/",
+    "published": "Thu, 13 Aug 2026 11:42:48 +0000",
+    "summary": "<p>The Israeli company has nearly $2 billion in total assets under management since 2014.</p>\n<p>The post <a href=\"https://www.securityweek.com/venture-firm-team8-secures-additional-365-million/\">Venture Firm Team8 Secures Additional $365 Million</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The Israeli company has nearly $2 billion in total assets under management since 2014",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Fortinet Patches Authentication Flaws in FortiWeb and FortiManager",
+    "link": "https://www.securityweek.com/fortinet-patches-authentication-flaws-in-fortiweb-and-fortimanager/",
+    "published": "Thu, 13 Aug 2026 10:40:57 +0000",
+    "summary": "<p>The vulnerabilities could allow attackers to log in with random usernames and passwords or impersonate any FortiGate appliance.</p>\n<p>The post <a href=\"https://www.securityweek.com/fortinet-patches-authentication-flaws-in-fortiweb-and-fortimanager/\">Fortinet Patches Authentication Flaws in FortiWeb and FortiManager</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The vulnerabilities could allow attackers to log in with random usernames and passwords or impersonate any FortiGate appliance",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-26035",
+        "CVE-2026-70465",
+        "CVE-2026-49975",
+        "CVE-2026-70468"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "White House Mobilizes Security Firms for Operations Against Foreign Cybercrime Gangs",
+    "link": "https://www.securityweek.com/white-house-mobilizes-security-firms-for-operations-against-foreign-cybercrime-gangs/",
+    "published": "Thu, 13 Aug 2026 09:53:04 +0000",
+    "summary": "<p>Contracts may require a $1 million bond, which will be forfeited if a company fails to comply with operational requirements.</p>\n<p>The post <a href=\"https://www.securityweek.com/white-house-mobilizes-security-firms-for-operations-against-foreign-cybercrime-gangs/\">White House Mobilizes Security Firms for Operations Against Foreign Cybercrime Gangs</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Contracts may require a $1 million bond, which will be forfeited if a company fails to comply with operational requirements",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Critical VMware vCenter Vulnerability in Attackers’ Crosshairs",
     "link": "https://www.securityweek.com/critical-vmware-vcenter-vulnerability-in-attackers-crosshairs/",
     "published": "Thu, 13 Aug 2026 09:06:40 +0000",
@@ -629,12 +709,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56164",
-        "CVE-2026-63520",
         "CVE-2026-50522",
         "CVE-2026-55040",
+        "CVE-2026-45659",
         "CVE-2026-58644",
-        "CVE-2026-45659"
+        "CVE-2026-56164",
+        "CVE-2026-63520"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -698,81 +778,20 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Ceva Logistics Operations Disrupted by Cyberattack",
-    "link": "https://www.securityweek.com/ceva-logistics-operations-disrupted-by-cyberattack/",
-    "published": "Wed, 12 Aug 2026 11:37:28 +0000",
-    "summary": "<p>Affecting European contract logistics operations at eight Ceva warehouses, the incident caused shipment delays for multiple customers.</p>\n<p>The post <a href=\"https://www.securityweek.com/ceva-logistics-operations-disrupted-by-cyberattack/\">Ceva Logistics Operations Disrupted by Cyberattack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "source": "Talos Blog",
+    "title": "Dissecting the JWR phishing framework",
+    "link": "https://blog.talosintelligence.com/dissecting-the-jwr-phishing-framework/",
+    "published": "Thu, 13 Aug 2026 10:00:35 GMT",
+    "summary": "Cisco Talos recently identified an undocumented phishing framework, internally branded \"JWR\" by its developer, built to convincingly impersonate checkout and login pages across major payment and shopping platforms.",
     "analysis": {
-      "issue": "Affecting European contract logistics operations at eight Ceva warehouses, the incident caused shipment delays for multiple customers",
+      "issue": "JWR is a phishing framework capable of harvesting complete payment card data, login credentials, and personally identifiable information (PII) documents and images in real time",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Chipmaker Patch Tuesday: Intel, AMD Fix Over 80 Vulnerabilities Combined",
-    "link": "https://www.securityweek.com/chipmaker-patch-tuesday-intel-amd-fix-over-80-vulnerabilities-combined/",
-    "published": "Wed, 12 Aug 2026 10:55:04 +0000",
-    "summary": "<p>Intel has informed customers about several high-severity vulnerabilities that can lead to privilege escalation and even code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/chipmaker-patch-tuesday-intel-amd-fix-over-80-vulnerabilities-combined/\">Chipmaker Patch Tuesday: Intel, AMD Fix Over 80 Vulnerabilities Combined</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Intel has informed customers about several high-severity vulnerabilities that can lead to privilege escalation and even code execution",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Over 2,500 Organizations Impacted by LiteLLM Supply Chain Attack",
-    "link": "https://www.securityweek.com/over-2500-organizations-impacted-by-litellm-supply-chain-attack/",
-    "published": "Wed, 12 Aug 2026 09:55:45 +0000",
-    "summary": "<p>LiteLLM was compromised through the Trivy hack and abused to distribute information-stealing malware to its users.</p>\n<p>The post <a href=\"https://www.securityweek.com/over-2500-organizations-impacted-by-litellm-supply-chain-attack/\">Over 2,500 Organizations Impacted by LiteLLM Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "LiteLLM was compromised through the Trivy hack and abused to distribute information-stealing malware to its users",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "APT",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Fresh Windows Zero-Day Exploited in North Korean Cyberattacks",
-    "link": "https://www.securityweek.com/fresh-windows-zero-day-exploited-in-north-korean-cyberattacks/",
-    "published": "Wed, 12 Aug 2026 08:45:53 +0000",
-    "summary": "<p>The bug allowed attackers to gain full control of the victims’ systems and deploy the ForestTiger backdoor.</p>\n<p>The post <a href=\"https://www.securityweek.com/fresh-windows-zero-day-exploited-in-north-korean-cyberattacks/\">Fresh Windows Zero-Day Exploited in North Korean Cyberattacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The bug allowed attackers to gain full control of the victims’ systems and deploy the ForestTiger backdoor",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-68820",
-        "CVE-2025-49113"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
+        "Phishing",
         "APT"
       ]
     }
@@ -790,10 +809,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-62893",
-        "CVE-2026-68820",
+        "CVE-2026-62823",
         "CVE-2026-65665",
-        "CVE-2026-62823"
+        "CVE-2026-68820",
+        "CVE-2026-62893"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -947,24 +966,6 @@
       "threat_categories": [
         "Ransomware",
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "Preview: Cisco Talos at Black Hat USA 2026",
-    "link": "https://blog.talosintelligence.com/preview-cisco-talos-at-black-hat-usa-2026/",
-    "published": "Thu, 23 Jul 2026 10:00:14 GMT",
-    "summary": "Here’s some of the ways Talos is showing up at Black Hat, alongside our friends at Cisco and Splunk.",
-    "analysis": {
-      "issue": "We’re looking forward to having some great conversations with those of you heading to the desert for Hacker Summer Camp 2026",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -1346,6 +1347,43 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "New Android malware lets criminals use your bank card in real time",
+    "link": "https://www.malwarebytes.com/blog/mobile/2026/08/new-android-malware-lets-criminals-use-your-bank-card-in-real-time",
+    "published": "Thu, 13 Aug 2026 11:34:25 GMT",
+    "summary": "Social engineering, a Remote Access Trojan (RAT), and NFC relay malware walk up to an ATM. It's no joke. Together, they can empty your bank account.",
+    "analysis": {
+      "issue": "Researchers at Group-IB have discovered a new NFC relay malware family, purpose-built to capture live card data via NFC and forward it in real time to attackers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Parents take on Meta, TikTok, Google, and Snap in 3,000 youth safety lawsuits",
+    "link": "https://www.malwarebytes.com/blog/privacy/2026/08/parents-take-on-meta-tiktok-google-and-snap-in-3000-youth-safety-lawsuits",
+    "published": "Thu, 13 Aug 2026 09:59:48 GMT",
+    "summary": "It's the biggest legal challenge yet to addictive social media design and its impact on children.",
+    "analysis": {
+      "issue": "A group of big tech firms is fighting to stop roughly 3,000 youth safety lawsuits from moving forward, and they just lost a critical procedural battle in court",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "“Zoomsday” flaws could let one Zoom participant attack another",
     "link": "https://www.malwarebytes.com/blog/bugs/2026/08/zoomsday-flaws-could-let-one-zoom-participant-attack-another",
     "published": "Wed, 12 Aug 2026 14:43:13 GMT",
@@ -1357,9 +1395,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-53415",
         "CVE-2026-53413",
-        "CVE-2026-53414"
+        "CVE-2026-53414",
+        "CVE-2026-53415"
       ],
       "threat_categories": [
         "Data Breach",
@@ -1380,8 +1418,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-62893",
-        "CVE-2026-62832"
+        "CVE-2026-62832",
+        "CVE-2026-62893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1496,42 +1534,6 @@
       "cves": [],
       "threat_categories": [
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Fake popular sites offer a free app, instead take over PCs",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/08/fake-popular-sites-offer-a-free-app-instead-take-over-pcs",
-    "published": "Tue, 11 Aug 2026 08:55:45 GMT",
-    "summary": "Fake branded download pages are tricking Windows users into installing legitimate remote-access software that's being abused by attackers.",
-    "analysis": {
-      "issue": "A website built to look almost exactly like CNN’s homepage is telling visitors to download “the new CNN app",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "How to fake a data trail (and maybe lower prices) (Lock and Code S07E16)",
-    "link": "https://www.malwarebytes.com/blog/podcast/2026/08/how-to-fake-a-data-trail-and-maybe-lower-prices-lock-and-code-s07e16",
-    "published": "Mon, 10 Aug 2026 17:11:00 GMT",
-    "summary": "This week on the Lock and Code podcast, we speak with Chris Parr about his inventive and all-too-funny stress-test of surveillance pricing.",
-    "analysis": {
-      "issue": "It may sound entirely bizarre but the prices you once paid for hotels, educational classes, or staplers could have all been higher because you used a Mac computer, lived in a certain zip code, or lacked an Office Depot in your neighborhood",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
