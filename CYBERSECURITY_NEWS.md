@@ -1,10 +1,20 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-13 03:08:06 UTC
+**Last Updated:** 2026-08-13 09:41:08 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor](https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html)
+### 1. [Attackers Exploit SharePoint Authentication Bypass After Public PoC Release](https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 13 Aug 2026 11:39:48 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-55040  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor](https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 12 Aug 2026 23:09:27 +0530  
@@ -14,7 +24,7 @@
 
 ---
 
-### 2. [737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One](https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html)
+### 3. [737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One](https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 12 Aug 2026 19:39:50 +0530  
@@ -23,7 +33,7 @@
 
 ---
 
-### 3. [OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning](https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html)
+### 4. [OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning](https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 12 Aug 2026 17:17:38 +0530  
@@ -32,7 +42,7 @@
 
 ---
 
-### 4. [Enterprise Defenses Recovered at the Edge and Collapsed Inside](https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html)
+### 5. [Enterprise Defenses Recovered at the Edge and Collapsed Inside](https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 12 Aug 2026 17:11:34 +0530  
@@ -41,7 +51,7 @@
 
 ---
 
-### 5. [Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws](https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html)
+### 6. [Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws](https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 12 Aug 2026 16:43:03 +0530  
@@ -50,7 +60,7 @@
 
 ---
 
-### 6. [Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access](https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html)
+### 7. [Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access](https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 12 Aug 2026 14:31:54 +0530  
@@ -59,7 +69,7 @@
 
 ---
 
-### 7. [Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations](https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html)
+### 8. [Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations](https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 12 Aug 2026 13:34:52 +0530  
@@ -68,7 +78,7 @@
 
 ---
 
-### 8. [SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code](https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html)
+### 9. [SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code](https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 12 Aug 2026 13:01:40 +0530  
@@ -78,22 +88,12 @@
 
 ---
 
-### 9. [ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access](https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html)
+### 10. [ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access](https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 12 Aug 2026 12:11:38 +0530  
 **Severity:** Low  
 **CVEs:** CVE-2026-50656  
-**Categories:** Vulnerability  
-
----
-
-### 10. [Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS](https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 12 Aug 2026 11:45:58 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-20349  
 **Categories:** Vulnerability  
 
 ---
@@ -233,7 +233,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56164, CVE-2026-48561, CVE-2026-56155, CVE-2026-50661  
+**CVEs:** CVE-2026-56164, CVE-2026-50661, CVE-2026-56155, CVE-2026-48561  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -283,17 +283,37 @@
 
 ---
 
-### 31. [SharePoint Vulnerability Exploited Shortly After PoC Release](https://www.securityweek.com/sharepoint-vulnerability-exploited-shortly-after-poc-release/)
+### 31. [Critical VMware vCenter Vulnerability in Attackers’ Crosshairs](https://www.securityweek.com/critical-vmware-vcenter-vulnerability-in-attackers-crosshairs/)
 
 **Source:** Security Week  
-**Published:** Wed, 12 Aug 2026 14:47:01 +0000  
+**Published:** Thu, 13 Aug 2026 09:06:40 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56164, CVE-2026-55040, CVE-2026-45659, CVE-2026-63520, CVE-2026-58644, CVE-2026-50522  
+**CVEs:** CVE-2026-59310  
+**Categories:** Vulnerability, APT  
+
+---
+
+### 32. [Nightmare Eclipse Drops Windows Zero-Day Exploit ‘ShieldBreak’](https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-shieldbreak/)
+
+**Source:** Security Week  
+**Published:** Thu, 13 Aug 2026 08:38:03 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-50656  
 **Categories:** Vulnerability  
 
 ---
 
-### 32. [Mindgard Raises $30 Million to Protect AI Systems](https://www.securityweek.com/mindgard-raises-30-million-to-protect-ai-systems/)
+### 33. [SharePoint Vulnerability Exploited Shortly After PoC Release](https://www.securityweek.com/sharepoint-vulnerability-exploited-shortly-after-poc-release/)
+
+**Source:** Security Week  
+**Published:** Wed, 12 Aug 2026 14:47:01 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-56164, CVE-2026-63520, CVE-2026-50522, CVE-2026-55040, CVE-2026-58644, CVE-2026-45659  
+**Categories:** Vulnerability  
+
+---
+
+### 34. [Mindgard Raises $30 Million to Protect AI Systems](https://www.securityweek.com/mindgard-raises-30-million-to-protect-ai-systems/)
 
 **Source:** Security Week  
 **Published:** Wed, 12 Aug 2026 13:24:00 +0000  
@@ -302,7 +322,7 @@
 
 ---
 
-### 33. [WhatsApp Unveils New Scam Alert Feature](https://www.securityweek.com/whatsapp-unveils-new-scam-alert-feature/)
+### 35. [WhatsApp Unveils New Scam Alert Feature](https://www.securityweek.com/whatsapp-unveils-new-scam-alert-feature/)
 
 **Source:** Security Week  
 **Published:** Wed, 12 Aug 2026 13:00:00 +0000  
@@ -311,7 +331,7 @@
 
 ---
 
-### 34. [Stealthy ‘City-Forum’ Attacks Target Salesforce and ServiceNow With Custom Toolset](https://www.securityweek.com/stealthy-city-forum-attacks-target-salesforce-and-servicenow-with-custom-toolset/)
+### 36. [Stealthy ‘City-Forum’ Attacks Target Salesforce and ServiceNow With Custom Toolset](https://www.securityweek.com/stealthy-city-forum-attacks-target-salesforce-and-servicenow-with-custom-toolset/)
 
 **Source:** Security Week  
 **Published:** Wed, 12 Aug 2026 13:00:00 +0000  
@@ -320,7 +340,7 @@
 
 ---
 
-### 35. [Ceva Logistics Operations Disrupted by Cyberattack](https://www.securityweek.com/ceva-logistics-operations-disrupted-by-cyberattack/)
+### 37. [Ceva Logistics Operations Disrupted by Cyberattack](https://www.securityweek.com/ceva-logistics-operations-disrupted-by-cyberattack/)
 
 **Source:** Security Week  
 **Published:** Wed, 12 Aug 2026 11:37:28 +0000  
@@ -329,7 +349,7 @@
 
 ---
 
-### 36. [Chipmaker Patch Tuesday: Intel, AMD Fix Over 80 Vulnerabilities Combined](https://www.securityweek.com/chipmaker-patch-tuesday-intel-amd-fix-over-80-vulnerabilities-combined/)
+### 38. [Chipmaker Patch Tuesday: Intel, AMD Fix Over 80 Vulnerabilities Combined](https://www.securityweek.com/chipmaker-patch-tuesday-intel-amd-fix-over-80-vulnerabilities-combined/)
 
 **Source:** Security Week  
 **Published:** Wed, 12 Aug 2026 10:55:04 +0000  
@@ -338,7 +358,7 @@
 
 ---
 
-### 37. [Over 2,500 Organizations Impacted by LiteLLM Supply Chain Attack](https://www.securityweek.com/over-2500-organizations-impacted-by-litellm-supply-chain-attack/)
+### 39. [Over 2,500 Organizations Impacted by LiteLLM Supply Chain Attack](https://www.securityweek.com/over-2500-organizations-impacted-by-litellm-supply-chain-attack/)
 
 **Source:** Security Week  
 **Published:** Wed, 12 Aug 2026 09:55:45 +0000  
@@ -347,32 +367,13 @@
 
 ---
 
-### 38. [Fresh Windows Zero-Day Exploited in North Korean Cyberattacks](https://www.securityweek.com/fresh-windows-zero-day-exploited-in-north-korean-cyberattacks/)
+### 40. [Fresh Windows Zero-Day Exploited in North Korean Cyberattacks](https://www.securityweek.com/fresh-windows-zero-day-exploited-in-north-korean-cyberattacks/)
 
 **Source:** Security Week  
 **Published:** Wed, 12 Aug 2026 08:45:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-49113, CVE-2026-68820  
+**CVEs:** CVE-2026-68820, CVE-2025-49113  
 **Categories:** Vulnerability, Malware, APT  
-
----
-
-### 39. [Ivanti EPM Update Patches Remotely Exploitable Flaws](https://www.securityweek.com/ivanti-epm-update-patches-remotely-exploitable-flaws/)
-
-**Source:** Security Week  
-**Published:** Wed, 12 Aug 2026 08:14:46 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-18127, CVE-2026-18125, CVE-2026-18129  
-**Categories:** Vulnerability  
-
----
-
-### 40. [ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Phoenix Contact](https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-phoenix-contact-2/)
-
-**Source:** Security Week  
-**Published:** Wed, 12 Aug 2026 07:51:55 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability  
 
 ---
 
@@ -381,7 +382,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 11 Aug 2026 22:21:02 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-68820, CVE-2026-65665, CVE-2026-62823, CVE-2026-62893  
+**CVEs:** CVE-2026-62893, CVE-2026-68820, CVE-2026-65665, CVE-2026-62823  
 **Categories:** Vulnerability  
 
 ---
@@ -637,7 +638,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -657,7 +658,7 @@
 **Source:** Malwarebytes  
 **Published:** Wed, 12 Aug 2026 14:43:13 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-53413, CVE-2026-53414, CVE-2026-53415  
+**CVEs:** CVE-2026-53415, CVE-2026-53413, CVE-2026-53414  
 **Categories:** Data Breach, Vulnerability  
 
 ---

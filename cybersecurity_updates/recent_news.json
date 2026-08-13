@@ -1,6 +1,26 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
+    "link": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
+    "published": "Thu, 13 Aug 2026 11:39:48 +0530",
+    "summary": "Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code.\n\nThe vulnerability in question is CVE-2026-55040 (CVSS score: 9.1), which refers to a critical security feature bypass that stems from weak authentication. It was patched by Microsoft as part of its July 2026 Patch Tuesday updates.\n\n\"The authentication",
+    "analysis": {
+      "issue": "Attackers exploit SharePoint CVE-2026-55040 after a Rapid7 PoC release, forging JWTs to impersonate site users or admins",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-55040"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
     "link": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
     "published": "Wed, 12 Aug 2026 23:09:27 +0530",
@@ -163,26 +183,6 @@
       "severity": "Low",
       "cves": [
         "CVE-2026-50656"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS",
-    "link": "https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html",
-    "published": "Wed, 12 Aug 2026 11:45:58 +0530",
-    "summary": "Cisco has warned that a new vulnerability impacting Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software has been exploited in the wild.\n\nThe high-severity flaw, tracked as CVE-2026-20349 (CVSS score: 8.6), is a case of insufficient error checking when processing HTTP requests that could allow an unauthenticated, remote attacker to trigger",
-    "analysis": {
-      "issue": "Cisco says attackers are exploiting CVE-2026-20349 in ASA and FTD, letting crafted HTTP requests trigger DoS via Remote Access SSL VPN",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-20349"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -472,9 +472,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-56164",
-        "CVE-2026-48561",
+        "CVE-2026-50661",
         "CVE-2026-56155",
-        "CVE-2026-50661"
+        "CVE-2026-48561"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -577,6 +577,47 @@
   },
   {
     "source": "Security Week",
+    "title": "Critical VMware vCenter Vulnerability in Attackers’ Crosshairs",
+    "link": "https://www.securityweek.com/critical-vmware-vcenter-vulnerability-in-attackers-crosshairs/",
+    "published": "Thu, 13 Aug 2026 09:06:40 +0000",
+    "summary": "<p>Tracked as CVE-2026–59310, the directory traversal bug allows remote attackers to execute arbitrary code.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-vmware-vcenter-vulnerability-in-attackers-crosshairs/\">Critical VMware vCenter Vulnerability in Attackers&#8217; Crosshairs</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Tracked as CVE-2026–59310, the directory traversal bug allows remote attackers to execute arbitrary code",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-59310"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Nightmare Eclipse Drops Windows Zero-Day Exploit ‘ShieldBreak’",
+    "link": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-shieldbreak/",
+    "published": "Thu, 13 Aug 2026 08:38:03 +0000",
+    "summary": "<p>Dropped on Patch Tuesday, the exploit allows any user to spawn a shell with System privileges.</p>\n<p>The post <a href=\"https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-shieldbreak/\">Nightmare Eclipse Drops Windows Zero-Day Exploit &#8216;ShieldBreak&#8217;</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Dropped on Patch Tuesday, the exploit allows any user to spawn a shell with System privileges",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-50656"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "SharePoint Vulnerability Exploited Shortly After PoC Release",
     "link": "https://www.securityweek.com/sharepoint-vulnerability-exploited-shortly-after-poc-release/",
     "published": "Wed, 12 Aug 2026 14:47:01 +0000",
@@ -589,11 +630,11 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-56164",
-        "CVE-2026-55040",
-        "CVE-2026-45659",
         "CVE-2026-63520",
+        "CVE-2026-50522",
+        "CVE-2026-55040",
         "CVE-2026-58644",
-        "CVE-2026-50522"
+        "CVE-2026-45659"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -726,53 +767,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-49113",
-        "CVE-2026-68820"
+        "CVE-2026-68820",
+        "CVE-2025-49113"
       ],
       "threat_categories": [
         "Vulnerability",
         "Malware",
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Ivanti EPM Update Patches Remotely Exploitable Flaws",
-    "link": "https://www.securityweek.com/ivanti-epm-update-patches-remotely-exploitable-flaws/",
-    "published": "Wed, 12 Aug 2026 08:14:46 +0000",
-    "summary": "<p>The vulnerabilities could be exploited to leak credentials for external SQL connections or crash an agent service.</p>\n<p>The post <a href=\"https://www.securityweek.com/ivanti-epm-update-patches-remotely-exploitable-flaws/\">Ivanti EPM Update Patches Remotely Exploitable Flaws</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The vulnerabilities could be exploited to leak credentials for external SQL connections or crash an agent service",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-18127",
-        "CVE-2026-18125",
-        "CVE-2026-18129"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Phoenix Contact",
-    "link": "https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-phoenix-contact-2/",
-    "published": "Wed, 12 Aug 2026 07:51:55 +0000",
-    "summary": "<p>CISA has also published several advisories describing vulnerabilities in ICS and other OT products.</p>\n<p>The post <a href=\"https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-phoenix-contact-2/\">ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Phoenix Contact</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "CISA has also published several advisories describing vulnerabilities in ICS and other OT products",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -789,10 +790,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-62893",
         "CVE-2026-68820",
         "CVE-2026-65665",
-        "CVE-2026-62823",
-        "CVE-2026-62893"
+        "CVE-2026-62823"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1314,8 +1315,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1356,9 +1357,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-53415",
         "CVE-2026-53413",
-        "CVE-2026-53414",
-        "CVE-2026-53415"
+        "CVE-2026-53414"
       ],
       "threat_categories": [
         "Data Breach",
