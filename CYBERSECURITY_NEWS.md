@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-13 13:23:07 UTC
+**Last Updated:** 2026-08-13 17:28:46 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -98,7 +98,44 @@
 
 ---
 
-### 11. [WhatsApp rolls out new feature that flags potential scam messages](https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/)
+### 11. [Critical VMware vCenter RCE flaw exploited for reverse SSH access](https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 13 Aug 2026 12:40:23 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-59310  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [Trezor discloses data breach affecting nearly 14,000 customers](https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 13 Aug 2026 11:13:19 -0400  
+**Severity:** Low  
+**Categories:** Data Breach, Phishing  
+
+---
+
+### 13. [Who Vets AI’s Code? The Scale Challenge Facing Open Source Ingestion](https://www.bleepingcomputer.com/news/security/who-vets-ais-code-the-scale-challenge-facing-open-source-ingestion/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 13 Aug 2026 10:00:10 -0400  
+**Severity:** Low  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 14. [White House taps security firms for offensive hack-back operations](https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 13 Aug 2026 09:30:53 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 15. [WhatsApp rolls out new feature that flags potential scam messages](https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 13 Aug 2026 07:50:22 -0400  
@@ -107,7 +144,7 @@
 
 ---
 
-### 12. ["City-Forum" data-theft attacks target Salesforce, ServiceNow portals](https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/)
+### 16. ["City-Forum" data-theft attacks target Salesforce, ServiceNow portals](https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 12 Aug 2026 19:07:23 -0400  
@@ -116,7 +153,7 @@
 
 ---
 
-### 13. [Android malware combo takes out loans and relays victims' credit cards](https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/)
+### 17. [Android malware combo takes out loans and relays victims' credit cards](https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 12 Aug 2026 18:22:57 -0400  
@@ -125,7 +162,7 @@
 
 ---
 
-### 14. [Hackers exploit critical Adobe Commerce flaw to hijack customer accounts](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/)
+### 18. [Hackers exploit critical Adobe Commerce flaw to hijack customer accounts](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 12 Aug 2026 16:54:59 -0400  
@@ -135,7 +172,7 @@
 
 ---
 
-### 15. [Hundreds of fake Chrome VPN extensions route traffic through a proxy](https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/)
+### 19. [Hundreds of fake Chrome VPN extensions route traffic through a proxy](https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 12 Aug 2026 14:54:57 -0400  
@@ -144,49 +181,11 @@
 
 ---
 
-### 16. [Plug and Pwn attack uses fake USB devices for Windows SYSTEM access](https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/)
+### 20. [Plug and Pwn attack uses fake USB devices for Windows SYSTEM access](https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 12 Aug 2026 12:05:12 -0400  
 **Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 17. [Lazarus hackers exploited Windows zero-day to target defense firms](https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 12 Aug 2026 11:38:08 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-68820  
-**Categories:** Vulnerability, Phishing, APT  
-
----
-
-### 18. [FBI: Hackers target online accounts to steal nude photos](https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-targeting-online-accounts-to-steal-explicit-photos/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 12 Aug 2026 10:15:09 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 19. [The Threat Hiding in Your Hiring Process: How Fake Remote Workers Get In](https://www.bleepingcomputer.com/news/security/the-threat-hiding-in-your-hiring-process-how-fake-remote-workers-get-in/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 12 Aug 2026 10:01:11 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability, Phishing, APT  
-
----
-
-### 20. [Hackers leverage new Microsoft SharePoint exploit in attacks](https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 12 Aug 2026 08:25:37 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-55040  
 **Categories:** Vulnerability  
 
 ---
@@ -196,7 +195,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62832, CVE-2026-68820, CVE-2026-72971  
+**CVEs:** CVE-2026-68820, CVE-2026-72971, CVE-2026-62832  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -233,7 +232,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50661, CVE-2026-48561, CVE-2026-56164, CVE-2026-56155  
+**CVEs:** CVE-2026-50661, CVE-2026-56164, CVE-2026-56155, CVE-2026-48561  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -283,7 +282,26 @@
 
 ---
 
-### 31. [WordPress 7.0.4 Patches Remote Code Execution Vulnerability](https://www.securityweek.com/wordpress-7-0-4-patches-remote-code-execution-vulnerability/)
+### 31. [Cybersecurity M&A Roundup: 21 Deals Announced in July 2026](https://www.securityweek.com/cybersecurity-ma-roundup-21-deals-announced-in-july-2026/)
+
+**Source:** Security Week  
+**Published:** Thu, 13 Aug 2026 14:41:44 +0000  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 32. [Adobe Commerce Bug Targeted Immediately After Disclosure](https://www.securityweek.com/adobe-commerce-bug-targeted-immediately-after-disclosure/)
+
+**Source:** Security Week  
+**Published:** Thu, 13 Aug 2026 14:17:44 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-71362  
+**Categories:** Vulnerability  
+
+---
+
+### 33. [WordPress 7.0.4 Patches Remote Code Execution Vulnerability](https://www.securityweek.com/wordpress-7-0-4-patches-remote-code-execution-vulnerability/)
 
 **Source:** Security Week  
 **Published:** Thu, 13 Aug 2026 12:53:56 +0000  
@@ -293,7 +311,7 @@
 
 ---
 
-### 32. [Venture Firm Team8 Secures Additional $365 Million](https://www.securityweek.com/venture-firm-team8-secures-additional-365-million/)
+### 34. [Venture Firm Team8 Secures Additional $365 Million](https://www.securityweek.com/venture-firm-team8-secures-additional-365-million/)
 
 **Source:** Security Week  
 **Published:** Thu, 13 Aug 2026 11:42:48 +0000  
@@ -302,17 +320,17 @@
 
 ---
 
-### 33. [Fortinet Patches Authentication Flaws in FortiWeb and FortiManager](https://www.securityweek.com/fortinet-patches-authentication-flaws-in-fortiweb-and-fortimanager/)
+### 35. [Fortinet Patches Authentication Flaws in FortiWeb and FortiManager](https://www.securityweek.com/fortinet-patches-authentication-flaws-in-fortiweb-and-fortimanager/)
 
 **Source:** Security Week  
 **Published:** Thu, 13 Aug 2026 10:40:57 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26035, CVE-2026-70465, CVE-2026-49975, CVE-2026-70468  
+**CVEs:** CVE-2026-49975, CVE-2026-26035, CVE-2026-70465, CVE-2026-70468  
 **Categories:** Vulnerability  
 
 ---
 
-### 34. [White House Mobilizes Security Firms for Operations Against Foreign Cybercrime Gangs](https://www.securityweek.com/white-house-mobilizes-security-firms-for-operations-against-foreign-cybercrime-gangs/)
+### 36. [White House Mobilizes Security Firms for Operations Against Foreign Cybercrime Gangs](https://www.securityweek.com/white-house-mobilizes-security-firms-for-operations-against-foreign-cybercrime-gangs/)
 
 **Source:** Security Week  
 **Published:** Thu, 13 Aug 2026 09:53:04 +0000  
@@ -321,7 +339,7 @@
 
 ---
 
-### 35. [Critical VMware vCenter Vulnerability in Attackers’ Crosshairs](https://www.securityweek.com/critical-vmware-vcenter-vulnerability-in-attackers-crosshairs/)
+### 37. [Critical VMware vCenter Vulnerability in Attackers’ Crosshairs](https://www.securityweek.com/critical-vmware-vcenter-vulnerability-in-attackers-crosshairs/)
 
 **Source:** Security Week  
 **Published:** Thu, 13 Aug 2026 09:06:40 +0000  
@@ -331,7 +349,7 @@
 
 ---
 
-### 36. [Nightmare Eclipse Drops Windows Zero-Day Exploit ‘ShieldBreak’](https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-shieldbreak/)
+### 38. [Nightmare Eclipse Drops Windows Zero-Day Exploit ‘ShieldBreak’](https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-shieldbreak/)
 
 **Source:** Security Week  
 **Published:** Thu, 13 Aug 2026 08:38:03 +0000  
@@ -341,40 +359,22 @@
 
 ---
 
-### 37. [SharePoint Vulnerability Exploited Shortly After PoC Release](https://www.securityweek.com/sharepoint-vulnerability-exploited-shortly-after-poc-release/)
+### 39. [SharePoint Vulnerability Exploited Shortly After PoC Release](https://www.securityweek.com/sharepoint-vulnerability-exploited-shortly-after-poc-release/)
 
 **Source:** Security Week  
 **Published:** Wed, 12 Aug 2026 14:47:01 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50522, CVE-2026-55040, CVE-2026-45659, CVE-2026-58644, CVE-2026-56164, CVE-2026-63520  
+**CVEs:** CVE-2026-50522, CVE-2026-58644, CVE-2026-63520, CVE-2026-45659, CVE-2026-56164, CVE-2026-55040  
 **Categories:** Vulnerability  
 
 ---
 
-### 38. [Mindgard Raises $30 Million to Protect AI Systems](https://www.securityweek.com/mindgard-raises-30-million-to-protect-ai-systems/)
+### 40. [Mindgard Raises $30 Million to Protect AI Systems](https://www.securityweek.com/mindgard-raises-30-million-to-protect-ai-systems/)
 
 **Source:** Security Week  
 **Published:** Wed, 12 Aug 2026 13:24:00 +0000  
 **Severity:** Critical  
 **Categories:** Vulnerability, APT  
-
----
-
-### 39. [WhatsApp Unveils New Scam Alert Feature](https://www.securityweek.com/whatsapp-unveils-new-scam-alert-feature/)
-
-**Source:** Security Week  
-**Published:** Wed, 12 Aug 2026 13:00:00 +0000  
-**Severity:** Low  
-**Categories:** Phishing, Supply Chain  
-
----
-
-### 40. [Stealthy ‘City-Forum’ Attacks Target Salesforce and ServiceNow With Custom Toolset](https://www.securityweek.com/stealthy-city-forum-attacks-target-salesforce-and-servicenow-with-custom-toolset/)
-
-**Source:** Security Week  
-**Published:** Wed, 12 Aug 2026 13:00:00 +0000  
-**Severity:** High  
-**Categories:** Vulnerability  
 
 ---
 
@@ -392,7 +392,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 11 Aug 2026 22:21:02 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62823, CVE-2026-65665, CVE-2026-68820, CVE-2026-62893  
+**CVEs:** CVE-2026-62893, CVE-2026-65665, CVE-2026-62823, CVE-2026-68820  
 **Categories:** Vulnerability  
 
 ---
@@ -469,12 +469,12 @@
 
 ---
 
-### 51. [KlueセキュリティインシデントとRecorded Futureへの影響](https://www.recordedfuture.com/blog/klue-security-incident-jp)
+### 51. [Malware Crypting Services and the Threat Actors Who Sell Them](https://www.recordedfuture.com/research/malware-crypting-services-threat-actors)
 
 **Source:** Recorded Future  
-**Published:** Wed, 12 Aug 2026 00:00:00 GMT  
+**Published:** Thu, 13 Aug 2026 00:00:00 GMT  
 **Severity:** Low  
-**Categories:** General Security  
+**Categories:** Malware  
 
 ---
 
@@ -639,7 +639,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -677,7 +677,7 @@
 **Source:** Malwarebytes  
 **Published:** Wed, 12 Aug 2026 14:43:13 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-53413, CVE-2026-53414, CVE-2026-53415  
+**CVEs:** CVE-2026-53414, CVE-2026-53413, CVE-2026-53415  
 **Categories:** Data Breach, Vulnerability  
 
 ---
@@ -687,7 +687,7 @@
 **Source:** Malwarebytes  
 **Published:** Wed, 12 Aug 2026 13:48:49 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62832, CVE-2026-62893  
+**CVEs:** CVE-2026-62893, CVE-2026-62832  
 **Categories:** Vulnerability, Phishing, APT  
 
 ---

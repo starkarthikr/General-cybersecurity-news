@@ -191,6 +191,82 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Critical VMware vCenter RCE flaw exploited for reverse SSH access",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/",
+    "published": "Thu, 13 Aug 2026 12:40:23 -0400",
+    "summary": "A recently patched critical vulnerability (CVE-2026-59310) in VMware vCenter Syslog Server is being exploited in an active campaign to deploy a reverse SSH tool for persistence and remote access. [...]",
+    "analysis": {
+      "issue": "A recently patched critical vulnerability (CVE-2026-59310) in VMware vCenter Syslog Server is being exploited in an active campaign to deploy a reverse SSH tool for persistence and remote access",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-59310"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Trezor discloses data breach affecting nearly 14,000 customers",
+    "link": "https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/",
+    "published": "Thu, 13 Aug 2026 11:13:19 -0400",
+    "summary": "Hardware wallet manufacturer Trezor disclosed a data breach affecting nearly 14,000 of its customers after ShipMonk, its shipping and logistics provider, was hacked [...]",
+    "analysis": {
+      "issue": "Hardware wallet manufacturer Trezor disclosed a data breach affecting nearly 14,000 of its customers after ShipMonk, its shipping and logistics provider, was hacked",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Who Vets AI’s Code? The Scale Challenge Facing Open Source Ingestion",
+    "link": "https://www.bleepingcomputer.com/news/security/who-vets-ais-code-the-scale-challenge-facing-open-source-ingestion/",
+    "published": "Thu, 13 Aug 2026 10:00:10 -0400",
+    "summary": "AI coding tools can introduce unvetted or hallucinated open source dependencies faster than traditional security reviews can keep pace. ActiveState explains why organizations should govern packages at the point of selection, before they enter the development pipeline. [...]",
+    "analysis": {
+      "issue": "By Jonny Rivera, Head of Product at ActiveState During our conversations on the show floor at Black Hat last week, one question came up in almost every discussion our team had with AppSec leads, platform engineers, and CISOs: Who is actually vetting ",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "White House taps security firms for offensive hack-back operations",
+    "link": "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/",
+    "published": "Thu, 13 Aug 2026 09:30:53 -0400",
+    "summary": "A new White House memo signed by U.S. President Donald Trump instructs the National Coordination Center (NCC) to establish a program that would allow private security companies to apply for approval to hack foreign cybercrime organizations. [...]",
+    "analysis": {
+      "issue": "A new White House memo signed by U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "WhatsApp rolls out new feature that flags potential scam messages",
     "link": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/",
     "published": "Thu, 13 Aug 2026 07:50:22 -0400",
@@ -300,86 +376,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Lazarus hackers exploited Windows zero-day to target defense firms",
-    "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/",
-    "published": "Wed, 12 Aug 2026 11:38:08 -0400",
-    "summary": "North Korean hackers have been exploiting a Windows zero-day vulnerability (CVE-2026-68820) to target defense-sector companies as part of the Operation Dream Job campaign. [...]",
-    "analysis": {
-      "issue": "North Korean hackers have been exploiting a Windows zero-day vulnerability (CVE-2026-68820) to target defense-sector companies as part of the Operation Dream Job campaign",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-68820"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Phishing",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "FBI: Hackers target online accounts to steal nude photos",
-    "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-targeting-online-accounts-to-steal-explicit-photos/",
-    "published": "Wed, 12 Aug 2026 10:15:09 -0400",
-    "summary": "The FBI warns that cybercriminals are targeting adults' and children's social media and other online accounts to steal sexually explicit images or videos. [...]",
-    "analysis": {
-      "issue": "The FBI warns that cybercriminals are targeting adults' and children's social media and other online accounts to steal sexually explicit images or videos",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "The Threat Hiding in Your Hiring Process: How Fake Remote Workers Get In",
-    "link": "https://www.bleepingcomputer.com/news/security/the-threat-hiding-in-your-hiring-process-how-fake-remote-workers-get-in/",
-    "published": "Wed, 12 Aug 2026 10:01:11 -0400",
-    "summary": "Fake remote workers can exploit gaps between hiring checks, device delivery, and account access to enter organizations under false identities. Specops Software explains how document verification and biometric liveness checks can help organizations confirm that the person receiving access is the legitimate new hire. [...]",
-    "analysis": {
-      "issue": "For many security teams, the expected route into the corporate network begins with a phishing email or exploited vulnerability",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Phishing",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers leverage new Microsoft SharePoint exploit in attacks",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/",
-    "published": "Wed, 12 Aug 2026 08:25:37 -0400",
-    "summary": "Hackers have already begun using a proof-of-concept (PoC) exploit for a critical Microsoft SharePoint vulnerability, published by cybersecurity company Rapid7 on Tuesday. [...]",
-    "analysis": {
-      "issue": "A proof-of-concept (PoC) exploit for a critical Microsoft SharePoint vulnerability, published by cybersecurity company Rapid7 on Tuesday, is already being used in attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-55040"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Microsoft Plugs Nearly 400 Security Holes",
     "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
@@ -392,9 +388,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-62832",
         "CVE-2026-68820",
-        "CVE-2026-72971"
+        "CVE-2026-72971",
+        "CVE-2026-62832"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -472,9 +468,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-50661",
-        "CVE-2026-48561",
         "CVE-2026-56164",
-        "CVE-2026-56155"
+        "CVE-2026-56155",
+        "CVE-2026-48561"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -577,6 +573,44 @@
   },
   {
     "source": "Security Week",
+    "title": "Cybersecurity M&A Roundup: 21 Deals Announced in July 2026",
+    "link": "https://www.securityweek.com/cybersecurity-ma-roundup-21-deals-announced-in-july-2026/",
+    "published": "Thu, 13 Aug 2026 14:41:44 +0000",
+    "summary": "<p>Significant cybersecurity M&#038;A deals announced by Barracuda, CrowdStrike, Cyera, Okta, Palo Alto Networks, and Qualcomm.</p>\n<p>The post <a href=\"https://www.securityweek.com/cybersecurity-ma-roundup-21-deals-announced-in-july-2026/\">Cybersecurity M&#038;A Roundup: 21 Deals Announced in July 2026</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Significant cybersecurity M&A deals announced by Barracuda, CrowdStrike, Cyera, Okta, Palo Alto Networks, and Qualcomm",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Adobe Commerce Bug Targeted Immediately After Disclosure",
+    "link": "https://www.securityweek.com/adobe-commerce-bug-targeted-immediately-after-disclosure/",
+    "published": "Thu, 13 Aug 2026 14:17:44 +0000",
+    "summary": "<p>The first exploitation attempts targeting CVE-2026-71362 were observed shortly after Adobe released patches.</p>\n<p>The post <a href=\"https://www.securityweek.com/adobe-commerce-bug-targeted-immediately-after-disclosure/\">Adobe Commerce Bug Targeted Immediately After Disclosure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The first exploitation attempts targeting CVE-2026-71362 were observed shortly after Adobe released patches",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-71362"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "WordPress 7.0.4 Patches Remote Code Execution Vulnerability",
     "link": "https://www.securityweek.com/wordpress-7-0-4-patches-remote-code-execution-vulnerability/",
     "published": "Thu, 13 Aug 2026 12:53:56 +0000",
@@ -627,9 +661,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-49975",
         "CVE-2026-26035",
         "CVE-2026-70465",
-        "CVE-2026-49975",
         "CVE-2026-70468"
       ],
       "threat_categories": [
@@ -710,11 +744,11 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-50522",
-        "CVE-2026-55040",
-        "CVE-2026-45659",
         "CVE-2026-58644",
+        "CVE-2026-63520",
+        "CVE-2026-45659",
         "CVE-2026-56164",
-        "CVE-2026-63520"
+        "CVE-2026-55040"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -737,43 +771,6 @@
       "threat_categories": [
         "Vulnerability",
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "WhatsApp Unveils New Scam Alert Feature",
-    "link": "https://www.securityweek.com/whatsapp-unveils-new-scam-alert-feature/",
-    "published": "Wed, 12 Aug 2026 13:00:00 +0000",
-    "summary": "<p>Signal has also made a security announcement: an automatic key verification feature to complement its safety number system.</p>\n<p>The post <a href=\"https://www.securityweek.com/whatsapp-unveils-new-scam-alert-feature/\">WhatsApp Unveils New Scam Alert Feature</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Signal has also made a security announcement: an automatic key verification feature to complement its safety number system",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Stealthy ‘City-Forum’ Attacks Target Salesforce and ServiceNow With Custom Toolset",
-    "link": "https://www.securityweek.com/stealthy-city-forum-attacks-target-salesforce-and-servicenow-with-custom-toolset/",
-    "published": "Wed, 12 Aug 2026 13:00:00 +0000",
-    "summary": "<p>Researchers observed the novel campaign exploiting unauthenticated guest access to quietly enumerate and exfiltrate exposed data from both platforms.</p>\n<p>The post <a href=\"https://www.securityweek.com/stealthy-city-forum-attacks-target-salesforce-and-servicenow-with-custom-toolset/\">Stealthy ‘City-Forum’ Attacks Target Salesforce and ServiceNow With Custom Toolset</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Researchers observed the novel campaign exploiting unauthenticated guest access to quietly enumerate and exfiltrate exposed data from both platforms",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -809,10 +806,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-62823",
+        "CVE-2026-62893",
         "CVE-2026-65665",
-        "CVE-2026-68820",
-        "CVE-2026-62893"
+        "CVE-2026-62823",
+        "CVE-2026-68820"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -971,19 +968,19 @@
   },
   {
     "source": "Recorded Future",
-    "title": "KlueセキュリティインシデントとRecorded Futureへの影響",
-    "link": "https://www.recordedfuture.com/blog/klue-security-incident-jp",
-    "published": "Wed, 12 Aug 2026 00:00:00 GMT",
-    "summary": "透明性は私たちの企業運営の根幹をなすものです。最近発生したサードパーティベンダーによるセキュリティインシデントに関する声明をご覧ください。調査結果および、お客様の情報を保護するために講じた対策について記載しております。",
+    "title": "Malware Crypting Services and the Threat Actors Who Sell Them",
+    "link": "https://www.recordedfuture.com/research/malware-crypting-services-threat-actors",
+    "published": "Thu, 13 Aug 2026 00:00:00 GMT",
+    "summary": "Insikt Group analyzes 24 threat actors selling malware crypting services. Learn about their evasion techniques, market dynamics, and how defenders can prioritize behavioral detection over static analysis.",
     "analysis": {
-      "issue": "透明性は私たちの企業運営の根幹をなすものです。最近発生したサードパーティベンダーによるセキュリティインシデントに関する声明をご覧ください。調査結果および、お客様の情報を保護するために講じた対策について記載しております。",
+      "issue": "Insikt Group analyzes 24 threat actors selling malware crypting services",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Malware"
       ]
     }
   },
@@ -1316,8 +1313,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1395,8 +1392,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-53413",
         "CVE-2026-53414",
+        "CVE-2026-53413",
         "CVE-2026-53415"
       ],
       "threat_categories": [
@@ -1418,8 +1415,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-62832",
-        "CVE-2026-62893"
+        "CVE-2026-62893",
+        "CVE-2026-62832"
       ],
       "threat_categories": [
         "Vulnerability",
