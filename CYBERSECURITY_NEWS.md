@@ -1,10 +1,20 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-12 17:29:20 UTC
+**Last Updated:** 2026-08-13 02:24:34 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One](https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html)
+### 1. [Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor](https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 12 Aug 2026 23:09:27 +0530  
+**Severity:** Critical  
+**CVEs:** CVE-2026-68820  
+**Categories:** Vulnerability, Malware, APT  
+
+---
+
+### 2. [737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One](https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 12 Aug 2026 19:39:50 +0530  
@@ -13,7 +23,7 @@
 
 ---
 
-### 2. [OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning](https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html)
+### 3. [OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning](https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 12 Aug 2026 17:17:38 +0530  
@@ -22,7 +32,7 @@
 
 ---
 
-### 3. [Enterprise Defenses Recovered at the Edge and Collapsed Inside](https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html)
+### 4. [Enterprise Defenses Recovered at the Edge and Collapsed Inside](https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 12 Aug 2026 17:11:34 +0530  
@@ -31,7 +41,7 @@
 
 ---
 
-### 4. [Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws](https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html)
+### 5. [Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws](https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 12 Aug 2026 16:43:03 +0530  
@@ -40,7 +50,7 @@
 
 ---
 
-### 5. [Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access](https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html)
+### 6. [Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access](https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 12 Aug 2026 14:31:54 +0530  
@@ -49,7 +59,7 @@
 
 ---
 
-### 6. [Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations](https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html)
+### 7. [Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations](https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 12 Aug 2026 13:34:52 +0530  
@@ -58,7 +68,7 @@
 
 ---
 
-### 7. [SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code](https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html)
+### 8. [SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code](https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 12 Aug 2026 13:01:40 +0530  
@@ -68,7 +78,7 @@
 
 ---
 
-### 8. [ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access](https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html)
+### 9. [ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access](https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 12 Aug 2026 12:11:38 +0530  
@@ -78,7 +88,7 @@
 
 ---
 
-### 9. [Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS](https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html)
+### 10. [Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS](https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 12 Aug 2026 11:45:58 +0530  
@@ -88,17 +98,44 @@
 
 ---
 
-### 10. [Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack](https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html)
+### 11. ["City-Forum" data-theft attacks target Salesforce, ServiceNow portals](https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 12 Aug 2026 01:40:55 +0530  
+**Source:** Bleeping Computer  
+**Published:** Wed, 12 Aug 2026 19:07:23 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2026-68820  
+**Categories:** General Security  
+
+---
+
+### 12. [Android malware combo takes out loans and relays victims' credit cards](https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 12 Aug 2026 18:22:57 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 13. [Hackers exploit critical Adobe Commerce flaw to hijack customer accounts](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 12 Aug 2026 16:54:59 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-71362  
 **Categories:** Vulnerability  
 
 ---
 
-### 11. [Plug and Pwn attack uses fake USB devices for Windows SYSTEM access](https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/)
+### 14. [Hundreds of fake Chrome VPN extensions route traffic through a proxy](https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 12 Aug 2026 14:54:57 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 15. [Plug and Pwn attack uses fake USB devices for Windows SYSTEM access](https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 12 Aug 2026 12:05:12 -0400  
@@ -107,7 +144,7 @@
 
 ---
 
-### 12. [Lazarus hackers exploited Windows zero-day to target defense firms](https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/)
+### 16. [Lazarus hackers exploited Windows zero-day to target defense firms](https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 12 Aug 2026 11:38:08 -0400  
@@ -117,7 +154,7 @@
 
 ---
 
-### 13. [FBI: Hackers target online accounts to steal nude photos](https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-targeting-online-accounts-to-steal-explicit-photos/)
+### 17. [FBI: Hackers target online accounts to steal nude photos](https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-targeting-online-accounts-to-steal-explicit-photos/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 12 Aug 2026 10:15:09 -0400  
@@ -126,7 +163,7 @@
 
 ---
 
-### 14. [The Threat Hiding in Your Hiring Process: How Fake Remote Workers Get In](https://www.bleepingcomputer.com/news/security/the-threat-hiding-in-your-hiring-process-how-fake-remote-workers-get-in/)
+### 18. [The Threat Hiding in Your Hiring Process: How Fake Remote Workers Get In](https://www.bleepingcomputer.com/news/security/the-threat-hiding-in-your-hiring-process-how-fake-remote-workers-get-in/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 12 Aug 2026 10:01:11 -0400  
@@ -135,7 +172,7 @@
 
 ---
 
-### 15. [Hackers leverage new Microsoft SharePoint exploit in attacks](https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/)
+### 19. [Hackers leverage new Microsoft SharePoint exploit in attacks](https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 12 Aug 2026 08:25:37 -0400  
@@ -145,7 +182,7 @@
 
 ---
 
-### 16. [Signal adds new security feature to thwart man-in-the-middle attacks](https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/)
+### 20. [Signal adds new security feature to thwart man-in-the-middle attacks](https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 12 Aug 2026 07:21:42 -0400  
@@ -154,49 +191,12 @@
 
 ---
 
-### 17. [New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges](https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 12 Aug 2026 06:15:22 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-50656  
-**Categories:** Vulnerability  
-
----
-
-### 18. [Google says Chrome cuts 7 billion unwanted Android notifications a day to fight abuse](https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 11 Aug 2026 21:15:55 -0400  
-**Severity:** Low  
-**Categories:** Malware, Phishing  
-
----
-
-### 19. [DeadLock ransomware uses blockchain to resist infrastructure takedown](https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 11 Aug 2026 18:15:22 -0400  
-**Severity:** Low  
-**Categories:** Ransomware, Malware  
-
----
-
-### 20. [Sandworm hackers target IT pros with trojanized WireGuard VPN client](https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 11 Aug 2026 17:07:24 -0400  
-**Severity:** Low  
-**Categories:** Malware, APT  
-
----
-
 ### 21. [Microsoft Plugs Nearly 400 Security Holes](https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-68820, CVE-2026-62832, CVE-2026-72971  
+**CVEs:** CVE-2026-62832, CVE-2026-72971, CVE-2026-68820  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -233,7 +233,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56164, CVE-2026-56155, CVE-2026-48561, CVE-2026-50661  
+**CVEs:** CVE-2026-56164, CVE-2026-48561, CVE-2026-56155, CVE-2026-50661  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -288,7 +288,7 @@
 **Source:** Security Week  
 **Published:** Wed, 12 Aug 2026 14:47:01 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50522, CVE-2026-45659, CVE-2026-63520, CVE-2026-58644, CVE-2026-56164, CVE-2026-55040  
+**CVEs:** CVE-2026-50522, CVE-2026-45659, CVE-2026-55040, CVE-2026-56164, CVE-2026-63520, CVE-2026-58644  
 **Categories:** Vulnerability  
 
 ---
@@ -352,7 +352,7 @@
 **Source:** Security Week  
 **Published:** Wed, 12 Aug 2026 08:45:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-68820, CVE-2025-49113  
+**CVEs:** CVE-2025-49113, CVE-2026-68820  
 **Categories:** Vulnerability, Malware, APT  
 
 ---
@@ -362,7 +362,7 @@
 **Source:** Security Week  
 **Published:** Wed, 12 Aug 2026 08:14:46 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-18129, CVE-2026-18125, CVE-2026-18127  
+**CVEs:** CVE-2026-18127, CVE-2026-18129, CVE-2026-18125  
 **Categories:** Vulnerability  
 
 ---
@@ -381,7 +381,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 11 Aug 2026 22:21:02 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-68820, CVE-2026-62823, CVE-2026-65665, CVE-2026-62893  
+**CVEs:** CVE-2026-65665, CVE-2026-62893, CVE-2026-62823, CVE-2026-68820  
 **Categories:** Vulnerability  
 
 ---
@@ -467,7 +467,16 @@
 
 ---
 
-### 51. [Mines, Minds, and Machines: The Journey of AI](https://www.recordedfuture.com/blog/mines-minds-machines)
+### 51. [KlueセキュリティインシデントとRecorded Futureへの影響](https://www.recordedfuture.com/blog/klue-security-incident-jp)
+
+**Source:** Recorded Future  
+**Published:** Wed, 12 Aug 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 52. [Mines, Minds, and Machines: The Journey of AI](https://www.recordedfuture.com/blog/mines-minds-machines)
 
 **Source:** Recorded Future  
 **Published:** Tue, 11 Aug 2026 00:00:00 GMT  
@@ -476,7 +485,7 @@
 
 ---
 
-### 52. [The Hugging Face Hack Was Cheap Persistence at Work](https://www.recordedfuture.com/blog/hugging-face-cheap-persistence)
+### 53. [The Hugging Face Hack Was Cheap Persistence at Work](https://www.recordedfuture.com/blog/hugging-face-cheap-persistence)
 
 **Source:** Recorded Future  
 **Published:** Mon, 10 Aug 2026 00:00:00 GMT  
@@ -485,7 +494,7 @@
 
 ---
 
-### 53. [July 2026 CVE Landscape](https://www.recordedfuture.com/blog/july-2026-cve-landscape)
+### 54. [July 2026 CVE Landscape](https://www.recordedfuture.com/blog/july-2026-cve-landscape)
 
 **Source:** Recorded Future  
 **Published:** Fri, 07 Aug 2026 00:00:00 GMT  
@@ -494,7 +503,7 @@
 
 ---
 
-### 54. [Emerging Threats to Neurotechnology](https://www.recordedfuture.com/research/emerging-threats-neurotechnology)
+### 55. [Emerging Threats to Neurotechnology](https://www.recordedfuture.com/research/emerging-threats-neurotechnology)
 
 **Source:** Recorded Future  
 **Published:** Thu, 06 Aug 2026 00:00:00 GMT  
@@ -503,7 +512,7 @@
 
 ---
 
-### 55. [Hype vs. Reality: What the Hugging Face Incident Means for AI Safety](https://www.recordedfuture.com/blog/hugging-face-ai-safety)
+### 56. [Hype vs. Reality: What the Hugging Face Incident Means for AI Safety](https://www.recordedfuture.com/blog/hugging-face-ai-safety)
 
 **Source:** Recorded Future  
 **Published:** Wed, 05 Aug 2026 00:00:00 GMT  
@@ -512,7 +521,7 @@
 
 ---
 
-### 56. [8 Ways AI is Changing Threat Intelligence](https://www.recordedfuture.com/blog/ai-changing-threat-intelligence)
+### 57. [8 Ways AI is Changing Threat Intelligence](https://www.recordedfuture.com/blog/ai-changing-threat-intelligence)
 
 **Source:** Recorded Future  
 **Published:** Mon, 03 Aug 2026 00:00:00 GMT  
@@ -521,7 +530,7 @@
 
 ---
 
-### 57. [Iran War’s Secondary Effects Shape 2026 US Violent Extremism](https://www.recordedfuture.com/research/iran-violent-extremism-landscape)
+### 58. [Iran War’s Secondary Effects Shape 2026 US Violent Extremism](https://www.recordedfuture.com/research/iran-violent-extremism-landscape)
 
 **Source:** Recorded Future  
 **Published:** Thu, 30 Jul 2026 00:00:00 GMT  
@@ -530,7 +539,7 @@
 
 ---
 
-### 58. [Dealing with AI-Generated Extortion](https://www.recordedfuture.com/blog/ai-generated-extortion)
+### 59. [Dealing with AI-Generated Extortion](https://www.recordedfuture.com/blog/ai-generated-extortion)
 
 **Source:** Recorded Future  
 **Published:** Thu, 30 Jul 2026 00:00:00 GMT  
@@ -539,21 +548,12 @@
 
 ---
 
-### 59. [Ransomware is the Scoreboard](https://www.recordedfuture.com/blog/ransomware-is-the-scoreboard)
+### 60. [Ransomware is the Scoreboard](https://www.recordedfuture.com/blog/ransomware-is-the-scoreboard)
 
 **Source:** Recorded Future  
 **Published:** Fri, 24 Jul 2026 00:00:00 GMT  
 **Severity:** Critical  
 **Categories:** Ransomware  
-
----
-
-### 60. [TAG-195 Upgrades MaaS Ecosystem with Modular Tools](https://www.recordedfuture.com/research/tag-195-evolves-maas-ecosystem)
-
-**Source:** Recorded Future  
-**Published:** Thu, 23 Jul 2026 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
@@ -657,7 +657,7 @@
 **Source:** Malwarebytes  
 **Published:** Wed, 12 Aug 2026 14:43:13 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-53415, CVE-2026-53413, CVE-2026-53414  
+**CVEs:** CVE-2026-53413, CVE-2026-53414, CVE-2026-53415  
 **Categories:** Data Breach, Vulnerability  
 
 ---
