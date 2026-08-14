@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-13 17:28:46 UTC
+**Last Updated:** 2026-08-14 02:23:11 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -98,7 +98,61 @@
 
 ---
 
-### 11. [Critical VMware vCenter RCE flaw exploited for reverse SSH access](https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/)
+### 11. [Apple sends new ‘Threat Notification’ alerts over mercenary spyware attacks](https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 13 Aug 2026 21:19:12 -0400  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 12. [Ukraine shuts down 94 fraudulent call centers, seize millions in cash](https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 13 Aug 2026 17:12:47 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 13. [Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt](https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 13 Aug 2026 16:47:02 -0400  
+**Severity:** Low  
+**Categories:** Ransomware, Supply Chain  
+
+---
+
+### 14. [Hackers breach govt webmail while running parallel crypto fraud](https://www.bleepingcomputer.com/news/security/hackers-breach-govt-webmail-while-running-parallel-crypto-fraud/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 13 Aug 2026 14:15:19 -0400  
+**Severity:** Critical  
+**Categories:** Malware  
+
+---
+
+### 15. [Microsoft patches LegacyHive Windows zero-day vulnerability](https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-legacyhive-windows-zero-day-vulnerability/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 13 Aug 2026 13:46:20 -0400  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 16. [AI 'watermark removers' flood the web. Almost none can prove they work.](https://www.bleepingcomputer.com/news/security/ai-watermark-removers-flood-the-web-almost-none-can-prove-they-work/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 13 Aug 2026 13:33:28 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 17. [Critical VMware vCenter RCE flaw exploited for reverse SSH access](https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 13 Aug 2026 12:40:23 -0400  
@@ -108,7 +162,7 @@
 
 ---
 
-### 12. [Trezor discloses data breach affecting nearly 14,000 customers](https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/)
+### 18. [Trezor discloses data breach affecting nearly 14,000 customers](https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 13 Aug 2026 11:13:19 -0400  
@@ -117,7 +171,7 @@
 
 ---
 
-### 13. [Who Vets AI’s Code? The Scale Challenge Facing Open Source Ingestion](https://www.bleepingcomputer.com/news/security/who-vets-ais-code-the-scale-challenge-facing-open-source-ingestion/)
+### 19. [Who Vets AI’s Code? The Scale Challenge Facing Open Source Ingestion](https://www.bleepingcomputer.com/news/security/who-vets-ais-code-the-scale-challenge-facing-open-source-ingestion/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 13 Aug 2026 10:00:10 -0400  
@@ -126,7 +180,7 @@
 
 ---
 
-### 14. [White House taps security firms for offensive hack-back operations](https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/)
+### 20. [White House taps security firms for offensive hack-back operations](https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 13 Aug 2026 09:30:53 -0400  
@@ -135,67 +189,12 @@
 
 ---
 
-### 15. [WhatsApp rolls out new feature that flags potential scam messages](https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 13 Aug 2026 07:50:22 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 16. ["City-Forum" data-theft attacks target Salesforce, ServiceNow portals](https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 12 Aug 2026 19:07:23 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 17. [Android malware combo takes out loans and relays victims' credit cards](https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 12 Aug 2026 18:22:57 -0400  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 18. [Hackers exploit critical Adobe Commerce flaw to hijack customer accounts](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 12 Aug 2026 16:54:59 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-71362  
-**Categories:** Vulnerability  
-
----
-
-### 19. [Hundreds of fake Chrome VPN extensions route traffic through a proxy](https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 12 Aug 2026 14:54:57 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [Plug and Pwn attack uses fake USB devices for Windows SYSTEM access](https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 12 Aug 2026 12:05:12 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
 ### 21. [Microsoft Plugs Nearly 400 Security Holes](https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-68820, CVE-2026-72971, CVE-2026-62832  
+**CVEs:** CVE-2026-62832, CVE-2026-68820, CVE-2026-72971  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -232,7 +231,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50661, CVE-2026-56164, CVE-2026-56155, CVE-2026-48561  
+**CVEs:** CVE-2026-48561, CVE-2026-56164, CVE-2026-50661, CVE-2026-56155  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -325,7 +324,7 @@
 **Source:** Security Week  
 **Published:** Thu, 13 Aug 2026 10:40:57 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-49975, CVE-2026-26035, CVE-2026-70465, CVE-2026-70468  
+**CVEs:** CVE-2026-70465, CVE-2026-49975, CVE-2026-26035, CVE-2026-70468  
 **Categories:** Vulnerability  
 
 ---
@@ -364,7 +363,7 @@
 **Source:** Security Week  
 **Published:** Wed, 12 Aug 2026 14:47:01 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50522, CVE-2026-58644, CVE-2026-63520, CVE-2026-45659, CVE-2026-56164, CVE-2026-55040  
+**CVEs:** CVE-2026-56164, CVE-2026-45659, CVE-2026-63520, CVE-2026-58644, CVE-2026-50522, CVE-2026-55040  
 **Categories:** Vulnerability  
 
 ---
@@ -378,7 +377,16 @@
 
 ---
 
-### 41. [Dissecting the JWR phishing framework](https://blog.talosintelligence.com/dissecting-the-jwr-phishing-framework/)
+### 41. [Curiouser and Curiouser](https://blog.talosintelligence.com/curiouser-and-curiouser/)
+
+**Source:** Talos Blog  
+**Published:** Thu, 13 Aug 2026 18:00:18 GMT  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 42. [Dissecting the JWR phishing framework](https://blog.talosintelligence.com/dissecting-the-jwr-phishing-framework/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 13 Aug 2026 10:00:35 GMT  
@@ -387,17 +395,17 @@
 
 ---
 
-### 42. [Microsoft Patch Tuesday for August 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-for-august-2026/)
+### 43. [Microsoft Patch Tuesday for August 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-for-august-2026/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 11 Aug 2026 22:21:02 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62893, CVE-2026-65665, CVE-2026-62823, CVE-2026-68820  
+**CVEs:** CVE-2026-62893, CVE-2026-62823, CVE-2026-68820, CVE-2026-65665  
 **Categories:** Vulnerability  
 
 ---
 
-### 43. [Why metaphor may dictate your security strategy](https://blog.talosintelligence.com/why-metaphor-may-dictate-your-security-strategy/)
+### 44. [Why metaphor may dictate your security strategy](https://blog.talosintelligence.com/why-metaphor-may-dictate-your-security-strategy/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 06 Aug 2026 18:00:01 GMT  
@@ -406,7 +414,7 @@
 
 ---
 
-### 44. [“Keep going, bro. You’ve got this!” A data-driven look at how adversaries are weaponizing AI](https://blog.talosintelligence.com/keep-going-bro-youve-got-this-a-data-driven-look-at-how-adversaries-are-weaponizing-ai/)
+### 45. [“Keep going, bro. You’ve got this!” A data-driven look at how adversaries are weaponizing AI](https://blog.talosintelligence.com/keep-going-bro-youve-got-this-a-data-driven-look-at-how-adversaries-are-weaponizing-ai/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 04 Aug 2026 10:00:11 GMT  
@@ -415,7 +423,7 @@
 
 ---
 
-### 45. [[Webinar] Tales from the Frontlines: An exclusive briefing on Q2 incidents](https://blog.talosintelligence.com/webinar-tales-from-the-frontlines-an-exclusive-briefing-on-q2-incidents/)
+### 46. [[Webinar] Tales from the Frontlines: An exclusive briefing on Q2 incidents](https://blog.talosintelligence.com/webinar-tales-from-the-frontlines-an-exclusive-briefing-on-q2-incidents/)
 
 **Source:** Talos Blog  
 **Published:** Mon, 03 Aug 2026 16:00:12 GMT  
@@ -424,7 +432,7 @@
 
 ---
 
-### 46. [You were onto something with “It’s the Climb,” Miley](https://blog.talosintelligence.com/you-were-onto-something-with-its-the-climb-miley/)
+### 47. [You were onto something with “It’s the Climb,” Miley](https://blog.talosintelligence.com/you-were-onto-something-with-its-the-climb-miley/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 30 Jul 2026 18:00:35 GMT  
@@ -433,7 +441,7 @@
 
 ---
 
-### 47. [Black Hat special: Rewind and revisit](https://blog.talosintelligence.com/black-hat-special-rewind-and-revisit/)
+### 48. [Black Hat special: Rewind and revisit](https://blog.talosintelligence.com/black-hat-special-rewind-and-revisit/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 30 Jul 2026 10:00:08 GMT  
@@ -442,7 +450,7 @@
 
 ---
 
-### 48. [IR Trends Q2 2026: Phishing and weaponized remote management tools drive attack chains](https://blog.talosintelligence.com/ir-trends-q2-2026/)
+### 49. [IR Trends Q2 2026: Phishing and weaponized remote management tools drive attack chains](https://blog.talosintelligence.com/ir-trends-q2-2026/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 28 Jul 2026 10:00:01 GMT  
@@ -451,21 +459,12 @@
 
 ---
 
-### 49. [Don’t swing at everything](https://blog.talosintelligence.com/dont-swing-at-everything/)
+### 50. [Don’t swing at everything](https://blog.talosintelligence.com/dont-swing-at-everything/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 23 Jul 2026 18:00:46 GMT  
 **Severity:** Low  
 **Categories:** Vulnerability  
-
----
-
-### 50. [Chaos ransomware's msaRAT: Living off the browser to build a covert C2 channel](https://blog.talosintelligence.com/chaos-msarat-living-off-the-browser-to-build-covert-c2-channel/)
-
-**Source:** Talos Blog  
-**Published:** Thu, 23 Jul 2026 10:00:38 GMT  
-**Severity:** Low  
-**Categories:** Ransomware, Malware  
 
 ---
 
@@ -639,7 +638,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -677,7 +676,7 @@
 **Source:** Malwarebytes  
 **Published:** Wed, 12 Aug 2026 14:43:13 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-53414, CVE-2026-53413, CVE-2026-53415  
+**CVEs:** CVE-2026-53414, CVE-2026-53415, CVE-2026-53413  
 **Categories:** Data Breach, Vulnerability  
 
 ---
