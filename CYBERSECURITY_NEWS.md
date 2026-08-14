@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-14 13:17:52 UTC
+**Last Updated:** 2026-08-14 17:28:40 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -98,7 +98,36 @@
 
 ---
 
-### 11. [Shell investigates 'potential incident' after Clop data theft claims](https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/)
+### 11. [Hackers exploit macOS Screen Sharing flaw to deploy Monero miner](https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 14 Aug 2026 10:59:55 -0400  
+**Severity:** Low  
+**CVEs:** CVE-2026-65400  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI](https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 14 Aug 2026 10:00:10 -0400  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 13. [Max severity SAP Commerce Cloud flaw now targeted in attacks](https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 14 Aug 2026 09:45:18 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-58231  
+**Categories:** Vulnerability, APT  
+
+---
+
+### 14. [Shell investigates 'potential incident' after Clop data theft claims](https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 14 Aug 2026 07:55:45 -0400  
@@ -108,7 +137,7 @@
 
 ---
 
-### 12. [RingCentral data breach exposed info of 1.6 million accounts](https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/)
+### 15. [RingCentral data breach exposed info of 1.6 million accounts](https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 14 Aug 2026 06:52:05 -0400  
@@ -117,7 +146,7 @@
 
 ---
 
-### 13. [Data analyst sent to prison for stealing data, extorting employer](https://www.bleepingcomputer.com/news/security/data-analyst-sent-to-prison-for-stealing-data-extorting-employer/)
+### 16. [Data analyst sent to prison for stealing data, extorting employer](https://www.bleepingcomputer.com/news/security/data-analyst-sent-to-prison-for-stealing-data-extorting-employer/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 14 Aug 2026 04:27:18 -0400  
@@ -126,7 +155,7 @@
 
 ---
 
-### 14. [Apple sends new ‘Threat Notification’ alerts over mercenary spyware attacks](https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/)
+### 17. [Apple sends new ‘Threat Notification’ alerts over mercenary spyware attacks](https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 13 Aug 2026 21:19:12 -0400  
@@ -135,7 +164,7 @@
 
 ---
 
-### 15. [Ukraine shuts down 94 fraudulent call centers, seize millions in cash](https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/)
+### 18. [Ukraine shuts down 94 fraudulent call centers, seize millions in cash](https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 13 Aug 2026 17:12:47 -0400  
@@ -144,7 +173,7 @@
 
 ---
 
-### 16. [Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt](https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/)
+### 19. [Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt](https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 13 Aug 2026 16:47:02 -0400  
@@ -153,40 +182,12 @@
 
 ---
 
-### 17. [Hackers breach govt webmail while running parallel crypto fraud](https://www.bleepingcomputer.com/news/security/hackers-breach-govt-webmail-while-running-parallel-crypto-fraud/)
+### 20. [Hackers breach govt webmail while running parallel crypto fraud](https://www.bleepingcomputer.com/news/security/hackers-breach-govt-webmail-while-running-parallel-crypto-fraud/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 13 Aug 2026 14:15:19 -0400  
 **Severity:** Critical  
 **Categories:** Malware  
-
----
-
-### 18. [Microsoft patches LegacyHive Windows zero-day vulnerability](https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-legacyhive-windows-zero-day-vulnerability/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 13 Aug 2026 13:46:20 -0400  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 19. [AI 'watermark removers' flood the web. Almost none can prove they work.](https://www.bleepingcomputer.com/news/security/ai-watermark-removers-flood-the-web-almost-none-can-prove-they-work/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 13 Aug 2026 13:33:28 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [Critical VMware vCenter RCE flaw exploited for reverse SSH access](https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 13 Aug 2026 12:40:23 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-59310  
-**Categories:** Vulnerability  
 
 ---
 
@@ -204,7 +205,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-68820, CVE-2026-62832, CVE-2026-72971  
+**CVEs:** CVE-2026-72971, CVE-2026-62832, CVE-2026-68820  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -241,7 +242,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50661, CVE-2026-56164, CVE-2026-48561, CVE-2026-56155  
+**CVEs:** CVE-2026-50661, CVE-2026-56155, CVE-2026-48561, CVE-2026-56164  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -397,7 +398,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 11 Aug 2026 22:21:02 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-68820, CVE-2026-62893, CVE-2026-65665, CVE-2026-62823  
+**CVEs:** CVE-2026-65665, CVE-2026-62823, CVE-2026-62893, CVE-2026-68820  
 **Categories:** Vulnerability  
 
 ---
@@ -635,7 +636,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -691,7 +692,7 @@
 **Source:** Malwarebytes  
 **Published:** Wed, 12 Aug 2026 14:43:13 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-53413, CVE-2026-53414, CVE-2026-53415  
+**CVEs:** CVE-2026-53415, CVE-2026-53413, CVE-2026-53414  
 **Categories:** Data Breach, Vulnerability  
 
 ---
@@ -701,7 +702,7 @@
 **Source:** Malwarebytes  
 **Published:** Wed, 12 Aug 2026 13:48:49 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62893, CVE-2026-62832  
+**CVEs:** CVE-2026-62832, CVE-2026-62893  
 **Categories:** Vulnerability, Phishing, APT  
 
 ---
