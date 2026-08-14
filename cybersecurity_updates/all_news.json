@@ -191,6 +191,46 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Shell investigates 'potential incident' after Clop data theft claims",
+    "link": "https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/",
+    "published": "Fri, 14 Aug 2026 07:55:45 -0400",
+    "summary": "Oil giant Shell has confirmed it is investigating a potential security incident after the Clop ransomware gang claimed it stole 89GB of data. [...]",
+    "analysis": {
+      "issue": "Oil giant Shell has confirmed it is investigating a potential security incident after the Clop ransomware gang claimed it stole 89GB of data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-12569"
+      ],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "RingCentral data breach exposed info of 1.6 million accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
+    "published": "Fri, 14 Aug 2026 06:52:05 -0400",
+    "summary": "The ShinyHunters extortion group stole personal information from 1.6 million RingCentral accounts after hacking the company in July, according to the data breach notification service Have I Been Pwned. [...]",
+    "analysis": {
+      "issue": "The ShinyHunters extortion group stole personal information from 1",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Data analyst sent to prison for stealing data, extorting employer",
     "link": "https://www.bleepingcomputer.com/news/security/data-analyst-sent-to-prison-for-stealing-data-extorting-employer/",
     "published": "Fri, 14 Aug 2026 04:27:18 -0400",
@@ -337,40 +377,20 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Trezor discloses data breach affecting nearly 14,000 customers",
-    "link": "https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/",
-    "published": "Thu, 13 Aug 2026 11:13:19 -0400",
-    "summary": "Hardware wallet manufacturer Trezor disclosed a data breach affecting nearly 14,000 of its customers after ShipMonk, its shipping and logistics provider, was hacked [...]",
+    "source": "Krebs On Security",
+    "title": "Who’s Tracking You? Use This New Service to Find Out",
+    "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
+    "published": "Fri, 14 Aug 2026 11:24:35 +0000",
+    "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large advertising platforms. Not anymore: A powerful and free new service called DecryptAds scrapes and correlates this adtech data and makes it simple to quickly learn a great deal about the entities that are tracking you.",
     "analysis": {
-      "issue": "Hardware wallet manufacturer Trezor disclosed a data breach affecting nearly 14,000 of its customers after ShipMonk, its shipping and logistics provider, was hacked",
+      "issue": "It can be daunting to determine who’s responsible for showing ads on the websites we visit, or who’s harvesting data from the mobile apps we use every day",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Data Breach",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Who Vets AI’s Code? The Scale Challenge Facing Open Source Ingestion",
-    "link": "https://www.bleepingcomputer.com/news/security/who-vets-ais-code-the-scale-challenge-facing-open-source-ingestion/",
-    "published": "Thu, 13 Aug 2026 10:00:10 -0400",
-    "summary": "AI coding tools can introduce unvetted or hallucinated open source dependencies faster than traditional security reviews can keep pace. ActiveState explains why organizations should govern packages at the point of selection, before they enter the development pipeline. [...]",
-    "analysis": {
-      "issue": "By Jonny Rivera, Head of Product at ActiveState During our conversations on the show floor at Black Hat last week, one question came up in almost every discussion our team had with AppSec leads, platform engineers, and CISOs: Who is actually vetting ",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
+        "Malware"
       ]
     }
   },
@@ -387,9 +407,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-72971",
+        "CVE-2026-68820",
         "CVE-2026-62832",
-        "CVE-2026-68820"
+        "CVE-2026-72971"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -466,10 +486,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56155",
-        "CVE-2026-48561",
+        "CVE-2026-50661",
         "CVE-2026-56164",
-        "CVE-2026-50661"
+        "CVE-2026-48561",
+        "CVE-2026-56155"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -553,20 +573,83 @@
     }
   },
   {
-    "source": "Krebs On Security",
-    "title": "‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm",
-    "link": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
-    "published": "Thu, 18 Jun 2026 17:37:58 +0000",
-    "summary": "For the past four years, a sprawling Android-based botnet called Popa has forced millions of consumer TV boxes to relay Internet traffic linked to advertising fraud, account takeovers, and mass data-scraping efforts. This week, researchers from multiple security firms concluded that the Popa botnet is linked to NetNut, a \"residential proxy\" provider operated by the publicly-traded Israeli firm Alarum Technologies Ltd [NASDAQ: ALAR].",
+    "source": "Security Week",
+    "title": "In Other News: Rapid7 Layoffs, Hacking a Boeing 737, Refrigeration System Vulnerabilities",
+    "link": "https://www.securityweek.com/in-other-news-rapid7-layoffs-hacking-a-boeing-737-refrigeration-system-vulnerabilities/",
+    "published": "Fri, 14 Aug 2026 11:57:51 +0000",
+    "summary": "<p>Noteworthy stories that might have slipped under the radar: government AI platform deal sparks outrage, North Korean IT worker breaches federal agency, DEF CON attendee blamed for Delta flight disruption.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-rapid7-layoffs-hacking-a-boeing-737-refrigeration-system-vulnerabilities/\">In Other News: Rapid7 Layoffs, Hacking a Boeing 737, Refrigeration System Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
-      "issue": "For the past four years, a sprawling Android-based botnet called Popa has forced millions of consumer TV boxes to relay Internet traffic linked to advertising fraud, account takeovers, and mass data-scraping efforts",
+      "issue": "Noteworthy stories that might have slipped under the radar: government AI platform deal sparks outrage, North Korean IT worker breaches federal agency, DEF CON attendee blamed for Delta flight disruption",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Trivy, Not LiteLLM Behind the 2,500 Org Compromise",
+    "link": "https://www.securityweek.com/trivy-not-litellm-behind-the-2500-org-compromise/",
+    "published": "Fri, 14 Aug 2026 11:35:23 +0000",
+    "summary": "<p>Over 95% of the affected companies were exposed before the malicious LiteLLM packages were published.</p>\n<p>The post <a href=\"https://www.securityweek.com/trivy-not-litellm-behind-the-2500-org-compromise/\">Trivy, Not LiteLLM Behind the 2,500 Org Compromise</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Over 95% of the affected companies were exposed before the malicious LiteLLM packages were published",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "APT",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Google Cloud Sets Out Post-Quantum Roadmap With 2029 Readiness Goal",
+    "link": "https://www.securityweek.com/google-cloud-sets-out-post-quantum-roadmap-with-2029-readiness-goal/",
+    "published": "Fri, 14 Aug 2026 11:00:00 +0000",
+    "summary": "<p>Google Cloud outlines its roadmap to full post-quantum cryptography readiness, with key milestones targeted for 2027 and 2028.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-cloud-sets-out-post-quantum-roadmap-with-2029-readiness-goal/\">Google Cloud Sets Out Post-Quantum Roadmap With 2029 Readiness Goal</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Google Cloud outlines its roadmap to full post-quantum cryptography readiness, with key milestones targeted for 2027 and 2028",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "1.6 Million Likely Impacted by RingCentral Data Breach",
+    "link": "https://www.securityweek.com/1-6-million-likely-impacted-by-ringcentral-data-breach/",
+    "published": "Fri, 14 Aug 2026 10:24:03 +0000",
+    "summary": "<p>The hackers published the allegedly stolen information, including names, addresses, email addresses, and phone numbers.</p>\n<p>The post <a href=\"https://www.securityweek.com/1-6-million-likely-impacted-by-ringcentral-data-breach/\">1.6 Million Likely Impacted by RingCentral Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The hackers published the allegedly stolen information, including names, addresses, email addresses, and phone numbers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Malware",
+        "Supply Chain"
       ]
     }
   },
@@ -687,86 +770,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "WordPress 7.0.4 Patches Remote Code Execution Vulnerability",
-    "link": "https://www.securityweek.com/wordpress-7-0-4-patches-remote-code-execution-vulnerability/",
-    "published": "Thu, 13 Aug 2026 12:53:56 +0000",
-    "summary": "<p>Attackers with Author-level user or higher permissions could exploit the flaw via malicious Postscript files.</p>\n<p>The post <a href=\"https://www.securityweek.com/wordpress-7-0-4-patches-remote-code-execution-vulnerability/\">WordPress 7.0.4 Patches Remote Code Execution Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Attackers with Author-level user or higher permissions could exploit the flaw via malicious Postscript files",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-65640"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Venture Firm Team8 Secures Additional $365 Million",
-    "link": "https://www.securityweek.com/venture-firm-team8-secures-additional-365-million/",
-    "published": "Thu, 13 Aug 2026 11:42:48 +0000",
-    "summary": "<p>The Israeli company has nearly $2 billion in total assets under management since 2014.</p>\n<p>The post <a href=\"https://www.securityweek.com/venture-firm-team8-secures-additional-365-million/\">Venture Firm Team8 Secures Additional $365 Million</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The Israeli company has nearly $2 billion in total assets under management since 2014",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Fortinet Patches Authentication Flaws in FortiWeb and FortiManager",
-    "link": "https://www.securityweek.com/fortinet-patches-authentication-flaws-in-fortiweb-and-fortimanager/",
-    "published": "Thu, 13 Aug 2026 10:40:57 +0000",
-    "summary": "<p>The vulnerabilities could allow attackers to log in with random usernames and passwords or impersonate any FortiGate appliance.</p>\n<p>The post <a href=\"https://www.securityweek.com/fortinet-patches-authentication-flaws-in-fortiweb-and-fortimanager/\">Fortinet Patches Authentication Flaws in FortiWeb and FortiManager</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The vulnerabilities could allow attackers to log in with random usernames and passwords or impersonate any FortiGate appliance",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-70465",
-        "CVE-2026-49975",
-        "CVE-2026-26035",
-        "CVE-2026-70468"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "White House Mobilizes Security Firms for Operations Against Foreign Cybercrime Gangs",
-    "link": "https://www.securityweek.com/white-house-mobilizes-security-firms-for-operations-against-foreign-cybercrime-gangs/",
-    "published": "Thu, 13 Aug 2026 09:53:04 +0000",
-    "summary": "<p>Contracts may require a $1 million bond, which will be forfeited if a company fails to comply with operational requirements.</p>\n<p>The post <a href=\"https://www.securityweek.com/white-house-mobilizes-security-firms-for-operations-against-foreign-cybercrime-gangs/\">White House Mobilizes Security Firms for Operations Against Foreign Cybercrime Gangs</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Contracts may require a $1 million bond, which will be forfeited if a company fails to comply with operational requirements",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Curiouser and Curiouser",
     "link": "https://blog.talosintelligence.com/curiouser-and-curiouser/",
@@ -816,10 +819,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-65665",
+        "CVE-2026-68820",
         "CVE-2026-62893",
-        "CVE-2026-62823",
-        "CVE-2026-68820"
+        "CVE-2026-65665",
+        "CVE-2026-62823"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1304,8 +1307,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1330,6 +1333,43 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Apple now uses iPhone alerts for targets of mercenary spyware",
+    "link": "https://www.malwarebytes.com/blog/news/2026/08/apple-now-uses-iphone-alerts-for-targets-of-mercenary-spyware",
+    "published": "Fri, 14 Aug 2026 12:46:29 GMT",
+    "summary": "Apple explains how Threat Notifications help protect iPhone users targeted by mercenary spyware.",
+    "analysis": {
+      "issue": "Apple has expanded its threat-notification system for targets of mercenary spyware",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "WhatsApp is testing a new warning for scam messages",
+    "link": "https://www.malwarebytes.com/blog/news/2026/08/whatsapp-is-testing-a-new-warning-for-scam-messages",
+    "published": "Fri, 14 Aug 2026 12:05:43 GMT",
+    "summary": "An optional new feature uses on-device AI to flag messages that look like scams.",
+    "analysis": {
+      "issue": "Meta announced it’s rolling out a new feature for WhatsApp users in the fight against scammers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1384,8 +1424,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-53413",
-        "CVE-2026-53415",
-        "CVE-2026-53414"
+        "CVE-2026-53414",
+        "CVE-2026-53415"
       ],
       "threat_categories": [
         "Data Breach",
@@ -1406,8 +1446,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-62832",
-        "CVE-2026-62893"
+        "CVE-2026-62893",
+        "CVE-2026-62832"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1486,42 +1526,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Love/hate relationship: The AI affair. Young people love AI, but it’s breaking their trust",
-    "link": "https://www.malwarebytes.com/blog/ai/2026/08/love-hate-relationship-the-ai-affair-young-people-love-ai-but-its-breaking-their-trust",
-    "published": "Tue, 11 Aug 2026 12:30:00 GMT",
-    "summary": "The same technology making our lives easier is also making it harder. How are young people navigating this new world?",
-    "analysis": {
-      "issue": "Young people use AI for everything",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Watch out for fake TikTok Shops trying to steal your money",
-    "link": "https://www.malwarebytes.com/blog/scams/2026/08/watch-out-for-fake-tiktok-shops-trying-to-steal-your-money",
-    "published": "Tue, 11 Aug 2026 09:05:57 GMT",
-    "summary": "TikTok Shop is huge, so it's no wonder that impersonation shops have popped up. Here's how to stay safe.",
-    "analysis": {
-      "issue": "TikTok Shop is a real, functioning e-commerce feature built into the TikTok app, allowing users to buy goods without ever leaving TikTok",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
       ]
     }
   },

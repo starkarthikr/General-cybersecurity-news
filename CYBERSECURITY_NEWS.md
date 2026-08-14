@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-14 09:36:08 UTC
+**Last Updated:** 2026-08-14 13:17:52 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -98,7 +98,26 @@
 
 ---
 
-### 11. [Data analyst sent to prison for stealing data, extorting employer](https://www.bleepingcomputer.com/news/security/data-analyst-sent-to-prison-for-stealing-data-extorting-employer/)
+### 11. [Shell investigates 'potential incident' after Clop data theft claims](https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 14 Aug 2026 07:55:45 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-12569  
+**Categories:** Ransomware, Vulnerability  
+
+---
+
+### 12. [RingCentral data breach exposed info of 1.6 million accounts](https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 14 Aug 2026 06:52:05 -0400  
+**Severity:** Low  
+**Categories:** Ransomware, Data Breach  
+
+---
+
+### 13. [Data analyst sent to prison for stealing data, extorting employer](https://www.bleepingcomputer.com/news/security/data-analyst-sent-to-prison-for-stealing-data-extorting-employer/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 14 Aug 2026 04:27:18 -0400  
@@ -107,7 +126,7 @@
 
 ---
 
-### 12. [Apple sends new ‘Threat Notification’ alerts over mercenary spyware attacks](https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/)
+### 14. [Apple sends new ‘Threat Notification’ alerts over mercenary spyware attacks](https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 13 Aug 2026 21:19:12 -0400  
@@ -116,7 +135,7 @@
 
 ---
 
-### 13. [Ukraine shuts down 94 fraudulent call centers, seize millions in cash](https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/)
+### 15. [Ukraine shuts down 94 fraudulent call centers, seize millions in cash](https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 13 Aug 2026 17:12:47 -0400  
@@ -125,7 +144,7 @@
 
 ---
 
-### 14. [Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt](https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/)
+### 16. [Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt](https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 13 Aug 2026 16:47:02 -0400  
@@ -134,7 +153,7 @@
 
 ---
 
-### 15. [Hackers breach govt webmail while running parallel crypto fraud](https://www.bleepingcomputer.com/news/security/hackers-breach-govt-webmail-while-running-parallel-crypto-fraud/)
+### 17. [Hackers breach govt webmail while running parallel crypto fraud](https://www.bleepingcomputer.com/news/security/hackers-breach-govt-webmail-while-running-parallel-crypto-fraud/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 13 Aug 2026 14:15:19 -0400  
@@ -143,7 +162,7 @@
 
 ---
 
-### 16. [Microsoft patches LegacyHive Windows zero-day vulnerability](https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-legacyhive-windows-zero-day-vulnerability/)
+### 18. [Microsoft patches LegacyHive Windows zero-day vulnerability](https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-legacyhive-windows-zero-day-vulnerability/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 13 Aug 2026 13:46:20 -0400  
@@ -152,7 +171,7 @@
 
 ---
 
-### 17. [AI 'watermark removers' flood the web. Almost none can prove they work.](https://www.bleepingcomputer.com/news/security/ai-watermark-removers-flood-the-web-almost-none-can-prove-they-work/)
+### 19. [AI 'watermark removers' flood the web. Almost none can prove they work.](https://www.bleepingcomputer.com/news/security/ai-watermark-removers-flood-the-web-almost-none-can-prove-they-work/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 13 Aug 2026 13:33:28 -0400  
@@ -161,7 +180,7 @@
 
 ---
 
-### 18. [Critical VMware vCenter RCE flaw exploited for reverse SSH access](https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/)
+### 20. [Critical VMware vCenter RCE flaw exploited for reverse SSH access](https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 13 Aug 2026 12:40:23 -0400  
@@ -171,35 +190,26 @@
 
 ---
 
-### 19. [Trezor discloses data breach affecting nearly 14,000 customers](https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/)
+### 21. [Who’s Tracking You? Use This New Service to Find Out](https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/)
 
-**Source:** Bleeping Computer  
-**Published:** Thu, 13 Aug 2026 11:13:19 -0400  
+**Source:** Krebs On Security  
+**Published:** Fri, 14 Aug 2026 11:24:35 +0000  
 **Severity:** Low  
-**Categories:** Data Breach, Phishing  
+**Categories:** Malware  
 
 ---
 
-### 20. [Who Vets AI’s Code? The Scale Challenge Facing Open Source Ingestion](https://www.bleepingcomputer.com/news/security/who-vets-ais-code-the-scale-challenge-facing-open-source-ingestion/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 13 Aug 2026 10:00:10 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability, Supply Chain  
-
----
-
-### 21. [Microsoft Plugs Nearly 400 Security Holes](https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/)
+### 22. [Microsoft Plugs Nearly 400 Security Holes](https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-72971, CVE-2026-62832, CVE-2026-68820  
+**CVEs:** CVE-2026-68820, CVE-2026-62832, CVE-2026-72971  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 22. [Canadian Man Pleads Guilty in Snowflake Extortions](https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/)
+### 23. [Canadian Man Pleads Guilty in Snowflake Extortions](https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 06 Aug 2026 17:00:56 +0000  
@@ -208,7 +218,7 @@
 
 ---
 
-### 23. [Read This Before You Buy That TV Streaming Stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/)
+### 24. [Read This Before You Buy That TV Streaming Stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 30 Jul 2026 16:49:00 +0000  
@@ -217,7 +227,7 @@
 
 ---
 
-### 24. [LG to Ban Residential Proxies from Smart TV Apps](https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/)
+### 25. [LG to Ban Residential Proxies from Smart TV Apps](https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 22 Jul 2026 01:10:38 +0000  
@@ -226,17 +236,17 @@
 
 ---
 
-### 25. [Microsoft Patches a Record 570 Security Flaws](https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/)
+### 26. [Microsoft Patches a Record 570 Security Flaws](https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56155, CVE-2026-48561, CVE-2026-56164, CVE-2026-50661  
+**CVEs:** CVE-2026-50661, CVE-2026-56164, CVE-2026-48561, CVE-2026-56155  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 26. [Lessons Learned from CISA’s Recent GitHub Leak](https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/)
+### 27. [Lessons Learned from CISA’s Recent GitHub Leak](https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 13 Jul 2026 15:03:28 +0000  
@@ -245,7 +255,7 @@
 
 ---
 
-### 27. [Felons, Fraudsters Flog Offensive Cybersecurity Startup](https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/)
+### 28. [Felons, Fraudsters Flog Offensive Cybersecurity Startup](https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 08 Jul 2026 12:31:39 +0000  
@@ -254,7 +264,7 @@
 
 ---
 
-### 28. [FBI Seizes NetNut Proxy Platform, Popa Botnet](https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/)
+### 29. [FBI Seizes NetNut Proxy Platform, Popa Botnet](https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 02 Jul 2026 19:27:33 +0000  
@@ -263,7 +273,7 @@
 
 ---
 
-### 29. [Scattered Spider Hackers Plead Guilty on Day 1 of Trial](https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/)
+### 30. [Scattered Spider Hackers Plead Guilty on Day 1 of Trial](https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 23 Jun 2026 16:12:49 +0000  
@@ -272,16 +282,43 @@
 
 ---
 
-### 30. [‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm](https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/)
+### 31. [In Other News: Rapid7 Layoffs, Hacking a Boeing 737, Refrigeration System Vulnerabilities](https://www.securityweek.com/in-other-news-rapid7-layoffs-hacking-a-boeing-737-refrigeration-system-vulnerabilities/)
 
-**Source:** Krebs On Security  
-**Published:** Thu, 18 Jun 2026 17:37:58 +0000  
-**Severity:** Low  
-**Categories:** Malware  
+**Source:** Security Week  
+**Published:** Fri, 14 Aug 2026 11:57:51 +0000  
+**Severity:** Critical  
+**Categories:** Ransomware, Data Breach, Vulnerability, Supply Chain  
 
 ---
 
-### 31. [Over 1,000 Charities Hit by Beacon CRM Data Breach](https://www.securityweek.com/over-1000-charities-hit-by-beacon-crm-data-breach/)
+### 32. [Trivy, Not LiteLLM Behind the 2,500 Org Compromise](https://www.securityweek.com/trivy-not-litellm-behind-the-2500-org-compromise/)
+
+**Source:** Security Week  
+**Published:** Fri, 14 Aug 2026 11:35:23 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, Malware, APT, Supply Chain  
+
+---
+
+### 33. [Google Cloud Sets Out Post-Quantum Roadmap With 2029 Readiness Goal](https://www.securityweek.com/google-cloud-sets-out-post-quantum-roadmap-with-2029-readiness-goal/)
+
+**Source:** Security Week  
+**Published:** Fri, 14 Aug 2026 11:00:00 +0000  
+**Severity:** Low  
+**Categories:** Supply Chain  
+
+---
+
+### 34. [1.6 Million Likely Impacted by RingCentral Data Breach](https://www.securityweek.com/1-6-million-likely-impacted-by-ringcentral-data-breach/)
+
+**Source:** Security Week  
+**Published:** Fri, 14 Aug 2026 10:24:03 +0000  
+**Severity:** Low  
+**Categories:** Ransomware, Data Breach, Malware, Supply Chain  
+
+---
+
+### 35. [Over 1,000 Charities Hit by Beacon CRM Data Breach](https://www.securityweek.com/over-1000-charities-hit-by-beacon-crm-data-breach/)
 
 **Source:** Security Week  
 **Published:** Fri, 14 Aug 2026 09:20:28 +0000  
@@ -290,7 +327,7 @@
 
 ---
 
-### 32. [14,000 Trezor Customers Impacted by Data Breach at ShipMonk](https://www.securityweek.com/14000-trezor-customers-impacted-by-data-breach-at-shipmonk/)
+### 36. [14,000 Trezor Customers Impacted by Data Breach at ShipMonk](https://www.securityweek.com/14000-trezor-customers-impacted-by-data-breach-at-shipmonk/)
 
 **Source:** Security Week  
 **Published:** Fri, 14 Aug 2026 08:16:00 +0000  
@@ -299,7 +336,7 @@
 
 ---
 
-### 33. [Hackers Exploiting Unpatched GeoServer Zero-Day](https://www.securityweek.com/hackers-exploiting-unpatched-geoserver-zero-day/)
+### 37. [Hackers Exploiting Unpatched GeoServer Zero-Day](https://www.securityweek.com/hackers-exploiting-unpatched-geoserver-zero-day/)
 
 **Source:** Security Week  
 **Published:** Fri, 14 Aug 2026 07:01:56 +0000  
@@ -308,7 +345,7 @@
 
 ---
 
-### 34. [AmnesiaStealer macOS Malware Steals Data, Controls Browser Sessions](https://www.securityweek.com/amnesiastealer-macos-malware-steals-data-controls-browser-sessions/)
+### 38. [AmnesiaStealer macOS Malware Steals Data, Controls Browser Sessions](https://www.securityweek.com/amnesiastealer-macos-malware-steals-data-controls-browser-sessions/)
 
 **Source:** Security Week  
 **Published:** Fri, 14 Aug 2026 06:41:43 +0000  
@@ -318,7 +355,7 @@
 
 ---
 
-### 35. [Cybersecurity M&A Roundup: 21 Deals Announced in July 2026](https://www.securityweek.com/cybersecurity-ma-roundup-21-deals-announced-in-july-2026/)
+### 39. [Cybersecurity M&A Roundup: 21 Deals Announced in July 2026](https://www.securityweek.com/cybersecurity-ma-roundup-21-deals-announced-in-july-2026/)
 
 **Source:** Security Week  
 **Published:** Thu, 13 Aug 2026 14:41:44 +0000  
@@ -327,50 +364,12 @@
 
 ---
 
-### 36. [Adobe Commerce Bug Targeted Immediately After Disclosure](https://www.securityweek.com/adobe-commerce-bug-targeted-immediately-after-disclosure/)
+### 40. [Adobe Commerce Bug Targeted Immediately After Disclosure](https://www.securityweek.com/adobe-commerce-bug-targeted-immediately-after-disclosure/)
 
 **Source:** Security Week  
 **Published:** Thu, 13 Aug 2026 14:17:44 +0000  
 **Severity:** Critical  
 **CVEs:** CVE-2026-71362  
-**Categories:** Vulnerability  
-
----
-
-### 37. [WordPress 7.0.4 Patches Remote Code Execution Vulnerability](https://www.securityweek.com/wordpress-7-0-4-patches-remote-code-execution-vulnerability/)
-
-**Source:** Security Week  
-**Published:** Thu, 13 Aug 2026 12:53:56 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-65640  
-**Categories:** Vulnerability, Supply Chain  
-
----
-
-### 38. [Venture Firm Team8 Secures Additional $365 Million](https://www.securityweek.com/venture-firm-team8-secures-additional-365-million/)
-
-**Source:** Security Week  
-**Published:** Thu, 13 Aug 2026 11:42:48 +0000  
-**Severity:** Critical  
-**Categories:** General Security  
-
----
-
-### 39. [Fortinet Patches Authentication Flaws in FortiWeb and FortiManager](https://www.securityweek.com/fortinet-patches-authentication-flaws-in-fortiweb-and-fortimanager/)
-
-**Source:** Security Week  
-**Published:** Thu, 13 Aug 2026 10:40:57 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-70465, CVE-2026-49975, CVE-2026-26035, CVE-2026-70468  
-**Categories:** Vulnerability  
-
----
-
-### 40. [White House Mobilizes Security Firms for Operations Against Foreign Cybercrime Gangs](https://www.securityweek.com/white-house-mobilizes-security-firms-for-operations-against-foreign-cybercrime-gangs/)
-
-**Source:** Security Week  
-**Published:** Thu, 13 Aug 2026 09:53:04 +0000  
-**Severity:** Critical  
 **Categories:** Vulnerability  
 
 ---
@@ -398,7 +397,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 11 Aug 2026 22:21:02 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-65665, CVE-2026-62893, CVE-2026-62823, CVE-2026-68820  
+**CVEs:** CVE-2026-68820, CVE-2026-62893, CVE-2026-65665, CVE-2026-62823  
 **Categories:** Vulnerability  
 
 ---
@@ -636,7 +635,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -651,7 +650,25 @@
 
 ---
 
-### 71. [New Android malware lets criminals use your bank card in real time](https://www.malwarebytes.com/blog/mobile/2026/08/new-android-malware-lets-criminals-use-your-bank-card-in-real-time)
+### 71. [Apple now uses iPhone alerts for targets of mercenary spyware](https://www.malwarebytes.com/blog/news/2026/08/apple-now-uses-iphone-alerts-for-targets-of-mercenary-spyware)
+
+**Source:** Malwarebytes  
+**Published:** Fri, 14 Aug 2026 12:46:29 GMT  
+**Severity:** High  
+**Categories:** Vulnerability, APT  
+
+---
+
+### 72. [WhatsApp is testing a new warning for scam messages](https://www.malwarebytes.com/blog/news/2026/08/whatsapp-is-testing-a-new-warning-for-scam-messages)
+
+**Source:** Malwarebytes  
+**Published:** Fri, 14 Aug 2026 12:05:43 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 73. [New Android malware lets criminals use your bank card in real time](https://www.malwarebytes.com/blog/mobile/2026/08/new-android-malware-lets-criminals-use-your-bank-card-in-real-time)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 13 Aug 2026 11:34:25 GMT  
@@ -660,7 +677,7 @@
 
 ---
 
-### 72. [Parents take on Meta, TikTok, Google, and Snap in 3,000 youth safety lawsuits](https://www.malwarebytes.com/blog/privacy/2026/08/parents-take-on-meta-tiktok-google-and-snap-in-3000-youth-safety-lawsuits)
+### 74. [Parents take on Meta, TikTok, Google, and Snap in 3,000 youth safety lawsuits](https://www.malwarebytes.com/blog/privacy/2026/08/parents-take-on-meta-tiktok-google-and-snap-in-3000-youth-safety-lawsuits)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 13 Aug 2026 09:59:48 GMT  
@@ -669,27 +686,27 @@
 
 ---
 
-### 73. [“Zoomsday” flaws could let one Zoom participant attack another](https://www.malwarebytes.com/blog/bugs/2026/08/zoomsday-flaws-could-let-one-zoom-participant-attack-another)
+### 75. [“Zoomsday” flaws could let one Zoom participant attack another](https://www.malwarebytes.com/blog/bugs/2026/08/zoomsday-flaws-could-let-one-zoom-participant-attack-another)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 12 Aug 2026 14:43:13 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-53413, CVE-2026-53415, CVE-2026-53414  
+**CVEs:** CVE-2026-53413, CVE-2026-53414, CVE-2026-53415  
 **Categories:** Data Breach, Vulnerability  
 
 ---
 
-### 74. [Patch Tuesday: Update now to fix 421 flaws, including three zero-days](https://www.malwarebytes.com/blog/bugs/2026/08/patch-tuesday-update-now-to-fix-421-flaws-including-three-zero-days)
+### 76. [Patch Tuesday: Update now to fix 421 flaws, including three zero-days](https://www.malwarebytes.com/blog/bugs/2026/08/patch-tuesday-update-now-to-fix-421-flaws-including-three-zero-days)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 12 Aug 2026 13:48:49 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62832, CVE-2026-62893  
+**CVEs:** CVE-2026-62893, CVE-2026-62832  
 **Categories:** Vulnerability, Phishing, APT  
 
 ---
 
-### 75. [Fake CCleaner installs GhostDesk Chrome spyware](https://www.malwarebytes.com/blog/threat-intel/2026/08/fake-ccleaner-installs-ghostdesk-chrome-spyware)
+### 77. [Fake CCleaner installs GhostDesk Chrome spyware](https://www.malwarebytes.com/blog/threat-intel/2026/08/fake-ccleaner-installs-ghostdesk-chrome-spyware)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 11 Aug 2026 20:41:27 GMT  
@@ -698,7 +715,7 @@
 
 ---
 
-### 76. [Valve warns Steam hardware buyers: Expect fake delivery scams](https://www.malwarebytes.com/blog/data-breaches/2026/08/valve-warns-steam-hardware-buyers-expect-fake-delivery-scams)
+### 78. [Valve warns Steam hardware buyers: Expect fake delivery scams](https://www.malwarebytes.com/blog/data-breaches/2026/08/valve-warns-steam-hardware-buyers-expect-fake-delivery-scams)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 11 Aug 2026 16:31:55 GMT  
@@ -707,7 +724,7 @@
 
 ---
 
-### 77. [Social media platforms crack down on drone factory recruiting game](https://www.malwarebytes.com/blog/news/2026/08/social-media-platforms-crack-down-on-drone-factory-recruiting-game)
+### 79. [Social media platforms crack down on drone factory recruiting game](https://www.malwarebytes.com/blog/news/2026/08/social-media-platforms-crack-down-on-drone-factory-recruiting-game)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 11 Aug 2026 16:05:56 GMT  
@@ -716,30 +733,12 @@
 
 ---
 
-### 78. [Sexual predators targeting online accounts for intimate images, FBI warns](https://www.malwarebytes.com/blog/news/2026/08/sexual-predators-targeting-online-accounts-for-intimate-images-fbi-warns)
+### 80. [Sexual predators targeting online accounts for intimate images, FBI warns](https://www.malwarebytes.com/blog/news/2026/08/sexual-predators-targeting-online-accounts-for-intimate-images-fbi-warns)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 11 Aug 2026 13:39:07 GMT  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 79. [Love/hate relationship: The AI affair. Young people love AI, but it’s breaking their trust](https://www.malwarebytes.com/blog/ai/2026/08/love-hate-relationship-the-ai-affair-young-people-love-ai-but-its-breaking-their-trust)
-
-**Source:** Malwarebytes  
-**Published:** Tue, 11 Aug 2026 12:30:00 GMT  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 80. [Watch out for fake TikTok Shops trying to steal your money](https://www.malwarebytes.com/blog/scams/2026/08/watch-out-for-fake-tiktok-shops-trying-to-steal-your-money)
-
-**Source:** Malwarebytes  
-**Published:** Tue, 11 Aug 2026 09:05:57 GMT  
-**Severity:** High  
-**Categories:** Supply Chain  
 
 ---
 
