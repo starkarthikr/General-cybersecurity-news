@@ -191,6 +191,42 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "How Anthropic plans to watermark Claude's AI-generated text",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/",
+    "published": "Fri, 14 Aug 2026 19:24:17 -0400",
+    "summary": "It could soon become easier to identify AI-generated content, even if it's not the usual \"It's Not X, it's Y\" type of post you'd come across on LinkedIn and other socials. [...]",
+    "analysis": {
+      "issue": "It could soon become easier to identify AI-generated content, even if it's not the usual \"It's Not X, it's Y\" type of post you'd come across on LinkedIn and other socials",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Hackers arrested over €30M bank fraud exploiting service provider flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/",
+    "published": "Fri, 14 Aug 2026 14:04:26 -0400",
+    "summary": "Four cybercriminals were arrested in Brazil, and three others were charged in Europe over allegations that they exploited a vulnerability at a service provider, allowing them to withdraw funds from Commerzbank customers' bank accounts. [...]",
+    "analysis": {
+      "issue": "Four cybercriminals were arrested in Brazil, and three others were charged in Europe over allegations that they exploited a vulnerability at a service provider, allowing them to withdraw funds from Commerzbank customers’ bank accounts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
     "published": "Fri, 14 Aug 2026 10:59:55 -0400",
@@ -343,43 +379,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt",
-    "link": "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/",
-    "published": "Thu, 13 Aug 2026 16:47:02 -0400",
-    "summary": "An Akira ransomware affiliate disabled the endpoint detection and response (EDR) solution on a compromised system by restarting the machine into Safe Mode with Networking. [...]",
-    "analysis": {
-      "issue": "An Akira ransomware affiliate disabled the endpoint detection and response (EDR) solution on a compromised system by restarting the machine into Safe Mode with Networking",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers breach govt webmail while running parallel crypto fraud",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-govt-webmail-while-running-parallel-crypto-fraud/",
-    "published": "Thu, 13 Aug 2026 14:15:19 -0400",
-    "summary": "The Jewelbug hacker group has been carrying out espionage operations targeting governments and militaries while also engaging in cryptocurrency fraud. [...]",
-    "analysis": {
-      "issue": "The Jewelbug hacker group has been carrying out espionage operations targeting governments and militaries while also engaging in cryptocurrency fraud",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Who’s Tracking You? Use This New Service to Find Out",
     "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
@@ -410,8 +409,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-72971",
         "CVE-2026-62832",
+        "CVE-2026-72971",
         "CVE-2026-68820"
       ],
       "threat_categories": [
@@ -822,10 +821,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-65665",
         "CVE-2026-62823",
         "CVE-2026-62893",
-        "CVE-2026-68820"
+        "CVE-2026-68820",
+        "CVE-2026-65665"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1426,9 +1425,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-53415",
+        "CVE-2026-53414",
         "CVE-2026-53413",
-        "CVE-2026-53414"
+        "CVE-2026-53415"
       ],
       "threat_categories": [
         "Data Breach",
