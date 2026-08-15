@@ -409,9 +409,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-62832",
         "CVE-2026-72971",
-        "CVE-2026-68820"
+        "CVE-2026-68820",
+        "CVE-2026-62832"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -488,10 +488,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50661",
-        "CVE-2026-56155",
+        "CVE-2026-56164",
         "CVE-2026-48561",
-        "CVE-2026-56164"
+        "CVE-2026-50661",
+        "CVE-2026-56155"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -821,10 +821,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-62823",
-        "CVE-2026-62893",
+        "CVE-2026-65665",
         "CVE-2026-68820",
-        "CVE-2026-65665"
+        "CVE-2026-62823",
+        "CVE-2026-62893"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1425,9 +1425,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-53414",
+        "CVE-2026-53415",
         "CVE-2026-53413",
-        "CVE-2026-53415"
+        "CVE-2026-53414"
       ],
       "threat_categories": [
         "Data Breach",
