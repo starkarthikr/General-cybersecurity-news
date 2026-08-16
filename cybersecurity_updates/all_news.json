@@ -191,6 +191,24 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "New AmnesiaStealer macOS malware hijacks browser sessions via remote control",
+    "link": "https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/",
+    "published": "Sun, 16 Aug 2026 11:07:44 -0400",
+    "summary": "A new information-stealing malware called AmnesiaStealer, which targets macOS users via ClickFix attacks, includes a streaming module that allows the attacker to interactively control the victim's web browser. [...]",
+    "analysis": {
+      "issue": "A new information-stealing malware called AmnesiaStealer, which targets macOS users via ClickFix attacks, includes a streaming module that allows the attacker to interactively control the victim's web browser",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "New Evooo1Bot Linux botnet turns routers into traffic relay nodes",
     "link": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
     "published": "Sat, 15 Aug 2026 10:14:38 -0400",
@@ -365,24 +383,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Apple sends new ‘Threat Notification’ alerts over mercenary spyware attacks",
-    "link": "https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/",
-    "published": "Thu, 13 Aug 2026 21:19:12 -0400",
-    "summary": "You're not alone if you just received an \"Apple Threat Notification\" saying it detected a \"mercenary spyware attack targeted at your iPhone.\" [...]",
-    "analysis": {
-      "issue": "You're not alone if you just received an \"Apple Threat Notification\" saying it detected a \"mercenary spyware attack targeted at your iPhone",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Who’s Tracking You? Use This New Service to Find Out",
     "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
@@ -494,8 +494,8 @@
       "cves": [
         "CVE-2026-48561",
         "CVE-2026-56155",
-        "CVE-2026-56164",
-        "CVE-2026-50661"
+        "CVE-2026-50661",
+        "CVE-2026-56164"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -825,10 +825,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-62823",
         "CVE-2026-62893",
+        "CVE-2026-68820",
         "CVE-2026-65665",
-        "CVE-2026-68820"
+        "CVE-2026-62823"
       ],
       "threat_categories": [
         "Vulnerability"
