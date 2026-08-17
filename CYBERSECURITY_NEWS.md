@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-17 12:53:57 UTC
+**Last Updated:** 2026-08-17 16:55:29 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [How MCP Servers Can Expose Enterprise Secrets](https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html)
+### 1. [⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More](https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 17 Aug 2026 18:53:51 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 2. [How MCP Servers Can Expose Enterprise Secrets](https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 17 Aug 2026 17:28:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access](https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html)
+### 3. [Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access](https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 17 Aug 2026 16:22:34 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies](https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html)
+### 4. [Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies](https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 17 Aug 2026 14:59:55 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware](https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html)
+### 5. [Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware](https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 17 Aug 2026 13:06:19 +0530  
@@ -41,7 +50,7 @@
 
 ---
 
-### 5. [SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch](https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html)
+### 6. [SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch](https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 15 Aug 2026 14:08:46 +0530  
@@ -51,7 +60,7 @@
 
 ---
 
-### 6. [Apple macOS Screen Sharing Flaw Exploited on Internet-Exposed Macs to Install Monero Miner](https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html)
+### 7. [Apple macOS Screen Sharing Flaw Exploited on Internet-Exposed Macs to Install Monero Miner](https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 15 Aug 2026 12:54:04 +0530  
@@ -61,7 +70,7 @@
 
 ---
 
-### 7. [Hackers Spend Nearly $7 Million on Expired Domains to Redirect Traffic to Scams and Malware](https://thehackernews.com/2026/08/hackers-spend-nearly-7-million-on.html)
+### 8. [Hackers Spend Nearly $7 Million on Expired Domains to Redirect Traffic to Scams and Malware](https://thehackernews.com/2026/08/hackers-spend-nearly-7-million-on.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 15 Aug 2026 00:18:46 +0530  
@@ -70,7 +79,7 @@
 
 ---
 
-### 8. [IAM Compliance Requirements and Best Practices](https://thehackernews.com/2026/08/iam-compliance-requirements-and-best.html)
+### 9. [IAM Compliance Requirements and Best Practices](https://thehackernews.com/2026/08/iam-compliance-requirements-and-best.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 14 Aug 2026 22:49:49 +0530  
@@ -79,7 +88,7 @@
 
 ---
 
-### 9. [Mustang Panda Adds Signed Windows Rootkit to CoolClient Backdoor for Stealth](https://thehackernews.com/2026/08/mustang-panda-adds-signed-windows.html)
+### 10. [Mustang Panda Adds Signed Windows Rootkit to CoolClient Backdoor for Stealth](https://thehackernews.com/2026/08/mustang-panda-adds-signed-windows.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 14 Aug 2026 18:38:56 +0530  
@@ -88,16 +97,26 @@
 
 ---
 
-### 10. [Chrome DevTools Technique Enables Authenticated Session Hijacking in Live Windows Browsers](https://thehackernews.com/2026/08/chrome-devtools-technique-enables.html)
+### 11. [Microsoft confirms GitHub is down worldwide](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 14 Aug 2026 16:37:45 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 17 Aug 2026 10:47:08 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 11. [Windows Server 2022 reaches end of mainstream support in 60 days](https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/)
+### 12. [Certighost and the Privilege Hiding in Your Certificate Authority](https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 17 Aug 2026 10:00:10 -0400  
+**Severity:** Low  
+**CVEs:** CVE-2026-54121  
+**Categories:** Vulnerability  
+
+---
+
+### 13. [Windows Server 2022 reaches end of mainstream support in 60 days](https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 17 Aug 2026 08:33:11 -0400  
@@ -106,7 +125,7 @@
 
 ---
 
-### 12. [Philips and GE investigating Clop ransomware data theft claims](https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/)
+### 14. [Philips and GE investigating Clop ransomware data theft claims](https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 17 Aug 2026 07:25:02 -0400  
@@ -116,7 +135,7 @@
 
 ---
 
-### 13. [French tax authority data breach affects 678,000 individuals](https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/)
+### 15. [French tax authority data breach affects 678,000 individuals](https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 17 Aug 2026 06:09:48 -0400  
@@ -125,7 +144,7 @@
 
 ---
 
-### 14. [Microsoft working on Defender patch for ShieldBreak zero-day](https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/)
+### 16. [Microsoft working on Defender patch for ShieldBreak zero-day](https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 17 Aug 2026 05:05:33 -0400  
@@ -135,7 +154,7 @@
 
 ---
 
-### 15. [SafePal data breach impacts 39,798 customers, stolen info for sale](https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/)
+### 17. [SafePal data breach impacts 39,798 customers, stolen info for sale](https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 16 Aug 2026 19:47:06 -0400  
@@ -144,7 +163,7 @@
 
 ---
 
-### 16. [Anthropic confirms Claude is down in major outage affecting multiple services](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/)
+### 18. [Anthropic confirms Claude is down in major outage affecting multiple services](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 16 Aug 2026 18:28:57 -0400  
@@ -153,7 +172,7 @@
 
 ---
 
-### 17. [Large-scale DDoS attacks disrupted Threema secure messaging service](https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/)
+### 19. [Large-scale DDoS attacks disrupted Threema secure messaging service](https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 16 Aug 2026 13:29:52 -0400  
@@ -162,30 +181,12 @@
 
 ---
 
-### 18. [New AmnesiaStealer macOS malware hijacks browser sessions via remote control](https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/)
+### 20. [New AmnesiaStealer macOS malware hijacks browser sessions via remote control](https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 16 Aug 2026 11:07:44 -0400  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 19. [New Evooo1Bot Linux botnet turns routers into traffic relay nodes](https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 15 Aug 2026 10:14:38 -0400  
-**Severity:** Low  
-**Categories:** Data Breach, Vulnerability, Malware, Phishing, DDoS  
-
----
-
-### 20. [How Anthropic plans to watermark Claude's AI-generated text](https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 14 Aug 2026 19:24:17 -0400  
-**Severity:** High  
-**Categories:** General Security  
 
 ---
 
@@ -240,7 +241,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48561, CVE-2026-56155, CVE-2026-56164, CVE-2026-50661  
+**CVEs:** CVE-2026-56155, CVE-2026-48561, CVE-2026-50661, CVE-2026-56164  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -281,7 +282,16 @@
 
 ---
 
-### 31. [Irregular Details How a Naming Error Let AI Models Attack a Real Company](https://www.securityweek.com/irregular-details-how-a-naming-error-let-ai-models-attack-a-real-company/)
+### 31. [680,000 Impacted by French Tax Authority Data Breach](https://www.securityweek.com/680000-impacted-by-french-tax-authority-data-breach/)
+
+**Source:** Security Week  
+**Published:** Mon, 17 Aug 2026 13:53:55 +0000  
+**Severity:** Low  
+**Categories:** Data Breach, Supply Chain  
+
+---
+
+### 32. [Irregular Details How a Naming Error Let AI Models Attack a Real Company](https://www.securityweek.com/irregular-details-how-a-naming-error-let-ai-models-attack-a-real-company/)
 
 **Source:** Security Week  
 **Published:** Mon, 17 Aug 2026 12:11:00 +0000  
@@ -290,7 +300,7 @@
 
 ---
 
-### 32. [Conflicting Test Goals Pushed Claude Agents to Deploy Self-Replicating Malware](https://www.securityweek.com/conflicting-test-goals-pushed-claude-agents-to-deploy-self-replicating-malware/)
+### 33. [Conflicting Test Goals Pushed Claude Agents to Deploy Self-Replicating Malware](https://www.securityweek.com/conflicting-test-goals-pushed-claude-agents-to-deploy-self-replicating-malware/)
 
 **Source:** Security Week  
 **Published:** Mon, 17 Aug 2026 11:09:57 +0000  
@@ -299,7 +309,7 @@
 
 ---
 
-### 33. [40,000 Impacted by SafePal Data Breach](https://www.securityweek.com/40000-impacted-by-safepal-data-breach/)
+### 34. [40,000 Impacted by SafePal Data Breach](https://www.securityweek.com/40000-impacted-by-safepal-data-breach/)
 
 **Source:** Security Week  
 **Published:** Mon, 17 Aug 2026 09:37:06 +0000  
@@ -308,7 +318,7 @@
 
 ---
 
-### 34. [Recent macOS Screen Sharing Vulnerability Exploited in Attacks](https://www.securityweek.com/recent-macos-screen-sharing-vulnerability-exploited-in-attacks/)
+### 35. [Recent macOS Screen Sharing Vulnerability Exploited in Attacks](https://www.securityweek.com/recent-macos-screen-sharing-vulnerability-exploited-in-attacks/)
 
 **Source:** Security Week  
 **Published:** Mon, 17 Aug 2026 08:47:38 +0000  
@@ -318,7 +328,7 @@
 
 ---
 
-### 35. [Critical SAP Commerce Cloud Vulnerability Exploited 3 Days After Disclosure](https://www.securityweek.com/critical-sap-commerce-cloud-vulnerability-exploited-3-days-after-disclosure/)
+### 36. [Critical SAP Commerce Cloud Vulnerability Exploited 3 Days After Disclosure](https://www.securityweek.com/critical-sap-commerce-cloud-vulnerability-exploited-3-days-after-disclosure/)
 
 **Source:** Security Week  
 **Published:** Mon, 17 Aug 2026 08:13:07 +0000  
@@ -328,7 +338,7 @@
 
 ---
 
-### 36. [Fortune 500 Companies Hit in Azure Data Theft Campaign](https://www.securityweek.com/fortune-500-companies-hit-in-azure-data-theft-campaign/)
+### 37. [Fortune 500 Companies Hit in Azure Data Theft Campaign](https://www.securityweek.com/fortune-500-companies-hit-in-azure-data-theft-campaign/)
 
 **Source:** Security Week  
 **Published:** Mon, 17 Aug 2026 06:51:08 +0000  
@@ -337,7 +347,7 @@
 
 ---
 
-### 37. [In Other News: Rapid7 Layoffs, Hacking a Boeing 737, Refrigeration System Vulnerabilities](https://www.securityweek.com/in-other-news-rapid7-layoffs-hacking-a-boeing-737-refrigeration-system-vulnerabilities/)
+### 38. [In Other News: Rapid7 Layoffs, Hacking a Boeing 737, Refrigeration System Vulnerabilities](https://www.securityweek.com/in-other-news-rapid7-layoffs-hacking-a-boeing-737-refrigeration-system-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Fri, 14 Aug 2026 11:57:51 +0000  
@@ -346,7 +356,7 @@
 
 ---
 
-### 38. [Trivy, Not LiteLLM Behind the 2,500 Org Compromise](https://www.securityweek.com/trivy-not-litellm-behind-the-2500-org-compromise/)
+### 39. [Trivy, Not LiteLLM Behind the 2,500 Org Compromise](https://www.securityweek.com/trivy-not-litellm-behind-the-2500-org-compromise/)
 
 **Source:** Security Week  
 **Published:** Fri, 14 Aug 2026 11:35:23 +0000  
@@ -355,21 +365,12 @@
 
 ---
 
-### 39. [Google Cloud Sets Out Post-Quantum Roadmap With 2029 Readiness Goal](https://www.securityweek.com/google-cloud-sets-out-post-quantum-roadmap-with-2029-readiness-goal/)
+### 40. [Google Cloud Sets Out Post-Quantum Roadmap With 2029 Readiness Goal](https://www.securityweek.com/google-cloud-sets-out-post-quantum-roadmap-with-2029-readiness-goal/)
 
 **Source:** Security Week  
 **Published:** Fri, 14 Aug 2026 11:00:00 +0000  
 **Severity:** Low  
 **Categories:** Supply Chain  
-
----
-
-### 40. [1.6 Million Likely Impacted by RingCentral Data Breach](https://www.securityweek.com/1-6-million-likely-impacted-by-ringcentral-data-breach/)
-
-**Source:** Security Week  
-**Published:** Fri, 14 Aug 2026 10:24:03 +0000  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach, Malware, Supply Chain  
 
 ---
 
@@ -396,7 +397,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 11 Aug 2026 22:21:02 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-65665, CVE-2026-62893, CVE-2026-62823, CVE-2026-68820  
+**CVEs:** CVE-2026-62893, CVE-2026-65665, CVE-2026-62823, CVE-2026-68820  
 **Categories:** Vulnerability  
 
 ---
@@ -634,7 +635,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -649,7 +650,17 @@
 
 ---
 
-### 71. [Fake TikTok rewards promise cash you’ll never get](https://www.malwarebytes.com/blog/scams/2026/08/fake-tiktok-rewards-promise-cash-youll-never-get)
+### 71. [ShieldBreak bypasses Microsoft’s patch for earlier Defender flaw](https://www.malwarebytes.com/blog/bugs/2026/08/shieldbreak-bypasses-microsofts-patch-for-earlier-defender-flaw)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 17 Aug 2026 13:34:31 GMT  
+**Severity:** Low  
+**CVEs:** CVE-2026-69414  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 72. [Fake TikTok rewards promise cash you’ll never get](https://www.malwarebytes.com/blog/scams/2026/08/fake-tiktok-rewards-promise-cash-youll-never-get)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 17 Aug 2026 11:15:35 GMT  
@@ -658,7 +669,7 @@
 
 ---
 
-### 72. [Update your Mac: Screen Sharing vulnerability exploited in the wild](https://www.malwarebytes.com/blog/bugs/2026/08/update-your-mac-screen-sharing-vulnerability-exploited-in-the-wild)
+### 73. [Update your Mac: Screen Sharing vulnerability exploited in the wild](https://www.malwarebytes.com/blog/bugs/2026/08/update-your-mac-screen-sharing-vulnerability-exploited-in-the-wild)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 17 Aug 2026 10:56:47 GMT  
@@ -668,7 +679,7 @@
 
 ---
 
-### 73. [Why Facebook’s war on ad blockers could help scammers](https://www.malwarebytes.com/blog/news/2026/08/why-facebooks-war-on-ad-blockers-could-help-scammers)
+### 74. [Why Facebook’s war on ad blockers could help scammers](https://www.malwarebytes.com/blog/news/2026/08/why-facebooks-war-on-ad-blockers-could-help-scammers)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 17 Aug 2026 08:59:07 GMT  
@@ -677,7 +688,7 @@
 
 ---
 
-### 74. [A week in security (August 10 – August 16)](https://www.malwarebytes.com/blog/news/2026/08/a-week-in-security-august-10-august-16)
+### 75. [A week in security (August 10 – August 16)](https://www.malwarebytes.com/blog/news/2026/08/a-week-in-security-august-10-august-16)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 17 Aug 2026 07:01:00 GMT  
@@ -686,7 +697,7 @@
 
 ---
 
-### 75. [Apple now uses iPhone alerts for targets of mercenary spyware](https://www.malwarebytes.com/blog/news/2026/08/apple-now-uses-iphone-alerts-for-targets-of-mercenary-spyware)
+### 76. [Apple now uses iPhone alerts for targets of mercenary spyware](https://www.malwarebytes.com/blog/news/2026/08/apple-now-uses-iphone-alerts-for-targets-of-mercenary-spyware)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 14 Aug 2026 12:46:29 GMT  
@@ -695,7 +706,7 @@
 
 ---
 
-### 76. [WhatsApp is testing a new warning for scam messages](https://www.malwarebytes.com/blog/news/2026/08/whatsapp-is-testing-a-new-warning-for-scam-messages)
+### 77. [WhatsApp is testing a new warning for scam messages](https://www.malwarebytes.com/blog/news/2026/08/whatsapp-is-testing-a-new-warning-for-scam-messages)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 14 Aug 2026 12:05:43 GMT  
@@ -704,7 +715,7 @@
 
 ---
 
-### 77. [New Android malware lets criminals use your bank card in real time](https://www.malwarebytes.com/blog/mobile/2026/08/new-android-malware-lets-criminals-use-your-bank-card-in-real-time)
+### 78. [New Android malware lets criminals use your bank card in real time](https://www.malwarebytes.com/blog/mobile/2026/08/new-android-malware-lets-criminals-use-your-bank-card-in-real-time)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 13 Aug 2026 11:34:25 GMT  
@@ -713,7 +724,7 @@
 
 ---
 
-### 78. [Parents take on Meta, TikTok, Google, and Snap in 3,000 youth safety lawsuits](https://www.malwarebytes.com/blog/privacy/2026/08/parents-take-on-meta-tiktok-google-and-snap-in-3000-youth-safety-lawsuits)
+### 79. [Parents take on Meta, TikTok, Google, and Snap in 3,000 youth safety lawsuits](https://www.malwarebytes.com/blog/privacy/2026/08/parents-take-on-meta-tiktok-google-and-snap-in-3000-youth-safety-lawsuits)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 13 Aug 2026 09:59:48 GMT  
@@ -722,23 +733,13 @@
 
 ---
 
-### 79. [“Zoomsday” flaws could let one Zoom participant attack another](https://www.malwarebytes.com/blog/bugs/2026/08/zoomsday-flaws-could-let-one-zoom-participant-attack-another)
+### 80. [“Zoomsday” flaws could let one Zoom participant attack another](https://www.malwarebytes.com/blog/bugs/2026/08/zoomsday-flaws-could-let-one-zoom-participant-attack-another)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 12 Aug 2026 14:43:13 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-53413, CVE-2026-53415, CVE-2026-53414  
+**CVEs:** CVE-2026-53414, CVE-2026-53415, CVE-2026-53413  
 **Categories:** Data Breach, Vulnerability  
-
----
-
-### 80. [Patch Tuesday: Update now to fix 421 flaws, including three zero-days](https://www.malwarebytes.com/blog/bugs/2026/08/patch-tuesday-update-now-to-fix-421-flaws-including-three-zero-days)
-
-**Source:** Malwarebytes  
-**Published:** Wed, 12 Aug 2026 13:48:49 GMT  
-**Severity:** Critical  
-**CVEs:** CVE-2026-62893, CVE-2026-62832  
-**Categories:** Vulnerability, Phishing, APT  
 
 ---
 

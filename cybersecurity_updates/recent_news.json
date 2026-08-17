@@ -1,6 +1,25 @@
 [
   {
     "source": "The Hacker News",
+    "title": "⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
+    "link": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
+    "published": "Mon, 17 Aug 2026 18:53:51 +0530",
+    "summary": "The expensive attacks are not always the clever ones.\n\nThis week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problems kept spreading farther than the original compromise. A lot of it came down to access that was already there and defenses that assumed nobody would look too closely.\n\nSo, nothing magical. Just a",
+    "analysis": {
+      "issue": "A weekly look at exploited flaws, exposed systems, supply-chain attacks, browser abuse, malware campaigns, and the security risks that mattered most",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "How MCP Servers Can Expose Enterprise Secrets",
     "link": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html",
     "published": "Mon, 17 Aug 2026 17:28:00 +0530",
@@ -173,13 +192,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Chrome DevTools Technique Enables Authenticated Session Hijacking in Live Windows Browsers",
-    "link": "https://thehackernews.com/2026/08/chrome-devtools-technique-enables.html",
-    "published": "Fri, 14 Aug 2026 16:37:45 +0530",
-    "summary": "Cybersecurity researchers have detailed a post-exploitation technique that enables the&nbsp;Chrome DevTools Protocol (CDP)&nbsp;inside a running Google Chrome or Microsoft Edge process on Windows, allowing an operator to access cookies, saved data, and authenticated browser sessions.\n\nThe technique assumes that an operator already has code execution on the Windows host and does not involve",
+    "source": "Bleeping Computer",
+    "title": "Microsoft confirms GitHub is down worldwide",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/",
+    "published": "Mon, 17 Aug 2026 10:47:08 -0400",
+    "summary": "GitHub is down for some users as a widespread outage is causing errors across the website, API, Actions, Pull Requests, and several other services. [...]",
     "analysis": {
-      "issue": "SpecterOps details a Windows technique that enables CDP inside live Chrome or Edge processes to access authenticated browser sessions",
+      "issue": "GitHub is down for some users as a widespread outage is causing errors across the website, API, Actions, Pull Requests, and several other services",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -187,6 +206,26 @@
       "cves": [],
       "threat_categories": [
         "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Certighost and the Privilege Hiding in Your Certificate Authority",
+    "link": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
+    "published": "Mon, 17 Aug 2026 10:00:10 -0400",
+    "summary": "CVE-2026-54121 lets a standard domain user turn your Enterprise CA into a Domain Controller. The patch is the easy part. The lesson is standing privilege, implicit trust, and treating PKI as the Tier 0 identity infrastructure it has always been. [...]",
+    "analysis": {
+      "issue": "Author: Len Noe, Solutions Architect, BeyondTrust Every mature Active Directory environment has a component that quietly holds more power than the people running it usually admit: the Certification Authority (CA)",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-54121"
+      ],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -342,46 +381,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "New Evooo1Bot Linux botnet turns routers into traffic relay nodes",
-    "link": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
-    "published": "Sat, 15 Aug 2026 10:14:38 -0400",
-    "summary": "A new Mirai-based modular Linux botnet malware called Evooo1Bot has been targeting internet-facing gateway devices, turning them into SOCKS5 traffic relay nodes. [...]",
-    "analysis": {
-      "issue": "A new Mirai-based modular Linux botnet malware called Evooo1Bot has been targeting internet-facing gateway devices, turning them into SOCKS5 traffic relay nodes",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability",
-        "Malware",
-        "Phishing",
-        "DDoS"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "How Anthropic plans to watermark Claude's AI-generated text",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/",
-    "published": "Fri, 14 Aug 2026 19:24:17 -0400",
-    "summary": "It could soon become easier to identify AI-generated content, even if it's not the usual \"It's Not X, it's Y\" type of post you'd come across on LinkedIn and other socials. [...]",
-    "analysis": {
-      "issue": "It could soon become easier to identify AI-generated content, even if it's not the usual \"It's Not X, it's Y\" type of post you'd come across on LinkedIn and other socials",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Who’s Tracking You? Use This New Service to Find Out",
     "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
@@ -491,10 +490,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-48561",
         "CVE-2026-56155",
-        "CVE-2026-56164",
-        "CVE-2026-50661"
+        "CVE-2026-48561",
+        "CVE-2026-50661",
+        "CVE-2026-56164"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -574,6 +573,25 @@
       "threat_categories": [
         "Ransomware",
         "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "680,000 Impacted by French Tax Authority Data Breach",
+    "link": "https://www.securityweek.com/680000-impacted-by-french-tax-authority-data-breach/",
+    "published": "Mon, 17 Aug 2026 13:53:55 +0000",
+    "summary": "<p>Hackers used compromised credentials to access enterprise and personal tax-related data.</p>\n<p>The post <a href=\"https://www.securityweek.com/680000-impacted-by-french-tax-authority-data-breach/\">680,000 Impacted by French Tax Authority Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Hackers used compromised credentials to access enterprise and personal tax-related data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Supply Chain"
       ]
     }
   },
@@ -757,27 +775,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "1.6 Million Likely Impacted by RingCentral Data Breach",
-    "link": "https://www.securityweek.com/1-6-million-likely-impacted-by-ringcentral-data-breach/",
-    "published": "Fri, 14 Aug 2026 10:24:03 +0000",
-    "summary": "<p>The hackers published the allegedly stolen information, including names, addresses, email addresses, and phone numbers.</p>\n<p>The post <a href=\"https://www.securityweek.com/1-6-million-likely-impacted-by-ringcentral-data-breach/\">1.6 Million Likely Impacted by RingCentral Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The hackers published the allegedly stolen information, including names, addresses, email addresses, and phone numbers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Malware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Curiouser and Curiouser",
     "link": "https://blog.talosintelligence.com/curiouser-and-curiouser/",
@@ -827,8 +824,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-65665",
         "CVE-2026-62893",
+        "CVE-2026-65665",
         "CVE-2026-62823",
         "CVE-2026-68820"
       ],
@@ -1315,8 +1312,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1341,6 +1338,27 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "ShieldBreak bypasses Microsoft’s patch for earlier Defender flaw",
+    "link": "https://www.malwarebytes.com/blog/bugs/2026/08/shieldbreak-bypasses-microsofts-patch-for-earlier-defender-flaw",
+    "published": "Mon, 17 Aug 2026 13:34:31 GMT",
+    "summary": "The researcher who found RoguePlanet has discovered ShieldBreak, a new way to bypass Microsoft’s fix and gain SYSTEM privileges.",
+    "analysis": {
+      "issue": "Microsoft Defender’s latest patch bypass shows a familiar problem",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-69414"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
       ]
     }
   },
@@ -1506,36 +1524,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-53413",
+        "CVE-2026-53414",
         "CVE-2026-53415",
-        "CVE-2026-53414"
+        "CVE-2026-53413"
       ],
       "threat_categories": [
         "Data Breach",
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Patch Tuesday: Update now to fix 421 flaws, including three zero-days",
-    "link": "https://www.malwarebytes.com/blog/bugs/2026/08/patch-tuesday-update-now-to-fix-421-flaws-including-three-zero-days",
-    "published": "Wed, 12 Aug 2026 13:48:49 GMT",
-    "summary": "Microsoft's August Patch Tuesday fixes 421 vulnerabilities, including three zero-days, 62 critical flaws, and dozens of Office remote code execution bugs.",
-    "analysis": {
-      "issue": "Microsoft’s August 2026 Patch Tuesday addresses 421 Microsoft vulnerabilities, including 62 rated Critical",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-62893",
-        "CVE-2026-62832"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Phishing",
-        "APT"
       ]
     }
   },
