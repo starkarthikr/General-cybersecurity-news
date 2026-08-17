@@ -1,19 +1,35 @@
 [
   {
     "source": "The Hacker News",
-    "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
-    "link": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
-    "published": "Thu, 13 Aug 2026 11:39:48 +0530",
-    "summary": "Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code.\n\nThe vulnerability in question is CVE-2026-55040 (CVSS score: 9.1), which refers to a critical security feature bypass that stems from weak authentication. It was patched by Microsoft as part of its July 2026 Patch Tuesday updates.\n\n\"The authentication",
+    "title": "How MCP Servers Can Expose Enterprise Secrets",
+    "link": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html",
+    "published": "Mon, 17 Aug 2026 17:28:00 +0530",
+    "summary": "MCP servers can expose enterprise secrets through plaintext configuration files, over-permissioned access and prompt injection, often before security teams even know the server is running. As more organizations adopt AI agents into their systems, that exposure can silently become a major gap in MCP server security. The Model Context Protocol (MCP) allows AI agents to reach the tools and data,",
     "analysis": {
-      "issue": "Attackers exploit SharePoint CVE-2026-55040 after a Rapid7 PoC release, forging JWTs to impersonate site users or admins",
+      "issue": "MCP servers can leak enterprise secrets through plaintext config files or prompt injection",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [
-        "CVE-2026-55040"
-      ],
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
+    "link": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
+    "published": "Mon, 17 Aug 2026 16:22:34 +0530",
+    "summary": "Security researchers at SSD Secure Disclosure have published a two-stage exploit chain that achieves full Android kernel access on devices running Unisoc modem firmware through a VoLTE video call, with no fix from the chipset maker.\n\nThe&nbsp;advisory, published August 17, 2026, is the second stage of a chain that began in March 2026, when SSD disclosed&nbsp;remote code execution&nbsp;in the",
+    "analysis": {
+      "issue": "An unpatched Unisoc modem flaw lets code with a VoLTE foothold modify Android kernel memory on T606, T612, and T7250 chipsets",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
       "threat_categories": [
         "Vulnerability"
       ]
@@ -21,142 +37,54 @@
   },
   {
     "source": "The Hacker News",
-    "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
-    "link": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
-    "published": "Wed, 12 Aug 2026 23:09:27 +0530",
-    "summary": "The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense and aerospace companies across France, Germany, Brazil, and India.\n\nThe activity, per Check Point Research, is part of Operation Dream Job, a long-running cyber espionage and",
+    "title": "Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies",
+    "link": "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html",
+    "published": "Mon, 17 Aug 2026 14:59:55 +0530",
+    "summary": "Cybersecurity researchers have flagged a previously undocumented Linux botnet family dubbed Evooo1Bot that derives its core functionality from the Mirai botnet source code and is equipped to turn internet-facing devices into SOCKS proxies.\n\n\"While the malware reuses the DDoS engine from the publicly leaked Mirai source code, it extends the original framework with numerous capabilities, including",
     "analysis": {
-      "issue": "Lazarus-linked attacks exploit Windows CVE-2026-68820 as a zero-day to gain SYSTEM access and deploy Troy against defense and aerospace firms",
+      "issue": "Evooo1Bot exploits known flaws to infect Linux edge devices, then adds SOCKS5 proxying, SSH brute force, credential theft, and DDoS",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-68820"
-      ],
+      "severity": "Low",
+      "cves": [],
       "threat_categories": [
         "Vulnerability",
         "Malware",
-        "APT"
+        "Phishing",
+        "DDoS"
       ]
     }
   },
   {
     "source": "The Hacker News",
-    "title": "737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One",
-    "link": "https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html",
-    "published": "Wed, 12 Aug 2026 19:39:50 +0530",
-    "summary": "A massive set of 737 free VPN and proxy extensions have been found to mainly target Russian-speaking users seeking access to blocked services with an aim to intercept browser traffic and route them through a proxy infrastructure.\n\nThe extensions, published across at least 40 Chrome Web Store developer accounts, racked up 75,486 installs. Of those identified, 274 have been found to impersonate 66",
+    "title": "Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware",
+    "link": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html",
+    "published": "Mon, 17 Aug 2026 13:06:19 +0530",
+    "summary": "Cybersecurity researchers have attributed the exploitation of a newly patched security flaw in Broadcom VMware vCenter to a suspected China-nexus advanced persistent threat (APT).\n\nThe attacks involve the exploitation of CVE-2026-59310 (CVSS score: 9.8), a severe directory-traversal vulnerability in the VMware vCenter server that could be weaponized by a malicious actor to execute arbitrary code",
     "analysis": {
-      "issue": "737 Chrome VPN extensions with 75,486 installs route browser traffic through SOCKS5 proxies, putting the operator in an AitM position",
+      "issue": "A suspected China-nexus actor exploits CVE-2026-59310, compromising an estimated 361 IPs in 47 countries and gaining root execution on vCenter",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [],
+      "cves": [
+        "CVE-2026-59310"
+      ],
       "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
-    "link": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
-    "published": "Wed, 12 Aug 2026 17:17:38 +0530",
-    "summary": "A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs, including API keys and passwords.\n\nThe weakness affected encrypted reasoning objects used by the providers' reasoning APIs, where a block created in one session could be replayed into another and, during testing,",
-    "analysis": {
-      "issue": "Replayable AI reasoning blocks let researchers recover API keys and passwords from public logs; they say the main extraction attack is now mitigated",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Enterprise Defenses Recovered at the Edge and Collapsed Inside",
-    "link": "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html",
-    "published": "Wed, 12 Aug 2026 17:11:34 +0530",
-    "summary": "Enterprise defenses are tuned to catch the attacks that make noise. This year's data shows attackers winning by making none.\n\nAccording to Picus Labs' new Blue Report 2026, which measured more than 338 million real attack simulations across actual client production environments in the first half of 2026, defenses are having one of their strongest years yet. Average prevention effectiveness",
-    "analysis": {
-      "issue": "Picus' Blue Report 2026 finds 69% prevention across more than 338 million simulations, but post-compromise prevention falls to 37%",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
-    "link": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
-    "published": "Wed, 12 Aug 2026 16:43:03 +0530",
-    "summary": "Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code execution and privilege escalation.\n\nThe most severe of the flaws are listed below -\n\n\n  CVE-2026-48362 (CVSS score: 10.0) - An operating system command injection vulnerability in ColdFusion that could",
-    "analysis": {
-      "issue": "Adobe patches seven ColdFusion, Commerce, and Campaign Classic flaws that could enable code execution, privilege escalation, or denial-of-service",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
-    "link": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
-    "published": "Wed, 12 Aug 2026 14:31:54 +0530",
-    "summary": "Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO.\n\nThe vulnerability in question is CVE-2026-59310 (CVSS score: 9.8), a directory-traversal vulnerability in the VMware vCenter server that a malicious actor with network access can exploit to execute arbitrary code. Patches for the flaw were",
-    "analysis": {
-      "issue": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access | Read more hacking news on The Hacker News cybersecurity news website and learn how to protect against cyberattacks and software vulnerabilities",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
+        "Ransomware",
         "Vulnerability"
       ]
     }
   },
   {
     "source": "The Hacker News",
-    "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
-    "link": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
-    "published": "Wed, 12 Aug 2026 13:34:52 +0530",
-    "summary": "Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from systems that installed them.\n\nThreat intelligence firm CloudSEK now says a dataset it obtained, built from roughly 434,000 files the attackers captured, maps potential exposure to more",
+    "title": "SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch",
+    "link": "https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html",
+    "published": "Sat, 15 Aug 2026 14:08:46 +0530",
+    "summary": "A maximum-severity security vulnerability impacting SAP Commerce Cloud is witnessing active exploitation efforts.\n\nThe vulnerability, tracked as CVE-2026-58231, is rated 10.0 on the CVSS scoring system. It relates to an instance of insufficient authorization checks and input validation.\n\n\"SAP Commerce Cloud allows an unauthenticated attacker to abuse a default authentication client and submit",
     "analysis": {
-      "issue": "Malicious LiteLLM PyPI releases stole cloud and SSH keys, Kubernetes tokens, and other secrets, potentially exposing 2,500+ organizations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
-    "link": "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html",
-    "published": "Wed, 12 Aug 2026 13:01:40 +0530",
-    "summary": "SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution.\n\nThe vulnerability, assigned the CVE identifier CVE-2026-58231, is rated 10.0 on the CVSS scoring system. It has been described as a case of insufficient authorization checks and input validation.\n\n\"SAP Commerce Cloud allows an",
-    "analysis": {
-      "issue": "SAP fixes CVE-2026-58231, a CVSS 10",
+      "issue": "SAP Commerce Cloud CVE-2026-58231 sees exploitation attempts three days after the patch; the CVSS 10",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -171,21 +99,151 @@
   },
   {
     "source": "The Hacker News",
-    "title": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
-    "link": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html",
-    "published": "Wed, 12 Aug 2026 12:11:38 +0530",
-    "summary": "The security researcher going by the name Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has released a proof-of-concept (PoC) for a new Microsoft zero-day called ShieldBreak.\n\nThe vulnerability, rooted in Microsoft Defender for Windows, demonstrates a patch bypass for CVE-2026-50656 (CVSS score: 7.8), otherwise known as RoguePlanet.\n\nRoguePlanet has been described",
+    "title": "Apple macOS Screen Sharing Flaw Exploited on Internet-Exposed Macs to Install Monero Miner",
+    "link": "https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html",
+    "published": "Sat, 15 Aug 2026 12:54:04 +0530",
+    "summary": "A recently patched security flaw in Apple macOS has come under active exploitation in the wild to deploy a cryptocurrency miner, the Netherlands National Cyber Security Centre (NCSC) has warned.\n\nThe vulnerability in question is CVE-2026-65400 (CVSS score: 9.8), a critical authentication issue impacting the Screen Sharing component that could allow an attacker already on the network to",
     "analysis": {
-      "issue": "ShieldBreak is a claimed patch bypass for Defender flaw CVE-2026-50656, with a PoC tested on Windows 11 25H2 and Server 2025",
+      "issue": "Apple's CVE-2026-65400 Screen Sharing flaw is under active exploitation on internet-exposed Macs to install a Monero miner",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-50656"
+        "CVE-2026-65400"
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Hackers Spend Nearly $7 Million on Expired Domains to Redirect Traffic to Scams and Malware",
+    "link": "https://thehackernews.com/2026/08/hackers-spend-nearly-7-million-on.html",
+    "published": "Sat, 15 Aug 2026 00:18:46 +0530",
+    "summary": "Threat actors are acquiring expired domains to inherit website traffic and reputation to redirect victims to scams and malware on a large scale.\n\nDNS threat intelligence firm Infoblox has given the name dropcatch domains to those that get a second chance, where an expired domain becomes available for registration and is then snapped up by another party.\n\nDuring the first half of 2026, 50,400",
+    "analysis": {
+      "issue": "About 65,000 dropcatch domains are re-registered daily in H1 2026; threat actors exploit some for inherited traffic, reputation, scams, and malware",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "IAM Compliance Requirements and Best Practices",
+    "link": "https://thehackernews.com/2026/08/iam-compliance-requirements-and-best.html",
+    "published": "Fri, 14 Aug 2026 22:49:49 +0530",
+    "summary": "IAM compliance is the practice of demonstrating that identity and access controls are not only documented but actually enforced across users, applications, infrastructure, and non-human identities. This guide explains what IAM compliance requires, which regulations matter, and how organizations move from periodic access reviews toward continuous, evidence-backed verification that auditors can",
+    "analysis": {
+      "issue": "IAM compliance works only when organizations verify access controls across applications and infrastructure, not just document policy",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Mustang Panda Adds Signed Windows Rootkit to CoolClient Backdoor for Stealth",
+    "link": "https://thehackernews.com/2026/08/mustang-panda-adds-signed-windows.html",
+    "published": "Fri, 14 Aug 2026 18:38:56 +0530",
+    "summary": "The threat actor known as HoneyMyte (aka&nbsp;Mustang Panda) has been observed deploying an updated version of the CoolClient backdoor with a signed Windows kernel-mode rootkit that can hide and protect malicious processes, files, registry objects, and command-and-control (C2) network information.\n\nRussian cybersecurity vendor Kaspersky said it identified victims in Myanmar, Mongolia, Pakistan,",
+    "analysis": {
+      "issue": "HoneyMyte deploys an updated CoolClient backdoor with a signed Windows rootkit that hides malicious processes, files, registry objects, and C2 data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Chrome DevTools Technique Enables Authenticated Session Hijacking in Live Windows Browsers",
+    "link": "https://thehackernews.com/2026/08/chrome-devtools-technique-enables.html",
+    "published": "Fri, 14 Aug 2026 16:37:45 +0530",
+    "summary": "Cybersecurity researchers have detailed a post-exploitation technique that enables the&nbsp;Chrome DevTools Protocol (CDP)&nbsp;inside a running Google Chrome or Microsoft Edge process on Windows, allowing an operator to access cookies, saved data, and authenticated browser sessions.\n\nThe technique assumes that an operator already has code execution on the Windows host and does not involve",
+    "analysis": {
+      "issue": "SpecterOps details a Windows technique that enables CDP inside live Chrome or Edge processes to access authenticated browser sessions",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Windows Server 2022 reaches end of mainstream support in 60 days",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/",
+    "published": "Mon, 17 Aug 2026 08:33:11 -0400",
+    "summary": "Microsoft has reminded IT administrators that Windows Server 2022 is rapidly approaching its mainstream end date of October 2026, when it will switch to extended support. [...]",
+    "analysis": {
+      "issue": "Microsoft has reminded IT administrators that Windows Server 2022 is rapidly approaching its mainstream end date of October 2026, when it will switch to extended support",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Philips and GE investigating Clop ransomware data theft claims",
+    "link": "https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/",
+    "published": "Mon, 17 Aug 2026 07:25:02 -0400",
+    "summary": "Tech giants General Electric (GE) and Philips have also confirmed they're investigating claims that the Clop ransomware gang breached their systems and stole data. [...]",
+    "analysis": {
+      "issue": "Tech giants General Electric (GE) and Philips have also confirmed they're investigating claims that the Clop ransomware gang breached their systems and stole data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-12569"
+      ],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "French tax authority data breach affects 678,000 individuals",
+    "link": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/",
+    "published": "Mon, 17 Aug 2026 06:09:48 -0400",
+    "summary": "The French Ministry of the Economy and Finance has disclosed a data breach after an attacker accessed the General Directorate of Public Finances (DGFiP) systems and stole data belonging to 678,000 individuals. [...]",
+    "analysis": {
+      "issue": "The French Ministry of the Economy and Finance has disclosed a data breach after an attacker accessed the General Directorate of Public Finances (DGFiP) systems and stole data belonging to 678,000 individuals",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
       ]
     }
   },
@@ -324,62 +382,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Hackers arrested over €30M bank fraud exploiting service provider flaw",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/",
-    "published": "Fri, 14 Aug 2026 14:04:26 -0400",
-    "summary": "Four cybercriminals were arrested in Brazil, and three others were charged in Europe over allegations that they exploited a vulnerability at a service provider, allowing them to withdraw funds from Commerzbank customers' bank accounts. [...]",
-    "analysis": {
-      "issue": "Four cybercriminals were arrested in Brazil, and three others were charged in Europe over allegations that they exploited a vulnerability at a service provider, allowing them to withdraw funds from Commerzbank customers’ bank accounts",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
-    "published": "Fri, 14 Aug 2026 10:59:55 -0400",
-    "summary": "The Netherlands' National Cyber Security Centre (NCSC) is warning that hackers are actively exploiting a macOS authentication bypass vulnerability after public exploit code emerged. [...]",
-    "analysis": {
-      "issue": "The Netherlands’ National Cyber Security Centre (NCSC) is warning that hackers are actively exploiting a macOS authentication bypass vulnerability after public exploit code emerged",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-65400"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI",
-    "link": "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/",
-    "published": "Fri, 14 Aug 2026 10:00:10 -0400",
-    "summary": "Google Workspace attacks do not always begin with phishing. Stolen OAuth tokens can provide another path into Gmail, Drive, and connected systems. Material Security explains why organizations need defenses that cover the entire Workspace attack chain. [...]",
-    "analysis": {
-      "issue": "By Rajan Kapoor, VP Security, Material Security Over the past two months, I've written about the Vercel breach and the Composio breach separately",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Who’s Tracking You? Use This New Service to Find Out",
     "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
@@ -410,9 +412,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-62832",
         "CVE-2026-72971",
-        "CVE-2026-68820"
+        "CVE-2026-68820",
+        "CVE-2026-62832"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -489,9 +491,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-48561",
         "CVE-2026-56155",
         "CVE-2026-56164",
-        "CVE-2026-48561",
         "CVE-2026-50661"
       ],
       "threat_categories": [
@@ -577,6 +579,65 @@
   },
   {
     "source": "Security Week",
+    "title": "Irregular Details How a Naming Error Let AI Models Attack a Real Company",
+    "link": "https://www.securityweek.com/irregular-details-how-a-naming-error-let-ai-models-attack-a-real-company/",
+    "published": "Mon, 17 Aug 2026 12:11:00 +0000",
+    "summary": "<p>The AI security testing firm has shared information on a recently disclosed incident involving Anthropic AI models.</p>\n<p>The post <a href=\"https://www.securityweek.com/irregular-details-how-a-naming-error-let-ai-models-attack-a-real-company/\">Irregular Details How a Naming Error Let AI Models Attack a Real Company </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The AI security testing firm has shared information on a recently disclosed incident involving Anthropic AI models",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Conflicting Test Goals Pushed Claude Agents to Deploy Self-Replicating Malware",
+    "link": "https://www.securityweek.com/conflicting-test-goals-pushed-claude-agents-to-deploy-self-replicating-malware/",
+    "published": "Mon, 17 Aug 2026 11:09:57 +0000",
+    "summary": "<p>Anthropic has been conducting tests to identify issues in how AI agents interact with each other.</p>\n<p>The post <a href=\"https://www.securityweek.com/conflicting-test-goals-pushed-claude-agents-to-deploy-self-replicating-malware/\">Conflicting Test Goals Pushed Claude Agents to Deploy Self-Replicating Malware</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Anthropic has been conducting tests to identify issues in how AI agents interact with each other",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "40,000 Impacted by SafePal Data Breach",
+    "link": "https://www.securityweek.com/40000-impacted-by-safepal-data-breach/",
+    "published": "Mon, 17 Aug 2026 09:37:06 +0000",
+    "summary": "<p>Hackers exploited a vulnerability in the order-tracking function of a plugin to access SafePal customer information.</p>\n<p>The post <a href=\"https://www.securityweek.com/40000-impacted-by-safepal-data-breach/\">40,000 Impacted by SafePal Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Hackers exploited a vulnerability in the order-tracking function of a plugin to access SafePal customer information",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability",
+        "Phishing",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Recent macOS Screen Sharing Vulnerability Exploited in Attacks",
     "link": "https://www.securityweek.com/recent-macos-screen-sharing-vulnerability-exploited-in-attacks/",
     "published": "Mon, 17 Aug 2026 08:47:38 +0000",
@@ -608,8 +669,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2019-0344",
-        "CVE-2026-58231"
+        "CVE-2026-58231",
+        "CVE-2019-0344"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -717,63 +778,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Over 1,000 Charities Hit by Beacon CRM Data Breach",
-    "link": "https://www.securityweek.com/over-1000-charities-hit-by-beacon-crm-data-breach/",
-    "published": "Fri, 14 Aug 2026 09:20:28 +0000",
-    "summary": "<p>The root cause of the incident is believed to be a compromised AWS access key that was exposed in publicly available JavaScript build artifacts.</p>\n<p>The post <a href=\"https://www.securityweek.com/over-1000-charities-hit-by-beacon-crm-data-breach/\">Over 1,000 Charities Hit by Beacon CRM Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The root cause of the incident is believed to be a compromised AWS access key that was exposed in publicly available JavaScript build artifacts",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "14,000 Trezor Customers Impacted by Data Breach at ShipMonk",
-    "link": "https://www.securityweek.com/14000-trezor-customers-impacted-by-data-breach-at-shipmonk/",
-    "published": "Fri, 14 Aug 2026 08:16:00 +0000",
-    "summary": "<p>Hackers stole the customers’ shipping information, including names, addresses, email addresses, and phone numbers.</p>\n<p>The post <a href=\"https://www.securityweek.com/14000-trezor-customers-impacted-by-data-breach-at-shipmonk/\">14,000 Trezor Customers Impacted by Data Breach at ShipMonk</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Hackers stole the customers’ shipping information, including names, addresses, email addresses, and phone numbers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability",
-        "Phishing",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Hackers Exploiting Unpatched GeoServer Zero-Day",
-    "link": "https://www.securityweek.com/hackers-exploiting-unpatched-geoserver-zero-day/",
-    "published": "Fri, 14 Aug 2026 07:01:56 +0000",
-    "summary": "<p>The security defect is described as an SQL injection that could allow attackers to achieve remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-exploiting-unpatched-geoserver-zero-day/\">Hackers Exploiting Unpatched GeoServer Zero-Day</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The security defect is described as an SQL injection that could allow attackers to achieve remote code execution",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Curiouser and Curiouser",
     "link": "https://blog.talosintelligence.com/curiouser-and-curiouser/",
@@ -823,8 +827,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-62893",
         "CVE-2026-65665",
+        "CVE-2026-62893",
         "CVE-2026-62823",
         "CVE-2026-68820"
       ],
@@ -1342,6 +1346,63 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Fake TikTok rewards promise cash you’ll never get",
+    "link": "https://www.malwarebytes.com/blog/scams/2026/08/fake-tiktok-rewards-promise-cash-youll-never-get",
+    "published": "Mon, 17 Aug 2026 11:15:35 GMT",
+    "summary": "TikTok-branded rewards pages offer cash for simple tasks and daily check-ins. But getting your hands on the money is another story.",
+    "analysis": {
+      "issue": "TikTok-branded “rewards” pages are promising users cash for checking in every day, completing small tasks, and earning points",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Update your Mac: Screen Sharing vulnerability exploited in the wild",
+    "link": "https://www.malwarebytes.com/blog/bugs/2026/08/update-your-mac-screen-sharing-vulnerability-exploited-in-the-wild",
+    "published": "Mon, 17 Aug 2026 10:56:47 GMT",
+    "summary": "Attackers are exploiting a Mac Screen Sharing vulnerability to gain root access and install Monero cryptominers.",
+    "analysis": {
+      "issue": "The Dutch National Cyber Security Centre (NCSC) issued a warning after being notified of several incidents where a vulnerability in Apple’s Screen Sharing feature was exploited to install Monero cryptominers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2026-65400"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Why Facebook’s war on ad blockers could help scammers",
+    "link": "https://www.malwarebytes.com/blog/news/2026/08/why-facebooks-war-on-ad-blockers-could-help-scammers",
+    "published": "Mon, 17 Aug 2026 08:59:07 GMT",
+    "summary": "One ad blocker is giving up the fight against Facebook ads. The consequences could go beyond annoying advertising.",
+    "analysis": {
+      "issue": "Reports that uBlock Origin is stepping back from the never-ending effort to filter Facebook ads are a reminder that ad blocking is no longer only an argument about inconvenience, publishers, and lost advertising revenue",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "A week in security (August 10 – August 16)",
     "link": "https://www.malwarebytes.com/blog/news/2026/08/a-week-in-security-august-10-august-16",
     "published": "Mon, 17 Aug 2026 07:01:00 GMT",
@@ -1445,9 +1506,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-53414",
         "CVE-2026-53413",
-        "CVE-2026-53415"
+        "CVE-2026-53415",
+        "CVE-2026-53414"
       ],
       "threat_categories": [
         "Data Breach",
@@ -1468,68 +1529,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-62832",
-        "CVE-2026-62893"
+        "CVE-2026-62893",
+        "CVE-2026-62832"
       ],
       "threat_categories": [
         "Vulnerability",
         "Phishing",
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Fake CCleaner installs GhostDesk Chrome spyware",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/08/fake-ccleaner-installs-ghostdesk-chrome-spyware",
-    "published": "Tue, 11 Aug 2026 20:41:27 GMT",
-    "summary": "A convincing fake CCleaner website delivers a multi-stage malware attack that installs a spyware extension inside Chrome.",
-    "analysis": {
-      "issue": "A fake version of the popular PC cleaning tool CCleaner is being used to infect Windows users with a malicious Chrome extension called GhostDesk, which acts as spyware inside the browser",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Valve warns Steam hardware buyers: Expect fake delivery scams",
-    "link": "https://www.malwarebytes.com/blog/data-breaches/2026/08/valve-warns-steam-hardware-buyers-expect-fake-delivery-scams",
-    "published": "Tue, 11 Aug 2026 16:31:55 GMT",
-    "summary": "The warning affects recent buyers of Steam hardware, including the hugely popular Steam Deck.",
-    "analysis": {
-      "issue": "Most of us are wise to phishing emails that don’t contain much personal information",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Social media platforms crack down on drone factory recruiting game",
-    "link": "https://www.malwarebytes.com/blog/news/2026/08/social-media-platforms-crack-down-on-drone-factory-recruiting-game",
-    "published": "Tue, 11 Aug 2026 16:05:56 GMT",
-    "summary": "Researchers found that games and major US social media platforms were used to lure young people into jobs in Russia's drone industry.",
-    "analysis": {
-      "issue": "A video game about drone warfare may look like an unusual cybersecurity story",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
