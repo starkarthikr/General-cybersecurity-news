@@ -191,6 +191,26 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Microsoft working on Defender patch for ShieldBreak zero-day",
+    "link": "https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/",
+    "published": "Mon, 17 Aug 2026 05:05:33 -0400",
+    "summary": "Microsoft is working on a security patch for the \"ShieldBreak\" zero-day vulnerability disclosed last week by security researcher \"Nightmare Eclipse\" and now tracked as CVE-2026-69414. [...]",
+    "analysis": {
+      "issue": "On Friday, Microsoft confirmed it has begun working on a security patch for a Defender zero-day vulnerability named \"ShieldBreak",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-50656"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "SafePal data breach impacts 39,798 customers, stolen info for sale",
     "link": "https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/",
     "published": "Sun, 16 Aug 2026 19:47:06 -0400",
@@ -360,27 +380,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Max severity SAP Commerce Cloud flaw now targeted in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/",
-    "published": "Fri, 14 Aug 2026 09:45:18 -0400",
-    "summary": "A maximum-severity SAP Commerce Cloud remote code execution vulnerability patched three days ago is already being targeted in attacks, according to threat intelligence company Defused. [...]",
-    "analysis": {
-      "issue": "A maximum-severity SAP Commerce Cloud remote code execution vulnerability patched three days ago is already being targeted in attacks, according to threat intelligence company Defused",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-58231"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "APT"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Who’s Tracking You? Use This New Service to Find Out",
     "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
@@ -411,9 +410,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-68820",
         "CVE-2026-62832",
-        "CVE-2026-72971"
+        "CVE-2026-72971",
+        "CVE-2026-68820"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -490,10 +489,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-48561",
         "CVE-2026-56155",
-        "CVE-2026-50661",
-        "CVE-2026-56164"
+        "CVE-2026-56164",
+        "CVE-2026-48561",
+        "CVE-2026-50661"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -572,6 +571,66 @@
       "cves": [],
       "threat_categories": [
         "Ransomware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Recent macOS Screen Sharing Vulnerability Exploited in Attacks",
+    "link": "https://www.securityweek.com/recent-macos-screen-sharing-vulnerability-exploited-in-attacks/",
+    "published": "Mon, 17 Aug 2026 08:47:38 +0000",
+    "summary": "<p>Threat actors gained root access to the vulnerable systems and deployed a Monero miner.</p>\n<p>The post <a href=\"https://www.securityweek.com/recent-macos-screen-sharing-vulnerability-exploited-in-attacks/\">Recent macOS Screen Sharing Vulnerability Exploited in Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Threat actors gained root access to the vulnerable systems and deployed a Monero miner",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-65400"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Critical SAP Commerce Cloud Vulnerability Exploited 3 Days After Disclosure",
+    "link": "https://www.securityweek.com/critical-sap-commerce-cloud-vulnerability-exploited-3-days-after-disclosure/",
+    "published": "Mon, 17 Aug 2026 08:13:07 +0000",
+    "summary": "<p>The vulnerability tracked as CVE-2026-58231 can be exploited to execute arbitrary code and compromise internal components.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-sap-commerce-cloud-vulnerability-exploited-3-days-after-disclosure/\">Critical SAP Commerce Cloud Vulnerability Exploited 3 Days After Disclosure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The vulnerability tracked as CVE-2026-58231 can be exploited to execute arbitrary code and compromise internal components",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2019-0344",
+        "CVE-2026-58231"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Fortune 500 Companies Hit in Azure Data Theft Campaign",
+    "link": "https://www.securityweek.com/fortune-500-companies-hit-in-azure-data-theft-campaign/",
+    "published": "Mon, 17 Aug 2026 06:51:08 +0000",
+    "summary": "<p>A threat actor is claiming the exfiltration of millions of records from McDonald’s, TCS, Vodafone, and other large organizations.</p>\n<p>The post <a href=\"https://www.securityweek.com/fortune-500-companies-hit-in-azure-data-theft-campaign/\">Fortune 500 Companies Hit in Azure Data Theft Campaign</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "A threat actor is claiming the exfiltration of millions of records from McDonald’s, TCS, Vodafone, and other large organizations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
         "Phishing"
       ]
     }
@@ -715,65 +774,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "AmnesiaStealer macOS Malware Steals Data, Controls Browser Sessions",
-    "link": "https://www.securityweek.com/amnesiastealer-macos-malware-steals-data-controls-browser-sessions/",
-    "published": "Fri, 14 Aug 2026 06:41:43 +0000",
-    "summary": "<p>The Rust-based macOS infostealer harvests users’ passwords, keychain information, Chromium-based browser data, and Safari cookies.</p>\n<p>The post <a href=\"https://www.securityweek.com/amnesiastealer-macos-malware-steals-data-controls-browser-sessions/\">AmnesiaStealer macOS Malware Steals Data, Controls Browser Sessions</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The Rust-based macOS infostealer harvests users’ passwords, keychain information, Chromium-based browser data, and Safari cookies",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2020-9771"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Cybersecurity M&A Roundup: 21 Deals Announced in July 2026",
-    "link": "https://www.securityweek.com/cybersecurity-ma-roundup-21-deals-announced-in-july-2026/",
-    "published": "Thu, 13 Aug 2026 14:41:44 +0000",
-    "summary": "<p>Significant cybersecurity M&#038;A deals announced by Barracuda, CrowdStrike, Cyera, Okta, Palo Alto Networks, and Qualcomm.</p>\n<p>The post <a href=\"https://www.securityweek.com/cybersecurity-ma-roundup-21-deals-announced-in-july-2026/\">Cybersecurity M&#038;A Roundup: 21 Deals Announced in July 2026</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Significant cybersecurity M&A deals announced by Barracuda, CrowdStrike, Cyera, Okta, Palo Alto Networks, and Qualcomm",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Adobe Commerce Bug Targeted Immediately After Disclosure",
-    "link": "https://www.securityweek.com/adobe-commerce-bug-targeted-immediately-after-disclosure/",
-    "published": "Thu, 13 Aug 2026 14:17:44 +0000",
-    "summary": "<p>The first exploitation attempts targeting CVE-2026-71362 were observed shortly after Adobe released patches.</p>\n<p>The post <a href=\"https://www.securityweek.com/adobe-commerce-bug-targeted-immediately-after-disclosure/\">Adobe Commerce Bug Targeted Immediately After Disclosure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The first exploitation attempts targeting CVE-2026-71362 were observed shortly after Adobe released patches",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-71362"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Curiouser and Curiouser",
     "link": "https://blog.talosintelligence.com/curiouser-and-curiouser/",
@@ -823,10 +823,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-68820",
         "CVE-2026-62893",
         "CVE-2026-65665",
-        "CVE-2026-62823"
+        "CVE-2026-62823",
+        "CVE-2026-68820"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1311,8 +1311,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1337,6 +1337,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "A week in security (August 10 – August 16)",
+    "link": "https://www.malwarebytes.com/blog/news/2026/08/a-week-in-security-august-10-august-16",
+    "published": "Mon, 17 Aug 2026 07:01:00 GMT",
+    "summary": "A list of topics we covered in the week of August 10 to August 16 of 2026",
+    "analysis": {
+      "issue": "Last week on Malwarebytes Labs: Stay safe",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
       ]
     }
   },
@@ -1427,9 +1445,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-53414",
         "CVE-2026-53413",
-        "CVE-2026-53415",
-        "CVE-2026-53414"
+        "CVE-2026-53415"
       ],
       "threat_categories": [
         "Data Breach",
@@ -1450,8 +1468,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-62893",
-        "CVE-2026-62832"
+        "CVE-2026-62832",
+        "CVE-2026-62893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1509,24 +1527,6 @@
       "cause": null,
       "timeline": null,
       "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Sexual predators targeting online accounts for intimate images, FBI warns",
-    "link": "https://www.malwarebytes.com/blog/news/2026/08/sexual-predators-targeting-online-accounts-for-intimate-images-fbi-warns",
-    "published": "Tue, 11 Aug 2026 13:39:07 GMT",
-    "summary": "The FBI is warning that criminals are breaking into social media to steal and distribute non-consensual intimate images and videos.",
-    "analysis": {
-      "issue": "The FBI has issued a Public Service Announcement (PSA) warning that criminals are breaking into social media and personal accounts to steal and distribute intimate images and videos without consent",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
       "cves": [],
       "threat_categories": [
         "Malware"
