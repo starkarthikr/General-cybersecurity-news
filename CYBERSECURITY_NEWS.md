@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-16 16:51:36 UTC
+**Last Updated:** 2026-08-17 01:39:32 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -98,7 +98,34 @@
 
 ---
 
-### 11. [New AmnesiaStealer macOS malware hijacks browser sessions via remote control](https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/)
+### 11. [SafePal data breach impacts 39,798 customers, stolen info for sale](https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/)
+
+**Source:** Bleeping Computer  
+**Published:** Sun, 16 Aug 2026 19:47:06 -0400  
+**Severity:** Low  
+**Categories:** Data Breach, Vulnerability, Phishing  
+
+---
+
+### 12. [Anthropic confirms Claude is down in major outage affecting multiple services](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/)
+
+**Source:** Bleeping Computer  
+**Published:** Sun, 16 Aug 2026 18:28:57 -0400  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 13. [Large-scale DDoS attacks disrupted Threema secure messaging service](https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/)
+
+**Source:** Bleeping Computer  
+**Published:** Sun, 16 Aug 2026 13:29:52 -0400  
+**Severity:** Critical  
+**Categories:** DDoS  
+
+---
+
+### 14. [New AmnesiaStealer macOS malware hijacks browser sessions via remote control](https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 16 Aug 2026 11:07:44 -0400  
@@ -107,7 +134,7 @@
 
 ---
 
-### 12. [New Evooo1Bot Linux botnet turns routers into traffic relay nodes](https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/)
+### 15. [New Evooo1Bot Linux botnet turns routers into traffic relay nodes](https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 15 Aug 2026 10:14:38 -0400  
@@ -116,7 +143,7 @@
 
 ---
 
-### 13. [How Anthropic plans to watermark Claude's AI-generated text](https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/)
+### 16. [How Anthropic plans to watermark Claude's AI-generated text](https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 14 Aug 2026 19:24:17 -0400  
@@ -125,7 +152,7 @@
 
 ---
 
-### 14. [Hackers arrested over €30M bank fraud exploiting service provider flaw](https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/)
+### 17. [Hackers arrested over €30M bank fraud exploiting service provider flaw](https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 14 Aug 2026 14:04:26 -0400  
@@ -134,7 +161,7 @@
 
 ---
 
-### 15. [Hackers exploit macOS Screen Sharing flaw to deploy Monero miner](https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/)
+### 18. [Hackers exploit macOS Screen Sharing flaw to deploy Monero miner](https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 14 Aug 2026 10:59:55 -0400  
@@ -144,7 +171,7 @@
 
 ---
 
-### 16. [The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI](https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/)
+### 19. [The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI](https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 14 Aug 2026 10:00:10 -0400  
@@ -153,41 +180,13 @@
 
 ---
 
-### 17. [Max severity SAP Commerce Cloud flaw now targeted in attacks](https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/)
+### 20. [Max severity SAP Commerce Cloud flaw now targeted in attacks](https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 14 Aug 2026 09:45:18 -0400  
 **Severity:** Critical  
 **CVEs:** CVE-2026-58231  
 **Categories:** Vulnerability, APT  
-
----
-
-### 18. [Shell investigates 'potential incident' after Clop data theft claims](https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 14 Aug 2026 07:55:45 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-12569  
-**Categories:** Ransomware, Vulnerability  
-
----
-
-### 19. [RingCentral data breach exposed info of 1.6 million accounts](https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 14 Aug 2026 06:52:05 -0400  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach  
-
----
-
-### 20. [Data analyst sent to prison for stealing data, extorting employer](https://www.bleepingcomputer.com/news/security/data-analyst-sent-to-prison-for-stealing-data-extorting-employer/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 14 Aug 2026 04:27:18 -0400  
-**Severity:** Low  
-**Categories:** Ransomware  
 
 ---
 
@@ -205,7 +204,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62832, CVE-2026-72971, CVE-2026-68820  
+**CVEs:** CVE-2026-62832, CVE-2026-68820, CVE-2026-72971  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -242,7 +241,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48561, CVE-2026-56155, CVE-2026-50661, CVE-2026-56164  
+**CVEs:** CVE-2026-50661, CVE-2026-48561, CVE-2026-56155, CVE-2026-56164  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -398,7 +397,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 11 Aug 2026 22:21:02 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62893, CVE-2026-68820, CVE-2026-65665, CVE-2026-62823  
+**CVEs:** CVE-2026-62893, CVE-2026-65665, CVE-2026-68820, CVE-2026-62823  
 **Categories:** Vulnerability  
 
 ---
@@ -692,7 +691,7 @@
 **Source:** Malwarebytes  
 **Published:** Wed, 12 Aug 2026 14:43:13 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-53415, CVE-2026-53413, CVE-2026-53414  
+**CVEs:** CVE-2026-53414, CVE-2026-53413, CVE-2026-53415  
 **Categories:** Data Breach, Vulnerability  
 
 ---

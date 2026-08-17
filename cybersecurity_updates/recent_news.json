@@ -191,6 +191,62 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "SafePal data breach impacts 39,798 customers, stolen info for sale",
+    "link": "https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/",
+    "published": "Sun, 16 Aug 2026 19:47:06 -0400",
+    "summary": "Cryptocurrency hardware wallet provider SafePal is warning of a data breach affecting about 39,798 customers after a flaw was exploited to steal customer order information, and a threat actor is now claiming to be selling the stolen data. [...]",
+    "analysis": {
+      "issue": "Cryptocurrency hardware wallet provider SafePal is warning of a data breach affecting about 39,798 customers after a flaw was exploited to steal customer order information, and a threat actor is now claiming to be selling the stolen data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Anthropic confirms Claude is down in major outage affecting multiple services",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/",
+    "published": "Sun, 16 Aug 2026 18:28:57 -0400",
+    "summary": "Claude is experiencing a major outage, with users reporting login problems and degraded performance across several Anthropic services. [...]",
+    "analysis": {
+      "issue": "Claude is experiencing a major outage, with users reporting login problems and degraded performance across several Anthropic services",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Large-scale DDoS attacks disrupted Threema secure messaging service",
+    "link": "https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/",
+    "published": "Sun, 16 Aug 2026 13:29:52 -0400",
+    "summary": "Multiple distributed denial-of-service (DDoS) attacks targeted the Threema secure messaging service earlier this week, causing severe disruptions to communications. [...]",
+    "analysis": {
+      "issue": "Multiple distributed denial-of-service (DDoS) attacks targeted the Threema secure messaging service earlier this week, causing severe disruptions to communications",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "New AmnesiaStealer macOS malware hijacks browser sessions via remote control",
     "link": "https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/",
     "published": "Sun, 16 Aug 2026 11:07:44 -0400",
@@ -325,64 +381,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Shell investigates 'potential incident' after Clop data theft claims",
-    "link": "https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/",
-    "published": "Fri, 14 Aug 2026 07:55:45 -0400",
-    "summary": "Oil giant Shell has confirmed it is investigating a potential security incident after the Clop ransomware gang claimed it stole 89GB of data. [...]",
-    "analysis": {
-      "issue": "Oil giant Shell has confirmed it is investigating a potential security incident after the Clop ransomware gang claimed it stole 89GB of data",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-12569"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "RingCentral data breach exposed info of 1.6 million accounts",
-    "link": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
-    "published": "Fri, 14 Aug 2026 06:52:05 -0400",
-    "summary": "The ShinyHunters extortion group stole personal information from 1.6 million RingCentral accounts after hacking the company in July, according to the data breach notification service Have I Been Pwned. [...]",
-    "analysis": {
-      "issue": "The ShinyHunters extortion group stole personal information from 1",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Data analyst sent to prison for stealing data, extorting employer",
-    "link": "https://www.bleepingcomputer.com/news/security/data-analyst-sent-to-prison-for-stealing-data-extorting-employer/",
-    "published": "Fri, 14 Aug 2026 04:27:18 -0400",
-    "summary": "A former data analyst contractor for Brightly Software has been sentenced to two years in prison for targeting his employer in a $2.5 million extortion scheme. [...]",
-    "analysis": {
-      "issue": "A former data analyst contractor for Brightly Software has been sentenced to two years in prison for targeting his employer in a $2",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Who’s Tracking You? Use This New Service to Find Out",
     "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
@@ -414,8 +412,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-62832",
-        "CVE-2026-72971",
-        "CVE-2026-68820"
+        "CVE-2026-68820",
+        "CVE-2026-72971"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -492,9 +490,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-50661",
         "CVE-2026-48561",
         "CVE-2026-56155",
-        "CVE-2026-50661",
         "CVE-2026-56164"
       ],
       "threat_categories": [
@@ -826,8 +824,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-62893",
-        "CVE-2026-68820",
         "CVE-2026-65665",
+        "CVE-2026-68820",
         "CVE-2026-62823"
       ],
       "threat_categories": [
@@ -1429,9 +1427,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-53415",
+        "CVE-2026-53414",
         "CVE-2026-53413",
-        "CVE-2026-53414"
+        "CVE-2026-53415"
       ],
       "threat_categories": [
         "Data Breach",
