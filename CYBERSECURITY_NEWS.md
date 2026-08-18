@@ -1,10 +1,20 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-18 01:57:34 UTC
+**Last Updated:** 2026-08-18 09:03:16 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects](https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html)
+### 1. [CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE](https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 18 Aug 2026 12:04:20 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2025-62593  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects](https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 18 Aug 2026 02:33:04 +0530  
@@ -14,7 +24,7 @@
 
 ---
 
-### 2. [Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection](https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html)
+### 3. [Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection](https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 18 Aug 2026 00:14:17 +0530  
@@ -23,7 +33,7 @@
 
 ---
 
-### 3. [Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads](https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html)
+### 4. [Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads](https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 17 Aug 2026 23:52:09 +0530  
@@ -33,7 +43,7 @@
 
 ---
 
-### 4. [Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic](https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html)
+### 5. [Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic](https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 17 Aug 2026 23:11:06 +0530  
@@ -42,7 +52,7 @@
 
 ---
 
-### 5. [⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More](https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html)
+### 6. [⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More](https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 17 Aug 2026 18:53:51 +0530  
@@ -51,7 +61,7 @@
 
 ---
 
-### 6. [How MCP Servers Can Expose Enterprise Secrets](https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html)
+### 7. [How MCP Servers Can Expose Enterprise Secrets](https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 17 Aug 2026 17:28:00 +0530  
@@ -60,7 +70,7 @@
 
 ---
 
-### 7. [Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access](https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html)
+### 8. [Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access](https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 17 Aug 2026 16:22:34 +0530  
@@ -69,7 +79,7 @@
 
 ---
 
-### 8. [Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies](https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html)
+### 9. [Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies](https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 17 Aug 2026 14:59:55 +0530  
@@ -78,7 +88,7 @@
 
 ---
 
-### 9. [Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware](https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html)
+### 10. [Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware](https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 17 Aug 2026 13:06:19 +0530  
@@ -88,17 +98,16 @@
 
 ---
 
-### 10. [SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch](https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html)
+### 11. [Microsoft starts removing WMIC tool used by cybercriminals](https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/)
 
-**Source:** The Hacker News  
-**Published:** Sat, 15 Aug 2026 14:08:46 +0530  
+**Source:** Bleeping Computer  
+**Published:** Tue, 18 Aug 2026 04:12:08 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2026-58231  
-**Categories:** Vulnerability  
+**Categories:** General Security  
 
 ---
 
-### 11. [Hacker claims 3.6 million Azure account records stolen from major companies](https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/)
+### 12. [Hacker claims 3.6 million Azure account records stolen from major companies](https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 17 Aug 2026 15:35:01 -0400  
@@ -107,7 +116,7 @@
 
 ---
 
-### 12. [Pokémon Center data breach exposes customer info, cancels some orders](https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/)
+### 13. [Pokémon Center data breach exposes customer info, cancels some orders](https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 17 Aug 2026 15:12:39 -0400  
@@ -116,7 +125,7 @@
 
 ---
 
-### 13. [Microsoft confirms GitHub is down worldwide](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/)
+### 14. [Microsoft confirms GitHub is down worldwide](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 17 Aug 2026 10:47:08 -0400  
@@ -125,7 +134,7 @@
 
 ---
 
-### 14. [Certighost and the Privilege Hiding in Your Certificate Authority](https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/)
+### 15. [Certighost and the Privilege Hiding in Your Certificate Authority](https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 17 Aug 2026 10:00:10 -0400  
@@ -135,7 +144,7 @@
 
 ---
 
-### 15. [Windows Server 2022 reaches end of mainstream support in 60 days](https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/)
+### 16. [Windows Server 2022 reaches end of mainstream support in 60 days](https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 17 Aug 2026 08:33:11 -0400  
@@ -144,7 +153,7 @@
 
 ---
 
-### 16. [Philips and GE investigating Clop ransomware data theft claims](https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/)
+### 17. [Philips and GE investigating Clop ransomware data theft claims](https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 17 Aug 2026 07:25:02 -0400  
@@ -154,7 +163,7 @@
 
 ---
 
-### 17. [French tax authority data breach affects 678,000 individuals](https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/)
+### 18. [French tax authority data breach affects 678,000 individuals](https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 17 Aug 2026 06:09:48 -0400  
@@ -163,7 +172,7 @@
 
 ---
 
-### 18. [Microsoft working on Defender patch for ShieldBreak zero-day](https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/)
+### 19. [Microsoft working on Defender patch for ShieldBreak zero-day](https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 17 Aug 2026 05:05:33 -0400  
@@ -173,21 +182,12 @@
 
 ---
 
-### 19. [SafePal data breach impacts 39,798 customers, stolen info for sale](https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/)
+### 20. [SafePal data breach impacts 39,798 customers, stolen info for sale](https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 16 Aug 2026 19:47:06 -0400  
 **Severity:** Low  
 **Categories:** Data Breach, Vulnerability, Phishing  
-
----
-
-### 20. [Anthropic confirms Claude is down in major outage affecting multiple services](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/)
-
-**Source:** Bleeping Computer  
-**Published:** Sun, 16 Aug 2026 18:28:57 -0400  
-**Severity:** High  
-**Categories:** General Security  
 
 ---
 
@@ -205,7 +205,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-68820, CVE-2026-72971, CVE-2026-62832  
+**CVEs:** CVE-2026-68820, CVE-2026-62832, CVE-2026-72971  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -242,7 +242,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56164, CVE-2026-56155, CVE-2026-50661, CVE-2026-48561  
+**CVEs:** CVE-2026-48561, CVE-2026-50661, CVE-2026-56164, CVE-2026-56155  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -283,7 +283,26 @@
 
 ---
 
-### 31. [680,000 Impacted by French Tax Authority Data Breach](https://www.securityweek.com/680000-impacted-by-french-tax-authority-data-breach/)
+### 31. [GitLab Patches Critical Code Injection Vulnerability](https://www.securityweek.com/gitlab-patches-critical-code-injection-vulnerability/)
+
+**Source:** Security Week  
+**Published:** Tue, 18 Aug 2026 08:51:07 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-19650, CVE-2026-19478  
+**Categories:** Vulnerability  
+
+---
+
+### 32. [Dozens of WebKit Vulnerabilities Patched With Fresh macOS, iOS Security Updates](https://www.securityweek.com/dozens-of-webkit-vulnerabilities-patched-with-fresh-macos-ios-security-updates/)
+
+**Source:** Security Week  
+**Published:** Tue, 18 Aug 2026 06:46:22 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 33. [680,000 Impacted by French Tax Authority Data Breach](https://www.securityweek.com/680000-impacted-by-french-tax-authority-data-breach/)
 
 **Source:** Security Week  
 **Published:** Mon, 17 Aug 2026 13:53:55 +0000  
@@ -292,7 +311,7 @@
 
 ---
 
-### 32. [Irregular Details How a Naming Error Let AI Models Attack a Real Company](https://www.securityweek.com/irregular-details-how-a-naming-error-let-ai-models-attack-a-real-company/)
+### 34. [Irregular Details How a Naming Error Let AI Models Attack a Real Company](https://www.securityweek.com/irregular-details-how-a-naming-error-let-ai-models-attack-a-real-company/)
 
 **Source:** Security Week  
 **Published:** Mon, 17 Aug 2026 12:11:00 +0000  
@@ -301,7 +320,7 @@
 
 ---
 
-### 33. [Conflicting Test Goals Pushed Claude Agents to Deploy Self-Replicating Malware](https://www.securityweek.com/conflicting-test-goals-pushed-claude-agents-to-deploy-self-replicating-malware/)
+### 35. [Conflicting Test Goals Pushed Claude Agents to Deploy Self-Replicating Malware](https://www.securityweek.com/conflicting-test-goals-pushed-claude-agents-to-deploy-self-replicating-malware/)
 
 **Source:** Security Week  
 **Published:** Mon, 17 Aug 2026 11:09:57 +0000  
@@ -310,7 +329,7 @@
 
 ---
 
-### 34. [40,000 Impacted by SafePal Data Breach](https://www.securityweek.com/40000-impacted-by-safepal-data-breach/)
+### 36. [40,000 Impacted by SafePal Data Breach](https://www.securityweek.com/40000-impacted-by-safepal-data-breach/)
 
 **Source:** Security Week  
 **Published:** Mon, 17 Aug 2026 09:37:06 +0000  
@@ -319,7 +338,7 @@
 
 ---
 
-### 35. [Recent macOS Screen Sharing Vulnerability Exploited in Attacks](https://www.securityweek.com/recent-macos-screen-sharing-vulnerability-exploited-in-attacks/)
+### 37. [Recent macOS Screen Sharing Vulnerability Exploited in Attacks](https://www.securityweek.com/recent-macos-screen-sharing-vulnerability-exploited-in-attacks/)
 
 **Source:** Security Week  
 **Published:** Mon, 17 Aug 2026 08:47:38 +0000  
@@ -329,17 +348,17 @@
 
 ---
 
-### 36. [Critical SAP Commerce Cloud Vulnerability Exploited 3 Days After Disclosure](https://www.securityweek.com/critical-sap-commerce-cloud-vulnerability-exploited-3-days-after-disclosure/)
+### 38. [Critical SAP Commerce Cloud Vulnerability Exploited 3 Days After Disclosure](https://www.securityweek.com/critical-sap-commerce-cloud-vulnerability-exploited-3-days-after-disclosure/)
 
 **Source:** Security Week  
 **Published:** Mon, 17 Aug 2026 08:13:07 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2019-0344, CVE-2026-58231  
+**CVEs:** CVE-2026-58231, CVE-2019-0344  
 **Categories:** Vulnerability  
 
 ---
 
-### 37. [Fortune 500 Companies Hit in Azure Data Theft Campaign](https://www.securityweek.com/fortune-500-companies-hit-in-azure-data-theft-campaign/)
+### 39. [Fortune 500 Companies Hit in Azure Data Theft Campaign](https://www.securityweek.com/fortune-500-companies-hit-in-azure-data-theft-campaign/)
 
 **Source:** Security Week  
 **Published:** Mon, 17 Aug 2026 06:51:08 +0000  
@@ -348,30 +367,12 @@
 
 ---
 
-### 38. [In Other News: Rapid7 Layoffs, Hacking a Boeing 737, Refrigeration System Vulnerabilities](https://www.securityweek.com/in-other-news-rapid7-layoffs-hacking-a-boeing-737-refrigeration-system-vulnerabilities/)
+### 40. [In Other News: Rapid7 Layoffs, Hacking a Boeing 737, Refrigeration System Vulnerabilities](https://www.securityweek.com/in-other-news-rapid7-layoffs-hacking-a-boeing-737-refrigeration-system-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Fri, 14 Aug 2026 11:57:51 +0000  
 **Severity:** Critical  
 **Categories:** Ransomware, Data Breach, Vulnerability, Supply Chain  
-
----
-
-### 39. [Trivy, Not LiteLLM Behind the 2,500 Org Compromise](https://www.securityweek.com/trivy-not-litellm-behind-the-2500-org-compromise/)
-
-**Source:** Security Week  
-**Published:** Fri, 14 Aug 2026 11:35:23 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, Malware, APT, Supply Chain  
-
----
-
-### 40. [Google Cloud Sets Out Post-Quantum Roadmap With 2029 Readiness Goal](https://www.securityweek.com/google-cloud-sets-out-post-quantum-roadmap-with-2029-readiness-goal/)
-
-**Source:** Security Week  
-**Published:** Fri, 14 Aug 2026 11:00:00 +0000  
-**Severity:** Low  
-**Categories:** Supply Chain  
 
 ---
 
@@ -398,7 +399,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 11 Aug 2026 22:21:02 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-65665, CVE-2026-68820, CVE-2026-62823, CVE-2026-62893  
+**CVEs:** CVE-2026-68820, CVE-2026-62893, CVE-2026-65665, CVE-2026-62823  
 **Categories:** Vulnerability  
 
 ---
@@ -636,7 +637,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -739,12 +740,21 @@
 **Source:** Malwarebytes  
 **Published:** Wed, 12 Aug 2026 14:43:13 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-53413, CVE-2026-53414, CVE-2026-53415  
+**CVEs:** CVE-2026-53415, CVE-2026-53413, CVE-2026-53414  
 **Categories:** Data Breach, Vulnerability  
 
 ---
 
-### 81. [August 2026 Patch Tuesday: One Exploited Zero-Day and 62 Critical Vulnerabilities Among 415 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-august-2026/)
+### 81. [Teaching AI to Reason Through Detection Triage](https://www.crowdstrike.com/en-us/blog/teaching-ai-to-reason-through-detection-triage/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Aug 17, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 82. [August 2026 Patch Tuesday: One Exploited Zero-Day and 62 Critical Vulnerabilities Among 415 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-august-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Aug 11, 2026 00:00:00-0500  
@@ -753,7 +763,7 @@
 
 ---
 
-### 82. [CrowdStrike Threat Hunts for Shell Command Obfuscation on VMware ESX](https://www.crowdstrike.com/en-us/blog/crowdstrike-hunts-for-shell-command-obfuscation-vmware-esx/)
+### 83. [CrowdStrike Threat Hunts for Shell Command Obfuscation on VMware ESX](https://www.crowdstrike.com/en-us/blog/crowdstrike-hunts-for-shell-command-obfuscation-vmware-esx/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Aug 07, 2026 00:00:00-0500  
@@ -762,7 +772,7 @@
 
 ---
 
-### 83. [Expanding AI Benchmarks in Cybersecurity Beyond Vulnerability Discovery](https://www.crowdstrike.com/en-us/blog/expanding-cybersecurity-ai-benchmarks-beyond-vulnerability-discovery/)
+### 84. [Expanding AI Benchmarks in Cybersecurity Beyond Vulnerability Discovery](https://www.crowdstrike.com/en-us/blog/expanding-cybersecurity-ai-benchmarks-beyond-vulnerability-discovery/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Aug 06, 2026 00:00:00-0500  
@@ -771,7 +781,7 @@
 
 ---
 
-### 84. [Secure Agent Harness Execution: Preventing Escape](https://www.crowdstrike.com/en-us/blog/secure-agent-harness-execution-preventing-escape/)
+### 85. [Secure Agent Harness Execution: Preventing Escape](https://www.crowdstrike.com/en-us/blog/secure-agent-harness-execution-preventing-escape/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Aug 04, 2026 00:00:00-0500  
@@ -780,7 +790,7 @@
 
 ---
 
-### 85. [CrowdStrike 2026 Threat Hunting Report: Exploitation Window Closes as AI Use Accelerates](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-threat-hunting-report/)
+### 86. [CrowdStrike 2026 Threat Hunting Report: Exploitation Window Closes as AI Use Accelerates](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-threat-hunting-report/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Aug 03, 2026 00:00:00-0500  
@@ -789,7 +799,7 @@
 
 ---
 
-### 86. [Falcon AIDR Now Protects Copilot Studio Agents and Claude Code](https://www.crowdstrike.com/en-us/blog/falcon-aidr-protects-copilot-studio-agents-and-claude-code/)
+### 87. [Falcon AIDR Now Protects Copilot Studio Agents and Claude Code](https://www.crowdstrike.com/en-us/blog/falcon-aidr-protects-copilot-studio-agents-and-claude-code/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 30, 2026 00:00:00-0500  
@@ -798,7 +808,7 @@
 
 ---
 
-### 87. [Inside Astaroth's New Spambot Component](https://www.crowdstrike.com/en-us/blog/inside-astaroths-new-spambot-component/)
+### 88. [Inside Astaroth's New Spambot Component](https://www.crowdstrike.com/en-us/blog/inside-astaroths-new-spambot-component/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 29, 2026 00:00:00-0500  
@@ -807,7 +817,7 @@
 
 ---
 
-### 88. [Falcon Cloud Security July 2026 Release: Helping Security Teams Move Faster in the Cloud](https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-helping-security-teams-move-faster/)
+### 89. [Falcon Cloud Security July 2026 Release: Helping Security Teams Move Faster in the Cloud](https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-helping-security-teams-move-faster/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 29, 2026 00:00:00-0500  
@@ -816,19 +826,10 @@
 
 ---
 
-### 89. [Falcon Platform IOAs Arrive in Falcon Next-Gen SIEM to Identify New Threats](https://www.crowdstrike.com/en-us/blog/falcon-platform-ioas-arrive-in-falcon-next-gen-siem/)
+### 90. [Falcon Platform IOAs Arrive in Falcon Next-Gen SIEM to Identify New Threats](https://www.crowdstrike.com/en-us/blog/falcon-platform-ioas-arrive-in-falcon-next-gen-siem/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 29, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 90. [5 High-Impact Use Cases for Falcon Onum](https://www.crowdstrike.com/en-us/blog/five-high-impact-use-cases-for-falcon-onum/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Jul 27, 2026 00:00:00-0500  
 **Severity:** Low  
 **Categories:** General Security  
 
