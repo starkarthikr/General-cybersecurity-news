@@ -1,10 +1,48 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-17 16:55:29 UTC
+**Last Updated:** 2026-08-18 01:35:04 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More](https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html)
+### 1. [Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects](https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 18 Aug 2026 02:33:04 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-19478  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection](https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 18 Aug 2026 00:14:17 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads](https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 17 Aug 2026 23:52:09 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-15748  
+**Categories:** Vulnerability  
+
+---
+
+### 4. [Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic](https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 17 Aug 2026 23:11:06 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 5. [⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More](https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 17 Aug 2026 18:53:51 +0530  
@@ -13,7 +51,7 @@
 
 ---
 
-### 2. [How MCP Servers Can Expose Enterprise Secrets](https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html)
+### 6. [How MCP Servers Can Expose Enterprise Secrets](https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 17 Aug 2026 17:28:00 +0530  
@@ -22,7 +60,7 @@
 
 ---
 
-### 3. [Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access](https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html)
+### 7. [Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access](https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 17 Aug 2026 16:22:34 +0530  
@@ -31,7 +69,7 @@
 
 ---
 
-### 4. [Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies](https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html)
+### 8. [Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies](https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 17 Aug 2026 14:59:55 +0530  
@@ -40,7 +78,7 @@
 
 ---
 
-### 5. [Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware](https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html)
+### 9. [Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware](https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 17 Aug 2026 13:06:19 +0530  
@@ -50,7 +88,7 @@
 
 ---
 
-### 6. [SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch](https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html)
+### 10. [SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch](https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 15 Aug 2026 14:08:46 +0530  
@@ -60,44 +98,25 @@
 
 ---
 
-### 7. [Apple macOS Screen Sharing Flaw Exploited on Internet-Exposed Macs to Install Monero Miner](https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html)
+### 11. [Hacker claims 3.6 million Azure account records stolen from major companies](https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/)
 
-**Source:** The Hacker News  
-**Published:** Sat, 15 Aug 2026 12:54:04 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-65400  
-**Categories:** Vulnerability  
-
----
-
-### 8. [Hackers Spend Nearly $7 Million on Expired Domains to Redirect Traffic to Scams and Malware](https://thehackernews.com/2026/08/hackers-spend-nearly-7-million-on.html)
-
-**Source:** The Hacker News  
-**Published:** Sat, 15 Aug 2026 00:18:46 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability, Malware  
-
----
-
-### 9. [IAM Compliance Requirements and Best Practices](https://thehackernews.com/2026/08/iam-compliance-requirements-and-best.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 14 Aug 2026 22:49:49 +0530  
-**Severity:** Low  
+**Source:** Bleeping Computer  
+**Published:** Mon, 17 Aug 2026 15:35:01 -0400  
+**Severity:** High  
 **Categories:** General Security  
 
 ---
 
-### 10. [Mustang Panda Adds Signed Windows Rootkit to CoolClient Backdoor for Stealth](https://thehackernews.com/2026/08/mustang-panda-adds-signed-windows.html)
+### 12. [Pokémon Center data breach exposes customer info, cancels some orders](https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 14 Aug 2026 18:38:56 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 17 Aug 2026 15:12:39 -0400  
 **Severity:** Low  
-**Categories:** Malware  
+**Categories:** Data Breach, Supply Chain  
 
 ---
 
-### 11. [Microsoft confirms GitHub is down worldwide](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/)
+### 13. [Microsoft confirms GitHub is down worldwide](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 17 Aug 2026 10:47:08 -0400  
@@ -106,7 +125,7 @@
 
 ---
 
-### 12. [Certighost and the Privilege Hiding in Your Certificate Authority](https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/)
+### 14. [Certighost and the Privilege Hiding in Your Certificate Authority](https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 17 Aug 2026 10:00:10 -0400  
@@ -116,7 +135,7 @@
 
 ---
 
-### 13. [Windows Server 2022 reaches end of mainstream support in 60 days](https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/)
+### 15. [Windows Server 2022 reaches end of mainstream support in 60 days](https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 17 Aug 2026 08:33:11 -0400  
@@ -125,7 +144,7 @@
 
 ---
 
-### 14. [Philips and GE investigating Clop ransomware data theft claims](https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/)
+### 16. [Philips and GE investigating Clop ransomware data theft claims](https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 17 Aug 2026 07:25:02 -0400  
@@ -135,7 +154,7 @@
 
 ---
 
-### 15. [French tax authority data breach affects 678,000 individuals](https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/)
+### 17. [French tax authority data breach affects 678,000 individuals](https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 17 Aug 2026 06:09:48 -0400  
@@ -144,7 +163,7 @@
 
 ---
 
-### 16. [Microsoft working on Defender patch for ShieldBreak zero-day](https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/)
+### 18. [Microsoft working on Defender patch for ShieldBreak zero-day](https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 17 Aug 2026 05:05:33 -0400  
@@ -154,7 +173,7 @@
 
 ---
 
-### 17. [SafePal data breach impacts 39,798 customers, stolen info for sale](https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/)
+### 19. [SafePal data breach impacts 39,798 customers, stolen info for sale](https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 16 Aug 2026 19:47:06 -0400  
@@ -163,30 +182,12 @@
 
 ---
 
-### 18. [Anthropic confirms Claude is down in major outage affecting multiple services](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/)
+### 20. [Anthropic confirms Claude is down in major outage affecting multiple services](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 16 Aug 2026 18:28:57 -0400  
 **Severity:** High  
 **Categories:** General Security  
-
----
-
-### 19. [Large-scale DDoS attacks disrupted Threema secure messaging service](https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/)
-
-**Source:** Bleeping Computer  
-**Published:** Sun, 16 Aug 2026 13:29:52 -0400  
-**Severity:** Critical  
-**Categories:** DDoS  
-
----
-
-### 20. [New AmnesiaStealer macOS malware hijacks browser sessions via remote control](https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/)
-
-**Source:** Bleeping Computer  
-**Published:** Sun, 16 Aug 2026 11:07:44 -0400  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
@@ -204,7 +205,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-72971, CVE-2026-68820, CVE-2026-62832  
+**CVEs:** CVE-2026-68820, CVE-2026-62832, CVE-2026-72971  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -241,7 +242,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56155, CVE-2026-48561, CVE-2026-50661, CVE-2026-56164  
+**CVEs:** CVE-2026-50661, CVE-2026-48561, CVE-2026-56155, CVE-2026-56164  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -333,7 +334,7 @@
 **Source:** Security Week  
 **Published:** Mon, 17 Aug 2026 08:13:07 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-58231, CVE-2019-0344  
+**CVEs:** CVE-2019-0344, CVE-2026-58231  
 **Categories:** Vulnerability  
 
 ---
@@ -397,7 +398,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 11 Aug 2026 22:21:02 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62893, CVE-2026-65665, CVE-2026-62823, CVE-2026-68820  
+**CVEs:** CVE-2026-62893, CVE-2026-68820, CVE-2026-65665, CVE-2026-62823  
 **Categories:** Vulnerability  
 
 ---
