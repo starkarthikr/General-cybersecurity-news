@@ -1,12 +1,30 @@
 [
   {
     "source": "The Hacker News",
-    "title": "16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets",
-    "link": "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html",
-    "published": "Tue, 18 Aug 2026 17:10:06 +0530",
-    "summary": "Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer.\n\nOpenSourceMalware, which discovered the activity on August 15, 2026, is tracking the threat under the moniker StubMaker. The complete list of packages published as part of the campaign is below -\n\n\n  ubnuler\n  ubnlder\n  ri18nr\n  reaker\n  rakier\n  orakw\n  joxn",
+    "title": "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
+    "link": "https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html",
+    "published": "Tue, 18 Aug 2026 18:08:36 +0530",
+    "summary": "Security researchers at Anthropic and Switzerland's EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system prompt files that autonomous agent harnesses use to carry state between sessions.\n\nThe work, released as a preprint on August 10, 2026, tests the technique in a simulated six-agent coding",
     "analysis": {
-      "issue": "StubMaker uses 16 typosquatted RubyGems packages to steal browser credentials, crypto wallets, seed phrases, and Telegram data on Windows",
+      "issue": "Anthropic and EPFL show AI mind viruses can spread through persistent agent prompt files, while a one-paragraph warning cuts spread to near zero",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks",
+    "link": "https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html",
+    "published": "Tue, 18 Aug 2026 18:08:20 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a previously undocumented Python implant framework dubbed TWINLOOT.\n\n\"TWINLOOT is a modular, PyArmor-hardened Python implant designed to operate its entire command-and-control infrastructure inside trusted Microsoft services,\" Ontinue said in a technical report shared with The Hacker News. \"Tasking flows through SharePoint Online file",
+    "analysis": {
+      "issue": "TWINLOOT uses SharePoint, Teams TURN, and headless Edge for C2, steals Windows credentials, and opens SOCKS5 access into victim networks",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -25,6 +43,24 @@
     "summary": "A single piece of infrastructure has been pulling records out of Salesforce and ServiceNow customer portals across multiple industries for more than a year, according to research published this week by agent security platform Reco.\n\nThe activity, which Reco has named the City Forum campaign after a domain tied to the attacker's IP address, traces back to one server: 158.220.87.79, hosted on a",
     "analysis": {
       "issue": "City Forum uses one server to pull records from over-permissive Salesforce and ServiceNow guest portals across industries for over a year",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets",
+    "link": "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html",
+    "published": "Tue, 18 Aug 2026 16:50:00 +0530",
+    "summary": "Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer.\n\nOpenSourceMalware, which discovered the activity on August 15, 2026, is tracking the threat under the moniker StubMaker. The complete list of packages published as part of the campaign is below -\n\n\n  ubnuler\n  ubnlder\n  ri18nr\n  reaker\n  rakier\n  orakw\n  joxn",
+    "analysis": {
+      "issue": "StubMaker uses 16 typosquatted RubyGems packages to steal browser credentials, crypto wallets, seed phrases, and Telegram data on Windows",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -150,32 +186,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
-    "link": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
-    "published": "Mon, 17 Aug 2026 18:53:51 +0530",
-    "summary": "The expensive attacks are not always the clever ones.\n\nThis week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problems kept spreading farther than the original compromise. A lot of it came down to access that was already there and defenses that assumed nobody would look too closely.\n\nSo, nothing magical. Just a",
+    "source": "Bleeping Computer",
+    "title": "Your Controls Block Known Attacks. What About the Behavior?",
+    "link": "https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/",
+    "published": "Tue, 18 Aug 2026 10:01:11 -0400",
+    "summary": "Security controls can block a familiar attack method while missing quieter ways to achieve the same objective. Picus Security's Blue Report 2026 shows how prevention rates can vary dramatically by technique and why behavioral testing is needed to uncover those gaps. [...]",
     "analysis": {
-      "issue": "A weekly look at exploited flaws, exposed systems, supply-chain attacks, browser abuse, malware campaigns, and the security risks that mattered most",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "How MCP Servers Can Expose Enterprise Secrets",
-    "link": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html",
-    "published": "Mon, 17 Aug 2026 17:28:00 +0530",
-    "summary": "MCP servers can expose enterprise secrets through plaintext configuration files, over-permissioned access and prompt injection, often before security teams even know the server is running. As more organizations adopt AI agents into their systems, that exposure can silently become a major gap in MCP server security. The Model Context Protocol (MCP) allows AI agents to reach the tools and data,",
-    "analysis": {
-      "issue": "MCP servers can leak enterprise secrets through plaintext config files or prompt injection",
+      "issue": "By Sila Ozeren Hacioglu, Security Research Engineer at Picus Security",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -355,27 +372,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Philips and GE investigating Clop ransomware data theft claims",
-    "link": "https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/",
-    "published": "Mon, 17 Aug 2026 07:25:02 -0400",
-    "summary": "Tech giants General Electric (GE) and Philips have also confirmed they're investigating claims that the Clop ransomware gang breached their systems and stole data. [...]",
-    "analysis": {
-      "issue": "Tech giants General Electric (GE) and Philips have also confirmed they're investigating claims that the Clop ransomware gang breached their systems and stole data",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-12569"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Who’s Tracking You? Use This New Service to Find Out",
     "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
@@ -407,8 +403,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-72971",
-        "CVE-2026-68820",
-        "CVE-2026-62832"
+        "CVE-2026-62832",
+        "CVE-2026-68820"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -485,9 +481,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50661",
         "CVE-2026-56164",
         "CVE-2026-56155",
+        "CVE-2026-50661",
         "CVE-2026-48561"
       ],
       "threat_categories": [
@@ -568,6 +564,65 @@
       "threat_categories": [
         "Ransomware",
         "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Webinar Today: Rethinking Cyber Defense for AI-Speed Attacks",
+    "link": "https://www.securityweek.com/webinar-today-rethinking-cyber-defense-for-ai-speed-attacks/",
+    "published": "Tue, 18 Aug 2026 15:03:30 +0000",
+    "summary": "<p>Join the live webinar as we explore if detection-first security operations can keep pace with AI, or if it’s time to rethink prevention as the strongest default.</p>\n<p>The post <a href=\"https://www.securityweek.com/webinar-today-rethinking-cyber-defense-for-ai-speed-attacks/\">Webinar Today: Rethinking Cyber Defense for AI-Speed Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Join the live webinar as we explore if detection-first security operations can keep pace with AI, or if it’s time to rethink prevention as the strongest default",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "CISO Conversations: Nico Waisman – From Self-Taught Hacker to AI-Driven Offensive Security at XBOW",
+    "link": "https://www.securityweek.com/ciso-conversations-nico-waisman-from-self-taught-hacker-to-ai-driven-offensive-security-at-xbow/",
+    "published": "Tue, 18 Aug 2026 14:30:00 +0000",
+    "summary": "<p>With no formal training and no career plan, Waisman built a path from Argentina's early hacking scene to leading security at an AI-powered offensive security firm.</p>\n<p>The post <a href=\"https://www.securityweek.com/ciso-conversations-nico-waisman-from-self-taught-hacker-to-ai-driven-offensive-security-at-xbow/\">CISO Conversations: Nico Waisman – From Self-Taught Hacker to AI-Driven Offensive Security at XBOW</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "With no formal training and no career plan, Waisman built a path from Argentina’s early hacking scene to leading security at an AI-powered offensive security firm",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "AI-Driven Vulnerability Surge Breaks the Traditional Patching Model",
+    "link": "https://www.securityweek.com/ai-driven-vulnerability-surge-breaks-the-traditional-patching-model/",
+    "published": "Tue, 18 Aug 2026 13:00:00 +0000",
+    "summary": "<p>Rapid7 warns that traditional patch cycles cannot keep pace with soaring vulnerability disclosures and faster exploitation, forcing defenders to prioritize exposure over severity scores.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-driven-vulnerability-surge-breaks-the-traditional-patching-model/\">AI-Driven Vulnerability Surge Breaks the Traditional Patching Model</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Rapid7 warns that traditional patch cycles cannot keep pace with soaring vulnerability disclosures and faster exploitation, forcing defenders to prioritize exposure over severity scores",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "APT",
+        "Supply Chain"
       ]
     }
   },
@@ -660,8 +715,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-19650",
-        "CVE-2026-19478"
+        "CVE-2026-19478",
+        "CVE-2026-19650"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -701,65 +756,6 @@
       "cves": [],
       "threat_categories": [
         "Data Breach",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Irregular Details How a Naming Error Let AI Models Attack a Real Company",
-    "link": "https://www.securityweek.com/irregular-details-how-a-naming-error-let-ai-models-attack-a-real-company/",
-    "published": "Mon, 17 Aug 2026 12:11:00 +0000",
-    "summary": "<p>The AI security testing firm has shared information on a recently disclosed incident involving Anthropic AI models.</p>\n<p>The post <a href=\"https://www.securityweek.com/irregular-details-how-a-naming-error-let-ai-models-attack-a-real-company/\">Irregular Details How a Naming Error Let AI Models Attack a Real Company </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The AI security testing firm has shared information on a recently disclosed incident involving Anthropic AI models",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Conflicting Test Goals Pushed Claude Agents to Deploy Self-Replicating Malware",
-    "link": "https://www.securityweek.com/conflicting-test-goals-pushed-claude-agents-to-deploy-self-replicating-malware/",
-    "published": "Mon, 17 Aug 2026 11:09:57 +0000",
-    "summary": "<p>Anthropic has been conducting tests to identify issues in how AI agents interact with each other.</p>\n<p>The post <a href=\"https://www.securityweek.com/conflicting-test-goals-pushed-claude-agents-to-deploy-self-replicating-malware/\">Conflicting Test Goals Pushed Claude Agents to Deploy Self-Replicating Malware</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Anthropic has been conducting tests to identify issues in how AI agents interact with each other",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "40,000 Impacted by SafePal Data Breach",
-    "link": "https://www.securityweek.com/40000-impacted-by-safepal-data-breach/",
-    "published": "Mon, 17 Aug 2026 09:37:06 +0000",
-    "summary": "<p>Hackers exploited a vulnerability in the order-tracking function of a plugin to access SafePal customer information.</p>\n<p>The post <a href=\"https://www.securityweek.com/40000-impacted-by-safepal-data-breach/\">40,000 Impacted by SafePal Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Hackers exploited a vulnerability in the order-tracking function of a plugin to access SafePal customer information",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability",
-        "Phishing",
         "Supply Chain"
       ]
     }
@@ -814,10 +810,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-65665",
         "CVE-2026-62893",
         "CVE-2026-62823",
-        "CVE-2026-68820",
-        "CVE-2026-65665"
+        "CVE-2026-68820"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -952,6 +948,24 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "PurpleDelta's Fraudulent Employment Operations",
+    "link": "https://www.recordedfuture.com/research/purpledelta-fraudulent-employment-operations",
+    "published": "Tue, 18 Aug 2026 00:00:00 GMT",
+    "summary": "Learn how North Korean IT worker threat cluster \"PurpleDelta\" uses AI-generated personas, sophisticated tradecraft, and custom ChatGPT assistants to infiltrate organizations. Discover key indicators of compromise and mitigation strategies to protect your company from these fraudulent employment operations.",
+    "analysis": {
+      "issue": "Learn how North Korean IT worker threat cluster \"PurpleDelta\" uses AI-generated personas, sophisticated tradecraft, and custom ChatGPT assistants to infiltrate organizations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1111,24 +1125,6 @@
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Ransomware is the Scoreboard",
-    "link": "https://www.recordedfuture.com/blog/ransomware-is-the-scoreboard",
-    "published": "Fri, 24 Jul 2026 00:00:00 GMT",
-    "summary": "Ransomware is the scoreboard for defensive architecture. Learn why traditional security methods fail and how to use AI and threat intelligence to identify and remediate critical attack paths.",
-    "analysis": {
-      "issue": "Ransomware is the scoreboard for defensive architecture",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
       "cves": [],
       "threat_categories": [
         "Ransomware"
@@ -1333,6 +1329,26 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Apple fixes another image-processing flaw that could allow code execution",
+    "link": "https://www.malwarebytes.com/blog/bugs/2026/08/apple-fixes-another-image-processing-flaw-that-could-allow-code-execution",
+    "published": "Tue, 18 Aug 2026 14:55:04 GMT",
+    "summary": "Apple has released updates fixing 27 vulnerabilities in iOS, iPadOS, and macOS Tahoe, including a potentially serious image-processing flaw.",
+    "analysis": {
+      "issue": "Apple has released security updates for more than two dozen security vulnerabilities across iPhone, iPad, and macOS Tahoe,including yet another image parsing vulnerability that could compromise your device",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-65346"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Be careful what you put in “anyone with the link” Google Docs",
     "link": "https://www.malwarebytes.com/blog/news/2026/08/be-careful-what-you-put-in-anyone-with-the-link-google-docs",
     "published": "Tue, 18 Aug 2026 11:15:17 GMT",
@@ -1499,25 +1515,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "New Android malware lets criminals use your bank card in real time",
-    "link": "https://www.malwarebytes.com/blog/mobile/2026/08/new-android-malware-lets-criminals-use-your-bank-card-in-real-time",
-    "published": "Thu, 13 Aug 2026 11:34:25 GMT",
-    "summary": "Social engineering, a Remote Access Trojan (RAT), and NFC relay malware walk up to an ATM. It's no joke. Together, they can empty your bank account.",
-    "analysis": {
-      "issue": "Researchers at Group-IB have discovered a new NFC relay malware family, purpose-built to capture live card data via NFC and forward it in real time to attackers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "APT"
       ]
     }
   },
