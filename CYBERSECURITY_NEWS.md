@@ -1,10 +1,47 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-19 09:04:56 UTC
+**Last Updated:** 2026-08-19 12:56:21 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps](https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html)
+### 1. [StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data](https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 19 Aug 2026 16:55:28 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 2. [Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation](https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 19 Aug 2026 16:31:48 +0530  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure](https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 19 Aug 2026 11:31:53 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 4. [Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data](https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 19 Aug 2026 11:09:25 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-12569  
+**Categories:** Vulnerability  
+
+---
+
+### 5. [Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps](https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 18 Aug 2026 23:17:22 +0530  
@@ -14,7 +51,7 @@
 
 ---
 
-### 2. [Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets](https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html)
+### 6. [Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets](https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 18 Aug 2026 23:14:05 +0530  
@@ -24,7 +61,7 @@
 
 ---
 
-### 3. [Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000](https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html)
+### 7. [Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000](https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 18 Aug 2026 22:28:16 +0530  
@@ -33,7 +70,7 @@
 
 ---
 
-### 4. [AI "Mind Viruses" Can Spread Between Agents Through Persistent Prompt Files](https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html)
+### 8. [AI "Mind Viruses" Can Spread Between Agents Through Persistent Prompt Files](https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 18 Aug 2026 18:08:36 +0530  
@@ -42,7 +79,7 @@
 
 ---
 
-### 5. [TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks](https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html)
+### 9. [TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks](https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 18 Aug 2026 18:08:20 +0530  
@@ -51,7 +88,7 @@
 
 ---
 
-### 6. [One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025](https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html)
+### 10. [One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025](https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 18 Aug 2026 17:00:00 +0530  
@@ -60,45 +97,35 @@
 
 ---
 
-### 7. [16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets](https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html)
+### 11. [Microsoft fixes known issue causing Windows Defender crashes](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 18 Aug 2026 16:50:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Wed, 19 Aug 2026 07:14:28 -0400  
+**Severity:** Low  
+**Categories:** Ransomware, Malware  
+
+---
+
+### 12. [Critical RCE flaw in Windows IKE Extension now actively exploited](https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 19 Aug 2026 06:12:24 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-33824  
+**Categories:** Vulnerability  
+
+---
+
+### 13. [Windows 11 24H2 Home and Pro reach end of support in 2 months](https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-2-months/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 19 Aug 2026 05:10:20 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 8. [SafePal Hardware Wallet Maker Says Flaw Exposed Data of Nearly 40,000 Customers](https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 18 Aug 2026 14:40:45 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 9. [CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE](https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 18 Aug 2026 12:04:20 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2025-62593  
-**Categories:** Vulnerability  
-
----
-
-### 10. [Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects](https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 18 Aug 2026 02:33:04 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-19478  
-**Categories:** Vulnerability  
-
----
-
-### 11. [CISA: Medusa ransomware hit over 500 critical infrastructure orgs](https://www.bleepingcomputer.com/news/security/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs/)
+### 14. [CISA: Medusa ransomware hit over 500 critical infrastructure orgs](https://www.bleepingcomputer.com/news/security/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 19 Aug 2026 04:00:48 -0400  
@@ -107,7 +134,7 @@
 
 ---
 
-### 12. [Comcast turns your Xfinity WiFi into a home motion detector](https://www.bleepingcomputer.com/news/security/comcast-turns-your-xfinity-wifi-into-a-home-motion-detector/)
+### 15. [Comcast turns your Xfinity WiFi into a home motion detector](https://www.bleepingcomputer.com/news/security/comcast-turns-your-xfinity-wifi-into-a-home-motion-detector/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 18 Aug 2026 16:14:58 -0400  
@@ -116,7 +143,7 @@
 
 ---
 
-### 13. [Clop created custom web shell for Windchill data theft attacks](https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/)
+### 16. [Clop created custom web shell for Windchill data theft attacks](https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 18 Aug 2026 13:29:51 -0400  
@@ -126,7 +153,7 @@
 
 ---
 
-### 14. [Your Controls Block Known Attacks. What About the Behavior?](https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/)
+### 17. [Your Controls Block Known Attacks. What About the Behavior?](https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 18 Aug 2026 10:01:11 -0400  
@@ -135,7 +162,7 @@
 
 ---
 
-### 15. [Microsoft tests faster Windows File Explorer, new context menu](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-faster-windows-explorer-customizable-context-menu/)
+### 18. [Microsoft tests faster Windows File Explorer, new context menu](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-faster-windows-explorer-customizable-context-menu/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 18 Aug 2026 07:14:28 -0400  
@@ -144,7 +171,7 @@
 
 ---
 
-### 16. [CISA: Windows Task Host flaw now exploited by ransomware gangs](https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/)
+### 19. [CISA: Windows Task Host flaw now exploited by ransomware gangs](https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 18 Aug 2026 06:32:16 -0400  
@@ -154,39 +181,12 @@
 
 ---
 
-### 17. [Microsoft confirms outage affecting search in Microsoft 365 apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-bug-behind-microsoft-365-search-issues/)
+### 20. [Microsoft confirms outage affecting search in Microsoft 365 apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-bug-behind-microsoft-365-search-issues/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 18 Aug 2026 05:24:49 -0400  
 **Severity:** Critical  
 **Categories:** General Security  
-
----
-
-### 18. [Microsoft starts removing WMIC tool used by cybercriminals](https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 18 Aug 2026 04:12:08 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 19. [Hacker claims 3.6 million Azure account records stolen from major companies](https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 17 Aug 2026 15:35:01 -0400  
-**Severity:** High  
-**Categories:** General Security  
-
----
-
-### 20. [Pokémon Center data breach exposes customer info, cancels some orders](https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 17 Aug 2026 15:12:39 -0400  
-**Severity:** Low  
-**Categories:** Data Breach, Supply Chain  
 
 ---
 
@@ -204,7 +204,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-68820, CVE-2026-72971, CVE-2026-62832  
+**CVEs:** CVE-2026-68820, CVE-2026-62832, CVE-2026-72971  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -241,7 +241,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48561, CVE-2026-56155, CVE-2026-56164, CVE-2026-50661  
+**CVEs:** CVE-2026-48561, CVE-2026-56164, CVE-2026-50661, CVE-2026-56155  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -282,7 +282,54 @@
 
 ---
 
-### 31. [Chrome, Firefox Updates Patch Dozens of Vulnerabilities](https://www.securityweek.com/chrome-firefox-updates-patch-dozens-of-vulnerabilities/)
+### 31. [Prevalent AI Raises $22 Million to Expand Data Fabric Platform](https://www.securityweek.com/prevalent-ai-raises-22-million-to-expand-data-fabric-platform/)
+
+**Source:** Security Week  
+**Published:** Wed, 19 Aug 2026 12:00:00 +0000  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 32. [US Charges 17 Iranian Hackers, Offers $10 Million Rewards for 5 of Them](https://www.securityweek.com/us-charges-17-iranian-hackers-offers-10-million-rewards-for-5-of-them/)
+
+**Source:** Security Week  
+**Published:** Wed, 19 Aug 2026 11:30:33 +0000  
+**Severity:** Low  
+**Categories:** Ransomware  
+
+---
+
+### 33. [Cl0p Ransomware Group Names Over 40 Victims of PTC Windchill Campaign](https://www.securityweek.com/cl0p-ransomware-group-names-over-40-victims-of-ptc-windchill-campaign/)
+
+**Source:** Security Week  
+**Published:** Wed, 19 Aug 2026 11:07:21 +0000  
+**Severity:** High  
+**CVEs:** CVE-2026-12569  
+**Categories:** Ransomware, Data Breach, Vulnerability, Malware  
+
+---
+
+### 34. [CISA Urges Immediate Patching of Exploited Microsoft, VMware, Apple Vulnerabilities](https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-microsoft-vmware-apple-vulnerabilities/)
+
+**Source:** Security Week  
+**Published:** Wed, 19 Aug 2026 10:37:31 +0000  
+**Severity:** Low  
+**CVEs:** CVE-2026-55040, CVE-2026-65400, CVE-2026-59310, CVE-2026-33824  
+**Categories:** Vulnerability  
+
+---
+
+### 35. [943 Patches Rolled Out With Oracle’s August 2026 Security Update](https://www.securityweek.com/943-patches-rolled-out-with-oracles-august-2026-security-update/)
+
+**Source:** Security Week  
+**Published:** Wed, 19 Aug 2026 09:14:51 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 36. [Chrome, Firefox Updates Patch Dozens of Vulnerabilities](https://www.securityweek.com/chrome-firefox-updates-patch-dozens-of-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Wed, 19 Aug 2026 08:19:09 +0000  
@@ -291,7 +338,7 @@
 
 ---
 
-### 32. [CareCloud Data Breach Impact Grows to 3.7 Million Individuals](https://www.securityweek.com/carecloud-data-breach-impact-grows-to-3-7-million-individuals/)
+### 37. [CareCloud Data Breach Impact Grows to 3.7 Million Individuals](https://www.securityweek.com/carecloud-data-breach-impact-grows-to-3-7-million-individuals/)
 
 **Source:** Security Week  
 **Published:** Wed, 19 Aug 2026 06:56:43 +0000  
@@ -300,7 +347,7 @@
 
 ---
 
-### 33. [Webinar Today: Rethinking Cyber Defense for AI-Speed Attacks](https://www.securityweek.com/webinar-today-rethinking-cyber-defense-for-ai-speed-attacks/)
+### 38. [Webinar Today: Rethinking Cyber Defense for AI-Speed Attacks](https://www.securityweek.com/webinar-today-rethinking-cyber-defense-for-ai-speed-attacks/)
 
 **Source:** Security Week  
 **Published:** Tue, 18 Aug 2026 15:03:30 +0000  
@@ -309,7 +356,7 @@
 
 ---
 
-### 34. [CISO Conversations: Nico Waisman – From Self-Taught Hacker to AI-Driven Offensive Security at XBOW](https://www.securityweek.com/ciso-conversations-nico-waisman-from-self-taught-hacker-to-ai-driven-offensive-security-at-xbow/)
+### 39. [CISO Conversations: Nico Waisman – From Self-Taught Hacker to AI-Driven Offensive Security at XBOW](https://www.securityweek.com/ciso-conversations-nico-waisman-from-self-taught-hacker-to-ai-driven-offensive-security-at-xbow/)
 
 **Source:** Security Week  
 **Published:** Tue, 18 Aug 2026 14:30:00 +0000  
@@ -318,7 +365,7 @@
 
 ---
 
-### 35. [AI-Driven Vulnerability Surge Breaks the Traditional Patching Model](https://www.securityweek.com/ai-driven-vulnerability-surge-breaks-the-traditional-patching-model/)
+### 40. [AI-Driven Vulnerability Surge Breaks the Traditional Patching Model](https://www.securityweek.com/ai-driven-vulnerability-surge-breaks-the-traditional-patching-model/)
 
 **Source:** Security Week  
 **Published:** Tue, 18 Aug 2026 13:00:00 +0000  
@@ -327,54 +374,16 @@
 
 ---
 
-### 36. [Xpander Raises $7.5 Million for AI Management and Governance](https://www.securityweek.com/xpander-raises-7-5-million-for-ai-management-and-governance/)
+### 41. [Describing attacks with crime script analysis](https://blog.talosintelligence.com/describing-attacks-with-crime-script-analysis/)
 
-**Source:** Security Week  
-**Published:** Tue, 18 Aug 2026 12:29:08 +0000  
-**Severity:** Low  
+**Source:** Talos Blog  
+**Published:** Wed, 19 Aug 2026 10:00:52 GMT  
+**Severity:** High  
 **Categories:** General Security  
 
 ---
 
-### 37. [Fortinet Acquires AI Security Company Virtue AI](https://www.securityweek.com/fortinet-acquires-ai-security-company-virtue-ai/)
-
-**Source:** Security Week  
-**Published:** Tue, 18 Aug 2026 12:06:21 +0000  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 38. [300,000 WordPress Sites Potentially Exposed to Hacking Due to Form Plugin Flaw](https://www.securityweek.com/300000-wordpress-sites-potentially-exposed-to-hacking-due-to-form-plugin-flaw/)
-
-**Source:** Security Week  
-**Published:** Tue, 18 Aug 2026 10:48:23 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-15748  
-**Categories:** Vulnerability  
-
----
-
-### 39. [Heights Finance Data Breach Impacts at Least 1.2 Million Individuals](https://www.securityweek.com/heights-finance-data-breach-impacts-at-least-1-2-million-individuals/)
-
-**Source:** Security Week  
-**Published:** Tue, 18 Aug 2026 09:18:34 +0000  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach, Supply Chain  
-
----
-
-### 40. [GitLab Patches Critical Code Injection Vulnerability](https://www.securityweek.com/gitlab-patches-critical-code-injection-vulnerability/)
-
-**Source:** Security Week  
-**Published:** Tue, 18 Aug 2026 08:51:07 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-19478, CVE-2026-19650  
-**Categories:** Vulnerability  
-
----
-
-### 41. [Curiouser and Curiouser](https://blog.talosintelligence.com/curiouser-and-curiouser/)
+### 42. [Curiouser and Curiouser](https://blog.talosintelligence.com/curiouser-and-curiouser/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 13 Aug 2026 18:00:18 GMT  
@@ -383,7 +392,7 @@
 
 ---
 
-### 42. [Dissecting the JWR phishing framework](https://blog.talosintelligence.com/dissecting-the-jwr-phishing-framework/)
+### 43. [Dissecting the JWR phishing framework](https://blog.talosintelligence.com/dissecting-the-jwr-phishing-framework/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 13 Aug 2026 10:00:35 GMT  
@@ -392,17 +401,17 @@
 
 ---
 
-### 43. [Microsoft Patch Tuesday for August 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-for-august-2026/)
+### 44. [Microsoft Patch Tuesday for August 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-for-august-2026/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 11 Aug 2026 22:21:02 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62893, CVE-2026-68820, CVE-2026-62823, CVE-2026-65665  
+**CVEs:** CVE-2026-68820, CVE-2026-62893, CVE-2026-62823, CVE-2026-65665  
 **Categories:** Vulnerability  
 
 ---
 
-### 44. [Why metaphor may dictate your security strategy](https://blog.talosintelligence.com/why-metaphor-may-dictate-your-security-strategy/)
+### 45. [Why metaphor may dictate your security strategy](https://blog.talosintelligence.com/why-metaphor-may-dictate-your-security-strategy/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 06 Aug 2026 18:00:01 GMT  
@@ -411,7 +420,7 @@
 
 ---
 
-### 45. [“Keep going, bro. You’ve got this!” A data-driven look at how adversaries are weaponizing AI](https://blog.talosintelligence.com/keep-going-bro-youve-got-this-a-data-driven-look-at-how-adversaries-are-weaponizing-ai/)
+### 46. [“Keep going, bro. You’ve got this!” A data-driven look at how adversaries are weaponizing AI](https://blog.talosintelligence.com/keep-going-bro-youve-got-this-a-data-driven-look-at-how-adversaries-are-weaponizing-ai/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 04 Aug 2026 10:00:11 GMT  
@@ -420,7 +429,7 @@
 
 ---
 
-### 46. [[Webinar] Tales from the Frontlines: An exclusive briefing on Q2 incidents](https://blog.talosintelligence.com/webinar-tales-from-the-frontlines-an-exclusive-briefing-on-q2-incidents/)
+### 47. [[Webinar] Tales from the Frontlines: An exclusive briefing on Q2 incidents](https://blog.talosintelligence.com/webinar-tales-from-the-frontlines-an-exclusive-briefing-on-q2-incidents/)
 
 **Source:** Talos Blog  
 **Published:** Mon, 03 Aug 2026 16:00:12 GMT  
@@ -429,7 +438,7 @@
 
 ---
 
-### 47. [You were onto something with “It’s the Climb,” Miley](https://blog.talosintelligence.com/you-were-onto-something-with-its-the-climb-miley/)
+### 48. [You were onto something with “It’s the Climb,” Miley](https://blog.talosintelligence.com/you-were-onto-something-with-its-the-climb-miley/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 30 Jul 2026 18:00:35 GMT  
@@ -438,7 +447,7 @@
 
 ---
 
-### 48. [Black Hat special: Rewind and revisit](https://blog.talosintelligence.com/black-hat-special-rewind-and-revisit/)
+### 49. [Black Hat special: Rewind and revisit](https://blog.talosintelligence.com/black-hat-special-rewind-and-revisit/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 30 Jul 2026 10:00:08 GMT  
@@ -447,21 +456,12 @@
 
 ---
 
-### 49. [IR Trends Q2 2026: Phishing and weaponized remote management tools drive attack chains](https://blog.talosintelligence.com/ir-trends-q2-2026/)
+### 50. [IR Trends Q2 2026: Phishing and weaponized remote management tools drive attack chains](https://blog.talosintelligence.com/ir-trends-q2-2026/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 28 Jul 2026 10:00:01 GMT  
 **Severity:** High  
 **Categories:** Ransomware, Malware, Phishing, APT  
-
----
-
-### 50. [Don’t swing at everything](https://blog.talosintelligence.com/dont-swing-at-everything/)
-
-**Source:** Talos Blog  
-**Published:** Thu, 23 Jul 2026 18:00:46 GMT  
-**Severity:** Low  
-**Categories:** Vulnerability  
 
 ---
 
@@ -635,7 +635,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -650,7 +650,34 @@
 
 ---
 
-### 71. [Apple fixes another image-processing flaw that could allow code execution](https://www.malwarebytes.com/blog/bugs/2026/08/apple-fixes-another-image-processing-flaw-that-could-allow-code-execution)
+### 71. [Scammers are using fake crypto AML checkers to drain your wallet](https://www.malwarebytes.com/blog/threat-intel/2026/08/scammers-are-using-fake-crypto-aml-checkers-to-drain-your-wallet)
+
+**Source:** Malwarebytes  
+**Published:** Wed, 19 Aug 2026 10:55:06 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 72. [Update Chrome now: Two critical vulnerabilities fixed](https://www.malwarebytes.com/blog/bugs/2026/08/update-chrome-now-two-critical-vulnerabilities-fixed)
+
+**Source:** Malwarebytes  
+**Published:** Wed, 19 Aug 2026 10:32:04 GMT  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 73. [Your polite reply to that text is worth $2 on the dark web](https://www.malwarebytes.com/blog/threat-intel/2026/08/your-polite-reply-to-that-text-is-worth-2-on-the-dark-web)
+
+**Source:** Malwarebytes  
+**Published:** Wed, 19 Aug 2026 09:39:03 GMT  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 74. [Apple fixes another image-processing flaw that could allow code execution](https://www.malwarebytes.com/blog/bugs/2026/08/apple-fixes-another-image-processing-flaw-that-could-allow-code-execution)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 18 Aug 2026 14:55:04 GMT  
@@ -660,7 +687,7 @@
 
 ---
 
-### 72. [Be careful what you put in “anyone with the link” Google Docs](https://www.malwarebytes.com/blog/news/2026/08/be-careful-what-you-put-in-anyone-with-the-link-google-docs)
+### 75. [Be careful what you put in “anyone with the link” Google Docs](https://www.malwarebytes.com/blog/news/2026/08/be-careful-what-you-put-in-anyone-with-the-link-google-docs)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 18 Aug 2026 11:15:17 GMT  
@@ -669,7 +696,7 @@
 
 ---
 
-### 73. [Heights Finance data breach: What customers need to know](https://www.malwarebytes.com/blog/data-breaches/2026/08/heights-finance-data-breach-what-customers-need-to-know)
+### 76. [Heights Finance data breach: What customers need to know](https://www.malwarebytes.com/blog/data-breaches/2026/08/heights-finance-data-breach-what-customers-need-to-know)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 18 Aug 2026 10:36:14 GMT  
@@ -678,7 +705,7 @@
 
 ---
 
-### 74. [ShieldBreak bypasses Microsoft’s patch for earlier Defender flaw](https://www.malwarebytes.com/blog/bugs/2026/08/shieldbreak-bypasses-microsofts-patch-for-earlier-defender-flaw)
+### 77. [ShieldBreak bypasses Microsoft’s patch for earlier Defender flaw](https://www.malwarebytes.com/blog/bugs/2026/08/shieldbreak-bypasses-microsofts-patch-for-earlier-defender-flaw)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 17 Aug 2026 13:34:31 GMT  
@@ -688,7 +715,7 @@
 
 ---
 
-### 75. [Fake TikTok rewards promise cash you’ll never get](https://www.malwarebytes.com/blog/scams/2026/08/fake-tiktok-rewards-promise-cash-youll-never-get)
+### 78. [Fake TikTok rewards promise cash you’ll never get](https://www.malwarebytes.com/blog/scams/2026/08/fake-tiktok-rewards-promise-cash-youll-never-get)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 17 Aug 2026 11:15:35 GMT  
@@ -697,7 +724,7 @@
 
 ---
 
-### 76. [Update your Mac: Screen Sharing vulnerability exploited in the wild](https://www.malwarebytes.com/blog/bugs/2026/08/update-your-mac-screen-sharing-vulnerability-exploited-in-the-wild)
+### 79. [Update your Mac: Screen Sharing vulnerability exploited in the wild](https://www.malwarebytes.com/blog/bugs/2026/08/update-your-mac-screen-sharing-vulnerability-exploited-in-the-wild)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 17 Aug 2026 10:56:47 GMT  
@@ -707,39 +734,12 @@
 
 ---
 
-### 77. [Why Facebook’s war on ad blockers could help scammers](https://www.malwarebytes.com/blog/news/2026/08/why-facebooks-war-on-ad-blockers-could-help-scammers)
+### 80. [Why Facebook’s war on ad blockers could help scammers](https://www.malwarebytes.com/blog/news/2026/08/why-facebooks-war-on-ad-blockers-could-help-scammers)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 17 Aug 2026 08:59:07 GMT  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 78. [A week in security (August 10 – August 16)](https://www.malwarebytes.com/blog/news/2026/08/a-week-in-security-august-10-august-16)
-
-**Source:** Malwarebytes  
-**Published:** Mon, 17 Aug 2026 07:01:00 GMT  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 79. [Apple now uses iPhone alerts for targets of mercenary spyware](https://www.malwarebytes.com/blog/news/2026/08/apple-now-uses-iphone-alerts-for-targets-of-mercenary-spyware)
-
-**Source:** Malwarebytes  
-**Published:** Fri, 14 Aug 2026 12:46:29 GMT  
-**Severity:** High  
-**Categories:** Vulnerability, APT  
-
----
-
-### 80. [WhatsApp is testing a new warning for scam messages](https://www.malwarebytes.com/blog/news/2026/08/whatsapp-is-testing-a-new-warning-for-scam-messages)
-
-**Source:** Malwarebytes  
-**Published:** Fri, 14 Aug 2026 12:05:43 GMT  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
