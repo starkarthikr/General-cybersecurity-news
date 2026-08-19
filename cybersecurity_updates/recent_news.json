@@ -1,6 +1,60 @@
 [
   {
     "source": "The Hacker News",
+    "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
+    "link": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html",
+    "published": "Wed, 19 Aug 2026 18:42:17 +0530",
+    "summary": "A previously unreported cyber espionage operation dubbed SilkParasite has been observed targeting government bodies in Central Asia.\n\nThe intrusion set makes use of seven remote access tool (RAT) families, five of which have never been previously documented: DriveSilkRAT, CookiETagRAT, NomadRAT, GoginRAT, and NodeEdgeRAT. SilkParasite, first discovered in late 2025, is assessed to be a",
+    "analysis": {
+      "issue": "SilkParasite targets Central Asian governments with seven RATs, five newly documented, using DLL sideloading and likely AI-assisted development",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P",
+    "link": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html",
+    "published": "Wed, 19 Aug 2026 17:04:28 +0530",
+    "summary": "Cybersecurity researchers at Hunt.io have disclosed details of a campaign that they say compromised more than 14,530 Dahua devices between June 17 and July 22, 2026, using credential attacks, two authentication-bypass flaws, and a peer-to-peer (P2P) relay technique.\n\nThe activity, codenamed Operation CameraSwarm, was reconstructed from a 407 MB exposed working directory containing 2,616 files",
+    "analysis": {
+      "issue": "Researchers say Operation CameraSwarm compromised 14,530+ Dahua devices using credential attacks, auth bypass flaws, and P2P relays",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Phishing 3.0: The Fight Moves to Agent Versus Agent",
+    "link": "https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html",
+    "published": "Wed, 19 Aug 2026 17:00:00 +0530",
+    "summary": "Most email defenses still do the job they did a decade ago. Scan the message, look for something malicious, block it. That worked when the danger sat in the payload, a bad link or an attachment. It stopped working when the danger moved into the message's intent, and it is failing now that the sender is no longer a person.\n\nFrom Bad Content to Bad Intent to AI on Both Sides\n\nPhishing 1.0 was bad",
+    "analysis": {
+      "issue": "Attackers run AI agents that research your company, write the lure, and hold conversations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data",
     "link": "https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html",
     "published": "Wed, 19 Aug 2026 16:55:28 +0530",
@@ -106,8 +160,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-64849",
-        "CVE-2026-25895"
+        "CVE-2026-25895",
+        "CVE-2026-64849"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -133,13 +187,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
-    "link": "https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html",
-    "published": "Tue, 18 Aug 2026 18:08:36 +0530",
-    "summary": "Security researchers at Anthropic and Switzerland's EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system prompt files that autonomous agent harnesses use to carry state between sessions.\n\nThe work, released as a preprint on August 10, 2026, tests the technique in a simulated six-agent coding",
+    "source": "Bleeping Computer",
+    "title": "US charges Iranian hackers over $3.4 billion intellectual property theft",
+    "link": "https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/",
+    "published": "Wed, 19 Aug 2026 11:56:09 -0400",
+    "summary": "The U.S. has charged 17 Iranians, alleged members of a hacking-for-hire company called Mabna Institute, involved in years-long operations that stole data from American organizations. [...]",
     "analysis": {
-      "issue": "Anthropic and EPFL show AI mind viruses can spread through persistent agent prompt files, while a one-paragraph warning cuts spread to near zero",
+      "issue": "has charged 17 Iranians, alleged members of a hacking-for-hire company called Mabna Institute, involved in years-long operations that stole data from American organizations",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -151,38 +205,22 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks",
-    "link": "https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html",
-    "published": "Tue, 18 Aug 2026 18:08:20 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a previously undocumented Python implant framework dubbed TWINLOOT.\n\n\"TWINLOOT is a modular, PyArmor-hardened Python implant designed to operate its entire command-and-control infrastructure inside trusted Microsoft services,\" Ontinue said in a technical report shared with The Hacker News. \"Tasking flows through SharePoint Online file",
+    "source": "Bleeping Computer",
+    "title": "Password spraying attacks surge 155x as hackers exploit MFA gaps",
+    "link": "https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/",
+    "published": "Wed, 19 Aug 2026 10:00:10 -0400",
+    "summary": "Huntress observed a 155x increase in password spraying attacks in H1 2026, including a campaign that generated more than 81 million login attempts in two weeks. The attacks exploited legacy authentication and gaps in MFA policies that left some login flows unprotected. [...]",
     "analysis": {
-      "issue": "TWINLOOT uses SharePoint, Teams TURN, and headless Edge for C2, steals Windows credentials, and opens SOCKS5 access into victim networks",
+      "issue": "Huntress has observed a 155x increase in password spraying attacks in the first half of 2026",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025",
-    "link": "https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html",
-    "published": "Tue, 18 Aug 2026 17:00:00 +0530",
-    "summary": "A single piece of infrastructure has been pulling records out of Salesforce and ServiceNow customer portals across multiple industries for more than a year, according to research published this week by agent security platform Reco.\n\nThe activity, which Reco has named the City Forum campaign after a domain tied to the attacker's IP address, traces back to one server: 158.220.87.79, hosted on a",
-    "analysis": {
-      "issue": "City Forum uses one server to pull records from over-permissive Salesforce and ServiceNow guest portals across industries for over a year",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
+        "Data Breach",
+        "Vulnerability",
+        "Phishing"
       ]
     }
   },
@@ -338,45 +376,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "CISA: Windows Task Host flaw now exploited by ransomware gangs",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/",
-    "published": "Tue, 18 Aug 2026 06:32:16 -0400",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a high-severity Windows Task Host vulnerability that was flagged as actively exploited in April. [...]",
-    "analysis": {
-      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a high-severity Windows Task Host vulnerability that was flagged as actively exploited in April",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2025-60710"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft confirms outage affecting search in Microsoft 365 apps",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-bug-behind-microsoft-365-search-issues/",
-    "published": "Tue, 18 Aug 2026 05:24:49 -0400",
-    "summary": "Microsoft says some users are experiencing issues searching in Microsoft 365 apps, including Outlook on the web, Outlook desktop, SharePoint Online, and OneDrive. [...]",
-    "analysis": {
-      "issue": "Microsoft says some users are experiencing issues searching in Microsoft 365 apps, including Outlook on the web, Outlook desktop, SharePoint Online, and OneDrive",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Who’s Tracking You? Use This New Service to Find Out",
     "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
@@ -407,9 +406,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-68820",
         "CVE-2026-62832",
-        "CVE-2026-72971"
+        "CVE-2026-72971",
+        "CVE-2026-68820"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -486,9 +485,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-48561",
-        "CVE-2026-56164",
         "CVE-2026-50661",
+        "CVE-2026-56164",
+        "CVE-2026-48561",
         "CVE-2026-56155"
       ],
       "threat_categories": [
@@ -574,6 +573,24 @@
   },
   {
     "source": "Security Week",
+    "title": "Virtual Event Today: CodeSecCon – Secure Your Code and Applications",
+    "link": "https://www.securityweek.com/virtual-event-today-codeseccon-secure-your-code-and-applications/",
+    "published": "Wed, 19 Aug 2026 13:36:17 +0000",
+    "summary": "<p>CodeSecCon is the premier virtual event bringing together developers and cybersecurity professionals to revolutionize the way applications are built, secured, and maintained.</p>\n<p>The post <a href=\"https://www.securityweek.com/virtual-event-today-codeseccon-secure-your-code-and-applications/\">Virtual Event Today: CodeSecCon &#8211; Secure Your Code and Applications</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "CodeSecCon is the premier virtual event bringing together developers and cybersecurity professionals to revolutionize the way applications are built, secured, and maintained",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Prevalent AI Raises $22 Million to Expand Data Fabric Platform",
     "link": "https://www.securityweek.com/prevalent-ai-raises-22-million-to-expand-data-fabric-platform/",
     "published": "Wed, 19 Aug 2026 12:00:00 +0000",
@@ -644,10 +661,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-55040",
         "CVE-2026-65400",
+        "CVE-2026-33824",
         "CVE-2026-59310",
-        "CVE-2026-33824"
+        "CVE-2026-55040"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -749,27 +766,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "AI-Driven Vulnerability Surge Breaks the Traditional Patching Model",
-    "link": "https://www.securityweek.com/ai-driven-vulnerability-surge-breaks-the-traditional-patching-model/",
-    "published": "Tue, 18 Aug 2026 13:00:00 +0000",
-    "summary": "<p>Rapid7 warns that traditional patch cycles cannot keep pace with soaring vulnerability disclosures and faster exploitation, forcing defenders to prioritize exposure over severity scores.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-driven-vulnerability-surge-breaks-the-traditional-patching-model/\">AI-Driven Vulnerability Surge Breaks the Traditional Patching Model</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Rapid7 warns that traditional patch cycles cannot keep pace with soaring vulnerability disclosures and faster exploitation, forcing defenders to prioritize exposure over severity scores",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "APT",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Describing attacks with crime script analysis",
     "link": "https://blog.talosintelligence.com/describing-attacks-with-crime-script-analysis/",
@@ -837,10 +833,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-68820",
-        "CVE-2026-62893",
         "CVE-2026-62823",
-        "CVE-2026-65665"
+        "CVE-2026-62893",
+        "CVE-2026-65665",
+        "CVE-2026-68820"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -957,6 +953,24 @@
         "Malware",
         "Phishing",
         "APT"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "Recorded Future Launches 6 New Capabilities for Third-Party Risk",
+    "link": "https://www.recordedfuture.com/blog/native-risk-ratings",
+    "published": "Wed, 19 Aug 2026 00:00:00 GMT",
+    "summary": "Recorded Future has launched native risk ratings capabilities inside its Third-Party Risk product, uniting threat intelligence and risk ratings in a single workflow.",
+    "analysis": {
+      "issue": "Recorded Future has launched native risk ratings capabilities inside its Third-Party Risk product, uniting threat intelligence and risk ratings in a single workflow",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
       ]
     }
   },
@@ -1112,24 +1126,6 @@
     "summary": "Explore eight key ways that AI is reshaping the threat intelligence landscape, from creating speed and stealth advantages for adversaries to helping defenders better prioritize threats and allocate resources.",
     "analysis": {
       "issue": "Explore eight key ways that AI is reshaping the threat intelligence landscape, from creating speed and stealth advantages for adversaries to helping defenders better prioritize threats and allocate resources",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Iran War’s Secondary Effects Shape 2026 US Violent Extremism",
-    "link": "https://www.recordedfuture.com/research/iran-violent-extremism-landscape",
-    "published": "Thu, 30 Jul 2026 00:00:00 GMT",
-    "summary": "Explore the 2026 US violent extremism threat landscape. This report analyzes rising risks from HVEs, DVEs, and Iran-nexus actors to public and private sector entities.",
-    "analysis": {
-      "issue": "Explore the 2026 US violent extremism threat landscape",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1338,6 +1334,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Sideloading on Android: What it is, why it’s risky, and how to do it more safely",
+    "link": "https://www.malwarebytes.com/blog/how-to/2026/08/sideloading-on-android-what-it-is-why-its-risky-and-how-to-do-it-more-safely",
+    "published": "Wed, 19 Aug 2026 15:09:52 GMT",
+    "summary": "With the new Advanced Flow for sideloading being rolled out, it's time to discuss what sideloading is and how to do it more safely.",
+    "analysis": {
+      "issue": "A Google spokesperson announced on Reddit that it has started rolling out the first version of its Advanced Flow, designed to make installing apps from unverified developers safer",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Scammers are using fake crypto AML checkers to drain your wallet",
     "link": "https://www.malwarebytes.com/blog/threat-intel/2026/08/scammers-are-using-fake-crypto-aml-checkers-to-drain-your-wallet",
     "published": "Wed, 19 Aug 2026 10:55:06 GMT",
@@ -1504,24 +1518,6 @@
       ],
       "threat_categories": [
         "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Why Facebook’s war on ad blockers could help scammers",
-    "link": "https://www.malwarebytes.com/blog/news/2026/08/why-facebooks-war-on-ad-blockers-could-help-scammers",
-    "published": "Mon, 17 Aug 2026 08:59:07 GMT",
-    "summary": "One ad blocker is giving up the fight against Facebook ads. The consequences could go beyond annoying advertising.",
-    "analysis": {
-      "issue": "Reports that uBlock Origin is stepping back from the never-ending effort to filter Facebook ads are a reminder that ad blocking is no longer only an argument about inconvenience, publishers, and lost advertising revenue",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
         "Malware"
       ]
     }
