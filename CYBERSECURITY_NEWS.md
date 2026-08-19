@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-19 02:01:22 UTC
+**Last Updated:** 2026-08-19 09:04:56 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -98,7 +98,16 @@
 
 ---
 
-### 11. [Comcast turns your Xfinity WiFi into a home motion detector](https://www.bleepingcomputer.com/news/security/comcast-turns-your-xfinity-wifi-into-a-home-motion-detector/)
+### 11. [CISA: Medusa ransomware hit over 500 critical infrastructure orgs](https://www.bleepingcomputer.com/news/security/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 19 Aug 2026 04:00:48 -0400  
+**Severity:** Critical  
+**Categories:** Ransomware, Vulnerability  
+
+---
+
+### 12. [Comcast turns your Xfinity WiFi into a home motion detector](https://www.bleepingcomputer.com/news/security/comcast-turns-your-xfinity-wifi-into-a-home-motion-detector/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 18 Aug 2026 16:14:58 -0400  
@@ -107,7 +116,7 @@
 
 ---
 
-### 12. [Clop created custom web shell for Windchill data theft attacks](https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/)
+### 13. [Clop created custom web shell for Windchill data theft attacks](https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 18 Aug 2026 13:29:51 -0400  
@@ -117,7 +126,7 @@
 
 ---
 
-### 13. [Your Controls Block Known Attacks. What About the Behavior?](https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/)
+### 14. [Your Controls Block Known Attacks. What About the Behavior?](https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 18 Aug 2026 10:01:11 -0400  
@@ -126,7 +135,7 @@
 
 ---
 
-### 14. [Microsoft tests faster Windows File Explorer, new context menu](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-faster-windows-explorer-customizable-context-menu/)
+### 15. [Microsoft tests faster Windows File Explorer, new context menu](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-faster-windows-explorer-customizable-context-menu/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 18 Aug 2026 07:14:28 -0400  
@@ -135,7 +144,7 @@
 
 ---
 
-### 15. [CISA: Windows Task Host flaw now exploited by ransomware gangs](https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/)
+### 16. [CISA: Windows Task Host flaw now exploited by ransomware gangs](https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 18 Aug 2026 06:32:16 -0400  
@@ -145,7 +154,7 @@
 
 ---
 
-### 16. [Microsoft confirms outage affecting search in Microsoft 365 apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-bug-behind-microsoft-365-search-issues/)
+### 17. [Microsoft confirms outage affecting search in Microsoft 365 apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-bug-behind-microsoft-365-search-issues/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 18 Aug 2026 05:24:49 -0400  
@@ -154,7 +163,7 @@
 
 ---
 
-### 17. [Microsoft starts removing WMIC tool used by cybercriminals](https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/)
+### 18. [Microsoft starts removing WMIC tool used by cybercriminals](https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 18 Aug 2026 04:12:08 -0400  
@@ -163,7 +172,7 @@
 
 ---
 
-### 18. [Hacker claims 3.6 million Azure account records stolen from major companies](https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/)
+### 19. [Hacker claims 3.6 million Azure account records stolen from major companies](https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 17 Aug 2026 15:35:01 -0400  
@@ -172,21 +181,12 @@
 
 ---
 
-### 19. [Pokémon Center data breach exposes customer info, cancels some orders](https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/)
+### 20. [Pokémon Center data breach exposes customer info, cancels some orders](https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 17 Aug 2026 15:12:39 -0400  
 **Severity:** Low  
 **Categories:** Data Breach, Supply Chain  
-
----
-
-### 20. [Microsoft confirms GitHub is down worldwide](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 17 Aug 2026 10:47:08 -0400  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -204,7 +204,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62832, CVE-2026-72971, CVE-2026-68820  
+**CVEs:** CVE-2026-68820, CVE-2026-72971, CVE-2026-62832  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -241,7 +241,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56155, CVE-2026-50661, CVE-2026-56164, CVE-2026-48561  
+**CVEs:** CVE-2026-48561, CVE-2026-56155, CVE-2026-56164, CVE-2026-50661  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -282,7 +282,25 @@
 
 ---
 
-### 31. [Webinar Today: Rethinking Cyber Defense for AI-Speed Attacks](https://www.securityweek.com/webinar-today-rethinking-cyber-defense-for-ai-speed-attacks/)
+### 31. [Chrome, Firefox Updates Patch Dozens of Vulnerabilities](https://www.securityweek.com/chrome-firefox-updates-patch-dozens-of-vulnerabilities/)
+
+**Source:** Security Week  
+**Published:** Wed, 19 Aug 2026 08:19:09 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 32. [CareCloud Data Breach Impact Grows to 3.7 Million Individuals](https://www.securityweek.com/carecloud-data-breach-impact-grows-to-3-7-million-individuals/)
+
+**Source:** Security Week  
+**Published:** Wed, 19 Aug 2026 06:56:43 +0000  
+**Severity:** Low  
+**Categories:** Ransomware, Data Breach  
+
+---
+
+### 33. [Webinar Today: Rethinking Cyber Defense for AI-Speed Attacks](https://www.securityweek.com/webinar-today-rethinking-cyber-defense-for-ai-speed-attacks/)
 
 **Source:** Security Week  
 **Published:** Tue, 18 Aug 2026 15:03:30 +0000  
@@ -291,7 +309,7 @@
 
 ---
 
-### 32. [CISO Conversations: Nico Waisman – From Self-Taught Hacker to AI-Driven Offensive Security at XBOW](https://www.securityweek.com/ciso-conversations-nico-waisman-from-self-taught-hacker-to-ai-driven-offensive-security-at-xbow/)
+### 34. [CISO Conversations: Nico Waisman – From Self-Taught Hacker to AI-Driven Offensive Security at XBOW](https://www.securityweek.com/ciso-conversations-nico-waisman-from-self-taught-hacker-to-ai-driven-offensive-security-at-xbow/)
 
 **Source:** Security Week  
 **Published:** Tue, 18 Aug 2026 14:30:00 +0000  
@@ -300,7 +318,7 @@
 
 ---
 
-### 33. [AI-Driven Vulnerability Surge Breaks the Traditional Patching Model](https://www.securityweek.com/ai-driven-vulnerability-surge-breaks-the-traditional-patching-model/)
+### 35. [AI-Driven Vulnerability Surge Breaks the Traditional Patching Model](https://www.securityweek.com/ai-driven-vulnerability-surge-breaks-the-traditional-patching-model/)
 
 **Source:** Security Week  
 **Published:** Tue, 18 Aug 2026 13:00:00 +0000  
@@ -309,7 +327,7 @@
 
 ---
 
-### 34. [Xpander Raises $7.5 Million for AI Management and Governance](https://www.securityweek.com/xpander-raises-7-5-million-for-ai-management-and-governance/)
+### 36. [Xpander Raises $7.5 Million for AI Management and Governance](https://www.securityweek.com/xpander-raises-7-5-million-for-ai-management-and-governance/)
 
 **Source:** Security Week  
 **Published:** Tue, 18 Aug 2026 12:29:08 +0000  
@@ -318,7 +336,7 @@
 
 ---
 
-### 35. [Fortinet Acquires AI Security Company Virtue AI](https://www.securityweek.com/fortinet-acquires-ai-security-company-virtue-ai/)
+### 37. [Fortinet Acquires AI Security Company Virtue AI](https://www.securityweek.com/fortinet-acquires-ai-security-company-virtue-ai/)
 
 **Source:** Security Week  
 **Published:** Tue, 18 Aug 2026 12:06:21 +0000  
@@ -327,7 +345,7 @@
 
 ---
 
-### 36. [300,000 WordPress Sites Potentially Exposed to Hacking Due to Form Plugin Flaw](https://www.securityweek.com/300000-wordpress-sites-potentially-exposed-to-hacking-due-to-form-plugin-flaw/)
+### 38. [300,000 WordPress Sites Potentially Exposed to Hacking Due to Form Plugin Flaw](https://www.securityweek.com/300000-wordpress-sites-potentially-exposed-to-hacking-due-to-form-plugin-flaw/)
 
 **Source:** Security Week  
 **Published:** Tue, 18 Aug 2026 10:48:23 +0000  
@@ -337,7 +355,7 @@
 
 ---
 
-### 37. [Heights Finance Data Breach Impacts at Least 1.2 Million Individuals](https://www.securityweek.com/heights-finance-data-breach-impacts-at-least-1-2-million-individuals/)
+### 39. [Heights Finance Data Breach Impacts at Least 1.2 Million Individuals](https://www.securityweek.com/heights-finance-data-breach-impacts-at-least-1-2-million-individuals/)
 
 **Source:** Security Week  
 **Published:** Tue, 18 Aug 2026 09:18:34 +0000  
@@ -346,31 +364,13 @@
 
 ---
 
-### 38. [GitLab Patches Critical Code Injection Vulnerability](https://www.securityweek.com/gitlab-patches-critical-code-injection-vulnerability/)
+### 40. [GitLab Patches Critical Code Injection Vulnerability](https://www.securityweek.com/gitlab-patches-critical-code-injection-vulnerability/)
 
 **Source:** Security Week  
 **Published:** Tue, 18 Aug 2026 08:51:07 +0000  
 **Severity:** Critical  
 **CVEs:** CVE-2026-19478, CVE-2026-19650  
 **Categories:** Vulnerability  
-
----
-
-### 39. [Dozens of WebKit Vulnerabilities Patched With Fresh macOS, iOS Security Updates](https://www.securityweek.com/dozens-of-webkit-vulnerabilities-patched-with-fresh-macos-ios-security-updates/)
-
-**Source:** Security Week  
-**Published:** Tue, 18 Aug 2026 06:46:22 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 40. [680,000 Impacted by French Tax Authority Data Breach](https://www.securityweek.com/680000-impacted-by-french-tax-authority-data-breach/)
-
-**Source:** Security Week  
-**Published:** Mon, 17 Aug 2026 13:53:55 +0000  
-**Severity:** Low  
-**Categories:** Data Breach, Supply Chain  
 
 ---
 
@@ -397,7 +397,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 11 Aug 2026 22:21:02 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62823, CVE-2026-68820, CVE-2026-62893, CVE-2026-65665  
+**CVEs:** CVE-2026-62893, CVE-2026-68820, CVE-2026-62823, CVE-2026-65665  
 **Categories:** Vulnerability  
 
 ---

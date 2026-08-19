@@ -190,6 +190,25 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "CISA: Medusa ransomware hit over 500 critical infrastructure orgs",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs/",
+    "published": "Wed, 19 Aug 2026 04:00:48 -0400",
+    "summary": "The FBI said Tuesday that the Medusa ransomware gang has breached more than 500 critical infrastructure organizations in the United States since June 2021. [...]",
+    "analysis": {
+      "issue": "The Cybersecurity and Infrastructure Security Agency (CISA) said Tuesday that the Medusa ransomware gang has breached more than 500 critical infrastructure organizations in the United States since June 2021",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Comcast turns your Xfinity WiFi into a home motion detector",
     "link": "https://www.bleepingcomputer.com/news/security/comcast-turns-your-xfinity-wifi-into-a-home-motion-detector/",
     "published": "Tue, 18 Aug 2026 16:14:58 -0400",
@@ -358,24 +377,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Microsoft confirms GitHub is down worldwide",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/",
-    "published": "Mon, 17 Aug 2026 10:47:08 -0400",
-    "summary": "GitHub is down for some users as a widespread outage is causing errors across the website, API, Actions, Pull Requests, and several other services. [...]",
-    "analysis": {
-      "issue": "GitHub is down for some users as a widespread outage is causing errors across the website, API, Actions, Pull Requests, and several other services",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Who’s Tracking You? Use This New Service to Find Out",
     "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
@@ -406,9 +407,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-62832",
+        "CVE-2026-68820",
         "CVE-2026-72971",
-        "CVE-2026-68820"
+        "CVE-2026-62832"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -485,10 +486,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-48561",
         "CVE-2026-56155",
-        "CVE-2026-50661",
         "CVE-2026-56164",
-        "CVE-2026-48561"
+        "CVE-2026-50661"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -568,6 +569,43 @@
       "threat_categories": [
         "Ransomware",
         "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Chrome, Firefox Updates Patch Dozens of Vulnerabilities",
+    "link": "https://www.securityweek.com/chrome-firefox-updates-patch-dozens-of-vulnerabilities/",
+    "published": "Wed, 19 Aug 2026 08:19:09 +0000",
+    "summary": "<p>The bugs could lead to code execution, privilege escalation, sandbox escape, and information disclosure.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-firefox-updates-patch-dozens-of-vulnerabilities/\">Chrome, Firefox Updates Patch Dozens of Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The bugs could lead to code execution, privilege escalation, sandbox escape, and information disclosure",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "CareCloud Data Breach Impact Grows to 3.7 Million Individuals",
+    "link": "https://www.securityweek.com/carecloud-data-breach-impact-grows-to-3-7-million-individuals/",
+    "published": "Wed, 19 Aug 2026 06:56:43 +0000",
+    "summary": "<p>The data breach was initially believed to affect roughly 350,000 people, but the HHS breach tracker shows a far bigger impact.</p>\n<p>The post <a href=\"https://www.securityweek.com/carecloud-data-breach-impact-grows-to-3-7-million-individuals/\">CareCloud Data Breach Impact Grows to 3.7 Million Individuals</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The data breach was initially believed to affect roughly 350,000 people, but the HHS breach tracker shows a far bigger impact",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach"
       ]
     }
   },
@@ -728,43 +766,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Dozens of WebKit Vulnerabilities Patched With Fresh macOS, iOS Security Updates",
-    "link": "https://www.securityweek.com/dozens-of-webkit-vulnerabilities-patched-with-fresh-macos-ios-security-updates/",
-    "published": "Tue, 18 Aug 2026 06:46:22 +0000",
-    "summary": "<p>The bugs could be exploited to crash Safari, corrupt memory, leak sensitive data, escape the sandbox, and exfiltrate data.</p>\n<p>The post <a href=\"https://www.securityweek.com/dozens-of-webkit-vulnerabilities-patched-with-fresh-macos-ios-security-updates/\">Dozens of WebKit Vulnerabilities Patched With Fresh macOS, iOS Security Updates</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The bugs could be exploited to crash Safari, corrupt memory, leak sensitive data, escape the sandbox, and exfiltrate data",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "680,000 Impacted by French Tax Authority Data Breach",
-    "link": "https://www.securityweek.com/680000-impacted-by-french-tax-authority-data-breach/",
-    "published": "Mon, 17 Aug 2026 13:53:55 +0000",
-    "summary": "<p>Hackers used compromised credentials to access enterprise and personal tax-related data.</p>\n<p>The post <a href=\"https://www.securityweek.com/680000-impacted-by-french-tax-authority-data-breach/\">680,000 Impacted by French Tax Authority Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Hackers used compromised credentials to access enterprise and personal tax-related data",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Curiouser and Curiouser",
     "link": "https://blog.talosintelligence.com/curiouser-and-curiouser/",
@@ -814,9 +815,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-62823",
-        "CVE-2026-68820",
         "CVE-2026-62893",
+        "CVE-2026-68820",
+        "CVE-2026-62823",
         "CVE-2026-65665"
       ],
       "threat_categories": [
