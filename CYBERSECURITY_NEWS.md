@@ -1,10 +1,39 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-18 16:58:19 UTC
+**Last Updated:** 2026-08-19 01:36:47 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [AI "Mind Viruses" Can Spread Between Agents Through Persistent Prompt Files](https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html)
+### 1. [Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps](https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 18 Aug 2026 23:17:22 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-24301  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets](https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 18 Aug 2026 23:14:05 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-25895, CVE-2026-64849  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000](https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 18 Aug 2026 22:28:16 +0530  
+**Severity:** Low  
+**Categories:** Ransomware  
+
+---
+
+### 4. [AI "Mind Viruses" Can Spread Between Agents Through Persistent Prompt Files](https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 18 Aug 2026 18:08:36 +0530  
@@ -13,7 +42,7 @@
 
 ---
 
-### 2. [TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks](https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html)
+### 5. [TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks](https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 18 Aug 2026 18:08:20 +0530  
@@ -22,7 +51,7 @@
 
 ---
 
-### 3. [One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025](https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html)
+### 6. [One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025](https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 18 Aug 2026 17:00:00 +0530  
@@ -31,7 +60,7 @@
 
 ---
 
-### 4. [16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets](https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html)
+### 7. [16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets](https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 18 Aug 2026 16:50:00 +0530  
@@ -40,7 +69,7 @@
 
 ---
 
-### 5. [SafePal Hardware Wallet Maker Says Flaw Exposed Data of Nearly 40,000 Customers](https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html)
+### 8. [SafePal Hardware Wallet Maker Says Flaw Exposed Data of Nearly 40,000 Customers](https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 18 Aug 2026 14:40:45 +0530  
@@ -49,7 +78,7 @@
 
 ---
 
-### 6. [CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE](https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html)
+### 9. [CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE](https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 18 Aug 2026 12:04:20 +0530  
@@ -59,7 +88,7 @@
 
 ---
 
-### 7. [Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects](https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html)
+### 10. [Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects](https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 18 Aug 2026 02:33:04 +0530  
@@ -69,35 +98,26 @@
 
 ---
 
-### 8. [Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection](https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html)
+### 11. [Comcast turns your Xfinity WiFi into a home motion detector](https://www.bleepingcomputer.com/news/security/comcast-turns-your-xfinity-wifi-into-a-home-motion-detector/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 18 Aug 2026 00:14:17 +0530  
-**Severity:** Low  
+**Source:** Bleeping Computer  
+**Published:** Tue, 18 Aug 2026 16:14:58 -0400  
+**Severity:** High  
 **Categories:** General Security  
 
 ---
 
-### 9. [Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads](https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html)
+### 12. [Clop created custom web shell for Windchill data theft attacks](https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/)
 
-**Source:** The Hacker News  
-**Published:** Mon, 17 Aug 2026 23:52:09 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-15748  
-**Categories:** Vulnerability  
-
----
-
-### 10. [Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic](https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 17 Aug 2026 23:11:06 +0530  
-**Severity:** Low  
-**Categories:** General Security  
+**Source:** Bleeping Computer  
+**Published:** Tue, 18 Aug 2026 13:29:51 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-12569  
+**Categories:** Ransomware, Vulnerability  
 
 ---
 
-### 11. [Your Controls Block Known Attacks. What About the Behavior?](https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/)
+### 13. [Your Controls Block Known Attacks. What About the Behavior?](https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 18 Aug 2026 10:01:11 -0400  
@@ -106,7 +126,7 @@
 
 ---
 
-### 12. [Microsoft tests faster Windows File Explorer, new context menu](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-faster-windows-explorer-customizable-context-menu/)
+### 14. [Microsoft tests faster Windows File Explorer, new context menu](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-faster-windows-explorer-customizable-context-menu/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 18 Aug 2026 07:14:28 -0400  
@@ -115,7 +135,7 @@
 
 ---
 
-### 13. [CISA: Windows Task Host flaw now exploited by ransomware gangs](https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/)
+### 15. [CISA: Windows Task Host flaw now exploited by ransomware gangs](https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 18 Aug 2026 06:32:16 -0400  
@@ -125,7 +145,7 @@
 
 ---
 
-### 14. [Microsoft confirms outage affecting search in Microsoft 365 apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-bug-behind-microsoft-365-search-issues/)
+### 16. [Microsoft confirms outage affecting search in Microsoft 365 apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-bug-behind-microsoft-365-search-issues/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 18 Aug 2026 05:24:49 -0400  
@@ -134,7 +154,7 @@
 
 ---
 
-### 15. [Microsoft starts removing WMIC tool used by cybercriminals](https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/)
+### 17. [Microsoft starts removing WMIC tool used by cybercriminals](https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 18 Aug 2026 04:12:08 -0400  
@@ -143,7 +163,7 @@
 
 ---
 
-### 16. [Hacker claims 3.6 million Azure account records stolen from major companies](https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/)
+### 18. [Hacker claims 3.6 million Azure account records stolen from major companies](https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 17 Aug 2026 15:35:01 -0400  
@@ -152,7 +172,7 @@
 
 ---
 
-### 17. [Pokémon Center data breach exposes customer info, cancels some orders](https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/)
+### 19. [Pokémon Center data breach exposes customer info, cancels some orders](https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 17 Aug 2026 15:12:39 -0400  
@@ -161,29 +181,10 @@
 
 ---
 
-### 18. [Microsoft confirms GitHub is down worldwide](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/)
+### 20. [Microsoft confirms GitHub is down worldwide](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 17 Aug 2026 10:47:08 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 19. [Certighost and the Privilege Hiding in Your Certificate Authority](https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 17 Aug 2026 10:00:10 -0400  
-**Severity:** Low  
-**CVEs:** CVE-2026-54121  
-**Categories:** Vulnerability  
-
----
-
-### 20. [Windows Server 2022 reaches end of mainstream support in 60 days](https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 17 Aug 2026 08:33:11 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -203,7 +204,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-72971, CVE-2026-62832, CVE-2026-68820  
+**CVEs:** CVE-2026-68820, CVE-2026-72971, CVE-2026-62832  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -240,7 +241,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56164, CVE-2026-56155, CVE-2026-50661, CVE-2026-48561  
+**CVEs:** CVE-2026-50661, CVE-2026-56155, CVE-2026-48561, CVE-2026-56164  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -350,7 +351,7 @@
 **Source:** Security Week  
 **Published:** Tue, 18 Aug 2026 08:51:07 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-19478, CVE-2026-19650  
+**CVEs:** CVE-2026-19650, CVE-2026-19478  
 **Categories:** Vulnerability  
 
 ---
@@ -396,7 +397,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 11 Aug 2026 22:21:02 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-65665, CVE-2026-62893, CVE-2026-62823, CVE-2026-68820  
+**CVEs:** CVE-2026-62823, CVE-2026-68820, CVE-2026-62893, CVE-2026-65665  
 **Categories:** Vulnerability  
 
 ---
@@ -473,7 +474,16 @@
 
 ---
 
-### 52. [Malware Crypting Services and the Threat Actors Who Sell Them](https://www.recordedfuture.com/research/malware-crypting-services-threat-actors)
+### 52. [CopyCop Targets AI Investment in Armenia](https://www.recordedfuture.com/blog/copycop-targets-ai-investment)
+
+**Source:** Recorded Future  
+**Published:** Tue, 18 Aug 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 53. [Malware Crypting Services and the Threat Actors Who Sell Them](https://www.recordedfuture.com/research/malware-crypting-services-threat-actors)
 
 **Source:** Recorded Future  
 **Published:** Thu, 13 Aug 2026 00:00:00 GMT  
@@ -482,7 +492,7 @@
 
 ---
 
-### 53. [Mines, Minds, and Machines: The Journey of AI](https://www.recordedfuture.com/blog/mines-minds-machines)
+### 54. [Mines, Minds, and Machines: The Journey of AI](https://www.recordedfuture.com/blog/mines-minds-machines)
 
 **Source:** Recorded Future  
 **Published:** Tue, 11 Aug 2026 00:00:00 GMT  
@@ -491,7 +501,7 @@
 
 ---
 
-### 54. [The Hugging Face Hack Was Cheap Persistence at Work](https://www.recordedfuture.com/blog/hugging-face-cheap-persistence)
+### 55. [The Hugging Face Hack Was Cheap Persistence at Work](https://www.recordedfuture.com/blog/hugging-face-cheap-persistence)
 
 **Source:** Recorded Future  
 **Published:** Mon, 10 Aug 2026 00:00:00 GMT  
@@ -500,7 +510,7 @@
 
 ---
 
-### 55. [July 2026 CVE Landscape](https://www.recordedfuture.com/blog/july-2026-cve-landscape)
+### 56. [July 2026 CVE Landscape](https://www.recordedfuture.com/blog/july-2026-cve-landscape)
 
 **Source:** Recorded Future  
 **Published:** Fri, 07 Aug 2026 00:00:00 GMT  
@@ -509,7 +519,7 @@
 
 ---
 
-### 56. [Emerging Threats to Neurotechnology](https://www.recordedfuture.com/research/emerging-threats-neurotechnology)
+### 57. [Emerging Threats to Neurotechnology](https://www.recordedfuture.com/research/emerging-threats-neurotechnology)
 
 **Source:** Recorded Future  
 **Published:** Thu, 06 Aug 2026 00:00:00 GMT  
@@ -518,7 +528,7 @@
 
 ---
 
-### 57. [Hype vs. Reality: What the Hugging Face Incident Means for AI Safety](https://www.recordedfuture.com/blog/hugging-face-ai-safety)
+### 58. [The Hugging Face Incident Was a Governance Failure](https://www.recordedfuture.com/blog/hugging-face-ai-safety)
 
 **Source:** Recorded Future  
 **Published:** Wed, 05 Aug 2026 00:00:00 GMT  
@@ -527,7 +537,7 @@
 
 ---
 
-### 58. [8 Ways AI is Changing Threat Intelligence](https://www.recordedfuture.com/blog/ai-changing-threat-intelligence)
+### 59. [8 Ways AI is Changing Threat Intelligence](https://www.recordedfuture.com/blog/ai-changing-threat-intelligence)
 
 **Source:** Recorded Future  
 **Published:** Mon, 03 Aug 2026 00:00:00 GMT  
@@ -536,21 +546,12 @@
 
 ---
 
-### 59. [Iran War’s Secondary Effects Shape 2026 US Violent Extremism](https://www.recordedfuture.com/research/iran-violent-extremism-landscape)
+### 60. [Iran War’s Secondary Effects Shape 2026 US Violent Extremism](https://www.recordedfuture.com/research/iran-violent-extremism-landscape)
 
 **Source:** Recorded Future  
 **Published:** Thu, 30 Jul 2026 00:00:00 GMT  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 60. [Dealing with AI-Generated Extortion](https://www.recordedfuture.com/blog/ai-generated-extortion)
-
-**Source:** Recorded Future  
-**Published:** Thu, 30 Jul 2026 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** Ransomware  
 
 ---
 

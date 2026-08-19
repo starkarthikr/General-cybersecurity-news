@@ -1,6 +1,65 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
+    "link": "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html",
+    "published": "Tue, 18 Aug 2026 23:17:22 +0530",
+    "summary": "Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to silently pull data from connected apps and other information available to the victim's Copilot session.\n\nThe flaws, which the researchers collectively named CoSnitch, turn in part on an undocumented URL parameter that the assistant itself surfaced",
+    "analysis": {
+      "issue": "CVE-2026-24301 lets crafted Copilot Personal links auto-run prompts that can pull data from connected apps and exfiltrate it via URL fetches",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-24301"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets",
+    "link": "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html",
+    "published": "Tue, 18 Aug 2026 23:14:05 +0530",
+    "summary": "Two critical vulnerabilities impacting MLflow, an open-source artificial intelligence (AI) platform, and FUXA, an open-source, web-based SCADA / HMI software built for operational technology (OT) and industrial automation, are witnessing malicious scanning and exploitation efforts.\n\nAccording to independent reports from watchTowr and VulnCheck, the vulnerabilities in question are as follows -",
+    "analysis": {
+      "issue": "Attackers exploit MLflow CVE-2026-64849 via SSRF to steal cloud credentials, while FUXA CVE-2026-25895 draws malicious scanning",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-25895",
+        "CVE-2026-64849"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000",
+    "link": "https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html",
+    "published": "Tue, 18 Aug 2026 22:28:16 +0530",
+    "summary": "A ransomware affiliate calling itself Ransom Busters has been spotted proactively sending emails to victim organizations and claims to delete stolen data from ransomware groups' servers in exchange for a fee ranging from $20,000 to $60,000.\n\n\"In these messages, the third-party offers to help the victim recover from ransomware attack. This immediately stands out as anomalous,\" GuidePoint Research",
+    "analysis": {
+      "issue": "Ransom Busters claims ransomware server access and asks victims for $20,000 to $60,000 to recover files and delete stolen data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
     "link": "https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html",
     "published": "Tue, 18 Aug 2026 18:08:36 +0530",
@@ -130,17 +189,17 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection",
-    "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html",
-    "published": "Tue, 18 Aug 2026 00:14:17 +0530",
-    "summary": "Cybersecurity researchers at Wiz&nbsp;have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake's public&nbsp;snowflakedb/snowflake-connector-net repository that it said could be exploited through a crafted GitHub issue to execute commands in a workflow containing internal Jira credentials.\n\nThe issue was present in&nbsp;.github/workflows/jira_issue.yml, which ran when a",
+    "source": "Bleeping Computer",
+    "title": "Comcast turns your Xfinity WiFi into a home motion detector",
+    "link": "https://www.bleepingcomputer.com/news/security/comcast-turns-your-xfinity-wifi-into-a-home-motion-detector/",
+    "published": "Tue, 18 Aug 2026 16:14:58 -0400",
+    "summary": "Comcast is promoting WiFi-based motion detection as a part of its new Xfinity Shield home protection platform, allowing routers and wireless devices to detect people moving through a home without cameras or motion sensors. [...]",
     "analysis": {
-      "issue": "Wiz says a GitHub Actions workflow injection in Snowflake's",
+      "issue": "Comcast is promoting WiFi-based motion detection as a part of its new Xfinity Shield home protection platform, allowing routers and wireless devices to detect people moving through a home without cameras or motion sensors",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
         "General Security"
@@ -148,40 +207,23 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads",
-    "link": "https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html",
-    "published": "Mon, 17 Aug 2026 23:52:09 +0530",
-    "summary": "A critical security flaw has been disclosed in Forminator Forms, a WordPress plugin with more than 600,000 active installations, that could be exploited to achieve arbitrary code execution on susceptible sites.\n\nThe vulnerability, tracked as CVE-2026-15748, is rated 9.8 out of 10.0 on the CVSS scoring system. It was discovered and reported by a security researcher who goes by the online alias \"",
+    "source": "Bleeping Computer",
+    "title": "Clop created custom web shell for Windchill data theft attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/",
+    "published": "Tue, 18 Aug 2026 13:29:51 -0400",
+    "summary": "A custom Java web shell likely linked to the Clop ransomware gang was designed specifically for PTC Windchill and FlexPLM servers, with built-in features to decrypt credentials, enumerate file repositories, and steal files. [...]",
     "analysis": {
-      "issue": "Forminator CVE-2026-15748 lets unauthenticated attackers upload PHP files and reach RCE on sites using vulnerable form configurations",
+      "issue": "A custom Java web shell likely linked to the Clop ransomware gang was designed specifically for PTC Windchill and FlexPLM servers, with built-in features to decrypt credentials, enumerate file repositories, and steal files",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [
-        "CVE-2026-15748"
+        "CVE-2026-12569"
       ],
       "threat_categories": [
+        "Ransomware",
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic",
-    "link": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
-    "published": "Mon, 17 Aug 2026 23:11:06 +0530",
-    "summary": "Cybersecurity researchers have traced the continued evolution of the Cavern (aka Cav3rn) command-and-control (C2) framework used by Iranian nation-state hackers in attacks targeting entities in Israel.\n\nRussian cybersecurity company Kaspersky said its ongoing monitoring of the threat activity cluster since December 2025 has led to the discovery of previously unreported components that expand the",
-    "analysis": {
-      "issue": "Cavern uses DNS A records to switch between direct HTTPS and Google Apps Script for C2, expanding an Iranian-linked toolkit targeting Israel",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -334,44 +376,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Certighost and the Privilege Hiding in Your Certificate Authority",
-    "link": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
-    "published": "Mon, 17 Aug 2026 10:00:10 -0400",
-    "summary": "CVE-2026-54121 lets a standard domain user turn your Enterprise CA into a Domain Controller. The patch is the easy part. The lesson is standing privilege, implicit trust, and treating PKI as the Tier 0 identity infrastructure it has always been. [...]",
-    "analysis": {
-      "issue": "Author: Len Noe, Solutions Architect, BeyondTrust Every mature Active Directory environment has a component that quietly holds more power than the people running it usually admit: the Certification Authority (CA)",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-54121"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Windows Server 2022 reaches end of mainstream support in 60 days",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/",
-    "published": "Mon, 17 Aug 2026 08:33:11 -0400",
-    "summary": "Microsoft has reminded IT administrators that Windows Server 2022 is rapidly approaching its mainstream end date of October 2026, when it will switch to extended support. [...]",
-    "analysis": {
-      "issue": "Microsoft has reminded IT administrators that Windows Server 2022 is rapidly approaching its mainstream end date of October 2026, when it will switch to extended support",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Who’s Tracking You? Use This New Service to Find Out",
     "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
@@ -402,9 +406,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-68820",
         "CVE-2026-72971",
-        "CVE-2026-62832",
-        "CVE-2026-68820"
+        "CVE-2026-62832"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -481,10 +485,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56164",
-        "CVE-2026-56155",
         "CVE-2026-50661",
-        "CVE-2026-48561"
+        "CVE-2026-56155",
+        "CVE-2026-48561",
+        "CVE-2026-56164"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -715,8 +719,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-19478",
-        "CVE-2026-19650"
+        "CVE-2026-19650",
+        "CVE-2026-19478"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -810,10 +814,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-65665",
-        "CVE-2026-62893",
         "CVE-2026-62823",
-        "CVE-2026-68820"
+        "CVE-2026-68820",
+        "CVE-2026-62893",
+        "CVE-2026-65665"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -971,6 +975,24 @@
   },
   {
     "source": "Recorded Future",
+    "title": "CopyCop Targets AI Investment in Armenia",
+    "link": "https://www.recordedfuture.com/blog/copycop-targets-ai-investment",
+    "published": "Tue, 18 Aug 2026 00:00:00 GMT",
+    "summary": "The Russian influence network CopyCop is targeting Western-backed AI and infrastructure projects in Armenia, including the Firebird AI data center, to undermine the country’s westward geopolitical realignment.",
+    "analysis": {
+      "issue": "The Russian influence network CopyCop is targeting Western-backed AI and infrastructure projects in Armenia, including the Firebird AI data center, to undermine the country’s westward geopolitical realignment",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
     "title": "Malware Crypting Services and the Threat Actors Who Sell Them",
     "link": "https://www.recordedfuture.com/research/malware-crypting-services-threat-actors",
     "published": "Thu, 13 Aug 2026 00:00:00 GMT",
@@ -1061,7 +1083,7 @@
   },
   {
     "source": "Recorded Future",
-    "title": "Hype vs. Reality: What the Hugging Face Incident Means for AI Safety",
+    "title": "The Hugging Face Incident Was a Governance Failure",
     "link": "https://www.recordedfuture.com/blog/hugging-face-ai-safety",
     "published": "Wed, 05 Aug 2026 00:00:00 GMT",
     "summary": "Discover the security lessons from the recent incident where autonomous AI agents breached Hugging Face infrastructure.",
@@ -1110,24 +1132,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Dealing with AI-Generated Extortion",
-    "link": "https://www.recordedfuture.com/blog/ai-generated-extortion",
-    "published": "Thu, 30 Jul 2026 00:00:00 GMT",
-    "summary": "Combat AI-generated extortion and fake ransomware leaks. Learn how organizations can verify data authenticity using robust governance and threat intelligence.",
-    "analysis": {
-      "issue": "Combat AI-generated extortion and fake ransomware leaks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
       ]
     }
   },
