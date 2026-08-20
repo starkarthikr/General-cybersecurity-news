@@ -1,6 +1,154 @@
 [
   {
     "source": "The Hacker News",
+    "title": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
+    "link": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
+    "published": "Thu, 20 Aug 2026 20:06:27 +0530",
+    "summary": "Adversa AI has disclosed an attack technique that it says can cause xAI's Grok chatbot to send a user's name, approximate location, subscription tier, and the prompts from the ongoing conversation to an attacker-controlled server after the user asks it to summarize an ordinary web page.\n\nThe AI security company, which has codenamed the technique \"Cryptographic Context Injection,\" said the",
+    "analysis": {
+      "issue": "Adversa says encrypted prompt injection can make Grok send a user's name, location, tier, and chat prompts to an attacker-controlled server",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE",
+    "link": "https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html",
+    "published": "Thu, 20 Aug 2026 19:18:24 +0530",
+    "summary": "Cybersecurity researchers have disclosed a critical security flaw in isolated-vm, a popular open-source sandbox with more than 2,900 stars and 190 forks on GitHub, that could allow attackers to escape the confines of the isolated environment.\n\nThe vulnerability (\"GHSA-864f-rcv7-6rh4\"), which has yet to be assigned a CVE identifier, impacts all versions of the library before and including 7.0.0.",
+    "analysis": {
+      "issue": "Isolated-vm's ExternalCopy type confusion lets sandboxed code corrupt host memory and potentially reach host RCE; fixes are in 6",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers",
+    "link": "https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html",
+    "published": "Thu, 20 Aug 2026 19:05:13 +0530",
+    "summary": "Citrix has released updates to address two security flaws impacting NetScaler ADC and NetScaler Gateway deployments, including a critical-severity authentication bypass vulnerability.\n\nAccording to the cloud computing and virtualization technology company, the issues affect customer-managed NetScaler ADC and NetScaler Gateway, including certain FIPS and NDcPP builds, as well as SecurAccess",
+    "analysis": {
+      "issue": "Citrix fixes NetScaler CVE-2026-19490, a CVSS 9",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-19490"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution",
+    "link": "https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html",
+    "published": "Thu, 20 Aug 2026 18:54:28 +0530",
+    "summary": "A now-patched security flaw impacting Zimbra Collaboration (ZCS) has come under active exploitation in the wild, according to the Polish Computer Emergency Response Team (CERT Polska).\n\nThe vulnerability in question is CVE-2026-73570 (CVSS score: 8.9), which refers to a case of command injection that can lead to remote code execution.\n\n\"A remote code execution vulnerability exists in Zimbra",
+    "analysis": {
+      "issue": "Attackers exploit CVE-2026-73570 on Zimbra servers with zimbra-snmp installed and SNMP notifications enabled, allowing unauthenticated RCE",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-73570"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments",
+    "link": "https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html",
+    "published": "Thu, 20 Aug 2026 17:31:24 +0530",
+    "summary": "Researchers at the University of Massachusetts Amherst have demonstrated an attack that revives expired Visa contactless credit cards for real in-store purchases by rewriting the expiration date a point-of-sale (POS) terminal reads over near-field communication (NFC), without breaking any of the card's cryptography.\n\nThe attack, which the researchers named \"Zombie Card,\" requires physical",
+    "analysis": {
+      "issue": "Zombie Card rewrites Visa NFC expiry data in transit, reviving expired cards at one tested U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Why \"Shady AI\" is Security's Next Big Governance Problem",
+    "link": "https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html",
+    "published": "Thu, 20 Aug 2026 17:15:00 +0530",
+    "summary": "In March 2026, an internal AI agent at Meta triggered a “Sev 1” incident after sensitive company and user data was exposed to employees who weren’t authorized to access it.&nbsp;\n\nThe incident began when a Meta employee posted a technical question on an internal forum. An engineer used an approved AI agent to analyze it, but the agent posted its response publicly without approval. The employee",
+    "analysis": {
+      "issue": "A Meta AI agent exposed sensitive company and user data to unauthorized employees for over two hours, triggering a Sev 1 incident",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "CDN Tsunami Attack Abuses HTTP/3 Translation for Up to 350x DoS Amplification",
+    "link": "https://thehackernews.com/2026/08/cdn-tsunami-attack-abuses-http3.html",
+    "published": "Thu, 20 Aug 2026 17:09:35 +0530",
+    "summary": "Cybersecurity researchers have disclosed two denial-of-service (DoS) attacks that exploit how major content delivery networks (CDNs) convert client-facing HTTP/3 traffic into HTTP/1.1 requests to the websites they front, amplifying a low-bandwidth request stream by up to 350x against the origin server.\n\nThe attacks, collectively named \"CDN Tsunami,\" were evaluated against Alibaba, Baidu,",
+    "analysis": {
+      "issue": "CDN Tsunami abuses HTTP/3-to-HTTP/1",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Manic Android Malware Exfiltrates Data From Offline Phones via Nearby Infected Devices",
+    "link": "https://thehackernews.com/2026/08/manic-android-malware-exfiltrates-data.html",
+    "published": "Thu, 20 Aug 2026 16:56:08 +0530",
+    "summary": "A new Android threat codenamed Manic has been observed actively targeting Ukrainian banks, government and identity services, and messaging applications, as well as Russian and European financial institutions, global fintech and cryptocurrency services, and military-focused communications.\n\n\"Manic sits at the intersection of Android banking malware and mobile spyware, combining financial-fraud",
+    "analysis": {
+      "issue": "Manic Android malware targets 169 apps and can relay collected data through nearby infected devices when the source phone is offline",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "NASA AIT-GUI Flaws Could Let Unauthenticated Attackers Issue Spacecraft Commands",
     "link": "https://thehackernews.com/2026/08/nasa-ait-gui-flaws-could-let.html",
     "published": "Thu, 20 Aug 2026 16:35:11 +0530",
@@ -36,35 +184,17 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "40 Malicious Firefox Extensions Pose as Web3 Products to Steal Wallet Secrets",
-    "link": "https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html",
-    "published": "Thu, 20 Aug 2026 14:12:03 +0530",
-    "summary": "A set of 40 Mozilla Firefox extensions has been found to engage in cryptocurrency wallet theft by masquerading as OKX, Rabby Wallet, TronLink, and other Web3 products.\n\nAccording to the Socket Threat Research team, the extensions are part of a broader set of 77 browser add-ons that share source code and infrastructure overlaps. The campaign, dubbed Offside Wallet Theft Factory, is believed to",
+    "source": "Bleeping Computer",
+    "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
+    "published": "Thu, 20 Aug 2026 10:39:48 -0400",
+    "summary": "A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server. [...]",
     "analysis": {
-      "issue": "40 malicious Firefox extensions pose as Web3 products to steal recovery phrases, private keys, keyrings, credentials, and clipboard data",
+      "issue": "A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code",
-    "link": "https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html",
-    "published": "Thu, 20 Aug 2026 11:34:34 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a critical flaw in the Elementor Pro WordPress plugin that, if successfully exploited, could lead to remote code execution.\n\nThe vulnerability, tracked as CVE-2026-32475, carries a CVSS score of 9.0 out of 10.0. It has been described as a case of unrestricted upload of a file with a dangerous type.\n\n\"The flaw lives in the Forms module's File",
-    "analysis": {
-      "issue": "Elementor Pro CVE-2026-32475 lets unauthenticated attackers bypass file checks and upload PHP for remote code execution",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [
         "CVE-2026-32475"
       ],
@@ -74,110 +204,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
-    "link": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
-    "published": "Thu, 20 Aug 2026 00:32:40 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a&nbsp;remote Spectre attack&nbsp;against Cloudflare Workers that leaked a JSON Web Token (JWT) from a co-located Worker in the production environment at up to 12 bits per second, 360 times the rate of an earlier attack demonstrated in 2021.\n\nThe end-to-end experiment used an attacker Worker and a victim Worker controlled by the researchers,",
+    "source": "Bleeping Computer",
+    "title": "How MSPs can catch phishing attacks email filters miss",
+    "link": "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/",
+    "published": "Thu, 20 Aug 2026 10:01:11 -0400",
+    "summary": "AI is making phishing attacks more personalized, convincing, and difficult for traditional email filters to detect. Kaseya explains how MSPs can monitor identity, email, and endpoint activity to detect and contain attacks that make it past the inbox. [...]",
     "analysis": {
-      "issue": "Researchers leak a JWT from a co-located Cloudflare Worker via Spectre at up to 12 bits per second; Cloudflare says the attack is mitigated",
+      "issue": "Your clients receive thousands of emails every day, but all it takes is one convincing message to turn a seemingly harmless email into a security incident you will be responsible for cleaning up",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior",
-    "link": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html",
-    "published": "Wed, 19 Aug 2026 23:36:44 +0530",
-    "summary": "OpenAI on Tuesday revealed that it paused reinforcement learning (RL) training for its latest artificial intelligence (AI) models for two weeks while it shored up additional defenses and increased the scope of its monitoring to avert another Hugging Face-like incident.\n\n\"As models become more capable, the risks associated with developing and testing them internally also grow,\" the AI company",
-    "analysis": {
-      "issue": "OpenAI pauses frontier RL training for two weeks, keeps its largest planned run on hold, and adds stricter monitoring and isolation",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
-    "link": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html",
-    "published": "Wed, 19 Aug 2026 18:42:17 +0530",
-    "summary": "A previously unreported cyber espionage operation dubbed SilkParasite has been observed targeting government bodies in Central Asia.\n\nThe intrusion set makes use of seven remote access tool (RAT) families, five of which have never been previously documented: DriveSilkRAT, CookiETagRAT, NomadRAT, GoginRAT, and NodeEdgeRAT. SilkParasite, first discovered in late 2025, is assessed to be a",
-    "analysis": {
-      "issue": "SilkParasite targets Central Asian governments with seven RATs, five newly documented, using DLL sideloading and likely AI-assisted development",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P",
-    "link": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html",
-    "published": "Wed, 19 Aug 2026 17:04:28 +0530",
-    "summary": "Cybersecurity researchers at Hunt.io have disclosed details of a campaign that they say compromised more than 14,530 Dahua devices between June 17 and July 22, 2026, using credential attacks, two authentication-bypass flaws, and a peer-to-peer (P2P) relay technique.\n\nThe activity, codenamed Operation CameraSwarm, was reconstructed from a 407 MB exposed working directory containing 2,616 files",
-    "analysis": {
-      "issue": "Researchers say Operation CameraSwarm compromised 14,530+ Dahua devices using credential attacks, auth bypass flaws, and P2P relays",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Phishing 3.0: The Fight Moves to Agent Versus Agent",
-    "link": "https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html",
-    "published": "Wed, 19 Aug 2026 17:00:00 +0530",
-    "summary": "Most email defenses still do the job they did a decade ago. Scan the message, look for something malicious, block it. That worked when the danger sat in the payload, a bad link or an attachment. It stopped working when the danger moved into the message's intent, and it is failing now that the sender is no longer a person.\n\nFrom Bad Content to Bad Intent to AI on Both Sides\n\nPhishing 1.0 was bad",
-    "analysis": {
-      "issue": "Attackers run AI agents that research your company, write the lure, and hold conversations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data",
-    "link": "https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html",
-    "published": "Wed, 19 Aug 2026 16:55:28 +0530",
-    "summary": "Cybersecurity researchers have flagged a global cybercrime operation that abuses thousands of hacked WordPress websites as infrastructure to disseminate malware, commandeer infected hosts, store stolen documents, screenshots, and activity logs created to track the status of the activity.\n\n\"The operation doesn't rely on a single piece of malware, but on a whole toolkit of criminal software",
-    "analysis": {
-      "issue": "StopAndProtect uses close to 2,000 hacked WordPress sites to deliver malware and run C2, compromising 6,000+ unique IP addresses",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
@@ -194,8 +234,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-19489",
-        "CVE-2026-19490"
+        "CVE-2026-19490",
+        "CVE-2026-19489"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -337,46 +377,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Healthtech firm CareCloud data breach impacts 3.7 million patients",
-    "link": "https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/",
-    "published": "Wed, 19 Aug 2026 16:07:12 -0400",
-    "summary": "U.S. healthcare IT company CareCloud disclosed that the data breach incident it suffered earlier this year has impacted more than 3.7 million individuals. [...]",
-    "analysis": {
-      "issue": "healthcare IT company CareCloud disclosed that the data breach incident it suffered earlier this year has impacted more than 3",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers compromise 14,500 Dahua web cameras in 35-day campaign",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign/",
-    "published": "Wed, 19 Aug 2026 14:09:13 -0400",
-    "summary": "In a large-scale campaign that researchers dubbed CameraSwarm, hackers compromised more than 14,500 Dahua IP cameras mostly in Ukraine and Russia. [...]",
-    "analysis": {
-      "issue": "In a large-scale campaign that researchers dubbed CameraSwarm, hackers compromised more than 14,500 Dahua IP cameras mostly in Ukraine and Russia",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2025-31702",
-        "CVE-2024-39943"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "APT"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Who’s Tracking You? Use This New Service to Find Out",
     "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
@@ -407,9 +407,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-62832",
         "CVE-2026-72971",
-        "CVE-2026-68820"
+        "CVE-2026-68820",
+        "CVE-2026-62832"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -486,9 +486,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-56164",
         "CVE-2026-48561",
         "CVE-2026-50661",
-        "CVE-2026-56164",
         "CVE-2026-56155"
       ],
       "threat_categories": [
@@ -574,6 +574,71 @@
   },
   {
     "source": "Security Week",
+    "title": "Hackers Target Zimbra Servers in Active Exploitation Campaign",
+    "link": "https://www.securityweek.com/hackers-target-zimbra-servers-in-active-exploitation-campaign/",
+    "published": "Thu, 20 Aug 2026 14:50:49 +0000",
+    "summary": "<p>Exploitation of the Zimbra Collaboration vulnerability CVE-2026-73570 has been observed by Poland’s CERT Polska.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-target-zimbra-servers-in-active-exploitation-campaign/\">Hackers Target Zimbra Servers in Active Exploitation Campaign</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Exploitation of the Zimbra Collaboration vulnerability CVE-2026-73570 has been observed by Poland’s CERT Polska",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-73570"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Surveillance – Everything You Wanted to Know, But Were Afraid to Ask",
+    "link": "https://www.securityweek.com/surveillance-everything-you-wanted-to-know-but-were-afraid-to-ask/",
+    "published": "Thu, 20 Aug 2026 14:30:00 +0000",
+    "summary": "<p>We all know they’re watching us. But we don’t know who they are, nor why nor how they are doing it.</p>\n<p>The post <a href=\"https://www.securityweek.com/surveillance-everything-you-wanted-to-know-but-were-afraid-to-ask/\">Surveillance – Everything You Wanted to Know, But Were Afraid to Ask</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "We all know they’re watching us",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Malware",
+        "APT",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Threat Actor Hacks 14,000 IP Cameras in Ukraine and Russia",
+    "link": "https://www.securityweek.com/threat-actor-hacks-14000-ip-cameras-in-ukraine-and-russia/",
+    "published": "Thu, 20 Aug 2026 13:16:35 +0000",
+    "summary": "<p>Operation CameraSwarm targeted Dahua cameras across multiple countries, focusing on Russian and CIS telecom netblocks.</p>\n<p>The post <a href=\"https://www.securityweek.com/threat-actor-hacks-14000-ip-cameras-in-ukraine-and-russia/\">Threat Actor Hacks 14,000 IP Cameras in Ukraine and Russia</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Operation CameraSwarm targeted Dahua cameras across multiple countries, focusing on Russian and CIS telecom netblocks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2021-33044",
+        "CVE-2021-33045"
+      ],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Atlassian, Splunk Patch Dozens of Critical, High-Severity Vulnerabilities",
     "link": "https://www.securityweek.com/atlassian-splunk-patch-dozens-of-critical-high-severity-vulnerabilities/",
     "published": "Thu, 20 Aug 2026 12:24:53 +0000",
@@ -626,16 +691,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20359",
-        "CVE-2026-20315",
         "CVE-2026-20231",
         "CVE-2026-20318",
-        "CVE-2026-20317",
         "CVE-2026-20357",
+        "CVE-2026-20030",
+        "CVE-2026-20319",
+        "CVE-2026-20317",
         "CVE-2026-20320",
         "CVE-2026-20358",
-        "CVE-2026-20030",
-        "CVE-2026-20319"
+        "CVE-2026-20315",
+        "CVE-2026-20359"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -691,8 +756,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-19489",
-        "CVE-2026-19490"
+        "CVE-2026-19490",
+        "CVE-2026-19489"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -717,62 +782,6 @@
       "threat_categories": [
         "Vulnerability",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Hackers Using AI to Target Siemens PLCs in Critical US Sectors",
-    "link": "https://www.securityweek.com/hackers-using-ai-to-target-siemens-plcs-in-critical-us-sectors/",
-    "published": "Thu, 20 Aug 2026 07:02:02 +0000",
-    "summary": "<p>A cybersecurity advisory with technical details and recommendations has been written by the NSA, CISA and other agencies.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-using-ai-to-target-siemens-plcs-in-critical-us-sectors/\">Hackers Using AI to Target Siemens PLCs in Critical US Sectors</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "A cybersecurity advisory with technical details and recommendations has been written by the NSA, CISA and other agencies",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "APT",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Virtual Event Today: CodeSecCon – Secure Your Code and Applications",
-    "link": "https://www.securityweek.com/virtual-event-today-codeseccon-secure-your-code-and-applications/",
-    "published": "Wed, 19 Aug 2026 13:36:17 +0000",
-    "summary": "<p>CodeSecCon is the premier virtual event bringing together developers and cybersecurity professionals to revolutionize the way applications are built, secured, and maintained.</p>\n<p>The post <a href=\"https://www.securityweek.com/virtual-event-today-codeseccon-secure-your-code-and-applications/\">Virtual Event Today: CodeSecCon &#8211; Secure Your Code and Applications</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "CodeSecCon is the premier virtual event bringing together developers and cybersecurity professionals to revolutionize the way applications are built, secured, and maintained",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Prevalent AI Raises $22 Million to Expand Data Fabric Platform",
-    "link": "https://www.securityweek.com/prevalent-ai-raises-22-million-to-expand-data-fabric-platform/",
-    "published": "Wed, 19 Aug 2026 12:00:00 +0000",
-    "summary": "<p>The previously bootstrapped company helps organizations securely and reliably operate AI agents at scale.</p>\n<p>The post <a href=\"https://www.securityweek.com/prevalent-ai-raises-22-million-to-expand-data-fabric-platform/\">Prevalent AI Raises $22 Million to Expand Data Fabric Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The previously bootstrapped company helps organizations securely and reliably operate AI agents at scale",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -881,10 +890,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-62823",
-        "CVE-2026-62893",
         "CVE-2026-65665",
-        "CVE-2026-68820"
+        "CVE-2026-62823",
+        "CVE-2026-68820",
+        "CVE-2026-62893"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1343,6 +1352,60 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "ChatGPT for Teens tackles risky chats and homework shortcuts",
+    "link": "https://www.malwarebytes.com/blog/family-and-parenting/2026/08/chatgpt-for-teens-tackles-risky-chats-and-homework-shortcuts",
+    "published": "Thu, 20 Aug 2026 14:44:31 GMT",
+    "summary": "OpenAI has strengthened ChatGPT's protections for teens, but some of its strongest parental controls still depend on linked accounts.",
+    "analysis": {
+      "issue": "OpenAI has addressed complaints around teens’ use of its ChatGPT system by introducing ChatGPT for Teens, a version of the AI assistant designed specifically for users aged 13 to 17",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Twitch wants your content for Amazon AI training. Here’s how to opt out",
+    "link": "https://www.malwarebytes.com/blog/ai/2026/08/twitch-wants-your-content-for-amazon-ai-training-heres-how-to-opt-out",
+    "published": "Thu, 20 Aug 2026 13:28:01 GMT",
+    "summary": "Twitch added an option to opt out of training Amazon AI with your content—two years after it confirmed that training had begun.",
+    "analysis": {
+      "issue": "The Dutch Autoriteit Persoonsgegevens (AP) has advised Twitch users to opt out of sharing data with Amazon AI",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Your Mac already has a built-in firewall. Here’s how to get more from it",
+    "link": "https://www.malwarebytes.com/blog/product/2026/08/your-mac-already-has-a-built-in-firewall-heres-how-to-get-more-from-it",
+    "published": "Thu, 20 Aug 2026 12:45:00 GMT",
+    "summary": "Malwarebytes Firewall gives you a clearer, more intuitive way to manage your Mac's inbuilt firewall.",
+    "analysis": {
+      "issue": "Your Mac comes with a built-in firewall, but it’s probably not something you’ve given much thought to",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "9 million images of people’s faces exposed by reverse lookup service",
     "link": "https://www.malwarebytes.com/blog/privacy/2026/08/9-million-images-of-peoples-faces-exposed-by-reverse-lookup-service",
     "published": "Thu, 20 Aug 2026 11:50:54 GMT",
@@ -1467,65 +1530,6 @@
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Be careful what you put in “anyone with the link” Google Docs",
-    "link": "https://www.malwarebytes.com/blog/news/2026/08/be-careful-what-you-put-in-anyone-with-the-link-google-docs",
-    "published": "Tue, 18 Aug 2026 11:15:17 GMT",
-    "summary": "As one developer found out when his Google Doc containing company passwords showed up in Google search results.",
-    "analysis": {
-      "issue": "The next time you type something sensitive into a Google Doc—or any other online tool with a sharing feature—be careful about the permissions you grant",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Heights Finance data breach: What customers need to know",
-    "link": "https://www.malwarebytes.com/blog/data-breaches/2026/08/heights-finance-data-breach-what-customers-need-to-know",
-    "published": "Tue, 18 Aug 2026 10:36:14 GMT",
-    "summary": "Leaked personal and financial data of around 750,000 US citizens, including SSNs and bank details, could put victims at risk of identity theft and phishing.",
-    "analysis": {
-      "issue": "Heights Finance Holdings’ online data breach notification says an unauthorized party accessed a third-party cloud platform containing customer data, potentially exposing highly sensitive personal, banking, and identity information",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Phishing",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "ShieldBreak bypasses Microsoft’s patch for earlier Defender flaw",
-    "link": "https://www.malwarebytes.com/blog/bugs/2026/08/shieldbreak-bypasses-microsofts-patch-for-earlier-defender-flaw",
-    "published": "Mon, 17 Aug 2026 13:34:31 GMT",
-    "summary": "The researcher who found RoguePlanet has discovered ShieldBreak, a new way to bypass Microsoft’s fix and gain SYSTEM privileges.",
-    "analysis": {
-      "issue": "Microsoft Defender’s latest patch bypass shows a familiar problem",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-69414"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
       ]
     }
   },

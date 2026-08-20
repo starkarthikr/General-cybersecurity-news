@@ -1,10 +1,84 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-20 12:58:31 UTC
+**Last Updated:** 2026-08-20 17:01:14 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [NASA AIT-GUI Flaws Could Let Unauthenticated Attackers Issue Spacecraft Commands](https://thehackernews.com/2026/08/nasa-ait-gui-flaws-could-let.html)
+### 1. [New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data](https://thehackernews.com/2026/08/new-cryptographic-context-injection.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 20 Aug 2026 20:06:27 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE](https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 20 Aug 2026 19:18:24 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers](https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 20 Aug 2026 19:05:13 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-19490  
+**Categories:** Vulnerability  
+
+---
+
+### 4. [Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution](https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 20 Aug 2026 18:54:28 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-73570  
+**Categories:** Vulnerability  
+
+---
+
+### 5. [Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments](https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 20 Aug 2026 17:31:24 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 6. [Why "Shady AI" is Security's Next Big Governance Problem](https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 20 Aug 2026 17:15:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 7. [CDN Tsunami Attack Abuses HTTP/3 Translation for Up to 350x DoS Amplification](https://thehackernews.com/2026/08/cdn-tsunami-attack-abuses-http3.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 20 Aug 2026 17:09:35 +0530  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 8. [Manic Android Malware Exfiltrates Data From Offline Phones via Nearby Infected Devices](https://thehackernews.com/2026/08/manic-android-malware-exfiltrates-data.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 20 Aug 2026 16:56:08 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 9. [NASA AIT-GUI Flaws Could Let Unauthenticated Attackers Issue Spacecraft Commands](https://thehackernews.com/2026/08/nasa-ait-gui-flaws-could-let.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 20 Aug 2026 16:35:11 +0530  
@@ -13,7 +87,7 @@
 
 ---
 
-### 2. [ToxicPanda 2.0 and GoldDigger Expand Android Banking Attacks with On-Device Fraud](https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html)
+### 10. [ToxicPanda 2.0 and GoldDigger Expand Android Banking Attacks with On-Device Fraud](https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 20 Aug 2026 16:08:28 +0530  
@@ -22,90 +96,36 @@
 
 ---
 
-### 3. [40 Malicious Firefox Extensions Pose as Web3 Products to Steal Wallet Secrets](https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html)
+### 11. [Critical Elementor Pro bug exposes WordPress sites to RCE attacks](https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 20 Aug 2026 14:12:03 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 4. [Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code](https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 20 Aug 2026 11:34:34 +0530  
-**Severity:** Low  
+**Source:** Bleeping Computer  
+**Published:** Thu, 20 Aug 2026 10:39:48 -0400  
+**Severity:** Critical  
 **CVEs:** CVE-2026-32475  
 **Categories:** Vulnerability  
 
 ---
 
-### 5. [Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second](https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html)
+### 12. [How MSPs can catch phishing attacks email filters miss](https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 20 Aug 2026 00:32:40 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 6. [OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior](https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 19 Aug 2026 23:36:44 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 7. [SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs](https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 19 Aug 2026 18:42:17 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 8. [Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P](https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 19 Aug 2026 17:04:28 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 9. [Phishing 3.0: The Fight Moves to Agent Versus Agent](https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 19 Aug 2026 17:00:00 +0530  
-**Severity:** Low  
+**Source:** Bleeping Computer  
+**Published:** Thu, 20 Aug 2026 10:01:11 -0400  
+**Severity:** High  
 **Categories:** Phishing  
 
 ---
 
-### 10. [StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data](https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 19 Aug 2026 16:55:28 +0530  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 11. [Citrix urges admins to patch new NetScaler flaws as soon as possible](https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/)
+### 13. [Citrix urges admins to patch new NetScaler flaws as soon as possible](https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 20 Aug 2026 08:14:38 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-19489, CVE-2026-19490  
+**CVEs:** CVE-2026-19490, CVE-2026-19489  
 **Categories:** Vulnerability  
 
 ---
 
-### 12. [CISA warns of hackers exploiting critical MLflow vulnerability](https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/)
+### 14. [CISA warns of hackers exploiting critical MLflow vulnerability](https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 20 Aug 2026 07:06:14 -0400  
@@ -115,7 +135,7 @@
 
 ---
 
-### 13. [New Manic Android malware can exfiltrate data through nearby devices](https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/)
+### 15. [New Manic Android malware can exfiltrate data through nearby devices](https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 20 Aug 2026 06:02:02 -0400  
@@ -124,7 +144,7 @@
 
 ---
 
-### 14. [Critical Zimbra RCE flaw now actively exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/)
+### 16. [Critical Zimbra RCE flaw now actively exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 20 Aug 2026 05:46:54 -0400  
@@ -134,7 +154,7 @@
 
 ---
 
-### 15. [Microsoft says August Windows updates may cause gaming issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/)
+### 17. [Microsoft says August Windows updates may cause gaming issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 20 Aug 2026 02:51:03 -0400  
@@ -143,7 +163,7 @@
 
 ---
 
-### 16. [OpenAI confirms ChatGPT is down as logins and signups fail](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/)
+### 18. [OpenAI confirms ChatGPT is down as logins and signups fail](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 19 Aug 2026 20:20:55 -0400  
@@ -152,7 +172,7 @@
 
 ---
 
-### 17. [Rogue ransomware affiliate poses as recovery firm to steal payments](https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/)
+### 19. [Rogue ransomware affiliate poses as recovery firm to steal payments](https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 19 Aug 2026 16:59:58 -0400  
@@ -161,31 +181,12 @@
 
 ---
 
-### 18. [Sakura Internet hack exposes data of up to 1.36 million accounts](https://www.bleepingcomputer.com/news/security/sakura-internet-hack-exposes-data-of-up-to-136-million-accounts/)
+### 20. [Sakura Internet hack exposes data of up to 1.36 million accounts](https://www.bleepingcomputer.com/news/security/sakura-internet-hack-exposes-data-of-up-to-136-million-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 19 Aug 2026 16:53:38 -0400  
 **Severity:** Critical  
 **Categories:** Malware  
-
----
-
-### 19. [Healthtech firm CareCloud data breach impacts 3.7 million patients](https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 19 Aug 2026 16:07:12 -0400  
-**Severity:** Low  
-**Categories:** Data Breach  
-
----
-
-### 20. [Hackers compromise 14,500 Dahua web cameras in 35-day campaign](https://www.bleepingcomputer.com/news/security/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 19 Aug 2026 14:09:13 -0400  
-**Severity:** Low  
-**CVEs:** CVE-2025-31702, CVE-2024-39943  
-**Categories:** Vulnerability, APT  
 
 ---
 
@@ -203,7 +204,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62832, CVE-2026-72971, CVE-2026-68820  
+**CVEs:** CVE-2026-72971, CVE-2026-68820, CVE-2026-62832  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -240,7 +241,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48561, CVE-2026-50661, CVE-2026-56164, CVE-2026-56155  
+**CVEs:** CVE-2026-56164, CVE-2026-48561, CVE-2026-50661, CVE-2026-56155  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -281,7 +282,36 @@
 
 ---
 
-### 31. [Atlassian, Splunk Patch Dozens of Critical, High-Severity Vulnerabilities](https://www.securityweek.com/atlassian-splunk-patch-dozens-of-critical-high-severity-vulnerabilities/)
+### 31. [Hackers Target Zimbra Servers in Active Exploitation Campaign](https://www.securityweek.com/hackers-target-zimbra-servers-in-active-exploitation-campaign/)
+
+**Source:** Security Week  
+**Published:** Thu, 20 Aug 2026 14:50:49 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-73570  
+**Categories:** Vulnerability, Phishing  
+
+---
+
+### 32. [Surveillance – Everything You Wanted to Know, But Were Afraid to Ask](https://www.securityweek.com/surveillance-everything-you-wanted-to-know-but-were-afraid-to-ask/)
+
+**Source:** Security Week  
+**Published:** Thu, 20 Aug 2026 14:30:00 +0000  
+**Severity:** Critical  
+**Categories:** Data Breach, Malware, APT, Supply Chain  
+
+---
+
+### 33. [Threat Actor Hacks 14,000 IP Cameras in Ukraine and Russia](https://www.securityweek.com/threat-actor-hacks-14000-ip-cameras-in-ukraine-and-russia/)
+
+**Source:** Security Week  
+**Published:** Thu, 20 Aug 2026 13:16:35 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2021-33044, CVE-2021-33045  
+**Categories:** Ransomware, Vulnerability, Malware  
+
+---
+
+### 34. [Atlassian, Splunk Patch Dozens of Critical, High-Severity Vulnerabilities](https://www.securityweek.com/atlassian-splunk-patch-dozens-of-critical-high-severity-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Thu, 20 Aug 2026 12:24:53 +0000  
@@ -290,7 +320,7 @@
 
 ---
 
-### 32. [MLflow Vulnerability Exploited for Cloud Credential Theft](https://www.securityweek.com/mlflow-vulnerability-exploited-for-cloud-credential-theft/)
+### 35. [MLflow Vulnerability Exploited for Cloud Credential Theft](https://www.securityweek.com/mlflow-vulnerability-exploited-for-cloud-credential-theft/)
 
 **Source:** Security Week  
 **Published:** Thu, 20 Aug 2026 12:05:55 +0000  
@@ -300,17 +330,17 @@
 
 ---
 
-### 33. [Cisco Patches Critical Crosswork, Secure Workload Vulnerabilities](https://www.securityweek.com/cisco-patches-critical-crosswork-secure-workload-vulnerabilities/)
+### 36. [Cisco Patches Critical Crosswork, Secure Workload Vulnerabilities](https://www.securityweek.com/cisco-patches-critical-crosswork-secure-workload-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Thu, 20 Aug 2026 11:46:04 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20359, CVE-2026-20315, CVE-2026-20231, CVE-2026-20318, CVE-2026-20317, CVE-2026-20357, CVE-2026-20320, CVE-2026-20358, CVE-2026-20030, CVE-2026-20319  
+**CVEs:** CVE-2026-20231, CVE-2026-20318, CVE-2026-20357, CVE-2026-20030, CVE-2026-20319, CVE-2026-20317, CVE-2026-20320, CVE-2026-20358, CVE-2026-20315, CVE-2026-20359  
 **Categories:** Vulnerability  
 
 ---
 
-### 34. [AI-Assisted Tool Helped Secure Satellite Communication System After 2022 Russian Hacking](https://www.securityweek.com/ai-assisted-tool-helped-secure-satellite-communication-system-after-2022-russian-hacking/)
+### 37. [AI-Assisted Tool Helped Secure Satellite Communication System After 2022 Russian Hacking](https://www.securityweek.com/ai-assisted-tool-helped-secure-satellite-communication-system-after-2022-russian-hacking/)
 
 **Source:** Security Week  
 **Published:** Thu, 20 Aug 2026 11:08:00 +0000  
@@ -319,7 +349,7 @@
 
 ---
 
-### 35. [OpenAI Overhauls Model Security With Sandboxing, 30-Minute Alerts, and Training Pauses](https://www.securityweek.com/openai-overhauls-model-security-with-sandboxing-30-minute-alerts-and-training-pauses/)
+### 38. [OpenAI Overhauls Model Security With Sandboxing, 30-Minute Alerts, and Training Pauses](https://www.securityweek.com/openai-overhauls-model-security-with-sandboxing-30-minute-alerts-and-training-pauses/)
 
 **Source:** Security Week  
 **Published:** Thu, 20 Aug 2026 10:36:14 +0000  
@@ -328,50 +358,23 @@
 
 ---
 
-### 36. [Exploitation Expected for Critical Authentication Bypass Patched in Citrix NetScaler](https://www.securityweek.com/exploitation-expected-for-critical-authentication-bypass-patched-in-citrix-netscaler/)
+### 39. [Exploitation Expected for Critical Authentication Bypass Patched in Citrix NetScaler](https://www.securityweek.com/exploitation-expected-for-critical-authentication-bypass-patched-in-citrix-netscaler/)
 
 **Source:** Security Week  
 **Published:** Thu, 20 Aug 2026 08:33:25 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-19489, CVE-2026-19490  
+**CVEs:** CVE-2026-19490, CVE-2026-19489  
 **Categories:** Vulnerability  
 
 ---
 
-### 37. [Critical GitLab Flaw Exploited Shortly After Disclosure](https://www.securityweek.com/critical-gitlab-flaw-exploited-shortly-after-disclosure/)
+### 40. [Critical GitLab Flaw Exploited Shortly After Disclosure](https://www.securityweek.com/critical-gitlab-flaw-exploited-shortly-after-disclosure/)
 
 **Source:** Security Week  
 **Published:** Thu, 20 Aug 2026 07:48:24 +0000  
 **Severity:** Critical  
 **CVEs:** CVE-2026-19478  
 **Categories:** Vulnerability, Supply Chain  
-
----
-
-### 38. [Hackers Using AI to Target Siemens PLCs in Critical US Sectors](https://www.securityweek.com/hackers-using-ai-to-target-siemens-plcs-in-critical-us-sectors/)
-
-**Source:** Security Week  
-**Published:** Thu, 20 Aug 2026 07:02:02 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, APT, Supply Chain  
-
----
-
-### 39. [Virtual Event Today: CodeSecCon – Secure Your Code and Applications](https://www.securityweek.com/virtual-event-today-codeseccon-secure-your-code-and-applications/)
-
-**Source:** Security Week  
-**Published:** Wed, 19 Aug 2026 13:36:17 +0000  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 40. [Prevalent AI Raises $22 Million to Expand Data Fabric Platform](https://www.securityweek.com/prevalent-ai-raises-22-million-to-expand-data-fabric-platform/)
-
-**Source:** Security Week  
-**Published:** Wed, 19 Aug 2026 12:00:00 +0000  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -425,7 +428,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 11 Aug 2026 22:21:02 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62823, CVE-2026-62893, CVE-2026-65665, CVE-2026-68820  
+**CVEs:** CVE-2026-65665, CVE-2026-62823, CVE-2026-68820, CVE-2026-62893  
 **Categories:** Vulnerability  
 
 ---
@@ -651,7 +654,34 @@
 
 ---
 
-### 71. [9 million images of people’s faces exposed by reverse lookup service](https://www.malwarebytes.com/blog/privacy/2026/08/9-million-images-of-peoples-faces-exposed-by-reverse-lookup-service)
+### 71. [ChatGPT for Teens tackles risky chats and homework shortcuts](https://www.malwarebytes.com/blog/family-and-parenting/2026/08/chatgpt-for-teens-tackles-risky-chats-and-homework-shortcuts)
+
+**Source:** Malwarebytes  
+**Published:** Thu, 20 Aug 2026 14:44:31 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 72. [Twitch wants your content for Amazon AI training. Here’s how to opt out](https://www.malwarebytes.com/blog/ai/2026/08/twitch-wants-your-content-for-amazon-ai-training-heres-how-to-opt-out)
+
+**Source:** Malwarebytes  
+**Published:** Thu, 20 Aug 2026 13:28:01 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 73. [Your Mac already has a built-in firewall. Here’s how to get more from it](https://www.malwarebytes.com/blog/product/2026/08/your-mac-already-has-a-built-in-firewall-heres-how-to-get-more-from-it)
+
+**Source:** Malwarebytes  
+**Published:** Thu, 20 Aug 2026 12:45:00 GMT  
+**Severity:** High  
+**Categories:** Malware  
+
+---
+
+### 74. [9 million images of people’s faces exposed by reverse lookup service](https://www.malwarebytes.com/blog/privacy/2026/08/9-million-images-of-peoples-faces-exposed-by-reverse-lookup-service)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 20 Aug 2026 11:50:54 GMT  
@@ -660,7 +690,7 @@
 
 ---
 
-### 72. [41 deceptive download sites show a real link, then send you somewhere else](https://www.malwarebytes.com/blog/threat-intel/2026/08/41-deceptive-download-sites-show-a-real-link-then-send-you-somewhere-else)
+### 75. [41 deceptive download sites show a real link, then send you somewhere else](https://www.malwarebytes.com/blog/threat-intel/2026/08/41-deceptive-download-sites-show-a-real-link-then-send-you-somewhere-else)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 19 Aug 2026 18:08:35 GMT  
@@ -669,7 +699,7 @@
 
 ---
 
-### 73. [Sideloading on Android: What it is, why it’s risky, and how to do it more safely](https://www.malwarebytes.com/blog/how-to/2026/08/sideloading-on-android-what-it-is-why-its-risky-and-how-to-do-it-more-safely)
+### 76. [Sideloading on Android: What it is, why it’s risky, and how to do it more safely](https://www.malwarebytes.com/blog/how-to/2026/08/sideloading-on-android-what-it-is-why-its-risky-and-how-to-do-it-more-safely)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 19 Aug 2026 15:09:52 GMT  
@@ -678,7 +708,7 @@
 
 ---
 
-### 74. [Scammers are using fake crypto AML checkers to drain your wallet](https://www.malwarebytes.com/blog/threat-intel/2026/08/scammers-are-using-fake-crypto-aml-checkers-to-drain-your-wallet)
+### 77. [Scammers are using fake crypto AML checkers to drain your wallet](https://www.malwarebytes.com/blog/threat-intel/2026/08/scammers-are-using-fake-crypto-aml-checkers-to-drain-your-wallet)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 19 Aug 2026 10:55:06 GMT  
@@ -687,7 +717,7 @@
 
 ---
 
-### 75. [Update Chrome now: Two critical vulnerabilities fixed](https://www.malwarebytes.com/blog/bugs/2026/08/update-chrome-now-two-critical-vulnerabilities-fixed)
+### 78. [Update Chrome now: Two critical vulnerabilities fixed](https://www.malwarebytes.com/blog/bugs/2026/08/update-chrome-now-two-critical-vulnerabilities-fixed)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 19 Aug 2026 10:32:04 GMT  
@@ -696,7 +726,7 @@
 
 ---
 
-### 76. [Your polite reply to that text is worth $2 on the dark web](https://www.malwarebytes.com/blog/threat-intel/2026/08/your-polite-reply-to-that-text-is-worth-2-on-the-dark-web)
+### 79. [Your polite reply to that text is worth $2 on the dark web](https://www.malwarebytes.com/blog/threat-intel/2026/08/your-polite-reply-to-that-text-is-worth-2-on-the-dark-web)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 19 Aug 2026 09:39:03 GMT  
@@ -705,41 +735,13 @@
 
 ---
 
-### 77. [Apple fixes another image-processing flaw that could allow code execution](https://www.malwarebytes.com/blog/bugs/2026/08/apple-fixes-another-image-processing-flaw-that-could-allow-code-execution)
+### 80. [Apple fixes another image-processing flaw that could allow code execution](https://www.malwarebytes.com/blog/bugs/2026/08/apple-fixes-another-image-processing-flaw-that-could-allow-code-execution)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 18 Aug 2026 14:55:04 GMT  
 **Severity:** Low  
 **CVEs:** CVE-2026-65346  
 **Categories:** Vulnerability  
-
----
-
-### 78. [Be careful what you put in “anyone with the link” Google Docs](https://www.malwarebytes.com/blog/news/2026/08/be-careful-what-you-put-in-anyone-with-the-link-google-docs)
-
-**Source:** Malwarebytes  
-**Published:** Tue, 18 Aug 2026 11:15:17 GMT  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 79. [Heights Finance data breach: What customers need to know](https://www.malwarebytes.com/blog/data-breaches/2026/08/heights-finance-data-breach-what-customers-need-to-know)
-
-**Source:** Malwarebytes  
-**Published:** Tue, 18 Aug 2026 10:36:14 GMT  
-**Severity:** High  
-**Categories:** Data Breach, Phishing, Supply Chain  
-
----
-
-### 80. [ShieldBreak bypasses Microsoft’s patch for earlier Defender flaw](https://www.malwarebytes.com/blog/bugs/2026/08/shieldbreak-bypasses-microsofts-patch-for-earlier-defender-flaw)
-
-**Source:** Malwarebytes  
-**Published:** Mon, 17 Aug 2026 13:34:31 GMT  
-**Severity:** Low  
-**CVEs:** CVE-2026-69414  
-**Categories:** Vulnerability, Malware  
 
 ---
 
