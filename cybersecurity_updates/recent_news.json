@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
+    "link": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
+    "published": "Thu, 20 Aug 2026 00:32:40 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a&nbsp;remote Spectre attack&nbsp;against Cloudflare Workers that leaked a JSON Web Token (JWT) from a co-located Worker in the production environment at up to 12 bits per second, 360 times the rate of an earlier attack demonstrated in 2021.\n\nThe end-to-end experiment used an attacker Worker and a victim Worker controlled by the researchers,",
+    "analysis": {
+      "issue": "Researchers leak a JWT from a co-located Cloudflare Worker via Spectre at up to 12 bits per second; Cloudflare says the attack is mitigated",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior",
+    "link": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html",
+    "published": "Wed, 19 Aug 2026 23:36:44 +0530",
+    "summary": "OpenAI on Tuesday revealed that it paused reinforcement learning (RL) training for its latest artificial intelligence (AI) models for two weeks while it shored up additional defenses and increased the scope of its monitoring to avert another Hugging Face-like incident.\n\n\"As models become more capable, the risks associated with developing and testing them internally also grow,\" the AI company",
+    "analysis": {
+      "issue": "OpenAI pauses frontier RL training for two weeks, keeps its largest planned run on hold, and adds stricter monitoring and isolation",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
     "link": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html",
     "published": "Wed, 19 Aug 2026 18:42:17 +0530",
@@ -148,41 +184,116 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets",
-    "link": "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html",
-    "published": "Tue, 18 Aug 2026 23:14:05 +0530",
-    "summary": "Two critical vulnerabilities impacting MLflow, an open-source artificial intelligence (AI) platform, and FUXA, an open-source, web-based SCADA / HMI software built for operational technology (OT) and industrial automation, are witnessing malicious scanning and exploitation efforts.\n\nAccording to independent reports from watchTowr and VulnCheck, the vulnerabilities in question are as follows -",
+    "source": "Bleeping Computer",
+    "title": "OpenAI confirms ChatGPT is down as logins and signups fail",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/",
+    "published": "Wed, 19 Aug 2026 20:20:55 -0400",
+    "summary": "ChatGPT is experiencing a major outage, and users are unable to sign in, create accounts, or load chats, including previous conversations. [...]",
     "analysis": {
-      "issue": "Attackers exploit MLflow CVE-2026-64849 via SSRF to steal cloud credentials, while FUXA CVE-2026-25895 draws malicious scanning",
+      "issue": "ChatGPT is experiencing a major outage, and users are unable to sign in, create accounts, or load chats, including previous conversations",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-25895",
-        "CVE-2026-64849"
-      ],
+      "severity": "High",
+      "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "General Security"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000",
-    "link": "https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html",
-    "published": "Tue, 18 Aug 2026 22:28:16 +0530",
-    "summary": "A ransomware affiliate calling itself Ransom Busters has been spotted proactively sending emails to victim organizations and claims to delete stolen data from ransomware groups' servers in exchange for a fee ranging from $20,000 to $60,000.\n\n\"In these messages, the third-party offers to help the victim recover from ransomware attack. This immediately stands out as anomalous,\" GuidePoint Research",
+    "source": "Bleeping Computer",
+    "title": "Rogue ransomware affiliate poses as recovery firm to steal payments",
+    "link": "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/",
+    "published": "Wed, 19 Aug 2026 16:59:58 -0400",
+    "summary": "A suspected ransomware affiliate is posing as a ransomware recovery service called \"Ransom Busters,\" contacting the victims before the attacks become public and claiming to be able to provide decryption keys and delete stolen data for a fee. [...]",
     "analysis": {
-      "issue": "Ransom Busters claims ransomware server access and asks victims for $20,000 to $60,000 to recover files and delete stolen data",
+      "issue": "A suspected ransomware affiliate is posing as a ransomware recovery service called \"Ransom Busters,\" contacting victims before the attacks become public and claiming it can provide decryption keys and delete stolen data for a fee",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Ransomware"
+        "Ransomware",
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Sakura Internet hack exposes data of up to 1.36 million accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/sakura-internet-hack-exposes-data-of-up-to-136-million-accounts/",
+    "published": "Wed, 19 Aug 2026 16:53:38 -0400",
+    "summary": "Japanese cloud and data center service provider Sakura Internet disclosed that hackers accessed its sales management system, where customer contract and membership information is stored. [...]",
+    "analysis": {
+      "issue": "Japanese cloud and data center service provider Sakura Internet disclosed that hackers accessed its sales management system, where customer contract and membership information is stored",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Healthtech firm CareCloud data breach impacts 3.7 million patients",
+    "link": "https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/",
+    "published": "Wed, 19 Aug 2026 16:07:12 -0400",
+    "summary": "U.S. healthcare IT company CareCloud disclosed that the data breach incident it suffered earlier this year has impacted more than 3.7 million individuals. [...]",
+    "analysis": {
+      "issue": "healthcare IT company CareCloud disclosed that the data breach incident it suffered earlier this year has impacted more than 3",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Hackers compromise 14,500 Dahua web cameras in 35-day campaign",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign/",
+    "published": "Wed, 19 Aug 2026 14:09:13 -0400",
+    "summary": "In a large-scale campaign that researchers dubbed CameraSwarm, hackers compromised more than 14,500 Dahua IP cameras mostly in Ukraine and Russia. [...]",
+    "analysis": {
+      "issue": "In a large-scale campaign that researchers dubbed CameraSwarm, hackers compromised more than 14,500 Dahua IP cameras mostly in Ukraine and Russia",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2025-31702",
+        "CVE-2024-39943"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "US warns of AI-powered attacks on Siemens PLCs in critical infrastructure",
+    "link": "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/",
+    "published": "Wed, 19 Aug 2026 13:50:01 -0400",
+    "summary": "U.S. cybersecurity agencies warn that threat actors are using AI-generated scripts to exploit Siemens S7 Series programmable logic controllers (PLCs) in U.S. critical infrastructure. [...]",
+    "analysis": {
+      "issue": "cybersecurity agencies warn that threat actors are using AI-generated scripts to exploit Siemens S7 Series programmable logic controllers (PLCs) in U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -264,118 +375,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Windows 11 24H2 Home and Pro reach end of support in 2 months",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-2-months/",
-    "published": "Wed, 19 Aug 2026 05:10:20 -0400",
-    "summary": "Microsoft has reminded customers that systems running Home and Pro editions of Windows 11 24H2 will stop receiving updates in two months. [...]",
-    "analysis": {
-      "issue": "Microsoft has reminded customers that systems running Home and Pro editions of Windows 11 24H2 will stop receiving updates in two months",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA: Medusa ransomware hit over 500 critical infrastructure orgs",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs/",
-    "published": "Wed, 19 Aug 2026 04:00:48 -0400",
-    "summary": "The FBI said Tuesday that the Medusa ransomware gang has breached more than 500 critical infrastructure organizations in the United States since June 2021. [...]",
-    "analysis": {
-      "issue": "The Cybersecurity and Infrastructure Security Agency (CISA) said Tuesday that the Medusa ransomware gang has breached more than 500 critical infrastructure organizations in the United States since June 2021",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Comcast turns your Xfinity WiFi into a home motion detector",
-    "link": "https://www.bleepingcomputer.com/news/security/comcast-turns-your-xfinity-wifi-into-a-home-motion-detector/",
-    "published": "Tue, 18 Aug 2026 16:14:58 -0400",
-    "summary": "Comcast is promoting WiFi-based motion detection as a part of its new Xfinity Shield home protection platform, allowing routers and wireless devices to detect people moving through a home without cameras or motion sensors. [...]",
-    "analysis": {
-      "issue": "Comcast is promoting WiFi-based motion detection as a part of its new Xfinity Shield home protection platform, allowing routers and wireless devices to detect people moving through a home without cameras or motion sensors",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Clop created custom web shell for Windchill data theft attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/",
-    "published": "Tue, 18 Aug 2026 13:29:51 -0400",
-    "summary": "A custom Java web shell likely linked to the Clop ransomware gang was designed specifically for PTC Windchill and FlexPLM servers, with built-in features to decrypt credentials, enumerate file repositories, and steal files. [...]",
-    "analysis": {
-      "issue": "A custom Java web shell likely linked to the Clop ransomware gang was designed specifically for PTC Windchill and FlexPLM servers, with built-in features to decrypt credentials, enumerate file repositories, and steal files",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-12569"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Your Controls Block Known Attacks. What About the Behavior?",
-    "link": "https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/",
-    "published": "Tue, 18 Aug 2026 10:01:11 -0400",
-    "summary": "Security controls can block a familiar attack method while missing quieter ways to achieve the same objective. Picus Security's Blue Report 2026 shows how prevention rates can vary dramatically by technique and why behavioral testing is needed to uncover those gaps. [...]",
-    "analysis": {
-      "issue": "By Sila Ozeren Hacioglu, Security Research Engineer at Picus Security",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft tests faster Windows File Explorer, new context menu",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-faster-windows-explorer-customizable-context-menu/",
-    "published": "Tue, 18 Aug 2026 07:14:28 -0400",
-    "summary": "Microsoft has started testing a faster File Explorer and a less cluttered and more customizable context menu in Windows 11 preview builds rolling out to Insiders this week. [...]",
-    "analysis": {
-      "issue": "Microsoft has started testing a faster File Explorer and a less cluttered and more customizable context menu in Windows 11 preview builds rolling out to Insiders this week",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Who’s Tracking You? Use This New Service to Find Out",
     "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
@@ -406,9 +405,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-62832",
+        "CVE-2026-68820",
         "CVE-2026-72971",
-        "CVE-2026-68820"
+        "CVE-2026-62832"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -485,10 +484,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-56155",
         "CVE-2026-50661",
-        "CVE-2026-56164",
         "CVE-2026-48561",
-        "CVE-2026-56155"
+        "CVE-2026-56164"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -661,8 +660,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-65400",
         "CVE-2026-33824",
+        "CVE-2026-65400",
         "CVE-2026-59310",
         "CVE-2026-55040"
       ],
@@ -833,10 +832,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-68820",
         "CVE-2026-62823",
-        "CVE-2026-62893",
         "CVE-2026-65665",
-        "CVE-2026-68820"
+        "CVE-2026-62893"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1334,6 +1333,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "41 deceptive download sites show a real link, then send you somewhere else",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/08/41-deceptive-download-sites-show-a-real-link-then-send-you-somewhere-else",
+    "published": "Wed, 19 Aug 2026 18:08:35 GMT",
+    "summary": "A legitimate-looking link or valid digital signature can offer false reassurance. Here’s why familiar download safety checks aren’t always enough.",
+    "analysis": {
+      "issue": "We identified a network of 41 websites impersonating popular games and Windows software, all designed to push visitors towards the same Download Studio installer",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Sideloading on Android: What it is, why it’s risky, and how to do it more safely",
     "link": "https://www.malwarebytes.com/blog/how-to/2026/08/sideloading-on-android-what-it-is-why-its-risky-and-how-to-do-it-more-safely",
     "published": "Wed, 19 Aug 2026 15:09:52 GMT",
@@ -1502,23 +1519,20 @@
     }
   },
   {
-    "source": "Malwarebytes",
-    "title": "Update your Mac: Screen Sharing vulnerability exploited in the wild",
-    "link": "https://www.malwarebytes.com/blog/bugs/2026/08/update-your-mac-screen-sharing-vulnerability-exploited-in-the-wild",
-    "published": "Mon, 17 Aug 2026 10:56:47 GMT",
-    "summary": "Attackers are exploiting a Mac Screen Sharing vulnerability to gain root access and install Monero cryptominers.",
+    "source": "Crowdstrike Blog",
+    "title": "Benchmaxxing: When the Benchmark Becomes the Target",
+    "link": "https://www.crowdstrike.com/en-us/blog/benchmaxxing-when-benchmark-becomes-the-target/",
+    "published": "Aug 19, 2026 00:00:00-0500",
+    "summary": "",
     "analysis": {
-      "issue": "The Dutch National Cyber Security Centre (NCSC) issued a warning after being notified of several incidents where a vulnerability in Apple’s Screen Sharing feature was exploited to install Monero cryptominers",
+      "issue": "The more attention a benchmark receives, the stronger the incentive to optimize for it",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2026-65400"
-      ],
+      "severity": "Low",
+      "cves": [],
       "threat_categories": [
-        "Vulnerability",
-        "Malware"
+        "General Security"
       ]
     }
   },
@@ -1674,24 +1688,6 @@
     "summary": "",
     "analysis": {
       "issue": "Recent Falcon Cloud Security updates include stronger infrastructure-as-code security, streamlined cloud identity investigations, and expanded agentless workload visibility",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "Falcon Platform IOAs Arrive in Falcon Next-Gen SIEM to Identify New Threats",
-    "link": "https://www.crowdstrike.com/en-us/blog/falcon-platform-ioas-arrive-in-falcon-next-gen-siem/",
-    "published": "Jul 29, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "Falcon Platform IOAs automatically deliver CrowdStrike-managed detections based on the latest threat intel",
       "solution": null,
       "cause": null,
       "timeline": null,
