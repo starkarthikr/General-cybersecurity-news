@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Wazuh and AI For Enhanced SOC Workflows",
+    "link": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
+    "published": "Fri, 21 Aug 2026 16:51:39 +0530",
+    "summary": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover patterns hidden within large datasets, and support faster decision-making. Cybersecurity has experienced a similar transformation. While attackers employ AI to automate",
+    "analysis": {
+      "issue": "Wazuh AI Analyst uses Amazon Bedrock and Claude to turn Wazuh Cloud security data into scheduled reports with posture and vulnerability insights",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
+    "link": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
+    "published": "Fri, 21 Aug 2026 15:33:11 +0530",
+    "summary": "Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review.\n\nFour of the security vulnerabilities affect Crosswork Data Gateway, Crosswork Network Controller, and Crosswork Planning, regardless of the device configuration. A brief description of each of the flaws is below -",
+    "analysis": {
+      "issue": "Cisco patches nine Crosswork and Secure Workload flaws, including four CVSS 10",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
     "link": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
     "published": "Fri, 21 Aug 2026 12:34:25 +0530",
@@ -149,19 +185,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers",
-    "link": "https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html",
-    "published": "Thu, 20 Aug 2026 19:05:13 +0530",
-    "summary": "Citrix has released updates to address two security flaws impacting NetScaler ADC and NetScaler Gateway deployments, including a critical-severity authentication bypass vulnerability.\n\nAccording to the cloud computing and virtualization technology company, the issues affect customer-managed NetScaler ADC and NetScaler Gateway, including certain FIPS and NDcPP builds, as well as SecurAccess",
+    "source": "Bleeping Computer",
+    "title": "CISA orders feds to patch actively exploited TrueConf Server flaws",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/",
+    "published": "Fri, 21 Aug 2026 08:25:33 -0400",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered U.S. federal agencies to prioritize patching two actively exploited vulnerabilities in the TrueConf Server self-hosted communications platform. [...]",
     "analysis": {
-      "issue": "Citrix fixes NetScaler CVE-2026-19490, a CVSS 9",
+      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) ordered U",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [
-        "CVE-2026-19490"
+        "CVE-2026-72530",
+        "CVE-2026-72529"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -169,22 +206,61 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution",
-    "link": "https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html",
-    "published": "Thu, 20 Aug 2026 18:54:28 +0530",
-    "summary": "A now-patched security flaw impacting Zimbra Collaboration (ZCS) has come under active exploitation in the wild, according to the Polish Computer Emergency Response Team (CERT Polska).\n\nThe vulnerability in question is CVE-2026-73570 (CVSS score: 8.9), which refers to a case of command injection that can lead to remote code execution.\n\n\"A remote code execution vulnerability exists in Zimbra",
+    "source": "Bleeping Computer",
+    "title": "Microsoft warns of max severity Entra ID flaw exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
+    "published": "Fri, 21 Aug 2026 07:04:10 -0400",
+    "summary": "Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks. [...]",
     "analysis": {
-      "issue": "Attackers exploit CVE-2026-73570 on Zimbra servers with zimbra-snmp installed and SNMP notifications enabled, allowing unauthenticated RCE",
+      "issue": "Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-69836"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Hackers abuse FTP server banners to deliver new Windows malware",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/",
+    "published": "Fri, 21 Aug 2026 07:00:00 -0400",
+    "summary": "Threat actors are abusing FTP banners to hide commands that deliver two previously undocumented remote access trojans named E4del and PINHOLE. [...]",
+    "analysis": {
+      "issue": "Threat actors are abusing FTP banners to hide commands that deliver two previously undocumented remote access trojans named E4del and PINHOLE",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [
-        "CVE-2026-73570"
-      ],
+      "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "SickKids data breach exposes employee and job applicant info",
+    "link": "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/",
+    "published": "Fri, 21 Aug 2026 06:10:42 -0400",
+    "summary": "Toronto's Hospital for Sick Children (SickKids) says a cybersecurity incident exposed the personal information of some current and former employees and job applicants, stemming from a flaw in third-party software. Clinical systems and patient records were not affected. (264) [...]",
+    "analysis": {
+      "issue": "The Hospital for Sick Children (SickKids) has disclosed that the personal information of some current and former employees, as well as job applicants, was exposed in a \"cybersecurity incident",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability",
+        "Supply Chain"
       ]
     }
   },
@@ -306,82 +382,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Critical Zimbra RCE flaw now actively exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/",
-    "published": "Thu, 20 Aug 2026 05:46:54 -0400",
-    "summary": "CERT Polska, the Polish Computer Emergency Response Team (CERT), warned that attackers have begun exploiting a critical vulnerability in Zimbra Collaboration Suite (ZCS). [...]",
-    "analysis": {
-      "issue": "CERT Polska, the Polish Computer Emergency Response Team (CERT), warned that attackers have begun exploiting a critical vulnerability in Zimbra Collaboration Suite (ZCS)",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-73570"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft says August Windows updates may cause gaming issues",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/",
-    "published": "Thu, 20 Aug 2026 02:51:03 -0400",
-    "summary": "Microsoft is investigating a potential issue with the August 2026 updates that may prevent some games from launching or cause them to crash on affected Windows 11 systems. [...]",
-    "analysis": {
-      "issue": "Microsoft is investigating a potential issue with the August 2026 updates that may prevent some games from launching or cause them to crash on affected Windows 11 systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "OpenAI confirms ChatGPT is down as logins and signups fail",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/",
-    "published": "Wed, 19 Aug 2026 20:20:55 -0400",
-    "summary": "ChatGPT is experiencing a major outage, and users are unable to sign in, create accounts, or load chats, including previous conversations. [...]",
-    "analysis": {
-      "issue": "ChatGPT is experiencing a major outage, and users are unable to sign in, create accounts, or load chats, including previous conversations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Rogue ransomware affiliate poses as recovery firm to steal payments",
-    "link": "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/",
-    "published": "Wed, 19 Aug 2026 16:59:58 -0400",
-    "summary": "A suspected ransomware affiliate is posing as a ransomware recovery service called \"Ransom Busters,\" contacting the victims before the attacks become public and claiming to be able to provide decryption keys and delete stolen data for a fee. [...]",
-    "analysis": {
-      "issue": "A suspected ransomware affiliate is posing as a ransomware recovery service called \"Ransom Busters,\" contacting victims before the attacks become public and claiming it can provide decryption keys and delete stolen data for a fee",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Who’s Tracking You? Use This New Service to Find Out",
     "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
@@ -412,9 +412,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-72971",
         "CVE-2026-68820",
-        "CVE-2026-62832"
+        "CVE-2026-62832",
+        "CVE-2026-72971"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -491,10 +491,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56155",
-        "CVE-2026-48561",
         "CVE-2026-56164",
-        "CVE-2026-50661"
+        "CVE-2026-56155",
+        "CVE-2026-50661",
+        "CVE-2026-48561"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -579,6 +579,45 @@
   },
   {
     "source": "Security Week",
+    "title": "Critical Isolated-vm Vulnerability Leads to RCE on Host",
+    "link": "https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/",
+    "published": "Fri, 21 Aug 2026 12:26:07 +0000",
+    "summary": "<p>The type confusion bug can lead to V8 sandbox escape and control-flow hijacking of the host process.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/\">Critical Isolated-vm Vulnerability Leads to RCE on Host</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The type confusion bug can lead to V8 sandbox escape and control-flow hijacking of the host process",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Rust Supply Chain Attack Linked to North Korean Hackers",
+    "link": "https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/",
+    "published": "Fri, 21 Aug 2026 09:23:18 +0000",
+    "summary": "<p>Hackers pushed a poisoned arrayref version that added a dependency to fetch a malicious payload from a remote server.</p>\n<p>The post <a href=\"https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/\">Rust Supply Chain Attack Linked to North Korean Hackers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Hackers pushed a poisoned arrayref version that added a dependency to fetch a malicious payload from a remote server",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Contractors’ CMMC Confidence Rises as Ability to Prove It Falls Behind",
     "link": "https://www.securityweek.com/contractors-cmmc-confidence-rises-as-ability-to-prove-it-falls-behind/",
     "published": "Fri, 21 Aug 2026 08:41:06 +0000",
@@ -598,32 +637,32 @@
   },
   {
     "source": "Security Week",
-    "title": "Microsoft Rolls Out 22 Fresh Security Patches",
+    "title": "Microsoft Patches Exploited Entra ID Vulnerability",
     "link": "https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/",
     "published": "Fri, 21 Aug 2026 08:12:19 +0000",
-    "summary": "<p>Most of the fixes resolve code execution, privilege escalation, and information disclosure vulnerabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/\">Microsoft Rolls Out 22 Fresh Security Patches</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "summary": "<p>A total of 22 patches were releaased, a majority for code execution, privilege escalation, and information disclosure vulnerabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/\">Microsoft Patches Exploited Entra ID Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
-      "issue": "Most of the fixes resolve code execution, privilege escalation, and information disclosure vulnerabilities",
+      "issue": "A total of 22 patches were releaased, a majority for code execution, privilege escalation, and information disclosure vulnerabilities",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-62834",
         "CVE-2026-65816",
-        "CVE-2026-66309",
-        "CVE-2026-63509",
-        "CVE-2026-69400",
-        "CVE-2026-69851",
-        "CVE-2026-65801",
-        "CVE-2026-69836",
-        "CVE-2026-69555",
-        "CVE-2026-69502",
         "CVE-2026-68782",
-        "CVE-2026-69414",
-        "CVE-2026-68789",
+        "CVE-2026-63509",
+        "CVE-2026-62834",
         "CVE-2026-65770",
-        "CVE-2026-24301"
+        "CVE-2026-68789",
+        "CVE-2026-69502",
+        "CVE-2026-69851",
+        "CVE-2026-69555",
+        "CVE-2026-24301",
+        "CVE-2026-66309",
+        "CVE-2026-69836",
+        "CVE-2026-69414",
+        "CVE-2026-65801",
+        "CVE-2026-69400"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -710,8 +749,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2021-33045",
-        "CVE-2021-33044"
+        "CVE-2021-33044",
+        "CVE-2021-33045"
       ],
       "threat_categories": [
         "Ransomware",
@@ -758,53 +797,6 @@
       "threat_categories": [
         "Vulnerability",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Cisco Patches Critical Crosswork, Secure Workload Vulnerabilities",
-    "link": "https://www.securityweek.com/cisco-patches-critical-crosswork-secure-workload-vulnerabilities/",
-    "published": "Thu, 20 Aug 2026 11:46:04 +0000",
-    "summary": "<p>The flaws could lead to remote code execution, authentication bypasses, and path traversal attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-patches-critical-crosswork-secure-workload-vulnerabilities/\">Cisco Patches Critical Crosswork, Secure Workload Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The flaws could lead to remote code execution, authentication bypasses, and path traversal attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-20030",
-        "CVE-2026-20231",
-        "CVE-2026-20358",
-        "CVE-2026-20357",
-        "CVE-2026-20319",
-        "CVE-2026-20318",
-        "CVE-2026-20320",
-        "CVE-2026-20359",
-        "CVE-2026-20317",
-        "CVE-2026-20315"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "AI-Assisted Tool Helped Secure Satellite Communication System After 2022 Russian Hacking",
-    "link": "https://www.securityweek.com/ai-assisted-tool-helped-secure-satellite-communication-system-after-2022-russian-hacking/",
-    "published": "Thu, 20 Aug 2026 11:08:00 +0000",
-    "summary": "<p>Atalanta's Argo product is now being used to prove the resilience of Viasat’s satellite communications network.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-assisted-tool-helped-secure-satellite-communication-system-after-2022-russian-hacking/\">AI-Assisted Tool Helped Secure Satellite Communication System After 2022 Russian Hacking</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Atalanta’s Argo product is now being used to prove the resilience of Viasat’s satellite communications network",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -932,9 +924,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-65665",
-        "CVE-2026-62893",
         "CVE-2026-62823",
-        "CVE-2026-68820"
+        "CVE-2026-68820",
+        "CVE-2026-62893"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1344,8 +1336,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1370,6 +1362,25 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Medical records, SSNs, and bank details exposed in CareCloud data breach",
+    "link": "https://www.malwarebytes.com/blog/news/2026/08/medical-records-ssns-and-bank-details-exposed-in-carecloud-data-breach",
+    "published": "Fri, 21 Aug 2026 11:50:55 GMT",
+    "summary": "Healthcare technology provider CareCloud confirmed that 3.75 million people were affected by a March data breach.",
+    "analysis": {
+      "issue": "Healthcare technology giant CareCloud has confirmed that a data breach earlier this year impacted more than 3",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Malware"
       ]
     }
   },
@@ -1531,26 +1542,6 @@
       "timeline": null,
       "severity": "Low",
       "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Apple fixes another image-processing flaw that could allow code execution",
-    "link": "https://www.malwarebytes.com/blog/bugs/2026/08/apple-fixes-another-image-processing-flaw-that-could-allow-code-execution",
-    "published": "Tue, 18 Aug 2026 14:55:04 GMT",
-    "summary": "Apple has released updates fixing 27 vulnerabilities in iOS, iPadOS, and macOS Tahoe, including a potentially serious image-processing flaw.",
-    "analysis": {
-      "issue": "Apple has released security updates for more than two dozen security vulnerabilities across iPhone, iPad, and macOS Tahoe,including yet another image parsing vulnerability that could compromise your device",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-65346"
-      ],
       "threat_categories": [
         "Vulnerability"
       ]
