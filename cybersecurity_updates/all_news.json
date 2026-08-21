@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
+    "link": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
+    "published": "Fri, 21 Aug 2026 21:22:10 +0530",
+    "summary": "Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry operations on Windows systems ranging from Windows 7 through Windows 11 25H2, with no software flaw exploited and no driver imported from outside the machine.\n\nThe driver, BTR.sys (Boot Time Removal Tool), is a",
+    "analysis": {
+      "issue": "BTR Reforged uses Defender's signed BTR",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
+    "link": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
+    "published": "Fri, 21 Aug 2026 21:11:44 +0530",
+    "summary": "Cybersecurity researchers have flagged a new malware family that's specifically designed to infect Android-based vehicle head unit firmware developed by DoFun.\n\nKaspersky, which discovered the threat in June 2026, said the end goal of the malware is to serve a multi-stage downloader to enable ad fraud and creation of a proxy botnet.\n\n\"The malware spread through the built-in updaters of",
+    "analysis": {
+      "issue": "New malware abuses DoFun Android head unit updaters to deliver JarService, run ad fraud, and download the Zhima reverse proxy module",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Wazuh and AI For Enhanced SOC Workflows",
     "link": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
     "published": "Fri, 21 Aug 2026 16:51:39 +0530",
@@ -149,13 +185,31 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
-    "link": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
-    "published": "Thu, 20 Aug 2026 20:06:27 +0530",
-    "summary": "Adversa AI has disclosed an attack technique that it says can cause xAI's Grok chatbot to send a user's name, approximate location, subscription tier, and the prompts from the ongoing conversation to an attacker-controlled server after the user asks it to summarize an ordinary web page.\n\nThe AI security company, which has codenamed the technique \"Cryptographic Context Injection,\" said the",
+    "source": "Bleeping Computer",
+    "title": "Hundreds of leaked AWS keys give full control over corporate accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/",
+    "published": "Fri, 21 Aug 2026 11:55:15 -0400",
+    "summary": "More than 9,300 Amazon Web Services (AWS) access keys publicly exposed between August 2022 and August 2026 are still active and valid. [...]",
     "analysis": {
-      "issue": "Adversa says encrypted prompt injection can make Grok send a user's name, location, tier, and chat prompts to an attacker-controlled server",
+      "issue": "More than 9,300 Amazon Web Services (AWS) access keys publicly exposed between August 2022 and August 2026 are still active and valid",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft blames Windows gaming issues on RGB lighting devices",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/",
+    "published": "Fri, 21 Aug 2026 10:54:49 -0400",
+    "summary": "Microsoft says ongoing issues causing games to crash or fail to launch after installing the August 2026 Windows updates may be caused by peripherals with RGB lighting. [...]",
+    "analysis": {
+      "issue": "Microsoft says ongoing issues causing games to crash or fail to launch after installing the August 2026 Windows updates may be caused by peripherals with RGB lighting",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -167,13 +221,31 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE",
-    "link": "https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html",
-    "published": "Thu, 20 Aug 2026 19:18:24 +0530",
-    "summary": "Cybersecurity researchers have disclosed a critical security flaw in isolated-vm, a popular open-source sandbox with more than 2,900 stars and 190 forks on GitHub, that could allow attackers to escape the confines of the isolated environment.\n\nThe vulnerability (\"GHSA-864f-rcv7-6rh4\"), which has yet to be assigned a CVE identifier, impacts all versions of the library before and including 7.0.0.",
+    "source": "Bleeping Computer",
+    "title": "Is Online Privacy Possible? How Digital Identities Can Help",
+    "link": "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/",
+    "published": "Fri, 21 Aug 2026 10:00:10 -0400",
+    "summary": "Using the same email, phone number, payment method, and other identifiers makes it easier for data brokers and attackers to profile your activity. Anonyome Labs explains how separate digital personas can reduce correlation and limit the impact of breaches, spam, and identity theft. [...]",
     "analysis": {
-      "issue": "Isolated-vm's ExternalCopy type confusion lets sandboxed code corrupt host memory and potentially reach host RCE; fixes are in 6",
+      "issue": "How can normal users increase their privacy, safety and security online",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft rolls out Classic Outlook theme for New Outlook users",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users/",
+    "published": "Fri, 21 Aug 2026 09:39:35 -0400",
+    "summary": "Microsoft has started rolling out a Classic Outlook theme for users of Outlook on the web and the New Outlook for Windows. [...]",
+    "analysis": {
+      "issue": "Microsoft has started rolling out a Classic Outlook theme for users of Outlook on the web and the New Outlook for Windows",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -197,8 +269,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-72530",
-        "CVE-2026-72529"
+        "CVE-2026-72529",
+        "CVE-2026-72530"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -303,85 +375,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "How MSPs can catch phishing attacks email filters miss",
-    "link": "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/",
-    "published": "Thu, 20 Aug 2026 10:01:11 -0400",
-    "summary": "AI is making phishing attacks more personalized, convincing, and difficult for traditional email filters to detect. Kaseya explains how MSPs can monitor identity, email, and endpoint activity to detect and contain attacks that make it past the inbox. [...]",
-    "analysis": {
-      "issue": "Your clients receive thousands of emails every day, but all it takes is one convincing message to turn a seemingly harmless email into a security incident you will be responsible for cleaning up",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Citrix urges admins to patch new NetScaler flaws as soon as possible",
-    "link": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/",
-    "published": "Thu, 20 Aug 2026 08:14:38 -0400",
-    "summary": "Citrix has warned customers to immediately secure their systems against two vulnerabilities affecting NetScaler Gateway secure remote access solutions and NetScaler ADC networking appliances. [...]",
-    "analysis": {
-      "issue": "Citrix has warned customers to immediately secure their systems against two vulnerabilities affecting NetScaler Gateway secure remote access solutions and NetScaler ADC networking appliances",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-19490",
-        "CVE-2026-19489"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA warns of hackers exploiting critical MLflow vulnerability",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/",
-    "published": "Thu, 20 Aug 2026 07:06:14 -0400",
-    "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that threat actors are now exploiting a critical vulnerability in the MLflow open-source AI engineering platform. [...]",
-    "analysis": {
-      "issue": "The Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that threat actors are now exploiting a critical MLflow vulnerability",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-64849"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New Manic Android malware can exfiltrate data through nearby devices",
-    "link": "https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/",
-    "published": "Thu, 20 Aug 2026 06:02:02 -0400",
-    "summary": "A new Android malware named Manic targeting users in multiple European countries has a fallback data exfiltration mechanism that uses nearby infected devices. [...]",
-    "analysis": {
-      "issue": "A new Android malware named Manic targeting users in multiple European countries has a fallback mechanism for exfiltrating data through nearby infected devices",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Who’s Tracking You? Use This New Service to Find Out",
     "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
@@ -412,9 +405,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-68820",
         "CVE-2026-62832",
-        "CVE-2026-72971"
+        "CVE-2026-72971",
+        "CVE-2026-68820"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -491,10 +484,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56164",
-        "CVE-2026-56155",
         "CVE-2026-50661",
-        "CVE-2026-48561"
+        "CVE-2026-48561",
+        "CVE-2026-56155",
+        "CVE-2026-56164"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -579,6 +572,89 @@
   },
   {
     "source": "Security Week",
+    "title": "Former NSA Director Paul Nakasone Launches National Security Advisory Firm",
+    "link": "https://www.securityweek.com/former-nsa-director-paul-nakasone-launches-national-security-advisory-firm/",
+    "published": "Fri, 21 Aug 2026 16:27:52 +0000",
+    "summary": "<p>The newly-formed Nakasone Group will counsel government leaders, corporations, prominent families, and other private clients confronting cybersecurity, geopolitical, and personal security risks.</p>\n<p>The post <a href=\"https://www.securityweek.com/former-nsa-director-paul-nakasone-launches-national-security-advisory-firm/\">Former NSA Director Paul Nakasone Launches National Security Advisory Firm</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The newly-formed Nakasone Group will counsel government leaders, corporations, prominent families, and other private clients confronting cybersecurity, geopolitical, and personal security risks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug",
+    "link": "https://www.securityweek.com/in-other-news-zombie-card-attack-t-mobile-cut-cable-to-stop-hackers-github-denies-ai-caused-bug/",
+    "published": "Fri, 21 Aug 2026 15:11:16 +0000",
+    "summary": "<p>Other noteworthy stories that might have slipped under the radar: Threema DDoS attack, Evooo1Bot Linux botnet, Crypto4A secures top-tier NIST certification.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-zombie-card-attack-t-mobile-cut-cable-to-stop-hackers-github-denies-ai-caused-bug/\">In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Other noteworthy stories that might have slipped under the radar: Threema DDoS attack, Evooo1Bot Linux botnet, Crypto4A secures top-tier NIST certification",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2025-62593"
+      ],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Vulnerability",
+        "Malware",
+        "Phishing",
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Encrypted Prompts Bypass AI Safety Guardrails in Grok and Gemini",
+    "link": "https://www.securityweek.com/encrypted-prompts-bypass-ai-safety-guardrails-in-grok-and-gemini/",
+    "published": "Fri, 21 Aug 2026 14:34:05 +0000",
+    "summary": "<p>Researchers say the new ‘Cryptographic Context Injection’ technique conceals malicious instructions until they are decrypted inside a trusted execution environment.</p>\n<p>The post <a href=\"https://www.securityweek.com/encrypted-prompts-bypass-ai-safety-guardrails-in-grok-and-gemini/\">Encrypted Prompts Bypass AI Safety Guardrails in Grok and Gemini</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Researchers say the new ‘Cryptographic Context Injection’ technique conceals malicious instructions until they are decrypted inside a trusted execution environment",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "New Phishing Toolkit Uses Passkeys to Maintain Access After Password Resets",
+    "link": "https://www.securityweek.com/new-phishing-toolkit-uses-passkeys-to-maintain-access-after-password-resets/",
+    "published": "Fri, 21 Aug 2026 14:22:06 +0000",
+    "summary": "<p>Researchers say iAuthFlow V2 can register an attacker-controlled passkey, enabling persistent access even after passwords are changed and active sessions revoked.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-phishing-toolkit-uses-passkeys-to-maintain-access-after-password-resets/\">New Phishing Toolkit Uses Passkeys to Maintain Access After Password Resets</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Researchers say iAuthFlow V2 can register an attacker-controlled passkey, enabling persistent access even after passwords are changed and active sessions revoked",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Phishing",
+        "APT",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Critical Isolated-vm Vulnerability Leads to RCE on Host",
     "link": "https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/",
     "published": "Fri, 21 Aug 2026 12:26:07 +0000",
@@ -648,20 +724,20 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-65816",
-        "CVE-2026-68782",
-        "CVE-2026-63509",
-        "CVE-2026-62834",
-        "CVE-2026-65770",
-        "CVE-2026-68789",
-        "CVE-2026-69502",
-        "CVE-2026-69851",
-        "CVE-2026-69555",
-        "CVE-2026-24301",
-        "CVE-2026-66309",
         "CVE-2026-69836",
-        "CVE-2026-69414",
+        "CVE-2026-63509",
         "CVE-2026-65801",
+        "CVE-2026-69851",
+        "CVE-2026-69414",
+        "CVE-2026-24301",
+        "CVE-2026-65816",
+        "CVE-2026-62834",
+        "CVE-2026-69555",
+        "CVE-2026-68782",
+        "CVE-2026-65770",
+        "CVE-2026-66309",
+        "CVE-2026-69502",
+        "CVE-2026-68789",
         "CVE-2026-69400"
       ],
       "threat_categories": [
@@ -683,8 +759,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-72530",
-        "CVE-2026-72529"
+        "CVE-2026-72529",
+        "CVE-2026-72530"
       ],
       "threat_categories": [
         "Ransomware",
@@ -708,91 +784,6 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-73570"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Surveillance – Everything You Wanted to Know, But Were Afraid to Ask",
-    "link": "https://www.securityweek.com/surveillance-everything-you-wanted-to-know-but-were-afraid-to-ask/",
-    "published": "Thu, 20 Aug 2026 14:30:00 +0000",
-    "summary": "<p>We all know they’re watching us. But we don’t know who they are, nor why nor how they are doing it.</p>\n<p>The post <a href=\"https://www.securityweek.com/surveillance-everything-you-wanted-to-know-but-were-afraid-to-ask/\">Surveillance – Everything You Wanted to Know, But Were Afraid to Ask</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "We all know they’re watching us",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Malware",
-        "APT",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Threat Actor Hacks 14,000 IP Cameras in Ukraine and Russia",
-    "link": "https://www.securityweek.com/threat-actor-hacks-14000-ip-cameras-in-ukraine-and-russia/",
-    "published": "Thu, 20 Aug 2026 13:16:35 +0000",
-    "summary": "<p>Operation CameraSwarm targeted Dahua cameras across multiple countries, focusing on Russian and CIS telecom netblocks.</p>\n<p>The post <a href=\"https://www.securityweek.com/threat-actor-hacks-14000-ip-cameras-in-ukraine-and-russia/\">Threat Actor Hacks 14,000 IP Cameras in Ukraine and Russia</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Operation CameraSwarm targeted Dahua cameras across multiple countries, focusing on Russian and CIS telecom netblocks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2021-33044",
-        "CVE-2021-33045"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Atlassian, Splunk Patch Dozens of Critical, High-Severity Vulnerabilities",
-    "link": "https://www.securityweek.com/atlassian-splunk-patch-dozens-of-critical-high-severity-vulnerabilities/",
-    "published": "Thu, 20 Aug 2026 12:24:53 +0000",
-    "summary": "<p>The flaws could be exploited to execute arbitrary code, access sensitive information, and elevate privileges.</p>\n<p>The post <a href=\"https://www.securityweek.com/atlassian-splunk-patch-dozens-of-critical-high-severity-vulnerabilities/\">Atlassian, Splunk Patch Dozens of Critical, High-Severity Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The flaws could be exploited to execute arbitrary code, access sensitive information, and elevate privileges",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Phishing",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "MLflow Vulnerability Exploited for Cloud Credential Theft",
-    "link": "https://www.securityweek.com/mlflow-vulnerability-exploited-for-cloud-credential-theft/",
-    "published": "Thu, 20 Aug 2026 12:05:55 +0000",
-    "summary": "<p>The critical-severity flaw allows attackers to send HTTP requests to internal endpoints and extract sensitive information.</p>\n<p>The post <a href=\"https://www.securityweek.com/mlflow-vulnerability-exploited-for-cloud-credential-theft/\">MLflow Vulnerability Exploited for Cloud Credential Theft</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The critical-severity flaw allows attackers to send HTTP requests to internal endpoints and extract sensitive information",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-64849"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -923,10 +914,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-65665",
+        "CVE-2026-62893",
         "CVE-2026-62823",
         "CVE-2026-68820",
-        "CVE-2026-62893"
+        "CVE-2026-65665"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1336,8 +1327,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1362,6 +1353,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Zombie Card: An expired Visa credit card can be used for purchases",
+    "link": "https://www.malwarebytes.com/blog/news/2026/08/zombie-card-an-expired-visa-credit-card-can-be-used-for-purchases",
+    "published": "Fri, 21 Aug 2026 14:03:48 GMT",
+    "summary": "Scientific research showed that the expiration date on some Visa credit cards can be manipulated in so-called Zombie Card attacks.",
+    "analysis": {
+      "issue": "Did you know there is still a good reason to physically destroy your expired credit card",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1523,24 +1532,6 @@
       "cause": null,
       "timeline": null,
       "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Your polite reply to that text is worth $2 on the dark web",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/08/your-polite-reply-to-that-text-is-worth-2-on-the-dark-web",
-    "published": "Wed, 19 Aug 2026 09:39:03 GMT",
-    "summary": "A polite reply to a wrong-number text may seem harmless. But scammers use it to profile their victims and fuel a multibillion-dollar fraud industry.",
-    "analysis": {
-      "issue": "Most wrong-number texts are harmless",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
       "cves": [],
       "threat_categories": [
         "Vulnerability"
