@@ -1,10 +1,30 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-21 02:08:01 UTC
+**Last Updated:** 2026-08-21 09:07:32 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads](https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html)
+### 1. [GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure](https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 21 Aug 2026 12:34:25 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-19478  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution](https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 21 Aug 2026 11:36:11 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-69836  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads](https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 21 Aug 2026 01:52:35 +0530  
@@ -13,7 +33,7 @@
 
 ---
 
-### 2. [Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts](https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html)
+### 4. [Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts](https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 21 Aug 2026 01:29:19 +0530  
@@ -22,7 +42,7 @@
 
 ---
 
-### 3. [ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit and More](https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html)
+### 5. [ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit, and More](https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 20 Aug 2026 22:53:48 +0530  
@@ -31,7 +51,7 @@
 
 ---
 
-### 4. [AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure](https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html)
+### 6. [AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure](https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 20 Aug 2026 22:29:44 +0530  
@@ -40,7 +60,7 @@
 
 ---
 
-### 5. [New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data](https://thehackernews.com/2026/08/new-cryptographic-context-injection.html)
+### 7. [New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data](https://thehackernews.com/2026/08/new-cryptographic-context-injection.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 20 Aug 2026 20:06:27 +0530  
@@ -49,7 +69,7 @@
 
 ---
 
-### 6. [Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE](https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html)
+### 8. [Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE](https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 20 Aug 2026 19:18:24 +0530  
@@ -58,7 +78,7 @@
 
 ---
 
-### 7. [Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers](https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html)
+### 9. [Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers](https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 20 Aug 2026 19:05:13 +0530  
@@ -68,31 +88,13 @@
 
 ---
 
-### 8. [Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution](https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html)
+### 10. [Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution](https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 20 Aug 2026 18:54:28 +0530  
 **Severity:** Low  
 **CVEs:** CVE-2026-73570  
 **Categories:** Vulnerability  
-
----
-
-### 9. [Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments](https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 20 Aug 2026 17:31:24 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [Why "Shady AI" is Security's Next Big Governance Problem](https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 20 Aug 2026 17:15:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -129,7 +131,7 @@
 **Source:** Bleeping Computer  
 **Published:** Thu, 20 Aug 2026 08:14:38 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-19489, CVE-2026-19490  
+**CVEs:** CVE-2026-19490, CVE-2026-19489  
 **Categories:** Vulnerability  
 
 ---
@@ -204,7 +206,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-72971, CVE-2026-62832, CVE-2026-68820  
+**CVEs:** CVE-2026-72971, CVE-2026-68820, CVE-2026-62832  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -241,7 +243,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48561, CVE-2026-50661, CVE-2026-56164, CVE-2026-56155  
+**CVEs:** CVE-2026-56155, CVE-2026-48561, CVE-2026-56164, CVE-2026-50661  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -282,7 +284,36 @@
 
 ---
 
-### 31. [Hackers Target Zimbra Servers in Active Exploitation Campaign](https://www.securityweek.com/hackers-target-zimbra-servers-in-active-exploitation-campaign/)
+### 31. [Contractors’ CMMC Confidence Rises as Ability to Prove It Falls Behind](https://www.securityweek.com/contractors-cmmc-confidence-rises-as-ability-to-prove-it-falls-behind/)
+
+**Source:** Security Week  
+**Published:** Fri, 21 Aug 2026 08:41:06 +0000  
+**Severity:** High  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 32. [Microsoft Rolls Out 22 Fresh Security Patches](https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/)
+
+**Source:** Security Week  
+**Published:** Fri, 21 Aug 2026 08:12:19 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-62834, CVE-2026-65816, CVE-2026-66309, CVE-2026-63509, CVE-2026-69400, CVE-2026-69851, CVE-2026-65801, CVE-2026-69836, CVE-2026-69555, CVE-2026-69502, CVE-2026-68782, CVE-2026-69414, CVE-2026-68789, CVE-2026-65770, CVE-2026-24301  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 33. [CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities](https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/)
+
+**Source:** Security Week  
+**Published:** Fri, 21 Aug 2026 07:25:50 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-72530, CVE-2026-72529  
+**Categories:** Ransomware, Vulnerability, Malware, Phishing  
+
+---
+
+### 34. [Hackers Target Zimbra Servers in Active Exploitation Campaign](https://www.securityweek.com/hackers-target-zimbra-servers-in-active-exploitation-campaign/)
 
 **Source:** Security Week  
 **Published:** Thu, 20 Aug 2026 14:50:49 +0000  
@@ -292,7 +323,7 @@
 
 ---
 
-### 32. [Surveillance – Everything You Wanted to Know, But Were Afraid to Ask](https://www.securityweek.com/surveillance-everything-you-wanted-to-know-but-were-afraid-to-ask/)
+### 35. [Surveillance – Everything You Wanted to Know, But Were Afraid to Ask](https://www.securityweek.com/surveillance-everything-you-wanted-to-know-but-were-afraid-to-ask/)
 
 **Source:** Security Week  
 **Published:** Thu, 20 Aug 2026 14:30:00 +0000  
@@ -301,17 +332,17 @@
 
 ---
 
-### 33. [Threat Actor Hacks 14,000 IP Cameras in Ukraine and Russia](https://www.securityweek.com/threat-actor-hacks-14000-ip-cameras-in-ukraine-and-russia/)
+### 36. [Threat Actor Hacks 14,000 IP Cameras in Ukraine and Russia](https://www.securityweek.com/threat-actor-hacks-14000-ip-cameras-in-ukraine-and-russia/)
 
 **Source:** Security Week  
 **Published:** Thu, 20 Aug 2026 13:16:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2021-33044, CVE-2021-33045  
+**CVEs:** CVE-2021-33045, CVE-2021-33044  
 **Categories:** Ransomware, Vulnerability, Malware  
 
 ---
 
-### 34. [Atlassian, Splunk Patch Dozens of Critical, High-Severity Vulnerabilities](https://www.securityweek.com/atlassian-splunk-patch-dozens-of-critical-high-severity-vulnerabilities/)
+### 37. [Atlassian, Splunk Patch Dozens of Critical, High-Severity Vulnerabilities](https://www.securityweek.com/atlassian-splunk-patch-dozens-of-critical-high-severity-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Thu, 20 Aug 2026 12:24:53 +0000  
@@ -320,7 +351,7 @@
 
 ---
 
-### 35. [MLflow Vulnerability Exploited for Cloud Credential Theft](https://www.securityweek.com/mlflow-vulnerability-exploited-for-cloud-credential-theft/)
+### 38. [MLflow Vulnerability Exploited for Cloud Credential Theft](https://www.securityweek.com/mlflow-vulnerability-exploited-for-cloud-credential-theft/)
 
 **Source:** Security Week  
 **Published:** Thu, 20 Aug 2026 12:05:55 +0000  
@@ -330,51 +361,22 @@
 
 ---
 
-### 36. [Cisco Patches Critical Crosswork, Secure Workload Vulnerabilities](https://www.securityweek.com/cisco-patches-critical-crosswork-secure-workload-vulnerabilities/)
+### 39. [Cisco Patches Critical Crosswork, Secure Workload Vulnerabilities](https://www.securityweek.com/cisco-patches-critical-crosswork-secure-workload-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Thu, 20 Aug 2026 11:46:04 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20030, CVE-2026-20320, CVE-2026-20315, CVE-2026-20358, CVE-2026-20317, CVE-2026-20359, CVE-2026-20318, CVE-2026-20231, CVE-2026-20319, CVE-2026-20357  
+**CVEs:** CVE-2026-20030, CVE-2026-20231, CVE-2026-20358, CVE-2026-20357, CVE-2026-20319, CVE-2026-20318, CVE-2026-20320, CVE-2026-20359, CVE-2026-20317, CVE-2026-20315  
 **Categories:** Vulnerability  
 
 ---
 
-### 37. [AI-Assisted Tool Helped Secure Satellite Communication System After 2022 Russian Hacking](https://www.securityweek.com/ai-assisted-tool-helped-secure-satellite-communication-system-after-2022-russian-hacking/)
+### 40. [AI-Assisted Tool Helped Secure Satellite Communication System After 2022 Russian Hacking](https://www.securityweek.com/ai-assisted-tool-helped-secure-satellite-communication-system-after-2022-russian-hacking/)
 
 **Source:** Security Week  
 **Published:** Thu, 20 Aug 2026 11:08:00 +0000  
 **Severity:** Critical  
 **Categories:** Vulnerability  
-
----
-
-### 38. [OpenAI Overhauls Model Security With Sandboxing, 30-Minute Alerts, and Training Pauses](https://www.securityweek.com/openai-overhauls-model-security-with-sandboxing-30-minute-alerts-and-training-pauses/)
-
-**Source:** Security Week  
-**Published:** Thu, 20 Aug 2026 10:36:14 +0000  
-**Severity:** Critical  
-**Categories:** Malware  
-
----
-
-### 39. [Exploitation Expected for Critical Authentication Bypass Patched in Citrix NetScaler](https://www.securityweek.com/exploitation-expected-for-critical-authentication-bypass-patched-in-citrix-netscaler/)
-
-**Source:** Security Week  
-**Published:** Thu, 20 Aug 2026 08:33:25 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-19489, CVE-2026-19490  
-**Categories:** Vulnerability  
-
----
-
-### 40. [Critical GitLab Flaw Exploited Shortly After Disclosure](https://www.securityweek.com/critical-gitlab-flaw-exploited-shortly-after-disclosure/)
-
-**Source:** Security Week  
-**Published:** Thu, 20 Aug 2026 07:48:24 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-19478  
-**Categories:** Vulnerability, Supply Chain  
 
 ---
 
@@ -437,7 +439,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 11 Aug 2026 22:21:02 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62823, CVE-2026-62893, CVE-2026-65665, CVE-2026-68820  
+**CVEs:** CVE-2026-65665, CVE-2026-62893, CVE-2026-62823, CVE-2026-68820  
 **Categories:** Vulnerability  
 
 ---
@@ -745,7 +747,16 @@
 
 ---
 
-### 81. [Benchmaxxing: When the Benchmark Becomes the Target](https://www.crowdstrike.com/en-us/blog/benchmaxxing-when-benchmark-becomes-the-target/)
+### 81. [CrowdStrike Named Strongest Overall Leader in 2026 Frost Radar&trade;: Cloud Workload Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-strongest-overall-leader-2026-frost-radar-cwpp/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Aug 20, 2026 00:00:00-0500  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 82. [Benchmaxxing: When the Benchmark Becomes the Target](https://www.crowdstrike.com/en-us/blog/benchmaxxing-when-benchmark-becomes-the-target/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Aug 19, 2026 00:00:00-0500  
@@ -754,7 +765,7 @@
 
 ---
 
-### 82. [Teaching AI to Reason Through Detection Triage](https://www.crowdstrike.com/en-us/blog/teaching-ai-to-reason-through-detection-triage/)
+### 83. [Teaching AI to Reason Through Detection Triage](https://www.crowdstrike.com/en-us/blog/teaching-ai-to-reason-through-detection-triage/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Aug 17, 2026 00:00:00-0500  
@@ -763,7 +774,7 @@
 
 ---
 
-### 83. [August 2026 Patch Tuesday: One Exploited Zero-Day and 62 Critical Vulnerabilities Among 415 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-august-2026/)
+### 84. [August 2026 Patch Tuesday: One Exploited Zero-Day and 62 Critical Vulnerabilities Among 415 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-august-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Aug 11, 2026 00:00:00-0500  
@@ -772,7 +783,7 @@
 
 ---
 
-### 84. [CrowdStrike Threat Hunts for Shell Command Obfuscation on VMware ESX](https://www.crowdstrike.com/en-us/blog/crowdstrike-hunts-for-shell-command-obfuscation-vmware-esx/)
+### 85. [CrowdStrike Threat Hunts for Shell Command Obfuscation on VMware ESX](https://www.crowdstrike.com/en-us/blog/crowdstrike-hunts-for-shell-command-obfuscation-vmware-esx/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Aug 07, 2026 00:00:00-0500  
@@ -781,7 +792,7 @@
 
 ---
 
-### 85. [Expanding AI Benchmarks in Cybersecurity Beyond Vulnerability Discovery](https://www.crowdstrike.com/en-us/blog/expanding-cybersecurity-ai-benchmarks-beyond-vulnerability-discovery/)
+### 86. [Expanding AI Benchmarks in Cybersecurity Beyond Vulnerability Discovery](https://www.crowdstrike.com/en-us/blog/expanding-cybersecurity-ai-benchmarks-beyond-vulnerability-discovery/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Aug 06, 2026 00:00:00-0500  
@@ -790,7 +801,7 @@
 
 ---
 
-### 86. [Secure Agent Harness Execution: Preventing Escape](https://www.crowdstrike.com/en-us/blog/secure-agent-harness-execution-preventing-escape/)
+### 87. [Secure Agent Harness Execution: Preventing Escape](https://www.crowdstrike.com/en-us/blog/secure-agent-harness-execution-preventing-escape/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Aug 04, 2026 00:00:00-0500  
@@ -799,7 +810,7 @@
 
 ---
 
-### 87. [CrowdStrike 2026 Threat Hunting Report: Exploitation Window Closes as AI Use Accelerates](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-threat-hunting-report/)
+### 88. [CrowdStrike 2026 Threat Hunting Report: Exploitation Window Closes as AI Use Accelerates](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-threat-hunting-report/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Aug 03, 2026 00:00:00-0500  
@@ -808,7 +819,7 @@
 
 ---
 
-### 88. [Falcon AIDR Now Protects Copilot Studio Agents and Claude Code](https://www.crowdstrike.com/en-us/blog/falcon-aidr-protects-copilot-studio-agents-and-claude-code/)
+### 89. [Falcon AIDR Now Protects Copilot Studio Agents and Claude Code](https://www.crowdstrike.com/en-us/blog/falcon-aidr-protects-copilot-studio-agents-and-claude-code/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 30, 2026 00:00:00-0500  
@@ -817,16 +828,7 @@
 
 ---
 
-### 89. [Inside Astaroth's New Spambot Component](https://www.crowdstrike.com/en-us/blog/inside-astaroths-new-spambot-component/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Jul 29, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 90. [Falcon Cloud Security July 2026 Release: Helping Security Teams Move Faster in the Cloud](https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-helping-security-teams-move-faster/)
+### 90. [Inside Astaroth's New Spambot Component](https://www.crowdstrike.com/en-us/blog/inside-astaroths-new-spambot-component/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 29, 2026 00:00:00-0500  

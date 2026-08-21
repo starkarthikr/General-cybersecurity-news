@@ -1,6 +1,46 @@
 [
   {
     "source": "The Hacker News",
+    "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
+    "link": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
+    "published": "Fri, 21 Aug 2026 12:34:25 +0530",
+    "summary": "A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr.\n\nThe vulnerability in question is CVE-2026-19478 (CVSS score: 9.4), a case of code injection that allows an unauthenticated attacker to modify or delete publicly accessible GitLab projects and rewrite their data under certain conditions without requiring",
+    "analysis": {
+      "issue": "GitLab CVE-2026-19478 is under active exploitation, with unauthenticated attacks able to modify or delete public projects under certain conditions",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-19478"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution",
+    "link": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
+    "published": "Fri, 21 Aug 2026 11:36:11 +0530",
+    "summary": "Microsoft on Thursday warned of a maximum-severity security flaw in Entra ID that it said has been exploited in the wild, but noted that no customer action is required.\n\nThe vulnerability, tracked as CVE-2026-69836 (CVSS score: 10.0), is a case of remote code execution impacting the tech giant's cloud-based identity and access management service. It was previously called Azure Active Directory",
+    "analysis": {
+      "issue": "Microsoft says CVE-2026-69836, a CVSS 10",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-69836"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
     "link": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
     "published": "Fri, 21 Aug 2026 01:52:35 +0530",
@@ -38,7 +78,7 @@
   },
   {
     "source": "The Hacker News",
-    "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit and More",
+    "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit, and More",
     "link": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html",
     "published": "Thu, 20 Aug 2026 22:53:48 +0530",
     "summary": "A lot of this week’s trouble starts with something trusted doing exactly what it was allowed to do.\n\nSigned drivers get turned against defenses. Legitimate apps help malware blend in. A weak header check opens a path to code execution. Elsewhere, exposed systems, old bugs, odd hiding tricks, and AI-assisted exploit research keep lowering the effort needed to cause damage.\n\nNothing here needs",
@@ -149,42 +189,6 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments",
-    "link": "https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html",
-    "published": "Thu, 20 Aug 2026 17:31:24 +0530",
-    "summary": "Researchers at the University of Massachusetts Amherst have demonstrated an attack that revives expired Visa contactless credit cards for real in-store purchases by rewriting the expiration date a point-of-sale (POS) terminal reads over near-field communication (NFC), without breaking any of the card's cryptography.\n\nThe attack, which the researchers named \"Zombie Card,\" requires physical",
-    "analysis": {
-      "issue": "Zombie Card rewrites Visa NFC expiry data in transit, reviving expired cards at one tested U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Why \"Shady AI\" is Security's Next Big Governance Problem",
-    "link": "https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html",
-    "published": "Thu, 20 Aug 2026 17:15:00 +0530",
-    "summary": "In March 2026, an internal AI agent at Meta triggered a “Sev 1” incident after sensitive company and user data was exposed to employees who weren’t authorized to access it.&nbsp;\n\nThe incident began when a Meta employee posted a technical question on an internal forum. An engineer used an approved AI agent to analyze it, but the agent posted its response publicly without approval. The employee",
-    "analysis": {
-      "issue": "A Meta AI agent exposed sensitive company and user data to unauthorized employees for over two hours, triggering a Sev 1 incident",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
     "title": "Hackers poison arrayref Rust crate to push infostealer malware",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/",
@@ -253,8 +257,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-19489",
-        "CVE-2026-19490"
+        "CVE-2026-19490",
+        "CVE-2026-19489"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -409,8 +413,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-72971",
-        "CVE-2026-62832",
-        "CVE-2026-68820"
+        "CVE-2026-68820",
+        "CVE-2026-62832"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -487,10 +491,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-56155",
         "CVE-2026-48561",
-        "CVE-2026-50661",
         "CVE-2026-56164",
-        "CVE-2026-56155"
+        "CVE-2026-50661"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -575,6 +579,84 @@
   },
   {
     "source": "Security Week",
+    "title": "Contractors’ CMMC Confidence Rises as Ability to Prove It Falls Behind",
+    "link": "https://www.securityweek.com/contractors-cmmc-confidence-rises-as-ability-to-prove-it-falls-behind/",
+    "published": "Fri, 21 Aug 2026 08:41:06 +0000",
+    "summary": "<p>Two industry surveys released this week by Kiteworks and CyberSheath paint a consistent picture of the defense industrial base.</p>\n<p>The post <a href=\"https://www.securityweek.com/contractors-cmmc-confidence-rises-as-ability-to-prove-it-falls-behind/\">Contractors&#8217; CMMC Confidence Rises as Ability to Prove It Falls Behind</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Two industry surveys released this week by Kiteworks and CyberSheath paint a consistent picture of the defense industrial base",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Microsoft Rolls Out 22 Fresh Security Patches",
+    "link": "https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/",
+    "published": "Fri, 21 Aug 2026 08:12:19 +0000",
+    "summary": "<p>Most of the fixes resolve code execution, privilege escalation, and information disclosure vulnerabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/\">Microsoft Rolls Out 22 Fresh Security Patches</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Most of the fixes resolve code execution, privilege escalation, and information disclosure vulnerabilities",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-62834",
+        "CVE-2026-65816",
+        "CVE-2026-66309",
+        "CVE-2026-63509",
+        "CVE-2026-69400",
+        "CVE-2026-69851",
+        "CVE-2026-65801",
+        "CVE-2026-69836",
+        "CVE-2026-69555",
+        "CVE-2026-69502",
+        "CVE-2026-68782",
+        "CVE-2026-69414",
+        "CVE-2026-68789",
+        "CVE-2026-65770",
+        "CVE-2026-24301"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities",
+    "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/",
+    "published": "Fri, 21 Aug 2026 07:25:50 +0000",
+    "summary": "<p>The Head Mare hacktivist group has been exploiting the bugs to deploy the PhantomCore malware.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/\">CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The Head Mare hacktivist group has been exploiting the bugs to deploy the PhantomCore malware",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-72530",
+        "CVE-2026-72529"
+      ],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Hackers Target Zimbra Servers in Active Exploitation Campaign",
     "link": "https://www.securityweek.com/hackers-target-zimbra-servers-in-active-exploitation-campaign/",
     "published": "Thu, 20 Aug 2026 14:50:49 +0000",
@@ -628,8 +710,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2021-33044",
-        "CVE-2021-33045"
+        "CVE-2021-33045",
+        "CVE-2021-33044"
       ],
       "threat_categories": [
         "Ransomware",
@@ -693,15 +775,15 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-20030",
-        "CVE-2026-20320",
-        "CVE-2026-20315",
-        "CVE-2026-20358",
-        "CVE-2026-20317",
-        "CVE-2026-20359",
-        "CVE-2026-20318",
         "CVE-2026-20231",
+        "CVE-2026-20358",
+        "CVE-2026-20357",
         "CVE-2026-20319",
-        "CVE-2026-20357"
+        "CVE-2026-20318",
+        "CVE-2026-20320",
+        "CVE-2026-20359",
+        "CVE-2026-20317",
+        "CVE-2026-20315"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -723,66 +805,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "OpenAI Overhauls Model Security With Sandboxing, 30-Minute Alerts, and Training Pauses",
-    "link": "https://www.securityweek.com/openai-overhauls-model-security-with-sandboxing-30-minute-alerts-and-training-pauses/",
-    "published": "Thu, 20 Aug 2026 10:36:14 +0000",
-    "summary": "<p>The action taken by OpenAI comes in light of the Hugging Face incident and the discovery of the Astra model’s advanced capabilities. </p>\n<p>The post <a href=\"https://www.securityweek.com/openai-overhauls-model-security-with-sandboxing-30-minute-alerts-and-training-pauses/\">OpenAI Overhauls Model Security With Sandboxing, 30-Minute Alerts, and Training Pauses</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The action taken by OpenAI comes in light of the Hugging Face incident and the discovery of the Astra model’s advanced capabilities",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Exploitation Expected for Critical Authentication Bypass Patched in Citrix NetScaler",
-    "link": "https://www.securityweek.com/exploitation-expected-for-critical-authentication-bypass-patched-in-citrix-netscaler/",
-    "published": "Thu, 20 Aug 2026 08:33:25 +0000",
-    "summary": "<p>Remote, unauthenticated attackers could exploit the critical-severity flaw without user interaction.</p>\n<p>The post <a href=\"https://www.securityweek.com/exploitation-expected-for-critical-authentication-bypass-patched-in-citrix-netscaler/\">Exploitation Expected for Critical Authentication Bypass Patched in Citrix NetScaler</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Remote, unauthenticated attackers could exploit the critical-severity flaw without user interaction",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-19489",
-        "CVE-2026-19490"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Critical GitLab Flaw Exploited Shortly After Disclosure",
-    "link": "https://www.securityweek.com/critical-gitlab-flaw-exploited-shortly-after-disclosure/",
-    "published": "Thu, 20 Aug 2026 07:48:24 +0000",
-    "summary": "<p>CVE-2026-19478 can be exploited without authentication to modify or delete public projects and user data.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-gitlab-flaw-exploited-shortly-after-disclosure/\">Critical GitLab Flaw Exploited Shortly After Disclosure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "CVE-2026-19478 can be exploited without authentication to modify or delete public projects and user data",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-19478"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
       ]
     }
   },
@@ -909,9 +931,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-62823",
-        "CVE-2026-62893",
         "CVE-2026-65665",
+        "CVE-2026-62893",
+        "CVE-2026-62823",
         "CVE-2026-68820"
       ],
       "threat_categories": [
@@ -1536,6 +1558,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "CrowdStrike Named Strongest Overall Leader in 2026 Frost Radar&trade;: Cloud Workload Protection Platforms",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-strongest-overall-leader-2026-frost-radar-cwpp/",
+    "published": "Aug 20, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "Falcon Cloud Security earned the highest scores in both Innovation and Growth by connecting risk, adversary intelligence, and real-time protection to stop attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "Benchmaxxing: When the Benchmark Becomes the Target",
     "link": "https://www.crowdstrike.com/en-us/blog/benchmaxxing-when-benchmark-becomes-the-target/",
     "published": "Aug 19, 2026 00:00:00-0500",
@@ -1686,24 +1726,6 @@
     "summary": "",
     "analysis": {
       "issue": "Learn about the new Astaroth spambot component, how it overlaps with other spambots, and its role in the LATAM eCrime ecosystem",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "Falcon Cloud Security July 2026 Release: Helping Security Teams Move Faster in the Cloud",
-    "link": "https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-helping-security-teams-move-faster/",
-    "published": "Jul 29, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "Recent Falcon Cloud Security updates include stronger infrastructure-as-code security, streamlined cloud identity investigations, and expanded agentless workload visibility",
       "solution": null,
       "cause": null,
       "timeline": null,
