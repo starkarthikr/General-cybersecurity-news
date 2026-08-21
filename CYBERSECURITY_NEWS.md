@@ -1,10 +1,46 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-20 17:01:14 UTC
+**Last Updated:** 2026-08-21 01:40:41 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data](https://thehackernews.com/2026/08/new-cryptographic-context-injection.html)
+### 1. [Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads](https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 21 Aug 2026 01:52:35 +0530  
+**Severity:** Low  
+**Categories:** Malware, Supply Chain  
+
+---
+
+### 2. [Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts](https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 21 Aug 2026 01:29:19 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit and More](https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 20 Aug 2026 22:53:48 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 4. [AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure](https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 20 Aug 2026 22:29:44 +0530  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 5. [New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data](https://thehackernews.com/2026/08/new-cryptographic-context-injection.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 20 Aug 2026 20:06:27 +0530  
@@ -13,7 +49,7 @@
 
 ---
 
-### 2. [Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE](https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html)
+### 6. [Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE](https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 20 Aug 2026 19:18:24 +0530  
@@ -22,7 +58,7 @@
 
 ---
 
-### 3. [Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers](https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html)
+### 7. [Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers](https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 20 Aug 2026 19:05:13 +0530  
@@ -32,7 +68,7 @@
 
 ---
 
-### 4. [Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution](https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html)
+### 8. [Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution](https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 20 Aug 2026 18:54:28 +0530  
@@ -42,7 +78,7 @@
 
 ---
 
-### 5. [Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments](https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html)
+### 9. [Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments](https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 20 Aug 2026 17:31:24 +0530  
@@ -51,7 +87,7 @@
 
 ---
 
-### 6. [Why "Shady AI" is Security's Next Big Governance Problem](https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html)
+### 10. [Why "Shady AI" is Security's Next Big Governance Problem](https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 20 Aug 2026 17:15:00 +0530  
@@ -60,43 +96,16 @@
 
 ---
 
-### 7. [CDN Tsunami Attack Abuses HTTP/3 Translation for Up to 350x DoS Amplification](https://thehackernews.com/2026/08/cdn-tsunami-attack-abuses-http3.html)
+### 11. [Hackers poison arrayref Rust crate to push infostealer malware](https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 20 Aug 2026 17:09:35 +0530  
-**Severity:** High  
-**Categories:** General Security  
-
----
-
-### 8. [Manic Android Malware Exfiltrates Data From Offline Phones via Nearby Infected Devices](https://thehackernews.com/2026/08/manic-android-malware-exfiltrates-data.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 20 Aug 2026 16:56:08 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 20 Aug 2026 13:53:52 -0400  
 **Severity:** Low  
 **Categories:** Malware  
 
 ---
 
-### 9. [NASA AIT-GUI Flaws Could Let Unauthenticated Attackers Issue Spacecraft Commands](https://thehackernews.com/2026/08/nasa-ait-gui-flaws-could-let.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 20 Aug 2026 16:35:11 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [ToxicPanda 2.0 and GoldDigger Expand Android Banking Attacks with On-Device Fraud](https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 20 Aug 2026 16:08:28 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 11. [Critical Elementor Pro bug exposes WordPress sites to RCE attacks](https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/)
+### 12. [Critical Elementor Pro bug exposes WordPress sites to RCE attacks](https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 20 Aug 2026 10:39:48 -0400  
@@ -106,7 +115,7 @@
 
 ---
 
-### 12. [How MSPs can catch phishing attacks email filters miss](https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/)
+### 13. [How MSPs can catch phishing attacks email filters miss](https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 20 Aug 2026 10:01:11 -0400  
@@ -115,17 +124,17 @@
 
 ---
 
-### 13. [Citrix urges admins to patch new NetScaler flaws as soon as possible](https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/)
+### 14. [Citrix urges admins to patch new NetScaler flaws as soon as possible](https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 20 Aug 2026 08:14:38 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-19490, CVE-2026-19489  
+**CVEs:** CVE-2026-19489, CVE-2026-19490  
 **Categories:** Vulnerability  
 
 ---
 
-### 14. [CISA warns of hackers exploiting critical MLflow vulnerability](https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/)
+### 15. [CISA warns of hackers exploiting critical MLflow vulnerability](https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 20 Aug 2026 07:06:14 -0400  
@@ -135,7 +144,7 @@
 
 ---
 
-### 15. [New Manic Android malware can exfiltrate data through nearby devices](https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/)
+### 16. [New Manic Android malware can exfiltrate data through nearby devices](https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 20 Aug 2026 06:02:02 -0400  
@@ -144,7 +153,7 @@
 
 ---
 
-### 16. [Critical Zimbra RCE flaw now actively exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/)
+### 17. [Critical Zimbra RCE flaw now actively exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 20 Aug 2026 05:46:54 -0400  
@@ -154,7 +163,7 @@
 
 ---
 
-### 17. [Microsoft says August Windows updates may cause gaming issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/)
+### 18. [Microsoft says August Windows updates may cause gaming issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 20 Aug 2026 02:51:03 -0400  
@@ -163,7 +172,7 @@
 
 ---
 
-### 18. [OpenAI confirms ChatGPT is down as logins and signups fail](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/)
+### 19. [OpenAI confirms ChatGPT is down as logins and signups fail](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 19 Aug 2026 20:20:55 -0400  
@@ -172,21 +181,12 @@
 
 ---
 
-### 19. [Rogue ransomware affiliate poses as recovery firm to steal payments](https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/)
+### 20. [Rogue ransomware affiliate poses as recovery firm to steal payments](https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 19 Aug 2026 16:59:58 -0400  
 **Severity:** Low  
 **Categories:** Ransomware, Vulnerability, Malware  
-
----
-
-### 20. [Sakura Internet hack exposes data of up to 1.36 million accounts](https://www.bleepingcomputer.com/news/security/sakura-internet-hack-exposes-data-of-up-to-136-million-accounts/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 19 Aug 2026 16:53:38 -0400  
-**Severity:** Critical  
-**Categories:** Malware  
 
 ---
 
@@ -204,7 +204,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-72971, CVE-2026-68820, CVE-2026-62832  
+**CVEs:** CVE-2026-62832, CVE-2026-68820, CVE-2026-72971  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -241,7 +241,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56164, CVE-2026-48561, CVE-2026-50661, CVE-2026-56155  
+**CVEs:** CVE-2026-48561, CVE-2026-56155, CVE-2026-56164, CVE-2026-50661  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -335,7 +335,7 @@
 **Source:** Security Week  
 **Published:** Thu, 20 Aug 2026 11:46:04 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20231, CVE-2026-20318, CVE-2026-20357, CVE-2026-20030, CVE-2026-20319, CVE-2026-20317, CVE-2026-20320, CVE-2026-20358, CVE-2026-20315, CVE-2026-20359  
+**CVEs:** CVE-2026-20359, CVE-2026-20231, CVE-2026-20319, CVE-2026-20358, CVE-2026-20357, CVE-2026-20315, CVE-2026-20317, CVE-2026-20320, CVE-2026-20030, CVE-2026-20318  
 **Categories:** Vulnerability  
 
 ---
@@ -363,7 +363,7 @@
 **Source:** Security Week  
 **Published:** Thu, 20 Aug 2026 08:33:25 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-19490, CVE-2026-19489  
+**CVEs:** CVE-2026-19489, CVE-2026-19490  
 **Categories:** Vulnerability  
 
 ---
@@ -378,7 +378,16 @@
 
 ---
 
-### 41. [UAT-10147 deploys SPECTRE: A cross-platform implant with Linux rootkit and BYOVD capabilities](https://blog.talosintelligence.com/uat-10147-deploys-spectre-a-cross-platform-implant-with-linux-rootkit-and-byovd-capabilities/)
+### 41. [Is Cyber missing the Marque?](https://blog.talosintelligence.com/is-cyber-missing-the-marque/)
+
+**Source:** Talos Blog  
+**Published:** Thu, 20 Aug 2026 18:00:18 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 42. [UAT-10147 deploys SPECTRE: A cross-platform implant with Linux rootkit and BYOVD capabilities](https://blog.talosintelligence.com/uat-10147-deploys-spectre-a-cross-platform-implant-with-linux-rootkit-and-byovd-capabilities/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 20 Aug 2026 10:00:50 GMT  
@@ -387,7 +396,7 @@
 
 ---
 
-### 42. [UAT-10147: Chinese-speaking adversary integrates agentic AI into post-compromise operations](https://blog.talosintelligence.com/uat-10147-chinese-speaking-adversary-integrates-agentic-ai-into-post-compromise-operations/)
+### 43. [UAT-10147: Chinese-speaking adversary integrates agentic AI into post-compromise operations](https://blog.talosintelligence.com/uat-10147-chinese-speaking-adversary-integrates-agentic-ai-into-post-compromise-operations/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 20 Aug 2026 10:00:32 GMT  
@@ -396,7 +405,7 @@
 
 ---
 
-### 43. [Describing attacks with crime script analysis](https://blog.talosintelligence.com/describing-attacks-with-crime-script-analysis/)
+### 44. [Describing attacks with crime script analysis](https://blog.talosintelligence.com/describing-attacks-with-crime-script-analysis/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 19 Aug 2026 10:00:52 GMT  
@@ -405,7 +414,7 @@
 
 ---
 
-### 44. [Curiouser and Curiouser](https://blog.talosintelligence.com/curiouser-and-curiouser/)
+### 45. [Curiouser and Curiouser](https://blog.talosintelligence.com/curiouser-and-curiouser/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 13 Aug 2026 18:00:18 GMT  
@@ -414,7 +423,7 @@
 
 ---
 
-### 45. [Dissecting the JWR phishing framework](https://blog.talosintelligence.com/dissecting-the-jwr-phishing-framework/)
+### 46. [Dissecting the JWR phishing framework](https://blog.talosintelligence.com/dissecting-the-jwr-phishing-framework/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 13 Aug 2026 10:00:35 GMT  
@@ -423,17 +432,17 @@
 
 ---
 
-### 46. [Microsoft Patch Tuesday for August 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-for-august-2026/)
+### 47. [Microsoft Patch Tuesday for August 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-for-august-2026/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 11 Aug 2026 22:21:02 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-65665, CVE-2026-62823, CVE-2026-68820, CVE-2026-62893  
+**CVEs:** CVE-2026-68820, CVE-2026-62823, CVE-2026-65665, CVE-2026-62893  
 **Categories:** Vulnerability  
 
 ---
 
-### 47. [Why metaphor may dictate your security strategy](https://blog.talosintelligence.com/why-metaphor-may-dictate-your-security-strategy/)
+### 48. [Why metaphor may dictate your security strategy](https://blog.talosintelligence.com/why-metaphor-may-dictate-your-security-strategy/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 06 Aug 2026 18:00:01 GMT  
@@ -442,7 +451,7 @@
 
 ---
 
-### 48. [“Keep going, bro. You’ve got this!” A data-driven look at how adversaries are weaponizing AI](https://blog.talosintelligence.com/keep-going-bro-youve-got-this-a-data-driven-look-at-how-adversaries-are-weaponizing-ai/)
+### 49. [“Keep going, bro. You’ve got this!” A data-driven look at how adversaries are weaponizing AI](https://blog.talosintelligence.com/keep-going-bro-youve-got-this-a-data-driven-look-at-how-adversaries-are-weaponizing-ai/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 04 Aug 2026 10:00:11 GMT  
@@ -451,21 +460,12 @@
 
 ---
 
-### 49. [[Webinar] Tales from the Frontlines: An exclusive briefing on Q2 incidents](https://blog.talosintelligence.com/webinar-tales-from-the-frontlines-an-exclusive-briefing-on-q2-incidents/)
+### 50. [[Webinar] Tales from the Frontlines: An exclusive briefing on Q2 incidents](https://blog.talosintelligence.com/webinar-tales-from-the-frontlines-an-exclusive-briefing-on-q2-incidents/)
 
 **Source:** Talos Blog  
 **Published:** Mon, 03 Aug 2026 16:00:12 GMT  
 **Severity:** High  
 **Categories:** Ransomware, Phishing  
-
----
-
-### 50. [You were onto something with “It’s the Climb,” Miley](https://blog.talosintelligence.com/you-were-onto-something-with-its-the-climb-miley/)
-
-**Source:** Talos Blog  
-**Published:** Thu, 30 Jul 2026 18:00:35 GMT  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
