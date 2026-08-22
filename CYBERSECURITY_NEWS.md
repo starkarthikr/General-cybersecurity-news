@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-22 01:34:31 UTC
+**Last Updated:** 2026-08-22 01:57:43 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -146,7 +146,7 @@
 **Source:** Bleeping Computer  
 **Published:** Fri, 21 Aug 2026 08:25:33 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-72529, CVE-2026-72530  
+**CVEs:** CVE-2026-72530, CVE-2026-72529  
 **Categories:** Vulnerability  
 
 ---
@@ -349,7 +349,7 @@
 **Source:** Security Week  
 **Published:** Fri, 21 Aug 2026 08:12:19 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-65770, CVE-2026-62834, CVE-2026-69414, CVE-2026-24301, CVE-2026-69502, CVE-2026-66309, CVE-2026-68789, CVE-2026-68782, CVE-2026-69836, CVE-2026-63509, CVE-2026-65816, CVE-2026-69851, CVE-2026-65801, CVE-2026-69400, CVE-2026-69555  
+**CVEs:** CVE-2026-69400, CVE-2026-62834, CVE-2026-68789, CVE-2026-68782, CVE-2026-65770, CVE-2026-69414, CVE-2026-63509, CVE-2026-65816, CVE-2026-65801, CVE-2026-69502, CVE-2026-69836, CVE-2026-66309, CVE-2026-69555, CVE-2026-24301, CVE-2026-69851  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -359,7 +359,7 @@
 **Source:** Security Week  
 **Published:** Fri, 21 Aug 2026 07:25:50 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-72529, CVE-2026-72530  
+**CVEs:** CVE-2026-72530, CVE-2026-72529  
 **Categories:** Ransomware, Vulnerability, Malware, Phishing  
 
 ---
@@ -433,7 +433,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 11 Aug 2026 22:21:02 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-65665, CVE-2026-62823, CVE-2026-68820, CVE-2026-62893  
+**CVEs:** CVE-2026-62893, CVE-2026-62823, CVE-2026-65665, CVE-2026-68820  
 **Categories:** Vulnerability  
 
 ---
@@ -635,7 +635,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
