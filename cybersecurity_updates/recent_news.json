@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit",
+    "link": "https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html",
+    "published": "Sat, 22 Aug 2026 20:02:41 +0530",
+    "summary": "The U.S. Department of Justice (DoJ) announced on Friday that ByteDance-owned TikTok will pay $400 million to settle a 2024 lawsuit accusing the company of violating child privacy laws in the country.\n\nAs part of the settlement, the social media platform will pay $300 million immediately, and an additional $100 million \"upon entry of an order vacating a prior consent decree entered against",
+    "analysis": {
+      "issue": "TikTok will pay $400 million to settle a U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
     "link": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html",
     "published": "Sat, 22 Aug 2026 00:23:00 +0530",
@@ -168,20 +186,39 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit, and More",
-    "link": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html",
-    "published": "Thu, 20 Aug 2026 22:53:48 +0530",
-    "summary": "A lot of this week’s trouble starts with something trusted doing exactly what it was allowed to do.\n\nSigned drivers get turned against defenses. Legitimate apps help malware blend in. A weak header check opens a path to code execution. Elsewhere, exposed systems, old bugs, odd hiding tricks, and AI-assisted exploit research keep lowering the effort needed to cause damage.\n\nNothing here needs",
+    "source": "Bleeping Computer",
+    "title": "Hackers infect Android car head units with proxy botnet malware",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/",
+    "published": "Sat, 22 Aug 2026 10:14:24 -0400",
+    "summary": "A supply-chain attack targeting Android-based car head units is using a legitimate device-update app to spread malware that enlists compromised devices in a proxy botnet or uses them for ad fraud. [...]",
     "analysis": {
-      "issue": "0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5",
+      "issue": "A supply-chain attack targeting Android-based car head units is using a legitimate device-update app to spread malware that enlists compromised devices in a proxy botnet or uses them for ad fraud",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Named Pipes Under Attack: Securing Windows Interprocess Communication",
+    "link": "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/",
+    "published": "Sat, 22 Aug 2026 09:00:09 -0400",
+    "summary": "Windows named pipes provide fast interprocess communication, but weak access controls can expose privileged services to untrusted processes. ThreatLocker explains how endpoint verification, command authorization, strict input validation, and narrowly scoped privileges can help secure named-pipe communication. [...]",
+    "analysis": {
+      "issue": "Written by: Farid Mustafayev, Cybersecurity Expert at ThreatLocker Named pipes are a common choice for communication between applications running on the same Windows computer",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Supply Chain"
       ]
     }
   },
@@ -289,8 +326,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-72529",
-        "CVE-2026-72530"
+        "CVE-2026-72530",
+        "CVE-2026-72529"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -310,11 +347,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-65816",
-        "CVE-2026-69836",
         "CVE-2026-69555",
+        "CVE-2026-65770",
         "CVE-2026-65801",
-        "CVE-2026-65770"
+        "CVE-2026-69836",
+        "CVE-2026-65816"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -337,44 +374,6 @@
       "threat_categories": [
         "Malware",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "SickKids data breach exposes employee and job applicant info",
-    "link": "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/",
-    "published": "Fri, 21 Aug 2026 06:10:42 -0400",
-    "summary": "Toronto's Hospital for Sick Children (SickKids) says a cybersecurity incident exposed the personal information of some current and former employees and job applicants, stemming from a flaw in third-party software. Clinical systems and patient records were not affected. (264) [...]",
-    "analysis": {
-      "issue": "The Hospital for Sick Children (SickKids) has disclosed that the personal information of some current and former employees, as well as job applicants, was exposed in a \"cybersecurity incident",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers poison arrayref Rust crate to push infostealer malware",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/",
-    "published": "Thu, 20 Aug 2026 13:53:52 -0400",
-    "summary": "Hackers compromised the maintainer account behind the widely used Rust crate arrayref to introduce malware that executed on developers' systems during compilation. [...]",
-    "analysis": {
-      "issue": "Hackers compromised the maintainer account behind the widely used Rust crate arrayref to introduce malware that executed on developers’ systems during compilation",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
@@ -409,8 +408,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-62832",
         "CVE-2026-68820",
+        "CVE-2026-62832",
         "CVE-2026-72971"
       ],
       "threat_categories": [
@@ -490,8 +489,8 @@
       "cves": [
         "CVE-2026-50661",
         "CVE-2026-48561",
-        "CVE-2026-56164",
-        "CVE-2026-56155"
+        "CVE-2026-56155",
+        "CVE-2026-56164"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -748,21 +747,21 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-62834",
-        "CVE-2026-24301",
-        "CVE-2026-69414",
-        "CVE-2026-65816",
-        "CVE-2026-63509",
-        "CVE-2026-69836",
         "CVE-2026-69502",
-        "CVE-2026-66309",
-        "CVE-2026-68789",
+        "CVE-2026-69555",
+        "CVE-2026-65770",
         "CVE-2026-69851",
         "CVE-2026-68782",
-        "CVE-2026-69555",
+        "CVE-2026-63509",
         "CVE-2026-65801",
-        "CVE-2026-65770",
-        "CVE-2026-69400"
+        "CVE-2026-69414",
+        "CVE-2026-68789",
+        "CVE-2026-66309",
+        "CVE-2026-69836",
+        "CVE-2026-69400",
+        "CVE-2026-65816",
+        "CVE-2026-62834",
+        "CVE-2026-24301"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -783,8 +782,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-72529",
-        "CVE-2026-72530"
+        "CVE-2026-72530",
+        "CVE-2026-72529"
       ],
       "threat_categories": [
         "Ransomware",
@@ -917,10 +916,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-65665",
-        "CVE-2026-62893",
+        "CVE-2026-68820",
         "CVE-2026-62823",
-        "CVE-2026-68820"
+        "CVE-2026-62893",
+        "CVE-2026-65665"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1330,8 +1329,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",

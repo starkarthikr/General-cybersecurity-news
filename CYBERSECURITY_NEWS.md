@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-22 12:49:01 UTC
+**Last Updated:** 2026-08-22 16:50:28 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2](https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html)
+### 1. [TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit](https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 22 Aug 2026 20:02:41 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2](https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 22 Aug 2026 00:23:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot](https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html)
+### 3. [Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot](https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 21 Aug 2026 21:22:10 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet](https://thehackernews.com/2026/08/android-car-malware-spreads-through.html)
+### 4. [Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet](https://thehackernews.com/2026/08/android-car-malware-spreads-through.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 21 Aug 2026 21:11:44 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [Wazuh and AI For Enhanced SOC Workflows](https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html)
+### 5. [Wazuh and AI For Enhanced SOC Workflows](https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 21 Aug 2026 16:51:39 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0](https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html)
+### 6. [Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0](https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 21 Aug 2026 15:33:11 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure](https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html)
+### 7. [GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure](https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 21 Aug 2026 12:34:25 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [Microsoft Patches Severe Entra ID Flaw (CVSS 10.0) Allowing Remote Code Execution](https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html)
+### 8. [Microsoft Patches Severe Entra ID Flaw (CVSS 10.0) Allowing Remote Code Execution](https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 21 Aug 2026 11:36:11 +0530  
@@ -69,7 +78,7 @@
 
 ---
 
-### 8. [Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads](https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html)
+### 9. [Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads](https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 21 Aug 2026 01:52:35 +0530  
@@ -78,7 +87,7 @@
 
 ---
 
-### 9. [Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts](https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html)
+### 10. [Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts](https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 21 Aug 2026 01:29:19 +0530  
@@ -87,16 +96,25 @@
 
 ---
 
-### 10. [ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit, and More](https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html)
+### 11. [Hackers infect Android car head units with proxy botnet malware](https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 20 Aug 2026 22:53:48 +0530  
+**Source:** Bleeping Computer  
+**Published:** Sat, 22 Aug 2026 10:14:24 -0400  
 **Severity:** Low  
-**Categories:** Vulnerability  
+**Categories:** Malware  
 
 ---
 
-### 11. [New SynkLoader malware pushed in Microsoft Teams phishing campaign](https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/)
+### 12. [Named Pipes Under Attack: Securing Windows Interprocess Communication](https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/)
+
+**Source:** Bleeping Computer  
+**Published:** Sat, 22 Aug 2026 09:00:09 -0400  
+**Severity:** Low  
+**Categories:** Malware, Supply Chain  
+
+---
+
+### 13. [New SynkLoader malware pushed in Microsoft Teams phishing campaign](https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 21 Aug 2026 14:01:30 -0400  
@@ -105,7 +123,7 @@
 
 ---
 
-### 12. [Hundreds of leaked AWS keys give full control over corporate accounts](https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/)
+### 14. [Hundreds of leaked AWS keys give full control over corporate accounts](https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 21 Aug 2026 11:55:15 -0400  
@@ -114,7 +132,7 @@
 
 ---
 
-### 13. [Microsoft blames Windows gaming issues on RGB lighting devices](https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/)
+### 15. [Microsoft blames Windows gaming issues on RGB lighting devices](https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 21 Aug 2026 10:54:49 -0400  
@@ -123,7 +141,7 @@
 
 ---
 
-### 14. [Is Online Privacy Possible? How Digital Identities Can Help](https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/)
+### 16. [Is Online Privacy Possible? How Digital Identities Can Help](https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 21 Aug 2026 10:00:10 -0400  
@@ -132,7 +150,7 @@
 
 ---
 
-### 15. [Microsoft rolls out Classic Outlook theme for New Outlook users](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users/)
+### 17. [Microsoft rolls out Classic Outlook theme for New Outlook users](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 21 Aug 2026 09:39:35 -0400  
@@ -141,50 +159,32 @@
 
 ---
 
-### 16. [CISA orders feds to patch actively exploited TrueConf Server flaws](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/)
+### 18. [CISA orders feds to patch actively exploited TrueConf Server flaws](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 21 Aug 2026 08:25:33 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-72529, CVE-2026-72530  
+**CVEs:** CVE-2026-72530, CVE-2026-72529  
 **Categories:** Vulnerability  
 
 ---
 
-### 17. [Microsoft patches max severity code execution, privilege escalation flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/)
+### 19. [Microsoft patches max severity code execution, privilege escalation flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 21 Aug 2026 07:04:10 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-65816, CVE-2026-69836, CVE-2026-69555, CVE-2026-65801, CVE-2026-65770  
+**CVEs:** CVE-2026-69555, CVE-2026-65770, CVE-2026-65801, CVE-2026-69836, CVE-2026-65816  
 **Categories:** Vulnerability  
 
 ---
 
-### 18. [Hackers abuse FTP server banners to deliver new Windows malware](https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/)
+### 20. [Hackers abuse FTP server banners to deliver new Windows malware](https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 21 Aug 2026 07:00:00 -0400  
 **Severity:** Low  
 **Categories:** Malware, Phishing  
-
----
-
-### 19. [SickKids data breach exposes employee and job applicant info](https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 21 Aug 2026 06:10:42 -0400  
-**Severity:** Low  
-**Categories:** Data Breach, Vulnerability, Supply Chain  
-
----
-
-### 20. [Hackers poison arrayref Rust crate to push infostealer malware](https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 20 Aug 2026 13:53:52 -0400  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
@@ -202,7 +202,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62832, CVE-2026-68820, CVE-2026-72971  
+**CVEs:** CVE-2026-68820, CVE-2026-62832, CVE-2026-72971  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -239,7 +239,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50661, CVE-2026-48561, CVE-2026-56164, CVE-2026-56155  
+**CVEs:** CVE-2026-50661, CVE-2026-48561, CVE-2026-56155, CVE-2026-56164  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -358,7 +358,7 @@
 **Source:** Security Week  
 **Published:** Fri, 21 Aug 2026 08:12:19 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62834, CVE-2026-24301, CVE-2026-69414, CVE-2026-65816, CVE-2026-63509, CVE-2026-69836, CVE-2026-69502, CVE-2026-66309, CVE-2026-68789, CVE-2026-69851, CVE-2026-68782, CVE-2026-69555, CVE-2026-65801, CVE-2026-65770, CVE-2026-69400  
+**CVEs:** CVE-2026-69502, CVE-2026-69555, CVE-2026-65770, CVE-2026-69851, CVE-2026-68782, CVE-2026-63509, CVE-2026-65801, CVE-2026-69414, CVE-2026-68789, CVE-2026-66309, CVE-2026-69836, CVE-2026-69400, CVE-2026-65816, CVE-2026-62834, CVE-2026-24301  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -368,7 +368,7 @@
 **Source:** Security Week  
 **Published:** Fri, 21 Aug 2026 07:25:50 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-72529, CVE-2026-72530  
+**CVEs:** CVE-2026-72530, CVE-2026-72529  
 **Categories:** Ransomware, Vulnerability, Malware, Phishing  
 
 ---
@@ -432,7 +432,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 11 Aug 2026 22:21:02 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-65665, CVE-2026-62893, CVE-2026-62823, CVE-2026-68820  
+**CVEs:** CVE-2026-68820, CVE-2026-62823, CVE-2026-62893, CVE-2026-65665  
 **Categories:** Vulnerability  
 
 ---
@@ -634,7 +634,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
