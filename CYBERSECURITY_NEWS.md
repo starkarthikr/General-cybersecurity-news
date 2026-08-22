@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-22 01:57:43 UTC
+**Last Updated:** 2026-08-22 08:57:12 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -151,12 +151,12 @@
 
 ---
 
-### 17. [Microsoft warns of max severity Entra ID flaw exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/)
+### 17. [Microsoft patches max severity code execution, privilege escalation flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 21 Aug 2026 07:04:10 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69836  
+**CVEs:** CVE-2026-65801, CVE-2026-69555, CVE-2026-65816, CVE-2026-65770, CVE-2026-69836  
 **Categories:** Vulnerability  
 
 ---
@@ -202,7 +202,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-72971, CVE-2026-62832, CVE-2026-68820  
+**CVEs:** CVE-2026-62832, CVE-2026-68820, CVE-2026-72971  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -239,7 +239,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56155, CVE-2026-56164, CVE-2026-50661, CVE-2026-48561  
+**CVEs:** CVE-2026-50661, CVE-2026-56164, CVE-2026-48561, CVE-2026-56155  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -280,7 +280,16 @@
 
 ---
 
-### 31. [Former NSA Director Paul Nakasone Launches National Security Advisory Firm](https://www.securityweek.com/former-nsa-director-paul-nakasone-launches-national-security-advisory-firm/)
+### 31. [Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight](https://www.securityweek.com/banking-trojans-manic-grandoreiro-toxicpanda-2-0-in-the-spotlight/)
+
+**Source:** Security Week  
+**Published:** Sat, 22 Aug 2026 08:30:00 +0000  
+**Severity:** High  
+**Categories:** Malware, Phishing, Supply Chain  
+
+---
+
+### 32. [Former NSA Director Paul Nakasone Launches National Security Advisory Firm](https://www.securityweek.com/former-nsa-director-paul-nakasone-launches-national-security-advisory-firm/)
 
 **Source:** Security Week  
 **Published:** Fri, 21 Aug 2026 16:27:52 +0000  
@@ -289,7 +298,7 @@
 
 ---
 
-### 32. [In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug](https://www.securityweek.com/in-other-news-zombie-card-attack-t-mobile-cut-cable-to-stop-hackers-github-denies-ai-caused-bug/)
+### 33. [In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug](https://www.securityweek.com/in-other-news-zombie-card-attack-t-mobile-cut-cable-to-stop-hackers-github-denies-ai-caused-bug/)
 
 **Source:** Security Week  
 **Published:** Fri, 21 Aug 2026 15:11:16 +0000  
@@ -299,7 +308,7 @@
 
 ---
 
-### 33. [Encrypted Prompts Bypass AI Safety Guardrails in Grok and Gemini](https://www.securityweek.com/encrypted-prompts-bypass-ai-safety-guardrails-in-grok-and-gemini/)
+### 34. [Encrypted Prompts Bypass AI Safety Guardrails in Grok and Gemini](https://www.securityweek.com/encrypted-prompts-bypass-ai-safety-guardrails-in-grok-and-gemini/)
 
 **Source:** Security Week  
 **Published:** Fri, 21 Aug 2026 14:34:05 +0000  
@@ -308,7 +317,7 @@
 
 ---
 
-### 34. [New Phishing Toolkit Uses Passkeys to Maintain Access After Password Resets](https://www.securityweek.com/new-phishing-toolkit-uses-passkeys-to-maintain-access-after-password-resets/)
+### 35. [New Phishing Toolkit Uses Passkeys to Maintain Access After Password Resets](https://www.securityweek.com/new-phishing-toolkit-uses-passkeys-to-maintain-access-after-password-resets/)
 
 **Source:** Security Week  
 **Published:** Fri, 21 Aug 2026 14:22:06 +0000  
@@ -317,7 +326,7 @@
 
 ---
 
-### 35. [Critical Isolated-vm Vulnerability Leads to RCE on Host](https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/)
+### 36. [Critical Isolated-vm Vulnerability Leads to RCE on Host](https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/)
 
 **Source:** Security Week  
 **Published:** Fri, 21 Aug 2026 12:26:07 +0000  
@@ -326,7 +335,7 @@
 
 ---
 
-### 36. [Rust Supply Chain Attack Linked to North Korean Hackers](https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/)
+### 37. [Rust Supply Chain Attack Linked to North Korean Hackers](https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/)
 
 **Source:** Security Week  
 **Published:** Fri, 21 Aug 2026 09:23:18 +0000  
@@ -335,7 +344,7 @@
 
 ---
 
-### 37. [Contractors’ CMMC Confidence Rises as Ability to Prove It Falls Behind](https://www.securityweek.com/contractors-cmmc-confidence-rises-as-ability-to-prove-it-falls-behind/)
+### 38. [Contractors’ CMMC Confidence Rises as Ability to Prove It Falls Behind](https://www.securityweek.com/contractors-cmmc-confidence-rises-as-ability-to-prove-it-falls-behind/)
 
 **Source:** Security Week  
 **Published:** Fri, 21 Aug 2026 08:41:06 +0000  
@@ -344,33 +353,23 @@
 
 ---
 
-### 38. [Microsoft Patches Exploited Entra ID Vulnerability](https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/)
+### 39. [Microsoft Patches Exploited Entra ID Vulnerability](https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/)
 
 **Source:** Security Week  
 **Published:** Fri, 21 Aug 2026 08:12:19 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69400, CVE-2026-62834, CVE-2026-68789, CVE-2026-68782, CVE-2026-65770, CVE-2026-69414, CVE-2026-63509, CVE-2026-65816, CVE-2026-65801, CVE-2026-69502, CVE-2026-69836, CVE-2026-66309, CVE-2026-69555, CVE-2026-24301, CVE-2026-69851  
+**CVEs:** CVE-2026-65801, CVE-2026-69555, CVE-2026-68789, CVE-2026-66309, CVE-2026-69400, CVE-2026-62834, CVE-2026-69414, CVE-2026-65816, CVE-2026-68782, CVE-2026-69502, CVE-2026-69851, CVE-2026-24301, CVE-2026-65770, CVE-2026-69836, CVE-2026-63509  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 39. [CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities](https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/)
+### 40. [CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities](https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Fri, 21 Aug 2026 07:25:50 +0000  
 **Severity:** Critical  
 **CVEs:** CVE-2026-72530, CVE-2026-72529  
 **Categories:** Ransomware, Vulnerability, Malware, Phishing  
-
----
-
-### 40. [Hackers Target Zimbra Servers in Active Exploitation Campaign](https://www.securityweek.com/hackers-target-zimbra-servers-in-active-exploitation-campaign/)
-
-**Source:** Security Week  
-**Published:** Thu, 20 Aug 2026 14:50:49 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-73570  
-**Categories:** Vulnerability, Phishing  
 
 ---
 
@@ -433,7 +432,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 11 Aug 2026 22:21:02 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62893, CVE-2026-62823, CVE-2026-65665, CVE-2026-68820  
+**CVEs:** CVE-2026-62893, CVE-2026-62823, CVE-2026-68820, CVE-2026-65665  
 **Categories:** Vulnerability  
 
 ---

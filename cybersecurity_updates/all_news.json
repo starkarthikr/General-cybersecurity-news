@@ -299,17 +299,21 @@
   },
   {
     "source": "Bleeping Computer",
-    "title": "Microsoft warns of max severity Entra ID flaw exploited in attacks",
+    "title": "Microsoft patches max severity code execution, privilege escalation flaws",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
     "published": "Fri, 21 Aug 2026 07:04:10 -0400",
     "summary": "Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks. [...]",
     "analysis": {
-      "issue": "Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks",
+      "issue": "Microsoft has patched multiple maximum-severity vulnerabilities in its Entra ID, Azure Arc, and Exchange Online that allowed attackers to gain remote code execution and escalate privileges",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-65801",
+        "CVE-2026-69555",
+        "CVE-2026-65816",
+        "CVE-2026-65770",
         "CVE-2026-69836"
       ],
       "threat_categories": [
@@ -405,9 +409,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-72971",
         "CVE-2026-62832",
-        "CVE-2026-68820"
+        "CVE-2026-68820",
+        "CVE-2026-72971"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -484,10 +488,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56155",
-        "CVE-2026-56164",
         "CVE-2026-50661",
-        "CVE-2026-48561"
+        "CVE-2026-56164",
+        "CVE-2026-48561",
+        "CVE-2026-56155"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -567,6 +571,26 @@
       "threat_categories": [
         "Ransomware",
         "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight",
+    "link": "https://www.securityweek.com/banking-trojans-manic-grandoreiro-toxicpanda-2-0-in-the-spotlight/",
+    "published": "Sat, 22 Aug 2026 08:30:00 +0000",
+    "summary": "<p>The spyware-equipped Manic, a persistent Grandoreiro campaign in Latin America and Europe, and an expanded ToxicPanda 2.0 malware.</p>\n<p>The post <a href=\"https://www.securityweek.com/banking-trojans-manic-grandoreiro-toxicpanda-2-0-in-the-spotlight/\">Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The spyware-equipped Manic, a persistent Grandoreiro campaign in Latin America and Europe, and an expanded ToxicPanda 2",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing",
+        "Supply Chain"
       ]
     }
   },
@@ -724,21 +748,21 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-65801",
+        "CVE-2026-69555",
+        "CVE-2026-68789",
+        "CVE-2026-66309",
         "CVE-2026-69400",
         "CVE-2026-62834",
-        "CVE-2026-68789",
-        "CVE-2026-68782",
-        "CVE-2026-65770",
         "CVE-2026-69414",
-        "CVE-2026-63509",
         "CVE-2026-65816",
-        "CVE-2026-65801",
+        "CVE-2026-68782",
         "CVE-2026-69502",
-        "CVE-2026-69836",
-        "CVE-2026-66309",
-        "CVE-2026-69555",
+        "CVE-2026-69851",
         "CVE-2026-24301",
-        "CVE-2026-69851"
+        "CVE-2026-65770",
+        "CVE-2026-69836",
+        "CVE-2026-63509"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -766,27 +790,6 @@
         "Ransomware",
         "Vulnerability",
         "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Hackers Target Zimbra Servers in Active Exploitation Campaign",
-    "link": "https://www.securityweek.com/hackers-target-zimbra-servers-in-active-exploitation-campaign/",
-    "published": "Thu, 20 Aug 2026 14:50:49 +0000",
-    "summary": "<p>Exploitation of the Zimbra Collaboration vulnerability CVE-2026-73570 has been observed by Poland’s CERT Polska.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-target-zimbra-servers-in-active-exploitation-campaign/\">Hackers Target Zimbra Servers in Active Exploitation Campaign</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Exploitation of the Zimbra Collaboration vulnerability CVE-2026-73570 has been observed by Poland’s CERT Polska",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-73570"
-      ],
-      "threat_categories": [
-        "Vulnerability",
         "Phishing"
       ]
     }
@@ -916,8 +919,8 @@
       "cves": [
         "CVE-2026-62893",
         "CVE-2026-62823",
-        "CVE-2026-65665",
-        "CVE-2026-68820"
+        "CVE-2026-68820",
+        "CVE-2026-65665"
       ],
       "threat_categories": [
         "Vulnerability"
