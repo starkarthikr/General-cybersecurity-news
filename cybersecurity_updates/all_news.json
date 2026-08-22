@@ -1,6 +1,25 @@
 [
   {
     "source": "The Hacker News",
+    "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
+    "link": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html",
+    "published": "Sat, 22 Aug 2026 00:23:00 +0530",
+    "summary": "Cybersecurity researchers have discovered a set of trojanized npm packages that masquerade as working calendar and streak utilities but are engineered to stealthily deliver an artificial intelligence (AI)-powered Linux implant dubbed RedC2 4.0.\n\n\"When the module loads, it locates the bundled binary, marks it executable, and launches it as a detached background process,\" TrendAI, Trend Micro's",
+    "analysis": {
+      "issue": "Trojanized npm packages launch RedC2 4",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
     "link": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
     "published": "Fri, 21 Aug 2026 21:22:10 +0530",
@@ -93,10 +112,10 @@
   },
   {
     "source": "The Hacker News",
-    "title": "Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution",
+    "title": "Microsoft Patches Severe Entra ID Flaw (CVSS 10.0) Allowing Remote Code Execution",
     "link": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
     "published": "Fri, 21 Aug 2026 11:36:11 +0530",
-    "summary": "Microsoft on Thursday warned of a maximum-severity security flaw in Entra ID that it said has been exploited in the wild, but noted that no customer action is required.\n\nThe vulnerability, tracked as CVE-2026-69836 (CVSS score: 10.0), is a case of remote code execution impacting the tech giant's cloud-based identity and access management service. It was previously called Azure Active Directory",
+    "summary": "Update: The story was updated after publication to note that the vulnerability has not been exploited.\n\nAlthough the security bulletin originally marked the \"Exploited\" field under the Exploitability Assessment table as \"Yes,\" on August 21, 2026, Microsoft corrected the \"Exploited\" status to \"No\" after The Hacker News contacted the company for comment. It also noted, \"this vulnerability was not",
     "analysis": {
       "issue": "Microsoft says CVE-2026-69836, a CVSS 10",
       "solution": null,
@@ -167,20 +186,21 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure",
-    "link": "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html",
-    "published": "Thu, 20 Aug 2026 22:29:44 +0530",
-    "summary": "The U.S. government on Wednesday warned of an \"active threat\" targeting critical infrastructure organizations in the country using artificial intelligence (AI)-generated exploit scripts.\n\nThe activity is targeting Siemens S7 SeriesProgrammable Logic Controllers (PLCs) to conduct reconnaissance and capability development using AI-generated scripts disguised as legitimate monitoring tools. That",
+    "source": "Bleeping Computer",
+    "title": "New SynkLoader malware pushed in Microsoft Teams phishing campaign",
+    "link": "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/",
+    "published": "Fri, 21 Aug 2026 14:01:30 -0400",
+    "summary": "A previously unknown malware family dubbed SynkLoader is being distributed in Microsoft Teams phishing campaigns to steal credentials via a fake lock screen. [...]",
     "analysis": {
-      "issue": "agencies warn AI-generated exploit scripts target Siemens S7 PLCs, with exposed, outdated devices at risk across critical infrastructure",
+      "issue": "A previously unknown malware family dubbed SynkLoader is being distributed in Microsoft Teams phishing campaigns to steal credentials via a fake lock screen",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Critical",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "Malware",
+        "Phishing"
       ]
     }
   },
@@ -355,26 +375,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
-    "published": "Thu, 20 Aug 2026 10:39:48 -0400",
-    "summary": "A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server. [...]",
-    "analysis": {
-      "issue": "A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-32475"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Who’s Tracking You? Use This New Service to Find Out",
     "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
@@ -405,8 +405,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-62832",
         "CVE-2026-72971",
+        "CVE-2026-62832",
         "CVE-2026-68820"
       ],
       "threat_categories": [
@@ -484,10 +484,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50661",
-        "CVE-2026-48561",
         "CVE-2026-56155",
-        "CVE-2026-56164"
+        "CVE-2026-56164",
+        "CVE-2026-50661",
+        "CVE-2026-48561"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -724,21 +724,21 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69836",
-        "CVE-2026-63509",
-        "CVE-2026-65801",
-        "CVE-2026-69851",
+        "CVE-2026-65770",
+        "CVE-2026-62834",
         "CVE-2026-69414",
         "CVE-2026-24301",
-        "CVE-2026-65816",
-        "CVE-2026-62834",
-        "CVE-2026-69555",
-        "CVE-2026-68782",
-        "CVE-2026-65770",
-        "CVE-2026-66309",
         "CVE-2026-69502",
+        "CVE-2026-66309",
         "CVE-2026-68789",
-        "CVE-2026-69400"
+        "CVE-2026-68782",
+        "CVE-2026-69836",
+        "CVE-2026-63509",
+        "CVE-2026-65816",
+        "CVE-2026-69851",
+        "CVE-2026-65801",
+        "CVE-2026-69400",
+        "CVE-2026-69555"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -914,10 +914,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-62893",
+        "CVE-2026-65665",
         "CVE-2026-62823",
         "CVE-2026-68820",
-        "CVE-2026-65665"
+        "CVE-2026-62893"
       ],
       "threat_categories": [
         "Vulnerability"
