@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-22 16:50:28 UTC
+**Last Updated:** 2026-08-23 01:43:36 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -174,7 +174,7 @@
 **Source:** Bleeping Computer  
 **Published:** Fri, 21 Aug 2026 07:04:10 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69555, CVE-2026-65770, CVE-2026-65801, CVE-2026-69836, CVE-2026-65816  
+**CVEs:** CVE-2026-65801, CVE-2026-69836, CVE-2026-65770, CVE-2026-65816, CVE-2026-69555  
 **Categories:** Vulnerability  
 
 ---
@@ -202,7 +202,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-68820, CVE-2026-62832, CVE-2026-72971  
+**CVEs:** CVE-2026-62832, CVE-2026-68820, CVE-2026-72971  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -239,7 +239,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50661, CVE-2026-48561, CVE-2026-56155, CVE-2026-56164  
+**CVEs:** CVE-2026-48561, CVE-2026-50661, CVE-2026-56164, CVE-2026-56155  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -358,7 +358,7 @@
 **Source:** Security Week  
 **Published:** Fri, 21 Aug 2026 08:12:19 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69502, CVE-2026-69555, CVE-2026-65770, CVE-2026-69851, CVE-2026-68782, CVE-2026-63509, CVE-2026-65801, CVE-2026-69414, CVE-2026-68789, CVE-2026-66309, CVE-2026-69836, CVE-2026-69400, CVE-2026-65816, CVE-2026-62834, CVE-2026-24301  
+**CVEs:** CVE-2026-65801, CVE-2026-62834, CVE-2026-68782, CVE-2026-69502, CVE-2026-69836, CVE-2026-65770, CVE-2026-66309, CVE-2026-65816, CVE-2026-69851, CVE-2026-69400, CVE-2026-68789, CVE-2026-24301, CVE-2026-63509, CVE-2026-69414, CVE-2026-69555  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -432,7 +432,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 11 Aug 2026 22:21:02 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-68820, CVE-2026-62823, CVE-2026-62893, CVE-2026-65665  
+**CVEs:** CVE-2026-68820, CVE-2026-62823, CVE-2026-65665, CVE-2026-62893  
 **Categories:** Vulnerability  
 
 ---
