@@ -187,6 +187,25 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "ToxicPanda Android malware uses VPN permissions to block Google Play",
+    "link": "https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/",
+    "published": "Sun, 23 Aug 2026 10:23:46 -0400",
+    "summary": "The ToxicPanda Android malware has evolved with new malicious functionality, expanding its targeting to 349 applications and adding support for 167 remote commands. [...]",
+    "analysis": {
+      "issue": "The ToxicPanda Android malware has evolved with new malicious functionality, expanding its targeting to 349 applications and adding support for 167 remote commands",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Hackers infect Android car head units with proxy botnet malware",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/",
     "published": "Sat, 22 Aug 2026 10:14:24 -0400",
@@ -326,8 +345,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-72530",
-        "CVE-2026-72529"
+        "CVE-2026-72529",
+        "CVE-2026-72530"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -347,33 +366,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-65801",
-        "CVE-2026-65816",
         "CVE-2026-65770",
+        "CVE-2026-65801",
+        "CVE-2026-69836",
         "CVE-2026-69555",
-        "CVE-2026-69836"
+        "CVE-2026-65816"
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers abuse FTP server banners to deliver new Windows malware",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/",
-    "published": "Fri, 21 Aug 2026 07:00:00 -0400",
-    "summary": "Threat actors are abusing FTP banners to hide commands that deliver two previously undocumented remote access trojans named E4del and PINHOLE. [...]",
-    "analysis": {
-      "issue": "Threat actors are abusing FTP banners to hide commands that deliver two previously undocumented remote access trojans named E4del and PINHOLE",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
       ]
     }
   },
@@ -489,8 +489,8 @@
       "cves": [
         "CVE-2026-56164",
         "CVE-2026-50661",
-        "CVE-2026-48561",
-        "CVE-2026-56155"
+        "CVE-2026-56155",
+        "CVE-2026-48561"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -747,21 +747,21 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-65801",
-        "CVE-2026-69851",
-        "CVE-2026-68789",
-        "CVE-2026-65816",
-        "CVE-2026-62834",
-        "CVE-2026-66309",
-        "CVE-2026-69414",
-        "CVE-2026-63509",
-        "CVE-2026-68782",
         "CVE-2026-65770",
-        "CVE-2026-69400",
-        "CVE-2026-69555",
+        "CVE-2026-63509",
+        "CVE-2026-68789",
+        "CVE-2026-62834",
         "CVE-2026-24301",
-        "CVE-2026-69502",
-        "CVE-2026-69836"
+        "CVE-2026-68782",
+        "CVE-2026-65801",
+        "CVE-2026-69836",
+        "CVE-2026-69555",
+        "CVE-2026-65816",
+        "CVE-2026-69414",
+        "CVE-2026-69851",
+        "CVE-2026-69400",
+        "CVE-2026-66309",
+        "CVE-2026-69502"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -782,8 +782,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-72530",
-        "CVE-2026-72529"
+        "CVE-2026-72529",
+        "CVE-2026-72530"
       ],
       "threat_categories": [
         "Ransomware",
@@ -916,10 +916,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-62893",
         "CVE-2026-65665",
         "CVE-2026-68820",
-        "CVE-2026-62823"
+        "CVE-2026-62823",
+        "CVE-2026-62893"
       ],
       "threat_categories": [
         "Vulnerability"

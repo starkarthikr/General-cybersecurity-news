@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-23 12:50:35 UTC
+**Last Updated:** 2026-08-23 16:52:05 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -96,7 +96,16 @@
 
 ---
 
-### 11. [Hackers infect Android car head units with proxy botnet malware](https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/)
+### 11. [ToxicPanda Android malware uses VPN permissions to block Google Play](https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/)
+
+**Source:** Bleeping Computer  
+**Published:** Sun, 23 Aug 2026 10:23:46 -0400  
+**Severity:** Low  
+**Categories:** Malware, Phishing  
+
+---
+
+### 12. [Hackers infect Android car head units with proxy botnet malware](https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 22 Aug 2026 10:14:24 -0400  
@@ -105,7 +114,7 @@
 
 ---
 
-### 12. [Named Pipes Under Attack: Securing Windows Interprocess Communication](https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/)
+### 13. [Named Pipes Under Attack: Securing Windows Interprocess Communication](https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 22 Aug 2026 09:00:09 -0400  
@@ -114,7 +123,7 @@
 
 ---
 
-### 13. [New SynkLoader malware pushed in Microsoft Teams phishing campaign](https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/)
+### 14. [New SynkLoader malware pushed in Microsoft Teams phishing campaign](https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 21 Aug 2026 14:01:30 -0400  
@@ -123,7 +132,7 @@
 
 ---
 
-### 14. [Hundreds of leaked AWS keys give full control over corporate accounts](https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/)
+### 15. [Hundreds of leaked AWS keys give full control over corporate accounts](https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 21 Aug 2026 11:55:15 -0400  
@@ -132,7 +141,7 @@
 
 ---
 
-### 15. [Microsoft blames Windows gaming issues on RGB lighting devices](https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/)
+### 16. [Microsoft blames Windows gaming issues on RGB lighting devices](https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 21 Aug 2026 10:54:49 -0400  
@@ -141,7 +150,7 @@
 
 ---
 
-### 16. [Is Online Privacy Possible? How Digital Identities Can Help](https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/)
+### 17. [Is Online Privacy Possible? How Digital Identities Can Help](https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 21 Aug 2026 10:00:10 -0400  
@@ -150,7 +159,7 @@
 
 ---
 
-### 17. [Microsoft rolls out Classic Outlook theme for New Outlook users](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users/)
+### 18. [Microsoft rolls out Classic Outlook theme for New Outlook users](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 21 Aug 2026 09:39:35 -0400  
@@ -159,32 +168,23 @@
 
 ---
 
-### 18. [CISA orders feds to patch actively exploited TrueConf Server flaws](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/)
+### 19. [CISA orders feds to patch actively exploited TrueConf Server flaws](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 21 Aug 2026 08:25:33 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-72530, CVE-2026-72529  
+**CVEs:** CVE-2026-72529, CVE-2026-72530  
 **Categories:** Vulnerability  
 
 ---
 
-### 19. [Microsoft patches max severity code execution, privilege escalation flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/)
+### 20. [Microsoft patches max severity code execution, privilege escalation flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 21 Aug 2026 07:04:10 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-65801, CVE-2026-65816, CVE-2026-65770, CVE-2026-69555, CVE-2026-69836  
+**CVEs:** CVE-2026-65770, CVE-2026-65801, CVE-2026-69836, CVE-2026-69555, CVE-2026-65816  
 **Categories:** Vulnerability  
-
----
-
-### 20. [Hackers abuse FTP server banners to deliver new Windows malware](https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 21 Aug 2026 07:00:00 -0400  
-**Severity:** Low  
-**Categories:** Malware, Phishing  
 
 ---
 
@@ -239,7 +239,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56164, CVE-2026-50661, CVE-2026-48561, CVE-2026-56155  
+**CVEs:** CVE-2026-56164, CVE-2026-50661, CVE-2026-56155, CVE-2026-48561  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -358,7 +358,7 @@
 **Source:** Security Week  
 **Published:** Fri, 21 Aug 2026 08:12:19 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-65801, CVE-2026-69851, CVE-2026-68789, CVE-2026-65816, CVE-2026-62834, CVE-2026-66309, CVE-2026-69414, CVE-2026-63509, CVE-2026-68782, CVE-2026-65770, CVE-2026-69400, CVE-2026-69555, CVE-2026-24301, CVE-2026-69502, CVE-2026-69836  
+**CVEs:** CVE-2026-65770, CVE-2026-63509, CVE-2026-68789, CVE-2026-62834, CVE-2026-24301, CVE-2026-68782, CVE-2026-65801, CVE-2026-69836, CVE-2026-69555, CVE-2026-65816, CVE-2026-69414, CVE-2026-69851, CVE-2026-69400, CVE-2026-66309, CVE-2026-69502  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -368,7 +368,7 @@
 **Source:** Security Week  
 **Published:** Fri, 21 Aug 2026 07:25:50 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-72530, CVE-2026-72529  
+**CVEs:** CVE-2026-72529, CVE-2026-72530  
 **Categories:** Ransomware, Vulnerability, Malware, Phishing  
 
 ---
@@ -432,7 +432,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 11 Aug 2026 22:21:02 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62893, CVE-2026-65665, CVE-2026-68820, CVE-2026-62823  
+**CVEs:** CVE-2026-65665, CVE-2026-68820, CVE-2026-62823, CVE-2026-62893  
 **Categories:** Vulnerability  
 
 ---
