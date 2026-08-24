@@ -1,6 +1,43 @@
 [
   {
     "source": "The Hacker News",
+    "title": "⚡ Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More",
+    "link": "https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html",
+    "published": "Mon, 24 Aug 2026 20:02:10 +0530",
+    "summary": "A package gets installed. A login prompt opens. A box sits exposed to the internet. Nothing looks unusual yet.\n\nThat’s roughly the mood this week. Trusted tools turn hostile, old weak spots get fresh attention, AI makes exploit work cheaper, and researchers keep finding attacks that sound harder than they actually are.\n\nPlenty to clean up. Here’s the short version.\n\n⚡ Threat of the Week\n\nU.S.",
+    "analysis": {
+      "issue": "AI-powered PLC attacks, GitLab exploits, npm backdoors, cloud leaks, auth abuse, and payment fraud lead this week’s cybersecurity recap",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords",
+    "link": "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html",
+    "published": "Mon, 24 Aug 2026 18:05:36 +0530",
+    "summary": "Cybersecurity researchers have flagged two new malware families called  WordlistLoader and SynkLoader that's used to deliver next-stage payloads and likely sell access to ransomware groups.\n\nAccording to findings from Gen Digital, WordlistLoader is being used to deliver Amatera Stealer (aka ACR Stealer or AcridRain Stealer) via ClearFake campaigns, which employ the ClickFix (aka FakeCaptcha)",
+    "analysis": {
+      "issue": "WordlistLoader delivers Amatera via ClearFake ClickFix attacks, while SynkLoader uses Teams phishing to steal Windows login credentials",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
     "link": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
     "published": "Mon, 24 Aug 2026 17:28:00 +0530",
@@ -147,38 +184,56 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
-    "link": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
-    "published": "Fri, 21 Aug 2026 21:11:44 +0530",
-    "summary": "Cybersecurity researchers have flagged a new malware family that's specifically designed to infect Android-based vehicle head unit firmware developed by DoFun.\n\nKaspersky, which discovered the threat in June 2026, said the end goal of the malware is to serve a multi-stage downloader to enable ad fraud and creation of a proxy botnet.\n\n\"The malware spread through the built-in updaters of",
+    "source": "Bleeping Computer",
+    "title": "ReliaQuest confirms failed data-theft attack after ShinyHunters breach",
+    "link": "https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/",
+    "published": "Mon, 24 Aug 2026 11:17:16 -0400",
+    "summary": "Cybersecurity company ReliaQuest has confirmed that one of its employees was targeted in a social engineering attack after hackers impersonated a member of the security team. [...]",
     "analysis": {
-      "issue": "New malware abuses DoFun Android head unit updaters to deliver JarService, run ad fraud, and download the Zhima reverse proxy module",
+      "issue": "Cybersecurity company ReliaQuest has confirmed that one of its employees was targeted in a social engineering attack after hackers impersonated a member of the security team",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "Phishing"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Wazuh and AI For Enhanced SOC Workflows",
-    "link": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
-    "published": "Fri, 21 Aug 2026 16:51:39 +0530",
-    "summary": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover patterns hidden within large datasets, and support faster decision-making. Cybersecurity has experienced a similar transformation. While attackers employ AI to automate",
+    "source": "Bleeping Computer",
+    "title": "Microsoft Teams now lets admins block external bots from meetings",
+    "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/",
+    "published": "Mon, 24 Aug 2026 10:00:19 -0400",
+    "summary": "Microsoft is rolling out a new Teams meeting protection policy that allows administrators to automatically block all identified external bots from joining Teams meetings. [...]",
     "analysis": {
-      "issue": "Wazuh AI Analyst uses Amazon Bedrock and Claude to turn Wazuh Cloud security data into scheduled reports with posture and vulnerability insights",
+      "issue": "Microsoft is rolling out a new Teams meeting protection policy that allows administrators to automatically block all identified external bots from joining Teams meetings",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "South Korean startup platform breach exposes key management failures",
+    "link": "https://www.bleepingcomputer.com/news/security/south-korean-startup-platform-breach-exposes-key-management-failures/",
+    "published": "Mon, 24 Aug 2026 10:00:10 -0400",
+    "summary": "A breach at South Korea's government-backed startup platform exposed encrypted personal data after an encryption key was included in an API. Penta Security explains why encryption keys must be securely managed and kept separate from the data they protect. [...]",
+    "analysis": {
+      "issue": "In July, South Korea’s government-backed startup support platform, Modu-ui Changup (모두의창업), suffered a data breach",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
       ]
     }
   },
@@ -314,60 +369,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Hundreds of leaked AWS keys give full control over corporate accounts",
-    "link": "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/",
-    "published": "Fri, 21 Aug 2026 11:55:15 -0400",
-    "summary": "More than 9,300 Amazon Web Services (AWS) access keys publicly exposed between August 2022 and August 2026 are still active and valid. [...]",
-    "analysis": {
-      "issue": "More than 9,300 Amazon Web Services (AWS) access keys publicly exposed between August 2022 and August 2026 are still active and valid",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft blames Windows gaming issues on RGB lighting devices",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/",
-    "published": "Fri, 21 Aug 2026 10:54:49 -0400",
-    "summary": "Microsoft says ongoing issues causing games to crash or fail to launch after installing the August 2026 Windows updates may be caused by peripherals with RGB lighting. [...]",
-    "analysis": {
-      "issue": "Microsoft says ongoing issues causing games to crash or fail to launch after installing the August 2026 Windows updates may be caused by peripherals with RGB lighting",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Is Online Privacy Possible? How Digital Identities Can Help",
-    "link": "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/",
-    "published": "Fri, 21 Aug 2026 10:00:10 -0400",
-    "summary": "Using the same email, phone number, payment method, and other identifiers makes it easier for data brokers and attackers to profile your activity. Anonyome Labs explains how separate digital personas can reduce correlation and limit the impact of breaches, spam, and identity theft. [...]",
-    "analysis": {
-      "issue": "How can normal users increase their privacy, safety and security online",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Who’s Tracking You? Use This New Service to Find Out",
     "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
@@ -398,9 +399,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-72971",
+        "CVE-2026-62832",
         "CVE-2026-68820",
-        "CVE-2026-62832"
+        "CVE-2026-72971"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -477,10 +478,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50661",
         "CVE-2026-56164",
-        "CVE-2026-56155",
-        "CVE-2026-48561"
+        "CVE-2026-50661",
+        "CVE-2026-48561",
+        "CVE-2026-56155"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -565,6 +566,24 @@
   },
   {
     "source": "Security Week",
+    "title": "Hired for One Job, Judged on Another: The CISO’s Real Problem",
+    "link": "https://www.securityweek.com/hired-for-one-job-judged-on-another-the-cisos-real-problem/",
+    "published": "Mon, 24 Aug 2026 14:00:00 +0000",
+    "summary": "<p>The skills that get a CISO hired are rarely the skills they are judged on later. Most security leaders are stuck in that gap. Closing it is the real job.</p>\n<p>The post <a href=\"https://www.securityweek.com/hired-for-one-job-judged-on-another-the-cisos-real-problem/\">Hired for One Job, Judged on Another: The CISO’s Real Problem</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The skills that get a CISO hired are rarely the skills they are judged on later",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Uber Fined Nearly $1 Billion by Dutch Regulators Over Automated Suspensions of Driver Accounts",
     "link": "https://www.securityweek.com/uber-fined-nearly-1-billion-by-dutch-regulators-over-automated-suspensions-of-driver-accounts/",
     "published": "Mon, 24 Aug 2026 12:42:09 +0000",
@@ -594,9 +613,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-59318",
         "CVE-2026-59270",
-        "CVE-2026-59285",
-        "CVE-2026-59318"
+        "CVE-2026-59285"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -738,24 +757,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Former NSA Director Paul Nakasone Launches National Security Advisory Firm",
-    "link": "https://www.securityweek.com/former-nsa-director-paul-nakasone-launches-national-security-advisory-firm/",
-    "published": "Fri, 21 Aug 2026 16:27:52 +0000",
-    "summary": "<p>The newly-formed Nakasone Group will counsel government leaders, corporations, prominent families, and other private clients confronting cybersecurity, geopolitical, and personal security risks.</p>\n<p>The post <a href=\"https://www.securityweek.com/former-nsa-director-paul-nakasone-launches-national-security-advisory-firm/\">Former NSA Director Paul Nakasone Launches National Security Advisory Firm</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The newly-formed Nakasone Group will counsel government leaders, corporations, prominent families, and other private clients confronting cybersecurity, geopolitical, and personal security risks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Is Cyber missing the Marque?",
     "link": "https://blog.talosintelligence.com/is-cyber-missing-the-marque/",
@@ -878,10 +879,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-68820",
-        "CVE-2026-62823",
+        "CVE-2026-65665",
         "CVE-2026-62893",
-        "CVE-2026-65665"
+        "CVE-2026-68820",
+        "CVE-2026-62823"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1291,8 +1292,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1317,6 +1318,80 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Fake Microsoft security scans trick victims into uninstalling their antivirus",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/08/fake-microsoft-security-scans-trick-victims-into-uninstalling-their-antivirus",
+    "published": "Mon, 24 Aug 2026 14:50:23 GMT",
+    "summary": "We found fake Microsoft-branded scanners that invent security problems, tell victims to uninstall AV, and then steer them into a refund scam.",
+    "analysis": {
+      "issue": "A wave of websites is offering to check whether your antivirus is working",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "What happens to your data when you die? (Lock and Code S07E17)",
+    "link": "https://www.malwarebytes.com/blog/podcast/2026/08/your-data-doesnt-die-when-you-do-lock-and-code-s07e17",
+    "published": "Mon, 24 Aug 2026 14:35:46 GMT",
+    "summary": "This week on the Lock and Code podcast, we speak with Tamara Kneese about the many ways your data remains long after your die.",
+    "analysis": {
+      "issue": "This week on the Lock and Code podcast… You will die",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "AliExpress caught using silent audio to fingerprint visitors’ browsers",
+    "link": "https://www.malwarebytes.com/blog/privacy/2026/08/aliexpress-caught-using-silent-audio-to-fingerprint-visitors-browsers",
+    "published": "Mon, 24 Aug 2026 14:20:42 GMT",
+    "summary": "Silent audio processing on the AliExpress website was found helping to fingerprint visitors’ browsers without relying on cookies.",
+    "analysis": {
+      "issue": "AliExpress, the online marketplace owned by Alibaba Group, has come under scrutiny after researchers and browser maker Brave reported finding silent Web Audio processing on the site that could help fingerprint visitors’ devices",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "ToxicPanda 2.0 can take over your Android phone and banking apps",
+    "link": "https://www.malwarebytes.com/blog/mobile/2026/08/toxicpanda-2-0-can-take-over-your-android-phone-and-banking-apps",
+    "published": "Mon, 24 Aug 2026 13:40:00 GMT",
+    "summary": "A new version of the Android banking Trojan can seize control of infected phones and block access to Google Play and Google Play Services.",
+    "analysis": {
+      "issue": "Researchers have uncovered ToxicPanda 2",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "APT"
       ]
     }
   },
@@ -1427,79 +1502,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Your Mac already has a built-in firewall. Here’s how to get more from it",
-    "link": "https://www.malwarebytes.com/blog/product/2026/08/your-mac-already-has-a-built-in-firewall-heres-how-to-get-more-from-it",
-    "published": "Thu, 20 Aug 2026 12:45:00 GMT",
-    "summary": "Malwarebytes Firewall gives you a clearer, more intuitive way to manage your Mac's inbuilt firewall.",
-    "analysis": {
-      "issue": "Your Mac comes with a built-in firewall, but it’s probably not something you’ve given much thought to",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "9 million images of people’s faces exposed by reverse lookup service",
-    "link": "https://www.malwarebytes.com/blog/privacy/2026/08/9-million-images-of-peoples-faces-exposed-by-reverse-lookup-service",
-    "published": "Thu, 20 Aug 2026 11:50:54 GMT",
-    "summary": "A researcher found an exposed database containing 9 million images that belonged to people finder service ClarityCheck.",
-    "analysis": {
-      "issue": "Researcher Jeremiah Fowler found a cloud database containing more than 9 million image files accessible without authentication, WIRED reports",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "41 deceptive download sites show a real link, then send you somewhere else",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/08/41-deceptive-download-sites-show-a-real-link-then-send-you-somewhere-else",
-    "published": "Wed, 19 Aug 2026 18:08:35 GMT",
-    "summary": "A legitimate-looking link or valid digital signature can offer false reassurance. Here’s why familiar download safety checks aren’t always enough.",
-    "analysis": {
-      "issue": "We identified a network of 41 websites impersonating popular games and Windows software, all designed to push visitors towards the same Download Studio installer",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Sideloading on Android: What it is, why it’s risky, and how to do it more safely",
-    "link": "https://www.malwarebytes.com/blog/how-to/2026/08/sideloading-on-android-what-it-is-why-its-risky-and-how-to-do-it-more-safely",
-    "published": "Wed, 19 Aug 2026 15:09:52 GMT",
-    "summary": "With the new Advanced Flow for sideloading being rolled out, it's time to discuss what sideloading is and how to do it more safely.",
-    "analysis": {
-      "issue": "A Google spokesperson announced on Reddit that it has started rolling out the first version of its Advanced Flow, designed to make installing apps from unverified developers safer",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
