@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit",
+    "link": "https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html",
+    "published": "Mon, 24 Aug 2026 13:38:31 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a Chinese-speaking cybercrime group dubbed UAT-10147 that's targeting Windows and Linux web servers globally across the education, media, technology, and gaming sectors.\n\nThe vast majority of the targets are located in Brazil, Bolivia, China, Canada, and Vietnam. Details of the threat activity came to light following the discovery of an open",
+    "analysis": {
+      "issue": "UAT-10147 targets Windows and Linux servers with known flaws and AI tools, deploying malware for SEO fraud and data theft",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit",
     "link": "https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html",
     "published": "Sat, 22 Aug 2026 20:02:41 +0530",
@@ -164,24 +182,6 @@
       "threat_categories": [
         "Malware",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts",
-    "link": "https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html",
-    "published": "Fri, 21 Aug 2026 01:29:19 +0530",
-    "summary": "Three distinct suspected Russian cyber espionage threat clusters have been observed leveraging legitimate authentication flows to single out individuals working in academia, aerospace and defense, governments, and think tanks across Europe, as well as academia and think tanks within the U.S.\n\nThese clusters include UNC6293, UNC7005, and UNC5976.\n\n\"These clusters engage in persistent, adaptive",
-    "analysis": {
-      "issue": "Three suspected Russian cyber espionage clusters abuse legitimate authentication flows to compromise personal accounts across Europe and the U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -366,11 +366,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69555",
-        "CVE-2026-65801",
         "CVE-2026-65816",
+        "CVE-2026-69555",
+        "CVE-2026-65770",
         "CVE-2026-69836",
-        "CVE-2026-65770"
+        "CVE-2026-65801"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -409,8 +409,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-68820",
-        "CVE-2026-72971",
-        "CVE-2026-62832"
+        "CVE-2026-62832",
+        "CVE-2026-72971"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -488,9 +488,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-48561",
-        "CVE-2026-56164",
         "CVE-2026-50661",
-        "CVE-2026-56155"
+        "CVE-2026-56155",
+        "CVE-2026-56164"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -570,6 +570,61 @@
       "threat_categories": [
         "Ransomware",
         "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Iran-Linked Hackers Shut Down UK Power Plant for Four Days",
+    "link": "https://www.securityweek.com/iran-linked-hackers-shut-down-uk-power-plant-for-four-days/",
+    "published": "Mon, 24 Aug 2026 09:22:09 +0000",
+    "summary": "<p>The attack caused real-world operational disruption and raised concerns about the resilience of Britain’s distributed energy infrastructure and the potential for repeatable attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/iran-linked-hackers-shut-down-uk-power-plant-for-four-days/\">Iran-Linked Hackers Shut Down UK Power Plant for Four Days</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The attack caused real-world operational disruption and raised concerns about the resilience of Britain’s distributed energy infrastructure and the potential for repeatable attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "TikTok Reaches $400 Million Settlement With US Justice Department Over Children’s Privacy",
+    "link": "https://www.securityweek.com/tiktok-reaches-400-million-settlement-with-us-justice-department-over-childrens-privacy/",
+    "published": "Mon, 24 Aug 2026 09:11:11 +0000",
+    "summary": "<p>TikTok will pay $300 million immediately and another $100 million after an order vacates an earlier consent decree against its predecessor company, Musical.ly.</p>\n<p>The post <a href=\"https://www.securityweek.com/tiktok-reaches-400-million-settlement-with-us-justice-department-over-childrens-privacy/\">TikTok Reaches $400 Million Settlement With US Justice Department Over Children&#8217;s Privacy</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "TikTok will pay $300 million immediately and another $100 million after an order vacates an earlier consent decree against its predecessor company, Musical",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Anthropic Expands Mythos 5 Access to More Defenders, Unveils $35M Open Source Fund",
+    "link": "https://www.securityweek.com/anthropic-expands-mythos-5-access-to-more-defenders-unveils-35m-open-source-fund/",
+    "published": "Mon, 24 Aug 2026 07:18:58 +0000",
+    "summary": "<p>Claude Security, currently in public beta for Claude Enterprise customers, now runs codebase scans on Mythos 5.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-expands-mythos-5-access-to-more-defenders-unveils-35m-open-source-fund/\">Anthropic Expands Mythos 5 Access to More Defenders, Unveils $35M Open Source Fund</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Claude Security, currently in public beta for Claude Enterprise customers, now runs codebase scans on Mythos 5",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
       ]
     }
   },
@@ -716,84 +771,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Contractors’ CMMC Confidence Rises as Ability to Prove It Falls Behind",
-    "link": "https://www.securityweek.com/contractors-cmmc-confidence-rises-as-ability-to-prove-it-falls-behind/",
-    "published": "Fri, 21 Aug 2026 08:41:06 +0000",
-    "summary": "<p>Two industry surveys released this week by Kiteworks and CyberSheath paint a consistent picture of the defense industrial base.</p>\n<p>The post <a href=\"https://www.securityweek.com/contractors-cmmc-confidence-rises-as-ability-to-prove-it-falls-behind/\">Contractors&#8217; CMMC Confidence Rises as Ability to Prove It Falls Behind</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Two industry surveys released this week by Kiteworks and CyberSheath paint a consistent picture of the defense industrial base",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Microsoft Patches Exploited Entra ID Vulnerability",
-    "link": "https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/",
-    "published": "Fri, 21 Aug 2026 08:12:19 +0000",
-    "summary": "<p>A total of 22 patches were releaased, a majority for code execution, privilege escalation, and information disclosure vulnerabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/\">Microsoft Patches Exploited Entra ID Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "A total of 22 patches were releaased, a majority for code execution, privilege escalation, and information disclosure vulnerabilities",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-63509",
-        "CVE-2026-62834",
-        "CVE-2026-69400",
-        "CVE-2026-69555",
-        "CVE-2026-24301",
-        "CVE-2026-68789",
-        "CVE-2026-69851",
-        "CVE-2026-65801",
-        "CVE-2026-68782",
-        "CVE-2026-69414",
-        "CVE-2026-69502",
-        "CVE-2026-66309",
-        "CVE-2026-65816",
-        "CVE-2026-69836",
-        "CVE-2026-65770"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities",
-    "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/",
-    "published": "Fri, 21 Aug 2026 07:25:50 +0000",
-    "summary": "<p>The Head Mare hacktivist group has been exploiting the bugs to deploy the PhantomCore malware.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/\">CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The Head Mare hacktivist group has been exploiting the bugs to deploy the PhantomCore malware",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-72530",
-        "CVE-2026-72529"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Is Cyber missing the Marque?",
     "link": "https://blog.talosintelligence.com/is-cyber-missing-the-marque/",
@@ -916,10 +893,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-62823",
         "CVE-2026-68820",
-        "CVE-2026-65665",
-        "CVE-2026-62893"
+        "CVE-2026-62823",
+        "CVE-2026-62893",
+        "CVE-2026-65665"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1360,6 +1337,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "A week in security (August 17 – August 23)",
+    "link": "https://www.malwarebytes.com/blog/news/2026/08/a-week-in-security-august-17-august-23",
+    "published": "Mon, 24 Aug 2026 07:01:00 GMT",
+    "summary": "A list of topics we covered in the week of August 17 to August 23 of 2026",
+    "analysis": {
+      "issue": "Last week on Malwarebytes Labs: Stay safe",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Zombie Card: An expired Visa credit card can be used for purchases",
     "link": "https://www.malwarebytes.com/blog/news/2026/08/zombie-card-an-expired-visa-credit-card-can-be-used-for-purchases",
     "published": "Fri, 21 Aug 2026 14:03:48 GMT",
@@ -1519,24 +1514,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Update Chrome now: Two critical vulnerabilities fixed",
-    "link": "https://www.malwarebytes.com/blog/bugs/2026/08/update-chrome-now-two-critical-vulnerabilities-fixed",
-    "published": "Wed, 19 Aug 2026 10:32:04 GMT",
-    "summary": "Google has released a Chrome desktop update fixing 15 security vulnerabilities, including 2 buffer overflow flaws rated critical.",
-    "analysis": {
-      "issue": "Chrome is rolling out an update for its desktop versions",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },

@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-24 02:07:48 UTC
+**Last Updated:** 2026-08-24 09:22:41 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit](https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html)
+### 1. [UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit](https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 24 Aug 2026 13:38:31 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 2. [TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit](https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 22 Aug 2026 20:02:41 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2](https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html)
+### 3. [14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2](https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 22 Aug 2026 00:23:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot](https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html)
+### 4. [Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot](https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 21 Aug 2026 21:22:10 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet](https://thehackernews.com/2026/08/android-car-malware-spreads-through.html)
+### 5. [Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet](https://thehackernews.com/2026/08/android-car-malware-spreads-through.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 21 Aug 2026 21:11:44 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [Wazuh and AI For Enhanced SOC Workflows](https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html)
+### 6. [Wazuh and AI For Enhanced SOC Workflows](https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 21 Aug 2026 16:51:39 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0](https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html)
+### 7. [Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0](https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 21 Aug 2026 15:33:11 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure](https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html)
+### 8. [GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure](https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 21 Aug 2026 12:34:25 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [Microsoft Patches Severe Entra ID Flaw (CVSS 10.0) Allowing Remote Code Execution](https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html)
+### 9. [Microsoft Patches Severe Entra ID Flaw (CVSS 10.0) Allowing Remote Code Execution](https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 21 Aug 2026 11:36:11 +0530  
@@ -78,21 +87,12 @@
 
 ---
 
-### 9. [Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads](https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html)
+### 10. [Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads](https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 21 Aug 2026 01:52:35 +0530  
 **Severity:** Low  
 **Categories:** Malware, Supply Chain  
-
----
-
-### 10. [Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts](https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 21 Aug 2026 01:29:19 +0530  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -183,7 +183,7 @@
 **Source:** Bleeping Computer  
 **Published:** Fri, 21 Aug 2026 07:04:10 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69555, CVE-2026-65801, CVE-2026-65816, CVE-2026-69836, CVE-2026-65770  
+**CVEs:** CVE-2026-65816, CVE-2026-69555, CVE-2026-65770, CVE-2026-69836, CVE-2026-65801  
 **Categories:** Vulnerability  
 
 ---
@@ -202,7 +202,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-68820, CVE-2026-72971, CVE-2026-62832  
+**CVEs:** CVE-2026-68820, CVE-2026-62832, CVE-2026-72971  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -239,7 +239,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48561, CVE-2026-56164, CVE-2026-50661, CVE-2026-56155  
+**CVEs:** CVE-2026-48561, CVE-2026-50661, CVE-2026-56155, CVE-2026-56164  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -280,7 +280,34 @@
 
 ---
 
-### 31. [Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight](https://www.securityweek.com/banking-trojans-manic-grandoreiro-toxicpanda-2-0-in-the-spotlight/)
+### 31. [Iran-Linked Hackers Shut Down UK Power Plant for Four Days](https://www.securityweek.com/iran-linked-hackers-shut-down-uk-power-plant-for-four-days/)
+
+**Source:** Security Week  
+**Published:** Mon, 24 Aug 2026 09:22:09 +0000  
+**Severity:** Critical  
+**Categories:** General Security  
+
+---
+
+### 32. [TikTok Reaches $400 Million Settlement With US Justice Department Over Children’s Privacy](https://www.securityweek.com/tiktok-reaches-400-million-settlement-with-us-justice-department-over-childrens-privacy/)
+
+**Source:** Security Week  
+**Published:** Mon, 24 Aug 2026 09:11:11 +0000  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 33. [Anthropic Expands Mythos 5 Access to More Defenders, Unveils $35M Open Source Fund](https://www.securityweek.com/anthropic-expands-mythos-5-access-to-more-defenders-unveils-35m-open-source-fund/)
+
+**Source:** Security Week  
+**Published:** Mon, 24 Aug 2026 07:18:58 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 34. [Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight](https://www.securityweek.com/banking-trojans-manic-grandoreiro-toxicpanda-2-0-in-the-spotlight/)
 
 **Source:** Security Week  
 **Published:** Sat, 22 Aug 2026 08:30:00 +0000  
@@ -289,7 +316,7 @@
 
 ---
 
-### 32. [Former NSA Director Paul Nakasone Launches National Security Advisory Firm](https://www.securityweek.com/former-nsa-director-paul-nakasone-launches-national-security-advisory-firm/)
+### 35. [Former NSA Director Paul Nakasone Launches National Security Advisory Firm](https://www.securityweek.com/former-nsa-director-paul-nakasone-launches-national-security-advisory-firm/)
 
 **Source:** Security Week  
 **Published:** Fri, 21 Aug 2026 16:27:52 +0000  
@@ -298,7 +325,7 @@
 
 ---
 
-### 33. [In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug](https://www.securityweek.com/in-other-news-zombie-card-attack-t-mobile-cut-cable-to-stop-hackers-github-denies-ai-caused-bug/)
+### 36. [In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug](https://www.securityweek.com/in-other-news-zombie-card-attack-t-mobile-cut-cable-to-stop-hackers-github-denies-ai-caused-bug/)
 
 **Source:** Security Week  
 **Published:** Fri, 21 Aug 2026 15:11:16 +0000  
@@ -308,7 +335,7 @@
 
 ---
 
-### 34. [Encrypted Prompts Bypass AI Safety Guardrails in Grok and Gemini](https://www.securityweek.com/encrypted-prompts-bypass-ai-safety-guardrails-in-grok-and-gemini/)
+### 37. [Encrypted Prompts Bypass AI Safety Guardrails in Grok and Gemini](https://www.securityweek.com/encrypted-prompts-bypass-ai-safety-guardrails-in-grok-and-gemini/)
 
 **Source:** Security Week  
 **Published:** Fri, 21 Aug 2026 14:34:05 +0000  
@@ -317,7 +344,7 @@
 
 ---
 
-### 35. [New Phishing Toolkit Uses Passkeys to Maintain Access After Password Resets](https://www.securityweek.com/new-phishing-toolkit-uses-passkeys-to-maintain-access-after-password-resets/)
+### 38. [New Phishing Toolkit Uses Passkeys to Maintain Access After Password Resets](https://www.securityweek.com/new-phishing-toolkit-uses-passkeys-to-maintain-access-after-password-resets/)
 
 **Source:** Security Week  
 **Published:** Fri, 21 Aug 2026 14:22:06 +0000  
@@ -326,7 +353,7 @@
 
 ---
 
-### 36. [Critical Isolated-vm Vulnerability Leads to RCE on Host](https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/)
+### 39. [Critical Isolated-vm Vulnerability Leads to RCE on Host](https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/)
 
 **Source:** Security Week  
 **Published:** Fri, 21 Aug 2026 12:26:07 +0000  
@@ -335,41 +362,12 @@
 
 ---
 
-### 37. [Rust Supply Chain Attack Linked to North Korean Hackers](https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/)
+### 40. [Rust Supply Chain Attack Linked to North Korean Hackers](https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/)
 
 **Source:** Security Week  
 **Published:** Fri, 21 Aug 2026 09:23:18 +0000  
 **Severity:** Low  
 **Categories:** Vulnerability, Malware, Supply Chain  
-
----
-
-### 38. [Contractors’ CMMC Confidence Rises as Ability to Prove It Falls Behind](https://www.securityweek.com/contractors-cmmc-confidence-rises-as-ability-to-prove-it-falls-behind/)
-
-**Source:** Security Week  
-**Published:** Fri, 21 Aug 2026 08:41:06 +0000  
-**Severity:** High  
-**Categories:** Vulnerability, Supply Chain  
-
----
-
-### 39. [Microsoft Patches Exploited Entra ID Vulnerability](https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/)
-
-**Source:** Security Week  
-**Published:** Fri, 21 Aug 2026 08:12:19 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-63509, CVE-2026-62834, CVE-2026-69400, CVE-2026-69555, CVE-2026-24301, CVE-2026-68789, CVE-2026-69851, CVE-2026-65801, CVE-2026-68782, CVE-2026-69414, CVE-2026-69502, CVE-2026-66309, CVE-2026-65816, CVE-2026-69836, CVE-2026-65770  
-**Categories:** Vulnerability, Malware  
-
----
-
-### 40. [CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities](https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/)
-
-**Source:** Security Week  
-**Published:** Fri, 21 Aug 2026 07:25:50 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-72530, CVE-2026-72529  
-**Categories:** Ransomware, Vulnerability, Malware, Phishing  
 
 ---
 
@@ -432,7 +430,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 11 Aug 2026 22:21:02 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62823, CVE-2026-68820, CVE-2026-65665, CVE-2026-62893  
+**CVEs:** CVE-2026-68820, CVE-2026-62823, CVE-2026-62893, CVE-2026-65665  
 **Categories:** Vulnerability  
 
 ---
@@ -649,7 +647,16 @@
 
 ---
 
-### 71. [Zombie Card: An expired Visa credit card can be used for purchases](https://www.malwarebytes.com/blog/news/2026/08/zombie-card-an-expired-visa-credit-card-can-be-used-for-purchases)
+### 71. [A week in security (August 17 – August 23)](https://www.malwarebytes.com/blog/news/2026/08/a-week-in-security-august-17-august-23)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 24 Aug 2026 07:01:00 GMT  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 72. [Zombie Card: An expired Visa credit card can be used for purchases](https://www.malwarebytes.com/blog/news/2026/08/zombie-card-an-expired-visa-credit-card-can-be-used-for-purchases)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 21 Aug 2026 14:03:48 GMT  
@@ -658,7 +665,7 @@
 
 ---
 
-### 72. [Medical records, SSNs, and bank details exposed in CareCloud data breach](https://www.malwarebytes.com/blog/news/2026/08/medical-records-ssns-and-bank-details-exposed-in-carecloud-data-breach)
+### 73. [Medical records, SSNs, and bank details exposed in CareCloud data breach](https://www.malwarebytes.com/blog/news/2026/08/medical-records-ssns-and-bank-details-exposed-in-carecloud-data-breach)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 21 Aug 2026 11:50:55 GMT  
@@ -667,7 +674,7 @@
 
 ---
 
-### 73. [ChatGPT for Teens tackles risky chats and homework shortcuts](https://www.malwarebytes.com/blog/family-and-parenting/2026/08/chatgpt-for-teens-tackles-risky-chats-and-homework-shortcuts)
+### 74. [ChatGPT for Teens tackles risky chats and homework shortcuts](https://www.malwarebytes.com/blog/family-and-parenting/2026/08/chatgpt-for-teens-tackles-risky-chats-and-homework-shortcuts)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 20 Aug 2026 14:44:31 GMT  
@@ -676,7 +683,7 @@
 
 ---
 
-### 74. [Twitch wants your content for Amazon AI training. Here’s how to opt out](https://www.malwarebytes.com/blog/ai/2026/08/twitch-wants-your-content-for-amazon-ai-training-heres-how-to-opt-out)
+### 75. [Twitch wants your content for Amazon AI training. Here’s how to opt out](https://www.malwarebytes.com/blog/ai/2026/08/twitch-wants-your-content-for-amazon-ai-training-heres-how-to-opt-out)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 20 Aug 2026 13:28:01 GMT  
@@ -685,7 +692,7 @@
 
 ---
 
-### 75. [Your Mac already has a built-in firewall. Here’s how to get more from it](https://www.malwarebytes.com/blog/product/2026/08/your-mac-already-has-a-built-in-firewall-heres-how-to-get-more-from-it)
+### 76. [Your Mac already has a built-in firewall. Here’s how to get more from it](https://www.malwarebytes.com/blog/product/2026/08/your-mac-already-has-a-built-in-firewall-heres-how-to-get-more-from-it)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 20 Aug 2026 12:45:00 GMT  
@@ -694,7 +701,7 @@
 
 ---
 
-### 76. [9 million images of people’s faces exposed by reverse lookup service](https://www.malwarebytes.com/blog/privacy/2026/08/9-million-images-of-peoples-faces-exposed-by-reverse-lookup-service)
+### 77. [9 million images of people’s faces exposed by reverse lookup service](https://www.malwarebytes.com/blog/privacy/2026/08/9-million-images-of-peoples-faces-exposed-by-reverse-lookup-service)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 20 Aug 2026 11:50:54 GMT  
@@ -703,7 +710,7 @@
 
 ---
 
-### 77. [41 deceptive download sites show a real link, then send you somewhere else](https://www.malwarebytes.com/blog/threat-intel/2026/08/41-deceptive-download-sites-show-a-real-link-then-send-you-somewhere-else)
+### 78. [41 deceptive download sites show a real link, then send you somewhere else](https://www.malwarebytes.com/blog/threat-intel/2026/08/41-deceptive-download-sites-show-a-real-link-then-send-you-somewhere-else)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 19 Aug 2026 18:08:35 GMT  
@@ -712,7 +719,7 @@
 
 ---
 
-### 78. [Sideloading on Android: What it is, why it’s risky, and how to do it more safely](https://www.malwarebytes.com/blog/how-to/2026/08/sideloading-on-android-what-it-is-why-its-risky-and-how-to-do-it-more-safely)
+### 79. [Sideloading on Android: What it is, why it’s risky, and how to do it more safely](https://www.malwarebytes.com/blog/how-to/2026/08/sideloading-on-android-what-it-is-why-its-risky-and-how-to-do-it-more-safely)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 19 Aug 2026 15:09:52 GMT  
@@ -721,21 +728,12 @@
 
 ---
 
-### 79. [Scammers are using fake crypto AML checkers to drain your wallet](https://www.malwarebytes.com/blog/threat-intel/2026/08/scammers-are-using-fake-crypto-aml-checkers-to-drain-your-wallet)
+### 80. [Scammers are using fake crypto AML checkers to drain your wallet](https://www.malwarebytes.com/blog/threat-intel/2026/08/scammers-are-using-fake-crypto-aml-checkers-to-drain-your-wallet)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 19 Aug 2026 10:55:06 GMT  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 80. [Update Chrome now: Two critical vulnerabilities fixed](https://www.malwarebytes.com/blog/bugs/2026/08/update-chrome-now-two-critical-vulnerabilities-fixed)
-
-**Source:** Malwarebytes  
-**Published:** Wed, 19 Aug 2026 10:32:04 GMT  
-**Severity:** Critical  
-**Categories:** Vulnerability  
 
 ---
 
