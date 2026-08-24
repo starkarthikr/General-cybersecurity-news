@@ -1,6 +1,80 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
+    "link": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
+    "published": "Mon, 24 Aug 2026 17:28:00 +0530",
+    "summary": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work.\n\nThe harder part is what comes after. AI can also introduce open-source packages at a pace your security team was never built to handle. More dependencies mean more vulnerabilities to review, more remediation work, and a backlog that can",
+    "analysis": {
+      "issue": "ActiveState surveys 300 security and engineering leaders on AI coding, open-source remediation debt, governance, and business risk",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
+    "link": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html",
+    "published": "Mon, 24 Aug 2026 17:26:34 +0530",
+    "summary": "Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server that could allow an unauthenticated remote attacker to take over any user account by forcing a password reset.\n\nThe vulnerability, assigned the CVE identifier&nbsp;CVE-2026-18963, is rated 9.1 on the CVSS scoring system by Red Hat, which acts as",
+    "analysis": {
+      "issue": "Keycloak CVE-2026-18963 could let unauthenticated attackers skip the emailed action token and reset any user's password",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-18963"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor",
+    "link": "https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html",
+    "published": "Mon, 24 Aug 2026 17:21:36 +0530",
+    "summary": "Cybersecurity researchers have flagged a cyber espionage campaign targeting Myanmar that uses graduation ceremony invitation lures to deliver a Go backdoor called QUICAgent.\n\nThe campaign, codenamed Operation QUICSILVER, has been found to target government and information technology sectors, per Seqrite Labs. The activity is assessed to be the work of a China-nexus threat actor with moderate",
+    "analysis": {
+      "issue": "Operation QUICSILVER targets Myanmar government and IT sectors with graduation lures that deploy the Go-based QUICAgent backdoor",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk",
+    "link": "https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html",
+    "published": "Mon, 24 Aug 2026 17:00:00 +0530",
+    "summary": "Big security risks come in small packages. While enterprise security teams focus on policing the proliferation of employees using ChatGPT and Claude for quick drafting tasks, a more urgent threat is posed by a handful of AI super-adopters who are quietly hardcoding unvetted tools into critical business operations.\n\nAccording to new research published by Akamai, the top 5% of enterprise power",
+    "analysis": {
+      "issue": "Akamai finds the top 5% of enterprise AI users interact at 12 times the rate of the bottom 50%, concentrating shadow AI risk",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit",
     "link": "https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html",
     "published": "Mon, 24 Aug 2026 13:38:31 +0530",
@@ -109,13 +183,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
-    "link": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
-    "published": "Fri, 21 Aug 2026 15:33:11 +0530",
-    "summary": "Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review.\n\nFour of the security vulnerabilities affect Crosswork Data Gateway, Crosswork Network Controller, and Crosswork Planning, regardless of the device configuration. A brief description of each of the flaws is below -",
+    "source": "Bleeping Computer",
+    "title": "Microsoft: August updates break printing, PDF export in WPF apps",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps/",
+    "published": "Mon, 24 Aug 2026 08:40:21 -0400",
+    "summary": "Microsoft has confirmed that .NET Framework updates released as part of the August 2026 Patch Tuesday are breaking printing and PDF export in WPF applications. [...]",
     "analysis": {
-      "issue": "Cisco patches nine Crosswork and Secure Workload flaws, including four CVSS 10",
+      "issue": "NET Framework updates released as part of the August 2026 Patch Tuesday are breaking printing and PDF export in some applications",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -127,19 +201,19 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
-    "link": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
-    "published": "Fri, 21 Aug 2026 12:34:25 +0530",
-    "summary": "A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr.\n\nThe vulnerability in question is CVE-2026-19478 (CVSS score: 9.4), a case of code injection that allows an unauthenticated attacker to modify or delete publicly accessible GitLab projects and rewrite their data under certain conditions without requiring",
+    "source": "Bleeping Computer",
+    "title": "CISA orders urgent patching of actively exploited Zimbra flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/",
+    "published": "Mon, 24 Aug 2026 06:45:12 -0400",
+    "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies to patch an actively exploited vulnerability in Zimbra Collaboration Suite (ZCS) within three days. [...]",
     "analysis": {
-      "issue": "GitLab CVE-2026-19478 is under active exploitation, with unauthenticated attacks able to modify or delete public projects under certain conditions",
+      "issue": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-19478"
+        "CVE-2026-73570"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -147,41 +221,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Microsoft Patches Severe Entra ID Flaw (CVSS 10.0) Allowing Remote Code Execution",
-    "link": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
-    "published": "Fri, 21 Aug 2026 11:36:11 +0530",
-    "summary": "Update: The story was updated after publication to note that the vulnerability has not been exploited.\n\nAlthough the security bulletin originally marked the \"Exploited\" field under the Exploitability Assessment table as \"Yes,\" on August 21, 2026, Microsoft corrected the \"Exploited\" status to \"No\" after The Hacker News contacted the company for comment. It also noted, \"this vulnerability was not",
+    "source": "Bleeping Computer",
+    "title": "Microsoft shares temporary fix for Windows 11 gaming issues",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/",
+    "published": "Mon, 24 Aug 2026 05:42:05 -0400",
+    "summary": "Microsoft has shared a temporary fix for ongoing gaming issues caused by Windows 11 updates released during the August 2026 Patch Tuesday. [...]",
     "analysis": {
-      "issue": "Microsoft says CVE-2026-69836, a CVSS 10",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-69836"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
-    "link": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
-    "published": "Fri, 21 Aug 2026 01:52:35 +0530",
-    "summary": "The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published releases that added a typosquatted dependency whose build script downloaded and executed a remote payload during compilation.\n\nThe affected releases are arrayref 0.3.10, internment 0.8.7, and append-only-vec 0.1.9, all published from the same owner",
-    "analysis": {
-      "issue": "Rust deletes malicious releases of three crates after a proc-macro1 build script downloaded and ran a remote payload during compilation",
+      "issue": "Microsoft has shared a temporary fix for ongoing gaming issues caused by Windows 11 updates released during the August 2026 Patch Tuesday",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware",
-        "Supply Chain"
+        "General Security"
       ]
     }
   },
@@ -315,69 +368,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Microsoft rolls out Classic Outlook theme for New Outlook users",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users/",
-    "published": "Fri, 21 Aug 2026 09:39:35 -0400",
-    "summary": "Microsoft has started rolling out a Classic Outlook theme for users of Outlook on the web and the New Outlook for Windows. [...]",
-    "analysis": {
-      "issue": "Microsoft has started rolling out a Classic Outlook theme for users of Outlook on the web and the New Outlook for Windows",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA orders feds to patch actively exploited TrueConf Server flaws",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/",
-    "published": "Fri, 21 Aug 2026 08:25:33 -0400",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered U.S. federal agencies to prioritize patching two actively exploited vulnerabilities in the TrueConf Server self-hosted communications platform. [...]",
-    "analysis": {
-      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) ordered U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-72530",
-        "CVE-2026-72529"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft patches max severity code execution, privilege escalation flaws",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
-    "published": "Fri, 21 Aug 2026 07:04:10 -0400",
-    "summary": "Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks. [...]",
-    "analysis": {
-      "issue": "Microsoft has patched multiple maximum-severity vulnerabilities in its Entra ID, Azure Arc, and Exchange Online that allowed attackers to gain remote code execution and escalate privileges",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-65816",
-        "CVE-2026-69555",
-        "CVE-2026-65770",
-        "CVE-2026-69836",
-        "CVE-2026-65801"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Who’s Tracking You? Use This New Service to Find Out",
     "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
@@ -408,9 +398,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-72971",
         "CVE-2026-68820",
-        "CVE-2026-62832",
-        "CVE-2026-72971"
+        "CVE-2026-62832"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -487,10 +477,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-48561",
         "CVE-2026-50661",
+        "CVE-2026-56164",
         "CVE-2026-56155",
-        "CVE-2026-56164"
+        "CVE-2026-48561"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -570,6 +560,105 @@
       "threat_categories": [
         "Ransomware",
         "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Uber Fined Nearly $1 Billion by Dutch Regulators Over Automated Suspensions of Driver Accounts",
+    "link": "https://www.securityweek.com/uber-fined-nearly-1-billion-by-dutch-regulators-over-automated-suspensions-of-driver-accounts/",
+    "published": "Mon, 24 Aug 2026 12:42:09 +0000",
+    "summary": "<p>Dutch Data Protection Authority said it is imposing a fine of 825 million euros because Uber violated the EU’s General Data Protection Regulation.</p>\n<p>The post <a href=\"https://www.securityweek.com/uber-fined-nearly-1-billion-by-dutch-regulators-over-automated-suspensions-of-driver-accounts/\">Uber Fined Nearly $1 Billion by Dutch Regulators Over Automated Suspensions of Driver Accounts</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Dutch Data Protection Authority said it is imposing a fine of 825 million euros because Uber violated the EU’s General Data Protection Regulation",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "91 Vulnerabilities Patched in Spring Application Framework",
+    "link": "https://www.securityweek.com/91-vulnerabilities-patched-in-spring-application-framework/",
+    "published": "Mon, 24 Aug 2026 11:58:28 +0000",
+    "summary": "<p>More than 200 vulnerabilities have been patched to date this year, compared to only 16 in 2025 and 22 in 2024. </p>\n<p>The post <a href=\"https://www.securityweek.com/91-vulnerabilities-patched-in-spring-application-framework/\">91 Vulnerabilities Patched in Spring Application Framework</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "More than 200 vulnerabilities have been patched to date this year, compared to only 16 in 2025 and 22 in 2024",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-59270",
+        "CVE-2026-59285",
+        "CVE-2026-59318"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Venezuelan Gets Record Federal Prison Term for ATM Jackpotting",
+    "link": "https://www.securityweek.com/venezuelan-gets-record-federal-prison-term-for-atm-jackpotting/",
+    "published": "Mon, 24 Aug 2026 10:59:30 +0000",
+    "summary": "<p>Juan Manuel Gouveia-Aguilera has been sentenced to 8 years in prison for his role in an ATM jackpotting scheme that caused millions in losses.</p>\n<p>The post <a href=\"https://www.securityweek.com/venezuelan-gets-record-federal-prison-term-for-atm-jackpotting/\">Venezuelan Gets Record Federal Prison Term for ATM Jackpotting</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Juan Manuel Gouveia-Aguilera has been sentenced to 8 years in prison for his role in an ATM jackpotting scheme that caused millions in losses",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Personal Information Exposed in Apollo Global Data Breach",
+    "link": "https://www.securityweek.com/personal-information-exposed-in-apollo-global-data-breach/",
+    "published": "Mon, 24 Aug 2026 10:08:42 +0000",
+    "summary": "<p>The private equity firm appears to have been targeted as part of a campaign focusing on major financial companies.</p>\n<p>The post <a href=\"https://www.securityweek.com/personal-information-exposed-in-apollo-global-data-breach/\">Personal Information Exposed in Apollo Global Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The private equity firm appears to have been targeted as part of a campaign focusing on major financial companies",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Rethinking Application Security for the AI Era",
+    "link": "https://www.securityweek.com/rethinking-application-security-for-the-ai-era/",
+    "published": "Mon, 24 Aug 2026 10:00:00 +0000",
+    "summary": "<p>As AI dramatically shortens the time from vulnerability disclosure to exploitation, enterprises must look beyond patching to reduce application risk.</p>\n<p>The post <a href=\"https://www.securityweek.com/rethinking-application-security-for-the-ai-era/\">Rethinking Application Security for the AI Era</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "As AI dramatically shortens the time from vulnerability disclosure to exploitation, enterprises must look beyond patching to reduce application risk",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "DDoS"
       ]
     }
   },
@@ -663,110 +752,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug",
-    "link": "https://www.securityweek.com/in-other-news-zombie-card-attack-t-mobile-cut-cable-to-stop-hackers-github-denies-ai-caused-bug/",
-    "published": "Fri, 21 Aug 2026 15:11:16 +0000",
-    "summary": "<p>Other noteworthy stories that might have slipped under the radar: Threema DDoS attack, Evooo1Bot Linux botnet, Crypto4A secures top-tier NIST certification.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-zombie-card-attack-t-mobile-cut-cable-to-stop-hackers-github-denies-ai-caused-bug/\">In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Other noteworthy stories that might have slipped under the radar: Threema DDoS attack, Evooo1Bot Linux botnet, Crypto4A secures top-tier NIST certification",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2025-62593"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Vulnerability",
-        "Malware",
-        "Phishing",
-        "DDoS"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Encrypted Prompts Bypass AI Safety Guardrails in Grok and Gemini",
-    "link": "https://www.securityweek.com/encrypted-prompts-bypass-ai-safety-guardrails-in-grok-and-gemini/",
-    "published": "Fri, 21 Aug 2026 14:34:05 +0000",
-    "summary": "<p>Researchers say the new ‘Cryptographic Context Injection’ technique conceals malicious instructions until they are decrypted inside a trusted execution environment.</p>\n<p>The post <a href=\"https://www.securityweek.com/encrypted-prompts-bypass-ai-safety-guardrails-in-grok-and-gemini/\">Encrypted Prompts Bypass AI Safety Guardrails in Grok and Gemini</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Researchers say the new ‘Cryptographic Context Injection’ technique conceals malicious instructions until they are decrypted inside a trusted execution environment",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "New Phishing Toolkit Uses Passkeys to Maintain Access After Password Resets",
-    "link": "https://www.securityweek.com/new-phishing-toolkit-uses-passkeys-to-maintain-access-after-password-resets/",
-    "published": "Fri, 21 Aug 2026 14:22:06 +0000",
-    "summary": "<p>Researchers say iAuthFlow V2 can register an attacker-controlled passkey, enabling persistent access even after passwords are changed and active sessions revoked.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-phishing-toolkit-uses-passkeys-to-maintain-access-after-password-resets/\">New Phishing Toolkit Uses Passkeys to Maintain Access After Password Resets</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Researchers say iAuthFlow V2 can register an attacker-controlled passkey, enabling persistent access even after passwords are changed and active sessions revoked",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Phishing",
-        "APT",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Critical Isolated-vm Vulnerability Leads to RCE on Host",
-    "link": "https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/",
-    "published": "Fri, 21 Aug 2026 12:26:07 +0000",
-    "summary": "<p>The type confusion bug can lead to V8 sandbox escape and control-flow hijacking of the host process.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/\">Critical Isolated-vm Vulnerability Leads to RCE on Host</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The type confusion bug can lead to V8 sandbox escape and control-flow hijacking of the host process",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Rust Supply Chain Attack Linked to North Korean Hackers",
-    "link": "https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/",
-    "published": "Fri, 21 Aug 2026 09:23:18 +0000",
-    "summary": "<p>Hackers pushed a poisoned arrayref version that added a dependency to fetch a malicious payload from a remote server.</p>\n<p>The post <a href=\"https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/\">Rust Supply Chain Attack Linked to North Korean Hackers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Hackers pushed a poisoned arrayref version that added a dependency to fetch a malicious payload from a remote server",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Supply Chain"
       ]
     }
   },
@@ -1306,8 +1291,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1332,6 +1317,25 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Tracking PavinLoader across ClickFix and fake download campaigns",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/08/tracking-pavinloader-across-clickfix-and-fake-download-campaigns",
+    "published": "Mon, 24 Aug 2026 11:43:19 GMT",
+    "summary": "We found PavinLoader being used across ClickFix, fake software, and RenPy campaigns to deliver Amatera Stealer and other malware.",
+    "analysis": {
+      "issue": "In our previous analysis of the malicious RenPy campaigns, we identified a multi-stage loader deployed as part of the infection chain",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "APT"
       ]
     }
   },
@@ -1496,24 +1500,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Scammers are using fake crypto AML checkers to drain your wallet",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/08/scammers-are-using-fake-crypto-aml-checkers-to-drain-your-wallet",
-    "published": "Wed, 19 Aug 2026 10:55:06 GMT",
-    "summary": "We found wallet-checking sites impersonating real anti-money laundering services that trick people into approving access to scammers.",
-    "analysis": {
-      "issue": "Scammers are creating fake crypto wallet-checking sites that promise to tell you whether a wallet is linked to suspicious activity",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
