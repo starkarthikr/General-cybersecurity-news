@@ -1,6 +1,26 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
+    "link": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html",
+    "published": "Tue, 25 Aug 2026 11:42:35 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a maximum-severity security flaw impacting Oracle HTTP Server and Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nThe vulnerability, tracked as CVE-2026-21962 (CVSS score: 10.0), allows an unauthenticated attacker with network access via HTTP to",
+    "analysis": {
+      "issue": "CISA adds actively exploited CVE-2026-21962 to KEV; the Oracle flaw can expose or alter critical data via unauthenticated HTTP access",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-21962"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
     "link": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
     "published": "Mon, 24 Aug 2026 23:11:30 +0530",
@@ -165,25 +185,6 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
-    "link": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html",
-    "published": "Sat, 22 Aug 2026 00:23:00 +0530",
-    "summary": "Cybersecurity researchers have discovered a set of trojanized npm packages that masquerade as working calendar and streak utilities but are engineered to stealthily deliver an artificial intelligence (AI)-powered Linux implant dubbed RedC2 4.0.\n\n\"When the module loads, it locates the bundled binary, marks it executable, and launches it as a detached background process,\" TrendAI, Trend Micro's",
-    "analysis": {
-      "issue": "Trojanized npm packages launch RedC2 4",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
     "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
     "link": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
@@ -216,8 +217,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-15981",
-        "CVE-2026-61979"
+        "CVE-2026-61979",
+        "CVE-2026-15981"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -402,8 +403,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-72971",
         "CVE-2026-68820",
+        "CVE-2026-72971",
         "CVE-2026-62832"
       ],
       "threat_categories": [
@@ -417,20 +418,7 @@
     "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
     "link": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
     "published": "Thu, 06 Aug 2026 17:00:56 +0000",
-    "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&#038;T customers.",
-    "analysis": {
-      "issue": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud provider Snowflake",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Phishing"
-      ]
-    }
+    "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&#038;T customers."
   },
   {
     "source": "Krebs On Security",
@@ -481,10 +469,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56164",
-        "CVE-2026-56155",
         "CVE-2026-50661",
-        "CVE-2026-48561"
+        "CVE-2026-48561",
+        "CVE-2026-56155",
+        "CVE-2026-56164"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -497,19 +485,7 @@
     "title": "Lessons Learned from CISA’s Recent GitHub Leak",
     "link": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
     "published": "Mon, 13 Jul 2026 15:03:28 +0000",
-    "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response provide important lessons that all security teams should absorb.",
-    "analysis": {
-      "issue": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a recent data leak in which a contractor published dozens of internal CISA credentials — including AWS Govcloud keys — in a public GitHub repository for almost six",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability"
-      ]
-    }
+    "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response provide important lessons that all security teams should absorb."
   },
   {
     "source": "Krebs On Security",
@@ -553,17 +529,26 @@
     "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
     "link": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
     "published": "Tue, 23 Jun 2026 16:12:49 +0000",
-    "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as Scattered Spider, and their guilty pleas came on the first day of what was expected to be a six-week trial.",
+    "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as Scattered Spider, and their guilty pleas came on the first day of what was expected to be a six-week trial."
+  },
+  {
+    "source": "Security Week",
+    "title": "CISA Warns of Exploited Oracle WebLogic Vulnerability",
+    "link": "https://www.securityweek.com/cisa-warns-of-exploited-oracle-weblogic-vulnerability/",
+    "published": "Tue, 25 Aug 2026 07:46:34 +0000",
+    "summary": "<p>The vulnerability is tracked as CVE-2026-21962 and it has been widely exploited by threat actors against WebLogic servers.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-warns-of-exploited-oracle-weblogic-vulnerability/\">CISA Warns of Exploited Oracle WebLogic Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
-      "issue": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area",
+      "issue": "The vulnerability is tracked as CVE-2026-21962 and it has been widely exploited by threat actors against WebLogic servers",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "High",
-      "cves": [],
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-21962"
+      ],
       "threat_categories": [
-        "Ransomware",
-        "Phishing"
+        "Vulnerability",
+        "Supply Chain"
       ]
     }
   },
@@ -636,9 +621,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-59318",
+        "CVE-2026-59270",
         "CVE-2026-59285",
-        "CVE-2026-59270"
+        "CVE-2026-59318"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -737,25 +722,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Anthropic Expands Mythos 5 Access to More Defenders, Unveils $35M Open Source Fund",
-    "link": "https://www.securityweek.com/anthropic-expands-mythos-5-access-to-more-defenders-unveils-35m-open-source-fund/",
-    "published": "Mon, 24 Aug 2026 07:18:58 +0000",
-    "summary": "<p>Claude Security, currently in public beta for Claude Enterprise customers, now runs codebase scans on Mythos 5.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-expands-mythos-5-access-to-more-defenders-unveils-35m-open-source-fund/\">Anthropic Expands Mythos 5 Access to More Defenders, Unveils $35M Open Source Fund</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Claude Security, currently in public beta for Claude Enterprise customers, now runs codebase scans on Mythos 5",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
       ]
     }
   },
@@ -883,8 +849,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-65665",
-        "CVE-2026-68820",
         "CVE-2026-62823",
+        "CVE-2026-68820",
         "CVE-2026-62893"
       ],
       "threat_categories": [
@@ -1326,6 +1292,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "TikTok phishing: How to spot fake login and verification pages",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/08/tiktok-phishing-how-to-spot-fake-login-and-verification-pages",
+    "published": "Tue, 25 Aug 2026 08:00:00 GMT",
+    "summary": "Scammers use fake TikTok login pages, warnings, and verification offers to trick you into handing over your account details.",
+    "analysis": {
+      "issue": "Phishing pages don’t need to be sophisticated",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Fake GTA 6 Extended Look and demo sites deliver an infostealer",
     "link": "https://www.malwarebytes.com/blog/threat-intel/2026/08/fake-gta-6-extended-look-and-demo-sites-deliver-an-infostealer",
     "published": "Mon, 24 Aug 2026 16:51:55 GMT",
@@ -1489,24 +1473,6 @@
       "threat_categories": [
         "Data Breach",
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "ChatGPT for Teens tackles risky chats and homework shortcuts",
-    "link": "https://www.malwarebytes.com/blog/family-and-parenting/2026/08/chatgpt-for-teens-tackles-risky-chats-and-homework-shortcuts",
-    "published": "Thu, 20 Aug 2026 14:44:31 GMT",
-    "summary": "OpenAI has strengthened ChatGPT's protections for teens, but some of its strongest parental controls still depend on linked accounts.",
-    "analysis": {
-      "issue": "OpenAI has addressed complaints around teens’ use of its ChatGPT system by introducing ChatGPT for Teens, a version of the AI assistant designed specifically for users aged 13 to 17",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
