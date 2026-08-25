@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-25 01:36:35 UTC
+**Last Updated:** 2026-08-25 02:01:41 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -202,7 +202,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62832, CVE-2026-68820, CVE-2026-72971  
+**CVEs:** CVE-2026-72971, CVE-2026-68820, CVE-2026-62832  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -239,7 +239,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50661, CVE-2026-56164, CVE-2026-48561, CVE-2026-56155  
+**CVEs:** CVE-2026-56164, CVE-2026-56155, CVE-2026-50661, CVE-2026-48561  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -312,7 +312,7 @@
 **Source:** Security Week  
 **Published:** Mon, 24 Aug 2026 11:58:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-59318, CVE-2026-59270, CVE-2026-59285  
+**CVEs:** CVE-2026-59318, CVE-2026-59285, CVE-2026-59270  
 **Categories:** Vulnerability  
 
 ---
@@ -430,7 +430,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 11 Aug 2026 22:21:02 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62823, CVE-2026-65665, CVE-2026-68820, CVE-2026-62893  
+**CVEs:** CVE-2026-65665, CVE-2026-68820, CVE-2026-62823, CVE-2026-62893  
 **Categories:** Vulnerability  
 
 ---
@@ -632,7 +632,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
