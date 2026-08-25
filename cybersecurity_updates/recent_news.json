@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
+    "link": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
+    "published": "Mon, 24 Aug 2026 23:11:30 +0530",
+    "summary": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work.\n\nThe harder part is what comes after. AI can also introduce open-source packages at a pace your security team was never built to handle. More dependencies mean more vulnerabilities to review, more remediation work, and a backlog that can",
+    "analysis": {
+      "issue": "ActiveState surveys 300 security and engineering leaders on AI coding, open-source remediation debt, governance, and business risk",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning",
+    "link": "https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html",
+    "published": "Mon, 24 Aug 2026 23:11:11 +0530",
+    "summary": "Cybersecurity researchers have found that several websites are still actively distributing a malware family known as Weedhack to gamers by masquerading as Minecraft clients.\n\nMcAfee Labs said it detected and blocked more than 6,300 attempts to access malicious sites, adding that it found lookalike gaming websites designed to mimic legitimate projects, including branding, feature lists, FAQs,",
+    "analysis": {
+      "issue": "Weedhack spreads through fake Minecraft client sites and SEO poisoning, with McAfee blocking more than 6,300 attempts to reach malicious URLs",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "⚡ Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More",
     "link": "https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html",
     "published": "Mon, 24 Aug 2026 20:02:10 +0530",
@@ -33,24 +69,6 @@
       "cves": [],
       "threat_categories": [
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
-    "link": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
-    "published": "Mon, 24 Aug 2026 17:28:00 +0530",
-    "summary": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work.\n\nThe harder part is what comes after. AI can also introduce open-source packages at a pace your security team was never built to handle. More dependencies mean more vulnerabilities to review, more remediation work, and a backlog that can",
-    "analysis": {
-      "issue": "ActiveState surveys 300 security and engineering leaders on AI coding, open-source remediation debt, governance, and business risk",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -166,13 +184,54 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
-    "link": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
-    "published": "Fri, 21 Aug 2026 21:22:10 +0530",
-    "summary": "Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry operations on Windows systems ranging from Windows 7 through Windows 11 25H2, with no software flaw exploited and no driver imported from outside the machine.\n\nThe driver, BTR.sys (Boot Time Removal Tool), is a",
+    "source": "Bleeping Computer",
+    "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
+    "link": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
+    "published": "Mon, 24 Aug 2026 17:14:30 -0400",
+    "summary": "An unpatched vulnerability in Calix GS7 XGS (GS5239XG) residential routers used by multiple U.S. broadband providers allows remote, unauthenticated attackers to create port-forwarding rules that can expose local network devices to the public internet. [...]",
     "analysis": {
-      "issue": "BTR Reforged uses Defender's signed BTR",
+      "issue": "An unpatched vulnerability in Calix GS7 XGS (GS5239XG) residential routers used by multiple U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-75501"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Hackers target WordPress sites in miniOrange auth bypass attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/",
+    "published": "Mon, 24 Aug 2026 15:26:32 -0400",
+    "summary": "Hackers are attempting to exploit two critical authentication bypass vulnerabilities in the miniOrange SAML 2.0 Single Sign On plugin for WordPress that can be used to forge SAML responses and log in as administrators. [...]",
+    "analysis": {
+      "issue": "Hackers are attempting to exploit two critical authentication bypass vulnerabilities in the miniOrange SAML 2",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-15981",
+        "CVE-2026-61979"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "TikTok reaches $400M settlement with US over COPPA violations",
+    "link": "https://www.bleepingcomputer.com/news/legal/tiktok-reaches-400m-settlement-with-us-over-coppa-violations/",
+    "published": "Mon, 24 Aug 2026 13:56:24 -0400",
+    "summary": "The U.S. Department of Justice announced a $400 million settlement with TikTok, ByteDance, and affiliated companies over allegations that they violated the Children's Online Privacy Protection Act (COPPA). [...]",
+    "analysis": {
+      "issue": "Department of Justice announced a $400 million settlement with TikTok, ByteDance, and affiliated companies over allegations that they violated the Children’s Online Privacy Protection Act (COPPA)",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -313,62 +372,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Hackers infect Android car head units with proxy botnet malware",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/",
-    "published": "Sat, 22 Aug 2026 10:14:24 -0400",
-    "summary": "A supply-chain attack targeting Android-based car head units is using a legitimate device-update app to spread malware that enlists compromised devices in a proxy botnet or uses them for ad fraud. [...]",
-    "analysis": {
-      "issue": "A supply-chain attack targeting Android-based car head units is using a legitimate device-update app to spread malware that enlists compromised devices in a proxy botnet or uses them for ad fraud",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Named Pipes Under Attack: Securing Windows Interprocess Communication",
-    "link": "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/",
-    "published": "Sat, 22 Aug 2026 09:00:09 -0400",
-    "summary": "Windows named pipes provide fast interprocess communication, but weak access controls can expose privileged services to untrusted processes. ThreatLocker explains how endpoint verification, command authorization, strict input validation, and narrowly scoped privileges can help secure named-pipe communication. [...]",
-    "analysis": {
-      "issue": "Written by: Farid Mustafayev, Cybersecurity Expert at ThreatLocker Named pipes are a common choice for communication between applications running on the same Windows computer",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New SynkLoader malware pushed in Microsoft Teams phishing campaign",
-    "link": "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/",
-    "published": "Fri, 21 Aug 2026 14:01:30 -0400",
-    "summary": "A previously unknown malware family dubbed SynkLoader is being distributed in Microsoft Teams phishing campaigns to steal credentials via a fake lock screen. [...]",
-    "analysis": {
-      "issue": "A previously unknown malware family dubbed SynkLoader is being distributed in Microsoft Teams phishing campaigns to steal credentials via a fake lock screen",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Who’s Tracking You? Use This New Service to Find Out",
     "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
@@ -478,8 +481,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56164",
         "CVE-2026-50661",
+        "CVE-2026-56164",
         "CVE-2026-48561",
         "CVE-2026-56155"
       ],
@@ -560,6 +563,26 @@
       "cves": [],
       "threat_categories": [
         "Ransomware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "ReliaQuest Confirms ShinyHunters Hack, but Says Impact Was Limited",
+    "link": "https://www.securityweek.com/reliaquest-confirms-shinyhunters-hack-but-says-impact-was-limited/",
+    "published": "Mon, 24 Aug 2026 17:38:21 +0000",
+    "summary": "<p>A ReliaQuest employee fell victim to a phishing attack and the hackers gained access to a dashboard.</p>\n<p>The post <a href=\"https://www.securityweek.com/reliaquest-confirms-shinyhunters-hack-but-says-impact-was-limited/\">ReliaQuest Confirms ShinyHunters Hack, but Says Impact Was Limited</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "A ReliaQuest employee fell victim to a phishing attack and the hackers gained access to a dashboard",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
         "Phishing"
       ]
     }
@@ -737,26 +760,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight",
-    "link": "https://www.securityweek.com/banking-trojans-manic-grandoreiro-toxicpanda-2-0-in-the-spotlight/",
-    "published": "Sat, 22 Aug 2026 08:30:00 +0000",
-    "summary": "<p>The spyware-equipped Manic, a persistent Grandoreiro campaign in Latin America and Europe, and an expanded ToxicPanda 2.0 malware.</p>\n<p>The post <a href=\"https://www.securityweek.com/banking-trojans-manic-grandoreiro-toxicpanda-2-0-in-the-spotlight/\">Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The spyware-equipped Manic, a persistent Grandoreiro campaign in Latin America and Europe, and an expanded ToxicPanda 2",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Is Cyber missing the Marque?",
     "link": "https://blog.talosintelligence.com/is-cyber-missing-the-marque/",
@@ -879,10 +882,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-62823",
         "CVE-2026-65665",
-        "CVE-2026-62893",
         "CVE-2026-68820",
-        "CVE-2026-62823"
+        "CVE-2026-62893"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1323,6 +1326,26 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Fake GTA 6 Extended Look and demo sites deliver an infostealer",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/08/fake-gta-6-extended-look-and-demo-sites-deliver-an-infostealer",
+    "published": "Mon, 24 Aug 2026 16:51:55 GMT",
+    "summary": "Bogus “Play Now” sites are exploiting the GTA 6 leak hype to spread malware that steals passwords stored in browsers.",
+    "analysis": {
+      "issue": "GTA 6 footage really has leaked online, and Rockstar has an official Extended Look coming to Netflix on August 27",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Fake Microsoft security scans trick victims into uninstalling their antivirus",
     "link": "https://www.malwarebytes.com/blog/threat-intel/2026/08/fake-microsoft-security-scans-trick-victims-into-uninstalling-their-antivirus",
     "published": "Mon, 24 Aug 2026 14:50:23 GMT",
@@ -1477,24 +1500,6 @@
     "summary": "OpenAI has strengthened ChatGPT's protections for teens, but some of its strongest parental controls still depend on linked accounts.",
     "analysis": {
       "issue": "OpenAI has addressed complaints around teens’ use of its ChatGPT system by introducing ChatGPT for Teens, a version of the AI assistant designed specifically for users aged 13 to 17",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Twitch wants your content for Amazon AI training. Here’s how to opt out",
-    "link": "https://www.malwarebytes.com/blog/ai/2026/08/twitch-wants-your-content-for-amazon-ai-training-heres-how-to-opt-out",
-    "published": "Thu, 20 Aug 2026 13:28:01 GMT",
-    "summary": "Twitch added an option to opt out of training Amazon AI with your content—two years after it confirmed that training had begun.",
-    "analysis": {
-      "issue": "The Dutch Autoriteit Persoonsgegevens (AP) has advised Twitch users to opt out of sharing data with Amazon AI",
       "solution": null,
       "cause": null,
       "timeline": null,
