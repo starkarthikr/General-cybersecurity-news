@@ -1,6 +1,98 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows",
+    "link": "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html",
+    "published": "Tue, 25 Aug 2026 17:26:15 +0530",
+    "summary": "Thousands of companies have been affected by the Mirage2FA campaign from 2024 to 2026. The commercial phishing-as-a-service toolkit targets Microsoft 365 accounts by abusing legitimate login flows and bypassing two-factor authentication.\n\nAccording to ANY.RUN research, 48% of targeted email addresses were potentially compromised. Most of the affected companies are US-based.\n\nMirage2FA Campaign",
+    "analysis": {
+      "issue": "Mirage2FA targets Microsoft 365, with 48% of targeted emails potentially compromised and 9,000+ potential session-theft events",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages",
+    "link": "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html",
+    "published": "Tue, 25 Aug 2026 17:22:43 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA pages.\n\n\"While the malware is simply a single HTML page inside the npm package, and while downloading it wouldn't do harm, the threat actor’s use of npm isn't to infect developers who install it, but to use the",
+    "analysis": {
+      "issue": "A campaign uses 24 npm packages and unpkg mirrors to host fake Cloudflare CAPTCHA pages that can redirect users to attacker-chosen sites",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands",
+    "link": "https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html",
+    "published": "Tue, 25 Aug 2026 17:03:44 +0530",
+    "summary": "Cybersecurity researchers are calling attention to a new campaign that employs FTP banners as dead drop resolvers (DDRs) to deliver two previously unreported remote access trojans (RATs) tracked as E4del and PINHOLE.\n\nWhile threat actors are known to abuse legitimate services to point to additional command-and-control (C2) infrastructure and blend in with regular network traffic, the development",
+    "analysis": {
+      "issue": "SOCRadar details E4del and PINHOLE RAT campaigns using FTP banners as dead drop resolvers to fetch commands and C2 details",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Frontier AI: Vulnerability Management's Systemic Revolution",
+    "link": "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html",
+    "published": "Tue, 25 Aug 2026 16:44:07 +0530",
+    "summary": "Vulnerability management has been a staple of security programs since the dawn of the cybersecurity discipline. The symbiotic relationship between vulnerability and patch management teams has also existed for that time and has gone through waves of contention and thankfulness. While this relationship required thoughtful care and feeding from both sides, both sides were aiming to work toward a",
+    "analysis": {
+      "issue": "Frontier AI models push vulnerability programs beyond CVSS, EPSS, and KEV toward exposure management and faster, automated patching",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access",
+    "link": "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html",
+    "published": "Tue, 25 Aug 2026 14:04:07 +0530",
+    "summary": "Bad actors are attempting to exploit two severe unauthenticated authentication bypasses in the Xecurify miniOrange SAML 2.0 Single Sign On plugin that make it possible for an attacker to sign in as any WordPress user, including administrators.\n\nThe vulnerabilities, as disclosed by Patchstack, are listed below -\n\n\n  CVE-2026-61979 (CVSS score: 8.1) - An unauthenticated privilege escalation",
+    "analysis": {
+      "issue": "Attackers are scanning for two miniOrange SAML flaws, including CVE-2026-15981, that can bypass login and grant WordPress admin access",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-15981"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
     "link": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html",
     "published": "Tue, 25 Aug 2026 11:42:35 +0530",
@@ -93,19 +185,19 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
-    "link": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html",
-    "published": "Mon, 24 Aug 2026 17:26:34 +0530",
-    "summary": "Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server that could allow an unauthenticated remote attacker to take over any user account by forcing a password reset.\n\nThe vulnerability, assigned the CVE identifier&nbsp;CVE-2026-18963, is rated 9.1 on the CVSS scoring system by Red Hat, which acts as",
+    "source": "Bleeping Computer",
+    "title": "Hackers breached over 270 Zimbra servers in ongoing attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-breached-over-270-zimbra-servers-in-ongoing-attacks/",
+    "published": "Tue, 25 Aug 2026 08:04:02 -0400",
+    "summary": "Threat actors have already compromised over 270 Zimbra instances in remote code execution attacks targeting a high-severity Zimbra Collaboration Suite (ZCS) vulnerability. [...]",
     "analysis": {
-      "issue": "Keycloak CVE-2026-18963 could let unauthenticated attackers skip the emailed action token and reset any user's password",
+      "issue": "Threat actors have already compromised over 270 Zimbra instances in remote code execution attacks targeting a high-severity Zimbra Collaboration Suite (ZCS) vulnerability",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [
-        "CVE-2026-18963"
+        "CVE-2026-73570"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -113,74 +205,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor",
-    "link": "https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html",
-    "published": "Mon, 24 Aug 2026 17:21:36 +0530",
-    "summary": "Cybersecurity researchers have flagged a cyber espionage campaign targeting Myanmar that uses graduation ceremony invitation lures to deliver a Go backdoor called QUICAgent.\n\nThe campaign, codenamed Operation QUICSILVER, has been found to target government and information technology sectors, per Seqrite Labs. The activity is assessed to be the work of a China-nexus threat actor with moderate",
+    "source": "Bleeping Computer",
+    "title": "Police arrests dozens of suspects in global cybercrime crackdown",
+    "link": "https://www.bleepingcomputer.com/news/security/police-arrests-dozens-of-suspects-in-global-cybercrime-crackdown/",
+    "published": "Tue, 25 Aug 2026 06:53:20 -0400",
+    "summary": "Law enforcement agencies from 22 countries helped identify 263 suspects and arrested 58 individuals linked to cybercrime networks coordinated by African crime groups. [...]",
     "analysis": {
-      "issue": "Operation QUICSILVER targets Myanmar government and IT sectors with graduation lures that deploy the Go-based QUICAgent backdoor",
+      "issue": "Law enforcement agencies from 22 countries helped identify 263 suspects and arrested 58 individuals linked to cybercrime networks coordinated by African crime groups",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk",
-    "link": "https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html",
-    "published": "Mon, 24 Aug 2026 17:00:00 +0530",
-    "summary": "Big security risks come in small packages. While enterprise security teams focus on policing the proliferation of employees using ChatGPT and Claude for quick drafting tasks, a more urgent threat is posed by a handful of AI super-adopters who are quietly hardcoding unvetted tools into critical business operations.\n\nAccording to new research published by Akamai, the top 5% of enterprise power",
-    "analysis": {
-      "issue": "Akamai finds the top 5% of enterprise AI users interact at 12 times the rate of the bottom 50%, concentrating shadow AI risk",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit",
-    "link": "https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html",
-    "published": "Mon, 24 Aug 2026 13:38:31 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a Chinese-speaking cybercrime group dubbed UAT-10147 that's targeting Windows and Linux web servers globally across the education, media, technology, and gaming sectors.\n\nThe vast majority of the targets are located in Brazil, Bolivia, China, Canada, and Vietnam. Details of the threat activity came to light following the discovery of an open",
-    "analysis": {
-      "issue": "UAT-10147 targets Windows and Linux servers with known flaws and AI tools, deploying malware for SEO fraud and data theft",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit",
-    "link": "https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html",
-    "published": "Sat, 22 Aug 2026 20:02:41 +0530",
-    "summary": "The U.S. Department of Justice (DoJ) announced on Friday that ByteDance-owned TikTok will pay $400 million to settle a 2024 lawsuit accusing the company of violating child privacy laws in the country.\n\nAs part of the settlement, the social media platform will pay $300 million immediately, and an additional $100 million \"upon entry of an order vacating a prior consent decree entered against",
-    "analysis": {
-      "issue": "TikTok will pay $400 million to settle a U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
+        "Ransomware"
       ]
     }
   },
@@ -217,8 +255,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-61979",
-        "CVE-2026-15981"
+        "CVE-2026-15981",
+        "CVE-2026-61979"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -336,43 +374,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Microsoft shares temporary fix for Windows 11 gaming issues",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/",
-    "published": "Mon, 24 Aug 2026 05:42:05 -0400",
-    "summary": "Microsoft has shared a temporary fix for ongoing gaming issues caused by Windows 11 updates released during the August 2026 Patch Tuesday. [...]",
-    "analysis": {
-      "issue": "Microsoft has shared a temporary fix for ongoing gaming issues caused by Windows 11 updates released during the August 2026 Patch Tuesday",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "ToxicPanda Android malware uses VPN permissions to block Google Play",
-    "link": "https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/",
-    "published": "Sun, 23 Aug 2026 10:23:46 -0400",
-    "summary": "The ToxicPanda Android malware has evolved with new malicious functionality, expanding its targeting to 349 applications and adding support for 167 remote commands. [...]",
-    "analysis": {
-      "issue": "The ToxicPanda Android malware has evolved with new malicious functionality, expanding its targeting to 349 applications and adding support for 167 remote commands",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Who’s Tracking You? Use This New Service to Find Out",
     "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
@@ -403,9 +404,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-62832",
         "CVE-2026-68820",
-        "CVE-2026-72971",
-        "CVE-2026-62832"
+        "CVE-2026-72971"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -418,7 +419,20 @@
     "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
     "link": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
     "published": "Thu, 06 Aug 2026 17:00:56 +0000",
-    "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&#038;T customers."
+    "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&#038;T customers.",
+    "analysis": {
+      "issue": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud provider Snowflake",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Phishing"
+      ]
+    }
   },
   {
     "source": "Krebs On Security",
@@ -469,10 +483,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50661",
-        "CVE-2026-48561",
+        "CVE-2026-56164",
         "CVE-2026-56155",
-        "CVE-2026-56164"
+        "CVE-2026-48561",
+        "CVE-2026-50661"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -485,7 +499,19 @@
     "title": "Lessons Learned from CISA’s Recent GitHub Leak",
     "link": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
     "published": "Mon, 13 Jul 2026 15:03:28 +0000",
-    "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response provide important lessons that all security teams should absorb."
+    "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response provide important lessons that all security teams should absorb.",
+    "analysis": {
+      "issue": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a recent data leak in which a contractor published dozens of internal CISA credentials — including AWS Govcloud keys — in a public GitHub repository for almost six",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability"
+      ]
+    }
   },
   {
     "source": "Krebs On Security",
@@ -529,7 +555,76 @@
     "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
     "link": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
     "published": "Tue, 23 Jun 2026 16:12:49 +0000",
-    "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as Scattered Spider, and their guilty pleas came on the first day of what was expected to be a six-week trial."
+    "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as Scattered Spider, and their guilty pleas came on the first day of what was expected to be a six-week trial.",
+    "analysis": {
+      "issue": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "First Malware Built Specifically for Car Head Units Fuels Botnet",
+    "link": "https://www.securityweek.com/first-malware-built-specifically-for-car-head-units-fuels-botnet/",
+    "published": "Tue, 25 Aug 2026 11:18:22 +0000",
+    "summary": "<p>Kaspersky researchers have linked the malware to the BadBox botnet, which has ensnared millions of devices.</p>\n<p>The post <a href=\"https://www.securityweek.com/first-malware-built-specifically-for-car-head-units-fuels-botnet/\">First Malware Built Specifically for Car Head Units Fuels Botnet</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Kaspersky researchers have linked the malware to the BadBox botnet, which has ensnared millions of devices",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Silent Patches Don’t Stop Attackers – They Blind Defenders",
+    "link": "https://www.securityweek.com/silent-patches-dont-stop-attackers-they-blind-defenders/",
+    "published": "Tue, 25 Aug 2026 10:00:00 +0000",
+    "summary": "<p>Silent patches can become exploit intelligence for attackers while leaving defenders without the context needed to prioritize risk.</p>\n<p>The post <a href=\"https://www.securityweek.com/silent-patches-dont-stop-attackers-they-blind-defenders/\">Silent Patches Don’t Stop Attackers &#8211; They Blind Defenders</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Silent patches can become exploit intelligence for attackers while leaving defenders without the context needed to prioritize risk",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Taiwan Charges 9 Over Illegal AI Server Exports to China, Including Nvidia and Super Micro Staff",
+    "link": "https://www.securityweek.com/taiwan-charges-9-over-illegal-ai-server-exports-to-china-including-nvidia-and-super-micro-staff/",
+    "published": "Tue, 25 Aug 2026 08:30:00 +0000",
+    "summary": "<p>AI infrastructure, including advanced semiconductors mostly made in Taiwan, has become a key point of competition between the U.S. and China.</p>\n<p>The post <a href=\"https://www.securityweek.com/taiwan-charges-9-over-illegal-ai-server-exports-to-china-including-nvidia-and-super-micro-staff/\">Taiwan Charges 9 Over Illegal AI Server Exports to China, Including Nvidia and Super Micro Staff</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "AI infrastructure, including advanced semiconductors mostly made in Taiwan, has become a key point of competition between the U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
   },
   {
     "source": "Security Week",
@@ -621,9 +716,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-59270",
         "CVE-2026-59285",
-        "CVE-2026-59318"
+        "CVE-2026-59318",
+        "CVE-2026-59270"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -671,13 +766,13 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Rethinking Application Security for the AI Era",
-    "link": "https://www.securityweek.com/rethinking-application-security-for-the-ai-era/",
-    "published": "Mon, 24 Aug 2026 10:00:00 +0000",
-    "summary": "<p>As AI dramatically shortens the time from vulnerability disclosure to exploitation, enterprises must look beyond patching to reduce application risk.</p>\n<p>The post <a href=\"https://www.securityweek.com/rethinking-application-security-for-the-ai-era/\">Rethinking Application Security for the AI Era</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "source": "Talos Blog",
+    "title": "The safety penalty: Reclaiming operational sovereignty in the age of AI",
+    "link": "https://blog.talosintelligence.com/the-safety-penalty-reclaiming-operational-sovereignty-in-the-age-of-ai/",
+    "published": "Tue, 25 Aug 2026 10:00:22 GMT",
+    "summary": "As frontier AI models become increasingly restrictive, security teams are facing a \"safety penalty\" that hampers real-time incident response. Discover how organizations can move toward operational sovereignty to ensure their defensive AI keeps pace with unconstrained adversaries.",
     "analysis": {
-      "issue": "As AI dramatically shortens the time from vulnerability disclosure to exploitation, enterprises must look beyond patching to reduce application risk",
+      "issue": "Cybersecurity has made a big bet on cloud-hosted AI",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -685,43 +780,7 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability",
-        "DDoS"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Iran-Linked Hackers Shut Down UK Power Plant for Four Days",
-    "link": "https://www.securityweek.com/iran-linked-hackers-shut-down-uk-power-plant-for-four-days/",
-    "published": "Mon, 24 Aug 2026 09:22:09 +0000",
-    "summary": "<p>The attack caused real-world operational disruption and raised concerns about the resilience of Britain’s distributed energy infrastructure and the potential for repeatable attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/iran-linked-hackers-shut-down-uk-power-plant-for-four-days/\">Iran-Linked Hackers Shut Down UK Power Plant for Four Days</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The attack caused real-world operational disruption and raised concerns about the resilience of Britain’s distributed energy infrastructure and the potential for repeatable attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "TikTok Reaches $400 Million Settlement With US Justice Department Over Children’s Privacy",
-    "link": "https://www.securityweek.com/tiktok-reaches-400-million-settlement-with-us-justice-department-over-childrens-privacy/",
-    "published": "Mon, 24 Aug 2026 09:11:11 +0000",
-    "summary": "<p>TikTok will pay $300 million immediately and another $100 million after an order vacates an earlier consent decree against its predecessor company, Musical.ly.</p>\n<p>The post <a href=\"https://www.securityweek.com/tiktok-reaches-400-million-settlement-with-us-justice-department-over-childrens-privacy/\">TikTok Reaches $400 Million Settlement With US Justice Department Over Children&#8217;s Privacy</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "TikTok will pay $300 million immediately and another $100 million after an order vacates an earlier consent decree against its predecessor company, Musical",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
+        "Malware"
       ]
     }
   },
@@ -848,10 +907,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-65665",
         "CVE-2026-62823",
-        "CVE-2026-68820",
-        "CVE-2026-62893"
+        "CVE-2026-62893",
+        "CVE-2026-65665",
+        "CVE-2026-68820"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -892,25 +951,6 @@
       "threat_categories": [
         "Vulnerability",
         "DDoS"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "[Webinar] Tales from the Frontlines: An exclusive briefing on Q2 incidents",
-    "link": "https://blog.talosintelligence.com/webinar-tales-from-the-frontlines-an-exclusive-briefing-on-q2-incidents/",
-    "published": "Mon, 03 Aug 2026 16:00:12 GMT",
-    "summary": "Register for an exclusive, unrecorded 30-minute webinar to review the most high-impact incidents Talos IR faced in Q2.",
-    "analysis": {
-      "issue": "Have you ever read the Talos IR Quarterly Trends report and wondered, “How did that phishing or ransomware campaign actually play out",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Phishing"
       ]
     }
   },
@@ -1292,6 +1332,42 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Grok fooled into stealing user chat, location data, and more",
+    "link": "https://www.malwarebytes.com/blog/ai/2026/08/encrypted-instructions-can-fool-ai-assistants-like-grok-and-gemini",
+    "published": "Tue, 25 Aug 2026 11:34:18 GMT",
+    "summary": "Researchers found that prompt injection attacks can hide malicious instructions in encrypted text to get them past AI guardrails.",
+    "analysis": {
+      "issue": "A new type of prompt injection attack shows why giving AI assistants access to browsers, code tools, and private data deserves extra caution",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "GTA 6 leak hunt could expose data belonging to thousands of Discord users",
+    "link": "https://www.malwarebytes.com/blog/privacy/2026/08/gta-6-leak-hunt-could-expose-data-belonging-to-thousands-of-discord-users",
+    "published": "Tue, 25 Aug 2026 10:01:08 GMT",
+    "summary": "Take-Two is demanding IP addresses, phone numbers, device IDs, and other data as it tries to identify whoever leaked GTA 6 footage.",
+    "analysis": {
+      "issue": "Someone leaked footage of the upcoming game Grand Theft Auto (GTA) 6 this month, and the game’s publisher badly wants to know who",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "TikTok phishing: How to spot fake login and verification pages",
     "link": "https://www.malwarebytes.com/blog/threat-intel/2026/08/tiktok-phishing-how-to-spot-fake-login-and-verification-pages",
     "published": "Tue, 25 Aug 2026 08:00:00 GMT",
@@ -1435,43 +1511,6 @@
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Zombie Card: An expired Visa credit card can be used for purchases",
-    "link": "https://www.malwarebytes.com/blog/news/2026/08/zombie-card-an-expired-visa-credit-card-can-be-used-for-purchases",
-    "published": "Fri, 21 Aug 2026 14:03:48 GMT",
-    "summary": "Scientific research showed that the expiration date on some Visa credit cards can be manipulated in so-called Zombie Card attacks.",
-    "analysis": {
-      "issue": "Did you know there is still a good reason to physically destroy your expired credit card",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Medical records, SSNs, and bank details exposed in CareCloud data breach",
-    "link": "https://www.malwarebytes.com/blog/news/2026/08/medical-records-ssns-and-bank-details-exposed-in-carecloud-data-breach",
-    "published": "Fri, 21 Aug 2026 11:50:55 GMT",
-    "summary": "Healthcare technology provider CareCloud confirmed that 3.75 million people were affected by a March data breach.",
-    "analysis": {
-      "issue": "Healthcare technology giant CareCloud has confirmed that a data breach earlier this year impacted more than 3",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
         "Malware"
       ]
     }
