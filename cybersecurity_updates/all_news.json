@@ -1,6 +1,62 @@
 [
   {
     "source": "The Hacker News",
+    "title": "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw",
+    "link": "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html",
+    "published": "Tue, 25 Aug 2026 19:37:37 +0530",
+    "summary": "Oasis Security has disclosed a weakness in NVIDIA NemoClaw that could let an attacker-controlled webpage take unauthenticated control of the local Ollama instance serving an AI agent and plant hidden instructions inside the model itself.\n\nThe findings were shared with The Hacker News ahead of publication, and the report says Oasis Security reported them to NVIDIA's Product Security Incident",
+    "analysis": {
+      "issue": "NVIDIA NemoClaw's Windows-host Ollama path exposes an unauthenticated API that DNS rebinding could use to plant persistent model instructions",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android",
+    "link": "https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html",
+    "published": "Tue, 25 Aug 2026 18:49:41 +0530",
+    "summary": "Meta on Tuesday announced a set of WhatsApp account security features, including support for multiple passkeys to a single account to help users with both iOS and Android devices sign into their accounts using the phishing-resistant method.\n\nThe tech giant said more than 1 billion people use a passkey to log into WhatsApp. Support for passkeys was first introduced in Android in October 2023,",
+    "analysis": {
+      "issue": "WhatsApp adds multiple passkeys per account, full-password two-step verification, and richer Android caller context for unknown contacts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode",
+    "link": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html",
+    "published": "Tue, 25 Aug 2026 18:13:51 +0530",
+    "summary": "Marimo has addressed a high-severity security flaw in its notebook software that allowed an attacker to execute an attacker-supplied Model Context Protocol (MCP) command in a specially crafted notebook, according to VulnCheck's CVE Numbering Authority (CNA) record.\n\nThe CNA record says the command can run as a local subprocess when the notebook is opened in edit mode.\n\nThe vulnerability, tracked",
+    "analysis": {
+      "issue": "Marimo fixes CVE-2026-75149, an 8",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-75149"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows",
     "link": "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html",
     "published": "Tue, 25 Aug 2026 17:26:15 +0530",
@@ -130,31 +186,49 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning",
-    "link": "https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html",
-    "published": "Mon, 24 Aug 2026 23:11:11 +0530",
-    "summary": "Cybersecurity researchers have found that several websites are still actively distributing a malware family known as Weedhack to gamers by masquerading as Minecraft clients.\n\nMcAfee Labs said it detected and blocked more than 6,300 attempts to access malicious sites, adding that it found lookalike gaming websites designed to mimic legitimate projects, including branding, feature lists, FAQs,",
+    "source": "Bleeping Computer",
+    "title": "Massive DDoS attack disrupts Norway’s government digital services",
+    "link": "https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/",
+    "published": "Tue, 25 Aug 2026 11:52:36 -0400",
+    "summary": "A large distributed denial-of-service (DDoS) attack has disrupted Norway's shared government digital infrastructure since Monday, affecting services used by the public sector. [...]",
     "analysis": {
-      "issue": "Weedhack spreads through fake Minecraft client sites and SEO poisoning, with McAfee blocking more than 6,300 attempts to reach malicious URLs",
+      "issue": "A large distributed denial-of-service (DDoS) attack has disrupted Norway’s shared government digital infrastructure since Monday, affecting services used by the public sector",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "DDoS"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "⚡ Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More",
-    "link": "https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html",
-    "published": "Mon, 24 Aug 2026 20:02:10 +0530",
-    "summary": "A package gets installed. A login prompt opens. A box sits exposed to the internet. Nothing looks unusual yet.\n\nThat’s roughly the mood this week. Trusted tools turn hostile, old weak spots get fresh attention, AI makes exploit work cheaper, and researchers keep finding attacks that sound harder than they actually are.\n\nPlenty to clean up. Here’s the short version.\n\n⚡ Threat of the Week\n\nU.S.",
+    "source": "Bleeping Computer",
+    "title": "Hospital operator Nutex Health says data stolen in cyberattack",
+    "link": "https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/",
+    "published": "Tue, 25 Aug 2026 10:44:16 -0400",
+    "summary": "Healthcare and services provider Nutex is investigating a data breach incident where an unauthorized third party exfiltrated information from company servers. [...]",
     "analysis": {
-      "issue": "AI-powered PLC attacks, GitLab exploits, npm backdoors, cloud leaks, auth abuse, and payment fraud lead this week’s cybersecurity recap",
+      "issue": "Healthcare and services provider Nutex is investigating a data breach incident where an unauthorized third party exfiltrated information from company servers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "From Fake Workers to Account Recovery: The Growing Identity Verification Risk",
+    "link": "https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/",
+    "published": "Tue, 25 Aug 2026 10:01:11 -0400",
+    "summary": "Attackers are increasingly targeting the processes used to establish or recover identity rather than attacking the login itself. Specops explains how stronger identity verification can help organizations prevent fake workers and social engineering attacks from gaining legitimate access. [...]",
+    "analysis": {
+      "issue": "Security teams have spent years hardening authentication, with controls like multi-factor authentication (MFA) and conditional access now commonplace",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -162,25 +236,43 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability",
-        "Malware"
+        "Phishing"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords",
-    "link": "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html",
-    "published": "Mon, 24 Aug 2026 18:05:36 +0530",
-    "summary": "Cybersecurity researchers have flagged two new malware families called  WordlistLoader and SynkLoader that's used to deliver next-stage payloads and likely sell access to ransomware groups.\n\nAccording to findings from Gen Digital, WordlistLoader is being used to deliver Amatera Stealer (aka ACR Stealer or AcridRain Stealer) via ClearFake campaigns, which employ the ClickFix (aka FakeCaptcha)",
+    "source": "Bleeping Computer",
+    "title": "Microsoft PowerToys adds Alt+Tab-style switching for an app's windows",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-alt-plustab-style-switching-for-an-apps-windows/",
+    "published": "Tue, 25 Aug 2026 09:51:58 -0400",
+    "summary": "Microsoft updated its Windows PowerToys toolset with a new utility dubbed \"Window Hopper\" that lets users switch between an app's windows more quickly. [...]",
     "analysis": {
-      "issue": "WordlistLoader delivers Amatera via ClearFake ClickFix attacks, while SynkLoader uses Teams phishing to steal Windows login credentials",
+      "issue": "Microsoft updated its Windows PowerToys toolset with a new utility dubbed \"Window Hopper\" that lets users switch between an app's windows more quickly",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Phishing"
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "WhatsApp adds stronger two-step verification, multiple passkeys",
+    "link": "https://www.bleepingcomputer.com/news/security/whatsapp-adds-stronger-two-step-verification-multiple-passkeys/",
+    "published": "Tue, 25 Aug 2026 09:00:00 -0400",
+    "summary": "WhatsApp has started rolling out several new account security features, including support for multiple passkeys and stronger two-step verification. [...]",
+    "analysis": {
+      "issue": "WhatsApp has started rolling out several new account security features, including support for multiple passkeys and stronger two-step verification",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -282,98 +374,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "ReliaQuest confirms failed data-theft attack after ShinyHunters breach",
-    "link": "https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/",
-    "published": "Mon, 24 Aug 2026 11:17:16 -0400",
-    "summary": "Cybersecurity company ReliaQuest has confirmed that one of its employees was targeted in a social engineering attack after hackers impersonated a member of the security team. [...]",
-    "analysis": {
-      "issue": "Cybersecurity company ReliaQuest has confirmed that one of its employees was targeted in a social engineering attack after hackers impersonated a member of the security team",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft Teams now lets admins block external bots from meetings",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/",
-    "published": "Mon, 24 Aug 2026 10:00:19 -0400",
-    "summary": "Microsoft is rolling out a new Teams meeting protection policy that allows administrators to automatically block all identified external bots from joining Teams meetings. [...]",
-    "analysis": {
-      "issue": "Microsoft is rolling out a new Teams meeting protection policy that allows administrators to automatically block all identified external bots from joining Teams meetings",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "South Korean startup platform breach exposes key management failures",
-    "link": "https://www.bleepingcomputer.com/news/security/south-korean-startup-platform-breach-exposes-key-management-failures/",
-    "published": "Mon, 24 Aug 2026 10:00:10 -0400",
-    "summary": "A breach at South Korea's government-backed startup platform exposed encrypted personal data after an encryption key was included in an API. Penta Security explains why encryption keys must be securely managed and kept separate from the data they protect. [...]",
-    "analysis": {
-      "issue": "In July, South Korea’s government-backed startup support platform, Modu-ui Changup (모두의창업), suffered a data breach",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft: August updates break printing, PDF export in WPF apps",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps/",
-    "published": "Mon, 24 Aug 2026 08:40:21 -0400",
-    "summary": "Microsoft has confirmed that .NET Framework updates released as part of the August 2026 Patch Tuesday are breaking printing and PDF export in WPF applications. [...]",
-    "analysis": {
-      "issue": "NET Framework updates released as part of the August 2026 Patch Tuesday are breaking printing and PDF export in some applications",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA orders urgent patching of actively exploited Zimbra flaw",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/",
-    "published": "Mon, 24 Aug 2026 06:45:12 -0400",
-    "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies to patch an actively exploited vulnerability in Zimbra Collaboration Suite (ZCS) within three days. [...]",
-    "analysis": {
-      "issue": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-73570"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Who’s Tracking You? Use This New Service to Find Out",
     "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
@@ -404,9 +404,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-62832",
+        "CVE-2026-72971",
         "CVE-2026-68820",
-        "CVE-2026-72971"
+        "CVE-2026-62832"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -483,10 +483,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56164",
         "CVE-2026-56155",
-        "CVE-2026-48561",
-        "CVE-2026-50661"
+        "CVE-2026-56164",
+        "CVE-2026-50661",
+        "CVE-2026-48561"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -566,6 +566,100 @@
       "threat_categories": [
         "Ransomware",
         "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Linux Foundation to Govern TRACE, an Open Standard for AI Runtime Attestation",
+    "link": "https://www.securityweek.com/linux-foundation-to-govern-trace-an-open-standard-for-ai-runtime-attestation/",
+    "published": "Tue, 25 Aug 2026 16:23:45 +0000",
+    "summary": "<p>TRACE was developed by AMD, Intel, Microsoft, OPAQUE, and TII and contributed to the Linux Foundation.</p>\n<p>The post <a href=\"https://www.securityweek.com/linux-foundation-to-govern-trace-an-open-standard-for-ai-runtime-attestation/\">Linux Foundation to Govern TRACE, an Open Standard for AI Runtime Attestation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "TRACE was developed by AMD, Intel, Microsoft, OPAQUE, and TII and contributed to the Linux Foundation",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Alice Raises $140M to Expand AI Model Defenses and Enterprise Guardrails",
+    "link": "https://www.securityweek.com/alice-raises-140m-to-expand-ai-model-defenses-and-enterprise-guardrails/",
+    "published": "Tue, 25 Aug 2026 14:11:59 +0000",
+    "summary": "<p>The company, previously known as ActiveFence, has raised a total of $280 million from investors.</p>\n<p>The post <a href=\"https://www.securityweek.com/alice-raises-140m-to-expand-ai-model-defenses-and-enterprise-guardrails/\">Alice Raises $140M to Expand AI Model Defenses and Enterprise Guardrails</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The company, previously known as ActiveFence, has raised a total of $280 million from investors",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities",
+    "link": "https://www.securityweek.com/wordpress-websites-targeted-via-miniorange-plugin-vulnerabilities/",
+    "published": "Tue, 25 Aug 2026 13:33:12 +0000",
+    "summary": "<p>CVE-2026-61979 and CVE-2026-15981 are authentication bypass vulnerabilities affecting the MiniOrange SAML 2.0 SSO plugin.</p>\n<p>The post <a href=\"https://www.securityweek.com/wordpress-websites-targeted-via-miniorange-plugin-vulnerabilities/\">WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "CVE-2026-61979 and CVE-2026-15981 are authentication bypass vulnerabilities affecting the MiniOrange SAML 2",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-15981",
+        "CVE-2026-61979"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "WhatsApp Adds Multiple Passkeys and Stronger 2SV in Account Security Update",
+    "link": "https://www.securityweek.com/whatsapp-adds-multiple-passkeys-and-stronger-2sv-in-account-security-update/",
+    "published": "Tue, 25 Aug 2026 13:00:00 +0000",
+    "summary": "<p>When Android users get a call from a non-contact, they will see more information about the caller, including their country.</p>\n<p>The post <a href=\"https://www.securityweek.com/whatsapp-adds-multiple-passkeys-and-stronger-2sv-in-account-security-update/\">WhatsApp Adds Multiple Passkeys and Stronger 2SV in Account Security Update</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "When Android users get a call from a non-contact, they will see more information about the caller, including their country",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Hands-On Cyber-Physical Systems Training Returns to ICS Cybersecurity Conference",
+    "link": "https://www.securityweek.com/hands-on-cyber-physical-systems-training-returns-to-ics-cybersecurity-conference/",
+    "published": "Tue, 25 Aug 2026 12:57:59 +0000",
+    "summary": "<p>Hands-on Cyber Attack Methods course returns to SecurityWeek’s ICS Cybersecurity Conference, October 6–8 at the W Nashville.</p>\n<p>The post <a href=\"https://www.securityweek.com/hands-on-cyber-physical-systems-training-returns-to-ics-cybersecurity-conference/\">Hands-On Cyber-Physical Systems Training Returns to ICS Cybersecurity Conference</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Hands-on Cyber Attack Methods course returns to SecurityWeek’s ICS Cybersecurity Conference, October 6–8 at the W Nashville",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "APT"
       ]
     }
   },
@@ -659,104 +753,6 @@
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Hired for One Job, Judged on Another: The CISO’s Real Problem",
-    "link": "https://www.securityweek.com/hired-for-one-job-judged-on-another-the-cisos-real-problem/",
-    "published": "Mon, 24 Aug 2026 14:00:00 +0000",
-    "summary": "<p>The skills that get a CISO hired are rarely the skills they are judged on later. Most security leaders are stuck in that gap. Closing it is the real job.</p>\n<p>The post <a href=\"https://www.securityweek.com/hired-for-one-job-judged-on-another-the-cisos-real-problem/\">Hired for One Job, Judged on Another: The CISO’s Real Problem</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The skills that get a CISO hired are rarely the skills they are judged on later",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Uber Fined Nearly $1 Billion by Dutch Regulators Over Automated Suspensions of Driver Accounts",
-    "link": "https://www.securityweek.com/uber-fined-nearly-1-billion-by-dutch-regulators-over-automated-suspensions-of-driver-accounts/",
-    "published": "Mon, 24 Aug 2026 12:42:09 +0000",
-    "summary": "<p>Dutch Data Protection Authority said it is imposing a fine of 825 million euros because Uber violated the EU’s General Data Protection Regulation.</p>\n<p>The post <a href=\"https://www.securityweek.com/uber-fined-nearly-1-billion-by-dutch-regulators-over-automated-suspensions-of-driver-accounts/\">Uber Fined Nearly $1 Billion by Dutch Regulators Over Automated Suspensions of Driver Accounts</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Dutch Data Protection Authority said it is imposing a fine of 825 million euros because Uber violated the EU’s General Data Protection Regulation",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "91 Vulnerabilities Patched in Spring Application Framework",
-    "link": "https://www.securityweek.com/91-vulnerabilities-patched-in-spring-application-framework/",
-    "published": "Mon, 24 Aug 2026 11:58:28 +0000",
-    "summary": "<p>More than 200 vulnerabilities have been patched to date this year, compared to only 16 in 2025 and 22 in 2024. </p>\n<p>The post <a href=\"https://www.securityweek.com/91-vulnerabilities-patched-in-spring-application-framework/\">91 Vulnerabilities Patched in Spring Application Framework</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "More than 200 vulnerabilities have been patched to date this year, compared to only 16 in 2025 and 22 in 2024",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-59285",
-        "CVE-2026-59318",
-        "CVE-2026-59270"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Venezuelan Gets Record Federal Prison Term for ATM Jackpotting",
-    "link": "https://www.securityweek.com/venezuelan-gets-record-federal-prison-term-for-atm-jackpotting/",
-    "published": "Mon, 24 Aug 2026 10:59:30 +0000",
-    "summary": "<p>Juan Manuel Gouveia-Aguilera has been sentenced to 8 years in prison for his role in an ATM jackpotting scheme that caused millions in losses.</p>\n<p>The post <a href=\"https://www.securityweek.com/venezuelan-gets-record-federal-prison-term-for-atm-jackpotting/\">Venezuelan Gets Record Federal Prison Term for ATM Jackpotting</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Juan Manuel Gouveia-Aguilera has been sentenced to 8 years in prison for his role in an ATM jackpotting scheme that caused millions in losses",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Personal Information Exposed in Apollo Global Data Breach",
-    "link": "https://www.securityweek.com/personal-information-exposed-in-apollo-global-data-breach/",
-    "published": "Mon, 24 Aug 2026 10:08:42 +0000",
-    "summary": "<p>The private equity firm appears to have been targeted as part of a campaign focusing on major financial companies.</p>\n<p>The post <a href=\"https://www.securityweek.com/personal-information-exposed-in-apollo-global-data-breach/\">Personal Information Exposed in Apollo Global Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The private equity firm appears to have been targeted as part of a campaign focusing on major financial companies",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
       "cves": [],
       "threat_categories": [
         "Ransomware",
@@ -907,10 +903,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-62823",
-        "CVE-2026-62893",
         "CVE-2026-65665",
-        "CVE-2026-68820"
+        "CVE-2026-62823",
+        "CVE-2026-68820",
+        "CVE-2026-62893"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -951,6 +947,24 @@
       "threat_categories": [
         "Vulnerability",
         "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "Mexico’s Cybersecurity Plan 2025-2030: Turning Ambition Into Defense",
+    "link": "https://www.recordedfuture.com/blog/mexico-cybersecurity-plan",
+    "published": "Tue, 25 Aug 2026 00:00:00 GMT",
+    "summary": "Explore Mexico’s 2025–2030 Cybersecurity Plan. Learn about key threats, including ransomware, and the roadmap for building durable national cyber defenses.",
+    "analysis": {
+      "issue": "Explore Mexico’s 2025–2030 Cybersecurity Plan",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
       ]
     }
   },
@@ -1106,24 +1120,6 @@
     "summary": "Discover the security lessons from the recent incident where autonomous AI agents breached Hugging Face infrastructure.",
     "analysis": {
       "issue": "Discover the security lessons from the recent incident where autonomous AI agents breached Hugging Face infrastructure",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "8 Ways AI is Changing Threat Intelligence",
-    "link": "https://www.recordedfuture.com/blog/ai-changing-threat-intelligence",
-    "published": "Mon, 03 Aug 2026 00:00:00 GMT",
-    "summary": "Explore eight key ways that AI is reshaping the threat intelligence landscape, from creating speed and stealth advantages for adversaries to helping defenders better prioritize threats and allocate resources.",
-    "analysis": {
-      "issue": "Explore eight key ways that AI is reshaping the threat intelligence landscape, from creating speed and stealth advantages for adversaries to helping defenders better prioritize threats and allocate resources",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1301,8 +1297,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
