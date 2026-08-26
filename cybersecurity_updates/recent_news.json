@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches",
+    "link": "https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html",
+    "published": "Tue, 25 Aug 2026 23:47:17 +0530",
+    "summary": "The U.S. Department of the Treasury has announced fresh sanctions on Iranian cyber actors as part of what it called an \"unprecedented, whole-of-government, economic campaign\" against the nation and its enablers.\n\n\"We are launching an economic onslaught against Iran's financial connections around the globe. Our objective is to sever every economic lifeline that sustains this tyrannical regime",
+    "analysis": {
+      "issue": "Treasury sanctions Iran-linked cyber actors under Operation Economic Outcast, targeting MOIS-linked hackers tied to U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw",
     "link": "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html",
     "published": "Tue, 25 Aug 2026 19:37:37 +0530",
@@ -168,20 +186,58 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
-    "link": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
-    "published": "Mon, 24 Aug 2026 23:11:30 +0530",
-    "summary": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work.\n\nThe harder part is what comes after. AI can also introduce open-source packages at a pace your security team was never built to handle. More dependencies mean more vulnerabilities to review, more remediation work, and a backlog that can",
+    "source": "Bleeping Computer",
+    "title": "LACMA data breach last year exposed social security and medical data",
+    "link": "https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/",
+    "published": "Tue, 25 Aug 2026 17:58:14 -0400",
+    "summary": "The Los Angeles County Museum of Art (LACMA) has announced that a breach last year exposed customer and employee information. [...]",
     "analysis": {
-      "issue": "ActiveState surveys 300 security and engineering leaders on AI coding, open-source remediation debt, governance, and business risk",
+      "issue": "The Los Angeles County Museum of Art (LACMA) has announced that a breach last year exposed customer and employee information",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Hackers abuse npm mirrors to host phishing redirect pages",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages/",
+    "published": "Tue, 25 Aug 2026 17:39:01 -0400",
+    "summary": "Threat actors are abusing npm and its mirrors to host malicious HTML pages that impersonate Cloudflare CAPTCHAs to redirect visitors to attacker-controlled websites. [...]",
+    "analysis": {
+      "issue": "Threat actors are abusing npm and its mirrors to host malicious HTML pages that impersonate Cloudflare CAPTCHAs to redirect visitors to attacker-controlled websites",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "AnonyMousKIT PhaaS uses voice AI agents to phish iPhone passcodes",
+    "link": "https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/",
+    "published": "Tue, 25 Aug 2026 16:25:26 -0400",
+    "summary": "A newly uncovered phishing-as-a-service (PhaaS) platform called AnonyMousKIT automates the retrieval of codes used to unlock stolen Apple devices and disable the Activation Lock feature. [...]",
+    "analysis": {
+      "issue": "A newly uncovered phishing-as-a-service (PhaaS) platform called AnonyMousKIT automates the retrieval of codes used to unlock stolen Apple devices and disable the Activation Lock feature",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
       ]
     }
   },
@@ -315,65 +371,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
-    "link": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
-    "published": "Mon, 24 Aug 2026 17:14:30 -0400",
-    "summary": "An unpatched vulnerability in Calix GS7 XGS (GS5239XG) residential routers used by multiple U.S. broadband providers allows remote, unauthenticated attackers to create port-forwarding rules that can expose local network devices to the public internet. [...]",
-    "analysis": {
-      "issue": "An unpatched vulnerability in Calix GS7 XGS (GS5239XG) residential routers used by multiple U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-75501"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers target WordPress sites in miniOrange auth bypass attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/",
-    "published": "Mon, 24 Aug 2026 15:26:32 -0400",
-    "summary": "Hackers are attempting to exploit two critical authentication bypass vulnerabilities in the miniOrange SAML 2.0 Single Sign On plugin for WordPress that can be used to forge SAML responses and log in as administrators. [...]",
-    "analysis": {
-      "issue": "Hackers are attempting to exploit two critical authentication bypass vulnerabilities in the miniOrange SAML 2",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-15981",
-        "CVE-2026-61979"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "TikTok reaches $400M settlement with US over COPPA violations",
-    "link": "https://www.bleepingcomputer.com/news/legal/tiktok-reaches-400m-settlement-with-us-over-coppa-violations/",
-    "published": "Mon, 24 Aug 2026 13:56:24 -0400",
-    "summary": "The U.S. Department of Justice announced a $400 million settlement with TikTok, ByteDance, and affiliated companies over allegations that they violated the Children's Online Privacy Protection Act (COPPA). [...]",
-    "analysis": {
-      "issue": "Department of Justice announced a $400 million settlement with TikTok, ByteDance, and affiliated companies over allegations that they violated the Children’s Online Privacy Protection Act (COPPA)",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Who’s Tracking You? Use This New Service to Find Out",
     "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
@@ -405,8 +402,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-72971",
-        "CVE-2026-68820",
-        "CVE-2026-62832"
+        "CVE-2026-62832",
+        "CVE-2026-68820"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -483,8 +480,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56155",
         "CVE-2026-56164",
+        "CVE-2026-56155",
         "CVE-2026-50661",
         "CVE-2026-48561"
       ],
@@ -618,8 +615,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-15981",
-        "CVE-2026-61979"
+        "CVE-2026-61979",
+        "CVE-2026-15981"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -904,9 +901,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-65665",
+        "CVE-2026-62893",
         "CVE-2026-62823",
-        "CVE-2026-68820",
-        "CVE-2026-62893"
+        "CVE-2026-68820"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1297,8 +1294,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",

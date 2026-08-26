@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-25 17:05:09 UTC
+**Last Updated:** 2026-08-26 01:41:32 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw](https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html)
+### 1. [U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches](https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 25 Aug 2026 23:47:17 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw](https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 25 Aug 2026 19:37:37 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android](https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html)
+### 3. [WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android](https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 25 Aug 2026 18:49:41 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode](https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html)
+### 4. [Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode](https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 25 Aug 2026 18:13:51 +0530  
@@ -32,7 +41,7 @@
 
 ---
 
-### 4. [Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows](https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html)
+### 5. [Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows](https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 25 Aug 2026 17:26:15 +0530  
@@ -41,7 +50,7 @@
 
 ---
 
-### 5. [24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages](https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html)
+### 6. [24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages](https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 25 Aug 2026 17:22:43 +0530  
@@ -50,7 +59,7 @@
 
 ---
 
-### 6. [E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands](https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html)
+### 7. [E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands](https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 25 Aug 2026 17:03:44 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [Frontier AI: Vulnerability Management's Systemic Revolution](https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html)
+### 8. [Frontier AI: Vulnerability Management's Systemic Revolution](https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 25 Aug 2026 16:44:07 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access](https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html)
+### 9. [Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access](https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 25 Aug 2026 14:04:07 +0530  
@@ -78,7 +87,7 @@
 
 ---
 
-### 9. [Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data](https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html)
+### 10. [Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data](https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 25 Aug 2026 11:42:35 +0530  
@@ -88,16 +97,34 @@
 
 ---
 
-### 10. [Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt](https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html)
+### 11. [LACMA data breach last year exposed social security and medical data](https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/)
 
-**Source:** The Hacker News  
-**Published:** Mon, 24 Aug 2026 23:11:30 +0530  
+**Source:** Bleeping Computer  
+**Published:** Tue, 25 Aug 2026 17:58:14 -0400  
 **Severity:** Low  
-**Categories:** General Security  
+**Categories:** Data Breach  
 
 ---
 
-### 11. [Massive DDoS attack disrupts Norway’s government digital services](https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/)
+### 12. [Hackers abuse npm mirrors to host phishing redirect pages](https://www.bleepingcomputer.com/news/security/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 25 Aug 2026 17:39:01 -0400  
+**Severity:** Low  
+**Categories:** Malware, Phishing, APT  
+
+---
+
+### 13. [AnonyMousKIT PhaaS uses voice AI agents to phish iPhone passcodes](https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 25 Aug 2026 16:25:26 -0400  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 14. [Massive DDoS attack disrupts Norway’s government digital services](https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 25 Aug 2026 11:52:36 -0400  
@@ -106,7 +133,7 @@
 
 ---
 
-### 12. [Hospital operator Nutex Health says data stolen in cyberattack](https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/)
+### 15. [Hospital operator Nutex Health says data stolen in cyberattack](https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 25 Aug 2026 10:44:16 -0400  
@@ -115,7 +142,7 @@
 
 ---
 
-### 13. [From Fake Workers to Account Recovery: The Growing Identity Verification Risk](https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/)
+### 16. [From Fake Workers to Account Recovery: The Growing Identity Verification Risk](https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 25 Aug 2026 10:01:11 -0400  
@@ -124,7 +151,7 @@
 
 ---
 
-### 14. [Microsoft PowerToys adds Alt+Tab-style switching for an app's windows](https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-alt-plustab-style-switching-for-an-apps-windows/)
+### 17. [Microsoft PowerToys adds Alt+Tab-style switching for an app's windows](https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-alt-plustab-style-switching-for-an-apps-windows/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 25 Aug 2026 09:51:58 -0400  
@@ -133,7 +160,7 @@
 
 ---
 
-### 15. [WhatsApp adds stronger two-step verification, multiple passkeys](https://www.bleepingcomputer.com/news/security/whatsapp-adds-stronger-two-step-verification-multiple-passkeys/)
+### 18. [WhatsApp adds stronger two-step verification, multiple passkeys](https://www.bleepingcomputer.com/news/security/whatsapp-adds-stronger-two-step-verification-multiple-passkeys/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 25 Aug 2026 09:00:00 -0400  
@@ -142,7 +169,7 @@
 
 ---
 
-### 16. [Hackers breached over 270 Zimbra servers in ongoing attacks](https://www.bleepingcomputer.com/news/security/hackers-breached-over-270-zimbra-servers-in-ongoing-attacks/)
+### 19. [Hackers breached over 270 Zimbra servers in ongoing attacks](https://www.bleepingcomputer.com/news/security/hackers-breached-over-270-zimbra-servers-in-ongoing-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 25 Aug 2026 08:04:02 -0400  
@@ -152,41 +179,12 @@
 
 ---
 
-### 17. [Police arrests dozens of suspects in global cybercrime crackdown](https://www.bleepingcomputer.com/news/security/police-arrests-dozens-of-suspects-in-global-cybercrime-crackdown/)
+### 20. [Police arrests dozens of suspects in global cybercrime crackdown](https://www.bleepingcomputer.com/news/security/police-arrests-dozens-of-suspects-in-global-cybercrime-crackdown/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 25 Aug 2026 06:53:20 -0400  
 **Severity:** High  
 **Categories:** Ransomware  
-
----
-
-### 18. [Unpatched Calix flaw lets hackers bypass NAT to expose internal devices](https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 24 Aug 2026 17:14:30 -0400  
-**Severity:** Low  
-**CVEs:** CVE-2026-75501  
-**Categories:** Vulnerability  
-
----
-
-### 19. [Hackers target WordPress sites in miniOrange auth bypass attacks](https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 24 Aug 2026 15:26:32 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-15981, CVE-2026-61979  
-**Categories:** Vulnerability  
-
----
-
-### 20. [TikTok reaches $400M settlement with US over COPPA violations](https://www.bleepingcomputer.com/news/legal/tiktok-reaches-400m-settlement-with-us-over-coppa-violations/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 24 Aug 2026 13:56:24 -0400  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -204,7 +202,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-72971, CVE-2026-68820, CVE-2026-62832  
+**CVEs:** CVE-2026-72971, CVE-2026-62832, CVE-2026-68820  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -241,7 +239,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56155, CVE-2026-56164, CVE-2026-50661, CVE-2026-48561  
+**CVEs:** CVE-2026-56164, CVE-2026-56155, CVE-2026-50661, CVE-2026-48561  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -305,7 +303,7 @@
 **Source:** Security Week  
 **Published:** Tue, 25 Aug 2026 13:33:12 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-15981, CVE-2026-61979  
+**CVEs:** CVE-2026-61979, CVE-2026-15981  
 **Categories:** Vulnerability  
 
 ---
@@ -442,7 +440,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 11 Aug 2026 22:21:02 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-65665, CVE-2026-62823, CVE-2026-68820, CVE-2026-62893  
+**CVEs:** CVE-2026-65665, CVE-2026-62893, CVE-2026-62823, CVE-2026-68820  
 **Categories:** Vulnerability  
 
 ---
@@ -635,7 +633,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
