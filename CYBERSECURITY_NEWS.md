@@ -1,10 +1,47 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-26 02:09:07 UTC
+**Last Updated:** 2026-08-26 09:12:02 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches](https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html)
+### 1. [INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown](https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 26 Aug 2026 13:24:12 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Newly SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode](https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 26 Aug 2026 12:42:55 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 3. [Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload](https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 26 Aug 2026 11:57:07 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-60004  
+**Categories:** Vulnerability  
+
+---
+
+### 4. [Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes](https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 26 Aug 2026 11:17:28 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 5. [U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches](https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 25 Aug 2026 23:47:17 +0530  
@@ -13,7 +50,7 @@
 
 ---
 
-### 2. [A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw](https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html)
+### 6. [A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw](https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 25 Aug 2026 19:37:37 +0530  
@@ -22,7 +59,7 @@
 
 ---
 
-### 3. [WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android](https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html)
+### 7. [WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android](https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 25 Aug 2026 18:49:41 +0530  
@@ -31,7 +68,7 @@
 
 ---
 
-### 4. [Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode](https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html)
+### 8. [Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode](https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 25 Aug 2026 18:13:51 +0530  
@@ -41,7 +78,7 @@
 
 ---
 
-### 5. [Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows](https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html)
+### 9. [Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows](https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 25 Aug 2026 17:26:15 +0530  
@@ -50,50 +87,12 @@
 
 ---
 
-### 6. [24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages](https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html)
+### 10. [24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages](https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 25 Aug 2026 17:22:43 +0530  
 **Severity:** Low  
 **Categories:** APT  
-
----
-
-### 7. [E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands](https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 25 Aug 2026 17:03:44 +0530  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 8. [Frontier AI: Vulnerability Management's Systemic Revolution](https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 25 Aug 2026 16:44:07 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 9. [Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access](https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 25 Aug 2026 14:04:07 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-15981  
-**Categories:** Vulnerability  
-
----
-
-### 10. [Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data](https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 25 Aug 2026 11:42:35 +0530  
-**Severity:** Critical  
-**CVEs:** CVE-2026-21962  
-**Categories:** Vulnerability  
 
 ---
 
@@ -202,7 +201,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62832, CVE-2026-68820, CVE-2026-72971  
+**CVEs:** CVE-2026-62832, CVE-2026-72971, CVE-2026-68820  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -239,7 +238,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48561, CVE-2026-56164, CVE-2026-50661, CVE-2026-56155  
+**CVEs:** CVE-2026-56155, CVE-2026-56164, CVE-2026-50661, CVE-2026-48561  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -280,7 +279,26 @@
 
 ---
 
-### 31. [Linux Foundation to Govern TRACE, an Open Standard for AI Runtime Attestation](https://www.securityweek.com/linux-foundation-to-govern-trace-an-open-standard-for-ai-runtime-attestation/)
+### 31. [Sensitive Information Exposed in Nutex Health Data Breach](https://www.securityweek.com/sensitive-information-exposed-in-nutex-health-data-breach/)
+
+**Source:** Security Week  
+**Published:** Wed, 26 Aug 2026 07:41:50 +0000  
+**Severity:** Low  
+**Categories:** Data Breach  
+
+---
+
+### 32. [CISA Warns of Exploited Gitea Vulnerability](https://www.securityweek.com/cisa-warns-of-exploited-gitea-vulnerability/)
+
+**Source:** Security Week  
+**Published:** Wed, 26 Aug 2026 05:17:28 +0000  
+**Severity:** Low  
+**CVEs:** CVE-2026-60004, CVE-2026-20896  
+**Categories:** Vulnerability  
+
+---
+
+### 33. [Linux Foundation to Govern TRACE, an Open Standard for AI Runtime Attestation](https://www.securityweek.com/linux-foundation-to-govern-trace-an-open-standard-for-ai-runtime-attestation/)
 
 **Source:** Security Week  
 **Published:** Tue, 25 Aug 2026 16:23:45 +0000  
@@ -289,7 +307,7 @@
 
 ---
 
-### 32. [Alice Raises $140M to Expand AI Model Defenses and Enterprise Guardrails](https://www.securityweek.com/alice-raises-140m-to-expand-ai-model-defenses-and-enterprise-guardrails/)
+### 34. [Alice Raises $140M to Expand AI Model Defenses and Enterprise Guardrails](https://www.securityweek.com/alice-raises-140m-to-expand-ai-model-defenses-and-enterprise-guardrails/)
 
 **Source:** Security Week  
 **Published:** Tue, 25 Aug 2026 14:11:59 +0000  
@@ -298,7 +316,7 @@
 
 ---
 
-### 33. [WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities](https://www.securityweek.com/wordpress-websites-targeted-via-miniorange-plugin-vulnerabilities/)
+### 35. [WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities](https://www.securityweek.com/wordpress-websites-targeted-via-miniorange-plugin-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Tue, 25 Aug 2026 13:33:12 +0000  
@@ -308,7 +326,7 @@
 
 ---
 
-### 34. [WhatsApp Adds Multiple Passkeys and Stronger 2SV in Account Security Update](https://www.securityweek.com/whatsapp-adds-multiple-passkeys-and-stronger-2sv-in-account-security-update/)
+### 36. [WhatsApp Adds Multiple Passkeys and Stronger 2SV in Account Security Update](https://www.securityweek.com/whatsapp-adds-multiple-passkeys-and-stronger-2sv-in-account-security-update/)
 
 **Source:** Security Week  
 **Published:** Tue, 25 Aug 2026 13:00:00 +0000  
@@ -317,7 +335,7 @@
 
 ---
 
-### 35. [Hands-On Cyber-Physical Systems Training Returns to ICS Cybersecurity Conference](https://www.securityweek.com/hands-on-cyber-physical-systems-training-returns-to-ics-cybersecurity-conference/)
+### 37. [Hands-On Cyber-Physical Systems Training Returns to ICS Cybersecurity Conference](https://www.securityweek.com/hands-on-cyber-physical-systems-training-returns-to-ics-cybersecurity-conference/)
 
 **Source:** Security Week  
 **Published:** Tue, 25 Aug 2026 12:57:59 +0000  
@@ -326,7 +344,7 @@
 
 ---
 
-### 36. [First Malware Built Specifically for Car Head Units Fuels Botnet](https://www.securityweek.com/first-malware-built-specifically-for-car-head-units-fuels-botnet/)
+### 38. [First Malware Built Specifically for Car Head Units Fuels Botnet](https://www.securityweek.com/first-malware-built-specifically-for-car-head-units-fuels-botnet/)
 
 **Source:** Security Week  
 **Published:** Tue, 25 Aug 2026 11:18:22 +0000  
@@ -335,7 +353,7 @@
 
 ---
 
-### 37. [Silent Patches Don’t Stop Attackers – They Blind Defenders](https://www.securityweek.com/silent-patches-dont-stop-attackers-they-blind-defenders/)
+### 39. [Silent Patches Don’t Stop Attackers – They Blind Defenders](https://www.securityweek.com/silent-patches-dont-stop-attackers-they-blind-defenders/)
 
 **Source:** Security Week  
 **Published:** Tue, 25 Aug 2026 10:00:00 +0000  
@@ -344,31 +362,12 @@
 
 ---
 
-### 38. [Taiwan Charges 9 Over Illegal AI Server Exports to China, Including Nvidia and Super Micro Staff](https://www.securityweek.com/taiwan-charges-9-over-illegal-ai-server-exports-to-china-including-nvidia-and-super-micro-staff/)
+### 40. [Taiwan Charges 9 Over Illegal AI Server Exports to China, Including Nvidia and Super Micro Staff](https://www.securityweek.com/taiwan-charges-9-over-illegal-ai-server-exports-to-china-including-nvidia-and-super-micro-staff/)
 
 **Source:** Security Week  
 **Published:** Tue, 25 Aug 2026 08:30:00 +0000  
 **Severity:** High  
 **Categories:** General Security  
-
----
-
-### 39. [CISA Warns of Exploited Oracle WebLogic Vulnerability](https://www.securityweek.com/cisa-warns-of-exploited-oracle-weblogic-vulnerability/)
-
-**Source:** Security Week  
-**Published:** Tue, 25 Aug 2026 07:46:34 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-21962  
-**Categories:** Vulnerability, Supply Chain  
-
----
-
-### 40. [ReliaQuest Confirms ShinyHunters Hack, but Says Impact Was Limited](https://www.securityweek.com/reliaquest-confirms-shinyhunters-hack-but-says-impact-was-limited/)
-
-**Source:** Security Week  
-**Published:** Mon, 24 Aug 2026 17:38:21 +0000  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach, Phishing  
 
 ---
 
@@ -440,7 +439,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 11 Aug 2026 22:21:02 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-68820, CVE-2026-65665, CVE-2026-62823, CVE-2026-62893  
+**CVEs:** CVE-2026-65665, CVE-2026-62823, CVE-2026-68820, CVE-2026-62893  
 **Categories:** Vulnerability  
 
 ---
@@ -648,7 +647,16 @@
 
 ---
 
-### 71. [Grok fooled into stealing user chat, location data, and more](https://www.malwarebytes.com/blog/ai/2026/08/encrypted-instructions-can-fool-ai-assistants-like-grok-and-gemini)
+### 71. [Beware of fake Indeed interview apps used to install spyware](https://www.malwarebytes.com/blog/scams/2026/08/beware-of-fake-indeed-interview-apps-used-to-install-spyware)
+
+**Source:** Malwarebytes  
+**Published:** Wed, 26 Aug 2026 08:00:00 GMT  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 72. [Grok fooled into stealing user chat, location data, and more](https://www.malwarebytes.com/blog/ai/2026/08/encrypted-instructions-can-fool-ai-assistants-like-grok-and-gemini)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 25 Aug 2026 11:34:18 GMT  
@@ -657,7 +665,7 @@
 
 ---
 
-### 72. [GTA 6 leak hunt could expose data belonging to thousands of Discord users](https://www.malwarebytes.com/blog/privacy/2026/08/gta-6-leak-hunt-could-expose-data-belonging-to-thousands-of-discord-users)
+### 73. [GTA 6 leak hunt could expose data belonging to thousands of Discord users](https://www.malwarebytes.com/blog/privacy/2026/08/gta-6-leak-hunt-could-expose-data-belonging-to-thousands-of-discord-users)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 25 Aug 2026 10:01:08 GMT  
@@ -666,7 +674,7 @@
 
 ---
 
-### 73. [TikTok phishing: How to spot fake login and verification pages](https://www.malwarebytes.com/blog/threat-intel/2026/08/tiktok-phishing-how-to-spot-fake-login-and-verification-pages)
+### 74. [TikTok phishing: How to spot fake login and verification pages](https://www.malwarebytes.com/blog/threat-intel/2026/08/tiktok-phishing-how-to-spot-fake-login-and-verification-pages)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 25 Aug 2026 08:00:00 GMT  
@@ -675,7 +683,7 @@
 
 ---
 
-### 74. [Fake GTA 6 Extended Look and demo sites deliver an infostealer](https://www.malwarebytes.com/blog/threat-intel/2026/08/fake-gta-6-extended-look-and-demo-sites-deliver-an-infostealer)
+### 75. [Fake GTA 6 Extended Look and demo sites deliver an infostealer](https://www.malwarebytes.com/blog/threat-intel/2026/08/fake-gta-6-extended-look-and-demo-sites-deliver-an-infostealer)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 24 Aug 2026 16:51:55 GMT  
@@ -684,7 +692,7 @@
 
 ---
 
-### 75. [Fake Microsoft security scans trick victims into uninstalling their antivirus](https://www.malwarebytes.com/blog/threat-intel/2026/08/fake-microsoft-security-scans-trick-victims-into-uninstalling-their-antivirus)
+### 76. [Fake Microsoft security scans trick victims into uninstalling their antivirus](https://www.malwarebytes.com/blog/threat-intel/2026/08/fake-microsoft-security-scans-trick-victims-into-uninstalling-their-antivirus)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 24 Aug 2026 14:50:23 GMT  
@@ -693,7 +701,7 @@
 
 ---
 
-### 76. [What happens to your data when you die? (Lock and Code S07E17)](https://www.malwarebytes.com/blog/podcast/2026/08/your-data-doesnt-die-when-you-do-lock-and-code-s07e17)
+### 77. [What happens to your data when you die? (Lock and Code S07E17)](https://www.malwarebytes.com/blog/podcast/2026/08/your-data-doesnt-die-when-you-do-lock-and-code-s07e17)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 24 Aug 2026 14:35:46 GMT  
@@ -702,7 +710,7 @@
 
 ---
 
-### 77. [AliExpress caught using silent audio to fingerprint visitors’ browsers](https://www.malwarebytes.com/blog/privacy/2026/08/aliexpress-caught-using-silent-audio-to-fingerprint-visitors-browsers)
+### 78. [AliExpress caught using silent audio to fingerprint visitors’ browsers](https://www.malwarebytes.com/blog/privacy/2026/08/aliexpress-caught-using-silent-audio-to-fingerprint-visitors-browsers)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 24 Aug 2026 14:20:42 GMT  
@@ -711,7 +719,7 @@
 
 ---
 
-### 78. [ToxicPanda 2.0 can take over your Android phone and banking apps](https://www.malwarebytes.com/blog/mobile/2026/08/toxicpanda-2-0-can-take-over-your-android-phone-and-banking-apps)
+### 79. [ToxicPanda 2.0 can take over your Android phone and banking apps](https://www.malwarebytes.com/blog/mobile/2026/08/toxicpanda-2-0-can-take-over-your-android-phone-and-banking-apps)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 24 Aug 2026 13:40:00 GMT  
@@ -720,21 +728,12 @@
 
 ---
 
-### 79. [Tracking PavinLoader across ClickFix and fake download campaigns](https://www.malwarebytes.com/blog/threat-intel/2026/08/tracking-pavinloader-across-clickfix-and-fake-download-campaigns)
+### 80. [Tracking PavinLoader across ClickFix and fake download campaigns](https://www.malwarebytes.com/blog/threat-intel/2026/08/tracking-pavinloader-across-clickfix-and-fake-download-campaigns)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 24 Aug 2026 11:43:19 GMT  
 **Severity:** Low  
 **Categories:** Malware, APT  
-
----
-
-### 80. [A week in security (August 17 – August 23)](https://www.malwarebytes.com/blog/news/2026/08/a-week-in-security-august-17-august-23)
-
-**Source:** Malwarebytes  
-**Published:** Mon, 24 Aug 2026 07:01:00 GMT  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
