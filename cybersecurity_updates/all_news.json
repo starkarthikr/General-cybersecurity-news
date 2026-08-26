@@ -1,6 +1,60 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine",
+    "link": "https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html",
+    "published": "Wed, 26 Aug 2026 17:06:49 +0530",
+    "summary": "The SOC we've always known was built around a model that guarantees most of the alert queue will never receive analyst review. There's never time. In a traditional SOC, the typical progression follows a well-known pattern: an alert arrives; a detection engine assigns a severity score. The issue then waits for a human to decide if it should escalate to an investigation.\n\nGiven the volume of",
+    "analysis": {
+      "issue": "Agentic AI lets SOCs investigate alerts and threat hypotheses using network telemetry before escalating evidence-backed cases to analysts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests",
+    "link": "https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html",
+    "published": "Wed, 26 Aug 2026 15:57:23 +0530",
+    "summary": "Aikido Security has published research that recreates the Australian gym-booking incident in a synthetic environment, finding that Claude Opus 4.6, running on the OpenClaw agent harness, exploited a client-side-only booking restriction in 9 of 10 runs.\n\nThe original incident was first reported by ABC News on August 10, based on chat logs and screenshots the user supplied. He had asked an",
+    "analysis": {
+      "issue": "6 bypassed a seven-day booking limit in 9 of 10 OpenClaw runs, with two runs canceling another member's booking",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation",
+    "link": "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html",
+    "published": "Wed, 26 Aug 2026 15:08:45 +0530",
+    "summary": "OpenAI on Tuesday said it banned a cluster of Russian ChatGPT accounts that used VPNs to bypass access restrictions and run an influence operation, which relied on its artificial intelligence (AI) tool to generate social media posts and comments that were shared on Substack, Telegram, X, Facebook and LinkedIn.\n\nThe accounts \"were being used to promote the International Burke Institute (IBI), a",
+    "analysis": {
+      "issue": "OpenAI banned Russian ChatGPT accounts that used VPNs to run an influence operation promoting IBI across major social platforms",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown",
     "link": "https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html",
     "published": "Wed, 26 Aug 2026 13:24:12 +0530",
@@ -128,33 +182,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode",
-    "link": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html",
-    "published": "Tue, 25 Aug 2026 18:13:51 +0530",
-    "summary": "Marimo has addressed a high-severity security flaw in its notebook software that allowed an attacker to execute an attacker-supplied Model Context Protocol (MCP) command in a specially crafted notebook, according to VulnCheck's CVE Numbering Authority (CNA) record.\n\nThe CNA record says the command can run as a local subprocess when the notebook is opened in edit mode.\n\nThe vulnerability, tracked",
+    "source": "Bleeping Computer",
+    "title": "Microsoft tests new privacy controls for Windows 11 desktop apps",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/",
+    "published": "Wed, 26 Aug 2026 08:06:28 -0400",
+    "summary": "Microsoft has begun testing new privacy controls that will let Windows 11 users choose which desktop applications can access their camera, microphone, and precise location. [...]",
     "analysis": {
-      "issue": "Marimo fixes CVE-2026-75149, an 8",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-75149"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows",
-    "link": "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html",
-    "published": "Tue, 25 Aug 2026 17:26:15 +0530",
-    "summary": "Thousands of companies have been affected by the Mirage2FA campaign from 2024 to 2026. The commercial phishing-as-a-service toolkit targets Microsoft 365 accounts by abusing legitimate login flows and bypassing two-factor authentication.\n\nAccording to ANY.RUN research, 48% of targeted email addresses were potentially compromised. Most of the affected companies are US-based.\n\nMirage2FA Campaign",
-    "analysis": {
-      "issue": "Mirage2FA targets Microsoft 365, with 48% of targeted emails potentially compromised and 9,000+ potential session-theft events",
+      "issue": "Microsoft has begun testing new privacy controls that will let Windows 11 users choose which desktop applications can access their camera, microphone, and precise location",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -166,20 +200,22 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages",
-    "link": "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html",
-    "published": "Tue, 25 Aug 2026 17:22:43 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA pages.\n\n\"While the malware is simply a single HTML page inside the npm package, and while downloading it wouldn't do harm, the threat actor’s use of npm isn't to infect developers who install it, but to use the",
+    "source": "Bleeping Computer",
+    "title": "Hackers now exploit critical Gitea flaw in code injection attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-gitea-flaw-in-code-injection-attacks/",
+    "published": "Wed, 26 Aug 2026 07:07:48 -0400",
+    "summary": "Attackers are now exploiting a critical-severity vulnerability in the Gitea self-hosted Git service, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
     "analysis": {
-      "issue": "A campaign uses 24 npm packages and unpkg mirrors to host fake Cloudflare CAPTCHA pages that can redirect users to attacker-chosen sites",
+      "issue": "Attackers are actively exploiting a critical-severity vulnerability in the Gitea self-hosted Git service, according to the U",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-60004"
+      ],
       "threat_categories": [
-        "APT"
+        "Vulnerability"
       ]
     }
   },
@@ -331,44 +367,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Hackers breached over 270 Zimbra servers in ongoing attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-breached-over-270-zimbra-servers-in-ongoing-attacks/",
-    "published": "Tue, 25 Aug 2026 08:04:02 -0400",
-    "summary": "Threat actors have already compromised over 270 Zimbra instances in remote code execution attacks targeting a high-severity Zimbra Collaboration Suite (ZCS) vulnerability. [...]",
-    "analysis": {
-      "issue": "Threat actors have already compromised over 270 Zimbra instances in remote code execution attacks targeting a high-severity Zimbra Collaboration Suite (ZCS) vulnerability",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2026-73570"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Police arrests dozens of suspects in global cybercrime crackdown",
-    "link": "https://www.bleepingcomputer.com/news/security/police-arrests-dozens-of-suspects-in-global-cybercrime-crackdown/",
-    "published": "Tue, 25 Aug 2026 06:53:20 -0400",
-    "summary": "Law enforcement agencies from 22 countries helped identify 263 suspects and arrested 58 individuals linked to cybercrime networks coordinated by African crime groups. [...]",
-    "analysis": {
-      "issue": "Law enforcement agencies from 22 countries helped identify 263 suspects and arrested 58 individuals linked to cybercrime networks coordinated by African crime groups",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Who’s Tracking You? Use This New Service to Find Out",
     "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
@@ -400,8 +398,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-62832",
-        "CVE-2026-72971",
-        "CVE-2026-68820"
+        "CVE-2026-68820",
+        "CVE-2026-72971"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -479,9 +477,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-56155",
+        "CVE-2026-48561",
         "CVE-2026-56164",
-        "CVE-2026-50661",
-        "CVE-2026-48561"
+        "CVE-2026-50661"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -566,6 +564,82 @@
   },
   {
     "source": "Security Week",
+    "title": "Adobe and Nvidia Patch Dozens of Vulnerabilities",
+    "link": "https://www.securityweek.com/adobe-and-nvidia-patch-dozens-of-vulnerabilities/",
+    "published": "Wed, 26 Aug 2026 12:39:38 +0000",
+    "summary": "<p>Adobe and Nvidia each published several advisories, including ones that address critical vulnerabilities in their products.</p>\n<p>The post <a href=\"https://www.securityweek.com/adobe-and-nvidia-patch-dozens-of-vulnerabilities/\">Adobe and Nvidia Patch Dozens of Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Adobe and Nvidia each published several advisories, including ones that address critical vulnerabilities in their products",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "CISA: Over 100 Internet-Exposed Water Systems Targeted in July Cyberattacks",
+    "link": "https://www.securityweek.com/cisa-over-100-internet-exposed-water-systems-targeted-in-july-cyberattacks/",
+    "published": "Wed, 26 Aug 2026 11:29:50 +0000",
+    "summary": "<p>The agency has released guidance on reducing internet exposure in the wake of the recent Iran-linked hacker attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-over-100-internet-exposed-water-systems-targeted-in-july-cyberattacks/\">CISA: Over 100 Internet-Exposed Water Systems Targeted in July Cyberattacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The agency has released guidance on reducing internet exposure in the wake of the recent Iran-linked hacker attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "The MFA Identity Trap: When Authentication Creates a False Sense of Security",
+    "link": "https://www.securityweek.com/the-mfa-identity-trap-when-authentication-creates-a-false-sense-of-security/",
+    "published": "Wed, 26 Aug 2026 11:00:00 +0000",
+    "summary": "<p>Organizations must distinguish identity verification, authentication and threat detection, or risk successfully authenticating the attackers they are trying to stop.</p>\n<p>The post <a href=\"https://www.securityweek.com/the-mfa-identity-trap-when-authentication-creates-a-false-sense-of-security/\">The MFA Identity Trap: When Authentication Creates a False Sense of Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Organizations must distinguish identity verification, authentication and threat detection, or risk successfully authenticating the attackers they are trying to stop",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Chrome 152 Patches Over 300 Vulnerabilities",
+    "link": "https://www.securityweek.com/chrome-152-patches-over-300-vulnerabilities/",
+    "published": "Wed, 26 Aug 2026 09:50:34 +0000",
+    "summary": "<p>Most of the flaws were discovered by Google using AI, but researchers are still discovering high-value Chrome vulnerabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-152-patches-over-300-vulnerabilities/\">Chrome 152 Patches Over 300 Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Most of the flaws were discovered by Google using AI, but researchers are still discovering high-value Chrome vulnerabilities",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-79282"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Sensitive Information Exposed in Nutex Health Data Breach",
     "link": "https://www.securityweek.com/sensitive-information-exposed-in-nutex-health-data-breach/",
     "published": "Wed, 26 Aug 2026 07:41:50 +0000",
@@ -595,8 +669,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-60004",
-        "CVE-2026-20896"
+        "CVE-2026-20896",
+        "CVE-2026-60004"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -679,75 +753,17 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Hands-On Cyber-Physical Systems Training Returns to ICS Cybersecurity Conference",
-    "link": "https://www.securityweek.com/hands-on-cyber-physical-systems-training-returns-to-ics-cybersecurity-conference/",
-    "published": "Tue, 25 Aug 2026 12:57:59 +0000",
-    "summary": "<p>Hands-on Cyber Attack Methods course returns to SecurityWeek’s ICS Cybersecurity Conference, October 6–8 at the W Nashville.</p>\n<p>The post <a href=\"https://www.securityweek.com/hands-on-cyber-physical-systems-training-returns-to-ics-cybersecurity-conference/\">Hands-On Cyber-Physical Systems Training Returns to ICS Cybersecurity Conference</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "source": "Talos Blog",
+    "title": "Choose your fighter: Balancing competing requirements to select models for your AI SOC",
+    "link": "https://blog.talosintelligence.com/choose-your-fighter-balancing-competing-requirements-to-select-models-for-your-ai-soc/",
+    "published": "Wed, 26 Aug 2026 10:00:05 GMT",
+    "summary": "Selecting a model for your security operations center (SOC) and digital forensics and incident response (DFIR) tasks is important, but selecting the best one is more involved than you might think. Here's how to choose.",
     "analysis": {
-      "issue": "Hands-on Cyber Attack Methods course returns to SecurityWeek’s ICS Cybersecurity Conference, October 6–8 at the W Nashville",
+      "issue": "Choosing the best model for any task involves a complex balancing act: compute/reasoning effort vs",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "First Malware Built Specifically for Car Head Units Fuels Botnet",
-    "link": "https://www.securityweek.com/first-malware-built-specifically-for-car-head-units-fuels-botnet/",
-    "published": "Tue, 25 Aug 2026 11:18:22 +0000",
-    "summary": "<p>Kaspersky researchers have linked the malware to the BadBox botnet, which has ensnared millions of devices.</p>\n<p>The post <a href=\"https://www.securityweek.com/first-malware-built-specifically-for-car-head-units-fuels-botnet/\">First Malware Built Specifically for Car Head Units Fuels Botnet</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Kaspersky researchers have linked the malware to the BadBox botnet, which has ensnared millions of devices",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Silent Patches Don’t Stop Attackers – They Blind Defenders",
-    "link": "https://www.securityweek.com/silent-patches-dont-stop-attackers-they-blind-defenders/",
-    "published": "Tue, 25 Aug 2026 10:00:00 +0000",
-    "summary": "<p>Silent patches can become exploit intelligence for attackers while leaving defenders without the context needed to prioritize risk.</p>\n<p>The post <a href=\"https://www.securityweek.com/silent-patches-dont-stop-attackers-they-blind-defenders/\">Silent Patches Don’t Stop Attackers &#8211; They Blind Defenders</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Silent patches can become exploit intelligence for attackers while leaving defenders without the context needed to prioritize risk",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Taiwan Charges 9 Over Illegal AI Server Exports to China, Including Nvidia and Super Micro Staff",
-    "link": "https://www.securityweek.com/taiwan-charges-9-over-illegal-ai-server-exports-to-china-including-nvidia-and-super-micro-staff/",
-    "published": "Tue, 25 Aug 2026 08:30:00 +0000",
-    "summary": "<p>AI infrastructure, including advanced semiconductors mostly made in Taiwan, has become a key point of competition between the U.S. and China.</p>\n<p>The post <a href=\"https://www.securityweek.com/taiwan-charges-9-over-illegal-ai-server-exports-to-china-including-nvidia-and-super-micro-staff/\">Taiwan Charges 9 Over Illegal AI Server Exports to China, Including Nvidia and Super Micro Staff</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "AI infrastructure, including advanced semiconductors mostly made in Taiwan, has become a key point of competition between the U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
       "cves": [],
       "threat_categories": [
         "General Security"
@@ -896,10 +912,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-65665",
         "CVE-2026-62823",
+        "CVE-2026-62893",
         "CVE-2026-68820",
-        "CVE-2026-62893"
+        "CVE-2026-65665"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -921,25 +937,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "“Keep going, bro. You’ve got this!” A data-driven look at how adversaries are weaponizing AI",
-    "link": "https://blog.talosintelligence.com/keep-going-bro-youve-got-this-a-data-driven-look-at-how-adversaries-are-weaponizing-ai/",
-    "published": "Tue, 04 Aug 2026 10:00:11 GMT",
-    "summary": "Talos has collected prompt logs from threat actor endpoints running various applications, such as Claude Code, CodeX, Cursor, or Gemini. This blog is an analysis of the ways we've seen bad actors leveraging cloud-based AI.",
-    "analysis": {
-      "issue": "Artificial intelligence (AI) and associated language models are now ubiquitous and heavily used in both personal and professional contexts to streamline tasks and expand capabilities",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "DDoS"
       ]
     }
   },
@@ -1321,6 +1318,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Popular school apps may be sharing student data with advertisers",
+    "link": "https://www.malwarebytes.com/blog/privacy/2026/08/popular-school-apps-may-be-sharing-student-data-with-advertisers",
+    "published": "Wed, 26 Aug 2026 12:12:09 GMT",
+    "summary": "A Utah investigation found educational apps collecting unauthorized student data and sharing information with third parties and advertisers.",
+    "analysis": {
+      "issue": "A two-year investigation into educational technology (EdTech) apps used by Utah schools found that many were collecting and sharing student data in ways that appeared inconsistent with their privacy commitments",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Beware of fake Indeed interview apps used to install spyware",
     "link": "https://www.malwarebytes.com/blog/scams/2026/08/beware-of-fake-indeed-interview-apps-used-to-install-spyware",
     "published": "Wed, 26 Aug 2026 08:00:00 GMT",
@@ -1474,25 +1489,6 @@
     "summary": "A new version of the Android banking Trojan can seize control of infected phones and block access to Google Play and Google Play Services.",
     "analysis": {
       "issue": "Researchers have uncovered ToxicPanda 2",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Tracking PavinLoader across ClickFix and fake download campaigns",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/08/tracking-pavinloader-across-clickfix-and-fake-download-campaigns",
-    "published": "Mon, 24 Aug 2026 11:43:19 GMT",
-    "summary": "We found PavinLoader being used across ClickFix, fake software, and RenPy campaigns to deliver Amatera Stealer and other malware.",
-    "analysis": {
-      "issue": "In our previous analysis of the malicious RenPy campaigns, we identified a multi-stage loader deployed as part of the infection chain",
       "solution": null,
       "cause": null,
       "timeline": null,
