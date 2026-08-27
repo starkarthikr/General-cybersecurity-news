@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address",
+    "link": "https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html",
+    "published": "Thu, 27 Aug 2026 15:03:38 +0530",
+    "summary": "Threat actors linked by Arctic Wolf to Dark Caracal with medium confidence deployed a previously undocumented Go-based malware framework, GoCaracal, during a June 2026 intrusion at an unnamed communications organization in Venezuela.\n\nGoCaracal provides operators with remote shell access and payload execution, while the extended profile adds browser data theft, keylogging, remote desktop control",
+    "analysis": {
+      "issue": "GoCaracal gave operators remote shell access and browser data theft during a June 2026 intrusion at a Venezuelan communications organization",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "New GPUThor Rowhammer Defeats ECC on NVIDIA RTX A6000 to Gain Host Root Access",
+    "link": "https://thehackernews.com/2026/08/gputhor-rowhammer-defeats-ecc-on-nvidia.html",
+    "published": "Thu, 27 Aug 2026 13:43:11 +0530",
+    "summary": "Academic researchers have disclosed a Rowhammer attack impacting NVIDIA workstation GPUs with GDDR6 memory that defeats error correction codes (ECC), the mitigation NVIDIA recommends against GPU Rowhammer, and enables denial-of-service (DoS) and privilege escalation to a root shell.\n\nDubbed GPUThor, the attack was developed by researchers at the University of Toronto, who hammered four DRAM",
+    "analysis": {
+      "issue": "GPUThor defeats ECC on NVIDIA GDDR6 workstation GPUs and demonstrates host privilege escalation to root on an RTX A6000",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "CISA Adds Six Exploited Flaws to KEV, Including NetScaler, Linux, and SQL Server Bugs",
     "link": "https://thehackernews.com/2026/08/cisa-adds-six-exploited-flaws-to-kev.html",
     "published": "Thu, 27 Aug 2026 12:35:28 +0530",
@@ -144,38 +180,23 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation",
-    "link": "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html",
-    "published": "Wed, 26 Aug 2026 15:08:45 +0530",
-    "summary": "OpenAI on Tuesday said it banned a cluster of Russian ChatGPT accounts that used VPNs to bypass access restrictions and run an influence operation, which relied on its artificial intelligence (AI) tool to generate social media posts and comments that were shared on Substack, Telegram, X, Facebook and LinkedIn.\n\nThe accounts \"were being used to promote the International Burke Institute (IBI), a",
+    "source": "Bleeping Computer",
+    "title": "CISA orders feds to patch Citrix NetScaler RCE flaw by Saturday",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploiting-citrix-netscaler-rce-flaw-in-attacks/",
+    "published": "Thu, 27 Aug 2026 05:16:50 -0400",
+    "summary": "CISA has ordered U.S. government agencies to patch their Citrix NetScaler appliances against an actively exploited remote code execution vulnerability by Saturday. [...]",
     "analysis": {
-      "issue": "OpenAI banned Russian ChatGPT accounts that used VPNs to run an influence operation promoting IBI across major social platforms",
+      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) has ordered government agencies to patch their Citrix NetScaler appliances against an actively exploited vulnerability by Saturday",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "High",
-      "cves": [],
+      "cves": [
+        "CVE-2026-8452"
+      ],
       "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown",
-    "link": "https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html",
-    "published": "Wed, 26 Aug 2026 13:24:12 +0530",
-    "summary": "An eight-month INTERPOL operation targeting West African organized crime groups has led to arrests of 58 people and the identification of 263 suspects.\n\n\"The operation, which brought together 22 countries from six continents, is a response to the escalating global threat posed by West African criminal networks – such as the Black Axe and other similar groups,\" INTERPOL said.\n\n\"These groups are",
-    "analysis": {
-      "issue": "INTERPOL's Operation Jackal IV arrests 58 people, identifies 263 suspects, and disrupts fraud and laundering networks across 22 countries",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
+        "Vulnerability",
+        "DDoS"
       ]
     }
   },
@@ -342,30 +363,12 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
+        "CVE-2026-77554",
         "CVE-2026-77537",
-        "CVE-2026-77550",
-        "CVE-2026-77554"
+        "CVE-2026-77550"
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft tests new privacy controls for Windows 11 desktop apps",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/",
-    "published": "Wed, 26 Aug 2026 08:06:28 -0400",
-    "summary": "Microsoft has begun testing new privacy controls that will let Windows 11 users choose which desktop applications can access their camera, microphone, and precise location. [...]",
-    "analysis": {
-      "issue": "Microsoft has begun testing new privacy controls that will let Windows 11 users choose which desktop applications can access their camera, microphone, and precise location",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -400,9 +403,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-68820",
         "CVE-2026-62832",
-        "CVE-2026-72971"
+        "CVE-2026-72971",
+        "CVE-2026-68820"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -479,10 +482,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56164",
-        "CVE-2026-56155",
         "CVE-2026-48561",
-        "CVE-2026-50661"
+        "CVE-2026-56155",
+        "CVE-2026-50661",
+        "CVE-2026-56164"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -562,6 +565,43 @@
       "threat_categories": [
         "Ransomware",
         "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "US Disrupts Chinese Hacking Platform Used in Military and Critical Infrastructure Attacks",
+    "link": "https://www.securityweek.com/us-disrupts-chinese-hacking-platform-used-in-military-and-critical-infrastructure-attacks/",
+    "published": "Thu, 27 Aug 2026 09:01:06 +0000",
+    "summary": "<p>The operation focused on a group named QTFY, which offers hacking services to the Chinese government and others.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-disrupts-chinese-hacking-platform-used-in-military-and-critical-infrastructure-attacks/\">US Disrupts Chinese Hacking Platform Used in Military and Critical Infrastructure Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The operation focused on a group named QTFY, which offers hacking services to the Chinese government and others",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Pro-Russian Hackers Claim Responsibility for Major Cyberattack on Norway’s Public Digital Services",
+    "link": "https://www.securityweek.com/pro-russian-hackers-claim-responsibility-for-major-cyberattack-on-norways-public-digital-services/",
+    "published": "Thu, 27 Aug 2026 08:00:00 +0000",
+    "summary": "<p>The pro-Russian hacker group Server Killers claimed responsibility for the attack.</p>\n<p>The post <a href=\"https://www.securityweek.com/pro-russian-hackers-claim-responsibility-for-major-cyberattack-on-norways-public-digital-services/\">Pro-Russian Hackers Claim Responsibility for Major Cyberattack on Norway’s Public Digital Services</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The pro-Russian hacker group Server Killers claimed responsibility for the attack",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -712,8 +752,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-60004",
-        "CVE-2026-20896"
+        "CVE-2026-20896",
+        "CVE-2026-60004"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -721,38 +761,21 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Linux Foundation to Govern TRACE, an Open Standard for AI Runtime Attestation",
-    "link": "https://www.securityweek.com/linux-foundation-to-govern-trace-an-open-standard-for-ai-runtime-attestation/",
-    "published": "Tue, 25 Aug 2026 16:23:45 +0000",
-    "summary": "<p>TRACE was developed by AMD, Intel, Microsoft, OPAQUE, and TII and contributed to the Linux Foundation.</p>\n<p>The post <a href=\"https://www.securityweek.com/linux-foundation-to-govern-trace-an-open-standard-for-ai-runtime-attestation/\">Linux Foundation to Govern TRACE, an Open Standard for AI Runtime Attestation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "source": "Talos Blog",
+    "title": "JavaScript obfuscation: From party trick to phishing kit",
+    "link": "https://blog.talosintelligence.com/javascript-obfuscation-from-party-trick-to-phishing-kit/",
+    "published": "Thu, 27 Aug 2026 10:00:27 GMT",
+    "summary": "Learn the basics of what obfuscation is, why a researcher would try to reverse it, and several ways to approach the problem.",
     "analysis": {
-      "issue": "TRACE was developed by AMD, Intel, Microsoft, OPAQUE, and TII and contributed to the Linux Foundation",
+      "issue": "We open a JavaScript artifact hoping for code, and instead get string arrays, strangely named functions, encoded URLs, runtime decoders, and eval statements",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "High",
+      "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Alice Raises $140M to Expand AI Model Defenses and Enterprise Guardrails",
-    "link": "https://www.securityweek.com/alice-raises-140m-to-expand-ai-model-defenses-and-enterprise-guardrails/",
-    "published": "Tue, 25 Aug 2026 14:11:59 +0000",
-    "summary": "<p>The company, previously known as ActiveFence, has raised a total of $280 million from investors.</p>\n<p>The post <a href=\"https://www.securityweek.com/alice-raises-140m-to-expand-ai-model-defenses-and-enterprise-guardrails/\">Alice Raises $140M to Expand AI Model Defenses and Enterprise Guardrails</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The company, previously known as ActiveFence, has raised a total of $280 million from investors",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
+        "Malware",
+        "Phishing"
       ]
     }
   },
@@ -916,31 +939,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-68820",
-        "CVE-2026-62893",
         "CVE-2026-65665",
-        "CVE-2026-62823"
+        "CVE-2026-62823",
+        "CVE-2026-68820",
+        "CVE-2026-62893"
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "Why metaphor may dictate your security strategy",
-    "link": "https://blog.talosintelligence.com/why-metaphor-may-dictate-your-security-strategy/",
-    "published": "Thu, 06 Aug 2026 18:00:01 GMT",
-    "summary": "In this week's newsletter, Martin looks at how the metaphors we use to describe AI \"escaping\" its sandbox can completely change how we react to the threat.",
-    "analysis": {
-      "issue": "Welcome to this week’s edition of the Threat Source newsletter",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
