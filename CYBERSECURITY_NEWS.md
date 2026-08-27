@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-26 18:15:07 UTC
+**Last Updated:** 2026-08-27 08:36:46 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [FBI Disrupts China-Linked QTFY Infrastructure Used to Steal Data From U.S. Organizations](https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html)
+### 1. [CISA Adds Six Exploited Flaws to KEV, Including NetScaler, Linux, and SQL Server Bugs](https://thehackernews.com/2026/08/cisa-adds-six-exploited-flaws-to-kev.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 27 Aug 2026 12:35:28 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [FBI Disrupts China-Linked QTFY Infrastructure Used to Steal Data From U.S. Organizations](https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 26 Aug 2026 22:12:03 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Nimbus Manticore Expands Toolset With TWOSTROKE-Like Backdoor and SSH Tunneler](https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html)
+### 3. [Nimbus Manticore Expands Toolset With TWOSTROKE-Like Backdoor and SSH Tunneler](https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 26 Aug 2026 21:05:05 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions](https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html)
+### 4. [NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions](https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 26 Aug 2026 19:14:31 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing](https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html)
+### 5. [CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing](https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 26 Aug 2026 18:37:02 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code](https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html)
+### 6. [Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code](https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 26 Aug 2026 17:25:00 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine](https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html)
+### 7. [Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine](https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 26 Aug 2026 17:06:49 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests](https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html)
+### 8. [Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests](https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 26 Aug 2026 15:57:23 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation](https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html)
+### 9. [OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation](https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 26 Aug 2026 15:08:45 +0530  
@@ -76,7 +85,7 @@
 
 ---
 
-### 9. [INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown](https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html)
+### 10. [INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown](https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 26 Aug 2026 13:24:12 +0530  
@@ -85,16 +94,35 @@
 
 ---
 
-### 10. [New SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode](https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html)
+### 11. [ATF confirms “major incident” after recent Qilin breach claims](https://www.bleepingcomputer.com/news/security/atf-confirms-major-incident-after-recent-qilin-breach-claims/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 26 Aug 2026 12:42:55 +0530  
-**Severity:** Low  
-**Categories:** Malware  
+**Source:** Bleeping Computer  
+**Published:** Thu, 27 Aug 2026 04:13:50 -0400  
+**Severity:** High  
+**Categories:** Ransomware  
 
 ---
 
-### 11. [Meta agrees to $18 billion settlement over teen social media harms](https://www.bleepingcomputer.com/news/technology/meta-agrees-to-18-billion-settlement-over-teen-social-media-harms/)
+### 12. [Critical Avada WordPress theme flaw enables zero-click RCE](https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 26 Aug 2026 17:33:20 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-18431  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 13. [New GPUThor attack defeats NVIDIA ECC protection for root access](https://www.bleepingcomputer.com/news/security/new-gputhor-attack-defeats-nvidia-ecc-protection-for-root-access/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 26 Aug 2026 14:48:24 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 14. [Meta agrees to $18 billion settlement over teen social media harms](https://www.bleepingcomputer.com/news/technology/meta-agrees-to-18-billion-settlement-over-teen-social-media-harms/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 26 Aug 2026 12:41:05 -0400  
@@ -103,7 +131,7 @@
 
 ---
 
-### 12. [Boston Scientific says cyberattack disrupted operations globally](https://www.bleepingcomputer.com/news/security/boston-scientific-says-cyberattack-disrupted-operations-globally/)
+### 15. [Boston Scientific says cyberattack disrupted operations globally](https://www.bleepingcomputer.com/news/security/boston-scientific-says-cyberattack-disrupted-operations-globally/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 26 Aug 2026 11:19:21 -0400  
@@ -112,7 +140,7 @@
 
 ---
 
-### 13. [Hackers target Microsoft SharePoint RCE chain with PoC exploit](https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/)
+### 16. [Hackers target Microsoft SharePoint RCE chain with PoC exploit](https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 26 Aug 2026 10:47:51 -0400  
@@ -122,7 +150,7 @@
 
 ---
 
-### 14. [FBI disrupts proxy network enabling Chinese espionage operations](https://www.bleepingcomputer.com/news/security/fbi-disrupts-proxy-network-enabling-chinese-espionage-operations/)
+### 17. [FBI disrupts proxy network enabling Chinese espionage operations](https://www.bleepingcomputer.com/news/security/fbi-disrupts-proxy-network-enabling-chinese-espionage-operations/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 26 Aug 2026 10:17:59 -0400  
@@ -131,7 +159,7 @@
 
 ---
 
-### 15. [Snowflake ends service-account passwords. Now comes the hard part](https://www.bleepingcomputer.com/news/security/snowflake-ends-service-account-passwords-now-comes-the-hard-part/)
+### 18. [Snowflake ends service-account passwords. Now comes the hard part](https://www.bleepingcomputer.com/news/security/snowflake-ends-service-account-passwords-now-comes-the-hard-part/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 26 Aug 2026 10:01:11 -0400  
@@ -140,50 +168,22 @@
 
 ---
 
-### 16. [Ubiquiti patches three max severity security vulnerabilities](https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-security-vulnerabilities/)
+### 19. [Ubiquiti patches three max severity security vulnerabilities](https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-security-vulnerabilities/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 26 Aug 2026 09:17:54 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2026-77537, CVE-2026-77554, CVE-2026-77550  
+**CVEs:** CVE-2026-77537, CVE-2026-77550, CVE-2026-77554  
 **Categories:** Vulnerability  
 
 ---
 
-### 17. [Microsoft tests new privacy controls for Windows 11 desktop apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/)
+### 20. [Microsoft tests new privacy controls for Windows 11 desktop apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 26 Aug 2026 08:06:28 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 18. [Hackers now exploit critical Gitea flaw in code injection attacks](https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-gitea-flaw-in-code-injection-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 26 Aug 2026 07:07:48 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-60004  
-**Categories:** Vulnerability  
-
----
-
-### 19. [LACMA data breach last year exposed social security and medical data](https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 25 Aug 2026 17:58:14 -0400  
-**Severity:** Low  
-**Categories:** Data Breach  
-
----
-
-### 20. [Hackers abuse npm mirrors to host phishing redirect pages](https://www.bleepingcomputer.com/news/security/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 25 Aug 2026 17:39:01 -0400  
-**Severity:** Low  
-**Categories:** Malware, Phishing, APT  
 
 ---
 
@@ -238,7 +238,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50661, CVE-2026-56155, CVE-2026-56164, CVE-2026-48561  
+**CVEs:** CVE-2026-56164, CVE-2026-56155, CVE-2026-48561, CVE-2026-50661  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -279,7 +279,17 @@
 
 ---
 
-### 31. [AI Speeds Up Malware Development, Not Its Success Rate: Analysis](https://www.securityweek.com/ai-speeds-up-malware-development-not-its-success-rate-analysis/)
+### 31. [Recent Citrix NetScaler Vulnerability Exploited in the Wild](https://www.securityweek.com/recent-citrix-netscaler-vulnerability-exploited-in-the-wild/)
+
+**Source:** Security Week  
+**Published:** Thu, 27 Aug 2026 04:39:19 +0000  
+**Severity:** High  
+**CVEs:** CVE-2026-8452, CVE-2026-8451  
+**Categories:** Vulnerability  
+
+---
+
+### 32. [AI Speeds Up Malware Development, Not Its Success Rate: Analysis](https://www.securityweek.com/ai-speeds-up-malware-development-not-its-success-rate-analysis/)
 
 **Source:** Security Week  
 **Published:** Wed, 26 Aug 2026 15:23:45 +0000  
@@ -288,7 +298,7 @@
 
 ---
 
-### 32. [Adobe and Nvidia Patch Dozens of Vulnerabilities](https://www.securityweek.com/adobe-and-nvidia-patch-dozens-of-vulnerabilities/)
+### 33. [Adobe and Nvidia Patch Dozens of Vulnerabilities](https://www.securityweek.com/adobe-and-nvidia-patch-dozens-of-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Wed, 26 Aug 2026 12:39:38 +0000  
@@ -297,7 +307,7 @@
 
 ---
 
-### 33. [CISA: Over 100 Internet-Exposed Water Systems Targeted in July Cyberattacks](https://www.securityweek.com/cisa-over-100-internet-exposed-water-systems-targeted-in-july-cyberattacks/)
+### 34. [CISA: Over 100 Internet-Exposed Water Systems Targeted in July Cyberattacks](https://www.securityweek.com/cisa-over-100-internet-exposed-water-systems-targeted-in-july-cyberattacks/)
 
 **Source:** Security Week  
 **Published:** Wed, 26 Aug 2026 11:29:50 +0000  
@@ -306,7 +316,7 @@
 
 ---
 
-### 34. [The MFA Identity Trap: When Authentication Creates a False Sense of Security](https://www.securityweek.com/the-mfa-identity-trap-when-authentication-creates-a-false-sense-of-security/)
+### 35. [The MFA Identity Trap: When Authentication Creates a False Sense of Security](https://www.securityweek.com/the-mfa-identity-trap-when-authentication-creates-a-false-sense-of-security/)
 
 **Source:** Security Week  
 **Published:** Wed, 26 Aug 2026 11:00:00 +0000  
@@ -315,7 +325,7 @@
 
 ---
 
-### 35. [Chrome 152 Patches Over 300 Vulnerabilities](https://www.securityweek.com/chrome-152-patches-over-300-vulnerabilities/)
+### 36. [Chrome 152 Patches Over 300 Vulnerabilities](https://www.securityweek.com/chrome-152-patches-over-300-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Wed, 26 Aug 2026 09:50:34 +0000  
@@ -325,7 +335,7 @@
 
 ---
 
-### 36. [Sensitive Information Exposed in Nutex Health Data Breach](https://www.securityweek.com/sensitive-information-exposed-in-nutex-health-data-breach/)
+### 37. [Sensitive Information Exposed in Nutex Health Data Breach](https://www.securityweek.com/sensitive-information-exposed-in-nutex-health-data-breach/)
 
 **Source:** Security Week  
 **Published:** Wed, 26 Aug 2026 07:41:50 +0000  
@@ -334,7 +344,7 @@
 
 ---
 
-### 37. [CISA Warns of Exploited Gitea Vulnerability](https://www.securityweek.com/cisa-warns-of-exploited-gitea-vulnerability/)
+### 38. [CISA Warns of Exploited Gitea Vulnerability](https://www.securityweek.com/cisa-warns-of-exploited-gitea-vulnerability/)
 
 **Source:** Security Week  
 **Published:** Wed, 26 Aug 2026 05:17:28 +0000  
@@ -344,7 +354,7 @@
 
 ---
 
-### 38. [Linux Foundation to Govern TRACE, an Open Standard for AI Runtime Attestation](https://www.securityweek.com/linux-foundation-to-govern-trace-an-open-standard-for-ai-runtime-attestation/)
+### 39. [Linux Foundation to Govern TRACE, an Open Standard for AI Runtime Attestation](https://www.securityweek.com/linux-foundation-to-govern-trace-an-open-standard-for-ai-runtime-attestation/)
 
 **Source:** Security Week  
 **Published:** Tue, 25 Aug 2026 16:23:45 +0000  
@@ -353,22 +363,12 @@
 
 ---
 
-### 39. [Alice Raises $140M to Expand AI Model Defenses and Enterprise Guardrails](https://www.securityweek.com/alice-raises-140m-to-expand-ai-model-defenses-and-enterprise-guardrails/)
+### 40. [Alice Raises $140M to Expand AI Model Defenses and Enterprise Guardrails](https://www.securityweek.com/alice-raises-140m-to-expand-ai-model-defenses-and-enterprise-guardrails/)
 
 **Source:** Security Week  
 **Published:** Tue, 25 Aug 2026 14:11:59 +0000  
 **Severity:** High  
 **Categories:** General Security  
-
----
-
-### 40. [WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities](https://www.securityweek.com/wordpress-websites-targeted-via-miniorange-plugin-vulnerabilities/)
-
-**Source:** Security Week  
-**Published:** Tue, 25 Aug 2026 13:33:12 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-15981, CVE-2026-61979  
-**Categories:** Vulnerability  
 
 ---
 
@@ -449,7 +449,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 11 Aug 2026 22:21:02 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-68820, CVE-2026-65665, CVE-2026-62823, CVE-2026-62893  
+**CVEs:** CVE-2026-68820, CVE-2026-62893, CVE-2026-65665, CVE-2026-62823  
 **Categories:** Vulnerability  
 
 ---
@@ -633,7 +633,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
