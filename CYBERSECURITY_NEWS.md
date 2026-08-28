@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-27 22:05:07 UTC
+**Last Updated:** 2026-08-28 01:03:59 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -208,7 +208,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-68820, CVE-2026-62832, CVE-2026-72971  
+**CVEs:** CVE-2026-72971, CVE-2026-62832, CVE-2026-68820  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -245,7 +245,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56164, CVE-2026-56155, CVE-2026-50661, CVE-2026-48561  
+**CVEs:** CVE-2026-56155, CVE-2026-48561, CVE-2026-50661, CVE-2026-56164  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -552,8 +552,6 @@
 
 **Source:** Threat Post  
 **Published:** Wed, 31 Aug 2022 12:57:48 +0000  
-**Severity:** Low  
-**Categories:** Data Breach, Supply Chain  
 
 ---
 
@@ -561,8 +559,6 @@
 
 **Source:** Threat Post  
 **Published:** Tue, 30 Aug 2022 16:00:43 +0000  
-**Severity:** Medium  
-**Categories:** APT  
 
 ---
 
@@ -570,8 +566,6 @@
 
 **Source:** Threat Post  
 **Published:** Mon, 29 Aug 2022 14:56:19 +0000  
-**Severity:** Low  
-**Categories:** Phishing  
 
 ---
 
@@ -579,8 +573,6 @@
 
 **Source:** Threat Post  
 **Published:** Fri, 26 Aug 2022 16:44:27 +0000  
-**Severity:** High  
-**Categories:** Ransomware  
 
 ---
 
@@ -588,9 +580,6 @@
 
 **Source:** Threat Post  
 **Published:** Thu, 25 Aug 2022 18:47:15 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2021-36260  
-**Categories:** Data Breach, Vulnerability, APT  
 
 ---
 
@@ -598,8 +587,6 @@
 
 **Source:** Threat Post  
 **Published:** Wed, 24 Aug 2022 14:17:04 +0000  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -607,9 +594,6 @@
 
 **Source:** Threat Post  
 **Published:** Tue, 23 Aug 2022 13:19:58 +0000  
-**Severity:** High  
-**CVEs:** CVE-2022-0028  
-**Categories:** Vulnerability  
 
 ---
 
@@ -617,9 +601,6 @@
 
 **Source:** Threat Post  
 **Published:** Mon, 22 Aug 2022 13:59:06 +0000  
-**Severity:** Low  
-**CVEs:** CVE-2017-11882  
-**Categories:** Vulnerability, Malware  
 
 ---
 
@@ -627,9 +608,6 @@
 
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
-**Categories:** Vulnerability, Supply Chain  
 
 ---
 
@@ -637,9 +615,6 @@
 
 **Source:** Threat Post  
 **Published:** Thu, 18 Aug 2022 14:31:38 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2022-2856  
-**Categories:** Vulnerability  
 
 ---
 
