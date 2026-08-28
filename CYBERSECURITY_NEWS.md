@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-28 20:19:09 UTC
+**Last Updated:** 2026-08-28 22:02:53 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication](https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html)
+### 1. [Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable](https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 29 Aug 2026 02:08:47 +0530  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication](https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 28 Aug 2026 22:42:15 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers](https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html)
+### 3. [Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers](https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 28 Aug 2026 21:50:46 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body](https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html)
+### 4. [ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body](https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 28 Aug 2026 21:26:55 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code](https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html)
+### 5. [19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code](https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 28 Aug 2026 20:57:26 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth](https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html)
+### 6. [Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth](https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 28 Aug 2026 17:37:24 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [Key Reasons Why Identity Fabric Matters in 2026](https://thehackernews.com/2026/08/key-reasons-why-identity-fabric-matters.html)
+### 7. [Key Reasons Why Identity Fabric Matters in 2026](https://thehackernews.com/2026/08/key-reasons-why-identity-fabric-matters.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 28 Aug 2026 17:00:00 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL](https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html)
+### 8. [Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL](https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 28 Aug 2026 16:50:32 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access](https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html)
+### 9. [China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access](https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 28 Aug 2026 16:28:29 +0530  
@@ -76,7 +85,7 @@
 
 ---
 
-### 9. [Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server](https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html)
+### 10. [Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server](https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 28 Aug 2026 15:15:15 +0530  
@@ -86,21 +95,12 @@
 
 ---
 
-### 10. [PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions](https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 28 Aug 2026 13:55:36 +0530  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
 ### 11. [PaperCut releases second emergency patch for exploited flaws](https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 28 Aug 2026 15:08:26 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-82078, CVE-2026-81578  
+**CVEs:** CVE-2026-81578, CVE-2026-82078  
 **Categories:** Vulnerability  
 
 ---
@@ -157,7 +157,7 @@
 **Source:** Bleeping Computer  
 **Published:** Fri, 28 Aug 2026 06:29:42 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-6876, CVE-2026-74820, CVE-2026-18886, CVE-2026-18885  
+**CVEs:** CVE-2026-18885, CVE-2026-6876, CVE-2026-74820, CVE-2026-18886  
 **Categories:** Vulnerability  
 
 ---
@@ -212,7 +212,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62832, CVE-2026-72971, CVE-2026-68820  
+**CVEs:** CVE-2026-68820, CVE-2026-72971, CVE-2026-62832  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -249,7 +249,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56155, CVE-2026-56164, CVE-2026-50661, CVE-2026-48561  
+**CVEs:** CVE-2026-50661, CVE-2026-48561, CVE-2026-56164, CVE-2026-56155  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -332,7 +332,7 @@
 **Source:** Security Week  
 **Published:** Fri, 28 Aug 2026 08:40:36 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-82078, CVE-2026-81578  
+**CVEs:** CVE-2026-81578, CVE-2026-82078  
 **Categories:** Ransomware, Vulnerability  
 
 ---
