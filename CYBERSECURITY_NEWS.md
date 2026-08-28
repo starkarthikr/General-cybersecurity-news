@@ -1,10 +1,38 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-28 01:03:59 UTC
+**Last Updated:** 2026-08-28 10:49:12 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face](https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html)
+### 1. [Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server](https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 28 Aug 2026 15:15:15 +0530  
+**Severity:** Critical  
+**CVEs:** CVE-2026-65643  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions](https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 28 Aug 2026 13:55:36 +0530  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [APT28-Linked HOOKEDGE Backdoor Targets European Government and Diplomatic Organizations](https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 28 Aug 2026 13:50:59 +0530  
+**Severity:** Medium  
+**Categories:** Malware, APT  
+
+---
+
+### 4. [OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face](https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 28 Aug 2026 00:06:19 +0530  
@@ -13,7 +41,7 @@
 
 ---
 
-### 2. [Next.js Patches Critical AVIF and Windows Flaws Enabling Unauthenticated RCE](https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html)
+### 5. [Next.js Patches Critical AVIF and Windows Flaws Enabling Unauthenticated RCE](https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 27 Aug 2026 20:43:00 +0530  
@@ -22,7 +50,7 @@
 
 ---
 
-### 3. [ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories](https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html)
+### 6. [ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories](https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 27 Aug 2026 20:42:16 +0530  
@@ -31,7 +59,7 @@
 
 ---
 
-### 4. [Amazon Kiro Prompt Injection Can Exfiltrate Sensitive Data Through Kiro Powers](https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html)
+### 7. [Amazon Kiro Prompt Injection Can Exfiltrate Sensitive Data Through Kiro Powers](https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 27 Aug 2026 19:09:56 +0530  
@@ -40,7 +68,7 @@
 
 ---
 
-### 5. [Learn How to Build Security Operations Ready for AI-Powered Attacks](https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html)
+### 8. [Learn How to Build Security Operations Ready for AI-Powered Attacks](https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 27 Aug 2026 17:26:30 +0530  
@@ -49,7 +77,7 @@
 
 ---
 
-### 6. [Alleged TeamPCP Hackers Charged in Australia Over Major Supply Chain Attacks](https://thehackernews.com/2026/08/alleged-teampcp-hackers-charged-in.html)
+### 9. [Alleged TeamPCP Hackers Charged in Australia Over Major Supply Chain Attacks](https://thehackernews.com/2026/08/alleged-teampcp-hackers-charged-in.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 27 Aug 2026 17:26:26 +0530  
@@ -58,7 +86,7 @@
 
 ---
 
-### 7. [What the Data Says About AI in Security Operations in 2026](https://thehackernews.com/2026/08/what-data-says-about-ai-in-security.html)
+### 10. [What the Data Says About AI in Security Operations in 2026](https://thehackernews.com/2026/08/what-data-says-about-ai-in-security.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 27 Aug 2026 17:00:00 +0530  
@@ -67,34 +95,26 @@
 
 ---
 
-### 8. [Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools](https://thehackernews.com/2026/08/spark-rat-targets-cambodia-abuses.html)
+### 11. [ServiceNow warns of three max severity security vulnerabilities](https://www.bleepingcomputer.com/news/security/servicenow-warns-of-three-max-severity-security-vulnerabilities/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 27 Aug 2026 16:30:57 +0530  
+**Source:** Bleeping Computer  
+**Published:** Fri, 28 Aug 2026 06:29:42 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-6876, CVE-2026-18886, CVE-2026-18885, CVE-2026-74820  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [Windows 11 KB5120998 update released with 35 changes and fixes](https://www.bleepingcomputer.com/news/security/windows-11-kb5120998-update-released-with-35-changes-and-fixes/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 28 Aug 2026 05:10:13 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 9. [GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address](https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 27 Aug 2026 15:03:38 +0530  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 10. [New GPUThor Rowhammer Defeats ECC on NVIDIA RTX A6000 to Gain Host Root Access](https://thehackernews.com/2026/08/gputhor-rowhammer-defeats-ecc-on-nvidia.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 27 Aug 2026 13:43:11 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 11. [Nearly 700 rogue AI agents coordinated in the Hugging Face attack](https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/)
+### 13. [Nearly 700 rogue AI agents coordinated in the Hugging Face attack](https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 27 Aug 2026 17:38:53 -0400  
@@ -103,7 +123,7 @@
 
 ---
 
-### 12. [PaperCut warns of NG, MF flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/)
+### 14. [PaperCut warns of NG, MF flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 27 Aug 2026 12:31:53 -0400  
@@ -112,7 +132,7 @@
 
 ---
 
-### 13. [Manchester Airports Group says hackers stole travelers' data](https://www.bleepingcomputer.com/news/security/manchester-airports-group-says-hackers-stole-travelers-data/)
+### 15. [Manchester Airports Group says hackers stole travelers' data](https://www.bleepingcomputer.com/news/security/manchester-airports-group-says-hackers-stole-travelers-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 27 Aug 2026 12:12:26 -0400  
@@ -121,7 +141,7 @@
 
 ---
 
-### 14. [How Threat Research and MDR Help SMBs Build a Defensive Edge](https://www.bleepingcomputer.com/news/security/how-threat-research-and-mdr-help-smbs-build-a-defensive-edge/)
+### 16. [How Threat Research and MDR Help SMBs Build a Defensive Edge](https://www.bleepingcomputer.com/news/security/how-threat-research-and-mdr-help-smbs-build-a-defensive-edge/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 27 Aug 2026 10:00:10 -0400  
@@ -130,7 +150,7 @@
 
 ---
 
-### 15. [Android 17 adds ECH support to make web browsing harder to track](https://www.bleepingcomputer.com/news/security/android-17-adds-ech-support-to-make-web-browsing-harder-to-track/)
+### 17. [Android 17 adds ECH support to make web browsing harder to track](https://www.bleepingcomputer.com/news/security/android-17-adds-ech-support-to-make-web-browsing-harder-to-track/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 27 Aug 2026 10:00:00 -0400  
@@ -139,7 +159,7 @@
 
 ---
 
-### 16. [Australia arrests alleged TeamPCP hackers behind supply-chain attacks](https://www.bleepingcomputer.com/news/security/australia-arrests-alleged-teampcp-hackers-behind-supply-chain-attacks/)
+### 18. [Australia arrests alleged TeamPCP hackers behind supply-chain attacks](https://www.bleepingcomputer.com/news/security/australia-arrests-alleged-teampcp-hackers-behind-supply-chain-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 27 Aug 2026 09:31:13 -0400  
@@ -148,7 +168,7 @@
 
 ---
 
-### 17. [Microsoft rolls out fix for Windows 11 crashes, gaming issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-windows-11-crashes-gaming-issues/)
+### 19. [Microsoft rolls out fix for Windows 11 crashes, gaming issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-windows-11-crashes-gaming-issues/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 27 Aug 2026 08:16:32 -0400  
@@ -157,31 +177,12 @@
 
 ---
 
-### 18. [Webinar: How Google Workspace breaches happen and what to do next](https://www.bleepingcomputer.com/news/security/webinar-how-google-workspace-breaches-happen-and-what-to-do-next/)
+### 20. [Webinar: How Google Workspace breaches happen and what to do next](https://www.bleepingcomputer.com/news/security/webinar-how-google-workspace-breaches-happen-and-what-to-do-next/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 27 Aug 2026 08:16:24 -0400  
 **Severity:** Critical  
 **Categories:** Vulnerability, Supply Chain  
-
----
-
-### 19. [Carhartt data breach exposes information of 12.9 million accounts](https://www.bleepingcomputer.com/news/security/carhartt-data-breach-exposes-information-of-129-million-accounts/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 27 Aug 2026 07:10:04 -0400  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach  
-
----
-
-### 20. [CISA orders feds to patch Citrix NetScaler RCE flaw by Saturday](https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploiting-citrix-netscaler-rce-flaw-in-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 27 Aug 2026 05:16:50 -0400  
-**Severity:** High  
-**CVEs:** CVE-2026-8452  
-**Categories:** Vulnerability, DDoS  
 
 ---
 
@@ -208,7 +209,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-72971, CVE-2026-62832, CVE-2026-68820  
+**CVEs:** CVE-2026-62832, CVE-2026-68820, CVE-2026-72971  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -245,7 +246,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56155, CVE-2026-48561, CVE-2026-50661, CVE-2026-56164  
+**CVEs:** CVE-2026-48561, CVE-2026-50661, CVE-2026-56164, CVE-2026-56155  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -277,7 +278,25 @@
 
 ---
 
-### 31. [Trump Order Aims to Block Foreign Backdoors in US Power Grid Gear](https://www.securityweek.com/trump-order-aims-to-block-foreign-backdoors-in-us-power-grid-gear/)
+### 31. [Think You’ve Eliminated Chinese AI? Check the Model’s Lineage, Cisco Says](https://www.securityweek.com/think-youve-eliminated-chinese-ai-check-the-models-lineage-cisco-says/)
+
+**Source:** Security Week  
+**Published:** Fri, 28 Aug 2026 10:30:00 +0000  
+**Severity:** High  
+**Categories:** Vulnerability, Malware, Supply Chain  
+
+---
+
+### 32. [PaperCut Releases Emergency Patch for Exploited Zero-Day](https://www.securityweek.com/papercut-releases-emergency-patch-for-exploited-zero-day/)
+
+**Source:** Security Week  
+**Published:** Fri, 28 Aug 2026 08:40:36 +0000  
+**Severity:** Critical  
+**Categories:** Ransomware, Vulnerability, Malware  
+
+---
+
+### 33. [Trump Order Aims to Block Foreign Backdoors in US Power Grid Gear](https://www.securityweek.com/trump-order-aims-to-block-foreign-backdoors-in-us-power-grid-gear/)
 
 **Source:** Security Week  
 **Published:** Thu, 27 Aug 2026 14:17:26 +0000  
@@ -286,7 +305,7 @@
 
 ---
 
-### 32. [Australia Arrests 2 Alleged TeamPCP Hackers](https://www.securityweek.com/australia-arrests-2-alleged-teampcp-hackers/)
+### 34. [Australia Arrests 2 Alleged TeamPCP Hackers](https://www.securityweek.com/australia-arrests-2-alleged-teampcp-hackers/)
 
 **Source:** Security Week  
 **Published:** Thu, 27 Aug 2026 12:48:03 +0000  
@@ -295,7 +314,7 @@
 
 ---
 
-### 33. [OpenAI Agents Coordinated via Makeshift Message Board Ahead of Hugging Face Hack](https://www.securityweek.com/openai-agents-coordinated-via-makeshift-message-board-ahead-of-hugging-face-hack/)
+### 35. [OpenAI Agents Coordinated via Makeshift Message Board Ahead of Hugging Face Hack](https://www.securityweek.com/openai-agents-coordinated-via-makeshift-message-board-ahead-of-hugging-face-hack/)
 
 **Source:** Security Week  
 **Published:** Thu, 27 Aug 2026 11:58:01 +0000  
@@ -304,7 +323,7 @@
 
 ---
 
-### 34. [Okta Shares Surge on Strong Earnings, Growing Demand for AI Identity Security](https://www.securityweek.com/okta-shares-surge-on-strong-earnings-growing-demand-for-ai-identity-security/)
+### 36. [Okta Shares Surge on Strong Earnings, Growing Demand for AI Identity Security](https://www.securityweek.com/okta-shares-surge-on-strong-earnings-growing-demand-for-ai-identity-security/)
 
 **Source:** Security Week  
 **Published:** Thu, 27 Aug 2026 11:53:10 +0000  
@@ -313,7 +332,7 @@
 
 ---
 
-### 35. [CISO Conversations: Chris Wheeler – Trust Is the Job, From the Navy to the C-Suite](https://www.securityweek.com/ciso-conversations-chris-wheeler-trust-is-the-job-from-the-navy-to-the-c-suite/)
+### 37. [CISO Conversations: Chris Wheeler – Trust Is the Job, From the Navy to the C-Suite](https://www.securityweek.com/ciso-conversations-chris-wheeler-trust-is-the-job-from-the-navy-to-the-c-suite/)
 
 **Source:** Security Week  
 **Published:** Thu, 27 Aug 2026 11:15:00 +0000  
@@ -322,7 +341,7 @@
 
 ---
 
-### 36. [Cyberattack Causes Global Disruption at Boston Scientific](https://www.securityweek.com/cyberattack-causes-global-disruption-at-boston-scientific/)
+### 38. [Cyberattack Causes Global Disruption at Boston Scientific](https://www.securityweek.com/cyberattack-causes-global-disruption-at-boston-scientific/)
 
 **Source:** Security Week  
 **Published:** Thu, 27 Aug 2026 10:18:27 +0000  
@@ -331,7 +350,7 @@
 
 ---
 
-### 37. [The Future of AI-Driven Security Depends on Complete Data](https://www.securityweek.com/the-future-of-ai-driven-security-depends-on-complete-data/)
+### 39. [The Future of AI-Driven Security Depends on Complete Data](https://www.securityweek.com/the-future-of-ai-driven-security-depends-on-complete-data/)
 
 **Source:** Security Week  
 **Published:** Thu, 27 Aug 2026 10:00:00 +0000  
@@ -340,31 +359,12 @@
 
 ---
 
-### 38. [US Disrupts Chinese Hacking Platform Used in Military and Critical Infrastructure Attacks](https://www.securityweek.com/us-disrupts-chinese-hacking-platform-used-in-military-and-critical-infrastructure-attacks/)
+### 40. [US Disrupts Chinese Hacking Platform Used in Military and Critical Infrastructure Attacks](https://www.securityweek.com/us-disrupts-chinese-hacking-platform-used-in-military-and-critical-infrastructure-attacks/)
 
 **Source:** Security Week  
 **Published:** Thu, 27 Aug 2026 09:01:06 +0000  
 **Severity:** Critical  
 **Categories:** Vulnerability, Malware  
-
----
-
-### 39. [Pro-Russian Hackers Claim Responsibility for Major Cyberattack on Norway’s Public Digital Services](https://www.securityweek.com/pro-russian-hackers-claim-responsibility-for-major-cyberattack-on-norways-public-digital-services/)
-
-**Source:** Security Week  
-**Published:** Thu, 27 Aug 2026 08:00:00 +0000  
-**Severity:** Critical  
-**Categories:** General Security  
-
----
-
-### 40. [Recent Citrix NetScaler Vulnerability Exploited in the Wild](https://www.securityweek.com/recent-citrix-netscaler-vulnerability-exploited-in-the-wild/)
-
-**Source:** Security Week  
-**Published:** Thu, 27 Aug 2026 04:39:19 +0000  
-**Severity:** High  
-**CVEs:** CVE-2026-8451, CVE-2026-8452  
-**Categories:** Vulnerability  
 
 ---
 
@@ -552,6 +552,8 @@
 
 **Source:** Threat Post  
 **Published:** Wed, 31 Aug 2022 12:57:48 +0000  
+**Severity:** Low  
+**Categories:** Data Breach, Supply Chain  
 
 ---
 
@@ -559,6 +561,8 @@
 
 **Source:** Threat Post  
 **Published:** Tue, 30 Aug 2022 16:00:43 +0000  
+**Severity:** Medium  
+**Categories:** APT  
 
 ---
 
@@ -566,6 +570,8 @@
 
 **Source:** Threat Post  
 **Published:** Mon, 29 Aug 2022 14:56:19 +0000  
+**Severity:** Low  
+**Categories:** Phishing  
 
 ---
 
@@ -573,6 +579,8 @@
 
 **Source:** Threat Post  
 **Published:** Fri, 26 Aug 2022 16:44:27 +0000  
+**Severity:** High  
+**Categories:** Ransomware  
 
 ---
 
@@ -580,6 +588,9 @@
 
 **Source:** Threat Post  
 **Published:** Thu, 25 Aug 2022 18:47:15 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2021-36260  
+**Categories:** Data Breach, Vulnerability, APT  
 
 ---
 
@@ -587,6 +598,8 @@
 
 **Source:** Threat Post  
 **Published:** Wed, 24 Aug 2022 14:17:04 +0000  
+**Severity:** Low  
+**Categories:** General Security  
 
 ---
 
@@ -594,6 +607,9 @@
 
 **Source:** Threat Post  
 **Published:** Tue, 23 Aug 2022 13:19:58 +0000  
+**Severity:** High  
+**CVEs:** CVE-2022-0028  
+**Categories:** Vulnerability  
 
 ---
 
@@ -601,6 +617,9 @@
 
 **Source:** Threat Post  
 **Published:** Mon, 22 Aug 2022 13:59:06 +0000  
+**Severity:** Low  
+**CVEs:** CVE-2017-11882  
+**Categories:** Vulnerability, Malware  
 
 ---
 
@@ -608,6 +627,9 @@
 
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**Categories:** Vulnerability, Supply Chain  
 
 ---
 
@@ -615,6 +637,9 @@
 
 **Source:** Threat Post  
 **Published:** Thu, 18 Aug 2022 14:31:38 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2022-2856  
+**Categories:** Vulnerability  
 
 ---
 

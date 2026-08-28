@@ -1,6 +1,63 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server",
+    "link": "https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html",
+    "published": "Fri, 28 Aug 2026 15:15:15 +0530",
+    "summary": "cPanel has released patches for a security flaw affecting domain parking and addon domain functionality in cPanel and WebHost Manager (WHM), which could allow code execution as the root user.\n\nThe vulnerability, assigned the CVE identifier CVE-2026-65643, impacts all supported versions of cPanel &amp; WHM.\n\ncPanel described the issue as a critical security vulnerability and said that an",
+    "analysis": {
+      "issue": "cPanel patches CVE-2026-65643, a critical flaw that lets authenticated accounts with domain controls execute code as root",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-65643"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions",
+    "link": "https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html",
+    "published": "Fri, 28 Aug 2026 13:55:36 +0530",
+    "summary": "PaperCut has alerted customers that bad actors are actively exploiting a vulnerability impacting all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks.\n\nThe company has released an emergency patch for v25 and v26 to address the issue. It said it's \"aware of confirmed customer incidents and is treating this matter with the highest priority.\" An",
+    "analysis": {
+      "issue": "PaperCut says a zero-day affecting all NG and MF versions is actively exploited; emergency patches are available for v25 and v26",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "APT28-Linked HOOKEDGE Backdoor Targets European Government and Diplomatic Organizations",
+    "link": "https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html",
+    "published": "Fri, 28 Aug 2026 13:50:59 +0530",
+    "summary": "Cybersecurity researchers have flagged a fresh set of campaigns targeting government and diplomatic organizations in Romania, Spain, and Türkiye between late September 2025 and early April 2026.\n\nThese campaigns, per Recorded Future Insikt Group, have led to the deployment of a previously undocumented backdoor dubbed HOOKEDGE, a lightweight Windows batch script that's distributed via",
+    "analysis": {
+      "issue": "Recorded Future links HOOKEDGE campaigns targeting European government and diplomatic organizations to APT28 with moderate confidence",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Medium",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
     "link": "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
     "published": "Fri, 28 Aug 2026 00:06:19 +0530",
@@ -59,7 +116,7 @@
     "title": "Amazon Kiro Prompt Injection Can Exfiltrate Sensitive Data Through Kiro Powers",
     "link": "https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html",
     "published": "Thu, 27 Aug 2026 19:09:56 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a vulnerability in Amazon Kiro, an artificial intelligence (AI)-powered, agentic integrated development environment (IDE), that could facilitate data exfiltration via prompt injection and Kiro Powers.\n\nThe security flaw, which does not have a CVE identifier, works against Kiro IDE 0.7.45 on Windows, according to Mindguard. The latest version of",
+    "summary": "Cybersecurity researchers have disclosed details of a vulnerability in Amazon Kiro, an artificial intelligence (AI)-powered, agentic integrated development environment (IDE), that could facilitate data exfiltration via prompt injection and Kiro Powers.\n\nThe security flaw, which does not have a CVE identifier, works against Kiro IDE 0.7.45 on Windows, according to Mindgard. The latest version of",
     "analysis": {
       "issue": "Amazon Kiro flaw lets crafted workspace content trigger sensitive data exfiltration after a user opens the workspace and messages the agent",
       "solution": null,
@@ -127,49 +184,36 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools",
-    "link": "https://thehackernews.com/2026/08/spark-rat-targets-cambodia-abuses.html",
-    "published": "Thu, 27 Aug 2026 16:30:57 +0530",
-    "summary": "Individuals and organizations in Cambodia have emerged as the target of a new campaign that delivers an open-source remote access trojan (RAT) called Spark RAT.\n\n\"The samples employ diverse lure themes, suggesting an effort to appeal to a broad range of potential victims. These include government notices, public health materials, real estate-related content, and other topics,\" Acronis Threat",
+    "source": "Bleeping Computer",
+    "title": "ServiceNow warns of three max severity security vulnerabilities",
+    "link": "https://www.bleepingcomputer.com/news/security/servicenow-warns-of-three-max-severity-security-vulnerabilities/",
+    "published": "Fri, 28 Aug 2026 06:29:42 -0400",
+    "summary": "ServiceNow released security patches for three new maximum-severity AI Platform vulnerabilities that can be exploited in code injection, SQL injection, and privilege escalation attacks. [...]",
     "analysis": {
-      "issue": "Spark RAT targets Cambodia through a multi-stage campaign that uses a vulnerable OPSWAT driver to terminate security processes",
+      "issue": "ServiceNow released security patches for three new maximum-severity AI Platform vulnerabilities that can be exploited in code injection, SQL injection, and privilege escalation attacks",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-6876",
+        "CVE-2026-18886",
+        "CVE-2026-18885",
+        "CVE-2026-74820"
+      ],
       "threat_categories": [
-        "General Security"
+        "Vulnerability"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address",
-    "link": "https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html",
-    "published": "Thu, 27 Aug 2026 15:03:38 +0530",
-    "summary": "Threat actors linked by Arctic Wolf to Dark Caracal with medium confidence deployed a previously undocumented Go-based malware framework, GoCaracal, during a June 2026 intrusion at an unnamed communications organization in Venezuela.\n\nGoCaracal provides operators with remote shell access and payload execution, while the extended profile adds browser data theft, keylogging, remote desktop control",
+    "source": "Bleeping Computer",
+    "title": "Windows 11 KB5120998 update released with 35 changes and fixes",
+    "link": "https://www.bleepingcomputer.com/news/security/windows-11-kb5120998-update-released-with-35-changes-and-fixes/",
+    "published": "Fri, 28 Aug 2026 05:10:13 -0400",
+    "summary": "Microsoft released the KB5120998 preview cumulative update for Windows 11 versions 25H2 and 24H2, which comes with 35 changes, including improvements to the Start menu, taskbar, and Windows search. [...]",
     "analysis": {
-      "issue": "GoCaracal gave operators remote shell access and browser data theft during a June 2026 intrusion at a Venezuelan communications organization",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "New GPUThor Rowhammer Defeats ECC on NVIDIA RTX A6000 to Gain Host Root Access",
-    "link": "https://thehackernews.com/2026/08/gputhor-rowhammer-defeats-ecc-on-nvidia.html",
-    "published": "Thu, 27 Aug 2026 13:43:11 +0530",
-    "summary": "Academic researchers have disclosed a Rowhammer attack impacting NVIDIA workstation GPUs with GDDR6 memory that defeats error correction codes (ECC), the mitigation NVIDIA recommends against GPU Rowhammer, and enables denial-of-service (DoS) and privilege escalation to a root shell.\n\nDubbed GPUThor, the attack was developed by researchers at the University of Toronto, who hammered four DRAM",
-    "analysis": {
-      "issue": "GPUThor defeats ECC on NVIDIA GDDR6 workstation GPUs and demonstrates host privilege escalation to root on an RTX A6000",
+      "issue": "Microsoft released the KB5120998 preview cumulative update for Windows 11 versions 25H2 and 24H2, which comes with 35 changes, including improvements to the Start menu, taskbar, and Windows search",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -326,46 +370,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Carhartt data breach exposes information of 12.9 million accounts",
-    "link": "https://www.bleepingcomputer.com/news/security/carhartt-data-breach-exposes-information-of-129-million-accounts/",
-    "published": "Thu, 27 Aug 2026 07:10:04 -0400",
-    "summary": "The ShinyHunters extortion group has published sensitive data from nearly 13 million accounts stolen from clothing retailer giant Carhartt earlier this month, according to data breach notification service Have I Been Pwned. [...]",
-    "analysis": {
-      "issue": "The ShinyHunters extortion group has published sensitive data from nearly 13 million accounts stolen from clothing retailer giant Carhartt earlier this month, according to data breach notification service Have I Been Pwned",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA orders feds to patch Citrix NetScaler RCE flaw by Saturday",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploiting-citrix-netscaler-rce-flaw-in-attacks/",
-    "published": "Thu, 27 Aug 2026 05:16:50 -0400",
-    "summary": "CISA has ordered U.S. government agencies to patch their Citrix NetScaler appliances against an actively exploited remote code execution vulnerability by Saturday. [...]",
-    "analysis": {
-      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) has ordered government agencies to patch their Citrix NetScaler appliances against an actively exploited vulnerability by Saturday",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2026-8452"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "DDoS"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
     "link": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
@@ -416,9 +420,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-72971",
         "CVE-2026-62832",
-        "CVE-2026-68820"
+        "CVE-2026-68820",
+        "CVE-2026-72971"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -495,10 +499,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56155",
         "CVE-2026-48561",
         "CVE-2026-50661",
-        "CVE-2026-56164"
+        "CVE-2026-56164",
+        "CVE-2026-56155"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -559,6 +563,46 @@
       "threat_categories": [
         "Malware",
         "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Think You’ve Eliminated Chinese AI? Check the Model’s Lineage, Cisco Says",
+    "link": "https://www.securityweek.com/think-youve-eliminated-chinese-ai-check-the-models-lineage-cisco-says/",
+    "published": "Fri, 28 Aug 2026 10:30:00 +0000",
+    "summary": "<p>New research shows that country-of-origin labels can obscure an AI model’s upstream dependencies, inherited behaviors and potential security risks.</p>\n<p>The post <a href=\"https://www.securityweek.com/think-youve-eliminated-chinese-ai-check-the-models-lineage-cisco-says/\">Think You’ve Eliminated Chinese AI? Check the Model’s Lineage, Cisco Says</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "New research shows that country-of-origin labels can obscure an AI model’s upstream dependencies, inherited behaviors and potential security risks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "PaperCut Releases Emergency Patch for Exploited Zero-Day",
+    "link": "https://www.securityweek.com/papercut-releases-emergency-patch-for-exploited-zero-day/",
+    "published": "Fri, 28 Aug 2026 08:40:36 +0000",
+    "summary": "<p>A CVE identifier has not yet been assigned, but PaperCut is urging NG/MF users to install patches and implement mitigations.</p>\n<p>The post <a href=\"https://www.securityweek.com/papercut-releases-emergency-patch-for-exploited-zero-day/\">PaperCut Releases Emergency Patch for Exploited Zero-Day</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "A CVE identifier has not yet been assigned, but PaperCut is urging NG/MF users to install patches and implement mitigations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "Malware"
       ]
     }
   },
@@ -710,45 +754,6 @@
       "threat_categories": [
         "Vulnerability",
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Pro-Russian Hackers Claim Responsibility for Major Cyberattack on Norway’s Public Digital Services",
-    "link": "https://www.securityweek.com/pro-russian-hackers-claim-responsibility-for-major-cyberattack-on-norways-public-digital-services/",
-    "published": "Thu, 27 Aug 2026 08:00:00 +0000",
-    "summary": "<p>The pro-Russian hacker group Server Killers claimed responsibility for the attack.</p>\n<p>The post <a href=\"https://www.securityweek.com/pro-russian-hackers-claim-responsibility-for-major-cyberattack-on-norways-public-digital-services/\">Pro-Russian Hackers Claim Responsibility for Major Cyberattack on Norway’s Public Digital Services</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The pro-Russian hacker group Server Killers claimed responsibility for the attack",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Recent Citrix NetScaler Vulnerability Exploited in the Wild",
-    "link": "https://www.securityweek.com/recent-citrix-netscaler-vulnerability-exploited-in-the-wild/",
-    "published": "Thu, 27 Aug 2026 04:39:19 +0000",
-    "summary": "<p>CISA is urging government agencies to immediately patch the Citrix NetScaler vulnerability tracked as CVE-2026-8452.</p>\n<p>The post <a href=\"https://www.securityweek.com/recent-citrix-netscaler-vulnerability-exploited-in-the-wild/\">Recent Citrix NetScaler Vulnerability Exploited in the Wild</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "CISA is urging government agencies to immediately patch the Citrix NetScaler vulnerability tracked as CVE-2026-8452",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2026-8451",
-        "CVE-2026-8452"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -1121,70 +1126,196 @@
     "title": "Student Loan Breach Exposes 2.5M Records",
     "link": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "published": "Wed, 31 Aug 2022 12:57:48 +0000",
-    "summary": "2.5 million people were affected, in a breach that could spell more trouble down the line."
+    "summary": "2.5 million people were affected, in a breach that could spell more trouble down the line.",
+    "analysis": {
+      "issue": "5 million people were affected, in a breach that could spell more trouble down the line",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Supply Chain"
+      ]
+    }
   },
   {
     "source": "Threat Post",
     "title": "Watering Hole Attacks Push ScanBox Keylogger",
     "link": "https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/",
     "published": "Tue, 30 Aug 2022 16:00:43 +0000",
-    "summary": "Researchers uncover a watering hole attack likely carried out by APT TA423, which attempts to plant the ScanBox JavaScript-based reconnaissance tool."
+    "summary": "Researchers uncover a watering hole attack likely carried out by APT TA423, which attempts to plant the ScanBox JavaScript-based reconnaissance tool.",
+    "analysis": {
+      "issue": "Share this article: Researchers uncover a watering hole attack likely carried out by APT TA423, which attempts to plant the ScanBox JavaScript-based reconnaissance tool",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Medium",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
   },
   {
     "source": "Threat Post",
     "title": "Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms",
     "link": "https://threatpost.com/0ktapus-victimize-130-firms/180487/",
     "published": "Mon, 29 Aug 2022 14:56:19 +0000",
-    "summary": "Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system."
+    "summary": "Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.",
+    "analysis": {
+      "issue": "Share this article: Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
   },
   {
     "source": "Threat Post",
     "title": "Ransomware Attacks are on the Rise",
     "link": "https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/",
     "published": "Fri, 26 Aug 2022 16:44:27 +0000",
-    "summary": "Lockbit is by far this summer’s most prolific ransomware group, trailed by two offshoots of the Conti group."
+    "summary": "Lockbit is by far this summer’s most prolific ransomware group, trailed by two offshoots of the Conti group.",
+    "analysis": {
+      "issue": "Share this article: Lockbit is by far this summer’s most prolific ransomware group, trailed by two offshoots of the Conti group",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
+      ]
+    }
   },
   {
     "source": "Threat Post",
     "title": "Cybercriminals Are Selling Access to Chinese Surveillance Cameras",
     "link": "https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/",
     "published": "Thu, 25 Aug 2022 18:47:15 +0000",
-    "summary": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed."
+    "summary": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.",
+    "analysis": {
+      "issue": "Share this article: Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2021-36260"
+      ],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability",
+        "APT"
+      ]
+    }
   },
   {
     "source": "Threat Post",
     "title": "Twitter Whistleblower Complaint: The TL;DR Version",
     "link": "https://threatpost.com/twitter-whistleblower-tldr-version/180472/",
     "published": "Wed, 24 Aug 2022 14:17:04 +0000",
-    "summary": "Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a national security risk."
+    "summary": "Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a national security risk.",
+    "analysis": {
+      "issue": "Share this article: Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a national security risk",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
   },
   {
     "source": "Threat Post",
     "title": "Firewall Bug Under Active Attack Triggers CISA Warning",
     "link": "https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467/",
     "published": "Tue, 23 Aug 2022 13:19:58 +0000",
-    "summary": "CISA is warning that Palo Alto Networks’ PAN-OS is under active attack and needs to be patched ASAP."
+    "summary": "CISA is warning that Palo Alto Networks’ PAN-OS is under active attack and needs to be patched ASAP.",
+    "analysis": {
+      "issue": "Share this article: CISA is warning that Palo Alto Networks’ PAN-OS is under active attack and needs to be patched ASAP",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2022-0028"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
   },
   {
     "source": "Threat Post",
     "title": "Fake Reservation Links Prey on Weary Travelers",
     "link": "https://threatpost.com/reservation-links-prey-on-travelers/180462/",
     "published": "Mon, 22 Aug 2022 13:59:06 +0000",
-    "summary": "Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels."
+    "summary": "Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels.",
+    "analysis": {
+      "issue": "Share this article: Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2017-11882"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
   },
   {
     "source": "Threat Post",
     "title": "iPhone Users Urged to Update to Patch 2 Zero-Days",
     "link": "https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/",
     "published": "Fri, 19 Aug 2022 15:25:56 +0000",
-    "summary": "Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack."
+    "summary": "Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.",
+    "analysis": {
+      "issue": "Share this article: Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2022-32893",
+        "CVE-2022-32894"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
   },
   {
     "source": "Threat Post",
     "title": "Google Patches Chrome’s Fifth Zero-Day of the Year",
     "link": "https://threatpost.com/google-patches-chromes-fifth-zero-day-of-the-year/180432/",
     "published": "Thu, 18 Aug 2022 14:31:38 +0000",
-    "summary": "An insufficient validation input flaw, one of 11 patched in an update this week, could allow for arbitrary code execution and is under active attack."
+    "summary": "An insufficient validation input flaw, one of 11 patched in an update this week, could allow for arbitrary code execution and is under active attack.",
+    "analysis": {
+      "issue": "Share this article: An insufficient validation input flaw, one of 11 patched in an update this week, could allow for arbitrary code execution and is under active attack",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2022-2856"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
   },
   {
     "source": "Malwarebytes",
