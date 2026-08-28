@@ -1,10 +1,82 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-28 10:49:12 UTC
+**Last Updated:** 2026-08-28 20:19:09 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server](https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html)
+### 1. [Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication](https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 28 Aug 2026 22:42:15 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers](https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 28 Aug 2026 21:50:46 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body](https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 28 Aug 2026 21:26:55 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 4. [19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code](https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 28 Aug 2026 20:57:26 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 5. [Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth](https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 28 Aug 2026 17:37:24 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 6. [Key Reasons Why Identity Fabric Matters in 2026](https://thehackernews.com/2026/08/key-reasons-why-identity-fabric-matters.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 28 Aug 2026 17:00:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 7. [Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL](https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 28 Aug 2026 16:50:32 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 8. [China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access](https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 28 Aug 2026 16:28:29 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 9. [Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server](https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 28 Aug 2026 15:15:15 +0530  
@@ -14,7 +86,7 @@
 
 ---
 
-### 2. [PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions](https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html)
+### 10. [PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions](https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 28 Aug 2026 13:55:36 +0530  
@@ -23,89 +95,74 @@
 
 ---
 
-### 3. [APT28-Linked HOOKEDGE Backdoor Targets European Government and Diplomatic Organizations](https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html)
+### 11. [PaperCut releases second emergency patch for exploited flaws](https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 28 Aug 2026 13:50:59 +0530  
-**Severity:** Medium  
-**Categories:** Malware, APT  
+**Source:** Bleeping Computer  
+**Published:** Fri, 28 Aug 2026 15:08:26 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-82078, CVE-2026-81578  
+**Categories:** Vulnerability  
 
 ---
 
-### 4. [OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face](https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html)
+### 12. [GiveWP WordPress donation plugin flaw lets hackers execute server commands](https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 28 Aug 2026 00:06:19 +0530  
+**Source:** Bleeping Computer  
+**Published:** Fri, 28 Aug 2026 14:18:55 -0400  
+**Severity:** Low  
+**CVEs:** CVE-2026-82222  
+**Categories:** Vulnerability  
+
+---
+
+### 13. [68-year-old imprisoned after making $1.3 million by pirating IPTV services](https://www.bleepingcomputer.com/news/security/68-year-old-imprisoned-after-making-13-million-by-pirating-iptv-services/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 28 Aug 2026 12:36:47 -0400  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 14. [AI Is Accelerating Vulnerability Discovery. Can Defenders Keep Up?](https://www.bleepingcomputer.com/news/security/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 28 Aug 2026 10:00:10 -0400  
 **Severity:** Critical  
 **Categories:** Vulnerability  
 
 ---
 
-### 5. [Next.js Patches Critical AVIF and Windows Flaws Enabling Unauthenticated RCE](https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html)
+### 15. [Over 8,300 Gitea servers vulnerable to code execution attacks](https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 27 Aug 2026 20:43:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Fri, 28 Aug 2026 08:58:43 -0400  
 **Severity:** Critical  
-**Categories:** General Security  
+**CVEs:** CVE-2026-60004  
+**Categories:** Vulnerability  
 
 ---
 
-### 6. [ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories](https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html)
+### 16. [Toy-making giant Hasbro disclose data breach affecting employees](https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 27 Aug 2026 20:42:16 +0530  
+**Source:** Bleeping Computer  
+**Published:** Fri, 28 Aug 2026 07:46:57 -0400  
 **Severity:** Low  
-**Categories:** Malware, Phishing  
+**Categories:** Ransomware, Data Breach  
 
 ---
 
-### 7. [Amazon Kiro Prompt Injection Can Exfiltrate Sensitive Data Through Kiro Powers](https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 27 Aug 2026 19:09:56 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 8. [Learn How to Build Security Operations Ready for AI-Powered Attacks](https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 27 Aug 2026 17:26:30 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 9. [Alleged TeamPCP Hackers Charged in Australia Over Major Supply Chain Attacks](https://thehackernews.com/2026/08/alleged-teampcp-hackers-charged-in.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 27 Aug 2026 17:26:26 +0530  
-**Severity:** Low  
-**Categories:** Supply Chain  
-
----
-
-### 10. [What the Data Says About AI in Security Operations in 2026](https://thehackernews.com/2026/08/what-data-says-about-ai-in-security.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 27 Aug 2026 17:00:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 11. [ServiceNow warns of three max severity security vulnerabilities](https://www.bleepingcomputer.com/news/security/servicenow-warns-of-three-max-severity-security-vulnerabilities/)
+### 17. [ServiceNow warns of three max severity security vulnerabilities](https://www.bleepingcomputer.com/news/security/servicenow-warns-of-three-max-severity-security-vulnerabilities/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 28 Aug 2026 06:29:42 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-6876, CVE-2026-18886, CVE-2026-18885, CVE-2026-74820  
+**CVEs:** CVE-2026-6876, CVE-2026-74820, CVE-2026-18886, CVE-2026-18885  
 **Categories:** Vulnerability  
 
 ---
 
-### 12. [Windows 11 KB5120998 update released with 35 changes and fixes](https://www.bleepingcomputer.com/news/security/windows-11-kb5120998-update-released-with-35-changes-and-fixes/)
+### 18. [Windows 11 KB5120998 update released with 35 changes and fixes](https://www.bleepingcomputer.com/news/security/windows-11-kb5120998-update-released-with-35-changes-and-fixes/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 28 Aug 2026 05:10:13 -0400  
@@ -114,7 +171,7 @@
 
 ---
 
-### 13. [Nearly 700 rogue AI agents coordinated in the Hugging Face attack](https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/)
+### 19. [Nearly 700 rogue AI agents coordinated in the Hugging Face attack](https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 27 Aug 2026 17:38:53 -0400  
@@ -123,66 +180,12 @@
 
 ---
 
-### 14. [PaperCut warns of NG, MF flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/)
+### 20. [PaperCut warns of NG, MF flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 27 Aug 2026 12:31:53 -0400  
 **Severity:** Critical  
 **Categories:** Vulnerability  
-
----
-
-### 15. [Manchester Airports Group says hackers stole travelers' data](https://www.bleepingcomputer.com/news/security/manchester-airports-group-says-hackers-stole-travelers-data/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 27 Aug 2026 12:12:26 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 16. [How Threat Research and MDR Help SMBs Build a Defensive Edge](https://www.bleepingcomputer.com/news/security/how-threat-research-and-mdr-help-smbs-build-a-defensive-edge/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 27 Aug 2026 10:00:10 -0400  
-**Severity:** High  
-**Categories:** General Security  
-
----
-
-### 17. [Android 17 adds ECH support to make web browsing harder to track](https://www.bleepingcomputer.com/news/security/android-17-adds-ech-support-to-make-web-browsing-harder-to-track/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 27 Aug 2026 10:00:00 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 18. [Australia arrests alleged TeamPCP hackers behind supply-chain attacks](https://www.bleepingcomputer.com/news/security/australia-arrests-alleged-teampcp-hackers-behind-supply-chain-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 27 Aug 2026 09:31:13 -0400  
-**Severity:** High  
-**Categories:** Supply Chain  
-
----
-
-### 19. [Microsoft rolls out fix for Windows 11 crashes, gaming issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-windows-11-crashes-gaming-issues/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 27 Aug 2026 08:16:32 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [Webinar: How Google Workspace breaches happen and what to do next](https://www.bleepingcomputer.com/news/security/webinar-how-google-workspace-breaches-happen-and-what-to-do-next/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 27 Aug 2026 08:16:24 -0400  
-**Severity:** Critical  
-**Categories:** Vulnerability, Supply Chain  
 
 ---
 
@@ -209,7 +212,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62832, CVE-2026-68820, CVE-2026-72971  
+**CVEs:** CVE-2026-62832, CVE-2026-72971, CVE-2026-68820  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -246,7 +249,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48561, CVE-2026-50661, CVE-2026-56164, CVE-2026-56155  
+**CVEs:** CVE-2026-56155, CVE-2026-56164, CVE-2026-50661, CVE-2026-48561  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -278,7 +281,44 @@
 
 ---
 
-### 31. [Think You’ve Eliminated Chinese AI? Check the Model’s Lineage, Cisco Says](https://www.securityweek.com/think-youve-eliminated-chinese-ai-check-the-models-lineage-cisco-says/)
+### 31. [In Other News: Log4j RCE Scare, Minimus Shutdown, Iranian Hacker Sanctions](https://www.securityweek.com/in-other-news-log4j-rce-scare-minimus-shutdown-iranian-hacker-sanctions/)
+
+**Source:** Security Week  
+**Published:** Fri, 28 Aug 2026 15:35:34 +0000  
+**Severity:** Critical  
+**Categories:** Ransomware, Data Breach, Vulnerability, Malware, Phishing, APT  
+
+---
+
+### 32. [ATF Confirms Cyber Incident After Ransomware Group Claims Attack](https://www.securityweek.com/atf-confirms-cyber-incident-after-ransomware-group-claims-attack/)
+
+**Source:** Security Week  
+**Published:** Fri, 28 Aug 2026 13:59:14 +0000  
+**Severity:** Critical  
+**Categories:** Ransomware, Data Breach, Vulnerability  
+
+---
+
+### 33. [OpenAI Agents Exploited Linux Kernel Flaw on Company’s Own Systems](https://www.securityweek.com/openai-agents-exploited-linux-kernel-flaw-on-companys-own-systems/)
+
+**Source:** Security Week  
+**Published:** Fri, 28 Aug 2026 12:36:53 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-66384, CVE-2026-53362  
+**Categories:** Vulnerability  
+
+---
+
+### 34. [Tech, Cybersecurity Giants Unite Behind OpenAI-Led Cyber Defense Pledge](https://www.securityweek.com/tech-cybersecurity-giants-unite-behind-openai-led-cyber-defense-pledge/)
+
+**Source:** Security Week  
+**Published:** Fri, 28 Aug 2026 11:01:22 +0000  
+**Severity:** Critical  
+**Categories:** Malware  
+
+---
+
+### 35. [Think You’ve Eliminated Chinese AI? Check the Model’s Lineage, Cisco Says](https://www.securityweek.com/think-youve-eliminated-chinese-ai-check-the-models-lineage-cisco-says/)
 
 **Source:** Security Week  
 **Published:** Fri, 28 Aug 2026 10:30:00 +0000  
@@ -287,16 +327,17 @@
 
 ---
 
-### 32. [PaperCut Releases Emergency Patch for Exploited Zero-Day](https://www.securityweek.com/papercut-releases-emergency-patch-for-exploited-zero-day/)
+### 36. [PaperCut Releases Emergency Patch for Exploited Zero-Day](https://www.securityweek.com/papercut-releases-emergency-patch-for-exploited-zero-day/)
 
 **Source:** Security Week  
 **Published:** Fri, 28 Aug 2026 08:40:36 +0000  
 **Severity:** Critical  
-**Categories:** Ransomware, Vulnerability, Malware  
+**CVEs:** CVE-2026-82078, CVE-2026-81578  
+**Categories:** Ransomware, Vulnerability  
 
 ---
 
-### 33. [Trump Order Aims to Block Foreign Backdoors in US Power Grid Gear](https://www.securityweek.com/trump-order-aims-to-block-foreign-backdoors-in-us-power-grid-gear/)
+### 37. [Trump Order Aims to Block Foreign Backdoors in US Power Grid Gear](https://www.securityweek.com/trump-order-aims-to-block-foreign-backdoors-in-us-power-grid-gear/)
 
 **Source:** Security Week  
 **Published:** Thu, 27 Aug 2026 14:17:26 +0000  
@@ -305,7 +346,7 @@
 
 ---
 
-### 34. [Australia Arrests 2 Alleged TeamPCP Hackers](https://www.securityweek.com/australia-arrests-2-alleged-teampcp-hackers/)
+### 38. [Australia Arrests 2 Alleged TeamPCP Hackers](https://www.securityweek.com/australia-arrests-2-alleged-teampcp-hackers/)
 
 **Source:** Security Week  
 **Published:** Thu, 27 Aug 2026 12:48:03 +0000  
@@ -314,7 +355,7 @@
 
 ---
 
-### 35. [OpenAI Agents Coordinated via Makeshift Message Board Ahead of Hugging Face Hack](https://www.securityweek.com/openai-agents-coordinated-via-makeshift-message-board-ahead-of-hugging-face-hack/)
+### 39. [OpenAI Agents Coordinated via Makeshift Message Board Ahead of Hugging Face Hack](https://www.securityweek.com/openai-agents-coordinated-via-makeshift-message-board-ahead-of-hugging-face-hack/)
 
 **Source:** Security Week  
 **Published:** Thu, 27 Aug 2026 11:58:01 +0000  
@@ -323,48 +364,12 @@
 
 ---
 
-### 36. [Okta Shares Surge on Strong Earnings, Growing Demand for AI Identity Security](https://www.securityweek.com/okta-shares-surge-on-strong-earnings-growing-demand-for-ai-identity-security/)
+### 40. [Okta Shares Surge on Strong Earnings, Growing Demand for AI Identity Security](https://www.securityweek.com/okta-shares-surge-on-strong-earnings-growing-demand-for-ai-identity-security/)
 
 **Source:** Security Week  
 **Published:** Thu, 27 Aug 2026 11:53:10 +0000  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 37. [CISO Conversations: Chris Wheeler – Trust Is the Job, From the Navy to the C-Suite](https://www.securityweek.com/ciso-conversations-chris-wheeler-trust-is-the-job-from-the-navy-to-the-c-suite/)
-
-**Source:** Security Week  
-**Published:** Thu, 27 Aug 2026 11:15:00 +0000  
-**Severity:** Low  
-**Categories:** APT  
-
----
-
-### 38. [Cyberattack Causes Global Disruption at Boston Scientific](https://www.securityweek.com/cyberattack-causes-global-disruption-at-boston-scientific/)
-
-**Source:** Security Week  
-**Published:** Thu, 27 Aug 2026 10:18:27 +0000  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach  
-
----
-
-### 39. [The Future of AI-Driven Security Depends on Complete Data](https://www.securityweek.com/the-future-of-ai-driven-security-depends-on-complete-data/)
-
-**Source:** Security Week  
-**Published:** Thu, 27 Aug 2026 10:00:00 +0000  
-**Severity:** High  
-**Categories:** Supply Chain  
-
----
-
-### 40. [US Disrupts Chinese Hacking Platform Used in Military and Critical Infrastructure Attacks](https://www.securityweek.com/us-disrupts-chinese-hacking-platform-used-in-military-and-critical-infrastructure-attacks/)
-
-**Source:** Security Week  
-**Published:** Thu, 27 Aug 2026 09:01:06 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, Malware  
 
 ---
 
@@ -643,7 +648,25 @@
 
 ---
 
-### 71. [Flock wants privacy to meet surveillance halfway](https://www.malwarebytes.com/blog/privacy/2026/08/flock-wants-privacy-to-meet-surveillance-halfway)
+### 71. [Protect your WhatsApp account with new passkey and 2FA upgrades](https://www.malwarebytes.com/blog/mobile/2026/08/protect-your-whatsapp-account-with-new-passkey-and-2fa-upgrades)
+
+**Source:** Malwarebytes  
+**Published:** Fri, 28 Aug 2026 13:36:18 GMT  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 72. [The AI agent swarm that attacked Hugging Face is a warning for the future](https://www.malwarebytes.com/blog/ai/2026/08/the-ai-agent-swarm-that-attacked-hugging-face-is-a-warning-for-the-future)
+
+**Source:** Malwarebytes  
+**Published:** Fri, 28 Aug 2026 11:29:23 GMT  
+**Severity:** Low  
+**Categories:** Vulnerability, Phishing  
+
+---
+
+### 73. [Flock wants privacy to meet surveillance halfway](https://www.malwarebytes.com/blog/privacy/2026/08/flock-wants-privacy-to-meet-surveillance-halfway)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 27 Aug 2026 15:15:32 GMT  
@@ -652,7 +675,7 @@
 
 ---
 
-### 72. [Fake listings can turn trusted platforms into scam springboards](https://www.malwarebytes.com/blog/scams/2026/08/fake-listings-can-turn-trusted-platforms-into-scam-springboards)
+### 74. [Fake listings can turn trusted platforms into scam springboards](https://www.malwarebytes.com/blog/scams/2026/08/fake-listings-can-turn-trusted-platforms-into-scam-springboards)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 27 Aug 2026 14:36:03 GMT  
@@ -661,7 +684,7 @@
 
 ---
 
-### 73. [Fake Apple Pay charge brings the classic tech support scam to your phone](https://www.malwarebytes.com/blog/scams/2026/08/fake-apple-pay-charge-brings-the-classic-tech-support-scam-to-your-phone)
+### 75. [Fake Apple Pay charge brings the classic tech support scam to your phone](https://www.malwarebytes.com/blog/scams/2026/08/fake-apple-pay-charge-brings-the-classic-tech-support-scam-to-your-phone)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 27 Aug 2026 12:17:21 GMT  
@@ -670,7 +693,7 @@
 
 ---
 
-### 74. [New Instagram and Facebook rules set a default two-hour limit for teens](https://www.malwarebytes.com/blog/news/2026/08/new-instagram-and-facebook-rules-will-set-a-default-two-hour-daily-limit-for-teens)
+### 76. [New Instagram and Facebook rules set a default two-hour limit for teens](https://www.malwarebytes.com/blog/news/2026/08/new-instagram-and-facebook-rules-will-set-a-default-two-hour-daily-limit-for-teens)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 27 Aug 2026 10:23:13 GMT  
@@ -679,7 +702,7 @@
 
 ---
 
-### 75. [Update Chrome before you browse again](https://www.malwarebytes.com/blog/bugs/2026/08/update-chrome-before-you-browse-again)
+### 77. [Update Chrome before you browse again](https://www.malwarebytes.com/blog/bugs/2026/08/update-chrome-before-you-browse-again)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 26 Aug 2026 13:10:21 GMT  
@@ -689,7 +712,7 @@
 
 ---
 
-### 76. [Popular school apps may be sharing student data with advertisers](https://www.malwarebytes.com/blog/privacy/2026/08/popular-school-apps-may-be-sharing-student-data-with-advertisers)
+### 78. [Popular school apps may be sharing student data with advertisers](https://www.malwarebytes.com/blog/privacy/2026/08/popular-school-apps-may-be-sharing-student-data-with-advertisers)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 26 Aug 2026 12:12:09 GMT  
@@ -698,7 +721,7 @@
 
 ---
 
-### 77. [Beware of fake Indeed interview apps used to install spyware](https://www.malwarebytes.com/blog/scams/2026/08/beware-of-fake-indeed-interview-apps-used-to-install-spyware)
+### 79. [Beware of fake Indeed interview apps used to install spyware](https://www.malwarebytes.com/blog/scams/2026/08/beware-of-fake-indeed-interview-apps-used-to-install-spyware)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 26 Aug 2026 08:00:00 GMT  
@@ -707,30 +730,12 @@
 
 ---
 
-### 78. [Grok fooled into stealing user chat, location data, and more](https://www.malwarebytes.com/blog/ai/2026/08/encrypted-instructions-can-fool-ai-assistants-like-grok-and-gemini)
+### 80. [Grok fooled into stealing user chat, location data, and more](https://www.malwarebytes.com/blog/ai/2026/08/encrypted-instructions-can-fool-ai-assistants-like-grok-and-gemini)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 25 Aug 2026 11:34:18 GMT  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 79. [GTA 6 leak hunt could expose data belonging to thousands of Discord users](https://www.malwarebytes.com/blog/privacy/2026/08/gta-6-leak-hunt-could-expose-data-belonging-to-thousands-of-discord-users)
-
-**Source:** Malwarebytes  
-**Published:** Tue, 25 Aug 2026 10:01:08 GMT  
-**Severity:** Low  
-**Categories:** Data Breach  
-
----
-
-### 80. [TikTok phishing: How to spot fake login and verification pages](https://www.malwarebytes.com/blog/threat-intel/2026/08/tiktok-phishing-how-to-spot-fake-login-and-verification-pages)
-
-**Source:** Malwarebytes  
-**Published:** Tue, 25 Aug 2026 08:00:00 GMT  
-**Severity:** Low  
-**Categories:** Phishing  
 
 ---
 
