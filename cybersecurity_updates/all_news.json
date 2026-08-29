@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
+    "link": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
+    "published": "Sat, 29 Aug 2026 21:55:03 +0530",
+    "summary": "Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, account takeover, and arbitrary code execution.\n\nThe vulnerabilities, according to Wordfence and Patchstack, are listed below -\n\n\n  CVE-2026-76581 (CVSS score: 9.8) - An authentication bypass flaw in",
+    "analysis": {
+      "issue": "Critical flaws in WPMU DEV, Avada, TranslatePress, Pods, and GiveWP can enable admin takeover or remote code execution",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
     "link": "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html",
     "published": "Sat, 29 Aug 2026 03:00:52 +0530",
@@ -151,24 +169,6 @@
     "summary": "ServiceNow has released patches for four security flaws impacting the ServiceNow AI Platform, three of them rated 10.0 on the CVSS scoring system and exploitable, in certain circumstances, by an unauthenticated attacker.\n\nThe company said it deployed a security update to hosted instances and provided the update to its partners and self-hosted customers, which leaves organizations that run their",
     "analysis": {
       "issue": "ServiceNow patched four AI Platform flaws, including three CVSS 10",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access",
-    "link": "https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html",
-    "published": "Fri, 28 Aug 2026 16:28:29 +0530",
-    "summary": "VulnCheck has disclosed two previously undocumented factory implants in firmware for routers built by Shenzhen Zhibotong Electronics (ZBT), each of which gives an unauthenticated remote attacker the ability to run commands as root on affected devices.\n\nThe implants, named SPEAKINGSTONE and DARKLANTERN by the company's zero-day research team, are tracked as CVE-2026-74232 and CVE-2026-74233.",
-    "analysis": {
-      "issue": "Two ZBT router firmware implants enable unauthenticated root command execution, with DARKLANTERN exposed on 203 internet-facing hosts",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -345,10 +345,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-18886",
         "CVE-2026-18885",
         "CVE-2026-74820",
-        "CVE-2026-6876",
-        "CVE-2026-18886"
+        "CVE-2026-6876"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -424,8 +424,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-72971",
         "CVE-2026-62832",
+        "CVE-2026-72971",
         "CVE-2026-68820"
       ],
       "threat_categories": [
@@ -504,9 +504,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-56164",
-        "CVE-2026-50661",
+        "CVE-2026-56155",
         "CVE-2026-48561",
-        "CVE-2026-56155"
+        "CVE-2026-50661"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -646,8 +646,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-53362",
-        "CVE-2026-66384"
+        "CVE-2026-66384",
+        "CVE-2026-53362"
       ],
       "threat_categories": [
         "Vulnerability"
