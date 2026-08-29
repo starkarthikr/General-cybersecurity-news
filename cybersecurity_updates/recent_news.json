@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
+    "link": "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html",
+    "published": "Sat, 29 Aug 2026 03:00:52 +0530",
+    "summary": "Berlin's state government has confirmed that it is the target of an extortion attempt following the August compromise of the city's state administrative network, and said it will not meet the extortionists' demands.\n\nThe same statement disclosed that forensic work had found further data outflows in the portfolio of the Senate Department for Mobility, Transport, Climate Protection and Environment",
+    "analysis": {
+      "issue": "Berlin confirms an extortion attempt after data theft from its state network, while the scope of the exfiltrated data remains under review",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable",
     "link": "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html",
     "published": "Sat, 29 Aug 2026 02:08:47 +0530",
@@ -162,22 +180,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server",
-    "link": "https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html",
-    "published": "Fri, 28 Aug 2026 15:15:15 +0530",
-    "summary": "cPanel has released patches for a security flaw affecting domain parking and addon domain functionality in cPanel and WebHost Manager (WHM), which could allow code execution as the root user.\n\nThe vulnerability, assigned the CVE identifier CVE-2026-65643, impacts all supported versions of cPanel &amp; WHM.\n\ncPanel described the issue as a critical security vulnerability and said that an",
+    "source": "Bleeping Computer",
+    "title": "McKesson discloses breach after ShinyHunters claims patient data theft",
+    "link": "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/",
+    "published": "Fri, 28 Aug 2026 18:40:17 -0400",
+    "summary": "Healthcare and pharmaceutical distribution giant McKesson has disclosed a cybersecurity incident involving unauthorized access to third-party applications and data theft, with the ShinyHunters extortion group claiming it stole 284 million patient data records. [...]",
     "analysis": {
-      "issue": "cPanel patches CVE-2026-65643, a critical flaw that lets authenticated accounts with domain controls execute code as root",
+      "issue": "Healthcare and pharmaceutical distribution giant McKesson has disclosed a cybersecurity incident involving unauthorized access to third-party applications and data theft, with the ShinyHunters extortion group claiming it stole 284 million patient dat",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-65643"
-      ],
+      "severity": "High",
+      "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "Supply Chain"
       ]
     }
   },
@@ -310,10 +326,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-18885",
         "CVE-2026-6876",
+        "CVE-2026-18886",
         "CVE-2026-74820",
-        "CVE-2026-18886"
+        "CVE-2026-18885"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -346,24 +362,6 @@
     "summary": "New details about the July attack on Hugging Face reveal that hundreds of AI agents driven by OpenAI's internal IM1 model coordinated the compromise through an unauthorized message board. [...]",
     "analysis": {
       "issue": "New details about the July attack on Hugging Face reveal that hundreds of AI agents driven by OpenAI’s internal IM1 model coordinated the compromise through an unauthorized message board",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "PaperCut warns of NG, MF flaw exploited in zero-day attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/",
-    "published": "Thu, 27 Aug 2026 12:31:53 -0400",
-    "summary": "PaperCut is warning that hackers are actively exploiting a vulnerability in all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks. [...]",
-    "analysis": {
-      "issue": "PaperCut is warning that hackers are actively exploiting a vulnerability in all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -425,9 +423,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-68820",
+        "CVE-2026-62832",
         "CVE-2026-72971",
-        "CVE-2026-62832"
+        "CVE-2026-68820"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -504,10 +502,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-56155",
         "CVE-2026-50661",
         "CVE-2026-48561",
-        "CVE-2026-56164",
-        "CVE-2026-56155"
+        "CVE-2026-56164"
       ],
       "threat_categories": [
         "Vulnerability",

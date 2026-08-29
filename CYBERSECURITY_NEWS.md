@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-28 22:02:53 UTC
+**Last Updated:** 2026-08-29 06:36:21 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable](https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html)
+### 1. [Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network](https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 29 Aug 2026 03:00:52 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable](https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 29 Aug 2026 02:08:47 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication](https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html)
+### 3. [Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication](https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 28 Aug 2026 22:42:15 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers](https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html)
+### 4. [Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers](https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 28 Aug 2026 21:50:46 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body](https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html)
+### 5. [ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body](https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 28 Aug 2026 21:26:55 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code](https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html)
+### 6. [19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code](https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 28 Aug 2026 20:57:26 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth](https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html)
+### 7. [Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth](https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 28 Aug 2026 17:37:24 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [Key Reasons Why Identity Fabric Matters in 2026](https://thehackernews.com/2026/08/key-reasons-why-identity-fabric-matters.html)
+### 8. [Key Reasons Why Identity Fabric Matters in 2026](https://thehackernews.com/2026/08/key-reasons-why-identity-fabric-matters.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 28 Aug 2026 17:00:00 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL](https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html)
+### 9. [Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL](https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 28 Aug 2026 16:50:32 +0530  
@@ -76,7 +85,7 @@
 
 ---
 
-### 9. [China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access](https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html)
+### 10. [China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access](https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 28 Aug 2026 16:28:29 +0530  
@@ -85,17 +94,16 @@
 
 ---
 
-### 10. [Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server](https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html)
+### 11. [McKesson discloses breach after ShinyHunters claims patient data theft](https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 28 Aug 2026 15:15:15 +0530  
-**Severity:** Critical  
-**CVEs:** CVE-2026-65643  
-**Categories:** Vulnerability  
+**Source:** Bleeping Computer  
+**Published:** Fri, 28 Aug 2026 18:40:17 -0400  
+**Severity:** High  
+**Categories:** Supply Chain  
 
 ---
 
-### 11. [PaperCut releases second emergency patch for exploited flaws](https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/)
+### 12. [PaperCut releases second emergency patch for exploited flaws](https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 28 Aug 2026 15:08:26 -0400  
@@ -105,7 +113,7 @@
 
 ---
 
-### 12. [GiveWP WordPress donation plugin flaw lets hackers execute server commands](https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/)
+### 13. [GiveWP WordPress donation plugin flaw lets hackers execute server commands](https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 28 Aug 2026 14:18:55 -0400  
@@ -115,7 +123,7 @@
 
 ---
 
-### 13. [68-year-old imprisoned after making $1.3 million by pirating IPTV services](https://www.bleepingcomputer.com/news/security/68-year-old-imprisoned-after-making-13-million-by-pirating-iptv-services/)
+### 14. [68-year-old imprisoned after making $1.3 million by pirating IPTV services](https://www.bleepingcomputer.com/news/security/68-year-old-imprisoned-after-making-13-million-by-pirating-iptv-services/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 28 Aug 2026 12:36:47 -0400  
@@ -124,7 +132,7 @@
 
 ---
 
-### 14. [AI Is Accelerating Vulnerability Discovery. Can Defenders Keep Up?](https://www.bleepingcomputer.com/news/security/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up/)
+### 15. [AI Is Accelerating Vulnerability Discovery. Can Defenders Keep Up?](https://www.bleepingcomputer.com/news/security/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 28 Aug 2026 10:00:10 -0400  
@@ -133,7 +141,7 @@
 
 ---
 
-### 15. [Over 8,300 Gitea servers vulnerable to code execution attacks](https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/)
+### 16. [Over 8,300 Gitea servers vulnerable to code execution attacks](https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 28 Aug 2026 08:58:43 -0400  
@@ -143,7 +151,7 @@
 
 ---
 
-### 16. [Toy-making giant Hasbro disclose data breach affecting employees](https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/)
+### 17. [Toy-making giant Hasbro disclose data breach affecting employees](https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 28 Aug 2026 07:46:57 -0400  
@@ -152,17 +160,17 @@
 
 ---
 
-### 17. [ServiceNow warns of three max severity security vulnerabilities](https://www.bleepingcomputer.com/news/security/servicenow-warns-of-three-max-severity-security-vulnerabilities/)
+### 18. [ServiceNow warns of three max severity security vulnerabilities](https://www.bleepingcomputer.com/news/security/servicenow-warns-of-three-max-severity-security-vulnerabilities/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 28 Aug 2026 06:29:42 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-18885, CVE-2026-6876, CVE-2026-74820, CVE-2026-18886  
+**CVEs:** CVE-2026-6876, CVE-2026-18886, CVE-2026-74820, CVE-2026-18885  
 **Categories:** Vulnerability  
 
 ---
 
-### 18. [Windows 11 KB5120998 update released with 35 changes and fixes](https://www.bleepingcomputer.com/news/security/windows-11-kb5120998-update-released-with-35-changes-and-fixes/)
+### 19. [Windows 11 KB5120998 update released with 35 changes and fixes](https://www.bleepingcomputer.com/news/security/windows-11-kb5120998-update-released-with-35-changes-and-fixes/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 28 Aug 2026 05:10:13 -0400  
@@ -171,19 +179,10 @@
 
 ---
 
-### 19. [Nearly 700 rogue AI agents coordinated in the Hugging Face attack](https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/)
+### 20. [Nearly 700 rogue AI agents coordinated in the Hugging Face attack](https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 27 Aug 2026 17:38:53 -0400  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 20. [PaperCut warns of NG, MF flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 27 Aug 2026 12:31:53 -0400  
 **Severity:** Critical  
 **Categories:** Vulnerability  
 
@@ -212,7 +211,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-68820, CVE-2026-72971, CVE-2026-62832  
+**CVEs:** CVE-2026-62832, CVE-2026-72971, CVE-2026-68820  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -249,7 +248,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50661, CVE-2026-48561, CVE-2026-56164, CVE-2026-56155  
+**CVEs:** CVE-2026-56155, CVE-2026-50661, CVE-2026-48561, CVE-2026-56164  
 **Categories:** Vulnerability, Malware  
 
 ---
