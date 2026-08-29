@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-29 07:16:34 UTC
+**Last Updated:** 2026-08-29 13:57:24 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -108,7 +108,7 @@
 **Source:** Bleeping Computer  
 **Published:** Fri, 28 Aug 2026 15:08:26 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-82078, CVE-2026-81578  
+**CVEs:** CVE-2026-81578, CVE-2026-82078  
 **Categories:** Vulnerability  
 
 ---
@@ -165,7 +165,7 @@
 **Source:** Bleeping Computer  
 **Published:** Fri, 28 Aug 2026 06:29:42 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-18885, CVE-2026-18886, CVE-2026-6876, CVE-2026-74820  
+**CVEs:** CVE-2026-74820, CVE-2026-6876, CVE-2026-18885, CVE-2026-18886  
 **Categories:** Vulnerability  
 
 ---
@@ -211,7 +211,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62832, CVE-2026-68820, CVE-2026-72971  
+**CVEs:** CVE-2026-68820, CVE-2026-62832, CVE-2026-72971  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -248,7 +248,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56155, CVE-2026-56164, CVE-2026-50661, CVE-2026-48561  
+**CVEs:** CVE-2026-56164, CVE-2026-48561, CVE-2026-56155, CVE-2026-50661  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -280,7 +280,16 @@
 
 ---
 
-### 31. [In Other News: Log4j RCE Scare, Minimus Shutdown, Iranian Hacker Sanctions](https://www.securityweek.com/in-other-news-log4j-rce-scare-minimus-shutdown-iranian-hacker-sanctions/)
+### 31. [Hasbro Data Breach Exposed Employee Personal Information](https://www.securityweek.com/hasbro-data-breach-exposed-employee-personal-information/)
+
+**Source:** Security Week  
+**Published:** Sat, 29 Aug 2026 11:55:00 +0000  
+**Severity:** Low  
+**Categories:** Ransomware, Data Breach, Supply Chain  
+
+---
+
+### 32. [In Other News: Log4j RCE Scare, Minimus Shutdown, Iranian Hacker Sanctions](https://www.securityweek.com/in-other-news-log4j-rce-scare-minimus-shutdown-iranian-hacker-sanctions/)
 
 **Source:** Security Week  
 **Published:** Fri, 28 Aug 2026 15:35:34 +0000  
@@ -289,7 +298,7 @@
 
 ---
 
-### 32. [ATF Confirms Cyber Incident After Ransomware Group Claims Attack](https://www.securityweek.com/atf-confirms-cyber-incident-after-ransomware-group-claims-attack/)
+### 33. [ATF Confirms Cyber Incident After Ransomware Group Claims Attack](https://www.securityweek.com/atf-confirms-cyber-incident-after-ransomware-group-claims-attack/)
 
 **Source:** Security Week  
 **Published:** Fri, 28 Aug 2026 13:59:14 +0000  
@@ -298,17 +307,17 @@
 
 ---
 
-### 33. [OpenAI Agents Exploited Linux Kernel Flaw on Company’s Own Systems](https://www.securityweek.com/openai-agents-exploited-linux-kernel-flaw-on-companys-own-systems/)
+### 34. [OpenAI Agents Exploited Linux Kernel Flaw on Company’s Own Systems](https://www.securityweek.com/openai-agents-exploited-linux-kernel-flaw-on-companys-own-systems/)
 
 **Source:** Security Week  
 **Published:** Fri, 28 Aug 2026 12:36:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-66384, CVE-2026-53362  
+**CVEs:** CVE-2026-53362, CVE-2026-66384  
 **Categories:** Vulnerability  
 
 ---
 
-### 34. [Tech, Cybersecurity Giants Unite Behind OpenAI-Led Cyber Defense Pledge](https://www.securityweek.com/tech-cybersecurity-giants-unite-behind-openai-led-cyber-defense-pledge/)
+### 35. [Tech, Cybersecurity Giants Unite Behind OpenAI-Led Cyber Defense Pledge](https://www.securityweek.com/tech-cybersecurity-giants-unite-behind-openai-led-cyber-defense-pledge/)
 
 **Source:** Security Week  
 **Published:** Fri, 28 Aug 2026 11:01:22 +0000  
@@ -317,7 +326,7 @@
 
 ---
 
-### 35. [Think You’ve Eliminated Chinese AI? Check the Model’s Lineage, Cisco Says](https://www.securityweek.com/think-youve-eliminated-chinese-ai-check-the-models-lineage-cisco-says/)
+### 36. [Think You’ve Eliminated Chinese AI? Check the Model’s Lineage, Cisco Says](https://www.securityweek.com/think-youve-eliminated-chinese-ai-check-the-models-lineage-cisco-says/)
 
 **Source:** Security Week  
 **Published:** Fri, 28 Aug 2026 10:30:00 +0000  
@@ -326,17 +335,17 @@
 
 ---
 
-### 36. [PaperCut Releases Emergency Patch for Exploited Zero-Day](https://www.securityweek.com/papercut-releases-emergency-patch-for-exploited-zero-day/)
+### 37. [PaperCut Releases Emergency Patch for Exploited Zero-Day](https://www.securityweek.com/papercut-releases-emergency-patch-for-exploited-zero-day/)
 
 **Source:** Security Week  
 **Published:** Fri, 28 Aug 2026 08:40:36 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-82078, CVE-2026-81578  
+**CVEs:** CVE-2026-81578, CVE-2026-82078  
 **Categories:** Ransomware, Vulnerability  
 
 ---
 
-### 37. [Trump Order Aims to Block Foreign Backdoors in US Power Grid Gear](https://www.securityweek.com/trump-order-aims-to-block-foreign-backdoors-in-us-power-grid-gear/)
+### 38. [Trump Order Aims to Block Foreign Backdoors in US Power Grid Gear](https://www.securityweek.com/trump-order-aims-to-block-foreign-backdoors-in-us-power-grid-gear/)
 
 **Source:** Security Week  
 **Published:** Thu, 27 Aug 2026 14:17:26 +0000  
@@ -345,7 +354,7 @@
 
 ---
 
-### 38. [Australia Arrests 2 Alleged TeamPCP Hackers](https://www.securityweek.com/australia-arrests-2-alleged-teampcp-hackers/)
+### 39. [Australia Arrests 2 Alleged TeamPCP Hackers](https://www.securityweek.com/australia-arrests-2-alleged-teampcp-hackers/)
 
 **Source:** Security Week  
 **Published:** Thu, 27 Aug 2026 12:48:03 +0000  
@@ -354,21 +363,12 @@
 
 ---
 
-### 39. [OpenAI Agents Coordinated via Makeshift Message Board Ahead of Hugging Face Hack](https://www.securityweek.com/openai-agents-coordinated-via-makeshift-message-board-ahead-of-hugging-face-hack/)
+### 40. [OpenAI Agents Coordinated via Makeshift Message Board Ahead of Hugging Face Hack](https://www.securityweek.com/openai-agents-coordinated-via-makeshift-message-board-ahead-of-hugging-face-hack/)
 
 **Source:** Security Week  
 **Published:** Thu, 27 Aug 2026 11:58:01 +0000  
 **Severity:** Low  
 **Categories:** Vulnerability  
-
----
-
-### 40. [Okta Shares Surge on Strong Earnings, Growing Demand for AI Identity Security](https://www.securityweek.com/okta-shares-surge-on-strong-earnings-growing-demand-for-ai-identity-security/)
-
-**Source:** Security Week  
-**Published:** Thu, 27 Aug 2026 11:53:10 +0000  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -632,7 +632,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

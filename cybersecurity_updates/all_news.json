@@ -210,8 +210,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-82078",
-        "CVE-2026-81578"
+        "CVE-2026-81578",
+        "CVE-2026-82078"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -326,10 +326,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-18885",
-        "CVE-2026-18886",
+        "CVE-2026-74820",
         "CVE-2026-6876",
-        "CVE-2026-74820"
+        "CVE-2026-18885",
+        "CVE-2026-18886"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -423,8 +423,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-62832",
         "CVE-2026-68820",
+        "CVE-2026-62832",
         "CVE-2026-72971"
       ],
       "threat_categories": [
@@ -502,10 +502,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56155",
         "CVE-2026-56164",
-        "CVE-2026-50661",
-        "CVE-2026-48561"
+        "CVE-2026-48561",
+        "CVE-2026-56155",
+        "CVE-2026-50661"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -571,6 +571,26 @@
   },
   {
     "source": "Security Week",
+    "title": "Hasbro Data Breach Exposed Employee Personal Information",
+    "link": "https://www.securityweek.com/hasbro-data-breach-exposed-employee-personal-information/",
+    "published": "Sat, 29 Aug 2026 11:55:00 +0000",
+    "summary": "<p>A cyberattack caused disruptions at the toy and game giant earlier this year and the company is now disclosing a data breach.</p>\n<p>The post <a href=\"https://www.securityweek.com/hasbro-data-breach-exposed-employee-personal-information/\">Hasbro Data Breach Exposed Employee Personal Information</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "A cyberattack caused disruptions at the toy and game giant earlier this year and the company is now disclosing a data breach",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "In Other News: Log4j RCE Scare, Minimus Shutdown, Iranian Hacker Sanctions",
     "link": "https://www.securityweek.com/in-other-news-log4j-rce-scare-minimus-shutdown-iranian-hacker-sanctions/",
     "published": "Fri, 28 Aug 2026 15:35:34 +0000",
@@ -625,8 +645,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-66384",
-        "CVE-2026-53362"
+        "CVE-2026-53362",
+        "CVE-2026-66384"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -684,8 +704,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-82078",
-        "CVE-2026-81578"
+        "CVE-2026-81578",
+        "CVE-2026-82078"
       ],
       "threat_categories": [
         "Ransomware",
@@ -749,24 +769,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Okta Shares Surge on Strong Earnings, Growing Demand for AI Identity Security",
-    "link": "https://www.securityweek.com/okta-shares-surge-on-strong-earnings-growing-demand-for-ai-identity-security/",
-    "published": "Thu, 27 Aug 2026 11:53:10 +0000",
-    "summary": "<p>The identity security company beat quarterly expectations and raised its outlook as enterprises face growing pressure to secure AI agents and other non-human identities.</p>\n<p>The post <a href=\"https://www.securityweek.com/okta-shares-surge-on-strong-earnings-growing-demand-for-ai-identity-security/\">Okta Shares Surge on Strong Earnings, Growing Demand for AI Identity Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The identity security company beat quarterly expectations and raised its outlook as enterprises face growing pressure to secure AI agents and other non-human identities",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -1301,8 +1303,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
