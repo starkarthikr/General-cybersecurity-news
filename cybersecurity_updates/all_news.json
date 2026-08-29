@@ -181,6 +181,25 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Brave browser adds email aliases to help users evade tracking",
+    "link": "https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/",
+    "published": "Sat, 29 Aug 2026 10:19:23 -0400",
+    "summary": "The latest version of the Brave browser, 1.94, introduces a feature called 'Email Aliases' that allows users to generate disposable email addresses when signing up to a new service. [...]",
+    "analysis": {
+      "issue": "The latest version of the Brave browser, 1",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "McKesson discloses breach after ShinyHunters claims patient data theft",
     "link": "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/",
     "published": "Fri, 28 Aug 2026 18:40:17 -0400",
@@ -210,8 +229,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-81578",
-        "CVE-2026-82078"
+        "CVE-2026-82078",
+        "CVE-2026-81578"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -326,9 +345,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-18885",
         "CVE-2026-74820",
         "CVE-2026-6876",
-        "CVE-2026-18885",
         "CVE-2026-18886"
       ],
       "threat_categories": [
@@ -351,24 +370,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Nearly 700 rogue AI agents coordinated in the Hugging Face attack",
-    "link": "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/",
-    "published": "Thu, 27 Aug 2026 17:38:53 -0400",
-    "summary": "New details about the July attack on Hugging Face reveal that hundreds of AI agents driven by OpenAI's internal IM1 model coordinated the compromise through an unauthorized message board. [...]",
-    "analysis": {
-      "issue": "New details about the July attack on Hugging Face reveal that hundreds of AI agents driven by OpenAI’s internal IM1 model coordinated the compromise through an unauthorized message board",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -423,9 +424,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-68820",
+        "CVE-2026-72971",
         "CVE-2026-62832",
-        "CVE-2026-72971"
+        "CVE-2026-68820"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -503,9 +504,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-56164",
+        "CVE-2026-50661",
         "CVE-2026-48561",
-        "CVE-2026-56155",
-        "CVE-2026-50661"
+        "CVE-2026-56155"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -704,8 +705,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-81578",
-        "CVE-2026-82078"
+        "CVE-2026-82078",
+        "CVE-2026-81578"
       ],
       "threat_categories": [
         "Ransomware",
