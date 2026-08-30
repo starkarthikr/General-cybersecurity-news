@@ -181,6 +181,24 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Anthropic is cutting Claude Code's current weekly limits by 17%",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/",
+    "published": "Sat, 29 Aug 2026 19:11:51 -0400",
+    "summary": "Anthropic is permanently increasing Claude Code's standard weekly usage limits by 25% for Pro, Max, Team, and seat-based Enterprise plans, but it's not as good as it sounds. [...]",
+    "analysis": {
+      "issue": "Anthropic is permanently increasing Claude Code's standard weekly usage limits by 25% for Pro, Max, Team, and seat-based Enterprise plans, but it's not as good as it sounds",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Brave browser adds email aliases to help users evade tracking",
     "link": "https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/",
     "published": "Sat, 29 Aug 2026 10:19:23 -0400",
@@ -229,8 +247,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-82078",
-        "CVE-2026-81578"
+        "CVE-2026-81578",
+        "CVE-2026-82078"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -356,24 +374,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Windows 11 KB5120998 update released with 35 changes and fixes",
-    "link": "https://www.bleepingcomputer.com/news/security/windows-11-kb5120998-update-released-with-35-changes-and-fixes/",
-    "published": "Fri, 28 Aug 2026 05:10:13 -0400",
-    "summary": "Microsoft released the KB5120998 preview cumulative update for Windows 11 versions 25H2 and 24H2, which comes with 35 changes, including improvements to the Start menu, taskbar, and Windows search. [...]",
-    "analysis": {
-      "issue": "Microsoft released the KB5120998 preview cumulative update for Windows 11 versions 25H2 and 24H2, which comes with 35 changes, including improvements to the Start menu, taskbar, and Windows search",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
     "link": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
@@ -425,8 +425,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-62832",
-        "CVE-2026-72971",
-        "CVE-2026-68820"
+        "CVE-2026-68820",
+        "CVE-2026-72971"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -504,9 +504,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-56164",
+        "CVE-2026-50661",
         "CVE-2026-56155",
-        "CVE-2026-48561",
-        "CVE-2026-50661"
+        "CVE-2026-48561"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -646,8 +646,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-66384",
-        "CVE-2026-53362"
+        "CVE-2026-53362",
+        "CVE-2026-66384"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -705,8 +705,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-82078",
-        "CVE-2026-81578"
+        "CVE-2026-81578",
+        "CVE-2026-82078"
       ],
       "threat_categories": [
         "Ransomware",
