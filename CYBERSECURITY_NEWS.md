@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-30 05:40:33 UTC
+**Last Updated:** 2026-08-30 13:54:50 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE](https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html)
+### 1. [TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor](https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html)
+
+**Source:** The Hacker News  
+**Published:** Sun, 30 Aug 2026 13:06:33 +0530  
+**Severity:** Low  
+**Categories:** Malware, APT  
+
+---
+
+### 2. [Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE](https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 29 Aug 2026 21:55:03 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network](https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html)
+### 3. [Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network](https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 29 Aug 2026 03:00:52 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable](https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html)
+### 4. [Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable](https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 29 Aug 2026 02:08:47 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication](https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html)
+### 5. [Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication](https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 28 Aug 2026 22:42:15 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers](https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html)
+### 6. [Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers](https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 28 Aug 2026 21:50:46 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body](https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html)
+### 7. [ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body](https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 28 Aug 2026 21:26:55 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code](https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html)
+### 8. [19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code](https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 28 Aug 2026 20:57:26 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth](https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html)
+### 9. [Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth](https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 28 Aug 2026 17:37:24 +0530  
@@ -76,19 +85,10 @@
 
 ---
 
-### 9. [Key Reasons Why Identity Fabric Matters in 2026](https://thehackernews.com/2026/08/key-reasons-why-identity-fabric-matters.html)
+### 10. [Key Reasons Why Identity Fabric Matters in 2026](https://thehackernews.com/2026/08/key-reasons-why-identity-fabric-matters.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 28 Aug 2026 17:00:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL](https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 28 Aug 2026 16:50:32 +0530  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -126,7 +126,7 @@
 **Source:** Bleeping Computer  
 **Published:** Fri, 28 Aug 2026 15:08:26 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81578, CVE-2026-82078  
+**CVEs:** CVE-2026-82078, CVE-2026-81578  
 **Categories:** Vulnerability  
 
 ---
@@ -183,7 +183,7 @@
 **Source:** Bleeping Computer  
 **Published:** Fri, 28 Aug 2026 06:29:42 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-18886, CVE-2026-18885, CVE-2026-74820, CVE-2026-6876  
+**CVEs:** CVE-2026-74820, CVE-2026-6876, CVE-2026-18886, CVE-2026-18885  
 **Categories:** Vulnerability  
 
 ---
@@ -211,7 +211,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-72971, CVE-2026-68820, CVE-2026-62832  
+**CVEs:** CVE-2026-68820, CVE-2026-62832, CVE-2026-72971  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -248,7 +248,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48561, CVE-2026-56164, CVE-2026-50661, CVE-2026-56155  
+**CVEs:** CVE-2026-50661, CVE-2026-56164, CVE-2026-56155, CVE-2026-48561  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -340,7 +340,7 @@
 **Source:** Security Week  
 **Published:** Fri, 28 Aug 2026 08:40:36 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81578, CVE-2026-82078  
+**CVEs:** CVE-2026-82078, CVE-2026-81578  
 **Categories:** Ransomware, Vulnerability  
 
 ---

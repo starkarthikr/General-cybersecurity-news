@@ -1,6 +1,25 @@
 [
   {
     "source": "The Hacker News",
+    "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
+    "link": "https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html",
+    "published": "Sun, 30 Aug 2026 13:06:33 +0530",
+    "summary": "Microsoft has disclosed details of a new ClickFix variant, dubbed TerminalFix, that aims to trick users into running a malicious command in Windows Terminal or PowerShell.\n\n\"While traditional ClickFix campaigns direct victims to the Windows Run dialog, TerminalFix campaigns apply the same technique but direct users to Windows Terminal or PowerShell instead, increasing the likelihood that complex",
+    "analysis": {
+      "issue": "Microsoft says TerminalFix uses fake Cloudflare CAPTCHAs to trigger PowerShell and deploy a reverse-tunnel backdoor for internal network access",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
     "link": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
     "published": "Sat, 29 Aug 2026 21:55:03 +0530",
@@ -162,24 +181,6 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL",
-    "link": "https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html",
-    "published": "Fri, 28 Aug 2026 16:50:32 +0530",
-    "summary": "ServiceNow has released patches for four security flaws impacting the ServiceNow AI Platform, three of them rated 10.0 on the CVSS scoring system and exploitable, in certain circumstances, by an unauthenticated attacker.\n\nThe company said it deployed a security update to hosted instances and provided the update to its partners and self-hosted customers, which leaves organizations that run their",
-    "analysis": {
-      "issue": "ServiceNow patched four AI Platform flaws, including three CVSS 10",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
     "title": "Anthropic is cutting Claude Code's current weekly limits by 17%",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/",
@@ -247,8 +248,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-81578",
-        "CVE-2026-82078"
+        "CVE-2026-82078",
+        "CVE-2026-81578"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -363,10 +364,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-18886",
-        "CVE-2026-18885",
         "CVE-2026-74820",
-        "CVE-2026-6876"
+        "CVE-2026-6876",
+        "CVE-2026-18886",
+        "CVE-2026-18885"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -424,9 +425,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-72971",
         "CVE-2026-68820",
-        "CVE-2026-62832"
+        "CVE-2026-62832",
+        "CVE-2026-72971"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -503,10 +504,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-48561",
-        "CVE-2026-56164",
         "CVE-2026-50661",
-        "CVE-2026-56155"
+        "CVE-2026-56164",
+        "CVE-2026-56155",
+        "CVE-2026-48561"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -705,8 +706,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-81578",
-        "CVE-2026-82078"
+        "CVE-2026-82078",
+        "CVE-2026-81578"
       ],
       "threat_categories": [
         "Ransomware",
