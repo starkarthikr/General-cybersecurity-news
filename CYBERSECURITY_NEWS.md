@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-30 13:54:50 UTC
+**Last Updated:** 2026-08-30 16:26:35 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -94,7 +94,34 @@
 
 ---
 
-### 11. [Anthropic is cutting Claude Code's current weekly limits by 17%](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/)
+### 11. [FulcrumSec claims Manchester Airports hack, theft of 86 GB of data](https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/)
+
+**Source:** Bleeping Computer  
+**Published:** Sun, 30 Aug 2026 11:00:21 -0400  
+**Severity:** Low  
+**Categories:** Data Breach  
+
+---
+
+### 12. [Anthropic warns infostealer malware is hijacking Claude sessions to drain usage](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/)
+
+**Source:** Bleeping Computer  
+**Published:** Sun, 30 Aug 2026 10:30:25 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 13. [Chrome Web Store extensions caught stealing crypto, browser data](https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/)
+
+**Source:** Bleeping Computer  
+**Published:** Sun, 30 Aug 2026 10:17:44 -0400  
+**Severity:** High  
+**Categories:** Malware  
+
+---
+
+### 14. [Anthropic is cutting Claude Code's current weekly limits by 17%](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 29 Aug 2026 19:11:51 -0400  
@@ -103,7 +130,7 @@
 
 ---
 
-### 12. [Brave browser adds email aliases to help users evade tracking](https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/)
+### 15. [Brave browser adds email aliases to help users evade tracking](https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 29 Aug 2026 10:19:23 -0400  
@@ -112,7 +139,7 @@
 
 ---
 
-### 13. [McKesson discloses breach after ShinyHunters claims patient data theft](https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/)
+### 16. [McKesson discloses breach after ShinyHunters claims patient data theft](https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 28 Aug 2026 18:40:17 -0400  
@@ -121,17 +148,17 @@
 
 ---
 
-### 14. [PaperCut releases second emergency patch for exploited flaws](https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/)
+### 17. [PaperCut releases second emergency patch for exploited flaws](https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 28 Aug 2026 15:08:26 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-82078, CVE-2026-81578  
+**CVEs:** CVE-2026-81578, CVE-2026-82078  
 **Categories:** Vulnerability  
 
 ---
 
-### 15. [GiveWP WordPress donation plugin flaw lets hackers execute server commands](https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/)
+### 18. [GiveWP WordPress donation plugin flaw lets hackers execute server commands](https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 28 Aug 2026 14:18:55 -0400  
@@ -141,7 +168,7 @@
 
 ---
 
-### 16. [68-year-old imprisoned after making $1.3 million by pirating IPTV services](https://www.bleepingcomputer.com/news/security/68-year-old-imprisoned-after-making-13-million-by-pirating-iptv-services/)
+### 19. [68-year-old imprisoned after making $1.3 million by pirating IPTV services](https://www.bleepingcomputer.com/news/security/68-year-old-imprisoned-after-making-13-million-by-pirating-iptv-services/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 28 Aug 2026 12:36:47 -0400  
@@ -150,40 +177,11 @@
 
 ---
 
-### 17. [AI Is Accelerating Vulnerability Discovery. Can Defenders Keep Up?](https://www.bleepingcomputer.com/news/security/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up/)
+### 20. [AI Is Accelerating Vulnerability Discovery. Can Defenders Keep Up?](https://www.bleepingcomputer.com/news/security/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 28 Aug 2026 10:00:10 -0400  
 **Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 18. [Over 8,300 Gitea servers vulnerable to code execution attacks](https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 28 Aug 2026 08:58:43 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-60004  
-**Categories:** Vulnerability  
-
----
-
-### 19. [Toy-making giant Hasbro disclose data breach affecting employees](https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 28 Aug 2026 07:46:57 -0400  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach  
-
----
-
-### 20. [ServiceNow warns of three max severity security vulnerabilities](https://www.bleepingcomputer.com/news/security/servicenow-warns-of-three-max-severity-security-vulnerabilities/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 28 Aug 2026 06:29:42 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-74820, CVE-2026-6876, CVE-2026-18886, CVE-2026-18885  
 **Categories:** Vulnerability  
 
 ---
@@ -211,7 +209,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-68820, CVE-2026-62832, CVE-2026-72971  
+**CVEs:** CVE-2026-62832, CVE-2026-68820, CVE-2026-72971  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -248,7 +246,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50661, CVE-2026-56164, CVE-2026-56155, CVE-2026-48561  
+**CVEs:** CVE-2026-56164, CVE-2026-56155, CVE-2026-48561, CVE-2026-50661  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -340,7 +338,7 @@
 **Source:** Security Week  
 **Published:** Fri, 28 Aug 2026 08:40:36 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-82078, CVE-2026-81578  
+**CVEs:** CVE-2026-81578, CVE-2026-82078  
 **Categories:** Ransomware, Vulnerability  
 
 ---
