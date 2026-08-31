@@ -183,6 +183,24 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Cronos blockchain restarts after $74 million Tectonic exploit",
+    "link": "https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/",
+    "published": "Mon, 31 Aug 2026 16:47:54 -0400",
+    "summary": "The Cronos blockchain network has resumed trading activity after a price-manipulation attack on the Tectonic cryptocurrency lending platform allowed an attacker to borrow $74 million. [...]",
+    "analysis": {
+      "issue": "The Cronos blockchain network has resumed trading activity after a price-manipulation attack on the Tectonic cryptocurrency lending platform allowed an attacker to borrow $74 million",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Microsoft warns of TerminalFix attacks deploying reverse tunnels",
     "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/",
     "published": "Mon, 31 Aug 2026 14:51:04 -0400",
@@ -209,7 +227,7 @@
     "published": "Mon, 31 Aug 2026 12:56:57 -0400",
     "summary": "Microsoft is investigating a widespread service issue causing authentication issues, email delays and failures, and various other issues for Exchange Online customers. [...]",
     "analysis": {
-      "issue": "Microsoft is investigating a widespread service issue causing authentication issues, email delays and failures, and various other issues for Exchange Online customers",
+      "issue": "Microsoft is investigating a widespread service issue causing authentication issues, connection problems, email delays and failures, and various other issues for Microsoft 365 customers",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -348,24 +366,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "FulcrumSec claims Manchester Airports hack, theft of 86 GB of data",
-    "link": "https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/",
-    "published": "Sun, 30 Aug 2026 11:00:21 -0400",
-    "summary": "FulcrumSec claims it stole 86 GB of data from Manchester Airports Group. BleepingComputer validated one traveller's record, while samples revealed detailed customer, booking, and travel information beyond what MAG initially disclosed. [...]",
-    "analysis": {
-      "issue": "The Manchester Airports Group data breach has been claimed by extortion group FulcrumSec, which told BleepingComputer that it stole approximately 86 GB of data",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
     "link": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
@@ -416,9 +416,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-72971",
         "CVE-2026-68820",
-        "CVE-2026-62832"
+        "CVE-2026-62832",
+        "CVE-2026-72971"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -496,9 +496,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-48561",
+        "CVE-2026-50661",
         "CVE-2026-56164",
-        "CVE-2026-56155",
-        "CVE-2026-50661"
+        "CVE-2026-56155"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -593,10 +593,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-74820",
-        "CVE-2026-18885",
+        "CVE-2026-6876",
         "CVE-2026-18886",
-        "CVE-2026-6876"
+        "CVE-2026-74820",
+        "CVE-2026-18885"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1287,8 +1287,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",

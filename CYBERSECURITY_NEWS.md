@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-31 19:00:16 UTC
+**Last Updated:** 2026-08-31 21:33:28 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -94,7 +94,16 @@
 
 ---
 
-### 11. [Microsoft warns of TerminalFix attacks deploying reverse tunnels](https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/)
+### 11. [Cronos blockchain restarts after $74 million Tectonic exploit](https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 31 Aug 2026 16:47:54 -0400  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [Microsoft warns of TerminalFix attacks deploying reverse tunnels](https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 31 Aug 2026 14:51:04 -0400  
@@ -103,7 +112,7 @@
 
 ---
 
-### 12. [Microsoft Exchange Online outage causes email failures, auth issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/)
+### 13. [Microsoft Exchange Online outage causes email failures, auth issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 31 Aug 2026 12:56:57 -0400  
@@ -112,7 +121,7 @@
 
 ---
 
-### 13. [OpenAI confirms ChatGPT outage as users report errors](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-outage-as-users-report-errors/)
+### 14. [OpenAI confirms ChatGPT outage as users report errors](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-outage-as-users-report-errors/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 31 Aug 2026 12:50:50 -0400  
@@ -121,7 +130,7 @@
 
 ---
 
-### 14. [Chinese Fire Ant hackers turn Cisco routers into spying platforms](https://www.bleepingcomputer.com/news/security/chinese-fire-ant-hackers-turn-cisco-routers-into-spying-platforms/)
+### 15. [Chinese Fire Ant hackers turn Cisco routers into spying platforms](https://www.bleepingcomputer.com/news/security/chinese-fire-ant-hackers-turn-cisco-routers-into-spying-platforms/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 31 Aug 2026 10:52:03 -0400  
@@ -130,7 +139,7 @@
 
 ---
 
-### 15. [File servers are here to stay. Here’s how to manage them securely](https://www.bleepingcomputer.com/news/security/file-servers-are-here-to-stay-heres-how-to-manage-them-securely/)
+### 16. [File servers are here to stay. Here’s how to manage them securely](https://www.bleepingcomputer.com/news/security/file-servers-are-here-to-stay-heres-how-to-manage-them-securely/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 31 Aug 2026 10:00:10 -0400  
@@ -139,7 +148,7 @@
 
 ---
 
-### 16. [Berlin confirms data theft after Rhysida ransomware attack claims](https://www.bleepingcomputer.com/news/security/berlin-confirms-data-theft-after-rhysida-ransomware-attack-claims/)
+### 17. [Berlin confirms data theft after Rhysida ransomware attack claims](https://www.bleepingcomputer.com/news/security/berlin-confirms-data-theft-after-rhysida-ransomware-attack-claims/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 31 Aug 2026 09:30:01 -0400  
@@ -148,7 +157,7 @@
 
 ---
 
-### 17. [Microsoft says Windows 11 KB5120998 update resets mouse settings](https://www.bleepingcomputer.com/news/security/microsoft-says-windows-11-kb5120998-update-resets-mouse-settings/)
+### 18. [Microsoft says Windows 11 KB5120998 update resets mouse settings](https://www.bleepingcomputer.com/news/security/microsoft-says-windows-11-kb5120998-update-resets-mouse-settings/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 31 Aug 2026 06:23:46 -0400  
@@ -157,7 +166,7 @@
 
 ---
 
-### 18. [Nigerians extradited to US for sextortion, deaths of two teens](https://www.bleepingcomputer.com/news/security/nigerians-charged-US-over-sextortion-deaths-of-us-teens/)
+### 19. [Nigerians extradited to US for sextortion, deaths of two teens](https://www.bleepingcomputer.com/news/security/nigerians-charged-US-over-sextortion-deaths-of-us-teens/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 31 Aug 2026 05:22:47 -0400  
@@ -166,21 +175,12 @@
 
 ---
 
-### 19. [Microsoft asks users to ignore 'Antivirus is turned off' errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-antivirus-is-turned-off-errors/)
+### 20. [Microsoft asks users to ignore 'Antivirus is turned off' errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-antivirus-is-turned-off-errors/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 31 Aug 2026 04:29:42 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 20. [FulcrumSec claims Manchester Airports hack, theft of 86 GB of data](https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/)
-
-**Source:** Bleeping Computer  
-**Published:** Sun, 30 Aug 2026 11:00:21 -0400  
-**Severity:** Low  
-**Categories:** Data Breach  
 
 ---
 
@@ -207,7 +207,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-72971, CVE-2026-68820, CVE-2026-62832  
+**CVEs:** CVE-2026-68820, CVE-2026-62832, CVE-2026-72971  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -244,7 +244,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48561, CVE-2026-56164, CVE-2026-56155, CVE-2026-50661  
+**CVEs:** CVE-2026-48561, CVE-2026-50661, CVE-2026-56164, CVE-2026-56155  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -290,7 +290,7 @@
 **Source:** Security Week  
 **Published:** Mon, 31 Aug 2026 13:59:19 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-74820, CVE-2026-18885, CVE-2026-18886, CVE-2026-6876  
+**CVEs:** CVE-2026-6876, CVE-2026-18886, CVE-2026-74820, CVE-2026-18885  
 **Categories:** Vulnerability  
 
 ---
@@ -628,7 +628,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
