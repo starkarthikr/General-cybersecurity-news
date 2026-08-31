@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-31 16:17:50 UTC
+**Last Updated:** 2026-08-31 19:00:16 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More](https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html)
+### 1. [North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales](https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 31 Aug 2026 22:54:28 +0530  
+**Severity:** Low  
+**Categories:** APT  
+
+---
+
+### 2. [⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More](https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 31 Aug 2026 19:20:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions](https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html)
+### 3. [ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions](https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 31 Aug 2026 17:44:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets](https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html)
+### 4. [Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets](https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 31 Aug 2026 17:17:24 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance](https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html)
+### 5. [Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance](https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 31 Aug 2026 17:01:47 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs](https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html)
+### 6. [China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs](https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 31 Aug 2026 14:34:55 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [DoJ Corrects China Hacking Claim, Says U.S. Agencies Were Targets, Not Victims](https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html)
+### 7. [DoJ Corrects China Hacking Claim, Says U.S. Agencies Were Targets, Not Victims](https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 31 Aug 2026 13:26:53 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor](https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html)
+### 8. [TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor](https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 30 Aug 2026 13:06:33 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE](https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html)
+### 9. [Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE](https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 29 Aug 2026 21:55:03 +0530  
@@ -76,7 +85,7 @@
 
 ---
 
-### 9. [Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network](https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html)
+### 10. [Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network](https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 29 Aug 2026 03:00:52 +0530  
@@ -85,16 +94,34 @@
 
 ---
 
-### 10. [Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable](https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html)
+### 11. [Microsoft warns of TerminalFix attacks deploying reverse tunnels](https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/)
 
-**Source:** The Hacker News  
-**Published:** Sat, 29 Aug 2026 02:08:47 +0530  
-**Severity:** Critical  
-**Categories:** Vulnerability  
+**Source:** Bleeping Computer  
+**Published:** Mon, 31 Aug 2026 14:51:04 -0400  
+**Severity:** Low  
+**Categories:** Ransomware, Malware, Phishing, APT  
 
 ---
 
-### 11. [Chinese Fire Ant hackers turn Cisco routers into spying platforms](https://www.bleepingcomputer.com/news/security/chinese-fire-ant-hackers-turn-cisco-routers-into-spying-platforms/)
+### 12. [Microsoft Exchange Online outage causes email failures, auth issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 31 Aug 2026 12:56:57 -0400  
+**Severity:** Critical  
+**Categories:** General Security  
+
+---
+
+### 13. [OpenAI confirms ChatGPT outage as users report errors](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-outage-as-users-report-errors/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 31 Aug 2026 12:50:50 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 14. [Chinese Fire Ant hackers turn Cisco routers into spying platforms](https://www.bleepingcomputer.com/news/security/chinese-fire-ant-hackers-turn-cisco-routers-into-spying-platforms/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 31 Aug 2026 10:52:03 -0400  
@@ -103,7 +130,7 @@
 
 ---
 
-### 12. [File servers are here to stay. Here’s how to manage them securely](https://www.bleepingcomputer.com/news/security/file-servers-are-here-to-stay-heres-how-to-manage-them-securely/)
+### 15. [File servers are here to stay. Here’s how to manage them securely](https://www.bleepingcomputer.com/news/security/file-servers-are-here-to-stay-heres-how-to-manage-them-securely/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 31 Aug 2026 10:00:10 -0400  
@@ -112,7 +139,7 @@
 
 ---
 
-### 13. [Berlin confirms data theft after Rhysida ransomware attack claims](https://www.bleepingcomputer.com/news/security/berlin-confirms-data-theft-after-rhysida-ransomware-attack-claims/)
+### 16. [Berlin confirms data theft after Rhysida ransomware attack claims](https://www.bleepingcomputer.com/news/security/berlin-confirms-data-theft-after-rhysida-ransomware-attack-claims/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 31 Aug 2026 09:30:01 -0400  
@@ -121,7 +148,7 @@
 
 ---
 
-### 14. [Microsoft says Windows 11 KB5120998 update resets mouse settings](https://www.bleepingcomputer.com/news/security/microsoft-says-windows-11-kb5120998-update-resets-mouse-settings/)
+### 17. [Microsoft says Windows 11 KB5120998 update resets mouse settings](https://www.bleepingcomputer.com/news/security/microsoft-says-windows-11-kb5120998-update-resets-mouse-settings/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 31 Aug 2026 06:23:46 -0400  
@@ -130,7 +157,7 @@
 
 ---
 
-### 15. [Nigerians extradited to US for sextortion, deaths of two teens](https://www.bleepingcomputer.com/news/security/nigerians-charged-US-over-sextortion-deaths-of-us-teens/)
+### 18. [Nigerians extradited to US for sextortion, deaths of two teens](https://www.bleepingcomputer.com/news/security/nigerians-charged-US-over-sextortion-deaths-of-us-teens/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 31 Aug 2026 05:22:47 -0400  
@@ -139,7 +166,7 @@
 
 ---
 
-### 16. [Microsoft asks users to ignore 'Antivirus is turned off' errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-antivirus-is-turned-off-errors/)
+### 19. [Microsoft asks users to ignore 'Antivirus is turned off' errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-antivirus-is-turned-off-errors/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 31 Aug 2026 04:29:42 -0400  
@@ -148,39 +175,12 @@
 
 ---
 
-### 17. [FulcrumSec claims Manchester Airports hack, theft of 86 GB of data](https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/)
+### 20. [FulcrumSec claims Manchester Airports hack, theft of 86 GB of data](https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 30 Aug 2026 11:00:21 -0400  
 **Severity:** Low  
 **Categories:** Data Breach  
-
----
-
-### 18. [Anthropic warns infostealer malware is hijacking Claude sessions to drain usage](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/)
-
-**Source:** Bleeping Computer  
-**Published:** Sun, 30 Aug 2026 10:30:25 -0400  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 19. [Chrome Web Store extensions caught stealing crypto, browser data](https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/)
-
-**Source:** Bleeping Computer  
-**Published:** Sun, 30 Aug 2026 10:17:44 -0400  
-**Severity:** High  
-**Categories:** Malware  
-
----
-
-### 20. [Anthropic is cutting Claude Code's current weekly limits by 17%](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 29 Aug 2026 19:11:51 -0400  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -207,7 +207,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-68820, CVE-2026-72971, CVE-2026-62832  
+**CVEs:** CVE-2026-72971, CVE-2026-68820, CVE-2026-62832  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -244,7 +244,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56164, CVE-2026-50661, CVE-2026-56155, CVE-2026-48561  
+**CVEs:** CVE-2026-48561, CVE-2026-56164, CVE-2026-56155, CVE-2026-50661  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -290,7 +290,7 @@
 **Source:** Security Week  
 **Published:** Mon, 31 Aug 2026 13:59:19 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-6876, CVE-2026-74820, CVE-2026-18885, CVE-2026-18886  
+**CVEs:** CVE-2026-74820, CVE-2026-18885, CVE-2026-18886, CVE-2026-6876  
 **Categories:** Vulnerability  
 
 ---
@@ -628,7 +628,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
