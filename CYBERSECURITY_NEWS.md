@@ -1,10 +1,55 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-01 05:28:50 UTC
+**Last Updated:** 2026-09-01 13:37:37 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales](https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html)
+### 1. [Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests](https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 01 Sep 2026 18:38:58 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 2. [Threat Actors Don’t Want Better Attacks. They Want Repeatable Ones](https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 01 Sep 2026 17:00:00 +0530  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 3. [Attackers Steal METR API Key and Consume AI Credits Worth About $600,000](https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 01 Sep 2026 14:35:30 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 4. [Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis](https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 01 Sep 2026 13:56:24 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 5. [Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity](https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 01 Sep 2026 12:52:30 +0530  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 6. [North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales](https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 31 Aug 2026 22:54:28 +0530  
@@ -13,7 +58,7 @@
 
 ---
 
-### 2. [⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More](https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html)
+### 7. [⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More](https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 31 Aug 2026 19:20:00 +0530  
@@ -22,7 +67,7 @@
 
 ---
 
-### 3. [ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions](https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html)
+### 8. [ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions](https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 31 Aug 2026 17:44:00 +0530  
@@ -31,7 +76,7 @@
 
 ---
 
-### 4. [Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets](https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html)
+### 9. [Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets](https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 31 Aug 2026 17:17:24 +0530  
@@ -40,7 +85,7 @@
 
 ---
 
-### 5. [Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance](https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html)
+### 10. [Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance](https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 31 Aug 2026 17:01:47 +0530  
@@ -49,52 +94,36 @@
 
 ---
 
-### 6. [China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs](https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html)
+### 11. [Nearly 22,000 Microsoft Exchange servers vulnerable to hijack attacks](https://www.bleepingcomputer.com/news/security/nearly-22-000-microsoft-exchange-servers-vulnerable-to-hijack-attacks/)
 
-**Source:** The Hacker News  
-**Published:** Mon, 31 Aug 2026 14:34:55 +0530  
-**Severity:** Low  
-**Categories:** APT  
-
----
-
-### 7. [DoJ Corrects China Hacking Claim, Says U.S. Agencies Were Targets, Not Victims](https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 31 Aug 2026 13:26:53 +0530  
-**Severity:** Low  
-**Categories:** General Security  
+**Source:** Bleeping Computer  
+**Published:** Tue, 01 Sep 2026 08:38:35 -0400  
+**Severity:** High  
+**CVEs:** CVE-2026-62911  
+**Categories:** Vulnerability, APT  
 
 ---
 
-### 8. [TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor](https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html)
+### 12. [Five Venezuelans plead guilty to ATM jackpotting attacks in US](https://www.bleepingcomputer.com/news/security/five-venezuelans-plead-guilty-to-atm-jackpotting-attacks-in-us/)
 
-**Source:** The Hacker News  
-**Published:** Sun, 30 Aug 2026 13:06:33 +0530  
+**Source:** Bleeping Computer  
+**Published:** Tue, 01 Sep 2026 05:15:07 -0400  
 **Severity:** Low  
 **Categories:** Malware, APT  
 
 ---
 
-### 9. [Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE](https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html)
+### 13. [Recently patched PaperCut zero-days used in data theft attacks](https://www.bleepingcomputer.com/news/security/recently-patched-papercut-zero-days-used-in-data-theft-attacks/)
 
-**Source:** The Hacker News  
-**Published:** Sat, 29 Aug 2026 21:55:03 +0530  
+**Source:** Bleeping Computer  
+**Published:** Tue, 01 Sep 2026 03:48:24 -0400  
 **Severity:** Critical  
-**Categories:** General Security  
+**CVEs:** CVE-2026-82078, CVE-2026-81578  
+**Categories:** Vulnerability  
 
 ---
 
-### 10. [Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network](https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html)
-
-**Source:** The Hacker News  
-**Published:** Sat, 29 Aug 2026 03:00:52 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 11. [Cronos blockchain restarts after $74 million Tectonic exploit](https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/)
+### 14. [Cronos blockchain restarts after $74 million Tectonic exploit](https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 31 Aug 2026 16:47:54 -0400  
@@ -103,7 +132,7 @@
 
 ---
 
-### 12. [Microsoft warns of TerminalFix attacks deploying reverse tunnels](https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/)
+### 15. [Microsoft warns of TerminalFix attacks deploying reverse tunnels](https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 31 Aug 2026 14:51:04 -0400  
@@ -112,7 +141,7 @@
 
 ---
 
-### 13. [Microsoft Exchange Online outage causes email failures, auth issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/)
+### 16. [Massive Microsoft 365 outage causes auth issues, service failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 31 Aug 2026 12:56:57 -0400  
@@ -121,7 +150,7 @@
 
 ---
 
-### 14. [OpenAI confirms ChatGPT outage as users report errors](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-outage-as-users-report-errors/)
+### 17. [OpenAI confirms ChatGPT outage as users report errors](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-outage-as-users-report-errors/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 31 Aug 2026 12:50:50 -0400  
@@ -130,7 +159,7 @@
 
 ---
 
-### 15. [Chinese Fire Ant hackers turn Cisco routers into spying platforms](https://www.bleepingcomputer.com/news/security/chinese-fire-ant-hackers-turn-cisco-routers-into-spying-platforms/)
+### 18. [Chinese Fire Ant hackers turn Cisco routers into spying platforms](https://www.bleepingcomputer.com/news/security/chinese-fire-ant-hackers-turn-cisco-routers-into-spying-platforms/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 31 Aug 2026 10:52:03 -0400  
@@ -139,7 +168,7 @@
 
 ---
 
-### 16. [File servers are here to stay. Here’s how to manage them securely](https://www.bleepingcomputer.com/news/security/file-servers-are-here-to-stay-heres-how-to-manage-them-securely/)
+### 19. [File servers are here to stay. Here’s how to manage them securely](https://www.bleepingcomputer.com/news/security/file-servers-are-here-to-stay-heres-how-to-manage-them-securely/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 31 Aug 2026 10:00:10 -0400  
@@ -148,39 +177,12 @@
 
 ---
 
-### 17. [Berlin confirms data theft after Rhysida ransomware attack claims](https://www.bleepingcomputer.com/news/security/berlin-confirms-data-theft-after-rhysida-ransomware-attack-claims/)
+### 20. [Berlin confirms data theft after Rhysida ransomware attack claims](https://www.bleepingcomputer.com/news/security/berlin-confirms-data-theft-after-rhysida-ransomware-attack-claims/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 31 Aug 2026 09:30:01 -0400  
 **Severity:** Critical  
 **Categories:** Ransomware  
-
----
-
-### 18. [Microsoft says Windows 11 KB5120998 update resets mouse settings](https://www.bleepingcomputer.com/news/security/microsoft-says-windows-11-kb5120998-update-resets-mouse-settings/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 31 Aug 2026 06:23:46 -0400  
-**Severity:** High  
-**Categories:** General Security  
-
----
-
-### 19. [Nigerians extradited to US for sextortion, deaths of two teens](https://www.bleepingcomputer.com/news/security/nigerians-charged-US-over-sextortion-deaths-of-us-teens/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 31 Aug 2026 05:22:47 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 20. [Microsoft asks users to ignore 'Antivirus is turned off' errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-antivirus-is-turned-off-errors/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 31 Aug 2026 04:29:42 -0400  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -207,7 +209,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-68820, CVE-2026-62832, CVE-2026-72971  
+**CVEs:** CVE-2026-72971, CVE-2026-68820, CVE-2026-62832  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -244,7 +246,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56155, CVE-2026-48561, CVE-2026-50661, CVE-2026-56164  
+**CVEs:** CVE-2026-50661, CVE-2026-56155, CVE-2026-48561, CVE-2026-56164  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -276,17 +278,84 @@
 
 ---
 
-### 31. [PaperCut Exploitation Escalates to Active Intrusions](https://www.securityweek.com/papercut-exploitation-escalates-to-active-intrusions/)
+### 31. [Experiment: Porting a PLC Exploit With AI Takes Hours and Hundreds of Dollars](https://www.securityweek.com/experiment-porting-a-plc-exploit-with-ai-takes-hours-and-hundreds-of-dollars/)
 
 **Source:** Security Week  
-**Published:** Tue, 01 Sep 2026 05:27:18 +0000  
+**Published:** Tue, 01 Sep 2026 12:37:15 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81578, CVE-2026-82078  
+**CVEs:** CVE-2021-31886  
+**Categories:** Vulnerability, APT  
+
+---
+
+### 32. [Hackers Start Exploiting Critical Langflow Vulnerability](https://www.securityweek.com/hackers-start-exploiting-critical-langflow-vulnerability/)
+
+**Source:** Security Week  
+**Published:** Tue, 01 Sep 2026 12:07:54 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2025-3248, CVE-2026-0768, CVE-2026-5027, CVE-2026-0769  
 **Categories:** Vulnerability  
 
 ---
 
-### 32. [Nightmare Eclipse Drops ‘HardBreacher’ Kaspersky Product Exploit](https://www.securityweek.com/nightmare-eclipse-drops-hardbreacher-kaspersky-product-exploit/)
+### 33. [Five Venezuelans Plead Guilty in US Court to ATM Jackpotting](https://www.securityweek.com/five-venezuelans-plead-guilty-in-us-court-to-atm-jackpotting/)
+
+**Source:** Security Week  
+**Published:** Tue, 01 Sep 2026 11:24:25 +0000  
+**Severity:** High  
+**Categories:** Malware  
+
+---
+
+### 34. [Ransomware Gang Claims Nutex Health Data Breach](https://www.securityweek.com/ransomware-gang-claims-nutex-health-data-breach/)
+
+**Source:** Security Week  
+**Published:** Tue, 01 Sep 2026 10:47:47 +0000  
+**Severity:** Low  
+**Categories:** Ransomware, Data Breach  
+
+---
+
+### 35. [Critical JFrog Artifactory Vulnerability Reportedly Exploited in the Wild](https://www.securityweek.com/critical-jfrog-artifactory-vulnerability-reportedly-exploited-in-the-wild/)
+
+**Source:** Security Week  
+**Published:** Tue, 01 Sep 2026 09:59:44 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-66384, CVE-2026-82329  
+**Categories:** Vulnerability  
+
+---
+
+### 36. [9.5 Million Impacted by Aesto Health Data Breach](https://www.securityweek.com/9-5-million-impacted-by-aesto-health-data-breach/)
+
+**Source:** Security Week  
+**Published:** Tue, 01 Sep 2026 09:09:34 +0000  
+**Severity:** Low  
+**Categories:** Data Breach  
+
+---
+
+### 37. [WatchGuard Patches Critical Vulnerabilities](https://www.securityweek.com/watchguard-patches-critical-vulnerabilities/)
+
+**Source:** Security Week  
+**Published:** Tue, 01 Sep 2026 08:50:04 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-19318, CVE-2026-78174, CVE-2026-13086, CVE-2026-19315, CVE-2026-19313  
+**Categories:** Vulnerability  
+
+---
+
+### 38. [PaperCut Exploitation Escalates to Active Intrusions](https://www.securityweek.com/papercut-exploitation-escalates-to-active-intrusions/)
+
+**Source:** Security Week  
+**Published:** Tue, 01 Sep 2026 05:27:18 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-82078, CVE-2026-81578  
+**Categories:** Vulnerability  
+
+---
+
+### 39. [Nightmare Eclipse Drops ‘HardBreacher’ Kaspersky Product Exploit](https://www.securityweek.com/nightmare-eclipse-drops-hardbreacher-kaspersky-product-exploit/)
 
 **Source:** Security Week  
 **Published:** Mon, 31 Aug 2026 14:32:34 +0000  
@@ -295,77 +364,13 @@
 
 ---
 
-### 33. [ServiceNow Patches 3 Critical Code Injection Vulnerabilities](https://www.securityweek.com/servicenow-patches-3-critical-code-injection-vulnerabilities/)
+### 40. [ServiceNow Patches 3 Critical Code Injection Vulnerabilities](https://www.securityweek.com/servicenow-patches-3-critical-code-injection-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Mon, 31 Aug 2026 13:59:19 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-74820, CVE-2026-6876, CVE-2026-18885, CVE-2026-18886  
+**CVEs:** CVE-2026-74820, CVE-2026-18886, CVE-2026-18885, CVE-2026-6876  
 **Categories:** Vulnerability  
-
----
-
-### 34. [McKesson Confirms Data Breach as Attacker Deadline Looms](https://www.securityweek.com/mckesson-confirms-data-breach-as-attacker-deadline-looms/)
-
-**Source:** Security Week  
-**Published:** Mon, 31 Aug 2026 13:14:46 +0000  
-**Severity:** High  
-**Categories:** Ransomware, Data Breach, Supply Chain  
-
----
-
-### 35. [What the Hugging Face Incident Teaches Security Leaders About AI Agent Access](https://www.securityweek.com/what-the-hugging-face-incident-teaches-security-leaders-about-ai-agent-access/)
-
-**Source:** Security Week  
-**Published:** Mon, 31 Aug 2026 12:15:00 +0000  
-**Severity:** High  
-**Categories:** Malware, Phishing, APT  
-
----
-
-### 36. [Anthropic Warns Claude Users of Infostealer Malware Infections](https://www.securityweek.com/anthropic-warns-claude-users-of-infostealer-malware-infections/)
-
-**Source:** Security Week  
-**Published:** Mon, 31 Aug 2026 12:11:58 +0000  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 37. [Critical Ruby on Rails Vulnerability in Attackers’ Crosshairs](https://www.securityweek.com/critical-ruby-on-rails-vulnerability-in-attackers-crosshairs/)
-
-**Source:** Security Week  
-**Published:** Mon, 31 Aug 2026 11:24:17 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-66066  
-**Categories:** Vulnerability  
-
----
-
-### 38. [Boston Scientific Still Recovering From Cyberattack](https://www.securityweek.com/boston-scientific-still-recovering-from-cyberattack/)
-
-**Source:** Security Week  
-**Published:** Mon, 31 Aug 2026 10:50:57 +0000  
-**Severity:** High  
-**Categories:** Data Breach  
-
----
-
-### 39. [Extortion Group Claims Manchester Airports Group Data Breach](https://www.securityweek.com/extortion-group-claims-manchester-airports-group-data-breach/)
-
-**Source:** Security Week  
-**Published:** Mon, 31 Aug 2026 10:29:10 +0000  
-**Severity:** High  
-**Categories:** Ransomware, Data Breach  
-
----
-
-### 40. [Judge Says Pentagon’s Measures Against Anthropic Were ‘Illegal and Baseless’](https://www.securityweek.com/judge-says-pentagons-measures-against-anthropic-were-illegal-and-baseless/)
-
-**Source:** Security Week  
-**Published:** Mon, 31 Aug 2026 09:07:01 +0000  
-**Severity:** Low  
-**Categories:** Vulnerability, Supply Chain  
 
 ---
 
@@ -629,7 +634,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -644,7 +649,25 @@
 
 ---
 
-### 71. [McKesson confirms cyber incident after ShinyHunters claims patient-data theft](https://www.malwarebytes.com/blog/news/2026/08/mckesson-confirms-cyber-incident-after-shinyhunters-claims-patient-data-theft)
+### 71. [TerminalFix looks like ClickFix, but delivers a very different payload](https://www.malwarebytes.com/blog/news/2026/09/terminalfix-looks-like-clickfix-but-delivers-a-very-different-payload)
+
+**Source:** Malwarebytes  
+**Published:** Tue, 01 Sep 2026 12:13:18 GMT  
+**Severity:** Low  
+**Categories:** Malware, APT  
+
+---
+
+### 72. [Infostealers are hijacking Claude accounts at users’ expense](https://www.malwarebytes.com/blog/news/2026/09/infostealers-are-hijacking-claude-accounts-at-users-expense)
+
+**Source:** Malwarebytes  
+**Published:** Tue, 01 Sep 2026 10:08:28 GMT  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 73. [McKesson confirms cyber incident after ShinyHunters claims patient-data theft](https://www.malwarebytes.com/blog/news/2026/08/mckesson-confirms-cyber-incident-after-shinyhunters-claims-patient-data-theft)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 31 Aug 2026 14:46:50 GMT  
@@ -653,7 +676,7 @@
 
 ---
 
-### 72. [A week in security (August 24 – August 30)](https://www.malwarebytes.com/blog/news/2026/08/a-week-in-security-august-24-august-30)
+### 74. [A week in security (August 24 – August 30)](https://www.malwarebytes.com/blog/news/2026/08/a-week-in-security-august-24-august-30)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 31 Aug 2026 07:01:00 GMT  
@@ -662,7 +685,7 @@
 
 ---
 
-### 73. [Protect your WhatsApp account with new passkey and 2FA upgrades](https://www.malwarebytes.com/blog/mobile/2026/08/protect-your-whatsapp-account-with-new-passkey-and-2fa-upgrades)
+### 75. [Protect your WhatsApp account with new passkey and 2FA upgrades](https://www.malwarebytes.com/blog/mobile/2026/08/protect-your-whatsapp-account-with-new-passkey-and-2fa-upgrades)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 28 Aug 2026 13:36:18 GMT  
@@ -671,7 +694,7 @@
 
 ---
 
-### 74. [The AI agent swarm that attacked Hugging Face is a warning for the future](https://www.malwarebytes.com/blog/ai/2026/08/the-ai-agent-swarm-that-attacked-hugging-face-is-a-warning-for-the-future)
+### 76. [The AI agent swarm that attacked Hugging Face is a warning for the future](https://www.malwarebytes.com/blog/ai/2026/08/the-ai-agent-swarm-that-attacked-hugging-face-is-a-warning-for-the-future)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 28 Aug 2026 11:29:23 GMT  
@@ -680,7 +703,7 @@
 
 ---
 
-### 75. [Flock wants privacy to meet surveillance halfway](https://www.malwarebytes.com/blog/privacy/2026/08/flock-wants-privacy-to-meet-surveillance-halfway)
+### 77. [Flock wants privacy to meet surveillance halfway](https://www.malwarebytes.com/blog/privacy/2026/08/flock-wants-privacy-to-meet-surveillance-halfway)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 27 Aug 2026 15:15:32 GMT  
@@ -689,7 +712,7 @@
 
 ---
 
-### 76. [Fake listings can turn trusted platforms into scam springboards](https://www.malwarebytes.com/blog/scams/2026/08/fake-listings-can-turn-trusted-platforms-into-scam-springboards)
+### 78. [Fake listings can turn trusted platforms into scam springboards](https://www.malwarebytes.com/blog/scams/2026/08/fake-listings-can-turn-trusted-platforms-into-scam-springboards)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 27 Aug 2026 14:36:03 GMT  
@@ -698,7 +721,7 @@
 
 ---
 
-### 77. [Fake Apple Pay charge brings the classic tech support scam to your phone](https://www.malwarebytes.com/blog/scams/2026/08/fake-apple-pay-charge-brings-the-classic-tech-support-scam-to-your-phone)
+### 79. [Fake Apple Pay charge brings the classic tech support scam to your phone](https://www.malwarebytes.com/blog/scams/2026/08/fake-apple-pay-charge-brings-the-classic-tech-support-scam-to-your-phone)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 27 Aug 2026 12:17:21 GMT  
@@ -707,31 +730,12 @@
 
 ---
 
-### 78. [New Instagram and Facebook rules set a default two-hour limit for teens](https://www.malwarebytes.com/blog/news/2026/08/new-instagram-and-facebook-rules-will-set-a-default-two-hour-daily-limit-for-teens)
+### 80. [New Instagram and Facebook rules set a default two-hour limit for teens](https://www.malwarebytes.com/blog/news/2026/08/new-instagram-and-facebook-rules-will-set-a-default-two-hour-daily-limit-for-teens)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 27 Aug 2026 10:23:13 GMT  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 79. [Update Chrome before you browse again](https://www.malwarebytes.com/blog/bugs/2026/08/update-chrome-before-you-browse-again)
-
-**Source:** Malwarebytes  
-**Published:** Wed, 26 Aug 2026 13:10:21 GMT  
-**Severity:** Critical  
-**CVEs:** CVE-2026-79282  
-**Categories:** Vulnerability  
-
----
-
-### 80. [Popular school apps may be sharing student data with advertisers](https://www.malwarebytes.com/blog/privacy/2026/08/popular-school-apps-may-be-sharing-student-data-with-advertisers)
-
-**Source:** Malwarebytes  
-**Published:** Wed, 26 Aug 2026 12:12:09 GMT  
-**Severity:** Low  
-**Categories:** Supply Chain  
 
 ---
 
