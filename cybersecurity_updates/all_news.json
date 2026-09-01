@@ -416,9 +416,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-68820",
         "CVE-2026-62832",
-        "CVE-2026-72971",
-        "CVE-2026-68820"
+        "CVE-2026-72971"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -495,10 +495,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56164",
-        "CVE-2026-50661",
         "CVE-2026-56155",
-        "CVE-2026-48561"
+        "CVE-2026-48561",
+        "CVE-2026-50661",
+        "CVE-2026-56164"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -559,6 +559,27 @@
       "threat_categories": [
         "Malware",
         "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "PaperCut Exploitation Escalates to Active Intrusions",
+    "link": "https://www.securityweek.com/papercut-exploitation-escalates-to-active-intrusions/",
+    "published": "Tue, 01 Sep 2026 05:27:18 +0000",
+    "summary": "<p>CISA has added the vulnerabilities tracked as CVE-2026-82078 and CVE-2026-81578 to its KEV catalog.</p>\n<p>The post <a href=\"https://www.securityweek.com/papercut-exploitation-escalates-to-active-intrusions/\">PaperCut Exploitation Escalates to Active Intrusions</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "CISA has added the vulnerabilities tracked as CVE-2026-82078 and CVE-2026-81578 to its KEV catalog",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-81578",
+        "CVE-2026-82078"
+      ],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -734,25 +755,6 @@
       "threat_categories": [
         "Vulnerability",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Berlin Won’t Pay Extortion Group Claiming Data Theft",
-    "link": "https://www.securityweek.com/berlin-wont-pay-extortion-group-claiming-data-theft/",
-    "published": "Mon, 31 Aug 2026 08:49:36 +0000",
-    "summary": "<p>The Rhysida ransomware group has claimed the exfiltration of over 5TB of data, including personal information and credentials.</p>\n<p>The post <a href=\"https://www.securityweek.com/berlin-wont-pay-extortion-group-claiming-data-theft/\">Berlin Won’t Pay Extortion Group Claiming Data Theft</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The Rhysida ransomware group has claimed the exfiltration of over 5TB of data, including personal information and credentials",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach"
       ]
     }
   },
@@ -1287,8 +1289,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",

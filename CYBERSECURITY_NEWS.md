@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-01 04:32:19 UTC
+**Last Updated:** 2026-09-01 05:28:50 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -207,7 +207,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62832, CVE-2026-72971, CVE-2026-68820  
+**CVEs:** CVE-2026-68820, CVE-2026-62832, CVE-2026-72971  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -244,7 +244,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56164, CVE-2026-50661, CVE-2026-56155, CVE-2026-48561  
+**CVEs:** CVE-2026-56155, CVE-2026-48561, CVE-2026-50661, CVE-2026-56164  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -276,7 +276,17 @@
 
 ---
 
-### 31. [Nightmare Eclipse Drops ‘HardBreacher’ Kaspersky Product Exploit](https://www.securityweek.com/nightmare-eclipse-drops-hardbreacher-kaspersky-product-exploit/)
+### 31. [PaperCut Exploitation Escalates to Active Intrusions](https://www.securityweek.com/papercut-exploitation-escalates-to-active-intrusions/)
+
+**Source:** Security Week  
+**Published:** Tue, 01 Sep 2026 05:27:18 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-81578, CVE-2026-82078  
+**Categories:** Vulnerability  
+
+---
+
+### 32. [Nightmare Eclipse Drops ‘HardBreacher’ Kaspersky Product Exploit](https://www.securityweek.com/nightmare-eclipse-drops-hardbreacher-kaspersky-product-exploit/)
 
 **Source:** Security Week  
 **Published:** Mon, 31 Aug 2026 14:32:34 +0000  
@@ -285,7 +295,7 @@
 
 ---
 
-### 32. [ServiceNow Patches 3 Critical Code Injection Vulnerabilities](https://www.securityweek.com/servicenow-patches-3-critical-code-injection-vulnerabilities/)
+### 33. [ServiceNow Patches 3 Critical Code Injection Vulnerabilities](https://www.securityweek.com/servicenow-patches-3-critical-code-injection-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Mon, 31 Aug 2026 13:59:19 +0000  
@@ -295,7 +305,7 @@
 
 ---
 
-### 33. [McKesson Confirms Data Breach as Attacker Deadline Looms](https://www.securityweek.com/mckesson-confirms-data-breach-as-attacker-deadline-looms/)
+### 34. [McKesson Confirms Data Breach as Attacker Deadline Looms](https://www.securityweek.com/mckesson-confirms-data-breach-as-attacker-deadline-looms/)
 
 **Source:** Security Week  
 **Published:** Mon, 31 Aug 2026 13:14:46 +0000  
@@ -304,7 +314,7 @@
 
 ---
 
-### 34. [What the Hugging Face Incident Teaches Security Leaders About AI Agent Access](https://www.securityweek.com/what-the-hugging-face-incident-teaches-security-leaders-about-ai-agent-access/)
+### 35. [What the Hugging Face Incident Teaches Security Leaders About AI Agent Access](https://www.securityweek.com/what-the-hugging-face-incident-teaches-security-leaders-about-ai-agent-access/)
 
 **Source:** Security Week  
 **Published:** Mon, 31 Aug 2026 12:15:00 +0000  
@@ -313,7 +323,7 @@
 
 ---
 
-### 35. [Anthropic Warns Claude Users of Infostealer Malware Infections](https://www.securityweek.com/anthropic-warns-claude-users-of-infostealer-malware-infections/)
+### 36. [Anthropic Warns Claude Users of Infostealer Malware Infections](https://www.securityweek.com/anthropic-warns-claude-users-of-infostealer-malware-infections/)
 
 **Source:** Security Week  
 **Published:** Mon, 31 Aug 2026 12:11:58 +0000  
@@ -322,7 +332,7 @@
 
 ---
 
-### 36. [Critical Ruby on Rails Vulnerability in Attackers’ Crosshairs](https://www.securityweek.com/critical-ruby-on-rails-vulnerability-in-attackers-crosshairs/)
+### 37. [Critical Ruby on Rails Vulnerability in Attackers’ Crosshairs](https://www.securityweek.com/critical-ruby-on-rails-vulnerability-in-attackers-crosshairs/)
 
 **Source:** Security Week  
 **Published:** Mon, 31 Aug 2026 11:24:17 +0000  
@@ -332,7 +342,7 @@
 
 ---
 
-### 37. [Boston Scientific Still Recovering From Cyberattack](https://www.securityweek.com/boston-scientific-still-recovering-from-cyberattack/)
+### 38. [Boston Scientific Still Recovering From Cyberattack](https://www.securityweek.com/boston-scientific-still-recovering-from-cyberattack/)
 
 **Source:** Security Week  
 **Published:** Mon, 31 Aug 2026 10:50:57 +0000  
@@ -341,7 +351,7 @@
 
 ---
 
-### 38. [Extortion Group Claims Manchester Airports Group Data Breach](https://www.securityweek.com/extortion-group-claims-manchester-airports-group-data-breach/)
+### 39. [Extortion Group Claims Manchester Airports Group Data Breach](https://www.securityweek.com/extortion-group-claims-manchester-airports-group-data-breach/)
 
 **Source:** Security Week  
 **Published:** Mon, 31 Aug 2026 10:29:10 +0000  
@@ -350,21 +360,12 @@
 
 ---
 
-### 39. [Judge Says Pentagon’s Measures Against Anthropic Were ‘Illegal and Baseless’](https://www.securityweek.com/judge-says-pentagons-measures-against-anthropic-were-illegal-and-baseless/)
+### 40. [Judge Says Pentagon’s Measures Against Anthropic Were ‘Illegal and Baseless’](https://www.securityweek.com/judge-says-pentagons-measures-against-anthropic-were-illegal-and-baseless/)
 
 **Source:** Security Week  
 **Published:** Mon, 31 Aug 2026 09:07:01 +0000  
 **Severity:** Low  
 **Categories:** Vulnerability, Supply Chain  
-
----
-
-### 40. [Berlin Won’t Pay Extortion Group Claiming Data Theft](https://www.securityweek.com/berlin-wont-pay-extortion-group-claiming-data-theft/)
-
-**Source:** Security Week  
-**Published:** Mon, 31 Aug 2026 08:49:36 +0000  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach  
 
 ---
 
@@ -628,7 +629,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
