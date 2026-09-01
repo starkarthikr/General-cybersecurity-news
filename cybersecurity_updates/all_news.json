@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
+    "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html",
+    "published": "Tue, 01 Sep 2026 23:23:11 +0530",
+    "summary": "Threat actors are exploiting a newly patched critical security flaw impacting JFrog Artifactory merely days after public disclosure, according to watchTowr.\n\nThe vulnerability in question is CVE-2026-82329 (CVSS score: 9.8), a case of authentication bypass that could lead to administrative access in Artifactory.\n\n\"JFrog Artifactory contains an authentication weakness that, under default",
+    "analysis": {
+      "issue": "Attackers exploit a JFrog Artifactory authentication bypass to mint admin tokens and enumerate users on default configurations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems",
+    "link": "https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html",
+    "published": "Tue, 01 Sep 2026 22:49:24 +0530",
+    "summary": "Brazilian financial services, retail, and e-commerce organizations have become the target of a financially motivated threat actor dubbed Breeze Comet (formerly UNC5669) since 2024.\n\nGoogle Threat Intelligence Group (GTIG) and Mandiant teams described the threat actor as \"specializing in manipulating payment systems and banking software in Brazil to conduct fraudulent transfers.\" The adversary",
+    "analysis": {
+      "issue": "Breeze Comet targets Brazilian payment systems with custom malware, compromised accounts, and hundreds of fraudulent transactions",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds",
     "link": "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html",
     "published": "Tue, 01 Sep 2026 19:37:20 +0530",
@@ -144,38 +180,21 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions",
-    "link": "https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html",
-    "published": "Mon, 31 Aug 2026 17:44:00 +0530",
-    "summary": "The threat actor known as Silver Fox has been observed distributing the ValleyRAT backdoor disguised as a signed Chinese adware application, running the malware under a trusted process to slip past users who add such software to their antivirus exclusions.\n\nRussian cybersecurity vendor Kaspersky said the attackers built the disguise around QN Wallpaper, a genuine Chinese desktop-wallpaper tool",
+    "source": "Bleeping Computer",
+    "title": "Critical Langflow flaw exploited to steal OpenAI and AWS keys",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/",
+    "published": "Tue, 01 Sep 2026 13:54:22 -0400",
+    "summary": "Threat actors are exploiting an unauthenticated remote code execution vulnerability (CVE-2026-0768) in Langflow, an open-source framework for building AI applications, to steal credentials, tokens, and keys. [...]",
     "analysis": {
-      "issue": "ValleyRAT abuses signed QN Wallpaper software for DLL sideloading, disables Windows Defender, and runs inside a trusted process",
+      "issue": "Threat actors are exploiting an unauthenticated remote code execution vulnerability (CVE-2026-0768) in Langflow, an open-source framework for building AI applications, to steal credentials, tokens, and keys",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-0768"
+      ],
       "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets",
-    "link": "https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html",
-    "published": "Mon, 31 Aug 2026 17:17:24 +0530",
-    "summary": "Threat actors associated with Aurora (aka Aur0ra) ransomware have been observed using SpaceX's artificial intelligence (AI)-powered coding assistant Cursor to break into target networks, according to findings from CloudSEK and Gambit Security.\n\nThe two independent analyses are based on exposed infrastructure associated with the Russian-speaking cybercrime group, leading to the discovery of its",
-    "analysis": {
-      "issue": "Aurora ransomware operators used Cursor Agent for hands-on exploitation against 10 targets after receiving credentials or an existing route",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
         "Vulnerability"
       ]
     }
@@ -346,24 +365,6 @@
       "cause": null,
       "timeline": null,
       "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "OpenAI confirms ChatGPT outage as users report errors",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-outage-as-users-report-errors/",
-    "published": "Mon, 31 Aug 2026 12:50:50 -0400",
-    "summary": "ChatGPT Work is experiencing a partial outage, and users across multiple subscription plans may be unable to start or continue tasks. [...]",
-    "analysis": {
-      "issue": "ChatGPT Work is experiencing a partial outage, and users across multiple subscription plans may be unable to start or continue tasks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
       "cves": [],
       "threat_categories": [
         "General Security"
@@ -569,6 +570,42 @@
   },
   {
     "source": "Security Week",
+    "title": "Sevii Targets AI-Speed Attacks With Preemptive Autonomous Defense",
+    "link": "https://www.securityweek.com/sevii-targets-ai-speed-attacks-with-preemptive-autonomous-defense/",
+    "published": "Tue, 01 Sep 2026 18:30:00 +0000",
+    "summary": "<p>Sevii has expanded its ADR platform with AI agents designed to investigate, contain, and remediate AI-driven attacks within minutes.</p>\n<p>The post <a href=\"https://www.securityweek.com/sevii-targets-ai-speed-attacks-with-preemptive-autonomous-defense/\">Sevii Targets AI-Speed Attacks With Preemptive Autonomous Defense</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Sevii has expanded its ADR platform with AI agents designed to investigate, contain, and remediate AI-driven attacks within minutes",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Coast Guard Establishes Office of Maritime Cybersecurity Policy",
+    "link": "https://www.securityweek.com/coast-guard-establishes-office-of-maritime-cybersecurity-policy/",
+    "published": "Tue, 01 Sep 2026 18:26:22 +0000",
+    "summary": "<p>The new office will serve as the central authority for cybersecurity policy covering US ports, vessels, and maritime facilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/coast-guard-establishes-office-of-maritime-cybersecurity-policy/\">Coast Guard Establishes Office of Maritime Cybersecurity Policy</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The new office will serve as the central authority for cybersecurity policy covering US ports, vessels, and maritime facilities",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Experiment: Porting a PLC Exploit With AI Takes Hours and Hundreds of Dollars",
     "link": "https://www.securityweek.com/experiment-porting-a-plc-exploit-with-ai-takes-hours-and-hundreds-of-dollars/",
     "published": "Tue, 01 Sep 2026 12:37:15 +0000",
@@ -601,9 +638,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-0768",
         "CVE-2026-5027",
         "CVE-2025-3248",
-        "CVE-2026-0768",
         "CVE-2026-0769"
       ],
       "threat_categories": [
@@ -700,10 +737,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-13086",
         "CVE-2026-78174",
-        "CVE-2026-19318",
+        "CVE-2026-13086",
         "CVE-2026-19313",
+        "CVE-2026-19318",
         "CVE-2026-19315"
       ],
       "threat_categories": [
@@ -724,49 +761,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-81578",
-        "CVE-2026-82078"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Nightmare Eclipse Drops ‘HardBreacher’ Kaspersky Product Exploit",
-    "link": "https://www.securityweek.com/nightmare-eclipse-drops-hardbreacher-kaspersky-product-exploit/",
-    "published": "Mon, 31 Aug 2026 14:32:34 +0000",
-    "summary": "<p>Kaspersky told SecurityWeek that it patched the vulnerability affecting its Endpoint Security product.</p>\n<p>The post <a href=\"https://www.securityweek.com/nightmare-eclipse-drops-hardbreacher-kaspersky-product-exploit/\">Nightmare Eclipse Drops &#8216;HardBreacher&#8217; Kaspersky Product Exploit</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Kaspersky told SecurityWeek that it patched the vulnerability affecting its Endpoint Security product",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "ServiceNow Patches 3 Critical Code Injection Vulnerabilities",
-    "link": "https://www.securityweek.com/servicenow-patches-3-critical-code-injection-vulnerabilities/",
-    "published": "Mon, 31 Aug 2026 13:59:19 +0000",
-    "summary": "<p>Attackers could exploit the security defects to execute arbitrary code and access or tamper with data.</p>\n<p>The post <a href=\"https://www.securityweek.com/servicenow-patches-3-critical-code-injection-vulnerabilities/\">ServiceNow Patches 3 Critical Code Injection Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Attackers could exploit the security defects to execute arbitrary code and access or tamper with data",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-18886",
-        "CVE-2026-6876",
-        "CVE-2026-18885",
-        "CVE-2026-74820"
+        "CVE-2026-82078",
+        "CVE-2026-81578"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -959,6 +955,24 @@
   },
   {
     "source": "Recorded Future",
+    "title": "The Agentic SOC – From AI Theater to Real Defense",
+    "link": "https://www.recordedfuture.com/blog/agentic-soc-real-defense",
+    "published": "Tue, 01 Sep 2026 00:00:00 GMT",
+    "summary": "Experts from Recorded Future and Accenture offer perspectives on navigating the path to becoming an agentic SOC. Find out how to plan moving beyond “AI theater” by prioritizing measurable KPIs, proactively mitigating autonomous security risks, and evolving the analyst’s role from managing alerts to managing agents.",
+    "analysis": {
+      "issue": "Experts from Recorded Future and Accenture offer perspectives on navigating the path to becoming an agentic SOC",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
     "title": "BlueDelta Targets Defense and Diplomacy with HOOKEDGE",
     "link": "https://www.recordedfuture.com/research/bluedelta-targets-with-hookedge",
     "published": "Thu, 27 Aug 2026 00:00:00 GMT",
@@ -1113,24 +1127,6 @@
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "July 2026 CVE Landscape",
-    "link": "https://www.recordedfuture.com/blog/july-2026-cve-landscape",
-    "published": "Fri, 07 Aug 2026 00:00:00 GMT",
-    "summary": "In July 2026, Insikt Group® identified 85 high-impact vulnerabilities that should be prioritized for remediation, 36 of which had a Very Critical Recorded Future Risk Score. This represents a 44% increase from last month.",
-    "analysis": {
-      "issue": "In July 2026, Insikt Group® identified 85 high-impact vulnerabilities that should be prioritized for remediation, 36 of which had a Very Critical Recorded Future Risk Score",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
       "cves": [],
       "threat_categories": [
         "General Security"
@@ -1304,8 +1300,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1520,6 +1516,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "CrowdStrike Falcon Guardian Defines the Next Generation of AI Security",
+    "link": "https://www.crowdstrike.com/en-us/blog/falcon-guardian-defines-next-generation-of-ai-security/",
+    "published": "Sep 01, 2026 00:00:00-0400",
+    "summary": "",
+    "analysis": {
+      "issue": "A new flagship AI detection and response solution delivers runtime protection for AI agents, introduces a new AI gateway, and extends expert-led defense",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "Agents of Chaos: A New $100K Agentic Security Challenge",
     "link": "https://www.crowdstrike.com/en-us/blog/agents-of-chaos-immersive-ai-security-challenge/",
     "published": "Aug 31, 2026 00:00:00-0400",
@@ -1677,24 +1691,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "Falcon AIDR Now Protects Copilot Studio Agents and Claude Code",
-    "link": "https://www.crowdstrike.com/en-us/blog/falcon-aidr-protects-copilot-studio-agents-and-claude-code/",
-    "published": "Jul 30, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "Falcon AIDR extends AI visibility, detection, and response capabilities to Microsoft Copilot Studio and Claude Code",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   }
