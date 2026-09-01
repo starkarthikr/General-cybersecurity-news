@@ -416,9 +416,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-68820",
         "CVE-2026-62832",
-        "CVE-2026-72971"
+        "CVE-2026-72971",
+        "CVE-2026-68820"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -495,10 +495,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-48561",
-        "CVE-2026-50661",
         "CVE-2026-56164",
-        "CVE-2026-56155"
+        "CVE-2026-50661",
+        "CVE-2026-56155",
+        "CVE-2026-48561"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -593,10 +593,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-6876",
-        "CVE-2026-18886",
         "CVE-2026-74820",
-        "CVE-2026-18885"
+        "CVE-2026-6876",
+        "CVE-2026-18885",
+        "CVE-2026-18886"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1287,8 +1287,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1504,6 +1504,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "Agents of Chaos: A New $100K Agentic Security Challenge",
+    "link": "https://www.crowdstrike.com/en-us/blog/agents-of-chaos-immersive-ai-security-challenge/",
+    "published": "Aug 31, 2026 00:00:00-0400",
+    "summary": "",
+    "analysis": {
+      "issue": "Agents of Chaos, CrowdStrike’s new AI red teaming competition, tests players’ defensive skills against adversarial AI techniques",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "CrowdStrike Named Strongest Overall Leader in 2026 Frost Radar&trade;: Cloud Workload Protection Platforms",
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-strongest-overall-leader-2026-frost-radar-cwpp/",
     "published": "Aug 20, 2026 00:00:00-0500",
@@ -1654,24 +1672,6 @@
     "summary": "",
     "analysis": {
       "issue": "Falcon AIDR extends AI visibility, detection, and response capabilities to Microsoft Copilot Studio and Claude Code",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "Inside Astaroth's New Spambot Component",
-    "link": "https://www.crowdstrike.com/en-us/blog/inside-astaroths-new-spambot-component/",
-    "published": "Jul 29, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "Learn about the new Astaroth spambot component, how it overlaps with other spambots, and its role in the LATAM eCrime ecosystem",
       "solution": null,
       "cause": null,
       "timeline": null,

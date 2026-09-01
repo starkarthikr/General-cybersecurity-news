@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-08-31 21:33:28 UTC
+**Last Updated:** 2026-09-01 04:32:19 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -207,7 +207,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-68820, CVE-2026-62832, CVE-2026-72971  
+**CVEs:** CVE-2026-62832, CVE-2026-72971, CVE-2026-68820  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -244,7 +244,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48561, CVE-2026-50661, CVE-2026-56164, CVE-2026-56155  
+**CVEs:** CVE-2026-56164, CVE-2026-50661, CVE-2026-56155, CVE-2026-48561  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -290,7 +290,7 @@
 **Source:** Security Week  
 **Published:** Mon, 31 Aug 2026 13:59:19 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-6876, CVE-2026-18886, CVE-2026-74820, CVE-2026-18885  
+**CVEs:** CVE-2026-74820, CVE-2026-6876, CVE-2026-18885, CVE-2026-18886  
 **Categories:** Vulnerability  
 
 ---
@@ -628,7 +628,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -734,7 +734,16 @@
 
 ---
 
-### 81. [CrowdStrike Named Strongest Overall Leader in 2026 Frost Radar&trade;: Cloud Workload Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-strongest-overall-leader-2026-frost-radar-cwpp/)
+### 81. [Agents of Chaos: A New $100K Agentic Security Challenge](https://www.crowdstrike.com/en-us/blog/agents-of-chaos-immersive-ai-security-challenge/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Aug 31, 2026 00:00:00-0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 82. [CrowdStrike Named Strongest Overall Leader in 2026 Frost Radar&trade;: Cloud Workload Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-strongest-overall-leader-2026-frost-radar-cwpp/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Aug 20, 2026 00:00:00-0500  
@@ -743,7 +752,7 @@
 
 ---
 
-### 82. [Benchmaxxing: When the Benchmark Becomes the Target](https://www.crowdstrike.com/en-us/blog/benchmaxxing-when-benchmark-becomes-the-target/)
+### 83. [Benchmaxxing: When the Benchmark Becomes the Target](https://www.crowdstrike.com/en-us/blog/benchmaxxing-when-benchmark-becomes-the-target/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Aug 19, 2026 00:00:00-0500  
@@ -752,7 +761,7 @@
 
 ---
 
-### 83. [Teaching AI to Reason Through Detection Triage](https://www.crowdstrike.com/en-us/blog/teaching-ai-to-reason-through-detection-triage/)
+### 84. [Teaching AI to Reason Through Detection Triage](https://www.crowdstrike.com/en-us/blog/teaching-ai-to-reason-through-detection-triage/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Aug 17, 2026 00:00:00-0500  
@@ -761,7 +770,7 @@
 
 ---
 
-### 84. [August 2026 Patch Tuesday: One Exploited Zero-Day and 62 Critical Vulnerabilities Among 415 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-august-2026/)
+### 85. [August 2026 Patch Tuesday: One Exploited Zero-Day and 62 Critical Vulnerabilities Among 415 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-august-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Aug 11, 2026 00:00:00-0500  
@@ -770,7 +779,7 @@
 
 ---
 
-### 85. [CrowdStrike Threat Hunts for Shell Command Obfuscation on VMware ESX](https://www.crowdstrike.com/en-us/blog/crowdstrike-hunts-for-shell-command-obfuscation-vmware-esx/)
+### 86. [CrowdStrike Threat Hunts for Shell Command Obfuscation on VMware ESX](https://www.crowdstrike.com/en-us/blog/crowdstrike-hunts-for-shell-command-obfuscation-vmware-esx/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Aug 07, 2026 00:00:00-0500  
@@ -779,7 +788,7 @@
 
 ---
 
-### 86. [Expanding AI Benchmarks in Cybersecurity Beyond Vulnerability Discovery](https://www.crowdstrike.com/en-us/blog/expanding-cybersecurity-ai-benchmarks-beyond-vulnerability-discovery/)
+### 87. [Expanding AI Benchmarks in Cybersecurity Beyond Vulnerability Discovery](https://www.crowdstrike.com/en-us/blog/expanding-cybersecurity-ai-benchmarks-beyond-vulnerability-discovery/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Aug 06, 2026 00:00:00-0500  
@@ -788,7 +797,7 @@
 
 ---
 
-### 87. [Secure Agent Harness Execution: Preventing Escape](https://www.crowdstrike.com/en-us/blog/secure-agent-harness-execution-preventing-escape/)
+### 88. [Secure Agent Harness Execution: Preventing Escape](https://www.crowdstrike.com/en-us/blog/secure-agent-harness-execution-preventing-escape/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Aug 04, 2026 00:00:00-0500  
@@ -797,7 +806,7 @@
 
 ---
 
-### 88. [CrowdStrike 2026 Threat Hunting Report: Exploitation Window Closes as AI Use Accelerates](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-threat-hunting-report/)
+### 89. [CrowdStrike 2026 Threat Hunting Report: Exploitation Window Closes as AI Use Accelerates](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-threat-hunting-report/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Aug 03, 2026 00:00:00-0500  
@@ -806,19 +815,10 @@
 
 ---
 
-### 89. [Falcon AIDR Now Protects Copilot Studio Agents and Claude Code](https://www.crowdstrike.com/en-us/blog/falcon-aidr-protects-copilot-studio-agents-and-claude-code/)
+### 90. [Falcon AIDR Now Protects Copilot Studio Agents and Claude Code](https://www.crowdstrike.com/en-us/blog/falcon-aidr-protects-copilot-studio-agents-and-claude-code/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jul 30, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 90. [Inside Astaroth's New Spambot Component](https://www.crowdstrike.com/en-us/blog/inside-astaroths-new-spambot-component/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Jul 29, 2026 00:00:00-0500  
 **Severity:** Low  
 **Categories:** General Security  
 
