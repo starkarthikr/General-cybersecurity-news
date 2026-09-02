@@ -181,6 +181,42 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Hackers abuse Faronics Deploy admin tool to install ScreenConnect",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/",
+    "published": "Tue, 01 Sep 2026 16:53:23 -0400",
+    "summary": "Phishing actors are abusing the legitimate Faronics Deploy endpoint-management platform to gain remote administrative control over victim computers and install the ScreenConnect remote support software. [...]",
+    "analysis": {
+      "issue": "Phishing actors are abusing the legitimate Faronics Deploy endpoint-management platform to gain remote administrative control over victim computers and install the ScreenConnect remote support software",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Aesto Health says data breach affects over 9.5 million patients",
+    "link": "https://www.bleepingcomputer.com/news/security/aesto-health-says-data-breach-affects-over-95-million-patients/",
+    "published": "Tue, 01 Sep 2026 15:28:17 -0400",
+    "summary": "Aesto LLC, operating as Aesto Health, disclosed that a data breach discovered recently affects more than 9.5 million individuals. [...]",
+    "analysis": {
+      "issue": "Aesto LLC, operating as Aesto Health, disclosed that a data breach discovered recently affects more than 9",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Critical Langflow flaw exploited to steal OpenAI and AWS keys",
     "link": "https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/",
     "published": "Tue, 01 Sep 2026 13:54:22 -0400",
@@ -306,8 +342,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-82078",
-        "CVE-2026-81578"
+        "CVE-2026-81578",
+        "CVE-2026-82078"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -333,41 +369,20 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Microsoft warns of TerminalFix attacks deploying reverse tunnels",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/",
-    "published": "Mon, 31 Aug 2026 14:51:04 -0400",
-    "summary": "A new ClickFix variant dubbed TerminalFix uses fake Cloudflare CAPTCHA prompts on compromised websites to trick victims into running malicious PowerShell commands in Windows Terminal. [...]",
+    "source": "Krebs On Security",
+    "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+    "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+    "published": "Tue, 01 Sep 2026 22:40:28 +0000",
+    "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verification company based in Louisiana. KrebsOnSecurity also has learned that the New Orleans field office of the Federal Bureau of Investigation (FBI) today launched an official inquiry into the source of the images.",
     "analysis": {
-      "issue": "A new ClickFix variant dubbed TerminalFix uses fake Cloudflare CAPTCHA prompts on compromised websites to trick victims into executing malicious PowerShell commands in Windows Terminal",
+      "issue": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "Ransomware",
-        "Malware",
-        "Phishing",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Massive Microsoft 365 outage causes auth issues, service failures",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/",
-    "published": "Mon, 31 Aug 2026 12:56:57 -0400",
-    "summary": "Microsoft is investigating a widespread service issue causing authentication issues, email delays and failures, and various other issues for Exchange Online customers. [...]",
-    "analysis": {
-      "issue": "Microsoft is investigating a widespread service issue causing authentication issues, connection problems, service delays and failures, and various other issues for Microsoft 365 customers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
+        "Vulnerability"
       ]
     }
   },
@@ -422,9 +437,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-72971",
         "CVE-2026-68820",
-        "CVE-2026-62832",
-        "CVE-2026-72971"
+        "CVE-2026-62832"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -550,21 +565,20 @@
     }
   },
   {
-    "source": "Krebs On Security",
-    "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
-    "link": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
-    "published": "Thu, 02 Jul 2026 19:27:33 +0000",
-    "summary": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASDAQ: ALAR]. The action comes roughly two weeks after KrebsOnSecurity published findings from multiple security firms connecting NetNut to the Popa botnet, a collection of at least two million devices that have been compromised by malicious software with little or no consent from victims.",
+    "source": "Security Week",
+    "title": "Palo Alto Networks Acquires AI Agent Platform Console",
+    "link": "https://www.securityweek.com/palo-alto-networks-acquires-ai-agent-platform-console/",
+    "published": "Tue, 01 Sep 2026 20:29:42 +0000",
+    "summary": "<p>The cybersecurity giant announced the acquisition alongside quarterly results showing a 34% increase in revenue and strong growth in next-generation security ARR.</p>\n<p>The post <a href=\"https://www.securityweek.com/palo-alto-networks-acquires-ai-agent-platform-console/\">Palo Alto Networks Acquires AI Agent Platform Console</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
-      "issue": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASD",
+      "issue": "The cybersecurity giant announced the acquisition alongside quarterly results showing a 34% increase in revenue and strong growth in next-generation security ARR",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware",
-        "Supply Chain"
+        "General Security"
       ]
     }
   },
@@ -638,10 +652,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-0768",
-        "CVE-2026-5027",
+        "CVE-2026-0769",
         "CVE-2025-3248",
-        "CVE-2026-0769"
+        "CVE-2026-5027",
+        "CVE-2026-0768"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -737,32 +751,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-78174",
         "CVE-2026-13086",
-        "CVE-2026-19313",
+        "CVE-2026-78174",
+        "CVE-2026-19315",
         "CVE-2026-19318",
-        "CVE-2026-19315"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "PaperCut Exploitation Escalates to Active Intrusions",
-    "link": "https://www.securityweek.com/papercut-exploitation-escalates-to-active-intrusions/",
-    "published": "Tue, 01 Sep 2026 05:27:18 +0000",
-    "summary": "<p>CISA has added the vulnerabilities tracked as CVE-2026-82078 and CVE-2026-81578 to its KEV catalog.</p>\n<p>The post <a href=\"https://www.securityweek.com/papercut-exploitation-escalates-to-active-intrusions/\">PaperCut Exploitation Escalates to Active Intrusions</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "CISA has added the vulnerabilities tracked as CVE-2026-82078 and CVE-2026-81578 to its KEV catalog",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-82078",
-        "CVE-2026-81578"
+        "CVE-2026-19313"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1300,8 +1293,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
