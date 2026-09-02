@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs",
+    "link": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
+    "published": "Wed, 02 Sep 2026 23:57:49 +0530",
+    "summary": "Google on Wednesday announced Gemini 3.8 Flash Cyber, which it described as its most capable cybersecurity model, and has made it available to a set of trusted defenders via a new initiative called the Fairwind Program.\n\n\"The Fairwind Program gives high-priority defenders (like governments, healthcare providers, and telecommunications services) early access to advanced models that help them",
+    "analysis": {
+      "issue": "8 Flash Cyber for trusted defenders as OpenAI says Astra meets its Critical cybersecurity capability threshold",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Fake Software Installers Disable Windows Update and Weaken Microsoft Defender",
+    "link": "https://thehackernews.com/2026/09/fake-software-installers-disable.html",
+    "published": "Wed, 02 Sep 2026 22:11:06 +0530",
+    "summary": "An active malware campaign is using bogus software-download websites to impersonate trusted vendors and distribute malicious installers.\n\n\"The campaign has targeted users looking to download popular software and has resulted in compromises across multiple organizations and industries, primarily affecting China-based operations of multinational organizations and Chinese-speaking users,\" Microsoft",
+    "analysis": {
+      "issue": "Bogus software download sites deploy malware that weakens Windows defenses and establishes persistence in China-based operations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code",
     "link": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
     "published": "Wed, 02 Sep 2026 19:36:59 +0530",
@@ -144,42 +180,6 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another",
-    "link": "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html",
-    "published": "Wed, 02 Sep 2026 13:17:13 +0530",
-    "summary": "Forescout Research - Vedere Labs said it used Anthropic's Claude to port a working pre-authentication remote code execution (RCE) exploit from one WAGO programmable logic controller (PLC) to another, executing attacker-supplied ARM shellcode on live hardware.\n\nThe exploit targets&nbsp;CVE-2021-31886, a stack-based buffer overflow in the Nucleus FTP server's handling of the&nbsp;USER&nbsp;command",
-    "analysis": {
-      "issue": "Researcher-guided Claude ported a pre-authentication RCE exploit to a WAGO 750-831 PLC, executing ARM shellcode on live hardware",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials",
-    "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html",
-    "published": "Wed, 02 Sep 2026 12:38:50 +0530",
-    "summary": "Threat actors are exploiting a severe security vulnerability in Sangoma Switchvox, an enterprise VoIP platform, that could allow unauthenticated remote code execution.\n\nThe vulnerability in question is CVE-2026-9586 (CVSS score: 9.3), a critical unauthenticated SQL injection vulnerability in Sangoma Switchvox SMB Edition 8.3 (104997) that can allow attackers to remotely execute arbitrary code as",
-    "analysis": {
-      "issue": "Attackers exploit a patched Switchvox SQL injection flaw to deploy reverse shells, with about 4,000 instances exposed online",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
     "title": "Hackers exploit critical JFrog Artifactory flaw to forge admin tokens",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/",
@@ -308,8 +308,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-83548",
-        "CVE-2026-83549"
+        "CVE-2026-83549",
+        "CVE-2026-83548"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -433,23 +433,7 @@
     "title": "Microsoft Plugs Nearly 400 Security Holes",
     "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
     "published": "Tue, 11 Aug 2026 21:28:35 +0000",
-    "summary": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today.",
-    "analysis": {
-      "issue": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-62832",
-        "CVE-2026-68820",
-        "CVE-2026-72971"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
+    "summary": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today."
   },
   {
     "source": "Krebs On Security",
@@ -521,9 +505,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-56164",
-        "CVE-2026-48561",
         "CVE-2026-56155",
-        "CVE-2026-50661"
+        "CVE-2026-50661",
+        "CVE-2026-48561"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -698,8 +682,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-84352",
-        "CVE-2026-84353"
+        "CVE-2026-84353",
+        "CVE-2026-84352"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -739,8 +723,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-83548",
-        "CVE-2026-83549"
+        "CVE-2026-83549",
+        "CVE-2026-83548"
       ],
       "threat_categories": [
         "Ransomware",
@@ -1297,8 +1281,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1516,6 +1500,60 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "CrowdStrike Extends Endpoint Security to Stop Software Supply Chain Attacks",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-endpoint-security-to-stop-supply-chain-attacks/",
+    "published": "Sep 02, 2026 00:00:00-0400",
+    "summary": "",
+    "analysis": {
+      "issue": "Real-Time Supply Chain Attack Protection, embedded into the Falcon sensor, blocks malicious open-source packages at download to protect the endpoint",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
+    "title": "CrowdStrike Delivers the Next Evolution of the Agentic SOC",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-delivers-next-evolution-of-agentic-soc/",
+    "published": "Sep 02, 2026 00:00:00-0400",
+    "summary": "",
+    "analysis": {
+      "issue": "Expert agents that reason together, learn your environment, and run on data CrowdStrike owns",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
+    "title": "CrowdStrike Announces Agentic Identity Provider",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-announces-agentic-identity-provider/",
+    "published": "Sep 02, 2026 00:00:00-0400",
+    "summary": "",
+    "analysis": {
+      "issue": "CrowdStrike gives every AI agent a trusted identity and controls their access based on real-time context, and expands modern privileged access",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "CrowdStrike Falcon Guardian Defines the Next Generation of AI Security",
     "link": "https://www.crowdstrike.com/en-us/blog/falcon-guardian-defines-next-generation-of-ai-security/",
     "published": "Sep 01, 2026 00:00:00-0400",
@@ -1637,60 +1675,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Threat Hunts for Shell Command Obfuscation on VMware ESX",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-hunts-for-shell-command-obfuscation-vmware-esx/",
-    "published": "Aug 07, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "CrowdStrike researchers tested obfuscation techniques on an ESX environment, cataloged 21 distinct methods, and built regex-based detection patterns based on their research",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "Expanding AI Benchmarks in Cybersecurity Beyond Vulnerability Discovery",
-    "link": "https://www.crowdstrike.com/en-us/blog/expanding-cybersecurity-ai-benchmarks-beyond-vulnerability-discovery/",
-    "published": "Aug 06, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "AI for defense must be evaluated against the operational reality of security teams, including the techniques adversaries use to gain initial access and defenders’ most time-consuming tasks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "Secure Agent Harness Execution: Preventing Escape",
-    "link": "https://www.crowdstrike.com/en-us/blog/secure-agent-harness-execution-preventing-escape/",
-    "published": "Aug 04, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "CrowdStrike uses a defense-in-depth architecture, consisting of seven independent control layers, to prevent autonomous AI agents from taking unintended actions",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   }

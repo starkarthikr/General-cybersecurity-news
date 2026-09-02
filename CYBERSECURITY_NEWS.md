@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-02 16:21:06 UTC
+**Last Updated:** 2026-09-02 19:27:22 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code](https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html)
+### 1. [Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs](https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 02 Sep 2026 23:57:49 +0530  
+**Severity:** Critical  
+**Categories:** General Security  
+
+---
+
+### 2. [Fake Software Installers Disable Windows Update and Weaken Microsoft Defender](https://thehackernews.com/2026/09/fake-software-installers-disable.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 02 Sep 2026 22:11:06 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 3. [Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code](https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 02 Sep 2026 19:36:59 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages](https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html)
+### 4. [Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages](https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 02 Sep 2026 19:14:16 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access](https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html)
+### 5. [BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access](https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 02 Sep 2026 18:42:45 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control](https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html)
+### 6. [Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control](https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 02 Sep 2026 17:52:02 +0530  
@@ -40,7 +58,7 @@
 
 ---
 
-### 5. [How to Secure Enterprise AI: From Adoption to Incident Readiness](https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html)
+### 7. [How to Secure Enterprise AI: From Adoption to Incident Readiness](https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 02 Sep 2026 17:00:00 +0530  
@@ -49,7 +67,7 @@
 
 ---
 
-### 6. [Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain](https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html)
+### 8. [Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain](https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 02 Sep 2026 16:23:49 +0530  
@@ -58,7 +76,7 @@
 
 ---
 
-### 7. [GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends](https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html)
+### 9. [GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends](https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 02 Sep 2026 14:48:02 +0530  
@@ -67,30 +85,12 @@
 
 ---
 
-### 8. [Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands](https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html)
+### 10. [Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands](https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 02 Sep 2026 14:40:23 +0530  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 9. [Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another](https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 02 Sep 2026 13:17:13 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 10. [Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials](https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 02 Sep 2026 12:38:50 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
 
 ---
 
@@ -154,7 +154,7 @@
 **Source:** Bleeping Computer  
 **Published:** Wed, 02 Sep 2026 02:39:29 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-83548, CVE-2026-83549  
+**CVEs:** CVE-2026-83549, CVE-2026-83548  
 **Categories:** Vulnerability  
 
 ---
@@ -218,9 +218,6 @@
 
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-62832, CVE-2026-68820, CVE-2026-72971  
-**Categories:** Vulnerability, Malware  
 
 ---
 
@@ -256,7 +253,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56164, CVE-2026-48561, CVE-2026-56155, CVE-2026-50661  
+**CVEs:** CVE-2026-56164, CVE-2026-56155, CVE-2026-50661, CVE-2026-48561  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -340,7 +337,7 @@
 **Source:** Security Week  
 **Published:** Wed, 02 Sep 2026 09:12:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-84352, CVE-2026-84353  
+**CVEs:** CVE-2026-84353, CVE-2026-84352  
 **Categories:** Vulnerability  
 
 ---
@@ -359,7 +356,7 @@
 **Source:** Security Week  
 **Published:** Wed, 02 Sep 2026 05:04:52 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-83548, CVE-2026-83549  
+**CVEs:** CVE-2026-83549, CVE-2026-83548  
 **Categories:** Ransomware, Vulnerability  
 
 ---
@@ -633,7 +630,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -739,7 +736,34 @@
 
 ---
 
-### 81. [CrowdStrike Falcon Guardian Defines the Next Generation of AI Security](https://www.crowdstrike.com/en-us/blog/falcon-guardian-defines-next-generation-of-ai-security/)
+### 81. [CrowdStrike Extends Endpoint Security to Stop Software Supply Chain Attacks](https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-endpoint-security-to-stop-supply-chain-attacks/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Sep 02, 2026 00:00:00-0400  
+**Severity:** Low  
+**Categories:** Supply Chain  
+
+---
+
+### 82. [CrowdStrike Delivers the Next Evolution of the Agentic SOC](https://www.crowdstrike.com/en-us/blog/crowdstrike-delivers-next-evolution-of-agentic-soc/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Sep 02, 2026 00:00:00-0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 83. [CrowdStrike Announces Agentic Identity Provider](https://www.crowdstrike.com/en-us/blog/crowdstrike-announces-agentic-identity-provider/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Sep 02, 2026 00:00:00-0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 84. [CrowdStrike Falcon Guardian Defines the Next Generation of AI Security](https://www.crowdstrike.com/en-us/blog/falcon-guardian-defines-next-generation-of-ai-security/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 01, 2026 00:00:00-0400  
@@ -748,7 +772,7 @@
 
 ---
 
-### 82. [Peer Pressure: Inside the Sality Botnet Disruption Operation](https://www.crowdstrike.com/en-us/blog/inside-sality-botnet-disruption-operation/)
+### 85. [Peer Pressure: Inside the Sality Botnet Disruption Operation](https://www.crowdstrike.com/en-us/blog/inside-sality-botnet-disruption-operation/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 01, 2026 00:00:00-0400  
@@ -757,7 +781,7 @@
 
 ---
 
-### 83. [Agents of Chaos: A New $100K Agentic Security Challenge](https://www.crowdstrike.com/en-us/blog/agents-of-chaos-immersive-ai-security-challenge/)
+### 86. [Agents of Chaos: A New $100K Agentic Security Challenge](https://www.crowdstrike.com/en-us/blog/agents-of-chaos-immersive-ai-security-challenge/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Aug 31, 2026 00:00:00-0400  
@@ -766,7 +790,7 @@
 
 ---
 
-### 84. [CrowdStrike Named Strongest Overall Leader in 2026 Frost Radar&trade;: Cloud Workload Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-strongest-overall-leader-2026-frost-radar-cwpp/)
+### 87. [CrowdStrike Named Strongest Overall Leader in 2026 Frost Radar&trade;: Cloud Workload Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-strongest-overall-leader-2026-frost-radar-cwpp/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Aug 20, 2026 00:00:00-0500  
@@ -775,7 +799,7 @@
 
 ---
 
-### 85. [Benchmaxxing: When the Benchmark Becomes the Target](https://www.crowdstrike.com/en-us/blog/benchmaxxing-when-benchmark-becomes-the-target/)
+### 88. [Benchmaxxing: When the Benchmark Becomes the Target](https://www.crowdstrike.com/en-us/blog/benchmaxxing-when-benchmark-becomes-the-target/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Aug 19, 2026 00:00:00-0500  
@@ -784,7 +808,7 @@
 
 ---
 
-### 86. [Teaching AI to Reason Through Detection Triage](https://www.crowdstrike.com/en-us/blog/teaching-ai-to-reason-through-detection-triage/)
+### 89. [Teaching AI to Reason Through Detection Triage](https://www.crowdstrike.com/en-us/blog/teaching-ai-to-reason-through-detection-triage/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Aug 17, 2026 00:00:00-0500  
@@ -793,39 +817,12 @@
 
 ---
 
-### 87. [August 2026 Patch Tuesday: One Exploited Zero-Day and 62 Critical Vulnerabilities Among 415 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-august-2026/)
+### 90. [August 2026 Patch Tuesday: One Exploited Zero-Day and 62 Critical Vulnerabilities Among 415 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-august-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Aug 11, 2026 00:00:00-0500  
 **Severity:** Critical  
 **Categories:** Vulnerability  
-
----
-
-### 88. [CrowdStrike Threat Hunts for Shell Command Obfuscation on VMware ESX](https://www.crowdstrike.com/en-us/blog/crowdstrike-hunts-for-shell-command-obfuscation-vmware-esx/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Aug 07, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 89. [Expanding AI Benchmarks in Cybersecurity Beyond Vulnerability Discovery](https://www.crowdstrike.com/en-us/blog/expanding-cybersecurity-ai-benchmarks-beyond-vulnerability-discovery/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Aug 06, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 90. [Secure Agent Harness Execution: Preventing Escape](https://www.crowdstrike.com/en-us/blog/secure-agent-harness-execution-preventing-escape/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Aug 04, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
