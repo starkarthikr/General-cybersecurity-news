@@ -342,8 +342,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-81578",
-        "CVE-2026-82078"
+        "CVE-2026-82078",
+        "CVE-2026-81578"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -437,9 +437,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-72971",
         "CVE-2026-68820",
-        "CVE-2026-62832"
+        "CVE-2026-62832",
+        "CVE-2026-72971"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -516,10 +516,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56155",
-        "CVE-2026-50661",
         "CVE-2026-56164",
-        "CVE-2026-48561"
+        "CVE-2026-48561",
+        "CVE-2026-50661",
+        "CVE-2026-56155"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -652,10 +652,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-0768",
         "CVE-2026-0769",
         "CVE-2025-3248",
-        "CVE-2026-5027",
-        "CVE-2026-0768"
+        "CVE-2026-5027"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -712,11 +712,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-82329",
-        "CVE-2026-66384"
+        "CVE-2026-66384",
+        "CVE-2026-82329"
       ],
       "threat_categories": [
-        "Vulnerability"
+        "Vulnerability",
+        "Supply Chain"
       ]
     }
   },
@@ -751,11 +752,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-13086",
-        "CVE-2026-78174",
         "CVE-2026-19315",
+        "CVE-2026-19313",
+        "CVE-2026-13086",
         "CVE-2026-19318",
-        "CVE-2026-19313"
+        "CVE-2026-78174"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1293,8 +1294,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
