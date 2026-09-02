@@ -1,6 +1,78 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code",
+    "link": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
+    "published": "Wed, 02 Sep 2026 19:36:59 +0530",
+    "summary": "Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository's own Git configuration names a command that the agent runs on the developer's machine, four of them still unpatched at publication.\n\nThe command executes as the user, outside the agent's sandbox and without an approval prompt, and exploitation requires the repository to arrive",
+    "analysis": {
+      "issue": "Eight Git config flaws let received repositories run commands through seven AI coding agents; four remained unpatched at publication",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages",
+    "link": "https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html",
+    "published": "Wed, 02 Sep 2026 19:14:16 +0530",
+    "summary": "A Chinese-speaking cybercrime cluster known as Gambling Goblin has been observed installing malicious Apache modules on compromised web servers run by Brazilian government and educational institutions, and using them to divert visitors to attacker-controlled pages promoting online gambling and sports betting.\n\nCheck Point Research said it has tracked the campaign since mid-2025.\n\nThe modules",
+    "analysis": {
+      "issue": "Gambling Goblin installs malicious Apache modules on Brazilian public-sector servers to reverse-proxy visitors to gambling pages",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access",
+    "link": "https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html",
+    "published": "Wed, 02 Sep 2026 18:42:45 +0530",
+    "summary": "Virtualizor said hackers used a Border Gateway Protocol (BGP) hijack to divert Softaculous traffic. The hackers then used the diverted update traffic to deliver a malicious Virtualizor package to some installations. A hosting-provider account separately said 5 of its 34 checked Virtualizor hypervisors sustained root-level compromise.\n\nThe incident window ran from approximately August 28 at 20:57",
+    "analysis": {
+      "issue": "A BGP hijack delivered a malicious Virtualizor update; one provider found root compromise on five of 34 checked hypervisors",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control",
+    "link": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
+    "published": "Wed, 02 Sep 2026 17:52:02 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called StreamRat that was promoted to Spanish-speaking users through a fake television-streaming campaign on Meta and can give operators near-complete control of infected devices.\n\nThreatFabric said the campaign's advertisement focused on Spain and reached an estimated 570,950 Meta accounts in the European Union",
+    "analysis": {
+      "issue": "StreamRat uses fake streaming ads to reach Spanish-speaking Android users and enables device takeover after sideloading and permission grants",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "How to Secure Enterprise AI: From Adoption to Incident Readiness",
     "link": "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html",
     "published": "Wed, 02 Sep 2026 17:00:00 +0530",
@@ -108,74 +180,41 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads",
-    "link": "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html",
-    "published": "Wed, 02 Sep 2026 12:26:30 +0530",
-    "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the takedown of a long-standing peer-to-peer (P2P) botnet known as Sality as part of a coordinated law enforcement operation.\n\nThe effort was undertaken on August 31, 2026, by authorities from the U.S., Bulgaria, Hungary, and Romania, in collaboration with private industry partners CrowdStrike and the Shadowserver Foundation. To that",
+    "source": "Bleeping Computer",
+    "title": "Hackers exploit critical JFrog Artifactory flaw to forge admin tokens",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/",
+    "published": "Wed, 02 Sep 2026 11:47:08 -0400",
+    "summary": "A critical authentication bypass vulnerability (CVE-2026-82329) in JFrog Artifactory is being exploited in attacks to create tokens that provide administrative access. [...]",
     "analysis": {
-      "issue": "Authorities sinkholed Sality's P2P botnet and seized linked domains, cutting off new payloads while existing malware remains active",
+      "issue": "A critical authentication bypass vulnerability (CVE-2026-82329) in JFrog Artifactory is being exploited in attacks to create tokens that provide administrative access",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
-    "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html",
-    "published": "Tue, 01 Sep 2026 23:23:11 +0530",
-    "summary": "Threat actors are exploiting a newly patched critical security flaw impacting JFrog Artifactory merely days after public disclosure, according to watchTowr.\n\nThe vulnerability in question is CVE-2026-82329 (CVSS score: 9.8), a case of authentication bypass that could lead to administrative access in Artifactory.\n\n\"JFrog Artifactory contains an authentication weakness that, under default",
-    "analysis": {
-      "issue": "Attackers exploit a JFrog Artifactory authentication bypass to mint admin tokens and enumerate users on default configurations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-82329"
+      ],
       "threat_categories": [
         "Vulnerability"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems",
-    "link": "https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html",
-    "published": "Tue, 01 Sep 2026 22:49:24 +0530",
-    "summary": "Brazilian financial services, retail, and e-commerce organizations have become the target of a financially motivated threat actor dubbed Breeze Comet (formerly UNC5669) since 2024.\n\nGoogle Threat Intelligence Group (GTIG) and Mandiant teams described the threat actor as \"specializing in manipulating payment systems and banking software in Brazil to conduct fraudulent transfers.\" The adversary",
+    "source": "Bleeping Computer",
+    "title": "Ransomware protection for MSPs: A 6-point checklist for faster recovery",
+    "link": "https://www.bleepingcomputer.com/news/security/ransomware-protection-for-msps-a-6-point-checklist-for-faster-recovery/",
+    "published": "Wed, 02 Sep 2026 10:02:12 -0400",
+    "summary": "Ransomware resilience requires more than backups or endpoint detection alone. Acronis outlines six capabilities MSPs should test across client environments, from reducing exposure and detecting attacks to preserving recovery points and restoring operations quickly. [...]",
     "analysis": {
-      "issue": "Breeze Comet targets Brazilian payment systems with custom malware, compromised accounts, and hundreds of fraudulent transactions",
+      "issue": "Ransomware protection for MSPs should deliver six tested outcomes: reduce exposure, detect activity before encryption, provide 24/7 response, preserve isolated recovery points, recover cleanly and operate consistently across tenants",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds",
-    "link": "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html",
-    "published": "Tue, 01 Sep 2026 19:37:20 +0530",
-    "summary": "Cybersecurity researchers have identified a set of 13 malicious Composer theme packages on Packagist that are designed to inject JavaScript into Vietnamese movie and comic streaming sites that install those libraries and initiate the deployment of spyware aimed at unpatched iOS devices.\n\n\"The injected code runs two operations against a site's visitors: a mobile ad-fraud and gambling-redirect",
-    "analysis": {
-      "issue": "Thirteen malicious Packagist themes inject redirects and an iOS exploit chain that can steal device data and cryptocurrency wallet secrets",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
+        "Ransomware",
+        "Phishing"
       ]
     }
   },
@@ -334,42 +373,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Hackers push malicious Virtualizor update in BGP hijacking attack",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/",
-    "published": "Tue, 01 Sep 2026 10:45:06 -0400",
-    "summary": "Hackers delivered malicious updates to the Virtualizor VPS management software after hijacking BGP routing for its update infrastructure and redirecting update requests to malicious servers. [...]",
-    "analysis": {
-      "issue": "Hackers delivered malicious updates to the Virtualizor VPS management software after hijacking BGP routing for its update infrastructure and redirecting update requests to malicious servers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Novocure data breach affects more than 1,400 cancer patients",
-    "link": "https://www.bleepingcomputer.com/news/security/novocure-data-breach-affects-more-than-1-400-cancer-patients/",
-    "published": "Tue, 01 Sep 2026 10:28:40 -0400",
-    "summary": "Healthtech company Novocure says the data of an undisclosed number of employees and more than 1,400 U.S. cancer patients has been exposed in a mid-August cyberattack. [...]",
-    "analysis": {
-      "issue": "Healthtech company Novocure says the data of an undisclosed number of employees and more than 1,400 U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
     "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
@@ -439,8 +442,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-62832",
-        "CVE-2026-72971",
-        "CVE-2026-68820"
+        "CVE-2026-68820",
+        "CVE-2026-72971"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -517,10 +520,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56155",
+        "CVE-2026-56164",
         "CVE-2026-48561",
-        "CVE-2026-50661",
-        "CVE-2026-56164"
+        "CVE-2026-56155",
+        "CVE-2026-50661"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -562,6 +565,25 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "UK Moves to Block High-Risk Tech Suppliers From Critical Infrastructure",
+    "link": "https://www.securityweek.com/uk-moves-to-block-high-risk-tech-suppliers-from-critical-infrastructure/",
+    "published": "Wed, 02 Sep 2026 15:45:08 +0000",
+    "summary": "<p>Late amendments to the Cyber Security and Resilience Bill would give ministers new powers to restrict risky technology providers as supply chain attacks intensify.</p>\n<p>The post <a href=\"https://www.securityweek.com/uk-moves-to-block-high-risk-tech-suppliers-from-critical-infrastructure/\">UK Moves to Block High-Risk Tech Suppliers From Critical Infrastructure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Late amendments to the Cyber Security and Resilience Bill would give ministers new powers to restrict risky technology providers as supply chain attacks intensify",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
       ]
     }
   },
@@ -647,10 +669,10 @@
   },
   {
     "source": "Security Week",
-    "title": "OpenAI’s Astra Becomes First Model to Cross Critical Cybersecurity Threshold",
+    "title": "OpenAI’s Astra Crosses ‘Critical’ Cyber Threshold After Finding Zero-Days",
     "link": "https://www.securityweek.com/openais-astra-becomes-first-model-to-cross-critical-cybersecurity-threshold/",
     "published": "Wed, 02 Sep 2026 10:38:13 +0000",
-    "summary": "<p>The designation applies when a model can independently find and exploit zero-day vulnerabilities across many well-defended systems.</p>\n<p>The post <a href=\"https://www.securityweek.com/openais-astra-becomes-first-model-to-cross-critical-cybersecurity-threshold/\">OpenAI&#8217;s Astra Becomes First Model to Cross Critical Cybersecurity Threshold</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "summary": "<p>The designation applies when a model can independently find and exploit zero-day vulnerabilities across many well-defended systems.</p>\n<p>The post <a href=\"https://www.securityweek.com/openais-astra-becomes-first-model-to-cross-critical-cybersecurity-threshold/\">OpenAI’s Astra Crosses ‘Critical’ Cyber Threshold After Finding Zero-Days</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
       "issue": "The designation applies when a model can independently find and exploit zero-day vulnerabilities across many well-defended systems",
       "solution": null,
@@ -741,24 +763,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Sevii Targets AI-Speed Attacks With Preemptive Autonomous Defense",
-    "link": "https://www.securityweek.com/sevii-targets-ai-speed-attacks-with-preemptive-autonomous-defense/",
-    "published": "Tue, 01 Sep 2026 18:30:00 +0000",
-    "summary": "<p>Sevii has expanded its ADR platform with AI agents designed to investigate, contain, and remediate AI-driven attacks within minutes.</p>\n<p>The post <a href=\"https://www.securityweek.com/sevii-targets-ai-speed-attacks-with-preemptive-autonomous-defense/\">Sevii Targets AI-Speed Attacks With Preemptive Autonomous Defense</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Sevii has expanded its ADR platform with AI agents designed to investigate, contain, and remediate AI-driven attacks within minutes",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "APT"
       ]
     }
   },
@@ -1324,6 +1328,44 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Tech support scams look different now. Here’s what to watch for",
+    "link": "https://www.malwarebytes.com/blog/scams/2026/09/tech-support-scams-look-different-now-heres-what-to-watch-for",
+    "published": "Wed, 02 Sep 2026 15:49:51 GMT",
+    "summary": "Tech support scams have evolved beyond fake virus warnings. Here’s how scammers reach their targets now, and how to stay safe.",
+    "analysis": {
+      "issue": "In a tech support scam, criminals pretend to work for a trusted technology or security company",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Scammers are getting smarter about where they target you",
+    "link": "https://www.malwarebytes.com/blog/scams/2026/09/scammers-are-getting-smarter-about-where-they-target-you",
+    "published": "Wed, 02 Sep 2026 12:45:00 GMT",
+    "summary": "New Malwarebytes research reveals how different scams are tailored to different platforms.",
+    "analysis": {
+      "issue": "Scammers are becoming more strategic about where they target people",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Two critical Chrome flaws put users at risk on malicious websites",
     "link": "https://www.malwarebytes.com/blog/bugs/2026/09/two-critical-chrome-flaws-put-users-at-risk-on-malicious-websites",
     "published": "Wed, 02 Sep 2026 11:15:56 GMT",
@@ -1468,43 +1510,6 @@
       "cves": [],
       "threat_categories": [
         "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Protect your WhatsApp account with new passkey and 2FA upgrades",
-    "link": "https://www.malwarebytes.com/blog/mobile/2026/08/protect-your-whatsapp-account-with-new-passkey-and-2fa-upgrades",
-    "published": "Fri, 28 Aug 2026 13:36:18 GMT",
-    "summary": "WhatsApp has introduced three security upgrades. Here’s what to turn on to better protect your account.",
-    "analysis": {
-      "issue": "WhatsApp announced on August 25 that more than one billion people now use passkeys to log back into the app",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "The AI agent swarm that attacked Hugging Face is a warning for the future",
-    "link": "https://www.malwarebytes.com/blog/ai/2026/08/the-ai-agent-swarm-that-attacked-hugging-face-is-a-warning-for-the-future",
-    "published": "Fri, 28 Aug 2026 11:29:23 GMT",
-    "summary": "An army of AI agents was responsible for the Hugging Face incident. What does it mean for the future of AI?",
-    "analysis": {
-      "issue": "The hacking incident involving OpenAI evaluation agents and Hugging Face offers an unusually concrete look at what advanced AI-assisted intrusion can mean in practice: not a single clever exploit, but thousands of automated decisions, rapid experimen",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
         "Phishing"
       ]
     }
