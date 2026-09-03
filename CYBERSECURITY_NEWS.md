@@ -1,10 +1,64 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-03 04:52:52 UTC
+**Last Updated:** 2026-09-03 12:56:57 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs](https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html)
+### 1. [US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries](https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 03 Sep 2026 17:28:00 +0530  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 2. [Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks](https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 03 Sep 2026 16:13:01 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 3. [Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means](https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 03 Sep 2026 16:06:39 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 4. [Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone](https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 03 Sep 2026 14:13:17 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 5. [Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon](https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 03 Sep 2026 11:56:59 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 6. [CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners](https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 03 Sep 2026 10:49:04 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 7. [Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs](https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 02 Sep 2026 23:57:49 +0530  
@@ -13,7 +67,7 @@
 
 ---
 
-### 2. [Fake Software Installers Disable Windows Update and Weaken Microsoft Defender](https://thehackernews.com/2026/09/fake-software-installers-disable.html)
+### 8. [Fake Software Installers Disable Windows Update and Weaken Microsoft Defender](https://thehackernews.com/2026/09/fake-software-installers-disable.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 02 Sep 2026 22:11:06 +0530  
@@ -22,7 +76,7 @@
 
 ---
 
-### 3. [Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code](https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html)
+### 9. [Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code](https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 02 Sep 2026 19:36:59 +0530  
@@ -31,7 +85,7 @@
 
 ---
 
-### 4. [Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages](https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html)
+### 10. [Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages](https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 02 Sep 2026 19:14:16 +0530  
@@ -40,61 +94,34 @@
 
 ---
 
-### 5. [BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access](https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html)
+### 11. [Microsoft says KB5120998 Windows update resets desktop settings](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-kb5120998-windows-update-resets-desktop-settings/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 02 Sep 2026 18:42:45 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 03 Sep 2026 08:16:32 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 6. [Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control](https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html)
+### 12. [Plex warns users to patch security vulnerabilities immediately](https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerabilities-immediately/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 02 Sep 2026 17:52:02 +0530  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 7. [How to Secure Enterprise AI: From Adoption to Incident Readiness](https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 02 Sep 2026 17:00:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 8. [Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain](https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 02 Sep 2026 16:23:49 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 03 Sep 2026 07:02:22 -0400  
 **Severity:** Low  
 **Categories:** Vulnerability  
 
 ---
 
-### 9. [GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends](https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html)
+### 13. [Microsoft Teams, Outlook fail to launch on ARM-based Windows PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 02 Sep 2026 14:48:02 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 03 Sep 2026 04:55:25 -0400  
 **Severity:** Low  
-**Categories:** Vulnerability  
+**Categories:** APT  
 
 ---
 
-### 10. [Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands](https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 02 Sep 2026 14:40:23 +0530  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 11. [Hackers exploit Sangoma Switchvox flaw to deploy reverse shells](https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/)
+### 14. [Hackers exploit Sangoma Switchvox flaw to deploy reverse shells](https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 02 Sep 2026 17:00:13 -0400  
@@ -104,7 +131,7 @@
 
 ---
 
-### 12. [WordPress backup plugin flaw exposes millions of sites to takeover attacks](https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/)
+### 15. [WordPress backup plugin flaw exposes millions of sites to takeover attacks](https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 02 Sep 2026 15:28:46 -0400  
@@ -114,7 +141,7 @@
 
 ---
 
-### 13. [Hackers exploit critical JFrog Artifactory flaw to forge admin tokens](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/)
+### 16. [Hackers exploit critical JFrog Artifactory flaw to forge admin tokens](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 02 Sep 2026 11:47:08 -0400  
@@ -124,7 +151,7 @@
 
 ---
 
-### 14. [Ransomware protection for MSPs: A 6-point checklist for faster recovery](https://www.bleepingcomputer.com/news/security/ransomware-protection-for-msps-a-6-point-checklist-for-faster-recovery/)
+### 17. [Ransomware protection for MSPs: A 6-point checklist for faster recovery](https://www.bleepingcomputer.com/news/security/ransomware-protection-for-msps-a-6-point-checklist-for-faster-recovery/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 02 Sep 2026 10:02:12 -0400  
@@ -133,7 +160,7 @@
 
 ---
 
-### 15. [Dropbox accounts breached through Lenovo email verification flaw](https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/)
+### 18. [Dropbox accounts breached through Lenovo email verification flaw](https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 02 Sep 2026 08:30:22 -0400  
@@ -142,7 +169,7 @@
 
 ---
 
-### 16. [Microsoft Defender flags legitimate Google search links as malicious](https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/)
+### 19. [Microsoft Defender flags legitimate Google search links as malicious](https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 02 Sep 2026 06:29:39 -0400  
@@ -151,40 +178,12 @@
 
 ---
 
-### 17. [US charges Russian for infecting 80,000 freelancers with malware](https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/)
+### 20. [US charges Russian for infecting 80,000 freelancers with malware](https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 02 Sep 2026 05:06:48 -0400  
 **Severity:** Low  
 **Categories:** Vulnerability, Malware, Phishing  
-
----
-
-### 18. [Sality botnet infrastructure dismantled in joint global takedown](https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 02 Sep 2026 04:00:43 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability, Malware, Phishing, DDoS  
-
----
-
-### 19. [SonicWall warns of actively exploited SMA1000 zero-day flaws](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 02 Sep 2026 02:39:29 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-83549, CVE-2026-83548  
-**Categories:** Vulnerability  
-
----
-
-### 20. [Hackers abuse Faronics Deploy admin tool to install ScreenConnect](https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 01 Sep 2026 16:53:23 -0400  
-**Severity:** Low  
-**Categories:** Phishing  
 
 ---
 
@@ -257,7 +256,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56155, CVE-2026-48561, CVE-2026-56164, CVE-2026-50661  
+**CVEs:** CVE-2026-48561, CVE-2026-50661, CVE-2026-56164, CVE-2026-56155  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -280,7 +279,54 @@
 
 ---
 
-### 31. [OpenLeash Adds a Human Check to Risky AI Agent Actions](https://www.securityweek.com/openleash-adds-a-human-check-to-risky-ai-agent-actions/)
+### 31. [HiddenLayer Raises $100 Million for AI Runtime Security](https://www.securityweek.com/hiddenlayer-raises-100-million-for-ai-runtime-security/)
+
+**Source:** Security Week  
+**Published:** Thu, 03 Sep 2026 12:17:30 +0000  
+**Severity:** Low  
+**Categories:** Supply Chain  
+
+---
+
+### 32. [AI Agent Firewall Startup AIR Security Emerges From Stealth With $50 Million](https://www.securityweek.com/ai-agent-firewall-startup-air-security-emerges-from-stealth-with-50-million/)
+
+**Source:** Security Week  
+**Published:** Thu, 03 Sep 2026 12:00:00 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 33. [153 Million Driver License Images Offered on Dark Web](https://www.securityweek.com/153-million-driver-license-images-offered-on-dark-web/)
+
+**Source:** Security Week  
+**Published:** Thu, 03 Sep 2026 10:54:18 +0000  
+**Severity:** Low  
+**Categories:** Ransomware, Data Breach  
+
+---
+
+### 34. [Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability](https://www.securityweek.com/over-3-million-wordpress-sites-affected-by-migration-plugin-vulnerability/)
+
+**Source:** Security Week  
+**Published:** Thu, 03 Sep 2026 10:40:00 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-19949  
+**Categories:** Vulnerability  
+
+---
+
+### 35. [Cisco Warns of Unpatched Secure Email Flaws, Patches Critical Switch Vulnerabilities](https://www.securityweek.com/cisco-warns-of-unpatched-secure-email-flaws-patches-critical-switch-vulnerabilities/)
+
+**Source:** Security Week  
+**Published:** Thu, 03 Sep 2026 10:30:00 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-20354, CVE-2026-20279, CVE-2026-20274, CVE-2026-20212, CVE-2026-20355, CVE-2026-20281  
+**Categories:** Vulnerability  
+
+---
+
+### 36. [OpenLeash Adds a Human Check to Risky AI Agent Actions](https://www.securityweek.com/openleash-adds-a-human-check-to-risky-ai-agent-actions/)
 
 **Source:** Security Week  
 **Published:** Wed, 02 Sep 2026 19:30:00 +0000  
@@ -289,7 +335,7 @@
 
 ---
 
-### 32. [UK Moves to Block High-Risk Tech Suppliers From Critical Infrastructure](https://www.securityweek.com/uk-moves-to-block-high-risk-tech-suppliers-from-critical-infrastructure/)
+### 37. [UK Moves to Block High-Risk Tech Suppliers From Critical Infrastructure](https://www.securityweek.com/uk-moves-to-block-high-risk-tech-suppliers-from-critical-infrastructure/)
 
 **Source:** Security Week  
 **Published:** Wed, 02 Sep 2026 15:45:08 +0000  
@@ -298,7 +344,7 @@
 
 ---
 
-### 33. [Rockwell Automation Patches Over a Dozen Vulnerabilities Across Products](https://www.securityweek.com/rockwell-automation-patches-over-a-dozen-vulnerabilities-across-products/)
+### 38. [Rockwell Automation Patches Over a Dozen Vulnerabilities Across Products](https://www.securityweek.com/rockwell-automation-patches-over-a-dozen-vulnerabilities-across-products/)
 
 **Source:** Security Week  
 **Published:** Wed, 02 Sep 2026 12:39:07 +0000  
@@ -308,7 +354,7 @@
 
 ---
 
-### 34. [Exploit Published for Fresh Cleo Harmony Vulnerability](https://www.securityweek.com/exploit-published-for-fresh-cleo-harmony-vulnerability/)
+### 39. [Exploit Published for Fresh Cleo Harmony Vulnerability](https://www.securityweek.com/exploit-published-for-fresh-cleo-harmony-vulnerability/)
 
 **Source:** Security Week  
 **Published:** Wed, 02 Sep 2026 12:18:15 +0000  
@@ -318,59 +364,12 @@
 
 ---
 
-### 35. [Anthropic Details Response to Security Incidents, Unveils Enterprise Safeguards](https://www.securityweek.com/anthropic-details-response-to-security-incidents-unveils-enterprise-safeguards/)
+### 40. [Anthropic Details Response to Security Incidents, Unveils Enterprise Safeguards](https://www.securityweek.com/anthropic-details-response-to-security-incidents-unveils-enterprise-safeguards/)
 
 **Source:** Security Week  
 **Published:** Wed, 02 Sep 2026 11:48:31 +0000  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 36. [Malicious Virtualizor Update Served via BGP Hijacking](https://www.securityweek.com/malicious-virtualizor-update-served-via-bgp-hijacking/)
-
-**Source:** Security Week  
-**Published:** Wed, 02 Sep 2026 11:31:36 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, Supply Chain  
-
----
-
-### 37. [OpenAI’s Astra Crosses ‘Critical’ Cyber Threshold After Finding Zero-Days](https://www.securityweek.com/openais-astra-becomes-first-model-to-cross-critical-cybersecurity-threshold/)
-
-**Source:** Security Week  
-**Published:** Wed, 02 Sep 2026 10:38:13 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 38. [Chrome and Firefox Updates Patch Dozens of Vulnerabilities](https://www.securityweek.com/chrome-and-firefox-updates-patch-dozens-of-vulnerabilities/)
-
-**Source:** Security Week  
-**Published:** Wed, 02 Sep 2026 09:12:29 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-84353, CVE-2026-84352  
-**Categories:** Vulnerability  
-
----
-
-### 39. [23-Year-Old Sality P2P Botnet Disrupted](https://www.securityweek.com/23-year-old-sality-p2p-botnet-disrupted/)
-
-**Source:** Security Week  
-**Published:** Wed, 02 Sep 2026 08:38:00 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, Malware, DDoS  
-
----
-
-### 40. [SonicWall Warns of Two SMA1000 Zero-Days Exploited in Attacks](https://www.securityweek.com/sonicwall-warns-of-two-sma1000-zero-days-exploited-in-attacks/)
-
-**Source:** Security Week  
-**Published:** Wed, 02 Sep 2026 05:04:52 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-83549, CVE-2026-83548  
-**Categories:** Ransomware, Vulnerability  
 
 ---
 
@@ -649,7 +648,16 @@
 
 ---
 
-### 71. [Tech support scams look different now. Here’s what to watch for](https://www.malwarebytes.com/blog/scams/2026/09/tech-support-scams-look-different-now-heres-what-to-watch-for)
+### 71. [Your phone or computer may soon ask how old you are](https://www.malwarebytes.com/blog/privacy/2026/09/your-phone-or-computer-may-soon-ask-how-old-you-are)
+
+**Source:** Malwarebytes  
+**Published:** Thu, 03 Sep 2026 08:54:50 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 72. [Tech support scams look different now. Here’s what to watch for](https://www.malwarebytes.com/blog/scams/2026/09/tech-support-scams-look-different-now-heres-what-to-watch-for)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 02 Sep 2026 15:49:51 GMT  
@@ -658,7 +666,7 @@
 
 ---
 
-### 72. [Scammers are getting smarter about where they target you](https://www.malwarebytes.com/blog/scams/2026/09/scammers-are-getting-smarter-about-where-they-target-you)
+### 73. [Scammers are getting smarter about where they target you](https://www.malwarebytes.com/blog/scams/2026/09/scammers-are-getting-smarter-about-where-they-target-you)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 02 Sep 2026 12:45:00 GMT  
@@ -667,7 +675,7 @@
 
 ---
 
-### 73. [Two critical Chrome flaws put users at risk on malicious websites](https://www.malwarebytes.com/blog/bugs/2026/09/two-critical-chrome-flaws-put-users-at-risk-on-malicious-websites)
+### 74. [Two critical Chrome flaws put users at risk on malicious websites](https://www.malwarebytes.com/blog/bugs/2026/09/two-critical-chrome-flaws-put-users-at-risk-on-malicious-websites)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 02 Sep 2026 11:15:56 GMT  
@@ -677,7 +685,7 @@
 
 ---
 
-### 74. [153M+ driver’s licenses for sale on new dark web platform](https://www.malwarebytes.com/blog/news/2026/09/dark-web-site-puts-153-million-drivers-licenses-and-millions-more-ids-up-for-sale)
+### 75. [153M+ driver’s licenses for sale on new dark web platform](https://www.malwarebytes.com/blog/news/2026/09/dark-web-site-puts-153-million-drivers-licenses-and-millions-more-ids-up-for-sale)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 02 Sep 2026 10:03:58 GMT  
@@ -686,7 +694,7 @@
 
 ---
 
-### 75. [Your AI chats could be used in court](https://www.malwarebytes.com/blog/ai/2026/09/your-ai-chats-could-be-used-in-court)
+### 76. [Your AI chats could be used in court](https://www.malwarebytes.com/blog/ai/2026/09/your-ai-chats-could-be-used-in-court)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 02 Sep 2026 09:22:19 GMT  
@@ -695,7 +703,7 @@
 
 ---
 
-### 76. [Fake GTA 6 leaked copy drains your crypto wallet](https://www.malwarebytes.com/blog/scams/2026/09/fake-gta-6-leaked-copy-drains-your-crypto-wallet)
+### 77. [Fake GTA 6 leaked copy drains your crypto wallet](https://www.malwarebytes.com/blog/scams/2026/09/fake-gta-6-leaked-copy-drains-your-crypto-wallet)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 01 Sep 2026 16:07:14 GMT  
@@ -704,7 +712,7 @@
 
 ---
 
-### 77. [TerminalFix looks like ClickFix, but delivers a very different payload](https://www.malwarebytes.com/blog/news/2026/09/terminalfix-looks-like-clickfix-but-delivers-a-very-different-payload)
+### 78. [TerminalFix looks like ClickFix, but delivers a very different payload](https://www.malwarebytes.com/blog/news/2026/09/terminalfix-looks-like-clickfix-but-delivers-a-very-different-payload)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 01 Sep 2026 12:13:18 GMT  
@@ -713,7 +721,7 @@
 
 ---
 
-### 78. [Infostealers are hijacking Claude accounts at users’ expense](https://www.malwarebytes.com/blog/news/2026/09/infostealers-are-hijacking-claude-accounts-at-users-expense)
+### 79. [Infostealers are hijacking Claude accounts at users’ expense](https://www.malwarebytes.com/blog/news/2026/09/infostealers-are-hijacking-claude-accounts-at-users-expense)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 01 Sep 2026 10:08:28 GMT  
@@ -722,21 +730,12 @@
 
 ---
 
-### 79. [McKesson confirms cyber incident after ShinyHunters claims patient-data theft](https://www.malwarebytes.com/blog/news/2026/08/mckesson-confirms-cyber-incident-after-shinyhunters-claims-patient-data-theft)
+### 80. [McKesson confirms cyber incident after ShinyHunters claims patient-data theft](https://www.malwarebytes.com/blog/news/2026/08/mckesson-confirms-cyber-incident-after-shinyhunters-claims-patient-data-theft)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 31 Aug 2026 14:46:50 GMT  
 **Severity:** Low  
 **Categories:** Ransomware, Phishing, Supply Chain  
-
----
-
-### 80. [A week in security (August 24 – August 30)](https://www.malwarebytes.com/blog/news/2026/08/a-week-in-security-august-24-august-30)
-
-**Source:** Malwarebytes  
-**Published:** Mon, 31 Aug 2026 07:01:00 GMT  
-**Severity:** Low  
-**Categories:** Malware, Phishing  
 
 ---
 

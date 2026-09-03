@@ -1,6 +1,114 @@
 [
   {
     "source": "The Hacker News",
+    "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
+    "link": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html",
+    "published": "Thu, 03 Sep 2026 17:28:00 +0530",
+    "summary": "An RMM phishing campaign initially associated with Canadian targeting due to its use of Canada Revenue Agency (CRA) tax forms as lures has turned out to be part of a broader campaign spanning 46 countries.\n\nAround 45% of observed activity was associated with the United States, making it the campaign's top geographic target. ANY.RUN research connected 601 cases to the wider operation, which uses",
+    "analysis": {
+      "issue": "A phishing campaign uses fake documents to install legitimate RMM software across 46 countries, with 45% of activity tied to the U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks",
+    "link": "https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html",
+    "published": "Thu, 03 Sep 2026 16:13:01 +0530",
+    "summary": "Threat actors are leveraging the trusted Node.js JavaScript runtime in multiple cyber attacks as a way to deploy malicious payloads.\n\nAccording to a new report published by the Symantec Threat Hunter Team today, the attack method has been put to use in attacks targeting government departments, technology companies, and hotels since February 2026.\n\n\"The technique's appeal is that node.exe (the",
+    "analysis": {
+      "issue": "js to execute malicious scripts and deploy payloads in attacks targeting governments, technology companies, and hotels",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means",
+    "link": "https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html",
+    "published": "Thu, 03 Sep 2026 16:06:39 +0530",
+    "summary": "In early August, GitGuardian researchers found that a recent Shai-Hulud infostealer worm variant had evolved to scan for credentials across 469 locations across developer environments, Continuous Integration/Continuous Deployment (CI/CD) tooling, cloud configurations, and even AI tool configs.\n\nEarlier variants of the infostealer worm only checked 189 paths. The jump says a lot. Attackers have",
+    "analysis": {
+      "issue": "Shai-Hulud now scans 469 locations for credentials across developer environments, CI/CD tooling, cloud configs, and AI tool configs",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone",
+    "link": "https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html",
+    "published": "Thu, 03 Sep 2026 14:13:17 +0530",
+    "summary": "The iPhone belonging to a member of Serbia's student protest movement was infected with NSO Group's Pegasus spyware, according to new findings from the Citizen Lab in collaboration with the SHARE Foundation.\n\n\"Our analysis confirmed that an iMessage zero-click exploit was used to infect the device with NSO Group's Pegasus spyware,\" the Citizen Lab said. \"We found high-confidence indicators of",
+    "analysis": {
+      "issue": "An iMessage zero-click exploit infected a Serbian student movement member's iPhone with Pegasus spyware in December 2025 and January 2026",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon",
+    "link": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
+    "published": "Thu, 03 Sep 2026 11:56:59 +0530",
+    "summary": "The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a privilege escalation flaw impacting Crowdstrike Falcon.\n\n\"FalconFlank is a 0day privilege escalation that abuses the office malicious macros remediation in CrowdStrike Falcon Sensor,\" the researcher said in a GitHub README file, adding",
+    "analysis": {
+      "issue": "FalconFlank abuses CrowdStrike Falcon's malicious macro remediation to demonstrate local privilege escalation on updated Windows systems",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
+    "link": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
+    "published": "Thu, 03 Sep 2026 10:49:04 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added seven security flaws to its Known Exploited Vulnerabilities (KEV) catalog after they landed in attackers' crosshairs.\n\nThe vulnerabilities are as follows -\n\n\n  CVE-2026-83548 (CVSS score: 10.0) - A server-side request forgery vulnerability in SonicWall SMA 1000 Appliances that could allow a remote unauthenticated",
+    "analysis": {
+      "issue": "CISA adds seven exploited flaws affecting SonicWall, Artifactory, Switchvox, Starlette, Kestra, and LiteLLM to its KEV catalog",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs",
     "link": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
     "published": "Wed, 02 Sep 2026 23:57:49 +0530",
@@ -72,13 +180,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access",
-    "link": "https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html",
-    "published": "Wed, 02 Sep 2026 18:42:45 +0530",
-    "summary": "Virtualizor said hackers used a Border Gateway Protocol (BGP) hijack to divert Softaculous traffic. The hackers then used the diverted update traffic to deliver a malicious Virtualizor package to some installations. A hosting-provider account separately said 5 of its 34 checked Virtualizor hypervisors sustained root-level compromise.\n\nThe incident window ran from approximately August 28 at 20:57",
+    "source": "Bleeping Computer",
+    "title": "Microsoft says KB5120998 Windows update resets desktop settings",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-kb5120998-windows-update-resets-desktop-settings/",
+    "published": "Thu, 03 Sep 2026 08:16:32 -0400",
+    "summary": "Microsoft has confirmed that desktop settings are lost or reset on some Windows devices after installing the KB5120998 August 2026 preview update. [...]",
     "analysis": {
-      "issue": "A BGP hijack delivered a malicious Virtualizor update; one provider found root compromise on five of 34 checked hypervisors",
+      "issue": "Microsoft has confirmed that desktop settings are lost or reset on some Windows devices after installing the KB5120998 August 2026 preview update",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -90,49 +198,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control",
-    "link": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
-    "published": "Wed, 02 Sep 2026 17:52:02 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called StreamRat that was promoted to Spanish-speaking users through a fake television-streaming campaign on Meta and can give operators near-complete control of infected devices.\n\nThreatFabric said the campaign's advertisement focused on Spain and reached an estimated 570,950 Meta accounts in the European Union",
+    "source": "Bleeping Computer",
+    "title": "Plex warns users to patch security vulnerabilities immediately",
+    "link": "https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerabilities-immediately/",
+    "published": "Thu, 03 Sep 2026 07:02:22 -0400",
+    "summary": "Plex urged users this week to update their desktop clients and media servers immediately to patch multiple security vulnerabilities. [...]",
     "analysis": {
-      "issue": "StreamRat uses fake streaming ads to reach Spanish-speaking Android users and enables device takeover after sideloading and permission grants",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "How to Secure Enterprise AI: From Adoption to Incident Readiness",
-    "link": "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html",
-    "published": "Wed, 02 Sep 2026 17:00:00 +0530",
-    "summary": "The debate about whether AI delivers business value is over. The challenge now is implementing it at scale and securely across every function while meeting board-level pressure to move fast. Organizations must focus on adopting AI at business speed without losing control of cyber risk. Download the full eBook here.&nbsp;\n\nThe Business Reality&nbsp;\n\nIn Sygnia’s 2026 CISO Survey Report, which",
-    "analysis": {
-      "issue": "Enterprise AI adoption is outpacing governance as excessive permissions and AI-specific incident response gaps expand risk",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain",
-    "link": "https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html",
-    "published": "Wed, 02 Sep 2026 16:23:49 +0530",
-    "summary": "SonicWall has released security updates to address two security flaws impacting its Secure Mobile Access (SMA) 1000 series VPN appliances that have been exploited in zero-day attacks.\n\nThe vulnerabilities, discovered internally by SonicWall's William Perry and Adam Babis, are listed below -\n\n\n  CVE-2026-83548 (CVSS score: 10.0) -&nbsp; A pre-authentication SSRF vulnerability in the Appliance",
-    "analysis": {
-      "issue": "SonicWall patches two SMA 1000 flaws after finding evidence they were actively exploited, possibly as a chain for remote code execution",
+      "issue": "Plex urged users this week to update their desktop clients and media servers immediately to patch multiple security vulnerabilities",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -144,38 +216,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends",
-    "link": "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html",
-    "published": "Wed, 02 Sep 2026 14:48:02 +0530",
-    "summary": "Two vulnerabilities in GeoNetwork can be chained to achieve unauthenticated remote code execution (RCE) on the open-source geospatial metadata catalog, which sits behind many government and agency geoportals.\n\nThe project shipped fixes in versions 4.4.12 and 4.2.17 on July 8, 2026, and published the vulnerability details on August 31.\n\nGeoNetwork originated at the United Nations Food and",
+    "source": "Bleeping Computer",
+    "title": "Microsoft Teams, Outlook fail to launch on ARM-based Windows PCs",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/",
+    "published": "Thu, 03 Sep 2026 04:55:25 -0400",
+    "summary": "Microsoft is working to fix a known issue that causes crashes and launch failures for Microsoft Teams and New Outlook users after installing updates released since the August 2026 Patch Tuesday. [...]",
     "analysis": {
-      "issue": "GeoNetwork patched two formatter flaws that can be chained for unauthenticated remote code execution; no in-the-wild exploitation is reported",
+      "issue": "Microsoft is working to fix a known issue that causes crashes and launch failures for Microsoft Teams and New Outlook users after installing updates released since the August 2026 Patch Tuesday",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands",
-    "link": "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html",
-    "published": "Wed, 02 Sep 2026 14:40:23 +0530",
-    "summary": "The U.S. Department of Justice (DoJ) has charged a Russian national, extradited from Cyprus on August 28, with using roughly 255 fake accounts on a freelance platform to send malware-laced Excel attachments to about 80,000 of its users in 2016 and 2017.\n\nSearzhudin Tamirlanovich Aktulaev, 40, was arrested in Cyprus in May 2025, the U.S. Attorney's Office for the Northern District of California",
-    "analysis": {
-      "issue": "prosecutors charged a Russian man, alleging a malware campaign sent Excel attachments to about 80,000 freelance platform users",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
+        "APT"
       ]
     }
   },
@@ -310,66 +364,6 @@
       "threat_categories": [
         "Vulnerability",
         "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Sality botnet infrastructure dismantled in joint global takedown",
-    "link": "https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/",
-    "published": "Wed, 02 Sep 2026 04:00:43 -0400",
-    "summary": "International law enforcement agencies and private partners have seized Sality malware infrastructure in a joint action aiming to disrupt and take down the peer-to-peer (P2P) botnet. [...]",
-    "analysis": {
-      "issue": "International law enforcement agencies and private partners have seized Sality malware infrastructure in a joint action aiming to disrupt and take down the peer-to-peer (P2P) botnet",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Phishing",
-        "DDoS"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "SonicWall warns of actively exploited SMA1000 zero-day flaws",
-    "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/",
-    "published": "Wed, 02 Sep 2026 02:39:29 -0400",
-    "summary": "SonicWall warned customers that threat actors are chaining two new SMA1000 zero-day vulnerabilities in remote code execution attacks. [...]",
-    "analysis": {
-      "issue": "SonicWall warned customers that threat actors are chaining two new SMA1000 zero-day vulnerabilities in remote code execution attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-83549",
-        "CVE-2026-83548"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers abuse Faronics Deploy admin tool to install ScreenConnect",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/",
-    "published": "Tue, 01 Sep 2026 16:53:23 -0400",
-    "summary": "Phishing actors are abusing the legitimate Faronics Deploy endpoint-management platform to gain remote administrative control over victim computers and install the ScreenConnect remote support software. [...]",
-    "analysis": {
-      "issue": "Phishing actors are abusing the legitimate Faronics Deploy endpoint-management platform to gain remote administrative control over victim computers and install the ScreenConnect remote support software",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
         "Phishing"
       ]
     }
@@ -522,10 +516,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56155",
         "CVE-2026-48561",
+        "CVE-2026-50661",
         "CVE-2026-56164",
-        "CVE-2026-50661"
+        "CVE-2026-56155"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -565,6 +559,107 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "HiddenLayer Raises $100 Million for AI Runtime Security",
+    "link": "https://www.securityweek.com/hiddenlayer-raises-100-million-for-ai-runtime-security/",
+    "published": "Thu, 03 Sep 2026 12:17:30 +0000",
+    "summary": "<p>The Austin-based company will invest in agentic runtime security capabilities to secure AI coding agents.</p>\n<p>The post <a href=\"https://www.securityweek.com/hiddenlayer-raises-100-million-for-ai-runtime-security/\">HiddenLayer Raises $100 Million for AI Runtime Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The Austin-based company will invest in agentic runtime security capabilities to secure AI coding agents",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "AI Agent Firewall Startup AIR Security Emerges From Stealth With $50 Million",
+    "link": "https://www.securityweek.com/ai-agent-firewall-startup-air-security-emerges-from-stealth-with-50-million/",
+    "published": "Thu, 03 Sep 2026 12:00:00 +0000",
+    "summary": "<p>The startup’s firewall evaluates AI skills, plugins and MCP servers for malicious instructions, excessive permissions and software supply chain risks.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-agent-firewall-startup-air-security-emerges-from-stealth-with-50-million/\">AI Agent Firewall Startup AIR Security Emerges From Stealth With $50 Million</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The startup’s firewall evaluates AI skills, plugins and MCP servers for malicious instructions, excessive permissions and software supply chain risks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "153 Million Driver License Images Offered on Dark Web",
+    "link": "https://www.securityweek.com/153-million-driver-license-images-offered-on-dark-web/",
+    "published": "Thu, 03 Sep 2026 10:54:18 +0000",
+    "summary": "<p>Cybercriminals are offering digital scans of US and Canadian driver’s licenses, likely stolen from IDScan.net.</p>\n<p>The post <a href=\"https://www.securityweek.com/153-million-driver-license-images-offered-on-dark-web/\">153 Million Driver License Images Offered on Dark Web</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Cybercriminals are offering digital scans of US and Canadian driver’s licenses, likely stolen from IDScan",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability",
+    "link": "https://www.securityweek.com/over-3-million-wordpress-sites-affected-by-migration-plugin-vulnerability/",
+    "published": "Thu, 03 Sep 2026 10:40:00 +0000",
+    "summary": "<p>The high-severity SQL injection flaw (CVE-2026-19949) could allow unauthenticated attackers to achieve remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/over-3-million-wordpress-sites-affected-by-migration-plugin-vulnerability/\">Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The high-severity SQL injection flaw (CVE-2026-19949) could allow unauthenticated attackers to achieve remote code execution",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-19949"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Cisco Warns of Unpatched Secure Email Flaws, Patches Critical Switch Vulnerabilities",
+    "link": "https://www.securityweek.com/cisco-warns-of-unpatched-secure-email-flaws-patches-critical-switch-vulnerabilities/",
+    "published": "Thu, 03 Sep 2026 10:30:00 +0000",
+    "summary": "<p>Publicly disclosed S/MIME flaws could expose encrypted email content, while critical IOS XR and Nexus bugs could enable remote code execution and authentication bypass.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-warns-of-unpatched-secure-email-flaws-patches-critical-switch-vulnerabilities/\">Cisco Warns of Unpatched Secure Email Flaws, Patches Critical Switch Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Publicly disclosed S/MIME flaws could expose encrypted email content, while critical IOS XR and Nexus bugs could enable remote code execution and authentication bypass",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-20354",
+        "CVE-2026-20279",
+        "CVE-2026-20274",
+        "CVE-2026-20212",
+        "CVE-2026-20355",
+        "CVE-2026-20281"
+      ],
       "threat_categories": [
         "Vulnerability"
       ]
@@ -666,106 +761,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Malicious Virtualizor Update Served via BGP Hijacking",
-    "link": "https://www.securityweek.com/malicious-virtualizor-update-served-via-bgp-hijacking/",
-    "published": "Wed, 02 Sep 2026 11:31:36 +0000",
-    "summary": "<p>Using a technically valid TLS certificate for Softaculous’ domains, a threat actor diverted traffic to fake software updates.</p>\n<p>The post <a href=\"https://www.securityweek.com/malicious-virtualizor-update-served-via-bgp-hijacking/\">Malicious Virtualizor Update Served via BGP Hijacking</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Using a technically valid TLS certificate for Softaculous’ domains, a threat actor diverted traffic to fake software updates",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "OpenAI’s Astra Crosses ‘Critical’ Cyber Threshold After Finding Zero-Days",
-    "link": "https://www.securityweek.com/openais-astra-becomes-first-model-to-cross-critical-cybersecurity-threshold/",
-    "published": "Wed, 02 Sep 2026 10:38:13 +0000",
-    "summary": "<p>The designation applies when a model can independently find and exploit zero-day vulnerabilities across many well-defended systems.</p>\n<p>The post <a href=\"https://www.securityweek.com/openais-astra-becomes-first-model-to-cross-critical-cybersecurity-threshold/\">OpenAI’s Astra Crosses ‘Critical’ Cyber Threshold After Finding Zero-Days</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The designation applies when a model can independently find and exploit zero-day vulnerabilities across many well-defended systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Chrome and Firefox Updates Patch Dozens of Vulnerabilities",
-    "link": "https://www.securityweek.com/chrome-and-firefox-updates-patch-dozens-of-vulnerabilities/",
-    "published": "Wed, 02 Sep 2026 09:12:29 +0000",
-    "summary": "<p>The browser refreshes fix multiple use-after-free, sandbox escape, and privilege escalation bugs.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-and-firefox-updates-patch-dozens-of-vulnerabilities/\">Chrome and Firefox Updates Patch Dozens of Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The browser refreshes fix multiple use-after-free, sandbox escape, and privilege escalation bugs",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-84353",
-        "CVE-2026-84352"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "23-Year-Old Sality P2P Botnet Disrupted",
-    "link": "https://www.securityweek.com/23-year-old-sality-p2p-botnet-disrupted/",
-    "published": "Wed, 02 Sep 2026 08:38:00 +0000",
-    "summary": "<p>The shutdown operation involved peer list manipulation and Sality payload URL takedown.</p>\n<p>The post <a href=\"https://www.securityweek.com/23-year-old-sality-p2p-botnet-disrupted/\">23-Year-Old Sality P2P Botnet Disrupted</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The shutdown operation involved peer list manipulation and Sality payload URL takedown",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "DDoS"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "SonicWall Warns of Two SMA1000 Zero-Days Exploited in Attacks",
-    "link": "https://www.securityweek.com/sonicwall-warns-of-two-sma1000-zero-days-exploited-in-attacks/",
-    "published": "Wed, 02 Sep 2026 05:04:52 +0000",
-    "summary": "<p>The vulnerabilities CVE-2026-83549 and CVE-2026-83548 can be chained for unauthenticated remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/sonicwall-warns-of-two-sma1000-zero-days-exploited-in-attacks/\">SonicWall Warns of Two SMA1000 Zero-Days Exploited in Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The vulnerabilities CVE-2026-83549 and CVE-2026-83548 can be chained for unauthenticated remote code execution",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-83549",
-        "CVE-2026-83548"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
       ]
     }
   },
@@ -1331,6 +1326,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Your phone or computer may soon ask how old you are",
+    "link": "https://www.malwarebytes.com/blog/privacy/2026/09/your-phone-or-computer-may-soon-ask-how-old-you-are",
+    "published": "Thu, 03 Sep 2026 08:54:50 GMT",
+    "summary": "California and Colorado will require operating systems to collect users’ ages, but open-source software like Linux may be exempt.",
+    "analysis": {
+      "issue": "First, the good news: If you use a Linux-based operating system, you may not be asked your age in a few months",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Tech support scams look different now. Here’s what to watch for",
     "link": "https://www.malwarebytes.com/blog/scams/2026/09/tech-support-scams-look-different-now-heres-what-to-watch-for",
     "published": "Wed, 02 Sep 2026 15:49:51 GMT",
@@ -1495,25 +1508,6 @@
         "Ransomware",
         "Phishing",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "A week in security (August 24 – August 30)",
-    "link": "https://www.malwarebytes.com/blog/news/2026/08/a-week-in-security-august-24-august-30",
-    "published": "Mon, 31 Aug 2026 07:01:00 GMT",
-    "summary": "A list of topics we covered in the week of August 24 to August 30 of 2026",
-    "analysis": {
-      "issue": "Last week on Malwarebytes Labs: Stay safe",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
       ]
     }
   },
