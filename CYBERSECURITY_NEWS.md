@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-02 19:27:22 UTC
+**Last Updated:** 2026-09-03 03:53:57 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -94,7 +94,27 @@
 
 ---
 
-### 11. [Hackers exploit critical JFrog Artifactory flaw to forge admin tokens](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/)
+### 11. [Hackers exploit Sangoma Switchvox flaw to deploy reverse shells](https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 02 Sep 2026 17:00:13 -0400  
+**Severity:** Low  
+**CVEs:** CVE-2026-9586  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [WordPress backup plugin flaw exposes millions of sites to takeover attacks](https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 02 Sep 2026 15:28:46 -0400  
+**Severity:** High  
+**CVEs:** CVE-2026-19949  
+**Categories:** Vulnerability  
+
+---
+
+### 13. [Hackers exploit critical JFrog Artifactory flaw to forge admin tokens](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 02 Sep 2026 11:47:08 -0400  
@@ -104,7 +124,7 @@
 
 ---
 
-### 12. [Ransomware protection for MSPs: A 6-point checklist for faster recovery](https://www.bleepingcomputer.com/news/security/ransomware-protection-for-msps-a-6-point-checklist-for-faster-recovery/)
+### 14. [Ransomware protection for MSPs: A 6-point checklist for faster recovery](https://www.bleepingcomputer.com/news/security/ransomware-protection-for-msps-a-6-point-checklist-for-faster-recovery/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 02 Sep 2026 10:02:12 -0400  
@@ -113,7 +133,7 @@
 
 ---
 
-### 13. [Dropbox accounts breached through Lenovo email verification flaw](https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/)
+### 15. [Dropbox accounts breached through Lenovo email verification flaw](https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 02 Sep 2026 08:30:22 -0400  
@@ -122,7 +142,7 @@
 
 ---
 
-### 14. [Microsoft Defender flags legitimate Google search links as malicious](https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/)
+### 16. [Microsoft Defender flags legitimate Google search links as malicious](https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 02 Sep 2026 06:29:39 -0400  
@@ -131,7 +151,7 @@
 
 ---
 
-### 15. [US charges Russian for infecting 80,000 freelancers with malware](https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/)
+### 17. [US charges Russian for infecting 80,000 freelancers with malware](https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 02 Sep 2026 05:06:48 -0400  
@@ -140,7 +160,7 @@
 
 ---
 
-### 16. [Sality botnet infrastructure dismantled in joint global takedown](https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/)
+### 18. [Sality botnet infrastructure dismantled in joint global takedown](https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 02 Sep 2026 04:00:43 -0400  
@@ -149,7 +169,7 @@
 
 ---
 
-### 17. [SonicWall warns of actively exploited SMA1000 zero-day flaws](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/)
+### 19. [SonicWall warns of actively exploited SMA1000 zero-day flaws](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 02 Sep 2026 02:39:29 -0400  
@@ -159,31 +179,12 @@
 
 ---
 
-### 18. [Hackers abuse Faronics Deploy admin tool to install ScreenConnect](https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/)
+### 20. [Hackers abuse Faronics Deploy admin tool to install ScreenConnect](https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 01 Sep 2026 16:53:23 -0400  
 **Severity:** Low  
 **Categories:** Phishing  
-
----
-
-### 19. [Aesto Health says data breach affects over 9.5 million patients](https://www.bleepingcomputer.com/news/security/aesto-health-says-data-breach-affects-over-95-million-patients/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 01 Sep 2026 15:28:17 -0400  
-**Severity:** Low  
-**Categories:** Data Breach  
-
----
-
-### 20. [Critical Langflow flaw exploited to steal OpenAI and AWS keys](https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 01 Sep 2026 13:54:22 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-0768  
-**Categories:** Vulnerability  
 
 ---
 
@@ -218,6 +219,9 @@
 
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-62832, CVE-2026-68820, CVE-2026-72971  
+**Categories:** Vulnerability, Malware  
 
 ---
 
@@ -253,7 +257,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56164, CVE-2026-56155, CVE-2026-50661, CVE-2026-48561  
+**CVEs:** CVE-2026-48561, CVE-2026-50661, CVE-2026-56164, CVE-2026-56155  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -262,8 +266,6 @@
 
 **Source:** Krebs On Security  
 **Published:** Mon, 13 Jul 2026 15:03:28 +0000  
-**Severity:** Low  
-**Categories:** Data Breach, Vulnerability  
 
 ---
 
@@ -276,7 +278,16 @@
 
 ---
 
-### 31. [UK Moves to Block High-Risk Tech Suppliers From Critical Infrastructure](https://www.securityweek.com/uk-moves-to-block-high-risk-tech-suppliers-from-critical-infrastructure/)
+### 31. [OpenLeash Adds a Human Check to Risky AI Agent Actions](https://www.securityweek.com/openleash-adds-a-human-check-to-risky-ai-agent-actions/)
+
+**Source:** Security Week  
+**Published:** Wed, 02 Sep 2026 19:30:00 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 32. [UK Moves to Block High-Risk Tech Suppliers From Critical Infrastructure](https://www.securityweek.com/uk-moves-to-block-high-risk-tech-suppliers-from-critical-infrastructure/)
 
 **Source:** Security Week  
 **Published:** Wed, 02 Sep 2026 15:45:08 +0000  
@@ -285,7 +296,7 @@
 
 ---
 
-### 32. [Rockwell Automation Patches Over a Dozen Vulnerabilities Across Products](https://www.securityweek.com/rockwell-automation-patches-over-a-dozen-vulnerabilities-across-products/)
+### 33. [Rockwell Automation Patches Over a Dozen Vulnerabilities Across Products](https://www.securityweek.com/rockwell-automation-patches-over-a-dozen-vulnerabilities-across-products/)
 
 **Source:** Security Week  
 **Published:** Wed, 02 Sep 2026 12:39:07 +0000  
@@ -295,7 +306,7 @@
 
 ---
 
-### 33. [Exploit Published for Fresh Cleo Harmony Vulnerability](https://www.securityweek.com/exploit-published-for-fresh-cleo-harmony-vulnerability/)
+### 34. [Exploit Published for Fresh Cleo Harmony Vulnerability](https://www.securityweek.com/exploit-published-for-fresh-cleo-harmony-vulnerability/)
 
 **Source:** Security Week  
 **Published:** Wed, 02 Sep 2026 12:18:15 +0000  
@@ -305,7 +316,7 @@
 
 ---
 
-### 34. [Anthropic Details Response to Security Incidents, Unveils Enterprise Safeguards](https://www.securityweek.com/anthropic-details-response-to-security-incidents-unveils-enterprise-safeguards/)
+### 35. [Anthropic Details Response to Security Incidents, Unveils Enterprise Safeguards](https://www.securityweek.com/anthropic-details-response-to-security-incidents-unveils-enterprise-safeguards/)
 
 **Source:** Security Week  
 **Published:** Wed, 02 Sep 2026 11:48:31 +0000  
@@ -314,7 +325,7 @@
 
 ---
 
-### 35. [Malicious Virtualizor Update Served via BGP Hijacking](https://www.securityweek.com/malicious-virtualizor-update-served-via-bgp-hijacking/)
+### 36. [Malicious Virtualizor Update Served via BGP Hijacking](https://www.securityweek.com/malicious-virtualizor-update-served-via-bgp-hijacking/)
 
 **Source:** Security Week  
 **Published:** Wed, 02 Sep 2026 11:31:36 +0000  
@@ -323,7 +334,7 @@
 
 ---
 
-### 36. [OpenAI’s Astra Crosses ‘Critical’ Cyber Threshold After Finding Zero-Days](https://www.securityweek.com/openais-astra-becomes-first-model-to-cross-critical-cybersecurity-threshold/)
+### 37. [OpenAI’s Astra Crosses ‘Critical’ Cyber Threshold After Finding Zero-Days](https://www.securityweek.com/openais-astra-becomes-first-model-to-cross-critical-cybersecurity-threshold/)
 
 **Source:** Security Week  
 **Published:** Wed, 02 Sep 2026 10:38:13 +0000  
@@ -332,17 +343,17 @@
 
 ---
 
-### 37. [Chrome and Firefox Updates Patch Dozens of Vulnerabilities](https://www.securityweek.com/chrome-and-firefox-updates-patch-dozens-of-vulnerabilities/)
+### 38. [Chrome and Firefox Updates Patch Dozens of Vulnerabilities](https://www.securityweek.com/chrome-and-firefox-updates-patch-dozens-of-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Wed, 02 Sep 2026 09:12:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-84353, CVE-2026-84352  
+**CVEs:** CVE-2026-84352, CVE-2026-84353  
 **Categories:** Vulnerability  
 
 ---
 
-### 38. [23-Year-Old Sality P2P Botnet Disrupted](https://www.securityweek.com/23-year-old-sality-p2p-botnet-disrupted/)
+### 39. [23-Year-Old Sality P2P Botnet Disrupted](https://www.securityweek.com/23-year-old-sality-p2p-botnet-disrupted/)
 
 **Source:** Security Week  
 **Published:** Wed, 02 Sep 2026 08:38:00 +0000  
@@ -351,22 +362,13 @@
 
 ---
 
-### 39. [SonicWall Warns of Two SMA1000 Zero-Days Exploited in Attacks](https://www.securityweek.com/sonicwall-warns-of-two-sma1000-zero-days-exploited-in-attacks/)
+### 40. [SonicWall Warns of Two SMA1000 Zero-Days Exploited in Attacks](https://www.securityweek.com/sonicwall-warns-of-two-sma1000-zero-days-exploited-in-attacks/)
 
 **Source:** Security Week  
 **Published:** Wed, 02 Sep 2026 05:04:52 +0000  
 **Severity:** Critical  
 **CVEs:** CVE-2026-83549, CVE-2026-83548  
 **Categories:** Ransomware, Vulnerability  
-
----
-
-### 40. [Palo Alto Networks Acquires AI Agent Platform Console](https://www.securityweek.com/palo-alto-networks-acquires-ai-agent-platform-console/)
-
-**Source:** Security Week  
-**Published:** Tue, 01 Sep 2026 20:29:42 +0000  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -630,7 +632,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
