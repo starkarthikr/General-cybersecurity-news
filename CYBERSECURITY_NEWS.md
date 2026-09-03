@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-03 12:56:57 UTC
+**Last Updated:** 2026-09-03 16:11:38 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -94,7 +94,53 @@
 
 ---
 
-### 11. [Microsoft says KB5120998 Windows update resets desktop settings](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-kb5120998-windows-update-resets-desktop-settings/)
+### 11. [Microsoft: KB5120998 mouse reset bug affects only non-English PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 03 Sep 2026 11:22:33 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 12. [OpenAI confirms ChatGPT is down ahead of 'Astra' model launch](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 03 Sep 2026 11:13:29 -0400  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 13. [Anthropic confirms Claude is down, multiple models affected](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 03 Sep 2026 11:02:52 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 14. [Critical Elementor Pro flaw exploited to take over WordPress sites](https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 03 Sep 2026 10:52:20 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-32475  
+**Categories:** Vulnerability  
+
+---
+
+### 15. [Your Employee’s Password Appeared in an Infostealer Log. Now What?](https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 03 Sep 2026 09:50:59 -0400  
+**Severity:** High  
+**Categories:** Ransomware, Vulnerability, APT  
+
+---
+
+### 16. [Microsoft says KB5120998 Windows update resets desktop settings](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-kb5120998-windows-update-resets-desktop-settings/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 03 Sep 2026 08:16:32 -0400  
@@ -103,7 +149,7 @@
 
 ---
 
-### 12. [Plex warns users to patch security vulnerabilities immediately](https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerabilities-immediately/)
+### 17. [Plex warns users to patch security vulnerabilities immediately](https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerabilities-immediately/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 03 Sep 2026 07:02:22 -0400  
@@ -112,7 +158,7 @@
 
 ---
 
-### 13. [Microsoft Teams, Outlook fail to launch on ARM-based Windows PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/)
+### 18. [Microsoft Teams, Outlook fail to launch on ARM-based Windows PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 03 Sep 2026 04:55:25 -0400  
@@ -121,7 +167,7 @@
 
 ---
 
-### 14. [Hackers exploit Sangoma Switchvox flaw to deploy reverse shells](https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/)
+### 19. [Hackers exploit Sangoma Switchvox flaw to deploy reverse shells](https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 02 Sep 2026 17:00:13 -0400  
@@ -131,59 +177,13 @@
 
 ---
 
-### 15. [WordPress backup plugin flaw exposes millions of sites to takeover attacks](https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/)
+### 20. [WordPress backup plugin flaw exposes millions of sites to takeover attacks](https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 02 Sep 2026 15:28:46 -0400  
 **Severity:** High  
 **CVEs:** CVE-2026-19949  
 **Categories:** Vulnerability  
-
----
-
-### 16. [Hackers exploit critical JFrog Artifactory flaw to forge admin tokens](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 02 Sep 2026 11:47:08 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-82329  
-**Categories:** Vulnerability  
-
----
-
-### 17. [Ransomware protection for MSPs: A 6-point checklist for faster recovery](https://www.bleepingcomputer.com/news/security/ransomware-protection-for-msps-a-6-point-checklist-for-faster-recovery/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 02 Sep 2026 10:02:12 -0400  
-**Severity:** Low  
-**Categories:** Ransomware, Phishing  
-
----
-
-### 18. [Dropbox accounts breached through Lenovo email verification flaw](https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 02 Sep 2026 08:30:22 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 19. [Microsoft Defender flags legitimate Google search links as malicious](https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 02 Sep 2026 06:29:39 -0400  
-**Severity:** Low  
-**Categories:** Phishing  
-
----
-
-### 20. [US charges Russian for infecting 80,000 freelancers with malware](https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 02 Sep 2026 05:06:48 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability, Malware, Phishing  
 
 ---
 
@@ -256,7 +256,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48561, CVE-2026-50661, CVE-2026-56164, CVE-2026-56155  
+**CVEs:** CVE-2026-56155, CVE-2026-56164, CVE-2026-48561, CVE-2026-50661  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -279,7 +279,25 @@
 
 ---
 
-### 31. [HiddenLayer Raises $100 Million for AI Runtime Security](https://www.securityweek.com/hiddenlayer-raises-100-million-for-ai-runtime-security/)
+### 31. [Manchester Airports Group Data on 8.8 Million People Leaked After Ransom Refusal](https://www.securityweek.com/manchester-airports-group-data-on-8-8-million-people-leaked-after-ransom-refusal/)
+
+**Source:** Security Week  
+**Published:** Thu, 03 Sep 2026 15:35:19 +0000  
+**Severity:** Low  
+**Categories:** Ransomware, Data Breach  
+
+---
+
+### 32. [Capsule Security Launches ‘AI Circuit Breaker’ to Stop Rogue Agents](https://www.securityweek.com/capsule-security-launches-ai-circuit-breaker-to-stop-rogue-agents/)
+
+**Source:** Security Week  
+**Published:** Thu, 03 Sep 2026 15:15:00 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 33. [HiddenLayer Raises $100 Million for AI Runtime Security](https://www.securityweek.com/hiddenlayer-raises-100-million-for-ai-runtime-security/)
 
 **Source:** Security Week  
 **Published:** Thu, 03 Sep 2026 12:17:30 +0000  
@@ -288,7 +306,7 @@
 
 ---
 
-### 32. [AI Agent Firewall Startup AIR Security Emerges From Stealth With $50 Million](https://www.securityweek.com/ai-agent-firewall-startup-air-security-emerges-from-stealth-with-50-million/)
+### 34. [AI Agent Firewall Startup AIR Security Emerges From Stealth With $50 Million](https://www.securityweek.com/ai-agent-firewall-startup-air-security-emerges-from-stealth-with-50-million/)
 
 **Source:** Security Week  
 **Published:** Thu, 03 Sep 2026 12:00:00 +0000  
@@ -297,7 +315,7 @@
 
 ---
 
-### 33. [153 Million Driver License Images Offered on Dark Web](https://www.securityweek.com/153-million-driver-license-images-offered-on-dark-web/)
+### 35. [153 Million Driver License Images Offered on Dark Web](https://www.securityweek.com/153-million-driver-license-images-offered-on-dark-web/)
 
 **Source:** Security Week  
 **Published:** Thu, 03 Sep 2026 10:54:18 +0000  
@@ -306,7 +324,7 @@
 
 ---
 
-### 34. [Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability](https://www.securityweek.com/over-3-million-wordpress-sites-affected-by-migration-plugin-vulnerability/)
+### 36. [Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability](https://www.securityweek.com/over-3-million-wordpress-sites-affected-by-migration-plugin-vulnerability/)
 
 **Source:** Security Week  
 **Published:** Thu, 03 Sep 2026 10:40:00 +0000  
@@ -316,17 +334,17 @@
 
 ---
 
-### 35. [Cisco Warns of Unpatched Secure Email Flaws, Patches Critical Switch Vulnerabilities](https://www.securityweek.com/cisco-warns-of-unpatched-secure-email-flaws-patches-critical-switch-vulnerabilities/)
+### 37. [Cisco Warns of Unpatched Secure Email Flaws, Patches Critical Switch Vulnerabilities](https://www.securityweek.com/cisco-warns-of-unpatched-secure-email-flaws-patches-critical-switch-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Thu, 03 Sep 2026 10:30:00 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20354, CVE-2026-20279, CVE-2026-20274, CVE-2026-20212, CVE-2026-20355, CVE-2026-20281  
+**CVEs:** CVE-2026-20281, CVE-2026-20279, CVE-2026-20354, CVE-2026-20212, CVE-2026-20355, CVE-2026-20274  
 **Categories:** Vulnerability  
 
 ---
 
-### 36. [OpenLeash Adds a Human Check to Risky AI Agent Actions](https://www.securityweek.com/openleash-adds-a-human-check-to-risky-ai-agent-actions/)
+### 38. [OpenLeash Adds a Human Check to Risky AI Agent Actions](https://www.securityweek.com/openleash-adds-a-human-check-to-risky-ai-agent-actions/)
 
 **Source:** Security Week  
 **Published:** Wed, 02 Sep 2026 19:30:00 +0000  
@@ -335,7 +353,7 @@
 
 ---
 
-### 37. [UK Moves to Block High-Risk Tech Suppliers From Critical Infrastructure](https://www.securityweek.com/uk-moves-to-block-high-risk-tech-suppliers-from-critical-infrastructure/)
+### 39. [UK Moves to Block High-Risk Tech Suppliers From Critical Infrastructure](https://www.securityweek.com/uk-moves-to-block-high-risk-tech-suppliers-from-critical-infrastructure/)
 
 **Source:** Security Week  
 **Published:** Wed, 02 Sep 2026 15:45:08 +0000  
@@ -344,32 +362,13 @@
 
 ---
 
-### 38. [Rockwell Automation Patches Over a Dozen Vulnerabilities Across Products](https://www.securityweek.com/rockwell-automation-patches-over-a-dozen-vulnerabilities-across-products/)
+### 40. [Rockwell Automation Patches Over a Dozen Vulnerabilities Across Products](https://www.securityweek.com/rockwell-automation-patches-over-a-dozen-vulnerabilities-across-products/)
 
 **Source:** Security Week  
 **Published:** Wed, 02 Sep 2026 12:39:07 +0000  
 **Severity:** Critical  
 **CVEs:** CVE-2026-9637  
 **Categories:** Vulnerability, Malware, Supply Chain  
-
----
-
-### 39. [Exploit Published for Fresh Cleo Harmony Vulnerability](https://www.securityweek.com/exploit-published-for-fresh-cleo-harmony-vulnerability/)
-
-**Source:** Security Week  
-**Published:** Wed, 02 Sep 2026 12:18:15 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-84115  
-**Categories:** Ransomware, Vulnerability  
-
----
-
-### 40. [Anthropic Details Response to Security Incidents, Unveils Enterprise Safeguards](https://www.securityweek.com/anthropic-details-response-to-security-incidents-unveils-enterprise-safeguards/)
-
-**Source:** Security Week  
-**Published:** Wed, 02 Sep 2026 11:48:31 +0000  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
@@ -463,7 +462,16 @@
 
 ---
 
-### 51. [The Agentic SOC – From AI Theater to Real Defense](https://www.recordedfuture.com/blog/agentic-soc-real-defense)
+### 51. [H1 2026 Malware Vulnerability Trends](https://www.recordedfuture.com/research/h1-2026-malware-vulnerability-trends)
+
+**Source:** Recorded Future  
+**Published:** Thu, 03 Sep 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** Ransomware, Vulnerability, Malware, Supply Chain  
+
+---
+
+### 52. [The Agentic SOC – From AI Theater to Real Defense](https://www.recordedfuture.com/blog/agentic-soc-real-defense)
 
 **Source:** Recorded Future  
 **Published:** Tue, 01 Sep 2026 00:00:00 GMT  
@@ -472,7 +480,7 @@
 
 ---
 
-### 52. [BlueDelta Targets Defense and Diplomacy with HOOKEDGE](https://www.recordedfuture.com/research/bluedelta-targets-with-hookedge)
+### 53. [BlueDelta Targets Defense and Diplomacy with HOOKEDGE](https://www.recordedfuture.com/research/bluedelta-targets-with-hookedge)
 
 **Source:** Recorded Future  
 **Published:** Thu, 27 Aug 2026 00:00:00 GMT  
@@ -481,7 +489,7 @@
 
 ---
 
-### 53. [Recorded Future Launches AI Alert Filtering](https://www.recordedfuture.com/blog/ai-alert-filtering)
+### 54. [Recorded Future Launches AI Alert Filtering](https://www.recordedfuture.com/blog/ai-alert-filtering)
 
 **Source:** Recorded Future  
 **Published:** Wed, 26 Aug 2026 00:00:00 GMT  
@@ -490,7 +498,7 @@
 
 ---
 
-### 54. [Mexico’s Cybersecurity Plan 2025-2030: Turning Ambition Into Defense](https://www.recordedfuture.com/blog/mexico-cybersecurity-plan)
+### 55. [Mexico’s Cybersecurity Plan 2025-2030: Turning Ambition Into Defense](https://www.recordedfuture.com/blog/mexico-cybersecurity-plan)
 
 **Source:** Recorded Future  
 **Published:** Tue, 25 Aug 2026 00:00:00 GMT  
@@ -499,7 +507,7 @@
 
 ---
 
-### 55. [Recorded Future Launches 6 New Capabilities for Third-Party Risk](https://www.recordedfuture.com/blog/native-risk-ratings)
+### 56. [Recorded Future Launches 6 New Capabilities for Third-Party Risk](https://www.recordedfuture.com/blog/native-risk-ratings)
 
 **Source:** Recorded Future  
 **Published:** Wed, 19 Aug 2026 00:00:00 GMT  
@@ -508,7 +516,7 @@
 
 ---
 
-### 56. [PurpleDelta's Fraudulent Employment Operations](https://www.recordedfuture.com/research/purpledelta-fraudulent-employment-operations)
+### 57. [PurpleDelta's Fraudulent Employment Operations](https://www.recordedfuture.com/research/purpledelta-fraudulent-employment-operations)
 
 **Source:** Recorded Future  
 **Published:** Tue, 18 Aug 2026 00:00:00 GMT  
@@ -517,7 +525,7 @@
 
 ---
 
-### 57. [CopyCop Targets AI Investment in Armenia](https://www.recordedfuture.com/blog/copycop-targets-ai-investment)
+### 58. [CopyCop Targets AI Investment in Armenia](https://www.recordedfuture.com/blog/copycop-targets-ai-investment)
 
 **Source:** Recorded Future  
 **Published:** Tue, 18 Aug 2026 00:00:00 GMT  
@@ -526,7 +534,7 @@
 
 ---
 
-### 58. [Malware Crypting Services and the Threat Actors Who Sell Them](https://www.recordedfuture.com/research/malware-crypting-services-threat-actors)
+### 59. [Malware Crypting Services and the Threat Actors Who Sell Them](https://www.recordedfuture.com/research/malware-crypting-services-threat-actors)
 
 **Source:** Recorded Future  
 **Published:** Thu, 13 Aug 2026 00:00:00 GMT  
@@ -535,21 +543,12 @@
 
 ---
 
-### 59. [Mines, Minds, and Machines: The Journey of AI](https://www.recordedfuture.com/blog/mines-minds-machines)
+### 60. [Mines, Minds, and Machines: The Journey of AI](https://www.recordedfuture.com/blog/mines-minds-machines)
 
 **Source:** Recorded Future  
 **Published:** Tue, 11 Aug 2026 00:00:00 GMT  
 **Severity:** Low  
 **Categories:** Supply Chain  
-
----
-
-### 60. [The Hugging Face Hack Was Cheap Persistence at Work](https://www.recordedfuture.com/blog/hugging-face-cheap-persistence)
-
-**Source:** Recorded Future  
-**Published:** Mon, 10 Aug 2026 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -633,7 +632,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

@@ -181,6 +181,100 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Microsoft: KB5120998 mouse reset bug affects only non-English PCs",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/",
+    "published": "Thu, 03 Sep 2026 11:22:33 -0400",
+    "summary": "Microsoft says a known issue that reverts mouse settings after installing the KB5120998 August 2026 preview update affects only non-English Windows 11 systems. [...]",
+    "analysis": {
+      "issue": "Microsoft says a known issue that reverts mouse settings after installing the KB5120998 August 2026 preview update affects only non-English Windows 11 systems",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "OpenAI confirms ChatGPT is down ahead of 'Astra' model launch",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/",
+    "published": "Thu, 03 Sep 2026 11:13:29 -0400",
+    "summary": "ChatGPT and Codex are experiencing a major outage, with users reporting errors across nearly every major ChatGPT feature. [...]",
+    "analysis": {
+      "issue": "ChatGPT and Codex are experiencing a major outage, with users reporting errors across nearly every major ChatGPT feature",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Anthropic confirms Claude is down, multiple models affected",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/",
+    "published": "Thu, 03 Sep 2026 11:02:52 -0400",
+    "summary": "Claude is experiencing an outage, with users encountering elevated errors when sending requests to multiple Anthropic AI models. [...]",
+    "analysis": {
+      "issue": "Claude is experiencing an outage, with users encountering elevated errors when sending requests to multiple Anthropic AI models",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Critical Elementor Pro flaw exploited to take over WordPress sites",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/",
+    "published": "Thu, 03 Sep 2026 10:52:20 -0400",
+    "summary": "A recently patched critical vulnerability (CVE-2026-32475) in the Elementor Pro plugin for WordPress is being exploited in attacks that deliver a webshell payload and execute arbitrary commands on the server. [...]",
+    "analysis": {
+      "issue": "A recently patched critical vulnerability (CVE-2026-32475) in the Elementor Pro plugin for WordPress is being exploited in attacks that deliver a webshell payload and execute arbitrary commands on the server",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-32475"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Your Employee’s Password Appeared in an Infostealer Log. Now What?",
+    "link": "https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/",
+    "published": "Thu, 03 Sep 2026 09:50:59 -0400",
+    "summary": "Infostealers can expose far more than passwords, including authenticated sessions that may let attackers bypass MFA. Flare explains how defenders can prioritize compromised identities, determine whether stolen access is still usable, and respond before it leads to account takeover. [...]",
+    "analysis": {
+      "issue": "Infostealer logs have evolved from an underground commodity into an operational security problem",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Microsoft says KB5120998 Windows update resets desktop settings",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-kb5120998-windows-update-resets-desktop-settings/",
     "published": "Thu, 03 Sep 2026 08:16:32 -0400",
@@ -270,101 +364,6 @@
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers exploit critical JFrog Artifactory flaw to forge admin tokens",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/",
-    "published": "Wed, 02 Sep 2026 11:47:08 -0400",
-    "summary": "A critical authentication bypass vulnerability (CVE-2026-82329) in JFrog Artifactory is being exploited in attacks to create tokens that provide administrative access. [...]",
-    "analysis": {
-      "issue": "A critical authentication bypass vulnerability (CVE-2026-82329) in JFrog Artifactory is being exploited in attacks to create tokens that provide administrative access",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-82329"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Ransomware protection for MSPs: A 6-point checklist for faster recovery",
-    "link": "https://www.bleepingcomputer.com/news/security/ransomware-protection-for-msps-a-6-point-checklist-for-faster-recovery/",
-    "published": "Wed, 02 Sep 2026 10:02:12 -0400",
-    "summary": "Ransomware resilience requires more than backups or endpoint detection alone. Acronis outlines six capabilities MSPs should test across client environments, from reducing exposure and detecting attacks to preserving recovery points and restoring operations quickly. [...]",
-    "analysis": {
-      "issue": "Ransomware protection for MSPs should deliver six tested outcomes: reduce exposure, detect activity before encryption, provide 24/7 response, preserve isolated recovery points, recover cleanly and operate consistently across tenants",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Dropbox accounts breached through Lenovo email verification flaw",
-    "link": "https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/",
-    "published": "Wed, 02 Sep 2026 08:30:22 -0400",
-    "summary": "Dropbox is warning some users that an unauthorized party accessed their accounts by exploiting a flaw in Lenovo's email verification process to register fraudulent Lenovo IDs. [...]",
-    "analysis": {
-      "issue": "Dropbox is warning some users that an unauthorized party accessed their accounts by exploiting a flaw in Lenovo’s email verification process to register fraudulent Lenovo IDs",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft Defender flags legitimate Google search links as malicious",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/",
-    "published": "Wed, 02 Sep 2026 06:29:39 -0400",
-    "summary": "Microsoft is investigating an issue causing the Defender for Office 365 security software to mistakenly block access to legitimate Google search links. [...]",
-    "analysis": {
-      "issue": "Microsoft is investigating an issue causing the Defender for Office 365 security software to mistakenly flag legitimate Google search links as malicious",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "US charges Russian for infecting 80,000 freelancers with malware",
-    "link": "https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/",
-    "published": "Wed, 02 Sep 2026 05:06:48 -0400",
-    "summary": "A California federal grand jury has indicted a Russian national for his role in a phishing campaign that infected thousands of freelancers with TVRAT and DarkVNC malware. [...]",
-    "analysis": {
-      "issue": "A California federal grand jury has indicted a Russian national for his role in a phishing campaign that infected thousands of freelancers with TVRAT and DarkVNC malware",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Phishing"
       ]
     }
   },
@@ -516,10 +515,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-48561",
-        "CVE-2026-50661",
+        "CVE-2026-56155",
         "CVE-2026-56164",
-        "CVE-2026-56155"
+        "CVE-2026-48561",
+        "CVE-2026-50661"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -561,6 +560,44 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Manchester Airports Group Data on 8.8 Million People Leaked After Ransom Refusal",
+    "link": "https://www.securityweek.com/manchester-airports-group-data-on-8-8-million-people-leaked-after-ransom-refusal/",
+    "published": "Thu, 03 Sep 2026 15:35:19 +0000",
+    "summary": "<p>Hacker group published roughly 550GB of data after MAG reportedly refused to pay a ransom demand; the group says it gained access via exposed admin keys.</p>\n<p>The post <a href=\"https://www.securityweek.com/manchester-airports-group-data-on-8-8-million-people-leaked-after-ransom-refusal/\">Manchester Airports Group Data on 8.8 Million People Leaked After Ransom Refusal</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Hacker group published roughly 550GB of data after MAG reportedly refused to pay a ransom demand; the group says it gained access via exposed admin keys",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Capsule Security Launches ‘AI Circuit Breaker’ to Stop Rogue Agents",
+    "link": "https://www.securityweek.com/capsule-security-launches-ai-circuit-breaker-to-stop-rogue-agents/",
+    "published": "Thu, 03 Sep 2026 15:15:00 +0000",
+    "summary": "<p>New models, trained using NVIDIA Nemotron 3 Ultra, aim to catch rogue agent behavior before it executes, without the latency of large-model review.</p>\n<p>The post <a href=\"https://www.securityweek.com/capsule-security-launches-ai-circuit-breaker-to-stop-rogue-agents/\">Capsule Security Launches &#8216;AI Circuit Breaker&#8217; to Stop Rogue Agents</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "New models, trained using NVIDIA Nemotron 3 Ultra, aim to catch rogue agent behavior before it executes, without the latency of large-model review",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
       ]
     }
   },
@@ -653,12 +690,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20354",
+        "CVE-2026-20281",
         "CVE-2026-20279",
-        "CVE-2026-20274",
+        "CVE-2026-20354",
         "CVE-2026-20212",
         "CVE-2026-20355",
-        "CVE-2026-20281"
+        "CVE-2026-20274"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -722,45 +759,6 @@
         "Vulnerability",
         "Malware",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Exploit Published for Fresh Cleo Harmony Vulnerability",
-    "link": "https://www.securityweek.com/exploit-published-for-fresh-cleo-harmony-vulnerability/",
-    "published": "Wed, 02 Sep 2026 12:18:15 +0000",
-    "summary": "<p>The security defect allows remote attackers to bypass authentication through argument bearer manipulation.</p>\n<p>The post <a href=\"https://www.securityweek.com/exploit-published-for-fresh-cleo-harmony-vulnerability/\">Exploit Published for Fresh Cleo Harmony Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The security defect allows remote attackers to bypass authentication through argument bearer manipulation",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-84115"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Anthropic Details Response to Security Incidents, Unveils Enterprise Safeguards",
-    "link": "https://www.securityweek.com/anthropic-details-response-to-security-incidents-unveils-enterprise-safeguards/",
-    "published": "Wed, 02 Sep 2026 11:48:31 +0000",
-    "summary": "<p>Anthropic introduced Enterprise Frontier Safeguards (EFS), a system that combines zero data retention with automated monitoring for misuse.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-details-response-to-security-incidents-unveils-enterprise-safeguards/\">Anthropic Details Response to Security Incidents, Unveils Enterprise Safeguards</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Anthropic introduced Enterprise Frontier Safeguards (EFS), a system that combines zero data retention with automated monitoring for misuse",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
@@ -950,6 +948,27 @@
   },
   {
     "source": "Recorded Future",
+    "title": "H1 2026 Malware Vulnerability Trends",
+    "link": "https://www.recordedfuture.com/research/h1-2026-malware-vulnerability-trends",
+    "published": "Thu, 03 Sep 2026 00:00:00 GMT",
+    "summary": "Learn how adversaries abuse trusted tools, AI, and developer environments for cyberattacks. Get actionable insights on ransomware, mobile threats, and supply chain security.",
+    "analysis": {
+      "issue": "Learn how adversaries abuse trusted tools, AI, and developer environments for cyberattacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
     "title": "The Agentic SOC – From AI Theater to Real Defense",
     "link": "https://www.recordedfuture.com/blog/agentic-soc-real-defense",
     "published": "Tue, 01 Sep 2026 00:00:00 GMT",
@@ -1107,24 +1126,6 @@
       "cves": [],
       "threat_categories": [
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "The Hugging Face Hack Was Cheap Persistence at Work",
-    "link": "https://www.recordedfuture.com/blog/hugging-face-cheap-persistence",
-    "published": "Mon, 10 Aug 2026 00:00:00 GMT",
-    "summary": "The Hugging Face and OpenAI security incident showed AI doesn't make attackers smarter. It makes persistence cheap, and defenses built for alerts can't keep up.",
-    "analysis": {
-      "issue": "The Hugging Face and OpenAI security incident showed AI doesn't make attackers smarter",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -1295,8 +1296,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
