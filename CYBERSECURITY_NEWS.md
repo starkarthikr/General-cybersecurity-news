@@ -1,10 +1,46 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-03 16:11:38 UTC
+**Last Updated:** 2026-09-03 19:22:00 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries](https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html)
+### 1. [ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories](https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 03 Sep 2026 23:32:47 +0530  
+**Severity:** Low  
+**Categories:** Ransomware, Phishing  
+
+---
+
+### 2. [Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root](https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 03 Sep 2026 21:22:07 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory](https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 03 Sep 2026 20:56:47 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 4. [Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data](https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 03 Sep 2026 20:09:05 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 5. [US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries](https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 03 Sep 2026 17:28:00 +0530  
@@ -13,7 +49,7 @@
 
 ---
 
-### 2. [Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks](https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html)
+### 6. [Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks](https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 03 Sep 2026 16:13:01 +0530  
@@ -22,7 +58,7 @@
 
 ---
 
-### 3. [Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means](https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html)
+### 7. [Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means](https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 03 Sep 2026 16:06:39 +0530  
@@ -31,7 +67,7 @@
 
 ---
 
-### 4. [Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone](https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html)
+### 8. [Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone](https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 03 Sep 2026 14:13:17 +0530  
@@ -40,7 +76,7 @@
 
 ---
 
-### 5. [Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon](https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html)
+### 9. [Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon](https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 03 Sep 2026 11:56:59 +0530  
@@ -49,7 +85,7 @@
 
 ---
 
-### 6. [CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners](https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html)
+### 10. [CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners](https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 03 Sep 2026 10:49:04 +0530  
@@ -58,43 +94,17 @@
 
 ---
 
-### 7. [Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs](https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html)
+### 11. [HPE patches critical ArubaOS-CX remote code execution flaw](https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 02 Sep 2026 23:57:49 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 03 Sep 2026 14:28:12 -0400  
 **Severity:** Critical  
-**Categories:** General Security  
+**CVEs:** CVE-2026-73749  
+**Categories:** Vulnerability  
 
 ---
 
-### 8. [Fake Software Installers Disable Windows Update and Weaken Microsoft Defender](https://thehackernews.com/2026/09/fake-software-installers-disable.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 02 Sep 2026 22:11:06 +0530  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 9. [Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code](https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 02 Sep 2026 19:36:59 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages](https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 02 Sep 2026 19:14:16 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 11. [Microsoft: KB5120998 mouse reset bug affects only non-English PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/)
+### 12. [Microsoft: KB5120998 mouse reset bug affects only non-English PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 03 Sep 2026 11:22:33 -0400  
@@ -103,7 +113,7 @@
 
 ---
 
-### 12. [OpenAI confirms ChatGPT is down ahead of 'Astra' model launch](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/)
+### 13. [OpenAI confirms ChatGPT is down ahead of 'Astra' model launch](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 03 Sep 2026 11:13:29 -0400  
@@ -112,7 +122,7 @@
 
 ---
 
-### 13. [Anthropic confirms Claude is down, multiple models affected](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/)
+### 14. [Anthropic confirms Claude is down, multiple models affected](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 03 Sep 2026 11:02:52 -0400  
@@ -121,7 +131,7 @@
 
 ---
 
-### 14. [Critical Elementor Pro flaw exploited to take over WordPress sites](https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/)
+### 15. [Critical Elementor Pro flaw exploited to take over WordPress sites](https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 03 Sep 2026 10:52:20 -0400  
@@ -131,7 +141,7 @@
 
 ---
 
-### 15. [Your Employee’s Password Appeared in an Infostealer Log. Now What?](https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/)
+### 16. [Your Employee’s Password Appeared in an Infostealer Log. Now What?](https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 03 Sep 2026 09:50:59 -0400  
@@ -140,7 +150,7 @@
 
 ---
 
-### 16. [Microsoft says KB5120998 Windows update resets desktop settings](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-kb5120998-windows-update-resets-desktop-settings/)
+### 17. [Microsoft says KB5120998 Windows update resets desktop settings](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-kb5120998-windows-update-resets-desktop-settings/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 03 Sep 2026 08:16:32 -0400  
@@ -149,7 +159,7 @@
 
 ---
 
-### 17. [Plex warns users to patch security vulnerabilities immediately](https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerabilities-immediately/)
+### 18. [Plex warns users to patch security vulnerabilities immediately](https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerabilities-immediately/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 03 Sep 2026 07:02:22 -0400  
@@ -158,7 +168,7 @@
 
 ---
 
-### 18. [Microsoft Teams, Outlook fail to launch on ARM-based Windows PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/)
+### 19. [Microsoft Teams, Outlook fail to launch on ARM-based Windows PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 03 Sep 2026 04:55:25 -0400  
@@ -167,22 +177,12 @@
 
 ---
 
-### 19. [Hackers exploit Sangoma Switchvox flaw to deploy reverse shells](https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/)
+### 20. [Hackers exploit Sangoma Switchvox flaw to deploy reverse shells](https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 02 Sep 2026 17:00:13 -0400  
 **Severity:** Low  
 **CVEs:** CVE-2026-9586  
-**Categories:** Vulnerability  
-
----
-
-### 20. [WordPress backup plugin flaw exposes millions of sites to takeover attacks](https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 02 Sep 2026 15:28:46 -0400  
-**Severity:** High  
-**CVEs:** CVE-2026-19949  
 **Categories:** Vulnerability  
 
 ---
@@ -219,7 +219,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-68820, CVE-2026-72971, CVE-2026-62832  
+**CVEs:** CVE-2026-72971, CVE-2026-68820, CVE-2026-62832  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -256,7 +256,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56155, CVE-2026-56164, CVE-2026-48561, CVE-2026-50661  
+**CVEs:** CVE-2026-56155, CVE-2026-48561, CVE-2026-50661, CVE-2026-56164  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -339,7 +339,7 @@
 **Source:** Security Week  
 **Published:** Thu, 03 Sep 2026 10:30:00 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20281, CVE-2026-20279, CVE-2026-20354, CVE-2026-20212, CVE-2026-20355, CVE-2026-20274  
+**CVEs:** CVE-2026-20354, CVE-2026-20355, CVE-2026-20279, CVE-2026-20274, CVE-2026-20212, CVE-2026-20281  
 **Categories:** Vulnerability  
 
 ---
@@ -372,7 +372,16 @@
 
 ---
 
-### 41. [“Sorry, I can’t help with that”: How your guardrails might become the attacker’s best friend](https://blog.talosintelligence.com/sorry-i-cant-help-with-that-how-your-guardrails-might-become-the-attackers-best-friend/)
+### 41. [The story behind the intelligence](https://blog.talosintelligence.com/the-story-behind-the-intelligence/)
+
+**Source:** Talos Blog  
+**Published:** Thu, 03 Sep 2026 18:00:13 GMT  
+**Severity:** High  
+**Categories:** Ransomware  
+
+---
+
+### 42. [“Sorry, I can’t help with that”: How your guardrails might become the attacker’s best friend](https://blog.talosintelligence.com/sorry-i-cant-help-with-that-how-your-guardrails-might-become-the-attackers-best-friend/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 27 Aug 2026 18:00:24 GMT  
@@ -381,7 +390,7 @@
 
 ---
 
-### 42. [JavaScript obfuscation: From party trick to phishing kit](https://blog.talosintelligence.com/javascript-obfuscation-from-party-trick-to-phishing-kit/)
+### 43. [JavaScript obfuscation: From party trick to phishing kit](https://blog.talosintelligence.com/javascript-obfuscation-from-party-trick-to-phishing-kit/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 27 Aug 2026 10:00:27 GMT  
@@ -390,7 +399,7 @@
 
 ---
 
-### 43. [Choose your fighter: Balancing competing requirements to select models for your AI SOC](https://blog.talosintelligence.com/choose-your-fighter-balancing-competing-requirements-to-select-models-for-your-ai-soc/)
+### 44. [Choose your fighter: Balancing competing requirements to select models for your AI SOC](https://blog.talosintelligence.com/choose-your-fighter-balancing-competing-requirements-to-select-models-for-your-ai-soc/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 26 Aug 2026 10:00:05 GMT  
@@ -399,7 +408,7 @@
 
 ---
 
-### 44. [The safety penalty: Reclaiming operational sovereignty in the age of AI](https://blog.talosintelligence.com/the-safety-penalty-reclaiming-operational-sovereignty-in-the-age-of-ai/)
+### 45. [The safety penalty: Reclaiming operational sovereignty in the age of AI](https://blog.talosintelligence.com/the-safety-penalty-reclaiming-operational-sovereignty-in-the-age-of-ai/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 25 Aug 2026 10:00:22 GMT  
@@ -408,7 +417,7 @@
 
 ---
 
-### 45. [Is Cyber missing the Marque?](https://blog.talosintelligence.com/is-cyber-missing-the-marque/)
+### 46. [Is Cyber missing the Marque?](https://blog.talosintelligence.com/is-cyber-missing-the-marque/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 20 Aug 2026 18:00:18 GMT  
@@ -417,7 +426,7 @@
 
 ---
 
-### 46. [UAT-10147 deploys SPECTRE: A cross-platform implant with Linux rootkit and BYOVD capabilities](https://blog.talosintelligence.com/uat-10147-deploys-spectre-a-cross-platform-implant-with-linux-rootkit-and-byovd-capabilities/)
+### 47. [UAT-10147 deploys SPECTRE: A cross-platform implant with Linux rootkit and BYOVD capabilities](https://blog.talosintelligence.com/uat-10147-deploys-spectre-a-cross-platform-implant-with-linux-rootkit-and-byovd-capabilities/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 20 Aug 2026 10:00:50 GMT  
@@ -426,7 +435,7 @@
 
 ---
 
-### 47. [UAT-10147: Chinese-speaking adversary integrates agentic AI into post-compromise operations](https://blog.talosintelligence.com/uat-10147-chinese-speaking-adversary-integrates-agentic-ai-into-post-compromise-operations/)
+### 48. [UAT-10147: Chinese-speaking adversary integrates agentic AI into post-compromise operations](https://blog.talosintelligence.com/uat-10147-chinese-speaking-adversary-integrates-agentic-ai-into-post-compromise-operations/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 20 Aug 2026 10:00:32 GMT  
@@ -435,7 +444,7 @@
 
 ---
 
-### 48. [Describing attacks with crime script analysis](https://blog.talosintelligence.com/describing-attacks-with-crime-script-analysis/)
+### 49. [Describing attacks with crime script analysis](https://blog.talosintelligence.com/describing-attacks-with-crime-script-analysis/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 19 Aug 2026 10:00:52 GMT  
@@ -444,21 +453,12 @@
 
 ---
 
-### 49. [Curiouser and Curiouser](https://blog.talosintelligence.com/curiouser-and-curiouser/)
+### 50. [Curiouser and Curiouser](https://blog.talosintelligence.com/curiouser-and-curiouser/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 13 Aug 2026 18:00:18 GMT  
 **Severity:** Low  
 **Categories:** Phishing  
-
----
-
-### 50. [Dissecting the JWR phishing framework](https://blog.talosintelligence.com/dissecting-the-jwr-phishing-framework/)
-
-**Source:** Talos Blog  
-**Published:** Thu, 13 Aug 2026 10:00:35 GMT  
-**Severity:** Low  
-**Categories:** Phishing, APT  
 
 ---
 
@@ -647,7 +647,16 @@
 
 ---
 
-### 71. [Your phone or computer may soon ask how old you are](https://www.malwarebytes.com/blog/privacy/2026/09/your-phone-or-computer-may-soon-ask-how-old-you-are)
+### 71. [StreamRat Android malware spreads through Meta and TikTok ads](https://www.malwarebytes.com/blog/news/2026/09/streamrat-android-malware-spreads-through-meta-and-tiktok-ads)
+
+**Source:** Malwarebytes  
+**Published:** Thu, 03 Sep 2026 16:04:24 GMT  
+**Severity:** Low  
+**Categories:** Malware, APT  
+
+---
+
+### 72. [Your phone or computer may soon ask how old you are](https://www.malwarebytes.com/blog/privacy/2026/09/your-phone-or-computer-may-soon-ask-how-old-you-are)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 03 Sep 2026 08:54:50 GMT  
@@ -656,7 +665,7 @@
 
 ---
 
-### 72. [Tech support scams look different now. Here’s what to watch for](https://www.malwarebytes.com/blog/scams/2026/09/tech-support-scams-look-different-now-heres-what-to-watch-for)
+### 73. [Tech support scams look different now. Here’s what to watch for](https://www.malwarebytes.com/blog/scams/2026/09/tech-support-scams-look-different-now-heres-what-to-watch-for)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 02 Sep 2026 15:49:51 GMT  
@@ -665,7 +674,7 @@
 
 ---
 
-### 73. [Scammers are getting smarter about where they target you](https://www.malwarebytes.com/blog/scams/2026/09/scammers-are-getting-smarter-about-where-they-target-you)
+### 74. [Scammers are getting smarter about where they target you](https://www.malwarebytes.com/blog/scams/2026/09/scammers-are-getting-smarter-about-where-they-target-you)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 02 Sep 2026 12:45:00 GMT  
@@ -674,7 +683,7 @@
 
 ---
 
-### 74. [Two critical Chrome flaws put users at risk on malicious websites](https://www.malwarebytes.com/blog/bugs/2026/09/two-critical-chrome-flaws-put-users-at-risk-on-malicious-websites)
+### 75. [Two critical Chrome flaws put users at risk on malicious websites](https://www.malwarebytes.com/blog/bugs/2026/09/two-critical-chrome-flaws-put-users-at-risk-on-malicious-websites)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 02 Sep 2026 11:15:56 GMT  
@@ -684,7 +693,7 @@
 
 ---
 
-### 75. [153M+ driver’s licenses for sale on new dark web platform](https://www.malwarebytes.com/blog/news/2026/09/dark-web-site-puts-153-million-drivers-licenses-and-millions-more-ids-up-for-sale)
+### 76. [153M+ driver’s licenses for sale on new dark web platform](https://www.malwarebytes.com/blog/news/2026/09/dark-web-site-puts-153-million-drivers-licenses-and-millions-more-ids-up-for-sale)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 02 Sep 2026 10:03:58 GMT  
@@ -693,7 +702,7 @@
 
 ---
 
-### 76. [Your AI chats could be used in court](https://www.malwarebytes.com/blog/ai/2026/09/your-ai-chats-could-be-used-in-court)
+### 77. [Your AI chats could be used in court](https://www.malwarebytes.com/blog/ai/2026/09/your-ai-chats-could-be-used-in-court)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 02 Sep 2026 09:22:19 GMT  
@@ -702,7 +711,7 @@
 
 ---
 
-### 77. [Fake GTA 6 leaked copy drains your crypto wallet](https://www.malwarebytes.com/blog/scams/2026/09/fake-gta-6-leaked-copy-drains-your-crypto-wallet)
+### 78. [Fake GTA 6 leaked copy drains your crypto wallet](https://www.malwarebytes.com/blog/scams/2026/09/fake-gta-6-leaked-copy-drains-your-crypto-wallet)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 01 Sep 2026 16:07:14 GMT  
@@ -711,7 +720,7 @@
 
 ---
 
-### 78. [TerminalFix looks like ClickFix, but delivers a very different payload](https://www.malwarebytes.com/blog/news/2026/09/terminalfix-looks-like-clickfix-but-delivers-a-very-different-payload)
+### 79. [TerminalFix looks like ClickFix, but delivers a very different payload](https://www.malwarebytes.com/blog/news/2026/09/terminalfix-looks-like-clickfix-but-delivers-a-very-different-payload)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 01 Sep 2026 12:13:18 GMT  
@@ -720,21 +729,12 @@
 
 ---
 
-### 79. [Infostealers are hijacking Claude accounts at users’ expense](https://www.malwarebytes.com/blog/news/2026/09/infostealers-are-hijacking-claude-accounts-at-users-expense)
+### 80. [Infostealers are hijacking Claude accounts at users’ expense](https://www.malwarebytes.com/blog/news/2026/09/infostealers-are-hijacking-claude-accounts-at-users-expense)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 01 Sep 2026 10:08:28 GMT  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 80. [McKesson confirms cyber incident after ShinyHunters claims patient-data theft](https://www.malwarebytes.com/blog/news/2026/08/mckesson-confirms-cyber-incident-after-shinyhunters-claims-patient-data-theft)
-
-**Source:** Malwarebytes  
-**Published:** Mon, 31 Aug 2026 14:46:50 GMT  
-**Severity:** Low  
-**Categories:** Ransomware, Phishing, Supply Chain  
 
 ---
 
