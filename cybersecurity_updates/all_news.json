@@ -443,9 +443,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-62832",
         "CVE-2026-68820",
-        "CVE-2026-72971"
+        "CVE-2026-72971",
+        "CVE-2026-62832"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -522,10 +522,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-56155",
         "CVE-2026-48561",
-        "CVE-2026-50661",
         "CVE-2026-56164",
-        "CVE-2026-56155"
+        "CVE-2026-50661"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -538,7 +538,19 @@
     "title": "Lessons Learned from CISA’s Recent GitHub Leak",
     "link": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
     "published": "Mon, 13 Jul 2026 15:03:28 +0000",
-    "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response provide important lessons that all security teams should absorb."
+    "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response provide important lessons that all security teams should absorb.",
+    "analysis": {
+      "issue": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a recent data leak in which a contractor published dozens of internal CISA credentials — including AWS Govcloud keys — in a public GitHub repository for almost six",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability"
+      ]
+    }
   },
   {
     "source": "Krebs On Security",
@@ -707,8 +719,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-84352",
-        "CVE-2026-84353"
+        "CVE-2026-84353",
+        "CVE-2026-84352"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1288,8 +1300,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
