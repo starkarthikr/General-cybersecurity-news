@@ -1,10 +1,38 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-04 12:51:39 UTC
+**Last Updated:** 2026-09-04 16:05:57 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws](https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html)
+### 1. [Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters](https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 04 Sep 2026 21:27:15 +0530  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 2. [PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution](https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 04 Sep 2026 20:50:19 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-6471  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic](https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 04 Sep 2026 20:21:13 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 4. [Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws](https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 04 Sep 2026 14:18:45 +0530  
@@ -13,7 +41,7 @@
 
 ---
 
-### 2. [Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws](https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html)
+### 5. [Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws](https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 04 Sep 2026 13:05:14 +0530  
@@ -22,7 +50,7 @@
 
 ---
 
-### 3. [Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day](https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html)
+### 6. [Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day](https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 04 Sep 2026 12:48:47 +0530  
@@ -31,7 +59,7 @@
 
 ---
 
-### 4. [GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests](https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html)
+### 7. [GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests](https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 04 Sep 2026 12:17:52 +0530  
@@ -40,7 +68,7 @@
 
 ---
 
-### 5. [ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories](https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html)
+### 8. [ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories](https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 03 Sep 2026 23:32:47 +0530  
@@ -49,7 +77,7 @@
 
 ---
 
-### 6. [Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root](https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html)
+### 9. [Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root](https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 03 Sep 2026 21:22:07 +0530  
@@ -58,7 +86,7 @@
 
 ---
 
-### 7. [BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory](https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html)
+### 10. [BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory](https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 03 Sep 2026 20:56:47 +0530  
@@ -67,34 +95,44 @@
 
 ---
 
-### 8. [Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data](https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html)
+### 11. [Critical Citrix NetScaler auth bypass now leveraged in attacks](https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 03 Sep 2026 20:09:05 +0530  
+**Source:** Bleeping Computer  
+**Published:** Fri, 04 Sep 2026 11:25:59 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-19490  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [Microsoft says some users can’t open the Teams desktop client](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 04 Sep 2026 10:30:15 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 9. [US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries](https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html)
+### 13. [39 New Methods That Compromise Passkey Authentication](https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 03 Sep 2026 17:28:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Fri, 04 Sep 2026 10:01:11 -0400  
 **Severity:** Low  
-**Categories:** Phishing  
+**Categories:** Vulnerability, Phishing, APT  
 
 ---
 
-### 10. [Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks](https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html)
+### 14. [New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges](https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 03 Sep 2026 16:13:01 +0530  
-**Severity:** Low  
-**Categories:** Malware  
+**Source:** Bleeping Computer  
+**Published:** Fri, 04 Sep 2026 09:22:01 -0400  
+**Severity:** Critical  
+**Categories:** Vulnerability, Malware  
 
 ---
 
-### 11. [Exchange Online outage causes email delays, 'Server busy' errors](https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/)
+### 15. [Exchange Online outage causes email delays, 'Server busy' errors](https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 04 Sep 2026 08:22:30 -0400  
@@ -103,7 +141,7 @@
 
 ---
 
-### 12. [Google warns of new Chrome zero-day flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/)
+### 16. [Google warns of new Chrome zero-day flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 04 Sep 2026 07:48:17 -0400  
@@ -113,7 +151,7 @@
 
 ---
 
-### 13. [French hospital fined €500,000 after breach exposes data of 727,000](https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/)
+### 17. [French hospital fined €500,000 after breach exposes data of 727,000](https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 03 Sep 2026 18:01:37 -0400  
@@ -122,7 +160,7 @@
 
 ---
 
-### 14. [Coder's registry infrastructure compromised to push malicious modules](https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/)
+### 18. [Coder's registry infrastructure compromised to push malicious modules](https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 03 Sep 2026 16:04:24 -0400  
@@ -131,7 +169,7 @@
 
 ---
 
-### 15. [HPE patches critical ArubaOS-CX remote code execution flaw](https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/)
+### 19. [HPE patches critical ArubaOS-CX remote code execution flaw](https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 03 Sep 2026 14:28:12 -0400  
@@ -141,49 +179,12 @@
 
 ---
 
-### 16. [Microsoft: KB5120998 mouse reset bug affects only non-English PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/)
+### 20. [Microsoft: KB5120998 mouse reset bug affects only non-English PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 03 Sep 2026 11:22:33 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 17. [OpenAI confirms ChatGPT is down ahead of 'Astra' model launch](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 03 Sep 2026 11:13:29 -0400  
-**Severity:** High  
-**Categories:** General Security  
-
----
-
-### 18. [Anthropic confirms Claude is down, multiple models affected](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 03 Sep 2026 11:02:52 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 19. [Critical Elementor Pro flaw exploited to take over WordPress sites](https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 03 Sep 2026 10:52:20 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-32475  
-**Categories:** Vulnerability  
-
----
-
-### 20. [Your Employee’s Password Appeared in an Infostealer Log. Now What?](https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 03 Sep 2026 09:50:59 -0400  
-**Severity:** High  
-**Categories:** Ransomware, Vulnerability, APT  
 
 ---
 
@@ -256,7 +257,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56155, CVE-2026-50661, CVE-2026-56164, CVE-2026-48561  
+**CVEs:** CVE-2026-56164, CVE-2026-48561, CVE-2026-56155, CVE-2026-50661  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -279,7 +280,17 @@
 
 ---
 
-### 31. [12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover](https://www.securityweek.com/12-year-old-postgresql-vulnerability-enables-database-server-takeover/)
+### 31. [Sangoma Switchvox Vulnerabilities Exploited in the Wild](https://www.securityweek.com/sangoma-switchvox-vulnerabilities-exploited-in-the-wild/)
+
+**Source:** Security Week  
+**Published:** Fri, 04 Sep 2026 13:23:12 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-59822, CVE-2026-48710, CVE-2026-49869, CVE-2026-9586  
+**Categories:** Vulnerability  
+
+---
+
+### 32. [12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover](https://www.securityweek.com/12-year-old-postgresql-vulnerability-enables-database-server-takeover/)
 
 **Source:** Security Week  
 **Published:** Fri, 04 Sep 2026 12:06:13 +0000  
@@ -289,7 +300,7 @@
 
 ---
 
-### 32. [Catch Raises $5 Million for AI Executive Assistant With Guardrails](https://www.securityweek.com/catch-raises-5-million-for-ai-executive-assistant-with-guardrails/)
+### 33. [Catch Raises $5 Million for AI Executive Assistant With Guardrails](https://www.securityweek.com/catch-raises-5-million-for-ai-executive-assistant-with-guardrails/)
 
 **Source:** Security Week  
 **Published:** Fri, 04 Sep 2026 11:55:17 +0000  
@@ -298,27 +309,27 @@
 
 ---
 
-### 33. [VMware Workstation and Fusion Updates Patch Critical Vulnerability](https://www.securityweek.com/vmware-workstation-and-fusion-updates-patch-critical-vulnerability/)
+### 34. [VMware Workstation and Fusion Updates Patch Critical Vulnerability](https://www.securityweek.com/vmware-workstation-and-fusion-updates-patch-critical-vulnerability/)
 
 **Source:** Security Week  
 **Published:** Fri, 04 Sep 2026 11:42:55 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-59347, CVE-2026-59346  
+**CVEs:** CVE-2026-59346, CVE-2026-59347  
 **Categories:** Vulnerability, APT  
 
 ---
 
-### 34. [Google Patches 6th Chrome Zero-Day of 2026](https://www.securityweek.com/google-patches-6th-chrome-zero-day-of-2026/)
+### 35. [Google Patches 6th Chrome Zero-Day of 2026](https://www.securityweek.com/google-patches-6th-chrome-zero-day-of-2026/)
 
 **Source:** Security Week  
 **Published:** Fri, 04 Sep 2026 11:31:52 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-3909, CVE-2026-3910, CVE-2026-11645, CVE-2026-85046, CVE-2026-2441, CVE-2026-5281  
+**CVEs:** CVE-2026-85046, CVE-2026-3910, CVE-2026-3909, CVE-2026-5281, CVE-2026-11645, CVE-2026-2441  
 **Categories:** Vulnerability  
 
 ---
 
-### 35. [Nvidia Is Buying AI Platform Hugging Face for $13 Billion](https://www.securityweek.com/nvidia-is-buying-ai-platform-hugging-face-for-13-billion/)
+### 36. [Nvidia Is Buying AI Platform Hugging Face for $13 Billion](https://www.securityweek.com/nvidia-is-buying-ai-platform-hugging-face-for-13-billion/)
 
 **Source:** Security Week  
 **Published:** Fri, 04 Sep 2026 10:00:00 +0000  
@@ -327,7 +338,7 @@
 
 ---
 
-### 36. [Manchester Airports Group Data on 8.8 Million People Leaked After Ransom Refusal](https://www.securityweek.com/manchester-airports-group-data-on-8-8-million-people-leaked-after-ransom-refusal/)
+### 37. [Manchester Airports Group Data on 8.8 Million People Leaked After Ransom Refusal](https://www.securityweek.com/manchester-airports-group-data-on-8-8-million-people-leaked-after-ransom-refusal/)
 
 **Source:** Security Week  
 **Published:** Thu, 03 Sep 2026 15:35:19 +0000  
@@ -336,7 +347,7 @@
 
 ---
 
-### 37. [Capsule Security Launches ‘AI Circuit Breaker’ to Stop Rogue Agents](https://www.securityweek.com/capsule-security-launches-ai-circuit-breaker-to-stop-rogue-agents/)
+### 38. [Capsule Security Launches ‘AI Circuit Breaker’ to Stop Rogue Agents](https://www.securityweek.com/capsule-security-launches-ai-circuit-breaker-to-stop-rogue-agents/)
 
 **Source:** Security Week  
 **Published:** Thu, 03 Sep 2026 15:15:00 +0000  
@@ -345,7 +356,7 @@
 
 ---
 
-### 38. [HiddenLayer Raises $100 Million for AI Runtime Security](https://www.securityweek.com/hiddenlayer-raises-100-million-for-ai-runtime-security/)
+### 39. [HiddenLayer Raises $100 Million for AI Runtime Security](https://www.securityweek.com/hiddenlayer-raises-100-million-for-ai-runtime-security/)
 
 **Source:** Security Week  
 **Published:** Thu, 03 Sep 2026 12:17:30 +0000  
@@ -354,21 +365,12 @@
 
 ---
 
-### 39. [AI Agent Firewall Startup AIR Security Emerges From Stealth With $50 Million](https://www.securityweek.com/ai-agent-firewall-startup-air-security-emerges-from-stealth-with-50-million/)
+### 40. [AI Agent Firewall Startup AIR Security Emerges From Stealth With $50 Million](https://www.securityweek.com/ai-agent-firewall-startup-air-security-emerges-from-stealth-with-50-million/)
 
 **Source:** Security Week  
 **Published:** Thu, 03 Sep 2026 12:00:00 +0000  
 **Severity:** Critical  
 **Categories:** Vulnerability, Supply Chain  
-
----
-
-### 40. [153 Million Driver License Images Offered on Dark Web](https://www.securityweek.com/153-million-driver-license-images-offered-on-dark-web/)
-
-**Source:** Security Week  
-**Published:** Thu, 03 Sep 2026 10:54:18 +0000  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach  
 
 ---
 
@@ -462,7 +464,16 @@
 
 ---
 
-### 51. [H1 2026 Malware Vulnerability Trends](https://www.recordedfuture.com/research/h1-2026-malware-vulnerability-trends)
+### 51. [Recorded Future Announces Automated Signature Creation, Accelerating Vulnerability Prioritization](https://www.recordedfuture.com/blog/automated-signature-creation)
+
+**Source:** Recorded Future  
+**Published:** Fri, 04 Sep 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 52. [H1 2026 Malware Vulnerability Trends](https://www.recordedfuture.com/research/h1-2026-malware-vulnerability-trends)
 
 **Source:** Recorded Future  
 **Published:** Thu, 03 Sep 2026 00:00:00 GMT  
@@ -471,7 +482,7 @@
 
 ---
 
-### 52. [The Agentic SOC – From AI Theater to Real Defense](https://www.recordedfuture.com/blog/agentic-soc-real-defense)
+### 53. [The Agentic SOC – From AI Theater to Real Defense](https://www.recordedfuture.com/blog/agentic-soc-real-defense)
 
 **Source:** Recorded Future  
 **Published:** Tue, 01 Sep 2026 00:00:00 GMT  
@@ -480,7 +491,7 @@
 
 ---
 
-### 53. [BlueDelta Targets Defense and Diplomacy with HOOKEDGE](https://www.recordedfuture.com/research/bluedelta-targets-with-hookedge)
+### 54. [BlueDelta Targets Defense and Diplomacy with HOOKEDGE](https://www.recordedfuture.com/research/bluedelta-targets-with-hookedge)
 
 **Source:** Recorded Future  
 **Published:** Thu, 27 Aug 2026 00:00:00 GMT  
@@ -489,7 +500,7 @@
 
 ---
 
-### 54. [Recorded Future Launches AI Alert Filtering](https://www.recordedfuture.com/blog/ai-alert-filtering)
+### 55. [Recorded Future Launches AI Alert Filtering](https://www.recordedfuture.com/blog/ai-alert-filtering)
 
 **Source:** Recorded Future  
 **Published:** Wed, 26 Aug 2026 00:00:00 GMT  
@@ -498,7 +509,7 @@
 
 ---
 
-### 55. [Mexico’s Cybersecurity Plan 2025-2030: Turning Ambition Into Defense](https://www.recordedfuture.com/blog/mexico-cybersecurity-plan)
+### 56. [Mexico’s Cybersecurity Plan 2025-2030: Turning Ambition Into Defense](https://www.recordedfuture.com/blog/mexico-cybersecurity-plan)
 
 **Source:** Recorded Future  
 **Published:** Tue, 25 Aug 2026 00:00:00 GMT  
@@ -507,7 +518,7 @@
 
 ---
 
-### 56. [Recorded Future Launches 6 New Capabilities for Third-Party Risk](https://www.recordedfuture.com/blog/native-risk-ratings)
+### 57. [Recorded Future Launches 6 New Capabilities for Third-Party Risk](https://www.recordedfuture.com/blog/native-risk-ratings)
 
 **Source:** Recorded Future  
 **Published:** Wed, 19 Aug 2026 00:00:00 GMT  
@@ -516,7 +527,7 @@
 
 ---
 
-### 57. [PurpleDelta's Fraudulent Employment Operations](https://www.recordedfuture.com/research/purpledelta-fraudulent-employment-operations)
+### 58. [PurpleDelta's Fraudulent Employment Operations](https://www.recordedfuture.com/research/purpledelta-fraudulent-employment-operations)
 
 **Source:** Recorded Future  
 **Published:** Tue, 18 Aug 2026 00:00:00 GMT  
@@ -525,7 +536,7 @@
 
 ---
 
-### 58. [CopyCop Targets AI Investment in Armenia](https://www.recordedfuture.com/blog/copycop-targets-ai-investment)
+### 59. [CopyCop Targets AI Investment in Armenia](https://www.recordedfuture.com/blog/copycop-targets-ai-investment)
 
 **Source:** Recorded Future  
 **Published:** Tue, 18 Aug 2026 00:00:00 GMT  
@@ -534,21 +545,12 @@
 
 ---
 
-### 59. [Malware Crypting Services and the Threat Actors Who Sell Them](https://www.recordedfuture.com/research/malware-crypting-services-threat-actors)
+### 60. [Malware Crypting Services and the Threat Actors Who Sell Them](https://www.recordedfuture.com/research/malware-crypting-services-threat-actors)
 
 **Source:** Recorded Future  
 **Published:** Thu, 13 Aug 2026 00:00:00 GMT  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 60. [Mines, Minds, and Machines: The Journey of AI](https://www.recordedfuture.com/blog/mines-minds-machines)
-
-**Source:** Recorded Future  
-**Published:** Tue, 11 Aug 2026 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** Supply Chain  
 
 ---
 
@@ -632,7 +634,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
