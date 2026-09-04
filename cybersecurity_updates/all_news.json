@@ -182,6 +182,42 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "French hospital fined €500,000 after breach exposes data of 727,000",
+    "link": "https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/",
+    "published": "Thu, 03 Sep 2026 18:01:37 -0400",
+    "summary": "France's data protection authority (CNIL) has fined Hôpital privé de la Loire €500,000 ($580,000) for failing to adequately protect patients' and their relatives' data. [...]",
+    "analysis": {
+      "issue": "France’s data protection authority (CNIL) has fined Hôpital privé de la Loire €500,000 ($580,000) for failing to adequately protect patients’ and their relatives’ data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Coder's registry infrastructure compromised to push malicious modules",
+    "link": "https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/",
+    "published": "Thu, 03 Sep 2026 16:04:24 -0400",
+    "summary": "Attackers compromised Coder's Cloudflare infrastructure and added unauthorized registry servers that delivered malicious Terraform modules containing credential-stealing code. [...]",
+    "analysis": {
+      "issue": "Attackers compromised Coder’s Cloudflare infrastructure and added unauthorized registry servers that delivered malicious Terraform modules containing credential-stealing code",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "HPE patches critical ArubaOS-CX remote code execution flaw",
     "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/",
     "published": "Thu, 03 Sep 2026 14:28:12 -0400",
@@ -325,44 +361,6 @@
       "timeline": null,
       "severity": "Low",
       "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft Teams, Outlook fail to launch on ARM-based Windows PCs",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/",
-    "published": "Thu, 03 Sep 2026 04:55:25 -0400",
-    "summary": "Microsoft is working to fix a known issue that causes crashes and launch failures for Microsoft Teams and New Outlook users after installing updates released since the August 2026 Patch Tuesday. [...]",
-    "analysis": {
-      "issue": "Microsoft is working to fix a known issue that causes crashes and launch failures for Microsoft Teams and New Outlook users after installing updates released since the August 2026 Patch Tuesday",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers exploit Sangoma Switchvox flaw to deploy reverse shells",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/",
-    "published": "Wed, 02 Sep 2026 17:00:13 -0400",
-    "summary": "Attackers are actively exploiting CVE-2026-9586, an unauthenticated SQL injection vulnerability in the Sangoma Switchvox VoIP platform that can lead to remote code execution. [...]",
-    "analysis": {
-      "issue": "Attackers are actively exploiting CVE-2026-9586, an unauthenticated SQL injection vulnerability in the Sangoma Switchvox VoIP platform that can lead to remote code execution",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-9586"
-      ],
       "threat_categories": [
         "Vulnerability"
       ]
@@ -516,10 +514,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56155",
         "CVE-2026-48561",
-        "CVE-2026-50661",
-        "CVE-2026-56164"
+        "CVE-2026-56164",
+        "CVE-2026-56155",
+        "CVE-2026-50661"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -691,12 +689,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20354",
-        "CVE-2026-20355",
-        "CVE-2026-20279",
         "CVE-2026-20274",
         "CVE-2026-20212",
-        "CVE-2026-20281"
+        "CVE-2026-20354",
+        "CVE-2026-20281",
+        "CVE-2026-20279",
+        "CVE-2026-20355"
       ],
       "threat_categories": [
         "Vulnerability"

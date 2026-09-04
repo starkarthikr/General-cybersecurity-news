@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-03 19:22:00 UTC
+**Last Updated:** 2026-09-04 03:56:01 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -94,7 +94,25 @@
 
 ---
 
-### 11. [HPE patches critical ArubaOS-CX remote code execution flaw](https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/)
+### 11. [French hospital fined €500,000 after breach exposes data of 727,000](https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 03 Sep 2026 18:01:37 -0400  
+**Severity:** Low  
+**Categories:** Data Breach  
+
+---
+
+### 12. [Coder's registry infrastructure compromised to push malicious modules](https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 03 Sep 2026 16:04:24 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 13. [HPE patches critical ArubaOS-CX remote code execution flaw](https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 03 Sep 2026 14:28:12 -0400  
@@ -104,7 +122,7 @@
 
 ---
 
-### 12. [Microsoft: KB5120998 mouse reset bug affects only non-English PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/)
+### 14. [Microsoft: KB5120998 mouse reset bug affects only non-English PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 03 Sep 2026 11:22:33 -0400  
@@ -113,7 +131,7 @@
 
 ---
 
-### 13. [OpenAI confirms ChatGPT is down ahead of 'Astra' model launch](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/)
+### 15. [OpenAI confirms ChatGPT is down ahead of 'Astra' model launch](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 03 Sep 2026 11:13:29 -0400  
@@ -122,7 +140,7 @@
 
 ---
 
-### 14. [Anthropic confirms Claude is down, multiple models affected](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/)
+### 16. [Anthropic confirms Claude is down, multiple models affected](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 03 Sep 2026 11:02:52 -0400  
@@ -131,7 +149,7 @@
 
 ---
 
-### 15. [Critical Elementor Pro flaw exploited to take over WordPress sites](https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/)
+### 17. [Critical Elementor Pro flaw exploited to take over WordPress sites](https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 03 Sep 2026 10:52:20 -0400  
@@ -141,7 +159,7 @@
 
 ---
 
-### 16. [Your Employee’s Password Appeared in an Infostealer Log. Now What?](https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/)
+### 18. [Your Employee’s Password Appeared in an Infostealer Log. Now What?](https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 03 Sep 2026 09:50:59 -0400  
@@ -150,7 +168,7 @@
 
 ---
 
-### 17. [Microsoft says KB5120998 Windows update resets desktop settings](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-kb5120998-windows-update-resets-desktop-settings/)
+### 19. [Microsoft says KB5120998 Windows update resets desktop settings](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-kb5120998-windows-update-resets-desktop-settings/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 03 Sep 2026 08:16:32 -0400  
@@ -159,30 +177,11 @@
 
 ---
 
-### 18. [Plex warns users to patch security vulnerabilities immediately](https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerabilities-immediately/)
+### 20. [Plex warns users to patch security vulnerabilities immediately](https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerabilities-immediately/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 03 Sep 2026 07:02:22 -0400  
 **Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 19. [Microsoft Teams, Outlook fail to launch on ARM-based Windows PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 03 Sep 2026 04:55:25 -0400  
-**Severity:** Low  
-**Categories:** APT  
-
----
-
-### 20. [Hackers exploit Sangoma Switchvox flaw to deploy reverse shells](https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 02 Sep 2026 17:00:13 -0400  
-**Severity:** Low  
-**CVEs:** CVE-2026-9586  
 **Categories:** Vulnerability  
 
 ---
@@ -256,7 +255,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56155, CVE-2026-48561, CVE-2026-50661, CVE-2026-56164  
+**CVEs:** CVE-2026-48561, CVE-2026-56164, CVE-2026-56155, CVE-2026-50661  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -339,7 +338,7 @@
 **Source:** Security Week  
 **Published:** Thu, 03 Sep 2026 10:30:00 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20354, CVE-2026-20355, CVE-2026-20279, CVE-2026-20274, CVE-2026-20212, CVE-2026-20281  
+**CVEs:** CVE-2026-20274, CVE-2026-20212, CVE-2026-20354, CVE-2026-20281, CVE-2026-20279, CVE-2026-20355  
 **Categories:** Vulnerability  
 
 ---
