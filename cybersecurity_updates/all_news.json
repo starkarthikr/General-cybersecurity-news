@@ -1,6 +1,78 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
+    "link": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html",
+    "published": "Fri, 04 Sep 2026 14:18:45 +0530",
+    "summary": "Threat actors are exploiting two critical security flaws in WordPress plugins Super Forms and Elementor Pro, according to findings from Wordfence.\n\nThe vulnerabilities in question are -\n\n\n  CVE-2026-14894 (CVSS score: 9.8) - A missing file type validation vulnerability in Super Forms – Drag &amp; Drop Form Builder that allows unauthenticated attackers to upload files of any type, including",
+    "analysis": {
+      "issue": "Attackers are exploiting Super Forms and Elementor Pro flaws to upload PHP files and execute code on WordPress sites",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws",
+    "link": "https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html",
+    "published": "Fri, 04 Sep 2026 13:05:14 +0530",
+    "summary": "Plex is urging users to update their instances to the latest version following the release of an update that patches multiple security flaws.\n\nThe fixes are available in Plex Media Server 1.43.3 and Plex Desktop 1.115.0. The streaming media service did not elaborate on what those issues are, but said CVE identifiers have been requested for them.\n\n\"We recommend all server owners and Desktop users",
+    "analysis": {
+      "issue": "Plex fixes multiple undisclosed flaws in Media Server 1",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day",
+    "link": "https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html",
+    "published": "Fri, 04 Sep 2026 12:48:47 +0530",
+    "summary": "Google on Thursday released security updates to patch 12 vulnerabilities, including one that has come under active exploitation in the wild.\n\nThe high-severity vulnerability, tracked as CVE-2026-85046 (CVSS score: 8.8), has been described as a type confusion bug in V8, Chrome's JavaScript and WebAssembly engine.\n\n\"Type confusion in V8 in Google Chrome prior to 152.0.7977.82 allowed a remote",
+    "analysis": {
+      "issue": "Google patched an actively exploited Chrome V8 flaw that enables arbitrary code execution inside the sandbox through a crafted HTML page",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests",
+    "link": "https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html",
+    "published": "Fri, 04 Sep 2026 12:17:52 +0530",
+    "summary": "OpenAI on Thursday officially unveiled GPT‑6 Astra, which it described as the \"world's most intelligent and aligned model.\"\n\nThe development comes days after the artificial intelligence (AI) company said the model had reached the \"Critical\" cybersecurity capability threshold under its Preparedness Framework.\n\n\"Astra is state-of-the-art on computer use, browsing, software engineering,",
+    "analysis": {
+      "issue": "OpenAI limits GPT-6 Astra to code review and patching after tests showed exploit development capabilities, including two zero-days",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
     "link": "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html",
     "published": "Thu, 03 Sep 2026 23:32:47 +0530",
@@ -109,13 +181,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means",
-    "link": "https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html",
-    "published": "Thu, 03 Sep 2026 16:06:39 +0530",
-    "summary": "In early August, GitGuardian researchers found that a recent Shai-Hulud infostealer worm variant had evolved to scan for credentials across 469 locations across developer environments, Continuous Integration/Continuous Deployment (CI/CD) tooling, cloud configurations, and even AI tool configs.\n\nEarlier variants of the infostealer worm only checked 189 paths. The jump says a lot. Attackers have",
+    "source": "Bleeping Computer",
+    "title": "Exchange Online outage causes email delays, 'Server busy' errors",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/",
+    "published": "Fri, 04 Sep 2026 08:22:30 -0400",
+    "summary": "Microsoft is working to resolve an ongoing Exchange Online outage that is delaying email sent to and received from external domains. [...]",
     "analysis": {
-      "issue": "Shai-Hulud now scans 469 locations for credentials across developer environments, CI/CD tooling, cloud configs, and AI tool configs",
+      "issue": "Microsoft is working to resolve an ongoing Exchange Online outage that is delaying email sent to and received from external domains",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -127,54 +199,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone",
-    "link": "https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html",
-    "published": "Thu, 03 Sep 2026 14:13:17 +0530",
-    "summary": "The iPhone belonging to a member of Serbia's student protest movement was infected with NSO Group's Pegasus spyware, according to new findings from the Citizen Lab in collaboration with the SHARE Foundation.\n\n\"Our analysis confirmed that an iMessage zero-click exploit was used to infect the device with NSO Group's Pegasus spyware,\" the Citizen Lab said. \"We found high-confidence indicators of",
+    "source": "Bleeping Computer",
+    "title": "Google warns of new Chrome zero-day flaw exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/",
+    "published": "Fri, 04 Sep 2026 07:48:17 -0400",
+    "summary": "Google has updated the Chrome browser to address an actively exploited high-severity zero-day flaw in the V8 engine and 11 other vulnerabilities. [...]",
     "analysis": {
-      "issue": "An iMessage zero-click exploit infected a Serbian student movement member's iPhone with Pegasus spyware in December 2025 and January 2026",
+      "issue": "Google has updated the Chrome browser to address an actively exploited high-severity zero-day flaw in the V8 engine and 11 other vulnerabilities",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon",
-    "link": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
-    "published": "Thu, 03 Sep 2026 11:56:59 +0530",
-    "summary": "The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a proof-of-concept (PoC) for a privilege escalation flaw impacting Crowdstrike Falcon.\n\n\"FalconFlank is a 0-day privilege escalation that abuses the office malicious macros remediation in CrowdStrike Falcon Sensor,\" the researcher said in",
-    "analysis": {
-      "issue": "FalconFlank abuses CrowdStrike Falcon's malicious macro remediation to demonstrate local privilege escalation on updated Windows systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
-    "link": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
-    "published": "Thu, 03 Sep 2026 10:49:04 +0530",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added seven security flaws to its Known Exploited Vulnerabilities (KEV) catalog after they landed in attackers' crosshairs.\n\nThe vulnerabilities are as follows -\n\n\n  CVE-2026-83548 (CVSS score: 10.0) - A server-side request forgery vulnerability in SonicWall SMA 1000 Appliances that could allow a remote unauthenticated",
-    "analysis": {
-      "issue": "CISA adds seven exploited flaws affecting SonicWall, Artifactory, Switchvox, Starlette, Kestra, and LiteLLM to its KEV catalog",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-85046"
+      ],
       "threat_categories": [
         "Vulnerability"
       ]
@@ -331,42 +369,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Microsoft says KB5120998 Windows update resets desktop settings",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-kb5120998-windows-update-resets-desktop-settings/",
-    "published": "Thu, 03 Sep 2026 08:16:32 -0400",
-    "summary": "Microsoft has confirmed that desktop settings are lost or reset on some Windows devices after installing the KB5120998 August 2026 preview update. [...]",
-    "analysis": {
-      "issue": "Microsoft has confirmed that desktop settings are lost or reset on some Windows devices after installing the KB5120998 August 2026 preview update",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Plex warns users to patch security vulnerabilities immediately",
-    "link": "https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerabilities-immediately/",
-    "published": "Thu, 03 Sep 2026 07:02:22 -0400",
-    "summary": "Plex urged users this week to update their desktop clients and media servers immediately to patch multiple security vulnerabilities. [...]",
-    "analysis": {
-      "issue": "Plex urged users this week to update their desktop clients and media servers immediately to patch multiple security vulnerabilities",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
     "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
@@ -515,9 +517,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-56155",
-        "CVE-2026-48561",
+        "CVE-2026-50661",
         "CVE-2026-56164",
-        "CVE-2026-50661"
+        "CVE-2026-48561"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -559,6 +561,110 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover",
+    "link": "https://www.securityweek.com/12-year-old-postgresql-vulnerability-enables-database-server-takeover/",
+    "published": "Fri, 04 Sep 2026 12:06:13 +0000",
+    "summary": "<p>Dubbed PostGREShell, CVE-2026-6471 turns low-level replication access into code execution, permanent superuser privileges and a persistent database backdoor.</p>\n<p>The post <a href=\"https://www.securityweek.com/12-year-old-postgresql-vulnerability-enables-database-server-takeover/\">12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Dubbed PostGREShell, CVE-2026-6471 turns low-level replication access into code execution, permanent superuser privileges and a persistent database backdoor",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-6471"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Catch Raises $5 Million for AI Executive Assistant With Guardrails",
+    "link": "https://www.securityweek.com/catch-raises-5-million-for-ai-executive-assistant-with-guardrails/",
+    "published": "Fri, 04 Sep 2026 11:55:17 +0000",
+    "summary": "<p>Catch promises the capabilities of a trusted executive assistant, with built-in controls governing what data and systems it can access.</p>\n<p>The post <a href=\"https://www.securityweek.com/catch-raises-5-million-for-ai-executive-assistant-with-guardrails/\">Catch Raises $5 Million for AI Executive Assistant With Guardrails</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Catch promises the capabilities of a trusted executive assistant, with built-in controls governing what data and systems it can access",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "VMware Workstation and Fusion Updates Patch Critical Vulnerability",
+    "link": "https://www.securityweek.com/vmware-workstation-and-fusion-updates-patch-critical-vulnerability/",
+    "published": "Fri, 04 Sep 2026 11:42:55 +0000",
+    "summary": "<p>The flaws could allow attackers with administrative access to a virtual machine to execute code on the host system.</p>\n<p>The post <a href=\"https://www.securityweek.com/vmware-workstation-and-fusion-updates-patch-critical-vulnerability/\">VMware Workstation and Fusion Updates Patch Critical Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The flaws could allow attackers with administrative access to a virtual machine to execute code on the host system",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-59347",
+        "CVE-2026-59346"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Google Patches 6th Chrome Zero-Day of 2026",
+    "link": "https://www.securityweek.com/google-patches-6th-chrome-zero-day-of-2026/",
+    "published": "Fri, 04 Sep 2026 11:31:52 +0000",
+    "summary": "<p>Google’s Chrome 152 security update resolves 12 vulnerabilities, including a high-severity type confusion flaw in the V8 engine.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-patches-6th-chrome-zero-day-of-2026/\">Google Patches 6th Chrome Zero-Day of 2026</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Google’s Chrome 152 security update resolves 12 vulnerabilities, including a high-severity type confusion flaw in the V8 engine",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-3909",
+        "CVE-2026-3910",
+        "CVE-2026-11645",
+        "CVE-2026-85046",
+        "CVE-2026-2441",
+        "CVE-2026-5281"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Nvidia Is Buying AI Platform Hugging Face for $13 Billion",
+    "link": "https://www.securityweek.com/nvidia-is-buying-ai-platform-hugging-face-for-13-billion/",
+    "published": "Fri, 04 Sep 2026 10:00:00 +0000",
+    "summary": "<p>The deal highlights Nvidia’s push to champion increasingly popular open-source AI models.</p>\n<p>The post <a href=\"https://www.securityweek.com/nvidia-is-buying-ai-platform-hugging-face-for-13-billion/\">Nvidia Is Buying AI Platform Hugging Face for $13 Billion</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The deal highlights Nvidia’s push to champion increasingly popular open-source AI models",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -653,111 +759,6 @@
       "threat_categories": [
         "Ransomware",
         "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability",
-    "link": "https://www.securityweek.com/over-3-million-wordpress-sites-affected-by-migration-plugin-vulnerability/",
-    "published": "Thu, 03 Sep 2026 10:40:00 +0000",
-    "summary": "<p>The high-severity SQL injection flaw (CVE-2026-19949) could allow unauthenticated attackers to achieve remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/over-3-million-wordpress-sites-affected-by-migration-plugin-vulnerability/\">Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The high-severity SQL injection flaw (CVE-2026-19949) could allow unauthenticated attackers to achieve remote code execution",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-19949"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Cisco Warns of Unpatched Secure Email Flaws, Patches Critical Switch Vulnerabilities",
-    "link": "https://www.securityweek.com/cisco-warns-of-unpatched-secure-email-flaws-patches-critical-switch-vulnerabilities/",
-    "published": "Thu, 03 Sep 2026 10:30:00 +0000",
-    "summary": "<p>Publicly disclosed S/MIME flaws could expose encrypted email content, while critical IOS XR and Nexus bugs could enable remote code execution and authentication bypass.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-warns-of-unpatched-secure-email-flaws-patches-critical-switch-vulnerabilities/\">Cisco Warns of Unpatched Secure Email Flaws, Patches Critical Switch Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Publicly disclosed S/MIME flaws could expose encrypted email content, while critical IOS XR and Nexus bugs could enable remote code execution and authentication bypass",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-20279",
-        "CVE-2026-20281",
-        "CVE-2026-20274",
-        "CVE-2026-20354",
-        "CVE-2026-20355",
-        "CVE-2026-20212"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "OpenLeash Adds a Human Check to Risky AI Agent Actions",
-    "link": "https://www.securityweek.com/openleash-adds-a-human-check-to-risky-ai-agent-actions/",
-    "published": "Wed, 02 Sep 2026 19:30:00 +0000",
-    "summary": "<p>The security tool intercepts potentially dangerous agent actions, blocking clear threats and requesting human approval when intent is uncertain.</p>\n<p>The post <a href=\"https://www.securityweek.com/openleash-adds-a-human-check-to-risky-ai-agent-actions/\">OpenLeash Adds a Human Check to Risky AI Agent Actions</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The security tool intercepts potentially dangerous agent actions, blocking clear threats and requesting human approval when intent is uncertain",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "UK Moves to Block High-Risk Tech Suppliers From Critical Infrastructure",
-    "link": "https://www.securityweek.com/uk-moves-to-block-high-risk-tech-suppliers-from-critical-infrastructure/",
-    "published": "Wed, 02 Sep 2026 15:45:08 +0000",
-    "summary": "<p>Late amendments to the Cyber Security and Resilience Bill would give ministers new powers to restrict risky technology providers as supply chain attacks intensify.</p>\n<p>The post <a href=\"https://www.securityweek.com/uk-moves-to-block-high-risk-tech-suppliers-from-critical-infrastructure/\">UK Moves to Block High-Risk Tech Suppliers From Critical Infrastructure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Late amendments to the Cyber Security and Resilience Bill would give ministers new powers to restrict risky technology providers as supply chain attacks intensify",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Rockwell Automation Patches Over a Dozen Vulnerabilities Across Products",
-    "link": "https://www.securityweek.com/rockwell-automation-patches-over-a-dozen-vulnerabilities-across-products/",
-    "published": "Wed, 02 Sep 2026 12:39:07 +0000",
-    "summary": "<p>The industrial giant has released advisories for its RSLinx Classic, ArmorStart, ControlFLASH, FactoryTalk, and other products.</p>\n<p>The post <a href=\"https://www.securityweek.com/rockwell-automation-patches-over-a-dozen-vulnerabilities-across-products/\">Rockwell Automation Patches Over a Dozen Vulnerabilities Across Products</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The industrial giant has released advisories for its RSLinx Classic, ArmorStart, ControlFLASH, FactoryTalk, and other products",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-9637"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Supply Chain"
       ]
     }
   },
@@ -1325,6 +1326,42 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "X Money rollout linked to password-reset attacks",
+    "link": "https://www.malwarebytes.com/blog/scams/2026/09/x-money-rollout-linked-to-password-reset-attacks",
+    "published": "Fri, 04 Sep 2026 12:29:41 GMT",
+    "summary": "As X expands into payments, users are receiving password-reset emails they didn’t request. Here’s what may be happening and how to stay safe.",
+    "analysis": {
+      "issue": "X says attackers may be targeting accounts because its X Money payments service is now more widely available",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Free streaming boxes may be routing criminal traffic through your home",
+    "link": "https://www.malwarebytes.com/blog/news/2026/09/free-streaming-boxes-may-be-routing-criminal-traffic-through-your-home",
+    "published": "Fri, 04 Sep 2026 09:20:48 GMT",
+    "summary": "Researchers found that apps available on SuperBox devices could add your household connection to a residential proxy network.",
+    "analysis": {
+      "issue": "“Free” movies and TV could cost you your privacy, bandwidth, and control of your home network",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "StreamRat Android malware spreads through Meta and TikTok ads",
     "link": "https://www.malwarebytes.com/blog/news/2026/09/streamrat-android-malware-spreads-through-meta-and-tiktok-ads",
     "published": "Thu, 03 Sep 2026 16:04:24 GMT",
@@ -1405,13 +1442,13 @@
     "published": "Wed, 02 Sep 2026 11:15:56 GMT",
     "summary": "Update Chrome now: Two critical vulnerabilities could allow a malicious website to run code on your device.",
     "analysis": {
-      "issue": "Chrome is rolling out an update for its desktop browser",
+      "issue": "Shortly after this article was published, Google released another Chrome update that patches an actively exploited flaw in the V8 JavaScript engine, tracked as CVE-2026-85046",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-84353"
+        "CVE-2026-85046"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1469,43 +1506,6 @@
       "cves": [],
       "threat_categories": [
         "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "TerminalFix looks like ClickFix, but delivers a very different payload",
-    "link": "https://www.malwarebytes.com/blog/news/2026/09/terminalfix-looks-like-clickfix-but-delivers-a-very-different-payload",
-    "published": "Tue, 01 Sep 2026 12:13:18 GMT",
-    "summary": "The familiar ClickFix fake CAPTCHA trick has been adapted to deliver a payload that can give attackers access to the victim’s wider network.",
-    "analysis": {
-      "issue": "Microsoft has published details about a Windows malware campaign it calls TerminalFix",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Infostealers are hijacking Claude accounts at users’ expense",
-    "link": "https://www.malwarebytes.com/blog/news/2026/09/infostealers-are-hijacking-claude-accounts-at-users-expense",
-    "published": "Tue, 01 Sep 2026 10:08:28 GMT",
-    "summary": "Anthropic has warned that infostealers are stealing Claude session cookies to access users’ accounts and consume usage at their expense.",
-    "analysis": {
-      "issue": "Anthropic has warned some Claude users that criminals are using information stealers to take over their accounts",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
