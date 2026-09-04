@@ -184,6 +184,24 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "IDScan sued over alleged data breach affecting 153 million drivers",
+    "link": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/",
+    "published": "Fri, 04 Sep 2026 12:56:45 -0400",
+    "summary": "Multiple lawsuits have been filed against identity verification company IDScan after hackers allegedly breached the service and offered to sell more than 153 million driver's licenses. [...]",
+    "analysis": {
+      "issue": "Multiple lawsuits have been filed against identity verification company IDScan after hackers allegedly breached the service and offered to sell more than 153 million driver’s licenses",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/",
     "published": "Fri, 04 Sep 2026 11:25:59 -0400",
@@ -354,24 +372,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Microsoft: KB5120998 mouse reset bug affects only non-English PCs",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/",
-    "published": "Thu, 03 Sep 2026 11:22:33 -0400",
-    "summary": "Microsoft says a known issue that reverts mouse settings after installing the KB5120998 August 2026 preview update affects only non-English Windows 11 systems. [...]",
-    "analysis": {
-      "issue": "Microsoft says a known issue that reverts mouse settings after installing the KB5120998 August 2026 preview update affects only non-English Windows 11 systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
     "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
@@ -440,9 +440,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-72971",
+        "CVE-2026-68820",
         "CVE-2026-62832",
-        "CVE-2026-68820"
+        "CVE-2026-72971"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -520,8 +520,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-56164",
-        "CVE-2026-48561",
         "CVE-2026-56155",
+        "CVE-2026-48561",
         "CVE-2026-50661"
       ],
       "threat_categories": [
@@ -569,6 +569,67 @@
   },
   {
     "source": "Security Week",
+    "title": "In Other News: Microsoft’s Cloud Patches, Hacked Dropbox Accounts, Guardio’s $1.1B Valuation",
+    "link": "https://www.securityweek.com/in-other-news-microsofts-cloud-patches-hacked-dropbox-accounts-guardios-1-1b-valuation/",
+    "published": "Fri, 04 Sep 2026 16:18:30 +0000",
+    "summary": "<p>Noteworthy stories that might have slipped under the radar: Microsoft rolled out patches for cloud services, hackers compromised 5,000 Dropbox accounts, and Guardio is now valued at $1.1 billion. </p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-microsofts-cloud-patches-hacked-dropbox-accounts-guardios-1-1b-valuation/\">In Other News: Microsoft’s Cloud Patches, Hacked Dropbox Accounts, Guardio’s $1.1B Valuation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Noteworthy stories that might have slipped under the radar: Microsoft rolled out patches for cloud services, hackers compromised 5,000 Dropbox accounts, and Guardio is now valued at $1",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2026-62911"
+      ],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "HPE Patches Critical RCE Vulnerabilities in AOS-CX",
+    "link": "https://www.securityweek.com/hpe-patches-critical-rce-vulnerabilities-in-aos-cx/",
+    "published": "Fri, 04 Sep 2026 16:11:06 +0000",
+    "summary": "<p>Nearly two dozen issues, tracked collectively as CVE-2026-73749 (CVSS score of 9.8), were addressed with the updates.</p>\n<p>The post <a href=\"https://www.securityweek.com/hpe-patches-critical-rce-vulnerabilities-in-aos-cx/\">HPE Patches Critical RCE Vulnerabilities in AOS-CX</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Nearly two dozen issues, tracked collectively as CVE-2026-73749 (CVSS score of 9",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-73749"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "OpenAI Pledges $1 Billion to Bring Frontier AI to Critical Infrastructure Defenders",
+    "link": "https://www.securityweek.com/openai-pledges-1-billion-to-bring-frontier-ai-to-critical-infrastructure-defenders/",
+    "published": "Fri, 04 Sep 2026 16:07:22 +0000",
+    "summary": "<p>The Daybreak initiative will provide subsidized AI cyber capabilities, training and technical assistance, though OpenAI has disclosed few details about costs and eligibility.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-pledges-1-billion-to-bring-frontier-ai-to-critical-infrastructure-defenders/\">OpenAI Pledges $1 Billion to Bring Frontier AI to Critical Infrastructure Defenders</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The Daybreak initiative will provide subsidized AI cyber capabilities, training and technical assistance, though OpenAI has disclosed few details about costs and eligibility",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Sangoma Switchvox Vulnerabilities Exploited in the Wild",
     "link": "https://www.securityweek.com/sangoma-switchvox-vulnerabilities-exploited-in-the-wild/",
     "published": "Fri, 04 Sep 2026 13:23:12 +0000",
@@ -580,10 +641,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-59822",
-        "CVE-2026-48710",
+        "CVE-2026-9586",
         "CVE-2026-49869",
-        "CVE-2026-9586"
+        "CVE-2026-48710",
+        "CVE-2026-59822"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -665,11 +726,11 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-85046",
-        "CVE-2026-3910",
-        "CVE-2026-3909",
-        "CVE-2026-5281",
+        "CVE-2026-2441",
         "CVE-2026-11645",
-        "CVE-2026-2441"
+        "CVE-2026-5281",
+        "CVE-2026-3909",
+        "CVE-2026-3910"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -710,62 +771,6 @@
       "threat_categories": [
         "Ransomware",
         "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Capsule Security Launches ‘AI Circuit Breaker’ to Stop Rogue Agents",
-    "link": "https://www.securityweek.com/capsule-security-launches-ai-circuit-breaker-to-stop-rogue-agents/",
-    "published": "Thu, 03 Sep 2026 15:15:00 +0000",
-    "summary": "<p>New models, trained using NVIDIA Nemotron 3 Ultra, aim to catch rogue agent behavior before it executes, without the latency of large-model review.</p>\n<p>The post <a href=\"https://www.securityweek.com/capsule-security-launches-ai-circuit-breaker-to-stop-rogue-agents/\">Capsule Security Launches &#8216;AI Circuit Breaker&#8217; to Stop Rogue Agents</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "New models, trained using NVIDIA Nemotron 3 Ultra, aim to catch rogue agent behavior before it executes, without the latency of large-model review",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "HiddenLayer Raises $100 Million for AI Runtime Security",
-    "link": "https://www.securityweek.com/hiddenlayer-raises-100-million-for-ai-runtime-security/",
-    "published": "Thu, 03 Sep 2026 12:17:30 +0000",
-    "summary": "<p>The Austin-based company will invest in agentic runtime security capabilities to secure AI coding agents.</p>\n<p>The post <a href=\"https://www.securityweek.com/hiddenlayer-raises-100-million-for-ai-runtime-security/\">HiddenLayer Raises $100 Million for AI Runtime Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The Austin-based company will invest in agentic runtime security capabilities to secure AI coding agents",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "AI Agent Firewall Startup AIR Security Emerges From Stealth With $50 Million",
-    "link": "https://www.securityweek.com/ai-agent-firewall-startup-air-security-emerges-from-stealth-with-50-million/",
-    "published": "Thu, 03 Sep 2026 12:00:00 +0000",
-    "summary": "<p>The startup’s firewall evaluates AI skills, plugins and MCP servers for malicious instructions, excessive permissions and software supply chain risks.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-agent-firewall-startup-air-security-emerges-from-stealth-with-50-million/\">AI Agent Firewall Startup AIR Security Emerges From Stealth With $50 Million</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The startup’s firewall evaluates AI skills, plugins and MCP servers for malicious instructions, excessive permissions and software supply chain risks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
       ]
     }
   },
@@ -1333,6 +1338,26 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "The hidden work of modernizing Malwarebytes",
+    "link": "https://www.malwarebytes.com/blog/inside-malwarebytes/2026/09/the-hidden-work-of-modernizing-malwarebytes",
+    "published": "Fri, 04 Sep 2026 17:15:42 GMT",
+    "summary": "Why disciplined dependency modernization is one of the highest-leverage engineering investments a security product can make.",
+    "analysis": {
+      "issue": "Most of the work that keeps a security product trustworthy is invisible",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "APT",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "X Money rollout linked to password-reset attacks",
     "link": "https://www.malwarebytes.com/blog/scams/2026/09/x-money-rollout-linked-to-password-reset-attacks",
     "published": "Fri, 04 Sep 2026 12:29:41 GMT",
@@ -1495,24 +1520,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Fake GTA 6 leaked copy drains your crypto wallet",
-    "link": "https://www.malwarebytes.com/blog/scams/2026/09/fake-gta-6-leaked-copy-drains-your-crypto-wallet",
-    "published": "Tue, 01 Sep 2026 16:07:14 GMT",
-    "summary": "A fake GTA 6 leak is using wallet-draining code to steal cryptocurrency, tokens, and NFTs from eager fans.",
-    "analysis": {
-      "issue": "We’ve seen scam sites built around Grand Theft Auto VI (GTA 6) targeting visitors in three different ways this year",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
       ]
     }
   },
