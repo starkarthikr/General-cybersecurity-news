@@ -149,7 +149,7 @@
     "title": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon",
     "link": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
     "published": "Thu, 03 Sep 2026 11:56:59 +0530",
-    "summary": "The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a privilege escalation flaw impacting Crowdstrike Falcon.\n\n\"FalconFlank is a 0day privilege escalation that abuses the office malicious macros remediation in CrowdStrike Falcon Sensor,\" the researcher said in a GitHub README file, adding",
+    "summary": "The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a proof-of-concept (PoC) for a privilege escalation flaw impacting Crowdstrike Falcon.\n\n\"FalconFlank is a 0-day privilege escalation that abuses the office malicious macros remediation in CrowdStrike Falcon Sensor,\" the researcher said in",
     "analysis": {
       "issue": "FalconFlank abuses CrowdStrike Falcon's malicious macro remediation to demonstrate local privilege escalation on updated Windows systems",
       "solution": null,
@@ -436,8 +436,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-72971",
-        "CVE-2026-68820",
-        "CVE-2026-62832"
+        "CVE-2026-62832",
+        "CVE-2026-68820"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -514,9 +514,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-56155",
         "CVE-2026-48561",
         "CVE-2026-56164",
-        "CVE-2026-56155",
         "CVE-2026-50661"
       ],
       "threat_categories": [
@@ -689,12 +689,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20274",
-        "CVE-2026-20212",
-        "CVE-2026-20354",
-        "CVE-2026-20281",
         "CVE-2026-20279",
-        "CVE-2026-20355"
+        "CVE-2026-20281",
+        "CVE-2026-20274",
+        "CVE-2026-20354",
+        "CVE-2026-20355",
+        "CVE-2026-20212"
       ],
       "threat_categories": [
         "Vulnerability"
