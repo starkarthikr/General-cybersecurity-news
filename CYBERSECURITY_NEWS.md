@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-05 03:53:22 UTC
+**Last Updated:** 2026-09-05 04:50:01 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -220,7 +220,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-72971, CVE-2026-62832, CVE-2026-68820  
+**CVEs:** CVE-2026-62832, CVE-2026-72971, CVE-2026-68820  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -257,7 +257,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48561, CVE-2026-56164, CVE-2026-50661, CVE-2026-56155  
+**CVEs:** CVE-2026-48561, CVE-2026-50661, CVE-2026-56164, CVE-2026-56155  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -314,7 +314,7 @@
 **Source:** Security Week  
 **Published:** Fri, 04 Sep 2026 13:23:12 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-49869, CVE-2026-59822, CVE-2026-9586, CVE-2026-48710  
+**CVEs:** CVE-2026-49869, CVE-2026-59822, CVE-2026-48710, CVE-2026-9586  
 **Categories:** Vulnerability  
 
 ---
@@ -343,7 +343,7 @@
 **Source:** Security Week  
 **Published:** Fri, 04 Sep 2026 11:42:55 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-59346, CVE-2026-59347  
+**CVEs:** CVE-2026-59347, CVE-2026-59346  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -353,7 +353,7 @@
 **Source:** Security Week  
 **Published:** Fri, 04 Sep 2026 11:31:52 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-3910, CVE-2026-85046, CVE-2026-3909, CVE-2026-2441, CVE-2026-11645, CVE-2026-5281  
+**CVEs:** CVE-2026-3909, CVE-2026-3910, CVE-2026-85046, CVE-2026-11645, CVE-2026-5281, CVE-2026-2441  
 **Categories:** Vulnerability  
 
 ---
