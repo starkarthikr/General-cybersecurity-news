@@ -1,10 +1,38 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-05 14:55:53 UTC
+**Last Updated:** 2026-09-05 18:30:29 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel](https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html)
+### 1. [Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials](https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 05 Sep 2026 22:22:33 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-63077  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code](https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 05 Sep 2026 21:35:08 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted](https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 05 Sep 2026 19:47:02 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 4. [Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel](https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 05 Sep 2026 13:25:10 +0530  
@@ -13,7 +41,7 @@
 
 ---
 
-### 2. [Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities](https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html)
+### 5. [Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities](https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 05 Sep 2026 13:01:53 +0530  
@@ -22,7 +50,7 @@
 
 ---
 
-### 3. [Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters](https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html)
+### 6. [Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters](https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 04 Sep 2026 21:27:15 +0530  
@@ -31,7 +59,7 @@
 
 ---
 
-### 4. [PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution](https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html)
+### 7. [PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution](https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 04 Sep 2026 20:50:19 +0530  
@@ -41,7 +69,7 @@
 
 ---
 
-### 5. [New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic](https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html)
+### 8. [New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic](https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 04 Sep 2026 20:21:13 +0530  
@@ -50,7 +78,7 @@
 
 ---
 
-### 6. [Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws](https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html)
+### 9. [Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws](https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 04 Sep 2026 14:18:45 +0530  
@@ -59,39 +87,12 @@
 
 ---
 
-### 7. [Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws](https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html)
+### 10. [Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws](https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 04 Sep 2026 13:05:14 +0530  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 8. [Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day](https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 04 Sep 2026 12:48:47 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 9. [GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests](https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 04 Sep 2026 12:17:52 +0530  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 10. [ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories](https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 03 Sep 2026 23:32:47 +0530  
-**Severity:** Low  
-**Categories:** Ransomware, Phishing  
 
 ---
 
@@ -256,7 +257,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56155, CVE-2026-56164, CVE-2026-50661, CVE-2026-48561  
+**CVEs:** CVE-2026-50661, CVE-2026-56155, CVE-2026-48561, CVE-2026-56164  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -323,7 +324,7 @@
 **Source:** Security Week  
 **Published:** Fri, 04 Sep 2026 13:23:12 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-49869, CVE-2026-59822, CVE-2026-9586, CVE-2026-48710  
+**CVEs:** CVE-2026-9586, CVE-2026-49869, CVE-2026-48710, CVE-2026-59822  
 **Categories:** Vulnerability  
 
 ---
@@ -352,7 +353,7 @@
 **Source:** Security Week  
 **Published:** Fri, 04 Sep 2026 11:42:55 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-59346, CVE-2026-59347  
+**CVEs:** CVE-2026-59347, CVE-2026-59346  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -362,7 +363,7 @@
 **Source:** Security Week  
 **Published:** Fri, 04 Sep 2026 11:31:52 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-2441, CVE-2026-85046, CVE-2026-5281, CVE-2026-3910, CVE-2026-11645, CVE-2026-3909  
+**CVEs:** CVE-2026-3909, CVE-2026-3910, CVE-2026-11645, CVE-2026-2441, CVE-2026-85046, CVE-2026-5281  
 **Categories:** Vulnerability  
 
 ---
@@ -636,7 +637,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
