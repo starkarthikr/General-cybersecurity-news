@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-05 11:55:48 UTC
+**Last Updated:** 2026-09-05 14:55:53 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,16 @@
 
 ---
 
-### 11. [OpenAI admits it didn't disclose rogue AI wiki hijacking incident](https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/)
+### 11. [Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain](https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/)
+
+**Source:** Bleeping Computer  
+**Published:** Sat, 05 Sep 2026 10:29:13 -0400  
+**Severity:** Low  
+**Categories:** APT  
+
+---
+
+### 12. [OpenAI admits it didn't disclose rogue AI wiki hijacking incident](https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 05 Sep 2026 07:11:50 -0400  
@@ -104,7 +113,7 @@
 
 ---
 
-### 12. [IDScan sued over alleged data breach affecting 153 million drivers](https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/)
+### 13. [IDScan sued over alleged data breach affecting 153 million drivers](https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 04 Sep 2026 12:56:45 -0400  
@@ -113,7 +122,7 @@
 
 ---
 
-### 13. [Critical Citrix NetScaler auth bypass now leveraged in attacks](https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/)
+### 14. [Critical Citrix NetScaler auth bypass now leveraged in attacks](https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 04 Sep 2026 11:25:59 -0400  
@@ -123,7 +132,7 @@
 
 ---
 
-### 14. [Microsoft says some users can’t open the Teams desktop client](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/)
+### 15. [Microsoft says some users can’t open the Teams desktop client](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 04 Sep 2026 10:30:15 -0400  
@@ -132,7 +141,7 @@
 
 ---
 
-### 15. [39 New Methods That Compromise Passkey Authentication](https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/)
+### 16. [39 New Methods That Compromise Passkey Authentication](https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 04 Sep 2026 10:01:11 -0400  
@@ -141,7 +150,7 @@
 
 ---
 
-### 16. [New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges](https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/)
+### 17. [New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges](https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 04 Sep 2026 09:22:01 -0400  
@@ -150,7 +159,7 @@
 
 ---
 
-### 17. [Exchange Online outage causes email delays, 'Server busy' errors](https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/)
+### 18. [Exchange Online outage causes email delays, 'Server busy' errors](https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 04 Sep 2026 08:22:30 -0400  
@@ -159,7 +168,7 @@
 
 ---
 
-### 18. [Google warns of new Chrome zero-day flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/)
+### 19. [Google warns of new Chrome zero-day flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 04 Sep 2026 07:48:17 -0400  
@@ -169,21 +178,12 @@
 
 ---
 
-### 19. [French hospital fined €500,000 after breach exposes data of 727,000](https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/)
+### 20. [French hospital fined €500,000 after breach exposes data of 727,000](https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 03 Sep 2026 18:01:37 -0400  
 **Severity:** Low  
 **Categories:** Data Breach  
-
----
-
-### 20. [Coder's registry infrastructure compromised to push malicious modules](https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 03 Sep 2026 16:04:24 -0400  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -219,7 +219,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-68820, CVE-2026-72971, CVE-2026-62832  
+**CVEs:** CVE-2026-62832, CVE-2026-72971, CVE-2026-68820  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -256,7 +256,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56155, CVE-2026-56164, CVE-2026-48561, CVE-2026-50661  
+**CVEs:** CVE-2026-56155, CVE-2026-56164, CVE-2026-50661, CVE-2026-48561  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -279,7 +279,17 @@
 
 ---
 
-### 31. [In Other News: Microsoft’s Cloud Patches, Hacked Dropbox Accounts, Guardio’s $1.1B Valuation](https://www.securityweek.com/in-other-news-microsofts-cloud-patches-hacked-dropbox-accounts-guardios-1-1b-valuation/)
+### 31. [Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites](https://www.securityweek.com/elementor-pro-wordpress-plugin-vulnerability-exploited-to-hack-sites/)
+
+**Source:** Security Week  
+**Published:** Sat, 05 Sep 2026 13:00:28 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-32475  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 32. [In Other News: Microsoft’s Cloud Patches, Hacked Dropbox Accounts, Guardio’s $1.1B Valuation](https://www.securityweek.com/in-other-news-microsofts-cloud-patches-hacked-dropbox-accounts-guardios-1-1b-valuation/)
 
 **Source:** Security Week  
 **Published:** Fri, 04 Sep 2026 16:18:30 +0000  
@@ -289,7 +299,7 @@
 
 ---
 
-### 32. [HPE Patches Critical RCE Vulnerabilities in AOS-CX](https://www.securityweek.com/hpe-patches-critical-rce-vulnerabilities-in-aos-cx/)
+### 33. [HPE Patches Critical RCE Vulnerabilities in AOS-CX](https://www.securityweek.com/hpe-patches-critical-rce-vulnerabilities-in-aos-cx/)
 
 **Source:** Security Week  
 **Published:** Fri, 04 Sep 2026 16:11:06 +0000  
@@ -299,7 +309,7 @@
 
 ---
 
-### 33. [OpenAI Pledges $1 Billion to Bring Frontier AI to Critical Infrastructure Defenders](https://www.securityweek.com/openai-pledges-1-billion-to-bring-frontier-ai-to-critical-infrastructure-defenders/)
+### 34. [OpenAI Pledges $1 Billion to Bring Frontier AI to Critical Infrastructure Defenders](https://www.securityweek.com/openai-pledges-1-billion-to-bring-frontier-ai-to-critical-infrastructure-defenders/)
 
 **Source:** Security Week  
 **Published:** Fri, 04 Sep 2026 16:07:22 +0000  
@@ -308,17 +318,17 @@
 
 ---
 
-### 34. [Sangoma Switchvox Vulnerabilities Exploited in the Wild](https://www.securityweek.com/sangoma-switchvox-vulnerabilities-exploited-in-the-wild/)
+### 35. [Sangoma Switchvox Vulnerabilities Exploited in the Wild](https://www.securityweek.com/sangoma-switchvox-vulnerabilities-exploited-in-the-wild/)
 
 **Source:** Security Week  
 **Published:** Fri, 04 Sep 2026 13:23:12 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-59822, CVE-2026-48710, CVE-2026-49869, CVE-2026-9586  
+**CVEs:** CVE-2026-49869, CVE-2026-59822, CVE-2026-9586, CVE-2026-48710  
 **Categories:** Vulnerability  
 
 ---
 
-### 35. [12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover](https://www.securityweek.com/12-year-old-postgresql-vulnerability-enables-database-server-takeover/)
+### 36. [12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover](https://www.securityweek.com/12-year-old-postgresql-vulnerability-enables-database-server-takeover/)
 
 **Source:** Security Week  
 **Published:** Fri, 04 Sep 2026 12:06:13 +0000  
@@ -328,7 +338,7 @@
 
 ---
 
-### 36. [Catch Raises $5 Million for AI Executive Assistant With Guardrails](https://www.securityweek.com/catch-raises-5-million-for-ai-executive-assistant-with-guardrails/)
+### 37. [Catch Raises $5 Million for AI Executive Assistant With Guardrails](https://www.securityweek.com/catch-raises-5-million-for-ai-executive-assistant-with-guardrails/)
 
 **Source:** Security Week  
 **Published:** Fri, 04 Sep 2026 11:55:17 +0000  
@@ -337,7 +347,7 @@
 
 ---
 
-### 37. [VMware Workstation and Fusion Updates Patch Critical Vulnerability](https://www.securityweek.com/vmware-workstation-and-fusion-updates-patch-critical-vulnerability/)
+### 38. [VMware Workstation and Fusion Updates Patch Critical Vulnerability](https://www.securityweek.com/vmware-workstation-and-fusion-updates-patch-critical-vulnerability/)
 
 **Source:** Security Week  
 **Published:** Fri, 04 Sep 2026 11:42:55 +0000  
@@ -347,31 +357,22 @@
 
 ---
 
-### 38. [Google Patches 6th Chrome Zero-Day of 2026](https://www.securityweek.com/google-patches-6th-chrome-zero-day-of-2026/)
+### 39. [Google Patches 6th Chrome Zero-Day of 2026](https://www.securityweek.com/google-patches-6th-chrome-zero-day-of-2026/)
 
 **Source:** Security Week  
 **Published:** Fri, 04 Sep 2026 11:31:52 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-11645, CVE-2026-3910, CVE-2026-2441, CVE-2026-85046, CVE-2026-5281, CVE-2026-3909  
+**CVEs:** CVE-2026-2441, CVE-2026-85046, CVE-2026-5281, CVE-2026-3910, CVE-2026-11645, CVE-2026-3909  
 **Categories:** Vulnerability  
 
 ---
 
-### 39. [Nvidia Is Buying AI Platform Hugging Face for $13 Billion](https://www.securityweek.com/nvidia-is-buying-ai-platform-hugging-face-for-13-billion/)
+### 40. [Nvidia Is Buying AI Platform Hugging Face for $13 Billion](https://www.securityweek.com/nvidia-is-buying-ai-platform-hugging-face-for-13-billion/)
 
 **Source:** Security Week  
 **Published:** Fri, 04 Sep 2026 10:00:00 +0000  
 **Severity:** High  
 **Categories:** General Security  
-
----
-
-### 40. [Manchester Airports Group Data on 8.8 Million People Leaked After Ransom Refusal](https://www.securityweek.com/manchester-airports-group-data-on-8-8-million-people-leaked-after-ransom-refusal/)
-
-**Source:** Security Week  
-**Published:** Thu, 03 Sep 2026 15:35:19 +0000  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach  
 
 ---
 
@@ -635,7 +636,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

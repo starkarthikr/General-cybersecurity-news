@@ -184,6 +184,24 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
+    "link": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
+    "published": "Sat, 05 Sep 2026 10:29:13 -0400",
+    "summary": "A massive cybercriminal operation is leveraging thousands of compromised small-business websites to deliver ClickFix payloads stored in smart contracts on the BNB Smart Chain (BSC). [...]",
+    "analysis": {
+      "issue": "A massive cybercriminal operation is leveraging thousands of compromised small-business websites to deliver ClickFix payloads stored in smart contracts on the BNB Smart Chain (BSC)",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "OpenAI admits it didn't disclose rogue AI wiki hijacking incident",
     "link": "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/",
     "published": "Sat, 05 Sep 2026 07:11:50 -0400",
@@ -352,24 +370,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Coder's registry infrastructure compromised to push malicious modules",
-    "link": "https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/",
-    "published": "Thu, 03 Sep 2026 16:04:24 -0400",
-    "summary": "Attackers compromised Coder's Cloudflare infrastructure and added unauthorized registry servers that delivered malicious Terraform modules containing credential-stealing code. [...]",
-    "analysis": {
-      "issue": "Attackers compromised Coder’s Cloudflare infrastructure and added unauthorized registry servers that delivered malicious Terraform modules containing credential-stealing code",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
     "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
@@ -438,9 +438,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-68820",
+        "CVE-2026-62832",
         "CVE-2026-72971",
-        "CVE-2026-62832"
+        "CVE-2026-68820"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -519,8 +519,8 @@
       "cves": [
         "CVE-2026-56155",
         "CVE-2026-56164",
-        "CVE-2026-48561",
-        "CVE-2026-50661"
+        "CVE-2026-50661",
+        "CVE-2026-48561"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -562,6 +562,27 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites",
+    "link": "https://www.securityweek.com/elementor-pro-wordpress-plugin-vulnerability-exploited-to-hack-sites/",
+    "published": "Sat, 05 Sep 2026 13:00:28 +0000",
+    "summary": "<p>Tracked as CVE-2026-32475 (CVSS score of 9.8), the bug described as an arbitrary file upload issue in the function that handles form submissions.</p>\n<p>The post <a href=\"https://www.securityweek.com/elementor-pro-wordpress-plugin-vulnerability-exploited-to-hack-sites/\">Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Tracked as CVE-2026-32475 (CVSS score of 9",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-32475"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
       ]
     }
   },
@@ -639,10 +660,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-59822",
-        "CVE-2026-48710",
         "CVE-2026-49869",
-        "CVE-2026-9586"
+        "CVE-2026-59822",
+        "CVE-2026-9586",
+        "CVE-2026-48710"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -723,11 +744,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-11645",
-        "CVE-2026-3910",
         "CVE-2026-2441",
         "CVE-2026-85046",
         "CVE-2026-5281",
+        "CVE-2026-3910",
+        "CVE-2026-11645",
         "CVE-2026-3909"
       ],
       "threat_categories": [
@@ -750,25 +771,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Manchester Airports Group Data on 8.8 Million People Leaked After Ransom Refusal",
-    "link": "https://www.securityweek.com/manchester-airports-group-data-on-8-8-million-people-leaked-after-ransom-refusal/",
-    "published": "Thu, 03 Sep 2026 15:35:19 +0000",
-    "summary": "<p>Hacker group published roughly 550GB of data after MAG reportedly refused to pay a ransom demand; the group says it gained access via exposed admin keys.</p>\n<p>The post <a href=\"https://www.securityweek.com/manchester-airports-group-data-on-8-8-million-people-leaked-after-ransom-refusal/\">Manchester Airports Group Data on 8.8 Million People Leaked After Ransom Refusal</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Hacker group published roughly 550GB of data after MAG reportedly refused to pay a ransom demand; the group says it gained access via exposed admin keys",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach"
       ]
     }
   },
@@ -1305,8 +1307,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
