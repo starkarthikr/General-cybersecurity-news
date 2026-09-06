@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-06 04:57:38 UTC
+**Last Updated:** 2026-09-06 12:15:27 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores](https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html)
+### 1. [Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication](https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html)
+
+**Source:** The Hacker News  
+**Published:** Sun, 06 Sep 2026 15:02:38 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner](https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html)
+
+**Source:** The Hacker News  
+**Published:** Sun, 06 Sep 2026 14:04:20 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores](https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 06 Sep 2026 01:44:47 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials](https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html)
+### 4. [Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials](https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 05 Sep 2026 22:22:33 +0530  
@@ -23,7 +41,7 @@
 
 ---
 
-### 3. [Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code](https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html)
+### 5. [Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code](https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 05 Sep 2026 21:35:08 +0530  
@@ -32,7 +50,7 @@
 
 ---
 
-### 4. [Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted](https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html)
+### 6. [Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted](https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 05 Sep 2026 19:47:02 +0530  
@@ -41,7 +59,7 @@
 
 ---
 
-### 5. [Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel](https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html)
+### 7. [Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel](https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 05 Sep 2026 13:25:10 +0530  
@@ -50,7 +68,7 @@
 
 ---
 
-### 6. [Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities](https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html)
+### 8. [Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities](https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 05 Sep 2026 13:01:53 +0530  
@@ -59,7 +77,7 @@
 
 ---
 
-### 7. [Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters](https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html)
+### 9. [Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters](https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 04 Sep 2026 21:27:15 +0530  
@@ -68,30 +86,12 @@
 
 ---
 
-### 8. [PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution](https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html)
+### 10. [PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution](https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 04 Sep 2026 20:50:19 +0530  
 **Severity:** Low  
 **CVEs:** CVE-2026-6471  
-**Categories:** Vulnerability  
-
----
-
-### 9. [New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic](https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 04 Sep 2026 20:21:13 +0530  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 10. [Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws](https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 04 Sep 2026 14:18:45 +0530  
-**Severity:** Low  
 **Categories:** Vulnerability  
 
 ---
@@ -220,7 +220,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-72971, CVE-2026-62832, CVE-2026-68820  
+**CVEs:** CVE-2026-62832, CVE-2026-68820, CVE-2026-72971  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -257,7 +257,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56155, CVE-2026-56164, CVE-2026-48561, CVE-2026-50661  
+**CVEs:** CVE-2026-50661, CVE-2026-56155, CVE-2026-56164, CVE-2026-48561  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -363,7 +363,7 @@
 **Source:** Security Week  
 **Published:** Fri, 04 Sep 2026 11:31:52 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-11645, CVE-2026-3910, CVE-2026-3909, CVE-2026-5281, CVE-2026-2441, CVE-2026-85046  
+**CVEs:** CVE-2026-11645, CVE-2026-3909, CVE-2026-5281, CVE-2026-85046, CVE-2026-3910, CVE-2026-2441  
 **Categories:** Vulnerability  
 
 ---
@@ -637,7 +637,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
