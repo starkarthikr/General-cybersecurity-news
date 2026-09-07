@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-06 18:31:57 UTC
+**Last Updated:** 2026-09-07 03:57:58 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -96,7 +96,16 @@
 
 ---
 
-### 11. [Attackers conceal phishing lures using invisible Unicode characters](https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/)
+### 11. [ChatGPT Astra is now rolling out to $20 Plus subscription](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/)
+
+**Source:** Bleeping Computer  
+**Published:** Sun, 06 Sep 2026 21:15:43 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 12. [Attackers conceal phishing lures using invisible Unicode characters](https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 06 Sep 2026 10:23:46 -0400  
@@ -105,7 +114,7 @@
 
 ---
 
-### 12. [Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain](https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/)
+### 13. [Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain](https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 05 Sep 2026 10:29:13 -0400  
@@ -114,7 +123,7 @@
 
 ---
 
-### 13. [OpenAI admits it didn't disclose rogue AI wiki hijacking incident](https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/)
+### 14. [OpenAI admits it didn't disclose rogue AI wiki hijacking incident](https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 05 Sep 2026 07:11:50 -0400  
@@ -123,7 +132,7 @@
 
 ---
 
-### 14. [IDScan sued over alleged data breach affecting 153 million drivers](https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/)
+### 15. [IDScan sued over alleged data breach affecting 153 million drivers](https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 04 Sep 2026 12:56:45 -0400  
@@ -132,7 +141,7 @@
 
 ---
 
-### 15. [Critical Citrix NetScaler auth bypass now leveraged in attacks](https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/)
+### 16. [Critical Citrix NetScaler auth bypass now leveraged in attacks](https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 04 Sep 2026 11:25:59 -0400  
@@ -142,7 +151,7 @@
 
 ---
 
-### 16. [Microsoft says some users can’t open the Teams desktop client](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/)
+### 17. [Microsoft says some users can’t open the Teams desktop client](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 04 Sep 2026 10:30:15 -0400  
@@ -151,7 +160,7 @@
 
 ---
 
-### 17. [39 New Methods That Compromise Passkey Authentication](https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/)
+### 18. [39 New Methods That Compromise Passkey Authentication](https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 04 Sep 2026 10:01:11 -0400  
@@ -160,7 +169,7 @@
 
 ---
 
-### 18. [New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges](https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/)
+### 19. [New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges](https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 04 Sep 2026 09:22:01 -0400  
@@ -169,22 +178,12 @@
 
 ---
 
-### 19. [Exchange Online outage causes email delays, 'Server busy' errors](https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/)
+### 20. [Exchange Online outage causes email delays, 'Server busy' errors](https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 04 Sep 2026 08:22:30 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 20. [Google warns of new Chrome zero-day flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 04 Sep 2026 07:48:17 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-85046  
-**Categories:** Vulnerability  
 
 ---
 
@@ -220,7 +219,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-72971, CVE-2026-62832, CVE-2026-68820  
+**CVEs:** CVE-2026-62832, CVE-2026-68820, CVE-2026-72971  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -257,7 +256,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56155, CVE-2026-48561, CVE-2026-50661, CVE-2026-56164  
+**CVEs:** CVE-2026-56164, CVE-2026-50661, CVE-2026-56155, CVE-2026-48561  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -324,7 +323,7 @@
 **Source:** Security Week  
 **Published:** Fri, 04 Sep 2026 13:23:12 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-9586, CVE-2026-59822, CVE-2026-48710, CVE-2026-49869  
+**CVEs:** CVE-2026-59822, CVE-2026-49869, CVE-2026-9586, CVE-2026-48710  
 **Categories:** Vulnerability  
 
 ---
@@ -353,7 +352,7 @@
 **Source:** Security Week  
 **Published:** Fri, 04 Sep 2026 11:42:55 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-59347, CVE-2026-59346  
+**CVEs:** CVE-2026-59346, CVE-2026-59347  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -363,7 +362,7 @@
 **Source:** Security Week  
 **Published:** Fri, 04 Sep 2026 11:31:52 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-3909, CVE-2026-5281, CVE-2026-85046, CVE-2026-11645, CVE-2026-2441, CVE-2026-3910  
+**CVEs:** CVE-2026-3910, CVE-2026-85046, CVE-2026-3909, CVE-2026-11645, CVE-2026-2441, CVE-2026-5281  
 **Categories:** Vulnerability  
 
 ---

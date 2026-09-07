@@ -186,6 +186,24 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "ChatGPT Astra is now rolling out to $20 Plus subscription",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/",
+    "published": "Sun, 06 Sep 2026 21:15:43 -0400",
+    "summary": "OpenAI is now rolling out ChatGPT Astra, its most powerful model to date, to those with a $20 Plus subscription, but there's no word on when free users will get access.. [...]",
+    "analysis": {
+      "issue": "OpenAI is now rolling out ChatGPT Astra, its most powerful model to date, to those with a $20 Plus subscription, but there's no word on when free users will get access",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Attackers conceal phishing lures using invisible Unicode characters",
     "link": "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/",
     "published": "Sun, 06 Sep 2026 10:23:46 -0400",
@@ -352,26 +370,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Google warns of new Chrome zero-day flaw exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/",
-    "published": "Fri, 04 Sep 2026 07:48:17 -0400",
-    "summary": "Google has updated the Chrome browser to address an actively exploited high-severity zero-day flaw in the V8 engine and 11 other vulnerabilities. [...]",
-    "analysis": {
-      "issue": "Google has updated the Chrome browser to address an actively exploited high-severity zero-day flaw in the V8 engine and 11 other vulnerabilities",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-85046"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
     "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
@@ -440,9 +438,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-72971",
         "CVE-2026-62832",
-        "CVE-2026-68820"
+        "CVE-2026-68820",
+        "CVE-2026-72971"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -519,10 +517,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56155",
-        "CVE-2026-48561",
+        "CVE-2026-56164",
         "CVE-2026-50661",
-        "CVE-2026-56164"
+        "CVE-2026-56155",
+        "CVE-2026-48561"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -662,10 +660,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-9586",
         "CVE-2026-59822",
-        "CVE-2026-48710",
-        "CVE-2026-49869"
+        "CVE-2026-49869",
+        "CVE-2026-9586",
+        "CVE-2026-48710"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -724,8 +722,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-59347",
-        "CVE-2026-59346"
+        "CVE-2026-59346",
+        "CVE-2026-59347"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -746,12 +744,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-3909",
-        "CVE-2026-5281",
+        "CVE-2026-3910",
         "CVE-2026-85046",
+        "CVE-2026-3909",
         "CVE-2026-11645",
         "CVE-2026-2441",
-        "CVE-2026-3910"
+        "CVE-2026-5281"
       ],
       "threat_categories": [
         "Vulnerability"
