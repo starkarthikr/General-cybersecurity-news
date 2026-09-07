@@ -1,10 +1,55 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-07 05:03:47 UTC
+**Last Updated:** 2026-09-07 14:22:45 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication](https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html)
+### 1. [Your Cloud Security Checklist Doesn't Work the Way You Think It Does](https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 07 Sep 2026 17:15:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts](https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 07 Sep 2026 17:06:39 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE — Public Exploit Released](https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 07 Sep 2026 16:50:14 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 4. [N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw](https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 07 Sep 2026 14:01:12 +0530  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 5. [JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies](https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 07 Sep 2026 13:23:04 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 6. [Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication](https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 06 Sep 2026 15:02:38 +0530  
@@ -13,7 +58,7 @@
 
 ---
 
-### 2. [Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner](https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html)
+### 7. [Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner](https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 06 Sep 2026 14:04:20 +0530  
@@ -22,7 +67,7 @@
 
 ---
 
-### 3. [Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores](https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html)
+### 8. [Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores](https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 06 Sep 2026 01:44:47 +0530  
@@ -31,7 +76,7 @@
 
 ---
 
-### 4. [Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials](https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html)
+### 9. [Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials](https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 05 Sep 2026 22:22:33 +0530  
@@ -41,7 +86,7 @@
 
 ---
 
-### 5. [Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code](https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html)
+### 10. [Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code](https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 05 Sep 2026 21:35:08 +0530  
@@ -50,53 +95,63 @@
 
 ---
 
-### 6. [Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted](https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html)
+### 11. [Mathspace discloses data breach affecting over 1 million people](https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/)
 
-**Source:** The Hacker News  
-**Published:** Sat, 05 Sep 2026 19:47:02 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 07 Sep 2026 09:05:11 -0400  
+**Severity:** Low  
+**Categories:** Data Breach, Vulnerability  
+
+---
+
+### 12. [Trezor data breach impact now reaches 81,000 customers](https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 07 Sep 2026 08:16:32 -0400  
+**Severity:** Low  
+**Categories:** Data Breach  
+
+---
+
+### 13. [ChatGPT can now connect to your personal apps to mimic writing style](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 07 Sep 2026 06:36:37 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 7. [Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel](https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html)
+### 14. [Hackers exploit new MikroTik RouterOS flaws to hijack routers](https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/)
 
-**Source:** The Hacker News  
-**Published:** Sat, 05 Sep 2026 13:25:10 +0530  
-**Severity:** Low  
-**Categories:** General Security  
+**Source:** Bleeping Computer  
+**Published:** Mon, 07 Sep 2026 06:32:40 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-67276, CVE-2026-86060  
+**Categories:** Vulnerability  
 
 ---
 
-### 8. [Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities](https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html)
+### 15. [ConnectWise warns of new ScreenConnect flaw without patch](https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/)
 
-**Source:** The Hacker News  
-**Published:** Sat, 05 Sep 2026 13:01:53 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 07 Sep 2026 06:06:38 -0400  
 **Severity:** Low  
 **Categories:** Vulnerability  
 
 ---
 
-### 9. [Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters](https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html)
+### 16. [N-able patches max severity N-central flaw amid ongoing attacks](https://www.bleepingcomputer.com/news/security/n-able-patches-max-severity-n-central-flaw-amid-ongoing-attacks/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 04 Sep 2026 21:27:15 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 07 Sep 2026 02:17:41 -0400  
 **Severity:** Low  
-**Categories:** Phishing  
-
----
-
-### 10. [PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution](https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 04 Sep 2026 20:50:19 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-6471  
+**CVEs:** CVE-2026-86218  
 **Categories:** Vulnerability  
 
 ---
 
-### 11. [ChatGPT Astra is now rolling out to $20 Plus subscription](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/)
+### 17. [ChatGPT Astra is now rolling out to $20 Plus subscription](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 06 Sep 2026 21:15:43 -0400  
@@ -105,7 +160,7 @@
 
 ---
 
-### 12. [Attackers conceal phishing lures using invisible Unicode characters](https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/)
+### 18. [Attackers conceal phishing lures using invisible Unicode characters](https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 06 Sep 2026 10:23:46 -0400  
@@ -114,7 +169,7 @@
 
 ---
 
-### 13. [Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain](https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/)
+### 19. [Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain](https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 05 Sep 2026 10:29:13 -0400  
@@ -123,65 +178,10 @@
 
 ---
 
-### 14. [OpenAI admits it didn't disclose rogue AI wiki hijacking incident](https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/)
+### 20. [OpenAI admits it didn't disclose rogue AI wiki hijacking incident](https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 05 Sep 2026 07:11:50 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 15. [IDScan sued over alleged data breach affecting 153 million drivers](https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 04 Sep 2026 12:56:45 -0400  
-**Severity:** Low  
-**Categories:** Data Breach  
-
----
-
-### 16. [Critical Citrix NetScaler auth bypass now leveraged in attacks](https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 04 Sep 2026 11:25:59 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-19490  
-**Categories:** Vulnerability  
-
----
-
-### 17. [Microsoft says some users can’t open the Teams desktop client](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 04 Sep 2026 10:30:15 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 18. [39 New Methods That Compromise Passkey Authentication](https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 04 Sep 2026 10:01:11 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability, Phishing, APT  
-
----
-
-### 19. [New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges](https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 04 Sep 2026 09:22:01 -0400  
-**Severity:** Critical  
-**Categories:** Vulnerability, Malware  
-
----
-
-### 20. [Exchange Online outage causes email delays, 'Server busy' errors](https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 04 Sep 2026 08:22:30 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -219,7 +219,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-72971, CVE-2026-62832, CVE-2026-68820  
+**CVEs:** CVE-2026-68820, CVE-2026-62832, CVE-2026-72971  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -256,7 +256,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56164, CVE-2026-50661, CVE-2026-56155, CVE-2026-48561  
+**CVEs:** CVE-2026-56155, CVE-2026-48561, CVE-2026-56164, CVE-2026-50661  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -279,7 +279,52 @@
 
 ---
 
-### 31. [Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites](https://www.securityweek.com/elementor-pro-wordpress-plugin-vulnerability-exploited-to-hack-sites/)
+### 31. [Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits](https://www.securityweek.com/nightmare-eclipse-drops-crowdstrike-nvidia-avast-zero-day-exploits/)
+
+**Source:** Security Week  
+**Published:** Mon, 07 Sep 2026 12:15:57 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 32. [North Korean Hackers Deploy New Linux Espionage Toolkit](https://www.securityweek.com/north-korean-hackers-deploy-new-linux-espionage-toolkit/)
+
+**Source:** Security Week  
+**Published:** Mon, 07 Sep 2026 12:12:08 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, Malware, APT  
+
+---
+
+### 33. [OpenAI Agents Hijack Another Victim Website](https://www.securityweek.com/openai-agents-hijack-another-victim-website/)
+
+**Source:** Security Week  
+**Published:** Mon, 07 Sep 2026 12:03:04 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, APT  
+
+---
+
+### 34. [Adobe Commerce Zero-Day Exploited to Backdoor Online Stores](https://www.securityweek.com/adobe-commerce-zero-day-exploited-to-backdoor-online-stores/)
+
+**Source:** Security Week  
+**Published:** Mon, 07 Sep 2026 11:58:37 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 35. [Modified ScreenConnect Clients Used in Worm-Like Campaign](https://www.securityweek.com/modified-screenconnect-clients-used-in-worm-like-campaign/)
+
+**Source:** Security Week  
+**Published:** Mon, 07 Sep 2026 11:45:48 +0000  
+**Severity:** Low  
+**Categories:** Malware, Phishing  
+
+---
+
+### 36. [Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites](https://www.securityweek.com/elementor-pro-wordpress-plugin-vulnerability-exploited-to-hack-sites/)
 
 **Source:** Security Week  
 **Published:** Sat, 05 Sep 2026 13:00:28 +0000  
@@ -289,7 +334,7 @@
 
 ---
 
-### 32. [In Other News: Microsoft’s Cloud Patches, Hacked Dropbox Accounts, Guardio’s $1.1B Valuation](https://www.securityweek.com/in-other-news-microsofts-cloud-patches-hacked-dropbox-accounts-guardios-1-1b-valuation/)
+### 37. [In Other News: Microsoft’s Cloud Patches, Hacked Dropbox Accounts, Guardio’s $1.1B Valuation](https://www.securityweek.com/in-other-news-microsofts-cloud-patches-hacked-dropbox-accounts-guardios-1-1b-valuation/)
 
 **Source:** Security Week  
 **Published:** Fri, 04 Sep 2026 16:18:30 +0000  
@@ -299,7 +344,7 @@
 
 ---
 
-### 33. [HPE Patches Critical RCE Vulnerabilities in AOS-CX](https://www.securityweek.com/hpe-patches-critical-rce-vulnerabilities-in-aos-cx/)
+### 38. [HPE Patches Critical RCE Vulnerabilities in AOS-CX](https://www.securityweek.com/hpe-patches-critical-rce-vulnerabilities-in-aos-cx/)
 
 **Source:** Security Week  
 **Published:** Fri, 04 Sep 2026 16:11:06 +0000  
@@ -309,7 +354,7 @@
 
 ---
 
-### 34. [OpenAI Pledges $1 Billion to Bring Frontier AI to Critical Infrastructure Defenders](https://www.securityweek.com/openai-pledges-1-billion-to-bring-frontier-ai-to-critical-infrastructure-defenders/)
+### 39. [OpenAI Pledges $1 Billion to Bring Frontier AI to Critical Infrastructure Defenders](https://www.securityweek.com/openai-pledges-1-billion-to-bring-frontier-ai-to-critical-infrastructure-defenders/)
 
 **Source:** Security Week  
 **Published:** Fri, 04 Sep 2026 16:07:22 +0000  
@@ -318,61 +363,13 @@
 
 ---
 
-### 35. [Sangoma Switchvox Vulnerabilities Exploited in the Wild](https://www.securityweek.com/sangoma-switchvox-vulnerabilities-exploited-in-the-wild/)
+### 40. [Sangoma Switchvox Vulnerabilities Exploited in the Wild](https://www.securityweek.com/sangoma-switchvox-vulnerabilities-exploited-in-the-wild/)
 
 **Source:** Security Week  
 **Published:** Fri, 04 Sep 2026 13:23:12 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-49869, CVE-2026-48710, CVE-2026-9586, CVE-2026-59822  
+**CVEs:** CVE-2026-59822, CVE-2026-48710, CVE-2026-9586, CVE-2026-49869  
 **Categories:** Vulnerability  
-
----
-
-### 36. [12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover](https://www.securityweek.com/12-year-old-postgresql-vulnerability-enables-database-server-takeover/)
-
-**Source:** Security Week  
-**Published:** Fri, 04 Sep 2026 12:06:13 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-6471  
-**Categories:** Vulnerability, Malware  
-
----
-
-### 37. [Catch Raises $5 Million for AI Executive Assistant With Guardrails](https://www.securityweek.com/catch-raises-5-million-for-ai-executive-assistant-with-guardrails/)
-
-**Source:** Security Week  
-**Published:** Fri, 04 Sep 2026 11:55:17 +0000  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 38. [VMware Workstation and Fusion Updates Patch Critical Vulnerability](https://www.securityweek.com/vmware-workstation-and-fusion-updates-patch-critical-vulnerability/)
-
-**Source:** Security Week  
-**Published:** Fri, 04 Sep 2026 11:42:55 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-59346, CVE-2026-59347  
-**Categories:** Vulnerability, APT  
-
----
-
-### 39. [Google Patches 6th Chrome Zero-Day of 2026](https://www.securityweek.com/google-patches-6th-chrome-zero-day-of-2026/)
-
-**Source:** Security Week  
-**Published:** Fri, 04 Sep 2026 11:31:52 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-2441, CVE-2026-5281, CVE-2026-3910, CVE-2026-3909, CVE-2026-11645, CVE-2026-85046  
-**Categories:** Vulnerability  
-
----
-
-### 40. [Nvidia Is Buying AI Platform Hugging Face for $13 Billion](https://www.securityweek.com/nvidia-is-buying-ai-platform-hugging-face-for-13-billion/)
-
-**Source:** Security Week  
-**Published:** Fri, 04 Sep 2026 10:00:00 +0000  
-**Severity:** High  
-**Categories:** General Security  
 
 ---
 
@@ -636,7 +633,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -651,7 +648,34 @@
 
 ---
 
-### 71. [The hidden work of modernizing Malwarebytes](https://www.malwarebytes.com/blog/inside-malwarebytes/2026/09/the-hidden-work-of-modernizing-malwarebytes)
+### 71. [LG TV flaws could let attackers listen in, even in standby mode](https://www.malwarebytes.com/blog/privacy/2026/09/lg-tv-flaws-could-let-attackers-listen-in-even-in-standby-mode)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 07 Sep 2026 13:34:40 GMT  
+**Severity:** Low  
+**Categories:** APT  
+
+---
+
+### 72. [Flirty OnlyFans promoters on X may be using AI to appear human](https://www.malwarebytes.com/blog/ai/2026/09/flirty-onlyfans-promoters-on-x-may-be-using-ai-to-appear-human)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 07 Sep 2026 11:18:00 GMT  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 73. [A week in security (August 31 – September 6)](https://www.malwarebytes.com/blog/news/2026/09/a-week-in-security-august-31-september-6)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 07 Sep 2026 07:01:00 GMT  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 74. [The hidden work of modernizing Malwarebytes](https://www.malwarebytes.com/blog/inside-malwarebytes/2026/09/the-hidden-work-of-modernizing-malwarebytes)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 04 Sep 2026 17:15:42 GMT  
@@ -660,7 +684,7 @@
 
 ---
 
-### 72. [X Money rollout linked to password-reset attacks](https://www.malwarebytes.com/blog/scams/2026/09/x-money-rollout-linked-to-password-reset-attacks)
+### 75. [X Money rollout linked to password-reset attacks](https://www.malwarebytes.com/blog/scams/2026/09/x-money-rollout-linked-to-password-reset-attacks)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 04 Sep 2026 12:29:41 GMT  
@@ -669,7 +693,7 @@
 
 ---
 
-### 73. [Free streaming boxes may be routing criminal traffic through your home](https://www.malwarebytes.com/blog/news/2026/09/free-streaming-boxes-may-be-routing-criminal-traffic-through-your-home)
+### 76. [Free streaming boxes may be routing criminal traffic through your home](https://www.malwarebytes.com/blog/news/2026/09/free-streaming-boxes-may-be-routing-criminal-traffic-through-your-home)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 04 Sep 2026 09:20:48 GMT  
@@ -678,7 +702,7 @@
 
 ---
 
-### 74. [StreamRat Android malware spreads through Meta and TikTok ads](https://www.malwarebytes.com/blog/news/2026/09/streamrat-android-malware-spreads-through-meta-and-tiktok-ads)
+### 77. [StreamRat Android malware spreads through Meta and TikTok ads](https://www.malwarebytes.com/blog/news/2026/09/streamrat-android-malware-spreads-through-meta-and-tiktok-ads)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 03 Sep 2026 16:04:24 GMT  
@@ -687,7 +711,7 @@
 
 ---
 
-### 75. [Your phone or computer may soon ask how old you are](https://www.malwarebytes.com/blog/privacy/2026/09/your-phone-or-computer-may-soon-ask-how-old-you-are)
+### 78. [Your phone or computer may soon ask how old you are](https://www.malwarebytes.com/blog/privacy/2026/09/your-phone-or-computer-may-soon-ask-how-old-you-are)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 03 Sep 2026 08:54:50 GMT  
@@ -696,7 +720,7 @@
 
 ---
 
-### 76. [Tech support scams look different now. Here’s what to watch for](https://www.malwarebytes.com/blog/scams/2026/09/tech-support-scams-look-different-now-heres-what-to-watch-for)
+### 79. [Tech support scams look different now. Here’s what to watch for](https://www.malwarebytes.com/blog/scams/2026/09/tech-support-scams-look-different-now-heres-what-to-watch-for)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 02 Sep 2026 15:49:51 GMT  
@@ -705,40 +729,12 @@
 
 ---
 
-### 77. [Scammers are getting smarter about where they target you](https://www.malwarebytes.com/blog/scams/2026/09/scammers-are-getting-smarter-about-where-they-target-you)
+### 80. [Scammers are getting smarter about where they target you](https://www.malwarebytes.com/blog/scams/2026/09/scammers-are-getting-smarter-about-where-they-target-you)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 02 Sep 2026 12:45:00 GMT  
 **Severity:** Low  
 **Categories:** Malware, Phishing, APT  
-
----
-
-### 78. [Two critical Chrome flaws put users at risk on malicious websites](https://www.malwarebytes.com/blog/bugs/2026/09/two-critical-chrome-flaws-put-users-at-risk-on-malicious-websites)
-
-**Source:** Malwarebytes  
-**Published:** Wed, 02 Sep 2026 11:15:56 GMT  
-**Severity:** Critical  
-**CVEs:** CVE-2026-85046  
-**Categories:** Vulnerability  
-
----
-
-### 79. [153M+ driver’s licenses for sale on new dark web platform](https://www.malwarebytes.com/blog/news/2026/09/dark-web-site-puts-153-million-drivers-licenses-and-millions-more-ids-up-for-sale)
-
-**Source:** Malwarebytes  
-**Published:** Wed, 02 Sep 2026 10:03:58 GMT  
-**Severity:** High  
-**Categories:** General Security  
-
----
-
-### 80. [Your AI chats could be used in court](https://www.malwarebytes.com/blog/ai/2026/09/your-ai-chats-could-be-used-in-court)
-
-**Source:** Malwarebytes  
-**Published:** Wed, 02 Sep 2026 09:22:19 GMT  
-**Severity:** High  
-**Categories:** General Security  
 
 ---
 

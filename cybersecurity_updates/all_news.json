@@ -1,6 +1,96 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Your Cloud Security Checklist Doesn't Work the Way You Think It Does",
+    "link": "https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html",
+    "published": "Mon, 07 Sep 2026 17:15:00 +0530",
+    "summary": "If managing security across multiple cloud providers wasn't hard enough, each one fails in a different way. For the 2026 Cloud Security Index, Intruder analyzed misconfiguration data from 3,000 organizations across AWS, Azure, and Google Cloud and found that risk profiles across providers have almost nothing in common. Here’s what the data looks like.\n\nHow risk differs across cloud providers",
+    "analysis": {
+      "issue": "Intruder analyzed 3,000 organizations, finding exposed services in 76% of AWS accounts versus 8% on Google Cloud",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts",
+    "link": "https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html",
+    "published": "Mon, 07 Sep 2026 17:06:39 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of worm-like activity that abuses ConnectWise ScreenConnect to distribute a malicious Visual Basic Script (VBScript) payload to newly connected systems.\n\nAccording to Huntress, three unrelated incidents have been found to use diverse initial access methods, namely a Quick Assist tech-support scam, a phishing-delivered MSI installer, and a fake",
+    "analysis": {
+      "issue": "ScreenConnect abuse shows worm-like propagation of a four-stage VBScript chain; ConnectWise advises disabling file transfers until a fix",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE — Public Exploit Released",
+    "link": "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html",
+    "published": "Mon, 07 Sep 2026 16:50:14 +0530",
+    "summary": "A TantoSec proof-of-concept turns an AES-CBC \"padding oracle\" in Telerik UI for ASP.NET AJAX into unauthenticated remote code execution — but only against applications in a specific non-default configuration, and Progress patched the chain in July. There are no confirmed reports of exploitation in the wild.\n\nSecurity firm TantoSec has published a working exploit chain targeting vulnerabilities",
+    "analysis": {
+      "issue": "TantoSec's Telerik UI PoC demonstrates unauthenticated RCE under specific non-default conditions; fixes shipped in July",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw",
+    "link": "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html",
+    "published": "Mon, 07 Sep 2026 14:01:12 +0530",
+    "summary": "Every on-premises N-central build below 2026.3.1.14 — including servers updated to Hotfix 3 a day earlier — needs Hotfix 4. N-able's incident notice says the flaw has been exploited in the wild; its release notes say that is unconfirmed.\n\nN-able has released its&nbsp;fourth hotfix&nbsp;in five weeks for the N-central remote monitoring and management (RMM) platform, this time for a",
+    "analysis": {
+      "issue": "N-able patches a critical N-central flaw that could allow unauthenticated remote code execution, but its exploitation statements conflict",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies",
+    "link": "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html",
+    "published": "Mon, 07 Sep 2026 13:23:04 +0530",
+    "summary": "Cybersecurity researchers have unpacked JSCeal, a sophisticated compiled V8 JavaScript (JSC) malware with credential harvesting, surveillance, and traffic-interception capabilities.\n\n\"The payloads are protected with javascript-obfuscator, using multiple techniques including RC4-protected strings, control-flow flattening, proxy functions, and operation wrappers,\" Check Point Research said in a",
+    "analysis": {
+      "issue": "JSCeal can steal browser credentials, replay Google sessions using stolen cookies, and modify traffic for cryptocurrency services",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
     "link": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
     "published": "Sun, 06 Sep 2026 15:02:38 +0530",
@@ -93,13 +183,50 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted",
-    "link": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
-    "published": "Sat, 05 Sep 2026 19:47:02 +0530",
-    "summary": "Hardware wallet manufacturer Trezor on Friday disclosed that another 67,000 customers from the U.S. have been impacted in a breach at its shipping provider ShipMonk.\n\nThe exposed information includes customer names, email addresses, phone numbers, shipping addresses, and order numbers between November 2019 and August 2021. The breach does not affect the security of the company's hardware wallets",
+    "source": "Bleeping Computer",
+    "title": "Mathspace discloses data breach affecting over 1 million people",
+    "link": "https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/",
+    "published": "Mon, 07 Sep 2026 09:05:11 -0400",
+    "summary": "Online maths learning platform Mathspace disclosed over the weekend that attackers stole data from more than 1 million students, staff, and parents after breaching its Metabase internal reporting system. [...]",
     "analysis": {
-      "issue": "customers had personal and order data exposed in a breach at shipping provider ShipMonk",
+      "issue": "Online maths learning platform Mathspace disclosed over the weekend that attackers stole data from more than 1 million students, staff, and parents after breaching its Metabase internal reporting system",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Trezor data breach impact now reaches 81,000 customers",
+    "link": "https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/",
+    "published": "Mon, 07 Sep 2026 08:16:32 -0400",
+    "summary": "Cryptocurrency hardware wallet maker Trezor says an August data breach at its shipping and logistics provider, ShipMonk, affects an additional 67,000 U.S. customers. [...]",
+    "analysis": {
+      "issue": "Cryptocurrency hardware wallet maker Trezor says an August data breach at its shipping and logistics provider, ShipMonk, affects an additional 67,000 U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "ChatGPT can now connect to your personal apps to mimic writing style",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/",
+    "published": "Mon, 07 Sep 2026 06:36:37 -0400",
+    "summary": "OpenAI appears to be testing a new \"Writing Style\" feature for ChatGPT that can learn how you write by looking at examples from your connected apps. [...]",
+    "analysis": {
+      "issue": "OpenAI appears to be testing a new \"Writing Style\" feature for ChatGPT that can learn how you write by looking at examples from your connected apps",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -111,31 +238,34 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
-    "link": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
-    "published": "Sat, 05 Sep 2026 13:25:10 +0530",
-    "summary": "A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 25-year-old German wiki between May and July 2026, using the site as a shared board to pool answers to a timed web task and pass around a way out of their sandbox.\n\nThe activity was concentrated on DSEwiki, a German software developer wiki that runs",
+    "source": "Bleeping Computer",
+    "title": "Hackers exploit new MikroTik RouterOS flaws to hijack routers",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/",
+    "published": "Mon, 07 Sep 2026 06:32:40 -0400",
+    "summary": "Hackers are exploiting a chain of two recently disclosed vulnerabilities in MikroTik routers to take control of devices with SSH services exposed to the internet. [...]",
     "analysis": {
-      "issue": "Autonomous agents identifying as OpenAI systems used a German wiki to coordinate a timed web task and share a sandbox bypass",
+      "issue": "Hackers are exploiting a chain of two recently disclosed vulnerabilities in MikroTik routers to take control of devices with SSH services exposed to the internet",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-67276",
+        "CVE-2026-86060"
+      ],
       "threat_categories": [
-        "General Security"
+        "Vulnerability"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
-    "link": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
-    "published": "Sat, 05 Sep 2026 13:01:53 +0530",
-    "summary": "Threat actors are exploiting the newly disclosed PaperCut flaws to facilitate credential theft in attacks targeting the education sector in the U.S. and Europe.\n\nThe Arctic Wolf Adversary Research Team said it observed attackers exploiting CVE-2026-81578 and CVE-2026-82078 – an authentication bypass and remote code execution chain – to conduct command execution and reconnaissance, as well as",
+    "source": "Bleeping Computer",
+    "title": "ConnectWise warns of new ScreenConnect flaw without patch",
+    "link": "https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/",
+    "published": "Mon, 07 Sep 2026 06:06:38 -0400",
+    "summary": "ConnectWise has shared temporary mitigation measures for a new ScreenConnect Remote Access vulnerability that it plans to patch later this week. [...]",
     "analysis": {
-      "issue": "Attackers exploit two PaperCut flaws to steal credentials from U",
+      "issue": "ConnectWise has shared temporary mitigation measures for a new ScreenConnect Remote Access vulnerability that it plans to patch later this week",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -147,37 +277,19 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
-    "link": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
-    "published": "Fri, 04 Sep 2026 21:27:15 +0530",
-    "summary": "Microsoft is alerting of a \"high-volume phishing campaign\" that's using invisible Unicode tag characters to bypass email filters.\n\n\"Instead of using these characters to hide instructions from people while exposing them to AI models, the attacker used them to split financial lure words such as 'funding' to prevent email filters from parsing them,\" the Microsoft Security Research team said.\n\nThe",
+    "source": "Bleeping Computer",
+    "title": "N-able patches max severity N-central flaw amid ongoing attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/n-able-patches-max-severity-n-central-flaw-amid-ongoing-attacks/",
+    "published": "Mon, 07 Sep 2026 02:17:41 -0400",
+    "summary": "N-able has released an emergency hotfix for a maximum-severity remote code execution (RCE) flaw affecting its N-central remote monitoring and management (RMM) platform. [...]",
     "analysis": {
-      "issue": "A phishing campaign sent up to 2",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
-    "link": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
-    "published": "Fri, 04 Sep 2026 20:50:19 +0530",
-    "summary": "PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server.\n\nThe flaw, tracked as CVE-2026-6471 (CVSS score: 7.2), has been present since logical decoding was introduced in PostgreSQL 9.4 in 2014. Versions before PostgreSQL 18.6, 17.11, 16.15, 15.19, and 14.24 are",
-    "analysis": {
-      "issue": "PostgreSQL fixes CVE-2026-6471, which lets replication accounts load libraries and run code when logical WAL is enabled",
+      "issue": "N-able has released an emergency hotfix for a maximum-severity remote code execution (RCE) flaw affecting its N-central remote monitoring and management (RMM) platform",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-6471"
+        "CVE-2026-86218"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -257,119 +369,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "IDScan sued over alleged data breach affecting 153 million drivers",
-    "link": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/",
-    "published": "Fri, 04 Sep 2026 12:56:45 -0400",
-    "summary": "Multiple lawsuits have been filed against identity verification company IDScan after hackers allegedly breached the service and offered to sell more than 153 million driver's licenses. [...]",
-    "analysis": {
-      "issue": "Multiple lawsuits have been filed against identity verification company IDScan after hackers allegedly breached the service and offered to sell more than 153 million driver’s licenses",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/",
-    "published": "Fri, 04 Sep 2026 11:25:59 -0400",
-    "summary": "Attackers have begun targeting a critical-severity Citrix NetScaler auth bypass flaw (CVE-2026-19490) in the wild, according to vulnerability intelligence company Previdian. [...]",
-    "analysis": {
-      "issue": "Attackers have begun targeting a critical-severity Citrix NetScaler flaw in the wild, according to vulnerability intelligence company Previdian",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-19490"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft says some users can’t open the Teams desktop client",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/",
-    "published": "Fri, 04 Sep 2026 10:30:15 -0400",
-    "summary": "Microsoft is working to resolve a known issue that causes delays or blocks some users from opening the Microsoft Teams desktop client on Windows systems. [...]",
-    "analysis": {
-      "issue": "Microsoft is working to resolve a known issue that causes delays or blocks some users from opening the Microsoft Teams desktop client on Windows systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "39 New Methods That Compromise Passkey Authentication",
-    "link": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/",
-    "published": "Fri, 04 Sep 2026 10:01:11 -0400",
-    "summary": "Passkeys eliminate many password-based attacks, but researchers have documented 39 methods for compromising authentication built around them. Token explains how attackers can abuse authentication prompts, synced credentials, enrollment, recovery, and other trust boundaries without breaking FIDO2 cryptography. [...]",
-    "analysis": {
-      "issue": "Passkeys were introduced with a strong security proposition",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Phishing",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges",
-    "link": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
-    "published": "Fri, 04 Sep 2026 09:22:01 -0400",
-    "summary": "An anonymous security researcher who uses the \"Nightmare Eclipse\" handle released a CrowdStrike Falcon zero-day exploit named \"FalconFlank\" that lets attackers escalate privileges on up-to-date Windows systems. [...]",
-    "analysis": {
-      "issue": "An anonymous security researcher who uses the \"Nightmare Eclipse\" handle released a CrowdStrike Falcon zero-day exploit named \"FalconFlank\" that lets attackers escalate privileges on up-to-date Windows systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Exchange Online outage causes email delays, 'Server busy' errors",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/",
-    "published": "Fri, 04 Sep 2026 08:22:30 -0400",
-    "summary": "Microsoft is working to resolve an ongoing Exchange Online outage that is delaying email sent to and received from external domains. [...]",
-    "analysis": {
-      "issue": "Microsoft is working to resolve an ongoing Exchange Online outage that is delaying email sent to and received from external domains",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
     "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
@@ -438,9 +437,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-72971",
+        "CVE-2026-68820",
         "CVE-2026-62832",
-        "CVE-2026-68820"
+        "CVE-2026-72971"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -517,10 +516,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56164",
-        "CVE-2026-50661",
         "CVE-2026-56155",
-        "CVE-2026-48561"
+        "CVE-2026-48561",
+        "CVE-2026-56164",
+        "CVE-2026-50661"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -562,6 +561,102 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits",
+    "link": "https://www.securityweek.com/nightmare-eclipse-drops-crowdstrike-nvidia-avast-zero-day-exploits/",
+    "published": "Mon, 07 Sep 2026 12:15:57 +0000",
+    "summary": "<p>The proof-of-concept (PoC) exploits lead to privilege escalation, spawning a shell with System privileges.</p>\n<p>The post <a href=\"https://www.securityweek.com/nightmare-eclipse-drops-crowdstrike-nvidia-avast-zero-day-exploits/\">Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The proof-of-concept (PoC) exploits lead to privilege escalation, spawning a shell with System privileges",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "North Korean Hackers Deploy New Linux Espionage Toolkit",
+    "link": "https://www.securityweek.com/north-korean-hackers-deploy-new-linux-espionage-toolkit/",
+    "published": "Mon, 07 Sep 2026 12:12:08 +0000",
+    "summary": "<p>The stealthy toolkit embeds a backdoor in HAProxy and targets automotive and media organizations in South Korea for long-term surveillance.</p>\n<p>The post <a href=\"https://www.securityweek.com/north-korean-hackers-deploy-new-linux-espionage-toolkit/\">North Korean Hackers Deploy New Linux Espionage Toolkit</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The stealthy toolkit embeds a backdoor in HAProxy and targets automotive and media organizations in South Korea for long-term surveillance",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "OpenAI Agents Hijack Another Victim Website",
+    "link": "https://www.securityweek.com/openai-agents-hijack-another-victim-website/",
+    "published": "Mon, 07 Sep 2026 12:03:04 +0000",
+    "summary": "<p>OpenAI agents made 15,000–18,000 autonomous edits to a German wiki over three months, evading moderation and echoing tactics seen in the Hugging Face breach.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-agents-hijack-another-victim-website/\">OpenAI Agents Hijack Another Victim Website</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "OpenAI agents made 15,000–18,000 autonomous edits to a German wiki over three months, evading moderation and echoing tactics seen in the Hugging Face breach",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
+    "link": "https://www.securityweek.com/adobe-commerce-zero-day-exploited-to-backdoor-online-stores/",
+    "published": "Mon, 07 Sep 2026 11:58:37 +0000",
+    "summary": "<p>The StyleSmuggler zero-day allows attackers to execute code and deploy a stealthy backdoor on Adobe Commerce and Magento stores.</p>\n<p>The post <a href=\"https://www.securityweek.com/adobe-commerce-zero-day-exploited-to-backdoor-online-stores/\">Adobe Commerce Zero-Day Exploited to Backdoor Online Stores</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The StyleSmuggler zero-day allows attackers to execute code and deploy a stealthy backdoor on Adobe Commerce and Magento stores",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Modified ScreenConnect Clients Used in Worm-Like Campaign",
+    "link": "https://www.securityweek.com/modified-screenconnect-clients-used-in-worm-like-campaign/",
+    "published": "Mon, 07 Sep 2026 11:45:48 +0000",
+    "summary": "<p>The attacks rely on backdoored ScreenConnect instances to transfer and execute payloads to newly connected clients.</p>\n<p>The post <a href=\"https://www.securityweek.com/modified-screenconnect-clients-used-in-worm-like-campaign/\">Modified ScreenConnect Clients Used in Worm-Like Campaign</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The attacks rely on backdoored ScreenConnect instances to transfer and execute payloads to newly connected clients",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
       ]
     }
   },
@@ -660,117 +755,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-49869",
+        "CVE-2026-59822",
         "CVE-2026-48710",
         "CVE-2026-9586",
-        "CVE-2026-59822"
+        "CVE-2026-49869"
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover",
-    "link": "https://www.securityweek.com/12-year-old-postgresql-vulnerability-enables-database-server-takeover/",
-    "published": "Fri, 04 Sep 2026 12:06:13 +0000",
-    "summary": "<p>Dubbed PostGREShell, CVE-2026-6471 turns low-level replication access into code execution, permanent superuser privileges and a persistent database backdoor.</p>\n<p>The post <a href=\"https://www.securityweek.com/12-year-old-postgresql-vulnerability-enables-database-server-takeover/\">12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Dubbed PostGREShell, CVE-2026-6471 turns low-level replication access into code execution, permanent superuser privileges and a persistent database backdoor",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-6471"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Catch Raises $5 Million for AI Executive Assistant With Guardrails",
-    "link": "https://www.securityweek.com/catch-raises-5-million-for-ai-executive-assistant-with-guardrails/",
-    "published": "Fri, 04 Sep 2026 11:55:17 +0000",
-    "summary": "<p>Catch promises the capabilities of a trusted executive assistant, with built-in controls governing what data and systems it can access.</p>\n<p>The post <a href=\"https://www.securityweek.com/catch-raises-5-million-for-ai-executive-assistant-with-guardrails/\">Catch Raises $5 Million for AI Executive Assistant With Guardrails</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Catch promises the capabilities of a trusted executive assistant, with built-in controls governing what data and systems it can access",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "VMware Workstation and Fusion Updates Patch Critical Vulnerability",
-    "link": "https://www.securityweek.com/vmware-workstation-and-fusion-updates-patch-critical-vulnerability/",
-    "published": "Fri, 04 Sep 2026 11:42:55 +0000",
-    "summary": "<p>The flaws could allow attackers with administrative access to a virtual machine to execute code on the host system.</p>\n<p>The post <a href=\"https://www.securityweek.com/vmware-workstation-and-fusion-updates-patch-critical-vulnerability/\">VMware Workstation and Fusion Updates Patch Critical Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The flaws could allow attackers with administrative access to a virtual machine to execute code on the host system",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-59346",
-        "CVE-2026-59347"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Google Patches 6th Chrome Zero-Day of 2026",
-    "link": "https://www.securityweek.com/google-patches-6th-chrome-zero-day-of-2026/",
-    "published": "Fri, 04 Sep 2026 11:31:52 +0000",
-    "summary": "<p>Google’s Chrome 152 security update resolves 12 vulnerabilities, including a high-severity type confusion flaw in the V8 engine.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-patches-6th-chrome-zero-day-of-2026/\">Google Patches 6th Chrome Zero-Day of 2026</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Google’s Chrome 152 security update resolves 12 vulnerabilities, including a high-severity type confusion flaw in the V8 engine",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-2441",
-        "CVE-2026-5281",
-        "CVE-2026-3910",
-        "CVE-2026-3909",
-        "CVE-2026-11645",
-        "CVE-2026-85046"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Nvidia Is Buying AI Platform Hugging Face for $13 Billion",
-    "link": "https://www.securityweek.com/nvidia-is-buying-ai-platform-hugging-face-for-13-billion/",
-    "published": "Fri, 04 Sep 2026 10:00:00 +0000",
-    "summary": "<p>The deal highlights Nvidia’s push to champion increasingly popular open-source AI models.</p>\n<p>The post <a href=\"https://www.securityweek.com/nvidia-is-buying-ai-platform-hugging-face-for-13-billion/\">Nvidia Is Buying AI Platform Hugging Face for $13 Billion</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The deal highlights Nvidia’s push to champion increasingly popular open-source AI models",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -1307,8 +1298,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1333,6 +1324,60 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "LG TV flaws could let attackers listen in, even in standby mode",
+    "link": "https://www.malwarebytes.com/blog/privacy/2026/09/lg-tv-flaws-could-let-attackers-listen-in-even-in-standby-mode",
+    "published": "Mon, 07 Sep 2026 13:34:40 GMT",
+    "summary": "Testing found that LG smart TVs can track viewing and scan home networks, while security flaws could let attackers record conversations.",
+    "analysis": {
+      "issue": "Smart TVs are internet-connected computers with microphones, app stores, advertising systems, and access to the same home networks used by your family’s phones, laptops, printers, and smart-home devices",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Flirty OnlyFans promoters on X may be using AI to appear human",
+    "link": "https://www.malwarebytes.com/blog/ai/2026/09/flirty-onlyfans-promoters-on-x-may-be-using-ai-to-appear-human",
+    "published": "Mon, 07 Sep 2026 11:18:00 GMT",
+    "summary": "Personalized replies and voice notes make it increasingly difficult to tell whether you’re talking to a human, chatbot, or AI agent.",
+    "analysis": {
+      "issue": "In a recent post, we looked at reports of League of Legends players receiving suspicious friend requests shortly after matches",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "A week in security (August 31 – September 6)",
+    "link": "https://www.malwarebytes.com/blog/news/2026/09/a-week-in-security-august-31-september-6",
+    "published": "Mon, 07 Sep 2026 07:01:00 GMT",
+    "summary": "Last week on Malwarebytes Labs: Stay safe!",
+    "analysis": {
+      "issue": "Last week on Malwarebytes Labs: Stay safe",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
       ]
     }
   },
@@ -1464,62 +1509,6 @@
         "Malware",
         "Phishing",
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Two critical Chrome flaws put users at risk on malicious websites",
-    "link": "https://www.malwarebytes.com/blog/bugs/2026/09/two-critical-chrome-flaws-put-users-at-risk-on-malicious-websites",
-    "published": "Wed, 02 Sep 2026 11:15:56 GMT",
-    "summary": "Update Chrome now: Two critical vulnerabilities could allow a malicious website to run code on your device.",
-    "analysis": {
-      "issue": "Shortly after this article was published, Google released another Chrome update that patches an actively exploited flaw in the V8 JavaScript engine, tracked as CVE-2026-85046",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-85046"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "153M+ driver’s licenses for sale on new dark web platform",
-    "link": "https://www.malwarebytes.com/blog/news/2026/09/dark-web-site-puts-153-million-drivers-licenses-and-millions-more-ids-up-for-sale",
-    "published": "Wed, 02 Sep 2026 10:03:58 GMT",
-    "summary": "The FBI is investigating a possible breach of idscan.net linked to 153 million driver’s license scans for sale online.",
-    "analysis": {
-      "issue": "A new dark web platform called Nexus claimed to be selling 153 million driver’s license scans and millions of other identity and medical cards",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Your AI chats could be used in court",
-    "link": "https://www.malwarebytes.com/blog/ai/2026/09/your-ai-chats-could-be-used-in-court",
-    "published": "Wed, 02 Sep 2026 09:22:19 GMT",
-    "summary": "What you tell an AI chatbot could come back to haunt you in court. The Washington Post found chat histories already used in 12 legal cases.",
-    "analysis": {
-      "issue": "You might tell an AI chatbot secrets that you wouldn’t divulge to your closest friends",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
