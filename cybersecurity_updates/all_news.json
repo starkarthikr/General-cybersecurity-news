@@ -1,6 +1,25 @@
 [
   {
     "source": "The Hacker News",
+    "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution",
+    "link": "https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html",
+    "published": "Mon, 07 Sep 2026 23:42:09 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a complex Chromium-based post-exploitation toolkit called PEEP that masquerades as a bookmarks extension for the web browser.\n\n\"Requiring prior administrative or code execution access, its installer injects the extension directly into Chrome/Edge profiles, bypassing Web Store checks and user prompts by forging Chromium's own Secure Preferences",
+    "analysis": {
+      "issue": "PEEP uses Chrome and Edge as a post-compromise backdoor for credential theft and host command execution",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
     "link": "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html",
     "published": "Mon, 07 Sep 2026 21:21:56 +0530",
@@ -160,25 +179,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
-    "link": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html",
-    "published": "Sun, 06 Sep 2026 01:44:47 +0530",
-    "summary": "Attackers are exploiting a new unpatched vulnerability in Magento Open Source and Adobe Commerce that lets them run malicious code on an online store's server without logging in, Dutch e-commerce security company Sansec said in an&nbsp;advisory published on September 5.\n\nSansec, which discovered the flaw and named it StyleSmuggler, said attacks started on September 4. \"Sansec is",
-    "analysis": {
-      "issue": "Sansec says attackers exploit an unpatched Magento and Adobe Commerce flaw to run server code without authentication and install persistent backdoors",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
       ]
     }
   },
@@ -440,8 +440,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-62832",
-        "CVE-2026-72971",
-        "CVE-2026-68820"
+        "CVE-2026-68820",
+        "CVE-2026-72971"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -518,10 +518,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-48561",
+        "CVE-2026-50661",
         "CVE-2026-56155",
         "CVE-2026-56164",
-        "CVE-2026-50661"
+        "CVE-2026-48561"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -757,10 +757,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-48710",
-        "CVE-2026-9586",
         "CVE-2026-59822",
-        "CVE-2026-49869"
+        "CVE-2026-9586",
+        "CVE-2026-49869",
+        "CVE-2026-48710"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1331,6 +1331,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Loyalty points fraud is funding hacker holidays (Lock and Code S07E18)",
+    "link": "https://www.malwarebytes.com/blog/podcast/2026/09/loyalty-points-fraud-is-funding-hacker-holidays-lock-and-code-s07e18",
+    "published": "Mon, 07 Sep 2026 18:23:18 GMT",
+    "summary": "This week on the Lock and Code podcast, we speak with Kim Sutherland about loyalty points fraud and how everyday people can stay safe.",
+    "analysis": {
+      "issue": "This week on the Lock and Code podcast… Crooks are taking a holiday",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "LG TV flaws could let attackers listen in, even in standby mode",
     "link": "https://www.malwarebytes.com/blog/privacy/2026/09/lg-tv-flaws-could-let-attackers-listen-in-even-in-standby-mode",
     "published": "Mon, 07 Sep 2026 13:34:40 GMT",
@@ -1491,26 +1509,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Scammers are getting smarter about where they target you",
-    "link": "https://www.malwarebytes.com/blog/scams/2026/09/scammers-are-getting-smarter-about-where-they-target-you",
-    "published": "Wed, 02 Sep 2026 12:45:00 GMT",
-    "summary": "New Malwarebytes research reveals how different scams are tailored to different platforms.",
-    "analysis": {
-      "issue": "Scammers are becoming more strategic about where they target people",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing",
-        "APT"
       ]
     }
   },

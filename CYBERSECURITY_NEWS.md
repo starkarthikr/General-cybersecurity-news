@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-07 17:37:07 UTC
+**Last Updated:** 2026-09-07 20:05:43 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks](https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html)
+### 1. [PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution](https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 07 Sep 2026 23:42:09 +0530  
+**Severity:** Low  
+**Categories:** Malware, Phishing  
+
+---
+
+### 2. [Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks](https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 07 Sep 2026 21:21:56 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More](https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html)
+### 3. [⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More](https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 07 Sep 2026 20:06:07 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Your Cloud Security Checklist Doesn't Work the Way You Think It Does](https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html)
+### 4. [Your Cloud Security Checklist Doesn't Work the Way You Think It Does](https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 07 Sep 2026 17:15:00 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts](https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html)
+### 5. [Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts](https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 07 Sep 2026 17:06:39 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE — Public Exploit Released](https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html)
+### 6. [Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE — Public Exploit Released](https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 07 Sep 2026 16:50:14 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw](https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html)
+### 7. [N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw](https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 07 Sep 2026 14:01:12 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies](https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html)
+### 8. [JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies](https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 07 Sep 2026 13:23:04 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication](https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html)
+### 9. [Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication](https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 06 Sep 2026 15:02:38 +0530  
@@ -76,21 +85,12 @@
 
 ---
 
-### 9. [Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner](https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html)
+### 10. [Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner](https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 06 Sep 2026 14:04:20 +0530  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 10. [Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores](https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html)
-
-**Source:** The Hacker News  
-**Published:** Sun, 06 Sep 2026 01:44:47 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability, Malware  
 
 ---
 
@@ -218,7 +218,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62832, CVE-2026-72971, CVE-2026-68820  
+**CVEs:** CVE-2026-62832, CVE-2026-68820, CVE-2026-72971  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -255,7 +255,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48561, CVE-2026-56155, CVE-2026-56164, CVE-2026-50661  
+**CVEs:** CVE-2026-50661, CVE-2026-56155, CVE-2026-56164, CVE-2026-48561  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -367,7 +367,7 @@
 **Source:** Security Week  
 **Published:** Fri, 04 Sep 2026 13:23:12 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48710, CVE-2026-9586, CVE-2026-59822, CVE-2026-49869  
+**CVEs:** CVE-2026-59822, CVE-2026-9586, CVE-2026-49869, CVE-2026-48710  
 **Categories:** Vulnerability  
 
 ---
@@ -647,7 +647,16 @@
 
 ---
 
-### 71. [LG TV flaws could let attackers listen in, even in standby mode](https://www.malwarebytes.com/blog/privacy/2026/09/lg-tv-flaws-could-let-attackers-listen-in-even-in-standby-mode)
+### 71. [Loyalty points fraud is funding hacker holidays (Lock and Code S07E18)](https://www.malwarebytes.com/blog/podcast/2026/09/loyalty-points-fraud-is-funding-hacker-holidays-lock-and-code-s07e18)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 07 Sep 2026 18:23:18 GMT  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 72. [LG TV flaws could let attackers listen in, even in standby mode](https://www.malwarebytes.com/blog/privacy/2026/09/lg-tv-flaws-could-let-attackers-listen-in-even-in-standby-mode)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 07 Sep 2026 13:34:40 GMT  
@@ -656,7 +665,7 @@
 
 ---
 
-### 72. [Flirty OnlyFans promoters on X may be using AI to appear human](https://www.malwarebytes.com/blog/ai/2026/09/flirty-onlyfans-promoters-on-x-may-be-using-ai-to-appear-human)
+### 73. [Flirty OnlyFans promoters on X may be using AI to appear human](https://www.malwarebytes.com/blog/ai/2026/09/flirty-onlyfans-promoters-on-x-may-be-using-ai-to-appear-human)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 07 Sep 2026 11:18:00 GMT  
@@ -665,7 +674,7 @@
 
 ---
 
-### 73. [A week in security (August 31 – September 6)](https://www.malwarebytes.com/blog/news/2026/09/a-week-in-security-august-31-september-6)
+### 74. [A week in security (August 31 – September 6)](https://www.malwarebytes.com/blog/news/2026/09/a-week-in-security-august-31-september-6)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 07 Sep 2026 07:01:00 GMT  
@@ -674,7 +683,7 @@
 
 ---
 
-### 74. [The hidden work of modernizing Malwarebytes](https://www.malwarebytes.com/blog/inside-malwarebytes/2026/09/the-hidden-work-of-modernizing-malwarebytes)
+### 75. [The hidden work of modernizing Malwarebytes](https://www.malwarebytes.com/blog/inside-malwarebytes/2026/09/the-hidden-work-of-modernizing-malwarebytes)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 04 Sep 2026 17:15:42 GMT  
@@ -683,7 +692,7 @@
 
 ---
 
-### 75. [X Money rollout linked to password-reset attacks](https://www.malwarebytes.com/blog/scams/2026/09/x-money-rollout-linked-to-password-reset-attacks)
+### 76. [X Money rollout linked to password-reset attacks](https://www.malwarebytes.com/blog/scams/2026/09/x-money-rollout-linked-to-password-reset-attacks)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 04 Sep 2026 12:29:41 GMT  
@@ -692,7 +701,7 @@
 
 ---
 
-### 76. [Free streaming boxes may be routing criminal traffic through your home](https://www.malwarebytes.com/blog/news/2026/09/free-streaming-boxes-may-be-routing-criminal-traffic-through-your-home)
+### 77. [Free streaming boxes may be routing criminal traffic through your home](https://www.malwarebytes.com/blog/news/2026/09/free-streaming-boxes-may-be-routing-criminal-traffic-through-your-home)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 04 Sep 2026 09:20:48 GMT  
@@ -701,7 +710,7 @@
 
 ---
 
-### 77. [StreamRat Android malware spreads through Meta and TikTok ads](https://www.malwarebytes.com/blog/news/2026/09/streamrat-android-malware-spreads-through-meta-and-tiktok-ads)
+### 78. [StreamRat Android malware spreads through Meta and TikTok ads](https://www.malwarebytes.com/blog/news/2026/09/streamrat-android-malware-spreads-through-meta-and-tiktok-ads)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 03 Sep 2026 16:04:24 GMT  
@@ -710,7 +719,7 @@
 
 ---
 
-### 78. [Your phone or computer may soon ask how old you are](https://www.malwarebytes.com/blog/privacy/2026/09/your-phone-or-computer-may-soon-ask-how-old-you-are)
+### 79. [Your phone or computer may soon ask how old you are](https://www.malwarebytes.com/blog/privacy/2026/09/your-phone-or-computer-may-soon-ask-how-old-you-are)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 03 Sep 2026 08:54:50 GMT  
@@ -719,21 +728,12 @@
 
 ---
 
-### 79. [Tech support scams look different now. Here’s what to watch for](https://www.malwarebytes.com/blog/scams/2026/09/tech-support-scams-look-different-now-heres-what-to-watch-for)
+### 80. [Tech support scams look different now. Here’s what to watch for](https://www.malwarebytes.com/blog/scams/2026/09/tech-support-scams-look-different-now-heres-what-to-watch-for)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 02 Sep 2026 15:49:51 GMT  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 80. [Scammers are getting smarter about where they target you](https://www.malwarebytes.com/blog/scams/2026/09/scammers-are-getting-smarter-about-where-they-target-you)
-
-**Source:** Malwarebytes  
-**Published:** Wed, 02 Sep 2026 12:45:00 GMT  
-**Severity:** Low  
-**Categories:** Malware, Phishing, APT  
 
 ---
 
