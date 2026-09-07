@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-07 14:22:45 UTC
+**Last Updated:** 2026-09-07 17:37:07 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Your Cloud Security Checklist Doesn't Work the Way You Think It Does](https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html)
+### 1. [Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks](https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 07 Sep 2026 21:21:56 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More](https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 07 Sep 2026 20:06:07 +0530  
+**Severity:** Critical  
+**Categories:** Vulnerability, Phishing, Supply Chain  
+
+---
+
+### 3. [Your Cloud Security Checklist Doesn't Work the Way You Think It Does](https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 07 Sep 2026 17:15:00 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts](https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html)
+### 4. [Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts](https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 07 Sep 2026 17:06:39 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE — Public Exploit Released](https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html)
+### 5. [Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE — Public Exploit Released](https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 07 Sep 2026 16:50:14 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw](https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html)
+### 6. [N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw](https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 07 Sep 2026 14:01:12 +0530  
@@ -40,7 +58,7 @@
 
 ---
 
-### 5. [JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies](https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html)
+### 7. [JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies](https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 07 Sep 2026 13:23:04 +0530  
@@ -49,7 +67,7 @@
 
 ---
 
-### 6. [Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication](https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html)
+### 8. [Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication](https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 06 Sep 2026 15:02:38 +0530  
@@ -58,7 +76,7 @@
 
 ---
 
-### 7. [Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner](https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html)
+### 9. [Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner](https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 06 Sep 2026 14:04:20 +0530  
@@ -67,7 +85,7 @@
 
 ---
 
-### 8. [Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores](https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html)
+### 10. [Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores](https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 06 Sep 2026 01:44:47 +0530  
@@ -76,26 +94,25 @@
 
 ---
 
-### 9. [Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials](https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html)
+### 11. [Magento StyleSmuggler zero-day exploited to deploy Linux backdoor](https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/)
 
-**Source:** The Hacker News  
-**Published:** Sat, 05 Sep 2026 22:22:33 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-63077  
-**Categories:** Vulnerability  
-
----
-
-### 10. [Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code](https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html)
-
-**Source:** The Hacker News  
-**Published:** Sat, 05 Sep 2026 21:35:08 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
+**Source:** Bleeping Computer  
+**Published:** Mon, 07 Sep 2026 12:50:29 -0400  
+**Severity:** Critical  
+**Categories:** Vulnerability, Malware  
 
 ---
 
-### 11. [Mathspace discloses data breach affecting over 1 million people](https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/)
+### 12. [BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations](https://www.bleepingcomputer.com/news/security/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 07 Sep 2026 11:39:51 -0400  
+**Severity:** Low  
+**Categories:** Phishing, APT  
+
+---
+
+### 13. [Mathspace discloses data breach affecting over 1 million people](https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 07 Sep 2026 09:05:11 -0400  
@@ -104,7 +121,7 @@
 
 ---
 
-### 12. [Trezor data breach impact now reaches 81,000 customers](https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/)
+### 14. [Trezor data breach impact now reaches 81,000 customers](https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 07 Sep 2026 08:16:32 -0400  
@@ -113,7 +130,7 @@
 
 ---
 
-### 13. [ChatGPT can now connect to your personal apps to mimic writing style](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/)
+### 15. [ChatGPT can now connect to your personal apps to mimic writing style](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 07 Sep 2026 06:36:37 -0400  
@@ -122,7 +139,7 @@
 
 ---
 
-### 14. [Hackers exploit new MikroTik RouterOS flaws to hijack routers](https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/)
+### 16. [Hackers exploit new MikroTik RouterOS flaws to hijack routers](https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 07 Sep 2026 06:32:40 -0400  
@@ -132,7 +149,7 @@
 
 ---
 
-### 15. [ConnectWise warns of new ScreenConnect flaw without patch](https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/)
+### 17. [ConnectWise warns of new ScreenConnect flaw without patch](https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 07 Sep 2026 06:06:38 -0400  
@@ -141,7 +158,7 @@
 
 ---
 
-### 16. [N-able patches max severity N-central flaw amid ongoing attacks](https://www.bleepingcomputer.com/news/security/n-able-patches-max-severity-n-central-flaw-amid-ongoing-attacks/)
+### 18. [N-able patches max severity N-central flaw amid ongoing attacks](https://www.bleepingcomputer.com/news/security/n-able-patches-max-severity-n-central-flaw-amid-ongoing-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 07 Sep 2026 02:17:41 -0400  
@@ -151,7 +168,7 @@
 
 ---
 
-### 17. [ChatGPT Astra is now rolling out to $20 Plus subscription](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/)
+### 19. [ChatGPT Astra is now rolling out to $20 Plus subscription](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 06 Sep 2026 21:15:43 -0400  
@@ -160,30 +177,12 @@
 
 ---
 
-### 18. [Attackers conceal phishing lures using invisible Unicode characters](https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/)
+### 20. [Attackers conceal phishing lures using invisible Unicode characters](https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 06 Sep 2026 10:23:46 -0400  
 **Severity:** High  
 **Categories:** Phishing  
-
----
-
-### 19. [Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain](https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 05 Sep 2026 10:29:13 -0400  
-**Severity:** Low  
-**Categories:** APT  
-
----
-
-### 20. [OpenAI admits it didn't disclose rogue AI wiki hijacking incident](https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 05 Sep 2026 07:11:50 -0400  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -219,7 +218,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-68820, CVE-2026-62832, CVE-2026-72971  
+**CVEs:** CVE-2026-62832, CVE-2026-72971, CVE-2026-68820  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -256,7 +255,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56155, CVE-2026-48561, CVE-2026-56164, CVE-2026-50661  
+**CVEs:** CVE-2026-48561, CVE-2026-56155, CVE-2026-56164, CVE-2026-50661  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -368,7 +367,7 @@
 **Source:** Security Week  
 **Published:** Fri, 04 Sep 2026 13:23:12 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-59822, CVE-2026-48710, CVE-2026-9586, CVE-2026-49869  
+**CVEs:** CVE-2026-48710, CVE-2026-9586, CVE-2026-59822, CVE-2026-49869  
 **Categories:** Vulnerability  
 
 ---
@@ -633,7 +632,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
