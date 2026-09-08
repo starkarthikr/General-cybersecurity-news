@@ -1,6 +1,96 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC",
+    "link": "https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html",
+    "published": "Tue, 08 Sep 2026 20:24:30 +0530",
+    "summary": "Whoever took nearly 4,000 bitcoin from the Liquid Network on Sunday, September 6,&nbsp;returned 3,400 of it&nbsp;the next day, Bitcoin's public record shows. About 598.5 bitcoin has not come back.\n\nLiquid is a Bitcoin sidechain that holds real bitcoin to back a token called L-BTC. The network is still paused, so holders cannot turn that token back into bitcoin.\n\nThe 3,400 bitcoin was sent to a&",
+    "analysis": {
+      "issue": "Liquid received 3,400 bitcoin back after nearly 4,000 BTC was taken; 598",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account",
+    "link": "https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html",
+    "published": "Tue, 08 Sep 2026 19:49:17 +0530",
+    "summary": "Check Point Research said in a&nbsp;report published today&nbsp;that a single instruction planted in a ChatGPT conversation could cause ChatGPT to quietly work for an attacker while answering the user's question as usual.\n\nIn the company's proof of concept, that hidden work read data from the user's connected Gmail account and passed it to a second ChatGPT account through a hidden channel",
+    "analysis": {
+      "issue": "A planted ChatGPT instruction could read connected Gmail data and relay it across accounts through shared Artifactory metadata",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours",
+    "link": "https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html",
+    "published": "Tue, 08 Sep 2026 19:18:16 +0530",
+    "summary": "Threat actors are continuing to leverage artificial intelligence (AI) to streamline their operations, with one financially motivated hacking group employing an autonomous, multi-agent attack framework to carry out a large-scale credential harvesting campaign within six hours.\n\nGoogle Threat Intelligence Group (GTIG) said it has observed attackers with diverse motivations targeting proprietary AI",
+    "analysis": {
+      "issue": "A financially motivated actor used an autonomous multi-agent framework to compromise thousands of third-party credentials in under six hours",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls",
+    "link": "https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html",
+    "published": "Tue, 08 Sep 2026 17:24:29 +0530",
+    "summary": "Researchers at the security firm Calif have built a worm that takes over a WeChat account via an incoming call and&nbsp;demonstrated it spreading&nbsp;among three test phones.\n\nThe person being called does not have to answer or touch their phone for it to work, but the caller must already be one of their WeChat contacts. Calif reported the flaw to Tencent in July and says the company has since",
+    "analysis": {
+      "issue": "A WeChat worm demo took over iPhone and Android accounts through incoming calls from existing contacts; Calif says Tencent blocked the exploit",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "What It Took to Reach 1 Billion Build Manifests",
+    "link": "https://thehackernews.com/2026/09/what-it-took-to-reach-1-billion-build.html",
+    "published": "Tue, 08 Sep 2026 17:19:02 +0530",
+    "summary": "In the last six months, Chainguard doubled its output from 500 million to more than 1 billion container build manifests. We also surpassed 3,000 unique container images and 675,000 image versions in our catalog. Those are the headline numbers, but I want to share what's actually behind them. The number itself is less interesting than the system that produced it, and why we had to fundamentally",
+    "analysis": {
+      "issue": "0 doubled container build manifests to over 1 billion in six months using AI-assisted reconciliation",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "FreeIPA Flaw Chain Lets Anonymous Clients Create Reusable Administrator Credentials",
     "link": "https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html",
     "published": "Tue, 08 Sep 2026 16:52:07 +0530",
@@ -43,68 +133,34 @@
     "title": "BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams",
     "link": "https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html",
     "published": "Tue, 08 Sep 2026 14:13:51 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a sprawling search engine optimization (SEO) poisoning campaign that paves the way for malware deployment and tech support scams.\n\nThe campaign, discovered by the DFIR Report in March 2026, has been codenamed BengalSEO. It has operated out of the Indian state of Rajasthan since at least 2015, driven by two IT service providers named WeConnect",
-    "analysis": {
-      "issue": "BengalSEO poisons Bing search results to deliver MayaBot malware and funnel users into tech support scams",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
+    "summary": "Cybersecurity researchers have disclosed details of a sprawling search engine optimization (SEO) poisoning campaign that paves the way for malware deployment and tech support scams.\n\nThe campaign, discovered by the DFIR Report in March 2026, has been codenamed BengalSEO. It has operated out of the Indian state of Rajasthan since at least 2015, driven by two IT service providers named WeConnect"
   },
   {
     "source": "The Hacker News",
     "title": "Grindr to Pay £26 Million to Settle U.K. Claims Over HIV Status Data Sharing",
     "link": "https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html",
     "published": "Tue, 08 Sep 2026 12:30:43 +0530",
-    "summary": "Online dating app Grindr has opted to pay £26 million ($35.1 million) to settle a lawsuit in the U.K. over allegations that it shared users' personal information, including their HIV status, with third-parties.\n\nGrindr, which is the largest LGBTQ+ dating app, was sued in April 2024, accusing it of violating U.K. privacy laws by sharing sensitive data for commercial purposes such as advertising.",
-    "analysis": {
-      "issue": "Grindr will pay £26 million to settle a U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
+    "summary": "Online dating app Grindr has opted to pay £26 million ($35.1 million) to settle a lawsuit in the U.K. over allegations that it shared users' personal information, including their HIV status, with third-parties.\n\nGrindr, which is the largest LGBTQ+ dating app, was sued in April 2024, accusing it of violating U.K. privacy laws by sharing sensitive data for commercial purposes such as advertising."
   },
   {
     "source": "The Hacker News",
     "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution",
     "link": "https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html",
     "published": "Mon, 07 Sep 2026 23:42:09 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a complex Chromium-based post-exploitation toolkit called PEEP that masquerades as a bookmarks extension for the web browser.\n\n\"Requiring prior administrative or code execution access, its installer injects the extension directly into Chrome/Edge profiles, bypassing Web Store checks and user prompts by forging Chromium's own Secure Preferences",
-    "analysis": {
-      "issue": "PEEP uses Chrome and Edge as a post-compromise backdoor for credential theft and host command execution",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
-      ]
-    }
+    "summary": "Cybersecurity researchers have disclosed details of a complex Chromium-based post-exploitation toolkit called PEEP that masquerades as a bookmarks extension for the web browser.\n\n\"Requiring prior administrative or code execution access, its installer injects the extension directly into Chrome/Edge profiles, bypassing Web Store checks and user prompts by forging Chromium's own Secure Preferences"
   },
   {
-    "source": "The Hacker News",
-    "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
-    "link": "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html",
-    "published": "Mon, 07 Sep 2026 21:21:56 +0530",
-    "summary": "Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that's targeting Microsoft 365 and other software-as-a-service (SaaS) offerings through information technology (IT) help desk vishing, adversary-in-the-middle (AitM) token theft, and residential-proxy sign-ins.\n\nThe activity, which mainly singles out directors, vice presidents, and other executive staff",
+    "source": "Bleeping Computer",
+    "title": "August updates trigger 0xc0000409 errors on Windows Server 2016",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/august-updates-trigger-0xc0000409-errors-on-windows-server-2016/",
+    "published": "Tue, 08 Sep 2026 11:22:33 -0400",
+    "summary": "Microsoft says the August 2026 security update may trigger 0xc0000409 errors on Windows Server 2016 systems where the Compatibility Appraiser diagnostic service is enabled. [...]",
     "analysis": {
-      "issue": "PREY-0058 uses help desk vishing and AitM token theft to steal data from Microsoft 365 and other SaaS services for extortion",
+      "issue": "Microsoft says the August 2026 security update may trigger 0xc0000409 errors on Windows Server 2016 systems where the Compatibility Appraiser diagnostic service is enabled",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
         "General Security"
@@ -112,76 +168,79 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
-    "link": "https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html",
-    "published": "Mon, 07 Sep 2026 20:06:07 +0530",
-    "summary": "Turning off email images should at least stop the pictures. This week, attackers had a workaround: a scannable QR code built out of text. It still appears, even with images blocked. A small detail, but an annoying one if that was a precaution you were counting on.\n\nElsewhere, a trusted software source delivered code that stole credentials, and a protocol designed for secure network management",
+    "source": "Bleeping Computer",
+    "title": "SAP warns of maximum severity 'OVERPASS' kernel vulnerability",
+    "link": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-overpass-kernel-vulnerability/",
+    "published": "Tue, 08 Sep 2026 10:55:20 -0400",
+    "summary": "SAP has addressed 20 vulnerabilities across multiple products in its September 2026 security updates, including a maximum-severity memory corruption flaw in the SAP Kernel code. [...]",
     "analysis": {
-      "issue": "This week’s cybersecurity recap: Chrome zero-day attacks, router hijacks, Coder’s supply chain breach, image-free QR phishing, and more security news",
+      "issue": "SAP has addressed 20 vulnerabilities across multiple products in its September 2026 security updates, including a maximum-severity memory corruption flaw in the SAP Kernel code",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2026-44756"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-6-astra-can-find-zero-days-but-is-also-harder-to-monitor/",
+    "published": "Tue, 08 Sep 2026 10:40:32 -0400",
+    "summary": "OpenAI confirmed that GPT-6 Astra is the first model it has broadly deployed to reach the \"Critical level\" for cybersecurity capabilities. [...]",
+    "analysis": {
+      "issue": "OpenAI confirmed that GPT-6 Astra is the first model it has broadly deployed to reach the \"Critical level\" for cybersecurity capabilities",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "Vulnerability",
-        "Phishing",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Your Cloud Security Checklist Doesn't Work the Way You Think It Does",
-    "link": "https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html",
-    "published": "Mon, 07 Sep 2026 17:15:00 +0530",
-    "summary": "If managing security across multiple cloud providers wasn't hard enough, each one fails in a different way. For the 2026 Cloud Security Index, Intruder analyzed misconfiguration data from 3,000 organizations across AWS, Azure, and Google Cloud and found that risk profiles across providers have almost nothing in common. Here’s what the data looks like.\n\nHow risk differs across cloud providers",
-    "analysis": {
-      "issue": "Intruder analyzed 3,000 organizations, finding exposed services in 76% of AWS accounts versus 8% on Google Cloud",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts",
-    "link": "https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html",
-    "published": "Mon, 07 Sep 2026 17:06:39 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of worm-like activity that abuses ConnectWise ScreenConnect to distribute a malicious Visual Basic Script (VBScript) payload to newly connected systems.\n\nAccording to Huntress, three unrelated incidents have been found to use diverse initial access methods, namely a Quick Assist tech-support scam, a phishing-delivered MSI installer, and a fake",
-    "analysis": {
-      "issue": "ScreenConnect abuse shows worm-like propagation of a four-stage VBScript chain; ConnectWise advises disabling file transfers until a fix",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE — Public Exploit Released",
-    "link": "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html",
-    "published": "Mon, 07 Sep 2026 16:50:14 +0530",
-    "summary": "A TantoSec proof-of-concept turns an AES-CBC \"padding oracle\" in Telerik UI for ASP.NET AJAX into unauthenticated remote code execution — but only against applications in a specific non-default configuration, and Progress patched the chain in July. There are no confirmed reports of exploitation in the wild.\n\nSecurity firm TantoSec has published a working exploit chain targeting vulnerabilities",
-    "analysis": {
-      "issue": "TantoSec's Telerik UI PoC demonstrates unauthenticated RCE under specific non-default conditions; fixes shipped in July",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Adobe fixes critical Magento zero-day exploited to backdoor servers",
+    "link": "https://www.bleepingcomputer.com/news/security/adobe-fixes-critical-magento-zero-day-exploited-to-backdoor-servers/",
+    "published": "Tue, 08 Sep 2026 09:34:47 -0400",
+    "summary": "Adobe has released an emergency fix for CVE-2026-75650, an actively exploited max-severity zero-day vulnerability dubbed StyleSmuggler, that impacts multiple versions of Magento and Adobe Commerce. [...]",
+    "analysis": {
+      "issue": "Adobe has released an emergency fix for CVE-2026-75650, an actively exploited max-severity zero-day vulnerability dubbed StyleSmuggler, that impacts multiple versions of Magento and Adobe Commerce",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-75650"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Webinar: The forgotten Google Workspace access that can lead to a breach",
+    "link": "https://www.bleepingcomputer.com/news/security/webinar-the-forgotten-google-workspace-access-that-can-lead-to-a-breach/",
+    "published": "Tue, 08 Sep 2026 08:40:48 -0400",
+    "summary": "Third-party applications connected to Google Workspace can retain access long after their original purpose is forgotten. This webinar examines how overly permissive integrations contribute to breaches and which security controls can help fast-growing companies reduce their exposure. [...]",
+    "analysis": {
+      "issue": "Third-party applications can make Google Workspace far more useful, but integrations granted access months or years ago can also become an overlooked path into an organization's data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
       ]
     }
   },
@@ -278,100 +337,6 @@
       "threat_categories": [
         "Phishing",
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Mathspace discloses data breach affecting over 1 million people",
-    "link": "https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/",
-    "published": "Mon, 07 Sep 2026 09:05:11 -0400",
-    "summary": "Online maths learning platform Mathspace disclosed over the weekend that attackers stole data from more than 1 million students, staff, and parents after breaching its Metabase internal reporting system. [...]",
-    "analysis": {
-      "issue": "Online maths learning platform Mathspace disclosed over the weekend that attackers stole data from more than 1 million students, staff, and parents after breaching its Metabase internal reporting system",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Trezor data breach impact now reaches 81,000 customers",
-    "link": "https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/",
-    "published": "Mon, 07 Sep 2026 08:16:32 -0400",
-    "summary": "Cryptocurrency hardware wallet maker Trezor says an August data breach at its shipping and logistics provider, ShipMonk, affects an additional 67,000 U.S. customers. [...]",
-    "analysis": {
-      "issue": "Cryptocurrency hardware wallet maker Trezor says an August data breach at its shipping and logistics provider, ShipMonk, affects an additional 67,000 U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "ChatGPT can now connect to your personal apps to mimic writing style",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/",
-    "published": "Mon, 07 Sep 2026 06:36:37 -0400",
-    "summary": "OpenAI appears to be testing a new \"Writing Style\" feature for ChatGPT that can learn how you write by looking at examples from your connected apps. [...]",
-    "analysis": {
-      "issue": "OpenAI appears to be testing a new \"Writing Style\" feature for ChatGPT that can learn how you write by looking at examples from your connected apps",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers exploit new MikroTik RouterOS flaws to hijack routers",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/",
-    "published": "Mon, 07 Sep 2026 06:32:40 -0400",
-    "summary": "Hackers are exploiting a chain of two recently disclosed vulnerabilities in MikroTik routers to take control of devices with SSH services exposed to the internet. [...]",
-    "analysis": {
-      "issue": "Hackers are exploiting a chain of two recently disclosed vulnerabilities in MikroTik routers to take control of devices with SSH services exposed to the internet",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-67276",
-        "CVE-2026-86060"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "ConnectWise warns of new ScreenConnect flaw without patch",
-    "link": "https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/",
-    "published": "Mon, 07 Sep 2026 06:06:38 -0400",
-    "summary": "ConnectWise has shared temporary mitigation measures for a new ScreenConnect Remote Access vulnerability that it plans to patch later this week. [...]",
-    "analysis": {
-      "issue": "ConnectWise has shared temporary mitigation measures for a new ScreenConnect Remote Access vulnerability that it plans to patch later this week",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -523,10 +488,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-48561",
-        "CVE-2026-50661",
         "CVE-2026-56164",
-        "CVE-2026-56155"
+        "CVE-2026-48561",
+        "CVE-2026-56155",
+        "CVE-2026-50661"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -573,6 +538,67 @@
   },
   {
     "source": "Security Week",
+    "title": "Cylake Raises $245 Million Ahead of Cybersecurity Platform Beta",
+    "link": "https://www.securityweek.com/cylake-raises-245-million-ahead-of-cybersecurity-platform-beta/",
+    "published": "Tue, 08 Sep 2026 15:21:01 +0000",
+    "summary": "<p>The startup founded by Palo Alto Networks’ Nir Zuk has raised $290 million to build an AI-native security platform for highly regulated organizations that cannot rely on the public cloud.</p>\n<p>The post <a href=\"https://www.securityweek.com/cylake-raises-245-million-ahead-of-cybersecurity-platform-beta/\">Cylake Raises $245 Million Ahead of Cybersecurity Platform Beta</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The startup founded by Palo Alto Networks’ Nir Zuk has raised $290 million to build an AI-native security platform for highly regulated organizations that cannot rely on the public cloud",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "SAP Patches Critical Extended Passport Processing Vulnerability",
+    "link": "https://www.securityweek.com/sap-patches-critical-extended-passport-processing-vulnerability/",
+    "published": "Tue, 08 Sep 2026 14:55:06 +0000",
+    "summary": "<p>Affecting the SAP kernel code, the flaw allows unauthenticated, remote attackers to run arbitrary commands, recover secrets, and modify data.</p>\n<p>The post <a href=\"https://www.securityweek.com/sap-patches-critical-extended-passport-processing-vulnerability/\">SAP Patches Critical Extended Passport Processing Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Affecting the SAP kernel code, the flaw allows unauthenticated, remote attackers to run arbitrary commands, recover secrets, and modify data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-76969",
+        "CVE-2026-66768",
+        "CVE-2026-44756",
+        "CVE-2026-58240"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Party’s Over for Crypto Scammers Who Went on a Spending Spree After a $240 Million Bitcoin Theft",
+    "link": "https://www.securityweek.com/partys-over-for-crypto-scammers-who-went-on-a-spending-spree-after-a-240-million-bitcoin-theft/",
+    "published": "Tue, 08 Sep 2026 13:00:00 +0000",
+    "summary": "<p>The scammers purchased fleets of sports cars, flew on private jets, hired security guards and rented mansions in Miami and the Hamptons.</p>\n<p>The post <a href=\"https://www.securityweek.com/partys-over-for-crypto-scammers-who-went-on-a-spending-spree-after-a-240-million-bitcoin-theft/\">Party’s Over for Crypto Scammers Who Went on a Spending Spree After a $240 Million Bitcoin Theft</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The scammers purchased fleets of sports cars, flew on private jets, hired security guards and rented mansions in Miami and the Hamptons",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "MikroTik Patches Critical Flaws Chained to Hack Routers",
     "link": "https://www.securityweek.com/mikrotik-patches-critical-flaws-chained-to-hack-routers/",
     "published": "Tue, 08 Sep 2026 11:15:00 +0000",
@@ -585,11 +611,11 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-86060",
-        "CVE-2026-67276",
-        "CVE-2026-67279",
         "CVE-2026-67281",
+        "CVE-2026-67276",
         "CVE-2026-67277",
-        "CVE-2026-67278"
+        "CVE-2026-67278",
+        "CVE-2026-67279"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -633,9 +659,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-86206",
         "CVE-2026-86207",
-        "CVE-2026-86218"
+        "CVE-2026-86218",
+        "CVE-2026-86206"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -717,69 +743,6 @@
       "threat_categories": [
         "Vulnerability",
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Modified ScreenConnect Clients Used in Worm-Like Campaign",
-    "link": "https://www.securityweek.com/modified-screenconnect-clients-used-in-worm-like-campaign/",
-    "published": "Mon, 07 Sep 2026 11:45:48 +0000",
-    "summary": "<p>The attacks rely on backdoored ScreenConnect instances to transfer and execute payloads to newly connected clients.</p>\n<p>The post <a href=\"https://www.securityweek.com/modified-screenconnect-clients-used-in-worm-like-campaign/\">Modified ScreenConnect Clients Used in Worm-Like Campaign</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The attacks rely on backdoored ScreenConnect instances to transfer and execute payloads to newly connected clients",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites",
-    "link": "https://www.securityweek.com/elementor-pro-wordpress-plugin-vulnerability-exploited-to-hack-sites/",
-    "published": "Sat, 05 Sep 2026 13:00:28 +0000",
-    "summary": "<p>Tracked as CVE-2026-32475 (CVSS score of 9.8), the bug described as an arbitrary file upload issue in the function that handles form submissions.</p>\n<p>The post <a href=\"https://www.securityweek.com/elementor-pro-wordpress-plugin-vulnerability-exploited-to-hack-sites/\">Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Tracked as CVE-2026-32475 (CVSS score of 9",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-32475"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "In Other News: Microsoft’s Cloud Patches, Hacked Dropbox Accounts, Guardio’s $1.1B Valuation",
-    "link": "https://www.securityweek.com/in-other-news-microsofts-cloud-patches-hacked-dropbox-accounts-guardios-1-1b-valuation/",
-    "published": "Fri, 04 Sep 2026 16:18:30 +0000",
-    "summary": "<p>Noteworthy stories that might have slipped under the radar: Microsoft rolled out patches for cloud services, hackers compromised 5,000 Dropbox accounts, and Guardio is now valued at $1.1 billion. </p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-microsofts-cloud-patches-hacked-dropbox-accounts-guardios-1-1b-valuation/\">In Other News: Microsoft’s Cloud Patches, Hacked Dropbox Accounts, Guardio’s $1.1B Valuation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Noteworthy stories that might have slipped under the radar: Microsoft rolled out patches for cloud services, hackers compromised 5,000 Dropbox accounts, and Guardio is now valued at $1",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2026-62911"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Malware",
-        "Phishing"
       ]
     }
   },
@@ -1348,6 +1311,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Grindr settles HIV status data-sharing lawsuit for $35 million",
+    "link": "https://www.malwarebytes.com/blog/privacy/2026/09/grindr-settles-hiv-status-data-sharing-lawsuit-for-35-million",
+    "published": "Tue, 08 Sep 2026 12:51:14 GMT",
+    "summary": "Grindr has settled a UK lawsuit alleging that it shared sensitive user data, including HIV status, with advertising companies.",
+    "analysis": {
+      "issue": "Grindr has reportedly agreed to pay £26 million (around $35 million) to settle a UK privacy lawsuit alleging that it shared sensitive user data, including some users’ HIV status, with advertisers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "MikroTik router flaws allow takeover without a password",
     "link": "https://www.malwarebytes.com/blog/news/2026/09/mikrotik-routers-can-be-taken-over-without-password",
     "published": "Tue, 08 Sep 2026 09:49:16 GMT",
@@ -1359,8 +1340,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-67276",
-        "CVE-2026-86060"
+        "CVE-2026-86060",
+        "CVE-2026-67276"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1512,24 +1493,6 @@
       "threat_categories": [
         "Malware",
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Your phone or computer may soon ask how old you are",
-    "link": "https://www.malwarebytes.com/blog/privacy/2026/09/your-phone-or-computer-may-soon-ask-how-old-you-are",
-    "published": "Thu, 03 Sep 2026 08:54:50 GMT",
-    "summary": "California and Colorado will require operating systems to collect users’ ages, but open-source software like Linux may be exempt.",
-    "analysis": {
-      "issue": "First, the good news: If you use a Linux-based operating system, you may not be asked your age in a few months",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
