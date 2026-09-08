@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-08 16:24:26 UTC
+**Last Updated:** 2026-09-08 19:30:42 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC](https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html)
+### 1. [Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution](https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 08 Sep 2026 21:50:23 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC](https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 08 Sep 2026 20:24:30 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account](https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html)
+### 3. [ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account](https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 08 Sep 2026 19:49:17 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours](https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html)
+### 4. [Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours](https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 08 Sep 2026 19:18:16 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls](https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html)
+### 5. [WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls](https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 08 Sep 2026 17:24:29 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [What It Took to Reach 1 Billion Build Manifests](https://thehackernews.com/2026/09/what-it-took-to-reach-1-billion-build.html)
+### 6. [What It Took to Reach 1 Billion Build Manifests](https://thehackernews.com/2026/09/what-it-took-to-reach-1-billion-build.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 08 Sep 2026 17:19:02 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [FreeIPA Flaw Chain Lets Anonymous Clients Create Reusable Administrator Credentials](https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html)
+### 7. [FreeIPA Flaw Chain Lets Anonymous Clients Create Reusable Administrator Credentials](https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 08 Sep 2026 16:52:07 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell](https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html)
+### 8. [Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell](https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 08 Sep 2026 14:43:47 +0530  
@@ -68,28 +77,70 @@
 
 ---
 
-### 8. [BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams](https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html)
+### 9. [BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams](https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 08 Sep 2026 14:13:51 +0530  
+**Severity:** Low  
+**Categories:** Malware  
 
 ---
 
-### 9. [Grindr to Pay £26 Million to Settle U.K. Claims Over HIV Status Data Sharing](https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html)
+### 10. [Grindr to Pay £26 Million to Settle U.K. Claims Over HIV Status Data Sharing](https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 08 Sep 2026 12:30:43 +0530  
+**Severity:** Low  
+**Categories:** General Security  
 
 ---
 
-### 10. [PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution](https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html)
+### 11. [Microsoft releases Windows 10 KB5122878 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5122878-extended-security-update/)
 
-**Source:** The Hacker News  
-**Published:** Mon, 07 Sep 2026 23:42:09 +0530  
+**Source:** Bleeping Computer  
+**Published:** Tue, 08 Sep 2026 14:49:19 -0400  
+**Severity:** Critical  
+**Categories:** Vulnerability  
 
 ---
 
-### 11. [August updates trigger 0xc0000409 errors on Windows Server 2016](https://www.bleepingcomputer.com/news/microsoft/august-updates-trigger-0xc0000409-errors-on-windows-server-2016/)
+### 12. [Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-patch-tuesday-fixes-966-flaws-2-zero-days/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 08 Sep 2026 14:18:05 -0400  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 13. [Windows 11 cumulative updates KB5124008 & KB5122880 released](https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5124008-and-kb5122880-released/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 08 Sep 2026 13:57:03 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 14. [ShinyHunters hackers claim breach of Florida "DAVID" DMV database](https://www.bleepingcomputer.com/news/security/shinyhunters-hackers-claim-breach-of-florida-david-dmv-database/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 08 Sep 2026 12:35:47 -0400  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 15. [OpenAI says ChatGPT outage causes image generation errors](https://www.bleepingcomputer.com/news/technology/openai-says-chatgpt-outage-causes-image-generation-errors/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 08 Sep 2026 12:28:42 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 16. [August updates trigger 0xc0000409 errors on Windows Server 2016](https://www.bleepingcomputer.com/news/microsoft/august-updates-trigger-0xc0000409-errors-on-windows-server-2016/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 08 Sep 2026 11:22:33 -0400  
@@ -98,7 +149,7 @@
 
 ---
 
-### 12. [SAP warns of maximum severity 'OVERPASS' kernel vulnerability](https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-overpass-kernel-vulnerability/)
+### 17. [SAP warns of maximum severity 'OVERPASS' kernel vulnerability](https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-overpass-kernel-vulnerability/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 08 Sep 2026 10:55:20 -0400  
@@ -108,7 +159,7 @@
 
 ---
 
-### 13. [OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-6-astra-can-find-zero-days-but-is-also-harder-to-monitor/)
+### 18. [OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-6-astra-can-find-zero-days-but-is-also-harder-to-monitor/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 08 Sep 2026 10:40:32 -0400  
@@ -117,7 +168,7 @@
 
 ---
 
-### 14. [Adobe fixes critical Magento zero-day exploited to backdoor servers](https://www.bleepingcomputer.com/news/security/adobe-fixes-critical-magento-zero-day-exploited-to-backdoor-servers/)
+### 19. [Adobe fixes critical Magento zero-day exploited to backdoor servers](https://www.bleepingcomputer.com/news/security/adobe-fixes-critical-magento-zero-day-exploited-to-backdoor-servers/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 08 Sep 2026 09:34:47 -0400  
@@ -127,57 +178,12 @@
 
 ---
 
-### 15. [Webinar: The forgotten Google Workspace access that can lead to a breach](https://www.bleepingcomputer.com/news/security/webinar-the-forgotten-google-workspace-access-that-can-lead-to-a-breach/)
+### 20. [Webinar: The forgotten Google Workspace access that can lead to a breach](https://www.bleepingcomputer.com/news/security/webinar-the-forgotten-google-workspace-access-that-can-lead-to-a-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 08 Sep 2026 08:40:48 -0400  
 **Severity:** Low  
 **Categories:** Supply Chain  
-
----
-
-### 16. [Hackers build AI frameworks for widescale credential theft](https://www.bleepingcomputer.com/news/security/hackers-build-ai-frameworks-for-widescale-credential-theft/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 08 Sep 2026 08:03:03 -0400  
-**Severity:** High  
-**Categories:** Vulnerability, Phishing, APT, Supply Chain  
-
----
-
-### 17. [Microsoft: Windows Server 2025 changes causing app crashes](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2025-changes-may-cause-app-crashes/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 08 Sep 2026 07:57:51 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 18. [220 million traveler records exposed in Vietnam-linked APIS leak](https://www.bleepingcomputer.com/news/security/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 08 Sep 2026 03:35:50 -0400  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach  
-
----
-
-### 19. [Magento StyleSmuggler zero-day exploited to deploy Linux backdoor](https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 07 Sep 2026 12:50:29 -0400  
-**Severity:** Critical  
-**Categories:** Vulnerability, Malware  
-
----
-
-### 20. [BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations](https://www.bleepingcomputer.com/news/security/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 07 Sep 2026 11:39:51 -0400  
-**Severity:** Low  
-**Categories:** Phishing, APT  
 
 ---
 
@@ -213,7 +219,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-72971, CVE-2026-68820, CVE-2026-62832  
+**CVEs:** CVE-2026-68820, CVE-2026-72971, CVE-2026-62832  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -250,7 +256,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56164, CVE-2026-48561, CVE-2026-56155, CVE-2026-50661  
+**CVEs:** CVE-2026-56164, CVE-2026-48561, CVE-2026-50661, CVE-2026-56155  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -273,7 +279,45 @@
 
 ---
 
-### 31. [Cylake Raises $245 Million Ahead of Cybersecurity Platform Beta](https://www.securityweek.com/cylake-raises-245-million-ahead-of-cybersecurity-platform-beta/)
+### 31. [Microsoft Patches Record 974 Vulnerabilities, Including Two Exploited Zero-Days](https://www.securityweek.com/microsoft-patches-record-974-vulnerabilities-including-two-exploited-zero-days/)
+
+**Source:** Security Week  
+**Published:** Tue, 08 Sep 2026 19:20:06 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2023-21674, CVE-2026-85880, CVE-2026-65669, CVE-2026-69525, CVE-2026-55007, CVE-2026-69465, CVE-2026-80097, CVE-2026-81963  
+**Categories:** Vulnerability  
+
+---
+
+### 32. [Adobe Patches Over 170 Vulnerabilities, Including Commerce Zero-Day](https://www.securityweek.com/adobe-patches-over-170-vulnerabilities-including-commerce-zero-day/)
+
+**Source:** Security Week  
+**Published:** Tue, 08 Sep 2026 18:37:17 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-82004, CVE-2026-75650, CVE-2026-75746, CVE-2026-48273  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 33. [The Hidden Instructions That Can Hijack AI Agents](https://www.securityweek.com/the-hidden-instructions-that-can-hijack-ai-agents/)
+
+**Source:** Security Week  
+**Published:** Tue, 08 Sep 2026 17:00:00 +0000  
+**Severity:** Critical  
+**Categories:** Malware, Supply Chain  
+
+---
+
+### 34. [Hackers Return $263 Million Stolen From Liquid Network](https://www.securityweek.com/hackers-return-263-million-stolen-from-liquid-network/)
+
+**Source:** Security Week  
+**Published:** Tue, 08 Sep 2026 16:35:54 +0000  
+**Severity:** Low  
+**Categories:** Data Breach, Vulnerability  
+
+---
+
+### 35. [Cylake Raises $245 Million Ahead of Cybersecurity Platform Beta](https://www.securityweek.com/cylake-raises-245-million-ahead-of-cybersecurity-platform-beta/)
 
 **Source:** Security Week  
 **Published:** Tue, 08 Sep 2026 15:21:01 +0000  
@@ -282,17 +326,17 @@
 
 ---
 
-### 32. [SAP Patches Critical Extended Passport Processing Vulnerability](https://www.securityweek.com/sap-patches-critical-extended-passport-processing-vulnerability/)
+### 36. [SAP Patches Critical Extended Passport Processing Vulnerability](https://www.securityweek.com/sap-patches-critical-extended-passport-processing-vulnerability/)
 
 **Source:** Security Week  
 **Published:** Tue, 08 Sep 2026 14:55:06 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-76969, CVE-2026-66768, CVE-2026-44756, CVE-2026-58240  
+**CVEs:** CVE-2026-58240, CVE-2026-76969, CVE-2026-66768, CVE-2026-44756  
 **Categories:** Vulnerability  
 
 ---
 
-### 33. [Party’s Over for Crypto Scammers Who Went on a Spending Spree After a $240 Million Bitcoin Theft](https://www.securityweek.com/partys-over-for-crypto-scammers-who-went-on-a-spending-spree-after-a-240-million-bitcoin-theft/)
+### 37. [Party’s Over for Crypto Scammers Who Went on a Spending Spree After a $240 Million Bitcoin Theft](https://www.securityweek.com/partys-over-for-crypto-scammers-who-went-on-a-spending-spree-after-a-240-million-bitcoin-theft/)
 
 **Source:** Security Week  
 **Published:** Tue, 08 Sep 2026 13:00:00 +0000  
@@ -301,17 +345,17 @@
 
 ---
 
-### 34. [MikroTik Patches Critical Flaws Chained to Hack Routers](https://www.securityweek.com/mikrotik-patches-critical-flaws-chained-to-hack-routers/)
+### 38. [MikroTik Patches Critical Flaws Chained to Hack Routers](https://www.securityweek.com/mikrotik-patches-critical-flaws-chained-to-hack-routers/)
 
 **Source:** Security Week  
 **Published:** Tue, 08 Sep 2026 11:15:00 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-86060, CVE-2026-67281, CVE-2026-67276, CVE-2026-67277, CVE-2026-67278, CVE-2026-67279  
+**CVEs:** CVE-2026-67276, CVE-2026-67277, CVE-2026-67281, CVE-2026-67278, CVE-2026-67279, CVE-2026-86060  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 35. [Mathspace Data Breach Exposes Over 1 Million People](https://www.securityweek.com/mathspace-data-breach-exposes-over-1-million-people/)
+### 39. [Mathspace Data Breach Exposes Over 1 Million People](https://www.securityweek.com/mathspace-data-breach-exposes-over-1-million-people/)
 
 **Source:** Security Week  
 **Published:** Tue, 08 Sep 2026 10:47:36 +0000  
@@ -321,48 +365,12 @@
 
 ---
 
-### 36. [N-able Patches Critical Zero-Day in N-central](https://www.securityweek.com/n-able-patches-critical-zero-day-in-n-central/)
+### 40. [N-able Patches Critical Zero-Day in N-central](https://www.securityweek.com/n-able-patches-critical-zero-day-in-n-central/)
 
 **Source:** Security Week  
 **Published:** Tue, 08 Sep 2026 10:37:58 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-86207, CVE-2026-86218, CVE-2026-86206  
-**Categories:** Vulnerability, Malware  
-
----
-
-### 37. [Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits](https://www.securityweek.com/nightmare-eclipse-drops-crowdstrike-nvidia-avast-zero-day-exploits/)
-
-**Source:** Security Week  
-**Published:** Mon, 07 Sep 2026 12:15:57 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, Malware  
-
----
-
-### 38. [North Korean Hackers Deploy New Linux Espionage Toolkit](https://www.securityweek.com/north-korean-hackers-deploy-new-linux-espionage-toolkit/)
-
-**Source:** Security Week  
-**Published:** Mon, 07 Sep 2026 12:12:08 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, Malware, APT  
-
----
-
-### 39. [OpenAI Agents Hijack Another Victim Website](https://www.securityweek.com/openai-agents-hijack-another-victim-website/)
-
-**Source:** Security Week  
-**Published:** Mon, 07 Sep 2026 12:03:04 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, APT  
-
----
-
-### 40. [Adobe Commerce Zero-Day Exploited to Backdoor Online Stores](https://www.securityweek.com/adobe-commerce-zero-day-exploited-to-backdoor-online-stores/)
-
-**Source:** Security Week  
-**Published:** Mon, 07 Sep 2026 11:58:37 +0000  
-**Severity:** Critical  
+**CVEs:** CVE-2026-86206, CVE-2026-86218, CVE-2026-86207  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -627,7 +635,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
