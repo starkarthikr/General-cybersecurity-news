@@ -184,186 +184,95 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Microsoft adds age-awareness APIs that can tell if users are children, teens, or adults",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-age-awareness-apis-that-can-tell-if-users-are-children-teens-or-adults/",
+    "published": "Tue, 08 Sep 2026 21:16:27 -0400",
+    "summary": "Microsoft is adding new age-awareness APIs to Windows 11 that will allow apps to determine whether someone is a child, teenager, or adult without exposing their exact date of birth. [...]"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "DoppelCart fraud network uses 119,000 fake shops to steal credit cards",
+    "link": "https://www.bleepingcomputer.com/news/security/doppelcart-fraud-network-uses-119-000-fake-shops-to-steal-credit-cards/",
+    "published": "Tue, 08 Sep 2026 16:35:14 -0400",
+    "summary": "A massive operation dubbed \"DoppelCart\" uses more than 119,000 domains to run a network of fake e-shops that steal payment card details. [...]"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "The EU CRA's Real Question: What Shipped, and When Did You Know?",
+    "link": "https://www.bleepingcomputer.com/news/security/the-eu-cras-real-question-what-shipped-and-when-did-you-know/",
+    "published": "Tue, 08 Sep 2026 16:24:16 -0400",
+    "summary": "The EU Cyber Resilience Act's vulnerability reporting requirements take effect September 11, giving software vendors as little as 24 hours to report actively exploited flaws. ActiveState explains why knowing exactly what shipped and when vulnerabilities were discovered will be critical to meeting the new requirements. [...]"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Hackers breach F5 BIG-IP APM devices to deploy Linux rootkit",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-f5-big-ip-apm-devices-to-deploy-linux-rootkit/",
+    "published": "Tue, 08 Sep 2026 16:08:55 -0400",
+    "summary": "A Linux rootkit targeting devices in F5 BIG-IP APM environments can intercept PHP file loading and inject a fileless web shell directly into memory, avoiding the need to write malicious code to disk. [...]"
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Microsoft releases Windows 10 KB5122878 extended security update",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5122878-extended-security-update/",
     "published": "Tue, 08 Sep 2026 14:49:19 -0400",
-    "summary": "Microsoft has released the Windows 10 KB5122878 extended security update, which includes this month's record-breaking September 2026 Patch Tuesday fixes, along with a few bug fixes. [...]",
-    "analysis": {
-      "issue": "Microsoft has released the Windows 10 KB5122878 extended security update, which includes this month's record-breaking September 2026 Patch Tuesday fixes, along with a few bug fixes",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
+    "summary": "Microsoft has released the Windows 10 KB5122878 extended security update, which includes this month's record-breaking September 2026 Patch Tuesday fixes, along with a few bug fixes. [...]"
   },
   {
     "source": "Bleeping Computer",
     "title": "Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-patch-tuesday-fixes-966-flaws-2-zero-days/",
     "published": "Tue, 08 Sep 2026 14:18:05 -0400",
-    "summary": "Today is Microsoft's September 2026 Patch Tuesday, with security updates released for a record-breaking 966 flaws, including two actively exploited zero-day vulnerabilities. [...]",
-    "analysis": {
-      "issue": "Today is Microsoft's September 2026 Patch Tuesday, with security updates released for a record-breaking 966 flaws, including two actively exploited zero-day vulnerabilities",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
+    "summary": "Today is Microsoft's September 2026 Patch Tuesday, with security updates released for a record-breaking 966 flaws, including two actively exploited zero-day vulnerabilities. [...]"
   },
   {
     "source": "Bleeping Computer",
     "title": "Windows 11 cumulative updates KB5124008 & KB5122880 released",
     "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5124008-and-kb5122880-released/",
     "published": "Tue, 08 Sep 2026 13:57:03 -0400",
-    "summary": "Microsoft has released Windows 11 KB5124008 and KB5122880 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
-    "analysis": {
-      "issue": "Microsoft has released Windows 11 KB5124008 and KB5122880 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
+    "summary": "Microsoft has released Windows 11 KB5124008 and KB5122880 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]"
   },
   {
     "source": "Bleeping Computer",
     "title": "ShinyHunters hackers claim breach of Florida \"DAVID\" DMV database",
     "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hackers-claim-breach-of-florida-david-dmv-database/",
     "published": "Tue, 08 Sep 2026 12:35:47 -0400",
-    "summary": "The ShinyHunters extortion gang claims it breached an online platform for the Florida Department of Motor Vehicles database known as \"DAVID\" and stole over 200,000 records about drivers in the state. [...]",
-    "analysis": {
-      "issue": "The ShinyHunters extortion gang claims it breached an online platform for the Florida Department of Motor Vehicles database known as \"DAVID\" and stole over 200,000 records about drivers in the state",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
+    "summary": "The ShinyHunters extortion gang claims it breached an online platform for the Florida Department of Motor Vehicles database known as \"DAVID\" and stole over 200,000 records about drivers in the state. [...]"
   },
   {
     "source": "Bleeping Computer",
     "title": "OpenAI says ChatGPT outage causes image generation errors",
     "link": "https://www.bleepingcomputer.com/news/technology/openai-says-chatgpt-outage-causes-image-generation-errors/",
     "published": "Tue, 08 Sep 2026 12:28:42 -0400",
-    "summary": "OpenAI is investigating an ongoing incident causing ChatGPT image generation failures and delays when uploading files. [...]",
-    "analysis": {
-      "issue": "OpenAI is investigating an ongoing incident causing ChatGPT image generation failures and delays when uploading files",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
+    "summary": "OpenAI is investigating an ongoing incident causing ChatGPT image generation failures and delays when uploading files. [...]"
   },
   {
     "source": "Bleeping Computer",
     "title": "August updates trigger 0xc0000409 errors on Windows Server 2016",
     "link": "https://www.bleepingcomputer.com/news/microsoft/august-updates-trigger-0xc0000409-errors-on-windows-server-2016/",
     "published": "Tue, 08 Sep 2026 11:22:33 -0400",
-    "summary": "Microsoft says the August 2026 security update may trigger 0xc0000409 errors on Windows Server 2016 systems where the Compatibility Appraiser diagnostic service is enabled. [...]",
-    "analysis": {
-      "issue": "Microsoft says the August 2026 security update may trigger 0xc0000409 errors on Windows Server 2016 systems where the Compatibility Appraiser diagnostic service is enabled",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
+    "summary": "Microsoft says the August 2026 security update may trigger 0xc0000409 errors on Windows Server 2016 systems where the Compatibility Appraiser diagnostic service is enabled. [...]"
   },
   {
-    "source": "Bleeping Computer",
-    "title": "SAP warns of maximum severity 'OVERPASS' kernel vulnerability",
-    "link": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-overpass-kernel-vulnerability/",
-    "published": "Tue, 08 Sep 2026 10:55:20 -0400",
-    "summary": "SAP has addressed 20 vulnerabilities across multiple products in its September 2026 security updates, including a maximum-severity memory corruption flaw in the SAP Kernel code. [...]",
+    "source": "Krebs On Security",
+    "title": "Microsoft Plugs Nearly 1,000 Security Holes",
+    "link": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
+    "published": "Tue, 08 Sep 2026 21:44:22 +0000",
+    "summary": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations already are struggling to prioritize the more human-intensive endeavor of testing and deploying so many fixes each month.",
     "analysis": {
-      "issue": "SAP has addressed 20 vulnerabilities across multiple products in its September 2026 security updates, including a maximum-severity memory corruption flaw in the SAP Kernel code",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2026-44756"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-6-astra-can-find-zero-days-but-is-also-harder-to-monitor/",
-    "published": "Tue, 08 Sep 2026 10:40:32 -0400",
-    "summary": "OpenAI confirmed that GPT-6 Astra is the first model it has broadly deployed to reach the \"Critical level\" for cybersecurity capabilities. [...]",
-    "analysis": {
-      "issue": "OpenAI confirmed that GPT-6 Astra is the first model it has broadly deployed to reach the \"Critical level\" for cybersecurity capabilities",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Adobe fixes critical Magento zero-day exploited to backdoor servers",
-    "link": "https://www.bleepingcomputer.com/news/security/adobe-fixes-critical-magento-zero-day-exploited-to-backdoor-servers/",
-    "published": "Tue, 08 Sep 2026 09:34:47 -0400",
-    "summary": "Adobe has released an emergency fix for CVE-2026-75650, an actively exploited max-severity zero-day vulnerability dubbed StyleSmuggler, that impacts multiple versions of Magento and Adobe Commerce. [...]",
-    "analysis": {
-      "issue": "Adobe has released an emergency fix for CVE-2026-75650, an actively exploited max-severity zero-day vulnerability dubbed StyleSmuggler, that impacts multiple versions of Magento and Adobe Commerce",
+      "issue": "today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-75650"
+        "CVE-2026-81963",
+        "CVE-2026-85880",
+        "CVE-2026-69730",
+        "CVE-2026-69829"
       ],
       "threat_categories": [
         "Vulnerability",
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Webinar: The forgotten Google Workspace access that can lead to a breach",
-    "link": "https://www.bleepingcomputer.com/news/security/webinar-the-forgotten-google-workspace-access-that-can-lead-to-a-breach/",
-    "published": "Tue, 08 Sep 2026 08:40:48 -0400",
-    "summary": "Third-party applications connected to Google Workspace can retain access long after their original purpose is forgotten. This webinar examines how overly permissive integrations contribute to breaches and which security controls can help fast-growing companies reduce their exposure. [...]",
-    "analysis": {
-      "issue": "Third-party applications can make Google Workspace far more useful, but integrations granted access months or years ago can also become an overlooked path into an organization's data",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
       ]
     }
   },
@@ -436,9 +345,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-68820",
         "CVE-2026-72971",
-        "CVE-2026-62832"
+        "CVE-2026-62832",
+        "CVE-2026-68820"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -546,24 +455,6 @@
     }
   },
   {
-    "source": "Krebs On Security",
-    "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
-    "link": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
-    "published": "Wed, 08 Jul 2026 12:31:39 +0000",
-    "summary": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures included fake intelligence companies and a now-defunct AI-based lobbying platform they operated under assumed names.",
-    "analysis": {
-      "issue": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures included fake intelligence compan",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Security Week",
     "title": "Microsoft Patches Record 974 Vulnerabilities, Including Two Exploited Zero-Days",
     "link": "https://www.securityweek.com/microsoft-patches-record-974-vulnerabilities-including-two-exploited-zero-days/",
@@ -576,14 +467,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2023-21674",
-        "CVE-2026-85880",
         "CVE-2026-65669",
-        "CVE-2026-69525",
-        "CVE-2026-55007",
+        "CVE-2026-85880",
         "CVE-2026-69465",
+        "CVE-2026-55007",
+        "CVE-2023-21674",
+        "CVE-2026-81963",
         "CVE-2026-80097",
-        "CVE-2026-81963"
+        "CVE-2026-69525"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -603,10 +494,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-82004",
         "CVE-2026-75650",
-        "CVE-2026-75746",
-        "CVE-2026-48273"
+        "CVE-2026-48273",
+        "CVE-2026-82004",
+        "CVE-2026-75746"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -683,10 +574,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-58240",
         "CVE-2026-76969",
-        "CVE-2026-66768",
-        "CVE-2026-44756"
+        "CVE-2026-58240",
+        "CVE-2026-44756",
+        "CVE-2026-66768"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -726,12 +617,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-67276",
         "CVE-2026-67277",
-        "CVE-2026-67281",
-        "CVE-2026-67278",
         "CVE-2026-67279",
-        "CVE-2026-86060"
+        "CVE-2026-67278",
+        "CVE-2026-86060",
+        "CVE-2026-67276",
+        "CVE-2026-67281"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -775,13 +666,37 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-86206",
+        "CVE-2026-86207",
         "CVE-2026-86218",
-        "CVE-2026-86207"
+        "CVE-2026-86206"
       ],
       "threat_categories": [
         "Vulnerability",
         "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Talos Blog",
+    "title": "Microsoft Patch Tuesday for September 2026 — Snort rules and prominent vulnerabilities",
+    "link": "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-september-2026/",
+    "published": "Tue, 08 Sep 2026 22:16:35 GMT",
+    "summary": "Microsoft has released its monthly security update for September 2026, which includes 973 vulnerabilities affecting a range of products, including 113 that Microsoft marked as \"critical.\"",
+    "analysis": {
+      "issue": "Microsoft has released its monthly security update for September 2026, which includes 973 vulnerabilities affecting a range of products, including 113 that Microsoft marked as \"critical",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-81963",
+        "CVE-2026-85880",
+        "CVE-2026-69676",
+        "CVE-2026-69852"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "APT"
       ]
     }
   },
@@ -948,24 +863,6 @@
       "threat_categories": [
         "Vulnerability",
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "UAT-10147: Chinese-speaking adversary integrates agentic AI into post-compromise operations",
-    "link": "https://blog.talosintelligence.com/uat-10147-chinese-speaking-adversary-integrates-agentic-ai-into-post-compromise-operations/",
-    "published": "Thu, 20 Aug 2026 10:00:32 GMT",
-    "summary": "Cisco Talos discovered a Chinese-speaking cybercrime group, tracked as UAT-10147, that targets a wide range of vulnerable web servers. This is an overview of the campaign, examining the countries affected, potential impact of BadIIS infections, the attack chain, and post-compromise tactics.",
-    "analysis": {
-      "issue": "In early 2026, Cisco Talos discovered a Chinese-speaking cybercrime group, tracked as UAT-10147, that targets a wide range of vulnerable web servers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -1319,8 +1216,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",

@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-08 19:30:42 UTC
+**Last Updated:** 2026-09-09 04:05:56 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,99 +95,87 @@
 
 ---
 
-### 11. [Microsoft releases Windows 10 KB5122878 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5122878-extended-security-update/)
+### 11. [Microsoft adds age-awareness APIs that can tell if users are children, teens, or adults](https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-age-awareness-apis-that-can-tell-if-users-are-children-teens-or-adults/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 08 Sep 2026 21:16:27 -0400  
+
+---
+
+### 12. [DoppelCart fraud network uses 119,000 fake shops to steal credit cards](https://www.bleepingcomputer.com/news/security/doppelcart-fraud-network-uses-119-000-fake-shops-to-steal-credit-cards/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 08 Sep 2026 16:35:14 -0400  
+
+---
+
+### 13. [The EU CRA's Real Question: What Shipped, and When Did You Know?](https://www.bleepingcomputer.com/news/security/the-eu-cras-real-question-what-shipped-and-when-did-you-know/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 08 Sep 2026 16:24:16 -0400  
+
+---
+
+### 14. [Hackers breach F5 BIG-IP APM devices to deploy Linux rootkit](https://www.bleepingcomputer.com/news/security/hackers-breach-f5-big-ip-apm-devices-to-deploy-linux-rootkit/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 08 Sep 2026 16:08:55 -0400  
+
+---
+
+### 15. [Microsoft releases Windows 10 KB5122878 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5122878-extended-security-update/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 08 Sep 2026 14:49:19 -0400  
-**Severity:** Critical  
-**Categories:** Vulnerability  
 
 ---
 
-### 12. [Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-patch-tuesday-fixes-966-flaws-2-zero-days/)
+### 16. [Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-patch-tuesday-fixes-966-flaws-2-zero-days/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 08 Sep 2026 14:18:05 -0400  
-**Severity:** Critical  
-**Categories:** Vulnerability  
 
 ---
 
-### 13. [Windows 11 cumulative updates KB5124008 & KB5122880 released](https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5124008-and-kb5122880-released/)
+### 17. [Windows 11 cumulative updates KB5124008 & KB5122880 released](https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5124008-and-kb5122880-released/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 08 Sep 2026 13:57:03 -0400  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
-### 14. [ShinyHunters hackers claim breach of Florida "DAVID" DMV database](https://www.bleepingcomputer.com/news/security/shinyhunters-hackers-claim-breach-of-florida-david-dmv-database/)
+### 18. [ShinyHunters hackers claim breach of Florida "DAVID" DMV database](https://www.bleepingcomputer.com/news/security/shinyhunters-hackers-claim-breach-of-florida-david-dmv-database/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 08 Sep 2026 12:35:47 -0400  
-**Severity:** High  
-**Categories:** General Security  
 
 ---
 
-### 15. [OpenAI says ChatGPT outage causes image generation errors](https://www.bleepingcomputer.com/news/technology/openai-says-chatgpt-outage-causes-image-generation-errors/)
+### 19. [OpenAI says ChatGPT outage causes image generation errors](https://www.bleepingcomputer.com/news/technology/openai-says-chatgpt-outage-causes-image-generation-errors/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 08 Sep 2026 12:28:42 -0400  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
-### 16. [August updates trigger 0xc0000409 errors on Windows Server 2016](https://www.bleepingcomputer.com/news/microsoft/august-updates-trigger-0xc0000409-errors-on-windows-server-2016/)
+### 20. [August updates trigger 0xc0000409 errors on Windows Server 2016](https://www.bleepingcomputer.com/news/microsoft/august-updates-trigger-0xc0000409-errors-on-windows-server-2016/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 08 Sep 2026 11:22:33 -0400  
-**Severity:** High  
-**Categories:** General Security  
 
 ---
 
-### 17. [SAP warns of maximum severity 'OVERPASS' kernel vulnerability](https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-overpass-kernel-vulnerability/)
+### 21. [Microsoft Plugs Nearly 1,000 Security Holes](https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/)
 
-**Source:** Bleeping Computer  
-**Published:** Tue, 08 Sep 2026 10:55:20 -0400  
-**Severity:** High  
-**CVEs:** CVE-2026-44756  
-**Categories:** Vulnerability  
-
----
-
-### 18. [OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-6-astra-can-find-zero-days-but-is-also-harder-to-monitor/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 08 Sep 2026 10:40:32 -0400  
+**Source:** Krebs On Security  
+**Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 19. [Adobe fixes critical Magento zero-day exploited to backdoor servers](https://www.bleepingcomputer.com/news/security/adobe-fixes-critical-magento-zero-day-exploited-to-backdoor-servers/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 08 Sep 2026 09:34:47 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-75650  
+**CVEs:** CVE-2026-81963, CVE-2026-85880, CVE-2026-69730, CVE-2026-69829  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 20. [Webinar: The forgotten Google Workspace access that can lead to a breach](https://www.bleepingcomputer.com/news/security/webinar-the-forgotten-google-workspace-access-that-can-lead-to-a-breach/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 08 Sep 2026 08:40:48 -0400  
-**Severity:** Low  
-**Categories:** Supply Chain  
-
----
-
-### 21. [FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/)
+### 22. [FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 01 Sep 2026 22:40:28 +0000  
@@ -196,7 +184,7 @@
 
 ---
 
-### 22. [Two Alleged ‘TeamPCP’ Hackers Arrested in Australia](https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/)
+### 23. [Two Alleged ‘TeamPCP’ Hackers Arrested in Australia](https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 27 Aug 2026 11:04:15 +0000  
@@ -205,7 +193,7 @@
 
 ---
 
-### 23. [Who’s Tracking You? Use This New Service to Find Out](https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/)
+### 24. [Who’s Tracking You? Use This New Service to Find Out](https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/)
 
 **Source:** Krebs On Security  
 **Published:** Fri, 14 Aug 2026 11:24:35 +0000  
@@ -214,17 +202,17 @@
 
 ---
 
-### 24. [Microsoft Plugs Nearly 400 Security Holes](https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/)
+### 25. [Microsoft Plugs Nearly 400 Security Holes](https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-68820, CVE-2026-72971, CVE-2026-62832  
+**CVEs:** CVE-2026-72971, CVE-2026-62832, CVE-2026-68820  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 25. [Canadian Man Pleads Guilty in Snowflake Extortions](https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/)
+### 26. [Canadian Man Pleads Guilty in Snowflake Extortions](https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 06 Aug 2026 17:00:56 +0000  
@@ -233,7 +221,7 @@
 
 ---
 
-### 26. [Read This Before You Buy That TV Streaming Stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/)
+### 27. [Read This Before You Buy That TV Streaming Stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 30 Jul 2026 16:49:00 +0000  
@@ -242,7 +230,7 @@
 
 ---
 
-### 27. [LG to Ban Residential Proxies from Smart TV Apps](https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/)
+### 28. [LG to Ban Residential Proxies from Smart TV Apps](https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 22 Jul 2026 01:10:38 +0000  
@@ -251,7 +239,7 @@
 
 ---
 
-### 28. [Microsoft Patches a Record 570 Security Flaws](https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/)
+### 29. [Microsoft Patches a Record 570 Security Flaws](https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
@@ -261,7 +249,7 @@
 
 ---
 
-### 29. [Lessons Learned from CISA’s Recent GitHub Leak](https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/)
+### 30. [Lessons Learned from CISA’s Recent GitHub Leak](https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 13 Jul 2026 15:03:28 +0000  
@@ -270,21 +258,12 @@
 
 ---
 
-### 30. [Felons, Fraudsters Flog Offensive Cybersecurity Startup](https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/)
-
-**Source:** Krebs On Security  
-**Published:** Wed, 08 Jul 2026 12:31:39 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
 ### 31. [Microsoft Patches Record 974 Vulnerabilities, Including Two Exploited Zero-Days](https://www.securityweek.com/microsoft-patches-record-974-vulnerabilities-including-two-exploited-zero-days/)
 
 **Source:** Security Week  
 **Published:** Tue, 08 Sep 2026 19:20:06 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2023-21674, CVE-2026-85880, CVE-2026-65669, CVE-2026-69525, CVE-2026-55007, CVE-2026-69465, CVE-2026-80097, CVE-2026-81963  
+**CVEs:** CVE-2026-65669, CVE-2026-85880, CVE-2026-69465, CVE-2026-55007, CVE-2023-21674, CVE-2026-81963, CVE-2026-80097, CVE-2026-69525  
 **Categories:** Vulnerability  
 
 ---
@@ -294,7 +273,7 @@
 **Source:** Security Week  
 **Published:** Tue, 08 Sep 2026 18:37:17 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-82004, CVE-2026-75650, CVE-2026-75746, CVE-2026-48273  
+**CVEs:** CVE-2026-75650, CVE-2026-48273, CVE-2026-82004, CVE-2026-75746  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -331,7 +310,7 @@
 **Source:** Security Week  
 **Published:** Tue, 08 Sep 2026 14:55:06 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-58240, CVE-2026-76969, CVE-2026-66768, CVE-2026-44756  
+**CVEs:** CVE-2026-76969, CVE-2026-58240, CVE-2026-44756, CVE-2026-66768  
 **Categories:** Vulnerability  
 
 ---
@@ -350,7 +329,7 @@
 **Source:** Security Week  
 **Published:** Tue, 08 Sep 2026 11:15:00 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-67276, CVE-2026-67277, CVE-2026-67281, CVE-2026-67278, CVE-2026-67279, CVE-2026-86060  
+**CVEs:** CVE-2026-67277, CVE-2026-67279, CVE-2026-67278, CVE-2026-86060, CVE-2026-67276, CVE-2026-67281  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -370,12 +349,22 @@
 **Source:** Security Week  
 **Published:** Tue, 08 Sep 2026 10:37:58 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-86206, CVE-2026-86218, CVE-2026-86207  
+**CVEs:** CVE-2026-86207, CVE-2026-86218, CVE-2026-86206  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 41. [ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager](https://blog.talosintelligence.com/clearfake-webdav-infection-chain/)
+### 41. [Microsoft Patch Tuesday for September 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-for-september-2026/)
+
+**Source:** Talos Blog  
+**Published:** Tue, 08 Sep 2026 22:16:35 GMT  
+**Severity:** Critical  
+**CVEs:** CVE-2026-81963, CVE-2026-85880, CVE-2026-69676, CVE-2026-69852  
+**Categories:** Vulnerability, APT  
+
+---
+
+### 42. [ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager](https://blog.talosintelligence.com/clearfake-webdav-infection-chain/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 08 Sep 2026 10:01:07 GMT  
@@ -384,7 +373,7 @@
 
 ---
 
-### 42. [ClickFix moves into the browser: Cryptocurrency theft with Google-hosted C2](https://blog.talosintelligence.com/clickfix-moves-into-the-browser/)
+### 43. [ClickFix moves into the browser: Cryptocurrency theft with Google-hosted C2](https://blog.talosintelligence.com/clickfix-moves-into-the-browser/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 08 Sep 2026 10:00:38 GMT  
@@ -393,7 +382,7 @@
 
 ---
 
-### 43. [The story behind the intelligence](https://blog.talosintelligence.com/the-story-behind-the-intelligence/)
+### 44. [The story behind the intelligence](https://blog.talosintelligence.com/the-story-behind-the-intelligence/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 03 Sep 2026 18:00:13 GMT  
@@ -402,7 +391,7 @@
 
 ---
 
-### 44. [“Sorry, I can’t help with that”: How your guardrails might become the attacker’s best friend](https://blog.talosintelligence.com/sorry-i-cant-help-with-that-how-your-guardrails-might-become-the-attackers-best-friend/)
+### 45. [“Sorry, I can’t help with that”: How your guardrails might become the attacker’s best friend](https://blog.talosintelligence.com/sorry-i-cant-help-with-that-how-your-guardrails-might-become-the-attackers-best-friend/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 27 Aug 2026 18:00:24 GMT  
@@ -411,7 +400,7 @@
 
 ---
 
-### 45. [JavaScript obfuscation: From party trick to phishing kit](https://blog.talosintelligence.com/javascript-obfuscation-from-party-trick-to-phishing-kit/)
+### 46. [JavaScript obfuscation: From party trick to phishing kit](https://blog.talosintelligence.com/javascript-obfuscation-from-party-trick-to-phishing-kit/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 27 Aug 2026 10:00:27 GMT  
@@ -420,7 +409,7 @@
 
 ---
 
-### 46. [Choose your fighter: Balancing competing requirements to select models for your AI SOC](https://blog.talosintelligence.com/choose-your-fighter-balancing-competing-requirements-to-select-models-for-your-ai-soc/)
+### 47. [Choose your fighter: Balancing competing requirements to select models for your AI SOC](https://blog.talosintelligence.com/choose-your-fighter-balancing-competing-requirements-to-select-models-for-your-ai-soc/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 26 Aug 2026 10:00:05 GMT  
@@ -429,7 +418,7 @@
 
 ---
 
-### 47. [The safety penalty: Reclaiming operational sovereignty in the age of AI](https://blog.talosintelligence.com/the-safety-penalty-reclaiming-operational-sovereignty-in-the-age-of-ai/)
+### 48. [The safety penalty: Reclaiming operational sovereignty in the age of AI](https://blog.talosintelligence.com/the-safety-penalty-reclaiming-operational-sovereignty-in-the-age-of-ai/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 25 Aug 2026 10:00:22 GMT  
@@ -438,7 +427,7 @@
 
 ---
 
-### 48. [Is Cyber missing the Marque?](https://blog.talosintelligence.com/is-cyber-missing-the-marque/)
+### 49. [Is Cyber missing the Marque?](https://blog.talosintelligence.com/is-cyber-missing-the-marque/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 20 Aug 2026 18:00:18 GMT  
@@ -447,21 +436,12 @@
 
 ---
 
-### 49. [UAT-10147 deploys SPECTRE: A cross-platform implant with Linux rootkit and BYOVD capabilities](https://blog.talosintelligence.com/uat-10147-deploys-spectre-a-cross-platform-implant-with-linux-rootkit-and-byovd-capabilities/)
+### 50. [UAT-10147 deploys SPECTRE: A cross-platform implant with Linux rootkit and BYOVD capabilities](https://blog.talosintelligence.com/uat-10147-deploys-spectre-a-cross-platform-implant-with-linux-rootkit-and-byovd-capabilities/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 20 Aug 2026 10:00:50 GMT  
 **Severity:** Medium  
 **Categories:** Vulnerability, Malware  
-
----
-
-### 50. [UAT-10147: Chinese-speaking adversary integrates agentic AI into post-compromise operations](https://blog.talosintelligence.com/uat-10147-chinese-speaking-adversary-integrates-agentic-ai-into-post-compromise-operations/)
-
-**Source:** Talos Blog  
-**Published:** Thu, 20 Aug 2026 10:00:32 GMT  
-**Severity:** High  
-**Categories:** General Security  
 
 ---
 
@@ -635,7 +615,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
