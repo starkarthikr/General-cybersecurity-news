@@ -1,104 +1,12 @@
 [
   {
     "source": "The Hacker News",
-    "title": "N-able N-central Pre-Auth RCE Flaw Exploited in the Wild",
-    "link": "https://thehackernews.com/2026/09/n-able-n-central-pre-auth-rce-flaw.html",
-    "published": "Wed, 09 Sep 2026 09:57:51 +0530",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by September 11, 2026.\n\nThe vulnerability in question is CVE-2026-86218 (CVSS score: 10.0), which has been described as a",
+    "title": "Webinar: Learn How to Answer “Are We Exposed?” Faster After a New CVE",
+    "link": "https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html",
+    "published": "Wed, 09 Sep 2026 17:27:36 +0530",
+    "summary": "A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed?\n\nFor many security teams, answering that means jumping between vulnerability scanners, endpoint tools, cloud inventories, SBOMs, repositories, and application data to build enough context to act.\n\nAs AI accelerates vulnerability discovery and research, that delay matters more",
     "analysis": {
-      "issue": "CISA added actively exploited N-able N-central CVE-2026-86218 to KEV, with federal agencies ordered to patch by September 11",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-86218"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution",
-    "link": "https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html",
-    "published": "Tue, 08 Sep 2026 21:50:23 +0530",
-    "summary": "A previously undocumented financially motivated threat actor has been linked to attacks targeting Brazilian financial institutions since at least March 2026.\n\nCybersecurity company CrowdStrike is tracking the Brazil-based activity cluster under the name Slim Spider.\n\n\"The adversary demonstrates deep operational knowledge of Brazilian financial infrastructure, including the instant payment",
-    "analysis": {
-      "issue": "Slim Spider attacks Brazilian financial firms, stealing cloud credentials and crypto custody secrets while targeting Pix payment infrastructure",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC",
-    "link": "https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html",
-    "published": "Tue, 08 Sep 2026 20:24:30 +0530",
-    "summary": "Whoever took nearly 4,000 bitcoin from the Liquid Network on Sunday, September 6,&nbsp;returned 3,400 of it&nbsp;the next day, Bitcoin's public record shows. About 598.5 bitcoin has not come back.\n\nLiquid is a Bitcoin sidechain that holds real bitcoin to back a token called L-BTC. The network is still paused, so holders cannot turn that token back into bitcoin.\n\nThe 3,400 bitcoin was sent to a&",
-    "analysis": {
-      "issue": "Liquid received 3,400 bitcoin back after nearly 4,000 BTC was taken; 598",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account",
-    "link": "https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html",
-    "published": "Tue, 08 Sep 2026 19:49:17 +0530",
-    "summary": "Check Point Research said in a&nbsp;report published today&nbsp;that a single instruction planted in a ChatGPT conversation could cause ChatGPT to quietly work for an attacker while answering the user's question as usual.\n\nIn the company's proof of concept, that hidden work read data from the user's connected Gmail account and passed it to a second ChatGPT account through a hidden channel",
-    "analysis": {
-      "issue": "A planted ChatGPT instruction could read connected Gmail data and relay it across accounts through shared Artifactory metadata",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours",
-    "link": "https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html",
-    "published": "Tue, 08 Sep 2026 19:18:16 +0530",
-    "summary": "Threat actors are continuing to leverage artificial intelligence (AI) to streamline their operations, with one financially motivated hacking group employing an autonomous, multi-agent attack framework to carry out a large-scale credential harvesting campaign within six hours.\n\nGoogle Threat Intelligence Group (GTIG) said it has observed attackers with diverse motivations targeting proprietary AI",
-    "analysis": {
-      "issue": "A financially motivated actor used an autonomous multi-agent framework to compromise thousands of third-party credentials in under six hours",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls",
-    "link": "https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html",
-    "published": "Tue, 08 Sep 2026 17:24:29 +0530",
-    "summary": "Researchers at the security firm Calif have built a worm that takes over a WeChat account via an incoming call and&nbsp;demonstrated it spreading&nbsp;among three test phones.\n\nThe person being called does not have to answer or touch their phone for it to work, but the caller must already be one of their WeChat contacts. Calif reported the flaw to Tencent in July and says the company has since",
-    "analysis": {
-      "issue": "A WeChat worm demo took over iPhone and Android accounts through incoming calls from existing contacts; Calif says Tencent blocked the exploit",
+      "issue": "Tines unifies SBOM, endpoint, cloud, and vulnerability data to speed exposure assessment with AI-assisted analysis and automation",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -111,12 +19,12 @@
   },
   {
     "source": "The Hacker News",
-    "title": "What It Took to Reach 1 Billion Build Manifests",
-    "link": "https://thehackernews.com/2026/09/what-it-took-to-reach-1-billion-build.html",
-    "published": "Tue, 08 Sep 2026 17:19:02 +0530",
-    "summary": "In the last six months, Chainguard doubled its output from 500 million to more than 1 billion container build manifests. We also surpassed 3,000 unique container images and 675,000 image versions in our catalog. Those are the headline numbers, but I want to share what's actually behind them. The number itself is less interesting than the system that produced it, and why we had to fundamentally",
+    "title": "DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval",
+    "link": "https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html",
+    "published": "Wed, 09 Sep 2026 16:47:07 +0530",
+    "summary": "A flaw in DeepSeek Harness, DeepSeek's open-source tool for running AI coding agents on a developer's machine, let a sandboxed agent turn off its own sandbox with a single command.\n\nThe tool runs an agent's commands inside an operating-system sandbox, so that an agent working on untrusted files cannot write outside its workspace. The agent could remove that limit by calling the tool's own web",
     "analysis": {
-      "issue": "0 doubled container build manifests to over 1 billion in six months using AI-assisted reconciliation",
+      "issue": "A DeepSeek Harness flaw let attacker-supplied text push AI agents to disable the file sandbox; fixed npm releases start at 0",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -129,12 +37,30 @@
   },
   {
     "source": "The Hacker News",
-    "title": "FreeIPA Flaw Chain Lets Anonymous Clients Create Reusable Administrator Credentials",
-    "link": "https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html",
-    "published": "Tue, 08 Sep 2026 16:52:07 +0530",
-    "summary": "A flaw in FreeIPA lets a client that has never logged in create a Kerberos identity of its own choosing in the directory and end up in the administrators group, Red Hat says.\n\nFreeIPA is the system that determines who may log in across a Linux domain and maintains all identities in a 389 Directory Server database accessed via LDAP. The attack needs a second flaw in that database software.\n\nThe",
+    "title": "Alby Hub Critical Flaw Could Let Attackers Take Over Internet-Exposed Bitcoin Wallets",
+    "link": "https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html",
+    "published": "Wed, 09 Sep 2026 16:13:04 +0530",
+    "summary": "Bitcoin wallet company Alby has&nbsp;warned of a critical flaw&nbsp;in Alby Hub that could have let an attacker take over a wallet and send its funds, but only where the owner had made the Hub reachable from the internet.\n\nAlby Hub is a self-hosted Lightning wallet, meaning the owner runs it on their own computer or server, and it holds their bitcoin. The flaw affects versions v1.7.0 through",
     "analysis": {
-      "issue": "FreeIPA and 389 Directory Server flaws let an anonymous client create an attacker-chosen Kerberos identity in the administrators group",
+      "issue": "Alby warns a critical Hub flaw could let attackers take over internet-exposed wallets; versions 1",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok",
+    "link": "https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html",
+    "published": "Wed, 09 Sep 2026 15:02:26 +0530",
+    "summary": "U.S. cybersecurity and intelligence agencies have accused China-based artificial intelligence (AI) companies of conducting \"systematic extraction\" of proprietary functionalities and capabilities of American frontier models through distillation attacks.\n\nThe activity has been described as occurring at an industrial-scale and one that forms the \"core\" of their AI development strategy, according to",
+    "analysis": {
+      "issue": "agencies accuse six China-based AI firms of industrial-scale distillation to extract proprietary capabilities from frontier AI models",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -147,33 +73,50 @@
   },
   {
     "source": "The Hacker News",
-    "title": "Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell",
-    "link": "https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html",
-    "published": "Tue, 08 Sep 2026 14:43:47 +0530",
-    "summary": "Adobe on Monday released security patches to address a maximum-severity flaw impacting Adobe Commerce and Magento Open Source that has come under active exploitation in the wild.\n\nThe vulnerability, now tracked as CVE-2026-75650 (CVSS score: 10.0), has been codenamed StyleSmuggler by Sansec, which discovered zero-day exploitation starting September 4, 2026.\n\n\"This update resolves a critical",
+    "title": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox",
+    "link": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html",
+    "published": "Wed, 09 Sep 2026 14:41:03 +0530",
+    "summary": "Google on Thursday released updates to patch 230 security vulnerabilities, including one that has come under active exploitation in the wild.\n\nThe medium-severity vulnerability, assigned the CVE identifier CVE-2026-87491 (CVSS score: N/A), has been described as an out-of-bounds bug in V8, Chrome's JavaScript and WebAssembly engine.\n\n\"Out-of-bounds write in V8 in Google Chrome prior to",
     "analysis": {
-      "issue": "Adobe patches actively exploited CVE-2026-75650 in Commerce and Magento, used to deploy Linux backdoors and PHP web shells",
+      "issue": "Google patches an actively exploited Chrome V8 flaw that allows arbitrary code execution inside the sandbox via a crafted HTML page",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "New cPanel Flaw Lets a Hosting Account With Mail Privileges Run Code as Root",
+    "link": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account.html",
+    "published": "Wed, 09 Sep 2026 13:49:32 +0530",
+    "summary": "cPanel has patched a flaw that it says lets a single hosting account take control of an entire server. An authenticated account holder with mail-related privileges can create files of their choosing on the server through EmailTrack and, from there, run code as the root user.\n\ncPanel published the&nbsp;advisory on September 8&nbsp;and says every supported version of cPanel and WHM is affected.",
+    "analysis": {
+      "issue": "cPanel patched CVE-2026-67401, which lets a hosting account with mail privileges create files anywhere and run code as root",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-75650"
+        "CVE-2026-67401"
       ],
       "threat_categories": [
-        "Vulnerability",
-        "Malware"
+        "Vulnerability"
       ]
     }
   },
   {
     "source": "The Hacker News",
-    "title": "BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams",
-    "link": "https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html",
-    "published": "Tue, 08 Sep 2026 14:13:51 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a sprawling search engine optimization (SEO) poisoning campaign that paves the way for malware deployment and tech support scams.\n\nThe campaign, discovered by the DFIR Report in March 2026, has been codenamed BengalSEO. It has operated out of the Indian state of Rajasthan since at least 2015, driven by two IT service providers named WeConnect",
+    "title": "F5 BIG-IP APM Malware Injects a PHP Web Shell Into Memory, Evading Disk Scans",
+    "link": "https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html",
+    "published": "Wed, 09 Sep 2026 13:06:49 +0530",
+    "summary": "Malware linked to break-ins at F5 BIG-IP Access Policy Manager appliances hides a PHP web shell in memory instead of in a file on disk, Sophos said in an&nbsp;analysis published on September 7.\n\nWhen Apache loads any of the three appliances' own PHP scripts, the malware adds the web shell to the copy held in memory, so a check of the file on disk can come back clean. Those three scripts are",
     "analysis": {
-      "issue": "BengalSEO poisons Bing search results to deliver MayaBot malware and funnel users into tech support scams",
+      "issue": "F5 BIG-IP malware injects a PHP web shell into memory, leaving targeted scripts unchanged on disk while commands run through web requests",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -181,6 +124,138 @@
       "cves": [],
       "threat_categories": [
         "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Researcher Drops New Microsoft Defender PoC Showing ShieldBreak Patch Can Be Bypassed",
+    "link": "https://thehackernews.com/2026/09/researcher-drops-new-microsoft-defender.html",
+    "published": "Wed, 09 Sep 2026 12:17:27 +0530",
+    "summary": "The security researcher known as Chaotic Eclipse has dropped a proof-of-concept (PoC) for yet another zero-day in Microsoft Defender.\n\nThe vulnerability, codenamed ShieldCrash, is assessed to be a patch bypass for CVE-2026-69414 (CVSS score: 7.8), also called ShieldBreak, which the researcher reported last month.\n\n\"Microsoft has failed to properly patch ShieldBreak CVE-2026-69414,\" Chaotic",
+    "analysis": {
+      "issue": "A Microsoft Defender patch bypass PoC demonstrates arbitrary file read as SYSTEM on the latest Windows version",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "SAP Patches CVSS 10.0 Kernel Flaw Enabling Unauthenticated Remote Code Execution",
+    "link": "https://thehackernews.com/2026/09/sap-patches-cvss-100-kernel-flaw.html",
+    "published": "Wed, 09 Sep 2026 11:55:45 +0530",
+    "summary": "SAP has released security updates to address multiple vulnerabilities, including a maximum-severity flaw in SAP Extended Passport (EPP) Processing that could have a severe impact on the confidentiality, integrity, and availability of the application\n\nThe vulnerability, tracked as CVE-2026-44756 (CVSS score: 10.0), has been described as a case of memory corruption. Discovered and reported by SAP",
+    "analysis": {
+      "issue": "SAP patches CVE-2026-44756, an unauthenticated EPP memory corruption flaw that enables remote OS command execution with SAP admin privileges",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-44756"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days",
+    "link": "https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html",
+    "published": "Wed, 09 Sep 2026 10:11:29 +0530",
+    "summary": "Microsoft on Tuesday broke Patch Tuesday records by addressing an earth-shattering 974 vulnerabilities spanning its software portfolio, including two flaws that it said have been actively exploited in the wild.\n\nThese include 723 flaws in Windows, 111 in Office and Office 2016, 62 in SQL, and 22 in Developer Tools. Of these, over 110 shortcomings have been assigned a critical severity rating.",
+    "analysis": {
+      "issue": "Microsoft patches a record 974 vulnerabilities, including two Windows zero-days exploited in the wild",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Over 36,000 exposed Plex servers vulnerable to recent flaws",
+    "link": "https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/",
+    "published": "Wed, 09 Sep 2026 06:11:29 -0400",
+    "summary": "Over 36,000 Plex Media servers exposed online remain unpatched against multiple security vulnerabilities and are vulnerable to attacks. [...]",
+    "analysis": {
+      "issue": "Over 36,000 Plex Media servers exposed online remain unpatched against multiple security vulnerabilities and are vulnerable to attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Man gets 15 years for extorting women with AI-generated porn videos",
+    "link": "https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/",
+    "published": "Wed, 09 Sep 2026 04:44:22 -0400",
+    "summary": "An Ohio man was sentenced to 15 years in prison for multiple cybercrimes, including sextortion and cyberstalking of numerous victims using AI-generated sexually explicit content. [...]",
+    "analysis": {
+      "issue": "An Ohio man was sentenced to 15 years in prison for multiple cybercrimes, including sextortion and cyberstalking of numerous victims via phone calls, voicemails, text messages, and online posts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM access",
+    "link": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/",
+    "published": "Wed, 09 Sep 2026 03:30:15 -0400",
+    "summary": "An anonymous security researcher known as Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldCrash\" right after Microsoft rolled out its September 2026 Patch Tuesday security updates. [...]",
+    "analysis": {
+      "issue": "An anonymous security researcher known as Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldCrash\" right after Microsoft rolled out its September 2026 Patch Tuesday security updates",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-69414"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Google warns of new Chrome zero-day bug exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/",
+    "published": "Wed, 09 Sep 2026 02:25:48 -0400",
+    "summary": "Google has patched 230 vulnerabilities on Tuesday, including another actively exploited Chrome zero-day bug, the seventh such vulnerability patched since the start of the year. [...]",
+    "analysis": {
+      "issue": "Google has patched 230 vulnerabilities on Tuesday, including another actively exploited Chrome zero-day bug, the seventh such vulnerability patched since the start of the year",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-87491"
+      ],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -189,70 +264,111 @@
     "title": "Microsoft adds age-awareness APIs that can tell if users are children, teens, or adults",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-age-awareness-apis-that-can-tell-if-users-are-children-teens-or-adults/",
     "published": "Tue, 08 Sep 2026 21:16:27 -0400",
-    "summary": "Microsoft is adding new age-awareness APIs to Windows 11 that will allow apps to determine whether someone is a child, teenager, or adult without exposing their exact date of birth. [...]"
+    "summary": "Microsoft is adding new age-awareness APIs to Windows 11 that will allow apps to determine whether someone is a child, teenager, or adult without exposing their exact date of birth. [...]",
+    "analysis": {
+      "issue": "Microsoft is adding new age-awareness APIs to Windows 11 that will allow apps to determine whether someone is a child, teenager, or adult without exposing their exact date of birth",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
   },
   {
     "source": "Bleeping Computer",
     "title": "DoppelCart fraud network uses 119,000 fake shops to steal credit cards",
     "link": "https://www.bleepingcomputer.com/news/security/doppelcart-fraud-network-uses-119-000-fake-shops-to-steal-credit-cards/",
     "published": "Tue, 08 Sep 2026 16:35:14 -0400",
-    "summary": "A massive operation dubbed \"DoppelCart\" uses more than 119,000 domains to run a network of fake e-shops that steal payment card details. [...]"
+    "summary": "A massive operation dubbed \"DoppelCart\" uses more than 119,000 domains to run a network of fake e-shops that steal payment card details. [...]",
+    "analysis": {
+      "issue": "A massive operation dubbed “DoppelCart” uses more than 119,000 domains to run a network of fake e-shops that steal payment card details",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
   },
   {
     "source": "Bleeping Computer",
     "title": "The EU CRA's Real Question: What Shipped, and When Did You Know?",
     "link": "https://www.bleepingcomputer.com/news/security/the-eu-cras-real-question-what-shipped-and-when-did-you-know/",
     "published": "Tue, 08 Sep 2026 16:24:16 -0400",
-    "summary": "The EU Cyber Resilience Act's vulnerability reporting requirements take effect September 11, giving software vendors as little as 24 hours to report actively exploited flaws. ActiveState explains why knowing exactly what shipped and when vulnerabilities were discovered will be critical to meeting the new requirements. [...]"
+    "summary": "The EU Cyber Resilience Act's vulnerability reporting requirements take effect September 11, giving software vendors as little as 24 hours to report actively exploited flaws. ActiveState explains why knowing exactly what shipped and when vulnerabilities were discovered will be critical to meeting the new requirements. [...]",
+    "analysis": {
+      "issue": "What a maintainer's disclosure inbox already knows about the question the EU Cyber Resilience Act is about to ask every software vendor",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
   },
   {
     "source": "Bleeping Computer",
     "title": "Hackers breach F5 BIG-IP APM devices to deploy Linux rootkit",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-f5-big-ip-apm-devices-to-deploy-linux-rootkit/",
     "published": "Tue, 08 Sep 2026 16:08:55 -0400",
-    "summary": "A Linux rootkit targeting devices in F5 BIG-IP APM environments can intercept PHP file loading and inject a fileless web shell directly into memory, avoiding the need to write malicious code to disk. [...]"
+    "summary": "A Linux rootkit targeting devices in F5 BIG-IP APM environments can intercept PHP file loading and inject a fileless web shell directly into memory, avoiding the need to write malicious code to disk. [...]",
+    "analysis": {
+      "issue": "A Linux rootkit targeting devices in F5 BIG-IP APM environments can intercept PHP file loading and inject a fileless web shell directly into memory, avoiding the need to write malicious code to disk",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2025-53521"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
   },
   {
     "source": "Bleeping Computer",
     "title": "Microsoft releases Windows 10 KB5122878 extended security update",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5122878-extended-security-update/",
     "published": "Tue, 08 Sep 2026 14:49:19 -0400",
-    "summary": "Microsoft has released the Windows 10 KB5122878 extended security update, which includes this month's record-breaking September 2026 Patch Tuesday fixes, along with a few bug fixes. [...]"
+    "summary": "Microsoft has released the Windows 10 KB5122878 extended security update, which includes this month's record-breaking September 2026 Patch Tuesday fixes, along with a few bug fixes. [...]",
+    "analysis": {
+      "issue": "Microsoft has released the Windows 10 KB5122878 extended security update, which includes this month's record-breaking September 2026 Patch Tuesday fixes, along with a few bug fixes",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
   },
   {
     "source": "Bleeping Computer",
     "title": "Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-patch-tuesday-fixes-966-flaws-2-zero-days/",
     "published": "Tue, 08 Sep 2026 14:18:05 -0400",
-    "summary": "Today is Microsoft's September 2026 Patch Tuesday, with security updates released for a record-breaking 966 flaws, including two actively exploited zero-day vulnerabilities. [...]"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Windows 11 cumulative updates KB5124008 & KB5122880 released",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5124008-and-kb5122880-released/",
-    "published": "Tue, 08 Sep 2026 13:57:03 -0400",
-    "summary": "Microsoft has released Windows 11 KB5124008 and KB5122880 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "ShinyHunters hackers claim breach of Florida \"DAVID\" DMV database",
-    "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hackers-claim-breach-of-florida-david-dmv-database/",
-    "published": "Tue, 08 Sep 2026 12:35:47 -0400",
-    "summary": "The ShinyHunters extortion gang claims it breached an online platform for the Florida Department of Motor Vehicles database known as \"DAVID\" and stole over 200,000 records about drivers in the state. [...]"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "OpenAI says ChatGPT outage causes image generation errors",
-    "link": "https://www.bleepingcomputer.com/news/technology/openai-says-chatgpt-outage-causes-image-generation-errors/",
-    "published": "Tue, 08 Sep 2026 12:28:42 -0400",
-    "summary": "OpenAI is investigating an ongoing incident causing ChatGPT image generation failures and delays when uploading files. [...]"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "August updates trigger 0xc0000409 errors on Windows Server 2016",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/august-updates-trigger-0xc0000409-errors-on-windows-server-2016/",
-    "published": "Tue, 08 Sep 2026 11:22:33 -0400",
-    "summary": "Microsoft says the August 2026 security update may trigger 0xc0000409 errors on Windows Server 2016 systems where the Compatibility Appraiser diagnostic service is enabled. [...]"
+    "summary": "Today is Microsoft's September 2026 Patch Tuesday, with security updates released for a record-breaking 966 flaws, including two actively exploited zero-day vulnerabilities. [...]",
+    "analysis": {
+      "issue": "Today is Microsoft's September 2026 Patch Tuesday, with security updates released for a record-breaking 966 flaws, including two actively exploited zero-day vulnerabilities",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
   },
   {
     "source": "Krebs On Security",
@@ -269,8 +385,8 @@
       "cves": [
         "CVE-2026-81963",
         "CVE-2026-85880",
-        "CVE-2026-69829",
-        "CVE-2026-69730"
+        "CVE-2026-69730",
+        "CVE-2026-69829"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -348,8 +464,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-72971",
-        "CVE-2026-62832",
-        "CVE-2026-68820"
+        "CVE-2026-68820",
+        "CVE-2026-62832"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -426,10 +542,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50661",
-        "CVE-2026-56155",
         "CVE-2026-56164",
-        "CVE-2026-48561"
+        "CVE-2026-48561",
+        "CVE-2026-56155",
+        "CVE-2026-50661"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -458,6 +574,138 @@
   },
   {
     "source": "Security Week",
+    "title": "US Agencies Warn China Is Systematically Extracting Frontier AI Capabilities",
+    "link": "https://www.securityweek.com/us-agencies-warn-china-is-systematically-extracting-frontier-ai-capabilities/",
+    "published": "Wed, 09 Sep 2026 12:32:13 +0000",
+    "summary": "<p>Distillation is an ‘attack’ against an AI model designed to capture outputs, understand reasoning processes, and subsequently train a different model.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-agencies-warn-china-is-systematically-extracting-frontier-ai-capabilities/\">US Agencies Warn China Is Systematically Extracting Frontier AI Capabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Distillation is an ‘attack’ against an AI model designed to capture outputs, understand reasoning processes, and subsequently train a different model",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "ICS Patch Tuesday: Schneider Electric, Siemens Fix Critical Flaws",
+    "link": "https://www.securityweek.com/ics-patch-tuesday-schneider-electric-siemens-fix-critical-flaws/",
+    "published": "Wed, 09 Sep 2026 10:49:30 +0000",
+    "summary": "<p>AVEVA and Rockwell Automation also released patches for vulnerabilities affecting industrial control system products.</p>\n<p>The post <a href=\"https://www.securityweek.com/ics-patch-tuesday-schneider-electric-siemens-fix-critical-flaws/\">ICS Patch Tuesday: Schneider Electric, Siemens Fix Critical Flaws</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "AVEVA and Rockwell Automation also released patches for vulnerabilities affecting industrial control system products",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-31431",
+        "CVE-2026-3869"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Ivanti Patches Critical Flaws Across Enterprise Security Products",
+    "link": "https://www.securityweek.com/ivanti-patches-critical-flaws-across-enterprise-security-products/",
+    "published": "Wed, 09 Sep 2026 10:28:34 +0000",
+    "summary": "<p>Six critical vulnerabilities in Neurons for ITSM could enable remote code execution, while Sentry and EPMM received patches for authentication bypass flaws.</p>\n<p>The post <a href=\"https://www.securityweek.com/ivanti-patches-critical-flaws-across-enterprise-security-products/\">Ivanti Patches Critical Flaws Across Enterprise Security Products</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Six critical vulnerabilities in Neurons for ITSM could enable remote code execution, while Sentry and EPMM received patches for authentication bypass flaws",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-12650",
+        "CVE-2026-12745",
+        "CVE-2026-12648",
+        "CVE-2026-12744",
+        "CVE-2026-12645",
+        "CVE-2026-12651",
+        "CVE-2026-12647",
+        "CVE-2026-18851",
+        "CVE-2026-12646",
+        "CVE-2026-83527"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "This Key Will Self-Destruct: An Open Standard for Revocable API Keys",
+    "link": "https://www.securityweek.com/this-key-will-self-destruct-an-open-standard-for-revocable-api-keys/",
+    "published": "Wed, 09 Sep 2026 10:00:00 +0000",
+    "summary": "<p>Every leaked credential should be dead, or dying, within sixty seconds of being found. Here's a proposal to make that the default.</p>\n<p>The post <a href=\"https://www.securityweek.com/this-key-will-self-destruct-an-open-standard-for-revocable-api-keys/\">This Key Will Self-Destruct: An Open Standard for Revocable API Keys</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Every leaked credential should be dead, or dying, within sixty seconds of being found",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "New Phishing Attack Creates Malicious Pages Inside the Victim’s Browser",
+    "link": "https://www.securityweek.com/new-phishing-attack-creates-malicious-pages-inside-the-victims-browser/",
+    "published": "Wed, 09 Sep 2026 10:00:00 +0000",
+    "summary": "<p>Attackers are using trusted Microsoft services and blob URLs to generate stealthy phishing pages that leave defenders with no static website to detect or block.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-phishing-attack-creates-malicious-pages-inside-the-victims-browser/\">New Phishing Attack Creates Malicious Pages Inside the Victim’s Browser</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Attackers are using trusted Microsoft services and blob URLs to generate stealthy phishing pages that leave defenders with no static website to detect or block",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Chrome 153 Patches Seventh Zero-Day of 2026",
+    "link": "https://www.securityweek.com/chrome-153-patches-seventh-zero-day-of-2026/",
+    "published": "Wed, 09 Sep 2026 09:45:00 +0000",
+    "summary": "<p>The Chrome update includes 230 security fixes, and users are advised to update their browsers as soon as possible.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-153-patches-seventh-zero-day-of-2026/\">Chrome 153 Patches Seventh Zero-Day of 2026</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The Chrome update includes 230 security fixes, and users are advised to update their browsers as soon as possible",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-2441",
+        "CVE-2026-3910",
+        "CVE-2026-87491",
+        "CVE-2026-3909",
+        "CVE-2026-11645",
+        "CVE-2026-85046",
+        "CVE-2026-5281"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Microsoft Patches Record 974 Vulnerabilities, Including Two Exploited Zero-Days",
     "link": "https://www.securityweek.com/microsoft-patches-record-974-vulnerabilities-including-two-exploited-zero-days/",
     "published": "Tue, 08 Sep 2026 19:20:06 +0000",
@@ -471,12 +719,12 @@
       "cves": [
         "CVE-2026-81963",
         "CVE-2026-65669",
-        "CVE-2026-69525",
-        "CVE-2026-85880",
-        "CVE-2026-69465",
         "CVE-2026-55007",
+        "CVE-2026-80097",
+        "CVE-2026-85880",
+        "CVE-2026-69525",
         "CVE-2023-21674",
-        "CVE-2026-80097"
+        "CVE-2026-69465"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -496,10 +744,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-48273",
-        "CVE-2026-82004",
+        "CVE-2026-75746",
         "CVE-2026-75650",
-        "CVE-2026-75746"
+        "CVE-2026-82004",
+        "CVE-2026-48273"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -546,139 +794,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Cylake Raises $245 Million Ahead of Cybersecurity Platform Beta",
-    "link": "https://www.securityweek.com/cylake-raises-245-million-ahead-of-cybersecurity-platform-beta/",
-    "published": "Tue, 08 Sep 2026 15:21:01 +0000",
-    "summary": "<p>The startup founded by Palo Alto Networks’ Nir Zuk has raised $290 million to build an AI-native security platform for highly regulated organizations that cannot rely on the public cloud.</p>\n<p>The post <a href=\"https://www.securityweek.com/cylake-raises-245-million-ahead-of-cybersecurity-platform-beta/\">Cylake Raises $245 Million Ahead of Cybersecurity Platform Beta</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The startup founded by Palo Alto Networks’ Nir Zuk has raised $290 million to build an AI-native security platform for highly regulated organizations that cannot rely on the public cloud",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "SAP Patches Critical Extended Passport Processing Vulnerability",
-    "link": "https://www.securityweek.com/sap-patches-critical-extended-passport-processing-vulnerability/",
-    "published": "Tue, 08 Sep 2026 14:55:06 +0000",
-    "summary": "<p>Affecting the SAP kernel code, the flaw allows unauthenticated, remote attackers to run arbitrary commands, recover secrets, and modify data.</p>\n<p>The post <a href=\"https://www.securityweek.com/sap-patches-critical-extended-passport-processing-vulnerability/\">SAP Patches Critical Extended Passport Processing Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Affecting the SAP kernel code, the flaw allows unauthenticated, remote attackers to run arbitrary commands, recover secrets, and modify data",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-76969",
-        "CVE-2026-44756",
-        "CVE-2026-66768",
-        "CVE-2026-58240"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Party’s Over for Crypto Scammers Who Went on a Spending Spree After a $240 Million Bitcoin Theft",
-    "link": "https://www.securityweek.com/partys-over-for-crypto-scammers-who-went-on-a-spending-spree-after-a-240-million-bitcoin-theft/",
-    "published": "Tue, 08 Sep 2026 13:00:00 +0000",
-    "summary": "<p>The scammers purchased fleets of sports cars, flew on private jets, hired security guards and rented mansions in Miami and the Hamptons.</p>\n<p>The post <a href=\"https://www.securityweek.com/partys-over-for-crypto-scammers-who-went-on-a-spending-spree-after-a-240-million-bitcoin-theft/\">Party’s Over for Crypto Scammers Who Went on a Spending Spree After a $240 Million Bitcoin Theft</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The scammers purchased fleets of sports cars, flew on private jets, hired security guards and rented mansions in Miami and the Hamptons",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "MikroTik Patches Critical Flaws Chained to Hack Routers",
-    "link": "https://www.securityweek.com/mikrotik-patches-critical-flaws-chained-to-hack-routers/",
-    "published": "Tue, 08 Sep 2026 11:15:00 +0000",
-    "summary": "<p>Dubbed MikroTrick, the bugs allow attackers to bypass authentication, overwrite configuration files, and take over devices.</p>\n<p>The post <a href=\"https://www.securityweek.com/mikrotik-patches-critical-flaws-chained-to-hack-routers/\">MikroTik Patches Critical Flaws Chained to Hack Routers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Dubbed MikroTrick, the bugs allow attackers to bypass authentication, overwrite configuration files, and take over devices",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-67278",
-        "CVE-2026-67277",
-        "CVE-2026-67281",
-        "CVE-2026-86060",
-        "CVE-2026-67276",
-        "CVE-2026-67279"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Mathspace Data Breach Exposes Over 1 Million People",
-    "link": "https://www.securityweek.com/mathspace-data-breach-exposes-over-1-million-people/",
-    "published": "Tue, 08 Sep 2026 10:47:36 +0000",
-    "summary": "<p>Hackers stole the information of students, teachers, staff, and parents/guardians from a self-hosted Metabase instance.</p>\n<p>The post <a href=\"https://www.securityweek.com/mathspace-data-breach-exposes-over-1-million-people/\">Mathspace Data Breach Exposes Over 1 Million People</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Hackers stole the information of students, teachers, staff, and parents/guardians from a self-hosted Metabase instance",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-72898"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Vulnerability",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "N-able Patches Critical Zero-Day in N-central",
-    "link": "https://www.securityweek.com/n-able-patches-critical-zero-day-in-n-central/",
-    "published": "Tue, 08 Sep 2026 10:37:58 +0000",
-    "summary": "<p>Administrators are advised to check their deployments for newly created user accounts they don’t recognize.</p>\n<p>The post <a href=\"https://www.securityweek.com/n-able-patches-critical-zero-day-in-n-central/\">N-able Patches Critical Zero-Day in N-central</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Administrators are advised to check their deployments for newly created user accounts they don’t recognize",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-86206",
-        "CVE-2026-86207",
-        "CVE-2026-86218"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Microsoft Patch Tuesday for September 2026 — Snort rules and prominent vulnerabilities",
     "link": "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-september-2026/",
@@ -691,8 +806,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-81963",
         "CVE-2026-69852",
+        "CVE-2026-81963",
         "CVE-2026-85880",
         "CVE-2026-69676"
       ],
@@ -870,6 +985,24 @@
   },
   {
     "source": "Recorded Future",
+    "title": "Recorded Future Launches Digital Risk Protection, Unifying Brand and Identity Monitoring",
+    "link": "https://www.recordedfuture.com/blog/unified-brand-identity-monitoring",
+    "published": "Wed, 09 Sep 2026 00:00:00 GMT",
+    "summary": "Recorded Future just launched Digital Risk Protection, a unified solution covering five external threat surfaces, so security teams can detect, triage, and take down brand and identity threats from one workflow.",
+    "analysis": {
+      "issue": "Recorded Future just launched Digital Risk Protection, a unified solution covering five external threat surfaces, so security teams can detect, triage, and take down brand and identity threats from one workflow",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
     "title": "Recorded Future Announces Automated Signature Creation, Accelerating Vulnerability Prioritization",
     "link": "https://www.recordedfuture.com/blog/automated-signature-creation",
     "published": "Fri, 04 Sep 2026 00:00:00 GMT",
@@ -1030,24 +1163,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Malware Crypting Services and the Threat Actors Who Sell Them",
-    "link": "https://www.recordedfuture.com/research/malware-crypting-services-threat-actors",
-    "published": "Thu, 13 Aug 2026 00:00:00 GMT",
-    "summary": "Insikt Group analyzes 24 threat actors selling malware crypting services. Learn about their evasion techniques, market dynamics, and how defenders can prioritize behavioral detection over static analysis.",
-    "analysis": {
-      "issue": "Insikt Group analyzes 24 threat actors selling malware crypting services",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
@@ -1218,8 +1333,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1244,6 +1359,46 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Microsoft fixes record 964 flaws, including 2 exploited zero-days",
+    "link": "https://www.malwarebytes.com/blog/news/2026/09/microsoft-fixes-record-964-flaws-including-2-exploited-zero-days",
+    "published": "Wed, 09 Sep 2026 10:01:08 GMT",
+    "summary": "Microsoft’s September 2026 Patch Tuesday fixes a record 964 vulnerabilities, including two actively exploited zero-days.",
+    "analysis": {
+      "issue": "Microsoft’s September 2026 Patch Tuesday addresses 964 CVEs, including 104 rated Critical and 860 rated Important, making it the company’s largest Patch Tuesday release on record",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-81963"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "The push to stop algorithms controlling social media feeds has begun",
+    "link": "https://www.malwarebytes.com/blog/news/2026/09/the-push-to-stop-algorithms-controlling-social-media-feeds-has-begun",
+    "published": "Wed, 09 Sep 2026 08:28:03 GMT",
+    "summary": "Australia is proposing a law that gives people a choice over what fills their feeds. It may not be long before other countries demand the same.",
+    "analysis": {
+      "issue": "Remember when social media was filled only with posts from your friends, rather than what an algorithm decided you wanted to see",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1278,8 +1433,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-86060",
-        "CVE-2026-67276"
+        "CVE-2026-67276",
+        "CVE-2026-86060"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1398,57 +1553,20 @@
     }
   },
   {
-    "source": "Malwarebytes",
-    "title": "Free streaming boxes may be routing criminal traffic through your home",
-    "link": "https://www.malwarebytes.com/blog/news/2026/09/free-streaming-boxes-may-be-routing-criminal-traffic-through-your-home",
-    "published": "Fri, 04 Sep 2026 09:20:48 GMT",
-    "summary": "Researchers found that apps available on SuperBox devices could add your household connection to a residential proxy network.",
-    "analysis": {
-      "issue": "“Free” movies and TV could cost you your privacy, bandwidth, and control of your home network",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "StreamRat Android malware spreads through Meta and TikTok ads",
-    "link": "https://www.malwarebytes.com/blog/news/2026/09/streamrat-android-malware-spreads-through-meta-and-tiktok-ads",
-    "published": "Thu, 03 Sep 2026 16:04:24 GMT",
-    "summary": "Social media ads for a free streaming service exposed roughly 570,000 people to StreamRat, a banking Trojan that can take control of infected phones.",
-    "analysis": {
-      "issue": "A malicious advertising campaign promoting a fake free TV-streaming service reached roughly 570,000 Meta users",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
     "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Extends Endpoint Security to Stop Software Supply Chain Attacks",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-endpoint-security-to-stop-supply-chain-attacks/",
-    "published": "Sep 02, 2026 00:00:00-0400",
+    "title": "September 2026 Patch Tuesday: Two Exploited Zero-Days and 113 Critical Vulnerabilities Among 972 CVEs",
+    "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-september-2026/",
+    "published": "Sep 08, 2026 00:00:00-0500",
     "summary": "",
     "analysis": {
-      "issue": "Real-Time Supply Chain Attack Protection, embedded into the Falcon sensor, blocks malicious open-source packages at download to protect the endpoint",
+      "issue": "Microsoft has released security updates for 972 vulnerabilities, including two exploited zero-days and 113 critical, in its September 2026 Patch Tuesday rollout",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "Supply Chain"
+        "Vulnerability"
       ]
     }
   },
@@ -1467,6 +1585,24 @@
       "cves": [],
       "threat_categories": [
         "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
+    "title": "CrowdStrike Extends Endpoint Security to Stop Software Supply Chain Attacks",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-endpoint-security-to-stop-supply-chain-attacks/",
+    "published": "Sep 02, 2026 00:00:00-0400",
+    "summary": "",
+    "analysis": {
+      "issue": "Real-Time Supply Chain Attack Protection, embedded into the Falcon sensor, blocks malicious open-source packages at download to protect the endpoint",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
       ]
     }
   },
@@ -1593,24 +1729,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "August 2026 Patch Tuesday: One Exploited Zero-Day and 62 Critical Vulnerabilities Among 415 CVEs",
-    "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-august-2026/",
-    "published": "Aug 11, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "Microsoft has released security updates for 415 vulnerabilities, including one exploited zero-day and 62 critical, in its August 2026 Patch Tuesday rollout",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   }
