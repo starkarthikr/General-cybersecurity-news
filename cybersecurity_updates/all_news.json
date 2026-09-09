@@ -1,6 +1,26 @@
 [
   {
     "source": "The Hacker News",
+    "title": "N-able N-central Pre-Auth RCE Flaw Exploited in the Wild",
+    "link": "https://thehackernews.com/2026/09/n-able-n-central-pre-auth-rce-flaw.html",
+    "published": "Wed, 09 Sep 2026 09:57:51 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by September 11, 2026.\n\nThe vulnerability in question is CVE-2026-86218 (CVSS score: 10.0), which has been described as a",
+    "analysis": {
+      "issue": "CISA added actively exploited N-able N-central CVE-2026-86218 to KEV, with federal agencies ordered to patch by September 11",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-86218"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution",
     "link": "https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html",
     "published": "Tue, 08 Sep 2026 21:50:23 +0530",
@@ -165,24 +185,6 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Grindr to Pay £26 Million to Settle U.K. Claims Over HIV Status Data Sharing",
-    "link": "https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html",
-    "published": "Tue, 08 Sep 2026 12:30:43 +0530",
-    "summary": "Online dating app Grindr has opted to pay £26 million ($35.1 million) to settle a lawsuit in the U.K. over allegations that it shared users' personal information, including their HIV status, with third-parties.\n\nGrindr, which is the largest LGBTQ+ dating app, was sued in April 2024, accusing it of violating U.K. privacy laws by sharing sensitive data for commercial purposes such as advertising.",
-    "analysis": {
-      "issue": "Grindr will pay £26 million to settle a U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
     "title": "Microsoft adds age-awareness APIs that can tell if users are children, teens, or adults",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-age-awareness-apis-that-can-tell-if-users-are-children-teens-or-adults/",
@@ -267,8 +269,8 @@
       "cves": [
         "CVE-2026-81963",
         "CVE-2026-85880",
-        "CVE-2026-69730",
-        "CVE-2026-69829"
+        "CVE-2026-69829",
+        "CVE-2026-69730"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -424,10 +426,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56164",
-        "CVE-2026-48561",
         "CVE-2026-50661",
-        "CVE-2026-56155"
+        "CVE-2026-56155",
+        "CVE-2026-56164",
+        "CVE-2026-48561"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -467,14 +469,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-81963",
         "CVE-2026-65669",
+        "CVE-2026-69525",
         "CVE-2026-85880",
         "CVE-2026-69465",
         "CVE-2026-55007",
         "CVE-2023-21674",
-        "CVE-2026-81963",
-        "CVE-2026-80097",
-        "CVE-2026-69525"
+        "CVE-2026-80097"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -494,9 +496,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-75650",
         "CVE-2026-48273",
         "CVE-2026-82004",
+        "CVE-2026-75650",
         "CVE-2026-75746"
       ],
       "threat_categories": [
@@ -575,9 +577,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-76969",
-        "CVE-2026-58240",
         "CVE-2026-44756",
-        "CVE-2026-66768"
+        "CVE-2026-66768",
+        "CVE-2026-58240"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -617,12 +619,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-67277",
-        "CVE-2026-67279",
         "CVE-2026-67278",
+        "CVE-2026-67277",
+        "CVE-2026-67281",
         "CVE-2026-86060",
         "CVE-2026-67276",
-        "CVE-2026-67281"
+        "CVE-2026-67279"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -666,9 +668,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-86206",
         "CVE-2026-86207",
-        "CVE-2026-86218",
-        "CVE-2026-86206"
+        "CVE-2026-86218"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -690,9 +692,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-81963",
+        "CVE-2026-69852",
         "CVE-2026-85880",
-        "CVE-2026-69676",
-        "CVE-2026-69852"
+        "CVE-2026-69676"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1216,8 +1218,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",

@@ -1,10 +1,20 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-09 04:05:56 UTC
+**Last Updated:** 2026-09-09 05:00:43 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution](https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html)
+### 1. [N-able N-central Pre-Auth RCE Flaw Exploited in the Wild](https://thehackernews.com/2026/09/n-able-n-central-pre-auth-rce-flaw.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 09 Sep 2026 09:57:51 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-86218  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution](https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 08 Sep 2026 21:50:23 +0530  
@@ -13,7 +23,7 @@
 
 ---
 
-### 2. [Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC](https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html)
+### 3. [Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC](https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 08 Sep 2026 20:24:30 +0530  
@@ -22,7 +32,7 @@
 
 ---
 
-### 3. [ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account](https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html)
+### 4. [ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account](https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 08 Sep 2026 19:49:17 +0530  
@@ -31,7 +41,7 @@
 
 ---
 
-### 4. [Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours](https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html)
+### 5. [Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours](https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 08 Sep 2026 19:18:16 +0530  
@@ -40,7 +50,7 @@
 
 ---
 
-### 5. [WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls](https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html)
+### 6. [WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls](https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 08 Sep 2026 17:24:29 +0530  
@@ -49,7 +59,7 @@
 
 ---
 
-### 6. [What It Took to Reach 1 Billion Build Manifests](https://thehackernews.com/2026/09/what-it-took-to-reach-1-billion-build.html)
+### 7. [What It Took to Reach 1 Billion Build Manifests](https://thehackernews.com/2026/09/what-it-took-to-reach-1-billion-build.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 08 Sep 2026 17:19:02 +0530  
@@ -58,7 +68,7 @@
 
 ---
 
-### 7. [FreeIPA Flaw Chain Lets Anonymous Clients Create Reusable Administrator Credentials](https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html)
+### 8. [FreeIPA Flaw Chain Lets Anonymous Clients Create Reusable Administrator Credentials](https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 08 Sep 2026 16:52:07 +0530  
@@ -67,7 +77,7 @@
 
 ---
 
-### 8. [Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell](https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html)
+### 9. [Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell](https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 08 Sep 2026 14:43:47 +0530  
@@ -77,21 +87,12 @@
 
 ---
 
-### 9. [BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams](https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html)
+### 10. [BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams](https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 08 Sep 2026 14:13:51 +0530  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 10. [Grindr to Pay £26 Million to Settle U.K. Claims Over HIV Status Data Sharing](https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 08 Sep 2026 12:30:43 +0530  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -170,7 +171,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81963, CVE-2026-85880, CVE-2026-69730, CVE-2026-69829  
+**CVEs:** CVE-2026-81963, CVE-2026-85880, CVE-2026-69829, CVE-2026-69730  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -244,7 +245,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56164, CVE-2026-48561, CVE-2026-50661, CVE-2026-56155  
+**CVEs:** CVE-2026-50661, CVE-2026-56155, CVE-2026-56164, CVE-2026-48561  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -263,7 +264,7 @@
 **Source:** Security Week  
 **Published:** Tue, 08 Sep 2026 19:20:06 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-65669, CVE-2026-85880, CVE-2026-69465, CVE-2026-55007, CVE-2023-21674, CVE-2026-81963, CVE-2026-80097, CVE-2026-69525  
+**CVEs:** CVE-2026-81963, CVE-2026-65669, CVE-2026-69525, CVE-2026-85880, CVE-2026-69465, CVE-2026-55007, CVE-2023-21674, CVE-2026-80097  
 **Categories:** Vulnerability  
 
 ---
@@ -273,7 +274,7 @@
 **Source:** Security Week  
 **Published:** Tue, 08 Sep 2026 18:37:17 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-75650, CVE-2026-48273, CVE-2026-82004, CVE-2026-75746  
+**CVEs:** CVE-2026-48273, CVE-2026-82004, CVE-2026-75650, CVE-2026-75746  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -310,7 +311,7 @@
 **Source:** Security Week  
 **Published:** Tue, 08 Sep 2026 14:55:06 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-76969, CVE-2026-58240, CVE-2026-44756, CVE-2026-66768  
+**CVEs:** CVE-2026-76969, CVE-2026-44756, CVE-2026-66768, CVE-2026-58240  
 **Categories:** Vulnerability  
 
 ---
@@ -329,7 +330,7 @@
 **Source:** Security Week  
 **Published:** Tue, 08 Sep 2026 11:15:00 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-67277, CVE-2026-67279, CVE-2026-67278, CVE-2026-86060, CVE-2026-67276, CVE-2026-67281  
+**CVEs:** CVE-2026-67278, CVE-2026-67277, CVE-2026-67281, CVE-2026-86060, CVE-2026-67276, CVE-2026-67279  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -349,7 +350,7 @@
 **Source:** Security Week  
 **Published:** Tue, 08 Sep 2026 10:37:58 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-86207, CVE-2026-86218, CVE-2026-86206  
+**CVEs:** CVE-2026-86206, CVE-2026-86207, CVE-2026-86218  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -359,7 +360,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 08 Sep 2026 22:16:35 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81963, CVE-2026-85880, CVE-2026-69676, CVE-2026-69852  
+**CVEs:** CVE-2026-81963, CVE-2026-69852, CVE-2026-85880, CVE-2026-69676  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -615,7 +616,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
