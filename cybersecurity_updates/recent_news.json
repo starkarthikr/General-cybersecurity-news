@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories",
+    "link": "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html",
+    "published": "Thu, 10 Sep 2026 23:17:38 +0530",
+    "summary": "A lot of this week’s security news has the same awkward answer to one question: “Why was that allowed to work?”\n\nAn extension asks for access and takes too much. A trusted service becomes part of a phishing chain. An old bug still gets results. An exposed system stays exposed. A package looks useful right up until it isn’t. Different stories, same basic problem: the path in was often already",
+    "analysis": {
+      "issue": "This week’s cyber threats span phishing abuse, malicious extensions, exposed systems, old flaws, AI attacks, and supply-chain risk",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Google Play Early Access Abused to Push Thousands of Deceptive Android Apps",
     "link": "https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html",
     "published": "Thu, 10 Sep 2026 20:06:47 +0530",
@@ -164,13 +182,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA",
-    "link": "https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html",
-    "published": "Wed, 09 Sep 2026 19:53:55 +0530",
-    "summary": "Cybercriminals are hijacking artificial intelligence (AI) user accounts via information stealer logs to create \"stolen keys\" that grant illicit access to tools from model providers like Google, Anthropic, and others.&nbsp;\n\nInformation stealers like Lumma Stealer or Vidar are equipped to harvest a wide range of data from compromised systems. This can include credential, session tokens, and API",
+    "source": "Bleeping Computer",
+    "title": "Microsoft Excel KB5002914 update breaks copy and paste for some users",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users/",
+    "published": "Thu, 10 Sep 2026 15:07:33 -0400",
+    "summary": "Microsoft Excel users report that this week's KB5002914 Office security update is breaking copy-and-paste operations and formula dragging, with affected users saying that removing or rolling back the update restores normal functionality. [...]",
     "analysis": {
-      "issue": "Infostealer logs expose replayable AI session tokens and API keys that can bypass login controls and enable unauthorized account access",
+      "issue": "Microsoft Excel users report that this week's KB5002914 Office security update is breaking copy-and-paste operations and formula dragging, with affected users saying that removing or rolling back the update restores normal functionality",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -361,26 +379,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
-    "published": "Wed, 09 Sep 2026 17:40:44 -0400",
-    "summary": "Cisco has confirmed that a maximum-severity authentication bypass vulnerability tracked as CVE-2026-20079 in its Secure Firewall Management Center (FMC) software is being actively exploited in attacks. [...]",
-    "analysis": {
-      "issue": "Cisco has confirmed that a maximum-severity authentication bypass vulnerability tracked as CVE-2026-20079 in its Secure Firewall Management Center (FMC) software is being actively exploited in attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-20079"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Microsoft Plugs Nearly 1,000 Security Holes",
     "link": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
@@ -393,10 +391,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-85880",
         "CVE-2026-81963",
-        "CVE-2026-69730",
-        "CVE-2026-69829"
+        "CVE-2026-69829",
+        "CVE-2026-85880",
+        "CVE-2026-69730"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -473,9 +471,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-72971",
+        "CVE-2026-68820",
         "CVE-2026-62832",
-        "CVE-2026-68820"
+        "CVE-2026-72971"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -552,10 +550,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56164",
+        "CVE-2026-48561",
         "CVE-2026-56155",
         "CVE-2026-50661",
-        "CVE-2026-48561"
+        "CVE-2026-56164"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -579,6 +577,24 @@
       "threat_categories": [
         "Data Breach",
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Cybersecurity M&A Roundup: 33 Deals Announced in August 2026",
+    "link": "https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-august-2026/",
+    "published": "Thu, 10 Sep 2026 16:14:58 +0000",
+    "summary": "<p>Significant cybersecurity M&#038;A deals announced by Brinqa, Cribl, Echo, Fortinet, Kiteworks, Palo Alto Networks, and Visa.</p>\n<p>The post <a href=\"https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-august-2026/\">Cybersecurity M&#038;A Roundup: 33 Deals Announced in August 2026</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Significant cybersecurity M&A deals announced by Brinqa, Cribl, Echo, Fortinet, Kiteworks, Palo Alto Networks, and Visa",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -729,8 +745,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-20079",
-        "CVE-2026-20131",
-        "CVE-2026-20316"
+        "CVE-2026-20316",
+        "CVE-2026-20131"
       ],
       "threat_categories": [
         "Ransomware",
@@ -762,23 +778,20 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Fortinet Code Execution Flaw Exploited in PivotC2 RAT Attacks",
-    "link": "https://www.securityweek.com/fortinet-code-execution-flaw-exploited-in-pivotc2-rat-attacks/",
-    "published": "Thu, 10 Sep 2026 06:33:36 +0000",
-    "summary": "<p>The high-severity, unauthenticated vulnerability tracked as CVE-2025-25249 was patched in January 2026.</p>\n<p>The post <a href=\"https://www.securityweek.com/fortinet-code-execution-flaw-exploited-in-pivotc2-rat-attacks/\">Fortinet Code Execution Flaw Exploited in PivotC2 RAT Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "source": "Talos Blog",
+    "title": "We've got one word for it, and it's usually the wrong one",
+    "link": "https://blog.talosintelligence.com/weve-got-one-word-for-it-and-its-usually-the-wrong-one/",
+    "published": "Thu, 10 Sep 2026 18:00:15 GMT",
+    "summary": "In this week's Threat Source newsletter, Joe explores why the word \"burnout\" often fails to capture the true toll of working in the cybersecurity industry and why we need better language to address it.",
     "analysis": {
-      "issue": "The high-severity, unauthenticated vulnerability tracked as CVE-2025-25249 was patched in January 2026",
+      "issue": "Welcome to this week’s edition of the Threat Source newsletter",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2025-25249"
-      ],
+      "severity": "Low",
+      "cves": [],
       "threat_categories": [
-        "Vulnerability",
-        "Malware"
+        "APT"
       ]
     }
   },
@@ -819,10 +832,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-85880",
         "CVE-2026-81963",
+        "CVE-2026-69676",
         "CVE-2026-69852",
-        "CVE-2026-69676"
+        "CVE-2026-85880"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -956,24 +969,6 @@
       "threat_categories": [
         "Vulnerability",
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "Is Cyber missing the Marque?",
-    "link": "https://blog.talosintelligence.com/is-cyber-missing-the-marque/",
-    "published": "Thu, 20 Aug 2026 18:00:18 GMT",
-    "summary": "In this week's newsletter, new author Mick Baccio introduces himself and explores the operational and security implications of the new White House memorandum regarding private sector participation in government-authorized offensive cyber operations.",
-    "analysis": {
-      "issue": "Welcome to this week’s edition of the Threat Source newsletter",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -1520,8 +1515,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-67276",
-        "CVE-2026-86060"
+        "CVE-2026-86060",
+        "CVE-2026-67276"
       ],
       "threat_categories": [
         "Vulnerability",
