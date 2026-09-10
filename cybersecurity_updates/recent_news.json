@@ -1,6 +1,78 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Google Play Early Access Abused to Push Thousands of Deceptive Android Apps",
+    "link": "https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html",
+    "published": "Thu, 10 Sep 2026 20:06:47 +0530",
+    "summary": "Bad actors are misusing Google Play's Early Access program to push deceptive apps that claim to offer money, rewards, casino winnings, and premium content.\n\nEarly Access apps are apps that haven't been released on the official Android app marketplace. The main idea behind the program is for developers to solicit user feedback for new applications or features they may be working on before their",
+    "analysis": {
+      "issue": "Google Play Early Access is being abused to push thousands of deceptive apps, including fake casino and reward apps promoted via social media",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE",
+    "link": "https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html",
+    "published": "Thu, 10 Sep 2026 17:15:05 +0530",
+    "summary": "Check Point has patched two critical vulnerabilities in the way its firewall and management products handle VPN certificates. The company says both could allow an unauthenticated remote attacker to run code, but only \"under specific conditions\" that it has not described.\n\nOne flaw affects Check Point's Security Gateways, its firewall appliances. The other affects those gateways and the Security",
+    "analysis": {
+      "issue": "Check Point fixes two VPN certificate flaws that can enable unauthenticated remote code execution under unspecified conditions",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances",
+    "link": "https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html",
+    "published": "Thu, 10 Sep 2026 17:11:53 +0530",
+    "summary": "A suspected Russian-speaking cyber actor has been attributed to the use of artificial intelligence (AI) to devise exploits targeting a recently disclosed pair of security flaws in PaperCut NG/MF and break into hundreds of instances.\n\nAccording to independent reports from Blackpoint Cyber and GreyNoise, the activity originates from \"45.142.193[.]132,\" an IP address that has been linked to",
+    "analysis": {
+      "issue": "A suspected Russian-speaking actor used AI-assisted workflows to exploit PaperCut flaws and compromise at least 440 instances worldwide",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks",
+    "link": "https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html",
+    "published": "Thu, 10 Sep 2026 17:03:43 +0530",
+    "summary": "The Gigabud banking trojan now installs a second Android app that creates a work profile on an infected phone and drops a tampered banking app inside it, security firm Group-IB said in a&nbsp;report published on September 9.\n\nA work profile is a separate space that Android typically reserves for employer apps, and what's inside it is kept separate from everything in the personal space. That",
+    "analysis": {
+      "issue": "Gigabud uses Vwork to create Android work profiles that hide the trojan from banking app malware checks, with the chain confirmed in Indonesia",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline",
     "link": "https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html",
     "published": "Thu, 10 Sep 2026 16:06:46 +0530",
@@ -110,74 +182,103 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Webinar: Learn How to Answer “Are We Exposed?” Faster After a New CVE",
-    "link": "https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html",
-    "published": "Wed, 09 Sep 2026 17:27:36 +0530",
-    "summary": "A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed?\n\nFor many security teams, answering that means jumping between vulnerability scanners, endpoint tools, cloud inventories, SBOMs, repositories, and application data to build enough context to act.\n\nAs AI accelerates vulnerability discovery and research, that delay matters more",
+    "source": "Bleeping Computer",
+    "title": "AI-powered attack exploited PaperCut flaws to hack 395 organizations",
+    "link": "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/",
+    "published": "Thu, 10 Sep 2026 11:55:56 -0400",
+    "summary": "A threat actor, likely Russian-speaking, used hundreds of AI agents to develop and launch a global exploitation campaign targeting vulnerable PaperCut NG/MF servers. [...]",
     "analysis": {
-      "issue": "Tines unifies SBOM, endpoint, cloud, and vulnerability data to speed exposure assessment with AI-assisted analysis and automation",
+      "issue": "A threat actor, likely Russian-speaking, used hundreds of AI agents to develop and launch a global exploitation campaign targeting vulnerable PaperCut NG/MF servers",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [],
+      "cves": [
+        "CVE-2026-82078",
+        "CVE-2026-81578"
+      ],
       "threat_categories": [
         "Vulnerability"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval",
-    "link": "https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html",
-    "published": "Wed, 09 Sep 2026 16:47:07 +0530",
-    "summary": "A flaw in DeepSeek Harness, DeepSeek's open-source tool for running AI coding agents on a developer's machine, let a sandboxed agent turn off its own sandbox with a single command.\n\nThe tool runs an agent's commands inside an operating-system sandbox, so that an agent working on untrusted files cannot write outside its workspace. The agent could remove that limit by calling the tool's own web",
+    "source": "Bleeping Computer",
+    "title": "Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers",
+    "link": "https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/",
+    "published": "Thu, 10 Sep 2026 11:43:58 -0400",
+    "summary": "Cisco Talos says two recently patched Secure Firewall Management Center (FMC) vulnerabilities have been exploited by three separate threat clusters linked to ransomware and state-sponsored attacks. [...]",
     "analysis": {
-      "issue": "A DeepSeek Harness flaw let attacker-supplied text push AI agents to disable the file sandbox; fixed npm releases start at 0",
+      "issue": "Cisco Talos says two recently patched Secure Firewall Management Center (FMC) vulnerabilities have been exploited by three separate threat clusters linked to ransomware and state-sponsored attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2026-20079",
+        "CVE-2026-20316"
+      ],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "IDScan confirms breach tied to 153 million stolen driver’s licenses",
+    "link": "https://www.bleepingcomputer.com/news/security/idscan-confirms-breach-tied-to-153-million-stolen-drivers-licenses/",
+    "published": "Thu, 10 Sep 2026 10:55:33 -0400",
+    "summary": "Identity verification company IDScan has confirmed that hackers accessed customer data stored in its cloud platform, days after reports linked the company to a massive database containing more than 153 million driver's license scans. [...]",
+    "analysis": {
+      "issue": "Identity verification company IDScan has confirmed that hackers accessed customer data stored in its cloud platform, days after reports linked the company to a massive database containing more than 153 million driver's license scans",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Supply Chain"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Alby Hub Critical Flaw Could Let Attackers Take Over Internet-Exposed Bitcoin Wallets",
-    "link": "https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html",
-    "published": "Wed, 09 Sep 2026 16:13:04 +0530",
-    "summary": "Bitcoin wallet company Alby has&nbsp;warned of a critical flaw&nbsp;in Alby Hub that could have let an attacker take over a wallet and send its funds, but only where the owner had made the Hub reachable from the internet.\n\nAlby Hub is a self-hosted Lightning wallet, meaning the owner runs it on their own computer or server, and it holds their bitcoin. The flaw affects versions v1.7.0 through",
+    "source": "Bleeping Computer",
+    "title": "New 'BlueMoon' kit exploited Windows and Chrome zero-day flaws",
+    "link": "https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/",
+    "published": "Thu, 10 Sep 2026 10:11:34 -0400",
+    "summary": "Multiple cyber-espionage groups deployed an exploit kit dubbed \"BlueMoon\" that leveraged zero-day vulnerabilities in Microsoft Windows and Google Chrome. [...]",
     "analysis": {
-      "issue": "Alby warns a critical Hub flaw could let attackers take over internet-exposed wallets; versions 1",
+      "issue": "Multiple cyber-espionage groups deployed an exploit kit dubbed “BlueMoon” that leveraged zero-day vulnerabilities in Microsoft Windows and Google Chrome",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Vulnerability",
+        "Phishing",
+        "APT"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok",
-    "link": "https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html",
-    "published": "Wed, 09 Sep 2026 15:02:26 +0530",
-    "summary": "U.S. cybersecurity and intelligence agencies have accused China-based artificial intelligence (AI) companies of conducting \"systematic extraction\" of proprietary functionalities and capabilities of American frontier models through distillation attacks.\n\nThe activity has been described as occurring at an industrial-scale and one that forms the \"core\" of their AI development strategy, according to",
+    "source": "Bleeping Computer",
+    "title": "The Top 4 Threats We Found by Investigating Every Alert for a Quarter",
+    "link": "https://www.bleepingcomputer.com/news/security/the-top-4-threats-we-found-by-investigating-every-alert-for-a-quarter/",
+    "published": "Thu, 10 Sep 2026 10:00:10 -0400",
+    "summary": "Identity was the target in roughly half of all confirmed malicious activity. Prophet Security breaks down the four main attack patterns seen across customer environments between May and July 2026, and explains why some attacks succeeded while others were blocked. [...]",
     "analysis": {
-      "issue": "agencies accuse six China-based AI firms of industrial-scale distillation to extract proprietary capabilities from frontier AI models",
+      "issue": "Tl;dr: Identity was the target in roughly half of all confirmed malicious activity",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Phishing",
+        "APT"
       ]
     }
   },
@@ -280,103 +381,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "AdaptHealth confirms 4.1 million people exposed in July cyberattack",
-    "link": "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/",
-    "published": "Wed, 09 Sep 2026 17:30:36 -0400",
-    "summary": "Healthcare company AdaptHealth has confirmed that data of 4.1 million people was exposed in a cyberattack discovered in July that was attributed to the ShinyHunters threat group. [...]",
-    "analysis": {
-      "issue": "Healthcare company AdaptHealth has confirmed that data of 4",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "APT",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking",
-    "link": "https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/",
-    "published": "Wed, 09 Sep 2026 17:02:14 -0400",
-    "summary": "The Carnegie Mellon University CERT Coordination Center (CERT/CC) is warning that Skullcandy Dime 3 wireless earbuds accept Bluetooth pairing requests from nearby unpaired devices without requiring user interaction. [...]",
-    "analysis": {
-      "issue": "The Carnegie Mellon University CERT Coordination Center (CERT/CC) is warning that Skullcandy Dime 3 wireless earbuds accept Bluetooth pairing requests from nearby unpaired devices without requiring user interaction",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2025-20701"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "US says Chinese firms extracted billions of tokens from frontier AI models",
-    "link": "https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/",
-    "published": "Wed, 09 Sep 2026 12:48:33 -0400",
-    "summary": "U.S. cybersecurity and intelligence agencies say that six Chinese AI companies conducted industrial-scale distillation attacks on American frontier AI models since at least late 2024. [...]",
-    "analysis": {
-      "issue": "cybersecurity and intelligence agencies say that six Chinese AI companies conducted industrial-scale distillation attacks on American frontier AI models since at least late 2024",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Veradigm warns of patient data breach after ransomware gang claims attack",
-    "link": "https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/",
-    "published": "Wed, 09 Sep 2026 11:31:23 -0400",
-    "summary": "Healthcare technology company Veradigm disclosed a data breach after a cybersecurity incident at one of its third-party vendors exposed patients' personal data. [...]",
-    "analysis": {
-      "issue": "Healthcare technology company Veradigm disclosed a data breach after a cybersecurity incident at one of its third-party vendors exposed patients' personal data",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "MFA's Weakest Link: Account Recovery Is the New Attack Path",
-    "link": "https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/",
-    "published": "Wed, 09 Sep 2026 10:01:11 -0400",
-    "summary": "MFA makes account takeover harder, but attackers are increasingly targeting the recovery processes used to reset passwords and authentication methods. Specops explains why stronger identity verification at the service desk is critical to preventing social engineering attacks from turning account recovery into account takeover. [...]",
-    "analysis": {
-      "issue": "For years, security teams have been making account takeover harder",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing",
-        "APT"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Microsoft Plugs Nearly 1,000 Security Holes",
     "link": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
@@ -389,8 +393,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-81963",
         "CVE-2026-85880",
+        "CVE-2026-81963",
         "CVE-2026-69730",
         "CVE-2026-69829"
       ],
@@ -469,9 +473,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-68820",
+        "CVE-2026-72971",
         "CVE-2026-62832",
-        "CVE-2026-72971"
+        "CVE-2026-68820"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -548,10 +552,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-56164",
         "CVE-2026-56155",
         "CVE-2026-50661",
-        "CVE-2026-48561",
-        "CVE-2026-56164"
+        "CVE-2026-48561"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -575,6 +579,79 @@
       "threat_categories": [
         "Data Breach",
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Anthropic Researcher Resigns With Warning About the Dangers of AI Development",
+    "link": "https://www.securityweek.com/anthropic-researcher-resigns-with-warning-about-the-dangers-of-ai-development/",
+    "published": "Thu, 10 Sep 2026 14:52:07 +0000",
+    "summary": "<p>Both Anthropic and OpenAI have seen high-profile resignations in recent years that were tied to safety concerns.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-researcher-resigns-with-warning-about-the-dangers-of-ai-development/\">Anthropic Researcher Resigns With Warning About the Dangers of AI Development</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Both Anthropic and OpenAI have seen high-profile resignations in recent years that were tied to safety concerns",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Hacker Conversations: Vinnie Liu, Performer Turned Ringmaster",
+    "link": "https://www.securityweek.com/hacker-conversations-vinnie-liu-performer-turned-ringmaster/",
+    "published": "Thu, 10 Sep 2026 14:30:00 +0000",
+    "summary": "<p>Vinnie Liu was recruited by the NSA when he was just 17 years old. He is now the CEO of Bishop Fox.</p>\n<p>The post <a href=\"https://www.securityweek.com/hacker-conversations-vinnie-liu-performer-turned-ringmaster/\">Hacker Conversations: Vinnie Liu, Performer Turned Ringmaster</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Vinnie Liu was recruited by the NSA when he was just 17 years old",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Deceptive Android Apps Exploit Google Play Early Access to Evade Reviews",
+    "link": "https://www.securityweek.com/deceptive-android-apps-exploit-google-play-early-access-to-evade-reviews/",
+    "published": "Thu, 10 Sep 2026 13:39:52 +0000",
+    "summary": "<p>Deceptive apps in Early Access are being used by dishonest developers for their own benefit.</p>\n<p>The post <a href=\"https://www.securityweek.com/deceptive-android-apps-exploit-google-play-early-access-to-evade-reviews/\">Deceptive Android Apps Exploit Google Play Early Access to Evade Reviews</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Deceptive apps in Early Access are being used by dishonest developers for their own benefit",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Webinar Today: Keep Pace With AI – A New Operating Model for Endpoint Remediation",
+    "link": "https://www.securityweek.com/webinar-today-keep-pace-with-ai-a-new-operating-model-for-endpoint-remediation/",
+    "published": "Thu, 10 Sep 2026 13:30:00 +0000",
+    "summary": "<p>Join the webinar for a focused, 20-minute discussion on Frontier Pace Governance, an approach to balancing automation, policy, and business risk as IT operations accelerate.</p>\n<p>The post <a href=\"https://www.securityweek.com/webinar-today-keep-pace-with-ai-a-new-operating-model-for-endpoint-remediation/\">Webinar Today: Keep Pace With AI &#8211; A New Operating Model for Endpoint Remediation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Join the webinar for a focused, 20-minute discussion on Frontier Pace Governance, an approach to balancing automation, policy, and business risk as IT operations accelerate",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -651,9 +728,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-20079",
         "CVE-2026-20131",
-        "CVE-2026-20316",
-        "CVE-2026-20079"
+        "CVE-2026-20316"
       ],
       "threat_categories": [
         "Ransomware",
@@ -706,85 +783,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "HelmGuard Raises $7.3 Million for Agentic GRC and Security",
-    "link": "https://www.securityweek.com/helmguard-raises-7-3-million-for-agentic-grc-and-security/",
-    "published": "Wed, 09 Sep 2026 17:23:58 +0000",
-    "summary": "<p>The company will increase its US market presence and will expand its engineering and go-to-market teams.</p>\n<p>The post <a href=\"https://www.securityweek.com/helmguard-raises-7-3-million-for-agentic-grc-and-security/\">HelmGuard Raises $7.3 Million for Agentic GRC and Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The company will increase its US market presence and will expand its engineering and go-to-market teams",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "AI Is Giving Lesser-Resourced Attackers Nation-State-Level Reach, Google Warns",
-    "link": "https://www.securityweek.com/ai-is-giving-lesser-resourced-attackers-nation-state-level-reach-google-warns/",
-    "published": "Wed, 09 Sep 2026 16:56:25 +0000",
-    "summary": "<p>Criminal and state-sponsored adversaries are increasingly using AI to automate and scale their attacks, according to GTIG.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-is-giving-lesser-resourced-attackers-nation-state-level-reach-google-warns/\">AI Is Giving Lesser-Resourced Attackers Nation-State-Level Reach, Google Warns</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Criminal and state-sponsored adversaries are increasingly using AI to automate and scale their attacks, according to GTIG",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "APT",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Android’s September 2026 Updates Patch 180 Vulnerabilities",
-    "link": "https://www.securityweek.com/androids-september-2026-updates-patch-180-vulnerabilities/",
-    "published": "Wed, 09 Sep 2026 16:30:40 +0000",
-    "summary": "<p>The security updates resolve critical flaws across Android’s Framework, System, and Kernel components.</p>\n<p>The post <a href=\"https://www.securityweek.com/androids-september-2026-updates-patch-180-vulnerabilities/\">Android&#8217;s September 2026 Updates Patch 180 Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The security updates resolve critical flaws across Android’s Framework, System, and Kernel components",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-28662"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Chipmaker Patch Tuesday: Nvidia, AMD, Arm Issue Security Advisories",
-    "link": "https://www.securityweek.com/chipmaker-patch-tuesday-nvidia-amd-arm-issue-security-advisories/",
-    "published": "Wed, 09 Sep 2026 16:22:54 +0000",
-    "summary": "<p>Major chipmakers announced patches for vulnerabilities recently discovered in their products.</p>\n<p>The post <a href=\"https://www.securityweek.com/chipmaker-patch-tuesday-nvidia-amd-arm-issue-security-advisories/\">Chipmaker Patch Tuesday: Nvidia, AMD, Arm Issue Security Advisories</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Major chipmakers announced patches for vulnerabilities recently discovered in their products",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-43603"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Active exploitation of Cisco Secure Firewall Management Center vulnerabilities",
     "link": "https://blog.talosintelligence.com/fmc-ongoing-exploitation/",
@@ -797,8 +795,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20316",
-        "CVE-2026-20079"
+        "CVE-2026-20079",
+        "CVE-2026-20316"
       ],
       "threat_categories": [
         "Ransomware",
@@ -821,10 +819,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-81963",
         "CVE-2026-85880",
-        "CVE-2026-69676",
-        "CVE-2026-69852"
+        "CVE-2026-81963",
+        "CVE-2026-69852",
+        "CVE-2026-69676"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -969,6 +967,24 @@
     "summary": "In this week's newsletter, new author Mick Baccio introduces himself and explores the operational and security implications of the new White House memorandum regarding private sector participation in government-authorized offensive cyber operations.",
     "analysis": {
       "issue": "Welcome to this week’s edition of the Threat Source newsletter",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "The Intelligible World of Agents",
+    "link": "https://www.recordedfuture.com/blog/intelligible-world-agents",
+    "published": "Thu, 10 Sep 2026 00:00:00 GMT",
+    "summary": "AI agents don't fail from weak reasoning. They fail due to the disconnected and untrustworthy operational world in which they act. Find out why the world representation you give an agent matters more than the model you pick.",
+    "analysis": {
+      "issue": "AI agents don't fail from weak reasoning",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1141,24 +1157,6 @@
       "cves": [],
       "threat_categories": [
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "PurpleDelta's Fraudulent Employment Operations",
-    "link": "https://www.recordedfuture.com/research/purpledelta-fraudulent-employment-operations",
-    "published": "Tue, 18 Aug 2026 00:00:00 GMT",
-    "summary": "Learn how North Korean IT worker threat cluster \"PurpleDelta\" uses AI-generated personas, sophisticated tradecraft, and custom ChatGPT assistants to infiltrate organizations. Discover key indicators of compromise and mitigation strategies to protect your company from these fraudulent employment operations.",
-    "analysis": {
-      "issue": "Learn how North Korean IT worker threat cluster \"PurpleDelta\" uses AI-generated personas, sophisticated tradecraft, and custom ChatGPT assistants to infiltrate organizations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -1360,6 +1358,25 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "BlueMoon exploit kit turns Chrome and Windows flaws into attacks",
+    "link": "https://www.malwarebytes.com/blog/bugs/2026/09/bluemoon-exploit-kit-turns-chrome-and-windows-flaws-into-attacks",
+    "published": "Thu, 10 Sep 2026 15:49:13 GMT",
+    "summary": "Four different espionage groups used the same exploit kit to target recently fixed flaws, showing why “patch later” is a dangerous gamble.",
+    "analysis": {
+      "issue": "BlueMoon, a shared Chrome and Windows exploit kit, shows why “patch later” is becoming a dangerous gamble",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Will AI kill us all within the next decade?",
     "link": "https://www.malwarebytes.com/blog/ai/2026/09/will-ai-kill-us-all-within-the-next-decade",
     "published": "Thu, 10 Sep 2026 12:18:51 GMT",
@@ -1503,8 +1520,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-86060",
-        "CVE-2026-67276"
+        "CVE-2026-67276",
+        "CVE-2026-86060"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1527,24 +1544,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "LG TV flaws could let attackers listen in, even in standby mode",
-    "link": "https://www.malwarebytes.com/blog/privacy/2026/09/lg-tv-flaws-could-let-attackers-listen-in-even-in-standby-mode",
-    "published": "Mon, 07 Sep 2026 13:34:40 GMT",
-    "summary": "Testing found that LG smart TVs can track viewing and scan home networks, while security flaws could let attackers record conversations.",
-    "analysis": {
-      "issue": "Smart TVs are internet-connected computers with microphones, app stores, advertising systems, and access to the same home networks used by your family’s phones, laptops, printers, and smart-home devices",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "APT"
       ]
     }
   },
