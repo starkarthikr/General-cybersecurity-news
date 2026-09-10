@@ -1,6 +1,44 @@
 [
   {
     "source": "The Hacker News",
+    "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto",
+    "link": "https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html",
+    "published": "Wed, 09 Sep 2026 23:56:05 +0530",
+    "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced coordinated actions aimed at an illicit online marketplace called Xinbi Guarantee that offered scam services, including seizing Telegram channels used to run the service, confiscating two cryptocurrency wallets, and deploying the Scam Center Strike Force to Madagascar to help disrupt 13 scam compounds run by Chinese organized crime",
+    "analysis": {
+      "issue": "authorities disrupted Xinbi Guarantee and froze $52",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week",
+    "link": "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html",
+    "published": "Wed, 09 Sep 2026 22:04:05 +0530",
+    "summary": "Multiple espionage-motivated threat activity clusters have been found deploying a previously undocumented exploit kit called BlueMoon that chains together multiple vulnerabilities in Microsoft Windows and Google Chrome.\n\nThe first in-the-wild use of BlueMoon has been attributed to the China-aligned state-sponsored group tracked as APT31 (aka Bronze Vinewood, Judgement Panda, JungleBamboo,",
+    "analysis": {
+      "issue": "BlueMoon chains two Chrome V8 zero-days with a Windows flaw in phishing attacks used by APT31 and other espionage clusters",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA",
     "link": "https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html",
     "published": "Wed, 09 Sep 2026 19:53:55 +0530",
@@ -146,37 +184,59 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Researcher Drops New Microsoft Defender PoC Showing ShieldBreak Patch Can Be Bypassed",
-    "link": "https://thehackernews.com/2026/09/researcher-drops-new-microsoft-defender.html",
-    "published": "Wed, 09 Sep 2026 12:17:27 +0530",
-    "summary": "The security researcher known as Chaotic Eclipse has dropped a proof-of-concept (PoC) for yet another zero-day in Microsoft Defender.\n\nThe vulnerability, codenamed ShieldCrash, is assessed to be a patch bypass for CVE-2026-69414 (CVSS score: 7.8), also called ShieldBreak, which the researcher reported last month.\n\n\"Microsoft has failed to properly patch ShieldBreak CVE-2026-69414,\" Chaotic",
+    "source": "Bleeping Computer",
+    "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
+    "published": "Wed, 09 Sep 2026 17:40:44 -0400",
+    "summary": "Cisco has confirmed that a maximum-severity authentication bypass vulnerability tracked as CVE-2026-20079 in its Secure Firewall Management Center (FMC) software is being actively exploited in attacks. [...]",
     "analysis": {
-      "issue": "A Microsoft Defender patch bypass PoC demonstrates arbitrary file read as SYSTEM on the latest Windows version",
+      "issue": "Cisco has confirmed that a maximum-severity authentication bypass vulnerability tracked as CVE-2026-20079 in its Secure Firewall Management Center (FMC) software is being actively exploited in attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-20079"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "AdaptHealth confirms 4.1 million people exposed in July cyberattack",
+    "link": "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/",
+    "published": "Wed, 09 Sep 2026 17:30:36 -0400",
+    "summary": "Healthcare company AdaptHealth has confirmed that data of 4.1 million people was exposed in a cyberattack discovered in July that was attributed to the ShinyHunters threat group. [...]",
+    "analysis": {
+      "issue": "Healthcare company AdaptHealth has confirmed that data of 4",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Ransomware",
+        "APT",
+        "Supply Chain"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "SAP Patches CVSS 10.0 Kernel Flaw Enabling Unauthenticated Remote Code Execution",
-    "link": "https://thehackernews.com/2026/09/sap-patches-cvss-100-kernel-flaw.html",
-    "published": "Wed, 09 Sep 2026 11:55:45 +0530",
-    "summary": "SAP has released security updates to address multiple vulnerabilities, including a maximum-severity flaw in SAP Extended Passport (EPP) Processing that could have a severe impact on the confidentiality, integrity, and availability of the application\n\nThe vulnerability, tracked as CVE-2026-44756 (CVSS score: 10.0), has been described as a case of memory corruption. Discovered and reported by SAP",
+    "source": "Bleeping Computer",
+    "title": "Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking",
+    "link": "https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/",
+    "published": "Wed, 09 Sep 2026 17:02:14 -0400",
+    "summary": "The Carnegie Mellon University CERT Coordination Center (CERT/CC) is warning that Skullcandy Dime 3 wireless earbuds accept Bluetooth pairing requests from nearby unpaired devices without requiring user interaction. [...]",
     "analysis": {
-      "issue": "SAP patches CVE-2026-44756, an unauthenticated EPP memory corruption flaw that enables remote OS command execution with SAP admin privileges",
+      "issue": "The Carnegie Mellon University CERT Coordination Center (CERT/CC) is warning that Skullcandy Dime 3 wireless earbuds accept Bluetooth pairing requests from nearby unpaired devices without requiring user interaction",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [
-        "CVE-2026-44756"
+        "CVE-2025-20701"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -317,60 +377,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Microsoft adds age-awareness APIs that can tell if users are children, teens, or adults",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-age-awareness-apis-that-can-tell-if-users-are-children-teens-or-adults/",
-    "published": "Tue, 08 Sep 2026 21:16:27 -0400",
-    "summary": "Microsoft is adding new age-awareness APIs to Windows 11 that will allow apps to determine whether someone is a child, teenager, or adult without exposing their exact date of birth. [...]",
-    "analysis": {
-      "issue": "Microsoft is adding new age-awareness APIs to Windows 11 that will allow apps to determine whether someone is a child, teenager, or adult without exposing their exact date of birth",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "DoppelCart fraud network uses 119,000 fake shops to steal credit cards",
-    "link": "https://www.bleepingcomputer.com/news/security/doppelcart-fraud-network-uses-119-000-fake-shops-to-steal-credit-cards/",
-    "published": "Tue, 08 Sep 2026 16:35:14 -0400",
-    "summary": "A massive operation dubbed \"DoppelCart\" uses more than 119,000 domains to run a network of fake e-shops that steal payment card details. [...]",
-    "analysis": {
-      "issue": "A massive operation dubbed “DoppelCart” uses more than 119,000 domains to run a network of fake e-shops that steal payment card details",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "The EU CRA's Real Question: What Shipped, and When Did You Know?",
-    "link": "https://www.bleepingcomputer.com/news/security/the-eu-cras-real-question-what-shipped-and-when-did-you-know/",
-    "published": "Tue, 08 Sep 2026 16:24:16 -0400",
-    "summary": "The EU Cyber Resilience Act's vulnerability reporting requirements take effect September 11, giving software vendors as little as 24 hours to report actively exploited flaws. ActiveState explains why knowing exactly what shipped and when vulnerabilities were discovered will be critical to meeting the new requirements. [...]",
-    "analysis": {
-      "issue": "What a maintainer's disclosure inbox already knows about the question the EU Cyber Resilience Act is about to ask every software vendor",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Microsoft Plugs Nearly 1,000 Security Holes",
     "link": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
@@ -383,10 +389,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69730",
-        "CVE-2026-85880",
+        "CVE-2026-81963",
         "CVE-2026-69829",
-        "CVE-2026-81963"
+        "CVE-2026-69730",
+        "CVE-2026-85880"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -543,9 +549,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-56155",
+        "CVE-2026-56164",
         "CVE-2026-48561",
-        "CVE-2026-50661",
-        "CVE-2026-56164"
+        "CVE-2026-50661"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -664,10 +670,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-84393",
-        "CVE-2026-84390",
+        "CVE-2026-26084",
         "CVE-2026-84388",
-        "CVE-2026-26084"
+        "CVE-2026-84390",
+        "CVE-2026-84393"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -746,16 +752,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-12648",
-        "CVE-2026-12744",
-        "CVE-2026-12646",
         "CVE-2026-12651",
-        "CVE-2026-18851",
-        "CVE-2026-83527",
-        "CVE-2026-12650",
         "CVE-2026-12745",
-        "CVE-2026-12645",
-        "CVE-2026-12647"
+        "CVE-2026-18851",
+        "CVE-2026-12744",
+        "CVE-2026-12647",
+        "CVE-2026-12646",
+        "CVE-2026-12650",
+        "CVE-2026-83527",
+        "CVE-2026-12648",
+        "CVE-2026-12645"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -817,10 +823,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69676",
-        "CVE-2026-85880",
+        "CVE-2026-81963",
         "CVE-2026-69852",
-        "CVE-2026-81963"
+        "CVE-2026-69676",
+        "CVE-2026-85880"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1325,8 +1331,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1443,8 +1449,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-86060",
-        "CVE-2026-67276"
+        "CVE-2026-67276",
+        "CVE-2026-86060"
       ],
       "threat_categories": [
         "Vulnerability",

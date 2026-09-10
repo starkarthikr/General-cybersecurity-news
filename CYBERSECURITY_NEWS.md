@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-09 19:22:24 UTC
+**Last Updated:** 2026-09-10 04:04:12 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA](https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html)
+### 1. [U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto](https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 09 Sep 2026 23:56:05 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week](https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 09 Sep 2026 22:04:05 +0530  
+**Severity:** Critical  
+**Categories:** Vulnerability, Phishing, APT  
+
+---
+
+### 3. [Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA](https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 09 Sep 2026 19:53:55 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [Webinar: Learn How to Answer “Are We Exposed?” Faster After a New CVE](https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html)
+### 4. [Webinar: Learn How to Answer “Are We Exposed?” Faster After a New CVE](https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 09 Sep 2026 17:27:36 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval](https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html)
+### 5. [DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval](https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 09 Sep 2026 16:47:07 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [Alby Hub Critical Flaw Could Let Attackers Take Over Internet-Exposed Bitcoin Wallets](https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html)
+### 6. [Alby Hub Critical Flaw Could Let Attackers Take Over Internet-Exposed Bitcoin Wallets](https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 09 Sep 2026 16:13:04 +0530  
@@ -40,7 +58,7 @@
 
 ---
 
-### 5. [U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok](https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html)
+### 7. [U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok](https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 09 Sep 2026 15:02:26 +0530  
@@ -49,7 +67,7 @@
 
 ---
 
-### 6. [Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox](https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html)
+### 8. [Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox](https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 09 Sep 2026 14:41:03 +0530  
@@ -58,7 +76,7 @@
 
 ---
 
-### 7. [New cPanel Flaw Lets a Hosting Account With Mail Privileges Run Code as Root](https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account.html)
+### 9. [New cPanel Flaw Lets a Hosting Account With Mail Privileges Run Code as Root](https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 09 Sep 2026 13:49:32 +0530  
@@ -68,7 +86,7 @@
 
 ---
 
-### 8. [F5 BIG-IP APM Malware Injects a PHP Web Shell Into Memory, Evading Disk Scans](https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html)
+### 10. [F5 BIG-IP APM Malware Injects a PHP Web Shell Into Memory, Evading Disk Scans](https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 09 Sep 2026 13:06:49 +0530  
@@ -77,26 +95,36 @@
 
 ---
 
-### 9. [Researcher Drops New Microsoft Defender PoC Showing ShieldBreak Patch Can Be Bypassed](https://thehackernews.com/2026/09/researcher-drops-new-microsoft-defender.html)
+### 11. [Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 09 Sep 2026 12:17:27 +0530  
+**Source:** Bleeping Computer  
+**Published:** Wed, 09 Sep 2026 17:40:44 -0400  
 **Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [SAP Patches CVSS 10.0 Kernel Flaw Enabling Unauthenticated Remote Code Execution](https://thehackernews.com/2026/09/sap-patches-cvss-100-kernel-flaw.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 09 Sep 2026 11:55:45 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-44756  
+**CVEs:** CVE-2026-20079  
 **Categories:** Vulnerability  
 
 ---
 
-### 11. [US says Chinese firms extracted billions of tokens from frontier AI models](https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/)
+### 12. [AdaptHealth confirms 4.1 million people exposed in July cyberattack](https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 09 Sep 2026 17:30:36 -0400  
+**Severity:** Low  
+**Categories:** Ransomware, APT, Supply Chain  
+
+---
+
+### 13. [Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking](https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 09 Sep 2026 17:02:14 -0400  
+**Severity:** High  
+**CVEs:** CVE-2025-20701  
+**Categories:** Vulnerability  
+
+---
+
+### 14. [US says Chinese firms extracted billions of tokens from frontier AI models](https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 09 Sep 2026 12:48:33 -0400  
@@ -105,7 +133,7 @@
 
 ---
 
-### 12. [Veradigm warns of patient data breach after ransomware gang claims attack](https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/)
+### 15. [Veradigm warns of patient data breach after ransomware gang claims attack](https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 09 Sep 2026 11:31:23 -0400  
@@ -114,7 +142,7 @@
 
 ---
 
-### 13. [MFA's Weakest Link: Account Recovery Is the New Attack Path](https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/)
+### 16. [MFA's Weakest Link: Account Recovery Is the New Attack Path](https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 09 Sep 2026 10:01:11 -0400  
@@ -123,7 +151,7 @@
 
 ---
 
-### 14. [Over 36,000 exposed Plex servers vulnerable to recent flaws](https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/)
+### 17. [Over 36,000 exposed Plex servers vulnerable to recent flaws](https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 09 Sep 2026 06:11:29 -0400  
@@ -132,7 +160,7 @@
 
 ---
 
-### 15. [Man gets 15 years for extorting women with AI-generated porn videos](https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/)
+### 18. [Man gets 15 years for extorting women with AI-generated porn videos](https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 09 Sep 2026 04:44:22 -0400  
@@ -141,7 +169,7 @@
 
 ---
 
-### 16. [New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM access](https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/)
+### 19. [New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM access](https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 09 Sep 2026 03:30:15 -0400  
@@ -151,7 +179,7 @@
 
 ---
 
-### 17. [Google warns of new Chrome zero-day bug exploited in attacks](https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/)
+### 20. [Google warns of new Chrome zero-day bug exploited in attacks](https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 09 Sep 2026 02:25:48 -0400  
@@ -161,39 +189,12 @@
 
 ---
 
-### 18. [Microsoft adds age-awareness APIs that can tell if users are children, teens, or adults](https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-age-awareness-apis-that-can-tell-if-users-are-children-teens-or-adults/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 08 Sep 2026 21:16:27 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 19. [DoppelCart fraud network uses 119,000 fake shops to steal credit cards](https://www.bleepingcomputer.com/news/security/doppelcart-fraud-network-uses-119-000-fake-shops-to-steal-credit-cards/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 08 Sep 2026 16:35:14 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [The EU CRA's Real Question: What Shipped, and When Did You Know?](https://www.bleepingcomputer.com/news/security/the-eu-cras-real-question-what-shipped-and-when-did-you-know/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 08 Sep 2026 16:24:16 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
 ### 21. [Microsoft Plugs Nearly 1,000 Security Holes](https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69730, CVE-2026-85880, CVE-2026-69829, CVE-2026-81963  
+**CVEs:** CVE-2026-81963, CVE-2026-69829, CVE-2026-69730, CVE-2026-85880  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -267,7 +268,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56155, CVE-2026-48561, CVE-2026-50661, CVE-2026-56164  
+**CVEs:** CVE-2026-56155, CVE-2026-56164, CVE-2026-48561, CVE-2026-50661  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -324,7 +325,7 @@
 **Source:** Security Week  
 **Published:** Wed, 09 Sep 2026 14:33:52 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-84393, CVE-2026-84390, CVE-2026-84388, CVE-2026-26084  
+**CVEs:** CVE-2026-26084, CVE-2026-84388, CVE-2026-84390, CVE-2026-84393  
 **Categories:** Vulnerability  
 
 ---
@@ -362,7 +363,7 @@
 **Source:** Security Week  
 **Published:** Wed, 09 Sep 2026 10:28:34 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-12648, CVE-2026-12744, CVE-2026-12646, CVE-2026-12651, CVE-2026-18851, CVE-2026-83527, CVE-2026-12650, CVE-2026-12745, CVE-2026-12645, CVE-2026-12647  
+**CVEs:** CVE-2026-12651, CVE-2026-12745, CVE-2026-18851, CVE-2026-12744, CVE-2026-12647, CVE-2026-12646, CVE-2026-12650, CVE-2026-83527, CVE-2026-12648, CVE-2026-12645  
 **Categories:** Vulnerability  
 
 ---
@@ -391,7 +392,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 08 Sep 2026 22:16:35 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69676, CVE-2026-85880, CVE-2026-69852, CVE-2026-81963  
+**CVEs:** CVE-2026-81963, CVE-2026-69852, CVE-2026-69676, CVE-2026-85880  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -638,7 +639,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -695,7 +696,7 @@
 **Source:** Malwarebytes  
 **Published:** Tue, 08 Sep 2026 09:49:16 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-86060, CVE-2026-67276  
+**CVEs:** CVE-2026-67276, CVE-2026-86060  
 **Categories:** Vulnerability, APT  
 
 ---
