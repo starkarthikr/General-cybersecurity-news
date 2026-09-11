@@ -1,10 +1,29 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-11 16:13:59 UTC
+**Last Updated:** 2026-09-11 19:13:43 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Claude Used to Automate Exploitation and Data Theft Across Multiple Victims](https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html)
+### 1. [GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure](https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 11 Sep 2026 22:00:18 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-85706  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks](https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 11 Sep 2026 21:45:29 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [Claude Used to Automate Exploitation and Data Theft Across Multiple Victims](https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 11 Sep 2026 19:59:47 +0530  
@@ -13,7 +32,7 @@
 
 ---
 
-### 2. [Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection](https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html)
+### 4. [Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection](https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 11 Sep 2026 19:40:20 +0530  
@@ -22,7 +41,7 @@
 
 ---
 
-### 3. [Your Critical Vulnerabilities Might Not Be Your Biggest Risk](https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html)
+### 5. [Your Critical Vulnerabilities Might Not Be Your Biggest Risk](https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 11 Sep 2026 17:00:00 +0530  
@@ -31,7 +50,7 @@
 
 ---
 
-### 4. [Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors](https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html)
+### 6. [Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors](https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 11 Sep 2026 13:01:05 +0530  
@@ -40,7 +59,7 @@
 
 ---
 
-### 5. [China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor](https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html)
+### 7. [China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor](https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 11 Sep 2026 12:44:09 +0530  
@@ -49,7 +68,7 @@
 
 ---
 
-### 6. [PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws](https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html)
+### 8. [PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws](https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 11 Sep 2026 12:16:18 +0530  
@@ -58,7 +77,7 @@
 
 ---
 
-### 7. [Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware](https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html)
+### 9. [Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware](https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 11 Sep 2026 11:49:59 +0530  
@@ -67,7 +86,7 @@
 
 ---
 
-### 8. [ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories](https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html)
+### 10. [ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories](https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 10 Sep 2026 23:17:38 +0530  
@@ -76,25 +95,35 @@
 
 ---
 
-### 9. [Google Play Early Access Abused to Push Thousands of Deceptive Android Apps](https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html)
+### 11. [Florida confirms DMV database breached via stolen police account](https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 10 Sep 2026 20:06:47 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE](https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 10 Sep 2026 17:15:05 +0530  
-**Severity:** Low  
-**Categories:** General Security  
+**Source:** Bleeping Computer  
+**Published:** Fri, 11 Sep 2026 15:00:29 -0400  
+**Severity:** High  
+**Categories:** Data Breach  
 
 ---
 
-### 11. [How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface](https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/)
+### 12. [Passkey-themed phishing attacks lead to Microsoft 365 data theft](https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 11 Sep 2026 13:26:50 -0400  
+**Severity:** High  
+**Categories:** Phishing, APT  
+
+---
+
+### 13. [Artifactory flaws chained in attacks deploying backdoor malware](https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 11 Sep 2026 12:29:44 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-42018, CVE-2026-42016, CVE-2026-82329  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 14. [How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface](https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 11 Sep 2026 10:01:11 -0400  
@@ -103,17 +132,17 @@
 
 ---
 
-### 12. [GitLab urges users to patch max severity path traversal flaw](https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/)
+### 15. [GitLab urges users to patch max severity path traversal flaw](https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 11 Sep 2026 07:15:22 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-85706, CVE-2026-87719  
+**CVEs:** CVE-2026-87719, CVE-2026-85706  
 **Categories:** Vulnerability  
 
 ---
 
-### 13. [Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/)
+### 16. [Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 11 Sep 2026 05:39:37 -0400  
@@ -122,7 +151,7 @@
 
 ---
 
-### 14. [Trezor: 347,000 users targeted in phishing attacks after Brevo breach](https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/)
+### 17. [Trezor: 347,000 users targeted in phishing attacks after Brevo breach](https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 11 Sep 2026 03:55:15 -0400  
@@ -131,7 +160,7 @@
 
 ---
 
-### 15. [Conti ransomware gang member sentenced to 4 years in prison](https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/)
+### 18. [Conti ransomware gang member sentenced to 4 years in prison](https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 11 Sep 2026 02:48:37 -0400  
@@ -140,7 +169,7 @@
 
 ---
 
-### 16. [New Android malware encrypts files, steals data, and harasses victims](https://www.bleepingcomputer.com/news/security/new-android-malware-encrypts-files-steals-data-and-harasses-victims/)
+### 19. [New Android malware encrypts files, steals data, and harasses victims](https://www.bleepingcomputer.com/news/security/new-android-malware-encrypts-files-steals-data-and-harasses-victims/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 10 Sep 2026 17:40:43 -0400  
@@ -149,7 +178,7 @@
 
 ---
 
-### 17. [September Windows Server updates break Remote Desktop Services](https://www.bleepingcomputer.com/news/microsoft/september-windows-server-updates-break-remote-desktop-services/)
+### 20. [September Windows Server updates break Remote Desktop Services](https://www.bleepingcomputer.com/news/microsoft/september-windows-server-updates-break-remote-desktop-services/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 10 Sep 2026 16:34:37 -0400  
@@ -158,40 +187,12 @@
 
 ---
 
-### 18. [Surfshark VPN says hackers breached internal testing, proxy servers](https://www.bleepingcomputer.com/news/security/surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 10 Sep 2026 15:15:07 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 19. [Microsoft Excel KB5002914 update breaks copy and paste for some users](https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 10 Sep 2026 15:07:33 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [AI-powered attack exploited PaperCut flaws to hack 395 organizations](https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 10 Sep 2026 11:55:56 -0400  
-**Severity:** Low  
-**CVEs:** CVE-2026-82078, CVE-2026-81578  
-**Categories:** Vulnerability  
-
----
-
 ### 21. [Microsoft Plugs Nearly 1,000 Security Holes](https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-85880, CVE-2026-69829, CVE-2026-81963, CVE-2026-69730  
+**CVEs:** CVE-2026-69829, CVE-2026-69730, CVE-2026-81963, CVE-2026-85880  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -265,7 +266,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56164, CVE-2026-50661, CVE-2026-48561, CVE-2026-56155  
+**CVEs:** CVE-2026-56164, CVE-2026-56155, CVE-2026-48561, CVE-2026-50661  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -279,17 +280,26 @@
 
 ---
 
-### 31. [GitLab Vulnerability Exploited One Day After Disclosure](https://www.securityweek.com/gitlab-vulnerability-exploited-one-day-after-disclosure/)
+### 31. [Phishing Research Challenges Conventional Security Awareness Testing](https://www.securityweek.com/phishing-research-challenges-conventional-security-awareness-testing/)
+
+**Source:** Security Week  
+**Published:** Fri, 11 Sep 2026 17:23:36 +0000  
+**Severity:** High  
+**Categories:** Data Breach, Phishing  
+
+---
+
+### 32. [GitLab Vulnerability Exploited One Day After Disclosure](https://www.securityweek.com/gitlab-vulnerability-exploited-one-day-after-disclosure/)
 
 **Source:** Security Week  
 **Published:** Fri, 11 Sep 2026 16:11:08 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-85706, CVE-2026-87719  
+**CVEs:** CVE-2026-19478, CVE-2026-87719, CVE-2026-85706  
 **Categories:** Vulnerability  
 
 ---
 
-### 32. [In Other News: InjectEave Attack, SIM Swapper Sentenced, Glasswing Findings Review](https://www.securityweek.com/in-other-news-injecteave-attack-sim-swapper-sentenced-glasswing-findings-review/)
+### 33. [In Other News: InjectEave Attack, SIM Swapper Sentenced, Glasswing Findings Review](https://www.securityweek.com/in-other-news-injecteave-attack-sim-swapper-sentenced-glasswing-findings-review/)
 
 **Source:** Security Week  
 **Published:** Fri, 11 Sep 2026 14:19:18 +0000  
@@ -299,7 +309,7 @@
 
 ---
 
-### 33. [Trezor Says 347,000 Users Received Phishing Emails After Brevo Hack](https://www.securityweek.com/trezor-says-347000-users-received-phishing-emails-after-brevo-hack/)
+### 34. [Trezor Says 347,000 Users Received Phishing Emails After Brevo Hack](https://www.securityweek.com/trezor-says-347000-users-received-phishing-emails-after-brevo-hack/)
 
 **Source:** Security Week  
 **Published:** Fri, 11 Sep 2026 12:48:04 +0000  
@@ -308,7 +318,7 @@
 
 ---
 
-### 34. [Ukrainian Conti Ransomware Developer Sentenced to 4 Years in US Prison](https://www.securityweek.com/ukrainian-conti-ransomware-developer-sentenced-to-4-years-in-us-prison/)
+### 35. [Ukrainian Conti Ransomware Developer Sentenced to 4 Years in US Prison](https://www.securityweek.com/ukrainian-conti-ransomware-developer-sentenced-to-4-years-in-us-prison/)
 
 **Source:** Security Week  
 **Published:** Fri, 11 Sep 2026 11:29:09 +0000  
@@ -317,17 +327,17 @@
 
 ---
 
-### 35. [Check Point Patches Critical VPN Vulnerabilities](https://www.securityweek.com/check-point-patches-critical-vpn-vulnerabilities/)
+### 36. [Check Point Patches Critical VPN Vulnerabilities](https://www.securityweek.com/check-point-patches-critical-vpn-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Fri, 11 Sep 2026 11:10:02 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-85103, CVE-2026-50751, CVE-2026-85102, CVE-2026-16232  
+**CVEs:** CVE-2026-85103, CVE-2026-16232, CVE-2026-50751, CVE-2026-85102  
 **Categories:** Vulnerability  
 
 ---
 
-### 36. [Kiteworks Acquires Bonfy.AI to Fill the AI Gap in Data Governance](https://www.securityweek.com/kiteworks-acquires-bonfy-ai-to-fill-the-ai-gap-in-data-governance/)
+### 37. [Kiteworks Acquires Bonfy.AI to Fill the AI Gap in Data Governance](https://www.securityweek.com/kiteworks-acquires-bonfy-ai-to-fill-the-ai-gap-in-data-governance/)
 
 **Source:** Security Week  
 **Published:** Fri, 11 Sep 2026 10:56:16 +0000  
@@ -336,7 +346,7 @@
 
 ---
 
-### 37. [Surfshark Systems Targeted by Hackers](https://www.securityweek.com/surfshark-systems-targeted-by-hackers/)
+### 38. [Surfshark Systems Targeted by Hackers](https://www.securityweek.com/surfshark-systems-targeted-by-hackers/)
 
 **Source:** Security Week  
 **Published:** Fri, 11 Sep 2026 09:41:03 +0000  
@@ -345,7 +355,7 @@
 
 ---
 
-### 38. [Anthropic Says Russian Hackers Used Claude AI to Automate Malware Evasion](https://www.securityweek.com/anthropic-says-russian-hackers-used-claude-ai-to-automate-malware-evasion/)
+### 39. [Anthropic Says Russian Hackers Used Claude AI to Automate Malware Evasion](https://www.securityweek.com/anthropic-says-russian-hackers-used-claude-ai-to-automate-malware-evasion/)
 
 **Source:** Security Week  
 **Published:** Fri, 11 Sep 2026 08:47:07 +0000  
@@ -354,22 +364,13 @@
 
 ---
 
-### 39. [PaperCut Flaws Exploited in AI-Powered Attacks](https://www.securityweek.com/papercut-flaws-exploited-in-ai-powered-attacks/)
+### 40. [PaperCut Flaws Exploited in AI-Powered Attacks](https://www.securityweek.com/papercut-flaws-exploited-in-ai-powered-attacks/)
 
 **Source:** Security Week  
 **Published:** Fri, 11 Sep 2026 08:18:23 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-82078, CVE-2026-81578  
+**CVEs:** CVE-2026-81578, CVE-2026-82078  
 **Categories:** Ransomware, Vulnerability  
-
----
-
-### 40. [Mandiant Founder Kevin Mandia Joins Amazon Board](https://www.securityweek.com/mandiant-founder-kevin-mandia-joins-amazon-board/)
-
-**Source:** Security Week  
-**Published:** Thu, 10 Sep 2026 20:30:44 +0000  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -397,7 +398,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 08 Sep 2026 22:16:35 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69676, CVE-2026-85880, CVE-2026-69852, CVE-2026-81963  
+**CVEs:** CVE-2026-69676, CVE-2026-81963, CVE-2026-85880, CVE-2026-69852  
 **Categories:** Vulnerability, APT  
 
 ---

@@ -1,6 +1,44 @@
 [
   {
     "source": "The Hacker News",
+    "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
+    "link": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html",
+    "published": "Fri, 11 Sep 2026 22:00:18 +0530",
+    "summary": "GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of public disclosure.\n\nThe vulnerability in question is CVE-2026-85706 (CVSS score: 10.0), a path traversal issue in the repository commits API that could allow an unauthenticated user to read arbitrary files from the GitLab server under",
+    "analysis": {
+      "issue": "GitLab patched CVE-2026-85706, a CVSS 10 path traversal flaw enabling unauthenticated file reads, as in-the-wild probes began",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-85706"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks",
+    "link": "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html",
+    "published": "Fri, 11 Sep 2026 21:45:29 +0530",
+    "summary": "Anthropic on Thursday said it identified and disrupted industrial-scale illicit distillation attacks against Claude from seven labs based in China, including Alibaba, Moonshot, DeepSeek, Z.ai (aka Zhipu), and MiniMax.\n\nKnowledge distillation by itself is a legitimate training method. It refers to a machine learning technique where a large, powerful AI model assumes the role of a \"teacher\" to",
+    "analysis": {
+      "issue": "Anthropic says China-based AI labs ran illicit Claude distillation campaigns using proxy networks, fake accounts, and harvested user exchanges",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
     "link": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
     "published": "Fri, 11 Sep 2026 19:59:47 +0530",
@@ -147,38 +185,62 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Google Play Early Access Abused to Push Thousands of Deceptive Android Apps",
-    "link": "https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html",
-    "published": "Thu, 10 Sep 2026 20:06:47 +0530",
-    "summary": "Bad actors are misusing Google Play's Early Access program to push deceptive apps that claim to offer money, rewards, casino winnings, and premium content.\n\nEarly Access apps are apps that haven't been released on the official Android app marketplace. The main idea behind the program is for developers to solicit user feedback for new applications or features they may be working on before their",
+    "source": "Bleeping Computer",
+    "title": "Florida confirms DMV database breached via stolen police account",
+    "link": "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/",
+    "published": "Fri, 11 Sep 2026 15:00:29 -0400",
+    "summary": "The Florida Department of Highway Safety and Motor Vehicles (FLHSMV) has confirmed that its DAVID driver database suffered a data breach, saying the attackers gained access using credentials belonging to a police department employee. [...]",
     "analysis": {
-      "issue": "Google Play Early Access is being abused to push thousands of deceptive apps, including fake casino and reward apps promoted via social media",
+      "issue": "The Florida Department of Highway Safety and Motor Vehicles (FLHSMV) has confirmed that its DAVID driver database suffered a data breach after the ShinyHunters extortion gang claimed to have compromised the system",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Data Breach"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE",
-    "link": "https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html",
-    "published": "Thu, 10 Sep 2026 17:15:05 +0530",
-    "summary": "Check Point has patched two critical vulnerabilities in the way its firewall and management products handle VPN certificates. The company says both could allow an unauthenticated remote attacker to run code, but only \"under specific conditions\" that it has not described.\n\nOne flaw affects Check Point's Security Gateways, its firewall appliances. The other affects those gateways and the Security",
+    "source": "Bleeping Computer",
+    "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
+    "link": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
+    "published": "Fri, 11 Sep 2026 13:26:50 -0400",
+    "summary": "Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts and steal data from Microsoft 365 services. [...]",
     "analysis": {
-      "issue": "Check Point fixes two VPN certificate flaws that can enable unauthenticated remote code execution under unspecified conditions",
+      "issue": "Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts and steal data from Microsoft 365 services",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Phishing",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Artifactory flaws chained in attacks deploying backdoor malware",
+    "link": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
+    "published": "Fri, 11 Sep 2026 12:29:44 -0400",
+    "summary": "Threat actors are exploiting critical and high-severity vulnerabilities in JFrog Artifactory to bypass authentication, gain administrative privileges, and deploy a Rust backdoor on vulnerable self-hosted servers. [...]",
+    "analysis": {
+      "issue": "Threat actors are exploiting critical and high-severity vulnerabilities in JFrog Artifactory to bypass authentication, gain administrative privileges, and deploy a Rust backdoor on vulnerable self-hosted servers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-42018",
+        "CVE-2026-42016",
+        "CVE-2026-82329"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
       ]
     }
   },
@@ -213,8 +275,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-85706",
-        "CVE-2026-87719"
+        "CVE-2026-87719",
+        "CVE-2026-85706"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -316,63 +378,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Surfshark VPN says hackers breached internal testing, proxy servers",
-    "link": "https://www.bleepingcomputer.com/news/security/surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers/",
-    "published": "Thu, 10 Sep 2026 15:15:07 -0400",
-    "summary": "Surfshark disclosed that hackers accessed one of its internal test servers after a configuration error exposed it to the internet. [...]",
-    "analysis": {
-      "issue": "Surfshark disclosed that hackers accessed one of its internal test servers after a configuration error exposed it to the internet",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft Excel KB5002914 update breaks copy and paste for some users",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users/",
-    "published": "Thu, 10 Sep 2026 15:07:33 -0400",
-    "summary": "Microsoft Excel users report that this week's KB5002914 Office security update is breaking copy-and-paste operations and formula dragging, with affected users saying that removing or rolling back the update restores normal functionality. [...]",
-    "analysis": {
-      "issue": "Microsoft Excel users report that this week's KB5002914 Office security update is breaking copy-and-paste operations and formula dragging, with affected users saying that removing or rolling back the update restores normal functionality",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "AI-powered attack exploited PaperCut flaws to hack 395 organizations",
-    "link": "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/",
-    "published": "Thu, 10 Sep 2026 11:55:56 -0400",
-    "summary": "A threat actor, likely Russian-speaking, used hundreds of AI agents to develop and launch a global exploitation campaign targeting vulnerable PaperCut NG/MF servers. [...]",
-    "analysis": {
-      "issue": "A threat actor, likely Russian-speaking, used hundreds of AI agents to develop and launch a global exploitation campaign targeting vulnerable PaperCut NG/MF servers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-82078",
-        "CVE-2026-81578"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Microsoft Plugs Nearly 1,000 Security Holes",
     "link": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
@@ -385,10 +390,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-85880",
         "CVE-2026-69829",
+        "CVE-2026-69730",
         "CVE-2026-81963",
-        "CVE-2026-69730"
+        "CVE-2026-85880"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -545,9 +550,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-56164",
-        "CVE-2026-50661",
+        "CVE-2026-56155",
         "CVE-2026-48561",
-        "CVE-2026-56155"
+        "CVE-2026-50661"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -576,6 +581,25 @@
   },
   {
     "source": "Security Week",
+    "title": "Phishing Research Challenges Conventional Security Awareness Testing",
+    "link": "https://www.securityweek.com/phishing-research-challenges-conventional-security-awareness-testing/",
+    "published": "Fri, 11 Sep 2026 17:23:36 +0000",
+    "summary": "<p>Analysis of 2.47 million simulated attacks shows why organizations should measure credential leaks and reporting, not just clicks.</p>\n<p>The post <a href=\"https://www.securityweek.com/phishing-research-challenges-conventional-security-awareness-testing/\">Phishing Research Challenges Conventional Security Awareness Testing</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "47 million simulated attacks shows why organizations should measure credential leaks and reporting, not just clicks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "GitLab Vulnerability Exploited One Day After Disclosure",
     "link": "https://www.securityweek.com/gitlab-vulnerability-exploited-one-day-after-disclosure/",
     "published": "Fri, 11 Sep 2026 16:11:08 +0000",
@@ -587,8 +611,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-85706",
-        "CVE-2026-87719"
+        "CVE-2026-19478",
+        "CVE-2026-87719",
+        "CVE-2026-85706"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -672,9 +697,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-85103",
+        "CVE-2026-16232",
         "CVE-2026-50751",
-        "CVE-2026-85102",
-        "CVE-2026-16232"
+        "CVE-2026-85102"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -751,30 +776,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-82078",
-        "CVE-2026-81578"
+        "CVE-2026-81578",
+        "CVE-2026-82078"
       ],
       "threat_categories": [
         "Ransomware",
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Mandiant Founder Kevin Mandia Joins Amazon Board",
-    "link": "https://www.securityweek.com/mandiant-founder-kevin-mandia-joins-amazon-board/",
-    "published": "Thu, 10 Sep 2026 20:30:44 +0000",
-    "summary": "<p>Mandiant founder and cybersecurity veteran brings more than 30 years of public and private sector experience to Amazon’s board.</p>\n<p>The post <a href=\"https://www.securityweek.com/mandiant-founder-kevin-mandia-joins-amazon-board/\">Mandiant Founder Kevin Mandia Joins Amazon Board</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Mandiant founder and cybersecurity veteran brings more than 30 years of public and private sector experience to Amazon’s board",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -834,9 +841,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-69676",
+        "CVE-2026-81963",
         "CVE-2026-85880",
-        "CVE-2026-69852",
-        "CVE-2026-81963"
+        "CVE-2026-69852"
       ],
       "threat_categories": [
         "Vulnerability",
