@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-10 19:11:31 UTC
+**Last Updated:** 2026-09-11 04:01:23 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -94,7 +94,34 @@
 
 ---
 
-### 11. [Microsoft Excel KB5002914 update breaks copy and paste for some users](https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users/)
+### 11. [New Android malware encrypts files, steals data, and harasses victims](https://www.bleepingcomputer.com/news/security/new-android-malware-encrypts-files-steals-data-and-harasses-victims/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 10 Sep 2026 17:40:43 -0400  
+**Severity:** Low  
+**Categories:** Ransomware, Malware, Phishing  
+
+---
+
+### 12. [September Windows Server updates break Remote Desktop Services](https://www.bleepingcomputer.com/news/microsoft/september-windows-server-updates-break-remote-desktop-services/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 10 Sep 2026 16:34:37 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 13. [Surfshark VPN says hackers breached internal testing, proxy servers](https://www.bleepingcomputer.com/news/security/surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 10 Sep 2026 15:15:07 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 14. [Microsoft Excel KB5002914 update breaks copy and paste for some users](https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 10 Sep 2026 15:07:33 -0400  
@@ -103,7 +130,7 @@
 
 ---
 
-### 12. [AI-powered attack exploited PaperCut flaws to hack 395 organizations](https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/)
+### 15. [AI-powered attack exploited PaperCut flaws to hack 395 organizations](https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 10 Sep 2026 11:55:56 -0400  
@@ -113,7 +140,7 @@
 
 ---
 
-### 13. [Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers](https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/)
+### 16. [Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers](https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 10 Sep 2026 11:43:58 -0400  
@@ -123,7 +150,7 @@
 
 ---
 
-### 14. [IDScan confirms breach tied to 153 million stolen driver’s licenses](https://www.bleepingcomputer.com/news/security/idscan-confirms-breach-tied-to-153-million-stolen-drivers-licenses/)
+### 17. [IDScan confirms breach tied to 153 million stolen driver’s licenses](https://www.bleepingcomputer.com/news/security/idscan-confirms-breach-tied-to-153-million-stolen-drivers-licenses/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 10 Sep 2026 10:55:33 -0400  
@@ -132,7 +159,7 @@
 
 ---
 
-### 15. [New 'BlueMoon' kit exploited Windows and Chrome zero-day flaws](https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/)
+### 18. [New 'BlueMoon' kit exploited Windows and Chrome zero-day flaws](https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 10 Sep 2026 10:11:34 -0400  
@@ -141,7 +168,7 @@
 
 ---
 
-### 16. [The Top 4 Threats We Found by Investigating Every Alert for a Quarter](https://www.bleepingcomputer.com/news/security/the-top-4-threats-we-found-by-investigating-every-alert-for-a-quarter/)
+### 19. [The Top 4 Threats We Found by Investigating Every Alert for a Quarter](https://www.bleepingcomputer.com/news/security/the-top-4-threats-we-found-by-investigating-every-alert-for-a-quarter/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 10 Sep 2026 10:00:10 -0400  
@@ -150,7 +177,7 @@
 
 ---
 
-### 17. [Microsoft says September updates fix mouse settings reset issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-resolves-mouse-settings-reset-bug-windows-11-update/)
+### 20. [Microsoft says September updates fix mouse settings reset issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-resolves-mouse-settings-reset-bug-windows-11-update/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 10 Sep 2026 07:14:28 -0400  
@@ -159,40 +186,12 @@
 
 ---
 
-### 18. [CISA: WatchGuard RCE flaw now exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 10 Sep 2026 05:10:20 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2025-14733  
-**Categories:** Ransomware, Vulnerability  
-
----
-
-### 19. [Microsoft fixes bug that wiped Windows desktop settings](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-wiped-windows-desktop-settings/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 10 Sep 2026 04:08:16 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [Trezor warns users of email provider breach, phishing attacks](https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 10 Sep 2026 02:56:33 -0400  
-**Severity:** Critical  
-**Categories:** Data Breach, Vulnerability, Phishing, Supply Chain  
-
----
-
 ### 21. [Microsoft Plugs Nearly 1,000 Security Holes](https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81963, CVE-2026-69829, CVE-2026-85880, CVE-2026-69730  
+**CVEs:** CVE-2026-81963, CVE-2026-85880, CVE-2026-69730, CVE-2026-69829  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -229,7 +228,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-68820, CVE-2026-62832, CVE-2026-72971  
+**CVEs:** CVE-2026-72971, CVE-2026-68820, CVE-2026-62832  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -266,7 +265,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48561, CVE-2026-56155, CVE-2026-50661, CVE-2026-56164  
+**CVEs:** CVE-2026-56155, CVE-2026-50661, CVE-2026-48561, CVE-2026-56164  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -280,7 +279,16 @@
 
 ---
 
-### 31. [Cybersecurity M&A Roundup: 33 Deals Announced in August 2026](https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-august-2026/)
+### 31. [Mandiant Founder Kevin Mandia Joins Amazon Board](https://www.securityweek.com/mandiant-founder-kevin-mandia-joins-amazon-board/)
+
+**Source:** Security Week  
+**Published:** Thu, 10 Sep 2026 20:30:44 +0000  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 32. [Cybersecurity M&A Roundup: 33 Deals Announced in August 2026](https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-august-2026/)
 
 **Source:** Security Week  
 **Published:** Thu, 10 Sep 2026 16:14:58 +0000  
@@ -289,7 +297,7 @@
 
 ---
 
-### 32. [Anthropic Researcher Resigns With Warning About the Dangers of AI Development](https://www.securityweek.com/anthropic-researcher-resigns-with-warning-about-the-dangers-of-ai-development/)
+### 33. [Anthropic Researcher Resigns With Warning About the Dangers of AI Development](https://www.securityweek.com/anthropic-researcher-resigns-with-warning-about-the-dangers-of-ai-development/)
 
 **Source:** Security Week  
 **Published:** Thu, 10 Sep 2026 14:52:07 +0000  
@@ -298,7 +306,7 @@
 
 ---
 
-### 33. [Hacker Conversations: Vinnie Liu, Performer Turned Ringmaster](https://www.securityweek.com/hacker-conversations-vinnie-liu-performer-turned-ringmaster/)
+### 34. [Hacker Conversations: Vinnie Liu, Performer Turned Ringmaster](https://www.securityweek.com/hacker-conversations-vinnie-liu-performer-turned-ringmaster/)
 
 **Source:** Security Week  
 **Published:** Thu, 10 Sep 2026 14:30:00 +0000  
@@ -307,7 +315,7 @@
 
 ---
 
-### 34. [Deceptive Android Apps Exploit Google Play Early Access to Evade Reviews](https://www.securityweek.com/deceptive-android-apps-exploit-google-play-early-access-to-evade-reviews/)
+### 35. [Deceptive Android Apps Exploit Google Play Early Access to Evade Reviews](https://www.securityweek.com/deceptive-android-apps-exploit-google-play-early-access-to-evade-reviews/)
 
 **Source:** Security Week  
 **Published:** Thu, 10 Sep 2026 13:39:52 +0000  
@@ -316,7 +324,7 @@
 
 ---
 
-### 35. [Webinar Today: Keep Pace With AI – A New Operating Model for Endpoint Remediation](https://www.securityweek.com/webinar-today-keep-pace-with-ai-a-new-operating-model-for-endpoint-remediation/)
+### 36. [Webinar Today: Keep Pace With AI – A New Operating Model for Endpoint Remediation](https://www.securityweek.com/webinar-today-keep-pace-with-ai-a-new-operating-model-for-endpoint-remediation/)
 
 **Source:** Security Week  
 **Published:** Thu, 10 Sep 2026 13:30:00 +0000  
@@ -325,7 +333,7 @@
 
 ---
 
-### 36. [Critical NetScaler Vulnerability Exploited in Attacks](https://www.securityweek.com/critical-netscaler-vulnerability-exploited-in-attacks/)
+### 37. [Critical NetScaler Vulnerability Exploited in Attacks](https://www.securityweek.com/critical-netscaler-vulnerability-exploited-in-attacks/)
 
 **Source:** Security Week  
 **Published:** Thu, 10 Sep 2026 12:20:21 +0000  
@@ -335,7 +343,7 @@
 
 ---
 
-### 37. [Widened Scan Turns Up Fourth Rogue Claude Cyber Incident](https://www.securityweek.com/widened-scan-turns-up-fourth-rogue-claude-cyber-incident/)
+### 38. [Widened Scan Turns Up Fourth Rogue Claude Cyber Incident](https://www.securityweek.com/widened-scan-turns-up-fourth-rogue-claude-cyber-incident/)
 
 **Source:** Security Week  
 **Published:** Thu, 10 Sep 2026 11:52:44 +0000  
@@ -344,7 +352,7 @@
 
 ---
 
-### 38. [4.1 Million Impacted by AdaptHealth Data Breach](https://www.securityweek.com/4-1-million-impacted-by-adapthealth-data-breach/)
+### 39. [4.1 Million Impacted by AdaptHealth Data Breach](https://www.securityweek.com/4-1-million-impacted-by-adapthealth-data-breach/)
 
 **Source:** Security Week  
 **Published:** Thu, 10 Sep 2026 11:20:43 +0000  
@@ -353,23 +361,13 @@
 
 ---
 
-### 39. [Organizations Warned of Cisco Secure FMC Exploitation](https://www.securityweek.com/organizations-warned-of-cisco-secure-fmc-exploitation/)
+### 40. [Organizations Warned of Cisco Secure FMC Exploitation](https://www.securityweek.com/organizations-warned-of-cisco-secure-fmc-exploitation/)
 
 **Source:** Security Week  
 **Published:** Thu, 10 Sep 2026 10:06:20 +0000  
 **Severity:** Critical  
 **CVEs:** CVE-2026-20079, CVE-2026-20316, CVE-2026-20131  
 **Categories:** Ransomware, Vulnerability, Malware, APT  
-
----
-
-### 40. [New ‘ShieldCrash’ Zero-Day Exploit Targets Microsoft Defender](https://www.securityweek.com/new-shieldcrash-zero-day-exploit-targets-microsoft-defender/)
-
-**Source:** Security Week  
-**Published:** Thu, 10 Sep 2026 07:09:36 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-69414, CVE-2026-50656  
-**Categories:** Vulnerability  
 
 ---
 
@@ -397,7 +395,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 08 Sep 2026 22:16:35 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81963, CVE-2026-69676, CVE-2026-69852, CVE-2026-85880  
+**CVEs:** CVE-2026-81963, CVE-2026-69852, CVE-2026-85880, CVE-2026-69676  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -635,7 +633,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
