@@ -186,6 +186,24 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Hackers abused Claude to extract secrets from 1.8M Android apps",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/",
+    "published": "Fri, 11 Sep 2026 16:19:09 -0400",
+    "summary": "Anthropic says multiple threat groups, including the financially motivated and state-sponsored espionage groups linked to Russia and China, tried to abuse its Claude AI model for malicious purposes. [...]",
+    "analysis": {
+      "issue": "Anthropic says multiple threat groups, including the financially motivated and state-sponsored espionage groups linked to Russia and China, tried to abuse its Claude AI model for malicious purposes",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Florida confirms DMV database breached via stolen police account",
     "link": "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/",
     "published": "Fri, 11 Sep 2026 15:00:29 -0400",
@@ -234,9 +252,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-42018",
+        "CVE-2026-82329",
         "CVE-2026-42016",
-        "CVE-2026-82329"
+        "CVE-2026-42018"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -360,24 +378,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "September Windows Server updates break Remote Desktop Services",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/september-windows-server-updates-break-remote-desktop-services/",
-    "published": "Thu, 10 Sep 2026 16:34:37 -0400",
-    "summary": "Windows admins report that the September 2026 security updates are causing Remote Desktop Services (RDS) failures on Windows Server 2019, 2022, and 2025 servers, preventing users from connecting and, in some cases, requiring a hard reset to restore functionality. [...]",
-    "analysis": {
-      "issue": "Windows admins report that the September 2026 cumulative updates are causing Remote Desktop Services (RDS) failures on Windows Server 2019, 2022, and 2025 systems, preventing users from connecting and, in some cases, requiring a hard reset to restore",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Microsoft Plugs Nearly 1,000 Security Holes",
     "link": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
@@ -390,10 +390,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69829",
-        "CVE-2026-69730",
+        "CVE-2026-85880",
         "CVE-2026-81963",
-        "CVE-2026-85880"
+        "CVE-2026-69730",
+        "CVE-2026-69829"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -470,9 +470,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-72971",
+        "CVE-2026-68820",
         "CVE-2026-62832",
-        "CVE-2026-68820"
+        "CVE-2026-72971"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -549,10 +549,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56164",
-        "CVE-2026-56155",
         "CVE-2026-48561",
-        "CVE-2026-50661"
+        "CVE-2026-56155",
+        "CVE-2026-50661",
+        "CVE-2026-56164"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -576,6 +576,24 @@
       "threat_categories": [
         "Data Breach",
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Users in Houthi-Held Yemen Tried to Develop Advanced Weapons With AI, Anthropic Says",
+    "link": "https://www.securityweek.com/users-in-houthi-held-yemen-tried-to-develop-advanced-weapons-with-ai-anthropic-says/",
+    "published": "Sat, 12 Sep 2026 01:50:53 +0000",
+    "summary": "<p>Anthropic said the users did not succeed in “fielding an operational device” but did carry out a failed test of a guided rocket.</p>\n<p>The post <a href=\"https://www.securityweek.com/users-in-houthi-held-yemen-tried-to-develop-advanced-weapons-with-ai-anthropic-says/\">Users in Houthi-Held Yemen Tried to Develop Advanced Weapons With AI, Anthropic Says</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Anthropic said the users did not succeed in “fielding an operational device” but did carry out a failed test of a guided rocket",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
       ]
     }
   },
@@ -611,9 +629,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-19478",
         "CVE-2026-87719",
-        "CVE-2026-85706"
+        "CVE-2026-85706",
+        "CVE-2026-19478"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -696,8 +714,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-85103",
         "CVE-2026-16232",
+        "CVE-2026-85103",
         "CVE-2026-50751",
         "CVE-2026-85102"
       ],
@@ -764,28 +782,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "PaperCut Flaws Exploited in AI-Powered Attacks",
-    "link": "https://www.securityweek.com/papercut-flaws-exploited-in-ai-powered-attacks/",
-    "published": "Fri, 11 Sep 2026 08:18:23 +0000",
-    "summary": "<p>A Russian threat actor used AI to build, test, and deploy exploits against hundreds of organizations worldwide.</p>\n<p>The post <a href=\"https://www.securityweek.com/papercut-flaws-exploited-in-ai-powered-attacks/\">PaperCut Flaws Exploited in AI-Powered Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "A Russian threat actor used AI to build, test, and deploy exploits against hundreds of organizations worldwide",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-81578",
-        "CVE-2026-82078"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "We've got one word for it, and it's usually the wrong one",
     "link": "https://blog.talosintelligence.com/weve-got-one-word-for-it-and-its-usually-the-wrong-one/",
@@ -840,9 +836,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69676",
-        "CVE-2026-81963",
         "CVE-2026-85880",
+        "CVE-2026-81963",
+        "CVE-2026-69676",
         "CVE-2026-69852"
       ],
       "threat_categories": [
