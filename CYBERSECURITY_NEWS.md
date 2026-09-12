@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-12 15:20:43 UTC
+**Last Updated:** 2026-09-12 18:35:44 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [When the Whole Company Adopts AI: What It Does to Your SOC](https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html)
+### 1. [CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV](https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 12 Sep 2026 21:24:45 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [When the Whole Company Adopts AI: What It Does to Your SOC](https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 12 Sep 2026 15:54:44 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers](https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html)
+### 3. [OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers](https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 12 Sep 2026 14:37:56 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure](https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html)
+### 4. [GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure](https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 11 Sep 2026 22:00:18 +0530  
@@ -32,7 +41,7 @@
 
 ---
 
-### 4. [Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks](https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html)
+### 5. [Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks](https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 11 Sep 2026 21:45:29 +0530  
@@ -41,7 +50,7 @@
 
 ---
 
-### 5. [Claude Used to Automate Exploitation and Data Theft Across Multiple Victims](https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html)
+### 6. [Claude Used to Automate Exploitation and Data Theft Across Multiple Victims](https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 11 Sep 2026 19:59:47 +0530  
@@ -50,7 +59,7 @@
 
 ---
 
-### 6. [Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection](https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html)
+### 7. [Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection](https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 11 Sep 2026 19:40:20 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [Your Critical Vulnerabilities Might Not Be Your Biggest Risk](https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html)
+### 8. [Your Critical Vulnerabilities Might Not Be Your Biggest Risk](https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 11 Sep 2026 17:00:00 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors](https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html)
+### 9. [Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors](https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 11 Sep 2026 13:01:05 +0530  
@@ -77,7 +86,7 @@
 
 ---
 
-### 9. [China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor](https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html)
+### 10. [China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor](https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 11 Sep 2026 12:44:09 +0530  
@@ -86,21 +95,12 @@
 
 ---
 
-### 10. [PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws](https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 11 Sep 2026 12:16:18 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
 ### 11. [Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent](https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 12 Sep 2026 10:14:32 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-85103, CVE-2026-85102  
+**CVEs:** CVE-2026-85102, CVE-2026-85103  
 **Categories:** Vulnerability  
 
 ---
@@ -137,7 +137,7 @@
 **Source:** Bleeping Computer  
 **Published:** Fri, 11 Sep 2026 12:29:44 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-42016, CVE-2026-42018, CVE-2026-82329  
+**CVEs:** CVE-2026-42016, CVE-2026-82329, CVE-2026-42018  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -156,7 +156,7 @@
 **Source:** Bleeping Computer  
 **Published:** Fri, 11 Sep 2026 07:15:22 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-85706, CVE-2026-87719  
+**CVEs:** CVE-2026-87719, CVE-2026-85706  
 **Categories:** Vulnerability  
 
 ---
@@ -193,7 +193,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81963, CVE-2026-69829, CVE-2026-85880, CVE-2026-69730  
+**CVEs:** CVE-2026-85880, CVE-2026-69730, CVE-2026-69829, CVE-2026-81963  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -267,7 +267,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48561, CVE-2026-50661, CVE-2026-56155, CVE-2026-56164  
+**CVEs:** CVE-2026-56164, CVE-2026-50661, CVE-2026-56155, CVE-2026-48561  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -286,7 +286,7 @@
 **Source:** Security Week  
 **Published:** Sat, 12 Sep 2026 11:10:00 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-85880, CVE-2026-87491, CVE-2026-85046  
+**CVEs:** CVE-2026-85046, CVE-2026-87491, CVE-2026-85880  
 **Categories:** Vulnerability, Malware, APT, Supply Chain  
 
 ---
@@ -352,7 +352,7 @@
 **Source:** Security Week  
 **Published:** Fri, 11 Sep 2026 11:10:02 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-85103, CVE-2026-50751, CVE-2026-16232, CVE-2026-85102  
+**CVEs:** CVE-2026-85102, CVE-2026-16232, CVE-2026-85103, CVE-2026-50751  
 **Categories:** Vulnerability  
 
 ---
@@ -389,7 +389,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 09 Sep 2026 16:08:59 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20316, CVE-2026-20079  
+**CVEs:** CVE-2026-20079, CVE-2026-20316  
 **Categories:** Ransomware, Vulnerability, Malware, APT  
 
 ---
@@ -399,7 +399,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 08 Sep 2026 22:16:35 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81963, CVE-2026-85880, CVE-2026-69676, CVE-2026-69852  
+**CVEs:** CVE-2026-69676, CVE-2026-85880, CVE-2026-69852, CVE-2026-81963  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -637,7 +637,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

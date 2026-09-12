@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
+    "link": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
+    "published": "Sat, 12 Sep 2026 21:24:45 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild.\n\nDetails of the vulnerabilities are as follows -\n\n\n  CVE-2026-42016 (CVSS score: 8.1) - An incorrect authorization",
+    "analysis": {
+      "issue": "CISA adds five exploited flaws in Artifactory, ScreenConnect, and RouterOS to KEV, with fixes due by September 25",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
     "link": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
     "published": "Sat, 12 Sep 2026 15:54:44 +0530",
@@ -166,24 +184,6 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws",
-    "link": "https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html",
-    "published": "Fri, 11 Sep 2026 12:16:18 +0530",
-    "summary": "PaperCut on Thursday released a new security maintenance release that replaces all previously published emergency patches that were pushed to address two security flaws that have come under active exploitation.\n\nThe software development company said PaperCut NG/MF versions 26.0.5, 25.0.13 and 24.1.10 are now available for customers to download.\n\n\"These are Regular Maintenance Releases (MR) that",
-    "analysis": {
-      "issue": "PaperCut releases maintenance updates replacing emergency patches for two actively exploited flaws used to break into at least 395 organizations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
     "title": "Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent",
     "link": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
@@ -196,8 +196,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-85103",
-        "CVE-2026-85102"
+        "CVE-2026-85102",
+        "CVE-2026-85103"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -273,8 +273,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-42016",
-        "CVE-2026-42018",
-        "CVE-2026-82329"
+        "CVE-2026-82329",
+        "CVE-2026-42018"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -313,8 +313,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-85706",
-        "CVE-2026-87719"
+        "CVE-2026-87719",
+        "CVE-2026-85706"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -390,10 +390,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-81963",
-        "CVE-2026-69829",
         "CVE-2026-85880",
-        "CVE-2026-69730"
+        "CVE-2026-69730",
+        "CVE-2026-69829",
+        "CVE-2026-81963"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -549,10 +549,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-48561",
+        "CVE-2026-56164",
         "CVE-2026-50661",
         "CVE-2026-56155",
-        "CVE-2026-56164"
+        "CVE-2026-48561"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -592,9 +592,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-85880",
+        "CVE-2026-85046",
         "CVE-2026-87491",
-        "CVE-2026-85046"
+        "CVE-2026-85880"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -739,10 +739,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-85103",
-        "CVE-2026-50751",
+        "CVE-2026-85102",
         "CVE-2026-16232",
-        "CVE-2026-85102"
+        "CVE-2026-85103",
+        "CVE-2026-50751"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -818,8 +818,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20316",
-        "CVE-2026-20079"
+        "CVE-2026-20079",
+        "CVE-2026-20316"
       ],
       "threat_categories": [
         "Ransomware",
@@ -842,10 +842,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-81963",
-        "CVE-2026-85880",
         "CVE-2026-69676",
-        "CVE-2026-69852"
+        "CVE-2026-85880",
+        "CVE-2026-69852",
+        "CVE-2026-81963"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1332,8 +1332,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
