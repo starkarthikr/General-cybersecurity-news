@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-12 04:52:45 UTC
+**Last Updated:** 2026-09-12 12:18:25 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure](https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html)
+### 1. [When the Whole Company Adopts AI: What It Does to Your SOC](https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 12 Sep 2026 15:54:44 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers](https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 12 Sep 2026 14:37:56 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure](https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 11 Sep 2026 22:00:18 +0530  
@@ -14,7 +32,7 @@
 
 ---
 
-### 2. [Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks](https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html)
+### 4. [Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks](https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 11 Sep 2026 21:45:29 +0530  
@@ -23,7 +41,7 @@
 
 ---
 
-### 3. [Claude Used to Automate Exploitation and Data Theft Across Multiple Victims](https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html)
+### 5. [Claude Used to Automate Exploitation and Data Theft Across Multiple Victims](https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 11 Sep 2026 19:59:47 +0530  
@@ -32,7 +50,7 @@
 
 ---
 
-### 4. [Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection](https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html)
+### 6. [Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection](https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 11 Sep 2026 19:40:20 +0530  
@@ -41,7 +59,7 @@
 
 ---
 
-### 5. [Your Critical Vulnerabilities Might Not Be Your Biggest Risk](https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html)
+### 7. [Your Critical Vulnerabilities Might Not Be Your Biggest Risk](https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 11 Sep 2026 17:00:00 +0530  
@@ -50,7 +68,7 @@
 
 ---
 
-### 6. [Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors](https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html)
+### 8. [Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors](https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 11 Sep 2026 13:01:05 +0530  
@@ -59,7 +77,7 @@
 
 ---
 
-### 7. [China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor](https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html)
+### 9. [China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor](https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 11 Sep 2026 12:44:09 +0530  
@@ -68,30 +86,12 @@
 
 ---
 
-### 8. [PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws](https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html)
+### 10. [PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws](https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 11 Sep 2026 12:16:18 +0530  
 **Severity:** Low  
 **Categories:** Vulnerability  
-
----
-
-### 9. [Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware](https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 11 Sep 2026 11:49:59 +0530  
-**Severity:** Low  
-**Categories:** Ransomware, Vulnerability  
-
----
-
-### 10. [ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories](https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 10 Sep 2026 23:17:38 +0530  
-**Severity:** Low  
-**Categories:** Phishing  
 
 ---
 
@@ -146,7 +146,7 @@
 **Source:** Bleeping Computer  
 **Published:** Fri, 11 Sep 2026 07:15:22 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-85706, CVE-2026-87719  
+**CVEs:** CVE-2026-87719, CVE-2026-85706  
 **Categories:** Vulnerability  
 
 ---
@@ -192,7 +192,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-85880, CVE-2026-81963, CVE-2026-69829, CVE-2026-69730  
+**CVEs:** CVE-2026-81963, CVE-2026-85880, CVE-2026-69730, CVE-2026-69829  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -229,7 +229,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-72971, CVE-2026-62832, CVE-2026-68820  
+**CVEs:** CVE-2026-68820, CVE-2026-62832, CVE-2026-72971  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -266,7 +266,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56155, CVE-2026-48561, CVE-2026-56164, CVE-2026-50661  
+**CVEs:** CVE-2026-50661, CVE-2026-56164, CVE-2026-56155, CVE-2026-48561  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -280,7 +280,17 @@
 
 ---
 
-### 31. [Users in Houthi-Held Yemen Tried to Develop Advanced Weapons With AI, Anthropic Says](https://www.securityweek.com/users-in-houthi-held-yemen-tried-to-develop-advanced-weapons-with-ai-anthropic-says/)
+### 31. [BlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Days](https://www.securityweek.com/bluemoon-exploit-kit-chains-recent-chrome-windows-zero-days/)
+
+**Source:** Security Week  
+**Published:** Sat, 12 Sep 2026 11:10:00 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-87491, CVE-2026-85046, CVE-2026-85880  
+**Categories:** Vulnerability, Malware, APT, Supply Chain  
+
+---
+
+### 32. [Users in Houthi-Held Yemen Tried to Develop Advanced Weapons With AI, Anthropic Says](https://www.securityweek.com/users-in-houthi-held-yemen-tried-to-develop-advanced-weapons-with-ai-anthropic-says/)
 
 **Source:** Security Week  
 **Published:** Sat, 12 Sep 2026 01:50:53 +0000  
@@ -289,7 +299,7 @@
 
 ---
 
-### 32. [Phishing Research Challenges Conventional Security Awareness Testing](https://www.securityweek.com/phishing-research-challenges-conventional-security-awareness-testing/)
+### 33. [Phishing Research Challenges Conventional Security Awareness Testing](https://www.securityweek.com/phishing-research-challenges-conventional-security-awareness-testing/)
 
 **Source:** Security Week  
 **Published:** Fri, 11 Sep 2026 17:23:36 +0000  
@@ -298,17 +308,17 @@
 
 ---
 
-### 33. [GitLab Vulnerability Exploited One Day After Disclosure](https://www.securityweek.com/gitlab-vulnerability-exploited-one-day-after-disclosure/)
+### 34. [GitLab Vulnerability Exploited One Day After Disclosure](https://www.securityweek.com/gitlab-vulnerability-exploited-one-day-after-disclosure/)
 
 **Source:** Security Week  
 **Published:** Fri, 11 Sep 2026 16:11:08 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-19478, CVE-2026-85706, CVE-2026-87719  
+**CVEs:** CVE-2026-19478, CVE-2026-87719, CVE-2026-85706  
 **Categories:** Vulnerability  
 
 ---
 
-### 34. [In Other News: InjectEave Attack, SIM Swapper Sentenced, Glasswing Findings Review](https://www.securityweek.com/in-other-news-injecteave-attack-sim-swapper-sentenced-glasswing-findings-review/)
+### 35. [In Other News: InjectEave Attack, SIM Swapper Sentenced, Glasswing Findings Review](https://www.securityweek.com/in-other-news-injecteave-attack-sim-swapper-sentenced-glasswing-findings-review/)
 
 **Source:** Security Week  
 **Published:** Fri, 11 Sep 2026 14:19:18 +0000  
@@ -318,7 +328,7 @@
 
 ---
 
-### 35. [Trezor Says 347,000 Users Received Phishing Emails After Brevo Hack](https://www.securityweek.com/trezor-says-347000-users-received-phishing-emails-after-brevo-hack/)
+### 36. [Trezor Says 347,000 Users Received Phishing Emails After Brevo Hack](https://www.securityweek.com/trezor-says-347000-users-received-phishing-emails-after-brevo-hack/)
 
 **Source:** Security Week  
 **Published:** Fri, 11 Sep 2026 12:48:04 +0000  
@@ -327,7 +337,7 @@
 
 ---
 
-### 36. [Ukrainian Conti Ransomware Developer Sentenced to 4 Years in US Prison](https://www.securityweek.com/ukrainian-conti-ransomware-developer-sentenced-to-4-years-in-us-prison/)
+### 37. [Ukrainian Conti Ransomware Developer Sentenced to 4 Years in US Prison](https://www.securityweek.com/ukrainian-conti-ransomware-developer-sentenced-to-4-years-in-us-prison/)
 
 **Source:** Security Week  
 **Published:** Fri, 11 Sep 2026 11:29:09 +0000  
@@ -336,17 +346,17 @@
 
 ---
 
-### 37. [Check Point Patches Critical VPN Vulnerabilities](https://www.securityweek.com/check-point-patches-critical-vpn-vulnerabilities/)
+### 38. [Check Point Patches Critical VPN Vulnerabilities](https://www.securityweek.com/check-point-patches-critical-vpn-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Fri, 11 Sep 2026 11:10:02 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-85103, CVE-2026-50751, CVE-2026-16232, CVE-2026-85102  
+**CVEs:** CVE-2026-85102, CVE-2026-85103, CVE-2026-50751, CVE-2026-16232  
 **Categories:** Vulnerability  
 
 ---
 
-### 38. [Kiteworks Acquires Bonfy.AI to Fill the AI Gap in Data Governance](https://www.securityweek.com/kiteworks-acquires-bonfy-ai-to-fill-the-ai-gap-in-data-governance/)
+### 39. [Kiteworks Acquires Bonfy.AI to Fill the AI Gap in Data Governance](https://www.securityweek.com/kiteworks-acquires-bonfy-ai-to-fill-the-ai-gap-in-data-governance/)
 
 **Source:** Security Week  
 **Published:** Fri, 11 Sep 2026 10:56:16 +0000  
@@ -355,21 +365,12 @@
 
 ---
 
-### 39. [Surfshark Systems Targeted by Hackers](https://www.securityweek.com/surfshark-systems-targeted-by-hackers/)
+### 40. [Surfshark Systems Targeted by Hackers](https://www.securityweek.com/surfshark-systems-targeted-by-hackers/)
 
 **Source:** Security Week  
 **Published:** Fri, 11 Sep 2026 09:41:03 +0000  
 **Severity:** Low  
 **Categories:** Ransomware, Data Breach, APT  
-
----
-
-### 40. [Anthropic Says Russian Hackers Used Claude AI to Automate Malware Evasion](https://www.securityweek.com/anthropic-says-russian-hackers-used-claude-ai-to-automate-malware-evasion/)
-
-**Source:** Security Week  
-**Published:** Fri, 11 Sep 2026 08:47:07 +0000  
-**Severity:** High  
-**Categories:** Malware, APT  
 
 ---
 
@@ -387,7 +388,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 09 Sep 2026 16:08:59 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20079, CVE-2026-20316  
+**CVEs:** CVE-2026-20316, CVE-2026-20079  
 **Categories:** Ransomware, Vulnerability, Malware, APT  
 
 ---
@@ -397,7 +398,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 08 Sep 2026 22:16:35 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-85880, CVE-2026-81963, CVE-2026-69676, CVE-2026-69852  
+**CVEs:** CVE-2026-81963, CVE-2026-85880, CVE-2026-69852, CVE-2026-69676  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -635,7 +636,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

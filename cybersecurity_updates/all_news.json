@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
+    "link": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
+    "published": "Sat, 12 Sep 2026 15:54:44 +0530",
+    "summary": "Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream: alerts that were triggered by AI tools and agents. Not attacks against AI, but the ordinary, everyday footprint of an organization using it, from developers running coding agents and non-technical staff signing consumer AI tools into corporate",
+    "analysis": {
+      "issue": "AI-related SOC alerts rose 685% from February to June 2026, with 94",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
+    "link": "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html",
+    "published": "Sat, 12 Sep 2026 14:37:56 +0530",
+    "summary": "The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx.\n\nOn May 12, Maciej Mensfeld, senior product manager for software supply chain security at Mend.io, disclosed details of a coordinated cyber attack that targeted the package manager for the",
+    "analysis": {
+      "issue": "A report links OpenAI agents to a RubyGems campaign that abused RubyDoc for RCE and published more than 2,000 packages in May",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
     "link": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html",
     "published": "Fri, 11 Sep 2026 22:00:18 +0530",
@@ -148,43 +184,6 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware",
-    "link": "https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html",
-    "published": "Fri, 11 Sep 2026 11:49:59 +0530",
-    "summary": "Cisco has revealed that three distinct threat clusters linked to ransomware and state-sponsored attacks have been exploiting two recently patched Secure Firewall Management Center (FMC) vulnerabilities.\n\nThe attacks leverage CVE-2026-20079 (CVSS score: 10.0), an authentication bypass vulnerability in the web interface of FMC software that could allow an unauthenticated, remote attacker to bypass",
-    "analysis": {
-      "issue": "Cisco says three threat clusters exploited two patched FMC flaws to gain access, steal credentials, and deploy Qilin ransomware",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories",
-    "link": "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html",
-    "published": "Thu, 10 Sep 2026 23:17:38 +0530",
-    "summary": "A lot of this week’s security news has the same awkward answer to one question: “Why was that allowed to work?”\n\nAn extension asks for access and takes too much. A trusted service becomes part of a phishing chain. An old bug still gets results. An exposed system stays exposed. A package looks useful right up until it isn’t. Different stories, same basic problem: the path in was often already",
-    "analysis": {
-      "issue": "This week’s cyber threats span phishing abuse, malicious extensions, exposed systems, old flaws, AI attacks, and supply-chain risk",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
     "title": "Hackers abused Claude to extract secrets from 1.8M Android apps",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/",
@@ -293,8 +292,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-85706",
-        "CVE-2026-87719"
+        "CVE-2026-87719",
+        "CVE-2026-85706"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -390,10 +389,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-85880",
         "CVE-2026-81963",
-        "CVE-2026-69829",
-        "CVE-2026-69730"
+        "CVE-2026-85880",
+        "CVE-2026-69730",
+        "CVE-2026-69829"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -470,9 +469,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-72971",
+        "CVE-2026-68820",
         "CVE-2026-62832",
-        "CVE-2026-68820"
+        "CVE-2026-72971"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -549,10 +548,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56155",
-        "CVE-2026-48561",
+        "CVE-2026-50661",
         "CVE-2026-56164",
-        "CVE-2026-50661"
+        "CVE-2026-56155",
+        "CVE-2026-48561"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -576,6 +575,31 @@
       "threat_categories": [
         "Data Breach",
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "BlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Days",
+    "link": "https://www.securityweek.com/bluemoon-exploit-kit-chains-recent-chrome-windows-zero-days/",
+    "published": "Sat, 12 Sep 2026 11:10:00 +0000",
+    "summary": "<p>Multiple espionage-motivated threat actors have adopted BlueMoon in opportunistic, rushed deployments.</p>\n<p>The post <a href=\"https://www.securityweek.com/bluemoon-exploit-kit-chains-recent-chrome-windows-zero-days/\">BlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Days</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Multiple espionage-motivated threat actors have adopted BlueMoon in opportunistic, rushed deployments",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-87491",
+        "CVE-2026-85046",
+        "CVE-2026-85880"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "APT",
+        "Supply Chain"
       ]
     }
   },
@@ -630,8 +654,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-19478",
-        "CVE-2026-85706",
-        "CVE-2026-87719"
+        "CVE-2026-87719",
+        "CVE-2026-85706"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -714,10 +738,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-85102",
         "CVE-2026-85103",
         "CVE-2026-50751",
-        "CVE-2026-16232",
-        "CVE-2026-85102"
+        "CVE-2026-16232"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -763,25 +787,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Anthropic Says Russian Hackers Used Claude AI to Automate Malware Evasion",
-    "link": "https://www.securityweek.com/anthropic-says-russian-hackers-used-claude-ai-to-automate-malware-evasion/",
-    "published": "Fri, 11 Sep 2026 08:47:07 +0000",
-    "summary": "<p>Anthropic reveals how criminal groups are increasingly targeting AI vendors' own infrastructure, including to steal a pre-release Claude model.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-says-russian-hackers-used-claude-ai-to-automate-malware-evasion/\">Anthropic Says Russian Hackers Used Claude AI to Automate Malware Evasion</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Anthropic reveals how criminal groups are increasingly targeting AI vendors’ own infrastructure, including to steal a pre-release Claude model",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "We've got one word for it, and it's usually the wrong one",
     "link": "https://blog.talosintelligence.com/weve-got-one-word-for-it-and-its-usually-the-wrong-one/",
@@ -812,8 +817,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20079",
-        "CVE-2026-20316"
+        "CVE-2026-20316",
+        "CVE-2026-20079"
       ],
       "threat_categories": [
         "Ransomware",
@@ -836,10 +841,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-85880",
         "CVE-2026-81963",
-        "CVE-2026-69676",
-        "CVE-2026-69852"
+        "CVE-2026-85880",
+        "CVE-2026-69852",
+        "CVE-2026-69676"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1326,8 +1331,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
