@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-12 12:18:25 UTC
+**Last Updated:** 2026-09-12 15:20:43 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,17 @@
 
 ---
 
-### 11. [Hackers abused Claude to extract secrets from 1.8M Android apps](https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/)
+### 11. [Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent](https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/)
+
+**Source:** Bleeping Computer  
+**Published:** Sat, 12 Sep 2026 10:14:32 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-85103, CVE-2026-85102  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [Hackers abused Claude to extract secrets from 1.8M Android apps](https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 11 Sep 2026 16:19:09 -0400  
@@ -104,7 +114,7 @@
 
 ---
 
-### 12. [Florida confirms DMV database breached via stolen police account](https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/)
+### 13. [Florida confirms DMV database breached via stolen police account](https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 11 Sep 2026 15:00:29 -0400  
@@ -113,7 +123,7 @@
 
 ---
 
-### 13. [Passkey-themed phishing attacks lead to Microsoft 365 data theft](https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/)
+### 14. [Passkey-themed phishing attacks lead to Microsoft 365 data theft](https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 11 Sep 2026 13:26:50 -0400  
@@ -122,17 +132,17 @@
 
 ---
 
-### 14. [Artifactory flaws chained in attacks deploying backdoor malware](https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/)
+### 15. [Artifactory flaws chained in attacks deploying backdoor malware](https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 11 Sep 2026 12:29:44 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-42018, CVE-2026-42016, CVE-2026-82329  
+**CVEs:** CVE-2026-42016, CVE-2026-42018, CVE-2026-82329  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 15. [How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface](https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/)
+### 16. [How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface](https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 11 Sep 2026 10:01:11 -0400  
@@ -141,17 +151,17 @@
 
 ---
 
-### 16. [GitLab urges users to patch max severity path traversal flaw](https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/)
+### 17. [GitLab urges users to patch max severity path traversal flaw](https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 11 Sep 2026 07:15:22 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-87719, CVE-2026-85706  
+**CVEs:** CVE-2026-85706, CVE-2026-87719  
 **Categories:** Vulnerability  
 
 ---
 
-### 17. [Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/)
+### 18. [Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 11 Sep 2026 05:39:37 -0400  
@@ -160,7 +170,7 @@
 
 ---
 
-### 18. [Trezor: 347,000 users targeted in phishing attacks after Brevo breach](https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/)
+### 19. [Trezor: 347,000 users targeted in phishing attacks after Brevo breach](https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 11 Sep 2026 03:55:15 -0400  
@@ -169,7 +179,7 @@
 
 ---
 
-### 19. [Conti ransomware gang member sentenced to 4 years in prison](https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/)
+### 20. [Conti ransomware gang member sentenced to 4 years in prison](https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 11 Sep 2026 02:48:37 -0400  
@@ -178,21 +188,12 @@
 
 ---
 
-### 20. [New Android malware encrypts files, steals data, and harasses victims](https://www.bleepingcomputer.com/news/security/new-android-malware-encrypts-files-steals-data-and-harasses-victims/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 10 Sep 2026 17:40:43 -0400  
-**Severity:** Low  
-**Categories:** Ransomware, Malware, Phishing  
-
----
-
 ### 21. [Microsoft Plugs Nearly 1,000 Security Holes](https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81963, CVE-2026-85880, CVE-2026-69730, CVE-2026-69829  
+**CVEs:** CVE-2026-81963, CVE-2026-69829, CVE-2026-85880, CVE-2026-69730  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -229,7 +230,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-68820, CVE-2026-62832, CVE-2026-72971  
+**CVEs:** CVE-2026-72971, CVE-2026-62832, CVE-2026-68820  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -266,7 +267,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50661, CVE-2026-56164, CVE-2026-56155, CVE-2026-48561  
+**CVEs:** CVE-2026-48561, CVE-2026-50661, CVE-2026-56155, CVE-2026-56164  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -285,7 +286,7 @@
 **Source:** Security Week  
 **Published:** Sat, 12 Sep 2026 11:10:00 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-87491, CVE-2026-85046, CVE-2026-85880  
+**CVEs:** CVE-2026-85880, CVE-2026-87491, CVE-2026-85046  
 **Categories:** Vulnerability, Malware, APT, Supply Chain  
 
 ---
@@ -313,7 +314,7 @@
 **Source:** Security Week  
 **Published:** Fri, 11 Sep 2026 16:11:08 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-19478, CVE-2026-87719, CVE-2026-85706  
+**CVEs:** CVE-2026-87719, CVE-2026-85706, CVE-2026-19478  
 **Categories:** Vulnerability  
 
 ---
@@ -351,7 +352,7 @@
 **Source:** Security Week  
 **Published:** Fri, 11 Sep 2026 11:10:02 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-85102, CVE-2026-85103, CVE-2026-50751, CVE-2026-16232  
+**CVEs:** CVE-2026-85103, CVE-2026-50751, CVE-2026-16232, CVE-2026-85102  
 **Categories:** Vulnerability  
 
 ---
@@ -398,7 +399,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 08 Sep 2026 22:16:35 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81963, CVE-2026-85880, CVE-2026-69852, CVE-2026-69676  
+**CVEs:** CVE-2026-81963, CVE-2026-85880, CVE-2026-69676, CVE-2026-69852  
 **Categories:** Vulnerability, APT  
 
 ---
