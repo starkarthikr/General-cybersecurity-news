@@ -184,6 +184,27 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/",
+    "published": "Sun, 13 Sep 2026 10:26:32 -0400",
+    "summary": "Threat actors linked to a China-aligned espionage group are exploiting a critical vulnerability (CVE-2026-51990) in Tencent's Sogou Input Method for Windows to deploy the GrayRabbit backdoor. [...]",
+    "analysis": {
+      "issue": "Threat actors linked to a China-aligned espionage group are exploiting a critical vulnerability (CVE-2026-51990) in Tencent’s Sogou Input Method for Windows to deploy the GrayRabbit backdoor",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-51990"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent",
     "link": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
     "published": "Sat, 12 Sep 2026 10:14:32 -0400",
@@ -271,8 +292,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-42018",
         "CVE-2026-42016",
+        "CVE-2026-42018",
         "CVE-2026-82329"
       ],
       "threat_categories": [
@@ -359,24 +380,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Conti ransomware gang member sentenced to 4 years in prison",
-    "link": "https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/",
-    "published": "Fri, 11 Sep 2026 02:48:37 -0400",
-    "summary": "A Ukrainian national has been sentenced to four years in prison for his role in Conti ransomware attacks between 2021 and 2022. [...]",
-    "analysis": {
-      "issue": "A Ukrainian national has been sentenced to four years in prison for his role in Conti ransomware attacks between 2021 and 2022",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Microsoft Plugs Nearly 1,000 Security Holes",
     "link": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
@@ -389,9 +392,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-81963",
-        "CVE-2026-69730",
         "CVE-2026-85880",
+        "CVE-2026-69730",
+        "CVE-2026-81963",
         "CVE-2026-69829"
       ],
       "threat_categories": [
@@ -469,9 +472,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-62832",
         "CVE-2026-68820",
-        "CVE-2026-72971"
+        "CVE-2026-72971",
+        "CVE-2026-62832"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -548,10 +551,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50661",
-        "CVE-2026-48561",
         "CVE-2026-56164",
-        "CVE-2026-56155"
+        "CVE-2026-56155",
+        "CVE-2026-50661",
+        "CVE-2026-48561"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -580,6 +583,24 @@
   },
   {
     "source": "Security Week",
+    "title": "Anthropic CEO Dario Amodei Says AI Industry Needs to Give Safety Measures Time to Catch Up",
+    "link": "https://www.securityweek.com/anthropic-ceo-dario-amodei-says-ai-industry-needs-to-give-safety-measures-time-to-catch-up/",
+    "published": "Sun, 13 Sep 2026 13:27:25 +0000",
+    "summary": "<p>Dario Amodei warned that within six to 12 months AI could be capable of leading a swarm of agents that could take over the entire internet.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-ceo-dario-amodei-says-ai-industry-needs-to-give-safety-measures-time-to-catch-up/\">Anthropic CEO Dario Amodei Says AI Industry Needs to Give Safety Measures Time to Catch Up</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Dario Amodei warned that within six to 12 months AI could be capable of leading a swarm of agents that could take over the entire internet",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "BlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Days",
     "link": "https://www.securityweek.com/bluemoon-exploit-kit-chains-recent-chrome-windows-zero-days/",
     "published": "Sat, 12 Sep 2026 11:10:00 +0000",
@@ -591,9 +612,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-87491",
+        "CVE-2026-85880",
         "CVE-2026-85046",
-        "CVE-2026-85880"
+        "CVE-2026-87491"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -738,10 +759,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-16232",
+        "CVE-2026-50751",
         "CVE-2026-85103",
-        "CVE-2026-85102",
-        "CVE-2026-50751"
+        "CVE-2026-16232",
+        "CVE-2026-85102"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -763,26 +784,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Surfshark Systems Targeted by Hackers",
-    "link": "https://www.securityweek.com/surfshark-systems-targeted-by-hackers/",
-    "published": "Fri, 11 Sep 2026 09:41:03 +0000",
-    "summary": "<p>A misconfigured test server containing engineering material, including internal configurations, was accessed by threat actors.</p>\n<p>The post <a href=\"https://www.securityweek.com/surfshark-systems-targeted-by-hackers/\">Surfshark Systems Targeted by Hackers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "A misconfigured test server containing engineering material, including internal configurations, was accessed by threat actors",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "APT"
       ]
     }
   },
@@ -841,9 +842,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-81963",
         "CVE-2026-85880",
         "CVE-2026-69852",
+        "CVE-2026-81963",
         "CVE-2026-69676"
       ],
       "threat_categories": [
@@ -1331,8 +1332,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
