@@ -1,19 +1,37 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-14 17:58:07 UTC
+**Last Updated:** 2026-09-14 20:24:26 UTC
 
 ## Breaking News (Last 3 Days)
 
 ### 1. [New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing](https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html)
 
 **Source:** The Hacker News  
-**Published:** Mon, 14 Sep 2026 22:28:42 +0530  
+**Published:** Mon, 14 Sep 2026 23:32:13 +0530  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 2. [Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries](https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html)
+### 2. [3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials](https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 14 Sep 2026 23:31:49 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 3. [Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports](https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 14 Sep 2026 23:28:16 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 4. [Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries](https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 14 Sep 2026 22:26:30 +0530  
@@ -23,7 +41,7 @@
 
 ---
 
-### 3. [WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution](https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html)
+### 5. [WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution](https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 14 Sep 2026 21:30:04 +0530  
@@ -32,7 +50,7 @@
 
 ---
 
-### 4. [⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits](https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html)
+### 6. [⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits](https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 14 Sep 2026 20:10:34 +0530  
@@ -41,7 +59,7 @@
 
 ---
 
-### 5. [AI Changed the Exposure Problem. Validation Needs to Change With It.](https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html)
+### 7. [AI Changed the Exposure Problem. Validation Needs to Change With It.](https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 14 Sep 2026 17:28:00 +0530  
@@ -50,7 +68,7 @@
 
 ---
 
-### 6. [Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users](https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html)
+### 8. [Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users](https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 14 Sep 2026 12:54:39 +0530  
@@ -59,7 +77,7 @@
 
 ---
 
-### 7. [Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data](https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html)
+### 9. [Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data](https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 13 Sep 2026 15:41:48 +0530  
@@ -68,7 +86,7 @@
 
 ---
 
-### 8. [CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV](https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html)
+### 10. [CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV](https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 12 Sep 2026 21:24:45 +0530  
@@ -77,25 +95,34 @@
 
 ---
 
-### 9. [When the Whole Company Adopts AI: What It Does to Your SOC](https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html)
+### 11. [Homebrew 7.0.0 gets built-in GUI, better security controls](https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/)
 
-**Source:** The Hacker News  
-**Published:** Sat, 12 Sep 2026 15:54:44 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 14 Sep 2026 15:51:04 -0400  
 **Severity:** Low  
-**Categories:** General Security  
+**Categories:** Vulnerability, Malware  
 
 ---
 
-### 10. [OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers](https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html)
+### 12. [Twitch extension with 30K installs exposes users’ OAuth tokens](https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/)
 
-**Source:** The Hacker News  
-**Published:** Sat, 12 Sep 2026 14:37:56 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 14 Sep 2026 15:03:51 -0400  
 **Severity:** Low  
-**Categories:** General Security  
+**Categories:** APT, Supply Chain  
 
 ---
 
-### 11. [Hackers target exposed Vite dev servers to steal AWS, Azure secrets](https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/)
+### 13. [Hackers hijack HBO Max Reddit account to push malware in ClickFix ads](https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 14 Sep 2026 14:34:16 -0400  
+**Severity:** Low  
+**Categories:** Malware, APT  
+
+---
+
+### 14. [Hackers target exposed Vite dev servers to steal AWS, Azure secrets](https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 14 Sep 2026 12:15:58 -0400  
@@ -105,7 +132,7 @@
 
 ---
 
-### 12. [Why Patch Automation Needs Brakes, Not Just an Accelerator](https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/)
+### 15. [Why Patch Automation Needs Brakes, Not Just an Accelerator](https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 14 Sep 2026 10:01:11 -0400  
@@ -114,7 +141,7 @@
 
 ---
 
-### 13. [Webinar: How malicious OAuth apps can lead to Google Workspace breaches](https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/)
+### 16. [Webinar: How malicious OAuth apps can lead to Google Workspace breaches](https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 14 Sep 2026 08:15:23 -0400  
@@ -123,7 +150,7 @@
 
 ---
 
-### 14. [Microsoft: September updates cause RDS failures on Windows Server](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-cause-rds-failures-on-windows-server/)
+### 17. [Microsoft: September updates cause RDS failures on Windows Server](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-cause-rds-failures-on-windows-server/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 14 Sep 2026 05:50:25 -0400  
@@ -132,7 +159,7 @@
 
 ---
 
-### 15. [Revolut discloses data breach exposing financial info, passports](https://www.bleepingcomputer.com/news/security/revolut-discloses-data-breach-exposing-financial-info-passports/)
+### 18. [Revolut discloses data breach exposing financial info, passports](https://www.bleepingcomputer.com/news/security/revolut-discloses-data-breach-exposing-financial-info-passports/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 14 Sep 2026 04:48:24 -0400  
@@ -141,7 +168,7 @@
 
 ---
 
-### 16. [Microsoft: September updates break audio on some Windows PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-audio-on-some-windows-pcs/)
+### 19. [Microsoft: September updates break audio on some Windows PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-audio-on-some-windows-pcs/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 14 Sep 2026 04:08:16 -0400  
@@ -150,7 +177,7 @@
 
 ---
 
-### 17. [CISA: Hackers now exploit max severity GitLab flaw in attacks](https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-max-severity-gitlab-flaw-in-attacks/)
+### 20. [CISA: Hackers now exploit max severity GitLab flaw in attacks](https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-max-severity-gitlab-flaw-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 14 Sep 2026 03:06:27 -0400  
@@ -160,41 +187,12 @@
 
 ---
 
-### 18. [Hackers exploit Tencent app flaw to deploy GrayRabbit malware](https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/)
-
-**Source:** Bleeping Computer  
-**Published:** Sun, 13 Sep 2026 10:26:32 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-51990  
-**Categories:** Vulnerability, Malware  
-
----
-
-### 19. [Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent](https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 12 Sep 2026 10:14:32 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-85102, CVE-2026-85103  
-**Categories:** Vulnerability  
-
----
-
-### 20. [Hackers abused Claude to extract secrets from 1.8M Android apps](https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 11 Sep 2026 16:19:09 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
 ### 21. [Microsoft Plugs Nearly 1,000 Security Holes](https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69829, CVE-2026-69730, CVE-2026-81963, CVE-2026-85880  
+**CVEs:** CVE-2026-69730, CVE-2026-81963, CVE-2026-69829, CVE-2026-85880  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -231,7 +229,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62832, CVE-2026-72971, CVE-2026-68820  
+**CVEs:** CVE-2026-68820, CVE-2026-62832, CVE-2026-72971  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -268,7 +266,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50661, CVE-2026-48561, CVE-2026-56164, CVE-2026-56155  
+**CVEs:** CVE-2026-48561, CVE-2026-50661, CVE-2026-56155, CVE-2026-56164  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -351,7 +349,7 @@
 **Source:** Security Week  
 **Published:** Mon, 14 Sep 2026 09:27:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-82329, CVE-2026-42018, CVE-2026-42016  
+**CVEs:** CVE-2026-42018, CVE-2026-82329, CVE-2026-42016  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -389,7 +387,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 09 Sep 2026 16:08:59 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20079, CVE-2026-20316  
+**CVEs:** CVE-2026-20316, CVE-2026-20079  
 **Categories:** Ransomware, Vulnerability, Malware, APT  
 
 ---
@@ -399,7 +397,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 08 Sep 2026 22:16:35 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69676, CVE-2026-69852, CVE-2026-81963, CVE-2026-85880  
+**CVEs:** CVE-2026-69852, CVE-2026-69676, CVE-2026-81963, CVE-2026-85880  
 **Categories:** Vulnerability, APT  
 
 ---

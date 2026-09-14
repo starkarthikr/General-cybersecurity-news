@@ -3,7 +3,7 @@
     "source": "The Hacker News",
     "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
     "link": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
-    "published": "Mon, 14 Sep 2026 22:28:42 +0530",
+    "published": "Mon, 14 Sep 2026 23:32:13 +0530",
     "summary": "Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's memory, so the processor keeps reading old encrypted data as if it were current.\n\nThe attack requires an attacker who already controls the server's software and can briefly access the machine to insert a small circuit",
     "analysis": {
       "issue": "DDRop uses server control and a DDR5 interposer to replay stale encrypted data in Intel TDX, Scalable SGX, and AMD SEV-SNP",
@@ -19,10 +19,46 @@
   },
   {
     "source": "The Hacker News",
+    "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
+    "link": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
+    "published": "Mon, 14 Sep 2026 23:31:49 +0530",
+    "summary": "An attacker was operating inside the network of 3BB, one of Thailand's largest broadband providers, and maintained remote control of internal machines using a legitimate management tool called MeshCentral, threat intelligence firm Hunt.io said.\n\nThe company uncovered the intrusion by examining a server the attacker had left open on the internet, which held the attacker's own tools and a list of",
+    "analysis": {
+      "issue": "Researchers found an attacker with root access inside 3BB using MeshCentral for persistence and targeting subscriber RADIUS databases",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
+    "link": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
+    "published": "Mon, 14 Sep 2026 23:28:16 +0530",
+    "summary": "A flaw in Telegram Desktop let a bot's message plant hidden JavaScript inside chats that users exported to HTML files, security researchers at ExPatch said in a&nbsp;writeup&nbsp;published on September 12.\n\nIn Telegram, the message looked ordinary, with a link button, and the script ran only when someone opened the export file in a web browser. It could then copy every message in that file to",
+    "analysis": {
+      "issue": "Telegram Desktop fixed a flaw that let bot messages embed JavaScript in HTML exports to read or alter messages; old exports remain affected",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
     "link": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
     "published": "Mon, 14 Sep 2026 22:26:30 +0530",
-    "summary": "A Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a multi-national campaign.\n\n\"Red Heron scanned 1,386 Gitea instances across seven countries and maintained a separate dataset of 477 Taiwan-based systems,\" Acronis Threat Research Unit (TRU) said in an",
+    "summary": "A suspected Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a multi-national campaign.\n\n\"Red Heron scanned 1,386 Gitea instances across seven countries and maintained a separate dataset of 477 Taiwan-based systems,\" Acronis Threat Research Unit (TRU)",
     "analysis": {
       "issue": "Red Heron exploited Gitea CVE-2026-60004 to steal repositories, collect credentials, persist, and move laterally across victim networks",
       "solution": null,
@@ -146,38 +182,59 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
-    "link": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
-    "published": "Sat, 12 Sep 2026 15:54:44 +0530",
-    "summary": "Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream: alerts that were triggered by AI tools and agents. Not attacks against AI, but the ordinary, everyday footprint of an organization using it, from developers running coding agents and non-technical staff signing consumer AI tools into corporate",
+    "source": "Bleeping Computer",
+    "title": "Homebrew 7.0.0 gets built-in GUI, better security controls",
+    "link": "https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/",
+    "published": "Mon, 14 Sep 2026 15:51:04 -0400",
+    "summary": "Homebrew package manager version 7.0.0 has been released with a built-in vulnerability scanner, stronger security controls, and the full release of its native BrewUI graphical interface. [...]",
     "analysis": {
-      "issue": "AI-related SOC alerts rose 685% from February to June 2026, with 94",
+      "issue": "Homebrew package manager version 7",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Vulnerability",
+        "Malware"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
-    "link": "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html",
-    "published": "Sat, 12 Sep 2026 14:37:56 +0530",
-    "summary": "The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx.\n\nOn May 12, Maciej Mensfeld, senior product manager for software supply chain security at Mend.io, disclosed details of a coordinated cyber attack that targeted the package manager for the",
+    "source": "Bleeping Computer",
+    "title": "Twitch extension with 30K installs exposes users’ OAuth tokens",
+    "link": "https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/",
+    "published": "Mon, 14 Sep 2026 15:03:51 -0400",
+    "summary": "A browser extension called Twitch Enhanced Viewer | JeetBot, available in the official Chrome and Firefox stores, sends users' Twitch OAuth session tokens to a commercial bot service. [...]",
     "analysis": {
-      "issue": "A report links OpenAI agents to a RubyGems campaign that abused RubyDoc for RCE and published more than 2,000 packages in May",
+      "issue": "A browser extension called Twitch Enhanced Viewer | JeetBot, available in the official Chrome and Firefox stores, sends users’ Twitch OAuth session tokens to a commercial bot service",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "APT",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Hackers hijack HBO Max Reddit account to push malware in ClickFix ads",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/",
+    "published": "Mon, 14 Sep 2026 14:34:16 -0400",
+    "summary": "Hackers compromised HBO Max's official Reddit account and used it to push malicious ads that launched ClickFix attacks to infect Windows and macOS devices with information-stealing malware. [...]",
+    "analysis": {
+      "issue": "Hackers compromised HBO Max's official Reddit account and used it to push malicious ads that launched ClickFix attacks to infect Windows and macOS devices with information-stealing malware",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "APT"
       ]
     }
   },
@@ -312,66 +369,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/",
-    "published": "Sun, 13 Sep 2026 10:26:32 -0400",
-    "summary": "Threat actors linked to a China-aligned espionage group are exploiting a critical vulnerability (CVE-2026-51990) in Tencent's Sogou Input Method for Windows to deploy the GrayRabbit backdoor. [...]",
-    "analysis": {
-      "issue": "Threat actors linked to a China-aligned espionage group are exploiting a critical vulnerability (CVE-2026-51990) in Tencent’s Sogou Input Method for Windows to deploy the GrayRabbit backdoor",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-51990"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent",
-    "link": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
-    "published": "Sat, 12 Sep 2026 10:14:32 -0400",
-    "summary": "The Dutch Nationaal Cyber Security Centrum (NCSC) is warning of imminent exploitation of two critical flaws in Check Point VPN tracked as CVE-2026-85102 and CVE-2026-85103. [...]",
-    "analysis": {
-      "issue": "The Dutch Nationaal Cyber Security Centrum (NCSC) is warning of imminent exploitation of two critical flaws in Check Point VPN tracked as CVE-2026-85102 and CVE-2026-85103",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-85102",
-        "CVE-2026-85103"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers abused Claude to extract secrets from 1.8M Android apps",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/",
-    "published": "Fri, 11 Sep 2026 16:19:09 -0400",
-    "summary": "Anthropic says multiple threat groups, including the financially motivated and state-sponsored espionage groups linked to Russia and China, tried to abuse its Claude AI model for malicious purposes. [...]",
-    "analysis": {
-      "issue": "Anthropic says multiple threat groups, including the financially motivated and state-sponsored espionage groups linked to Russia and China, tried to abuse its Claude AI model for malicious purposes",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Microsoft Plugs Nearly 1,000 Security Holes",
     "link": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
@@ -384,9 +381,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69829",
         "CVE-2026-69730",
         "CVE-2026-81963",
+        "CVE-2026-69829",
         "CVE-2026-85880"
       ],
       "threat_categories": [
@@ -464,9 +461,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-68820",
         "CVE-2026-62832",
-        "CVE-2026-72971",
-        "CVE-2026-68820"
+        "CVE-2026-72971"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -543,10 +540,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50661",
         "CVE-2026-48561",
-        "CVE-2026-56164",
-        "CVE-2026-56155"
+        "CVE-2026-50661",
+        "CVE-2026-56155",
+        "CVE-2026-56164"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -721,8 +718,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-82329",
         "CVE-2026-42018",
+        "CVE-2026-82329",
         "CVE-2026-42016"
       ],
       "threat_categories": [
@@ -800,8 +797,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20079",
-        "CVE-2026-20316"
+        "CVE-2026-20316",
+        "CVE-2026-20079"
       ],
       "threat_categories": [
         "Ransomware",
@@ -824,8 +821,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69676",
         "CVE-2026-69852",
+        "CVE-2026-69676",
         "CVE-2026-81963",
         "CVE-2026-85880"
       ],
