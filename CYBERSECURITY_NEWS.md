@@ -1,10 +1,47 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-14 15:10:34 UTC
+**Last Updated:** 2026-09-14 17:58:07 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [AI Changed the Exposure Problem. Validation Needs to Change With It.](https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html)
+### 1. [New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing](https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 14 Sep 2026 22:28:42 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries](https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 14 Sep 2026 22:26:30 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-60004  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution](https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 14 Sep 2026 21:30:04 +0530  
+**Severity:** High  
+**Categories:** Malware  
+
+---
+
+### 4. [⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits](https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 14 Sep 2026 20:10:34 +0530  
+**Severity:** High  
+**Categories:** Vulnerability  
+
+---
+
+### 5. [AI Changed the Exposure Problem. Validation Needs to Change With It.](https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 14 Sep 2026 17:28:00 +0530  
@@ -13,7 +50,7 @@
 
 ---
 
-### 2. [Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users](https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html)
+### 6. [Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users](https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 14 Sep 2026 12:54:39 +0530  
@@ -22,7 +59,7 @@
 
 ---
 
-### 3. [Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data](https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html)
+### 7. [Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data](https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 13 Sep 2026 15:41:48 +0530  
@@ -31,7 +68,7 @@
 
 ---
 
-### 4. [CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV](https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html)
+### 8. [CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV](https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 12 Sep 2026 21:24:45 +0530  
@@ -40,7 +77,7 @@
 
 ---
 
-### 5. [When the Whole Company Adopts AI: What It Does to Your SOC](https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html)
+### 9. [When the Whole Company Adopts AI: What It Does to Your SOC](https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 12 Sep 2026 15:54:44 +0530  
@@ -49,7 +86,7 @@
 
 ---
 
-### 6. [OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers](https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html)
+### 10. [OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers](https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 12 Sep 2026 14:37:56 +0530  
@@ -58,44 +95,17 @@
 
 ---
 
-### 7. [GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure](https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html)
+### 11. [Hackers target exposed Vite dev servers to steal AWS, Azure secrets](https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 11 Sep 2026 22:00:18 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-85706  
+**Source:** Bleeping Computer  
+**Published:** Mon, 14 Sep 2026 12:15:58 -0400  
+**Severity:** High  
+**CVEs:** CVE-2026-39364  
 **Categories:** Vulnerability  
 
 ---
 
-### 8. [Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks](https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 11 Sep 2026 21:45:29 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 9. [Claude Used to Automate Exploitation and Data Theft Across Multiple Victims](https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 11 Sep 2026 19:59:47 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 10. [Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection](https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 11 Sep 2026 19:40:20 +0530  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 11. [Why Patch Automation Needs Brakes, Not Just an Accelerator](https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/)
+### 12. [Why Patch Automation Needs Brakes, Not Just an Accelerator](https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 14 Sep 2026 10:01:11 -0400  
@@ -104,7 +114,7 @@
 
 ---
 
-### 12. [Webinar: How malicious OAuth apps can lead to Google Workspace breaches](https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/)
+### 13. [Webinar: How malicious OAuth apps can lead to Google Workspace breaches](https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 14 Sep 2026 08:15:23 -0400  
@@ -113,7 +123,7 @@
 
 ---
 
-### 13. [Microsoft: September updates cause RDS failures on Windows Server](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-cause-rds-failures-on-windows-server/)
+### 14. [Microsoft: September updates cause RDS failures on Windows Server](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-cause-rds-failures-on-windows-server/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 14 Sep 2026 05:50:25 -0400  
@@ -122,7 +132,7 @@
 
 ---
 
-### 14. [Revolut discloses data breach exposing financial info, passports](https://www.bleepingcomputer.com/news/security/revolut-discloses-data-breach-exposing-financial-info-passports/)
+### 15. [Revolut discloses data breach exposing financial info, passports](https://www.bleepingcomputer.com/news/security/revolut-discloses-data-breach-exposing-financial-info-passports/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 14 Sep 2026 04:48:24 -0400  
@@ -131,7 +141,7 @@
 
 ---
 
-### 15. [Microsoft: September updates break audio on some Windows PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-audio-on-some-windows-pcs/)
+### 16. [Microsoft: September updates break audio on some Windows PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-audio-on-some-windows-pcs/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 14 Sep 2026 04:08:16 -0400  
@@ -140,7 +150,7 @@
 
 ---
 
-### 16. [CISA: Hackers now exploit max severity GitLab flaw in attacks](https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-max-severity-gitlab-flaw-in-attacks/)
+### 17. [CISA: Hackers now exploit max severity GitLab flaw in attacks](https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-max-severity-gitlab-flaw-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 14 Sep 2026 03:06:27 -0400  
@@ -150,7 +160,7 @@
 
 ---
 
-### 17. [Hackers exploit Tencent app flaw to deploy GrayRabbit malware](https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/)
+### 18. [Hackers exploit Tencent app flaw to deploy GrayRabbit malware](https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 13 Sep 2026 10:26:32 -0400  
@@ -160,17 +170,17 @@
 
 ---
 
-### 18. [Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent](https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/)
+### 19. [Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent](https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 12 Sep 2026 10:14:32 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-85103, CVE-2026-85102  
+**CVEs:** CVE-2026-85102, CVE-2026-85103  
 **Categories:** Vulnerability  
 
 ---
 
-### 19. [Hackers abused Claude to extract secrets from 1.8M Android apps](https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/)
+### 20. [Hackers abused Claude to extract secrets from 1.8M Android apps](https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 11 Sep 2026 16:19:09 -0400  
@@ -179,21 +189,12 @@
 
 ---
 
-### 20. [Florida confirms DMV database breached via stolen police account](https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 11 Sep 2026 15:00:29 -0400  
-**Severity:** High  
-**Categories:** Data Breach  
-
----
-
 ### 21. [Microsoft Plugs Nearly 1,000 Security Holes](https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69730, CVE-2026-81963, CVE-2026-69829, CVE-2026-85880  
+**CVEs:** CVE-2026-69829, CVE-2026-69730, CVE-2026-81963, CVE-2026-85880  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -350,7 +351,7 @@
 **Source:** Security Week  
 **Published:** Mon, 14 Sep 2026 09:27:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-42018, CVE-2026-42016, CVE-2026-82329  
+**CVEs:** CVE-2026-82329, CVE-2026-42018, CVE-2026-42016  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -388,7 +389,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 09 Sep 2026 16:08:59 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20316, CVE-2026-20079  
+**CVEs:** CVE-2026-20079, CVE-2026-20316  
 **Categories:** Ransomware, Vulnerability, Malware, APT  
 
 ---
@@ -398,7 +399,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 08 Sep 2026 22:16:35 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81963, CVE-2026-69852, CVE-2026-69676, CVE-2026-85880  
+**CVEs:** CVE-2026-69676, CVE-2026-69852, CVE-2026-81963, CVE-2026-85880  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -466,7 +467,16 @@
 
 ---
 
-### 51. [The Intelligible World of Agents](https://www.recordedfuture.com/blog/intelligible-world-agents)
+### 51. [What is Proactive Threat Intelligence? | Recorded Future](https://www.recordedfuture.com/blog/proactive-threat-intelligence)
+
+**Source:** Recorded Future  
+**Published:** Mon, 14 Sep 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 52. [The Intelligible World of Agents](https://www.recordedfuture.com/blog/intelligible-world-agents)
 
 **Source:** Recorded Future  
 **Published:** Thu, 10 Sep 2026 00:00:00 GMT  
@@ -475,7 +485,7 @@
 
 ---
 
-### 52. [Recorded Future Launches Digital Risk Protection, Unifying Brand and Identity Monitoring](https://www.recordedfuture.com/blog/unified-brand-identity-monitoring)
+### 53. [Recorded Future Launches Digital Risk Protection, Unifying Brand and Identity Monitoring](https://www.recordedfuture.com/blog/unified-brand-identity-monitoring)
 
 **Source:** Recorded Future  
 **Published:** Wed, 09 Sep 2026 00:00:00 GMT  
@@ -484,7 +494,7 @@
 
 ---
 
-### 53. [August 2026 CVE Landscape](https://www.recordedfuture.com/blog/august-2026-cve-landscape)
+### 54. [August 2026 CVE Landscape](https://www.recordedfuture.com/blog/august-2026-cve-landscape)
 
 **Source:** Recorded Future  
 **Published:** Tue, 08 Sep 2026 00:00:00 GMT  
@@ -493,7 +503,7 @@
 
 ---
 
-### 54. [Recorded Future Announces Automated Signature Creation, Accelerating Vulnerability Prioritization](https://www.recordedfuture.com/blog/automated-signature-creation)
+### 55. [Recorded Future Announces Automated Signature Creation, Accelerating Vulnerability Prioritization](https://www.recordedfuture.com/blog/automated-signature-creation)
 
 **Source:** Recorded Future  
 **Published:** Fri, 04 Sep 2026 00:00:00 GMT  
@@ -502,7 +512,7 @@
 
 ---
 
-### 55. [H1 2026 Malware Vulnerability Trends](https://www.recordedfuture.com/research/h1-2026-malware-vulnerability-trends)
+### 56. [H1 2026 Malware Vulnerability Trends](https://www.recordedfuture.com/research/h1-2026-malware-vulnerability-trends)
 
 **Source:** Recorded Future  
 **Published:** Thu, 03 Sep 2026 00:00:00 GMT  
@@ -511,7 +521,7 @@
 
 ---
 
-### 56. [The Agentic SOC – From AI Theater to Real Defense](https://www.recordedfuture.com/blog/agentic-soc-real-defense)
+### 57. [The Agentic SOC – From AI Theater to Real Defense](https://www.recordedfuture.com/blog/agentic-soc-real-defense)
 
 **Source:** Recorded Future  
 **Published:** Tue, 01 Sep 2026 00:00:00 GMT  
@@ -520,7 +530,7 @@
 
 ---
 
-### 57. [BlueDelta Targets Defense and Diplomacy with HOOKEDGE](https://www.recordedfuture.com/research/bluedelta-targets-with-hookedge)
+### 58. [BlueDelta Targets Defense and Diplomacy with HOOKEDGE](https://www.recordedfuture.com/research/bluedelta-targets-with-hookedge)
 
 **Source:** Recorded Future  
 **Published:** Thu, 27 Aug 2026 00:00:00 GMT  
@@ -529,7 +539,7 @@
 
 ---
 
-### 58. [Recorded Future Launches AI Alert Filtering](https://www.recordedfuture.com/blog/ai-alert-filtering)
+### 59. [Recorded Future Launches AI Alert Filtering](https://www.recordedfuture.com/blog/ai-alert-filtering)
 
 **Source:** Recorded Future  
 **Published:** Wed, 26 Aug 2026 00:00:00 GMT  
@@ -538,21 +548,12 @@
 
 ---
 
-### 59. [Mexico’s Cybersecurity Plan 2025-2030: Turning Ambition Into Defense](https://www.recordedfuture.com/blog/mexico-cybersecurity-plan)
+### 60. [Mexico’s Cybersecurity Plan 2025-2030: Turning Ambition Into Defense](https://www.recordedfuture.com/blog/mexico-cybersecurity-plan)
 
 **Source:** Recorded Future  
 **Published:** Tue, 25 Aug 2026 00:00:00 GMT  
 **Severity:** Low  
 **Categories:** Ransomware  
-
----
-
-### 60. [Recorded Future Launches 6 New Capabilities for Third-Party Risk](https://www.recordedfuture.com/blog/native-risk-ratings)
-
-**Source:** Recorded Future  
-**Published:** Wed, 19 Aug 2026 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** Supply Chain  
 
 ---
 
