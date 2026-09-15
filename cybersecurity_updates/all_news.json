@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "BambooToken Malware Uses MQTT to Control Windows and Linux Systems",
+    "link": "https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html",
+    "published": "Tue, 15 Sep 2026 20:53:19 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a multi-platform campaign that uses the Message Queueing Telemetry Transport (MQTT) protocol as a communication channel to control Windows and Linux systems.\n\nThe emerging malware family, codenamed BambooToken, is assessed to be active since at least February 2023 and put to use in attacks targeting organizations across Asia and South America.",
+    "analysis": {
+      "issue": "BambooToken uses MQTT for C2 across Windows and Linux, with a dozen compromised entities detected in Asia and South America",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds",
     "link": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html",
     "published": "Tue, 15 Sep 2026 17:22:28 +0530",
@@ -167,19 +185,78 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
-    "link": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
-    "published": "Mon, 14 Sep 2026 22:26:30 +0530",
-    "summary": "A suspected Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a multi-national campaign.\n\n\"Red Heron scanned 1,386 Gitea instances across seven countries and maintained a separate dataset of 477 Taiwan-based systems,\" Acronis Threat Research Unit (TRU)",
+    "source": "Bleeping Computer",
+    "title": "CenterPoint Energy confirms customer data stolen in cyberattack",
+    "link": "https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/",
+    "published": "Tue, 15 Sep 2026 12:40:14 -0400",
+    "summary": "CenterPoint Energy disclosed a breach compromising some customers' personal information after an attacker leaked data allegedly stolen from the utility company. [...]",
     "analysis": {
-      "issue": "Red Heron exploited Gitea CVE-2026-60004 to steal repositories, collect credentials, persist, and move laterally across victim networks",
+      "issue": "CenterPoint Energy disclosed a breach compromising some customers’ personal information after an attacker leaked data allegedly stolen from the utility company",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "BambooToken malware controls Windows and Linux systems via MQTT",
+    "link": "https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/",
+    "published": "Tue, 15 Sep 2026 11:00:00 -0400",
+    "summary": "A previously unknown malware framework called BambooToken, active since at least 2023, is now using the Message Queuing Telemetry Transport (MQTT) protocol to communicate with Windows and Linux systems. [...]",
+    "analysis": {
+      "issue": "A previously unknown malware framework called BambooToken, active since at least 2023, is now using the Message Queuing Telemetry Transport (MQTT) protocol to communicate with Windows and Linux systems",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Hackers target WordPress sites via third-party WooCommerce plugin",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/",
+    "published": "Tue, 15 Sep 2026 10:45:10 -0400",
+    "summary": "Hackers are actively exploiting a critical vulnerability in the WooCommerce Wholesale Lead Capture premium plugin for WordPress to upload a PHP backdoor. [...]",
+    "analysis": {
+      "issue": "Hackers are actively exploiting a critical vulnerability in the WooCommerce Wholesale Lead Capture premium plugin for WordPress to upload a PHP backdoor",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
       "cves": [
-        "CVE-2026-60004"
+        "CVE-2026-27540"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "APT",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "What Zero-Day Response Should Be in the Post-Mythos Era",
+    "link": "https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/",
+    "published": "Tue, 15 Sep 2026 09:45:54 -0400",
+    "summary": "AI is shrinking the time between vulnerability disclosure and exploitation, leaving defenders less time to wait for patches or public exploits. Picus Security explains how exploitability validation, security control testing, and autonomous pentesting can help teams close exposure gaps before attackers arrive. [...]",
+    "analysis": {
+      "issue": "By Sila Ozeren Hacioglu, Security Research Engineer at Picus Security",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2026-1001"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -302,83 +379,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Homebrew 7.0.0 gets built-in GUI, better security controls",
-    "link": "https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/",
-    "published": "Mon, 14 Sep 2026 15:51:04 -0400",
-    "summary": "Homebrew package manager version 7.0.0 has been released with a built-in vulnerability scanner, stronger security controls, and the full release of its native BrewUI graphical interface. [...]",
-    "analysis": {
-      "issue": "Homebrew package manager version 7",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Twitch extension with 30K installs exposes users’ OAuth tokens",
-    "link": "https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/",
-    "published": "Mon, 14 Sep 2026 15:03:51 -0400",
-    "summary": "A browser extension called Twitch Enhanced Viewer | JeetBot, available in the official Chrome and Firefox stores, sends users' Twitch OAuth session tokens to a commercial bot service. [...]",
-    "analysis": {
-      "issue": "A browser extension called Twitch Enhanced Viewer | JeetBot, available in the official Chrome and Firefox stores, sends users’ Twitch OAuth session tokens to a commercial bot service",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "APT",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers hijack HBO Max Reddit account to push malware in ClickFix ads",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/",
-    "published": "Mon, 14 Sep 2026 14:34:16 -0400",
-    "summary": "Hackers compromised HBO Max's official Reddit account and used it to push malicious ads that launched ClickFix attacks to infect Windows and macOS devices with information-stealing malware. [...]",
-    "analysis": {
-      "issue": "Hackers compromised HBO Max's official Reddit account and used it to push malicious ads that launched ClickFix attacks to infect Windows and macOS devices with information-stealing malware",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/",
-    "published": "Mon, 14 Sep 2026 12:15:58 -0400",
-    "summary": "A mass-scanning campaign targeting internet-exposed Vite development servers is attempting to steal cloud credentials and configurations from AWS and Azure deployments. [...]",
-    "analysis": {
-      "issue": "A mass-scanning campaign targeting internet-exposed Vite development servers is attempting to steal cloud credentials and configurations from AWS and Azure deployments",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2026-39364"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Microsoft Plugs Nearly 1,000 Security Holes",
     "link": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
@@ -471,9 +471,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-62832",
         "CVE-2026-68820",
-        "CVE-2026-72971",
-        "CVE-2026-62832"
+        "CVE-2026-72971"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -550,10 +550,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-48561",
-        "CVE-2026-56164",
         "CVE-2026-56155",
-        "CVE-2026-50661"
+        "CVE-2026-48561",
+        "CVE-2026-50661",
+        "CVE-2026-56164"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -582,6 +582,61 @@
   },
   {
     "source": "Security Week",
+    "title": "$1 Million Sandbox Challenge Uncovers Linux Kernel Flaws",
+    "link": "https://www.securityweek.com/1-million-sandbox-challenge-uncovers-linux-kernel-flaws/",
+    "published": "Tue, 15 Sep 2026 16:00:00 +0000",
+    "summary": "<p>AI-assisted researchers flooded Vercel with reports, forcing the company to automate vulnerability triage.</p>\n<p>The post <a href=\"https://www.securityweek.com/1-million-sandbox-challenge-uncovers-linux-kernel-flaws/\">$1 Million Sandbox Challenge Uncovers Linux Kernel Flaws</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "AI-assisted researchers flooded Vercel with reports, forcing the company to automate vulnerability triage",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Exein Secures $270M at $1.7B Valuation for Physical AI Security",
+    "link": "https://www.securityweek.com/exein-secures-270m-at-1-7b-valuation-for-physical-ai-security/",
+    "published": "Tue, 15 Sep 2026 15:45:13 +0000",
+    "summary": "<p>The cybersecurity startup is building a proprietary foundation model and plans to accelerate global expansion.</p>\n<p>The post <a href=\"https://www.securityweek.com/exein-secures-270m-at-1-7b-valuation-for-physical-ai-security/\">Exein Secures $270M at $1.7B Valuation for Physical AI Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The cybersecurity startup is building a proprietary foundation model and plans to accelerate global expansion",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Texas Utility CenterPoint Energy Confirms Breach After Hacker Leaks Data",
+    "link": "https://www.securityweek.com/texas-utility-centerpoint-energy-confirms-breach-after-hacker-leaks-data/",
+    "published": "Tue, 15 Sep 2026 15:30:24 +0000",
+    "summary": "<p>A hacker claims to have stolen 7.5 million customer records after breaching the company’s systems.</p>\n<p>The post <a href=\"https://www.securityweek.com/texas-utility-centerpoint-energy-confirms-breach-after-hacker-leaks-data/\">Texas Utility CenterPoint Energy Confirms Breach After Hacker Leaks Data</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "A hacker claims to have stolen 7",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Thai Broadband Provider Hacked via Fortinet Vulnerability",
     "link": "https://www.securityweek.com/thai-broadband-provider-hacked-via-fortinet-vulnerability/",
     "published": "Tue, 15 Sep 2026 13:33:58 +0000",
@@ -593,13 +648,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-42475",
-        "CVE-2018-13379",
         "CVE-2022-1388",
         "CVE-2024-21762",
-        "CVE-2021-22986",
+        "CVE-2023-46747",
+        "CVE-2018-13379",
+        "CVE-2022-42475",
         "CVE-2023-27997",
-        "CVE-2023-46747"
+        "CVE-2021-22986"
       ],
       "threat_categories": [
         "Data Breach",
@@ -722,70 +777,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-20393",
+        "CVE-2026-76461",
         "CVE-2026-20079",
-        "CVE-2026-20316",
-        "CVE-2026-76461"
+        "CVE-2025-20393",
+        "CVE-2026-20316"
       ],
       "threat_categories": [
         "Vulnerability",
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Beijing Hits Back at Anthropic CEO’s Call to Curb China’s AI Development",
-    "link": "https://www.securityweek.com/beijing-hits-back-at-anthropic-ceos-call-to-curb-chinas-ai-development/",
-    "published": "Mon, 14 Sep 2026 14:28:26 +0000",
-    "summary": "<p>China’s Ministry of Foreign Affairs responded to a question about Amodei’s essay by saying that all parties should work together on AI.</p>\n<p>The post <a href=\"https://www.securityweek.com/beijing-hits-back-at-anthropic-ceos-call-to-curb-chinas-ai-development/\">Beijing Hits Back at Anthropic CEO’s Call to Curb China’s AI Development</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "China’s Ministry of Foreign Affairs responded to a question about Amodei’s essay by saying that all parties should work together on AI",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "New Warnings About the Risks of AI to Humanity Revive a Long-Running Debate",
-    "link": "https://www.securityweek.com/new-warnings-about-the-risks-of-ai-to-humanity-revive-a-long-running-debate/",
-    "published": "Mon, 14 Sep 2026 13:31:15 +0000",
-    "summary": "<p>Concerns over the potential risks of the technology are rising as new AI models become more powerful, heightening both the potential for misuse by people with criminal aims.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-warnings-about-the-risks-of-ai-to-humanity-revive-a-long-running-debate/\">New Warnings About the Risks of AI to Humanity Revive a Long-Running Debate</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Concerns over the potential risks of the technology are rising as new AI models become more powerful, heightening both the potential for misuse by people with criminal aims",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Personal, Financial Info Exposed in Revolut Data Breach",
-    "link": "https://www.securityweek.com/personal-financial-info-exposed-in-revolut-data-breach/",
-    "published": "Mon, 14 Sep 2026 13:03:35 +0000",
-    "summary": "<p>The company unintentionally disclosed users’ information to a third party impersonating a government agency.</p>\n<p>The post <a href=\"https://www.securityweek.com/personal-financial-info-exposed-in-revolut-data-breach/\">Personal, Financial Info Exposed in Revolut Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The company unintentionally disclosed users’ information to a third party impersonating a government agency",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability",
-        "Phishing"
       ]
     }
   },
@@ -845,9 +844,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-69852",
-        "CVE-2026-69676",
         "CVE-2026-81963",
-        "CVE-2026-85880"
+        "CVE-2026-85880",
+        "CVE-2026-69676"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -981,6 +980,26 @@
       "threat_categories": [
         "Vulnerability",
         "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "Tajin Group: Guarantee Marketplace Vendor Involved in Phishing and Chinese Money Laundering Group",
+    "link": "https://www.recordedfuture.com/research/tajin-group-gurantee-marketplace",
+    "published": "Tue, 15 Sep 2026 00:00:00 GMT",
+    "summary": "Analyze Tajin Group's role in phishing and Chinese money laundering. Discover how this Telegram-based vendor exploits payment gateways and adapts its financial fraud operations.",
+    "analysis": {
+      "issue": "Analyze Tajin Group's role in phishing and Chinese money laundering",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing",
+        "APT"
       ]
     }
   },
@@ -1146,24 +1165,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Mexico’s Cybersecurity Plan 2025-2030: Turning Ambition Into Defense",
-    "link": "https://www.recordedfuture.com/blog/mexico-cybersecurity-plan",
-    "published": "Tue, 25 Aug 2026 00:00:00 GMT",
-    "summary": "Explore Mexico’s 2025–2030 Cybersecurity Plan. Learn about key threats, including ransomware, and the roadmap for building durable national cyber defenses.",
-    "analysis": {
-      "issue": "Explore Mexico’s 2025–2030 Cybersecurity Plan",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
       ]
     }
   },
@@ -1334,8 +1335,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1360,6 +1361,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "How to opt out of AI chatbot training",
+    "link": "https://www.malwarebytes.com/blog/how-to/2026/09/how-to-opt-out-of-ai-chatbot-training",
+    "published": "Tue, 15 Sep 2026 15:41:44 GMT",
+    "summary": "ChatGPT contractors are reviewing real users' conversations. Here’s how to stop AI companies using your chats for model training.",
+    "analysis": {
+      "issue": "The tech journalists at 404 Media learned that OpenAI is hiring hundreds of contractors to read and review a massive stream of real users’ ChatGPT prompts and responses",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1527,24 +1546,6 @@
       "threat_categories": [
         "Vulnerability",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Will AI kill us all within the next decade?",
-    "link": "https://www.malwarebytes.com/blog/ai/2026/09/will-ai-kill-us-all-within-the-next-decade",
-    "published": "Thu, 10 Sep 2026 12:18:51 GMT",
-    "summary": "AI researchers are warning that the technology could kill us all within the next decade, although they say the risk from current models is low.",
-    "analysis": {
-      "issue": "The Wall Street Journal reports that concerns are rising inside AI labs that competition is pushing tech companies to race toward self-improving models that could spiral out of human control",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
