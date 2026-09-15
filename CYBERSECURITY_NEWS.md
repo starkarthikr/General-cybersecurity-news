@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-14 20:24:26 UTC
+**Last Updated:** 2026-09-15 04:21:35 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,25 @@
 
 ---
 
-### 11. [Homebrew 7.0.0 gets built-in GUI, better security controls](https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/)
+### 11. [Microsoft releases emergency Windows updates to fix RDS failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-windows-updates-to-fix-rds-failures/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 14 Sep 2026 16:52:18 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 12. [Japan's Digital Agency says VPN flaw exposed 246,000 personnel records](https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 14 Sep 2026 16:36:02 -0400  
+**Severity:** Critical  
+**Categories:** Data Breach, Vulnerability  
+
+---
+
+### 13. [Homebrew 7.0.0 gets built-in GUI, better security controls](https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 14 Sep 2026 15:51:04 -0400  
@@ -104,7 +122,7 @@
 
 ---
 
-### 12. [Twitch extension with 30K installs exposes users’ OAuth tokens](https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/)
+### 14. [Twitch extension with 30K installs exposes users’ OAuth tokens](https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 14 Sep 2026 15:03:51 -0400  
@@ -113,7 +131,7 @@
 
 ---
 
-### 13. [Hackers hijack HBO Max Reddit account to push malware in ClickFix ads](https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/)
+### 15. [Hackers hijack HBO Max Reddit account to push malware in ClickFix ads](https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 14 Sep 2026 14:34:16 -0400  
@@ -122,7 +140,7 @@
 
 ---
 
-### 14. [Hackers target exposed Vite dev servers to steal AWS, Azure secrets](https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/)
+### 16. [Hackers target exposed Vite dev servers to steal AWS, Azure secrets](https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 14 Sep 2026 12:15:58 -0400  
@@ -132,7 +150,7 @@
 
 ---
 
-### 15. [Why Patch Automation Needs Brakes, Not Just an Accelerator](https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/)
+### 17. [Why Patch Automation Needs Brakes, Not Just an Accelerator](https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 14 Sep 2026 10:01:11 -0400  
@@ -141,7 +159,7 @@
 
 ---
 
-### 16. [Webinar: How malicious OAuth apps can lead to Google Workspace breaches](https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/)
+### 18. [Webinar: How malicious OAuth apps can lead to Google Workspace breaches](https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 14 Sep 2026 08:15:23 -0400  
@@ -150,7 +168,7 @@
 
 ---
 
-### 17. [Microsoft: September updates cause RDS failures on Windows Server](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-cause-rds-failures-on-windows-server/)
+### 19. [Microsoft: September updates cause RDS failures on Windows Server](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-cause-rds-failures-on-windows-server/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 14 Sep 2026 05:50:25 -0400  
@@ -159,7 +177,7 @@
 
 ---
 
-### 18. [Revolut discloses data breach exposing financial info, passports](https://www.bleepingcomputer.com/news/security/revolut-discloses-data-breach-exposing-financial-info-passports/)
+### 20. [Revolut discloses data breach exposing financial info, passports](https://www.bleepingcomputer.com/news/security/revolut-discloses-data-breach-exposing-financial-info-passports/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 14 Sep 2026 04:48:24 -0400  
@@ -168,31 +186,12 @@
 
 ---
 
-### 19. [Microsoft: September updates break audio on some Windows PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-audio-on-some-windows-pcs/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 14 Sep 2026 04:08:16 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [CISA: Hackers now exploit max severity GitLab flaw in attacks](https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-max-severity-gitlab-flaw-in-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 14 Sep 2026 03:06:27 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-85706  
-**Categories:** Vulnerability  
-
----
-
 ### 21. [Microsoft Plugs Nearly 1,000 Security Holes](https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69730, CVE-2026-81963, CVE-2026-69829, CVE-2026-85880  
+**CVEs:** CVE-2026-69829, CVE-2026-69730, CVE-2026-85880, CVE-2026-81963  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -229,7 +228,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-68820, CVE-2026-62832, CVE-2026-72971  
+**CVEs:** CVE-2026-72971, CVE-2026-62832, CVE-2026-68820  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -266,7 +265,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48561, CVE-2026-50661, CVE-2026-56155, CVE-2026-56164  
+**CVEs:** CVE-2026-48561, CVE-2026-50661, CVE-2026-56164, CVE-2026-56155  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -397,7 +396,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 08 Sep 2026 22:16:35 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69852, CVE-2026-69676, CVE-2026-81963, CVE-2026-85880  
+**CVEs:** CVE-2026-69852, CVE-2026-85880, CVE-2026-69676, CVE-2026-81963  
 **Categories:** Vulnerability, APT  
 
 ---
