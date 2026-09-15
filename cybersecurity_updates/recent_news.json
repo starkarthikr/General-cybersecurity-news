@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens",
+    "link": "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html",
+    "published": "Wed, 16 Sep 2026 00:24:14 +0530",
+    "summary": "Cybersecurity researchers have shed light on a previously undocumented Brazilian banking malware operation that delivers a toolkit called KREMLIN.\n\nElastic Security Labs is tracking the activity under the moniker REF9334. Active since at least May 2025, the threat actor has used lures that impersonate a dozen Brazilian banks and install a malicious browser extension on Google Chrome and",
+    "analysis": {
+      "issue": "KREMLIN targets Brazilian bank users with malicious Chrome and Edge extensions that steal credentials, session tokens, cookies, and browser data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists",
+    "link": "https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html",
+    "published": "Tue, 15 Sep 2026 21:59:51 +0530",
+    "summary": "Cybersecurity agencies in the United States, the United Kingdom, and the Netherlands have detailed a Windows malware that they say Iran's intelligence service uses to spy on dissidents, journalists, and activists around the world.\n\nThe malware is controlled via the Telegram messaging app and can copy a target's emails and chat messages, take screenshots, and activate the microphone to record",
+    "analysis": {
+      "issue": ", and Dutch agencies say Iran’s intelligence service uses Telegram-controlled Windows malware to spy on dissidents and journalists",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "BambooToken Malware Uses MQTT to Control Windows and Linux Systems",
     "link": "https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html",
     "published": "Tue, 15 Sep 2026 20:53:19 +0530",
@@ -138,42 +174,6 @@
     "summary": "Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's memory, so the processor keeps reading old encrypted data as if it were current.\n\nThe attack requires an attacker who already controls the server's software and can briefly access the machine to insert a small circuit",
     "analysis": {
       "issue": "DDRop uses server control and a DDR5 interposer to replay stale encrypted data in Intel TDX, Scalable SGX, and AMD SEV-SNP",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
-    "link": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
-    "published": "Mon, 14 Sep 2026 23:31:49 +0530",
-    "summary": "An attacker was operating inside the network of 3BB, one of Thailand's largest broadband providers, and maintained remote control of internal machines using a legitimate management tool called MeshCentral, threat intelligence firm Hunt.io said.\n\nThe company uncovered the intrusion by examining a server the attacker had left open on the internet, which held the attacker's own tools and a list of",
-    "analysis": {
-      "issue": "Researchers found an attacker with root access inside 3BB using MeshCentral for persistence and targeting subscriber RADIUS databases",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
-    "link": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
-    "published": "Mon, 14 Sep 2026 23:28:16 +0530",
-    "summary": "A flaw in Telegram Desktop let a bot's message plant hidden JavaScript inside chats that users exported to HTML files, security researchers at ExPatch said in a&nbsp;writeup&nbsp;published on September 12.\n\nIn Telegram, the message looked ordinary, with a link button, and the script ran only when someone opened the export file in a web browser. It could then copy every message in that file to",
-    "analysis": {
-      "issue": "Telegram Desktop fixed a flaw that let bot messages embed JavaScript in HTML exports to read or alter messages; old exports remain affected",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -391,10 +391,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69829",
+        "CVE-2026-85880",
         "CVE-2026-81963",
-        "CVE-2026-69730",
-        "CVE-2026-85880"
+        "CVE-2026-69829",
+        "CVE-2026-69730"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -471,9 +471,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-62832",
+        "CVE-2026-72971",
         "CVE-2026-68820",
-        "CVE-2026-72971"
+        "CVE-2026-62832"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -550,10 +550,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56155",
-        "CVE-2026-48561",
         "CVE-2026-50661",
-        "CVE-2026-56164"
+        "CVE-2026-56164",
+        "CVE-2026-48561",
+        "CVE-2026-56155"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -577,6 +577,24 @@
       "threat_categories": [
         "Data Breach",
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "“We Think the Security Control Is Working” Is No Longer Good Enough",
+    "link": "https://www.securityweek.com/we-think-the-security-control-is-working-is-no-longer-good-enough/",
+    "published": "Tue, 15 Sep 2026 19:30:00 +0000",
+    "summary": "<p>Point-in-time audits and sampled assessments offer only snapshots; continuous control monitoring provides evidence that security controls are working today.</p>\n<p>The post <a href=\"https://www.securityweek.com/we-think-the-security-control-is-working-is-no-longer-good-enough/\">“We Think the Security Control Is Working” Is No Longer Good Enough</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Point-in-time audits and sampled assessments offer only snapshots; continuous control monitoring provides evidence that security controls are working today",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "APT"
       ]
     }
   },
@@ -648,13 +666,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2022-42475",
+        "CVE-2021-22986",
         "CVE-2022-1388",
         "CVE-2024-21762",
-        "CVE-2023-46747",
-        "CVE-2018-13379",
-        "CVE-2022-42475",
         "CVE-2023-27997",
-        "CVE-2021-22986"
+        "CVE-2023-46747",
+        "CVE-2018-13379"
       ],
       "threat_categories": [
         "Data Breach",
@@ -716,8 +734,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-64752",
-        "CVE-2022-3437"
+        "CVE-2022-3437",
+        "CVE-2026-64752"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -759,30 +777,6 @@
       "cves": [],
       "threat_categories": [
         "Data Breach",
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Root RCE Zero-Day in Cisco Secure Email Gateway Under Active Exploitation",
-    "link": "https://www.securityweek.com/root-rce-zero-day-in-cisco-secure-email-gateway-under-active-exploitation/",
-    "published": "Tue, 15 Sep 2026 05:18:51 +0000",
-    "summary": "<p>An unauthenticated attacker can exploit CVE-2026-76461 to execute arbitrary commands on the underlying OS with root privileges.</p>\n<p>The post <a href=\"https://www.securityweek.com/root-rce-zero-day-in-cisco-secure-email-gateway-under-active-exploitation/\">Root RCE Zero-Day in Cisco Secure Email Gateway Under Active Exploitation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "An unauthenticated attacker can exploit CVE-2026-76461 to execute arbitrary commands on the underlying OS with root privileges",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-76461",
-        "CVE-2026-20079",
-        "CVE-2025-20393",
-        "CVE-2026-20316"
-      ],
-      "threat_categories": [
         "Vulnerability",
         "Malware"
       ]
@@ -843,9 +837,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-85880",
         "CVE-2026-69852",
         "CVE-2026-81963",
-        "CVE-2026-85880",
         "CVE-2026-69676"
       ],
       "threat_categories": [

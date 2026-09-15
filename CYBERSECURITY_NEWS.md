@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-15 16:41:06 UTC
+**Last Updated:** 2026-09-15 19:47:16 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [BambooToken Malware Uses MQTT to Control Windows and Linux Systems](https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html)
+### 1. [KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens](https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 16 Sep 2026 00:24:14 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 2. [Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists](https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 15 Sep 2026 21:59:51 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 3. [BambooToken Malware Uses MQTT to Control Windows and Linux Systems](https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 15 Sep 2026 20:53:19 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds](https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html)
+### 4. [Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds](https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 15 Sep 2026 17:22:28 +0530  
@@ -23,7 +41,7 @@
 
 ---
 
-### 3. [Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point](https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html)
+### 5. [Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point](https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 15 Sep 2026 16:56:36 +0530  
@@ -32,7 +50,7 @@
 
 ---
 
-### 4. [Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers](https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html)
+### 6. [Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers](https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 15 Sep 2026 16:42:32 +0530  
@@ -41,7 +59,7 @@
 
 ---
 
-### 5. [LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server](https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html)
+### 7. [LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server](https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 15 Sep 2026 12:22:16 +0530  
@@ -50,7 +68,7 @@
 
 ---
 
-### 6. [Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution](https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html)
+### 8. [Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution](https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 15 Sep 2026 11:41:11 +0530  
@@ -60,7 +78,7 @@
 
 ---
 
-### 7. [China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE](https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html)
+### 9. [China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE](https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 15 Sep 2026 11:01:05 +0530  
@@ -69,28 +87,10 @@
 
 ---
 
-### 8. [New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing](https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html)
+### 10. [New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing](https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 14 Sep 2026 23:32:13 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 9. [3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials](https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 14 Sep 2026 23:31:49 +0530  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 10. [Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports](https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 14 Sep 2026 23:28:16 +0530  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -195,7 +195,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69829, CVE-2026-81963, CVE-2026-69730, CVE-2026-85880  
+**CVEs:** CVE-2026-85880, CVE-2026-81963, CVE-2026-69829, CVE-2026-69730  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -232,7 +232,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62832, CVE-2026-68820, CVE-2026-72971  
+**CVEs:** CVE-2026-72971, CVE-2026-68820, CVE-2026-62832  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -269,7 +269,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56155, CVE-2026-48561, CVE-2026-50661, CVE-2026-56164  
+**CVEs:** CVE-2026-50661, CVE-2026-56164, CVE-2026-48561, CVE-2026-56155  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -283,7 +283,16 @@
 
 ---
 
-### 31. [$1 Million Sandbox Challenge Uncovers Linux Kernel Flaws](https://www.securityweek.com/1-million-sandbox-challenge-uncovers-linux-kernel-flaws/)
+### 31. [“We Think the Security Control Is Working” Is No Longer Good Enough](https://www.securityweek.com/we-think-the-security-control-is-working-is-no-longer-good-enough/)
+
+**Source:** Security Week  
+**Published:** Tue, 15 Sep 2026 19:30:00 +0000  
+**Severity:** Critical  
+**Categories:** APT  
+
+---
+
+### 32. [$1 Million Sandbox Challenge Uncovers Linux Kernel Flaws](https://www.securityweek.com/1-million-sandbox-challenge-uncovers-linux-kernel-flaws/)
 
 **Source:** Security Week  
 **Published:** Tue, 15 Sep 2026 16:00:00 +0000  
@@ -292,7 +301,7 @@
 
 ---
 
-### 32. [Exein Secures $270M at $1.7B Valuation for Physical AI Security](https://www.securityweek.com/exein-secures-270m-at-1-7b-valuation-for-physical-ai-security/)
+### 33. [Exein Secures $270M at $1.7B Valuation for Physical AI Security](https://www.securityweek.com/exein-secures-270m-at-1-7b-valuation-for-physical-ai-security/)
 
 **Source:** Security Week  
 **Published:** Tue, 15 Sep 2026 15:45:13 +0000  
@@ -301,7 +310,7 @@
 
 ---
 
-### 33. [Texas Utility CenterPoint Energy Confirms Breach After Hacker Leaks Data](https://www.securityweek.com/texas-utility-centerpoint-energy-confirms-breach-after-hacker-leaks-data/)
+### 34. [Texas Utility CenterPoint Energy Confirms Breach After Hacker Leaks Data](https://www.securityweek.com/texas-utility-centerpoint-energy-confirms-breach-after-hacker-leaks-data/)
 
 **Source:** Security Week  
 **Published:** Tue, 15 Sep 2026 15:30:24 +0000  
@@ -310,17 +319,17 @@
 
 ---
 
-### 34. [Thai Broadband Provider Hacked via Fortinet Vulnerability](https://www.securityweek.com/thai-broadband-provider-hacked-via-fortinet-vulnerability/)
+### 35. [Thai Broadband Provider Hacked via Fortinet Vulnerability](https://www.securityweek.com/thai-broadband-provider-hacked-via-fortinet-vulnerability/)
 
 **Source:** Security Week  
 **Published:** Tue, 15 Sep 2026 13:33:58 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-1388, CVE-2024-21762, CVE-2023-46747, CVE-2018-13379, CVE-2022-42475, CVE-2023-27997, CVE-2021-22986  
+**CVEs:** CVE-2022-42475, CVE-2021-22986, CVE-2022-1388, CVE-2024-21762, CVE-2023-27997, CVE-2023-46747, CVE-2018-13379  
 **Categories:** Data Breach, Vulnerability, Malware  
 
 ---
 
-### 35. [OpenAI Investigates Report Linking AI Agents to RubyGems Attack](https://www.securityweek.com/openai-investigates-report-linking-ai-agents-to-rubygems-attack/)
+### 36. [OpenAI Investigates Report Linking AI Agents to RubyGems Attack](https://www.securityweek.com/openai-investigates-report-linking-ai-agents-to-rubygems-attack/)
 
 **Source:** Security Week  
 **Published:** Tue, 15 Sep 2026 12:42:32 +0000  
@@ -329,7 +338,7 @@
 
 ---
 
-### 36. [240,000 Hit by Data Breach at Japan’s Digital Agency](https://www.securityweek.com/240000-hit-by-data-breach-at-japans-digital-agency/)
+### 37. [240,000 Hit by Data Breach at Japan’s Digital Agency](https://www.securityweek.com/240000-hit-by-data-breach-at-japans-digital-agency/)
 
 **Source:** Security Week  
 **Published:** Tue, 15 Sep 2026 11:45:31 +0000  
@@ -338,17 +347,17 @@
 
 ---
 
-### 37. [Apple Patches 200 Vulnerabilities With New iOS 27, macOS Golden Gate 27 Releases](https://www.securityweek.com/apple-patches-200-vulnerabilities-with-new-ios-27-macos-golden-gate-27-releases/)
+### 38. [Apple Patches 200 Vulnerabilities With New iOS 27, macOS Golden Gate 27 Releases](https://www.securityweek.com/apple-patches-200-vulnerabilities-with-new-ios-27-macos-golden-gate-27-releases/)
 
 **Source:** Security Week  
 **Published:** Tue, 15 Sep 2026 11:06:11 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-64752, CVE-2022-3437  
+**CVEs:** CVE-2022-3437, CVE-2026-64752  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 38. [Microsoft AI Code of Conduct Sets Cyberattack Boundaries, Chain of Command, Safety Constraints](https://www.securityweek.com/microsoft-ai-code-of-conduct-sets-cyberattack-boundaries-chain-of-command-safety-constraints/)
+### 39. [Microsoft AI Code of Conduct Sets Cyberattack Boundaries, Chain of Command, Safety Constraints](https://www.securityweek.com/microsoft-ai-code-of-conduct-sets-cyberattack-boundaries-chain-of-command-safety-constraints/)
 
 **Source:** Security Week  
 **Published:** Tue, 15 Sep 2026 09:40:25 +0000  
@@ -357,22 +366,12 @@
 
 ---
 
-### 39. [Hacked HBO Max Reddit Account Used for Malware Delivery via ClickFix Attack](https://www.securityweek.com/hacked-hbo-reddit-account-used-for-malware-delivery-via-clickfix-attack/)
+### 40. [Hacked HBO Max Reddit Account Used for Malware Delivery via ClickFix Attack](https://www.securityweek.com/hacked-hbo-reddit-account-used-for-malware-delivery-via-clickfix-attack/)
 
 **Source:** Security Week  
 **Published:** Tue, 15 Sep 2026 09:09:00 +0000  
 **Severity:** Critical  
 **Categories:** Data Breach, Vulnerability, Malware  
-
----
-
-### 40. [Root RCE Zero-Day in Cisco Secure Email Gateway Under Active Exploitation](https://www.securityweek.com/root-rce-zero-day-in-cisco-secure-email-gateway-under-active-exploitation/)
-
-**Source:** Security Week  
-**Published:** Tue, 15 Sep 2026 05:18:51 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-76461, CVE-2026-20079, CVE-2025-20393, CVE-2026-20316  
-**Categories:** Vulnerability, Malware  
 
 ---
 
@@ -400,7 +399,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 08 Sep 2026 22:16:35 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69852, CVE-2026-81963, CVE-2026-85880, CVE-2026-69676  
+**CVEs:** CVE-2026-85880, CVE-2026-69852, CVE-2026-81963, CVE-2026-69676  
 **Categories:** Vulnerability, APT  
 
 ---
