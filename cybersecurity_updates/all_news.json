@@ -186,6 +186,44 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Acronis warns of actively exploited flaw in its cPanel backup plugin",
+    "link": "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/",
+    "published": "Tue, 15 Sep 2026 17:37:35 -0400",
+    "summary": "Acronis disclosed a high-severity Linux local privilege escalation vulnerability in its backup plugin for cPanel, WebHost Manager (WHM), and Plesk that may be exploited in the wild. [...]",
+    "analysis": {
+      "issue": "Acronis disclosed a high-severity Linux local privilege escalation vulnerability in its backup plugin for cPanel, WebHost Manager (WHM), and Plesk that may be exploited in the wild",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2026-87886"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites",
+    "link": "https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/",
+    "published": "Tue, 15 Sep 2026 16:34:15 -0400",
+    "summary": "Malicious versions of the Admin Menu Editor Pro plugin for WordPress have been distributed to more than 200 customers after a threat actor compromised the maintainer's website and pushed updates that created a hidden user account. [...]",
+    "analysis": {
+      "issue": "Malicious versions of the Admin Menu Editor Pro plugin for WordPress have been distributed to more than 200 customers after a threat actor compromised the maintainer’s website and pushed updates that created a hidden user account",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "CenterPoint Energy confirms customer data stolen in cyberattack",
     "link": "https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/",
     "published": "Tue, 15 Sep 2026 12:40:14 -0400",
@@ -342,43 +380,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Microsoft releases emergency Windows updates to fix RDS failures",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-windows-updates-to-fix-rds-failures/",
-    "published": "Mon, 14 Sep 2026 16:52:18 -0400",
-    "summary": "Microsoft has released emergency out-of-band Windows updates to fix Remote Desktop Services failures caused by this month's security updates, along with Hyper-V and USB audio problems on some Windows versions. [...]",
-    "analysis": {
-      "issue": "Microsoft has released emergency out-of-band Windows updates to fix Remote Desktop Services failures caused by this month's security updates, along with Hyper-V and USB audio problems on some Windows versions",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Japan's Digital Agency says VPN flaw exposed 246,000 personnel records",
-    "link": "https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/",
-    "published": "Mon, 14 Sep 2026 16:36:02 -0400",
-    "summary": "Japan's Digital Agency has discovered a data breach that may have exposed around 246,000 record rows containing personal information of government employees. [...]",
-    "analysis": {
-      "issue": "Japan’s Digital Agency has discovered a data breach that may have exposed around 246,000 record rows containing personal information of government employees",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Microsoft Plugs Nearly 1,000 Security Holes",
     "link": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
@@ -392,9 +393,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-85880",
+        "CVE-2026-69730",
         "CVE-2026-81963",
-        "CVE-2026-69829",
-        "CVE-2026-69730"
+        "CVE-2026-69829"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -471,9 +472,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-72971",
         "CVE-2026-68820",
-        "CVE-2026-62832"
+        "CVE-2026-62832",
+        "CVE-2026-72971"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -550,10 +551,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-56155",
         "CVE-2026-50661",
         "CVE-2026-56164",
-        "CVE-2026-48561",
-        "CVE-2026-56155"
+        "CVE-2026-48561"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -577,6 +578,24 @@
       "threat_categories": [
         "Data Breach",
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Microsoft Commits to Sweeping AI Privacy Rules for Students. Will Other Tech Giants Follow?",
+    "link": "https://www.securityweek.com/microsoft-commits-to-sweeping-ai-privacy-rules-for-students-will-other-tech-giants-follow/",
+    "published": "Tue, 15 Sep 2026 20:24:51 +0000",
+    "summary": "<p>Microsoft agreed to adopt guardrails and privacy standards for its AI in schools, as negotiated with the American Federation of Teachers.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-commits-to-sweeping-ai-privacy-rules-for-students-will-other-tech-giants-follow/\">Microsoft Commits to Sweeping AI Privacy Rules for Students. Will Other Tech Giants Follow?</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Microsoft agreed to adopt guardrails and privacy standards for its AI in schools, as negotiated with the American Federation of Teachers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
       ]
     }
   },
@@ -666,13 +685,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-42475",
-        "CVE-2021-22986",
-        "CVE-2022-1388",
-        "CVE-2024-21762",
         "CVE-2023-27997",
-        "CVE-2023-46747",
-        "CVE-2018-13379"
+        "CVE-2024-21762",
+        "CVE-2022-1388",
+        "CVE-2018-13379",
+        "CVE-2021-22986",
+        "CVE-2022-42475",
+        "CVE-2023-46747"
       ],
       "threat_categories": [
         "Data Breach",
@@ -757,26 +776,6 @@
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Hacked HBO Max Reddit Account Used for Malware Delivery via ClickFix Attack",
-    "link": "https://www.securityweek.com/hacked-hbo-reddit-account-used-for-malware-delivery-via-clickfix-attack/",
-    "published": "Tue, 15 Sep 2026 09:09:00 +0000",
-    "summary": "<p>Ads led to a ClickFix page designed to trick macOS and Windows users into installing malware.</p>\n<p>The post <a href=\"https://www.securityweek.com/hacked-hbo-reddit-account-used-for-malware-delivery-via-clickfix-attack/\">Hacked HBO Max Reddit Account Used for Malware Delivery via ClickFix Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Ads led to a ClickFix page designed to trick macOS and Windows users into installing malware",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
         "Vulnerability",
         "Malware"
       ]

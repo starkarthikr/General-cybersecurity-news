@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-15 19:47:16 UTC
+**Last Updated:** 2026-09-16 04:17:06 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -96,7 +96,26 @@
 
 ---
 
-### 11. [CenterPoint Energy confirms customer data stolen in cyberattack](https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/)
+### 11. [Acronis warns of actively exploited flaw in its cPanel backup plugin](https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 15 Sep 2026 17:37:35 -0400  
+**Severity:** High  
+**CVEs:** CVE-2026-87886  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites](https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 15 Sep 2026 16:34:15 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 13. [CenterPoint Energy confirms customer data stolen in cyberattack](https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 15 Sep 2026 12:40:14 -0400  
@@ -105,7 +124,7 @@
 
 ---
 
-### 12. [BambooToken malware controls Windows and Linux systems via MQTT](https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/)
+### 14. [BambooToken malware controls Windows and Linux systems via MQTT](https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 15 Sep 2026 11:00:00 -0400  
@@ -114,7 +133,7 @@
 
 ---
 
-### 13. [Hackers target WordPress sites via third-party WooCommerce plugin](https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/)
+### 15. [Hackers target WordPress sites via third-party WooCommerce plugin](https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 15 Sep 2026 10:45:10 -0400  
@@ -124,7 +143,7 @@
 
 ---
 
-### 14. [What Zero-Day Response Should Be in the Post-Mythos Era](https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/)
+### 16. [What Zero-Day Response Should Be in the Post-Mythos Era](https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 15 Sep 2026 09:45:54 -0400  
@@ -134,7 +153,7 @@
 
 ---
 
-### 15. [CISA: Critical VMware RCE flaw now exploited by ransomware gangs](https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/)
+### 17. [CISA: Critical VMware RCE flaw now exploited by ransomware gangs](https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 15 Sep 2026 08:16:32 -0400  
@@ -144,7 +163,7 @@
 
 ---
 
-### 16. [Suspected Black Axe gang leaders face cybercrime charges in the US](https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/)
+### 18. [Suspected Black Axe gang leaders face cybercrime charges in the US](https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 15 Sep 2026 05:50:25 -0400  
@@ -153,7 +172,7 @@
 
 ---
 
-### 17. [Microsoft confirms KB5002914 Excel update breaks copy and paste](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/)
+### 19. [Microsoft confirms KB5002914 Excel update breaks copy and paste](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 15 Sep 2026 04:40:20 -0400  
@@ -162,7 +181,7 @@
 
 ---
 
-### 18. [Cisco patches Secure Email Gateway zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/)
+### 20. [Cisco patches Secure Email Gateway zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 15 Sep 2026 03:31:09 -0400  
@@ -172,30 +191,12 @@
 
 ---
 
-### 19. [Microsoft releases emergency Windows updates to fix RDS failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-windows-updates-to-fix-rds-failures/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 14 Sep 2026 16:52:18 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [Japan's Digital Agency says VPN flaw exposed 246,000 personnel records](https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 14 Sep 2026 16:36:02 -0400  
-**Severity:** Critical  
-**Categories:** Data Breach, Vulnerability  
-
----
-
 ### 21. [Microsoft Plugs Nearly 1,000 Security Holes](https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-85880, CVE-2026-81963, CVE-2026-69829, CVE-2026-69730  
+**CVEs:** CVE-2026-85880, CVE-2026-69730, CVE-2026-81963, CVE-2026-69829  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -232,7 +233,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-72971, CVE-2026-68820, CVE-2026-62832  
+**CVEs:** CVE-2026-68820, CVE-2026-62832, CVE-2026-72971  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -269,7 +270,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50661, CVE-2026-56164, CVE-2026-48561, CVE-2026-56155  
+**CVEs:** CVE-2026-56155, CVE-2026-50661, CVE-2026-56164, CVE-2026-48561  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -283,7 +284,16 @@
 
 ---
 
-### 31. [“We Think the Security Control Is Working” Is No Longer Good Enough](https://www.securityweek.com/we-think-the-security-control-is-working-is-no-longer-good-enough/)
+### 31. [Microsoft Commits to Sweeping AI Privacy Rules for Students. Will Other Tech Giants Follow?](https://www.securityweek.com/microsoft-commits-to-sweeping-ai-privacy-rules-for-students-will-other-tech-giants-follow/)
+
+**Source:** Security Week  
+**Published:** Tue, 15 Sep 2026 20:24:51 +0000  
+**Severity:** High  
+**Categories:** Supply Chain  
+
+---
+
+### 32. [“We Think the Security Control Is Working” Is No Longer Good Enough](https://www.securityweek.com/we-think-the-security-control-is-working-is-no-longer-good-enough/)
 
 **Source:** Security Week  
 **Published:** Tue, 15 Sep 2026 19:30:00 +0000  
@@ -292,7 +302,7 @@
 
 ---
 
-### 32. [$1 Million Sandbox Challenge Uncovers Linux Kernel Flaws](https://www.securityweek.com/1-million-sandbox-challenge-uncovers-linux-kernel-flaws/)
+### 33. [$1 Million Sandbox Challenge Uncovers Linux Kernel Flaws](https://www.securityweek.com/1-million-sandbox-challenge-uncovers-linux-kernel-flaws/)
 
 **Source:** Security Week  
 **Published:** Tue, 15 Sep 2026 16:00:00 +0000  
@@ -301,7 +311,7 @@
 
 ---
 
-### 33. [Exein Secures $270M at $1.7B Valuation for Physical AI Security](https://www.securityweek.com/exein-secures-270m-at-1-7b-valuation-for-physical-ai-security/)
+### 34. [Exein Secures $270M at $1.7B Valuation for Physical AI Security](https://www.securityweek.com/exein-secures-270m-at-1-7b-valuation-for-physical-ai-security/)
 
 **Source:** Security Week  
 **Published:** Tue, 15 Sep 2026 15:45:13 +0000  
@@ -310,7 +320,7 @@
 
 ---
 
-### 34. [Texas Utility CenterPoint Energy Confirms Breach After Hacker Leaks Data](https://www.securityweek.com/texas-utility-centerpoint-energy-confirms-breach-after-hacker-leaks-data/)
+### 35. [Texas Utility CenterPoint Energy Confirms Breach After Hacker Leaks Data](https://www.securityweek.com/texas-utility-centerpoint-energy-confirms-breach-after-hacker-leaks-data/)
 
 **Source:** Security Week  
 **Published:** Tue, 15 Sep 2026 15:30:24 +0000  
@@ -319,17 +329,17 @@
 
 ---
 
-### 35. [Thai Broadband Provider Hacked via Fortinet Vulnerability](https://www.securityweek.com/thai-broadband-provider-hacked-via-fortinet-vulnerability/)
+### 36. [Thai Broadband Provider Hacked via Fortinet Vulnerability](https://www.securityweek.com/thai-broadband-provider-hacked-via-fortinet-vulnerability/)
 
 **Source:** Security Week  
 **Published:** Tue, 15 Sep 2026 13:33:58 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-42475, CVE-2021-22986, CVE-2022-1388, CVE-2024-21762, CVE-2023-27997, CVE-2023-46747, CVE-2018-13379  
+**CVEs:** CVE-2023-27997, CVE-2024-21762, CVE-2022-1388, CVE-2018-13379, CVE-2021-22986, CVE-2022-42475, CVE-2023-46747  
 **Categories:** Data Breach, Vulnerability, Malware  
 
 ---
 
-### 36. [OpenAI Investigates Report Linking AI Agents to RubyGems Attack](https://www.securityweek.com/openai-investigates-report-linking-ai-agents-to-rubygems-attack/)
+### 37. [OpenAI Investigates Report Linking AI Agents to RubyGems Attack](https://www.securityweek.com/openai-investigates-report-linking-ai-agents-to-rubygems-attack/)
 
 **Source:** Security Week  
 **Published:** Tue, 15 Sep 2026 12:42:32 +0000  
@@ -338,7 +348,7 @@
 
 ---
 
-### 37. [240,000 Hit by Data Breach at Japan’s Digital Agency](https://www.securityweek.com/240000-hit-by-data-breach-at-japans-digital-agency/)
+### 38. [240,000 Hit by Data Breach at Japan’s Digital Agency](https://www.securityweek.com/240000-hit-by-data-breach-at-japans-digital-agency/)
 
 **Source:** Security Week  
 **Published:** Tue, 15 Sep 2026 11:45:31 +0000  
@@ -347,7 +357,7 @@
 
 ---
 
-### 38. [Apple Patches 200 Vulnerabilities With New iOS 27, macOS Golden Gate 27 Releases](https://www.securityweek.com/apple-patches-200-vulnerabilities-with-new-ios-27-macos-golden-gate-27-releases/)
+### 39. [Apple Patches 200 Vulnerabilities With New iOS 27, macOS Golden Gate 27 Releases](https://www.securityweek.com/apple-patches-200-vulnerabilities-with-new-ios-27-macos-golden-gate-27-releases/)
 
 **Source:** Security Week  
 **Published:** Tue, 15 Sep 2026 11:06:11 +0000  
@@ -357,21 +367,12 @@
 
 ---
 
-### 39. [Microsoft AI Code of Conduct Sets Cyberattack Boundaries, Chain of Command, Safety Constraints](https://www.securityweek.com/microsoft-ai-code-of-conduct-sets-cyberattack-boundaries-chain-of-command-safety-constraints/)
+### 40. [Microsoft AI Code of Conduct Sets Cyberattack Boundaries, Chain of Command, Safety Constraints](https://www.securityweek.com/microsoft-ai-code-of-conduct-sets-cyberattack-boundaries-chain-of-command-safety-constraints/)
 
 **Source:** Security Week  
 **Published:** Tue, 15 Sep 2026 09:40:25 +0000  
 **Severity:** Low  
 **Categories:** Vulnerability, Malware  
-
----
-
-### 40. [Hacked HBO Max Reddit Account Used for Malware Delivery via ClickFix Attack](https://www.securityweek.com/hacked-hbo-reddit-account-used-for-malware-delivery-via-clickfix-attack/)
-
-**Source:** Security Week  
-**Published:** Tue, 15 Sep 2026 09:09:00 +0000  
-**Severity:** Critical  
-**Categories:** Data Breach, Vulnerability, Malware  
 
 ---
 
