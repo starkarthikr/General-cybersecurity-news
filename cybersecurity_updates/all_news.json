@@ -193,6 +193,43 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Malware bypasses browser checks to force install Chrome, Edge extensions",
+    "link": "https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/",
+    "published": "Wed, 16 Sep 2026 14:50:53 -0400",
+    "summary": "A banking malware operation active since mid-2025 has been using a toolkit named KREMLIN to install malicious Chrome and Edge extensions that steal credentials, session tokens, and sensitive data. [...]",
+    "analysis": {
+      "issue": "A banking malware operation active since mid-2025 has been using a toolkit named KREMLIN to install malicious Chrome and Edge extensions that steal credentials, session tokens, and sensitive data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Spain's data agency gets first report of AI-powered data breach",
+    "link": "https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/",
+    "published": "Wed, 16 Sep 2026 13:26:41 -0400",
+    "summary": "The Spanish Data Protection Agency (AEPD) was notified of an attack allegedly carried out with an AI agent powered by a known large language model (LLM). [...]",
+    "analysis": {
+      "issue": "The Spanish Data Protection Agency (AEPD) was notified of an attack allegedly carried out with an AI agent powered by a known large language model (LLM)",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "The true cost of a ransomware attack, with and without BCDR",
     "link": "https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/",
     "published": "Wed, 16 Sep 2026 10:00:10 -0400",
@@ -217,7 +254,7 @@
     "published": "Wed, 16 Sep 2026 08:16:32 -0400",
     "summary": "Microsoft says it's still investigating a known issue that causes the Copilot and Copilot Chat buttons in Classic Outlook to disappear for some Windows users. [...]",
     "analysis": {
-      "issue": "Microsoft says it's still investigating a known issue that causes the Copilot and Copilot Chat buttons in Classic Outlook to disappear for some Windows users",
+      "issue": "Microsoft says it's still investigating a known issue that causes the Copilot and Copilot Chat buttons in classic Outlook to disappear for some Windows users",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -344,38 +381,20 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "CenterPoint Energy confirms customer data stolen in cyberattack",
-    "link": "https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/",
-    "published": "Tue, 15 Sep 2026 12:40:14 -0400",
-    "summary": "CenterPoint Energy disclosed a breach compromising some customers' personal information after an attacker leaked data allegedly stolen from the utility company. [...]",
+    "source": "Krebs On Security",
+    "title": "Data Broker Radaris Loses Domains in Privacy Fight",
+    "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
+    "published": "Wed, 16 Sep 2026 18:14:22 +0000",
+    "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines against data brokers that publish personal information on state law enforcement officials. In the face of repeated stonewalling and prevarication by attorneys for Radaris, the judge in the case ordered that radaris.com and more than a dozen other data broker domains be transferred to the plaintiffs.",
     "analysis": {
-      "issue": "CenterPoint Energy disclosed a breach compromising some customers’ personal information after an attacker leaked data allegedly stolen from the utility company",
+      "issue": "The consumer data broker Radaris",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "BambooToken malware controls Windows and Linux systems via MQTT",
-    "link": "https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/",
-    "published": "Tue, 15 Sep 2026 11:00:00 -0400",
-    "summary": "A previously unknown malware framework called BambooToken, active since at least 2023, is now using the Message Queuing Telemetry Transport (MQTT) protocol to communicate with Windows and Linux systems. [...]",
-    "analysis": {
-      "issue": "A previously unknown malware framework called BambooToken, active since at least 2023, is now using the Message Queuing Telemetry Transport (MQTT) protocol to communicate with Windows and Linux systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
+        "General Security"
       ]
     }
   },
@@ -393,9 +412,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-69730",
-        "CVE-2026-85880",
         "CVE-2026-81963",
-        "CVE-2026-69829"
+        "CVE-2026-69829",
+        "CVE-2026-85880"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -472,9 +491,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-72971",
         "CVE-2026-68820",
-        "CVE-2026-62832",
-        "CVE-2026-72971"
+        "CVE-2026-62832"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -551,10 +570,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56164",
-        "CVE-2026-56155",
         "CVE-2026-48561",
-        "CVE-2026-50661"
+        "CVE-2026-56155",
+        "CVE-2026-50661",
+        "CVE-2026-56164"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -563,21 +582,22 @@
     }
   },
   {
-    "source": "Krebs On Security",
-    "title": "Lessons Learned from CISA’s Recent GitHub Leak",
-    "link": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
-    "published": "Mon, 13 Jul 2026 15:03:28 +0000",
-    "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response provide important lessons that all security teams should absorb.",
+    "source": "Security Week",
+    "title": "First Agentic AI Data Breach Reported to Spanish Regulator",
+    "link": "https://www.securityweek.com/first-agentic-ai-data-breach-reported-to-spanish-regulator/",
+    "published": "Wed, 16 Sep 2026 16:39:19 +0000",
+    "summary": "<p>Spanish regulators say an AI agent chained together a successful login, vulnerability discovery, and access to personal data in a potential milestone for autonomous cyberattacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/first-agentic-ai-data-breach-reported-to-spanish-regulator/\">First Agentic AI Data Breach Reported to Spanish Regulator</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
-      "issue": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a recent data leak in which a contractor published dozens of internal CISA credentials — including AWS Govcloud keys — in a public GitHub repository for almost six",
+      "issue": "Spanish regulators say an AI agent chained together a successful login, vulnerability discovery, and access to personal data in a potential milestone for autonomous cyberattacks",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
         "Data Breach",
-        "Vulnerability"
+        "Vulnerability",
+        "Phishing"
       ]
     }
   },
@@ -756,26 +776,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Acronis Patches Exploited Vulnerability in cPanel Backup Plugin",
-    "link": "https://www.securityweek.com/acronis-patches-exploited-vulnerability-in-cpanel-backup-plugin/",
-    "published": "Wed, 16 Sep 2026 09:52:31 +0000",
-    "summary": "<p>CVE-2026-87886 is a high-severity insecure file permissions flaw that can lead to local privilege escalation.</p>\n<p>The post <a href=\"https://www.securityweek.com/acronis-patches-exploited-vulnerability-in-cpanel-backup-plugin/\">Acronis Patches Exploited Vulnerability in cPanel Backup Plugin</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "CVE-2026-87886 is a high-severity insecure file permissions flaw that can lead to local privilege escalation",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-87886"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Securing the unpatchable in an age of AI-driven vulnerabilities",
     "link": "https://blog.talosintelligence.com/securing-the-unpatchable-in-an-age-of-ai-driven-vulnerabilities/",
@@ -824,8 +824,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20079",
-        "CVE-2026-20316"
+        "CVE-2026-20316",
+        "CVE-2026-20079"
       ],
       "threat_categories": [
         "Ransomware",
@@ -848,10 +848,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69676",
-        "CVE-2026-85880",
+        "CVE-2026-69852",
         "CVE-2026-81963",
-        "CVE-2026-69852"
+        "CVE-2026-85880",
+        "CVE-2026-69676"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1321,8 +1321,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
