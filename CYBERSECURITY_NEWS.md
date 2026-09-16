@@ -1,10 +1,56 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-16 13:39:38 UTC
+**Last Updated:** 2026-09-16 16:34:26 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security](https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html)
+### 1. [Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution](https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 16 Sep 2026 21:20:59 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-89026  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers](https://thehackernews.com/2026/09/three-threat-groups-target-russian.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 16 Sep 2026 20:57:49 +0530  
+**Severity:** Low  
+**Categories:** Ransomware, Malware  
+
+---
+
+### 3. [One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude](https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 16 Sep 2026 20:06:44 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 4. [Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories](https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 16 Sep 2026 19:07:07 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 5. [Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix](https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 16 Sep 2026 18:44:05 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 6. [N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security](https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 16 Sep 2026 17:28:00 +0530  
@@ -13,7 +59,7 @@
 
 ---
 
-### 2. [Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation](https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html)
+### 7. [Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation](https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 16 Sep 2026 16:45:58 +0530  
@@ -23,7 +69,7 @@
 
 ---
 
-### 3. [Threat Intelligence Alone Won't Close the Exploitation Gap](https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html)
+### 8. [Threat Intelligence Alone Won't Close the Exploitation Gap](https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 16 Sep 2026 16:45:48 +0530  
@@ -32,7 +78,7 @@
 
 ---
 
-### 4. [Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks](https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html)
+### 9. [Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks](https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 16 Sep 2026 16:38:54 +0530  
@@ -42,7 +88,7 @@
 
 ---
 
-### 5. [Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells](https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html)
+### 10. [Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells](https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 16 Sep 2026 11:18:28 +0530  
@@ -52,53 +98,16 @@
 
 ---
 
-### 6. [Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens](https://thehackernews.com/2026/09/active-exploitation-attempts-target.html)
+### 11. [The true cost of a ransomware attack, with and without BCDR](https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 16 Sep 2026 10:48:06 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 7. [KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens](https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 16 Sep 2026 00:24:14 +0530  
-**Severity:** Low  
-**Categories:** Malware  
+**Source:** Bleeping Computer  
+**Published:** Wed, 16 Sep 2026 10:00:10 -0400  
+**Severity:** Critical  
+**Categories:** Ransomware, Data Breach  
 
 ---
 
-### 8. [Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists](https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 15 Sep 2026 21:59:51 +0530  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 9. [BambooToken Malware Uses MQTT to Control Windows and Linux Systems](https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 15 Sep 2026 20:53:19 +0530  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 10. [Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds](https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 15 Sep 2026 17:22:28 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-39987  
-**Categories:** Vulnerability  
-
----
-
-### 11. [Microsoft says Copilot buttons still missing in classic Outlook](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-missing-outlook-copilot-buttons/)
+### 12. [Microsoft says Copilot buttons still missing in classic Outlook](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-missing-outlook-copilot-buttons/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 16 Sep 2026 08:16:32 -0400  
@@ -107,7 +116,7 @@
 
 ---
 
-### 12. [Webinar: What happens in the first hours of a Google Workspace breach](https://www.bleepingcomputer.com/news/security/webinar-what-happens-in-the-first-hours-of-a-google-workspace-breach/)
+### 13. [Webinar: What happens in the first hours of a Google Workspace breach](https://www.bleepingcomputer.com/news/security/webinar-what-happens-in-the-first-hours-of-a-google-workspace-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 16 Sep 2026 08:11:19 -0400  
@@ -116,7 +125,7 @@
 
 ---
 
-### 13. [Critical ScreenConnect flaw now actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/)
+### 14. [Critical ScreenConnect flaw now actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 16 Sep 2026 07:14:28 -0400  
@@ -126,7 +135,7 @@
 
 ---
 
-### 14. [Windows Server 2022 reaches end of mainstream support next month](https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-next-month/)
+### 15. [Windows Server 2022 reaches end of mainstream support next month](https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-next-month/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 16 Sep 2026 05:10:20 -0400  
@@ -135,7 +144,7 @@
 
 ---
 
-### 15. [Google fixes actively exploited Android zero-day on Pixel devices](https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/)
+### 16. [Google fixes actively exploited Android zero-day on Pixel devices](https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 16 Sep 2026 03:00:19 -0400  
@@ -145,7 +154,7 @@
 
 ---
 
-### 16. [Acronis warns of actively exploited flaw in its cPanel backup plugin](https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/)
+### 17. [Acronis warns of actively exploited flaw in its cPanel backup plugin](https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 15 Sep 2026 17:37:35 -0400  
@@ -155,7 +164,7 @@
 
 ---
 
-### 17. [Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites](https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/)
+### 18. [Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites](https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 15 Sep 2026 16:34:15 -0400  
@@ -164,7 +173,7 @@
 
 ---
 
-### 18. [CenterPoint Energy confirms customer data stolen in cyberattack](https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/)
+### 19. [CenterPoint Energy confirms customer data stolen in cyberattack](https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 15 Sep 2026 12:40:14 -0400  
@@ -173,7 +182,7 @@
 
 ---
 
-### 19. [BambooToken malware controls Windows and Linux systems via MQTT](https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/)
+### 20. [BambooToken malware controls Windows and Linux systems via MQTT](https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 15 Sep 2026 11:00:00 -0400  
@@ -182,22 +191,12 @@
 
 ---
 
-### 20. [Hackers target WordPress sites via third-party WooCommerce plugin](https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 15 Sep 2026 10:45:10 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-27540  
-**Categories:** Vulnerability, Malware, APT, Supply Chain  
-
----
-
 ### 21. [Microsoft Plugs Nearly 1,000 Security Holes](https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-85880, CVE-2026-69829, CVE-2026-81963, CVE-2026-69730  
+**CVEs:** CVE-2026-69730, CVE-2026-85880, CVE-2026-81963, CVE-2026-69829  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -271,7 +270,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50661, CVE-2026-56155, CVE-2026-56164, CVE-2026-48561  
+**CVEs:** CVE-2026-56164, CVE-2026-56155, CVE-2026-48561, CVE-2026-50661  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -285,7 +284,25 @@
 
 ---
 
-### 31. [AIUC Raises $40 Million to Certify Enterprise AI Agents](https://www.securityweek.com/aiuc-raises-40-million-to-certify-enterprise-ai-agents/)
+### 31. [Virtual Event Today: Attack Surface Management Summit](https://www.securityweek.com/virtual-event-today-attack-surface-management-summit-2/)
+
+**Source:** Security Week  
+**Published:** Wed, 16 Sep 2026 14:35:04 +0000  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 32. [EU Chief Warns of AI-Powered Hacking, Moves to Rein In Social Media](https://www.securityweek.com/eu-chief-warns-of-ai-powered-hacking-moves-to-rein-in-social-media/)
+
+**Source:** Security Week  
+**Published:** Wed, 16 Sep 2026 14:15:18 +0000  
+**Severity:** Critical  
+**Categories:** APT  
+
+---
+
+### 33. [AIUC Raises $40 Million to Certify Enterprise AI Agents](https://www.securityweek.com/aiuc-raises-40-million-to-certify-enterprise-ai-agents/)
 
 **Source:** Security Week  
 **Published:** Wed, 16 Sep 2026 13:38:36 +0000  
@@ -294,7 +311,7 @@
 
 ---
 
-### 32. [Pixel Modem Zero-Day Exploited in Targeted Attacks](https://www.securityweek.com/pixel-modem-zero-day-exploited-in-targeted-attacks/)
+### 34. [Pixel Modem Zero-Day Exploited in Targeted Attacks](https://www.securityweek.com/pixel-modem-zero-day-exploited-in-targeted-attacks/)
 
 **Source:** Security Week  
 **Published:** Wed, 16 Sep 2026 13:10:54 +0000  
@@ -304,7 +321,7 @@
 
 ---
 
-### 33. [US, UK, Dutch Agencies Expose Iranian ‘Chosen Brick’ Surveillance Malware](https://www.securityweek.com/us-uk-dutch-agencies-expose-iranian-chosen-brick-surveillance-malware/)
+### 35. [US, UK, Dutch Agencies Expose Iranian ‘Chosen Brick’ Surveillance Malware](https://www.securityweek.com/us-uk-dutch-agencies-expose-iranian-chosen-brick-surveillance-malware/)
 
 **Source:** Security Week  
 **Published:** Wed, 16 Sep 2026 12:00:14 +0000  
@@ -313,17 +330,17 @@
 
 ---
 
-### 34. [Unauthenticated RCE Flaws Could Expose 200,000+ WordPress Sites to Takeover](https://www.securityweek.com/unauthenticated-rce-flaws-could-expose-200000-wordpress-sites-to-takeover/)
+### 36. [Unauthenticated RCE Flaws Could Expose 200,000+ WordPress Sites to Takeover](https://www.securityweek.com/unauthenticated-rce-flaws-could-expose-200000-wordpress-sites-to-takeover/)
 
 **Source:** Security Week  
 **Published:** Wed, 16 Sep 2026 11:32:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-78006, CVE-2026-78159  
+**CVEs:** CVE-2026-78159, CVE-2026-78006  
 **Categories:** Vulnerability  
 
 ---
 
-### 35. [Hackuity Raises $19 Million for AI-Powered Vulnerability Management](https://www.securityweek.com/hackuity-raises-19-million-for-ai-powered-vulnerability-management/)
+### 37. [Hackuity Raises $19 Million for AI-Powered Vulnerability Management](https://www.securityweek.com/hackuity-raises-19-million-for-ai-powered-vulnerability-management/)
 
 **Source:** Security Week  
 **Published:** Wed, 16 Sep 2026 11:11:23 +0000  
@@ -332,7 +349,7 @@
 
 ---
 
-### 36. [280,000 Impacted by Premier Medical Group Data Breach](https://www.securityweek.com/280000-impacted-by-premier-medical-group-data-breach/)
+### 38. [280,000 Impacted by Premier Medical Group Data Breach](https://www.securityweek.com/280000-impacted-by-premier-medical-group-data-breach/)
 
 **Source:** Security Week  
 **Published:** Wed, 16 Sep 2026 10:47:18 +0000  
@@ -341,42 +358,23 @@
 
 ---
 
-### 37. [Chrome, Firefox Updates Patch 115 Vulnerabilities](https://www.securityweek.com/chrome-firefox-updates-patch-115-vulnerabilities/)
+### 39. [Chrome, Firefox Updates Patch 115 Vulnerabilities](https://www.securityweek.com/chrome-firefox-updates-patch-115-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Wed, 16 Sep 2026 10:28:36 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-91726, CVE-2026-91749, CVE-2026-91721  
+**CVEs:** CVE-2026-91726, CVE-2026-91721, CVE-2026-91749  
 **Categories:** Vulnerability  
 
 ---
 
-### 38. [Acronis Patches Exploited Vulnerability in cPanel Backup Plugin](https://www.securityweek.com/acronis-patches-exploited-vulnerability-in-cpanel-backup-plugin/)
+### 40. [Acronis Patches Exploited Vulnerability in cPanel Backup Plugin](https://www.securityweek.com/acronis-patches-exploited-vulnerability-in-cpanel-backup-plugin/)
 
 **Source:** Security Week  
 **Published:** Wed, 16 Sep 2026 09:52:31 +0000  
 **Severity:** Critical  
 **CVEs:** CVE-2026-87886  
 **Categories:** Vulnerability  
-
----
-
-### 39. [Enterprises Warned of Attacks Exploiting WSO2 Vulnerability](https://www.securityweek.com/enterprises-warned-of-attacks-exploiting-wso2-vulnerability/)
-
-**Source:** Security Week  
-**Published:** Wed, 16 Sep 2026 08:39:05 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-5430  
-**Categories:** Vulnerability  
-
----
-
-### 40. [Oracle Patches 800+ Vulnerabilities in September 2026 Security Update](https://www.securityweek.com/oracle-patches-800-vulnerabilities-in-september-2026-security-update/)
-
-**Source:** Security Week  
-**Published:** Wed, 16 Sep 2026 08:06:33 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, Supply Chain  
 
 ---
 
@@ -403,7 +401,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 09 Sep 2026 16:08:59 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20316, CVE-2026-20079  
+**CVEs:** CVE-2026-20079, CVE-2026-20316  
 **Categories:** Ransomware, Vulnerability, Malware, APT  
 
 ---
@@ -413,7 +411,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 08 Sep 2026 22:16:35 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-85880, CVE-2026-69676, CVE-2026-69852, CVE-2026-81963  
+**CVEs:** CVE-2026-69676, CVE-2026-85880, CVE-2026-81963, CVE-2026-69852  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -748,7 +746,16 @@
 
 ---
 
-### 81. [PhantomRaven: An LLM-Generated Information Stealer Developed for Bug Bounty Hunting](https://www.crowdstrike.com/en-us/blog/phantomraven-llm-generated-information-stealer-for-bug-bounty-hunting/)
+### 81. [CrowdStrike Accelerates Real-Time Data Classification with On-Device AI](https://www.crowdstrike.com/en-us/blog/crowdstrike-accelerates-real-time-data-classification-with-on-device-ai/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Sep 16, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 82. [PhantomRaven: An LLM-Generated Information Stealer Developed for Bug Bounty Hunting](https://www.crowdstrike.com/en-us/blog/phantomraven-llm-generated-information-stealer-for-bug-bounty-hunting/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 15, 2026 00:00:00-0500  
@@ -757,7 +764,7 @@
 
 ---
 
-### 82. [September 2026 Patch Tuesday: Two Exploited Zero-Days and 113 Critical Vulnerabilities Among 972 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-september-2026/)
+### 83. [September 2026 Patch Tuesday: Two Exploited Zero-Days and 113 Critical Vulnerabilities Among 972 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-september-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 08, 2026 00:00:00-0500  
@@ -766,7 +773,7 @@
 
 ---
 
-### 83. [CrowdStrike Delivers the Next Evolution of the Agentic SOC](https://www.crowdstrike.com/en-us/blog/crowdstrike-delivers-next-evolution-of-agentic-soc/)
+### 84. [CrowdStrike Delivers the Next Evolution of the Agentic SOC](https://www.crowdstrike.com/en-us/blog/crowdstrike-delivers-next-evolution-of-agentic-soc/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 02, 2026 00:00:00-0400  
@@ -775,7 +782,7 @@
 
 ---
 
-### 84. [CrowdStrike Extends Endpoint Security to Stop Software Supply Chain Attacks](https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-endpoint-security-to-stop-supply-chain-attacks/)
+### 85. [CrowdStrike Extends Endpoint Security to Stop Software Supply Chain Attacks](https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-endpoint-security-to-stop-supply-chain-attacks/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 02, 2026 00:00:00-0400  
@@ -784,7 +791,7 @@
 
 ---
 
-### 85. [CrowdStrike Announces Agentic Identity Provider](https://www.crowdstrike.com/en-us/blog/crowdstrike-announces-agentic-identity-provider/)
+### 86. [CrowdStrike Announces Agentic Identity Provider](https://www.crowdstrike.com/en-us/blog/crowdstrike-announces-agentic-identity-provider/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 02, 2026 00:00:00-0400  
@@ -793,7 +800,7 @@
 
 ---
 
-### 86. [CrowdStrike Falcon Guardian Defines the Next Generation of AI Security](https://www.crowdstrike.com/en-us/blog/falcon-guardian-defines-next-generation-of-ai-security/)
+### 87. [CrowdStrike Falcon Guardian Defines the Next Generation of AI Security](https://www.crowdstrike.com/en-us/blog/falcon-guardian-defines-next-generation-of-ai-security/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 01, 2026 00:00:00-0400  
@@ -802,7 +809,7 @@
 
 ---
 
-### 87. [Peer Pressure: Inside the Sality Botnet Disruption Operation](https://www.crowdstrike.com/en-us/blog/inside-sality-botnet-disruption-operation/)
+### 88. [Peer Pressure: Inside the Sality Botnet Disruption Operation](https://www.crowdstrike.com/en-us/blog/inside-sality-botnet-disruption-operation/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 01, 2026 00:00:00-0400  
@@ -811,7 +818,7 @@
 
 ---
 
-### 88. [Agents of Chaos: A New $100K Agentic Security Challenge](https://www.crowdstrike.com/en-us/blog/agents-of-chaos-immersive-ai-security-challenge/)
+### 89. [Agents of Chaos: A New $100K Agentic Security Challenge](https://www.crowdstrike.com/en-us/blog/agents-of-chaos-immersive-ai-security-challenge/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Aug 31, 2026 00:00:00-0400  
@@ -820,20 +827,11 @@
 
 ---
 
-### 89. [CrowdStrike Named Strongest Overall Leader in 2026 Frost Radar&trade;: Cloud Workload Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-strongest-overall-leader-2026-frost-radar-cwpp/)
+### 90. [CrowdStrike Named Strongest Overall Leader in 2026 Frost Radar&trade;: Cloud Workload Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-strongest-overall-leader-2026-frost-radar-cwpp/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Aug 20, 2026 00:00:00-0500  
 **Severity:** High  
-**Categories:** General Security  
-
----
-
-### 90. [Benchmaxxing: When the Benchmark Becomes the Target](https://www.crowdstrike.com/en-us/blog/benchmaxxing-when-benchmark-becomes-the-target/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Aug 19, 2026 00:00:00-0500  
-**Severity:** Low  
 **Categories:** General Security  
 
 ---

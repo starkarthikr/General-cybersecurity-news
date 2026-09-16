@@ -1,6 +1,99 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
+    "link": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
+    "published": "Wed, 16 Sep 2026 21:20:59 +0530",
+    "summary": "A critical security flaw in Issabel Framework, a web-based framework for the open-source unified communications PBX software, has come under active exploitation.\n\nThe vulnerability in question is CVE-2026-89026 (CVSS v3.1 score: 9.8/CVSS v4.0 score: 9.3), which can allow an unauthenticated remote attacker to execute arbitrary operating system (OS) commands by taking advantage of a hard-coded",
+    "analysis": {
+      "issue": "Issabel Framework flaw CVE-2026-89026 is under active exploitation and can enable unauthenticated OS command execution via a hard-coded JWT key",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-89026"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers",
+    "link": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html",
+    "published": "Wed, 16 Sep 2026 20:57:49 +0530",
+    "summary": "Enterprises in Russia have emerged as the target of three threat activity clusters tracked as NightEagle, Hacking Cat, and Toy Ghouls, according to multiple reports from Kaspersky.\n\nThe cybersecurity vendor said it has identified attacks mounted by NightEagle (aka APT-Q-95), a threat actor known to be active since at least 2023, that involve new techniques for persistence and lateral movement.",
+    "analysis": {
+      "issue": "Kaspersky reports three threat clusters targeting Russian enterprises with backdoors, ransomware, wipers, and compromised VPN credentials",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude",
+    "link": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html",
+    "published": "Wed, 16 Sep 2026 20:06:44 +0530",
+    "summary": "Security researchers at&nbsp;Forever Security&nbsp;have shown that one ordinary browser extension could take control of the AI assistants built into five Chromium-based products: Gemini Live in Chrome, Perplexity Comet, Microsoft Edge, Opera Neon and the Claude in Chrome extension.\n\nOnce the extension was installed, it could access each product's built-in AI with a single click. On Comet, Edge,",
+    "analysis": {
+      "issue": "Researchers showed one browser extension could hijack AI features in five Chromium products; some demos could access files, sensors, and browser data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories",
+    "link": "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html",
+    "published": "Wed, 16 Sep 2026 19:07:07 +0530",
+    "summary": "Mandiant says an attacker hijacked an active AI coding-assistant session at an unnamed software-as-a-service provider and later spread&nbsp;Shai-Hulud&nbsp;across about 100 internal code repositories.\n\nBefore the repository spread, the assistant recommended software that the attacker had poisoned, and the recommendation was accepted. The worm stole repository secrets and source code for the",
+    "analysis": {
+      "issue": "Mandiant says an attacker hijacked an active AI coding session, stole GitHub OAuth tokens, and spread Shai-Hulud across about 100 repositories",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix",
+    "link": "https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html",
+    "published": "Wed, 16 Sep 2026 18:44:05 +0530",
+    "summary": "Parallels Desktop for Mac has a flaw that lets an ordinary local account run code as root, the highest level of access on a Mac, software company JFrog said this week.\n\nThe attack needs code already running on the machine as a normal user, so it does not work over the network. JFrog says the fix is in Parallels Desktop 27, a version that Intel Macs cannot install.\n\nYuval Moravchick, who leads",
+    "analysis": {
+      "issue": "A Parallels Desktop flaw lets a low-privileged local Mac user run code as root; JFrog says the fix is in version 27, unavailable on Intel Macs",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security",
     "link": "https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html",
     "published": "Wed, 16 Sep 2026 17:28:00 +0530",
@@ -99,94 +192,21 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens",
-    "link": "https://thehackernews.com/2026/09/active-exploitation-attempts-target.html",
-    "published": "Wed, 16 Sep 2026 10:48:06 +0530",
-    "summary": "A critical security flaw in WSO2 API Manager has come under active exploitation in the wild, according to findings from watchTowr.\n\nThe vulnerability, tracked as CVE-2026-5430 (CVSS score: 9.8/10.0), is a case of improper verification of a cryptographic signature that could result in account takeover. Hacktron Team has been credited with discovering and reporting the flaw.\n\n\"JWT authentication",
+    "source": "Bleeping Computer",
+    "title": "The true cost of a ransomware attack, with and without BCDR",
+    "link": "https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/",
+    "published": "Wed, 16 Sep 2026 10:00:10 -0400",
+    "summary": "The ransom itself can be only a fraction of the total cost of a ransomware attack, with downtime, recovery, remediation, and legal obligations adding millions to the bill. Datto explains how a mature BCDR strategy can reduce downtime and provide a faster, more predictable path to recovery. [...]",
     "analysis": {
-      "issue": "WSO2 API Manager JWT bypass faces active exploitation attempts using forged tokens with administrator privileges",
+      "issue": "When businesses assess the impact of ransomware, the ransom payment often gets the most attention",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens",
-    "link": "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html",
-    "published": "Wed, 16 Sep 2026 00:24:14 +0530",
-    "summary": "Cybersecurity researchers have shed light on a previously undocumented Brazilian banking malware operation that delivers a toolkit called KREMLIN.\n\nElastic Security Labs is tracking the activity under the moniker REF9334. Active since at least May 2025, the threat actor has used lures that impersonate a dozen Brazilian banks and install a malicious browser extension on Google Chrome and",
-    "analysis": {
-      "issue": "KREMLIN targets Brazilian bank users with malicious Chrome and Edge extensions that steal credentials, session tokens, cookies, and browser data",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists",
-    "link": "https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html",
-    "published": "Tue, 15 Sep 2026 21:59:51 +0530",
-    "summary": "Cybersecurity agencies in the United States, the United Kingdom, and the Netherlands have detailed a Windows malware that they say Iran's intelligence service uses to spy on dissidents, journalists, and activists around the world.\n\nThe malware is controlled via the Telegram messaging app and can copy a target's emails and chat messages, take screenshots, and activate the microphone to record",
-    "analysis": {
-      "issue": ", and Dutch agencies say Iran’s intelligence service uses Telegram-controlled Windows malware to spy on dissidents and journalists",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "BambooToken Malware Uses MQTT to Control Windows and Linux Systems",
-    "link": "https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html",
-    "published": "Tue, 15 Sep 2026 20:53:19 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a multi-platform campaign that uses the Message Queueing Telemetry Transport (MQTT) protocol as a communication channel to control Windows and Linux systems.\n\nThe emerging malware family, codenamed BambooToken, is assessed to be active since at least February 2023 and put to use in attacks targeting organizations across Asia and South America.",
-    "analysis": {
-      "issue": "BambooToken uses MQTT for C2 across Windows and Linux, with a dozen compromised entities detected in Asia and South America",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds",
-    "link": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html",
-    "published": "Tue, 15 Sep 2026 17:22:28 +0530",
-    "summary": "With artificial intelligence (AI) shrinking the window between vulnerability discovery and exploitation and lowering the barrier to entry for bad actors, new findings from Sysdig show that skilled human operators can move just as swiftly after gaining initial access.\n\nIn one instance highlighted by the cloud security company, the threat actor pivoted from a vulnerable Marimo notebook to an SSH",
-    "analysis": {
-      "issue": "Attackers exploit Marimo CVE-2026-39987, with one human operator pivoting to an SSH bastion in eight seconds after initial access",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-39987"
-      ],
-      "threat_categories": [
-        "Vulnerability"
+        "Ransomware",
+        "Data Breach"
       ]
     }
   },
@@ -360,29 +380,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Hackers target WordPress sites via third-party WooCommerce plugin",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/",
-    "published": "Tue, 15 Sep 2026 10:45:10 -0400",
-    "summary": "Hackers are actively exploiting a critical vulnerability in the WooCommerce Wholesale Lead Capture premium plugin for WordPress to upload a PHP backdoor. [...]",
-    "analysis": {
-      "issue": "Hackers are actively exploiting a critical vulnerability in the WooCommerce Wholesale Lead Capture premium plugin for WordPress to upload a PHP backdoor",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-27540"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "APT",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Microsoft Plugs Nearly 1,000 Security Holes",
     "link": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
@@ -395,10 +392,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-69730",
         "CVE-2026-85880",
-        "CVE-2026-69829",
         "CVE-2026-81963",
-        "CVE-2026-69730"
+        "CVE-2026-69829"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -554,10 +551,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50661",
-        "CVE-2026-56155",
         "CVE-2026-56164",
-        "CVE-2026-48561"
+        "CVE-2026-56155",
+        "CVE-2026-48561",
+        "CVE-2026-50661"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -581,6 +578,42 @@
       "threat_categories": [
         "Data Breach",
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Virtual Event Today: Attack Surface Management Summit",
+    "link": "https://www.securityweek.com/virtual-event-today-attack-surface-management-summit-2/",
+    "published": "Wed, 16 Sep 2026 14:35:04 +0000",
+    "summary": "<p>Join SecurityWeek today for a virtual summit exploring the strategies and tools organizations need to discover, prioritize, and defend their expanding attack surfaces.</p>\n<p>The post <a href=\"https://www.securityweek.com/virtual-event-today-attack-surface-management-summit-2/\">Virtual Event Today: Attack Surface Management Summit</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Join SecurityWeek today for a virtual summit exploring the strategies and tools organizations need to discover, prioritize, and defend their expanding attack surfaces",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "EU Chief Warns of AI-Powered Hacking, Moves to Rein In Social Media",
+    "link": "https://www.securityweek.com/eu-chief-warns-of-ai-powered-hacking-moves-to-rein-in-social-media/",
+    "published": "Wed, 16 Sep 2026 14:15:18 +0000",
+    "summary": "<p>Ursula von der Leyen warns that advanced AI could unleash hacking on an unprecedented scale as Europe prepares new protections against social media’s “capture” of children.</p>\n<p>The post <a href=\"https://www.securityweek.com/eu-chief-warns-of-ai-powered-hacking-moves-to-rein-in-social-media/\">EU Chief Warns of AI-Powered Hacking, Moves to Rein In Social Media</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Ursula von der Leyen warns that advanced AI could unleash hacking on an unprecedented scale as Europe prepares new protections against social media’s “capture” of children",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "APT"
       ]
     }
   },
@@ -655,8 +688,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-78006",
-        "CVE-2026-78159"
+        "CVE-2026-78159",
+        "CVE-2026-78006"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -714,8 +747,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-91726",
-        "CVE-2026-91749",
-        "CVE-2026-91721"
+        "CVE-2026-91721",
+        "CVE-2026-91749"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -739,45 +772,6 @@
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Enterprises Warned of Attacks Exploiting WSO2 Vulnerability",
-    "link": "https://www.securityweek.com/enterprises-warned-of-attacks-exploiting-wso2-vulnerability/",
-    "published": "Wed, 16 Sep 2026 08:39:05 +0000",
-    "summary": "<p>The vulnerability, tracked as CVE-2026-5430, can be exploited to gain access to valuable enterprise data.</p>\n<p>The post <a href=\"https://www.securityweek.com/enterprises-warned-of-attacks-exploiting-wso2-vulnerability/\">Enterprises Warned of Attacks Exploiting WSO2 Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The vulnerability, tracked as CVE-2026-5430, can be exploited to gain access to valuable enterprise data",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-5430"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Oracle Patches 800+ Vulnerabilities in September 2026 Security Update",
-    "link": "https://www.securityweek.com/oracle-patches-800-vulnerabilities-in-september-2026-security-update/",
-    "published": "Wed, 16 Sep 2026 08:06:33 +0000",
-    "summary": "<p>The security updates resolve over 800 vulnerabilities across 17 product families, including over 100 critical-severity flaws.</p>\n<p>The post <a href=\"https://www.securityweek.com/oracle-patches-800-vulnerabilities-in-september-2026-security-update/\">Oracle Patches 800+ Vulnerabilities in September 2026 Security Update</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The security updates resolve over 800 vulnerabilities across 17 product families, including over 100 critical-severity flaws",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
       ]
     }
   },
@@ -830,8 +824,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20316",
-        "CVE-2026-20079"
+        "CVE-2026-20079",
+        "CVE-2026-20316"
       ],
       "threat_categories": [
         "Ransomware",
@@ -854,10 +848,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-85880",
         "CVE-2026-69676",
-        "CVE-2026-69852",
-        "CVE-2026-81963"
+        "CVE-2026-85880",
+        "CVE-2026-81963",
+        "CVE-2026-69852"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1543,6 +1537,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "CrowdStrike Accelerates Real-Time Data Classification with On-Device AI",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-accelerates-real-time-data-classification-with-on-device-ai/",
+    "published": "Sep 16, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "CrowdStrike worked closely with Intel to introduce a new capability in Falcon Data Security that classifies sensitive data using language models that run on-device using dedicated hardware for AI",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "PhantomRaven: An LLM-Generated Information Stealer Developed for Bug Bounty Hunting",
     "link": "https://www.crowdstrike.com/en-us/blog/phantomraven-llm-generated-information-stealer-for-bug-bounty-hunting/",
     "published": "Sep 15, 2026 00:00:00-0500",
@@ -1697,24 +1709,6 @@
       "cause": null,
       "timeline": null,
       "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "Benchmaxxing: When the Benchmark Becomes the Target",
-    "link": "https://www.crowdstrike.com/en-us/blog/benchmaxxing-when-benchmark-becomes-the-target/",
-    "published": "Aug 19, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "The more attention a benchmark receives, the stronger the incentive to optimize for it",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
       "cves": [],
       "threat_categories": [
         "General Security"
