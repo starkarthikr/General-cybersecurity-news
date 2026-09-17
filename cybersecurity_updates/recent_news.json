@@ -185,6 +185,26 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "What Recent AI-Powered Attacks Mean for Your Identity Security",
+    "link": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
+    "published": "Thu, 17 Sep 2026 10:01:11 -0400",
+    "summary": "AI is making credential theft faster and easier to scale, giving attackers more opportunities to abuse valid identities. Specops explains why identity security must go beyond successful authentication by verifying that both the user and the device requesting access can be trusted. [...]",
+    "analysis": {
+      "issue": "On September 8, Google Threat Intelligence Group (GTIG) detailed several attacks that show how quickly AI is changing the economics of cybercrime",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Windows 11 24H2 Home and Pro reach end of support in October",
     "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/",
     "published": "Thu, 17 Sep 2026 09:09:09 -0400",
@@ -349,25 +369,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Spain's data agency gets first report of AI-powered data breach",
-    "link": "https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/",
-    "published": "Wed, 16 Sep 2026 13:26:41 -0400",
-    "summary": "The Spanish Data Protection Agency (AEPD) was notified of an attack allegedly carried out with an AI agent powered by a known large language model (LLM). [...]",
-    "analysis": {
-      "issue": "The Spanish Data Protection Agency (AEPD) was notified of an attack allegedly carried out with an AI agent powered by a known large language model (LLM)",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "APT"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Data Broker Radaris Loses Domains in Privacy Fight",
     "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
@@ -399,9 +400,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-81963",
-        "CVE-2026-69829",
+        "CVE-2026-85880",
         "CVE-2026-69730",
-        "CVE-2026-85880"
+        "CVE-2026-69829"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -479,8 +480,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-68820",
-        "CVE-2026-62832",
-        "CVE-2026-72971"
+        "CVE-2026-72971",
+        "CVE-2026-62832"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -557,14 +558,70 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-48561",
         "CVE-2026-56164",
         "CVE-2026-50661",
-        "CVE-2026-48561",
         "CVE-2026-56155"
       ],
       "threat_categories": [
         "Vulnerability",
         "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "OpenAI Says Its Models Searched GitHub for Leaked API Keys During Training",
+    "link": "https://www.securityweek.com/openai-says-its-models-hunted-github-for-leaked-api-keys-during-training/",
+    "published": "Thu, 17 Sep 2026 15:45:29 +0000",
+    "summary": "<p>OpenAI published a framework for disclosing model misalignment alongside six reports describing problematic behavior.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-says-its-models-hunted-github-for-leaked-api-keys-during-training/\">OpenAI Says Its Models Searched GitHub for Leaked API Keys During Training</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "OpenAI published a framework for disclosing model misalignment alongside six reports describing problematic behavior",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "CISA Retires Weekly Vulnerability Bulletin in Risk-Based Pivot",
+    "link": "https://www.securityweek.com/cisa-retires-weekly-vulnerability-bulletin-in-risk-based-pivot/",
+    "published": "Thu, 17 Sep 2026 14:28:00 +0000",
+    "summary": "<p>The decision follows BOD 26-04, which directs federal organizations to prioritize vulnerabilities based on real-world risk.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-retires-weekly-vulnerability-bulletin-in-risk-based-pivot/\">CISA Retires Weekly Vulnerability Bulletin in Risk-Based Pivot</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The decision follows BOD 26-04, which directs federal organizations to prioritize vulnerabilities based on real-world risk",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Revolut Data Breach: 5 Months, 680 High-Profile Accounts, $3M Ransom",
+    "link": "https://www.securityweek.com/revolut-data-breach-5-months-680-high-profile-accounts-3m-ransom/",
+    "published": "Thu, 17 Sep 2026 13:57:41 +0000",
+    "summary": "<p>Revolut allegedly fed customer information to hackers impersonating an Italian government agency for five months.</p>\n<p>The post <a href=\"https://www.securityweek.com/revolut-data-breach-5-months-680-high-profile-accounts-3m-ransom/\">Revolut Data Breach: 5 Months, 680 High-Profile Accounts, $3M Ransom</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Revolut allegedly fed customer information to hackers impersonating an Italian government agency for five months",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach"
       ]
     }
   },
@@ -599,12 +656,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-77692",
-        "CVE-2026-81736",
         "CVE-2026-80274",
-        "CVE-2026-76163",
         "CVE-2026-19666",
         "CVE-2026-19667",
+        "CVE-2026-76163",
+        "CVE-2026-81736",
+        "CVE-2026-77692",
         "CVE-2026-81563"
       ],
       "threat_categories": [
@@ -647,11 +704,11 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-20079",
+        "CVE-2026-20283",
         "CVE-2026-20282",
         "CVE-2026-20316",
         "CVE-2026-20284",
-        "CVE-2026-20332",
-        "CVE-2026-20283"
+        "CVE-2026-20332"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -712,62 +769,6 @@
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "First Agentic AI Data Breach Reported to Spanish Regulator",
-    "link": "https://www.securityweek.com/first-agentic-ai-data-breach-reported-to-spanish-regulator/",
-    "published": "Wed, 16 Sep 2026 16:39:19 +0000",
-    "summary": "<p>Spanish regulators say an AI agent chained together a successful login, vulnerability discovery, and access to personal data in a potential milestone for autonomous cyberattacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/first-agentic-ai-data-breach-reported-to-spanish-regulator/\">First Agentic AI Data Breach Reported to Spanish Regulator</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Spanish regulators say an AI agent chained together a successful login, vulnerability discovery, and access to personal data in a potential milestone for autonomous cyberattacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Virtual Event Today: Attack Surface Management Summit",
-    "link": "https://www.securityweek.com/virtual-event-today-attack-surface-management-summit-2/",
-    "published": "Wed, 16 Sep 2026 14:35:04 +0000",
-    "summary": "<p>Join SecurityWeek today for a virtual summit exploring the strategies and tools organizations need to discover, prioritize, and defend their expanding attack surfaces.</p>\n<p>The post <a href=\"https://www.securityweek.com/virtual-event-today-attack-surface-management-summit-2/\">Virtual Event Today: Attack Surface Management Summit</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Join SecurityWeek today for a virtual summit exploring the strategies and tools organizations need to discover, prioritize, and defend their expanding attack surfaces",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "EU Chief Warns of AI-Powered Hacking, Moves to Rein In Social Media",
-    "link": "https://www.securityweek.com/eu-chief-warns-of-ai-powered-hacking-moves-to-rein-in-social-media/",
-    "published": "Wed, 16 Sep 2026 14:15:18 +0000",
-    "summary": "<p>Ursula von der Leyen warns that advanced AI could unleash hacking on an unprecedented scale as Europe prepares new protections against social media’s “capture” of children.</p>\n<p>The post <a href=\"https://www.securityweek.com/eu-chief-warns-of-ai-powered-hacking-moves-to-rein-in-social-media/\">EU Chief Warns of AI-Powered Hacking, Moves to Rein In Social Media</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Ursula von der Leyen warns that advanced AI could unleash hacking on an unprecedented scale as Europe prepares new protections against social media’s “capture” of children",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "APT"
       ]
     }
   },
@@ -838,8 +839,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20079",
-        "CVE-2026-20316"
+        "CVE-2026-20316",
+        "CVE-2026-20079"
       ],
       "threat_categories": [
         "Ransomware",
@@ -863,9 +864,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-81963",
+        "CVE-2026-85880",
         "CVE-2026-69852",
-        "CVE-2026-69676",
-        "CVE-2026-85880"
+        "CVE-2026-69676"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -962,6 +963,42 @@
       "threat_categories": [
         "Malware",
         "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "Our View on What It Takes To Be Named an Industry-Recognized Threat Intelligence Leader",
+    "link": "https://www.recordedfuture.com/blog/forrester-wave-external-threat-intelligence-2026",
+    "published": "Thu, 17 Sep 2026 00:00:00 GMT",
+    "summary": "A behind-the-scenes look at how Recorded Future earned its spot as a threat intelligence leader in the latest Forrester Wave.",
+    "analysis": {
+      "issue": "A behind-the-scenes look at how Recorded Future earned its spot as a threat intelligence leader in the latest Forrester Wave",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "The New Rules of Machine Speed Defense",
+    "link": "https://www.recordedfuture.com/blog/new-rules-machine-speed-defense",
+    "published": "Thu, 17 Sep 2026 00:00:00 GMT",
+    "summary": "Experts from Recorded Future and Mastercard explore how security organizations can shift to proactive, machine-speed defense by leveraging high-quality threat intelligence and adhering to evolving global security frameworks designed to help mitigate AI-enabled risks.",
+    "analysis": {
+      "issue": "Experts from Recorded Future and Mastercard explore how security organizations can shift to proactive, machine-speed defense by leveraging high-quality threat intelligence and adhering to evolving global security frameworks designed to help mitigate ",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1104,42 +1141,6 @@
     "summary": "Experts from Recorded Future and Accenture offer perspectives on navigating the path to becoming an agentic SOC. Find out how to plan moving beyond “AI theater” by prioritizing measurable KPIs, proactively mitigating autonomous security risks, and evolving the analyst’s role from managing alerts to managing agents.",
     "analysis": {
       "issue": "Experts from Recorded Future and Accenture offer perspectives on navigating the path to becoming an agentic SOC",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "BlueDelta Targets Defense and Diplomacy with HOOKEDGE",
-    "link": "https://www.recordedfuture.com/research/bluedelta-targets-with-hookedge",
-    "published": "Thu, 27 Aug 2026 00:00:00 GMT",
-    "summary": "Discover how the Russian state-sponsored threat group BlueDelta is using the HOOKEDGE backdoor to target defense and diplomatic organizations across Europe",
-    "analysis": {
-      "issue": "Discover how the Russian state-sponsored threat group BlueDelta is using the HOOKEDGE backdoor to target defense and diplomatic organizations across Europe",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Recorded Future Launches AI Alert Filtering",
-    "link": "https://www.recordedfuture.com/blog/ai-alert-filtering",
-    "published": "Wed, 26 Aug 2026 00:00:00 GMT",
-    "summary": "AI Alert Filtering is now available. Powered by Recorded Future AI, it automates the first pass of filtering Alerts by relevance so analysts prioritize faster while keeping control.",
-    "analysis": {
-      "issue": "AI Alert Filtering is now available",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1317,8 +1318,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1343,6 +1344,25 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Revolut phishing texts appear days after data breach",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/09/revolut-phishing-texts-appear-days-after-data-breach",
+    "published": "Thu, 17 Sep 2026 14:07:15 GMT",
+    "summary": "Revolut customers received phishing texts only days after the digital bank acknowledged disclosing customer data to a government impostor.",
+    "analysis": {
+      "issue": "Only days after Revolut acknowledged that it disclosed sensitive customer records to an unauthorized party, affected customers are receiving phishing texts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Phishing"
       ]
     }
   },
@@ -1512,17 +1532,17 @@
     }
   },
   {
-    "source": "Malwarebytes",
-    "title": "Revolut gave customer IDs and financial data to a government impostor",
-    "link": "https://www.malwarebytes.com/blog/news/2026/09/revolut-gave-customer-ids-and-financial-data-to-a-government-impostor",
-    "published": "Mon, 14 Sep 2026 11:15:38 GMT",
-    "summary": "The digital bank was tricked into releasing sensitive customer information, including IDs, to an attacker using a legitimate government email domain.",
+    "source": "Crowdstrike Blog",
+    "title": "CrowdStrike Named a Leader in The Forrester Wave&trade;: External Threat Intelligence Service Providers, Q3 2026",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-external-threat-intelligence-q3-2026/",
+    "published": "Sep 17, 2026 00:00:00-0500",
+    "summary": "",
     "analysis": {
-      "issue": "Revolut has acknowledged that it disclosed sensitive customer records to an unauthorized party",
+      "issue": "CrowdStrike has been named a Leader in The Forrester Wave™: External Threat Intelligence Service Providers, Q3 2026, receiving the highest scores in both Strength of Offering and Strength of Strategy",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
         "General Security"
@@ -1685,24 +1705,6 @@
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Named Strongest Overall Leader in 2026 Frost Radar&trade;: Cloud Workload Protection Platforms",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-strongest-overall-leader-2026-frost-radar-cwpp/",
-    "published": "Aug 20, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "Falcon Cloud Security earned the highest scores in both Innovation and Growth by connecting risk, adversary intelligence, and real-time protection to stop attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
       "cves": [],
       "threat_categories": [
         "General Security"
