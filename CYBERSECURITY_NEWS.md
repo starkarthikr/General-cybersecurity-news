@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-16 19:39:06 UTC
+**Last Updated:** 2026-09-17 04:23:35 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -98,7 +98,34 @@
 
 ---
 
-### 11. [Malware bypasses browser checks to force install Chrome, Edge extensions](https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/)
+### 11. [Anthropic wants Claude to analyze your bank account and financial data](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 16 Sep 2026 20:35:48 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 12. [Windows 11 KB5124008 update breaks domain trust for some users](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 16 Sep 2026 16:39:29 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 13. [Iranian hackers use CHOSEN BRICK Windows malware to spy on targets](https://www.bleepingcomputer.com/news/security/iranian-hackers-use-chosen-brick-windows-malware-to-spy-on-targets/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 16 Sep 2026 16:24:55 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 14. [Malware bypasses browser checks to force install Chrome, Edge extensions](https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 16 Sep 2026 14:50:53 -0400  
@@ -107,7 +134,7 @@
 
 ---
 
-### 12. [Spain's data agency gets first report of AI-powered data breach](https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/)
+### 15. [Spain's data agency gets first report of AI-powered data breach](https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 16 Sep 2026 13:26:41 -0400  
@@ -116,7 +143,7 @@
 
 ---
 
-### 13. [The true cost of a ransomware attack, with and without BCDR](https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/)
+### 16. [The true cost of a ransomware attack, with and without BCDR](https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 16 Sep 2026 10:00:10 -0400  
@@ -125,7 +152,7 @@
 
 ---
 
-### 14. [Microsoft says Copilot buttons still missing in classic Outlook](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-missing-outlook-copilot-buttons/)
+### 17. [Microsoft says Copilot buttons still missing in classic Outlook](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-missing-outlook-copilot-buttons/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 16 Sep 2026 08:16:32 -0400  
@@ -134,7 +161,7 @@
 
 ---
 
-### 15. [Webinar: What happens in the first hours of a Google Workspace breach](https://www.bleepingcomputer.com/news/security/webinar-what-happens-in-the-first-hours-of-a-google-workspace-breach/)
+### 18. [Webinar: What happens in the first hours of a Google Workspace breach](https://www.bleepingcomputer.com/news/security/webinar-what-happens-in-the-first-hours-of-a-google-workspace-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 16 Sep 2026 08:11:19 -0400  
@@ -143,7 +170,7 @@
 
 ---
 
-### 16. [Critical ScreenConnect flaw now actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/)
+### 19. [Critical ScreenConnect flaw now actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 16 Sep 2026 07:14:28 -0400  
@@ -153,41 +180,12 @@
 
 ---
 
-### 17. [Windows Server 2022 reaches end of mainstream support next month](https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-next-month/)
+### 20. [Windows Server 2022 reaches end of mainstream support next month](https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-next-month/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 16 Sep 2026 05:10:20 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 18. [Google fixes actively exploited Android zero-day on Pixel devices](https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 16 Sep 2026 03:00:19 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-58704  
-**Categories:** Vulnerability  
-
----
-
-### 19. [Acronis warns of actively exploited flaw in its cPanel backup plugin](https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 15 Sep 2026 17:37:35 -0400  
-**Severity:** High  
-**CVEs:** CVE-2026-87886  
-**Categories:** Vulnerability  
-
----
-
-### 20. [Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites](https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 15 Sep 2026 16:34:15 -0400  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
@@ -205,7 +203,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69730, CVE-2026-81963, CVE-2026-69829, CVE-2026-85880  
+**CVEs:** CVE-2026-69829, CVE-2026-85880, CVE-2026-69730, CVE-2026-81963  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -242,7 +240,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-72971, CVE-2026-68820, CVE-2026-62832  
+**CVEs:** CVE-2026-72971, CVE-2026-62832, CVE-2026-68820  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -279,7 +277,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48561, CVE-2026-56155, CVE-2026-50661, CVE-2026-56164  
+**CVEs:** CVE-2026-48561, CVE-2026-56164, CVE-2026-56155, CVE-2026-50661  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -372,7 +370,7 @@
 **Source:** Security Week  
 **Published:** Wed, 16 Sep 2026 10:28:36 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-91726, CVE-2026-91721, CVE-2026-91749  
+**CVEs:** CVE-2026-91749, CVE-2026-91721, CVE-2026-91726  
 **Categories:** Vulnerability  
 
 ---
@@ -400,7 +398,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 09 Sep 2026 16:08:59 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20316, CVE-2026-20079  
+**CVEs:** CVE-2026-20079, CVE-2026-20316  
 **Categories:** Ransomware, Vulnerability, Malware, APT  
 
 ---
@@ -410,7 +408,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 08 Sep 2026 22:16:35 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69852, CVE-2026-81963, CVE-2026-85880, CVE-2026-69676  
+**CVEs:** CVE-2026-69676, CVE-2026-85880, CVE-2026-69852, CVE-2026-81963  
 **Categories:** Vulnerability, APT  
 
 ---

@@ -193,6 +193,60 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Anthropic wants Claude to analyze your bank account and financial data",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/",
+    "published": "Wed, 16 Sep 2026 20:35:48 -0400",
+    "summary": "Anthropic is testing a new personal finance feature called \"Claude Money\" that will allow you to connect your bank accounts directly to Claude and \"understand your money.\" [...]",
+    "analysis": {
+      "issue": "Anthropic is testing a new personal finance feature called \"Claude Money\" that will allow you to connect your bank accounts directly to Claude and \"understand your money",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Windows 11 KB5124008 update breaks domain trust for some users",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/",
+    "published": "Wed, 16 Sep 2026 16:39:29 -0400",
+    "summary": "Microsoft is investigating reports that the Windows 11 KB5124008 security update is breaking domain trust relationships on some enterprise systems, preventing users from logging in with valid domain credentials. [...]",
+    "analysis": {
+      "issue": "Microsoft is investigating reports that the Windows 11 KB5124008 security update is breaking domain trust relationships on some enterprise systems, preventing users from logging in with valid domain credentials",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Iranian hackers use CHOSEN BRICK Windows malware to spy on targets",
+    "link": "https://www.bleepingcomputer.com/news/security/iranian-hackers-use-chosen-brick-windows-malware-to-spy-on-targets/",
+    "published": "Wed, 16 Sep 2026 16:24:55 -0400",
+    "summary": "Government agencies are warning that Iranian state-linked hackers are using a Windows malware strain named CHOSEN BRICK to target dissidents, activists, and journalists worldwide. [...]",
+    "analysis": {
+      "issue": "Government agencies are warning that Iranian state-linked hackers are using a Windows malware strain named CHOSEN BRICK to target dissidents, activists, and journalists worldwide",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Malware bypasses browser checks to force install Chrome, Edge extensions",
     "link": "https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/",
     "published": "Wed, 16 Sep 2026 14:50:53 -0400",
@@ -323,64 +377,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Google fixes actively exploited Android zero-day on Pixel devices",
-    "link": "https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/",
-    "published": "Wed, 16 Sep 2026 03:00:19 -0400",
-    "summary": "Google has released the September 2026 security patches to address 110 vulnerabilities affecting its Pixel devices, including one zero-day flaw actively exploited in targeted attacks. [...]",
-    "analysis": {
-      "issue": "Google has released the September 2026 security patches to address 110 vulnerabilities affecting its Pixel devices, including one zero-day flaw actively exploited in targeted attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-58704"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Acronis warns of actively exploited flaw in its cPanel backup plugin",
-    "link": "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/",
-    "published": "Tue, 15 Sep 2026 17:37:35 -0400",
-    "summary": "Acronis disclosed a high-severity Linux local privilege escalation vulnerability in its backup plugin for cPanel, WebHost Manager (WHM), and Plesk that may be exploited in the wild. [...]",
-    "analysis": {
-      "issue": "Acronis disclosed a high-severity Linux local privilege escalation vulnerability in its backup plugin for cPanel, WebHost Manager (WHM), and Plesk that may be exploited in the wild",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2026-87886"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites",
-    "link": "https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/",
-    "published": "Tue, 15 Sep 2026 16:34:15 -0400",
-    "summary": "Malicious versions of the Admin Menu Editor Pro plugin for WordPress have been distributed to more than 200 customers after a threat actor compromised the maintainer's website and pushed updates that created a hidden user account. [...]",
-    "analysis": {
-      "issue": "Malicious versions of the Admin Menu Editor Pro plugin for WordPress have been distributed to more than 200 customers after a threat actor compromised the maintainer’s website and pushed updates that created a hidden user account",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Data Broker Radaris Loses Domains in Privacy Fight",
     "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
@@ -411,10 +407,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69730",
-        "CVE-2026-81963",
         "CVE-2026-69829",
-        "CVE-2026-85880"
+        "CVE-2026-85880",
+        "CVE-2026-69730",
+        "CVE-2026-81963"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -492,8 +488,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-72971",
-        "CVE-2026-68820",
-        "CVE-2026-62832"
+        "CVE-2026-62832",
+        "CVE-2026-68820"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -571,9 +567,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-48561",
+        "CVE-2026-56164",
         "CVE-2026-56155",
-        "CVE-2026-50661",
-        "CVE-2026-56164"
+        "CVE-2026-50661"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -766,9 +762,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-91726",
+        "CVE-2026-91749",
         "CVE-2026-91721",
-        "CVE-2026-91749"
+        "CVE-2026-91726"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -824,8 +820,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20316",
-        "CVE-2026-20079"
+        "CVE-2026-20079",
+        "CVE-2026-20316"
       ],
       "threat_categories": [
         "Ransomware",
@@ -848,10 +844,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69852",
-        "CVE-2026-81963",
+        "CVE-2026-69676",
         "CVE-2026-85880",
-        "CVE-2026-69676"
+        "CVE-2026-69852",
+        "CVE-2026-81963"
       ],
       "threat_categories": [
         "Vulnerability",
