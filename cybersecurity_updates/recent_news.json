@@ -185,6 +185,42 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "OpenAI details more cases of AI agents taking unauthorized actions",
+    "link": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/",
+    "published": "Thu, 17 Sep 2026 14:55:12 -0400",
+    "summary": "OpenAI has presented new examples of what they call \"AI model misalignment\" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and leveraging exposed API keys. [...]",
+    "analysis": {
+      "issue": "OpenAI has presented new examples of what they call \"AI model misalignment\" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and leveraging exposed API keys",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites",
+    "link": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
+    "published": "Thu, 17 Sep 2026 13:11:34 -0400",
+    "summary": "Brevo confirmed that attackers stole a Cloudflare API key and used it to inject malicious ClickFix scripts into its websites and JavaScript files embedded on customer sites to distribute malware. [...]",
+    "analysis": {
+      "issue": "Brevo confirmed that attackers stole a Cloudflare API key and used it to inject malicious ClickFix scripts into its websites and JavaScript files embedded on customer sites to distribute malware",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "What Recent AI-Powered Attacks Mean for Your Identity Security",
     "link": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
     "published": "Thu, 17 Sep 2026 10:01:11 -0400",
@@ -333,42 +369,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Iranian hackers use CHOSEN BRICK Windows malware to spy on targets",
-    "link": "https://www.bleepingcomputer.com/news/security/iranian-hackers-use-chosen-brick-windows-malware-to-spy-on-targets/",
-    "published": "Wed, 16 Sep 2026 16:24:55 -0400",
-    "summary": "Government agencies are warning that Iranian state-linked hackers are using a Windows malware strain named CHOSEN BRICK to target dissidents, activists, and journalists worldwide. [...]",
-    "analysis": {
-      "issue": "Government agencies are warning that Iranian state-linked hackers are using a Windows malware strain named CHOSEN BRICK to target dissidents, activists, and journalists worldwide",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Malware bypasses browser checks to force install Chrome, Edge extensions",
-    "link": "https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/",
-    "published": "Wed, 16 Sep 2026 14:50:53 -0400",
-    "summary": "A banking malware operation active since mid-2025 has been using a toolkit named KREMLIN to install malicious Chrome and Edge extensions that steal credentials, session tokens, and sensitive data. [...]",
-    "analysis": {
-      "issue": "A banking malware operation active since mid-2025 has been using a toolkit named KREMLIN to install malicious Chrome and Edge extensions that steal credentials, session tokens, and sensitive data",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Data Broker Radaris Loses Domains in Privacy Fight",
     "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
@@ -399,9 +399,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-69730",
         "CVE-2026-81963",
         "CVE-2026-85880",
-        "CVE-2026-69730",
         "CVE-2026-69829"
       ],
       "threat_categories": [
@@ -479,9 +479,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-68820",
         "CVE-2026-72971",
-        "CVE-2026-62832"
+        "CVE-2026-62832",
+        "CVE-2026-68820"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -558,14 +558,35 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-48561",
+        "CVE-2026-56155",
         "CVE-2026-56164",
-        "CVE-2026-50661",
-        "CVE-2026-56155"
+        "CVE-2026-48561",
+        "CVE-2026-50661"
       ],
       "threat_categories": [
         "Vulnerability",
         "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels",
+    "link": "https://www.securityweek.com/cyberattacks-on-two-oil-tankers-prompt-coast-guard-fbi-to-board-vessels/",
+    "published": "Thu, 17 Sep 2026 17:09:40 +0000",
+    "summary": "<p>The Coast Guard confirmed evidence of malicious cyber activity on the VL Prosperity, but has not attributed the attack to Iran.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyberattacks-on-two-oil-tankers-prompt-coast-guard-fbi-to-board-vessels/\">Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The Coast Guard confirmed evidence of malicious cyber activity on the VL Prosperity, but has not attributed the attack to Iran",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "Malware",
+        "Supply Chain"
       ]
     }
   },
@@ -657,12 +678,12 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-80274",
-        "CVE-2026-19666",
-        "CVE-2026-19667",
         "CVE-2026-76163",
         "CVE-2026-81736",
-        "CVE-2026-77692",
-        "CVE-2026-81563"
+        "CVE-2026-19666",
+        "CVE-2026-81563",
+        "CVE-2026-19667",
+        "CVE-2026-77692"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -703,12 +724,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-20332",
+        "CVE-2026-20316",
+        "CVE-2026-20282",
         "CVE-2026-20079",
         "CVE-2026-20283",
-        "CVE-2026-20282",
-        "CVE-2026-20316",
-        "CVE-2026-20284",
-        "CVE-2026-20332"
+        "CVE-2026-20284"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -753,22 +774,21 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Active Exploitation Triggers Emergency Patch for Cisco ISE Zero-Day",
-    "link": "https://www.securityweek.com/active-exploitation-triggers-emergency-patch-for-cisco-ise-zero-day/",
-    "published": "Thu, 17 Sep 2026 06:19:52 +0000",
-    "summary": "<p>Remote, unauthenticated attackers can exploit the vulnerability to bypass authentication via crafted requests.</p>\n<p>The post <a href=\"https://www.securityweek.com/active-exploitation-triggers-emergency-patch-for-cisco-ise-zero-day/\">Active Exploitation Triggers Emergency Patch for Cisco ISE Zero-Day</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "source": "Talos Blog",
+    "title": "Should you care about an “AI slowdown?”",
+    "link": "https://blog.talosintelligence.com/should-you-care-about-an-ai-slowdown/",
+    "published": "Thu, 17 Sep 2026 18:00:23 GMT",
+    "summary": "In this week's Threat Source, David talks about why focusing on your security basics is still your best bet, even in a world with rapid AI advancements.",
     "analysis": {
-      "issue": "Remote, unauthenticated attackers can exploit the vulnerability to bypass authentication via crafted requests",
+      "issue": "Welcome to this week’s edition of the Threat Source newsletter",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-76460"
-      ],
+      "severity": "Medium",
+      "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "Ransomware",
+        "APT"
       ]
     }
   },
@@ -839,8 +859,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20316",
-        "CVE-2026-20079"
+        "CVE-2026-20079",
+        "CVE-2026-20316"
       ],
       "threat_categories": [
         "Ransomware",
@@ -865,8 +885,8 @@
       "cves": [
         "CVE-2026-81963",
         "CVE-2026-85880",
-        "CVE-2026-69852",
-        "CVE-2026-69676"
+        "CVE-2026-69676",
+        "CVE-2026-69852"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -944,25 +964,6 @@
       "cves": [],
       "threat_categories": [
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "JavaScript obfuscation: From party trick to phishing kit",
-    "link": "https://blog.talosintelligence.com/javascript-obfuscation-from-party-trick-to-phishing-kit/",
-    "published": "Thu, 27 Aug 2026 10:00:27 GMT",
-    "summary": "Learn the basics of what obfuscation is, why a researcher would try to reverse it, and several ways to approach the problem.",
-    "analysis": {
-      "issue": "We open a JavaScript artifact hoping for code, and instead get string arrays, strangely named functions, encoded URLs, runtime decoders, and eval statements",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
       ]
     }
   },
@@ -1349,6 +1350,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Flock cameras are tracking people as well as cars",
+    "link": "https://www.malwarebytes.com/blog/privacy/2026/09/flock-cameras-are-tracking-people-as-well-as-cars",
+    "published": "Thu, 17 Sep 2026 18:46:12 GMT",
+    "summary": "Two reports reveal how Flock’s license plate camera network tracks people’s movements while oversight continues to lag.",
+    "analysis": {
+      "issue": "Flock Safety’s cameras are automated license plate readers (ALPRs) designed to help police find stolen cars or wanted suspects",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Revolut phishing texts appear days after data breach",
     "link": "https://www.malwarebytes.com/blog/threat-intel/2026/09/revolut-phishing-texts-appear-days-after-data-breach",
     "published": "Thu, 17 Sep 2026 14:07:15 GMT",
@@ -1510,24 +1529,6 @@
       "cves": [],
       "threat_categories": [
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Google’s new search redirects make links harder to check before you click",
-    "link": "https://www.malwarebytes.com/blog/news/2026/09/googles-new-search-redirects-make-links-harder-to-check-before-you-click",
-    "published": "Mon, 14 Sep 2026 14:17:44 GMT",
-    "summary": "Google says its new opaque redirects tackle evolving abuse, but they also prevent users from checking a result’s destination by hovering over it.",
-    "analysis": {
-      "issue": "Google is changing how some links in its search results work",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
