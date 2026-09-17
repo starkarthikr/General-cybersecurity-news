@@ -1,10 +1,92 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-17 05:08:07 UTC
+**Last Updated:** 2026-09-17 13:42:24 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution](https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html)
+### 1. [Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone](https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 17 Sep 2026 18:00:00 +0530  
+**Severity:** Critical  
+**Categories:** General Security  
+
+---
+
+### 2. [Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar](https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 17 Sep 2026 17:20:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [CISO's Expert Guide to Agentic Pentesting for Websites](https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 17 Sep 2026 16:20:53 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 4. [China-Aligned FamousSparrow Deploys SparroWocky Backdoor Across Latin America](https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 17 Sep 2026 15:35:45 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 5. [OpenAI Reveals Six Model Incidents Involving Hidden Failures and Unauthorized Uploads](https://thehackernews.com/2026/09/openai-reveals-six-model-incidents.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 17 Sep 2026 15:23:38 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 6. [BIND 9 Update Fixes 14 Flaws, Including an Unauthenticated Crash Over DNS-over-HTTPS](https://thehackernews.com/2026/09/bind-9-update-fixes-14-flaws-including.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 17 Sep 2026 13:30:29 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 7. [Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records](https://thehackernews.com/2026/09/gyazo-breach-exposes-2362-million-user.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 17 Sep 2026 13:00:01 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 8. [Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks](https://thehackernews.com/2026/09/cisco-warns-of-new-zero-day-ise-auth.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 17 Sep 2026 12:09:40 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-76460  
+**Categories:** Vulnerability  
+
+---
+
+### 9. [U.S. Seizes NightmareStresser Domains Linked to Hundreds of Thousands of DDoS Attacks](https://thehackernews.com/2026/09/us-seizes-nightmarestresser-domains.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 17 Sep 2026 10:43:46 +0530  
+**Severity:** Low  
+**Categories:** DDoS  
+
+---
+
+### 10. [Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution](https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 16 Sep 2026 21:20:59 +0530  
@@ -14,91 +96,53 @@
 
 ---
 
-### 2. [Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers](https://thehackernews.com/2026/09/three-threat-groups-target-russian.html)
+### 11. [Windows 11 24H2 Home and Pro reach end of support in October](https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 16 Sep 2026 20:57:49 +0530  
-**Severity:** Low  
-**Categories:** Ransomware, Malware  
-
----
-
-### 3. [One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude](https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 16 Sep 2026 20:06:44 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 17 Sep 2026 09:09:09 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 4. [Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories](https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html)
+### 12. [US takes down NightmareStresser DDoS-for-hire platform](https://www.bleepingcomputer.com/news/security/fbi-seizes-nightmarestresser-service-linked-to-thousands-of-ddos-attacks/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 16 Sep 2026 19:07:07 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 17 Sep 2026 07:33:35 -0400  
+**Severity:** Low  
+**Categories:** Malware, DDoS  
+
+---
+
+### 13. [Chinese hackers use SparroWocky malware in govt espionage attacks](https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 17 Sep 2026 05:00:00 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 14. [Microsoft shares workaround for Windows domain login issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-workaround-for-windows-domain-login-authentication-issues/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 17 Sep 2026 04:24:48 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 5. [Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix](https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html)
+### 15. [Cisco warns of max severity ISE zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 16 Sep 2026 18:44:05 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 17 Sep 2026 03:20:54 -0400  
 **Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 6. [N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security](https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 16 Sep 2026 17:28:00 +0530  
-**Severity:** Low  
-**Categories:** Phishing, APT  
-
----
-
-### 7. [Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation](https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 16 Sep 2026 16:45:58 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-58704  
+**CVEs:** CVE-2026-76460  
 **Categories:** Vulnerability  
 
 ---
 
-### 8. [Threat Intelligence Alone Won't Close the Exploitation Gap](https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 16 Sep 2026 16:45:48 +0530  
-**Severity:** Low  
-**Categories:** Data Breach, Vulnerability  
-
----
-
-### 9. [Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks](https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 16 Sep 2026 16:38:54 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-87886  
-**Categories:** Vulnerability  
-
----
-
-### 10. [Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells](https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 16 Sep 2026 11:18:28 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-27540  
-**Categories:** Vulnerability, APT  
-
----
-
-### 11. [Anthropic wants Claude to analyze your bank account and financial data](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/)
+### 16. [Anthropic wants Claude to analyze your bank account and financial data](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 16 Sep 2026 20:35:48 -0400  
@@ -107,7 +151,7 @@
 
 ---
 
-### 12. [Windows 11 KB5124008 update breaks domain trust for some users](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/)
+### 17. [Windows 11 KB5124008 update breaks domain trust for some users](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 16 Sep 2026 16:39:29 -0400  
@@ -116,7 +160,7 @@
 
 ---
 
-### 13. [Iranian hackers use CHOSEN BRICK Windows malware to spy on targets](https://www.bleepingcomputer.com/news/security/iranian-hackers-use-chosen-brick-windows-malware-to-spy-on-targets/)
+### 18. [Iranian hackers use CHOSEN BRICK Windows malware to spy on targets](https://www.bleepingcomputer.com/news/security/iranian-hackers-use-chosen-brick-windows-malware-to-spy-on-targets/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 16 Sep 2026 16:24:55 -0400  
@@ -125,7 +169,7 @@
 
 ---
 
-### 14. [Malware bypasses browser checks to force install Chrome, Edge extensions](https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/)
+### 19. [Malware bypasses browser checks to force install Chrome, Edge extensions](https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 16 Sep 2026 14:50:53 -0400  
@@ -134,58 +178,12 @@
 
 ---
 
-### 15. [Spain's data agency gets first report of AI-powered data breach](https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/)
+### 20. [Spain's data agency gets first report of AI-powered data breach](https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 16 Sep 2026 13:26:41 -0400  
 **Severity:** High  
 **Categories:** Data Breach, APT  
-
----
-
-### 16. [The true cost of a ransomware attack, with and without BCDR](https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 16 Sep 2026 10:00:10 -0400  
-**Severity:** Critical  
-**Categories:** Ransomware, Data Breach  
-
----
-
-### 17. [Microsoft says Copilot buttons still missing in classic Outlook](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-missing-outlook-copilot-buttons/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 16 Sep 2026 08:16:32 -0400  
-**Severity:** High  
-**Categories:** General Security  
-
----
-
-### 18. [Webinar: What happens in the first hours of a Google Workspace breach](https://www.bleepingcomputer.com/news/security/webinar-what-happens-in-the-first-hours-of-a-google-workspace-breach/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 16 Sep 2026 08:11:19 -0400  
-**Severity:** Critical  
-**Categories:** General Security  
-
----
-
-### 19. [Critical ScreenConnect flaw now actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 16 Sep 2026 07:14:28 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-84869  
-**Categories:** Ransomware, Vulnerability  
-
----
-
-### 20. [Windows Server 2022 reaches end of mainstream support next month](https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-next-month/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 16 Sep 2026 05:10:20 -0400  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -203,7 +201,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-85880, CVE-2026-81963, CVE-2026-69730, CVE-2026-69829  
+**CVEs:** CVE-2026-81963, CVE-2026-69829, CVE-2026-69730, CVE-2026-85880  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -240,7 +238,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-72971, CVE-2026-62832, CVE-2026-68820  
+**CVEs:** CVE-2026-68820, CVE-2026-62832, CVE-2026-72971  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -277,12 +275,78 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50661, CVE-2026-48561, CVE-2026-56164, CVE-2026-56155  
+**CVEs:** CVE-2026-56164, CVE-2026-50661, CVE-2026-48561, CVE-2026-56155  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 31. [First Agentic AI Data Breach Reported to Spanish Regulator](https://www.securityweek.com/first-agentic-ai-data-breach-reported-to-spanish-regulator/)
+### 31. [Comp AI Raises $34 Million for AI-Native Compliance and Security](https://www.securityweek.com/comp-ai-raises-34-million-for-ai-native-compliance-and-security/)
+
+**Source:** Security Week  
+**Published:** Thu, 17 Sep 2026 13:00:00 +0000  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 32. [ISC Patches 14 Vulnerabilities in BIND 9 Security Update](https://www.securityweek.com/isc-patches-14-vulnerabilities-in-bind-9-security-update/)
+
+**Source:** Security Week  
+**Published:** Thu, 17 Sep 2026 12:39:28 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-77692, CVE-2026-81736, CVE-2026-80274, CVE-2026-76163, CVE-2026-19666, CVE-2026-19667, CVE-2026-81563  
+**Categories:** Vulnerability  
+
+---
+
+### 33. [Ransomware Attacks on Manufacturers Surge as Supply Chain Risk Grows](https://www.securityweek.com/ransomware-attacks-on-manufacturers-surge-as-supply-chain-risk-grows/)
+
+**Source:** Security Week  
+**Published:** Thu, 17 Sep 2026 12:29:53 +0000  
+**Severity:** Critical  
+**Categories:** Ransomware, Data Breach, Vulnerability, Supply Chain  
+
+---
+
+### 34. [Cisco Fixes Dozens of Flaws Across FMC, ISE and Nexus Dashboard](https://www.securityweek.com/cisco-fixes-dozens-of-flaws-across-fmc-ise-and-nexus-dashboard/)
+
+**Source:** Security Week  
+**Published:** Thu, 17 Sep 2026 12:17:40 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-20079, CVE-2026-20282, CVE-2026-20316, CVE-2026-20284, CVE-2026-20332, CVE-2026-20283  
+**Categories:** Vulnerability, APT  
+
+---
+
+### 35. [CISA Releases Cyber Decoy Guidance to Strengthen Critical Infrastructure Defenses](https://www.securityweek.com/cisa-releases-guidance-on-deploying-cyber-decoys/)
+
+**Source:** Security Week  
+**Published:** Thu, 17 Sep 2026 07:53:43 +0000  
+**Severity:** Critical  
+**Categories:** Malware  
+
+---
+
+### 36. [AI Agents Can Retrain Own Models Mid-Task, Leaking Secrets and Erasing Refusals](https://www.securityweek.com/ai-agents-can-retrain-own-models-mid-task-leaking-secrets-and-erasing-refusals/)
+
+**Source:** Security Week  
+**Published:** Thu, 17 Sep 2026 07:41:29 +0000  
+**Severity:** Low  
+**Categories:** Data Breach  
+
+---
+
+### 37. [Active Exploitation Triggers Emergency Patch for Cisco ISE Zero-Day](https://www.securityweek.com/active-exploitation-triggers-emergency-patch-for-cisco-ise-zero-day/)
+
+**Source:** Security Week  
+**Published:** Thu, 17 Sep 2026 06:19:52 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-76460  
+**Categories:** Vulnerability  
+
+---
+
+### 38. [First Agentic AI Data Breach Reported to Spanish Regulator](https://www.securityweek.com/first-agentic-ai-data-breach-reported-to-spanish-regulator/)
 
 **Source:** Security Week  
 **Published:** Wed, 16 Sep 2026 16:39:19 +0000  
@@ -291,7 +355,7 @@
 
 ---
 
-### 32. [Virtual Event Today: Attack Surface Management Summit](https://www.securityweek.com/virtual-event-today-attack-surface-management-summit-2/)
+### 39. [Virtual Event Today: Attack Surface Management Summit](https://www.securityweek.com/virtual-event-today-attack-surface-management-summit-2/)
 
 **Source:** Security Week  
 **Published:** Wed, 16 Sep 2026 14:35:04 +0000  
@@ -300,7 +364,7 @@
 
 ---
 
-### 33. [EU Chief Warns of AI-Powered Hacking, Moves to Rein In Social Media](https://www.securityweek.com/eu-chief-warns-of-ai-powered-hacking-moves-to-rein-in-social-media/)
+### 40. [EU Chief Warns of AI-Powered Hacking, Moves to Rein In Social Media](https://www.securityweek.com/eu-chief-warns-of-ai-powered-hacking-moves-to-rein-in-social-media/)
 
 **Source:** Security Week  
 **Published:** Wed, 16 Sep 2026 14:15:18 +0000  
@@ -309,73 +373,16 @@
 
 ---
 
-### 34. [AIUC Raises $40 Million to Certify Enterprise AI Agents](https://www.securityweek.com/aiuc-raises-40-million-to-certify-enterprise-ai-agents/)
+### 41. [Ransomware incidents in Japan in the first half of 2026: Investigation of The Gentlemen’s infrastructure and evidence of Qilin's AI use](https://blog.talosintelligence.com/ransomware-incidents-in-japan-in-the-first-half-of-2026/)
 
-**Source:** Security Week  
-**Published:** Wed, 16 Sep 2026 13:38:36 +0000  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 35. [Pixel Modem Zero-Day Exploited in Targeted Attacks](https://www.securityweek.com/pixel-modem-zero-day-exploited-in-targeted-attacks/)
-
-**Source:** Security Week  
-**Published:** Wed, 16 Sep 2026 13:10:54 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-58704  
-**Categories:** Vulnerability, DDoS  
+**Source:** Talos Blog  
+**Published:** Thu, 17 Sep 2026 10:00:43 GMT  
+**Severity:** High  
+**Categories:** Ransomware  
 
 ---
 
-### 36. [US, UK, Dutch Agencies Expose Iranian ‘Chosen Brick’ Surveillance Malware](https://www.securityweek.com/us-uk-dutch-agencies-expose-iranian-chosen-brick-surveillance-malware/)
-
-**Source:** Security Week  
-**Published:** Wed, 16 Sep 2026 12:00:14 +0000  
-**Severity:** Low  
-**Categories:** Malware, APT  
-
----
-
-### 37. [Unauthenticated RCE Flaws Could Expose 200,000+ WordPress Sites to Takeover](https://www.securityweek.com/unauthenticated-rce-flaws-could-expose-200000-wordpress-sites-to-takeover/)
-
-**Source:** Security Week  
-**Published:** Wed, 16 Sep 2026 11:32:53 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-78006, CVE-2026-78159  
-**Categories:** Vulnerability  
-
----
-
-### 38. [Hackuity Raises $19 Million for AI-Powered Vulnerability Management](https://www.securityweek.com/hackuity-raises-19-million-for-ai-powered-vulnerability-management/)
-
-**Source:** Security Week  
-**Published:** Wed, 16 Sep 2026 11:11:23 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 39. [280,000 Impacted by Premier Medical Group Data Breach](https://www.securityweek.com/280000-impacted-by-premier-medical-group-data-breach/)
-
-**Source:** Security Week  
-**Published:** Wed, 16 Sep 2026 10:47:18 +0000  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach  
-
----
-
-### 40. [Chrome, Firefox Updates Patch 115 Vulnerabilities](https://www.securityweek.com/chrome-firefox-updates-patch-115-vulnerabilities/)
-
-**Source:** Security Week  
-**Published:** Wed, 16 Sep 2026 10:28:36 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-91749, CVE-2026-91721, CVE-2026-91726  
-**Categories:** Vulnerability  
-
----
-
-### 41. [Securing the unpatchable in an age of AI-driven vulnerabilities](https://blog.talosintelligence.com/securing-the-unpatchable-in-an-age-of-ai-driven-vulnerabilities/)
+### 42. [Securing the unpatchable in an age of AI-driven vulnerabilities](https://blog.talosintelligence.com/securing-the-unpatchable-in-an-age-of-ai-driven-vulnerabilities/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 16 Sep 2026 10:00:36 GMT  
@@ -384,7 +391,7 @@
 
 ---
 
-### 42. [We've got one word for it, and it's usually the wrong one](https://blog.talosintelligence.com/weve-got-one-word-for-it-and-its-usually-the-wrong-one/)
+### 43. [We've got one word for it, and it's usually the wrong one](https://blog.talosintelligence.com/weve-got-one-word-for-it-and-its-usually-the-wrong-one/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 10 Sep 2026 18:00:15 GMT  
@@ -393,27 +400,27 @@
 
 ---
 
-### 43. [Active exploitation of Cisco Secure Firewall Management Center vulnerabilities](https://blog.talosintelligence.com/fmc-ongoing-exploitation/)
+### 44. [Active exploitation of Cisco Secure Firewall Management Center vulnerabilities](https://blog.talosintelligence.com/fmc-ongoing-exploitation/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 09 Sep 2026 16:08:59 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20316, CVE-2026-20079  
+**CVEs:** CVE-2026-20079, CVE-2026-20316  
 **Categories:** Ransomware, Vulnerability, Malware, APT  
 
 ---
 
-### 44. [Microsoft Patch Tuesday for September 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-for-september-2026/)
+### 45. [Microsoft Patch Tuesday for September 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-for-september-2026/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 08 Sep 2026 22:16:35 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-85880, CVE-2026-81963, CVE-2026-69676, CVE-2026-69852  
+**CVEs:** CVE-2026-81963, CVE-2026-69852, CVE-2026-69676, CVE-2026-85880  
 **Categories:** Vulnerability, APT  
 
 ---
 
-### 45. [ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager](https://blog.talosintelligence.com/clearfake-webdav-infection-chain/)
+### 46. [ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager](https://blog.talosintelligence.com/clearfake-webdav-infection-chain/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 08 Sep 2026 10:01:07 GMT  
@@ -422,7 +429,7 @@
 
 ---
 
-### 46. [ClickFix moves into the browser: Cryptocurrency theft with Google-hosted C2](https://blog.talosintelligence.com/clickfix-moves-into-the-browser/)
+### 47. [ClickFix moves into the browser: Cryptocurrency theft with Google-hosted C2](https://blog.talosintelligence.com/clickfix-moves-into-the-browser/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 08 Sep 2026 10:00:38 GMT  
@@ -431,7 +438,7 @@
 
 ---
 
-### 47. [The story behind the intelligence](https://blog.talosintelligence.com/the-story-behind-the-intelligence/)
+### 48. [The story behind the intelligence](https://blog.talosintelligence.com/the-story-behind-the-intelligence/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 03 Sep 2026 18:00:13 GMT  
@@ -440,7 +447,7 @@
 
 ---
 
-### 48. [“Sorry, I can’t help with that”: How your guardrails might become the attacker’s best friend](https://blog.talosintelligence.com/sorry-i-cant-help-with-that-how-your-guardrails-might-become-the-attackers-best-friend/)
+### 49. [“Sorry, I can’t help with that”: How your guardrails might become the attacker’s best friend](https://blog.talosintelligence.com/sorry-i-cant-help-with-that-how-your-guardrails-might-become-the-attackers-best-friend/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 27 Aug 2026 18:00:24 GMT  
@@ -449,21 +456,12 @@
 
 ---
 
-### 49. [JavaScript obfuscation: From party trick to phishing kit](https://blog.talosintelligence.com/javascript-obfuscation-from-party-trick-to-phishing-kit/)
+### 50. [JavaScript obfuscation: From party trick to phishing kit](https://blog.talosintelligence.com/javascript-obfuscation-from-party-trick-to-phishing-kit/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 27 Aug 2026 10:00:27 GMT  
 **Severity:** Low  
 **Categories:** Malware, Phishing  
-
----
-
-### 50. [Choose your fighter: Balancing competing requirements to select models for your AI SOC](https://blog.talosintelligence.com/choose-your-fighter-balancing-competing-requirements-to-select-models-for-your-ai-soc/)
-
-**Source:** Talos Blog  
-**Published:** Wed, 26 Aug 2026 10:00:05 GMT  
-**Severity:** Critical  
-**Categories:** General Security  
 
 ---
 
@@ -637,7 +635,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -652,7 +650,25 @@
 
 ---
 
-### 71. [Google Pixel owners urged to patch actively exploited modem flaw](https://www.malwarebytes.com/blog/mobile/2026/09/google-pixel-owners-urged-to-patch-actively-exploited-modem-flaw)
+### 71. [12 celebrity deepfake websites seized by Manhattan DA](https://www.malwarebytes.com/blog/ai/2026/09/12-celebrity-deepfake-websites-seized-by-manhattan-da)
+
+**Source:** Malwarebytes  
+**Published:** Thu, 17 Sep 2026 11:20:46 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 72. [T-Mobile rewards points expiry texts are a phishing scam](https://www.malwarebytes.com/blog/threat-intel/2026/09/t-mobile-rewards-points-expiry-texts-are-a-phishing-scam)
+
+**Source:** Malwarebytes  
+**Published:** Thu, 17 Sep 2026 10:44:01 GMT  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 73. [Google Pixel owners urged to patch actively exploited modem flaw](https://www.malwarebytes.com/blog/mobile/2026/09/google-pixel-owners-urged-to-patch-actively-exploited-modem-flaw)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 16 Sep 2026 10:39:04 GMT  
@@ -662,7 +678,7 @@
 
 ---
 
-### 72. [AI helps scammers build convincing antivirus renewal pages](https://www.malwarebytes.com/blog/threat-intel/2026/09/ai-helps-scammers-build-convincing-antivirus-renewal-pages)
+### 74. [AI helps scammers build convincing antivirus renewal pages](https://www.malwarebytes.com/blog/threat-intel/2026/09/ai-helps-scammers-build-convincing-antivirus-renewal-pages)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 16 Sep 2026 08:41:19 GMT  
@@ -671,7 +687,7 @@
 
 ---
 
-### 73. [How to opt out of AI chatbot training](https://www.malwarebytes.com/blog/how-to/2026/09/how-to-opt-out-of-ai-chatbot-training)
+### 75. [How to opt out of AI chatbot training](https://www.malwarebytes.com/blog/how-to/2026/09/how-to-opt-out-of-ai-chatbot-training)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 15 Sep 2026 15:41:44 GMT  
@@ -680,7 +696,7 @@
 
 ---
 
-### 74. [HBO Max’s verified Reddit account hijacked to spread malware](https://www.malwarebytes.com/blog/news/2026/09/hbo-maxs-verified-reddit-account-hijacked-to-spread-malware)
+### 76. [HBO Max’s verified Reddit account hijacked to spread malware](https://www.malwarebytes.com/blog/news/2026/09/hbo-maxs-verified-reddit-account-hijacked-to-spread-malware)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 15 Sep 2026 11:51:03 GMT  
@@ -689,7 +705,7 @@
 
 ---
 
-### 75. [Meta AI builds detailed profiles of children from years of family posts](https://www.malwarebytes.com/blog/family-and-parenting/2026/09/meta-ai-builds-detailed-profiles-of-children-from-years-of-family-posts)
+### 77. [Meta AI builds detailed profiles of children from years of family posts](https://www.malwarebytes.com/blog/family-and-parenting/2026/09/meta-ai-builds-detailed-profiles-of-children-from-years-of-family-posts)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 15 Sep 2026 09:44:10 GMT  
@@ -698,7 +714,7 @@
 
 ---
 
-### 76. [Search results are sending people to fake Bitrefill checkouts](https://www.malwarebytes.com/blog/threat-intel/2026/09/search-results-are-sending-people-to-fake-bitrefill-checkouts)
+### 78. [Search results are sending people to fake Bitrefill checkouts](https://www.malwarebytes.com/blog/threat-intel/2026/09/search-results-are-sending-people-to-fake-bitrefill-checkouts)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 15 Sep 2026 08:40:22 GMT  
@@ -707,7 +723,7 @@
 
 ---
 
-### 77. [Google’s new search redirects make links harder to check before you click](https://www.malwarebytes.com/blog/news/2026/09/googles-new-search-redirects-make-links-harder-to-check-before-you-click)
+### 79. [Google’s new search redirects make links harder to check before you click](https://www.malwarebytes.com/blog/news/2026/09/googles-new-search-redirects-make-links-harder-to-check-before-you-click)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 14 Sep 2026 14:17:44 GMT  
@@ -716,30 +732,12 @@
 
 ---
 
-### 78. [Revolut gave customer IDs and financial data to a government impostor](https://www.malwarebytes.com/blog/news/2026/09/revolut-gave-customer-ids-and-financial-data-to-a-government-impostor)
+### 80. [Revolut gave customer IDs and financial data to a government impostor](https://www.malwarebytes.com/blog/news/2026/09/revolut-gave-customer-ids-and-financial-data-to-a-government-impostor)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 14 Sep 2026 11:15:38 GMT  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 79. [A week in security (September 7 – September 13)](https://www.malwarebytes.com/blog/news/2026/09/a-week-in-security-september-7-september-13)
-
-**Source:** Malwarebytes  
-**Published:** Mon, 14 Sep 2026 07:01:00 GMT  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 80. [Crypto customers targeted by scammers after email marketing provider breach](https://www.malwarebytes.com/blog/news/2026/09/crypto-customers-targeted-by-scammers-after-email-marketing-provider-breach)
-
-**Source:** Malwarebytes  
-**Published:** Fri, 11 Sep 2026 15:01:53 GMT  
-**Severity:** Critical  
-**Categories:** Vulnerability, Phishing, Supply Chain  
 
 ---
 
