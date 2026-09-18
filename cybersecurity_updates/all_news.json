@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
+    "link": "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html",
+    "published": "Fri, 18 Sep 2026 22:26:19 +0530",
+    "summary": "WordPress today released patches to fix a new set of vulnerabilities in its core software, one of which could allow a crafted web link, opened by a logged-in administrator, to install a theme from the official WordPress.org directory without anyone clicking Install.\n\nThe security firm pwn.ai, whose researchers reported the flaw, calls the attack chain Click2Shell. On its own the flaw only",
+    "analysis": {
+      "issue": "1 fixes Click2Shell, which can force theme installs from crafted links and was chained with a theme flaw for code execution",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
     "link": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
     "published": "Fri, 18 Sep 2026 20:54:16 +0530",
@@ -161,24 +179,6 @@
       "threat_categories": [
         "Ransomware",
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files",
-    "link": "https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html",
-    "published": "Thu, 17 Sep 2026 21:07:56 +0530",
-    "summary": "Malicious code running inside a Docker Sandboxes virtual machine on macOS could escape the project directory shared into it and read or change files anywhere else on the host, Docker warns in a&nbsp;security announcement&nbsp;on September 15.\n\nThe escape runs with the rights of the host account that runs the virtual machine. The flaw,&nbsp;CVE-2026-77179, is rated Critical, affects versions",
-    "analysis": {
-      "issue": "Docker Sandboxes flaws can expose host files or Unix sockets outside the workspace; both were fixed in 0",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -399,10 +399,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69730",
-        "CVE-2026-81963",
+        "CVE-2026-69829",
         "CVE-2026-85880",
-        "CVE-2026-69829"
+        "CVE-2026-81963",
+        "CVE-2026-69730"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -479,8 +479,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-62832",
         "CVE-2026-68820",
+        "CVE-2026-62832",
         "CVE-2026-72971"
       ],
       "threat_categories": [
@@ -558,10 +558,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50661",
+        "CVE-2026-56155",
         "CVE-2026-48561",
-        "CVE-2026-56164",
-        "CVE-2026-56155"
+        "CVE-2026-50661",
+        "CVE-2026-56164"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -582,8 +582,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-15316",
         "CVE-2026-44756",
+        "CVE-2026-15316",
         "CVE-2026-15315"
       ],
       "threat_categories": [
@@ -864,8 +864,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20316",
-        "CVE-2026-20079"
+        "CVE-2026-20079",
+        "CVE-2026-20316"
       ],
       "threat_categories": [
         "Ransomware",
@@ -889,8 +889,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-69852",
-        "CVE-2026-81963",
         "CVE-2026-85880",
+        "CVE-2026-81963",
         "CVE-2026-69676"
       ],
       "threat_categories": [
@@ -1324,8 +1324,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",

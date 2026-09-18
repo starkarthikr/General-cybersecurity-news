@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-18 16:10:39 UTC
+**Last Updated:** 2026-09-18 19:07:08 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2](https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html)
+### 1. [New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution](https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 18 Sep 2026 22:26:19 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2](https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 18 Sep 2026 20:54:16 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation](https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html)
+### 3. [Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation](https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 18 Sep 2026 18:17:04 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.](https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html)
+### 4. [An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.](https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 18 Sep 2026 16:31:16 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents](https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html)
+### 5. [Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents](https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 18 Sep 2026 16:31:01 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage](https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html)
+### 6. [WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage](https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 18 Sep 2026 16:10:06 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer](https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html)
+### 7. [Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer](https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 18 Sep 2026 14:48:03 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall](https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html)
+### 8. [RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall](https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 18 Sep 2026 11:47:25 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root](https://thehackernews.com/2026/09/critical-check-point-management-server.html)
+### 9. [Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root](https://thehackernews.com/2026/09/critical-check-point-management-server.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 17 Sep 2026 23:38:28 +0530  
@@ -77,21 +86,12 @@
 
 ---
 
-### 9. [ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories](https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html)
+### 10. [ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories](https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 17 Sep 2026 23:02:22 +0530  
 **Severity:** Low  
 **Categories:** Ransomware, Malware  
-
----
-
-### 10. [Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files](https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 17 Sep 2026 21:07:56 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
 
 ---
 
@@ -200,7 +200,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69730, CVE-2026-81963, CVE-2026-85880, CVE-2026-69829  
+**CVEs:** CVE-2026-69829, CVE-2026-85880, CVE-2026-81963, CVE-2026-69730  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -237,7 +237,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62832, CVE-2026-68820, CVE-2026-72971  
+**CVEs:** CVE-2026-68820, CVE-2026-62832, CVE-2026-72971  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -274,7 +274,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50661, CVE-2026-48561, CVE-2026-56164, CVE-2026-56155  
+**CVEs:** CVE-2026-56155, CVE-2026-48561, CVE-2026-50661, CVE-2026-56164  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -284,7 +284,7 @@
 **Source:** Security Week  
 **Published:** Fri, 18 Sep 2026 14:25:00 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-15316, CVE-2026-44756, CVE-2026-15315  
+**CVEs:** CVE-2026-44756, CVE-2026-15316, CVE-2026-15315  
 **Categories:** Ransomware, Vulnerability, Malware, APT  
 
 ---
@@ -414,7 +414,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 09 Sep 2026 16:08:59 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20316, CVE-2026-20079  
+**CVEs:** CVE-2026-20079, CVE-2026-20316  
 **Categories:** Ransomware, Vulnerability, Malware, APT  
 
 ---
@@ -424,7 +424,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 08 Sep 2026 22:16:35 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69852, CVE-2026-81963, CVE-2026-85880, CVE-2026-69676  
+**CVEs:** CVE-2026-69852, CVE-2026-85880, CVE-2026-81963, CVE-2026-69676  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -635,7 +635,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
