@@ -1,10 +1,47 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-17 19:48:00 UTC
+**Last Updated:** 2026-09-18 04:07:15 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone](https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html)
+### 1. [Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root](https://thehackernews.com/2026/09/critical-check-point-management-server.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 17 Sep 2026 23:38:28 +0530  
+**Severity:** Critical  
+**CVEs:** CVE-2026-91843  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories](https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 17 Sep 2026 23:02:22 +0530  
+**Severity:** Low  
+**Categories:** Ransomware, Malware  
+
+---
+
+### 3. [Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files](https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 17 Sep 2026 21:07:56 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 4. [Iran-Linked Handala Hack Tied to HEAVYGRAM Telegram Backdoor That Can Steal Passwords](https://thehackernews.com/2026/09/iran-linked-handala-hack-tied-to.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 17 Sep 2026 19:33:13 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 5. [Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone](https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 17 Sep 2026 18:00:00 +0530  
@@ -13,7 +50,7 @@
 
 ---
 
-### 2. [Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar](https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html)
+### 6. [Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar](https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 17 Sep 2026 17:20:00 +0530  
@@ -22,7 +59,7 @@
 
 ---
 
-### 3. [CISO's Expert Guide to Agentic Pentesting for Websites](https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html)
+### 7. [CISO's Expert Guide to Agentic Pentesting for Websites](https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 17 Sep 2026 16:20:53 +0530  
@@ -31,7 +68,7 @@
 
 ---
 
-### 4. [China-Aligned FamousSparrow Deploys SparroWocky Backdoor Across Latin America](https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html)
+### 8. [China-Aligned FamousSparrow Deploys SparroWocky Backdoor Across Latin America](https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 17 Sep 2026 15:35:45 +0530  
@@ -40,7 +77,7 @@
 
 ---
 
-### 5. [OpenAI Reveals Six Model Incidents Involving Hidden Failures and Unauthorized Uploads](https://thehackernews.com/2026/09/openai-reveals-six-model-incidents.html)
+### 9. [OpenAI Reveals Six Model Incidents Involving Hidden Failures and Unauthorized Uploads](https://thehackernews.com/2026/09/openai-reveals-six-model-incidents.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 17 Sep 2026 15:23:38 +0530  
@@ -49,7 +86,7 @@
 
 ---
 
-### 6. [BIND 9 Update Fixes 14 Flaws, Including an Unauthenticated Crash Over DNS-over-HTTPS](https://thehackernews.com/2026/09/bind-9-update-fixes-14-flaws-including.html)
+### 10. [BIND 9 Update Fixes 14 Flaws, Including an Unauthenticated Crash Over DNS-over-HTTPS](https://thehackernews.com/2026/09/bind-9-update-fixes-14-flaws-including.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 17 Sep 2026 13:30:29 +0530  
@@ -58,45 +95,16 @@
 
 ---
 
-### 7. [Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records](https://thehackernews.com/2026/09/gyazo-breach-exposes-2362-million-user.html)
+### 11. [New RatHat Android malware uses AI to automate device control](https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 17 Sep 2026 13:00:01 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 8. [Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks](https://thehackernews.com/2026/09/cisco-warns-of-new-zero-day-ise-auth.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 17 Sep 2026 12:09:40 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-76460  
-**Categories:** Vulnerability  
+**Source:** Bleeping Computer  
+**Published:** Thu, 17 Sep 2026 17:50:26 -0400  
+**Severity:** High  
+**Categories:** Malware, Phishing  
 
 ---
 
-### 9. [U.S. Seizes NightmareStresser Domains Linked to Hundreds of Thousands of DDoS Attacks](https://thehackernews.com/2026/09/us-seizes-nightmarestresser-domains.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 17 Sep 2026 10:43:46 +0530  
-**Severity:** Low  
-**Categories:** DDoS  
-
----
-
-### 10. [Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution](https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 16 Sep 2026 21:20:59 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-89026  
-**Categories:** Vulnerability  
-
----
-
-### 11. [OpenAI details more cases of AI agents taking unauthorized actions](https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/)
+### 12. [OpenAI details more cases of AI agents taking unauthorized actions](https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 17 Sep 2026 14:55:12 -0400  
@@ -105,7 +113,7 @@
 
 ---
 
-### 12. [Brevo supply-chain attack injected ClickFix scripts on customer sites](https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/)
+### 13. [Brevo supply-chain attack injected ClickFix scripts on customer sites](https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 17 Sep 2026 13:11:34 -0400  
@@ -114,7 +122,7 @@
 
 ---
 
-### 13. [What Recent AI-Powered Attacks Mean for Your Identity Security](https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/)
+### 14. [What Recent AI-Powered Attacks Mean for Your Identity Security](https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 17 Sep 2026 10:01:11 -0400  
@@ -123,7 +131,7 @@
 
 ---
 
-### 14. [Windows 11 24H2 Home and Pro reach end of support in October](https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/)
+### 15. [Windows 11 24H2 Home and Pro reach end of support in October](https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 17 Sep 2026 09:09:09 -0400  
@@ -132,7 +140,7 @@
 
 ---
 
-### 15. [US takes down NightmareStresser DDoS-for-hire platform](https://www.bleepingcomputer.com/news/security/fbi-seizes-nightmarestresser-service-linked-to-thousands-of-ddos-attacks/)
+### 16. [US takes down NightmareStresser DDoS-for-hire platform](https://www.bleepingcomputer.com/news/security/fbi-seizes-nightmarestresser-service-linked-to-thousands-of-ddos-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 17 Sep 2026 07:33:35 -0400  
@@ -141,7 +149,7 @@
 
 ---
 
-### 16. [Chinese hackers use SparroWocky malware in govt espionage attacks](https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/)
+### 17. [Chinese hackers use SparroWocky malware in govt espionage attacks](https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 17 Sep 2026 05:00:00 -0400  
@@ -150,7 +158,7 @@
 
 ---
 
-### 17. [Microsoft shares workaround for Windows domain login issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-workaround-for-windows-domain-login-authentication-issues/)
+### 18. [Microsoft shares workaround for Windows domain login issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-workaround-for-windows-domain-login-authentication-issues/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 17 Sep 2026 04:24:48 -0400  
@@ -159,7 +167,7 @@
 
 ---
 
-### 18. [Cisco warns of max severity ISE zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/)
+### 19. [Cisco warns of max severity ISE zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 17 Sep 2026 03:20:54 -0400  
@@ -169,19 +177,10 @@
 
 ---
 
-### 19. [Anthropic wants Claude to analyze your bank account and financial data](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/)
+### 20. [Anthropic wants Claude to analyze your bank account and financial data](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 16 Sep 2026 20:35:48 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [Windows 11 KB5124008 update breaks domain trust for some users](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 16 Sep 2026 16:39:29 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -201,7 +200,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69730, CVE-2026-81963, CVE-2026-85880, CVE-2026-69829  
+**CVEs:** CVE-2026-69829, CVE-2026-85880, CVE-2026-69730, CVE-2026-81963  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -238,7 +237,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-72971, CVE-2026-62832, CVE-2026-68820  
+**CVEs:** CVE-2026-68820, CVE-2026-72971, CVE-2026-62832  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -275,7 +274,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56155, CVE-2026-56164, CVE-2026-48561, CVE-2026-50661  
+**CVEs:** CVE-2026-50661, CVE-2026-56164, CVE-2026-48561, CVE-2026-56155  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -330,7 +329,7 @@
 **Source:** Security Week  
 **Published:** Thu, 17 Sep 2026 12:39:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-80274, CVE-2026-76163, CVE-2026-81736, CVE-2026-19666, CVE-2026-81563, CVE-2026-19667, CVE-2026-77692  
+**CVEs:** CVE-2026-19666, CVE-2026-81736, CVE-2026-76163, CVE-2026-80274, CVE-2026-19667, CVE-2026-77692, CVE-2026-81563  
 **Categories:** Vulnerability  
 
 ---
@@ -349,7 +348,7 @@
 **Source:** Security Week  
 **Published:** Thu, 17 Sep 2026 12:17:40 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20332, CVE-2026-20316, CVE-2026-20282, CVE-2026-20079, CVE-2026-20283, CVE-2026-20284  
+**CVEs:** CVE-2026-20282, CVE-2026-20316, CVE-2026-20283, CVE-2026-20284, CVE-2026-20079, CVE-2026-20332  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -423,7 +422,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 08 Sep 2026 22:16:35 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81963, CVE-2026-85880, CVE-2026-69676, CVE-2026-69852  
+**CVEs:** CVE-2026-69852, CVE-2026-85880, CVE-2026-69676, CVE-2026-81963  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -634,7 +633,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -749,7 +748,16 @@
 
 ---
 
-### 82. [CrowdStrike Accelerates Real-Time Data Classification with On-Device AI](https://www.crowdstrike.com/en-us/blog/crowdstrike-accelerates-real-time-data-classification-with-on-device-ai/)
+### 82. [CrowdStrike SafeMind: When the Best Offense Builds the Best Defense](https://www.crowdstrike.com/en-us/blog/crowdstrike-safemind-best-offense-builds-best-defense/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Sep 17, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 83. [CrowdStrike Accelerates Real-Time Data Classification with On-Device AI](https://www.crowdstrike.com/en-us/blog/crowdstrike-accelerates-real-time-data-classification-with-on-device-ai/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 16, 2026 00:00:00-0500  
@@ -758,7 +766,7 @@
 
 ---
 
-### 83. [PhantomRaven: An LLM-Generated Information Stealer Developed for Bug Bounty Hunting](https://www.crowdstrike.com/en-us/blog/phantomraven-llm-generated-information-stealer-for-bug-bounty-hunting/)
+### 84. [PhantomRaven: An LLM-Generated Information Stealer Developed for Bug Bounty Hunting](https://www.crowdstrike.com/en-us/blog/phantomraven-llm-generated-information-stealer-for-bug-bounty-hunting/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 15, 2026 00:00:00-0500  
@@ -767,7 +775,7 @@
 
 ---
 
-### 84. [September 2026 Patch Tuesday: Two Exploited Zero-Days and 113 Critical Vulnerabilities Among 972 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-september-2026/)
+### 85. [September 2026 Patch Tuesday: Two Exploited Zero-Days and 113 Critical Vulnerabilities Among 972 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-september-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 08, 2026 00:00:00-0500  
@@ -776,7 +784,7 @@
 
 ---
 
-### 85. [CrowdStrike Delivers the Next Evolution of the Agentic SOC](https://www.crowdstrike.com/en-us/blog/crowdstrike-delivers-next-evolution-of-agentic-soc/)
+### 86. [CrowdStrike Delivers the Next Evolution of the Agentic SOC](https://www.crowdstrike.com/en-us/blog/crowdstrike-delivers-next-evolution-of-agentic-soc/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 02, 2026 00:00:00-0400  
@@ -785,7 +793,7 @@
 
 ---
 
-### 86. [CrowdStrike Extends Endpoint Security to Stop Software Supply Chain Attacks](https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-endpoint-security-to-stop-supply-chain-attacks/)
+### 87. [CrowdStrike Extends Endpoint Security to Stop Software Supply Chain Attacks](https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-endpoint-security-to-stop-supply-chain-attacks/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 02, 2026 00:00:00-0400  
@@ -794,7 +802,7 @@
 
 ---
 
-### 87. [CrowdStrike Announces Agentic Identity Provider](https://www.crowdstrike.com/en-us/blog/crowdstrike-announces-agentic-identity-provider/)
+### 88. [CrowdStrike Announces Agentic Identity Provider](https://www.crowdstrike.com/en-us/blog/crowdstrike-announces-agentic-identity-provider/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 02, 2026 00:00:00-0400  
@@ -803,7 +811,7 @@
 
 ---
 
-### 88. [CrowdStrike Falcon Guardian Defines the Next Generation of AI Security](https://www.crowdstrike.com/en-us/blog/falcon-guardian-defines-next-generation-of-ai-security/)
+### 89. [CrowdStrike Falcon Guardian Defines the Next Generation of AI Security](https://www.crowdstrike.com/en-us/blog/falcon-guardian-defines-next-generation-of-ai-security/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 01, 2026 00:00:00-0400  
@@ -812,21 +820,12 @@
 
 ---
 
-### 89. [Peer Pressure: Inside the Sality Botnet Disruption Operation](https://www.crowdstrike.com/en-us/blog/inside-sality-botnet-disruption-operation/)
+### 90. [Peer Pressure: Inside the Sality Botnet Disruption Operation](https://www.crowdstrike.com/en-us/blog/inside-sality-botnet-disruption-operation/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 01, 2026 00:00:00-0400  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 90. [Agents of Chaos: A New $100K Agentic Security Challenge](https://www.crowdstrike.com/en-us/blog/agents-of-chaos-immersive-ai-security-challenge/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Aug 31, 2026 00:00:00-0400  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
