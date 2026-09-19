@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
+    "link": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html",
+    "published": "Fri, 18 Sep 2026 23:32:24 +0530",
+    "summary": "A security researcher has released working exploit code for four Linux kernel flaws that each let a local user gain root, the highest level of access on a machine.\n\nKernel maintainers have fixed all four over the past few weeks, so a system running an up-to-date kernel is not affected. But the exploit code is now public, and any machine still running an older kernel should be updated.\n\nThe flaws",
+    "analysis": {
+      "issue": "Public exploits for four patched Linux kernel flaws let local users gain root; three require unprivileged user namespaces",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
     "link": "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html",
     "published": "Fri, 18 Sep 2026 22:26:19 +0530",
@@ -164,25 +182,6 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories",
-    "link": "https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html",
-    "published": "Thu, 17 Sep 2026 23:02:22 +0530",
-    "summary": "Attackers keep finding new keys. The funny part is that defenders keep inventing where to store them.\n\nThis week, those keys sit in AI tools, exposed services, old bugs, weak logins, and software sold like a monthly subscription. Some attacks use new tricks. Others just reuse what was already lying around. Both work often enough.\n\nSo the threat landscape is not getting cleaner. It is just",
-    "analysis": {
-      "issue": "AI abuse, exposed infrastructure, ransomware, infostealers, malware markets, and old bugs return in this week’s ThreatsDay cybersecurity roundup",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
     "title": "Gyazo server flaw exploited to steal 23.6 million user records",
     "link": "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/",
@@ -305,8 +304,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-85103",
-        "CVE-2026-91843"
+        "CVE-2026-91843",
+        "CVE-2026-85103"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -399,9 +398,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-81963",
         "CVE-2026-69829",
         "CVE-2026-85880",
-        "CVE-2026-81963",
         "CVE-2026-69730"
       ],
       "threat_categories": [
@@ -479,9 +478,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-72971",
         "CVE-2026-68820",
-        "CVE-2026-62832",
-        "CVE-2026-72971"
+        "CVE-2026-62832"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -582,8 +581,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-44756",
         "CVE-2026-15316",
+        "CVE-2026-44756",
         "CVE-2026-15315"
       ],
       "threat_categories": [
@@ -864,8 +863,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20079",
-        "CVE-2026-20316"
+        "CVE-2026-20316",
+        "CVE-2026-20079"
       ],
       "threat_categories": [
         "Ransomware",
@@ -888,9 +887,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69852",
-        "CVE-2026-85880",
         "CVE-2026-81963",
+        "CVE-2026-85880",
+        "CVE-2026-69852",
         "CVE-2026-69676"
       ],
       "threat_categories": [
