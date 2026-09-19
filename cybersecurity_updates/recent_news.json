@@ -238,8 +238,8 @@
   },
   {
     "source": "Bleeping Computer",
-    "title": "Calling viral AI actress Tilly Norwood? Agree to a face scan first",
-    "link": "https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/",
+    "title": "Viral AI actress' hotline face-scans every caller, watches their mood",
+    "link": "https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/",
     "published": "Sat, 19 Sep 2026 07:38:20 -0400",
     "summary": "AI actress Tilly Norwood went viral after glitching into Chinese on Piers Morgan Uncensored last night. Her \"Talking Tilly\" video call service face-scans every caller for an 18+ age check, senses callers' moods during calls, and shuts down permanently on September 27. We tried it and read the fine print. [...]",
     "analysis": {
@@ -395,8 +395,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69730",
         "CVE-2026-81963",
+        "CVE-2026-69730",
         "CVE-2026-85880",
         "CVE-2026-69829"
       ],
@@ -475,9 +475,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-68820",
         "CVE-2026-62832",
-        "CVE-2026-72971",
-        "CVE-2026-68820"
+        "CVE-2026-72971"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -554,10 +554,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50661",
         "CVE-2026-56164",
-        "CVE-2026-48561",
-        "CVE-2026-56155"
+        "CVE-2026-56155",
+        "CVE-2026-50661",
+        "CVE-2026-48561"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -596,8 +596,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-44756",
         "CVE-2026-15316",
+        "CVE-2026-44756",
         "CVE-2026-15315"
       ],
       "threat_categories": [
@@ -882,9 +882,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-81963",
-        "CVE-2026-85880",
+        "CVE-2026-69676",
         "CVE-2026-69852",
-        "CVE-2026-69676"
+        "CVE-2026-85880"
       ],
       "threat_categories": [
         "Vulnerability",
