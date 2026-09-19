@@ -1,9 +1,45 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
+    "link": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
+    "published": "Sat, 19 Sep 2026 18:58:48 +0530",
+    "summary": "A new CVE drops. Your scanner finds it. The severity score looks ugly.\n\nBut that still does not answer the question that matters: Can it actually be exploited in your environment?\n\nMythos-class AI is compressing the time between disclosure and working exploitation, while many security programs still validate risk on weekly or quarterly cycles. The dangerous gap is no longer just technical. It is",
+    "analysis": {
+      "issue": "Picus will show how teams can validate whether a CVE is exploitable in their environment without always running live exploit code",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Identity Visibility in 2026: The Foundation of Identity Security",
+    "link": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
+    "published": "Sat, 19 Sep 2026 18:58:41 +0530",
+    "summary": "Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial access vectors in breach research, including Verizon's annual Data Breach Investigations Report. This article explains what identity visibility means in IAM, why cloud and multicloud environments complicate it, which capabilities matter in",
+    "analysis": {
+      "issue": "Identity visibility maps hidden accounts, effective access, and runtime behavior across cloud and SaaS environments",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
     "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
-    "published": "Sat, 19 Sep 2026 15:31:10 +0530",
+    "published": "Sat, 19 Sep 2026 18:58:35 +0530",
     "summary": "Three researchers at the security firm&nbsp;Hacktron&nbsp;used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository.\n\nThe chain began with a bug in the software that runs OpenAI's public help forum and moved through a weakness in OpenAI's own login system.\n\nThis was security research,",
     "analysis": {
       "issue": "In security research, Claude Opus 5 helped chain forum and login flaws to take over OpenAI staff accounts and reach an internal repository",
@@ -146,13 +182,31 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
-    "link": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
-    "published": "Fri, 18 Sep 2026 20:54:16 +0530",
-    "summary": "The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks targeting government and defense entities in India and Afghanistan.\n\nThe attacks, per Zscaler ThreatLabz, involve the use of previously undocumented tools called RUSTYSHADE, RUSTYMOVE, PSNATCH, and BASHNATCH. The activity has been codenamed Operation",
+    "source": "Bleeping Computer",
+    "title": "BragJack attacks hijack AI browser agents through malicious extensions",
+    "link": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
+    "published": "Sat, 19 Sep 2026 10:56:31 -0400",
+    "summary": "BragJack, a proof-of-concept attack from Forever Security's Gal Weizman, hijacks the AI assistants in Chrome, Edge, Opera Neon, Perplexity Comet, and Claude in Chrome using one malicious extension. The Prompt Forcing technique earned over $20,000 in bounties and two CVEs. [...]",
     "analysis": {
-      "issue": "Transparent Tribe uses four newly identified malware families in attacks on government and defense entities in India and Afghanistan",
+      "issue": "Security researcher Gal Weizman of Forever Security has disclosed a new attack technique that can hijack the AI assistants built into popular browsers using a single malicious browser extension",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide",
+    "link": "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/",
+    "published": "Sat, 19 Sep 2026 10:05:15 -0400",
+    "summary": "A joint law enforcement advisory warns that the North Korean hacking group WaterPlum compromised at least 30,000 devices worldwide from December 2025 through July 2026 and transferred more than $10.7 million in stolen cryptocurrency to North Korea. [...]",
+    "analysis": {
+      "issue": "A joint law enforcement advisory warns that the North Korean hacking group WaterPlum compromised at least 30,000 devices worldwide from December 2025 through July 2026 and transferred more than $10",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -164,19 +218,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
-    "link": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
-    "published": "Fri, 18 Sep 2026 18:17:04 +0530",
-    "summary": "Microsoft has released fixes for a maximum-severity security flaw in Azure AI Foundry that could be exploited to achieve privilege escalation. No customer action is required.\n\nThe vulnerability, tracked as CVE-2026-85889, carries a CVSS score of 10.0.\n\n\"Missing authentication for critical function in Azure AI Foundry allows an unauthorized attacker to elevate privileges over a network,\"",
+    "source": "Bleeping Computer",
+    "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
+    "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
+    "published": "Sat, 19 Sep 2026 09:48:32 -0400",
+    "summary": "The ShinyHunters extortion gang breached the Clop (aka Cl0p) ransomware operation's data leak site, defacing the Tor site and allegedly stealing server data and the private keys for its onion service. [...]",
     "analysis": {
-      "issue": "0 Azure AI Foundry flaw enabling network privilege escalation; no exploitation has been observed",
+      "issue": "The ShinyHunters extortion gang breached the Clop (aka Cl0p) ransomware operation's data leak site, defacing the Tor site and allegedly stealing server data and the private keys for its onion service",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
+        "Ransomware",
         "Vulnerability"
       ]
     }
@@ -310,64 +365,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "New Check Point flaw lets hackers execute code with root privileges",
-    "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/",
-    "published": "Fri, 18 Sep 2026 05:34:33 -0400",
-    "summary": "Check Point Software has released security updates to address a critical vulnerability that can let attackers execute code with root privileges on management systems. [...]",
-    "analysis": {
-      "issue": "Check Point Software has released security updates to address a critical vulnerability that can let attackers execute code with root privileges on management systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-85103",
-        "CVE-2026-91843"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft fixes broken copy and paste for Excel 2016 users",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/",
-    "published": "Fri, 18 Sep 2026 03:35:31 -0400",
-    "summary": "Microsoft has fixed a known issue that causes copy-and-paste failures for some Excel users after installing the September 2026 KB5002914 security update. [...]",
-    "analysis": {
-      "issue": "Microsoft has fixed a known issue that causes copy-and-paste failures for some Excel users after installing the September 2026 KB5002914 security update",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New RatHat Android malware uses AI to automate device control",
-    "link": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
-    "published": "Thu, 17 Sep 2026 17:50:26 -0400",
-    "summary": "A new Android malware called RatHat has been discovered, targeting users with an AI-powered subsystem that helps operators remotely navigate compromised devices. [...]",
-    "analysis": {
-      "issue": "A new Android malware called RatHat has been discovered, targeting users with an AI-powered subsystem that helps operators remotely navigate compromised devices",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Data Broker Radaris Loses Domains in Privacy Fight",
     "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
@@ -398,9 +395,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-69730",
         "CVE-2026-81963",
         "CVE-2026-85880",
-        "CVE-2026-69730",
         "CVE-2026-69829"
       ],
       "threat_categories": [
@@ -478,9 +475,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-68820",
+        "CVE-2026-62832",
         "CVE-2026-72971",
-        "CVE-2026-62832"
+        "CVE-2026-68820"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -557,14 +554,32 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-48561",
         "CVE-2026-50661",
         "CVE-2026-56164",
+        "CVE-2026-48561",
         "CVE-2026-56155"
       ],
       "threat_categories": [
         "Vulnerability",
         "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "TigerByte Cyber Emerges From Stealth With $3 Million in Funding",
+    "link": "https://www.securityweek.com/tigerbyte-cyber-emerges-from-stealth-with-3-million-in-funding/",
+    "published": "Sat, 19 Sep 2026 14:30:00 +0000",
+    "summary": "<p>The company has secured over $7 million in contracts with US government agencies, including the US Space Force, the US Navy, and DARPA.</p>\n<p>The post <a href=\"https://www.securityweek.com/tigerbyte-cyber-emerges-from-stealth-with-3-million-in-funding/\">TigerByte Cyber Emerges From Stealth With $3 Million in Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The company has secured over $7 million in contracts with US government agencies, including the US Space Force, the US Navy, and DARPA",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -581,9 +596,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-15315",
         "CVE-2026-44756",
-        "CVE-2026-15316"
+        "CVE-2026-15316",
+        "CVE-2026-15315"
       ],
       "threat_categories": [
         "Ransomware",
@@ -757,27 +772,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels",
-    "link": "https://www.securityweek.com/cyberattacks-on-two-oil-tankers-prompt-coast-guard-fbi-to-board-vessels/",
-    "published": "Thu, 17 Sep 2026 17:09:40 +0000",
-    "summary": "<p>The Coast Guard confirmed evidence of malicious cyber activity on the VL Prosperity, but has not attributed the attack to Iran.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyberattacks-on-two-oil-tankers-prompt-coast-guard-fbi-to-board-vessels/\">Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The Coast Guard confirmed evidence of malicious cyber activity on the VL Prosperity, but has not attributed the attack to Iran",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Malware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Should you care about an “AI slowdown?”",
     "link": "https://blog.talosintelligence.com/should-you-care-about-an-ai-slowdown/",
@@ -863,8 +857,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20316",
-        "CVE-2026-20079"
+        "CVE-2026-20079",
+        "CVE-2026-20316"
       ],
       "threat_categories": [
         "Ransomware",
@@ -888,8 +882,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-81963",
-        "CVE-2026-69852",
         "CVE-2026-85880",
+        "CVE-2026-69852",
         "CVE-2026-69676"
       ],
       "threat_categories": [
@@ -1323,8 +1317,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",

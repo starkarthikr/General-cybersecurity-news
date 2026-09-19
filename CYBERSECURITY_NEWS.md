@@ -1,19 +1,37 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-19 12:37:54 UTC
+**Last Updated:** 2026-09-19 15:42:32 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws](https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html)
+### 1. [Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar](https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html)
 
 **Source:** The Hacker News  
-**Published:** Sat, 19 Sep 2026 15:31:10 +0530  
+**Published:** Sat, 19 Sep 2026 18:58:48 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Identity Visibility in 2026: The Foundation of Identity Security](https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 19 Sep 2026 18:58:41 +0530  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 2. [SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE](https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html)
+### 3. [Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws](https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 19 Sep 2026 18:58:35 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 4. [SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE](https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 19 Sep 2026 15:01:17 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild](https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html)
+### 5. [Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild](https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 19 Sep 2026 13:48:54 +0530  
@@ -32,7 +50,7 @@
 
 ---
 
-### 4. [Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up](https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html)
+### 6. [Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up](https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 19 Sep 2026 13:21:34 +0530  
@@ -41,7 +59,7 @@
 
 ---
 
-### 5. [CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories](https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html)
+### 7. [CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories](https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 19 Sep 2026 12:44:54 +0530  
@@ -50,7 +68,7 @@
 
 ---
 
-### 6. [CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild](https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html)
+### 8. [CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild](https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 19 Sep 2026 11:54:10 +0530  
@@ -59,7 +77,7 @@
 
 ---
 
-### 7. [Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root](https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html)
+### 9. [Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root](https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 18 Sep 2026 23:32:24 +0530  
@@ -68,7 +86,7 @@
 
 ---
 
-### 8. [New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution](https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html)
+### 10. [New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution](https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 18 Sep 2026 22:26:19 +0530  
@@ -77,25 +95,34 @@
 
 ---
 
-### 9. [Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2](https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html)
+### 11. [BragJack attacks hijack AI browser agents through malicious extensions](https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 18 Sep 2026 20:54:16 +0530  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 10. [Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation](https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 18 Sep 2026 18:17:04 +0530  
+**Source:** Bleeping Computer  
+**Published:** Sat, 19 Sep 2026 10:56:31 -0400  
 **Severity:** Low  
 **Categories:** Vulnerability  
 
 ---
 
-### 11. [Calling viral AI actress Tilly Norwood? Agree to a face scan first](https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/)
+### 12. [North Korean WaterPlum hackers infected 30,000 devices worldwide](https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/)
+
+**Source:** Bleeping Computer  
+**Published:** Sat, 19 Sep 2026 10:05:15 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 13. [ShinyHunters hacks Clop leak site, threatens to extort ransomware gang](https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/)
+
+**Source:** Bleeping Computer  
+**Published:** Sat, 19 Sep 2026 09:48:32 -0400  
+**Severity:** Low  
+**Categories:** Ransomware, Vulnerability  
+
+---
+
+### 14. [Calling viral AI actress Tilly Norwood? Agree to a face scan first](https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 19 Sep 2026 07:38:20 -0400  
@@ -104,7 +131,7 @@
 
 ---
 
-### 12. [Gyazo server flaw exploited to steal 23.6 million user records](https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/)
+### 15. [Gyazo server flaw exploited to steal 23.6 million user records](https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 18 Sep 2026 12:00:38 -0400  
@@ -113,7 +140,7 @@
 
 ---
 
-### 13. [Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer](https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/)
+### 16. [Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer](https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 18 Sep 2026 11:19:06 -0400  
@@ -122,7 +149,7 @@
 
 ---
 
-### 14. [Secure enterprise sharing with access reviews for Microsoft 365](https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/)
+### 17. [Secure enterprise sharing with access reviews for Microsoft 365](https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 18 Sep 2026 10:00:10 -0400  
@@ -131,7 +158,7 @@
 
 ---
 
-### 15. [Microsoft Teams will let admins block custom file extensions](https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/)
+### 18. [Microsoft Teams will let admins block custom file extensions](https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 18 Sep 2026 09:58:40 -0400  
@@ -140,7 +167,7 @@
 
 ---
 
-### 16. [Webinar: Which Google Workspace security controls actually matter?](https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/)
+### 19. [Webinar: Which Google Workspace security controls actually matter?](https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 18 Sep 2026 09:10:19 -0400  
@@ -149,40 +176,12 @@
 
 ---
 
-### 17. [Microsoft fixes bug behind ‘Defender Antivirus is turned off’ alerts](https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/)
+### 20. [Microsoft fixes bug behind ‘Defender Antivirus is turned off’ alerts](https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 18 Sep 2026 08:16:32 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 18. [New Check Point flaw lets hackers execute code with root privileges](https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 18 Sep 2026 05:34:33 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-85103, CVE-2026-91843  
-**Categories:** Vulnerability  
-
----
-
-### 19. [Microsoft fixes broken copy and paste for Excel 2016 users](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 18 Sep 2026 03:35:31 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [New RatHat Android malware uses AI to automate device control](https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 17 Sep 2026 17:50:26 -0400  
-**Severity:** High  
-**Categories:** Malware, Phishing  
 
 ---
 
@@ -200,7 +199,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81963, CVE-2026-85880, CVE-2026-69730, CVE-2026-69829  
+**CVEs:** CVE-2026-69730, CVE-2026-81963, CVE-2026-85880, CVE-2026-69829  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -237,7 +236,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-68820, CVE-2026-72971, CVE-2026-62832  
+**CVEs:** CVE-2026-62832, CVE-2026-72971, CVE-2026-68820  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -274,22 +273,31 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48561, CVE-2026-50661, CVE-2026-56164, CVE-2026-56155  
+**CVEs:** CVE-2026-50661, CVE-2026-56164, CVE-2026-48561, CVE-2026-56155  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 31. [In Other News: Ransomware Developer Sentenced, Plugin4Shell AI Attack, Critical SAP Flaw](https://www.securityweek.com/in-other-news-ransomware-developer-sentenced-plugin4shell-ai-attack-critical-sap-flaw/)
+### 31. [TigerByte Cyber Emerges From Stealth With $3 Million in Funding](https://www.securityweek.com/tigerbyte-cyber-emerges-from-stealth-with-3-million-in-funding/)
+
+**Source:** Security Week  
+**Published:** Sat, 19 Sep 2026 14:30:00 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 32. [In Other News: Ransomware Developer Sentenced, Plugin4Shell AI Attack, Critical SAP Flaw](https://www.securityweek.com/in-other-news-ransomware-developer-sentenced-plugin4shell-ai-attack-critical-sap-flaw/)
 
 **Source:** Security Week  
 **Published:** Fri, 18 Sep 2026 14:25:00 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-15315, CVE-2026-44756, CVE-2026-15316  
+**CVEs:** CVE-2026-44756, CVE-2026-15316, CVE-2026-15315  
 **Categories:** Ransomware, Vulnerability, Malware, APT  
 
 ---
 
-### 32. [AI-Built Exploit and Sign-In Flaw Opened Path to Internal OpenAI Code](https://www.securityweek.com/ai-built-exploit-and-sign-in-flaw-opened-path-to-internal-openai-code/)
+### 33. [AI-Built Exploit and Sign-In Flaw Opened Path to Internal OpenAI Code](https://www.securityweek.com/ai-built-exploit-and-sign-in-flaw-opened-path-to-internal-openai-code/)
 
 **Source:** Security Week  
 **Published:** Fri, 18 Sep 2026 12:45:24 +0000  
@@ -298,7 +306,7 @@
 
 ---
 
-### 33. [23 Million User Records Compromised in Gyazo Data Breach](https://www.securityweek.com/23-million-user-records-compromised-in-gyazo-data-breach/)
+### 34. [23 Million User Records Compromised in Gyazo Data Breach](https://www.securityweek.com/23-million-user-records-compromised-in-gyazo-data-breach/)
 
 **Source:** Security Week  
 **Published:** Fri, 18 Sep 2026 11:38:40 +0000  
@@ -307,7 +315,7 @@
 
 ---
 
-### 34. [Microsoft Patches 18 Vulnerabilities in AI, Cloud Products](https://www.securityweek.com/microsoft-patches-18-vulnerabilities-in-ai-cloud-products/)
+### 35. [Microsoft Patches 18 Vulnerabilities in AI, Cloud Products](https://www.securityweek.com/microsoft-patches-18-vulnerabilities-in-ai-cloud-products/)
 
 **Source:** Security Week  
 **Published:** Fri, 18 Sep 2026 10:57:03 +0000  
@@ -317,7 +325,7 @@
 
 ---
 
-### 35. [NightmareStresser DDoS Service Disrupted in International Operation](https://www.securityweek.com/nightmarestresser-ddos-service-disrupted-in-international-operation/)
+### 36. [NightmareStresser DDoS Service Disrupted in International Operation](https://www.securityweek.com/nightmarestresser-ddos-service-disrupted-in-international-operation/)
 
 **Source:** Security Week  
 **Published:** Fri, 18 Sep 2026 10:12:33 +0000  
@@ -326,7 +334,7 @@
 
 ---
 
-### 36. [Brevo Supply Chain Attack Injects Malware Into 100,000 Websites](https://www.securityweek.com/brevo-supply-chain-attack-injects-malware-into-100000-websites/)
+### 37. [Brevo Supply Chain Attack Injects Malware Into 100,000 Websites](https://www.securityweek.com/brevo-supply-chain-attack-injects-malware-into-100000-websites/)
 
 **Source:** Security Week  
 **Published:** Fri, 18 Sep 2026 09:46:57 +0000  
@@ -335,7 +343,7 @@
 
 ---
 
-### 37. [Critical Orkes Conductor Vulnerability Exploited in Attacks](https://www.securityweek.com/critical-orkes-conductor-vulnerability-exploited-in-attacks/)
+### 38. [Critical Orkes Conductor Vulnerability Exploited in Attacks](https://www.securityweek.com/critical-orkes-conductor-vulnerability-exploited-in-attacks/)
 
 **Source:** Security Week  
 **Published:** Fri, 18 Sep 2026 08:42:18 +0000  
@@ -345,7 +353,7 @@
 
 ---
 
-### 38. [MIND Secures $72 Million for AI-Powered DLP](https://www.securityweek.com/mind-secures-72-million-for-ai-powered-dlp/)
+### 39. [MIND Secures $72 Million for AI-Powered DLP](https://www.securityweek.com/mind-secures-72-million-for-ai-powered-dlp/)
 
 **Source:** Security Week  
 **Published:** Fri, 18 Sep 2026 07:25:27 +0000  
@@ -354,22 +362,13 @@
 
 ---
 
-### 39. [Check Point, Kaspersky, Tanium Patch Product Vulnerabilities](https://www.securityweek.com/check-point-kaspersky-tanium-patch-product-vulnerabilities/)
+### 40. [Check Point, Kaspersky, Tanium Patch Product Vulnerabilities](https://www.securityweek.com/check-point-kaspersky-tanium-patch-product-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Fri, 18 Sep 2026 07:14:04 +0000  
 **Severity:** Critical  
 **CVEs:** CVE-2026-91843  
 **Categories:** Vulnerability  
-
----
-
-### 40. [Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels](https://www.securityweek.com/cyberattacks-on-two-oil-tankers-prompt-coast-guard-fbi-to-board-vessels/)
-
-**Source:** Security Week  
-**Published:** Thu, 17 Sep 2026 17:09:40 +0000  
-**Severity:** Critical  
-**Categories:** Ransomware, Vulnerability, Malware, Supply Chain  
 
 ---
 
@@ -414,7 +413,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 09 Sep 2026 16:08:59 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20316, CVE-2026-20079  
+**CVEs:** CVE-2026-20079, CVE-2026-20316  
 **Categories:** Ransomware, Vulnerability, Malware, APT  
 
 ---
@@ -424,7 +423,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 08 Sep 2026 22:16:35 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81963, CVE-2026-69852, CVE-2026-85880, CVE-2026-69676  
+**CVEs:** CVE-2026-81963, CVE-2026-85880, CVE-2026-69852, CVE-2026-69676  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -635,7 +634,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
