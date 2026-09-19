@@ -1,10 +1,65 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-19 04:53:20 UTC
+**Last Updated:** 2026-09-19 12:37:54 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root](https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html)
+### 1. [Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws](https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 19 Sep 2026 15:31:10 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE](https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 19 Sep 2026 15:01:17 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild](https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 19 Sep 2026 13:48:54 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-58138  
+**Categories:** Vulnerability  
+
+---
+
+### 4. [Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up](https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 19 Sep 2026 13:21:34 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 5. [CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories](https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 19 Sep 2026 12:44:54 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 6. [CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild](https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 19 Sep 2026 11:54:10 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 7. [Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root](https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 18 Sep 2026 23:32:24 +0530  
@@ -13,7 +68,7 @@
 
 ---
 
-### 2. [New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution](https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html)
+### 8. [New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution](https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 18 Sep 2026 22:26:19 +0530  
@@ -22,7 +77,7 @@
 
 ---
 
-### 3. [Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2](https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html)
+### 9. [Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2](https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 18 Sep 2026 20:54:16 +0530  
@@ -31,7 +86,7 @@
 
 ---
 
-### 4. [Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation](https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html)
+### 10. [Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation](https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 18 Sep 2026 18:17:04 +0530  
@@ -40,62 +95,16 @@
 
 ---
 
-### 5. [An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.](https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html)
+### 11. [Calling viral AI actress Tilly Norwood? Agree to a face scan first](https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 18 Sep 2026 16:31:16 +0530  
+**Source:** Bleeping Computer  
+**Published:** Sat, 19 Sep 2026 07:38:20 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 6. [Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents](https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 18 Sep 2026 16:31:01 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 7. [WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage](https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 18 Sep 2026 16:10:06 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 8. [Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer](https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 18 Sep 2026 14:48:03 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 9. [RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall](https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 18 Sep 2026 11:47:25 +0530  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 10. [Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root](https://thehackernews.com/2026/09/critical-check-point-management-server.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 17 Sep 2026 23:38:28 +0530  
-**Severity:** Critical  
-**CVEs:** CVE-2026-91843  
-**Categories:** Vulnerability  
-
----
-
-### 11. [Gyazo server flaw exploited to steal 23.6 million user records](https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/)
+### 12. [Gyazo server flaw exploited to steal 23.6 million user records](https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 18 Sep 2026 12:00:38 -0400  
@@ -104,7 +113,7 @@
 
 ---
 
-### 12. [Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer](https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/)
+### 13. [Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer](https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 18 Sep 2026 11:19:06 -0400  
@@ -113,7 +122,7 @@
 
 ---
 
-### 13. [Secure enterprise sharing with access reviews for Microsoft 365](https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/)
+### 14. [Secure enterprise sharing with access reviews for Microsoft 365](https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 18 Sep 2026 10:00:10 -0400  
@@ -122,7 +131,7 @@
 
 ---
 
-### 14. [Microsoft Teams will let admins block custom file extensions](https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/)
+### 15. [Microsoft Teams will let admins block custom file extensions](https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 18 Sep 2026 09:58:40 -0400  
@@ -131,7 +140,7 @@
 
 ---
 
-### 15. [Webinar: Which Google Workspace security controls actually matter?](https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/)
+### 16. [Webinar: Which Google Workspace security controls actually matter?](https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 18 Sep 2026 09:10:19 -0400  
@@ -140,7 +149,7 @@
 
 ---
 
-### 16. [Microsoft fixes bug behind ‘Defender Antivirus is turned off’ alerts](https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/)
+### 17. [Microsoft fixes bug behind ‘Defender Antivirus is turned off’ alerts](https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 18 Sep 2026 08:16:32 -0400  
@@ -149,17 +158,17 @@
 
 ---
 
-### 17. [New Check Point flaw lets hackers execute code with root privileges](https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/)
+### 18. [New Check Point flaw lets hackers execute code with root privileges](https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 18 Sep 2026 05:34:33 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-91843, CVE-2026-85103  
+**CVEs:** CVE-2026-85103, CVE-2026-91843  
 **Categories:** Vulnerability  
 
 ---
 
-### 18. [Microsoft fixes broken copy and paste for Excel 2016 users](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/)
+### 19. [Microsoft fixes broken copy and paste for Excel 2016 users](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 18 Sep 2026 03:35:31 -0400  
@@ -168,21 +177,12 @@
 
 ---
 
-### 19. [New RatHat Android malware uses AI to automate device control](https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/)
+### 20. [New RatHat Android malware uses AI to automate device control](https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 17 Sep 2026 17:50:26 -0400  
 **Severity:** High  
 **Categories:** Malware, Phishing  
-
----
-
-### 20. [OpenAI details more cases of AI agents taking unauthorized actions](https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 17 Sep 2026 14:55:12 -0400  
-**Severity:** High  
-**Categories:** General Security  
 
 ---
 
@@ -200,7 +200,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69730, CVE-2026-81963, CVE-2026-69829, CVE-2026-85880  
+**CVEs:** CVE-2026-81963, CVE-2026-85880, CVE-2026-69730, CVE-2026-69829  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -274,7 +274,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50661, CVE-2026-56164, CVE-2026-56155, CVE-2026-48561  
+**CVEs:** CVE-2026-48561, CVE-2026-50661, CVE-2026-56164, CVE-2026-56155  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -424,7 +424,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 08 Sep 2026 22:16:35 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69852, CVE-2026-81963, CVE-2026-85880, CVE-2026-69676  
+**CVEs:** CVE-2026-81963, CVE-2026-69852, CVE-2026-85880, CVE-2026-69676  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -635,7 +635,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
