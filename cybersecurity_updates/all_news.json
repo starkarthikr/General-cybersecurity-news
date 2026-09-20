@@ -183,6 +183,24 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Researchers escape OpenAI Codex sandbox to run commands on host",
+    "link": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/",
+    "published": "Sun, 20 Sep 2026 08:00:00 -0400",
+    "summary": "Researchers escaped OpenAI's Codex sandbox two ways, one running commands on a developer's machine from its most locked-down mode. OpenAI has patched both. [...]",
+    "analysis": {
+      "issue": "Security researchers found two ways out of the OpenAI Codex sandbox, one of them capable of running commands on a developer's machine from Codex's most locked-down mode, with no approval prompt and nothing shown on screen",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "BragJack attacks hijack AI browser agents through malicious extensions",
     "link": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
     "published": "Sat, 19 Sep 2026 10:56:31 -0400",
@@ -347,24 +365,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Microsoft fixes bug behind ‘Defender Antivirus is turned off’ alerts",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/",
-    "published": "Fri, 18 Sep 2026 08:16:32 -0400",
-    "summary": "Microsoft has resolved a known issue that causes incorrect alerts warning that Defender Antivirus was turned off after installing recent updates. [...]",
-    "analysis": {
-      "issue": "Microsoft has resolved a known issue that causes incorrect alerts warning that Defender Antivirus was turned off after installing recent updates",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Data Broker Radaris Loses Domains in Privacy Fight",
     "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
@@ -395,10 +395,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-69730",
         "CVE-2026-85880",
-        "CVE-2026-69829",
         "CVE-2026-81963",
-        "CVE-2026-69730"
+        "CVE-2026-69829"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -476,8 +476,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-72971",
-        "CVE-2026-68820",
-        "CVE-2026-62832"
+        "CVE-2026-62832",
+        "CVE-2026-68820"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -554,10 +554,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56155",
-        "CVE-2026-48561",
+        "CVE-2026-50661",
         "CVE-2026-56164",
-        "CVE-2026-50661"
+        "CVE-2026-48561",
+        "CVE-2026-56155"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -596,9 +596,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-15315",
         "CVE-2026-15316",
-        "CVE-2026-44756",
-        "CVE-2026-15315"
+        "CVE-2026-44756"
       ],
       "threat_categories": [
         "Ransomware",
@@ -882,8 +882,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-69852",
-        "CVE-2026-85880",
         "CVE-2026-69676",
+        "CVE-2026-85880",
         "CVE-2026-81963"
       ],
       "threat_categories": [
