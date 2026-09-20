@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-20 13:10:20 UTC
+**Last Updated:** 2026-09-20 15:48:45 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,16 @@
 
 ---
 
-### 11. [Researchers escape OpenAI Codex sandbox to run commands on host](https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/)
+### 11. [Malicious npm packages evade install-script defenses at runtime](https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/)
+
+**Source:** Bleeping Computer  
+**Published:** Sun, 20 Sep 2026 10:11:21 -0400  
+**Severity:** Low  
+**Categories:** Malware, Supply Chain  
+
+---
+
+### 12. [Researchers escape OpenAI Codex sandbox to run commands on host](https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 20 Sep 2026 08:00:00 -0400  
@@ -104,7 +113,7 @@
 
 ---
 
-### 12. [BragJack attacks hijack AI browser agents through malicious extensions](https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/)
+### 13. [BragJack attacks hijack AI browser agents through malicious extensions](https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 19 Sep 2026 10:56:31 -0400  
@@ -113,7 +122,7 @@
 
 ---
 
-### 13. [North Korean WaterPlum hackers infected 30,000 devices worldwide](https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/)
+### 14. [North Korean WaterPlum hackers infected 30,000 devices worldwide](https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 19 Sep 2026 10:05:15 -0400  
@@ -122,7 +131,7 @@
 
 ---
 
-### 14. [ShinyHunters hacks Clop leak site, threatens to extort ransomware gang](https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/)
+### 15. [ShinyHunters hacks Clop leak site, threatens to extort ransomware gang](https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 19 Sep 2026 09:48:32 -0400  
@@ -131,7 +140,7 @@
 
 ---
 
-### 15. [Viral AI actress' hotline face-scans every caller, watches their mood](https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/)
+### 16. [Viral AI actress' hotline face-scans every caller, watches their mood](https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 19 Sep 2026 07:38:20 -0400  
@@ -140,7 +149,7 @@
 
 ---
 
-### 16. [Gyazo server flaw exploited to steal 23.6 million user records](https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/)
+### 17. [Gyazo server flaw exploited to steal 23.6 million user records](https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 18 Sep 2026 12:00:38 -0400  
@@ -149,7 +158,7 @@
 
 ---
 
-### 17. [Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer](https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/)
+### 18. [Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer](https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 18 Sep 2026 11:19:06 -0400  
@@ -158,7 +167,7 @@
 
 ---
 
-### 18. [Secure enterprise sharing with access reviews for Microsoft 365](https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/)
+### 19. [Secure enterprise sharing with access reviews for Microsoft 365](https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 18 Sep 2026 10:00:10 -0400  
@@ -167,21 +176,12 @@
 
 ---
 
-### 19. [Microsoft Teams will let admins block custom file extensions](https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/)
+### 20. [Microsoft Teams will let admins block custom file extensions](https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 18 Sep 2026 09:58:40 -0400  
 **Severity:** High  
 **Categories:** Malware  
-
----
-
-### 20. [Webinar: Which Google Workspace security controls actually matter?](https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 18 Sep 2026 09:10:19 -0400  
-**Severity:** Critical  
-**Categories:** General Security  
 
 ---
 
@@ -199,7 +199,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69730, CVE-2026-85880, CVE-2026-81963, CVE-2026-69829  
+**CVEs:** CVE-2026-69730, CVE-2026-85880, CVE-2026-69829, CVE-2026-81963  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -236,7 +236,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-72971, CVE-2026-62832, CVE-2026-68820  
+**CVEs:** CVE-2026-62832, CVE-2026-68820, CVE-2026-72971  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -292,7 +292,7 @@
 **Source:** Security Week  
 **Published:** Fri, 18 Sep 2026 14:25:00 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-15315, CVE-2026-15316, CVE-2026-44756  
+**CVEs:** CVE-2026-15316, CVE-2026-44756, CVE-2026-15315  
 **Categories:** Ransomware, Vulnerability, Malware, APT  
 
 ---
@@ -413,7 +413,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 09 Sep 2026 16:08:59 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20316, CVE-2026-20079  
+**CVEs:** CVE-2026-20079, CVE-2026-20316  
 **Categories:** Ransomware, Vulnerability, Malware, APT  
 
 ---
@@ -423,7 +423,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 08 Sep 2026 22:16:35 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69852, CVE-2026-69676, CVE-2026-85880, CVE-2026-81963  
+**CVEs:** CVE-2026-69676, CVE-2026-85880, CVE-2026-69852, CVE-2026-81963  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -634,7 +634,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
