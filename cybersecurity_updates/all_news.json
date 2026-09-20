@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
+    "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
+    "published": "Sun, 20 Sep 2026 00:06:53 +0530",
+    "summary": "Three researchers at the security firm&nbsp;Hacktron&nbsp;used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository.\n\nThe chain began with a bug in the software that runs OpenAI's public help forum and moved through a weakness in OpenAI's own login system.\n\nThis was security research,",
+    "analysis": {
+      "issue": "In security research, Claude Opus 5 helped chain forum and login flaws to take over OpenAI staff accounts and reach an internal repository",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
     "link": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
     "published": "Sat, 19 Sep 2026 18:58:48 +0530",
@@ -25,24 +43,6 @@
     "summary": "Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial access vectors in breach research, including Verizon's annual Data Breach Investigations Report. This article explains what identity visibility means in IAM, why cloud and multicloud environments complicate it, which capabilities matter in",
     "analysis": {
       "issue": "Identity visibility maps hidden accounts, effective access, and runtime behavior across cloud and SaaS environments",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
-    "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
-    "published": "Sat, 19 Sep 2026 18:58:35 +0530",
-    "summary": "Three researchers at the security firm&nbsp;Hacktron&nbsp;used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository.\n\nThe chain began with a bug in the software that runs OpenAI's public help forum and moved through a weakness in OpenAI's own login system.\n\nThis was security research,",
-    "analysis": {
-      "issue": "In security research, Claude Opus 5 helped chain forum and login flaws to take over OpenAI staff accounts and reach an internal repository",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -395,10 +395,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-81963",
-        "CVE-2026-69730",
         "CVE-2026-85880",
-        "CVE-2026-69829"
+        "CVE-2026-69730",
+        "CVE-2026-69829",
+        "CVE-2026-81963"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -475,9 +475,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-68820",
+        "CVE-2026-72971",
         "CVE-2026-62832",
-        "CVE-2026-72971"
+        "CVE-2026-68820"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -554,10 +554,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56164",
-        "CVE-2026-56155",
+        "CVE-2026-48561",
         "CVE-2026-50661",
-        "CVE-2026-48561"
+        "CVE-2026-56164",
+        "CVE-2026-56155"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -857,8 +857,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20079",
-        "CVE-2026-20316"
+        "CVE-2026-20316",
+        "CVE-2026-20079"
       ],
       "threat_categories": [
         "Ransomware",
@@ -881,10 +881,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-81963",
         "CVE-2026-69676",
+        "CVE-2026-85880",
         "CVE-2026-69852",
-        "CVE-2026-85880"
+        "CVE-2026-81963"
       ],
       "threat_categories": [
         "Vulnerability",

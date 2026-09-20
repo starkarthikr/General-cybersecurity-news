@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-19 18:43:24 UTC
+**Last Updated:** 2026-09-20 04:23:17 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar](https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html)
+### 1. [Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws](https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html)
+
+**Source:** The Hacker News  
+**Published:** Sun, 20 Sep 2026 00:06:53 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar](https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 19 Sep 2026 18:58:48 +0530  
@@ -13,19 +22,10 @@
 
 ---
 
-### 2. [Identity Visibility in 2026: The Foundation of Identity Security](https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html)
+### 3. [Identity Visibility in 2026: The Foundation of Identity Security](https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 19 Sep 2026 18:58:41 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 3. [Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws](https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html)
-
-**Source:** The Hacker News  
-**Published:** Sat, 19 Sep 2026 18:58:35 +0530  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -199,7 +199,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81963, CVE-2026-69730, CVE-2026-85880, CVE-2026-69829  
+**CVEs:** CVE-2026-85880, CVE-2026-69730, CVE-2026-69829, CVE-2026-81963  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -236,7 +236,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-68820, CVE-2026-62832, CVE-2026-72971  
+**CVEs:** CVE-2026-72971, CVE-2026-62832, CVE-2026-68820  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -273,7 +273,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56164, CVE-2026-56155, CVE-2026-50661, CVE-2026-48561  
+**CVEs:** CVE-2026-48561, CVE-2026-50661, CVE-2026-56164, CVE-2026-56155  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -413,7 +413,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 09 Sep 2026 16:08:59 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20079, CVE-2026-20316  
+**CVEs:** CVE-2026-20316, CVE-2026-20079  
 **Categories:** Ransomware, Vulnerability, Malware, APT  
 
 ---
@@ -423,7 +423,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 08 Sep 2026 22:16:35 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81963, CVE-2026-69676, CVE-2026-69852, CVE-2026-85880  
+**CVEs:** CVE-2026-69676, CVE-2026-85880, CVE-2026-69852, CVE-2026-81963  
 **Categories:** Vulnerability, APT  
 
 ---
