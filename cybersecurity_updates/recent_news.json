@@ -184,6 +184,42 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Microsoft to retire Microsoft 365 Companion apps in December",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-microsoft-365-companion-apps-in-december/",
+    "published": "Mon, 21 Sep 2026 13:54:49 -0400",
+    "summary": "Microsoft will retire the Calendar, People, and Files Microsoft 365 companion apps on December 16 and has asked admins to remove them from managed devices. [...]",
+    "analysis": {
+      "issue": "Microsoft announced that it will retire the Calendar, People, and Files Microsoft 365 companion apps on December 16 and urged admins to remove them from managed devices in their organization",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Google fined €403 million over location data privacy violations",
+    "link": "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/",
+    "published": "Mon, 21 Sep 2026 11:41:22 -0400",
+    "summary": "Ireland's Data Protection Commission (DPC) has fined Google €403 million ($463M) for multiple GDPR violations related to processing users' location data. [...]",
+    "analysis": {
+      "issue": "Ireland’s Data Protection Commission (DPC) has fined Google €403 million ($463M) for multiple GDPR violations related to processing users’ location data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Microsoft fixes broken Excel copy and paste for all Office users",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/",
     "published": "Mon, 21 Sep 2026 10:42:37 -0400",
@@ -328,43 +364,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
-    "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
-    "published": "Sat, 19 Sep 2026 09:48:32 -0400",
-    "summary": "The ShinyHunters extortion gang breached the Clop (aka Cl0p) ransomware operation's data leak site, defacing the Tor site and allegedly stealing server data and the private keys for its onion service. [...]",
-    "analysis": {
-      "issue": "The ShinyHunters extortion gang breached the Clop (aka Cl0p) ransomware operation's data leak site, defacing the Tor site and allegedly stealing server data and the private keys for its onion service",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Viral AI actress' hotline face-scans every caller, watches their mood",
-    "link": "https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/",
-    "published": "Sat, 19 Sep 2026 07:38:20 -0400",
-    "summary": "AI actress Tilly Norwood went viral after glitching into Chinese on Piers Morgan Uncensored last night. Her \"Talking Tilly\" video call service face-scans every caller for an 18+ age check, senses callers' moods during calls, and shuts down permanently on September 27. We tried it and read the fine print. [...]",
-    "analysis": {
-      "issue": "Last night, in a clip viewed more than eight million times, AI actress Tilly Norwood glitched mid-interview and unexpectedly began speaking Chinese on the Piers Morgan Uncensored show",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Data Broker Radaris Loses Domains in Privacy Fight",
     "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
@@ -395,10 +394,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69730",
-        "CVE-2026-85880",
+        "CVE-2026-69829",
         "CVE-2026-81963",
-        "CVE-2026-69829"
+        "CVE-2026-85880",
+        "CVE-2026-69730"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -475,8 +474,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-72971",
         "CVE-2026-62832",
+        "CVE-2026-72971",
         "CVE-2026-68820"
       ],
       "threat_categories": [
@@ -562,6 +561,44 @@
       "threat_categories": [
         "Vulnerability",
         "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Google Hit With $463 Million Fine for EU Location Data Rule Breach",
+    "link": "https://www.securityweek.com/google-hit-with-463-million-fine-for-eu-location-data-rule-breach/",
+    "published": "Mon, 21 Sep 2026 17:19:53 +0000",
+    "summary": "<p>Google has been fined 403 million euros ($463 million) for breaching the European Union’s strict privacy rules because it mishandled users’ location data.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-hit-with-463-million-fine-for-eu-location-data-rule-breach/\">Google Hit With $463 Million Fine for EU Location Data Rule Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Google has been fined 403 million euros ($463 million) for breaching the European Union’s strict privacy rules because it mishandled users’ location data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Fake LastPass Installers Push Kernel-Level EDR Killer, ‘Rapuncel’ Stealer",
+    "link": "https://www.securityweek.com/fake-lastpass-installers-push-kernel-level-edr-killer-rapuncel-stealer/",
+    "published": "Mon, 21 Sep 2026 15:46:58 +0000",
+    "summary": "<p>The attackers impersonate at least 40 companies and disable 145 security products to deploy infostealer malware.</p>\n<p>The post <a href=\"https://www.securityweek.com/fake-lastpass-installers-push-kernel-level-edr-killer-rapuncel-stealer/\">Fake LastPass Installers Push Kernel-Level EDR Killer, ‘Rapuncel’ Stealer</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The attackers impersonate at least 40 companies and disable 145 security products to deploy infostealer malware",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Malware",
+        "APT"
       ]
     }
   },
@@ -693,8 +730,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-53266",
         "CVE-2025-39682",
+        "CVE-2026-53266",
         "CVE-2025-39964"
       ],
       "threat_categories": [
@@ -718,49 +755,6 @@
       "threat_categories": [
         "Data Breach",
         "Vulnerability",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "TigerByte Cyber Emerges From Stealth With $3 Million in Funding",
-    "link": "https://www.securityweek.com/tigerbyte-cyber-emerges-from-stealth-with-3-million-in-funding/",
-    "published": "Sat, 19 Sep 2026 14:30:00 +0000",
-    "summary": "<p>The company has secured over $7 million in contracts with US government agencies, including the US Space Force, the US Navy, and DARPA.</p>\n<p>The post <a href=\"https://www.securityweek.com/tigerbyte-cyber-emerges-from-stealth-with-3-million-in-funding/\">TigerByte Cyber Emerges From Stealth With $3 Million in Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The company has secured over $7 million in contracts with US government agencies, including the US Space Force, the US Navy, and DARPA",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "In Other News: Ransomware Developer Sentenced, Plugin4Shell AI Attack, Critical SAP Flaw",
-    "link": "https://www.securityweek.com/in-other-news-ransomware-developer-sentenced-plugin4shell-ai-attack-critical-sap-flaw/",
-    "published": "Fri, 18 Sep 2026 14:25:00 +0000",
-    "summary": "<p>Noteworthy stories that might have slipped under the radar: Mandiant's 2026 AI risk report, PhantomRaven malware used by bug bounty hunter, WordPress plugin bug exploited.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-ransomware-developer-sentenced-plugin4shell-ai-attack-critical-sap-flaw/\">In Other News: Ransomware Developer Sentenced, Plugin4Shell AI Attack, Critical SAP Flaw</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Noteworthy stories that might have slipped under the radar: Mandiant’s 2026 AI risk report, PhantomRaven malware used by bug bounty hunter, WordPress plugin bug exploited",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-44756",
-        "CVE-2026-15315",
-        "CVE-2026-15316"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Malware",
         "APT"
       ]
     }
@@ -875,9 +869,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-85880",
         "CVE-2026-81963",
         "CVE-2026-69676",
+        "CVE-2026-85880",
         "CVE-2026-69852"
       ],
       "threat_categories": [
@@ -1311,8 +1305,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1337,6 +1331,42 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "The AI plot to scan and destroy books (Lock and Code S07E19)",
+    "link": "https://www.malwarebytes.com/blog/podcast/2026/09/the-ai-plot-to-scan-and-destroy-books-lock-and-code-s07e19",
+    "published": "Mon, 21 Sep 2026 16:30:29 GMT",
+    "summary": "This week on the Lock and Code podcast, we speak with Emanuel Maiberg about Amazon's effort to scan and destroy rare books for AI training.",
+    "analysis": {
+      "issue": "This week on the Lock and Code podcast… If you want AI to tell you a story, it will",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "The fake sites using a cheap toolkit to sell $2,000 AI subscriptions",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/09/the-fake-sites-using-a-cheap-toolkit-to-sell-2000-ai-subscriptions",
+    "published": "Mon, 21 Sep 2026 15:38:26 GMT",
+    "summary": "More than 100 linked sites use a $249 toolkit to turn copied product names and unfamiliar AI brands into paid subscriptions.",
+    "analysis": {
+      "issue": "We found more than 100 subscription websites linked through the same toolkit and closely related developer details",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
       ]
     }
   },
@@ -1482,42 +1512,6 @@
       "cves": [],
       "threat_categories": [
         "Data Breach",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "12 celebrity deepfake websites seized by Manhattan DA",
-    "link": "https://www.malwarebytes.com/blog/ai/2026/09/12-celebrity-deepfake-websites-seized-by-manhattan-da",
-    "published": "Thu, 17 Sep 2026 11:20:46 GMT",
-    "summary": "The largest known celebrity deepfake seizure has taken 12 websites offline, disrupting access to videos depicting some 1,200 people.",
-    "analysis": {
-      "issue": "The Manhattan District Attorney’s Office has seized the domains of 12 deepfake websites in what it called the largest known seizure of celebrity deepfake sites in history",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "T-Mobile rewards points expiry texts are a phishing scam",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/09/t-mobile-rewards-points-expiry-texts-are-a-phishing-scam",
-    "published": "Thu, 17 Sep 2026 10:44:01 GMT",
-    "summary": "A large phishing campaign is using fake T-Mobile rewards points and looming expiry dates to pressure recipients into clicking malicious links.",
-    "analysis": {
-      "issue": "Since early May 2026, we’ve been monitoring a large phishing campaign based on T-Mobile rewards points",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
         "Phishing"
       ]
     }

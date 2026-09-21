@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-21 15:16:08 UTC
+**Last Updated:** 2026-09-21 18:06:02 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,25 @@
 
 ---
 
-### 11. [Microsoft fixes broken Excel copy and paste for all Office users](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/)
+### 11. [Microsoft to retire Microsoft 365 Companion apps in December](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-microsoft-365-companion-apps-in-december/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 21 Sep 2026 13:54:49 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 12. [Google fined €403 million over location data privacy violations](https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 21 Sep 2026 11:41:22 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 13. [Microsoft fixes broken Excel copy and paste for all Office users](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 21 Sep 2026 10:42:37 -0400  
@@ -104,7 +122,7 @@
 
 ---
 
-### 12. [FBI's CJIS v6.1: What Security Teams Need to Know.](https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/)
+### 14. [FBI's CJIS v6.1: What Security Teams Need to Know.](https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 21 Sep 2026 10:02:12 -0400  
@@ -113,7 +131,7 @@
 
 ---
 
-### 13. [Microsoft reminds admins to migrate Entra ID users to passkeys](https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/)
+### 15. [Microsoft reminds admins to migrate Entra ID users to passkeys](https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 21 Sep 2026 09:16:20 -0400  
@@ -122,7 +140,7 @@
 
 ---
 
-### 14. [Microsoft: September updates break File History backup feature](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/)
+### 16. [Microsoft: September updates break File History backup feature](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 21 Sep 2026 07:45:54 -0400  
@@ -131,7 +149,7 @@
 
 ---
 
-### 15. [Malicious npm packages evade install-script defenses at runtime](https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/)
+### 17. [Malicious npm packages evade install-script defenses at runtime](https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 20 Sep 2026 10:11:21 -0400  
@@ -140,7 +158,7 @@
 
 ---
 
-### 16. [Researchers escape OpenAI Codex sandbox to run commands on host](https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/)
+### 18. [Researchers escape OpenAI Codex sandbox to run commands on host](https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 20 Sep 2026 08:00:00 -0400  
@@ -149,7 +167,7 @@
 
 ---
 
-### 17. [BragJack attacks hijack AI browser agents through malicious extensions](https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/)
+### 19. [BragJack attacks hijack AI browser agents through malicious extensions](https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 19 Sep 2026 10:56:31 -0400  
@@ -158,30 +176,12 @@
 
 ---
 
-### 18. [North Korean WaterPlum hackers infected 30,000 devices worldwide](https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/)
+### 20. [North Korean WaterPlum hackers infected 30,000 devices worldwide](https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 19 Sep 2026 10:05:15 -0400  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 19. [ShinyHunters hacks Clop leak site, threatens to extort ransomware gang](https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 19 Sep 2026 09:48:32 -0400  
-**Severity:** Low  
-**Categories:** Ransomware, Vulnerability  
-
----
-
-### 20. [Viral AI actress' hotline face-scans every caller, watches their mood](https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 19 Sep 2026 07:38:20 -0400  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -199,7 +199,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69730, CVE-2026-85880, CVE-2026-81963, CVE-2026-69829  
+**CVEs:** CVE-2026-69829, CVE-2026-81963, CVE-2026-85880, CVE-2026-69730  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -236,7 +236,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-72971, CVE-2026-62832, CVE-2026-68820  
+**CVEs:** CVE-2026-62832, CVE-2026-72971, CVE-2026-68820  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -278,7 +278,25 @@
 
 ---
 
-### 31. [CISO Conversations: Noopur Davis – The Accidental Global CISO at Comcast](https://www.securityweek.com/ciso-conversations-noopur-davis-the-accidental-global-ciso-at-comcast/)
+### 31. [Google Hit With $463 Million Fine for EU Location Data Rule Breach](https://www.securityweek.com/google-hit-with-463-million-fine-for-eu-location-data-rule-breach/)
+
+**Source:** Security Week  
+**Published:** Mon, 21 Sep 2026 17:19:53 +0000  
+**Severity:** Low  
+**Categories:** Data Breach  
+
+---
+
+### 32. [Fake LastPass Installers Push Kernel-Level EDR Killer, ‘Rapuncel’ Stealer](https://www.securityweek.com/fake-lastpass-installers-push-kernel-level-edr-killer-rapuncel-stealer/)
+
+**Source:** Security Week  
+**Published:** Mon, 21 Sep 2026 15:46:58 +0000  
+**Severity:** Critical  
+**Categories:** Ransomware, Malware, APT  
+
+---
+
+### 33. [CISO Conversations: Noopur Davis – The Accidental Global CISO at Comcast](https://www.securityweek.com/ciso-conversations-noopur-davis-the-accidental-global-ciso-at-comcast/)
 
 **Source:** Security Week  
 **Published:** Mon, 21 Sep 2026 14:30:00 +0000  
@@ -287,7 +305,7 @@
 
 ---
 
-### 32. [Dragos Completes NetRise and runZero Acquisitions Following Accenture Deal](https://www.securityweek.com/dragos-completes-netrise-and-runzero-acquisitions-following-accenture-deal/)
+### 34. [Dragos Completes NetRise and runZero Acquisitions Following Accenture Deal](https://www.securityweek.com/dragos-completes-netrise-and-runzero-acquisitions-following-accenture-deal/)
 
 **Source:** Security Week  
 **Published:** Mon, 21 Sep 2026 14:00:13 +0000  
@@ -296,7 +314,7 @@
 
 ---
 
-### 33. [RatHat Android Trojan Uses AI for Automation](https://www.securityweek.com/rathat-android-trojan-uses-ai-for-automation/)
+### 35. [RatHat Android Trojan Uses AI for Automation](https://www.securityweek.com/rathat-android-trojan-uses-ai-for-automation/)
 
 **Source:** Security Week  
 **Published:** Mon, 21 Sep 2026 12:51:41 +0000  
@@ -305,7 +323,7 @@
 
 ---
 
-### 34. [Rust Team Members and Popular Crate Owners Targeted via Video Calls](https://www.securityweek.com/rust-team-members-and-popular-crate-owners-targeted-via-video-calls/)
+### 36. [Rust Team Members and Popular Crate Owners Targeted via Video Calls](https://www.securityweek.com/rust-team-members-and-popular-crate-owners-targeted-via-video-calls/)
 
 **Source:** Security Week  
 **Published:** Mon, 21 Sep 2026 11:57:35 +0000  
@@ -314,7 +332,7 @@
 
 ---
 
-### 35. [CrowdSec Confirms Source Code Stolen in Supply Chain Attack](https://www.securityweek.com/crowdsec-confirms-source-code-stolen-in-supply-chain-attack/)
+### 37. [CrowdSec Confirms Source Code Stolen in Supply Chain Attack](https://www.securityweek.com/crowdsec-confirms-source-code-stolen-in-supply-chain-attack/)
 
 **Source:** Security Week  
 **Published:** Mon, 21 Sep 2026 10:55:46 +0000  
@@ -323,7 +341,7 @@
 
 ---
 
-### 36. [Colorado Water Utilities Hit by Cyberattacks Targeting OT Systems](https://www.securityweek.com/colorado-water-utilities-hit-by-cyberattacks-targeting-ot-systems/)
+### 38. [Colorado Water Utilities Hit by Cyberattacks Targeting OT Systems](https://www.securityweek.com/colorado-water-utilities-hit-by-cyberattacks-targeting-ot-systems/)
 
 **Source:** Security Week  
 **Published:** Mon, 21 Sep 2026 10:03:44 +0000  
@@ -332,41 +350,22 @@
 
 ---
 
-### 37. [Organizations Warned of 3 Exploited Linux Kernel Vulnerabilities](https://www.securityweek.com/organizations-warned-of-3-exploited-linux-kernel-vulnerabilities/)
+### 39. [Organizations Warned of 3 Exploited Linux Kernel Vulnerabilities](https://www.securityweek.com/organizations-warned-of-3-exploited-linux-kernel-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Mon, 21 Sep 2026 09:31:12 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-53266, CVE-2025-39682, CVE-2025-39964  
+**CVEs:** CVE-2025-39682, CVE-2026-53266, CVE-2025-39964  
 **Categories:** Vulnerability  
 
 ---
 
-### 38. [Google Confirms Gemini AI Breached Three Firms](https://www.securityweek.com/google-confirms-gemini-ai-breached-three-firms/)
+### 40. [Google Confirms Gemini AI Breached Three Firms](https://www.securityweek.com/google-confirms-gemini-ai-breached-three-firms/)
 
 **Source:** Security Week  
 **Published:** Mon, 21 Sep 2026 07:20:46 +0000  
 **Severity:** Critical  
 **Categories:** Data Breach, Vulnerability, APT  
-
----
-
-### 39. [TigerByte Cyber Emerges From Stealth With $3 Million in Funding](https://www.securityweek.com/tigerbyte-cyber-emerges-from-stealth-with-3-million-in-funding/)
-
-**Source:** Security Week  
-**Published:** Sat, 19 Sep 2026 14:30:00 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 40. [In Other News: Ransomware Developer Sentenced, Plugin4Shell AI Attack, Critical SAP Flaw](https://www.securityweek.com/in-other-news-ransomware-developer-sentenced-plugin4shell-ai-attack-critical-sap-flaw/)
-
-**Source:** Security Week  
-**Published:** Fri, 18 Sep 2026 14:25:00 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-44756, CVE-2026-15315, CVE-2026-15316  
-**Categories:** Ransomware, Vulnerability, Malware, APT  
 
 ---
 
@@ -421,7 +420,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 08 Sep 2026 22:16:35 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-85880, CVE-2026-81963, CVE-2026-69676, CVE-2026-69852  
+**CVEs:** CVE-2026-81963, CVE-2026-69676, CVE-2026-85880, CVE-2026-69852  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -632,7 +631,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -647,7 +646,25 @@
 
 ---
 
-### 71. [Gemini’s breach of real companies exposes an AI guardrail problem](https://www.malwarebytes.com/blog/ai/2026/09/geminis-breach-of-real-companies-exposes-an-ai-guardrail-problem)
+### 71. [The AI plot to scan and destroy books (Lock and Code S07E19)](https://www.malwarebytes.com/blog/podcast/2026/09/the-ai-plot-to-scan-and-destroy-books-lock-and-code-s07e19)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 21 Sep 2026 16:30:29 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 72. [The fake sites using a cheap toolkit to sell $2,000 AI subscriptions](https://www.malwarebytes.com/blog/threat-intel/2026/09/the-fake-sites-using-a-cheap-toolkit-to-sell-2000-ai-subscriptions)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 21 Sep 2026 15:38:26 GMT  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 73. [Gemini’s breach of real companies exposes an AI guardrail problem](https://www.malwarebytes.com/blog/ai/2026/09/geminis-breach-of-real-companies-exposes-an-ai-guardrail-problem)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 21 Sep 2026 14:21:38 GMT  
@@ -656,7 +673,7 @@
 
 ---
 
-### 72. [ShinyHunters hacks rival extortion gang and takes over its dark web site](https://www.malwarebytes.com/blog/news/2026/09/shinyhunters-hacks-rival-extortion-gang-and-takes-over-its-dark-web-site)
+### 74. [ShinyHunters hacks rival extortion gang and takes over its dark web site](https://www.malwarebytes.com/blog/news/2026/09/shinyhunters-hacks-rival-extortion-gang-and-takes-over-its-dark-web-site)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 21 Sep 2026 10:17:09 GMT  
@@ -665,7 +682,7 @@
 
 ---
 
-### 73. [A week in security (September 14 – September 20)](https://www.malwarebytes.com/blog/news/2026/09/a-week-in-security-september-14-september-20)
+### 75. [A week in security (September 14 – September 20)](https://www.malwarebytes.com/blog/news/2026/09/a-week-in-security-september-14-september-20)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 21 Sep 2026 07:02:00 GMT  
@@ -674,7 +691,7 @@
 
 ---
 
-### 74. [New Android malware uses AI to steal bank logins and PINs](https://www.malwarebytes.com/blog/news/2026/09/new-android-malware-uses-ai-to-steal-bank-logins-and-pins)
+### 76. [New Android malware uses AI to steal bank logins and PINs](https://www.malwarebytes.com/blog/news/2026/09/new-android-malware-uses-ai-to-steal-bank-logins-and-pins)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 18 Sep 2026 15:37:04 GMT  
@@ -683,7 +700,7 @@
 
 ---
 
-### 75. [Did an AI really try to break free from human control?](https://www.malwarebytes.com/blog/ai/2026/09/did-an-ai-really-try-to-break-free-from-human-control)
+### 77. [Did an AI really try to break free from human control?](https://www.malwarebytes.com/blog/ai/2026/09/did-an-ai-really-try-to-break-free-from-human-control)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 18 Sep 2026 14:18:20 GMT  
@@ -692,7 +709,7 @@
 
 ---
 
-### 76. [Fake parcel delivery messages steal your card and bank details](https://www.malwarebytes.com/blog/scams/2026/09/fake-parcel-delivery-messages-steal-your-card-and-bank-details)
+### 78. [Fake parcel delivery messages steal your card and bank details](https://www.malwarebytes.com/blog/scams/2026/09/fake-parcel-delivery-messages-steal-your-card-and-bank-details)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 18 Sep 2026 07:44:22 GMT  
@@ -701,7 +718,7 @@
 
 ---
 
-### 77. [Flock cameras are tracking people as well as cars](https://www.malwarebytes.com/blog/privacy/2026/09/flock-cameras-are-tracking-people-as-well-as-cars)
+### 79. [Flock cameras are tracking people as well as cars](https://www.malwarebytes.com/blog/privacy/2026/09/flock-cameras-are-tracking-people-as-well-as-cars)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 17 Sep 2026 18:46:12 GMT  
@@ -710,30 +727,12 @@
 
 ---
 
-### 78. [Revolut phishing texts appear days after data breach](https://www.malwarebytes.com/blog/threat-intel/2026/09/revolut-phishing-texts-appear-days-after-data-breach)
+### 80. [Revolut phishing texts appear days after data breach](https://www.malwarebytes.com/blog/threat-intel/2026/09/revolut-phishing-texts-appear-days-after-data-breach)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 17 Sep 2026 14:07:15 GMT  
 **Severity:** Low  
 **Categories:** Data Breach, Phishing  
-
----
-
-### 79. [12 celebrity deepfake websites seized by Manhattan DA](https://www.malwarebytes.com/blog/ai/2026/09/12-celebrity-deepfake-websites-seized-by-manhattan-da)
-
-**Source:** Malwarebytes  
-**Published:** Thu, 17 Sep 2026 11:20:46 GMT  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 80. [T-Mobile rewards points expiry texts are a phishing scam](https://www.malwarebytes.com/blog/threat-intel/2026/09/t-mobile-rewards-points-expiry-texts-are-a-phishing-scam)
-
-**Source:** Malwarebytes  
-**Published:** Thu, 17 Sep 2026 10:44:01 GMT  
-**Severity:** Low  
-**Categories:** Phishing  
 
 ---
 
