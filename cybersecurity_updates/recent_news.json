@@ -1,6 +1,60 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR",
+    "link": "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html",
+    "published": "Mon, 21 Sep 2026 23:01:01 +0530",
+    "summary": "A fake LastPass Authenticator installer offered on GitHub installs a Windows kernel driver that shuts off antivirus and other security software before a password stealer runs if a victim downloads and runs it, researchers at LastPass and Delphos Labs said on September 17.\n\nMicrosoft's own hardware-compatibility program signs the driver, scored zero detections on VirusTotal when researchers",
+    "analysis": {
+      "issue": "A fake LastPass Authenticator installer uses a signed kernel driver to kill security tools before a stealer collects passwords and wallet files",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto",
+    "link": "https://thehackernews.com/2026/09/contagious-interview-campaign.html",
+    "published": "Mon, 21 Sep 2026 22:49:00 +0530",
+    "summary": "The North Korean threat actors behind the Contagious Interview campaign have compromised at least 30,000 devices located in more than 100 countries and siphoned funds or account credentials from over 7,000 cryptocurrency wallets, according to a new joint cybersecurity advisory.\n\nThe primary targets of the campaign are individual web designers, engineers, and specialists in cryptocurrency,",
+    "analysis": {
+      "issue": "North Korean Contagious Interview campaign compromised 30,000 devices and stole at least $10",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Google Fined €403 Million Over GDPR Violations Tied to Location Data",
+    "link": "https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html",
+    "published": "Mon, 21 Sep 2026 22:27:31 +0530",
+    "summary": "Google has been&nbsp;fined €403 million&nbsp;for breaking the EU's data protection law, the GDPR, in the way three of its features handled people's location data from May 2018 to February 2020.\n\nIreland's Data Protection Commission (DPC), Google's lead regulator in the EU, also ordered the company to make its processing comply with the law within 6 months. The DPC has not said publicly which",
+    "analysis": {
+      "issue": "Ireland's DPC fined Google €403 million over GDPR violations in how three features handled location data from 2018 to 2020",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks",
     "link": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html",
     "published": "Mon, 21 Sep 2026 19:54:13 +0530",
@@ -127,37 +181,21 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
-    "link": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
-    "published": "Sat, 19 Sep 2026 15:01:17 +0530",
-    "summary": "SolarWinds has released security updates to address a high-severity flaw in Access Rights Manager (ARM) that, if successfully exploited, could lead to an unauthenticated remote code execution vulnerability.\n\nThe vulnerability, tracked as CVE-2026-28326, is rated 8.8 out of 10.0 on the CVSS scoring system. The issue affects all versions of Access Rights Manager 2026.2 and prior.\n\n\"SolarWinds",
+    "source": "Bleeping Computer",
+    "title": "CISA alerts of active exploitation of three Linux kernel flaws",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/",
+    "published": "Mon, 21 Sep 2026 16:12:17 -0400",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting three Linux kernel vulnerabilities, one of them rated critical. [...]",
     "analysis": {
-      "issue": "SolarWinds patched an ARM flaw caused by a hard-coded static key that could enable unauthenticated remote code execution",
+      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting three Linux kernel vulnerabilities, one of them rated critical",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
-    "link": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
-    "published": "Sat, 19 Sep 2026 13:48:54 +0530",
-    "summary": "A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet.\n\nThe vulnerability in question is CVE-2026-58138 (CVSS v3.1 score: 9.8/CVSS v4 score: 9.3), which relates to a case of unauthenticated remote code execution.\n\n\"Orkes Conductor 3.21.21 before 3.30.2 contains an unauthenticated remote code execution vulnerability that allows remote",
-    "analysis": {
-      "issue": "Attackers are exploiting CVE-2026-58138 in Orkes Conductor, an unauthenticated RCE fixed in version 3",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [
-        "CVE-2026-58138"
+        "CVE-2026-53266",
+        "CVE-2025-39964",
+        "CVE-2025-39682"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -165,20 +203,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
-    "link": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
-    "published": "Sat, 19 Sep 2026 13:21:34 +0530",
-    "summary": "Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation. The development was first reported by The Wall Street Journal.\n\nThe incidents occurred in May 2026 as part of a test run conducted by Israeli company Irregular. The evaluation partner was also involved in similar hacks disclosed",
+    "source": "Bleeping Computer",
+    "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server",
+    "link": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/",
+    "published": "Mon, 21 Sep 2026 14:23:11 -0400",
+    "summary": "Technical details and a proof-of-concept exploit have been published for a new WordPress cross-site request forgery (CSRF) vulnerability dubbed 'Click2Shell' that affects the platform's Core component. [...]",
     "analysis": {
-      "issue": "Google's Gemini gained unauthorized access to real company systems during a May 2026 test, then halted after detecting a real-world breach",
+      "issue": "Technical details and a proof-of-concept exploit have been published for a new WordPress cross-site request forgery (CSRF) vulnerability dubbed 'Click2Shell' that affects the platform’s Core component",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Vulnerability"
       ]
     }
   },
@@ -328,42 +366,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "BragJack attacks hijack AI browser agents through malicious extensions",
-    "link": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
-    "published": "Sat, 19 Sep 2026 10:56:31 -0400",
-    "summary": "BragJack, a proof-of-concept attack from Forever Security's Gal Weizman, hijacks the AI assistants in Chrome, Edge, Opera Neon, Perplexity Comet, and Claude in Chrome using one malicious extension. The Prompt Forcing technique earned over $20,000 in bounties and two CVEs. [...]",
-    "analysis": {
-      "issue": "Security researcher Gal Weizman of Forever Security has disclosed a new attack technique that can hijack the AI assistants built into popular browsers using a single malicious browser extension",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide",
-    "link": "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/",
-    "published": "Sat, 19 Sep 2026 10:05:15 -0400",
-    "summary": "A joint law enforcement advisory warns that the North Korean hacking group WaterPlum compromised at least 30,000 devices worldwide from December 2025 through July 2026 and transferred more than $10.7 million in stolen cryptocurrency to North Korea. [...]",
-    "analysis": {
-      "issue": "A joint law enforcement advisory warns that the North Korean hacking group WaterPlum compromised at least 30,000 devices worldwide from December 2025 through July 2026 and transferred more than $10",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Data Broker Radaris Loses Domains in Privacy Fight",
     "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
@@ -394,10 +396,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69829",
         "CVE-2026-81963",
-        "CVE-2026-85880",
-        "CVE-2026-69730"
+        "CVE-2026-69829",
+        "CVE-2026-69730",
+        "CVE-2026-85880"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -474,9 +476,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-62832",
         "CVE-2026-72971",
-        "CVE-2026-68820"
+        "CVE-2026-68820",
+        "CVE-2026-62832"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -553,10 +555,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-48561",
         "CVE-2026-56155",
         "CVE-2026-56164",
-        "CVE-2026-50661",
-        "CVE-2026-48561"
+        "CVE-2026-50661"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -730,8 +732,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-39682",
         "CVE-2026-53266",
+        "CVE-2025-39682",
         "CVE-2025-39964"
       ],
       "threat_categories": [
@@ -869,10 +871,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-69852",
         "CVE-2026-81963",
-        "CVE-2026-69676",
         "CVE-2026-85880",
-        "CVE-2026-69852"
+        "CVE-2026-69676"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1305,8 +1307,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",

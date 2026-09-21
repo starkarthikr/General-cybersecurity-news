@@ -1,10 +1,37 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-21 18:06:02 UTC
+**Last Updated:** 2026-09-21 20:30:15 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks](https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html)
+### 1. [Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR](https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 21 Sep 2026 23:01:01 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto](https://thehackernews.com/2026/09/contagious-interview-campaign.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 21 Sep 2026 22:49:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [Google Fined €403 Million Over GDPR Violations Tied to Location Data](https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 21 Sep 2026 22:27:31 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 4. [⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks](https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 21 Sep 2026 19:54:13 +0530  
@@ -13,7 +40,7 @@
 
 ---
 
-### 2. [TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data](https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html)
+### 5. [TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data](https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 21 Sep 2026 19:45:40 +0530  
@@ -22,7 +49,7 @@
 
 ---
 
-### 3. [ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure](https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html)
+### 6. [ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure](https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 21 Sep 2026 14:09:38 +0530  
@@ -31,7 +58,7 @@
 
 ---
 
-### 4. [Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors](https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html)
+### 7. [Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors](https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 21 Sep 2026 11:36:44 +0530  
@@ -40,7 +67,7 @@
 
 ---
 
-### 5. [Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws](https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html)
+### 8. [Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws](https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 20 Sep 2026 00:06:53 +0530  
@@ -49,7 +76,7 @@
 
 ---
 
-### 6. [Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar](https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html)
+### 9. [Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar](https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 19 Sep 2026 18:58:48 +0530  
@@ -58,7 +85,7 @@
 
 ---
 
-### 7. [Identity Visibility in 2026: The Foundation of Identity Security](https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html)
+### 10. [Identity Visibility in 2026: The Foundation of Identity Security](https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 19 Sep 2026 18:58:41 +0530  
@@ -67,35 +94,26 @@
 
 ---
 
-### 8. [SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE](https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html)
+### 11. [CISA alerts of active exploitation of three Linux kernel flaws](https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/)
 
-**Source:** The Hacker News  
-**Published:** Sat, 19 Sep 2026 15:01:17 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 9. [Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild](https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html)
-
-**Source:** The Hacker News  
-**Published:** Sat, 19 Sep 2026 13:48:54 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-58138  
+**Source:** Bleeping Computer  
+**Published:** Mon, 21 Sep 2026 16:12:17 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-53266, CVE-2025-39964, CVE-2025-39682  
 **Categories:** Vulnerability  
 
 ---
 
-### 10. [Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up](https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html)
+### 12. [WordPress Click2Shell flaw lets hackers execute PHP on the server](https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/)
 
-**Source:** The Hacker News  
-**Published:** Sat, 19 Sep 2026 13:21:34 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 21 Sep 2026 14:23:11 -0400  
 **Severity:** Low  
-**Categories:** General Security  
+**Categories:** Vulnerability  
 
 ---
 
-### 11. [Microsoft to retire Microsoft 365 Companion apps in December](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-microsoft-365-companion-apps-in-december/)
+### 13. [Microsoft to retire Microsoft 365 Companion apps in December](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-microsoft-365-companion-apps-in-december/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 21 Sep 2026 13:54:49 -0400  
@@ -104,7 +122,7 @@
 
 ---
 
-### 12. [Google fined €403 million over location data privacy violations](https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/)
+### 14. [Google fined €403 million over location data privacy violations](https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 21 Sep 2026 11:41:22 -0400  
@@ -113,7 +131,7 @@
 
 ---
 
-### 13. [Microsoft fixes broken Excel copy and paste for all Office users](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/)
+### 15. [Microsoft fixes broken Excel copy and paste for all Office users](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 21 Sep 2026 10:42:37 -0400  
@@ -122,7 +140,7 @@
 
 ---
 
-### 14. [FBI's CJIS v6.1: What Security Teams Need to Know.](https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/)
+### 16. [FBI's CJIS v6.1: What Security Teams Need to Know.](https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 21 Sep 2026 10:02:12 -0400  
@@ -131,7 +149,7 @@
 
 ---
 
-### 15. [Microsoft reminds admins to migrate Entra ID users to passkeys](https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/)
+### 17. [Microsoft reminds admins to migrate Entra ID users to passkeys](https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 21 Sep 2026 09:16:20 -0400  
@@ -140,7 +158,7 @@
 
 ---
 
-### 16. [Microsoft: September updates break File History backup feature](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/)
+### 18. [Microsoft: September updates break File History backup feature](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 21 Sep 2026 07:45:54 -0400  
@@ -149,7 +167,7 @@
 
 ---
 
-### 17. [Malicious npm packages evade install-script defenses at runtime](https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/)
+### 19. [Malicious npm packages evade install-script defenses at runtime](https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 20 Sep 2026 10:11:21 -0400  
@@ -158,30 +176,12 @@
 
 ---
 
-### 18. [Researchers escape OpenAI Codex sandbox to run commands on host](https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/)
+### 20. [Researchers escape OpenAI Codex sandbox to run commands on host](https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 20 Sep 2026 08:00:00 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 19. [BragJack attacks hijack AI browser agents through malicious extensions](https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 19 Sep 2026 10:56:31 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 20. [North Korean WaterPlum hackers infected 30,000 devices worldwide](https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 19 Sep 2026 10:05:15 -0400  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
@@ -199,7 +199,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69829, CVE-2026-81963, CVE-2026-85880, CVE-2026-69730  
+**CVEs:** CVE-2026-81963, CVE-2026-69829, CVE-2026-69730, CVE-2026-85880  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -236,7 +236,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62832, CVE-2026-72971, CVE-2026-68820  
+**CVEs:** CVE-2026-72971, CVE-2026-68820, CVE-2026-62832  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -273,7 +273,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56155, CVE-2026-56164, CVE-2026-50661, CVE-2026-48561  
+**CVEs:** CVE-2026-48561, CVE-2026-56155, CVE-2026-56164, CVE-2026-50661  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -355,7 +355,7 @@
 **Source:** Security Week  
 **Published:** Mon, 21 Sep 2026 09:31:12 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-39682, CVE-2026-53266, CVE-2025-39964  
+**CVEs:** CVE-2026-53266, CVE-2025-39682, CVE-2025-39964  
 **Categories:** Vulnerability  
 
 ---
@@ -420,7 +420,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 08 Sep 2026 22:16:35 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81963, CVE-2026-69676, CVE-2026-85880, CVE-2026-69852  
+**CVEs:** CVE-2026-69852, CVE-2026-81963, CVE-2026-85880, CVE-2026-69676  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -631,7 +631,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
