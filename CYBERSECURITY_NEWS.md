@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-22 13:35:10 UTC
+**Last Updated:** 2026-09-22 16:40:47 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -97,7 +97,26 @@
 
 ---
 
-### 11. [Webinar tomorrow: Inside real-world Google Workspace breaches](https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/)
+### 11. [Check Point warns of Management Server zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 22 Sep 2026 12:32:47 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-93616  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts](https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 22 Sep 2026 11:00:00 -0400  
+**Severity:** High  
+**Categories:** Phishing  
+
+---
+
+### 13. [Webinar tomorrow: Inside real-world Google Workspace breaches](https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 22 Sep 2026 08:57:07 -0400  
@@ -106,17 +125,17 @@
 
 ---
 
-### 12. [D-Link warns of max severity zero-day bug in DIR-822A routers](https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/)
+### 14. [D-Link warns of max severity zero-day bug in DIR-822A routers](https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 22 Sep 2026 08:48:06 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-86296, CVE-2026-86510  
+**CVEs:** CVE-2026-86510, CVE-2026-86296  
 **Categories:** Vulnerability  
 
 ---
 
-### 13. [New Windows Defender zero-day blocks Microsoft antivirus updates](https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/)
+### 15. [New Windows Defender zero-day blocks Microsoft antivirus updates](https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 22 Sep 2026 05:55:11 -0400  
@@ -125,7 +144,7 @@
 
 ---
 
-### 14. [CISA orders feds to patch Zyxel flaw exploited for data theft](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/)
+### 16. [CISA orders feds to patch Zyxel flaw exploited for data theft](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 22 Sep 2026 04:53:09 -0400  
@@ -135,7 +154,7 @@
 
 ---
 
-### 15. [BigCommerce alerts merchants of data breach linked to Ribon apps](https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/)
+### 17. [BigCommerce alerts merchants of data breach linked to Ribon apps](https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 21 Sep 2026 17:18:49 -0400  
@@ -144,17 +163,17 @@
 
 ---
 
-### 16. [CISA alerts of active exploitation of three Linux kernel flaws](https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/)
+### 18. [CISA alerts of active exploitation of three Linux kernel flaws](https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 21 Sep 2026 16:12:17 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2025-39964, CVE-2025-39682, CVE-2026-53266  
+**CVEs:** CVE-2026-53266, CVE-2025-39682, CVE-2025-39964  
 **Categories:** Vulnerability  
 
 ---
 
-### 17. [WordPress Click2Shell flaw lets hackers execute PHP on the server](https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/)
+### 19. [WordPress Click2Shell flaw lets hackers execute PHP on the server](https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 21 Sep 2026 14:23:11 -0400  
@@ -163,28 +182,10 @@
 
 ---
 
-### 18. [Microsoft to retire Microsoft 365 Companion apps in December](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-microsoft-365-companion-apps-in-december/)
+### 20. [Microsoft to retire Microsoft 365 Companion apps in December](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-microsoft-365-companion-apps-in-december/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 21 Sep 2026 13:54:49 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 19. [Google fined €403 million over location data privacy violations](https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 21 Sep 2026 11:41:22 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [Microsoft fixes broken Excel copy and paste for all Office users](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 21 Sep 2026 10:42:37 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -204,7 +205,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69730, CVE-2026-81963, CVE-2026-69829, CVE-2026-85880  
+**CVEs:** CVE-2026-81963, CVE-2026-69829, CVE-2026-85880, CVE-2026-69730  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -278,12 +279,21 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50661, CVE-2026-56164, CVE-2026-56155, CVE-2026-48561  
+**CVEs:** CVE-2026-48561, CVE-2026-56164, CVE-2026-56155, CVE-2026-50661  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 31. [Nightmare Eclipse Drops New Microsoft Defender Exploit After Revealing Identity](https://www.securityweek.com/nightmare-eclipse-drops-new-microsoft-defender-exploit-after-revealing-identity/)
+### 31. [Cyera Raises $400 Million at $12+ Billion Valuation](https://www.securityweek.com/cyera-raises-400-million-at-12-billion-valuation/)
+
+**Source:** Security Week  
+**Published:** Tue, 22 Sep 2026 14:29:34 +0000  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 32. [Nightmare Eclipse Drops New Microsoft Defender Exploit After Revealing Identity](https://www.securityweek.com/nightmare-eclipse-drops-new-microsoft-defender-exploit-after-revealing-identity/)
 
 **Source:** Security Week  
 **Published:** Tue, 22 Sep 2026 13:26:51 +0000  
@@ -292,7 +302,7 @@
 
 ---
 
-### 32. [Only 13% of OT Network Segments Are Fully Isolated: Analysis](https://www.securityweek.com/only-13-of-ot-network-segments-are-fully-isolated-analysis/)
+### 33. [Only 13% of OT Network Segments Are Fully Isolated: Analysis](https://www.securityweek.com/only-13-of-ot-network-segments-are-fully-isolated-analysis/)
 
 **Source:** Security Week  
 **Published:** Tue, 22 Sep 2026 12:24:30 +0000  
@@ -301,7 +311,7 @@
 
 ---
 
-### 33. [Recent ZyXEL Switch Vulnerability Exploited by Chinese Hackers](https://www.securityweek.com/recent-zyxel-switch-vulnerability-exploited-by-chinese-hackers/)
+### 34. [Recent ZyXEL Switch Vulnerability Exploited by Chinese Hackers](https://www.securityweek.com/recent-zyxel-switch-vulnerability-exploited-by-chinese-hackers/)
 
 **Source:** Security Week  
 **Published:** Tue, 22 Sep 2026 11:55:20 +0000  
@@ -311,7 +321,7 @@
 
 ---
 
-### 34. [Malicious B-tree NPM Package Accumulates Millions of Downloads](https://www.securityweek.com/malicious-b-tree-npm-package-accumulates-millions-of-downloads/)
+### 35. [Malicious B-tree NPM Package Accumulates Millions of Downloads](https://www.securityweek.com/malicious-b-tree-npm-package-accumulates-millions-of-downloads/)
 
 **Source:** Security Week  
 **Published:** Tue, 22 Sep 2026 11:33:59 +0000  
@@ -320,7 +330,7 @@
 
 ---
 
-### 35. [WordPress Patches ‘Click2Shell’ Vulnerability](https://www.securityweek.com/wordpress-patches-click2shell-vulnerability/)
+### 36. [WordPress Patches ‘Click2Shell’ Vulnerability](https://www.securityweek.com/wordpress-patches-click2shell-vulnerability/)
 
 **Source:** Security Week  
 **Published:** Tue, 22 Sep 2026 10:22:27 +0000  
@@ -329,7 +339,7 @@
 
 ---
 
-### 36. [Japan Dismantles First North Korean Laptop Farm as US and Allies Detail Wider Scheme](https://www.securityweek.com/japan-dismantles-first-north-korean-laptop-farm-as-us-and-allies-detail-wider-scheme/)
+### 37. [Japan Dismantles First North Korean Laptop Farm as US and Allies Detail Wider Scheme](https://www.securityweek.com/japan-dismantles-first-north-korean-laptop-farm-as-us-and-allies-detail-wider-scheme/)
 
 **Source:** Security Week  
 **Published:** Tue, 22 Sep 2026 08:37:06 +0000  
@@ -338,7 +348,7 @@
 
 ---
 
-### 37. [US Proposes AI Incident Alert System in Talks With China, Bessent Says](https://www.securityweek.com/us-proposes-ai-incident-alert-system-in-talks-with-china-bessent-says/)
+### 38. [US Proposes AI Incident Alert System in Talks With China, Bessent Says](https://www.securityweek.com/us-proposes-ai-incident-alert-system-in-talks-with-china-bessent-says/)
 
 **Source:** Security Week  
 **Published:** Tue, 22 Sep 2026 02:01:24 +0000  
@@ -347,7 +357,7 @@
 
 ---
 
-### 38. [Google Hit With $463 Million Fine for EU Location Data Rule Breach](https://www.securityweek.com/google-hit-with-463-million-fine-for-eu-location-data-rule-breach/)
+### 39. [Google Hit With $463 Million Fine for EU Location Data Rule Breach](https://www.securityweek.com/google-hit-with-463-million-fine-for-eu-location-data-rule-breach/)
 
 **Source:** Security Week  
 **Published:** Mon, 21 Sep 2026 17:19:53 +0000  
@@ -356,21 +366,12 @@
 
 ---
 
-### 39. [Fake LastPass Installers Push Kernel-Level EDR Killer, ‘Rapuncel’ Stealer](https://www.securityweek.com/fake-lastpass-installers-push-kernel-level-edr-killer-rapuncel-stealer/)
+### 40. [Fake LastPass Installers Push Kernel-Level EDR Killer, ‘Rapuncel’ Stealer](https://www.securityweek.com/fake-lastpass-installers-push-kernel-level-edr-killer-rapuncel-stealer/)
 
 **Source:** Security Week  
 **Published:** Mon, 21 Sep 2026 15:46:58 +0000  
 **Severity:** Critical  
 **Categories:** Ransomware, Malware, APT  
-
----
-
-### 40. [CISO Conversations: Noopur Davis – The Accidental Global CISO at Comcast](https://www.securityweek.com/ciso-conversations-noopur-davis-the-accidental-global-ciso-at-comcast/)
-
-**Source:** Security Week  
-**Published:** Mon, 21 Sep 2026 14:30:00 +0000  
-**Severity:** High  
-**Categories:** APT  
 
 ---
 
@@ -433,7 +434,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 09 Sep 2026 16:08:59 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20316, CVE-2026-20079  
+**CVEs:** CVE-2026-20079, CVE-2026-20316  
 **Categories:** Ransomware, Vulnerability, Malware, APT  
 
 ---
@@ -443,7 +444,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 08 Sep 2026 22:16:35 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69852, CVE-2026-81963, CVE-2026-69676, CVE-2026-85880  
+**CVEs:** CVE-2026-81963, CVE-2026-69852, CVE-2026-85880, CVE-2026-69676  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -651,7 +652,16 @@
 
 ---
 
-### 71. [Meta’s Muse AI assistant has a zero-day that can turn it into a Mac backdoor](https://www.malwarebytes.com/blog/bugs/2026/09/metas-muse-ai-assistant-has-a-zero-day-that-can-turn-it-into-a-mac-backdoor)
+### 71. [Some cheap smart glasses are a security disaster](https://www.malwarebytes.com/blog/news/2026/09/some-cheap-smart-glasses-are-a-security-disaster)
+
+**Source:** Malwarebytes  
+**Published:** Tue, 22 Sep 2026 15:04:25 GMT  
+**Severity:** Low  
+**Categories:** APT  
+
+---
+
+### 72. [Meta’s Muse AI assistant has a zero-day that can turn it into a Mac backdoor](https://www.malwarebytes.com/blog/bugs/2026/09/metas-muse-ai-assistant-has-a-zero-day-that-can-turn-it-into-a-mac-backdoor)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 22 Sep 2026 10:53:06 GMT  
@@ -660,7 +670,7 @@
 
 ---
 
-### 72. [Researchers used Claude to hack OpenAI](https://www.malwarebytes.com/blog/news/2026/09/researchers-used-claude-to-hack-openai)
+### 73. [Researchers used Claude to hack OpenAI](https://www.malwarebytes.com/blog/news/2026/09/researchers-used-claude-to-hack-openai)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 22 Sep 2026 09:51:02 GMT  
@@ -669,7 +679,7 @@
 
 ---
 
-### 73. [The AI plot to scan and destroy books (Lock and Code S07E19)](https://www.malwarebytes.com/blog/podcast/2026/09/the-ai-plot-to-scan-and-destroy-books-lock-and-code-s07e19)
+### 74. [The AI plot to scan and destroy books (Lock and Code S07E19)](https://www.malwarebytes.com/blog/podcast/2026/09/the-ai-plot-to-scan-and-destroy-books-lock-and-code-s07e19)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 21 Sep 2026 16:30:29 GMT  
@@ -678,7 +688,7 @@
 
 ---
 
-### 74. [The fake sites using a cheap toolkit to sell $2,000 AI subscriptions](https://www.malwarebytes.com/blog/threat-intel/2026/09/the-fake-sites-using-a-cheap-toolkit-to-sell-2000-ai-subscriptions)
+### 75. [The fake sites using a cheap toolkit to sell $2,000 AI subscriptions](https://www.malwarebytes.com/blog/threat-intel/2026/09/the-fake-sites-using-a-cheap-toolkit-to-sell-2000-ai-subscriptions)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 21 Sep 2026 15:38:26 GMT  
@@ -687,7 +697,7 @@
 
 ---
 
-### 75. [Gemini’s breach of real companies exposes an AI guardrail problem](https://www.malwarebytes.com/blog/ai/2026/09/geminis-breach-of-real-companies-exposes-an-ai-guardrail-problem)
+### 76. [Gemini’s breach of real companies exposes an AI guardrail problem](https://www.malwarebytes.com/blog/ai/2026/09/geminis-breach-of-real-companies-exposes-an-ai-guardrail-problem)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 21 Sep 2026 14:21:38 GMT  
@@ -696,7 +706,7 @@
 
 ---
 
-### 76. [ShinyHunters hacks rival extortion gang and takes over its dark web site](https://www.malwarebytes.com/blog/news/2026/09/shinyhunters-hacks-rival-extortion-gang-and-takes-over-its-dark-web-site)
+### 77. [ShinyHunters hacks rival extortion gang and takes over its dark web site](https://www.malwarebytes.com/blog/news/2026/09/shinyhunters-hacks-rival-extortion-gang-and-takes-over-its-dark-web-site)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 21 Sep 2026 10:17:09 GMT  
@@ -705,7 +715,7 @@
 
 ---
 
-### 77. [A week in security (September 14 – September 20)](https://www.malwarebytes.com/blog/news/2026/09/a-week-in-security-september-14-september-20)
+### 78. [A week in security (September 14 – September 20)](https://www.malwarebytes.com/blog/news/2026/09/a-week-in-security-september-14-september-20)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 21 Sep 2026 07:02:00 GMT  
@@ -714,7 +724,7 @@
 
 ---
 
-### 78. [New Android malware uses AI to steal bank logins and PINs](https://www.malwarebytes.com/blog/news/2026/09/new-android-malware-uses-ai-to-steal-bank-logins-and-pins)
+### 79. [New Android malware uses AI to steal bank logins and PINs](https://www.malwarebytes.com/blog/news/2026/09/new-android-malware-uses-ai-to-steal-bank-logins-and-pins)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 18 Sep 2026 15:37:04 GMT  
@@ -723,21 +733,12 @@
 
 ---
 
-### 79. [Did an AI really try to break free from human control?](https://www.malwarebytes.com/blog/ai/2026/09/did-an-ai-really-try-to-break-free-from-human-control)
+### 80. [Did an AI really try to break free from human control?](https://www.malwarebytes.com/blog/ai/2026/09/did-an-ai-really-try-to-break-free-from-human-control)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 18 Sep 2026 14:18:20 GMT  
 **Severity:** High  
 **Categories:** General Security  
-
----
-
-### 80. [Fake parcel delivery messages steal your card and bank details](https://www.malwarebytes.com/blog/scams/2026/09/fake-parcel-delivery-messages-steal-your-card-and-bank-details)
-
-**Source:** Malwarebytes  
-**Published:** Fri, 18 Sep 2026 07:44:22 GMT  
-**Severity:** Low  
-**Categories:** Phishing  
 
 ---
 

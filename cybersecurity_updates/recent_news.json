@@ -187,6 +187,44 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Check Point warns of Management Server zero-day exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
+    "published": "Tue, 22 Sep 2026 12:32:47 -0400",
+    "summary": "Check Point Software released emergency hotfixes to address a critical Security Management Server vulnerability that could let attackers run arbitrary scripts. [...]",
+    "analysis": {
+      "issue": "Check Point Software released emergency hotfixes to address a critical Security Management Server vulnerability that could let attackers run arbitrary scripts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-93616"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/",
+    "published": "Tue, 22 Sep 2026 11:00:00 -0400",
+    "summary": "The EvilTokens platform that compromised more than 12,000 Microsoft accounts at over 10,000 organizations has been disrupted in an effort led by Microsoft's Digital Crimes Unit (DCU). [...]",
+    "analysis": {
+      "issue": "The EvilTokens platform that compromised more than 12,000 Microsoft accounts at over 10,000 organizations has been disrupted in an effort led by Microsoft’s Digital Crimes Unit (DCU)",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Webinar tomorrow: Inside real-world Google Workspace breaches",
     "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/",
     "published": "Tue, 22 Sep 2026 08:57:07 -0400",
@@ -216,8 +254,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-86296",
-        "CVE-2026-86510"
+        "CVE-2026-86510",
+        "CVE-2026-86296"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -294,9 +332,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-39964",
+        "CVE-2026-53266",
         "CVE-2025-39682",
-        "CVE-2026-53266"
+        "CVE-2025-39964"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -340,42 +378,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Google fined €403 million over location data privacy violations",
-    "link": "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/",
-    "published": "Mon, 21 Sep 2026 11:41:22 -0400",
-    "summary": "Ireland's Data Protection Commission (DPC) has fined Google €403 million ($463M) for multiple GDPR violations related to processing users' location data. [...]",
-    "analysis": {
-      "issue": "Ireland’s Data Protection Commission (DPC) has fined Google €403 million ($463M) for multiple GDPR violations related to processing users’ location data",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft fixes broken Excel copy and paste for all Office users",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/",
-    "published": "Mon, 21 Sep 2026 10:42:37 -0400",
-    "summary": "Microsoft has fixed a known issue that causes copy-and-paste failures for Excel users after installing the September 2026 security updates. [...]",
-    "analysis": {
-      "issue": "Microsoft has fixed a known issue that causes copy-and-paste failures for Excel users after installing the September 2026 security updates",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Data Broker Radaris Loses Domains in Privacy Fight",
     "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
@@ -406,10 +408,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69730",
         "CVE-2026-81963",
         "CVE-2026-69829",
-        "CVE-2026-85880"
+        "CVE-2026-85880",
+        "CVE-2026-69730"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -565,14 +567,32 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50661",
+        "CVE-2026-48561",
         "CVE-2026-56164",
         "CVE-2026-56155",
-        "CVE-2026-48561"
+        "CVE-2026-50661"
       ],
       "threat_categories": [
         "Vulnerability",
         "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Cyera Raises $400 Million at $12+ Billion Valuation",
+    "link": "https://www.securityweek.com/cyera-raises-400-million-at-12-billion-valuation/",
+    "published": "Tue, 22 Sep 2026 14:29:34 +0000",
+    "summary": "<p>The data security company received the new investment from Goldman Sachs Alternatives, extending its Series G funding round.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyera-raises-400-million-at-12-billion-valuation/\">Cyera Raises $400 Million at $12+ Billion Valuation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The data security company received the new investment from Goldman Sachs Alternatives, extending its Series G funding round",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -749,24 +769,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "CISO Conversations: Noopur Davis – The Accidental Global CISO at Comcast",
-    "link": "https://www.securityweek.com/ciso-conversations-noopur-davis-the-accidental-global-ciso-at-comcast/",
-    "published": "Mon, 21 Sep 2026 14:30:00 +0000",
-    "summary": "<p>Noopur Davis never planned a career in cybersecurity. She was a developer at Intergraph, and for many years that was all she wanted to be.</p>\n<p>The post <a href=\"https://www.securityweek.com/ciso-conversations-noopur-davis-the-accidental-global-ciso-at-comcast/\">CISO Conversations: Noopur Davis – The Accidental Global CISO at Comcast</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Noopur Davis never planned a career in cybersecurity",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "APT"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "The Closed Quorum: Inside the first reported autonomous AI C2 implant",
     "link": "https://blog.talosintelligence.com/the-closed-quorum-inside-the-first-reported-autonomous-ai-c2-implant/",
@@ -890,8 +892,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20316",
-        "CVE-2026-20079"
+        "CVE-2026-20079",
+        "CVE-2026-20316"
       ],
       "threat_categories": [
         "Ransomware",
@@ -914,10 +916,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69852",
         "CVE-2026-81963",
-        "CVE-2026-69676",
-        "CVE-2026-85880"
+        "CVE-2026-69852",
+        "CVE-2026-85880",
+        "CVE-2026-69676"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1345,6 +1347,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Some cheap smart glasses are a security disaster",
+    "link": "https://www.malwarebytes.com/blog/news/2026/09/some-cheap-smart-glasses-are-a-security-disaster",
+    "published": "Tue, 22 Sep 2026 15:04:25 GMT",
+    "summary": "Tests found that some cheap smart glasses can be hijacked over Bluetooth, exposing their owners’ photos, videos, and personal data.",
+    "analysis": {
+      "issue": "Apart from the privacy concerns around smart glasses, researchers have found that some cheap brands come with barely any security at all",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Meta’s Muse AI assistant has a zero-day that can turn it into a Mac backdoor",
     "link": "https://www.malwarebytes.com/blog/bugs/2026/09/metas-muse-ai-assistant-has-a-zero-day-that-can-turn-it-into-a-mac-backdoor",
     "published": "Tue, 22 Sep 2026 10:53:06 GMT",
@@ -1505,24 +1525,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Fake parcel delivery messages steal your card and bank details",
-    "link": "https://www.malwarebytes.com/blog/scams/2026/09/fake-parcel-delivery-messages-steal-your-card-and-bank-details",
-    "published": "Fri, 18 Sep 2026 07:44:22 GMT",
-    "summary": "Parcel delivery phishing messages impersonate familiar couriers and use small fees or promised refunds to steal personal and financial information.",
-    "analysis": {
-      "issue": "Parcel delivery phishing campaigns appear around the world under different courier names",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
       ]
     }
   },
