@@ -1,10 +1,65 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-22 16:40:47 UTC
+**Last Updated:** 2026-09-22 19:49:54 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [AI Agents Are Rewriting the Rules of Lateral Movement](https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html)
+### 1. [Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks](https://thehackernews.com/2026/09/check-point-warns-of-management-server.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 22 Sep 2026 23:59:39 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers](https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 22 Sep 2026 23:33:10 +0530  
+**Severity:** Critical  
+**Categories:** General Security  
+
+---
+
+### 3. [Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials](https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 22 Sep 2026 23:28:15 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 4. [Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises](https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 22 Sep 2026 22:33:31 +0530  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 5. [Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials](https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 22 Sep 2026 22:11:12 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-90898  
+**Categories:** Vulnerability  
+
+---
+
+### 6. [Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates](https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 22 Sep 2026 21:44:04 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 7. [AI Agents Are Rewriting the Rules of Lateral Movement](https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 22 Sep 2026 18:00:00 +0530  
@@ -13,7 +68,7 @@
 
 ---
 
-### 2. [New CVSS 10.0 VeloCloud Orchestrator Flaw Actively Exploited in Certificate-Based Setups](https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html)
+### 8. [New CVSS 10.0 VeloCloud Orchestrator Flaw Actively Exploited in Certificate-Based Setups](https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 22 Sep 2026 17:59:00 +0530  
@@ -23,7 +78,7 @@
 
 ---
 
-### 3. [DORA Year Two: Can Your SOC Actually See the Attack?](https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html)
+### 9. [DORA Year Two: Can Your SOC Actually See the Attack?](https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 22 Sep 2026 17:15:00 +0530  
@@ -32,7 +87,7 @@
 
 ---
 
-### 4. [New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory](https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html)
+### 10. [New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory](https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 22 Sep 2026 17:08:40 +0530  
@@ -41,63 +96,34 @@
 
 ---
 
-### 5. [SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE](https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html)
+### 11. [ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach](https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 22 Sep 2026 16:47:41 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-65660  
+**Source:** Bleeping Computer  
+**Published:** Tue, 22 Sep 2026 15:13:29 -0400  
+**Severity:** Critical  
 **Categories:** Vulnerability  
 
 ---
 
-### 6. [Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before Removal](https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html)
+### 12. [New ClosedQuorum Windows malware uses AI for attack decisions](https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 22 Sep 2026 15:08:18 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 7. [SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing](https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 22 Sep 2026 13:22:03 +0530  
-**Severity:** Low  
-**Categories:** Phishing  
-
----
-
-### 8. [One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor](https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 22 Sep 2026 12:03:57 +0530  
-**Severity:** Low  
+**Source:** Bleeping Computer  
+**Published:** Tue, 22 Sep 2026 14:04:39 -0400  
+**Severity:** High  
 **Categories:** Malware  
 
 ---
 
-### 9. [WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session](https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html)
+### 13. [Reducing shadow IT visibility gaps with Wazuh](https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 22 Sep 2026 11:33:14 +0530  
+**Source:** Bleeping Computer  
+**Published:** Tue, 22 Sep 2026 13:17:41 -0400  
 **Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access](https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 22 Sep 2026 11:01:59 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-7273  
 **Categories:** Vulnerability  
 
 ---
 
-### 11. [Check Point warns of Management Server zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/)
+### 14. [Check Point warns of Management Server zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 22 Sep 2026 12:32:47 -0400  
@@ -107,7 +133,7 @@
 
 ---
 
-### 12. [EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts](https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/)
+### 15. [EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts](https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 22 Sep 2026 11:00:00 -0400  
@@ -116,7 +142,7 @@
 
 ---
 
-### 13. [Webinar tomorrow: Inside real-world Google Workspace breaches](https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/)
+### 16. [Webinar tomorrow: Inside real-world Google Workspace breaches](https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 22 Sep 2026 08:57:07 -0400  
@@ -125,7 +151,7 @@
 
 ---
 
-### 14. [D-Link warns of max severity zero-day bug in DIR-822A routers](https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/)
+### 17. [D-Link warns of max severity zero-day bug in DIR-822A routers](https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 22 Sep 2026 08:48:06 -0400  
@@ -135,7 +161,7 @@
 
 ---
 
-### 15. [New Windows Defender zero-day blocks Microsoft antivirus updates](https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/)
+### 18. [New Windows Defender zero-day blocks Microsoft antivirus updates](https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 22 Sep 2026 05:55:11 -0400  
@@ -144,7 +170,7 @@
 
 ---
 
-### 16. [CISA orders feds to patch Zyxel flaw exploited for data theft](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/)
+### 19. [CISA orders feds to patch Zyxel flaw exploited for data theft](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 22 Sep 2026 04:53:09 -0400  
@@ -154,40 +180,12 @@
 
 ---
 
-### 17. [BigCommerce alerts merchants of data breach linked to Ribon apps](https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/)
+### 20. [BigCommerce alerts merchants of data breach linked to Ribon apps](https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 21 Sep 2026 17:18:49 -0400  
 **Severity:** Low  
 **Categories:** Data Breach, Supply Chain  
-
----
-
-### 18. [CISA alerts of active exploitation of three Linux kernel flaws](https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 21 Sep 2026 16:12:17 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-53266, CVE-2025-39682, CVE-2025-39964  
-**Categories:** Vulnerability  
-
----
-
-### 19. [WordPress Click2Shell flaw lets hackers execute PHP on the server](https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 21 Sep 2026 14:23:11 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 20. [Microsoft to retire Microsoft 365 Companion apps in December](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-microsoft-365-companion-apps-in-december/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 21 Sep 2026 13:54:49 -0400  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -205,7 +203,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81963, CVE-2026-69829, CVE-2026-85880, CVE-2026-69730  
+**CVEs:** CVE-2026-69730, CVE-2026-81963, CVE-2026-69829, CVE-2026-85880  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -279,12 +277,21 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48561, CVE-2026-56164, CVE-2026-56155, CVE-2026-50661  
+**CVEs:** CVE-2026-50661, CVE-2026-48561, CVE-2026-56164, CVE-2026-56155  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 31. [Cyera Raises $400 Million at $12+ Billion Valuation](https://www.securityweek.com/cyera-raises-400-million-at-12-billion-valuation/)
+### 31. [BigCommerce Data Stolen via Ribon Apps Hack](https://www.securityweek.com/bigcommerce-data-stolen-via-ribon-apps-hack/)
+
+**Source:** Security Week  
+**Published:** Tue, 22 Sep 2026 17:58:00 +0000  
+**Severity:** High  
+**Categories:** Ransomware, Data Breach, Supply Chain  
+
+---
+
+### 32. [Cyera Raises $400 Million at $12+ Billion Valuation](https://www.securityweek.com/cyera-raises-400-million-at-12-billion-valuation/)
 
 **Source:** Security Week  
 **Published:** Tue, 22 Sep 2026 14:29:34 +0000  
@@ -293,7 +300,7 @@
 
 ---
 
-### 32. [Nightmare Eclipse Drops New Microsoft Defender Exploit After Revealing Identity](https://www.securityweek.com/nightmare-eclipse-drops-new-microsoft-defender-exploit-after-revealing-identity/)
+### 33. [Nightmare Eclipse Drops New Microsoft Defender Exploit After Revealing Identity](https://www.securityweek.com/nightmare-eclipse-drops-new-microsoft-defender-exploit-after-revealing-identity/)
 
 **Source:** Security Week  
 **Published:** Tue, 22 Sep 2026 13:26:51 +0000  
@@ -302,7 +309,7 @@
 
 ---
 
-### 33. [Only 13% of OT Network Segments Are Fully Isolated: Analysis](https://www.securityweek.com/only-13-of-ot-network-segments-are-fully-isolated-analysis/)
+### 34. [Only 13% of OT Network Segments Are Fully Isolated: Analysis](https://www.securityweek.com/only-13-of-ot-network-segments-are-fully-isolated-analysis/)
 
 **Source:** Security Week  
 **Published:** Tue, 22 Sep 2026 12:24:30 +0000  
@@ -311,7 +318,7 @@
 
 ---
 
-### 34. [Recent ZyXEL Switch Vulnerability Exploited by Chinese Hackers](https://www.securityweek.com/recent-zyxel-switch-vulnerability-exploited-by-chinese-hackers/)
+### 35. [Recent ZyXEL Switch Vulnerability Exploited by Chinese Hackers](https://www.securityweek.com/recent-zyxel-switch-vulnerability-exploited-by-chinese-hackers/)
 
 **Source:** Security Week  
 **Published:** Tue, 22 Sep 2026 11:55:20 +0000  
@@ -321,7 +328,7 @@
 
 ---
 
-### 35. [Malicious B-tree NPM Package Accumulates Millions of Downloads](https://www.securityweek.com/malicious-b-tree-npm-package-accumulates-millions-of-downloads/)
+### 36. [Malicious B-tree NPM Package Accumulates Millions of Downloads](https://www.securityweek.com/malicious-b-tree-npm-package-accumulates-millions-of-downloads/)
 
 **Source:** Security Week  
 **Published:** Tue, 22 Sep 2026 11:33:59 +0000  
@@ -330,7 +337,7 @@
 
 ---
 
-### 36. [WordPress Patches ‘Click2Shell’ Vulnerability](https://www.securityweek.com/wordpress-patches-click2shell-vulnerability/)
+### 37. [WordPress Patches ‘Click2Shell’ Vulnerability](https://www.securityweek.com/wordpress-patches-click2shell-vulnerability/)
 
 **Source:** Security Week  
 **Published:** Tue, 22 Sep 2026 10:22:27 +0000  
@@ -339,7 +346,7 @@
 
 ---
 
-### 37. [Japan Dismantles First North Korean Laptop Farm as US and Allies Detail Wider Scheme](https://www.securityweek.com/japan-dismantles-first-north-korean-laptop-farm-as-us-and-allies-detail-wider-scheme/)
+### 38. [Japan Dismantles First North Korean Laptop Farm as US and Allies Detail Wider Scheme](https://www.securityweek.com/japan-dismantles-first-north-korean-laptop-farm-as-us-and-allies-detail-wider-scheme/)
 
 **Source:** Security Week  
 **Published:** Tue, 22 Sep 2026 08:37:06 +0000  
@@ -348,7 +355,7 @@
 
 ---
 
-### 38. [US Proposes AI Incident Alert System in Talks With China, Bessent Says](https://www.securityweek.com/us-proposes-ai-incident-alert-system-in-talks-with-china-bessent-says/)
+### 39. [US Proposes AI Incident Alert System in Talks With China, Bessent Says](https://www.securityweek.com/us-proposes-ai-incident-alert-system-in-talks-with-china-bessent-says/)
 
 **Source:** Security Week  
 **Published:** Tue, 22 Sep 2026 02:01:24 +0000  
@@ -357,21 +364,12 @@
 
 ---
 
-### 39. [Google Hit With $463 Million Fine for EU Location Data Rule Breach](https://www.securityweek.com/google-hit-with-463-million-fine-for-eu-location-data-rule-breach/)
+### 40. [Google Hit With $463 Million Fine for EU Location Data Rule Breach](https://www.securityweek.com/google-hit-with-463-million-fine-for-eu-location-data-rule-breach/)
 
 **Source:** Security Week  
 **Published:** Mon, 21 Sep 2026 17:19:53 +0000  
 **Severity:** Low  
 **Categories:** Data Breach  
-
----
-
-### 40. [Fake LastPass Installers Push Kernel-Level EDR Killer, ‘Rapuncel’ Stealer](https://www.securityweek.com/fake-lastpass-installers-push-kernel-level-edr-killer-rapuncel-stealer/)
-
-**Source:** Security Week  
-**Published:** Mon, 21 Sep 2026 15:46:58 +0000  
-**Severity:** Critical  
-**Categories:** Ransomware, Malware, APT  
 
 ---
 
@@ -434,7 +432,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 09 Sep 2026 16:08:59 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20079, CVE-2026-20316  
+**CVEs:** CVE-2026-20316, CVE-2026-20079  
 **Categories:** Ransomware, Vulnerability, Malware, APT  
 
 ---
@@ -444,7 +442,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 08 Sep 2026 22:16:35 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81963, CVE-2026-69852, CVE-2026-85880, CVE-2026-69676  
+**CVEs:** CVE-2026-69676, CVE-2026-81963, CVE-2026-85880, CVE-2026-69852  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -467,7 +465,16 @@
 
 ---
 
-### 51. [Our View on What It Takes To Be Named an Industry-Recognized Threat Intelligence Leader](https://www.recordedfuture.com/blog/forrester-wave-external-threat-intelligence-2026)
+### 51. [Agent Running in the Age of AI](https://www.recordedfuture.com/blog/agent-running-ai)
+
+**Source:** Recorded Future  
+**Published:** Tue, 22 Sep 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 52. [Our View on What It Takes To Be Named an Industry-Recognized Threat Intelligence Leader](https://www.recordedfuture.com/blog/forrester-wave-external-threat-intelligence-2026)
 
 **Source:** Recorded Future  
 **Published:** Thu, 17 Sep 2026 00:00:00 GMT  
@@ -476,7 +483,7 @@
 
 ---
 
-### 52. [The New Rules of Machine Speed Defense](https://www.recordedfuture.com/blog/new-rules-machine-speed-defense)
+### 53. [The New Rules of Machine Speed Defense](https://www.recordedfuture.com/blog/new-rules-machine-speed-defense)
 
 **Source:** Recorded Future  
 **Published:** Thu, 17 Sep 2026 00:00:00 GMT  
@@ -485,7 +492,7 @@
 
 ---
 
-### 53. [Tajin Group: Guarantee Marketplace Vendor Involved in Phishing and Chinese Money Laundering Group](https://www.recordedfuture.com/research/tajin-group-gurantee-marketplace)
+### 54. [Tajin Group: Guarantee Marketplace Vendor Involved in Phishing and Chinese Money Laundering Group](https://www.recordedfuture.com/research/tajin-group-gurantee-marketplace)
 
 **Source:** Recorded Future  
 **Published:** Tue, 15 Sep 2026 00:00:00 GMT  
@@ -494,7 +501,7 @@
 
 ---
 
-### 54. [What is Proactive Threat Intelligence? | Recorded Future](https://www.recordedfuture.com/blog/proactive-threat-intelligence)
+### 55. [What is Proactive Threat Intelligence? | Recorded Future](https://www.recordedfuture.com/blog/proactive-threat-intelligence)
 
 **Source:** Recorded Future  
 **Published:** Mon, 14 Sep 2026 00:00:00 GMT  
@@ -503,7 +510,7 @@
 
 ---
 
-### 55. [The Intelligible World of Agents](https://www.recordedfuture.com/blog/intelligible-world-agents)
+### 56. [The Intelligible World of Agents](https://www.recordedfuture.com/blog/intelligible-world-agents)
 
 **Source:** Recorded Future  
 **Published:** Thu, 10 Sep 2026 00:00:00 GMT  
@@ -512,7 +519,7 @@
 
 ---
 
-### 56. [Recorded Future Launches Digital Risk Protection, Unifying Brand and Identity Monitoring](https://www.recordedfuture.com/blog/unified-brand-identity-monitoring)
+### 57. [Recorded Future Launches Digital Risk Protection, Unifying Brand and Identity Monitoring](https://www.recordedfuture.com/blog/unified-brand-identity-monitoring)
 
 **Source:** Recorded Future  
 **Published:** Wed, 09 Sep 2026 00:00:00 GMT  
@@ -521,7 +528,7 @@
 
 ---
 
-### 57. [August 2026 CVE Landscape](https://www.recordedfuture.com/blog/august-2026-cve-landscape)
+### 58. [August 2026 CVE Landscape](https://www.recordedfuture.com/blog/august-2026-cve-landscape)
 
 **Source:** Recorded Future  
 **Published:** Tue, 08 Sep 2026 00:00:00 GMT  
@@ -530,7 +537,7 @@
 
 ---
 
-### 58. [Recorded Future Announces Automated Signature Creation, Accelerating Vulnerability Prioritization](https://www.recordedfuture.com/blog/automated-signature-creation)
+### 59. [Recorded Future Announces Automated Signature Creation, Accelerating Vulnerability Prioritization](https://www.recordedfuture.com/blog/automated-signature-creation)
 
 **Source:** Recorded Future  
 **Published:** Fri, 04 Sep 2026 00:00:00 GMT  
@@ -539,21 +546,12 @@
 
 ---
 
-### 59. [H1 2026 Malware Vulnerability Trends](https://www.recordedfuture.com/research/h1-2026-malware-vulnerability-trends)
+### 60. [H1 2026 Malware Vulnerability Trends](https://www.recordedfuture.com/research/h1-2026-malware-vulnerability-trends)
 
 **Source:** Recorded Future  
 **Published:** Thu, 03 Sep 2026 00:00:00 GMT  
 **Severity:** Low  
 **Categories:** Ransomware, Vulnerability, Malware, Supply Chain  
-
----
-
-### 60. [The Agentic SOC – From AI Theater to Real Defense](https://www.recordedfuture.com/blog/agentic-soc-real-defense)
-
-**Source:** Recorded Future  
-**Published:** Tue, 01 Sep 2026 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -637,7 +635,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
