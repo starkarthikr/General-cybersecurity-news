@@ -213,8 +213,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2025-39964",
-        "CVE-2025-39682",
-        "CVE-2026-53266"
+        "CVE-2026-53266",
+        "CVE-2025-39682"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -397,10 +397,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-81963",
-        "CVE-2026-69829",
         "CVE-2026-85880",
-        "CVE-2026-69730"
+        "CVE-2026-81963",
+        "CVE-2026-69730",
+        "CVE-2026-69829"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -557,9 +557,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-56164",
-        "CVE-2026-50661",
+        "CVE-2026-56155",
         "CVE-2026-48561",
-        "CVE-2026-56155"
+        "CVE-2026-50661"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -752,8 +752,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2025-39964",
-        "CVE-2025-39682",
-        "CVE-2026-53266"
+        "CVE-2026-53266",
+        "CVE-2025-39682"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -870,9 +870,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-85880",
         "CVE-2026-81963",
         "CVE-2026-69852",
-        "CVE-2026-85880",
         "CVE-2026-69676"
       ],
       "threat_categories": [
