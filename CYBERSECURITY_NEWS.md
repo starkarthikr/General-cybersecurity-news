@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-21 20:30:15 UTC
+**Last Updated:** 2026-09-22 04:16:39 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -94,17 +94,26 @@
 
 ---
 
-### 11. [CISA alerts of active exploitation of three Linux kernel flaws](https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/)
+### 11. [BigCommerce alerts merchants of data breach linked to Ribon apps](https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 21 Sep 2026 17:18:49 -0400  
+**Severity:** Low  
+**Categories:** Data Breach, Supply Chain  
+
+---
+
+### 12. [CISA alerts of active exploitation of three Linux kernel flaws](https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 21 Sep 2026 16:12:17 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-53266, CVE-2025-39964, CVE-2025-39682  
+**CVEs:** CVE-2025-39964, CVE-2025-39682, CVE-2026-53266  
 **Categories:** Vulnerability  
 
 ---
 
-### 12. [WordPress Click2Shell flaw lets hackers execute PHP on the server](https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/)
+### 13. [WordPress Click2Shell flaw lets hackers execute PHP on the server](https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 21 Sep 2026 14:23:11 -0400  
@@ -113,7 +122,7 @@
 
 ---
 
-### 13. [Microsoft to retire Microsoft 365 Companion apps in December](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-microsoft-365-companion-apps-in-december/)
+### 14. [Microsoft to retire Microsoft 365 Companion apps in December](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-microsoft-365-companion-apps-in-december/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 21 Sep 2026 13:54:49 -0400  
@@ -122,7 +131,7 @@
 
 ---
 
-### 14. [Google fined €403 million over location data privacy violations](https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/)
+### 15. [Google fined €403 million over location data privacy violations](https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 21 Sep 2026 11:41:22 -0400  
@@ -131,7 +140,7 @@
 
 ---
 
-### 15. [Microsoft fixes broken Excel copy and paste for all Office users](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/)
+### 16. [Microsoft fixes broken Excel copy and paste for all Office users](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 21 Sep 2026 10:42:37 -0400  
@@ -140,7 +149,7 @@
 
 ---
 
-### 16. [FBI's CJIS v6.1: What Security Teams Need to Know.](https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/)
+### 17. [FBI's CJIS v6.1: What Security Teams Need to Know.](https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 21 Sep 2026 10:02:12 -0400  
@@ -149,7 +158,7 @@
 
 ---
 
-### 17. [Microsoft reminds admins to migrate Entra ID users to passkeys](https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/)
+### 18. [Microsoft reminds admins to migrate Entra ID users to passkeys](https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 21 Sep 2026 09:16:20 -0400  
@@ -158,7 +167,7 @@
 
 ---
 
-### 18. [Microsoft: September updates break File History backup feature](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/)
+### 19. [Microsoft: September updates break File History backup feature](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 21 Sep 2026 07:45:54 -0400  
@@ -167,21 +176,12 @@
 
 ---
 
-### 19. [Malicious npm packages evade install-script defenses at runtime](https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/)
+### 20. [Malicious npm packages evade install-script defenses at runtime](https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 20 Sep 2026 10:11:21 -0400  
 **Severity:** Low  
 **Categories:** Malware, Supply Chain  
-
----
-
-### 20. [Researchers escape OpenAI Codex sandbox to run commands on host](https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/)
-
-**Source:** Bleeping Computer  
-**Published:** Sun, 20 Sep 2026 08:00:00 -0400  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -199,7 +199,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81963, CVE-2026-69829, CVE-2026-69730, CVE-2026-85880  
+**CVEs:** CVE-2026-81963, CVE-2026-69829, CVE-2026-85880, CVE-2026-69730  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -273,12 +273,21 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48561, CVE-2026-56155, CVE-2026-56164, CVE-2026-50661  
+**CVEs:** CVE-2026-56164, CVE-2026-50661, CVE-2026-48561, CVE-2026-56155  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 31. [Google Hit With $463 Million Fine for EU Location Data Rule Breach](https://www.securityweek.com/google-hit-with-463-million-fine-for-eu-location-data-rule-breach/)
+### 31. [US Proposes AI Incident Alert System in Talks With China, Bessent Says](https://www.securityweek.com/us-proposes-ai-incident-alert-system-in-talks-with-china-bessent-says/)
+
+**Source:** Security Week  
+**Published:** Tue, 22 Sep 2026 02:01:24 +0000  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 32. [Google Hit With $463 Million Fine for EU Location Data Rule Breach](https://www.securityweek.com/google-hit-with-463-million-fine-for-eu-location-data-rule-breach/)
 
 **Source:** Security Week  
 **Published:** Mon, 21 Sep 2026 17:19:53 +0000  
@@ -287,7 +296,7 @@
 
 ---
 
-### 32. [Fake LastPass Installers Push Kernel-Level EDR Killer, ‘Rapuncel’ Stealer](https://www.securityweek.com/fake-lastpass-installers-push-kernel-level-edr-killer-rapuncel-stealer/)
+### 33. [Fake LastPass Installers Push Kernel-Level EDR Killer, ‘Rapuncel’ Stealer](https://www.securityweek.com/fake-lastpass-installers-push-kernel-level-edr-killer-rapuncel-stealer/)
 
 **Source:** Security Week  
 **Published:** Mon, 21 Sep 2026 15:46:58 +0000  
@@ -296,7 +305,7 @@
 
 ---
 
-### 33. [CISO Conversations: Noopur Davis – The Accidental Global CISO at Comcast](https://www.securityweek.com/ciso-conversations-noopur-davis-the-accidental-global-ciso-at-comcast/)
+### 34. [CISO Conversations: Noopur Davis – The Accidental Global CISO at Comcast](https://www.securityweek.com/ciso-conversations-noopur-davis-the-accidental-global-ciso-at-comcast/)
 
 **Source:** Security Week  
 **Published:** Mon, 21 Sep 2026 14:30:00 +0000  
@@ -305,7 +314,7 @@
 
 ---
 
-### 34. [Dragos Completes NetRise and runZero Acquisitions Following Accenture Deal](https://www.securityweek.com/dragos-completes-netrise-and-runzero-acquisitions-following-accenture-deal/)
+### 35. [Dragos Completes NetRise and runZero Acquisitions Following Accenture Deal](https://www.securityweek.com/dragos-completes-netrise-and-runzero-acquisitions-following-accenture-deal/)
 
 **Source:** Security Week  
 **Published:** Mon, 21 Sep 2026 14:00:13 +0000  
@@ -314,7 +323,7 @@
 
 ---
 
-### 35. [RatHat Android Trojan Uses AI for Automation](https://www.securityweek.com/rathat-android-trojan-uses-ai-for-automation/)
+### 36. [RatHat Android Trojan Uses AI for Automation](https://www.securityweek.com/rathat-android-trojan-uses-ai-for-automation/)
 
 **Source:** Security Week  
 **Published:** Mon, 21 Sep 2026 12:51:41 +0000  
@@ -323,7 +332,7 @@
 
 ---
 
-### 36. [Rust Team Members and Popular Crate Owners Targeted via Video Calls](https://www.securityweek.com/rust-team-members-and-popular-crate-owners-targeted-via-video-calls/)
+### 37. [Rust Team Members and Popular Crate Owners Targeted via Video Calls](https://www.securityweek.com/rust-team-members-and-popular-crate-owners-targeted-via-video-calls/)
 
 **Source:** Security Week  
 **Published:** Mon, 21 Sep 2026 11:57:35 +0000  
@@ -332,7 +341,7 @@
 
 ---
 
-### 37. [CrowdSec Confirms Source Code Stolen in Supply Chain Attack](https://www.securityweek.com/crowdsec-confirms-source-code-stolen-in-supply-chain-attack/)
+### 38. [CrowdSec Confirms Source Code Stolen in Supply Chain Attack](https://www.securityweek.com/crowdsec-confirms-source-code-stolen-in-supply-chain-attack/)
 
 **Source:** Security Week  
 **Published:** Mon, 21 Sep 2026 10:55:46 +0000  
@@ -341,7 +350,7 @@
 
 ---
 
-### 38. [Colorado Water Utilities Hit by Cyberattacks Targeting OT Systems](https://www.securityweek.com/colorado-water-utilities-hit-by-cyberattacks-targeting-ot-systems/)
+### 39. [Colorado Water Utilities Hit by Cyberattacks Targeting OT Systems](https://www.securityweek.com/colorado-water-utilities-hit-by-cyberattacks-targeting-ot-systems/)
 
 **Source:** Security Week  
 **Published:** Mon, 21 Sep 2026 10:03:44 +0000  
@@ -350,22 +359,13 @@
 
 ---
 
-### 39. [Organizations Warned of 3 Exploited Linux Kernel Vulnerabilities](https://www.securityweek.com/organizations-warned-of-3-exploited-linux-kernel-vulnerabilities/)
+### 40. [Organizations Warned of 3 Exploited Linux Kernel Vulnerabilities](https://www.securityweek.com/organizations-warned-of-3-exploited-linux-kernel-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Mon, 21 Sep 2026 09:31:12 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-53266, CVE-2025-39682, CVE-2025-39964  
+**CVEs:** CVE-2025-39964, CVE-2025-39682, CVE-2026-53266  
 **Categories:** Vulnerability  
-
----
-
-### 40. [Google Confirms Gemini AI Breached Three Firms](https://www.securityweek.com/google-confirms-gemini-ai-breached-three-firms/)
-
-**Source:** Security Week  
-**Published:** Mon, 21 Sep 2026 07:20:46 +0000  
-**Severity:** Critical  
-**Categories:** Data Breach, Vulnerability, APT  
 
 ---
 
@@ -410,7 +410,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 09 Sep 2026 16:08:59 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20316, CVE-2026-20079  
+**CVEs:** CVE-2026-20079, CVE-2026-20316  
 **Categories:** Ransomware, Vulnerability, Malware, APT  
 
 ---
@@ -420,7 +420,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 08 Sep 2026 22:16:35 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69852, CVE-2026-81963, CVE-2026-85880, CVE-2026-69676  
+**CVEs:** CVE-2026-81963, CVE-2026-69852, CVE-2026-85880, CVE-2026-69676  
 **Categories:** Vulnerability, APT  
 
 ---

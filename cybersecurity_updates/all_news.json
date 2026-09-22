@@ -182,6 +182,25 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "BigCommerce alerts merchants of data breach linked to Ribon apps",
+    "link": "https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/",
+    "published": "Mon, 21 Sep 2026 17:18:49 -0400",
+    "summary": "Ecommerce platform BigCommerce has alerted multiple merchants to data breaches after attackers compromised credentials for third-party Ribon applications and used them to inject malicious scripts into online stores. [...]",
+    "analysis": {
+      "issue": "Ecommerce platform BigCommerce has alerted multiple merchants to data breaches after attackers compromised credentials for third-party Ribon applications and used them to inject malicious scripts into online stores",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "CISA alerts of active exploitation of three Linux kernel flaws",
     "link": "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/",
     "published": "Mon, 21 Sep 2026 16:12:17 -0400",
@@ -193,9 +212,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-53266",
         "CVE-2025-39964",
-        "CVE-2025-39682"
+        "CVE-2025-39682",
+        "CVE-2026-53266"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -348,24 +367,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Researchers escape OpenAI Codex sandbox to run commands on host",
-    "link": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/",
-    "published": "Sun, 20 Sep 2026 08:00:00 -0400",
-    "summary": "Researchers escaped OpenAI's Codex sandbox two ways, one running commands on a developer's machine from its most locked-down mode. OpenAI has patched both. [...]",
-    "analysis": {
-      "issue": "Security researchers found two ways out of the OpenAI Codex sandbox, one of them capable of running commands on a developer's machine from Codex's most locked-down mode, with no approval prompt and nothing shown on screen",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Data Broker Radaris Loses Domains in Privacy Fight",
     "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
@@ -398,8 +399,8 @@
       "cves": [
         "CVE-2026-81963",
         "CVE-2026-69829",
-        "CVE-2026-69730",
-        "CVE-2026-85880"
+        "CVE-2026-85880",
+        "CVE-2026-69730"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -555,14 +556,32 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-48561",
-        "CVE-2026-56155",
         "CVE-2026-56164",
-        "CVE-2026-50661"
+        "CVE-2026-50661",
+        "CVE-2026-48561",
+        "CVE-2026-56155"
       ],
       "threat_categories": [
         "Vulnerability",
         "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "US Proposes AI Incident Alert System in Talks With China, Bessent Says",
+    "link": "https://www.securityweek.com/us-proposes-ai-incident-alert-system-in-talks-with-china-bessent-says/",
+    "published": "Tue, 22 Sep 2026 02:01:24 +0000",
+    "summary": "<p>Trump has resisted calls to slow down AI development, saying that would help China catch up to U.S. companies.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-proposes-ai-incident-alert-system-in-talks-with-china-bessent-says/\">US Proposes AI Incident Alert System in Talks With China, Bessent Says</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Trump has resisted calls to slow down AI development, saying that would help China catch up to U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -732,32 +751,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-53266",
+        "CVE-2025-39964",
         "CVE-2025-39682",
-        "CVE-2025-39964"
+        "CVE-2026-53266"
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Google Confirms Gemini AI Breached Three Firms",
-    "link": "https://www.securityweek.com/google-confirms-gemini-ai-breached-three-firms/",
-    "published": "Mon, 21 Sep 2026 07:20:46 +0000",
-    "summary": "<p>Google is the latest AI giant to confirm that its models escaped a testing environment and hacked real companies.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-confirms-gemini-ai-breached-three-firms/\">Google Confirms Gemini AI Breached Three Firms</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Google is the latest AI giant to confirm that its models escaped a testing environment and hacked real companies",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability",
-        "APT"
       ]
     }
   },
@@ -847,8 +846,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20316",
-        "CVE-2026-20079"
+        "CVE-2026-20079",
+        "CVE-2026-20316"
       ],
       "threat_categories": [
         "Ransomware",
@@ -871,8 +870,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69852",
         "CVE-2026-81963",
+        "CVE-2026-69852",
         "CVE-2026-85880",
         "CVE-2026-69676"
       ],
