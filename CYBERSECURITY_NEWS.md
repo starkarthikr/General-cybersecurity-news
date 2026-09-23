@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-23 16:33:56 UTC
+**Last Updated:** 2026-09-23 19:45:50 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key](https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html)
+### 1. [A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You](https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 23 Sep 2026 22:23:10 +0530  
+**Severity:** Low  
+**Categories:** Data Breach  
+
+---
+
+### 2. [MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key](https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 23 Sep 2026 21:36:41 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move](https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html)
+### 3. [This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move](https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 23 Sep 2026 19:47:58 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI](https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html)
+### 4. [Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI](https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 23 Sep 2026 19:22:46 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control](https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html)
+### 5. [New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control](https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 23 Sep 2026 17:46:00 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent](https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html)
+### 6. [545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent](https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 23 Sep 2026 17:17:19 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests](https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html)
+### 7. [Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests](https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 23 Sep 2026 17:17:13 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape](https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html)
+### 8. [Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape](https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 23 Sep 2026 16:42:18 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers](https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html)
+### 9. [F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers](https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 23 Sep 2026 13:59:48 +0530  
@@ -77,7 +86,7 @@
 
 ---
 
-### 9. [Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware](https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html)
+### 10. [Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware](https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 23 Sep 2026 13:59:24 +0530  
@@ -86,16 +95,17 @@
 
 ---
 
-### 10. [Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input](https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html)
+### 11. [Hackers start exploiting critical WordPress flaw for code execution](https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 23 Sep 2026 12:34:40 +0530  
-**Severity:** Low  
-**Categories:** General Security  
+**Source:** Bleeping Computer  
+**Published:** Wed, 23 Sep 2026 14:31:22 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-87902  
+**Categories:** Vulnerability  
 
 ---
 
-### 11. [Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers](https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/)
+### 12. [Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers](https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 23 Sep 2026 12:20:54 -0400  
@@ -104,7 +114,7 @@
 
 ---
 
-### 12. [InfraTrust report warns network management systems under attack](https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/)
+### 13. [InfraTrust report warns network management systems under attack](https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 23 Sep 2026 10:35:26 -0400  
@@ -113,7 +123,7 @@
 
 ---
 
-### 13. [How One Kubernetes YAML Can Hand Over a GCP Organization](https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/)
+### 14. [How One Kubernetes YAML Can Hand Over a GCP Organization](https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 23 Sep 2026 10:01:11 -0400  
@@ -122,7 +132,7 @@
 
 ---
 
-### 14. [Arista patches actively exploited VeloCloud Orchestrator zero-day](https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/)
+### 15. [Arista patches actively exploited VeloCloud Orchestrator zero-day](https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 23 Sep 2026 08:29:53 -0400  
@@ -132,7 +142,7 @@
 
 ---
 
-### 15. [Microsoft: September Windows updates break Always On VPN connections](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/)
+### 16. [Microsoft: September Windows updates break Always On VPN connections](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 23 Sep 2026 07:18:13 -0400  
@@ -141,7 +151,7 @@
 
 ---
 
-### 16. [Ryuk ransomware member sentenced to 24 months in prison](https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/)
+### 17. [Ryuk ransomware member sentenced to 24 months in prison](https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 23 Sep 2026 04:20:05 -0400  
@@ -150,7 +160,7 @@
 
 ---
 
-### 17. [F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks](https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/)
+### 18. [F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks](https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 23 Sep 2026 03:17:23 -0400  
@@ -160,7 +170,7 @@
 
 ---
 
-### 18. [Rogue external MFA providers can steal passwords during logins](https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/)
+### 19. [Rogue external MFA providers can steal passwords during logins](https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 22 Sep 2026 17:45:45 -0400  
@@ -169,22 +179,12 @@
 
 ---
 
-### 19. [Sweden fines Miljödata $183,000 over breach affecting 2.2 million](https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/)
+### 20. [Sweden fines Miljödata $183,000 over breach affecting 2.2 million](https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 22 Sep 2026 17:40:37 -0400  
 **Severity:** Low  
 **Categories:** Ransomware  
-
----
-
-### 20. [Chinese hackers exploit WordPress, Zyxel flaws to steal govt data](https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 22 Sep 2026 16:35:24 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-60137, CVE-2026-63030  
-**Categories:** Vulnerability  
 
 ---
 
@@ -202,7 +202,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69829, CVE-2026-81963, CVE-2026-69730, CVE-2026-85880  
+**CVEs:** CVE-2026-69829, CVE-2026-81963, CVE-2026-85880, CVE-2026-69730  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -239,7 +239,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62832, CVE-2026-72971, CVE-2026-68820  
+**CVEs:** CVE-2026-72971, CVE-2026-68820, CVE-2026-62832  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -276,12 +276,30 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56155, CVE-2026-48561, CVE-2026-50661, CVE-2026-56164  
+**CVEs:** CVE-2026-56164, CVE-2026-50661, CVE-2026-56155, CVE-2026-48561  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 31. [Honeywell: OT Security Teams Embrace AI, but Autonomy Still Rare](https://www.securityweek.com/honeywell-ot-security-teams-embrace-ai-but-autonomy-still-rare/)
+### 31. [IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU DecoderIonQ Says Sin](https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/)
+
+**Source:** Security Week  
+**Published:** Wed, 23 Sep 2026 19:32:49 +0000  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 32. [Worries About an AI Internet Takeover Gain New Urgency Among Doomsday Scenarios](https://www.securityweek.com/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios/)
+
+**Source:** Security Week  
+**Published:** Wed, 23 Sep 2026 18:05:58 +0000  
+**Severity:** Critical  
+**Categories:** Ransomware, Vulnerability, Malware  
+
+---
+
+### 33. [Honeywell: OT Security Teams Embrace AI, but Autonomy Still Rare](https://www.securityweek.com/honeywell-ot-security-teams-embrace-ai-but-autonomy-still-rare/)
 
 **Source:** Security Week  
 **Published:** Wed, 23 Sep 2026 12:17:28 +0000  
@@ -290,17 +308,17 @@
 
 ---
 
-### 32. [Adobe Patches Critical Flaws in Connect, AEM Forms](https://www.securityweek.com/adobe-patches-critical-flaws-in-connect-aem-forms/)
+### 34. [Adobe Patches Critical Flaws in Connect, AEM Forms](https://www.securityweek.com/adobe-patches-critical-flaws-in-connect-aem-forms/)
 
 **Source:** Security Week  
 **Published:** Wed, 23 Sep 2026 11:40:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-75697, CVE-2026-75684, CVE-2026-75745, CVE-2026-82000, CVE-2026-75689, CVE-2026-75682, CVE-2026-81995, CVE-2026-75686, CVE-2026-75698  
+**CVEs:** CVE-2026-75684, CVE-2026-75745, CVE-2026-82000, CVE-2026-75697, CVE-2026-75682, CVE-2026-75698, CVE-2026-75686, CVE-2026-75689, CVE-2026-81995  
 **Categories:** Vulnerability  
 
 ---
 
-### 33. [AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft](https://www.securityweek.com/ai-powered-phishing-platform-eviltokens-disrupted-by-microsoft/)
+### 35. [AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft](https://www.securityweek.com/ai-powered-phishing-platform-eviltokens-disrupted-by-microsoft/)
 
 **Source:** Security Week  
 **Published:** Wed, 23 Sep 2026 11:23:30 +0000  
@@ -309,7 +327,7 @@
 
 ---
 
-### 34. [Chrome 154 Patches 108 Vulnerabilities](https://www.securityweek.com/chrome-154-patches-108-vulnerabilities/)
+### 36. [Chrome 154 Patches 108 Vulnerabilities](https://www.securityweek.com/chrome-154-patches-108-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Wed, 23 Sep 2026 10:36:07 +0000  
@@ -318,7 +336,7 @@
 
 ---
 
-### 35. [A Look at AI Doomsday Scenarios That Researchers Say Could Put Humanity at Risk](https://www.securityweek.com/a-look-at-ai-doomsday-scenarios-that-researchers-say-could-put-humanity-at-risk/)
+### 37. [A Look at AI Doomsday Scenarios That Researchers Say Could Put Humanity at Risk](https://www.securityweek.com/a-look-at-ai-doomsday-scenarios-that-researchers-say-could-put-humanity-at-risk/)
 
 **Source:** Security Week  
 **Published:** Wed, 23 Sep 2026 10:20:36 +0000  
@@ -327,7 +345,7 @@
 
 ---
 
-### 36. [Outerlimit Raises $16 Million to Stop Rogue AI Agents From Causing Harm](https://www.securityweek.com/outerlimit-raises-16-million-to-stop-rogue-ai-agents-from-causing-harm/)
+### 38. [Outerlimit Raises $16 Million to Stop Rogue AI Agents From Causing Harm](https://www.securityweek.com/outerlimit-raises-16-million-to-stop-rogue-ai-agents-from-causing-harm/)
 
 **Source:** Security Week  
 **Published:** Wed, 23 Sep 2026 10:00:00 +0000  
@@ -336,7 +354,7 @@
 
 ---
 
-### 37. [Arista Urges Immediate Patching of Exploited VCO Zero-Day](https://www.securityweek.com/arista-urges-immediate-patching-of-exploited-vco-zero-day/)
+### 39. [Arista Urges Immediate Patching of Exploited VCO Zero-Day](https://www.securityweek.com/arista-urges-immediate-patching-of-exploited-vco-zero-day/)
 
 **Source:** Security Week  
 **Published:** Wed, 23 Sep 2026 08:33:06 +0000  
@@ -346,32 +364,12 @@
 
 ---
 
-### 38. [Critical F5 BIG-IP Vulnerability Exploited as Zero-Day](https://www.securityweek.com/critical-f5-big-ip-vulnerability-exploited-as-zero-day/)
+### 40. [Critical F5 BIG-IP Vulnerability Exploited as Zero-Day](https://www.securityweek.com/critical-f5-big-ip-vulnerability-exploited-as-zero-day/)
 
 **Source:** Security Week  
 **Published:** Wed, 23 Sep 2026 07:34:18 +0000  
 **Severity:** Critical  
 **CVEs:** CVE-2026-94127  
-**Categories:** Vulnerability  
-
----
-
-### 39. [ShinyHunters Claims FBI Hack, Demands Retraction of Threat Report](https://www.securityweek.com/shinyhunters-claims-fbi-hack-demands-retraction-of-threat-report/)
-
-**Source:** Security Week  
-**Published:** Wed, 23 Sep 2026 07:13:49 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-35273  
-**Categories:** Ransomware, Data Breach, Vulnerability, Supply Chain  
-
----
-
-### 40. [Check Point Patches Exploited Management Server Zero-Day](https://www.securityweek.com/check-point-patches-exploited-management-server-zero-day/)
-
-**Source:** Security Week  
-**Published:** Wed, 23 Sep 2026 06:14:03 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-93616, CVE-2026-85102  
 **Categories:** Vulnerability  
 
 ---
@@ -435,7 +433,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 09 Sep 2026 16:08:59 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20316, CVE-2026-20079  
+**CVEs:** CVE-2026-20079, CVE-2026-20316  
 **Categories:** Ransomware, Vulnerability, Malware, APT  
 
 ---
@@ -445,7 +443,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 08 Sep 2026 22:16:35 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69852, CVE-2026-81963, CVE-2026-69676, CVE-2026-85880  
+**CVEs:** CVE-2026-69676, CVE-2026-69852, CVE-2026-81963, CVE-2026-85880  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -653,7 +651,16 @@
 
 ---
 
-### 71. [Fake Claude Max giveaway hides a Google account phishing trap](https://www.malwarebytes.com/blog/threat-intel/2026/09/fake-claude-max-giveaway-hides-a-google-account-phishing-trap)
+### 71. [How device code phishing gives scammers access to your account](https://www.malwarebytes.com/blog/how-to/2026/09/how-device-code-phishing-gives-scammers-access-to-your-account)
+
+**Source:** Malwarebytes  
+**Published:** Wed, 23 Sep 2026 18:59:38 GMT  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 72. [Fake Claude Max giveaway hides a Google account phishing trap](https://www.malwarebytes.com/blog/threat-intel/2026/09/fake-claude-max-giveaway-hides-a-google-account-phishing-trap)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 23 Sep 2026 12:45:00 GMT  
@@ -662,7 +669,7 @@
 
 ---
 
-### 72. [ShinyHunters claims FBI breach was revenge for “false” report](https://www.malwarebytes.com/blog/news/2026/09/shinyhunters-claims-fbi-breach-was-revenge-for-false-report)
+### 73. [ShinyHunters claims FBI breach was revenge for “false” report](https://www.malwarebytes.com/blog/news/2026/09/shinyhunters-claims-fbi-breach-was-revenge-for-false-report)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 23 Sep 2026 12:03:41 GMT  
@@ -671,7 +678,7 @@
 
 ---
 
-### 73. [Some cheap smart glasses are a security disaster](https://www.malwarebytes.com/blog/news/2026/09/some-cheap-smart-glasses-are-a-security-disaster)
+### 74. [Some cheap smart glasses are a security disaster](https://www.malwarebytes.com/blog/news/2026/09/some-cheap-smart-glasses-are-a-security-disaster)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 22 Sep 2026 15:04:25 GMT  
@@ -680,7 +687,7 @@
 
 ---
 
-### 74. [Meta’s Muse AI assistant has a zero-day that can turn it into a Mac backdoor](https://www.malwarebytes.com/blog/bugs/2026/09/metas-muse-ai-assistant-has-a-zero-day-that-can-turn-it-into-a-mac-backdoor)
+### 75. [Meta’s Muse AI assistant has a zero-day that can turn it into a Mac backdoor](https://www.malwarebytes.com/blog/bugs/2026/09/metas-muse-ai-assistant-has-a-zero-day-that-can-turn-it-into-a-mac-backdoor)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 22 Sep 2026 10:53:06 GMT  
@@ -689,7 +696,7 @@
 
 ---
 
-### 75. [Researchers used Claude to hack OpenAI](https://www.malwarebytes.com/blog/news/2026/09/researchers-used-claude-to-hack-openai)
+### 76. [Researchers used Claude to hack OpenAI](https://www.malwarebytes.com/blog/news/2026/09/researchers-used-claude-to-hack-openai)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 22 Sep 2026 09:51:02 GMT  
@@ -698,7 +705,7 @@
 
 ---
 
-### 76. [The AI plot to scan and destroy books (Lock and Code S07E19)](https://www.malwarebytes.com/blog/podcast/2026/09/the-ai-plot-to-scan-and-destroy-books-lock-and-code-s07e19)
+### 77. [The AI plot to scan and destroy books (Lock and Code S07E19)](https://www.malwarebytes.com/blog/podcast/2026/09/the-ai-plot-to-scan-and-destroy-books-lock-and-code-s07e19)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 21 Sep 2026 16:30:29 GMT  
@@ -707,7 +714,7 @@
 
 ---
 
-### 77. [The fake sites using a cheap toolkit to sell $2,000 AI subscriptions](https://www.malwarebytes.com/blog/threat-intel/2026/09/the-fake-sites-using-a-cheap-toolkit-to-sell-2000-ai-subscriptions)
+### 78. [The fake sites using a cheap toolkit to sell $2,000 AI subscriptions](https://www.malwarebytes.com/blog/threat-intel/2026/09/the-fake-sites-using-a-cheap-toolkit-to-sell-2000-ai-subscriptions)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 21 Sep 2026 15:38:26 GMT  
@@ -716,7 +723,7 @@
 
 ---
 
-### 78. [Gemini’s breach of real companies exposes an AI guardrail problem](https://www.malwarebytes.com/blog/ai/2026/09/geminis-breach-of-real-companies-exposes-an-ai-guardrail-problem)
+### 79. [Gemini’s breach of real companies exposes an AI guardrail problem](https://www.malwarebytes.com/blog/ai/2026/09/geminis-breach-of-real-companies-exposes-an-ai-guardrail-problem)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 21 Sep 2026 14:21:38 GMT  
@@ -725,21 +732,12 @@
 
 ---
 
-### 79. [ShinyHunters hacks rival extortion gang and takes over its dark web site](https://www.malwarebytes.com/blog/news/2026/09/shinyhunters-hacks-rival-extortion-gang-and-takes-over-its-dark-web-site)
+### 80. [ShinyHunters hacks rival extortion gang and takes over its dark web site](https://www.malwarebytes.com/blog/news/2026/09/shinyhunters-hacks-rival-extortion-gang-and-takes-over-its-dark-web-site)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 21 Sep 2026 10:17:09 GMT  
 **Severity:** High  
 **Categories:** Ransomware, Vulnerability  
-
----
-
-### 80. [A week in security (September 14 – September 20)](https://www.malwarebytes.com/blog/news/2026/09/a-week-in-security-september-14-september-20)
-
-**Source:** Malwarebytes  
-**Published:** Mon, 21 Sep 2026 07:02:00 GMT  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
