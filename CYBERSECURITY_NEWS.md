@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-23 04:14:11 UTC
+**Last Updated:** 2026-09-23 05:00:30 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -119,7 +119,7 @@
 **Source:** Bleeping Computer  
 **Published:** Tue, 22 Sep 2026 16:35:24 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-63030, CVE-2026-60137  
+**CVEs:** CVE-2026-60137, CVE-2026-63030  
 **Categories:** Vulnerability  
 
 ---
@@ -184,7 +184,7 @@
 **Source:** Bleeping Computer  
 **Published:** Tue, 22 Sep 2026 08:48:06 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-86296, CVE-2026-86510  
+**CVEs:** CVE-2026-86510, CVE-2026-86296  
 **Categories:** Vulnerability  
 
 ---
@@ -203,7 +203,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69829, CVE-2026-69730, CVE-2026-85880, CVE-2026-81963  
+**CVEs:** CVE-2026-81963, CVE-2026-85880, CVE-2026-69730, CVE-2026-69829  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -277,7 +277,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50661, CVE-2026-56164, CVE-2026-48561, CVE-2026-56155  
+**CVEs:** CVE-2026-50661, CVE-2026-56155, CVE-2026-56164, CVE-2026-48561  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -432,7 +432,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 09 Sep 2026 16:08:59 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20316, CVE-2026-20079  
+**CVEs:** CVE-2026-20079, CVE-2026-20316  
 **Categories:** Ransomware, Vulnerability, Malware, APT  
 
 ---
@@ -442,7 +442,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 08 Sep 2026 22:16:35 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69852, CVE-2026-69676, CVE-2026-85880, CVE-2026-81963  
+**CVEs:** CVE-2026-81963, CVE-2026-85880, CVE-2026-69852, CVE-2026-69676  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -635,7 +635,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
