@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-24 16:53:29 UTC
+**Last Updated:** 2026-09-24 20:04:38 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content](https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html)
+### 1. [Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions](https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 24 Sep 2026 23:40:18 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories](https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 24 Sep 2026 23:22:43 +0530  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 3. [Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content](https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 24 Sep 2026 20:57:32 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer](https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html)
+### 4. [Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer](https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 24 Sep 2026 19:59:06 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [Corp MDM Spyware Targets Logistics Firms, Steals New SMS and Redirects Calls](https://thehackernews.com/2026/09/corp-mdm-spyware-targets-logistics.html)
+### 5. [Corp MDM Spyware Targets Logistics Firms, Steals New SMS and Redirects Calls](https://thehackernews.com/2026/09/corp-mdm-spyware-targets-logistics.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 24 Sep 2026 17:35:27 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore](https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html)
+### 6. [Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore](https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 24 Sep 2026 16:30:00 +0530  
@@ -40,7 +58,7 @@
 
 ---
 
-### 5. [17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360](https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html)
+### 7. [17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360](https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 24 Sep 2026 14:44:21 +0530  
@@ -49,7 +67,7 @@
 
 ---
 
-### 6. [OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files](https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html)
+### 8. [OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files](https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 24 Sep 2026 12:37:25 +0530  
@@ -58,7 +76,7 @@
 
 ---
 
-### 7. [TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords](https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html)
+### 9. [TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords](https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 24 Sep 2026 12:02:03 +0530  
@@ -67,7 +85,7 @@
 
 ---
 
-### 8. [Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure](https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html)
+### 10. [Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure](https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 24 Sep 2026 11:06:18 +0530  
@@ -77,25 +95,16 @@
 
 ---
 
-### 9. [Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry](https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html)
+### 11. [Exposed GitLab project email addresses let attackers push code](https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 23 Sep 2026 23:36:30 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 24 Sep 2026 13:47:44 -0400  
 **Severity:** Low  
-**Categories:** Malware  
+**Categories:** General Security  
 
 ---
 
-### 10. [A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You](https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 23 Sep 2026 22:23:10 +0530  
-**Severity:** Low  
-**Categories:** Data Breach  
-
----
-
-### 11. [FedRAMP VDR & VER: Daily Scans Are Only the Beginning](https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/)
+### 12. [FedRAMP VDR & VER: Daily Scans Are Only the Beginning](https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 24 Sep 2026 10:02:12 -0400  
@@ -104,7 +113,7 @@
 
 ---
 
-### 12. [Hackers now exploit critical Roundcube flaw in code injection attacks](https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/)
+### 13. [Hackers now exploit critical Roundcube flaw in code injection attacks](https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 24 Sep 2026 09:27:57 -0400  
@@ -114,7 +123,7 @@
 
 ---
 
-### 13. [Windows 11 KB5124010 update released with 46 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124010-update-released-with-46-changes-and-fixes/)
+### 14. [Windows 11 KB5124010 update released with 46 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124010-update-released-with-46-changes-and-fixes/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 24 Sep 2026 08:16:32 -0400  
@@ -123,7 +132,7 @@
 
 ---
 
-### 14. [CISA: Ransomware gangs now exploiting critical TeamCity flaw](https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/)
+### 15. [CISA: Ransomware gangs now exploiting critical TeamCity flaw](https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 24 Sep 2026 06:42:37 -0400  
@@ -133,7 +142,7 @@
 
 ---
 
-### 15. [OpenAI hacked Australian Medicare govt site, probed data providers](https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/)
+### 16. [OpenAI hacked Australian Medicare govt site, probed data providers](https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 24 Sep 2026 05:38:53 -0400  
@@ -142,7 +151,7 @@
 
 ---
 
-### 16. [Microsoft fixes bug that broke Windows File History backup feature](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/)
+### 17. [Microsoft fixes bug that broke Windows File History backup feature](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 24 Sep 2026 04:14:47 -0400  
@@ -151,7 +160,7 @@
 
 ---
 
-### 17. [Placeholder domain used in dev docs now serves ClickFix attacks](https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/)
+### 18. [Placeholder domain used in dev docs now serves ClickFix attacks](https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 23 Sep 2026 18:46:01 -0400  
@@ -160,7 +169,7 @@
 
 ---
 
-### 18. [New RemControl Android banking malware targets users in Europe and Canada](https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/)
+### 19. [New RemControl Android banking malware targets users in Europe and Canada](https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 23 Sep 2026 17:25:13 -0400  
@@ -169,22 +178,12 @@
 
 ---
 
-### 19. [Check Point warns of hackers exploiting Security Gateway VPN RCE flaw](https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/)
+### 20. [Check Point warns of hackers exploiting Security Gateway VPN RCE flaw](https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 23 Sep 2026 15:53:54 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-93616, CVE-2026-85102  
-**Categories:** Vulnerability  
-
----
-
-### 20. [Hackers start exploiting critical WordPress flaw for code execution](https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 23 Sep 2026 14:31:22 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-87902  
+**CVEs:** CVE-2026-85102, CVE-2026-93616  
 **Categories:** Vulnerability  
 
 ---
@@ -203,7 +202,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81963, CVE-2026-85880, CVE-2026-69730, CVE-2026-69829  
+**CVEs:** CVE-2026-69730, CVE-2026-85880, CVE-2026-81963, CVE-2026-69829  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -240,7 +239,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62832, CVE-2026-68820, CVE-2026-72971  
+**CVEs:** CVE-2026-72971, CVE-2026-62832, CVE-2026-68820  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -277,7 +276,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50661, CVE-2026-56164, CVE-2026-48561, CVE-2026-56155  
+**CVEs:** CVE-2026-50661, CVE-2026-56164, CVE-2026-56155, CVE-2026-48561  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -341,7 +340,7 @@
 **Source:** Security Week  
 **Published:** Thu, 24 Sep 2026 10:40:40 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-28326, CVE-2026-28325, CVE-2026-28324  
+**CVEs:** CVE-2026-28325, CVE-2026-28326, CVE-2026-28324  
 **Categories:** Vulnerability  
 
 ---
@@ -374,7 +373,16 @@
 
 ---
 
-### 41. [The Closed Quorum: Inside the first reported autonomous AI C2 implant](https://blog.talosintelligence.com/the-closed-quorum-inside-the-first-reported-autonomous-ai-c2-implant/)
+### 41. [Trust and the enticing consultancy offer](https://blog.talosintelligence.com/trust-and-the-enticing-consultancy-offer/)
+
+**Source:** Talos Blog  
+**Published:** Thu, 24 Sep 2026 18:00:37 GMT  
+**Severity:** High  
+**Categories:** Malware, Phishing  
+
+---
+
+### 42. [The Closed Quorum: Inside the first reported autonomous AI C2 implant](https://blog.talosintelligence.com/the-closed-quorum-inside-the-first-reported-autonomous-ai-c2-implant/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 22 Sep 2026 10:00:58 GMT  
@@ -383,7 +391,7 @@
 
 ---
 
-### 42. [Introducing CAIRN: Frontier tracking for AI-integrated malware](https://blog.talosintelligence.com/introducing-cairn-frontier-tracking-for-ai-integrated-malware/)
+### 43. [Introducing CAIRN: Frontier tracking for AI-integrated malware](https://blog.talosintelligence.com/introducing-cairn-frontier-tracking-for-ai-integrated-malware/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 22 Sep 2026 10:00:25 GMT  
@@ -392,7 +400,7 @@
 
 ---
 
-### 43. [Should you care about an “AI slowdown?”](https://blog.talosintelligence.com/should-you-care-about-an-ai-slowdown/)
+### 44. [Should you care about an “AI slowdown?”](https://blog.talosintelligence.com/should-you-care-about-an-ai-slowdown/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 17 Sep 2026 18:00:23 GMT  
@@ -401,7 +409,7 @@
 
 ---
 
-### 44. [Ransomware incidents in Japan in the first half of 2026: Investigation of The Gentlemen’s infrastructure and evidence of Qilin's AI use](https://blog.talosintelligence.com/ransomware-incidents-in-japan-in-the-first-half-of-2026/)
+### 45. [Ransomware incidents in Japan in the first half of 2026: Investigation of The Gentlemen’s infrastructure and evidence of Qilin's AI use](https://blog.talosintelligence.com/ransomware-incidents-in-japan-in-the-first-half-of-2026/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 17 Sep 2026 10:00:43 GMT  
@@ -410,7 +418,7 @@
 
 ---
 
-### 45. [Securing the unpatchable in an age of AI-driven vulnerabilities](https://blog.talosintelligence.com/securing-the-unpatchable-in-an-age-of-ai-driven-vulnerabilities/)
+### 46. [Securing the unpatchable in an age of AI-driven vulnerabilities](https://blog.talosintelligence.com/securing-the-unpatchable-in-an-age-of-ai-driven-vulnerabilities/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 16 Sep 2026 10:00:36 GMT  
@@ -419,7 +427,7 @@
 
 ---
 
-### 46. [We've got one word for it, and it's usually the wrong one](https://blog.talosintelligence.com/weve-got-one-word-for-it-and-its-usually-the-wrong-one/)
+### 47. [We've got one word for it, and it's usually the wrong one](https://blog.talosintelligence.com/weve-got-one-word-for-it-and-its-usually-the-wrong-one/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 10 Sep 2026 18:00:15 GMT  
@@ -428,41 +436,32 @@
 
 ---
 
-### 47. [Active exploitation of Cisco Secure Firewall Management Center vulnerabilities](https://blog.talosintelligence.com/fmc-ongoing-exploitation/)
+### 48. [Active exploitation of Cisco Secure Firewall Management Center vulnerabilities](https://blog.talosintelligence.com/fmc-ongoing-exploitation/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 09 Sep 2026 16:08:59 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20079, CVE-2026-20316  
+**CVEs:** CVE-2026-20316, CVE-2026-20079  
 **Categories:** Ransomware, Vulnerability, Malware, APT  
 
 ---
 
-### 48. [Microsoft Patch Tuesday for September 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-for-september-2026/)
+### 49. [Microsoft Patch Tuesday for September 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-for-september-2026/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 08 Sep 2026 22:16:35 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81963, CVE-2026-85880, CVE-2026-69676, CVE-2026-69852  
+**CVEs:** CVE-2026-69676, CVE-2026-85880, CVE-2026-81963, CVE-2026-69852  
 **Categories:** Vulnerability, APT  
 
 ---
 
-### 49. [ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager](https://blog.talosintelligence.com/clearfake-webdav-infection-chain/)
+### 50. [ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager](https://blog.talosintelligence.com/clearfake-webdav-infection-chain/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 08 Sep 2026 10:01:07 GMT  
 **Severity:** Medium  
 **Categories:** Malware  
-
----
-
-### 50. [ClickFix moves into the browser: Cryptocurrency theft with Google-hosted C2](https://blog.talosintelligence.com/clickfix-moves-into-the-browser/)
-
-**Source:** Talos Blog  
-**Published:** Tue, 08 Sep 2026 10:00:38 GMT  
-**Severity:** Low  
-**Categories:** Vulnerability, Malware  
 
 ---
 

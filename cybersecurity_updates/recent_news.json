@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
+    "link": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
+    "published": "Thu, 24 Sep 2026 23:40:18 +0530",
+    "summary": "A OnePlus 15 running the latest OxygenOS can be rooted by a malicious app the owner installs, one that asks for no special permissions. A researcher, Rasmus Moorats,&nbsp;chained two flaws in OnePlus's own software&nbsp;to gain root access, the highest level of control over an Android phone.\n\nOnePlus told him the same flaws affect many more of its own devices and those of OPPO, though it has not",
+    "analysis": {
+      "issue": "Two unpatched OnePlus flaws let an installed no-permission app gain root on stock OxygenOS phones; no real-world exploitation is known",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories",
+    "link": "https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html",
+    "published": "Thu, 24 Sep 2026 23:22:43 +0530",
+    "summary": "This week, the dangerous stuff keeps arriving dressed as something boring. An update. A login box. A search answer. A coding tool. A link you have clicked a hundred times before.\n\nThat is the thread running through the pile. Trusted paths get poisoned. Old bugs find new jobs. AI tools leak more than expected. Fake prompts look real enough. And some attacks barely need an exploit at all — just",
+    "analysis": {
+      "issue": "This week’s ThreatsDay Bulletin covers poisoned updates, AI privacy risks, phishing traps, supply-chain attacks, EDR evasion, and low-effort compromis",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content",
     "link": "https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html",
     "published": "Thu, 24 Sep 2026 20:57:32 +0530",
@@ -146,38 +182,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
-    "link": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
-    "published": "Wed, 23 Sep 2026 23:36:30 +0530",
-    "summary": "Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat actors are using the centralized repository hosted by HashiCorp as a distribution vector for malicious payloads.\n\nAccording to Aikido, the list of Terraform providers and Go modules is below -\n\n\n  gocommunity-io/dockerd (222 downloads)\n  kreuzwenker/",
+    "source": "Bleeping Computer",
+    "title": "Exposed GitLab project email addresses let attackers push code",
+    "link": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/",
+    "published": "Thu, 24 Sep 2026 13:47:44 -0400",
+    "summary": "Private GitLab email addresses that allow developers to push issues or tasks to a project are being deliberately exposed in READMEs, contributing guides, and support pages used to collect bug reports. [...]",
     "analysis": {
-      "issue": "Malicious Terraform providers and Go modules deliver Graphalgo-linked Go malware using blockchain and Slack for command and control",
+      "issue": "Private GitLab email addresses that allow developers to push issues or tasks to a project are being deliberately exposed in READMEs, contributing guides, and support pages used to collect bug reports",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
-    "link": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
-    "published": "Wed, 23 Sep 2026 22:23:10 +0530",
-    "summary": "The private email address GitLab gives you for filing issues by email is a credential. Anyone who gets it can email a patch that GitLab commits in your name, to any branch you can push to, including main, and can start CI/CD jobs that run as you.\n\nGitLab shows each user this address behind a button labeled \"Email work item to this project.\" Mail sent to it opens an issue in that project, authored",
-    "analysis": {
-      "issue": "GitLab’s non-expiring incoming email token can let a holder commit code with a user’s permissions and trigger CI/CD jobs",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
+        "General Security"
       ]
     }
   },
@@ -345,28 +363,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-93616",
-        "CVE-2026-85102"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers start exploiting critical WordPress flaw for code execution",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
-    "published": "Wed, 23 Sep 2026 14:31:22 -0400",
-    "summary": "Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell commands when accessed. [...]",
-    "analysis": {
-      "issue": "Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell commands when accessed",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-87902"
+        "CVE-2026-85102",
+        "CVE-2026-93616"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -404,9 +402,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-81963",
-        "CVE-2026-85880",
         "CVE-2026-69730",
+        "CVE-2026-85880",
+        "CVE-2026-81963",
         "CVE-2026-69829"
       ],
       "threat_categories": [
@@ -484,9 +482,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-72971",
         "CVE-2026-62832",
-        "CVE-2026-68820",
-        "CVE-2026-72971"
+        "CVE-2026-68820"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -565,8 +563,8 @@
       "cves": [
         "CVE-2026-50661",
         "CVE-2026-56164",
-        "CVE-2026-48561",
-        "CVE-2026-56155"
+        "CVE-2026-56155",
+        "CVE-2026-48561"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -697,8 +695,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-28326",
         "CVE-2026-28325",
+        "CVE-2026-28326",
         "CVE-2026-28324"
       ],
       "threat_categories": [
@@ -763,6 +761,25 @@
       "threat_categories": [
         "Vulnerability",
         "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Talos Blog",
+    "title": "Trust and the enticing consultancy offer",
+    "link": "https://blog.talosintelligence.com/trust-and-the-enticing-consultancy-offer/",
+    "published": "Thu, 24 Sep 2026 18:00:37 GMT",
+    "summary": "In this week’s newsletter Martin muses over a very suspicious elicitation over social media and the true value of trust within the cyber ecosystem. Hubris might be the real vulnerability that the cyber industry must worry about.",
+    "analysis": {
+      "issue": "Welcome to this week’s edition of the Threat Source newsletter",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
       ]
     }
   },
@@ -890,8 +907,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20079",
-        "CVE-2026-20316"
+        "CVE-2026-20316",
+        "CVE-2026-20079"
       ],
       "threat_categories": [
         "Ransomware",
@@ -914,9 +931,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-81963",
-        "CVE-2026-85880",
         "CVE-2026-69676",
+        "CVE-2026-85880",
+        "CVE-2026-81963",
         "CVE-2026-69852"
       ],
       "threat_categories": [
@@ -939,25 +956,6 @@
       "severity": "Medium",
       "cves": [],
       "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "ClickFix moves into the browser: Cryptocurrency theft with Google-hosted C2",
-    "link": "https://blog.talosintelligence.com/clickfix-moves-into-the-browser/",
-    "published": "Tue, 08 Sep 2026 10:00:38 GMT",
-    "summary": "Cisco Talos is tracking a cryptocurrency-stealing campaign that abuses the Google Visualization API for command and control (C2), retrieving obfuscated JavaScript from a publicly published Google Sheets document and injecting it into the victim's browser session.",
-    "analysis": {
-      "issue": "Cisco Talos has recently observed a criminal campaign that leveraged an interesting twist on what we refer to as “legitimate service abuse",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
         "Malware"
       ]
     }
