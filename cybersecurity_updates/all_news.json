@@ -401,9 +401,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69730",
         "CVE-2026-85880",
         "CVE-2026-81963",
+        "CVE-2026-69730",
         "CVE-2026-69829"
       ],
       "threat_categories": [
@@ -481,9 +481,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-72971",
         "CVE-2026-62832",
-        "CVE-2026-68820",
-        "CVE-2026-72971"
+        "CVE-2026-68820"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -560,10 +560,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-48561",
-        "CVE-2026-50661",
+        "CVE-2026-56164",
         "CVE-2026-56155",
-        "CVE-2026-56164"
+        "CVE-2026-50661",
+        "CVE-2026-48561"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -573,10 +573,10 @@
   },
   {
     "source": "Security Week",
-    "title": "IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU DecoderIonQ Says Sin",
+    "title": "IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU Decoder",
     "link": "https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/",
     "published": "Wed, 23 Sep 2026 19:32:49 +0000",
-    "summary": "<p>IonQ’s new single processor quantum error decoder minimizes the classical computing overhead in quantum error correction.</p>\n<p>The post <a href=\"https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/\">IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU DecoderIonQ Says Sin</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "summary": "<p>IonQ’s new single processor quantum error decoder minimizes the classical computing overhead in quantum error correction.</p>\n<p>The post <a href=\"https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/\">IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU Decoder</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
       "issue": "IonQ’s new single processor quantum error decoder minimizes the classical computing overhead in quantum error correction",
       "solution": null,
@@ -641,14 +641,14 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-75697",
-        "CVE-2026-75698",
-        "CVE-2026-75745",
-        "CVE-2026-75689",
-        "CVE-2026-75684",
-        "CVE-2026-75682",
-        "CVE-2026-82000",
         "CVE-2026-75686",
-        "CVE-2026-81995"
+        "CVE-2026-75684",
+        "CVE-2026-75745",
+        "CVE-2026-81995",
+        "CVE-2026-75689",
+        "CVE-2026-75682",
+        "CVE-2026-75698",
+        "CVE-2026-82000"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -894,8 +894,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20316",
-        "CVE-2026-20079"
+        "CVE-2026-20079",
+        "CVE-2026-20316"
       ],
       "threat_categories": [
         "Ransomware",
@@ -918,8 +918,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69676",
         "CVE-2026-85880",
+        "CVE-2026-69676",
         "CVE-2026-69852",
         "CVE-2026-81963"
       ],

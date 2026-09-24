@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-24 04:09:33 UTC
+**Last Updated:** 2026-09-24 05:11:40 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -202,7 +202,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69730, CVE-2026-85880, CVE-2026-81963, CVE-2026-69829  
+**CVEs:** CVE-2026-85880, CVE-2026-81963, CVE-2026-69730, CVE-2026-69829  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -239,7 +239,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62832, CVE-2026-68820, CVE-2026-72971  
+**CVEs:** CVE-2026-72971, CVE-2026-62832, CVE-2026-68820  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -276,12 +276,12 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48561, CVE-2026-50661, CVE-2026-56155, CVE-2026-56164  
+**CVEs:** CVE-2026-56164, CVE-2026-56155, CVE-2026-50661, CVE-2026-48561  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 31. [IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU DecoderIonQ Says Sin](https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/)
+### 31. [IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU Decoder](https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/)
 
 **Source:** Security Week  
 **Published:** Wed, 23 Sep 2026 19:32:49 +0000  
@@ -313,7 +313,7 @@
 **Source:** Security Week  
 **Published:** Wed, 23 Sep 2026 11:40:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-75697, CVE-2026-75698, CVE-2026-75745, CVE-2026-75689, CVE-2026-75684, CVE-2026-75682, CVE-2026-82000, CVE-2026-75686, CVE-2026-81995  
+**CVEs:** CVE-2026-75697, CVE-2026-75686, CVE-2026-75684, CVE-2026-75745, CVE-2026-81995, CVE-2026-75689, CVE-2026-75682, CVE-2026-75698, CVE-2026-82000  
 **Categories:** Vulnerability  
 
 ---
@@ -433,7 +433,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 09 Sep 2026 16:08:59 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20316, CVE-2026-20079  
+**CVEs:** CVE-2026-20079, CVE-2026-20316  
 **Categories:** Ransomware, Vulnerability, Malware, APT  
 
 ---
@@ -443,7 +443,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 08 Sep 2026 22:16:35 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69676, CVE-2026-85880, CVE-2026-69852, CVE-2026-81963  
+**CVEs:** CVE-2026-85880, CVE-2026-69676, CVE-2026-69852, CVE-2026-81963  
 **Categories:** Vulnerability, APT  
 
 ---
