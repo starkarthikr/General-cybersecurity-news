@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-23 19:45:50 UTC
+**Last Updated:** 2026-09-24 04:09:33 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You](https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html)
+### 1. [Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry](https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 23 Sep 2026 23:36:30 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 2. [A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You](https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 23 Sep 2026 22:23:10 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key](https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html)
+### 3. [MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key](https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 23 Sep 2026 21:36:41 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move](https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html)
+### 4. [This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move](https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 23 Sep 2026 19:47:58 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI](https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html)
+### 5. [Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI](https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 23 Sep 2026 19:22:46 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control](https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html)
+### 6. [New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control](https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 23 Sep 2026 17:46:00 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent](https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html)
+### 7. [545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent](https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 23 Sep 2026 17:17:19 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests](https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html)
+### 8. [Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests](https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 23 Sep 2026 17:17:13 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape](https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html)
+### 9. [Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape](https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 23 Sep 2026 16:42:18 +0530  
@@ -76,7 +85,7 @@
 
 ---
 
-### 9. [F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers](https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html)
+### 10. [F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers](https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 23 Sep 2026 13:59:48 +0530  
@@ -86,16 +95,35 @@
 
 ---
 
-### 10. [Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware](https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html)
+### 11. [Placeholder domain used in dev docs now serves ClickFix attacks](https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 23 Sep 2026 13:59:24 +0530  
-**Severity:** Critical  
-**Categories:** Vulnerability, Malware  
+**Source:** Bleeping Computer  
+**Published:** Wed, 23 Sep 2026 18:46:01 -0400  
+**Severity:** Low  
+**Categories:** APT, Supply Chain  
 
 ---
 
-### 11. [Hackers start exploiting critical WordPress flaw for code execution](https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/)
+### 12. [New RemControl Android banking malware targets users in Europe and Canada](https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 23 Sep 2026 17:25:13 -0400  
+**Severity:** Low  
+**Categories:** Malware, Phishing  
+
+---
+
+### 13. [Check Point warns of hackers exploiting Security Gateway VPN RCE flaw](https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 23 Sep 2026 15:53:54 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-93616, CVE-2026-85102  
+**Categories:** Vulnerability  
+
+---
+
+### 14. [Hackers start exploiting critical WordPress flaw for code execution](https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 23 Sep 2026 14:31:22 -0400  
@@ -105,7 +133,7 @@
 
 ---
 
-### 12. [Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers](https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/)
+### 15. [Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers](https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 23 Sep 2026 12:20:54 -0400  
@@ -114,7 +142,7 @@
 
 ---
 
-### 13. [InfraTrust report warns network management systems under attack](https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/)
+### 16. [InfraTrust report warns network management systems under attack](https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 23 Sep 2026 10:35:26 -0400  
@@ -123,7 +151,7 @@
 
 ---
 
-### 14. [How One Kubernetes YAML Can Hand Over a GCP Organization](https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/)
+### 17. [How One Kubernetes YAML Can Hand Over a GCP Organization](https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 23 Sep 2026 10:01:11 -0400  
@@ -132,7 +160,7 @@
 
 ---
 
-### 15. [Arista patches actively exploited VeloCloud Orchestrator zero-day](https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/)
+### 18. [Arista patches actively exploited VeloCloud Orchestrator zero-day](https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 23 Sep 2026 08:29:53 -0400  
@@ -142,7 +170,7 @@
 
 ---
 
-### 16. [Microsoft: September Windows updates break Always On VPN connections](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/)
+### 19. [Microsoft: September Windows updates break Always On VPN connections](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 23 Sep 2026 07:18:13 -0400  
@@ -151,38 +179,10 @@
 
 ---
 
-### 17. [Ryuk ransomware member sentenced to 24 months in prison](https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/)
+### 20. [Ryuk ransomware member sentenced to 24 months in prison](https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 23 Sep 2026 04:20:05 -0400  
-**Severity:** Low  
-**Categories:** Ransomware  
-
----
-
-### 18. [F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks](https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 23 Sep 2026 03:17:23 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-94127  
-**Categories:** Vulnerability  
-
----
-
-### 19. [Rogue external MFA providers can steal passwords during logins](https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 22 Sep 2026 17:45:45 -0400  
-**Severity:** High  
-**Categories:** APT, Supply Chain  
-
----
-
-### 20. [Sweden fines Miljödata $183,000 over breach affecting 2.2 million](https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 22 Sep 2026 17:40:37 -0400  
 **Severity:** Low  
 **Categories:** Ransomware  
 
@@ -202,7 +202,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69829, CVE-2026-81963, CVE-2026-85880, CVE-2026-69730  
+**CVEs:** CVE-2026-69730, CVE-2026-85880, CVE-2026-81963, CVE-2026-69829  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -239,7 +239,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-72971, CVE-2026-68820, CVE-2026-62832  
+**CVEs:** CVE-2026-62832, CVE-2026-68820, CVE-2026-72971  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -276,7 +276,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56164, CVE-2026-50661, CVE-2026-56155, CVE-2026-48561  
+**CVEs:** CVE-2026-48561, CVE-2026-50661, CVE-2026-56155, CVE-2026-56164  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -313,7 +313,7 @@
 **Source:** Security Week  
 **Published:** Wed, 23 Sep 2026 11:40:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-75684, CVE-2026-75745, CVE-2026-82000, CVE-2026-75697, CVE-2026-75682, CVE-2026-75698, CVE-2026-75686, CVE-2026-75689, CVE-2026-81995  
+**CVEs:** CVE-2026-75697, CVE-2026-75698, CVE-2026-75745, CVE-2026-75689, CVE-2026-75684, CVE-2026-75682, CVE-2026-82000, CVE-2026-75686, CVE-2026-81995  
 **Categories:** Vulnerability  
 
 ---
@@ -433,7 +433,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 09 Sep 2026 16:08:59 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20079, CVE-2026-20316  
+**CVEs:** CVE-2026-20316, CVE-2026-20079  
 **Categories:** Ransomware, Vulnerability, Malware, APT  
 
 ---
@@ -443,7 +443,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 08 Sep 2026 22:16:35 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69676, CVE-2026-69852, CVE-2026-81963, CVE-2026-85880  
+**CVEs:** CVE-2026-69676, CVE-2026-85880, CVE-2026-69852, CVE-2026-81963  
 **Categories:** Vulnerability, APT  
 
 ---
