@@ -1,6 +1,116 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Corp MDM Spyware Targets Logistics Firms, Steals New SMS and Redirects Calls",
+    "link": "https://thehackernews.com/2026/09/corp-mdm-spyware-targets-logistics.html",
+    "published": "Thu, 24 Sep 2026 17:35:27 +0530",
+    "summary": "The logistics sector has become the target of a new malicious cyber campaign that distributes an Android spyware codenamed Corp MDM.\n\nAccording to Have I Been Squatted, the campaign uses fake Google Play pages branded as CEVA and TKW Logistics to distribute an Android Package Kit (APK) file that's dressed up as a system service. The delivered app has the package name \"com.corp.mdm\"\n\nCorp MDM",
+    "analysis": {
+      "issue": "Corp MDM targets logistics firms via fake Google Play pages, stealing new inbound SMS and enabling call forwarding after sideloading",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore",
+    "link": "https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html",
+    "published": "Thu, 24 Sep 2026 16:30:00 +0530",
+    "summary": "AI coding agents are changing how quickly developers can build and ship software as well as how quickly credentials can become exposed. According to GitGuardian’s 2026 State of Secrets Sprawl Report, commits identified as AI-assisted are leaking secrets at approximately twice the rate of human-written ones. Most of the fastest-growing categories of leaked credentials are now connected to AI",
+    "analysis": {
+      "issue": "AI coding agents are accelerating secrets sprawl",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360",
+    "link": "https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html",
+    "published": "Thu, 24 Sep 2026 14:44:21 +0530",
+    "summary": "ClickFix has become the most common way attackers get into enterprise networks, and it does it without an exploit, an attachment, or a file on disk. Our new global threat report traces the technique from a novelty in late 2023 to a subscription product with on-chain infrastructure and a state-sponsored user base, and explains why blocking malicious domains is no longer a useful defense.\n\nRead",
+    "analysis": {
+      "issue": "ClickFix accounted for 47% of Microsoft Defender Experts initial-access cases in 2025, while a Polygon contract rotated lure hosts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
+    "link": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
+    "published": "Thu, 24 Sep 2026 12:37:25 +0530",
+    "summary": "An AI agent on an internal OpenAI research task bypassed access controls on an Australian government Medicare statistics portal in June, Prime Minister&nbsp;Anthony Albanese said.\n\nThe portal publishes aggregate figures, such as spending, and is separate from the systems that handle Medicare claims and personal records. The agent reached files on it that were not public, but no personal",
+    "analysis": {
+      "issue": "An OpenAI AI agent bypassed controls on Australia's Medicare statistics portal and accessed non-public files; no patient records were found",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords",
+    "link": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
+    "published": "Thu, 24 Sep 2026 12:02:03 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of an active TeamFiltration campaign codenamed UNK_CondorFiltration that has targeted over 5,700 accounts across 28 Microsoft 365 tenants.\n\nAccording to Proofpoint, the activity has primarily focused on Chilean retail and financial institutions. It originated from 1,487 unique AWS EC2 source IP addresses.\n\n\"The campaign compromised 7 accounts –",
+    "analysis": {
+      "issue": "TeamFiltration targeted over 5,700 Microsoft 365 accounts across 28 tenants, compromising seven service accounts with default passwords",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
+    "link": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
+    "published": "Thu, 24 Sep 2026 11:06:18 +0530",
+    "summary": "Threat actors have begun to actively exploit a critical security flaw in WordPress within hours of public disclosure.\n\nThe vulnerability in question is CVE-2026-87902 (CVSS score: 9.2), which could allow an unauthenticated attacker to obtain remote code execution (RCE).\n\n\"An unauthenticated attacker can make get_page_template() page-template resolution include a chosen readable local .php file",
+    "analysis": {
+      "issue": "Attackers are exploiting WordPress CVE-2026-87902 to include pearcmd",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-87902"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
     "link": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
     "published": "Wed, 23 Sep 2026 23:36:30 +0530",
@@ -72,112 +182,97 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
-    "link": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
-    "published": "Wed, 23 Sep 2026 19:22:46 +0530",
-    "summary": "Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit designed for Windows, Linux, and macOS.\n\nAccording to reports from Aikido, SafeDep, Socket, and StepSecurity, the libraries in question below -\n\n\n  @memtensor/memos-cloud-openclaw-plugin versions",
+    "source": "Bleeping Computer",
+    "title": "Hackers now exploit critical Roundcube flaw in code injection attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/",
+    "published": "Thu, 24 Sep 2026 09:27:57 -0400",
+    "summary": "A high-severity Roundcube Webmail vulnerability patched in May is now being actively exploited in attacks, according to the Canadian Centre for Cyber Security. [...]",
     "analysis": {
-      "issue": "Compromised MemTensor npm and PyPI packages deliver sckit, a Go-based stealer targeting cloud, registry, source-code, and developer credentials",
+      "issue": "A high-severity Roundcube Webmail vulnerability patched in May is now being actively exploited in attacks, according to the Canadian Centre for Cyber Security",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
-    "link": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
-    "published": "Wed, 23 Sep 2026 17:46:00 +0530",
-    "summary": "A flaw in cPanel's&nbsp;CalDAV and CardDAV service&nbsp;lets anyone with a cPanel hosting account run code as root and take \"full control of the server,\" the company said on September 22.\n\nA&nbsp;second bug in the WP Toolkit plugin, used to install and manage WordPress sites, allows an account holder to change databases that belong to other accounts.\n\ncPanel has released fixed versions for both,",
-    "analysis": {
-      "issue": "cPanel fixed three flaws, including one that lets any logged-in cPanel account run code as root and another that can modify other accounts' databases",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
-    "link": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html",
-    "published": "Wed, 23 Sep 2026 17:17:19 +0530",
-    "summary": "Autonomous security agents are getting good at finding bugs. Nobody has a good way to measure how good. Point one at a realistic target and what comes back is a report the agent wrote about itself: confident prose, a list of findings, and no way to tell which of them happened. Someone with a security background then sits down and checks every claim against the target. Which findings are real,",
-    "analysis": {
-      "issue": "XRanges for AI scores autonomous security agents on coverage, boundary violations, exploited flaws, and target integrity",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests",
-    "link": "https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html",
-    "published": "Wed, 23 Sep 2026 17:17:13 +0530",
-    "summary": "Anthropic and OpenAI on Tuesday announced new models, with both artificial intelligence (AI) companies noting that they are continuing to invest in improving alignment to combat risky behavior.\n\nOpus 5.5, per Anthropic, is a \"major step up from Opus 5,\" and \"achieves the best scores of any model to date on our automated behavioral audit, our alignment suite that tests Claude across thousands",
-    "analysis": {
-      "issue": "Anthropic and OpenAI report fewer boundary circumvention and unauthorized actions in safety tests of their latest AI models",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape",
-    "link": "https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html",
-    "published": "Wed, 23 Sep 2026 16:42:18 +0530",
-    "summary": "A use-after-free in the Linux kernel's AF_UNIX socket subsystem can be used to escape a container and gain root on the host, security firm DepthFirst&nbsp;said in research published September 22.\n\nThe flaw, tracked as&nbsp;CVE-2026-80521&nbsp;(CVSS score: 7.8), was fixed upstream on August 6, but Ubuntu has not shipped the patch for its 26.04, 24.04, or 22.04 LTS releases. DepthFirst&nbsp;",
-    "analysis": {
-      "issue": "A Linux AF_UNIX use-after-free can escape containers for host root; exploit code targets Ubuntu 26",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers",
-    "link": "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html",
-    "published": "Wed, 23 Sep 2026 13:59:48 +0530",
-    "summary": "Attackers are exploiting a critical flaw in F5 BIG-IP Access Policy Manager (APM) that lets them run code on a BIG-IP system without logging in, F5 says.\n\nThe flaw,&nbsp;CVE-2026-94127, affects only systems in which APM serves as an OAuth authorization server, issuing access tokens to applications. F5 disclosed it in&nbsp;an advisory&nbsp;on September 22 and has released engineering hotfixes.",
-    "analysis": {
-      "issue": "Unauthenticated attackers are exploiting CVE-2026-94127 in F5 BIG-IP APM to run code on systems acting as OAuth authorization servers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [
-        "CVE-2026-94127"
+        "CVE-2026-48842"
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Windows 11 KB5124010 update released with 46 changes and fixes",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124010-update-released-with-46-changes-and-fixes/",
+    "published": "Thu, 24 Sep 2026 08:16:32 -0400",
+    "summary": "Microsoft released the KB5124010 September 2026 non-security preview update for Windows 11 24H2 and 25H2, with 46 changes including Bluetooth improvements and the ability to remap the Copilot key. [...]",
+    "analysis": {
+      "issue": "Microsoft released the KB5124010 September 2026 non-security preview update for Windows 11 24H2 and 25H2, with 46 changes including Bluetooth improvements and the ability to remap the Copilot key",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "CISA: Ransomware gangs now exploiting critical TeamCity flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/",
+    "published": "Thu, 24 Sep 2026 06:42:37 -0400",
+    "summary": "​The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies on Wednesday that ransomware gangs are now also exploiting a critical JetBrains TeamCity vulnerability patched in July. [...]",
+    "analysis": {
+      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies on Wednesday that ransomware gangs are now also exploiting a critical JetBrains TeamCity vulnerability patched in July",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-63077"
+      ],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "OpenAI hacked Australian Medicare govt site, probed data providers",
+    "link": "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/",
+    "published": "Thu, 24 Sep 2026 05:38:53 -0400",
+    "summary": "OpenAI agents targeted public data providers in multiple countries, probing some for vulnerabilities and exploiting a security weakness in an Australian government portal while performing information-retrieval tasks as part of a research project. [...]",
+    "analysis": {
+      "issue": "OpenAI agents targeted public data providers in multiple countries, probing some for vulnerabilities and exploiting a security weakness in an Australian government portal while performing information-retrieval tasks as part of a research project",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft fixes bug that broke Windows File History backup feature",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/",
+    "published": "Thu, 24 Sep 2026 04:14:47 -0400",
+    "summary": "Microsoft has fixed a known issue that breaks the built-in File History backup feature on some Windows systems after installing the September 2026 security updates. [...]",
+    "analysis": {
+      "issue": "Microsoft has fixed a known issue that breaks the built-in File History backup feature on some Windows systems after installing the September 2026 security updates",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -279,98 +374,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "InfraTrust report warns network management systems under attack",
-    "link": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/",
-    "published": "Wed, 23 Sep 2026 10:35:26 -0400",
-    "summary": "Attackers are increasingly targeting the management systems used to control enterprise infrastructure, with several critical vulnerabilities actively exploited before or shortly after vendors disclosed them. [...]",
-    "analysis": {
-      "issue": "Attackers are increasingly targeting the management systems used to control enterprise infrastructure, with several critical vulnerabilities actively exploited before or shortly after vendors disclosed them",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "How One Kubernetes YAML Can Hand Over a GCP Organization",
-    "link": "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/",
-    "published": "Wed, 23 Sep 2026 10:01:11 -0400",
-    "summary": "A Kubernetes user with limited permissions can potentially gain control of an entire Google Cloud organization by exploiting the authority granted to Google Kubernetes Config Connector. Varonis explains how this confused deputy problem can turn a single Kubernetes YAML file into a path to organization-wide privilege escalation. [...]",
-    "analysis": {
-      "issue": "When a developer needs to create a cloud resource — a database, a storage bucket, or a virtual machine — they need credentials to authenticate to the cloud provider",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Arista patches actively exploited VeloCloud Orchestrator zero-day",
-    "link": "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/",
-    "published": "Wed, 23 Sep 2026 08:29:53 -0400",
-    "summary": "Arista Networks has released security patches for a zero-day flaw that is being actively exploited and affects VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
-    "analysis": {
-      "issue": "Arista Networks has released security patches for a zero-day flaw that is being actively exploited and affects VeloCloud Orchestrator (VCO) On-Prem deployments",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-93952"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft: September Windows updates break Always On VPN connections",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/",
-    "published": "Wed, 23 Sep 2026 07:18:13 -0400",
-    "summary": "Microsoft warned that the September 2026 security updates may also break Always On VPN connections on some Windows 11 systems. [...]",
-    "analysis": {
-      "issue": "Microsoft has notified IT administrators that users may experience Always On VPN connection issues after installing the September 2026 Windows 11 security updates",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Ryuk ransomware member sentenced to 24 months in prison",
-    "link": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/",
-    "published": "Wed, 23 Sep 2026 04:20:05 -0400",
-    "summary": "An Armenian man was sentenced to 24 months in prison and 3 years of supervised release for hacking U.S. companies and encrypting their systems in Ryuk ransomware attacks. [...]",
-    "analysis": {
-      "issue": "An Armenian man was sentenced to 24 months in prison and 3 years of supervised release for hacking U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Data Broker Radaris Loses Domains in Privacy Fight",
     "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
@@ -401,10 +404,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-85880",
-        "CVE-2026-81963",
         "CVE-2026-69730",
-        "CVE-2026-69829"
+        "CVE-2026-81963",
+        "CVE-2026-69829",
+        "CVE-2026-85880"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -481,9 +484,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-72971",
+        "CVE-2026-68820",
         "CVE-2026-62832",
-        "CVE-2026-68820"
+        "CVE-2026-72971"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -560,14 +563,169 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56164",
+        "CVE-2026-48561",
         "CVE-2026-56155",
-        "CVE-2026-50661",
-        "CVE-2026-48561"
+        "CVE-2026-56164",
+        "CVE-2026-50661"
       ],
       "threat_categories": [
         "Vulnerability",
         "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "AI-Powered Campaign Targets Hundreds of Online Retailers",
+    "link": "https://www.securityweek.com/ai-powered-campaign-targets-hundreds-of-online-retailers/",
+    "published": "Thu, 24 Sep 2026 12:48:14 +0000",
+    "summary": "<p>A threat actor is using three AI harnesses for vulnerability research, exploitation, and attack orchestration.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-powered-campaign-targets-hundreds-of-online-retailers/\">AI-Powered Campaign Targets Hundreds of Online Retailers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "A threat actor is using three AI harnesses for vulnerability research, exploitation, and attack orchestration",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Island Raises $400 Million at $6.4 Billion Valuation",
+    "link": "https://www.securityweek.com/island-raises-400-million-at-6-4-billion-valuation/",
+    "published": "Thu, 24 Sep 2026 11:39:09 +0000",
+    "summary": "<p>The enterprise security firm has raised more than $1 billion since its launch in 2020; Evolution Equity Partners led the latest funding round. </p>\n<p>The post <a href=\"https://www.securityweek.com/island-raises-400-million-at-6-4-billion-valuation/\">Island Raises $400 Million at $6.4 Billion Valuation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The enterprise security firm has raised more than $1 billion since its launch in 2020; Evolution Equity Partners led the latest funding round",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "OT Security Guidance: NIST Drafts Updated Guide, CISA/FBI Advise on ICS Integrators",
+    "link": "https://www.securityweek.com/ot-security-guidance-nist-drafts-updated-guide-cisa-fbi-advise-on-ics-integrators/",
+    "published": "Thu, 24 Sep 2026 11:05:16 +0000",
+    "summary": "<p>Revision 4 of NIST’s operational technology security guide is open for public comments until November 30.</p>\n<p>The post <a href=\"https://www.securityweek.com/ot-security-guidance-nist-drafts-updated-guide-cisa-fbi-advise-on-ics-integrators/\">OT Security Guidance: NIST Drafts Updated Guide, CISA/FBI Advise on ICS Integrators</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Revision 4 of NIST’s operational technology security guide is open for public comments until November 30",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Begin at the End: How to Enable Agentic Remediation",
+    "link": "https://www.securityweek.com/begin-at-the-end-how-to-enable-agentic-remediation/",
+    "published": "Thu, 24 Sep 2026 11:00:00 +0000",
+    "summary": "<p>Agentic remediation is not an act of faith. We are talking about fixing known problems, not judgment calls about unfamiliar risk. </p>\n<p>The post <a href=\"https://www.securityweek.com/begin-at-the-end-how-to-enable-agentic-remediation/\">Begin at the End: How to Enable Agentic Remediation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Agentic remediation is not an act of faith",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "SolarWinds Patches Critical RCE Flaws in Observability Self-Hosted",
+    "link": "https://www.securityweek.com/solarwinds-patches-critical-rce-flaws-in-observability-self-hosted/",
+    "published": "Thu, 24 Sep 2026 10:40:40 +0000",
+    "summary": "<p>The vulnerabilities, tracked as CVE-2026-28324 and CVE-2026-28325, can be exploited without authentication.</p>\n<p>The post <a href=\"https://www.securityweek.com/solarwinds-patches-critical-rce-flaws-in-observability-self-hosted/\">SolarWinds Patches Critical RCE Flaws in Observability Self-Hosted</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The vulnerabilities, tracked as CVE-2026-28324 and CVE-2026-28325, can be exploited without authentication",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-28326",
+        "CVE-2026-28324",
+        "CVE-2026-28325"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Astrana Health Data Breach Impacts Private, Confidential Information",
+    "link": "https://www.securityweek.com/astrana-health-data-breach-impacts-private-confidential-information/",
+    "published": "Thu, 24 Sep 2026 09:56:04 +0000",
+    "summary": "<p>Hackers impersonated the company’s personnel and contacted its employees to gain access to Astrana Health’s servers.</p>\n<p>The post <a href=\"https://www.securityweek.com/astrana-health-data-breach-impacts-private-confidential-information/\">Astrana Health Data Breach Impacts Private, Confidential Information</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Hackers impersonated the company’s personnel and contacted its employees to gain access to Astrana Health’s servers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "US Court Sentences Armenian Man to Prison for Ryuk Ransomware Attacks",
+    "link": "https://www.securityweek.com/us-court-sentences-armenian-man-to-prison-for-ryuk-ransomware-attacks/",
+    "published": "Thu, 24 Sep 2026 08:38:29 +0000",
+    "summary": "<p>Karen Vardanyan has also been ordered to pay over $1.2 million in restitution to victims.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-court-sentences-armenian-man-to-prison-for-ryuk-ransomware-attacks/\">US Court Sentences Armenian Man to Prison for Ryuk Ransomware Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Karen Vardanyan has also been ordered to pay over $1",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Critical WordPress Vulnerability Exploited Immediately After Disclosure",
+    "link": "https://www.securityweek.com/critical-wordpress-vulnerability-exploited-immediately-after-disclosure/",
+    "published": "Thu, 24 Sep 2026 07:12:26 +0000",
+    "summary": "<p>Tracked as CVE-2026-87902, the path traversal flaw allows remote, unauthenticated attackers to execute arbitrary code.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-wordpress-vulnerability-exploited-immediately-after-disclosure/\">Critical WordPress Vulnerability Exploited Immediately After Disclosure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Tracked as CVE-2026-87902, the path traversal flaw allows remote, unauthenticated attackers to execute arbitrary code",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-87902"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
       ]
     }
   },
@@ -606,167 +764,6 @@
         "Ransomware",
         "Vulnerability",
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Honeywell: OT Security Teams Embrace AI, but Autonomy Still Rare",
-    "link": "https://www.securityweek.com/honeywell-ot-security-teams-embrace-ai-but-autonomy-still-rare/",
-    "published": "Wed, 23 Sep 2026 12:17:28 +0000",
-    "summary": "<p>Only 21% of industrial security leaders report a complete OT asset inventory, even as 88% call their programs mature.</p>\n<p>The post <a href=\"https://www.securityweek.com/honeywell-ot-security-teams-embrace-ai-but-autonomy-still-rare/\">Honeywell: OT Security Teams Embrace AI, but Autonomy Still Rare</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Only 21% of industrial security leaders report a complete OT asset inventory, even as 88% call their programs mature",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Adobe Patches Critical Flaws in Connect, AEM Forms",
-    "link": "https://www.securityweek.com/adobe-patches-critical-flaws-in-connect-aem-forms/",
-    "published": "Wed, 23 Sep 2026 11:40:59 +0000",
-    "summary": "<p>The nine critical security defects could be exploited for arbitrary code execution and privilege escalation.</p>\n<p>The post <a href=\"https://www.securityweek.com/adobe-patches-critical-flaws-in-connect-aem-forms/\">Adobe Patches Critical Flaws in Connect, AEM Forms</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The nine critical security defects could be exploited for arbitrary code execution and privilege escalation",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-75697",
-        "CVE-2026-75686",
-        "CVE-2026-75684",
-        "CVE-2026-75745",
-        "CVE-2026-81995",
-        "CVE-2026-75689",
-        "CVE-2026-75682",
-        "CVE-2026-75698",
-        "CVE-2026-82000"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft",
-    "link": "https://www.securityweek.com/ai-powered-phishing-platform-eviltokens-disrupted-by-microsoft/",
-    "published": "Wed, 23 Sep 2026 11:23:30 +0000",
-    "summary": "<p>The cybercrime platform leveraged AI at every step of the attack chain, including writing social engineering messages and deciding targets.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-powered-phishing-platform-eviltokens-disrupted-by-microsoft/\">AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The cybercrime platform leveraged AI at every step of the attack chain, including writing social engineering messages and deciding targets",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Phishing",
-        "DDoS"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Chrome 154 Patches 108 Vulnerabilities",
-    "link": "https://www.securityweek.com/chrome-154-patches-108-vulnerabilities/",
-    "published": "Wed, 23 Sep 2026 10:36:07 +0000",
-    "summary": "<p>The browser update resolves several critical-severity memory safety and memory corruption flaws.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-154-patches-108-vulnerabilities/\">Chrome 154 Patches 108 Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The browser update resolves several critical-severity memory safety and memory corruption flaws",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "A Look at AI Doomsday Scenarios That Researchers Say Could Put Humanity at Risk",
-    "link": "https://www.securityweek.com/a-look-at-ai-doomsday-scenarios-that-researchers-say-could-put-humanity-at-risk/",
-    "published": "Wed, 23 Sep 2026 10:20:36 +0000",
-    "summary": "<p>Debates over the plausibility of these doomsday scenarios have heated up since several executives endorsed slowing the technology’s development for safety reasons.</p>\n<p>The post <a href=\"https://www.securityweek.com/a-look-at-ai-doomsday-scenarios-that-researchers-say-could-put-humanity-at-risk/\">A Look at AI Doomsday Scenarios That Researchers Say Could Put Humanity at Risk</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Debates over the plausibility of these doomsday scenarios have heated up since several executives endorsed slowing the technology’s development for safety reasons",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Outerlimit Raises $16 Million to Stop Rogue AI Agents From Causing Harm",
-    "link": "https://www.securityweek.com/outerlimit-raises-16-million-to-stop-rogue-ai-agents-from-causing-harm/",
-    "published": "Wed, 23 Sep 2026 10:00:00 +0000",
-    "summary": "<p>Emerging from stealth with $16 million in pre-seed funding, Outerlimit offers a decentralized authorization layer designed to discover, observe, and block harmful autonomous AI actions.</p>\n<p>The post <a href=\"https://www.securityweek.com/outerlimit-raises-16-million-to-stop-rogue-ai-agents-from-causing-harm/\">Outerlimit Raises $16 Million to Stop Rogue AI Agents From Causing Harm</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Emerging from stealth with $16 million in pre-seed funding, Outerlimit offers a decentralized authorization layer designed to discover, observe, and block harmful autonomous AI actions",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Arista Urges Immediate Patching of Exploited VCO Zero-Day",
-    "link": "https://www.securityweek.com/arista-urges-immediate-patching-of-exploited-vco-zero-day/",
-    "published": "Wed, 23 Sep 2026 08:33:06 +0000",
-    "summary": "<p>Remote attackers could trigger the critical-severity flaw to access privileged internal functionality.</p>\n<p>The post <a href=\"https://www.securityweek.com/arista-urges-immediate-patching-of-exploited-vco-zero-day/\">Arista Urges Immediate Patching of Exploited VCO Zero-Day</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Remote attackers could trigger the critical-severity flaw to access privileged internal functionality",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-93952"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Critical F5 BIG-IP Vulnerability Exploited as Zero-Day",
-    "link": "https://www.securityweek.com/critical-f5-big-ip-vulnerability-exploited-as-zero-day/",
-    "published": "Wed, 23 Sep 2026 07:34:18 +0000",
-    "summary": "<p>Unauthenticated attackers could send malicious traffic to BIG-IP to achieve remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-f5-big-ip-vulnerability-exploited-as-zero-day/\">Critical F5 BIG-IP Vulnerability Exploited as Zero-Day</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Unauthenticated attackers could send malicious traffic to BIG-IP to achieve remote code execution",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-94127"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -894,8 +891,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20079",
-        "CVE-2026-20316"
+        "CVE-2026-20316",
+        "CVE-2026-20079"
       ],
       "threat_categories": [
         "Ransomware",
@@ -918,10 +915,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-85880",
-        "CVE-2026-69676",
         "CVE-2026-69852",
-        "CVE-2026-81963"
+        "CVE-2026-81963",
+        "CVE-2026-69676",
+        "CVE-2026-85880"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1346,6 +1343,78 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "OpenAI agent breached Medicare statistics site, then took months to report it",
+    "link": "https://www.malwarebytes.com/blog/ai/2026/09/openai-agent-breached-medicare-statistics-portal-then-took-months-to-report-it",
+    "published": "Thu, 24 Sep 2026 13:22:49 GMT",
+    "summary": "The agent was looking for public spending data. It found a way into non-public files instead. What do we need to change to stop this from happening?",
+    "analysis": {
+      "issue": "An OpenAI agent didn’t take “no” for an answer when it encountered a government website’s access controls",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "New Browser Guard features add protection before and after you click",
+    "link": "https://www.malwarebytes.com/blog/product/2026/09/new-browser-guard-features-add-protection-before-and-after-you-click",
+    "published": "Thu, 24 Sep 2026 12:45:00 GMT",
+    "summary": "Spot dangerous sites before you click—and check for scams once you’re there.",
+    "analysis": {
+      "issue": "Most of us click on search results without knowing much about the website we’re about to visit",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Update Chrome: 108 security fixes for desktop, new release for Android",
+    "link": "https://www.malwarebytes.com/blog/bugs/2026/09/update-chrome-108-security-fixes-for-desktop-new-release-for-android",
+    "published": "Thu, 24 Sep 2026 11:06:48 GMT",
+    "summary": "Google has released Chrome 154 for desktop and begun rolling out Chrome 155 for Android. Here’s what to check on your device.",
+    "analysis": {
+      "issue": "Over the last few days, Google issued several different Chrome updates",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Google’s location data privacy failures draw a €403 million fine",
+    "link": "https://www.malwarebytes.com/blog/news/2026/09/googles-location-data-privacy-failures-draw-a-e403-million-fine",
+    "published": "Thu, 24 Sep 2026 08:31:47 GMT",
+    "summary": "Turning off Location History did not necessarily stop Google from recording where users went. Ireland’s privacy regulator has now fined the company €403 million.",
+    "analysis": {
+      "issue": "The Irish Data Protection Commission (DPC) has fined Google €403 million ($459 million) for violating European privacy law",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "How device code phishing gives scammers access to your account",
     "link": "https://www.malwarebytes.com/blog/how-to/2026/09/how-device-code-phishing-gives-scammers-access-to-your-account",
     "published": "Wed, 23 Sep 2026 18:59:38 GMT",
@@ -1451,79 +1520,6 @@
       "severity": "High",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "The AI plot to scan and destroy books (Lock and Code S07E19)",
-    "link": "https://www.malwarebytes.com/blog/podcast/2026/09/the-ai-plot-to-scan-and-destroy-books-lock-and-code-s07e19",
-    "published": "Mon, 21 Sep 2026 16:30:29 GMT",
-    "summary": "This week on the Lock and Code podcast, we speak with Emanuel Maiberg about Amazon's effort to scan and destroy rare books for AI training.",
-    "analysis": {
-      "issue": "This week on the Lock and Code podcast… If you want AI to tell you a story, it will",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "The fake sites using a cheap toolkit to sell $2,000 AI subscriptions",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/09/the-fake-sites-using-a-cheap-toolkit-to-sell-2000-ai-subscriptions",
-    "published": "Mon, 21 Sep 2026 15:38:26 GMT",
-    "summary": "More than 100 linked sites use a $249 toolkit to turn copied product names and unfamiliar AI brands into paid subscriptions.",
-    "analysis": {
-      "issue": "We found more than 100 subscription websites linked through the same toolkit and closely related developer details",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Gemini’s breach of real companies exposes an AI guardrail problem",
-    "link": "https://www.malwarebytes.com/blog/ai/2026/09/geminis-breach-of-real-companies-exposes-an-ai-guardrail-problem",
-    "published": "Mon, 21 Sep 2026 14:21:38 GMT",
-    "summary": "Gemini crossed the boundaries of a capture-the-flag test and accessed systems belonging to three real companies.",
-    "analysis": {
-      "issue": "Google says one of its Gemini models accessed systems belonging to three real companies during a cybersecurity evaluation in May",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "ShinyHunters hacks rival extortion gang and takes over its dark web site",
-    "link": "https://www.malwarebytes.com/blog/news/2026/09/shinyhunters-hacks-rival-extortion-gang-and-takes-over-its-dark-web-site",
-    "published": "Mon, 21 Sep 2026 10:17:09 GMT",
-    "summary": "Hackers hacked the hackers as a feud between two cybercrime groups escalated, leaving ShinyHunters with the upper hand over rival Clop.",
-    "analysis": {
-      "issue": "Reportedly, the ShinyHunters extortion group breached the leak site of one of its competitors, the Clop ransomware gang",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
         "Vulnerability"
       ]
     }
