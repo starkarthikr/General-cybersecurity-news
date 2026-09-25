@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-24 20:04:38 UTC
+**Last Updated:** 2026-09-25 04:22:59 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,25 @@
 
 ---
 
-### 11. [Exposed GitLab project email addresses let attackers push code](https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/)
+### 11. [MacSync malware uses public iCloud calendars to deliver new payloads](https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 24 Sep 2026 16:53:35 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 12. [New Carbonato malware uses AI agents to hijack exposed Docker hosts](https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 24 Sep 2026 16:10:48 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 13. [Exposed GitLab project email addresses let attackers push code](https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 24 Sep 2026 13:47:44 -0400  
@@ -104,7 +122,7 @@
 
 ---
 
-### 12. [FedRAMP VDR & VER: Daily Scans Are Only the Beginning](https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/)
+### 14. [FedRAMP VDR & VER: Daily Scans Are Only the Beginning](https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 24 Sep 2026 10:02:12 -0400  
@@ -113,7 +131,7 @@
 
 ---
 
-### 13. [Hackers now exploit critical Roundcube flaw in code injection attacks](https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/)
+### 15. [Hackers now exploit critical Roundcube flaw in code injection attacks](https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 24 Sep 2026 09:27:57 -0400  
@@ -123,7 +141,7 @@
 
 ---
 
-### 14. [Windows 11 KB5124010 update released with 46 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124010-update-released-with-46-changes-and-fixes/)
+### 16. [Windows 11 KB5124010 update released with 46 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124010-update-released-with-46-changes-and-fixes/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 24 Sep 2026 08:16:32 -0400  
@@ -132,7 +150,7 @@
 
 ---
 
-### 15. [CISA: Ransomware gangs now exploiting critical TeamCity flaw](https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/)
+### 17. [CISA: Ransomware gangs now exploiting critical TeamCity flaw](https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 24 Sep 2026 06:42:37 -0400  
@@ -142,7 +160,7 @@
 
 ---
 
-### 16. [OpenAI hacked Australian Medicare govt site, probed data providers](https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/)
+### 18. [OpenAI hacked Australian Medicare govt site, probed data providers](https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 24 Sep 2026 05:38:53 -0400  
@@ -151,7 +169,7 @@
 
 ---
 
-### 17. [Microsoft fixes bug that broke Windows File History backup feature](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/)
+### 19. [Microsoft fixes bug that broke Windows File History backup feature](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 24 Sep 2026 04:14:47 -0400  
@@ -160,31 +178,12 @@
 
 ---
 
-### 18. [Placeholder domain used in dev docs now serves ClickFix attacks](https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/)
+### 20. [Placeholder domain used in dev docs now serves ClickFix attacks](https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 23 Sep 2026 18:46:01 -0400  
 **Severity:** Low  
 **Categories:** APT, Supply Chain  
-
----
-
-### 19. [New RemControl Android banking malware targets users in Europe and Canada](https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 23 Sep 2026 17:25:13 -0400  
-**Severity:** Low  
-**Categories:** Malware, Phishing  
-
----
-
-### 20. [Check Point warns of hackers exploiting Security Gateway VPN RCE flaw](https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 23 Sep 2026 15:53:54 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-85102, CVE-2026-93616  
-**Categories:** Vulnerability  
 
 ---
 
@@ -202,7 +201,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69730, CVE-2026-85880, CVE-2026-81963, CVE-2026-69829  
+**CVEs:** CVE-2026-81963, CVE-2026-69730, CVE-2026-85880, CVE-2026-69829  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -276,12 +275,21 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50661, CVE-2026-56164, CVE-2026-56155, CVE-2026-48561  
+**CVEs:** CVE-2026-56155, CVE-2026-56164, CVE-2026-50661, CVE-2026-48561  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 31. [Kontext Security Emerges With $4 Million for AI Agent Runtime Controls](https://www.securityweek.com/kontext-security-emerges-with-4-million-for-ai-agent-runtime-controls/)
+### 31. [Autonomous AI Hacks Raise Thorny Questions of Legal Accountability](https://www.securityweek.com/autonomous-ai-hacks-raise-thorny-questions-of-legal-accountability/)
+
+**Source:** Security Week  
+**Published:** Thu, 24 Sep 2026 20:35:21 +0000  
+**Severity:** High  
+**Categories:** APT  
+
+---
+
+### 32. [Kontext Security Emerges With $4 Million for AI Agent Runtime Controls](https://www.securityweek.com/kontext-security-emerges-with-4-million-for-ai-agent-runtime-controls/)
 
 **Source:** Security Week  
 **Published:** Thu, 24 Sep 2026 15:52:00 +0000  
@@ -290,7 +298,7 @@
 
 ---
 
-### 32. [OpenAI Agents Probed Websites for Vulnerabilities While Fetching Public Data](https://www.securityweek.com/openai-agents-probed-websites-for-vulnerabilities-while-fetching-public-data/)
+### 33. [OpenAI Agents Probed Websites for Vulnerabilities While Fetching Public Data](https://www.securityweek.com/openai-agents-probed-websites-for-vulnerabilities-while-fetching-public-data/)
 
 **Source:** Security Week  
 **Published:** Thu, 24 Sep 2026 14:43:13 +0000  
@@ -299,7 +307,7 @@
 
 ---
 
-### 33. [AI-Powered Campaign Targets Hundreds of Online Retailers](https://www.securityweek.com/ai-powered-campaign-targets-hundreds-of-online-retailers/)
+### 34. [AI-Powered Campaign Targets Hundreds of Online Retailers](https://www.securityweek.com/ai-powered-campaign-targets-hundreds-of-online-retailers/)
 
 **Source:** Security Week  
 **Published:** Thu, 24 Sep 2026 12:48:14 +0000  
@@ -308,7 +316,7 @@
 
 ---
 
-### 34. [Island Raises $400 Million at $6.4 Billion Valuation](https://www.securityweek.com/island-raises-400-million-at-6-4-billion-valuation/)
+### 35. [Island Raises $400 Million at $6.4 Billion Valuation](https://www.securityweek.com/island-raises-400-million-at-6-4-billion-valuation/)
 
 **Source:** Security Week  
 **Published:** Thu, 24 Sep 2026 11:39:09 +0000  
@@ -317,7 +325,7 @@
 
 ---
 
-### 35. [OT Security Guidance: NIST Drafts Updated Guide, CISA/FBI Advise on ICS Integrators](https://www.securityweek.com/ot-security-guidance-nist-drafts-updated-guide-cisa-fbi-advise-on-ics-integrators/)
+### 36. [OT Security Guidance: NIST Drafts Updated Guide, CISA/FBI Advise on ICS Integrators](https://www.securityweek.com/ot-security-guidance-nist-drafts-updated-guide-cisa-fbi-advise-on-ics-integrators/)
 
 **Source:** Security Week  
 **Published:** Thu, 24 Sep 2026 11:05:16 +0000  
@@ -326,7 +334,7 @@
 
 ---
 
-### 36. [Begin at the End: How to Enable Agentic Remediation](https://www.securityweek.com/begin-at-the-end-how-to-enable-agentic-remediation/)
+### 37. [Begin at the End: How to Enable Agentic Remediation](https://www.securityweek.com/begin-at-the-end-how-to-enable-agentic-remediation/)
 
 **Source:** Security Week  
 **Published:** Thu, 24 Sep 2026 11:00:00 +0000  
@@ -335,17 +343,17 @@
 
 ---
 
-### 37. [SolarWinds Patches Critical RCE Flaws in Observability Self-Hosted](https://www.securityweek.com/solarwinds-patches-critical-rce-flaws-in-observability-self-hosted/)
+### 38. [SolarWinds Patches Critical RCE Flaws in Observability Self-Hosted](https://www.securityweek.com/solarwinds-patches-critical-rce-flaws-in-observability-self-hosted/)
 
 **Source:** Security Week  
 **Published:** Thu, 24 Sep 2026 10:40:40 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-28325, CVE-2026-28326, CVE-2026-28324  
+**CVEs:** CVE-2026-28324, CVE-2026-28326, CVE-2026-28325  
 **Categories:** Vulnerability  
 
 ---
 
-### 38. [Astrana Health Data Breach Impacts Private, Confidential Information](https://www.securityweek.com/astrana-health-data-breach-impacts-private-confidential-information/)
+### 39. [Astrana Health Data Breach Impacts Private, Confidential Information](https://www.securityweek.com/astrana-health-data-breach-impacts-private-confidential-information/)
 
 **Source:** Security Week  
 **Published:** Thu, 24 Sep 2026 09:56:04 +0000  
@@ -354,22 +362,12 @@
 
 ---
 
-### 39. [US Court Sentences Armenian Man to Prison for Ryuk Ransomware Attacks](https://www.securityweek.com/us-court-sentences-armenian-man-to-prison-for-ryuk-ransomware-attacks/)
+### 40. [US Court Sentences Armenian Man to Prison for Ryuk Ransomware Attacks](https://www.securityweek.com/us-court-sentences-armenian-man-to-prison-for-ryuk-ransomware-attacks/)
 
 **Source:** Security Week  
 **Published:** Thu, 24 Sep 2026 08:38:29 +0000  
 **Severity:** Low  
 **Categories:** Ransomware, Malware  
-
----
-
-### 40. [Critical WordPress Vulnerability Exploited Immediately After Disclosure](https://www.securityweek.com/critical-wordpress-vulnerability-exploited-immediately-after-disclosure/)
-
-**Source:** Security Week  
-**Published:** Thu, 24 Sep 2026 07:12:26 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-87902  
-**Categories:** Vulnerability, Supply Chain  
 
 ---
 
@@ -451,7 +449,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 08 Sep 2026 22:16:35 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69676, CVE-2026-85880, CVE-2026-81963, CVE-2026-69852  
+**CVEs:** CVE-2026-81963, CVE-2026-69676, CVE-2026-85880, CVE-2026-69852  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -635,7 +633,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

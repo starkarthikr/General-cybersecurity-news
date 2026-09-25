@@ -183,6 +183,42 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
+    "link": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
+    "published": "Thu, 24 Sep 2026 16:53:35 -0400",
+    "summary": "A new variant of the MacSync malware targeting macOS systems now uses public iCloud calendar events to deliver new native payloads. [...]",
+    "analysis": {
+      "issue": "A new variant of the MacSync info-stealing malware targeting macOS systems now uses public iCloud calendar events to deliver fresh payloads",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
+    "link": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
+    "published": "Thu, 24 Sep 2026 16:10:48 -0400",
+    "summary": "A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. [...]",
+    "analysis": {
+      "issue": "A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Exposed GitLab project email addresses let attackers push code",
     "link": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/",
     "published": "Thu, 24 Sep 2026 13:47:44 -0400",
@@ -332,46 +368,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "New RemControl Android banking malware targets users in Europe and Canada",
-    "link": "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/",
-    "published": "Wed, 23 Sep 2026 17:25:13 -0400",
-    "summary": "A new Android malware-as-a-service (MaaS) platform called RemControl is targeting users through malvertising campaigns that impersonate the TVTap IPTV application. [...]",
-    "analysis": {
-      "issue": "A new Android malware-as-a-service (MaaS) platform called RemControl is targeting users through malvertising campaigns that impersonate the TVTap IPTV application",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
-    "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/",
-    "published": "Wed, 23 Sep 2026 15:53:54 -0400",
-    "summary": "Cybersecurity company Check Point has confirmed active exploitation of CVE-2026-85102, a pre-authentication remote code execution (RCE) vulnerability in the VPN certificate-handling functionality of its Security Gateway product. [...]",
-    "analysis": {
-      "issue": "Cybersecurity company Check Point has confirmed active exploitation of CVE-2026-85102, a pre-authentication remote code execution (RCE) vulnerability in the VPN certificate-handling functionality of its Security Gateway product",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-85102",
-        "CVE-2026-93616"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Data Broker Radaris Loses Domains in Privacy Fight",
     "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
@@ -402,9 +398,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-81963",
         "CVE-2026-69730",
         "CVE-2026-85880",
-        "CVE-2026-81963",
         "CVE-2026-69829"
       ],
       "threat_categories": [
@@ -561,14 +557,32 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50661",
-        "CVE-2026-56164",
         "CVE-2026-56155",
+        "CVE-2026-56164",
+        "CVE-2026-50661",
         "CVE-2026-48561"
       ],
       "threat_categories": [
         "Vulnerability",
         "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Autonomous AI Hacks Raise Thorny Questions of Legal Accountability",
+    "link": "https://www.securityweek.com/autonomous-ai-hacks-raise-thorny-questions-of-legal-accountability/",
+    "published": "Thu, 24 Sep 2026 20:35:21 +0000",
+    "summary": "<p>The prospect of legal accountability is unclear. Lawsuits are a possibility, but some legal experts believe any criminal investigations would face an extremely high burden.</p>\n<p>The post <a href=\"https://www.securityweek.com/autonomous-ai-hacks-raise-thorny-questions-of-legal-accountability/\">Autonomous AI Hacks Raise Thorny Questions of Legal Accountability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The prospect of legal accountability is unclear",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "APT"
       ]
     }
   },
@@ -695,9 +709,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-28325",
+        "CVE-2026-28324",
         "CVE-2026-28326",
-        "CVE-2026-28324"
+        "CVE-2026-28325"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -740,27 +754,6 @@
       "threat_categories": [
         "Ransomware",
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Critical WordPress Vulnerability Exploited Immediately After Disclosure",
-    "link": "https://www.securityweek.com/critical-wordpress-vulnerability-exploited-immediately-after-disclosure/",
-    "published": "Thu, 24 Sep 2026 07:12:26 +0000",
-    "summary": "<p>Tracked as CVE-2026-87902, the path traversal flaw allows remote, unauthenticated attackers to execute arbitrary code.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-wordpress-vulnerability-exploited-immediately-after-disclosure/\">Critical WordPress Vulnerability Exploited Immediately After Disclosure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Tracked as CVE-2026-87902, the path traversal flaw allows remote, unauthenticated attackers to execute arbitrary code",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-87902"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
       ]
     }
   },
@@ -931,9 +924,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-81963",
         "CVE-2026-69676",
         "CVE-2026-85880",
-        "CVE-2026-81963",
         "CVE-2026-69852"
       ],
       "threat_categories": [
@@ -1309,8 +1302,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
