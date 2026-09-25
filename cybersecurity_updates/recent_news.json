@@ -1,6 +1,98 @@
 [
   {
     "source": "The Hacker News",
+    "title": "The SOC Doesn't Need to Start Over with Every Alert",
+    "link": "https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html",
+    "published": "Fri, 25 Sep 2026 17:00:00 +0530",
+    "summary": "Security leaders keep debating whether AI will produce an entirely new class of cyberattack. The nearer change is quieter and already visible: AI has made a failed attack cheap to retry.\n\nThe routine version looks like this. An attacker lands on a low-privilege cloud account, and the first try at privilege escalation goes nowhere. That dead end used to cost hours of documentation reading,",
+    "analysis": {
+      "issue": "AI is compressing attacker retry cycles while SOC handoffs lose context, making shared operational memory central to faster defense",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise",
+    "link": "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
+    "published": "Fri, 25 Sep 2026 16:05:55 +0530",
+    "summary": "Cryptocurrency exchange Bitget said suspected North Korean threat actors have stolen $351.6 million from its hot and warm wallets.&nbsp;\n\n\"At 18:31 UTC on September 24, 2026, Bitget's security systems identified unauthorized transfers involving a limited number of hot wallets,\" BitGet said in a post shared on X. \"Bitget's cold wallets and the overwhelming majority of platform assets remain",
+    "analysis": {
+      "issue": "Bitget says suspected North Korean actors stole $351",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild",
+    "link": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
+    "published": "Fri, 25 Sep 2026 15:44:02 +0530",
+    "summary": "The Canadian Centre for Cyber Security has warned that a now-patched Roundcube Webmail vulnerability is being actively exploited in the wild.\n\nThe vulnerability in question is CVE-2026-48842 (CVSS score: 8.1), a pre-authentication SQL injection in the virtuser_query plugin of Roundcube Webmail versions 1.6.x before 1.6.16 and 1.7.x before 1.7.1.\n\nThe issue stems from a preg_replace() backslash",
+    "analysis": {
+      "issue": "Roundcube's patched CVE-2026-48842 SQL injection is actively exploited, affecting 1",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-48842"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data",
+    "link": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html",
+    "published": "Fri, 25 Sep 2026 10:19:22 +0530",
+    "summary": "A flaw in Cloudflare Containers let a paying customer read data that other customers' containers had left behind on the same server, Cloudflare and the researchers who found it said on Thursday.\n\nThe data came from disk space that earlier containers had used and given up, not from any live workload, and an attacker could not choose whose data they got,&nbsp;according to Cloudflare. The company",
+    "analysis": {
+      "issue": "Cloudflare fixed a Containers flaw that let customers read leftover disk data from other accounts' deleted containers on shared servers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV",
+    "link": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html",
+    "published": "Fri, 25 Sep 2026 10:16:34 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added two critical security flaws impacting WSO2 and Adobe Commerce and Magento to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\n\nThe vulnerabilities are listed below -\n\n\n  CVE-2026-5430 (CVS score: 9.8) - A path traversal vulnerability in&nbsp; WSO2 API Control Plane,",
+    "analysis": {
+      "issue": "CISA adds exploited WSO2 and Adobe Commerce flaws to KEV, with federal agencies told to apply fixes by September 27, 2026",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
     "link": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
     "published": "Thu, 24 Sep 2026 23:40:18 +0530",
@@ -90,13 +182,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore",
-    "link": "https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html",
-    "published": "Thu, 24 Sep 2026 16:30:00 +0530",
-    "summary": "AI coding agents are changing how quickly developers can build and ship software as well as how quickly credentials can become exposed. According to GitGuardian’s 2026 State of Secrets Sprawl Report, commits identified as AI-assisted are leaking secrets at approximately twice the rate of human-written ones. Most of the fastest-growing categories of leaked credentials are now connected to AI",
+    "source": "Bleeping Computer",
+    "title": "Microsoft plans to deprecate Windows Deployment Services",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/",
+    "published": "Fri, 25 Sep 2026 08:40:59 -0400",
+    "summary": "Microsoft announced it will deprecate the Windows Deployment Services (WDS) server role starting with the next Windows Server release. [...]",
     "analysis": {
-      "issue": "AI coding agents are accelerating secrets sprawl",
+      "issue": "Microsoft announced it will deprecate the Windows Deployment Services (WDS) server role starting with the next Windows Server release",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -108,31 +200,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360",
-    "link": "https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html",
-    "published": "Thu, 24 Sep 2026 14:44:21 +0530",
-    "summary": "ClickFix has become the most common way attackers get into enterprise networks, and it does it without an exploit, an attachment, or a file on disk. Our new global threat report traces the technique from a novelty in late 2023 to a subscription product with on-chain infrastructure and a state-sponsored user base, and explains why blocking malicious domains is no longer a useful defense.\n\nRead",
+    "source": "Bleeping Computer",
+    "title": "Rydox marketplace admin pleads guilty, faces 22 years in prison",
+    "link": "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/",
+    "published": "Fri, 25 Sep 2026 07:35:14 -0400",
+    "summary": "A Kosovar national has pleaded guilty to operating Rydox, a large illegal online marketplace that sold stolen personal information, login credentials, credit card details, and cybercrime tools. [...]",
     "analysis": {
-      "issue": "ClickFix accounted for 47% of Microsoft Defender Experts initial-access cases in 2025, while a Polygon contract rotated lure hosts",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
-    "link": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
-    "published": "Thu, 24 Sep 2026 12:37:25 +0530",
-    "summary": "An AI agent on an internal OpenAI research task bypassed access controls on an Australian government Medicare statistics portal in June, Prime Minister&nbsp;Anthony Albanese said.\n\nThe portal publishes aggregate figures, such as spending, and is separate from the systems that handle Medicare claims and personal records. The agent reached files on it that were not public, but no personal",
-    "analysis": {
-      "issue": "An OpenAI AI agent bypassed controls on Australia's Medicare statistics portal and accessed non-public files; no patient records were found",
+      "issue": "A Kosovar national has pleaded guilty to operating Rydox, a large illegal online marketplace that sold stolen personal information, login credentials, credit card details, and cybercrime tools",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -144,13 +218,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords",
-    "link": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
-    "published": "Thu, 24 Sep 2026 12:02:03 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of an active TeamFiltration campaign codenamed UNK_CondorFiltration that has targeted over 5,700 accounts across 28 Microsoft 365 tenants.\n\nAccording to Proofpoint, the activity has primarily focused on Chilean retail and financial institutions. It originated from 1,487 unique AWS EC2 source IP addresses.\n\n\"The campaign compromised 7 accounts –",
+    "source": "Bleeping Computer",
+    "title": "Microsoft: Recent Windows updates cause desktop loading issues",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/",
+    "published": "Fri, 25 Sep 2026 06:30:38 -0400",
+    "summary": "Microsoft has confirmed that some users may experience desktop loading issues, including black screens, after installing the August 2026 preview updates and subsequent updates. [...]",
     "analysis": {
-      "issue": "TeamFiltration targeted over 5,700 Microsoft 365 accounts across 28 tenants, compromising seven service accounts with default passwords",
+      "issue": "Microsoft has confirmed that some users may experience desktop loading issues, including black screens, after installing the August 2026 preview updates and subsequent updates",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -162,22 +236,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
-    "link": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
-    "published": "Thu, 24 Sep 2026 11:06:18 +0530",
-    "summary": "Threat actors have begun to actively exploit a critical security flaw in WordPress within hours of public disclosure.\n\nThe vulnerability in question is CVE-2026-87902 (CVSS score: 9.2), which could allow an unauthenticated attacker to obtain remote code execution (RCE).\n\n\"An unauthenticated attacker can make get_page_template() page-template resolution include a chosen readable local .php file",
+    "source": "Bleeping Computer",
+    "title": "Hackers steal $351.6 million in Bitget crypto exchange hack",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/",
+    "published": "Fri, 25 Sep 2026 04:33:44 -0400",
+    "summary": "​Cryptocurrency exchange Bitget disclosed today that suspected North Korean hackers have stolen $351.6 million from its hot and warm wallets. [...]",
     "analysis": {
-      "issue": "Attackers are exploiting WordPress CVE-2026-87902 to include pearcmd",
+      "issue": "​Cryptocurrency exchange Bitget disclosed today that suspected North Korean hackers have stolen $351",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-87902"
-      ],
+      "severity": "High",
+      "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "General Security"
       ]
     }
   },
@@ -292,82 +364,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "CISA: Ransomware gangs now exploiting critical TeamCity flaw",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/",
-    "published": "Thu, 24 Sep 2026 06:42:37 -0400",
-    "summary": "​The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies on Wednesday that ransomware gangs are now also exploiting a critical JetBrains TeamCity vulnerability patched in July. [...]",
-    "analysis": {
-      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies on Wednesday that ransomware gangs are now also exploiting a critical JetBrains TeamCity vulnerability patched in July",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-63077"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "OpenAI hacked Australian Medicare govt site, probed data providers",
-    "link": "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/",
-    "published": "Thu, 24 Sep 2026 05:38:53 -0400",
-    "summary": "OpenAI agents targeted public data providers in multiple countries, probing some for vulnerabilities and exploiting a security weakness in an Australian government portal while performing information-retrieval tasks as part of a research project. [...]",
-    "analysis": {
-      "issue": "OpenAI agents targeted public data providers in multiple countries, probing some for vulnerabilities and exploiting a security weakness in an Australian government portal while performing information-retrieval tasks as part of a research project",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft fixes bug that broke Windows File History backup feature",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/",
-    "published": "Thu, 24 Sep 2026 04:14:47 -0400",
-    "summary": "Microsoft has fixed a known issue that breaks the built-in File History backup feature on some Windows systems after installing the September 2026 security updates. [...]",
-    "analysis": {
-      "issue": "Microsoft has fixed a known issue that breaks the built-in File History backup feature on some Windows systems after installing the September 2026 security updates",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Placeholder domain used in dev docs now serves ClickFix attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/",
-    "published": "Wed, 23 Sep 2026 18:46:01 -0400",
-    "summary": "The \"third-party.com\" domain, commonly used as a placeholder in developer documentation and code examples, is serving a fake Cloudflare verification page that attempts to trick Windows users into executing PowerShell commands. [...]",
-    "analysis": {
-      "issue": "com\" domain, commonly used as a placeholder in developer documentation and code examples, is serving a fake Cloudflare verification page that attempts to trick Windows users into executing PowerShell commands",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "APT",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Data Broker Radaris Loses Domains in Privacy Fight",
     "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
@@ -398,9 +394,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69829",
-        "CVE-2026-85880",
         "CVE-2026-69730",
+        "CVE-2026-85880",
+        "CVE-2026-69829",
         "CVE-2026-81963"
       ],
       "threat_categories": [
@@ -479,8 +475,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-68820",
-        "CVE-2026-62832",
-        "CVE-2026-72971"
+        "CVE-2026-72971",
+        "CVE-2026-62832"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -557,14 +553,117 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-56155",
-        "CVE-2026-50661",
         "CVE-2026-48561",
-        "CVE-2026-56164"
+        "CVE-2026-56164",
+        "CVE-2026-56155",
+        "CVE-2026-50661"
       ],
       "threat_categories": [
         "Vulnerability",
         "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "CISA Election Security Plan Flags Patching Barriers, Voter Database Attacks",
+    "link": "https://www.securityweek.com/cisa-election-security-plan-flags-patching-barriers-voter-database-attacks/",
+    "published": "Fri, 25 Sep 2026 12:39:12 +0000",
+    "summary": "<p>Homeland Security Secretary Markwayne Mullin tasked CISA with developing the plan in July. </p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-election-security-plan-flags-patching-barriers-voter-database-attacks/\">CISA Election Security Plan Flags Patching Barriers, Voter Database Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Homeland Security Secretary Markwayne Mullin tasked CISA with developing the plan in July",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Kosovar Owner of Rydox Marketplace Pleads Guilty in US Court",
+    "link": "https://www.securityweek.com/kosovar-owner-of-rydox-marketplace-pleads-guilty-in-us-court/",
+    "published": "Fri, 25 Sep 2026 12:16:27 +0000",
+    "summary": "<p>Ardit Kutleshi created and operated Rydox, which allowed miscreants to trade PII and cybercrime tools and services.</p>\n<p>The post <a href=\"https://www.securityweek.com/kosovar-owner-of-rydox-marketplace-pleads-guilty-in-us-court/\">Kosovar Owner of Rydox Marketplace Pleads Guilty in US Court</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Ardit Kutleshi created and operated Rydox, which allowed miscreants to trade PII and cybercrime tools and services",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Phishing",
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Windows, Linux, Android File Notification Systems Leak User Activity",
+    "link": "https://www.securityweek.com/windows-linux-android-file-notification-systems-leak-user-activity/",
+    "published": "Fri, 25 Sep 2026 10:53:32 +0000",
+    "summary": "<p>Researchers show that file-change notification systems can leak keystroke timing, browsing activity, and WhatsApp media events.</p>\n<p>The post <a href=\"https://www.securityweek.com/windows-linux-android-file-notification-systems-leak-user-activity/\">Windows, Linux, Android File Notification Systems Leak User Activity</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Researchers show that file-change notification systems can leak keystroke timing, browsing activity, and WhatsApp media events",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2025-68788"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "‘SalesBleed’ Flaws in Salesforce Agentforce Enabled Zero-Click Data Exfiltration",
+    "link": "https://www.securityweek.com/salesbleed-flaws-in-salesforce-agentforce-enabled-zero-click-data-exfiltration/",
+    "published": "Fri, 25 Sep 2026 09:27:51 +0000",
+    "summary": "<p>Three vulnerabilities in Salesforce Agentforce allowed hackers to hijack trusted agents, steal data, and launch phishing attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/salesbleed-flaws-in-salesforce-agentforce-enabled-zero-click-data-exfiltration/\">&#8216;SalesBleed&#8217; Flaws in Salesforce Agentforce Enabled Zero-Click Data Exfiltration</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Three vulnerabilities in Salesforce Agentforce allowed hackers to hijack trusted agents, steal data, and launch phishing attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Roundcube Webmail Vulnerability in Attackers’ Crosshairs",
+    "link": "https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/",
+    "published": "Fri, 25 Sep 2026 06:57:40 +0000",
+    "summary": "<p>Tracked as CVE-2026-48842, the exploited bug is an SQL injection that can be exploited without authentication.</p>\n<p>The post <a href=\"https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/\">Roundcube Webmail Vulnerability in Attackers’ Crosshairs</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Tracked as CVE-2026-48842, the exploited bug is an SQL injection that can be exploited without authentication",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2024-37383",
+        "CVE-2025-68461",
+        "CVE-2026-48842",
+        "CVE-2025-49113"
+      ],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -657,103 +756,6 @@
       "cves": [],
       "threat_categories": [
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "OT Security Guidance: NIST Drafts Updated Guide, CISA/FBI Advise on ICS Integrators",
-    "link": "https://www.securityweek.com/ot-security-guidance-nist-drafts-updated-guide-cisa-fbi-advise-on-ics-integrators/",
-    "published": "Thu, 24 Sep 2026 11:05:16 +0000",
-    "summary": "<p>Revision 4 of NIST’s operational technology security guide is open for public comments until November 30.</p>\n<p>The post <a href=\"https://www.securityweek.com/ot-security-guidance-nist-drafts-updated-guide-cisa-fbi-advise-on-ics-integrators/\">OT Security Guidance: NIST Drafts Updated Guide, CISA/FBI Advise on ICS Integrators</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Revision 4 of NIST’s operational technology security guide is open for public comments until November 30",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Begin at the End: How to Enable Agentic Remediation",
-    "link": "https://www.securityweek.com/begin-at-the-end-how-to-enable-agentic-remediation/",
-    "published": "Thu, 24 Sep 2026 11:00:00 +0000",
-    "summary": "<p>Agentic remediation is not an act of faith. We are talking about fixing known problems, not judgment calls about unfamiliar risk. </p>\n<p>The post <a href=\"https://www.securityweek.com/begin-at-the-end-how-to-enable-agentic-remediation/\">Begin at the End: How to Enable Agentic Remediation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Agentic remediation is not an act of faith",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "SolarWinds Patches Critical RCE Flaws in Observability Self-Hosted",
-    "link": "https://www.securityweek.com/solarwinds-patches-critical-rce-flaws-in-observability-self-hosted/",
-    "published": "Thu, 24 Sep 2026 10:40:40 +0000",
-    "summary": "<p>The vulnerabilities, tracked as CVE-2026-28324 and CVE-2026-28325, can be exploited without authentication.</p>\n<p>The post <a href=\"https://www.securityweek.com/solarwinds-patches-critical-rce-flaws-in-observability-self-hosted/\">SolarWinds Patches Critical RCE Flaws in Observability Self-Hosted</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The vulnerabilities, tracked as CVE-2026-28324 and CVE-2026-28325, can be exploited without authentication",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-28326",
-        "CVE-2026-28325",
-        "CVE-2026-28324"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Astrana Health Data Breach Impacts Private, Confidential Information",
-    "link": "https://www.securityweek.com/astrana-health-data-breach-impacts-private-confidential-information/",
-    "published": "Thu, 24 Sep 2026 09:56:04 +0000",
-    "summary": "<p>Hackers impersonated the company’s personnel and contacted its employees to gain access to Astrana Health’s servers.</p>\n<p>The post <a href=\"https://www.securityweek.com/astrana-health-data-breach-impacts-private-confidential-information/\">Astrana Health Data Breach Impacts Private, Confidential Information</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Hackers impersonated the company’s personnel and contacted its employees to gain access to Astrana Health’s servers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "US Court Sentences Armenian Man to Prison for Ryuk Ransomware Attacks",
-    "link": "https://www.securityweek.com/us-court-sentences-armenian-man-to-prison-for-ryuk-ransomware-attacks/",
-    "published": "Thu, 24 Sep 2026 08:38:29 +0000",
-    "summary": "<p>Karen Vardanyan has also been ordered to pay over $1.2 million in restitution to victims.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-court-sentences-armenian-man-to-prison-for-ryuk-ransomware-attacks/\">US Court Sentences Armenian Man to Prison for Ryuk Ransomware Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Karen Vardanyan has also been ordered to pay over $1",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Malware"
       ]
     }
   },
@@ -924,9 +926,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69676",
         "CVE-2026-85880",
         "CVE-2026-81963",
+        "CVE-2026-69676",
         "CVE-2026-69852"
       ],
       "threat_categories": [
@@ -1302,8 +1304,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1328,6 +1330,44 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Criminals turn placeholder domain into ClickFix trap",
+    "link": "https://www.malwarebytes.com/blog/news/2026/09/criminals-turn-placeholder-domain-into-clickfix-trap",
+    "published": "Fri, 25 Sep 2026 12:42:11 GMT",
+    "summary": "A domain used in software examples—third-party[.]com—now serves up a fake verification page that tells Windows users to run a PowerShell command.",
+    "analysis": {
+      "issue": "A domain that has long appeared in software documentation, code examples, and developer test material is now being used to push a ClickFix attack against Windows users",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "APT",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "That shipping rebate offer may come with a monthly charge",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/09/that-shipping-rebate-offer-may-come-with-a-monthly-charge",
+    "published": "Fri, 25 Sep 2026 09:51:26 GMT",
+    "summary": "Customers say they signed up for shipping rebates, then found recurring charges they didn’t expect.",
+    "analysis": {
+      "issue": "Thanks to Malwarebytes research engineer Stefan Dasic for his help with this article",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
       ]
     }
   },
@@ -1473,44 +1513,6 @@
       "cves": [],
       "threat_categories": [
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Meta’s Muse AI assistant has a zero-day that can turn it into a Mac backdoor",
-    "link": "https://www.malwarebytes.com/blog/bugs/2026/09/metas-muse-ai-assistant-has-a-zero-day-that-can-turn-it-into-a-mac-backdoor",
-    "published": "Tue, 22 Sep 2026 10:53:06 GMT",
-    "summary": "A simple terminal command can hijack Muse and use its extensive permissions to spy on Mac users and control their connected accounts.",
-    "analysis": {
-      "issue": "Mac security researcher Patrick Wardle says it’s trivial to turn Muse into “the ultimate backdoor",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Researchers used Claude to hack OpenAI",
-    "link": "https://www.malwarebytes.com/blog/news/2026/09/researchers-used-claude-to-hack-openai",
-    "published": "Tue, 22 Sep 2026 09:51:02 GMT",
-    "summary": "Claude helped researchers break into OpenAI in under 72 hours, and exposed how quickly AI is lowering the bar for sophisticated hacking.",
-    "analysis": {
-      "issue": "We’ve heard of OpenAI’s AI agents running amok and hacking other companies",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
