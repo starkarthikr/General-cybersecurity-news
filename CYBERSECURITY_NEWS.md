@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-25 16:57:09 UTC
+**Last Updated:** 2026-09-25 20:05:36 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,26 @@
 
 ---
 
-### 11. [Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/)
+### 11. [Elementor WordPress flaw lets attackers create admin accounts](https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 25 Sep 2026 14:13:33 -0400  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 25 Sep 2026 13:24:20 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-67279, CVE-2026-5430, CVE-2026-65660, CVE-2026-71362  
+**Categories:** Vulnerability  
+
+---
+
+### 13. [Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 25 Sep 2026 12:00:00 -0400  
@@ -104,7 +123,7 @@
 
 ---
 
-### 12. [OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/)
+### 14. [OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 25 Sep 2026 10:54:33 -0400  
@@ -113,7 +132,7 @@
 
 ---
 
-### 13. [With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance](https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/)
+### 15. [With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance](https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 25 Sep 2026 10:51:10 -0400  
@@ -122,7 +141,7 @@
 
 ---
 
-### 14. [Microsoft plans to deprecate Windows Deployment Services](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/)
+### 16. [Microsoft plans to deprecate Windows Deployment Services](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 25 Sep 2026 08:40:59 -0400  
@@ -131,7 +150,7 @@
 
 ---
 
-### 15. [Rydox marketplace admin pleads guilty, faces 22 years in prison](https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/)
+### 17. [Rydox marketplace admin pleads guilty, faces 22 years in prison](https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 25 Sep 2026 07:35:14 -0400  
@@ -140,7 +159,7 @@
 
 ---
 
-### 16. [Microsoft: Recent Windows updates cause desktop loading issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/)
+### 18. [Microsoft: Recent Windows updates cause desktop loading issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 25 Sep 2026 06:30:38 -0400  
@@ -149,7 +168,7 @@
 
 ---
 
-### 17. [Hackers steal $351.6 million in Bitget crypto exchange hack](https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/)
+### 19. [Hackers steal $351.6 million in Bitget crypto exchange hack](https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 25 Sep 2026 04:33:44 -0400  
@@ -158,30 +177,12 @@
 
 ---
 
-### 18. [MacSync malware uses public iCloud calendars to deliver new payloads](https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/)
+### 20. [MacSync malware uses public iCloud calendars to deliver new payloads](https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 24 Sep 2026 16:53:35 -0400  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 19. [New Carbonato malware uses AI agents to hijack exposed Docker hosts](https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 24 Sep 2026 16:10:48 -0400  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 20. [Exposed GitLab project email addresses let attackers push code](https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 24 Sep 2026 13:47:44 -0400  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -199,7 +200,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-85880, CVE-2026-69829, CVE-2026-81963, CVE-2026-69730  
+**CVEs:** CVE-2026-81963, CVE-2026-85880, CVE-2026-69829, CVE-2026-69730  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -236,7 +237,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-68820, CVE-2026-72971, CVE-2026-62832  
+**CVEs:** CVE-2026-72971, CVE-2026-62832, CVE-2026-68820  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -273,7 +274,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Jul 2026 19:22:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-56155, CVE-2026-50661, CVE-2026-48561, CVE-2026-56164  
+**CVEs:** CVE-2026-56164, CVE-2026-48561, CVE-2026-50661, CVE-2026-56155  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -339,7 +340,7 @@
 **Source:** Security Week  
 **Published:** Fri, 25 Sep 2026 06:57:40 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2024-37383, CVE-2026-48842, CVE-2025-49113, CVE-2025-68461  
+**CVEs:** CVE-2025-68461, CVE-2026-48842, CVE-2025-49113, CVE-2024-37383  
 **Categories:** Vulnerability  
 
 ---
@@ -449,7 +450,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 08 Sep 2026 22:16:35 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69676, CVE-2026-85880, CVE-2026-69852, CVE-2026-81963  
+**CVEs:** CVE-2026-81963, CVE-2026-85880, CVE-2026-69852, CVE-2026-69676  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -633,7 +634,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
