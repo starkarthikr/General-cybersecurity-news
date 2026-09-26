@@ -1,6 +1,44 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
+    "link": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
+    "published": "Sat, 26 Sep 2026 17:16:40 +0530",
+    "summary": "Google is warning of renewed mass exploitation of a known security vulnerability in Oracle PeopleSoft as part of a campaign targeting multiple sectors globally.\n\nThe ShinyHunters-linked activity involves the weaponization of CVE-2026-35273 (CVSS score: 9.8), a critical security flaw that could result in unauthenticated remote code execution.\n\nThe vulnerability was first exploited as a zero-day",
+    "analysis": {
+      "issue": "ShinyHunters-linked attackers exploit CVE-2026-35273 in Oracle PeopleSoft, bypassing WAF rules to deploy web shells on dozens of systems",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-35273"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Zero Trust for AI Agents Starts With Fixing Zero Visibility",
+    "link": "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html",
+    "published": "Sat, 26 Sep 2026 16:00:00 +0530",
+    "summary": "The way we talk about AI agents is shifting, and the way we implement them requires an even more fundamental shift. While earlier discourse focused on how quickly organizations could stand up agents and how much productivity they could promise, a string of recent incidents, including a widely discussed intrusion at Hugging Face during an evaluation of OpenAI agents, has spurred organizations to",
+    "analysis": {
+      "issue": "METR says an attacker bypassed authentication on an agentic app, obtained an API key, and used $600,000 in tokens over three weeks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
     "link": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
     "published": "Sat, 26 Sep 2026 15:25:22 +0530",
@@ -146,13 +184,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data",
-    "link": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html",
-    "published": "Fri, 25 Sep 2026 10:19:22 +0530",
-    "summary": "A flaw in Cloudflare Containers let a paying customer read data that other customers' containers had left behind on the same server, Cloudflare and the researchers who found it said on Thursday.\n\nThe data came from disk space that earlier containers had used and given up, not from any live workload, and an attacker could not choose whose data they got,&nbsp;according to Cloudflare. The company",
+    "source": "Bleeping Computer",
+    "title": "Microsoft pauses KB5002907 update after Office license deactivations",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/",
+    "published": "Sat, 26 Sep 2026 11:50:38 -0400",
+    "summary": "Microsoft has paused the rollout of the KB5002907 Microsoft 365 update after users report that it deactivated, or in some cases completely removed, perpetual Office 2016 and Office 2019 installations. [...]",
     "analysis": {
-      "issue": "Cloudflare fixed a Containers flaw that let customers read leftover disk data from other accounts' deleted containers on shared servers",
+      "issue": "Microsoft has paused the rollout of the KB5002907 Microsoft 365 update after users report that it deactivated, or in some cases completely removed, perpetual Office 2016 and Office 2019 installations",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -164,20 +202,21 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV",
-    "link": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html",
-    "published": "Fri, 25 Sep 2026 10:16:34 +0530",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added two critical security flaws impacting WSO2 and Adobe Commerce and Magento to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\n\nThe vulnerabilities are listed below -\n\n\n  CVE-2026-5430 (CVS score: 9.8) - A path traversal vulnerability in&nbsp; WSO2 API Control Plane,",
+    "source": "Bleeping Computer",
+    "title": "GitHub Actions re-enabled with Mini Shai-Hulud payload still active",
+    "link": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/",
+    "published": "Sat, 26 Sep 2026 10:19:46 -0400",
+    "summary": "Two third-party GitHub Actions previously compromised in a Mini Shai-Hulud campaign were re-enabled by their maintainer and remained accessible for more than a week despite still pointing to malicious code. [...]",
     "analysis": {
-      "issue": "CISA adds exploited WSO2 and Adobe Commerce flaws to KEV, with federal agencies told to apply fixes by September 27, 2026",
+      "issue": "Two third-party GitHub Actions previously compromised in a Mini Shai-Hulud campaign were re-enabled by their maintainer and remained accessible for more than a week despite still pointing to malicious code",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "Malware",
+        "Supply Chain"
       ]
     }
   },
@@ -268,8 +307,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-67279",
-        "CVE-2026-5430",
         "CVE-2026-71362",
+        "CVE-2026-5430",
         "CVE-2026-65660"
       ],
       "threat_categories": [
@@ -332,42 +371,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Microsoft plans to deprecate Windows Deployment Services",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/",
-    "published": "Fri, 25 Sep 2026 08:40:59 -0400",
-    "summary": "Microsoft announced it will deprecate the Windows Deployment Services (WDS) server role starting with the next Windows Server release. [...]",
-    "analysis": {
-      "issue": "Microsoft announced it will deprecate the Windows Deployment Services (WDS) server role starting with the next Windows Server release",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Rydox marketplace admin pleads guilty, faces 22 years in prison",
-    "link": "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/",
-    "published": "Fri, 25 Sep 2026 07:35:14 -0400",
-    "summary": "A Kosovar national has pleaded guilty to operating Rydox, a large illegal online marketplace that sold stolen personal information, login credentials, credit card details, and cybercrime tools. [...]",
-    "analysis": {
-      "issue": "A Kosovar national has pleaded guilty to operating Rydox, a large illegal online marketplace that sold stolen personal information, login credentials, credit card details, and cybercrime tools",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
     "link": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
@@ -418,10 +421,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-85880",
+        "CVE-2026-81963",
         "CVE-2026-69730",
         "CVE-2026-69829",
-        "CVE-2026-81963"
+        "CVE-2026-85880"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -739,10 +742,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-48842",
         "CVE-2024-37383",
-        "CVE-2025-68461",
-        "CVE-2025-49113"
+        "CVE-2025-49113",
+        "CVE-2026-48842",
+        "CVE-2025-68461"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -934,10 +937,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-85880",
+        "CVE-2026-81963",
         "CVE-2026-69676",
         "CVE-2026-69852",
-        "CVE-2026-81963"
+        "CVE-2026-85880"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1312,8 +1315,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
