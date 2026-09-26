@@ -183,6 +183,43 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/",
+    "published": "Fri, 25 Sep 2026 17:41:07 -0400",
+    "summary": "Secure file-sharing software company Kiteworks is urging customers worldwide to temporarily shut down their servers on Saturday for a six-hour window after receiving threat intelligence warning of a potentially imminent cyberattack. [...]",
+    "analysis": {
+      "issue": "Secure file-sharing software company Kiteworks is urging customers worldwide to temporarily shut down their servers on Saturday for a six-hour window after receiving threat intelligence warning of a potentially imminent cyberattack",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/",
+    "published": "Fri, 25 Sep 2026 16:57:55 -0400",
+    "summary": "The Clop ransomware gang has moved its data leak site to a new Tor address after confirming its previous server was compromised and defaced through an unpatched Grav CMS flaw that BleepingComputer has learned is an unauthenticated path traversal vulnerability. [...]",
+    "analysis": {
+      "issue": "The Clop ransomware gang has moved its data leak site to a new Tor address after confirming its previous server was compromised and defaced through an unpatched Grav CMS flaw that BleepingComputer has learned is an unauthenticated path traversal vuln",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Elementor WordPress flaw lets attackers create admin accounts",
     "link": "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/",
     "published": "Fri, 25 Sep 2026 14:13:33 -0400",
@@ -212,10 +249,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-67279",
-        "CVE-2026-5430",
         "CVE-2026-65660",
-        "CVE-2026-71362"
+        "CVE-2026-71362",
+        "CVE-2026-67279",
+        "CVE-2026-5430"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -331,38 +368,22 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Hackers steal $351.6 million in Bitget crypto exchange hack",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/",
-    "published": "Fri, 25 Sep 2026 04:33:44 -0400",
-    "summary": "​Cryptocurrency exchange Bitget disclosed today that suspected North Korean hackers have stolen $351.6 million from its hot and warm wallets. [...]",
+    "source": "Krebs On Security",
+    "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
+    "link": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
+    "published": "Fri, 25 Sep 2026 21:44:40 +0000",
+    "summary": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&#038;T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims.",
     "analysis": {
-      "issue": "​Cryptocurrency exchange Bitget disclosed today that suspected North Korean hackers have stolen $351",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
-    "link": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
-    "published": "Thu, 24 Sep 2026 16:53:35 -0400",
-    "summary": "A new variant of the MacSync malware targeting macOS systems now uses public iCloud calendar events to deliver new native payloads. [...]",
-    "analysis": {
-      "issue": "A new variant of the MacSync info-stealing malware targeting macOS systems now uses public iCloud calendar events to deliver fresh payloads",
+      "issue": "Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay ne",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "Data Breach",
+        "Malware",
+        "DDoS"
       ]
     }
   },
@@ -397,10 +418,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-81963",
         "CVE-2026-85880",
-        "CVE-2026-69829",
-        "CVE-2026-69730"
+        "CVE-2026-69730",
+        "CVE-2026-81963",
+        "CVE-2026-69829"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -477,9 +498,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-72971",
+        "CVE-2026-68820",
         "CVE-2026-62832",
-        "CVE-2026-68820"
+        "CVE-2026-72971"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -540,30 +561,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Microsoft Patches a Record 570 Security Flaws",
-    "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
-    "published": "Tue, 14 Jul 2026 19:22:42 +0000",
-    "summary": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning patch counts to vulnerability discoveries aided by artificial intelligence.",
-    "analysis": {
-      "issue": "today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-56164",
-        "CVE-2026-48561",
-        "CVE-2026-50661",
-        "CVE-2026-56155"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
       ]
     }
   },
@@ -703,10 +700,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2024-37383",
         "CVE-2025-68461",
         "CVE-2026-48842",
-        "CVE-2025-49113",
-        "CVE-2024-37383"
+        "CVE-2025-49113"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -911,8 +908,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20079",
-        "CVE-2026-20316"
+        "CVE-2026-20316",
+        "CVE-2026-20079"
       ],
       "threat_categories": [
         "Ransomware",
@@ -935,10 +932,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-81963",
         "CVE-2026-85880",
-        "CVE-2026-69852",
-        "CVE-2026-69676"
+        "CVE-2026-81963",
+        "CVE-2026-69676",
+        "CVE-2026-69852"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -961,6 +958,24 @@
       "cves": [],
       "threat_categories": [
         "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "Using Threat Intelligence to Stop Ransomware Attacks",
+    "link": "https://www.recordedfuture.com/blog/ransomware-threat-intelligence",
+    "published": "Fri, 25 Sep 2026 00:00:00 GMT",
+    "summary": "Learn how ransomware threat intelligence empowers your team to actively follow adversary infrastructure, monitor dark web chatter and prevent attacks.",
+    "analysis": {
+      "issue": "Learn how ransomware threat intelligence empowers your team to actively follow adversary infrastructure, monitor dark web chatter and prevent attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
       ]
     }
   },
@@ -1122,24 +1137,6 @@
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "August 2026 CVE Landscape",
-    "link": "https://www.recordedfuture.com/blog/august-2026-cve-landscape",
-    "published": "Tue, 08 Sep 2026 00:00:00 GMT",
-    "summary": "In August 2026, Insikt Group® identified 73 high-impact vulnerabilities that should be prioritized for remediation, 43 of which had a Very Critical Recorded Future Risk Score. This represents a 14% decrease from last month.",
-    "analysis": {
-      "issue": "In August 2026, Insikt Group® identified 73 high-impact vulnerabilities that should be prioritized for remediation, 43 of which had a Very Critical Recorded Future Risk Score",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
       "cves": [],
       "threat_categories": [
         "General Security"

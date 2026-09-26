@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-25 20:05:36 UTC
+**Last Updated:** 2026-09-26 04:27:15 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,25 @@
 
 ---
 
-### 11. [Elementor WordPress flaw lets attackers create admin accounts](https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/)
+### 11. [Kiteworks urges 6-hour server shutdown over potential zero-day attacks](https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 25 Sep 2026 17:41:07 -0400  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw](https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 25 Sep 2026 16:57:55 -0400  
+**Severity:** Low  
+**Categories:** Ransomware, Vulnerability  
+
+---
+
+### 13. [Elementor WordPress flaw lets attackers create admin accounts](https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 25 Sep 2026 14:13:33 -0400  
@@ -104,17 +122,17 @@
 
 ---
 
-### 12. [CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/)
+### 14. [CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 25 Sep 2026 13:24:20 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-67279, CVE-2026-5430, CVE-2026-65660, CVE-2026-71362  
+**CVEs:** CVE-2026-65660, CVE-2026-71362, CVE-2026-67279, CVE-2026-5430  
 **Categories:** Vulnerability  
 
 ---
 
-### 13. [Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/)
+### 15. [Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 25 Sep 2026 12:00:00 -0400  
@@ -123,7 +141,7 @@
 
 ---
 
-### 14. [OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/)
+### 16. [OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 25 Sep 2026 10:54:33 -0400  
@@ -132,7 +150,7 @@
 
 ---
 
-### 15. [With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance](https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/)
+### 17. [With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance](https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 25 Sep 2026 10:51:10 -0400  
@@ -141,7 +159,7 @@
 
 ---
 
-### 16. [Microsoft plans to deprecate Windows Deployment Services](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/)
+### 18. [Microsoft plans to deprecate Windows Deployment Services](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 25 Sep 2026 08:40:59 -0400  
@@ -150,7 +168,7 @@
 
 ---
 
-### 17. [Rydox marketplace admin pleads guilty, faces 22 years in prison](https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/)
+### 19. [Rydox marketplace admin pleads guilty, faces 22 years in prison](https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 25 Sep 2026 07:35:14 -0400  
@@ -159,7 +177,7 @@
 
 ---
 
-### 18. [Microsoft: Recent Windows updates cause desktop loading issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/)
+### 20. [Microsoft: Recent Windows updates cause desktop loading issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 25 Sep 2026 06:30:38 -0400  
@@ -168,25 +186,16 @@
 
 ---
 
-### 19. [Hackers steal $351.6 million in Bitget crypto exchange hack](https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/)
+### 21. [U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions](https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/)
 
-**Source:** Bleeping Computer  
-**Published:** Fri, 25 Sep 2026 04:33:44 -0400  
-**Severity:** High  
-**Categories:** General Security  
-
----
-
-### 20. [MacSync malware uses public iCloud calendars to deliver new payloads](https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 24 Sep 2026 16:53:35 -0400  
+**Source:** Krebs On Security  
+**Published:** Fri, 25 Sep 2026 21:44:40 +0000  
 **Severity:** Low  
-**Categories:** Malware  
+**Categories:** Data Breach, Malware, DDoS  
 
 ---
 
-### 21. [Data Broker Radaris Loses Domains in Privacy Fight](https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/)
+### 22. [Data Broker Radaris Loses Domains in Privacy Fight](https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 16 Sep 2026 18:14:22 +0000  
@@ -195,17 +204,17 @@
 
 ---
 
-### 22. [Microsoft Plugs Nearly 1,000 Security Holes](https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/)
+### 23. [Microsoft Plugs Nearly 1,000 Security Holes](https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81963, CVE-2026-85880, CVE-2026-69829, CVE-2026-69730  
+**CVEs:** CVE-2026-85880, CVE-2026-69730, CVE-2026-81963, CVE-2026-69829  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 23. [FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/)
+### 24. [FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 01 Sep 2026 22:40:28 +0000  
@@ -214,7 +223,7 @@
 
 ---
 
-### 24. [Two Alleged ‘TeamPCP’ Hackers Arrested in Australia](https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/)
+### 25. [Two Alleged ‘TeamPCP’ Hackers Arrested in Australia](https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 27 Aug 2026 11:04:15 +0000  
@@ -223,7 +232,7 @@
 
 ---
 
-### 25. [Who’s Tracking You? Use This New Service to Find Out](https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/)
+### 26. [Who’s Tracking You? Use This New Service to Find Out](https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/)
 
 **Source:** Krebs On Security  
 **Published:** Fri, 14 Aug 2026 11:24:35 +0000  
@@ -232,17 +241,17 @@
 
 ---
 
-### 26. [Microsoft Plugs Nearly 400 Security Holes](https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/)
+### 27. [Microsoft Plugs Nearly 400 Security Holes](https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-72971, CVE-2026-62832, CVE-2026-68820  
+**CVEs:** CVE-2026-68820, CVE-2026-62832, CVE-2026-72971  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 27. [Canadian Man Pleads Guilty in Snowflake Extortions](https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/)
+### 28. [Canadian Man Pleads Guilty in Snowflake Extortions](https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 06 Aug 2026 17:00:56 +0000  
@@ -251,7 +260,7 @@
 
 ---
 
-### 28. [Read This Before You Buy That TV Streaming Stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/)
+### 29. [Read This Before You Buy That TV Streaming Stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 30 Jul 2026 16:49:00 +0000  
@@ -260,22 +269,12 @@
 
 ---
 
-### 29. [LG to Ban Residential Proxies from Smart TV Apps](https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/)
+### 30. [LG to Ban Residential Proxies from Smart TV Apps](https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 22 Jul 2026 01:10:38 +0000  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 30. [Microsoft Patches a Record 570 Security Flaws](https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/)
-
-**Source:** Krebs On Security  
-**Published:** Tue, 14 Jul 2026 19:22:42 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-56164, CVE-2026-48561, CVE-2026-50661, CVE-2026-56155  
-**Categories:** Vulnerability, Malware  
 
 ---
 
@@ -340,7 +339,7 @@
 **Source:** Security Week  
 **Published:** Fri, 25 Sep 2026 06:57:40 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-68461, CVE-2026-48842, CVE-2025-49113, CVE-2024-37383  
+**CVEs:** CVE-2024-37383, CVE-2025-68461, CVE-2026-48842, CVE-2025-49113  
 **Categories:** Vulnerability  
 
 ---
@@ -440,7 +439,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 09 Sep 2026 16:08:59 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20079, CVE-2026-20316  
+**CVEs:** CVE-2026-20316, CVE-2026-20079  
 **Categories:** Ransomware, Vulnerability, Malware, APT  
 
 ---
@@ -450,7 +449,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 08 Sep 2026 22:16:35 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81963, CVE-2026-85880, CVE-2026-69852, CVE-2026-69676  
+**CVEs:** CVE-2026-85880, CVE-2026-81963, CVE-2026-69676, CVE-2026-69852  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -464,7 +463,16 @@
 
 ---
 
-### 51. [Russia Escalating Hybrid Attacks Across Europe](https://www.recordedfuture.com/blog/russia-new-generation-warfare)
+### 51. [Using Threat Intelligence to Stop Ransomware Attacks](https://www.recordedfuture.com/blog/ransomware-threat-intelligence)
+
+**Source:** Recorded Future  
+**Published:** Fri, 25 Sep 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** Ransomware  
+
+---
+
+### 52. [Russia Escalating Hybrid Attacks Across Europe](https://www.recordedfuture.com/blog/russia-new-generation-warfare)
 
 **Source:** Recorded Future  
 **Published:** Thu, 24 Sep 2026 00:00:00 GMT  
@@ -473,7 +481,7 @@
 
 ---
 
-### 52. [The Lure Isn't The Malware. It's Your Logo.](https://www.recordedfuture.com/blog/your-logo-is-the-lure)
+### 53. [The Lure Isn't The Malware. It's Your Logo.](https://www.recordedfuture.com/blog/your-logo-is-the-lure)
 
 **Source:** Recorded Future  
 **Published:** Wed, 23 Sep 2026 00:00:00 GMT  
@@ -482,7 +490,7 @@
 
 ---
 
-### 53. [Agent Running in the Age of AI](https://www.recordedfuture.com/blog/agent-running-ai)
+### 54. [Agent Running in the Age of AI](https://www.recordedfuture.com/blog/agent-running-ai)
 
 **Source:** Recorded Future  
 **Published:** Tue, 22 Sep 2026 00:00:00 GMT  
@@ -491,7 +499,7 @@
 
 ---
 
-### 54. [Our View on What It Takes To Be Named an Industry-Recognized Threat Intelligence Leader](https://www.recordedfuture.com/blog/forrester-wave-external-threat-intelligence-2026)
+### 55. [Our View on What It Takes To Be Named an Industry-Recognized Threat Intelligence Leader](https://www.recordedfuture.com/blog/forrester-wave-external-threat-intelligence-2026)
 
 **Source:** Recorded Future  
 **Published:** Thu, 17 Sep 2026 00:00:00 GMT  
@@ -500,7 +508,7 @@
 
 ---
 
-### 55. [The New Rules of Machine Speed Defense](https://www.recordedfuture.com/blog/new-rules-machine-speed-defense)
+### 56. [The New Rules of Machine Speed Defense](https://www.recordedfuture.com/blog/new-rules-machine-speed-defense)
 
 **Source:** Recorded Future  
 **Published:** Thu, 17 Sep 2026 00:00:00 GMT  
@@ -509,7 +517,7 @@
 
 ---
 
-### 56. [Tajin Group: Guarantee Marketplace Vendor Involved in Phishing and Chinese Money Laundering Group](https://www.recordedfuture.com/research/tajin-group-gurantee-marketplace)
+### 57. [Tajin Group: Guarantee Marketplace Vendor Involved in Phishing and Chinese Money Laundering Group](https://www.recordedfuture.com/research/tajin-group-gurantee-marketplace)
 
 **Source:** Recorded Future  
 **Published:** Tue, 15 Sep 2026 00:00:00 GMT  
@@ -518,7 +526,7 @@
 
 ---
 
-### 57. [What is Proactive Threat Intelligence? | Recorded Future](https://www.recordedfuture.com/blog/proactive-threat-intelligence)
+### 58. [What is Proactive Threat Intelligence? | Recorded Future](https://www.recordedfuture.com/blog/proactive-threat-intelligence)
 
 **Source:** Recorded Future  
 **Published:** Mon, 14 Sep 2026 00:00:00 GMT  
@@ -527,7 +535,7 @@
 
 ---
 
-### 58. [The Intelligible World of Agents](https://www.recordedfuture.com/blog/intelligible-world-agents)
+### 59. [The Intelligible World of Agents](https://www.recordedfuture.com/blog/intelligible-world-agents)
 
 **Source:** Recorded Future  
 **Published:** Thu, 10 Sep 2026 00:00:00 GMT  
@@ -536,20 +544,11 @@
 
 ---
 
-### 59. [Recorded Future Launches Digital Risk Protection, Unifying Brand and Identity Monitoring](https://www.recordedfuture.com/blog/unified-brand-identity-monitoring)
+### 60. [Recorded Future Launches Digital Risk Protection, Unifying Brand and Identity Monitoring](https://www.recordedfuture.com/blog/unified-brand-identity-monitoring)
 
 **Source:** Recorded Future  
 **Published:** Wed, 09 Sep 2026 00:00:00 GMT  
 **Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 60. [August 2026 CVE Landscape](https://www.recordedfuture.com/blog/august-2026-cve-landscape)
-
-**Source:** Recorded Future  
-**Published:** Tue, 08 Sep 2026 00:00:00 GMT  
-**Severity:** Critical  
 **Categories:** General Security  
 
 ---
