@@ -1,10 +1,37 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-26 05:18:26 UTC
+**Last Updated:** 2026-09-26 13:18:50 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware](https://thehackernews.com/2026/09/compromised-github-actions-came-back.html)
+### 1. [Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link](https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 26 Sep 2026 15:25:22 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild](https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 26 Sep 2026 14:19:53 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack](https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 26 Sep 2026 13:18:33 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 4. [Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware](https://thehackernews.com/2026/09/compromised-github-actions-came-back.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 25 Sep 2026 20:14:41 +0530  
@@ -13,7 +40,7 @@
 
 ---
 
-### 2. [PamStealer macOS Malware Adds Live C2 Payload Decryption and Multi-Layer Persistence](https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html)
+### 5. [PamStealer macOS Malware Adds Live C2 Payload Decryption and Multi-Layer Persistence](https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 25 Sep 2026 18:48:06 +0530  
@@ -22,7 +49,7 @@
 
 ---
 
-### 3. [The SOC Doesn't Need to Start Over with Every Alert](https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html)
+### 6. [The SOC Doesn't Need to Start Over with Every Alert](https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 25 Sep 2026 17:00:00 +0530  
@@ -31,7 +58,7 @@
 
 ---
 
-### 4. [Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise](https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html)
+### 7. [Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise](https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 25 Sep 2026 16:05:55 +0530  
@@ -40,7 +67,7 @@
 
 ---
 
-### 5. [Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild](https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html)
+### 8. [Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild](https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 25 Sep 2026 15:44:02 +0530  
@@ -50,7 +77,7 @@
 
 ---
 
-### 6. [Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data](https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html)
+### 9. [Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data](https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 25 Sep 2026 10:19:22 +0530  
@@ -59,7 +86,7 @@
 
 ---
 
-### 7. [WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV](https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html)
+### 10. [WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV](https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 25 Sep 2026 10:16:34 +0530  
@@ -68,34 +95,16 @@
 
 ---
 
-### 8. [Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions](https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html)
+### 11. [OpenAI's AI agents accidentally uploaded user-provided images to third-party sites](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 24 Sep 2026 23:40:18 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 9. [ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories](https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 24 Sep 2026 23:22:43 +0530  
-**Severity:** Low  
-**Categories:** Phishing  
-
----
-
-### 10. [Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content](https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 24 Sep 2026 20:57:32 +0530  
-**Severity:** Low  
+**Source:** Bleeping Computer  
+**Published:** Sat, 26 Sep 2026 08:28:41 -0400  
+**Severity:** High  
 **Categories:** Supply Chain  
 
 ---
 
-### 11. [Kiteworks urges 6-hour server shutdown over potential zero-day attacks](https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/)
+### 12. [Kiteworks urges 6-hour server shutdown over potential zero-day attacks](https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 25 Sep 2026 17:41:07 -0400  
@@ -104,7 +113,7 @@
 
 ---
 
-### 12. [ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw](https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/)
+### 13. [ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw](https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 25 Sep 2026 16:57:55 -0400  
@@ -113,7 +122,7 @@
 
 ---
 
-### 13. [Elementor WordPress flaw lets attackers create admin accounts](https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/)
+### 14. [Elementor WordPress flaw lets attackers create admin accounts](https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 25 Sep 2026 14:13:33 -0400  
@@ -122,17 +131,17 @@
 
 ---
 
-### 14. [CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/)
+### 15. [CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 25 Sep 2026 13:24:20 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-67279, CVE-2026-65660, CVE-2026-71362, CVE-2026-5430  
+**CVEs:** CVE-2026-67279, CVE-2026-5430, CVE-2026-71362, CVE-2026-65660  
 **Categories:** Vulnerability  
 
 ---
 
-### 15. [Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/)
+### 16. [Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 25 Sep 2026 12:00:00 -0400  
@@ -141,7 +150,7 @@
 
 ---
 
-### 16. [OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/)
+### 17. [OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 25 Sep 2026 10:54:33 -0400  
@@ -150,7 +159,7 @@
 
 ---
 
-### 17. [With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance](https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/)
+### 18. [With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance](https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 25 Sep 2026 10:51:10 -0400  
@@ -159,7 +168,7 @@
 
 ---
 
-### 18. [Microsoft plans to deprecate Windows Deployment Services](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/)
+### 19. [Microsoft plans to deprecate Windows Deployment Services](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 25 Sep 2026 08:40:59 -0400  
@@ -168,19 +177,10 @@
 
 ---
 
-### 19. [Rydox marketplace admin pleads guilty, faces 22 years in prison](https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/)
+### 20. [Rydox marketplace admin pleads guilty, faces 22 years in prison](https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 25 Sep 2026 07:35:14 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [Microsoft: Recent Windows updates cause desktop loading issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 25 Sep 2026 06:30:38 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -209,7 +209,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81963, CVE-2026-85880, CVE-2026-69730, CVE-2026-69829  
+**CVEs:** CVE-2026-85880, CVE-2026-69730, CVE-2026-69829, CVE-2026-81963  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -246,7 +246,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-72971, CVE-2026-62832, CVE-2026-68820  
+**CVEs:** CVE-2026-72971, CVE-2026-68820, CVE-2026-62832  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -278,7 +278,25 @@
 
 ---
 
-### 31. [In Other News: Clop Leak Site Takeover, Docker Botnet Hunts AI Keys, Water Utility Exposure](https://www.securityweek.com/in-other-news-clop-leak-site-takeover-docker-botnet-hunts-ai-keys-water-utility-exposure/)
+### 31. [New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining](https://www.securityweek.com/new-x47-c-windows-botnet-weaponizes-xai-grok-ai-api-draining/)
+
+**Source:** Security Week  
+**Published:** Sat, 26 Sep 2026 12:00:00 +0000  
+**Severity:** Low  
+**Categories:** Malware, Phishing, DDoS  
+
+---
+
+### 32. [OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure](https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/)
+
+**Source:** Security Week  
+**Published:** Sat, 26 Sep 2026 10:15:41 +0000  
+**Severity:** Low  
+**Categories:** Data Breach, Vulnerability  
+
+---
+
+### 33. [In Other News: Clop Leak Site Takeover, Docker Botnet Hunts AI Keys, Water Utility Exposure](https://www.securityweek.com/in-other-news-clop-leak-site-takeover-docker-botnet-hunts-ai-keys-water-utility-exposure/)
 
 **Source:** Security Week  
 **Published:** Fri, 25 Sep 2026 15:07:31 +0000  
@@ -288,7 +306,7 @@
 
 ---
 
-### 32. [North Korea Suspected in $351 Million Bitget Crypto Heist](https://www.securityweek.com/north-korea-suspected-in-351-million-bitget-crypto-heist/)
+### 34. [North Korea Suspected in $351 Million Bitget Crypto Heist](https://www.securityweek.com/north-korea-suspected-in-351-million-bitget-crypto-heist/)
 
 **Source:** Security Week  
 **Published:** Fri, 25 Sep 2026 14:16:18 +0000  
@@ -297,7 +315,7 @@
 
 ---
 
-### 33. [CISA Election Security Plan Flags Patching Barriers, Voter Database Attacks](https://www.securityweek.com/cisa-election-security-plan-flags-patching-barriers-voter-database-attacks/)
+### 35. [CISA Election Security Plan Flags Patching Barriers, Voter Database Attacks](https://www.securityweek.com/cisa-election-security-plan-flags-patching-barriers-voter-database-attacks/)
 
 **Source:** Security Week  
 **Published:** Fri, 25 Sep 2026 12:39:12 +0000  
@@ -306,7 +324,7 @@
 
 ---
 
-### 34. [Kosovar Owner of Rydox Marketplace Pleads Guilty in US Court](https://www.securityweek.com/kosovar-owner-of-rydox-marketplace-pleads-guilty-in-us-court/)
+### 36. [Kosovar Owner of Rydox Marketplace Pleads Guilty in US Court](https://www.securityweek.com/kosovar-owner-of-rydox-marketplace-pleads-guilty-in-us-court/)
 
 **Source:** Security Week  
 **Published:** Fri, 25 Sep 2026 12:16:27 +0000  
@@ -315,7 +333,7 @@
 
 ---
 
-### 35. [Windows, Linux, Android File Notification Systems Leak User Activity](https://www.securityweek.com/windows-linux-android-file-notification-systems-leak-user-activity/)
+### 37. [Windows, Linux, Android File Notification Systems Leak User Activity](https://www.securityweek.com/windows-linux-android-file-notification-systems-leak-user-activity/)
 
 **Source:** Security Week  
 **Published:** Fri, 25 Sep 2026 10:53:32 +0000  
@@ -325,7 +343,7 @@
 
 ---
 
-### 36. [‘SalesBleed’ Flaws in Salesforce Agentforce Enabled Zero-Click Data Exfiltration](https://www.securityweek.com/salesbleed-flaws-in-salesforce-agentforce-enabled-zero-click-data-exfiltration/)
+### 38. [‘SalesBleed’ Flaws in Salesforce Agentforce Enabled Zero-Click Data Exfiltration](https://www.securityweek.com/salesbleed-flaws-in-salesforce-agentforce-enabled-zero-click-data-exfiltration/)
 
 **Source:** Security Week  
 **Published:** Fri, 25 Sep 2026 09:27:51 +0000  
@@ -334,40 +352,22 @@
 
 ---
 
-### 37. [Roundcube Webmail Vulnerability in Attackers’ Crosshairs](https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/)
+### 39. [Roundcube Webmail Vulnerability in Attackers’ Crosshairs](https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/)
 
 **Source:** Security Week  
 **Published:** Fri, 25 Sep 2026 06:57:40 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48842, CVE-2025-49113, CVE-2025-68461, CVE-2024-37383  
+**CVEs:** CVE-2026-48842, CVE-2024-37383, CVE-2025-68461, CVE-2025-49113  
 **Categories:** Vulnerability  
 
 ---
 
-### 38. [Autonomous AI Hacks Raise Thorny Questions of Legal Accountability](https://www.securityweek.com/autonomous-ai-hacks-raise-thorny-questions-of-legal-accountability/)
+### 40. [Autonomous AI Hacks Raise Thorny Questions of Legal Accountability](https://www.securityweek.com/autonomous-ai-hacks-raise-thorny-questions-of-legal-accountability/)
 
 **Source:** Security Week  
 **Published:** Thu, 24 Sep 2026 20:35:21 +0000  
 **Severity:** High  
 **Categories:** APT  
-
----
-
-### 39. [Kontext Security Emerges With $4 Million for AI Agent Runtime Controls](https://www.securityweek.com/kontext-security-emerges-with-4-million-for-ai-agent-runtime-controls/)
-
-**Source:** Security Week  
-**Published:** Thu, 24 Sep 2026 15:52:00 +0000  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 40. [OpenAI Agents Probed Websites for Vulnerabilities While Fetching Public Data](https://www.securityweek.com/openai-agents-probed-websites-for-vulnerabilities-while-fetching-public-data/)
-
-**Source:** Security Week  
-**Published:** Thu, 24 Sep 2026 14:43:13 +0000  
-**Severity:** Low  
-**Categories:** Data Breach, Vulnerability  
 
 ---
 
@@ -439,7 +439,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 09 Sep 2026 16:08:59 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20316, CVE-2026-20079  
+**CVEs:** CVE-2026-20079, CVE-2026-20316  
 **Categories:** Ransomware, Vulnerability, Malware, APT  
 
 ---
@@ -449,7 +449,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 08 Sep 2026 22:16:35 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81963, CVE-2026-85880, CVE-2026-69852, CVE-2026-69676  
+**CVEs:** CVE-2026-85880, CVE-2026-69676, CVE-2026-69852, CVE-2026-81963  
 **Categories:** Vulnerability, APT  
 
 ---

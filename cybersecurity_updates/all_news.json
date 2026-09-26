@@ -1,6 +1,60 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
+    "link": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
+    "published": "Sat, 26 Sep 2026 15:25:22 +0530",
+    "summary": "Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue administrator accounts and take control of a site.\n\nThe cross-site request forgery (CSRF) vulnerability, which has yet to be assigned a CVE identifier, carries a CVSS score of 8.8 out of 10.0. It only affects versions",
+    "analysis": {
+      "issue": "1 contain a CSRF flaw that can create an admin account when a logged-in administrator opens a crafted link",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
+    "link": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
+    "published": "Sat, 26 Sep 2026 14:19:53 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nThe vulnerabilities in question are as follows -\n\n\n  CVE-2026-65660 (CVSS score: 8.8) - A code injection vulnerability in Microsoft Office SharePoint",
+    "analysis": {
+      "issue": "CISA adds exploited SharePoint RCE and RouterOS flaws to KEV; the RouterOS chain can give unauthenticated administrative access",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack",
+    "link": "https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html",
+    "published": "Sat, 26 Sep 2026 13:18:33 +0530",
+    "summary": "Kiteworks (formerly Accellion) is urging customers to shut down their systems as a precautionary measure for nine hours over the weekend after it received threat intelligence about an imminent cyber attack.\n\n\"Kiteworks received credible threat intelligence from federal intelligence authorities indicating that a threat actor may attempt to target some Kiteworks systems,\" said Frank Balonis, Chief",
+    "analysis": {
+      "issue": "Kiteworks urges a nine-hour precautionary shutdown after federal intelligence warned a threat actor may target some systems",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware",
     "link": "https://thehackernews.com/2026/09/compromised-github-actions-came-back.html",
     "published": "Fri, 25 Sep 2026 20:14:41 +0530",
@@ -128,53 +182,17 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
-    "link": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
-    "published": "Thu, 24 Sep 2026 23:40:18 +0530",
-    "summary": "A OnePlus 15 running the latest OxygenOS can be rooted by a malicious app the owner installs, one that asks for no special permissions. A researcher, Rasmus Moorats,&nbsp;chained two flaws in OnePlus's own software&nbsp;to gain root access, the highest level of control over an Android phone.\n\nOnePlus told him the same flaws affect many more of its own devices and those of OPPO, though it has not",
+    "source": "Bleeping Computer",
+    "title": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/",
+    "published": "Sat, 26 Sep 2026 08:28:41 -0400",
+    "summary": "OpenAI says its AI agents uploaded user-provided images to third-party image-hosting services while carrying out research and evaluation tasks. [...]",
     "analysis": {
-      "issue": "Two unpatched OnePlus flaws let an installed no-permission app gain root on stock OxygenOS phones; no real-world exploitation is known",
+      "issue": "OpenAI has confirmed it's aware of a new security incident in which its AI agents uploaded user-provided images to third-party image-hosting services",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories",
-    "link": "https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html",
-    "published": "Thu, 24 Sep 2026 23:22:43 +0530",
-    "summary": "This week, the dangerous stuff keeps arriving dressed as something boring. An update. A login box. A search answer. A coding tool. A link you have clicked a hundred times before.\n\nThat is the thread running through the pile. Trusted paths get poisoned. Old bugs find new jobs. AI tools leak more than expected. Fake prompts look real enough. And some attacks barely need an exploit at all — just",
-    "analysis": {
-      "issue": "This week’s ThreatsDay Bulletin covers poisoned updates, AI privacy risks, phishing traps, supply-chain attacks, EDR evasion, and low-effort compromis",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content",
-    "link": "https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html",
-    "published": "Thu, 24 Sep 2026 20:57:32 +0530",
-    "summary": "The \"third-party[.]com\" domain, commonly used as a documentation placeholder, has been observed serving a ClickFix lure to Windows browsers while displaying a harmless decoy to other users.\n\n\"third-party[.]com has been a generic documentation placeholder for years, the same role example.com plays,\" Manifold Security's Head of Research, Ax Sharma, said. \"Unlike 'example[.]com,' third-party[.]com",
-    "analysis": {
-      "issue": "]com, a widely used documentation placeholder, serves Windows users a ClickFix lure that plants a PowerShell command",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
         "Supply Chain"
@@ -250,9 +268,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-67279",
-        "CVE-2026-65660",
+        "CVE-2026-5430",
         "CVE-2026-71362",
-        "CVE-2026-5430"
+        "CVE-2026-65660"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -350,24 +368,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Microsoft: Recent Windows updates cause desktop loading issues",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/",
-    "published": "Fri, 25 Sep 2026 06:30:38 -0400",
-    "summary": "Microsoft has confirmed that some users may experience desktop loading issues, including black screens, after installing the August 2026 preview updates and subsequent updates. [...]",
-    "analysis": {
-      "issue": "Microsoft has confirmed that some users may experience desktop loading issues, including black screens, after installing the August 2026 preview updates and subsequent updates",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
     "link": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
@@ -418,10 +418,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-81963",
         "CVE-2026-85880",
         "CVE-2026-69730",
-        "CVE-2026-69829"
+        "CVE-2026-69829",
+        "CVE-2026-81963"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -499,8 +499,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-72971",
-        "CVE-2026-62832",
-        "CVE-2026-68820"
+        "CVE-2026-68820",
+        "CVE-2026-62832"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -561,6 +561,45 @@
       "cves": [],
       "threat_categories": [
         "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining",
+    "link": "https://www.securityweek.com/new-x47-c-windows-botnet-weaponizes-xai-grok-ai-api-draining/",
+    "published": "Sat, 26 Sep 2026 12:00:00 +0000",
+    "summary": "<p>The Windows botnet relies on AI to maintain persistence, using xAI Grok to choose from predefined actions.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-x47-c-windows-botnet-weaponizes-xai-grok-ai-api-draining/\">New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The Windows botnet relies on AI to maintain persistence, using xAI Grok to choose from predefined actions",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing",
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure",
+    "link": "https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/",
+    "published": "Sat, 26 Sep 2026 10:15:41 +0000",
+    "summary": "<p>OpenAI’s CEO said there is an “extensive and ongoing review related to our agents’ use of internet access during training and evaluation.”</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/\">OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "OpenAI’s CEO said there is an “extensive and ongoing review related to our agents’ use of internet access during training and evaluation",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability"
       ]
     }
   },
@@ -701,9 +740,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-48842",
-        "CVE-2025-49113",
+        "CVE-2024-37383",
         "CVE-2025-68461",
-        "CVE-2024-37383"
+        "CVE-2025-49113"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -725,43 +764,6 @@
       "cves": [],
       "threat_categories": [
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Kontext Security Emerges With $4 Million for AI Agent Runtime Controls",
-    "link": "https://www.securityweek.com/kontext-security-emerges-with-4-million-for-ai-agent-runtime-controls/",
-    "published": "Thu, 24 Sep 2026 15:52:00 +0000",
-    "summary": "<p>The startup’s runtime enforcement platform evaluates AI agents in real time to provide visibility and control over their actions.</p>\n<p>The post <a href=\"https://www.securityweek.com/kontext-security-emerges-with-4-million-for-ai-agent-runtime-controls/\">Kontext Security Emerges With $4 Million for AI Agent Runtime Controls</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The startup’s runtime enforcement platform evaluates AI agents in real time to provide visibility and control over their actions",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "OpenAI Agents Probed Websites for Vulnerabilities While Fetching Public Data",
-    "link": "https://www.securityweek.com/openai-agents-probed-websites-for-vulnerabilities-while-fetching-public-data/",
-    "published": "Thu, 24 Sep 2026 14:43:13 +0000",
-    "summary": "<p>Australia disclosed that an OpenAI agent gained unauthorized access to non-public government information.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-agents-probed-websites-for-vulnerabilities-while-fetching-public-data/\">OpenAI Agents Probed Websites for Vulnerabilities While Fetching Public Data</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Australia disclosed that an OpenAI agent gained unauthorized access to non-public government information",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability"
       ]
     }
   },
@@ -908,8 +910,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20316",
-        "CVE-2026-20079"
+        "CVE-2026-20079",
+        "CVE-2026-20316"
       ],
       "threat_categories": [
         "Ransomware",
@@ -932,10 +934,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-81963",
         "CVE-2026-85880",
+        "CVE-2026-69676",
         "CVE-2026-69852",
-        "CVE-2026-69676"
+        "CVE-2026-81963"
       ],
       "threat_categories": [
         "Vulnerability",
