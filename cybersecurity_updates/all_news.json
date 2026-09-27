@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
+    "link": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
+    "published": "Sun, 27 Sep 2026 13:17:57 +0530",
+    "summary": "Two new unpatched zero-day vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway appliances that allow remote code execution are being actively exploited in the wild, security firm watchTowr said on September 26.\n\nCitrix has not confirmed the flaws or published a fix. Some administrators say they have taken appliances offline rather than wait for one to be available.\n\nNetScaler ADC and",
+    "analysis": {
+      "issue": "watchTowr says two unpatched NetScaler RCE flaws were exploited before fixes, while Citrix has yet to publish a bulletin or patch",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials",
     "link": "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html",
     "published": "Sat, 26 Sep 2026 23:52:52 +0530",
@@ -164,13 +182,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise",
-    "link": "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
-    "published": "Fri, 25 Sep 2026 16:05:55 +0530",
-    "summary": "Cryptocurrency exchange Bitget said suspected North Korean threat actors have stolen $351.6 million from its hot and warm wallets.&nbsp;\n\n\"At 18:31 UTC on September 24, 2026, Bitget's security systems identified unauthorized transfers involving a limited number of hot wallets,\" BitGet said in a post shared on X. \"Bitget's cold wallets and the overwhelming majority of platform assets remain",
+    "source": "Bleeping Computer",
+    "title": "Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/",
+    "published": "Sun, 27 Sep 2026 09:38:40 -0400",
+    "summary": "Anthropic has just announced a new Claude Marketplace, and it brings all AI-related tools into one place, including plugins, connectors, agents, and more. [...]",
     "analysis": {
-      "issue": "Bitget says suspected North Korean actors stole $351",
+      "issue": "Anthropic has just announced a new Claude Marketplace, and it brings all AI-related tools into one place, including plugins, connectors, agents, and more",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -342,31 +360,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-71362",
-        "CVE-2026-67279",
         "CVE-2026-65660",
-        "CVE-2026-5430"
+        "CVE-2026-5430",
+        "CVE-2026-71362",
+        "CVE-2026-67279"
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/",
-    "published": "Fri, 25 Sep 2026 12:00:00 -0400",
-    "summary": "Anthropic now allows you to run Claude Code via cloud sessions without signing up for the research preview, and it's offering up to $250 in free usage credits, so more users can give it a try. [...]",
-    "analysis": {
-      "issue": "Anthropic now allows you to run Claude Code via cloud sessions without signing up for the research preview, and it's offering up to $250 in free promotional credits",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -421,9 +421,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-69829",
         "CVE-2026-69730",
         "CVE-2026-85880",
-        "CVE-2026-69829",
         "CVE-2026-81963"
       ],
       "threat_categories": [
@@ -564,6 +564,27 @@
       "cves": [],
       "threat_categories": [
         "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks",
+    "link": "https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/",
+    "published": "Sun, 27 Sep 2026 09:23:09 +0000",
+    "summary": "<p>CISA added CVE-2026-65660 to its KEV catalog, giving federal agencies a patching deadline of September 28.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/\">Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "CISA added CVE-2026-65660 to its KEV catalog, giving federal agencies a patching deadline of September 28",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-65660"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
       ]
     }
   },
@@ -748,29 +769,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Roundcube Webmail Vulnerability in Attackers’ Crosshairs",
-    "link": "https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/",
-    "published": "Fri, 25 Sep 2026 06:57:40 +0000",
-    "summary": "<p>Tracked as CVE-2026-48842, the exploited bug is an SQL injection that can be exploited without authentication.</p>\n<p>The post <a href=\"https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/\">Roundcube Webmail Vulnerability in Attackers’ Crosshairs</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Tracked as CVE-2026-48842, the exploited bug is an SQL injection that can be exploited without authentication",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-48842",
-        "CVE-2024-37383",
-        "CVE-2025-68461",
-        "CVE-2025-49113"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Trust and the enticing consultancy offer",
     "link": "https://blog.talosintelligence.com/trust-and-the-enticing-consultancy-offer/",
@@ -913,8 +911,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20316",
-        "CVE-2026-20079"
+        "CVE-2026-20079",
+        "CVE-2026-20316"
       ],
       "threat_categories": [
         "Ransomware",
@@ -937,9 +935,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-85880",
         "CVE-2026-69676",
         "CVE-2026-69852",
+        "CVE-2026-85880",
         "CVE-2026-81963"
       ],
       "threat_categories": [
@@ -1315,8 +1313,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
