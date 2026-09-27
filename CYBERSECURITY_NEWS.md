@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-27 14:12:12 UTC
+**Last Updated:** 2026-09-27 16:45:13 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,26 @@
 
 ---
 
-### 11. [Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/)
+### 11. [Citrix admins warned to shut down NetScalers over 2 exploited zero-days](https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/)
+
+**Source:** Bleeping Computer  
+**Published:** Sun, 27 Sep 2026 12:02:37 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-19489, CVE-2026-19490  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [Cloudflare fixes Containers cross-tenant flaw exposing customer data](https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/)
+
+**Source:** Bleeping Computer  
+**Published:** Sun, 27 Sep 2026 10:13:31 -0400  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 13. [Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 27 Sep 2026 09:38:40 -0400  
@@ -104,7 +123,7 @@
 
 ---
 
-### 12. [ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks](https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/)
+### 14. [ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks](https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 26 Sep 2026 15:03:34 -0400  
@@ -114,7 +133,7 @@
 
 ---
 
-### 13. [Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/)
+### 15. [Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 26 Sep 2026 12:26:58 -0400  
@@ -123,7 +142,7 @@
 
 ---
 
-### 14. [Microsoft pauses KB5002907 update after Office license deactivations](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/)
+### 16. [Microsoft pauses KB5002907 update after Office license deactivations](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 26 Sep 2026 11:50:38 -0400  
@@ -132,7 +151,7 @@
 
 ---
 
-### 15. [GitHub Actions re-enabled with Mini Shai-Hulud payload still active](https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/)
+### 17. [GitHub Actions re-enabled with Mini Shai-Hulud payload still active](https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 26 Sep 2026 10:19:46 -0400  
@@ -141,7 +160,7 @@
 
 ---
 
-### 16. [OpenAI's AI agents accidentally uploaded user-provided images to third-party sites](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/)
+### 18. [OpenAI's AI agents accidentally uploaded user-provided images to third-party sites](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 26 Sep 2026 08:28:41 -0400  
@@ -150,7 +169,7 @@
 
 ---
 
-### 17. [Kiteworks urges 6-hour server shutdown over potential zero-day attacks](https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/)
+### 19. [Kiteworks urges 6-hour server shutdown over potential zero-day attacks](https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 25 Sep 2026 17:41:07 -0400  
@@ -159,31 +178,12 @@
 
 ---
 
-### 18. [ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw](https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/)
+### 20. [ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw](https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 25 Sep 2026 16:57:55 -0400  
 **Severity:** Low  
 **Categories:** Ransomware, Vulnerability  
-
----
-
-### 19. [Elementor WordPress flaw lets attackers create admin accounts](https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 25 Sep 2026 14:13:33 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 20. [CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 25 Sep 2026 13:24:20 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-65660, CVE-2026-5430, CVE-2026-71362, CVE-2026-67279  
-**Categories:** Vulnerability  
 
 ---
 
@@ -210,7 +210,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69829, CVE-2026-69730, CVE-2026-85880, CVE-2026-81963  
+**CVEs:** CVE-2026-69829, CVE-2026-81963, CVE-2026-69730, CVE-2026-85880  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -247,7 +247,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62832, CVE-2026-68820, CVE-2026-72971  
+**CVEs:** CVE-2026-72971, CVE-2026-68820, CVE-2026-62832  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -450,7 +450,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 08 Sep 2026 22:16:35 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69676, CVE-2026-69852, CVE-2026-85880, CVE-2026-81963  
+**CVEs:** CVE-2026-69676, CVE-2026-81963, CVE-2026-69852, CVE-2026-85880  
 **Categories:** Vulnerability, APT  
 
 ---

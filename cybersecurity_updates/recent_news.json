@@ -183,6 +183,45 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Citrix admins warned to shut down NetScalers over 2 exploited zero-days",
+    "link": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
+    "published": "Sun, 27 Sep 2026 12:02:37 -0400",
+    "summary": "Two unpatched Citrix NetScaler zero-day vulnerabilities are reportedly being exploited in attacks, with cybersecurity agencies, security researchers, and IT providers privately warning organizations about the flaws ahead of patches expected next week. [...]",
+    "analysis": {
+      "issue": "Two unpatched Citrix NetScaler zero-day vulnerabilities are reportedly being exploited in attacks, with cybersecurity agencies, security researchers, and IT providers privately warning organizations about the flaws ahead of patches expected next week",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-19489",
+        "CVE-2026-19490"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Cloudflare fixes Containers cross-tenant flaw exposing customer data",
+    "link": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
+    "published": "Sun, 27 Sep 2026 10:13:31 -0400",
+    "summary": "Cloudflare has fixed a vulnerability in Containers and Sandboxes that allowed customers with a Workers Paid account to recover residual data from other customers' containers on the same physical host. [...]",
+    "analysis": {
+      "issue": "Cloudflare has fixed a vulnerability in Containers and Sandboxes that allowed customers with a Workers Paid account to recover residual data from other customers’ containers on the same physical host",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/",
     "published": "Sun, 27 Sep 2026 09:38:40 -0400",
@@ -330,47 +369,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Elementor WordPress flaw lets attackers create admin accounts",
-    "link": "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/",
-    "published": "Fri, 25 Sep 2026 14:13:33 -0400",
-    "summary": "A cross-site request forgery (CSRF) vulnerability in the Elementor plugin for WordPress could allow an unauthenticated attacker to create administrator accounts. [...]",
-    "analysis": {
-      "issue": "A cross-site request forgery (CSRF) vulnerability in the Elementor plugin for WordPress could allow an unauthenticated attacker to create administrator accounts",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/",
-    "published": "Fri, 25 Sep 2026 13:24:20 -0400",
-    "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) warns that hackers are exploiting a critical authentication bypass vulnerability (CVE-2026-5430) affecting multiple products from enterprise software provider WSO2. [...]",
-    "analysis": {
-      "issue": "The Cybersecurity and Infrastructure Security Agency (CISA) warns that hackers are exploiting a critical authentication bypass vulnerability (CVE-2026-5430) affecting multiple products from enterprise software provider WSO2",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-65660",
-        "CVE-2026-5430",
-        "CVE-2026-71362",
-        "CVE-2026-67279"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
     "link": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
@@ -422,9 +420,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-69829",
+        "CVE-2026-81963",
         "CVE-2026-69730",
-        "CVE-2026-85880",
-        "CVE-2026-81963"
+        "CVE-2026-85880"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -501,9 +499,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-62832",
+        "CVE-2026-72971",
         "CVE-2026-68820",
-        "CVE-2026-72971"
+        "CVE-2026-62832"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -936,9 +934,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-69676",
+        "CVE-2026-81963",
         "CVE-2026-69852",
-        "CVE-2026-85880",
-        "CVE-2026-81963"
+        "CVE-2026-85880"
       ],
       "threat_categories": [
         "Vulnerability",
