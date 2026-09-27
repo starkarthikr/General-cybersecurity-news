@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-27 04:45:00 UTC
+**Last Updated:** 2026-09-27 05:35:40 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -173,7 +173,7 @@
 **Source:** Bleeping Computer  
 **Published:** Fri, 25 Sep 2026 13:24:20 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-71362, CVE-2026-65660, CVE-2026-67279, CVE-2026-5430  
+**CVEs:** CVE-2026-71362, CVE-2026-67279, CVE-2026-65660, CVE-2026-5430  
 **Categories:** Vulnerability  
 
 ---
@@ -210,7 +210,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-85880, CVE-2026-69730, CVE-2026-69829, CVE-2026-81963  
+**CVEs:** CVE-2026-69730, CVE-2026-85880, CVE-2026-69829, CVE-2026-81963  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -247,7 +247,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-72971, CVE-2026-68820, CVE-2026-62832  
+**CVEs:** CVE-2026-62832, CVE-2026-68820, CVE-2026-72971  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -367,7 +367,7 @@
 **Source:** Security Week  
 **Published:** Fri, 25 Sep 2026 06:57:40 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-68461, CVE-2024-37383, CVE-2026-48842, CVE-2025-49113  
+**CVEs:** CVE-2026-48842, CVE-2024-37383, CVE-2025-68461, CVE-2025-49113  
 **Categories:** Vulnerability  
 
 ---
@@ -440,7 +440,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 09 Sep 2026 16:08:59 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20079, CVE-2026-20316  
+**CVEs:** CVE-2026-20316, CVE-2026-20079  
 **Categories:** Ransomware, Vulnerability, Malware, APT  
 
 ---
@@ -450,7 +450,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 08 Sep 2026 22:16:35 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69676, CVE-2026-85880, CVE-2026-69852, CVE-2026-81963  
+**CVEs:** CVE-2026-85880, CVE-2026-69676, CVE-2026-69852, CVE-2026-81963  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -634,7 +634,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
