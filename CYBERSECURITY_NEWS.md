@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-27 16:45:13 UTC
+**Last Updated:** 2026-09-27 19:50:08 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,12 +95,12 @@
 
 ---
 
-### 11. [Citrix admins warned to shut down NetScalers over 2 exploited zero-days](https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/)
+### 11. [Citrix confirms two NetScaler RCE zero-days exploited in attacks](https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 27 Sep 2026 12:02:37 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-19489, CVE-2026-19490  
+**CVEs:** CVE-2026-88772, CVE-2026-88771  
 **Categories:** Vulnerability  
 
 ---
@@ -210,7 +210,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69829, CVE-2026-81963, CVE-2026-69730, CVE-2026-85880  
+**CVEs:** CVE-2026-69730, CVE-2026-81963, CVE-2026-85880, CVE-2026-69829  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -247,7 +247,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-72971, CVE-2026-68820, CVE-2026-62832  
+**CVEs:** CVE-2026-68820, CVE-2026-62832, CVE-2026-72971  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -440,7 +440,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 09 Sep 2026 16:08:59 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20079, CVE-2026-20316  
+**CVEs:** CVE-2026-20316, CVE-2026-20079  
 **Categories:** Ransomware, Vulnerability, Malware, APT  
 
 ---
@@ -450,7 +450,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 08 Sep 2026 22:16:35 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69676, CVE-2026-81963, CVE-2026-69852, CVE-2026-85880  
+**CVEs:** CVE-2026-81963, CVE-2026-85880, CVE-2026-69676, CVE-2026-69852  
 **Categories:** Vulnerability, APT  
 
 ---
