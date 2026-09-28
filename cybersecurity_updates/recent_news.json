@@ -183,6 +183,24 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/",
+    "published": "Sun, 27 Sep 2026 19:40:39 -0400",
+    "summary": "OpenAI is testing a new always-on assistant called \"o\", and references to the unannounced feature briefly showed up on the company's website. [...]",
+    "analysis": {
+      "issue": "OpenAI is testing a new always-on assistant called \"o\", and references to the unannounced feature briefly appeared online",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks",
     "link": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
     "published": "Sun, 27 Sep 2026 12:02:37 -0400",
@@ -350,25 +368,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw",
-    "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/",
-    "published": "Fri, 25 Sep 2026 16:57:55 -0400",
-    "summary": "The Clop ransomware gang has moved its data leak site to a new Tor address after confirming its previous server was compromised and defaced through an unpatched Grav CMS flaw that BleepingComputer has learned is an unauthenticated path traversal vulnerability. [...]",
-    "analysis": {
-      "issue": "The Clop ransomware gang has moved its data leak site to a new Tor address after confirming its previous server was compromised and defaced through an unpatched Grav CMS flaw that BleepingComputer has learned is an unauthenticated path traversal vuln",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
     "link": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
@@ -420,9 +419,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-69730",
-        "CVE-2026-81963",
+        "CVE-2026-69829",
         "CVE-2026-85880",
-        "CVE-2026-69829"
+        "CVE-2026-81963"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -499,9 +498,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-68820",
         "CVE-2026-62832",
-        "CVE-2026-72971"
+        "CVE-2026-72971",
+        "CVE-2026-68820"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -909,8 +908,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20316",
-        "CVE-2026-20079"
+        "CVE-2026-20079",
+        "CVE-2026-20316"
       ],
       "threat_categories": [
         "Ransomware",
@@ -933,10 +932,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-81963",
-        "CVE-2026-85880",
+        "CVE-2026-69852",
         "CVE-2026-69676",
-        "CVE-2026-69852"
+        "CVE-2026-85880",
+        "CVE-2026-81963"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1311,8 +1310,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
