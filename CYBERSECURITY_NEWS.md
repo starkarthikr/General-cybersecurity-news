@@ -1,10 +1,37 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-28 16:54:50 UTC
+**Last Updated:** 2026-09-28 19:29:42 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [⚡ Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats](https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html)
+### 1. [IAM for AI agents: A Practical Enterprise Framework](https://thehackernews.com/2026/09/iam-for-ai-agent.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 28 Sep 2026 23:50:38 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M](https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 28 Sep 2026 23:12:18 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 3. [RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims](https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 28 Sep 2026 23:08:33 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 4. [⚡ Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats](https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 28 Sep 2026 19:30:53 +0530  
@@ -13,7 +40,7 @@
 
 ---
 
-### 2. [Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI](https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html)
+### 5. [Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI](https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 28 Sep 2026 17:28:00 +0530  
@@ -22,7 +49,7 @@
 
 ---
 
-### 3. [Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent](https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html)
+### 6. [Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent](https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 28 Sep 2026 17:16:00 +0530  
@@ -31,7 +58,7 @@
 
 ---
 
-### 4. [JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources](https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html)
+### 7. [JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources](https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 28 Sep 2026 14:38:21 +0530  
@@ -40,7 +67,7 @@
 
 ---
 
-### 5. [CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally](https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html)
+### 8. [CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally](https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 28 Sep 2026 12:51:49 +0530  
@@ -49,7 +76,7 @@
 
 ---
 
-### 6. [Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation](https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html)
+### 9. [Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation](https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 27 Sep 2026 13:17:57 +0530  
@@ -58,7 +85,7 @@
 
 ---
 
-### 7. [Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials](https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html)
+### 10. [Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials](https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 26 Sep 2026 23:52:52 +0530  
@@ -67,35 +94,16 @@
 
 ---
 
-### 8. [Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells](https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html)
+### 11. [Misconfigured Supabase apps expose data in over 16,000 databases](https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/)
 
-**Source:** The Hacker News  
-**Published:** Sat, 26 Sep 2026 17:16:40 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 28 Sep 2026 14:50:59 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2026-35273  
-**Categories:** Vulnerability  
+**Categories:** Data Breach  
 
 ---
 
-### 9. [Zero Trust for AI Agents Starts With Fixing Zero Visibility](https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html)
-
-**Source:** The Hacker News  
-**Published:** Sat, 26 Sep 2026 16:00:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link](https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html)
-
-**Source:** The Hacker News  
-**Published:** Sat, 26 Sep 2026 15:25:22 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 11. [JadePuffer agentic AI attacks target Azure, destroy cloud resources](https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/)
+### 12. [JadePuffer agentic AI attacks target Azure, destroy cloud resources](https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 28 Sep 2026 11:49:27 -0400  
@@ -104,7 +112,7 @@
 
 ---
 
-### 12. [80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking](https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/)
+### 13. [80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking](https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 28 Sep 2026 10:00:10 -0400  
@@ -113,7 +121,7 @@
 
 ---
 
-### 13. [Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist](https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/)
+### 14. [Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist](https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 28 Sep 2026 05:25:29 -0400  
@@ -122,7 +130,7 @@
 
 ---
 
-### 14. [US soldier gets 70 months in prison for extorting 10 tech, telecom firms](https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/)
+### 15. [US soldier gets 70 months in prison for extorting 10 tech, telecom firms](https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 28 Sep 2026 03:30:15 -0400  
@@ -131,7 +139,7 @@
 
 ---
 
-### 15. [CISA orders feds to patch exploited Citrix flaws by Wednesday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/)
+### 16. [CISA orders feds to patch exploited Citrix flaws by Wednesday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 28 Sep 2026 02:24:19 -0400  
@@ -141,7 +149,7 @@
 
 ---
 
-### 16. [OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/)
+### 17. [OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 27 Sep 2026 19:40:39 -0400  
@@ -150,7 +158,7 @@
 
 ---
 
-### 17. [Citrix confirms two NetScaler RCE zero-days exploited in attacks](https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/)
+### 18. [Citrix confirms two NetScaler RCE zero-days exploited in attacks](https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 27 Sep 2026 12:02:37 -0400  
@@ -160,7 +168,7 @@
 
 ---
 
-### 18. [Cloudflare fixes Containers cross-tenant flaw exposing customer data](https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/)
+### 19. [Cloudflare fixes Containers cross-tenant flaw exposing customer data](https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 27 Sep 2026 10:13:31 -0400  
@@ -169,22 +177,12 @@
 
 ---
 
-### 19. [Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/)
+### 20. [Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 27 Sep 2026 09:38:40 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 20. [ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks](https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 26 Sep 2026 15:03:34 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-35273  
-**Categories:** Vulnerability  
 
 ---
 
@@ -220,7 +218,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81963, CVE-2026-69730, CVE-2026-85880, CVE-2026-69829  
+**CVEs:** CVE-2026-69730, CVE-2026-69829, CVE-2026-81963, CVE-2026-85880  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -257,7 +255,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62832, CVE-2026-72971, CVE-2026-68820  
+**CVEs:** CVE-2026-62832, CVE-2026-68820, CVE-2026-72971  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -280,7 +278,16 @@
 
 ---
 
-### 31. [Call for Presentations Open for 2026 CISO Forum Virtual Summit](https://www.securityweek.com/call-for-presentations-open-for-2026-ciso-forum-virtual-summit/)
+### 31. [Modulate Raises $25 Million to Advance Deepfake Detection](https://www.securityweek.com/modulate-raises-25-million-to-advance-deepfake-detection/)
+
+**Source:** Security Week  
+**Published:** Mon, 28 Sep 2026 17:30:00 +0000  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 32. [Call for Presentations Open for 2026 CISO Forum Virtual Summit](https://www.securityweek.com/call-for-presentations-open-for-2026-ciso-forum-virtual-summit/)
 
 **Source:** Security Week  
 **Published:** Mon, 28 Sep 2026 15:15:00 +0000  
@@ -289,7 +296,7 @@
 
 ---
 
-### 32. [Prison Sentence for Former US Soldier Who Hacked AT&T and Verizon](https://www.securityweek.com/prison-sentence-for-former-us-soldier-who-hacked-att-and-verizon/)
+### 33. [Prison Sentence for Former US Soldier Who Hacked AT&T and Verizon](https://www.securityweek.com/prison-sentence-for-former-us-soldier-who-hacked-att-and-verizon/)
 
 **Source:** Security Week  
 **Published:** Mon, 28 Sep 2026 12:36:16 +0000  
@@ -298,7 +305,7 @@
 
 ---
 
-### 33. [DC Health Agency Exposes 400,000 Beneficiary Records](https://www.securityweek.com/dc-health-agency-exposes-400000-beneficiary-records/)
+### 34. [DC Health Agency Exposes 400,000 Beneficiary Records](https://www.securityweek.com/dc-health-agency-exposes-400000-beneficiary-records/)
 
 **Source:** Security Week  
 **Published:** Mon, 28 Sep 2026 11:29:29 +0000  
@@ -307,7 +314,7 @@
 
 ---
 
-### 34. [Google Warns of ShinyHunters’ Fresh Oracle PeopleSoft Campaign](https://www.securityweek.com/google-warns-of-shinyhunters-fresh-oracle-peoplesoft-campaign/)
+### 35. [Google Warns of ShinyHunters’ Fresh Oracle PeopleSoft Campaign](https://www.securityweek.com/google-warns-of-shinyhunters-fresh-oracle-peoplesoft-campaign/)
 
 **Source:** Security Week  
 **Published:** Mon, 28 Sep 2026 10:56:46 +0000  
@@ -317,7 +324,7 @@
 
 ---
 
-### 35. [New Mexico Jury Finds Facebook Liable for Deceiving Users About Privacy Protections](https://www.securityweek.com/new-mexico-jury-finds-facebook-liable-for-deceiving-users-about-privacy-protections/)
+### 36. [New Mexico Jury Finds Facebook Liable for Deceiving Users About Privacy Protections](https://www.securityweek.com/new-mexico-jury-finds-facebook-liable-for-deceiving-users-about-privacy-protections/)
 
 **Source:** Security Week  
 **Published:** Mon, 28 Sep 2026 10:40:01 +0000  
@@ -326,7 +333,7 @@
 
 ---
 
-### 36. [Nvidia Unveils AI Agent Safety Platform With Hardware-Based Watchdog](https://www.securityweek.com/nvidia-unveils-ai-agent-safety-platform-with-hardware-based-watchdog/)
+### 37. [Nvidia Unveils AI Agent Safety Platform With Hardware-Based Watchdog](https://www.securityweek.com/nvidia-unveils-ai-agent-safety-platform-with-hardware-based-watchdog/)
 
 **Source:** Security Week  
 **Published:** Mon, 28 Sep 2026 10:27:01 +0000  
@@ -335,7 +342,7 @@
 
 ---
 
-### 37. [Kiteworks Urges Server Shutdown, Finds Advanced Forms Vulnerability](https://www.securityweek.com/kiteworks-urges-server-shutdown-finds-advanced-forms-vulnerability/)
+### 38. [Kiteworks Urges Server Shutdown, Finds Advanced Forms Vulnerability](https://www.securityweek.com/kiteworks-urges-server-shutdown-finds-advanced-forms-vulnerability/)
 
 **Source:** Security Week  
 **Published:** Mon, 28 Sep 2026 09:44:27 +0000  
@@ -345,32 +352,23 @@
 
 ---
 
-### 38. [Citrix Confirms 2 NetScaler Zero-Days After Admins Pulled the Plug](https://www.securityweek.com/citrix-confirms-2-netscaler-zero-days-after-admins-pulled-the-plug/)
+### 39. [Citrix Confirms 2 NetScaler Zero-Days After Admins Pulled the Plug](https://www.securityweek.com/citrix-confirms-2-netscaler-zero-days-after-admins-pulled-the-plug/)
 
 **Source:** Security Week  
 **Published:** Mon, 28 Sep 2026 07:29:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-88772, CVE-2026-19490, CVE-2026-88771, CVE-2026-8452, CVE-2026-65660  
+**CVEs:** CVE-2026-88771, CVE-2026-8452, CVE-2026-88772, CVE-2026-19490, CVE-2026-65660  
 **Categories:** Vulnerability  
 
 ---
 
-### 39. [Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks](https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/)
+### 40. [Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks](https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/)
 
 **Source:** Security Week  
 **Published:** Sun, 27 Sep 2026 09:23:09 +0000  
 **Severity:** Critical  
 **CVEs:** CVE-2026-65660  
 **Categories:** Vulnerability, Malware  
-
----
-
-### 40. [China and US Agree to Establish AI Safety Channel and Continue Trade and Military Talks](https://www.securityweek.com/china-and-us-agree-to-establish-ai-safety-channel-and-continue-trade-and-military-talks/)
-
-**Source:** Security Week  
-**Published:** Sat, 26 Sep 2026 18:09:28 +0000  
-**Severity:** High  
-**Categories:** Vulnerability  
 
 ---
 
@@ -452,7 +450,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 08 Sep 2026 22:16:35 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69852, CVE-2026-81963, CVE-2026-85880, CVE-2026-69676  
+**CVEs:** CVE-2026-69676, CVE-2026-69852, CVE-2026-81963, CVE-2026-85880  
 **Categories:** Vulnerability, APT  
 
 ---

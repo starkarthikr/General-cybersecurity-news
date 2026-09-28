@@ -1,6 +1,61 @@
 [
   {
     "source": "The Hacker News",
+    "title": "IAM for AI agents: A Practical Enterprise Framework",
+    "link": "https://thehackernews.com/2026/09/iam-for-ai-agent.html",
+    "published": "Mon, 28 Sep 2026 23:50:38 +0530",
+    "summary": "What is IAM for AI agents?\n\nAI agents authenticate, invoke tools, and act across enterprise systems with delegated authority. IAM for AI Agents is the identity-control architecture that governs those actors. This guide covers the limits of conventional provisioning, the components that matter, how to evaluate framework choices, and what runtime evidence proves an agent behaved as intended.",
+    "analysis": {
+      "issue": "Learn how to secure AI agents with scoped access, short-lived credentials, runtime monitoring, audit evidence for enterprise governance at scale & rap",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M",
+    "link": "https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html",
+    "published": "Mon, 28 Sep 2026 23:12:18 +0530",
+    "summary": "The attacker who stole about $388 million from the cryptocurrency exchange Bitget gained access through a vulnerability in a third-party security product the exchange used, Bitget said on Monday.\n\nThe attacker exploited the flaw to obtain high-level internal credentials and then, on September 24, used them to send fraudulent withdrawal commands to Bitget's wallet system.\n\nExchanges keep most",
+    "analysis": {
+      "issue": "Bitget says an attacker used a third-party security product flaw to steal internal credentials and trigger about $388M in fraudulent withdrawals",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims",
+    "link": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
+    "published": "Mon, 28 Sep 2026 23:08:33 +0530",
+    "summary": "RatHat's operators build and publish the Android banking trojan and control infected phones from a web console, according to security company Cleafy. Cleafy has&nbsp;traced nearly 100 deployments&nbsp;of that console since April 2026. It said this fits a malware-as-a-service model, in which each customer runs a separate copy.\n\nThe console stores what the malware collects from each phone,",
+    "analysis": {
+      "issue": "Cleafy traced nearly 100 RatHat console deployments since April 2026, with the platform building malware and using Gemini to rank victims",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "⚡ Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats",
     "link": "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html",
     "published": "Mon, 28 Sep 2026 19:30:53 +0530",
@@ -128,58 +183,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
-    "link": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
-    "published": "Sat, 26 Sep 2026 17:16:40 +0530",
-    "summary": "Google is warning of renewed mass exploitation of a known security vulnerability in Oracle PeopleSoft as part of a campaign targeting multiple sectors globally.\n\nThe ShinyHunters-linked activity involves the weaponization of CVE-2026-35273 (CVSS score: 9.8), a critical security flaw that could result in unauthenticated remote code execution.\n\nThe vulnerability was first exploited as a zero-day",
+    "source": "Bleeping Computer",
+    "title": "Misconfigured Supabase apps expose data in over 16,000 databases",
+    "link": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
+    "published": "Mon, 28 Sep 2026 14:50:59 -0400",
+    "summary": "Researchers found more than 16,000 misconfigured Supabase databases exposing readable tables with personally identifiable information, passwords, or authentication tokens. [...]",
     "analysis": {
-      "issue": "ShinyHunters-linked attackers exploit CVE-2026-35273 in Oracle PeopleSoft, bypassing WAF rules to deploy web shells on dozens of systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-35273"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Zero Trust for AI Agents Starts With Fixing Zero Visibility",
-    "link": "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html",
-    "published": "Sat, 26 Sep 2026 16:00:00 +0530",
-    "summary": "The way we talk about AI agents is shifting, and the way we implement them requires an even more fundamental shift. While earlier discourse focused on how quickly organizations could stand up agents and how much productivity they could promise, a string of recent incidents, including a widely discussed intrusion at Hugging Face during an evaluation of OpenAI agents, has spurred organizations to",
-    "analysis": {
-      "issue": "METR says an attacker bypassed authentication on an agentic app, obtained an API key, and used $600,000 in tokens over three weeks",
+      "issue": "Researchers found more than 16,000 misconfigured Supabase databases exposing readable tables with personally identifiable information, passwords, or authentication tokens",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
-    "link": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
-    "published": "Sat, 26 Sep 2026 15:25:22 +0530",
-    "summary": "Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue administrator accounts and take control of a site.\n\nThe cross-site request forgery (CSRF) vulnerability, which has yet to be assigned a CVE identifier, carries a CVSS score of 8.8 out of 10.0. It only affects versions",
-    "analysis": {
-      "issue": "1 contain a CSRF flaw that can create an admin account when a logged-in administrator opens a crafted link",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
+        "Data Breach"
       ]
     }
   },
@@ -355,26 +372,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
-    "published": "Sat, 26 Sep 2026 15:03:34 -0400",
-    "summary": "The ShinyHunters extortion gang is using a URL-encoding trick to bypass web application firewall rules that mitigate the Oracle PeopleSoft CVE-2026-35273 flaw, allowing the threat actors to resume widespread exploitation of a flaw on vulnerable servers. [...]",
-    "analysis": {
-      "issue": "The ShinyHunters extortion gang is using a URL-encoding trick to bypass web application firewall rules that mitigate the Oracle PeopleSoft CVE-2026-35273 flaw, allowing the threat actors to resume widespread exploitation of a flaw on vulnerable serve",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-35273"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
     "link": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
@@ -444,10 +441,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-81963",
         "CVE-2026-69730",
-        "CVE-2026-85880",
-        "CVE-2026-69829"
+        "CVE-2026-69829",
+        "CVE-2026-81963",
+        "CVE-2026-85880"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -525,8 +522,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-62832",
-        "CVE-2026-72971",
-        "CVE-2026-68820"
+        "CVE-2026-68820",
+        "CVE-2026-72971"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -569,6 +566,24 @@
       "cves": [],
       "threat_categories": [
         "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Modulate Raises $25 Million to Advance Deepfake Detection",
+    "link": "https://www.securityweek.com/modulate-raises-25-million-to-advance-deepfake-detection/",
+    "published": "Mon, 28 Sep 2026 17:30:00 +0000",
+    "summary": "<p>The misuse and abuse of AI-generated voice is growing. Modulate’s intention is to allow real time detection and intervention. </p>\n<p>The post <a href=\"https://www.securityweek.com/modulate-raises-25-million-to-advance-deepfake-detection/\">Modulate Raises $25 Million to Advance Deepfake Detection</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The misuse and abuse of AI-generated voice is growing",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -723,10 +738,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-88772",
-        "CVE-2026-19490",
         "CVE-2026-88771",
         "CVE-2026-8452",
+        "CVE-2026-88772",
+        "CVE-2026-19490",
         "CVE-2026-65660"
       ],
       "threat_categories": [
@@ -752,24 +767,6 @@
       "threat_categories": [
         "Vulnerability",
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "China and US Agree to Establish AI Safety Channel and Continue Trade and Military Talks",
-    "link": "https://www.securityweek.com/china-and-us-agree-to-establish-ai-safety-channel-and-continue-trade-and-military-talks/",
-    "published": "Sat, 26 Sep 2026 18:09:28 +0000",
-    "summary": "<p>The US and China agreed to set up a communication mechanism for artificial intelligence-related incidents.</p>\n<p>The post <a href=\"https://www.securityweek.com/china-and-us-agree-to-establish-ai-safety-channel-and-continue-trade-and-military-talks/\">China and US Agree to Establish AI Safety Channel and Continue Trade and Military Talks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The US and China agreed to set up a communication mechanism for artificial intelligence-related incidents",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -940,10 +937,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-69676",
         "CVE-2026-69852",
         "CVE-2026-81963",
-        "CVE-2026-85880",
-        "CVE-2026-69676"
+        "CVE-2026-85880"
       ],
       "threat_categories": [
         "Vulnerability",
