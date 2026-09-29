@@ -1,9 +1,27 @@
 [
   {
     "source": "The Hacker News",
+    "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
+    "link": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
+    "published": "Tue, 29 Sep 2026 23:17:01 +0530",
+    "summary": "An attacker used stolen passwords of staff at France's tax administration to take tax data on hundreds of thousands of taxpayers and businesses in June and July.\n\nNeither the tax administration nor France's national cybersecurity agency saw the data leave. The attack was not sophisticated, the agency, ANSSI, says in a&nbsp;report&nbsp;(in French) published on Tuesday: it worked because of weak",
+    "analysis": {
+      "issue": "French tax data theft used stolen staff passwords and evaded DGFIP and ANSSI monitoring",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
     "link": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
-    "published": "Tue, 29 Sep 2026 22:30:00 +0530",
+    "published": "Tue, 29 Sep 2026 22:50:17 +0530",
     "summary": "A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web browsers, language runtimes, and the operating system kernel, across multiple CPU vendors.\n\nThe new Spectre-v2 variant has been codenamed Branch Target Reuse (BTR).\n\n\"The key insight is that, while modern CPUs",
     "analysis": {
       "issue": "Spectre BTR reuses stale JIT branch targets; Linux PoCs recover the root password hash within minutes on a fully patched Intel system",
@@ -14,6 +32,24 @@
       "cves": [],
       "threat_categories": [
         "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor",
+    "link": "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html",
+    "published": "Tue, 29 Sep 2026 22:50:08 +0530",
+    "summary": "Russian state hackers known as Star Blizzard have been using fake event invitations to trick people into installing a backdoor on their Windows computers,&nbsp;according to Microsoft.\n\nThe campaigns, aimed at people and organizations tied to Ukraine, have affected more than 100 organizations since January, mostly in the U.S. and U.K. At least one computer was infected, but the number of breached",
+    "analysis": {
+      "issue": "Star Blizzard uses fake event invites and RedFlick scheduled tasks to install CosmicPulse on Windows systems tied to Ukraine",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
       ]
     }
   },
@@ -146,38 +182,61 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks",
-    "link": "https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html",
-    "published": "Tue, 29 Sep 2026 00:05:42 +0530",
-    "summary": "Hackers have used a malware family called NeedyMantis to maintain long-term access to networks they had already breached, Microsoft said in&nbsp;a technical analysis.\n\nThe malware has been seen in a small number of targeted intrusions at telecommunications organizations, universities, medical nonprofits, intergovernmental organizations, and government contractors. Its use goes back to at least",
+    "source": "Bleeping Computer",
+    "title": "FBI tells ShinyHunters members to turn themselves in after recent arrest",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/",
+    "published": "Tue, 29 Sep 2026 16:09:55 -0400",
+    "summary": "The FBI is warning members of the ShinyHunters extortion group to turn themselves in after Dutch police arrested a man the bureau described as one of the group's alleged leaders. [...]",
     "analysis": {
-      "issue": "NeedyMantis maintains long-term access in targeted intrusions, using DLL sideloading and HTTPS-to-WebSocket command-and-control",
+      "issue": "The FBI is warning members of the ShinyHunters extortion group to turn themselves in after Dutch police arrested a man the bureau described as one of the group's alleged leaders",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "APT"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "IAM for AI agents: A Practical Enterprise Framework",
-    "link": "https://thehackernews.com/2026/09/iam-for-ai-agent.html",
-    "published": "Mon, 28 Sep 2026 23:50:38 +0530",
-    "summary": "What is IAM for AI agents?\n\nAI agents authenticate, invoke tools, and act across enterprise systems with delegated authority. IAM for AI Agents is the identity-control architecture that governs those actors. This guide covers the limits of conventional provisioning, the components that matter, how to evaluate framework choices, and what runtime evidence proves an agent behaved as intended.",
+    "source": "Bleeping Computer",
+    "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/",
+    "published": "Tue, 29 Sep 2026 14:37:12 -0400",
+    "summary": "Cybersecurity firms say attackers exploited the Citrix NetScaler CVE-2026-88772 zero-day to deploy custom web shells and tunneling malware, gain root access, steal credentials, and spread into internal networks. [...]",
     "analysis": {
-      "issue": "Learn how to secure AI agents with scoped access, short-lived credentials, runtime monitoring, audit evidence for enterprise governance at scale & rap",
+      "issue": "Cybersecurity firms say attackers exploited the Citrix NetScaler CVE-2026-88772 zero-day to deploy custom web shells and tunneling malware, gain root access, steal credentials, and spread into internal networks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-88771",
+        "CVE-2026-88772"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Former US Air Force members sent to prison over BEC attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/former-us-air-force-members-sent-to-prison-over-bec-attacks/",
+    "published": "Tue, 29 Sep 2026 14:09:39 -0400",
+    "summary": "Two former members of the United States Air Force were sentenced to a combined 189 months in federal prison for their roles in a multi-year series of business email compromise (BEC) scams and phishing campaigns. [...]",
+    "analysis": {
+      "issue": "Two former members of the United States Air Force were sentenced to a combined 189 months in federal prison for their roles in a multi-year series of business email compromise (BEC) scams and phishing campaigns",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Phishing"
       ]
     }
   },
@@ -314,60 +373,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Japan's Keio confirms ransomware attack disrupted business systems",
-    "link": "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/",
-    "published": "Mon, 28 Sep 2026 16:56:47 -0400",
-    "summary": "Keio Corporation (Keio), a major private railway operator in Japan, said its network was hit by a ransomware attack over the weekend, disrupting  some of its business systems. [...]",
-    "analysis": {
-      "issue": "Keio Corporation (Keio), a major private railway operator in Japan, said its network was hit by a ransomware attack over the weekend, disrupting  some of its business systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Times Car confirms data breach affecting 6.6 million user accounts",
-    "link": "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/",
-    "published": "Mon, 28 Sep 2026 16:31:16 -0400",
-    "summary": "Japanese car-sharing service Times Car has confirmed that approximately 6.6 million user accounts were compromised in a cyberattack disclosed late last week. [...]",
-    "analysis": {
-      "issue": "Japanese car-sharing service Times Car has confirmed that approximately 6",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Dutch police confirm arrest in ShinyHunters hacking investigation",
-    "link": "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/",
-    "published": "Mon, 28 Sep 2026 15:49:10 -0400",
-    "summary": "Dutch police have confirmed that a 24-year-old Amsterdam man arrested earlier this month was detained as part of an investigation into the ShinyHunters hacking group. [...]",
-    "analysis": {
-      "issue": "Dutch police have confirmed that a 24-year-old Amsterdam man arrested earlier this month was detained as part of an investigation into the ShinyHunters hacking group",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
     "link": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
@@ -437,10 +442,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-81963",
-        "CVE-2026-69829",
         "CVE-2026-85880",
-        "CVE-2026-69730"
+        "CVE-2026-69730",
+        "CVE-2026-69829",
+        "CVE-2026-81963"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -518,8 +523,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-68820",
-        "CVE-2026-72971",
-        "CVE-2026-62832"
+        "CVE-2026-62832",
+        "CVE-2026-72971"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -562,6 +567,24 @@
       "cves": [],
       "threat_categories": [
         "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "OpenAI CEO Announces New AI Agent and Avoids Mention of Security Concerns at Developer Conference",
+    "link": "https://www.securityweek.com/openai-ceo-announces-new-ai-agent-and-avoids-mention-of-security-concerns-at-developer-conference/",
+    "published": "Tue, 29 Sep 2026 20:14:44 +0000",
+    "summary": "<p>Altman made a slew of product announcements and updates, including the company’s new agents, called Dots.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-ceo-announces-new-ai-agent-and-avoids-mention-of-security-concerns-at-developer-conference/\">OpenAI CEO Announces New AI Agent and Avoids Mention of Security Concerns at Developer Conference</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Altman made a slew of product announcements and updates, including the company’s new agents, called Dots",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -736,28 +759,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Dutch Police Arrest Convicted Hacker in ShinyHunters Investigation",
-    "link": "https://www.securityweek.com/dutch-police-arrest-convicted-hacker-in-shinyhunters-investigation/",
-    "published": "Tue, 29 Sep 2026 11:01:55 +0000",
-    "summary": "<p>Pepijn van der Stap was convicted in 2023 for hacking multiple organizations, stealing their data, and extorting them.</p>\n<p>The post <a href=\"https://www.securityweek.com/dutch-police-arrest-convicted-hacker-in-shinyhunters-investigation/\">Dutch Police Arrest Convicted Hacker in ShinyHunters Investigation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Pepijn van der Stap was convicted in 2023 for hacking multiple organizations, stealing their data, and extorting them",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-35273"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Phishing"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Securing the keys to the kingdom: Announcing Executive Threat Detection",
     "link": "https://blog.talosintelligence.com/securing-the-keys-to-the-kingdom-announcing-executive-threat-detection/",
@@ -920,8 +921,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20079",
-        "CVE-2026-20316"
+        "CVE-2026-20316",
+        "CVE-2026-20079"
       ],
       "threat_categories": [
         "Ransomware",
@@ -945,9 +946,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-69852",
-        "CVE-2026-81963",
+        "CVE-2026-85880",
         "CVE-2026-69676",
-        "CVE-2026-85880"
+        "CVE-2026-81963"
       ],
       "threat_categories": [
         "Vulnerability",
