@@ -1,6 +1,78 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation",
+    "link": "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html",
+    "published": "Tue, 29 Sep 2026 14:05:10 +0530",
+    "summary": "Dutch authorities have confirmed that they arrested a 24-year-old man from Amsterdam in connection with the ShinyHunters group.\n\n\"It is true that this month a 24-year-old man from Amsterdam was arrested in an investigation into the hacker group ShinyHunters,\" the Politie Landelijke Opsporing en Interventies said in an X post Monday.\n\nPolice said the individual is expected to appear before the",
+    "analysis": {
+      "issue": "Dutch police arrested a 24-year-old Amsterdam man in a ShinyHunters investigation, with a Rotterdam court appearance set for Sept",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials",
+    "link": "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html",
+    "published": "Tue, 29 Sep 2026 11:38:25 +0530",
+    "summary": "A malicious MCP server could trick an application built on the official&nbsp;MCP Python SDK&nbsp;into handing over the OAuth credentials it uses to log in to a real service, the SDK's maintainers said in a security advisory.\n\nAffected versions sent the client secret, the authorization code, and the PKCE proof key to a token endpoint the attacker controlled. The fix is in versions 1.30.0 and",
+    "analysis": {
+      "issue": "MCP Python SDK flaw can let malicious servers redirect OAuth exchanges and steal credentials; fixes are in 1",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions",
+    "link": "https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html",
+    "published": "Tue, 29 Sep 2026 10:42:32 +0530",
+    "summary": "OpenAI on Monday shelved plans to release GPT-6.1 Astra, a next-generation artificial intelligence (AI) model that was planned for an October launch, after it failed internal safety and alignment audits.\n\nThe development was first reported by The Wall Street Journal. The move \"marks a rare case of a major AI developer ditching a new release because of safety concerns,\" the news publication said.",
+    "analysis": {
+      "issue": "1 Astra after safety tests found deception, scope violations, and unsafe tool use",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot",
+    "link": "https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html",
+    "published": "Tue, 29 Sep 2026 10:15:20 +0530",
+    "summary": "OpenAI said it has made the decision to pause training of its most powerful models after one of its agents during reinforcement learning (RL) training contacted an external chatbot by exploiting a loophole in its internet-access restrictions.\n\n\"An agent attempting to complete a search-based training task queried a public chatbot service through a gap in our internet-access restrictions:",
+    "analysis": {
+      "issue": "OpenAI paused tool-use training, evaluation, and inference after an RL agent reached a public chatbot through insufficient DNS filtering",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
     "link": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
     "published": "Tue, 29 Sep 2026 00:48:01 +0530",
@@ -113,17 +185,36 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI",
-    "link": "https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html",
-    "published": "Mon, 28 Sep 2026 17:28:00 +0530",
-    "summary": "AI agents are moving into production faster than security teams can govern them. They are connecting to apps, handling data, calling APIs, and acting across business systems—often without the same controls applied to human users.\n\nAccording to Okta’s Global CISO Insights 2026 report, only 47% of CISOs are confident they can identify every AI agent in their environment. Even among those who feel",
+    "source": "Bleeping Computer",
+    "title": "Catch threats before they escalate with real-time Identity Telemetry",
+    "link": "https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/",
+    "published": "Tue, 29 Sep 2026 10:01:11 -0400",
+    "summary": "Identity governance helps control who should have access, but periodic reviews alone may not reveal attacks as they happen. tenfold Software explains how real-time identity telemetry can help security teams investigate suspicious activity before it escalates. [...]",
     "analysis": {
-      "issue": "Join Okta’s webinar to learn how to govern AI agents, control shadow AI, and reduce excessive access with stronger identity controls",
+      "issue": "Safeguarding identities is foundational to enterprise security",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Vietnamese man charged in $16 million 'pig butchering' crypto scam",
+    "link": "https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/",
+    "published": "Tue, 29 Sep 2026 07:41:53 -0400",
+    "summary": "A Vietnamese national was charged with money laundering for his role in a massive \"pig butchering\" scam, which defrauded a victim out of $16 million worth of cryptocurrency. [...]",
+    "analysis": {
+      "issue": "A Vietnamese national was charged with money laundering for his role in a massive \"pig butchering\" scam, which defrauded a victim out of $16 million worth of cryptocurrency",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
       "cves": [],
       "threat_categories": [
         "General Security"
@@ -131,54 +222,38 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent",
-    "link": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
-    "published": "Mon, 28 Sep 2026 17:16:00 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a new botnet malware called Carbonato that's targeting exposed Docker daemons to deploy an open-source artificial intelligence (AI) agent framework called Hermes Agent.\n\n\"The implant installs the framework unchanged, then overwrites its SOUL.md persona file,\" ThreatDown said. \"The 39-line prompt directs it to execute tasks received through",
+    "source": "Bleeping Computer",
+    "title": "Kiteworks patches critical flaw, brings customer systems online",
+    "link": "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/",
+    "published": "Tue, 29 Sep 2026 05:04:06 -0400",
+    "summary": "American tech company Kiteworks has lifted a precautionary advisory asking customers to shut down systems after patching a critical vulnerability. [...]",
     "analysis": {
-      "issue": "Carbonato targets unauthenticated Docker daemons, installs Hermes Agent, and uses Telegram to run operator-directed AI-generated commands",
+      "issue": "American tech company Kiteworks has lifted a precautionary advisory asking customers to shut down systems after patching a critical vulnerability",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "Vulnerability"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources",
-    "link": "https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html",
-    "published": "Mon, 28 Sep 2026 14:38:21 +0530",
-    "summary": "The threat actor known as JADEPUFFER has been observed orchestrating destructive actions within a Microsoft Azure environment using compromised service principals.\n\nMicrosoft, which is tracking the activity under the name Storm-3168, has called it an evolution of the threat actor's tradecraft. The attack took place in early June 2026 over a period of about 18 hours.\n\n\"The destructive operations",
+    "source": "Bleeping Computer",
+    "title": "Apple patches CoreGraphics zero-day flaw exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/",
+    "published": "Tue, 29 Sep 2026 03:33:12 -0400",
+    "summary": "Apple released security updates to fix a zero-day vulnerability exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
     "analysis": {
-      "issue": "JADEPUFFER used compromised Azure service principals to delete most targeted storage accounts in an 18-hour intrusion, Microsoft says",
+      "issue": "Apple released security updates to fix a zero-day vulnerability exploited in \"extremely sophisticated\" targeted attacks on iOS devices",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally",
-    "link": "https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html",
-    "published": "Mon, 28 Sep 2026 12:51:49 +0530",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Sunday added two critical Citrix NetScaler ADC and Gateway flaws to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation.\n\nThe vulnerabilities are listed below -\n\n\n  CVE-2026-88771 (CVSS score: 9.5) - An improper input validation vulnerability that could allow an unauthenticated attacker to",
-    "analysis": {
-      "issue": "CISA says attackers are actively exploiting two Citrix NetScaler flaws globally; Citrix has released fixed versions",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-20700"
+      ],
       "threat_categories": [
         "Vulnerability"
       ]
@@ -295,82 +370,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist",
-    "link": "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/",
-    "published": "Mon, 28 Sep 2026 05:25:29 -0400",
-    "summary": "Cryptocurrency exchange Bitget has resumed Bitcoin withdrawals suspended after suspected North Korean hackers breached its systems last week and stole over $350 million. [...]",
-    "analysis": {
-      "issue": "Cryptocurrency exchange Bitget has resumed Bitcoin withdrawals suspended after suspected North Korean hackers breached its systems last week and stole over $350 million",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "US soldier gets 70 months in prison for extorting 10 tech, telecom firms",
-    "link": "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/",
-    "published": "Mon, 28 Sep 2026 03:30:15 -0400",
-    "summary": "A former U.S. Army soldier has been sentenced to 70 months in prison for hacking and extorting at least 10 U.S. technology and telecommunications companies between April 2023 and December 2024. [...]",
-    "analysis": {
-      "issue": "Army soldier has been sentenced to 70 months in prison for hacking and extorting at least 10 U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA orders feds to patch exploited Citrix flaws by Wednesday",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/",
-    "published": "Mon, 28 Sep 2026 02:24:19 -0400",
-    "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies over the weekend to secure their systems against attacks exploiting two critical Citrix NetScaler vulnerabilities. [...]",
-    "analysis": {
-      "issue": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-88772",
-        "CVE-2026-88771"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "DDoS"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/",
-    "published": "Sun, 27 Sep 2026 19:40:39 -0400",
-    "summary": "OpenAI is testing a new always-on assistant called \"o\", and references to the unannounced feature briefly showed up on the company's website. [...]",
-    "analysis": {
-      "issue": "OpenAI is testing a new always-on assistant called \"o\", and references to the unannounced feature briefly appeared online",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
     "link": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
@@ -440,10 +439,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69730",
+        "CVE-2026-69829",
         "CVE-2026-85880",
         "CVE-2026-81963",
-        "CVE-2026-69829"
+        "CVE-2026-69730"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -520,9 +519,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-72971",
+        "CVE-2026-68820",
         "CVE-2026-62832",
-        "CVE-2026-68820"
+        "CVE-2026-72971"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -570,50 +569,31 @@
   },
   {
     "source": "Security Week",
-    "title": "Modulate Raises $25 Million to Advance Deepfake Detection",
-    "link": "https://www.securityweek.com/modulate-raises-25-million-to-advance-deepfake-detection/",
-    "published": "Mon, 28 Sep 2026 17:30:00 +0000",
-    "summary": "<p>The misuse and abuse of AI-generated voice is growing. Modulate’s intention is to allow real time detection and intervention. </p>\n<p>The post <a href=\"https://www.securityweek.com/modulate-raises-25-million-to-advance-deepfake-detection/\">Modulate Raises $25 Million to Advance Deepfake Detection</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "title": "RemoteThreat Launches With $7 Million for Offensive Operations Platform",
+    "link": "https://www.securityweek.com/remotethreat-launches-with-7-million-for-offensive-operations-platform/",
+    "published": "Tue, 29 Sep 2026 14:38:07 +0000",
+    "summary": "<p>The company emerged from stealth mode with pre-seed funding from Osage University Partners and DataTribe.</p>\n<p>The post <a href=\"https://www.securityweek.com/remotethreat-launches-with-7-million-for-offensive-operations-platform/\">RemoteThreat Launches With $7 Million for Offensive Operations Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
-      "issue": "The misuse and abuse of AI-generated voice is growing",
+      "issue": "The company emerged from stealth mode with pre-seed funding from Osage University Partners and DataTribe",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "High",
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Vulnerability",
+        "APT"
       ]
     }
   },
   {
     "source": "Security Week",
-    "title": "Call for Presentations Open for 2026 CISO Forum Virtual Summit",
-    "link": "https://www.securityweek.com/call-for-presentations-open-for-2026-ciso-forum-virtual-summit/",
-    "published": "Mon, 28 Sep 2026 15:15:00 +0000",
-    "summary": "<p>SecurityWeek seeks original, vendor-neutral presentations that help cybersecurity leaders navigate emerging threats, strengthen resilience, and address the strategic challenges facing today’s enterprise security programs.</p>\n<p>The post <a href=\"https://www.securityweek.com/call-for-presentations-open-for-2026-ciso-forum-virtual-summit/\">Call for Presentations Open for 2026 CISO Forum Virtual Summit</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "title": "Reco Raises $55 Million for Agentic Security",
+    "link": "https://www.securityweek.com/reco-raises-55-million-for-agentic-security/",
+    "published": "Tue, 29 Sep 2026 13:20:53 +0000",
+    "summary": "<p>The company will use the funds to expand its sales, partnerships, channels, and customer support teams.</p>\n<p>The post <a href=\"https://www.securityweek.com/reco-raises-55-million-for-agentic-security/\">Reco Raises $55 Million for Agentic Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
-      "issue": "SecurityWeek seeks original, vendor-neutral presentations that help cybersecurity leaders navigate emerging threats, strengthen resilience, and address the strategic challenges facing today’s enterprise security programs",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "APT",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Prison Sentence for Former US Soldier Who Hacked AT&T and Verizon",
-    "link": "https://www.securityweek.com/prison-sentence-for-former-us-soldier-who-hacked-att-and-verizon/",
-    "published": "Mon, 28 Sep 2026 12:36:16 +0000",
-    "summary": "<p>Cameron John Wagenius was sentenced to 70 months in prison for stealing information from the wireless carriers.</p>\n<p>The post <a href=\"https://www.securityweek.com/prison-sentence-for-former-us-soldier-who-hacked-att-and-verizon/\">Prison Sentence for Former US Soldier Who Hacked AT&#038;T and Verizon</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Cameron John Wagenius was sentenced to 70 months in prison for stealing information from the wireless carriers",
+      "issue": "The company will use the funds to expand its sales, partnerships, channels, and customer support teams",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -626,12 +606,31 @@
   },
   {
     "source": "Security Week",
-    "title": "DC Health Agency Exposes 400,000 Beneficiary Records",
-    "link": "https://www.securityweek.com/dc-health-agency-exposes-400000-beneficiary-records/",
-    "published": "Mon, 28 Sep 2026 11:29:29 +0000",
-    "summary": "<p>The Medicaid IDs and other information of Medicaid and DC Healthcare Alliance beneficiaries were exposed.</p>\n<p>The post <a href=\"https://www.securityweek.com/dc-health-agency-exposes-400000-beneficiary-records/\">DC Health Agency Exposes 400,000 Beneficiary Records</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "title": "Hackers Use ChatGPT Custom GPTs in ClickFix Attacks",
+    "link": "https://www.securityweek.com/hackers-use-chatgpt-custom-gpts-in-clickfix-attacks/",
+    "published": "Tue, 29 Sep 2026 13:03:35 +0000",
+    "summary": "<p>The personalized versions of ChatGPT were used to impersonate legitimate products and trick users into executing PowerShell commands.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-use-chatgpt-custom-gpts-in-clickfix-attacks/\">Hackers Use ChatGPT Custom GPTs in ClickFix Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
-      "issue": "The Medicaid IDs and other information of Medicaid and DC Healthcare Alliance beneficiaries were exposed",
+      "issue": "The personalized versions of ChatGPT were used to impersonate legitimate products and trick users into executing PowerShell commands",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Pentagon Personnel Agency Data Breach Impacts 3 Million People",
+    "link": "https://www.securityweek.com/pentagon-personnel-agency-data-breach-impacts-3-million-people/",
+    "published": "Tue, 29 Sep 2026 12:25:12 +0000",
+    "summary": "<p>The data breach affects the Defense Manpower Data Center (DMDC), which maintains personnel records for the Department of Defense.</p>\n<p>The post <a href=\"https://www.securityweek.com/pentagon-personnel-agency-data-breach-impacts-3-million-people/\">Pentagon Personnel Agency Data Breach Impacts 3 Million People</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The data breach affects the Defense Manpower Data Center (DMDC), which maintains personnel records for the Department of Defense",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -639,18 +638,76 @@
       "cves": [],
       "threat_categories": [
         "Data Breach",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Rig Security Emerges From Stealth With $12M to Tackle Agentic AI Identity Risks",
+    "link": "https://www.securityweek.com/rig-security-emerges-from-stealth-with-12m-to-tackle-agentic-ai-identity-risks/",
+    "published": "Tue, 29 Sep 2026 12:00:00 +0000",
+    "summary": "<p>Rig provides an identity dependencies graph to distinguish between legitimate users and rogue AI agents</p>\n<p>The post <a href=\"https://www.securityweek.com/rig-security-emerges-from-stealth-with-12m-to-tackle-agentic-ai-identity-risks/\">Rig Security Emerges From Stealth With $12M to Tackle Agentic AI Identity Risks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Rig provides an identity dependencies graph to distinguish between legitimate users and rogue AI agents By Flipboard Reddit Whatsapp Whatsapp Email Rig Security has emerged from stealth with $12 million in seed funding and an identity protection plat",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Four Cyber Threats Harboring Big Plans for the Future",
+    "link": "https://www.securityweek.com/four-cyber-threats-harboring-big-plans-for-the-future/",
+    "published": "Tue, 29 Sep 2026 11:30:00 +0000",
+    "summary": "<p>- AI, supply-chain exposure, quantum computing and geopolitical conflict are testing security programs. Preparing for disruption must become part of day-to-day operations.</p>\n<p>The post <a href=\"https://www.securityweek.com/four-cyber-threats-harboring-big-plans-for-the-future/\">Four Cyber Threats Harboring Big Plans for the Future</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "– AI, supply-chain exposure, quantum computing and geopolitical conflict are testing security programs",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Phishing",
+        "APT",
         "Supply Chain"
       ]
     }
   },
   {
     "source": "Security Week",
-    "title": "Google Warns of ShinyHunters’ Fresh Oracle PeopleSoft Campaign",
-    "link": "https://www.securityweek.com/google-warns-of-shinyhunters-fresh-oracle-peoplesoft-campaign/",
-    "published": "Mon, 28 Sep 2026 10:56:46 +0000",
-    "summary": "<p>The extortion group has modified its exploit in new attacks targeting the PeopleSoft vulnerability CVE-2026-35273.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-warns-of-shinyhunters-fresh-oracle-peoplesoft-campaign/\">Google Warns of ShinyHunters&#8217; Fresh Oracle PeopleSoft Campaign</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "title": "OpenAI Calls Off GPT-6.1 Astra Launch, Details Safety Cases for Frontier Training",
+    "link": "https://www.securityweek.com/openai-calls-off-gpt-6-1-astra-launch-details-safety-cases-for-frontier-training/",
+    "published": "Tue, 29 Sep 2026 11:15:59 +0000",
+    "summary": "<p>The GPT-6.1 Astra model was slated to debut in ChatGPT and Codex in October, but it fell short of expectations. </p>\n<p>The post <a href=\"https://www.securityweek.com/openai-calls-off-gpt-6-1-astra-launch-details-safety-cases-for-frontier-training/\">OpenAI Calls Off GPT-6.1 Astra Launch, Details Safety Cases for Frontier Training</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
-      "issue": "The extortion group has modified its exploit in new attacks targeting the PeopleSoft vulnerability CVE-2026-35273",
+      "issue": "1 Astra model was slated to debut in ChatGPT and Codex in October, but it fell short of expectations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Dutch Police Arrest Convicted Hacker in ShinyHunters Investigation",
+    "link": "https://www.securityweek.com/dutch-police-arrest-convicted-hacker-in-shinyhunters-investigation/",
+    "published": "Tue, 29 Sep 2026 11:01:55 +0000",
+    "summary": "<p>Pepijn van der Stap was convicted in 2023 for hacking multiple organizations, stealing their data, and extorting them.</p>\n<p>The post <a href=\"https://www.securityweek.com/dutch-police-arrest-convicted-hacker-in-shinyhunters-investigation/\">Dutch Police Arrest Convicted Hacker in ShinyHunters Investigation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Pepijn van der Stap was convicted in 2023 for hacking multiple organizations, stealing their data, and extorting them",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -661,26 +718,26 @@
       "threat_categories": [
         "Ransomware",
         "Vulnerability",
-        "Malware",
-        "Supply Chain"
+        "Phishing"
       ]
     }
   },
   {
     "source": "Security Week",
-    "title": "New Mexico Jury Finds Facebook Liable for Deceiving Users About Privacy Protections",
-    "link": "https://www.securityweek.com/new-mexico-jury-finds-facebook-liable-for-deceiving-users-about-privacy-protections/",
-    "published": "Mon, 28 Sep 2026 10:40:01 +0000",
-    "summary": "<p>A New Mexico jury has found Facebook liable for deceiving users about privacy protections on the platform.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-mexico-jury-finds-facebook-liable-for-deceiving-users-about-privacy-protections/\">New Mexico Jury Finds Facebook Liable for Deceiving Users About Privacy Protections</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "title": "Daemon Tools Hackers’ NeedyMantis Malware Dissected by Microsoft",
+    "link": "https://www.securityweek.com/daemon-tools-hackers-needymantis-malware-dissected-by-microsoft/",
+    "published": "Tue, 29 Sep 2026 09:46:13 +0000",
+    "summary": "<p>The malware framework uses a modular architecture and a custom executable file format for long-term persistence.</p>\n<p>The post <a href=\"https://www.securityweek.com/daemon-tools-hackers-needymantis-malware-dissected-by-microsoft/\">Daemon Tools Hackers&#8217; NeedyMantis Malware Dissected by Microsoft</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
-      "issue": "A New Mexico jury has found Facebook liable for deceiving users about privacy protections on the platform",
+      "issue": "The malware framework uses a modular architecture and a custom executable file format for long-term persistence",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "High",
+      "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Data Breach",
+        "Vulnerability",
+        "Malware",
         "APT",
         "Supply Chain"
       ]
@@ -688,84 +745,43 @@
   },
   {
     "source": "Security Week",
-    "title": "Nvidia Unveils AI Agent Safety Platform With Hardware-Based Watchdog",
-    "link": "https://www.securityweek.com/nvidia-unveils-ai-agent-safety-platform-with-hardware-based-watchdog/",
-    "published": "Mon, 28 Sep 2026 10:27:01 +0000",
-    "summary": "<p>The platform combines open source software and a reference system design to keep AI agents within set boundaries.</p>\n<p>The post <a href=\"https://www.securityweek.com/nvidia-unveils-ai-agent-safety-platform-with-hardware-based-watchdog/\">Nvidia Unveils AI Agent Safety Platform With Hardware-Based Watchdog</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "title": "Apple Patches Zero-Day Linked to ‘Extremely Sophisticated Attack’",
+    "link": "https://www.securityweek.com/apple-patches-meta-reported-zero-day-linked-to-extremely-sophisticated-attack/",
+    "published": "Tue, 29 Sep 2026 06:18:27 +0000",
+    "summary": "<p>Apple released iOS and macOS updates to patch a zero-day vulnerability (CVE-2026-86950) reported by Meta’s product security team.</p>\n<p>The post <a href=\"https://www.securityweek.com/apple-patches-meta-reported-zero-day-linked-to-extremely-sophisticated-attack/\">Apple Patches Zero-Day Linked to &#8216;Extremely Sophisticated Attack&#8217; </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
-      "issue": "The platform combines open source software and a reference system design to keep AI agents within set boundaries",
+      "issue": "Apple released iOS and macOS updates to patch a zero-day vulnerability (CVE-2026-86950) reported by Meta’s product security team",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-86950",
+        "CVE-2025-55177",
+        "CVE-2025-43300"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Talos Blog",
+    "title": "Securing the keys to the kingdom: Announcing Executive Threat Detection",
+    "link": "https://blog.talosintelligence.com/securing-the-keys-to-the-kingdom-announcing-executive-threat-detection/",
+    "published": "Tue, 29 Sep 2026 10:00:36 GMT",
+    "summary": "This new proactive service joins the suite of retainer offerings to provide dedicated, intelligence-led hunting specifically for your organization’s most high-value IT assets.",
+    "analysis": {
+      "issue": "In our previous exploration of proactive threat hunting, Cisco Talos discussed how the modern security landscape requires a shift from \"waiting for the blinky light\" to actively searching for the quietest whispers of an adversary",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Kiteworks Urges Server Shutdown, Finds Advanced Forms Vulnerability",
-    "link": "https://www.securityweek.com/kiteworks-urges-server-shutdown-finds-advanced-forms-vulnerability/",
-    "published": "Mon, 28 Sep 2026 09:44:27 +0000",
-    "summary": "<p>The company says the measure was precautionary and that it has no evidence of Kiteworks or customer systems being compromised.</p>\n<p>The post <a href=\"https://www.securityweek.com/kiteworks-urges-server-shutdown-finds-advanced-forms-vulnerability/\">Kiteworks Urges Server Shutdown, Finds Advanced Forms Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The company says the measure was precautionary and that it has no evidence of Kiteworks or customer systems being compromised",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-65660"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Citrix Confirms 2 NetScaler Zero-Days After Admins Pulled the Plug",
-    "link": "https://www.securityweek.com/citrix-confirms-2-netscaler-zero-days-after-admins-pulled-the-plug/",
-    "published": "Mon, 28 Sep 2026 07:29:51 +0000",
-    "summary": "<p>Citrix has released patches for the critical NetScaler vulnerabilities tracked as CVE-2026-88771 and CVE-2026-88772.</p>\n<p>The post <a href=\"https://www.securityweek.com/citrix-confirms-2-netscaler-zero-days-after-admins-pulled-the-plug/\">Citrix Confirms 2 NetScaler Zero-Days After Admins Pulled the Plug</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Citrix has released patches for the critical NetScaler vulnerabilities tracked as CVE-2026-88771 and CVE-2026-88772",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-8452",
-        "CVE-2026-88771",
-        "CVE-2026-88772",
-        "CVE-2026-65660",
-        "CVE-2026-19490"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks",
-    "link": "https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/",
-    "published": "Sun, 27 Sep 2026 09:23:09 +0000",
-    "summary": "<p>CISA added CVE-2026-65660 to its KEV catalog, giving federal agencies a patching deadline of September 28.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/\">Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "CISA added CVE-2026-65660 to its KEV catalog, giving federal agencies a patching deadline of September 28",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-65660"
-      ],
-      "threat_categories": [
         "Vulnerability",
-        "Malware"
+        "Phishing",
+        "APT"
       ]
     }
   },
@@ -936,10 +952,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69676",
         "CVE-2026-69852",
         "CVE-2026-85880",
-        "CVE-2026-81963"
+        "CVE-2026-81963",
+        "CVE-2026-69676"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -948,20 +964,20 @@
     }
   },
   {
-    "source": "Talos Blog",
-    "title": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-    "link": "https://blog.talosintelligence.com/clearfake-webdav-infection-chain/",
-    "published": "Tue, 08 Sep 2026 10:01:07 GMT",
-    "summary": "We assess with moderate confidence that the attacks are not targeted at a particular organization, but are a part of a cryptocurrency and credentials-stealing operation using the Amatera stealer as the primary payload.",
+    "source": "Recorded Future",
+    "title": "Social Engineering in the Age of Synthetic Media",
+    "link": "https://www.recordedfuture.com/blog/ai-social-engineering",
+    "published": "Tue, 29 Sep 2026 00:00:00 GMT",
+    "summary": "How AI Changes Phishing, Impersonation, and Identity Verification",
     "analysis": {
-      "issue": "In April 2026, Cisco Talos identified an unusual WebDAV DLL execution in endpoint telemetry from a Ukrainian government organization",
+      "issue": "How AI Changes Phishing, Impersonation, and Identity Verification",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Medium",
+      "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "Phishing"
       ]
     }
   },
@@ -1119,24 +1135,6 @@
     "summary": "Move from reactive defense to a proactive security mindset. Learn how proactive threat intelligence identifies and neutralizes threats.",
     "analysis": {
       "issue": "Move from reactive defense to a proactive security mindset",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "The Intelligible World of Agents",
-    "link": "https://www.recordedfuture.com/blog/intelligible-world-agents",
-    "published": "Thu, 10 Sep 2026 00:00:00 GMT",
-    "summary": "AI agents don't fail from weak reasoning. They fail due to the disconnected and untrustworthy operational world in which they act. Find out why the world representation you give an agent matters more than the model you pick.",
-    "analysis": {
-      "issue": "AI agents don't fail from weak reasoning",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1345,6 +1343,82 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Meta’s Muse sent a Facebook Marketplace buyer to a seller’s home",
+    "link": "https://www.malwarebytes.com/blog/news/2026/09/metas-muse-sent-a-facebook-marketplace-buyer-to-a-sellers-home",
+    "published": "Tue, 29 Sep 2026 12:51:22 GMT",
+    "summary": "A buyer chatted and negotiated with Muse, which shared the seller’s address and arranged a pickup. The seller knew nothing about it.",
+    "analysis": {
+      "issue": "A Facebook Marketplace buyer arrived at a seller’s apartment to collect a keyboard",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Update your iPhone, iPad, or Mac: Flaw could run attackers’ code",
+    "link": "https://www.malwarebytes.com/blog/bugs/2026/09/update-your-iphone-ipad-or-mac-flaw-could-run-attackers-code",
+    "published": "Tue, 29 Sep 2026 10:35:16 GMT",
+    "summary": "A malicious file could trigger the vulnerability. Apple says it may already have been used against iPhone users.",
+    "analysis": {
+      "issue": "Apple has released updates for iPhones, iPads, and Macs to fix a flaw that could let an attacker run code when a device processes a malicious file",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2026-86950"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Fake iPhone Duo preorder scam triggers DarkSword attack",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/09/fake-iphone-duo-preorder-scam-triggers-darksword-attack",
+    "published": "Tue, 29 Sep 2026 09:56:49 GMT",
+    "summary": "A fake iPhone Duo preorder page promises a $500 voucher. Open it on a vulnerable iPhone, and it tries to break in before you fill out the form.",
+    "analysis": {
+      "issue": "Apple announced its first foldable iPhone on September 9, and scammers were ready to ‘deliver’ one before anyone could buy it",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Humans are reviewing Copilot users’ bizarre and abusive image-editing requests",
+    "link": "https://www.malwarebytes.com/blog/ai/2026/09/humans-are-reviewing-copilot-users-bizarre-and-abusive-image-editing-requests",
+    "published": "Tue, 29 Sep 2026 09:27:30 GMT",
+    "summary": "Copilot users asked for upskirt images and sexualized edits of people in uploaded photos. Human contractors were asked to judge the results.",
+    "analysis": {
+      "issue": "A reminder for anyone who thinks their AI chats are private: A human may see what they upload",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "OpenAI pauses work on top AI models after agent slips past internet controls",
     "link": "https://www.malwarebytes.com/blog/ai/2026/09/openai-pauses-work-on-top-ai-models-after-agent-slips-past-internet-controls",
     "published": "Mon, 28 Sep 2026 12:58:12 GMT",
@@ -1451,78 +1525,6 @@
         "Malware",
         "APT",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "That shipping rebate offer may come with a monthly charge",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/09/that-shipping-rebate-offer-may-come-with-a-monthly-charge",
-    "published": "Fri, 25 Sep 2026 09:51:26 GMT",
-    "summary": "Customers say they signed up for shipping rebates, then found recurring charges they didn’t expect.",
-    "analysis": {
-      "issue": "Thanks to Malwarebytes research engineer Stefan Dasic for his help with this article",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "OpenAI agent breached Australian government site, took months to report it",
-    "link": "https://www.malwarebytes.com/blog/ai/2026/09/openai-agent-breached-medicare-statistics-portal-then-took-months-to-report-it",
-    "published": "Thu, 24 Sep 2026 13:22:49 GMT",
-    "summary": "The agent was looking for public spending data. It found a way into non-public files instead. What do we need to change to stop this from happening?",
-    "analysis": {
-      "issue": "An OpenAI agent didn’t take “no” for an answer when it encountered a government website’s access controls",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "New Browser Guard features add protection before and after you click",
-    "link": "https://www.malwarebytes.com/blog/product/2026/09/new-browser-guard-features-add-protection-before-and-after-you-click",
-    "published": "Thu, 24 Sep 2026 12:45:00 GMT",
-    "summary": "Spot dangerous sites before you click—and check for scams once you’re there.",
-    "analysis": {
-      "issue": "Most of us click on search results without knowing much about the website we’re about to visit",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Update Chrome: 108 security fixes for desktop, new release for Android",
-    "link": "https://www.malwarebytes.com/blog/bugs/2026/09/update-chrome-108-security-fixes-for-desktop-new-release-for-android",
-    "published": "Thu, 24 Sep 2026 11:06:48 GMT",
-    "summary": "Google has released Chrome 154 for desktop and begun rolling out Chrome 155 for Android. Here’s what to check on your device.",
-    "analysis": {
-      "issue": "Over the last few days, Google issued several different Chrome updates",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
