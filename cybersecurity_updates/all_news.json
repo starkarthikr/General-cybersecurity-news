@@ -1,6 +1,44 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
+    "link": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
+    "published": "Tue, 29 Sep 2026 00:48:01 +0530",
+    "summary": "Apple has released security updates to address a vulnerability in older versions of iOS, iPadOS, and macOS that it said may have been exploited in targeted attacks.\n\nThe vulnerability, tracked as CVE-2026-86950, refers to an out-of-bounds write impacting the CoreGraphics component that could lead to arbitrary code execution when processing a maliciously crafted file.\n\nThe iPhone maker said the",
+    "analysis": {
+      "issue": "Apple patched CVE-2026-86950, a CoreGraphics flaw that may have been exploited in targeted attacks via maliciously crafted",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-86950"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks",
+    "link": "https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html",
+    "published": "Tue, 29 Sep 2026 00:05:42 +0530",
+    "summary": "Hackers have used a malware family called NeedyMantis to maintain long-term access to networks they had already breached, Microsoft said in&nbsp;a technical analysis.\n\nThe malware has been seen in a small number of targeted intrusions at telecommunications organizations, universities, medical nonprofits, intergovernmental organizations, and government contractors. Its use goes back to at least",
+    "analysis": {
+      "issue": "NeedyMantis maintains long-term access in targeted intrusions, using DLL sideloading and HTTPS-to-WebSocket command-and-control",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "IAM for AI agents: A Practical Enterprise Framework",
     "link": "https://thehackernews.com/2026/09/iam-for-ai-agent.html",
     "published": "Mon, 28 Sep 2026 23:50:38 +0530",
@@ -147,31 +185,49 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
-    "link": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
-    "published": "Sun, 27 Sep 2026 13:17:57 +0530",
-    "summary": "Two critical vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway that allow remote code execution have been exploited in the wild, Citrix confirmed on September 27. It released fixes for both, along with six other flaws. One of the two affects every deployment on an affected version, including those in the default configuration.\n\nThe bulletin came a day after security firm watchTowr",
+    "source": "Bleeping Computer",
+    "title": "Japan's Keio confirms ransomware attack disrupted business systems",
+    "link": "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/",
+    "published": "Mon, 28 Sep 2026 16:56:47 -0400",
+    "summary": "Keio Corporation (Keio), a major private railway operator in Japan, said its network was hit by a ransomware attack over the weekend, disrupting  some of its business systems. [...]",
     "analysis": {
-      "issue": "watchTowr says two unpatched NetScaler RCE flaws were exploited before fixes, while Citrix has yet to publish a bulletin or patch",
+      "issue": "Keio Corporation (Keio), a major private railway operator in Japan, said its network was hit by a ransomware attack over the weekend, disrupting  some of its business systems",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Times Car confirms data breach affecting 6.6 million user accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/",
+    "published": "Mon, 28 Sep 2026 16:31:16 -0400",
+    "summary": "Japanese car-sharing service Times Car has confirmed that approximately 6.6 million user accounts were compromised in a cyberattack disclosed late last week. [...]",
+    "analysis": {
+      "issue": "Japanese car-sharing service Times Car has confirmed that approximately 6",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "Data Breach"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials",
-    "link": "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html",
-    "published": "Sat, 26 Sep 2026 23:52:52 +0530",
-    "summary": "The Psychedelic Stealer malware distributed via compromised Ukrainian websites using ClickFix-style Cloudflare verification checks is part of a wider malware-as-a-service (MaaS) platform called Lunex.\n\nThe new findings come from Ontinue, which described the activity as a four-stage attack chain aimed at targeting Ukrainian-speaking users.\n\n\"The attack chain begins with a fake CAPTCHA page and",
+    "source": "Bleeping Computer",
+    "title": "Dutch police confirm arrest in ShinyHunters hacking investigation",
+    "link": "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/",
+    "published": "Mon, 28 Sep 2026 15:49:10 -0400",
+    "summary": "Dutch police have confirmed that a 24-year-old Amsterdam man arrested earlier this month was detained as part of an investigation into the ShinyHunters hacking group. [...]",
     "analysis": {
-      "issue": "Lunex uses BYOVD to disable kernel security callbacks before stealing browser credentials and cryptocurrency wallets",
+      "issue": "Dutch police have confirmed that a 24-year-old Amsterdam man arrested earlier this month was detained as part of an investigation into the ShinyHunters hacking group",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -184,7 +240,7 @@
   },
   {
     "source": "Bleeping Computer",
-    "title": "Misconfigured Supabase apps expose data in over 16,000 databases",
+    "title": "Over 16,000 Supabase databases expose PII, passwords, auth tokens",
     "link": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
     "published": "Mon, 28 Sep 2026 14:50:59 -0400",
     "summary": "Researchers found more than 16,000 misconfigured Supabase databases exposing readable tables with personally identifiable information, passwords, or authentication tokens. [...]",
@@ -315,70 +371,13 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
-    "published": "Sun, 27 Sep 2026 12:02:37 -0400",
-    "summary": "Citrix has confirmed that two critical NetScaler remote code execution vulnerabilities, tracked as CVE-2026-88771 and CVE-2026-88772, are being exploited in attacks and that it has released security updates to fix the flaws. [...]",
-    "analysis": {
-      "issue": "Update: Article rewritten with official confirmation from Citrix",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-88771",
-        "CVE-2026-88772"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Cloudflare fixes Containers cross-tenant flaw exposing customer data",
-    "link": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
-    "published": "Sun, 27 Sep 2026 10:13:31 -0400",
-    "summary": "Cloudflare has fixed a vulnerability in Containers and Sandboxes that allowed customers with a Workers Paid account to recover residual data from other customers' containers on the same physical host. [...]",
-    "analysis": {
-      "issue": "Cloudflare has fixed a vulnerability in Containers and Sandboxes that allowed customers with a Workers Paid account to recover residual data from other customers’ containers on the same physical host",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/",
-    "published": "Sun, 27 Sep 2026 09:38:40 -0400",
-    "summary": "Anthropic has just announced a new Claude Marketplace, and it brings all AI-related tools into one place, including plugins, connectors, agents, and more. [...]",
-    "analysis": {
-      "issue": "Anthropic has just announced a new Claude Marketplace, and it brings all AI-related tools into one place, including plugins, connectors, agents, and more",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
     "link": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
     "published": "Mon, 28 Sep 2026 15:08:57 +0000",
     "summary": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect's arrest, remaining ShinyHunters members dramatically escalated their attacks, stealing highly sensitive data from the FBI and extorting the Russian ransomware group Cl0p.",
     "analysis": {
-      "issue": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters",
+      "issue": "Authorities in the Netherlands have arrested a 24-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -441,10 +440,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-85880",
         "CVE-2026-69730",
         "CVE-2026-69829",
-        "CVE-2026-81963",
-        "CVE-2026-85880"
+        "CVE-2026-81963"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -522,8 +521,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-62832",
-        "CVE-2026-68820",
-        "CVE-2026-72971"
+        "CVE-2026-72971",
+        "CVE-2026-68820"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -739,10 +738,10 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-88771",
-        "CVE-2026-8452",
-        "CVE-2026-88772",
         "CVE-2026-19490",
-        "CVE-2026-65660"
+        "CVE-2026-8452",
+        "CVE-2026-65660",
+        "CVE-2026-88772"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -913,8 +912,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20316",
-        "CVE-2026-20079"
+        "CVE-2026-20079",
+        "CVE-2026-20316"
       ],
       "threat_categories": [
         "Ransomware",
@@ -937,10 +936,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-85880",
         "CVE-2026-69676",
-        "CVE-2026-69852",
         "CVE-2026-81963",
-        "CVE-2026-85880"
+        "CVE-2026-69852"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1315,8 +1314,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1529,6 +1528,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "A Win for Defenders: CrowdStrike and NVIDIA Extend Security Across the AI Stack",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-extend-security-across-ai-stack/",
+    "published": "Sep 28, 2026 00:00:00-0400",
+    "summary": "",
+    "analysis": {
+      "issue": "CrowdStrike and NVIDIA are collaborating on the NVIDIA Open Agent Safety Platform, an open reference design to extend security deeper into the agentic stack and establish stronger boundaries for autonomous AI",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "CrowdStrike Named a Leader in The Forrester Wave&trade;: Proactive Security Platforms, Q3 2026",
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-proactive-security-platforms-q3-2026/",
     "published": "Sep 24, 2026 00:00:00-0500",
@@ -1679,24 +1696,6 @@
     "summary": "",
     "analysis": {
       "issue": "CrowdStrike gives every AI agent a trusted identity and controls their access based on real-time context, and expands modern privileged access",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Falcon Guardian Defines the Next Generation of AI Security",
-    "link": "https://www.crowdstrike.com/en-us/blog/falcon-guardian-defines-next-generation-of-ai-security/",
-    "published": "Sep 01, 2026 00:00:00-0400",
-    "summary": "",
-    "analysis": {
-      "issue": "A new flagship AI detection and response solution delivers runtime protection for AI agents, introduces a new AI gateway, and extends expert-led defense",
       "solution": null,
       "cause": null,
       "timeline": null,
