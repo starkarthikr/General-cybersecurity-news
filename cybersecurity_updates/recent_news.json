@@ -1,6 +1,60 @@
 [
   {
     "source": "The Hacker News",
+    "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
+    "link": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
+    "published": "Tue, 29 Sep 2026 22:30:00 +0530",
+    "summary": "A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web browsers, language runtimes, and the operating system kernel, across multiple CPU vendors.\n\nThe new Spectre-v2 variant has been codenamed Branch Target Reuse (BTR).\n\n\"The key insight is that, while modern CPUs",
+    "analysis": {
+      "issue": "Spectre BTR reuses stale JIT branch targets; Linux PoCs recover the root password hash within minutes on a fully patched Intel system",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown",
+    "link": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html",
+    "published": "Tue, 29 Sep 2026 19:43:20 +0530",
+    "summary": "Kiteworks on Monday said it worked with federal intelligence authorities over the weekend as it identified and addressed a critical security vulnerability during the scheduled precautionary shutdown.\n\n\"During the shutdown, this activity led to the discovery of a previously unknown critical vulnerability confined to a capability that is enabled for less than 1% of the customer base,\" the company",
+    "analysis": {
+      "issue": "Kiteworks fixed a critical flaw in a capability enabled for under 1% of customers, with no evidence it was ever exploited maliciously",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent",
+    "link": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html",
+    "published": "Tue, 29 Sep 2026 19:15:10 +0530",
+    "summary": "Cybersecurity researchers have identified a cluster of 101 npm packages that are used to trap developers into a WhatsApp group subscriber campaign dubbed PhantomSub.\n\n\"The malicious packages abuse the 'Baileys' WhatsApp open source project to add the victims to groups without their consent,\" OX Security researchers Nir Zadok, Moshe Siman Tov Bustan, and Vitalii Chepurko said in a technical",
+    "analysis": {
+      "issue": "101 npm packages in PhantomSub abuse Baileys to add WhatsApp users to groups without consent, with 490,000 downloads in total",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation",
     "link": "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html",
     "published": "Tue, 29 Sep 2026 14:05:10 +0530",
@@ -128,59 +182,59 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M",
-    "link": "https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html",
-    "published": "Mon, 28 Sep 2026 23:12:18 +0530",
-    "summary": "The attacker who stole about $388 million from the cryptocurrency exchange Bitget gained access through a vulnerability in a third-party security product the exchange used, Bitget said on Monday.\n\nThe attacker exploited the flaw to obtain high-level internal credentials and then, on September 24, used them to send fraudulent withdrawal commands to Bitget's wallet system.\n\nExchanges keep most",
+    "source": "Bleeping Computer",
+    "title": "Windows 11 2026 Update released, here's everything you need to know",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-2026-update-released-heres-everything-you-need-to-know/",
+    "published": "Tue, 29 Sep 2026 13:37:40 -0400",
+    "summary": "Microsoft has started rolling out Windows 11 26H2 to everyone, and while it's this year's big annual feature update, you probably won't notice a massive difference after installing it. [...]",
     "analysis": {
-      "issue": "Bitget says an attacker used a third-party security product flaw to steal internal credentials and trigger about $388M in fraudulent withdrawals",
+      "issue": "Microsoft has started rolling out the Windows 11 2026 Update (26H2) to everyone, and while it's this year's big annual feature update, you probably won't notice a massive difference after installing it",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
+        "General Security"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims",
-    "link": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
-    "published": "Mon, 28 Sep 2026 23:08:33 +0530",
-    "summary": "RatHat's operators build and publish the Android banking trojan and control infected phones from a web console, according to security company Cleafy. Cleafy has&nbsp;traced nearly 100 deployments&nbsp;of that console since April 2026. It said this fits a malware-as-a-service model, in which each customer runs a separate copy.\n\nThe console stores what the malware collects from each phone,",
+    "source": "Bleeping Computer",
+    "title": "New Spectre v2 attack variant leaks Linux root password hash in minutes",
+    "link": "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/",
+    "published": "Tue, 29 Sep 2026 13:10:11 -0400",
+    "summary": "A new Branch Target Reuse (BTR) attack has been devised that can recover root password hashes on Intel computers running Linux in 3-5 minutes on average. [...]",
     "analysis": {
-      "issue": "Cleafy traced nearly 100 RatHat console deployments since April 2026, with the platform building malware and using Gemini to rank victims",
+      "issue": "A new Spectre v2 attack variant called Branch Target Reuse (BTR) can recover root password hashes from Intel computers running Linux in just a few minutes",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [],
+      "cves": [
+        "CVE-2026-64507",
+        "CVE-2026-64508"
+      ],
       "threat_categories": [
-        "Malware"
+        "Vulnerability"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "⚡ Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats",
-    "link": "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html",
-    "published": "Mon, 28 Sep 2026 19:30:53 +0530",
-    "summary": "A domain used as harmless placeholder text showed up in roughly 1,700 repositories. Then somebody registered it and started serving malicious lures. That is the kind of week this was: forgotten assumptions turning into live attack surface.\n\nElsewhere, weak service accounts, old bugs, exposed systems, phishing kits, and strangely easy exploit paths kept doing useful work for attackers. Nothing",
+    "source": "Bleeping Computer",
+    "title": "Automated AI agent used to breach cybersecurity nonprofit DIVD",
+    "link": "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/",
+    "published": "Tue, 29 Sep 2026 11:39:19 -0400",
+    "summary": "The Dutch Institute for Vulnerability Disclosure (DIVD) suffered an AI-driven cyberattack that the organization described as \"loud and very, very messy.\" [...]",
     "analysis": {
-      "issue": "Cybersecurity weekly recap: $387M crypto hack, active Citrix exploits, AI agents going off-script, phishing takedowns, ransomware, and key CVEs",
+      "issue": "The Dutch Institute for Vulnerability Disclosure (DIVD) suffered an AI-driven cyberattack that the organization described as “loud and very, very messy",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Phishing"
+        "Vulnerability"
       ]
     }
   },
@@ -252,7 +306,7 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20700"
+        "CVE-2026-86950"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -310,62 +364,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Over 16,000 Supabase databases expose PII, passwords, auth tokens",
-    "link": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
-    "published": "Mon, 28 Sep 2026 14:50:59 -0400",
-    "summary": "Researchers found more than 16,000 misconfigured Supabase databases exposing readable tables with personally identifiable information, passwords, or authentication tokens. [...]",
-    "analysis": {
-      "issue": "Researchers found more than 16,000 misconfigured Supabase databases exposing readable tables with personally identifiable information, passwords, or authentication tokens",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "JadePuffer agentic AI attacks target Azure, destroy cloud resources",
-    "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/",
-    "published": "Mon, 28 Sep 2026 11:49:27 -0400",
-    "summary": "The JadePuffer ransomware operator is targeting Azure tenants with agent-driven attacks that conduct reconnaissance, steal credentials, and destroy core components. [...]",
-    "analysis": {
-      "issue": "The JadePuffer ransomware operator is targeting Azure tenants with agent-driven attacks that conduct reconnaissance, steal credentials, and destroy core components",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking",
-    "link": "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/",
-    "published": "Mon, 28 Sep 2026 10:00:10 -0400",
-    "summary": "Infostealer logs exposed AI account credentials and sessions tied to more than 80,000 corporate domains, creating risks ranging from stolen conversations to LLMjacking. SOCRadar examines the growing market for stolen AI logins and how organizations can identify their exposure. [...]",
-    "analysis": {
-      "issue": "The summer of 2026 taught the security industry a new phrase: the stolen AI login",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "APT"
       ]
     }
   },
@@ -439,9 +437,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-81963",
         "CVE-2026-69829",
         "CVE-2026-85880",
-        "CVE-2026-81963",
         "CVE-2026-69730"
       ],
       "threat_categories": [
@@ -520,8 +518,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-68820",
-        "CVE-2026-62832",
-        "CVE-2026-72971"
+        "CVE-2026-72971",
+        "CVE-2026-62832"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -564,6 +562,43 @@
       "cves": [],
       "threat_categories": [
         "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "DARPA Selects Xint to Use AI in Securing Military Messaging Apps",
+    "link": "https://www.securityweek.com/darpa-selects-xint-to-use-ai-in-securing-military-messaging-apps/",
+    "published": "Tue, 29 Sep 2026 17:24:04 +0000",
+    "summary": "<p>The AIxCC competition winner will analyze messaging app code and compiled binaries for vulnerabilities, with technology that could also help commercial customers secure their software.</p>\n<p>The post <a href=\"https://www.securityweek.com/darpa-selects-xint-to-use-ai-in-securing-military-messaging-apps/\">DARPA Selects Xint to Use AI in Securing Military Messaging Apps</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The AIxCC competition winner will analyze messaging app code and compiled binaries for vulnerabilities, with technology that could also help commercial customers secure their software",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "New Spectre v2 Variant Exposes Intel, AMD, Arm CPUs to Data Leaks",
+    "link": "https://www.securityweek.com/new-spectre-v2-variant-exposes-intel-amd-arm-cpus-to-data-leaks/",
+    "published": "Tue, 29 Sep 2026 17:00:00 +0000",
+    "summary": "<p>Branch Target Reuse (BTR) is a new Spectre v2 attack targeting JIT compilers in web browsers, language runtimes, and the operating system kernel</p>\n<p>The post <a href=\"https://www.securityweek.com/new-spectre-v2-variant-exposes-intel-amd-arm-cpus-to-data-leaks/\">New Spectre v2 Variant Exposes Intel, AMD, Arm CPUs to Data Leaks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Branch Target Reuse (BTR) is a new Spectre v2 attack targeting JIT compilers in web browsers, language runtimes, and the operating system kernel By Flipboard Reddit Whatsapp Whatsapp Email Researchers from the VUSec group at Vrije Universiteit Amster",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -719,49 +754,6 @@
         "Ransomware",
         "Vulnerability",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Daemon Tools Hackers’ NeedyMantis Malware Dissected by Microsoft",
-    "link": "https://www.securityweek.com/daemon-tools-hackers-needymantis-malware-dissected-by-microsoft/",
-    "published": "Tue, 29 Sep 2026 09:46:13 +0000",
-    "summary": "<p>The malware framework uses a modular architecture and a custom executable file format for long-term persistence.</p>\n<p>The post <a href=\"https://www.securityweek.com/daemon-tools-hackers-needymantis-malware-dissected-by-microsoft/\">Daemon Tools Hackers&#8217; NeedyMantis Malware Dissected by Microsoft</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The malware framework uses a modular architecture and a custom executable file format for long-term persistence",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "APT",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Apple Patches Zero-Day Linked to ‘Extremely Sophisticated Attack’",
-    "link": "https://www.securityweek.com/apple-patches-meta-reported-zero-day-linked-to-extremely-sophisticated-attack/",
-    "published": "Tue, 29 Sep 2026 06:18:27 +0000",
-    "summary": "<p>Apple released iOS and macOS updates to patch a zero-day vulnerability (CVE-2026-86950) reported by Meta’s product security team.</p>\n<p>The post <a href=\"https://www.securityweek.com/apple-patches-meta-reported-zero-day-linked-to-extremely-sophisticated-attack/\">Apple Patches Zero-Day Linked to &#8216;Extremely Sophisticated Attack&#8217; </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Apple released iOS and macOS updates to patch a zero-day vulnerability (CVE-2026-86950) reported by Meta’s product security team",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-86950",
-        "CVE-2025-55177",
-        "CVE-2025-43300"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -953,9 +945,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-69852",
-        "CVE-2026-85880",
         "CVE-2026-81963",
-        "CVE-2026-69676"
+        "CVE-2026-69676",
+        "CVE-2026-85880"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1312,8 +1304,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
