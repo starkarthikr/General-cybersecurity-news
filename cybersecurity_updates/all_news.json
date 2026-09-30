@@ -1,6 +1,44 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
+    "link": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
+    "published": "Wed, 30 Sep 2026 20:54:54 +0530",
+    "summary": "Attackers are exploiting a new critical zero-day flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco said in an&nbsp;advisory&nbsp;on September 30.\n\nThe flaw, CVE-2026-76504, could allow a remote attacker with no login access to use the Manager's API as the admin user. Fixed releases are available, and there is no workaround. It carries a",
+    "analysis": {
+      "issue": "Attackers are exploiting CVE-2026-76504 to access Cisco SD-WAN Manager APIs as admin without credentials; fixed releases are available",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-76504"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
+    "link": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
+    "published": "Wed, 30 Sep 2026 20:30:15 +0530",
+    "summary": "Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites that employ ClickFix lures to deliver malware.\n\nHuntress, which observed the activity in late September 2026, said it marks the abuse of yet another feature in trusted artificial intelligence (AI) platforms. Prior campaigns have weaponized shared",
+    "analysis": {
+      "issue": "Attackers abuse ChatGPT Custom GPTs and ClickFix lures to deliver a RAT, infecting at least 40 users",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Know Your Enemy: Browser-Based Attack Techniques in 2026",
     "link": "https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html",
     "published": "Wed, 30 Sep 2026 17:28:00 +0530",
@@ -146,38 +184,23 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor",
-    "link": "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html",
-    "published": "Tue, 29 Sep 2026 22:50:08 +0530",
-    "summary": "Russian state hackers known as Star Blizzard have been using fake event invitations to trick people into installing a backdoor on their Windows computers,&nbsp;according to Microsoft.\n\nThe campaigns, aimed at people and organizations tied to Ukraine, have affected more than 100 organizations since January, mostly in the U.S. and U.K. At least one computer was infected, but the number of breached",
+    "source": "Bleeping Computer",
+    "title": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/",
+    "published": "Wed, 30 Sep 2026 11:49:29 -0400",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a new critical vulnerability in MikroTik RouterOS that could lead to remote code execution or cause a denial-of-service condition. [...]",
     "analysis": {
-      "issue": "Star Blizzard uses fake event invites and RedFlick scheduled tasks to install CosmicPulse on Windows systems tied to Ukraine",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown",
-    "link": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html",
-    "published": "Tue, 29 Sep 2026 19:43:20 +0530",
-    "summary": "Kiteworks on Monday said it worked with federal intelligence authorities over the weekend as it identified and addressed a critical security vulnerability during the scheduled precautionary shutdown.\n\n\"During the shutdown, this activity led to the discovery of a previously unknown critical vulnerability confined to a capability that is enabled for less than 1% of the customer base,\" the company",
-    "analysis": {
-      "issue": "Kiteworks fixed a critical flaw in a capability enabled for under 1% of customers, with no evidence it was ever exploited maliciously",
+      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) is warning of a new critical vulnerability in MikroTik RouterOS that could lead to remote code execution or cause a denial-of-service condition",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
-      "cves": [],
+      "cves": [
+        "CVE-2026-84411"
+      ],
       "threat_categories": [
-        "Vulnerability"
+        "Vulnerability",
+        "DDoS"
       ]
     }
   },
@@ -250,11 +273,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-19743",
+        "CVE-2026-92368",
         "CVE-2026-92369",
+        "CVE-2026-19743",
         "CVE-2026-92371",
-        "CVE-2026-92370",
-        "CVE-2026-92368"
+        "CVE-2026-92370"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -354,29 +377,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/",
-    "published": "Tue, 29 Sep 2026 14:37:12 -0400",
-    "summary": "Cybersecurity firms say attackers exploited the Citrix NetScaler CVE-2026-88772 zero-day to deploy custom web shells and tunneling malware, gain root access, steal credentials, and spread into internal networks. [...]",
-    "analysis": {
-      "issue": "Cybersecurity firms say attackers exploited the Citrix NetScaler CVE-2026-88772 zero-day to deploy custom web shells and tunneling malware, gain root access, steal credentials, and spread into internal networks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-88772",
-        "CVE-2026-88771"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "DDoS"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
     "link": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
@@ -446,10 +446,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-85880",
-        "CVE-2026-81963",
+        "CVE-2026-69730",
         "CVE-2026-69829",
-        "CVE-2026-69730"
+        "CVE-2026-81963",
+        "CVE-2026-85880"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -526,9 +526,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-62832",
         "CVE-2026-68820",
-        "CVE-2026-72971",
-        "CVE-2026-62832"
+        "CVE-2026-72971"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -629,8 +629,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-88772",
         "CVE-2026-65660",
+        "CVE-2026-88772",
         "CVE-2026-88771"
       ],
       "threat_categories": [
@@ -735,11 +735,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-93302",
-        "CVE-2026-84782",
         "CVE-2026-89136",
-        "CVE-2026-89102",
-        "CVE-2026-84783"
+        "CVE-2026-84782",
+        "CVE-2026-93302",
+        "CVE-2026-84783",
+        "CVE-2026-89102"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -965,14 +965,32 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20316",
-        "CVE-2026-20079"
+        "CVE-2026-20079",
+        "CVE-2026-20316"
       ],
       "threat_categories": [
         "Ransomware",
         "Vulnerability",
         "Malware",
         "APT"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "Recorded Future Debuts Autonomous Defense, Built for Machine-Speed Threats",
+    "link": "https://www.recordedfuture.com/blog/autonomous-defense-platform",
+    "published": "Wed, 30 Sep 2026 00:00:00 GMT",
+    "summary": "Recorded Future just revealed autonomous defense capabilities. The platform hunts, investigates, and stops threats on its own, acting on real intelligence.",
+    "analysis": {
+      "issue": "Recorded Future just revealed autonomous defense capabilities",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1137,24 +1155,6 @@
         "Vulnerability",
         "Phishing",
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "What is Proactive Threat Intelligence? | Recorded Future",
-    "link": "https://www.recordedfuture.com/blog/proactive-threat-intelligence",
-    "published": "Mon, 14 Sep 2026 00:00:00 GMT",
-    "summary": "Move from reactive defense to a proactive security mindset. Learn how proactive threat intelligence identifies and neutralizes threats.",
-    "analysis": {
-      "issue": "Move from reactive defense to a proactive security mindset",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -1325,8 +1325,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1351,6 +1351,25 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Hackers steal protective order and foster care records from Arizona courts",
+    "link": "https://www.malwarebytes.com/blog/data-breaches/2026/09/hackers-steal-protective-order-and-foster-care-records-from-arizona-courts",
+    "published": "Wed, 30 Sep 2026 15:29:42 GMT",
+    "summary": "Attackers copied sensitive court records, including more than 150,000 foster care reports, raising privacy and safety concerns for those Arizonans affected.",
+    "analysis": {
+      "issue": "“Arizona’s court system was targeted by a cyber attack from criminal hackers or their bots",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Phishing"
       ]
     }
   },
@@ -1518,24 +1537,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Kothamine malware uses Tailscale’s tailcat to evade network detection",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/09/kothamine-malware-uses-tailscales-tailcat-to-evade-network-detection",
-    "published": "Fri, 25 Sep 2026 14:57:29 GMT",
-    "summary": "Kothamine uses a legitimate Tailscale tool to receive attackers’ commands through an encrypted connection with no malicious domain to block.",
-    "analysis": {
-      "issue": "We discovered an undocumented remote-access Trojan (RAT) called Kothamine Agent",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
