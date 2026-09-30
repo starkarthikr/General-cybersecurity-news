@@ -1,10 +1,29 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-30 17:51:56 UTC
+**Last Updated:** 2026-09-30 20:56:45 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager](https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html)
+### 1. [Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets](https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 30 Sep 2026 22:16:29 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-73570  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks](https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 30 Sep 2026 22:02:59 +0530  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 3. [Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager](https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 30 Sep 2026 20:54:54 +0530  
@@ -14,7 +33,7 @@
 
 ---
 
-### 2. [Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures](https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html)
+### 4. [Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures](https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 30 Sep 2026 20:30:15 +0530  
@@ -23,7 +42,7 @@
 
 ---
 
-### 3. [Know Your Enemy: Browser-Based Attack Techniques in 2026](https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html)
+### 5. [Know Your Enemy: Browser-Based Attack Techniques in 2026](https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 30 Sep 2026 17:28:00 +0530  
@@ -32,7 +51,7 @@
 
 ---
 
-### 4. [AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub](https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html)
+### 6. [AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub](https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 30 Sep 2026 17:00:00 +0530  
@@ -41,7 +60,7 @@
 
 ---
 
-### 5. [US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access](https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html)
+### 7. [US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access](https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 30 Sep 2026 16:15:00 +0530  
@@ -50,7 +69,7 @@
 
 ---
 
-### 6. [Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT](https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html)
+### 8. [Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT](https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 30 Sep 2026 13:54:35 +0530  
@@ -59,7 +78,7 @@
 
 ---
 
-### 7. [OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted](https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html)
+### 9. [OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted](https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 30 Sep 2026 13:39:28 +0530  
@@ -68,7 +87,7 @@
 
 ---
 
-### 8. [Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution](https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html)
+### 10. [Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution](https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 30 Sep 2026 11:00:30 +0530  
@@ -78,25 +97,35 @@
 
 ---
 
-### 9. [French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks](https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html)
+### 11. [Russian state hackers use new RedFlick technique to push malware](https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 29 Sep 2026 23:17:01 +0530  
+**Source:** Bleeping Computer  
+**Published:** Wed, 30 Sep 2026 16:34:01 -0400  
+**Severity:** Low  
+**Categories:** Malware, Phishing  
+
+---
+
+### 12. [DIVD says Zammad zero-days enabled AI-driven network breach](https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 30 Sep 2026 15:49:15 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-102489, CVE-2026-102490  
+**Categories:** Vulnerability  
+
+---
+
+### 13. [Over 543,000 valid credentials exposed in public GitHub repositories](https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 30 Sep 2026 14:08:34 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 10. [New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses](https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 29 Sep 2026 22:50:17 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 11. [CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS](https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/)
+### 14. [CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS](https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 30 Sep 2026 11:49:29 -0400  
@@ -106,7 +135,7 @@
 
 ---
 
-### 12. [Cisco warns of new SD-WAN zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/)
+### 15. [Cisco warns of new SD-WAN zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 30 Sep 2026 10:46:40 -0400  
@@ -116,7 +145,7 @@
 
 ---
 
-### 13. [AI's Third Wave: Coworkers Break the Security Model That Worked for Agents](https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/)
+### 16. [AI's Third Wave: Coworkers Break the Security Model That Worked for Agents](https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 30 Sep 2026 10:01:11 -0400  
@@ -125,7 +154,7 @@
 
 ---
 
-### 14. [Microsoft to block Entra ID script injection attacks starting October](https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/)
+### 17. [Microsoft to block Entra ID script injection attacks starting October](https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 30 Sep 2026 09:37:15 -0400  
@@ -134,17 +163,17 @@
 
 ---
 
-### 15. [TeamViewer urges users to patch severe flaws “as soon as possible”](https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/)
+### 18. [TeamViewer urges users to patch severe flaws “as soon as possible”](https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 30 Sep 2026 08:25:10 -0400  
 **Severity:** High  
-**CVEs:** CVE-2026-92368, CVE-2026-92369, CVE-2026-19743, CVE-2026-92371, CVE-2026-92370  
+**CVEs:** CVE-2026-92368, CVE-2026-92371, CVE-2026-92369, CVE-2026-92370, CVE-2026-19743  
 **Categories:** Vulnerability  
 
 ---
 
-### 16. [Bitget hacked via zero-day in third-party security products](https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/)
+### 19. [Bitget hacked via zero-day in third-party security products](https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 30 Sep 2026 07:11:46 -0400  
@@ -153,39 +182,12 @@
 
 ---
 
-### 17. [Microsoft is rolling out Linux container support to WSL](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/)
+### 20. [Microsoft is rolling out Linux container support to WSL](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 29 Sep 2026 20:40:57 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 18. [Signal adds encypted local backup support to iOS, desktop apps](https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 29 Sep 2026 17:30:08 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 19. [Custom ChatGPTs push ClickFix attacks to deploy RAT malware](https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 29 Sep 2026 16:59:39 -0400  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 20. [FBI tells ShinyHunters members to turn themselves in after recent arrest](https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 29 Sep 2026 16:09:55 -0400  
-**Severity:** Low  
-**Categories:** APT  
 
 ---
 
@@ -221,7 +223,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69730, CVE-2026-69829, CVE-2026-81963, CVE-2026-85880  
+**CVEs:** CVE-2026-69829, CVE-2026-85880, CVE-2026-81963, CVE-2026-69730  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -258,7 +260,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62832, CVE-2026-68820, CVE-2026-72971  
+**CVEs:** CVE-2026-68820, CVE-2026-62832, CVE-2026-72971  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -296,7 +298,7 @@
 **Source:** Security Week  
 **Published:** Wed, 30 Sep 2026 13:16:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-86102, CVE-2026-86131, CVE-2026-101891  
+**CVEs:** CVE-2026-101891, CVE-2026-86102, CVE-2026-86131  
 **Categories:** Vulnerability  
 
 ---
@@ -306,7 +308,7 @@
 **Source:** Security Week  
 **Published:** Wed, 30 Sep 2026 12:48:20 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-65660, CVE-2026-88772, CVE-2026-88771  
+**CVEs:** CVE-2026-88772, CVE-2026-65660, CVE-2026-88771  
 **Categories:** Vulnerability, Malware, Phishing  
 
 ---
@@ -353,7 +355,7 @@
 **Source:** Security Week  
 **Published:** Wed, 30 Sep 2026 06:55:50 +0000  
 **Severity:** High  
-**CVEs:** CVE-2026-89136, CVE-2026-84782, CVE-2026-93302, CVE-2026-84783, CVE-2026-89102  
+**CVEs:** CVE-2026-84782, CVE-2026-89136, CVE-2026-93302, CVE-2026-89102, CVE-2026-84783  
 **Categories:** Vulnerability, DDoS  
 
 ---

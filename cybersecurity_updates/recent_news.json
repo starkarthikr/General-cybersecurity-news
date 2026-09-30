@@ -1,6 +1,44 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
+    "link": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
+    "published": "Wed, 30 Sep 2026 22:16:29 +0530",
+    "summary": "Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft Security Research team.\n\nThe attack exploits CVE-2026-73570 (CVSS score: 8.9), an unauthenticated operating system command injection flaw that can lead to remote code execution when Simple Network Management Protocol",
+    "analysis": {
+      "issue": "Attackers exploited CVE-2026-73570 in Zimbra to deploy web shells and access mailbox data on servers with SNMP notifications enabled",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-73570"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
+    "link": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
+    "published": "Wed, 30 Sep 2026 22:02:59 +0530",
+    "summary": "Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed lures, software update prompts, and other social-engineering content.\n\n\"Once executed, the legitimate MSP360 installer, distributed under a deceptive file name established remote management access on affected",
+    "analysis": {
+      "issue": "Microsoft says phishing attacks abuse MSP360 and ScreenConnect to maintain redundant remote access on compromised Windows endpoints",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
     "link": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
     "published": "Wed, 30 Sep 2026 20:54:54 +0530",
@@ -148,31 +186,53 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
-    "link": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
-    "published": "Tue, 29 Sep 2026 23:17:01 +0530",
-    "summary": "An attacker used stolen passwords of staff at France's tax administration to take tax data on hundreds of thousands of taxpayers and businesses in June and July.\n\nNeither the tax administration nor France's national cybersecurity agency saw the data leave. The attack was not sophisticated, the agency, ANSSI, says in a&nbsp;report&nbsp;(in French) published on Tuesday: it worked because of weak",
+    "source": "Bleeping Computer",
+    "title": "Russian state hackers use new RedFlick technique to push malware",
+    "link": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
+    "published": "Wed, 30 Sep 2026 16:34:01 -0400",
+    "summary": "The Russian state actor Star Blizzard has been using a new malware installation tactic dubbed \"RedFlick\" to deploy its signature CosmicPulse backdoor. [...]",
     "analysis": {
-      "issue": "French tax data theft used stolen staff passwords and evaded DGFIP and ANSSI monitoring",
+      "issue": "The Russian state actor Star Blizzard has been using a new malware installation tactic dubbed “RedFlick” to deploy its signature CosmicPulse backdoor",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Malware",
+        "Phishing"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
-    "link": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
-    "published": "Tue, 29 Sep 2026 22:50:17 +0530",
-    "summary": "A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web browsers, language runtimes, and the operating system kernel, across multiple CPU vendors.\n\nThe new Spectre v2 variant has been codenamed Branch Target Reuse (BTR).\n\n\"The key insight is that, while modern CPUs",
+    "source": "Bleeping Computer",
+    "title": "DIVD says Zammad zero-days enabled AI-driven network breach",
+    "link": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
+    "published": "Wed, 30 Sep 2026 15:49:15 -0400",
+    "summary": "The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of its network was possible by exploiting a chain of two zero-day vulnerabilities in the open-source Zammad ticketing system. [...]",
     "analysis": {
-      "issue": "Spectre BTR reuses stale JIT branch targets; Linux PoCs recover the root password hash within minutes on a fully patched Intel system",
+      "issue": "The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of its network was possible by exploiting a chain of two zero-day vulnerabilities in the open-source Zammad ticketing system",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-102489",
+        "CVE-2026-102490"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Over 543,000 valid credentials exposed in public GitHub repositories",
+    "link": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/",
+    "published": "Wed, 30 Sep 2026 14:08:34 -0400",
+    "summary": "More than 543,000 credentials exposed in public GitHub repositories were still valid in July despite the platform's security measures to prevent accidental leaks of sensitive data. [...]",
+    "analysis": {
+      "issue": "More than 543,000 credentials exposed in public GitHub repositories were still valid in July despite the platform’s security measures to prevent accidental leaks of sensitive data",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -249,7 +309,7 @@
     "published": "Wed, 30 Sep 2026 09:37:15 -0400",
     "summary": "Microsoft has reminded customers that the Entra ID authentication system will get better protection against external script injection attacks starting next month. [...]",
     "analysis": {
-      "issue": "Microsoft has reminded customers that the Entra ID authentication system will get better protection against external script injection attacks starting next month",
+      "issue": "Microsoft has reminded customers that the Entra ID identity and access management (IAM) solution will get better protection against external script injection attacks starting next month",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -274,10 +334,10 @@
       "severity": "High",
       "cves": [
         "CVE-2026-92368",
-        "CVE-2026-92369",
-        "CVE-2026-19743",
         "CVE-2026-92371",
-        "CVE-2026-92370"
+        "CVE-2026-92369",
+        "CVE-2026-92370",
+        "CVE-2026-19743"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -319,60 +379,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Signal adds encypted local backup support to iOS, desktop apps",
-    "link": "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/",
-    "published": "Tue, 29 Sep 2026 17:30:08 -0400",
-    "summary": "Signal, the secure messaging app, released version 8.30, completing the rollout of its secure backups feature across all supported operating systems (Android, iOS, Linux, macOS, and Windows). [...]",
-    "analysis": {
-      "issue": "Signal, the secure messaging app, released version 8",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware",
-    "link": "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/",
-    "published": "Tue, 29 Sep 2026 16:59:39 -0400",
-    "summary": "Custom variants of OpenAI's ChatGPT promoted in sponsored Google results are directing unsuspecting users to malicious sites that use ClickFix attacks to deliver malware. [...]",
-    "analysis": {
-      "issue": "Custom variants of OpenAI’s ChatGPT promoted in sponsored Google results are directing unsuspecting users to malicious sites that use ClickFix attacks to deliver malware",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "FBI tells ShinyHunters members to turn themselves in after recent arrest",
-    "link": "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/",
-    "published": "Tue, 29 Sep 2026 16:09:55 -0400",
-    "summary": "The FBI is warning members of the ShinyHunters extortion group to turn themselves in after Dutch police arrested a man the bureau described as one of the group's alleged leaders. [...]",
-    "analysis": {
-      "issue": "The FBI is warning members of the ShinyHunters extortion group to turn themselves in after Dutch police arrested a man the bureau described as one of the group's alleged leaders",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "APT"
       ]
     }
   },
@@ -446,10 +452,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69730",
         "CVE-2026-69829",
+        "CVE-2026-85880",
         "CVE-2026-81963",
-        "CVE-2026-85880"
+        "CVE-2026-69730"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -526,8 +532,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-62832",
         "CVE-2026-68820",
+        "CVE-2026-62832",
         "CVE-2026-72971"
       ],
       "threat_categories": [
@@ -607,9 +613,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-101891",
         "CVE-2026-86102",
-        "CVE-2026-86131",
-        "CVE-2026-101891"
+        "CVE-2026-86131"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -629,8 +635,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-65660",
         "CVE-2026-88772",
+        "CVE-2026-65660",
         "CVE-2026-88771"
       ],
       "threat_categories": [
@@ -735,11 +741,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-89136",
         "CVE-2026-84782",
+        "CVE-2026-89136",
         "CVE-2026-93302",
-        "CVE-2026-84783",
-        "CVE-2026-89102"
+        "CVE-2026-89102",
+        "CVE-2026-84783"
       ],
       "threat_categories": [
         "Vulnerability",
