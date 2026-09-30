@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-29 20:58:05 UTC
+**Last Updated:** 2026-09-30 05:00:35 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,34 @@
 
 ---
 
-### 11. [FBI tells ShinyHunters members to turn themselves in after recent arrest](https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/)
+### 11. [Microsoft is rolling out Linux container support to WSL](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 29 Sep 2026 20:40:57 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 12. [Signal adds encypted local backup support to iOS, desktop apps](https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 29 Sep 2026 17:30:08 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 13. [Custom ChatGPTs push ClickFix attacks to deploy RAT malware](https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 29 Sep 2026 16:59:39 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 14. [FBI tells ShinyHunters members to turn themselves in after recent arrest](https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 29 Sep 2026 16:09:55 -0400  
@@ -104,7 +131,7 @@
 
 ---
 
-### 12. [Hackers exploit Citrix NetScaler zero-day to deploy web shells](https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/)
+### 15. [Hackers exploit Citrix NetScaler zero-day to deploy web shells](https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 29 Sep 2026 14:37:12 -0400  
@@ -114,7 +141,7 @@
 
 ---
 
-### 13. [Former US Air Force members sent to prison over BEC attacks](https://www.bleepingcomputer.com/news/security/former-us-air-force-members-sent-to-prison-over-bec-attacks/)
+### 16. [Former US Air Force members sent to prison over BEC attacks](https://www.bleepingcomputer.com/news/security/former-us-air-force-members-sent-to-prison-over-bec-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 29 Sep 2026 14:09:39 -0400  
@@ -123,7 +150,7 @@
 
 ---
 
-### 14. [Windows 11 2026 Update released, here's everything you need to know](https://www.bleepingcomputer.com/news/microsoft/windows-11-2026-update-released-heres-everything-you-need-to-know/)
+### 17. [Windows 11 2026 Update released, here's everything you need to know](https://www.bleepingcomputer.com/news/microsoft/windows-11-2026-update-released-heres-everything-you-need-to-know/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 29 Sep 2026 13:37:40 -0400  
@@ -132,17 +159,17 @@
 
 ---
 
-### 15. [New Spectre v2 attack variant leaks Linux root password hash in minutes](https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/)
+### 18. [New Spectre v2 attack variant leaks Linux root password hash in minutes](https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 29 Sep 2026 13:10:11 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2026-64507, CVE-2026-64508  
+**CVEs:** CVE-2026-64508, CVE-2026-64507  
 **Categories:** Vulnerability  
 
 ---
 
-### 16. [Automated AI agent used to breach cybersecurity nonprofit DIVD](https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/)
+### 19. [Automated AI agent used to breach cybersecurity nonprofit DIVD](https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 29 Sep 2026 11:39:19 -0400  
@@ -151,40 +178,12 @@
 
 ---
 
-### 17. [Catch threats before they escalate with real-time Identity Telemetry](https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/)
+### 20. [Catch threats before they escalate with real-time Identity Telemetry](https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 29 Sep 2026 10:01:11 -0400  
 **Severity:** Critical  
 **Categories:** Vulnerability, Phishing  
-
----
-
-### 18. [Vietnamese man charged in $16 million 'pig butchering' crypto scam](https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 29 Sep 2026 07:41:53 -0400  
-**Severity:** High  
-**Categories:** General Security  
-
----
-
-### 19. [Kiteworks patches critical flaw, brings customer systems online](https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 29 Sep 2026 05:04:06 -0400  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 20. [Apple patches CoreGraphics zero-day flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 29 Sep 2026 03:33:12 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-86950  
-**Categories:** Vulnerability  
 
 ---
 
@@ -220,7 +219,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-85880, CVE-2026-69730, CVE-2026-69829, CVE-2026-81963  
+**CVEs:** CVE-2026-81963, CVE-2026-69829, CVE-2026-85880, CVE-2026-69730  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -257,7 +256,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-68820, CVE-2026-62832, CVE-2026-72971  
+**CVEs:** CVE-2026-68820, CVE-2026-72971, CVE-2026-62832  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -280,7 +279,16 @@
 
 ---
 
-### 31. [OpenAI CEO Announces New AI Agent and Avoids Mention of Security Concerns at Developer Conference](https://www.securityweek.com/openai-ceo-announces-new-ai-agent-and-avoids-mention-of-security-concerns-at-developer-conference/)
+### 31. [Trump Says Top Tech Firms Have Signed Accord to ‘Self-Police’ AI Development](https://www.securityweek.com/trump-says-top-tech-firms-have-signed-accord-to-self-police-ai-development/)
+
+**Source:** Security Week  
+**Published:** Wed, 30 Sep 2026 01:48:21 +0000  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 32. [OpenAI CEO Announces New AI Agent and Avoids Mention of Security Concerns at Developer Conference](https://www.securityweek.com/openai-ceo-announces-new-ai-agent-and-avoids-mention-of-security-concerns-at-developer-conference/)
 
 **Source:** Security Week  
 **Published:** Tue, 29 Sep 2026 20:14:44 +0000  
@@ -289,7 +297,7 @@
 
 ---
 
-### 32. [DARPA Selects Xint to Use AI in Securing Military Messaging Apps](https://www.securityweek.com/darpa-selects-xint-to-use-ai-in-securing-military-messaging-apps/)
+### 33. [DARPA Selects Xint to Use AI in Securing Military Messaging Apps](https://www.securityweek.com/darpa-selects-xint-to-use-ai-in-securing-military-messaging-apps/)
 
 **Source:** Security Week  
 **Published:** Tue, 29 Sep 2026 17:24:04 +0000  
@@ -298,7 +306,7 @@
 
 ---
 
-### 33. [New Spectre v2 Variant Exposes Intel, AMD, Arm CPUs to Data Leaks](https://www.securityweek.com/new-spectre-v2-variant-exposes-intel-amd-arm-cpus-to-data-leaks/)
+### 34. [New Spectre v2 Variant Exposes Intel, AMD, Arm CPUs to Data Leaks](https://www.securityweek.com/new-spectre-v2-variant-exposes-intel-amd-arm-cpus-to-data-leaks/)
 
 **Source:** Security Week  
 **Published:** Tue, 29 Sep 2026 17:00:00 +0000  
@@ -307,7 +315,7 @@
 
 ---
 
-### 34. [RemoteThreat Launches With $7 Million for Offensive Operations Platform](https://www.securityweek.com/remotethreat-launches-with-7-million-for-offensive-operations-platform/)
+### 35. [RemoteThreat Launches With $7 Million for Offensive Operations Platform](https://www.securityweek.com/remotethreat-launches-with-7-million-for-offensive-operations-platform/)
 
 **Source:** Security Week  
 **Published:** Tue, 29 Sep 2026 14:38:07 +0000  
@@ -316,7 +324,7 @@
 
 ---
 
-### 35. [Reco Raises $55 Million for Agentic Security](https://www.securityweek.com/reco-raises-55-million-for-agentic-security/)
+### 36. [Reco Raises $55 Million for Agentic Security](https://www.securityweek.com/reco-raises-55-million-for-agentic-security/)
 
 **Source:** Security Week  
 **Published:** Tue, 29 Sep 2026 13:20:53 +0000  
@@ -325,7 +333,7 @@
 
 ---
 
-### 36. [Hackers Use ChatGPT Custom GPTs in ClickFix Attacks](https://www.securityweek.com/hackers-use-chatgpt-custom-gpts-in-clickfix-attacks/)
+### 37. [Hackers Use ChatGPT Custom GPTs in ClickFix Attacks](https://www.securityweek.com/hackers-use-chatgpt-custom-gpts-in-clickfix-attacks/)
 
 **Source:** Security Week  
 **Published:** Tue, 29 Sep 2026 13:03:35 +0000  
@@ -334,7 +342,7 @@
 
 ---
 
-### 37. [Pentagon Personnel Agency Data Breach Impacts 3 Million People](https://www.securityweek.com/pentagon-personnel-agency-data-breach-impacts-3-million-people/)
+### 38. [Pentagon Personnel Agency Data Breach Impacts 3 Million People](https://www.securityweek.com/pentagon-personnel-agency-data-breach-impacts-3-million-people/)
 
 **Source:** Security Week  
 **Published:** Tue, 29 Sep 2026 12:25:12 +0000  
@@ -343,7 +351,7 @@
 
 ---
 
-### 38. [Rig Security Emerges From Stealth With $12M to Tackle Agentic AI Identity Risks](https://www.securityweek.com/rig-security-emerges-from-stealth-with-12m-to-tackle-agentic-ai-identity-risks/)
+### 39. [Rig Security Emerges From Stealth With $12M to Tackle Agentic AI Identity Risks](https://www.securityweek.com/rig-security-emerges-from-stealth-with-12m-to-tackle-agentic-ai-identity-risks/)
 
 **Source:** Security Week  
 **Published:** Tue, 29 Sep 2026 12:00:00 +0000  
@@ -352,21 +360,12 @@
 
 ---
 
-### 39. [Four Cyber Threats Harboring Big Plans for the Future](https://www.securityweek.com/four-cyber-threats-harboring-big-plans-for-the-future/)
+### 40. [Four Cyber Threats Harboring Big Plans for the Future](https://www.securityweek.com/four-cyber-threats-harboring-big-plans-for-the-future/)
 
 **Source:** Security Week  
 **Published:** Tue, 29 Sep 2026 11:30:00 +0000  
 **Severity:** Critical  
 **Categories:** Vulnerability, Malware, Phishing, APT, Supply Chain  
-
----
-
-### 40. [OpenAI Calls Off GPT-6.1 Astra Launch, Details Safety Cases for Frontier Training](https://www.securityweek.com/openai-calls-off-gpt-6-1-astra-launch-details-safety-cases-for-frontier-training/)
-
-**Source:** Security Week  
-**Published:** Tue, 29 Sep 2026 11:15:59 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability  
 
 ---
 
@@ -457,7 +456,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 08 Sep 2026 22:16:35 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69852, CVE-2026-85880, CVE-2026-69676, CVE-2026-81963  
+**CVEs:** CVE-2026-81963, CVE-2026-85880, CVE-2026-69852, CVE-2026-69676  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -738,7 +737,16 @@
 
 ---
 
-### 81. [A Win for Defenders: CrowdStrike and NVIDIA Extend Security Across the AI Stack](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-extend-security-across-ai-stack/)
+### 81. [Copy, Paste, Compromised: How ClickFix Attacks Work and How CrowdStrike Stops Them](https://www.crowdstrike.com/en-us/blog/how-clickfix-attacks-work-and-how-to-stop-them/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Sep 29, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 82. [A Win for Defenders: CrowdStrike and NVIDIA Extend Security Across the AI Stack](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-extend-security-across-ai-stack/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 28, 2026 00:00:00-0400  
@@ -747,7 +755,7 @@
 
 ---
 
-### 82. [CrowdStrike Named a Leader in The Forrester Wave&trade;: Proactive Security Platforms, Q3 2026](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-proactive-security-platforms-q3-2026/)
+### 83. [CrowdStrike Named a Leader in The Forrester Wave&trade;: Proactive Security Platforms, Q3 2026](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-proactive-security-platforms-q3-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 24, 2026 00:00:00-0500  
@@ -756,7 +764,7 @@
 
 ---
 
-### 83. [CrowdStrike Named a Leader in The Forrester Wave&trade;: External Threat Intelligence Service Providers, Q3 2026](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-external-threat-intelligence-q3-2026/)
+### 84. [CrowdStrike Named a Leader in The Forrester Wave&trade;: External Threat Intelligence Service Providers, Q3 2026](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-external-threat-intelligence-q3-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 17, 2026 00:00:00-0500  
@@ -765,7 +773,7 @@
 
 ---
 
-### 84. [CrowdStrike SafeMind: When the Best Offense Builds the Best Defense](https://www.crowdstrike.com/en-us/blog/crowdstrike-safemind-best-offense-builds-best-defense/)
+### 85. [CrowdStrike SafeMind: When the Best Offense Builds the Best Defense](https://www.crowdstrike.com/en-us/blog/crowdstrike-safemind-best-offense-builds-best-defense/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 17, 2026 00:00:00-0500  
@@ -774,7 +782,7 @@
 
 ---
 
-### 85. [CrowdStrike Accelerates Real-Time Data Classification with On-Device AI](https://www.crowdstrike.com/en-us/blog/crowdstrike-accelerates-real-time-data-classification-with-on-device-ai/)
+### 86. [CrowdStrike Accelerates Real-Time Data Classification with On-Device AI](https://www.crowdstrike.com/en-us/blog/crowdstrike-accelerates-real-time-data-classification-with-on-device-ai/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 16, 2026 00:00:00-0500  
@@ -783,7 +791,7 @@
 
 ---
 
-### 86. [PhantomRaven: An LLM-Generated Information Stealer Developed for Bug Bounty Hunting](https://www.crowdstrike.com/en-us/blog/phantomraven-llm-generated-information-stealer-for-bug-bounty-hunting/)
+### 87. [PhantomRaven: An LLM-Generated Information Stealer Developed for Bug Bounty Hunting](https://www.crowdstrike.com/en-us/blog/phantomraven-llm-generated-information-stealer-for-bug-bounty-hunting/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 15, 2026 00:00:00-0500  
@@ -792,7 +800,7 @@
 
 ---
 
-### 87. [September 2026 Patch Tuesday: Two Exploited Zero-Days and 113 Critical Vulnerabilities Among 972 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-september-2026/)
+### 88. [September 2026 Patch Tuesday: Two Exploited Zero-Days and 113 Critical Vulnerabilities Among 972 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-september-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 08, 2026 00:00:00-0500  
@@ -801,7 +809,7 @@
 
 ---
 
-### 88. [CrowdStrike Delivers the Next Evolution of the Agentic SOC](https://www.crowdstrike.com/en-us/blog/crowdstrike-delivers-next-evolution-of-agentic-soc/)
+### 89. [CrowdStrike Delivers the Next Evolution of the Agentic SOC](https://www.crowdstrike.com/en-us/blog/crowdstrike-delivers-next-evolution-of-agentic-soc/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 02, 2026 00:00:00-0400  
@@ -810,21 +818,12 @@
 
 ---
 
-### 89. [CrowdStrike Extends Endpoint Security to Stop Software Supply Chain Attacks](https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-endpoint-security-to-stop-supply-chain-attacks/)
+### 90. [CrowdStrike Extends Endpoint Security to Stop Software Supply Chain Attacks](https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-endpoint-security-to-stop-supply-chain-attacks/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 02, 2026 00:00:00-0400  
 **Severity:** Low  
 **Categories:** Supply Chain  
-
----
-
-### 90. [CrowdStrike Announces Agentic Identity Provider](https://www.crowdstrike.com/en-us/blog/crowdstrike-announces-agentic-identity-provider/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Sep 02, 2026 00:00:00-0400  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 

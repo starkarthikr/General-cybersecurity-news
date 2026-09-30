@@ -183,6 +183,60 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Microsoft is rolling out Linux container support to WSL",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/",
+    "published": "Tue, 29 Sep 2026 20:40:57 -0400",
+    "summary": "Microsoft is taking Windows Subsystem for Linux beyond just running Linux distributions, as WSL Containers is now generally available. [...]",
+    "analysis": {
+      "issue": "Microsoft is taking Windows Subsystem for Linux beyond just running Linux distributions, as WSL Containers is now generally available",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Signal adds encypted local backup support to iOS, desktop apps",
+    "link": "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/",
+    "published": "Tue, 29 Sep 2026 17:30:08 -0400",
+    "summary": "Signal, the secure messaging app, released version 8.30, completing the rollout of its secure backups feature across all supported operating systems (Android, iOS, Linux, macOS, and Windows). [...]",
+    "analysis": {
+      "issue": "Signal, the secure messaging app, released version 8",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware",
+    "link": "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/",
+    "published": "Tue, 29 Sep 2026 16:59:39 -0400",
+    "summary": "Custom variants of OpenAI's ChatGPT promoted in sponsored Google results are directing unsuspecting users to malicious sites that use ClickFix attacks to deliver malware. [...]",
+    "analysis": {
+      "issue": "Custom variants of OpenAI’s ChatGPT promoted in sponsored Google results are directing unsuspecting users to malicious sites that use ClickFix attacks to deliver malware",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "FBI tells ShinyHunters members to turn themselves in after recent arrest",
     "link": "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/",
     "published": "Tue, 29 Sep 2026 16:09:55 -0400",
@@ -271,8 +325,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-64507",
-        "CVE-2026-64508"
+        "CVE-2026-64508",
+        "CVE-2026-64507"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -313,62 +367,6 @@
       "threat_categories": [
         "Vulnerability",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Vietnamese man charged in $16 million 'pig butchering' crypto scam",
-    "link": "https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/",
-    "published": "Tue, 29 Sep 2026 07:41:53 -0400",
-    "summary": "A Vietnamese national was charged with money laundering for his role in a massive \"pig butchering\" scam, which defrauded a victim out of $16 million worth of cryptocurrency. [...]",
-    "analysis": {
-      "issue": "A Vietnamese national was charged with money laundering for his role in a massive \"pig butchering\" scam, which defrauded a victim out of $16 million worth of cryptocurrency",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Kiteworks patches critical flaw, brings customer systems online",
-    "link": "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/",
-    "published": "Tue, 29 Sep 2026 05:04:06 -0400",
-    "summary": "American tech company Kiteworks has lifted a precautionary advisory asking customers to shut down systems after patching a critical vulnerability. [...]",
-    "analysis": {
-      "issue": "American tech company Kiteworks has lifted a precautionary advisory asking customers to shut down systems after patching a critical vulnerability",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Apple patches CoreGraphics zero-day flaw exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/",
-    "published": "Tue, 29 Sep 2026 03:33:12 -0400",
-    "summary": "Apple released security updates to fix a zero-day vulnerability exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
-    "analysis": {
-      "issue": "Apple released security updates to fix a zero-day vulnerability exploited in \"extremely sophisticated\" targeted attacks on iOS devices",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-86950"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -442,10 +440,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-85880",
-        "CVE-2026-69730",
+        "CVE-2026-81963",
         "CVE-2026-69829",
-        "CVE-2026-81963"
+        "CVE-2026-85880",
+        "CVE-2026-69730"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -523,8 +521,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-68820",
-        "CVE-2026-62832",
-        "CVE-2026-72971"
+        "CVE-2026-72971",
+        "CVE-2026-62832"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -567,6 +565,24 @@
       "cves": [],
       "threat_categories": [
         "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Trump Says Top Tech Firms Have Signed Accord to ‘Self-Police’ AI Development",
+    "link": "https://www.securityweek.com/trump-says-top-tech-firms-have-signed-accord-to-self-police-ai-development/",
+    "published": "Wed, 30 Sep 2026 01:48:21 +0000",
+    "summary": "<p>The accord opened the door to future regulation but focused on four voluntary steps for the companies to take.</p>\n<p>The post <a href=\"https://www.securityweek.com/trump-says-top-tech-firms-have-signed-accord-to-self-police-ai-development/\">Trump Says Top Tech Firms Have Signed Accord to ‘Self-Police’ AI Development</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The accord opened the door to future regulation but focused on four voluntary steps for the companies to take",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -737,24 +753,6 @@
         "Phishing",
         "APT",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "OpenAI Calls Off GPT-6.1 Astra Launch, Details Safety Cases for Frontier Training",
-    "link": "https://www.securityweek.com/openai-calls-off-gpt-6-1-astra-launch-details-safety-cases-for-frontier-training/",
-    "published": "Tue, 29 Sep 2026 11:15:59 +0000",
-    "summary": "<p>The GPT-6.1 Astra model was slated to debut in ChatGPT and Codex in October, but it fell short of expectations. </p>\n<p>The post <a href=\"https://www.securityweek.com/openai-calls-off-gpt-6-1-astra-launch-details-safety-cases-for-frontier-training/\">OpenAI Calls Off GPT-6.1 Astra Launch, Details Safety Cases for Frontier Training</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "1 Astra model was slated to debut in ChatGPT and Codex in October, but it fell short of expectations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -945,10 +943,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69852",
+        "CVE-2026-81963",
         "CVE-2026-85880",
-        "CVE-2026-69676",
-        "CVE-2026-81963"
+        "CVE-2026-69852",
+        "CVE-2026-69676"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1523,6 +1521,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "Copy, Paste, Compromised: How ClickFix Attacks Work and How CrowdStrike Stops Them",
+    "link": "https://www.crowdstrike.com/en-us/blog/how-clickfix-attacks-work-and-how-to-stop-them/",
+    "published": "Sep 29, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "ClickFix attacks trick users into executing malicious commands themselves",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "A Win for Defenders: CrowdStrike and NVIDIA Extend Security Across the AI Stack",
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-extend-security-across-ai-stack/",
     "published": "Sep 28, 2026 00:00:00-0400",
@@ -1680,24 +1696,6 @@
       "cves": [],
       "threat_categories": [
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Announces Agentic Identity Provider",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-announces-agentic-identity-provider/",
-    "published": "Sep 02, 2026 00:00:00-0400",
-    "summary": "",
-    "analysis": {
-      "issue": "CrowdStrike gives every AI agent a trusted identity and controls their access based on real-time context, and expands modern privileged access",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   }
