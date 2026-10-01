@@ -1,6 +1,26 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs",
+    "link": "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html",
+    "published": "Thu, 01 Oct 2026 10:05:34 +0530",
+    "summary": "Threat actors have been observed exploiting a critical pre-authentication command injection vulnerability in Citrix NetScaler ADC and NetScaler Gateway to drop web shells and attempt theft of configuration data.\n\nLevelBlue's Threat Hunt Operations &amp; Research (THOR) team, which analyzed the exploitation activity across multiple customer environments, said it identified malicious NetScaler",
+    "analysis": {
+      "issue": "Attackers exploit Citrix NetScaler CVE-2026-88771 to deploy web shells and attempt theft of configuration data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-88771"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
     "link": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
     "published": "Wed, 30 Sep 2026 22:16:29 +0530",
@@ -166,26 +186,6 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution",
-    "link": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html",
-    "published": "Wed, 30 Sep 2026 11:00:30 +0530",
-    "summary": "Cybersecurity researchers have disclosed technical details of a recently patched critical security flaw in Citrix NetScaler ADC and Gateway that has come under active exploitation in the wild.\n\nThe vulnerability, tracked as CVE-2026-88772 (CVSS score: 9.5), has been described as a memory overflow bug in the Datagram Transport Layer Security (DTLS) protocol handling that's rooted in the NetScaler",
-    "analysis": {
-      "issue": "Citrix NetScaler CVE-2026-88772 is exploited in the wild and can enable remote code execution through a DTLS buffer overflow",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-88772"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
     "title": "Russian state hackers use new RedFlick technique to push malware",
     "link": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
@@ -217,8 +217,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-102489",
-        "CVE-2026-102490"
+        "CVE-2026-102490",
+        "CVE-2026-102489"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -333,11 +333,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-92368",
-        "CVE-2026-92371",
-        "CVE-2026-92369",
         "CVE-2026-92370",
-        "CVE-2026-19743"
+        "CVE-2026-92368",
+        "CVE-2026-19743",
+        "CVE-2026-92369",
+        "CVE-2026-92371"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -453,9 +453,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-69829",
+        "CVE-2026-69730",
         "CVE-2026-85880",
-        "CVE-2026-81963",
-        "CVE-2026-69730"
+        "CVE-2026-81963"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -533,8 +533,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-68820",
-        "CVE-2026-62832",
-        "CVE-2026-72971"
+        "CVE-2026-72971",
+        "CVE-2026-62832"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -582,6 +582,24 @@
   },
   {
     "source": "Security Week",
+    "title": "FTC is Investigating OpenAI and Anthropic Over Possible Risks to Consumers",
+    "link": "https://www.securityweek.com/ftc-is-investigating-openai-and-anthropic-over-possible-risks-to-consumers/",
+    "published": "Wed, 30 Sep 2026 23:43:51 +0000",
+    "summary": "<p>An FTC spokesperson confirmed the investigation but declined further comment.</p>\n<p>The post <a href=\"https://www.securityweek.com/ftc-is-investigating-openai-and-anthropic-over-possible-risks-to-consumers/\">FTC is Investigating OpenAI and Anthropic Over Possible Risks to Consumers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "An FTC spokesperson confirmed the investigation but declined further comment",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Google: AI Is Changing the Pace and Profile of Vulnerability Discovery",
     "link": "https://www.securityweek.com/google-ai-is-changing-the-pace-and-profile-of-vulnerability-discovery/",
     "published": "Wed, 30 Sep 2026 14:05:58 +0000",
@@ -614,8 +632,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-101891",
-        "CVE-2026-86102",
-        "CVE-2026-86131"
+        "CVE-2026-86131",
+        "CVE-2026-86102"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -635,8 +653,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-88772",
         "CVE-2026-65660",
+        "CVE-2026-88772",
         "CVE-2026-88771"
       ],
       "threat_categories": [
@@ -742,10 +760,10 @@
       "severity": "High",
       "cves": [
         "CVE-2026-84782",
-        "CVE-2026-89136",
-        "CVE-2026-93302",
+        "CVE-2026-84783",
         "CVE-2026-89102",
-        "CVE-2026-84783"
+        "CVE-2026-93302",
+        "CVE-2026-89136"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -765,24 +783,6 @@
       "cause": null,
       "timeline": null,
       "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "OpenAI CEO Announces New AI Agent and Avoids Mention of Security Concerns at Developer Conference",
-    "link": "https://www.securityweek.com/openai-ceo-announces-new-ai-agent-and-avoids-mention-of-security-concerns-at-developer-conference/",
-    "published": "Tue, 29 Sep 2026 20:14:44 +0000",
-    "summary": "<p>Altman made a slew of product announcements and updates, including the company’s new agents, called Dots.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-ceo-announces-new-ai-agent-and-avoids-mention-of-security-concerns-at-developer-conference/\">OpenAI CEO Announces New AI Agent and Avoids Mention of Security Concerns at Developer Conference</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Altman made a slew of product announcements and updates, including the company’s new agents, called Dots",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
       "cves": [],
       "threat_categories": [
         "General Security"
@@ -971,8 +971,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20079",
-        "CVE-2026-20316"
+        "CVE-2026-20316",
+        "CVE-2026-20079"
       ],
       "threat_categories": [
         "Ransomware",

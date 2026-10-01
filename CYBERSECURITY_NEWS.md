@@ -1,10 +1,20 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-09-30 20:56:45 UTC
+**Last Updated:** 2026-10-01 05:13:58 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets](https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html)
+### 1. [Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs](https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 01 Oct 2026 10:05:34 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-88771  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets](https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 30 Sep 2026 22:16:29 +0530  
@@ -14,7 +24,7 @@
 
 ---
 
-### 2. [Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks](https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html)
+### 3. [Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks](https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 30 Sep 2026 22:02:59 +0530  
@@ -23,7 +33,7 @@
 
 ---
 
-### 3. [Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager](https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html)
+### 4. [Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager](https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 30 Sep 2026 20:54:54 +0530  
@@ -33,7 +43,7 @@
 
 ---
 
-### 4. [Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures](https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html)
+### 5. [Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures](https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 30 Sep 2026 20:30:15 +0530  
@@ -42,7 +52,7 @@
 
 ---
 
-### 5. [Know Your Enemy: Browser-Based Attack Techniques in 2026](https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html)
+### 6. [Know Your Enemy: Browser-Based Attack Techniques in 2026](https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 30 Sep 2026 17:28:00 +0530  
@@ -51,7 +61,7 @@
 
 ---
 
-### 6. [AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub](https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html)
+### 7. [AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub](https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 30 Sep 2026 17:00:00 +0530  
@@ -60,7 +70,7 @@
 
 ---
 
-### 7. [US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access](https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html)
+### 8. [US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access](https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 30 Sep 2026 16:15:00 +0530  
@@ -69,7 +79,7 @@
 
 ---
 
-### 8. [Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT](https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html)
+### 9. [Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT](https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 30 Sep 2026 13:54:35 +0530  
@@ -78,22 +88,12 @@
 
 ---
 
-### 9. [OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted](https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html)
+### 10. [OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted](https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 30 Sep 2026 13:39:28 +0530  
 **Severity:** High  
 **Categories:** General Security  
-
----
-
-### 10. [Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution](https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 30 Sep 2026 11:00:30 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-88772  
-**Categories:** Vulnerability  
 
 ---
 
@@ -111,7 +111,7 @@
 **Source:** Bleeping Computer  
 **Published:** Wed, 30 Sep 2026 15:49:15 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-102489, CVE-2026-102490  
+**CVEs:** CVE-2026-102490, CVE-2026-102489  
 **Categories:** Vulnerability  
 
 ---
@@ -168,7 +168,7 @@
 **Source:** Bleeping Computer  
 **Published:** Wed, 30 Sep 2026 08:25:10 -0400  
 **Severity:** High  
-**CVEs:** CVE-2026-92368, CVE-2026-92371, CVE-2026-92369, CVE-2026-92370, CVE-2026-19743  
+**CVEs:** CVE-2026-92370, CVE-2026-92368, CVE-2026-19743, CVE-2026-92369, CVE-2026-92371  
 **Categories:** Vulnerability  
 
 ---
@@ -223,7 +223,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69829, CVE-2026-85880, CVE-2026-81963, CVE-2026-69730  
+**CVEs:** CVE-2026-69829, CVE-2026-69730, CVE-2026-85880, CVE-2026-81963  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -260,7 +260,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-68820, CVE-2026-62832, CVE-2026-72971  
+**CVEs:** CVE-2026-68820, CVE-2026-72971, CVE-2026-62832  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -283,7 +283,16 @@
 
 ---
 
-### 31. [Google: AI Is Changing the Pace and Profile of Vulnerability Discovery](https://www.securityweek.com/google-ai-is-changing-the-pace-and-profile-of-vulnerability-discovery/)
+### 31. [FTC is Investigating OpenAI and Anthropic Over Possible Risks to Consumers](https://www.securityweek.com/ftc-is-investigating-openai-and-anthropic-over-possible-risks-to-consumers/)
+
+**Source:** Security Week  
+**Published:** Wed, 30 Sep 2026 23:43:51 +0000  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 32. [Google: AI Is Changing the Pace and Profile of Vulnerability Discovery](https://www.securityweek.com/google-ai-is-changing-the-pace-and-profile-of-vulnerability-discovery/)
 
 **Source:** Security Week  
 **Published:** Wed, 30 Sep 2026 14:05:58 +0000  
@@ -293,27 +302,27 @@
 
 ---
 
-### 32. [WatchGuard Patches Critical Fireware OS Code Injection Vulnerability](https://www.securityweek.com/watchguard-patches-critical-fireware-os-code-injection-vulnerability/)
+### 33. [WatchGuard Patches Critical Fireware OS Code Injection Vulnerability](https://www.securityweek.com/watchguard-patches-critical-fireware-os-code-injection-vulnerability/)
 
 **Source:** Security Week  
 **Published:** Wed, 30 Sep 2026 13:16:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-101891, CVE-2026-86102, CVE-2026-86131  
+**CVEs:** CVE-2026-101891, CVE-2026-86131, CVE-2026-86102  
 **Categories:** Vulnerability  
 
 ---
 
-### 33. [Government, Finance Orgs Targeted in Weeks-Long NetScaler Zero-Day Attacks](https://www.securityweek.com/government-finance-orgs-targeted-in-weeks-long-netscaler-zero-day-attacks/)
+### 34. [Government, Finance Orgs Targeted in Weeks-Long NetScaler Zero-Day Attacks](https://www.securityweek.com/government-finance-orgs-targeted-in-weeks-long-netscaler-zero-day-attacks/)
 
 **Source:** Security Week  
 **Published:** Wed, 30 Sep 2026 12:48:20 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-88772, CVE-2026-65660, CVE-2026-88771  
+**CVEs:** CVE-2026-65660, CVE-2026-88772, CVE-2026-88771  
 **Categories:** Vulnerability, Malware, Phishing  
 
 ---
 
-### 34. [Chrome, Firefox Updates Patch Over 100 Vulnerabilities](https://www.securityweek.com/chrome-firefox-updates-patch-over-100-vulnerabilities/)
+### 35. [Chrome, Firefox Updates Patch Over 100 Vulnerabilities](https://www.securityweek.com/chrome-firefox-updates-patch-over-100-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Wed, 30 Sep 2026 12:16:52 +0000  
@@ -323,7 +332,7 @@
 
 ---
 
-### 35. [Anthropic Flags AI Agent Liability Risks as OpenAI Faces Hacking Lawsuit](https://www.securityweek.com/anthropic-flags-ai-agent-liability-risks-as-openai-faces-hacking-lawsuit/)
+### 36. [Anthropic Flags AI Agent Liability Risks as OpenAI Faces Hacking Lawsuit](https://www.securityweek.com/anthropic-flags-ai-agent-liability-risks-as-openai-faces-hacking-lawsuit/)
 
 **Source:** Security Week  
 **Published:** Wed, 30 Sep 2026 11:19:00 +0000  
@@ -332,7 +341,7 @@
 
 ---
 
-### 36. [Russian APT Star Blizzard Uses ‘RedFlick’ Infection Chain in Recent Attacks](https://www.securityweek.com/russian-apt-star-blizzard-uses-redflick-infection-chain-in-recent-attacks/)
+### 37. [Russian APT Star Blizzard Uses ‘RedFlick’ Infection Chain in Recent Attacks](https://www.securityweek.com/russian-apt-star-blizzard-uses-redflick-infection-chain-in-recent-attacks/)
 
 **Source:** Security Week  
 **Published:** Wed, 30 Sep 2026 10:59:30 +0000  
@@ -341,7 +350,7 @@
 
 ---
 
-### 37. [ShinyHunters Defiant After FBI Calls on Members to Come Forward](https://www.securityweek.com/shinyhunters-defiant-after-fbi-calls-on-members-to-come-forward/)
+### 38. [ShinyHunters Defiant After FBI Calls on Members to Come Forward](https://www.securityweek.com/shinyhunters-defiant-after-fbi-calls-on-members-to-come-forward/)
 
 **Source:** Security Week  
 **Published:** Wed, 30 Sep 2026 10:20:02 +0000  
@@ -350,30 +359,21 @@
 
 ---
 
-### 38. [High-Severity Vulnerabilities Patched in OpenSSL, WolfSSL](https://www.securityweek.com/high-severity-vulnerabilities-patched-in-openssl-wolfssl/)
+### 39. [High-Severity Vulnerabilities Patched in OpenSSL, WolfSSL](https://www.securityweek.com/high-severity-vulnerabilities-patched-in-openssl-wolfssl/)
 
 **Source:** Security Week  
 **Published:** Wed, 30 Sep 2026 06:55:50 +0000  
 **Severity:** High  
-**CVEs:** CVE-2026-84782, CVE-2026-89136, CVE-2026-93302, CVE-2026-89102, CVE-2026-84783  
+**CVEs:** CVE-2026-84782, CVE-2026-84783, CVE-2026-89102, CVE-2026-93302, CVE-2026-89136  
 **Categories:** Vulnerability, DDoS  
 
 ---
 
-### 39. [Trump Says Top Tech Firms Have Signed Accord to ‘Self-Police’ AI Development](https://www.securityweek.com/trump-says-top-tech-firms-have-signed-accord-to-self-police-ai-development/)
+### 40. [Trump Says Top Tech Firms Have Signed Accord to ‘Self-Police’ AI Development](https://www.securityweek.com/trump-says-top-tech-firms-have-signed-accord-to-self-police-ai-development/)
 
 **Source:** Security Week  
 **Published:** Wed, 30 Sep 2026 01:48:21 +0000  
 **Severity:** High  
-**Categories:** General Security  
-
----
-
-### 40. [OpenAI CEO Announces New AI Agent and Avoids Mention of Security Concerns at Developer Conference](https://www.securityweek.com/openai-ceo-announces-new-ai-agent-and-avoids-mention-of-security-concerns-at-developer-conference/)
-
-**Source:** Security Week  
-**Published:** Tue, 29 Sep 2026 20:14:44 +0000  
-**Severity:** Low  
 **Categories:** General Security  
 
 ---
@@ -464,7 +464,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 09 Sep 2026 16:08:59 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20079, CVE-2026-20316  
+**CVEs:** CVE-2026-20316, CVE-2026-20079  
 **Categories:** Ransomware, Vulnerability, Malware, APT  
 
 ---
