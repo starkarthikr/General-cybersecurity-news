@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-01 18:17:35 UTC
+**Last Updated:** 2026-10-01 21:12:19 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,25 @@
 
 ---
 
-### 11. [Police dismantle KillSec ransomware gang allegedly led by 16-year-old](https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/)
+### 11. [Autonomous AI agents tried to hack US, Canadian government websites](https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 01 Oct 2026 16:52:50 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 12. [Microsoft says threat actors are ahead in the early AI race](https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 01 Oct 2026 15:32:47 -0400  
+**Severity:** Low  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 13. [Police dismantle KillSec ransomware gang allegedly led by 16-year-old](https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 01 Oct 2026 10:25:14 -0400  
@@ -104,7 +122,7 @@
 
 ---
 
-### 12. [The Day-One Hole in Zero Trust Architecture](https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/)
+### 14. [The Day-One Hole in Zero Trust Architecture](https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 01 Oct 2026 10:01:11 -0400  
@@ -113,7 +131,7 @@
 
 ---
 
-### 13. [Kiteworks patches max severity code injection vulnerability](https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/)
+### 15. [Kiteworks patches max severity code injection vulnerability](https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 01 Oct 2026 09:51:08 -0400  
@@ -123,7 +141,7 @@
 
 ---
 
-### 14. [Microsoft enables Windows settings backup by default for orgs](https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/)
+### 16. [Microsoft enables Windows settings backup by default for orgs](https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 01 Oct 2026 07:14:28 -0400  
@@ -132,7 +150,7 @@
 
 ---
 
-### 15. [Hackers stole Pentagon personnel records of over 3 million people](https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/)
+### 17. [Hackers stole Pentagon personnel records of over 3 million people](https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 01 Oct 2026 05:44:28 -0400  
@@ -141,7 +159,7 @@
 
 ---
 
-### 16. [Metamask discloses security incident affecting its infrastructure](https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/)
+### 18. [Metamask discloses security incident affecting its infrastructure](https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 01 Oct 2026 03:33:57 -0400  
@@ -150,7 +168,7 @@
 
 ---
 
-### 17. [Russian state hackers use new RedFlick technique to push malware](https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/)
+### 19. [Russian state hackers use new RedFlick technique to push malware](https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 30 Sep 2026 16:34:01 -0400  
@@ -159,32 +177,13 @@
 
 ---
 
-### 18. [DIVD says Zammad zero-days enabled AI-driven network breach](https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/)
+### 20. [DIVD says Zammad zero-days enabled AI-driven network breach](https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 30 Sep 2026 15:49:15 -0400  
 **Severity:** Critical  
 **CVEs:** CVE-2026-102490, CVE-2026-102489  
 **Categories:** Vulnerability  
-
----
-
-### 19. [Over 543,000 valid credentials exposed in public GitHub repositories](https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 30 Sep 2026 14:08:34 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS](https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 30 Sep 2026 11:49:29 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-84411  
-**Categories:** Vulnerability, DDoS  
 
 ---
 
@@ -220,7 +219,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69730, CVE-2026-85880, CVE-2026-81963, CVE-2026-69829  
+**CVEs:** CVE-2026-69829, CVE-2026-85880, CVE-2026-81963, CVE-2026-69730  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -257,7 +256,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62832, CVE-2026-72971, CVE-2026-68820  
+**CVEs:** CVE-2026-72971, CVE-2026-68820, CVE-2026-62832  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -632,7 +631,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
