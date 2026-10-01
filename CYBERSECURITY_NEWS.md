@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-01 05:13:58 UTC
+**Last Updated:** 2026-10-01 06:22:29 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs](https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html)
+### 1. [Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft](https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 01 Oct 2026 10:51:10 +0530  
+**Severity:** Critical  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 2. [MetaMask Security Incident Prompts Exit of Affected Ethereum Validators](https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 01 Oct 2026 10:40:09 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs](https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 01 Oct 2026 10:05:34 +0530  
@@ -14,7 +32,7 @@
 
 ---
 
-### 2. [Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets](https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html)
+### 4. [Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets](https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 30 Sep 2026 22:16:29 +0530  
@@ -24,7 +42,7 @@
 
 ---
 
-### 3. [Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks](https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html)
+### 5. [Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks](https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 30 Sep 2026 22:02:59 +0530  
@@ -33,7 +51,7 @@
 
 ---
 
-### 4. [Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager](https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html)
+### 6. [Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager](https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 30 Sep 2026 20:54:54 +0530  
@@ -43,7 +61,7 @@
 
 ---
 
-### 5. [Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures](https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html)
+### 7. [Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures](https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 30 Sep 2026 20:30:15 +0530  
@@ -52,7 +70,7 @@
 
 ---
 
-### 6. [Know Your Enemy: Browser-Based Attack Techniques in 2026](https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html)
+### 8. [Know Your Enemy: Browser-Based Attack Techniques in 2026](https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 30 Sep 2026 17:28:00 +0530  
@@ -61,7 +79,7 @@
 
 ---
 
-### 7. [AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub](https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html)
+### 9. [AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub](https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 30 Sep 2026 17:00:00 +0530  
@@ -70,30 +88,12 @@
 
 ---
 
-### 8. [US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access](https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html)
+### 10. [US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access](https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 30 Sep 2026 16:15:00 +0530  
 **Severity:** Low  
 **Categories:** Phishing  
-
----
-
-### 9. [Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT](https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 30 Sep 2026 13:54:35 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 10. [OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted](https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 30 Sep 2026 13:39:28 +0530  
-**Severity:** High  
-**Categories:** General Security  
 
 ---
 
@@ -168,7 +168,7 @@
 **Source:** Bleeping Computer  
 **Published:** Wed, 30 Sep 2026 08:25:10 -0400  
 **Severity:** High  
-**CVEs:** CVE-2026-92370, CVE-2026-92368, CVE-2026-19743, CVE-2026-92369, CVE-2026-92371  
+**CVEs:** CVE-2026-92371, CVE-2026-92368, CVE-2026-19743, CVE-2026-92369, CVE-2026-92370  
 **Categories:** Vulnerability  
 
 ---
@@ -223,7 +223,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69829, CVE-2026-69730, CVE-2026-85880, CVE-2026-81963  
+**CVEs:** CVE-2026-81963, CVE-2026-69829, CVE-2026-85880, CVE-2026-69730  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -260,7 +260,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-68820, CVE-2026-72971, CVE-2026-62832  
+**CVEs:** CVE-2026-62832, CVE-2026-68820, CVE-2026-72971  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -364,7 +364,7 @@
 **Source:** Security Week  
 **Published:** Wed, 30 Sep 2026 06:55:50 +0000  
 **Severity:** High  
-**CVEs:** CVE-2026-84782, CVE-2026-84783, CVE-2026-89102, CVE-2026-93302, CVE-2026-89136  
+**CVEs:** CVE-2026-89136, CVE-2026-93302, CVE-2026-84783, CVE-2026-84782, CVE-2026-89102  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -639,7 +639,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
