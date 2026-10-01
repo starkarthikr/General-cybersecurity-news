@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-01 15:35:45 UTC
+**Last Updated:** 2026-10-01 18:17:35 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory](https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html)
+### 1. [Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers](https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 01 Oct 2026 22:25:57 +0530  
+**Severity:** Low  
+**Categories:** Ransomware  
+
+---
+
+### 2. [ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories](https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 01 Oct 2026 22:15:38 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 3. [WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory](https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 01 Oct 2026 20:07:35 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [How Financial Services Companies Can Modernize Their Software Supply Chain](https://thehackernews.com/2026/10/how-financial-services-companies-can.html)
+### 4. [How Financial Services Companies Can Modernize Their Software Supply Chain](https://thehackernews.com/2026/10/how-financial-services-companies-can.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 01 Oct 2026 17:15:00 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates](https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html)
+### 5. [OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates](https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 01 Oct 2026 16:12:36 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV](https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html)
+### 6. [CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV](https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 01 Oct 2026 16:03:16 +0530  
@@ -40,7 +58,7 @@
 
 ---
 
-### 5. [Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version](https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html)
+### 7. [Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version](https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 01 Oct 2026 13:19:36 +0530  
@@ -49,7 +67,7 @@
 
 ---
 
-### 6. [Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path](https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html)
+### 8. [Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path](https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 01 Oct 2026 11:24:41 +0530  
@@ -59,7 +77,7 @@
 
 ---
 
-### 7. [Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft](https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html)
+### 9. [Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft](https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 01 Oct 2026 10:51:10 +0530  
@@ -68,32 +86,12 @@
 
 ---
 
-### 8. [MetaMask Security Incident Prompts Exit of Affected Ethereum Validators](https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html)
+### 10. [MetaMask Security Incident Prompts Exit of Affected Ethereum Validators](https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 01 Oct 2026 10:40:09 +0530  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 9. [Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs](https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 01 Oct 2026 10:05:34 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-88771  
-**Categories:** Vulnerability  
-
----
-
-### 10. [Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets](https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 30 Sep 2026 22:16:29 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-73570  
-**Categories:** Vulnerability  
 
 ---
 
@@ -166,7 +164,7 @@
 **Source:** Bleeping Computer  
 **Published:** Wed, 30 Sep 2026 15:49:15 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-102489, CVE-2026-102490  
+**CVEs:** CVE-2026-102490, CVE-2026-102489  
 **Categories:** Vulnerability  
 
 ---
@@ -222,7 +220,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81963, CVE-2026-69730, CVE-2026-85880, CVE-2026-69829  
+**CVEs:** CVE-2026-69730, CVE-2026-85880, CVE-2026-81963, CVE-2026-69829  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -259,7 +257,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62832, CVE-2026-68820, CVE-2026-72971  
+**CVEs:** CVE-2026-62832, CVE-2026-72971, CVE-2026-68820  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -282,7 +280,25 @@
 
 ---
 
-### 31. [Hacker Conversations: Rob Juncker, a Knock at the Door and a Moral Compass](https://www.securityweek.com/hacker-conversations-rob-juncker-a-knock-at-the-door-and-a-moral-compass/)
+### 31. [Zero Trust Creator Says Model Holds Firm Against AI-Assisted Attacks](https://www.securityweek.com/zero-trust-creator-says-model-holds-firm-against-ai-assisted-attacks/)
+
+**Source:** Security Week  
+**Published:** Thu, 01 Oct 2026 18:00:00 +0000  
+**Severity:** Critical  
+**Categories:** Data Breach, Vulnerability, APT  
+
+---
+
+### 32. [Osavul Lands $10 Million to Spot Hostile Intent Across Cyber, Physical Domains](https://www.securityweek.com/osavul-lands-10-million-to-spot-hostile-intent-across-cyber-physical-domains/)
+
+**Source:** Security Week  
+**Published:** Thu, 01 Oct 2026 17:16:41 +0000  
+**Severity:** Critical  
+**Categories:** APT, Supply Chain  
+
+---
+
+### 33. [Hacker Conversations: Rob Juncker, a Knock at the Door and a Moral Compass](https://www.securityweek.com/hacker-conversations-rob-juncker-a-knock-at-the-door-and-a-moral-compass/)
 
 **Source:** Security Week  
 **Published:** Thu, 01 Oct 2026 14:30:00 +0000  
@@ -291,7 +307,7 @@
 
 ---
 
-### 32. [Enterprises Struggle to Prepare for AI and Quantum Threats, PwC Says](https://www.securityweek.com/enterprises-struggle-to-prepare-for-ai-and-quantum-threats-pwc-says/)
+### 34. [Enterprises Struggle to Prepare for AI and Quantum Threats, PwC Says](https://www.securityweek.com/enterprises-struggle-to-prepare-for-ai-and-quantum-threats-pwc-says/)
 
 **Source:** Security Week  
 **Published:** Thu, 01 Oct 2026 14:30:00 +0000  
@@ -300,7 +316,7 @@
 
 ---
 
-### 33. [Police Shut Down KillSec Ransomware, Identify Alleged Teen Leader](https://www.securityweek.com/police-shut-down-killsec-ransomware-identify-alleged-teen-leader/)
+### 35. [Police Shut Down KillSec Ransomware, Identify Alleged Teen Leader](https://www.securityweek.com/police-shut-down-killsec-ransomware-identify-alleged-teen-leader/)
 
 **Source:** Security Week  
 **Published:** Thu, 01 Oct 2026 14:17:07 +0000  
@@ -309,7 +325,7 @@
 
 ---
 
-### 34. [AI Has Changed Attack Speed, Not Security Fundamentals](https://www.securityweek.com/ai-has-changed-attack-speed-not-security-fundamentals/)
+### 36. [AI Has Changed Attack Speed, Not Security Fundamentals](https://www.securityweek.com/ai-has-changed-attack-speed-not-security-fundamentals/)
 
 **Source:** Security Week  
 **Published:** Thu, 01 Oct 2026 13:15:00 +0000  
@@ -318,7 +334,7 @@
 
 ---
 
-### 35. [Zimbra Vulnerability Exploited in the Wild Prior to Public Disclosure](https://www.securityweek.com/zimbra-vulnerability-exploited-in-the-wild-prior-to-public-disclosure/)
+### 37. [Zimbra Vulnerability Exploited in the Wild Prior to Public Disclosure](https://www.securityweek.com/zimbra-vulnerability-exploited-in-the-wild-prior-to-public-disclosure/)
 
 **Source:** Security Week  
 **Published:** Thu, 01 Oct 2026 12:55:57 +0000  
@@ -328,7 +344,7 @@
 
 ---
 
-### 36. [Kevin Mandia’s Armadin Raises $255 Million at $2.5 Billion Valuation](https://www.securityweek.com/kevin-mandias-armadin-raises-255-million-at-2-5-billion-valuation/)
+### 38. [Kevin Mandia’s Armadin Raises $255 Million at $2.5 Billion Valuation](https://www.securityweek.com/kevin-mandias-armadin-raises-255-million-at-2-5-billion-valuation/)
 
 **Source:** Security Week  
 **Published:** Thu, 01 Oct 2026 11:40:51 +0000  
@@ -337,7 +353,7 @@
 
 ---
 
-### 37. [Treasury Blacklists Most-Wanted ATM Malware Developer and His Network](https://www.securityweek.com/treasury-blacklists-most-wanted-atm-malware-developer-and-his-network/)
+### 39. [Treasury Blacklists Most-Wanted ATM Malware Developer and His Network](https://www.securityweek.com/treasury-blacklists-most-wanted-atm-malware-developer-and-his-network/)
 
 **Source:** Security Week  
 **Published:** Thu, 01 Oct 2026 10:51:39 +0000  
@@ -346,36 +362,26 @@
 
 ---
 
-### 38. [Zammad Zero-Days Exploited in AI-Powered DIVD Hack](https://www.securityweek.com/zammad-zero-days-exploited-in-ai-powered-divd-hack/)
+### 40. [Zammad Zero-Days Exploited in AI-Powered DIVD Hack](https://www.securityweek.com/zammad-zero-days-exploited-in-ai-powered-divd-hack/)
 
 **Source:** Security Week  
 **Published:** Thu, 01 Oct 2026 10:42:49 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-102489, CVE-2026-102490  
+**CVEs:** CVE-2026-102490, CVE-2026-102489  
 **Categories:** Vulnerability  
 
 ---
 
-### 39. [500,000 Active Credentials Left Exposed on GitHub](https://www.securityweek.com/500000-active-credentials-left-exposed-on-github/)
+### 41. [Give yourself room to be human](https://blog.talosintelligence.com/give-yourself-room-to-be-human/)
 
-**Source:** Security Week  
-**Published:** Thu, 01 Oct 2026 09:43:56 +0000  
-**Severity:** Critical  
-**Categories:** Data Breach  
-
----
-
-### 40. [Cisco Patches Exploited Catalyst SD-WAN Zero-Day Vulnerability](https://www.securityweek.com/cisco-patches-exploited-catalyst-sd-wan-zero-day-vulnerability/)
-
-**Source:** Security Week  
-**Published:** Thu, 01 Oct 2026 08:26:03 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-76504  
-**Categories:** Vulnerability  
+**Source:** Talos Blog  
+**Published:** Thu, 01 Oct 2026 18:00:52 GMT  
+**Severity:** Low  
+**Categories:** General Security  
 
 ---
 
-### 41. [The Fine Art of Frustrating the Adversary](https://blog.talosintelligence.com/the-fine-art-of-frustrating-the-adversary/)
+### 42. [The Fine Art of Frustrating the Adversary](https://blog.talosintelligence.com/the-fine-art-of-frustrating-the-adversary/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 01 Oct 2026 10:00:05 GMT  
@@ -384,7 +390,7 @@
 
 ---
 
-### 42. [China-nexus UAT-11587 targets government and policy organizations across Asia with Antino backdoor](https://blog.talosintelligence.com/china-nexus-uat-11587-targets-government-and-policy-organizations-across-asia-with-antino-backdoor/)
+### 43. [China-nexus UAT-11587 targets government and policy organizations across Asia with Antino backdoor](https://blog.talosintelligence.com/china-nexus-uat-11587-targets-government-and-policy-organizations-across-asia-with-antino-backdoor/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 30 Sep 2026 10:00:01 GMT  
@@ -393,7 +399,7 @@
 
 ---
 
-### 43. [Securing the keys to the kingdom: Announcing Executive Threat Detection](https://blog.talosintelligence.com/securing-the-keys-to-the-kingdom-announcing-executive-threat-detection/)
+### 44. [Securing the keys to the kingdom: Announcing Executive Threat Detection](https://blog.talosintelligence.com/securing-the-keys-to-the-kingdom-announcing-executive-threat-detection/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 29 Sep 2026 10:00:36 GMT  
@@ -402,7 +408,7 @@
 
 ---
 
-### 44. [Trust and the enticing consultancy offer](https://blog.talosintelligence.com/trust-and-the-enticing-consultancy-offer/)
+### 45. [Trust and the enticing consultancy offer](https://blog.talosintelligence.com/trust-and-the-enticing-consultancy-offer/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 24 Sep 2026 18:00:37 GMT  
@@ -411,7 +417,7 @@
 
 ---
 
-### 45. [The Closed Quorum: Inside the first reported autonomous AI C2 implant](https://blog.talosintelligence.com/the-closed-quorum-inside-the-first-reported-autonomous-ai-c2-implant/)
+### 46. [The Closed Quorum: Inside the first reported autonomous AI C2 implant](https://blog.talosintelligence.com/the-closed-quorum-inside-the-first-reported-autonomous-ai-c2-implant/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 22 Sep 2026 10:00:58 GMT  
@@ -420,7 +426,7 @@
 
 ---
 
-### 46. [Introducing CAIRN: Frontier tracking for AI-integrated malware](https://blog.talosintelligence.com/introducing-cairn-frontier-tracking-for-ai-integrated-malware/)
+### 47. [Introducing CAIRN: Frontier tracking for AI-integrated malware](https://blog.talosintelligence.com/introducing-cairn-frontier-tracking-for-ai-integrated-malware/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 22 Sep 2026 10:00:25 GMT  
@@ -429,7 +435,7 @@
 
 ---
 
-### 47. [Should you care about an “AI slowdown?”](https://blog.talosintelligence.com/should-you-care-about-an-ai-slowdown/)
+### 48. [Should you care about an “AI slowdown?”](https://blog.talosintelligence.com/should-you-care-about-an-ai-slowdown/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 17 Sep 2026 18:00:23 GMT  
@@ -438,7 +444,7 @@
 
 ---
 
-### 48. [Ransomware incidents in Japan in the first half of 2026: Investigation of The Gentlemen’s infrastructure and evidence of Qilin's AI use](https://blog.talosintelligence.com/ransomware-incidents-in-japan-in-the-first-half-of-2026/)
+### 49. [Ransomware incidents in Japan in the first half of 2026: Investigation of The Gentlemen’s infrastructure and evidence of Qilin's AI use](https://blog.talosintelligence.com/ransomware-incidents-in-japan-in-the-first-half-of-2026/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 17 Sep 2026 10:00:43 GMT  
@@ -447,21 +453,12 @@
 
 ---
 
-### 49. [Securing the unpatchable in an age of AI-driven vulnerabilities](https://blog.talosintelligence.com/securing-the-unpatchable-in-an-age-of-ai-driven-vulnerabilities/)
+### 50. [Securing the unpatchable in an age of AI-driven vulnerabilities](https://blog.talosintelligence.com/securing-the-unpatchable-in-an-age-of-ai-driven-vulnerabilities/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 16 Sep 2026 10:00:36 GMT  
 **Severity:** Critical  
 **Categories:** Vulnerability  
-
----
-
-### 50. [We've got one word for it, and it's usually the wrong one](https://blog.talosintelligence.com/weve-got-one-word-for-it-and-its-usually-the-wrong-one/)
-
-**Source:** Talos Blog  
-**Published:** Thu, 10 Sep 2026 18:00:15 GMT  
-**Severity:** Low  
-**Categories:** APT  
 
 ---
 
@@ -635,7 +632,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -650,7 +647,16 @@
 
 ---
 
-### 71. [Shadow AI explained: The work shortcut that could leak your company’s secrets](https://www.malwarebytes.com/blog/ai/2026/10/shadow-ai-explained-the-work-shortcut-that-could-leak-your-companys-secrets)
+### 71. [Fake xStocks, Pendle, and other sites bait crypto users with rewards votes](https://www.malwarebytes.com/blog/threat-intel/2026/10/fake-xstocks-pendle-and-other-sites-bait-crypto-users-with-rewards-votes)
+
+**Source:** Malwarebytes  
+**Published:** Thu, 01 Oct 2026 17:08:54 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 72. [Shadow AI explained: The work shortcut that could leak your company’s secrets](https://www.malwarebytes.com/blog/ai/2026/10/shadow-ai-explained-the-work-shortcut-that-could-leak-your-companys-secrets)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 01 Oct 2026 14:05:37 GMT  
@@ -659,7 +665,7 @@
 
 ---
 
-### 72. [Malwarebytes earns another Top Product award in independent testing](https://www.malwarebytes.com/blog/product/2026/10/malwarebytes-earns-another-top-product-award-in-independent-testing)
+### 73. [Malwarebytes earns another Top Product award in independent testing](https://www.malwarebytes.com/blog/product/2026/10/malwarebytes-earns-another-top-product-award-in-independent-testing)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 01 Oct 2026 10:51:52 GMT  
@@ -668,7 +674,7 @@
 
 ---
 
-### 73. [Pentagon breach exposes Social Security numbers and military records of millions](https://www.malwarebytes.com/blog/privacy/2026/10/pentagon-breach-exposes-social-security-numbers-and-military-records-of-millions)
+### 74. [Pentagon breach exposes Social Security numbers and military records of millions](https://www.malwarebytes.com/blog/privacy/2026/10/pentagon-breach-exposes-social-security-numbers-and-military-records-of-millions)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 01 Oct 2026 10:48:58 GMT  
@@ -677,7 +683,7 @@
 
 ---
 
-### 74. [Losing gamblers pushed to bet more by DraftKings’ AI, report says](https://www.malwarebytes.com/blog/ai/2026/10/losing-gamblers-pushed-to-bet-more-by-draftkings-ai-report-says)
+### 75. [Losing gamblers pushed to bet more by DraftKings’ AI, report says](https://www.malwarebytes.com/blog/ai/2026/10/losing-gamblers-pushed-to-bet-more-by-draftkings-ai-report-says)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 01 Oct 2026 08:53:06 GMT  
@@ -686,7 +692,7 @@
 
 ---
 
-### 75. [Hackers steal protective order and foster care records from Arizona courts](https://www.malwarebytes.com/blog/data-breaches/2026/09/hackers-steal-protective-order-and-foster-care-records-from-arizona-courts)
+### 76. [Hackers steal protective order and foster care records from Arizona courts](https://www.malwarebytes.com/blog/data-breaches/2026/09/hackers-steal-protective-order-and-foster-care-records-from-arizona-courts)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 30 Sep 2026 15:29:42 GMT  
@@ -695,7 +701,7 @@
 
 ---
 
-### 76. [Your car’s app could be telling Big Tech who you are and where you go](https://www.malwarebytes.com/blog/news/2026/09/your-cars-app-could-be-telling-big-tech-who-you-are-and-where-you-go)
+### 77. [Your car’s app could be telling Big Tech who you are and where you go](https://www.malwarebytes.com/blog/news/2026/09/your-cars-app-could-be-telling-big-tech-who-you-are-and-where-you-go)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 30 Sep 2026 11:28:06 GMT  
@@ -704,7 +710,7 @@
 
 ---
 
-### 77. [Meta’s Muse sent a Facebook Marketplace buyer to a seller’s home](https://www.malwarebytes.com/blog/news/2026/09/metas-muse-sent-a-facebook-marketplace-buyer-to-a-sellers-home)
+### 78. [Meta’s Muse sent a Facebook Marketplace buyer to a seller’s home](https://www.malwarebytes.com/blog/news/2026/09/metas-muse-sent-a-facebook-marketplace-buyer-to-a-sellers-home)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 29 Sep 2026 12:51:22 GMT  
@@ -713,7 +719,7 @@
 
 ---
 
-### 78. [Update your iPhone, iPad, or Mac: Flaw could run attackers’ code](https://www.malwarebytes.com/blog/bugs/2026/09/update-your-iphone-ipad-or-mac-flaw-could-run-attackers-code)
+### 79. [Update your iPhone, iPad, or Mac: Flaw could run attackers’ code](https://www.malwarebytes.com/blog/bugs/2026/09/update-your-iphone-ipad-or-mac-flaw-could-run-attackers-code)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 29 Sep 2026 10:35:16 GMT  
@@ -723,21 +729,12 @@
 
 ---
 
-### 79. [Fake iPhone Duo preorder scam triggers DarkSword attack](https://www.malwarebytes.com/blog/threat-intel/2026/09/fake-iphone-duo-preorder-scam-triggers-darksword-attack)
+### 80. [Fake iPhone Duo preorder scam triggers DarkSword attack](https://www.malwarebytes.com/blog/threat-intel/2026/09/fake-iphone-duo-preorder-scam-triggers-darksword-attack)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 29 Sep 2026 09:56:49 GMT  
 **Severity:** Low  
 **Categories:** Data Breach, Vulnerability, APT  
-
----
-
-### 80. [Humans are reviewing Copilot users’ bizarre and abusive image-editing requests](https://www.malwarebytes.com/blog/ai/2026/09/humans-are-reviewing-copilot-users-bizarre-and-abusive-image-editing-requests)
-
-**Source:** Malwarebytes  
-**Published:** Tue, 29 Sep 2026 09:27:30 GMT  
-**Severity:** Low  
-**Categories:** Supply Chain  
 
 ---
 

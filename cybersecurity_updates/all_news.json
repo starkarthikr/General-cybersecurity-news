@@ -1,6 +1,43 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
+    "link": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
+    "published": "Thu, 01 Oct 2026 22:25:57 +0530",
+    "summary": "Police in Spain have arrested a 16-year-old whom investigators suspect of running the KillSec ransomware group. KillSec is accused of stealing data from organizations and threatening to publish it on its leak site unless they paid.\n\nThe 16-year-old was one of 3 people arrested on September 30, when police also took control of that site.\n\nInvestigators identified him as KillSec's suspected",
+    "analysis": {
+      "issue": "European police arrested three KillSec suspects, seized its leak site and servers, and secured at least 110 TB of data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories",
+    "link": "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html",
+    "published": "Thu, 01 Oct 2026 22:15:38 +0530",
+    "summary": "This week, the useful words are boring ones: inspect, cache, compile, store, trust. Each sounds harmless. Each can become an attack path when a system does a little more than people expect. A model check can run code. A cache can mix up requests. A public secret can stay useful for years.\n\nThat is the lesson running through the list. Attackers do not always need a brilliant new trick. They can",
+    "analysis": {
+      "issue": "This week in cybersecurity: AI-driven attacks, exposed secrets, old flaws, new exploit tricks, malware techniques, and security research worth knowing",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory",
     "link": "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html",
     "published": "Thu, 01 Oct 2026 20:07:35 +0530",
@@ -148,46 +185,6 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs",
-    "link": "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html",
-    "published": "Thu, 01 Oct 2026 10:05:34 +0530",
-    "summary": "Threat actors have been observed exploiting a critical pre-authentication command injection vulnerability in Citrix NetScaler ADC and NetScaler Gateway to drop web shells and attempt theft of configuration data.\n\nLevelBlue's Threat Hunt Operations &amp; Research (THOR) team, which analyzed the exploitation activity across multiple customer environments, said it identified malicious NetScaler",
-    "analysis": {
-      "issue": "Attackers exploit Citrix NetScaler CVE-2026-88771 to deploy web shells and attempt theft of configuration data",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-88771"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
-    "link": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
-    "published": "Wed, 30 Sep 2026 22:16:29 +0530",
-    "summary": "Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft Security Research team.\n\nThe attack exploits CVE-2026-73570 (CVSS score: 8.9), an unauthenticated operating system command injection flaw that can lead to remote code execution when Simple Network Management Protocol",
-    "analysis": {
-      "issue": "Attackers exploited CVE-2026-73570 in Zimbra to deploy web shells and access mailbox data on servers with SNMP notifications enabled",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-73570"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
     "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
     "link": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
@@ -330,8 +327,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-102489",
-        "CVE-2026-102490"
+        "CVE-2026-102490",
+        "CVE-2026-102489"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -447,9 +444,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-81963",
         "CVE-2026-69730",
         "CVE-2026-85880",
+        "CVE-2026-81963",
         "CVE-2026-69829"
       ],
       "threat_categories": [
@@ -528,8 +525,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-62832",
-        "CVE-2026-68820",
-        "CVE-2026-72971"
+        "CVE-2026-72971",
+        "CVE-2026-68820"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -572,6 +569,45 @@
       "cves": [],
       "threat_categories": [
         "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Zero Trust Creator Says Model Holds Firm Against AI-Assisted Attacks",
+    "link": "https://www.securityweek.com/zero-trust-creator-says-model-holds-firm-against-ai-assisted-attacks/",
+    "published": "Thu, 01 Oct 2026 18:00:00 +0000",
+    "summary": "<p>Fifteen years after coining the framework, John Kindervag insists zero trust still works in the AI era—if you get the implementation right.</p>\n<p>The post <a href=\"https://www.securityweek.com/zero-trust-creator-says-model-holds-firm-against-ai-assisted-attacks/\">Zero Trust Creator Says Model Holds Firm Against AI-Assisted Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Fifteen years after coining the framework, John Kindervag insists zero trust still works in the AI era—if you get the implementation right",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Osavul Lands $10 Million to Spot Hostile Intent Across Cyber, Physical Domains",
+    "link": "https://www.securityweek.com/osavul-lands-10-million-to-spot-hostile-intent-across-cyber-physical-domains/",
+    "published": "Thu, 01 Oct 2026 17:16:41 +0000",
+    "summary": "<p>Hybrid risk intelligence company Osavul has raised $10 million in a Series A funding round led by 33N Ventures.</p>\n<p>The post <a href=\"https://www.securityweek.com/osavul-lands-10-million-to-spot-hostile-intent-across-cyber-physical-domains/\">Osavul Lands $10 Million to Spot Hostile Intent Across Cyber, Physical Domains</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Hybrid risk intelligence company Osavul has raised $10 million in a Series A funding round led by 33N Ventures",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "APT",
+        "Supply Chain"
       ]
     }
   },
@@ -717,8 +753,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-102489",
-        "CVE-2026-102490"
+        "CVE-2026-102490",
+        "CVE-2026-102489"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -726,40 +762,20 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "500,000 Active Credentials Left Exposed on GitHub",
-    "link": "https://www.securityweek.com/500000-active-credentials-left-exposed-on-github/",
-    "published": "Thu, 01 Oct 2026 09:43:56 +0000",
-    "summary": "<p>Roughly 200,000 of the credentials were exposed after GitHub enabled push protections by default.</p>\n<p>The post <a href=\"https://www.securityweek.com/500000-active-credentials-left-exposed-on-github/\">500,000 Active Credentials Left Exposed on GitHub</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "source": "Talos Blog",
+    "title": "Give yourself room to be human",
+    "link": "https://blog.talosintelligence.com/give-yourself-room-to-be-human/",
+    "published": "Thu, 01 Oct 2026 18:00:52 GMT",
+    "summary": "In this week’s edition, Amy reflects on the importance of prioritizing family and personal well-being over the pressure to remain constantly productive.",
     "analysis": {
-      "issue": "Roughly 200,000 of the credentials were exposed after GitHub enabled push protections by default",
+      "issue": "Welcome to this week’s edition of the Threat Source newsletter",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Critical",
+      "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Cisco Patches Exploited Catalyst SD-WAN Zero-Day Vulnerability",
-    "link": "https://www.securityweek.com/cisco-patches-exploited-catalyst-sd-wan-zero-day-vulnerability/",
-    "published": "Thu, 01 Oct 2026 08:26:03 +0000",
-    "summary": "<p>The flaw could allow remote, unauthenticated attackers to access vulnerable appliances with administrative privileges.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-patches-exploited-catalyst-sd-wan-zero-day-vulnerability/\">Cisco Patches Exploited Catalyst SD-WAN Zero-Day Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The flaw could allow remote, unauthenticated attackers to access vulnerable appliances with administrative privileges",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-76504"
-      ],
-      "threat_categories": [
-        "Vulnerability"
+        "General Security"
       ]
     }
   },
@@ -929,24 +945,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "We've got one word for it, and it's usually the wrong one",
-    "link": "https://blog.talosintelligence.com/weve-got-one-word-for-it-and-its-usually-the-wrong-one/",
-    "published": "Thu, 10 Sep 2026 18:00:15 GMT",
-    "summary": "In this week's Threat Source newsletter, Joe explores why the word \"burnout\" often fails to capture the true toll of working in the cybersecurity industry and why we need better language to address it.",
-    "analysis": {
-      "issue": "Welcome to this week’s edition of the Threat Source newsletter",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "APT"
       ]
     }
   },
@@ -1299,8 +1297,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1325,6 +1323,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Fake xStocks, Pendle, and other sites bait crypto users with rewards votes",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/10/fake-xstocks-pendle-and-other-sites-bait-crypto-users-with-rewards-votes",
+    "published": "Thu, 01 Oct 2026 17:08:54 GMT",
+    "summary": "More than 70 fake crypto sites promise extra rewards for casting a vote, then prompt visitors to connect their wallets.",
+    "analysis": {
+      "issue": "We found 70 websites that impersonate legitimate crypto projects that invite visitors to vote on the date of an upcoming rewards distribution",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1494,24 +1510,6 @@
         "Data Breach",
         "Vulnerability",
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Humans are reviewing Copilot users’ bizarre and abusive image-editing requests",
-    "link": "https://www.malwarebytes.com/blog/ai/2026/09/humans-are-reviewing-copilot-users-bizarre-and-abusive-image-editing-requests",
-    "published": "Tue, 29 Sep 2026 09:27:30 GMT",
-    "summary": "Copilot users asked for upskirt images and sexualized edits of people in uploaded photos. Human contractors were asked to judge the results.",
-    "analysis": {
-      "issue": "A reminder for anyone who thinks their AI chats are private: A human may see what they upload",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
       ]
     }
   },
