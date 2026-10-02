@@ -1,6 +1,78 @@
 [
   {
     "source": "The Hacker News",
+    "title": "OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling",
+    "link": "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html",
+    "published": "Fri, 02 Oct 2026 17:53:15 +0530",
+    "summary": "OpenAI has parted ways with three members of its safety team after they leaked private information in violation of company policies, The Wall Street Journal reported.\n\n\"We have parted ways with three individuals for violating our policies on accessing and handling sensitive company information,\" a spokesperson for the company was quoted as saying. \"Our investigation confirmed that these",
+    "analysis": {
+      "issue": "OpenAI parted ways with three safety researchers after finding they mishandled sensitive information, reportedly tied to infrastructure architecture",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report",
+    "link": "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html",
+    "published": "Fri, 02 Oct 2026 17:00:00 +0530",
+    "summary": "The quarterly board meeting is two weeks out. The security team is pulling exports from the identity provider, the cloud posture tool, the vulnerability scanner, the SIEM and the EDR console. Someone is building a spreadsheet to reconcile them. Someone else is turning that spreadsheet into slides.\n\nThen a board member asks three questions:\n\n\n  How secure is the organization, overall?\n  What is",
+    "analysis": {
+      "issue": "Exposure-based board reporting maps attack paths across security tools and ties critical assets to financial risk and quarterly trends",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools",
+    "link": "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html",
+    "published": "Fri, 02 Oct 2026 13:31:30 +0530",
+    "summary": "Google has announced a new security measure that limits access to Android's accessibility services to verified applications classified as Accessibility Tools when Advanced Protection is enabled.\n\nWith malicious Android applications abusing the API serving as the main conduit for malware and financial fraud, the tech giant said the move would block a major attack pathway. Advanced Protection is a",
+    "analysis": {
+      "issue": "Android 17 limits accessibility service access under Advanced Protection to verified Accessibility Tools, blocking a major malware abuse path",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes",
+    "link": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html",
+    "published": "Fri, 02 Oct 2026 11:19:50 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added a critical security flaw impacting Fortinet FortiMail to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation.\n\nThe vulnerability, tracked as CVE-2026-104286 (CVSS score: 9.8), allows unauthenticated attackers to write arbitrary files on the underlying system.\n\n\"An improper",
+    "analysis": {
+      "issue": "Fortinet says attackers are exploiting a FortiMail flaw that lets unauthenticated users write arbitrary files via crafted HTTP requests",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
     "link": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
     "published": "Thu, 01 Oct 2026 22:25:57 +0530",
@@ -110,37 +182,42 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version",
-    "link": "https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html",
-    "published": "Thu, 01 Oct 2026 13:19:36 +0530",
-    "summary": "Google on Wednesday announced its latest frontier artificial intelligence (AI) model, Gemini 4 Argon, that it said is being rolled out to a set of trusted cyber defenders through its Fairwind Program.\n\n\"It delivers frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,\" Koray Kavukcuoglu,",
+    "source": "Bleeping Computer",
+    "title": "The EDR blind spot: 3 ways browser attacks evade endpoint telemetry",
+    "link": "https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/",
+    "published": "Fri, 02 Oct 2026 10:00:10 -0400",
+    "summary": "Browser-based attacks can steal sessions, abuse extensions, or manipulate users without creating the endpoint artifacts EDR is designed to detect. NordLayer explains three ways attacks can evade endpoint telemetry and why browser-level controls can help close the gap. [...]",
     "analysis": {
-      "issue": "Gemini 4 Argon is rolling out to trusted defenders after finding a critical healthcare software flaw exposing sensitive personal data",
+      "issue": "Article written by Andrius Buinovskis, VP of product strategy at NordLayer EDR remains necessary when attackers execute code on the host",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Critical",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Malware"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path",
-    "link": "https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html",
-    "published": "Thu, 01 Oct 2026 11:24:41 +0530",
-    "summary": "Security researchers have published the first public proof-of-concept for CVE-2026-86950, an Apple CoreGraphics flaw Apple says may have been used in attacks against specific targeted individuals.\n\nThe trigger is a malicious PDF with a crafted embedded font that crashes unpatched iPhones and Macs. The code causes a crash, not an execution error. Turning the memory corruption into a working",
+    "source": "Bleeping Computer",
+    "title": "Dell asks admins to patch max severity CSM flaws as soon as possible",
+    "link": "https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/",
+    "published": "Fri, 02 Oct 2026 08:37:40 -0400",
+    "summary": "Dell has patched two maximum severity vulnerabilities in the Container Storage Modules (CSM) that connect Dell enterprise storage arrays to Kubernetes environments. [...]",
     "analysis": {
-      "issue": "Public PoC for CVE-2026-86950 triggers a controlled out-of-bounds write in CoreGraphics; code execution is not demonstrated",
+      "issue": "Dell has patched two maximum severity vulnerabilities in the Container Storage Modules (CSM) that connect Dell enterprise storage arrays to Kubernetes environments",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [
-        "CVE-2026-86950"
+        "CVE-2026-54472",
+        "CVE-2026-67273",
+        "CVE-2026-63692",
+        "CVE-2026-63688",
+        "CVE-2026-67269",
+        "CVE-2026-61421"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -148,32 +225,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft",
-    "link": "https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html",
-    "published": "Thu, 01 Oct 2026 10:51:10 +0530",
-    "summary": "Cryptocurrency exchange Bitget on Wednesday confirmed that attackers who stole $387.5 million last week exploited a zero-day flaw in third-party security products, citing ongoing investigation findings from SlowMist.\n\n\"Their investigation identified malicious activity involving third-party security products, including a zero-day vulnerability, and recovered a customized tool used by the attacker",
+    "source": "Bleeping Computer",
+    "title": "Microsoft’s X account hacked in crypto pump-and-dump scheme",
+    "link": "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/",
+    "published": "Fri, 02 Oct 2026 05:29:56 -0400",
+    "summary": "On Thursday, unknown attackers hijacked the official Microsoft account on X, which has over 13 million followers, in what appeared to be a pump-and-dump scheme promoting a crypto token. [...]",
     "analysis": {
-      "issue": "Bitget says attackers exploited a third-party zero-day to steal $387",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "MetaMask Security Incident Prompts Exit of Affected Ethereum Validators",
-    "link": "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html",
-    "published": "Thu, 01 Oct 2026 10:40:09 +0530",
-    "summary": "MetaMask on Thursday said it's responding to what it described as an \"ongoing security incident\" impacting part of its infrastructure.\n\n\"We are actively addressing and remediating the issue internally, in coordination with external partners and security advisors,\" the software cryptocurrency wallet maker said. \"At this time, we have identified no immediate threat to MetaMask wallets.\"\n\nMetaMask",
-    "analysis": {
-      "issue": "MetaMask is remediating an infrastructure security incident and exiting affected Ethereum validators; it reports no immediate wallet threat",
+      "issue": "On Thursday, unknown attackers hijacked the official Microsoft account on X, which has over 13 million followers, in what appeared to be a pump-and-dump scheme promoting a crypto token",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -316,62 +374,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Hackers stole Pentagon personnel records of over 3 million people",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/",
-    "published": "Thu, 01 Oct 2026 05:44:28 -0400",
-    "summary": "The Pentagon's Defense Manpower Data Center (DMDC) is notifying millions of military service members that hackers stole their data after breaching the Pentagon's human resources management system in October 2025. [...]",
-    "analysis": {
-      "issue": "The Pentagon's Defense Manpower Data Center (DMDC) is notifying millions of military service members that hackers stole their data after breaching the Pentagon's human resources management system in October 2025",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Metamask discloses security incident affecting its infrastructure",
-    "link": "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/",
-    "published": "Thu, 01 Oct 2026 03:33:57 -0400",
-    "summary": "On Thursday, cryptocurrency wallet provider MetaMask has disclosed an ongoing infrastructure security incident affecting some of its infrastructure. [...]",
-    "analysis": {
-      "issue": "On Thursday, cryptocurrency wallet provider MetaMask has disclosed an ongoing infrastructure security incident affecting some of its infrastructure",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Russian state hackers use new RedFlick technique to push malware",
-    "link": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
-    "published": "Wed, 30 Sep 2026 16:34:01 -0400",
-    "summary": "The Russian state actor Star Blizzard has been using a new malware installation tactic dubbed \"RedFlick\" to deploy its signature CosmicPulse backdoor. [...]",
-    "analysis": {
-      "issue": "The Russian state actor Star Blizzard has been using a new malware installation tactic dubbed “RedFlick” to deploy its signature CosmicPulse backdoor",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
     "link": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
@@ -442,8 +444,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-69730",
-        "CVE-2026-69829",
         "CVE-2026-81963",
+        "CVE-2026-69829",
         "CVE-2026-85880"
       ],
       "threat_categories": [
@@ -571,6 +573,153 @@
   },
   {
     "source": "Security Week",
+    "title": "In Other News: $15K iCloud Spoofing Bugs, AI Policy Experts Phished, Adblocker Spies on AI Chats",
+    "link": "https://www.securityweek.com/in-other-news-15k-icloud-spoofing-bugs-ai-policy-experts-phished-adblocker-spies-on-ai-chats/",
+    "published": "Fri, 02 Oct 2026 14:30:00 +0000",
+    "summary": "<p>Noteworthy stories that might have slipped under the radar: Kiteworks patches over 100 vulnerabilities, Microsoft publishes 2026 Digital Defense Report, AI finds 24 Android app flaws.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-15k-icloud-spoofing-bugs-ai-policy-experts-phished-adblocker-spies-on-ai-chats/\">In Other News: $15K iCloud Spoofing Bugs, AI Policy Experts Phished, Adblocker Spies on AI Chats</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Noteworthy stories that might have slipped under the radar: Kiteworks patches over 100 vulnerabilities, Microsoft publishes 2026 Digital Defense Report, AI finds 24 Android app flaws",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "Malware",
+        "Phishing",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "macOS Users Targeted by Fake Zoom Installer Carrying CloudSyncD Backdoor",
+    "link": "https://www.securityweek.com/macos-users-targeted-by-fake-zoom-installer-carrying-cloudsyncd-backdoor/",
+    "published": "Fri, 02 Oct 2026 13:15:00 +0000",
+    "summary": "<p>The dropper “carries a complete universal Mach-O inside itself, roughly 756 KB in the development build, and extracts it at runtime.</p>\n<p>The post <a href=\"https://www.securityweek.com/macos-users-targeted-by-fake-zoom-installer-carrying-cloudsyncd-backdoor/\">macOS Users Targeted by Fake Zoom Installer Carrying CloudSyncD Backdoor</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The dropper “carries a complete universal Mach-O inside itself, roughly 756 KB in the development build, and extracts it at runtime",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Crypto Scammers Hijack Microsoft’s Official X Account",
+    "link": "https://www.securityweek.com/crypto-scammers-hijack-microsofts-official-x-account/",
+    "published": "Fri, 02 Oct 2026 11:46:10 +0000",
+    "summary": "<p>Hackers used the account, which has 13 million followers, to amplify a Clippy-themed cryptocurrency account.</p>\n<p>The post <a href=\"https://www.securityweek.com/crypto-scammers-hijack-microsofts-official-x-account/\">Crypto Scammers Hijack Microsoft&#8217;s Official X Account</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Hackers used the account, which has 13 million followers, to amplify a Clippy-themed cryptocurrency account",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "In Rare Move, Alleged Iranian State Hacker Extradited to US",
+    "link": "https://www.securityweek.com/in-rare-move-iranian-hacker-accused-of-working-for-irgc-extradited-to-us/",
+    "published": "Fri, 02 Oct 2026 11:14:34 +0000",
+    "summary": "<p>Amir Barati, an alleged member of the Mabna Institute, was indicted for targeting universities, private organizations, and government entities in the US and abroad.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-rare-move-iranian-hacker-accused-of-working-for-irgc-extradited-to-us/\">In Rare Move, Alleged Iranian State Hacker Extradited to US</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Amir Barati, an alleged member of the Mabna Institute, was indicted for targeting universities, private organizations, and government entities in the US and abroad",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Warlock Expands SharePoint Exploitation in Critical Infrastructure Attacks",
+    "link": "https://www.securityweek.com/warlock-expands-sharepoint-exploitation-in-critical-infrastructure-attacks/",
+    "published": "Fri, 02 Oct 2026 09:34:41 +0000",
+    "summary": "<p>The China-based hacking group has been exploiting SharePoint vulnerabilities since July 2025.</p>\n<p>The post <a href=\"https://www.securityweek.com/warlock-expands-sharepoint-exploitation-in-critical-infrastructure-attacks/\">Warlock Expands SharePoint Exploitation in Critical Infrastructure Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The China-based hacking group has been exploiting SharePoint vulnerabilities since July 2025",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-32201",
+        "CVE-2026-58644",
+        "CVE-2026-45659",
+        "CVE-2026-50522",
+        "CVE-2026-55040",
+        "CVE-2026-56164"
+      ],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "AI Agents Aimed SQL Injection at US and Canadian Government Sites",
+    "link": "https://www.securityweek.com/ai-agents-aimed-sql-injection-at-us-and-canadian-government-sites/",
+    "published": "Fri, 02 Oct 2026 08:38:46 +0000",
+    "summary": "<p>The attacks targeted the US Department of Education and Library and Archives Canada, and researchers linked some agents to OpenAI.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-agents-aimed-sql-injection-at-us-and-canadian-government-sites/\">AI Agents Aimed SQL Injection at US and Canadian Government Sites</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The attacks targeted the US Department of Education and Library and Archives Canada, and researchers linked some agents to OpenAI",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Exploited Fortinet FortiMail Zero-Day Calls for Urgent Action",
+    "link": "https://www.securityweek.com/exploited-fortinet-fortimail-zero-day-calls-for-urgent-action/",
+    "published": "Fri, 02 Oct 2026 08:07:33 +0000",
+    "summary": "<p>CVE-2026-104286 is a critical-severity path traversal vulnerability that could allow attackers to write arbitrary files to the system.</p>\n<p>The post <a href=\"https://www.securityweek.com/exploited-fortinet-fortimail-zero-day-calls-for-urgent-action/\">Exploited Fortinet FortiMail Zero-Day Calls for Urgent Action</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "CVE-2026-104286 is a critical-severity path traversal vulnerability that could allow attackers to write arbitrary files to the system",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-104286"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Zero Trust Creator Says Model Holds Firm Against AI-Assisted Attacks",
     "link": "https://www.securityweek.com/zero-trust-creator-says-model-holds-firm-against-ai-assisted-attacks/",
     "published": "Thu, 01 Oct 2026 18:00:00 +0000",
@@ -623,138 +772,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Enterprises Struggle to Prepare for AI and Quantum Threats, PwC Says",
-    "link": "https://www.securityweek.com/enterprises-struggle-to-prepare-for-ai-and-quantum-threats-pwc-says/",
-    "published": "Thu, 01 Oct 2026 14:30:00 +0000",
-    "summary": "<p>PwC’s survey found that only 22% of leaders would use fully autonomous AI for cyber defense, while just 21% are implementing quantum-resistant security measures.</p>\n<p>The post <a href=\"https://www.securityweek.com/enterprises-struggle-to-prepare-for-ai-and-quantum-threats-pwc-says/\">Enterprises Struggle to Prepare for AI and Quantum Threats, PwC Says</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "PwC’s survey found that only 22% of leaders would use fully autonomous AI for cyber defense, while just 21% are implementing quantum-resistant security measures",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Police Shut Down KillSec Ransomware, Identify Alleged Teen Leader",
-    "link": "https://www.securityweek.com/police-shut-down-killsec-ransomware-identify-alleged-teen-leader/",
-    "published": "Thu, 01 Oct 2026 14:17:07 +0000",
-    "summary": "<p>Police took control of KillSec’s leak site and secured at least 110 terabytes of data stolen from victims.</p>\n<p>The post <a href=\"https://www.securityweek.com/police-shut-down-killsec-ransomware-identify-alleged-teen-leader/\">Police Shut Down KillSec Ransomware, Identify Alleged Teen Leader</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Police took control of KillSec’s leak site and secured at least 110 terabytes of data stolen from victims",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "AI Has Changed Attack Speed, Not Security Fundamentals",
-    "link": "https://www.securityweek.com/ai-has-changed-attack-speed-not-security-fundamentals/",
-    "published": "Thu, 01 Oct 2026 13:15:00 +0000",
-    "summary": "<p>As AI accelerates vulnerability discovery and exploitation, so-called virtual patching still comes down to defense-in-depth and strong application security fundamentals.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-has-changed-attack-speed-not-security-fundamentals/\">AI Has Changed Attack Speed, Not Security Fundamentals</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "As AI accelerates vulnerability discovery and exploitation, so-called virtual patching still comes down to defense-in-depth and strong application security fundamentals",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Zimbra Vulnerability Exploited in the Wild Prior to Public Disclosure",
-    "link": "https://www.securityweek.com/zimbra-vulnerability-exploited-in-the-wild-prior-to-public-disclosure/",
-    "published": "Thu, 01 Oct 2026 12:55:57 +0000",
-    "summary": "<p>Under certain conditions, CVE-2026-73570 can be exploited via specially crafted emails without user interaction.</p>\n<p>The post <a href=\"https://www.securityweek.com/zimbra-vulnerability-exploited-in-the-wild-prior-to-public-disclosure/\">Zimbra Vulnerability Exploited in the Wild Prior to Public Disclosure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Under certain conditions, CVE-2026-73570 can be exploited via specially crafted emails without user interaction",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-73570"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Kevin Mandia’s Armadin Raises $255 Million at $2.5 Billion Valuation",
-    "link": "https://www.securityweek.com/kevin-mandias-armadin-raises-255-million-at-2-5-billion-valuation/",
-    "published": "Thu, 01 Oct 2026 11:40:51 +0000",
-    "summary": "<p>The Series B brings the AI-powered offensive security startup’s total funding to roughly $445 million only seven months after its public launch.</p>\n<p>The post <a href=\"https://www.securityweek.com/kevin-mandias-armadin-raises-255-million-at-2-5-billion-valuation/\">Kevin Mandia’s Armadin Raises $255 Million at $2.5 Billion Valuation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The Series B brings the AI-powered offensive security startup’s total funding to roughly $445 million only seven months after its public launch",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Treasury Blacklists Most-Wanted ATM Malware Developer and His Network",
-    "link": "https://www.securityweek.com/treasury-blacklists-most-wanted-atm-malware-developer-and-his-network/",
-    "published": "Thu, 01 Oct 2026 10:51:39 +0000",
-    "summary": "<p>The US government continues its crackdown on Tren de Aragua over its ATM jackpotting scheme.</p>\n<p>The post <a href=\"https://www.securityweek.com/treasury-blacklists-most-wanted-atm-malware-developer-and-his-network/\">Treasury Blacklists Most-Wanted ATM Malware Developer and His Network</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The US government continues its crackdown on Tren de Aragua over its ATM jackpotting scheme",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Zammad Zero-Days Exploited in AI-Powered DIVD Hack",
-    "link": "https://www.securityweek.com/zammad-zero-days-exploited-in-ai-powered-divd-hack/",
-    "published": "Thu, 01 Oct 2026 10:42:49 +0000",
-    "summary": "<p>The flaws were chained to hijack sessions, achieve remote code execution, and elevate privileges to root.</p>\n<p>The post <a href=\"https://www.securityweek.com/zammad-zero-days-exploited-in-ai-powered-divd-hack/\">Zammad Zero-Days Exploited in AI-Powered DIVD Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The flaws were chained to hijack sessions, achieve remote code execution, and elevate privileges to root",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-102489",
-        "CVE-2026-102490"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -1294,8 +1311,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1356,6 +1373,25 @@
       "cves": [],
       "threat_categories": [
         "APT"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Convincing Free Mobile phishing emails appear after data breach",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/10/revolut-phishing-texts-appear-days-after-data-breach-clone",
+    "published": "Thu, 01 Oct 2026 11:30:30 GMT",
+    "summary": "Free Mobile customers received very convincing phishing emails after major data breach.",
+    "analysis": {
+      "issue": "Free Mobile, one of France’s main cellular providers, was fined €27 million by France’s data protection regulator, the CNIL, in January over failures to protect customer data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Phishing"
       ]
     }
   },
@@ -1487,26 +1523,6 @@
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Fake iPhone Duo preorder scam triggers DarkSword attack",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/09/fake-iphone-duo-preorder-scam-triggers-darksword-attack",
-    "published": "Tue, 29 Sep 2026 09:56:49 GMT",
-    "summary": "A fake iPhone Duo preorder page promises a $500 voucher. Open it on a vulnerable iPhone, and it tries to break in before you fill out the form.",
-    "analysis": {
-      "issue": "Apple announced its first foldable iPhone on September 9, and scammers were ready to ‘deliver’ one before anyone could buy it",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability",
-        "APT"
       ]
     }
   },

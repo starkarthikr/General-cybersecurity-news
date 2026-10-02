@@ -1,10 +1,46 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-02 06:00:15 UTC
+**Last Updated:** 2026-10-02 14:54:25 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers](https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html)
+### 1. [OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling](https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 02 Oct 2026 17:53:15 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report](https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 02 Oct 2026 17:00:00 +0530  
+**Severity:** Critical  
+**Categories:** General Security  
+
+---
+
+### 3. [Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools](https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 02 Oct 2026 13:31:30 +0530  
+**Severity:** High  
+**Categories:** Malware  
+
+---
+
+### 4. [Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes](https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 02 Oct 2026 11:19:50 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 5. [Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers](https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 01 Oct 2026 22:25:57 +0530  
@@ -13,7 +49,7 @@
 
 ---
 
-### 2. [ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories](https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html)
+### 6. [ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories](https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 01 Oct 2026 22:15:38 +0530  
@@ -22,7 +58,7 @@
 
 ---
 
-### 3. [WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory](https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html)
+### 7. [WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory](https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 01 Oct 2026 20:07:35 +0530  
@@ -31,7 +67,7 @@
 
 ---
 
-### 4. [How Financial Services Companies Can Modernize Their Software Supply Chain](https://thehackernews.com/2026/10/how-financial-services-companies-can.html)
+### 8. [How Financial Services Companies Can Modernize Their Software Supply Chain](https://thehackernews.com/2026/10/how-financial-services-companies-can.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 01 Oct 2026 17:15:00 +0530  
@@ -40,7 +76,7 @@
 
 ---
 
-### 5. [OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates](https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html)
+### 9. [OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates](https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 01 Oct 2026 16:12:36 +0530  
@@ -49,7 +85,7 @@
 
 ---
 
-### 6. [CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV](https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html)
+### 10. [CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV](https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 01 Oct 2026 16:03:16 +0530  
@@ -58,44 +94,35 @@
 
 ---
 
-### 7. [Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version](https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html)
+### 11. [The EDR blind spot: 3 ways browser attacks evade endpoint telemetry](https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 01 Oct 2026 13:19:36 +0530  
-**Severity:** Critical  
-**Categories:** General Security  
+**Source:** Bleeping Computer  
+**Published:** Fri, 02 Oct 2026 10:00:10 -0400  
+**Severity:** High  
+**Categories:** Malware  
 
 ---
 
-### 8. [Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path](https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html)
+### 12. [Dell asks admins to patch max severity CSM flaws as soon as possible](https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 01 Oct 2026 11:24:41 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-86950  
+**Source:** Bleeping Computer  
+**Published:** Fri, 02 Oct 2026 08:37:40 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-54472, CVE-2026-67273, CVE-2026-63692, CVE-2026-63688, CVE-2026-67269, CVE-2026-61421  
 **Categories:** Vulnerability  
 
 ---
 
-### 9. [Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft](https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html)
+### 13. [Microsoft’s X account hacked in crypto pump-and-dump scheme](https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 01 Oct 2026 10:51:10 +0530  
-**Severity:** Critical  
-**Categories:** Vulnerability, Supply Chain  
-
----
-
-### 10. [MetaMask Security Incident Prompts Exit of Affected Ethereum Validators](https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 01 Oct 2026 10:40:09 +0530  
+**Source:** Bleeping Computer  
+**Published:** Fri, 02 Oct 2026 05:29:56 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 11. [Fortinet warns of critical FortiMail flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/)
+### 14. [Fortinet warns of critical FortiMail flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 01 Oct 2026 18:42:49 -0400  
@@ -105,7 +132,7 @@
 
 ---
 
-### 12. [Autonomous AI agents tried to hack US, Canadian government websites](https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/)
+### 15. [Autonomous AI agents tried to hack US, Canadian government websites](https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 01 Oct 2026 16:52:50 -0400  
@@ -114,7 +141,7 @@
 
 ---
 
-### 13. [Microsoft says threat actors are ahead in the early AI race](https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/)
+### 16. [Microsoft says threat actors are ahead in the early AI race](https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 01 Oct 2026 15:32:47 -0400  
@@ -123,7 +150,7 @@
 
 ---
 
-### 14. [Police dismantle KillSec ransomware gang allegedly led by 16-year-old](https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/)
+### 17. [Police dismantle KillSec ransomware gang allegedly led by 16-year-old](https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 01 Oct 2026 10:25:14 -0400  
@@ -132,7 +159,7 @@
 
 ---
 
-### 15. [The Day-One Hole in Zero Trust Architecture](https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/)
+### 18. [The Day-One Hole in Zero Trust Architecture](https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 01 Oct 2026 10:01:11 -0400  
@@ -141,7 +168,7 @@
 
 ---
 
-### 16. [Kiteworks patches max severity code injection vulnerability](https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/)
+### 19. [Kiteworks patches max severity code injection vulnerability](https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 01 Oct 2026 09:51:08 -0400  
@@ -151,39 +178,12 @@
 
 ---
 
-### 17. [Microsoft enables Windows settings backup by default for orgs](https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/)
+### 20. [Microsoft enables Windows settings backup by default for orgs](https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 01 Oct 2026 07:14:28 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 18. [Hackers stole Pentagon personnel records of over 3 million people](https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 01 Oct 2026 05:44:28 -0400  
-**Severity:** Low  
-**Categories:** Data Breach, Vulnerability  
-
----
-
-### 19. [Metamask discloses security incident affecting its infrastructure](https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 01 Oct 2026 03:33:57 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [Russian state hackers use new RedFlick technique to push malware](https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 30 Sep 2026 16:34:01 -0400  
-**Severity:** Low  
-**Categories:** Malware, Phishing  
 
 ---
 
@@ -219,7 +219,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69730, CVE-2026-69829, CVE-2026-81963, CVE-2026-85880  
+**CVEs:** CVE-2026-69730, CVE-2026-81963, CVE-2026-69829, CVE-2026-85880  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -279,7 +279,72 @@
 
 ---
 
-### 31. [Zero Trust Creator Says Model Holds Firm Against AI-Assisted Attacks](https://www.securityweek.com/zero-trust-creator-says-model-holds-firm-against-ai-assisted-attacks/)
+### 31. [In Other News: $15K iCloud Spoofing Bugs, AI Policy Experts Phished, Adblocker Spies on AI Chats](https://www.securityweek.com/in-other-news-15k-icloud-spoofing-bugs-ai-policy-experts-phished-adblocker-spies-on-ai-chats/)
+
+**Source:** Security Week  
+**Published:** Fri, 02 Oct 2026 14:30:00 +0000  
+**Severity:** Critical  
+**Categories:** Ransomware, Vulnerability, Malware, Phishing, APT  
+
+---
+
+### 32. [macOS Users Targeted by Fake Zoom Installer Carrying CloudSyncD Backdoor](https://www.securityweek.com/macos-users-targeted-by-fake-zoom-installer-carrying-cloudsyncd-backdoor/)
+
+**Source:** Security Week  
+**Published:** Fri, 02 Oct 2026 13:15:00 +0000  
+**Severity:** Low  
+**Categories:** Vulnerability, Malware, APT  
+
+---
+
+### 33. [Crypto Scammers Hijack Microsoft’s Official X Account](https://www.securityweek.com/crypto-scammers-hijack-microsofts-official-x-account/)
+
+**Source:** Security Week  
+**Published:** Fri, 02 Oct 2026 11:46:10 +0000  
+**Severity:** Low  
+**Categories:** Malware, Phishing, Supply Chain  
+
+---
+
+### 34. [In Rare Move, Alleged Iranian State Hacker Extradited to US](https://www.securityweek.com/in-rare-move-iranian-hacker-accused-of-working-for-irgc-extradited-to-us/)
+
+**Source:** Security Week  
+**Published:** Fri, 02 Oct 2026 11:14:34 +0000  
+**Severity:** Low  
+**Categories:** Ransomware, Malware  
+
+---
+
+### 35. [Warlock Expands SharePoint Exploitation in Critical Infrastructure Attacks](https://www.securityweek.com/warlock-expands-sharepoint-exploitation-in-critical-infrastructure-attacks/)
+
+**Source:** Security Week  
+**Published:** Fri, 02 Oct 2026 09:34:41 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-32201, CVE-2026-58644, CVE-2026-45659, CVE-2026-50522, CVE-2026-55040, CVE-2026-56164  
+**Categories:** Ransomware, Vulnerability, Malware, APT  
+
+---
+
+### 36. [AI Agents Aimed SQL Injection at US and Canadian Government Sites](https://www.securityweek.com/ai-agents-aimed-sql-injection-at-us-and-canadian-government-sites/)
+
+**Source:** Security Week  
+**Published:** Fri, 02 Oct 2026 08:38:46 +0000  
+**Severity:** Low  
+**Categories:** APT  
+
+---
+
+### 37. [Exploited Fortinet FortiMail Zero-Day Calls for Urgent Action](https://www.securityweek.com/exploited-fortinet-fortimail-zero-day-calls-for-urgent-action/)
+
+**Source:** Security Week  
+**Published:** Fri, 02 Oct 2026 08:07:33 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-104286  
+**Categories:** Vulnerability  
+
+---
+
+### 38. [Zero Trust Creator Says Model Holds Firm Against AI-Assisted Attacks](https://www.securityweek.com/zero-trust-creator-says-model-holds-firm-against-ai-assisted-attacks/)
 
 **Source:** Security Week  
 **Published:** Thu, 01 Oct 2026 18:00:00 +0000  
@@ -288,7 +353,7 @@
 
 ---
 
-### 32. [Osavul Lands $10 Million to Spot Hostile Intent Across Cyber, Physical Domains](https://www.securityweek.com/osavul-lands-10-million-to-spot-hostile-intent-across-cyber-physical-domains/)
+### 39. [Osavul Lands $10 Million to Spot Hostile Intent Across Cyber, Physical Domains](https://www.securityweek.com/osavul-lands-10-million-to-spot-hostile-intent-across-cyber-physical-domains/)
 
 **Source:** Security Week  
 **Published:** Thu, 01 Oct 2026 17:16:41 +0000  
@@ -297,77 +362,12 @@
 
 ---
 
-### 33. [Hacker Conversations: Rob Juncker, a Knock at the Door and a Moral Compass](https://www.securityweek.com/hacker-conversations-rob-juncker-a-knock-at-the-door-and-a-moral-compass/)
+### 40. [Hacker Conversations: Rob Juncker, a Knock at the Door and a Moral Compass](https://www.securityweek.com/hacker-conversations-rob-juncker-a-knock-at-the-door-and-a-moral-compass/)
 
 **Source:** Security Week  
 **Published:** Thu, 01 Oct 2026 14:30:00 +0000  
 **Severity:** High  
 **Categories:** General Security  
-
----
-
-### 34. [Enterprises Struggle to Prepare for AI and Quantum Threats, PwC Says](https://www.securityweek.com/enterprises-struggle-to-prepare-for-ai-and-quantum-threats-pwc-says/)
-
-**Source:** Security Week  
-**Published:** Thu, 01 Oct 2026 14:30:00 +0000  
-**Severity:** Critical  
-**Categories:** Malware  
-
----
-
-### 35. [Police Shut Down KillSec Ransomware, Identify Alleged Teen Leader](https://www.securityweek.com/police-shut-down-killsec-ransomware-identify-alleged-teen-leader/)
-
-**Source:** Security Week  
-**Published:** Thu, 01 Oct 2026 14:17:07 +0000  
-**Severity:** Low  
-**Categories:** Ransomware, Malware  
-
----
-
-### 36. [AI Has Changed Attack Speed, Not Security Fundamentals](https://www.securityweek.com/ai-has-changed-attack-speed-not-security-fundamentals/)
-
-**Source:** Security Week  
-**Published:** Thu, 01 Oct 2026 13:15:00 +0000  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 37. [Zimbra Vulnerability Exploited in the Wild Prior to Public Disclosure](https://www.securityweek.com/zimbra-vulnerability-exploited-in-the-wild-prior-to-public-disclosure/)
-
-**Source:** Security Week  
-**Published:** Thu, 01 Oct 2026 12:55:57 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-73570  
-**Categories:** Vulnerability  
-
----
-
-### 38. [Kevin Mandia’s Armadin Raises $255 Million at $2.5 Billion Valuation](https://www.securityweek.com/kevin-mandias-armadin-raises-255-million-at-2-5-billion-valuation/)
-
-**Source:** Security Week  
-**Published:** Thu, 01 Oct 2026 11:40:51 +0000  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 39. [Treasury Blacklists Most-Wanted ATM Malware Developer and His Network](https://www.securityweek.com/treasury-blacklists-most-wanted-atm-malware-developer-and-his-network/)
-
-**Source:** Security Week  
-**Published:** Thu, 01 Oct 2026 10:51:39 +0000  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 40. [Zammad Zero-Days Exploited in AI-Powered DIVD Hack](https://www.securityweek.com/zammad-zero-days-exploited-in-ai-powered-divd-hack/)
-
-**Source:** Security Week  
-**Published:** Thu, 01 Oct 2026 10:42:49 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-102489, CVE-2026-102490  
-**Categories:** Vulnerability  
 
 ---
 
@@ -631,7 +631,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -664,7 +664,16 @@
 
 ---
 
-### 73. [Malwarebytes earns another Top Product award in independent testing](https://www.malwarebytes.com/blog/product/2026/10/malwarebytes-earns-another-top-product-award-in-independent-testing)
+### 73. [Convincing Free Mobile phishing emails appear after data breach](https://www.malwarebytes.com/blog/threat-intel/2026/10/revolut-phishing-texts-appear-days-after-data-breach-clone)
+
+**Source:** Malwarebytes  
+**Published:** Thu, 01 Oct 2026 11:30:30 GMT  
+**Severity:** Low  
+**Categories:** Data Breach, Phishing  
+
+---
+
+### 74. [Malwarebytes earns another Top Product award in independent testing](https://www.malwarebytes.com/blog/product/2026/10/malwarebytes-earns-another-top-product-award-in-independent-testing)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 01 Oct 2026 10:51:52 GMT  
@@ -673,7 +682,7 @@
 
 ---
 
-### 74. [Pentagon breach exposes Social Security numbers and military records of millions](https://www.malwarebytes.com/blog/privacy/2026/10/pentagon-breach-exposes-social-security-numbers-and-military-records-of-millions)
+### 75. [Pentagon breach exposes Social Security numbers and military records of millions](https://www.malwarebytes.com/blog/privacy/2026/10/pentagon-breach-exposes-social-security-numbers-and-military-records-of-millions)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 01 Oct 2026 10:48:58 GMT  
@@ -682,7 +691,7 @@
 
 ---
 
-### 75. [Losing gamblers pushed to bet more by DraftKings’ AI, report says](https://www.malwarebytes.com/blog/ai/2026/10/losing-gamblers-pushed-to-bet-more-by-draftkings-ai-report-says)
+### 76. [Losing gamblers pushed to bet more by DraftKings’ AI, report says](https://www.malwarebytes.com/blog/ai/2026/10/losing-gamblers-pushed-to-bet-more-by-draftkings-ai-report-says)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 01 Oct 2026 08:53:06 GMT  
@@ -691,7 +700,7 @@
 
 ---
 
-### 76. [Hackers steal protective order and foster care records from Arizona courts](https://www.malwarebytes.com/blog/data-breaches/2026/09/hackers-steal-protective-order-and-foster-care-records-from-arizona-courts)
+### 77. [Hackers steal protective order and foster care records from Arizona courts](https://www.malwarebytes.com/blog/data-breaches/2026/09/hackers-steal-protective-order-and-foster-care-records-from-arizona-courts)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 30 Sep 2026 15:29:42 GMT  
@@ -700,7 +709,7 @@
 
 ---
 
-### 77. [Your car’s app could be telling Big Tech who you are and where you go](https://www.malwarebytes.com/blog/news/2026/09/your-cars-app-could-be-telling-big-tech-who-you-are-and-where-you-go)
+### 78. [Your car’s app could be telling Big Tech who you are and where you go](https://www.malwarebytes.com/blog/news/2026/09/your-cars-app-could-be-telling-big-tech-who-you-are-and-where-you-go)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 30 Sep 2026 11:28:06 GMT  
@@ -709,7 +718,7 @@
 
 ---
 
-### 78. [Meta’s Muse sent a Facebook Marketplace buyer to a seller’s home](https://www.malwarebytes.com/blog/news/2026/09/metas-muse-sent-a-facebook-marketplace-buyer-to-a-sellers-home)
+### 79. [Meta’s Muse sent a Facebook Marketplace buyer to a seller’s home](https://www.malwarebytes.com/blog/news/2026/09/metas-muse-sent-a-facebook-marketplace-buyer-to-a-sellers-home)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 29 Sep 2026 12:51:22 GMT  
@@ -718,22 +727,13 @@
 
 ---
 
-### 79. [Update your iPhone, iPad, or Mac: Flaw could run attackers’ code](https://www.malwarebytes.com/blog/bugs/2026/09/update-your-iphone-ipad-or-mac-flaw-could-run-attackers-code)
+### 80. [Update your iPhone, iPad, or Mac: Flaw could run attackers’ code](https://www.malwarebytes.com/blog/bugs/2026/09/update-your-iphone-ipad-or-mac-flaw-could-run-attackers-code)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 29 Sep 2026 10:35:16 GMT  
 **Severity:** High  
 **CVEs:** CVE-2026-86950  
 **Categories:** Vulnerability  
-
----
-
-### 80. [Fake iPhone Duo preorder scam triggers DarkSword attack](https://www.malwarebytes.com/blog/threat-intel/2026/09/fake-iphone-duo-preorder-scam-triggers-darksword-attack)
-
-**Source:** Malwarebytes  
-**Published:** Tue, 29 Sep 2026 09:56:49 GMT  
-**Severity:** Low  
-**Categories:** Data Breach, Vulnerability, APT  
 
 ---
 
