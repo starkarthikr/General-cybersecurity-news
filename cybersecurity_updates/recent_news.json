@@ -185,6 +185,50 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Frontline Education breach exposes school district employee data",
+    "link": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
+    "published": "Fri, 02 Oct 2026 15:01:40 -0400",
+    "summary": "Frontline Education is notifying school districts of a data breach after attackers exploited a vulnerability in third-party software to gain unauthorized access to its systems and steal employee information, including Social Security numbers. [...]",
+    "analysis": {
+      "issue": "Frontline Education is notifying school districts of a data breach after attackers exploited a vulnerability in third-party software to gain unauthorized access to its systems and steal employee information, including Social Security numbers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Warlock ransomware breach SharePoint in water, telecom operator attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/",
+    "published": "Fri, 02 Oct 2026 14:33:01 -0400",
+    "summary": "The China-linked ransomware group Warlock targeted a water utility, a telecom provider, a regional government body, and a university by exploiting SharePoint vulnerabilities to gain initial access. [...]",
+    "analysis": {
+      "issue": "The China-linked ransomware group Warlock targeted a water utility, a telecom provider, a regional government body, and a university by exploiting SharePoint vulnerabilities to gain initial access",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2025-49706",
+        "CVE-2025-53770",
+        "CVE-2025-49704",
+        "CVE-2025-53771"
+      ],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "GitLab warns of critical RCE vulnerability in AI Gateway service",
     "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/",
     "published": "Fri, 02 Oct 2026 12:20:05 -0400",
@@ -252,12 +296,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-67269",
-        "CVE-2026-67273",
         "CVE-2026-54472",
+        "CVE-2026-67273",
         "CVE-2026-63688",
-        "CVE-2026-63692",
-        "CVE-2026-61421"
+        "CVE-2026-67269",
+        "CVE-2026-61421",
+        "CVE-2026-63692"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -340,42 +384,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
-    "link": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
-    "published": "Thu, 01 Oct 2026 10:25:14 -0400",
-    "summary": "An international law enforcement operation dubbed \"Operation KillSwitch\" seized the KillSec ransomware gang's data leak site and servers, led to three arrests, and identified a 16-year-old as the group's alleged administrator. [...]",
-    "analysis": {
-      "issue": "An international law enforcement operation dubbed “Operation KillSwitch” seized the KillSec ransomware gang’s data leak site and servers, led to three arrests, and identified a 16-year-old as the group’s alleged administrator",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "The Day-One Hole in Zero Trust Architecture",
-    "link": "https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/",
-    "published": "Thu, 01 Oct 2026 10:01:11 -0400",
-    "summary": "Zero Trust can verify users once they are established, but onboarding creates a gap where organizations must decide who to trust before strong authentication exists. Specops explains why identity verification should begin before credentials, MFA methods, and access are issued. [...]",
-    "analysis": {
-      "issue": "Zero Trust principles are now commonplace in enterprise infrastructure; organizations have spent years investing in measures that secure identities and systems against sophisticated attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
     "link": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
@@ -445,10 +453,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69730",
-        "CVE-2026-69829",
+        "CVE-2026-85880",
         "CVE-2026-81963",
-        "CVE-2026-85880"
+        "CVE-2026-69730",
+        "CVE-2026-69829"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -526,8 +534,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-68820",
-        "CVE-2026-62832",
-        "CVE-2026-72971"
+        "CVE-2026-72971",
+        "CVE-2026-62832"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -667,12 +675,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-32201",
         "CVE-2026-45659",
         "CVE-2026-56164",
-        "CVE-2026-58644",
+        "CVE-2026-50522",
         "CVE-2026-55040",
-        "CVE-2026-50522"
+        "CVE-2026-32201",
+        "CVE-2026-58644"
       ],
       "threat_categories": [
         "Ransomware",
@@ -1313,8 +1321,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
