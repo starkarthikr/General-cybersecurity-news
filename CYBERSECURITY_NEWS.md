@@ -1,10 +1,38 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-02 14:54:25 UTC
+**Last Updated:** 2026-10-02 17:43:11 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling](https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html)
+### 1. [GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers](https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 02 Oct 2026 23:03:31 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-90970  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign](https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 02 Oct 2026 23:03:16 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 3. [Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes](https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 02 Oct 2026 22:32:12 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 4. [OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling](https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 02 Oct 2026 17:53:15 +0530  
@@ -13,7 +41,7 @@
 
 ---
 
-### 2. [Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report](https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html)
+### 5. [Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report](https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 02 Oct 2026 17:00:00 +0530  
@@ -22,7 +50,7 @@
 
 ---
 
-### 3. [Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools](https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html)
+### 6. [Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools](https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 02 Oct 2026 13:31:30 +0530  
@@ -31,7 +59,7 @@
 
 ---
 
-### 4. [Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes](https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html)
+### 7. [Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes](https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 02 Oct 2026 11:19:50 +0530  
@@ -40,7 +68,7 @@
 
 ---
 
-### 5. [Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers](https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html)
+### 8. [Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers](https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 01 Oct 2026 22:25:57 +0530  
@@ -49,7 +77,7 @@
 
 ---
 
-### 6. [ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories](https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html)
+### 9. [ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories](https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 01 Oct 2026 22:15:38 +0530  
@@ -58,7 +86,7 @@
 
 ---
 
-### 7. [WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory](https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html)
+### 10. [WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory](https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 01 Oct 2026 20:07:35 +0530  
@@ -67,34 +95,26 @@
 
 ---
 
-### 8. [How Financial Services Companies Can Modernize Their Software Supply Chain](https://thehackernews.com/2026/10/how-financial-services-companies-can.html)
+### 11. [GitLab warns of critical RCE vulnerability in AI Gateway service](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 01 Oct 2026 17:15:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Fri, 02 Oct 2026 12:20:05 -0400  
 **Severity:** Critical  
-**Categories:** Supply Chain  
-
----
-
-### 9. [OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates](https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 01 Oct 2026 16:12:36 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV](https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 01 Oct 2026 16:03:16 +0530  
-**Severity:** Low  
+**CVEs:** CVE-2026-90970  
 **Categories:** Vulnerability  
 
 ---
 
-### 11. [The EDR blind spot: 3 ways browser attacks evade endpoint telemetry](https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/)
+### 12. [US sanctions Tren de Aragua gang members in ATM hacks crackdown](https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 02 Oct 2026 11:20:53 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 13. [The EDR blind spot: 3 ways browser attacks evade endpoint telemetry](https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 02 Oct 2026 10:00:10 -0400  
@@ -103,17 +123,17 @@
 
 ---
 
-### 12. [Dell asks admins to patch max severity CSM flaws as soon as possible](https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/)
+### 14. [Dell asks admins to patch max severity CSM flaws as soon as possible](https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 02 Oct 2026 08:37:40 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-54472, CVE-2026-67273, CVE-2026-63692, CVE-2026-63688, CVE-2026-67269, CVE-2026-61421  
+**CVEs:** CVE-2026-67269, CVE-2026-67273, CVE-2026-54472, CVE-2026-63688, CVE-2026-63692, CVE-2026-61421  
 **Categories:** Vulnerability  
 
 ---
 
-### 13. [Microsoft’s X account hacked in crypto pump-and-dump scheme](https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/)
+### 15. [Microsoft’s X account hacked in crypto pump-and-dump scheme](https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 02 Oct 2026 05:29:56 -0400  
@@ -122,7 +142,7 @@
 
 ---
 
-### 14. [Fortinet warns of critical FortiMail flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/)
+### 16. [Fortinet warns of critical FortiMail flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 01 Oct 2026 18:42:49 -0400  
@@ -132,7 +152,7 @@
 
 ---
 
-### 15. [Autonomous AI agents tried to hack US, Canadian government websites](https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/)
+### 17. [Autonomous AI agents tried to hack US, Canadian government websites](https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 01 Oct 2026 16:52:50 -0400  
@@ -141,7 +161,7 @@
 
 ---
 
-### 16. [Microsoft says threat actors are ahead in the early AI race](https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/)
+### 18. [Microsoft says threat actors are ahead in the early AI race](https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 01 Oct 2026 15:32:47 -0400  
@@ -150,7 +170,7 @@
 
 ---
 
-### 17. [Police dismantle KillSec ransomware gang allegedly led by 16-year-old](https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/)
+### 19. [Police dismantle KillSec ransomware gang allegedly led by 16-year-old](https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 01 Oct 2026 10:25:14 -0400  
@@ -159,31 +179,12 @@
 
 ---
 
-### 18. [The Day-One Hole in Zero Trust Architecture](https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/)
+### 20. [The Day-One Hole in Zero Trust Architecture](https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 01 Oct 2026 10:01:11 -0400  
 **Severity:** High  
 **Categories:** Vulnerability  
-
----
-
-### 19. [Kiteworks patches max severity code injection vulnerability](https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 01 Oct 2026 09:51:08 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-54154  
-**Categories:** Vulnerability  
-
----
-
-### 20. [Microsoft enables Windows settings backup by default for orgs](https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 01 Oct 2026 07:14:28 -0400  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -219,7 +220,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69730, CVE-2026-81963, CVE-2026-69829, CVE-2026-85880  
+**CVEs:** CVE-2026-69730, CVE-2026-69829, CVE-2026-81963, CVE-2026-85880  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -256,7 +257,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-68820, CVE-2026-72971, CVE-2026-62832  
+**CVEs:** CVE-2026-68820, CVE-2026-62832, CVE-2026-72971  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -320,7 +321,7 @@
 **Source:** Security Week  
 **Published:** Fri, 02 Oct 2026 09:34:41 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32201, CVE-2026-58644, CVE-2026-45659, CVE-2026-50522, CVE-2026-55040, CVE-2026-56164  
+**CVEs:** CVE-2026-32201, CVE-2026-45659, CVE-2026-56164, CVE-2026-58644, CVE-2026-55040, CVE-2026-50522  
 **Categories:** Ransomware, Vulnerability, Malware, APT  
 
 ---
@@ -664,7 +665,7 @@
 
 ---
 
-### 73. [Convincing Free Mobile phishing emails appear after data breach](https://www.malwarebytes.com/blog/threat-intel/2026/10/revolut-phishing-texts-appear-days-after-data-breach-clone)
+### 73. [Convincing Free Mobile phishing emails appear after data breach](https://www.malwarebytes.com/blog/threat-intel/2026/10/free-mobile-phishing-texts-appear-days-after-data-breach)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 01 Oct 2026 11:30:30 GMT  

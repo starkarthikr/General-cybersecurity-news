@@ -1,6 +1,62 @@
 [
   {
     "source": "The Hacker News",
+    "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
+    "link": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
+    "published": "Fri, 02 Oct 2026 23:03:31 +0530",
+    "summary": "A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab&nbsp;said in an advisory.\n\nThe gateway is the service that connects a GitLab instance to AI models, and only organizations that host their own gateway need to act. The flaw is fixed in gateway versions 19.2.4, 19.3.2, and 19.4.1.\n\nThe flaw",
+    "analysis": {
+      "issue": "GitLab fixed CVE-2026-90970, a 9",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-90970"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign",
+    "link": "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html",
+    "published": "Fri, 02 Oct 2026 23:03:16 +0530",
+    "summary": "Government and policy organizations across Asia have become the target of a new campaign orchestrated by a China-nexus threat actor.\n\nThe activity, which has targeted government and policy organizations in Taiwan, India, the Philippines, Cambodia, Pakistan, Thailand, and Myanmar, involves the deployment of a previously undocumented backdoor codenamed Antino. Cisco Talos is tracking the cluster",
+    "analysis": {
+      "issue": "China-nexus UAT-11587 targets Asian government and policy groups with Antino, a Rust backdoor that uses Microsoft 365 for C2",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes",
+    "link": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html",
+    "published": "Fri, 02 Oct 2026 22:32:12 +0530",
+    "summary": "Dell has released security updates to address multiple critical security flaws in Dell Container Storage Modules (CSM) that could be exploited by bad actors to take over susceptible systems.\n\nThe vulnerabilities are listed below -\n\n\n  CVE-2026-63688 (CVSS score: 10.0) - A missing authentication for critical function vulnerability in the csm-authorization-storage gRPC server that an",
+    "analysis": {
+      "issue": "Dell fixes six CSM flaws enabling authentication bypass, storage credential access, and cluster-wide privilege escalation",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling",
     "link": "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html",
     "published": "Fri, 02 Oct 2026 17:53:15 +0530",
@@ -128,56 +184,40 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "How Financial Services Companies Can Modernize Their Software Supply Chain",
-    "link": "https://thehackernews.com/2026/10/how-financial-services-companies-can.html",
-    "published": "Thu, 01 Oct 2026 17:15:00 +0530",
-    "summary": "Every security leader at a bank, insurer, or asset manager has had a version of this conversation: Security wants to eliminate a class of vulnerabilities. Engineering explains what it would take to upgrade the platform where they live. Somebody prices out the regression testing. Somebody else raises the change-freeze calendar. The finding gets an exception, a compensating control, and a date",
+    "source": "Bleeping Computer",
+    "title": "GitLab warns of critical RCE vulnerability in AI Gateway service",
+    "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/",
+    "published": "Fri, 02 Oct 2026 12:20:05 -0400",
+    "summary": "GitLab warned customers today to immediately patch a critical AI Gateway vulnerability that could let attackers run arbitrary commands on vulnerable instances. [...]",
     "analysis": {
-      "issue": "How financial institutions can improve software supply chain security without impacting their business-critical systems",
+      "issue": "GitLab warned customers today to immediately patch a critical AI Gateway vulnerability that could let attackers run arbitrary commands on vulnerable instances",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates",
-    "link": "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html",
-    "published": "Thu, 01 Oct 2026 16:12:36 +0530",
-    "summary": "OpenAI on Wednesday said it identified and disrupted a coordinated distillation campaign that was designed to illicitly extract protected reasoning from its artificial intelligence (AI) models.\n\nA \"core cluster of the activity,\" going back to the first week of July, has been attributed to individuals associated with Moonshot AI, a Chinese AI company based in Beijing. It did not cite any",
-    "analysis": {
-      "issue": "OpenAI disrupted a coordinated campaign attributed to Moonshot AI associates that sought to extract protected reasoning at scale",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV",
-    "link": "https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html",
-    "published": "Thu, 01 Oct 2026 16:03:16 +0530",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical authentication bypass flaw impacting Cisco Catalyst SD-WAN Manager to its Known Exploited Vulnerabilities (KEV), following reports of active exploitation.\n\nThe vulnerability, tracked as CVE-2026-76504 (CVSS score: 9.8), could allow an unauthenticated, remote attacker to access an affected system with",
-    "analysis": {
-      "issue": "Cisco confirms active exploitation of a Catalyst SD-WAN Manager authentication bypass that can grant unauthenticated attackers admin API access",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
+      "cves": [
+        "CVE-2026-90970"
+      ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "US sanctions Tren de Aragua gang members in ATM hacks crackdown",
+    "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/",
+    "published": "Fri, 02 Oct 2026 11:20:53 -0400",
+    "summary": "The U.S. Treasury Department has sanctioned eight members of the Venezuelan gang Tren de Aragua (TdA) for their role in the theft of millions of dollars in ATM jackpotting attacks across the United States. [...]",
+    "analysis": {
+      "issue": "Treasury Department has sanctioned eight members of the Venezuelan gang Tren de Aragua (TdA) for their role in the theft of millions of dollars in ATM jackpotting attacks across the United States",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
       ]
     }
   },
@@ -212,11 +252,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-54472",
-        "CVE-2026-67273",
-        "CVE-2026-63692",
-        "CVE-2026-63688",
         "CVE-2026-67269",
+        "CVE-2026-67273",
+        "CVE-2026-54472",
+        "CVE-2026-63688",
+        "CVE-2026-63692",
         "CVE-2026-61421"
       ],
       "threat_categories": [
@@ -336,44 +376,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Kiteworks patches max severity code injection vulnerability",
-    "link": "https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/",
-    "published": "Thu, 01 Oct 2026 09:51:08 -0400",
-    "summary": "Secure file-sharing software company Kiteworks has released security updates to address 126 vulnerabilities, including a max-severity flaw affecting its Email Protection Gateway (EPG) security solution. [...]",
-    "analysis": {
-      "issue": "Secure file-sharing software company Kiteworks has released security updates to address 126 vulnerabilities, including a max-severity flaw affecting its Email Protection Gateway (EPG) security solution",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-54154"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft enables Windows settings backup by default for orgs",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/",
-    "published": "Thu, 01 Oct 2026 07:14:28 -0400",
-    "summary": "Microsoft announced that Windows settings backup and restore is now enabled by default on all Microsoft Entra-joined or Microsoft Entra hybrid-joined enterprise systems upgraded to Windows 11 26H2. [...]",
-    "analysis": {
-      "issue": "Microsoft announced that Windows settings backup and restore is now enabled by default on all Microsoft Entra-joined or Microsoft Entra hybrid-joined enterprise systems upgraded to Windows 11 26H2",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
     "link": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
@@ -444,8 +446,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-69730",
-        "CVE-2026-81963",
         "CVE-2026-69829",
+        "CVE-2026-81963",
         "CVE-2026-85880"
       ],
       "threat_categories": [
@@ -524,8 +526,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-68820",
-        "CVE-2026-72971",
-        "CVE-2026-62832"
+        "CVE-2026-62832",
+        "CVE-2026-72971"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -666,11 +668,11 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-32201",
-        "CVE-2026-58644",
         "CVE-2026-45659",
-        "CVE-2026-50522",
+        "CVE-2026-56164",
+        "CVE-2026-58644",
         "CVE-2026-55040",
-        "CVE-2026-56164"
+        "CVE-2026-50522"
       ],
       "threat_categories": [
         "Ransomware",
@@ -1379,7 +1381,7 @@
   {
     "source": "Malwarebytes",
     "title": "Convincing Free Mobile phishing emails appear after data breach",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/10/revolut-phishing-texts-appear-days-after-data-breach-clone",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/10/free-mobile-phishing-texts-appear-days-after-data-breach",
     "published": "Thu, 01 Oct 2026 11:30:30 GMT",
     "summary": "Free Mobile customers received very convincing phishing emails after major data breach.",
     "analysis": {
