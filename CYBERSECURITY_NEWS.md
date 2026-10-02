@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-01 21:12:19 UTC
+**Last Updated:** 2026-10-02 05:02:19 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,17 @@
 
 ---
 
-### 11. [Autonomous AI agents tried to hack US, Canadian government websites](https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/)
+### 11. [Fortinet warns of critical FortiMail flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 01 Oct 2026 18:42:49 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-104286  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [Autonomous AI agents tried to hack US, Canadian government websites](https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 01 Oct 2026 16:52:50 -0400  
@@ -104,7 +114,7 @@
 
 ---
 
-### 12. [Microsoft says threat actors are ahead in the early AI race](https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/)
+### 13. [Microsoft says threat actors are ahead in the early AI race](https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 01 Oct 2026 15:32:47 -0400  
@@ -113,7 +123,7 @@
 
 ---
 
-### 13. [Police dismantle KillSec ransomware gang allegedly led by 16-year-old](https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/)
+### 14. [Police dismantle KillSec ransomware gang allegedly led by 16-year-old](https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 01 Oct 2026 10:25:14 -0400  
@@ -122,7 +132,7 @@
 
 ---
 
-### 14. [The Day-One Hole in Zero Trust Architecture](https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/)
+### 15. [The Day-One Hole in Zero Trust Architecture](https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 01 Oct 2026 10:01:11 -0400  
@@ -131,7 +141,7 @@
 
 ---
 
-### 15. [Kiteworks patches max severity code injection vulnerability](https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/)
+### 16. [Kiteworks patches max severity code injection vulnerability](https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 01 Oct 2026 09:51:08 -0400  
@@ -141,7 +151,7 @@
 
 ---
 
-### 16. [Microsoft enables Windows settings backup by default for orgs](https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/)
+### 17. [Microsoft enables Windows settings backup by default for orgs](https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 01 Oct 2026 07:14:28 -0400  
@@ -150,7 +160,7 @@
 
 ---
 
-### 17. [Hackers stole Pentagon personnel records of over 3 million people](https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/)
+### 18. [Hackers stole Pentagon personnel records of over 3 million people](https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 01 Oct 2026 05:44:28 -0400  
@@ -159,7 +169,7 @@
 
 ---
 
-### 18. [Metamask discloses security incident affecting its infrastructure](https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/)
+### 19. [Metamask discloses security incident affecting its infrastructure](https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 01 Oct 2026 03:33:57 -0400  
@@ -168,22 +178,12 @@
 
 ---
 
-### 19. [Russian state hackers use new RedFlick technique to push malware](https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/)
+### 20. [Russian state hackers use new RedFlick technique to push malware](https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 30 Sep 2026 16:34:01 -0400  
 **Severity:** Low  
 **Categories:** Malware, Phishing  
-
----
-
-### 20. [DIVD says Zammad zero-days enabled AI-driven network breach](https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 30 Sep 2026 15:49:15 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-102490, CVE-2026-102489  
-**Categories:** Vulnerability  
 
 ---
 
@@ -219,7 +219,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69829, CVE-2026-85880, CVE-2026-81963, CVE-2026-69730  
+**CVEs:** CVE-2026-85880, CVE-2026-81963, CVE-2026-69829, CVE-2026-69730  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -256,7 +256,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-72971, CVE-2026-68820, CVE-2026-62832  
+**CVEs:** CVE-2026-72971, CVE-2026-62832, CVE-2026-68820  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -366,7 +366,7 @@
 **Source:** Security Week  
 **Published:** Thu, 01 Oct 2026 10:42:49 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-102490, CVE-2026-102489  
+**CVEs:** CVE-2026-102489, CVE-2026-102490  
 **Categories:** Vulnerability  
 
 ---
@@ -737,7 +737,16 @@
 
 ---
 
-### 81. [Copy, Paste, Compromised: How ClickFix Attacks Work and How CrowdStrike Stops Them](https://www.crowdstrike.com/en-us/blog/how-clickfix-attacks-work-and-how-to-stop-them/)
+### 81. [CrowdStrike Expands Federal SOC Modernization Through CISA-Funded SIEMaaS](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-federal-soc-modernization-via-cisa-siemaas/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Oct 01, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 82. [Copy, Paste, Compromised: How ClickFix Attacks Work and How CrowdStrike Stops Them](https://www.crowdstrike.com/en-us/blog/how-clickfix-attacks-work-and-how-to-stop-them/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 29, 2026 00:00:00-0500  
@@ -746,7 +755,7 @@
 
 ---
 
-### 82. [A Win for Defenders: CrowdStrike and NVIDIA Extend Security Across the AI Stack](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-extend-security-across-ai-stack/)
+### 83. [A Win for Defenders: CrowdStrike and NVIDIA Extend Security Across the AI Stack](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-extend-security-across-ai-stack/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 28, 2026 00:00:00-0400  
@@ -755,7 +764,7 @@
 
 ---
 
-### 83. [CrowdStrike Named a Leader in The Forrester Wave&trade;: Proactive Security Platforms, Q3 2026](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-proactive-security-platforms-q3-2026/)
+### 84. [CrowdStrike Named a Leader in The Forrester Wave&trade;: Proactive Security Platforms, Q3 2026](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-proactive-security-platforms-q3-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 24, 2026 00:00:00-0500  
@@ -764,7 +773,7 @@
 
 ---
 
-### 84. [CrowdStrike Named a Leader in The Forrester Wave&trade;: External Threat Intelligence Service Providers, Q3 2026](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-external-threat-intelligence-q3-2026/)
+### 85. [CrowdStrike Named a Leader in The Forrester Wave&trade;: External Threat Intelligence Service Providers, Q3 2026](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-external-threat-intelligence-q3-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 17, 2026 00:00:00-0500  
@@ -773,7 +782,7 @@
 
 ---
 
-### 85. [CrowdStrike SafeMind: When the Best Offense Builds the Best Defense](https://www.crowdstrike.com/en-us/blog/crowdstrike-safemind-best-offense-builds-best-defense/)
+### 86. [CrowdStrike SafeMind: When the Best Offense Builds the Best Defense](https://www.crowdstrike.com/en-us/blog/crowdstrike-safemind-best-offense-builds-best-defense/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 17, 2026 00:00:00-0500  
@@ -782,7 +791,7 @@
 
 ---
 
-### 86. [CrowdStrike Accelerates Real-Time Data Classification with On-Device AI](https://www.crowdstrike.com/en-us/blog/crowdstrike-accelerates-real-time-data-classification-with-on-device-ai/)
+### 87. [CrowdStrike Accelerates Real-Time Data Classification with On-Device AI](https://www.crowdstrike.com/en-us/blog/crowdstrike-accelerates-real-time-data-classification-with-on-device-ai/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 16, 2026 00:00:00-0500  
@@ -791,7 +800,7 @@
 
 ---
 
-### 87. [PhantomRaven: An LLM-Generated Information Stealer Developed for Bug Bounty Hunting](https://www.crowdstrike.com/en-us/blog/phantomraven-llm-generated-information-stealer-for-bug-bounty-hunting/)
+### 88. [PhantomRaven: An LLM-Generated Information Stealer Developed for Bug Bounty Hunting](https://www.crowdstrike.com/en-us/blog/phantomraven-llm-generated-information-stealer-for-bug-bounty-hunting/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 15, 2026 00:00:00-0500  
@@ -800,7 +809,7 @@
 
 ---
 
-### 88. [September 2026 Patch Tuesday: Two Exploited Zero-Days and 113 Critical Vulnerabilities Among 972 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-september-2026/)
+### 89. [September 2026 Patch Tuesday: Two Exploited Zero-Days and 113 Critical Vulnerabilities Among 972 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-september-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 08, 2026 00:00:00-0500  
@@ -809,21 +818,12 @@
 
 ---
 
-### 89. [CrowdStrike Delivers the Next Evolution of the Agentic SOC](https://www.crowdstrike.com/en-us/blog/crowdstrike-delivers-next-evolution-of-agentic-soc/)
+### 90. [CrowdStrike Delivers the Next Evolution of the Agentic SOC](https://www.crowdstrike.com/en-us/blog/crowdstrike-delivers-next-evolution-of-agentic-soc/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 02, 2026 00:00:00-0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 90. [CrowdStrike Extends Endpoint Security to Stop Software Supply Chain Attacks](https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-endpoint-security-to-stop-supply-chain-attacks/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Sep 02, 2026 00:00:00-0400  
-**Severity:** Low  
-**Categories:** Supply Chain  
 
 ---
 

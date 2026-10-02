@@ -186,6 +186,26 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Fortinet warns of critical FortiMail flaw exploited in zero-day attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/",
+    "published": "Thu, 01 Oct 2026 18:42:49 -0400",
+    "summary": "Fortinet is warning customers of a critical FortiMail vulnerability, tracked as CVE-2026-104286, that is being actively exploited in zero-day attacks to execute unauthorized code or commands on vulnerable devices. [...]",
+    "analysis": {
+      "issue": "Fortinet is warning customers of a critical FortiMail vulnerability, tracked as CVE-2026-104286, that is being actively exploited in zero-day attacks to execute unauthorized code or commands on vulnerable devices",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-104286"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Autonomous AI agents tried to hack US, Canadian government websites",
     "link": "https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/",
     "published": "Thu, 01 Oct 2026 16:52:50 -0400",
@@ -352,27 +372,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "DIVD says Zammad zero-days enabled AI-driven network breach",
-    "link": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
-    "published": "Wed, 30 Sep 2026 15:49:15 -0400",
-    "summary": "The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of its network was possible by exploiting a chain of two zero-day vulnerabilities in the open-source Zammad ticketing system. [...]",
-    "analysis": {
-      "issue": "The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of its network was possible by exploiting a chain of two zero-day vulnerabilities in the open-source Zammad ticketing system",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-102490",
-        "CVE-2026-102489"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
     "link": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
@@ -442,9 +441,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69829",
         "CVE-2026-85880",
         "CVE-2026-81963",
+        "CVE-2026-69829",
         "CVE-2026-69730"
       ],
       "threat_categories": [
@@ -523,8 +522,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-72971",
-        "CVE-2026-68820",
-        "CVE-2026-62832"
+        "CVE-2026-62832",
+        "CVE-2026-68820"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -751,8 +750,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-102490",
-        "CVE-2026-102489"
+        "CVE-2026-102489",
+        "CVE-2026-102490"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1513,6 +1512,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "CrowdStrike Expands Federal SOC Modernization Through CISA-Funded SIEMaaS",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-federal-soc-modernization-via-cisa-siemaas/",
+    "published": "Oct 01, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "Falcon Next-Gen SIEM joins CISA’s SIEMaaS technology stack, which gives eligible agencies a funded path to modernize security through the CDM DEFEND F shared service",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "Copy, Paste, Compromised: How ClickFix Attacks Work and How CrowdStrike Stops Them",
     "link": "https://www.crowdstrike.com/en-us/blog/how-clickfix-attacks-work-and-how-to-stop-them/",
     "published": "Sep 29, 2026 00:00:00-0500",
@@ -1670,24 +1687,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Extends Endpoint Security to Stop Software Supply Chain Attacks",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-endpoint-security-to-stop-supply-chain-attacks/",
-    "published": "Sep 02, 2026 00:00:00-0400",
-    "summary": "",
-    "analysis": {
-      "issue": "Real-Time Supply Chain Attack Protection, embedded into the Falcon sensor, blocks malicious open-source packages at download to protect the endpoint",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
       ]
     }
   }
