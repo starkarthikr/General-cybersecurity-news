@@ -184,6 +184,24 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "ShinyHunters hacker reportedly detained in Jordan, aiding FBI",
+    "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/",
+    "published": "Sat, 03 Oct 2026 15:09:38 -0400",
+    "summary": "A suspected ShinyHunters hacking group member known online as \"Rey\" has reportedly been detained in Jordan and is cooperating with the FBI to help locate other members of the extortion group. [...]",
+    "analysis": {
+      "issue": "A suspected ShinyHunters hacking group member known online as \"Rey\" has reportedly been detained in Jordan and is cooperating with the FBI to help locate other members of the extortion group",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Danish university DTU breach exposes data of up to 200,000 people",
     "link": "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/",
     "published": "Sat, 03 Oct 2026 10:35:20 -0400",
@@ -233,10 +251,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-53770",
         "CVE-2025-49704",
-        "CVE-2025-53771",
-        "CVE-2025-49706"
+        "CVE-2025-53770",
+        "CVE-2025-49706",
+        "CVE-2025-53771"
       ],
       "threat_categories": [
         "Ransomware",
@@ -313,11 +331,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-67273",
         "CVE-2026-63688",
-        "CVE-2026-54472",
         "CVE-2026-67269",
         "CVE-2026-63692",
+        "CVE-2026-67273",
+        "CVE-2026-54472",
         "CVE-2026-61421"
       ],
       "threat_categories": [
@@ -360,24 +378,6 @@
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Autonomous AI agents tried to hack US, Canadian government websites",
-    "link": "https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/",
-    "published": "Thu, 01 Oct 2026 16:52:50 -0400",
-    "summary": "Autonomous AI agents using aggressive strategies attempted to hack U.S. and Canadian government websites to find school and divorce statistics. [...]",
-    "analysis": {
-      "issue": "Autonomous AI agents using aggressive strategies attempted to hack U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -451,10 +451,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69829",
+        "CVE-2026-81963",
         "CVE-2026-69730",
-        "CVE-2026-85880",
-        "CVE-2026-81963"
+        "CVE-2026-69829",
+        "CVE-2026-85880"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -531,9 +531,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-62832",
         "CVE-2026-68820",
-        "CVE-2026-72971"
+        "CVE-2026-72971",
+        "CVE-2026-62832"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -612,8 +612,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-12627",
-        "CVE-2026-79898",
-        "CVE-2026-79901"
+        "CVE-2026-79901",
+        "CVE-2026-79898"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -715,12 +715,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-50522",
         "CVE-2026-55040",
-        "CVE-2026-56164",
+        "CVE-2026-32201",
         "CVE-2026-45659",
         "CVE-2026-58644",
-        "CVE-2026-32201",
-        "CVE-2026-50522"
+        "CVE-2026-56164"
       ],
       "threat_categories": [
         "Ransomware",
@@ -1324,8 +1324,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
