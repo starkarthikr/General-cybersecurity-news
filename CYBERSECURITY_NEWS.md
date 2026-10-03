@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-03 04:46:07 UTC
+**Last Updated:** 2026-10-03 05:36:02 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -109,7 +109,7 @@
 **Source:** Bleeping Computer  
 **Published:** Fri, 02 Oct 2026 14:33:01 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2025-53771, CVE-2025-53770, CVE-2025-49704, CVE-2025-49706  
+**CVEs:** CVE-2025-49704, CVE-2025-53771, CVE-2025-49706, CVE-2025-53770  
 **Categories:** Ransomware, Vulnerability  
 
 ---
@@ -147,7 +147,7 @@
 **Source:** Bleeping Computer  
 **Published:** Fri, 02 Oct 2026 08:37:40 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-54472, CVE-2026-63688, CVE-2026-67273, CVE-2026-61421, CVE-2026-63692, CVE-2026-67269  
+**CVEs:** CVE-2026-67269, CVE-2026-67273, CVE-2026-61421, CVE-2026-63692, CVE-2026-63688, CVE-2026-54472  
 **Categories:** Vulnerability  
 
 ---
@@ -221,7 +221,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69829, CVE-2026-81963, CVE-2026-69730, CVE-2026-85880  
+**CVEs:** CVE-2026-81963, CVE-2026-85880, CVE-2026-69829, CVE-2026-69730  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -322,7 +322,7 @@
 **Source:** Security Week  
 **Published:** Fri, 02 Oct 2026 09:34:41 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-45659, CVE-2026-55040, CVE-2026-50522, CVE-2026-58644, CVE-2026-32201, CVE-2026-56164  
+**CVEs:** CVE-2026-45659, CVE-2026-58644, CVE-2026-56164, CVE-2026-32201, CVE-2026-55040, CVE-2026-50522  
 **Categories:** Ransomware, Vulnerability, Malware, APT  
 
 ---
@@ -633,7 +633,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
