@@ -1,6 +1,43 @@
 [
   {
     "source": "The Hacker News",
+    "title": "MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics",
+    "link": "https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html",
+    "published": "Sat, 03 Oct 2026 20:08:46 +0530",
+    "summary": "The U.K.'s domestic intelligence and security agency has warned that more than 100 academics have helped China boost its intelligence gathering efforts on behalf of Beijing's state security service.\n\nIn a \"Security Service Espionage Alert\" issued on September 30, 2026, MI5 said the \"primary purpose of the China General Technology Research Institute (CGTRI) 中国通用技术研究院 is to fund research that",
+    "analysis": {
+      "issue": "-linked academics contributed to MSS-funded research via CGTRI, which it assesses as an MSS front",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
+    "link": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
+    "published": "Sat, 03 Oct 2026 20:06:33 +0530",
+    "summary": "The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portuguese- and Spanish-speaking countries.\n\nThe activity, observed by the Symantec and Carbon Black Threat Hunter Team, has hit critical infrastructure, government, and education organizations.\n\n\"In the",
+    "analysis": {
+      "issue": "Warlock exploited SharePoint flaws in attacks on at least four organizations, including two critical infrastructure operators",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations",
     "link": "https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html",
     "published": "Sat, 03 Oct 2026 16:30:00 +0530",
@@ -146,39 +183,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
-    "link": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
-    "published": "Thu, 01 Oct 2026 22:25:57 +0530",
-    "summary": "Police in Spain have arrested a 16-year-old whom investigators suspect of running the KillSec ransomware group. KillSec is accused of stealing data from organizations and threatening to publish it on its leak site unless they paid.\n\nThe 16-year-old was one of 3 people arrested on September 30, when police also took control of that site.\n\nInvestigators identified him as KillSec's suspected",
+    "source": "Bleeping Computer",
+    "title": "Danish university DTU breach exposes data of up to 200,000 people",
+    "link": "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/",
+    "published": "Sat, 03 Oct 2026 10:35:20 -0400",
+    "summary": "The Technical University of Denmark (DTU) says information belonging to up to 200,000 users may have been exposed after hackers accessed its identity and access management system and downloaded a large amount of data. [...]",
     "analysis": {
-      "issue": "European police arrested three KillSec suspects, seized its leak site and servers, and secured at least 110 TB of data",
+      "issue": "The Technical University of Denmark (DTU) says information belonging to up to 200,000 users may have been exposed after hackers accessed its identity and access management system and downloaded a large amount of data",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories",
-    "link": "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html",
-    "published": "Thu, 01 Oct 2026 22:15:38 +0530",
-    "summary": "This week, the useful words are boring ones: inspect, cache, compile, store, trust. Each sounds harmless. Each can become an attack path when a system does a little more than people expect. A model check can run code. A cache can mix up requests. A public secret can stay useful for years.\n\nThat is the lesson running through the list. Attackers do not always need a brilliant new trick. They can",
-    "analysis": {
-      "issue": "This week in cybersecurity: AI-driven attacks, exposed secrets, old flaws, new exploit tricks, malware techniques, and security research worth knowing",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
+        "General Security"
       ]
     }
   },
@@ -216,8 +234,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2025-53770",
-        "CVE-2025-53771",
         "CVE-2025-49704",
+        "CVE-2025-53771",
         "CVE-2025-49706"
       ],
       "threat_categories": [
@@ -295,12 +313,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-67273",
+        "CVE-2026-63688",
         "CVE-2026-54472",
         "CVE-2026-67269",
         "CVE-2026-63692",
-        "CVE-2026-67273",
-        "CVE-2026-61421",
-        "CVE-2026-63688"
+        "CVE-2026-61421"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -360,25 +378,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft says threat actors are ahead in the early AI race",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/",
-    "published": "Thu, 01 Oct 2026 15:32:47 -0400",
-    "summary": "Microsoft says cyberattackers are currently benefiting from artificial intelligence faster than defenders, allowing threat actors to speed up vulnerability discovery, malware development, and post-compromise activity while security teams struggle to keep pace. [...]",
-    "analysis": {
-      "issue": "Microsoft says cyberattackers are currently benefiting from artificial intelligence faster than defenders, allowing threat actors to speed up vulnerability discovery, malware development, and post-compromise activity while security teams struggle to ",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
       ]
     }
   },
@@ -452,10 +451,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-85880",
-        "CVE-2026-81963",
         "CVE-2026-69829",
-        "CVE-2026-69730"
+        "CVE-2026-69730",
+        "CVE-2026-85880",
+        "CVE-2026-81963"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -532,9 +531,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-72971",
         "CVE-2026-62832",
-        "CVE-2026-68820"
+        "CVE-2026-68820",
+        "CVE-2026-72971"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -612,9 +611,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-79901",
         "CVE-2026-12627",
-        "CVE-2026-79898"
+        "CVE-2026-79898",
+        "CVE-2026-79901"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -716,12 +715,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-32201",
-        "CVE-2026-58644",
-        "CVE-2026-50522",
-        "CVE-2026-56164",
         "CVE-2026-55040",
-        "CVE-2026-45659"
+        "CVE-2026-56164",
+        "CVE-2026-45659",
+        "CVE-2026-58644",
+        "CVE-2026-32201",
+        "CVE-2026-50522"
       ],
       "threat_categories": [
         "Ransomware",
