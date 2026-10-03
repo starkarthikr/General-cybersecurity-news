@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-03 05:36:02 UTC
+**Last Updated:** 2026-10-03 13:36:49 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers](https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html)
+### 1. [The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations](https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 03 Oct 2026 16:30:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers](https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 02 Oct 2026 23:03:31 +0530  
@@ -14,7 +23,7 @@
 
 ---
 
-### 2. [Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign](https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html)
+### 3. [Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign](https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 02 Oct 2026 23:03:16 +0530  
@@ -23,7 +32,7 @@
 
 ---
 
-### 3. [Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes](https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html)
+### 4. [Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes](https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 02 Oct 2026 22:32:12 +0530  
@@ -32,7 +41,7 @@
 
 ---
 
-### 4. [OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling](https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html)
+### 5. [OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling](https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 02 Oct 2026 17:53:15 +0530  
@@ -41,7 +50,7 @@
 
 ---
 
-### 5. [Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report](https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html)
+### 6. [Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report](https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 02 Oct 2026 17:00:00 +0530  
@@ -50,7 +59,7 @@
 
 ---
 
-### 6. [Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools](https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html)
+### 7. [Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools](https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 02 Oct 2026 13:31:30 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes](https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html)
+### 8. [Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes](https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 02 Oct 2026 11:19:50 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers](https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html)
+### 9. [Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers](https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 01 Oct 2026 22:25:57 +0530  
@@ -77,19 +86,10 @@
 
 ---
 
-### 9. [ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories](https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html)
+### 10. [ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories](https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 01 Oct 2026 22:15:38 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability, Malware  
-
----
-
-### 10. [WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory](https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 01 Oct 2026 20:07:35 +0530  
 **Severity:** Low  
 **Categories:** Vulnerability, Malware  
 
@@ -109,7 +109,7 @@
 **Source:** Bleeping Computer  
 **Published:** Fri, 02 Oct 2026 14:33:01 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2025-49704, CVE-2025-53771, CVE-2025-49706, CVE-2025-53770  
+**CVEs:** CVE-2025-53770, CVE-2025-53771, CVE-2025-49704, CVE-2025-49706  
 **Categories:** Ransomware, Vulnerability  
 
 ---
@@ -147,7 +147,7 @@
 **Source:** Bleeping Computer  
 **Published:** Fri, 02 Oct 2026 08:37:40 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-67269, CVE-2026-67273, CVE-2026-61421, CVE-2026-63692, CVE-2026-63688, CVE-2026-54472  
+**CVEs:** CVE-2026-54472, CVE-2026-67269, CVE-2026-63692, CVE-2026-67273, CVE-2026-61421, CVE-2026-63688  
 **Categories:** Vulnerability  
 
 ---
@@ -221,7 +221,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81963, CVE-2026-85880, CVE-2026-69829, CVE-2026-69730  
+**CVEs:** CVE-2026-85880, CVE-2026-81963, CVE-2026-69829, CVE-2026-69730  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -258,7 +258,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-68820, CVE-2026-72971, CVE-2026-62832  
+**CVEs:** CVE-2026-72971, CVE-2026-62832, CVE-2026-68820  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -281,7 +281,26 @@
 
 ---
 
-### 31. [In Other News: $15K iCloud Spoofing Bugs, AI Policy Experts Phished, Adblocker Spies on AI Chats](https://www.securityweek.com/in-other-news-15k-icloud-spoofing-bugs-ai-policy-experts-phished-adblocker-spies-on-ai-chats/)
+### 31. [doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures](https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/)
+
+**Source:** Security Week  
+**Published:** Sat, 03 Oct 2026 11:45:00 +0000  
+**Severity:** Low  
+**Categories:** Malware, Phishing  
+
+---
+
+### 32. [Fortra Patches Critical Vulnerabilities in BoKS](https://www.securityweek.com/fortra-patches-critical-vulnerabilities-in-boks/)
+
+**Source:** Security Week  
+**Published:** Sat, 03 Oct 2026 11:34:00 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-79901, CVE-2026-12627, CVE-2026-79898  
+**Categories:** Vulnerability, APT  
+
+---
+
+### 33. [In Other News: $15K iCloud Spoofing Bugs, AI Policy Experts Phished, Adblocker Spies on AI Chats](https://www.securityweek.com/in-other-news-15k-icloud-spoofing-bugs-ai-policy-experts-phished-adblocker-spies-on-ai-chats/)
 
 **Source:** Security Week  
 **Published:** Fri, 02 Oct 2026 14:30:00 +0000  
@@ -290,7 +309,7 @@
 
 ---
 
-### 32. [macOS Users Targeted by Fake Zoom Installer Carrying CloudSyncD Backdoor](https://www.securityweek.com/macos-users-targeted-by-fake-zoom-installer-carrying-cloudsyncd-backdoor/)
+### 34. [macOS Users Targeted by Fake Zoom Installer Carrying CloudSyncD Backdoor](https://www.securityweek.com/macos-users-targeted-by-fake-zoom-installer-carrying-cloudsyncd-backdoor/)
 
 **Source:** Security Week  
 **Published:** Fri, 02 Oct 2026 13:15:00 +0000  
@@ -299,7 +318,7 @@
 
 ---
 
-### 33. [Crypto Scammers Hijack Microsoft’s Official X Account](https://www.securityweek.com/crypto-scammers-hijack-microsofts-official-x-account/)
+### 35. [Crypto Scammers Hijack Microsoft’s Official X Account](https://www.securityweek.com/crypto-scammers-hijack-microsofts-official-x-account/)
 
 **Source:** Security Week  
 **Published:** Fri, 02 Oct 2026 11:46:10 +0000  
@@ -308,7 +327,7 @@
 
 ---
 
-### 34. [In Rare Move, Alleged Iranian State Hacker Extradited to US](https://www.securityweek.com/in-rare-move-iranian-hacker-accused-of-working-for-irgc-extradited-to-us/)
+### 36. [In Rare Move, Alleged Iranian State Hacker Extradited to US](https://www.securityweek.com/in-rare-move-iranian-hacker-accused-of-working-for-irgc-extradited-to-us/)
 
 **Source:** Security Week  
 **Published:** Fri, 02 Oct 2026 11:14:34 +0000  
@@ -317,17 +336,17 @@
 
 ---
 
-### 35. [Warlock Expands SharePoint Exploitation in Critical Infrastructure Attacks](https://www.securityweek.com/warlock-expands-sharepoint-exploitation-in-critical-infrastructure-attacks/)
+### 37. [Warlock Expands SharePoint Exploitation in Critical Infrastructure Attacks](https://www.securityweek.com/warlock-expands-sharepoint-exploitation-in-critical-infrastructure-attacks/)
 
 **Source:** Security Week  
 **Published:** Fri, 02 Oct 2026 09:34:41 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-45659, CVE-2026-58644, CVE-2026-56164, CVE-2026-32201, CVE-2026-55040, CVE-2026-50522  
+**CVEs:** CVE-2026-32201, CVE-2026-58644, CVE-2026-50522, CVE-2026-56164, CVE-2026-55040, CVE-2026-45659  
 **Categories:** Ransomware, Vulnerability, Malware, APT  
 
 ---
 
-### 36. [AI Agents Aimed SQL Injection at US and Canadian Government Sites](https://www.securityweek.com/ai-agents-aimed-sql-injection-at-us-and-canadian-government-sites/)
+### 38. [AI Agents Aimed SQL Injection at US and Canadian Government Sites](https://www.securityweek.com/ai-agents-aimed-sql-injection-at-us-and-canadian-government-sites/)
 
 **Source:** Security Week  
 **Published:** Fri, 02 Oct 2026 08:38:46 +0000  
@@ -336,7 +355,7 @@
 
 ---
 
-### 37. [Exploited Fortinet FortiMail Zero-Day Calls for Urgent Action](https://www.securityweek.com/exploited-fortinet-fortimail-zero-day-calls-for-urgent-action/)
+### 39. [Exploited Fortinet FortiMail Zero-Day Calls for Urgent Action](https://www.securityweek.com/exploited-fortinet-fortimail-zero-day-calls-for-urgent-action/)
 
 **Source:** Security Week  
 **Published:** Fri, 02 Oct 2026 08:07:33 +0000  
@@ -346,30 +365,12 @@
 
 ---
 
-### 38. [Zero Trust Creator Says Model Holds Firm Against AI-Assisted Attacks](https://www.securityweek.com/zero-trust-creator-says-model-holds-firm-against-ai-assisted-attacks/)
+### 40. [Zero Trust Creator Says Model Holds Firm Against AI-Assisted Attacks](https://www.securityweek.com/zero-trust-creator-says-model-holds-firm-against-ai-assisted-attacks/)
 
 **Source:** Security Week  
 **Published:** Thu, 01 Oct 2026 18:00:00 +0000  
 **Severity:** Critical  
 **Categories:** Data Breach, Vulnerability, APT  
-
----
-
-### 39. [Osavul Lands $10 Million to Spot Hostile Intent Across Cyber, Physical Domains](https://www.securityweek.com/osavul-lands-10-million-to-spot-hostile-intent-across-cyber-physical-domains/)
-
-**Source:** Security Week  
-**Published:** Thu, 01 Oct 2026 17:16:41 +0000  
-**Severity:** Critical  
-**Categories:** APT, Supply Chain  
-
----
-
-### 40. [Hacker Conversations: Rob Juncker, a Knock at the Door and a Moral Compass](https://www.securityweek.com/hacker-conversations-rob-juncker-a-knock-at-the-door-and-a-moral-compass/)
-
-**Source:** Security Week  
-**Published:** Thu, 01 Oct 2026 14:30:00 +0000  
-**Severity:** High  
-**Categories:** General Security  
 
 ---
 

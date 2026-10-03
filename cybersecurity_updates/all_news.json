@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations",
+    "link": "https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html",
+    "published": "Sat, 03 Oct 2026 16:30:00 +0530",
+    "summary": "Featuring:\n\nCybersecurity is being reshaped by the expansion of cloud infrastructure, AI, distributed systems, and increasingly complex digital environments. As organizations manage more identities, devices, data, and internet-facing infrastructure, security is shifting toward continuous visibility, control, and the ability to respond to risk at scale.\n\nThis report examines how core areas of",
+    "analysis": {
+      "issue": "Cybersecurity teams are shifting toward continuous control across identity, cloud, endpoints, telemetry, and human risk",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
     "link": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
     "published": "Fri, 02 Oct 2026 23:03:31 +0530",
@@ -165,25 +183,6 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory",
-    "link": "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html",
-    "published": "Thu, 01 Oct 2026 20:07:35 +0530",
-    "summary": "Cybersecurity researchers have shed light on a WordPress compromise in which threat actors deployed multiple persistence mechanisms to ensure that the final payload kept returning without having to infect the site again.\n\nThe backdoor has been codenamed SC after the \"SC_\" markers present in the injected content. Sucuri has described the malware as a \"self-healing mesh\" that's",
-    "analysis": {
-      "issue": "SC WordPress malware rebuilds its backdoor from files, the database, and shared memory; fewer than 20 wpForo exploit attempts were seen since July 3",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
     "title": "Frontline Education breach exposes school district employee data",
     "link": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
@@ -216,10 +215,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-49704",
+        "CVE-2025-53770",
         "CVE-2025-53771",
-        "CVE-2025-49706",
-        "CVE-2025-53770"
+        "CVE-2025-49704",
+        "CVE-2025-49706"
       ],
       "threat_categories": [
         "Ransomware",
@@ -296,12 +295,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-54472",
         "CVE-2026-67269",
+        "CVE-2026-63692",
         "CVE-2026-67273",
         "CVE-2026-61421",
-        "CVE-2026-63692",
-        "CVE-2026-63688",
-        "CVE-2026-54472"
+        "CVE-2026-63688"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -453,8 +452,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-81963",
         "CVE-2026-85880",
+        "CVE-2026-81963",
         "CVE-2026-69829",
         "CVE-2026-69730"
       ],
@@ -533,9 +532,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-68820",
         "CVE-2026-72971",
-        "CVE-2026-62832"
+        "CVE-2026-62832",
+        "CVE-2026-68820"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -578,6 +577,48 @@
       "cves": [],
       "threat_categories": [
         "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures",
+    "link": "https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/",
+    "published": "Sat, 03 Oct 2026 11:45:00 +0000",
+    "summary": "<p>doxx.net’s new ADN platform prevents agentic misadventure while the agent is operating under the user’s authority.</p>\n<p>The post <a href=\"https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/\">doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "net’s new ADN platform prevents agentic misadventure while the agent is operating under the user’s authority",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Fortra Patches Critical Vulnerabilities in BoKS",
+    "link": "https://www.securityweek.com/fortra-patches-critical-vulnerabilities-in-boks/",
+    "published": "Sat, 03 Oct 2026 11:34:00 +0000",
+    "summary": "<p>The bugs could lead to authentication bypass, shell command execution, and memory corruption.</p>\n<p>The post <a href=\"https://www.securityweek.com/fortra-patches-critical-vulnerabilities-in-boks/\">Fortra Patches Critical Vulnerabilities in BoKS</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The bugs could lead to authentication bypass, shell command execution, and memory corruption",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-79901",
+        "CVE-2026-12627",
+        "CVE-2026-79898"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "APT"
       ]
     }
   },
@@ -675,12 +716,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-45659",
-        "CVE-2026-58644",
-        "CVE-2026-56164",
         "CVE-2026-32201",
+        "CVE-2026-58644",
+        "CVE-2026-50522",
+        "CVE-2026-56164",
         "CVE-2026-55040",
-        "CVE-2026-50522"
+        "CVE-2026-45659"
       ],
       "threat_categories": [
         "Ransomware",
@@ -745,43 +786,6 @@
         "Data Breach",
         "Vulnerability",
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Osavul Lands $10 Million to Spot Hostile Intent Across Cyber, Physical Domains",
-    "link": "https://www.securityweek.com/osavul-lands-10-million-to-spot-hostile-intent-across-cyber-physical-domains/",
-    "published": "Thu, 01 Oct 2026 17:16:41 +0000",
-    "summary": "<p>Hybrid risk intelligence company Osavul has raised $10 million in a Series A funding round led by 33N Ventures.</p>\n<p>The post <a href=\"https://www.securityweek.com/osavul-lands-10-million-to-spot-hostile-intent-across-cyber-physical-domains/\">Osavul Lands $10 Million to Spot Hostile Intent Across Cyber, Physical Domains</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Hybrid risk intelligence company Osavul has raised $10 million in a Series A funding round led by 33N Ventures",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "APT",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Hacker Conversations: Rob Juncker, a Knock at the Door and a Moral Compass",
-    "link": "https://www.securityweek.com/hacker-conversations-rob-juncker-a-knock-at-the-door-and-a-moral-compass/",
-    "published": "Thu, 01 Oct 2026 14:30:00 +0000",
-    "summary": "<p>Rob Juncker is chief product and technology officer at Mimecast. Is he a hacker? “Unequivocally yes,” he says.</p>\n<p>The post <a href=\"https://www.securityweek.com/hacker-conversations-rob-juncker-a-knock-at-the-door-and-a-moral-compass/\">Hacker Conversations: Rob Juncker, a Knock at the Door and a Moral Compass</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Rob Juncker is chief product and technology officer at Mimecast",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
