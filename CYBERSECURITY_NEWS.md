@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-04 06:11:31 UTC
+**Last Updated:** 2026-10-04 14:17:11 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics](https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html)
+### 1. [ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members](https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html)
+
+**Source:** The Hacker News  
+**Published:** Sun, 04 Oct 2026 12:52:05 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing](https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html)
+
+**Source:** The Hacker News  
+**Published:** Sun, 04 Oct 2026 12:50:32 +0530  
+**Severity:** Low  
+**Categories:** Phishing, APT  
+
+---
+
+### 3. [MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics](https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 03 Oct 2026 20:08:46 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware](https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html)
+### 4. [Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware](https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 03 Oct 2026 20:06:33 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations](https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html)
+### 5. [The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations](https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 03 Oct 2026 16:30:00 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers](https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html)
+### 6. [GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers](https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 02 Oct 2026 23:03:31 +0530  
@@ -41,7 +59,7 @@
 
 ---
 
-### 5. [Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign](https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html)
+### 7. [Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign](https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 02 Oct 2026 23:03:16 +0530  
@@ -50,7 +68,7 @@
 
 ---
 
-### 6. [Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes](https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html)
+### 8. [Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes](https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 02 Oct 2026 22:32:12 +0530  
@@ -59,7 +77,7 @@
 
 ---
 
-### 7. [OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling](https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html)
+### 9. [OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling](https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 02 Oct 2026 17:53:15 +0530  
@@ -68,7 +86,7 @@
 
 ---
 
-### 8. [Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report](https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html)
+### 10. [Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report](https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 02 Oct 2026 17:00:00 +0530  
@@ -77,25 +95,16 @@
 
 ---
 
-### 9. [Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools](https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html)
+### 11. [Anthropic asks Claude users to share voice data for AI model training](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 02 Oct 2026 13:31:30 +0530  
-**Severity:** High  
-**Categories:** Malware  
-
----
-
-### 10. [Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes](https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 02 Oct 2026 11:19:50 +0530  
+**Source:** Bleeping Computer  
+**Published:** Sun, 04 Oct 2026 06:53:21 -0400  
 **Severity:** Low  
-**Categories:** Vulnerability  
+**Categories:** General Security  
 
 ---
 
-### 11. [Google Gemini could soon get full access to your Mac’s files, apps and the web](https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/)
+### 12. [Google Gemini could soon get full access to your Mac’s files, apps and the web](https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 03 Oct 2026 19:12:34 -0400  
@@ -104,7 +113,7 @@
 
 ---
 
-### 12. [ShinyHunters hacker reportedly detained in Jordan, aiding FBI](https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/)
+### 13. [ShinyHunters hacker reportedly detained in Jordan, aiding FBI](https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 03 Oct 2026 15:09:38 -0400  
@@ -113,7 +122,7 @@
 
 ---
 
-### 13. [Danish university DTU breach exposes data of up to 200,000 people](https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/)
+### 14. [Danish university DTU breach exposes data of up to 200,000 people](https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 03 Oct 2026 10:35:20 -0400  
@@ -122,7 +131,7 @@
 
 ---
 
-### 14. [Frontline Education breach exposes school district employee data](https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/)
+### 15. [Frontline Education breach exposes school district employee data](https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 02 Oct 2026 15:01:40 -0400  
@@ -131,17 +140,17 @@
 
 ---
 
-### 15. [Warlock ransomware breach SharePoint in water, telecom operator attacks](https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/)
+### 16. [Warlock ransomware breach SharePoint in water, telecom operator attacks](https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 02 Oct 2026 14:33:01 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2025-53770, CVE-2025-49704, CVE-2025-49706, CVE-2025-53771  
+**CVEs:** CVE-2025-49704, CVE-2025-49706, CVE-2025-53770, CVE-2025-53771  
 **Categories:** Ransomware, Vulnerability  
 
 ---
 
-### 16. [GitLab warns of critical RCE vulnerability in AI Gateway service](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/)
+### 17. [GitLab warns of critical RCE vulnerability in AI Gateway service](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 02 Oct 2026 12:20:05 -0400  
@@ -151,7 +160,7 @@
 
 ---
 
-### 17. [US sanctions Tren de Aragua gang members in ATM hacks crackdown](https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/)
+### 18. [US sanctions Tren de Aragua gang members in ATM hacks crackdown](https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 02 Oct 2026 11:20:53 -0400  
@@ -160,7 +169,7 @@
 
 ---
 
-### 18. [The EDR blind spot: 3 ways browser attacks evade endpoint telemetry](https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/)
+### 19. [The EDR blind spot: 3 ways browser attacks evade endpoint telemetry](https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 02 Oct 2026 10:00:10 -0400  
@@ -169,22 +178,13 @@
 
 ---
 
-### 19. [Dell asks admins to patch max severity CSM flaws as soon as possible](https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/)
+### 20. [Dell asks admins to patch max severity CSM flaws as soon as possible](https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 02 Oct 2026 08:37:40 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-67269, CVE-2026-63692, CVE-2026-63688, CVE-2026-67273, CVE-2026-54472, CVE-2026-61421  
+**CVEs:** CVE-2026-63692, CVE-2026-67273, CVE-2026-67269, CVE-2026-61421, CVE-2026-54472, CVE-2026-63688  
 **Categories:** Vulnerability  
-
----
-
-### 20. [Microsoft’s X account hacked in crypto pump-and-dump scheme](https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 02 Oct 2026 05:29:56 -0400  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -220,7 +220,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81963, CVE-2026-69829, CVE-2026-85880, CVE-2026-69730  
+**CVEs:** CVE-2026-69829, CVE-2026-69730, CVE-2026-81963, CVE-2026-85880  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -257,7 +257,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62832, CVE-2026-68820, CVE-2026-72971  
+**CVEs:** CVE-2026-72971, CVE-2026-68820, CVE-2026-62832  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -294,7 +294,7 @@
 **Source:** Security Week  
 **Published:** Sat, 03 Oct 2026 11:34:00 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-12627, CVE-2026-79898, CVE-2026-79901  
+**CVEs:** CVE-2026-12627, CVE-2026-79901, CVE-2026-79898  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -340,7 +340,7 @@
 **Source:** Security Week  
 **Published:** Fri, 02 Oct 2026 09:34:41 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32201, CVE-2026-45659, CVE-2026-58644, CVE-2026-56164, CVE-2026-50522, CVE-2026-55040  
+**CVEs:** CVE-2026-58644, CVE-2026-45659, CVE-2026-50522, CVE-2026-55040, CVE-2026-32201, CVE-2026-56164  
 **Categories:** Ransomware, Vulnerability, Malware, APT  
 
 ---
