@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-04 16:42:32 UTC
+**Last Updated:** 2026-10-04 19:46:09 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -145,7 +145,7 @@
 **Source:** Bleeping Computer  
 **Published:** Fri, 02 Oct 2026 14:33:01 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2025-53771, CVE-2025-49706, CVE-2025-49704, CVE-2025-53770  
+**CVEs:** CVE-2025-49706, CVE-2025-49704, CVE-2025-53771, CVE-2025-53770  
 **Categories:** Ransomware, Vulnerability  
 
 ---
@@ -183,7 +183,7 @@
 **Source:** Bleeping Computer  
 **Published:** Fri, 02 Oct 2026 08:37:40 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-63692, CVE-2026-67269, CVE-2026-67273, CVE-2026-54472, CVE-2026-61421, CVE-2026-63688  
+**CVEs:** CVE-2026-63692, CVE-2026-54472, CVE-2026-67273, CVE-2026-63688, CVE-2026-67269, CVE-2026-61421  
 **Categories:** Vulnerability  
 
 ---
@@ -220,7 +220,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81963, CVE-2026-69730, CVE-2026-69829, CVE-2026-85880  
+**CVEs:** CVE-2026-69730, CVE-2026-81963, CVE-2026-69829, CVE-2026-85880  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -257,7 +257,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62832, CVE-2026-68820, CVE-2026-72971  
+**CVEs:** CVE-2026-62832, CVE-2026-72971, CVE-2026-68820  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -303,7 +303,7 @@
 **Source:** Security Week  
 **Published:** Sat, 03 Oct 2026 11:34:00 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-12627, CVE-2026-79898, CVE-2026-79901  
+**CVEs:** CVE-2026-79898, CVE-2026-12627, CVE-2026-79901  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -349,7 +349,7 @@
 **Source:** Security Week  
 **Published:** Fri, 02 Oct 2026 09:34:41 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32201, CVE-2026-55040, CVE-2026-45659, CVE-2026-50522, CVE-2026-58644, CVE-2026-56164  
+**CVEs:** CVE-2026-55040, CVE-2026-32201, CVE-2026-58644, CVE-2026-45659, CVE-2026-56164, CVE-2026-50522  
 **Categories:** Ransomware, Vulnerability, Malware, APT  
 
 ---
