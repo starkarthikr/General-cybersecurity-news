@@ -184,6 +184,24 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Google Gemini could soon get full access to your Mac’s files, apps and the web",
+    "link": "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/",
+    "published": "Sat, 03 Oct 2026 19:12:34 -0400",
+    "summary": "Google's Gemini could soon access any file on your macOS device, open apps, browse the web, and perform actions without asking for permission every time. [...]",
+    "analysis": {
+      "issue": "Google's Gemini could soon access any file on your macOS device, open apps, browse the web, and perform actions without asking for permission every time",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "ShinyHunters hacker reportedly detained in Jordan, aiding FBI",
     "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/",
     "published": "Sat, 03 Oct 2026 15:09:38 -0400",
@@ -331,12 +349,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-63688",
-        "CVE-2026-67269",
         "CVE-2026-63692",
-        "CVE-2026-67273",
+        "CVE-2026-61421",
         "CVE-2026-54472",
-        "CVE-2026-61421"
+        "CVE-2026-67273",
+        "CVE-2026-67269",
+        "CVE-2026-63688"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -358,26 +376,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Fortinet warns of critical FortiMail flaw exploited in zero-day attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/",
-    "published": "Thu, 01 Oct 2026 18:42:49 -0400",
-    "summary": "Fortinet is warning customers of a critical FortiMail vulnerability, tracked as CVE-2026-104286, that is being actively exploited in zero-day attacks to execute unauthorized code or commands on vulnerable devices. [...]",
-    "analysis": {
-      "issue": "Fortinet is warning customers of a critical FortiMail vulnerability, tracked as CVE-2026-104286, that is being actively exploited in zero-day attacks to execute unauthorized code or commands on vulnerable devices",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-104286"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -451,10 +449,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-81963",
         "CVE-2026-69730",
         "CVE-2026-69829",
-        "CVE-2026-85880"
+        "CVE-2026-85880",
+        "CVE-2026-81963"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -531,9 +529,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-68820",
+        "CVE-2026-62832",
         "CVE-2026-72971",
-        "CVE-2026-62832"
+        "CVE-2026-68820"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -715,12 +713,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50522",
-        "CVE-2026-55040",
-        "CVE-2026-32201",
-        "CVE-2026-45659",
         "CVE-2026-58644",
-        "CVE-2026-56164"
+        "CVE-2026-32201",
+        "CVE-2026-56164",
+        "CVE-2026-55040",
+        "CVE-2026-45659",
+        "CVE-2026-50522"
       ],
       "threat_categories": [
         "Ransomware",
@@ -1324,8 +1322,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
