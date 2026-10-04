@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-04 14:17:11 UTC
+**Last Updated:** 2026-10-04 16:42:32 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -145,7 +145,7 @@
 **Source:** Bleeping Computer  
 **Published:** Fri, 02 Oct 2026 14:33:01 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2025-49704, CVE-2025-49706, CVE-2025-53770, CVE-2025-53771  
+**CVEs:** CVE-2025-53771, CVE-2025-49706, CVE-2025-49704, CVE-2025-53770  
 **Categories:** Ransomware, Vulnerability  
 
 ---
@@ -183,7 +183,7 @@
 **Source:** Bleeping Computer  
 **Published:** Fri, 02 Oct 2026 08:37:40 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-63692, CVE-2026-67273, CVE-2026-67269, CVE-2026-61421, CVE-2026-54472, CVE-2026-63688  
+**CVEs:** CVE-2026-63692, CVE-2026-67269, CVE-2026-67273, CVE-2026-54472, CVE-2026-61421, CVE-2026-63688  
 **Categories:** Vulnerability  
 
 ---
@@ -220,7 +220,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69829, CVE-2026-69730, CVE-2026-81963, CVE-2026-85880  
+**CVEs:** CVE-2026-81963, CVE-2026-69730, CVE-2026-69829, CVE-2026-85880  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -257,7 +257,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-72971, CVE-2026-68820, CVE-2026-62832  
+**CVEs:** CVE-2026-62832, CVE-2026-68820, CVE-2026-72971  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -280,7 +280,16 @@
 
 ---
 
-### 31. [doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures](https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/)
+### 31. [Trump Names National Intelligence Director Jay Clayton to Lead a New Federal AI Task Force](https://www.securityweek.com/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force/)
+
+**Source:** Security Week  
+**Published:** Sun, 04 Oct 2026 14:57:25 +0000  
+**Severity:** Critical  
+**Categories:** General Security  
+
+---
+
+### 32. [doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures](https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/)
 
 **Source:** Security Week  
 **Published:** Sat, 03 Oct 2026 11:45:00 +0000  
@@ -289,17 +298,17 @@
 
 ---
 
-### 32. [Fortra Patches Critical Vulnerabilities in BoKS](https://www.securityweek.com/fortra-patches-critical-vulnerabilities-in-boks/)
+### 33. [Fortra Patches Critical Vulnerabilities in BoKS](https://www.securityweek.com/fortra-patches-critical-vulnerabilities-in-boks/)
 
 **Source:** Security Week  
 **Published:** Sat, 03 Oct 2026 11:34:00 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-12627, CVE-2026-79901, CVE-2026-79898  
+**CVEs:** CVE-2026-12627, CVE-2026-79898, CVE-2026-79901  
 **Categories:** Vulnerability, APT  
 
 ---
 
-### 33. [In Other News: $15K iCloud Spoofing Bugs, AI Policy Experts Phished, Adblocker Spies on AI Chats](https://www.securityweek.com/in-other-news-15k-icloud-spoofing-bugs-ai-policy-experts-phished-adblocker-spies-on-ai-chats/)
+### 34. [In Other News: $15K iCloud Spoofing Bugs, AI Policy Experts Phished, Adblocker Spies on AI Chats](https://www.securityweek.com/in-other-news-15k-icloud-spoofing-bugs-ai-policy-experts-phished-adblocker-spies-on-ai-chats/)
 
 **Source:** Security Week  
 **Published:** Fri, 02 Oct 2026 14:30:00 +0000  
@@ -308,7 +317,7 @@
 
 ---
 
-### 34. [macOS Users Targeted by Fake Zoom Installer Carrying CloudSyncD Backdoor](https://www.securityweek.com/macos-users-targeted-by-fake-zoom-installer-carrying-cloudsyncd-backdoor/)
+### 35. [macOS Users Targeted by Fake Zoom Installer Carrying CloudSyncD Backdoor](https://www.securityweek.com/macos-users-targeted-by-fake-zoom-installer-carrying-cloudsyncd-backdoor/)
 
 **Source:** Security Week  
 **Published:** Fri, 02 Oct 2026 13:15:00 +0000  
@@ -317,7 +326,7 @@
 
 ---
 
-### 35. [Crypto Scammers Hijack Microsoft’s Official X Account](https://www.securityweek.com/crypto-scammers-hijack-microsofts-official-x-account/)
+### 36. [Crypto Scammers Hijack Microsoft’s Official X Account](https://www.securityweek.com/crypto-scammers-hijack-microsofts-official-x-account/)
 
 **Source:** Security Week  
 **Published:** Fri, 02 Oct 2026 11:46:10 +0000  
@@ -326,7 +335,7 @@
 
 ---
 
-### 36. [In Rare Move, Alleged Iranian State Hacker Extradited to US](https://www.securityweek.com/in-rare-move-iranian-hacker-accused-of-working-for-irgc-extradited-to-us/)
+### 37. [In Rare Move, Alleged Iranian State Hacker Extradited to US](https://www.securityweek.com/in-rare-move-iranian-hacker-accused-of-working-for-irgc-extradited-to-us/)
 
 **Source:** Security Week  
 **Published:** Fri, 02 Oct 2026 11:14:34 +0000  
@@ -335,17 +344,17 @@
 
 ---
 
-### 37. [Warlock Expands SharePoint Exploitation in Critical Infrastructure Attacks](https://www.securityweek.com/warlock-expands-sharepoint-exploitation-in-critical-infrastructure-attacks/)
+### 38. [Warlock Expands SharePoint Exploitation in Critical Infrastructure Attacks](https://www.securityweek.com/warlock-expands-sharepoint-exploitation-in-critical-infrastructure-attacks/)
 
 **Source:** Security Week  
 **Published:** Fri, 02 Oct 2026 09:34:41 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-58644, CVE-2026-45659, CVE-2026-50522, CVE-2026-55040, CVE-2026-32201, CVE-2026-56164  
+**CVEs:** CVE-2026-32201, CVE-2026-55040, CVE-2026-45659, CVE-2026-50522, CVE-2026-58644, CVE-2026-56164  
 **Categories:** Ransomware, Vulnerability, Malware, APT  
 
 ---
 
-### 38. [AI Agents Aimed SQL Injection at US and Canadian Government Sites](https://www.securityweek.com/ai-agents-aimed-sql-injection-at-us-and-canadian-government-sites/)
+### 39. [AI Agents Aimed SQL Injection at US and Canadian Government Sites](https://www.securityweek.com/ai-agents-aimed-sql-injection-at-us-and-canadian-government-sites/)
 
 **Source:** Security Week  
 **Published:** Fri, 02 Oct 2026 08:38:46 +0000  
@@ -354,22 +363,13 @@
 
 ---
 
-### 39. [Exploited Fortinet FortiMail Zero-Day Calls for Urgent Action](https://www.securityweek.com/exploited-fortinet-fortimail-zero-day-calls-for-urgent-action/)
+### 40. [Exploited Fortinet FortiMail Zero-Day Calls for Urgent Action](https://www.securityweek.com/exploited-fortinet-fortimail-zero-day-calls-for-urgent-action/)
 
 **Source:** Security Week  
 **Published:** Fri, 02 Oct 2026 08:07:33 +0000  
 **Severity:** Critical  
 **CVEs:** CVE-2026-104286  
 **Categories:** Vulnerability  
-
----
-
-### 40. [Zero Trust Creator Says Model Holds Firm Against AI-Assisted Attacks](https://www.securityweek.com/zero-trust-creator-says-model-holds-firm-against-ai-assisted-attacks/)
-
-**Source:** Security Week  
-**Published:** Thu, 01 Oct 2026 18:00:00 +0000  
-**Severity:** Critical  
-**Categories:** Data Breach, Vulnerability, APT  
 
 ---
 
