@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-04 19:46:09 UTC
+**Last Updated:** 2026-10-05 05:01:38 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,17 @@
 
 ---
 
-### 11. [Anthropic asks Claude users to share voice data for AI model training](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/)
+### 11. [Citrix patches NetScaler SAML zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Sun, 04 Oct 2026 17:58:01 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-88779  
+**Categories:** Vulnerability, DDoS  
+
+---
+
+### 12. [Anthropic asks Claude users to share voice data for AI model training](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 04 Oct 2026 06:53:21 -0400  
@@ -104,7 +114,7 @@
 
 ---
 
-### 12. [Google Gemini could soon get full access to your Mac’s files, apps and the web](https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/)
+### 13. [Google Gemini could soon get full access to your Mac’s files, apps and the web](https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 03 Oct 2026 19:12:34 -0400  
@@ -113,7 +123,7 @@
 
 ---
 
-### 13. [ShinyHunters hacker reportedly detained in Jordan, aiding FBI](https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/)
+### 14. [ShinyHunters hacker reportedly detained in Jordan, aiding FBI](https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 03 Oct 2026 15:09:38 -0400  
@@ -122,7 +132,7 @@
 
 ---
 
-### 14. [Danish university DTU breach exposes data of up to 200,000 people](https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/)
+### 15. [Danish university DTU breach exposes data of up to 200,000 people](https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 03 Oct 2026 10:35:20 -0400  
@@ -131,7 +141,7 @@
 
 ---
 
-### 15. [Frontline Education breach exposes school district employee data](https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/)
+### 16. [Frontline Education breach exposes school district employee data](https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 02 Oct 2026 15:01:40 -0400  
@@ -140,17 +150,17 @@
 
 ---
 
-### 16. [Warlock ransomware breach SharePoint in water, telecom operator attacks](https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/)
+### 17. [Warlock ransomware breach SharePoint in water, telecom operator attacks](https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 02 Oct 2026 14:33:01 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2025-49706, CVE-2025-49704, CVE-2025-53771, CVE-2025-53770  
+**CVEs:** CVE-2025-53770, CVE-2025-53771, CVE-2025-49704, CVE-2025-49706  
 **Categories:** Ransomware, Vulnerability  
 
 ---
 
-### 17. [GitLab warns of critical RCE vulnerability in AI Gateway service](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/)
+### 18. [GitLab warns of critical RCE vulnerability in AI Gateway service](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 02 Oct 2026 12:20:05 -0400  
@@ -160,7 +170,7 @@
 
 ---
 
-### 18. [US sanctions Tren de Aragua gang members in ATM hacks crackdown](https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/)
+### 19. [US sanctions Tren de Aragua gang members in ATM hacks crackdown](https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 02 Oct 2026 11:20:53 -0400  
@@ -169,22 +179,12 @@
 
 ---
 
-### 19. [The EDR blind spot: 3 ways browser attacks evade endpoint telemetry](https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/)
+### 20. [The EDR blind spot: 3 ways browser attacks evade endpoint telemetry](https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 02 Oct 2026 10:00:10 -0400  
 **Severity:** High  
 **Categories:** Malware  
-
----
-
-### 20. [Dell asks admins to patch max severity CSM flaws as soon as possible](https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 02 Oct 2026 08:37:40 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-63692, CVE-2026-54472, CVE-2026-67273, CVE-2026-63688, CVE-2026-67269, CVE-2026-61421  
-**Categories:** Vulnerability  
 
 ---
 
@@ -220,7 +220,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69730, CVE-2026-81963, CVE-2026-69829, CVE-2026-85880  
+**CVEs:** CVE-2026-85880, CVE-2026-69730, CVE-2026-81963, CVE-2026-69829  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -257,7 +257,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62832, CVE-2026-72971, CVE-2026-68820  
+**CVEs:** CVE-2026-72971, CVE-2026-68820, CVE-2026-62832  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -303,7 +303,7 @@
 **Source:** Security Week  
 **Published:** Sat, 03 Oct 2026 11:34:00 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-79898, CVE-2026-12627, CVE-2026-79901  
+**CVEs:** CVE-2026-12627, CVE-2026-79898, CVE-2026-79901  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -349,7 +349,7 @@
 **Source:** Security Week  
 **Published:** Fri, 02 Oct 2026 09:34:41 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-55040, CVE-2026-32201, CVE-2026-58644, CVE-2026-45659, CVE-2026-56164, CVE-2026-50522  
+**CVEs:** CVE-2026-45659, CVE-2026-55040, CVE-2026-58644, CVE-2026-56164, CVE-2026-50522, CVE-2026-32201  
 **Categories:** Ransomware, Vulnerability, Malware, APT  
 
 ---
@@ -633,7 +633,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
