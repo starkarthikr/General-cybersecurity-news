@@ -1,6 +1,26 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
+    "link": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
+    "published": "Mon, 05 Oct 2026 21:51:52 +0530",
+    "summary": "Microsoft has released out-of-band security updates to address a high-severity flaw in Microsoft Exchange Server that could allow an attacker to escalate privileges under certain conditions.\n\nThe vulnerability, tracked as CVE-2026-96940, is rated 8.8 on the CVSS scoring system.\n\n\"Weak authorization in Microsoft Exchange Server allows an authenticated attacker to elevate privileges over a",
+    "analysis": {
+      "issue": "Microsoft patches CVE-2026-96940, which lets authenticated attackers read other users' Exchange mailboxes within the same organization",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-96940"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests",
     "link": "https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html",
     "published": "Mon, 05 Oct 2026 19:50:43 +0530",
@@ -99,7 +119,7 @@
     "title": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline",
     "link": "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html",
     "published": "Mon, 05 Oct 2026 12:10:19 +0530",
-    "summary": "Citrix has released security updates for a high-severity security flaw in NetScaler ADC and Citrix NetScaler Gateway that has been exploited as part of targeted zero-day attacks.\n\nThe vulnerability, tracked as CVE-2026-88779, carries a CVSS score of 8.7 out of 10.0.\n\n\"CVE-2026-88779 is a memory overflow vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway that can lead to",
+    "summary": "Citrix has released security updates for a high-severity security flaw in NetScaler ADC and NetScaler Gateway that has been exploited as part of targeted zero-day attacks.\n\nThe vulnerability, tracked as CVE-2026-88779, carries a CVSS score of 8.7 out of 10.0.\n\n\"CVE-2026-88779 is a memory overflow vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway that can lead to",
     "analysis": {
       "issue": "Citrix patches CVE-2026-88779 after targeted zero-day attacks caused denial-of-service on SAML-enabled NetScaler deployments",
       "solution": null,
@@ -170,21 +190,40 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
-    "link": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
-    "published": "Sat, 03 Oct 2026 20:06:33 +0530",
-    "summary": "The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portuguese- and Spanish-speaking countries.\n\nThe activity, observed by the Symantec and Carbon Black Threat Hunter Team, has hit critical infrastructure, government, and education organizations.\n\n\"In the",
+    "source": "Bleeping Computer",
+    "title": "Rejetto HFS servers now actively scanned for critical RCE flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/",
+    "published": "Mon, 05 Oct 2026 16:20:05 -0400",
+    "summary": "Hackers are actively scanning for a Rejetto HFS weak signing key vulnerability, tracked as CVE-2026-61500, that allows session forgery, account takeover, and remote code execution (RCE). [...]",
     "analysis": {
-      "issue": "Warlock exploited SharePoint flaws in attacks on at least four organizations, including two critical infrastructure operators",
+      "issue": "Hackers are actively scanning for a Rejetto HFS weak signing key vulnerability, tracked as CVE-2026-61500, that allows session forgery, account takeover, and remote code execution (RCE)",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Critical",
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-61500"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "IQVIA fined $7.8 million for failing to properly anonymize health data",
+    "link": "https://www.bleepingcomputer.com/news/security/iqvia-fined-78-million-for-failing-to-properly-anonymize-health-data/",
+    "published": "Mon, 05 Oct 2026 13:19:53 -0400",
+    "summary": "Italy's Data Protection Authority (GPDP) has fined IQVIA €7 million ($7.8M) over poor data-processing practices that the agency says could have put roughly one million patients at risk of data exposure and de-anonymization. [...]",
+    "analysis": {
+      "issue": "Italy's Data Protection Authority (GPDP) has fined IQVIA €7 million ($7",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
+        "General Security"
       ]
     }
   },
@@ -220,10 +259,10 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-86361",
-        "CVE-2026-86362",
-        "CVE-2026-63697",
+        "CVE-2026-86360",
         "CVE-2026-71168",
-        "CVE-2026-86360"
+        "CVE-2026-86362",
+        "CVE-2026-63697"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -340,45 +379,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
-    "published": "Sun, 04 Oct 2026 17:58:01 -0400",
-    "summary": "Citrix has released emergency updates for a new NetScaler denial-of-service vulnerability tracked as CVE-2026-88779 that has been exploited in zero-day attacks, with researchers investigating whether it can also be exploited for remote code execution. [...]",
-    "analysis": {
-      "issue": "Citrix has released emergency updates for a new NetScaler denial-of-service vulnerability tracked as CVE-2026-88779 that has been exploited in zero-day attacks, with researchers investigating whether it can also be exploited for remote code execution",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-88779"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "DDoS"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Anthropic asks Claude users to share voice data for AI model training",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/",
-    "published": "Sun, 04 Oct 2026 06:53:21 -0400",
-    "summary": "Anthropic has started asking Claude users to voluntarily share their voice conversations to help train and improve its AI models. [...]",
-    "analysis": {
-      "issue": "Anthropic has started asking Claude users to voluntarily share their voice conversations to help train and improve its AI models",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
     "link": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
@@ -448,10 +448,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-81963",
-        "CVE-2026-85880",
         "CVE-2026-69730",
-        "CVE-2026-69829"
+        "CVE-2026-81963",
+        "CVE-2026-69829",
+        "CVE-2026-85880"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -528,9 +528,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-68820",
         "CVE-2026-72971",
-        "CVE-2026-62832"
+        "CVE-2026-62832",
+        "CVE-2026-68820"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -706,9 +706,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-88779",
         "CVE-2026-88771",
-        "CVE-2026-88772"
+        "CVE-2026-88772",
+        "CVE-2026-88779"
       ],
       "threat_categories": [
         "Vulnerability",

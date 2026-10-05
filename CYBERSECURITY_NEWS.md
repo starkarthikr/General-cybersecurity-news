@@ -1,10 +1,20 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-05 17:18:26 UTC
+**Last Updated:** 2026-10-05 20:26:35 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests](https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html)
+### 1. [Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes](https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 05 Oct 2026 21:51:52 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-96940  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests](https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 05 Oct 2026 19:50:43 +0530  
@@ -13,7 +23,7 @@
 
 ---
 
-### 2. [The Credential Layer Is Expanding Faster Than Security Teams Can See It](https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html)
+### 3. [The Credential Layer Is Expanding Faster Than Security Teams Can See It](https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 05 Oct 2026 17:25:00 +0530  
@@ -22,7 +32,7 @@
 
 ---
 
-### 3. [Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2](https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html)
+### 4. [Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2](https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 05 Oct 2026 17:16:25 +0530  
@@ -31,7 +41,7 @@
 
 ---
 
-### 4. [Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access](https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html)
+### 5. [Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access](https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 05 Oct 2026 16:08:50 +0530  
@@ -40,7 +50,7 @@
 
 ---
 
-### 5. [Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE](https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html)
+### 6. [Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE](https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 05 Oct 2026 13:39:23 +0530  
@@ -50,7 +60,7 @@
 
 ---
 
-### 6. [New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline](https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html)
+### 7. [New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline](https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 05 Oct 2026 12:10:19 +0530  
@@ -60,7 +70,7 @@
 
 ---
 
-### 7. [ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members](https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html)
+### 8. [ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members](https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 04 Oct 2026 12:52:05 +0530  
@@ -69,7 +79,7 @@
 
 ---
 
-### 8. [China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing](https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html)
+### 9. [China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing](https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 04 Oct 2026 12:50:32 +0530  
@@ -78,7 +88,7 @@
 
 ---
 
-### 9. [MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics](https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html)
+### 10. [MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics](https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 03 Oct 2026 20:08:46 +0530  
@@ -87,16 +97,26 @@
 
 ---
 
-### 10. [Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware](https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html)
+### 11. [Rejetto HFS servers now actively scanned for critical RCE flaw](https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/)
 
-**Source:** The Hacker News  
-**Published:** Sat, 03 Oct 2026 20:06:33 +0530  
-**Severity:** Critical  
-**Categories:** Ransomware, Vulnerability  
+**Source:** Bleeping Computer  
+**Published:** Mon, 05 Oct 2026 16:20:05 -0400  
+**Severity:** Low  
+**CVEs:** CVE-2026-61500  
+**Categories:** Vulnerability  
 
 ---
 
-### 11. [Denmark population registry data breach affects 8.8 million people](https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/)
+### 12. [IQVIA fined $7.8 million for failing to properly anonymize health data](https://www.bleepingcomputer.com/news/security/iqvia-fined-78-million-for-failing-to-properly-anonymize-health-data/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 05 Oct 2026 13:19:53 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 13. [Denmark population registry data breach affects 8.8 million people](https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 05 Oct 2026 11:21:10 -0400  
@@ -105,17 +125,17 @@
 
 ---
 
-### 12. [New Dell System Update flaw lets hackers gain root privileges](https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/)
+### 14. [New Dell System Update flaw lets hackers gain root privileges](https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 05 Oct 2026 10:53:06 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-86361, CVE-2026-86362, CVE-2026-63697, CVE-2026-71168, CVE-2026-86360  
+**CVEs:** CVE-2026-86361, CVE-2026-86360, CVE-2026-71168, CVE-2026-86362, CVE-2026-63697  
 **Categories:** Vulnerability  
 
 ---
 
-### 13. [South Korea probes bank breaches amid suspected AI-powered attacks](https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/)
+### 15. [South Korea probes bank breaches amid suspected AI-powered attacks](https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 05 Oct 2026 10:22:12 -0400  
@@ -124,7 +144,7 @@
 
 ---
 
-### 14. [tenfold CE: Our free Identity Governance tool just got 2 new features](https://www.bleepingcomputer.com/news/security/tenfold-ce-our-free-identity-governance-tool-just-got-2-new-features/)
+### 16. [tenfold CE: Our free Identity Governance tool just got 2 new features](https://www.bleepingcomputer.com/news/security/tenfold-ce-our-free-identity-governance-tool-just-got-2-new-features/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 05 Oct 2026 09:33:42 -0400  
@@ -133,7 +153,7 @@
 
 ---
 
-### 15. [Alleged dev of Ploutus ATM malware appears in US court after arrest](https://www.bleepingcomputer.com/news/security/suspected-dev-of-ploutus-atm-malware-appears-in-us-court-after-arrest/)
+### 17. [Alleged dev of Ploutus ATM malware appears in US court after arrest](https://www.bleepingcomputer.com/news/security/suspected-dev-of-ploutus-atm-malware-appears-in-us-court-after-arrest/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 05 Oct 2026 09:01:45 -0400  
@@ -142,7 +162,7 @@
 
 ---
 
-### 16. [OpenAI will show visual ads in ChatGPT while you generate images](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/)
+### 18. [OpenAI will show visual ads in ChatGPT while you generate images](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 05 Oct 2026 06:28:45 -0400  
@@ -151,7 +171,7 @@
 
 ---
 
-### 17. [Microsoft: Windows KB5124010 update crashes some games and apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-kb5124010-update-crashes-some-games-and-apps/)
+### 19. [Microsoft: Windows KB5124010 update crashes some games and apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-kb5124010-update-crashes-some-games-and-apps/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 05 Oct 2026 05:37:56 -0400  
@@ -160,31 +180,12 @@
 
 ---
 
-### 18. [Google halts open-source bug bounty program amid AI spam surge](https://www.bleepingcomputer.com/news/google/google-halts-open-source-bug-bounty-program-amid-ai-spam-surge/)
+### 20. [Google halts open-source bug bounty program amid AI spam surge](https://www.bleepingcomputer.com/news/google/google-halts-open-source-bug-bounty-program-amid-ai-spam-surge/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 05 Oct 2026 04:27:46 -0400  
 **Severity:** Critical  
 **Categories:** Vulnerability, Supply Chain  
-
----
-
-### 19. [Citrix patches NetScaler SAML zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Sun, 04 Oct 2026 17:58:01 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-88779  
-**Categories:** Vulnerability, DDoS  
-
----
-
-### 20. [Anthropic asks Claude users to share voice data for AI model training](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/)
-
-**Source:** Bleeping Computer  
-**Published:** Sun, 04 Oct 2026 06:53:21 -0400  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -220,7 +221,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81963, CVE-2026-85880, CVE-2026-69730, CVE-2026-69829  
+**CVEs:** CVE-2026-69730, CVE-2026-81963, CVE-2026-69829, CVE-2026-85880  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -257,7 +258,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-68820, CVE-2026-72971, CVE-2026-62832  
+**CVEs:** CVE-2026-72971, CVE-2026-62832, CVE-2026-68820  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -340,7 +341,7 @@
 **Source:** Security Week  
 **Published:** Mon, 05 Oct 2026 05:14:48 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-88779, CVE-2026-88771, CVE-2026-88772  
+**CVEs:** CVE-2026-88771, CVE-2026-88772, CVE-2026-88779  
 **Categories:** Vulnerability, Malware, DDoS  
 
 ---
