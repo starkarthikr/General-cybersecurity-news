@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-06 05:49:00 UTC
+**Last Updated:** 2026-10-06 06:43:07 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes](https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html)
+### 1. [Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account](https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 06 Oct 2026 11:30:30 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits](https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 06 Oct 2026 10:52:55 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 3. [Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes](https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 05 Oct 2026 21:51:52 +0530  
@@ -14,7 +32,7 @@
 
 ---
 
-### 2. [⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests](https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html)
+### 4. [⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests](https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 05 Oct 2026 19:50:43 +0530  
@@ -23,7 +41,7 @@
 
 ---
 
-### 3. [The Credential Layer Is Expanding Faster Than Security Teams Can See It](https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html)
+### 5. [The Credential Layer Is Expanding Faster Than Security Teams Can See It](https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 05 Oct 2026 17:25:00 +0530  
@@ -32,7 +50,7 @@
 
 ---
 
-### 4. [Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2](https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html)
+### 6. [Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2](https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 05 Oct 2026 17:16:25 +0530  
@@ -41,7 +59,7 @@
 
 ---
 
-### 5. [Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access](https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html)
+### 7. [Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access](https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 05 Oct 2026 16:08:50 +0530  
@@ -50,7 +68,7 @@
 
 ---
 
-### 6. [Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE](https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html)
+### 8. [Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE](https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 05 Oct 2026 13:39:23 +0530  
@@ -60,7 +78,7 @@
 
 ---
 
-### 7. [New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline](https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html)
+### 9. [New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline](https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 05 Oct 2026 12:10:19 +0530  
@@ -70,28 +88,10 @@
 
 ---
 
-### 8. [ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members](https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html)
+### 10. [ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members](https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 04 Oct 2026 12:52:05 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 9. [China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing](https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html)
-
-**Source:** The Hacker News  
-**Published:** Sun, 04 Oct 2026 12:50:32 +0530  
-**Severity:** Low  
-**Categories:** Phishing, APT  
-
----
-
-### 10. [MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics](https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html)
-
-**Source:** The Hacker News  
-**Published:** Sat, 03 Oct 2026 20:08:46 +0530  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -139,7 +139,7 @@
 **Source:** Bleeping Computer  
 **Published:** Mon, 05 Oct 2026 10:53:06 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-86360, CVE-2026-71168, CVE-2026-86361, CVE-2026-63697, CVE-2026-86362  
+**CVEs:** CVE-2026-71168, CVE-2026-63697, CVE-2026-86361, CVE-2026-86360, CVE-2026-86362  
 **Categories:** Vulnerability  
 
 ---
@@ -221,7 +221,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81963, CVE-2026-69730, CVE-2026-85880, CVE-2026-69829  
+**CVEs:** CVE-2026-69730, CVE-2026-81963, CVE-2026-69829, CVE-2026-85880  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -369,7 +369,7 @@
 **Source:** Security Week  
 **Published:** Sat, 03 Oct 2026 11:34:00 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-79901, CVE-2026-12627, CVE-2026-79898  
+**CVEs:** CVE-2026-79901, CVE-2026-79898, CVE-2026-12627  
 **Categories:** Vulnerability, APT  
 
 ---

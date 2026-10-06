@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account",
+    "link": "https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html",
+    "published": "Tue, 06 Oct 2026 11:30:30 +0530",
+    "summary": "Unauthorized parties have gained access to the names, addresses, and personal identification numbers of about 8.8 million people, living and dead, in Denmark's national population register, the country's digitalization ministry&nbsp;said on October 5.\n\nThey used a private Danish company's lawful right to look up records in the Central Person Register (CPR). The ministry has told people never to",
+    "analysis": {
+      "issue": "Denmark says unauthorized parties accessed names, addresses, and CPR numbers for about 8",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits",
+    "link": "https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html",
+    "published": "Tue, 06 Oct 2026 10:52:55 +0530",
+    "summary": "A new type of ClickFix attack is using compromised websites to trick users into executing a malicious payload cached in a web browser's cache.\n\n\"Instead of downloading and executing remote payloads like the typical attack pattern, in this attack, the websites pre-fetch a script payload into the browser cache disguised as a PNG file,\" the Microsoft Threat Intelligence team said in a post on X.",
+    "analysis": {
+      "issue": "Microsoft observed ClickFix attacks using browser cache smuggling to execute cached VBScript and launch a credential-targeting malware chain",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
     "link": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
     "published": "Mon, 05 Oct 2026 21:51:52 +0530",
@@ -153,43 +189,6 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing",
-    "link": "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html",
-    "published": "Sun, 04 Oct 2026 12:50:32 +0530",
-    "summary": "A new China-nexus cyber espionage group known as TA419 has been attributed to multiple credential phishing campaigns targeting artificial intelligence (AI) experts working for U.S. think tanks, universities, and legal sector organizations.\n\nThe campaigns have impersonated prominent economists and AI policymakers, as well as a prominent Anthropic employee, to single out an AI policy expert at a",
-    "analysis": {
-      "issue": "AI policy experts with reply-triggered AitM phishing that captures Microsoft credentials and session cookies",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics",
-    "link": "https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html",
-    "published": "Sat, 03 Oct 2026 20:08:46 +0530",
-    "summary": "The U.K.'s domestic intelligence and security agency has warned that more than 100 academics have helped China boost its intelligence gathering efforts on behalf of Beijing's state security service.\n\nIn a \"Security Service Espionage Alert\" issued on September 30, 2026, MI5 said the \"primary purpose of the China General Technology Research Institute (CGTRI) 中国通用技术研究院 is to fund research that",
-    "analysis": {
-      "issue": "-linked academics contributed to MSS-funded research via CGTRI, which it assesses as an MSS front",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
     "title": "OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/",
@@ -276,10 +275,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-86360",
         "CVE-2026-71168",
-        "CVE-2026-86361",
         "CVE-2026-63697",
+        "CVE-2026-86361",
+        "CVE-2026-86360",
         "CVE-2026-86362"
       ],
       "threat_categories": [
@@ -447,10 +446,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-81963",
         "CVE-2026-69730",
-        "CVE-2026-85880",
-        "CVE-2026-69829"
+        "CVE-2026-81963",
+        "CVE-2026-69829",
+        "CVE-2026-85880"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -767,8 +766,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-79901",
-        "CVE-2026-12627",
-        "CVE-2026-79898"
+        "CVE-2026-79898",
+        "CVE-2026-12627"
       ],
       "threat_categories": [
         "Vulnerability",
