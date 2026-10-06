@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-06 15:23:06 UTC
+**Last Updated:** 2026-10-06 18:10:39 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,26 @@
 
 ---
 
-### 11. [Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes](https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/)
+### 11. [Atlassian warns of critical file-access flaw in Jira, Confluence](https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 06 Oct 2026 13:34:59 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-21589  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [ASOS confirms data breach after “HACKED” in-app notifications](https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 06 Oct 2026 12:33:54 -0400  
+**Severity:** Low  
+**Categories:** Data Breach, Supply Chain  
+
+---
+
+### 13. [Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes](https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 06 Oct 2026 11:16:44 -0400  
@@ -104,17 +123,17 @@
 
 ---
 
-### 12. [How to secure RMM software: 8 controls MSPs should test](https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/)
+### 14. [How to secure RMM software: 8 controls MSPs should test](https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 06 Oct 2026 10:00:10 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-86218, CVE-2025-53770, CVE-2025-53771  
+**CVEs:** CVE-2025-53771, CVE-2026-86218, CVE-2025-53770  
 **Categories:** Ransomware, Vulnerability  
 
 ---
 
-### 13. [Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits](https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/)
+### 15. [Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits](https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 06 Oct 2026 07:31:48 -0400  
@@ -123,7 +142,7 @@
 
 ---
 
-### 14. [Nikkei discloses breaches of employees’ Microsoft, Google email accounts](https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/)
+### 16. [Nikkei discloses breaches of employees’ Microsoft, Google email accounts](https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 06 Oct 2026 05:25:50 -0400  
@@ -132,7 +151,7 @@
 
 ---
 
-### 15. [Engineer sentenced for locking over 3,000 devices on employer network](https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/)
+### 17. [Engineer sentenced for locking over 3,000 devices on employer network](https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 06 Oct 2026 04:19:24 -0400  
@@ -141,7 +160,7 @@
 
 ---
 
-### 16. [OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/)
+### 18. [OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 05 Oct 2026 18:46:33 -0400  
@@ -150,7 +169,7 @@
 
 ---
 
-### 17. [Rejetto HFS servers now actively scanned for critical RCE flaw](https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/)
+### 19. [Rejetto HFS servers now actively scanned for critical RCE flaw](https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 05 Oct 2026 16:20:05 -0400  
@@ -160,31 +179,12 @@
 
 ---
 
-### 18. [IQVIA fined $7.8 million for failing to properly anonymize health data](https://www.bleepingcomputer.com/news/security/iqvia-fined-78-million-for-failing-to-properly-anonymize-health-data/)
+### 20. [IQVIA fined $7.8 million for failing to properly anonymize health data](https://www.bleepingcomputer.com/news/security/iqvia-fined-78-million-for-failing-to-properly-anonymize-health-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 05 Oct 2026 13:19:53 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 19. [Denmark population registry data breach affects 8.8 million people](https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 05 Oct 2026 11:21:10 -0400  
-**Severity:** Low  
-**Categories:** Data Breach  
-
----
-
-### 20. [New Dell System Update flaw lets hackers gain root privileges](https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 05 Oct 2026 10:53:06 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-86362, CVE-2026-86360, CVE-2026-71168, CVE-2026-63697, CVE-2026-86361  
-**Categories:** Vulnerability  
 
 ---
 
@@ -220,7 +220,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69829, CVE-2026-81963, CVE-2026-69730, CVE-2026-85880  
+**CVEs:** CVE-2026-81963, CVE-2026-69829, CVE-2026-69730, CVE-2026-85880  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -257,7 +257,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62832, CVE-2026-72971, CVE-2026-68820  
+**CVEs:** CVE-2026-72971, CVE-2026-68820, CVE-2026-62832  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -630,7 +630,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

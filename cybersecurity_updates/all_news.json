@@ -185,6 +185,45 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Atlassian warns of critical file-access flaw in Jira, Confluence",
+    "link": "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/",
+    "published": "Tue, 06 Oct 2026 13:34:59 -0400",
+    "summary": "Atlassian is warning customers of a critical vulnerability, tracked as CVE-2026-21589, that can be exploited for arbitrary file-access in multiple self-hosted Data Center products, including Confluence, Jira, and Bitbucket. [...]",
+    "analysis": {
+      "issue": "Atlassian is warning customers of a critical vulnerability, tracked as CVE-2026-21589, that can be exploited for arbitrary file-access in multiple self-hosted Data Center products, including Confluence, Jira, and Bitbucket",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-21589"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "ASOS confirms data breach after “HACKED” in-app notifications",
+    "link": "https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/",
+    "published": "Tue, 06 Oct 2026 12:33:54 -0400",
+    "summary": "UK fashion retailer ASOS confirmed a data breach Tuesday after hackers sent unauthorized push notifications through its mobile app while claiming to have stolen customer data from the company's Snowflake environment. [...]",
+    "analysis": {
+      "issue": "UK fashion retailer ASOS confirmed a data breach Tuesday after hackers sent unauthorized push notifications through its mobile app while claiming to have stolen customer data from the company's Snowflake environment",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes",
     "link": "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/",
     "published": "Tue, 06 Oct 2026 11:16:44 -0400",
@@ -214,9 +253,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2025-53771",
         "CVE-2026-86218",
-        "CVE-2025-53770",
-        "CVE-2025-53771"
+        "CVE-2025-53770"
       ],
       "threat_categories": [
         "Ransomware",
@@ -335,48 +374,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Denmark population registry data breach affects 8.8 million people",
-    "link": "https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/",
-    "published": "Mon, 05 Oct 2026 11:21:10 -0400",
-    "summary": "Denmark's Central Population Register (CPR) is warning of a data breach that exposed the personal information of approximately 8.8 million registered individuals. [...]",
-    "analysis": {
-      "issue": "Denmark's Central Population Register (CPR) is warning of a data breach that exposed the personal information of approximately 8",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New Dell System Update flaw lets hackers gain root privileges",
-    "link": "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/",
-    "published": "Mon, 05 Oct 2026 10:53:06 -0400",
-    "summary": "Dell warned customers to patch a critical vulnerability in the System Update (DSU) command-line interface (CLI) deployment tool as soon as possible. [...]",
-    "analysis": {
-      "issue": "Dell warned customers to patch a critical vulnerability in the System Update (DSU) command-line interface (CLI) deployment tool as soon as possible",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-86362",
-        "CVE-2026-86360",
-        "CVE-2026-71168",
-        "CVE-2026-63697",
-        "CVE-2026-86361"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
     "link": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
@@ -446,8 +443,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69829",
         "CVE-2026-81963",
+        "CVE-2026-69829",
         "CVE-2026-69730",
         "CVE-2026-85880"
       ],
@@ -526,9 +523,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-62832",
         "CVE-2026-72971",
-        "CVE-2026-68820"
+        "CVE-2026-68820",
+        "CVE-2026-62832"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1305,8 +1302,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
