@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-06 18:10:39 UTC
+**Last Updated:** 2026-10-06 21:07:22 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings](https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html)
+### 1. [Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes](https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 07 Oct 2026 00:08:55 +0530  
+**Severity:** Low  
+**Categories:** Phishing, APT  
+
+---
+
+### 2. [Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan](https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 06 Oct 2026 23:54:25 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 3. [LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings](https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 06 Oct 2026 17:27:00 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies](https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html)
+### 4. [Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies](https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 06 Oct 2026 16:56:25 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers](https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html)
+### 5. [Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers](https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 06 Oct 2026 16:32:30 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports](https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html)
+### 6. [Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports](https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 06 Oct 2026 14:51:47 +0530  
@@ -40,7 +58,7 @@
 
 ---
 
-### 5. [Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products](https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html)
+### 7. [Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products](https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 06 Oct 2026 12:28:56 +0530  
@@ -49,7 +67,7 @@
 
 ---
 
-### 6. [FBI Removes Accenture Contractor After Patch Failure Led to ShinyHunters Breach](https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html)
+### 8. [FBI Removes Accenture Contractor After Patch Failure Led to ShinyHunters Breach](https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 06 Oct 2026 12:26:57 +0530  
@@ -58,7 +76,7 @@
 
 ---
 
-### 7. [Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account](https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html)
+### 9. [Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account](https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 06 Oct 2026 11:30:30 +0530  
@@ -67,7 +85,7 @@
 
 ---
 
-### 8. [ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits](https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html)
+### 10. [ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits](https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 06 Oct 2026 10:52:55 +0530  
@@ -76,26 +94,26 @@
 
 ---
 
-### 9. [Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes](https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html)
+### 11. [Ninja Forms plugin flaw exploited to hack WordPress sites](https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/)
 
-**Source:** The Hacker News  
-**Published:** Mon, 05 Oct 2026 21:51:52 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-96940  
+**Source:** Bleeping Computer  
+**Published:** Tue, 06 Oct 2026 17:00:27 -0400  
+**Severity:** High  
+**CVEs:** CVE-2026-93836, CVE-2026-94504  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 12. [Hackers exploit 32 zero-days on first day of Pwn2Own Ireland](https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 06 Oct 2026 15:21:53 -0400  
+**Severity:** Critical  
 **Categories:** Vulnerability  
 
 ---
 
-### 10. [⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests](https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 05 Oct 2026 19:50:43 +0530  
-**Severity:** Critical  
-**Categories:** Ransomware, Vulnerability, Phishing  
-
----
-
-### 11. [Atlassian warns of critical file-access flaw in Jira, Confluence](https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/)
+### 13. [Atlassian warns of critical file-access flaw in Jira, Confluence](https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 06 Oct 2026 13:34:59 -0400  
@@ -105,7 +123,7 @@
 
 ---
 
-### 12. [ASOS confirms data breach after “HACKED” in-app notifications](https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/)
+### 14. [ASOS confirms data breach after “HACKED” in-app notifications](https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 06 Oct 2026 12:33:54 -0400  
@@ -114,7 +132,7 @@
 
 ---
 
-### 13. [Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes](https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/)
+### 15. [Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes](https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 06 Oct 2026 11:16:44 -0400  
@@ -123,17 +141,17 @@
 
 ---
 
-### 14. [How to secure RMM software: 8 controls MSPs should test](https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/)
+### 16. [How to secure RMM software: 8 controls MSPs should test](https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 06 Oct 2026 10:00:10 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2025-53771, CVE-2026-86218, CVE-2025-53770  
+**CVEs:** CVE-2026-86218, CVE-2025-53771, CVE-2025-53770  
 **Categories:** Ransomware, Vulnerability  
 
 ---
 
-### 15. [Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits](https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/)
+### 17. [Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits](https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 06 Oct 2026 07:31:48 -0400  
@@ -142,7 +160,7 @@
 
 ---
 
-### 16. [Nikkei discloses breaches of employees’ Microsoft, Google email accounts](https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/)
+### 18. [Nikkei discloses breaches of employees’ Microsoft, Google email accounts](https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 06 Oct 2026 05:25:50 -0400  
@@ -151,7 +169,7 @@
 
 ---
 
-### 17. [Engineer sentenced for locking over 3,000 devices on employer network](https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/)
+### 19. [Engineer sentenced for locking over 3,000 devices on employer network](https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 06 Oct 2026 04:19:24 -0400  
@@ -160,29 +178,10 @@
 
 ---
 
-### 18. [OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/)
+### 20. [OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 05 Oct 2026 18:46:33 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 19. [Rejetto HFS servers now actively scanned for critical RCE flaw](https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 05 Oct 2026 16:20:05 -0400  
-**Severity:** Low  
-**CVEs:** CVE-2026-61500  
-**Categories:** Vulnerability  
-
----
-
-### 20. [IQVIA fined $7.8 million for failing to properly anonymize health data](https://www.bleepingcomputer.com/news/security/iqvia-fined-78-million-for-failing-to-properly-anonymize-health-data/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 05 Oct 2026 13:19:53 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -257,7 +256,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-72971, CVE-2026-68820, CVE-2026-62832  
+**CVEs:** CVE-2026-72971, CVE-2026-62832, CVE-2026-68820  
 **Categories:** Vulnerability, Malware  
 
 ---

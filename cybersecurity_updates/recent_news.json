@@ -1,6 +1,43 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
+    "link": "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html",
+    "published": "Wed, 07 Oct 2026 00:08:55 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a \"human-operated phishing platform\" that impersonates advertising products for artificial intelligence (AI) chatbots like Google Gemini, Anthropic Claude, OpenAI ChatGPT, Perplexity, Meta Muse, and Manus.\n\nThe products, which claim to offer campaign optimization, spend audits, and business-account connections, are designed with one goal in",
+    "analysis": {
+      "issue": "A human-operated phishing platform impersonates AI ad tools to capture credentials and MFA codes through browser-in-the-browser login windows",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan",
+    "link": "https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html",
+    "published": "Tue, 06 Oct 2026 23:54:25 +0530",
+    "summary": "Linux backdoors targeting telecom and network appliances in South Korea and Taiwan have been disguising their traffic as email services and seemingly legitimate processes to blend in and evade detection.\n\nThreat actors are known to name their malicious software after a legitimate operating system component or a process as a defense evasion measure. By borrowing the name of a real binary, it may",
+    "analysis": {
+      "issue": "Linux backdoors targeting South Korea and Taiwan disguise processes and traffic as trusted email services to evade detection",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings",
     "link": "https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html",
     "published": "Tue, 06 Oct 2026 17:27:00 +0530",
@@ -144,42 +181,42 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
-    "link": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
-    "published": "Mon, 05 Oct 2026 21:51:52 +0530",
-    "summary": "Microsoft has released out-of-band security updates to address a high-severity flaw in Microsoft Exchange Server that could allow an attacker to escalate privileges under certain conditions.\n\nThe vulnerability, tracked as CVE-2026-96940, is rated 8.8 on the CVSS scoring system.\n\n\"Weak authorization in Microsoft Exchange Server allows an authenticated attacker to elevate privileges over a",
+    "source": "Bleeping Computer",
+    "title": "Ninja Forms plugin flaw exploited to hack WordPress sites",
+    "link": "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/",
+    "published": "Tue, 06 Oct 2026 17:00:27 -0400",
+    "summary": "Hackers are exploiting stored cross-site scripting (XSS) vulnerabilities in two unrelated WordPress plugins, Ninja Forms and WPC Product Bundles for WooCommerce, to install backdoors and create rogue admin accounts. [...]",
     "analysis": {
-      "issue": "Microsoft patches CVE-2026-96940, which lets authenticated attackers read other users' Exchange mailboxes within the same organization",
+      "issue": "Hackers are exploiting stored cross-site scripting (XSS) vulnerabilities in two unrelated WordPress plugins, Ninja Forms and WPC Product Bundles for WooCommerce, to install backdoors and create rogue admin accounts",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [
-        "CVE-2026-96940"
+        "CVE-2026-93836",
+        "CVE-2026-94504"
       ],
       "threat_categories": [
-        "Vulnerability"
+        "Vulnerability",
+        "Malware"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests",
-    "link": "https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html",
-    "published": "Mon, 05 Oct 2026 19:50:43 +0530",
-    "summary": "A blank field. A public repo. One reply to an email. A box left exposed. None of this sounds dramatic, which is partly the problem. This week’s threats keep finding leverage in small things that were easy to overlook.\n\nThere are actively exploited bugs in the mix, cleaner intrusion paths, smarter automation, and a long patch list waiting behind them. Some attacks are getting more capable. Others",
+    "source": "Bleeping Computer",
+    "title": "Hackers exploit 32 zero-days on first day of Pwn2Own Ireland",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/",
+    "published": "Tue, 06 Oct 2026 15:21:53 -0400",
+    "summary": "On the first day of the Pwn2Own Ireland 2026 competition, security researchers hacked the Samsung Galaxy S26 twice and earned $388,500 after exploiting 32 zero-days. [...]",
     "analysis": {
-      "issue": "Catch up on this week’s biggest cyber threats, including exploited zero-days, AI-related data leaks, Spectre attacks, phishing tricks, and ransomware",
+      "issue": "On the first day of the Pwn2Own Ireland 2026 competition, security researchers hacked the Samsung Galaxy S26 twice and earned $388,500 after exploiting 32 zero-days",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Phishing"
+        "Vulnerability"
       ]
     }
   },
@@ -253,8 +290,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-53771",
         "CVE-2026-86218",
+        "CVE-2025-53771",
         "CVE-2025-53770"
       ],
       "threat_categories": [
@@ -325,44 +362,6 @@
     "summary": "OpenAI is preparing to add invisible watermarks to text generated by ChatGPT and Codex in the European Union. [...]",
     "analysis": {
       "issue": "OpenAI is preparing to add invisible watermarks to text generated by ChatGPT and Codex in the European Union",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Rejetto HFS servers now actively scanned for critical RCE flaw",
-    "link": "https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/",
-    "published": "Mon, 05 Oct 2026 16:20:05 -0400",
-    "summary": "Hackers are actively scanning for a Rejetto HFS weak signing key vulnerability, tracked as CVE-2026-61500, that allows session forgery, account takeover, and remote code execution (RCE). [...]",
-    "analysis": {
-      "issue": "Hackers are actively scanning for a Rejetto HFS weak signing key vulnerability, tracked as CVE-2026-61500, that allows session forgery, account takeover, and remote code execution (RCE)",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-61500"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "IQVIA fined $7.8 million for failing to properly anonymize health data",
-    "link": "https://www.bleepingcomputer.com/news/security/iqvia-fined-78-million-for-failing-to-properly-anonymize-health-data/",
-    "published": "Mon, 05 Oct 2026 13:19:53 -0400",
-    "summary": "Italy's Data Protection Authority (GPDP) has fined IQVIA €7 million ($7.8M) over poor data-processing practices that the agency says could have put roughly one million patients at risk of data exposure and de-anonymization. [...]",
-    "analysis": {
-      "issue": "Italy's Data Protection Authority (GPDP) has fined IQVIA €7 million ($7",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -524,8 +523,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-72971",
-        "CVE-2026-68820",
-        "CVE-2026-62832"
+        "CVE-2026-62832",
+        "CVE-2026-68820"
       ],
       "threat_categories": [
         "Vulnerability",
