@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-06 21:07:22 UTC
+**Last Updated:** 2026-10-07 05:21:12 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -219,7 +219,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81963, CVE-2026-69829, CVE-2026-69730, CVE-2026-85880  
+**CVEs:** CVE-2026-85880, CVE-2026-69829, CVE-2026-81963, CVE-2026-69730  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -256,7 +256,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-72971, CVE-2026-62832, CVE-2026-68820  
+**CVEs:** CVE-2026-62832, CVE-2026-72971, CVE-2026-68820  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -279,7 +279,16 @@
 
 ---
 
-### 31. [FBI Blames Contractor’s Missed Patch for ShinyHunters Breach](https://www.securityweek.com/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/)
+### 31. [Personal Information for Over 1 Million People Stolen in a Cyberattack on Arizona’s Court System](https://www.securityweek.com/personal-information-for-over-1-million-people-stolen-in-a-cyberattack-on-arizonas-court-system/)
+
+**Source:** Security Week  
+**Published:** Wed, 07 Oct 2026 01:32:58 +0000  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 32. [FBI Blames Contractor’s Missed Patch for ShinyHunters Breach](https://www.securityweek.com/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/)
 
 **Source:** Security Week  
 **Published:** Tue, 06 Oct 2026 14:15:00 +0000  
@@ -288,7 +297,7 @@
 
 ---
 
-### 32. [FBI Arrests ‘Most Wanted’ Developer of Ploutus ATM Malware](https://www.securityweek.com/fbi-arrests-most-wanted-developer-of-ploutus-atm-malware/)
+### 33. [FBI Arrests ‘Most Wanted’ Developer of Ploutus ATM Malware](https://www.securityweek.com/fbi-arrests-most-wanted-developer-of-ploutus-atm-malware/)
 
 **Source:** Security Week  
 **Published:** Tue, 06 Oct 2026 12:47:57 +0000  
@@ -297,7 +306,7 @@
 
 ---
 
-### 33. [Apple to Tighten Full Disk Access Controls in macOS Amid AI Risks](https://www.securityweek.com/apple-to-tighten-full-disk-access-controls-in-macos-amid-ai-risks/)
+### 34. [Apple to Tighten Full Disk Access Controls in macOS Amid AI Risks](https://www.securityweek.com/apple-to-tighten-full-disk-access-controls-in-macos-amid-ai-risks/)
 
 **Source:** Security Week  
 **Published:** Tue, 06 Oct 2026 11:48:59 +0000  
@@ -306,7 +315,7 @@
 
 ---
 
-### 34. [Cybersecurity M&A Roundup: 39 Deals Announced in September 2026](https://www.securityweek.com/cybersecurity-ma-roundup-39-deals-announced-in-september-2026/)
+### 35. [Cybersecurity M&A Roundup: 39 Deals Announced in September 2026](https://www.securityweek.com/cybersecurity-ma-roundup-39-deals-announced-in-september-2026/)
 
 **Source:** Security Week  
 **Published:** Tue, 06 Oct 2026 11:01:35 +0000  
@@ -315,7 +324,7 @@
 
 ---
 
-### 35. [Long-Running NPM Malware Campaign Accumulates 40,000 Downloads](https://www.securityweek.com/long-running-npm-malware-campaign-accumulates-40000-downloads/)
+### 36. [Long-Running NPM Malware Campaign Accumulates 40,000 Downloads](https://www.securityweek.com/long-running-npm-malware-campaign-accumulates-40000-downloads/)
 
 **Source:** Security Week  
 **Published:** Tue, 06 Oct 2026 10:34:25 +0000  
@@ -324,7 +333,7 @@
 
 ---
 
-### 36. [8.8 Million Impacted by Data Breach at Denmark’s Central Person Register](https://www.securityweek.com/8-8-million-impacted-by-data-breach-at-denmarks-central-person-register/)
+### 37. [8.8 Million Impacted by Data Breach at Denmark’s Central Person Register](https://www.securityweek.com/8-8-million-impacted-by-data-breach-at-denmarks-central-person-register/)
 
 **Source:** Security Week  
 **Published:** Tue, 06 Oct 2026 09:38:30 +0000  
@@ -333,7 +342,7 @@
 
 ---
 
-### 37. [Social Engineering Detection Moves Into the Live Conversation](https://www.securityweek.com/social-engineering-detection-moves-into-the-live-conversation/)
+### 38. [Social Engineering Detection Moves Into the Live Conversation](https://www.securityweek.com/social-engineering-detection-moves-into-the-live-conversation/)
 
 **Source:** Security Week  
 **Published:** Tue, 06 Oct 2026 08:38:14 +0000  
@@ -342,7 +351,7 @@
 
 ---
 
-### 38. [Google Narrows Open Source Bug Bounty Amid Wave of Invalid Automated Reports](https://www.securityweek.com/google-narrows-open-source-bug-bounty-amid-wave-of-invalid-automated-reports/)
+### 39. [Google Narrows Open Source Bug Bounty Amid Wave of Invalid Automated Reports](https://www.securityweek.com/google-narrows-open-source-bug-bounty-amid-wave-of-invalid-automated-reports/)
 
 **Source:** Security Week  
 **Published:** Mon, 05 Oct 2026 14:26:00 +0000  
@@ -351,21 +360,12 @@
 
 ---
 
-### 39. [Linux Backdoor Abuses STUN Protocol, Exploits Dozens of Flaws](https://www.securityweek.com/linux-backdoor-abuses-stun-protocol-exploits-dozens-of-flaws/)
+### 40. [Linux Backdoor Abuses STUN Protocol, Exploits Dozens of Flaws](https://www.securityweek.com/linux-backdoor-abuses-stun-protocol-exploits-dozens-of-flaws/)
 
 **Source:** Security Week  
 **Published:** Mon, 05 Oct 2026 13:00:00 +0000  
 **Severity:** Low  
 **Categories:** Vulnerability, Malware, APT, Supply Chain  
-
----
-
-### 40. [250,000 Impacted by Data Breaches at New Jersey, Texas Healthcare Firms](https://www.securityweek.com/250000-impacted-by-data-breaches-at-new-jersey-texas-healthcare-firms/)
-
-**Source:** Security Week  
-**Published:** Mon, 05 Oct 2026 12:35:15 +0000  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach  
 
 ---
 
@@ -734,7 +734,16 @@
 
 ---
 
-### 81. [Falcon Data Security for SaaS Secures Sensitive Data in Microsoft 365](https://www.crowdstrike.com/en-us/blog/falcon-data-security-for-saas-secures-sensitive-data/)
+### 81. [Request, Aggregate, Bypass: How Attackers Can Evade LLM Safety Classifiers](https://www.crowdstrike.com/en-us/blog/how-attackers-can-bypass-llm-safety-classifiers/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Oct 06, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 82. [Falcon Data Security for SaaS Secures Sensitive Data in Microsoft 365](https://www.crowdstrike.com/en-us/blog/falcon-data-security-for-saas-secures-sensitive-data/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 05, 2026 00:00:00-0500  
@@ -743,7 +752,7 @@
 
 ---
 
-### 82. [New in Falcon Cloud Security: Third-Party App Insights and AI-Enhanced Remediation](https://www.crowdstrike.com/en-us/blog/falcon-cloud-security-third-party-app-insights-ai-enhanced-remedation/)
+### 83. [New in Falcon Cloud Security: Third-Party App Insights and AI-Enhanced Remediation](https://www.crowdstrike.com/en-us/blog/falcon-cloud-security-third-party-app-insights-ai-enhanced-remedation/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 05, 2026 00:00:00-0500  
@@ -752,7 +761,7 @@
 
 ---
 
-### 83. [CrowdStrike Expands Federal SOC Modernization Through CISA-Funded SIEMaaS](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-federal-soc-modernization-via-cisa-siemaas/)
+### 84. [CrowdStrike Expands Federal SOC Modernization Through CISA-Funded SIEMaaS](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-federal-soc-modernization-via-cisa-siemaas/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 01, 2026 00:00:00-0500  
@@ -761,7 +770,7 @@
 
 ---
 
-### 84. [Copy, Paste, Compromised: How ClickFix Attacks Work and How CrowdStrike Stops Them](https://www.crowdstrike.com/en-us/blog/how-clickfix-attacks-work-and-how-to-stop-them/)
+### 85. [Copy, Paste, Compromised: How ClickFix Attacks Work and How CrowdStrike Stops Them](https://www.crowdstrike.com/en-us/blog/how-clickfix-attacks-work-and-how-to-stop-them/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 29, 2026 00:00:00-0500  
@@ -770,7 +779,7 @@
 
 ---
 
-### 85. [A Win for Defenders: CrowdStrike and NVIDIA Extend Security Across the AI Stack](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-extend-security-across-ai-stack/)
+### 86. [A Win for Defenders: CrowdStrike and NVIDIA Extend Security Across the AI Stack](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-extend-security-across-ai-stack/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 28, 2026 00:00:00-0400  
@@ -779,7 +788,7 @@
 
 ---
 
-### 86. [CrowdStrike Named a Leader in The Forrester Wave&trade;: Proactive Security Platforms, Q3 2026](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-proactive-security-platforms-q3-2026/)
+### 87. [CrowdStrike Named a Leader in The Forrester Wave&trade;: Proactive Security Platforms, Q3 2026](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-proactive-security-platforms-q3-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 24, 2026 00:00:00-0500  
@@ -788,7 +797,7 @@
 
 ---
 
-### 87. [CrowdStrike Named a Leader in The Forrester Wave&trade;: External Threat Intelligence Service Providers, Q3 2026](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-external-threat-intelligence-q3-2026/)
+### 88. [CrowdStrike Named a Leader in The Forrester Wave&trade;: External Threat Intelligence Service Providers, Q3 2026](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-external-threat-intelligence-q3-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 17, 2026 00:00:00-0500  
@@ -797,7 +806,7 @@
 
 ---
 
-### 88. [CrowdStrike SafeMind: When the Best Offense Builds the Best Defense](https://www.crowdstrike.com/en-us/blog/crowdstrike-safemind-best-offense-builds-best-defense/)
+### 89. [CrowdStrike SafeMind: When the Best Offense Builds the Best Defense](https://www.crowdstrike.com/en-us/blog/crowdstrike-safemind-best-offense-builds-best-defense/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 17, 2026 00:00:00-0500  
@@ -806,19 +815,10 @@
 
 ---
 
-### 89. [CrowdStrike Accelerates Real-Time Data Classification with On-Device AI](https://www.crowdstrike.com/en-us/blog/crowdstrike-accelerates-real-time-data-classification-with-on-device-ai/)
+### 90. [CrowdStrike Accelerates Real-Time Data Classification with On-Device AI](https://www.crowdstrike.com/en-us/blog/crowdstrike-accelerates-real-time-data-classification-with-on-device-ai/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 16, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 90. [PhantomRaven: An LLM-Generated Information Stealer Developed for Bug Bounty Hunting](https://www.crowdstrike.com/en-us/blog/phantomraven-llm-generated-information-stealer-for-bug-bounty-hunting/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Sep 15, 2026 00:00:00-0500  
 **Severity:** Low  
 **Categories:** General Security  
 

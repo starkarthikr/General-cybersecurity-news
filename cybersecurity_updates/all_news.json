@@ -442,10 +442,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-81963",
+        "CVE-2026-85880",
         "CVE-2026-69829",
-        "CVE-2026-69730",
-        "CVE-2026-85880"
+        "CVE-2026-81963",
+        "CVE-2026-69730"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -522,8 +522,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-72971",
         "CVE-2026-62832",
+        "CVE-2026-72971",
         "CVE-2026-68820"
       ],
       "threat_categories": [
@@ -567,6 +567,24 @@
       "cves": [],
       "threat_categories": [
         "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Personal Information for Over 1 Million People Stolen in a Cyberattack on Arizona’s Court System",
+    "link": "https://www.securityweek.com/personal-information-for-over-1-million-people-stolen-in-a-cyberattack-on-arizonas-court-system/",
+    "published": "Wed, 07 Oct 2026 01:32:58 +0000",
+    "summary": "<p>The Arizona Supreme Court said the information was copied for people dating back as far as 30 years.</p>\n<p>The post <a href=\"https://www.securityweek.com/personal-information-for-over-1-million-people-stolen-in-a-cyberattack-on-arizonas-court-system/\">Personal Information for Over 1 Million People Stolen in a Cyberattack on Arizona’s Court System</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The Arizona Supreme Court said the information was copied for people dating back as far as 30 years",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -743,25 +761,6 @@
         "Malware",
         "APT",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "250,000 Impacted by Data Breaches at New Jersey, Texas Healthcare Firms",
-    "link": "https://www.securityweek.com/250000-impacted-by-data-breaches-at-new-jersey-texas-healthcare-firms/",
-    "published": "Mon, 05 Oct 2026 12:35:15 +0000",
-    "summary": "<p>Hackers stole patient information from Clover Health Investments and AngMar Management Services in July.</p>\n<p>The post <a href=\"https://www.securityweek.com/250000-impacted-by-data-breaches-at-new-jersey-texas-healthcare-firms/\">250,000 Impacted by Data Breaches at New Jersey, Texas Healthcare Firms</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Hackers stole patient information from Clover Health Investments and AngMar Management Services in July",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach"
       ]
     }
   },
@@ -1518,6 +1517,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "Request, Aggregate, Bypass: How Attackers Can Evade LLM Safety Classifiers",
+    "link": "https://www.crowdstrike.com/en-us/blog/how-attackers-can-bypass-llm-safety-classifiers/",
+    "published": "Oct 06, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "The CrowdStrike Cyber Superintelligence Lab evaluated the most advanced publicly deployed content safety classifier and found it can be systematically circumvented",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "Falcon Data Security for SaaS Secures Sensitive Data in Microsoft 365",
     "link": "https://www.crowdstrike.com/en-us/blog/falcon-data-security-for-saas-secures-sensitive-data/",
     "published": "Oct 05, 2026 00:00:00-0500",
@@ -1668,24 +1685,6 @@
     "summary": "",
     "analysis": {
       "issue": "CrowdStrike worked closely with Intel to introduce a new capability in Falcon Data Security that classifies sensitive data using language models that run on-device using dedicated hardware for AI",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "PhantomRaven: An LLM-Generated Information Stealer Developed for Bug Bounty Hunting",
-    "link": "https://www.crowdstrike.com/en-us/blog/phantomraven-llm-generated-information-stealer-for-bug-bounty-hunting/",
-    "published": "Sep 15, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "CrowdStrike identified a financially motivated threat actor who works as a bug bounty hunter and who developed and distributed the JavaScript-based information stealer PhantomRaven",
       "solution": null,
       "cause": null,
       "timeline": null,
