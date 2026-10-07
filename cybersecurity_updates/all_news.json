@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains",
+    "link": "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html",
+    "published": "Thu, 08 Oct 2026 00:18:17 +0530",
+    "summary": "Attackers compromised three country-code top-level domains (ccTLDs) and obtained unauthorized HTTPS certificates for several Google domains, Google&nbsp;said on October 6.\n\nGoogle's own systems were not breached, but any domain ending in .gh (Ghana), .sl (Sierra Leone) or .as (American Samoa) was put at risk. With such a certificate, an attacker could pose as the real site over an encrypted",
+    "analysis": {
+      "issue": "as registries and obtained 12 unauthorized certificates for Google and YouTube domains",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer",
     "link": "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html",
     "published": "Wed, 07 Oct 2026 23:13:20 +0530",
@@ -164,20 +182,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "100+ Compromised Websites Use Fake Cloudflare Checks to Deliver LunexStealer",
-    "link": "https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html",
-    "published": "Wed, 07 Oct 2026 12:27:54 +0530",
-    "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has identified more than 100 compromised websites that have been injected with malicious JavaScript to serve an information-stealing malware called LunexStealer (aka Psychedelic Stealer).\n\nThe activity, which was observed by the agency in September 2026, has been attributed to a threat cluster dubbed UAC-0277. It did not disclose who the",
+    "source": "Bleeping Computer",
+    "title": "Hackers hijack Google domains after breaching ccTLD registries",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/",
+    "published": "Wed, 07 Oct 2026 16:50:13 -0400",
+    "summary": "Hackers obtained unauthorized HTTPS certificates for several Google domains and hijacked domains in the country-code top-level domains (ccTLDs) for Ghana, American Samoa, and Sierra Leone after compromising third-party operators and modifying authoritative DNS records. [...]",
     "analysis": {
-      "issue": "CERT-UA found 100+ compromised sites using ClickFix lures to distribute LunexStealer to Windows search visitors",
+      "issue": "Hackers obtained unauthorized HTTPS certificates for several Google domains and hijacked domains in the country-code top-level domains (ccTLDs) for Ghana, American Samoa, and Sierra Leone after compromising third-party operators and modifying authori",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Supply Chain"
       ]
     }
   },
@@ -326,8 +344,8 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-94504",
-        "CVE-2026-93836"
+        "CVE-2026-93836",
+        "CVE-2026-94504"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -348,26 +366,6 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Atlassian warns of critical file-access flaw in Jira, Confluence",
-    "link": "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/",
-    "published": "Tue, 06 Oct 2026 13:34:59 -0400",
-    "summary": "Atlassian is warning customers of a critical vulnerability, tracked as CVE-2026-21589, that can be exploited for arbitrary file-access in multiple self-hosted Data Center products, including Confluence, Jira, and Bitbucket. [...]",
-    "analysis": {
-      "issue": "Atlassian is warning customers of a critical vulnerability, tracked as CVE-2026-21589, that can be exploited for arbitrary file-access in multiple self-hosted Data Center products, including Confluence, Jira, and Bitbucket",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-21589"
-      ],
       "threat_categories": [
         "Vulnerability"
       ]
@@ -465,9 +463,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-69829",
-        "CVE-2026-85880",
+        "CVE-2026-69730",
         "CVE-2026-81963",
-        "CVE-2026-69730"
+        "CVE-2026-85880"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -544,9 +542,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-62832",
         "CVE-2026-72971",
-        "CVE-2026-68820"
+        "CVE-2026-68820",
+        "CVE-2026-62832"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -665,10 +663,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-106197",
-        "CVE-2026-106382",
+        "CVE-2026-106347",
         "CVE-2026-106358",
-        "CVE-2026-106347"
+        "CVE-2026-106197",
+        "CVE-2026-106382"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -770,6 +768,30 @@
         "Ransomware",
         "Vulnerability",
         "APT"
+      ]
+    }
+  },
+  {
+    "source": "Talos Blog",
+    "title": "Microsoft, Adobe, Apple, and Foxit vulnerabilities",
+    "link": "https://blog.talosintelligence.com/microsoft-adobe-apple-and-foxit-vulnerabilities/",
+    "published": "Wed, 07 Oct 2026 19:27:08 GMT",
+    "summary": "<p>Cisco Talos&#x2019; Vulnerability Discovery &amp; Research team recently disclosed vulnerabilities in Adobe, Apple, Foxit Reader, and Microsoft.</p><p>The vulnerabilities mentioned in this blog post have been patched by their respective vendors, in adherence to<a href=\"https://sec.cloudapps.cisco.com/security/center/resources/vendor_vulnerability_policy.html\"><u> Cisco&#x2019;s third-party vulnerability disclosure policy</u></a>.&#xa0;</p><p>For Snort coverage that can detect</p>",
+    "analysis": {
+      "issue": "Cisco Talos’ Vulnerability Discovery & Research team recently disclosed vulnerabilities in Adobe, Apple, Foxit Reader, and Microsoft",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-50475",
+        "CVE-2026-91799",
+        "CVE-2026-57256",
+        "CVE-2026-48388"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
       ]
     }
   },
@@ -941,24 +963,6 @@
       "threat_categories": [
         "Ransomware",
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "Ransomware incidents in Japan in the first half of 2026: Investigation of The Gentlemen’s infrastructure and evidence of Qilin's AI use",
-    "link": "https://blog.talosintelligence.com/ransomware-incidents-in-japan-in-the-first-half-of-2026/",
-    "published": "Thu, 17 Sep 2026 10:00:43 GMT",
-    "summary": "Ransomware incidents in Japan rose 4.7% year over year. The Gentlemen was the most active group, with leak-site listings more than doubling from January to July. Qilin ranked second and appeared to use AI, while SMEs with capital under JPY 1 billion represented 80% of victims.",
-    "analysis": {
-      "issue": "Figure 1 summarizes ransomware incidents affecting Japanese companies  from January to July 2026",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
       ]
     }
   },
@@ -1311,8 +1315,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1527,42 +1531,6 @@
   },
   {
     "source": "Crowdstrike Blog",
-    "title": "Unknown Threat Actor Uses AI-Driven ARTEX to Target South Korean Finance",
-    "link": "https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/",
-    "published": "Oct 07, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "CrowdStrike Intelligence identified infrastructure associated with a targeted campaign against South Korean financial institutions that resulted in exfiltrated data",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Modern Endpoint Security for Enterprises Vendor Assessment",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-modern-endpoint-security-for-enterprises/",
-    "published": "Oct 07, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "CrowdStrike is positioned furthest to the right of all vendors evaluated on the Strategies axis, which assesses how well a vendor’s future strategy aligns with what customers will require over the next 3 to 5 years",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
     "title": "Request, Aggregate, Bypass: How Attackers Can Evade LLM Safety Classifiers",
     "link": "https://www.crowdstrike.com/en-us/blog/how-attackers-can-bypass-llm-safety-classifiers/",
     "published": "Oct 06, 2026 00:00:00-0500",
@@ -1699,6 +1667,42 @@
       "cause": null,
       "timeline": null,
       "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
+    "title": "CrowdStrike SafeMind: When the Best Offense Builds the Best Defense",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-safemind-best-offense-builds-best-defense/",
+    "published": "Sep 17, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "SafeMind is a closed-loop system where offense and defense continuously sharpen each other, resulting in a defense that's been forged against the best possible attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
+    "title": "CrowdStrike Accelerates Real-Time Data Classification with On-Device AI",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-accelerates-real-time-data-classification-with-on-device-ai/",
+    "published": "Sep 16, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "CrowdStrike worked closely with Intel to introduce a new capability in Falcon Data Security that classifies sensitive data using language models that run on-device using dedicated hardware for AI",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
       "cves": [],
       "threat_categories": [
         "General Security"

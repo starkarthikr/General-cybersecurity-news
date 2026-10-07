@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-07 18:43:59 UTC
+**Last Updated:** 2026-10-07 21:28:55 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer](https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html)
+### 1. [Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains](https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 08 Oct 2026 00:18:17 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer](https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 07 Oct 2026 23:13:20 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances](https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html)
+### 3. [SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances](https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 07 Oct 2026 21:47:44 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely](https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html)
+### 4. [Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely](https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 07 Oct 2026 21:04:53 +0530  
@@ -32,7 +41,7 @@
 
 ---
 
-### 4. [PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet](https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html)
+### 5. [PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet](https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 07 Oct 2026 21:03:51 +0530  
@@ -41,7 +50,7 @@
 
 ---
 
-### 5. [The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow](https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html)
+### 6. [The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow](https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 07 Oct 2026 17:27:05 +0530  
@@ -50,7 +59,7 @@
 
 ---
 
-### 6. [FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials](https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html)
+### 7. [FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials](https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 07 Oct 2026 17:26:56 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details](https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html)
+### 8. [Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details](https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 07 Oct 2026 17:19:26 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [What Is Agentic Pentesting? What It Proves, and Where It Stops.](https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html)
+### 9. [What Is Agentic Pentesting? What It Proves, and Where It Stops.](https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 07 Oct 2026 17:12:24 +0530  
@@ -77,7 +86,7 @@
 
 ---
 
-### 9. [Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws](https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html)
+### 10. [Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws](https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 07 Oct 2026 13:37:38 +0530  
@@ -86,16 +95,16 @@
 
 ---
 
-### 10. [100+ Compromised Websites Use Fake Cloudflare Checks to Deliver LunexStealer](https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html)
+### 11. [Hackers hijack Google domains after breaching ccTLD registries](https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 07 Oct 2026 12:27:54 +0530  
+**Source:** Bleeping Computer  
+**Published:** Wed, 07 Oct 2026 16:50:13 -0400  
 **Severity:** Low  
-**Categories:** General Security  
+**Categories:** Supply Chain  
 
 ---
 
-### 11. [Microsoft Outlook to block MSIX attachments starting November](https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-to-block-msix-attachments-used-in-attacks/)
+### 12. [Microsoft Outlook to block MSIX attachments starting November](https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-to-block-msix-attachments-used-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 07 Oct 2026 11:44:22 -0400  
@@ -104,7 +113,7 @@
 
 ---
 
-### 12. [PoeLLM malware infects exposed AI servers in cryptomining attacks](https://www.bleepingcomputer.com/news/security/poellm-malware-infects-exposed-ai-servers-in-cryptomining-attacks/)
+### 13. [PoeLLM malware infects exposed AI servers in cryptomining attacks](https://www.bleepingcomputer.com/news/security/poellm-malware-infects-exposed-ai-servers-in-cryptomining-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 07 Oct 2026 11:04:08 -0400  
@@ -113,7 +122,7 @@
 
 ---
 
-### 13. [Ransomware has a new target. Is your backup ready?](https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/)
+### 14. [Ransomware has a new target. Is your backup ready?](https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 07 Oct 2026 10:01:11 -0400  
@@ -122,7 +131,7 @@
 
 ---
 
-### 14. [Hackers exploit critical Atlassian flaw after public PoC release](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/)
+### 15. [Hackers exploit critical Atlassian flaw after public PoC release](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 07 Oct 2026 08:49:01 -0400  
@@ -132,7 +141,7 @@
 
 ---
 
-### 15. [SonicWall warns of max severity SSRF flaw in SMA1000 gateways](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/)
+### 16. [SonicWall warns of max severity SSRF flaw in SMA1000 gateways](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 07 Oct 2026 07:37:07 -0400  
@@ -142,7 +151,7 @@
 
 ---
 
-### 16. [Musician sent to prison for $10 million streaming fraud using AI bots](https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/)
+### 17. [Musician sent to prison for $10 million streaming fraud using AI bots](https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 07 Oct 2026 06:35:15 -0400  
@@ -151,7 +160,7 @@
 
 ---
 
-### 17. [Advantest confirms personal information stolen in ransomware attack](https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/)
+### 18. [Advantest confirms personal information stolen in ransomware attack](https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 07 Oct 2026 06:27:52 -0400  
@@ -160,31 +169,21 @@
 
 ---
 
-### 18. [Ninja Forms plugin flaw exploited to hack WordPress sites](https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/)
+### 19. [Ninja Forms plugin flaw exploited to hack WordPress sites](https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 06 Oct 2026 17:00:27 -0400  
 **Severity:** High  
-**CVEs:** CVE-2026-94504, CVE-2026-93836  
+**CVEs:** CVE-2026-93836, CVE-2026-94504  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 19. [Hackers exploit 32 zero-days on first day of Pwn2Own Ireland](https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/)
+### 20. [Hackers exploit 32 zero-days on first day of Pwn2Own Ireland](https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 06 Oct 2026 15:21:53 -0400  
 **Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 20. [Atlassian warns of critical file-access flaw in Jira, Confluence](https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 06 Oct 2026 13:34:59 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-21589  
 **Categories:** Vulnerability  
 
 ---
@@ -231,7 +230,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69829, CVE-2026-85880, CVE-2026-81963, CVE-2026-69730  
+**CVEs:** CVE-2026-69829, CVE-2026-69730, CVE-2026-81963, CVE-2026-85880  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -268,7 +267,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62832, CVE-2026-72971, CVE-2026-68820  
+**CVEs:** CVE-2026-72971, CVE-2026-68820, CVE-2026-62832  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -324,7 +323,7 @@
 **Source:** Security Week  
 **Published:** Wed, 07 Oct 2026 10:51:57 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-106197, CVE-2026-106382, CVE-2026-106358, CVE-2026-106347  
+**CVEs:** CVE-2026-106347, CVE-2026-106358, CVE-2026-106197, CVE-2026-106382  
 **Categories:** Vulnerability  
 
 ---
@@ -375,7 +374,17 @@
 
 ---
 
-### 41. [One breach, please, and make no mistakes](https://blog.talosintelligence.com/one-breach-please-and-make-no-mistakes/)
+### 41. [Microsoft, Adobe, Apple, and Foxit vulnerabilities](https://blog.talosintelligence.com/microsoft-adobe-apple-and-foxit-vulnerabilities/)
+
+**Source:** Talos Blog  
+**Published:** Wed, 07 Oct 2026 19:27:08 GMT  
+**Severity:** Low  
+**CVEs:** CVE-2026-50475, CVE-2026-91799, CVE-2026-57256, CVE-2026-48388  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 42. [One breach, please, and make no mistakes](https://blog.talosintelligence.com/one-breach-please-and-make-no-mistakes/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 07 Oct 2026 10:00:25 GMT  
@@ -384,7 +393,7 @@
 
 ---
 
-### 42. [Give yourself room to be human](https://blog.talosintelligence.com/give-yourself-room-to-be-human/)
+### 43. [Give yourself room to be human](https://blog.talosintelligence.com/give-yourself-room-to-be-human/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 01 Oct 2026 18:00:52 GMT  
@@ -393,7 +402,7 @@
 
 ---
 
-### 43. [The Fine Art of Frustrating the Adversary](https://blog.talosintelligence.com/the-fine-art-of-frustrating-the-adversary/)
+### 44. [The Fine Art of Frustrating the Adversary](https://blog.talosintelligence.com/the-fine-art-of-frustrating-the-adversary/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 01 Oct 2026 10:00:05 GMT  
@@ -402,7 +411,7 @@
 
 ---
 
-### 44. [China-nexus UAT-11587 targets government and policy organizations across Asia with Antino backdoor](https://blog.talosintelligence.com/china-nexus-uat-11587-targets-government-and-policy-organizations-across-asia-with-antino-backdoor/)
+### 45. [China-nexus UAT-11587 targets government and policy organizations across Asia with Antino backdoor](https://blog.talosintelligence.com/china-nexus-uat-11587-targets-government-and-policy-organizations-across-asia-with-antino-backdoor/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 30 Sep 2026 10:00:01 GMT  
@@ -411,7 +420,7 @@
 
 ---
 
-### 45. [Securing the keys to the kingdom: Announcing Executive Threat Detection](https://blog.talosintelligence.com/securing-the-keys-to-the-kingdom-announcing-executive-threat-detection/)
+### 46. [Securing the keys to the kingdom: Announcing Executive Threat Detection](https://blog.talosintelligence.com/securing-the-keys-to-the-kingdom-announcing-executive-threat-detection/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 29 Sep 2026 10:00:36 GMT  
@@ -420,7 +429,7 @@
 
 ---
 
-### 46. [Trust and the enticing consultancy offer](https://blog.talosintelligence.com/trust-and-the-enticing-consultancy-offer/)
+### 47. [Trust and the enticing consultancy offer](https://blog.talosintelligence.com/trust-and-the-enticing-consultancy-offer/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 24 Sep 2026 18:00:37 GMT  
@@ -429,7 +438,7 @@
 
 ---
 
-### 47. [The Closed Quorum: Inside the first reported autonomous AI C2 implant](https://blog.talosintelligence.com/the-closed-quorum-inside-the-first-reported-autonomous-ai-c2-implant/)
+### 48. [The Closed Quorum: Inside the first reported autonomous AI C2 implant](https://blog.talosintelligence.com/the-closed-quorum-inside-the-first-reported-autonomous-ai-c2-implant/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 22 Sep 2026 10:00:58 GMT  
@@ -438,7 +447,7 @@
 
 ---
 
-### 48. [Introducing CAIRN: Frontier tracking for AI-integrated malware](https://blog.talosintelligence.com/introducing-cairn-frontier-tracking-for-ai-integrated-malware/)
+### 49. [Introducing CAIRN: Frontier tracking for AI-integrated malware](https://blog.talosintelligence.com/introducing-cairn-frontier-tracking-for-ai-integrated-malware/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 22 Sep 2026 10:00:25 GMT  
@@ -447,21 +456,12 @@
 
 ---
 
-### 49. [Should you care about an “AI slowdown?”](https://blog.talosintelligence.com/should-you-care-about-an-ai-slowdown/)
+### 50. [Should you care about an “AI slowdown?”](https://blog.talosintelligence.com/should-you-care-about-an-ai-slowdown/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 17 Sep 2026 18:00:23 GMT  
 **Severity:** Medium  
 **Categories:** Ransomware, APT  
-
----
-
-### 50. [Ransomware incidents in Japan in the first half of 2026: Investigation of The Gentlemen’s infrastructure and evidence of Qilin's AI use](https://blog.talosintelligence.com/ransomware-incidents-in-japan-in-the-first-half-of-2026/)
-
-**Source:** Talos Blog  
-**Published:** Thu, 17 Sep 2026 10:00:43 GMT  
-**Severity:** High  
-**Categories:** Ransomware  
 
 ---
 
@@ -635,7 +635,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -740,25 +740,7 @@
 
 ---
 
-### 81. [Unknown Threat Actor Uses AI-Driven ARTEX to Target South Korean Finance](https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Oct 07, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 82. [CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Modern Endpoint Security for Enterprises Vendor Assessment](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-modern-endpoint-security-for-enterprises/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Oct 07, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 83. [Request, Aggregate, Bypass: How Attackers Can Evade LLM Safety Classifiers](https://www.crowdstrike.com/en-us/blog/how-attackers-can-bypass-llm-safety-classifiers/)
+### 81. [Request, Aggregate, Bypass: How Attackers Can Evade LLM Safety Classifiers](https://www.crowdstrike.com/en-us/blog/how-attackers-can-bypass-llm-safety-classifiers/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 06, 2026 00:00:00-0500  
@@ -767,7 +749,7 @@
 
 ---
 
-### 84. [Falcon Data Security for SaaS Secures Sensitive Data in Microsoft 365](https://www.crowdstrike.com/en-us/blog/falcon-data-security-for-saas-secures-sensitive-data/)
+### 82. [Falcon Data Security for SaaS Secures Sensitive Data in Microsoft 365](https://www.crowdstrike.com/en-us/blog/falcon-data-security-for-saas-secures-sensitive-data/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 05, 2026 00:00:00-0500  
@@ -776,7 +758,7 @@
 
 ---
 
-### 85. [New in Falcon Cloud Security: Third-Party App Insights and AI-Enhanced Remediation](https://www.crowdstrike.com/en-us/blog/falcon-cloud-security-third-party-app-insights-ai-enhanced-remedation/)
+### 83. [New in Falcon Cloud Security: Third-Party App Insights and AI-Enhanced Remediation](https://www.crowdstrike.com/en-us/blog/falcon-cloud-security-third-party-app-insights-ai-enhanced-remedation/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 05, 2026 00:00:00-0500  
@@ -785,7 +767,7 @@
 
 ---
 
-### 86. [CrowdStrike Expands Federal SOC Modernization Through CISA-Funded SIEMaaS](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-federal-soc-modernization-via-cisa-siemaas/)
+### 84. [CrowdStrike Expands Federal SOC Modernization Through CISA-Funded SIEMaaS](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-federal-soc-modernization-via-cisa-siemaas/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 01, 2026 00:00:00-0500  
@@ -794,7 +776,7 @@
 
 ---
 
-### 87. [Copy, Paste, Compromised: How ClickFix Attacks Work and How CrowdStrike Stops Them](https://www.crowdstrike.com/en-us/blog/how-clickfix-attacks-work-and-how-to-stop-them/)
+### 85. [Copy, Paste, Compromised: How ClickFix Attacks Work and How CrowdStrike Stops Them](https://www.crowdstrike.com/en-us/blog/how-clickfix-attacks-work-and-how-to-stop-them/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 29, 2026 00:00:00-0500  
@@ -803,7 +785,7 @@
 
 ---
 
-### 88. [A Win for Defenders: CrowdStrike and NVIDIA Extend Security Across the AI Stack](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-extend-security-across-ai-stack/)
+### 86. [A Win for Defenders: CrowdStrike and NVIDIA Extend Security Across the AI Stack](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-extend-security-across-ai-stack/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 28, 2026 00:00:00-0400  
@@ -812,7 +794,7 @@
 
 ---
 
-### 89. [CrowdStrike Named a Leader in The Forrester Wave&trade;: Proactive Security Platforms, Q3 2026](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-proactive-security-platforms-q3-2026/)
+### 87. [CrowdStrike Named a Leader in The Forrester Wave&trade;: Proactive Security Platforms, Q3 2026](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-proactive-security-platforms-q3-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 24, 2026 00:00:00-0500  
@@ -821,11 +803,29 @@
 
 ---
 
-### 90. [CrowdStrike Named a Leader in The Forrester Wave&trade;: External Threat Intelligence Service Providers, Q3 2026](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-external-threat-intelligence-q3-2026/)
+### 88. [CrowdStrike Named a Leader in The Forrester Wave&trade;: External Threat Intelligence Service Providers, Q3 2026](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-external-threat-intelligence-q3-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 17, 2026 00:00:00-0500  
 **Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 89. [CrowdStrike SafeMind: When the Best Offense Builds the Best Defense](https://www.crowdstrike.com/en-us/blog/crowdstrike-safemind-best-offense-builds-best-defense/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Sep 17, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 90. [CrowdStrike Accelerates Real-Time Data Classification with On-Device AI](https://www.crowdstrike.com/en-us/blog/crowdstrike-accelerates-real-time-data-classification-with-on-device-ai/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Sep 16, 2026 00:00:00-0500  
+**Severity:** Low  
 **Categories:** General Security  
 
 ---
