@@ -1,6 +1,80 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer",
+    "link": "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html",
+    "published": "Wed, 07 Oct 2026 23:13:20 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a long-running npm supply chain malware campaign that pushes information stealers and remote access trojans (RAT) to compromised hosts.\n\nThe campaign has been codenamed MALFEX by CloudSEK and Checkmarx. The activity is assessed to be the work of a lone threat actor who appears to have published 12 packages since August 2023, eight of which have",
+    "analysis": {
+      "issue": "Eight malicious npm packages downloaded 40,767 times deliver Overlord RAT, a Node",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances",
+    "link": "https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html",
+    "published": "Wed, 07 Oct 2026 21:47:44 +0530",
+    "summary": "SonicWall has released hotfixes for four flaws in its SMA1000 appliances, the gateways that give remote workers access to a company's network and applications. The most serious could allow an attacker without a login to send requests through the appliance and reach internal functions.\n\nSonicWall rates it 10.0 on the CVSS scale and says it has no evidence that any of the four flaws is being",
+    "analysis": {
+      "issue": "SonicWall fixed four SMA1000 flaws, including a 10",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely",
+    "link": "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html",
+    "published": "Wed, 07 Oct 2026 21:04:53 +0530",
+    "summary": "A critical vulnerability in LMCache, open-source software that speeds up large language model (LLM) servers such as vLLM, lets an attacker run code on the cache server without logging in, and no fixed version is available.\n\nThe flaw is in LMCache's&nbsp;multiprocess mode, where the cache runs as a standalone server that LLM workers reach over the ZeroMQ messaging library. A single network",
+    "analysis": {
+      "issue": "LMCache CVE-2026-105192 lets unauthenticated attackers run code when the multiprocess server is bound to a routable address; no fix exists",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-105192"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet",
+    "link": "https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html",
+    "published": "Wed, 07 Oct 2026 21:03:51 +0530",
+    "summary": "Cybersecurity researchers are calling attention to a new malware family that has been observed targeting exposed artificial intelligence (AI) and large language model (LLM) infrastructure with an aim to deploy cryptocurrency miners and further expand the scale of the botnet.\n\nThe financially motivated campaign, dubbed Canto Incognito, has been found to install cryptocurrency miners, including",
+    "analysis": {
+      "issue": "Canto Incognito has infected over 3,400 servers, using exposed AI and LLM infrastructure for crypto mining and botnet growth",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow",
     "link": "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html",
     "published": "Wed, 07 Oct 2026 17:27:05 +0530",
@@ -108,68 +182,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
-    "link": "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html",
-    "published": "Wed, 07 Oct 2026 00:08:55 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a \"human-operated phishing platform\" that impersonates advertising products for artificial intelligence (AI) chatbots like Google Gemini, Anthropic Claude, OpenAI ChatGPT, Perplexity, Meta Muse, and Manus.\n\nThe products, which claim to offer campaign optimization, spend audits, and business-account connections, are designed with one goal in",
+    "source": "Bleeping Computer",
+    "title": "Microsoft Outlook to block MSIX attachments starting November",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-to-block-msix-attachments-used-in-attacks/",
+    "published": "Wed, 07 Oct 2026 11:44:22 -0400",
+    "summary": "Microsoft announced that it will add .msix and .msixbundle attachments to the list of blocked attachments in Outlook Web and the new Outlook Windows client starting next month. [...]",
     "analysis": {
-      "issue": "A human-operated phishing platform impersonates AI ad tools to capture credentials and MFA codes through browser-in-the-browser login windows",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan",
-    "link": "https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html",
-    "published": "Tue, 06 Oct 2026 23:54:25 +0530",
-    "summary": "Linux backdoors targeting telecom and network appliances in South Korea and Taiwan have been disguising their traffic as email services and seemingly legitimate processes to blend in and evade detection.\n\nThreat actors are known to name their malicious software after a legitimate operating system component or a process as a defense evasion measure. By borrowing the name of a real binary, it may",
-    "analysis": {
-      "issue": "Linux backdoors targeting South Korea and Taiwan disguise processes and traffic as trusted email services to evade detection",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings",
-    "link": "https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html",
-    "published": "Tue, 06 Oct 2026 17:27:00 +0530",
-    "summary": "A malicious spreadsheet can make LibreOffice and Apache OpenOffice run an attacker's code as soon as the file is opened, security researchers have shown. There is no warning first, of the kind either program shows before it runs a macro.\n\nThe attack works only when the program's Java support is enabled. So far, it has only been shown as a proof of concept, and there are no reports of its use in",
-    "analysis": {
-      "issue": "Malicious spreadsheets can make LibreOffice and OpenOffice run Java code with Java enabled; LibreOffice has fixed the flaw",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies",
-    "link": "https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html",
-    "published": "Tue, 06 Oct 2026 16:56:25 +0530",
-    "summary": "The Wikimedia Foundation, which hosts Wikipedia, has confirmed that it has discovered activity by rogue OpenAI agents on its platforms, including unsuccessful efforts to compromise Etherpad, a public note-taking tool, and edit Wikipedia pages.\n\n\"The unauthorized bot activities included edits to our wikis, some unsuccessful attempts to exploit a public note-taking tool we host, and heavy traffic,",
-    "analysis": {
-      "issue": "Wikimedia says rogue OpenAI agents edited wikis, tried to compromise Etherpad, and sent millions of automated requests to its APIs",
+      "issue": "Microsoft announced that it will add",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -307,8 +326,8 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-93836",
-        "CVE-2026-94504"
+        "CVE-2026-94504",
+        "CVE-2026-93836"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -351,25 +370,6 @@
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "ASOS confirms data breach after “HACKED” in-app notifications",
-    "link": "https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/",
-    "published": "Tue, 06 Oct 2026 12:33:54 -0400",
-    "summary": "UK fashion retailer ASOS confirmed a data breach Tuesday after hackers sent unauthorized push notifications through its mobile app while claiming to have stolen customer data from the company's Snowflake environment. [...]",
-    "analysis": {
-      "issue": "UK fashion retailer ASOS confirmed a data breach Tuesday after hackers sent unauthorized push notifications through its mobile app while claiming to have stolen customer data from the company's Snowflake environment",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Supply Chain"
       ]
     }
   },
@@ -464,10 +464,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-69829",
         "CVE-2026-85880",
-        "CVE-2026-69730",
         "CVE-2026-81963",
-        "CVE-2026-69829"
+        "CVE-2026-69730"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -544,9 +544,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-68820",
         "CVE-2026-62832",
-        "CVE-2026-72971"
+        "CVE-2026-72971",
+        "CVE-2026-68820"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1527,6 +1527,42 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "Unknown Threat Actor Uses AI-Driven ARTEX to Target South Korean Finance",
+    "link": "https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/",
+    "published": "Oct 07, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "CrowdStrike Intelligence identified infrastructure associated with a targeted campaign against South Korean financial institutions that resulted in exfiltrated data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
+    "title": "CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Modern Endpoint Security for Enterprises Vendor Assessment",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-modern-endpoint-security-for-enterprises/",
+    "published": "Oct 07, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "CrowdStrike is positioned furthest to the right of all vendors evaluated on the Strategies axis, which assesses how well a vendor’s future strategy aligns with what customers will require over the next 3 to 5 years",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "Request, Aggregate, Bypass: How Attackers Can Evade LLM Safety Classifiers",
     "link": "https://www.crowdstrike.com/en-us/blog/how-attackers-can-bypass-llm-safety-classifiers/",
     "published": "Oct 06, 2026 00:00:00-0500",
@@ -1663,42 +1699,6 @@
       "cause": null,
       "timeline": null,
       "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike SafeMind: When the Best Offense Builds the Best Defense",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-safemind-best-offense-builds-best-defense/",
-    "published": "Sep 17, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "SafeMind is a closed-loop system where offense and defense continuously sharpen each other, resulting in a defense that's been forged against the best possible attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Accelerates Real-Time Data Classification with On-Device AI",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-accelerates-real-time-data-classification-with-on-device-ai/",
-    "published": "Sep 16, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "CrowdStrike worked closely with Intel to introduce a new capability in Falcon Data Security that classifies sensitive data using language models that run on-device using dedicated hardware for AI",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
       "cves": [],
       "threat_categories": [
         "General Security"
