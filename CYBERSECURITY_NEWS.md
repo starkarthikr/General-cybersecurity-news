@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-08 18:42:29 UTC
+**Last Updated:** 2026-10-08 21:26:39 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks](https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html)
+### 1. [FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails](https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 09 Oct 2026 00:02:21 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories](https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 08 Oct 2026 23:28:02 +0530  
+**Severity:** Low  
+**Categories:** Ransomware, Phishing  
+
+---
+
+### 3. [Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks](https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 08 Oct 2026 21:15:56 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML](https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html)
+### 4. [UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML](https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 08 Oct 2026 20:56:56 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms](https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html)
+### 5. [ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms](https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 08 Oct 2026 19:42:34 +0530  
@@ -31,14 +49,16 @@
 
 ---
 
-### 4. [Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia](https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html)
+### 6. [Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia](https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 08 Oct 2026 16:00:00 +0530  
+**Severity:** Low  
+**Categories:** Phishing  
 
 ---
 
-### 5. [16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases](https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html)
+### 7. [16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases](https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 08 Oct 2026 15:16:32 +0530  
@@ -47,7 +67,7 @@
 
 ---
 
-### 6. [U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks](https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html)
+### 8. [U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks](https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 08 Oct 2026 13:12:04 +0530  
@@ -56,7 +76,7 @@
 
 ---
 
-### 7. [MonsterCloud Owner Accused of Billing Over $19M While Secretly Paying Ransoms to Decrypt Data](https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html)
+### 9. [MonsterCloud Owner Accused of Billing Over $19M While Secretly Paying Ransoms to Decrypt Data](https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 08 Oct 2026 13:11:44 +0530  
@@ -65,7 +85,7 @@
 
 ---
 
-### 8. [Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm](https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html)
+### 10. [Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm](https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 08 Oct 2026 11:16:20 +0530  
@@ -74,25 +94,25 @@
 
 ---
 
-### 9. [Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains](https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html)
+### 11. [Ransomware attack disrupts Japan's IDCF Cloud used by govt clients](https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 08 Oct 2026 00:18:17 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer](https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 07 Oct 2026 23:13:20 +0530  
-**Severity:** Low  
-**Categories:** General Security  
+**Source:** Bleeping Computer  
+**Published:** Thu, 08 Oct 2026 16:09:45 -0400  
+**Severity:** High  
+**Categories:** Ransomware  
 
 ---
 
-### 11. [FakeGit malware campaign returns with 17,610 malicious GitHub repos](https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/)
+### 12. [Low-cost Android phones ship with residential proxy malware](https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 08 Oct 2026 15:20:33 -0400  
+**Severity:** High  
+**Categories:** Malware, Supply Chain  
+
+---
+
+### 13. [FakeGit malware campaign returns with 17,610 malicious GitHub repos](https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 08 Oct 2026 13:10:55 -0400  
@@ -101,7 +121,7 @@
 
 ---
 
-### 12. [Cisco warns of critical flaws allowing Nexus switch takeover](https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/)
+### 14. [Cisco warns of critical flaws allowing Nexus switch takeover](https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 08 Oct 2026 11:26:33 -0400  
@@ -111,7 +131,7 @@
 
 ---
 
-### 13. [OAuth grants pile up faster than you can review them. Here's how to keep up.](https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/)
+### 15. [OAuth grants pile up faster than you can review them. Here's how to keep up.](https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 08 Oct 2026 10:00:10 -0400  
@@ -120,7 +140,7 @@
 
 ---
 
-### 14. [Uranium crypto exchange hacker convicted for stealing $53 million](https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/)
+### 16. [Uranium crypto exchange hacker convicted for stealing $53 million](https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 08 Oct 2026 09:18:36 -0400  
@@ -129,7 +149,7 @@
 
 ---
 
-### 15. [Microsoft Teams to get support for third-party deepfake detection tools](https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/)
+### 17. [Microsoft Teams to get support for third-party deepfake detection tools](https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 08 Oct 2026 08:08:16 -0400  
@@ -138,7 +158,7 @@
 
 ---
 
-### 16. [ASOS links data breach to social engineering attack, credential theft](https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/)
+### 18. [ASOS links data breach to social engineering attack, credential theft](https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 08 Oct 2026 07:42:46 -0400  
@@ -147,7 +167,7 @@
 
 ---
 
-### 17. [Owner of Empire cybercrime market gets 40 years in prison](https://www.bleepingcomputer.com/news/security/owner-of-empire-cybercrime-market-gets-40-years-in-prison/)
+### 19. [Owner of Empire cybercrime market gets 40 years in prison](https://www.bleepingcomputer.com/news/security/owner-of-empire-cybercrime-market-gets-40-years-in-prison/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 08 Oct 2026 06:29:19 -0400  
@@ -156,30 +176,12 @@
 
 ---
 
-### 18. [Samsung Galaxy S26 hacked three more times at Pwn2Own Ireland](https://www.bleepingcomputer.com/news/security/samsung-galaxy-s26-hacked-three-more-times-at-pwn2own-ireland/)
+### 20. [Samsung Galaxy S26 hacked three more times at Pwn2Own Ireland](https://www.bleepingcomputer.com/news/security/samsung-galaxy-s26-hacked-three-more-times-at-pwn2own-ireland/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 08 Oct 2026 02:32:16 -0400  
 **Severity:** Critical  
 **Categories:** Vulnerability  
-
----
-
-### 19. [Ransomware recovery CEO charged over secret ransom payments](https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 07 Oct 2026 19:04:37 -0400  
-**Severity:** Low  
-**Categories:** Ransomware  
-
----
-
-### 20. [FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins](https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 07 Oct 2026 17:28:54 -0400  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach  
 
 ---
 
@@ -225,7 +227,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81963, CVE-2026-69829, CVE-2026-69730, CVE-2026-85880  
+**CVEs:** CVE-2026-69730, CVE-2026-69829, CVE-2026-85880, CVE-2026-81963  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -262,7 +264,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62832, CVE-2026-72971, CVE-2026-68820  
+**CVEs:** CVE-2026-62832, CVE-2026-68820, CVE-2026-72971  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -280,9 +282,6 @@
 
 **Source:** Security Week  
 **Published:** Thu, 08 Oct 2026 15:28:06 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-76455, CVE-2026-76464, CVE-2026-20328, CVE-2026-76480, CVE-2026-76500, CVE-2026-76498, CVE-2026-76459, CVE-2026-76486, CVE-2026-76501, CVE-2026-76454, CVE-2026-76483, CVE-2026-20362, CVE-2026-76499, CVE-2026-76465, CVE-2026-76471, CVE-2026-76482, CVE-2026-76485  
-**Categories:** Vulnerability  
 
 ---
 
@@ -338,7 +337,7 @@
 **Source:** Security Week  
 **Published:** Thu, 08 Oct 2026 10:24:04 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-30239, CVE-2025-30237, CVE-2025-30241, CVE-2025-30240, CVE-2025-30238  
+**CVEs:** CVE-2025-30237, CVE-2025-30240, CVE-2025-30238, CVE-2025-30239, CVE-2025-30241  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -402,7 +401,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 07 Oct 2026 19:27:08 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-91799, CVE-2026-50475, CVE-2026-57256, CVE-2026-48388  
+**CVEs:** CVE-2026-57256, CVE-2026-48388, CVE-2026-91799, CVE-2026-50475  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -745,7 +744,16 @@
 
 ---
 
-### 82. [Unknown Threat Actor Uses AI-Driven ARTEX to Target South Korean Finance](https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/)
+### 82. [CrowdStrike and Anthropic Give Critical Infrastructure Defenders the AI Advantage](https://www.crowdstrike.com/en-us/blog/crowdstrike-anthropic-critical-infrastructure-defense-program/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Oct 08, 2026 00:00:00-0500  
+**Severity:** Critical  
+**Categories:** General Security  
+
+---
+
+### 83. [Unknown Threat Actor Uses AI-Driven ARTEX to Target South Korean Finance](https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 07, 2026 00:00:00-0500  
@@ -754,7 +762,7 @@
 
 ---
 
-### 83. [CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Modern Endpoint Security for Enterprises Vendor Assessment](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-modern-endpoint-security-for-enterprises/)
+### 84. [CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Modern Endpoint Security for Enterprises Vendor Assessment](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-modern-endpoint-security-for-enterprises/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 07, 2026 00:00:00-0500  
@@ -763,7 +771,7 @@
 
 ---
 
-### 84. [Request, Aggregate, Bypass: How Attackers Can Evade LLM Safety Classifiers](https://www.crowdstrike.com/en-us/blog/how-attackers-can-bypass-llm-safety-classifiers/)
+### 85. [Request, Aggregate, Bypass: How Attackers Can Evade LLM Safety Classifiers](https://www.crowdstrike.com/en-us/blog/how-attackers-can-bypass-llm-safety-classifiers/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 06, 2026 00:00:00-0500  
@@ -772,7 +780,7 @@
 
 ---
 
-### 85. [Falcon Data Security for SaaS Secures Sensitive Data in Microsoft 365](https://www.crowdstrike.com/en-us/blog/falcon-data-security-for-saas-secures-sensitive-data/)
+### 86. [Falcon Data Security for SaaS Secures Sensitive Data in Microsoft 365](https://www.crowdstrike.com/en-us/blog/falcon-data-security-for-saas-secures-sensitive-data/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 05, 2026 00:00:00-0500  
@@ -781,7 +789,7 @@
 
 ---
 
-### 86. [New in Falcon Cloud Security: Third-Party App Insights and AI-Enhanced Remediation](https://www.crowdstrike.com/en-us/blog/falcon-cloud-security-third-party-app-insights-ai-enhanced-remedation/)
+### 87. [New in Falcon Cloud Security: Third-Party App Insights and AI-Enhanced Remediation](https://www.crowdstrike.com/en-us/blog/falcon-cloud-security-third-party-app-insights-ai-enhanced-remedation/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 05, 2026 00:00:00-0500  
@@ -790,7 +798,7 @@
 
 ---
 
-### 87. [CrowdStrike Expands Federal SOC Modernization Through CISA-Funded SIEMaaS](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-federal-soc-modernization-via-cisa-siemaas/)
+### 88. [CrowdStrike Expands Federal SOC Modernization Through CISA-Funded SIEMaaS](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-federal-soc-modernization-via-cisa-siemaas/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 01, 2026 00:00:00-0500  
@@ -799,7 +807,7 @@
 
 ---
 
-### 88. [Copy, Paste, Compromised: How ClickFix Attacks Work and How CrowdStrike Stops Them](https://www.crowdstrike.com/en-us/blog/how-clickfix-attacks-work-and-how-to-stop-them/)
+### 89. [Copy, Paste, Compromised: How ClickFix Attacks Work and How CrowdStrike Stops Them](https://www.crowdstrike.com/en-us/blog/how-clickfix-attacks-work-and-how-to-stop-them/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 29, 2026 00:00:00-0500  
@@ -808,20 +816,11 @@
 
 ---
 
-### 89. [A Win for Defenders: CrowdStrike and NVIDIA Extend Security Across the AI Stack](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-extend-security-across-ai-stack/)
+### 90. [A Win for Defenders: CrowdStrike and NVIDIA Extend Security Across the AI Stack](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-extend-security-across-ai-stack/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 28, 2026 00:00:00-0400  
 **Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 90. [CrowdStrike Named a Leader in The Forrester Wave&trade;: Proactive Security Platforms, Q3 2026](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-proactive-security-platforms-q3-2026/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Sep 24, 2026 00:00:00-0500  
-**Severity:** High  
 **Categories:** General Security  
 
 ---

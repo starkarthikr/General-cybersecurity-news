@@ -1,6 +1,43 @@
 [
   {
     "source": "The Hacker News",
+    "title": "FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails",
+    "link": "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html",
+    "published": "Fri, 09 Oct 2026 00:02:21 +0530",
+    "summary": "Hackers tied to a Chinese cybersecurity company stole email from government organizations, law enforcement agencies, healthcare systems, and religious institutions in Southeast Asia, the FBI and agencies in 6 other countries said on October 8.\n\nThe company, Integrity Technology Group, has been sanctioned by the U.S. and the UK. The hackers scanned websites for flaws using a tool containing more",
+    "analysis": {
+      "issue": "FBI says Integrity Technology Group-linked hackers stole email in Southeast Asia using custom tools and a scanner with over 1,300 scripts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
+    "link": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
+    "published": "Thu, 08 Oct 2026 23:28:02 +0530",
+    "summary": "The crooks have trust problems of their own. One ransomware affiliate decided to keep the profits for himself. Elsewhere, an attacker left a server exposed, complete with tools and traces of an intrusion. Apparently, keeping things secure is a problem on both sides of the fence.\n\nThe rest of the week isn't much more reassuring. Malicious code turned up in developer packages and extensions that",
+    "analysis": {
+      "issue": "ThreatsDay: Malicious VS Code themes, npm supply-chain attacks, AI phishing, ransomware betrayal, exposed hacker tools, and more cybersecurity news",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks",
     "link": "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html",
     "published": "Thu, 08 Oct 2026 21:15:56 +0530",
@@ -58,7 +95,18 @@
     "title": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia",
     "link": "https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html",
     "published": "Thu, 08 Oct 2026 16:00:00 +0530",
-    "summary": "Phishing kits are no longer limited to copying a familiar login page and waiting for a victim to enter credentials. Attackers are increasingly building filtering, session management, and traffic controls into the infrastructure that delivers the phishing page itself.\n\nANY.RUN has identified Wazza, a new phishkit targeting banking, manufacturing, and government organizations across the US, Europe"
+    "summary": "Phishing kits are no longer limited to copying a familiar login page and waiting for a victim to enter credentials. Attackers are increasingly building filtering, session management, and traffic controls into the infrastructure that delivers the phishing page itself.\n\nANY.RUN has identified Wazza, a new phishkit targeting banking, manufacturing, and government organizations across the US, Europe",
+    "analysis": {
+      "issue": "Wazza filters visitors with session tokens and browser checks before serving Adobe-themed Device Code phishing pages",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
   },
   {
     "source": "The Hacker News",
@@ -133,38 +181,39 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains",
-    "link": "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html",
-    "published": "Thu, 08 Oct 2026 00:18:17 +0530",
-    "summary": "Attackers compromised three country-code top-level domains (ccTLDs) and obtained unauthorized HTTPS certificates for several Google domains, Google&nbsp;said on October 6.\n\nGoogle's own systems were not breached, but any domain ending in .gh (Ghana), .sl (Sierra Leone) or .as (American Samoa) was put at risk. With such a certificate, an attacker could pose as the real site over an encrypted",
+    "source": "Bleeping Computer",
+    "title": "Ransomware attack disrupts Japan's IDCF Cloud used by govt clients",
+    "link": "https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/",
+    "published": "Thu, 08 Oct 2026 16:09:45 -0400",
+    "summary": "IDC Frontier, a major Japanese cloud and digital infrastructure company, disclosed that its IDCF Cloud service was targeted in a ransomware attack that caused an outage at a data center cluster serving the eastern part of the country. [...]",
     "analysis": {
-      "issue": "as registries and obtained 12 unauthorized certificates for Google and YouTube domains",
+      "issue": "IDC Frontier, a major Japanese cloud and digital infrastructure company, disclosed that its IDCF Cloud service was targeted in a ransomware attack that caused an outage at a data center cluster serving the eastern part of the country",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Ransomware"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer",
-    "link": "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html",
-    "published": "Wed, 07 Oct 2026 23:13:20 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a long-running npm supply chain malware campaign that pushes information stealers and remote access trojans (RAT) to compromised hosts.\n\nThe campaign has been codenamed MALFEX by CloudSEK and Checkmarx. The activity is assessed to be the work of a lone threat actor who appears to have published 12 packages since August 2023, eight of which have",
+    "source": "Bleeping Computer",
+    "title": "Low-cost Android phones ship with residential proxy malware",
+    "link": "https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/",
+    "published": "Thu, 08 Oct 2026 15:20:33 -0400",
+    "summary": "A malware campaign dubbed 'Midnight Mimosa' has been discovered on low-cost Android smartphones that ship with malicious software embedded in their firmware, allowing attackers to silently install apps, perform ad fraud, and turn devices into residential proxies. [...]",
     "analysis": {
-      "issue": "Eight malicious npm packages downloaded 40,767 times deliver Overlord RAT, a Node",
+      "issue": "A malware campaign dubbed 'Midnight Mimosa' has been discovered on low-cost Android smartphones that ship with malicious software embedded in their firmware, allowing attackers to silently install apps, perform ad fraud, and turn devices into residen",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Malware",
+        "Supply Chain"
       ]
     }
   },
@@ -317,43 +366,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Ransomware recovery CEO charged over secret ransom payments",
-    "link": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/",
-    "published": "Wed, 07 Oct 2026 19:04:37 -0400",
-    "summary": "The owner of ransomware remediation company MonsterCloud has been charged with allegedly defrauding ransomware victims by secretly paying their attackers for decryptors while claiming to use proprietary technology to recover encrypted data. [...]",
-    "analysis": {
-      "issue": "The owner of ransomware remediation company MonsterCloud has been charged with allegedly defrauding ransomware victims by secretly paying their attackers for decryptors while claiming to use proprietary technology to recover encrypted data",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins",
-    "link": "https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/",
-    "published": "Wed, 07 Oct 2026 17:28:54 -0400",
-    "summary": "The FBI is warning that FortiBleed attacks are still ongoing, targeting exposed Fortinet FortiGate firewalls and SSL VPN gateways and locking out legitimate administrators. [...]",
-    "analysis": {
-      "issue": "The FBI is warning that FortiBleed attacks are still ongoing, targeting exposed Fortinet FortiGate firewalls and SSL VPN gateways and locking out legitimate administrators",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
     "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
@@ -444,10 +456,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-81963",
-        "CVE-2026-69829",
         "CVE-2026-69730",
-        "CVE-2026-85880"
+        "CVE-2026-69829",
+        "CVE-2026-85880",
+        "CVE-2026-81963"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -525,8 +537,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-62832",
-        "CVE-2026-72971",
-        "CVE-2026-68820"
+        "CVE-2026-68820",
+        "CVE-2026-72971"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -559,36 +571,7 @@
     "title": "Cisco Patches a Dozen Critical Vulnerabilities",
     "link": "https://www.securityweek.com/cisco-patches-a-dozen-critical-vulnerabilities/",
     "published": "Thu, 08 Oct 2026 15:28:06 +0000",
-    "summary": "<p>The security defects could lead to unauthorized access, information leaks, privilege escalation, DoS attacks, and remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-patches-a-dozen-critical-vulnerabilities/\">Cisco Patches a Dozen Critical Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The security defects could lead to unauthorized access, information leaks, privilege escalation, DoS attacks, and remote code execution",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-76455",
-        "CVE-2026-76464",
-        "CVE-2026-20328",
-        "CVE-2026-76480",
-        "CVE-2026-76500",
-        "CVE-2026-76498",
-        "CVE-2026-76459",
-        "CVE-2026-76486",
-        "CVE-2026-76501",
-        "CVE-2026-76454",
-        "CVE-2026-76483",
-        "CVE-2026-20362",
-        "CVE-2026-76499",
-        "CVE-2026-76465",
-        "CVE-2026-76471",
-        "CVE-2026-76482",
-        "CVE-2026-76485"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
+    "summary": "<p>The security defects could lead to unauthorized access, information leaks, privilege escalation, DoS attacks, and remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-patches-a-dozen-critical-vulnerabilities/\">Cisco Patches a Dozen Critical Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
@@ -702,11 +685,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-30239",
         "CVE-2025-30237",
-        "CVE-2025-30241",
         "CVE-2025-30240",
-        "CVE-2025-30238"
+        "CVE-2025-30238",
+        "CVE-2025-30239",
+        "CVE-2025-30241"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -842,10 +825,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-91799",
-        "CVE-2026-50475",
         "CVE-2026-57256",
-        "CVE-2026-48388"
+        "CVE-2026-48388",
+        "CVE-2026-91799",
+        "CVE-2026-50475"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1547,6 +1530,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "CrowdStrike and Anthropic Give Critical Infrastructure Defenders the AI Advantage",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-anthropic-critical-infrastructure-defense-program/",
+    "published": "Oct 08, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "CrowdStrike joins Anthropic’s Critical Infrastructure Defense Program, bringing expertise in protecting IT and OT environments to help advance AI-powered defense",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "Unknown Threat Actor Uses AI-Driven ARTEX to Target South Korean Finance",
     "link": "https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/",
     "published": "Oct 07, 2026 00:00:00-0500",
@@ -1683,24 +1684,6 @@
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Named a Leader in The Forrester Wave&trade;: Proactive Security Platforms, Q3 2026",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-proactive-security-platforms-q3-2026/",
-    "published": "Sep 24, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "CrowdStrike received the highest Strategy score in the evaluation and the highest possible scores in Innovation and Roadmap",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
       "cves": [],
       "threat_categories": [
         "General Security"
