@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks",
+    "link": "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html",
+    "published": "Thu, 08 Oct 2026 21:15:56 +0530",
+    "summary": "Attackers behind a string of personal data leaks at Japanese organizations have abused APIs for mobile apps and targeted known software flaws, the JPCERT Coordination Center (JPCERT/CC) said.\n\nThe Tokyo-based center, which takes incident reports, based its&nbsp;October 8, 2026 alert&nbsp;on those reports and other information. The alert names no attacker and no affected organization.\n\nJPCERT/",
+    "analysis": {
+      "issue": "JPCERT/CC links Japan's recent data leaks to mobile API abuse and known software flaws, including an exploited Metabase SQL injection bug",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML",
     "link": "https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html",
     "published": "Thu, 08 Oct 2026 20:56:56 +0530",
@@ -40,18 +58,7 @@
     "title": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia",
     "link": "https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html",
     "published": "Thu, 08 Oct 2026 16:00:00 +0530",
-    "summary": "Phishing kits are no longer limited to copying a familiar login page and waiting for a victim to enter credentials. Attackers are increasingly building filtering, session management, and traffic controls into the infrastructure that delivers the phishing page itself.\n\nANY.RUN has identified Wazza, a new phishkit targeting banking, manufacturing, and government organizations across the US, Europe",
-    "analysis": {
-      "issue": "Wazza filters visitors with session tokens and browser checks before serving Adobe-themed Device Code phishing pages",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
+    "summary": "Phishing kits are no longer limited to copying a familiar login page and waiting for a victim to enter credentials. Attackers are increasingly building filtering, session management, and traffic controls into the infrastructure that delivers the phishing page itself.\n\nANY.RUN has identified Wazza, a new phishkit targeting banking, manufacturing, and government organizations across the US, Europe"
   },
   {
     "source": "The Hacker News",
@@ -162,20 +169,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances",
-    "link": "https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html",
-    "published": "Wed, 07 Oct 2026 21:47:44 +0530",
-    "summary": "SonicWall has released hotfixes for four flaws in its SMA1000 appliances, the gateways that give remote workers access to a company's network and applications. The most serious could allow an attacker without a login to send requests through the appliance and reach internal functions.\n\nSonicWall rates it 10.0 on the CVSS scale and says it has no evidence that any of the four flaws is being",
+    "source": "Bleeping Computer",
+    "title": "FakeGit malware campaign returns with 17,610 malicious GitHub repos",
+    "link": "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/",
+    "published": "Thu, 08 Oct 2026 13:10:55 -0400",
+    "summary": "More than 17,000 fake repositories on GitHub are distributing the SmartLoader malware after the FakeGit campaign reactivated earlier this month to push the StealC infostealer. [...]",
     "analysis": {
-      "issue": "SonicWall fixed four SMA1000 flaws, including a 10",
+      "issue": "More than 17,000 fake repositories on GitHub are distributing the SmartLoader malware after the FakeGit campaign reactivated earlier this month to push the StealC infostealer",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "Malware"
       ]
     }
   },
@@ -347,24 +354,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Hackers hijack Google domains after breaching ccTLD registries",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/",
-    "published": "Wed, 07 Oct 2026 16:50:13 -0400",
-    "summary": "Hackers obtained unauthorized HTTPS certificates for several Google domains and hijacked domains in the country-code top-level domains (ccTLDs) for Ghana, American Samoa, and Sierra Leone after compromising third-party operators and modifying authoritative DNS records. [...]",
-    "analysis": {
-      "issue": "Hackers obtained unauthorized HTTPS certificates for several Google domains and hijacked domains in the country-code top-level domains (ccTLDs) for Ghana, American Samoa, and Sierra Leone after compromising third-party operators and modifying authori",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
     "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
@@ -455,10 +444,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-85880",
-        "CVE-2026-69730",
         "CVE-2026-81963",
-        "CVE-2026-69829"
+        "CVE-2026-69829",
+        "CVE-2026-69730",
+        "CVE-2026-85880"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -535,8 +524,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-72971",
         "CVE-2026-62832",
+        "CVE-2026-72971",
         "CVE-2026-68820"
       ],
       "threat_categories": [
@@ -578,23 +567,23 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-76482",
-        "CVE-2026-20328",
-        "CVE-2026-76485",
-        "CVE-2026-76483",
-        "CVE-2026-76465",
-        "CVE-2026-76499",
+        "CVE-2026-76455",
         "CVE-2026-76464",
+        "CVE-2026-20328",
         "CVE-2026-76480",
-        "CVE-2026-76501",
-        "CVE-2026-76459",
-        "CVE-2026-76471",
-        "CVE-2026-20362",
-        "CVE-2026-76498",
-        "CVE-2026-76454",
         "CVE-2026-76500",
+        "CVE-2026-76498",
+        "CVE-2026-76459",
         "CVE-2026-76486",
-        "CVE-2026-76455"
+        "CVE-2026-76501",
+        "CVE-2026-76454",
+        "CVE-2026-76483",
+        "CVE-2026-20362",
+        "CVE-2026-76499",
+        "CVE-2026-76465",
+        "CVE-2026-76471",
+        "CVE-2026-76482",
+        "CVE-2026-76485"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -713,11 +702,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2025-30239",
         "CVE-2025-30237",
-        "CVE-2025-30240",
-        "CVE-2025-30238",
         "CVE-2025-30241",
-        "CVE-2025-30239"
+        "CVE-2025-30240",
+        "CVE-2025-30238"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -784,6 +773,24 @@
   },
   {
     "source": "Talos Blog",
+    "title": "Making sure the checks get printed",
+    "link": "https://blog.talosintelligence.com/making-sure-the-checks-get-printed/",
+    "published": "Thu, 08 Oct 2026 18:00:29 GMT",
+    "summary": "Pierre's debut newsletter explores the messy, real-world side of risk management and how to keep vital systems running when a perfect patch isn't an option.",
+    "analysis": {
+      "issue": "Welcome to this week’s edition of the Threat Source newsletter",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Talos Blog",
     "title": "UAT-11985: AI-assisted event lures delivering real-time Google AitM phishing",
     "link": "https://blog.talosintelligence.com/uat-11985/",
     "published": "Thu, 08 Oct 2026 10:01:06 GMT",
@@ -836,9 +843,9 @@
       "severity": "Low",
       "cves": [
         "CVE-2026-91799",
-        "CVE-2026-48388",
+        "CVE-2026-50475",
         "CVE-2026-57256",
-        "CVE-2026-50475"
+        "CVE-2026-48388"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -953,25 +960,6 @@
       "cause": null,
       "timeline": null,
       "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "The Closed Quorum: Inside the first reported autonomous AI C2 implant",
-    "link": "https://blog.talosintelligence.com/the-closed-quorum-inside-the-first-reported-autonomous-ai-c2-implant/",
-    "published": "Tue, 22 Sep 2026 10:00:58 GMT",
-    "summary": "CLOSEDQUORUM, a malware binary discovered through Cisco Talos’ CAIRN project, exhibits fully autonomous command and control (C2). It represents a shift in effort displacement for attackers, in which expanding portions of the attack chain can be executed without operator involvement.",
-    "analysis": {
-      "issue": "AI’s impact on offensive cyber operations has thus far mainly focused on two dimensions: speed and scale",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
       "cves": [],
       "threat_categories": [
         "Malware",
@@ -1357,6 +1345,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Attackers hijack country-code domains to impersonate Google and other services",
+    "link": "https://www.malwarebytes.com/blog/news/2026/10/attackers-hijack-country-code-domains-to-impersonate-google-and-other-services",
+    "published": "Thu, 08 Oct 2026 15:53:18 GMT",
+    "summary": "Cybercriminals compromised three country-code namespaces to get certificates that could help them impersonate trusted sites.",
+    "analysis": {
+      "issue": "According to Google, attackers compromised infrastructure behind three country-code domain namespaces—",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Amazon has an uncomfortably personal profile on you",
     "link": "https://www.malwarebytes.com/blog/news/2026/10/amazon-has-an-uncomfortably-personal-profile-on-you-check-yours-now",
     "published": "Thu, 08 Oct 2026 12:29:38 GMT",
@@ -1522,17 +1528,17 @@
     }
   },
   {
-    "source": "Malwarebytes",
-    "title": "Google pauses open source bug bounty program after rise in AI submissions",
-    "link": "https://www.malwarebytes.com/blog/news/2026/10/google-pauses-open-source-bug-bounty-program-after-rise-in-ai-submissions",
-    "published": "Mon, 05 Oct 2026 15:00:56 GMT",
-    "summary": "Google has frozen its OSS VRP product vulnerability submissions to stop the flood of AI generated vulnerability reports.",
+    "source": "Crowdstrike Blog",
+    "title": "Solving the Continuous Authorization Conundrum",
+    "link": "https://www.crowdstrike.com/en-us/blog/solving-the-continuous-authorization-conundrum/",
+    "published": "Oct 08, 2026 00:00:00-0500",
+    "summary": "",
     "analysis": {
-      "issue": "Companies like Google and Microsoft are finding much bigger numbers of vulnerabilities in their own products as a result of AI",
+      "issue": "Organizations continue to face myriad issues related to Zero Trust",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "High",
+      "severity": "Low",
       "cves": [],
       "threat_categories": [
         "General Security"
@@ -1691,24 +1697,6 @@
     "summary": "",
     "analysis": {
       "issue": "CrowdStrike received the highest Strategy score in the evaluation and the highest possible scores in Innovation and Roadmap",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Named a Leader in The Forrester Wave&trade;: External Threat Intelligence Service Providers, Q3 2026",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-external-threat-intelligence-q3-2026/",
-    "published": "Sep 17, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "CrowdStrike has been named a Leader in The Forrester Wave™: External Threat Intelligence Service Providers, Q3 2026, receiving the highest scores in both Strength of Offering and Strength of Strategy",
       "solution": null,
       "cause": null,
       "timeline": null,
