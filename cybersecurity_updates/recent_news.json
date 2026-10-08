@@ -4,180 +4,105 @@
     "title": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains",
     "link": "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html",
     "published": "Thu, 08 Oct 2026 00:18:17 +0530",
-    "summary": "Attackers compromised three country-code top-level domains (ccTLDs) and obtained unauthorized HTTPS certificates for several Google domains, Google&nbsp;said on October 6.\n\nGoogle's own systems were not breached, but any domain ending in .gh (Ghana), .sl (Sierra Leone) or .as (American Samoa) was put at risk. With such a certificate, an attacker could pose as the real site over an encrypted",
-    "analysis": {
-      "issue": "as registries and obtained 12 unauthorized certificates for Google and YouTube domains",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
+    "summary": "Attackers compromised three country-code top-level domains (ccTLDs) and obtained unauthorized HTTPS certificates for several Google domains, Google&nbsp;said on October 6.\n\nGoogle's own systems were not breached, but any domain ending in .gh (Ghana), .sl (Sierra Leone) or .as (American Samoa) was put at risk. With such a certificate, an attacker could pose as the real site over an encrypted"
   },
   {
     "source": "The Hacker News",
     "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer",
     "link": "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html",
     "published": "Wed, 07 Oct 2026 23:13:20 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a long-running npm supply chain malware campaign that pushes information stealers and remote access trojans (RAT) to compromised hosts.\n\nThe campaign has been codenamed MALFEX by CloudSEK and Checkmarx. The activity is assessed to be the work of a lone threat actor who appears to have published 12 packages since August 2023, eight of which have",
-    "analysis": {
-      "issue": "Eight malicious npm packages downloaded 40,767 times deliver Overlord RAT, a Node",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
+    "summary": "Cybersecurity researchers have disclosed details of a long-running npm supply chain malware campaign that pushes information stealers and remote access trojans (RAT) to compromised hosts.\n\nThe campaign has been codenamed MALFEX by CloudSEK and Checkmarx. The activity is assessed to be the work of a lone threat actor who appears to have published 12 packages since August 2023, eight of which have"
   },
   {
     "source": "The Hacker News",
     "title": "SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances",
     "link": "https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html",
     "published": "Wed, 07 Oct 2026 21:47:44 +0530",
-    "summary": "SonicWall has released hotfixes for four flaws in its SMA1000 appliances, the gateways that give remote workers access to a company's network and applications. The most serious could allow an attacker without a login to send requests through the appliance and reach internal functions.\n\nSonicWall rates it 10.0 on the CVSS scale and says it has no evidence that any of the four flaws is being",
-    "analysis": {
-      "issue": "SonicWall fixed four SMA1000 flaws, including a 10",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
+    "summary": "SonicWall has released hotfixes for four flaws in its SMA1000 appliances, the gateways that give remote workers access to a company's network and applications. The most serious could allow an attacker without a login to send requests through the appliance and reach internal functions.\n\nSonicWall rates it 10.0 on the CVSS scale and says it has no evidence that any of the four flaws is being"
   },
   {
     "source": "The Hacker News",
     "title": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely",
     "link": "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html",
     "published": "Wed, 07 Oct 2026 21:04:53 +0530",
-    "summary": "A critical vulnerability in LMCache, open-source software that speeds up large language model (LLM) servers such as vLLM, lets an attacker run code on the cache server without logging in, and no fixed version is available.\n\nThe flaw is in LMCache's&nbsp;multiprocess mode, where the cache runs as a standalone server that LLM workers reach over the ZeroMQ messaging library. A single network",
-    "analysis": {
-      "issue": "LMCache CVE-2026-105192 lets unauthenticated attackers run code when the multiprocess server is bound to a routable address; no fix exists",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-105192"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
+    "summary": "A critical vulnerability in LMCache, open-source software that speeds up large language model (LLM) servers such as vLLM, lets an attacker run code on the cache server without logging in, and no fixed version is available.\n\nThe flaw is in LMCache's&nbsp;multiprocess mode, where the cache runs as a standalone server that LLM workers reach over the ZeroMQ messaging library. A single network"
   },
   {
     "source": "The Hacker News",
     "title": "PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet",
     "link": "https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html",
     "published": "Wed, 07 Oct 2026 21:03:51 +0530",
-    "summary": "Cybersecurity researchers are calling attention to a new malware family that has been observed targeting exposed artificial intelligence (AI) and large language model (LLM) infrastructure with an aim to deploy cryptocurrency miners and further expand the scale of the botnet.\n\nThe financially motivated campaign, dubbed Canto Incognito, has been found to install cryptocurrency miners, including",
-    "analysis": {
-      "issue": "Canto Incognito has infected over 3,400 servers, using exposed AI and LLM infrastructure for crypto mining and botnet growth",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
+    "summary": "Cybersecurity researchers are calling attention to a new malware family that has been observed targeting exposed artificial intelligence (AI) and large language model (LLM) infrastructure with an aim to deploy cryptocurrency miners and further expand the scale of the botnet.\n\nThe financially motivated campaign, dubbed Canto Incognito, has been found to install cryptocurrency miners, including"
   },
   {
     "source": "The Hacker News",
     "title": "The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow",
     "link": "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html",
     "published": "Wed, 07 Oct 2026 17:27:05 +0530",
-    "summary": "The 2026 findings are not just a year-over-year shift. They mark the latest point in a five-year arc where resilience, AI governance, human risk, and board scrutiny are converging inside the systems where work actually happens.\n\nFor years, the enterprise cybersecurity story has been told as a straight line of escalation: more attacks, more data loss, more pressure, and more urgency. That",
-    "analysis": {
-      "issue": "Proofpoint says 79% of CISOs rank human risk as their biggest cyber vulnerability, while 78% view GenAI as a security risk in 2026",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
+    "summary": "The 2026 findings are not just a year-over-year shift. They mark the latest point in a five-year arc where resilience, AI governance, human risk, and board scrutiny are converging inside the systems where work actually happens.\n\nFor years, the enterprise cybersecurity story has been told as a straight line of escalation: more attacks, more data loss, more pressure, and more urgency. That"
   },
   {
     "source": "The Hacker News",
     "title": "FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials",
     "link": "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html",
     "published": "Wed, 07 Oct 2026 17:26:56 +0530",
-    "summary": "The U.S. Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains an active threat aimed at internet-facing Fortinet FortiGate firewalls and secure socket layer (SSL) virtual private network (VPN) gateways.\n\n\"The campaign exploits reused or leaked credentials and legacy SHA-256 password storage, enabling threat",
-    "analysis": {
-      "issue": "FBI and USSS warn FortiBleed remains active, using stolen credentials and traffic sniffing to harvest Fortinet authentication data",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
+    "summary": "The U.S. Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains an active threat aimed at internet-facing Fortinet FortiGate firewalls and secure socket layer (SSL) virtual private network (VPN) gateways.\n\n\"The campaign exploits reused or leaked credentials and legacy SHA-256 password storage, enabling threat"
   },
   {
     "source": "The Hacker News",
     "title": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details",
     "link": "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html",
     "published": "Wed, 07 Oct 2026 17:19:26 +0530",
-    "summary": "Threat actors have begun to exploit a newly disclosed critical security flaw impacting Atlassian Data Center products that could allow access to sensitive files under certain conditions.\n\nThe arbitrary file access flaw, tracked as CVE-2026-21589 (CVSS score: 9.3) affects multiple products, including Bitbucket Data Center, Confluence Data Center, Jira Service Management Data Center, Jira Software",
-    "analysis": {
-      "issue": "Attackers are exploiting an Atlassian Data Center flaw that enables unauthenticated access to specific webroot files",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
+    "summary": "Threat actors have begun to exploit a newly disclosed critical security flaw impacting Atlassian Data Center products that could allow access to sensitive files under certain conditions.\n\nThe arbitrary file access flaw, tracked as CVE-2026-21589 (CVSS score: 9.3) affects multiple products, including Bitbucket Data Center, Confluence Data Center, Jira Service Management Data Center, Jira Software"
   },
   {
     "source": "The Hacker News",
     "title": "What Is Agentic Pentesting? What It Proves, and Where It Stops.",
     "link": "https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html",
     "published": "Wed, 07 Oct 2026 17:12:24 +0530",
-    "summary": "If you’re evaluating an agentic pentesting solution right now, you’ve probably heard the same pitch more than once: point it at a target, and it discovers, validates, and exploits attack paths autonomously, the way a real attacker would.\n\nThat promise is worth taking seriously. It’s also worth pressure testing, and three questions do the heavy lifting.&nbsp;\n\n\n  What can the assessment actually",
-    "analysis": {
-      "issue": "Picus says agentic pentesting proves live attack paths but leaves timing and coverage gaps that require complementary validation methods",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
+    "summary": "If you’re evaluating an agentic pentesting solution right now, you’ve probably heard the same pitch more than once: point it at a target, and it discovers, validates, and exploits attack paths autonomously, the way a real attacker would.\n\nThat promise is worth taking seriously. It’s also worth pressure testing, and three questions do the heavy lifting.&nbsp;\n\n\n  What can the assessment actually"
   },
   {
     "source": "The Hacker News",
     "title": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws",
     "link": "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html",
     "published": "Wed, 07 Oct 2026 13:37:38 +0530",
-    "summary": "Anthropic on Tuesday said it's expanding a program that allows vetted cybersecurity professionals to test its advanced artificial intelligence (AI) models with reduced safeguards and blocking classifiers, as the company claimed its Project Glasswing initiative uncovered at least 129,000 verified software vulnerabilities between April and July 2026.\n\nThe company said it also found an additional",
+    "summary": "Anthropic on Tuesday said it's expanding a program that allows vetted cybersecurity professionals to test its advanced artificial intelligence (AI) models with reduced safeguards and blocking classifiers, as the company claimed its Project Glasswing initiative uncovered at least 129,000 verified software vulnerabilities between April and July 2026.\n\nThe company said it also found an additional"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Ransomware recovery CEO charged over secret ransom payments",
+    "link": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/",
+    "published": "Wed, 07 Oct 2026 19:04:37 -0400",
+    "summary": "The owner of ransomware remediation company MonsterCloud has been charged with allegedly defrauding ransomware victims by secretly paying their attackers for decryptors while claiming to use proprietary technology to recover encrypted data. [...]",
     "analysis": {
-      "issue": "Anthropic expands reduced-safeguard AI access for vetted cyber teams after Project Glasswing verified at least 129,000 software flaws",
+      "issue": "The owner of ransomware remediation company MonsterCloud has been charged with allegedly defrauding ransomware victims by secretly paying their attackers for decryptors while claiming to use proprietary technology to recover encrypted data",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Ransomware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/",
+    "published": "Wed, 07 Oct 2026 17:28:54 -0400",
+    "summary": "The FBI is warning that FortiBleed attacks are still ongoing, targeting exposed Fortinet FortiGate firewalls and SSL VPN gateways and locking out legitimate administrators. [...]",
+    "analysis": {
+      "issue": "The FBI is warning that FortiBleed attacks are still ongoing, targeting exposed Fortinet FortiGate firewalls and SSL VPN gateways and locking out legitimate administrators",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach"
       ]
     }
   },
@@ -332,46 +257,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Ninja Forms plugin flaw exploited to hack WordPress sites",
-    "link": "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/",
-    "published": "Tue, 06 Oct 2026 17:00:27 -0400",
-    "summary": "Hackers are exploiting stored cross-site scripting (XSS) vulnerabilities in two unrelated WordPress plugins, Ninja Forms and WPC Product Bundles for WooCommerce, to install backdoors and create rogue admin accounts. [...]",
-    "analysis": {
-      "issue": "Hackers are exploiting stored cross-site scripting (XSS) vulnerabilities in two unrelated WordPress plugins, Ninja Forms and WPC Product Bundles for WooCommerce, to install backdoors and create rogue admin accounts",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2026-93836",
-        "CVE-2026-94504"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers exploit 32 zero-days on first day of Pwn2Own Ireland",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/",
-    "published": "Tue, 06 Oct 2026 15:21:53 -0400",
-    "summary": "On the first day of the Pwn2Own Ireland 2026 competition, security researchers hacked the Samsung Galaxy S26 twice and earned $388,500 after exploiting 32 zero-days. [...]",
-    "analysis": {
-      "issue": "On the first day of the Pwn2Own Ireland 2026 competition, security researchers hacked the Samsung Galaxy S26 twice and earned $388,500 after exploiting 32 zero-days",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
     "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
@@ -463,8 +348,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-69829",
-        "CVE-2026-69730",
         "CVE-2026-81963",
+        "CVE-2026-69730",
         "CVE-2026-85880"
       ],
       "threat_categories": [
@@ -663,10 +548,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-106347",
-        "CVE-2026-106358",
+        "CVE-2026-106382",
         "CVE-2026-106197",
-        "CVE-2026-106382"
+        "CVE-2026-106358",
+        "CVE-2026-106347"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -784,9 +669,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-50475",
-        "CVE-2026-91799",
         "CVE-2026-57256",
+        "CVE-2026-91799",
+        "CVE-2026-50475",
         "CVE-2026-48388"
       ],
       "threat_categories": [
@@ -1531,6 +1416,42 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "Unknown Threat Actor Uses AI-Driven ARTEX to Target South Korean Finance",
+    "link": "https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/",
+    "published": "Oct 07, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "CrowdStrike Intelligence identified infrastructure associated with a targeted campaign against South Korean financial institutions that resulted in exfiltrated data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
+    "title": "CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Modern Endpoint Security for Enterprises Vendor Assessment",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-modern-endpoint-security-for-enterprises/",
+    "published": "Oct 07, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "CrowdStrike is positioned furthest to the right of all vendors evaluated on the Strategies axis, which assesses how well a vendor’s future strategy aligns with what customers will require over the next 3 to 5 years",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "Request, Aggregate, Bypass: How Attackers Can Evade LLM Safety Classifiers",
     "link": "https://www.crowdstrike.com/en-us/blog/how-attackers-can-bypass-llm-safety-classifiers/",
     "published": "Oct 06, 2026 00:00:00-0500",
@@ -1667,42 +1588,6 @@
       "cause": null,
       "timeline": null,
       "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike SafeMind: When the Best Offense Builds the Best Defense",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-safemind-best-offense-builds-best-defense/",
-    "published": "Sep 17, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "SafeMind is a closed-loop system where offense and defense continuously sharpen each other, resulting in a defense that's been forged against the best possible attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Accelerates Real-Time Data Classification with On-Device AI",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-accelerates-real-time-data-classification-with-on-device-ai/",
-    "published": "Sep 16, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "CrowdStrike worked closely with Intel to introduce a new capability in Falcon Data Security that classifies sensitive data using language models that run on-device using dedicated hardware for AI",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
       "cves": [],
       "threat_categories": [
         "General Security"
