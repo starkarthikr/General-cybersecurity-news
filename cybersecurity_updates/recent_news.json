@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+    "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+    "published": "Fri, 09 Oct 2026 21:59:55 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword.\n\n\"Compared with the variants we usually observe, P7 reduces its on-device footprint, adds on-device keychain and crypto-wallet theft, and adds two way C2 communication with the attacker's infrastructure,\" iVerify said in a new report published Thursday.\n\nThe name",
+    "analysis": {
+      "issue": "P7 DarkSword adds on-device keychain and crypto wallet data theft to the iOS exploit kit, alongside two-way C2 communication",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
     "link": "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html",
     "published": "Fri, 09 Oct 2026 18:52:53 +0530",
@@ -164,20 +182,60 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions",
-    "link": "https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html",
-    "published": "Fri, 09 Oct 2026 12:09:29 +0530",
-    "summary": "The U.S. Federal Bureau of Investigation (FBI) and Department of Justice (DoJ) have announced the disruption of malicious tools used by a China-linked advanced persistent threat group known as Flax Typhoon.\n\nTo that end, the agencies seized several domains and blocked access to platforms that were used to scan, and in some cases infiltrate, U.S. critical infrastructure. The list of seized",
+    "source": "Bleeping Computer",
+    "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
+    "link": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/",
+    "published": "Fri, 09 Oct 2026 13:17:23 -0400",
+    "summary": "Threat actors are exploiting one critical and one medium-severity vulnerability still unpatched in the AhsayCBS backup management platform to deploy webshells and cryptocurrency miners. [...]",
     "analysis": {
-      "issue": "authorities seized seven domains used by China-linked Flax Typhoon to scan networks and support intrusions into critical infrastructure",
+      "issue": "Threat actors are exploiting one critical and one medium-severity vulnerability still unpatched in the AhsayCBS backup management platform to deploy webshells and cryptocurrency miners",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-105133",
+        "CVE-2026-105134"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
+    "published": "Fri, 09 Oct 2026 13:02:29 -0400",
+    "summary": "The FBI has arrested another suspected member of the ShinyHunters extortion group believed to be involved in the recent breach of FBI systems, Director Kash Patel announced Friday. [...]",
+    "analysis": {
+      "issue": "The FBI has arrested another suspected member of the ShinyHunters extortion group believed to be involved in the recent breach of FBI systems, Director Kash Patel announced Friday",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Germany arrests alleged core Qilin ransomware member after extradition",
+    "link": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
+    "published": "Fri, 09 Oct 2026 11:38:56 -0400",
+    "summary": "Germany has arrested a Russian national suspected of being a leading member of the Qilin ransomware group following extradition from Japan earlier this month. [...]",
+    "analysis": {
+      "issue": "Germany has arrested a Russian national suspected of being a leading member of the Qilin ransomware group following extradition from Japan earlier this month",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
       ]
     }
   },
@@ -313,61 +371,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Ransomware attack disrupts Japan's IDCF Cloud used by govt clients",
-    "link": "https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/",
-    "published": "Thu, 08 Oct 2026 16:09:45 -0400",
-    "summary": "IDC Frontier, a major Japanese cloud and digital infrastructure company, disclosed that its IDCF Cloud service was targeted in a ransomware attack that caused an outage at a data center cluster serving the eastern part of the country. [...]",
-    "analysis": {
-      "issue": "IDC Frontier, a major Japanese cloud and digital infrastructure company, disclosed that its IDCF Cloud service was targeted in a ransomware attack that caused an outage at a data center cluster serving the eastern part of the country",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Low-cost Android phones ship with residential proxy malware",
-    "link": "https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/",
-    "published": "Thu, 08 Oct 2026 15:20:33 -0400",
-    "summary": "A malware campaign dubbed 'Midnight Mimosa' has been discovered on low-cost Android smartphones that ship with malicious software embedded in their firmware, allowing attackers to silently install apps, perform ad fraud, and turn devices into residential proxies. [...]",
-    "analysis": {
-      "issue": "A malware campaign dubbed 'Midnight Mimosa' has been discovered on low-cost Android smartphones that ship with malicious software embedded in their firmware, allowing attackers to silently install apps, perform ad fraud, and turn devices into residen",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "FakeGit malware campaign returns with 17,610 malicious GitHub repos",
-    "link": "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/",
-    "published": "Thu, 08 Oct 2026 13:10:55 -0400",
-    "summary": "More than 17,000 fake repositories on GitHub are distributing the SmartLoader malware after the FakeGit campaign reactivated earlier this month to push the StealC infostealer. [...]",
-    "analysis": {
-      "issue": "More than 17,000 fake repositories on GitHub are distributing the SmartLoader malware after the FakeGit campaign reactivated earlier this month to push the StealC infostealer",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
     "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
@@ -458,10 +461,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-85880",
+        "CVE-2026-69829",
         "CVE-2026-69730",
-        "CVE-2026-81963",
-        "CVE-2026-69829"
+        "CVE-2026-85880",
+        "CVE-2026-81963"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -538,8 +541,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-62832",
         "CVE-2026-72971",
+        "CVE-2026-62832",
         "CVE-2026-68820"
       ],
       "threat_categories": [
@@ -703,10 +706,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-107406",
         "CVE-2026-88772",
+        "CVE-2026-88771",
         "CVE-2026-88779",
-        "CVE-2026-88771"
+        "CVE-2026-107406"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -763,22 +766,22 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-76480",
-        "CVE-2026-76483",
-        "CVE-2026-20328",
-        "CVE-2026-76464",
-        "CVE-2026-76485",
-        "CVE-2026-76498",
-        "CVE-2026-76455",
-        "CVE-2026-76499",
-        "CVE-2026-76501",
-        "CVE-2026-76482",
-        "CVE-2026-76454",
-        "CVE-2026-20362",
-        "CVE-2026-76465",
-        "CVE-2026-76486",
         "CVE-2026-76459",
+        "CVE-2026-76498",
+        "CVE-2026-76482",
+        "CVE-2026-76483",
+        "CVE-2026-76486",
         "CVE-2026-76471",
-        "CVE-2026-76500"
+        "CVE-2026-76500",
+        "CVE-2026-20362",
+        "CVE-2026-76501",
+        "CVE-2026-76499",
+        "CVE-2026-76485",
+        "CVE-2026-20328",
+        "CVE-2026-76455",
+        "CVE-2026-76465",
+        "CVE-2026-76454",
+        "CVE-2026-76464"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -858,8 +861,8 @@
       "cves": [
         "CVE-2026-48388",
         "CVE-2026-50475",
-        "CVE-2026-57256",
-        "CVE-2026-91799"
+        "CVE-2026-91799",
+        "CVE-2026-57256"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1328,8 +1331,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",

@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-09 15:29:41 UTC
+**Last Updated:** 2026-10-09 18:13:13 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [TP-Link Sued by Four More U.S. States Over Router Security and China Ties](https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html)
+### 1. [P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands](https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 09 Oct 2026 21:59:55 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [TP-Link Sued by Four More U.S. States Over Router Security and China Ties](https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 09 Oct 2026 18:52:53 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access](https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html)
+### 3. [Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access](https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 09 Oct 2026 18:29:22 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects](https://thehackernews.com/2026/10/anthropic-launches-free-ai.html)
+### 4. [Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects](https://thehackernews.com/2026/10/anthropic-launches-free-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 09 Oct 2026 18:17:28 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge](https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html)
+### 5. [Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge](https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 09 Oct 2026 18:17:26 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies](https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html)
+### 6. [Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies](https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 09 Oct 2026 17:51:51 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition](https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html)
+### 7. [The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition](https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 09 Oct 2026 17:00:00 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys](https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html)
+### 8. [GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys](https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 09 Oct 2026 14:33:24 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at Pwn2Own](https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html)
+### 9. [Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at Pwn2Own](https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 09 Oct 2026 13:56:17 +0530  
@@ -76,7 +85,7 @@
 
 ---
 
-### 9. [Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments](https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html)
+### 10. [Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments](https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 09 Oct 2026 13:41:33 +0530  
@@ -86,16 +95,35 @@
 
 ---
 
-### 10. [FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions](https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html)
+### 11. [Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto](https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 09 Oct 2026 12:09:29 +0530  
+**Source:** Bleeping Computer  
+**Published:** Fri, 09 Oct 2026 13:17:23 -0400  
 **Severity:** Critical  
-**Categories:** General Security  
+**CVEs:** CVE-2026-105133, CVE-2026-105134  
+**Categories:** Vulnerability  
 
 ---
 
-### 11. [How to keep AI agents within their permissions](https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/)
+### 12. [FBI arrests another suspected ShinyHunters hacker after agency breach](https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 09 Oct 2026 13:02:29 -0400  
+**Severity:** Critical  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 13. [Germany arrests alleged core Qilin ransomware member after extradition](https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 09 Oct 2026 11:38:56 -0400  
+**Severity:** High  
+**Categories:** Ransomware  
+
+---
+
+### 14. [How to keep AI agents within their permissions](https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 09 Oct 2026 10:01:11 -0400  
@@ -104,7 +132,7 @@
 
 ---
 
-### 12. [Max severity SonicWall SMA1000 flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/)
+### 15. [Max severity SonicWall SMA1000 flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 09 Oct 2026 08:32:16 -0400  
@@ -114,7 +142,7 @@
 
 ---
 
-### 13. [Man admits to running network of 15,000 money mules for cybercriminals](https://www.bleepingcomputer.com/news/security/ukrainian-russian-dual-citizen-admits-to-laundering-millions-for-cybercriminals/)
+### 16. [Man admits to running network of 15,000 money mules for cybercriminals](https://www.bleepingcomputer.com/news/security/ukrainian-russian-dual-citizen-admits-to-laundering-millions-for-cybercriminals/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 09 Oct 2026 07:14:28 -0400  
@@ -123,7 +151,7 @@
 
 ---
 
-### 14. [Microsoft: Outdated Windows devices will stop receiving security updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/)
+### 17. [Microsoft: Outdated Windows devices will stop receiving security updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 09 Oct 2026 06:12:24 -0400  
@@ -132,7 +160,7 @@
 
 ---
 
-### 15. [Citrix warns admins to patch new NetScaler RCE flaw immediately](https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/)
+### 18. [Citrix warns admins to patch new NetScaler RCE flaw immediately](https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 09 Oct 2026 04:27:42 -0400  
@@ -142,7 +170,7 @@
 
 ---
 
-### 16. [Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland](https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/)
+### 19. [Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland](https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 09 Oct 2026 01:41:04 -0400  
@@ -151,39 +179,12 @@
 
 ---
 
-### 17. [FBI disrupts Chinese hacking tools used to breach critical infrastructure](https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/)
+### 20. [FBI disrupts Chinese hacking tools used to breach critical infrastructure](https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 08 Oct 2026 17:42:51 -0400  
 **Severity:** Critical  
 **Categories:** Vulnerability, Malware  
-
----
-
-### 18. [Ransomware attack disrupts Japan's IDCF Cloud used by govt clients](https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 08 Oct 2026 16:09:45 -0400  
-**Severity:** High  
-**Categories:** Ransomware  
-
----
-
-### 19. [Low-cost Android phones ship with residential proxy malware](https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 08 Oct 2026 15:20:33 -0400  
-**Severity:** High  
-**Categories:** Malware, Supply Chain  
-
----
-
-### 20. [FakeGit malware campaign returns with 17,610 malicious GitHub repos](https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 08 Oct 2026 13:10:55 -0400  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
@@ -229,7 +230,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-85880, CVE-2026-69730, CVE-2026-81963, CVE-2026-69829  
+**CVEs:** CVE-2026-69829, CVE-2026-69730, CVE-2026-85880, CVE-2026-81963  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -266,7 +267,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62832, CVE-2026-72971, CVE-2026-68820  
+**CVEs:** CVE-2026-72971, CVE-2026-62832, CVE-2026-68820  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -341,7 +342,7 @@
 **Source:** Security Week  
 **Published:** Fri, 09 Oct 2026 06:53:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-107406, CVE-2026-88772, CVE-2026-88779, CVE-2026-88771  
+**CVEs:** CVE-2026-88772, CVE-2026-88771, CVE-2026-88779, CVE-2026-107406  
 **Categories:** Vulnerability  
 
 ---
@@ -369,7 +370,7 @@
 **Source:** Security Week  
 **Published:** Thu, 08 Oct 2026 15:28:06 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-76480, CVE-2026-76483, CVE-2026-20328, CVE-2026-76464, CVE-2026-76485, CVE-2026-76498, CVE-2026-76455, CVE-2026-76499, CVE-2026-76501, CVE-2026-76482, CVE-2026-76454, CVE-2026-20362, CVE-2026-76465, CVE-2026-76486, CVE-2026-76459, CVE-2026-76471, CVE-2026-76500  
+**CVEs:** CVE-2026-76480, CVE-2026-76459, CVE-2026-76498, CVE-2026-76482, CVE-2026-76483, CVE-2026-76486, CVE-2026-76471, CVE-2026-76500, CVE-2026-20362, CVE-2026-76501, CVE-2026-76499, CVE-2026-76485, CVE-2026-20328, CVE-2026-76455, CVE-2026-76465, CVE-2026-76454, CVE-2026-76464  
 **Categories:** Vulnerability  
 
 ---
@@ -406,7 +407,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 07 Oct 2026 19:27:08 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-48388, CVE-2026-50475, CVE-2026-57256, CVE-2026-91799  
+**CVEs:** CVE-2026-48388, CVE-2026-50475, CVE-2026-91799, CVE-2026-57256  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -635,7 +636,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
