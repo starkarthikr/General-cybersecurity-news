@@ -182,6 +182,25 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/",
+    "published": "Thu, 08 Oct 2026 17:42:51 -0400",
+    "summary": "The FBI has seized seven domains used by Chinese state-sponsored hackers known as Flax Typhoon to operate two hacking tools, MicroScan and FishHub, used in attacks that breached critical infrastructure and other organizations worldwide. [...]",
+    "analysis": {
+      "issue": "The FBI has seized seven domains used by Chinese state-sponsored hackers known as Flax Typhoon to operate two hacking tools, MicroScan and FishHub, used in attacks that breached critical infrastructure and other organizations worldwide",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Ransomware attack disrupts Japan's IDCF Cloud used by govt clients",
     "link": "https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/",
     "published": "Thu, 08 Oct 2026 16:09:45 -0400",
@@ -348,24 +367,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Samsung Galaxy S26 hacked three more times at Pwn2Own Ireland",
-    "link": "https://www.bleepingcomputer.com/news/security/samsung-galaxy-s26-hacked-three-more-times-at-pwn2own-ireland/",
-    "published": "Thu, 08 Oct 2026 02:32:16 -0400",
-    "summary": "​​​On the second day of Pwn2Own Ireland 2026, security researchers collected $232,500 in cash awards after exploiting 45 unique zero-day vulnerabilities. [...]",
-    "analysis": {
-      "issue": "​​​On the second day of Pwn2Own Ireland 2026, security researchers collected $232,500 in cash awards after exploiting 45 unique zero-day vulnerabilities",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
     "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
@@ -456,10 +457,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69730",
-        "CVE-2026-69829",
         "CVE-2026-85880",
-        "CVE-2026-81963"
+        "CVE-2026-81963",
+        "CVE-2026-69829",
+        "CVE-2026-69730"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -536,9 +537,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-62832",
+        "CVE-2026-72971",
         "CVE-2026-68820",
-        "CVE-2026-72971"
+        "CVE-2026-62832"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -568,10 +569,57 @@
   },
   {
     "source": "Security Week",
+    "title": "Formula Predicts When AI Chatbots Are at Risk of Turning Bad",
+    "link": "https://www.securityweek.com/formula-predicts-when-ai-chatbots-are-at-risk-of-turning-bad/",
+    "published": "Fri, 09 Oct 2026 04:12:38 +0000",
+    "summary": "<p>Researchers from George Washington University have published a paper examining whether the time and cause of AI going rogue can be predicted.</p>\n<p>The post <a href=\"https://www.securityweek.com/formula-predicts-when-ai-chatbots-are-at-risk-of-turning-bad/\">Formula Predicts When AI Chatbots Are at Risk of Turning Bad</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Researchers from George Washington University have published a paper examining whether the time and cause of AI going rogue can be predicted",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Cisco Patches a Dozen Critical Vulnerabilities",
     "link": "https://www.securityweek.com/cisco-patches-a-dozen-critical-vulnerabilities/",
     "published": "Thu, 08 Oct 2026 15:28:06 +0000",
-    "summary": "<p>The security defects could lead to unauthorized access, information leaks, privilege escalation, DoS attacks, and remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-patches-a-dozen-critical-vulnerabilities/\">Cisco Patches a Dozen Critical Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+    "summary": "<p>The security defects could lead to unauthorized access, information leaks, privilege escalation, DoS attacks, and remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-patches-a-dozen-critical-vulnerabilities/\">Cisco Patches a Dozen Critical Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The security defects could lead to unauthorized access, information leaks, privilege escalation, DoS attacks, and remote code execution",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-76464",
+        "CVE-2026-76471",
+        "CVE-2026-76499",
+        "CVE-2026-76485",
+        "CVE-2026-20328",
+        "CVE-2026-20362",
+        "CVE-2026-76480",
+        "CVE-2026-76482",
+        "CVE-2026-76486",
+        "CVE-2026-76465",
+        "CVE-2026-76498",
+        "CVE-2026-76500",
+        "CVE-2026-76483",
+        "CVE-2026-76459",
+        "CVE-2026-76501",
+        "CVE-2026-76454",
+        "CVE-2026-76455"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
   },
   {
     "source": "Security Week",
@@ -685,11 +733,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-30237",
-        "CVE-2025-30240",
         "CVE-2025-30238",
+        "CVE-2025-30241",
+        "CVE-2025-30237",
         "CVE-2025-30239",
-        "CVE-2025-30241"
+        "CVE-2025-30240"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -732,25 +780,6 @@
       "threat_categories": [
         "Ransomware",
         "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "FortiBleed Attackers Locking Victims Out of Fortinet Devices",
-    "link": "https://www.securityweek.com/fortibleed-attackers-locking-victims-out-of-fortinet-devices/",
-    "published": "Thu, 08 Oct 2026 07:52:33 +0000",
-    "summary": "<p>Attackers are creating new accounts and deleting existing ones and passwords to prevent legitimate access.</p>\n<p>The post <a href=\"https://www.securityweek.com/fortibleed-attackers-locking-victims-out-of-fortinet-devices/\">FortiBleed Attackers Locking Victims Out of Fortinet Devices</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Attackers are creating new accounts and deleting existing ones and passwords to prevent legitimate access",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
       ]
     }
   },
@@ -825,10 +854,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-57256",
         "CVE-2026-48388",
         "CVE-2026-91799",
-        "CVE-2026-50475"
+        "CVE-2026-50475",
+        "CVE-2026-57256"
       ],
       "threat_categories": [
         "Vulnerability",
