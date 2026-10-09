@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
+    "link": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
+    "published": "Sat, 10 Oct 2026 00:44:28 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts to push a malicious workflow into over 340 repositories.\n\n\"Using the account of Takashi Kitao, author of the 18,400-star game engine pyxel, the attacker pushed a malicious workflow to 27 repositories starting at 13:20 UTC,\" StepSecurity",
+    "analysis": {
+      "issue": "More than 500 GitHub accounts committed credential-stealing workflows to tens of thousands of repositories since October 7, Socket says",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
+    "link": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
+    "published": "Fri, 09 Oct 2026 23:15:26 +0530",
+    "summary": "The FBI has arrested another suspected co-conspirator of ShinyHunters, FBI Director Kash Patel said on October 9 in a&nbsp;post on X.\n\nShinyHunters is the extortion group that said in September it had&nbsp;breached the FBI's jobs portal&nbsp;and stolen sensitive data on almost all FBI agents and job applicants. The FBI has not named the suspect, and no charges have been made public.\n\nThe",
+    "analysis": {
+      "issue": "The FBI arrested another suspected ShinyHunters co-conspirator whom news reports link to the breach of its jobs portal",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
     "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
     "published": "Fri, 09 Oct 2026 21:59:55 +0530",
@@ -144,40 +180,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at Pwn2Own",
-    "link": "https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html",
-    "published": "Fri, 09 Oct 2026 13:56:17 +0530",
-    "summary": "Three research teams broke into Google's Pixel 10 on October 8 at Pwn2Own Ireland, a hacking contest in Cork whose rules require every target to be fully patched. The contest pays researchers to show working exploits and passes the flaws to the vendors. One of the three Pixel exploits earned Ikotas Labs $300,000, the contest's top prize, and made the team the overall winner.\n\nTrend Micro's Zero",
+    "source": "Bleeping Computer",
+    "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
+    "published": "Fri, 09 Oct 2026 16:31:37 -0400",
+    "summary": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks. [...]",
     "analysis": {
-      "issue": "Three teams demonstrated remote exploits against fully patched Pixel 10 phones at Pwn2Own Ireland, earning $562,500 in total",
+      "issue": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments",
-    "link": "https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html",
-    "published": "Fri, 09 Oct 2026 13:41:33 +0530",
-    "summary": "Citrix has released patches for yet another critical security flaw impacting NetScaler ADC and NetScaler Gateway that could result in remote code execution or denial-of-service (DoS) under certain conditions.\n\n\"CVE-2026-107406 is a memory overflow vulnerability that may lead to remote code execution or denial-of-service under specific configuration conditions,\" Citrix said.\n\nThe vulnerability",
-    "analysis": {
-      "issue": "Citrix patched CVE-2026-107406, a critical NetScaler memory overflow that could allow RCE or DoS in deployments configured for SAML",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-107406"
-      ],
-      "threat_categories": [
-        "Vulnerability"
+        "General Security"
       ]
     }
   },
@@ -352,25 +368,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
-    "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/",
-    "published": "Thu, 08 Oct 2026 17:42:51 -0400",
-    "summary": "The FBI has seized seven domains used by Chinese state-sponsored hackers known as Flax Typhoon to operate two hacking tools, MicroScan and FishHub, used in attacks that breached critical infrastructure and other organizations worldwide. [...]",
-    "analysis": {
-      "issue": "The FBI has seized seven domains used by Chinese state-sponsored hackers known as Flax Typhoon to operate two hacking tools, MicroScan and FishHub, used in attacks that breached critical infrastructure and other organizations worldwide",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
     "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
@@ -461,10 +458,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-81963",
         "CVE-2026-69829",
-        "CVE-2026-69730",
         "CVE-2026-85880",
-        "CVE-2026-81963"
+        "CVE-2026-69730"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -706,10 +703,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-107406",
         "CVE-2026-88772",
         "CVE-2026-88771",
-        "CVE-2026-88779",
-        "CVE-2026-107406"
+        "CVE-2026-88779"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -765,23 +762,23 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-76480",
         "CVE-2026-76459",
-        "CVE-2026-76498",
-        "CVE-2026-76482",
-        "CVE-2026-76483",
         "CVE-2026-76486",
-        "CVE-2026-76471",
-        "CVE-2026-76500",
-        "CVE-2026-20362",
-        "CVE-2026-76501",
-        "CVE-2026-76499",
-        "CVE-2026-76485",
-        "CVE-2026-20328",
-        "CVE-2026-76455",
         "CVE-2026-76465",
-        "CVE-2026-76454",
-        "CVE-2026-76464"
+        "CVE-2026-76480",
+        "CVE-2026-20362",
+        "CVE-2026-76500",
+        "CVE-2026-76501",
+        "CVE-2026-76498",
+        "CVE-2026-20328",
+        "CVE-2026-76485",
+        "CVE-2026-76499",
+        "CVE-2026-76483",
+        "CVE-2026-76482",
+        "CVE-2026-76464",
+        "CVE-2026-76471",
+        "CVE-2026-76455",
+        "CVE-2026-76454"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -859,10 +856,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-48388",
-        "CVE-2026-50475",
         "CVE-2026-91799",
-        "CVE-2026-57256"
+        "CVE-2026-48388",
+        "CVE-2026-57256",
+        "CVE-2026-50475"
       ],
       "threat_categories": [
         "Vulnerability",
