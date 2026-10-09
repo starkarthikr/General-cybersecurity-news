@@ -1,12 +1,12 @@
 [
   {
     "source": "The Hacker News",
-    "title": "FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails",
-    "link": "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html",
-    "published": "Fri, 09 Oct 2026 00:02:21 +0530",
-    "summary": "Hackers tied to a Chinese cybersecurity company stole email from government organizations, law enforcement agencies, healthcare systems, and religious institutions in Southeast Asia, the FBI and agencies in 6 other countries said on October 8.\n\nThe company, Integrity Technology Group, has been sanctioned by the U.S. and the UK. The hackers scanned websites for flaws using a tool containing more",
+    "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
+    "link": "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html",
+    "published": "Fri, 09 Oct 2026 18:52:53 +0530",
+    "summary": "Four more U.S. states sued router maker TP-Link Systems on October 6, bringing the total to five, with &nbsp;Texas filing a suit in February. Florida, Iowa, Montana and Nebraska allege the California company misled buyers about how secure its routers are and how separate it is from China. TP-Link&nbsp;denies the claims&nbsp;and says it will fight them in court.\n\nTP-Link Systems is based in",
     "analysis": {
-      "issue": "FBI says Integrity Technology Group-linked hackers stole email in Southeast Asia using custom tools and a scanner with over 1,300 scripts",
+      "issue": "states sued TP-Link over allegedly misleading claims about router security and China ties, as 21 attorneys general contacted the FCC",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -19,31 +19,12 @@
   },
   {
     "source": "The Hacker News",
-    "title": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
-    "link": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
-    "published": "Thu, 08 Oct 2026 23:28:02 +0530",
-    "summary": "The crooks have trust problems of their own. One ransomware affiliate decided to keep the profits for himself. Elsewhere, an attacker left a server exposed, complete with tools and traces of an intrusion. Apparently, keeping things secure is a problem on both sides of the fence.\n\nThe rest of the week isn't much more reassuring. Malicious code turned up in developer packages and extensions that",
+    "title": "Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access",
+    "link": "https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html",
+    "published": "Fri, 09 Oct 2026 18:29:22 +0530",
+    "summary": "Security researchers have&nbsp;published a full working exploit&nbsp;for a pre-authentication remote code execution flaw in AnyDesk Linux that gives attackers root access before anyone approves the connection.\n\nAnyDesk patched the flaw in version 8.0.3 in June, but its&nbsp;changelog&nbsp;described the fix only as \"fixed a bug that could lead to a crash,\" with no CVE assigned and no security",
     "analysis": {
-      "issue": "ThreatsDay: Malicious VS Code themes, npm supply-chain attacks, AI phishing, ransomware betrayal, exposed hacker tools, and more cybersecurity news",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks",
-    "link": "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html",
-    "published": "Thu, 08 Oct 2026 21:15:56 +0530",
-    "summary": "Attackers behind a string of personal data leaks at Japanese organizations have abused APIs for mobile apps and targeted known software flaws, the JPCERT Coordination Center (JPCERT/CC) said.\n\nThe Tokyo-based center, which takes incident reports, based its&nbsp;October 8, 2026 alert&nbsp;on those reports and other information. The alert names no attacker and no affected organization.\n\nJPCERT/",
-    "analysis": {
-      "issue": "JPCERT/CC links Japan's recent data leaks to mobile API abuse and known software flaws, including an exploited Metabase SQL injection bug",
+      "issue": "A public exploit for AnyDesk Linux 8",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -56,12 +37,66 @@
   },
   {
     "source": "The Hacker News",
-    "title": "UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML",
-    "link": "https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html",
-    "published": "Thu, 08 Oct 2026 20:56:56 +0530",
-    "summary": "The Russia-aligned threat actor known as UAC-0099 has been attributed to a previously undocumented .NET infostealer and remote access trojan (RAT) codenamed ASHVEIN.\n\nAccording to TrendAI, the malware has been put to use in attacks targeting Ukrainian government personnel. The cybersecurity company is tracking the cluster under the name Earth Sirrush (previously SHADOW-EARTH-065).\n\nASHVEIN,",
+    "title": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
+    "link": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
+    "published": "Fri, 09 Oct 2026 18:17:28 +0530",
+    "summary": "Anthropic on Thursday unveiled OSS Scanner as an opt-in vulnerability scanner to help secure the open-source ecosystem using artificial intelligence (AI).\n\n\"It's an opt-in service informed by our experience using Claude to find vulnerabilities during Project Glasswing,\" Anthropic said. \"Projects that join will receive thorough, periodic security scans by our strongest models at no cost.\"",
     "analysis": {
-      "issue": "TrendAI links UAC-0099 to ASHVEIN, a",
+      "issue": "Anthropic's opt-in OSS Scanner offers free, periodic AI vulnerability scans for open-source projects, with no human review required for reports",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
+    "link": "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html",
+    "published": "Fri, 09 Oct 2026 18:17:26 +0530",
+    "summary": "Threat actors have been observed exploiting two recently disclosed flaws in the AhsayCBS backup utility to seize control of affected devices and deploy web shells and XMRig cryptocurrency miners.\n\nDetails of the flaws are below -\n\n\n  CVE-2026-105133 (CVSS v4 score: 5.5) - An improper authentication vulnerability in the checkSysPwd() function in the \"com/ahsay/obs/api/ApiStructsAction.java\"",
+    "analysis": {
+      "issue": "Attackers are exploiting two AhsayCBS flaws to deploy web shells and XMRig miners, and Huntress says version 10",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies",
+    "link": "https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html",
+    "published": "Fri, 09 Oct 2026 17:51:51 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added five security flaws to its Known Exploited Vulnerabilities (KEV) catalog, following their abuse by a China-linked threat actor known as Flax Typhoon.\n\nThe vulnerabilities in question are listed below -\n\n\n  CVE-2015-3306 (CVSS score: 10.0) - An improper access control vulnerability in ProFTPD that could allow",
+    "analysis": {
+      "issue": "CISA added five Flax Typhoon-exploited flaws to KEV, requiring federal agencies to patch affected software or stop using it by October 11, 2026",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition",
+    "link": "https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html",
+    "published": "Fri, 09 Oct 2026 17:00:00 +0530",
+    "summary": "As enterprises race to deploy autonomous AI agents to accelerate business, a new report reveals they are tethered to security architectures built for a different era. The \"Horizons of Identity Security\" report from SailPoint highlights a critical “velocity paradox,” in which organizations invest in AI-speed business operations while continuing to rely on human-speed security controls, creating a",
+    "analysis": {
+      "issue": "SailPoint says 54% of organizations have no formal agent identity security program, versus 23% at the same maturity level for human identities",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -74,12 +109,12 @@
   },
   {
     "source": "The Hacker News",
-    "title": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
-    "link": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
-    "published": "Thu, 08 Oct 2026 19:42:34 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a targeted campaign aimed at South Korean financial organizations that used an artificial intelligence (AI) pen testing tool named ARTEX to carry out the attacks.\n\nThe activity, per CrowdStrike Intelligence, was active from late September to early October 2026, and resulted in data exfiltration.\n\n\"In this activity, the threat actor leveraged",
+    "title": "GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys",
+    "link": "https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html",
+    "published": "Fri, 09 Oct 2026 14:33:24 +0530",
+    "summary": "A bug in GoBalance, a tool many dark-web sites use to stay reachable during attacks, lets anyone work out the secret key that controls a site's .onion address using only public information, and then take that address over.\n\nSearchlight Cyber, which&nbsp;disclosed the flaw&nbsp;on October 8, says an attacker who recovers the key can redirect the site's visitors to a copy of the site they control.",
     "analysis": {
-      "issue": "Attackers used ARTEX and LLMs against South Korean financial organizations in a campaign that resulted in data exfiltration",
+      "issue": "A GoBalance signing flaw lets attackers recover Tor-format",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -92,30 +127,68 @@
   },
   {
     "source": "The Hacker News",
-    "title": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia",
-    "link": "https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html",
-    "published": "Thu, 08 Oct 2026 16:00:00 +0530",
-    "summary": "Phishing kits are no longer limited to copying a familiar login page and waiting for a victim to enter credentials. Attackers are increasingly building filtering, session management, and traffic controls into the infrastructure that delivers the phishing page itself.\n\nANY.RUN has identified Wazza, a new phishkit targeting banking, manufacturing, and government organizations across the US, Europe",
+    "title": "Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at Pwn2Own",
+    "link": "https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html",
+    "published": "Fri, 09 Oct 2026 13:56:17 +0530",
+    "summary": "Three research teams broke into Google's Pixel 10 on October 8 at Pwn2Own Ireland, a hacking contest in Cork whose rules require every target to be fully patched. The contest pays researchers to show working exploits and passes the flaws to the vendors. One of the three Pixel exploits earned Ikotas Labs $300,000, the contest's top prize, and made the team the overall winner.\n\nTrend Micro's Zero",
     "analysis": {
-      "issue": "Wazza filters visitors with session tokens and browser checks before serving Adobe-themed Device Code phishing pages",
+      "issue": "Three teams demonstrated remote exploits against fully patched Pixel 10 phones at Pwn2Own Ireland, earning $562,500 in total",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Phishing"
+        "Vulnerability"
       ]
     }
   },
   {
     "source": "The Hacker News",
-    "title": "16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases",
-    "link": "https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html",
-    "published": "Thu, 08 Oct 2026 15:16:32 +0530",
-    "summary": "Cybersecurity researchers have discovered a cluster of 16 malicious Mozilla Firefox extensions that are capable of stealing cryptocurrency wallet recovery phrases and private keys.\n\n\"The extensions masquerade as wallet portals, desktop utilities, and browser tools, but their code intercepts recovery phrases and private keys during wallet import flows and attempts to send those secrets to",
+    "title": "Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments",
+    "link": "https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html",
+    "published": "Fri, 09 Oct 2026 13:41:33 +0530",
+    "summary": "Citrix has released patches for yet another critical security flaw impacting NetScaler ADC and NetScaler Gateway that could result in remote code execution or denial-of-service (DoS) under certain conditions.\n\n\"CVE-2026-107406 is a memory overflow vulnerability that may lead to remote code execution or denial-of-service under specific configuration conditions,\" Citrix said.\n\nThe vulnerability",
     "analysis": {
-      "issue": "Sixteen malicious Firefox extensions imitate Rabby and OKX wallets to intercept recovery phrases and private keys during wallet imports",
+      "issue": "Citrix patched CVE-2026-107406, a critical NetScaler memory overflow that could allow RCE or DoS in deployments configured for SAML",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-107406"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions",
+    "link": "https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html",
+    "published": "Fri, 09 Oct 2026 12:09:29 +0530",
+    "summary": "The U.S. Federal Bureau of Investigation (FBI) and Department of Justice (DoJ) have announced the disruption of malicious tools used by a China-linked advanced persistent threat group known as Flax Typhoon.\n\nTo that end, the agencies seized several domains and blocked access to platforms that were used to scan, and in some cases infiltrate, U.S. critical infrastructure. The list of seized",
+    "analysis": {
+      "issue": "authorities seized seven domains used by China-linked Flax Typhoon to scan networks and support intrusions into critical infrastructure",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "How to keep AI agents within their permissions",
+    "link": "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/",
+    "published": "Fri, 09 Oct 2026 10:01:11 -0400",
+    "summary": "AI agents can use valid credentials to perform actions beyond their assigned permissions, creating risks that traditional access controls may not prevent. Token Security explains how organizations can enforce agent-specific policies without sacrificing autonomy. [...]",
+    "analysis": {
+      "issue": "Written by: Ido Shlomo Co-Founder and CTO of Token Security AI agents should do more on their own",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -127,13 +200,33 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks",
-    "link": "https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html",
-    "published": "Thu, 08 Oct 2026 13:12:04 +0530",
-    "summary": "The U.S. State Department is offering up to $10 million for information leading to the identification or location of Zhang Yu, a Chinese national charged in the United States in connection with the 2021 Microsoft Exchange Server attacks known as HAFNIUM.\n\nThe reward is for information leading to his identification or location, the news outlet&nbsp;NTD reported&nbsp;this week, citing a notice",
+    "source": "Bleeping Computer",
+    "title": "Max severity SonicWall SMA1000 flaw now exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/",
+    "published": "Fri, 09 Oct 2026 08:32:16 -0400",
+    "summary": "Attackers are exploiting a maximum-severity vulnerability in SonicWall SMA1000 appliances (CVE-2026-102255) that was patched on Tuesday, three days ago. [...]",
     "analysis": {
-      "issue": "offers up to $10 million for information that identifies or locates Zhang Yu, charged over the HAFNIUM Exchange hacks",
+      "issue": "Attackers are exploiting a maximum-severity vulnerability in SonicWall SMA1000 appliances (CVE-2026-102255) that was patched on Tuesday, three days ago",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-102255"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Man admits to running network of 15,000 money mules for cybercriminals",
+    "link": "https://www.bleepingcomputer.com/news/security/ukrainian-russian-dual-citizen-admits-to-laundering-millions-for-cybercriminals/",
+    "published": "Fri, 09 Oct 2026 07:14:28 -0400",
+    "summary": "​A Ukrainian-Russian dual citizen has pleaded guilty to running a massive money laundering operation that laundered millions for cybercriminals worldwide. [...]",
+    "analysis": {
+      "issue": "​A Ukrainian-Russian dual citizen has pleaded guilty to running a massive money laundering operation that laundered millions for cybercriminals worldwide",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -145,31 +238,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "MonsterCloud Owner Accused of Billing Over $19M While Secretly Paying Ransoms to Decrypt Data",
-    "link": "https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html",
-    "published": "Thu, 08 Oct 2026 13:11:44 +0530",
-    "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced charges against a 50-year-old U.S. and Israeli national for allegedly defrauding ransomware victims by secretly paying the attackers to obtain decryptors while claiming to use proprietary tools to recover their data.\n\nZohar Pinhasi (aka Zack Silver and Zack Green) has been charged with two counts of wire fraud and one count of wire",
+    "source": "Bleeping Computer",
+    "title": "Microsoft: Outdated Windows devices will stop receiving security updates",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/",
+    "published": "Fri, 09 Oct 2026 06:12:24 -0400",
+    "summary": "Microsoft says devices running unsupported versions of Windows will stop receiving security updates after next year's Windows Update certificate rotation. [...]",
     "analysis": {
-      "issue": "MonsterCloud's owner is accused of charging ransomware victims over $19 million while secretly paying attackers over $8 million for decryptors",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm",
-    "link": "https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html",
-    "published": "Thu, 08 Oct 2026 11:16:20 +0530",
-    "summary": "The npm package known as \"tensorlake,\" a TypeScript software development kit (SDK) for Tensorlake applications, sandboxes, and cloud services, was compromised as part of a ChainDrop / Shai-Hulud supply chain attack.\n\nThe malicious version 0.5.144 \"contains obfuscated malware that harvests credentials, exfiltrates secrets, establishes persistence, and executes remotely supplied code,\" Socket said",
-    "analysis": {
-      "issue": "Malicious tensorlake npm version 0",
+      "issue": "Microsoft says devices running unsupported versions of Windows will stop receiving security updates after next year's Windows Update certificate rotation",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -177,6 +252,26 @@
       "cves": [],
       "threat_categories": [
         "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Citrix warns admins to patch new NetScaler RCE flaw immediately",
+    "link": "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/",
+    "published": "Fri, 09 Oct 2026 04:27:42 -0400",
+    "summary": "Citrix has warned IT administrators to patch systems immediately against a new critical vulnerability affecting NetScaler ADC networking appliances and NetScaler Gateway secure remote access solutions. [...]",
+    "analysis": {
+      "issue": "Citrix has warned IT administrators to patch systems immediately against a new critical vulnerability affecting NetScaler ADC networking appliances and NetScaler Gateway secure remote access solutions",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-107406"
+      ],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -273,100 +368,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Cisco warns of critical flaws allowing Nexus switch takeover",
-    "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/",
-    "published": "Thu, 08 Oct 2026 11:26:33 -0400",
-    "summary": "Cisco released security advisories for five critical vulnerabilities in its NX-OS data center network operating system that could be exploited to run arbitrary code with root privileges on Nexus switches. [...]",
-    "analysis": {
-      "issue": "Cisco released security advisories for five critical vulnerabilities in its NX-OS data center network operating system that could be exploited to run arbitrary code with root privileges on Nexus switches",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-76486"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "OAuth grants pile up faster than you can review them. Here's how to keep up.",
-    "link": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/",
-    "published": "Thu, 08 Oct 2026 10:00:10 -0400",
-    "summary": "OAuth grants create data highways between SaaS apps, AI agents, and other tools. And, they are multiplying faster than any security team can review them. As the recent Klue breach showed, attackers are taking notice and exploiting forgotten OAuth grants to gain access to corporate data. This article covers why OAuth risks are so hard [...]",
-    "analysis": {
-      "issue": "Every time an employee clicks \"Allow\" on an OAuth consent screen, they create a standing trust relationship between two apps",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Uranium crypto exchange hacker convicted for stealing $53 million",
-    "link": "https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/",
-    "published": "Thu, 08 Oct 2026 09:18:36 -0400",
-    "summary": "A Maryland man was found guilty of stealing more than $53 million after hacking the decentralized crypto exchange Uranium Finance twice in April 2021. [...]",
-    "analysis": {
-      "issue": "A Maryland man was found guilty of stealing more than $53 million after hacking the decentralized crypto exchange Uranium Finance twice in April 2021",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft Teams to get support for third-party deepfake detection tools",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/",
-    "published": "Thu, 08 Oct 2026 08:08:16 -0400",
-    "summary": "Microsoft will soon introduce support for third-party deepfake detection solutions and impersonation protection in Teams meetings. [...]",
-    "analysis": {
-      "issue": "Microsoft will soon introduce support for third-party deepfake detection solutions and impersonation protection in Teams meetings",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "ASOS links data breach to social engineering attack, credential theft",
-    "link": "https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/",
-    "published": "Thu, 08 Oct 2026 07:42:46 -0400",
-    "summary": "ASOS is sending updates to affected customers about the cybersecurity incident it suffered earlier this week, confirming that hackers accessed some personal data. [...]",
-    "analysis": {
-      "issue": "UK fashion retailer ASOS confirmed that a recent data breach was caused by a social engineering attack in which hackers stole an employee’s login credentials and used them to access information on third-party platforms used by the company",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Phishing",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
     "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
@@ -458,9 +459,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-85880",
-        "CVE-2026-69829",
         "CVE-2026-69730",
-        "CVE-2026-81963"
+        "CVE-2026-81963",
+        "CVE-2026-69829"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -569,6 +570,169 @@
   },
   {
     "source": "Security Week",
+    "title": "In Other News: AI Used in Korean Bank Breaches, Poem-Guided Botnet, Empire Admin Gets 40 Years",
+    "link": "https://www.securityweek.com/in-other-news-ai-used-in-korean-bank-breaches-poem-guided-botnet-empire-admin-gets-40-years/",
+    "published": "Fri, 09 Oct 2026 12:03:50 +0000",
+    "summary": "<p>Noteworthy stories that might have slipped under the radar: Tensorlake npm SDK compromised, Empire Market co-founder gets 40 years, exposed NVIDIA GPU monitors leak telemetry.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-ai-used-in-korean-bank-breaches-poem-guided-botnet-empire-admin-gets-40-years/\">In Other News: AI Used in Korean Bank Breaches, Poem-Guided Botnet, Empire Admin Gets 40 Years</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Noteworthy stories that might have slipped under the radar: Tensorlake npm SDK compromised, Empire Market co-founder gets 40 years, exposed NVIDIA GPU monitors leak telemetry",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2026-47483"
+      ],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability",
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Google Domains Impacted by Recent ccTLD Hijacks",
+    "link": "https://www.securityweek.com/google-domains-impacted-by-recent-cctld-domain-hijacks/",
+    "published": "Fri, 09 Oct 2026 11:43:14 +0000",
+    "summary": "<p>Hackers hijacked the .gh, .sl, and .as ccTLDs and obtained HTTPS certificates for several Google domains.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-domains-impacted-by-recent-cctld-domain-hijacks/\">Google Domains Impacted by Recent ccTLD Hijacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "as ccTLDs and obtained HTTPS certificates for several Google domains",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Unpatched AhsayCBS Vulnerabilities Exploited in the Wild",
+    "link": "https://www.securityweek.com/unpatched-ahsaycbs-vulnerabilities-exploited-in-the-wild/",
+    "published": "Fri, 09 Oct 2026 10:23:42 +0000",
+    "summary": "<p>The flaws, CVE-2026-105133 and CVE-2026-105134, allow attackers to bypass authentication and inject OS commands.</p>\n<p>The post <a href=\"https://www.securityweek.com/unpatched-ahsaycbs-vulnerabilities-exploited-in-the-wild/\">Unpatched AhsayCBS Vulnerabilities Exploited in the Wild</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The flaws, CVE-2026-105133 and CVE-2026-105134, allow attackers to bypass authentication and inject OS commands",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-105133",
+        "CVE-2026-105134"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Pre-Baked Firmware Malware Hits Budget Android Devices in 150+ Countries",
+    "link": "https://www.securityweek.com/pre-baked-firmware-malware-hits-budget-android-devices-in-150-countries/",
+    "published": "Fri, 09 Oct 2026 09:55:35 +0000",
+    "summary": "<p>Midnight Mimosa is the name given to a malware campaign primarily running preinstalled on low-cost Android devices.</p>\n<p>The post <a href=\"https://www.securityweek.com/pre-baked-firmware-malware-hits-budget-android-devices-in-150-countries/\">Pre-Baked Firmware Malware Hits Budget Android Devices in 150+ Countries</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Midnight Mimosa is the name given to a malware campaign primarily running preinstalled on low-cost Android devices",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "US Disrupts Chinese State-Sponsored Hacking Tools",
+    "link": "https://www.securityweek.com/us-disrupts-chinese-state-sponsored-hacking-tools/",
+    "published": "Fri, 09 Oct 2026 08:36:37 +0000",
+    "summary": "<p>Flax Typhoon and other APTs used MicroScan and FishHub to scan and hack US and foreign critical infrastructure.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-disrupts-chinese-state-sponsored-hacking-tools/\">US Disrupts Chinese State-Sponsored Hacking Tools</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Flax Typhoon and other APTs used MicroScan and FishHub to scan and hack US and foreign critical infrastructure",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Phishing",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Anthropic Fast-Tracks AI Bug Reports to OSS Maintainers, Taps 11 Firms for OT Security",
+    "link": "https://www.securityweek.com/anthropic-fast-tracks-ai-bug-reports-to-oss-maintainers-taps-11-firms-for-ot-security/",
+    "published": "Fri, 09 Oct 2026 08:19:33 +0000",
+    "summary": "<p>OSS Scanner sends unreviewed, model-generated vulnerability reports to open source maintainers that opt in.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-fast-tracks-ai-bug-reports-to-oss-maintainers-taps-11-firms-for-ot-security/\">Anthropic Fast-Tracks AI Bug Reports to OSS Maintainers, Taps 11 Firms for OT Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "OSS Scanner sends unreviewed, model-generated vulnerability reports to open source maintainers that opt in",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Citrix Urges Immediate Patching of Critical NetScaler Vulnerability",
+    "link": "https://www.securityweek.com/citrix-urges-immediate-patching-of-critical-netscaler-vulnerability/",
+    "published": "Fri, 09 Oct 2026 06:53:53 +0000",
+    "summary": "<p>The security defect, tracked as CVE-2026-107406, could lead to remote code execution or denial-of-service.</p>\n<p>The post <a href=\"https://www.securityweek.com/citrix-urges-immediate-patching-of-critical-netscaler-vulnerability/\">Citrix Urges Immediate Patching of Critical NetScaler Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The security defect, tracked as CVE-2026-107406, could lead to remote code execution or denial-of-service",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-107406",
+        "CVE-2026-88772",
+        "CVE-2026-88779",
+        "CVE-2026-88771"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Google Pixel 10 Exploits Earned Hackers $560,000 at Pwn2Own",
+    "link": "https://www.securityweek.com/google-pixel-10-exploits-earned-hackers-560000-at-pwn2own/",
+    "published": "Fri, 09 Oct 2026 06:39:55 +0000",
+    "summary": "<p>$1.2 million was paid out at Pwn2Own Ireland 2026 for exploits targeting phones, printers, smart speakers, smart home hubs, and AI infrastructure and coding tools.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-pixel-10-exploits-earned-hackers-560000-at-pwn2own/\">Google Pixel 10 Exploits Earned Hackers $560,000 at Pwn2Own</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "2 million was paid out at Pwn2Own Ireland 2026 for exploits targeting phones, printers, smart speakers, smart home hubs, and AI infrastructure and coding tools",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Formula Predicts When AI Chatbots Are at Risk of Turning Bad",
     "link": "https://www.securityweek.com/formula-predicts-when-ai-chatbots-are-at-risk-of-turning-bad/",
     "published": "Fri, 09 Oct 2026 04:12:38 +0000",
@@ -598,188 +762,26 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-76471",
-        "CVE-2026-76486",
-        "CVE-2026-76482",
-        "CVE-2026-76464",
-        "CVE-2026-76483",
-        "CVE-2026-76465",
-        "CVE-2026-20328",
-        "CVE-2026-76500",
-        "CVE-2026-76499",
-        "CVE-2026-76501",
         "CVE-2026-76480",
+        "CVE-2026-76483",
+        "CVE-2026-20328",
+        "CVE-2026-76464",
         "CVE-2026-76485",
         "CVE-2026-76498",
         "CVE-2026-76455",
-        "CVE-2026-20362",
+        "CVE-2026-76499",
+        "CVE-2026-76501",
+        "CVE-2026-76482",
         "CVE-2026-76454",
-        "CVE-2026-76459"
+        "CVE-2026-20362",
+        "CVE-2026-76465",
+        "CVE-2026-76486",
+        "CVE-2026-76459",
+        "CVE-2026-76471",
+        "CVE-2026-76500"
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Security Awareness Training Isn’t Dead, but It Needs a Rethink",
-    "link": "https://www.securityweek.com/security-awareness-training-isnt-dead-but-it-needs-a-rethink/",
-    "published": "Thu, 08 Oct 2026 14:30:00 +0000",
-    "summary": "<p>All enterprises conduct security awareness training for their employees. But whether this has tangible benefits is debatable.</p>\n<p>The post <a href=\"https://www.securityweek.com/security-awareness-training-isnt-dead-but-it-needs-a-rethink/\">Security Awareness Training Isn&#8217;t Dead, but It Needs a Rethink</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "All enterprises conduct security awareness training for their employees",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Phishing",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Attackers Target Critical Atlassian Vulnerability Within Hours of PoC Publication",
-    "link": "https://www.securityweek.com/attackers-target-critical-atlassian-vulnerability-within-hours-of-poc-publication/",
-    "published": "Thu, 08 Oct 2026 14:04:44 +0000",
-    "summary": "<p>Threat actors have started targeting CVE-2026-21589, a critical vulnerability in Atlassian’s self-hosted Data Center products.</p>\n<p>The post <a href=\"https://www.securityweek.com/attackers-target-critical-atlassian-vulnerability-within-hours-of-poc-publication/\">Attackers Target Critical Atlassian Vulnerability Within Hours of PoC Publication</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Threat actors have started targeting CVE-2026-21589, a critical vulnerability in Atlassian’s self-hosted Data Center products",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-21589"
-      ],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "US Seeks Alleged Chinese Hafnium Hacker With $10 Million Reward",
-    "link": "https://www.securityweek.com/us-seeks-alleged-chinese-hafnium-hacker-with-10-million-reward/",
-    "published": "Thu, 08 Oct 2026 12:46:21 +0000",
-    "summary": "<p>Zhang Yu was charged alongside Xu Zewei, who was extradited from Italy to the US in April 2026.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-seeks-alleged-chinese-hafnium-hacker-with-10-million-reward/\">US Seeks Alleged Chinese Hafnium Hacker With $10 Million Reward</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Zhang Yu was charged alongside Xu Zewei, who was extradited from Italy to the US in April 2026",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "SonicWall and Splunk Patch Critical Vulnerabilities",
-    "link": "https://www.securityweek.com/sonicwall-and-splunk-patch-critical-vulnerabilities/",
-    "published": "Thu, 08 Oct 2026 12:37:32 +0000",
-    "summary": "<p>Critical and high-severity vulnerabilities could allow attackers to bypass authentication, execute arbitrary code, and elevate their privileges.</p>\n<p>The post <a href=\"https://www.securityweek.com/sonicwall-and-splunk-patch-critical-vulnerabilities/\">SonicWall and Splunk Patch Critical Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Critical and high-severity vulnerabilities could allow attackers to bypass authentication, execute arbitrary code, and elevate their privileges",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-102255"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Rein Security Raises $25 Million to Guard AI Agents at Runtime",
-    "link": "https://www.securityweek.com/rein-security-raises-25-million-to-guard-ai-agents-at-runtime/",
-    "published": "Thu, 08 Oct 2026 11:11:28 +0000",
-    "summary": "<p>The cybersecurity startup will invest in product innovation, agentic research, and employee base expansion.</p>\n<p>The post <a href=\"https://www.securityweek.com/rein-security-raises-25-million-to-guard-ai-agents-at-runtime/\">Rein Security Raises $25 Million to Guard AI Agents at Runtime</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The cybersecurity startup will invest in product innovation, agentic research, and employee base expansion",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "TP-Link Faces State Lawsuits and New Scrutiny Over ISP Router Flaws",
-    "link": "https://www.securityweek.com/tp-link-faces-state-lawsuits-and-new-scrutiny-over-isp-router-flaws/",
-    "published": "Thu, 08 Oct 2026 10:24:04 +0000",
-    "summary": "<p>SEC Consult has published technical details on vulnerabilities mentioned in a complaint filed by several US states.</p>\n<p>The post <a href=\"https://www.securityweek.com/tp-link-faces-state-lawsuits-and-new-scrutiny-over-isp-router-flaws/\">TP-Link Faces State Lawsuits and New Scrutiny Over ISP Router Flaws</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "SEC Consult has published technical details on vulnerabilities mentioned in a complaint filed by several US states",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2025-30238",
-        "CVE-2025-30240",
-        "CVE-2025-30239",
-        "CVE-2025-30241",
-        "CVE-2025-30237"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Fake Decryption Tools Masked $11M Markup in Ransomware Recovery Scheme",
-    "link": "https://www.securityweek.com/fake-decryption-tools-masked-11m-markup-in-ransomware-recovery-scheme/",
-    "published": "Thu, 08 Oct 2026 09:27:55 +0000",
-    "summary": "<p>Zohar Pinhasi was paying ransoms to obtain decryption keys and then charging victims substantially more for remediation.</p>\n<p>The post <a href=\"https://www.securityweek.com/fake-decryption-tools-masked-11m-markup-in-ransomware-recovery-scheme/\">Fake Decryption Tools Masked $11M Markup in Ransomware Recovery Scheme</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Zohar Pinhasi was paying ransoms to obtain decryption keys and then charging victims substantially more for remediation",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Oracle Health Data Breach Tally Climbs to Nearly 20 Million",
-    "link": "https://www.securityweek.com/oracle-health-data-breach-tally-climbs-to-nearly-20-million/",
-    "published": "Thu, 08 Oct 2026 08:23:31 +0000",
-    "summary": "<p>The figure is far higher than the counts that surfaced in earlier filings and patient notifications.</p>\n<p>The post <a href=\"https://www.securityweek.com/oracle-health-data-breach-tally-climbs-to-nearly-20-million/\">Oracle Health Data Breach Tally Climbs to Nearly 20 Million</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The figure is far higher than the counts that surfaced in earlier filings and patient notifications",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach"
       ]
     }
   },
@@ -854,10 +856,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
+        "CVE-2026-48388",
         "CVE-2026-50475",
-        "CVE-2026-91799",
         "CVE-2026-57256",
-        "CVE-2026-48388"
+        "CVE-2026-91799"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -976,6 +978,24 @@
       "threat_categories": [
         "Malware",
         "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "Recorded Future Introduces AI Infrastructure Indicator Lists, Strengthening AI Governance",
+    "link": "https://www.recordedfuture.com/blog/ai-infrastructure-indicator-lists",
+    "published": "Fri, 09 Oct 2026 00:00:00 GMT",
+    "summary": "Recorded Future's new AI Infrastructure Indicator Lists help security teams find shadow AI, enforce policy, and prevent data loss.",
+    "analysis": {
+      "issue": "Recorded Future's new AI Infrastructure Indicator Lists help security teams find shadow AI, enforce policy, and prevent data loss",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1135,24 +1155,6 @@
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "The New Rules of Machine Speed Defense",
-    "link": "https://www.recordedfuture.com/blog/new-rules-machine-speed-defense",
-    "published": "Thu, 17 Sep 2026 00:00:00 GMT",
-    "summary": "Experts from Recorded Future and Mastercard explore how security organizations can shift to proactive, machine-speed defense by leveraging high-quality threat intelligence and adhering to evolving global security frameworks designed to help mitigate AI-enabled risks.",
-    "analysis": {
-      "issue": "Experts from Recorded Future and Mastercard explore how security organizations can shift to proactive, machine-speed defense by leveraging high-quality threat intelligence and adhering to evolving global security frameworks designed to help mitigate ",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
       "cves": [],
       "threat_categories": [
         "General Security"
@@ -1357,6 +1359,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "ASOS breach update: Hackers stole customer details and shopping searches",
+    "link": "https://www.malwarebytes.com/blog/data-breaches/2026/10/asos-breach-update-hackers-stole-customer-details-and-shopping-searches",
+    "published": "Fri, 09 Oct 2026 10:56:41 GMT",
+    "summary": "Stolen ASOS data includes shopping searches as well as personal details, so customers should watch out for convincing phishing messages.",
+    "analysis": {
+      "issue": "The customer data stolen from global fashion retailer ASOS includes more than just names and contact details, raising questions about its early reassurances",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Attackers hijack country-code domains to impersonate Google and other services",
     "link": "https://www.malwarebytes.com/blog/news/2026/10/attackers-hijack-country-code-domains-to-impersonate-google-and-other-services",
     "published": "Thu, 08 Oct 2026 15:53:18 GMT",
@@ -1516,26 +1536,6 @@
       "cves": [],
       "threat_categories": [
         "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Domino’s customers targeted in credential stuffing attacks",
-    "link": "https://www.malwarebytes.com/blog/news/2026/10/dominos-customers-targeted-in-credential-stuffing-attacks",
-    "published": "Tue, 06 Oct 2026 11:16:29 GMT",
-    "summary": "Domino's is warning customers by email that their accounts have been compromised in a credential stuffing attack.",
-    "analysis": {
-      "issue": "Domino’s Pizza customers tell us they have received emails saying they account has been accessed by a third party",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Malware",
-        "Phishing"
       ]
     }
   },
