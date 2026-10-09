@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-09 05:33:56 UTC
+**Last Updated:** 2026-10-09 06:30:20 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -94,7 +94,16 @@
 
 ---
 
-### 11. [FBI disrupts Chinese hacking tools used to breach critical infrastructure](https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/)
+### 11. [Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland](https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 09 Oct 2026 01:41:04 -0400  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [FBI disrupts Chinese hacking tools used to breach critical infrastructure](https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 08 Oct 2026 17:42:51 -0400  
@@ -103,7 +112,7 @@
 
 ---
 
-### 12. [Ransomware attack disrupts Japan's IDCF Cloud used by govt clients](https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/)
+### 13. [Ransomware attack disrupts Japan's IDCF Cloud used by govt clients](https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 08 Oct 2026 16:09:45 -0400  
@@ -112,7 +121,7 @@
 
 ---
 
-### 13. [Low-cost Android phones ship with residential proxy malware](https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/)
+### 14. [Low-cost Android phones ship with residential proxy malware](https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 08 Oct 2026 15:20:33 -0400  
@@ -121,7 +130,7 @@
 
 ---
 
-### 14. [FakeGit malware campaign returns with 17,610 malicious GitHub repos](https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/)
+### 15. [FakeGit malware campaign returns with 17,610 malicious GitHub repos](https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 08 Oct 2026 13:10:55 -0400  
@@ -130,7 +139,7 @@
 
 ---
 
-### 15. [Cisco warns of critical flaws allowing Nexus switch takeover](https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/)
+### 16. [Cisco warns of critical flaws allowing Nexus switch takeover](https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 08 Oct 2026 11:26:33 -0400  
@@ -140,7 +149,7 @@
 
 ---
 
-### 16. [OAuth grants pile up faster than you can review them. Here's how to keep up.](https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/)
+### 17. [OAuth grants pile up faster than you can review them. Here's how to keep up.](https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 08 Oct 2026 10:00:10 -0400  
@@ -149,7 +158,7 @@
 
 ---
 
-### 17. [Uranium crypto exchange hacker convicted for stealing $53 million](https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/)
+### 18. [Uranium crypto exchange hacker convicted for stealing $53 million](https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 08 Oct 2026 09:18:36 -0400  
@@ -158,7 +167,7 @@
 
 ---
 
-### 18. [Microsoft Teams to get support for third-party deepfake detection tools](https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/)
+### 19. [Microsoft Teams to get support for third-party deepfake detection tools](https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 08 Oct 2026 08:08:16 -0400  
@@ -167,21 +176,12 @@
 
 ---
 
-### 19. [ASOS links data breach to social engineering attack, credential theft](https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/)
+### 20. [ASOS links data breach to social engineering attack, credential theft](https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 08 Oct 2026 07:42:46 -0400  
 **Severity:** Low  
 **Categories:** Data Breach, Phishing, Supply Chain  
-
----
-
-### 20. [Owner of Empire cybercrime market gets 40 years in prison](https://www.bleepingcomputer.com/news/security/owner-of-empire-cybercrime-market-gets-40-years-in-prison/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 08 Oct 2026 06:29:19 -0400  
-**Severity:** Low  
-**Categories:** DDoS  
 
 ---
 
@@ -227,7 +227,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-85880, CVE-2026-81963, CVE-2026-69829, CVE-2026-69730  
+**CVEs:** CVE-2026-85880, CVE-2026-69829, CVE-2026-69730, CVE-2026-81963  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -264,7 +264,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-72971, CVE-2026-68820, CVE-2026-62832  
+**CVEs:** CVE-2026-62832, CVE-2026-72971, CVE-2026-68820  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -292,7 +292,7 @@
 **Source:** Security Week  
 **Published:** Thu, 08 Oct 2026 15:28:06 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-76464, CVE-2026-76471, CVE-2026-76499, CVE-2026-76485, CVE-2026-20328, CVE-2026-20362, CVE-2026-76480, CVE-2026-76482, CVE-2026-76486, CVE-2026-76465, CVE-2026-76498, CVE-2026-76500, CVE-2026-76483, CVE-2026-76459, CVE-2026-76501, CVE-2026-76454, CVE-2026-76455  
+**CVEs:** CVE-2026-76471, CVE-2026-76486, CVE-2026-76482, CVE-2026-76464, CVE-2026-76483, CVE-2026-76465, CVE-2026-20328, CVE-2026-76500, CVE-2026-76499, CVE-2026-76501, CVE-2026-76480, CVE-2026-76485, CVE-2026-76498, CVE-2026-76455, CVE-2026-20362, CVE-2026-76454, CVE-2026-76459  
 **Categories:** Vulnerability  
 
 ---
@@ -349,7 +349,7 @@
 **Source:** Security Week  
 **Published:** Thu, 08 Oct 2026 10:24:04 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-30238, CVE-2025-30241, CVE-2025-30237, CVE-2025-30239, CVE-2025-30240  
+**CVEs:** CVE-2025-30238, CVE-2025-30240, CVE-2025-30239, CVE-2025-30241, CVE-2025-30237  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -404,7 +404,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 07 Oct 2026 19:27:08 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-48388, CVE-2026-91799, CVE-2026-50475, CVE-2026-57256  
+**CVEs:** CVE-2026-50475, CVE-2026-91799, CVE-2026-57256, CVE-2026-48388  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
