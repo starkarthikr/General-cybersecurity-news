@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-10 06:13:21 UTC
+**Last Updated:** 2026-10-10 14:36:20 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories](https://thehackernews.com/2026/10/credential-stealing-github-actions.html)
+### 1. [The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't](https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 10 Oct 2026 16:30:00 +0530  
+**Severity:** Low  
+**Categories:** Supply Chain  
+
+---
+
+### 2. [Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws](https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 10 Oct 2026 14:48:45 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories](https://thehackernews.com/2026/10/credential-stealing-github-actions.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 10 Oct 2026 00:44:28 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack](https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html)
+### 4. [FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack](https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 09 Oct 2026 23:15:26 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands](https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html)
+### 5. [P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands](https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 09 Oct 2026 21:59:55 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [TP-Link Sued by Four More U.S. States Over Router Security and China Ties](https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html)
+### 6. [TP-Link Sued by Four More U.S. States Over Router Security and China Ties](https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 09 Oct 2026 18:52:53 +0530  
@@ -40,7 +58,7 @@
 
 ---
 
-### 5. [Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access](https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html)
+### 7. [Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access](https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 09 Oct 2026 18:29:22 +0530  
@@ -49,7 +67,7 @@
 
 ---
 
-### 6. [Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects](https://thehackernews.com/2026/10/anthropic-launches-free-ai.html)
+### 8. [Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects](https://thehackernews.com/2026/10/anthropic-launches-free-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 09 Oct 2026 18:17:28 +0530  
@@ -58,7 +76,7 @@
 
 ---
 
-### 7. [Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge](https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html)
+### 9. [Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge](https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 09 Oct 2026 18:17:26 +0530  
@@ -67,7 +85,7 @@
 
 ---
 
-### 8. [Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies](https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html)
+### 10. [Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies](https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 09 Oct 2026 17:51:51 +0530  
@@ -76,32 +94,34 @@
 
 ---
 
-### 9. [The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition](https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html)
+### 11. [ARTEX AI, Claude agents used in cyberattacks on South Korean banks](https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 09 Oct 2026 17:00:00 +0530  
-**Severity:** Low  
+**Source:** Bleeping Computer  
+**Published:** Sat, 10 Oct 2026 10:16:17 -0400  
+**Severity:** Critical  
 **Categories:** General Security  
 
 ---
 
-### 10. [GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys](https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html)
+### 12. [Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management](https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 09 Oct 2026 14:33:24 +0530  
-**Severity:** Low  
-**Categories:** General Security  
+**Source:** Bleeping Computer  
+**Published:** Sat, 10 Oct 2026 08:30:39 -0400  
+**Severity:** Critical  
+**Categories:** Vulnerability  
 
 ---
 
-### 11. [Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/)
+### 13. [Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 09 Oct 2026 16:31:37 -0400  
+**Severity:** Low  
+**Categories:** General Security  
 
 ---
 
-### 12. [Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto](https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/)
+### 14. [Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto](https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 09 Oct 2026 13:17:23 -0400  
@@ -111,7 +131,7 @@
 
 ---
 
-### 13. [FBI arrests another suspected ShinyHunters hacker after agency breach](https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/)
+### 15. [FBI arrests another suspected ShinyHunters hacker after agency breach](https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 09 Oct 2026 13:02:29 -0400  
@@ -120,7 +140,7 @@
 
 ---
 
-### 14. [Germany arrests alleged core Qilin ransomware member after extradition](https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/)
+### 16. [Germany arrests alleged core Qilin ransomware member after extradition](https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 09 Oct 2026 11:38:56 -0400  
@@ -129,7 +149,7 @@
 
 ---
 
-### 15. [How to keep AI agents within their permissions](https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/)
+### 17. [How to keep AI agents within their permissions](https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 09 Oct 2026 10:01:11 -0400  
@@ -138,7 +158,7 @@
 
 ---
 
-### 16. [Max severity SonicWall SMA1000 flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/)
+### 18. [Max severity SonicWall SMA1000 flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 09 Oct 2026 08:32:16 -0400  
@@ -148,7 +168,7 @@
 
 ---
 
-### 17. [Man admits to running network of 15,000 money mules for cybercriminals](https://www.bleepingcomputer.com/news/security/ukrainian-russian-dual-citizen-admits-to-laundering-millions-for-cybercriminals/)
+### 19. [Man admits to running network of 15,000 money mules for cybercriminals](https://www.bleepingcomputer.com/news/security/ukrainian-russian-dual-citizen-admits-to-laundering-millions-for-cybercriminals/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 09 Oct 2026 07:14:28 -0400  
@@ -157,7 +177,7 @@
 
 ---
 
-### 18. [Microsoft: Outdated Windows devices will stop receiving security updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/)
+### 20. [Microsoft: Outdated Windows devices will stop receiving security updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 09 Oct 2026 06:12:24 -0400  
@@ -166,26 +186,7 @@
 
 ---
 
-### 19. [Citrix warns admins to patch new NetScaler RCE flaw immediately](https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 09 Oct 2026 04:27:42 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-107406  
-**Categories:** Vulnerability  
-
----
-
-### 20. [Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland](https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 09 Oct 2026 01:41:04 -0400  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 21. [FBI Arrests Founder of Ransomware Negotiation Firm](https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/)
+### 21. [FBI Arrests Executive at Ransomware Negotiation Firm](https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/)
 
 **Source:** Krebs On Security  
 **Published:** Sat, 10 Oct 2026 00:17:42 +0000  
@@ -236,7 +237,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69730, CVE-2026-85880, CVE-2026-69829, CVE-2026-81963  
+**CVEs:** CVE-2026-85880, CVE-2026-69730, CVE-2026-69829, CVE-2026-81963  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -273,12 +274,21 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-68820, CVE-2026-72971, CVE-2026-62832  
+**CVEs:** CVE-2026-62832, CVE-2026-68820, CVE-2026-72971  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 31. [OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks](https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/)
+### 31. [Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison](https://www.securityweek.com/insider-cyber-extortion-plot-against-industrial-firm-lands-engineer-in-prison/)
+
+**Source:** Security Week  
+**Published:** Sat, 10 Oct 2026 11:00:00 +0000  
+**Severity:** Low  
+**Categories:** Ransomware  
+
+---
+
+### 32. [OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks](https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/)
 
 **Source:** Security Week  
 **Published:** Fri, 09 Oct 2026 21:07:46 +0000  
@@ -287,7 +297,7 @@
 
 ---
 
-### 32. [In Other News: AI Used in Korean Bank Breaches, Poem-Guided Botnet, Empire Admin Gets 40 Years](https://www.securityweek.com/in-other-news-ai-used-in-korean-bank-breaches-poem-guided-botnet-empire-admin-gets-40-years/)
+### 33. [In Other News: AI Used in Korean Bank Breaches, Poem-Guided Botnet, Empire Admin Gets 40 Years](https://www.securityweek.com/in-other-news-ai-used-in-korean-bank-breaches-poem-guided-botnet-empire-admin-gets-40-years/)
 
 **Source:** Security Week  
 **Published:** Fri, 09 Oct 2026 12:03:50 +0000  
@@ -297,7 +307,7 @@
 
 ---
 
-### 33. [Google Domains Impacted by Recent ccTLD Hijacks](https://www.securityweek.com/google-domains-impacted-by-recent-cctld-domain-hijacks/)
+### 34. [Google Domains Impacted by Recent ccTLD Hijacks](https://www.securityweek.com/google-domains-impacted-by-recent-cctld-domain-hijacks/)
 
 **Source:** Security Week  
 **Published:** Fri, 09 Oct 2026 11:43:14 +0000  
@@ -306,7 +316,7 @@
 
 ---
 
-### 34. [Unpatched AhsayCBS Vulnerabilities Exploited in the Wild](https://www.securityweek.com/unpatched-ahsaycbs-vulnerabilities-exploited-in-the-wild/)
+### 35. [Unpatched AhsayCBS Vulnerabilities Exploited in the Wild](https://www.securityweek.com/unpatched-ahsaycbs-vulnerabilities-exploited-in-the-wild/)
 
 **Source:** Security Week  
 **Published:** Fri, 09 Oct 2026 10:23:42 +0000  
@@ -316,7 +326,7 @@
 
 ---
 
-### 35. [Pre-Baked Firmware Malware Hits Budget Android Devices in 150+ Countries](https://www.securityweek.com/pre-baked-firmware-malware-hits-budget-android-devices-in-150-countries/)
+### 36. [Pre-Baked Firmware Malware Hits Budget Android Devices in 150+ Countries](https://www.securityweek.com/pre-baked-firmware-malware-hits-budget-android-devices-in-150-countries/)
 
 **Source:** Security Week  
 **Published:** Fri, 09 Oct 2026 09:55:35 +0000  
@@ -325,7 +335,7 @@
 
 ---
 
-### 36. [US Disrupts Chinese State-Sponsored Hacking Tools](https://www.securityweek.com/us-disrupts-chinese-state-sponsored-hacking-tools/)
+### 37. [US Disrupts Chinese State-Sponsored Hacking Tools](https://www.securityweek.com/us-disrupts-chinese-state-sponsored-hacking-tools/)
 
 **Source:** Security Week  
 **Published:** Fri, 09 Oct 2026 08:36:37 +0000  
@@ -334,7 +344,7 @@
 
 ---
 
-### 37. [Anthropic Fast-Tracks AI Bug Reports to OSS Maintainers, Taps 11 Firms for OT Security](https://www.securityweek.com/anthropic-fast-tracks-ai-bug-reports-to-oss-maintainers-taps-11-firms-for-ot-security/)
+### 38. [Anthropic Fast-Tracks AI Bug Reports to OSS Maintainers, Taps 11 Firms for OT Security](https://www.securityweek.com/anthropic-fast-tracks-ai-bug-reports-to-oss-maintainers-taps-11-firms-for-ot-security/)
 
 **Source:** Security Week  
 **Published:** Fri, 09 Oct 2026 08:19:33 +0000  
@@ -343,31 +353,22 @@
 
 ---
 
-### 38. [Citrix Urges Immediate Patching of Critical NetScaler Vulnerability](https://www.securityweek.com/citrix-urges-immediate-patching-of-critical-netscaler-vulnerability/)
+### 39. [Citrix Urges Immediate Patching of Critical NetScaler Vulnerability](https://www.securityweek.com/citrix-urges-immediate-patching-of-critical-netscaler-vulnerability/)
 
 **Source:** Security Week  
 **Published:** Fri, 09 Oct 2026 06:53:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-88771, CVE-2026-88779, CVE-2026-88772, CVE-2026-107406  
+**CVEs:** CVE-2026-88772, CVE-2026-88779, CVE-2026-88771, CVE-2026-107406  
 **Categories:** Vulnerability  
 
 ---
 
-### 39. [Google Pixel 10 Exploits Earned Hackers $560,000 at Pwn2Own](https://www.securityweek.com/google-pixel-10-exploits-earned-hackers-560000-at-pwn2own/)
+### 40. [Google Pixel 10 Exploits Earned Hackers $560,000 at Pwn2Own](https://www.securityweek.com/google-pixel-10-exploits-earned-hackers-560000-at-pwn2own/)
 
 **Source:** Security Week  
 **Published:** Fri, 09 Oct 2026 06:39:55 +0000  
 **Severity:** Critical  
 **Categories:** Vulnerability  
-
----
-
-### 40. [Formula Predicts When AI Chatbots Are at Risk of Turning Bad](https://www.securityweek.com/formula-predicts-when-ai-chatbots-are-at-risk-of-turning-bad/)
-
-**Source:** Security Week  
-**Published:** Fri, 09 Oct 2026 04:12:38 +0000  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -403,7 +404,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 07 Oct 2026 19:27:08 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-91799, CVE-2026-57256, CVE-2026-48388, CVE-2026-50475  
+**CVEs:** CVE-2026-57256, CVE-2026-50475, CVE-2026-48388, CVE-2026-91799  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -632,7 +633,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

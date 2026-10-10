@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
+    "link": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
+    "published": "Sat, 10 Oct 2026 16:30:00 +0530",
+    "summary": "In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind single sign-on. The other thousand are invisible to identity infrastructure by default, not because anyone hid them, but because an identity stack can only govern what authenticates through it, and most agents never do.\n\nThat gap is the clearest",
+    "analysis": {
+      "issue": "Nearly 1,000 third-party products embedding AI sit outside SSO in studied environments, limiting default visibility for identity systems",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
+    "link": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
+    "published": "Sat, 10 Oct 2026 14:48:45 +0530",
+    "summary": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and targeted real websites.\n\nThe AI company said it identified four broad categories of unintended model actions during evaluations and internal use of Claude -\n\n\n  Claude Mythos",
+    "analysis": {
+      "issue": "Anthropic halted live internet access for internal evaluations after Claude exploited injection flaws and submitted an unauthorized form",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
     "link": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
     "published": "Sat, 10 Oct 2026 00:44:28 +0530",
@@ -144,35 +180,17 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition",
-    "link": "https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html",
-    "published": "Fri, 09 Oct 2026 17:00:00 +0530",
-    "summary": "As enterprises race to deploy autonomous AI agents to accelerate business, a new report reveals they are tethered to security architectures built for a different era. The \"Horizons of Identity Security\" report from SailPoint highlights a critical “velocity paradox,” in which organizations invest in AI-speed business operations while continuing to rely on human-speed security controls, creating a",
+    "source": "Bleeping Computer",
+    "title": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
+    "link": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
+    "published": "Sat, 10 Oct 2026 10:16:17 -0400",
+    "summary": "The cyberattacks that shook the South Korean financial sector earlier this month were launched by a Chinese hacker using the ARTEX AI penetration testing suite and Claude agents. [...]",
     "analysis": {
-      "issue": "SailPoint says 54% of organizations have no formal agent identity security program, versus 23% at the same maturity level for human identities",
+      "issue": "A Chinese-speaking hacker launched cyberattacks that shook the South Korean financial sector earlier this month, using the ARTEX AI penetration testing suite and Claude agents",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys",
-    "link": "https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html",
-    "published": "Fri, 09 Oct 2026 14:33:24 +0530",
-    "summary": "A bug in GoBalance, a tool many dark-web sites use to stay reachable during attacks, lets anyone work out the secret key that controls a site's .onion address using only public information, and then take that address over.\n\nSearchlight Cyber, which&nbsp;disclosed the flaw&nbsp;on October 8, says an attacker who recovers the key can redirect the site's visitors to a copy of the site they control.",
-    "analysis": {
-      "issue": "A GoBalance signing flaw lets attackers recover Tor-format",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
         "General Security"
@@ -181,10 +199,39 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management",
+    "link": "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/",
+    "published": "Sat, 10 Oct 2026 08:30:39 -0400",
+    "summary": "Traditional attack surface management helps organizations discover exposed assets, but visibility alone is not enough to address threats. Criminal IP introduces AITEM, an AI-powered approach that connects exposure discovery with investigation, risk prioritization, and response. [...]",
+    "analysis": {
+      "issue": "Criminal IP by AI SPERA, a cyber threat intelligence platform delivering decision-ready intelligence and attack surface visibility to security teams worldwide, will participate in GovWare 2026 in Singapore",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
     "published": "Fri, 09 Oct 2026 16:31:37 -0400",
-    "summary": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks. [...]"
+    "summary": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks. [...]",
+    "analysis": {
+      "issue": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
   },
   {
     "source": "Bleeping Computer",
@@ -319,51 +366,13 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Citrix warns admins to patch new NetScaler RCE flaw immediately",
-    "link": "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/",
-    "published": "Fri, 09 Oct 2026 04:27:42 -0400",
-    "summary": "Citrix has warned IT administrators to patch systems immediately against a new critical vulnerability affecting NetScaler ADC networking appliances and NetScaler Gateway secure remote access solutions. [...]",
-    "analysis": {
-      "issue": "Citrix has warned IT administrators to patch systems immediately against a new critical vulnerability affecting NetScaler ADC networking appliances and NetScaler Gateway secure remote access solutions",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-107406"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/",
-    "published": "Fri, 09 Oct 2026 01:41:04 -0400",
-    "summary": "The Pwn2Own Ireland 2026 hacking contest has concluded, with hackers collecting $1,262,000 in rewards after exploiting 98 zero-day flaws. [...]",
-    "analysis": {
-      "issue": "The Pwn2Own Ireland 2026 hacking contest has concluded, with hackers collecting $1,262,000 in rewards after exploiting 98 zero-day flaws",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
-    "title": "FBI Arrests Founder of Ransomware Negotiation Firm",
+    "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
     "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
     "published": "Sat, 10 Oct 2026 00:17:42 +0000",
     "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity.",
     "analysis": {
-      "issue": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on tho",
+      "issue": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested an executive at a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thous",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -465,8 +474,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69730",
         "CVE-2026-85880",
+        "CVE-2026-69730",
         "CVE-2026-69829",
         "CVE-2026-81963"
       ],
@@ -545,13 +554,31 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-62832",
         "CVE-2026-68820",
-        "CVE-2026-72971",
-        "CVE-2026-62832"
+        "CVE-2026-72971"
       ],
       "threat_categories": [
         "Vulnerability",
         "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison",
+    "link": "https://www.securityweek.com/insider-cyber-extortion-plot-against-industrial-firm-lands-engineer-in-prison/",
+    "published": "Sat, 10 Oct 2026 11:00:00 +0000",
+    "summary": "<p>The former core infrastructure engineer deleted admin accounts, reset hundreds of passwords, and demanded 20 bitcoin to spare the company’s servers.</p>\n<p>The post <a href=\"https://www.securityweek.com/insider-cyber-extortion-plot-against-industrial-firm-lands-engineer-in-prison/\">Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The former core infrastructure engineer deleted admin accounts, reset hundreds of passwords, and demanded 20 bitcoin to spare the company’s servers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
       ]
     }
   },
@@ -708,9 +735,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-88771",
-        "CVE-2026-88779",
         "CVE-2026-88772",
+        "CVE-2026-88779",
+        "CVE-2026-88771",
         "CVE-2026-107406"
       ],
       "threat_categories": [
@@ -733,24 +760,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Formula Predicts When AI Chatbots Are at Risk of Turning Bad",
-    "link": "https://www.securityweek.com/formula-predicts-when-ai-chatbots-are-at-risk-of-turning-bad/",
-    "published": "Fri, 09 Oct 2026 04:12:38 +0000",
-    "summary": "<p>Researchers from George Washington University have published a paper examining whether the time and cause of AI going rogue can be predicted.</p>\n<p>The post <a href=\"https://www.securityweek.com/formula-predicts-when-ai-chatbots-are-at-risk-of-turning-bad/\">Formula Predicts When AI Chatbots Are at Risk of Turning Bad</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Researchers from George Washington University have published a paper examining whether the time and cause of AI going rogue can be predicted",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -825,10 +834,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-91799",
         "CVE-2026-57256",
+        "CVE-2026-50475",
         "CVE-2026-48388",
-        "CVE-2026-50475"
+        "CVE-2026-91799"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1297,8 +1306,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
