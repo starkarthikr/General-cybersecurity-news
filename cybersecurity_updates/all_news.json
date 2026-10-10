@@ -181,6 +181,25 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
+    "link": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
+    "published": "Sat, 10 Oct 2026 11:07:54 -0400",
+    "summary": "Canadian cybersecurity executive Edward Dubrovsky has been arrested in Pennsylvania in connection with alleged extortion activity that multiple reports have linked to the FBI's ongoing crackdown on the ShinyHunters hacking group. [...]",
+    "analysis": {
+      "issue": "Canadian cybersecurity executive Edward Dubrovsky has been arrested in Pennsylvania in connection with alleged extortion activity that multiple reports have linked to the FBI's ongoing crackdown on the ShinyHunters hacking group",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
     "link": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
     "published": "Sat, 10 Oct 2026 10:16:17 -0400",
@@ -246,8 +265,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-105134",
-        "CVE-2026-105133"
+        "CVE-2026-105133",
+        "CVE-2026-105134"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -337,24 +356,6 @@
     "summary": "​A Ukrainian-Russian dual citizen has pleaded guilty to running a massive money laundering operation that laundered millions for cybercriminals worldwide. [...]",
     "analysis": {
       "issue": "​A Ukrainian-Russian dual citizen has pleaded guilty to running a massive money laundering operation that laundered millions for cybercriminals worldwide",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft: Outdated Windows devices will stop receiving security updates",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/",
-    "published": "Fri, 09 Oct 2026 06:12:24 -0400",
-    "summary": "Microsoft says devices running unsupported versions of Windows will stop receiving security updates after next year's Windows Update certificate rotation. [...]",
-    "analysis": {
-      "issue": "Microsoft says devices running unsupported versions of Windows will stop receiving security updates after next year's Windows Update certificate rotation",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -474,10 +475,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-85880",
+        "CVE-2026-81963",
         "CVE-2026-69730",
-        "CVE-2026-69829",
-        "CVE-2026-81963"
+        "CVE-2026-85880",
+        "CVE-2026-69829"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -555,8 +556,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-62832",
-        "CVE-2026-68820",
-        "CVE-2026-72971"
+        "CVE-2026-72971",
+        "CVE-2026-68820"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -655,8 +656,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-105134",
-        "CVE-2026-105133"
+        "CVE-2026-105133",
+        "CVE-2026-105134"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -735,9 +736,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-88771",
         "CVE-2026-88772",
         "CVE-2026-88779",
-        "CVE-2026-88771",
         "CVE-2026-107406"
       ],
       "threat_categories": [
@@ -834,10 +835,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-57256",
         "CVE-2026-50475",
         "CVE-2026-48388",
-        "CVE-2026-91799"
+        "CVE-2026-91799",
+        "CVE-2026-57256"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1306,8 +1307,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
