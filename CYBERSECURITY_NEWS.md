@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-09 21:07:32 UTC
+**Last Updated:** 2026-10-10 05:17:38 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -108,7 +108,7 @@
 **Source:** Bleeping Computer  
 **Published:** Fri, 09 Oct 2026 13:17:23 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-105133, CVE-2026-105134  
+**CVEs:** CVE-2026-105134, CVE-2026-105133  
 **Categories:** Vulnerability  
 
 ---
@@ -187,7 +187,16 @@
 
 ---
 
-### 21. [ShinyHunters Extorted Boeing Spin-off Prior to Arrests](https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/)
+### 21. [FBI Arrests Founder of Ransomware Negotiation Firm](https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/)
+
+**Source:** Krebs On Security  
+**Published:** Sat, 10 Oct 2026 00:17:42 +0000  
+**Severity:** Low  
+**Categories:** Ransomware  
+
+---
+
+### 22. [ShinyHunters Extorted Boeing Spin-off Prior to Arrests](https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 07 Oct 2026 13:48:45 +0000  
@@ -197,7 +206,7 @@
 
 ---
 
-### 22. [Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation](https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/)
+### 23. [Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation](https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 28 Sep 2026 15:08:57 +0000  
@@ -206,7 +215,7 @@
 
 ---
 
-### 23. [U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions](https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/)
+### 24. [U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions](https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/)
 
 **Source:** Krebs On Security  
 **Published:** Fri, 25 Sep 2026 21:44:40 +0000  
@@ -215,7 +224,7 @@
 
 ---
 
-### 24. [Data Broker Radaris Loses Domains in Privacy Fight](https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/)
+### 25. [Data Broker Radaris Loses Domains in Privacy Fight](https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 16 Sep 2026 18:14:22 +0000  
@@ -224,17 +233,17 @@
 
 ---
 
-### 25. [Microsoft Plugs Nearly 1,000 Security Holes](https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/)
+### 26. [Microsoft Plugs Nearly 1,000 Security Holes](https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81963, CVE-2026-69829, CVE-2026-85880, CVE-2026-69730  
+**CVEs:** CVE-2026-81963, CVE-2026-69829, CVE-2026-69730, CVE-2026-85880  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 26. [FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/)
+### 27. [FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 01 Sep 2026 22:40:28 +0000  
@@ -243,7 +252,7 @@
 
 ---
 
-### 27. [Two Alleged ‘TeamPCP’ Hackers Arrested in Australia](https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/)
+### 28. [Two Alleged ‘TeamPCP’ Hackers Arrested in Australia](https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 27 Aug 2026 11:04:15 +0000  
@@ -252,7 +261,7 @@
 
 ---
 
-### 28. [Who’s Tracking You? Use This New Service to Find Out](https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/)
+### 29. [Who’s Tracking You? Use This New Service to Find Out](https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/)
 
 **Source:** Krebs On Security  
 **Published:** Fri, 14 Aug 2026 11:24:35 +0000  
@@ -261,26 +270,26 @@
 
 ---
 
-### 29. [Microsoft Plugs Nearly 400 Security Holes](https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/)
+### 30. [Microsoft Plugs Nearly 400 Security Holes](https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-72971, CVE-2026-62832, CVE-2026-68820  
+**CVEs:** CVE-2026-72971, CVE-2026-68820, CVE-2026-62832  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 30. [Canadian Man Pleads Guilty in Snowflake Extortions](https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/)
+### 31. [OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks](https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/)
 
-**Source:** Krebs On Security  
-**Published:** Thu, 06 Aug 2026 17:00:56 +0000  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach, Phishing  
+**Source:** Security Week  
+**Published:** Fri, 09 Oct 2026 21:07:46 +0000  
+**Severity:** High  
+**Categories:** Supply Chain  
 
 ---
 
-### 31. [In Other News: AI Used in Korean Bank Breaches, Poem-Guided Botnet, Empire Admin Gets 40 Years](https://www.securityweek.com/in-other-news-ai-used-in-korean-bank-breaches-poem-guided-botnet-empire-admin-gets-40-years/)
+### 32. [In Other News: AI Used in Korean Bank Breaches, Poem-Guided Botnet, Empire Admin Gets 40 Years](https://www.securityweek.com/in-other-news-ai-used-in-korean-bank-breaches-poem-guided-botnet-empire-admin-gets-40-years/)
 
 **Source:** Security Week  
 **Published:** Fri, 09 Oct 2026 12:03:50 +0000  
@@ -290,7 +299,7 @@
 
 ---
 
-### 32. [Google Domains Impacted by Recent ccTLD Hijacks](https://www.securityweek.com/google-domains-impacted-by-recent-cctld-domain-hijacks/)
+### 33. [Google Domains Impacted by Recent ccTLD Hijacks](https://www.securityweek.com/google-domains-impacted-by-recent-cctld-domain-hijacks/)
 
 **Source:** Security Week  
 **Published:** Fri, 09 Oct 2026 11:43:14 +0000  
@@ -299,17 +308,17 @@
 
 ---
 
-### 33. [Unpatched AhsayCBS Vulnerabilities Exploited in the Wild](https://www.securityweek.com/unpatched-ahsaycbs-vulnerabilities-exploited-in-the-wild/)
+### 34. [Unpatched AhsayCBS Vulnerabilities Exploited in the Wild](https://www.securityweek.com/unpatched-ahsaycbs-vulnerabilities-exploited-in-the-wild/)
 
 **Source:** Security Week  
 **Published:** Fri, 09 Oct 2026 10:23:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-105133, CVE-2026-105134  
+**CVEs:** CVE-2026-105134, CVE-2026-105133  
 **Categories:** Vulnerability  
 
 ---
 
-### 34. [Pre-Baked Firmware Malware Hits Budget Android Devices in 150+ Countries](https://www.securityweek.com/pre-baked-firmware-malware-hits-budget-android-devices-in-150-countries/)
+### 35. [Pre-Baked Firmware Malware Hits Budget Android Devices in 150+ Countries](https://www.securityweek.com/pre-baked-firmware-malware-hits-budget-android-devices-in-150-countries/)
 
 **Source:** Security Week  
 **Published:** Fri, 09 Oct 2026 09:55:35 +0000  
@@ -318,7 +327,7 @@
 
 ---
 
-### 35. [US Disrupts Chinese State-Sponsored Hacking Tools](https://www.securityweek.com/us-disrupts-chinese-state-sponsored-hacking-tools/)
+### 36. [US Disrupts Chinese State-Sponsored Hacking Tools](https://www.securityweek.com/us-disrupts-chinese-state-sponsored-hacking-tools/)
 
 **Source:** Security Week  
 **Published:** Fri, 09 Oct 2026 08:36:37 +0000  
@@ -327,7 +336,7 @@
 
 ---
 
-### 36. [Anthropic Fast-Tracks AI Bug Reports to OSS Maintainers, Taps 11 Firms for OT Security](https://www.securityweek.com/anthropic-fast-tracks-ai-bug-reports-to-oss-maintainers-taps-11-firms-for-ot-security/)
+### 37. [Anthropic Fast-Tracks AI Bug Reports to OSS Maintainers, Taps 11 Firms for OT Security](https://www.securityweek.com/anthropic-fast-tracks-ai-bug-reports-to-oss-maintainers-taps-11-firms-for-ot-security/)
 
 **Source:** Security Week  
 **Published:** Fri, 09 Oct 2026 08:19:33 +0000  
@@ -336,17 +345,17 @@
 
 ---
 
-### 37. [Citrix Urges Immediate Patching of Critical NetScaler Vulnerability](https://www.securityweek.com/citrix-urges-immediate-patching-of-critical-netscaler-vulnerability/)
+### 38. [Citrix Urges Immediate Patching of Critical NetScaler Vulnerability](https://www.securityweek.com/citrix-urges-immediate-patching-of-critical-netscaler-vulnerability/)
 
 **Source:** Security Week  
 **Published:** Fri, 09 Oct 2026 06:53:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-107406, CVE-2026-88772, CVE-2026-88771, CVE-2026-88779  
+**CVEs:** CVE-2026-88779, CVE-2026-88771, CVE-2026-88772, CVE-2026-107406  
 **Categories:** Vulnerability  
 
 ---
 
-### 38. [Google Pixel 10 Exploits Earned Hackers $560,000 at Pwn2Own](https://www.securityweek.com/google-pixel-10-exploits-earned-hackers-560000-at-pwn2own/)
+### 39. [Google Pixel 10 Exploits Earned Hackers $560,000 at Pwn2Own](https://www.securityweek.com/google-pixel-10-exploits-earned-hackers-560000-at-pwn2own/)
 
 **Source:** Security Week  
 **Published:** Fri, 09 Oct 2026 06:39:55 +0000  
@@ -355,22 +364,12 @@
 
 ---
 
-### 39. [Formula Predicts When AI Chatbots Are at Risk of Turning Bad](https://www.securityweek.com/formula-predicts-when-ai-chatbots-are-at-risk-of-turning-bad/)
+### 40. [Formula Predicts When AI Chatbots Are at Risk of Turning Bad](https://www.securityweek.com/formula-predicts-when-ai-chatbots-are-at-risk-of-turning-bad/)
 
 **Source:** Security Week  
 **Published:** Fri, 09 Oct 2026 04:12:38 +0000  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 40. [Cisco Patches a Dozen Critical Vulnerabilities](https://www.securityweek.com/cisco-patches-a-dozen-critical-vulnerabilities/)
-
-**Source:** Security Week  
-**Published:** Thu, 08 Oct 2026 15:28:06 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-76459, CVE-2026-76486, CVE-2026-76465, CVE-2026-76480, CVE-2026-20362, CVE-2026-76500, CVE-2026-76501, CVE-2026-76498, CVE-2026-20328, CVE-2026-76485, CVE-2026-76499, CVE-2026-76483, CVE-2026-76482, CVE-2026-76464, CVE-2026-76471, CVE-2026-76455, CVE-2026-76454  
-**Categories:** Vulnerability  
 
 ---
 
@@ -406,7 +405,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 07 Oct 2026 19:27:08 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-91799, CVE-2026-48388, CVE-2026-57256, CVE-2026-50475  
+**CVEs:** CVE-2026-48388, CVE-2026-50475, CVE-2026-91799, CVE-2026-57256  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

@@ -210,8 +210,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-105133",
-        "CVE-2026-105134"
+        "CVE-2026-105134",
+        "CVE-2026-105133"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -369,6 +369,24 @@
   },
   {
     "source": "Krebs On Security",
+    "title": "FBI Arrests Founder of Ransomware Negotiation Firm",
+    "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
+    "published": "Sat, 10 Oct 2026 00:17:42 +0000",
+    "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity.",
+    "analysis": {
+      "issue": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on tho",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
     "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
     "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
     "published": "Wed, 07 Oct 2026 13:48:45 +0000",
@@ -460,8 +478,8 @@
       "cves": [
         "CVE-2026-81963",
         "CVE-2026-69829",
-        "CVE-2026-85880",
-        "CVE-2026-69730"
+        "CVE-2026-69730",
+        "CVE-2026-85880"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -539,8 +557,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-72971",
-        "CVE-2026-62832",
-        "CVE-2026-68820"
+        "CVE-2026-68820",
+        "CVE-2026-62832"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -549,22 +567,20 @@
     }
   },
   {
-    "source": "Krebs On Security",
-    "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
-    "link": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
-    "published": "Thu, 06 Aug 2026 17:00:56 +0000",
-    "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&#038;T customers.",
+    "source": "Security Week",
+    "title": "OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks",
+    "link": "https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/",
+    "published": "Fri, 09 Oct 2026 21:07:46 +0000",
+    "summary": "<p>The ChatGPT maker said the researchers  \"violated clear policies on handling sensitive information.”</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/\">OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
-      "issue": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud provider Snowflake",
+      "issue": "The ChatGPT maker said the researchers  “violated clear policies on handling sensitive information",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Phishing"
+        "Supply Chain"
       ]
     }
   },
@@ -623,8 +639,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-105133",
-        "CVE-2026-105134"
+        "CVE-2026-105134",
+        "CVE-2026-105133"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -703,10 +719,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-107406",
-        "CVE-2026-88772",
+        "CVE-2026-88779",
         "CVE-2026-88771",
-        "CVE-2026-88779"
+        "CVE-2026-88772",
+        "CVE-2026-107406"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -746,42 +762,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Cisco Patches a Dozen Critical Vulnerabilities",
-    "link": "https://www.securityweek.com/cisco-patches-a-dozen-critical-vulnerabilities/",
-    "published": "Thu, 08 Oct 2026 15:28:06 +0000",
-    "summary": "<p>The security defects could lead to unauthorized access, information leaks, privilege escalation, DoS attacks, and remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-patches-a-dozen-critical-vulnerabilities/\">Cisco Patches a Dozen Critical Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The security defects could lead to unauthorized access, information leaks, privilege escalation, DoS attacks, and remote code execution",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-76459",
-        "CVE-2026-76486",
-        "CVE-2026-76465",
-        "CVE-2026-76480",
-        "CVE-2026-20362",
-        "CVE-2026-76500",
-        "CVE-2026-76501",
-        "CVE-2026-76498",
-        "CVE-2026-20328",
-        "CVE-2026-76485",
-        "CVE-2026-76499",
-        "CVE-2026-76483",
-        "CVE-2026-76482",
-        "CVE-2026-76464",
-        "CVE-2026-76471",
-        "CVE-2026-76455",
-        "CVE-2026-76454"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -856,10 +836,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-91799",
         "CVE-2026-48388",
-        "CVE-2026-57256",
-        "CVE-2026-50475"
+        "CVE-2026-50475",
+        "CVE-2026-91799",
+        "CVE-2026-57256"
       ],
       "threat_categories": [
         "Vulnerability",
