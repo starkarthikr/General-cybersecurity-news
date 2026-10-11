@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-11 05:09:19 UTC
+**Last Updated:** 2026-10-11 06:12:04 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't](https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html)
+### 1. [P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands](https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html)
+
+**Source:** The Hacker News  
+**Published:** Sun, 11 Oct 2026 09:54:34 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't](https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 10 Oct 2026 16:30:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws](https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html)
+### 3. [Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws](https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 10 Oct 2026 14:48:45 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories](https://thehackernews.com/2026/10/credential-stealing-github-actions.html)
+### 4. [Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories](https://thehackernews.com/2026/10/credential-stealing-github-actions.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 10 Oct 2026 00:44:28 +0530  
@@ -31,21 +40,12 @@
 
 ---
 
-### 4. [FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack](https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html)
+### 5. [FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack](https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 09 Oct 2026 23:15:26 +0530  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 5. [P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands](https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 09 Oct 2026 21:59:55 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
 
 ---
 
@@ -135,7 +135,7 @@
 **Source:** Bleeping Computer  
 **Published:** Fri, 09 Oct 2026 13:17:23 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-105133, CVE-2026-105134  
+**CVEs:** CVE-2026-105134, CVE-2026-105133  
 **Categories:** Vulnerability  
 
 ---
@@ -237,7 +237,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69829, CVE-2026-85880, CVE-2026-69730, CVE-2026-81963  
+**CVEs:** CVE-2026-69730, CVE-2026-85880, CVE-2026-81963, CVE-2026-69829  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -274,7 +274,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-72971, CVE-2026-62832, CVE-2026-68820  
+**CVEs:** CVE-2026-62832, CVE-2026-72971, CVE-2026-68820  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -292,8 +292,6 @@
 
 **Source:** Security Week  
 **Published:** Fri, 09 Oct 2026 21:07:46 +0000  
-**Severity:** High  
-**Categories:** Supply Chain  
 
 ---
 
@@ -311,8 +309,6 @@
 
 **Source:** Security Week  
 **Published:** Fri, 09 Oct 2026 11:43:14 +0000  
-**Severity:** Low  
-**Categories:** Malware, Supply Chain  
 
 ---
 
@@ -321,7 +317,7 @@
 **Source:** Security Week  
 **Published:** Fri, 09 Oct 2026 10:23:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-105133, CVE-2026-105134  
+**CVEs:** CVE-2026-105134, CVE-2026-105133  
 **Categories:** Vulnerability  
 
 ---
@@ -358,7 +354,7 @@
 **Source:** Security Week  
 **Published:** Fri, 09 Oct 2026 06:53:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-107406, CVE-2026-88779, CVE-2026-88771, CVE-2026-88772  
+**CVEs:** CVE-2026-107406, CVE-2026-88771, CVE-2026-88779, CVE-2026-88772  
 **Categories:** Vulnerability  
 
 ---
@@ -404,7 +400,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 07 Oct 2026 19:27:08 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-50475, CVE-2026-57256, CVE-2026-91799, CVE-2026-48388  
+**CVEs:** CVE-2026-57256, CVE-2026-50475, CVE-2026-48388, CVE-2026-91799  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -566,6 +562,8 @@
 
 **Source:** Threat Post  
 **Published:** Tue, 30 Aug 2022 16:00:43 +0000  
+**Severity:** Medium  
+**Categories:** APT  
 
 ---
 
@@ -591,6 +589,9 @@
 
 **Source:** Threat Post  
 **Published:** Thu, 25 Aug 2022 18:47:15 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2021-36260  
+**Categories:** Data Breach, Vulnerability, APT  
 
 ---
 
@@ -617,6 +618,9 @@
 
 **Source:** Threat Post  
 **Published:** Mon, 22 Aug 2022 13:59:06 +0000  
+**Severity:** Low  
+**CVEs:** CVE-2017-11882  
+**Categories:** Vulnerability, Malware  
 
 ---
 

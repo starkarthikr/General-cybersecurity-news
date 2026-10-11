@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+    "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+    "published": "Sun, 11 Oct 2026 09:54:34 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword.\n\n\"Compared with the variants we usually observe, P7 reduces its on-device footprint, adds on-device keychain and crypto-wallet theft, and adds two way C2 communication with the attacker's infrastructure,\" iVerify said in a new report published Thursday.\n\nThe name",
+    "analysis": {
+      "issue": "P7 DarkSword adds on-device keychain and crypto wallet data theft to the iOS exploit kit, alongside two-way C2 communication",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
     "link": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
     "published": "Sat, 10 Oct 2026 16:30:00 +0530",
@@ -68,24 +86,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
-    "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
-    "published": "Fri, 09 Oct 2026 21:59:55 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword.\n\n\"Compared with the variants we usually observe, P7 reduces its on-device footprint, adds on-device keychain and crypto-wallet theft, and adds two way C2 communication with the attacker's infrastructure,\" iVerify said in a new report published Thursday.\n\nThe name",
-    "analysis": {
-      "issue": "P7 DarkSword adds on-device keychain and crypto wallet data theft to the iOS exploit kit, alongside two-way C2 communication",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -265,8 +265,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-105133",
-        "CVE-2026-105134"
+        "CVE-2026-105134",
+        "CVE-2026-105133"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -475,10 +475,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69829",
-        "CVE-2026-85880",
         "CVE-2026-69730",
-        "CVE-2026-81963"
+        "CVE-2026-85880",
+        "CVE-2026-81963",
+        "CVE-2026-69829"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -555,8 +555,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-72971",
         "CVE-2026-62832",
+        "CVE-2026-72971",
         "CVE-2026-68820"
       ],
       "threat_categories": [
@@ -588,18 +588,7 @@
     "title": "OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks",
     "link": "https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/",
     "published": "Fri, 09 Oct 2026 21:07:46 +0000",
-    "summary": "<p>The ChatGPT maker said the researchers  \"violated clear policies on handling sensitive information.”</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/\">OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The ChatGPT maker said the researchers  “violated clear policies on handling sensitive information",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
-      ]
-    }
+    "summary": "<p>The ChatGPT maker said the researchers  \"violated clear policies on handling sensitive information.”</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/\">OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
@@ -629,19 +618,7 @@
     "title": "Google Domains Impacted by Recent ccTLD Hijacks",
     "link": "https://www.securityweek.com/google-domains-impacted-by-recent-cctld-domain-hijacks/",
     "published": "Fri, 09 Oct 2026 11:43:14 +0000",
-    "summary": "<p>Hackers hijacked the .gh, .sl, and .as ccTLDs and obtained HTTPS certificates for several Google domains.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-domains-impacted-by-recent-cctld-domain-hijacks/\">Google Domains Impacted by Recent ccTLD Hijacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "as ccTLDs and obtained HTTPS certificates for several Google domains",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Supply Chain"
-      ]
-    }
+    "summary": "<p>Hackers hijacked the .gh, .sl, and .as ccTLDs and obtained HTTPS certificates for several Google domains.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-domains-impacted-by-recent-cctld-domain-hijacks/\">Google Domains Impacted by Recent ccTLD Hijacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
@@ -656,8 +633,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-105133",
-        "CVE-2026-105134"
+        "CVE-2026-105134",
+        "CVE-2026-105133"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -737,8 +714,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-107406",
-        "CVE-2026-88779",
         "CVE-2026-88771",
+        "CVE-2026-88779",
         "CVE-2026-88772"
       ],
       "threat_categories": [
@@ -835,10 +812,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-50475",
         "CVE-2026-57256",
-        "CVE-2026-91799",
-        "CVE-2026-48388"
+        "CVE-2026-50475",
+        "CVE-2026-48388",
+        "CVE-2026-91799"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1164,7 +1141,18 @@
     "title": "Watering Hole Attacks Push ScanBox Keylogger",
     "link": "https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/",
     "published": "Tue, 30 Aug 2022 16:00:43 +0000",
-    "summary": "Researchers uncover a watering hole attack likely carried out by APT TA423, which attempts to plant the ScanBox JavaScript-based reconnaissance tool."
+    "summary": "Researchers uncover a watering hole attack likely carried out by APT TA423, which attempts to plant the ScanBox JavaScript-based reconnaissance tool.",
+    "analysis": {
+      "issue": "Share this article: Researchers uncover a watering hole attack likely carried out by APT TA423, which attempts to plant the ScanBox JavaScript-based reconnaissance tool",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Medium",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
   },
   {
     "source": "Threat Post",
@@ -1207,7 +1195,22 @@
     "title": "Cybercriminals Are Selling Access to Chinese Surveillance Cameras",
     "link": "https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/",
     "published": "Thu, 25 Aug 2022 18:47:15 +0000",
-    "summary": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed."
+    "summary": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.",
+    "analysis": {
+      "issue": "Share this article: Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2021-36260"
+      ],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability",
+        "APT"
+      ]
+    }
   },
   {
     "source": "Threat Post",
@@ -1252,7 +1255,21 @@
     "title": "Fake Reservation Links Prey on Weary Travelers",
     "link": "https://threatpost.com/reservation-links-prey-on-travelers/180462/",
     "published": "Mon, 22 Aug 2022 13:59:06 +0000",
-    "summary": "Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels."
+    "summary": "Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels.",
+    "analysis": {
+      "issue": "Share this article: Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2017-11882"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
   },
   {
     "source": "Threat Post",
