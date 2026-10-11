@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-10 20:14:10 UTC
+**Last Updated:** 2026-10-11 05:09:19 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -237,7 +237,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-85880, CVE-2026-69829, CVE-2026-81963, CVE-2026-69730  
+**CVEs:** CVE-2026-69829, CVE-2026-85880, CVE-2026-69730, CVE-2026-81963  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -274,7 +274,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-72971, CVE-2026-68820, CVE-2026-62832  
+**CVEs:** CVE-2026-72971, CVE-2026-62832, CVE-2026-68820  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -358,7 +358,7 @@
 **Source:** Security Week  
 **Published:** Fri, 09 Oct 2026 06:53:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-107406, CVE-2026-88772, CVE-2026-88779, CVE-2026-88771  
+**CVEs:** CVE-2026-107406, CVE-2026-88779, CVE-2026-88771, CVE-2026-88772  
 **Categories:** Vulnerability  
 
 ---
@@ -404,7 +404,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 07 Oct 2026 19:27:08 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-50475, CVE-2026-91799, CVE-2026-57256, CVE-2026-48388  
+**CVEs:** CVE-2026-50475, CVE-2026-57256, CVE-2026-91799, CVE-2026-48388  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -566,8 +566,6 @@
 
 **Source:** Threat Post  
 **Published:** Tue, 30 Aug 2022 16:00:43 +0000  
-**Severity:** Medium  
-**Categories:** APT  
 
 ---
 
@@ -593,9 +591,6 @@
 
 **Source:** Threat Post  
 **Published:** Thu, 25 Aug 2022 18:47:15 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2021-36260  
-**Categories:** Data Breach, Vulnerability, APT  
 
 ---
 
@@ -622,9 +617,6 @@
 
 **Source:** Threat Post  
 **Published:** Mon, 22 Aug 2022 13:59:06 +0000  
-**Severity:** Low  
-**CVEs:** CVE-2017-11882  
-**Categories:** Vulnerability, Malware  
 
 ---
 

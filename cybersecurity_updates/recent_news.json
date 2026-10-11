@@ -475,10 +475,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-85880",
         "CVE-2026-69829",
-        "CVE-2026-81963",
-        "CVE-2026-69730"
+        "CVE-2026-85880",
+        "CVE-2026-69730",
+        "CVE-2026-81963"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -556,8 +556,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-72971",
-        "CVE-2026-68820",
-        "CVE-2026-62832"
+        "CVE-2026-62832",
+        "CVE-2026-68820"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -737,9 +737,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-107406",
-        "CVE-2026-88772",
         "CVE-2026-88779",
-        "CVE-2026-88771"
+        "CVE-2026-88771",
+        "CVE-2026-88772"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -836,8 +836,8 @@
       "severity": "Low",
       "cves": [
         "CVE-2026-50475",
-        "CVE-2026-91799",
         "CVE-2026-57256",
+        "CVE-2026-91799",
         "CVE-2026-48388"
       ],
       "threat_categories": [
@@ -1164,18 +1164,7 @@
     "title": "Watering Hole Attacks Push ScanBox Keylogger",
     "link": "https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/",
     "published": "Tue, 30 Aug 2022 16:00:43 +0000",
-    "summary": "Researchers uncover a watering hole attack likely carried out by APT TA423, which attempts to plant the ScanBox JavaScript-based reconnaissance tool.",
-    "analysis": {
-      "issue": "Share this article: Researchers uncover a watering hole attack likely carried out by APT TA423, which attempts to plant the ScanBox JavaScript-based reconnaissance tool",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Medium",
-      "cves": [],
-      "threat_categories": [
-        "APT"
-      ]
-    }
+    "summary": "Researchers uncover a watering hole attack likely carried out by APT TA423, which attempts to plant the ScanBox JavaScript-based reconnaissance tool."
   },
   {
     "source": "Threat Post",
@@ -1218,22 +1207,7 @@
     "title": "Cybercriminals Are Selling Access to Chinese Surveillance Cameras",
     "link": "https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/",
     "published": "Thu, 25 Aug 2022 18:47:15 +0000",
-    "summary": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.",
-    "analysis": {
-      "issue": "Share this article: Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2021-36260"
-      ],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability",
-        "APT"
-      ]
-    }
+    "summary": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed."
   },
   {
     "source": "Threat Post",
@@ -1278,21 +1252,7 @@
     "title": "Fake Reservation Links Prey on Weary Travelers",
     "link": "https://threatpost.com/reservation-links-prey-on-travelers/180462/",
     "published": "Mon, 22 Aug 2022 13:59:06 +0000",
-    "summary": "Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels.",
-    "analysis": {
-      "issue": "Share this article: Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2017-11882"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
+    "summary": "Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels."
   },
   {
     "source": "Threat Post",
