@@ -181,6 +181,24 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Nippon Columbia malware incident exposes 8.6 million karaoke fan records",
+    "link": "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/",
+    "published": "Sun, 11 Oct 2026 10:23:46 -0400",
+    "summary": "Daiichi Kosho, a major Japanese entertainment system maker, disclosed that a malware infection at its contractor, Nippon Columbia, exposed more than 8.7 million customer and employee records. [...]",
+    "analysis": {
+      "issue": "Daiichi Kosho, a major Japanese entertainment system maker, disclosed that a malware infection at its contractor, Nippon Columbia, exposed more than 8",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
     "link": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
     "published": "Sat, 10 Oct 2026 11:07:54 -0400",
@@ -265,8 +283,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-105134",
-        "CVE-2026-105133"
+        "CVE-2026-105133",
+        "CVE-2026-105134"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -345,24 +363,6 @@
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Man admits to running network of 15,000 money mules for cybercriminals",
-    "link": "https://www.bleepingcomputer.com/news/security/ukrainian-russian-dual-citizen-admits-to-laundering-millions-for-cybercriminals/",
-    "published": "Fri, 09 Oct 2026 07:14:28 -0400",
-    "summary": "​A Ukrainian-Russian dual citizen has pleaded guilty to running a massive money laundering operation that laundered millions for cybercriminals worldwide. [...]",
-    "analysis": {
-      "issue": "​A Ukrainian-Russian dual citizen has pleaded guilty to running a massive money laundering operation that laundered millions for cybercriminals worldwide",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -475,10 +475,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-69829",
         "CVE-2026-69730",
-        "CVE-2026-85880",
         "CVE-2026-81963",
-        "CVE-2026-69829"
+        "CVE-2026-85880"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -555,8 +555,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-62832",
         "CVE-2026-72971",
+        "CVE-2026-62832",
         "CVE-2026-68820"
       ],
       "threat_categories": [
@@ -588,7 +588,18 @@
     "title": "OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks",
     "link": "https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/",
     "published": "Fri, 09 Oct 2026 21:07:46 +0000",
-    "summary": "<p>The ChatGPT maker said the researchers  \"violated clear policies on handling sensitive information.”</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/\">OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+    "summary": "<p>The ChatGPT maker said the researchers  \"violated clear policies on handling sensitive information.”</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/\">OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The ChatGPT maker said the researchers  “violated clear policies on handling sensitive information",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
   },
   {
     "source": "Security Week",
@@ -618,7 +629,19 @@
     "title": "Google Domains Impacted by Recent ccTLD Hijacks",
     "link": "https://www.securityweek.com/google-domains-impacted-by-recent-cctld-domain-hijacks/",
     "published": "Fri, 09 Oct 2026 11:43:14 +0000",
-    "summary": "<p>Hackers hijacked the .gh, .sl, and .as ccTLDs and obtained HTTPS certificates for several Google domains.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-domains-impacted-by-recent-cctld-domain-hijacks/\">Google Domains Impacted by Recent ccTLD Hijacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+    "summary": "<p>Hackers hijacked the .gh, .sl, and .as ccTLDs and obtained HTTPS certificates for several Google domains.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-domains-impacted-by-recent-cctld-domain-hijacks/\">Google Domains Impacted by Recent ccTLD Hijacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "as ccTLDs and obtained HTTPS certificates for several Google domains",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Supply Chain"
+      ]
+    }
   },
   {
     "source": "Security Week",
@@ -633,8 +656,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-105134",
-        "CVE-2026-105133"
+        "CVE-2026-105133",
+        "CVE-2026-105134"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -713,10 +736,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-88772",
         "CVE-2026-107406",
-        "CVE-2026-88771",
         "CVE-2026-88779",
-        "CVE-2026-88772"
+        "CVE-2026-88771"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -812,10 +835,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-57256",
-        "CVE-2026-50475",
         "CVE-2026-48388",
-        "CVE-2026-91799"
+        "CVE-2026-91799",
+        "CVE-2026-50475",
+        "CVE-2026-57256"
       ],
       "threat_categories": [
         "Vulnerability",

@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-11 06:12:04 UTC
+**Last Updated:** 2026-10-11 15:01:08 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -94,7 +94,16 @@
 
 ---
 
-### 11. [Cyber exec arrested in case allegedly tied to ShinyHunters hackers](https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/)
+### 11. [Nippon Columbia malware incident exposes 8.6 million karaoke fan records](https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/)
+
+**Source:** Bleeping Computer  
+**Published:** Sun, 11 Oct 2026 10:23:46 -0400  
+**Severity:** High  
+**Categories:** Malware  
+
+---
+
+### 12. [Cyber exec arrested in case allegedly tied to ShinyHunters hackers](https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 10 Oct 2026 11:07:54 -0400  
@@ -103,7 +112,7 @@
 
 ---
 
-### 12. [ARTEX AI, Claude agents used in cyberattacks on South Korean banks](https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/)
+### 13. [ARTEX AI, Claude agents used in cyberattacks on South Korean banks](https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 10 Oct 2026 10:16:17 -0400  
@@ -112,7 +121,7 @@
 
 ---
 
-### 13. [Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management](https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/)
+### 14. [Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management](https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 10 Oct 2026 08:30:39 -0400  
@@ -121,7 +130,7 @@
 
 ---
 
-### 14. [Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/)
+### 15. [Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 09 Oct 2026 16:31:37 -0400  
@@ -130,17 +139,17 @@
 
 ---
 
-### 15. [Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto](https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/)
+### 16. [Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto](https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 09 Oct 2026 13:17:23 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-105134, CVE-2026-105133  
+**CVEs:** CVE-2026-105133, CVE-2026-105134  
 **Categories:** Vulnerability  
 
 ---
 
-### 16. [FBI arrests another suspected ShinyHunters hacker after agency breach](https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/)
+### 17. [FBI arrests another suspected ShinyHunters hacker after agency breach](https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 09 Oct 2026 13:02:29 -0400  
@@ -149,7 +158,7 @@
 
 ---
 
-### 17. [Germany arrests alleged core Qilin ransomware member after extradition](https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/)
+### 18. [Germany arrests alleged core Qilin ransomware member after extradition](https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 09 Oct 2026 11:38:56 -0400  
@@ -158,7 +167,7 @@
 
 ---
 
-### 18. [How to keep AI agents within their permissions](https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/)
+### 19. [How to keep AI agents within their permissions](https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 09 Oct 2026 10:01:11 -0400  
@@ -167,22 +176,13 @@
 
 ---
 
-### 19. [Max severity SonicWall SMA1000 flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/)
+### 20. [Max severity SonicWall SMA1000 flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 09 Oct 2026 08:32:16 -0400  
 **Severity:** Low  
 **CVEs:** CVE-2026-102255  
 **Categories:** Vulnerability  
-
----
-
-### 20. [Man admits to running network of 15,000 money mules for cybercriminals](https://www.bleepingcomputer.com/news/security/ukrainian-russian-dual-citizen-admits-to-laundering-millions-for-cybercriminals/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 09 Oct 2026 07:14:28 -0400  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -237,7 +237,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69730, CVE-2026-85880, CVE-2026-81963, CVE-2026-69829  
+**CVEs:** CVE-2026-69829, CVE-2026-69730, CVE-2026-81963, CVE-2026-85880  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -274,7 +274,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-62832, CVE-2026-72971, CVE-2026-68820  
+**CVEs:** CVE-2026-72971, CVE-2026-62832, CVE-2026-68820  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -292,6 +292,8 @@
 
 **Source:** Security Week  
 **Published:** Fri, 09 Oct 2026 21:07:46 +0000  
+**Severity:** High  
+**Categories:** Supply Chain  
 
 ---
 
@@ -309,6 +311,8 @@
 
 **Source:** Security Week  
 **Published:** Fri, 09 Oct 2026 11:43:14 +0000  
+**Severity:** Low  
+**Categories:** Malware, Supply Chain  
 
 ---
 
@@ -317,7 +321,7 @@
 **Source:** Security Week  
 **Published:** Fri, 09 Oct 2026 10:23:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-105134, CVE-2026-105133  
+**CVEs:** CVE-2026-105133, CVE-2026-105134  
 **Categories:** Vulnerability  
 
 ---
@@ -354,7 +358,7 @@
 **Source:** Security Week  
 **Published:** Fri, 09 Oct 2026 06:53:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-107406, CVE-2026-88771, CVE-2026-88779, CVE-2026-88772  
+**CVEs:** CVE-2026-88772, CVE-2026-107406, CVE-2026-88779, CVE-2026-88771  
 **Categories:** Vulnerability  
 
 ---
@@ -400,7 +404,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 07 Oct 2026 19:27:08 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-57256, CVE-2026-50475, CVE-2026-48388, CVE-2026-91799  
+**CVEs:** CVE-2026-48388, CVE-2026-91799, CVE-2026-50475, CVE-2026-57256  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
