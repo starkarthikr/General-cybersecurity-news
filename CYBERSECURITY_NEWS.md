@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-12 18:07:38 UTC
+**Last Updated:** 2026-10-12 21:08:23 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,34 @@
 
 ---
 
-### 11. [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/)
+### 11. [Norway fines Microsoft ad firm $9.6 million over Grindr data sharing](https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 12 Oct 2026 16:13:52 -0400  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 12. [Yandex confirms service outage as users lose access to cloud files](https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 12 Oct 2026 15:23:01 -0400  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 13. [Anthropic takes risky AI tests offline after models breach govt sites](https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 12 Oct 2026 14:51:59 -0400  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 14. [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 12 Oct 2026 12:27:23 -0400  
@@ -104,7 +131,7 @@
 
 ---
 
-### 12. [Cyberattack shuts down refrigerators at French supermarkets](https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/)
+### 15. [Cyberattack shuts down refrigerators at French supermarkets](https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 12 Oct 2026 11:23:34 -0400  
@@ -113,7 +140,7 @@
 
 ---
 
-### 13. [Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption](https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/)
+### 16. [Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption](https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 12 Oct 2026 10:00:10 -0400  
@@ -122,7 +149,7 @@
 
 ---
 
-### 14. [Retail giant Ahold Delhaize takes systems offline after cyberattack](https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/)
+### 17. [Retail giant Ahold Delhaize takes systems offline after cyberattack](https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 12 Oct 2026 09:51:07 -0400  
@@ -131,7 +158,7 @@
 
 ---
 
-### 15. [GitLab warns of max severity code execution vulnerability](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/)
+### 18. [GitLab warns of max severity code execution vulnerability](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 12 Oct 2026 09:09:09 -0400  
@@ -141,7 +168,7 @@
 
 ---
 
-### 16. [Microsoft: Windows 11 23H2 reaches end of support in 30 days](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-reaches-end-of-support-in-30-days/)
+### 19. [Microsoft: Windows 11 23H2 reaches end of support in 30 days](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-reaches-end-of-support-in-30-days/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 12 Oct 2026 07:58:33 -0400  
@@ -150,39 +177,12 @@
 
 ---
 
-### 17. [Nippon Columbia malware incident exposes 8.6 million karaoke fan records](https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/)
+### 20. [Nippon Columbia malware incident exposes 8.6 million karaoke fan records](https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 11 Oct 2026 10:23:46 -0400  
 **Severity:** High  
 **Categories:** Malware  
-
----
-
-### 18. [Cyber exec arrested in case allegedly tied to ShinyHunters hackers](https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 10 Oct 2026 11:07:54 -0400  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach  
-
----
-
-### 19. [ARTEX AI, Claude agents used in cyberattacks on South Korean banks](https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 10 Oct 2026 10:16:17 -0400  
-**Severity:** Critical  
-**Categories:** General Security  
-
----
-
-### 20. [Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management](https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 10 Oct 2026 08:30:39 -0400  
-**Severity:** Critical  
-**Categories:** Vulnerability  
 
 ---
 
@@ -403,7 +403,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 07 Oct 2026 19:27:08 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-48388, CVE-2026-57256, CVE-2026-50475, CVE-2026-91799  
+**CVEs:** CVE-2026-50475, CVE-2026-91799, CVE-2026-57256, CVE-2026-48388  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
