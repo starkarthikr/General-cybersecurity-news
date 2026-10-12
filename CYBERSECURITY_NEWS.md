@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-11 20:29:12 UTC
+**Last Updated:** 2026-10-12 05:22:49 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -144,7 +144,7 @@
 **Source:** Bleeping Computer  
 **Published:** Fri, 09 Oct 2026 13:17:23 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-105133, CVE-2026-105134  
+**CVEs:** CVE-2026-105134, CVE-2026-105133  
 **Categories:** Vulnerability  
 
 ---
@@ -237,7 +237,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69730, CVE-2026-69829, CVE-2026-85880, CVE-2026-81963  
+**CVEs:** CVE-2026-69829, CVE-2026-81963, CVE-2026-69730, CVE-2026-85880  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -274,7 +274,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-68820, CVE-2026-72971, CVE-2026-62832  
+**CVEs:** CVE-2026-72971, CVE-2026-62832, CVE-2026-68820  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -321,7 +321,7 @@
 **Source:** Security Week  
 **Published:** Fri, 09 Oct 2026 10:23:42 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-105133, CVE-2026-105134  
+**CVEs:** CVE-2026-105134, CVE-2026-105133  
 **Categories:** Vulnerability  
 
 ---
@@ -358,7 +358,7 @@
 **Source:** Security Week  
 **Published:** Fri, 09 Oct 2026 06:53:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-88772, CVE-2026-88779, CVE-2026-88771, CVE-2026-107406  
+**CVEs:** CVE-2026-88779, CVE-2026-88771, CVE-2026-88772, CVE-2026-107406  
 **Categories:** Vulnerability  
 
 ---
@@ -404,7 +404,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 07 Oct 2026 19:27:08 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-48388, CVE-2026-91799, CVE-2026-50475, CVE-2026-57256  
+**CVEs:** CVE-2026-50475, CVE-2026-91799, CVE-2026-57256, CVE-2026-48388  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -553,7 +553,102 @@
 
 ---
 
-### 61. [ASOS breach update: Hackers stole customer details and shopping searches](https://www.malwarebytes.com/blog/data-breaches/2026/10/asos-breach-update-hackers-stole-customer-details-and-shopping-searches)
+### 61. [Student Loan Breach Exposes 2.5M Records](https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/)
+
+**Source:** Threat Post  
+**Published:** Wed, 31 Aug 2022 12:57:48 +0000  
+**Severity:** Low  
+**Categories:** Data Breach, Supply Chain  
+
+---
+
+### 62. [Watering Hole Attacks Push ScanBox Keylogger](https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/)
+
+**Source:** Threat Post  
+**Published:** Tue, 30 Aug 2022 16:00:43 +0000  
+**Severity:** Medium  
+**Categories:** APT  
+
+---
+
+### 63. [Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms](https://threatpost.com/0ktapus-victimize-130-firms/180487/)
+
+**Source:** Threat Post  
+**Published:** Mon, 29 Aug 2022 14:56:19 +0000  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 64. [Ransomware Attacks are on the Rise](https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/)
+
+**Source:** Threat Post  
+**Published:** Fri, 26 Aug 2022 16:44:27 +0000  
+**Severity:** High  
+**Categories:** Ransomware  
+
+---
+
+### 65. [Cybercriminals Are Selling Access to Chinese Surveillance Cameras](https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/)
+
+**Source:** Threat Post  
+**Published:** Thu, 25 Aug 2022 18:47:15 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2021-36260  
+**Categories:** Data Breach, Vulnerability, APT  
+
+---
+
+### 66. [Twitter Whistleblower Complaint: The TL;DR Version](https://threatpost.com/twitter-whistleblower-tldr-version/180472/)
+
+**Source:** Threat Post  
+**Published:** Wed, 24 Aug 2022 14:17:04 +0000  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 67. [Firewall Bug Under Active Attack Triggers CISA Warning](https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467/)
+
+**Source:** Threat Post  
+**Published:** Tue, 23 Aug 2022 13:19:58 +0000  
+**Severity:** High  
+**CVEs:** CVE-2022-0028  
+**Categories:** Vulnerability  
+
+---
+
+### 68. [Fake Reservation Links Prey on Weary Travelers](https://threatpost.com/reservation-links-prey-on-travelers/180462/)
+
+**Source:** Threat Post  
+**Published:** Mon, 22 Aug 2022 13:59:06 +0000  
+**Severity:** Low  
+**CVEs:** CVE-2017-11882  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 69. [iPhone Users Urged to Update to Patch 2 Zero-Days](https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/)
+
+**Source:** Threat Post  
+**Published:** Fri, 19 Aug 2022 15:25:56 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 70. [Google Patches Chrome’s Fifth Zero-Day of the Year](https://threatpost.com/google-patches-chromes-fifth-zero-day-of-the-year/180432/)
+
+**Source:** Threat Post  
+**Published:** Thu, 18 Aug 2022 14:31:38 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2022-2856  
+**Categories:** Vulnerability  
+
+---
+
+### 71. [ASOS breach update: Hackers stole customer details and shopping searches](https://www.malwarebytes.com/blog/data-breaches/2026/10/asos-breach-update-hackers-stole-customer-details-and-shopping-searches)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 09 Oct 2026 10:56:41 GMT  
@@ -562,7 +657,7 @@
 
 ---
 
-### 62. [Attackers hijack country-code domains to impersonate Google and other services](https://www.malwarebytes.com/blog/news/2026/10/attackers-hijack-country-code-domains-to-impersonate-google-and-other-services)
+### 72. [Attackers hijack country-code domains to impersonate Google and other services](https://www.malwarebytes.com/blog/news/2026/10/attackers-hijack-country-code-domains-to-impersonate-google-and-other-services)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 08 Oct 2026 15:53:18 GMT  
@@ -571,7 +666,7 @@
 
 ---
 
-### 63. [Amazon has an uncomfortably personal profile on you](https://www.malwarebytes.com/blog/news/2026/10/amazon-has-an-uncomfortably-personal-profile-on-you-check-yours-now)
+### 73. [Amazon has an uncomfortably personal profile on you](https://www.malwarebytes.com/blog/news/2026/10/amazon-has-an-uncomfortably-personal-profile-on-you-check-yours-now)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 08 Oct 2026 12:29:38 GMT  
@@ -580,7 +675,7 @@
 
 ---
 
-### 64. [Meta’s Muse AI files away your friendships, arguments, and secrets](https://www.malwarebytes.com/blog/privacy/2026/10/metas-muse-ai-files-away-your-friendships-arguments-and-secrets)
+### 74. [Meta’s Muse AI files away your friendships, arguments, and secrets](https://www.malwarebytes.com/blog/privacy/2026/10/metas-muse-ai-files-away-your-friendships-arguments-and-secrets)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 08 Oct 2026 11:07:58 GMT  
@@ -589,7 +684,7 @@
 
 ---
 
-### 65. [Google issues Android security updates: who can get them and how](https://www.malwarebytes.com/blog/bugs/2026/10/google-issues-android-security-updates-who-can-get-them-and-how)
+### 75. [Google issues Android security updates: who can get them and how](https://www.malwarebytes.com/blog/bugs/2026/10/google-issues-android-security-updates-who-can-get-them-and-how)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 07 Oct 2026 13:25:04 GMT  
@@ -598,7 +693,7 @@
 
 ---
 
-### 66. [AI-powered phishkit arms criminals with account-hijacking tools in 10 minutes](https://www.malwarebytes.com/blog/threat-intel/2026/10/ai-powered-phishkit-arms-criminals-with-account-hijacking-tools-in-10-minutes)
+### 76. [AI-powered phishkit arms criminals with account-hijacking tools in 10 minutes](https://www.malwarebytes.com/blog/threat-intel/2026/10/ai-powered-phishkit-arms-criminals-with-account-hijacking-tools-in-10-minutes)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 07 Oct 2026 10:54:19 GMT  
@@ -607,7 +702,7 @@
 
 ---
 
-### 67. [Update Chrome and ChromeOS to fix critical security issues](https://www.malwarebytes.com/blog/bugs/2026/10/update-chrome-and-chromeos-to-fix-critical-security-issues)
+### 77. [Update Chrome and ChromeOS to fix critical security issues](https://www.malwarebytes.com/blog/bugs/2026/10/update-chrome-and-chromeos-to-fix-critical-security-issues)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 07 Oct 2026 10:25:26 GMT  
@@ -616,7 +711,7 @@
 
 ---
 
-### 68. [Another ShinyHunters suspect arrested](https://www.malwarebytes.com/blog/news/2026/10/another-shinyhunters-suspect-arrested)
+### 78. [Another ShinyHunters suspect arrested](https://www.malwarebytes.com/blog/news/2026/10/another-shinyhunters-suspect-arrested)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 07 Oct 2026 10:03:06 GMT  
@@ -625,7 +720,7 @@
 
 ---
 
-### 69. [ASOS “hackers” send push notifications to customers](https://www.malwarebytes.com/blog/news/2026/10/asos-hackers-send-push-notifications-to-customers)
+### 79. [ASOS “hackers” send push notifications to customers](https://www.malwarebytes.com/blog/news/2026/10/asos-hackers-send-push-notifications-to-customers)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 06 Oct 2026 14:11:11 GMT  
@@ -634,7 +729,7 @@
 
 ---
 
-### 70. [Facebook Marketplace scam uses your name and number](https://www.malwarebytes.com/blog/threat-intel/2026/10/facebook-marketplace-phish-uses-your-name-and-number)
+### 80. [Facebook Marketplace scam uses your name and number](https://www.malwarebytes.com/blog/threat-intel/2026/10/facebook-marketplace-phish-uses-your-name-and-number)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 06 Oct 2026 12:11:06 GMT  
@@ -643,7 +738,7 @@
 
 ---
 
-### 71. [Solving the Continuous Authorization Conundrum](https://www.crowdstrike.com/en-us/blog/solving-the-continuous-authorization-conundrum/)
+### 81. [Solving the Continuous Authorization Conundrum](https://www.crowdstrike.com/en-us/blog/solving-the-continuous-authorization-conundrum/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 08, 2026 00:00:00-0500  
@@ -652,7 +747,7 @@
 
 ---
 
-### 72. [CrowdStrike and Anthropic Give Critical Infrastructure Defenders the AI Advantage](https://www.crowdstrike.com/en-us/blog/crowdstrike-anthropic-critical-infrastructure-defense-program/)
+### 82. [CrowdStrike and Anthropic Give Critical Infrastructure Defenders the AI Advantage](https://www.crowdstrike.com/en-us/blog/crowdstrike-anthropic-critical-infrastructure-defense-program/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 08, 2026 00:00:00-0500  
@@ -661,7 +756,7 @@
 
 ---
 
-### 73. [Unknown Threat Actor Uses AI-Driven ARTEX to Target South Korean Finance](https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/)
+### 83. [Unknown Threat Actor Uses AI-Driven ARTEX to Target South Korean Finance](https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 07, 2026 00:00:00-0500  
@@ -670,7 +765,7 @@
 
 ---
 
-### 74. [CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Modern Endpoint Security for Enterprises Vendor Assessment](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-modern-endpoint-security-for-enterprises/)
+### 84. [CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Modern Endpoint Security for Enterprises Vendor Assessment](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-modern-endpoint-security-for-enterprises/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 07, 2026 00:00:00-0500  
@@ -679,7 +774,7 @@
 
 ---
 
-### 75. [Request, Aggregate, Bypass: How Attackers Can Evade LLM Safety Classifiers](https://www.crowdstrike.com/en-us/blog/how-attackers-can-bypass-llm-safety-classifiers/)
+### 85. [Request, Aggregate, Bypass: How Attackers Can Evade LLM Safety Classifiers](https://www.crowdstrike.com/en-us/blog/how-attackers-can-bypass-llm-safety-classifiers/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 06, 2026 00:00:00-0500  
@@ -688,7 +783,7 @@
 
 ---
 
-### 76. [Falcon Data Security for SaaS Secures Sensitive Data in Microsoft 365](https://www.crowdstrike.com/en-us/blog/falcon-data-security-for-saas-secures-sensitive-data/)
+### 86. [Falcon Data Security for SaaS Secures Sensitive Data in Microsoft 365](https://www.crowdstrike.com/en-us/blog/falcon-data-security-for-saas-secures-sensitive-data/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 05, 2026 00:00:00-0500  
@@ -697,7 +792,7 @@
 
 ---
 
-### 77. [New in Falcon Cloud Security: Third-Party App Insights and AI-Enhanced Remediation](https://www.crowdstrike.com/en-us/blog/falcon-cloud-security-third-party-app-insights-ai-enhanced-remedation/)
+### 87. [New in Falcon Cloud Security: Third-Party App Insights and AI-Enhanced Remediation](https://www.crowdstrike.com/en-us/blog/falcon-cloud-security-third-party-app-insights-ai-enhanced-remedation/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 05, 2026 00:00:00-0500  
@@ -706,7 +801,7 @@
 
 ---
 
-### 78. [CrowdStrike Expands Federal SOC Modernization Through CISA-Funded SIEMaaS](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-federal-soc-modernization-via-cisa-siemaas/)
+### 88. [CrowdStrike Expands Federal SOC Modernization Through CISA-Funded SIEMaaS](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-federal-soc-modernization-via-cisa-siemaas/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 01, 2026 00:00:00-0500  
@@ -715,7 +810,7 @@
 
 ---
 
-### 79. [Copy, Paste, Compromised: How ClickFix Attacks Work and How CrowdStrike Stops Them](https://www.crowdstrike.com/en-us/blog/how-clickfix-attacks-work-and-how-to-stop-them/)
+### 89. [Copy, Paste, Compromised: How ClickFix Attacks Work and How CrowdStrike Stops Them](https://www.crowdstrike.com/en-us/blog/how-clickfix-attacks-work-and-how-to-stop-them/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 29, 2026 00:00:00-0500  
@@ -724,7 +819,7 @@
 
 ---
 
-### 80. [A Win for Defenders: CrowdStrike and NVIDIA Extend Security Across the AI Stack](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-extend-security-across-ai-stack/)
+### 90. [A Win for Defenders: CrowdStrike and NVIDIA Extend Security Across the AI Stack](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-extend-security-across-ai-stack/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Sep 28, 2026 00:00:00-0400  
