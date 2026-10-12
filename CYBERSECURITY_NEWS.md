@@ -1,10 +1,65 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-12 06:19:36 UTC
+**Last Updated:** 2026-10-12 18:07:38 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands](https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html)
+### 1. [⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More](https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 12 Oct 2026 20:46:26 +0530  
+**Severity:** Critical  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 2. [Bring Your Own Agent: Your Employees' Assistants Are Already Logged In](https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 12 Oct 2026 17:25:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports](https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 12 Oct 2026 16:51:48 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 4. [Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch](https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 12 Oct 2026 16:06:56 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 5. [Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE](https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 12 Oct 2026 14:32:14 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-85097  
+**Categories:** Vulnerability  
+
+---
+
+### 6. [CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records](https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 12 Oct 2026 12:56:12 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 7. [P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands](https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 11 Oct 2026 09:54:34 +0530  
@@ -13,7 +68,7 @@
 
 ---
 
-### 2. [The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't](https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html)
+### 8. [The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't](https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 10 Oct 2026 16:30:00 +0530  
@@ -22,7 +77,7 @@
 
 ---
 
-### 3. [Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws](https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html)
+### 9. [Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws](https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 10 Oct 2026 14:48:45 +0530  
@@ -31,7 +86,7 @@
 
 ---
 
-### 4. [Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories](https://thehackernews.com/2026/10/credential-stealing-github-actions.html)
+### 10. [Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories](https://thehackernews.com/2026/10/credential-stealing-github-actions.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 10 Oct 2026 00:44:28 +0530  
@@ -40,61 +95,62 @@
 
 ---
 
-### 5. [FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack](https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html)
+### 11. [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 09 Oct 2026 23:15:26 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 12 Oct 2026 12:27:23 -0400  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 12. [Cyberattack shuts down refrigerators at French supermarkets](https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 12 Oct 2026 11:23:34 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 6. [TP-Link Sued by Four More U.S. States Over Router Security and China Ties](https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html)
+### 13. [Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption](https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 09 Oct 2026 18:52:53 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 12 Oct 2026 10:00:10 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 14. [Retail giant Ahold Delhaize takes systems offline after cyberattack](https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 12 Oct 2026 09:51:07 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 7. [Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access](https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html)
+### 15. [GitLab warns of max severity code execution vulnerability](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 09 Oct 2026 18:29:22 +0530  
-**Severity:** Low  
+**Source:** Bleeping Computer  
+**Published:** Mon, 12 Oct 2026 09:09:09 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-0723, CVE-2026-97229  
 **Categories:** Vulnerability  
 
 ---
 
-### 8. [Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects](https://thehackernews.com/2026/10/anthropic-launches-free-ai.html)
+### 16. [Microsoft: Windows 11 23H2 reaches end of support in 30 days](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-reaches-end-of-support-in-30-days/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 09 Oct 2026 18:17:28 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 12 Oct 2026 07:58:33 -0400  
 **Severity:** Low  
-**Categories:** Vulnerability  
+**Categories:** General Security  
 
 ---
 
-### 9. [Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge](https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 09 Oct 2026 18:17:26 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 10. [Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies](https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 09 Oct 2026 17:51:51 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 11. [Nippon Columbia malware incident exposes 8.6 million karaoke fan records](https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/)
+### 17. [Nippon Columbia malware incident exposes 8.6 million karaoke fan records](https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 11 Oct 2026 10:23:46 -0400  
@@ -103,7 +159,7 @@
 
 ---
 
-### 12. [Cyber exec arrested in case allegedly tied to ShinyHunters hackers](https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/)
+### 18. [Cyber exec arrested in case allegedly tied to ShinyHunters hackers](https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 10 Oct 2026 11:07:54 -0400  
@@ -112,7 +168,7 @@
 
 ---
 
-### 13. [ARTEX AI, Claude agents used in cyberattacks on South Korean banks](https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/)
+### 19. [ARTEX AI, Claude agents used in cyberattacks on South Korean banks](https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 10 Oct 2026 10:16:17 -0400  
@@ -121,67 +177,11 @@
 
 ---
 
-### 14. [Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management](https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/)
+### 20. [Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management](https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 10 Oct 2026 08:30:39 -0400  
 **Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 15. [Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 09 Oct 2026 16:31:37 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 16. [Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto](https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 09 Oct 2026 13:17:23 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-105133, CVE-2026-105134  
-**Categories:** Vulnerability  
-
----
-
-### 17. [FBI arrests another suspected ShinyHunters hacker after agency breach](https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 09 Oct 2026 13:02:29 -0400  
-**Severity:** Critical  
-**Categories:** Vulnerability, Supply Chain  
-
----
-
-### 18. [Germany arrests alleged core Qilin ransomware member after extradition](https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 09 Oct 2026 11:38:56 -0400  
-**Severity:** High  
-**Categories:** Ransomware  
-
----
-
-### 19. [How to keep AI agents within their permissions](https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 09 Oct 2026 10:01:11 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [Max severity SonicWall SMA1000 flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 09 Oct 2026 08:32:16 -0400  
-**Severity:** Low  
-**CVEs:** CVE-2026-102255  
 **Categories:** Vulnerability  
 
 ---
@@ -274,12 +274,86 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-72971, CVE-2026-68820, CVE-2026-62832  
+**CVEs:** CVE-2026-62832, CVE-2026-68820, CVE-2026-72971  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 31. [Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison](https://www.securityweek.com/insider-cyber-extortion-plot-against-industrial-firm-lands-engineer-in-prison/)
+### 31. [IonQ to Acquire Zero Trust Firm Elisity for Up to $1.3 Billion](https://www.securityweek.com/ionq-to-acquire-zero-trust-firm-elisity-for-up-to-1-3-billion/)
+
+**Source:** Security Week  
+**Published:** Mon, 12 Oct 2026 14:25:00 +0000  
+**Severity:** Critical  
+**Categories:** General Security  
+
+---
+
+### 32. [Bricksforge WordPress Plugin Vulnerability Exploited in the Wild](https://www.securityweek.com/bricksforge-wordpress-plugin-vulnerability-exploited-in-the-wild/)
+
+**Source:** Security Week  
+**Published:** Mon, 12 Oct 2026 13:14:37 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-85097  
+**Categories:** Vulnerability  
+
+---
+
+### 33. [Canonical Websites Disrupted in Second DDoS Attack This Year](https://www.securityweek.com/canonical-websites-disrupted-in-second-ddos-attack-this-year/)
+
+**Source:** Security Week  
+**Published:** Mon, 12 Oct 2026 11:58:39 +0000  
+**Severity:** Low  
+**Categories:** DDoS  
+
+---
+
+### 34. [Mastermind of 15,000-Mule Cybercrime Laundering Network Pleads Guilty in US](https://www.securityweek.com/mastermind-of-15000-mule-cybercrime-laundering-network-pleads-guilty-in-us/)
+
+**Source:** Security Week  
+**Published:** Mon, 12 Oct 2026 11:24:50 +0000  
+**Severity:** Low  
+**Categories:** Ransomware, Malware  
+
+---
+
+### 35. [iRhythm Data Breach Impacts at Least 360,000 People](https://www.securityweek.com/irhythm-data-breach-impacts-over-360000-people/)
+
+**Source:** Security Week  
+**Published:** Mon, 12 Oct 2026 11:05:43 +0000  
+**Severity:** High  
+**Categories:** Ransomware, Data Breach, Supply Chain  
+
+---
+
+### 36. [Ransomware Response Expert Arrested in ShinyHunters FBI Hack Probe](https://www.securityweek.com/ransomware-response-expert-arrested-in-shinyhunters-fbi-hack-probe/)
+
+**Source:** Security Week  
+**Published:** Mon, 12 Oct 2026 10:32:05 +0000  
+**Severity:** Low  
+**Categories:** Ransomware  
+
+---
+
+### 37. [Critical SonicWall Vulnerability Exploited Days After Disclosure](https://www.securityweek.com/critical-sonicwall-vulnerability-exploited-days-after-disclosure/)
+
+**Source:** Security Week  
+**Published:** Mon, 12 Oct 2026 08:36:01 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-102255  
+**Categories:** Vulnerability  
+
+---
+
+### 38. [Let’s Encrypt Cuts Default Certificate Validity to 64 Days Ahead of 45-Day Switch](https://www.securityweek.com/lets-encrypt-cuts-default-certificate-validity-to-64-days-ahead-of-45-day-switch/)
+
+**Source:** Security Week  
+**Published:** Mon, 12 Oct 2026 07:53:28 +0000  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 39. [Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison](https://www.securityweek.com/insider-cyber-extortion-plot-against-industrial-firm-lands-engineer-in-prison/)
 
 **Source:** Security Week  
 **Published:** Sat, 10 Oct 2026 11:00:00 +0000  
@@ -288,87 +362,12 @@
 
 ---
 
-### 32. [OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks](https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/)
+### 40. [OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks](https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/)
 
 **Source:** Security Week  
 **Published:** Fri, 09 Oct 2026 21:07:46 +0000  
 **Severity:** High  
 **Categories:** Supply Chain  
-
----
-
-### 33. [In Other News: AI Used in Korean Bank Breaches, Poem-Guided Botnet, Empire Admin Gets 40 Years](https://www.securityweek.com/in-other-news-ai-used-in-korean-bank-breaches-poem-guided-botnet-empire-admin-gets-40-years/)
-
-**Source:** Security Week  
-**Published:** Fri, 09 Oct 2026 12:03:50 +0000  
-**Severity:** High  
-**CVEs:** CVE-2026-47483  
-**Categories:** Data Breach, Vulnerability, Malware, Supply Chain  
-
----
-
-### 34. [Google Domains Impacted by Recent ccTLD Hijacks](https://www.securityweek.com/google-domains-impacted-by-recent-cctld-domain-hijacks/)
-
-**Source:** Security Week  
-**Published:** Fri, 09 Oct 2026 11:43:14 +0000  
-**Severity:** Low  
-**Categories:** Malware, Supply Chain  
-
----
-
-### 35. [Unpatched AhsayCBS Vulnerabilities Exploited in the Wild](https://www.securityweek.com/unpatched-ahsaycbs-vulnerabilities-exploited-in-the-wild/)
-
-**Source:** Security Week  
-**Published:** Fri, 09 Oct 2026 10:23:42 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-105133, CVE-2026-105134  
-**Categories:** Vulnerability  
-
----
-
-### 36. [Pre-Baked Firmware Malware Hits Budget Android Devices in 150+ Countries](https://www.securityweek.com/pre-baked-firmware-malware-hits-budget-android-devices-in-150-countries/)
-
-**Source:** Security Week  
-**Published:** Fri, 09 Oct 2026 09:55:35 +0000  
-**Severity:** Low  
-**Categories:** Vulnerability, Malware  
-
----
-
-### 37. [US Disrupts Chinese State-Sponsored Hacking Tools](https://www.securityweek.com/us-disrupts-chinese-state-sponsored-hacking-tools/)
-
-**Source:** Security Week  
-**Published:** Fri, 09 Oct 2026 08:36:37 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, Malware, Phishing, APT  
-
----
-
-### 38. [Anthropic Fast-Tracks AI Bug Reports to OSS Maintainers, Taps 11 Firms for OT Security](https://www.securityweek.com/anthropic-fast-tracks-ai-bug-reports-to-oss-maintainers-taps-11-firms-for-ot-security/)
-
-**Source:** Security Week  
-**Published:** Fri, 09 Oct 2026 08:19:33 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, Malware  
-
----
-
-### 39. [Citrix Urges Immediate Patching of Critical NetScaler Vulnerability](https://www.securityweek.com/citrix-urges-immediate-patching-of-critical-netscaler-vulnerability/)
-
-**Source:** Security Week  
-**Published:** Fri, 09 Oct 2026 06:53:53 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-88772, CVE-2026-88771, CVE-2026-107406, CVE-2026-88779  
-**Categories:** Vulnerability  
-
----
-
-### 40. [Google Pixel 10 Exploits Earned Hackers $560,000 at Pwn2Own](https://www.securityweek.com/google-pixel-10-exploits-earned-hackers-560000-at-pwn2own/)
-
-**Source:** Security Week  
-**Published:** Fri, 09 Oct 2026 06:39:55 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability  
 
 ---
 
@@ -404,7 +403,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 07 Oct 2026 19:27:08 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-48388, CVE-2026-57256, CVE-2026-91799, CVE-2026-50475  
+**CVEs:** CVE-2026-48388, CVE-2026-57256, CVE-2026-50475, CVE-2026-91799  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -648,7 +647,34 @@
 
 ---
 
-### 71. [ASOS breach update: Hackers stole customer details and shopping searches](https://www.malwarebytes.com/blog/data-breaches/2026/10/asos-breach-update-hackers-stole-customer-details-and-shopping-searches)
+### 71. [How “123456” became the key to almost 9 million personal records](https://www.malwarebytes.com/blog/news/2026/10/how-123456-became-the-key-to-almost-9-million-personal-records)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 12 Oct 2026 12:34:10 GMT  
+**Severity:** Low  
+**Categories:** Data Breach  
+
+---
+
+### 72. [Phishing emails are baiting your AI assistant](https://www.malwarebytes.com/blog/ai/2026/10/phishing-emails-are-baiting-your-ai-assistant)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 12 Oct 2026 10:54:40 GMT  
+**Severity:** High  
+**Categories:** Phishing  
+
+---
+
+### 73. [A week in security (October 5 – October 11)](https://www.malwarebytes.com/blog/news/2026/10/a-week-in-security-october-5-october-11)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 12 Oct 2026 07:01:00 GMT  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 74. [ASOS breach update: Hackers stole customer details and shopping searches](https://www.malwarebytes.com/blog/data-breaches/2026/10/asos-breach-update-hackers-stole-customer-details-and-shopping-searches)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 09 Oct 2026 10:56:41 GMT  
@@ -657,7 +683,7 @@
 
 ---
 
-### 72. [Attackers hijack country-code domains to impersonate Google and other services](https://www.malwarebytes.com/blog/news/2026/10/attackers-hijack-country-code-domains-to-impersonate-google-and-other-services)
+### 75. [Attackers hijack country-code domains to impersonate Google and other services](https://www.malwarebytes.com/blog/news/2026/10/attackers-hijack-country-code-domains-to-impersonate-google-and-other-services)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 08 Oct 2026 15:53:18 GMT  
@@ -666,7 +692,7 @@
 
 ---
 
-### 73. [Amazon has an uncomfortably personal profile on you](https://www.malwarebytes.com/blog/news/2026/10/amazon-has-an-uncomfortably-personal-profile-on-you-check-yours-now)
+### 76. [Amazon has an uncomfortably personal profile on you](https://www.malwarebytes.com/blog/news/2026/10/amazon-has-an-uncomfortably-personal-profile-on-you-check-yours-now)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 08 Oct 2026 12:29:38 GMT  
@@ -675,7 +701,7 @@
 
 ---
 
-### 74. [Meta’s Muse AI files away your friendships, arguments, and secrets](https://www.malwarebytes.com/blog/privacy/2026/10/metas-muse-ai-files-away-your-friendships-arguments-and-secrets)
+### 77. [Meta’s Muse AI files away your friendships, arguments, and secrets](https://www.malwarebytes.com/blog/privacy/2026/10/metas-muse-ai-files-away-your-friendships-arguments-and-secrets)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 08 Oct 2026 11:07:58 GMT  
@@ -684,7 +710,7 @@
 
 ---
 
-### 75. [Google issues Android security updates: who can get them and how](https://www.malwarebytes.com/blog/bugs/2026/10/google-issues-android-security-updates-who-can-get-them-and-how)
+### 78. [Google issues Android security updates: who can get them and how](https://www.malwarebytes.com/blog/bugs/2026/10/google-issues-android-security-updates-who-can-get-them-and-how)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 07 Oct 2026 13:25:04 GMT  
@@ -693,7 +719,7 @@
 
 ---
 
-### 76. [AI-powered phishkit arms criminals with account-hijacking tools in 10 minutes](https://www.malwarebytes.com/blog/threat-intel/2026/10/ai-powered-phishkit-arms-criminals-with-account-hijacking-tools-in-10-minutes)
+### 79. [AI-powered phishkit arms criminals with account-hijacking tools in 10 minutes](https://www.malwarebytes.com/blog/threat-intel/2026/10/ai-powered-phishkit-arms-criminals-with-account-hijacking-tools-in-10-minutes)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 07 Oct 2026 10:54:19 GMT  
@@ -702,39 +728,12 @@
 
 ---
 
-### 77. [Update Chrome and ChromeOS to fix critical security issues](https://www.malwarebytes.com/blog/bugs/2026/10/update-chrome-and-chromeos-to-fix-critical-security-issues)
+### 80. [Update Chrome and ChromeOS to fix critical security issues](https://www.malwarebytes.com/blog/bugs/2026/10/update-chrome-and-chromeos-to-fix-critical-security-issues)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 07 Oct 2026 10:25:26 GMT  
 **Severity:** Critical  
 **Categories:** General Security  
-
----
-
-### 78. [Another ShinyHunters suspect arrested](https://www.malwarebytes.com/blog/news/2026/10/another-shinyhunters-suspect-arrested)
-
-**Source:** Malwarebytes  
-**Published:** Wed, 07 Oct 2026 10:03:06 GMT  
-**Severity:** Low  
-**Categories:** Vulnerability, Supply Chain  
-
----
-
-### 79. [ASOS “hackers” send push notifications to customers](https://www.malwarebytes.com/blog/news/2026/10/asos-hackers-send-push-notifications-to-customers)
-
-**Source:** Malwarebytes  
-**Published:** Tue, 06 Oct 2026 14:11:11 GMT  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 80. [Facebook Marketplace scam uses your name and number](https://www.malwarebytes.com/blog/threat-intel/2026/10/facebook-marketplace-phish-uses-your-name-and-number)
-
-**Source:** Malwarebytes  
-**Published:** Tue, 06 Oct 2026 12:11:06 GMT  
-**Severity:** Low  
-**Categories:** Data Breach  
 
 ---
 

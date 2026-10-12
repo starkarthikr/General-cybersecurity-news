@@ -1,6 +1,117 @@
 [
   {
     "source": "The Hacker News",
+    "title": "⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
+    "link": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
+    "published": "Mon, 12 Oct 2026 20:46:26 +0530",
+    "summary": "Some meetings last longer than it took attackers to jump on a newly disclosed security flaw this week. Within hours, they were already testing it. That's not much time to read the warning, let alone do something about it.\n\nBut speed is only part of the problem. A secure connection didn't always mean a safe destination. People offering to fix a ransomware mess had questions to answer themselves.",
+    "analysis": {
+      "issue": "This week's cybersecurity recap covers helpdesk zero-days, rogue HTTPS certificates, a ShinyHunters arrest, AI-fooling malware, and more major threats",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In",
+    "link": "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html",
+    "published": "Mon, 12 Oct 2026 17:25:00 +0530",
+    "summary": "The personal AI agents rollout is going about as smoothly as expected: Amazon now blocks Meta's Muse because it doesn't identify itself as a bot while browsing; Instinct keeps raising privacy concerns; and the horror stories from pretty much every personal AI agent keep piling up.\n\nRegardless, the tech world is mesmerized by the capabilities and potential of these services. Less than a year",
+    "analysis": {
+      "issue": "Personal AI agents can access work apps through OAuth grants, passwords, and API keys, while remaining outside managed agent consoles",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports",
+    "link": "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html",
+    "published": "Mon, 12 Oct 2026 16:51:48 +0530",
+    "summary": "Cryptocurrency hardware maker Ledger has temporarily paused sales of its products via CryptoBilis following reports of stolen funds linked to devices sold by the reseller.\n\nOn Friday, the company said it was investigating reports of loss of funds from users in Southeast Asia who had purchased products from CryptoBilis. The incident is said to have resulted in losses totaling more than $86",
+    "analysis": {
+      "issue": "Ledger confirmed an unauthorized hardware implant in one CryptoBilis-sold device amid fund loss reports and paused sales through the reseller",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch",
+    "link": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html",
+    "published": "Mon, 12 Oct 2026 16:06:56 +0530",
+    "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw in SonicWall Secure Mobile Access (SMA) 1000 appliances within days of public disclosure.\n\nThe vulnerability, tracked as CVE-2026-102255 (CVSS score: 10.0), is a case of pre-authenticated server-side request forgery (SSRF) that could allow a remote attacker \"to direct the appliance to issue requests on their",
+    "analysis": {
+      "issue": "Attackers have made 135 attempts to exploit a patched pre-auth SSRF flaw in SonicWall SMA 1000 appliances, originating from two U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE",
+    "link": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
+    "published": "Mon, 12 Oct 2026 14:32:14 +0530",
+    "summary": "A maximum-severity security flaw impacting the Bricksforge plugin for WordPress has come under active exploitation in the wild, according to Patchstack.\n\nThe critical vulnerability in question is CVE-2026-85097 (CVSS score: 10.0), which allows unauthenticated attackers to upload and execute arbitrary PHP code on vulnerable WordPress websites, resulting in remote code execution (RCE). The",
+    "analysis": {
+      "issue": "Bricksforge's CVE-2026-85097 is under active exploitation and allows unauthenticated PHP execution on affected WordPress sites",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-85097"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records",
+    "link": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
+    "published": "Mon, 12 Oct 2026 12:56:12 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a two-pronged artificial intelligence (AI)-augmented initial access campaign targeting WordPress sites, e-commerce platforms, and critical infrastructure entities in Ukraine.\n\nThe activity, which brings together commodity offensive tools like Cobalt Strike with an AI orchestration layer powered by Anthropic's Claude Code, has been attributed",
+    "analysis": {
+      "issue": "CyberXero's Claude Code-assisted campaign accessed 429 WordPress admin panels and exfiltrated over 628,000 records from four Ukrainian organizations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
     "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
     "published": "Sun, 11 Oct 2026 09:54:34 +0530",
@@ -40,7 +151,7 @@
     "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
     "link": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
     "published": "Sat, 10 Oct 2026 14:48:45 +0530",
-    "summary": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and targeted real websites.\n\nThe AI company said it identified four broad categories of unintended model actions during evaluations and internal use of Claude -\n\n\n  Claude Mythos",
+    "summary": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations until further notice following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and targeted real websites.\n\nThe AI company said it identified four broad categories of unintended model actions during evaluations and internal use of Claude",
     "analysis": {
       "issue": "Anthropic halted live internet access for internal evaluations after Claude exploited injection flaws and submitted an unauthorized form",
       "solution": null,
@@ -72,13 +183,31 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
-    "link": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
-    "published": "Fri, 09 Oct 2026 23:15:26 +0530",
-    "summary": "The FBI has arrested another suspected co-conspirator of ShinyHunters, FBI Director Kash Patel said on October 9 in a&nbsp;post on X.\n\nShinyHunters is the extortion group that said in September it had&nbsp;breached the FBI's jobs portal&nbsp;and stolen sensitive data on almost all FBI agents and job applicants. The FBI has not named the suspect, and no charges have been made public.\n\nThe",
+    "source": "Bleeping Computer",
+    "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+    "link": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+    "published": "Mon, 12 Oct 2026 12:27:23 -0400",
+    "summary": "Ledger has confirmed that some of its devices distributed through Southeast Asian reseller CryptoBilis were compromised with a hardware implant that drained users' cryptocurrency wallets. [...]",
     "analysis": {
-      "issue": "The FBI arrested another suspected ShinyHunters co-conspirator whom news reports link to the breach of its jobs portal",
+      "issue": "Ledger has confirmed that some of its devices distributed through Southeast Asian reseller CryptoBilis were compromised with a hardware implant that drained users' cryptocurrency wallets",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Cyberattack shuts down refrigerators at French supermarkets",
+    "link": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
+    "published": "Mon, 12 Oct 2026 11:23:34 -0400",
+    "summary": "Attackers remotely defrosted refrigerators at multiple French supermarket chains overnight in a cyberattack that reportedly targeted Danfoss refrigeration controllers. [...]",
+    "analysis": {
+      "issue": "Attackers remotely defrosted refrigerators at multiple French supermarket chains overnight in a cyberattack that reportedly targeted Danfoss refrigeration controllers",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -90,13 +219,31 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
-    "link": "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html",
-    "published": "Fri, 09 Oct 2026 18:52:53 +0530",
-    "summary": "Four more U.S. states sued router maker TP-Link Systems on October 6, bringing the total to five, with &nbsp;Texas filing a suit in February. Florida, Iowa, Montana and Nebraska allege the California company misled buyers about how secure its routers are and how separate it is from China. TP-Link&nbsp;denies the claims&nbsp;and says it will fight them in court.\n\nTP-Link Systems is based in",
+    "source": "Bleeping Computer",
+    "title": "Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption",
+    "link": "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/",
+    "published": "Mon, 12 Oct 2026 10:00:10 -0400",
+    "summary": "A new Windows malware loader called AvisLoader uses encrypted peer-to-peer communications to make command-and-control infrastructure harder to disrupt. Varonis researchers explain how the malware uses ClickFix delivery, shortcut-based persistence, and remote command execution capabilities. [...]",
     "analysis": {
-      "issue": "states sued TP-Link over allegedly misleading claims about router security and China ties, as 21 attorneys general contacted the FCC",
+      "issue": "Varonis Threat Labs recently discovered AvisLoader, a new Windows loader named after the Latin word for bird",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Retail giant Ahold Delhaize takes systems offline after cyberattack",
+    "link": "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/",
+    "published": "Mon, 12 Oct 2026 09:51:07 -0400",
+    "summary": "Retail giant Ahold Delhaize, one of the world's largest food retail chains, confirmed today that it had to take some systems offline in response to a \"cybersecurity incident\" affecting its network. [...]",
+    "analysis": {
+      "issue": "Retail giant Ahold Delhaize, one of the world's largest food retail chains, confirmed today that it was forced to take some systems offline after a \"cybersecurity incident",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -108,74 +255,41 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access",
-    "link": "https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html",
-    "published": "Fri, 09 Oct 2026 18:29:22 +0530",
-    "summary": "Security researchers have&nbsp;published a full working exploit&nbsp;for a pre-authentication remote code execution flaw in AnyDesk Linux that gives attackers root access before anyone approves the connection.\n\nAnyDesk patched the flaw in version 8.0.3 in June, but its&nbsp;changelog&nbsp;described the fix only as \"fixed a bug that could lead to a crash,\" with no CVE assigned and no security",
+    "source": "Bleeping Computer",
+    "title": "GitLab warns of max severity code execution vulnerability",
+    "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
+    "published": "Mon, 12 Oct 2026 09:09:09 -0400",
+    "summary": "GitLab warned users today to immediately patch a maximum-severity vulnerability in the CI/CD Regular Expression Compiler that could let remote attackers run arbitrary code on targeted instances. [...]",
     "analysis": {
-      "issue": "A public exploit for AnyDesk Linux 8",
+      "issue": "GitLab warned users today to immediately patch a maximum-severity vulnerability in the CI/CD Regular Expression Compiler that could let remote attackers run arbitrary code on targeted instances",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-0723",
+        "CVE-2026-97229"
+      ],
       "threat_categories": [
         "Vulnerability"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
-    "link": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
-    "published": "Fri, 09 Oct 2026 18:17:28 +0530",
-    "summary": "Anthropic on Thursday unveiled OSS Scanner as an opt-in vulnerability scanner to help secure the open-source ecosystem using artificial intelligence (AI).\n\n\"It's an opt-in service informed by our experience using Claude to find vulnerabilities during Project Glasswing,\" Anthropic said. \"Projects that join will receive thorough, periodic security scans by our strongest models at no cost.\"",
+    "source": "Bleeping Computer",
+    "title": "Microsoft: Windows 11 23H2 reaches end of support in 30 days",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-reaches-end-of-support-in-30-days/",
+    "published": "Mon, 12 Oct 2026 07:58:33 -0400",
+    "summary": "Microsoft has reminded customers that systems running Windows 11 23H2 Enterprise, Education, and IoT Enterprise editions will stop receiving security updates next month. [...]",
     "analysis": {
-      "issue": "Anthropic's opt-in OSS Scanner offers free, periodic AI vulnerability scans for open-source projects, with no human review required for reports",
+      "issue": "Microsoft has reminded customers that systems running Windows 11 23H2 Enterprise, Education, and IoT Enterprise editions will stop receiving security updates next month",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
-    "link": "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html",
-    "published": "Fri, 09 Oct 2026 18:17:26 +0530",
-    "summary": "Threat actors have been observed exploiting two recently disclosed flaws in the AhsayCBS backup utility to seize control of affected devices and deploy web shells and XMRig cryptocurrency miners.\n\nDetails of the flaws are below -\n\n\n  CVE-2026-105133 (CVSS v4 score: 5.5) - An improper authentication vulnerability in the checkSysPwd() function in the \"com/ahsay/obs/api/ApiStructsAction.java\"",
-    "analysis": {
-      "issue": "Attackers are exploiting two AhsayCBS flaws to deploy web shells and XMRig miners, and Huntress says version 10",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies",
-    "link": "https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html",
-    "published": "Fri, 09 Oct 2026 17:51:51 +0530",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added five security flaws to its Known Exploited Vulnerabilities (KEV) catalog, following their abuse by a China-linked threat actor known as Flax Typhoon.\n\nThe vulnerabilities in question are listed below -\n\n\n  CVE-2015-3306 (CVSS score: 10.0) - An improper access control vulnerability in ProFTPD that could allow",
-    "analysis": {
-      "issue": "CISA added five Flax Typhoon-exploited flaws to KEV, requiring federal agencies to patch affected software or stop using it by October 11, 2026",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
+        "General Security"
       ]
     }
   },
@@ -247,120 +361,6 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
-    "published": "Fri, 09 Oct 2026 16:31:37 -0400",
-    "summary": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks. [...]",
-    "analysis": {
-      "issue": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
-    "link": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/",
-    "published": "Fri, 09 Oct 2026 13:17:23 -0400",
-    "summary": "Threat actors are exploiting one critical and one medium-severity vulnerability still unpatched in the AhsayCBS backup management platform to deploy webshells and cryptocurrency miners. [...]",
-    "analysis": {
-      "issue": "Threat actors are exploiting one critical and one medium-severity vulnerability still unpatched in the AhsayCBS backup management platform to deploy webshells and cryptocurrency miners",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-105133",
-        "CVE-2026-105134"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
-    "link": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
-    "published": "Fri, 09 Oct 2026 13:02:29 -0400",
-    "summary": "The FBI has arrested another suspected member of the ShinyHunters extortion group believed to be involved in the recent breach of FBI systems, Director Kash Patel announced Friday. [...]",
-    "analysis": {
-      "issue": "The FBI has arrested another suspected member of the ShinyHunters extortion group believed to be involved in the recent breach of FBI systems, Director Kash Patel announced Friday",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Germany arrests alleged core Qilin ransomware member after extradition",
-    "link": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
-    "published": "Fri, 09 Oct 2026 11:38:56 -0400",
-    "summary": "Germany has arrested a Russian national suspected of being a leading member of the Qilin ransomware group following extradition from Japan earlier this month. [...]",
-    "analysis": {
-      "issue": "Germany has arrested a Russian national suspected of being a leading member of the Qilin ransomware group following extradition from Japan earlier this month",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "How to keep AI agents within their permissions",
-    "link": "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/",
-    "published": "Fri, 09 Oct 2026 10:01:11 -0400",
-    "summary": "AI agents can use valid credentials to perform actions beyond their assigned permissions, creating risks that traditional access controls may not prevent. Token Security explains how organizations can enforce agent-specific policies without sacrificing autonomy. [...]",
-    "analysis": {
-      "issue": "Written by: Ido Shlomo Co-Founder and CTO of Token Security AI agents should do more on their own",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Max severity SonicWall SMA1000 flaw now exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/",
-    "published": "Fri, 09 Oct 2026 08:32:16 -0400",
-    "summary": "Attackers are exploiting a maximum-severity vulnerability in SonicWall SMA1000 appliances (CVE-2026-102255) that was patched on Tuesday, three days ago. [...]",
-    "analysis": {
-      "issue": "Attackers are exploiting a maximum-severity vulnerability in SonicWall SMA1000 appliances (CVE-2026-102255) that was patched on Tuesday, three days ago",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-102255"
-      ],
       "threat_categories": [
         "Vulnerability"
       ]
@@ -555,13 +555,164 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-72971",
+        "CVE-2026-62832",
         "CVE-2026-68820",
-        "CVE-2026-62832"
+        "CVE-2026-72971"
       ],
       "threat_categories": [
         "Vulnerability",
         "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "IonQ to Acquire Zero Trust Firm Elisity for Up to $1.3 Billion",
+    "link": "https://www.securityweek.com/ionq-to-acquire-zero-trust-firm-elisity-for-up-to-1-3-billion/",
+    "published": "Mon, 12 Oct 2026 14:25:00 +0000",
+    "summary": "<p>The all-stock deal brings Elisity’s least-privilege access technology into IonQ’s security portfolio.</p>\n<p>The post <a href=\"https://www.securityweek.com/ionq-to-acquire-zero-trust-firm-elisity-for-up-to-1-3-billion/\">IonQ to Acquire Zero Trust Firm Elisity for Up to $1.3 Billion</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The all-stock deal brings Elisity’s least-privilege access technology into IonQ’s security portfolio",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Bricksforge WordPress Plugin Vulnerability Exploited in the Wild",
+    "link": "https://www.securityweek.com/bricksforge-wordpress-plugin-vulnerability-exploited-in-the-wild/",
+    "published": "Mon, 12 Oct 2026 13:14:37 +0000",
+    "summary": "<p>The vulnerability tracked as CVE-2026-85097 can allow threat actors to take control of the targeted WordPress websites.</p>\n<p>The post <a href=\"https://www.securityweek.com/bricksforge-wordpress-plugin-vulnerability-exploited-in-the-wild/\">Bricksforge WordPress Plugin Vulnerability Exploited in the Wild</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The vulnerability tracked as CVE-2026-85097 can allow threat actors to take control of the targeted WordPress websites",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-85097"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Canonical Websites Disrupted in Second DDoS Attack This Year",
+    "link": "https://www.securityweek.com/canonical-websites-disrupted-in-second-ddos-attack-this-year/",
+    "published": "Mon, 12 Oct 2026 11:58:39 +0000",
+    "summary": "<p>The outage hit the main Ubuntu and Canonical websites, including the Ubuntu blog and developer portal.</p>\n<p>The post <a href=\"https://www.securityweek.com/canonical-websites-disrupted-in-second-ddos-attack-this-year/\">Canonical Websites Disrupted in Second DDoS Attack This Year</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The outage hit the main Ubuntu and Canonical websites, including the Ubuntu blog and developer portal",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Mastermind of 15,000-Mule Cybercrime Laundering Network Pleads Guilty in US",
+    "link": "https://www.securityweek.com/mastermind-of-15000-mule-cybercrime-laundering-network-pleads-guilty-in-us/",
+    "published": "Mon, 12 Oct 2026 11:24:50 +0000",
+    "summary": "<p>Oleg Korniev was a leader of YMCO, a sophisticated network of money mules that helped hackers move funds outside the US.</p>\n<p>The post <a href=\"https://www.securityweek.com/mastermind-of-15000-mule-cybercrime-laundering-network-pleads-guilty-in-us/\">Mastermind of 15,000-Mule Cybercrime Laundering Network Pleads Guilty in US</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Oleg Korniev was a leader of YMCO, a sophisticated network of money mules that helped hackers move funds outside the US",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "iRhythm Data Breach Impacts at Least 360,000 People",
+    "link": "https://www.securityweek.com/irhythm-data-breach-impacts-over-360000-people/",
+    "published": "Mon, 12 Oct 2026 11:05:43 +0000",
+    "summary": "<p>Hackers stole patients’ personal information, including names, addresses, email addresses, dates of birth, and phone numbers.</p>\n<p>The post <a href=\"https://www.securityweek.com/irhythm-data-breach-impacts-over-360000-people/\">iRhythm Data Breach Impacts at Least 360,000 People</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Hackers stole patients’ personal information, including names, addresses, email addresses, dates of birth, and phone numbers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Ransomware Response Expert Arrested in ShinyHunters FBI Hack Probe",
+    "link": "https://www.securityweek.com/ransomware-response-expert-arrested-in-shinyhunters-fbi-hack-probe/",
+    "published": "Mon, 12 Oct 2026 10:32:05 +0000",
+    "summary": "<p>The suspect is believed to be Edward Dubrovsky, a Canadian cybersecurity executive who was visiting the United States for a conference.</p>\n<p>The post <a href=\"https://www.securityweek.com/ransomware-response-expert-arrested-in-shinyhunters-fbi-hack-probe/\">Ransomware Response Expert Arrested in ShinyHunters FBI Hack Probe</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The suspect is believed to be Edward Dubrovsky, a Canadian cybersecurity executive who was visiting the United States for a conference",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Critical SonicWall Vulnerability Exploited Days After Disclosure",
+    "link": "https://www.securityweek.com/critical-sonicwall-vulnerability-exploited-days-after-disclosure/",
+    "published": "Mon, 12 Oct 2026 08:36:01 +0000",
+    "summary": "<p>CVE-2026-102255 is a pre-authenticated SSRF flaw that could allow attackers to perform unauthorized operations.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-sonicwall-vulnerability-exploited-days-after-disclosure/\">Critical SonicWall Vulnerability Exploited Days After Disclosure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "CVE-2026-102255 is a pre-authenticated SSRF flaw that could allow attackers to perform unauthorized operations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-102255"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Let’s Encrypt Cuts Default Certificate Validity to 64 Days Ahead of 45-Day Switch",
+    "link": "https://www.securityweek.com/lets-encrypt-cuts-default-certificate-validity-to-64-days-ahead-of-45-day-switch/",
+    "published": "Mon, 12 Oct 2026 07:53:28 +0000",
+    "summary": "<p>Beginning February 2027, all newly issued certificates will have a 64-day validity period by default.</p>\n<p>The post <a href=\"https://www.securityweek.com/lets-encrypt-cuts-default-certificate-validity-to-64-days-ahead-of-45-day-switch/\">Let’s Encrypt Cuts Default Certificate Validity to 64 Days Ahead of 45-Day Switch</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Beginning February 2027, all newly issued certificates will have a 64-day validity period by default",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -598,169 +749,6 @@
       "cves": [],
       "threat_categories": [
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "In Other News: AI Used in Korean Bank Breaches, Poem-Guided Botnet, Empire Admin Gets 40 Years",
-    "link": "https://www.securityweek.com/in-other-news-ai-used-in-korean-bank-breaches-poem-guided-botnet-empire-admin-gets-40-years/",
-    "published": "Fri, 09 Oct 2026 12:03:50 +0000",
-    "summary": "<p>Noteworthy stories that might have slipped under the radar: Tensorlake npm SDK compromised, Empire Market co-founder gets 40 years, exposed NVIDIA GPU monitors leak telemetry.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-ai-used-in-korean-bank-breaches-poem-guided-botnet-empire-admin-gets-40-years/\">In Other News: AI Used in Korean Bank Breaches, Poem-Guided Botnet, Empire Admin Gets 40 Years</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Noteworthy stories that might have slipped under the radar: Tensorlake npm SDK compromised, Empire Market co-founder gets 40 years, exposed NVIDIA GPU monitors leak telemetry",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2026-47483"
-      ],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability",
-        "Malware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Google Domains Impacted by Recent ccTLD Hijacks",
-    "link": "https://www.securityweek.com/google-domains-impacted-by-recent-cctld-domain-hijacks/",
-    "published": "Fri, 09 Oct 2026 11:43:14 +0000",
-    "summary": "<p>Hackers hijacked the .gh, .sl, and .as ccTLDs and obtained HTTPS certificates for several Google domains.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-domains-impacted-by-recent-cctld-domain-hijacks/\">Google Domains Impacted by Recent ccTLD Hijacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "as ccTLDs and obtained HTTPS certificates for several Google domains",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Unpatched AhsayCBS Vulnerabilities Exploited in the Wild",
-    "link": "https://www.securityweek.com/unpatched-ahsaycbs-vulnerabilities-exploited-in-the-wild/",
-    "published": "Fri, 09 Oct 2026 10:23:42 +0000",
-    "summary": "<p>The flaws, CVE-2026-105133 and CVE-2026-105134, allow attackers to bypass authentication and inject OS commands.</p>\n<p>The post <a href=\"https://www.securityweek.com/unpatched-ahsaycbs-vulnerabilities-exploited-in-the-wild/\">Unpatched AhsayCBS Vulnerabilities Exploited in the Wild</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The flaws, CVE-2026-105133 and CVE-2026-105134, allow attackers to bypass authentication and inject OS commands",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-105133",
-        "CVE-2026-105134"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Pre-Baked Firmware Malware Hits Budget Android Devices in 150+ Countries",
-    "link": "https://www.securityweek.com/pre-baked-firmware-malware-hits-budget-android-devices-in-150-countries/",
-    "published": "Fri, 09 Oct 2026 09:55:35 +0000",
-    "summary": "<p>Midnight Mimosa is the name given to a malware campaign primarily running preinstalled on low-cost Android devices.</p>\n<p>The post <a href=\"https://www.securityweek.com/pre-baked-firmware-malware-hits-budget-android-devices-in-150-countries/\">Pre-Baked Firmware Malware Hits Budget Android Devices in 150+ Countries</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Midnight Mimosa is the name given to a malware campaign primarily running preinstalled on low-cost Android devices",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "US Disrupts Chinese State-Sponsored Hacking Tools",
-    "link": "https://www.securityweek.com/us-disrupts-chinese-state-sponsored-hacking-tools/",
-    "published": "Fri, 09 Oct 2026 08:36:37 +0000",
-    "summary": "<p>Flax Typhoon and other APTs used MicroScan and FishHub to scan and hack US and foreign critical infrastructure.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-disrupts-chinese-state-sponsored-hacking-tools/\">US Disrupts Chinese State-Sponsored Hacking Tools</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Flax Typhoon and other APTs used MicroScan and FishHub to scan and hack US and foreign critical infrastructure",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Phishing",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Anthropic Fast-Tracks AI Bug Reports to OSS Maintainers, Taps 11 Firms for OT Security",
-    "link": "https://www.securityweek.com/anthropic-fast-tracks-ai-bug-reports-to-oss-maintainers-taps-11-firms-for-ot-security/",
-    "published": "Fri, 09 Oct 2026 08:19:33 +0000",
-    "summary": "<p>OSS Scanner sends unreviewed, model-generated vulnerability reports to open source maintainers that opt in.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-fast-tracks-ai-bug-reports-to-oss-maintainers-taps-11-firms-for-ot-security/\">Anthropic Fast-Tracks AI Bug Reports to OSS Maintainers, Taps 11 Firms for OT Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "OSS Scanner sends unreviewed, model-generated vulnerability reports to open source maintainers that opt in",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Citrix Urges Immediate Patching of Critical NetScaler Vulnerability",
-    "link": "https://www.securityweek.com/citrix-urges-immediate-patching-of-critical-netscaler-vulnerability/",
-    "published": "Fri, 09 Oct 2026 06:53:53 +0000",
-    "summary": "<p>The security defect, tracked as CVE-2026-107406, could lead to remote code execution or denial-of-service.</p>\n<p>The post <a href=\"https://www.securityweek.com/citrix-urges-immediate-patching-of-critical-netscaler-vulnerability/\">Citrix Urges Immediate Patching of Critical NetScaler Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The security defect, tracked as CVE-2026-107406, could lead to remote code execution or denial-of-service",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-88772",
-        "CVE-2026-88771",
-        "CVE-2026-107406",
-        "CVE-2026-88779"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Google Pixel 10 Exploits Earned Hackers $560,000 at Pwn2Own",
-    "link": "https://www.securityweek.com/google-pixel-10-exploits-earned-hackers-560000-at-pwn2own/",
-    "published": "Fri, 09 Oct 2026 06:39:55 +0000",
-    "summary": "<p>$1.2 million was paid out at Pwn2Own Ireland 2026 for exploits targeting phones, printers, smart speakers, smart home hubs, and AI infrastructure and coding tools.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-pixel-10-exploits-earned-hackers-560000-at-pwn2own/\">Google Pixel 10 Exploits Earned Hackers $560,000 at Pwn2Own</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "2 million was paid out at Pwn2Own Ireland 2026 for exploits targeting phones, printers, smart speakers, smart home hubs, and AI infrastructure and coding tools",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -837,8 +825,8 @@
       "cves": [
         "CVE-2026-48388",
         "CVE-2026-57256",
-        "CVE-2026-91799",
-        "CVE-2026-50475"
+        "CVE-2026-50475",
+        "CVE-2026-91799"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1338,6 +1326,60 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "How “123456” became the key to almost 9 million personal records",
+    "link": "https://www.malwarebytes.com/blog/news/2026/10/how-123456-became-the-key-to-almost-9-million-personal-records",
+    "published": "Mon, 12 Oct 2026 12:34:10 GMT",
+    "summary": "A series of security failures, including a very weak password, exposed almost 9 million people’s personal information.",
+    "analysis": {
+      "issue": "An attacker reportedly used a leaked password to abuse a company’s legitimate access to Denmark’s population register (CPR)",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Phishing emails are baiting your AI assistant",
+    "link": "https://www.malwarebytes.com/blog/ai/2026/10/phishing-emails-are-baiting-your-ai-assistant",
+    "published": "Mon, 12 Oct 2026 10:54:40 GMT",
+    "summary": "If you use an AI assistant to summarize your inbox, hidden instructions could turn a phishing email you wisely ignored into your next to-do item.",
+    "analysis": {
+      "issue": "You ignored the suspicious email",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "A week in security (October 5 – October 11)",
+    "link": "https://www.malwarebytes.com/blog/news/2026/10/a-week-in-security-october-5-october-11",
+    "published": "Mon, 12 Oct 2026 07:01:00 GMT",
+    "summary": "A list of topics we covered in the week of October 5 to October 11 of 2026",
+    "analysis": {
+      "issue": "Last week on Malwarebytes Labs: Stay safe",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "ASOS breach update: Hackers stole customer details and shopping searches",
     "link": "https://www.malwarebytes.com/blog/data-breaches/2026/10/asos-breach-update-hackers-stole-customer-details-and-shopping-searches",
     "published": "Fri, 09 Oct 2026 10:56:41 GMT",
@@ -1460,61 +1502,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Another ShinyHunters suspect arrested",
-    "link": "https://www.malwarebytes.com/blog/news/2026/10/another-shinyhunters-suspect-arrested",
-    "published": "Wed, 07 Oct 2026 10:03:06 GMT",
-    "summary": "The net is tightening around the Shiny Hunters cybercrime group following the reported arrest of a second member.",
-    "analysis": {
-      "issue": "The net is tightening around the Shiny Hunters cybercrime group following the reported arrest of a second member",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "ASOS “hackers” send push notifications to customers",
-    "link": "https://www.malwarebytes.com/blog/news/2026/10/asos-hackers-send-push-notifications-to-customers",
-    "published": "Tue, 06 Oct 2026 14:11:11 GMT",
-    "summary": "ASOS customers received a push notification regarding a breach of the company. Here's what we know so far.",
-    "analysis": {
-      "issue": "Thousands of global fashion retailer ASOS customers have received a push notification through the ASOS app this morning alleging that the company has been hacked",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Facebook Marketplace scam uses your name and number",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/10/facebook-marketplace-phish-uses-your-name-and-number",
-    "published": "Tue, 06 Oct 2026 12:11:06 GMT",
-    "summary": "Facebook users are reporting receiving a message with a fake Facebook Marketplace listing that has their name as the seller.",
-    "analysis": {
-      "issue": "Facebook users are reporting receiving a message with a fake Facebook Marketplace listing that has their name as the seller",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
       ]
     }
   },
