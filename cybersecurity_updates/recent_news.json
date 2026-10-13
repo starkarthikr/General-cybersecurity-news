@@ -181,6 +181,60 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Anthropic warns self-replicating AI could spread to your smart devices",
+    "link": "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/",
+    "published": "Tue, 13 Oct 2026 17:16:34 -0400",
+    "summary": "Anthropic is warning that small AI models could soon be able to self-replicate across consumer IoT devices, from Android TV boxes to smart ovens, creating distributed botnets capable of running AI workloads without relying on data centers. [...]",
+    "analysis": {
+      "issue": "Anthropic is warning that small AI models could soon be able to self-replicate across consumer IoT devices, from Android TV boxes to smart ovens, creating distributed botnets capable of running AI workloads without relying on data centers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/",
+    "published": "Tue, 13 Oct 2026 15:56:09 -0400",
+    "summary": "Today is Microsoft's October 2026 Patch Tuesday, with security updates addressing a record-breaking 1,411 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
+    "analysis": {
+      "issue": "Today is Microsoft's October 2026 Patch Tuesday, with security updates addressing a record-breaking 1,411 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft releases Windows 10 KB5126657 extended security update",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5126657-extended-security-update/",
+    "published": "Tue, 13 Oct 2026 15:47:30 -0400",
+    "summary": "Microsoft released the Windows 10 KB5126657 extended security update, which includes this month's record-breaking October 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
+    "analysis": {
+      "issue": "Microsoft released the Windows 10 KB5126657 extended security update, which includes this month's record-breaking October 2026 Patch Tuesday fixes and a few bug fixes and changes",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Microsoft: Windows 11 24H2 Home and Pro reached end of support",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-home-and-pro-reached-end-of-support/",
     "published": "Tue, 13 Oct 2026 15:04:38 -0400",
@@ -311,63 +365,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "SAP warns of maximum severity OAuth2 SSRF security flaw",
-    "link": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-oauth2-ssrf-security-flaw/",
-    "published": "Tue, 13 Oct 2026 09:51:02 -0400",
-    "summary": "SAP has addressed 20 security flaws across multiple products in its October 2026 security updates, including a maximum-severity vulnerability in the Cloud SDK for Python. [...]",
-    "analysis": {
-      "issue": "SAP has addressed 20 security flaws across multiple products in its October 2026 security updates, including a maximum-severity vulnerability in the Cloud SDK for Python",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-89110",
-        "CVE-2026-89111"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Norway fines Microsoft ad firm $9.6 million over Grindr data sharing",
-    "link": "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/",
-    "published": "Mon, 12 Oct 2026 16:13:52 -0400",
-    "summary": "Norway's Data Protection Authority (Datatilsynet) has fined Microsoft-owned advertising company Xandr NOK 92 million ($9.6M) for unlawfully processing and sharing sensitive data belonging to Grindr users in the country. [...]",
-    "analysis": {
-      "issue": "Norway’s Data Protection Authority (Datatilsynet) has fined Xandr, a Microsoft-owned advertising company, $9",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Yandex confirms service outage as users lose access to cloud files",
-    "link": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
-    "published": "Mon, 12 Oct 2026 15:23:01 -0400",
-    "summary": "Russian cloud services provider Yandex announced that drone attacks damaged three of its data centers, forcing it to shut down two facilities and partially disable a third. [...]",
-    "analysis": {
-      "issue": "Russian cloud services provider Yandex announced that drone attacks damaged three of its data centers, forcing it to shut down two facilities and partially disable a third",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
     "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
@@ -477,8 +474,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-81963",
-        "CVE-2026-85880",
         "CVE-2026-69730",
+        "CVE-2026-85880",
         "CVE-2026-69829"
       ],
       "threat_categories": [
@@ -556,13 +553,35 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-62832",
+        "CVE-2026-72971",
         "CVE-2026-68820",
-        "CVE-2026-72971"
+        "CVE-2026-62832"
       ],
       "threat_categories": [
         "Vulnerability",
         "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Talos Blog",
+    "title": "Microsoft Patch Tuesday for October 2026 — Snort rules and prominent vulnerabilities",
+    "link": "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-october-2026/",
+    "published": "Tue, 13 Oct 2026 20:37:58 GMT",
+    "summary": "Blog post covering the vulnerabilities disclosed during Microsoft Patch Tuesday.",
+    "analysis": {
+      "issue": "Microsoft has released its monthly security update for October 2026, which includes 1415 vulnerabilities affecting a range of products, including 85 that Microsoft marked as \"critical",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-70571",
+        "CVE-2026-96951",
+        "CVE-2026-70229"
+      ],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -638,8 +657,8 @@
       "severity": "Low",
       "cves": [
         "CVE-2026-50475",
-        "CVE-2026-91799",
         "CVE-2026-48388",
+        "CVE-2026-91799",
         "CVE-2026-57256"
       ],
       "threat_categories": [
@@ -744,21 +763,38 @@
     }
   },
   {
-    "source": "Talos Blog",
-    "title": "Trust and the enticing consultancy offer",
-    "link": "https://blog.talosintelligence.com/trust-and-the-enticing-consultancy-offer/",
-    "published": "Thu, 24 Sep 2026 18:00:37 GMT",
-    "summary": "In this week’s newsletter Martin muses over a very suspicious elicitation over social media and the true value of trust within the cyber ecosystem. Hubris might be the real vulnerability that the cyber industry must worry about.",
+    "source": "Recorded Future",
+    "title": "September 2026 CVE Landscape",
+    "link": "https://www.recordedfuture.com/blog/september-2026-cve-landscape",
+    "published": "Tue, 13 Oct 2026 00:00:00 GMT",
+    "summary": "In September 2026, Insikt Group® identified 94 high-impact vulnerabilities that should be prioritized for remediation, 59 of which had a Very Critical Recorded Future Risk Score. This represents a 29% increase from last month.",
     "analysis": {
-      "issue": "Welcome to this week’s edition of the Threat Source newsletter",
+      "issue": "In September 2026, Insikt Group® identified 94 high-impact vulnerabilities that should be prioritized for remediation, 59 of which had a Very Critical Recorded Future Risk Score",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "High",
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "Malware",
-        "Phishing"
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "Malware Indicators of Compromise (IoCs) | Recorded Future",
+    "link": "https://www.recordedfuture.com/blog/malware-indicators-of-compromise",
+    "published": "Tue, 13 Oct 2026 00:00:00 GMT",
+    "summary": "Learn what malware indicators of compromise (IoCs) are, common types, how they’re collected, and best practices for detection and response.",
+    "analysis": {
+      "issue": "Learn what malware indicators of compromise (IoCs) are, common types, how they’re collected, and best practices for detection and response",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
       ]
     }
   },
@@ -903,42 +939,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Agent Running in the Age of AI",
-    "link": "https://www.recordedfuture.com/blog/agent-running-ai",
-    "published": "Tue, 22 Sep 2026 00:00:00 GMT",
-    "summary": "In the age of AI, the new customer of intelligence is an agent. Every agent needs an intelligence layer it can trust to make good decisions and take confident action.",
-    "analysis": {
-      "issue": "In the age of AI, the new customer of intelligence is an agent",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Our View on What It Takes To Be Named an Industry-Recognized Threat Intelligence Leader",
-    "link": "https://www.recordedfuture.com/blog/forrester-wave-external-threat-intelligence-2026",
-    "published": "Thu, 17 Sep 2026 00:00:00 GMT",
-    "summary": "A behind-the-scenes look at how Recorded Future earned its spot as a threat intelligence leader in the latest Forrester Wave.",
-    "analysis": {
-      "issue": "A behind-the-scenes look at how Recorded Future earned its spot as a threat intelligence leader in the latest Forrester Wave",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -1320,6 +1320,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance",
+    "link": "https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/",
+    "published": "Oct 13, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "CrowdStrike collaborated with the FBI to disrupt several laptop farms that were operated by DPRK-nexus adversary FAMOUS CHOLLIMA to fraudulently employ operatives at American companies",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "Solving the Continuous Authorization Conundrum",
     "link": "https://www.crowdstrike.com/en-us/blog/solving-the-continuous-authorization-conundrum/",
     "published": "Oct 08, 2026 00:00:00-0500",
@@ -1470,24 +1488,6 @@
     "summary": "",
     "analysis": {
       "issue": "ClickFix attacks trick users into executing malicious commands themselves",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "A Win for Defenders: CrowdStrike and NVIDIA Extend Security Across the AI Stack",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-extend-security-across-ai-stack/",
-    "published": "Sep 28, 2026 00:00:00-0400",
-    "summary": "",
-    "analysis": {
-      "issue": "CrowdStrike and NVIDIA are collaborating on the NVIDIA Open Agent Safety Platform, an open reference design to extend security deeper into the agentic stack and establish stronger boundaries for autonomous AI",
       "solution": null,
       "cause": null,
       "timeline": null,
