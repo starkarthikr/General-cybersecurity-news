@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-13 06:20:47 UTC
+**Last Updated:** 2026-10-13 06:58:52 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More](https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html)
+### 1. [Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies](https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 13 Oct 2026 11:30:11 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 2. [⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More](https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 12 Oct 2026 20:46:26 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Bring Your Own Agent: Your Employees' Assistants Are Already Logged In](https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html)
+### 3. [Bring Your Own Agent: Your Employees' Assistants Are Already Logged In](https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 12 Oct 2026 17:25:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports](https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html)
+### 4. [Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports](https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 12 Oct 2026 16:51:48 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch](https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html)
+### 5. [Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch](https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 12 Oct 2026 16:06:56 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE](https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html)
+### 6. [Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE](https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 12 Oct 2026 14:32:14 +0530  
@@ -50,7 +59,7 @@
 
 ---
 
-### 6. [CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records](https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html)
+### 7. [CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records](https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 12 Oct 2026 12:56:12 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands](https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html)
+### 8. [P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands](https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 11 Oct 2026 09:54:34 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't](https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html)
+### 9. [The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't](https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 10 Oct 2026 16:30:00 +0530  
@@ -77,21 +86,12 @@
 
 ---
 
-### 9. [Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws](https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html)
+### 10. [Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws](https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 10 Oct 2026 14:48:45 +0530  
 **Severity:** Low  
 **Categories:** Vulnerability  
-
----
-
-### 10. [Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories](https://thehackernews.com/2026/10/credential-stealing-github-actions.html)
-
-**Source:** The Hacker News  
-**Published:** Sat, 10 Oct 2026 00:44:28 +0530  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -237,7 +237,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69829, CVE-2026-69730, CVE-2026-85880, CVE-2026-81963  
+**CVEs:** CVE-2026-69730, CVE-2026-69829, CVE-2026-81963, CVE-2026-85880  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -274,7 +274,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 11 Aug 2026 21:28:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-68820, CVE-2026-72971, CVE-2026-62832  
+**CVEs:** CVE-2026-62832, CVE-2026-68820, CVE-2026-72971  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -403,7 +403,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 07 Oct 2026 19:27:08 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-91799, CVE-2026-50475, CVE-2026-48388, CVE-2026-57256  
+**CVEs:** CVE-2026-91799, CVE-2026-57256, CVE-2026-48388, CVE-2026-50475  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

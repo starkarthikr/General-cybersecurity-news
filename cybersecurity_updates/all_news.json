@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies",
+    "link": "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html",
+    "published": "Tue, 13 Oct 2026 11:30:11 +0530",
+    "summary": "Low-cost Android smartphones have been shipped with malicious software baked into the device firmware, allowing bad actors to covertly install apps, conduct ad fraud, and turn devices into residential proxies.\n\nThe activity, which targets Android devices built on MediaTek platforms across several brands, is being tracked by Bitdefender under the moniker Midnight Mimosa.\n\nThe preinstalled",
+    "analysis": {
+      "issue": "Midnight Mimosa ships in some low-cost Android firmware, silently installs apps, and uses payloads for ad fraud and residential proxies",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
     "link": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
     "published": "Mon, 12 Oct 2026 20:46:26 +0530",
@@ -161,24 +179,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
-    "link": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
-    "published": "Sat, 10 Oct 2026 00:44:28 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts to push a malicious workflow into over 340 repositories.\n\n\"Using the account of Takashi Kitao, author of the 18,400-star game engine pyxel, the attacker pushed a malicious workflow to 27 repositories starting at 13:20 UTC,\" StepSecurity",
-    "analysis": {
-      "issue": "More than 500 GitHub accounts committed credential-stealing workflows to tens of thousands of repositories since October 7, Socket says",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -474,10 +474,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69829",
         "CVE-2026-69730",
-        "CVE-2026-85880",
-        "CVE-2026-81963"
+        "CVE-2026-69829",
+        "CVE-2026-81963",
+        "CVE-2026-85880"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -554,9 +554,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-62832",
         "CVE-2026-68820",
-        "CVE-2026-72971",
-        "CVE-2026-62832"
+        "CVE-2026-72971"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -823,9 +823,9 @@
       "severity": "Low",
       "cves": [
         "CVE-2026-91799",
-        "CVE-2026-50475",
+        "CVE-2026-57256",
         "CVE-2026-48388",
-        "CVE-2026-57256"
+        "CVE-2026-50475"
       ],
       "threat_categories": [
         "Vulnerability",
