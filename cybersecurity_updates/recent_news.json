@@ -1,6 +1,96 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
+    "link": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
+    "published": "Tue, 13 Oct 2026 23:50:57 +0530",
+    "summary": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from Anthropic.\n\nThe frontier AI lab said small AI models could form autonomous, self-propagating worm botnets that are \"challenging to shut down,\" since \"there's no centralized point to shut off.\"",
+    "analysis": {
+      "issue": "Anthropic warns small AI models could form IoT botnets; GLM-5",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
+    "link": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
+    "published": "Tue, 13 Oct 2026 23:33:18 +0530",
+    "summary": "A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it found no evidence that anyone exploited it.\n\nThe flaw was in the feature that&nbsp;converts a personal account&nbsp;into an organization, Docker said in a&nbsp;security advisory&nbsp;on October 12.",
+    "analysis": {
+      "issue": "Docker fixed a critical Hub account conversion flaw that let transferred tokens push images as other users; it found no evidence of exploitation",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
+    "link": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
+    "published": "Tue, 13 Oct 2026 23:03:11 +0530",
+    "summary": "An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm&nbsp;Volexity said&nbsp;on October 13. Ivanti has released fixes for two of the flaws and told customers on affected versions to \"act immediately.\" A fix for the third is still pending, according to Volexity.\n\nVolexity, which reported the flaws to Ivanti,",
+    "analysis": {
+      "issue": "An attacker exploited three Ivanti Connect Secure zero-days to run commands as root and steal stored credentials from one appliance",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft",
+    "link": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
+    "published": "Tue, 13 Oct 2026 22:58:50 +0530",
+    "summary": "A flaw in SAP's&nbsp;Cloud SDK for Python&nbsp;can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a&nbsp;security advisory&nbsp;on October 13. The flaw affects multi-tenant applications on SAP Business Technology Platform (BTP) that use the SDK, SAP's official Python client for BTP services. An attacker must be able to control the tenant subdomain,",
+    "analysis": {
+      "issue": "Six SAP Cloud SDK for Python releases skip tenant checks in Destination calls, enabling OAuth2 client secret leaks if attackers control tenant names",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
+    "link": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
+    "published": "Tue, 13 Oct 2026 21:48:18 +0530",
+    "summary": "GitHub has taken the step of expiring unvalidated npm trusted publishing configurations 48 hours after creation after researchers found that it was possible for an attacker to push new versions of a different user's package without having to steal their credentials.\n\n\"Your configuration becomes validated and exempt from expiry after its first successful publish,\" the Microsoft-owned subsidiary",
+    "analysis": {
+      "issue": "GitHub now expires unvalidated npm trusted publisher bindings after 48 hours to limit package hijacks through reclaimed repository names",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Xandr Fined a Record €8.6 Million for Relaying Grindr Data Revealing Sexual Orientation",
     "link": "https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html",
     "published": "Tue, 13 Oct 2026 18:42:32 +0530",
@@ -90,13 +180,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control",
-    "link": "https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html",
-    "published": "Tue, 13 Oct 2026 14:14:01 +0530",
-    "summary": "Two of 31 newly disclosed flaws in Progress Software's&nbsp;MarkLogic Server&nbsp;database could let an account given only some management privileges take administrator control of the server, the company says.\n\nProgress published all 31 on October 12 and scored five of them critical. Fixes have been available since September 10, in&nbsp;MarkLogic 11.3.7&nbsp;and&nbsp;MarkLogic 12.1.0.\n\nAffected",
+    "source": "Bleeping Computer",
+    "title": "Microsoft: Windows 11 24H2 Home and Pro reached end of support",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-home-and-pro-reached-end-of-support/",
+    "published": "Tue, 13 Oct 2026 15:04:38 -0400",
+    "summary": "Microsoft announced today that devices running Windows 11 24H2 Home and Pro editions have reached the end of support and will no longer receive monthly security and non-security preview updates. [...]",
     "analysis": {
-      "issue": "Progress fixed 31 MarkLogic Server flaws in 11",
+      "issue": "Microsoft announced today that devices running Windows 11 24H2 Home and Pro editions have reached the end of support and will no longer receive monthly security and non-security preview updates",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -108,70 +198,49 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "GitLab Patches CVSS 10.0 Flaw That Could Let Unauthenticated Users Run Server Code",
-    "link": "https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html",
-    "published": "Tue, 13 Oct 2026 14:13:37 +0530",
-    "summary": "GitLab has released patches for a maximum-severity security flaw impacting its Community Edition (CE) and Enterprise Edition (EE) software that could result in arbitrary code execution.\n\n\"GitLab has remediated an issue that, under certain conditions, could have allowed an unauthenticated user to execute arbitrary code on the GitLab server via a specially crafted regular expression in a CI/CD",
+    "source": "Bleeping Computer",
+    "title": "UK Housing Ombudsman Service investigates 'security incident'",
+    "link": "https://www.bleepingcomputer.com/news/security/uk-housing-ombudsman-service-investigates-security-incident/",
+    "published": "Tue, 13 Oct 2026 14:19:44 -0400",
+    "summary": "The U.K. Housing Ombudsman Service is investigating a third-party IT security incident that impacted its case management system on Tuesday. [...]",
     "analysis": {
-      "issue": "GitLab fixed CVE-2026-97229 (CVSS 10",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-97229"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies",
-    "link": "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html",
-    "published": "Tue, 13 Oct 2026 11:30:11 +0530",
-    "summary": "Low-cost Android smartphones have been shipped with malicious software baked into the device firmware, allowing bad actors to covertly install apps, conduct ad fraud, and turn devices into residential proxies.\n\nThe activity, which targets Android devices built on MediaTek platforms across several brands, is being tracked by Bitdefender under the moniker Midnight Mimosa.\n\nThe preinstalled",
-    "analysis": {
-      "issue": "Midnight Mimosa ships in some low-cost Android firmware, silently installs apps, and uses payloads for ad fraud and residential proxies",
+      "issue": "Housing Ombudsman Service is investigating a third-party IT security incident that impacted its case management system on Tuesday",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "Supply Chain"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
-    "link": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
-    "published": "Mon, 12 Oct 2026 20:46:26 +0530",
-    "summary": "Some meetings last longer than it took attackers to jump on a newly disclosed security flaw this week. Within hours, they were already testing it. That's not much time to read the warning, let alone do something about it.\n\nBut speed is only part of the problem. A secure connection didn't always mean a safe destination. People offering to fix a ransomware mess had questions to answer themselves.",
+    "source": "Bleeping Computer",
+    "title": "Windows 11 KB5127648 & KB5126653 cumulative updates released",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127648-and-kb5126653-cumulative-updates-released/",
+    "published": "Tue, 13 Oct 2026 13:49:38 -0400",
+    "summary": "Microsoft has released the Patch Tuesday Windows 11 KB5127648 and KB5126653 cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]",
     "analysis": {
-      "issue": "This week's cybersecurity recap covers helpdesk zero-days, rogue HTTPS certificates, a ShinyHunters arrest, AI-fooling malware, and more major threats",
+      "issue": "Microsoft has released the Patch Tuesday Windows 11 KB5127648 and KB5126653 cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Critical",
+      "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability",
-        "Malware"
+        "General Security"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In",
-    "link": "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html",
-    "published": "Mon, 12 Oct 2026 17:25:00 +0530",
-    "summary": "The personal AI agents rollout is going about as smoothly as expected: Amazon now blocks Meta's Muse because it doesn't identify itself as a bot while browsing; Instinct keeps raising privacy concerns; and the horror stories from pretty much every personal AI agent keep piling up.\n\nRegardless, the tech world is mesmerized by the capabilities and potential of these services. Less than a year",
+    "source": "Bleeping Computer",
+    "title": "TFG London cyberattack disrupts systems at Hobbs and Whistles retailers",
+    "link": "https://www.bleepingcomputer.com/news/security/tfg-london-cyberattack-disrupts-systems-at-hobbs-and-whistles-retailers/",
+    "published": "Tue, 13 Oct 2026 12:44:18 -0400",
+    "summary": "TFG London detected a cybersecurity incident that impacted IT systems used by the Phase Eight, Hobbs, and Whistles premium fashion brands. [...]",
     "analysis": {
-      "issue": "Personal AI agents can access work apps through OAuth grants, passwords, and API keys, while remaining outside managed agent consoles",
+      "issue": "TFG London detected a cybersecurity incident that impacted IT systems used by the Phase Eight, Hobbs, and Whistles premium fashion brands",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -254,8 +323,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-89111",
-        "CVE-2026-89110"
+        "CVE-2026-89110",
+        "CVE-2026-89111"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -295,78 +364,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Anthropic takes risky AI tests offline after models breach govt sites",
-    "link": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
-    "published": "Mon, 12 Oct 2026 14:51:59 -0400",
-    "summary": "Anthropic announced that its internal AI models undergoing \"high-risk and cybersecurity evaluations\" no longer have internet access following incidents involving U.S. government websites at the federal, state, and local levels. [...]",
-    "analysis": {
-      "issue": "Anthropic announced that its internal AI models under “high-risk and cybersecurity evaluations” no longer have internet access following incidents involving U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-    "link": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-    "published": "Mon, 12 Oct 2026 12:27:23 -0400",
-    "summary": "Ledger has confirmed that some of its devices distributed through Southeast Asian reseller CryptoBilis were compromised with a hardware implant that drained users' cryptocurrency wallets. [...]",
-    "analysis": {
-      "issue": "Ledger has confirmed that some of its devices distributed through Southeast Asian reseller CryptoBilis were compromised with a hardware implant that drained users' cryptocurrency wallets",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Cyberattack shuts down refrigerators at French supermarkets",
-    "link": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
-    "published": "Mon, 12 Oct 2026 11:23:34 -0400",
-    "summary": "Attackers remotely defrosted refrigerators at multiple French supermarket chains overnight in a cyberattack that reportedly targeted Danfoss refrigeration controllers. [...]",
-    "analysis": {
-      "issue": "Attackers remotely defrosted refrigerators at multiple French supermarket chains overnight in a cyberattack that reportedly targeted Danfoss refrigeration controllers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption",
-    "link": "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/",
-    "published": "Mon, 12 Oct 2026 10:00:10 -0400",
-    "summary": "A new Windows malware loader called AvisLoader uses encrypted peer-to-peer communications to make command-and-control infrastructure harder to disrupt. Varonis researchers explain how the malware uses ClickFix delivery, shortcut-based persistence, and remote command execution capabilities. [...]",
-    "analysis": {
-      "issue": "Varonis Threat Labs recently discovered AvisLoader, a new Windows loader named after the Latin word for bird",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
@@ -479,10 +476,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69730",
+        "CVE-2026-81963",
         "CVE-2026-85880",
-        "CVE-2026-69829",
-        "CVE-2026-81963"
+        "CVE-2026-69730",
+        "CVE-2026-69829"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -570,198 +567,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Meta Says Hackers Took Code, Personal Data of 1,500 in GitHub Breach",
-    "link": "https://www.securityweek.com/meta-says-hackers-took-code-personal-data-of-1500-in-github-breach/",
-    "published": "Tue, 13 Oct 2026 16:01:00 +0000",
-    "summary": "<p>Most of the affected individuals are Meta employees in the United States and they are being offered credit monitoring services.</p>\n<p>The post <a href=\"https://www.securityweek.com/meta-says-hackers-took-code-personal-data-of-1500-in-github-breach/\">Meta Says Hackers Took Code, Personal Data of 1,500 in GitHub Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Most of the affected individuals are Meta employees in the United States and they are being offered credit monitoring services",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Small AI Models Could Soon Self-Replicate on IoT Devices, Anthropic Warns",
-    "link": "https://www.securityweek.com/small-ai-models-may-soon-be-able-to-self-replicate-on-iot-devices-anthropic-warns/",
-    "published": "Tue, 13 Oct 2026 11:58:29 +0000",
-    "summary": "<p>Experiments show cheap TV boxes can run capable AI models, and small models may soon be able to spread across such devices on their own.</p>\n<p>The post <a href=\"https://www.securityweek.com/small-ai-models-may-soon-be-able-to-self-replicate-on-iot-devices-anthropic-warns/\">Small AI Models Could Soon Self-Replicate on IoT Devices, Anthropic Warns</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Experiments show cheap TV boxes can run capable AI models, and small models may soon be able to spread across such devices on their own",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "XWorm RAT Evolves Into Surveillance Platform",
-    "link": "https://www.securityweek.com/xworm-rat-evolves-into-surveillance-platform/",
-    "published": "Tue, 13 Oct 2026 11:13:10 +0000",
-    "summary": "<p>Expanded plugin count allows the malware to monitor users’ location, stream live audio, and interact with authenticated browser sessions.</p>\n<p>The post <a href=\"https://www.securityweek.com/xworm-rat-evolves-into-surveillance-platform/\">XWorm RAT Evolves Into Surveillance Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Expanded plugin count allows the malware to monitor users’ location, stream live audio, and interact with authenticated browser sessions",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability",
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "AI Turns Familiar Cyberattacks Into a Race Against Time",
-    "link": "https://www.securityweek.com/ai-turns-familiar-cyberattacks-into-a-race-against-time/",
-    "published": "Tue, 13 Oct 2026 11:00:00 +0000",
-    "summary": "<p>IBM’s Steve Wallin talks to SecurityWeek on the effect of AI-driven attacks on enterprise defenses.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-turns-familiar-cyberattacks-into-a-race-against-time/\">AI Turns Familiar Cyberattacks Into a Race Against Time</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "IBM’s Steve Wallin talks to SecurityWeek on the effect of AI-driven attacks on enterprise defenses",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "$86 Million Crypto Heist Linked to Ledger Signer Hardware Implant",
-    "link": "https://www.securityweek.com/86-million-crypto-heist-linked-to-ledger-signer-hardware-implant/",
-    "published": "Tue, 13 Oct 2026 10:36:05 +0000",
-    "summary": "<p>A small circuit board hidden under the signers’ screens read user data and transmitted it to the attackers.</p>\n<p>The post <a href=\"https://www.securityweek.com/86-million-crypto-heist-linked-to-ledger-signer-hardware-implant/\">$86 Million Crypto Heist Linked to Ledger Signer Hardware Implant</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "A small circuit board hidden under the signers’ screens read user data and transmitted it to the attackers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Cyberattack Prompts Grocery Giant Ahold Delhaize to Disconnect Systems",
-    "link": "https://www.securityweek.com/cyberattack-prompts-ahold-delhaize-to-disconnect-systems/",
-    "published": "Tue, 13 Oct 2026 09:37:12 +0000",
-    "summary": "<p>The company says it took some of its systems offline to contain a security issue within its network.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyberattack-prompts-ahold-delhaize-to-disconnect-systems/\">Cyberattack Prompts Grocery Giant Ahold Delhaize to Disconnect Systems</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The company says it took some of its systems offline to contain a security issue within its network",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Refrigeration Controller Hack Spoils Food Across European Supermarkets",
-    "link": "https://www.securityweek.com/refrigeration-controller-hack-spoils-food-across-european-supermarkets/",
-    "published": "Tue, 13 Oct 2026 08:28:51 +0000",
-    "summary": "<p>A cyberattack targeted refrigeration controllers, setting refrigerators and freezers across hundreds of supermarkets to defrost.</p>\n<p>The post <a href=\"https://www.securityweek.com/refrigeration-controller-hack-spoils-food-across-european-supermarkets/\">Refrigeration Controller Hack Spoils Food Across European Supermarkets</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "A cyberattack targeted refrigeration controllers, setting refrigerators and freezers across hundreds of supermarkets to defrost",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability",
-        "DDoS"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "IonQ to Acquire Zero Trust Firm Elisity for Up to $1.3 Billion",
-    "link": "https://www.securityweek.com/ionq-to-acquire-zero-trust-firm-elisity-for-up-to-1-3-billion/",
-    "published": "Mon, 12 Oct 2026 14:25:00 +0000",
-    "summary": "<p>The all-stock deal brings Elisity’s least-privilege access technology into IonQ’s security portfolio.</p>\n<p>The post <a href=\"https://www.securityweek.com/ionq-to-acquire-zero-trust-firm-elisity-for-up-to-1-3-billion/\">IonQ to Acquire Zero Trust Firm Elisity for Up to $1.3 Billion</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The all-stock deal brings Elisity’s least-privilege access technology into IonQ’s security portfolio",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Bricksforge WordPress Plugin Vulnerability Exploited in the Wild",
-    "link": "https://www.securityweek.com/bricksforge-wordpress-plugin-vulnerability-exploited-in-the-wild/",
-    "published": "Mon, 12 Oct 2026 13:14:37 +0000",
-    "summary": "<p>The vulnerability tracked as CVE-2026-85097 can allow threat actors to take control of the targeted WordPress websites.</p>\n<p>The post <a href=\"https://www.securityweek.com/bricksforge-wordpress-plugin-vulnerability-exploited-in-the-wild/\">Bricksforge WordPress Plugin Vulnerability Exploited in the Wild</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The vulnerability tracked as CVE-2026-85097 can allow threat actors to take control of the targeted WordPress websites",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-85097"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Canonical Websites Disrupted in Second DDoS Attack This Year",
-    "link": "https://www.securityweek.com/canonical-websites-disrupted-in-second-ddos-attack-this-year/",
-    "published": "Mon, 12 Oct 2026 11:58:39 +0000",
-    "summary": "<p>The outage hit the main Ubuntu and Canonical websites, including the Ubuntu blog and developer portal.</p>\n<p>The post <a href=\"https://www.securityweek.com/canonical-websites-disrupted-in-second-ddos-attack-this-year/\">Canonical Websites Disrupted in Second DDoS Attack This Year</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The outage hit the main Ubuntu and Canonical websites, including the Ubuntu blog and developer portal",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "DDoS"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Making sure the checks get printed",
     "link": "https://blog.talosintelligence.com/making-sure-the-checks-get-printed/",
@@ -832,10 +637,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-91799",
         "CVE-2026-50475",
-        "CVE-2026-57256",
-        "CVE-2026-48388"
+        "CVE-2026-91799",
+        "CVE-2026-48388",
+        "CVE-2026-57256"
       ],
       "threat_categories": [
         "Vulnerability",
