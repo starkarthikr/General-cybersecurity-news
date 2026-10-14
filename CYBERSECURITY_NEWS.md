@@ -1,10 +1,37 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-14 16:55:10 UTC
+**Last Updated:** 2026-10-14 20:17:34 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud](https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html)
+### 1. [Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability](https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 15 Oct 2026 00:08:56 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App](https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 14 Oct 2026 23:08:31 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 3. [Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages](https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 14 Oct 2026 22:39:15 +0530  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 4. [U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud](https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 14 Oct 2026 22:04:31 +0530  
@@ -13,7 +40,7 @@
 
 ---
 
-### 2. [CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts](https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html)
+### 5. [CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts](https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 14 Oct 2026 18:00:42 +0530  
@@ -22,7 +49,7 @@
 
 ---
 
-### 3. [curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution](https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html)
+### 6. [curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution](https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 14 Oct 2026 17:43:36 +0530  
@@ -31,7 +58,7 @@
 
 ---
 
-### 4. [How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team](https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html)
+### 7. [How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team](https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 14 Oct 2026 17:20:00 +0530  
@@ -40,7 +67,7 @@
 
 ---
 
-### 5. [Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days](https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html)
+### 8. [Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days](https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 14 Oct 2026 16:49:02 +0530  
@@ -49,7 +76,7 @@
 
 ---
 
-### 6. [Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks](https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html)
+### 9. [Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks](https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 14 Oct 2026 16:38:22 +0530  
@@ -58,7 +85,7 @@
 
 ---
 
-### 7. [An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part.](https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html)
+### 10. [An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part.](https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 14 Oct 2026 16:30:00 +0530  
@@ -67,34 +94,35 @@
 
 ---
 
-### 8. [AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host](https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html)
+### 11. [FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested](https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 14 Oct 2026 13:16:57 +0530  
+**Source:** Bleeping Computer  
+**Published:** Wed, 14 Oct 2026 15:41:43 -0400  
+**Severity:** Low  
+**Categories:** Malware, APT  
+
+---
+
+### 12. [Ledger asks sellers across Asia to halt sales after supply-chain attack](https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 14 Oct 2026 13:46:50 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 9. [Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave](https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html)
+### 13. [Cisco patches new Secure Email Gateway zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 14 Oct 2026 11:22:28 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug](https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 14 Oct 2026 10:04:43 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
+**Source:** Bleeping Computer  
+**Published:** Wed, 14 Oct 2026 13:29:14 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-76519  
+**Categories:** Vulnerability, Malware  
 
 ---
 
-### 11. [Microsoft fixes VPN issues caused by September Windows updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-issues-caused-by-september-windows-updates/)
+### 14. [Microsoft fixes VPN issues caused by September Windows updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-issues-caused-by-september-windows-updates/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 14 Oct 2026 10:27:01 -0400  
@@ -103,7 +131,7 @@
 
 ---
 
-### 12. [The Blind Spots of Agentic Pentesting and How to Close Them](https://www.bleepingcomputer.com/news/security/the-blind-spots-of-agentic-pentesting-and-how-to-close-them/)
+### 15. [The Blind Spots of Agentic Pentesting and How to Close Them](https://www.bleepingcomputer.com/news/security/the-blind-spots-of-agentic-pentesting-and-how-to-close-them/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 14 Oct 2026 10:00:10 -0400  
@@ -112,7 +140,7 @@
 
 ---
 
-### 13. [Global takedown hits network behind 1 billion phishing messages](https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/)
+### 16. [Global takedown hits network behind 1 billion phishing messages](https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 14 Oct 2026 09:12:52 -0400  
@@ -121,7 +149,7 @@
 
 ---
 
-### 14. [CISA warns admins to immediately fix Ivanti flaw exploited as zero-day](https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/)
+### 17. [CISA warns admins to immediately fix Ivanti flaw exploited as zero-day](https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 14 Oct 2026 08:58:07 -0400  
@@ -131,7 +159,7 @@
 
 ---
 
-### 15. [Hirudo Android malware replaces banking apps to evade security checks](https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/)
+### 18. [Hirudo Android malware replaces banking apps to evade security checks](https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 14 Oct 2026 07:41:20 -0400  
@@ -140,7 +168,7 @@
 
 ---
 
-### 16. [Microsoft: Recent Windows updates may trigger Remote Desktop failures](https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/)
+### 19. [Microsoft: Recent Windows updates may trigger Remote Desktop failures](https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 14 Oct 2026 06:48:09 -0400  
@@ -149,40 +177,12 @@
 
 ---
 
-### 17. [OpenAI engineer arrested for allegedly planting spy device in office](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/)
+### 20. [OpenAI engineer arrested for allegedly planting spy device in office](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 13 Oct 2026 18:33:02 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 18. [Ghostscript flaw lets hackers hijack servers via PDF uploads](https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 13 Oct 2026 17:33:26 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-39919  
-**Categories:** Vulnerability  
-
----
-
-### 19. [Anthropic warns self-replicating AI could spread to your smart devices](https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 13 Oct 2026 17:16:34 -0400  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 20. [Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days](https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 13 Oct 2026 15:56:09 -0400  
-**Severity:** Critical  
-**Categories:** Vulnerability  
 
 ---
 
@@ -256,7 +256,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-85880, CVE-2026-81963, CVE-2026-69730, CVE-2026-69829  
+**CVEs:** CVE-2026-81963, CVE-2026-69730, CVE-2026-85880, CVE-2026-69829  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -347,7 +347,7 @@
 **Source:** Security Week  
 **Published:** Wed, 14 Oct 2026 07:26:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-107656, CVE-2026-104935, CVE-2026-109412, CVE-2026-106173, CVE-2026-106042  
+**CVEs:** CVE-2026-109412, CVE-2026-106042, CVE-2026-106173, CVE-2026-104935, CVE-2026-107656  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -367,7 +367,7 @@
 **Source:** Security Week  
 **Published:** Wed, 14 Oct 2026 06:12:10 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-89108, CVE-2026-89110, CVE-2026-89107, CVE-2026-89111  
+**CVEs:** CVE-2026-89108, CVE-2026-89111, CVE-2026-89110, CVE-2026-89107  
 **Categories:** Vulnerability  
 
 ---
@@ -386,7 +386,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 13 Oct 2026 20:37:58 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-96951, CVE-2026-70571, CVE-2026-70229  
+**CVEs:** CVE-2026-70571, CVE-2026-96951, CVE-2026-70229  
 **Categories:** Vulnerability  
 
 ---
@@ -423,7 +423,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 07 Oct 2026 19:27:08 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-91799, CVE-2026-48388, CVE-2026-57256, CVE-2026-50475  
+**CVEs:** CVE-2026-48388, CVE-2026-57256, CVE-2026-91799, CVE-2026-50475  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -740,21 +740,21 @@
 
 ---
 
-### 81. [U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance](https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Oct 13, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** APT  
-
----
-
-### 82. [October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2026/)
+### 81. [October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 13, 2026 00:00:00-0500  
 **Severity:** Critical  
 **Categories:** Vulnerability  
+
+---
+
+### 82. [U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance](https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Oct 13, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** APT  
 
 ---
 
