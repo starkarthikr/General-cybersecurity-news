@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
+    "link": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
+    "published": "Wed, 14 Oct 2026 07:29:25 +0530",
+    "summary": "A Saudi National and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sensitive conversations.\n\nAbdulrahman Alfozan, 35, has been charged with using or endeavoring to use an electronic, mechanical, or other device to intercept oral communications. He was arrested by",
+    "analysis": {
+      "issue": "An OpenAI engineering lead was arrested over an allegedly planted audio recorder in an executive conference room",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
     "link": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
     "published": "Tue, 13 Oct 2026 23:50:57 +0530",
@@ -162,13 +180,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Attackers Heat French Supermarket Fridges Up to 50°C by Hijacking Danfoss Controllers",
-    "link": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html",
-    "published": "Tue, 13 Oct 2026 14:18:41 +0530",
-    "summary": "Attackers took remote control of fridges and freezers at hundreds of French supermarkets on the night of October 11 and warmed them, forcing stores to throw food away, several retail chains said.\n\nThe attackers reached them through the controller that runs all of a store's fridges and freezers, a device made by Danish company Danfoss that maintenance firms can manage remotely. Les Mousquetaires",
+    "source": "Bleeping Computer",
+    "title": "OpenAI engineer arrested for allegedly planting spy device in office",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
+    "published": "Tue, 13 Oct 2026 18:33:02 -0400",
+    "summary": "A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations. [...]",
     "analysis": {
-      "issue": "Danfoss controllers at hundreds of French supermarkets were compromised, with attackers forcing defrost and causing food losses at some stores",
+      "issue": "A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -176,6 +194,26 @@
       "cves": [],
       "threat_categories": [
         "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
+    "link": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
+    "published": "Tue, 13 Oct 2026 17:33:26 -0400",
+    "summary": "A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution through specially crafted PDF files. [...]",
+    "analysis": {
+      "issue": "A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution through specially crafted PDF files",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-39919"
+      ],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -326,40 +364,22 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Docker Hub flaw let attackers impersonate users, tamper with images",
-    "link": "https://www.bleepingcomputer.com/news/security/docker-hub-flaw-let-attackers-impersonate-users-tamper-with-images/",
-    "published": "Tue, 13 Oct 2026 11:20:20 -0400",
-    "summary": "Docker has disclosed a critical vulnerability (CVE-2026-105445) in Docker Hub that let attackers access another user's container repositories using a personal access token (PAT). [...]",
+    "source": "Krebs On Security",
+    "title": "Microsoft Patches More Than 1,400 Security Flaws",
+    "link": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
+    "published": "Tue, 13 Oct 2026 23:24:53 +0000",
+    "summary": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond.",
     "analysis": {
-      "issue": "Docker has disclosed a critical vulnerability (CVE-2026-105445) in Docker Hub that let attackers access another user’s container repositories using a personal access token (PAT)",
+      "issue": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-105445"
+        "CVE-2026-96951",
+        "CVE-2026-108398"
       ],
       "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "The MFA Gaps Attackers are Still Exploiting",
-    "link": "https://www.bleepingcomputer.com/news/security/the-mfa-gaps-attackers-are-still-exploiting/",
-    "published": "Tue, 13 Oct 2026 10:01:11 -0400",
-    "summary": "Attackers continue exploiting gaps in MFA coverage, using stolen credentials to access VPNs, RDP, and Windows systems that still rely on passwords alone. Specops explains why protecting cloud applications isn't enough and how organizations can close these authentication gaps. [...]",
-    "analysis": {
-      "issue": "On August 4, 2026, an Akira ransomware affiliate began spraying passwords against a SonicWall SSL VPN",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
         "Vulnerability"
       ]
     }
@@ -473,10 +493,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-81963",
-        "CVE-2026-69730",
         "CVE-2026-85880",
-        "CVE-2026-69829"
+        "CVE-2026-81963",
+        "CVE-2026-69829",
+        "CVE-2026-69730"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -541,25 +561,195 @@
     }
   },
   {
-    "source": "Krebs On Security",
-    "title": "Microsoft Plugs Nearly 400 Security Holes",
-    "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
-    "published": "Tue, 11 Aug 2026 21:28:35 +0000",
-    "summary": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today.",
+    "source": "Security Week",
+    "title": "Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say",
+    "link": "https://www.securityweek.com/employee-arrested-after-listening-device-found-in-openai-conference-room-fbi-and-the-company-say/",
+    "published": "Tue, 13 Oct 2026 23:07:00 +0000",
+    "summary": "<p>Saudi national Abdulrahman Alfozan was arrested Friday and terminated by OpenAI.</p>\n<p>The post <a href=\"https://www.securityweek.com/employee-arrested-after-listening-device-found-in-openai-conference-room-fbi-and-the-company-say/\">Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
-      "issue": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior",
+      "issue": "Saudi national Abdulrahman Alfozan was arrested Friday and terminated by OpenAI",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Ivanti Zero-Day Chain Gave Attackers Root Access to Fully Patched VPN",
+    "link": "https://www.securityweek.com/ivanti-zero-day-chain-gave-attackers-root-access-to-fully-patched-vpn/",
+    "published": "Tue, 13 Oct 2026 18:43:43 +0000",
+    "summary": "<p>CVE-2026-104935 affects Ivanti Connect Secure and it can be exploited for unauthenticated remote code execution with elevated privileges. </p>\n<p>The post <a href=\"https://www.securityweek.com/ivanti-zero-day-chain-gave-attackers-root-access-to-fully-patched-vpn/\">Ivanti Zero-Day Chain Gave Attackers Root Access to Fully Patched VPN</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "CVE-2026-104935 affects Ivanti Connect Secure and it can be exploited for unauthenticated remote code execution with elevated privileges",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-72971",
-        "CVE-2026-68820",
-        "CVE-2026-62832"
+        "CVE-2026-104935"
       ],
       "threat_categories": [
         "Vulnerability",
+        "Malware",
+        "Phishing",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Adobe Patches 176 Vulnerabilities Across 11 Products",
+    "link": "https://www.securityweek.com/adobe-patches-140-vulnerabilities-across-10-products/",
+    "published": "Tue, 13 Oct 2026 17:14:42 +0000",
+    "summary": "<p>The flaws affect products such as Commerce, Photoshop, ColdFusion, Substance 3D, Dimension, FrameMaker and Bridge.</p>\n<p>The post <a href=\"https://www.securityweek.com/adobe-patches-140-vulnerabilities-across-10-products/\">Adobe Patches 176 Vulnerabilities Across 11 Products</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The flaws affect products such as Commerce, Photoshop, ColdFusion, Substance 3D, Dimension, FrameMaker and Bridge",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Google Partially Reverses Chrome Bug Bounty Cuts",
+    "link": "https://www.securityweek.com/google-partially-reverses-chrome-bug-bounty-cuts/",
+    "published": "Tue, 13 Oct 2026 17:00:00 +0000",
+    "summary": "<p>Google is restructuring bug bounty rewards with a focus on complex memory safety vulnerabilities. </p>\n<p>The post <a href=\"https://www.securityweek.com/google-partially-reverses-chrome-bug-bounty-cuts/\">Google Partially Reverses Chrome Bug Bounty Cuts</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Google is restructuring bug bounty rewards with a focus on complex memory safety vulnerabilities",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Medium",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Meta Says Hackers Took Code, Personal Data of 1,500 in GitHub Breach",
+    "link": "https://www.securityweek.com/meta-says-hackers-took-code-personal-data-of-1500-in-github-breach/",
+    "published": "Tue, 13 Oct 2026 16:01:00 +0000",
+    "summary": "<p>Most of the affected individuals are Meta employees in the United States and they are being offered credit monitoring services.</p>\n<p>The post <a href=\"https://www.securityweek.com/meta-says-hackers-took-code-personal-data-of-1500-in-github-breach/\">Meta Says Hackers Took Code, Personal Data of 1,500 in GitHub Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Most of the affected individuals are Meta employees in the United States and they are being offered credit monitoring services",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Small AI Models Could Soon Self-Replicate on IoT Devices, Anthropic Warns",
+    "link": "https://www.securityweek.com/small-ai-models-may-soon-be-able-to-self-replicate-on-iot-devices-anthropic-warns/",
+    "published": "Tue, 13 Oct 2026 11:58:29 +0000",
+    "summary": "<p>Experiments show cheap TV boxes can run capable AI models, and small models may soon be able to spread across such devices on their own.</p>\n<p>The post <a href=\"https://www.securityweek.com/small-ai-models-may-soon-be-able-to-self-replicate-on-iot-devices-anthropic-warns/\">Small AI Models Could Soon Self-Replicate on IoT Devices, Anthropic Warns</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Experiments show cheap TV boxes can run capable AI models, and small models may soon be able to spread across such devices on their own",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
         "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "XWorm RAT Evolves Into Surveillance Platform",
+    "link": "https://www.securityweek.com/xworm-rat-evolves-into-surveillance-platform/",
+    "published": "Tue, 13 Oct 2026 11:13:10 +0000",
+    "summary": "<p>Expanded plugin count allows the malware to monitor users’ location, stream live audio, and interact with authenticated browser sessions.</p>\n<p>The post <a href=\"https://www.securityweek.com/xworm-rat-evolves-into-surveillance-platform/\">XWorm RAT Evolves Into Surveillance Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Expanded plugin count allows the malware to monitor users’ location, stream live audio, and interact with authenticated browser sessions",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability",
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "AI Turns Familiar Cyberattacks Into a Race Against Time",
+    "link": "https://www.securityweek.com/ai-turns-familiar-cyberattacks-into-a-race-against-time/",
+    "published": "Tue, 13 Oct 2026 11:00:00 +0000",
+    "summary": "<p>IBM’s Steve Wallin talks to SecurityWeek on the effect of AI-driven attacks on enterprise defenses.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-turns-familiar-cyberattacks-into-a-race-against-time/\">AI Turns Familiar Cyberattacks Into a Race Against Time</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "IBM’s Steve Wallin talks to SecurityWeek on the effect of AI-driven attacks on enterprise defenses",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "$86 Million Crypto Heist Linked to Ledger Signer Hardware Implant",
+    "link": "https://www.securityweek.com/86-million-crypto-heist-linked-to-ledger-signer-hardware-implant/",
+    "published": "Tue, 13 Oct 2026 10:36:05 +0000",
+    "summary": "<p>A small circuit board hidden under the signers’ screens read user data and transmitted it to the attackers.</p>\n<p>The post <a href=\"https://www.securityweek.com/86-million-crypto-heist-linked-to-ledger-signer-hardware-implant/\">$86 Million Crypto Heist Linked to Ledger Signer Hardware Implant</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "A small circuit board hidden under the signers’ screens read user data and transmitted it to the attackers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Cyberattack Prompts Grocery Giant Ahold Delhaize to Disconnect Systems",
+    "link": "https://www.securityweek.com/cyberattack-prompts-ahold-delhaize-to-disconnect-systems/",
+    "published": "Tue, 13 Oct 2026 09:37:12 +0000",
+    "summary": "<p>The company says it took some of its systems offline to contain a security issue within its network.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyberattack-prompts-ahold-delhaize-to-disconnect-systems/\">Cyberattack Prompts Grocery Giant Ahold Delhaize to Disconnect Systems</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The company says it took some of its systems offline to contain a security issue within its network",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach"
       ]
     }
   },
@@ -657,9 +847,9 @@
       "severity": "Low",
       "cves": [
         "CVE-2026-50475",
-        "CVE-2026-48388",
         "CVE-2026-91799",
-        "CVE-2026-57256"
+        "CVE-2026-57256",
+        "CVE-2026-48388"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1320,24 +1510,6 @@
   },
   {
     "source": "Crowdstrike Blog",
-    "title": "U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance",
-    "link": "https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/",
-    "published": "Oct 13, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "CrowdStrike collaborated with the FBI to disrupt several laptop farms that were operated by DPRK-nexus adversary FAMOUS CHOLLIMA to fraudulently employ operatives at American companies",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
     "title": "Solving the Continuous Authorization Conundrum",
     "link": "https://www.crowdstrike.com/en-us/blog/solving-the-continuous-authorization-conundrum/",
     "published": "Oct 08, 2026 00:00:00-0500",
@@ -1488,6 +1660,24 @@
     "summary": "",
     "analysis": {
       "issue": "ClickFix attacks trick users into executing malicious commands themselves",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
+    "title": "A Win for Defenders: CrowdStrike and NVIDIA Extend Security Across the AI Stack",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-extend-security-across-ai-stack/",
+    "published": "Sep 28, 2026 00:00:00-0400",
+    "summary": "",
+    "analysis": {
+      "issue": "CrowdStrike and NVIDIA are collaborating on the NVIDIA Open Agent Safety Platform, an open reference design to extend security deeper into the agentic stack and establish stronger boundaries for autonomous AI",
       "solution": null,
       "cause": null,
       "timeline": null,
