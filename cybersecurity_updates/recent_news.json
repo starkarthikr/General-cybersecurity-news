@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug",
+    "link": "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html",
+    "published": "Wed, 14 Oct 2026 10:04:43 +0530",
+    "summary": "Microsoft on Tuesday shattered its own Patch Tuesday record by shipping patches for a whopping 1,413 vulnerabilities, including one that it said has come under active exploitation.\n\nThese include 1,102 flaws in Windows, 134 in Office, 61 in Developer Tools, 36 in SharePoint Server, and 22 in SQL Server. Of these, more than 670 relate to privilege escalation, followed by over 300 remote code",
+    "analysis": {
+      "issue": "Microsoft patched a record 1,413 flaws, including an exploited Windows Shell bug that can bypass Mark of the Web defenses",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
     "link": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
     "published": "Wed, 14 Oct 2026 07:29:25 +0530",
@@ -151,24 +169,6 @@
     "summary": "Three vulnerabilities in LG's webOS can be chained to give an attacker on the same local network root access to certain smart TVs without a PIN or any interaction from the owner.\n\nLG has issued a fix, according to&nbsp;an advisory published by SSD Secure Disclosure&nbsp;on October 12.\n\nThe chain was tested on two TV models, the 32LQ636BPSA and the 27TQ600SW, running webOS 7.5.7-25 on firmware",
     "analysis": {
       "issue": "Three LG webOS flaws can be chained to give attackers on the same network root access on two tested TV models; LG has issued a fix",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Product Walkthrough: Bitdefender AI Visibility and Control",
-    "link": "https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html",
-    "published": "Tue, 13 Oct 2026 16:00:00 +0530",
-    "summary": "A user opens a browser tab, pastes data into a chat assistant, and nothing is installed.\n\nA developer adds a coding&nbsp;assistant as an editor extension, and nothing shows up in the installed programs list.\n\nSomeone downloads a local model runtime, a program that runs models directly on the machine instead of sending data to an external service, because they were told not to send company data",
-    "analysis": {
-      "issue": "Bitdefender GravityZone inventories AI assistants, local runtimes, and MCP servers on Windows endpoints and scores configuration risks",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -376,8 +376,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-96951",
-        "CVE-2026-108398"
+        "CVE-2026-108398",
+        "CVE-2026-96951"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -493,10 +493,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-85880",
+        "CVE-2026-69730",
         "CVE-2026-81963",
-        "CVE-2026-69829",
-        "CVE-2026-69730"
+        "CVE-2026-85880",
+        "CVE-2026-69829"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -767,8 +767,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-70571",
-        "CVE-2026-96951",
-        "CVE-2026-70229"
+        "CVE-2026-70229",
+        "CVE-2026-96951"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -846,10 +846,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-50475",
-        "CVE-2026-91799",
+        "CVE-2026-48388",
         "CVE-2026-57256",
-        "CVE-2026-48388"
+        "CVE-2026-50475",
+        "CVE-2026-91799"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1510,19 +1510,37 @@
   },
   {
     "source": "Crowdstrike Blog",
-    "title": "Solving the Continuous Authorization Conundrum",
-    "link": "https://www.crowdstrike.com/en-us/blog/solving-the-continuous-authorization-conundrum/",
-    "published": "Oct 08, 2026 00:00:00-0500",
+    "title": "U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance",
+    "link": "https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/",
+    "published": "Oct 13, 2026 00:00:00-0500",
     "summary": "",
     "analysis": {
-      "issue": "Organizations continue to face myriad issues related to Zero Trust",
+      "issue": "CrowdStrike collaborated with the FBI to disrupt several laptop farms that were operated by DPRK-nexus adversary FAMOUS CHOLLIMA to fraudulently employ operatives at American companies",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
+    "title": "October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities",
+    "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2026/",
+    "published": "Oct 13, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "Microsoft has released security updates for 1,413 vulnerabilities, including one exploited zero-day, two publicly disclosed zero-days, and 75 critical, in its October 2026 Patch Tuesday rollout",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -1538,6 +1556,24 @@
       "cause": null,
       "timeline": null,
       "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
+    "title": "Solving the Continuous Authorization Conundrum",
+    "link": "https://www.crowdstrike.com/en-us/blog/solving-the-continuous-authorization-conundrum/",
+    "published": "Oct 08, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "Organizations continue to face myriad issues related to Zero Trust",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
       "cves": [],
       "threat_categories": [
         "General Security"
@@ -1642,42 +1678,6 @@
     "summary": "",
     "analysis": {
       "issue": "Falcon Next-Gen SIEM joins CISA’s SIEMaaS technology stack, which gives eligible agencies a funded path to modernize security through the CDM DEFEND F shared service",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "Copy, Paste, Compromised: How ClickFix Attacks Work and How CrowdStrike Stops Them",
-    "link": "https://www.crowdstrike.com/en-us/blog/how-clickfix-attacks-work-and-how-to-stop-them/",
-    "published": "Sep 29, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "ClickFix attacks trick users into executing malicious commands themselves",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "A Win for Defenders: CrowdStrike and NVIDIA Extend Security Across the AI Stack",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-extend-security-across-ai-stack/",
-    "published": "Sep 28, 2026 00:00:00-0400",
-    "summary": "",
-    "analysis": {
-      "issue": "CrowdStrike and NVIDIA are collaborating on the NVIDIA Open Agent Safety Platform, an open reference design to extend security deeper into the agentic stack and establish stronger boundaries for autonomous AI",
       "solution": null,
       "cause": null,
       "timeline": null,
