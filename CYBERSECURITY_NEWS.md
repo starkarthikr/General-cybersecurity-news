@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-14 20:17:34 UTC
+**Last Updated:** 2026-10-15 04:04:21 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -94,7 +94,17 @@
 
 ---
 
-### 11. [FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested](https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/)
+### 11. [Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 14 Oct 2026 18:56:47 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-0322  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested](https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 14 Oct 2026 15:41:43 -0400  
@@ -103,7 +113,7 @@
 
 ---
 
-### 12. [Ledger asks sellers across Asia to halt sales after supply-chain attack](https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/)
+### 13. [Ledger asks sellers across Asia to halt sales after supply-chain attack](https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 14 Oct 2026 13:46:50 -0400  
@@ -112,7 +122,7 @@
 
 ---
 
-### 13. [Cisco patches new Secure Email Gateway zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/)
+### 14. [Cisco patches new Secure Email Gateway zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 14 Oct 2026 13:29:14 -0400  
@@ -122,7 +132,7 @@
 
 ---
 
-### 14. [Microsoft fixes VPN issues caused by September Windows updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-issues-caused-by-september-windows-updates/)
+### 15. [Microsoft fixes VPN issues caused by September Windows updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-issues-caused-by-september-windows-updates/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 14 Oct 2026 10:27:01 -0400  
@@ -131,7 +141,7 @@
 
 ---
 
-### 15. [The Blind Spots of Agentic Pentesting and How to Close Them](https://www.bleepingcomputer.com/news/security/the-blind-spots-of-agentic-pentesting-and-how-to-close-them/)
+### 16. [The Blind Spots of Agentic Pentesting and How to Close Them](https://www.bleepingcomputer.com/news/security/the-blind-spots-of-agentic-pentesting-and-how-to-close-them/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 14 Oct 2026 10:00:10 -0400  
@@ -140,7 +150,7 @@
 
 ---
 
-### 16. [Global takedown hits network behind 1 billion phishing messages](https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/)
+### 17. [Global takedown hits network behind 1 billion phishing messages](https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 14 Oct 2026 09:12:52 -0400  
@@ -149,7 +159,7 @@
 
 ---
 
-### 17. [CISA warns admins to immediately fix Ivanti flaw exploited as zero-day](https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/)
+### 18. [CISA warns admins to immediately fix Ivanti flaw exploited as zero-day](https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 14 Oct 2026 08:58:07 -0400  
@@ -159,7 +169,7 @@
 
 ---
 
-### 18. [Hirudo Android malware replaces banking apps to evade security checks](https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/)
+### 19. [Hirudo Android malware replaces banking apps to evade security checks](https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 14 Oct 2026 07:41:20 -0400  
@@ -168,19 +178,10 @@
 
 ---
 
-### 19. [Microsoft: Recent Windows updates may trigger Remote Desktop failures](https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/)
+### 20. [Microsoft: Recent Windows updates may trigger Remote Desktop failures](https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 14 Oct 2026 06:48:09 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [OpenAI engineer arrested for allegedly planting spy device in office](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 13 Oct 2026 18:33:02 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -256,7 +257,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81963, CVE-2026-69730, CVE-2026-85880, CVE-2026-69829  
+**CVEs:** CVE-2026-69730, CVE-2026-85880, CVE-2026-69829, CVE-2026-81963  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -347,7 +348,7 @@
 **Source:** Security Week  
 **Published:** Wed, 14 Oct 2026 07:26:35 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109412, CVE-2026-106042, CVE-2026-106173, CVE-2026-104935, CVE-2026-107656  
+**CVEs:** CVE-2026-107656, CVE-2026-106173, CVE-2026-106042, CVE-2026-109412, CVE-2026-104935  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -367,7 +368,7 @@
 **Source:** Security Week  
 **Published:** Wed, 14 Oct 2026 06:12:10 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-89108, CVE-2026-89111, CVE-2026-89110, CVE-2026-89107  
+**CVEs:** CVE-2026-89110, CVE-2026-89107, CVE-2026-89111, CVE-2026-89108  
 **Categories:** Vulnerability  
 
 ---
@@ -386,7 +387,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 13 Oct 2026 20:37:58 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-70571, CVE-2026-96951, CVE-2026-70229  
+**CVEs:** CVE-2026-70229, CVE-2026-70571, CVE-2026-96951  
 **Categories:** Vulnerability  
 
 ---
@@ -423,7 +424,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 07 Oct 2026 19:27:08 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-48388, CVE-2026-57256, CVE-2026-91799, CVE-2026-50475  
+**CVEs:** CVE-2026-91799, CVE-2026-57256, CVE-2026-48388, CVE-2026-50475  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -634,7 +635,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

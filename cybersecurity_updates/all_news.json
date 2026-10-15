@@ -181,6 +181,26 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
+    "published": "Wed, 14 Oct 2026 18:56:47 -0400",
+    "summary": "Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls. [...]",
+    "analysis": {
+      "issue": "Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-0322"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested",
     "link": "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/",
     "published": "Wed, 14 Oct 2026 15:41:43 -0400",
@@ -349,24 +369,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "OpenAI engineer arrested for allegedly planting spy device in office",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
-    "published": "Tue, 13 Oct 2026 18:33:02 -0400",
-    "summary": "A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations. [...]",
-    "analysis": {
-      "issue": "A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
     "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
@@ -514,10 +516,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-81963",
         "CVE-2026-69730",
         "CVE-2026-85880",
-        "CVE-2026-69829"
+        "CVE-2026-69829",
+        "CVE-2026-81963"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -705,11 +707,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109412",
-        "CVE-2026-106042",
+        "CVE-2026-107656",
         "CVE-2026-106173",
-        "CVE-2026-104935",
-        "CVE-2026-107656"
+        "CVE-2026-106042",
+        "CVE-2026-109412",
+        "CVE-2026-104935"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -752,10 +754,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-89108",
-        "CVE-2026-89111",
         "CVE-2026-89110",
-        "CVE-2026-89107"
+        "CVE-2026-89107",
+        "CVE-2026-89111",
+        "CVE-2026-89108"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -793,9 +795,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-70229",
         "CVE-2026-70571",
-        "CVE-2026-96951",
-        "CVE-2026-70229"
+        "CVE-2026-96951"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -873,9 +875,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-48388",
-        "CVE-2026-57256",
         "CVE-2026-91799",
+        "CVE-2026-57256",
+        "CVE-2026-48388",
         "CVE-2026-50475"
       ],
       "threat_categories": [
@@ -1306,8 +1308,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
