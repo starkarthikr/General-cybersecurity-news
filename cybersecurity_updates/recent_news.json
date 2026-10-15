@@ -1,7 +1,99 @@
 [
   {
     "source": "The Hacker News",
-    "title": "Drupal Patches Critical Core RCE Flaw with No-Login Path via Contributed Modules",
+    "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads",
+    "link": "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html",
+    "published": "Thu, 15 Oct 2026 21:31:57 +0530",
+    "summary": "Candiru, an Israeli maker of spyware sold to governments, infected devices at the news network Al Jazeera through ordinary online ads, in attacks that needed no click or other action from the user, researchers at&nbsp;the Citizen Lab&nbsp;said Thursday.\n\nThe hidden attack code ran the moment an ad loaded on the screen, and in some cases the ad loaded out of sight, in the background.\n\nThe Citizen",
+    "analysis": {
+      "issue": "Citizen Lab linked Candiru spyware infections at Al Jazeera to targeted ads that triggered attacks without clicks or user action",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks",
+    "link": "https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html",
+    "published": "Thu, 15 Oct 2026 21:30:26 +0530",
+    "summary": "The threat actor known as Silent Lynx has been attributed to a fresh set of attacks targeting government organizations across the Commonwealth of Independent States (CIS).\n\nThe activity, observed from June 2025 through August 2026, involves four different infection chains that make use of macro-enabled documents, PS2EXE downloaders, GitHub-hosted PowerShell, and crafted WinRAR archives",
+    "analysis": {
+      "issue": "Silent Lynx exploited WinRAR CVE-2025-8088 to place PickleShell in the Windows Startup folder during attacks on CIS governments",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2025-8088"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams",
+    "link": "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html",
+    "published": "Thu, 15 Oct 2026 19:41:36 +0530",
+    "summary": "A long-running Traffic Distribution System (TDS) known as Help TDS to a Russian-language affiliate program called Hotejka, which appears to be a rebrand of a traffic monetization operation dubbed ROI777.\n\nHelp TDS is assessed to be active since at least 2017, offering PHP code templates to partners and affiliates that are installed into compromised websites with an aim to direct unsuspecting",
+    "analysis": {
+      "issue": "Help TDS routes visitors to tech support scams, with Infoblox linking Hotejka to ROI777 and tracking over 20,000 Cloudflare Pages domains",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks",
+    "link": "https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html",
+    "published": "Thu, 15 Oct 2026 18:28:05 +0530",
+    "summary": "NGINX released&nbsp;versions 1.30.6 and 1.31.7&nbsp;on October 14 to fix five vulnerabilities, one of them present in every release since May 2005.\n\nThere are three memory bugs that F5, the company behind NGINX, says could crash a worker process or possibly let an attacker run code, and each requires a specific configuration to exploit.\n\nA fourth lets an attacker forge a TLS session that could",
+    "analysis": {
+      "issue": "7 fix five configuration-dependent flaws, including three memory bugs that could crash workers or enable code execution",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing",
+    "link": "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html",
+    "published": "Thu, 15 Oct 2026 17:58:13 +0530",
+    "summary": "Next.js released an&nbsp;out-of-band security update&nbsp;on October 14 that fixes two critical flaws allowing unauthenticated remote code execution, along with a high-severity denial-of-service flaw.\n\nOne code-execution flaw is in React Server Components, and the other in librsvg, the open-source library Next.js uses through the&nbsp;sharp&nbsp;package to handle SVG images.\n\nThe fixes are in",
+    "analysis": {
+      "issue": "js patches two critical RCE flaws involving typed arrays and SVG processing, plus a Server Actions DoS affecting App Router apps",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Drupal Patches Critical Field UI Flaw With Unauthenticated RCE Path via Contributed Modules",
     "link": "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html",
     "published": "Thu, 15 Oct 2026 17:37:20 +0530",
     "summary": "Drupal core has a critical flaw in its Field UI module that could let an attacker run code on the site's server, and fixes were shipped on October 14 in Drupal 11.4.10, 11.3.19, and 10.6.19.\n\nAn attacker cannot reach the flaw through core alone, the Drupal Security Team said in&nbsp;its advisory. Several exploit paths exist through contributed modules, and at least one known path needs no login.",
@@ -90,49 +182,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories",
-    "link": "https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html",
-    "published": "Thu, 15 Oct 2026 14:15:10 +0530",
-    "summary": "The credential-theft campaign known as GhostAction has ramped up, targeting more than 30,000 repositories across 3,000 users and organizations.\n\nThe spike, according to GitGuardian, was observed on October 8 and 9, 2026.\n\n\"This resulted from compromising the GitHub accounts of about 1,900 users. It attempted to extract 3,174 secrets from public repositories' CI,\" security researchers Gaetan",
+    "source": "Bleeping Computer",
+    "title": "Is AI pentesting as good as a human pentester?",
+    "link": "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/",
+    "published": "Thu, 15 Oct 2026 10:01:11 -0400",
+    "summary": "AI pentesting can uncover vulnerabilities missed by human testers, but it also has limitations in consistency, risk assessment, and understanding business context. Intruder compares the strengths and weaknesses of both approaches and explains where AI agents can improve security testing. [...]",
     "analysis": {
-      "issue": "GhostAction targeted over 30,000 GitHub repositories using about 1,900 compromised accounts and tried to extract 3,174 secrets",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts",
-    "link": "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html",
-    "published": "Thu, 15 Oct 2026 12:37:05 +0530",
-    "summary": "Threat actors are exploiting a critical security flaw in Langflow, according to an alert from Previdian.\n\nLangflow is an open-source platform that allows developers to build artificial intelligence (AI) applications and agentic workflows. In February 2025, DataStax, the parent company of Langflow, was acquired by IBM.\n\nThe vulnerability in question is CVE-2026-105740 (CVSS score: 9.9), a case of",
-    "analysis": {
-      "issue": "Honeypots logged 1,423 attempts to exploit a critical Langflow flaw that lets authenticated users execute server commands",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches",
-    "link": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html",
-    "published": "Thu, 15 Oct 2026 12:13:08 +0530",
-    "summary": "Singapore-based Ahsay Backup has released security updates to address two security flaws in AhsayCBS that have been exploited by bad actors to drop web shells and XMRig cryptocurrency miners.\n\nThe vulnerabilities in question are CVE-2026-105133 and CVE-2026-105134, which could be chained to sidestep authentication and execute arbitrary commands on affected systems.\n\nIn a report published earlier",
-    "analysis": {
-      "issue": "Ahsay released new AhsayCBS hotfixes for two exploited flaws chained to deploy web shells and XMRig miners after earlier patches fell short",
+      "issue": "With the rise of AI pentesting, a lot of people are wondering if it’s as good as a human",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -140,42 +196,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
-    "link": "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html",
-    "published": "Thu, 15 Oct 2026 00:08:56 +0530",
-    "summary": "Attackers are exploiting a critical flaw in Cisco Secure Email Gateway that lets a sender with no login write files to the appliance's operating system, Cisco&nbsp;said in an advisory&nbsp;on Wednesday.\n\nThe attacker sends an email with a crafted attachment through the gateway and, if it succeeds, could then run commands as root. The appliance filters an organization's email for spam, malware,",
-    "analysis": {
-      "issue": "Attackers exploit a Cisco Secure Email Gateway flaw enabling file writes without login when File Reputation is enabled and scanner tools are outdated",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App",
-    "link": "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
-    "published": "Wed, 14 Oct 2026 23:08:31 +0530",
-    "summary": "Attackers exploited a flaw in an optional Nextcloud app,&nbsp;Collabora Online - Built-in CODE Server, to plant web shells on Nextcloud servers. Three administrators&nbsp;reported the issue on GitHub, with the first logged attack on September 10.\n\nA web shell is a small file that executes any command an attacker sends via a web request, with the rights of the web server account. The flaw",
-    "analysis": {
-      "issue": "Attackers planted web shells through Collabora's Built-in CODE app while its document server was down; versions before 26",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
@@ -348,24 +368,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "The Blind Spots of Agentic Pentesting and How to Close Them",
-    "link": "https://www.bleepingcomputer.com/news/security/the-blind-spots-of-agentic-pentesting-and-how-to-close-them/",
-    "published": "Wed, 14 Oct 2026 10:00:10 -0400",
-    "summary": "AI-powered penetration testing can uncover complex attack paths, but safety restrictions and network limitations leave many assets and vulnerabilities untested. Picus Security explains how combining agentic pentesting with exposure validation and breach simulation can help close these gaps. [...]",
-    "analysis": {
-      "issue": "By Sila Ozeren Hacioglu, Security Research Engineer at Picus Security",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
     "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
@@ -396,8 +398,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-108398",
-        "CVE-2026-96951"
+        "CVE-2026-96951",
+        "CVE-2026-108398"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -513,10 +515,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-69829",
         "CVE-2026-69730",
         "CVE-2026-85880",
-        "CVE-2026-81963",
-        "CVE-2026-69829"
+        "CVE-2026-81963"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -559,6 +561,24 @@
         "Vulnerability",
         "Malware",
         "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "UK Legal Aid Agency Hack Scope Widens After Forensic Review",
+    "link": "https://www.securityweek.com/uk-legal-aid-agency-hack-scope-widens-after-forensic-review/",
+    "published": "Thu, 15 Oct 2026 14:22:34 +0000",
+    "summary": "<p>Most of the data is related to applications, claims, and payments submitted between 2007 and 2025.</p>\n<p>The post <a href=\"https://www.securityweek.com/uk-legal-aid-agency-hack-scope-widens-after-forensic-review/\">UK Legal Aid Agency Hack Scope Widens After Forensic Review</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Most of the data is related to applications, claims, and payments submitted between 2007 and 2025",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
       ]
     }
   },
@@ -694,9 +714,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-76440",
+        "CVE-2026-76519",
         "CVE-2026-76461",
-        "CVE-2026-76519"
+        "CVE-2026-76440"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -737,24 +757,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Harmonic Security Raises $50 Million for Workforce AI Protection",
-    "link": "https://www.securityweek.com/harmonic-security-raises-50-million-for-workforce-ai-protection/",
-    "published": "Wed, 14 Oct 2026 14:09:51 +0000",
-    "summary": "<p>The cybersecurity startup plans to expand engineering and go-to-market teams in the US and UK.</p>\n<p>The post <a href=\"https://www.securityweek.com/harmonic-security-raises-50-million-for-workforce-ai-protection/\">Harmonic Security Raises $50 Million for Workforce AI Protection</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The cybersecurity startup plans to expand engineering and go-to-market teams in the US and UK",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -869,10 +871,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-48388",
         "CVE-2026-91799",
+        "CVE-2026-50475",
         "CVE-2026-57256",
-        "CVE-2026-50475"
+        "CVE-2026-48388"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -952,6 +954,24 @@
       "threat_categories": [
         "Malware",
         "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "Russia Is Tightening Internet Controls, Leading to Operational Risks",
+    "link": "https://www.recordedfuture.com/research/russia-restrictive-info-environment",
+    "published": "Thu, 15 Oct 2026 00:00:00 GMT",
+    "summary": "Explore Russia's escalating internet restrictions, VPN bans, and outages, and understand the growing operational and surveillance risks for organizations.",
+    "analysis": {
+      "issue": "Explore Russia's escalating internet restrictions, VPN bans, and outages, and understand the growing operational and surveillance risks for organizations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1114,24 +1134,6 @@
       "cves": [],
       "threat_categories": [
         "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Russia Escalating Hybrid Attacks Across Europe",
-    "link": "https://www.recordedfuture.com/blog/russia-new-generation-warfare",
-    "published": "Thu, 24 Sep 2026 00:00:00 GMT",
-    "summary": "Explore Insikt Group's analysis on Russia's escalation of hybrid and New Generation Warfare (NGW) tactics across Europe since 2022, including cyber attacks, physical sabotage, and airspace incursions, along with projected trends for the next two years.",
-    "analysis": {
-      "issue": "Explore Insikt Group's analysis on Russia's escalation of hybrid and New Generation Warfare (NGW) tactics across Europe since 2022, including cyber attacks, physical sabotage, and airspace incursions, along with projected trends for the next two year",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -1333,6 +1335,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Update Chrome: Google fixes 37 security flaws, including seven critical bugs",
+    "link": "https://www.malwarebytes.com/blog/bugs/2026/10/update-chrome-google-fixes-37-security-flaws-including-seven-critical-bugs",
+    "published": "Thu, 15 Oct 2026 14:15:03 GMT",
+    "summary": "Some flaws could let attackers run malicious code on your device through a crafted webpage.",
+    "analysis": {
+      "issue": "On October 13 and 14, Google issued several Chrome updates",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Is this link safe? Find out with Malwarebytes Scam Link Check",
     "link": "https://www.malwarebytes.com/blog/product/2026/10/is-this-link-safe-find-out-with-malwarebytes-scam-link-check",
     "published": "Thu, 15 Oct 2026 12:55:00 GMT",
@@ -1417,8 +1437,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-108398",
-        "CVE-2026-96951"
+        "CVE-2026-96951",
+        "CVE-2026-108398"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1494,24 +1514,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Scammers know your name, and they’re counting on you to reply",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/10/your-whos-this-reply-is-exactly-what-text-scammers-want",
-    "published": "Tue, 13 Oct 2026 07:30:51 GMT",
-    "summary": "Every reply to a scam text tells cybercriminals your number is active, which makes it worth more on the dark web and a better target for fraud.",
-    "analysis": {
-      "issue": "Scammers are finding different ways to use personal details exposed in data breaches to lure people into conversations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
       ]
     }
   },
