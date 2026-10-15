@@ -1,6 +1,26 @@
 [
   {
     "source": "The Hacker News",
+    "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More",
+    "link": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
+    "published": "Fri, 16 Oct 2026 00:19:33 +0530",
+    "summary": "Someone built a tool to steal data, then decided it should scare the victim for fun. Yes, that’s an actual feature. And somehow, it fits right in with this week's security stories.\n\nThe rest gets interesting in different ways. A small permission can lead to a big theft. A trusted login can hide the wrong person. Old bugs are finding new victims, familiar tools are being put to strange uses, and",
+    "analysis": {
+      "issue": "This week's ThreatsDay covers ransomware attacks, critical security flaws, credential theft, new malware, and sneaky tricks attackers use to break in",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads",
     "link": "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html",
     "published": "Thu, 15 Oct 2026 21:31:57 +0530",
@@ -164,20 +184,57 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1",
-    "link": "https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html",
-    "published": "Thu, 15 Oct 2026 16:12:16 +0530",
-    "summary": "The Indian government has directed telecom service providers (TSPs) in the country to mandatorily display callers' registered names along with their numbers for incoming calls starting November 1, 2026, in an effort to help people identify calls from unknown numbers and tackle spam or fraudulent calls.\n\nTo that end, the Department of Telecommunications has issued a circular urging service",
+    "source": "Bleeping Computer",
+    "title": "Android gets AI defenses against messaging scams, fake calls",
+    "link": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
+    "published": "Thu, 15 Oct 2026 15:48:43 -0400",
+    "summary": "Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices. [...]",
     "analysis": {
-      "issue": "India orders telecom operators to show registered caller names for unsaved domestic numbers from November 1, 2026, under its CNAP rules",
+      "issue": "Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/",
+    "published": "Thu, 15 Oct 2026 14:20:59 -0400",
+    "summary": "A proxyjacking campaign has impacted devices in 34 countries, monetizing victims' internet connections through a commercial residential proxy network. [...]",
+    "analysis": {
+      "issue": "A proxyjacking campaign has impacted devices in 34 countries, monetizing victims’ internet connections through a commercial residential proxy network",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Fake Arch Linux packages push malware with root privileges",
+    "link": "https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/",
+    "published": "Thu, 15 Oct 2026 13:12:31 -0400",
+    "summary": "A threat actor uploaded malicious packages to the Arch User Repository (AUR) that impersonated two popular helper tools, yay and paru. [...]",
+    "analysis": {
+      "issue": "A threat actor uploaded malicious packages to the Arch User Repository (AUR) that impersonated two popular helper tools, yay and paru",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Supply Chain"
       ]
     }
   },
@@ -298,7 +355,7 @@
     "published": "Wed, 14 Oct 2026 15:41:43 -0400",
     "summary": "The U.S. Department of Justice (DoJ) has disrupted the Famous Chollima threat group's operations by arresting two suspects, charging 14 individuals, and seizing nearly 187 laptops used in North Korean remote IT worker schemes. [...]",
     "analysis": {
-      "issue": "Department of Justice (DoJ) has disrupted the Famous Chollima threat group’s operations by arresting two suspects, charging 14 individuals, and seizing nearly 187 laptops used in North Korean remote IT worker schemes",
+      "issue": "Update: The story had been updated to fix an unintended typo in the header image",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -307,63 +364,6 @@
       "threat_categories": [
         "Malware",
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Ledger asks sellers across Asia to halt sales after supply-chain attack",
-    "link": "https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/",
-    "published": "Wed, 14 Oct 2026 13:46:50 -0400",
-    "summary": "Ledger has asked resellers and distributors of its wallets in Indonesia, Singapore, Thailand, the Philippines, Vietnam, Malaysia, and Hong Kong to suspend device sales and remove products from shelves while it investigates device tampering. [...]",
-    "analysis": {
-      "issue": "Ledger is asking resellers and distributors in Southeast Asia and Hong Kong to halt wallet sales and remove products from shelves while it investigates hardware implant incidents",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Cisco patches new Secure Email Gateway zero-day exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/",
-    "published": "Wed, 14 Oct 2026 13:29:14 -0400",
-    "summary": "Cisco has patched another actively exploited zero-day flaw in its Secure Email Gateway (SEG) that lets remote unauthenticated attackers execute commands with root privileges. [...]",
-    "analysis": {
-      "issue": "Cisco has patched another actively exploited zero-day flaw in its Secure Email Gateway (SEG) that lets remote unauthenticated attackers execute commands with root privileges",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-76519"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft fixes VPN issues caused by September Windows updates",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-issues-caused-by-september-windows-updates/",
-    "published": "Wed, 14 Oct 2026 10:27:01 -0400",
-    "summary": "Microsoft has resolved a known issue that caused Always On VPN connection issues after installing the September 2026 Windows 11 security updates. [...]",
-    "analysis": {
-      "issue": "Microsoft has resolved a known issue that caused Always On VPN connection issues after installing the September 2026 Windows 11 security updates",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -398,8 +398,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-96951",
-        "CVE-2026-108398"
+        "CVE-2026-108398",
+        "CVE-2026-96951"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -515,9 +515,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69829",
         "CVE-2026-69730",
         "CVE-2026-85880",
+        "CVE-2026-69829",
         "CVE-2026-81963"
       ],
       "threat_categories": [
@@ -561,6 +561,42 @@
         "Vulnerability",
         "Malware",
         "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Context Is King in the Fight Against Modern Cyberattacks",
+    "link": "https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/",
+    "published": "Thu, 15 Oct 2026 17:42:50 +0000",
+    "summary": "<p>Contextual defense helps security teams connect the signals, anticipate what comes next, and stop threats before they escalate.</p>\n<p>The post <a href=\"https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/\">Context Is King in the Fight Against Modern Cyberattacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Contextual defense helps security teams connect the signals, anticipate what comes next, and stop threats before they escalate",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Watch Now: Zero Trust Strategies Summit – All Sessions Available on Demand",
+    "link": "https://www.securityweek.com/virtual-event-today-zero-trust-strategies-summit-2/",
+    "published": "Thu, 15 Oct 2026 16:51:34 +0000",
+    "summary": "<p>This summit is laser-focused on the next generation of Zero Trust and Identity security, moving beyond theory to deliver actionable strategies.</p>\n<p>The post <a href=\"https://www.securityweek.com/virtual-event-today-zero-trust-strategies-summit-2/\">Watch Now: Zero Trust Strategies Summit &#8211; All Sessions Available on Demand</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "This summit is laser-focused on the next generation of Zero Trust and Identity security, moving beyond theory to deliver actionable strategies",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -714,9 +750,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-76519",
         "CVE-2026-76461",
-        "CVE-2026-76440"
+        "CVE-2026-76440",
+        "CVE-2026-76519"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -725,36 +761,21 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "AI Agents Navigate Unfamiliar OT Systems and Move Equipment in Minutes, Booz Allen Finds",
-    "link": "https://www.securityweek.com/ai-agents-navigate-unfamiliar-ot-systems-and-move-equipment-in-minutes-booz-allen-finds/",
-    "published": "Wed, 14 Oct 2026 16:00:00 +0000",
-    "summary": "<p>In Booz Allen’s isolated OT lab, AI models met every objective across eight scenarios and reached an industrial control network from a perimeter compromise in just over 16 minutes.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-agents-navigate-unfamiliar-ot-systems-and-move-equipment-in-minutes-booz-allen-finds/\">AI Agents Navigate Unfamiliar OT Systems and Move Equipment in Minutes, Booz Allen Finds</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "source": "Talos Blog",
+    "title": "The Q3 Vulnerability Pulse: Discovery ≠ Exploitation",
+    "link": "https://blog.talosintelligence.com/the-q3-vulnerability-pulse-discovery-exploitation/",
+    "published": "Thu, 15 Oct 2026 18:00:00 GMT",
+    "summary": "Is the cybersecurity world really facing a \"Bugmageddon?\" Thor breaks down the latest CVE and KEV trends in the latest Threat Source newsletter.",
     "analysis": {
-      "issue": "In Booz Allen’s isolated OT lab, AI models met every objective across eight scenarios and reached an industrial control network from a perimeter compromise in just over 16 minutes",
+      "issue": "Welcome to this week’s edition of the Threat Source newsletter",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "ICS Patch Tuesday: Siemens Issues 17 Advisories, Rockwell Fixes ArmorBlock Takeover Flaw",
-    "link": "https://www.securityweek.com/ics-patch-tuesday-siemens-issues-17-advisories-rockwell-fixes-armorblock-takeover-flaw/",
-    "published": "Wed, 14 Oct 2026 15:15:15 +0000",
-    "summary": "<p>ABB previously published an advisory warning about possible probing of a dynovaPRO vulnerability. </p>\n<p>The post <a href=\"https://www.securityweek.com/ics-patch-tuesday-siemens-issues-17-advisories-rockwell-fixes-armorblock-takeover-flaw/\">ICS Patch Tuesday: Siemens Issues 17 Advisories, Rockwell Fixes ArmorBlock Takeover Flaw</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "ABB previously published an advisory warning about possible probing of a dynovaPRO vulnerability",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
+      "cves": [
+        "CVE-2015-1000013",
+        "CVE-2014-125110"
+      ],
       "threat_categories": [
         "Vulnerability"
       ]
@@ -792,8 +813,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-70571",
-        "CVE-2026-96951",
-        "CVE-2026-70229"
+        "CVE-2026-70229",
+        "CVE-2026-96951"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -871,9 +892,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-91799",
-        "CVE-2026-50475",
         "CVE-2026-57256",
+        "CVE-2026-50475",
+        "CVE-2026-91799",
         "CVE-2026-48388"
       ],
       "threat_categories": [
@@ -935,25 +956,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "China-nexus UAT-11587 targets government and policy organizations across Asia with Antino backdoor",
-    "link": "https://blog.talosintelligence.com/china-nexus-uat-11587-targets-government-and-policy-organizations-across-asia-with-antino-backdoor/",
-    "published": "Wed, 30 Sep 2026 10:00:01 GMT",
-    "summary": "Cisco Talos uncovered a cluster of activity we track as UAT-11587 targeting government and policy organizations across Asia, including in Taiwan, India, the Philippines, and Cambodia, to deliver a previously undocumented backdoor referred to as “Antino” in developer artifacts.",
-    "analysis": {
-      "issue": "Talos first identified UAT-11587’s campaign while investigating a spear-phishing campaign directed at Taiwan's academic, think tank, and civil society policy community in March 2026",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
       ]
     }
   },
@@ -1437,8 +1439,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-96951",
-        "CVE-2026-108398"
+        "CVE-2026-108398",
+        "CVE-2026-96951"
       ],
       "threat_categories": [
         "Vulnerability"
