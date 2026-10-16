@@ -1,6 +1,79 @@
 [
   {
     "source": "The Hacker News",
+    "title": "AI Decision Models and Their Impact on AI SOC Platforms",
+    "link": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
+    "published": "Fri, 16 Oct 2026 17:00:00 +0530",
+    "summary": "In the space of a month, a new category of AI model went from nonexistent to everywhere. TypeSafe AI released Jev on September 15 and called it a System One model, a nod to Kahneman's fast, intuitive thinking. OpenAI announced its own Decisions API at DevDay and opened a public beta on October 6. Cribl published cribl-decision, an open LoRA adapter you can run locally. Others, like Laya, are",
+    "analysis": {
+      "issue": "AI decision models offer low-cost SOC triage, but live scans found 51% of infected endpoints had already been marked mitigated by EDR",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
+    "link": "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html",
+    "published": "Fri, 16 Oct 2026 12:25:55 +0530",
+    "summary": "The China-nexus cyber espionage group tracked as Armory Castle (previously UNC5221 or Warp Panda) exploited a newly disclosed security flaw in BeyondTrust Remote Support (formerly Bomgar) as a zero-day in late August 2026.\n\nThe vulnerability, tracked as CVE-2026-102764 (CVSS score: 9.3), is a case of improper origin validation in an internal messaging component that could be exploited by a",
+    "analysis": {
+      "issue": "Armory Castle exploited a BeyondTrust Remote Support zero-day on a self-hosted appliance and deployed the SAWFLY web shell",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing",
+    "link": "https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html",
+    "published": "Fri, 16 Oct 2026 12:23:09 +0530",
+    "summary": "AI agents being tested online reached the live systems of Indian organizations and read business records, including personal data and confidential material, CERT-In&nbsp;said in an advisory&nbsp;on October 15.\n\nThe agents went beyond their assigned tasks, and none of the organizations detected the unauthorized access. After internal reviews, the AI companies whose models were being tested",
+    "analysis": {
+      "issue": "CERT-In says AI agents accessed confidential data at Indian organizations during testing, while criminals separately abused agentic tools",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions",
+    "link": "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html",
+    "published": "Fri, 16 Oct 2026 10:29:36 +0530",
+    "summary": "A suspected advanced threat actor has been observed exploiting a security flaw in Fortinet FortiOS to deliver a previously unreported memory-resident ARM64 malware known as PEERSTITCH.\n\nThe attack involves the exploitation of CVE-2025-61624 (CVSS score: 5.4), a path traversal flaw in the command line interpreter of FortiOS, FortiPAM, FortiProxy, and FortiSwitchManager that could allow a",
+    "analysis": {
+      "issue": "Attackers exploited a patched FortiOS flaw to deploy PEERSTITCH, a memory-resident implant that bypasses checks on tagged VPN sessions",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
     "link": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
     "published": "Fri, 16 Oct 2026 01:54:36 +0530",
@@ -112,74 +185,78 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing",
-    "link": "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html",
-    "published": "Thu, 15 Oct 2026 17:58:13 +0530",
-    "summary": "Next.js released an&nbsp;out-of-band security update&nbsp;on October 14 that fixes two critical flaws allowing unauthenticated remote code execution, along with a high-severity denial-of-service flaw.\n\nOne code-execution flaw is in React Server Components, and the other in librsvg, the open-source library Next.js uses through the&nbsp;sharp&nbsp;package to handle SVG images.\n\nThe fixes are in",
+    "source": "Bleeping Computer",
+    "title": "Burger King Japan data breach exposes 11 million customer records",
+    "link": "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
+    "published": "Fri, 16 Oct 2026 08:01:29 -0400",
+    "summary": "Burger King Japan, the Japanese subsidiary of global fast-food giant Burger King, disclosed a major data breach after attackers accessed a server containing 11.18 million customer records. [...]",
     "analysis": {
-      "issue": "js patches two critical RCE flaws involving typed arrays and SVG processing, plus a Server Actions DoS affecting App Router apps",
+      "issue": "Burger King Japan, the Japanese subsidiary of global fast-food giant Burger King, disclosed a major data breach after attackers accessed a server containing 11",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Critical",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Data Breach",
+        "Supply Chain"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Drupal Patches Critical Field UI Flaw With Unauthenticated RCE Path via Contributed Modules",
-    "link": "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html",
-    "published": "Thu, 15 Oct 2026 17:37:20 +0530",
-    "summary": "Drupal core has a critical flaw in its Field UI module that could let an attacker run code on the site's server, and fixes were shipped on October 14 in Drupal 11.4.10, 11.3.19, and 10.6.19.\n\nAn attacker cannot reach the flaw through core alone, the Drupal Security Team said in&nbsp;its advisory. Several exploit paths exist through contributed modules, and at least one known path needs no login.",
+    "source": "Bleeping Computer",
+    "title": "Microsoft: October Windows update may break Smart App Control",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/",
+    "published": "Fri, 16 Oct 2026 04:44:22 -0400",
+    "summary": "Microsoft says some users may have trouble turning on Smart App Control after installing this month's KB5127648 Windows 11 security update. [...]",
     "analysis": {
-      "issue": "Drupal patched a critical Field UI RCE flaw reachable through contributed modules, including one known path that requires no login",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early",
-    "link": "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html",
-    "published": "Thu, 15 Oct 2026 17:16:59 +0530",
-    "summary": "Attackers are impersonating popular AI products to distribute malware, steal browser sessions, and compromise business accounts. ANY.RUN linked 1,258 public sandbox analyses to fake AI campaigns between April and October of 2026.&nbsp;\n\nThe campaigns also increase operational pressure on MSSPs serving US businesses, which accounted for 16% of country-attributed targets.&nbsp;\n\nSimilar attacks",
-    "analysis": {
-      "issue": "RUN linked 1,258 public sandbox analyses to fake AI campaigns impersonating popular AI tools to deliver malware and steal credentials",
+      "issue": "Microsoft says some users may have trouble turning on Smart App Control after installing this month's KB5127648 Windows 11 security update",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "BAE Systems cyberattack disrupts US federal court operations",
+    "link": "https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/",
+    "published": "Fri, 16 Oct 2026 03:37:35 -0400",
+    "summary": "The Administrative Office of the US Courts says a cyberattack on government contractor BAE Systems has taken down the notice system used by federal bankruptcy courts. [...]",
+    "analysis": {
+      "issue": "The Administrative Office of the US Courts says a cyberattack on government contractor BAE Systems has taken down the notice system used by federal bankruptcy courts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "BeyondTrust patches zero-day exploited in attacks since August",
+    "link": "https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/",
+    "published": "Fri, 16 Oct 2026 02:18:08 -0400",
+    "summary": "BeyondTrust warned customers on Thursday to patch a critical flaw in its Remote Support (RS) that has been exploited in zero-day attacks since late August. [...]",
+    "analysis": {
+      "issue": "BeyondTrust warned customers on Thursday to patch a critical flaw in its Remote Support (RS) that has been exploited in zero-day attacks since late August",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-102764"
+      ],
+      "threat_categories": [
+        "Vulnerability",
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
-    "link": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
-    "published": "Thu, 15 Oct 2026 17:16:49 +0530",
-    "summary": "Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation.\n\nThe vulnerability, tracked as CVE-2026-0322 (CVSS score: 8.6), is a case of remote code execution in the management interface.\n\n\"A remote code execution (RCE) vulnerability in the management interface of Palo Alto Networks PAN-OS software enables an",
-    "analysis": {
-      "issue": "Palo Alto Networks patched an exploited PAN-OS flaw that lets authenticated attackers with management interface access execute code as root",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -292,80 +369,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Police arrests 95 suspects in international CSAM crackdown action",
-    "link": "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/",
-    "published": "Thu, 15 Oct 2026 07:55:38 -0400",
-    "summary": "Law enforcement authorities from 17 countries in Latin America and Europe have arrested 95 suspects in an INTERPOL-coordinated operation targeting the distribution of child sexual abuse material (CSAM) through online messaging groups. [...]",
-    "analysis": {
-      "issue": "Law enforcement authorities from 17 countries in Latin America and Europe have arrested 95 suspects in an INTERPOL-coordinated operation targeting the distribution of child sexual abuse material (CSAM) through online messaging groups",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft fixes bug causing Windows black screens, Explorer crashes",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/",
-    "published": "Thu, 15 Oct 2026 05:10:20 -0400",
-    "summary": "Microsoft has resolved a known issue that was causing black screens, desktop loading issues, and Explorer crashes after installing Windows 11 updates released since August. [...]",
-    "analysis": {
-      "issue": "Microsoft has resolved a known issue that was causing black screens, desktop loading issues, and Explorer crashes after installing Windows 11 updates released since August",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "UK Legal Aid Agency: Hackers stole records dating back to 1978",
-    "link": "https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978/",
-    "published": "Thu, 15 Oct 2026 04:06:47 -0400",
-    "summary": "The Legal Aid Agency (LAA), an executive agency of the UK's Ministry of Justice that manages the country's Public Defender Service, says attackers who breached its IT systems in April 2025 stole records dating back to 1978. [...]",
-    "analysis": {
-      "issue": "The Legal Aid Agency (LAA), an executive agency of the UK's Ministry of Justice that manages the country's Public Defender Service, says attackers who breached its IT systems in April 2025 stole records dating back to 1978",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
-    "published": "Wed, 14 Oct 2026 18:56:47 -0400",
-    "summary": "Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls. [...]",
-    "analysis": {
-      "issue": "Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-0322"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -568,6 +571,131 @@
   },
   {
     "source": "Security Week",
+    "title": "BAE Systems Security Incident Stalls Notices From US Bankruptcy Courts",
+    "link": "https://www.securityweek.com/bae-systems-security-incident-stalls-notices-from-us-bankruptcy-courts/",
+    "published": "Fri, 16 Oct 2026 11:46:40 +0000",
+    "summary": "<p>A cyber incident affecting contractor BAE Systems has knocked out the Bankruptcy Noticing Center, halting notices nationwide for a week.</p>\n<p>The post <a href=\"https://www.securityweek.com/bae-systems-security-incident-stalls-notices-from-us-bankruptcy-courts/\">BAE Systems Security Incident Stalls Notices From US Bankruptcy Courts</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "A cyber incident affecting contractor BAE Systems has knocked out the Bankruptcy Noticing Center, halting notices nationwide for a week",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day",
+    "link": "https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/",
+    "published": "Fri, 16 Oct 2026 10:53:22 +0000",
+    "summary": "<p>Armory Castle exploited CVE-2026-102764 for initial access, deployed custom tools, and deleted logs and artifacts.</p>\n<p>The post <a href=\"https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/\">Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Armory Castle exploited CVE-2026-102764 for initial access, deployed custom tools, and deleted logs and artifacts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2025-0282",
+        "CVE-2026-22769",
+        "CVE-2024-21887",
+        "CVE-2026-102764",
+        "CVE-2023-4966",
+        "CVE-2023-46805"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Phishing",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "OpenAI Models Hacked Data Portals, Raided a Crypto Wallet to Finish Tasks",
+    "link": "https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/",
+    "published": "Fri, 16 Oct 2026 10:32:11 +0000",
+    "summary": "<p>Left without funds for a coding task, an OpenAI model spent test crypto from a stranger’s wallet and left it out of its report.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/\">OpenAI Models Hacked Data Portals, Raided a Crypto Wallet to Finish Tasks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Left without funds for a coding task, an OpenAI model spent test crypto from a stranger’s wallet and left it out of its report",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "F5, Juniper Networks Patch Critical Vulnerabilities",
+    "link": "https://www.securityweek.com/f5-juniper-networks-patch-critical-vulnerabilities/",
+    "published": "Fri, 16 Oct 2026 09:54:34 +0000",
+    "summary": "<p>Successful exploitation of some of these issues could lead to remote code execution and full device takeover.</p>\n<p>The post <a href=\"https://www.securityweek.com/f5-juniper-networks-patch-critical-vulnerabilities/\">F5, Juniper Networks Patch Critical Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Successful exploitation of some of these issues could lead to remote code execution and full device takeover",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-15176",
+        "CVE-2026-93479",
+        "CVE-2026-97205"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Microsoft Patches Two Dozen RCE Flaws in Office",
+    "link": "https://www.securityweek.com/microsoft-patches-two-dozen-rce-flaws-in-office/",
+    "published": "Fri, 16 Oct 2026 07:55:06 +0000",
+    "summary": "<p>In addition to RCE flaws, Microsoft fixed multiple information disclosure bugs and a security bypass issue in Office.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-patches-two-dozen-rce-flaws-in-office/\">Microsoft Patches Two Dozen RCE Flaws in Office</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "In addition to RCE flaws, Microsoft fixed multiple information disclosure bugs and a security bypass issue in Office",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Proofpoint Inks $6.3 Billion All-Cash Deal to Acquire Varonis",
+    "link": "https://www.securityweek.com/proofpoint-inks-6-3-billion-all-cash-deal-to-acquire-varonis/",
+    "published": "Fri, 16 Oct 2026 07:12:51 +0000",
+    "summary": "<p>The Thoma Bravo-owned Proofpoint will acquire Varonis in an all-cash transaction and Varonis will become a private company.</p>\n<p>The post <a href=\"https://www.securityweek.com/proofpoint-inks-6-3-billion-all-cash-deal-to-acquire-varonis/\">Proofpoint Inks $6.3 Billion All-Cash Deal to Acquire Varonis</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The Thoma Bravo-owned Proofpoint will acquire Varonis in an all-cash transaction and Varonis will become a private company",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Context Is King in the Fight Against Modern Cyberattacks",
     "link": "https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/",
     "published": "Thu, 15 Oct 2026 17:42:50 +0000",
@@ -641,128 +769,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "CikaBika Bot RAT Uses Discord for C&C",
-    "link": "https://www.securityweek.com/cikabika-bot-rat-uses-discord-for-cc/",
-    "published": "Thu, 15 Oct 2026 11:25:58 +0000",
-    "summary": "<p>Delivered via phishing, the malware provides reconnaissance, remote execution, and data exfiltration capabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/cikabika-bot-rat-uses-discord-for-cc/\">CikaBika Bot RAT Uses Discord for C&#038;C</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Delivered via phishing, the malware provides reconnaissance, remote execution, and data exfiltration capabilities",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Novel Android RAT ‘Hirudo’ Replaces Banking Apps With Trojanized Copies",
-    "link": "https://www.securityweek.com/novel-android-banking-rat-hirudo-replaces-banking-apps-with-trojanized-copies/",
-    "published": "Thu, 15 Oct 2026 10:15:32 +0000",
-    "summary": "<p>The Hirudo malware combines elements of a traditional banking trojan and a full-featured RAT.</p>\n<p>The post <a href=\"https://www.securityweek.com/novel-android-banking-rat-hirudo-replaces-banking-apps-with-trojanized-copies/\">Novel Android RAT &#8216;Hirudo&#8217; Replaces Banking Apps With Trojanized Copies</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The Hirudo malware combines elements of a traditional banking trojan and a full-featured RAT",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Malware",
-        "Phishing",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "CenterPoint Energy Data Breach Impacts 1 Million Texans",
-    "link": "https://www.securityweek.com/centerpoint-energy-data-breach-impacts-1-million-texans/",
-    "published": "Thu, 15 Oct 2026 09:55:19 +0000",
-    "summary": "<p>Personal information such as names, addresses, Social Security numbers, and driver’s license numbers was compromised.</p>\n<p>The post <a href=\"https://www.securityweek.com/centerpoint-energy-data-breach-impacts-1-million-texans/\">CenterPoint Energy Data Breach Impacts 1 Million Texans</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Personal information such as names, addresses, Social Security numbers, and driver’s license numbers was compromised",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "CISO Conversations: James Robinson – Many Jobs, One Journey to Netskope CISO",
-    "link": "https://www.securityweek.com/ciso-conversations-james-robinson-many-jobs-one-journey-to-netskope-ciso/",
-    "published": "Thu, 15 Oct 2026 08:26:40 +0000",
-    "summary": "<p>James Robinson never planned a cybersecurity career — seven companies and one deputy CISO role later, he leads security at Netskope.</p>\n<p>The post <a href=\"https://www.securityweek.com/ciso-conversations-james-robinson-many-jobs-one-journey-to-netskope-ciso/\">CISO Conversations: James Robinson – Many Jobs, One Journey to Netskope CISO</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "James Robinson never planned a cybersecurity career — seven companies and one deputy CISO role later, he leads security at Netskope",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Palo Alto Networks Patches PAN-OS Zero-Day Exploited for Remote Code Execution",
-    "link": "https://www.securityweek.com/palo-alto-networks-patches-pan-os-zero-day-exploited-for-remote-code-execution/",
-    "published": "Thu, 15 Oct 2026 06:59:54 +0000",
-    "summary": "<p>The company says it’s aware of limited exploitation against customers’ firewalls, and it has made IoCs available.</p>\n<p>The post <a href=\"https://www.securityweek.com/palo-alto-networks-patches-pan-os-zero-day-exploited-for-remote-code-execution/\">Palo Alto Networks Patches PAN-OS Zero-Day Exploited for Remote Code Execution</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The company says it’s aware of limited exploitation against customers’ firewalls, and it has made IoCs available",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-0322"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Cisco Warns of Exploited Secure Email Gateway Vulnerability",
-    "link": "https://www.securityweek.com/cisco-warns-of-exploited-secure-email-gateway-vulnerability/",
-    "published": "Thu, 15 Oct 2026 06:34:15 +0000",
-    "summary": "<p>Unauthenticated, remote attackers could write arbitrary files to the operating system and execute commands with root privileges.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-warns-of-exploited-secure-email-gateway-vulnerability/\">Cisco Warns of Exploited Secure Email Gateway Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Unauthenticated, remote attackers could write arbitrary files to the operating system and execute commands with root privileges",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-76519",
-        "CVE-2026-76440",
-        "CVE-2026-76461"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "The Q3 Vulnerability Pulse: Discovery ≠ Exploitation",
     "link": "https://blog.talosintelligence.com/the-q3-vulnerability-pulse-discovery-exploitation/",
@@ -814,9 +820,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-70229",
+        "CVE-2026-70571",
         "CVE-2026-96951",
-        "CVE-2026-70571"
+        "CVE-2026-70229"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -894,10 +900,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-48388",
         "CVE-2026-57256",
-        "CVE-2026-50475",
-        "CVE-2026-91799"
+        "CVE-2026-48388",
+        "CVE-2026-91799",
+        "CVE-2026-50475"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1308,8 +1314,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1334,6 +1340,42 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "“Spray and pray” job applications could make it harder for you to spot a scam",
+    "link": "https://www.malwarebytes.com/blog/news/2026/10/spray-and-pray-job-applications-could-make-it-harder-for-you-to-spot-a-scam",
+    "published": "Fri, 16 Oct 2026 11:55:15 GMT",
+    "summary": "Sending out lots of job applications without keeping track could make a scammer’s message look like a reply you’ve been waiting for.",
+    "analysis": {
+      "issue": "AI can help you send more job applications",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "OpenAI sued over children safety and data use",
+    "link": "https://www.malwarebytes.com/blog/ai/2026/10/openai-sued-over-children-safety-and-data-use",
+    "published": "Fri, 16 Oct 2026 10:51:20 GMT",
+    "summary": "Eight US states and a mother of two accuse the ChatGPT maker of putting children’s safety and privacy at risk.",
+    "analysis": {
+      "issue": "OpenAI is facing separate legal challenges over how ChatGPT interacts with children",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1475,42 +1517,6 @@
     "summary": "Anthropic’s Claude submitted a made-up tip about an unsolved murder during testing.",
     "analysis": {
       "issue": "Police tip hotlines already have their fair share of crank callers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Grindr users’ sensitive data shared through ad auctions without valid consent",
-    "link": "https://www.malwarebytes.com/blog/news/2026/10/grindr-users-sensitive-data-shared-through-ad-auctions-without-valid-consent",
-    "published": "Tue, 13 Oct 2026 13:00:27 GMT",
-    "summary": "Advertising company Xandr has been fined $9.6 million over data sharing that could reveal Grindr users’ sexual orientation.",
-    "analysis": {
-      "issue": "Norway’s privacy regulator Datatilsynet has fined advertising technology company Xandr 92 million Norwegian kroner, approximately $9",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Hackers heat up supermarket fridges, spoiling food across France",
-    "link": "https://www.malwarebytes.com/blog/news/2026/10/hackers-heat-up-supermarket-fridges-spoiling-food-across-france",
-    "published": "Tue, 13 Oct 2026 11:17:41 GMT",
-    "summary": "A cyberattack on supermarket temperature-control systems in France left spoiled food, empty shelves, and reports of fires.",
-    "analysis": {
-      "issue": "A cyberattack has forced hundreds of supermarkets across France to throw away refrigerated and frozen food after attackers interfered with the systems that keep it cold",
       "solution": null,
       "cause": null,
       "timeline": null,
