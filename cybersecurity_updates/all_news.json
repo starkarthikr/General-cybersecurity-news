@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
+    "link": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
+    "published": "Fri, 16 Oct 2026 19:33:04 +0530",
+    "summary": "OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research model, after not having funds on an Ethereum test network, spent test cryptocurrency from a third-party's wallet without authorization to complete a coding task.\n\nThe incident, the AI company said, involved an internal research model part",
+    "analysis": {
+      "issue": "OpenAI disclosed seven model misalignment incidents, including unauthorized Sepolia ETH spending and access to non-public data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "AI Decision Models and Their Impact on AI SOC Platforms",
     "link": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
     "published": "Fri, 16 Oct 2026 17:00:00 +0530",
@@ -167,20 +185,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks",
-    "link": "https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html",
-    "published": "Thu, 15 Oct 2026 18:28:05 +0530",
-    "summary": "NGINX released&nbsp;versions 1.30.6 and 1.31.7&nbsp;on October 14 to fix five vulnerabilities, one of them present in every release since May 2005.\n\nThere are three memory bugs that F5, the company behind NGINX, says could crash a worker process or possibly let an attacker run code, and each requires a specific configuration to exploit.\n\nA fourth lets an attacker forge a TLS session that could",
+    "source": "Bleeping Computer",
+    "title": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
+    "link": "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
+    "published": "Fri, 16 Oct 2026 09:50:59 -0400",
+    "summary": "Employees using personal ChatGPT accounts at work can expose sensitive company data, even when their organization provides an approved Enterprise workspace. NordLayer explains how IT teams can investigate unauthorized AI use and block sensitive information before it reaches personal accounts. [...]",
     "analysis": {
-      "issue": "7 fix five configuration-dependent flaws, including three memory bugs that could crash workers or enable code execution",
+      "issue": "Article written by Vakaris Noreika, VP of Product Research and Development at NordLayer Monday morning, you handle security for an organization, and suddenly, your security tools flag personal ChatGPT use on a managed laptop, even though your org pay",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "APT"
       ]
     }
   },
@@ -228,7 +246,7 @@
     "published": "Fri, 16 Oct 2026 03:37:35 -0400",
     "summary": "The Administrative Office of the US Courts says a cyberattack on government contractor BAE Systems has taken down the notice system used by federal bankruptcy courts. [...]",
     "analysis": {
-      "issue": "The Administrative Office of the US Courts says a cyberattack on government contractor BAE Systems has taken down the notice system used by federal bankruptcy courts",
+      "issue": "The Administrative Office of the US Courts (AOUSC) says a cyberattack on government contractor BAE Systems has taken down the notice system used by federal bankruptcy courts",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -355,24 +373,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Microsoft: Windows Server 2022 reached end of mainstream support",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
-    "published": "Thu, 15 Oct 2026 09:18:36 -0400",
-    "summary": "Microsoft announced that Windows Server 2022 has reached the end of mainstream support and will remain in extended support until October 2031. [...]",
-    "analysis": {
-      "issue": "Microsoft announced that Windows Server 2022 has reached the end of mainstream support and will remain in extended support until October 2031",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
     "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
@@ -403,8 +403,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-108398",
-        "CVE-2026-96951"
+        "CVE-2026-96951",
+        "CVE-2026-108398"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -520,10 +520,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69730",
-        "CVE-2026-81963",
         "CVE-2026-85880",
-        "CVE-2026-69829"
+        "CVE-2026-69829",
+        "CVE-2026-81963",
+        "CVE-2026-69730"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -571,6 +571,29 @@
   },
   {
     "source": "Security Week",
+    "title": "In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit",
+    "link": "https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/",
+    "published": "Fri, 16 Oct 2026 14:09:51 +0000",
+    "summary": "<p>Noteworthy stories that might have slipped under the radar: BofA adds 1,000 patching contractors, KGB RAT pairs data theft with jump scares, and Langflow flaw under attack.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/\">In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Noteworthy stories that might have slipped under the radar: BofA adds 1,000 patching contractors, KGB RAT pairs data theft with jump scares, and Langflow flaw under attack",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-105740"
+      ],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "BAE Systems Security Incident Stalls Notices From US Bankruptcy Courts",
     "link": "https://www.securityweek.com/bae-systems-security-incident-stalls-notices-from-us-bankruptcy-courts/",
     "published": "Fri, 16 Oct 2026 11:46:40 +0000",
@@ -600,12 +623,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2023-4966",
         "CVE-2025-0282",
         "CVE-2026-22769",
+        "CVE-2023-46805",
         "CVE-2024-21887",
-        "CVE-2026-102764",
-        "CVE-2023-4966",
-        "CVE-2023-46805"
+        "CVE-2026-102764"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -749,26 +772,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Supermarket Refrigeration Attack Widens to Copeland, Dixell Controllers",
-    "link": "https://www.securityweek.com/supermarket-refrigeration-attack-widens-to-copeland-dixell-controllers/",
-    "published": "Thu, 15 Oct 2026 12:50:42 +0000",
-    "summary": "<p>Roughly 700 French supermarkets were hit by the cyberattacks, for which no group has claimed responsibility.</p>\n<p>The post <a href=\"https://www.securityweek.com/supermarket-refrigeration-attack-widens-to-copeland-dixell-controllers/\">Supermarket Refrigeration Attack Widens to Copeland, Dixell Controllers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Roughly 700 French supermarkets were hit by the cyberattacks, for which no group has claimed responsibility",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "The Q3 Vulnerability Pulse: Discovery ≠ Exploitation",
     "link": "https://blog.talosintelligence.com/the-q3-vulnerability-pulse-discovery-exploitation/",
@@ -781,8 +784,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2015-1000013",
-        "CVE-2014-125110"
+        "CVE-2014-125110",
+        "CVE-2015-1000013"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -820,9 +823,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-70571",
+        "CVE-2026-70229",
         "CVE-2026-96951",
-        "CVE-2026-70229"
+        "CVE-2026-70571"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -957,6 +960,42 @@
     "summary": "What really frustrates an adversary? Eight Cisco Talos researchers share practical ways to make their next move slower and riskier, from deception and behavioral detection to breaking attack dependencies and resisting manufactured urgency.",
     "analysis": {
       "issue": "Years ago, Cisco Talos blocked an adversary’s command-and-control (C2) traffic",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "TAG-217 Targets South Korean Financial Services with ARTEX",
+    "link": "https://www.recordedfuture.com/blog/tag-217-artex-south-korean-banks",
+    "published": "Fri, 16 Oct 2026 00:00:00 GMT",
+    "summary": "Learn how threat actor TAG-217 used the AI-driven ARTEX framework to target South Korean financial institutions in recent cyberattacks.",
+    "analysis": {
+      "issue": "Learn how threat actor TAG-217 used the AI-driven ARTEX framework to target South Korean financial institutions in recent cyberattacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "Working in Boston at the World’s Largest Intelligence Company",
+    "link": "https://www.recordedfuture.com/blog/working-in-boston",
+    "published": "Thu, 15 Oct 2026 00:00:00 GMT",
+    "summary": "Discover Recorded Future's new Boston headquarters at Post Office Square. Explore our journey from a Somerville laundromat, vibrant culture, and modern workspace.",
+    "analysis": {
+      "issue": "Discover Recorded Future's new Boston headquarters at Post Office Square",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1108,42 +1147,6 @@
       "cves": [],
       "threat_categories": [
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Recorded Future Launches MCP, the Intelligence Layer for Agentic Security Operations",
-    "link": "https://www.recordedfuture.com/blog/mcp-intelligence-layer",
-    "published": "Mon, 28 Sep 2026 00:00:00 GMT",
-    "summary": "Recorded Future launches Model Context Protocol (MCP), providing AI agents and LLM workflows direct access to the Intelligence Graph® for accurate, automated decision-making.",
-    "analysis": {
-      "issue": "Recorded Future launches Model Context Protocol (MCP), providing AI agents and LLM workflows direct access to the Intelligence Graph® for accurate, automated decision-making",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Using Threat Intelligence to Stop Ransomware Attacks",
-    "link": "https://www.recordedfuture.com/blog/ransomware-threat-intelligence",
-    "published": "Fri, 25 Sep 2026 00:00:00 GMT",
-    "summary": "Learn how ransomware threat intelligence empowers your team to actively follow adversary infrastructure, monitor dark web chatter and prevent attacks.",
-    "analysis": {
-      "issue": "Learn how ransomware threat intelligence empowers your team to actively follow adversary infrastructure, monitor dark web chatter and prevent attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
       ]
     }
   },
@@ -1345,6 +1348,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Eiliko robot companion exposes private chats and can be hijacked",
+    "link": "https://www.malwarebytes.com/blog/ai/2026/10/eiliko-robot-companion-exposes-private-chats-and-can-be-hijacked",
+    "published": "Fri, 16 Oct 2026 14:28:33 GMT",
+    "summary": "A researcher found serious flaws in Eiliko’s security, exposing private conversations and allowing remote changes to what the robot says.",
+    "analysis": {
+      "issue": "The Verge reports that Eiliko, a small AI robot companion made by Energize Lab, has serious security flaws that expose private conversations and let an attacker remotely change what the toy says",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "“Spray and pray” job applications could make it harder for you to spot a scam",
     "link": "https://www.malwarebytes.com/blog/news/2026/10/spray-and-pray-job-applications-could-make-it-harder-for-you-to-spot-a-scam",
     "published": "Fri, 16 Oct 2026 11:55:15 GMT",
@@ -1483,8 +1504,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-108398",
-        "CVE-2026-96951"
+        "CVE-2026-96951",
+        "CVE-2026-108398"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1506,24 +1527,6 @@
       "cves": [],
       "threat_categories": [
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Police receive fake murder tip from Anthropic’s Claude AI",
-    "link": "https://www.malwarebytes.com/blog/ai/2026/10/police-receive-fake-murder-tip-from-anthropics-claude-ai",
-    "published": "Wed, 14 Oct 2026 10:43:39 GMT",
-    "summary": "Anthropic’s Claude submitted a made-up tip about an unsolved murder during testing.",
-    "analysis": {
-      "issue": "Police tip hotlines already have their fair share of crank callers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
