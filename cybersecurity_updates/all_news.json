@@ -1,6 +1,61 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
+    "link": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
+    "published": "Fri, 16 Oct 2026 23:18:45 +0530",
+    "summary": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardware protections. Security firm Calif, which found and reported the flaws, published a detailed writeup and full proof-of-concept code after OpenBSD shipped",
+    "analysis": {
+      "issue": "9 proof-of-concept chains a 37-year-old integer overflow with a kernel use-after-free to gain root; both flaws are patched",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
+    "link": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
+    "published": "Fri, 16 Oct 2026 22:13:39 +0530",
+    "summary": "Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the Windows backup program that checked for an update during one of those windows would download and run a backdoor.\n\nGoogle Threat Intelligence Group, Mandiant, and&nbsp;ManageEngine's Threat Analysis",
+    "analysis": {
+      "issue": "Attackers altered AOMEI Backupper update files for 5 to 10 minutes at a time, delivering SHINYROAD to systems that checked for updates",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
+    "link": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
+    "published": "Fri, 16 Oct 2026 21:46:44 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct victims to an adversary-in-the-middle (AitM) phishing framework designed to harvest their Google account credentials and multi-factor authentication (MFA) codes.\n\nThe activity is being tracked by",
+    "analysis": {
+      "issue": "UAT-11985 targets Taiwan research affiliates with fake event invites that lead to AitM pages designed to capture Google passwords and MFA codes",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
     "link": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
     "published": "Fri, 16 Oct 2026 19:33:04 +0530",
@@ -129,58 +184,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads",
-    "link": "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html",
-    "published": "Thu, 15 Oct 2026 21:31:57 +0530",
-    "summary": "Candiru, an Israeli maker of spyware sold to governments, infected devices at the news network Al Jazeera through ordinary online ads, in attacks that needed no click or other action from the user, researchers at&nbsp;the Citizen Lab&nbsp;said Thursday.\n\nThe hidden attack code ran the moment an ad loaded on the screen, and in some cases the ad loaded out of sight, in the background.\n\nThe Citizen",
+    "source": "Bleeping Computer",
+    "title": "Targeted ads installed Candiru spyware in zero-click attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
+    "published": "Fri, 16 Oct 2026 13:20:03 -0400",
+    "summary": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device. [...]",
     "analysis": {
-      "issue": "Citizen Lab linked Candiru spyware infections at Al Jazeera to targeted ads that triggered attacks without clicks or user action",
+      "issue": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks",
-    "link": "https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html",
-    "published": "Thu, 15 Oct 2026 21:30:26 +0530",
-    "summary": "The threat actor known as Silent Lynx has been attributed to a fresh set of attacks targeting government organizations across the Commonwealth of Independent States (CIS).\n\nThe activity, observed from June 2025 through August 2026, involves four different infection chains that make use of macro-enabled documents, PS2EXE downloaders, GitHub-hosted PowerShell, and crafted WinRAR archives",
-    "analysis": {
-      "issue": "Silent Lynx exploited WinRAR CVE-2025-8088 to place PickleShell in the Windows Startup folder during attacks on CIS governments",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2025-8088"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams",
-    "link": "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html",
-    "published": "Thu, 15 Oct 2026 19:41:36 +0530",
-    "summary": "A long-running Traffic Distribution System (TDS) known as Help TDS to a Russian-language affiliate program called Hotejka, which appears to be a rebrand of a traffic monetization operation dubbed ROI777.\n\nHelp TDS is assessed to be active since at least 2017, offering PHP code templates to partners and affiliates that are installed into compromised websites with an aim to direct unsuspecting",
-    "analysis": {
-      "issue": "Help TDS routes visitors to tech support scams, with Infoblox linking Hotejka to ROI777 and tracking over 20,000 Cloudflare Pages domains",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
+        "Data Breach"
       ]
     }
   },
@@ -355,24 +372,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Is AI pentesting as good as a human pentester?",
-    "link": "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/",
-    "published": "Thu, 15 Oct 2026 10:01:11 -0400",
-    "summary": "AI pentesting can uncover vulnerabilities missed by human testers, but it also has limitations in consistency, risk assessment, and understanding business context. Intruder compares the strengths and weaknesses of both approaches and explains where AI agents can improve security testing. [...]",
-    "analysis": {
-      "issue": "With the rise of AI pentesting, a lot of people are wondering if it’s as good as a human",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
     "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
@@ -403,8 +402,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-96951",
-        "CVE-2026-108398"
+        "CVE-2026-108398",
+        "CVE-2026-96951"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -520,9 +519,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-85880",
         "CVE-2026-69829",
         "CVE-2026-81963",
+        "CVE-2026-85880",
         "CVE-2026-69730"
       ],
       "threat_categories": [
@@ -624,11 +623,11 @@
       "severity": "Critical",
       "cves": [
         "CVE-2023-4966",
-        "CVE-2025-0282",
-        "CVE-2026-22769",
-        "CVE-2023-46805",
         "CVE-2024-21887",
-        "CVE-2026-102764"
+        "CVE-2023-46805",
+        "CVE-2026-102764",
+        "CVE-2026-22769",
+        "CVE-2025-0282"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -903,10 +902,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-57256",
-        "CVE-2026-48388",
         "CVE-2026-91799",
-        "CVE-2026-50475"
+        "CVE-2026-50475",
+        "CVE-2026-57256",
+        "CVE-2026-48388"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1504,8 +1503,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-96951",
-        "CVE-2026-108398"
+        "CVE-2026-108398",
+        "CVE-2026-96951"
       ],
       "threat_categories": [
         "Vulnerability"

@@ -1,10 +1,37 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-16 16:24:42 UTC
+**Last Updated:** 2026-10-16 19:38:37 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract](https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html)
+### 1. [Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug](https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 16 Oct 2026 23:18:45 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor](https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 16 Oct 2026 22:13:39 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 3. [UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing](https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 16 Oct 2026 21:46:44 +0530  
+**Severity:** Low  
+**Categories:** Phishing, APT  
+
+---
+
+### 4. [OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract](https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 16 Oct 2026 19:33:04 +0530  
@@ -13,7 +40,7 @@
 
 ---
 
-### 2. [AI Decision Models and Their Impact on AI SOC Platforms](https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html)
+### 5. [AI Decision Models and Their Impact on AI SOC Platforms](https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 16 Oct 2026 17:00:00 +0530  
@@ -22,7 +49,7 @@
 
 ---
 
-### 3. [China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers](https://thehackernews.com/2026/10/china-linked-hackers-exploited.html)
+### 6. [China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers](https://thehackernews.com/2026/10/china-linked-hackers-exploited.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 16 Oct 2026 12:25:55 +0530  
@@ -31,7 +58,7 @@
 
 ---
 
-### 4. [CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing](https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html)
+### 7. [CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing](https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 16 Oct 2026 12:23:09 +0530  
@@ -40,7 +67,7 @@
 
 ---
 
-### 5. [PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions](https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html)
+### 8. [PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions](https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 16 Oct 2026 10:29:36 +0530  
@@ -49,7 +76,7 @@
 
 ---
 
-### 6. [Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory](https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html)
+### 9. [Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory](https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 16 Oct 2026 01:54:36 +0530  
@@ -58,7 +85,7 @@
 
 ---
 
-### 7. [ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More](https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html)
+### 10. [ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More](https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 16 Oct 2026 00:19:33 +0530  
@@ -67,35 +94,16 @@
 
 ---
 
-### 8. [Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads](https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html)
+### 11. [Targeted ads installed Candiru spyware in zero-click attacks](https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 15 Oct 2026 21:31:57 +0530  
+**Source:** Bleeping Computer  
+**Published:** Fri, 16 Oct 2026 13:20:03 -0400  
 **Severity:** Low  
-**Categories:** General Security  
+**Categories:** Data Breach  
 
 ---
 
-### 9. [Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks](https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 15 Oct 2026 21:30:26 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2025-8088  
-**Categories:** Vulnerability  
-
----
-
-### 10. [Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams](https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 15 Oct 2026 19:41:36 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 11. [Employees using personal ChatGPT at work? Here's what IT admins need to do](https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/)
+### 12. [Employees using personal ChatGPT at work? Here's what IT admins need to do](https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 16 Oct 2026 09:50:59 -0400  
@@ -104,7 +112,7 @@
 
 ---
 
-### 12. [Burger King Japan data breach exposes 11 million customer records](https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/)
+### 13. [Burger King Japan data breach exposes 11 million customer records](https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 16 Oct 2026 08:01:29 -0400  
@@ -113,7 +121,7 @@
 
 ---
 
-### 13. [Microsoft: October Windows update may break Smart App Control](https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/)
+### 14. [Microsoft: October Windows update may break Smart App Control](https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 16 Oct 2026 04:44:22 -0400  
@@ -122,7 +130,7 @@
 
 ---
 
-### 14. [BAE Systems cyberattack disrupts US federal court operations](https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/)
+### 15. [BAE Systems cyberattack disrupts US federal court operations](https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 16 Oct 2026 03:37:35 -0400  
@@ -131,7 +139,7 @@
 
 ---
 
-### 15. [BeyondTrust patches zero-day exploited in attacks since August](https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/)
+### 16. [BeyondTrust patches zero-day exploited in attacks since August](https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 16 Oct 2026 02:18:08 -0400  
@@ -141,7 +149,7 @@
 
 ---
 
-### 16. [Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers](https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/)
+### 17. [Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers](https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 15 Oct 2026 16:25:04 -0400  
@@ -151,7 +159,7 @@
 
 ---
 
-### 17. [Android gets AI defenses against messaging scams, fake calls](https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/)
+### 18. [Android gets AI defenses against messaging scams, fake calls](https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 15 Oct 2026 15:48:43 -0400  
@@ -160,7 +168,7 @@
 
 ---
 
-### 18. [Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth](https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/)
+### 19. [Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth](https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 15 Oct 2026 14:20:59 -0400  
@@ -169,21 +177,12 @@
 
 ---
 
-### 19. [Fake Arch Linux packages push malware with root privileges](https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/)
+### 20. [Fake Arch Linux packages push malware with root privileges](https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 15 Oct 2026 13:12:31 -0400  
 **Severity:** Low  
 **Categories:** Malware, Supply Chain  
-
----
-
-### 20. [Is AI pentesting as good as a human pentester?](https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 15 Oct 2026 10:01:11 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability  
 
 ---
 
@@ -201,7 +200,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 13 Oct 2026 23:24:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-96951, CVE-2026-108398  
+**CVEs:** CVE-2026-108398, CVE-2026-96951  
 **Categories:** Vulnerability  
 
 ---
@@ -257,7 +256,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-85880, CVE-2026-69829, CVE-2026-81963, CVE-2026-69730  
+**CVEs:** CVE-2026-69829, CVE-2026-81963, CVE-2026-85880, CVE-2026-69730  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -304,7 +303,7 @@
 **Source:** Security Week  
 **Published:** Fri, 16 Oct 2026 10:53:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2023-4966, CVE-2025-0282, CVE-2026-22769, CVE-2023-46805, CVE-2024-21887, CVE-2026-102764  
+**CVEs:** CVE-2023-4966, CVE-2024-21887, CVE-2023-46805, CVE-2026-102764, CVE-2026-22769, CVE-2025-0282  
 **Categories:** Vulnerability, Malware, Phishing, APT  
 
 ---
@@ -434,7 +433,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 07 Oct 2026 19:27:08 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-57256, CVE-2026-48388, CVE-2026-91799, CVE-2026-50475  
+**CVEs:** CVE-2026-91799, CVE-2026-50475, CVE-2026-57256, CVE-2026-48388  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -728,7 +727,7 @@
 **Source:** Malwarebytes  
 **Published:** Wed, 14 Oct 2026 11:26:09 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-96951, CVE-2026-108398  
+**CVEs:** CVE-2026-108398, CVE-2026-96951  
 **Categories:** Vulnerability  
 
 ---
