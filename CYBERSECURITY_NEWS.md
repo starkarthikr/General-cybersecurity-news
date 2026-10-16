@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-15 19:59:06 UTC
+**Last Updated:** 2026-10-16 04:00:43 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More](https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html)
+### 1. [Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory](https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 16 Oct 2026 01:54:36 +0530  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More](https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 16 Oct 2026 00:19:33 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads](https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html)
+### 3. [Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads](https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 15 Oct 2026 21:31:57 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks](https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html)
+### 4. [Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks](https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 15 Oct 2026 21:30:26 +0530  
@@ -32,7 +41,7 @@
 
 ---
 
-### 4. [Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams](https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html)
+### 5. [Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams](https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 15 Oct 2026 19:41:36 +0530  
@@ -41,7 +50,7 @@
 
 ---
 
-### 5. [NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks](https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html)
+### 6. [NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks](https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 15 Oct 2026 18:28:05 +0530  
@@ -50,7 +59,7 @@
 
 ---
 
-### 6. [Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing](https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html)
+### 7. [Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing](https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 15 Oct 2026 17:58:13 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [Drupal Patches Critical Field UI Flaw With Unauthenticated RCE Path via Contributed Modules](https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html)
+### 8. [Drupal Patches Critical Field UI Flaw With Unauthenticated RCE Path via Contributed Modules](https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 15 Oct 2026 17:37:20 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early](https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html)
+### 9. [Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early](https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 15 Oct 2026 17:16:59 +0530  
@@ -77,7 +86,7 @@
 
 ---
 
-### 9. [Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation](https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html)
+### 10. [Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation](https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 15 Oct 2026 17:16:49 +0530  
@@ -86,16 +95,17 @@
 
 ---
 
-### 10. [Why AI Confidence Is Not Validation](https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html)
+### 11. [Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers](https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 15 Oct 2026 16:34:35 +0530  
-**Severity:** Low  
-**Categories:** General Security  
+**Source:** Bleeping Computer  
+**Published:** Thu, 15 Oct 2026 16:25:04 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-110447  
+**Categories:** Vulnerability, Malware  
 
 ---
 
-### 11. [Android gets AI defenses against messaging scams, fake calls](https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/)
+### 12. [Android gets AI defenses against messaging scams, fake calls](https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 15 Oct 2026 15:48:43 -0400  
@@ -104,7 +114,7 @@
 
 ---
 
-### 12. [Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth](https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/)
+### 13. [Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth](https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 15 Oct 2026 14:20:59 -0400  
@@ -113,7 +123,7 @@
 
 ---
 
-### 13. [Fake Arch Linux packages push malware with root privileges](https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/)
+### 14. [Fake Arch Linux packages push malware with root privileges](https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 15 Oct 2026 13:12:31 -0400  
@@ -122,7 +132,7 @@
 
 ---
 
-### 14. [Is AI pentesting as good as a human pentester?](https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/)
+### 15. [Is AI pentesting as good as a human pentester?](https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 15 Oct 2026 10:01:11 -0400  
@@ -131,7 +141,7 @@
 
 ---
 
-### 15. [Microsoft: Windows Server 2022 reached end of mainstream support](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/)
+### 16. [Microsoft: Windows Server 2022 reached end of mainstream support](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 15 Oct 2026 09:18:36 -0400  
@@ -140,7 +150,7 @@
 
 ---
 
-### 16. [Police arrests 95 suspects in international CSAM crackdown action](https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/)
+### 17. [Police arrests 95 suspects in international CSAM crackdown action](https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 15 Oct 2026 07:55:38 -0400  
@@ -149,7 +159,7 @@
 
 ---
 
-### 17. [Microsoft fixes bug causing Windows black screens, Explorer crashes](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/)
+### 18. [Microsoft fixes bug causing Windows black screens, Explorer crashes](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 15 Oct 2026 05:10:20 -0400  
@@ -158,7 +168,7 @@
 
 ---
 
-### 18. [UK Legal Aid Agency: Hackers stole records dating back to 1978](https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978/)
+### 19. [UK Legal Aid Agency: Hackers stole records dating back to 1978](https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 15 Oct 2026 04:06:47 -0400  
@@ -167,22 +177,13 @@
 
 ---
 
-### 19. [Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/)
+### 20. [Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 14 Oct 2026 18:56:47 -0400  
 **Severity:** Critical  
 **CVEs:** CVE-2026-0322  
 **Categories:** Vulnerability  
-
----
-
-### 20. [FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested](https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 14 Oct 2026 15:41:43 -0400  
-**Severity:** Low  
-**Categories:** Malware, APT  
 
 ---
 
@@ -200,7 +201,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 13 Oct 2026 23:24:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-108398, CVE-2026-96951  
+**CVEs:** CVE-2026-96951, CVE-2026-108398  
 **Categories:** Vulnerability  
 
 ---
@@ -256,7 +257,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69730, CVE-2026-85880, CVE-2026-69829, CVE-2026-81963  
+**CVEs:** CVE-2026-85880, CVE-2026-69829, CVE-2026-69730, CVE-2026-81963  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -366,7 +367,7 @@
 **Source:** Security Week  
 **Published:** Thu, 15 Oct 2026 06:34:15 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-76461, CVE-2026-76440, CVE-2026-76519  
+**CVEs:** CVE-2026-76440, CVE-2026-76519, CVE-2026-76461  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -376,7 +377,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 15 Oct 2026 18:00:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2015-1000013, CVE-2014-125110  
+**CVEs:** CVE-2014-125110, CVE-2015-1000013  
 **Categories:** Vulnerability  
 
 ---
@@ -395,7 +396,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 13 Oct 2026 20:37:58 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-70571, CVE-2026-70229, CVE-2026-96951  
+**CVEs:** CVE-2026-96951, CVE-2026-70571, CVE-2026-70229  
 **Categories:** Vulnerability  
 
 ---
@@ -432,7 +433,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 07 Oct 2026 19:27:08 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-57256, CVE-2026-50475, CVE-2026-91799, CVE-2026-48388  
+**CVEs:** CVE-2026-50475, CVE-2026-57256, CVE-2026-48388, CVE-2026-91799  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -634,7 +635,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -699,7 +700,7 @@
 **Source:** Malwarebytes  
 **Published:** Wed, 14 Oct 2026 11:26:09 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-108398, CVE-2026-96951  
+**CVEs:** CVE-2026-96951, CVE-2026-108398  
 **Categories:** Vulnerability  
 
 ---

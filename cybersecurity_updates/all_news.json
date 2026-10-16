@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
+    "link": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
+    "published": "Fri, 16 Oct 2026 01:54:36 +0530",
+    "summary": "A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against Vercel's live cloud sandboxes, and Vercel confirmed it.\n\nThe flaw, now tracked as CVE-2026-99999 and nicknamed PwnEscape, is in the Linux kernel's networking code, not in any one cloud's setup, so it reaches the shared",
+    "analysis": {
+      "issue": "A critical Linux kernel flaw let a guest VM read host memory in Vercel's live sandboxes; host code execution was shown only in lab tests",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More",
     "link": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
     "published": "Fri, 16 Oct 2026 00:19:33 +0530",
@@ -166,20 +184,23 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Why AI Confidence Is Not Validation",
-    "link": "https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html",
-    "published": "Thu, 15 Oct 2026 16:34:35 +0530",
-    "summary": "AI is already part of digital forensics and incident response work, with or without a policy in place to govern it. The issue is that these tools are growing more confident in their own output faster than practitioners are developing reliable ways to verify it. Without governance models and validation standards in place, that gap compounds and rarely stays contained to a workstation: an",
+    "source": "Bleeping Computer",
+    "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
+    "published": "Thu, 15 Oct 2026 16:25:04 -0400",
+    "summary": "Threat actors are exploiting a critical command execution flaw, now tracked as CVE-2026-110447, in the Collabora Online - Built-in CODE Server app (richdocumentscode) for Nextcloud. [...]",
     "analysis": {
-      "issue": "SANS introduces separate AI frameworks for digital forensics and incident response, emphasizing independent validation and human oversight",
+      "issue": "Threat actors are exploiting a critical command execution flaw, now tracked as CVE-2026-110447, in the Collabora Online - Built-in CODE Server app (richdocumentscode) for Nextcloud",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-110447"
+      ],
       "threat_categories": [
-        "General Security"
+        "Vulnerability",
+        "Malware"
       ]
     }
   },
@@ -349,25 +370,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested",
-    "link": "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/",
-    "published": "Wed, 14 Oct 2026 15:41:43 -0400",
-    "summary": "The U.S. Department of Justice (DoJ) has disrupted the Famous Chollima threat group's operations by arresting two suspects, charging 14 individuals, and seizing nearly 187 laptops used in North Korean remote IT worker schemes. [...]",
-    "analysis": {
-      "issue": "Update: The story had been updated to fix an unintended typo in the header image",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
     "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
@@ -398,8 +400,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-108398",
-        "CVE-2026-96951"
+        "CVE-2026-96951",
+        "CVE-2026-108398"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -515,9 +517,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69730",
         "CVE-2026-85880",
         "CVE-2026-69829",
+        "CVE-2026-69730",
         "CVE-2026-81963"
       ],
       "threat_categories": [
@@ -750,9 +752,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-76461",
         "CVE-2026-76440",
-        "CVE-2026-76519"
+        "CVE-2026-76519",
+        "CVE-2026-76461"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -773,8 +775,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2015-1000013",
-        "CVE-2014-125110"
+        "CVE-2014-125110",
+        "CVE-2015-1000013"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -812,9 +814,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-96951",
         "CVE-2026-70571",
-        "CVE-2026-70229",
-        "CVE-2026-96951"
+        "CVE-2026-70229"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -892,10 +894,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-57256",
         "CVE-2026-50475",
-        "CVE-2026-91799",
-        "CVE-2026-48388"
+        "CVE-2026-57256",
+        "CVE-2026-48388",
+        "CVE-2026-91799"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1306,8 +1308,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1439,8 +1441,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-108398",
-        "CVE-2026-96951"
+        "CVE-2026-96951",
+        "CVE-2026-108398"
       ],
       "threat_categories": [
         "Vulnerability"
