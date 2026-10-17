@@ -40,7 +40,7 @@
     "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
     "link": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
     "published": "Fri, 16 Oct 2026 23:18:45 +0530",
-    "summary": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardware protections. Security firm Calif, which found and reported the flaws, published a detailed writeup and full proof-of-concept code after OpenBSD shipped",
+    "summary": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardware protections.Security firm Calif, which found and reported the flaws, published a detailed writeup and full proof-of-concept code after OpenBSD shipped",
     "analysis": {
       "issue": "9 proof-of-concept chains a 37-year-old integer overflow with a kernel use-after-free to gain root; both flaws are patched",
       "solution": null,
@@ -178,6 +178,24 @@
       "threat_categories": [
         "Vulnerability",
         "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
+    "published": "Sat, 17 Oct 2026 11:18:51 -0400",
+    "summary": "ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants. [...]",
+    "analysis": {
+      "issue": "ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -353,24 +371,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Android gets AI defenses against messaging scams, fake calls",
-    "link": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
-    "published": "Thu, 15 Oct 2026 15:48:43 -0400",
-    "summary": "Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices. [...]",
-    "analysis": {
-      "issue": "Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
     "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
@@ -518,10 +518,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69829",
         "CVE-2026-85880",
         "CVE-2026-69730",
-        "CVE-2026-81963"
+        "CVE-2026-81963",
+        "CVE-2026-69829"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -640,12 +640,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-22769",
-        "CVE-2026-102764",
-        "CVE-2023-4966",
         "CVE-2024-21887",
-        "CVE-2025-0282",
-        "CVE-2023-46805"
+        "CVE-2026-102764",
+        "CVE-2026-22769",
+        "CVE-2023-46805",
+        "CVE-2023-4966",
+        "CVE-2025-0282"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -822,9 +822,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-70571",
         "CVE-2026-96951",
-        "CVE-2026-70229",
-        "CVE-2026-70571"
+        "CVE-2026-70229"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -902,10 +902,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-91799",
-        "CVE-2026-50475",
         "CVE-2026-57256",
-        "CVE-2026-48388"
+        "CVE-2026-50475",
+        "CVE-2026-48388",
+        "CVE-2026-91799"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1316,8 +1316,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
