@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-17 03:51:21 UTC
+**Last Updated:** 2026-10-17 04:50:31 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -257,7 +257,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69730, CVE-2026-81963, CVE-2026-69829, CVE-2026-85880  
+**CVEs:** CVE-2026-85880, CVE-2026-69730, CVE-2026-81963, CVE-2026-69829  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -304,7 +304,7 @@
 **Source:** Security Week  
 **Published:** Fri, 16 Oct 2026 10:53:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-102764, CVE-2024-21887, CVE-2023-4966, CVE-2023-46805, CVE-2025-0282, CVE-2026-22769  
+**CVEs:** CVE-2023-4966, CVE-2024-21887, CVE-2026-22769, CVE-2023-46805, CVE-2026-102764, CVE-2025-0282  
 **Categories:** Vulnerability, Malware, Phishing, APT  
 
 ---
@@ -323,7 +323,7 @@
 **Source:** Security Week  
 **Published:** Fri, 16 Oct 2026 09:54:34 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-15176, CVE-2026-97205, CVE-2026-93479  
+**CVEs:** CVE-2026-93479, CVE-2026-97205, CVE-2026-15176  
 **Categories:** Vulnerability  
 
 ---
@@ -397,7 +397,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 13 Oct 2026 20:37:58 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-96951, CVE-2026-70571, CVE-2026-70229  
+**CVEs:** CVE-2026-70229, CVE-2026-70571, CVE-2026-96951  
 **Categories:** Vulnerability  
 
 ---
@@ -434,7 +434,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 07 Oct 2026 19:27:08 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-57256, CVE-2026-91799, CVE-2026-50475, CVE-2026-48388  
+**CVEs:** CVE-2026-48388, CVE-2026-91799, CVE-2026-57256, CVE-2026-50475  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -636,7 +636,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
