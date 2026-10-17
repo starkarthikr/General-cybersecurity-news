@@ -185,6 +185,26 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
+    "published": "Fri, 16 Oct 2026 16:00:59 -0400",
+    "summary": "Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on store servers. [...]",
+    "analysis": {
+      "issue": "Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on store servers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-103849"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Targeted ads installed Candiru spyware in zero-click attacks",
     "link": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
     "published": "Fri, 16 Oct 2026 13:20:03 -0400",
@@ -353,25 +373,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Fake Arch Linux packages push malware with root privileges",
-    "link": "https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/",
-    "published": "Thu, 15 Oct 2026 13:12:31 -0400",
-    "summary": "A threat actor uploaded malicious packages to the Arch User Repository (AUR) that impersonated two popular helper tools, yay and paru. [...]",
-    "analysis": {
-      "issue": "A threat actor uploaded malicious packages to the Arch User Repository (AUR) that impersonated two popular helper tools, yay and paru",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
     "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
@@ -402,8 +403,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-108398",
-        "CVE-2026-96951"
+        "CVE-2026-96951",
+        "CVE-2026-108398"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -519,10 +520,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69829",
+        "CVE-2026-69730",
         "CVE-2026-81963",
-        "CVE-2026-85880",
-        "CVE-2026-69730"
+        "CVE-2026-69829",
+        "CVE-2026-85880"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -622,12 +623,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2023-4966",
-        "CVE-2024-21887",
-        "CVE-2023-46805",
         "CVE-2026-102764",
-        "CVE-2026-22769",
-        "CVE-2025-0282"
+        "CVE-2024-21887",
+        "CVE-2023-4966",
+        "CVE-2023-46805",
+        "CVE-2025-0282",
+        "CVE-2026-22769"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -670,8 +671,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-15176",
-        "CVE-2026-93479",
-        "CVE-2026-97205"
+        "CVE-2026-97205",
+        "CVE-2026-93479"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -783,8 +784,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2014-125110",
-        "CVE-2015-1000013"
+        "CVE-2015-1000013",
+        "CVE-2014-125110"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -822,9 +823,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-70229",
         "CVE-2026-96951",
-        "CVE-2026-70571"
+        "CVE-2026-70571",
+        "CVE-2026-70229"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -902,9 +903,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
+        "CVE-2026-57256",
         "CVE-2026-91799",
         "CVE-2026-50475",
-        "CVE-2026-57256",
         "CVE-2026-48388"
       ],
       "threat_categories": [
@@ -1316,8 +1317,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1503,8 +1504,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-108398",
-        "CVE-2026-96951"
+        "CVE-2026-96951",
+        "CVE-2026-108398"
       ],
       "threat_categories": [
         "Vulnerability"
