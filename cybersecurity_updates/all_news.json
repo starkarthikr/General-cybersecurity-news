@@ -183,6 +183,24 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
+    "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
+    "published": "Sat, 17 Oct 2026 10:32:48 -0400",
+    "summary": "Drupal has patched two critical vulnerabilities that could allow attackers to execute code remotely on websites running any supported version of the content management system. [...]",
+    "analysis": {
+      "issue": "Drupal has patched two critical vulnerabilities that could allow attackers to execute code remotely on websites running any supported version of the content management system",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
     "link": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
     "published": "Fri, 16 Oct 2026 16:00:59 -0400",
@@ -353,24 +371,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/",
-    "published": "Thu, 15 Oct 2026 14:20:59 -0400",
-    "summary": "A proxyjacking campaign has impacted devices in 34 countries, monetizing victims' internet connections through a commercial residential proxy network. [...]",
-    "analysis": {
-      "issue": "A proxyjacking campaign has impacted devices in 34 countries, monetizing victims’ internet connections through a commercial residential proxy network",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
     "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
@@ -518,10 +518,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69730",
         "CVE-2026-69829",
-        "CVE-2026-81963",
-        "CVE-2026-85880"
+        "CVE-2026-85880",
+        "CVE-2026-69730",
+        "CVE-2026-81963"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -641,11 +641,11 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-22769",
-        "CVE-2023-46805",
-        "CVE-2024-21887",
+        "CVE-2026-102764",
         "CVE-2023-4966",
+        "CVE-2024-21887",
         "CVE-2025-0282",
-        "CVE-2026-102764"
+        "CVE-2023-46805"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -688,8 +688,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-97205",
-        "CVE-2026-15176",
-        "CVE-2026-93479"
+        "CVE-2026-93479",
+        "CVE-2026-15176"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -822,8 +822,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-70229",
         "CVE-2026-96951",
+        "CVE-2026-70229",
         "CVE-2026-70571"
       ],
       "threat_categories": [
@@ -903,9 +903,9 @@
       "severity": "Low",
       "cves": [
         "CVE-2026-91799",
-        "CVE-2026-48388",
         "CVE-2026-50475",
-        "CVE-2026-57256"
+        "CVE-2026-57256",
+        "CVE-2026-48388"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1316,8 +1316,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",

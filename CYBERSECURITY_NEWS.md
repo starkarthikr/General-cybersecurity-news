@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-17 12:19:34 UTC
+**Last Updated:** 2026-10-17 15:19:08 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -94,7 +94,16 @@
 
 ---
 
-### 11. [Critical BlockStrap flaw lets hackers run code on Magento servers](https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/)
+### 11. [Drupal patches critical RCE flaws, warns exploits may emerge soon](https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/)
+
+**Source:** Bleeping Computer  
+**Published:** Sat, 17 Oct 2026 10:32:48 -0400  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [Critical BlockStrap flaw lets hackers run code on Magento servers](https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 16 Oct 2026 16:00:59 -0400  
@@ -104,7 +113,7 @@
 
 ---
 
-### 12. [Targeted ads installed Candiru spyware in zero-click attacks](https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/)
+### 13. [Targeted ads installed Candiru spyware in zero-click attacks](https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 16 Oct 2026 13:20:03 -0400  
@@ -113,7 +122,7 @@
 
 ---
 
-### 13. [Employees using personal ChatGPT at work? Here's what IT admins need to do](https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/)
+### 14. [Employees using personal ChatGPT at work? Here's what IT admins need to do](https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 16 Oct 2026 09:50:59 -0400  
@@ -122,7 +131,7 @@
 
 ---
 
-### 14. [Burger King Japan data breach exposes 11 million customer records](https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/)
+### 15. [Burger King Japan data breach exposes 11 million customer records](https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 16 Oct 2026 08:01:29 -0400  
@@ -131,7 +140,7 @@
 
 ---
 
-### 15. [Microsoft: October Windows update may break Smart App Control](https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/)
+### 16. [Microsoft: October Windows update may break Smart App Control](https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 16 Oct 2026 04:44:22 -0400  
@@ -140,7 +149,7 @@
 
 ---
 
-### 16. [BAE Systems cyberattack disrupts US federal court operations](https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/)
+### 17. [BAE Systems cyberattack disrupts US federal court operations](https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 16 Oct 2026 03:37:35 -0400  
@@ -149,7 +158,7 @@
 
 ---
 
-### 17. [BeyondTrust patches zero-day exploited in attacks since August](https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/)
+### 18. [BeyondTrust patches zero-day exploited in attacks since August](https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 16 Oct 2026 02:18:08 -0400  
@@ -159,7 +168,7 @@
 
 ---
 
-### 18. [Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers](https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/)
+### 19. [Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers](https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 15 Oct 2026 16:25:04 -0400  
@@ -169,21 +178,12 @@
 
 ---
 
-### 19. [Android gets AI defenses against messaging scams, fake calls](https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/)
+### 20. [Android gets AI defenses against messaging scams, fake calls](https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 15 Oct 2026 15:48:43 -0400  
 **Severity:** Low  
 **Categories:** Phishing  
-
----
-
-### 20. [Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth](https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 15 Oct 2026 14:20:59 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability  
 
 ---
 
@@ -257,7 +257,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69730, CVE-2026-69829, CVE-2026-81963, CVE-2026-85880  
+**CVEs:** CVE-2026-69829, CVE-2026-85880, CVE-2026-69730, CVE-2026-81963  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -313,7 +313,7 @@
 **Source:** Security Week  
 **Published:** Fri, 16 Oct 2026 10:53:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-22769, CVE-2023-46805, CVE-2024-21887, CVE-2023-4966, CVE-2025-0282, CVE-2026-102764  
+**CVEs:** CVE-2026-22769, CVE-2026-102764, CVE-2023-4966, CVE-2024-21887, CVE-2025-0282, CVE-2023-46805  
 **Categories:** Vulnerability, Malware, Phishing, APT  
 
 ---
@@ -332,7 +332,7 @@
 **Source:** Security Week  
 **Published:** Fri, 16 Oct 2026 09:54:34 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-97205, CVE-2026-15176, CVE-2026-93479  
+**CVEs:** CVE-2026-97205, CVE-2026-93479, CVE-2026-15176  
 **Categories:** Vulnerability  
 
 ---
@@ -397,7 +397,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 13 Oct 2026 20:37:58 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-70229, CVE-2026-96951, CVE-2026-70571  
+**CVEs:** CVE-2026-96951, CVE-2026-70229, CVE-2026-70571  
 **Categories:** Vulnerability  
 
 ---
@@ -434,7 +434,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 07 Oct 2026 19:27:08 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-91799, CVE-2026-48388, CVE-2026-50475, CVE-2026-57256  
+**CVEs:** CVE-2026-91799, CVE-2026-50475, CVE-2026-57256, CVE-2026-48388  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -636,7 +636,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
