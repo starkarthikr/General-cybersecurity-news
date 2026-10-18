@@ -182,7 +182,7 @@
   },
   {
     "source": "Bleeping Computer",
-    "title": "Hackers exploit SiteGuard WAF flaw to run commands as SYSTEM, root",
+    "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
     "published": "Sun, 18 Oct 2026 10:23:16 -0400",
     "summary": "Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affected servers. [...]",
@@ -516,10 +516,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69829",
-        "CVE-2026-69730",
+        "CVE-2026-81963",
         "CVE-2026-85880",
-        "CVE-2026-81963"
+        "CVE-2026-69829",
+        "CVE-2026-69730"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -658,10 +658,10 @@
       "cves": [
         "CVE-2026-22769",
         "CVE-2024-21887",
-        "CVE-2023-46805",
-        "CVE-2025-0282",
         "CVE-2026-102764",
-        "CVE-2023-4966"
+        "CVE-2023-4966",
+        "CVE-2023-46805",
+        "CVE-2025-0282"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -781,8 +781,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2014-125110",
-        "CVE-2015-1000013"
+        "CVE-2015-1000013",
+        "CVE-2014-125110"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -820,9 +820,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-96951",
+        "CVE-2026-70229",
         "CVE-2026-70571",
-        "CVE-2026-70229"
+        "CVE-2026-96951"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -900,10 +900,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-48388",
         "CVE-2026-50475",
+        "CVE-2026-57256",
         "CVE-2026-91799",
-        "CVE-2026-57256"
+        "CVE-2026-48388"
       ],
       "threat_categories": [
         "Vulnerability",
