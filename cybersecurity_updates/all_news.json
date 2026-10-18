@@ -182,6 +182,26 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Hackers exploit SiteGuard WAF flaw to run commands as SYSTEM, root",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
+    "published": "Sun, 18 Oct 2026 10:23:16 -0400",
+    "summary": "Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affected servers. [...]",
+    "analysis": {
+      "issue": "Hackers are exploiting an OS command-injection vulnerability in the SiteGuard Server Edition web application firewall (WAF), allowing them to execute commands with root or SYSTEM privileges on affected machines",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-106931"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
     "published": "Sat, 17 Oct 2026 11:18:51 -0400",
@@ -349,27 +369,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
-    "published": "Thu, 15 Oct 2026 16:25:04 -0400",
-    "summary": "Threat actors are exploiting a critical command execution flaw, now tracked as CVE-2026-110447, in the Collabora Online - Built-in CODE Server app (richdocumentscode) for Nextcloud. [...]",
-    "analysis": {
-      "issue": "Threat actors are exploiting a critical command execution flaw, now tracked as CVE-2026-110447, in the Collabora Online - Built-in CODE Server app (richdocumentscode) for Nextcloud",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-110447"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
     "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
@@ -518,9 +517,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-69829",
-        "CVE-2026-81963",
+        "CVE-2026-69730",
         "CVE-2026-85880",
-        "CVE-2026-69730"
+        "CVE-2026-81963"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -657,12 +656,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2023-4966",
-        "CVE-2025-0282",
         "CVE-2026-22769",
-        "CVE-2026-102764",
         "CVE-2024-21887",
-        "CVE-2023-46805"
+        "CVE-2023-46805",
+        "CVE-2025-0282",
+        "CVE-2026-102764",
+        "CVE-2023-4966"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -704,8 +703,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-15176",
         "CVE-2026-97205",
+        "CVE-2026-15176",
         "CVE-2026-93479"
       ],
       "threat_categories": [
@@ -782,8 +781,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2015-1000013",
-        "CVE-2014-125110"
+        "CVE-2014-125110",
+        "CVE-2015-1000013"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -821,9 +820,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-70229",
+        "CVE-2026-96951",
         "CVE-2026-70571",
-        "CVE-2026-96951"
+        "CVE-2026-70229"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -901,10 +900,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-91799",
+        "CVE-2026-48388",
         "CVE-2026-50475",
-        "CVE-2026-57256",
-        "CVE-2026-48388"
+        "CVE-2026-91799",
+        "CVE-2026-57256"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1315,8 +1314,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",

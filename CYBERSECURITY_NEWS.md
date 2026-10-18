@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-18 12:44:26 UTC
+**Last Updated:** 2026-10-18 15:40:38 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -94,7 +94,17 @@
 
 ---
 
-### 11. [Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack](https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/)
+### 11. [Hackers exploit SiteGuard WAF flaw to run commands as SYSTEM, root](https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/)
+
+**Source:** Bleeping Computer  
+**Published:** Sun, 18 Oct 2026 10:23:16 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-106931  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack](https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 17 Oct 2026 11:18:51 -0400  
@@ -103,7 +113,7 @@
 
 ---
 
-### 12. [Drupal patches critical RCE flaws, warns exploits may emerge soon](https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/)
+### 13. [Drupal patches critical RCE flaws, warns exploits may emerge soon](https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 17 Oct 2026 10:32:48 -0400  
@@ -112,7 +122,7 @@
 
 ---
 
-### 13. [Critical BlockStrap flaw lets hackers run code on Magento servers](https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/)
+### 14. [Critical BlockStrap flaw lets hackers run code on Magento servers](https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 16 Oct 2026 16:00:59 -0400  
@@ -122,7 +132,7 @@
 
 ---
 
-### 14. [Targeted ads installed Candiru spyware in zero-click attacks](https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/)
+### 15. [Targeted ads installed Candiru spyware in zero-click attacks](https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 16 Oct 2026 13:20:03 -0400  
@@ -131,7 +141,7 @@
 
 ---
 
-### 15. [Employees using personal ChatGPT at work? Here's what IT admins need to do](https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/)
+### 16. [Employees using personal ChatGPT at work? Here's what IT admins need to do](https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 16 Oct 2026 09:50:59 -0400  
@@ -140,7 +150,7 @@
 
 ---
 
-### 16. [Burger King Japan data breach exposes 11 million customer records](https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/)
+### 17. [Burger King Japan data breach exposes 11 million customer records](https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 16 Oct 2026 08:01:29 -0400  
@@ -149,7 +159,7 @@
 
 ---
 
-### 17. [Microsoft: October Windows update may break Smart App Control](https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/)
+### 18. [Microsoft: October Windows update may break Smart App Control](https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 16 Oct 2026 04:44:22 -0400  
@@ -158,7 +168,7 @@
 
 ---
 
-### 18. [BAE Systems cyberattack disrupts US federal court operations](https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/)
+### 19. [BAE Systems cyberattack disrupts US federal court operations](https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 16 Oct 2026 03:37:35 -0400  
@@ -167,22 +177,12 @@
 
 ---
 
-### 19. [BeyondTrust patches zero-day exploited in attacks since August](https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/)
+### 20. [BeyondTrust patches zero-day exploited in attacks since August](https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 16 Oct 2026 02:18:08 -0400  
 **Severity:** Critical  
 **CVEs:** CVE-2026-102764  
-**Categories:** Vulnerability, Malware  
-
----
-
-### 20. [Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers](https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 15 Oct 2026 16:25:04 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-110447  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -257,7 +257,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69829, CVE-2026-81963, CVE-2026-85880, CVE-2026-69730  
+**CVEs:** CVE-2026-69829, CVE-2026-69730, CVE-2026-85880, CVE-2026-81963  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -322,7 +322,7 @@
 **Source:** Security Week  
 **Published:** Fri, 16 Oct 2026 10:53:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2023-4966, CVE-2025-0282, CVE-2026-22769, CVE-2026-102764, CVE-2024-21887, CVE-2023-46805  
+**CVEs:** CVE-2026-22769, CVE-2024-21887, CVE-2023-46805, CVE-2025-0282, CVE-2026-102764, CVE-2023-4966  
 **Categories:** Vulnerability, Malware, Phishing, APT  
 
 ---
@@ -341,7 +341,7 @@
 **Source:** Security Week  
 **Published:** Fri, 16 Oct 2026 09:54:34 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-15176, CVE-2026-97205, CVE-2026-93479  
+**CVEs:** CVE-2026-97205, CVE-2026-15176, CVE-2026-93479  
 **Categories:** Vulnerability  
 
 ---
@@ -378,7 +378,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 15 Oct 2026 18:00:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2015-1000013, CVE-2014-125110  
+**CVEs:** CVE-2014-125110, CVE-2015-1000013  
 **Categories:** Vulnerability  
 
 ---
@@ -397,7 +397,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 13 Oct 2026 20:37:58 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-70229, CVE-2026-70571, CVE-2026-96951  
+**CVEs:** CVE-2026-96951, CVE-2026-70571, CVE-2026-70229  
 **Categories:** Vulnerability  
 
 ---
@@ -434,7 +434,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 07 Oct 2026 19:27:08 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-91799, CVE-2026-50475, CVE-2026-57256, CVE-2026-48388  
+**CVEs:** CVE-2026-48388, CVE-2026-50475, CVE-2026-91799, CVE-2026-57256  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -636,7 +636,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
