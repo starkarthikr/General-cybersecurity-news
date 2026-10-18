@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-18 04:56:42 UTC
+**Last Updated:** 2026-10-18 12:44:26 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon](https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html)
+### 1. [ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants](https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html)
+
+**Source:** The Hacker News  
+**Published:** Sun, 18 Oct 2026 13:53:02 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon](https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 17 Oct 2026 16:41:56 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants](https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html)
+### 3. [Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants](https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 17 Oct 2026 11:46:46 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug](https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html)
+### 4. [Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug](https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 16 Oct 2026 23:18:45 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor](https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html)
+### 5. [Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor](https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 16 Oct 2026 22:13:39 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing](https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html)
+### 6. [UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing](https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 16 Oct 2026 21:46:44 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract](https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html)
+### 7. [OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract](https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 16 Oct 2026 19:33:04 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [AI Decision Models and Their Impact on AI SOC Platforms](https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html)
+### 8. [AI Decision Models and Their Impact on AI SOC Platforms](https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 16 Oct 2026 17:00:00 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers](https://thehackernews.com/2026/10/china-linked-hackers-exploited.html)
+### 9. [China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers](https://thehackernews.com/2026/10/china-linked-hackers-exploited.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 16 Oct 2026 12:25:55 +0530  
@@ -76,21 +85,12 @@
 
 ---
 
-### 9. [CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing](https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html)
+### 10. [CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing](https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 16 Oct 2026 12:23:09 +0530  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 10. [PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions](https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 16 Oct 2026 10:29:36 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability, Malware  
 
 ---
 
@@ -201,7 +201,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 13 Oct 2026 23:24:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-96951, CVE-2026-108398  
+**CVEs:** CVE-2026-108398, CVE-2026-96951  
 **Categories:** Vulnerability  
 
 ---
@@ -257,7 +257,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69730, CVE-2026-85880, CVE-2026-69829, CVE-2026-81963  
+**CVEs:** CVE-2026-69829, CVE-2026-81963, CVE-2026-85880, CVE-2026-69730  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -280,7 +280,16 @@
 
 ---
 
-### 31. [Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel](https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/)
+### 31. [US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars](https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/)
+
+**Source:** Security Week  
+**Published:** Sun, 18 Oct 2026 11:00:00 +0000  
+**Severity:** High  
+**Categories:** Malware  
+
+---
+
+### 32. [Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel](https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/)
 
 **Source:** Security Week  
 **Published:** Sat, 17 Oct 2026 11:00:00 +0000  
@@ -289,7 +298,7 @@
 
 ---
 
-### 32. [In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit](https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/)
+### 33. [In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit](https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/)
 
 **Source:** Security Week  
 **Published:** Fri, 16 Oct 2026 14:09:51 +0000  
@@ -299,7 +308,7 @@
 
 ---
 
-### 33. [BAE Systems Security Incident Stalls Notices From US Bankruptcy Courts](https://www.securityweek.com/bae-systems-security-incident-stalls-notices-from-us-bankruptcy-courts/)
+### 34. [BAE Systems Security Incident Stalls Notices From US Bankruptcy Courts](https://www.securityweek.com/bae-systems-security-incident-stalls-notices-from-us-bankruptcy-courts/)
 
 **Source:** Security Week  
 **Published:** Fri, 16 Oct 2026 11:46:40 +0000  
@@ -308,17 +317,17 @@
 
 ---
 
-### 34. [Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day](https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/)
+### 35. [Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day](https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/)
 
 **Source:** Security Week  
 **Published:** Fri, 16 Oct 2026 10:53:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-0282, CVE-2026-22769, CVE-2024-21887, CVE-2023-4966, CVE-2026-102764, CVE-2023-46805  
+**CVEs:** CVE-2023-4966, CVE-2025-0282, CVE-2026-22769, CVE-2026-102764, CVE-2024-21887, CVE-2023-46805  
 **Categories:** Vulnerability, Malware, Phishing, APT  
 
 ---
 
-### 35. [OpenAI Models Hacked Data Portals, Raided a Crypto Wallet to Finish Tasks](https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/)
+### 36. [OpenAI Models Hacked Data Portals, Raided a Crypto Wallet to Finish Tasks](https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/)
 
 **Source:** Security Week  
 **Published:** Fri, 16 Oct 2026 10:32:11 +0000  
@@ -327,7 +336,7 @@
 
 ---
 
-### 36. [F5, Juniper Networks Patch Critical Vulnerabilities](https://www.securityweek.com/f5-juniper-networks-patch-critical-vulnerabilities/)
+### 37. [F5, Juniper Networks Patch Critical Vulnerabilities](https://www.securityweek.com/f5-juniper-networks-patch-critical-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Fri, 16 Oct 2026 09:54:34 +0000  
@@ -337,7 +346,7 @@
 
 ---
 
-### 37. [Microsoft Patches Two Dozen RCE Flaws in Office](https://www.securityweek.com/microsoft-patches-two-dozen-rce-flaws-in-office/)
+### 38. [Microsoft Patches Two Dozen RCE Flaws in Office](https://www.securityweek.com/microsoft-patches-two-dozen-rce-flaws-in-office/)
 
 **Source:** Security Week  
 **Published:** Fri, 16 Oct 2026 07:55:06 +0000  
@@ -346,7 +355,7 @@
 
 ---
 
-### 38. [Proofpoint Inks $6.3 Billion All-Cash Deal to Acquire Varonis](https://www.securityweek.com/proofpoint-inks-6-3-billion-all-cash-deal-to-acquire-varonis/)
+### 39. [Proofpoint Inks $6.3 Billion All-Cash Deal to Acquire Varonis](https://www.securityweek.com/proofpoint-inks-6-3-billion-all-cash-deal-to-acquire-varonis/)
 
 **Source:** Security Week  
 **Published:** Fri, 16 Oct 2026 07:12:51 +0000  
@@ -355,21 +364,12 @@
 
 ---
 
-### 39. [Context Is King in the Fight Against Modern Cyberattacks](https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/)
+### 40. [Context Is King in the Fight Against Modern Cyberattacks](https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/)
 
 **Source:** Security Week  
 **Published:** Thu, 15 Oct 2026 17:42:50 +0000  
 **Severity:** Critical  
 **Categories:** Vulnerability  
-
----
-
-### 40. [Watch Now: Zero Trust Strategies Summit – All Sessions Available on Demand](https://www.securityweek.com/virtual-event-today-zero-trust-strategies-summit-2/)
-
-**Source:** Security Week  
-**Published:** Thu, 15 Oct 2026 16:51:34 +0000  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -397,7 +397,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 13 Oct 2026 20:37:58 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-70229, CVE-2026-96951, CVE-2026-70571  
+**CVEs:** CVE-2026-70229, CVE-2026-70571, CVE-2026-96951  
 **Categories:** Vulnerability  
 
 ---
@@ -434,7 +434,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 07 Oct 2026 19:27:08 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-57256, CVE-2026-48388, CVE-2026-91799, CVE-2026-50475  
+**CVEs:** CVE-2026-91799, CVE-2026-50475, CVE-2026-57256, CVE-2026-48388  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -728,7 +728,7 @@
 **Source:** Malwarebytes  
 **Published:** Wed, 14 Oct 2026 11:26:09 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-96951, CVE-2026-108398  
+**CVEs:** CVE-2026-108398, CVE-2026-96951  
 **Categories:** Vulnerability  
 
 ---

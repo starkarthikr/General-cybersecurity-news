@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
+    "link": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
+    "published": "Sun, 18 Oct 2026 13:53:02 +0530",
+    "summary": "ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application identities and compromised Microsoft 365 tenants.\n\nThe disabled identities are listed below -\n\n\n  ConnectWise Cloud Backup - 506e08f9-6e9a-4da4-942b-a099a03644ae\n  ConnectWise",
+    "analysis": {
+      "issue": "ConnectWise disabled seven application identities and suspended Cloud Backup after attackers compromised Microsoft 365 tenants",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
     "link": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
     "published": "Sat, 17 Oct 2026 16:41:56 +0530",
@@ -159,25 +177,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions",
-    "link": "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html",
-    "published": "Fri, 16 Oct 2026 10:29:36 +0530",
-    "summary": "A suspected advanced threat actor has been observed exploiting a security flaw in Fortinet FortiOS to deliver a previously unreported memory-resident ARM64 malware known as PEERSTITCH.\n\nThe attack involves the exploitation of CVE-2025-61624 (CVSS score: 5.4), a path traversal flaw in the command line interpreter of FortiOS, FortiPAM, FortiProxy, and FortiSwitchManager that could allow a",
-    "analysis": {
-      "issue": "Attackers exploited a patched FortiOS flaw to deploy PEERSTITCH, a memory-resident implant that bypasses checks on tagged VPN sessions",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
       ]
     }
   },
@@ -401,8 +400,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-96951",
-        "CVE-2026-108398"
+        "CVE-2026-108398",
+        "CVE-2026-96951"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -518,10 +517,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69730",
-        "CVE-2026-85880",
         "CVE-2026-69829",
-        "CVE-2026-81963"
+        "CVE-2026-81963",
+        "CVE-2026-85880",
+        "CVE-2026-69730"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -564,6 +563,24 @@
         "Vulnerability",
         "Malware",
         "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars",
+    "link": "https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/",
+    "published": "Sun, 18 Oct 2026 11:00:00 +0000",
+    "summary": "<p>CyberSN’s Cybersecurity Jobs Report provides visibility into the US cybersecurity job market. It’s a mixed bag.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/\">US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "CyberSN’s Cybersecurity Jobs Report provides visibility into the US cybersecurity job market",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
       ]
     }
   },
@@ -640,11 +657,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2023-4966",
         "CVE-2025-0282",
         "CVE-2026-22769",
-        "CVE-2024-21887",
-        "CVE-2023-4966",
         "CVE-2026-102764",
+        "CVE-2024-21887",
         "CVE-2023-46805"
       ],
       "threat_categories": [
@@ -753,24 +770,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Watch Now: Zero Trust Strategies Summit – All Sessions Available on Demand",
-    "link": "https://www.securityweek.com/virtual-event-today-zero-trust-strategies-summit-2/",
-    "published": "Thu, 15 Oct 2026 16:51:34 +0000",
-    "summary": "<p>This summit is laser-focused on the next generation of Zero Trust and Identity security, moving beyond theory to deliver actionable strategies.</p>\n<p>The post <a href=\"https://www.securityweek.com/virtual-event-today-zero-trust-strategies-summit-2/\">Watch Now: Zero Trust Strategies Summit &#8211; All Sessions Available on Demand</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "This summit is laser-focused on the next generation of Zero Trust and Identity security, moving beyond theory to deliver actionable strategies",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "The Q3 Vulnerability Pulse: Discovery ≠ Exploitation",
     "link": "https://blog.talosintelligence.com/the-q3-vulnerability-pulse-discovery-exploitation/",
@@ -823,8 +822,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-70229",
-        "CVE-2026-96951",
-        "CVE-2026-70571"
+        "CVE-2026-70571",
+        "CVE-2026-96951"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -902,10 +901,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-57256",
-        "CVE-2026-48388",
         "CVE-2026-91799",
-        "CVE-2026-50475"
+        "CVE-2026-50475",
+        "CVE-2026-57256",
+        "CVE-2026-48388"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1503,8 +1502,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-96951",
-        "CVE-2026-108398"
+        "CVE-2026-108398",
+        "CVE-2026-96951"
       ],
       "threat_categories": [
         "Vulnerability"
