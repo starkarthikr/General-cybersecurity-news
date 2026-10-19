@@ -1,6 +1,25 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor",
+    "link": "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
+    "published": "Mon, 19 Oct 2026 23:02:13 +0530",
+    "summary": "Threat actors have begun to exploit a chain of vulnerabilities in Plex Media Server to deploy cryptocurrency miners and reverse proxy software, a day after a proof-of-concept (PoC) went public.\n\nAccording to a researcher who goes by the online alias boredhackerblog, the exploitation activity involves chaining four different vulnerabilities, collectively called Plex2Shell.\n\nThe vulnerabilities",
+    "analysis": {
+      "issue": "Attackers exploit four Plex Media Server flaws chained as Plex2Shell to deploy XMRig miners and reverse proxy software after PoC release",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor",
     "link": "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html",
     "published": "Mon, 19 Oct 2026 21:58:47 +0530",
@@ -164,13 +183,32 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
-    "link": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
-    "published": "Sat, 17 Oct 2026 11:46:46 +0530",
-    "summary": "Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud Backup (formerly SkyKick) to gain unauthorized access to customers' M365 environments.\n\nConnectWise Cloud Backup is a cloud-based backup and recovery service built for managed service providers (MSPs",
+    "source": "Bleeping Computer",
+    "title": "Hackers hijack AOMEI update servers to secretly spread malware",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
+    "published": "Mon, 19 Oct 2026 15:40:58 -0400",
+    "summary": "Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering with configuration files before restoring them to their original state to hide the attacks.a [...]",
     "analysis": {
-      "issue": "Attackers used a compromised ConnectWise Cloud Backup credential for unauthorized sign-ins across 173 Microsoft 365 tenants",
+      "issue": "Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering with configuration files before restoring them to their original state to hide the attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Bullhorn takes staffing platform offline to contain cyberattack",
+    "link": "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/",
+    "published": "Mon, 19 Oct 2026 14:51:13 -0400",
+    "summary": "Staffing software company Bullhorn has disabled access to its platform to contain a cyberattack that caused a system-wide outage. [...]",
+    "analysis": {
+      "issue": "Staffing software company Bullhorn has disabled access to its platform to contain a cyberattack that caused a system-wide outage",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -248,9 +286,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-93479",
         "CVE-2026-97205",
-        "CVE-2026-15176"
+        "CVE-2026-15176",
+        "CVE-2026-93479"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -329,44 +367,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
-    "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
-    "published": "Sat, 17 Oct 2026 10:32:48 -0400",
-    "summary": "Drupal has patched two critical vulnerabilities that could allow attackers to execute code remotely on websites running any supported version of the content management system. [...]",
-    "analysis": {
-      "issue": "Drupal has patched two critical vulnerabilities that could allow attackers to execute code remotely on websites running any supported version of the content management system",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
-    "published": "Fri, 16 Oct 2026 16:00:59 -0400",
-    "summary": "Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on store servers. [...]",
-    "analysis": {
-      "issue": "Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on store servers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-103849"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -538,8 +538,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-69730",
-        "CVE-2026-85880",
         "CVE-2026-69829",
+        "CVE-2026-85880",
         "CVE-2026-81963"
       ],
       "threat_categories": [
@@ -601,10 +601,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-108097",
+        "CVE-2026-108099",
         "CVE-2026-108514",
         "CVE-2026-108515",
-        "CVE-2026-108099"
+        "CVE-2026-108097"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -664,10 +664,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-96652",
-        "CVE-2026-96654",
         "CVE-2026-96655",
-        "CVE-2026-96656"
+        "CVE-2026-96656",
+        "CVE-2026-96652",
+        "CVE-2026-96654"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -788,8 +788,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2014-125110",
-        "CVE-2015-1000013"
+        "CVE-2015-1000013",
+        "CVE-2014-125110"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -827,9 +827,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-70229",
         "CVE-2026-96951",
-        "CVE-2026-70571"
+        "CVE-2026-70571",
+        "CVE-2026-70229"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -908,8 +908,8 @@
       "severity": "Low",
       "cves": [
         "CVE-2026-50475",
-        "CVE-2026-57256",
         "CVE-2026-48388",
+        "CVE-2026-57256",
         "CVE-2026-91799"
       ],
       "threat_categories": [

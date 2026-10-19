@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-19 18:35:34 UTC
+**Last Updated:** 2026-10-19 21:11:47 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor](https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html)
+### 1. [Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor](https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 19 Oct 2026 23:02:13 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 2. [Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor](https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 19 Oct 2026 21:58:47 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More](https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html)
+### 3. [⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More](https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 19 Oct 2026 19:44:07 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories](https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html)
+### 4. [GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories](https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 19 Oct 2026 18:35:45 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software](https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html)
+### 5. [From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software](https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 19 Oct 2026 17:20:00 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic](https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html)
+### 6. [Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic](https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 19 Oct 2026 15:36:40 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers](https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html)
+### 7. [Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers](https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 19 Oct 2026 11:59:44 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys](https://thehackernews.com/2026/10/opencode-console-breach-may-have.html)
+### 8. [OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys](https://thehackernews.com/2026/10/opencode-console-breach-may-have.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 19 Oct 2026 11:37:08 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants](https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html)
+### 9. [ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants](https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 18 Oct 2026 13:53:02 +0530  
@@ -76,7 +85,7 @@
 
 ---
 
-### 9. [MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon](https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html)
+### 10. [MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon](https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 17 Oct 2026 16:41:56 +0530  
@@ -85,16 +94,25 @@
 
 ---
 
-### 10. [Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants](https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html)
+### 11. [Hackers hijack AOMEI update servers to secretly spread malware](https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/)
 
-**Source:** The Hacker News  
-**Published:** Sat, 17 Oct 2026 11:46:46 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 19 Oct 2026 15:40:58 -0400  
+**Severity:** High  
+**Categories:** Malware, Supply Chain  
+
+---
+
+### 12. [Bullhorn takes staffing platform offline to contain cyberattack](https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 19 Oct 2026 14:51:13 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 11. [OpenCode hack exposes API keys amid AI distillation attacks](https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/)
+### 13. [OpenCode hack exposes API keys amid AI distillation attacks](https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 19 Oct 2026 13:27:15 -0400  
@@ -103,7 +121,7 @@
 
 ---
 
-### 12. [Microsoft fixes game, app crashes caused by recent Windows update](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-game-app-crashes-caused-by-windows-kb5124010-preview-update/)
+### 14. [Microsoft fixes game, app crashes caused by recent Windows update](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-game-app-crashes-caused-by-windows-kb5124010-preview-update/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 19 Oct 2026 10:55:23 -0400  
@@ -112,7 +130,7 @@
 
 ---
 
-### 13. [Inside the Underground Market for Know Your Client Services](https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/)
+### 15. [Inside the Underground Market for Know Your Client Services](https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 19 Oct 2026 10:00:10 -0400  
@@ -121,17 +139,17 @@
 
 ---
 
-### 14. [F5 releases out-of-band patches for critical NGINX vulnerabilities](https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/)
+### 16. [F5 releases out-of-band patches for critical NGINX vulnerabilities](https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 19 Oct 2026 09:49:24 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-93479, CVE-2026-97205, CVE-2026-15176  
+**CVEs:** CVE-2026-97205, CVE-2026-15176, CVE-2026-93479  
 **Categories:** Vulnerability, APT  
 
 ---
 
-### 15. [Microsoft fixes classic Outlook bug that hid Copilot buttons](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/)
+### 17. [Microsoft fixes classic Outlook bug that hid Copilot buttons](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 19 Oct 2026 08:44:44 -0400  
@@ -140,7 +158,7 @@
 
 ---
 
-### 16. [Microsoft: October Windows Server updates break Exchange sign-in, mail flow](https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/)
+### 18. [Microsoft: October Windows Server updates break Exchange sign-in, mail flow](https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 19 Oct 2026 04:58:41 -0400  
@@ -149,7 +167,7 @@
 
 ---
 
-### 17. [Hackers exploit SiteGuard WAF flaw to run commands as admins](https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/)
+### 19. [Hackers exploit SiteGuard WAF flaw to run commands as admins](https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 18 Oct 2026 10:23:16 -0400  
@@ -159,31 +177,12 @@
 
 ---
 
-### 18. [Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack](https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/)
+### 20. [Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack](https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 17 Oct 2026 11:18:51 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 19. [Drupal patches critical RCE flaws, warns exploits may emerge soon](https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 17 Oct 2026 10:32:48 -0400  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 20. [Critical BlockStrap flaw lets hackers run code on Magento servers](https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 16 Oct 2026 16:00:59 -0400  
-**Severity:** Low  
-**CVEs:** CVE-2026-103849  
-**Categories:** Vulnerability  
 
 ---
 
@@ -266,7 +265,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69730, CVE-2026-85880, CVE-2026-69829, CVE-2026-81963  
+**CVEs:** CVE-2026-69730, CVE-2026-69829, CVE-2026-85880, CVE-2026-81963  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -295,7 +294,7 @@
 **Source:** Security Week  
 **Published:** Mon, 19 Oct 2026 15:47:50 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-108097, CVE-2026-108514, CVE-2026-108515, CVE-2026-108099  
+**CVEs:** CVE-2026-108099, CVE-2026-108514, CVE-2026-108515, CVE-2026-108097  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -323,7 +322,7 @@
 **Source:** Security Week  
 **Published:** Mon, 19 Oct 2026 12:44:39 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-96652, CVE-2026-96654, CVE-2026-96655, CVE-2026-96656  
+**CVEs:** CVE-2026-96655, CVE-2026-96656, CVE-2026-96652, CVE-2026-96654  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -379,7 +378,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 15 Oct 2026 18:00:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2014-125110, CVE-2015-1000013  
+**CVEs:** CVE-2015-1000013, CVE-2014-125110  
 **Categories:** Vulnerability  
 
 ---
@@ -398,7 +397,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 13 Oct 2026 20:37:58 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-70229, CVE-2026-96951, CVE-2026-70571  
+**CVEs:** CVE-2026-96951, CVE-2026-70571, CVE-2026-70229  
 **Categories:** Vulnerability  
 
 ---
@@ -435,7 +434,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 07 Oct 2026 19:27:08 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-50475, CVE-2026-57256, CVE-2026-48388, CVE-2026-91799  
+**CVEs:** CVE-2026-50475, CVE-2026-48388, CVE-2026-57256, CVE-2026-91799  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
