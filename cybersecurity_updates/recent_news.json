@@ -517,9 +517,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-81963",
-        "CVE-2026-69730",
         "CVE-2026-69829",
-        "CVE-2026-85880"
+        "CVE-2026-85880",
+        "CVE-2026-69730"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -656,12 +656,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-22769",
-        "CVE-2023-4966",
         "CVE-2025-0282",
-        "CVE-2026-102764",
         "CVE-2024-21887",
-        "CVE-2023-46805"
+        "CVE-2023-46805",
+        "CVE-2026-22769",
+        "CVE-2026-102764",
+        "CVE-2023-4966"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -703,9 +703,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-93479",
         "CVE-2026-97205",
-        "CVE-2026-15176",
-        "CVE-2026-93479"
+        "CVE-2026-15176"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -781,8 +781,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2014-125110",
-        "CVE-2015-1000013"
+        "CVE-2015-1000013",
+        "CVE-2014-125110"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -820,8 +820,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-96951",
         "CVE-2026-70229",
+        "CVE-2026-96951",
         "CVE-2026-70571"
       ],
       "threat_categories": [
@@ -902,8 +902,8 @@
       "cves": [
         "CVE-2026-91799",
         "CVE-2026-57256",
-        "CVE-2026-50475",
-        "CVE-2026-48388"
+        "CVE-2026-48388",
+        "CVE-2026-50475"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1314,8 +1314,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
