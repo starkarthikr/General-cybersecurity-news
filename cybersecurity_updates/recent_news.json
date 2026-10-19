@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor",
+    "link": "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html",
+    "published": "Mon, 19 Oct 2026 21:58:47 +0530",
+    "summary": "Copies of Rank Math PRO, the paid version of the Rank Math SEO plugin for WordPress, that were downloaded from rankmath.com or delivered as updates between 20:02 UTC on October 15 and 07:12 UTC on October 16 contained malware, Rank Math said in a&nbsp;security notice&nbsp;published on October 16.\n\nAny site that installed and activated one of those copies should be treated as compromised, and the",
+    "analysis": {
+      "issue": "Rank Math PRO distributed malware for 11 hours, exposing WordPress sites that activated affected builds to persistent backdoors",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More",
     "link": "https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html",
     "published": "Mon, 19 Oct 2026 19:44:07 +0530",
@@ -164,20 +182,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
-    "link": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
-    "published": "Fri, 16 Oct 2026 23:18:45 +0530",
-    "summary": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardware protections.Security firm Calif, which found and reported the flaws, published a detailed writeup and full proof-of-concept code after OpenBSD shipped",
+    "source": "Bleeping Computer",
+    "title": "OpenCode hack exposes API keys amid AI distillation attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/",
+    "published": "Mon, 19 Oct 2026 13:27:15 -0400",
+    "summary": "The open-source AI coding project OpenCode has notified a small number of users that API keys they used with external providers were exposed in a security breach. [...]",
     "analysis": {
-      "issue": "9 proof-of-concept chains a 37-year-old integer overflow with a kernel use-after-free to gain root; both flaws are patched",
+      "issue": "The open-source AI coding project OpenCode has notified some users that stored API keys they used with external providers were exposed in a security breach",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "General Security"
       ]
     }
   },
@@ -230,9 +248,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-15176",
+        "CVE-2026-93479",
         "CVE-2026-97205",
-        "CVE-2026-93479"
+        "CVE-2026-15176"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -353,24 +371,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Targeted ads installed Candiru spyware in zero-click attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
-    "published": "Fri, 16 Oct 2026 13:20:03 -0400",
-    "summary": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device. [...]",
-    "analysis": {
-      "issue": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
     "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
@@ -420,8 +420,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-108398",
-        "CVE-2026-96951"
+        "CVE-2026-96951",
+        "CVE-2026-108398"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -537,10 +537,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69829",
-        "CVE-2026-81963",
         "CVE-2026-69730",
-        "CVE-2026-85880"
+        "CVE-2026-85880",
+        "CVE-2026-69829",
+        "CVE-2026-81963"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -568,6 +568,28 @@
   },
   {
     "source": "Security Week",
+    "title": "Siemens Software Center Vulnerability Exploited in ClickFix Malware Attacks",
+    "link": "https://www.securityweek.com/siemens-software-center-vulnerability-exploited-in-clickfix-malware-attacks/",
+    "published": "Mon, 19 Oct 2026 18:15:39 +0000",
+    "summary": "<p>Attackers paired a genuine, signed copy of Siemens Software Center with malicious DLLs to infect Windows PCs via ClickFix lures.</p>\n<p>The post <a href=\"https://www.securityweek.com/siemens-software-center-vulnerability-exploited-in-clickfix-malware-attacks/\">Siemens Software Center Vulnerability Exploited in ClickFix Malware Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Attackers paired a genuine, signed copy of Siemens Software Center with malicious DLLs to infect Windows PCs via ClickFix lures",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-110936"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Drupal Warns of Fast Exploitation Risk for Critical Core RCE Flaw",
     "link": "https://www.securityweek.com/drupal-warns-of-fast-exploitation-risk-for-critical-core-rce-flaw/",
     "published": "Mon, 19 Oct 2026 15:47:50 +0000",
@@ -579,10 +601,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-108514",
-        "CVE-2026-108099",
         "CVE-2026-108097",
-        "CVE-2026-108515"
+        "CVE-2026-108514",
+        "CVE-2026-108515",
+        "CVE-2026-108099"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -642,8 +664,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-96654",
         "CVE-2026-96652",
+        "CVE-2026-96654",
         "CVE-2026-96655",
         "CVE-2026-96656"
       ],
@@ -684,8 +706,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2024-26008",
         "CVE-2024-47575",
+        "CVE-2024-26008",
         "CVE-2025-61624"
       ],
       "threat_categories": [
@@ -754,25 +776,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel",
-    "link": "https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/",
-    "published": "Sat, 17 Oct 2026 11:00:00 +0000",
-    "summary": "<p>Israeli company Discover-Tech’s ads allow threat actors to fingerprint and track devices at scale and infect selected targets.</p>\n<p>The post <a href=\"https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/\">Israeli Ad Firm Doubled as Candiru&#8217;s Zero-Click Spyware Delivery Channel</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Israeli company Discover-Tech’s ads allow threat actors to fingerprint and track devices at scale and infect selected targets",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "The Q3 Vulnerability Pulse: Discovery ≠ Exploitation",
     "link": "https://blog.talosintelligence.com/the-q3-vulnerability-pulse-discovery-exploitation/",
@@ -785,8 +788,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2015-1000013",
-        "CVE-2014-125110"
+        "CVE-2014-125110",
+        "CVE-2015-1000013"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -904,9 +907,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-48388",
         "CVE-2026-50475",
         "CVE-2026-57256",
+        "CVE-2026-48388",
         "CVE-2026-91799"
       ],
       "threat_categories": [
@@ -1318,8 +1321,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",

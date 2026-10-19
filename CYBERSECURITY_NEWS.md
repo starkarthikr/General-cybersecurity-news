@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-19 15:48:30 UTC
+**Last Updated:** 2026-10-19 18:35:34 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More](https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html)
+### 1. [Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor](https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 19 Oct 2026 21:58:47 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 2. [⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More](https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 19 Oct 2026 19:44:07 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories](https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html)
+### 3. [GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories](https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 19 Oct 2026 18:35:45 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software](https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html)
+### 4. [From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software](https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 19 Oct 2026 17:20:00 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic](https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html)
+### 5. [Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic](https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 19 Oct 2026 15:36:40 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers](https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html)
+### 6. [Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers](https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 19 Oct 2026 11:59:44 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys](https://thehackernews.com/2026/10/opencode-console-breach-may-have.html)
+### 7. [OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys](https://thehackernews.com/2026/10/opencode-console-breach-may-have.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 19 Oct 2026 11:37:08 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants](https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html)
+### 8. [ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants](https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 18 Oct 2026 13:53:02 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon](https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html)
+### 9. [MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon](https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 17 Oct 2026 16:41:56 +0530  
@@ -76,7 +85,7 @@
 
 ---
 
-### 9. [Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants](https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html)
+### 10. [Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants](https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 17 Oct 2026 11:46:46 +0530  
@@ -85,16 +94,16 @@
 
 ---
 
-### 10. [Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug](https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html)
+### 11. [OpenCode hack exposes API keys amid AI distillation attacks](https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 16 Oct 2026 23:18:45 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 19 Oct 2026 13:27:15 -0400  
 **Severity:** Low  
-**Categories:** Vulnerability  
+**Categories:** General Security  
 
 ---
 
-### 11. [Microsoft fixes game, app crashes caused by recent Windows update](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-game-app-crashes-caused-by-windows-kb5124010-preview-update/)
+### 12. [Microsoft fixes game, app crashes caused by recent Windows update](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-game-app-crashes-caused-by-windows-kb5124010-preview-update/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 19 Oct 2026 10:55:23 -0400  
@@ -103,7 +112,7 @@
 
 ---
 
-### 12. [Inside the Underground Market for Know Your Client Services](https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/)
+### 13. [Inside the Underground Market for Know Your Client Services](https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 19 Oct 2026 10:00:10 -0400  
@@ -112,17 +121,17 @@
 
 ---
 
-### 13. [F5 releases out-of-band patches for critical NGINX vulnerabilities](https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/)
+### 14. [F5 releases out-of-band patches for critical NGINX vulnerabilities](https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 19 Oct 2026 09:49:24 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-15176, CVE-2026-97205, CVE-2026-93479  
+**CVEs:** CVE-2026-93479, CVE-2026-97205, CVE-2026-15176  
 **Categories:** Vulnerability, APT  
 
 ---
 
-### 14. [Microsoft fixes classic Outlook bug that hid Copilot buttons](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/)
+### 15. [Microsoft fixes classic Outlook bug that hid Copilot buttons](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 19 Oct 2026 08:44:44 -0400  
@@ -131,7 +140,7 @@
 
 ---
 
-### 15. [Microsoft: October Windows Server updates break Exchange sign-in, mail flow](https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/)
+### 16. [Microsoft: October Windows Server updates break Exchange sign-in, mail flow](https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 19 Oct 2026 04:58:41 -0400  
@@ -140,7 +149,7 @@
 
 ---
 
-### 16. [Hackers exploit SiteGuard WAF flaw to run commands as admins](https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/)
+### 17. [Hackers exploit SiteGuard WAF flaw to run commands as admins](https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 18 Oct 2026 10:23:16 -0400  
@@ -150,7 +159,7 @@
 
 ---
 
-### 17. [Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack](https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/)
+### 18. [Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack](https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 17 Oct 2026 11:18:51 -0400  
@@ -159,7 +168,7 @@
 
 ---
 
-### 18. [Drupal patches critical RCE flaws, warns exploits may emerge soon](https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/)
+### 19. [Drupal patches critical RCE flaws, warns exploits may emerge soon](https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 17 Oct 2026 10:32:48 -0400  
@@ -168,22 +177,13 @@
 
 ---
 
-### 19. [Critical BlockStrap flaw lets hackers run code on Magento servers](https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/)
+### 20. [Critical BlockStrap flaw lets hackers run code on Magento servers](https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 16 Oct 2026 16:00:59 -0400  
 **Severity:** Low  
 **CVEs:** CVE-2026-103849  
 **Categories:** Vulnerability  
-
----
-
-### 20. [Targeted ads installed Candiru spyware in zero-click attacks](https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 16 Oct 2026 13:20:03 -0400  
-**Severity:** Low  
-**Categories:** Data Breach  
 
 ---
 
@@ -210,7 +210,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 13 Oct 2026 23:24:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-108398, CVE-2026-96951  
+**CVEs:** CVE-2026-96951, CVE-2026-108398  
 **Categories:** Vulnerability  
 
 ---
@@ -266,7 +266,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69829, CVE-2026-81963, CVE-2026-69730, CVE-2026-85880  
+**CVEs:** CVE-2026-69730, CVE-2026-85880, CVE-2026-69829, CVE-2026-81963  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -280,17 +280,27 @@
 
 ---
 
-### 31. [Drupal Warns of Fast Exploitation Risk for Critical Core RCE Flaw](https://www.securityweek.com/drupal-warns-of-fast-exploitation-risk-for-critical-core-rce-flaw/)
+### 31. [Siemens Software Center Vulnerability Exploited in ClickFix Malware Attacks](https://www.securityweek.com/siemens-software-center-vulnerability-exploited-in-clickfix-malware-attacks/)
+
+**Source:** Security Week  
+**Published:** Mon, 19 Oct 2026 18:15:39 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-110936  
+**Categories:** Vulnerability, Malware, APT  
+
+---
+
+### 32. [Drupal Warns of Fast Exploitation Risk for Critical Core RCE Flaw](https://www.securityweek.com/drupal-warns-of-fast-exploitation-risk-for-critical-core-rce-flaw/)
 
 **Source:** Security Week  
 **Published:** Mon, 19 Oct 2026 15:47:50 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-108514, CVE-2026-108099, CVE-2026-108097, CVE-2026-108515  
+**CVEs:** CVE-2026-108097, CVE-2026-108514, CVE-2026-108515, CVE-2026-108099  
 **Categories:** Vulnerability, APT  
 
 ---
 
-### 32. [Rank Math PRO WordPress Plugin Compromised in Supply Chain Attack](https://www.securityweek.com/rank-math-pro-wordpress-plugin-compromised-in-supply-chain-attack/)
+### 33. [Rank Math PRO WordPress Plugin Compromised in Supply Chain Attack](https://www.securityweek.com/rank-math-pro-wordpress-plugin-compromised-in-supply-chain-attack/)
 
 **Source:** Security Week  
 **Published:** Mon, 19 Oct 2026 15:20:53 +0000  
@@ -299,7 +309,7 @@
 
 ---
 
-### 33. [ConnectWise Suspends Cloud Services in Response to Cyberattack](https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/)
+### 34. [ConnectWise Suspends Cloud Services in Response to Cyberattack](https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/)
 
 **Source:** Security Week  
 **Published:** Mon, 19 Oct 2026 13:16:20 +0000  
@@ -308,17 +318,17 @@
 
 ---
 
-### 34. [Plex2Shell Exploit Chain Weaponized Against Plex Servers Hours After Disclosure](https://www.securityweek.com/plex2shell-exploit-chain-weaponized-against-plex-servers-hours-after-disclosure/)
+### 35. [Plex2Shell Exploit Chain Weaponized Against Plex Servers Hours After Disclosure](https://www.securityweek.com/plex2shell-exploit-chain-weaponized-against-plex-servers-hours-after-disclosure/)
 
 **Source:** Security Week  
 **Published:** Mon, 19 Oct 2026 12:44:39 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-96654, CVE-2026-96652, CVE-2026-96655, CVE-2026-96656  
+**CVEs:** CVE-2026-96652, CVE-2026-96654, CVE-2026-96655, CVE-2026-96656  
 **Categories:** Vulnerability, APT  
 
 ---
 
-### 35. [One Compromised Login Exposed Millions of California Students’ Records](https://www.securityweek.com/one-compromised-login-exposed-millions-of-california-students-records/)
+### 36. [One Compromised Login Exposed Millions of California Students’ Records](https://www.securityweek.com/one-compromised-login-exposed-millions-of-california-students-records/)
 
 **Source:** Security Week  
 **Published:** Mon, 19 Oct 2026 11:55:50 +0000  
@@ -327,17 +337,17 @@
 
 ---
 
-### 36. [Exploited Fortinet Bug Linked to Stealthy FortiGate Implant in Telecom Hack](https://www.securityweek.com/exploited-fortinet-bug-linked-to-stealthy-fortigate-implant-in-telecom-hack/)
+### 37. [Exploited Fortinet Bug Linked to Stealthy FortiGate Implant in Telecom Hack](https://www.securityweek.com/exploited-fortinet-bug-linked-to-stealthy-fortigate-implant-in-telecom-hack/)
 
 **Source:** Security Week  
 **Published:** Mon, 19 Oct 2026 11:13:23 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2024-26008, CVE-2024-47575, CVE-2025-61624  
+**CVEs:** CVE-2024-47575, CVE-2024-26008, CVE-2025-61624  
 **Categories:** Vulnerability, Malware, APT  
 
 ---
 
-### 37. [MITRE ATT&CK v20 Catalogs AI Abuse, MFA Bypass, Water Utility Attacks](https://www.securityweek.com/mitre-attck-v20-catalogs-ai-abuse-mfa-bypass-water-utility-attacks/)
+### 38. [MITRE ATT&CK v20 Catalogs AI Abuse, MFA Bypass, Water Utility Attacks](https://www.securityweek.com/mitre-attck-v20-catalogs-ai-abuse-mfa-bypass-water-utility-attacks/)
 
 **Source:** Security Week  
 **Published:** Mon, 19 Oct 2026 09:37:04 +0000  
@@ -346,7 +356,7 @@
 
 ---
 
-### 38. [Anthropic Acquires Confidential AI Startup Opaque Systems](https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/)
+### 39. [Anthropic Acquires Confidential AI Startup Opaque Systems](https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/)
 
 **Source:** Security Week  
 **Published:** Mon, 19 Oct 2026 07:45:25 +0000  
@@ -355,7 +365,7 @@
 
 ---
 
-### 39. [US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars](https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/)
+### 40. [US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars](https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/)
 
 **Source:** Security Week  
 **Published:** Sun, 18 Oct 2026 11:00:00 +0000  
@@ -364,21 +374,12 @@
 
 ---
 
-### 40. [Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel](https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/)
-
-**Source:** Security Week  
-**Published:** Sat, 17 Oct 2026 11:00:00 +0000  
-**Severity:** Low  
-**Categories:** Vulnerability, Malware  
-
----
-
 ### 41. [The Q3 Vulnerability Pulse: Discovery ≠ Exploitation](https://blog.talosintelligence.com/the-q3-vulnerability-pulse-discovery-exploitation/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 15 Oct 2026 18:00:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2015-1000013, CVE-2014-125110  
+**CVEs:** CVE-2014-125110, CVE-2015-1000013  
 **Categories:** Vulnerability  
 
 ---
@@ -434,7 +435,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 07 Oct 2026 19:27:08 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-48388, CVE-2026-50475, CVE-2026-57256, CVE-2026-91799  
+**CVEs:** CVE-2026-50475, CVE-2026-57256, CVE-2026-48388, CVE-2026-91799  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -636,7 +637,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
