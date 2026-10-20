@@ -1,6 +1,81 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
+    "link": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
+    "published": "Tue, 20 Oct 2026 21:08:52 +0530",
+    "summary": "Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code execution.\n\nThe vulnerability, tracked as CVE-2026-106173 (CVSS score: 9.4), is a critical path traversal flaw that could allow an unauthenticated attacker to execute unauthorized code or commands via specially",
+    "analysis": {
+      "issue": "Researchers release a PoC for critical FortiSIEM flaw CVE-2026-106173, showing how unauthenticated attackers can achieve remote code execution",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-106173"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
+    "link": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
+    "published": "Tue, 20 Oct 2026 21:02:27 +0530",
+    "summary": "Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting&nbsp; PAN-OS and Prisma Access by ransomware actors.\n\nThe activity relates to CVE-2026-0257 (CVSS score: 7.8), an authentication bypass flaw that could be exploited by bad actors to set up unauthorized VPN connections. It was patched by Palo Alto Networks in May 2026 and was",
+    "analysis": {
+      "issue": "Qilin and INC ransomware actors continue exploiting a patched Palo Alto Networks flaw to gain network access, bypass MFA, and establish VPN sessions",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
+    "link": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
+    "published": "Tue, 20 Oct 2026 19:37:17 +0530",
+    "summary": "A Chinese-speaking criminal pointed autonomous AI agents at company websites and let them break in with almost no help, and a security researcher watched it happen because the operators left their control panels open on the internet.\n\nThe agents tried more than 1,200 sites and reached websites belonging to more than 100 companies, including farm-equipment maker Deere, appliance company",
+    "analysis": {
+      "issue": "Exposed Cairn panels reveal autonomous AI attacks on over 1,200 websites, with confirmed breaches and leaked credentials",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election",
+    "link": "https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html",
+    "published": "Tue, 20 Oct 2026 18:29:44 +0530",
+    "summary": "The iPhone of Vladan Đokić, rector of the University of Belgrade and a prominent supporter of Serbia's student protest movement, was infected with NSO Group's Pegasus spyware in 2026, the&nbsp;Citizen Lab said&nbsp;on October 19.\n\nThe finding came six days before Serbia's October 25 snap parliamentary election. The infection used a zero-click exploit, meaning Đokić did not have to tap a link or",
+    "analysis": {
+      "issue": "Citizen Lab confirmed Pegasus on a Serbian university rector's iPhone and flagged likely spyware targeting of a prosecutor ahead of elections",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators",
     "link": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html",
     "published": "Tue, 20 Oct 2026 17:11:06 +0530",
@@ -108,76 +183,38 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan",
-    "link": "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html",
-    "published": "Tue, 20 Oct 2026 12:41:45 +0530",
-    "summary": "Siemens has addressed a DLL sideloading vulnerability impacting Siemens Software Center that it said has been exploited in ClickFix attacks.\n\nThe high-severity vulnerability, tracked as CVE-2026-110936 (CVSS v4 score: 8.4), could allow an attacker to place a specially-crafted DLL in a directory the application searches, resulting in execution of malicious code with the same privileges as the",
+    "source": "Bleeping Computer",
+    "title": "DHS bans DeepSeek products across US federal civilian agencies",
+    "link": "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/",
+    "published": "Tue, 20 Oct 2026 10:19:05 -0400",
+    "summary": "The U.S. Department of Homeland Security (DHS) is ordering federal civilian agencies to stop using DeepSeek products and remove them from government systems. [...]",
     "analysis": {
-      "issue": "Siemens patched a DLL sideloading flaw in Software Center exploited in ClickFix attacks to execute malicious code through a trusted application",
+      "issue": "Department of Homeland Security (DHS) is ordering federal civilian agencies to stop using DeepSeek products and remove them from government systems",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "Vulnerability",
-        "Malware"
+        "Supply Chain"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge",
-    "link": "https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html",
-    "published": "Tue, 20 Oct 2026 11:23:16 +0530",
-    "summary": "A U.S. court on Monday granted the U.S. government's request to detain a former OpenAI engineer accused of planting a recording device in an executive conference room at the company's San Francisco office to allegedly steal sensitive secrets.\n\nIn a new court filing Sunday, prosecutors revealed that Abdulrahman Alfozan, a 35-year-old Saudi national, was \"in frequent communications via WhatsApp",
+    "source": "Bleeping Computer",
+    "title": "CJIS v6.1 Compliance: 5 Practical Priorities for Agencies",
+    "link": "https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/",
+    "published": "Tue, 20 Oct 2026 09:51:00 -0400",
+    "summary": "CJIS v6.1 requires agencies to maintain strong authentication, account security, and audit controls while demonstrating ongoing compliance. Specops outlines five practical priorities covering MFA, account management, passwords, logging, and audit readiness. [...]",
     "analysis": {
-      "issue": "court detained an ex-OpenAI engineer accused of planting a recording device as prosecutors revealed his contacts with a Saudi royal",
+      "issue": "For agencies responsible for protecting Criminal Justice Information (CJI), meeting CJIS requirements means more than putting security controls in place",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware",
-    "link": "https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html",
-    "published": "Tue, 20 Oct 2026 09:35:58 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a ClickFix delivery platform called ROMULUS that's being used to distribute malware such as Legion Loader.\n\nAccording to Forescout Research - Vedere Labs, ROMULUS is akin to a malware delivery service that employs ClickFix-style lures on bogus landing pages to trick unsuspecting users into running malicious commands and infecting their own",
-    "analysis": {
-      "issue": "ROMULUS uses ClickFix lures and PowerShell scripts to deliver malware, including Legion Loader, across infrastructure spanning six IP addresses",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor",
-    "link": "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
-    "published": "Mon, 19 Oct 2026 23:02:13 +0530",
-    "summary": "Threat actors have begun to exploit a chain of vulnerabilities in Plex Media Server to deploy cryptocurrency miners and reverse proxy software, a day after a proof-of-concept (PoC) went public.\n\nAccording to a researcher who goes by the online alias boredhackerblog, the exploitation activity involves chaining four different vulnerabilities, collectively called Plex2Shell.\n\nThe vulnerabilities",
-    "analysis": {
-      "issue": "Attackers exploit four Plex Media Server flaws chained as Plex2Shell to deploy XMRig miners and reverse proxy software after PoC release",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
+        "Phishing"
       ]
     }
   },
@@ -327,42 +364,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Bullhorn takes staffing platform offline to contain cyberattack",
-    "link": "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/",
-    "published": "Mon, 19 Oct 2026 14:51:13 -0400",
-    "summary": "Staffing software company Bullhorn has disabled access to its platform to contain a cyberattack that caused a system-wide outage. [...]",
-    "analysis": {
-      "issue": "Staffing software company Bullhorn has disabled access to its platform to contain a cyberattack that caused a system-wide outage",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "OpenCode hack exposes API keys amid AI distillation attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/",
-    "published": "Mon, 19 Oct 2026 13:27:15 -0400",
-    "summary": "The open-source AI coding project OpenCode has notified a small number of users that API keys they used with external providers were exposed in a security breach. [...]",
-    "analysis": {
-      "issue": "The open-source AI coding project OpenCode has notified some users that stored API keys they used with external providers were exposed in a security breach",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
     "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
@@ -412,8 +413,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-96951",
-        "CVE-2026-108398"
+        "CVE-2026-108398",
+        "CVE-2026-96951"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -530,9 +531,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-81963",
-        "CVE-2026-69730",
+        "CVE-2026-69829",
         "CVE-2026-85880",
-        "CVE-2026-69829"
+        "CVE-2026-69730"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -555,6 +556,46 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "US Agencies Detail Incident Response Practices for Rogue AI Agents",
+    "link": "https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/",
+    "published": "Tue, 20 Oct 2026 15:45:00 +0000",
+    "summary": "<p>NIST, CISA and NSA share ten voluntary practices for preparing for, detecting, responding to, recovering from, and reporting rogue AI agent incidents.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/\">US Agencies Detail Incident Response Practices for Rogue AI Agents</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "NIST, CISA and NSA share ten voluntary practices for preparing for, detecting, responding to, recovering from, and reporting rogue AI agent incidents",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign",
+    "link": "https://www.securityweek.com/aomei-backupper-compromised-in-short-burst-supply-chain-campaign/",
+    "published": "Tue, 20 Oct 2026 13:51:01 +0000",
+    "summary": "<p>Across multiple short compromise windows, users were served a downloader for the ShinyRoad modular backdoor framework.</p>\n<p>The post <a href=\"https://www.securityweek.com/aomei-backupper-compromised-in-short-burst-supply-chain-campaign/\">AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Across multiple short compromise windows, users were served a downloader for the ShinyRoad modular backdoor framework",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "APT",
+        "Supply Chain"
       ]
     }
   },
@@ -707,46 +748,22 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Drupal Warns of Fast Exploitation Risk for Critical Core RCE Flaw",
-    "link": "https://www.securityweek.com/drupal-warns-of-fast-exploitation-risk-for-critical-core-rce-flaw/",
-    "published": "Mon, 19 Oct 2026 15:47:50 +0000",
-    "summary": "<p>Critical flaws impact the Entity List and Field UI modules, and exploit paths exist with contributed modules.</p>\n<p>The post <a href=\"https://www.securityweek.com/drupal-warns-of-fast-exploitation-risk-for-critical-core-rce-flaw/\">Drupal Warns of Fast Exploitation Risk for Critical Core RCE Flaw</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "source": "Talos Blog",
+    "title": "There's only so much code: the rise in vulnerability numbers",
+    "link": "https://blog.talosintelligence.com/theres-only-so-much-code-the-rise-in-vulnerability-numbers/",
+    "published": "Tue, 20 Oct 2026 15:31:22 GMT",
+    "summary": "The September Microsoft Patch Tuesday release included 975 vulnerability advisories. This month, 1,415 vulnerabilities were just dropped. Compared to a pre-June average of 100 a month, that increase is staggering. Where did they come from? And what does the future look like?",
     "analysis": {
-      "issue": "Critical flaws impact the Entity List and Field UI modules, and exploit paths exist with contributed modules",
+      "issue": "The September Microsoft Tuesday release included 975 vulnerability advisories",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-108099",
-        "CVE-2026-108515",
-        "CVE-2026-108097",
-        "CVE-2026-108514"
+        "CVE-2021-44228"
       ],
       "threat_categories": [
-        "Vulnerability",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Rank Math PRO WordPress Plugin Compromised in Supply Chain Attack",
-    "link": "https://www.securityweek.com/rank-math-pro-wordpress-plugin-compromised-in-supply-chain-attack/",
-    "published": "Mon, 19 Oct 2026 15:20:53 +0000",
-    "summary": "<p>Hackers injected malware into Rank Math PRO version 3.0.123 packages distributed between October 15 and October 16.</p>\n<p>The post <a href=\"https://www.securityweek.com/rank-math-pro-wordpress-plugin-compromised-in-supply-chain-attack/\">Rank Math PRO WordPress Plugin Compromised in Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Hackers injected malware into Rank Math PRO version 3",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Supply Chain"
+        "Vulnerability"
       ]
     }
   },
@@ -802,9 +819,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-96951",
+        "CVE-2026-70229",
         "CVE-2026-70571",
-        "CVE-2026-70229"
+        "CVE-2026-96951"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -882,10 +899,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-48388",
         "CVE-2026-91799",
-        "CVE-2026-50475",
-        "CVE-2026-57256"
+        "CVE-2026-57256",
+        "CVE-2026-48388",
+        "CVE-2026-50475"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -921,24 +938,6 @@
     "summary": "In this week’s edition, Amy reflects on the importance of prioritizing family and personal well-being over the pressure to remain constantly productive.",
     "analysis": {
       "issue": "Welcome to this week’s edition of the Threat Source newsletter",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "The Fine Art of Frustrating the Adversary",
-    "link": "https://blog.talosintelligence.com/the-fine-art-of-frustrating-the-adversary/",
-    "published": "Thu, 01 Oct 2026 10:00:05 GMT",
-    "summary": "What really frustrates an adversary? Eight Cisco Talos researchers share practical ways to make their next move slower and riskier, from deception and behavioral detection to breaking attack dependencies and resisting manufactured urgency.",
-    "analysis": {
-      "issue": "Years ago, Cisco Talos blocked an adversary’s command-and-control (C2) traffic",
       "solution": null,
       "cause": null,
       "timeline": null,
