@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware",
+    "link": "https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html",
+    "published": "Tue, 20 Oct 2026 09:35:58 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a ClickFix delivery platform called ROMULUS that's being used to distribute malware such as Legion Loader.\n\nAccording to Forescout Research - Vedere Labs, ROMULUS is akin to a malware delivery service that employs ClickFix-style lures on bogus landing pages to trick unsuspecting users into running malicious commands and infecting their own",
+    "analysis": {
+      "issue": "ROMULUS uses ClickFix lures and PowerShell scripts to deliver malware, including Legion Loader, across infrastructure spanning six IP addresses",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor",
     "link": "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
     "published": "Mon, 19 Oct 2026 23:02:13 +0530",
@@ -165,24 +183,6 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
-    "link": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
-    "published": "Sat, 17 Oct 2026 16:41:56 +0530",
-    "summary": "Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX.\n\nThe package, named \"imgdecode,\" was uploaded to the package registry on September 30, 2026, by a user named \"malfexteste8.\" It has been downloaded 979 times as of writing and is still available on npm as of writing. The latest version of",
-    "analysis": {
-      "issue": "The MALFEX-linked npm package imgdecode uses a Windows DLL to fetch and decrypt a GitHub payload before injecting it into dllhost",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
     "title": "Nikkei discloses third data breach in a month, 1.8M records exposed",
     "link": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/",
@@ -322,9 +322,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-15176",
         "CVE-2026-93479",
-        "CVE-2026-97205",
-        "CVE-2026-15176"
+        "CVE-2026-97205"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -418,8 +418,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-108398",
-        "CVE-2026-96951"
+        "CVE-2026-96951",
+        "CVE-2026-108398"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -536,9 +536,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-81963",
-        "CVE-2026-69730",
         "CVE-2026-69829",
-        "CVE-2026-85880"
+        "CVE-2026-85880",
+        "CVE-2026-69730"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -599,10 +599,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-108097",
-        "CVE-2026-108514",
         "CVE-2026-108515",
-        "CVE-2026-108099"
+        "CVE-2026-108514",
+        "CVE-2026-108099",
+        "CVE-2026-108097"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -663,9 +663,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-96654",
-        "CVE-2026-96655",
+        "CVE-2026-96652",
         "CVE-2026-96656",
-        "CVE-2026-96652"
+        "CVE-2026-96655"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -704,8 +704,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2024-26008",
         "CVE-2024-47575",
+        "CVE-2024-26008",
         "CVE-2025-61624"
       ],
       "threat_categories": [
@@ -786,8 +786,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2014-125110",
-        "CVE-2015-1000013"
+        "CVE-2015-1000013",
+        "CVE-2014-125110"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -826,8 +826,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-70229",
-        "CVE-2026-70571",
-        "CVE-2026-96951"
+        "CVE-2026-96951",
+        "CVE-2026-70571"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -905,8 +905,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-57256",
         "CVE-2026-48388",
+        "CVE-2026-57256",
         "CVE-2026-91799",
         "CVE-2026-50475"
       ],
@@ -1319,8 +1319,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
