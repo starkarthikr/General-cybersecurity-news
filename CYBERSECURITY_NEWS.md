@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-19 21:11:47 UTC
+**Last Updated:** 2026-10-20 04:19:28 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -94,7 +94,25 @@
 
 ---
 
-### 11. [Hackers hijack AOMEI update servers to secretly spread malware](https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/)
+### 11. [Nikkei discloses third data breach in a month, 1.8M records exposed](https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 19 Oct 2026 17:49:48 -0400  
+**Severity:** High  
+**Categories:** Data Breach  
+
+---
+
+### 12. [WordPress SEO plugin Rank Math compromised to backdoor websites](https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 19 Oct 2026 17:24:51 -0400  
+**Severity:** High  
+**Categories:** Malware  
+
+---
+
+### 13. [Hackers hijack AOMEI update servers to secretly spread malware](https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 19 Oct 2026 15:40:58 -0400  
@@ -103,7 +121,7 @@
 
 ---
 
-### 12. [Bullhorn takes staffing platform offline to contain cyberattack](https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/)
+### 14. [Bullhorn takes staffing platform offline to contain cyberattack](https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 19 Oct 2026 14:51:13 -0400  
@@ -112,7 +130,7 @@
 
 ---
 
-### 13. [OpenCode hack exposes API keys amid AI distillation attacks](https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/)
+### 15. [OpenCode hack exposes API keys amid AI distillation attacks](https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 19 Oct 2026 13:27:15 -0400  
@@ -121,7 +139,7 @@
 
 ---
 
-### 14. [Microsoft fixes game, app crashes caused by recent Windows update](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-game-app-crashes-caused-by-windows-kb5124010-preview-update/)
+### 16. [Microsoft fixes game, app crashes caused by recent Windows update](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-game-app-crashes-caused-by-windows-kb5124010-preview-update/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 19 Oct 2026 10:55:23 -0400  
@@ -130,7 +148,7 @@
 
 ---
 
-### 15. [Inside the Underground Market for Know Your Client Services](https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/)
+### 17. [Inside the Underground Market for Know Your Client Services](https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 19 Oct 2026 10:00:10 -0400  
@@ -139,17 +157,17 @@
 
 ---
 
-### 16. [F5 releases out-of-band patches for critical NGINX vulnerabilities](https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/)
+### 18. [F5 releases out-of-band patches for critical NGINX vulnerabilities](https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 19 Oct 2026 09:49:24 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-97205, CVE-2026-15176, CVE-2026-93479  
+**CVEs:** CVE-2026-93479, CVE-2026-97205, CVE-2026-15176  
 **Categories:** Vulnerability, APT  
 
 ---
 
-### 17. [Microsoft fixes classic Outlook bug that hid Copilot buttons](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/)
+### 19. [Microsoft fixes classic Outlook bug that hid Copilot buttons](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 19 Oct 2026 08:44:44 -0400  
@@ -158,29 +176,10 @@
 
 ---
 
-### 18. [Microsoft: October Windows Server updates break Exchange sign-in, mail flow](https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/)
+### 20. [Microsoft: October Windows Server updates break Exchange sign-in, mail flow](https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 19 Oct 2026 04:58:41 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 19. [Hackers exploit SiteGuard WAF flaw to run commands as admins](https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/)
-
-**Source:** Bleeping Computer  
-**Published:** Sun, 18 Oct 2026 10:23:16 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-106931  
-**Categories:** Vulnerability  
-
----
-
-### 20. [Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack](https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 17 Oct 2026 11:18:51 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -209,7 +208,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 13 Oct 2026 23:24:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-96951, CVE-2026-108398  
+**CVEs:** CVE-2026-108398, CVE-2026-96951  
 **Categories:** Vulnerability  
 
 ---
@@ -265,7 +264,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69730, CVE-2026-69829, CVE-2026-85880, CVE-2026-81963  
+**CVEs:** CVE-2026-81963, CVE-2026-69730, CVE-2026-69829, CVE-2026-85880  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -294,7 +293,7 @@
 **Source:** Security Week  
 **Published:** Mon, 19 Oct 2026 15:47:50 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-108099, CVE-2026-108514, CVE-2026-108515, CVE-2026-108097  
+**CVEs:** CVE-2026-108097, CVE-2026-108514, CVE-2026-108515, CVE-2026-108099  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -322,7 +321,7 @@
 **Source:** Security Week  
 **Published:** Mon, 19 Oct 2026 12:44:39 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-96655, CVE-2026-96656, CVE-2026-96652, CVE-2026-96654  
+**CVEs:** CVE-2026-96654, CVE-2026-96655, CVE-2026-96656, CVE-2026-96652  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -341,7 +340,7 @@
 **Source:** Security Week  
 **Published:** Mon, 19 Oct 2026 11:13:23 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2024-47575, CVE-2024-26008, CVE-2025-61624  
+**CVEs:** CVE-2024-26008, CVE-2024-47575, CVE-2025-61624  
 **Categories:** Vulnerability, Malware, APT  
 
 ---
@@ -378,7 +377,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 15 Oct 2026 18:00:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2015-1000013, CVE-2014-125110  
+**CVEs:** CVE-2014-125110, CVE-2015-1000013  
 **Categories:** Vulnerability  
 
 ---
@@ -397,7 +396,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 13 Oct 2026 20:37:58 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-96951, CVE-2026-70571, CVE-2026-70229  
+**CVEs:** CVE-2026-70229, CVE-2026-70571, CVE-2026-96951  
 **Categories:** Vulnerability  
 
 ---
@@ -434,7 +433,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 07 Oct 2026 19:27:08 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-50475, CVE-2026-48388, CVE-2026-57256, CVE-2026-91799  
+**CVEs:** CVE-2026-57256, CVE-2026-48388, CVE-2026-91799, CVE-2026-50475  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
