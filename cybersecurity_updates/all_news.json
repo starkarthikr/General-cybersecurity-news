@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
+    "link": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
+    "published": "Tue, 20 Oct 2026 22:39:53 +0530",
+    "summary": "The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised,&nbsp;Mozilla&nbsp;and&nbsp;Google's Chrome Root Program&nbsp;confirms on October 20.\n\nAn intermediate CA signs the certificates that websites present, so anyone holding one of these keys could issue a certificate for any website that a browser would accept.\n\nA researcher reported the",
+    "analysis": {
+      "issue": "Eight eMudhra CA keys were compromised, prompting browser blocks and software fixes",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
     "link": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
     "published": "Tue, 20 Oct 2026 21:08:52 +0530",
@@ -165,20 +183,39 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware",
-    "link": "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html",
-    "published": "Tue, 20 Oct 2026 13:51:29 +0530",
-    "summary": "An attacker used a contributor's GitHub account to replace the download archives on five existing releases of OVHcloud's command-line tool on Monday, October 19. The account had been hijacked, and the new files were a build designed to steal secrets stored on the disk of any machine that runs it, the cloud provider says.\n\nThey were live on GitHub for up to 94 minutes, from 12:47 to 14:21 UTC,",
+    "source": "Bleeping Computer",
+    "title": "Zeabur shutting down after second security breach in two months",
+    "link": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
+    "published": "Tue, 20 Oct 2026 15:33:02 -0400",
+    "summary": "Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over 3.2 million environment variable records and information for 321,810 accounts. [...]",
     "analysis": {
-      "issue": "Attackers replaced OVHcloud CLI downloads across five GitHub releases with secret-stealing builds for up to 94 minutes on October 19",
+      "issue": "Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over 3",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "Data Breach",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/",
+    "published": "Tue, 20 Oct 2026 14:11:03 -0400",
+    "summary": "OpenAI confirmed that its newer models are much better at writing and migrating software in older programming languages. [...]",
+    "analysis": {
+      "issue": "OpenAI confirmed that its newer models are much better at writing and migrating software in older programming languages",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -327,43 +364,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "WordPress SEO plugin Rank Math compromised to backdoor websites",
-    "link": "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/",
-    "published": "Mon, 19 Oct 2026 17:24:51 -0400",
-    "summary": "Some downloads of the Rank Math PRO WordPress plugin from the vendor's official website carried malware that planted hidden backdoors in a supply-chain attack last week. [...]",
-    "analysis": {
-      "issue": "Some downloads of the Rank Math PRO WordPress plugin from the vendor’s official website carried malware that planted hidden backdoors in a supply-chain attack last week",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers hijack AOMEI update servers to secretly spread malware",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
-    "published": "Mon, 19 Oct 2026 15:40:58 -0400",
-    "summary": "Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering with configuration files before restoring them to their original state to hide the attacks.a [...]",
-    "analysis": {
-      "issue": "Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering with configuration files before restoring them to their original state to hide the attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
     "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
@@ -413,8 +413,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-108398",
-        "CVE-2026-96951"
+        "CVE-2026-96951",
+        "CVE-2026-108398"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -530,10 +530,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-81963",
-        "CVE-2026-69829",
         "CVE-2026-85880",
-        "CVE-2026-69730"
+        "CVE-2026-81963",
+        "CVE-2026-69730",
+        "CVE-2026-69829"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -819,9 +819,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-96951",
         "CVE-2026-70229",
-        "CVE-2026-70571",
-        "CVE-2026-96951"
+        "CVE-2026-70571"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -899,10 +899,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-91799",
         "CVE-2026-57256",
+        "CVE-2026-50475",
         "CVE-2026-48388",
-        "CVE-2026-50475"
+        "CVE-2026-91799"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1295,8 +1295,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1507,19 +1507,19 @@
   },
   {
     "source": "Crowdstrike Blog",
-    "title": "October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities",
-    "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2026/",
-    "published": "Oct 13, 2026 00:00:00-0500",
+    "title": "CrowdStrike Achieves NCSC CIR Enhanced Level Assurance",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-uk-ncsc-cir-enhanced-level-assurance/",
+    "published": "Oct 20, 2026 00:00:00-0500",
     "summary": "",
     "analysis": {
-      "issue": "Microsoft has released security updates for 1,413 vulnerabilities, including one exploited zero-day, two publicly disclosed zero-days, and 75 critical, in its October 2026 Patch Tuesday rollout",
+      "issue": "CrowdStrike has been assured at the Enhanced Level of the NCSC CIR scheme, the highest level of incident response assurance the UK government offers, building on the CIR Standard Level assurance announced earlier this year",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Critical",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "General Security"
       ]
     }
   },
@@ -1538,6 +1538,24 @@
       "cves": [],
       "threat_categories": [
         "APT"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
+    "title": "October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities",
+    "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2026/",
+    "published": "Oct 13, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "Microsoft has released security updates for 1,413 vulnerabilities, including one exploited zero-day, two publicly disclosed zero-days, and 75 critical, in its October 2026 Patch Tuesday rollout",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -1664,24 +1682,6 @@
       "cves": [],
       "threat_categories": [
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Expands Federal SOC Modernization Through CISA-Funded SIEMaaS",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-federal-soc-modernization-via-cisa-siemaas/",
-    "published": "Oct 01, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "Falcon Next-Gen SIEM joins CISA’s SIEMaaS technology stack, which gives eligible agencies a funded path to modernize security through the CDM DEFEND F shared service",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   }

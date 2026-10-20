@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-20 16:38:56 UTC
+**Last Updated:** 2026-10-20 20:05:07 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution](https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html)
+### 1. [Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software](https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 20 Oct 2026 22:39:53 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution](https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 20 Oct 2026 21:08:52 +0530  
@@ -14,7 +23,7 @@
 
 ---
 
-### 2. [Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA](https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html)
+### 3. [Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA](https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 20 Oct 2026 21:02:27 +0530  
@@ -23,7 +32,7 @@
 
 ---
 
-### 3. [Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites](https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html)
+### 4. [Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites](https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 20 Oct 2026 19:37:17 +0530  
@@ -32,7 +41,7 @@
 
 ---
 
-### 4. [Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election](https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html)
+### 5. [Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election](https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 20 Oct 2026 18:29:44 +0530  
@@ -41,7 +50,7 @@
 
 ---
 
-### 5. [WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators](https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html)
+### 6. [WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators](https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 20 Oct 2026 17:11:06 +0530  
@@ -50,7 +59,7 @@
 
 ---
 
-### 6. [What Security Teams Can Do To Tame Wild Code](https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html)
+### 7. [What Security Teams Can Do To Tame Wild Code](https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 20 Oct 2026 17:03:04 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns](https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html)
+### 8. [Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns](https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 20 Oct 2026 17:02:59 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader](https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html)
+### 9. [Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader](https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 20 Oct 2026 16:36:25 +0530  
@@ -77,7 +86,7 @@
 
 ---
 
-### 9. [ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident](https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html)
+### 10. [ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident](https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 20 Oct 2026 16:26:08 +0530  
@@ -86,16 +95,25 @@
 
 ---
 
-### 10. [Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware](https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html)
+### 11. [Zeabur shutting down after second security breach in two months](https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 20 Oct 2026 13:51:29 +0530  
+**Source:** Bleeping Computer  
+**Published:** Tue, 20 Oct 2026 15:33:02 -0400  
 **Severity:** Low  
-**Categories:** Malware  
+**Categories:** Data Breach, Vulnerability  
 
 ---
 
-### 11. [DHS bans DeepSeek products across US federal civilian agencies](https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/)
+### 12. [OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 20 Oct 2026 14:11:03 -0400  
+**Severity:** Critical  
+**Categories:** General Security  
+
+---
+
+### 13. [DHS bans DeepSeek products across US federal civilian agencies](https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 20 Oct 2026 10:19:05 -0400  
@@ -104,7 +122,7 @@
 
 ---
 
-### 12. [CJIS v6.1 Compliance: 5 Practical Priorities for Agencies](https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/)
+### 14. [CJIS v6.1 Compliance: 5 Practical Priorities for Agencies](https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 20 Oct 2026 09:51:00 -0400  
@@ -113,7 +131,7 @@
 
 ---
 
-### 13. [Hacker gets 8 years for stealing $3.3 million from taxpayers](https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/)
+### 15. [Hacker gets 8 years for stealing $3.3 million from taxpayers](https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 20 Oct 2026 09:18:36 -0400  
@@ -122,7 +140,7 @@
 
 ---
 
-### 14. [Windows Server 2025 gets support for quick machine recovery](https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/)
+### 16. [Windows Server 2025 gets support for quick machine recovery](https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 20 Oct 2026 08:16:32 -0400  
@@ -131,7 +149,7 @@
 
 ---
 
-### 15. [OVHcloud CLI releases backdoored on GitHub to steal developer secrets](https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/)
+### 17. [OVHcloud CLI releases backdoored on GitHub to steal developer secrets](https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 20 Oct 2026 07:31:22 -0400  
@@ -140,7 +158,7 @@
 
 ---
 
-### 16. [Ahold Delhaize: Cyberattack affects services across US and Europe](https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/)
+### 18. [Ahold Delhaize: Cyberattack affects services across US and Europe](https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 20 Oct 2026 07:18:35 -0400  
@@ -149,7 +167,7 @@
 
 ---
 
-### 17. [Revolut outage disrupts online banking operations worldwide](https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/)
+### 19. [Revolut outage disrupts online banking operations worldwide](https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 20 Oct 2026 05:46:44 -0400  
@@ -158,30 +176,12 @@
 
 ---
 
-### 18. [Nikkei discloses third data breach in a month, 1.8M records exposed](https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/)
+### 20. [Nikkei discloses third data breach in a month, 1.8M records exposed](https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 19 Oct 2026 17:49:48 -0400  
 **Severity:** High  
 **Categories:** Data Breach  
-
----
-
-### 19. [WordPress SEO plugin Rank Math compromised to backdoor websites](https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 19 Oct 2026 17:24:51 -0400  
-**Severity:** High  
-**Categories:** Malware  
-
----
-
-### 20. [Hackers hijack AOMEI update servers to secretly spread malware](https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 19 Oct 2026 15:40:58 -0400  
-**Severity:** High  
-**Categories:** Malware, Supply Chain  
 
 ---
 
@@ -208,7 +208,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 13 Oct 2026 23:24:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-108398, CVE-2026-96951  
+**CVEs:** CVE-2026-96951, CVE-2026-108398  
 **Categories:** Vulnerability  
 
 ---
@@ -264,7 +264,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81963, CVE-2026-69829, CVE-2026-85880, CVE-2026-69730  
+**CVEs:** CVE-2026-85880, CVE-2026-81963, CVE-2026-69730, CVE-2026-69829  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -403,7 +403,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 13 Oct 2026 20:37:58 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-70229, CVE-2026-70571, CVE-2026-96951  
+**CVEs:** CVE-2026-96951, CVE-2026-70229, CVE-2026-70571  
 **Categories:** Vulnerability  
 
 ---
@@ -440,7 +440,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 07 Oct 2026 19:27:08 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-91799, CVE-2026-57256, CVE-2026-48388, CVE-2026-50475  
+**CVEs:** CVE-2026-57256, CVE-2026-50475, CVE-2026-48388, CVE-2026-91799  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -633,7 +633,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -738,12 +738,12 @@
 
 ---
 
-### 81. [October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2026/)
+### 81. [CrowdStrike Achieves NCSC CIR Enhanced Level Assurance](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-uk-ncsc-cir-enhanced-level-assurance/)
 
 **Source:** Crowdstrike Blog  
-**Published:** Oct 13, 2026 00:00:00-0500  
-**Severity:** Critical  
-**Categories:** Vulnerability  
+**Published:** Oct 20, 2026 00:00:00-0500  
+**Severity:** High  
+**Categories:** General Security  
 
 ---
 
@@ -756,7 +756,16 @@
 
 ---
 
-### 83. [CrowdStrike and Anthropic Give Critical Infrastructure Defenders the AI Advantage](https://www.crowdstrike.com/en-us/blog/crowdstrike-anthropic-critical-infrastructure-defense-program/)
+### 83. [October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2026/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Oct 13, 2026 00:00:00-0500  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 84. [CrowdStrike and Anthropic Give Critical Infrastructure Defenders the AI Advantage](https://www.crowdstrike.com/en-us/blog/crowdstrike-anthropic-critical-infrastructure-defense-program/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 08, 2026 00:00:00-0500  
@@ -765,7 +774,7 @@
 
 ---
 
-### 84. [Solving the Continuous Authorization Conundrum](https://www.crowdstrike.com/en-us/blog/solving-the-continuous-authorization-conundrum/)
+### 85. [Solving the Continuous Authorization Conundrum](https://www.crowdstrike.com/en-us/blog/solving-the-continuous-authorization-conundrum/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 08, 2026 00:00:00-0500  
@@ -774,7 +783,7 @@
 
 ---
 
-### 85. [Unknown Threat Actor Uses AI-Driven ARTEX to Target South Korean Finance](https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/)
+### 86. [Unknown Threat Actor Uses AI-Driven ARTEX to Target South Korean Finance](https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 07, 2026 00:00:00-0500  
@@ -783,7 +792,7 @@
 
 ---
 
-### 86. [CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Modern Endpoint Security for Enterprises Vendor Assessment](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-modern-endpoint-security-for-enterprises/)
+### 87. [CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Modern Endpoint Security for Enterprises Vendor Assessment](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-modern-endpoint-security-for-enterprises/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 07, 2026 00:00:00-0500  
@@ -792,7 +801,7 @@
 
 ---
 
-### 87. [Request, Aggregate, Bypass: How Attackers Can Evade LLM Safety Classifiers](https://www.crowdstrike.com/en-us/blog/how-attackers-can-bypass-llm-safety-classifiers/)
+### 88. [Request, Aggregate, Bypass: How Attackers Can Evade LLM Safety Classifiers](https://www.crowdstrike.com/en-us/blog/how-attackers-can-bypass-llm-safety-classifiers/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 06, 2026 00:00:00-0500  
@@ -801,7 +810,7 @@
 
 ---
 
-### 88. [Falcon Data Security for SaaS Secures Sensitive Data in Microsoft 365](https://www.crowdstrike.com/en-us/blog/falcon-data-security-for-saas-secures-sensitive-data/)
+### 89. [Falcon Data Security for SaaS Secures Sensitive Data in Microsoft 365](https://www.crowdstrike.com/en-us/blog/falcon-data-security-for-saas-secures-sensitive-data/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 05, 2026 00:00:00-0500  
@@ -810,21 +819,12 @@
 
 ---
 
-### 89. [New in Falcon Cloud Security: Third-Party App Insights and AI-Enhanced Remediation](https://www.crowdstrike.com/en-us/blog/falcon-cloud-security-third-party-app-insights-ai-enhanced-remedation/)
+### 90. [New in Falcon Cloud Security: Third-Party App Insights and AI-Enhanced Remediation](https://www.crowdstrike.com/en-us/blog/falcon-cloud-security-third-party-app-insights-ai-enhanced-remedation/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 05, 2026 00:00:00-0500  
 **Severity:** Low  
 **Categories:** Supply Chain  
-
----
-
-### 90. [CrowdStrike Expands Federal SOC Modernization Through CISA-Funded SIEMaaS](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-federal-soc-modernization-via-cisa-siemaas/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Oct 01, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
