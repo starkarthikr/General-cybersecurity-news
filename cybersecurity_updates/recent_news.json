@@ -1,6 +1,151 @@
 [
   {
     "source": "The Hacker News",
+    "title": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators",
+    "link": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html",
+    "published": "Tue, 20 Oct 2026 17:11:06 +0530",
+    "summary": "WhatsApp's help pages carried hidden instructions for its support chatbot that told it not to recommend a data protection authority or regulator to users who could no longer delete their accounts, even though WhatsApp's own privacy policy for Europe tells users they can complain to one.\n\nThe text sat in the pages' code, never shown on screen, until it was removed by October 18. Whether the",
+    "analysis": {
+      "issue": "WhatsApp removed hidden help-page instructions telling its AI support chatbot not to recommend privacy regulators or cite data protection laws",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "What Security Teams Can Do To Tame Wild Code",
+    "link": "https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html",
+    "published": "Tue, 20 Oct 2026 17:03:04 +0530",
+    "summary": "A sales manager builds an AI-assisted workflow to route leads. It connects to customer records, summarizes inbound requests, and posts updates to a shared channel. The workflow saves time, reduces manual work, and soon becomes part of the team’s daily routine. Across the same organization, employees are building useful apps, agents, and automations faster than existing processes can support them",
+    "analysis": {
+      "issue": "Employee-built AI apps and agents can expose sensitive data through excessive permissions, making runtime controls and oversight essential",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns",
+    "link": "https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html",
+    "published": "Tue, 20 Oct 2026 17:02:59 +0530",
+    "summary": "Go 1.27.3 and Go 1.26.10, released on October 20, make Go's certificate verifier reject any certificate chain that passes through one of&nbsp;eight intermediate certificate authority keys.\n\nPrograms built on the new release will refuse connections to sites and services whose certificates were issued under those keys. The Go team says the keys belong to one certificate authority it has not",
+    "analysis": {
+      "issue": "10 block eight CA public keys, rejecting certificate chains that use them after applications are rebuilt",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader",
+    "link": "https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html",
+    "published": "Tue, 20 Oct 2026 16:36:25 +0530",
+    "summary": "The Russia-linked state-sponsored threat actor tracked as APT28 (aka BlueDelta, Fancy Bear, and Forest Blizzard) has been attributed to attacks targeting two member states of the North Atlantic Treaty Organization (NATO).\n\nThe Symantec Threat Hunter Team, which is tracking the activity cluster under the moniker Swallowtail, involved the use of a backdoor called HOOKEDGE and a previously",
+    "analysis": {
+      "issue": "APT28 targeted two NATO states with HOOKEDGE and a new reflective loader, stealing credentials and establishing an SSH tunnel at a naval shipbuilder",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident",
+    "link": "https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html",
+    "published": "Tue, 20 Oct 2026 16:26:08 +0530",
+    "summary": "ConnectWise on Monday said it has taken remediation measures, including strengthening administrative-access protections and resetting accounts and replacing application credentials, as it continues to respond to a security incident that led to unauthorized access to application identities associated with Cloud Backup.\n\nThe company said it has completed the following actions since it began",
+    "analysis": {
+      "issue": "ConnectWise suspended Cloud Backup after unauthorized access to application identities; Huntress observed app backdoors in two Microsoft 365 tenants",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware",
+    "link": "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html",
+    "published": "Tue, 20 Oct 2026 13:51:29 +0530",
+    "summary": "An attacker used a contributor's GitHub account to replace the download archives on five existing releases of OVHcloud's command-line tool on Monday, October 19. The account had been hijacked, and the new files were a build designed to steal secrets stored on the disk of any machine that runs it, the cloud provider says.\n\nThey were live on GitHub for up to 94 minutes, from 12:47 to 14:21 UTC,",
+    "analysis": {
+      "issue": "Attackers replaced OVHcloud CLI downloads across five GitHub releases with secret-stealing builds for up to 94 minutes on October 19",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan",
+    "link": "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html",
+    "published": "Tue, 20 Oct 2026 12:41:45 +0530",
+    "summary": "Siemens has addressed a DLL sideloading vulnerability impacting Siemens Software Center that it said has been exploited in ClickFix attacks.\n\nThe high-severity vulnerability, tracked as CVE-2026-110936 (CVSS v4 score: 8.4), could allow an attacker to place a specially-crafted DLL in a directory the application searches, resulting in execution of malicious code with the same privileges as the",
+    "analysis": {
+      "issue": "Siemens patched a DLL sideloading flaw in Software Center exploited in ClickFix attacks to execute malicious code through a trusted application",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge",
+    "link": "https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html",
+    "published": "Tue, 20 Oct 2026 11:23:16 +0530",
+    "summary": "A U.S. court on Monday granted the U.S. government's request to detain a former OpenAI engineer accused of planting a recording device in an executive conference room at the company's San Francisco office to allegedly steal sensitive secrets.\n\nIn a new court filing Sunday, prosecutors revealed that Abdulrahman Alfozan, a 35-year-old Saudi national, was \"in frequent communications via WhatsApp",
+    "analysis": {
+      "issue": "court detained an ex-OpenAI engineer accused of planting a recording device as prosecutors revealed his contacts with a Saudi royal",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware",
     "link": "https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html",
     "published": "Tue, 20 Oct 2026 09:35:58 +0530",
@@ -37,87 +182,49 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor",
-    "link": "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html",
-    "published": "Mon, 19 Oct 2026 21:58:47 +0530",
-    "summary": "Copies of Rank Math PRO, the paid version of the Rank Math SEO plugin for WordPress, that were downloaded from rankmath.com or delivered as updates between 20:02 UTC on October 15 and 07:12 UTC on October 16 contained malware, Rank Math said in a&nbsp;security notice&nbsp;published on October 16.\n\nAny site that installed and activated one of those copies should be treated as compromised, and the",
+    "source": "Bleeping Computer",
+    "title": "Hacker gets 8 years for stealing $3.3 million from taxpayers",
+    "link": "https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/",
+    "published": "Tue, 20 Oct 2026 09:18:36 -0400",
+    "summary": "A Nigerian national was sentenced to eight years in prison for his involvement in a series of spearphishing attacks targeting US tax preparation businesses since 2019. [...]",
     "analysis": {
-      "issue": "Rank Math PRO distributed malware for 11 hours, exposing WordPress sites that activated affected builds to persistent backdoors",
+      "issue": "A Nigerian national was sentenced to eight years in prison for his involvement in a series of spearphishing attacks targeting US tax preparation businesses since 2019",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "Phishing"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More",
-    "link": "https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html",
-    "published": "Mon, 19 Oct 2026 19:44:07 +0530",
-    "summary": "The worst problems don't always come with a warning. Sometimes they arrive through a service everyone trusts, a device someone bought, or a system nobody thought to check. By the time something looks wrong, the damage may already be done.\n\nThis week had plenty of that. Trusted connections became a problem. Hardware wasn't as safe as it looked. Old bugs found new victims, and some systems were",
+    "source": "Bleeping Computer",
+    "title": "Windows Server 2025 gets support for quick machine recovery",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/",
+    "published": "Tue, 20 Oct 2026 08:16:32 -0400",
+    "summary": "Microsoft announced that IT administrators can now use quick machine recovery on Windows Server 2025 after installing the October 2026 security update. [...]",
     "analysis": {
-      "issue": "This week's cybersecurity recap covers cloud breaches, rogue AI agents, zero-days, wallet backdoors, phishing, and supply-chain attacks",
+      "issue": "Microsoft announced that IT administrators can now use quick machine recovery on Windows Server 2025 after installing the October 2026 security update",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories",
-    "link": "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html",
-    "published": "Mon, 19 Oct 2026 18:35:45 +0530",
-    "summary": "The threat actor behind the GhostAction supply chain attack has expanded beyond injecting malicious GitHub Actions workflows into compromised projects to phish open-source developers and deliver a stealer malware disguised within a fake font file.\n\nThe latest evolution, detailed by OpenSourceMalware, signals that the attackers are actively refining their modus operandi in response to steps",
-    "analysis": {
-      "issue": "GhostAction operators add GitHub-themed phishing and a VS Code-triggered stealer to compromised repositories, with 94 carrying the second stage",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software",
-    "link": "https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html",
-    "published": "Mon, 19 Oct 2026 17:20:00 +0530",
-    "summary": "In Salesforce Agentforce, the recommended way to make an agent respond to events is a Flow: a record is created or a case is updated, and the Flow passes data into the agent's prompt. Separately, Email-to-Case and Web-to-Case turn inbound customer messages into case records; it is how airlines and hotels run support intake. Both are standard, documented, as-designed features. Chained together,",
-    "analysis": {
-      "issue": "Salesforce Agentforce workflows can route untrusted customer messages into agent prompts, exposing gaps in enterprise AI agent governance",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
         "General Security"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic",
-    "link": "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html",
-    "published": "Mon, 19 Oct 2026 15:36:40 +0530",
-    "summary": "A fake Web3 accelerator has been observed pushing information stealers and backdoors to Windows and macOS systems using malicious npm packages under the pretext of offering free artificial intelligence (AI) credits for Anthropic Claude and Google Gemini, coding tools, and security audits.\n\n\"The tools delivered information-stealing malware and backdoors for macOS and Windows machines,\" Elastic",
+    "source": "Bleeping Computer",
+    "title": "OVHcloud CLI releases backdoored on GitHub to steal developer secrets",
+    "link": "https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/",
+    "published": "Tue, 20 Oct 2026 07:31:22 -0400",
+    "summary": "French cloud and hosting provider OVHcloud is warning users that attackers compromised its open-source command-line interface (CLI) tool to distribute information-stealing malware. [...]",
     "analysis": {
-      "issue": "Fake Apex Accelerator npm packages deliver Windows stealers and a macOS backdoor while redirecting AI agent requests to attacker services",
+      "issue": "French cloud and hosting provider OVHcloud is warning users that attackers compromised its open-source command-line interface (CLI) tool to distribute information-stealing malware",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -129,13 +236,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
-    "link": "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html",
-    "published": "Mon, 19 Oct 2026 11:59:44 +0530",
-    "summary": "A flaw in Broadcom's Wi-Fi setup software lets an attacker within radio range run code as root on Broadcom-based routers, without the network password or any pairing step, security researcher Quentin Kaiser&nbsp;disclosed&nbsp;on October 16.\n\nHe showed the attack working against home gateways supplied by three Belgian internet providers, in one case reading the Wi-Fi password off the device",
+    "source": "Bleeping Computer",
+    "title": "Ahold Delhaize: Cyberattack affects services across US and Europe",
+    "link": "https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/",
+    "published": "Tue, 20 Oct 2026 07:18:35 -0400",
+    "summary": "Ahold Delhaize, one of the world's largest food retail chains, confirmed that last week's cyberattack disrupted services at stores across Europe and the United States. [...]",
     "analysis": {
-      "issue": "A Broadcom WPS flaw lets nearby attackers run code as root on affected routers without a Wi-Fi password; no patch or CVE is available",
+      "issue": "Ahold Delhaize, one of the world's largest food retail chains, confirmed that last week's cyberattack disrupted services at stores across Europe and the United States",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -147,31 +254,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys",
-    "link": "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html",
-    "published": "Mon, 19 Oct 2026 11:37:08 +0530",
-    "summary": "An intruder reached a legacy system at OpenCode on the night of October 16 and may have exposed the third-party AI provider keys that users had saved in OpenCode Console, the company said.\n\nConsole is OpenCode's optional hosted service: a workspace saves its own OpenAI, Anthropic, or Google key there, and Console uses that key to call the provider so team members can use the models without",
+    "source": "Bleeping Computer",
+    "title": "Revolut outage disrupts online banking operations worldwide",
+    "link": "https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/",
+    "published": "Tue, 20 Oct 2026 05:46:44 -0400",
+    "summary": "Fintech company Revolut is working to resolve a massive outage that disrupted most of its services worldwide earlier today. [...]",
     "analysis": {
-      "issue": "OpenCode says a Console breach may have exposed AI provider keys belonging to 1",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
-    "link": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
-    "published": "Sun, 18 Oct 2026 13:53:02 +0530",
-    "summary": "ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application identities and compromised Microsoft 365 tenants.\n\nThe disabled identities are listed below -\n\n\n  ConnectWise Cloud Backup - 506e08f9-6e9a-4da4-942b-a099a03644ae\n  ConnectWise",
-    "analysis": {
-      "issue": "ConnectWise disabled seven application identities and suspended Cloud Backup after attackers compromised Microsoft 365 tenants",
+      "issue": "Fintech company Revolut is working to resolve a massive outage that disrupted most of its services worldwide earlier today",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -263,101 +352,6 @@
     "summary": "The open-source AI coding project OpenCode has notified a small number of users that API keys they used with external providers were exposed in a security breach. [...]",
     "analysis": {
       "issue": "The open-source AI coding project OpenCode has notified some users that stored API keys they used with external providers were exposed in a security breach",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft fixes game, app crashes caused by recent Windows update",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-game-app-crashes-caused-by-windows-kb5124010-preview-update/",
-    "published": "Mon, 19 Oct 2026 10:55:23 -0400",
-    "summary": "Microsoft has resolved a bug that caused games and apps using AC-3 (Dolby Digital) audio decoding to crash after installing the September 2026 Windows 11 preview update (KB5124010). [...]",
-    "analysis": {
-      "issue": "Microsoft has fixed a known issue that caused games and Windows 11 apps using AC-3 (Dolby Digital) audio decoding to crash after installing the September 2026 preview update (KB5124010)",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Inside the Underground Market for Know Your Client Services",
-    "link": "https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/",
-    "published": "Mon, 19 Oct 2026 10:00:10 -0400",
-    "summary": "Cybercriminals are selling forged identity documents, deepfake videos, and live verification services to help buyers bypass Know Your Client (KYC) checks. Flare examines how these underground services operate and the techniques used to create and maintain fraudulent verified accounts. [...]",
-    "analysis": {
-      "issue": "In February 2026, the operator of OnlyFake pleaded guilty in the United States for his role in a service that generated more than 10,000 fraudulent digital identity documents",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "F5 releases out-of-band patches for critical NGINX vulnerabilities",
-    "link": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/",
-    "published": "Mon, 19 Oct 2026 09:49:24 -0400",
-    "summary": "F5 has released out-of-band security patches to address multiple NGINX web server flaws, including three critical-severity vulnerabilities that can let attackers execute code on vulnerable systems. [...]",
-    "analysis": {
-      "issue": "F5 has released out-of-band security patches to address multiple NGINX web server flaws, including three critical-severity vulnerabilities that can let attackers execute code on vulnerable systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-15176",
-        "CVE-2026-93479",
-        "CVE-2026-97205"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft fixes classic Outlook bug that hid Copilot buttons",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/",
-    "published": "Mon, 19 Oct 2026 08:44:44 -0400",
-    "summary": "Microsoft has fixed a known issue that removed the Copilot Chat and Copilot buttons in the classic Outlook desktop mail client for some Windows users. [...]",
-    "analysis": {
-      "issue": "Microsoft has fixed a known issue that removed the Copilot Chat and Copilot buttons in the classic Outlook desktop mail client for some Windows users",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft: October Windows Server updates break Exchange sign-in, mail flow",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/",
-    "published": "Mon, 19 Oct 2026 04:58:41 -0400",
-    "summary": "Microsoft has confirmed that this month's Windows Server security updates are causing OWA sign-in and mail delivery issues on some Exchange Server systems. [...]",
-    "analysis": {
-      "issue": "Microsoft has confirmed that this month's Windows Server security updates are causing OWA sign-in and mail delivery issues on some Exchange Server systems",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -536,9 +530,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-81963",
-        "CVE-2026-69829",
+        "CVE-2026-69730",
         "CVE-2026-85880",
-        "CVE-2026-69730"
+        "CVE-2026-69829"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -561,6 +555,132 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "The Key to AI Software Security Isn’t Speed, It’s Maturity",
+    "link": "https://www.securityweek.com/the-key-to-ai-software-security-isnt-speed-its-maturity/",
+    "published": "Tue, 20 Oct 2026 13:34:23 +0000",
+    "summary": "<p>Where your developers sit on the AI adoption scale has a real impact on how you are addressing security risk.</p>\n<p>The post <a href=\"https://www.securityweek.com/the-key-to-ai-software-security-isnt-speed-its-maturity/\">The Key to AI Software Security Isn’t Speed, It’s Maturity</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Where your developers sit on the AI adoption scale has a real impact on how you are addressing security risk",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Ahold Delhaize Restoring Services Disrupted by Cyberattack",
+    "link": "https://www.securityweek.com/ahold-delhaize-restoring-services-disrupted-by-cyberattack/",
+    "published": "Tue, 20 Oct 2026 13:02:18 +0000",
+    "summary": "<p>The company has restored many websites and apps in Europe and expects e-commerce brands in the US to be restored in days.</p>\n<p>The post <a href=\"https://www.securityweek.com/ahold-delhaize-restoring-services-disrupted-by-cyberattack/\">Ahold Delhaize Restoring Services Disrupted by Cyberattack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The company has restored many websites and apps in Europe and expects e-commerce brands in the US to be restored in days",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "AI Platform Cairn Abused to Hack Over 100 Organizations",
+    "link": "https://www.securityweek.com/ai-platform-cairn-abused-to-hack-over-100-organizations/",
+    "published": "Tue, 20 Oct 2026 12:47:22 +0000",
+    "summary": "<p>At least three threat actors have been abusing Cairn for persistent access and financial theft.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-platform-cairn-abused-to-hack-over-100-organizations/\">AI Platform Cairn Abused to Hack Over 100 Organizations</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "At least three threat actors have been abusing Cairn for persistent access and financial theft",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Ex-OpenAI Worker Accused of Bugging Conference Room Planned to Fly to Saudi Arabia, Prosecutors Say",
+    "link": "https://www.securityweek.com/ex-openai-worker-accused-of-bugging-conference-room-planned-to-fly-to-saudi-arabia-prosecutors-say/",
+    "published": "Tue, 20 Oct 2026 12:33:12 +0000",
+    "summary": "<p>Abdulrahman Alfozan’s wife and young son also left the country the day after the 35-year-old Saudi national’s arrest.</p>\n<p>The post <a href=\"https://www.securityweek.com/ex-openai-worker-accused-of-bugging-conference-room-planned-to-fly-to-saudi-arabia-prosecutors-say/\">Ex-OpenAI Worker Accused of Bugging Conference Room Planned to Fly to Saudi Arabia, Prosecutors Say</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Abdulrahman Alfozan’s wife and young son also left the country the day after the 35-year-old Saudi national’s arrest",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Microsoft Targets Rogue AI Agents With Dynamic Permissions, Risk Scoring",
+    "link": "https://www.securityweek.com/microsoft-targets-rogue-ai-agents-with-dynamic-permissions-risk-scoring/",
+    "published": "Tue, 20 Oct 2026 11:30:18 +0000",
+    "summary": "<p>Microsoft says companies should treat AI agents as insiders, and is adding controls that grant access per task and tighten it as an agent’s risk rises.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-targets-rogue-ai-agents-with-dynamic-permissions-risk-scoring/\">Microsoft Targets Rogue AI Agents With Dynamic Permissions, Risk Scoring</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Microsoft says companies should treat AI agents as insiders, and is adding controls that grant access per task and tighten it as an agent’s risk rises",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Hackers Steal 1.8 Million Records From Nikkei",
+    "link": "https://www.securityweek.com/hackers-steal-1-8-million-records-from-nikkei/",
+    "published": "Tue, 20 Oct 2026 10:35:18 +0000",
+    "summary": "<p>The compromised information includes names, addresses, email addresses, phone numbers, and dates of birth.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-steal-1-8-million-records-from-nikkei/\">Hackers Steal 1.8 Million Records From Nikkei</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The compromised information includes names, addresses, email addresses, phone numbers, and dates of birth",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "970,000 Medi-Cal Members Affected by Paradigm Healthcare Data Breach",
+    "link": "https://www.securityweek.com/970000-medi-cal-members-affected-by-paradigm-healthcare-data-breach/",
+    "published": "Tue, 20 Oct 2026 09:33:49 +0000",
+    "summary": "<p>Paradigm Healthcare Services detected an intrusion in October 2025, but it took nearly a year to start notifying affected individuals.</p>\n<p>The post <a href=\"https://www.securityweek.com/970000-medi-cal-members-affected-by-paradigm-healthcare-data-breach/\">970,000 Medi-Cal Members Affected by Paradigm Healthcare Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Paradigm Healthcare Services detected an intrusion in October 2025, but it took nearly a year to start notifying affected individuals",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
       ]
     }
   },
@@ -599,10 +719,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-108515",
-        "CVE-2026-108514",
         "CVE-2026-108099",
-        "CVE-2026-108097"
+        "CVE-2026-108515",
+        "CVE-2026-108097",
+        "CVE-2026-108514"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -631,149 +751,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "ConnectWise Suspends Cloud Services in Response to Cyberattack",
-    "link": "https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/",
-    "published": "Mon, 19 Oct 2026 13:16:20 +0000",
-    "summary": "<p>The services remain unavailable as the company continues remediation and security validation.</p>\n<p>The post <a href=\"https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/\">ConnectWise Suspends Cloud Services in Response to Cyberattack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The services remain unavailable as the company continues remediation and security validation",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Plex2Shell Exploit Chain Weaponized Against Plex Servers Hours After Disclosure",
-    "link": "https://www.securityweek.com/plex2shell-exploit-chain-weaponized-against-plex-servers-hours-after-disclosure/",
-    "published": "Mon, 19 Oct 2026 12:44:39 +0000",
-    "summary": "<p>Threat actors have been observed delivering cryptocurrency miners and proxy software.</p>\n<p>The post <a href=\"https://www.securityweek.com/plex2shell-exploit-chain-weaponized-against-plex-servers-hours-after-disclosure/\">Plex2Shell Exploit Chain Weaponized Against Plex Servers Hours After Disclosure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Threat actors have been observed delivering cryptocurrency miners and proxy software",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-96654",
-        "CVE-2026-96652",
-        "CVE-2026-96656",
-        "CVE-2026-96655"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "One Compromised Login Exposed Millions of California Students’ Records",
-    "link": "https://www.securityweek.com/one-compromised-login-exposed-millions-of-california-students-records/",
-    "published": "Mon, 19 Oct 2026 11:55:50 +0000",
-    "summary": "<p>Intruders used compromised credentials to access an ETS SFTP server, copying records of California students back to 2006.</p>\n<p>The post <a href=\"https://www.securityweek.com/one-compromised-login-exposed-millions-of-california-students-records/\">One Compromised Login Exposed Millions of California Students&#8217; Records</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Intruders used compromised credentials to access an ETS SFTP server, copying records of California students back to 2006",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Exploited Fortinet Bug Linked to Stealthy FortiGate Implant in Telecom Hack",
-    "link": "https://www.securityweek.com/exploited-fortinet-bug-linked-to-stealthy-fortigate-implant-in-telecom-hack/",
-    "published": "Mon, 19 Oct 2026 11:13:23 +0000",
-    "summary": "<p>The persistent, stealthy FortiGate implant was deployed against a telecommunications organization.</p>\n<p>The post <a href=\"https://www.securityweek.com/exploited-fortinet-bug-linked-to-stealthy-fortigate-implant-in-telecom-hack/\">Exploited Fortinet Bug Linked to Stealthy FortiGate Implant in Telecom Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The persistent, stealthy FortiGate implant was deployed against a telecommunications organization",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2024-47575",
-        "CVE-2024-26008",
-        "CVE-2025-61624"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "MITRE ATT&CK v20 Catalogs AI Abuse, MFA Bypass, Water Utility Attacks",
-    "link": "https://www.securityweek.com/mitre-attck-v20-catalogs-ai-abuse-mfa-bypass-water-utility-attacks/",
-    "published": "Mon, 19 Oct 2026 09:37:04 +0000",
-    "summary": "<p>Defenders get 15 new detection strategies, six for Enterprise and nine for ICS, backed by 38 analytics.</p>\n<p>The post <a href=\"https://www.securityweek.com/mitre-attck-v20-catalogs-ai-abuse-mfa-bypass-water-utility-attacks/\">MITRE ATT&#038;CK v20 Catalogs AI Abuse, MFA Bypass, Water Utility Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Defenders get 15 new detection strategies, six for Enterprise and nine for ICS, backed by 38 analytics",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Malware",
-        "APT",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Anthropic Acquires Confidential AI Startup Opaque Systems",
-    "link": "https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/",
-    "published": "Mon, 19 Oct 2026 07:45:25 +0000",
-    "summary": "<p>Opaque Systems has developed technology that lets AI systems use sensitive data while keeping it protected by the underlying hardware.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/\">Anthropic Acquires Confidential AI Startup Opaque Systems</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Opaque Systems has developed technology that lets AI systems use sensitive data while keeping it protected by the underlying hardware",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars",
-    "link": "https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/",
-    "published": "Sun, 18 Oct 2026 11:00:00 +0000",
-    "summary": "<p>CyberSN’s Cybersecurity Jobs Report provides visibility into the US cybersecurity job market. It’s a mixed bag.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/\">US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "CyberSN’s Cybersecurity Jobs Report provides visibility into the US cybersecurity job market",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "The Q3 Vulnerability Pulse: Discovery ≠ Exploitation",
     "link": "https://blog.talosintelligence.com/the-q3-vulnerability-pulse-discovery-exploitation/",
@@ -786,8 +763,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2015-1000013",
-        "CVE-2014-125110"
+        "CVE-2014-125110",
+        "CVE-2015-1000013"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -825,9 +802,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-70229",
         "CVE-2026-96951",
-        "CVE-2026-70571"
+        "CVE-2026-70571",
+        "CVE-2026-70229"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -906,9 +883,9 @@
       "severity": "Low",
       "cves": [
         "CVE-2026-48388",
-        "CVE-2026-57256",
         "CVE-2026-91799",
-        "CVE-2026-50475"
+        "CVE-2026-50475",
+        "CVE-2026-57256"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1350,6 +1327,60 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Google may add your number to all your accounts: How to stop it",
+    "link": "https://www.malwarebytes.com/blog/mobile/2026/10/google-may-add-your-number-to-all-your-accounts-how-to-stop-it",
+    "published": "Tue, 20 Oct 2026 12:45:23 GMT",
+    "summary": "Android users report that Google automatically added their phone number to accounts they wanted to keep separate. Here’s how to check yours.",
+    "analysis": {
+      "issue": "As Android Central reports, users have received unexpected emails telling them their phone number has been verified for secondary Google accounts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Meta glasses caught recording conversations without wake phrase",
+    "link": "https://www.malwarebytes.com/blog/news/2026/10/meta-says-it-fixed-smart-glasses-unprompted-eavesdropping",
+    "published": "Tue, 20 Oct 2026 10:06:58 GMT",
+    "summary": "Owners reported unexpected recordings of private conversations, but Meta hasn’t explained what went wrong or what happened to the audio.",
+    "analysis": {
+      "issue": "Meta says it has resolved an issue after some Ray-Ban Meta owners reported that their glasses recorded conversations without the “Hey Meta” wake phrase",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Man seeking love travels 2,000 km to meet an AI-generated woman",
+    "link": "https://www.malwarebytes.com/blog/scams/2026/10/man-seeking-love-travels-2000-km-to-meet-an-ai-generated-woman",
+    "published": "Tue, 20 Oct 2026 09:44:53 GMT",
+    "summary": "An influencer’s invitation to join her on a farm shows how public videos can feel dangerously personal.",
+    "analysis": {
+      "issue": "A 49-year-old bricklayer sold his belongings before traveling 2,000 km by bus from his home in Brazil to meet “Jéssica,” an online influencer he had fallen for",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "AOMEI Backupper update servers hijacked to push malware: Check your PC",
     "link": "https://www.malwarebytes.com/blog/news/2026/10/aomei-backupper-update-servers-hijacked-to-push-malware-check-your-pc",
     "published": "Mon, 19 Oct 2026 14:21:22 GMT",
@@ -1472,61 +1503,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Update Chrome: Google fixes 37 security flaws, including seven critical bugs",
-    "link": "https://www.malwarebytes.com/blog/bugs/2026/10/update-chrome-google-fixes-37-security-flaws-including-seven-critical-bugs",
-    "published": "Thu, 15 Oct 2026 14:15:03 GMT",
-    "summary": "Some flaws could let attackers run malicious code on your device through a crafted webpage.",
-    "analysis": {
-      "issue": "On October 13 and 14, Google issued several Chrome updates",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Is this link safe? Find out with Malwarebytes Scam Link Check",
-    "link": "https://www.malwarebytes.com/blog/product/2026/10/is-this-link-safe-find-out-with-malwarebytes-scam-link-check",
-    "published": "Thu, 15 Oct 2026 12:55:00 GMT",
-    "summary": "Not sure if a link is safe? Malwarebytes Scam Link Check scans suspicious links for signs of phishing, scams, malware, and other online threats before you click.",
-    "analysis": {
-      "issue": "Maybe it’s a text saying your package couldn’t be delivered, with a link to reschedule",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Sextortion “help” firm took $60 million from victims, FTC alleges",
-    "link": "https://www.malwarebytes.com/blog/news/2026/10/sextortion-help-firm-took-60-million-from-victims-ftc-alleges",
-    "published": "Thu, 15 Oct 2026 11:48:26 GMT",
-    "summary": "The FTC accuses Digital Forensics Corporation and affiliated companies of exploiting people seeking help with intimate-image blackmail.",
-    "analysis": {
-      "issue": "The Federal Trade Commission (FTC) has filed a complaint accusing Digital Forensics Corporation of exploiting people already targeted by sextortionists",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
