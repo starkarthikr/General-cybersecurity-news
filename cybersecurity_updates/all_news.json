@@ -184,6 +184,64 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
+    "link": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
+    "published": "Tue, 20 Oct 2026 21:01:50 -0400",
+    "summary": "A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to connected websites. [...]",
+    "analysis": {
+      "issue": "A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to connected websites",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Mozilla, Google, Apple block compromised eMudhra CA certificates",
+    "link": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
+    "published": "Tue, 20 Oct 2026 20:46:42 -0400",
+    "summary": "Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone could recover them almost instantly and use them to forge trusted certificates for legitimate websites. [...]",
+    "analysis": {
+      "issue": "Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone could recover them almost instantly and use them to forge trusted certificates for legitimate websit",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
+    "link": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
+    "published": "Tue, 20 Oct 2026 16:56:43 -0400",
+    "summary": "The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead of their scheduled disclosure. [...]",
+    "analysis": {
+      "issue": "The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead of their scheduled disclosure",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-109618",
+        "CVE-2026-109619"
+      ],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Zeabur shutting down after second security breach in two months",
     "link": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
     "published": "Tue, 20 Oct 2026 15:33:02 -0400",
@@ -306,60 +364,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Ahold Delhaize: Cyberattack affects services across US and Europe",
-    "link": "https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/",
-    "published": "Tue, 20 Oct 2026 07:18:35 -0400",
-    "summary": "Ahold Delhaize, one of the world's largest food retail chains, confirmed that last week's cyberattack disrupted services at stores across Europe and the United States. [...]",
-    "analysis": {
-      "issue": "Ahold Delhaize, one of the world's largest food retail chains, confirmed that last week's cyberattack disrupted services at stores across Europe and the United States",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Revolut outage disrupts online banking operations worldwide",
-    "link": "https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/",
-    "published": "Tue, 20 Oct 2026 05:46:44 -0400",
-    "summary": "Fintech company Revolut is working to resolve a massive outage that disrupted most of its services worldwide earlier today. [...]",
-    "analysis": {
-      "issue": "Fintech company Revolut is working to resolve a massive outage that disrupted most of its services worldwide earlier today",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Nikkei discloses third data breach in a month, 1.8M records exposed",
-    "link": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/",
-    "published": "Mon, 19 Oct 2026 17:49:48 -0400",
-    "summary": "Nikkei Inc. disclosed a new data breach, the third in about a month, that exposed 1.83 million personal information records. [...]",
-    "analysis": {
-      "issue": "disclosed a new data breach, the third in about a month, that exposed 1",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
       ]
     }
   },
@@ -530,10 +534,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-85880",
-        "CVE-2026-81963",
+        "CVE-2026-69829",
         "CVE-2026-69730",
-        "CVE-2026-69829"
+        "CVE-2026-85880",
+        "CVE-2026-81963"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -819,9 +823,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-70571",
         "CVE-2026-96951",
-        "CVE-2026-70229",
-        "CVE-2026-70571"
+        "CVE-2026-70229"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -899,10 +903,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-57256",
-        "CVE-2026-50475",
         "CVE-2026-48388",
-        "CVE-2026-91799"
+        "CVE-2026-91799",
+        "CVE-2026-57256",
+        "CVE-2026-50475"
       ],
       "threat_categories": [
         "Vulnerability",

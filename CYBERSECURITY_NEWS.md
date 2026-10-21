@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-20 20:05:07 UTC
+**Last Updated:** 2026-10-21 04:08:45 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,35 @@
 
 ---
 
-### 11. [Zeabur shutting down after second security breach in two months](https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/)
+### 11. [Stolen UpdraftCentral keys used to backdoor WordPress sites](https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 20 Oct 2026 21:01:50 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 12. [Mozilla, Google, Apple block compromised eMudhra CA certificates](https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 20 Oct 2026 20:46:42 -0400  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 13. [PHP warns admins of two critical flaws, emergency patches coming tomorrow](https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 20 Oct 2026 16:56:43 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-109618, CVE-2026-109619  
+**Categories:** Data Breach, Vulnerability  
+
+---
+
+### 14. [Zeabur shutting down after second security breach in two months](https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 20 Oct 2026 15:33:02 -0400  
@@ -104,7 +132,7 @@
 
 ---
 
-### 12. [OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/)
+### 15. [OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 20 Oct 2026 14:11:03 -0400  
@@ -113,7 +141,7 @@
 
 ---
 
-### 13. [DHS bans DeepSeek products across US federal civilian agencies](https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/)
+### 16. [DHS bans DeepSeek products across US federal civilian agencies](https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 20 Oct 2026 10:19:05 -0400  
@@ -122,7 +150,7 @@
 
 ---
 
-### 14. [CJIS v6.1 Compliance: 5 Practical Priorities for Agencies](https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/)
+### 17. [CJIS v6.1 Compliance: 5 Practical Priorities for Agencies](https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 20 Oct 2026 09:51:00 -0400  
@@ -131,7 +159,7 @@
 
 ---
 
-### 15. [Hacker gets 8 years for stealing $3.3 million from taxpayers](https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/)
+### 18. [Hacker gets 8 years for stealing $3.3 million from taxpayers](https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 20 Oct 2026 09:18:36 -0400  
@@ -140,7 +168,7 @@
 
 ---
 
-### 16. [Windows Server 2025 gets support for quick machine recovery](https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/)
+### 19. [Windows Server 2025 gets support for quick machine recovery](https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 20 Oct 2026 08:16:32 -0400  
@@ -149,39 +177,12 @@
 
 ---
 
-### 17. [OVHcloud CLI releases backdoored on GitHub to steal developer secrets](https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/)
+### 20. [OVHcloud CLI releases backdoored on GitHub to steal developer secrets](https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 20 Oct 2026 07:31:22 -0400  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 18. [Ahold Delhaize: Cyberattack affects services across US and Europe](https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 20 Oct 2026 07:18:35 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 19. [Revolut outage disrupts online banking operations worldwide](https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 20 Oct 2026 05:46:44 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [Nikkei discloses third data breach in a month, 1.8M records exposed](https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 19 Oct 2026 17:49:48 -0400  
-**Severity:** High  
-**Categories:** Data Breach  
 
 ---
 
@@ -264,7 +265,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-85880, CVE-2026-81963, CVE-2026-69730, CVE-2026-69829  
+**CVEs:** CVE-2026-69829, CVE-2026-69730, CVE-2026-85880, CVE-2026-81963  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -403,7 +404,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 13 Oct 2026 20:37:58 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-96951, CVE-2026-70229, CVE-2026-70571  
+**CVEs:** CVE-2026-70571, CVE-2026-96951, CVE-2026-70229  
 **Categories:** Vulnerability  
 
 ---
@@ -440,7 +441,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 07 Oct 2026 19:27:08 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-57256, CVE-2026-50475, CVE-2026-48388, CVE-2026-91799  
+**CVEs:** CVE-2026-48388, CVE-2026-91799, CVE-2026-57256, CVE-2026-50475  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
