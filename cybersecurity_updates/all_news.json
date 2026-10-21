@@ -448,78 +448,28 @@
     "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
     "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
     "published": "Wed, 07 Oct 2026 13:48:45 +0000",
-    "summary": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle \"Rey,\" was detained as ShinyHunters was in the process of extorting a business unit recently divested by the global aerospace company Boeing, which manufactures the fleet of planes used by the employer of Rey's father -- Royal Jordanian Airlines.",
-    "analysis": {
-      "issue": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-35273"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
-      ]
-    }
+    "summary": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle \"Rey,\" was detained as ShinyHunters was in the process of extorting a business unit recently divested by the global aerospace company Boeing, which manufactures the fleet of planes used by the employer of Rey's father -- Royal Jordanian Airlines."
   },
   {
     "source": "Krebs On Security",
     "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
     "link": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
     "published": "Mon, 28 Sep 2026 15:08:57 +0000",
-    "summary": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect's arrest, remaining ShinyHunters members dramatically escalated their attacks, stealing highly sensitive data from the FBI and extorting the Russian ransomware group Cl0p.",
-    "analysis": {
-      "issue": "Authorities in the Netherlands have arrested a 24-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
-      ]
-    }
+    "summary": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect's arrest, remaining ShinyHunters members dramatically escalated their attacks, stealing highly sensitive data from the FBI and extorting the Russian ransomware group Cl0p."
   },
   {
     "source": "Krebs On Security",
     "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
     "link": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
     "published": "Fri, 25 Sep 2026 21:44:40 +0000",
-    "summary": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&#038;T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims.",
-    "analysis": {
-      "issue": "Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay ne",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Malware",
-        "DDoS"
-      ]
-    }
+    "summary": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&#038;T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims."
   },
   {
     "source": "Krebs On Security",
     "title": "Data Broker Radaris Loses Domains in Privacy Fight",
     "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
     "published": "Wed, 16 Sep 2026 18:14:22 +0000",
-    "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines against data brokers that publish personal information on state law enforcement officials. In the face of repeated stonewalling and prevarication by attorneys for Radaris, the judge in the case ordered that radaris.com and more than a dozen other data broker domains be transferred to the plaintiffs.",
-    "analysis": {
-      "issue": "The consumer data broker Radaris",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
+    "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines against data brokers that publish personal information on state law enforcement officials. In the face of repeated stonewalling and prevarication by attorneys for Radaris, the judge in the case ordered that radaris.com and more than a dozen other data broker domains be transferred to the plaintiffs."
   },
   {
     "source": "Krebs On Security",
@@ -534,9 +484,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-85880",
         "CVE-2026-69829",
         "CVE-2026-69730",
-        "CVE-2026-85880",
         "CVE-2026-81963"
       ],
       "threat_categories": [
@@ -560,6 +510,25 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Accenture, Dragos, SANS Launch $10M Initiative to Defend Small US Utilities",
+    "link": "https://www.securityweek.com/accenture-dragos-sans-launch-10m-initiative-to-defend-small-us-utilities/",
+    "published": "Wed, 21 Oct 2026 04:22:11 +0000",
+    "summary": "<p>The first phase will cover up to 500 utilities, which will get free security tools, equipment, deployment help and training.</p>\n<p>The post <a href=\"https://www.securityweek.com/accenture-dragos-sans-launch-10m-initiative-to-defend-small-us-utilities/\">Accenture, Dragos, SANS Launch $10M Initiative to Defend Small US Utilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The first phase will cover up to 500 utilities, which will get free security tools, equipment, deployment help and training",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
       ]
     }
   },
@@ -730,28 +699,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Siemens Software Center Vulnerability Exploited in ClickFix Malware Attacks",
-    "link": "https://www.securityweek.com/siemens-software-center-vulnerability-exploited-in-clickfix-malware-attacks/",
-    "published": "Mon, 19 Oct 2026 18:15:39 +0000",
-    "summary": "<p>Attackers paired a genuine, signed copy of Siemens Software Center with malicious DLLs to infect Windows PCs via ClickFix lures.</p>\n<p>The post <a href=\"https://www.securityweek.com/siemens-software-center-vulnerability-exploited-in-clickfix-malware-attacks/\">Siemens Software Center Vulnerability Exploited in ClickFix Malware Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Attackers paired a genuine, signed copy of Siemens Software Center with malicious DLLs to infect Windows PCs via ClickFix lures",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-110936"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "There's only so much code: the rise in vulnerability numbers",
     "link": "https://blog.talosintelligence.com/theres-only-so-much-code-the-rise-in-vulnerability-numbers/",
@@ -784,8 +731,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2014-125110",
-        "CVE-2015-1000013"
+        "CVE-2015-1000013",
+        "CVE-2014-125110"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -823,8 +770,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-70571",
         "CVE-2026-96951",
+        "CVE-2026-70571",
         "CVE-2026-70229"
       ],
       "threat_categories": [
@@ -904,9 +851,9 @@
       "severity": "Low",
       "cves": [
         "CVE-2026-48388",
-        "CVE-2026-91799",
         "CVE-2026-57256",
-        "CVE-2026-50475"
+        "CVE-2026-50475",
+        "CVE-2026-91799"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1299,8 +1246,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",

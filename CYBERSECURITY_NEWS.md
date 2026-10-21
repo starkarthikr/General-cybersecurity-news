@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-21 04:08:45 UTC
+**Last Updated:** 2026-10-21 05:08:57 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -227,9 +227,6 @@
 
 **Source:** Krebs On Security  
 **Published:** Wed, 07 Oct 2026 13:48:45 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-35273  
-**Categories:** Ransomware, Vulnerability  
 
 ---
 
@@ -237,8 +234,6 @@
 
 **Source:** Krebs On Security  
 **Published:** Mon, 28 Sep 2026 15:08:57 +0000  
-**Severity:** High  
-**Categories:** Ransomware, Vulnerability  
 
 ---
 
@@ -246,8 +241,6 @@
 
 **Source:** Krebs On Security  
 **Published:** Fri, 25 Sep 2026 21:44:40 +0000  
-**Severity:** Low  
-**Categories:** Data Breach, Malware, DDoS  
 
 ---
 
@@ -255,8 +248,6 @@
 
 **Source:** Krebs On Security  
 **Published:** Wed, 16 Sep 2026 18:14:22 +0000  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -265,7 +256,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69829, CVE-2026-69730, CVE-2026-85880, CVE-2026-81963  
+**CVEs:** CVE-2026-85880, CVE-2026-69829, CVE-2026-69730, CVE-2026-81963  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -279,7 +270,16 @@
 
 ---
 
-### 31. [US Agencies Detail Incident Response Practices for Rogue AI Agents](https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/)
+### 31. [Accenture, Dragos, SANS Launch $10M Initiative to Defend Small US Utilities](https://www.securityweek.com/accenture-dragos-sans-launch-10m-initiative-to-defend-small-us-utilities/)
+
+**Source:** Security Week  
+**Published:** Wed, 21 Oct 2026 04:22:11 +0000  
+**Severity:** High  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 32. [US Agencies Detail Incident Response Practices for Rogue AI Agents](https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/)
 
 **Source:** Security Week  
 **Published:** Tue, 20 Oct 2026 15:45:00 +0000  
@@ -288,7 +288,7 @@
 
 ---
 
-### 32. [AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign](https://www.securityweek.com/aomei-backupper-compromised-in-short-burst-supply-chain-campaign/)
+### 33. [AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign](https://www.securityweek.com/aomei-backupper-compromised-in-short-burst-supply-chain-campaign/)
 
 **Source:** Security Week  
 **Published:** Tue, 20 Oct 2026 13:51:01 +0000  
@@ -297,7 +297,7 @@
 
 ---
 
-### 33. [The Key to AI Software Security Isn’t Speed, It’s Maturity](https://www.securityweek.com/the-key-to-ai-software-security-isnt-speed-its-maturity/)
+### 34. [The Key to AI Software Security Isn’t Speed, It’s Maturity](https://www.securityweek.com/the-key-to-ai-software-security-isnt-speed-its-maturity/)
 
 **Source:** Security Week  
 **Published:** Tue, 20 Oct 2026 13:34:23 +0000  
@@ -306,7 +306,7 @@
 
 ---
 
-### 34. [Ahold Delhaize Restoring Services Disrupted by Cyberattack](https://www.securityweek.com/ahold-delhaize-restoring-services-disrupted-by-cyberattack/)
+### 35. [Ahold Delhaize Restoring Services Disrupted by Cyberattack](https://www.securityweek.com/ahold-delhaize-restoring-services-disrupted-by-cyberattack/)
 
 **Source:** Security Week  
 **Published:** Tue, 20 Oct 2026 13:02:18 +0000  
@@ -315,7 +315,7 @@
 
 ---
 
-### 35. [AI Platform Cairn Abused to Hack Over 100 Organizations](https://www.securityweek.com/ai-platform-cairn-abused-to-hack-over-100-organizations/)
+### 36. [AI Platform Cairn Abused to Hack Over 100 Organizations](https://www.securityweek.com/ai-platform-cairn-abused-to-hack-over-100-organizations/)
 
 **Source:** Security Week  
 **Published:** Tue, 20 Oct 2026 12:47:22 +0000  
@@ -324,7 +324,7 @@
 
 ---
 
-### 36. [Ex-OpenAI Worker Accused of Bugging Conference Room Planned to Fly to Saudi Arabia, Prosecutors Say](https://www.securityweek.com/ex-openai-worker-accused-of-bugging-conference-room-planned-to-fly-to-saudi-arabia-prosecutors-say/)
+### 37. [Ex-OpenAI Worker Accused of Bugging Conference Room Planned to Fly to Saudi Arabia, Prosecutors Say](https://www.securityweek.com/ex-openai-worker-accused-of-bugging-conference-room-planned-to-fly-to-saudi-arabia-prosecutors-say/)
 
 **Source:** Security Week  
 **Published:** Tue, 20 Oct 2026 12:33:12 +0000  
@@ -333,7 +333,7 @@
 
 ---
 
-### 37. [Microsoft Targets Rogue AI Agents With Dynamic Permissions, Risk Scoring](https://www.securityweek.com/microsoft-targets-rogue-ai-agents-with-dynamic-permissions-risk-scoring/)
+### 38. [Microsoft Targets Rogue AI Agents With Dynamic Permissions, Risk Scoring](https://www.securityweek.com/microsoft-targets-rogue-ai-agents-with-dynamic-permissions-risk-scoring/)
 
 **Source:** Security Week  
 **Published:** Tue, 20 Oct 2026 11:30:18 +0000  
@@ -342,7 +342,7 @@
 
 ---
 
-### 38. [Hackers Steal 1.8 Million Records From Nikkei](https://www.securityweek.com/hackers-steal-1-8-million-records-from-nikkei/)
+### 39. [Hackers Steal 1.8 Million Records From Nikkei](https://www.securityweek.com/hackers-steal-1-8-million-records-from-nikkei/)
 
 **Source:** Security Week  
 **Published:** Tue, 20 Oct 2026 10:35:18 +0000  
@@ -351,22 +351,12 @@
 
 ---
 
-### 39. [970,000 Medi-Cal Members Affected by Paradigm Healthcare Data Breach](https://www.securityweek.com/970000-medi-cal-members-affected-by-paradigm-healthcare-data-breach/)
+### 40. [970,000 Medi-Cal Members Affected by Paradigm Healthcare Data Breach](https://www.securityweek.com/970000-medi-cal-members-affected-by-paradigm-healthcare-data-breach/)
 
 **Source:** Security Week  
 **Published:** Tue, 20 Oct 2026 09:33:49 +0000  
 **Severity:** Low  
 **Categories:** Data Breach  
-
----
-
-### 40. [Siemens Software Center Vulnerability Exploited in ClickFix Malware Attacks](https://www.securityweek.com/siemens-software-center-vulnerability-exploited-in-clickfix-malware-attacks/)
-
-**Source:** Security Week  
-**Published:** Mon, 19 Oct 2026 18:15:39 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-110936  
-**Categories:** Vulnerability, Malware, APT  
 
 ---
 
@@ -385,7 +375,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 15 Oct 2026 18:00:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2014-125110, CVE-2015-1000013  
+**CVEs:** CVE-2015-1000013, CVE-2014-125110  
 **Categories:** Vulnerability  
 
 ---
@@ -404,7 +394,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 13 Oct 2026 20:37:58 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-70571, CVE-2026-96951, CVE-2026-70229  
+**CVEs:** CVE-2026-96951, CVE-2026-70571, CVE-2026-70229  
 **Categories:** Vulnerability  
 
 ---
@@ -441,7 +431,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 07 Oct 2026 19:27:08 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-48388, CVE-2026-91799, CVE-2026-57256, CVE-2026-50475  
+**CVEs:** CVE-2026-48388, CVE-2026-57256, CVE-2026-50475, CVE-2026-91799  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -634,7 +624,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
