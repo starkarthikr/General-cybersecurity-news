@@ -184,6 +184,63 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
+    "link": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
+    "published": "Wed, 21 Oct 2026 18:16:26 -0400",
+    "summary": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]",
+    "analysis": {
+      "issue": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
+    "link": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
+    "published": "Wed, 21 Oct 2026 17:43:27 -0400",
+    "summary": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers. [...]",
+    "analysis": {
+      "issue": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
+    "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
+    "published": "Wed, 21 Oct 2026 16:31:48 -0400",
+    "summary": "North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]",
+    "analysis": {
+      "issue": "North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
     "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
     "published": "Wed, 21 Oct 2026 14:34:42 -0400",
@@ -231,8 +288,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109618",
-        "CVE-2026-109619"
+        "CVE-2026-109619",
+        "CVE-2026-109618"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -308,61 +365,6 @@
       "cves": [],
       "threat_categories": [
         "Ransomware",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
-    "link": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
-    "published": "Tue, 20 Oct 2026 21:01:50 -0400",
-    "summary": "A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to connected websites. [...]",
-    "analysis": {
-      "issue": "A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to connected websites",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Mozilla, Google, Apple block compromised eMudhra CA certificates",
-    "link": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
-    "published": "Tue, 20 Oct 2026 20:46:42 -0400",
-    "summary": "Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone could recover them almost instantly and use them to forge trusted certificates for legitimate websites. [...]",
-    "analysis": {
-      "issue": "Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone could recover them almost instantly and use them to forge trusted certificates for legitimate websit",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
-    "link": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
-    "published": "Tue, 20 Oct 2026 16:56:43 -0400",
-    "summary": "The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead of their scheduled disclosure. [...]",
-    "analysis": {
-      "issue": "Update 10/21/26: The PHP Foundation's emergency patches have been released, and you can learn more in our new article on PHP2Shell and the updates",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
         "Vulnerability"
       ]
     }
@@ -553,10 +555,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-85880",
         "CVE-2026-69730",
-        "CVE-2026-81963",
         "CVE-2026-69829",
-        "CVE-2026-85880"
+        "CVE-2026-81963"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -597,8 +599,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109618",
-        "CVE-2026-109619"
+        "CVE-2026-109619",
+        "CVE-2026-109618"
       ],
       "threat_categories": [
         "Ransomware",
@@ -763,6 +765,26 @@
   },
   {
     "source": "Talos Blog",
+    "title": "Compromised eMudhra intermediate certificates",
+    "link": "https://blog.talosintelligence.com/compromised-intermediate-certificates/",
+    "published": "Wed, 21 Oct 2026 20:43:29 GMT",
+    "summary": "Cisco Talos is aware of eight intermediate certificates belonging to the intermediate certificate authority, eMudhra.",
+    "analysis": {
+      "issue": "Cisco Talos is aware of eight intermediate certificates belonging to the intermediate certificate authority, eMudhra",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-111943"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Talos Blog",
     "title": "Two critical RCEs in PHP core",
     "link": "https://blog.talosintelligence.com/two-critical-rces-in-php-core/",
     "published": "Wed, 21 Oct 2026 15:10:53 GMT",
@@ -774,8 +796,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109618",
-        "CVE-2026-109619"
+        "CVE-2026-109619",
+        "CVE-2026-109618"
       ],
       "threat_categories": [
         "Ransomware",
@@ -834,8 +856,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2014-125110",
-        "CVE-2015-1000013"
+        "CVE-2015-1000013",
+        "CVE-2014-125110"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -874,8 +896,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-70571",
-        "CVE-2026-70229",
-        "CVE-2026-96951"
+        "CVE-2026-96951",
+        "CVE-2026-70229"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -941,26 +963,20 @@
     }
   },
   {
-    "source": "Talos Blog",
-    "title": "Microsoft, Adobe, Apple, and Foxit vulnerabilities",
-    "link": "https://blog.talosintelligence.com/microsoft-adobe-apple-and-foxit-vulnerabilities/",
-    "published": "Wed, 07 Oct 2026 19:27:08 GMT",
-    "summary": "<p>Cisco Talos&#x2019; Vulnerability Discovery &amp; Research team recently disclosed vulnerabilities in Adobe, Apple, Foxit Reader, and Microsoft.</p><p>The vulnerabilities mentioned in this blog post have been patched by their respective vendors, in adherence to<a href=\"https://sec.cloudapps.cisco.com/security/center/resources/vendor_vulnerability_policy.html\"><u> Cisco&#x2019;s third-party vulnerability disclosure policy</u></a>.&#xa0;</p><p>For Snort coverage that can detect</p>",
+    "source": "Recorded Future",
+    "title": "PHP2Shell Exploitation: Two Critical PHP Flaws Explained",
+    "link": "https://www.recordedfuture.com/blog/php2shell-vulnerability-exploitation",
+    "published": "Wed, 21 Oct 2026 00:00:00 GMT",
+    "summary": "Two critical PHP remote code execution flaws (PHP2Shell) are reportedly being exploited. See who’s exposed, how the exploits work, and how to remediate now.",
     "analysis": {
-      "issue": "Cisco Talos’ Vulnerability Discovery & Research team recently disclosed vulnerabilities in Adobe, Apple, Foxit Reader, and Microsoft",
+      "issue": "Two critical PHP remote code execution flaws (PHP2Shell) are reportedly being exploited",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-50475",
-        "CVE-2026-91799",
-        "CVE-2026-57256",
-        "CVE-2026-48388"
-      ],
+      "severity": "Critical",
+      "cves": [],
       "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
+        "Vulnerability"
       ]
     }
   },
@@ -1123,24 +1139,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Social Engineering in the Age of Synthetic Media",
-    "link": "https://www.recordedfuture.com/blog/ai-social-engineering",
-    "published": "Tue, 29 Sep 2026 00:00:00 GMT",
-    "summary": "How AI Changes Phishing, Impersonation, and Identity Verification",
-    "analysis": {
-      "issue": "How AI Changes Phishing, Impersonation, and Identity Verification",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
       ]
     }
   },
@@ -1311,8 +1309,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1371,8 +1369,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109618",
-        "CVE-2026-109619"
+        "CVE-2026-109619",
+        "CVE-2026-109618"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1559,8 +1557,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-109618",
-        "CVE-2026-109619"
+        "CVE-2026-109619",
+        "CVE-2026-109618"
       ],
       "threat_categories": [
         "Vulnerability"

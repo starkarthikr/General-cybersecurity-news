@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-21 20:18:46 UTC
+**Last Updated:** 2026-10-22 04:08:58 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,34 @@
 
 ---
 
-### 11. [CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers](https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/)
+### 11. [Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks](https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 21 Oct 2026 18:16:26 -0400  
+**Severity:** High  
+**Categories:** Phishing  
+
+---
+
+### 12. [Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected](https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 21 Oct 2026 17:43:27 -0400  
+**Severity:** Low  
+**Categories:** Data Breach, Malware  
+
+---
+
+### 13. [Lazarus hackers use post-quantum cryptography for malware delivery](https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 21 Oct 2026 16:31:48 -0400  
+**Severity:** Low  
+**Categories:** Malware, Phishing, APT  
+
+---
+
+### 14. [CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers](https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 21 Oct 2026 14:34:42 -0400  
@@ -104,7 +131,7 @@
 
 ---
 
-### 12. [OpenAI agents disabled safety monitoring, one lied about it](https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/)
+### 15. [OpenAI agents disabled safety monitoring, one lied about it](https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 21 Oct 2026 12:26:53 -0400  
@@ -113,17 +140,17 @@
 
 ---
 
-### 13. [PHP ships emergency patches for critical PHP2Shell flaws](https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/)
+### 16. [PHP ships emergency patches for critical PHP2Shell flaws](https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 21 Oct 2026 10:07:05 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109618, CVE-2026-109619  
+**CVEs:** CVE-2026-109619, CVE-2026-109618  
 **Categories:** Vulnerability  
 
 ---
 
-### 14. [ClickFix has never been bigger, and AI tools are its most convincing lure yet](https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/)
+### 17. [ClickFix has never been bigger, and AI tools are its most convincing lure yet](https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 21 Oct 2026 10:00:10 -0400  
@@ -132,7 +159,7 @@
 
 ---
 
-### 15. [Microsoft PowerToys adds CursorHide, Button Lock mouse tools](https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/)
+### 18. [Microsoft PowerToys adds CursorHide, Button Lock mouse tools](https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 21 Oct 2026 08:20:34 -0400  
@@ -141,7 +168,7 @@
 
 ---
 
-### 16. [Microsoft says October updates didn’t actually fix VPN issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/)
+### 19. [Microsoft says October updates didn’t actually fix VPN issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 21 Oct 2026 06:14:53 -0400  
@@ -150,39 +177,12 @@
 
 ---
 
-### 17. [CISA: SafePay ransomware hit over 600 critical infrastructure orgs](https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/)
+### 20. [CISA: SafePay ransomware hit over 600 critical infrastructure orgs](https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 21 Oct 2026 04:36:24 -0400  
 **Severity:** Critical  
 **Categories:** Ransomware, Vulnerability  
-
----
-
-### 18. [Stolen UpdraftCentral keys used to backdoor WordPress sites](https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 20 Oct 2026 21:01:50 -0400  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 19. [Mozilla, Google, Apple block compromised eMudhra CA certificates](https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 20 Oct 2026 20:46:42 -0400  
-**Severity:** High  
-**Categories:** General Security  
-
----
-
-### 20. [PHP warns admins of two critical flaws, emergency patches coming tomorrow](https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 20 Oct 2026 16:56:43 -0400  
-**Severity:** Critical  
-**Categories:** Data Breach, Vulnerability  
 
 ---
 
@@ -274,7 +274,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69730, CVE-2026-81963, CVE-2026-69829, CVE-2026-85880  
+**CVEs:** CVE-2026-85880, CVE-2026-69730, CVE-2026-69829, CVE-2026-81963  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -293,7 +293,7 @@
 **Source:** Security Week  
 **Published:** Wed, 21 Oct 2026 16:50:40 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109618, CVE-2026-109619  
+**CVEs:** CVE-2026-109619, CVE-2026-109618  
 **Categories:** Ransomware, Data Breach, Vulnerability, Malware, Supply Chain  
 
 ---
@@ -370,17 +370,27 @@
 
 ---
 
-### 41. [Two critical RCEs in PHP core](https://blog.talosintelligence.com/two-critical-rces-in-php-core/)
+### 41. [Compromised eMudhra intermediate certificates](https://blog.talosintelligence.com/compromised-intermediate-certificates/)
+
+**Source:** Talos Blog  
+**Published:** Wed, 21 Oct 2026 20:43:29 GMT  
+**Severity:** Low  
+**CVEs:** CVE-2026-111943  
+**Categories:** Vulnerability  
+
+---
+
+### 42. [Two critical RCEs in PHP core](https://blog.talosintelligence.com/two-critical-rces-in-php-core/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 21 Oct 2026 15:10:53 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109618, CVE-2026-109619  
+**CVEs:** CVE-2026-109619, CVE-2026-109618  
 **Categories:** Ransomware, Vulnerability  
 
 ---
 
-### 42. [Parasitizing trust: How legitimate infrastructure becomes a delivery pipeline for attackers](https://blog.talosintelligence.com/parasitizing-trust-how-legitimate-infrastructure-becomes-a-delivery-pipeline-for-attackers/)
+### 43. [Parasitizing trust: How legitimate infrastructure becomes a delivery pipeline for attackers](https://blog.talosintelligence.com/parasitizing-trust-how-legitimate-infrastructure-becomes-a-delivery-pipeline-for-attackers/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 21 Oct 2026 10:00:00 GMT  
@@ -389,7 +399,7 @@
 
 ---
 
-### 43. [There's only so much code: the rise in vulnerability numbers](https://blog.talosintelligence.com/theres-only-so-much-code-the-rise-in-vulnerability-numbers/)
+### 44. [There's only so much code: the rise in vulnerability numbers](https://blog.talosintelligence.com/theres-only-so-much-code-the-rise-in-vulnerability-numbers/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 20 Oct 2026 15:31:22 GMT  
@@ -399,17 +409,17 @@
 
 ---
 
-### 44. [The Q3 Vulnerability Pulse: Discovery ≠ Exploitation](https://blog.talosintelligence.com/the-q3-vulnerability-pulse-discovery-exploitation/)
+### 45. [The Q3 Vulnerability Pulse: Discovery ≠ Exploitation](https://blog.talosintelligence.com/the-q3-vulnerability-pulse-discovery-exploitation/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 15 Oct 2026 18:00:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2014-125110, CVE-2015-1000013  
+**CVEs:** CVE-2015-1000013, CVE-2014-125110  
 **Categories:** Vulnerability  
 
 ---
 
-### 45. [Break the silence: Kazakhstan-nexus UAT-6275 targets CIS government organizations](https://blog.talosintelligence.com/break-the-silence-kazakhstan-nexus-uat-6275-targets-cis-government-organizations/)
+### 46. [Break the silence: Kazakhstan-nexus UAT-6275 targets CIS government organizations](https://blog.talosintelligence.com/break-the-silence-kazakhstan-nexus-uat-6275-targets-cis-government-organizations/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 14 Oct 2026 14:00:00 GMT  
@@ -418,17 +428,17 @@
 
 ---
 
-### 46. [Microsoft Patch Tuesday for October 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-for-october-2026/)
+### 47. [Microsoft Patch Tuesday for October 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-for-october-2026/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 13 Oct 2026 20:37:58 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-70571, CVE-2026-70229, CVE-2026-96951  
+**CVEs:** CVE-2026-70571, CVE-2026-96951, CVE-2026-70229  
 **Categories:** Vulnerability  
 
 ---
 
-### 47. [Making sure the checks get printed](https://blog.talosintelligence.com/making-sure-the-checks-get-printed/)
+### 48. [Making sure the checks get printed](https://blog.talosintelligence.com/making-sure-the-checks-get-printed/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 08 Oct 2026 18:00:29 GMT  
@@ -437,7 +447,7 @@
 
 ---
 
-### 48. [UAT-11985: AI-assisted event lures delivering real-time Google AitM phishing](https://blog.talosintelligence.com/uat-11985/)
+### 49. [UAT-11985: AI-assisted event lures delivering real-time Google AitM phishing](https://blog.talosintelligence.com/uat-11985/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 08 Oct 2026 10:01:06 GMT  
@@ -446,7 +456,7 @@
 
 ---
 
-### 49. [Ignore all instructions and read this blog: The state of AI-analysis evasion in malware](https://blog.talosintelligence.com/ignore-all-instructions-and-read-this-blog-the-state-of-ai-analysis-evasion-in-malware/)
+### 50. [Ignore all instructions and read this blog: The state of AI-analysis evasion in malware](https://blog.talosintelligence.com/ignore-all-instructions-and-read-this-blog-the-state-of-ai-analysis-evasion-in-malware/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 08 Oct 2026 10:00:14 GMT  
@@ -455,17 +465,16 @@
 
 ---
 
-### 50. [Microsoft, Adobe, Apple, and Foxit vulnerabilities](https://blog.talosintelligence.com/microsoft-adobe-apple-and-foxit-vulnerabilities/)
+### 51. [PHP2Shell Exploitation: Two Critical PHP Flaws Explained](https://www.recordedfuture.com/blog/php2shell-vulnerability-exploitation)
 
-**Source:** Talos Blog  
-**Published:** Wed, 07 Oct 2026 19:27:08 GMT  
-**Severity:** Low  
-**CVEs:** CVE-2026-50475, CVE-2026-91799, CVE-2026-57256, CVE-2026-48388  
-**Categories:** Vulnerability, Supply Chain  
+**Source:** Recorded Future  
+**Published:** Wed, 21 Oct 2026 00:00:00 GMT  
+**Severity:** Critical  
+**Categories:** Vulnerability  
 
 ---
 
-### 51. [TAG-217 Targets South Korean Financial Services with ARTEX](https://www.recordedfuture.com/blog/tag-217-artex-south-korean-banks)
+### 52. [TAG-217 Targets South Korean Financial Services with ARTEX](https://www.recordedfuture.com/blog/tag-217-artex-south-korean-banks)
 
 **Source:** Recorded Future  
 **Published:** Fri, 16 Oct 2026 00:00:00 GMT  
@@ -474,7 +483,7 @@
 
 ---
 
-### 52. [Working in Boston at the World’s Largest Intelligence Company](https://www.recordedfuture.com/blog/working-in-boston)
+### 53. [Working in Boston at the World’s Largest Intelligence Company](https://www.recordedfuture.com/blog/working-in-boston)
 
 **Source:** Recorded Future  
 **Published:** Thu, 15 Oct 2026 00:00:00 GMT  
@@ -483,7 +492,7 @@
 
 ---
 
-### 53. [Russia Is Tightening Internet Controls, Leading to Operational Risks](https://www.recordedfuture.com/research/russia-restrictive-info-environment)
+### 54. [Russia Is Tightening Internet Controls, Leading to Operational Risks](https://www.recordedfuture.com/research/russia-restrictive-info-environment)
 
 **Source:** Recorded Future  
 **Published:** Thu, 15 Oct 2026 00:00:00 GMT  
@@ -492,7 +501,7 @@
 
 ---
 
-### 54. [TAG-193’s Regional Espionage Operations](https://www.recordedfuture.com/blog/tag193-regional-espionage-operations)
+### 55. [TAG-193’s Regional Espionage Operations](https://www.recordedfuture.com/blog/tag193-regional-espionage-operations)
 
 **Source:** Recorded Future  
 **Published:** Wed, 14 Oct 2026 00:00:00 GMT  
@@ -501,7 +510,7 @@
 
 ---
 
-### 55. [September 2026 CVE Landscape](https://www.recordedfuture.com/blog/september-2026-cve-landscape)
+### 56. [September 2026 CVE Landscape](https://www.recordedfuture.com/blog/september-2026-cve-landscape)
 
 **Source:** Recorded Future  
 **Published:** Tue, 13 Oct 2026 00:00:00 GMT  
@@ -510,7 +519,7 @@
 
 ---
 
-### 56. [Malware Indicators of Compromise (IoCs) | Recorded Future](https://www.recordedfuture.com/blog/malware-indicators-of-compromise)
+### 57. [Malware Indicators of Compromise (IoCs) | Recorded Future](https://www.recordedfuture.com/blog/malware-indicators-of-compromise)
 
 **Source:** Recorded Future  
 **Published:** Tue, 13 Oct 2026 00:00:00 GMT  
@@ -519,7 +528,7 @@
 
 ---
 
-### 57. [Recorded Future Introduces AI Infrastructure Indicator Lists, Strengthening AI Governance](https://www.recordedfuture.com/blog/ai-infrastructure-indicator-lists)
+### 58. [Recorded Future Introduces AI Infrastructure Indicator Lists, Strengthening AI Governance](https://www.recordedfuture.com/blog/ai-infrastructure-indicator-lists)
 
 **Source:** Recorded Future  
 **Published:** Fri, 09 Oct 2026 00:00:00 GMT  
@@ -528,7 +537,7 @@
 
 ---
 
-### 58. [Japan Adopts Proactive Cyber Defense Strategy](https://www.recordedfuture.com/research/japan-cyber-defense-strategy)
+### 59. [Japan Adopts Proactive Cyber Defense Strategy](https://www.recordedfuture.com/research/japan-cyber-defense-strategy)
 
 **Source:** Recorded Future  
 **Published:** Thu, 08 Oct 2026 00:00:00 GMT  
@@ -537,21 +546,12 @@
 
 ---
 
-### 59. [Recorded Future Debuts Autonomous Defense, Built for Machine-Speed Threats](https://www.recordedfuture.com/blog/autonomous-defense-platform)
+### 60. [Recorded Future Debuts Autonomous Defense, Built for Machine-Speed Threats](https://www.recordedfuture.com/blog/autonomous-defense-platform)
 
 **Source:** Recorded Future  
 **Published:** Wed, 30 Sep 2026 00:00:00 GMT  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 60. [Social Engineering in the Age of Synthetic Media](https://www.recordedfuture.com/blog/ai-social-engineering)
-
-**Source:** Recorded Future  
-**Published:** Tue, 29 Sep 2026 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** Phishing  
 
 ---
 
@@ -635,7 +635,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -664,7 +664,7 @@
 **Source:** Malwarebytes  
 **Published:** Wed, 21 Oct 2026 16:14:18 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109618, CVE-2026-109619  
+**CVEs:** CVE-2026-109619, CVE-2026-109618  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -756,7 +756,7 @@
 **Source:** Crowdstrike Blog  
 **Published:** Oct 21, 2026 00:00:00-0500  
 **Severity:** Low  
-**CVEs:** CVE-2026-109618, CVE-2026-109619  
+**CVEs:** CVE-2026-109619, CVE-2026-109618  
 **Categories:** Vulnerability  
 
 ---
