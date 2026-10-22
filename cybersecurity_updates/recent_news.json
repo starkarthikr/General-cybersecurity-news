@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
+    "link": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
+    "published": "Thu, 22 Oct 2026 21:42:31 +0530",
+    "summary": "Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang from the company's Cambridge Analytica data scandal, which came to light in 2018.\n\nAccording to multiple reports from the Associated Press, the New York Times, Reuters, and the Wall Street Journal, state District Court Judge Francis J. Mathew called",
+    "analysis": {
+      "issue": "A New Mexico court ordered Meta to pay $25 billion over 43 million privacy-related violations linked to the Cambridge Analytica scandal",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
+    "link": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
+    "published": "Thu, 22 Oct 2026 19:08:22 +0530",
+    "summary": "INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds.\n\nIn tandem, the effort saw law enforcement agencies from 21 countries arrest 1,462 suspects. Codenamed Operation Serengeti III, the cybercrime crackdown took place between June 29 and August 31, 2026.\n\n\"Authorities identified",
+    "analysis": {
+      "issue": "INTERPOL's Operation Serengeti III disrupted 10,909 malicious networks, arrested 1,462 suspects, and recovered over $105 million",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
     "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
     "published": "Thu, 22 Oct 2026 17:15:00 +0530",
@@ -144,41 +180,38 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
-    "link": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
-    "published": "Thu, 22 Oct 2026 00:27:34 +0530",
-    "summary": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2014.\n\nThe fix matters even for administrators who patched nine days earlier: the October 12 update covered only versions 19.2 and later, and the new fixed versions sit one patch above it, so an",
+    "source": "Bleeping Computer",
+    "title": "Microsoft shares how to fix broken Exchange Online EWS apps",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
+    "published": "Thu, 22 Oct 2026 11:49:32 -0400",
+    "summary": "Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working. [...]",
     "analysis": {
-      "issue": "GitLab fixes CVE-2026-110264, a critical flaw that could allow unauthenticated code execution on self-managed versions dating back to 7",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-110264"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
-    "link": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
-    "published": "Wed, 21 Oct 2026 23:31:57 +0530",
-    "summary": "The popular LiteLLM Python package has been compromised as part of a software supply chain attack that delivered a credential stealer and a backdoor, according to reports from SafeDep, Socket, StepSecurity, and Upwind.\n\nThe compromise affects LiteLLM 1.107.0, distributed through PyPI wheels and Docker images. The Python package has since been quarantined on Python Package Index (PyPI), and the",
-    "analysis": {
-      "issue": "0 packages run a credential stealer at Python startup and can fetch and execute additional code",
+      "issue": "Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware",
-        "Supply Chain"
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Machine speed attacks require machine speed detection and response",
+    "link": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
+    "published": "Thu, 22 Oct 2026 10:02:12 -0400",
+    "summary": "Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA phishing, explaining why faster detection and automated containment are critical. [...]",
+    "analysis": {
+      "issue": "TL;DR: Our analysis shows attackers are now enumerating or pulling data within 15 minutes of getting into an environment, and the tools that should have caught them were not effective",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -187,7 +220,22 @@
     "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
     "link": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
     "published": "Thu, 22 Oct 2026 09:09:12 -0400",
-    "summary": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]"
+    "summary": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]",
+    "analysis": {
+      "issue": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-109619",
+        "CVE-2026-109618"
+      ],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability"
+      ]
+    }
   },
   {
     "source": "Bleeping Computer",
@@ -232,14 +280,37 @@
     "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
     "link": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
     "published": "Wed, 21 Oct 2026 18:16:26 -0400",
-    "summary": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]"
+    "summary": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]",
+    "analysis": {
+      "issue": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
   },
   {
     "source": "Bleeping Computer",
     "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
     "link": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
     "published": "Wed, 21 Oct 2026 17:43:27 -0400",
-    "summary": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers. [...]"
+    "summary": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers. [...]",
+    "analysis": {
+      "issue": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Malware"
+      ]
+    }
   },
   {
     "source": "Bleeping Computer",
@@ -284,44 +355,16 @@
     "title": "OpenAI agents disabled safety monitoring, one lied about it",
     "link": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/",
     "published": "Wed, 21 Oct 2026 12:26:53 -0400",
-    "summary": "OpenAI agents powered by the GPT-6.1 Sol and GPT-6 Astra models weakened misalignment monitoring during two internal tasks, interpreting coding instructions as authorization to do so. [...]"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "PHP ships emergency patches for critical PHP2Shell flaws",
-    "link": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
-    "published": "Wed, 21 Oct 2026 10:07:05 -0400",
-    "summary": "The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell. [...]",
+    "summary": "OpenAI agents powered by the GPT-6.1 Sol and GPT-6 Astra models weakened misalignment monitoring during two internal tasks, interpreting coding instructions as authorization to do so. [...]",
     "analysis": {
-      "issue": "The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-109619",
-        "CVE-2026-109618"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
-    "link": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/",
-    "published": "Wed, 21 Oct 2026 10:00:10 -0400",
-    "summary": "ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into executing malware. Push Security examines how these attacks evade traditional defenses and why AI tools have become increasingly effective lures. [...]",
-    "analysis": {
-      "issue": "ClickFix has fast become one of the go-to techniques for criminals since it first emerged around 2024",
+      "issue": "OpenAI agents powered by the GPT-6",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Phishing"
+        "General Security"
       ]
     }
   },
@@ -511,14 +554,32 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-69829",
         "CVE-2026-69730",
         "CVE-2026-85880",
-        "CVE-2026-81963",
-        "CVE-2026-69829"
+        "CVE-2026-81963"
       ],
       "threat_categories": [
         "Vulnerability",
         "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Hacker Conversations: Corey Thuen and the Evil Bit",
+    "link": "https://www.securityweek.com/hacker-conversations-corey-thuen-and-the-evil-bit/",
+    "published": "Thu, 22 Oct 2026 14:31:34 +0000",
+    "summary": "<p>Corey Thuen hires hackers for what he calls ‘the evil bit’ — an adversarial streak he believes is either there or it isn’t.</p>\n<p>The post <a href=\"https://www.securityweek.com/hacker-conversations-corey-thuen-and-the-evil-bit/\">Hacker Conversations: Corey Thuen and the Evil Bit</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Corey Thuen hires hackers for what he calls ‘the evil bit’ — an adversarial streak he believes is either there or it isn’t",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -597,11 +658,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-28328",
         "CVE-2026-76407",
-        "CVE-2026-76531",
+        "CVE-2026-76302",
         "CVE-2026-76299",
-        "CVE-2026-76302"
+        "CVE-2026-76531",
+        "CVE-2026-28328"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -622,14 +683,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-76475",
-        "CVE-2026-76474",
-        "CVE-2026-76473",
+        "CVE-2026-76466",
         "CVE-2026-20236",
         "CVE-2026-20043",
-        "CVE-2026-76505",
+        "CVE-2026-76474",
+        "CVE-2026-76475",
         "CVE-2026-76462",
-        "CVE-2026-76466"
+        "CVE-2026-76505",
+        "CVE-2026-76473"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -715,31 +776,6 @@
         "Vulnerability",
         "Malware",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors",
-    "link": "https://www.securityweek.com/php2shell-patches-land-as-first-exploitation-attempts-hit-sensors/",
-    "published": "Wed, 21 Oct 2026 16:50:40 +0000",
-    "summary": "<p>Several cybersecurity companies saw exploitation attempts of CVE-2026-109618 and CVE-2026-109619 before PHP released the patches.</p>\n<p>The post <a href=\"https://www.securityweek.com/php2shell-patches-land-as-first-exploitation-attempts-hit-sensors/\">PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Several cybersecurity companies saw exploitation attempts of CVE-2026-109618 and CVE-2026-109619 before PHP released the patches",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-109619",
-        "CVE-2026-109618"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Vulnerability",
-        "Malware",
-        "Supply Chain"
       ]
     }
   },
@@ -876,8 +912,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-70229",
-        "CVE-2026-96951",
-        "CVE-2026-70571"
+        "CVE-2026-70571",
+        "CVE-2026-96951"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1320,6 +1356,25 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Scammers are finding new ways to target your phone. Here are 5 ways to protect yourself",
+    "link": "https://www.malwarebytes.com/blog/scams/2026/10/scammers-are-finding-new-ways-to-target-your-phone-here-are-5-ways-to-protect-yourself",
+    "published": "Thu, 22 Oct 2026 14:14:26 GMT",
+    "summary": "One in three people now tune out scam warnings, and scammers are counting on it.",
+    "analysis": {
+      "issue": "The warnings are everywhere these days",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Woman faces years in prison over a Cash App account she says she never opened",
     "link": "https://www.malwarebytes.com/blog/news/2026/10/woman-faces-years-in-prison-over-a-cash-app-account-she-says-she-never-opened",
     "published": "Thu, 22 Oct 2026 11:27:07 GMT",
@@ -1374,10 +1429,10 @@
   },
   {
     "source": "Malwarebytes",
-    "title": "PHP2Shell: Why websites are going offline for emergency security updates",
+    "title": "PHP2Shell: Why many websites had to go offline for emergency security updates",
     "link": "https://www.malwarebytes.com/blog/bugs/2026/10/php2shell-why-websites-are-going-offline-for-emergency-security-updates",
     "published": "Wed, 21 Oct 2026 16:14:18 GMT",
-    "summary": "Websites are temporarily going offline as admins address two critical PHP flaws that could let attackers run malicious code on their servers.",
+    "summary": "Many websites were temporarily taken offline while admins addressed two critical PHP flaws that could have let attackers run malicious code on their servers.",
     "analysis": {
       "issue": "If you’ve encountered websites in maintenance mode today, it may be a security precaution",
       "solution": null,
@@ -1438,7 +1493,7 @@
     "title": "Google may add your number to all your accounts: How to stop it",
     "link": "https://www.malwarebytes.com/blog/mobile/2026/10/google-may-add-your-number-to-all-your-accounts-how-to-stop-it",
     "published": "Tue, 20 Oct 2026 12:45:23 GMT",
-    "summary": "Android users report that Google automatically added their phone number to accounts they wanted to keep separate. Here’s how to check yours.",
+    "summary": "Android users are reporting that Google automatically added their phone number to accounts they wanted to keep separate. Here’s how to check yours.",
     "analysis": {
       "issue": "As Android Central reports, users have received unexpected emails telling them their phone number has been verified for secondary Google accounts",
       "solution": null,
@@ -1484,25 +1539,6 @@
       "cves": [],
       "threat_categories": [
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "AOMEI Backupper update servers hijacked to push malware: Check your PC",
-    "link": "https://www.malwarebytes.com/blog/news/2026/10/aomei-backupper-update-servers-hijacked-to-push-malware-check-your-pc",
-    "published": "Mon, 19 Oct 2026 14:21:22 GMT",
-    "summary": "Attackers tampered with AOMEI Backupper’s update system to deliver malware that could give them remote access to users’ PCs.",
-    "analysis": {
-      "issue": "The Google Threat Intelligence Group (GTIG) reports that attackers compromised AOMEI Technology’s update and notification infrastructure in a campaign investigated between April and July",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Malware"
       ]
     }
   },
@@ -1568,7 +1604,18 @@
     "title": "U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance",
     "link": "https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/",
     "published": "Oct 13, 2026 00:00:00-0500",
-    "summary": ""
+    "summary": "",
+    "analysis": {
+      "issue": "CrowdStrike collaborated with the FBI to disrupt several laptop farms that were operated by DPRK-nexus adversary FAMOUS CHOLLIMA to fraudulently employ operatives at American companies",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
   },
   {
     "source": "Crowdstrike Blog",
