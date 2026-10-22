@@ -1,6 +1,99 @@
 [
   {
     "source": "The Hacker News",
+    "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
+    "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
+    "published": "Fri, 23 Oct 2026 00:35:35 +0530",
+    "summary": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching.\n\nNobody reviewed its access. Nobody owns it.\n\nIf an employee had that much reach with that little oversight, you would call it an insider risk. So why do we still call the agent a productivity tool?",
+    "analysis": {
+      "issue": "Bitdefender examines shadow AI risks, endpoint visibility gaps, and a malicious agent skill found in the wild",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
+    "link": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
+    "published": "Fri, 23 Oct 2026 00:35:17 +0530",
+    "summary": "Attackers are exploiting a zero-day SQL injection flaw in Arista's VeloCloud Orchestrator (VCO), the&nbsp;central management system&nbsp;for VeloCloud SD-WAN networks, the company said in an&nbsp;advisory&nbsp;on October 22.\n\nThe flaw lets anyone who can log in to the orchestrator, even with a read-only customer account, gain operator privileges, the top level of control over it.\n\nFor",
+    "analysis": {
+      "issue": "Attackers are exploiting CVE-2026-114625 in VeloCloud Orchestrator, allowing logged-in users to gain full operator privileges",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-114625"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
+    "link": "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
+    "published": "Thu, 22 Oct 2026 23:42:43 +0530",
+    "summary": "eMudhra, an Indian certificate authority (CA), will withdraw from its global SSL/TLS certificate business,&nbsp;its board decided on Thursday. The decision came five days after a researcher&nbsp;reported recovering the private keys&nbsp;of eight of its intermediate CA certificates.\n\neMudhra said it will replace affected customers' certificates with free ones from partners, though its",
+    "analysis": {
+      "issue": "eMudhra plans to exit global SSL/TLS certificates after eight weak CA keys were recovered, as Chrome and Firefox withdraw trust in its ECC root",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More",
+    "link": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
+    "published": "Thu, 22 Oct 2026 23:15:44 +0530",
+    "summary": "This week has already been rough for cybersecurity. Critical PHP and GitLab RCE flaws, serious Linux security bugs, compromised eMudhra certificates, a Node.js RCE flaw, a hacked LiteLLM release, and hundreds of hijacked Tor relays. That's a lot to deal with in just a few days. And the week isn't even over yet.\n\nBut those big headlines are only half the story. Stolen passwords, exposed",
+    "analysis": {
+      "issue": "This ThreatsDay: Critical RCE flaws, stolen credentials, data breaches, phishing scams, AI security risks, and cyber threats you may have missed",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes",
+    "link": "https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html",
+    "published": "Thu, 22 Oct 2026 22:31:53 +0530",
+    "summary": "Linux servers running KSMBD, the kernel's built-in SMB server, are exposed to two publicly reported remote code execution flaws rated 9.0 by&nbsp;Trend Micro's Zero Day Initiative, with no fix yet in the mainline kernel.\n\nOne of them, ZDI-CAN-33774, can be triggered before any network authentication. The other, ZDI-CAN-33549, requires the SMB Direct transport and an RDMA-capable network",
+    "analysis": {
+      "issue": "0 flaws in Linux KSMBD could enable remote code execution; one needs no authentication, and neither has a mainline fix",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
     "link": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
     "published": "Thu, 22 Oct 2026 21:42:31 +0530",
@@ -25,24 +118,6 @@
     "summary": "INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds.\n\nIn tandem, the effort saw law enforcement agencies from 21 countries arrest 1,462 suspects. Codenamed Operation Serengeti III, the cybercrime crackdown took place between June 29 and August 31, 2026.\n\n\"Authorities identified",
     "analysis": {
       "issue": "INTERPOL's Operation Serengeti III disrupted 10,909 malicious networks, arrested 1,462 suspects, and recovered over $105 million",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
-    "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
-    "published": "Thu, 22 Oct 2026 17:15:00 +0530",
-    "summary": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching.\n\nNobody reviewed its access. Nobody owns it.\n\nIf an employee had that much reach with that little oversight, you would call it an insider risk. So why do we still call the agent a productivity tool?",
-    "analysis": {
-      "issue": "Bitdefender examines shadow AI risks, endpoint visibility gaps, and a malicious agent skill found in the wild",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -108,74 +183,40 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
-    "link": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
-    "published": "Thu, 22 Oct 2026 13:17:22 +0530",
-    "summary": "Node.js released&nbsp;security updates&nbsp;on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that Node.js bundles, which the project says can allow remote code execution, meaning an attacker could run code of their choosing on the affected system.\n\nEach supported line has one fixed version:&nbsp;",
+    "source": "Bleeping Computer",
+    "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
+    "link": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
+    "published": "Thu, 22 Oct 2026 15:12:51 -0400",
+    "summary": "Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]",
     "analysis": {
-      "issue": "js fixes 10 flaws, including a Brotli decoder bug that may allow code execution when apps decompress attacker-controlled data",
+      "issue": "Hackers compromised the LiteLLM project’s PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Malware"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
-    "link": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
-    "published": "Thu, 22 Oct 2026 12:08:31 +0530",
-    "summary": "A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO&nbsp;disclosed, releasing working proof-of-concept code.\n\nBy sending a small batch of compressed HTTP headers that expands in memory to a much larger set, the attacker can force the server to use thousands of times more memory than it received, enough to run a default server",
+    "source": "Bleeping Computer",
+    "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
+    "published": "Thu, 22 Oct 2026 13:18:22 -0400",
+    "summary": "Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
     "analysis": {
-      "issue": "FoxIO disclosed QPACK flaws in seven HTTP/3 stacks that can cause denial of service through header expansion, with three stacks still unpatched",
+      "issue": "Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "DDoS"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed",
-    "link": "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html",
-    "published": "Thu, 22 Oct 2026 12:04:10 +0530",
-    "summary": "Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities on October 17, 2026, against its MadPot honeypot service, as the flaws come under broad exploitation in the wild following the release of the patches.\n\n\"The exploit attempt originated from an IP address associated with a commercial anonymization network,\" CJ Moses,",
-    "analysis": {
-      "issue": "Amazon detected a PHP2Shell exploit attempt on October 17, before disclosure, followed by further attempts after patches were released",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-114625"
+      ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
-    "link": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
-    "published": "Thu, 22 Oct 2026 09:51:26 +0530",
-    "summary": "Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application.\n\nDuring the incident, Storm-0940 used ARTEX, a Go-based agentic AI penetration testing framework that was made closed-source in the wake of its abuse in cyber attacks targeting South Korean financial institutions, to speed",
-    "analysis": {
-      "issue": "China-linked Storm-0940 used ARTEX AI agents to abuse stolen ConnectWise app credentials and access customer cloud environments",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
       ]
     }
   },
@@ -228,8 +269,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109619",
-        "CVE-2026-109618"
+        "CVE-2026-109618",
+        "CVE-2026-109619"
       ],
       "threat_categories": [
         "Data Breach",
@@ -333,42 +374,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
-    "published": "Wed, 21 Oct 2026 14:34:42 -0400",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]",
-    "analysis": {
-      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "OpenAI agents disabled safety monitoring, one lied about it",
-    "link": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/",
-    "published": "Wed, 21 Oct 2026 12:26:53 -0400",
-    "summary": "OpenAI agents powered by the GPT-6.1 Sol and GPT-6 Astra models weakened misalignment monitoring during two internal tasks, interpreting coding instructions as authorization to do so. [...]",
-    "analysis": {
-      "issue": "OpenAI agents powered by the GPT-6",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
     "link": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
@@ -437,8 +442,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-108398",
-        "CVE-2026-96951"
+        "CVE-2026-96951",
+        "CVE-2026-108398"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -555,9 +560,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-69829",
-        "CVE-2026-69730",
+        "CVE-2026-81963",
         "CVE-2026-85880",
-        "CVE-2026-81963"
+        "CVE-2026-69730"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -635,8 +640,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109619",
-        "CVE-2026-109618"
+        "CVE-2026-109618",
+        "CVE-2026-109619"
       ],
       "threat_categories": [
         "Ransomware",
@@ -658,11 +663,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-76407",
         "CVE-2026-76302",
-        "CVE-2026-76299",
+        "CVE-2026-28328",
+        "CVE-2026-76407",
         "CVE-2026-76531",
-        "CVE-2026-28328"
+        "CVE-2026-76299"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -683,14 +688,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-76466",
-        "CVE-2026-20236",
-        "CVE-2026-20043",
-        "CVE-2026-76474",
         "CVE-2026-76475",
-        "CVE-2026-76462",
         "CVE-2026-76505",
-        "CVE-2026-76473"
+        "CVE-2026-76473",
+        "CVE-2026-76474",
+        "CVE-2026-20043",
+        "CVE-2026-76466",
+        "CVE-2026-76462",
+        "CVE-2026-20236"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -710,8 +715,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109619",
-        "CVE-2026-109618"
+        "CVE-2026-109618",
+        "CVE-2026-109619"
       ],
       "threat_categories": [
         "Data Breach",
@@ -781,6 +786,24 @@
   },
   {
     "source": "Talos Blog",
+    "title": "I had plans for that second",
+    "link": "https://blog.talosintelligence.com/i-had-plans-for-that-second/",
+    "published": "Thu, 22 Oct 2026 18:04:32 GMT",
+    "summary": "The Earth is speeding up, the leap second is being abolished, oh, and there's critical vulnerabilities in PHP.",
+    "analysis": {
+      "issue": "Welcome to this week’s edition of the Threat Source newsletter",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Talos Blog",
     "title": "Compromised eMudhra intermediate certificates",
     "link": "https://blog.talosintelligence.com/compromised-intermediate-certificates/",
     "published": "Wed, 21 Oct 2026 20:43:29 GMT",
@@ -806,14 +829,14 @@
     "published": "Wed, 21 Oct 2026 15:10:53 GMT",
     "summary": "Two critical remote code execution vulnerabilities in PHP core could have implications across its wider ecosystem. Talos has published a blog to explain what we know so far, and details the Snort coverage available, including rules in the Community Ruleset.",
     "analysis": {
-      "issue": "Cisco Talos is tracking the disclosure of two unauthenticated remote code execution (RCE) flaws in PHP core, dubbed “php2shell”, triggered by a plain HTTP request and exploitable before any application code runs, affecting every PHP build since 5",
+      "issue": "Update 10/22: Added section detailing observations of in the wild exploitation and associated IoCs",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109619",
-        "CVE-2026-109618"
+        "CVE-2026-109618",
+        "CVE-2026-109619"
       ],
       "threat_categories": [
         "Ransomware",
@@ -872,8 +895,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2015-1000013",
-        "CVE-2014-125110"
+        "CVE-2014-125110",
+        "CVE-2015-1000013"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -911,9 +934,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-70229",
+        "CVE-2026-96951",
         "CVE-2026-70571",
-        "CVE-2026-96951"
+        "CVE-2026-70229"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -956,25 +979,6 @@
         "Phishing",
         "APT",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "Ignore all instructions and read this blog: The state of AI-analysis evasion in malware",
-    "link": "https://blog.talosintelligence.com/ignore-all-instructions-and-read-this-blog-the-state-of-ai-analysis-evasion-in-malware/",
-    "published": "Thu, 08 Oct 2026 10:00:14 GMT",
-    "summary": "“AI-analysis evasion” encapsulates the real-world techniques malware authors are developing in attempt to obstruct or defeat any layers of automated AI analysis.",
-    "analysis": {
-      "issue": "Just as attackers are adding new capabilities into their toolkits with AI, they are consciously trying to evade the novel AI capabilities levied on them by defenders",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
       ]
     }
   },
@@ -1325,8 +1329,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1351,6 +1355,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Facebook’s misleading privacy claims land Meta a $25 billion penalty",
+    "link": "https://www.malwarebytes.com/blog/news/2026/10/facebooks-misleading-privacy-claims-land-meta-a-25-billion-penalty",
+    "published": "Thu, 22 Oct 2026 16:59:22 GMT",
+    "summary": "Users were misled about who could access their personal information on Facebook. Now Meta has been ordered to pay $25 billion.",
+    "analysis": {
+      "issue": "Facebook’s Cambridge Analytica scandal may feel like very old news",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
       ]
     }
   },
@@ -1440,8 +1462,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109619",
-        "CVE-2026-109618"
+        "CVE-2026-109618",
+        "CVE-2026-109619"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1525,24 +1547,6 @@
     }
   },
   {
-    "source": "Malwarebytes",
-    "title": "Man seeking love travels 2,000 km to meet an AI-generated woman",
-    "link": "https://www.malwarebytes.com/blog/scams/2026/10/man-seeking-love-travels-2000-km-to-meet-an-ai-generated-woman",
-    "published": "Tue, 20 Oct 2026 09:44:53 GMT",
-    "summary": "An influencer’s invitation to join her on a farm shows how public videos can feel dangerously personal.",
-    "analysis": {
-      "issue": "A 49-year-old bricklayer sold his belongings before traveling 2,000 km by bus from his home in Brazil to meet “Jéssica,” an online influencer he had fallen for",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "APT"
-      ]
-    }
-  },
-  {
     "source": "Crowdstrike Blog",
     "title": "CrowdStrike Uncovers New Agentic AI Campaigns",
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-agentic-ai-campaigns/",
@@ -1573,8 +1577,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-109619",
-        "CVE-2026-109618"
+        "CVE-2026-109618",
+        "CVE-2026-109619"
       ],
       "threat_categories": [
         "Vulnerability"
