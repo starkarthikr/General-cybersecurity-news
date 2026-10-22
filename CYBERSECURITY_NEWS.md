@@ -1,10 +1,82 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-22 05:12:08 UTC
+**Last Updated:** 2026-10-22 14:00:46 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases](https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html)
+### 1. [The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat](https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 22 Oct 2026 17:15:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation](https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 22 Oct 2026 16:45:42 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL](https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 22 Oct 2026 16:14:05 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 4. [LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release](https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 22 Oct 2026 13:58:48 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 5. [Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions](https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 22 Oct 2026 13:17:22 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 6. [New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification](https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 22 Oct 2026 12:08:31 +0530  
+**Severity:** Low  
+**Categories:** DDoS  
+
+---
+
+### 7. [Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed](https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 22 Oct 2026 12:04:10 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 8. [China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack](https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 22 Oct 2026 09:51:26 +0530  
+**Severity:** Low  
+**Categories:** Supply Chain  
+
+---
+
+### 9. [Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases](https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 22 Oct 2026 00:27:34 +0530  
@@ -14,7 +86,7 @@
 
 ---
 
-### 2. [LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor](https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html)
+### 10. [LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor](https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 21 Oct 2026 23:31:57 +0530  
@@ -23,97 +95,47 @@
 
 ---
 
-### 3. [OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So](https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html)
+### 11. [Amazon says PHP2Shell exploitation began 4 days before patches](https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 21 Oct 2026 22:03:47 +0530  
-**Severity:** Low  
-**Categories:** General Security  
+**Source:** Bleeping Computer  
+**Published:** Thu, 22 Oct 2026 09:09:12 -0400  
 
 ---
 
-### 4. [PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge](https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html)
+### 12. [GitLab warns of new max severity code execution vulnerability](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 21 Oct 2026 19:30:00 +0530  
-**Severity:** Critical  
+**Source:** Bleeping Computer  
+**Published:** Thu, 22 Oct 2026 07:41:48 -0400  
+**Severity:** Low  
+**CVEs:** CVE-2026-110264  
 **Categories:** Vulnerability  
 
 ---
 
-### 5. [Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands](https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html)
+### 13. [Authorities disrupt nearly 11,000 cybercrime networks in Africa](https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 21 Oct 2026 18:45:09 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 6. [China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors](https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 21 Oct 2026 17:35:00 +0530  
-**Severity:** Low  
-**Categories:** Malware  
+**Source:** Bleeping Computer  
+**Published:** Thu, 22 Oct 2026 04:27:11 -0400  
+**Severity:** High  
+**Categories:** Ransomware  
 
 ---
 
-### 7. [Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports](https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 21 Oct 2026 17:23:34 +0530  
-**Severity:** Low  
-**Categories:** Phishing  
-
----
-
-### 8. [PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't](https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 21 Oct 2026 16:06:53 +0530  
-**Severity:** Critical  
-**Categories:** General Security  
-
----
-
-### 9. [The Harness Is the Hard Part of Agentic Pentesting](https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 21 Oct 2026 16:02:40 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 10. [Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections](https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 21 Oct 2026 16:00:27 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 11. [Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks](https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/)
+### 14. [Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks](https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 21 Oct 2026 18:16:26 -0400  
-**Severity:** High  
-**Categories:** Phishing  
 
 ---
 
-### 12. [Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected](https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/)
+### 15. [Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected](https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 21 Oct 2026 17:43:27 -0400  
-**Severity:** Low  
-**Categories:** Data Breach, Malware  
 
 ---
 
-### 13. [Lazarus hackers use post-quantum cryptography for malware delivery](https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/)
+### 16. [Lazarus hackers use post-quantum cryptography for malware delivery](https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 21 Oct 2026 16:31:48 -0400  
@@ -122,7 +144,7 @@
 
 ---
 
-### 14. [CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers](https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/)
+### 17. [CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers](https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 21 Oct 2026 14:34:42 -0400  
@@ -131,58 +153,29 @@
 
 ---
 
-### 15. [OpenAI agents disabled safety monitoring, one lied about it](https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/)
+### 18. [OpenAI agents disabled safety monitoring, one lied about it](https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 21 Oct 2026 12:26:53 -0400  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
-### 16. [PHP ships emergency patches for critical PHP2Shell flaws](https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/)
+### 19. [PHP ships emergency patches for critical PHP2Shell flaws](https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 21 Oct 2026 10:07:05 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109618, CVE-2026-109619  
+**CVEs:** CVE-2026-109619, CVE-2026-109618  
 **Categories:** Vulnerability  
 
 ---
 
-### 17. [ClickFix has never been bigger, and AI tools are its most convincing lure yet](https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/)
+### 20. [ClickFix has never been bigger, and AI tools are its most convincing lure yet](https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 21 Oct 2026 10:00:10 -0400  
 **Severity:** Low  
 **Categories:** Phishing  
-
----
-
-### 18. [Microsoft PowerToys adds CursorHide, Button Lock mouse tools](https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 21 Oct 2026 08:20:34 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 19. [Microsoft says October updates didn’t actually fix VPN issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 21 Oct 2026 06:14:53 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [CISA: SafePay ransomware hit over 600 critical infrastructure orgs](https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 21 Oct 2026 04:36:24 -0400  
-**Severity:** Critical  
-**Categories:** Ransomware, Vulnerability  
 
 ---
 
@@ -218,7 +211,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 13 Oct 2026 23:24:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-96951, CVE-2026-108398  
+**CVEs:** CVE-2026-108398, CVE-2026-96951  
 **Categories:** Vulnerability  
 
 ---
@@ -274,12 +267,90 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81963, CVE-2026-69829, CVE-2026-69730, CVE-2026-85880  
+**CVEs:** CVE-2026-69730, CVE-2026-85880, CVE-2026-81963, CVE-2026-69829  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 31. [Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections](https://www.securityweek.com/google-hardens-chrome-against-clickfix-attacks-insecure-http-connections/)
+### 31. [Indurex Raises $8 Million to Expand Industrial Cybersecurity Platform](https://www.securityweek.com/indurex-raises-8-million-to-expand-industrial-cybersecurity-platform/)
+
+**Source:** Security Week  
+**Published:** Thu, 22 Oct 2026 13:00:00 +0000  
+**Severity:** Critical  
+**Categories:** General Security  
+
+---
+
+### 32. [Signal Vulnerability Lets Malicious Callers Block Hang-Ups](https://www.securityweek.com/signal-vulnerability-lets-malicious-callers-block-hang-ups/)
+
+**Source:** Security Week  
+**Published:** Thu, 22 Oct 2026 12:34:31 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-113380  
+**Categories:** Ransomware, Vulnerability  
+
+---
+
+### 33. [Tech and Security Companies Respond to PHP2Shell Vulnerabilities](https://www.securityweek.com/tech-and-security-companies-respond-to-php2shell-vulnerabilities/)
+
+**Source:** Security Week  
+**Published:** Thu, 22 Oct 2026 12:20:23 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-109619, CVE-2026-109618  
+**Categories:** Ransomware, Vulnerability, Malware  
+
+---
+
+### 34. [Splunk, SolarWinds Release Fresh Security Updates](https://www.securityweek.com/splunk-solarwinds-release-fresh-security-updates/)
+
+**Source:** Security Week  
+**Published:** Thu, 22 Oct 2026 10:45:24 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-28328, CVE-2026-76407, CVE-2026-76531, CVE-2026-76299, CVE-2026-76302  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 35. [Cisco Patches 34 Vulnerabilities Across Multiple Products](https://www.securityweek.com/cisco-patches-34-vulnerabilities-across-multiple-products/)
+
+**Source:** Security Week  
+**Published:** Thu, 22 Oct 2026 10:05:21 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-76475, CVE-2026-76474, CVE-2026-76473, CVE-2026-20236, CVE-2026-20043, CVE-2026-76505, CVE-2026-76462, CVE-2026-76466  
+**Categories:** Vulnerability  
+
+---
+
+### 36. [PHP2Shell Exploitation Started Days Before Patches](https://www.securityweek.com/php2shell-exploitation-started-days-before-patches/)
+
+**Source:** Security Week  
+**Published:** Thu, 22 Oct 2026 09:48:58 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-109619, CVE-2026-109618  
+**Categories:** Data Breach, Vulnerability, Malware  
+
+---
+
+### 37. [Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU](https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/)
+
+**Source:** Security Week  
+**Published:** Thu, 22 Oct 2026 07:38:14 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-91403  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 38. [Meta Ordered to Pay New Mexico $25 Billion for Deceiving Users About Privacy on Facebook](https://www.securityweek.com/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook/)
+
+**Source:** Security Week  
+**Published:** Thu, 22 Oct 2026 07:26:54 +0000  
+**Severity:** High  
+**Categories:** Supply Chain  
+
+---
+
+### 39. [Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections](https://www.securityweek.com/google-hardens-chrome-against-clickfix-attacks-insecure-http-connections/)
 
 **Source:** Security Week  
 **Published:** Wed, 21 Oct 2026 17:00:00 +0000  
@@ -288,85 +359,13 @@
 
 ---
 
-### 32. [PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors](https://www.securityweek.com/php2shell-patches-land-as-first-exploitation-attempts-hit-sensors/)
+### 40. [PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors](https://www.securityweek.com/php2shell-patches-land-as-first-exploitation-attempts-hit-sensors/)
 
 **Source:** Security Week  
 **Published:** Wed, 21 Oct 2026 16:50:40 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109618, CVE-2026-109619  
+**CVEs:** CVE-2026-109619, CVE-2026-109618  
 **Categories:** Ransomware, Data Breach, Vulnerability, Malware, Supply Chain  
-
----
-
-### 33. [‘Context Bombs’ Cut AI Attack Success by Misleading Agents With Fake Targets](https://www.securityweek.com/context-bombs-cut-ai-attack-success-by-misleading-agents-with-fake-targets/)
-
-**Source:** Security Week  
-**Published:** Wed, 21 Oct 2026 15:00:00 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 34. [High-Severity Flaws Exploited in Three Days as Ransomware Dominates Q3: Rapid7](https://www.securityweek.com/high-severity-flaws-exploited-in-three-days-as-ransomware-dominates-q3-rapid7/)
-
-**Source:** Security Week  
-**Published:** Wed, 21 Oct 2026 14:45:00 +0000  
-**Severity:** Critical  
-**Categories:** Ransomware, Vulnerability, Malware, Phishing, APT, Supply Chain  
-
----
-
-### 35. [Asymptote Labs Lands $5.5 Million Seed for AI Agent Runtime Security](https://www.securityweek.com/asymptote-labs-lands-5-5-million-seed-for-ai-agent-runtime-security/)
-
-**Source:** Security Week  
-**Published:** Wed, 21 Oct 2026 13:17:35 +0000  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 36. [Memory Bugs Account for Most of Chrome’s 353 New Security Fixes](https://www.securityweek.com/memory-bugs-account-for-most-of-chromes-353-new-security-fixes/)
-
-**Source:** Security Week  
-**Published:** Wed, 21 Oct 2026 12:57:47 +0000  
-**Severity:** Critical  
-**Categories:** Data Breach, Vulnerability  
-
----
-
-### 37. [OpenAI Agents Silenced Security Team Alerts, Removed Misalignment Monitor](https://www.securityweek.com/openai-agents-silenced-security-team-alerts-removed-misalignment-monitor/)
-
-**Source:** Security Week  
-**Published:** Wed, 21 Oct 2026 12:34:22 +0000  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 38. [Browsers Block eMudhra Intermediate CAs Over Recoverable Private Keys](https://www.securityweek.com/browsers-block-emudhra-intermediate-cas-over-recoverable-private-keys/)
-
-**Source:** Security Week  
-**Published:** Wed, 21 Oct 2026 11:22:05 +0000  
-**Severity:** Critical  
-**Categories:** Data Breach, Vulnerability, Supply Chain  
-
----
-
-### 39. [China Defends DeepSeek After US Ban of Its AI From Government Systems](https://www.securityweek.com/china-defends-deepseek-after-us-ban-of-its-ai-from-government-systems/)
-
-**Source:** Security Week  
-**Published:** Wed, 21 Oct 2026 10:54:49 +0000  
-**Severity:** Low  
-**Categories:** Supply Chain  
-
----
-
-### 40. [Chinese AI Model Writes More Hackable Code When Told It’s for US Contractor](https://www.securityweek.com/chinese-ai-model-writes-more-hackable-code-when-told-its-for-us-contractor/)
-
-**Source:** Security Week  
-**Published:** Wed, 21 Oct 2026 10:03:24 +0000  
-**Severity:** Low  
-**Categories:** Vulnerability  
 
 ---
 
@@ -385,7 +384,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 21 Oct 2026 15:10:53 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109618, CVE-2026-109619  
+**CVEs:** CVE-2026-109619, CVE-2026-109618  
 **Categories:** Ransomware, Vulnerability  
 
 ---
@@ -414,7 +413,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 15 Oct 2026 18:00:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2014-125110, CVE-2015-1000013  
+**CVEs:** CVE-2015-1000013, CVE-2014-125110  
 **Categories:** Vulnerability  
 
 ---
@@ -433,7 +432,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 13 Oct 2026 20:37:58 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-96951, CVE-2026-70229, CVE-2026-70571  
+**CVEs:** CVE-2026-70229, CVE-2026-96951, CVE-2026-70571  
 **Categories:** Vulnerability  
 
 ---
@@ -635,7 +634,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -650,7 +649,25 @@
 
 ---
 
-### 71. [WhatsApp’s chatbot was given hidden instructions to not mention privacy regulators](https://www.malwarebytes.com/blog/news/2026/10/whatsapp-chatbot-privacy-regulators)
+### 71. [Woman faces years in prison over a Cash App account she says she never opened](https://www.malwarebytes.com/blog/news/2026/10/woman-faces-years-in-prison-over-a-cash-app-account-she-says-she-never-opened)
+
+**Source:** Malwarebytes  
+**Published:** Thu, 22 Oct 2026 11:27:07 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 72. [Delivery bots accused of illegally scanning customers](https://www.malwarebytes.com/blog/privacy/2026/10/delivery-bots-accused-of-illegally-scanning-customers)
+
+**Source:** Malwarebytes  
+**Published:** Thu, 22 Oct 2026 09:39:23 GMT  
+**Severity:** Low  
+**Categories:** APT  
+
+---
+
+### 73. [WhatsApp’s chatbot was given hidden instructions to not mention privacy regulators](https://www.malwarebytes.com/blog/news/2026/10/whatsapp-chatbot-privacy-regulators)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 21 Oct 2026 18:49:04 GMT  
@@ -659,17 +676,17 @@
 
 ---
 
-### 72. [PHP2Shell: Why websites are going offline for emergency security updates](https://www.malwarebytes.com/blog/bugs/2026/10/php2shell-why-websites-are-going-offline-for-emergency-security-updates)
+### 74. [PHP2Shell: Why websites are going offline for emergency security updates](https://www.malwarebytes.com/blog/bugs/2026/10/php2shell-why-websites-are-going-offline-for-emergency-security-updates)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 21 Oct 2026 16:14:18 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109618, CVE-2026-109619  
+**CVEs:** CVE-2026-109619, CVE-2026-109618  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 73. [Fake Amazon Music x YouTube deal lures creators into a Google login trap](https://www.malwarebytes.com/blog/threat-intel/2026/10/fake-amazon-music-x-youtube-deal-lures-creators-into-a-google-login-trap)
+### 75. [Fake Amazon Music x YouTube deal lures creators into a Google login trap](https://www.malwarebytes.com/blog/threat-intel/2026/10/fake-amazon-music-x-youtube-deal-lures-creators-into-a-google-login-trap)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 21 Oct 2026 12:45:00 GMT  
@@ -678,7 +695,7 @@
 
 ---
 
-### 74. [Signal bug could let someone keep listening after you hang up](https://www.malwarebytes.com/blog/bugs/2026/10/signal-bug-could-let-someone-keep-listening-after-you-hang-up)
+### 76. [Signal bug could let someone keep listening after you hang up](https://www.malwarebytes.com/blog/bugs/2026/10/signal-bug-could-let-someone-keep-listening-after-you-hang-up)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 21 Oct 2026 11:37:57 GMT  
@@ -688,7 +705,7 @@
 
 ---
 
-### 75. [Google may add your number to all your accounts: How to stop it](https://www.malwarebytes.com/blog/mobile/2026/10/google-may-add-your-number-to-all-your-accounts-how-to-stop-it)
+### 77. [Google may add your number to all your accounts: How to stop it](https://www.malwarebytes.com/blog/mobile/2026/10/google-may-add-your-number-to-all-your-accounts-how-to-stop-it)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 20 Oct 2026 12:45:23 GMT  
@@ -697,7 +714,7 @@
 
 ---
 
-### 76. [Meta glasses caught recording conversations without wake phrase](https://www.malwarebytes.com/blog/news/2026/10/meta-says-it-fixed-smart-glasses-unprompted-eavesdropping)
+### 78. [Meta glasses caught recording conversations without wake phrase](https://www.malwarebytes.com/blog/news/2026/10/meta-says-it-fixed-smart-glasses-unprompted-eavesdropping)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 20 Oct 2026 10:06:58 GMT  
@@ -706,7 +723,7 @@
 
 ---
 
-### 77. [Man seeking love travels 2,000 km to meet an AI-generated woman](https://www.malwarebytes.com/blog/scams/2026/10/man-seeking-love-travels-2000-km-to-meet-an-ai-generated-woman)
+### 79. [Man seeking love travels 2,000 km to meet an AI-generated woman](https://www.malwarebytes.com/blog/scams/2026/10/man-seeking-love-travels-2000-km-to-meet-an-ai-generated-woman)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 20 Oct 2026 09:44:53 GMT  
@@ -715,30 +732,12 @@
 
 ---
 
-### 78. [AOMEI Backupper update servers hijacked to push malware: Check your PC](https://www.malwarebytes.com/blog/news/2026/10/aomei-backupper-update-servers-hijacked-to-push-malware-check-your-pc)
+### 80. [AOMEI Backupper update servers hijacked to push malware: Check your PC](https://www.malwarebytes.com/blog/news/2026/10/aomei-backupper-update-servers-hijacked-to-push-malware-check-your-pc)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 19 Oct 2026 14:21:22 GMT  
 **Severity:** Low  
 **Categories:** Ransomware, Malware  
-
----
-
-### 79. [A sextortion conspiracy killed his son (Lock and Code S07E21)](https://www.malwarebytes.com/blog/podcast/2026/10/a-sextortion-conspiracy-killed-his-son-lock-and-code-s07e21)
-
-**Source:** Malwarebytes  
-**Published:** Mon, 19 Oct 2026 12:10:53 GMT  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 80. [Millions of California students’ sensitive data stolen in breach](https://www.malwarebytes.com/blog/data-breaches/2026/10/millions-of-california-students-sensitive-data-stolen-in-breach)
-
-**Source:** Malwarebytes  
-**Published:** Mon, 19 Oct 2026 11:10:14 GMT  
-**Severity:** High  
-**Categories:** General Security  
 
 ---
 
@@ -756,7 +755,7 @@
 **Source:** Crowdstrike Blog  
 **Published:** Oct 21, 2026 00:00:00-0500  
 **Severity:** Low  
-**CVEs:** CVE-2026-109618, CVE-2026-109619  
+**CVEs:** CVE-2026-109619, CVE-2026-109618  
 **Categories:** Vulnerability  
 
 ---
@@ -774,8 +773,6 @@
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 13, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** APT  
 
 ---
 
