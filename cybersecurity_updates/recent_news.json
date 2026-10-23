@@ -1,6 +1,61 @@
 [
   {
     "source": "The Hacker News",
+    "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
+    "link": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
+    "published": "Sat, 24 Oct 2026 00:20:13 +0530",
+    "summary": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX.\n\nThe activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and Turkmenistan in early 2026, is suspected to be orchestrated by a China-linked state-sponsored hacking group known as APT41, Kaspersky said in a technical report",
+    "analysis": {
+      "issue": "BlackX bootkit exploits unrevoked Secure Boot binaries on Windows devices after attackers gain admin access to Central Asian diplomatic networks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
+    "link": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
+    "published": "Fri, 23 Oct 2026 23:24:08 +0530",
+    "summary": "Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab patched over the past month.\n\nGitLab found that a specially crafted pattern could corrupt memory while Ruby compiles it, potentially leading to code execution on its own servers.\n\nRuby says any",
+    "analysis": {
+      "issue": "Ruby patched three Onigmo regex bugs that enabled code execution in GitLab when it compiled attacker-controlled patterns",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
+    "link": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
+    "published": "Fri, 23 Oct 2026 23:20:47 +0530",
+    "summary": "Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups.\n\nCentral to the operation is an \"Autonomous Red Team Kill Chain Framework\" referred to as Phantom. The threat actor is assessed to be Russian-speaking and functions both as an intrusion and data-extortion operator, as well as an",
+    "analysis": {
+      "issue": "Ransomware affiliates used human-approved AI workflows to exploit edge systems, steal data, and target an estimated 62 organizations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
     "link": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
     "published": "Fri, 23 Oct 2026 19:20:56 +0530",
@@ -39,7 +94,7 @@
   },
   {
     "source": "The Hacker News",
-    "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
+    "title": "Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
     "link": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
     "published": "Fri, 23 Oct 2026 16:41:23 +0530",
     "summary": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year.\n\nAccording to ESET, the attack involved UAC-0099 (aka Earth Sirrush) obtaining initial access to the target on July 16, 2025, via a spear-phishing email bearing a malware-laced attachment that led to the deployment of",
@@ -129,51 +184,31 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
-    "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
-    "published": "Fri, 23 Oct 2026 00:35:35 +0530",
-    "summary": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching.\n\nNobody reviewed its access. Nobody owns it.\n\nIf an employee had that much reach with that little oversight, you would call it an insider risk. So why do we still call the agent a productivity tool?",
+    "source": "Bleeping Computer",
+    "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
+    "published": "Fri, 23 Oct 2026 14:54:41 -0400",
+    "summary": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]",
     "analysis": {
-      "issue": "Bitdefender examines shadow AI risks, endpoint visibility gaps, and a malicious agent skill found in the wild",
+      "issue": "Microsoft says Teams will begin using AI-powered phishing detection in early November 2026 to detect malicious behavior in messages",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Phishing"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
-    "link": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
-    "published": "Fri, 23 Oct 2026 00:35:17 +0530",
-    "summary": "Attackers are exploiting a zero-day SQL injection flaw in Arista's VeloCloud Orchestrator (VCO), the&nbsp;central management system&nbsp;for VeloCloud SD-WAN networks, the company said in an&nbsp;advisory&nbsp;on October 22.\n\nThe flaw lets anyone who can log in to the orchestrator, even with a read-only customer account, gain operator privileges, the top level of control over it.\n\nFor",
+    "source": "Bleeping Computer",
+    "title": "Microsoft: Windows Server 2016 reaches end of support in January",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
+    "published": "Fri, 23 Oct 2026 13:05:07 -0400",
+    "summary": "Microsoft says Windows Server 2016 will stop receiving security updates after it reaches the end of support in January 2027. [...]",
     "analysis": {
-      "issue": "Attackers are exploiting CVE-2026-114625 in VeloCloud Orchestrator, allowing logged-in users to gain full operator privileges",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-114625"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
-    "link": "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
-    "published": "Thu, 22 Oct 2026 23:42:43 +0530",
-    "summary": "eMudhra, an Indian certificate authority (CA), will withdraw from its global SSL/TLS certificate business,&nbsp;its board decided on Thursday. The decision came five days after a researcher&nbsp;reported recovering the private keys&nbsp;of eight of its intermediate CA certificates.\n\neMudhra said it will replace affected customers' certificates with free ones from partners, though its",
-    "analysis": {
-      "issue": "eMudhra plans to exit global SSL/TLS certificates after eight weak CA keys were recovered, as Chrome and Firefox withdraw trust in its ECC root",
+      "issue": "Microsoft says Windows Server 2016 will stop receiving security updates after it reaches the end of support in January 2027",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -216,8 +251,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-109618",
-        "CVE-2026-115560",
-        "CVE-2026-109619"
+        "CVE-2026-109619",
+        "CVE-2026-115560"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -332,42 +367,6 @@
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft shares how to fix broken Exchange Online EWS apps",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
-    "published": "Thu, 22 Oct 2026 11:49:32 -0400",
-    "summary": "Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working. [...]",
-    "analysis": {
-      "issue": "Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Machine speed attacks require machine speed detection and response",
-    "link": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
-    "published": "Thu, 22 Oct 2026 10:02:12 -0400",
-    "summary": "Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA phishing, explaining why faster detection and automated containment are critical. [...]",
-    "analysis": {
-      "issue": "TL;DR: Our analysis shows attackers are now enumerating or pulling data within 15 minutes of getting into an environment, and the tools that should have caught them were not effective",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -557,10 +556,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-81963",
         "CVE-2026-85880",
+        "CVE-2026-69829",
         "CVE-2026-69730",
-        "CVE-2026-69829"
+        "CVE-2026-81963"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -648,8 +647,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-93952",
         "CVE-2026-16812",
+        "CVE-2026-93952",
         "CVE-2026-114625"
       ],
       "threat_categories": [
@@ -728,14 +727,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-77185",
+        "CVE-2026-68525",
+        "CVE-2026-65637",
         "CVE-2026-75595",
         "CVE-2026-21589",
-        "CVE-2026-65637",
+        "CVE-2026-77185",
         "CVE-2026-58062",
-        "CVE-2026-65182",
         "CVE-2026-65905",
-        "CVE-2026-68525"
+        "CVE-2026-65182"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -930,8 +929,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-70571",
         "CVE-2026-96951",
+        "CVE-2026-70571",
         "CVE-2026-70229"
       ],
       "threat_categories": [
@@ -1325,8 +1324,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1483,10 +1482,10 @@
   },
   {
     "source": "Malwarebytes",
-    "title": "PHP2Shell: Why many websites had to go offline for emergency security updates",
+    "title": "PHP2Shell: Why many websites had to go offline",
     "link": "https://www.malwarebytes.com/blog/bugs/2026/10/php2shell-why-websites-are-going-offline-for-emergency-security-updates",
     "published": "Wed, 21 Oct 2026 16:14:18 GMT",
-    "summary": "Many websites were temporarily taken offline while admins addressed two critical PHP flaws that could have let attackers run malicious code on their servers.",
+    "summary": "Many sites were taken offline so admins could patch two critical PHP flaws that could have let attackers run malicious code on their servers.",
     "analysis": {
       "issue": "If you’ve encountered websites in maintenance mode today, it may be a security precaution",
       "solution": null,
@@ -1544,16 +1543,16 @@
   },
   {
     "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Uncovers New Agentic AI Campaigns",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-agentic-ai-campaigns/",
-    "published": "Oct 21, 2026 00:00:00-0500",
+    "title": "Why Organizations Secure AI Agents with Falcon Guardian",
+    "link": "https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/",
+    "published": "Oct 23, 2026 00:00:00-0500",
     "summary": "",
     "analysis": {
-      "issue": "CrowdStrike details research into four previously unreported threat actors conducting campaigns in which AI agents make decisions and execute commands",
+      "issue": "Falcon Guardian has been deployed at hundreds of organizations around the world",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
         "General Security"
@@ -1578,6 +1577,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
+    "title": "CrowdStrike Uncovers New Agentic AI Campaigns",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-agentic-ai-campaigns/",
+    "published": "Oct 21, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "CrowdStrike details research into four previously unreported threat actors conducting campaigns in which AI agents make decisions and execute commands",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1697,24 +1714,6 @@
     "summary": "",
     "analysis": {
       "issue": "CrowdStrike is positioned furthest to the right of all vendors evaluated on the Strategies axis, which assesses how well a vendor’s future strategy aligns with what customers will require over the next 3 to 5 years",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "Request, Aggregate, Bypass: How Attackers Can Evade LLM Safety Classifiers",
-    "link": "https://www.crowdstrike.com/en-us/blog/how-attackers-can-bypass-llm-safety-classifiers/",
-    "published": "Oct 06, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "The CrowdStrike Cyber Superintelligence Lab evaluated the most advanced publicly deployed content safety classifier and found it can be systematically circumvented",
       "solution": null,
       "cause": null,
       "timeline": null,

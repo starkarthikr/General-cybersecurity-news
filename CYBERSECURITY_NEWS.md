@@ -1,10 +1,37 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-23 16:48:54 UTC
+**Last Updated:** 2026-10-23 20:01:51 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials](https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html)
+### 1. [BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations](https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 24 Oct 2026 00:20:13 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws](https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 23 Oct 2026 23:24:08 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions](https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 23 Oct 2026 23:20:47 +0530  
+**Severity:** Low  
+**Categories:** Ransomware, Vulnerability  
+
+---
+
+### 4. [Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials](https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 23 Oct 2026 19:20:56 +0530  
@@ -13,7 +40,7 @@
 
 ---
 
-### 2. [PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches](https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html)
+### 5. [PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches](https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 23 Oct 2026 16:55:43 +0530  
@@ -23,7 +50,7 @@
 
 ---
 
-### 3. [Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack](https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html)
+### 6. [Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack](https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 23 Oct 2026 16:41:23 +0530  
@@ -32,7 +59,7 @@
 
 ---
 
-### 4. [Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image](https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html)
+### 7. [Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image](https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 23 Oct 2026 15:06:00 +0530  
@@ -41,7 +68,7 @@
 
 ---
 
-### 5. [Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data](https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html)
+### 8. [Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data](https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 23 Oct 2026 14:10:43 +0530  
@@ -50,7 +77,7 @@
 
 ---
 
-### 6. [Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances](https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html)
+### 9. [Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances](https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 23 Oct 2026 14:05:45 +0530  
@@ -59,7 +86,7 @@
 
 ---
 
-### 7. [PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware](https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html)
+### 10. [PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware](https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 23 Oct 2026 13:10:45 +0530  
@@ -68,35 +95,25 @@
 
 ---
 
-### 8. [The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat](https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html)
+### 11. [Microsoft Teams to get AI-powered, context-aware phishing detection](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 23 Oct 2026 00:35:35 +0530  
+**Source:** Bleeping Computer  
+**Published:** Fri, 23 Oct 2026 14:54:41 -0400  
+**Severity:** High  
+**Categories:** Phishing  
+
+---
+
+### 12. [Microsoft: Windows Server 2016 reaches end of support in January](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 23 Oct 2026 13:05:07 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 9. [Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks](https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 23 Oct 2026 00:35:17 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-114625  
-**Categories:** Vulnerability  
-
----
-
-### 10. [eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable](https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 22 Oct 2026 23:42:43 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 11. [Quest Diagnostics confirms data breach exposed patient records](https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/)
+### 13. [Quest Diagnostics confirms data breach exposed patient records](https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 23 Oct 2026 12:40:07 -0400  
@@ -105,17 +122,17 @@
 
 ---
 
-### 12. [PHP shares mitigation for new RCE vulnerability with no patch](https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/)
+### 14. [PHP shares mitigation for new RCE vulnerability with no patch](https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 23 Oct 2026 11:38:05 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109618, CVE-2026-115560, CVE-2026-109619  
+**CVEs:** CVE-2026-109618, CVE-2026-109619, CVE-2026-115560  
 **Categories:** Vulnerability  
 
 ---
 
-### 13. [You gave your AI agent access, but who is giving it orders?](https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/)
+### 15. [You gave your AI agent access, but who is giving it orders?](https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 23 Oct 2026 10:00:10 -0400  
@@ -124,7 +141,7 @@
 
 ---
 
-### 14. [HPE patches eight max severity RCE and auth bypass AOS flaws](https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/)
+### 16. [HPE patches eight max severity RCE and auth bypass AOS flaws](https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 23 Oct 2026 08:48:00 -0400  
@@ -133,7 +150,7 @@
 
 ---
 
-### 15. [Railway warns devs to rotate secrets after potential breach](https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/)
+### 17. [Railway warns devs to rotate secrets after potential breach](https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 22 Oct 2026 17:25:31 -0400  
@@ -142,7 +159,7 @@
 
 ---
 
-### 16. [Capcom confirms data breach affecting 11.7 million accounts](https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/)
+### 18. [Capcom confirms data breach affecting 11.7 million accounts](https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 22 Oct 2026 16:22:45 -0400  
@@ -151,7 +168,7 @@
 
 ---
 
-### 17. [LiteLLM release pipeline hacked to distribute info-stealer malware](https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/)
+### 19. [LiteLLM release pipeline hacked to distribute info-stealer malware](https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 22 Oct 2026 15:12:51 -0400  
@@ -160,31 +177,13 @@
 
 ---
 
-### 18. [Arista patches new VeloCloud Orchestrator zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/)
+### 20. [Arista patches new VeloCloud Orchestrator zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 22 Oct 2026 13:18:22 -0400  
 **Severity:** Critical  
 **CVEs:** CVE-2026-114625  
 **Categories:** Vulnerability  
-
----
-
-### 19. [Microsoft shares how to fix broken Exchange Online EWS apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 22 Oct 2026 11:49:32 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [Machine speed attacks require machine speed detection and response](https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 22 Oct 2026 10:02:12 -0400  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -276,7 +275,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81963, CVE-2026-85880, CVE-2026-69730, CVE-2026-69829  
+**CVEs:** CVE-2026-85880, CVE-2026-69829, CVE-2026-69730, CVE-2026-81963  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -314,7 +313,7 @@
 **Source:** Security Week  
 **Published:** Fri, 23 Oct 2026 09:58:34 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-93952, CVE-2026-16812, CVE-2026-114625  
+**CVEs:** CVE-2026-16812, CVE-2026-93952, CVE-2026-114625  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -351,7 +350,7 @@
 **Source:** Security Week  
 **Published:** Fri, 23 Oct 2026 07:54:47 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-77185, CVE-2026-75595, CVE-2026-21589, CVE-2026-65637, CVE-2026-58062, CVE-2026-65182, CVE-2026-65905, CVE-2026-68525  
+**CVEs:** CVE-2026-68525, CVE-2026-65637, CVE-2026-75595, CVE-2026-21589, CVE-2026-77185, CVE-2026-58062, CVE-2026-65905, CVE-2026-65182  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -446,7 +445,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 13 Oct 2026 20:37:58 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-70571, CVE-2026-96951, CVE-2026-70229  
+**CVEs:** CVE-2026-96951, CVE-2026-70571, CVE-2026-70229  
 **Categories:** Vulnerability  
 
 ---
@@ -639,7 +638,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -717,7 +716,7 @@
 
 ---
 
-### 78. [PHP2Shell: Why many websites had to go offline for emergency security updates](https://www.malwarebytes.com/blog/bugs/2026/10/php2shell-why-websites-are-going-offline-for-emergency-security-updates)
+### 78. [PHP2Shell: Why many websites had to go offline](https://www.malwarebytes.com/blog/bugs/2026/10/php2shell-why-websites-are-going-offline-for-emergency-security-updates)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 21 Oct 2026 16:14:18 GMT  
@@ -746,11 +745,11 @@
 
 ---
 
-### 81. [CrowdStrike Uncovers New Agentic AI Campaigns](https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-agentic-ai-campaigns/)
+### 81. [Why Organizations Secure AI Agents with Falcon Guardian](https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/)
 
 **Source:** Crowdstrike Blog  
-**Published:** Oct 21, 2026 00:00:00-0500  
-**Severity:** Low  
+**Published:** Oct 23, 2026 00:00:00-0500  
+**Severity:** Critical  
 **Categories:** General Security  
 
 ---
@@ -765,7 +764,16 @@
 
 ---
 
-### 83. [CrowdStrike Achieves NCSC CIR Enhanced Level Assurance](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-uk-ncsc-cir-enhanced-level-assurance/)
+### 83. [CrowdStrike Uncovers New Agentic AI Campaigns](https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-agentic-ai-campaigns/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Oct 21, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 84. [CrowdStrike Achieves NCSC CIR Enhanced Level Assurance](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-uk-ncsc-cir-enhanced-level-assurance/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 20, 2026 00:00:00-0500  
@@ -774,7 +782,7 @@
 
 ---
 
-### 84. [U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance](https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/)
+### 85. [U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance](https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 13, 2026 00:00:00-0500  
@@ -783,7 +791,7 @@
 
 ---
 
-### 85. [October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2026/)
+### 86. [October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 13, 2026 00:00:00-0500  
@@ -792,7 +800,7 @@
 
 ---
 
-### 86. [CrowdStrike and Anthropic Give Critical Infrastructure Defenders the AI Advantage](https://www.crowdstrike.com/en-us/blog/crowdstrike-anthropic-critical-infrastructure-defense-program/)
+### 87. [CrowdStrike and Anthropic Give Critical Infrastructure Defenders the AI Advantage](https://www.crowdstrike.com/en-us/blog/crowdstrike-anthropic-critical-infrastructure-defense-program/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 08, 2026 00:00:00-0500  
@@ -801,7 +809,7 @@
 
 ---
 
-### 87. [Solving the Continuous Authorization Conundrum](https://www.crowdstrike.com/en-us/blog/solving-the-continuous-authorization-conundrum/)
+### 88. [Solving the Continuous Authorization Conundrum](https://www.crowdstrike.com/en-us/blog/solving-the-continuous-authorization-conundrum/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 08, 2026 00:00:00-0500  
@@ -810,7 +818,7 @@
 
 ---
 
-### 88. [Unknown Threat Actor Uses AI-Driven ARTEX to Target South Korean Finance](https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/)
+### 89. [Unknown Threat Actor Uses AI-Driven ARTEX to Target South Korean Finance](https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 07, 2026 00:00:00-0500  
@@ -819,19 +827,10 @@
 
 ---
 
-### 89. [CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Modern Endpoint Security for Enterprises Vendor Assessment](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-modern-endpoint-security-for-enterprises/)
+### 90. [CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Modern Endpoint Security for Enterprises Vendor Assessment](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-modern-endpoint-security-for-enterprises/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 07, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 90. [Request, Aggregate, Bypass: How Attackers Can Evade LLM Safety Classifiers](https://www.crowdstrike.com/en-us/blog/how-attackers-can-bypass-llm-safety-classifiers/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Oct 06, 2026 00:00:00-0500  
 **Severity:** Low  
 **Categories:** General Security  
 
