@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-22 20:14:51 UTC
+**Last Updated:** 2026-10-23 04:12:27 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -63,8 +63,6 @@
 
 **Source:** The Hacker News  
 **Published:** Thu, 22 Oct 2026 19:08:22 +0530  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -95,7 +93,25 @@
 
 ---
 
-### 11. [LiteLLM release pipeline hacked to distribute info-stealer malware](https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/)
+### 11. [Railway warns devs to rotate secrets after potential breach](https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 22 Oct 2026 17:25:31 -0400  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 12. [Capcom confirms data breach affecting 11.7 million accounts](https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 22 Oct 2026 16:22:45 -0400  
+**Severity:** Low  
+**Categories:** Data Breach  
+
+---
+
+### 13. [LiteLLM release pipeline hacked to distribute info-stealer malware](https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 22 Oct 2026 15:12:51 -0400  
@@ -104,7 +120,7 @@
 
 ---
 
-### 12. [Arista patches new VeloCloud Orchestrator zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/)
+### 14. [Arista patches new VeloCloud Orchestrator zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 22 Oct 2026 13:18:22 -0400  
@@ -114,7 +130,7 @@
 
 ---
 
-### 13. [Microsoft shares how to fix broken Exchange Online EWS apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/)
+### 15. [Microsoft shares how to fix broken Exchange Online EWS apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 22 Oct 2026 11:49:32 -0400  
@@ -123,7 +139,7 @@
 
 ---
 
-### 14. [Machine speed attacks require machine speed detection and response](https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/)
+### 16. [Machine speed attacks require machine speed detection and response](https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 22 Oct 2026 10:02:12 -0400  
@@ -132,17 +148,17 @@
 
 ---
 
-### 15. [Amazon says PHP2Shell exploitation began 4 days before patches](https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/)
+### 17. [Amazon says PHP2Shell exploitation began 4 days before patches](https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 22 Oct 2026 09:09:12 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109618, CVE-2026-109619  
+**CVEs:** CVE-2026-109619, CVE-2026-109618  
 **Categories:** Data Breach, Vulnerability  
 
 ---
 
-### 16. [GitLab warns of new max severity code execution vulnerability](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/)
+### 18. [GitLab warns of new max severity code execution vulnerability](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 22 Oct 2026 07:41:48 -0400  
@@ -152,7 +168,7 @@
 
 ---
 
-### 17. [Authorities disrupt nearly 11,000 cybercrime networks in Africa](https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/)
+### 19. [Authorities disrupt nearly 11,000 cybercrime networks in Africa](https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 22 Oct 2026 04:27:11 -0400  
@@ -161,30 +177,12 @@
 
 ---
 
-### 18. [Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks](https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/)
+### 20. [Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks](https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 21 Oct 2026 18:16:26 -0400  
 **Severity:** High  
 **Categories:** Phishing  
-
----
-
-### 19. [Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected](https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 21 Oct 2026 17:43:27 -0400  
-**Severity:** Low  
-**Categories:** Data Breach, Malware  
-
----
-
-### 20. [Lazarus hackers use post-quantum cryptography for malware delivery](https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 21 Oct 2026 16:31:48 -0400  
-**Severity:** Low  
-**Categories:** Malware, Phishing, APT  
 
 ---
 
@@ -220,7 +218,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 13 Oct 2026 23:24:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-96951, CVE-2026-108398  
+**CVEs:** CVE-2026-108398, CVE-2026-96951  
 **Categories:** Vulnerability  
 
 ---
@@ -276,7 +274,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69829, CVE-2026-81963, CVE-2026-85880, CVE-2026-69730  
+**CVEs:** CVE-2026-85880, CVE-2026-69730, CVE-2026-81963, CVE-2026-69829  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -314,7 +312,7 @@
 **Source:** Security Week  
 **Published:** Thu, 22 Oct 2026 12:20:23 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109618, CVE-2026-109619  
+**CVEs:** CVE-2026-109619, CVE-2026-109618  
 **Categories:** Ransomware, Vulnerability, Malware  
 
 ---
@@ -324,7 +322,7 @@
 **Source:** Security Week  
 **Published:** Thu, 22 Oct 2026 10:45:24 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-76302, CVE-2026-28328, CVE-2026-76407, CVE-2026-76531, CVE-2026-76299  
+**CVEs:** CVE-2026-76531, CVE-2026-76407, CVE-2026-76299, CVE-2026-76302, CVE-2026-28328  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -334,7 +332,7 @@
 **Source:** Security Week  
 **Published:** Thu, 22 Oct 2026 10:05:21 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-76475, CVE-2026-76505, CVE-2026-76473, CVE-2026-76474, CVE-2026-20043, CVE-2026-76466, CVE-2026-76462, CVE-2026-20236  
+**CVEs:** CVE-2026-76462, CVE-2026-76505, CVE-2026-76473, CVE-2026-76466, CVE-2026-76474, CVE-2026-20236, CVE-2026-76475, CVE-2026-20043  
 **Categories:** Vulnerability  
 
 ---
@@ -344,7 +342,7 @@
 **Source:** Security Week  
 **Published:** Thu, 22 Oct 2026 09:48:58 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109618, CVE-2026-109619  
+**CVEs:** CVE-2026-109619, CVE-2026-109618  
 **Categories:** Data Breach, Vulnerability, Malware  
 
 ---
@@ -401,7 +399,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 21 Oct 2026 15:10:53 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109618, CVE-2026-109619  
+**CVEs:** CVE-2026-109619, CVE-2026-109618  
 **Categories:** Ransomware, Vulnerability  
 
 ---
@@ -430,7 +428,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 15 Oct 2026 18:00:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2014-125110, CVE-2015-1000013  
+**CVEs:** CVE-2015-1000013, CVE-2014-125110  
 **Categories:** Vulnerability  
 
 ---
@@ -449,7 +447,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 13 Oct 2026 20:37:58 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-96951, CVE-2026-70571, CVE-2026-70229  
+**CVEs:** CVE-2026-70229, CVE-2026-70571, CVE-2026-96951  
 **Categories:** Vulnerability  
 
 ---
@@ -472,7 +470,16 @@
 
 ---
 
-### 51. [PHP2Shell Exploitation: Two Critical PHP Flaws Explained](https://www.recordedfuture.com/blog/php2shell-vulnerability-exploitation)
+### 51. [Behind Japan’s Warnings of a Cyber Crisis](https://www.recordedfuture.com/blog/japan-cyber-crisis-warnings)
+
+**Source:** Recorded Future  
+**Published:** Thu, 22 Oct 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 52. [PHP2Shell Exploitation: Two Critical PHP Flaws Explained](https://www.recordedfuture.com/blog/php2shell-vulnerability-exploitation)
 
 **Source:** Recorded Future  
 **Published:** Wed, 21 Oct 2026 00:00:00 GMT  
@@ -481,7 +488,7 @@
 
 ---
 
-### 52. [TAG-217 Targets South Korean Financial Services with ARTEX](https://www.recordedfuture.com/blog/tag-217-artex-south-korean-banks)
+### 53. [TAG-217 Targets South Korean Financial Services with ARTEX](https://www.recordedfuture.com/blog/tag-217-artex-south-korean-banks)
 
 **Source:** Recorded Future  
 **Published:** Fri, 16 Oct 2026 00:00:00 GMT  
@@ -490,7 +497,7 @@
 
 ---
 
-### 53. [Working in Boston at the World’s Largest Intelligence Company](https://www.recordedfuture.com/blog/working-in-boston)
+### 54. [Working in Boston at the World’s Largest Intelligence Company](https://www.recordedfuture.com/blog/working-in-boston)
 
 **Source:** Recorded Future  
 **Published:** Thu, 15 Oct 2026 00:00:00 GMT  
@@ -499,7 +506,7 @@
 
 ---
 
-### 54. [Russia Is Tightening Internet Controls, Leading to Operational Risks](https://www.recordedfuture.com/research/russia-restrictive-info-environment)
+### 55. [Russia Is Tightening Internet Controls, Leading to Operational Risks](https://www.recordedfuture.com/research/russia-restrictive-info-environment)
 
 **Source:** Recorded Future  
 **Published:** Thu, 15 Oct 2026 00:00:00 GMT  
@@ -508,7 +515,7 @@
 
 ---
 
-### 55. [TAG-193’s Regional Espionage Operations](https://www.recordedfuture.com/blog/tag193-regional-espionage-operations)
+### 56. [TAG-193’s Regional Espionage Operations](https://www.recordedfuture.com/blog/tag193-regional-espionage-operations)
 
 **Source:** Recorded Future  
 **Published:** Wed, 14 Oct 2026 00:00:00 GMT  
@@ -517,7 +524,7 @@
 
 ---
 
-### 56. [September 2026 CVE Landscape](https://www.recordedfuture.com/blog/september-2026-cve-landscape)
+### 57. [September 2026 CVE Landscape](https://www.recordedfuture.com/blog/september-2026-cve-landscape)
 
 **Source:** Recorded Future  
 **Published:** Tue, 13 Oct 2026 00:00:00 GMT  
@@ -526,7 +533,7 @@
 
 ---
 
-### 57. [Malware Indicators of Compromise (IoCs) | Recorded Future](https://www.recordedfuture.com/blog/malware-indicators-of-compromise)
+### 58. [Malware Indicators of Compromise (IoCs) | Recorded Future](https://www.recordedfuture.com/blog/malware-indicators-of-compromise)
 
 **Source:** Recorded Future  
 **Published:** Tue, 13 Oct 2026 00:00:00 GMT  
@@ -535,7 +542,7 @@
 
 ---
 
-### 58. [Recorded Future Introduces AI Infrastructure Indicator Lists, Strengthening AI Governance](https://www.recordedfuture.com/blog/ai-infrastructure-indicator-lists)
+### 59. [Recorded Future Introduces AI Infrastructure Indicator Lists, Strengthening AI Governance](https://www.recordedfuture.com/blog/ai-infrastructure-indicator-lists)
 
 **Source:** Recorded Future  
 **Published:** Fri, 09 Oct 2026 00:00:00 GMT  
@@ -544,20 +551,11 @@
 
 ---
 
-### 59. [Japan Adopts Proactive Cyber Defense Strategy](https://www.recordedfuture.com/research/japan-cyber-defense-strategy)
+### 60. [Japan Adopts Proactive Cyber Defense Strategy](https://www.recordedfuture.com/research/japan-cyber-defense-strategy)
 
 **Source:** Recorded Future  
 **Published:** Thu, 08 Oct 2026 00:00:00 GMT  
 **Severity:** Critical  
-**Categories:** General Security  
-
----
-
-### 60. [Recorded Future Debuts Autonomous Defense, Built for Machine-Speed Threats](https://www.recordedfuture.com/blog/autonomous-defense-platform)
-
-**Source:** Recorded Future  
-**Published:** Wed, 30 Sep 2026 00:00:00 GMT  
-**Severity:** Low  
 **Categories:** General Security  
 
 ---
@@ -707,7 +705,7 @@
 **Source:** Malwarebytes  
 **Published:** Wed, 21 Oct 2026 16:14:18 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109618, CVE-2026-109619  
+**CVEs:** CVE-2026-109619, CVE-2026-109618  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -763,7 +761,7 @@
 **Source:** Crowdstrike Blog  
 **Published:** Oct 21, 2026 00:00:00-0500  
 **Severity:** Low  
-**CVEs:** CVE-2026-109618, CVE-2026-109619  
+**CVEs:** CVE-2026-109619, CVE-2026-109618  
 **Categories:** Vulnerability  
 
 ---

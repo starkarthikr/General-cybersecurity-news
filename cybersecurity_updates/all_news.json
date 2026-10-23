@@ -115,18 +115,7 @@
     "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
     "link": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
     "published": "Thu, 22 Oct 2026 19:08:22 +0530",
-    "summary": "INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds.\n\nIn tandem, the effort saw law enforcement agencies from 21 countries arrest 1,462 suspects. Codenamed Operation Serengeti III, the cybercrime crackdown took place between June 29 and August 31, 2026.\n\n\"Authorities identified",
-    "analysis": {
-      "issue": "INTERPOL's Operation Serengeti III disrupted 10,909 malicious networks, arrested 1,462 suspects, and recovered over $105 million",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
+    "summary": "INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds.\n\nIn tandem, the effort saw law enforcement agencies from 21 countries arrest 1,462 suspects. Codenamed Operation Serengeti III, the cybercrime crackdown took place between June 29 and August 31, 2026.\n\n\"Authorities identified"
   },
   {
     "source": "The Hacker News",
@@ -179,6 +168,42 @@
       "cves": [],
       "threat_categories": [
         "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Railway warns devs to rotate secrets after potential breach",
+    "link": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
+    "published": "Thu, 22 Oct 2026 17:25:31 -0400",
+    "summary": "Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...]",
+    "analysis": {
+      "issue": "Cloud hosting provider Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Capcom confirms data breach affecting 11.7 million accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
+    "published": "Thu, 22 Oct 2026 16:22:45 -0400",
+    "summary": "Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...]",
+    "analysis": {
+      "issue": "Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
       ]
     }
   },
@@ -269,8 +294,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109618",
-        "CVE-2026-109619"
+        "CVE-2026-109619",
+        "CVE-2026-109618"
       ],
       "threat_categories": [
         "Data Breach",
@@ -331,45 +356,6 @@
       "cves": [],
       "threat_categories": [
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
-    "link": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
-    "published": "Wed, 21 Oct 2026 17:43:27 -0400",
-    "summary": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers. [...]",
-    "analysis": {
-      "issue": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
-    "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
-    "published": "Wed, 21 Oct 2026 16:31:48 -0400",
-    "summary": "North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]",
-    "analysis": {
-      "issue": "North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing",
-        "APT"
       ]
     }
   },
@@ -442,8 +428,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-96951",
-        "CVE-2026-108398"
+        "CVE-2026-108398",
+        "CVE-2026-96951"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -559,10 +545,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69829",
-        "CVE-2026-81963",
         "CVE-2026-85880",
-        "CVE-2026-69730"
+        "CVE-2026-69730",
+        "CVE-2026-81963",
+        "CVE-2026-69829"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -640,8 +626,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109618",
-        "CVE-2026-109619"
+        "CVE-2026-109619",
+        "CVE-2026-109618"
       ],
       "threat_categories": [
         "Ransomware",
@@ -663,11 +649,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-76302",
-        "CVE-2026-28328",
-        "CVE-2026-76407",
         "CVE-2026-76531",
-        "CVE-2026-76299"
+        "CVE-2026-76407",
+        "CVE-2026-76299",
+        "CVE-2026-76302",
+        "CVE-2026-28328"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -688,14 +674,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-76475",
+        "CVE-2026-76462",
         "CVE-2026-76505",
         "CVE-2026-76473",
-        "CVE-2026-76474",
-        "CVE-2026-20043",
         "CVE-2026-76466",
-        "CVE-2026-76462",
-        "CVE-2026-20236"
+        "CVE-2026-76474",
+        "CVE-2026-20236",
+        "CVE-2026-76475",
+        "CVE-2026-20043"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -715,8 +701,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109618",
-        "CVE-2026-109619"
+        "CVE-2026-109619",
+        "CVE-2026-109618"
       ],
       "threat_categories": [
         "Data Breach",
@@ -835,8 +821,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109618",
-        "CVE-2026-109619"
+        "CVE-2026-109619",
+        "CVE-2026-109618"
       ],
       "threat_categories": [
         "Ransomware",
@@ -895,8 +881,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2014-125110",
-        "CVE-2015-1000013"
+        "CVE-2015-1000013",
+        "CVE-2014-125110"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -934,9 +920,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-96951",
+        "CVE-2026-70229",
         "CVE-2026-70571",
-        "CVE-2026-70229"
+        "CVE-2026-96951"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -979,6 +965,24 @@
         "Phishing",
         "APT",
         "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "Behind Japan’s Warnings of a Cyber Crisis",
+    "link": "https://www.recordedfuture.com/blog/japan-cyber-crisis-warnings",
+    "published": "Thu, 22 Oct 2026 00:00:00 GMT",
+    "summary": "Explore Japan's 2026 cyber crisis, rising breach trends, AI tooling, legacy systems, and key mitigation strategies to protect organizations.",
+    "analysis": {
+      "issue": "Explore Japan's 2026 cyber crisis, rising breach trends, AI tooling, legacy systems, and key mitigation strategies to protect organizations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1138,24 +1142,6 @@
       "cause": null,
       "timeline": null,
       "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Recorded Future Debuts Autonomous Defense, Built for Machine-Speed Threats",
-    "link": "https://www.recordedfuture.com/blog/autonomous-defense-platform",
-    "published": "Wed, 30 Sep 2026 00:00:00 GMT",
-    "summary": "Recorded Future just revealed autonomous defense capabilities. The platform hunts, investigates, and stops threats on its own, acting on real intelligence.",
-    "analysis": {
-      "issue": "Recorded Future just revealed autonomous defense capabilities",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
       "cves": [],
       "threat_categories": [
         "General Security"
@@ -1462,8 +1448,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109618",
-        "CVE-2026-109619"
+        "CVE-2026-109619",
+        "CVE-2026-109618"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1577,8 +1563,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-109618",
-        "CVE-2026-109619"
+        "CVE-2026-109619",
+        "CVE-2026-109618"
       ],
       "threat_categories": [
         "Vulnerability"
