@@ -1,6 +1,117 @@
 [
   {
     "source": "The Hacker News",
+    "title": "PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches",
+    "link": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
+    "published": "Fri, 23 Oct 2026 16:55:43 +0530",
+    "summary": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws.\n\nThe new issue, assigned CVE-2026-115560, affects only web applications configured in an unusual way, and PHP considers it an unlikely risk.The project is not issuing an emergency fix for it. Instead, it recommends turning off a feature called",
+    "analysis": {
+      "issue": "PHP warns CVE-2026-115560 may enable code execution in unusual session setups and advises disabling session upload progress pending a routine fix",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-115560"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
+    "link": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
+    "published": "Fri, 23 Oct 2026 16:41:23 +0530",
+    "summary": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year.\n\nAccording to ESET, the attack involved UAC-0099 (aka Earth Sirrush) obtaining initial access to the target on July 16, 2025, via a spear-phishing email bearing a malware-laced attachment that led to the deployment of",
+    "analysis": {
+      "issue": "Sandworm wiped a Ukrainian logistics firm in September 2025 after UAC-0099 gained access and deployed a new Yggdrasil-based backdoor",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
+    "link": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
+    "published": "Fri, 23 Oct 2026 15:06:00 +0530",
+    "summary": "Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open.\n\nThe flaw,&nbsp;CVE-2026-112900, is in the way Pillow handles EPS images, which it opens by passing the file's name to Ghostscript, a separate program it runs to turn the image into pixels, without checking the name first.",
+    "analysis": {
+      "issue": "0 fixes EPS, JPEG, and TIFF flaws, including command execution paths involving Ghostscript and crafted image files",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
+    "link": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
+    "published": "Fri, 23 Oct 2026 14:10:43 +0530",
+    "summary": "Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have&nbsp;demonstrated.\n\nTheir \"Node2Shell\" proof of concept ran code on the official Node.js 24.22.0 image for Linux arm64, with no debugger or custom build, by feeding crafted data to the bundled Brotli decoder (CVE-2026-111497). Node.js disclosed the flaw",
+    "analysis": {
+      "issue": "Imperva demonstrated code execution via crafted Brotli data on an official Node",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances",
+    "link": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
+    "published": "Fri, 23 Oct 2026 14:05:45 +0530",
+    "summary": "AI agents paying for API calls with the&nbsp;x402 SDKs&nbsp;could sign a payment for their full balance of a supported token if a malicious API asked for it,&nbsp;security firm V12 said&nbsp;on October 22.\n\nThe cause was the SDKs' default client, which set no spending limit until releases on August 18 added one. The risk was limited to agents who automatically signed payments and whose apps set",
+    "analysis": {
+      "issue": "Three patched x402 flaws could expose auto-signing agents to full-balance payments, let Solana transactions bypass payment, or relay wallet logins",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
+    "link": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
+    "published": "Fri, 23 Oct 2026 13:10:45 +0530",
+    "summary": "Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerges that weaponizing the flaws may be harder than previously thought.\n\nThe attacks aim to exploit CVE-2026-109618 and CVE-2026-109619 (CVSS scores: 9.2), which can result in unauthenticated remote",
+    "analysis": {
+      "issue": "PHP2Shell attacks remain unsuccessful as researchers demonstrate an ASLR bypass enabling RCE on production-configured PHP systems",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
     "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
     "published": "Fri, 23 Oct 2026 00:35:35 +0530",
@@ -75,110 +186,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes",
-    "link": "https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html",
-    "published": "Thu, 22 Oct 2026 22:31:53 +0530",
-    "summary": "Linux servers running KSMBD, the kernel's built-in SMB server, are exposed to two publicly reported remote code execution flaws rated 9.0 by&nbsp;Trend Micro's Zero Day Initiative, with no fix yet in the mainline kernel.\n\nOne of them, ZDI-CAN-33774, can be triggered before any network authentication. The other, ZDI-CAN-33549, requires the SMB Direct transport and an RDMA-capable network",
+    "source": "Bleeping Computer",
+    "title": "HPE patches eight max severity RCE and auth bypass AOS flaws",
+    "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
+    "published": "Fri, 23 Oct 2026 08:48:00 -0400",
+    "summary": "Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximum-severity authentication bypass and code execution issues. [...]",
     "analysis": {
-      "issue": "0 flaws in Linux KSMBD could enable remote code execution; one needs no authentication, and neither has a mainline fix",
+      "issue": "Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximum-severity authentication bypass and code execution issues",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
-    "link": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
-    "published": "Thu, 22 Oct 2026 21:42:31 +0530",
-    "summary": "Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang from the company's Cambridge Analytica data scandal, which came to light in 2018.\n\nAccording to multiple reports from the Associated Press, the New York Times, Reuters, and the Wall Street Journal, state District Court Judge Francis J. Mathew called",
-    "analysis": {
-      "issue": "A New Mexico court ordered Meta to pay $25 billion over 43 million privacy-related violations linked to the Cambridge Analytica scandal",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
-    "link": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
-    "published": "Thu, 22 Oct 2026 19:08:22 +0530",
-    "summary": "INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds.\n\nIn tandem, the effort saw law enforcement agencies from 21 countries arrest 1,462 suspects. Codenamed Operation Serengeti III, the cybercrime crackdown took place between June 29 and August 31, 2026.\n\n\"Authorities identified",
-    "analysis": {
-      "issue": "INTERPOL's Operation Serengeti III disrupted 10,909 malicious networks, arrested 1,462 suspects, and recovered over $105 million",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
-    "link": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
-    "published": "Thu, 22 Oct 2026 16:45:42 +0530",
-    "summary": "Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed \"anomalous activity\" related to systems that store customer environment variables.\n\nUpon further investigation, the company found that an unauthorized third party may have gained access to encrypted environment variables, and, in some cases, obtained the decrypted contents. The impact, it said, is limited to a \"subset of users,",
-    "analysis": {
-      "issue": "Railway says an intruder may have accessed decrypted environment variables for some users, as a researcher reports related cryptocurrency theft",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
-    "link": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
-    "published": "Thu, 22 Oct 2026 16:14:05 +0530",
-    "summary": "A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Context Protocol) servers to add outside tools, and such code would run with the developer's own access.\n\nAnomaly, the company behind OpenCode, fixed the flaw in&nbsp;version 1.18.33&nbsp;on September",
-    "analysis": {
-      "issue": "A patched OpenCode flaw could let malicious MCP servers execute code on Windows and WSL when developers initiated OAuth sign-in",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
-    "link": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
-    "published": "Thu, 22 Oct 2026 13:58:48 +0530",
-    "summary": "LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package containing a credential stealer and a backdoor.\n\nOn October 21, 2026, LiteLLM's release pipeline was compromised to push 1.107.0 to the Docker Hub registry and the Python Package Index (PyPI) repository. The incident took place around 4:00 a.m.",
-    "analysis": {
-      "issue": "Attackers compromised LiteLLM's release pipeline to ship a credential stealer and backdoor, then tested stolen AWS credentials",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
+        "Vulnerability"
       ]
     }
   },
@@ -305,8 +326,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109618",
-        "CVE-2026-109619"
+        "CVE-2026-109619",
+        "CVE-2026-109618"
       ],
       "threat_categories": [
         "Data Breach",
@@ -349,24 +370,6 @@
       "cves": [],
       "threat_categories": [
         "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
-    "link": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
-    "published": "Wed, 21 Oct 2026 18:16:26 -0400",
-    "summary": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]",
-    "analysis": {
-      "issue": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
       ]
     }
   },
@@ -439,8 +442,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-96951",
-        "CVE-2026-108398"
+        "CVE-2026-108398",
+        "CVE-2026-96951"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -556,14 +559,185 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69730",
-        "CVE-2026-85880",
         "CVE-2026-81963",
-        "CVE-2026-69829"
+        "CVE-2026-69829",
+        "CVE-2026-69730",
+        "CVE-2026-85880"
       ],
       "threat_categories": [
         "Vulnerability",
         "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Mirai Botnet Operators Join PHP2Shell Attacks as ASLR Bypass Exploits Emerge",
+    "link": "https://www.securityweek.com/mirai-botnet-operators-join-php2shell-attacks-as-aslr-bypass-exploits-emerge/",
+    "published": "Fri, 23 Oct 2026 12:45:52 +0000",
+    "summary": "<p>Researchers tie PHP2Shell attempts to a Mirai botnet and show an ASLR bypass, but no successful compromise has been confirmed yet.</p>\n<p>The post <a href=\"https://www.securityweek.com/mirai-botnet-operators-join-php2shell-attacks-as-aslr-bypass-exploits-emerge/\">Mirai Botnet Operators Join PHP2Shell Attacks as ASLR Bypass Exploits Emerge</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Researchers tie PHP2Shell attempts to a Mirai botnet and show an ASLR bypass, but no successful compromise has been confirmed yet",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-109619",
+        "CVE-2026-109618"
+      ],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability",
+        "Malware",
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "China APT Uses AI Pentest Tool Artex in ConnectWise Attacks",
+    "link": "https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/",
+    "published": "Fri, 23 Oct 2026 10:31:16 +0000",
+    "summary": "<p>The state-sponsored hackers targeted hundreds of organizations and gained privileged access to some environments.</p>\n<p>The post <a href=\"https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/\">China APT Uses AI Pentest Tool Artex in ConnectWise Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The state-sponsored hackers targeted hundreds of organizations and gained privileged access to some environments",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "APT",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Attackers Exploit Third VeloCloud Orchestrator Zero-Day in Four Months",
+    "link": "https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/",
+    "published": "Fri, 23 Oct 2026 09:58:34 +0000",
+    "summary": "<p>The critical-severity SQL injection flaw allows attackers to access privileged internal functionality and gain operator privileges.</p>\n<p>The post <a href=\"https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/\">Attackers Exploit Third VeloCloud Orchestrator Zero-Day in Four Months</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The critical-severity SQL injection flaw allows attackers to access privileged internal functionality and gain operator privileges",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-114625",
+        "CVE-2026-93952",
+        "CVE-2026-16812"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "11 Million Impacted by Capcom Data Breach",
+    "link": "https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/",
+    "published": "Fri, 23 Oct 2026 08:34:14 +0000",
+    "summary": "<p>The hackers stole 11 million email addresses from CAPCOM ID and changed the login passwords for 196 accounts.</p>\n<p>The post <a href=\"https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/\">11 Million Impacted by Capcom Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The hackers stole 11 million email addresses from CAPCOM ID and changed the login passwords for 196 accounts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Quest Diagnostics Reports Cyber Breach Affecting ‘Certain Patient Records’",
+    "link": "https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/",
+    "published": "Fri, 23 Oct 2026 08:25:06 +0000",
+    "summary": "<p>In a regulatory filing, Quest Diagnostics reported unauthorized access to its Quanum Lab Services Manager, a platform where certain clients can place test orders.</p>\n<p>The post <a href=\"https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/\">Quest Diagnostics Reports Cyber Breach Affecting &#8216;Certain Patient Records&#8217;</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "In a regulatory filing, Quest Diagnostics reported unauthorized access to its Quanum Lab Services Manager, a platform where certain clients can place test orders",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "LiteLLM Compromised in Fresh Supply Chain Attack",
+    "link": "https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/",
+    "published": "Fri, 23 Oct 2026 08:10:46 +0000",
+    "summary": "<p>Hackers used compromised GitHub CLI OAuth tokens to push and approve malicious packages on PyPI and Docker.</p>\n<p>The post <a href=\"https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/\">LiteLLM Compromised in Fresh Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Hackers used compromised GitHub CLI OAuth tokens to push and approve malicious packages on PyPI and Docker",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Atlassian Patches 75 Flaws in Data Center and Server Products",
+    "link": "https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/",
+    "published": "Fri, 23 Oct 2026 07:54:47 +0000",
+    "summary": "<p>Atlassian’s October bulletin lists 176 vulnerability entries, including 14 critical-severity issues, all in third-party components.</p>\n<p>The post <a href=\"https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/\">Atlassian Patches 75 Flaws in Data Center and Server Products</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Atlassian’s October bulletin lists 176 vulnerability entries, including 14 critical-severity issues, all in third-party components",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-75595",
+        "CVE-2026-65637",
+        "CVE-2026-58062",
+        "CVE-2026-21589",
+        "CVE-2026-77185",
+        "CVE-2026-65182",
+        "CVE-2026-68525",
+        "CVE-2026-65905"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Iran’s Prince of Persia APT Hosts C&C in US for First Time Since 2016",
+    "link": "https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/",
+    "published": "Fri, 23 Oct 2026 06:39:29 +0000",
+    "summary": "<p>After a three-month lull, Prince of Persia hid a Tornado C&#038;C server on US shared hosting, its first US-based server since 2016.</p>\n<p>The post <a href=\"https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/\">Iran&#8217;s Prince of Persia APT Hosts C&#038;C in US for First Time Since 2016</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "After a three-month lull, Prince of Persia hid a Tornado C&C server on US shared hosting, its first US-based server since 2016",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "APT"
       ]
     }
   },
@@ -600,184 +774,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Signal Vulnerability Lets Malicious Callers Block Hang-Ups",
-    "link": "https://www.securityweek.com/signal-vulnerability-lets-malicious-callers-block-hang-ups/",
-    "published": "Thu, 22 Oct 2026 12:34:31 +0000",
-    "summary": "<p>Affecting the open source calling library RingRTC, the bug prevented calls from ending properly.</p>\n<p>The post <a href=\"https://www.securityweek.com/signal-vulnerability-lets-malicious-callers-block-hang-ups/\">Signal Vulnerability Lets Malicious Callers Block Hang-Ups</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Affecting the open source calling library RingRTC, the bug prevented calls from ending properly",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-113380"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Tech and Security Companies Respond to PHP2Shell Vulnerabilities",
-    "link": "https://www.securityweek.com/tech-and-security-companies-respond-to-php2shell-vulnerabilities/",
-    "published": "Thu, 22 Oct 2026 12:20:23 +0000",
-    "summary": "<p>Vendors are checking their products for PHP2Shell, security firms are shipping detections, and governments are urging immediate patching.</p>\n<p>The post <a href=\"https://www.securityweek.com/tech-and-security-companies-respond-to-php2shell-vulnerabilities/\">Tech and Security Companies Respond to PHP2Shell Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Vendors are checking their products for PHP2Shell, security firms are shipping detections, and governments are urging immediate patching",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-109618",
-        "CVE-2026-109619"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Splunk, SolarWinds Release Fresh Security Updates",
-    "link": "https://www.securityweek.com/splunk-solarwinds-release-fresh-security-updates/",
-    "published": "Thu, 22 Oct 2026 10:45:24 +0000",
-    "summary": "<p>Patched vulnerabilities could allow attackers to execute code, elevate privileges, and leak sensitive information.</p>\n<p>The post <a href=\"https://www.securityweek.com/splunk-solarwinds-release-fresh-security-updates/\">Splunk, SolarWinds Release Fresh Security Updates</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Patched vulnerabilities could allow attackers to execute code, elevate privileges, and leak sensitive information",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-76531",
-        "CVE-2026-76299",
-        "CVE-2026-28328",
-        "CVE-2026-76302",
-        "CVE-2026-76407"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Cisco Patches 34 Vulnerabilities Across Multiple Products",
-    "link": "https://www.securityweek.com/cisco-patches-34-vulnerabilities-across-multiple-products/",
-    "published": "Thu, 22 Oct 2026 10:05:21 +0000",
-    "summary": "<p>Critical-severity security defects could lead to command execution, authentication bypass, and XSS attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-patches-34-vulnerabilities-across-multiple-products/\">Cisco Patches 34 Vulnerabilities Across Multiple Products</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Critical-severity security defects could lead to command execution, authentication bypass, and XSS attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-20236",
-        "CVE-2026-76475",
-        "CVE-2026-76462",
-        "CVE-2026-76474",
-        "CVE-2026-76473",
-        "CVE-2026-76466",
-        "CVE-2026-20043",
-        "CVE-2026-76505"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "PHP2Shell Exploitation Started Days Before Patches",
-    "link": "https://www.securityweek.com/php2shell-exploitation-started-days-before-patches/",
-    "published": "Thu, 22 Oct 2026 09:48:58 +0000",
-    "summary": "<p>Initial attempts were observed on October 17, and mass activity began shortly after patches were released.</p>\n<p>The post <a href=\"https://www.securityweek.com/php2shell-exploitation-started-days-before-patches/\">PHP2Shell Exploitation Started Days Before Patches</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Initial attempts were observed on October 17, and mass activity began shortly after patches were released",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-109618",
-        "CVE-2026-109619"
-      ],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU",
-    "link": "https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/",
-    "published": "Thu, 22 Oct 2026 07:38:14 +0000",
-    "summary": "<p>Nearly 100 vulnerabilities have been assigned a critical severity rating and Fusion Middleware received the most patches.</p>\n<p>The post <a href=\"https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/\">Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Nearly 100 vulnerabilities have been assigned a critical severity rating and Fusion Middleware received the most patches",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-91403"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Meta Ordered to Pay New Mexico $25 Billion for Deceiving Users About Privacy on Facebook",
-    "link": "https://www.securityweek.com/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook/",
-    "published": "Thu, 22 Oct 2026 07:26:54 +0000",
-    "summary": "<p>The $25 billion award far exceeds a $5 billion fine the Federal Trade Commission levied against Facebook in 2019.</p>\n<p>The post <a href=\"https://www.securityweek.com/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook/\">Meta Ordered to Pay New Mexico $25 Billion for Deceiving Users About Privacy on Facebook</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The $25 billion award far exceeds a $5 billion fine the Federal Trade Commission levied against Facebook in 2019",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections",
-    "link": "https://www.securityweek.com/google-hardens-chrome-against-clickfix-attacks-insecure-http-connections/",
-    "published": "Wed, 21 Oct 2026 17:00:00 +0000",
-    "summary": "<p>Protections have been added against scams and social engineering, including new site warnings and server-side Gemini analysis.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-hardens-chrome-against-clickfix-attacks-insecure-http-connections/\">Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Protections have been added against scams and social engineering, including new site warnings and server-side Gemini analysis",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Phishing"
       ]
     }
   },
@@ -832,8 +828,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109618",
-        "CVE-2026-109619"
+        "CVE-2026-109619",
+        "CVE-2026-109618"
       ],
       "threat_categories": [
         "Ransomware",
@@ -892,8 +888,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2015-1000013",
-        "CVE-2014-125110"
+        "CVE-2014-125110",
+        "CVE-2015-1000013"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -931,9 +927,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-96951",
         "CVE-2026-70229",
-        "CVE-2026-70571"
+        "CVE-2026-70571",
+        "CVE-2026-96951"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1326,8 +1322,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1352,6 +1348,42 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Resident Evil maker Capcom warns of phishing after 11.7 million records exposed",
+    "link": "https://www.malwarebytes.com/blog/data-breaches/2026/10/resident-evil-maker-capcom-warns-of-phishing-after-11-7-million-records-exposed",
+    "published": "Fri, 23 Oct 2026 13:07:52 GMT",
+    "summary": "Exposed email addresses could put CAPCOM ID users at risk of phishing. Passwords were also changed without permission on 196 accounts.",
+    "analysis": {
+      "issue": "Gamers are being warned to watch their inboxes after someone gained unauthorized access to Capcom’s online membership service",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Crime Stoppers chapter freezes tips after breach breaks anonymity promise",
+    "link": "https://www.malwarebytes.com/blog/data-breaches/2026/10/crime-stoppers-chapter-freezes-tips-after-breach-breaks-anonymity-promise",
+    "published": "Fri, 23 Oct 2026 09:57:48 GMT",
+    "summary": "A Crime Stoppers chapter has stopped accepting tips after a breach exposed information about anonymous tipsters.",
+    "analysis": {
+      "issue": "A breach exposed personal information in supposedly anonymous crime reports",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
       ]
     }
   },
@@ -1459,8 +1491,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109618",
-        "CVE-2026-109619"
+        "CVE-2026-109619",
+        "CVE-2026-109618"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1508,42 +1540,6 @@
     }
   },
   {
-    "source": "Malwarebytes",
-    "title": "Google may add your number to all your accounts: How to stop it",
-    "link": "https://www.malwarebytes.com/blog/mobile/2026/10/google-may-add-your-number-to-all-your-accounts-how-to-stop-it",
-    "published": "Tue, 20 Oct 2026 12:45:23 GMT",
-    "summary": "Android users are reporting that Google automatically added their phone number to accounts they wanted to keep separate. Here’s how to check yours.",
-    "analysis": {
-      "issue": "As Android Central reports, users have received unexpected emails telling them their phone number has been verified for secondary Google accounts",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Meta glasses caught recording conversations without wake phrase",
-    "link": "https://www.malwarebytes.com/blog/news/2026/10/meta-says-it-fixed-smart-glasses-unprompted-eavesdropping",
-    "published": "Tue, 20 Oct 2026 10:06:58 GMT",
-    "summary": "Owners reported unexpected recordings of private conversations, but Meta hasn’t explained what went wrong or what happened to the audio.",
-    "analysis": {
-      "issue": "Meta says it has resolved an issue after some Ray-Ban Meta owners reported that their glasses recorded conversations without the “Hey Meta” wake phrase",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "APT"
-      ]
-    }
-  },
-  {
     "source": "Crowdstrike Blog",
     "title": "CrowdStrike Uncovers New Agentic AI Campaigns",
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-agentic-ai-campaigns/",
@@ -1574,8 +1570,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-109618",
-        "CVE-2026-109619"
+        "CVE-2026-109619",
+        "CVE-2026-109618"
       ],
       "threat_categories": [
         "Vulnerability"
