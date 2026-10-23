@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-23 13:42:51 UTC
+**Last Updated:** 2026-10-23 16:48:54 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches](https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html)
+### 1. [Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials](https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 23 Oct 2026 19:20:56 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches](https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 23 Oct 2026 16:55:43 +0530  
@@ -14,7 +23,7 @@
 
 ---
 
-### 2. [Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack](https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html)
+### 3. [Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack](https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 23 Oct 2026 16:41:23 +0530  
@@ -23,7 +32,7 @@
 
 ---
 
-### 3. [Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image](https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html)
+### 4. [Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image](https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 23 Oct 2026 15:06:00 +0530  
@@ -32,7 +41,7 @@
 
 ---
 
-### 4. [Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data](https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html)
+### 5. [Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data](https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 23 Oct 2026 14:10:43 +0530  
@@ -41,7 +50,7 @@
 
 ---
 
-### 5. [Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances](https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html)
+### 6. [Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances](https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 23 Oct 2026 14:05:45 +0530  
@@ -50,7 +59,7 @@
 
 ---
 
-### 6. [PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware](https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html)
+### 7. [PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware](https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 23 Oct 2026 13:10:45 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat](https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html)
+### 8. [The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat](https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 23 Oct 2026 00:35:35 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks](https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html)
+### 9. [Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks](https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 23 Oct 2026 00:35:17 +0530  
@@ -78,7 +87,7 @@
 
 ---
 
-### 9. [eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable](https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html)
+### 10. [eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable](https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 22 Oct 2026 23:42:43 +0530  
@@ -87,16 +96,35 @@
 
 ---
 
-### 10. [ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More](https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html)
+### 11. [Quest Diagnostics confirms data breach exposed patient records](https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 22 Oct 2026 23:15:44 +0530  
-**Severity:** Critical  
-**Categories:** Data Breach, Phishing  
+**Source:** Bleeping Computer  
+**Published:** Fri, 23 Oct 2026 12:40:07 -0400  
+**Severity:** High  
+**Categories:** Data Breach  
 
 ---
 
-### 11. [HPE patches eight max severity RCE and auth bypass AOS flaws](https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/)
+### 12. [PHP shares mitigation for new RCE vulnerability with no patch](https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 23 Oct 2026 11:38:05 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-109618, CVE-2026-115560, CVE-2026-109619  
+**Categories:** Vulnerability  
+
+---
+
+### 13. [You gave your AI agent access, but who is giving it orders?](https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 23 Oct 2026 10:00:10 -0400  
+**Severity:** Low  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 14. [HPE patches eight max severity RCE and auth bypass AOS flaws](https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 23 Oct 2026 08:48:00 -0400  
@@ -105,7 +133,7 @@
 
 ---
 
-### 12. [Railway warns devs to rotate secrets after potential breach](https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/)
+### 15. [Railway warns devs to rotate secrets after potential breach](https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 22 Oct 2026 17:25:31 -0400  
@@ -114,7 +142,7 @@
 
 ---
 
-### 13. [Capcom confirms data breach affecting 11.7 million accounts](https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/)
+### 16. [Capcom confirms data breach affecting 11.7 million accounts](https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 22 Oct 2026 16:22:45 -0400  
@@ -123,7 +151,7 @@
 
 ---
 
-### 14. [LiteLLM release pipeline hacked to distribute info-stealer malware](https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/)
+### 17. [LiteLLM release pipeline hacked to distribute info-stealer malware](https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 22 Oct 2026 15:12:51 -0400  
@@ -132,7 +160,7 @@
 
 ---
 
-### 15. [Arista patches new VeloCloud Orchestrator zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/)
+### 18. [Arista patches new VeloCloud Orchestrator zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 22 Oct 2026 13:18:22 -0400  
@@ -142,7 +170,7 @@
 
 ---
 
-### 16. [Microsoft shares how to fix broken Exchange Online EWS apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/)
+### 19. [Microsoft shares how to fix broken Exchange Online EWS apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 22 Oct 2026 11:49:32 -0400  
@@ -151,41 +179,12 @@
 
 ---
 
-### 17. [Machine speed attacks require machine speed detection and response](https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/)
+### 20. [Machine speed attacks require machine speed detection and response](https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 22 Oct 2026 10:02:12 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 18. [Amazon says PHP2Shell exploitation began 4 days before patches](https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 22 Oct 2026 09:09:12 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-109619, CVE-2026-109618  
-**Categories:** Data Breach, Vulnerability  
-
----
-
-### 19. [GitLab warns of new max severity code execution vulnerability](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 22 Oct 2026 07:41:48 -0400  
-**Severity:** Low  
-**CVEs:** CVE-2026-110264  
-**Categories:** Vulnerability  
-
----
-
-### 20. [Authorities disrupt nearly 11,000 cybercrime networks in Africa](https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 22 Oct 2026 04:27:11 -0400  
-**Severity:** High  
-**Categories:** Ransomware  
 
 ---
 
@@ -221,7 +220,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 13 Oct 2026 23:24:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-108398, CVE-2026-96951  
+**CVEs:** CVE-2026-96951, CVE-2026-108398  
 **Categories:** Vulnerability  
 
 ---
@@ -277,22 +276,31 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81963, CVE-2026-69829, CVE-2026-69730, CVE-2026-85880  
+**CVEs:** CVE-2026-81963, CVE-2026-85880, CVE-2026-69730, CVE-2026-69829  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 31. [Mirai Botnet Operators Join PHP2Shell Attacks as ASLR Bypass Exploits Emerge](https://www.securityweek.com/mirai-botnet-operators-join-php2shell-attacks-as-aslr-bypass-exploits-emerge/)
+### 31. [In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware](https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/)
+
+**Source:** Security Week  
+**Published:** Fri, 23 Oct 2026 14:23:37 +0000  
+**Severity:** High  
+**Categories:** Ransomware, Data Breach, Vulnerability, Malware, APT, Supply Chain  
+
+---
+
+### 32. [Mirai Botnet Operators Join PHP2Shell Attacks as ASLR Bypass Exploits Emerge](https://www.securityweek.com/mirai-botnet-operators-join-php2shell-attacks-as-aslr-bypass-exploits-emerge/)
 
 **Source:** Security Week  
 **Published:** Fri, 23 Oct 2026 12:45:52 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109619, CVE-2026-109618  
+**CVEs:** CVE-2026-109618, CVE-2026-109619  
 **Categories:** Data Breach, Vulnerability, Malware, DDoS  
 
 ---
 
-### 32. [China APT Uses AI Pentest Tool Artex in ConnectWise Attacks](https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/)
+### 33. [China APT Uses AI Pentest Tool Artex in ConnectWise Attacks](https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/)
 
 **Source:** Security Week  
 **Published:** Fri, 23 Oct 2026 10:31:16 +0000  
@@ -301,17 +309,17 @@
 
 ---
 
-### 33. [Attackers Exploit Third VeloCloud Orchestrator Zero-Day in Four Months](https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/)
+### 34. [Attackers Exploit Third Arista VCO Zero-Day in Four Months](https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/)
 
 **Source:** Security Week  
 **Published:** Fri, 23 Oct 2026 09:58:34 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-114625, CVE-2026-93952, CVE-2026-16812  
+**CVEs:** CVE-2026-93952, CVE-2026-16812, CVE-2026-114625  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 34. [11 Million Impacted by Capcom Data Breach](https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/)
+### 35. [11 Million Impacted by Capcom Data Breach](https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/)
 
 **Source:** Security Week  
 **Published:** Fri, 23 Oct 2026 08:34:14 +0000  
@@ -320,7 +328,7 @@
 
 ---
 
-### 35. [Quest Diagnostics Reports Cyber Breach Affecting ‘Certain Patient Records’](https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/)
+### 36. [Quest Diagnostics Data Breach Exposed ‘Certain Patient Records’](https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/)
 
 **Source:** Security Week  
 **Published:** Fri, 23 Oct 2026 08:25:06 +0000  
@@ -329,7 +337,7 @@
 
 ---
 
-### 36. [LiteLLM Compromised in Fresh Supply Chain Attack](https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/)
+### 37. [LiteLLM Compromised in Fresh Supply Chain Attack](https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/)
 
 **Source:** Security Week  
 **Published:** Fri, 23 Oct 2026 08:10:46 +0000  
@@ -338,17 +346,17 @@
 
 ---
 
-### 37. [Atlassian Patches 75 Flaws in Data Center and Server Products](https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/)
+### 38. [Atlassian Patches 75 Flaws in Data Center and Server Products](https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/)
 
 **Source:** Security Week  
 **Published:** Fri, 23 Oct 2026 07:54:47 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-75595, CVE-2026-65637, CVE-2026-58062, CVE-2026-21589, CVE-2026-77185, CVE-2026-65182, CVE-2026-68525, CVE-2026-65905  
+**CVEs:** CVE-2026-77185, CVE-2026-75595, CVE-2026-21589, CVE-2026-65637, CVE-2026-58062, CVE-2026-65182, CVE-2026-65905, CVE-2026-68525  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
 
-### 38. [Iran’s Prince of Persia APT Hosts C&C in US for First Time Since 2016](https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/)
+### 39. [Iran’s Prince of Persia APT Hosts C&C in US for First Time Since 2016](https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/)
 
 **Source:** Security Week  
 **Published:** Fri, 23 Oct 2026 06:39:29 +0000  
@@ -357,21 +365,12 @@
 
 ---
 
-### 39. [Hacker Conversations: Corey Thuen and the Evil Bit](https://www.securityweek.com/hacker-conversations-corey-thuen-and-the-evil-bit/)
+### 40. [Hacker Conversations: Corey Thuen and the Evil Bit](https://www.securityweek.com/hacker-conversations-corey-thuen-and-the-evil-bit/)
 
 **Source:** Security Week  
 **Published:** Thu, 22 Oct 2026 14:31:34 +0000  
 **Severity:** Critical  
 **Categories:** Vulnerability  
-
----
-
-### 40. [Indurex Raises $8 Million to Expand Industrial Cybersecurity Platform](https://www.securityweek.com/indurex-raises-8-million-to-expand-industrial-cybersecurity-platform/)
-
-**Source:** Security Week  
-**Published:** Thu, 22 Oct 2026 13:00:00 +0000  
-**Severity:** Critical  
-**Categories:** General Security  
 
 ---
 
@@ -399,7 +398,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 21 Oct 2026 15:10:53 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109619, CVE-2026-109618  
+**CVEs:** CVE-2026-109618, CVE-2026-109619  
 **Categories:** Ransomware, Vulnerability  
 
 ---
@@ -447,7 +446,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 13 Oct 2026 20:37:58 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-70229, CVE-2026-70571, CVE-2026-96951  
+**CVEs:** CVE-2026-70571, CVE-2026-96951, CVE-2026-70229  
 **Categories:** Vulnerability  
 
 ---
@@ -640,7 +639,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -723,7 +722,7 @@
 **Source:** Malwarebytes  
 **Published:** Wed, 21 Oct 2026 16:14:18 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109619, CVE-2026-109618  
+**CVEs:** CVE-2026-109618, CVE-2026-109619  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -761,7 +760,7 @@
 **Source:** Crowdstrike Blog  
 **Published:** Oct 21, 2026 00:00:00-0500  
 **Severity:** Low  
-**CVEs:** CVE-2026-109619, CVE-2026-109618  
+**CVEs:** CVE-2026-109618, CVE-2026-109619  
 **Categories:** Vulnerability  
 
 ---
