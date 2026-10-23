@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-23 04:12:27 UTC
+**Last Updated:** 2026-10-23 05:11:41 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -63,6 +63,8 @@
 
 **Source:** The Hacker News  
 **Published:** Thu, 22 Oct 2026 19:08:22 +0530  
+**Severity:** Low  
+**Categories:** General Security  
 
 ---
 
@@ -153,7 +155,7 @@
 **Source:** Bleeping Computer  
 **Published:** Thu, 22 Oct 2026 09:09:12 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109619, CVE-2026-109618  
+**CVEs:** CVE-2026-109618, CVE-2026-109619  
 **Categories:** Data Breach, Vulnerability  
 
 ---
@@ -218,7 +220,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 13 Oct 2026 23:24:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-108398, CVE-2026-96951  
+**CVEs:** CVE-2026-96951, CVE-2026-108398  
 **Categories:** Vulnerability  
 
 ---
@@ -274,7 +276,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-85880, CVE-2026-69730, CVE-2026-81963, CVE-2026-69829  
+**CVEs:** CVE-2026-69730, CVE-2026-85880, CVE-2026-81963, CVE-2026-69829  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -312,7 +314,7 @@
 **Source:** Security Week  
 **Published:** Thu, 22 Oct 2026 12:20:23 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109619, CVE-2026-109618  
+**CVEs:** CVE-2026-109618, CVE-2026-109619  
 **Categories:** Ransomware, Vulnerability, Malware  
 
 ---
@@ -322,7 +324,7 @@
 **Source:** Security Week  
 **Published:** Thu, 22 Oct 2026 10:45:24 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-76531, CVE-2026-76407, CVE-2026-76299, CVE-2026-76302, CVE-2026-28328  
+**CVEs:** CVE-2026-76531, CVE-2026-76299, CVE-2026-28328, CVE-2026-76302, CVE-2026-76407  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -332,7 +334,7 @@
 **Source:** Security Week  
 **Published:** Thu, 22 Oct 2026 10:05:21 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-76462, CVE-2026-76505, CVE-2026-76473, CVE-2026-76466, CVE-2026-76474, CVE-2026-20236, CVE-2026-76475, CVE-2026-20043  
+**CVEs:** CVE-2026-20236, CVE-2026-76475, CVE-2026-76462, CVE-2026-76474, CVE-2026-76473, CVE-2026-76466, CVE-2026-20043, CVE-2026-76505  
 **Categories:** Vulnerability  
 
 ---
@@ -342,7 +344,7 @@
 **Source:** Security Week  
 **Published:** Thu, 22 Oct 2026 09:48:58 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109619, CVE-2026-109618  
+**CVEs:** CVE-2026-109618, CVE-2026-109619  
 **Categories:** Data Breach, Vulnerability, Malware  
 
 ---
@@ -399,7 +401,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 21 Oct 2026 15:10:53 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109619, CVE-2026-109618  
+**CVEs:** CVE-2026-109618, CVE-2026-109619  
 **Categories:** Ransomware, Vulnerability  
 
 ---
@@ -447,7 +449,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 13 Oct 2026 20:37:58 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-70229, CVE-2026-70571, CVE-2026-96951  
+**CVEs:** CVE-2026-96951, CVE-2026-70229, CVE-2026-70571  
 **Categories:** Vulnerability  
 
 ---
@@ -705,7 +707,7 @@
 **Source:** Malwarebytes  
 **Published:** Wed, 21 Oct 2026 16:14:18 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109619, CVE-2026-109618  
+**CVEs:** CVE-2026-109618, CVE-2026-109619  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -761,7 +763,7 @@
 **Source:** Crowdstrike Blog  
 **Published:** Oct 21, 2026 00:00:00-0500  
 **Severity:** Low  
-**CVEs:** CVE-2026-109619, CVE-2026-109618  
+**CVEs:** CVE-2026-109618, CVE-2026-109619  
 **Categories:** Vulnerability  
 
 ---

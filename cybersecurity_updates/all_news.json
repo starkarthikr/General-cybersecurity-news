@@ -115,7 +115,18 @@
     "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
     "link": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
     "published": "Thu, 22 Oct 2026 19:08:22 +0530",
-    "summary": "INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds.\n\nIn tandem, the effort saw law enforcement agencies from 21 countries arrest 1,462 suspects. Codenamed Operation Serengeti III, the cybercrime crackdown took place between June 29 and August 31, 2026.\n\n\"Authorities identified"
+    "summary": "INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds.\n\nIn tandem, the effort saw law enforcement agencies from 21 countries arrest 1,462 suspects. Codenamed Operation Serengeti III, the cybercrime crackdown took place between June 29 and August 31, 2026.\n\n\"Authorities identified",
+    "analysis": {
+      "issue": "INTERPOL's Operation Serengeti III disrupted 10,909 malicious networks, arrested 1,462 suspects, and recovered over $105 million",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
   },
   {
     "source": "The Hacker News",
@@ -294,8 +305,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109619",
-        "CVE-2026-109618"
+        "CVE-2026-109618",
+        "CVE-2026-109619"
       ],
       "threat_categories": [
         "Data Breach",
@@ -428,8 +439,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-108398",
-        "CVE-2026-96951"
+        "CVE-2026-96951",
+        "CVE-2026-108398"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -545,8 +556,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-85880",
         "CVE-2026-69730",
+        "CVE-2026-85880",
         "CVE-2026-81963",
         "CVE-2026-69829"
       ],
@@ -626,8 +637,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109619",
-        "CVE-2026-109618"
+        "CVE-2026-109618",
+        "CVE-2026-109619"
       ],
       "threat_categories": [
         "Ransomware",
@@ -650,10 +661,10 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-76531",
-        "CVE-2026-76407",
         "CVE-2026-76299",
+        "CVE-2026-28328",
         "CVE-2026-76302",
-        "CVE-2026-28328"
+        "CVE-2026-76407"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -674,14 +685,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-76462",
-        "CVE-2026-76505",
-        "CVE-2026-76473",
-        "CVE-2026-76466",
-        "CVE-2026-76474",
         "CVE-2026-20236",
         "CVE-2026-76475",
-        "CVE-2026-20043"
+        "CVE-2026-76462",
+        "CVE-2026-76474",
+        "CVE-2026-76473",
+        "CVE-2026-76466",
+        "CVE-2026-20043",
+        "CVE-2026-76505"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -701,8 +712,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109619",
-        "CVE-2026-109618"
+        "CVE-2026-109618",
+        "CVE-2026-109619"
       ],
       "threat_categories": [
         "Data Breach",
@@ -821,8 +832,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109619",
-        "CVE-2026-109618"
+        "CVE-2026-109618",
+        "CVE-2026-109619"
       ],
       "threat_categories": [
         "Ransomware",
@@ -920,9 +931,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-96951",
         "CVE-2026-70229",
-        "CVE-2026-70571",
-        "CVE-2026-96951"
+        "CVE-2026-70571"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1448,8 +1459,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109619",
-        "CVE-2026-109618"
+        "CVE-2026-109618",
+        "CVE-2026-109619"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1563,8 +1574,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-109619",
-        "CVE-2026-109618"
+        "CVE-2026-109618",
+        "CVE-2026-109619"
       ],
       "threat_categories": [
         "Vulnerability"
