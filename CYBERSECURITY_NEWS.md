@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-24 04:04:28 UTC
+**Last Updated:** 2026-10-24 04:54:26 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -137,7 +137,7 @@
 **Source:** Bleeping Computer  
 **Published:** Fri, 23 Oct 2026 11:38:05 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-115560, CVE-2026-109618, CVE-2026-109619  
+**CVEs:** CVE-2026-109619, CVE-2026-109618, CVE-2026-115560  
 **Categories:** Vulnerability  
 
 ---
@@ -219,7 +219,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 13 Oct 2026 23:24:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-96951, CVE-2026-108398  
+**CVEs:** CVE-2026-108398, CVE-2026-96951  
 **Categories:** Vulnerability  
 
 ---
@@ -275,7 +275,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69730, CVE-2026-81963, CVE-2026-85880, CVE-2026-69829  
+**CVEs:** CVE-2026-69829, CVE-2026-69730, CVE-2026-81963, CVE-2026-85880  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -350,7 +350,7 @@
 **Source:** Security Week  
 **Published:** Fri, 23 Oct 2026 07:54:47 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-75595, CVE-2026-21589, CVE-2026-65905, CVE-2026-65637, CVE-2026-65182, CVE-2026-77185, CVE-2026-58062, CVE-2026-68525  
+**CVEs:** CVE-2026-77185, CVE-2026-65637, CVE-2026-75595, CVE-2026-65182, CVE-2026-68525, CVE-2026-58062, CVE-2026-65905, CVE-2026-21589  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
