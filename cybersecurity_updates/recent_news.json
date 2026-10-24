@@ -1,6 +1,99 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
+    "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
+    "published": "Sat, 24 Oct 2026 16:39:29 +0530",
+    "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python&nbsp;Brotli&nbsp;and&nbsp;brotlicffi&nbsp;packages, and Envoy proxies set up to decompress Brotli.\n\nTracked as&nbsp;CVE-2026-111497, the flaw allows crafted compressed data to overwrite past the end of a buffer and corrupt a program's memory, potentially",
+    "analysis": {
+      "issue": "Brotli decoder flaw CVE-2026-111497 affects Node",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-111497"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
+    "link": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
+    "published": "Sat, 24 Oct 2026 16:33:33 +0530",
+    "summary": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python package.\n\n\"On May 27, 2026, a configuration file was committed to the public LiteLLM-Labs/lite-harness repository which inadvertently contained the master key to a deployment of",
+    "analysis": {
+      "issue": "An unrevoked LiteLLM master key enabled GitHub token theft and a malicious PyPI release that steals credentials and installs a backdoor",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
+    "link": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
+    "published": "Sat, 24 Oct 2026 16:06:33 +0530",
+    "summary": "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on their activity on other connected Google services.\n\n\"You may choose to allow certain Google services, including services like Search or Gemini Apps, to access data from other Google services you use,",
+    "analysis": {
+      "issue": "Google's updated privacy policy says data shared from Gmail, Drive, or Photos with AI-powered Search features may be used to personalize ads",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
+    "link": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
+    "published": "Sat, 24 Oct 2026 14:34:24 +0530",
+    "summary": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have allowed an outsider to take over the machine.\n\nThe updater belongs to Time4Popcorn, an abandoned copy of Popcorn Time, a free app that streamed pirated films and TV over BitTorrent.\n\nPopcorn Time was",
+    "analysis": {
+      "issue": "Eye Security sent over 2 million updates to disable Time4Popcorn's vulnerable updater, which could install unverified code with elevated privileges",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
+    "link": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
+    "published": "Sat, 24 Oct 2026 11:55:57 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV), citing reports of active exploitation in the wild.\n\nThe critical-severity vulnerabilities are listed below -\n\n\n  CVE-2026-110447 (CVSS score: 9.2) - An operating",
+    "analysis": {
+      "issue": "CISA adds exploited Collabora Online and Arista VeloCloud flaws to KEV, with federal agencies directed to patch by October 26",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
     "link": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
     "published": "Sat, 24 Oct 2026 00:20:13 +0530",
@@ -93,97 +186,6 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
-    "link": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
-    "published": "Fri, 23 Oct 2026 16:41:23 +0530",
-    "summary": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year.\n\nAccording to ESET, the attack involved UAC-0099 (aka Earth Sirrush) obtaining initial access to the target on July 16, 2025, via a spear-phishing email bearing a malware-laced attachment that led to the deployment of",
-    "analysis": {
-      "issue": "Sandworm wiped a Ukrainian logistics firm in September 2025 after UAC-0099 gained access and deployed a new Yggdrasil-based backdoor",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
-    "link": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
-    "published": "Fri, 23 Oct 2026 15:06:00 +0530",
-    "summary": "Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open.\n\nThe flaw,&nbsp;CVE-2026-112900, is in the way Pillow handles EPS images, which it opens by passing the file's name to Ghostscript, a separate program it runs to turn the image into pixels, without checking the name first.",
-    "analysis": {
-      "issue": "0 fixes EPS, JPEG, and TIFF flaws, including command execution paths involving Ghostscript and crafted image files",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
-    "link": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
-    "published": "Fri, 23 Oct 2026 14:10:43 +0530",
-    "summary": "Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have&nbsp;demonstrated.\n\nTheir \"Node2Shell\" proof of concept ran code on the official Node.js 24.22.0 image for Linux arm64, with no debugger or custom build, by feeding crafted data to the bundled Brotli decoder (CVE-2026-111497). Node.js disclosed the flaw",
-    "analysis": {
-      "issue": "Imperva demonstrated code execution via crafted Brotli data on an official Node",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances",
-    "link": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
-    "published": "Fri, 23 Oct 2026 14:05:45 +0530",
-    "summary": "AI agents paying for API calls with the&nbsp;x402 SDKs&nbsp;could sign a payment for their full balance of a supported token if a malicious API asked for it,&nbsp;security firm V12 said&nbsp;on October 22.\n\nThe cause was the SDKs' default client, which set no spending limit until releases on August 18 added one. The risk was limited to agents who automatically signed payments and whose apps set",
-    "analysis": {
-      "issue": "Three patched x402 flaws could expose auto-signing agents to full-balance payments, let Solana transactions bypass payment, or relay wallet logins",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
-    "link": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
-    "published": "Fri, 23 Oct 2026 13:10:45 +0530",
-    "summary": "Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerges that weaponizing the flaws may be harder than previously thought.\n\nThe attacks aim to exploit CVE-2026-109618 and CVE-2026-109619 (CVSS scores: 9.2), which can result in unauthenticated remote",
-    "analysis": {
-      "issue": "PHP2Shell attacks remain unsuccessful as researchers demonstrate an ASLR bypass enabling RCE on production-configured PHP systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
     "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
     "link": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
@@ -270,9 +272,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109619",
+        "CVE-2026-115560",
         "CVE-2026-109618",
-        "CVE-2026-115560"
+        "CVE-2026-109619"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -439,8 +441,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-108398",
-        "CVE-2026-96951"
+        "CVE-2026-96951",
+        "CVE-2026-108398"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -556,10 +558,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69829",
-        "CVE-2026-69730",
         "CVE-2026-81963",
-        "CVE-2026-85880"
+        "CVE-2026-85880",
+        "CVE-2026-69829",
+        "CVE-2026-69730"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -603,8 +605,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109619",
-        "CVE-2026-109618"
+        "CVE-2026-109618",
+        "CVE-2026-109619"
       ],
       "threat_categories": [
         "Data Breach",
@@ -648,8 +650,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-114625",
-        "CVE-2026-16812",
-        "CVE-2026-93952"
+        "CVE-2026-93952",
+        "CVE-2026-16812"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -727,14 +729,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-77185",
-        "CVE-2026-65637",
-        "CVE-2026-75595",
-        "CVE-2026-65182",
-        "CVE-2026-68525",
-        "CVE-2026-58062",
         "CVE-2026-65905",
-        "CVE-2026-21589"
+        "CVE-2026-75595",
+        "CVE-2026-68525",
+        "CVE-2026-65182",
+        "CVE-2026-58062",
+        "CVE-2026-21589",
+        "CVE-2026-65637",
+        "CVE-2026-77185"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -830,8 +832,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109619",
-        "CVE-2026-109618"
+        "CVE-2026-109618",
+        "CVE-2026-109619"
       ],
       "threat_categories": [
         "Ransomware",
@@ -890,8 +892,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2014-125110",
-        "CVE-2015-1000013"
+        "CVE-2015-1000013",
+        "CVE-2014-125110"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -929,8 +931,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-70229",
         "CVE-2026-96951",
+        "CVE-2026-70229",
         "CVE-2026-70571"
       ],
       "threat_categories": [
@@ -1493,8 +1495,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109619",
-        "CVE-2026-109618"
+        "CVE-2026-109618",
+        "CVE-2026-109619"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1590,8 +1592,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-109619",
-        "CVE-2026-109618"
+        "CVE-2026-109618",
+        "CVE-2026-109619"
       ],
       "threat_categories": [
         "Vulnerability"
