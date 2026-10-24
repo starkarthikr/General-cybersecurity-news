@@ -185,6 +185,26 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
+    "published": "Fri, 23 Oct 2026 16:55:05 -0400",
+    "summary": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with elevated privileges on millions of computers. [...]",
+    "analysis": {
+      "issue": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with elevated privileges on millio",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-30612"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
     "published": "Fri, 23 Oct 2026 14:54:41 -0400",
@@ -250,9 +270,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-115560",
         "CVE-2026-109618",
-        "CVE-2026-109619",
-        "CVE-2026-115560"
+        "CVE-2026-109619"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -347,26 +367,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
-    "published": "Thu, 22 Oct 2026 13:18:22 -0400",
-    "summary": "Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
-    "analysis": {
-      "issue": "Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-114625"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -556,10 +556,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-85880",
-        "CVE-2026-69829",
         "CVE-2026-69730",
-        "CVE-2026-81963"
+        "CVE-2026-81963",
+        "CVE-2026-85880",
+        "CVE-2026-69829"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -603,8 +603,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109618",
-        "CVE-2026-109619"
+        "CVE-2026-109619",
+        "CVE-2026-109618"
       ],
       "threat_categories": [
         "Data Breach",
@@ -647,9 +647,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-114625",
         "CVE-2026-16812",
-        "CVE-2026-93952",
-        "CVE-2026-114625"
+        "CVE-2026-93952"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -727,14 +727,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-68525",
-        "CVE-2026-65637",
         "CVE-2026-75595",
         "CVE-2026-21589",
+        "CVE-2026-65905",
+        "CVE-2026-65637",
+        "CVE-2026-65182",
         "CVE-2026-77185",
         "CVE-2026-58062",
-        "CVE-2026-65905",
-        "CVE-2026-65182"
+        "CVE-2026-68525"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -830,8 +830,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109618",
-        "CVE-2026-109619"
+        "CVE-2026-109619",
+        "CVE-2026-109618"
       ],
       "threat_categories": [
         "Ransomware",
@@ -929,9 +929,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-70229",
         "CVE-2026-96951",
-        "CVE-2026-70571",
-        "CVE-2026-70229"
+        "CVE-2026-70571"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1493,8 +1493,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109618",
-        "CVE-2026-109619"
+        "CVE-2026-109619",
+        "CVE-2026-109618"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1561,6 +1561,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation",
+    "link": "https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/",
+    "published": "Oct 23, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "Threat actors have not yet exploited PHP2Shell, but the speed with which they attempted to weaponize the vulns highlights how swiftly attackers adopt new exploits",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "CrowdStrike Protects Customers from Threats Delivered via PHP2Shell",
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-protects-customers-from-php-rce-zero-days/",
     "published": "Oct 21, 2026 00:00:00-0500",
@@ -1572,8 +1590,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-109618",
-        "CVE-2026-109619"
+        "CVE-2026-109619",
+        "CVE-2026-109618"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1696,24 +1714,6 @@
     "summary": "",
     "analysis": {
       "issue": "CrowdStrike Intelligence identified infrastructure associated with a targeted campaign against South Korean financial institutions that resulted in exfiltrated data",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Modern Endpoint Security for Enterprises Vendor Assessment",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-modern-endpoint-security-for-enterprises/",
-    "published": "Oct 07, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "CrowdStrike is positioned furthest to the right of all vendors evaluated on the Strategies axis, which assesses how well a vendor’s future strategy aligns with what customers will require over the next 3 to 5 years",
       "solution": null,
       "cause": null,
       "timeline": null,
