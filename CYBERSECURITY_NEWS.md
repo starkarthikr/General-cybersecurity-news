@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-25 13:18:40 UTC
+**Last Updated:** 2026-10-25 15:52:35 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,16 @@
 
 ---
 
-### 11. [BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot](https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/)
+### 11. [AI coding agents hijacked using AGENTS.md file in Downloads folder](https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/)
+
+**Source:** Bleeping Computer  
+**Published:** Sun, 25 Oct 2026 11:49:38 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 12. [BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot](https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 24 Oct 2026 10:17:32 -0400  
@@ -105,7 +114,7 @@
 
 ---
 
-### 12. [Abandoned Popcorn Time app exposed millions of devices to RCE attacks](https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/)
+### 13. [Abandoned Popcorn Time app exposed millions of devices to RCE attacks](https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 23 Oct 2026 16:55:05 -0400  
@@ -115,7 +124,7 @@
 
 ---
 
-### 13. [Microsoft Teams to get AI-powered, context-aware phishing detection](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/)
+### 14. [Microsoft Teams to get AI-powered, context-aware phishing detection](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 23 Oct 2026 14:54:41 -0400  
@@ -124,7 +133,7 @@
 
 ---
 
-### 14. [Microsoft: Windows Server 2016 reaches end of support in January](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/)
+### 15. [Microsoft: Windows Server 2016 reaches end of support in January](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 23 Oct 2026 13:05:07 -0400  
@@ -133,7 +142,7 @@
 
 ---
 
-### 15. [Quest Diagnostics confirms data breach exposed patient records](https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/)
+### 16. [Quest Diagnostics confirms data breach exposed patient records](https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 23 Oct 2026 12:40:07 -0400  
@@ -142,17 +151,17 @@
 
 ---
 
-### 16. [PHP shares mitigation for new RCE vulnerability with no patch](https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/)
+### 17. [PHP shares mitigation for new RCE vulnerability with no patch](https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 23 Oct 2026 11:38:05 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109619, CVE-2026-115560, CVE-2026-109618  
+**CVEs:** CVE-2026-109618, CVE-2026-109619, CVE-2026-115560  
 **Categories:** Vulnerability  
 
 ---
 
-### 17. [You gave your AI agent access, but who is giving it orders?](https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/)
+### 18. [You gave your AI agent access, but who is giving it orders?](https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 23 Oct 2026 10:00:10 -0400  
@@ -161,7 +170,7 @@
 
 ---
 
-### 18. [HPE patches eight max severity RCE and auth bypass AOS flaws](https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/)
+### 19. [HPE patches eight max severity RCE and auth bypass AOS flaws](https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 23 Oct 2026 08:48:00 -0400  
@@ -170,21 +179,12 @@
 
 ---
 
-### 19. [Railway warns devs to rotate secrets after potential breach](https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/)
+### 20. [Railway warns devs to rotate secrets after potential breach](https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 22 Oct 2026 17:25:31 -0400  
 **Severity:** High  
 **Categories:** General Security  
-
----
-
-### 20. [Capcom confirms data breach affecting 11.7 million accounts](https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 22 Oct 2026 16:22:45 -0400  
-**Severity:** Low  
-**Categories:** Data Breach  
 
 ---
 
@@ -276,7 +276,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-85880, CVE-2026-69829, CVE-2026-81963, CVE-2026-69730  
+**CVEs:** CVE-2026-69829, CVE-2026-69730, CVE-2026-85880, CVE-2026-81963  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -304,7 +304,7 @@
 **Source:** Security Week  
 **Published:** Fri, 23 Oct 2026 12:45:52 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109619, CVE-2026-109618  
+**CVEs:** CVE-2026-109618, CVE-2026-109619  
 **Categories:** Data Breach, Vulnerability, Malware, DDoS  
 
 ---
@@ -323,7 +323,7 @@
 **Source:** Security Week  
 **Published:** Fri, 23 Oct 2026 09:58:34 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-16812, CVE-2026-93952, CVE-2026-114625  
+**CVEs:** CVE-2026-93952, CVE-2026-114625, CVE-2026-16812  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -360,7 +360,7 @@
 **Source:** Security Week  
 **Published:** Fri, 23 Oct 2026 07:54:47 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21589, CVE-2026-65182, CVE-2026-65905, CVE-2026-75595, CVE-2026-65637, CVE-2026-58062, CVE-2026-68525, CVE-2026-77185  
+**CVEs:** CVE-2026-65905, CVE-2026-77185, CVE-2026-58062, CVE-2026-65637, CVE-2026-21589, CVE-2026-65182, CVE-2026-68525, CVE-2026-75595  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -398,7 +398,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 21 Oct 2026 15:10:53 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109619, CVE-2026-109618  
+**CVEs:** CVE-2026-109618, CVE-2026-109619  
 **Categories:** Ransomware, Vulnerability  
 
 ---
@@ -446,7 +446,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 13 Oct 2026 20:37:58 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-70571, CVE-2026-70229, CVE-2026-96951  
+**CVEs:** CVE-2026-70571, CVE-2026-96951, CVE-2026-70229  
 **Categories:** Vulnerability  
 
 ---
@@ -722,7 +722,7 @@
 **Source:** Malwarebytes  
 **Published:** Wed, 21 Oct 2026 16:14:18 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109619, CVE-2026-109618  
+**CVEs:** CVE-2026-109618, CVE-2026-109619  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -769,7 +769,7 @@
 **Source:** Crowdstrike Blog  
 **Published:** Oct 21, 2026 00:00:00-0500  
 **Severity:** Low  
-**CVEs:** CVE-2026-109619, CVE-2026-109618  
+**CVEs:** CVE-2026-109618, CVE-2026-109619  
 **Categories:** Vulnerability  
 
 ---

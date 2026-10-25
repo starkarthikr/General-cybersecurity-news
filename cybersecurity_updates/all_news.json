@@ -185,6 +185,24 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
+    "link": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
+    "published": "Sun, 25 Oct 2026 11:49:38 -0400",
+    "summary": "Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]",
+    "analysis": {
+      "issue": "Researchers found a malicious AGENTS markdown instruction file in a customer’s Downloads folder that tricked an AI coding agent into installing a rogue npm package",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
     "link": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
     "published": "Sat, 24 Oct 2026 10:17:32 -0400",
@@ -291,9 +309,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-109618",
         "CVE-2026-109619",
-        "CVE-2026-115560",
-        "CVE-2026-109618"
+        "CVE-2026-115560"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -352,24 +370,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Capcom confirms data breach affecting 11.7 million accounts",
-    "link": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
-    "published": "Thu, 22 Oct 2026 16:22:45 -0400",
-    "summary": "Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...]",
-    "analysis": {
-      "issue": "Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
       ]
     }
   },
@@ -559,10 +559,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-85880",
         "CVE-2026-69829",
-        "CVE-2026-81963",
-        "CVE-2026-69730"
+        "CVE-2026-69730",
+        "CVE-2026-85880",
+        "CVE-2026-81963"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -624,8 +624,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109619",
-        "CVE-2026-109618"
+        "CVE-2026-109618",
+        "CVE-2026-109619"
       ],
       "threat_categories": [
         "Data Breach",
@@ -668,9 +668,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-16812",
         "CVE-2026-93952",
-        "CVE-2026-114625"
+        "CVE-2026-114625",
+        "CVE-2026-16812"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -748,14 +748,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-65905",
+        "CVE-2026-77185",
+        "CVE-2026-58062",
+        "CVE-2026-65637",
         "CVE-2026-21589",
         "CVE-2026-65182",
-        "CVE-2026-65905",
-        "CVE-2026-75595",
-        "CVE-2026-65637",
-        "CVE-2026-58062",
         "CVE-2026-68525",
-        "CVE-2026-77185"
+        "CVE-2026-75595"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -833,8 +833,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109619",
-        "CVE-2026-109618"
+        "CVE-2026-109618",
+        "CVE-2026-109619"
       ],
       "threat_categories": [
         "Ransomware",
@@ -933,8 +933,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-70571",
-        "CVE-2026-70229",
-        "CVE-2026-96951"
+        "CVE-2026-96951",
+        "CVE-2026-70229"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1496,8 +1496,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109619",
-        "CVE-2026-109618"
+        "CVE-2026-109618",
+        "CVE-2026-109619"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1593,8 +1593,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-109619",
-        "CVE-2026-109618"
+        "CVE-2026-109618",
+        "CVE-2026-109619"
       ],
       "threat_categories": [
         "Vulnerability"
