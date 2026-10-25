@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-25 05:05:51 UTC
+**Last Updated:** 2026-10-25 13:18:40 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software](https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html)
+### 1. [OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication](https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html)
+
+**Source:** The Hacker News  
+**Published:** Sun, 25 Oct 2026 12:24:29 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software](https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 24 Oct 2026 16:39:29 +0530  
@@ -14,7 +23,7 @@
 
 ---
 
-### 2. [Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline](https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html)
+### 3. [Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline](https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 24 Oct 2026 16:33:33 +0530  
@@ -23,7 +32,7 @@
 
 ---
 
-### 3. [Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads](https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html)
+### 4. [Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads](https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 24 Oct 2026 16:06:33 +0530  
@@ -32,7 +41,7 @@
 
 ---
 
-### 4. [Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet](https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html)
+### 5. [Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet](https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 24 Oct 2026 14:34:24 +0530  
@@ -41,7 +50,7 @@
 
 ---
 
-### 5. [CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud](https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html)
+### 6. [CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud](https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 24 Oct 2026 11:55:57 +0530  
@@ -50,7 +59,7 @@
 
 ---
 
-### 6. [BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations](https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html)
+### 7. [BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations](https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 24 Oct 2026 00:20:13 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws](https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html)
+### 8. [Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws](https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 23 Oct 2026 23:24:08 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions](https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html)
+### 9. [Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions](https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 23 Oct 2026 23:20:47 +0530  
@@ -77,21 +86,11 @@
 
 ---
 
-### 9. [Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials](https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html)
+### 10. [Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials](https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 23 Oct 2026 19:20:56 +0530  
 **Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 10. [PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches](https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 23 Oct 2026 16:55:43 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-115560  
 **Categories:** Vulnerability  
 
 ---
@@ -148,7 +147,7 @@
 **Source:** Bleeping Computer  
 **Published:** Fri, 23 Oct 2026 11:38:05 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109618, CVE-2026-115560, CVE-2026-109619  
+**CVEs:** CVE-2026-109619, CVE-2026-115560, CVE-2026-109618  
 **Categories:** Vulnerability  
 
 ---
@@ -282,7 +281,16 @@
 
 ---
 
-### 31. [In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware](https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/)
+### 31. [Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave](https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/)
+
+**Source:** Security Week  
+**Published:** Sun, 25 Oct 2026 11:00:00 +0000  
+**Severity:** Low  
+**Categories:** Data Breach  
+
+---
+
+### 32. [In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware](https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/)
 
 **Source:** Security Week  
 **Published:** Fri, 23 Oct 2026 14:23:37 +0000  
@@ -291,17 +299,17 @@
 
 ---
 
-### 32. [Mirai Botnet Operators Join PHP2Shell Attacks as ASLR Bypass Exploits Emerge](https://www.securityweek.com/mirai-botnet-operators-join-php2shell-attacks-as-aslr-bypass-exploits-emerge/)
+### 33. [Mirai Botnet Operators Join PHP2Shell Attacks as ASLR Bypass Exploits Emerge](https://www.securityweek.com/mirai-botnet-operators-join-php2shell-attacks-as-aslr-bypass-exploits-emerge/)
 
 **Source:** Security Week  
 **Published:** Fri, 23 Oct 2026 12:45:52 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109618, CVE-2026-109619  
+**CVEs:** CVE-2026-109619, CVE-2026-109618  
 **Categories:** Data Breach, Vulnerability, Malware, DDoS  
 
 ---
 
-### 33. [China APT Uses AI Pentest Tool Artex in ConnectWise Attacks](https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/)
+### 34. [China APT Uses AI Pentest Tool Artex in ConnectWise Attacks](https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/)
 
 **Source:** Security Week  
 **Published:** Fri, 23 Oct 2026 10:31:16 +0000  
@@ -310,17 +318,17 @@
 
 ---
 
-### 34. [Attackers Exploit Third Arista VCO Zero-Day in Four Months](https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/)
+### 35. [Attackers Exploit Third Arista VCO Zero-Day in Four Months](https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/)
 
 **Source:** Security Week  
 **Published:** Fri, 23 Oct 2026 09:58:34 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-114625, CVE-2026-93952, CVE-2026-16812  
+**CVEs:** CVE-2026-16812, CVE-2026-93952, CVE-2026-114625  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 35. [11 Million Impacted by Capcom Data Breach](https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/)
+### 36. [11 Million Impacted by Capcom Data Breach](https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/)
 
 **Source:** Security Week  
 **Published:** Fri, 23 Oct 2026 08:34:14 +0000  
@@ -329,7 +337,7 @@
 
 ---
 
-### 36. [Quest Diagnostics Data Breach Exposed ‘Certain Patient Records’](https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/)
+### 37. [Quest Diagnostics Data Breach Exposed ‘Certain Patient Records’](https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/)
 
 **Source:** Security Week  
 **Published:** Fri, 23 Oct 2026 08:25:06 +0000  
@@ -338,7 +346,7 @@
 
 ---
 
-### 37. [LiteLLM Compromised in Fresh Supply Chain Attack](https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/)
+### 38. [LiteLLM Compromised in Fresh Supply Chain Attack](https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/)
 
 **Source:** Security Week  
 **Published:** Fri, 23 Oct 2026 08:10:46 +0000  
@@ -347,31 +355,22 @@
 
 ---
 
-### 38. [Atlassian Patches 75 Flaws in Data Center and Server Products](https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/)
+### 39. [Atlassian Patches 75 Flaws in Data Center and Server Products](https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/)
 
 **Source:** Security Week  
 **Published:** Fri, 23 Oct 2026 07:54:47 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-65182, CVE-2026-77185, CVE-2026-21589, CVE-2026-75595, CVE-2026-58062, CVE-2026-65637, CVE-2026-68525, CVE-2026-65905  
+**CVEs:** CVE-2026-21589, CVE-2026-65182, CVE-2026-65905, CVE-2026-75595, CVE-2026-65637, CVE-2026-58062, CVE-2026-68525, CVE-2026-77185  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
 
-### 39. [Iran’s Prince of Persia APT Hosts C&C in US for First Time Since 2016](https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/)
+### 40. [Iran’s Prince of Persia APT Hosts C&C in US for First Time Since 2016](https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/)
 
 **Source:** Security Week  
 **Published:** Fri, 23 Oct 2026 06:39:29 +0000  
 **Severity:** Low  
 **Categories:** Malware, APT  
-
----
-
-### 40. [Hacker Conversations: Corey Thuen and the Evil Bit](https://www.securityweek.com/hacker-conversations-corey-thuen-and-the-evil-bit/)
-
-**Source:** Security Week  
-**Published:** Thu, 22 Oct 2026 14:31:34 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability  
 
 ---
 
@@ -399,7 +398,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 21 Oct 2026 15:10:53 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109618, CVE-2026-109619  
+**CVEs:** CVE-2026-109619, CVE-2026-109618  
 **Categories:** Ransomware, Vulnerability  
 
 ---
@@ -447,7 +446,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 13 Oct 2026 20:37:58 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-70571, CVE-2026-96951, CVE-2026-70229  
+**CVEs:** CVE-2026-70571, CVE-2026-70229, CVE-2026-96951  
 **Categories:** Vulnerability  
 
 ---
@@ -723,7 +722,7 @@
 **Source:** Malwarebytes  
 **Published:** Wed, 21 Oct 2026 16:14:18 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109618, CVE-2026-109619  
+**CVEs:** CVE-2026-109619, CVE-2026-109618  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -770,7 +769,7 @@
 **Source:** Crowdstrike Blog  
 **Published:** Oct 21, 2026 00:00:00-0500  
 **Severity:** Low  
-**CVEs:** CVE-2026-109618, CVE-2026-109619  
+**CVEs:** CVE-2026-109619, CVE-2026-109618  
 **Categories:** Vulnerability  
 
 ---
