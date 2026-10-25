@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-25 15:52:35 UTC
+**Last Updated:** 2026-10-25 19:11:11 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication](https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html)
+### 1. [Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers](https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html)
+
+**Source:** The Hacker News  
+**Published:** Sun, 25 Oct 2026 23:14:09 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking](https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html)
+
+**Source:** The Hacker News  
+**Published:** Sun, 25 Oct 2026 22:49:46 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication](https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 25 Oct 2026 12:24:29 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software](https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html)
+### 4. [Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software](https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 24 Oct 2026 16:39:29 +0530  
@@ -23,7 +41,7 @@
 
 ---
 
-### 3. [Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline](https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html)
+### 5. [Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline](https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 24 Oct 2026 16:33:33 +0530  
@@ -32,7 +50,7 @@
 
 ---
 
-### 4. [Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads](https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html)
+### 6. [Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads](https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 24 Oct 2026 16:06:33 +0530  
@@ -41,7 +59,7 @@
 
 ---
 
-### 5. [Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet](https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html)
+### 7. [Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet](https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 24 Oct 2026 14:34:24 +0530  
@@ -50,7 +68,7 @@
 
 ---
 
-### 6. [CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud](https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html)
+### 8. [CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud](https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 24 Oct 2026 11:55:57 +0530  
@@ -59,7 +77,7 @@
 
 ---
 
-### 7. [BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations](https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html)
+### 9. [BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations](https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 24 Oct 2026 00:20:13 +0530  
@@ -68,30 +86,12 @@
 
 ---
 
-### 8. [Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws](https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html)
+### 10. [Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws](https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 23 Oct 2026 23:24:08 +0530  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 9. [Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions](https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 23 Oct 2026 23:20:47 +0530  
-**Severity:** Low  
-**Categories:** Ransomware, Vulnerability  
-
----
-
-### 10. [Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials](https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 23 Oct 2026 19:20:56 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
 
 ---
 
@@ -156,7 +156,7 @@
 **Source:** Bleeping Computer  
 **Published:** Fri, 23 Oct 2026 11:38:05 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109618, CVE-2026-109619, CVE-2026-115560  
+**CVEs:** CVE-2026-109618, CVE-2026-115560, CVE-2026-109619  
 **Categories:** Vulnerability  
 
 ---
@@ -220,7 +220,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 13 Oct 2026 23:24:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-108398, CVE-2026-96951  
+**CVEs:** CVE-2026-96951, CVE-2026-108398  
 **Categories:** Vulnerability  
 
 ---
@@ -276,7 +276,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69829, CVE-2026-69730, CVE-2026-85880, CVE-2026-81963  
+**CVEs:** CVE-2026-85880, CVE-2026-69829, CVE-2026-81963, CVE-2026-69730  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -323,7 +323,7 @@
 **Source:** Security Week  
 **Published:** Fri, 23 Oct 2026 09:58:34 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-93952, CVE-2026-114625, CVE-2026-16812  
+**CVEs:** CVE-2026-16812, CVE-2026-114625, CVE-2026-93952  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -360,7 +360,7 @@
 **Source:** Security Week  
 **Published:** Fri, 23 Oct 2026 07:54:47 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-65905, CVE-2026-77185, CVE-2026-58062, CVE-2026-65637, CVE-2026-21589, CVE-2026-65182, CVE-2026-68525, CVE-2026-75595  
+**CVEs:** CVE-2026-65905, CVE-2026-77185, CVE-2026-58062, CVE-2026-65637, CVE-2026-68525, CVE-2026-75595, CVE-2026-21589, CVE-2026-65182  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -446,7 +446,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 13 Oct 2026 20:37:58 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-70571, CVE-2026-96951, CVE-2026-70229  
+**CVEs:** CVE-2026-70571, CVE-2026-70229, CVE-2026-96951  
 **Categories:** Vulnerability  
 
 ---

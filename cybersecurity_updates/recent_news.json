@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
+    "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
+    "published": "Sun, 25 Oct 2026 23:14:09 +0530",
+    "summary": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week.\n\nThe attack requires two things: Tailscale SSH set up to allow port forwarding, and an attacker who already controls one device that the network's access rules permit to connect to the target.\n\nThe findings were",
+    "analysis": {
+      "issue": "Unpatched Tailscale SSH flaws could let attackers gain root on permitted servers from a compromised device when port forwarding is enabled",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+    "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+    "published": "Sun, 25 Oct 2026 22:49:46 +0530",
+    "summary": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619.\n\n\"In one case, the attackers targeted a government entity in Europe and within two hours of the initial exploitation they had successfully accessed password hashes and multi-factor",
+    "analysis": {
+      "issue": "Attackers exploited PHP2Shell to access MFA secrets and password hashes at a European government entity, with signs of agentic AI use",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
     "link": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
     "published": "Sun, 25 Oct 2026 12:24:29 +0530",
@@ -147,43 +183,6 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
-    "link": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
-    "published": "Fri, 23 Oct 2026 23:20:47 +0530",
-    "summary": "Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups.\n\nCentral to the operation is an \"Autonomous Red Team Kill Chain Framework\" referred to as Phantom. The threat actor is assessed to be Russian-speaking and functions both as an intrusion and data-extortion operator, as well as an",
-    "analysis": {
-      "issue": "Ransomware affiliates used human-approved AI workflows to exploit edge systems, steal data, and target an estimated 62 organizations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
-    "link": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
-    "published": "Fri, 23 Oct 2026 19:20:56 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls.\n\n\"Artifacts from this investigation also indicate that operators in this campaign have obtained access to numerous organizations worldwide, and have attempted to further compromise some victims,",
-    "analysis": {
-      "issue": "A campaign attributed to k0t exploits exposed network devices, establishes persistent access, and exfiltrates data using Rclone",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
     "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
     "link": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
@@ -310,8 +309,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-109618",
-        "CVE-2026-109619",
-        "CVE-2026-115560"
+        "CVE-2026-115560",
+        "CVE-2026-109619"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -442,8 +441,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-108398",
-        "CVE-2026-96951"
+        "CVE-2026-96951",
+        "CVE-2026-108398"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -559,10 +558,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69829",
-        "CVE-2026-69730",
         "CVE-2026-85880",
-        "CVE-2026-81963"
+        "CVE-2026-69829",
+        "CVE-2026-81963",
+        "CVE-2026-69730"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -668,9 +667,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-93952",
+        "CVE-2026-16812",
         "CVE-2026-114625",
-        "CVE-2026-16812"
+        "CVE-2026-93952"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -752,10 +751,10 @@
         "CVE-2026-77185",
         "CVE-2026-58062",
         "CVE-2026-65637",
-        "CVE-2026-21589",
-        "CVE-2026-65182",
         "CVE-2026-68525",
-        "CVE-2026-75595"
+        "CVE-2026-75595",
+        "CVE-2026-21589",
+        "CVE-2026-65182"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -933,8 +932,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-70571",
-        "CVE-2026-96951",
-        "CVE-2026-70229"
+        "CVE-2026-70229",
+        "CVE-2026-96951"
       ],
       "threat_categories": [
         "Vulnerability"
