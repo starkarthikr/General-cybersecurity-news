@@ -1,6 +1,134 @@
 [
   {
     "source": "The Hacker News",
+    "title": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
+    "link": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
+    "published": "Mon, 26 Oct 2026 19:36:13 +0530",
+    "summary": "This2Shell, That2Shell, Everything2Shell. That's pretty much how the last week went. Critical bugs that let attackers run code remotely are showing up everywhere. Hackers are scanning for targets, some flaws are already being used in attacks, and security teams have more urgent patches than they can keep up with.\n\nAnd that's not even the full story. A leaked key led to a software supply-chain",
+    "analysis": {
+      "issue": "This week's cybersecurity recap: Critical RCE flaws, millions of exploit attempts, rogue AI agents, supply chain attacks, leaked keys, and more",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
+    "link": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
+    "published": "Mon, 26 Oct 2026 17:22:41 +0530",
+    "summary": "Two critical flaws in&nbsp;Wasmtime, a WebAssembly runtime that can be built into other software, could allow a malicious WebAssembly module to escape the sandbox intended to contain it, the project's maintainers say.\n\nAn attacker would first need a vulnerable Wasmtime build to compile a module they control, and one of the flaws affects only ARM64 systems. Fixed versions were released on",
+    "analysis": {
+      "issue": "Wasmtime fixes two critical Cranelift flaws that could let attacker-controlled WebAssembly modules escape sandboxes, including an ARM64-only bug",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
+    "link": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
+    "published": "Mon, 26 Oct 2026 16:53:56 +0530",
+    "summary": "Every SOC struggles with a pile of alerts. Very few of those alerts explain how an attack started or how it progressed. Network data, like that from a network detection and response (NDR) platform, connects individual alerts into one timeline, and it feeds the defensive systems that can tie all events together into one coordinated view.\n\nSOC teams often first see the shape of an intrusion",
+    "analysis": {
+      "issue": "Learn how NDR network telemetry helps AI-assisted SOCs connect isolated alerts, reconstruct attack timelines, and investigate suspicious activity",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
+    "link": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
+    "published": "Mon, 26 Oct 2026 15:24:02 +0530",
+    "summary": "A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches people who install one of these tampered copies, spread outside the official app stores, or who run WeChat inside the kit makers' own container app.\n\nThe kit's Telegram part matches Baohuo, a backdoor that Doctor",
+    "analysis": {
+      "issue": "Rentable Android spyware kit uCreator uses tampered Telegram apps and a WeChat container to capture credentials and clone accounts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
+    "link": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
+    "published": "Mon, 26 Oct 2026 14:05:51 +0530",
+    "summary": "Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen tokens to break into email accounts at 79 organizations.\n\nHuntress, which observed the activity between July 14 and September 22, 2026, said it detected 497 successful Microsoft 365 sign-in events across",
+    "analysis": {
+      "issue": "Attackers replayed stolen Microsoft 365 tokens to compromise 97 accounts at 79 organizations and registered 48 rogue Entra devices",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
+    "link": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
+    "published": "Mon, 26 Oct 2026 13:19:46 +0530",
+    "summary": "An automated campaign is using stolen GitHub tokens to plant workflows that print a repository's secrets into its GitHub Actions logs, which the attackers then download before deleting the runs. The attacks have succeeded in private repositories and GitHub Enterprise environments, according to&nbsp;an analysis&nbsp;by cloud security company Wiz.\n\nA&nbsp;GitHub safeguard&nbsp;that pauses",
+    "analysis": {
+      "issue": "Gheist uses stolen GitHub tokens to extract secrets through Actions logs, planting over 13,500 branches across 850 compromised accounts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
+    "link": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
+    "published": "Mon, 26 Oct 2026 11:33:48 +0530",
+    "summary": "A malicious instruction file sitting in a developer's Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm&nbsp;Forever Security said&nbsp;in a report published last week.\n\nThe company caught the attempt on a real customer's machine and stopped the agent before any code ran. It could not determine how the file got into the folder.\n\nThe file",
+    "analysis": {
+      "issue": "md file led Codex to execute npm malware in over 90% of tests, while a separate Claude Code attack exposed login tokens",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
     "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
     "published": "Sun, 25 Oct 2026 23:14:09 +0530",
@@ -54,131 +182,77 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
-    "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-    "published": "Sat, 24 Oct 2026 16:39:29 +0530",
-    "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python&nbsp;Brotli&nbsp;and&nbsp;brotlicffi&nbsp;packages, and Envoy proxies set up to decompress Brotli.\n\nTracked as&nbsp;CVE-2026-111497, the flaw allows crafted compressed data to overwrite past the end of a buffer and corrupt a program's memory, potentially",
+    "source": "Bleeping Computer",
+    "title": "When an AI Agent Is the Incident, the Identity Record Is the Evidence",
+    "link": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
+    "published": "Mon, 26 Oct 2026 10:00:10 -0400",
+    "summary": "A new NIST, CISA, and NSA guide treats runaway agents as incidents to be rehearsed. The hard part of the response is answering whose authority the agent used, and that answer has to exist before the incident does. [...]",
     "analysis": {
-      "issue": "Brotli decoder flaw CVE-2026-111497 affects Node",
+      "issue": "Author: Len Noe, Solutions Architect, BeyondTrust The first question on any incident bridge isn’t about why it happened--it’s whose credentials were used",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Chinese man extradited for role in $36 million cryptocurrency scam",
+    "link": "https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/",
+    "published": "Mon, 26 Oct 2026 09:56:44 -0400",
+    "summary": "A Chinese national was arraigned in California after being extradited from the Netherlands for his alleged involvement in a cryptocurrency investment scam that stole nearly $37 million from 174 victims in the United States. [...]",
+    "analysis": {
+      "issue": "A Chinese national was arraigned in California after being extradited from the Netherlands for his alleged involvement in a cryptocurrency investment scam that stole nearly $37 million from 174 victims in the United States",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
+    "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
+    "published": "Mon, 26 Oct 2026 06:26:52 -0400",
+    "summary": "Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed build scripts, and more. [...]",
+    "analysis": {
+      "issue": "Kali Linux has released version 2026",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
+    "link": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
+    "published": "Mon, 26 Oct 2026 05:19:57 -0400",
+    "summary": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]",
+    "analysis": {
+      "issue": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
       "cves": [
-        "CVE-2026-111497"
+        "CVE-2026-109618",
+        "CVE-2026-109619"
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
-    "link": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
-    "published": "Sat, 24 Oct 2026 16:33:33 +0530",
-    "summary": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python package.\n\n\"On May 27, 2026, a configuration file was committed to the public LiteLLM-Labs/lite-harness repository which inadvertently contained the master key to a deployment of",
-    "analysis": {
-      "issue": "An unrevoked LiteLLM master key enabled GitHub token theft and a malicious PyPI release that steals credentials and installs a backdoor",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
-    "link": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
-    "published": "Sat, 24 Oct 2026 16:06:33 +0530",
-    "summary": "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on their activity on other connected Google services.\n\n\"You may choose to allow certain Google services, including services like Search or Gemini Apps, to access data from other Google services you use,",
-    "analysis": {
-      "issue": "Google's updated privacy policy says data shared from Gmail, Drive, or Photos with AI-powered Search features may be used to personalize ads",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
-    "link": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
-    "published": "Sat, 24 Oct 2026 14:34:24 +0530",
-    "summary": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have allowed an outsider to take over the machine.\n\nThe updater belongs to Time4Popcorn, an abandoned copy of Popcorn Time, a free app that streamed pirated films and TV over BitTorrent.\n\nPopcorn Time was",
-    "analysis": {
-      "issue": "Eye Security sent over 2 million updates to disable Time4Popcorn's vulnerable updater, which could install unverified code with elevated privileges",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
-    "link": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
-    "published": "Sat, 24 Oct 2026 11:55:57 +0530",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV), citing reports of active exploitation in the wild.\n\nThe critical-severity vulnerabilities are listed below -\n\n\n  CVE-2026-110447 (CVSS score: 9.2) - An operating",
-    "analysis": {
-      "issue": "CISA adds exploited Collabora Online and Arista VeloCloud flaws to KEV, with federal agencies directed to patch by October 26",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
-    "link": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
-    "published": "Sat, 24 Oct 2026 00:20:13 +0530",
-    "summary": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX.\n\nThe activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and Turkmenistan in early 2026, is suspected to be orchestrated by a China-linked state-sponsored hacking group known as APT41, Kaspersky said in a technical report",
-    "analysis": {
-      "issue": "BlackX bootkit exploits unrevoked Secure Boot binaries on Windows devices after attackers gain admin access to Central Asian diplomatic networks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
-    "link": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
-    "published": "Fri, 23 Oct 2026 23:24:08 +0530",
-    "summary": "Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab patched over the past month.\n\nGitLab found that a specially crafted pattern could corrupt memory while Ruby compiles it, potentially leading to code execution on its own servers.\n\nRuby says any",
-    "analysis": {
-      "issue": "Ruby patched three Onigmo regex bugs that enabled code execution in GitLab when it compiled attacker-controlled patterns",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -292,83 +366,6 @@
       "cves": [],
       "threat_categories": [
         "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "PHP shares mitigation for new RCE vulnerability with no patch",
-    "link": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
-    "published": "Fri, 23 Oct 2026 11:38:05 -0400",
-    "summary": "The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. [...]",
-    "analysis": {
-      "issue": "The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-115560",
-        "CVE-2026-109619",
-        "CVE-2026-109618"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "You gave your AI agent access, but who is giving it orders?",
-    "link": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
-    "published": "Fri, 23 Oct 2026 10:00:10 -0400",
-    "summary": "AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their legitimate permissions. Gen Digital explains how its Agent Trust Hub helps protect agents through skill verification, secure connectivity, and runtime controls that intercept dangerous act [...]",
-    "analysis": {
-      "issue": "Headlines warn that AI could threaten humanity, and it’s easy to wave that off as science fiction",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "HPE patches eight max severity RCE and auth bypass AOS flaws",
-    "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
-    "published": "Fri, 23 Oct 2026 08:48:00 -0400",
-    "summary": "Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximum-severity authentication bypass and code execution issues. [...]",
-    "analysis": {
-      "issue": "Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximum-severity authentication bypass and code execution issues",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Railway warns devs to rotate secrets after potential breach",
-    "link": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
-    "published": "Thu, 22 Oct 2026 17:25:31 -0400",
-    "summary": "Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...]",
-    "analysis": {
-      "issue": "Cloud hosting provider Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -558,14 +555,182 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-81963",
         "CVE-2026-69829",
         "CVE-2026-85880",
+        "CVE-2026-81963",
         "CVE-2026-69730"
       ],
       "threat_categories": [
         "Vulnerability",
         "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Industrial Vendors Check Products for PHP2Shell Vulnerabilities",
+    "link": "https://www.securityweek.com/industrial-vendors-check-products-for-php2shell-vulnerabilities/",
+    "published": "Mon, 26 Oct 2026 14:52:14 +0000",
+    "summary": "<p>Siemens, Schneider Electric, ABB and others have confirmed that some of their products are affected by the PHP2Shell vulnerabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/industrial-vendors-check-products-for-php2shell-vulnerabilities/\">Industrial Vendors Check Products for PHP2Shell Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Siemens, Schneider Electric, ABB and others have confirmed that some of their products are affected by the PHP2Shell vulnerabilities",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-109618",
+        "CVE-2026-109619"
+      ],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Genesys Hack Exposes Customer Data From Internal Systems",
+    "link": "https://www.securityweek.com/genesys-hack-exposes-customer-data-from-internal-systems/",
+    "published": "Mon, 26 Oct 2026 14:40:48 +0000",
+    "summary": "<p>The Genesys Cloud, Genesys Engage, and Genesys Engage Cloud platforms were not affected.</p>\n<p>The post <a href=\"https://www.securityweek.com/genesys-hack-exposes-customer-data-from-internal-systems/\">Genesys Hack Exposes Customer Data From Internal Systems</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The Genesys Cloud, Genesys Engage, and Genesys Engage Cloud platforms were not affected",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Stolen AI Reasoning Could Help China Build Cheaper Rivals",
+    "link": "https://www.securityweek.com/stolen-ai-reasoning-could-help-china-build-cheaper-rivals/",
+    "published": "Mon, 26 Oct 2026 14:30:09 +0000",
+    "summary": "<p>Xint says a flaw in OpenAI’s compaction process let researchers move reasoning traces between models, potentially making it cheaper to distill a rival AI.</p>\n<p>The post <a href=\"https://www.securityweek.com/stolen-ai-reasoning-could-help-china-build-cheaper-rivals/\">Stolen AI Reasoning Could Help China Build Cheaper Rivals</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Xint says a flaw in OpenAI’s compaction process let researchers move reasoning traces between models, potentially making it cheaper to distill a rival AI",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "PHP2Shell Exploitation Moves From Probes to Working Shells",
+    "link": "https://www.securityweek.com/php2shell-exploitation-moves-from-probes-to-working-shells/",
+    "published": "Mon, 26 Oct 2026 13:30:10 +0000",
+    "summary": "<p>Attackers successfully exploited the PHP2Shell flaws against honeypots, launching 35 shells from two IP addresses on October 24.</p>\n<p>The post <a href=\"https://www.securityweek.com/php2shell-exploitation-moves-from-probes-to-working-shells/\">PHP2Shell Exploitation Moves From Probes to Working Shells </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Attackers successfully exploited the PHP2Shell flaws against honeypots, launching 35 shells from two IP addresses on October 24",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-109618",
+        "CVE-2026-109619"
+      ],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "953 Online Stores Infected in Long-Lasting Malware Campaign",
+    "link": "https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/",
+    "published": "Mon, 26 Oct 2026 12:46:44 +0000",
+    "summary": "<p>Small loader code injected into the stores served a payload to visitors or did nothing to avoid detection.</p>\n<p>The post <a href=\"https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/\">953 Online Stores Infected in Long-Lasting Malware Campaign</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Small loader code injected into the stores served a payload to visitors or did nothing to avoid detection",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-48356",
+        "CVE-2025-54236"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "APT",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Dutch Police Arrest Two Over NFC Relay Attacks That Drained $400,000+ From Bank Accounts",
+    "link": "https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/",
+    "published": "Mon, 26 Oct 2026 11:47:52 +0000",
+    "summary": "<p>The individuals called victims and persuaded them to install an app and scan their credit cards to loot their bank accounts.</p>\n<p>The post <a href=\"https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/\">Dutch Police Arrest Two Over NFC Relay Attacks That Drained $400,000+ From Bank Accounts</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The individuals called victims and persuaded them to install an app and scan their credit cards to loot their bank accounts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Phishing",
+        "APT",
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages",
+    "link": "https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/",
+    "published": "Mon, 26 Oct 2026 10:21:57 +0000",
+    "summary": "<p>An out-of-bounds write in Google’s Brotli decoder affects Node.js, .NET, PowerShell, and Python packages, and can lead to code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/\">Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "An out-of-bounds write in Google’s Brotli decoder affects Node",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-111497"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Mythos 5 Ignored Real-World Harm in July Attack",
+    "link": "https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/",
+    "published": "Mon, 26 Oct 2026 09:10:03 +0000",
+    "summary": "<p>The model engaged in severe overreach and dishonesty, creating fake identities and submitting malicious code on GitHub.</p>\n<p>The post <a href=\"https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/\">Mythos 5 Ignored Real-World Harm in July Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The model engaged in severe overreach and dishonesty, creating fake identities and submitting malicious code on GitHub",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "APT"
       ]
     }
   },
@@ -607,177 +772,6 @@
         "Malware",
         "APT",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Mirai Botnet Operators Join PHP2Shell Attacks as ASLR Bypass Exploits Emerge",
-    "link": "https://www.securityweek.com/mirai-botnet-operators-join-php2shell-attacks-as-aslr-bypass-exploits-emerge/",
-    "published": "Fri, 23 Oct 2026 12:45:52 +0000",
-    "summary": "<p>Researchers tie PHP2Shell attempts to a Mirai botnet and show an ASLR bypass, but no successful compromise has been confirmed yet.</p>\n<p>The post <a href=\"https://www.securityweek.com/mirai-botnet-operators-join-php2shell-attacks-as-aslr-bypass-exploits-emerge/\">Mirai Botnet Operators Join PHP2Shell Attacks as ASLR Bypass Exploits Emerge</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Researchers tie PHP2Shell attempts to a Mirai botnet and show an ASLR bypass, but no successful compromise has been confirmed yet",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-109619",
-        "CVE-2026-109618"
-      ],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability",
-        "Malware",
-        "DDoS"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "China APT Uses AI Pentest Tool Artex in ConnectWise Attacks",
-    "link": "https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/",
-    "published": "Fri, 23 Oct 2026 10:31:16 +0000",
-    "summary": "<p>The state-sponsored hackers targeted hundreds of organizations and gained privileged access to some environments.</p>\n<p>The post <a href=\"https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/\">China APT Uses AI Pentest Tool Artex in ConnectWise Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The state-sponsored hackers targeted hundreds of organizations and gained privileged access to some environments",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "APT",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Attackers Exploit Third Arista VCO Zero-Day in Four Months",
-    "link": "https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/",
-    "published": "Fri, 23 Oct 2026 09:58:34 +0000",
-    "summary": "<p>The critical-severity SQL injection flaw allows attackers to access privileged internal functionality and gain operator privileges.</p>\n<p>The post <a href=\"https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/\">Attackers Exploit Third Arista VCO Zero-Day in Four Months</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The critical-severity SQL injection flaw allows attackers to access privileged internal functionality and gain operator privileges",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-16812",
-        "CVE-2026-114625",
-        "CVE-2026-93952"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "11 Million Impacted by Capcom Data Breach",
-    "link": "https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/",
-    "published": "Fri, 23 Oct 2026 08:34:14 +0000",
-    "summary": "<p>The hackers stole 11 million email addresses from CAPCOM ID and changed the login passwords for 196 accounts.</p>\n<p>The post <a href=\"https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/\">11 Million Impacted by Capcom Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The hackers stole 11 million email addresses from CAPCOM ID and changed the login passwords for 196 accounts",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Quest Diagnostics Data Breach Exposed ‘Certain Patient Records’",
-    "link": "https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/",
-    "published": "Fri, 23 Oct 2026 08:25:06 +0000",
-    "summary": "<p>In a regulatory filing, Quest Diagnostics reported unauthorized access to its Quanum Lab Services Manager, a platform where certain clients can place test orders.</p>\n<p>The post <a href=\"https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/\">Quest Diagnostics Data Breach Exposed &#8216;Certain Patient Records&#8217;</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "In a regulatory filing, Quest Diagnostics reported unauthorized access to its Quanum Lab Services Manager, a platform where certain clients can place test orders",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "LiteLLM Compromised in Fresh Supply Chain Attack",
-    "link": "https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/",
-    "published": "Fri, 23 Oct 2026 08:10:46 +0000",
-    "summary": "<p>Hackers used compromised GitHub CLI OAuth tokens to push and approve malicious packages on PyPI and Docker.</p>\n<p>The post <a href=\"https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/\">LiteLLM Compromised in Fresh Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Hackers used compromised GitHub CLI OAuth tokens to push and approve malicious packages on PyPI and Docker",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Malware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Atlassian Patches 75 Flaws in Data Center and Server Products",
-    "link": "https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/",
-    "published": "Fri, 23 Oct 2026 07:54:47 +0000",
-    "summary": "<p>Atlassian’s October bulletin lists 176 vulnerability entries, including 14 critical-severity issues, all in third-party components.</p>\n<p>The post <a href=\"https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/\">Atlassian Patches 75 Flaws in Data Center and Server Products</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Atlassian’s October bulletin lists 176 vulnerability entries, including 14 critical-severity issues, all in third-party components",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-77185",
-        "CVE-2026-75595",
-        "CVE-2026-65182",
-        "CVE-2026-58062",
-        "CVE-2026-65637",
-        "CVE-2026-21589",
-        "CVE-2026-65905",
-        "CVE-2026-68525"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Iran’s Prince of Persia APT Hosts C&C in US for First Time Since 2016",
-    "link": "https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/",
-    "published": "Fri, 23 Oct 2026 06:39:29 +0000",
-    "summary": "<p>After a three-month lull, Prince of Persia hid a Tornado C&#038;C server on US shared hosting, its first US-based server since 2016.</p>\n<p>The post <a href=\"https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/\">Iran&#8217;s Prince of Persia APT Hosts C&#038;C in US for First Time Since 2016</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "After a three-month lull, Prince of Persia hid a Tornado C&C server on US shared hosting, its first US-based server since 2016",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "APT"
       ]
     }
   },
@@ -832,8 +826,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109619",
-        "CVE-2026-109618"
+        "CVE-2026-109618",
+        "CVE-2026-109619"
       ],
       "threat_categories": [
         "Ransomware",
@@ -931,9 +925,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-70229",
         "CVE-2026-70571",
-        "CVE-2026-96951"
+        "CVE-2026-96951",
+        "CVE-2026-70229"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1357,6 +1351,79 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Popcorn Time’s forgotten updater left millions of devices exposed to hijacking",
+    "link": "https://www.malwarebytes.com/blog/news/2026/10/popcorn-times-forgotten-updater-left-millions-of-devices-exposed-to-hijacking",
+    "published": "Mon, 26 Oct 2026 13:48:08 GMT",
+    "summary": "The update process for an abandoned streaming app could let attackers take over PCs. If you ever used Popcorn Time, check your devices.",
+    "analysis": {
+      "issue": "You may have forgotten about Popcorn Time",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "AI Halloween videos: Who’s getting your photos?",
+    "link": "https://www.malwarebytes.com/blog/ai/2026/10/ai-halloween-videos-whos-getting-your-photos",
+    "published": "Mon, 26 Oct 2026 12:51:28 GMT",
+    "summary": "Before you turn yourself into a zombie, check who’s getting your photos. Some Halloween AI sites offer little information about who's behind them.",
+    "analysis": {
+      "issue": "This Halloween, AI is doing the costumes",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Patient records exposed in Quest breach: What you need to know",
+    "link": "https://www.malwarebytes.com/blog/data-breaches/2026/10/patient-records-exposed-in-quest-breach-what-you-need-to-know",
+    "published": "Mon, 26 Oct 2026 11:34:00 GMT",
+    "summary": "Quest Diagnostics says a breach affected personal information and patient records. Here’s what patients need to know and what to do now.",
+    "analysis": {
+      "issue": "Quest Diagnostics has confirmed that an unauthorized party accessed a system healthcare providers use to order laboratory tests and view results, affecting personal information and patient records",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "A week in security (October 19 – October 25)",
+    "link": "https://www.malwarebytes.com/blog/news/2026/10/a-week-in-security-october-19-october-25",
+    "published": "Mon, 26 Oct 2026 07:00:00 GMT",
+    "summary": "A list of topics we covered in the week of October 19 to October 25 of 2026",
+    "analysis": {
+      "issue": "Last week on Malwarebytes Labs: Stay safe",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Resident Evil maker Capcom warns of phishing after 11.7 million records exposed",
     "link": "https://www.malwarebytes.com/blog/data-breaches/2026/10/resident-evil-maker-capcom-warns-of-phishing-after-11-7-million-records-exposed",
     "published": "Fri, 23 Oct 2026 13:07:52 GMT",
@@ -1465,79 +1532,18 @@
     }
   },
   {
-    "source": "Malwarebytes",
-    "title": "WhatsApp’s chatbot was given hidden instructions to not mention privacy regulators",
-    "link": "https://www.malwarebytes.com/blog/news/2026/10/whatsapp-chatbot-privacy-regulators",
-    "published": "Wed, 21 Oct 2026 18:49:04 GMT",
-    "summary": "Hidden instructions told WhatsApp’s chatbot not to suggest privacy regulators to users struggling to delete their accounts.",
+    "source": "Crowdstrike Blog",
+    "title": "Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation",
+    "link": "https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/",
+    "published": "Oct 23, 2026 00:00:00-0500",
+    "summary": "",
     "analysis": {
-      "issue": "WhatsApp instructed its AI support chatbot not to recommend contacting privacy regulators when users couldn’t delete their accounts, researchers found",
+      "issue": "Threat actors have not yet exploited PHP2Shell, but the speed with which they attempted to weaponize the vulns highlights how swiftly attackers adopt new exploits",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "PHP2Shell: Why many websites had to go offline",
-    "link": "https://www.malwarebytes.com/blog/bugs/2026/10/php2shell-why-websites-are-going-offline-for-emergency-security-updates",
-    "published": "Wed, 21 Oct 2026 16:14:18 GMT",
-    "summary": "Many sites were taken offline so admins could patch two critical PHP flaws that could have let attackers run malicious code on their servers.",
-    "analysis": {
-      "issue": "If you’ve encountered websites in maintenance mode today, it may be a security precaution",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-109619",
-        "CVE-2026-109618"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Fake Amazon Music x YouTube deal lures creators into a Google login trap",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/10/fake-amazon-music-x-youtube-deal-lures-creators-into-a-google-login-trap",
-    "published": "Wed, 21 Oct 2026 12:45:00 GMT",
-    "summary": "A convincing “creator portal” uses your own YouTube videos and viewing figures to steal your Google login.",
-    "analysis": {
-      "issue": "On August 27, YouTube announced that Amazon had joined its Shopping Affiliate Program",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Signal bug could let someone keep listening after you hang up",
-    "link": "https://www.malwarebytes.com/blog/bugs/2026/10/signal-bug-could-let-someone-keep-listening-after-you-hang-up",
-    "published": "Wed, 21 Oct 2026 11:37:57 GMT",
-    "summary": "A flaw in Signal’s calling library could let another participant keep hearing you after you hang up. Update your app to get the latest fixes.",
-    "analysis": {
-      "issue": "A recently disclosed flaw in Signal’s calling software could allow another participant to keep hearing you after you hang up",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-113380"
-      ],
       "threat_categories": [
         "Vulnerability"
       ]
@@ -1563,24 +1569,6 @@
   },
   {
     "source": "Crowdstrike Blog",
-    "title": "Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation",
-    "link": "https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/",
-    "published": "Oct 23, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "Threat actors have not yet exploited PHP2Shell, but the speed with which they attempted to weaponize the vulns highlights how swiftly attackers adopt new exploits",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
     "title": "CrowdStrike Protects Customers from Threats Delivered via PHP2Shell",
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-protects-customers-from-php-rce-zero-days/",
     "published": "Oct 21, 2026 00:00:00-0500",
@@ -1592,8 +1580,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-109619",
-        "CVE-2026-109618"
+        "CVE-2026-109618",
+        "CVE-2026-109619"
       ],
       "threat_categories": [
         "Vulnerability"
