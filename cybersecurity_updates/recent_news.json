@@ -19,10 +19,10 @@
   },
   {
     "source": "The Hacker News",
-    "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+    "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
     "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
     "published": "Sun, 25 Oct 2026 22:49:46 +0530",
-    "summary": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619.\n\n\"In one case, the attackers targeted a government entity in Europe and within two hours of the initial exploitation they had successfully accessed password hashes and multi-factor",
+    "summary": "In an update, Palo Alto Networks Unit 42 said it's retracting its earlier assessment that the post-compromise activity targeting the European government agency involved the exploitation of the PHP2Shell flaws.\n\n\"What researchers saw was an attack against a European government agency executed in the context of a vulnerable PHP application,\" a spokesperson for the company told The Hacker News via",
     "analysis": {
       "issue": "Attackers exploited PHP2Shell to access MFA secrets and password hashes at a European government entity, with signs of agentic AI use",
       "solution": null,
@@ -309,8 +309,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-115560",
-        "CVE-2026-109618",
-        "CVE-2026-109619"
+        "CVE-2026-109619",
+        "CVE-2026-109618"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -558,10 +558,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69730",
+        "CVE-2026-81963",
         "CVE-2026-69829",
         "CVE-2026-85880",
-        "CVE-2026-81963"
+        "CVE-2026-69730"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -623,8 +623,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109618",
-        "CVE-2026-109619"
+        "CVE-2026-109619",
+        "CVE-2026-109618"
       ],
       "threat_categories": [
         "Data Breach",
@@ -748,13 +748,13 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-77185",
-        "CVE-2026-68525",
-        "CVE-2026-65637",
         "CVE-2026-75595",
+        "CVE-2026-65182",
+        "CVE-2026-58062",
+        "CVE-2026-65637",
         "CVE-2026-21589",
         "CVE-2026-65905",
-        "CVE-2026-58062",
-        "CVE-2026-65182"
+        "CVE-2026-68525"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -832,8 +832,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109618",
-        "CVE-2026-109619"
+        "CVE-2026-109619",
+        "CVE-2026-109618"
       ],
       "threat_categories": [
         "Ransomware",
@@ -931,9 +931,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-96951",
         "CVE-2026-70229",
-        "CVE-2026-70571"
+        "CVE-2026-70571",
+        "CVE-2026-96951"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1495,8 +1495,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109618",
-        "CVE-2026-109619"
+        "CVE-2026-109619",
+        "CVE-2026-109618"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1592,8 +1592,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-109618",
-        "CVE-2026-109619"
+        "CVE-2026-109619",
+        "CVE-2026-109618"
       ],
       "threat_categories": [
         "Vulnerability"
