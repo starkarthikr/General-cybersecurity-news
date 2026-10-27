@@ -1,10 +1,29 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-27 14:49:00 UTC
+**Last Updated:** 2026-10-27 17:47:57 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens](https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html)
+### 1. [GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption](https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 27 Oct 2026 19:29:48 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads](https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 27 Oct 2026 19:29:09 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-86950  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens](https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 27 Oct 2026 17:39:50 +0530  
@@ -13,7 +32,7 @@
 
 ---
 
-### 2. [Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key](https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html)
+### 4. [Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key](https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 27 Oct 2026 17:16:00 +0530  
@@ -22,7 +41,7 @@
 
 ---
 
-### 3. [AI-Generated Fake Login Pages Are Making Account Takeovers Easier](https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html)
+### 5. [AI-Generated Fake Login Pages Are Making Account Takeovers Easier](https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 27 Oct 2026 17:02:46 +0530  
@@ -31,7 +50,7 @@
 
 ---
 
-### 4. [Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption](https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html)
+### 6. [Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption](https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 27 Oct 2026 17:02:31 +0530  
@@ -40,7 +59,7 @@
 
 ---
 
-### 5. [Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers](https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html)
+### 7. [Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers](https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 27 Oct 2026 15:03:06 +0530  
@@ -49,7 +68,7 @@
 
 ---
 
-### 6. [OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections](https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html)
+### 8. [OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections](https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 27 Oct 2026 13:52:43 +0530  
@@ -58,7 +77,7 @@
 
 ---
 
-### 7. [Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses](https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html)
+### 9. [Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses](https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 27 Oct 2026 12:04:47 +0530  
@@ -67,7 +86,7 @@
 
 ---
 
-### 8. [CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution](https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html)
+### 10. [CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution](https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 27 Oct 2026 10:07:59 +0530  
@@ -76,25 +95,16 @@
 
 ---
 
-### 9. [Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento](https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html)
+### 11. [Warp discloses breach exposing AI agent logs, user telemetry data](https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/)
 
-**Source:** The Hacker News  
-**Published:** Mon, 26 Oct 2026 23:42:22 +0530  
+**Source:** Bleeping Computer  
+**Published:** Tue, 27 Oct 2026 12:15:39 -0400  
 **Severity:** Low  
-**Categories:** General Security  
+**Categories:** Vulnerability, Supply Chain  
 
 ---
 
-### 10. [PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw](https://thehackernews.com/2026/10/php-issues-second-windows-security.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 26 Oct 2026 23:15:57 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 11. [Tailscale warns of SSH flaws allowing root privilege escalation](https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/)
+### 12. [Tailscale warns of SSH flaws allowing root privilege escalation](https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 27 Oct 2026 10:09:46 -0400  
@@ -103,7 +113,7 @@
 
 ---
 
-### 12. [The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest](https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/)
+### 13. [The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest](https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 27 Oct 2026 10:01:11 -0400  
@@ -112,7 +122,7 @@
 
 ---
 
-### 13. [Apple backports CoreGraphics zero-day patches to older iPhones](https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/)
+### 14. [Apple backports CoreGraphics zero-day patches to older iPhones](https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 27 Oct 2026 06:36:12 -0400  
@@ -122,7 +132,7 @@
 
 ---
 
-### 14. [Energy giant ENGIE discloses data breach affecting customers](https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/)
+### 15. [Energy giant ENGIE discloses data breach affecting customers](https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 27 Oct 2026 05:25:50 -0400  
@@ -131,17 +141,17 @@
 
 ---
 
-### 15. [CISA confirms PHP2Shell vulnerabilities now exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/)
+### 16. [CISA confirms PHP2Shell vulnerabilities now exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 27 Oct 2026 04:20:54 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109618, CVE-2026-109619  
+**CVEs:** CVE-2026-109619, CVE-2026-109618  
 **Categories:** Data Breach, Vulnerability  
 
 ---
 
-### 16. [University of Copenhagen data breach exposes data of 525,000 people](https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/)
+### 17. [University of Copenhagen data breach exposes data of 525,000 people](https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 26 Oct 2026 18:20:36 -0400  
@@ -150,7 +160,7 @@
 
 ---
 
-### 17. [Former pentester used ARTEX AI to steal 8.2 million data records](https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/)
+### 18. [Former pentester used ARTEX AI to steal 8.2 million data records](https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 26 Oct 2026 17:08:28 -0400  
@@ -159,7 +169,7 @@
 
 ---
 
-### 18. [OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/)
+### 19. [OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 26 Oct 2026 16:46:49 -0400  
@@ -168,22 +178,12 @@
 
 ---
 
-### 19. [DreamHost forces password resets in ongoing "incident"](https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/)
+### 20. [DreamHost forces password resets in ongoing "incident"](https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 26 Oct 2026 15:26:20 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 20. [Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches](https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 26 Oct 2026 12:27:57 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-111497  
-**Categories:** Vulnerability  
 
 ---
 
@@ -219,7 +219,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 13 Oct 2026 23:24:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-108398, CVE-2026-96951  
+**CVEs:** CVE-2026-96951, CVE-2026-108398  
 **Categories:** Vulnerability  
 
 ---
@@ -275,12 +275,21 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81963, CVE-2026-69829, CVE-2026-69730, CVE-2026-85880  
+**CVEs:** CVE-2026-69829, CVE-2026-85880, CVE-2026-81963, CVE-2026-69730  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 31. [Vendor Key Leak Puts Data of 238,000 Denver Health Plan Members at Risk](https://www.securityweek.com/vendor-key-leak-puts-data-of-238000-denver-health-plan-members-at-risk/)
+### 31. [Tailscale Rushes Patches After Uncoordinated Disclosure of ‘Tailworm’ Flaws](https://www.securityweek.com/tailscale-rushes-patches-after-uncoordinated-disclosure-of-tailworm-flaws/)
+
+**Source:** Security Week  
+**Published:** Tue, 27 Oct 2026 15:26:12 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, Phishing  
+
+---
+
+### 32. [Vendor Key Leak Puts Data of 238,000 Denver Health Plan Members at Risk](https://www.securityweek.com/vendor-key-leak-puts-data-of-238000-denver-health-plan-members-at-risk/)
 
 **Source:** Security Week  
 **Published:** Tue, 27 Oct 2026 13:30:28 +0000  
@@ -289,17 +298,17 @@
 
 ---
 
-### 32. [HPE Patches Dozens of Critical Flaws in Networking Products](https://www.securityweek.com/hpe-patches-dozens-of-critical-flaws-in-networking-products/)
+### 33. [HPE Patches Dozens of Critical Flaws in Networking Products](https://www.securityweek.com/hpe-patches-dozens-of-critical-flaws-in-networking-products/)
 
 **Source:** Security Week  
 **Published:** Tue, 27 Oct 2026 13:13:58 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-79844, CVE-2026-79851, CVE-2026-79849, CVE-2026-79846, CVE-2026-79845, CVE-2026-79850, CVE-2026-79848, CVE-2026-79847  
+**CVEs:** CVE-2026-79844, CVE-2026-79847, CVE-2026-79846, CVE-2026-79845, CVE-2026-79848, CVE-2026-79851, CVE-2026-79850, CVE-2026-79849  
 **Categories:** Vulnerability  
 
 ---
 
-### 33. [Unexplained DreamHost Incident Prompts Email, FTP Password Resets](https://www.securityweek.com/unexplained-dreamhost-incident-prompts-email-ftp-password-resets/)
+### 34. [Unexplained DreamHost Incident Prompts Email, FTP Password Resets](https://www.securityweek.com/unexplained-dreamhost-incident-prompts-email-ftp-password-resets/)
 
 **Source:** Security Week  
 **Published:** Tue, 27 Oct 2026 12:02:06 +0000  
@@ -308,7 +317,7 @@
 
 ---
 
-### 34. [iOS, macOS 27.2 Patch 286 Bugs; Fix for Exploited Flaw Backported to iOS 18](https://www.securityweek.com/ios-macos-27-2-patch-286-bugs-fix-for-exploited-flaw-backported-to-ios-18/)
+### 35. [iOS, macOS 27.2 Patch 286 Bugs; Fix for Exploited Flaw Backported to iOS 18](https://www.securityweek.com/ios-macos-27-2-patch-286-bugs-fix-for-exploited-flaw-backported-to-ios-18/)
 
 **Source:** Security Week  
 **Published:** Tue, 27 Oct 2026 11:49:57 +0000  
@@ -318,7 +327,7 @@
 
 ---
 
-### 35. [Risks Spelled Out for Anthropic Investors Include Possible Harms From Runaway AI](https://www.securityweek.com/risks-spelled-out-for-anthropic-investors-include-possible-harms-from-runaway-ai/)
+### 36. [Risks Spelled Out for Anthropic Investors Include Possible Harms From Runaway AI](https://www.securityweek.com/risks-spelled-out-for-anthropic-investors-include-possible-harms-from-runaway-ai/)
 
 **Source:** Security Week  
 **Published:** Tue, 27 Oct 2026 10:44:20 +0000  
@@ -327,17 +336,17 @@
 
 ---
 
-### 36. [This is Fine: What NetScaler Zero-Days Tell Us About the New Normal](https://www.securityweek.com/this-is-fine-what-netscaler-zero-days-tell-us-about-the-new-normal/)
+### 37. [This is Fine: What NetScaler Zero-Days Tell Us About the New Normal](https://www.securityweek.com/this-is-fine-what-netscaler-zero-days-tell-us-about-the-new-normal/)
 
 **Source:** Security Week  
 **Published:** Tue, 27 Oct 2026 10:02:24 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-88778, CVE-2026-88787, CVE-2026-88771, CVE-2026-88779  
+**CVEs:** CVE-2026-88771, CVE-2026-88778, CVE-2026-88787, CVE-2026-88779  
 **Categories:** Vulnerability, APT  
 
 ---
 
-### 37. [Dead Popcorn Time Updater Put Millions of Computers at Risk of Takeover](https://www.securityweek.com/dead-popcorn-time-updater-put-millions-of-computers-at-risk-of-takeover/)
+### 38. [Dead Popcorn Time Updater Put Millions of Computers at Risk of Takeover](https://www.securityweek.com/dead-popcorn-time-updater-put-millions-of-computers-at-risk-of-takeover/)
 
 **Source:** Security Week  
 **Published:** Tue, 27 Oct 2026 09:44:50 +0000  
@@ -347,7 +356,7 @@
 
 ---
 
-### 38. [Maritime Coalition Launches Free Vulnerability Database for Ship and Port Systems](https://www.securityweek.com/maritime-coalition-launches-free-vulnerability-database-for-ship-and-port-systems/)
+### 39. [Maritime Coalition Launches Free Vulnerability Database for Ship and Port Systems](https://www.securityweek.com/maritime-coalition-launches-free-vulnerability-database-for-ship-and-port-systems/)
 
 **Source:** Security Week  
 **Published:** Tue, 27 Oct 2026 07:14:27 +0000  
@@ -356,21 +365,12 @@
 
 ---
 
-### 39. [Cybersecurity Issue Forces a Major New Mexico Hospital to Divert Patients and Close Clinics](https://www.securityweek.com/cybersecurity-issue-forces-a-major-new-mexico-hospital-to-divert-patients-and-close-clinics/)
+### 40. [Cybersecurity Issue Forces a Major New Mexico Hospital to Divert Patients and Close Clinics](https://www.securityweek.com/cybersecurity-issue-forces-a-major-new-mexico-hospital-to-divert-patients-and-close-clinics/)
 
 **Source:** Security Week  
 **Published:** Tue, 27 Oct 2026 01:30:00 +0000  
 **Severity:** High  
 **Categories:** Ransomware  
-
----
-
-### 40. [Anthropic Files for Potentially the Biggest IPO Ever as CEO Warns of Risk to Humanity From AI](https://www.securityweek.com/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-risk-to-humanity-from-ai/)
-
-**Source:** Security Week  
-**Published:** Mon, 26 Oct 2026 20:20:56 +0000  
-**Severity:** High  
-**Categories:** Supply Chain  
 
 ---
 
@@ -407,7 +407,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 21 Oct 2026 15:10:53 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109618, CVE-2026-109619  
+**CVEs:** CVE-2026-109619, CVE-2026-109618  
 **Categories:** Ransomware, Vulnerability  
 
 ---
@@ -436,7 +436,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 15 Oct 2026 18:00:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2015-1000013, CVE-2014-125110  
+**CVEs:** CVE-2014-125110, CVE-2015-1000013  
 **Categories:** Vulnerability  
 
 ---
@@ -455,7 +455,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 13 Oct 2026 20:37:58 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-70571, CVE-2026-70229, CVE-2026-96951  
+**CVEs:** CVE-2026-96951, CVE-2026-70229, CVE-2026-70571  
 **Categories:** Vulnerability  
 
 ---
@@ -639,7 +639,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -654,7 +654,16 @@
 
 ---
 
-### 71. [Artificial Intimacy: Love and lies in the age of AI](https://www.malwarebytes.com/blog/ai/2026/10/artificial-intimacy-love-and-lies-in-the-age-of-ai)
+### 71. [Five election scams to watch out for](https://www.malwarebytes.com/blog/scams/2026/10/five-election-scams-to-watch-out-for)
+
+**Source:** Malwarebytes  
+**Published:** Tue, 27 Oct 2026 15:36:09 GMT  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 72. [Artificial Intimacy: Love and lies in the age of AI](https://www.malwarebytes.com/blog/ai/2026/10/artificial-intimacy-love-and-lies-in-the-age-of-ai)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 27 Oct 2026 12:40:00 GMT  
@@ -663,7 +672,7 @@
 
 ---
 
-### 72. [The web’s having a rough week. Here’s how to browse safely](https://www.malwarebytes.com/blog/news/2026/10/the-webs-having-a-rough-week-heres-how-to-browse-safely)
+### 73. [The web’s having a rough week. Here’s how to browse safely](https://www.malwarebytes.com/blog/news/2026/10/the-webs-having-a-rough-week-heres-how-to-browse-safely)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 27 Oct 2026 12:22:37 GMT  
@@ -672,7 +681,7 @@
 
 ---
 
-### 73. [Samsung TVs without mics may listen through soundbars, researcher says](https://www.malwarebytes.com/blog/privacy/2026/10/samsung-tvs-without-mics-may-listen-through-soundbars-researcher-says)
+### 74. [Samsung TVs without mics may listen through soundbars, researcher says](https://www.malwarebytes.com/blog/privacy/2026/10/samsung-tvs-without-mics-may-listen-through-soundbars-researcher-says)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 27 Oct 2026 10:44:40 GMT  
@@ -681,7 +690,7 @@
 
 ---
 
-### 74. [Popcorn Time’s forgotten updater left millions of devices exposed to hijacking](https://www.malwarebytes.com/blog/news/2026/10/popcorn-times-forgotten-updater-left-millions-of-devices-exposed-to-hijacking)
+### 75. [Popcorn Time’s forgotten updater left millions of devices exposed to hijacking](https://www.malwarebytes.com/blog/news/2026/10/popcorn-times-forgotten-updater-left-millions-of-devices-exposed-to-hijacking)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 26 Oct 2026 13:48:08 GMT  
@@ -690,7 +699,7 @@
 
 ---
 
-### 75. [AI Halloween videos: Who’s getting your photos?](https://www.malwarebytes.com/blog/ai/2026/10/ai-halloween-videos-whos-getting-your-photos)
+### 76. [AI Halloween videos: Who’s getting your photos?](https://www.malwarebytes.com/blog/ai/2026/10/ai-halloween-videos-whos-getting-your-photos)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 26 Oct 2026 12:51:28 GMT  
@@ -699,7 +708,7 @@
 
 ---
 
-### 76. [Patient records exposed in Quest breach: What you need to know](https://www.malwarebytes.com/blog/data-breaches/2026/10/patient-records-exposed-in-quest-breach-what-you-need-to-know)
+### 77. [Patient records exposed in Quest breach: What you need to know](https://www.malwarebytes.com/blog/data-breaches/2026/10/patient-records-exposed-in-quest-breach-what-you-need-to-know)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 26 Oct 2026 11:34:00 GMT  
@@ -708,7 +717,7 @@
 
 ---
 
-### 77. [A week in security (October 19 – October 25)](https://www.malwarebytes.com/blog/news/2026/10/a-week-in-security-october-19-october-25)
+### 78. [A week in security (October 19 – October 25)](https://www.malwarebytes.com/blog/news/2026/10/a-week-in-security-october-19-october-25)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 26 Oct 2026 07:00:00 GMT  
@@ -717,7 +726,7 @@
 
 ---
 
-### 78. [Resident Evil maker Capcom warns of phishing after 11.7 million records exposed](https://www.malwarebytes.com/blog/data-breaches/2026/10/resident-evil-maker-capcom-warns-of-phishing-after-11-7-million-records-exposed)
+### 79. [Resident Evil maker Capcom warns of phishing after 11.7 million records exposed](https://www.malwarebytes.com/blog/data-breaches/2026/10/resident-evil-maker-capcom-warns-of-phishing-after-11-7-million-records-exposed)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 23 Oct 2026 13:07:52 GMT  
@@ -726,21 +735,12 @@
 
 ---
 
-### 79. [Crime Stoppers chapter freezes tips after breach breaks anonymity promise](https://www.malwarebytes.com/blog/data-breaches/2026/10/crime-stoppers-chapter-freezes-tips-after-breach-breaks-anonymity-promise)
+### 80. [Crime Stoppers chapter freezes tips after breach breaks anonymity promise](https://www.malwarebytes.com/blog/data-breaches/2026/10/crime-stoppers-chapter-freezes-tips-after-breach-breaks-anonymity-promise)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 23 Oct 2026 09:57:48 GMT  
 **Severity:** Low  
 **Categories:** APT  
-
----
-
-### 80. [Facebook’s misleading privacy claims land Meta a $25 billion penalty](https://www.malwarebytes.com/blog/news/2026/10/facebooks-misleading-privacy-claims-land-meta-a-25-billion-penalty)
-
-**Source:** Malwarebytes  
-**Published:** Thu, 22 Oct 2026 16:59:22 GMT  
-**Severity:** Low  
-**Categories:** Supply Chain  
 
 ---
 
@@ -767,7 +767,7 @@
 **Source:** Crowdstrike Blog  
 **Published:** Oct 21, 2026 00:00:00-0500  
 **Severity:** Low  
-**CVEs:** CVE-2026-109618, CVE-2026-109619  
+**CVEs:** CVE-2026-109619, CVE-2026-109618  
 **Categories:** Vulnerability  
 
 ---

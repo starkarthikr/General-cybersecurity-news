@@ -1,6 +1,44 @@
 [
   {
     "source": "The Hacker News",
+    "title": "GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption",
+    "link": "https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html",
+    "published": "Tue, 27 Oct 2026 19:29:48 +0530",
+    "summary": "The GoAhead embedded web server loaded a certificate revocation list into its default TLS backend but never turned revocation checking on, so a revoked client certificate could still pass login on affected setups.\n\nThe flaw is in builds that use the OpenSSL backend with mutual-TLS, where the server checks a client certificate and vice versa, and a revocation list is configured to block revoked",
+    "analysis": {
+      "issue": "GoAhead can accept revoked client certificates on affected OpenSSL mutual-TLS builds despite configured revocation lists; version 6",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads",
+    "link": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
+    "published": "Tue, 27 Oct 2026 19:29:09 +0530",
+    "summary": "Apple on Monday backported fixes for a high-severity security flaw that was exploited in real-world cyber attacks to older devices.\n\nThe vulnerability, tracked as CVE-2026-86950 (CVSS score: 8.8), is an out-of-bounds write affecting CoreGraphics that could result in arbitrary code execution when processing a maliciously crafted file.\n\nPatches for the flaw were released last month by Apple in",
+    "analysis": {
+      "issue": "Apple backports fixes for CVE-2026-86950 to older iPhones and iPads after reports of possible targeted exploitation of the CoreGraphics flaw",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-86950"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
     "link": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
     "published": "Tue, 27 Oct 2026 17:39:50 +0530",
@@ -145,38 +183,21 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
-    "link": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
-    "published": "Mon, 26 Oct 2026 23:42:22 +0530",
-    "summary": "An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025.\n\nAccording to Dutch e-commerce security company Sansec, the activity is designed to add a small piece of code to the store's pages that, when visited by unsuspecting users, serves malicious JavaScript loader code through Magento CMS blocks.\n\n\"When you",
+    "source": "Bleeping Computer",
+    "title": "Warp discloses breach exposing AI agent logs, user telemetry data",
+    "link": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
+    "published": "Tue, 27 Oct 2026 12:15:39 -0400",
+    "summary": "Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in the project's infrastructure. [...]",
     "analysis": {
-      "issue": "Hackers infected 953 online stores with JavaScript loaders hidden in Magento CMS blocks, using bot filtering to evade security scanners",
+      "issue": "Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in the project’s infrastructure",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
-    "link": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
-    "published": "Mon, 26 Oct 2026 23:15:57 +0530",
-    "summary": "PHP has rebuilt its official Windows packages for PHP 8.2 through 8.5 to fix CVE-2026-111497, a flaw in the Brotli compression library that the packages include. The flaw can let an attacker corrupt memory and potentially run code.\n\nPHP says the flaw can be reached through the cURL extension when the extension decompresses HTTP responses automatically. cURL leaves that off by default, but",
-    "analysis": {
-      "issue": "5 to fix a Brotli flaw that could enable code execution through automatic cURL decompression",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
+        "Vulnerability",
+        "Supply Chain"
       ]
     }
   },
@@ -267,8 +288,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109618",
-        "CVE-2026-109619"
+        "CVE-2026-109619",
+        "CVE-2026-109618"
       ],
       "threat_categories": [
         "Data Breach",
@@ -350,26 +371,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
-    "published": "Mon, 26 Oct 2026 12:27:57 -0400",
-    "summary": "A critical flaw dubbed 'HTTP2Shell' in Brotli, the C decoder library built into Node.js, could allow attackers to corrupt memory and access sensitive data. [...]",
-    "analysis": {
-      "issue": "A critical flaw dubbed 'HTTP2Shell' in Brotli, the C decoder library built into Node",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-111497"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
     "link": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
@@ -438,8 +439,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-108398",
-        "CVE-2026-96951"
+        "CVE-2026-96951",
+        "CVE-2026-108398"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -555,14 +556,33 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-81963",
         "CVE-2026-69829",
-        "CVE-2026-69730",
-        "CVE-2026-85880"
+        "CVE-2026-85880",
+        "CVE-2026-81963",
+        "CVE-2026-69730"
       ],
       "threat_categories": [
         "Vulnerability",
         "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Tailscale Rushes Patches After Uncoordinated Disclosure of ‘Tailworm’ Flaws",
+    "link": "https://www.securityweek.com/tailscale-rushes-patches-after-uncoordinated-disclosure-of-tailworm-flaws/",
+    "published": "Tue, 27 Oct 2026 15:26:12 +0000",
+    "summary": "<p>Tailscale is preparing a patch for Tailscale SSH flaws whose details went public over the weekend, before any fixes had been released.</p>\n<p>The post <a href=\"https://www.securityweek.com/tailscale-rushes-patches-after-uncoordinated-disclosure-of-tailworm-flaws/\">Tailscale Rushes Patches After Uncoordinated Disclosure of &#8216;Tailworm&#8217; Flaws</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Tailscale is preparing a patch for Tailscale SSH flaws whose details went public over the weekend, before any fixes had been released",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing"
       ]
     }
   },
@@ -599,13 +619,13 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-79844",
-        "CVE-2026-79851",
-        "CVE-2026-79849",
+        "CVE-2026-79847",
         "CVE-2026-79846",
         "CVE-2026-79845",
-        "CVE-2026-79850",
         "CVE-2026-79848",
-        "CVE-2026-79847"
+        "CVE-2026-79851",
+        "CVE-2026-79850",
+        "CVE-2026-79849"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -681,9 +701,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-88771",
         "CVE-2026-88778",
         "CVE-2026-88787",
-        "CVE-2026-88771",
         "CVE-2026-88779"
       ],
       "threat_categories": [
@@ -745,24 +765,6 @@
       "cves": [],
       "threat_categories": [
         "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Anthropic Files for Potentially the Biggest IPO Ever as CEO Warns of Risk to Humanity From AI",
-    "link": "https://www.securityweek.com/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-risk-to-humanity-from-ai/",
-    "published": "Mon, 26 Oct 2026 20:20:56 +0000",
-    "summary": "<p>A string of hacking incidents by rogue AI agents also has raised fears the technology will slip free of human control to carry out harmful, life-threatening tasks.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-risk-to-humanity-from-ai/\">Anthropic Files for Potentially the Biggest IPO Ever as CEO Warns of Risk to Humanity From AI</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "A string of hacking incidents by rogue AI agents also has raised fears the technology will slip free of human control to carry out harmful, life-threatening tasks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
       ]
     }
   },
@@ -835,8 +837,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109618",
-        "CVE-2026-109619"
+        "CVE-2026-109619",
+        "CVE-2026-109618"
       ],
       "threat_categories": [
         "Ransomware",
@@ -895,8 +897,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2015-1000013",
-        "CVE-2014-125110"
+        "CVE-2014-125110",
+        "CVE-2015-1000013"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -934,9 +936,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-70571",
+        "CVE-2026-96951",
         "CVE-2026-70229",
-        "CVE-2026-96951"
+        "CVE-2026-70571"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1308,8 +1310,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1334,6 +1336,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Five election scams to watch out for",
+    "link": "https://www.malwarebytes.com/blog/scams/2026/10/five-election-scams-to-watch-out-for",
+    "published": "Tue, 27 Oct 2026 15:36:09 GMT",
+    "summary": "Election messages can ask you to register, donate, take a survey, or buy merchandise. Here’s how to check before you click or pay.",
+    "analysis": {
+      "issue": "Elections give scammers plenty to work with: urgent deadlines, familiar faces, passionate supporters, and messages asking people to take action",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1502,24 +1522,6 @@
     }
   },
   {
-    "source": "Malwarebytes",
-    "title": "Facebook’s misleading privacy claims land Meta a $25 billion penalty",
-    "link": "https://www.malwarebytes.com/blog/news/2026/10/facebooks-misleading-privacy-claims-land-meta-a-25-billion-penalty",
-    "published": "Thu, 22 Oct 2026 16:59:22 GMT",
-    "summary": "Users were misled about who could access their personal information on Facebook. Now Meta has been ordered to pay $25 billion.",
-    "analysis": {
-      "issue": "Facebook’s Cambridge Analytica scandal may feel like very old news",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
     "source": "Crowdstrike Blog",
     "title": "Why Organizations Secure AI Agents with Falcon Guardian",
     "link": "https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/",
@@ -1568,8 +1570,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-109618",
-        "CVE-2026-109619"
+        "CVE-2026-109619",
+        "CVE-2026-109618"
       ],
       "threat_categories": [
         "Vulnerability"
