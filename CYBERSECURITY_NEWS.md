@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-27 17:47:57 UTC
+**Last Updated:** 2026-10-27 20:51:20 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption](https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html)
+### 1. [CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets](https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 27 Oct 2026 23:56:46 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption](https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 27 Oct 2026 19:29:48 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads](https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html)
+### 3. [Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads](https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 27 Oct 2026 19:29:09 +0530  
@@ -23,7 +32,7 @@
 
 ---
 
-### 3. [Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens](https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html)
+### 4. [Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens](https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 27 Oct 2026 17:39:50 +0530  
@@ -32,7 +41,7 @@
 
 ---
 
-### 4. [Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key](https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html)
+### 5. [Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key](https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 27 Oct 2026 17:16:00 +0530  
@@ -41,7 +50,7 @@
 
 ---
 
-### 5. [AI-Generated Fake Login Pages Are Making Account Takeovers Easier](https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html)
+### 6. [AI-Generated Fake Login Pages Are Making Account Takeovers Easier](https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 27 Oct 2026 17:02:46 +0530  
@@ -50,7 +59,7 @@
 
 ---
 
-### 6. [Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption](https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html)
+### 7. [Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption](https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 27 Oct 2026 17:02:31 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers](https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html)
+### 8. [Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers](https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 27 Oct 2026 15:03:06 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections](https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html)
+### 9. [OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections](https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 27 Oct 2026 13:52:43 +0530  
@@ -77,7 +86,7 @@
 
 ---
 
-### 9. [Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses](https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html)
+### 10. [Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses](https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 27 Oct 2026 12:04:47 +0530  
@@ -86,16 +95,16 @@
 
 ---
 
-### 10. [CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution](https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html)
+### 11. [Microsoft releases Windows OOB updates to distrust eMudhra certificates](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 27 Oct 2026 10:07:59 +0530  
+**Source:** Bleeping Computer  
+**Published:** Tue, 27 Oct 2026 14:20:28 -0400  
 **Severity:** Low  
-**Categories:** Vulnerability  
+**Categories:** General Security  
 
 ---
 
-### 11. [Warp discloses breach exposing AI agent logs, user telemetry data](https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/)
+### 12. [Warp discloses breach exposing AI agent logs, user telemetry data](https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 27 Oct 2026 12:15:39 -0400  
@@ -104,7 +113,7 @@
 
 ---
 
-### 12. [Tailscale warns of SSH flaws allowing root privilege escalation](https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/)
+### 13. [Tailscale warns of SSH flaws allowing root privilege escalation](https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 27 Oct 2026 10:09:46 -0400  
@@ -113,7 +122,7 @@
 
 ---
 
-### 13. [The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest](https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/)
+### 14. [The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest](https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 27 Oct 2026 10:01:11 -0400  
@@ -122,7 +131,7 @@
 
 ---
 
-### 14. [Apple backports CoreGraphics zero-day patches to older iPhones](https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/)
+### 15. [Apple backports CoreGraphics zero-day patches to older iPhones](https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 27 Oct 2026 06:36:12 -0400  
@@ -132,7 +141,7 @@
 
 ---
 
-### 15. [Energy giant ENGIE discloses data breach affecting customers](https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/)
+### 16. [Energy giant ENGIE discloses data breach affecting customers](https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 27 Oct 2026 05:25:50 -0400  
@@ -141,17 +150,17 @@
 
 ---
 
-### 16. [CISA confirms PHP2Shell vulnerabilities now exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/)
+### 17. [CISA confirms PHP2Shell vulnerabilities now exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 27 Oct 2026 04:20:54 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109619, CVE-2026-109618  
+**CVEs:** CVE-2026-109618, CVE-2026-109619  
 **Categories:** Data Breach, Vulnerability  
 
 ---
 
-### 17. [University of Copenhagen data breach exposes data of 525,000 people](https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/)
+### 18. [University of Copenhagen data breach exposes data of 525,000 people](https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 26 Oct 2026 18:20:36 -0400  
@@ -160,7 +169,7 @@
 
 ---
 
-### 18. [Former pentester used ARTEX AI to steal 8.2 million data records](https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/)
+### 19. [Former pentester used ARTEX AI to steal 8.2 million data records](https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 26 Oct 2026 17:08:28 -0400  
@@ -169,20 +178,11 @@
 
 ---
 
-### 19. [OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/)
+### 20. [OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 26 Oct 2026 16:46:49 -0400  
 **Severity:** High  
-**Categories:** General Security  
-
----
-
-### 20. [DreamHost forces password resets in ongoing "incident"](https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 26 Oct 2026 15:26:20 -0400  
-**Severity:** Low  
 **Categories:** General Security  
 
 ---
@@ -275,7 +275,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69829, CVE-2026-85880, CVE-2026-81963, CVE-2026-69730  
+**CVEs:** CVE-2026-69730, CVE-2026-81963, CVE-2026-85880, CVE-2026-69829  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -303,7 +303,7 @@
 **Source:** Security Week  
 **Published:** Tue, 27 Oct 2026 13:13:58 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-79844, CVE-2026-79847, CVE-2026-79846, CVE-2026-79845, CVE-2026-79848, CVE-2026-79851, CVE-2026-79850, CVE-2026-79849  
+**CVEs:** CVE-2026-79847, CVE-2026-79849, CVE-2026-79846, CVE-2026-79850, CVE-2026-79848, CVE-2026-79844, CVE-2026-79845, CVE-2026-79851  
 **Categories:** Vulnerability  
 
 ---
@@ -341,7 +341,7 @@
 **Source:** Security Week  
 **Published:** Tue, 27 Oct 2026 10:02:24 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-88771, CVE-2026-88778, CVE-2026-88787, CVE-2026-88779  
+**CVEs:** CVE-2026-88778, CVE-2026-88779, CVE-2026-88771, CVE-2026-88787  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -407,7 +407,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 21 Oct 2026 15:10:53 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109619, CVE-2026-109618  
+**CVEs:** CVE-2026-109618, CVE-2026-109619  
 **Categories:** Ransomware, Vulnerability  
 
 ---
@@ -455,7 +455,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 13 Oct 2026 20:37:58 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-96951, CVE-2026-70229, CVE-2026-70571  
+**CVEs:** CVE-2026-70571, CVE-2026-96951, CVE-2026-70229  
 **Categories:** Vulnerability  
 
 ---
@@ -767,7 +767,7 @@
 **Source:** Crowdstrike Blog  
 **Published:** Oct 21, 2026 00:00:00-0500  
 **Severity:** Low  
-**CVEs:** CVE-2026-109619, CVE-2026-109618  
+**CVEs:** CVE-2026-109618, CVE-2026-109619  
 **Categories:** Vulnerability  
 
 ---
