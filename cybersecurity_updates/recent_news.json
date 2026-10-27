@@ -184,6 +184,43 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "University of Copenhagen data breach exposes data of 525,000 people",
+    "link": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
+    "published": "Mon, 26 Oct 2026 18:20:36 -0400",
+    "summary": "The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people. [...]",
+    "analysis": {
+      "issue": "The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Former pentester used ARTEX AI to steal 8.2 million data records",
+    "link": "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/",
+    "published": "Mon, 26 Oct 2026 17:08:28 -0400",
+    "summary": "South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI pentesting framework used in most of the attacks. [...]",
+    "analysis": {
+      "issue": "South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI pentesting framework used in most of the attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/",
     "published": "Mon, 26 Oct 2026 16:46:49 -0400",
@@ -330,45 +367,6 @@
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
-    "link": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
-    "published": "Sun, 25 Oct 2026 11:49:38 -0400",
-    "summary": "Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]",
-    "analysis": {
-      "issue": "Researchers found a malicious AGENTS markdown instruction file in a customer’s Downloads folder that tricked an AI coding agent into installing a rogue npm package",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
-    "link": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
-    "published": "Sat, 24 Oct 2026 10:17:32 -0400",
-    "summary": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast. [...]",
-    "analysis": {
-      "issue": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Medium",
-      "cves": [
-        "CVE-2022-21894"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "APT"
       ]
     }
   },
@@ -558,14 +556,32 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69829",
         "CVE-2026-85880",
-        "CVE-2026-69730",
-        "CVE-2026-81963"
+        "CVE-2026-81963",
+        "CVE-2026-69829",
+        "CVE-2026-69730"
       ],
       "threat_categories": [
         "Vulnerability",
         "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Cybersecurity Issue Forces a Major New Mexico Hospital to Divert Patients and Close Clinics",
+    "link": "https://www.securityweek.com/cybersecurity-issue-forces-a-major-new-mexico-hospital-to-divert-patients-and-close-clinics/",
+    "published": "Tue, 27 Oct 2026 01:30:00 +0000",
+    "summary": "<p>The University of New Mexico Health System told people not to show up at its main hospital in Albuquerque and canceled appointments at more than 30 clinics.</p>\n<p>The post <a href=\"https://www.securityweek.com/cybersecurity-issue-forces-a-major-new-mexico-hospital-to-divert-patients-and-close-clinics/\">Cybersecurity Issue Forces a Major New Mexico Hospital to Divert Patients and Close Clinics</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The University of New Mexico Health System told people not to show up at its main hospital in Albuquerque and canceled appointments at more than 30 clinics",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
       ]
     }
   },
@@ -682,8 +698,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-48356",
-        "CVE-2025-54236"
+        "CVE-2025-54236",
+        "CVE-2026-48356"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -752,24 +768,6 @@
       "threat_categories": [
         "Vulnerability",
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave",
-    "link": "https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/",
-    "published": "Sun, 25 Oct 2026 11:00:00 +0000",
-    "summary": "<p>Founded in 2025 by Unit 8200 alumni, Tel Aviv-based Mave uses AI agents to investigate alerts across existing security stacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/\">Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Founded in 2025 by Unit 8200 alumni, Tel Aviv-based Mave uses AI agents to investigate alerts across existing security stacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
       ]
     }
   },
@@ -884,8 +882,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2014-125110",
-        "CVE-2015-1000013"
+        "CVE-2015-1000013",
+        "CVE-2014-125110"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -923,8 +921,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-70229",
         "CVE-2026-70571",
+        "CVE-2026-70229",
         "CVE-2026-96951"
       ],
       "threat_categories": [
@@ -1318,8 +1316,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1531,24 +1529,6 @@
   },
   {
     "source": "Crowdstrike Blog",
-    "title": "Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation",
-    "link": "https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/",
-    "published": "Oct 23, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "Threat actors have not yet exploited PHP2Shell, but the speed with which they attempted to weaponize the vulns highlights how swiftly attackers adopt new exploits",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
     "title": "Why Organizations Secure AI Agents with Falcon Guardian",
     "link": "https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/",
     "published": "Oct 23, 2026 00:00:00-0500",
@@ -1562,6 +1542,24 @@
       "cves": [],
       "threat_categories": [
         "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
+    "title": "Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation",
+    "link": "https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/",
+    "published": "Oct 23, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "Threat actors have not yet exploited PHP2Shell, but the speed with which they attempted to weaponize the vulns highlights how swiftly attackers adopt new exploits",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -1627,18 +1625,7 @@
     "title": "U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance",
     "link": "https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/",
     "published": "Oct 13, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "CrowdStrike collaborated with the FBI to disrupt several laptop farms that were operated by DPRK-nexus adversary FAMOUS CHOLLIMA to fraudulently employ operatives at American companies",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "APT"
-      ]
-    }
+    "summary": ""
   },
   {
     "source": "Crowdstrike Blog",

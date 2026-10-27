@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-26 21:08:04 UTC
+**Last Updated:** 2026-10-27 04:30:15 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -94,7 +94,25 @@
 
 ---
 
-### 11. [OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/)
+### 11. [University of Copenhagen data breach exposes data of 525,000 people](https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 26 Oct 2026 18:20:36 -0400  
+**Severity:** Critical  
+**Categories:** Data Breach, Phishing  
+
+---
+
+### 12. [Former pentester used ARTEX AI to steal 8.2 million data records](https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 26 Oct 2026 17:08:28 -0400  
+**Severity:** Low  
+**Categories:** Ransomware  
+
+---
+
+### 13. [OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 26 Oct 2026 16:46:49 -0400  
@@ -103,7 +121,7 @@
 
 ---
 
-### 12. [DreamHost forces password resets in ongoing "incident"](https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/)
+### 14. [DreamHost forces password resets in ongoing "incident"](https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 26 Oct 2026 15:26:20 -0400  
@@ -112,7 +130,7 @@
 
 ---
 
-### 13. [Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches](https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/)
+### 15. [Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches](https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 26 Oct 2026 12:27:57 -0400  
@@ -122,7 +140,7 @@
 
 ---
 
-### 14. [Microsoft releases emergency .NET patches for critical Brotli flaw](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-net-patches-for-critical-brotli-flaw/)
+### 16. [Microsoft releases emergency .NET patches for critical Brotli flaw](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-net-patches-for-critical-brotli-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 26 Oct 2026 11:38:24 -0400  
@@ -132,7 +150,7 @@
 
 ---
 
-### 15. [When an AI Agent Is the Incident, the Identity Record Is the Evidence](https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/)
+### 17. [When an AI Agent Is the Incident, the Identity Record Is the Evidence](https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 26 Oct 2026 10:00:10 -0400  
@@ -141,7 +159,7 @@
 
 ---
 
-### 16. [Chinese man extradited for role in $36 million cryptocurrency scam](https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/)
+### 18. [Chinese man extradited for role in $36 million cryptocurrency scam](https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 26 Oct 2026 09:56:44 -0400  
@@ -150,7 +168,7 @@
 
 ---
 
-### 17. [Kali Linux 2026.3 released with 6 new tools, desktop updates](https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/)
+### 19. [Kali Linux 2026.3 released with 6 new tools, desktop updates](https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 26 Oct 2026 06:26:52 -0400  
@@ -159,32 +177,13 @@
 
 ---
 
-### 18. [PHP2Shell security flaws now sucessfully exploited in the wild](https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/)
+### 20. [PHP2Shell security flaws now sucessfully exploited in the wild](https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 26 Oct 2026 05:19:57 -0400  
 **Severity:** Critical  
 **CVEs:** CVE-2026-109618, CVE-2026-109619  
 **Categories:** Vulnerability  
-
----
-
-### 19. [AI coding agents hijacked using AGENTS.md file in Downloads folder](https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/)
-
-**Source:** Bleeping Computer  
-**Published:** Sun, 25 Oct 2026 11:49:38 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot](https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 24 Oct 2026 10:17:32 -0400  
-**Severity:** Medium  
-**CVEs:** CVE-2022-21894  
-**Categories:** Vulnerability, APT  
 
 ---
 
@@ -276,12 +275,21 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69829, CVE-2026-85880, CVE-2026-69730, CVE-2026-81963  
+**CVEs:** CVE-2026-85880, CVE-2026-81963, CVE-2026-69829, CVE-2026-69730  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 31. [Anthropic Files for Potentially the Biggest IPO Ever as CEO Warns of Risk to Humanity From AI](https://www.securityweek.com/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-risk-to-humanity-from-ai/)
+### 31. [Cybersecurity Issue Forces a Major New Mexico Hospital to Divert Patients and Close Clinics](https://www.securityweek.com/cybersecurity-issue-forces-a-major-new-mexico-hospital-to-divert-patients-and-close-clinics/)
+
+**Source:** Security Week  
+**Published:** Tue, 27 Oct 2026 01:30:00 +0000  
+**Severity:** High  
+**Categories:** Ransomware  
+
+---
+
+### 32. [Anthropic Files for Potentially the Biggest IPO Ever as CEO Warns of Risk to Humanity From AI](https://www.securityweek.com/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-risk-to-humanity-from-ai/)
 
 **Source:** Security Week  
 **Published:** Mon, 26 Oct 2026 20:20:56 +0000  
@@ -290,7 +298,7 @@
 
 ---
 
-### 32. [Industrial Vendors Check Products for PHP2Shell Vulnerabilities](https://www.securityweek.com/industrial-vendors-check-products-for-php2shell-vulnerabilities/)
+### 33. [Industrial Vendors Check Products for PHP2Shell Vulnerabilities](https://www.securityweek.com/industrial-vendors-check-products-for-php2shell-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Mon, 26 Oct 2026 14:52:14 +0000  
@@ -300,7 +308,7 @@
 
 ---
 
-### 33. [Genesys Hack Exposes Customer Data From Internal Systems](https://www.securityweek.com/genesys-hack-exposes-customer-data-from-internal-systems/)
+### 34. [Genesys Hack Exposes Customer Data From Internal Systems](https://www.securityweek.com/genesys-hack-exposes-customer-data-from-internal-systems/)
 
 **Source:** Security Week  
 **Published:** Mon, 26 Oct 2026 14:40:48 +0000  
@@ -309,7 +317,7 @@
 
 ---
 
-### 34. [Stolen AI Reasoning Could Help China Build Cheaper Rivals](https://www.securityweek.com/stolen-ai-reasoning-could-help-china-build-cheaper-rivals/)
+### 35. [Stolen AI Reasoning Could Help China Build Cheaper Rivals](https://www.securityweek.com/stolen-ai-reasoning-could-help-china-build-cheaper-rivals/)
 
 **Source:** Security Week  
 **Published:** Mon, 26 Oct 2026 14:30:09 +0000  
@@ -318,7 +326,7 @@
 
 ---
 
-### 35. [PHP2Shell Exploitation Moves From Probes to Working Shells](https://www.securityweek.com/php2shell-exploitation-moves-from-probes-to-working-shells/)
+### 36. [PHP2Shell Exploitation Moves From Probes to Working Shells](https://www.securityweek.com/php2shell-exploitation-moves-from-probes-to-working-shells/)
 
 **Source:** Security Week  
 **Published:** Mon, 26 Oct 2026 13:30:10 +0000  
@@ -328,17 +336,17 @@
 
 ---
 
-### 36. [953 Online Stores Infected in Long-Lasting Malware Campaign](https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/)
+### 37. [953 Online Stores Infected in Long-Lasting Malware Campaign](https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/)
 
 **Source:** Security Week  
 **Published:** Mon, 26 Oct 2026 12:46:44 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48356, CVE-2025-54236  
+**CVEs:** CVE-2025-54236, CVE-2026-48356  
 **Categories:** Vulnerability, Malware, APT, Supply Chain  
 
 ---
 
-### 37. [Dutch Police Arrest Two Over NFC Relay Attacks That Drained $400,000+ From Bank Accounts](https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/)
+### 38. [Dutch Police Arrest Two Over NFC Relay Attacks That Drained $400,000+ From Bank Accounts](https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/)
 
 **Source:** Security Week  
 **Published:** Mon, 26 Oct 2026 11:47:52 +0000  
@@ -347,7 +355,7 @@
 
 ---
 
-### 38. [Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages](https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/)
+### 39. [Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages](https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/)
 
 **Source:** Security Week  
 **Published:** Mon, 26 Oct 2026 10:21:57 +0000  
@@ -357,21 +365,12 @@
 
 ---
 
-### 39. [Mythos 5 Ignored Real-World Harm in July Attack](https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/)
+### 40. [Mythos 5 Ignored Real-World Harm in July Attack](https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/)
 
 **Source:** Security Week  
 **Published:** Mon, 26 Oct 2026 09:10:03 +0000  
 **Severity:** Critical  
 **Categories:** Vulnerability, APT  
-
----
-
-### 40. [Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave](https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/)
-
-**Source:** Security Week  
-**Published:** Sun, 25 Oct 2026 11:00:00 +0000  
-**Severity:** Low  
-**Categories:** Data Breach  
 
 ---
 
@@ -428,7 +427,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 15 Oct 2026 18:00:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2014-125110, CVE-2015-1000013  
+**CVEs:** CVE-2015-1000013, CVE-2014-125110  
 **Categories:** Vulnerability  
 
 ---
@@ -447,7 +446,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 13 Oct 2026 20:37:58 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-70229, CVE-2026-70571, CVE-2026-96951  
+**CVEs:** CVE-2026-70571, CVE-2026-70229, CVE-2026-96951  
 **Categories:** Vulnerability  
 
 ---
@@ -640,7 +639,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -745,21 +744,21 @@
 
 ---
 
-### 81. [Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation](https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Oct 23, 2026 00:00:00-0500  
-**Severity:** High  
-**Categories:** Vulnerability  
-
----
-
-### 82. [Why Organizations Secure AI Agents with Falcon Guardian](https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/)
+### 81. [Why Organizations Secure AI Agents with Falcon Guardian](https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 23, 2026 00:00:00-0500  
 **Severity:** Critical  
 **Categories:** General Security  
+
+---
+
+### 82. [Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation](https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Oct 23, 2026 00:00:00-0500  
+**Severity:** High  
+**Categories:** Vulnerability  
 
 ---
 
@@ -795,8 +794,6 @@
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 13, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** APT  
 
 ---
 
