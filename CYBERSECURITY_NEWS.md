@@ -1,10 +1,37 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-28 15:20:01 UTC
+**Last Updated:** 2026-10-28 18:12:16 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch](https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html)
+### 1. [Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.](https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 28 Oct 2026 22:38:09 +0530  
+**Severity:** Low  
+**Categories:** Malware, Supply Chain  
+
+---
+
+### 2. [Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win](https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 28 Oct 2026 21:53:34 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network](https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 28 Oct 2026 21:32:45 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 4. [Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch](https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 28 Oct 2026 18:18:03 +0530  
@@ -14,7 +41,7 @@
 
 ---
 
-### 2. [Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers](https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html)
+### 5. [Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers](https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 28 Oct 2026 17:20:00 +0530  
@@ -23,7 +50,7 @@
 
 ---
 
-### 3. [Wazuh and AI for Enhanced SOC Workflows](https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html)
+### 6. [Wazuh and AI for Enhanced SOC Workflows](https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 28 Oct 2026 17:00:00 +0530  
@@ -32,7 +59,7 @@
 
 ---
 
-### 4. [Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass](https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html)
+### 7. [Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass](https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 28 Oct 2026 16:45:51 +0530  
@@ -41,7 +68,7 @@
 
 ---
 
-### 5. [American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed](https://thehackernews.com/2026/10/american-organizations-under-attack.html)
+### 8. [American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed](https://thehackernews.com/2026/10/american-organizations-under-attack.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 28 Oct 2026 16:00:00 +0530  
@@ -50,7 +77,7 @@
 
 ---
 
-### 6. [Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits](https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html)
+### 9. [Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits](https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 28 Oct 2026 13:45:07 +0530  
@@ -59,7 +86,7 @@
 
 ---
 
-### 7. [FBI Seizes Virtualine Domain Over Alleged Criminal Hosting and Bitcoin Money Laundering](https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html)
+### 10. [FBI Seizes Virtualine Domain Over Alleged Criminal Hosting and Bitcoin Money Laundering](https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 28 Oct 2026 13:07:50 +0530  
@@ -68,34 +95,25 @@
 
 ---
 
-### 8. [Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach](https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html)
+### 11. [Sony ISP subsidiary data breach exposes 2.5 million customer records](https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 28 Oct 2026 12:43:21 +0530  
+**Source:** Bleeping Computer  
+**Published:** Wed, 28 Oct 2026 12:45:47 -0400  
 **Severity:** Low  
-**Categories:** General Security  
+**Categories:** Data Breach  
 
 ---
 
-### 9. [Tailscale Patches SSH Flaws That Could Let Hacked Devices Gain Root Access on Other Servers](https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html)
+### 12. [Volt Typhoon hides zero-day attacks using 'Silent Train' framework](https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 28 Oct 2026 11:50:37 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws](https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 28 Oct 2026 11:34:58 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
+**Source:** Bleeping Computer  
+**Published:** Wed, 28 Oct 2026 12:00:00 -0400  
+**Severity:** Critical  
+**Categories:** Vulnerability, Malware  
 
 ---
 
-### 11. [Microsoft urges Entra ID admins to migrate users to passkeys](https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/)
+### 13. [Microsoft urges Entra ID admins to migrate users to passkeys](https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 28 Oct 2026 10:48:32 -0400  
@@ -104,7 +122,7 @@
 
 ---
 
-### 12. [InfraTrust report warns of exploited flaws in critical network infrastructure](https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/)
+### 14. [InfraTrust report warns of exploited flaws in critical network infrastructure](https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 28 Oct 2026 10:00:00 -0400  
@@ -113,7 +131,7 @@
 
 ---
 
-### 13. [Even after PHP2Shell, blast radius matters more than a CVSS score](https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/)
+### 15. [Even after PHP2Shell, blast radius matters more than a CVSS score](https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 28 Oct 2026 09:50:59 -0400  
@@ -122,7 +140,7 @@
 
 ---
 
-### 14. [Hackers now scanning systems for recently-patched Oracle flaw](https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/)
+### 16. [Hackers now scanning systems for recently-patched Oracle flaw](https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 28 Oct 2026 08:19:57 -0400  
@@ -132,7 +150,7 @@
 
 ---
 
-### 15. [CISA warns of hackers now exploiting critical Node2Shell flaw](https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/)
+### 17. [CISA warns of hackers now exploiting critical Node2Shell flaw](https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 28 Oct 2026 06:46:23 -0400  
@@ -142,7 +160,7 @@
 
 ---
 
-### 16. [Nefilim and Hive ransomware affiliate gets 70 months in prison](https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/)
+### 18. [Nefilim and Hive ransomware affiliate gets 70 months in prison](https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 28 Oct 2026 05:43:15 -0400  
@@ -151,7 +169,7 @@
 
 ---
 
-### 17. [Japan's GMO urges customers to shut down PCs amid ransomware threat](https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/)
+### 19. [Japan's GMO urges customers to shut down PCs amid ransomware threat](https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 27 Oct 2026 19:35:51 -0400  
@@ -160,31 +178,12 @@
 
 ---
 
-### 18. [OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/)
+### 20. [OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 27 Oct 2026 18:43:27 -0400  
 **Severity:** Critical  
 **Categories:** General Security  
-
----
-
-### 19. [UNM Health ransomware attack disrupts patient care, surgeries](https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 27 Oct 2026 18:07:34 -0400  
-**Severity:** High  
-**Categories:** Ransomware  
-
----
-
-### 20. [Hackers hijack Convertr analytics script to steal payment card data](https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 27 Oct 2026 16:57:25 -0400  
-**Severity:** High  
-**CVEs:** CVE-2026-8467  
-**Categories:** Vulnerability  
 
 ---
 
@@ -220,7 +219,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 13 Oct 2026 23:24:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-108398, CVE-2026-96951  
+**CVEs:** CVE-2026-96951, CVE-2026-108398  
 **Categories:** Vulnerability  
 
 ---
@@ -276,7 +275,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81963, CVE-2026-85880, CVE-2026-69730, CVE-2026-69829  
+**CVEs:** CVE-2026-69730, CVE-2026-85880, CVE-2026-69829, CVE-2026-81963  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -324,7 +323,7 @@
 **Source:** Security Week  
 **Published:** Wed, 28 Oct 2026 12:00:59 +0000  
 **Severity:** Low  
-**CVEs:** CVE-2026-109619, CVE-2026-109618, CVE-2026-46300  
+**CVEs:** CVE-2026-109618, CVE-2026-109619, CVE-2026-46300  
 **Categories:** Vulnerability, Malware, APT  
 
 ---
@@ -334,7 +333,7 @@
 **Source:** Security Week  
 **Published:** Wed, 28 Oct 2026 10:48:00 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-114595, CVE-2026-114597, CVE-2026-114596, CVE-2026-114598  
+**CVEs:** CVE-2026-114596, CVE-2026-114598, CVE-2026-114597, CVE-2026-114595  
 **Categories:** Vulnerability  
 
 ---
@@ -410,7 +409,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 21 Oct 2026 15:10:53 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109619, CVE-2026-109618  
+**CVEs:** CVE-2026-109618, CVE-2026-109619  
 **Categories:** Ransomware, Vulnerability  
 
 ---
@@ -439,7 +438,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 15 Oct 2026 18:00:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2015-1000013, CVE-2014-125110  
+**CVEs:** CVE-2014-125110, CVE-2015-1000013  
 **Categories:** Vulnerability  
 
 ---
@@ -458,7 +457,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 13 Oct 2026 20:37:58 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-96951, CVE-2026-70571, CVE-2026-70229  
+**CVEs:** CVE-2026-70229, CVE-2026-70571, CVE-2026-96951  
 **Categories:** Vulnerability  
 
 ---
@@ -756,7 +755,16 @@
 
 ---
 
-### 82. [Why Organizations Secure AI Agents with Falcon Guardian](https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/)
+### 82. [When AI Guardrails Expose Vulnerabilities](https://www.crowdstrike.com/en-us/blog/when-ai-guardrails-expose-vulnerabilities/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Oct 28, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 83. [Why Organizations Secure AI Agents with Falcon Guardian](https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 23, 2026 00:00:00-0500  
@@ -765,7 +773,7 @@
 
 ---
 
-### 83. [Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation](https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/)
+### 84. [Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation](https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 23, 2026 00:00:00-0500  
@@ -774,17 +782,17 @@
 
 ---
 
-### 84. [CrowdStrike Protects Customers from Threats Delivered via PHP2Shell](https://www.crowdstrike.com/en-us/blog/crowdstrike-protects-customers-from-php-rce-zero-days/)
+### 85. [CrowdStrike Protects Customers from Threats Delivered via PHP2Shell](https://www.crowdstrike.com/en-us/blog/crowdstrike-protects-customers-from-php-rce-zero-days/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 21, 2026 00:00:00-0500  
 **Severity:** Low  
-**CVEs:** CVE-2026-109619, CVE-2026-109618  
+**CVEs:** CVE-2026-109618, CVE-2026-109619  
 **Categories:** Vulnerability  
 
 ---
 
-### 85. [CrowdStrike Uncovers New Agentic AI Campaigns](https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-agentic-ai-campaigns/)
+### 86. [CrowdStrike Uncovers New Agentic AI Campaigns](https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-agentic-ai-campaigns/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 21, 2026 00:00:00-0500  
@@ -793,7 +801,7 @@
 
 ---
 
-### 86. [CrowdStrike Achieves NCSC CIR Enhanced Level Assurance](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-uk-ncsc-cir-enhanced-level-assurance/)
+### 87. [CrowdStrike Achieves NCSC CIR Enhanced Level Assurance](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-uk-ncsc-cir-enhanced-level-assurance/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 20, 2026 00:00:00-0500  
@@ -802,7 +810,7 @@
 
 ---
 
-### 87. [U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance](https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/)
+### 88. [U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance](https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 13, 2026 00:00:00-0500  
@@ -811,7 +819,7 @@
 
 ---
 
-### 88. [October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2026/)
+### 89. [October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 13, 2026 00:00:00-0500  
@@ -820,20 +828,11 @@
 
 ---
 
-### 89. [CrowdStrike and Anthropic Give Critical Infrastructure Defenders the AI Advantage](https://www.crowdstrike.com/en-us/blog/crowdstrike-anthropic-critical-infrastructure-defense-program/)
+### 90. [CrowdStrike and Anthropic Give Critical Infrastructure Defenders the AI Advantage](https://www.crowdstrike.com/en-us/blog/crowdstrike-anthropic-critical-infrastructure-defense-program/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 08, 2026 00:00:00-0500  
 **Severity:** Critical  
-**Categories:** General Security  
-
----
-
-### 90. [Solving the Continuous Authorization Conundrum](https://www.crowdstrike.com/en-us/blog/solving-the-continuous-authorization-conundrum/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Oct 08, 2026 00:00:00-0500  
-**Severity:** Low  
 **Categories:** General Security  
 
 ---

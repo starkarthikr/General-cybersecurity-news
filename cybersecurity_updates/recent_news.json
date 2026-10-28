@@ -1,6 +1,61 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.",
+    "link": "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html",
+    "published": "Wed, 28 Oct 2026 22:38:09 +0530",
+    "summary": "Third-party Android app stores can now apply to Google for permission to install apps with one tap, without Android's usual confirmation screens, and to update them in the background.\n\nTo qualify, a store must pass identity checks and send Google&nbsp;its full catalog, along with every new app and update, for ongoing malware scanning. Approved stores get the features from December 1, but only on",
+    "analysis": {
+      "issue": "Google will let approved third-party Android stores offer one-tap installs and background updates outside the US, subject to malware scanning",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
+    "link": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
+    "published": "Wed, 28 Oct 2026 21:53:34 +0530",
+    "summary": "A chain of logic flaws, with no memory corruption, can turn a malicious web page into code running on a Windows computer outside Microsoft Edge's sandbox, a security researcher has shown.\n\nOrange Tsai of DEVCORE published the full method on October 28, five months after the chain won $175,000 at the&nbsp;Pwn2Own Berlin contest&nbsp;in May. Microsoft fixed the Edge bugs the day after the contest,",
+    "analysis": {
+      "issue": "Microsoft Edge logic flaws enabled universal XSS, sandbox escape, and code execution without memory corruption in a patched Pwn2Own exploit",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
+    "link": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
+    "published": "Wed, 28 Oct 2026 21:32:45 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of what appears to be an artificial intelligence (AI)-assisted attack orchestrated by a suspected China-nexus threat actor that has leveraged the PHP2Shell vulnerabilities to breach exposed systems.\n\nThe activity, which was observed on October 25, 2026, involved an attacker combining PHP2Shell with a kernel privilege escalation exploit to root",
+    "analysis": {
+      "issue": "A suspected China-linked actor used an AI-assisted PHP2Shell exploit chain to root 25 servers and target Active Directory in a U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
     "link": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
     "published": "Wed, 28 Oct 2026 18:18:03 +0530",
@@ -128,56 +183,39 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach",
-    "link": "https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html",
-    "published": "Wed, 28 Oct 2026 12:43:21 +0530",
-    "summary": "Japan's GMO Internet Group is&nbsp;offering up to $1 million in total&nbsp;for tips that help catch the attackers who breached its Onamae.com Desktop Cloud service, after refusing to pay an extortion demand.\n\nThe reward program opened on October 28 and pays only if a tip helps lead to an arrest or an international wanted notice. The service&nbsp;hosts Windows desktops&nbsp;used for FX trading,",
+    "source": "Bleeping Computer",
+    "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
+    "link": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
+    "published": "Wed, 28 Oct 2026 12:45:47 -0400",
+    "summary": "Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers' personal information. [...]",
     "analysis": {
-      "issue": "GMO offers up to $1 million for tips leading to arrests after its Desktop Cloud breach exposed customer data and was linked to unauthorized FX trades",
+      "issue": "Sony Network Communications has confirmed a data breach that compromised approximately 2",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Data Breach"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Tailscale Patches SSH Flaws That Could Let Hacked Devices Gain Root Access on Other Servers",
-    "link": "https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html",
-    "published": "Wed, 28 Oct 2026 11:50:37 +0530",
-    "summary": "Tailscale has released&nbsp;version 1.104.4&nbsp;to fix flaws in its built-in SSH server that could let an attacker reach services and files on other servers that only the&nbsp;root&nbsp;user should be able to touch.\n\nThe flaws are in how&nbsp;Tailscale SSH&nbsp;forwards network connections, a job the Tailscale background process carries out with root privileges. To use them, an attacker must",
+    "source": "Bleeping Computer",
+    "title": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework",
+    "link": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
+    "published": "Wed, 28 Oct 2026 12:00:00 -0400",
+    "summary": "Chinese state-sponsored hacking group Volt Typhoon has been using a framework that relies on rotating chains of connected devices compromised on demand, including for zero-day attacks targeting high-value systems. [...]",
     "analysis": {
-      "issue": "4 fixes SSH forwarding flaws that could expose root-only sockets, while related issues remain unpatched in headscale",
+      "issue": "Chinese state-sponsored hacking group Volt Typhoon has been using a framework that relies on rotating chains of connected devices compromised on demand, including for zero-day attacks targeting high-value systems",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws",
-    "link": "https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html",
-    "published": "Wed, 28 Oct 2026 11:34:58 +0530",
-    "summary": "The critical Oracle PeopleSoft bug that ShinyHunters has exploited since May is not one flaw but three chained together, the researchers who reported it said this week.\n\nOracle patched all three under a single identifier,&nbsp;CVE-2026-35273, in June. Its root is a server-side request forgery (SSRF) that reaches an internal management interface because PeopleSoft trusts its own loopback address",
-    "analysis": {
-      "issue": "ShinyHunters exploited three chained Oracle PeopleSoft flaws enabling unauthenticated server takeover, with attacks spanning multiple sectors",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
+        "Vulnerability",
+        "Malware"
       ]
     }
   },
@@ -333,44 +371,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "UNM Health ransomware attack disrupts patient care, surgeries",
-    "link": "https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/",
-    "published": "Tue, 27 Oct 2026 18:07:34 -0400",
-    "summary": "The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic activities. [...]",
-    "analysis": {
-      "issue": "The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic activities",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers hijack Convertr analytics script to steal payment card data",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/",
-    "published": "Tue, 27 Oct 2026 16:57:25 -0400",
-    "summary": "A credit card skimming group reportedly compromised a shared analytics script used by e-commerce platform Convertr to steal shoppers' payment data during checkout. [...]",
-    "analysis": {
-      "issue": "A credit card skimming group reportedly compromised a shared analytics script used by e-commerce platform Convertr to steal shoppers’ payment data during checkout",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2026-8467"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
     "link": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
@@ -439,8 +439,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-108398",
-        "CVE-2026-96951"
+        "CVE-2026-96951",
+        "CVE-2026-108398"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -556,10 +556,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-81963",
-        "CVE-2026-85880",
         "CVE-2026-69730",
-        "CVE-2026-69829"
+        "CVE-2026-85880",
+        "CVE-2026-69829",
+        "CVE-2026-81963"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -658,8 +658,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-109619",
         "CVE-2026-109618",
+        "CVE-2026-109619",
         "CVE-2026-46300"
       ],
       "threat_categories": [
@@ -682,10 +682,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-114595",
-        "CVE-2026-114597",
         "CVE-2026-114596",
-        "CVE-2026-114598"
+        "CVE-2026-114598",
+        "CVE-2026-114597",
+        "CVE-2026-114595"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -841,8 +841,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109619",
-        "CVE-2026-109618"
+        "CVE-2026-109618",
+        "CVE-2026-109619"
       ],
       "threat_categories": [
         "Ransomware",
@@ -901,8 +901,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2015-1000013",
-        "CVE-2014-125110"
+        "CVE-2014-125110",
+        "CVE-2015-1000013"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -940,9 +940,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-96951",
+        "CVE-2026-70229",
         "CVE-2026-70571",
-        "CVE-2026-70229"
+        "CVE-2026-96951"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1546,6 +1546,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "When AI Guardrails Expose Vulnerabilities",
+    "link": "https://www.crowdstrike.com/en-us/blog/when-ai-guardrails-expose-vulnerabilities/",
+    "published": "Oct 28, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "In Guardrail-Based Vulnerability Discovery, the guardrails intended to keep AI models from aiding attackers can signify issues that defenders can interpret and act on",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "Why Organizations Secure AI Agents with Falcon Guardian",
     "link": "https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/",
     "published": "Oct 23, 2026 00:00:00-0500",
@@ -1593,8 +1611,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-109619",
-        "CVE-2026-109618"
+        "CVE-2026-109618",
+        "CVE-2026-109619"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1685,24 +1703,6 @@
       "cause": null,
       "timeline": null,
       "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "Solving the Continuous Authorization Conundrum",
-    "link": "https://www.crowdstrike.com/en-us/blog/solving-the-continuous-authorization-conundrum/",
-    "published": "Oct 08, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "Organizations continue to face myriad issues related to Zero Trust",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
       "cves": [],
       "threat_categories": [
         "General Security"
