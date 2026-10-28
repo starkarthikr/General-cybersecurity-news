@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-27 20:51:20 UTC
+**Last Updated:** 2026-10-28 05:00:41 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,44 @@
 
 ---
 
-### 11. [Microsoft releases Windows OOB updates to distrust eMudhra certificates](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/)
+### 11. [Japan's GMO urges customers to shut down PCs amid ransomware threat](https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 27 Oct 2026 19:35:51 -0400  
+**Severity:** Low  
+**Categories:** Ransomware, Malware  
+
+---
+
+### 12. [OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 27 Oct 2026 18:43:27 -0400  
+**Severity:** Critical  
+**Categories:** General Security  
+
+---
+
+### 13. [UNM Health ransomware attack disrupts patient care, surgeries](https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 27 Oct 2026 18:07:34 -0400  
+**Severity:** High  
+**Categories:** Ransomware  
+
+---
+
+### 14. [Hackers hijack Convertr analytics script to steal payment card data](https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 27 Oct 2026 16:57:25 -0400  
+**Severity:** High  
+**CVEs:** CVE-2026-8467  
+**Categories:** Vulnerability  
+
+---
+
+### 15. [Microsoft releases Windows OOB updates to distrust eMudhra certificates](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 27 Oct 2026 14:20:28 -0400  
@@ -104,7 +141,7 @@
 
 ---
 
-### 12. [Warp discloses breach exposing AI agent logs, user telemetry data](https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/)
+### 16. [Warp discloses breach exposing AI agent logs, user telemetry data](https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 27 Oct 2026 12:15:39 -0400  
@@ -113,7 +150,7 @@
 
 ---
 
-### 13. [Tailscale warns of SSH flaws allowing root privilege escalation](https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/)
+### 17. [Tailscale warns of SSH flaws allowing root privilege escalation](https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 27 Oct 2026 10:09:46 -0400  
@@ -122,7 +159,7 @@
 
 ---
 
-### 14. [The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest](https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/)
+### 18. [The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest](https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 27 Oct 2026 10:01:11 -0400  
@@ -131,7 +168,7 @@
 
 ---
 
-### 15. [Apple backports CoreGraphics zero-day patches to older iPhones](https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/)
+### 19. [Apple backports CoreGraphics zero-day patches to older iPhones](https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 27 Oct 2026 06:36:12 -0400  
@@ -141,49 +178,12 @@
 
 ---
 
-### 16. [Energy giant ENGIE discloses data breach affecting customers](https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/)
+### 20. [Energy giant ENGIE discloses data breach affecting customers](https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 27 Oct 2026 05:25:50 -0400  
 **Severity:** Low  
 **Categories:** Data Breach  
-
----
-
-### 17. [CISA confirms PHP2Shell vulnerabilities now exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 27 Oct 2026 04:20:54 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-109618, CVE-2026-109619  
-**Categories:** Data Breach, Vulnerability  
-
----
-
-### 18. [University of Copenhagen data breach exposes data of 525,000 people](https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 26 Oct 2026 18:20:36 -0400  
-**Severity:** Critical  
-**Categories:** Data Breach, Phishing  
-
----
-
-### 19. [Former pentester used ARTEX AI to steal 8.2 million data records](https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 26 Oct 2026 17:08:28 -0400  
-**Severity:** Low  
-**Categories:** Ransomware  
-
----
-
-### 20. [OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 26 Oct 2026 16:46:49 -0400  
-**Severity:** High  
-**Categories:** General Security  
 
 ---
 
@@ -219,7 +219,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 13 Oct 2026 23:24:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-96951, CVE-2026-108398  
+**CVEs:** CVE-2026-108398, CVE-2026-96951  
 **Categories:** Vulnerability  
 
 ---
@@ -275,7 +275,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69730, CVE-2026-81963, CVE-2026-85880, CVE-2026-69829  
+**CVEs:** CVE-2026-81963, CVE-2026-69730, CVE-2026-69829, CVE-2026-85880  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -303,7 +303,7 @@
 **Source:** Security Week  
 **Published:** Tue, 27 Oct 2026 13:13:58 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-79847, CVE-2026-79849, CVE-2026-79846, CVE-2026-79850, CVE-2026-79848, CVE-2026-79844, CVE-2026-79845, CVE-2026-79851  
+**CVEs:** CVE-2026-79848, CVE-2026-79844, CVE-2026-79846, CVE-2026-79850, CVE-2026-79847, CVE-2026-79845, CVE-2026-79849, CVE-2026-79851  
 **Categories:** Vulnerability  
 
 ---
@@ -341,7 +341,7 @@
 **Source:** Security Week  
 **Published:** Tue, 27 Oct 2026 10:02:24 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-88778, CVE-2026-88779, CVE-2026-88771, CVE-2026-88787  
+**CVEs:** CVE-2026-88771, CVE-2026-88778, CVE-2026-88779, CVE-2026-88787  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -407,7 +407,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 21 Oct 2026 15:10:53 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109618, CVE-2026-109619  
+**CVEs:** CVE-2026-109619, CVE-2026-109618  
 **Categories:** Ransomware, Vulnerability  
 
 ---
@@ -436,7 +436,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 15 Oct 2026 18:00:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2014-125110, CVE-2015-1000013  
+**CVEs:** CVE-2015-1000013, CVE-2014-125110  
 **Categories:** Vulnerability  
 
 ---
@@ -455,7 +455,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 13 Oct 2026 20:37:58 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-70571, CVE-2026-96951, CVE-2026-70229  
+**CVEs:** CVE-2026-70229, CVE-2026-70571, CVE-2026-96951  
 **Categories:** Vulnerability  
 
 ---
@@ -767,7 +767,7 @@
 **Source:** Crowdstrike Blog  
 **Published:** Oct 21, 2026 00:00:00-0500  
 **Severity:** Low  
-**CVEs:** CVE-2026-109618, CVE-2026-109619  
+**CVEs:** CVE-2026-109619, CVE-2026-109618  
 **Categories:** Vulnerability  
 
 ---

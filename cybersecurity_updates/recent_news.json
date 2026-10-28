@@ -184,6 +184,81 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
+    "link": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
+    "published": "Tue, 27 Oct 2026 19:35:51 -0400",
+    "summary": "The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company's Onamae Desktop Cloud threatened to launch a ransomware attack today. [...]",
+    "analysis": {
+      "issue": "The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company’s Onamae Desktop Cloud threatened to launch a ransomware attack today",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/",
+    "published": "Tue, 27 Oct 2026 18:43:27 -0400",
+    "summary": "OpenAI confirmed GPT-6.1 Terra is safer overall than some of its older models, but its safety testing also found other problems. [...]",
+    "analysis": {
+      "issue": "1 Terra is safer overall than some of its older models, but its safety testing also found other problems",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "UNM Health ransomware attack disrupts patient care, surgeries",
+    "link": "https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/",
+    "published": "Tue, 27 Oct 2026 18:07:34 -0400",
+    "summary": "The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic activities. [...]",
+    "analysis": {
+      "issue": "The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic activities",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Hackers hijack Convertr analytics script to steal payment card data",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/",
+    "published": "Tue, 27 Oct 2026 16:57:25 -0400",
+    "summary": "A credit card skimming group reportedly compromised a shared analytics script used by e-commerce platform Convertr to steal shoppers' payment data during checkout. [...]",
+    "analysis": {
+      "issue": "A credit card skimming group reportedly compromised a shared analytics script used by e-commerce platform Convertr to steal shoppers’ payment data during checkout",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2026-8467"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Microsoft releases Windows OOB updates to distrust eMudhra certificates",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/",
     "published": "Tue, 27 Oct 2026 14:20:28 -0400",
@@ -294,83 +369,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/",
-    "published": "Tue, 27 Oct 2026 04:20:54 -0400",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell  vulnerabilities to its catalog of actively exploited security flaws and ordered federal agencies to patch their systems by Thursday. [...]",
-    "analysis": {
-      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) has added two critical PHP vulnerabilities collectively tracked as PHP2Shell to its catalog of actively exploited security flaws",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-109618",
-        "CVE-2026-109619"
-      ],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "University of Copenhagen data breach exposes data of 525,000 people",
-    "link": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
-    "published": "Mon, 26 Oct 2026 18:20:36 -0400",
-    "summary": "The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people. [...]",
-    "analysis": {
-      "issue": "The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Former pentester used ARTEX AI to steal 8.2 million data records",
-    "link": "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/",
-    "published": "Mon, 26 Oct 2026 17:08:28 -0400",
-    "summary": "South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI pentesting framework used in most of the attacks. [...]",
-    "analysis": {
-      "issue": "South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI pentesting framework used in most of the attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/",
-    "published": "Mon, 26 Oct 2026 16:46:49 -0400",
-    "summary": "OpenAI has launched GPT-6.1 Terra, a new model focused on computer use, visual reasoning, coding, and everyday work, while costing significantly less than its larger models. [...]",
-    "analysis": {
-      "issue": "1 Terra, a new model focused on computer use, visual reasoning, coding, and everyday work, while costing significantly less than its larger models",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
     "link": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
@@ -439,8 +437,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-96951",
-        "CVE-2026-108398"
+        "CVE-2026-108398",
+        "CVE-2026-96951"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -556,10 +554,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69730",
         "CVE-2026-81963",
-        "CVE-2026-85880",
-        "CVE-2026-69829"
+        "CVE-2026-69730",
+        "CVE-2026-69829",
+        "CVE-2026-85880"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -618,13 +616,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-79847",
-        "CVE-2026-79849",
-        "CVE-2026-79846",
-        "CVE-2026-79850",
         "CVE-2026-79848",
         "CVE-2026-79844",
+        "CVE-2026-79846",
+        "CVE-2026-79850",
+        "CVE-2026-79847",
         "CVE-2026-79845",
+        "CVE-2026-79849",
         "CVE-2026-79851"
       ],
       "threat_categories": [
@@ -701,9 +699,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-88771",
         "CVE-2026-88778",
         "CVE-2026-88779",
-        "CVE-2026-88771",
         "CVE-2026-88787"
       ],
       "threat_categories": [
@@ -837,8 +835,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109618",
-        "CVE-2026-109619"
+        "CVE-2026-109619",
+        "CVE-2026-109618"
       ],
       "threat_categories": [
         "Ransomware",
@@ -897,8 +895,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2014-125110",
-        "CVE-2015-1000013"
+        "CVE-2015-1000013",
+        "CVE-2014-125110"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -936,9 +934,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-70229",
         "CVE-2026-70571",
-        "CVE-2026-96951",
-        "CVE-2026-70229"
+        "CVE-2026-96951"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1570,8 +1568,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-109618",
-        "CVE-2026-109619"
+        "CVE-2026-109619",
+        "CVE-2026-109618"
       ],
       "threat_categories": [
         "Vulnerability"
