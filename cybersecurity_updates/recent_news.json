@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
+    "link": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
+    "published": "Wed, 28 Oct 2026 23:38:33 +0530",
+    "summary": "The China-nexus cyber espionage group known as Volt Typhoon has been attributed to a now-disrupted covert access network dubbed Silent Train that has been put to use for zero-day exploitation and strategic access.\n\n\"First identified in late 2023, Silent Train uses rotating chains of compromised SOHO, IoT, and enterprise infrastructure,\" Lumen Technologies Black Lotus Labs said in a report shared",
+    "analysis": {
+      "issue": "Volt Typhoon used the disrupted Silent Train network for four zero-day campaigns targeting enterprise management systems and strategic networks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.",
     "link": "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html",
     "published": "Wed, 28 Oct 2026 22:38:09 +0530",
@@ -59,7 +77,7 @@
     "title": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
     "link": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
     "published": "Wed, 28 Oct 2026 18:18:03 +0530",
-    "summary": "Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber.\n\nThe vulnerability in question is CVE-2026-101767 (CVSS score: 9.8) in the Oracle Application Object Library of Oracle E-Business Suite. It was patched by Oracle last week as part of its Critical Patch Update.\n\nSecurity researchers",
+    "summary": "Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber.\n\nThe vulnerability in question is CVE-2026-101767 (CVSS score: 9.8) , a case of improper authentication in the Oracle Application Object Library of Oracle E-Business Suite. It was patched by Oracle last week as part of its Critical",
     "analysis": {
       "issue": "Oracle EBS decoys recorded probing of patched CVE-2026-101767, an unauthenticated SQL injection flaw that can lead to remote code execution",
       "solution": null,
@@ -165,13 +183,32 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "FBI Seizes Virtualine Domain Over Alleged Criminal Hosting and Bitcoin Money Laundering",
-    "link": "https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html",
-    "published": "Wed, 28 Oct 2026 13:07:50 +0530",
-    "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a domain associated with a bulletproof hosting provider (BPH) named Virtualine.\n\nThe move was in response to the service being used to commit and facilitate prolific criminal activity, including \"the advertisement of sexually explicit images of minors, the intentional disclosure of nonconsensual intimate visual depictions",
+    "source": "Bleeping Computer",
+    "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
+    "link": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
+    "published": "Wed, 28 Oct 2026 16:47:22 -0400",
+    "summary": "U.S. law enforcement has seized the primary domain of Virtualine, a bulletproof hosting service advertised on cybercrime forums for facilitating illegal activities. [...]",
     "analysis": {
-      "issue": "The FBI seized Virtualine's domain as the DoJ accused the bulletproof hosting provider of facilitating cybercrime and laundering illicit payments",
+      "issue": "law enforcement has seized the primary domain of Virtualine, a bulletproof hosting service advertised on cybercrime forums for facilitating illegal activities",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Discord to let search engines index public server messages",
+    "link": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/",
+    "published": "Wed, 28 Oct 2026 14:44:16 -0400",
+    "summary": "Discord will allow search engines to index discussions in Discoverable Servers and make them accessible on the web to users outside the platform without an account or invitation. [...]",
+    "analysis": {
+      "issue": "Discord will allow search engines to index discussions in Discoverable Servers and make them accessible on the web to users outside the platform without an account or invitation",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -334,43 +371,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
-    "link": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
-    "published": "Tue, 27 Oct 2026 19:35:51 -0400",
-    "summary": "The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company's Onamae Desktop Cloud threatened to launch a ransomware attack today. [...]",
-    "analysis": {
-      "issue": "The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company’s Onamae Desktop Cloud threatened to launch a ransomware attack today",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/",
-    "published": "Tue, 27 Oct 2026 18:43:27 -0400",
-    "summary": "OpenAI confirmed GPT-6.1 Terra is safer overall than some of its older models, but its safety testing also found other problems. [...]",
-    "analysis": {
-      "issue": "1 Terra is safer overall than some of its older models, but its safety testing also found other problems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
     "link": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
@@ -439,8 +439,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-96951",
-        "CVE-2026-108398"
+        "CVE-2026-108398",
+        "CVE-2026-96951"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -556,10 +556,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69730",
-        "CVE-2026-85880",
         "CVE-2026-69829",
-        "CVE-2026-81963"
+        "CVE-2026-81963",
+        "CVE-2026-69730",
+        "CVE-2026-85880"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -658,9 +658,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
+        "CVE-2026-46300",
         "CVE-2026-109618",
-        "CVE-2026-109619",
-        "CVE-2026-46300"
+        "CVE-2026-109619"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -684,8 +684,8 @@
       "cves": [
         "CVE-2026-114596",
         "CVE-2026-114598",
-        "CVE-2026-114597",
-        "CVE-2026-114595"
+        "CVE-2026-114595",
+        "CVE-2026-114597"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -743,8 +743,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-101767",
-        "CVE-2026-46817"
+        "CVE-2026-46817",
+        "CVE-2026-101767"
       ],
       "threat_categories": [
         "Ransomware",
@@ -940,9 +940,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-96951",
         "CVE-2026-70229",
-        "CVE-2026-70571",
-        "CVE-2026-96951"
+        "CVE-2026-70571"
       ],
       "threat_categories": [
         "Vulnerability"

@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-28 18:12:16 UTC
+**Last Updated:** 2026-10-28 21:14:54 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.](https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html)
+### 1. [Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns](https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 28 Oct 2026 23:38:33 +0530  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.](https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 28 Oct 2026 22:38:09 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win](https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html)
+### 3. [Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win](https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 28 Oct 2026 21:53:34 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network](https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html)
+### 4. [PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network](https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 28 Oct 2026 21:32:45 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch](https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html)
+### 5. [Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch](https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 28 Oct 2026 18:18:03 +0530  
@@ -41,7 +50,7 @@
 
 ---
 
-### 5. [Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers](https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html)
+### 6. [Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers](https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 28 Oct 2026 17:20:00 +0530  
@@ -50,7 +59,7 @@
 
 ---
 
-### 6. [Wazuh and AI for Enhanced SOC Workflows](https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html)
+### 7. [Wazuh and AI for Enhanced SOC Workflows](https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 28 Oct 2026 17:00:00 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass](https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html)
+### 8. [Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass](https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 28 Oct 2026 16:45:51 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed](https://thehackernews.com/2026/10/american-organizations-under-attack.html)
+### 9. [American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed](https://thehackernews.com/2026/10/american-organizations-under-attack.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 28 Oct 2026 16:00:00 +0530  
@@ -77,7 +86,7 @@
 
 ---
 
-### 9. [Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits](https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html)
+### 10. [Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits](https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 28 Oct 2026 13:45:07 +0530  
@@ -86,16 +95,25 @@
 
 ---
 
-### 10. [FBI Seizes Virtualine Domain Over Alleged Criminal Hosting and Bitcoin Money Laundering](https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html)
+### 11. [Police seize Virtualine bulletproof service tied to ransowmare, cybercrime](https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 28 Oct 2026 13:07:50 +0530  
+**Source:** Bleeping Computer  
+**Published:** Wed, 28 Oct 2026 16:47:22 -0400  
+**Severity:** Low  
+**Categories:** Vulnerability, Phishing  
+
+---
+
+### 12. [Discord to let search engines index public server messages](https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 28 Oct 2026 14:44:16 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 11. [Sony ISP subsidiary data breach exposes 2.5 million customer records](https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/)
+### 13. [Sony ISP subsidiary data breach exposes 2.5 million customer records](https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 28 Oct 2026 12:45:47 -0400  
@@ -104,7 +122,7 @@
 
 ---
 
-### 12. [Volt Typhoon hides zero-day attacks using 'Silent Train' framework](https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/)
+### 14. [Volt Typhoon hides zero-day attacks using 'Silent Train' framework](https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 28 Oct 2026 12:00:00 -0400  
@@ -113,7 +131,7 @@
 
 ---
 
-### 13. [Microsoft urges Entra ID admins to migrate users to passkeys](https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/)
+### 15. [Microsoft urges Entra ID admins to migrate users to passkeys](https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 28 Oct 2026 10:48:32 -0400  
@@ -122,7 +140,7 @@
 
 ---
 
-### 14. [InfraTrust report warns of exploited flaws in critical network infrastructure](https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/)
+### 16. [InfraTrust report warns of exploited flaws in critical network infrastructure](https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 28 Oct 2026 10:00:00 -0400  
@@ -131,7 +149,7 @@
 
 ---
 
-### 15. [Even after PHP2Shell, blast radius matters more than a CVSS score](https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/)
+### 17. [Even after PHP2Shell, blast radius matters more than a CVSS score](https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 28 Oct 2026 09:50:59 -0400  
@@ -140,7 +158,7 @@
 
 ---
 
-### 16. [Hackers now scanning systems for recently-patched Oracle flaw](https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/)
+### 18. [Hackers now scanning systems for recently-patched Oracle flaw](https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 28 Oct 2026 08:19:57 -0400  
@@ -150,7 +168,7 @@
 
 ---
 
-### 17. [CISA warns of hackers now exploiting critical Node2Shell flaw](https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/)
+### 19. [CISA warns of hackers now exploiting critical Node2Shell flaw](https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 28 Oct 2026 06:46:23 -0400  
@@ -160,30 +178,12 @@
 
 ---
 
-### 18. [Nefilim and Hive ransomware affiliate gets 70 months in prison](https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/)
+### 20. [Nefilim and Hive ransomware affiliate gets 70 months in prison](https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 28 Oct 2026 05:43:15 -0400  
 **Severity:** High  
 **Categories:** Ransomware, Malware  
-
----
-
-### 19. [Japan's GMO urges customers to shut down PCs amid ransomware threat](https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 27 Oct 2026 19:35:51 -0400  
-**Severity:** Low  
-**Categories:** Ransomware, Malware  
-
----
-
-### 20. [OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 27 Oct 2026 18:43:27 -0400  
-**Severity:** Critical  
-**Categories:** General Security  
 
 ---
 
@@ -219,7 +219,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 13 Oct 2026 23:24:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-96951, CVE-2026-108398  
+**CVEs:** CVE-2026-108398, CVE-2026-96951  
 **Categories:** Vulnerability  
 
 ---
@@ -275,7 +275,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69730, CVE-2026-85880, CVE-2026-69829, CVE-2026-81963  
+**CVEs:** CVE-2026-69829, CVE-2026-81963, CVE-2026-69730, CVE-2026-85880  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -323,7 +323,7 @@
 **Source:** Security Week  
 **Published:** Wed, 28 Oct 2026 12:00:59 +0000  
 **Severity:** Low  
-**CVEs:** CVE-2026-109618, CVE-2026-109619, CVE-2026-46300  
+**CVEs:** CVE-2026-46300, CVE-2026-109618, CVE-2026-109619  
 **Categories:** Vulnerability, Malware, APT  
 
 ---
@@ -333,7 +333,7 @@
 **Source:** Security Week  
 **Published:** Wed, 28 Oct 2026 10:48:00 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-114596, CVE-2026-114598, CVE-2026-114597, CVE-2026-114595  
+**CVEs:** CVE-2026-114596, CVE-2026-114598, CVE-2026-114595, CVE-2026-114597  
 **Categories:** Vulnerability  
 
 ---
@@ -361,7 +361,7 @@
 **Source:** Security Week  
 **Published:** Wed, 28 Oct 2026 09:14:23 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-101767, CVE-2026-46817  
+**CVEs:** CVE-2026-46817, CVE-2026-101767  
 **Categories:** Ransomware, Vulnerability  
 
 ---
@@ -457,7 +457,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 13 Oct 2026 20:37:58 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-70229, CVE-2026-70571, CVE-2026-96951  
+**CVEs:** CVE-2026-96951, CVE-2026-70229, CVE-2026-70571  
 **Categories:** Vulnerability  
 
 ---
