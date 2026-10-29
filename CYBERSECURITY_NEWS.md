@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-29 05:13:51 UTC
+**Last Updated:** 2026-10-29 06:14:48 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -219,7 +219,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 13 Oct 2026 23:24:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-108398, CVE-2026-96951  
+**CVEs:** CVE-2026-96951, CVE-2026-108398  
 **Categories:** Vulnerability  
 
 ---
@@ -275,7 +275,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-85880, CVE-2026-69829, CVE-2026-69730, CVE-2026-81963  
+**CVEs:** CVE-2026-69730, CVE-2026-69829, CVE-2026-81963, CVE-2026-85880  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -323,7 +323,7 @@
 **Source:** Security Week  
 **Published:** Wed, 28 Oct 2026 12:00:59 +0000  
 **Severity:** Low  
-**CVEs:** CVE-2026-109619, CVE-2026-109618, CVE-2026-46300  
+**CVEs:** CVE-2026-46300, CVE-2026-109618, CVE-2026-109619  
 **Categories:** Vulnerability, Malware, APT  
 
 ---
@@ -333,7 +333,7 @@
 **Source:** Security Week  
 **Published:** Wed, 28 Oct 2026 10:48:00 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-114598, CVE-2026-114597, CVE-2026-114595, CVE-2026-114596  
+**CVEs:** CVE-2026-114598, CVE-2026-114597, CVE-2026-114596, CVE-2026-114595  
 **Categories:** Vulnerability  
 
 ---
@@ -361,7 +361,7 @@
 **Source:** Security Week  
 **Published:** Wed, 28 Oct 2026 09:14:23 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-46817, CVE-2026-101767  
+**CVEs:** CVE-2026-101767, CVE-2026-46817  
 **Categories:** Ransomware, Vulnerability  
 
 ---
@@ -418,7 +418,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 21 Oct 2026 15:10:53 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109619, CVE-2026-109618  
+**CVEs:** CVE-2026-109618, CVE-2026-109619  
 **Categories:** Ransomware, Vulnerability  
 
 ---
@@ -447,7 +447,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 15 Oct 2026 18:00:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2015-1000013, CVE-2014-125110  
+**CVEs:** CVE-2014-125110, CVE-2015-1000013  
 **Categories:** Vulnerability  
 
 ---
@@ -466,7 +466,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 13 Oct 2026 20:37:58 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-70229, CVE-2026-96951, CVE-2026-70571  
+**CVEs:** CVE-2026-96951, CVE-2026-70571, CVE-2026-70229  
 **Categories:** Vulnerability  
 
 ---
@@ -641,7 +641,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -787,7 +787,7 @@
 **Source:** Crowdstrike Blog  
 **Published:** Oct 21, 2026 00:00:00-0500  
 **Severity:** Low  
-**CVEs:** CVE-2026-109619, CVE-2026-109618  
+**CVEs:** CVE-2026-109618, CVE-2026-109619  
 **Categories:** Vulnerability  
 
 ---
