@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-29 15:25:32 UTC
+**Last Updated:** 2026-10-29 18:18:23 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities](https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html)
+### 1. [Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions](https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 29 Oct 2026 21:27:05 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners](https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 29 Oct 2026 20:50:29 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities](https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 29 Oct 2026 19:12:40 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [Webinar: How to Build AI Threat Readiness Into Your Security Operations](https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html)
+### 4. [Webinar: How to Build AI Threat Readiness Into Your Security Operations](https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 29 Oct 2026 17:09:41 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls](https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html)
+### 5. [Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls](https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 29 Oct 2026 17:09:18 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers](https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html)
+### 6. [The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers](https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 29 Oct 2026 17:03:41 +0530  
@@ -40,7 +58,7 @@
 
 ---
 
-### 5. [26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories](https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html)
+### 7. [26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories](https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 29 Oct 2026 17:03:15 +0530  
@@ -49,7 +67,7 @@
 
 ---
 
-### 6. [Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls](https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html)
+### 8. [Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls](https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 29 Oct 2026 16:14:46 +0530  
@@ -58,7 +76,7 @@
 
 ---
 
-### 7. [GitHub Launches npm Firewall to Block Malicious Packages Before Installation](https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html)
+### 9. [GitHub Launches npm Firewall to Block Malicious Packages Before Installation](https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 29 Oct 2026 15:56:33 +0530  
@@ -67,7 +85,7 @@
 
 ---
 
-### 8. [Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open](https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html)
+### 10. [Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open](https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 29 Oct 2026 14:35:39 +0530  
@@ -76,27 +94,16 @@
 
 ---
 
-### 9. [Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys](https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html)
+### 11. [Chrome extensions with 13.4 million installs caught hijacking searches](https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 29 Oct 2026 13:54:22 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 29 Oct 2026 12:10:31 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2026-20127  
-**Categories:** Vulnerability, Malware  
+**Categories:** General Security  
 
 ---
 
-### 10. [China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility](https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 29 Oct 2026 11:52:33 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-41709  
-**Categories:** Vulnerability  
-
----
-
-### 11. [Microsoft fixes Remote Desktop failures caused by recent Windows updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-failures-caused-by-recent-windows-updates/)
+### 12. [Microsoft fixes Remote Desktop failures caused by recent Windows updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-failures-caused-by-recent-windows-updates/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 29 Oct 2026 10:35:40 -0400  
@@ -105,7 +112,7 @@
 
 ---
 
-### 12. [3 Ways AI Agents Already Operate in Your Browser](https://www.bleepingcomputer.com/news/security/3-ways-ai-agents-already-operate-in-your-browser/)
+### 13. [3 Ways AI Agents Already Operate in Your Browser](https://www.bleepingcomputer.com/news/security/3-ways-ai-agents-already-operate-in-your-browser/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 29 Oct 2026 10:00:10 -0400  
@@ -114,17 +121,17 @@
 
 ---
 
-### 13. [CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/)
+### 14. [CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 29 Oct 2026 09:59:48 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-46300, CVE-2026-109619, CVE-2026-109618  
+**CVEs:** CVE-2026-109619, CVE-2026-46300, CVE-2026-109618  
 **Categories:** Vulnerability  
 
 ---
 
-### 14. [Windows 11 KB5127936 update released with 41 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127936-update-released-with-41-changes-and-fixes/)
+### 15. [Windows 11 KB5127936 update released with 41 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127936-update-released-with-41-changes-and-fixes/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 29 Oct 2026 08:00:07 -0400  
@@ -133,7 +140,7 @@
 
 ---
 
-### 15. [New Cisco firewall zero-day exploited to crash SSL VPN devices](https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/)
+### 16. [New Cisco firewall zero-day exploited to crash SSL VPN devices](https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 29 Oct 2026 07:10:13 -0400  
@@ -143,7 +150,7 @@
 
 ---
 
-### 16. [Police seize Virtualine bulletproof service tied to ransowmare, cybercrime](https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/)
+### 17. [Police seize Virtualine bulletproof service tied to ransowmare, cybercrime](https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 28 Oct 2026 16:47:22 -0400  
@@ -152,7 +159,7 @@
 
 ---
 
-### 17. [Discord to let search engines index public server messages](https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/)
+### 18. [Discord to let search engines index public server messages](https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 28 Oct 2026 14:44:16 -0400  
@@ -161,7 +168,7 @@
 
 ---
 
-### 18. [Sony ISP subsidiary data breach exposes 2.5 million customer records](https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/)
+### 19. [Sony ISP subsidiary data breach exposes 2.5 million customer records](https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 28 Oct 2026 12:45:47 -0400  
@@ -170,21 +177,12 @@
 
 ---
 
-### 19. [Volt Typhoon hides zero-day attacks using 'Silent Train' framework](https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/)
+### 20. [Volt Typhoon hides zero-day attacks using 'Silent Train' framework](https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 28 Oct 2026 12:00:00 -0400  
 **Severity:** Critical  
 **Categories:** Vulnerability, Malware  
-
----
-
-### 20. [Microsoft urges Entra ID admins to migrate users to passkeys](https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 28 Oct 2026 10:48:32 -0400  
-**Severity:** Low  
-**Categories:** Phishing  
 
 ---
 
@@ -276,12 +274,21 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-85880, CVE-2026-69730, CVE-2026-81963, CVE-2026-69829  
+**CVEs:** CVE-2026-69829, CVE-2026-85880, CVE-2026-81963, CVE-2026-69730  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 31. [Google Touts Powerful Cybersecurity Capabilities in Gemini 4 Carbon Model](https://www.securityweek.com/google-says-gemini-4-carbon-leads-in-finding-exploiting-and-fixing-vulnerabilities/)
+### 31. [When Risk Becomes Personal: What Security Leaders Can Learn From a Cancer Diagnosis](https://www.securityweek.com/when-risk-becomes-personal-what-security-leaders-can-learn-from-a-cancer-diagnosis/)
+
+**Source:** Security Week  
+**Published:** Thu, 29 Oct 2026 16:30:00 +0000  
+**Severity:** Low  
+**Categories:** Vulnerability, APT  
+
+---
+
+### 32. [Google Touts Powerful Cybersecurity Capabilities in Gemini 4 Carbon Model](https://www.securityweek.com/google-says-gemini-4-carbon-leads-in-finding-exploiting-and-fixing-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Thu, 29 Oct 2026 15:01:00 +0000  
@@ -290,7 +297,7 @@
 
 ---
 
-### 32. [How Secure Are US Elections? Voting Machine Risks and the Growing Threat of AI](https://www.securityweek.com/how-secure-are-us-elections-voting-machine-risks-and-the-growing-threat-of-ai/)
+### 33. [How Secure Are US Elections? Voting Machine Risks and the Growing Threat of AI](https://www.securityweek.com/how-secure-are-us-elections-voting-machine-risks-and-the-growing-threat-of-ai/)
 
 **Source:** Security Week  
 **Published:** Thu, 29 Oct 2026 15:00:00 +0000  
@@ -299,7 +306,7 @@
 
 ---
 
-### 33. [Cisco Open Sources Quarry to Catch AI Agent Attacks Hidden in Harmless Steps](https://www.securityweek.com/cisco-open-sources-quarry-to-catch-ai-agent-attacks-hidden-in-harmless-steps/)
+### 34. [Cisco Open Sources Quarry to Catch AI Agent Attacks Hidden in Harmless Steps](https://www.securityweek.com/cisco-open-sources-quarry-to-catch-ai-agent-attacks-hidden-in-harmless-steps/)
 
 **Source:** Security Week  
 **Published:** Thu, 29 Oct 2026 14:18:03 +0000  
@@ -308,7 +315,7 @@
 
 ---
 
-### 34. [Adobe, Veeam, Juniper Networks Patch Critical Vulnerabilities](https://www.securityweek.com/adobe-veeam-juniper-networks-patch-critical-vulnerabilities/)
+### 35. [Adobe, Veeam, Juniper Networks Patch Critical Vulnerabilities](https://www.securityweek.com/adobe-veeam-juniper-networks-patch-critical-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Thu, 29 Oct 2026 13:42:52 +0000  
@@ -318,7 +325,7 @@
 
 ---
 
-### 35. [BAE Says No Data Extracted in Incident Hitting Bankruptcy Courts](https://www.securityweek.com/bae-says-no-data-extracted-in-incident-hitting-bankruptcy-courts/)
+### 36. [BAE Says No Data Extracted in Incident Hitting Bankruptcy Courts](https://www.securityweek.com/bae-says-no-data-extracted-in-incident-hitting-bankruptcy-courts/)
 
 **Source:** Security Week  
 **Published:** Thu, 29 Oct 2026 13:26:49 +0000  
@@ -327,7 +334,7 @@
 
 ---
 
-### 36. [Over 41,000 DHS Employee Records Leaked Online](https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/)
+### 37. [Over 41,000 DHS Employee Records Leaked Online](https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/)
 
 **Source:** Security Week  
 **Published:** Thu, 29 Oct 2026 12:54:14 +0000  
@@ -336,7 +343,7 @@
 
 ---
 
-### 37. [Hackers Steal 2.6 Million Records From Sony’s Japanese ISP So-net](https://www.securityweek.com/hackers-steal-2-6-million-records-from-sonys-japanese-isp-so-net/)
+### 38. [Hackers Steal 2.6 Million Records From Sony’s Japanese ISP So-net](https://www.securityweek.com/hackers-steal-2-6-million-records-from-sonys-japanese-isp-so-net/)
 
 **Source:** Security Week  
 **Published:** Thu, 29 Oct 2026 11:00:00 +0000  
@@ -345,7 +352,7 @@
 
 ---
 
-### 38. [Cisco SD-WAN Zero-Day Exploitation Tied to Volt Typhoon’s ‘Silent Train’ Network](https://www.securityweek.com/cisco-sd-wan-zero-day-exploitation-tied-to-volt-typhoons-silent-train-network/)
+### 39. [Cisco SD-WAN Zero-Day Exploitation Tied to Volt Typhoon’s ‘Silent Train’ Network](https://www.securityweek.com/cisco-sd-wan-zero-day-exploitation-tied-to-volt-typhoons-silent-train-network/)
 
 **Source:** Security Week  
 **Published:** Thu, 29 Oct 2026 10:29:25 +0000  
@@ -355,26 +362,26 @@
 
 ---
 
-### 39. [Attackers Exploit Second Cisco Firewall VPN Zero-Day Since August](https://www.securityweek.com/attackers-exploit-second-cisco-firewall-vpn-zero-day-since-august/)
+### 40. [Attackers Exploit Second Cisco Firewall VPN Zero-Day Since August](https://www.securityweek.com/attackers-exploit-second-cisco-firewall-vpn-zero-day-since-august/)
 
 **Source:** Security Week  
 **Published:** Thu, 29 Oct 2026 09:47:10 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20349, CVE-2026-76418  
+**CVEs:** CVE-2026-76418, CVE-2026-20349  
 **Categories:** Vulnerability, APT  
 
 ---
 
-### 40. [HHS Filing Puts iRhythm Data Breach Toll at 8.2 Million](https://www.securityweek.com/hhs-filing-puts-irhythm-data-breach-toll-at-8-2-million/)
+### 41. [A quiet week in infosec <.<](https://blog.talosintelligence.com/a-quiet-week-in-infosec/)
 
-**Source:** Security Week  
-**Published:** Thu, 29 Oct 2026 08:27:16 +0000  
+**Source:** Talos Blog  
+**Published:** Thu, 29 Oct 2026 18:00:00 GMT  
 **Severity:** Low  
-**Categories:** Ransomware, Data Breach, Supply Chain  
+**Categories:** Ransomware, Vulnerability  
 
 ---
 
-### 41. [IR trends Q3 2026: Actors impersonate IT help desks in vishing attacks as ransomware activity increases](https://blog.talosintelligence.com/ir-trends-q3-2026/)
+### 42. [IR trends Q3 2026: Actors impersonate IT help desks in vishing attacks as ransomware activity increases](https://blog.talosintelligence.com/ir-trends-q3-2026/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 29 Oct 2026 14:00:00 GMT  
@@ -384,7 +391,7 @@
 
 ---
 
-### 42. [NIK C2: The new AI-enabled command-and-control framework](https://blog.talosintelligence.com/nik-c2-new-ai-enabled-framework/)
+### 43. [NIK C2: The new AI-enabled command-and-control framework](https://blog.talosintelligence.com/nik-c2-new-ai-enabled-framework/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 29 Oct 2026 10:00:00 GMT  
@@ -393,7 +400,7 @@
 
 ---
 
-### 43. [Inside KeyDrift: Analyzing historical UAT-11473 activity on Cisco SD-WAN](https://blog.talosintelligence.com/uat-11473-keydrift/)
+### 44. [Inside KeyDrift: Analyzing historical UAT-11473 activity on Cisco SD-WAN](https://blog.talosintelligence.com/uat-11473-keydrift/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 28 Oct 2026 21:32:02 GMT  
@@ -402,7 +409,7 @@
 
 ---
 
-### 44. [From federal SOCs to Talos: Ryan Fetterman on practical security research](https://blog.talosintelligence.com/from-federal-socs-to-talos-ryan-fetterman-on-practical-security-research/)
+### 45. [From federal SOCs to Talos: Ryan Fetterman on practical security research](https://blog.talosintelligence.com/from-federal-socs-to-talos-ryan-fetterman-on-practical-security-research/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 27 Oct 2026 10:00:21 GMT  
@@ -411,7 +418,7 @@
 
 ---
 
-### 45. [I had plans for that second](https://blog.talosintelligence.com/i-had-plans-for-that-second/)
+### 46. [I had plans for that second](https://blog.talosintelligence.com/i-had-plans-for-that-second/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 22 Oct 2026 18:04:32 GMT  
@@ -420,7 +427,7 @@
 
 ---
 
-### 46. [Compromised eMudhra intermediate certificates](https://blog.talosintelligence.com/compromised-intermediate-certificates/)
+### 47. [Compromised eMudhra intermediate certificates](https://blog.talosintelligence.com/compromised-intermediate-certificates/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 21 Oct 2026 20:43:29 GMT  
@@ -430,7 +437,7 @@
 
 ---
 
-### 47. [Two critical RCEs in PHP core](https://blog.talosintelligence.com/two-critical-rces-in-php-core/)
+### 48. [Two critical RCEs in PHP core](https://blog.talosintelligence.com/two-critical-rces-in-php-core/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 21 Oct 2026 15:10:53 GMT  
@@ -440,7 +447,7 @@
 
 ---
 
-### 48. [Parasitizing trust: How legitimate infrastructure becomes a delivery pipeline for attackers](https://blog.talosintelligence.com/parasitizing-trust-how-legitimate-infrastructure-becomes-a-delivery-pipeline-for-attackers/)
+### 49. [Parasitizing trust: How legitimate infrastructure becomes a delivery pipeline for attackers](https://blog.talosintelligence.com/parasitizing-trust-how-legitimate-infrastructure-becomes-a-delivery-pipeline-for-attackers/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 21 Oct 2026 10:00:00 GMT  
@@ -449,7 +456,7 @@
 
 ---
 
-### 49. [There's only so much code: the rise in vulnerability numbers](https://blog.talosintelligence.com/theres-only-so-much-code-the-rise-in-vulnerability-numbers/)
+### 50. [There's only so much code: the rise in vulnerability numbers](https://blog.talosintelligence.com/theres-only-so-much-code-the-rise-in-vulnerability-numbers/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 20 Oct 2026 15:31:22 GMT  
@@ -459,17 +466,16 @@
 
 ---
 
-### 50. [The Q3 Vulnerability Pulse: Discovery ≠ Exploitation](https://blog.talosintelligence.com/the-q3-vulnerability-pulse-discovery-exploitation/)
+### 51. [Prediction Markets Emerge as a New Vertical for Traffer Teams](https://www.recordedfuture.com/research/prediction-markets-traffer-teams)
 
-**Source:** Talos Blog  
-**Published:** Thu, 15 Oct 2026 18:00:00 GMT  
-**Severity:** Critical  
-**CVEs:** CVE-2015-1000013, CVE-2014-125110  
+**Source:** Recorded Future  
+**Published:** Thu, 29 Oct 2026 00:00:00 GMT  
+**Severity:** Low  
 **Categories:** Vulnerability  
 
 ---
 
-### 51. [Behind Japan’s Warnings of a Cyber Crisis](https://www.recordedfuture.com/blog/japan-cyber-crisis-warnings)
+### 52. [Behind Japan’s Warnings of a Cyber Crisis](https://www.recordedfuture.com/blog/japan-cyber-crisis-warnings)
 
 **Source:** Recorded Future  
 **Published:** Thu, 22 Oct 2026 00:00:00 GMT  
@@ -478,7 +484,7 @@
 
 ---
 
-### 52. [PHP2Shell Exploitation: Two Critical PHP Flaws Explained](https://www.recordedfuture.com/blog/php2shell-vulnerability-exploitation)
+### 53. [PHP2Shell Exploitation: Two Critical PHP Flaws Explained](https://www.recordedfuture.com/blog/php2shell-vulnerability-exploitation)
 
 **Source:** Recorded Future  
 **Published:** Wed, 21 Oct 2026 00:00:00 GMT  
@@ -487,7 +493,7 @@
 
 ---
 
-### 53. [TAG-217 Targets South Korean Financial Services with ARTEX](https://www.recordedfuture.com/blog/tag-217-artex-south-korean-banks)
+### 54. [TAG-217 Targets South Korean Financial Services with ARTEX](https://www.recordedfuture.com/blog/tag-217-artex-south-korean-banks)
 
 **Source:** Recorded Future  
 **Published:** Fri, 16 Oct 2026 00:00:00 GMT  
@@ -496,7 +502,7 @@
 
 ---
 
-### 54. [Working in Boston at the World’s Largest Intelligence Company](https://www.recordedfuture.com/blog/working-in-boston)
+### 55. [Working in Boston at the World’s Largest Intelligence Company](https://www.recordedfuture.com/blog/working-in-boston)
 
 **Source:** Recorded Future  
 **Published:** Thu, 15 Oct 2026 00:00:00 GMT  
@@ -505,7 +511,7 @@
 
 ---
 
-### 55. [Russia Is Tightening Internet Controls, Leading to Operational Risks](https://www.recordedfuture.com/research/russia-restrictive-info-environment)
+### 56. [Russia Is Tightening Internet Controls, Leading to Operational Risks](https://www.recordedfuture.com/research/russia-restrictive-info-environment)
 
 **Source:** Recorded Future  
 **Published:** Thu, 15 Oct 2026 00:00:00 GMT  
@@ -514,7 +520,7 @@
 
 ---
 
-### 56. [TAG-193’s Regional Espionage Operations](https://www.recordedfuture.com/blog/tag193-regional-espionage-operations)
+### 57. [TAG-193’s Regional Espionage Operations](https://www.recordedfuture.com/blog/tag193-regional-espionage-operations)
 
 **Source:** Recorded Future  
 **Published:** Wed, 14 Oct 2026 00:00:00 GMT  
@@ -523,7 +529,7 @@
 
 ---
 
-### 57. [September 2026 CVE Landscape](https://www.recordedfuture.com/blog/september-2026-cve-landscape)
+### 58. [September 2026 CVE Landscape](https://www.recordedfuture.com/blog/september-2026-cve-landscape)
 
 **Source:** Recorded Future  
 **Published:** Tue, 13 Oct 2026 00:00:00 GMT  
@@ -532,7 +538,7 @@
 
 ---
 
-### 58. [Malware Indicators of Compromise (IoCs) | Recorded Future](https://www.recordedfuture.com/blog/malware-indicators-of-compromise)
+### 59. [Malware Indicators of Compromise (IoCs) | Recorded Future](https://www.recordedfuture.com/blog/malware-indicators-of-compromise)
 
 **Source:** Recorded Future  
 **Published:** Tue, 13 Oct 2026 00:00:00 GMT  
@@ -541,20 +547,11 @@
 
 ---
 
-### 59. [Recorded Future Introduces AI Infrastructure Indicator Lists, Strengthening AI Governance](https://www.recordedfuture.com/blog/ai-infrastructure-indicator-lists)
+### 60. [Recorded Future Introduces AI Infrastructure Indicator Lists, Strengthening AI Governance](https://www.recordedfuture.com/blog/ai-infrastructure-indicator-lists)
 
 **Source:** Recorded Future  
 **Published:** Fri, 09 Oct 2026 00:00:00 GMT  
 **Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 60. [Japan Adopts Proactive Cyber Defense Strategy](https://www.recordedfuture.com/research/japan-cyber-defense-strategy)
-
-**Source:** Recorded Future  
-**Published:** Thu, 08 Oct 2026 00:00:00 GMT  
-**Severity:** Critical  
 **Categories:** General Security  
 
 ---
@@ -639,7 +636,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
