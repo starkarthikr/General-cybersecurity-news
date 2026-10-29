@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-28 21:14:54 UTC
+**Last Updated:** 2026-10-29 05:13:51 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -275,7 +275,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69829, CVE-2026-81963, CVE-2026-69730, CVE-2026-85880  
+**CVEs:** CVE-2026-85880, CVE-2026-69829, CVE-2026-69730, CVE-2026-81963  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -323,7 +323,7 @@
 **Source:** Security Week  
 **Published:** Wed, 28 Oct 2026 12:00:59 +0000  
 **Severity:** Low  
-**CVEs:** CVE-2026-46300, CVE-2026-109618, CVE-2026-109619  
+**CVEs:** CVE-2026-109619, CVE-2026-109618, CVE-2026-46300  
 **Categories:** Vulnerability, Malware, APT  
 
 ---
@@ -333,7 +333,7 @@
 **Source:** Security Week  
 **Published:** Wed, 28 Oct 2026 10:48:00 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-114596, CVE-2026-114598, CVE-2026-114595, CVE-2026-114597  
+**CVEs:** CVE-2026-114598, CVE-2026-114597, CVE-2026-114595, CVE-2026-114596  
 **Categories:** Vulnerability  
 
 ---
@@ -376,7 +376,16 @@
 
 ---
 
-### 41. [From federal SOCs to Talos: Ryan Fetterman on practical security research](https://blog.talosintelligence.com/from-federal-socs-to-talos-ryan-fetterman-on-practical-security-research/)
+### 41. [Inside KeyDrift: Analyzing historical UAT-11473 activity on Cisco SD-WAN](https://blog.talosintelligence.com/uat-11473-keydrift/)
+
+**Source:** Talos Blog  
+**Published:** Wed, 28 Oct 2026 21:32:02 GMT  
+**Severity:** High  
+**Categories:** Malware  
+
+---
+
+### 42. [From federal SOCs to Talos: Ryan Fetterman on practical security research](https://blog.talosintelligence.com/from-federal-socs-to-talos-ryan-fetterman-on-practical-security-research/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 27 Oct 2026 10:00:21 GMT  
@@ -385,7 +394,7 @@
 
 ---
 
-### 42. [I had plans for that second](https://blog.talosintelligence.com/i-had-plans-for-that-second/)
+### 43. [I had plans for that second](https://blog.talosintelligence.com/i-had-plans-for-that-second/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 22 Oct 2026 18:04:32 GMT  
@@ -394,7 +403,7 @@
 
 ---
 
-### 43. [Compromised eMudhra intermediate certificates](https://blog.talosintelligence.com/compromised-intermediate-certificates/)
+### 44. [Compromised eMudhra intermediate certificates](https://blog.talosintelligence.com/compromised-intermediate-certificates/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 21 Oct 2026 20:43:29 GMT  
@@ -404,17 +413,17 @@
 
 ---
 
-### 44. [Two critical RCEs in PHP core](https://blog.talosintelligence.com/two-critical-rces-in-php-core/)
+### 45. [Two critical RCEs in PHP core](https://blog.talosintelligence.com/two-critical-rces-in-php-core/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 21 Oct 2026 15:10:53 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109618, CVE-2026-109619  
+**CVEs:** CVE-2026-109619, CVE-2026-109618  
 **Categories:** Ransomware, Vulnerability  
 
 ---
 
-### 45. [Parasitizing trust: How legitimate infrastructure becomes a delivery pipeline for attackers](https://blog.talosintelligence.com/parasitizing-trust-how-legitimate-infrastructure-becomes-a-delivery-pipeline-for-attackers/)
+### 46. [Parasitizing trust: How legitimate infrastructure becomes a delivery pipeline for attackers](https://blog.talosintelligence.com/parasitizing-trust-how-legitimate-infrastructure-becomes-a-delivery-pipeline-for-attackers/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 21 Oct 2026 10:00:00 GMT  
@@ -423,7 +432,7 @@
 
 ---
 
-### 46. [There's only so much code: the rise in vulnerability numbers](https://blog.talosintelligence.com/theres-only-so-much-code-the-rise-in-vulnerability-numbers/)
+### 47. [There's only so much code: the rise in vulnerability numbers](https://blog.talosintelligence.com/theres-only-so-much-code-the-rise-in-vulnerability-numbers/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 20 Oct 2026 15:31:22 GMT  
@@ -433,17 +442,17 @@
 
 ---
 
-### 47. [The Q3 Vulnerability Pulse: Discovery ≠ Exploitation](https://blog.talosintelligence.com/the-q3-vulnerability-pulse-discovery-exploitation/)
+### 48. [The Q3 Vulnerability Pulse: Discovery ≠ Exploitation](https://blog.talosintelligence.com/the-q3-vulnerability-pulse-discovery-exploitation/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 15 Oct 2026 18:00:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2014-125110, CVE-2015-1000013  
+**CVEs:** CVE-2015-1000013, CVE-2014-125110  
 **Categories:** Vulnerability  
 
 ---
 
-### 48. [Break the silence: Kazakhstan-nexus UAT-6275 targets CIS government organizations](https://blog.talosintelligence.com/break-the-silence-kazakhstan-nexus-uat-6275-targets-cis-government-organizations/)
+### 49. [Break the silence: Kazakhstan-nexus UAT-6275 targets CIS government organizations](https://blog.talosintelligence.com/break-the-silence-kazakhstan-nexus-uat-6275-targets-cis-government-organizations/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 14 Oct 2026 14:00:00 GMT  
@@ -452,22 +461,13 @@
 
 ---
 
-### 49. [Microsoft Patch Tuesday for October 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-for-october-2026/)
+### 50. [Microsoft Patch Tuesday for October 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-for-october-2026/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 13 Oct 2026 20:37:58 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-96951, CVE-2026-70229, CVE-2026-70571  
+**CVEs:** CVE-2026-70229, CVE-2026-96951, CVE-2026-70571  
 **Categories:** Vulnerability  
-
----
-
-### 50. [Making sure the checks get printed](https://blog.talosintelligence.com/making-sure-the-checks-get-printed/)
-
-**Source:** Talos Blog  
-**Published:** Thu, 08 Oct 2026 18:00:29 GMT  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
@@ -641,7 +641,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -787,7 +787,7 @@
 **Source:** Crowdstrike Blog  
 **Published:** Oct 21, 2026 00:00:00-0500  
 **Severity:** Low  
-**CVEs:** CVE-2026-109618, CVE-2026-109619  
+**CVEs:** CVE-2026-109619, CVE-2026-109618  
 **Categories:** Vulnerability  
 
 ---

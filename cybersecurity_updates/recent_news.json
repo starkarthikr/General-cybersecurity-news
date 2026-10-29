@@ -556,10 +556,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-85880",
         "CVE-2026-69829",
-        "CVE-2026-81963",
         "CVE-2026-69730",
-        "CVE-2026-85880"
+        "CVE-2026-81963"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -658,9 +658,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-46300",
+        "CVE-2026-109619",
         "CVE-2026-109618",
-        "CVE-2026-109619"
+        "CVE-2026-46300"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -682,10 +682,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-114596",
         "CVE-2026-114598",
+        "CVE-2026-114597",
         "CVE-2026-114595",
-        "CVE-2026-114597"
+        "CVE-2026-114596"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -774,6 +774,24 @@
   },
   {
     "source": "Talos Blog",
+    "title": "Inside KeyDrift: Analyzing historical UAT-11473 activity on Cisco SD-WAN",
+    "link": "https://blog.talosintelligence.com/uat-11473-keydrift/",
+    "published": "Wed, 28 Oct 2026 21:32:02 GMT",
+    "summary": "Talos has identified UAT-11473, a highly sophisticated APT, who exploited CVE-2026-20127, an authentication bypass vulnerability in Cisco SD-WAN Catalyst Controller instances to bypass authentication and gain unauthorized access to affected systems to deploy KeyDrift.",
+    "analysis": {
+      "issue": "Talos assesses with high confidence that UAT-11473’s operating infrastructure overlaps considerably with Volt Typhoon’s “Silent Train” covert access network",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Talos Blog",
     "title": "From federal SOCs to Talos: Ryan Fetterman on practical security research",
     "link": "https://blog.talosintelligence.com/from-federal-socs-to-talos-ryan-fetterman-on-practical-security-research/",
     "published": "Tue, 27 Oct 2026 10:00:21 GMT",
@@ -841,8 +859,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109618",
-        "CVE-2026-109619"
+        "CVE-2026-109619",
+        "CVE-2026-109618"
       ],
       "threat_categories": [
         "Ransomware",
@@ -901,8 +919,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2014-125110",
-        "CVE-2015-1000013"
+        "CVE-2015-1000013",
+        "CVE-2014-125110"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -940,30 +958,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-96951",
         "CVE-2026-70229",
+        "CVE-2026-96951",
         "CVE-2026-70571"
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "Making sure the checks get printed",
-    "link": "https://blog.talosintelligence.com/making-sure-the-checks-get-printed/",
-    "published": "Thu, 08 Oct 2026 18:00:29 GMT",
-    "summary": "Pierre's debut newsletter explores the messy, real-world side of risk management and how to keep vital systems running when a perfect patch isn't an option.",
-    "analysis": {
-      "issue": "Welcome to this week’s edition of the Threat Source newsletter",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
@@ -1314,8 +1314,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1611,8 +1611,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-109618",
-        "CVE-2026-109619"
+        "CVE-2026-109619",
+        "CVE-2026-109618"
       ],
       "threat_categories": [
         "Vulnerability"
