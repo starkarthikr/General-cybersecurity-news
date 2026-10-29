@@ -1,6 +1,26 @@
 [
   {
     "source": "The Hacker News",
+    "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
+    "link": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
+    "published": "Fri, 30 Oct 2026 00:41:58 +0530",
+    "summary": "Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and trusted software doing things it shouldn't.\n\nThere's a strange mix of clever tricks and careless mistakes. Hackers are borrowing trust from familiar apps, websites, and AI tools. Some are using AI to speed things up. Others are leaving their",
+    "analysis": {
+      "issue": "This week's ThreatsDay covers 40K exposed secrets, AI-powered ransomware, GitHub supply chain attacks, critical flaws, and emerging cyber threats",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
     "link": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
     "published": "Thu, 29 Oct 2026 21:27:05 +0530",
@@ -76,7 +96,7 @@
     "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
     "link": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
     "published": "Thu, 29 Oct 2026 17:09:18 +0530",
-    "summary": "A flaw in Telegram for Android allowed an attacker to run code on a victim's phone via a voice call once the victim answered, according to security startup NebuSec.\n\nThe attacker needed only an ordinary Telegram account. Telegram fixed the flaw in version 12.10.4 of the app, released in late September, and NebuSec&nbsp;disclosed it on October 29.\n\nThe flaw can be triggered in every version from",
+    "summary": "A flaw in Telegram for Android could be chained with two other bugs to take full control of a victim's phone through a voice call, once the victim answered, according to security startup NebuSec.\n\nThe attacker needed only an ordinary Telegram account. Telegram fixed the flaw in version 12.10.4 of the app, released in late September, and NebuSec&nbsp;disclosed it on October 29.\n\nCombined with an",
     "analysis": {
       "issue": "NebuSec demonstrated code execution through an answered Telegram for Android voice call; the flaw was fixed in version 12",
       "solution": null,
@@ -162,20 +182,42 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open",
-    "link": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
-    "published": "Thu, 29 Oct 2026 14:35:39 +0530",
-    "summary": "An attacker tried to exploit a critical GitLab vulnerability on the Alpine Linux project's own GitLab server a week after GitLab&nbsp;released a fix, Alpine Linux&nbsp;said&nbsp;on 28 October.\n\nThe flaw, CVE-2026-97229 (CVSS score: 10.0), can let an attacker run code on a GitLab server through a crafted regular expression in a CI configuration. Alpine found no evidence that the attack worked but",
+    "source": "Bleeping Computer",
+    "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
+    "link": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/",
+    "published": "Thu, 29 Oct 2026 15:23:41 -0400",
+    "summary": "A fake cryptocurrency trading app called Padre Terminal, previously available on the Apple App Store for iOS devices, has been linked to the theft of approximately $23,000 from 27 Solana wallets. [...]",
     "analysis": {
-      "issue": "Alpine Linux rebuilt its GitLab server after an RCE exploit attempt and found that upgrading GitLab alone had left the Ruby flaw unpatched",
+      "issue": "A fake cryptocurrency trading app called Padre Terminal, previously available on the Apple App Store for iOS devices, has been linked to the theft of approximately $23,000 from 27 Solana wallets",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
+    "published": "Thu, 29 Oct 2026 14:38:26 -0400",
+    "summary": "A newly identified advanced persistent threat (APT) group tracked as UAT-11473 was observed exploiting CVE-2026-20127, an authentication-bypass flaw in Cisco Catalyst SD-WAN Controllers, to deploy a custom malware framework called KeyDrift. [...]",
+    "analysis": {
+      "issue": "A newly identified advanced persistent threat (APT) group tracked as UAT-11473 was observed exploiting CVE-2026-20127, an authentication-bypass flaw in Cisco Catalyst SD-WAN Controllers, to deploy a custom malware framework called KeyDrift",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-20127"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "APT"
       ]
     }
   },
@@ -246,9 +288,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109619",
         "CVE-2026-46300",
-        "CVE-2026-109618"
+        "CVE-2026-109618",
+        "CVE-2026-109619"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -328,43 +370,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
-    "link": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
-    "published": "Wed, 28 Oct 2026 12:45:47 -0400",
-    "summary": "Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers' personal information. [...]",
-    "analysis": {
-      "issue": "Sony Network Communications has confirmed a data breach that compromised approximately 2",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework",
-    "link": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
-    "published": "Wed, 28 Oct 2026 12:00:00 -0400",
-    "summary": "Chinese state-sponsored hacking group Volt Typhoon has been using a framework that relies on rotating chains of connected devices compromised on demand, including for zero-day attacks targeting high-value systems. [...]",
-    "analysis": {
-      "issue": "Chinese state-sponsored hacking group Volt Typhoon has been using a framework that relies on rotating chains of connected devices compromised on demand, including for zero-day attacks targeting high-value systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
       ]
     }
   },
@@ -554,10 +559,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69829",
         "CVE-2026-85880",
         "CVE-2026-81963",
-        "CVE-2026-69730"
+        "CVE-2026-69730",
+        "CVE-2026-69829"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -751,8 +756,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-76418",
-        "CVE-2026-20349"
+        "CVE-2026-20349",
+        "CVE-2026-76418"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -908,8 +913,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109619",
-        "CVE-2026-109618"
+        "CVE-2026-109618",
+        "CVE-2026-109619"
       ],
       "threat_categories": [
         "Ransomware",
@@ -1516,12 +1521,12 @@
   },
   {
     "source": "Crowdstrike Blog",
-    "title": "CrowdStrike 2026 Legal Threat Landscape Report: eCrime Leads Attacks, China Activity Intensifies",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-legal-threat-landscape-report/",
-    "published": "Oct 28, 2026 00:00:00-0500",
+    "title": "New Prompt Injection Techniques Cover Agent-Planning Attacks",
+    "link": "https://www.crowdstrike.com/en-us/blog/new-prompt-injection-techniques-cover-agent-planning-attacks/",
+    "published": "Oct 29, 2026 00:00:00-0500",
     "summary": "",
     "analysis": {
-      "issue": "The CrowdStrike 2026 Legal Threat Landscape Report analyzes the key themes, trends, and events shaping the legal sector threat landscape",
+      "issue": "CrowdStrike introduces a new version of the Prompt Injection Taxonomy,  adding newly discovered attack techniques on autonomous agents and how they plan",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1552,16 +1557,16 @@
   },
   {
     "source": "Crowdstrike Blog",
-    "title": "Why Organizations Secure AI Agents with Falcon Guardian",
-    "link": "https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/",
-    "published": "Oct 23, 2026 00:00:00-0500",
+    "title": "CrowdStrike 2026 Legal Threat Landscape Report: eCrime Leads Attacks, China Activity Intensifies",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-legal-threat-landscape-report/",
+    "published": "Oct 28, 2026 00:00:00-0500",
     "summary": "",
     "analysis": {
-      "issue": "Falcon Guardian has been deployed at hundreds of organizations around the world",
+      "issue": "The CrowdStrike 2026 Legal Threat Landscape Report analyzes the key themes, trends, and events shaping the legal sector threat landscape",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Critical",
+      "severity": "Low",
       "cves": [],
       "threat_categories": [
         "General Security"
@@ -1588,6 +1593,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "Why Organizations Secure AI Agents with Falcon Guardian",
+    "link": "https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/",
+    "published": "Oct 23, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "Falcon Guardian has been deployed at hundreds of organizations around the world",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "CrowdStrike Protects Customers from Threats Delivered via PHP2Shell",
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-protects-customers-from-php-rce-zero-days/",
     "published": "Oct 21, 2026 00:00:00-0500",
@@ -1599,8 +1622,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-109619",
-        "CVE-2026-109618"
+        "CVE-2026-109618",
+        "CVE-2026-109619"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1676,24 +1699,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike and Anthropic Give Critical Infrastructure Defenders the AI Advantage",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-anthropic-critical-infrastructure-defense-program/",
-    "published": "Oct 08, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "CrowdStrike joins Anthropic’s Critical Infrastructure Defense Program, bringing expertise in protecting IT and OT environments to help advance AI-powered defense",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   }
