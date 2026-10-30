@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-29 21:20:01 UTC
+**Last Updated:** 2026-10-30 05:13:32 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -94,7 +94,52 @@
 
 ---
 
-### 11. [Fake crypto app on Apple App Store linked to $23K wallet theft](https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/)
+### 11. [OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 29 Oct 2026 19:35:52 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 12. [Binance probes potential $5.8 billion crypto-theft hack](https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 29 Oct 2026 18:45:23 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 13. [Hugging Face malware campaign returns to hijack GPUs for crypto mining](https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 29 Oct 2026 18:09:24 -0400  
+**Severity:** Low  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 14. [Japan Airlines suffers third-party data breach exposing passenger info](https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 29 Oct 2026 18:08:04 -0400  
+**Severity:** Low  
+**Categories:** Data Breach, Supply Chain  
+
+---
+
+### 15. [Polymarket halts trading after crypto-draining script breach, $2.5M traced](https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 29 Oct 2026 17:47:25 -0400  
+**Severity:** Low  
+**Categories:** Supply Chain  
+
+---
+
+### 16. [Fake crypto app on Apple App Store linked to $23K wallet theft](https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 29 Oct 2026 15:23:41 -0400  
@@ -103,7 +148,7 @@
 
 ---
 
-### 12. [Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware](https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/)
+### 17. [Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware](https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 29 Oct 2026 14:38:26 -0400  
@@ -113,7 +158,7 @@
 
 ---
 
-### 13. [Chrome extensions with 13.4 million installs caught hijacking searches](https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/)
+### 18. [Chrome extensions with 13.4 million installs caught hijacking searches](https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 29 Oct 2026 12:10:31 -0400  
@@ -122,7 +167,7 @@
 
 ---
 
-### 14. [Microsoft fixes Remote Desktop failures caused by recent Windows updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-failures-caused-by-recent-windows-updates/)
+### 19. [Microsoft fixes Remote Desktop failures caused by recent Windows updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-failures-caused-by-recent-windows-updates/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 29 Oct 2026 10:35:40 -0400  
@@ -131,57 +176,10 @@
 
 ---
 
-### 15. [3 Ways AI Agents Already Operate in Your Browser](https://www.bleepingcomputer.com/news/security/3-ways-ai-agents-already-operate-in-your-browser/)
+### 20. [3 Ways AI Agents Already Operate in Your Browser](https://www.bleepingcomputer.com/news/security/3-ways-ai-agents-already-operate-in-your-browser/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 29 Oct 2026 10:00:10 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 16. [CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 29 Oct 2026 09:59:48 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-46300, CVE-2026-109618, CVE-2026-109619  
-**Categories:** Vulnerability  
-
----
-
-### 17. [Windows 11 KB5127936 update released with 41 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127936-update-released-with-41-changes-and-fixes/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 29 Oct 2026 08:00:07 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 18. [New Cisco firewall zero-day exploited to crash SSL VPN devices](https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 29 Oct 2026 07:10:13 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-76418  
-**Categories:** Vulnerability, APT  
-
----
-
-### 19. [Police seize Virtualine bulletproof service tied to ransowmare, cybercrime](https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 28 Oct 2026 16:47:22 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability, Phishing  
-
----
-
-### 20. [Discord to let search engines index public server messages](https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 28 Oct 2026 14:44:16 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -219,7 +217,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 13 Oct 2026 23:24:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-96951, CVE-2026-108398  
+**CVEs:** CVE-2026-108398, CVE-2026-96951  
 **Categories:** Vulnerability  
 
 ---
@@ -275,7 +273,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-85880, CVE-2026-81963, CVE-2026-69730, CVE-2026-69829  
+**CVEs:** CVE-2026-69730, CVE-2026-81963, CVE-2026-69829, CVE-2026-85880  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -751,7 +749,16 @@
 
 ---
 
-### 82. [When AI Guardrails Expose Vulnerabilities](https://www.crowdstrike.com/en-us/blog/when-ai-guardrails-expose-vulnerabilities/)
+### 82. [VAPOR PANDA Uses AI-Driven ARTEX to Scale a Global Espionage Campaign](https://www.crowdstrike.com/en-us/blog/vapor-panda-uses-artex-to-scale-global-campaign/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Oct 29, 2026 00:00:00-0500  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 83. [When AI Guardrails Expose Vulnerabilities](https://www.crowdstrike.com/en-us/blog/when-ai-guardrails-expose-vulnerabilities/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 28, 2026 00:00:00-0500  
@@ -760,7 +767,7 @@
 
 ---
 
-### 83. [CrowdStrike 2026 Legal Threat Landscape Report: eCrime Leads Attacks, China Activity Intensifies](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-legal-threat-landscape-report/)
+### 84. [CrowdStrike 2026 Legal Threat Landscape Report: eCrime Leads Attacks, China Activity Intensifies](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-legal-threat-landscape-report/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 28, 2026 00:00:00-0500  
@@ -769,7 +776,7 @@
 
 ---
 
-### 84. [Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation](https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/)
+### 85. [Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation](https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 23, 2026 00:00:00-0500  
@@ -778,7 +785,7 @@
 
 ---
 
-### 85. [Why Organizations Secure AI Agents with Falcon Guardian](https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/)
+### 86. [Why Organizations Secure AI Agents with Falcon Guardian](https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 23, 2026 00:00:00-0500  
@@ -787,7 +794,7 @@
 
 ---
 
-### 86. [CrowdStrike Protects Customers from Threats Delivered via PHP2Shell](https://www.crowdstrike.com/en-us/blog/crowdstrike-protects-customers-from-php-rce-zero-days/)
+### 87. [CrowdStrike Protects Customers from Threats Delivered via PHP2Shell](https://www.crowdstrike.com/en-us/blog/crowdstrike-protects-customers-from-php-rce-zero-days/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 21, 2026 00:00:00-0500  
@@ -797,7 +804,7 @@
 
 ---
 
-### 87. [CrowdStrike Uncovers New Agentic AI Campaigns](https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-agentic-ai-campaigns/)
+### 88. [CrowdStrike Uncovers New Agentic AI Campaigns](https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-agentic-ai-campaigns/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 21, 2026 00:00:00-0500  
@@ -806,7 +813,7 @@
 
 ---
 
-### 88. [CrowdStrike Achieves NCSC CIR Enhanced Level Assurance](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-uk-ncsc-cir-enhanced-level-assurance/)
+### 89. [CrowdStrike Achieves NCSC CIR Enhanced Level Assurance](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-uk-ncsc-cir-enhanced-level-assurance/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 20, 2026 00:00:00-0500  
@@ -815,21 +822,12 @@
 
 ---
 
-### 89. [U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance](https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/)
+### 90. [U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance](https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 13, 2026 00:00:00-0500  
 **Severity:** Low  
 **Categories:** APT  
-
----
-
-### 90. [October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2026/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Oct 13, 2026 00:00:00-0500  
-**Severity:** Critical  
-**Categories:** Vulnerability  
 
 ---
 
