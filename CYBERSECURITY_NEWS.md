@@ -1,10 +1,29 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-30 15:11:56 UTC
+**Last Updated:** 2026-10-30 17:54:03 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis](https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html)
+### 1. [TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them](https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 30 Oct 2026 20:47:28 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-111585  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours](https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 30 Oct 2026 19:38:14 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis](https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 30 Oct 2026 17:51:56 +0530  
@@ -13,7 +32,7 @@
 
 ---
 
-### 2. [Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving](https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html)
+### 4. [Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving](https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 30 Oct 2026 17:28:53 +0530  
@@ -22,7 +41,7 @@
 
 ---
 
-### 3. [Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison](https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html)
+### 5. [Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison](https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 30 Oct 2026 16:10:45 +0530  
@@ -31,7 +50,7 @@
 
 ---
 
-### 4. [Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor](https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html)
+### 6. [Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor](https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 30 Oct 2026 14:25:47 +0530  
@@ -40,7 +59,7 @@
 
 ---
 
-### 5. [Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw](https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html)
+### 7. [Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw](https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 30 Oct 2026 13:15:30 +0530  
@@ -50,7 +69,7 @@
 
 ---
 
-### 6. [CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV](https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html)
+### 8. [CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV](https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 30 Oct 2026 12:57:05 +0530  
@@ -59,7 +78,7 @@
 
 ---
 
-### 7. [Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen](https://thehackernews.com/2026/10/binance-suffers-security-breach.html)
+### 9. [Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen](https://thehackernews.com/2026/10/binance-suffers-security-breach.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 30 Oct 2026 09:44:59 +0530  
@@ -68,7 +87,7 @@
 
 ---
 
-### 8. [ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories](https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html)
+### 10. [ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories](https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 30 Oct 2026 00:41:58 +0530  
@@ -77,25 +96,16 @@
 
 ---
 
-### 9. [Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions](https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html)
+### 11. [Trezor warns of suspected crypto-theft implant in hardware wallet](https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 29 Oct 2026 21:27:05 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 10. [Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners](https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 29 Oct 2026 20:50:29 +0530  
+**Source:** Bleeping Computer  
+**Published:** Fri, 30 Oct 2026 11:58:20 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 11. [Malicious Claude Code extension on Cursor planted SSH backdoors](https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/)
+### 12. [Malicious Claude Code extension on Cursor planted SSH backdoors](https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 30 Oct 2026 10:36:54 -0400  
@@ -104,7 +114,7 @@
 
 ---
 
-### 12. [SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone](https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/)
+### 13. [SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone](https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 30 Oct 2026 10:00:10 -0400  
@@ -113,7 +123,7 @@
 
 ---
 
-### 13. [CISA says max severity GitLab flaw now exploited in the wild](https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/)
+### 14. [CISA says max severity GitLab flaw now exploited in the wild](https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 30 Oct 2026 09:00:32 -0400  
@@ -123,7 +133,7 @@
 
 ---
 
-### 14. [Microsoft finally fixes VPN issues caused by September updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/)
+### 15. [Microsoft finally fixes VPN issues caused by September updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 30 Oct 2026 07:20:26 -0400  
@@ -132,7 +142,7 @@
 
 ---
 
-### 15. [Drupal warns of critical Commerce Core flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/)
+### 16. [Drupal warns of critical Commerce Core flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 30 Oct 2026 06:16:07 -0400  
@@ -142,7 +152,7 @@
 
 ---
 
-### 16. [Binance links $6.3 billion crypto theft to compromised DevOps laptop](https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/)
+### 17. [Binance links $6.3 billion crypto theft to compromised DevOps laptop](https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 30 Oct 2026 05:18:13 -0400  
@@ -151,7 +161,7 @@
 
 ---
 
-### 17. [OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/)
+### 18. [OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 29 Oct 2026 19:35:52 -0400  
@@ -160,7 +170,7 @@
 
 ---
 
-### 18. [Binance probes potential $5.8 billion crypto-theft hack](https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/)
+### 19. [Binance probes potential $5.8 billion crypto-theft hack](https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 29 Oct 2026 18:45:23 -0400  
@@ -169,21 +179,12 @@
 
 ---
 
-### 19. [Hugging Face malware campaign returns to hijack GPUs for crypto mining](https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/)
+### 20. [Hugging Face malware campaign returns to hijack GPUs for crypto mining](https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 29 Oct 2026 18:09:24 -0400  
 **Severity:** Low  
 **Categories:** Vulnerability, Malware  
-
----
-
-### 20. [Japan Airlines suffers third-party data breach exposing passenger info](https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 29 Oct 2026 18:08:04 -0400  
-**Severity:** Low  
-**Categories:** Data Breach, Supply Chain  
 
 ---
 
@@ -275,12 +276,22 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69829, CVE-2026-85880, CVE-2026-81963, CVE-2026-69730  
+**CVEs:** CVE-2026-85880, CVE-2026-81963, CVE-2026-69829, CVE-2026-69730  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 31. [In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak](https://www.securityweek.com/in-other-news-anthropic-breach-dispute-uefi-flaw-hits-most-servers-cloudflare-ai-data-leak/)
+### 31. [PHP2Shell Attacks Root Palo Alto Firewalls but Fail Against WordPress](https://www.securityweek.com/php2shell-attacks-root-palo-alto-firewalls-but-fail-against-wordpress/)
+
+**Source:** Security Week  
+**Published:** Fri, 30 Oct 2026 15:09:25 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-109619, CVE-2026-109618  
+**Categories:** Vulnerability  
+
+---
+
+### 32. [In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak](https://www.securityweek.com/in-other-news-anthropic-breach-dispute-uefi-flaw-hits-most-servers-cloudflare-ai-data-leak/)
 
 **Source:** Security Week  
 **Published:** Fri, 30 Oct 2026 14:41:35 +0000  
@@ -290,7 +301,7 @@
 
 ---
 
-### 32. [Passkeys Are Better Than Passwords. But They Are Not Enough.](https://www.securityweek.com/passkeys-are-better-than-passwords-but-they-are-not-enough/)
+### 33. [Passkeys Are Better Than Passwords. But They Are Not Enough.](https://www.securityweek.com/passkeys-are-better-than-passwords-but-they-are-not-enough/)
 
 **Source:** Security Week  
 **Published:** Fri, 30 Oct 2026 14:00:00 +0000  
@@ -299,7 +310,7 @@
 
 ---
 
-### 33. [Bulletproof Host Virtualine Loses Its Domain to FBI Seizure](https://www.securityweek.com/bulletproof-host-virtualine-loses-its-domain-to-fbi-seizure/)
+### 34. [Bulletproof Host Virtualine Loses Its Domain to FBI Seizure](https://www.securityweek.com/bulletproof-host-virtualine-loses-its-domain-to-fbi-seizure/)
 
 **Source:** Security Week  
 **Published:** Fri, 30 Oct 2026 13:36:12 +0000  
@@ -308,7 +319,7 @@
 
 ---
 
-### 34. [Fresh WordPress Vulnerability in Attackers’ Crosshairs](https://www.securityweek.com/fresh-wordpress-vulnerability-in-attackers-crosshairs/)
+### 35. [Fresh WordPress Vulnerability in Attackers’ Crosshairs](https://www.securityweek.com/fresh-wordpress-vulnerability-in-attackers-crosshairs/)
 
 **Source:** Security Week  
 **Published:** Fri, 30 Oct 2026 12:04:13 +0000  
@@ -317,17 +328,17 @@
 
 ---
 
-### 35. [Drupal Commerce Core Vulnerability Exploited Against Online Stores](https://www.securityweek.com/drupal-commerce-core-vulnerability-exploited-against-online-stores/)
+### 36. [Drupal Commerce Core Vulnerability Exploited Against Online Stores](https://www.securityweek.com/drupal-commerce-core-vulnerability-exploited-against-online-stores/)
 
 **Source:** Security Week  
 **Published:** Fri, 30 Oct 2026 11:07:11 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-108097, CVE-2026-108099, CVE-2026-9082, CVE-2026-118539  
+**CVEs:** CVE-2026-108097, CVE-2026-9082, CVE-2026-118539, CVE-2026-108099  
 **Categories:** Vulnerability, APT  
 
 ---
 
-### 36. [$2 Million+ Drained From Polymarket Traders in New Supply Chain Attack](https://www.securityweek.com/2-million-drained-from-polymarket-traders-in-new-supply-chain-attack/)
+### 37. [$2 Million+ Drained From Polymarket Traders in New Supply Chain Attack](https://www.securityweek.com/2-million-drained-from-polymarket-traders-in-new-supply-chain-attack/)
 
 **Source:** Security Week  
 **Published:** Fri, 30 Oct 2026 09:41:36 +0000  
@@ -336,7 +347,7 @@
 
 ---
 
-### 37. [Max-Severity GitLab Vulnerability Exploited Against Alpine Linux](https://www.securityweek.com/max-severity-gitlab-vulnerability-exploited-against-alpine-linux/)
+### 38. [Max-Severity GitLab Vulnerability Exploited Against Alpine Linux](https://www.securityweek.com/max-severity-gitlab-vulnerability-exploited-against-alpine-linux/)
 
 **Source:** Security Week  
 **Published:** Fri, 30 Oct 2026 09:32:27 +0000  
@@ -346,31 +357,22 @@
 
 ---
 
-### 38. [TeamViewer Flaw Could Let Malicious Hosts Take Over Support Technicians’ Machines](https://www.securityweek.com/teamviewer-flaw-could-let-malicious-hosts-take-over-support-technicians-machines/)
+### 39. [TeamViewer Flaw Could Let Malicious Hosts Take Over Support Technicians’ Machines](https://www.securityweek.com/teamviewer-flaw-could-let-malicious-hosts-take-over-support-technicians-machines/)
 
 **Source:** Security Week  
 **Published:** Fri, 30 Oct 2026 08:44:49 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-111585, CVE-2026-92374, CVE-2026-92372  
+**CVEs:** CVE-2026-92372, CVE-2026-92374, CVE-2026-111585  
 **Categories:** Vulnerability  
 
 ---
 
-### 39. [$6 Billion Binance Hack Bears Hallmarks of North Korea’s TraderTraitor](https://www.securityweek.com/6-billion-binance-hack-bears-hallmarks-of-north-koreas-tradertraitor/)
+### 40. [$6 Billion Binance Hack Bears Hallmarks of North Korea’s TraderTraitor](https://www.securityweek.com/6-billion-binance-hack-bears-hallmarks-of-north-koreas-tradertraitor/)
 
 **Source:** Security Week  
 **Published:** Fri, 30 Oct 2026 08:16:26 +0000  
 **Severity:** High  
 **Categories:** Vulnerability, Phishing, APT  
-
----
-
-### 40. [When Risk Becomes Personal: What Security Leaders Can Learn From a Cancer Diagnosis](https://www.securityweek.com/when-risk-becomes-personal-what-security-leaders-can-learn-from-a-cancer-diagnosis/)
-
-**Source:** Security Week  
-**Published:** Thu, 29 Oct 2026 16:30:00 +0000  
-**Severity:** Low  
-**Categories:** Vulnerability, APT  
 
 ---
 
@@ -653,7 +655,16 @@
 
 ---
 
-### 71. [Photo ID, bank checks, face scan? The UK’s age-check options](https://www.malwarebytes.com/blog/news/2026/10/photo-id-bank-checks-face-scan-the-uks-age-check-options)
+### 71. [Fake PDF and search tools hijacked searches for 13.4 million Chrome users](https://www.malwarebytes.com/blog/news/2026/10/fake-pdf-and-search-tools-hijacked-searches-for-13-4-million-chrome-users)
+
+**Source:** Malwarebytes  
+**Published:** Fri, 30 Oct 2026 15:25:41 GMT  
+**Severity:** Low  
+**Categories:** Malware, Phishing  
+
+---
+
+### 72. [Photo ID, bank checks, face scan? The UK’s age-check options](https://www.malwarebytes.com/blog/news/2026/10/photo-id-bank-checks-face-scan-the-uks-age-check-options)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 30 Oct 2026 13:00:02 GMT  
@@ -662,7 +673,7 @@
 
 ---
 
-### 72. [Binance hit by largest-ever crypto theft, with $6.3 billion stolen](https://www.malwarebytes.com/blog/news/2026/10/binance-hit-by-largest-ever-crypto-theft-with-6-3-billion-stolen)
+### 73. [Binance hit by largest-ever crypto theft, with $6.3 billion stolen](https://www.malwarebytes.com/blog/news/2026/10/binance-hit-by-largest-ever-crypto-theft-with-6-3-billion-stolen)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 30 Oct 2026 12:24:19 GMT  
@@ -671,7 +682,7 @@
 
 ---
 
-### 73. [Hackers steal and publish data on 41,000 Homeland Security workers](https://www.malwarebytes.com/blog/data-breaches/2026/10/hackers-steal-and-publish-data-on-41000-homeland-security-workers)
+### 74. [Hackers steal and publish data on 41,000 Homeland Security workers](https://www.malwarebytes.com/blog/data-breaches/2026/10/hackers-steal-and-publish-data-on-41000-homeland-security-workers)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 30 Oct 2026 11:33:12 GMT  
@@ -680,7 +691,7 @@
 
 ---
 
-### 74. [Malicious Firefox extensions impersonate popular crypto wallets](https://www.malwarebytes.com/blog/news/2026/10/malicious-firefox-extensions-impersonate-popular-crypto-wallets)
+### 75. [Malicious Firefox extensions impersonate popular crypto wallets](https://www.malwarebytes.com/blog/news/2026/10/malicious-firefox-extensions-impersonate-popular-crypto-wallets)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 29 Oct 2026 14:06:54 GMT  
@@ -689,7 +700,7 @@
 
 ---
 
-### 75. [Have an older iPhone or iPad? Apple has a security update for you](https://www.malwarebytes.com/blog/bugs/2026/10/have-an-older-iphone-or-ipad-apple-has-a-security-update-for-you)
+### 76. [Have an older iPhone or iPad? Apple has a security update for you](https://www.malwarebytes.com/blog/bugs/2026/10/have-an-older-iphone-or-ipad-apple-has-a-security-update-for-you)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 29 Oct 2026 11:03:18 GMT  
@@ -698,7 +709,7 @@
 
 ---
 
-### 76. [Banks are blocking AI agents from customer accounts](https://www.malwarebytes.com/blog/ai/2026/10/banks-are-blocking-ai-agents-from-customer-accounts)
+### 77. [Banks are blocking AI agents from customer accounts](https://www.malwarebytes.com/blog/ai/2026/10/banks-are-blocking-ai-agents-from-customer-accounts)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 28 Oct 2026 13:38:59 GMT  
@@ -707,7 +718,7 @@
 
 ---
 
-### 77. [Chrome and Firefox updates fix serious security flaws. Install now](https://www.malwarebytes.com/blog/ai/2026/10/chrome-and-firefox-updates-fix-serious-security-flaws-install-them-now)
+### 78. [Chrome and Firefox updates fix serious security flaws. Install now](https://www.malwarebytes.com/blog/ai/2026/10/chrome-and-firefox-updates-fix-serious-security-flaws-install-them-now)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 28 Oct 2026 11:13:06 GMT  
@@ -716,7 +727,7 @@
 
 ---
 
-### 78. [Five election scams to watch out for](https://www.malwarebytes.com/blog/scams/2026/10/five-election-scams-to-watch-out-for)
+### 79. [Five election scams to watch out for](https://www.malwarebytes.com/blog/scams/2026/10/five-election-scams-to-watch-out-for)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 27 Oct 2026 15:36:09 GMT  
@@ -725,21 +736,12 @@
 
 ---
 
-### 79. [Artificial Intimacy: Love and lies in the age of AI](https://www.malwarebytes.com/blog/ai/2026/10/artificial-intimacy-love-and-lies-in-the-age-of-ai)
+### 80. [Artificial Intimacy: Love and lies in the age of AI](https://www.malwarebytes.com/blog/ai/2026/10/artificial-intimacy-love-and-lies-in-the-age-of-ai)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 27 Oct 2026 12:40:00 GMT  
 **Severity:** Low  
 **Categories:** Vulnerability  
-
----
-
-### 80. [The web’s having a rough week. Here’s how to browse safely](https://www.malwarebytes.com/blog/news/2026/10/the-webs-having-a-rough-week-heres-how-to-browse-safely)
-
-**Source:** Malwarebytes  
-**Published:** Tue, 27 Oct 2026 12:22:37 GMT  
-**Severity:** Critical  
-**Categories:** Vulnerability, Malware  
 
 ---
 
