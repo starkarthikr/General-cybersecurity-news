@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
+    "link": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
+    "published": "Fri, 30 Oct 2026 09:44:59 +0530",
+    "summary": "Cryptocurrency giant Binance said on Thursday that a \"security incident\" on its platform has impacted about $6.3 billion worth of assets.\n\nThe world's biggest cryptocurrency exchange said nearly $3 billion of those assets have been frozen on-chain so far.&nbsp;\n\nTether and Circle said they have frozen more than 1.567 billion USDT and 800 million related to the incident, respectively. The",
+    "analysis": {
+      "issue": "Binance says a security incident affected about $6",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
     "link": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
     "published": "Fri, 30 Oct 2026 00:41:58 +0530",
@@ -160,24 +178,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "GitHub Launches npm Firewall to Block Malicious Packages Before Installation",
-    "link": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
-    "published": "Thu, 29 Oct 2026 15:56:33 +0530",
-    "summary": "GitHub has announced that it's introducing a new package firewall as a preview to block installation of suspicious npm packages during installation time.\n\n\"The firewall inspects both metadata requests and package downloads for signs of malicious activity, acting as an install-time policy gate,\" GitHub said.\n\nThe feature, which currently supports only npm packages, is available in public preview",
-    "analysis": {
-      "issue": "GitHub's new npm package firewall blocks downloads based on malware advisories, vulnerabilities, attestations, install scripts, and package age",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
@@ -436,8 +436,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-108398",
-        "CVE-2026-96951"
+        "CVE-2026-96951",
+        "CVE-2026-108398"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -553,10 +553,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69730",
-        "CVE-2026-81963",
+        "CVE-2026-85880",
         "CVE-2026-69829",
-        "CVE-2026-85880"
+        "CVE-2026-69730",
+        "CVE-2026-81963"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1301,8 +1301,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",

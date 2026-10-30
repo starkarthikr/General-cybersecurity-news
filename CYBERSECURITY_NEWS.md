@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-30 05:13:32 UTC
+**Last Updated:** 2026-10-30 06:14:32 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories](https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html)
+### 1. [Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen](https://thehackernews.com/2026/10/binance-suffers-security-breach.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 30 Oct 2026 09:44:59 +0530  
+**Severity:** Low  
+**Categories:** APT  
+
+---
+
+### 2. [ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories](https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 30 Oct 2026 00:41:58 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions](https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html)
+### 3. [Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions](https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 29 Oct 2026 21:27:05 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners](https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html)
+### 4. [Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners](https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 29 Oct 2026 20:50:29 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities](https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html)
+### 5. [Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities](https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 29 Oct 2026 19:12:40 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [Webinar: How to Build AI Threat Readiness Into Your Security Operations](https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html)
+### 6. [Webinar: How to Build AI Threat Readiness Into Your Security Operations](https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 29 Oct 2026 17:09:41 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls](https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html)
+### 7. [Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls](https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 29 Oct 2026 17:09:18 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers](https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html)
+### 8. [The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers](https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 29 Oct 2026 17:03:41 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories](https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html)
+### 9. [26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories](https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 29 Oct 2026 17:03:15 +0530  
@@ -76,21 +85,12 @@
 
 ---
 
-### 9. [Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls](https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html)
+### 10. [Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls](https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 29 Oct 2026 16:14:46 +0530  
 **Severity:** Low  
 **Categories:** Vulnerability  
-
----
-
-### 10. [GitHub Launches npm Firewall to Block Malicious Packages Before Installation](https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 29 Oct 2026 15:56:33 +0530  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
@@ -217,7 +217,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 13 Oct 2026 23:24:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-108398, CVE-2026-96951  
+**CVEs:** CVE-2026-96951, CVE-2026-108398  
 **Categories:** Vulnerability  
 
 ---
@@ -273,7 +273,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69730, CVE-2026-81963, CVE-2026-69829, CVE-2026-85880  
+**CVEs:** CVE-2026-85880, CVE-2026-69829, CVE-2026-69730, CVE-2026-81963  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -635,7 +635,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
