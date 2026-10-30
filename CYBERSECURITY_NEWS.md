@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-30 17:54:03 UTC
+**Last Updated:** 2026-10-30 20:58:40 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them](https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html)
+### 1. [Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide](https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 30 Oct 2026 22:28:44 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them](https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 30 Oct 2026 20:47:28 +0530  
@@ -14,7 +23,7 @@
 
 ---
 
-### 2. [WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours](https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html)
+### 3. [WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours](https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 30 Oct 2026 19:38:14 +0530  
@@ -23,7 +32,7 @@
 
 ---
 
-### 3. [Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis](https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html)
+### 4. [Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis](https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 30 Oct 2026 17:51:56 +0530  
@@ -32,7 +41,7 @@
 
 ---
 
-### 4. [Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving](https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html)
+### 5. [Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving](https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 30 Oct 2026 17:28:53 +0530  
@@ -41,7 +50,7 @@
 
 ---
 
-### 5. [Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison](https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html)
+### 6. [Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison](https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 30 Oct 2026 16:10:45 +0530  
@@ -50,7 +59,7 @@
 
 ---
 
-### 6. [Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor](https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html)
+### 7. [Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor](https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 30 Oct 2026 14:25:47 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw](https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html)
+### 8. [Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw](https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 30 Oct 2026 13:15:30 +0530  
@@ -69,7 +78,7 @@
 
 ---
 
-### 8. [CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV](https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html)
+### 9. [CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV](https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 30 Oct 2026 12:57:05 +0530  
@@ -78,21 +87,12 @@
 
 ---
 
-### 9. [Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen](https://thehackernews.com/2026/10/binance-suffers-security-breach.html)
+### 10. [Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen](https://thehackernews.com/2026/10/binance-suffers-security-breach.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 30 Oct 2026 09:44:59 +0530  
 **Severity:** Low  
 **Categories:** APT  
-
----
-
-### 10. [ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories](https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 30 Oct 2026 00:41:58 +0530  
-**Severity:** Critical  
-**Categories:** Ransomware, Malware, Supply Chain  
 
 ---
 
@@ -276,7 +276,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-85880, CVE-2026-81963, CVE-2026-69829, CVE-2026-69730  
+**CVEs:** CVE-2026-69829, CVE-2026-69730, CVE-2026-85880, CVE-2026-81963  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -333,7 +333,7 @@
 **Source:** Security Week  
 **Published:** Fri, 30 Oct 2026 11:07:11 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-108097, CVE-2026-9082, CVE-2026-118539, CVE-2026-108099  
+**CVEs:** CVE-2026-118539, CVE-2026-9082, CVE-2026-108097, CVE-2026-108099  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -362,7 +362,7 @@
 **Source:** Security Week  
 **Published:** Fri, 30 Oct 2026 08:44:49 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-92372, CVE-2026-92374, CVE-2026-111585  
+**CVEs:** CVE-2026-92374, CVE-2026-111585, CVE-2026-92372  
 **Categories:** Vulnerability  
 
 ---
@@ -640,7 +640,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -745,16 +745,34 @@
 
 ---
 
-### 81. [New Prompt Injection Techniques Cover Agent-Planning Attacks](https://www.crowdstrike.com/en-us/blog/new-prompt-injection-techniques-cover-agent-planning-attacks/)
+### 81. [CrowdStrike Expands Falcon Adversary OverWatch Threat Hunting Across AI and Google Cloud](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-threat-hunting-across-ai-and-google-cloud/)
 
 **Source:** Crowdstrike Blog  
-**Published:** Oct 29, 2026 00:00:00-0500  
+**Published:** Oct 30, 2026 00:00:00-0500  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 82. [VAPOR PANDA Uses AI-Driven ARTEX to Scale a Global Espionage Campaign](https://www.crowdstrike.com/en-us/blog/vapor-panda-uses-artex-to-scale-global-campaign/)
+### 82. [Build an Intelligence Advantage with Falcon Next-Gen SIEM](https://www.crowdstrike.com/en-us/blog/build-intelligence-advantage-with-falcon-next-gen-siem/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Oct 30, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 83. [CrowdStrike Agent Graph Shows How Agents Act on the Endpoint](https://www.crowdstrike.com/en-us/blog/crowdstrike-agent-graph-shows-how-agents-act-on-endpoint/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Oct 30, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 84. [VAPOR PANDA Uses AI-Driven ARTEX to Scale a Global Espionage Campaign](https://www.crowdstrike.com/en-us/blog/vapor-panda-uses-artex-to-scale-global-campaign/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 29, 2026 00:00:00-0500  
@@ -763,7 +781,14 @@
 
 ---
 
-### 83. [When AI Guardrails Expose Vulnerabilities](https://www.crowdstrike.com/en-us/blog/when-ai-guardrails-expose-vulnerabilities/)
+### 85. [New Prompt Injection Techniques Cover Agent-Planning Attacks](https://www.crowdstrike.com/en-us/blog/new-prompt-injection-techniques-cover-agent-planning-attacks/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Oct 29, 2026 00:00:00-0500  
+
+---
+
+### 86. [When AI Guardrails Expose Vulnerabilities](https://www.crowdstrike.com/en-us/blog/when-ai-guardrails-expose-vulnerabilities/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 28, 2026 00:00:00-0500  
@@ -772,7 +797,7 @@
 
 ---
 
-### 84. [CrowdStrike 2026 Legal Threat Landscape Report: eCrime Leads Attacks, China Activity Intensifies](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-legal-threat-landscape-report/)
+### 87. [CrowdStrike 2026 Legal Threat Landscape Report: eCrime Leads Attacks, China Activity Intensifies](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-legal-threat-landscape-report/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 28, 2026 00:00:00-0500  
@@ -781,7 +806,7 @@
 
 ---
 
-### 85. [Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation](https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/)
+### 88. [Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation](https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 23, 2026 00:00:00-0500  
@@ -790,7 +815,7 @@
 
 ---
 
-### 86. [Why Organizations Secure AI Agents with Falcon Guardian](https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/)
+### 89. [Why Organizations Secure AI Agents with Falcon Guardian](https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 23, 2026 00:00:00-0500  
@@ -799,40 +824,13 @@
 
 ---
 
-### 87. [CrowdStrike Protects Customers from Threats Delivered via PHP2Shell](https://www.crowdstrike.com/en-us/blog/crowdstrike-protects-customers-from-php-rce-zero-days/)
+### 90. [CrowdStrike Protects Customers from Threats Delivered via PHP2Shell](https://www.crowdstrike.com/en-us/blog/crowdstrike-protects-customers-from-php-rce-zero-days/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 21, 2026 00:00:00-0500  
 **Severity:** Low  
 **CVEs:** CVE-2026-109619, CVE-2026-109618  
 **Categories:** Vulnerability  
-
----
-
-### 88. [CrowdStrike Uncovers New Agentic AI Campaigns](https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-agentic-ai-campaigns/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Oct 21, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 89. [CrowdStrike Achieves NCSC CIR Enhanced Level Assurance](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-uk-ncsc-cir-enhanced-level-assurance/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Oct 20, 2026 00:00:00-0500  
-**Severity:** High  
-**Categories:** General Security  
-
----
-
-### 90. [U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance](https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Oct 13, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** APT  
 
 ---
 
