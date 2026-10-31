@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-31 06:07:26 UTC
+**Last Updated:** 2026-10-31 14:40:36 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats](https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html)
+### 1. [Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data](https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 31 Oct 2026 17:31:56 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access](https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 31 Oct 2026 13:57:43 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats](https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 31 Oct 2026 11:03:41 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%](https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html)
+### 4. [Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%](https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 31 Oct 2026 10:26:12 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide](https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html)
+### 5. [Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide](https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 30 Oct 2026 22:28:44 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them](https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html)
+### 6. [TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them](https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 30 Oct 2026 20:47:28 +0530  
@@ -41,7 +59,7 @@
 
 ---
 
-### 5. [WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours](https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html)
+### 7. [WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours](https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 30 Oct 2026 19:38:14 +0530  
@@ -50,7 +68,7 @@
 
 ---
 
-### 6. [Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis](https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html)
+### 8. [Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis](https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 30 Oct 2026 17:51:56 +0530  
@@ -59,7 +77,7 @@
 
 ---
 
-### 7. [Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving](https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html)
+### 9. [Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving](https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 30 Oct 2026 17:28:53 +0530  
@@ -68,7 +86,7 @@
 
 ---
 
-### 8. [Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison](https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html)
+### 10. [Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison](https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 30 Oct 2026 16:10:45 +0530  
@@ -77,26 +95,34 @@
 
 ---
 
-### 9. [Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor](https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html)
+### 11. [Reddit to lock content behind logins to fight scrapers](https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 30 Oct 2026 14:25:47 +0530  
+**Source:** Bleeping Computer  
+**Published:** Sat, 31 Oct 2026 10:05:15 -0400  
 **Severity:** Low  
-**Categories:** Malware  
+**Categories:** General Security  
 
 ---
 
-### 10. [Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw](https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html)
+### 12. [From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.](https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 30 Oct 2026 13:15:30 +0530  
+**Source:** Bleeping Computer  
+**Published:** Sat, 31 Oct 2026 09:10:19 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2026-118539  
 **Categories:** Vulnerability  
 
 ---
 
-### 11. [Critical Linux kernel flaw allows remote root attacks on MPTCP servers](https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/)
+### 13. [Chainalysis discloses data breach from "offensive agentic techniques"](https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/)
+
+**Source:** Bleeping Computer  
+**Published:** Sat, 31 Oct 2026 08:50:09 -0400  
+**Severity:** Low  
+**Categories:** Ransomware, Data Breach  
+
+---
+
+### 14. [Critical Linux kernel flaw allows remote root attacks on MPTCP servers](https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 30 Oct 2026 17:09:46 -0400  
@@ -106,7 +132,7 @@
 
 ---
 
-### 12. [Trezor warns of suspected crypto-theft implant in hardware wallet](https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/)
+### 15. [Trezor warns of suspected crypto-theft implant in hardware wallet](https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 30 Oct 2026 11:58:20 -0400  
@@ -115,7 +141,7 @@
 
 ---
 
-### 13. [Malicious Claude Code extension on Cursor planted SSH backdoors](https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/)
+### 16. [Malicious Claude Code extension on Cursor planted SSH backdoors](https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 30 Oct 2026 10:36:54 -0400  
@@ -124,7 +150,7 @@
 
 ---
 
-### 14. [SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone](https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/)
+### 17. [SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone](https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 30 Oct 2026 10:00:10 -0400  
@@ -133,7 +159,7 @@
 
 ---
 
-### 15. [CISA says max severity GitLab flaw now exploited in the wild](https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/)
+### 18. [CISA says max severity GitLab flaw now exploited in the wild](https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 30 Oct 2026 09:00:32 -0400  
@@ -143,7 +169,7 @@
 
 ---
 
-### 16. [Microsoft finally fixes VPN issues caused by September updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/)
+### 19. [Microsoft finally fixes VPN issues caused by September updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 30 Oct 2026 07:20:26 -0400  
@@ -152,40 +178,13 @@
 
 ---
 
-### 17. [Drupal warns of critical Commerce Core flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/)
+### 20. [Drupal warns of critical Commerce Core flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 30 Oct 2026 06:16:07 -0400  
 **Severity:** Critical  
 **CVEs:** CVE-2026-118539  
 **Categories:** Vulnerability  
-
----
-
-### 18. [Binance links $6.3 billion crypto theft to compromised DevOps laptop](https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 30 Oct 2026 05:18:13 -0400  
-**Severity:** Low  
-**Categories:** Data Breach, APT  
-
----
-
-### 19. [OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 29 Oct 2026 19:35:52 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [Binance probes potential $5.8 billion crypto-theft hack](https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 29 Oct 2026 18:45:23 -0400  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -221,7 +220,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 13 Oct 2026 23:24:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-96951, CVE-2026-108398  
+**CVEs:** CVE-2026-108398, CVE-2026-96951  
 **Categories:** Vulnerability  
 
 ---
@@ -277,22 +276,31 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81963, CVE-2026-69730, CVE-2026-85880, CVE-2026-69829  
+**CVEs:** CVE-2026-69730, CVE-2026-81963, CVE-2026-69829, CVE-2026-85880  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 31. [PHP2Shell Attacks Root Palo Alto Firewalls but Fail Against WordPress](https://www.securityweek.com/php2shell-attacks-root-palo-alto-firewalls-but-fail-against-wordpress/)
+### 31. [Syrian Hacker Gets Prison Time in US After Over a Decade on the Run](https://www.securityweek.com/syrian-hacker-gets-prison-time-in-us-after-over-a-decade-on-the-run/)
+
+**Source:** Security Week  
+**Published:** Sat, 31 Oct 2026 11:00:00 +0000  
+**Severity:** High  
+**Categories:** Ransomware, Supply Chain  
+
+---
+
+### 32. [PHP2Shell Attacks Root Palo Alto Firewalls but Fail Against WordPress](https://www.securityweek.com/php2shell-attacks-root-palo-alto-firewalls-but-fail-against-wordpress/)
 
 **Source:** Security Week  
 **Published:** Fri, 30 Oct 2026 15:09:25 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109618, CVE-2026-109619  
+**CVEs:** CVE-2026-109619, CVE-2026-109618  
 **Categories:** Vulnerability  
 
 ---
 
-### 32. [In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak](https://www.securityweek.com/in-other-news-anthropic-breach-dispute-uefi-flaw-hits-most-servers-cloudflare-ai-data-leak/)
+### 33. [In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak](https://www.securityweek.com/in-other-news-anthropic-breach-dispute-uefi-flaw-hits-most-servers-cloudflare-ai-data-leak/)
 
 **Source:** Security Week  
 **Published:** Fri, 30 Oct 2026 14:41:35 +0000  
@@ -302,7 +310,7 @@
 
 ---
 
-### 33. [Passkeys Are Better Than Passwords. But They Are Not Enough.](https://www.securityweek.com/passkeys-are-better-than-passwords-but-they-are-not-enough/)
+### 34. [Passkeys Are Better Than Passwords. But They Are Not Enough.](https://www.securityweek.com/passkeys-are-better-than-passwords-but-they-are-not-enough/)
 
 **Source:** Security Week  
 **Published:** Fri, 30 Oct 2026 14:00:00 +0000  
@@ -311,7 +319,7 @@
 
 ---
 
-### 34. [Bulletproof Host Virtualine Loses Its Domain to FBI Seizure](https://www.securityweek.com/bulletproof-host-virtualine-loses-its-domain-to-fbi-seizure/)
+### 35. [Bulletproof Host Virtualine Loses Its Domain to FBI Seizure](https://www.securityweek.com/bulletproof-host-virtualine-loses-its-domain-to-fbi-seizure/)
 
 **Source:** Security Week  
 **Published:** Fri, 30 Oct 2026 13:36:12 +0000  
@@ -320,7 +328,7 @@
 
 ---
 
-### 35. [Fresh WordPress Vulnerability in Attackers’ Crosshairs](https://www.securityweek.com/fresh-wordpress-vulnerability-in-attackers-crosshairs/)
+### 36. [Fresh WordPress Vulnerability in Attackers’ Crosshairs](https://www.securityweek.com/fresh-wordpress-vulnerability-in-attackers-crosshairs/)
 
 **Source:** Security Week  
 **Published:** Fri, 30 Oct 2026 12:04:13 +0000  
@@ -329,17 +337,17 @@
 
 ---
 
-### 36. [Drupal Commerce Core Vulnerability Exploited Against Online Stores](https://www.securityweek.com/drupal-commerce-core-vulnerability-exploited-against-online-stores/)
+### 37. [Drupal Commerce Core Vulnerability Exploited Against Online Stores](https://www.securityweek.com/drupal-commerce-core-vulnerability-exploited-against-online-stores/)
 
 **Source:** Security Week  
 **Published:** Fri, 30 Oct 2026 11:07:11 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-118539, CVE-2026-108099, CVE-2026-108097, CVE-2026-9082  
+**CVEs:** CVE-2026-118539, CVE-2026-108099, CVE-2026-9082, CVE-2026-108097  
 **Categories:** Vulnerability, APT  
 
 ---
 
-### 37. [$2 Million+ Drained From Polymarket Traders in New Supply Chain Attack](https://www.securityweek.com/2-million-drained-from-polymarket-traders-in-new-supply-chain-attack/)
+### 38. [$2 Million+ Drained From Polymarket Traders in New Supply Chain Attack](https://www.securityweek.com/2-million-drained-from-polymarket-traders-in-new-supply-chain-attack/)
 
 **Source:** Security Week  
 **Published:** Fri, 30 Oct 2026 09:41:36 +0000  
@@ -348,7 +356,7 @@
 
 ---
 
-### 38. [Max-Severity GitLab Vulnerability Exploited Against Alpine Linux](https://www.securityweek.com/max-severity-gitlab-vulnerability-exploited-against-alpine-linux/)
+### 39. [Max-Severity GitLab Vulnerability Exploited Against Alpine Linux](https://www.securityweek.com/max-severity-gitlab-vulnerability-exploited-against-alpine-linux/)
 
 **Source:** Security Week  
 **Published:** Fri, 30 Oct 2026 09:32:27 +0000  
@@ -358,7 +366,7 @@
 
 ---
 
-### 39. [TeamViewer Flaw Could Let Malicious Hosts Take Over Support Technicians’ Machines](https://www.securityweek.com/teamviewer-flaw-could-let-malicious-hosts-take-over-support-technicians-machines/)
+### 40. [TeamViewer Flaw Could Let Malicious Hosts Take Over Support Technicians’ Machines](https://www.securityweek.com/teamviewer-flaw-could-let-malicious-hosts-take-over-support-technicians-machines/)
 
 **Source:** Security Week  
 **Published:** Fri, 30 Oct 2026 08:44:49 +0000  
@@ -368,16 +376,16 @@
 
 ---
 
-### 40. [$6 Billion Binance Hack Bears Hallmarks of North Korea’s TraderTraitor](https://www.securityweek.com/6-billion-binance-hack-bears-hallmarks-of-north-koreas-tradertraitor/)
+### 41. [Appraisal by AI: Model-driven victim prioritization in the VOLTA infostealer](https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/)
 
-**Source:** Security Week  
-**Published:** Fri, 30 Oct 2026 08:16:26 +0000  
+**Source:** Talos Blog  
+**Published:** Sat, 31 Oct 2026 12:00:00 GMT  
 **Severity:** High  
-**Categories:** Vulnerability, Phishing, APT  
+**Categories:** Malware  
 
 ---
 
-### 41. [A quiet week in infosec <.<](https://blog.talosintelligence.com/a-quiet-week-in-infosec/)
+### 42. [A quiet week in infosec <.<](https://blog.talosintelligence.com/a-quiet-week-in-infosec/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 29 Oct 2026 18:00:00 GMT  
@@ -386,7 +394,7 @@
 
 ---
 
-### 42. [IR trends Q3 2026: Actors impersonate IT help desks in vishing attacks as ransomware activity increases](https://blog.talosintelligence.com/ir-trends-q3-2026/)
+### 43. [IR trends Q3 2026: Actors impersonate IT help desks in vishing attacks as ransomware activity increases](https://blog.talosintelligence.com/ir-trends-q3-2026/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 29 Oct 2026 14:00:00 GMT  
@@ -396,7 +404,7 @@
 
 ---
 
-### 43. [NIK C2: The new AI-enabled command-and-control framework](https://blog.talosintelligence.com/nik-c2-new-ai-enabled-framework/)
+### 44. [NIK C2: The new AI-enabled command-and-control framework](https://blog.talosintelligence.com/nik-c2-new-ai-enabled-framework/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 29 Oct 2026 10:00:00 GMT  
@@ -405,7 +413,7 @@
 
 ---
 
-### 44. [Inside KeyDrift: Analyzing historical UAT-11473 activity on Cisco SD-WAN](https://blog.talosintelligence.com/uat-11473-keydrift/)
+### 45. [Inside KeyDrift: Analyzing historical UAT-11473 activity on Cisco SD-WAN](https://blog.talosintelligence.com/uat-11473-keydrift/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 28 Oct 2026 21:32:02 GMT  
@@ -414,7 +422,7 @@
 
 ---
 
-### 45. [From federal SOCs to Talos: Ryan Fetterman on practical security research](https://blog.talosintelligence.com/from-federal-socs-to-talos-ryan-fetterman-on-practical-security-research/)
+### 46. [From federal SOCs to Talos: Ryan Fetterman on practical security research](https://blog.talosintelligence.com/from-federal-socs-to-talos-ryan-fetterman-on-practical-security-research/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 27 Oct 2026 10:00:21 GMT  
@@ -423,7 +431,7 @@
 
 ---
 
-### 46. [I had plans for that second](https://blog.talosintelligence.com/i-had-plans-for-that-second/)
+### 47. [I had plans for that second](https://blog.talosintelligence.com/i-had-plans-for-that-second/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 22 Oct 2026 18:04:32 GMT  
@@ -432,7 +440,7 @@
 
 ---
 
-### 47. [Compromised eMudhra intermediate certificates](https://blog.talosintelligence.com/compromised-intermediate-certificates/)
+### 48. [Compromised eMudhra intermediate certificates](https://blog.talosintelligence.com/compromised-intermediate-certificates/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 21 Oct 2026 20:43:29 GMT  
@@ -442,32 +450,22 @@
 
 ---
 
-### 48. [Two critical RCEs in PHP core](https://blog.talosintelligence.com/two-critical-rces-in-php-core/)
+### 49. [Two critical RCEs in PHP core](https://blog.talosintelligence.com/two-critical-rces-in-php-core/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 21 Oct 2026 15:10:53 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109618, CVE-2026-109619  
+**CVEs:** CVE-2026-109619, CVE-2026-109618  
 **Categories:** Ransomware, Vulnerability  
 
 ---
 
-### 49. [Parasitizing trust: How legitimate infrastructure becomes a delivery pipeline for attackers](https://blog.talosintelligence.com/parasitizing-trust-how-legitimate-infrastructure-becomes-a-delivery-pipeline-for-attackers/)
+### 50. [Parasitizing trust: How legitimate infrastructure becomes a delivery pipeline for attackers](https://blog.talosintelligence.com/parasitizing-trust-how-legitimate-infrastructure-becomes-a-delivery-pipeline-for-attackers/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 21 Oct 2026 10:00:00 GMT  
 **Severity:** High  
 **Categories:** Phishing  
-
----
-
-### 50. [There's only so much code: the rise in vulnerability numbers](https://blog.talosintelligence.com/theres-only-so-much-code-the-rise-in-vulnerability-numbers/)
-
-**Source:** Talos Blog  
-**Published:** Tue, 20 Oct 2026 15:31:22 GMT  
-**Severity:** Critical  
-**CVEs:** CVE-2021-44228  
-**Categories:** Vulnerability  
 
 ---
 
@@ -832,7 +830,7 @@
 **Source:** Crowdstrike Blog  
 **Published:** Oct 21, 2026 00:00:00-0500  
 **Severity:** Low  
-**CVEs:** CVE-2026-109618, CVE-2026-109619  
+**CVEs:** CVE-2026-109619, CVE-2026-109618  
 **Categories:** Vulnerability  
 
 ---

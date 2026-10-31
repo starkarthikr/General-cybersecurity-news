@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
+    "link": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
+    "published": "Sat, 31 Oct 2026 17:31:56 +0530",
+    "summary": "American blockchain analysis firm Chainalysis said it was the target of a cybersecurity incident in which an external actor accessed non-sensitive customer data.\n\nHowever, the company noted that the breach did not result in unauthorized access to its investigation content, authentication credentials, or session tokens.\n\n\"This month, Chainalysis detected an external actor using offensive agentic",
+    "analysis": {
+      "issue": "Chainalysis confirms an attack using agentic techniques exposed customer names, emails, and user IDs, but not credentials or session tokens",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
+    "link": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
+    "published": "Sat, 31 Oct 2026 13:57:43 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV) catalog, following active exploitation in the wild.\n\nThe vulnerabilities are listed below -\n\n\n  CVE-2026-111357 (CVSS score: 8.8) - A missing authentication for a critical function vulnerability that could allow a",
+    "analysis": {
+      "issue": "CISA adds two exploited Ivanti Connect Secure flaws to its KEV catalog after attackers chained them to gain unauthenticated root-level code execution",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
     "link": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
     "published": "Sat, 31 Oct 2026 11:03:41 +0530",
@@ -146,40 +182,57 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
-    "link": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
-    "published": "Fri, 30 Oct 2026 14:25:47 +0530",
-    "summary": "Cybersecurity researchers have disclosed that a trojanized version of Anthropic's official Claude Code extension was distributed through the Cursor Marketplace as a legitimate update, attempting to install a persistent SSH backdoor on affected systems.\n\nThe malicious update, version 2.1.313, was distributed under the extension's legitimate publisher identity, prompting Cursor to temporarily shut",
+    "source": "Bleeping Computer",
+    "title": "Reddit to lock content behind logins to fight scrapers",
+    "link": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
+    "published": "Sat, 31 Oct 2026 10:05:15 -0400",
+    "summary": "Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a \"logged-in service,\" offering limited access to visitors without accounts. [...]",
     "analysis": {
-      "issue": "A compromised Claude Code VS Code extension added an SSH key, installed persistence, and sent host details before version 2",
+      "issue": "Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a \"logged-in service,\" offering limited access to visitors without accounts",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "General Security"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
-    "link": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
-    "published": "Fri, 30 Oct 2026 13:15:30 +0530",
-    "summary": "Drupal has warned that threat actors are exploiting a \"highly critical\" security flaw in its Commerce Core component.\n\nThe vulnerability, tracked as CVE-2026-118539 (CVSS score: N/A), is a case of missing authorization affecting Commerce Core versions from 0.0.0 to 2.41 and from 3.0.0 to 3.3.13.\n\n\"This module enables you to sell goods and services to customers through an included shopping cart",
+    "source": "Bleeping Computer",
+    "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
+    "link": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
+    "published": "Sat, 31 Oct 2026 09:10:19 -0400",
+    "summary": "[...]",
     "analysis": {
-      "issue": "Drupal warns of active exploitation of CVE-2026-118539 in Commerce Core, an authorization bypass flaw that may financially impact vendors",
+      "issue": "Finding a real security flaw and getting paid for it is an appealing goal when you are learning cyber security",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [
-        "CVE-2026-118539"
-      ],
+      "cves": [],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
+    "link": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
+    "published": "Sat, 31 Oct 2026 08:50:09 -0400",
+    "summary": "Blockchain analytics firm Chainalysis disclosed a data breach after attackers used \"offensive agentic techniques\" to access internal systems and tools, exposing customer names, email addresses, user IDs, and organizational roles. [...]",
+    "analysis": {
+      "issue": "Blockchain intelligence firm Chainalysis has disclosed a security incident after attackers used what it describes as \"offensive agentic techniques\" to gain unauthorized access to its internal systems and tools",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach"
       ]
     }
   },
@@ -318,61 +371,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Binance links $6.3 billion crypto theft to compromised DevOps laptop",
-    "link": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/",
-    "published": "Fri, 30 Oct 2026 05:18:13 -0400",
-    "summary": "Binance, the world's largest crypto exchange, has linked the theft of about $6.3 billion in cryptocurrency to a DevOps engineer's compromised laptop. [...]",
-    "analysis": {
-      "issue": "Binance, the world's largest crypto exchange, has linked the theft of about $6",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
-    "published": "Thu, 29 Oct 2026 19:35:52 -0400",
-    "summary": "OpenAI says it won't reduce usage limits for the $100, $200, and $500 ChatGPT Pro plans, as well as Business Premium, and it also promised to keep Dots usage independent. [...]",
-    "analysis": {
-      "issue": "OpenAI says it won't reduce usage limits for the $100, $200, and $500 ChatGPT Pro plans, as well as Business Premium, and it also promised to keep Dots usage independent",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Binance probes potential $5.8 billion crypto-theft hack",
-    "link": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
-    "published": "Thu, 29 Oct 2026 18:45:23 -0400",
-    "summary": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. [...]",
-    "analysis": {
-      "issue": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
     "link": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
@@ -441,8 +439,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-96951",
-        "CVE-2026-108398"
+        "CVE-2026-108398",
+        "CVE-2026-96951"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -558,14 +556,33 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-81963",
         "CVE-2026-69730",
-        "CVE-2026-85880",
-        "CVE-2026-69829"
+        "CVE-2026-81963",
+        "CVE-2026-69829",
+        "CVE-2026-85880"
       ],
       "threat_categories": [
         "Vulnerability",
         "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Syrian Hacker Gets Prison Time in US After Over a Decade on the Run",
+    "link": "https://www.securityweek.com/syrian-hacker-gets-prison-time-in-us-after-over-a-decade-on-the-run/",
+    "published": "Sat, 31 Oct 2026 11:00:00 +0000",
+    "summary": "<p>A US court sentenced Syrian hacker Ahmad Umar Agha to 42 months for pro-Assad attacks on media, businesses, and government entities.</p>\n<p>The post <a href=\"https://www.securityweek.com/syrian-hacker-gets-prison-time-in-us-after-over-a-decade-on-the-run/\">Syrian Hacker Gets Prison Time in US After Over a Decade on the Run</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "A US court sentenced Syrian hacker Ahmad Umar Agha to 42 months for pro-Assad attacks on media, businesses, and government entities",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Supply Chain"
       ]
     }
   },
@@ -582,8 +599,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109618",
-        "CVE-2026-109619"
+        "CVE-2026-109619",
+        "CVE-2026-109618"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -688,8 +705,8 @@
       "cves": [
         "CVE-2026-118539",
         "CVE-2026-108099",
-        "CVE-2026-108097",
-        "CVE-2026-9082"
+        "CVE-2026-9082",
+        "CVE-2026-108097"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -758,22 +775,20 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "$6 Billion Binance Hack Bears Hallmarks of North Korea’s TraderTraitor",
-    "link": "https://www.securityweek.com/6-billion-binance-hack-bears-hallmarks-of-north-koreas-tradertraitor/",
-    "published": "Fri, 30 Oct 2026 08:16:26 +0000",
-    "summary": "<p>Blockchain analysts link the record crypto theft to North Korean hackers, as Binance probes a possibly compromised engineer laptop.</p>\n<p>The post <a href=\"https://www.securityweek.com/6-billion-binance-hack-bears-hallmarks-of-north-koreas-tradertraitor/\">$6 Billion Binance Hack Bears Hallmarks of North Korea&#8217;s TraderTraitor</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "source": "Talos Blog",
+    "title": "Appraisal by AI: Model-driven victim prioritization in the VOLTA infostealer",
+    "link": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+    "published": "Sat, 31 Oct 2026 12:00:00 GMT",
+    "summary": "The self-deleting VOLTA infostealer steals credentials, sessions, and cryptocurrency wallets. Then, it uses LLMs to profile victims and rank their most valuable assets.",
     "analysis": {
-      "issue": "Blockchain analysts link the record crypto theft to North Korean hackers, as Binance probes a possibly compromised engineer laptop",
+      "issue": "There is a new idea in the cybercrime world — cast a wide net, steal everything, and let AI sort out the specifics",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "High",
       "cves": [],
       "threat_categories": [
-        "Vulnerability",
-        "Phishing",
-        "APT"
+        "Malware"
       ]
     }
   },
@@ -925,8 +940,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109618",
-        "CVE-2026-109619"
+        "CVE-2026-109619",
+        "CVE-2026-109618"
       ],
       "threat_categories": [
         "Ransomware",
@@ -949,26 +964,6 @@
       "cves": [],
       "threat_categories": [
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "There's only so much code: the rise in vulnerability numbers",
-    "link": "https://blog.talosintelligence.com/theres-only-so-much-code-the-rise-in-vulnerability-numbers/",
-    "published": "Tue, 20 Oct 2026 15:31:22 GMT",
-    "summary": "The September Microsoft Patch Tuesday release included 975 vulnerability advisories. This month, 1,415 vulnerabilities were just dropped. Compared to a pre-June average of 100 a month, that increase is staggering. Where did they come from? And what does the future look like?",
-    "analysis": {
-      "issue": "The September Microsoft Tuesday release included 975 vulnerability advisories",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2021-44228"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -1705,8 +1700,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-109618",
-        "CVE-2026-109619"
+        "CVE-2026-109619",
+        "CVE-2026-109618"
       ],
       "threat_categories": [
         "Vulnerability"
