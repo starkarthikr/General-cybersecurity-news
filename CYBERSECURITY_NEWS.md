@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-31 04:57:45 UTC
+**Last Updated:** 2026-10-31 06:07:26 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide](https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html)
+### 1. [A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats](https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 31 Oct 2026 11:03:41 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%](https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 31 Oct 2026 10:26:12 +0530  
+**Severity:** Low  
+**Categories:** DDoS  
+
+---
+
+### 3. [Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide](https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 30 Oct 2026 22:28:44 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them](https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html)
+### 4. [TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them](https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 30 Oct 2026 20:47:28 +0530  
@@ -23,7 +41,7 @@
 
 ---
 
-### 3. [WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours](https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html)
+### 5. [WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours](https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 30 Oct 2026 19:38:14 +0530  
@@ -32,7 +50,7 @@
 
 ---
 
-### 4. [Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis](https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html)
+### 6. [Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis](https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 30 Oct 2026 17:51:56 +0530  
@@ -41,7 +59,7 @@
 
 ---
 
-### 5. [Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving](https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html)
+### 7. [Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving](https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 30 Oct 2026 17:28:53 +0530  
@@ -50,7 +68,7 @@
 
 ---
 
-### 6. [Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison](https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html)
+### 8. [Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison](https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 30 Oct 2026 16:10:45 +0530  
@@ -59,7 +77,7 @@
 
 ---
 
-### 7. [Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor](https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html)
+### 9. [Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor](https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 30 Oct 2026 14:25:47 +0530  
@@ -68,31 +86,13 @@
 
 ---
 
-### 8. [Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw](https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html)
+### 10. [Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw](https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 30 Oct 2026 13:15:30 +0530  
 **Severity:** Low  
 **CVEs:** CVE-2026-118539  
 **Categories:** Vulnerability  
-
----
-
-### 9. [CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV](https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 30 Oct 2026 12:57:05 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 10. [Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen](https://thehackernews.com/2026/10/binance-suffers-security-breach.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 30 Oct 2026 09:44:59 +0530  
-**Severity:** Low  
-**Categories:** APT  
 
 ---
 
@@ -221,7 +221,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 13 Oct 2026 23:24:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-108398, CVE-2026-96951  
+**CVEs:** CVE-2026-96951, CVE-2026-108398  
 **Categories:** Vulnerability  
 
 ---
@@ -277,7 +277,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69730, CVE-2026-81963, CVE-2026-69829, CVE-2026-85880  
+**CVEs:** CVE-2026-81963, CVE-2026-69730, CVE-2026-85880, CVE-2026-69829  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -287,7 +287,7 @@
 **Source:** Security Week  
 **Published:** Fri, 30 Oct 2026 15:09:25 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109619, CVE-2026-109618  
+**CVEs:** CVE-2026-109618, CVE-2026-109619  
 **Categories:** Vulnerability  
 
 ---
@@ -334,7 +334,7 @@
 **Source:** Security Week  
 **Published:** Fri, 30 Oct 2026 11:07:11 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-108097, CVE-2026-9082, CVE-2026-118539, CVE-2026-108099  
+**CVEs:** CVE-2026-118539, CVE-2026-108099, CVE-2026-108097, CVE-2026-9082  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -363,7 +363,7 @@
 **Source:** Security Week  
 **Published:** Fri, 30 Oct 2026 08:44:49 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-92372, CVE-2026-92374, CVE-2026-111585  
+**CVEs:** CVE-2026-92374, CVE-2026-92372, CVE-2026-111585  
 **Categories:** Vulnerability  
 
 ---
@@ -447,7 +447,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 21 Oct 2026 15:10:53 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109619, CVE-2026-109618  
+**CVEs:** CVE-2026-109618, CVE-2026-109619  
 **Categories:** Ransomware, Vulnerability  
 
 ---
@@ -641,7 +641,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -832,7 +832,7 @@
 **Source:** Crowdstrike Blog  
 **Published:** Oct 21, 2026 00:00:00-0500  
 **Severity:** Low  
-**CVEs:** CVE-2026-109619, CVE-2026-109618  
+**CVEs:** CVE-2026-109618, CVE-2026-109619  
 **Categories:** Vulnerability  
 
 ---

@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
+    "link": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
+    "published": "Sat, 31 Oct 2026 11:03:41 +0530",
+    "summary": "A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at&nbsp;the security firm Parameter&nbsp;showed.\n\nThe researchers reported the flaw through&nbsp;OpenAI's bug bounty program&nbsp;on October 18, and OpenAI fixed it eight days later and rated it P1, its most serious category.",
+    "analysis": {
+      "issue": "OpenAI fixed a P1 ChatGPT flaw that let malicious shared links execute code in signed-in sessions and access private conversations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
+    "link": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
+    "published": "Sat, 31 Oct 2026 10:26:12 +0530",
+    "summary": "Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday.\n\nThe web infrastructure and security company said it autonomously mitigated 18.2 million network-layer (L3) DDoS attacks and 14.4 trillion HTTP DDoS requests in the third quarter of 2026. That amounts to 197,400 attacks per day, or one attack every 0.44",
+    "analysis": {
+      "issue": "2 million network-layer DDoS attacks in Q3 2026, with short-burst attacks rising 208% and DNS amplification up 215%",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
     "link": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
     "published": "Fri, 30 Oct 2026 22:28:44 +0530",
@@ -144,42 +180,6 @@
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
-    "link": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
-    "published": "Fri, 30 Oct 2026 12:57:05 +0530",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation.\n\nThe vulnerabilities are listed below -\n\n\n  CVE-2026-97229 (CVSS score: 10.0) - An integer overflow or wraparound vulnerability in GitLab Community Edition and Enterprise",
-    "analysis": {
-      "issue": "CISA adds GitLab code execution and Cisco firewall DoS flaws to its KEV catalog, citing exploitation evidence and an Alpine Linux attack attempt",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
-    "link": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
-    "published": "Fri, 30 Oct 2026 09:44:59 +0530",
-    "summary": "Cryptocurrency giant Binance said on Thursday that a \"security incident\" on its platform has impacted about $6.3 billion worth of assets.\n\nThe world's biggest cryptocurrency exchange said nearly $3 billion of those assets have been frozen on-chain so far.&nbsp;\n\nTether and Circle said they have frozen more than 1.567 billion USDT and 800 million USDC related to the incident, respectively. The",
-    "analysis": {
-      "issue": "Binance says a security incident affected about $6",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "APT"
       ]
     }
   },
@@ -441,8 +441,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-108398",
-        "CVE-2026-96951"
+        "CVE-2026-96951",
+        "CVE-2026-108398"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -558,10 +558,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69730",
         "CVE-2026-81963",
-        "CVE-2026-69829",
-        "CVE-2026-85880"
+        "CVE-2026-69730",
+        "CVE-2026-85880",
+        "CVE-2026-69829"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -582,8 +582,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109619",
-        "CVE-2026-109618"
+        "CVE-2026-109618",
+        "CVE-2026-109619"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -686,10 +686,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-108097",
-        "CVE-2026-9082",
         "CVE-2026-118539",
-        "CVE-2026-108099"
+        "CVE-2026-108099",
+        "CVE-2026-108097",
+        "CVE-2026-9082"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -748,8 +748,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-92372",
         "CVE-2026-92374",
+        "CVE-2026-92372",
         "CVE-2026-111585"
       ],
       "threat_categories": [
@@ -925,8 +925,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109619",
-        "CVE-2026-109618"
+        "CVE-2026-109618",
+        "CVE-2026-109619"
       ],
       "threat_categories": [
         "Ransomware",
@@ -1319,8 +1319,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1705,8 +1705,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-109619",
-        "CVE-2026-109618"
+        "CVE-2026-109618",
+        "CVE-2026-109619"
       ],
       "threat_categories": [
         "Vulnerability"
