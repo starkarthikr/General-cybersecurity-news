@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-31 17:05:31 UTC
+**Last Updated:** 2026-10-31 20:11:05 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,16 @@
 
 ---
 
-### 11. [New Android SMS of Death exploit can remotely crash unpatched phones](https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/)
+### 11. [Northflank security breach leads to abuse of customers' AI API keys](https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/)
+
+**Source:** Bleeping Computer  
+**Published:** Sat, 31 Oct 2026 14:01:12 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 12. [New Android SMS of Death exploit can remotely crash unpatched phones](https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 31 Oct 2026 11:35:11 -0400  
@@ -105,7 +114,7 @@
 
 ---
 
-### 12. [Reddit to lock content behind logins to fight scrapers](https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/)
+### 13. [Reddit to lock content behind logins to fight scrapers](https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 31 Oct 2026 10:05:15 -0400  
@@ -114,7 +123,7 @@
 
 ---
 
-### 13. [From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.](https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/)
+### 14. [From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.](https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 31 Oct 2026 09:10:19 -0400  
@@ -123,7 +132,7 @@
 
 ---
 
-### 14. [Chainalysis discloses data breach from "offensive agentic techniques"](https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/)
+### 15. [Chainalysis discloses data breach from "offensive agentic techniques"](https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 31 Oct 2026 08:50:09 -0400  
@@ -132,7 +141,7 @@
 
 ---
 
-### 15. [Critical Linux kernel flaw allows remote root attacks on MPTCP servers](https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/)
+### 16. [Critical Linux kernel flaw allows remote root attacks on MPTCP servers](https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 30 Oct 2026 17:09:46 -0400  
@@ -142,7 +151,7 @@
 
 ---
 
-### 16. [Trezor warns of suspected crypto-theft implant in hardware wallet](https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/)
+### 17. [Trezor warns of suspected crypto-theft implant in hardware wallet](https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 30 Oct 2026 11:58:20 -0400  
@@ -151,7 +160,7 @@
 
 ---
 
-### 17. [Malicious Claude Code extension on Cursor planted SSH backdoors](https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/)
+### 18. [Malicious Claude Code extension on Cursor planted SSH backdoors](https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 30 Oct 2026 10:36:54 -0400  
@@ -160,7 +169,7 @@
 
 ---
 
-### 18. [SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone](https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/)
+### 19. [SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone](https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 30 Oct 2026 10:00:10 -0400  
@@ -169,22 +178,13 @@
 
 ---
 
-### 19. [CISA says max severity GitLab flaw now exploited in the wild](https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/)
+### 20. [CISA says max severity GitLab flaw now exploited in the wild](https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 30 Oct 2026 09:00:32 -0400  
 **Severity:** Critical  
 **CVEs:** CVE-2026-97229  
 **Categories:** Vulnerability  
-
----
-
-### 20. [Microsoft finally fixes VPN issues caused by September updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 30 Oct 2026 07:20:26 -0400  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -276,7 +276,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81963, CVE-2026-69829, CVE-2026-85880, CVE-2026-69730  
+**CVEs:** CVE-2026-81963, CVE-2026-69730, CVE-2026-69829, CVE-2026-85880  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -342,7 +342,7 @@
 **Source:** Security Week  
 **Published:** Fri, 30 Oct 2026 11:07:11 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-118539, CVE-2026-9082, CVE-2026-108097, CVE-2026-108099  
+**CVEs:** CVE-2026-108099, CVE-2026-9082, CVE-2026-108097, CVE-2026-118539  
 **Categories:** Vulnerability, APT  
 
 ---
