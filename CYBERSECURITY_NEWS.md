@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-30 20:58:40 UTC
+**Last Updated:** 2026-10-31 04:57:45 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -96,7 +96,17 @@
 
 ---
 
-### 11. [Trezor warns of suspected crypto-theft implant in hardware wallet](https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/)
+### 11. [Critical Linux kernel flaw allows remote root attacks on MPTCP servers](https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 30 Oct 2026 17:09:46 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-98432  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [Trezor warns of suspected crypto-theft implant in hardware wallet](https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 30 Oct 2026 11:58:20 -0400  
@@ -105,7 +115,7 @@
 
 ---
 
-### 12. [Malicious Claude Code extension on Cursor planted SSH backdoors](https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/)
+### 13. [Malicious Claude Code extension on Cursor planted SSH backdoors](https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 30 Oct 2026 10:36:54 -0400  
@@ -114,7 +124,7 @@
 
 ---
 
-### 13. [SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone](https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/)
+### 14. [SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone](https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 30 Oct 2026 10:00:10 -0400  
@@ -123,7 +133,7 @@
 
 ---
 
-### 14. [CISA says max severity GitLab flaw now exploited in the wild](https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/)
+### 15. [CISA says max severity GitLab flaw now exploited in the wild](https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 30 Oct 2026 09:00:32 -0400  
@@ -133,7 +143,7 @@
 
 ---
 
-### 15. [Microsoft finally fixes VPN issues caused by September updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/)
+### 16. [Microsoft finally fixes VPN issues caused by September updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 30 Oct 2026 07:20:26 -0400  
@@ -142,7 +152,7 @@
 
 ---
 
-### 16. [Drupal warns of critical Commerce Core flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/)
+### 17. [Drupal warns of critical Commerce Core flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 30 Oct 2026 06:16:07 -0400  
@@ -152,7 +162,7 @@
 
 ---
 
-### 17. [Binance links $6.3 billion crypto theft to compromised DevOps laptop](https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/)
+### 18. [Binance links $6.3 billion crypto theft to compromised DevOps laptop](https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 30 Oct 2026 05:18:13 -0400  
@@ -161,7 +171,7 @@
 
 ---
 
-### 18. [OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/)
+### 19. [OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 29 Oct 2026 19:35:52 -0400  
@@ -170,21 +180,12 @@
 
 ---
 
-### 19. [Binance probes potential $5.8 billion crypto-theft hack](https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/)
+### 20. [Binance probes potential $5.8 billion crypto-theft hack](https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 29 Oct 2026 18:45:23 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 20. [Hugging Face malware campaign returns to hijack GPUs for crypto mining](https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 29 Oct 2026 18:09:24 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability, Malware  
 
 ---
 
@@ -276,7 +277,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69829, CVE-2026-69730, CVE-2026-85880, CVE-2026-81963  
+**CVEs:** CVE-2026-69730, CVE-2026-81963, CVE-2026-69829, CVE-2026-85880  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -333,7 +334,7 @@
 **Source:** Security Week  
 **Published:** Fri, 30 Oct 2026 11:07:11 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-118539, CVE-2026-9082, CVE-2026-108097, CVE-2026-108099  
+**CVEs:** CVE-2026-108097, CVE-2026-9082, CVE-2026-118539, CVE-2026-108099  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -362,7 +363,7 @@
 **Source:** Security Week  
 **Published:** Fri, 30 Oct 2026 08:44:49 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-92374, CVE-2026-111585, CVE-2026-92372  
+**CVEs:** CVE-2026-92372, CVE-2026-92374, CVE-2026-111585  
 **Categories:** Vulnerability  
 
 ---
@@ -640,7 +641,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -785,6 +786,8 @@
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 29, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** General Security  
 
 ---
 

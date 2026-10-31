@@ -185,6 +185,26 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
+    "published": "Fri, 30 Oct 2026 17:09:46 -0400",
+    "summary": "Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to remotely execute commands as root on servers running Multipath TCP (MPTCP) listeners. [...]",
+    "analysis": {
+      "issue": "Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to remotely execute commands as root on servers running Multipath TCP (MPTCP) listeners",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-98432"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Trezor warns of suspected crypto-theft implant in hardware wallet",
     "link": "https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/",
     "published": "Fri, 30 Oct 2026 11:58:20 -0400",
@@ -349,25 +369,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
-    "link": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
-    "published": "Thu, 29 Oct 2026 18:09:24 -0400",
-    "summary": "A crypto-mining campaign abusing Hugging Face models returned days after takedown, hijacking GPU servers and planting backdoors, with one model downloaded over 28,000 times. Separately, a fake Solana starter kit on GitHub is positioned to trick AI coding agents into installing a NetSupport RAT. [...]",
-    "analysis": {
-      "issue": "A cryptomining and backdoor campaign that abuses Hugging Face model repositories came back within days of being taken down",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
       ]
     }
   },
@@ -557,10 +558,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69829",
         "CVE-2026-69730",
-        "CVE-2026-85880",
-        "CVE-2026-81963"
+        "CVE-2026-81963",
+        "CVE-2026-69829",
+        "CVE-2026-85880"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -685,9 +686,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-118539",
-        "CVE-2026-9082",
         "CVE-2026-108097",
+        "CVE-2026-9082",
+        "CVE-2026-118539",
         "CVE-2026-108099"
       ],
       "threat_categories": [
@@ -747,9 +748,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-92372",
         "CVE-2026-92374",
-        "CVE-2026-111585",
-        "CVE-2026-92372"
+        "CVE-2026-111585"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1318,8 +1319,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1606,7 +1607,18 @@
     "title": "New Prompt Injection Techniques Cover Agent-Planning Attacks",
     "link": "https://www.crowdstrike.com/en-us/blog/new-prompt-injection-techniques-cover-agent-planning-attacks/",
     "published": "Oct 29, 2026 00:00:00-0500",
-    "summary": ""
+    "summary": "",
+    "analysis": {
+      "issue": "CrowdStrike introduces a new version of the Prompt Injection Taxonomy,  adding newly discovered attack techniques on autonomous agents and how they plan",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
   },
   {
     "source": "Crowdstrike Blog",
