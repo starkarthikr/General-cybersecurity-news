@@ -183,6 +183,26 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
+    "link": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
+    "published": "Sat, 31 Oct 2026 11:35:11 -0400",
+    "summary": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sending a specially crafted text message. [...]",
+    "analysis": {
+      "issue": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sending a specia",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-58882"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Reddit to lock content behind logins to fight scrapers",
     "link": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
     "published": "Sat, 31 Oct 2026 10:05:15 -0400",
@@ -204,7 +224,7 @@
     "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
     "link": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
     "published": "Sat, 31 Oct 2026 09:10:19 -0400",
-    "summary": "[...]",
+    "summary": "AI-generated vulnerability reports are overwhelming some bug bounty programs, making it harder for aspiring security researchers to know where to start. TryHackMe explains how beginners can build practical cybersecurity skills, use AI responsibly, and produce reproducible findings that stand up to scrutiny. [...]",
     "analysis": {
       "issue": "Finding a real security flaw and getting paid for it is an appealing goal when you are learning cyber security",
       "solution": null,
@@ -347,26 +367,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Drupal warns of critical Commerce Core flaw exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/",
-    "published": "Fri, 30 Oct 2026 06:16:07 -0400",
-    "summary": "Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]",
-    "analysis": {
-      "issue": "Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-118539"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -556,10 +556,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-69730",
         "CVE-2026-81963",
         "CVE-2026-69829",
-        "CVE-2026-85880"
+        "CVE-2026-85880",
+        "CVE-2026-69730"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -599,8 +599,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109619",
-        "CVE-2026-109618"
+        "CVE-2026-109618",
+        "CVE-2026-109619"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -704,9 +704,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-118539",
-        "CVE-2026-108099",
         "CVE-2026-9082",
-        "CVE-2026-108097"
+        "CVE-2026-108097",
+        "CVE-2026-108099"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -765,9 +765,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-111585",
         "CVE-2026-92374",
-        "CVE-2026-92372",
-        "CVE-2026-111585"
+        "CVE-2026-92372"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -940,8 +940,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109619",
-        "CVE-2026-109618"
+        "CVE-2026-109618",
+        "CVE-2026-109619"
       ],
       "threat_categories": [
         "Ransomware",
@@ -1314,8 +1314,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1700,8 +1700,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-109619",
-        "CVE-2026-109618"
+        "CVE-2026-109618",
+        "CVE-2026-109619"
       ],
       "threat_categories": [
         "Vulnerability"

@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-31 14:40:36 UTC
+**Last Updated:** 2026-10-31 17:05:31 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,17 @@
 
 ---
 
-### 11. [Reddit to lock content behind logins to fight scrapers](https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/)
+### 11. [New Android SMS of Death exploit can remotely crash unpatched phones](https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/)
+
+**Source:** Bleeping Computer  
+**Published:** Sat, 31 Oct 2026 11:35:11 -0400  
+**Severity:** Low  
+**CVEs:** CVE-2026-58882  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [Reddit to lock content behind logins to fight scrapers](https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 31 Oct 2026 10:05:15 -0400  
@@ -104,7 +114,7 @@
 
 ---
 
-### 12. [From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.](https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/)
+### 13. [From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.](https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 31 Oct 2026 09:10:19 -0400  
@@ -113,7 +123,7 @@
 
 ---
 
-### 13. [Chainalysis discloses data breach from "offensive agentic techniques"](https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/)
+### 14. [Chainalysis discloses data breach from "offensive agentic techniques"](https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 31 Oct 2026 08:50:09 -0400  
@@ -122,7 +132,7 @@
 
 ---
 
-### 14. [Critical Linux kernel flaw allows remote root attacks on MPTCP servers](https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/)
+### 15. [Critical Linux kernel flaw allows remote root attacks on MPTCP servers](https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 30 Oct 2026 17:09:46 -0400  
@@ -132,7 +142,7 @@
 
 ---
 
-### 15. [Trezor warns of suspected crypto-theft implant in hardware wallet](https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/)
+### 16. [Trezor warns of suspected crypto-theft implant in hardware wallet](https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 30 Oct 2026 11:58:20 -0400  
@@ -141,7 +151,7 @@
 
 ---
 
-### 16. [Malicious Claude Code extension on Cursor planted SSH backdoors](https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/)
+### 17. [Malicious Claude Code extension on Cursor planted SSH backdoors](https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 30 Oct 2026 10:36:54 -0400  
@@ -150,7 +160,7 @@
 
 ---
 
-### 17. [SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone](https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/)
+### 18. [SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone](https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 30 Oct 2026 10:00:10 -0400  
@@ -159,7 +169,7 @@
 
 ---
 
-### 18. [CISA says max severity GitLab flaw now exploited in the wild](https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/)
+### 19. [CISA says max severity GitLab flaw now exploited in the wild](https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 30 Oct 2026 09:00:32 -0400  
@@ -169,22 +179,12 @@
 
 ---
 
-### 19. [Microsoft finally fixes VPN issues caused by September updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/)
+### 20. [Microsoft finally fixes VPN issues caused by September updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 30 Oct 2026 07:20:26 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 20. [Drupal warns of critical Commerce Core flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 30 Oct 2026 06:16:07 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-118539  
-**Categories:** Vulnerability  
 
 ---
 
@@ -276,7 +276,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69730, CVE-2026-81963, CVE-2026-69829, CVE-2026-85880  
+**CVEs:** CVE-2026-81963, CVE-2026-69829, CVE-2026-85880, CVE-2026-69730  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -295,7 +295,7 @@
 **Source:** Security Week  
 **Published:** Fri, 30 Oct 2026 15:09:25 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109619, CVE-2026-109618  
+**CVEs:** CVE-2026-109618, CVE-2026-109619  
 **Categories:** Vulnerability  
 
 ---
@@ -342,7 +342,7 @@
 **Source:** Security Week  
 **Published:** Fri, 30 Oct 2026 11:07:11 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-118539, CVE-2026-108099, CVE-2026-9082, CVE-2026-108097  
+**CVEs:** CVE-2026-118539, CVE-2026-9082, CVE-2026-108097, CVE-2026-108099  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -371,7 +371,7 @@
 **Source:** Security Week  
 **Published:** Fri, 30 Oct 2026 08:44:49 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-92374, CVE-2026-92372, CVE-2026-111585  
+**CVEs:** CVE-2026-111585, CVE-2026-92374, CVE-2026-92372  
 **Categories:** Vulnerability  
 
 ---
@@ -455,7 +455,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 21 Oct 2026 15:10:53 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109619, CVE-2026-109618  
+**CVEs:** CVE-2026-109618, CVE-2026-109619  
 **Categories:** Ransomware, Vulnerability  
 
 ---
@@ -639,7 +639,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -830,7 +830,7 @@
 **Source:** Crowdstrike Blog  
 **Published:** Oct 21, 2026 00:00:00-0500  
 **Severity:** Low  
-**CVEs:** CVE-2026-109619, CVE-2026-109618  
+**CVEs:** CVE-2026-109618, CVE-2026-109619  
 **Categories:** Vulnerability  
 
 ---
