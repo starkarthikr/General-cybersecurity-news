@@ -185,6 +185,24 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
+    "published": "Sun, 01 Nov 2026 14:57:53 -0500",
+    "summary": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record. [...]",
+    "analysis": {
+      "issue": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
     "link": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
     "published": "Sun, 01 Nov 2026 10:11:21 -0500",
@@ -354,24 +372,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
-    "link": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
-    "published": "Fri, 30 Oct 2026 10:36:54 -0400",
-    "summary": "A malicious version of Anthropic's Claude Code VS Code extension was distributed through Cursor's extension marketplace for approximately 11 hours on October 29, exposing up to 5,000 developers to malware designed to install persistent SSH backdoors. [...]",
-    "analysis": {
-      "issue": "A malicious version of Anthropic's Claude Code VS Code extension was distributed through Cursor's extension marketplace for approximately 11 hours on October 29, exposing up to 5,000 developers to malware designed to install persistent SSH backdoors",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
     "link": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
@@ -440,8 +440,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-108398",
-        "CVE-2026-96951"
+        "CVE-2026-96951",
+        "CVE-2026-108398"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -558,9 +558,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-81963",
-        "CVE-2026-69730",
+        "CVE-2026-69829",
         "CVE-2026-85880",
-        "CVE-2026-69829"
+        "CVE-2026-69730"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -723,10 +723,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-9082",
         "CVE-2026-108097",
-        "CVE-2026-108099",
-        "CVE-2026-118539"
+        "CVE-2026-118539",
+        "CVE-2026-9082",
+        "CVE-2026-108099"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1312,8 +1312,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",

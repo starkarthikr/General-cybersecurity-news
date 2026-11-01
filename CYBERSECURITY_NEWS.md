@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-01 17:49:23 UTC
+**Last Updated:** 2026-11-01 20:43:09 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -96,7 +96,16 @@
 
 ---
 
-### 11. [Alpine Linux rebuilds GitLab after attempted RCE attack](https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/)
+### 11. [FBI links $6.3 billion Binance crypto heist to North Korean hackers](https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/)
+
+**Source:** Bleeping Computer  
+**Published:** Sun, 01 Nov 2026 14:57:53 -0500  
+**Severity:** Low  
+**Categories:** APT  
+
+---
+
+### 12. [Alpine Linux rebuilds GitLab after attempted RCE attack](https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 01 Nov 2026 10:11:21 -0500  
@@ -106,7 +115,7 @@
 
 ---
 
-### 12. [OpenAI says it's doubling Pro usage limits and bringing Work features to Chat](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/)
+### 13. [OpenAI says it's doubling Pro usage limits and bringing Work features to Chat](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 01 Nov 2026 08:53:11 -0500  
@@ -115,7 +124,7 @@
 
 ---
 
-### 13. [Northflank security breach leads to abuse of customers' AI API keys](https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/)
+### 14. [Northflank security breach leads to abuse of customers' AI API keys](https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 31 Oct 2026 14:01:12 -0400  
@@ -124,7 +133,7 @@
 
 ---
 
-### 14. [New Android SMS of Death exploit can remotely crash unpatched phones](https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/)
+### 15. [New Android SMS of Death exploit can remotely crash unpatched phones](https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 31 Oct 2026 11:35:11 -0400  
@@ -134,7 +143,7 @@
 
 ---
 
-### 15. [Reddit to lock content behind logins to fight scrapers](https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/)
+### 16. [Reddit to lock content behind logins to fight scrapers](https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 31 Oct 2026 10:05:15 -0400  
@@ -143,7 +152,7 @@
 
 ---
 
-### 16. [From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.](https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/)
+### 17. [From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.](https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 31 Oct 2026 09:10:19 -0400  
@@ -152,7 +161,7 @@
 
 ---
 
-### 17. [Chainalysis discloses data breach from "offensive agentic techniques"](https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/)
+### 18. [Chainalysis discloses data breach from "offensive agentic techniques"](https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 31 Oct 2026 08:50:09 -0400  
@@ -161,7 +170,7 @@
 
 ---
 
-### 18. [Critical Linux kernel flaw allows remote root attacks on MPTCP servers](https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/)
+### 19. [Critical Linux kernel flaw allows remote root attacks on MPTCP servers](https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 30 Oct 2026 17:09:46 -0400  
@@ -171,21 +180,12 @@
 
 ---
 
-### 19. [Trezor warns of suspected crypto-theft implant in hardware wallet](https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/)
+### 20. [Trezor warns of suspected crypto-theft implant in hardware wallet](https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 30 Oct 2026 11:58:20 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 20. [Malicious Claude Code extension on Cursor planted SSH backdoors](https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 30 Oct 2026 10:36:54 -0400  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
@@ -221,7 +221,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 13 Oct 2026 23:24:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-108398, CVE-2026-96951  
+**CVEs:** CVE-2026-96951, CVE-2026-108398  
 **Categories:** Vulnerability  
 
 ---
@@ -277,7 +277,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81963, CVE-2026-69730, CVE-2026-85880, CVE-2026-69829  
+**CVEs:** CVE-2026-81963, CVE-2026-69829, CVE-2026-85880, CVE-2026-69730  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -352,7 +352,7 @@
 **Source:** Security Week  
 **Published:** Fri, 30 Oct 2026 11:07:11 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-9082, CVE-2026-108097, CVE-2026-108099, CVE-2026-118539  
+**CVEs:** CVE-2026-108097, CVE-2026-118539, CVE-2026-9082, CVE-2026-108099  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -639,7 +639,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
