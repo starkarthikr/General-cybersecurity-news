@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-10-31 20:11:05 UTC
+**Last Updated:** 2026-11-01 05:26:42 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -276,7 +276,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-81963, CVE-2026-69730, CVE-2026-69829, CVE-2026-85880  
+**CVEs:** CVE-2026-85880, CVE-2026-69829, CVE-2026-69730, CVE-2026-81963  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -295,7 +295,7 @@
 **Source:** Security Week  
 **Published:** Fri, 30 Oct 2026 15:09:25 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109618, CVE-2026-109619  
+**CVEs:** CVE-2026-109619, CVE-2026-109618  
 **Categories:** Vulnerability  
 
 ---
@@ -342,7 +342,7 @@
 **Source:** Security Week  
 **Published:** Fri, 30 Oct 2026 11:07:11 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-108099, CVE-2026-9082, CVE-2026-108097, CVE-2026-118539  
+**CVEs:** CVE-2026-118539, CVE-2026-108099, CVE-2026-108097, CVE-2026-9082  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -371,7 +371,7 @@
 **Source:** Security Week  
 **Published:** Fri, 30 Oct 2026 08:44:49 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-111585, CVE-2026-92374, CVE-2026-92372  
+**CVEs:** CVE-2026-111585, CVE-2026-92372, CVE-2026-92374  
 **Categories:** Vulnerability  
 
 ---
@@ -455,7 +455,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 21 Oct 2026 15:10:53 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109618, CVE-2026-109619  
+**CVEs:** CVE-2026-109619, CVE-2026-109618  
 **Categories:** Ransomware, Vulnerability  
 
 ---
@@ -639,7 +639,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -830,7 +830,7 @@
 **Source:** Crowdstrike Blog  
 **Published:** Oct 21, 2026 00:00:00-0500  
 **Severity:** Low  
-**CVEs:** CVE-2026-109618, CVE-2026-109619  
+**CVEs:** CVE-2026-109619, CVE-2026-109618  
 **Categories:** Vulnerability  
 
 ---
