@@ -1,6 +1,80 @@
 [
   {
     "source": "The Hacker News",
+    "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
+    "link": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
+    "published": "Sun, 01 Nov 2026 14:21:31 +0530",
+    "summary": "A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the network and have the trusted client's public certificate.\n\nOnce in, the attacker would act as that client, with access to the cluster and its virtual machines. If the impersonated account is",
+    "analysis": {
+      "issue": "Canonical patches CVE-2026-112816 in LXD and MicroCloud, a CVSS 10",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-112816"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
+    "link": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
+    "published": "Sun, 01 Nov 2026 12:55:40 +0530",
+    "summary": "Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The code had replaced a page-speed script that the site loaded from an outside company.\n\nPolymarket says&nbsp;it is refunding about $2.7 million to 726 affected wallets.&nbsp;Blockchain records&nbsp;show crypto worth about $2.64 million reached",
+    "analysis": {
+      "issue": "A hijacked DebugBear script drained about $2",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
+    "link": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
+    "published": "Sun, 01 Nov 2026 12:33:00 +0530",
+    "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima, PUKCHONG, Slow Pisces, and UNC4899.\n\nThe FBI, along with the U.S. Secret Service (USSS) and the Internal Revenue Service Criminal Investigation (IRS-CI), said it",
+    "analysis": {
+      "issue": "The FBI attributes a $6 billion-plus crypto theft to North Korea-linked TraderTraitor as investigators track laundering through Ethereum",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
+    "link": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
+    "published": "Sun, 01 Nov 2026 12:32:58 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of what has been described as a \"highly sophisticated infection chain\" targeting government organizations in Asia.\n\nThe activity, detailed by Kaspersky this week, targeted a custom Windows 10 build used exclusively by government entities in Asia and involves the deployment of a previously undocumented .NET assembly-loading framework codenamed",
+    "analysis": {
+      "issue": "NetamLoader targets a government-only Windows 10 build in Asia, using AppDomainManager injection and layered",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
     "link": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
     "published": "Sat, 31 Oct 2026 17:31:56 +0530",
@@ -110,67 +184,34 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
-    "link": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
-    "published": "Fri, 30 Oct 2026 19:38:14 +0530",
-    "summary": "Threat actors have been observed attempting to exploit a high-severity security flaw in WordPress Core shortly after patches were released.\n\nThe vulnerability, which does not have a CVE identifier, relates to a case of remote code execution impacting WordPress Core versions 4.7 through 7.1.3. It carries a CVSS score of 8.1 on the CVSS scoring system. Patches for the flaw were released on October",
+    "source": "Bleeping Computer",
+    "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
+    "link": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
+    "published": "Sun, 01 Nov 2026 10:11:21 -0500",
+    "summary": "Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset all passwords over concerns of a possible compromise. [...]",
     "analysis": {
-      "issue": "Attackers target a WordPress Core RCE flaw during upgrades, with Wordfence blocking 62,969 attempts in 24 hours",
+      "issue": "Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20–21, prompting the open-source project to rebuild its GitLab server and reset all passwords over concerns of a possible compromise",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-97229"
+      ],
       "threat_categories": [
-        "General Security"
+        "Vulnerability",
+        "Supply Chain"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
-    "link": "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
-    "published": "Fri, 30 Oct 2026 17:51:56 +0530",
-    "summary": "A Trezor Safe 5 hardware wallet bought from the reseller CryptoBilis has an extra circuit board that sends out the recovery phrase over a mobile network, a customer has reported.\n\nTrezor has not yet examined the device. It is telling everyone who bought a Trezor from CryptoBilis since March 2026 to move their funds to a new wallet with a new recovery phrase.\n\nTrezor said in a&nbsp;blog post&nbsp",
+    "source": "Bleeping Computer",
+    "title": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/",
+    "published": "Sun, 01 Nov 2026 08:53:11 -0500",
+    "summary": "OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]",
     "analysis": {
-      "issue": "Trezor warns CryptoBilis buyers to replace wallet recovery phrases after a customer reported a Safe 5 implant that transmits them over cellular",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving",
-    "link": "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html",
-    "published": "Fri, 30 Oct 2026 17:28:53 +0530",
-    "summary": "The alert is critical. The fix is known. And the ticket sits in a queue for days. Security teams understand the risk, but the people who keep applications available need proof that the change won’t break anything.&nbsp;\n\nTheir concerns are practical. An IPS protection could block legitimate traffic. A configuration change could interrupt a service. An endpoint policy could affect an application",
-    "analysis": {
-      "issue": "5% remediation success in measured environments, with enabled protections later blocking 703",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison",
-    "link": "https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html",
-    "published": "Fri, 30 Oct 2026 16:10:45 +0530",
-    "summary": "Ahmad Umar Agha, a Syrian Electronic Army hacker known online as \"Th3Pr0,\" has been&nbsp;sentenced by a U.S. federal court&nbsp;to 42 months in prison for his role in a hacking conspiracy that targeted Western news outlets.\n\nThe conspiracy was organized and led by members of former Syrian President Bashar al-Assad's inner circle, including the commander of Syria's General Intelligence",
-    "analysis": {
-      "issue": "Syrian Electronic Army hacker Ahmad Umar Agha was sentenced to 42 months in prison for attacks on Western media, including the AP Twitter hijack",
+      "issue": "OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -327,46 +368,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
-    "link": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/",
-    "published": "Fri, 30 Oct 2026 10:00:10 -0400",
-    "summary": "Flaws in SS7 and Diameter signaling protocols can allow attackers to track phone locations, intercept calls and SMS verification codes, and impersonate subscribers without compromising their devices. Cape explains how these attacks exploit trust between networks and how its security-focused mobile service helps defend against them. [...]",
-    "analysis": {
-      "issue": "SS7 and Diameter signaling attacks can track, intercept, and impersonate you",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA says max severity GitLab flaw now exploited in the wild",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/",
-    "published": "Fri, 30 Oct 2026 09:00:32 -0400",
-    "summary": "Attackers have started exploiting a maximum-severity GitLab vulnerability patched earlier this month, according to the US Cybersecurity and Infrastructure Security Agency (CISA). [...]",
-    "analysis": {
-      "issue": "Attackers have started exploiting a maximum-severity GitLab vulnerability patched earlier this month, according to the US Cybersecurity and Infrastructure Security Agency (CISA)",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-97229"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -557,13 +558,32 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-69730",
+        "CVE-2026-69829",
         "CVE-2026-81963",
-        "CVE-2026-85880",
-        "CVE-2026-69829"
+        "CVE-2026-85880"
       ],
       "threat_categories": [
         "Vulnerability",
         "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations",
+    "link": "https://www.securityweek.com/northstar-security-exits-stealth-with-7m-to-expose-toxic-risk-combinations/",
+    "published": "Sun, 01 Nov 2026 11:15:00 +0000",
+    "summary": "<p>The startup maps how identities, assets and vulnerabilities connect, and uses AI agents to find and fix risky combinations of issues.</p>\n<p>The post <a href=\"https://www.securityweek.com/northstar-security-exits-stealth-with-7m-to-expose-toxic-risk-combinations/\">Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The startup maps how identities, assets and vulnerabilities connect, and uses AI agents to find and fix risky combinations of issues",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "APT"
       ]
     }
   },
@@ -704,9 +724,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-9082",
-        "CVE-2026-108099",
+        "CVE-2026-108097",
         "CVE-2026-118539",
-        "CVE-2026-108097"
+        "CVE-2026-108099"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -746,28 +766,6 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-97229"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "TeamViewer Flaw Could Let Malicious Hosts Take Over Support Technicians’ Machines",
-    "link": "https://www.securityweek.com/teamviewer-flaw-could-let-malicious-hosts-take-over-support-technicians-machines/",
-    "published": "Fri, 30 Oct 2026 08:44:49 +0000",
-    "summary": "<p>An integer overflow tracked as CVE-2026-111585 could be used to execute arbitrary code on the viewer’s system.</p>\n<p>The post <a href=\"https://www.securityweek.com/teamviewer-flaw-could-let-malicious-hosts-take-over-support-technicians-machines/\">TeamViewer Flaw Could Let Malicious Hosts Take Over Support Technicians&#8217; Machines</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "An integer overflow tracked as CVE-2026-111585 could be used to execute arbitrary code on the viewer’s system",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-111585",
-        "CVE-2026-92372",
-        "CVE-2026-92374"
       ],
       "threat_categories": [
         "Vulnerability"
