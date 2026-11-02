@@ -1,10 +1,73 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-02 06:37:14 UTC
+**Last Updated:** 2026-11-02 18:41:50 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value](https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html)
+### 1. [⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More](https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 02 Nov 2026 22:27:56 +0530  
+**Severity:** Critical  
+**Categories:** Malware, Phishing, DDoS  
+
+---
+
+### 2. [Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access](https://thehackernews.com/2026/11/google-disrupts-13-million-device.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 02 Nov 2026 21:20:26 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 3. [DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment](https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 02 Nov 2026 20:16:05 +0530  
+**Severity:** Low  
+**Categories:** Malware, Phishing  
+
+---
+
+### 4. [Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers](https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 02 Nov 2026 17:20:00 +0530  
+**Severity:** Critical  
+**Categories:** General Security  
+
+---
+
+### 5. [Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy](https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 02 Nov 2026 17:00:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 6. [Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data](https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 02 Nov 2026 16:38:45 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 7. [Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts](https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 02 Nov 2026 16:19:59 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 8. [New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value](https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 02 Nov 2026 11:21:07 +0530  
@@ -13,7 +76,7 @@
 
 ---
 
-### 2. [CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key](https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html)
+### 9. [CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key](https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 01 Nov 2026 14:21:31 +0530  
@@ -23,7 +86,7 @@
 
 ---
 
-### 3. [Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script](https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html)
+### 10. [Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script](https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 01 Nov 2026 12:55:40 +0530  
@@ -32,70 +95,82 @@
 
 ---
 
-### 4. [FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist](https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html)
+### 11. [Google disrupts million-device XCPE Android malware botnet, bans TV box maker](https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/)
 
-**Source:** The Hacker News  
-**Published:** Sun, 01 Nov 2026 12:33:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 5. [NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection](https://thehackernews.com/2026/11/netamloader-malware-targets-government.html)
-
-**Source:** The Hacker News  
-**Published:** Sun, 01 Nov 2026 12:32:58 +0530  
-**Severity:** Low  
+**Source:** Bleeping Computer  
+**Published:** Mon, 02 Nov 2026 13:16:34 -0500  
+**Severity:** High  
 **Categories:** Malware  
 
 ---
 
-### 6. [Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data](https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html)
+### 12. [BTCPay Server warns of hot wallet crypto thefts on outdated instances](https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/)
 
-**Source:** The Hacker News  
-**Published:** Sat, 31 Oct 2026 17:31:56 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 02 Nov 2026 10:03:07 -0500  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 13. [Your Mobile Carrier Stores Your Call Logs for Years](https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 02 Nov 2026 10:01:11 -0500  
+**Severity:** Low  
+**Categories:** Data Breach  
+
+---
+
+### 14. [Hackers disrupt refrigeration systems at European supermarkets](https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 02 Nov 2026 09:28:39 -0500  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 7. [Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access](https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html)
+### 15. [Microsoft fixes Smart App Control broken by October Windows update](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/)
 
-**Source:** The Hacker News  
-**Published:** Sat, 31 Oct 2026 13:57:43 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 8. [A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats](https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html)
-
-**Source:** The Hacker News  
-**Published:** Sat, 31 Oct 2026 11:03:41 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 02 Nov 2026 08:57:29 -0500  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 9. [Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%](https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html)
+### 16. [Over 1,000 GitLab servers vulnerable to ongoing RCE attacks](https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/)
 
-**Source:** The Hacker News  
-**Published:** Sat, 31 Oct 2026 10:26:12 +0530  
-**Severity:** Low  
-**Categories:** DDoS  
-
----
-
-### 10. [Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide](https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 30 Oct 2026 22:28:44 +0530  
-**Severity:** Low  
+**Source:** Bleeping Computer  
+**Published:** Mon, 02 Nov 2026 07:47:00 -0500  
+**Severity:** High  
+**CVEs:** CVE-2026-97229, CVE-2026-85706, CVE-2026-0723  
 **Categories:** Vulnerability  
 
 ---
 
-### 11. [FBI links $6.3 billion Binance crypto heist to North Korean hackers](https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/)
+### 17. [Synology warns of C3RB3R ransomware attacks targeting NAS devices](https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 02 Nov 2026 06:28:42 -0500  
+**Severity:** Low  
+**CVEs:** CVE-2024-10445, CVE-2024-50629, CVE-2024-10441  
+**Categories:** Ransomware, Vulnerability  
+
+---
+
+### 18. [Ivanti patches two more Connect Secure zero-days chained in attacks](https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 02 Nov 2026 04:33:26 -0500  
+**Severity:** Critical  
+**CVEs:** CVE-2026-111357, CVE-2026-104935, CVE-2026-118527  
+**Categories:** Vulnerability  
+
+---
+
+### 19. [FBI links $6.3 billion Binance crypto heist to North Korean hackers](https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 01 Nov 2026 14:57:53 -0500  
@@ -104,87 +179,13 @@
 
 ---
 
-### 12. [Alpine Linux rebuilds GitLab after attempted RCE attack](https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/)
+### 20. [Alpine Linux rebuilds GitLab after attempted RCE attack](https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 01 Nov 2026 10:11:21 -0500  
 **Severity:** Critical  
 **CVEs:** CVE-2026-97229  
 **Categories:** Vulnerability, Supply Chain  
-
----
-
-### 13. [OpenAI says it's doubling Pro usage limits and bringing Work features to Chat](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/)
-
-**Source:** Bleeping Computer  
-**Published:** Sun, 01 Nov 2026 08:53:11 -0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 14. [Northflank security breach leads to abuse of customers' AI API keys](https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 31 Oct 2026 14:01:12 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 15. [New Android SMS of Death exploit can remotely crash unpatched phones](https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 31 Oct 2026 11:35:11 -0400  
-**Severity:** Low  
-**CVEs:** CVE-2026-58882  
-**Categories:** Vulnerability  
-
----
-
-### 16. [Reddit to lock content behind logins to fight scrapers](https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 31 Oct 2026 10:05:15 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 17. [From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.](https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 31 Oct 2026 09:10:19 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 18. [Chainalysis discloses data breach from "offensive agentic techniques"](https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 31 Oct 2026 08:50:09 -0400  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach  
-
----
-
-### 19. [Critical Linux kernel flaw allows remote root attacks on MPTCP servers](https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 30 Oct 2026 17:09:46 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-98432  
-**Categories:** Vulnerability  
-
----
-
-### 20. [Trezor warns of suspected crypto-theft implant in hardware wallet](https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 30 Oct 2026 11:58:20 -0400  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -220,7 +221,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 13 Oct 2026 23:24:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-96951, CVE-2026-108398  
+**CVEs:** CVE-2026-108398, CVE-2026-96951  
 **Categories:** Vulnerability  
 
 ---
@@ -276,102 +277,99 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-69829, CVE-2026-69730, CVE-2026-81963, CVE-2026-85880  
+**CVEs:** CVE-2026-85880, CVE-2026-81963, CVE-2026-69730, CVE-2026-69829  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 31. [Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations](https://www.securityweek.com/northstar-security-exits-stealth-with-7m-to-expose-toxic-risk-combinations/)
+### 31. [Cybersecurity M&A Roundup: 37 Deals Announced in October 2026](https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-october-2026/)
+
+**Source:** Security Week  
+**Published:** Mon, 02 Nov 2026 15:01:11 +0000  
+**Severity:** Critical  
+**Categories:** Malware, Phishing  
+
+---
+
+### 32. [Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk](https://www.securityweek.com/florida-student-aid-website-hack-puts-data-of-4-9-million-people-at-risk/)
+
+**Source:** Security Week  
+**Published:** Mon, 02 Nov 2026 14:44:18 +0000  
+**Severity:** High  
+**Categories:** Data Breach  
+
+---
+
+### 33. [Revolve Data Breach Impacts at Least 180,000 People](https://www.securityweek.com/revolve-data-breach-impacts-at-least-180000-people/)
+
+**Source:** Security Week  
+**Published:** Mon, 02 Nov 2026 13:35:21 +0000  
+**Severity:** Low  
+**Categories:** Data Breach  
+
+---
+
+### 34. [Google Introduces $250,000 Root-in-Cloud Bug Bounty Reward](https://www.securityweek.com/google-introduces-250000-root-in-cloud-bug-bounty-reward/)
+
+**Source:** Security Week  
+**Published:** Mon, 02 Nov 2026 13:25:11 +0000  
+**Severity:** High  
+**Categories:** Vulnerability  
+
+---
+
+### 35. [Malicious Claude Code Extension Served in Cursor Supply Chain Attack](https://www.securityweek.com/malicious-claude-code-extension-served-in-cursor-supply-chain-attack/)
+
+**Source:** Security Week  
+**Published:** Mon, 02 Nov 2026 11:29:39 +0000  
+**Severity:** Low  
+**Categories:** Malware, Supply Chain  
+
+---
+
+### 36. [Chainalysis Discloses Data Breach Following AI-Driven Cyberattack](https://www.securityweek.com/chainalysis-discloses-data-breach-following-ai-driven-cyberattack/)
+
+**Source:** Security Week  
+**Published:** Mon, 02 Nov 2026 10:27:49 +0000  
+**Severity:** Low  
+**Categories:** Data Breach  
+
+---
+
+### 37. [Polymarket Returns $3.9 Million to Traders as DebugBear Cites DNS Hijack](https://www.securityweek.com/polymarket-returns-3-9-million-to-traders-as-debugbear-cites-dns-hijack/)
+
+**Source:** Security Week  
+**Published:** Mon, 02 Nov 2026 09:33:15 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 38. [FBI Flags Over 600 Addresses Tied to North Korea’s Binance Heist](https://www.securityweek.com/fbi-flags-over-600-addresses-tied-to-north-koreas-binance-heist/)
+
+**Source:** Security Week  
+**Published:** Mon, 02 Nov 2026 08:40:36 +0000  
+**Severity:** Low  
+**Categories:** APT, Supply Chain  
+
+---
+
+### 39. [Ivanti Patches Two More Zero-Days Exploited in Connect Secure Attack Chain](https://www.securityweek.com/ivanti-patches-two-more-zero-days-exploited-in-connect-secure-attack-chain/)
+
+**Source:** Security Week  
+**Published:** Mon, 02 Nov 2026 07:57:49 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-111357, CVE-2026-104935, CVE-2026-118527  
+**Categories:** Vulnerability  
+
+---
+
+### 40. [Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations](https://www.securityweek.com/northstar-security-exits-stealth-with-7m-to-expose-toxic-risk-combinations/)
 
 **Source:** Security Week  
 **Published:** Sun, 01 Nov 2026 11:15:00 +0000  
 **Severity:** Critical  
 **Categories:** Vulnerability, APT  
-
----
-
-### 32. [Syrian Hacker Gets Prison Time in US After Over a Decade on the Run](https://www.securityweek.com/syrian-hacker-gets-prison-time-in-us-after-over-a-decade-on-the-run/)
-
-**Source:** Security Week  
-**Published:** Sat, 31 Oct 2026 11:00:00 +0000  
-**Severity:** High  
-**Categories:** Ransomware, Supply Chain  
-
----
-
-### 33. [PHP2Shell Attacks Root Palo Alto Firewalls but Fail Against WordPress](https://www.securityweek.com/php2shell-attacks-root-palo-alto-firewalls-but-fail-against-wordpress/)
-
-**Source:** Security Week  
-**Published:** Fri, 30 Oct 2026 15:09:25 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-109618, CVE-2026-109619  
-**Categories:** Vulnerability  
-
----
-
-### 34. [In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak](https://www.securityweek.com/in-other-news-anthropic-breach-dispute-uefi-flaw-hits-most-servers-cloudflare-ai-data-leak/)
-
-**Source:** Security Week  
-**Published:** Fri, 30 Oct 2026 14:41:35 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-97631  
-**Categories:** Ransomware, Data Breach, Vulnerability, Malware, APT, Supply Chain  
-
----
-
-### 35. [Passkeys Are Better Than Passwords. But They Are Not Enough.](https://www.securityweek.com/passkeys-are-better-than-passwords-but-they-are-not-enough/)
-
-**Source:** Security Week  
-**Published:** Fri, 30 Oct 2026 14:00:00 +0000  
-**Severity:** Critical  
-**Categories:** Phishing, APT  
-
----
-
-### 36. [Bulletproof Host Virtualine Loses Its Domain to FBI Seizure](https://www.securityweek.com/bulletproof-host-virtualine-loses-its-domain-to-fbi-seizure/)
-
-**Source:** Security Week  
-**Published:** Fri, 30 Oct 2026 13:36:12 +0000  
-**Severity:** Low  
-**Categories:** Ransomware, Vulnerability, Malware, Phishing  
-
----
-
-### 37. [Fresh WordPress Vulnerability in Attackers’ Crosshairs](https://www.securityweek.com/fresh-wordpress-vulnerability-in-attackers-crosshairs/)
-
-**Source:** Security Week  
-**Published:** Fri, 30 Oct 2026 12:04:13 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 38. [Drupal Commerce Core Vulnerability Exploited Against Online Stores](https://www.securityweek.com/drupal-commerce-core-vulnerability-exploited-against-online-stores/)
-
-**Source:** Security Week  
-**Published:** Fri, 30 Oct 2026 11:07:11 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-9082, CVE-2026-108099, CVE-2026-108097, CVE-2026-118539  
-**Categories:** Vulnerability, APT  
-
----
-
-### 39. [$2 Million+ Drained From Polymarket Traders in New Supply Chain Attack](https://www.securityweek.com/2-million-drained-from-polymarket-traders-in-new-supply-chain-attack/)
-
-**Source:** Security Week  
-**Published:** Fri, 30 Oct 2026 09:41:36 +0000  
-**Severity:** Low  
-**Categories:** Supply Chain  
-
----
-
-### 40. [Max-Severity GitLab Vulnerability Exploited Against Alpine Linux](https://www.securityweek.com/max-severity-gitlab-vulnerability-exploited-against-alpine-linux/)
-
-**Source:** Security Week  
-**Published:** Fri, 30 Oct 2026 09:32:27 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-97229  
-**Categories:** Vulnerability  
 
 ---
 
@@ -653,7 +651,34 @@
 
 ---
 
-### 71. [Fake PDF and search tools hijacked searches for 13.4 million Chrome users](https://www.malwarebytes.com/blog/news/2026/10/fake-pdf-and-search-tools-hijacked-searches-for-13-4-million-chrome-users)
+### 71. [5 stars for sale: Inside the underground fake review trade](https://www.malwarebytes.com/blog/threat-intel/2026/11/5-stars-for-sale-inside-the-underground-fake-review-trade)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 02 Nov 2026 14:24:43 GMT  
+**Severity:** High  
+**Categories:** Malware  
+
+---
+
+### 72. [Applebee’s customer data exposed by password left in app](https://www.malwarebytes.com/blog/news/2026/11/applebees-customer-data-exposed-by-password-left-in-app)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 02 Nov 2026 14:22:43 GMT  
+**Severity:** Low  
+**Categories:** Data Breach  
+
+---
+
+### 73. [A week in security (October 26 – November 1)](https://www.malwarebytes.com/blog/news/2026/11/a-week-in-security-october-26-november-1-2)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 02 Nov 2026 08:01:00 GMT  
+**Severity:** Low  
+**Categories:** Malware, Phishing  
+
+---
+
+### 74. [Fake PDF and search tools hijacked searches for 13.4 million Chrome users](https://www.malwarebytes.com/blog/news/2026/10/fake-pdf-and-search-tools-hijacked-searches-for-13-4-million-chrome-users)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 30 Oct 2026 15:25:41 GMT  
@@ -662,7 +687,7 @@
 
 ---
 
-### 72. [Photo ID, bank checks, face scan? The UK’s age-check options](https://www.malwarebytes.com/blog/news/2026/10/photo-id-bank-checks-face-scan-the-uks-age-check-options)
+### 75. [Photo ID, bank checks, face scan? The UK’s age-check options](https://www.malwarebytes.com/blog/news/2026/10/photo-id-bank-checks-face-scan-the-uks-age-check-options)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 30 Oct 2026 13:00:02 GMT  
@@ -671,7 +696,7 @@
 
 ---
 
-### 73. [Binance hit by largest-ever crypto theft, with $6.3 billion stolen](https://www.malwarebytes.com/blog/news/2026/10/binance-hit-by-largest-ever-crypto-theft-with-6-3-billion-stolen)
+### 76. [Binance hit by largest-ever crypto theft, with $6.3 billion stolen](https://www.malwarebytes.com/blog/news/2026/10/binance-hit-by-largest-ever-crypto-theft-with-6-3-billion-stolen)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 30 Oct 2026 12:24:19 GMT  
@@ -680,7 +705,7 @@
 
 ---
 
-### 74. [Hackers steal and publish data on 41,000 Homeland Security workers](https://www.malwarebytes.com/blog/data-breaches/2026/10/hackers-steal-and-publish-data-on-41000-homeland-security-workers)
+### 77. [Hackers steal and publish data on 41,000 Homeland Security workers](https://www.malwarebytes.com/blog/data-breaches/2026/10/hackers-steal-and-publish-data-on-41000-homeland-security-workers)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 30 Oct 2026 11:33:12 GMT  
@@ -689,7 +714,7 @@
 
 ---
 
-### 75. [Malicious Firefox extensions impersonate popular crypto wallets](https://www.malwarebytes.com/blog/news/2026/10/malicious-firefox-extensions-impersonate-popular-crypto-wallets)
+### 78. [Malicious Firefox extensions impersonate popular crypto wallets](https://www.malwarebytes.com/blog/news/2026/10/malicious-firefox-extensions-impersonate-popular-crypto-wallets)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 29 Oct 2026 14:06:54 GMT  
@@ -698,7 +723,7 @@
 
 ---
 
-### 76. [Have an older iPhone or iPad? Apple has a security update for you](https://www.malwarebytes.com/blog/bugs/2026/10/have-an-older-iphone-or-ipad-apple-has-a-security-update-for-you)
+### 79. [Have an older iPhone or iPad? Apple has a security update for you](https://www.malwarebytes.com/blog/bugs/2026/10/have-an-older-iphone-or-ipad-apple-has-a-security-update-for-you)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 29 Oct 2026 11:03:18 GMT  
@@ -707,7 +732,7 @@
 
 ---
 
-### 77. [Banks are blocking AI agents from customer accounts](https://www.malwarebytes.com/blog/ai/2026/10/banks-are-blocking-ai-agents-from-customer-accounts)
+### 80. [Banks are blocking AI agents from customer accounts](https://www.malwarebytes.com/blog/ai/2026/10/banks-are-blocking-ai-agents-from-customer-accounts)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 28 Oct 2026 13:38:59 GMT  
@@ -716,34 +741,16 @@
 
 ---
 
-### 78. [Chrome and Firefox updates fix serious security flaws. Install now](https://www.malwarebytes.com/blog/ai/2026/10/chrome-and-firefox-updates-fix-serious-security-flaws-install-them-now)
+### 81. [What Makes a Good Security Agent? 5 Lessons from the AgentWorks Hackathon](https://www.crowdstrike.com/en-us/blog/five-lessons-from-agentworks-hackathon/)
 
-**Source:** Malwarebytes  
-**Published:** Wed, 28 Oct 2026 11:13:06 GMT  
-**Severity:** Critical  
-**Categories:** General Security  
-
----
-
-### 79. [Five election scams to watch out for](https://www.malwarebytes.com/blog/scams/2026/10/five-election-scams-to-watch-out-for)
-
-**Source:** Malwarebytes  
-**Published:** Tue, 27 Oct 2026 15:36:09 GMT  
-**Severity:** High  
-**Categories:** General Security  
-
----
-
-### 80. [Artificial Intimacy: Love and lies in the age of AI](https://www.malwarebytes.com/blog/ai/2026/10/artificial-intimacy-love-and-lies-in-the-age-of-ai)
-
-**Source:** Malwarebytes  
-**Published:** Tue, 27 Oct 2026 12:40:00 GMT  
+**Source:** Crowdstrike Blog  
+**Published:** Nov 02, 2026 00:00:00-0600  
 **Severity:** Low  
-**Categories:** Vulnerability  
+**Categories:** General Security  
 
 ---
 
-### 81. [CrowdStrike Expands Falcon Adversary OverWatch Threat Hunting Across AI and Google Cloud](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-threat-hunting-across-ai-and-google-cloud/)
+### 82. [CrowdStrike Expands Falcon Adversary OverWatch Threat Hunting Across AI and Google Cloud](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-threat-hunting-across-ai-and-google-cloud/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 30, 2026 00:00:00-0500  
@@ -752,7 +759,7 @@
 
 ---
 
-### 82. [Build an Intelligence Advantage with Falcon Next-Gen SIEM](https://www.crowdstrike.com/en-us/blog/build-intelligence-advantage-with-falcon-next-gen-siem/)
+### 83. [Build an Intelligence Advantage with Falcon Next-Gen SIEM](https://www.crowdstrike.com/en-us/blog/build-intelligence-advantage-with-falcon-next-gen-siem/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 30, 2026 00:00:00-0500  
@@ -761,7 +768,7 @@
 
 ---
 
-### 83. [CrowdStrike Agent Graph Shows How Agents Act on the Endpoint](https://www.crowdstrike.com/en-us/blog/crowdstrike-agent-graph-shows-how-agents-act-on-endpoint/)
+### 84. [CrowdStrike Agent Graph Shows How Agents Act on the Endpoint](https://www.crowdstrike.com/en-us/blog/crowdstrike-agent-graph-shows-how-agents-act-on-endpoint/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 30, 2026 00:00:00-0500  
@@ -770,7 +777,7 @@
 
 ---
 
-### 84. [VAPOR PANDA Uses AI-Driven ARTEX to Scale a Global Espionage Campaign](https://www.crowdstrike.com/en-us/blog/vapor-panda-uses-artex-to-scale-global-campaign/)
+### 85. [VAPOR PANDA Uses AI-Driven ARTEX to Scale a Global Espionage Campaign](https://www.crowdstrike.com/en-us/blog/vapor-panda-uses-artex-to-scale-global-campaign/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 29, 2026 00:00:00-0500  
@@ -779,7 +786,7 @@
 
 ---
 
-### 85. [New Prompt Injection Techniques Cover Agent-Planning Attacks](https://www.crowdstrike.com/en-us/blog/new-prompt-injection-techniques-cover-agent-planning-attacks/)
+### 86. [New Prompt Injection Techniques Cover Agent-Planning Attacks](https://www.crowdstrike.com/en-us/blog/new-prompt-injection-techniques-cover-agent-planning-attacks/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 29, 2026 00:00:00-0500  
@@ -788,7 +795,7 @@
 
 ---
 
-### 86. [When AI Guardrails Expose Vulnerabilities](https://www.crowdstrike.com/en-us/blog/when-ai-guardrails-expose-vulnerabilities/)
+### 87. [When AI Guardrails Expose Vulnerabilities](https://www.crowdstrike.com/en-us/blog/when-ai-guardrails-expose-vulnerabilities/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 28, 2026 00:00:00-0500  
@@ -797,7 +804,7 @@
 
 ---
 
-### 87. [CrowdStrike 2026 Legal Threat Landscape Report: eCrime Leads Attacks, China Activity Intensifies](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-legal-threat-landscape-report/)
+### 88. [CrowdStrike 2026 Legal Threat Landscape Report: eCrime Leads Attacks, China Activity Intensifies](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-legal-threat-landscape-report/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 28, 2026 00:00:00-0500  
@@ -806,7 +813,7 @@
 
 ---
 
-### 88. [Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation](https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/)
+### 89. [Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation](https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 23, 2026 00:00:00-0500  
@@ -815,22 +822,12 @@
 
 ---
 
-### 89. [Why Organizations Secure AI Agents with Falcon Guardian](https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/)
+### 90. [Why Organizations Secure AI Agents with Falcon Guardian](https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Oct 23, 2026 00:00:00-0500  
 **Severity:** Critical  
 **Categories:** General Security  
-
----
-
-### 90. [CrowdStrike Protects Customers from Threats Delivered via PHP2Shell](https://www.crowdstrike.com/en-us/blog/crowdstrike-protects-customers-from-php-rce-zero-days/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Oct 21, 2026 00:00:00-0500  
-**Severity:** Low  
-**CVEs:** CVE-2026-109618, CVE-2026-109619  
-**Categories:** Vulnerability  
 
 ---
 
