@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-02 18:41:50 UTC
+**Last Updated:** 2026-11-02 21:35:50 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,16 @@
 
 ---
 
-### 11. [Google disrupts million-device XCPE Android malware botnet, bans TV box maker](https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/)
+### 11. [Fintech platform Sageworks taken offline after suspected cyberattack](https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 02 Nov 2026 14:00:45 -0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 12. [Google disrupts million-device XCPE Android malware botnet, bans TV box maker](https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Nov 2026 13:16:34 -0500  
@@ -104,7 +113,7 @@
 
 ---
 
-### 12. [BTCPay Server warns of hot wallet crypto thefts on outdated instances](https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/)
+### 13. [BTCPay Server warns of hot wallet crypto thefts on outdated instances](https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Nov 2026 10:03:07 -0500  
@@ -113,7 +122,7 @@
 
 ---
 
-### 13. [Your Mobile Carrier Stores Your Call Logs for Years](https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/)
+### 14. [Your Mobile Carrier Stores Your Call Logs for Years](https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Nov 2026 10:01:11 -0500  
@@ -122,7 +131,7 @@
 
 ---
 
-### 14. [Hackers disrupt refrigeration systems at European supermarkets](https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/)
+### 15. [Hackers disrupt refrigeration systems at European supermarkets](https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Nov 2026 09:28:39 -0500  
@@ -131,7 +140,7 @@
 
 ---
 
-### 15. [Microsoft fixes Smart App Control broken by October Windows update](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/)
+### 16. [Microsoft fixes Smart App Control broken by October Windows update](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Nov 2026 08:57:29 -0500  
@@ -140,17 +149,17 @@
 
 ---
 
-### 16. [Over 1,000 GitLab servers vulnerable to ongoing RCE attacks](https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/)
+### 17. [Over 1,000 GitLab servers vulnerable to ongoing RCE attacks](https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Nov 2026 07:47:00 -0500  
 **Severity:** High  
-**CVEs:** CVE-2026-97229, CVE-2026-85706, CVE-2026-0723  
+**CVEs:** CVE-2026-85706, CVE-2026-0723, CVE-2026-97229  
 **Categories:** Vulnerability  
 
 ---
 
-### 17. [Synology warns of C3RB3R ransomware attacks targeting NAS devices](https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/)
+### 18. [Synology warns of C3RB3R ransomware attacks targeting NAS devices](https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Nov 2026 06:28:42 -0500  
@@ -160,32 +169,22 @@
 
 ---
 
-### 18. [Ivanti patches two more Connect Secure zero-days chained in attacks](https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/)
+### 19. [Ivanti patches two more Connect Secure zero-days chained in attacks](https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Nov 2026 04:33:26 -0500  
 **Severity:** Critical  
-**CVEs:** CVE-2026-111357, CVE-2026-104935, CVE-2026-118527  
+**CVEs:** CVE-2026-111357, CVE-2026-118527, CVE-2026-104935  
 **Categories:** Vulnerability  
 
 ---
 
-### 19. [FBI links $6.3 billion Binance crypto heist to North Korean hackers](https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/)
+### 20. [FBI links $6.3 billion Binance crypto heist to North Korean hackers](https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 01 Nov 2026 14:57:53 -0500  
 **Severity:** Low  
 **Categories:** APT  
-
----
-
-### 20. [Alpine Linux rebuilds GitLab after attempted RCE attack](https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/)
-
-**Source:** Bleeping Computer  
-**Published:** Sun, 01 Nov 2026 10:11:21 -0500  
-**Severity:** Critical  
-**CVEs:** CVE-2026-97229  
-**Categories:** Vulnerability, Supply Chain  
 
 ---
 
@@ -277,7 +276,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 08 Sep 2026 21:44:22 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-85880, CVE-2026-81963, CVE-2026-69730, CVE-2026-69829  
+**CVEs:** CVE-2026-69730, CVE-2026-69829, CVE-2026-81963, CVE-2026-85880  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -359,7 +358,7 @@
 **Source:** Security Week  
 **Published:** Mon, 02 Nov 2026 07:57:49 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-111357, CVE-2026-104935, CVE-2026-118527  
+**CVEs:** CVE-2026-111357, CVE-2026-118527, CVE-2026-104935  
 **Categories:** Vulnerability  
 
 ---
@@ -636,7 +635,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

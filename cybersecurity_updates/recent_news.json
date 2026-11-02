@@ -186,6 +186,24 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Fintech platform Sageworks taken offline after suspected cyberattack",
+    "link": "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/",
+    "published": "Mon, 02 Nov 2026 14:00:45 -0500",
+    "summary": "Financial technology company Abrigo has restored its Sageworks risk management application, except for borrower-facing capabilities, following an outage triggered by \"irregular activity\" in its environment. [...]",
+    "analysis": {
+      "issue": "Financial technology company Abrigo has restored its Sageworks risk management application, except for borrower-facing capabilities, following an outage triggered by \"irregular activity\" in its environment",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
     "link": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
     "published": "Mon, 02 Nov 2026 13:16:34 -0500",
@@ -287,9 +305,9 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-97229",
         "CVE-2026-85706",
-        "CVE-2026-0723"
+        "CVE-2026-0723",
+        "CVE-2026-97229"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -333,8 +351,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-111357",
-        "CVE-2026-104935",
-        "CVE-2026-118527"
+        "CVE-2026-118527",
+        "CVE-2026-104935"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -356,27 +374,6 @@
       "cves": [],
       "threat_categories": [
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
-    "link": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
-    "published": "Sun, 01 Nov 2026 10:11:21 -0500",
-    "summary": "Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset all passwords over concerns of a possible compromise. [...]",
-    "analysis": {
-      "issue": "Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20–21, prompting the open-source project to rebuild its GitLab server and reset all passwords over concerns of a possible compromise",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-97229"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
       ]
     }
   },
@@ -566,10 +563,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-85880",
-        "CVE-2026-81963",
         "CVE-2026-69730",
-        "CVE-2026-69829"
+        "CVE-2026-69829",
+        "CVE-2026-81963",
+        "CVE-2026-85880"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -739,8 +736,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-111357",
-        "CVE-2026-104935",
-        "CVE-2026-118527"
+        "CVE-2026-118527",
+        "CVE-2026-104935"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1306,8 +1303,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
