@@ -1,10 +1,29 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-02 21:35:50 UTC
+**Last Updated:** 2026-11-03 06:04:06 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More](https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html)
+### 1. [Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors](https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 03 Nov 2026 11:04:41 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-58115  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 2. [Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials](https://thehackernews.com/2026/11/attackers-target-unpatched.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 03 Nov 2026 11:04:37 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More](https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 02 Nov 2026 22:27:56 +0530  
@@ -13,7 +32,7 @@
 
 ---
 
-### 2. [Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access](https://thehackernews.com/2026/11/google-disrupts-13-million-device.html)
+### 4. [Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access](https://thehackernews.com/2026/11/google-disrupts-13-million-device.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 02 Nov 2026 21:20:26 +0530  
@@ -22,7 +41,7 @@
 
 ---
 
-### 3. [DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment](https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html)
+### 5. [DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment](https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 02 Nov 2026 20:16:05 +0530  
@@ -31,7 +50,7 @@
 
 ---
 
-### 4. [Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers](https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html)
+### 6. [Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers](https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 02 Nov 2026 17:20:00 +0530  
@@ -40,7 +59,7 @@
 
 ---
 
-### 5. [Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy](https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html)
+### 7. [Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy](https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 02 Nov 2026 17:00:00 +0530  
@@ -49,7 +68,7 @@
 
 ---
 
-### 6. [Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data](https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html)
+### 8. [Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data](https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 02 Nov 2026 16:38:45 +0530  
@@ -58,7 +77,7 @@
 
 ---
 
-### 7. [Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts](https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html)
+### 9. [Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts](https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 02 Nov 2026 16:19:59 +0530  
@@ -67,7 +86,7 @@
 
 ---
 
-### 8. [New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value](https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html)
+### 10. [New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value](https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 02 Nov 2026 11:21:07 +0530  
@@ -76,26 +95,16 @@
 
 ---
 
-### 9. [CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key](https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html)
+### 11. [Chinese hackers use ARTEX AI in automated attacks against 200 orgs](https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/)
 
-**Source:** The Hacker News  
-**Published:** Sun, 01 Nov 2026 14:21:31 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-112816  
-**Categories:** Vulnerability  
-
----
-
-### 10. [Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script](https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html)
-
-**Source:** The Hacker News  
-**Published:** Sun, 01 Nov 2026 12:55:40 +0530  
-**Severity:** Low  
+**Source:** Bleeping Computer  
+**Published:** Mon, 02 Nov 2026 16:40:14 -0500  
+**Severity:** High  
 **Categories:** General Security  
 
 ---
 
-### 11. [Fintech platform Sageworks taken offline after suspected cyberattack](https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/)
+### 12. [Fintech platform Sageworks taken offline after suspected cyberattack](https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Nov 2026 14:00:45 -0500  
@@ -104,7 +113,7 @@
 
 ---
 
-### 12. [Google disrupts million-device XCPE Android malware botnet, bans TV box maker](https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/)
+### 13. [Google disrupts million-device XCPE Android malware botnet, bans TV box maker](https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Nov 2026 13:16:34 -0500  
@@ -113,7 +122,7 @@
 
 ---
 
-### 13. [BTCPay Server warns of hot wallet crypto thefts on outdated instances](https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/)
+### 14. [BTCPay Server warns of hot wallet crypto thefts on outdated instances](https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Nov 2026 10:03:07 -0500  
@@ -122,7 +131,7 @@
 
 ---
 
-### 14. [Your Mobile Carrier Stores Your Call Logs for Years](https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/)
+### 15. [Your Mobile Carrier Stores Your Call Logs for Years](https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Nov 2026 10:01:11 -0500  
@@ -131,7 +140,7 @@
 
 ---
 
-### 15. [Hackers disrupt refrigeration systems at European supermarkets](https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/)
+### 16. [Hackers disrupt refrigeration systems at European supermarkets](https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Nov 2026 09:28:39 -0500  
@@ -140,7 +149,7 @@
 
 ---
 
-### 16. [Microsoft fixes Smart App Control broken by October Windows update](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/)
+### 17. [Microsoft fixes Smart App Control broken by October Windows update](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Nov 2026 08:57:29 -0500  
@@ -149,46 +158,46 @@
 
 ---
 
-### 17. [Over 1,000 GitLab servers vulnerable to ongoing RCE attacks](https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/)
+### 18. [Over 1,000 GitLab servers vulnerable to ongoing RCE attacks](https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Nov 2026 07:47:00 -0500  
 **Severity:** High  
-**CVEs:** CVE-2026-85706, CVE-2026-0723, CVE-2026-97229  
+**CVEs:** CVE-2026-0723, CVE-2026-85706, CVE-2026-97229  
 **Categories:** Vulnerability  
 
 ---
 
-### 18. [Synology warns of C3RB3R ransomware attacks targeting NAS devices](https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/)
+### 19. [Synology warns of C3RB3R ransomware attacks targeting NAS devices](https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Nov 2026 06:28:42 -0500  
 **Severity:** Low  
-**CVEs:** CVE-2024-10445, CVE-2024-50629, CVE-2024-10441  
+**CVEs:** CVE-2024-10441, CVE-2024-50629, CVE-2024-10445  
 **Categories:** Ransomware, Vulnerability  
 
 ---
 
-### 19. [Ivanti patches two more Connect Secure zero-days chained in attacks](https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/)
+### 20. [Ivanti patches two more Connect Secure zero-days chained in attacks](https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Nov 2026 04:33:26 -0500  
 **Severity:** Critical  
-**CVEs:** CVE-2026-111357, CVE-2026-118527, CVE-2026-104935  
+**CVEs:** CVE-2026-118527, CVE-2026-111357, CVE-2026-104935  
 **Categories:** Vulnerability  
 
 ---
 
-### 20. [FBI links $6.3 billion Binance crypto heist to North Korean hackers](https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/)
+### 21. [Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies](https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/)
 
-**Source:** Bleeping Computer  
-**Published:** Sun, 01 Nov 2026 14:57:53 -0500  
-**Severity:** Low  
-**Categories:** APT  
+**Source:** Krebs On Security  
+**Published:** Tue, 03 Nov 2026 02:24:31 +0000  
+**Severity:** Critical  
+**Categories:** Malware  
 
 ---
 
-### 21. [Widespread PHP Flaw May Cause Many Site Outages Today](https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/)
+### 22. [Widespread PHP Flaw May Cause Many Site Outages Today](https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 21 Oct 2026 15:26:07 +0000  
@@ -197,7 +206,7 @@
 
 ---
 
-### 22. [Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
+### 23. [Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 19 Oct 2026 13:48:56 +0000  
@@ -206,7 +215,7 @@
 
 ---
 
-### 23. [U.K. Sanctions Cryptomus for RU Money Laundering](https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/)
+### 24. [U.K. Sanctions Cryptomus for RU Money Laundering](https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Oct 2026 14:22:49 +0000  
@@ -215,17 +224,17 @@
 
 ---
 
-### 24. [Microsoft Patches More Than 1,400 Security Flaws](https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/)
+### 25. [Microsoft Patches More Than 1,400 Security Flaws](https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 13 Oct 2026 23:24:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-108398, CVE-2026-96951  
+**CVEs:** CVE-2026-96951, CVE-2026-108398  
 **Categories:** Vulnerability  
 
 ---
 
-### 25. [FBI Arrests Executive at Ransomware Negotiation Firm](https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/)
+### 26. [FBI Arrests Executive at Ransomware Negotiation Firm](https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/)
 
 **Source:** Krebs On Security  
 **Published:** Sat, 10 Oct 2026 00:17:42 +0000  
@@ -234,7 +243,7 @@
 
 ---
 
-### 26. [ShinyHunters Extorted Boeing Spin-off Prior to Arrests](https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/)
+### 27. [ShinyHunters Extorted Boeing Spin-off Prior to Arrests](https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 07 Oct 2026 13:48:45 +0000  
@@ -244,7 +253,7 @@
 
 ---
 
-### 27. [Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation](https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/)
+### 28. [Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation](https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 28 Sep 2026 15:08:57 +0000  
@@ -253,7 +262,7 @@
 
 ---
 
-### 28. [U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions](https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/)
+### 29. [U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions](https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/)
 
 **Source:** Krebs On Security  
 **Published:** Fri, 25 Sep 2026 21:44:40 +0000  
@@ -262,22 +271,12 @@
 
 ---
 
-### 29. [Data Broker Radaris Loses Domains in Privacy Fight](https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/)
+### 30. [Data Broker Radaris Loses Domains in Privacy Fight](https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 16 Sep 2026 18:14:22 +0000  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 30. [Microsoft Plugs Nearly 1,000 Security Holes](https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/)
-
-**Source:** Krebs On Security  
-**Published:** Tue, 08 Sep 2026 21:44:22 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-69730, CVE-2026-69829, CVE-2026-81963, CVE-2026-85880  
-**Categories:** Vulnerability, Malware  
 
 ---
 
@@ -358,7 +357,7 @@
 **Source:** Security Week  
 **Published:** Mon, 02 Nov 2026 07:57:49 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-111357, CVE-2026-118527, CVE-2026-104935  
+**CVEs:** CVE-2026-118527, CVE-2026-111357, CVE-2026-104935  
 **Categories:** Vulnerability  
 
 ---
