@@ -1,6 +1,153 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
+    "link": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
+    "published": "Tue, 03 Nov 2026 21:11:53 +0530",
+    "summary": "Google on Monday warned that threat actors are hijacking enterprise access to Large Language Models (LLMs) to fraudulently leverage expensive computing resources and AI services.\n\nThe tactic is called LLMjacking, a form of resource hijacking adapted for the LLM era, where an attacker obtains an API key through phishing, source code leaks, misconfigured environments, or exposed client-side code",
+    "analysis": {
+      "issue": "Google details LLMjacking attacks that hijack enterprise AI resources, generating fraudulent cloud charges reaching $1 million at some organizations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
+    "link": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html",
+    "published": "Tue, 03 Nov 2026 20:46:32 +0530",
+    "summary": "An attacker broke into the update system of the cPGuard security tool on November 2 and used it to send a malicious script to customers' Linux servers.\n\nThe script installed a backdoor and collected password hashes and other sensitive files from servers that ran it, cPGuard maker OPSSHIELD said in an advisory. The attacker has since taken some of that data.\n\ncPGuard 5.88.25 and later versions",
+    "analysis": {
+      "issue": "Attackers hijacked cPGuard updates to plant a backdoor and collect server secrets, with 32 files confirmed retrieved from OPSSHIELD's server",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
+    "link": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
+    "published": "Tue, 03 Nov 2026 16:53:53 +0530",
+    "summary": "Fixed kernels for a&nbsp;use-after-free vulnerability in the Linux kernel's IPv4 TCP code&nbsp;are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu's fixes for its three newest long-term-support releases remain in its opt-in testing channel with no date for a regular update.\n\nThe flaw, tracked as CVE-2026-98432, can be reached by a remote, unauthenticated attacker and can",
+    "analysis": {
+      "issue": "Red Hat patches a critical Linux TCP flaw enabling remote code execution, while Ubuntu fixes remain in testing for three LTS releases",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "The 4 Elements of Exposure Prioritization and How to Operationalize Them",
+    "link": "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html",
+    "published": "Tue, 03 Nov 2026 16:48:20 +0530",
+    "summary": "Your team is remediating more vulnerabilities than ever, yet your breach risk has barely changed. You’re spending too much time and effort on exposures attackers may never exploit, while higher-risk exposures sit, waiting in the queue. Gartner®’s report on exposure prioritization states that fewer than 10% of vulnerabilities are exploited, yet most are treated as urgent. The report also argues",
+    "analysis": {
+      "issue": "Gartner predicts 70% lower breach likelihood by 2028 for organizations prioritizing exposures using threat intelligence, asset context, and validation",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware",
+    "link": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html",
+    "published": "Tue, 03 Nov 2026 16:30:45 +0530",
+    "summary": "A Russia-aligned threat actor known as Gorbag has been observed using simple information stealer malware in attacks targeting Ukrainian organizations.\n\n\"Active since at least February 2025, the group has focused exclusively on Ukrainian targets, with a clear preference for law enforcement and justice entities, local administrations near the front line, and the defense sector,\" ESET researcher",
+    "analysis": {
+      "issue": "Russia-aligned Gorbag uses spear-phishing, info-stealers, and a reverse shell to collect sensitive data from Ukrainian organizations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
+    "link": "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html",
+    "published": "Tue, 03 Nov 2026 14:01:48 +0530",
+    "summary": "BTCPay Server, a self-hosted, open-source cryptocurrency payment processor, has urged users to install the latest version of its software in response to reports of Bitcoin and Litecoin being stolen from hot wallets on instances running older versions.\n\n\"Our investigation found that these attacks targeted servers running BTCPay Server 2.4.1 (released on 23 July 2026) or earlier,\" BTCPay Server",
+    "analysis": {
+      "issue": "Hackers exploited a BTCPay Server vulnerability to steal Bitcoin and Litecoin from hot wallets on versions 2",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
+    "link": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
+    "published": "Tue, 03 Nov 2026 13:13:07 +0530",
+    "summary": "Synology is urging customers to update the DiskStation Manager (DSM) software powering its Network Attached Storage (NAS) devices following ransomware attacks.\n\nThe Taiwanese vendor said it observed threat actors exploiting a vulnerability patched in December 2024 to target devices running outdated versions of DSM.\n\n\"These attacks aim to encrypt data and extort ransom,\" it said in a statement",
+    "analysis": {
+      "issue": "Synology warns of ransomware attacks exploiting a patched DSM flaw as NAS users report C3RB3R infections and encrypted files",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food",
+    "link": "https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html",
+    "published": "Tue, 03 Nov 2026 12:57:07 +0530",
+    "summary": "Attackers remotely changed the settings on refrigeration controls at supermarkets in Belgium, Sweden, Estonia and other European countries overnight into Monday, November 2, warming fridges and freezers.\n\nNo chain reported more than several dozen affected stores, and some had to throw away chilled and frozen food or take it off the shelf. Danfoss, a Danish maker of refrigeration controls,&nbsp",
+    "analysis": {
+      "issue": "Hackers altered supermarket refrigeration settings across Europe, forcing food withdrawals and exposing weaknesses in remote controls",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
     "link": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
     "published": "Tue, 03 Nov 2026 11:04:41 +0530",
@@ -39,88 +186,35 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
-    "link": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
-    "published": "Mon, 02 Nov 2026 22:27:56 +0530",
-    "summary": "Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared link, or a device with no password. Small things that people barely think about. Yet each was enough to cause serious trouble.\n\nThen there were the bigger messes. Billions stolen, hidden networks of hacked devices, poisoned software, and attackers finding new ways to turn normal tools against",
+    "source": "Bleeping Computer",
+    "title": "Barracuda warns of critical flaws allowing root access to devices",
+    "link": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
+    "published": "Tue, 03 Nov 2026 10:06:16 -0500",
+    "summary": "Cybersecurity company Barracuda Networks warned customers to patch two vulnerabilities that can let attackers run commands with root privileges. [...]",
     "analysis": {
-      "issue": "This week's ThreatsDay Bulletin covers the $6",
+      "issue": "Cybersecurity company Barracuda Networks warned customers to patch two vulnerabilities that can let attackers run commands with root privileges",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
-      "cves": [],
+      "cves": [
+        "CVE-2026-116606",
+        "CVE-2023-7102",
+        "CVE-2026-111560"
+      ],
       "threat_categories": [
-        "Malware",
-        "Phishing",
-        "DDoS"
+        "Vulnerability"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
-    "link": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
-    "published": "Mon, 02 Nov 2026 21:20:26 +0530",
-    "summary": "A botnet of more than 1.3 million Android devices, mostly TV set-top boxes, lost control of its servers in late October in a takedown led by Google.\n\nGoogle says&nbsp;it is highly confident that device maker Videostrong intentionally put a backdoor in the boxes and sold access to criminals.\n\nThey used the boxes for ad fraud and to pass other people's internet traffic through owners' home",
+    "source": "Bleeping Computer",
+    "title": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
+    "link": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/",
+    "published": "Tue, 03 Nov 2026 10:00:10 -0500",
+    "summary": "Gartner predicts that security operations centers will have 50% more engineers than analysts by 2028 as AI agents take over routine alert handling. Prophet Security examines how AI is reshaping SOC roles, from analyst responsibilities and detection engineering to threat hunting and exposure management. [...]",
     "analysis": {
-      "issue": "3 million Android devices, linking the firmware backdoor to manufacturer Videostrong",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
-    "link": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
-    "published": "Mon, 02 Nov 2026 20:16:05 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October 2026.\n\nAccording to a report published by Dream Research Labs, the campaign has led to the compromise of a high-profile individual in Israel, along with additional compromises affecting a government cloud",
-    "analysis": {
-      "issue": "Iran-linked DarkBlinders compromised targets in Israel and Iraqi Kurdistan using credential phishing and malware-laced applications",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
-    "link": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
-    "published": "Mon, 02 Nov 2026 17:20:00 +0530",
-    "summary": "Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code,&nbsp;IBM said last week.\n\nLangflow is an open-source tool for building AI agents and workflows, and&nbsp;its vulnerability reports go to IBM. Every release from 1.0.0 through 1.12.8 has the flaws, and the only fix is version 1.13.0.\n\nNeither flaw is in CISA's&nbsp;Known",
-    "analysis": {
-      "issue": "0 fixes two critical flaws that could let unauthenticated attackers bypass authentication or remotely execute code",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy",
-    "link": "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html",
-    "published": "Mon, 02 Nov 2026 17:00:00 +0530",
-    "summary": "Forty percent of security teams now use AI every day, and another 56% are testing it. Only 4% have no plans to adopt it, according to Prophet Security's State of AI in Security Operations 2026 survey of more than 250 CISOs, SOC leaders and practitioners. For the teams still testing, the next decision is whether their own SOC is ready.\n\nAI SOC readiness has two parts: whether a SOC has the",
-    "analysis": {
-      "issue": "Assess AI SOC readiness with checks for data access, investigation standards, baseline metrics, human approvals, and detection coverage",
+      "issue": "By 2028, security operations teams will have 50% more engineers than analysts",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -132,13 +226,31 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data",
-    "link": "https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html",
-    "published": "Mon, 02 Nov 2026 16:38:45 +0530",
-    "summary": "Attackers posing as IT support on Microsoft Teams talked employees into giving them remote control of their PCs. They then used insecure Active Directory Certificate Services (AD CS) settings to obtain login certificates for privileged accounts, including one for a domain controller.\n\nMicrosoft said in&nbsp;a report&nbsp;that it investigated two such intrusions, one of which resulted in company",
+    "source": "Bleeping Computer",
+    "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
+    "link": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
+    "published": "Tue, 03 Nov 2026 09:00:00 -0500",
+    "summary": "A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]",
     "analysis": {
-      "issue": "Attackers posed as IT support on Teams in two intrusions, abusing AD CS to gain privileged access and copying company data in one case",
+      "issue": "A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Police seizes over 100 servers in investment scam crackdown",
+    "link": "https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/",
+    "published": "Tue, 03 Nov 2026 08:33:49 -0500",
+    "summary": "European law enforcement authorities arrested seven suspects and seized more than 100 servers in a joint action targeting an unnamed company suspected of providing fraudulent trading websites to criminal gangs. [...]",
+    "analysis": {
+      "issue": "European law enforcement authorities arrested seven suspects and seized more than 100 servers in a joint action targeting an unnamed company suspected of providing fraudulent trading websites to criminal gangs",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -150,38 +262,39 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts",
-    "link": "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html",
-    "published": "Mon, 02 Nov 2026 16:19:59 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign specifically targeting Linux infrastructure associated with government entities and state-affiliated infrastructure.\n\nThe activity, observed by Palo Alto Networks Unit 42 between October 2025 and April 2026, has been tracked under the moniker CL-UNK-1211, where \"CL\" refers to cluster and \"UNK\" stands for unknown",
+    "source": "Bleeping Computer",
+    "title": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs",
+    "link": "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/",
+    "published": "Tue, 03 Nov 2026 07:05:52 -0500",
+    "summary": "Google has expanded its Cloud Vulnerability Reward Program (VRP) with a new top-tier reward for high-impact architectural security flaws. [...]",
     "analysis": {
-      "issue": "CL-UNK-1211 targets government Linux servers using AI-assisted scripts, PHP web shells, and SysGoRAT to steal credentials and maintain access",
+      "issue": "Google has expanded its Cloud Vulnerability Reward Program (VRP) with a new top-tier reward for high-impact architectural security flaws",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Vulnerability"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
-    "link": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
-    "published": "Mon, 02 Nov 2026 11:21:07 +0530",
-    "summary": "Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim's stolen data by their monetization value.\n\nLike other typical stealer families, VOLTA is equipped to harvest passwords and cookies from Chromium-based web browsers; data from Outlook profiles and Slack workspaces;",
+    "source": "Bleeping Computer",
+    "title": "Harvard University data breach exposed info of 851,000 accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/",
+    "published": "Tue, 03 Nov 2026 05:53:25 -0500",
+    "summary": "Hackers who breached Harvard University's Alumni Affairs and Development systems in November 2025 stole data linked to more than 850,000 unique email addresses, according to breach notification service Have I Been Pwned. [...]",
     "analysis": {
-      "issue": "VOLTA Windows infostealer uses multiple LLMs to rank stolen data by monetization value and sends AI-generated victim assessments via Telegram",
+      "issue": "Hackers who breached Harvard University's Alumni Affairs and Development systems in November 2025 stole data linked to more than 850,000 unique email addresses, according to breach notification service Have I Been Pwned",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Ransomware",
+        "Data Breach"
       ]
     }
   },
@@ -252,127 +365,6 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Your Mobile Carrier Stores Your Call Logs for Years",
-    "link": "https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/",
-    "published": "Mon, 02 Nov 2026 10:01:11 -0500",
-    "summary": "Mobile carriers can retain years of call and text metadata, exposing sensitive details about customers' relationships, locations, and daily routines if breached. Cape examines the privacy risks of long-term telecom data retention and how its mobile service reduces exposure by automatically deleting call records. [...]",
-    "analysis": {
-      "issue": "In 2024, AT&T lost sensitive communication logs of 109 million customers in a massive data breach",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers disrupt refrigeration systems at European supermarkets",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/",
-    "published": "Mon, 02 Nov 2026 09:28:39 -0500",
-    "summary": "A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and cooling systems. [...]",
-    "analysis": {
-      "issue": "A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and cooling systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft fixes Smart App Control broken by October Windows update",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/",
-    "published": "Mon, 02 Nov 2026 08:57:29 -0500",
-    "summary": "Microsoft has resolved a known issue that prevented some users from activating the Smart App Control security feature after installing the October 2026 KB5127648 Windows 11 security update. [...]",
-    "analysis": {
-      "issue": "Microsoft has resolved a known issue that prevented some users from activating the Smart App Control security feature after installing the October 2026 KB5127648 Windows 11 security update",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/",
-    "published": "Mon, 02 Nov 2026 07:47:00 -0500",
-    "summary": "Over 1,000 Internet-exposed GitLab servers are still unpatched against a maximum-severity flaw actively exploited in remote code execution attacks. [...]",
-    "analysis": {
-      "issue": "Over 1,000 Internet-exposed GitLab servers are still unpatched against a maximum-severity flaw actively exploited in remote code execution attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2026-97229",
-        "CVE-2026-85706",
-        "CVE-2026-0723"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Synology warns of C3RB3R ransomware attacks targeting NAS devices",
-    "link": "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/",
-    "published": "Mon, 02 Nov 2026 06:28:42 -0500",
-    "summary": "Taiwanese network-attached storage (NAS) appliance maker Synology warned customers to update their devices immediately due to a surge in C3RB3r ransomware attacks. [...]",
-    "analysis": {
-      "issue": "Taiwanese network-attached storage (NAS) appliance maker Synology warned customers to update their devices immediately due to a surge in C3RB3r ransomware attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2024-10441",
-        "CVE-2024-10445",
-        "CVE-2024-50629"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Ivanti patches two more Connect Secure zero-days chained in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/",
-    "published": "Mon, 02 Nov 2026 04:33:26 -0500",
-    "summary": "Ivanti released security updates to patch two more Connect Secure (ICS) remote access gateway flaws that have been chained in zero-day attacks since at least October 1. [...]",
-    "analysis": {
-      "issue": "Ivanti released security updates to patch two more Connect Secure (ICS) remote access gateway flaws that have been chained in zero-day attacks since at least October 1",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-111357",
-        "CVE-2026-118527",
-        "CVE-2026-104935"
-      ],
       "threat_categories": [
         "Vulnerability"
       ]
@@ -465,8 +457,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-96951",
-        "CVE-2026-108398"
+        "CVE-2026-108398",
+        "CVE-2026-96951"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -571,6 +563,162 @@
   },
   {
     "source": "Security Week",
+    "title": "Frontline Education Data Breach Impacts Over 1.3 Million",
+    "link": "https://www.securityweek.com/frontline-education-data-breach-impacts-over-1-3-million/",
+    "published": "Tue, 03 Nov 2026 14:32:38 +0000",
+    "summary": "<p>Hackers exploited a flaw in third-party software and stole the personal information of school district staff and students.</p>\n<p>The post <a href=\"https://www.securityweek.com/frontline-education-data-breach-impacts-over-1-3-million/\">Frontline Education Data Breach Impacts Over 1.3 Million</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Hackers exploited a flaw in third-party software and stole the personal information of school district staff and students",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "CrowdStrike Reportedly Paying $495 Million for AI Security Firms Fiddler, Dreadnode",
+    "link": "https://www.securityweek.com/crowdstrike-reportedly-paying-495-million-for-ai-security-firms-fiddler-dreadnode/",
+    "published": "Tue, 03 Nov 2026 14:12:44 +0000",
+    "summary": "<p>The acquisitions will add AI agent observability and automated AI security testing capabilities to the CrowdStrike Falcon platform.</p>\n<p>The post <a href=\"https://www.securityweek.com/crowdstrike-reportedly-paying-495-million-for-ai-security-firms-fiddler-dreadnode/\">CrowdStrike Reportedly Paying $495 Million for AI Security Firms Fiddler, Dreadnode</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The acquisitions will add AI agent observability and automated AI security testing capabilities to the CrowdStrike Falcon platform",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Android’s November 2026 Updates Patch Over 200 Vulnerabilities",
+    "link": "https://www.securityweek.com/androids-november-2026-updates-patch-over-200-vulnerabilities/",
+    "published": "Tue, 03 Nov 2026 12:21:49 +0000",
+    "summary": "<p>The most severe is a critical flaw in Framework leading to remote code execution without user interaction.</p>\n<p>The post <a href=\"https://www.securityweek.com/androids-november-2026-updates-patch-over-200-vulnerabilities/\">Android&#8217;s November 2026 Updates Patch Over 200 Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The most severe is a critical flaw in Framework leading to remote code execution without user interaction",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-58868"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Critical Node-RED Flaw Exploited in Attacks",
+    "link": "https://www.securityweek.com/critical-node-red-flaw-exploited-in-attacks/",
+    "published": "Tue, 03 Nov 2026 12:10:19 +0000",
+    "summary": "<p>Multiple attacks from the same IP address attempted to deploy various payloads, including a Linux bot and webshells.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-node-red-flaw-exploited-in-attacks/\">Critical Node-RED Flaw Exploited in Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Multiple attacks from the same IP address attempted to deploy various payloads, including a Linux bot and webshells",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-58115"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "UK Cyber Chief Says the UK Will Face AI Cyberattacks on Critical Infrastructure by 2028",
+    "link": "https://www.securityweek.com/uk-cyber-chief-says-the-uk-will-face-ai-cyberattacks-on-critical-infrastructure-by-2028/",
+    "published": "Tue, 03 Nov 2026 09:49:12 +0000",
+    "summary": "<p>The U.K. will likely face AI cyberattacks on its critical infrastructure by 2028 as criminals and states, including China and Russia, increasingly use AI in their cyber activity.</p>\n<p>The post <a href=\"https://www.securityweek.com/uk-cyber-chief-says-the-uk-will-face-ai-cyberattacks-on-critical-infrastructure-by-2028/\">UK Cyber Chief Says the UK Will Face AI Cyberattacks on Critical Infrastructure by 2028</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "will likely face AI cyberattacks on its critical infrastructure by 2028 as criminals and states, including China and Russia, increasingly use AI in their cyber activity",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Google Dismantles XCPE Botnet of 1.3 Million Android Devices",
+    "link": "https://www.securityweek.com/google-dismantles-xcpe-botnet-of-1-3-million-android-devices/",
+    "published": "Tue, 03 Nov 2026 09:22:09 +0000",
+    "summary": "<p>The botnet was created and operated for financial gain by Android OEM/ODM Videostrong Technology.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-dismantles-xcpe-botnet-of-1-3-million-android-devices/\">Google Dismantles XCPE Botnet of 1.3 Million Android Devices</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The botnet was created and operated for financial gain by Android OEM/ODM Videostrong Technology",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Phishing",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "NATO’s Crossed Swords Exercise Brings AI Agents Into Cyber Operations Training",
+    "link": "https://www.securityweek.com/natos-crossed-swords-exercise-brings-ai-agents-into-cyber-operations-training/",
+    "published": "Tue, 03 Nov 2026 08:49:03 +0000",
+    "summary": "<p>The NATO CCDCOE exercise in Estonia introduces AI agents and OpenAI Daybreak into joint cyber and kinetic operations training.</p>\n<p>The post <a href=\"https://www.securityweek.com/natos-crossed-swords-exercise-brings-ai-agents-into-cyber-operations-training/\">NATO&#8217;s Crossed Swords Exercise Brings AI Agents Into Cyber Operations Training</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The NATO CCDCOE exercise in Estonia introduces AI agents and OpenAI Daybreak into joint cyber and kinetic operations training",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Over 100 European Stores Hit as Supermarket Fridge Attacks Return",
+    "link": "https://www.securityweek.com/over-100-european-stores-hit-as-supermarket-fridge-attacks-resume/",
+    "published": "Tue, 03 Nov 2026 07:43:24 +0000",
+    "summary": "<p>Attackers again tampered with internet-exposed refrigeration controllers, this time at stores in Belgium, Sweden, Ireland and beyond.</p>\n<p>The post <a href=\"https://www.securityweek.com/over-100-european-stores-hit-as-supermarket-fridge-attacks-resume/\">Over 100 European Stores Hit as Supermarket Fridge Attacks Return</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Attackers again tampered with internet-exposed refrigeration controllers, this time at stores in Belgium, Sweden, Ireland and beyond",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Cybersecurity M&A Roundup: 37 Deals Announced in October 2026",
     "link": "https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-october-2026/",
     "published": "Mon, 02 Nov 2026 15:01:11 +0000",
@@ -603,158 +751,6 @@
       "cves": [],
       "threat_categories": [
         "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Revolve Data Breach Impacts at Least 200,000 People",
-    "link": "https://www.securityweek.com/revolve-data-breach-impacts-at-least-180000-people/",
-    "published": "Mon, 02 Nov 2026 13:35:21 +0000",
-    "summary": "<p>Hackers accessed its online shopping platform and stole customers’ personal and payment card information.</p>\n<p>The post <a href=\"https://www.securityweek.com/revolve-data-breach-impacts-at-least-180000-people/\">Revolve Data Breach Impacts at Least 200,000 People</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Hackers accessed its online shopping platform and stole customers’ personal and payment card information",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Google Introduces $250,000 Root-in-Cloud Bug Bounty Reward",
-    "link": "https://www.securityweek.com/google-introduces-250000-root-in-cloud-bug-bounty-reward/",
-    "published": "Mon, 02 Nov 2026 13:25:11 +0000",
-    "summary": "<p>The top payout is for high-impact architectural research demonstrating full administrative control.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-introduces-250000-root-in-cloud-bug-bounty-reward/\">Google Introduces $250,000 Root-in-Cloud Bug Bounty Reward</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The top payout is for high-impact architectural research demonstrating full administrative control",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Malicious Claude Code Extension Served in Cursor Supply Chain Attack",
-    "link": "https://www.securityweek.com/malicious-claude-code-extension-served-in-cursor-supply-chain-attack/",
-    "published": "Mon, 02 Nov 2026 11:29:39 +0000",
-    "summary": "<p>The extension performed host reconnaissance and attempted to create a reverse SSH tunnel.</p>\n<p>The post <a href=\"https://www.securityweek.com/malicious-claude-code-extension-served-in-cursor-supply-chain-attack/\">Malicious Claude Code Extension Served in Cursor Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The extension performed host reconnaissance and attempted to create a reverse SSH tunnel",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Chainalysis Discloses Data Breach Following AI-Driven Cyberattack",
-    "link": "https://www.securityweek.com/chainalysis-discloses-data-breach-following-ai-driven-cyberattack/",
-    "published": "Mon, 02 Nov 2026 10:27:49 +0000",
-    "summary": "<p>The attackers used offensive agentic techniques to access the company’s systems and internal tools.</p>\n<p>The post <a href=\"https://www.securityweek.com/chainalysis-discloses-data-breach-following-ai-driven-cyberattack/\">Chainalysis Discloses Data Breach Following AI-Driven Cyberattack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The attackers used offensive agentic techniques to access the company’s systems and internal tools",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Polymarket Returns $3.9 Million to Traders as DebugBear Cites DNS Hijack",
-    "link": "https://www.securityweek.com/polymarket-returns-3-9-million-to-traders-as-debugbear-cites-dns-hijack/",
-    "published": "Mon, 02 Nov 2026 09:33:15 +0000",
-    "summary": "<p>DebugBear says its DNS records were compromised via its domain registrar, and early findings show a single customer was targeted.</p>\n<p>The post <a href=\"https://www.securityweek.com/polymarket-returns-3-9-million-to-traders-as-debugbear-cites-dns-hijack/\">Polymarket Returns $3.9 Million to Traders as DebugBear Cites DNS Hijack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "DebugBear says its DNS records were compromised via its domain registrar, and early findings show a single customer was targeted",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "FBI Flags Over 600 Addresses Tied to North Korea’s Binance Heist",
-    "link": "https://www.securityweek.com/fbi-flags-over-600-addresses-tied-to-north-koreas-binance-heist/",
-    "published": "Mon, 02 Nov 2026 08:40:36 +0000",
-    "summary": "<p>The FBI has officially pinned the $6 billion Binance hack on North Korea’s TraderTraitor as the attackers launder the stolen crypto.</p>\n<p>The post <a href=\"https://www.securityweek.com/fbi-flags-over-600-addresses-tied-to-north-koreas-binance-heist/\">FBI Flags Over 600 Addresses Tied to North Korea&#8217;s Binance Heist</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The FBI has officially pinned the $6 billion Binance hack on North Korea’s TraderTraitor as the attackers launder the stolen crypto",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "APT",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Ivanti Patches Two More Zero-Days Exploited in Connect Secure Attack Chain",
-    "link": "https://www.securityweek.com/ivanti-patches-two-more-zero-days-exploited-in-connect-secure-attack-chain/",
-    "published": "Mon, 02 Nov 2026 07:57:49 +0000",
-    "summary": "<p>CISA has added CVE-2026-111357 and CVE-2026-118527 to its KEV catalog after the Ivanti VPN flaws were chained in zero-day attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/ivanti-patches-two-more-zero-days-exploited-in-connect-secure-attack-chain/\">Ivanti Patches Two More Zero-Days Exploited in Connect Secure Attack Chain</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "CISA has added CVE-2026-111357 and CVE-2026-118527 to its KEV catalog after the Ivanti VPN flaws were chained in zero-day attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-111357",
-        "CVE-2026-118527",
-        "CVE-2026-104935"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations",
-    "link": "https://www.securityweek.com/northstar-security-exits-stealth-with-7m-to-expose-toxic-risk-combinations/",
-    "published": "Sun, 01 Nov 2026 11:15:00 +0000",
-    "summary": "<p>The startup maps how identities, assets and vulnerabilities connect, and uses AI agents to find and fix risky combinations of issues.</p>\n<p>The post <a href=\"https://www.securityweek.com/northstar-security-exits-stealth-with-7m-to-expose-toxic-risk-combinations/\">Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The startup maps how identities, assets and vulnerabilities connect, and uses AI agents to find and fix risky combinations of issues",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "APT"
       ]
     }
   },
@@ -924,8 +920,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109618",
-        "CVE-2026-109619"
+        "CVE-2026-109619",
+        "CVE-2026-109618"
       ],
       "threat_categories": [
         "Ransomware",
@@ -1298,8 +1294,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1324,6 +1320,63 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "A hidden backdoor put 1.3 million TV boxes to work for criminals",
+    "link": "https://www.malwarebytes.com/blog/mobile/2026/11/a-hidden-backdoor-put-1-3-million-tv-boxes-to-work-for-criminals",
+    "published": "Tue, 03 Nov 2026 14:11:25 GMT",
+    "summary": "Videostrong planted a backdoor in more than 1.3 million Android set-top boxes and sold criminals access to the resulting botnet.",
+    "analysis": {
+      "issue": "Most malware needs you to click something",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Hackers put porn on public billboards and claim it was “far too easy”",
+    "link": "https://www.malwarebytes.com/blog/bugs/2026/11/hackers-put-porn-on-public-billboards-and-claim-it-was-far-too-easy",
+    "published": "Tue, 03 Nov 2026 12:01:55 GMT",
+    "summary": "A hacking group called Leakers$ gained access to remote management software for billboards and used it to show porn.",
+    "analysis": {
+      "issue": "While digital billboards are supposed to grab your attention, recent reports from Egypt, Malaysia, and Brazil described them doing so with explicit footage",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Revolve card breach: 1.5 million people may be affected",
+    "link": "https://www.malwarebytes.com/blog/data-breaches/2026/11/revolve-card-breach-1-5-million-people-may-be-affected",
+    "published": "Tue, 03 Nov 2026 11:26:44 GMT",
+    "summary": "Revolve says shoppers’ saved card details were stolen. A Texas filing suggests as many as 1.5 million people may be affected.",
+    "analysis": {
+      "issue": "Online fashion retailer Revolve Group said customers’ payment card numbers and expiration dates were stolen",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Phishing",
+        "Supply Chain"
       ]
     }
   },
@@ -1456,57 +1509,92 @@
     }
   },
   {
-    "source": "Malwarebytes",
-    "title": "Malicious Firefox extensions impersonate popular crypto wallets",
-    "link": "https://www.malwarebytes.com/blog/news/2026/10/malicious-firefox-extensions-impersonate-popular-crypto-wallets",
-    "published": "Thu, 29 Oct 2026 14:06:54 GMT",
-    "summary": "Fake Firefox extensions posing as Phantom, Jupiter, and Bitget targeted users to steal crypto wallet recovery phrases and private keys.",
+    "source": "Crowdstrike Blog",
+    "title": "CrowdStrike to Acquire Dreadnode to Bring Automated AI Security Testing to the Falcon Platform",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-dreadnode/",
+    "published": "Nov 03, 2026 00:00:00-0800",
+    "summary": "",
     "analysis": {
-      "issue": "Socket’s threat researchers found three malicious Firefox extensions that impersonated the Phantom, Jupiter, and Bitget crypto wallets",
+      "issue": "The acquisition of Dreadnode will bring automated AI security testing to the Falcon platform as AI systems proliferate across the enterprise",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "APT"
+        "General Security"
       ]
     }
   },
   {
-    "source": "Malwarebytes",
-    "title": "Have an older iPhone or iPad? Apple has a security update for you",
-    "link": "https://www.malwarebytes.com/blog/bugs/2026/10/have-an-older-iphone-or-ipad-apple-has-a-security-update-for-you",
-    "published": "Thu, 29 Oct 2026 11:03:18 GMT",
-    "summary": "Apple has fixed a flaw exploited in targeted attacks to the iPhone XS, XS Max and XR, and seventh-generation iPad.",
+    "source": "Crowdstrike Blog",
+    "title": "CrowdStrike Advances AI Security and Safety from Endpoint to Cloud",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-advances-ai-security-and-safety-falcon-guardian/",
+    "published": "Nov 03, 2026 00:00:00-0800",
+    "summary": "",
     "analysis": {
-      "issue": "Apple’s latest updates include a fix for a CoreGraphics bug that may have been exploited in targeted attacks",
+      "issue": "CrowdStrike launches a new AI kill switch, now available to Falcon Guardian customers, and introduces innovations that strengthen AI security architecture, expand cloud coverage, and enable agent insider threat detection",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "General Security"
       ]
     }
   },
   {
-    "source": "Malwarebytes",
-    "title": "Banks are blocking AI agents from customer accounts",
-    "link": "https://www.malwarebytes.com/blog/ai/2026/10/banks-are-blocking-ai-agents-from-customer-accounts",
-    "published": "Wed, 28 Oct 2026 13:38:59 GMT",
-    "summary": "They cite security risks. But could keeping these tools out also protect banks’ profits?",
+    "source": "Crowdstrike Blog",
+    "title": "CrowdStrike to Acquire Fiddler to Deliver Falcon Observe for AI Agent Observability",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-fiddler/",
+    "published": "Nov 03, 2026 00:00:00-0800",
+    "summary": "",
     "analysis": {
-      "issue": "This week, Axios reported that major US banks were detecting third-party AI agents operating inside customer accounts",
+      "issue": "The acquisition of Fiddler will bring AI observability to the Falcon platform",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "High",
+      "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
+    "title": "Introducing AI Kill Switch: Taking Control When AI Agents Go Rogue",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-introduces-ai-kill-switch/",
+    "published": "Nov 03, 2026 00:00:00-0800",
+    "summary": "",
+    "analysis": {
+      "issue": "CrowdStrike debuts AI Kill Switch to deliver quick control over AI model access and lay the foundation for coordinated agent containment across the Falcon platform",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
+    "title": "CrowdStrike Secures AI Agents Inside Claude Cowork",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-secures-ai-agents-inside-claude-cowork/",
+    "published": "Nov 03, 2026 00:00:00-0800",
+    "summary": "",
+    "analysis": {
+      "issue": "CrowdStrike announced it is bringing Falcon Guardian protection natively into Anthropic's Claude Cowork",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1594,96 +1682,6 @@
       "cause": null,
       "timeline": null,
       "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "New Prompt Injection Techniques Cover Agent-Planning Attacks",
-    "link": "https://www.crowdstrike.com/en-us/blog/new-prompt-injection-techniques-cover-agent-planning-attacks/",
-    "published": "Oct 29, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "CrowdStrike introduces a new version of the Prompt Injection Taxonomy,  adding newly discovered attack techniques on autonomous agents and how they plan",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "When AI Guardrails Expose Vulnerabilities",
-    "link": "https://www.crowdstrike.com/en-us/blog/when-ai-guardrails-expose-vulnerabilities/",
-    "published": "Oct 28, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "In Guardrail-Based Vulnerability Discovery, the guardrails intended to keep AI models from aiding attackers can signify issues that defenders can interpret and act on",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike 2026 Legal Threat Landscape Report: eCrime Leads Attacks, China Activity Intensifies",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-legal-threat-landscape-report/",
-    "published": "Oct 28, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "The CrowdStrike 2026 Legal Threat Landscape Report analyzes the key themes, trends, and events shaping the legal sector threat landscape",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation",
-    "link": "https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/",
-    "published": "Oct 23, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "Threat actors have not yet exploited PHP2Shell, but the speed with which they attempted to weaponize the vulns highlights how swiftly attackers adopt new exploits",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "Why Organizations Secure AI Agents with Falcon Guardian",
-    "link": "https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/",
-    "published": "Oct 23, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "Falcon Guardian has been deployed at hundreds of organizations around the world",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
       "cves": [],
       "threat_categories": [
         "General Security"
