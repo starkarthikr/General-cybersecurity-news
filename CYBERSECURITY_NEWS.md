@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-03 06:04:06 UTC
+**Last Updated:** 2026-11-03 07:06:35 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -163,7 +163,7 @@
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Nov 2026 07:47:00 -0500  
 **Severity:** High  
-**CVEs:** CVE-2026-0723, CVE-2026-85706, CVE-2026-97229  
+**CVEs:** CVE-2026-97229, CVE-2026-85706, CVE-2026-0723  
 **Categories:** Vulnerability  
 
 ---
@@ -173,7 +173,7 @@
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Nov 2026 06:28:42 -0500  
 **Severity:** Low  
-**CVEs:** CVE-2024-10441, CVE-2024-50629, CVE-2024-10445  
+**CVEs:** CVE-2024-10441, CVE-2024-10445, CVE-2024-50629  
 **Categories:** Ransomware, Vulnerability  
 
 ---
@@ -183,7 +183,7 @@
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Nov 2026 04:33:26 -0500  
 **Severity:** Critical  
-**CVEs:** CVE-2026-118527, CVE-2026-111357, CVE-2026-104935  
+**CVEs:** CVE-2026-111357, CVE-2026-118527, CVE-2026-104935  
 **Categories:** Vulnerability  
 
 ---
@@ -298,7 +298,7 @@
 
 ---
 
-### 33. [Revolve Data Breach Impacts at Least 180,000 People](https://www.securityweek.com/revolve-data-breach-impacts-at-least-180000-people/)
+### 33. [Revolve Data Breach Impacts at Least 200,000 People](https://www.securityweek.com/revolve-data-breach-impacts-at-least-180000-people/)
 
 **Source:** Security Week  
 **Published:** Mon, 02 Nov 2026 13:35:21 +0000  
@@ -357,7 +357,7 @@
 **Source:** Security Week  
 **Published:** Mon, 02 Nov 2026 07:57:49 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-118527, CVE-2026-111357, CVE-2026-104935  
+**CVEs:** CVE-2026-111357, CVE-2026-118527, CVE-2026-104935  
 **Categories:** Vulnerability  
 
 ---
