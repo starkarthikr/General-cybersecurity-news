@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-03 19:19:07 UTC
+**Last Updated:** 2026-11-03 21:53:44 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -94,7 +94,25 @@
 
 ---
 
-### 11. [Google: LLMjacking attacks rack up $1 million in cloud AI charges](https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/)
+### 11. [WorkOS says attacker used ARTEX AI to breach internal sales app](https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 03 Nov 2026 16:28:44 -0500  
+**Severity:** Low  
+**Categories:** Data Breach, Vulnerability  
+
+---
+
+### 12. [Binance says fake job interview led to $6.3 billion crypto heist](https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 03 Nov 2026 15:05:50 -0500  
+**Severity:** Low  
+**Categories:** Malware, APT  
+
+---
+
+### 13. [Google: LLMjacking attacks rack up $1 million in cloud AI charges](https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 03 Nov 2026 13:51:04 -0500  
@@ -103,17 +121,17 @@
 
 ---
 
-### 12. [Barracuda warns of critical flaws allowing root access to devices](https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/)
+### 14. [Barracuda warns of critical flaws allowing root access to devices](https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 03 Nov 2026 10:06:16 -0500  
 **Severity:** Critical  
-**CVEs:** CVE-2026-111560, CVE-2023-7102, CVE-2026-116606  
+**CVEs:** CVE-2023-7102, CVE-2026-111560, CVE-2026-116606  
 **Categories:** Vulnerability  
 
 ---
 
-### 13. [Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028](https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/)
+### 15. [Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028](https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 03 Nov 2026 10:00:10 -0500  
@@ -122,7 +140,7 @@
 
 ---
 
-### 14. [UK school estate hit by 3AM ransomware in suspected AI-assisted attack](https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/)
+### 16. [UK school estate hit by 3AM ransomware in suspected AI-assisted attack](https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 03 Nov 2026 09:00:00 -0500  
@@ -131,7 +149,7 @@
 
 ---
 
-### 15. [Police seizes over 100 servers in investment scam crackdown](https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/)
+### 17. [Police seizes over 100 servers in investment scam crackdown](https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 03 Nov 2026 08:33:49 -0500  
@@ -140,7 +158,7 @@
 
 ---
 
-### 16. [Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs](https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/)
+### 18. [Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs](https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 03 Nov 2026 07:05:52 -0500  
@@ -149,7 +167,7 @@
 
 ---
 
-### 17. [Harvard University data breach exposed info of 851,000 accounts](https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/)
+### 19. [Harvard University data breach exposed info of 851,000 accounts](https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 03 Nov 2026 05:53:25 -0500  
@@ -158,30 +176,12 @@
 
 ---
 
-### 18. [Chinese hackers use ARTEX AI in automated attacks against 200 orgs](https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/)
+### 20. [Chinese hackers use ARTEX AI in automated attacks against 200 orgs](https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Nov 2026 16:40:14 -0500  
 **Severity:** High  
 **Categories:** General Security  
-
----
-
-### 19. [Fintech platform Sageworks taken offline after suspected cyberattack](https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 02 Nov 2026 14:00:45 -0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [Google disrupts million-device XCPE Android malware botnet, bans TV box maker](https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 02 Nov 2026 13:16:34 -0500  
-**Severity:** High  
-**Categories:** Malware  
 
 ---
 
@@ -448,7 +448,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 21 Oct 2026 15:10:53 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109619, CVE-2026-109618  
+**CVEs:** CVE-2026-109618, CVE-2026-109619  
 **Categories:** Ransomware, Vulnerability  
 
 ---
