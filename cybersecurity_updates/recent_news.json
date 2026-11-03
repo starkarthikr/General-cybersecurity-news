@@ -1,6 +1,78 @@
 [
   {
     "source": "The Hacker News",
+    "title": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity",
+    "link": "https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html",
+    "published": "Wed, 04 Nov 2026 00:16:38 +0530",
+    "summary": "Customers of the mSecure password manager are being urged to act now to protect the confidential information they store in it, possibly by changing passwords, resetting two-factor authentication (2FA), and removing passkeys.\n\nThe warning came in an email sent on November 3 in the name of developer mSeven Software. It says the company recently learned of suspicious activity linked to the app but",
+    "analysis": {
+      "issue": "mSecure urged current and former customers to consider changing passwords, 2FA and passkeys after unspecified suspicious activity",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes",
+    "link": "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html",
+    "published": "Tue, 03 Nov 2026 23:46:19 +0530",
+    "summary": "Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that allowed an unauthorized party to gain access to some parts of its infrastructure.\n\nThe incident is assessed to be part of a large-scale, artificial intelligence (AI)-powered attack campaign that came to light last week.\n\n\"An external attacker gained unauthorized access to part of",
+    "analysis": {
+      "issue": "Chainstack confirms a breach exposing customer account data and password hashes, with suspected links to an AI-powered attack campaign",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft",
+    "link": "https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html",
+    "published": "Tue, 03 Nov 2026 22:25:58 +0530",
+    "summary": "Binance on Tuesday said the record-setting theft of $6.43 billion in assets from the world's largest cryptocurrency exchange was the culmination of a \"sophisticated, multi-stage campaign\" that involved the use of a tampered Homebrew installation and recruitment-themed social engineering attack targeting two of its engineers.\n\n\"It was not a single isolated breach or a simple phishing incident,\"",
+    "analysis": {
+      "issue": "43 billion crypto theft involved trojanized Homebrew, fake job interviews, compromised engineers, and abuse of internal AI tooling",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access",
+    "link": "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html",
+    "published": "Tue, 03 Nov 2026 21:29:19 +0530",
+    "summary": "Barracuda has disclosed details of two vulnerabilities affecting its products that, if chained together, could allow an attacker to bypass authorization controls and gain root access to a susceptible device.\n\nThe vulnerabilities, a pre-authentication authorization bypass vulnerability and a command injection vulnerability, have been assigned the CVE identifiers CVE-2026-116606 (CVSS score: 9.3)",
+    "analysis": {
+      "issue": "Two Barracuda flaws could be chained to bypass authorization and gain root access to devices if attackers can reach their admin interfaces",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
     "link": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
     "published": "Tue, 03 Nov 2026 21:11:53 +0530",
@@ -110,78 +182,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
-    "link": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
-    "published": "Tue, 03 Nov 2026 13:13:07 +0530",
-    "summary": "Synology is urging customers to update the DiskStation Manager (DSM) software powering its Network Attached Storage (NAS) devices following ransomware attacks.\n\nThe Taiwanese vendor said it observed threat actors exploiting a vulnerability patched in December 2024 to target devices running outdated versions of DSM.\n\n\"These attacks aim to encrypt data and extort ransom,\" it said in a statement",
+    "source": "Bleeping Computer",
+    "title": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
+    "link": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
+    "published": "Tue, 03 Nov 2026 13:51:04 -0500",
+    "summary": "Large language model hijacking attacks, also known as LLMjacking, are generating large fraudulent cloud charges, with some organizations losing more than $100,000 per day. [...]",
     "analysis": {
-      "issue": "Synology warns of ransomware attacks exploiting a patched DSM flaw as NAS users report C3RB3R infections and encrypted files",
+      "issue": "Large language model hijacking attacks, also known as LLMjacking, are generating large fraudulent cloud charges, with some organizations losing more than $100,000 per day",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food",
-    "link": "https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html",
-    "published": "Tue, 03 Nov 2026 12:57:07 +0530",
-    "summary": "Attackers remotely changed the settings on refrigeration controls at supermarkets in Belgium, Sweden, Estonia and other European countries overnight into Monday, November 2, warming fridges and freezers.\n\nNo chain reported more than several dozen affected stores, and some had to throw away chilled and frozen food or take it off the shelf. Danfoss, a Danish maker of refrigeration controls,&nbsp",
-    "analysis": {
-      "issue": "Hackers altered supermarket refrigeration settings across Europe, forcing food withdrawals and exposing weaknesses in remote controls",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
-    "link": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
-    "published": "Tue, 03 Nov 2026 11:04:41 +0530",
-    "summary": "A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devices has come under active exploitation, VulnCheck has revealed.\n\nThe vulnerability, tracked as CVE-2026-58115 (CVSS score: 10.0), is a case of missing authentication for a critical function that could be exploited by an unauthenticated remote attacker to run arbitrary code.\n\n\"SIMATIC IoT2050 Advanced devices running",
-    "analysis": {
-      "issue": "Attackers exploit CVE-2026-58115 in Siemens SIMATIC IoT2050 devices to deploy Linux bot payloads and command execution backdoors",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-58115"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials",
-    "link": "https://thehackernews.com/2026/11/attackers-target-unpatched.html",
-    "published": "Tue, 03 Nov 2026 11:04:37 +0530",
-    "summary": "Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused Cyber.\n\nThe vulnerability in question is CVE-2026-81648, which carries a CVSS score of 10.0. Successful exploitation of the flaw could permit unauthenticated users to delete arbitrary files on the server and extract",
-    "analysis": {
-      "issue": "Attackers are attempting to exploit an unpatched CryptoPayment Gateway WordPress flaw that could expose wallet credentials and delete files",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -198,9 +212,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-116606",
+        "CVE-2026-111560",
         "CVE-2023-7102",
-        "CVE-2026-111560"
+        "CVE-2026-116606"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -349,24 +363,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "BTCPay Server warns of hot wallet crypto thefts on outdated instances",
-    "link": "https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/",
-    "published": "Mon, 02 Nov 2026 10:03:07 -0500",
-    "summary": "The maintainer of BTCPay Server, an open-source cryptocurrency payment processor, has urged users to install the latest version as hackers have been draining \"hot wallets\" on instances running older versions. [...]",
-    "analysis": {
-      "issue": "The maintainer of BTCPay Server, an open-source cryptocurrency payment processor, has urged users to install the latest version as hackers have been draining “hot wallets” on instances running older versions",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },

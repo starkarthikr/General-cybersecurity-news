@@ -1,10 +1,46 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-03 16:26:42 UTC
+**Last Updated:** 2026-11-03 19:19:07 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges](https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html)
+### 1. [mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity](https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 04 Nov 2026 00:16:38 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes](https://thehackernews.com/2026/11/chainstack-reports-production-systems.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 03 Nov 2026 23:46:19 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft](https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 03 Nov 2026 22:25:58 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 4. [Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access](https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 03 Nov 2026 21:29:19 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 5. [Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges](https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 03 Nov 2026 21:11:53 +0530  
@@ -13,7 +49,7 @@
 
 ---
 
-### 2. [cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes](https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html)
+### 6. [cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes](https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 03 Nov 2026 20:46:32 +0530  
@@ -22,7 +58,7 @@
 
 ---
 
-### 3. [Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing](https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html)
+### 7. [Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing](https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 03 Nov 2026 16:53:53 +0530  
@@ -31,7 +67,7 @@
 
 ---
 
-### 4. [The 4 Elements of Exposure Prioritization and How to Operationalize Them](https://thehackernews.com/2026/11/the-4-elements-of-exposure.html)
+### 8. [The 4 Elements of Exposure Prioritization and How to Operationalize Them](https://thehackernews.com/2026/11/the-4-elements-of-exposure.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 03 Nov 2026 16:48:20 +0530  
@@ -40,7 +76,7 @@
 
 ---
 
-### 5. [Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware](https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html)
+### 9. [Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware](https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 03 Nov 2026 16:30:45 +0530  
@@ -49,7 +85,7 @@
 
 ---
 
-### 6. [Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets](https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html)
+### 10. [Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets](https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 03 Nov 2026 14:01:48 +0530  
@@ -58,54 +94,26 @@
 
 ---
 
-### 7. [Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw](https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html)
+### 11. [Google: LLMjacking attacks rack up $1 million in cloud AI charges](https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 03 Nov 2026 13:13:07 +0530  
-**Severity:** Low  
-**Categories:** Ransomware, Vulnerability  
-
----
-
-### 8. [New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food](https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 03 Nov 2026 12:57:07 +0530  
-**Severity:** Low  
+**Source:** Bleeping Computer  
+**Published:** Tue, 03 Nov 2026 13:51:04 -0500  
+**Severity:** High  
 **Categories:** General Security  
 
 ---
 
-### 9. [Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors](https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 03 Nov 2026 11:04:41 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-58115  
-**Categories:** Vulnerability, Malware  
-
----
-
-### 10. [Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials](https://thehackernews.com/2026/11/attackers-target-unpatched.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 03 Nov 2026 11:04:37 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 11. [Barracuda warns of critical flaws allowing root access to devices](https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/)
+### 12. [Barracuda warns of critical flaws allowing root access to devices](https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 03 Nov 2026 10:06:16 -0500  
 **Severity:** Critical  
-**CVEs:** CVE-2026-116606, CVE-2023-7102, CVE-2026-111560  
+**CVEs:** CVE-2026-111560, CVE-2023-7102, CVE-2026-116606  
 **Categories:** Vulnerability  
 
 ---
 
-### 12. [Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028](https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/)
+### 13. [Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028](https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 03 Nov 2026 10:00:10 -0500  
@@ -114,7 +122,7 @@
 
 ---
 
-### 13. [UK school estate hit by 3AM ransomware in suspected AI-assisted attack](https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/)
+### 14. [UK school estate hit by 3AM ransomware in suspected AI-assisted attack](https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 03 Nov 2026 09:00:00 -0500  
@@ -123,7 +131,7 @@
 
 ---
 
-### 14. [Police seizes over 100 servers in investment scam crackdown](https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/)
+### 15. [Police seizes over 100 servers in investment scam crackdown](https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 03 Nov 2026 08:33:49 -0500  
@@ -132,7 +140,7 @@
 
 ---
 
-### 15. [Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs](https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/)
+### 16. [Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs](https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 03 Nov 2026 07:05:52 -0500  
@@ -141,7 +149,7 @@
 
 ---
 
-### 16. [Harvard University data breach exposed info of 851,000 accounts](https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/)
+### 17. [Harvard University data breach exposed info of 851,000 accounts](https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 03 Nov 2026 05:53:25 -0500  
@@ -150,7 +158,7 @@
 
 ---
 
-### 17. [Chinese hackers use ARTEX AI in automated attacks against 200 orgs](https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/)
+### 18. [Chinese hackers use ARTEX AI in automated attacks against 200 orgs](https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Nov 2026 16:40:14 -0500  
@@ -159,7 +167,7 @@
 
 ---
 
-### 18. [Fintech platform Sageworks taken offline after suspected cyberattack](https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/)
+### 19. [Fintech platform Sageworks taken offline after suspected cyberattack](https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Nov 2026 14:00:45 -0500  
@@ -168,21 +176,12 @@
 
 ---
 
-### 19. [Google disrupts million-device XCPE Android malware botnet, bans TV box maker](https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/)
+### 20. [Google disrupts million-device XCPE Android malware botnet, bans TV box maker](https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Nov 2026 13:16:34 -0500  
 **Severity:** High  
 **Categories:** Malware  
-
----
-
-### 20. [BTCPay Server warns of hot wallet crypto thefts on outdated instances](https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 02 Nov 2026 10:03:07 -0500  
-**Severity:** Critical  
-**Categories:** Vulnerability  
 
 ---
 
