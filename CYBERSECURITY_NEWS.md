@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-04 19:36:21 UTC
+**Last Updated:** 2026-11-04 22:06:16 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,26 @@
 
 ---
 
-### 11. [DreamHost confirms data breach exposed FTP logins and webmail sessions](https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/)
+### 11. [Vercel rolls out new protection against stolen session cookie attacks](https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 04 Nov 2026 16:31:18 -0500  
+**Severity:** Low  
+**Categories:** Malware, APT  
+
+---
+
+### 12. [Zyxel fixes zero-day exploited to hack nearly 1,000 network switches](https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 04 Nov 2026 15:58:19 -0500  
+**Severity:** Critical  
+**CVEs:** CVE-2026-107441, CVE-2026-7273  
+**Categories:** Vulnerability  
+
+---
+
+### 13. [DreamHost confirms data breach exposed FTP logins and webmail sessions](https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Nov 2026 14:05:19 -0500  
@@ -104,7 +123,7 @@
 
 ---
 
-### 12. [Cyberattack disrupts blood storage refrigeration systems in France](https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/)
+### 14. [Cyberattack disrupts blood storage refrigeration systems in France](https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Nov 2026 13:02:56 -0500  
@@ -113,7 +132,7 @@
 
 ---
 
-### 13. [NIKKE PC game launcher hacked to spread remote access, data-stealing malware](https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/)
+### 15. [NIKKE PC game launcher hacked to spread remote access, data-stealing malware](https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Nov 2026 11:58:46 -0500  
@@ -122,7 +141,7 @@
 
 ---
 
-### 14. [mSecure password manager hack prompts password reset warnings](https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/)
+### 16. [mSecure password manager hack prompts password reset warnings](https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Nov 2026 11:00:18 -0500  
@@ -131,7 +150,7 @@
 
 ---
 
-### 15. [Google Calendar phishing campaign hijacks sessions, bypasses MFA](https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/)
+### 17. [Google Calendar phishing campaign hijacks sessions, bypasses MFA](https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Nov 2026 10:00:10 -0500  
@@ -140,7 +159,7 @@
 
 ---
 
-### 16. [SonicWall warns of unpatched flaws in end-of-life GMS software](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/)
+### 18. [SonicWall warns of unpatched flaws in end-of-life GMS software](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Nov 2026 09:42:25 -0500  
@@ -150,7 +169,7 @@
 
 ---
 
-### 17. [US charges two Canadians accused of hacking US universities](https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/)
+### 19. [US charges two Canadians accused of hacking US universities](https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Nov 2026 08:13:20 -0500  
@@ -159,31 +178,13 @@
 
 ---
 
-### 18. [CISA flags WordPress RCE flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/)
+### 20. [CISA flags WordPress RCE flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Nov 2026 07:11:05 -0500  
 **Severity:** High  
 **CVEs:** CVE-2026-119977  
 **Categories:** Vulnerability  
-
----
-
-### 19. [Hackers use n-day exploits in zero-click attacks on iOS, Android devices](https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 04 Nov 2026 04:39:54 -0500  
-**Severity:** High  
-**Categories:** Vulnerability, APT  
-
----
-
-### 20. [Hackers hijack cPGuard autoupdate to deploy backdoor, steal data](https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 03 Nov 2026 17:18:50 -0500  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
@@ -228,7 +229,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 13 Oct 2026 23:24:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-108398, CVE-2026-96951  
+**CVEs:** CVE-2026-96951, CVE-2026-108398  
 **Categories:** Vulnerability  
 
 ---
@@ -293,7 +294,7 @@
 **Source:** Security Week  
 **Published:** Wed, 04 Nov 2026 14:24:54 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-116606, CVE-2023-2868, CVE-2026-111560  
+**CVEs:** CVE-2026-116606, CVE-2026-111560, CVE-2023-2868  
 **Categories:** Vulnerability  
 
 ---
@@ -449,7 +450,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 21 Oct 2026 15:10:53 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109619, CVE-2026-109618  
+**CVEs:** CVE-2026-109618, CVE-2026-109619  
 **Categories:** Ransomware, Vulnerability  
 
 ---
@@ -633,7 +634,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -805,6 +806,8 @@
 
 **Source:** Crowdstrike Blog  
 **Published:** Nov 03, 2026 00:00:00-0800  
+**Severity:** Low  
+**Categories:** General Security  
 
 ---
 
