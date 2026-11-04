@@ -268,8 +268,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-111560",
         "CVE-2023-7102",
+        "CVE-2026-111560",
         "CVE-2026-116606"
       ],
       "threat_categories": [
@@ -918,8 +918,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109618",
-        "CVE-2026-109619"
+        "CVE-2026-109619",
+        "CVE-2026-109618"
       ],
       "threat_categories": [
         "Ransomware",
