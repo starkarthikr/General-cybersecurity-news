@@ -1,6 +1,63 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
+    "link": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
+    "published": "Wed, 04 Nov 2026 22:30:46 +0530",
+    "summary": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own.\n\nThe attacker's code then runs as root, according to advisories that&nbsp;Debian,&nbsp;Ubuntu, and&nbsp;APT's developers&nbsp;published on November 4. The attack needs APT to retry failed downloads, which it does by default from Debian 12 and",
+    "analysis": {
+      "issue": "APT flaw CVE-2026-109518 lets attackers with HTTP traffic control replace verified packages and execute code as root when downloads retry",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-109518"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
+    "link": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
+    "published": "Wed, 04 Nov 2026 22:30:38 +0530",
+    "summary": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched.\n\nDetails of the security flaws, which affect SonicWall GMS 9.5.2 and earlier versions, are below -\n\n\n  CVE-2026-109593 (CVSS score: 9.1) - An unauthenticated file read vulnerability that could allow an attacker with network access to read internal GMS files,",
+    "analysis": {
+      "issue": "SonicWall warns two flaws in end-of-life GMS 9",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
+    "link": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
+    "published": "Wed, 04 Nov 2026 21:36:43 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert advertisements for a third-party AI gateway.\n\nThe phenomenon has been codenamed prompt adware by Check Point Research.\n\nCalled Haiou (meaning Seagull in Chinese), the jailbreak modifies OpenAI Codex's configuration",
+    "analysis": {
+      "issue": "Haiou jailbreak modifies OpenAI Codex instructions to inject persistent ads for a third-party LLM gateway into agent responses",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
     "link": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
     "published": "Wed, 04 Nov 2026 19:57:52 +0530",
@@ -128,58 +185,58 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
-    "link": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html",
-    "published": "Wed, 04 Nov 2026 11:13:11 +0530",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nThe high-severity vulnerability, tracked as CVE-2026-119977 (CVSS score: 8.1), is a case of Time-of-check Time-of-use (TOCTOU) race condition that could be exploited to achieve arbitrary code",
+    "source": "Bleeping Computer",
+    "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
+    "link": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
+    "published": "Wed, 04 Nov 2026 14:05:19 -0500",
+    "summary": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]",
     "analysis": {
-      "issue": "CISA confirms active exploitation of CVE-2026-119977, a WordPress Core flaw that allows unauthenticated code execution during upgrades",
+      "issue": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [
-        "CVE-2026-119977"
-      ],
+      "cves": [],
       "threat_categories": [
+        "Data Breach",
         "Vulnerability"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity",
-    "link": "https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html",
-    "published": "Wed, 04 Nov 2026 00:16:38 +0530",
-    "summary": "Customers of the mSecure password manager are being urged to act now to protect the confidential information they store in it, possibly by changing passwords, resetting two-factor authentication (2FA), and removing passkeys.\n\nThe warning came in an email sent on November 3 in the name of developer mSeven Software. It says the company recently learned of suspicious activity linked to the app but",
+    "source": "Bleeping Computer",
+    "title": "Cyberattack disrupts blood storage refrigeration systems in France",
+    "link": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
+    "published": "Wed, 04 Nov 2026 13:02:56 -0500",
+    "summary": "France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored blood products. [...]",
     "analysis": {
-      "issue": "mSecure urged current and former customers to consider changing passwords, 2FA and passkeys after unspecified suspicious activity",
+      "issue": "France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored blood products",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Vulnerability",
+        "Supply Chain"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes",
-    "link": "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html",
-    "published": "Tue, 03 Nov 2026 23:46:19 +0530",
-    "summary": "Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that allowed an unauthorized party to gain access to some parts of its infrastructure.\n\nThe incident is assessed to be part of a large-scale, artificial intelligence (AI)-powered attack campaign that came to light last week.\n\n\"An external attacker gained unauthorized access to part of",
+    "source": "Bleeping Computer",
+    "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
+    "link": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
+    "published": "Wed, 04 Nov 2026 11:58:46 -0500",
+    "summary": "The developers of Goddess of Victory: NIKKE have confirmed that hackers tampered with the game's PC launcher scripts in a supply-chain attack, distributing malware capable of stealing credentials and cryptocurrency wallet data. [...]",
     "analysis": {
-      "issue": "Chainstack confirms a breach exposing customer account data and password hashes, with suspected links to an AI-powered attack campaign",
+      "issue": "The developers of Goddess of Victory: NIKKE have confirmed that hackers tampered with the game's PC launcher scripts in a supply-chain attack, distributing malware capable of stealing credentials and cryptocurrency wallet data",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Malware"
       ]
     }
   },
@@ -233,8 +290,8 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-109593",
-        "CVE-2026-109594"
+        "CVE-2026-109594",
+        "CVE-2026-109593"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -314,62 +371,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "WorkOS says attacker used ARTEX AI to breach internal sales app",
-    "link": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/",
-    "published": "Tue, 03 Nov 2026 16:28:44 -0500",
-    "summary": "Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications. [...]",
-    "analysis": {
-      "issue": "Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Binance says fake job interview led to $6.3 billion crypto heist",
-    "link": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
-    "published": "Tue, 03 Nov 2026 15:05:50 -0500",
-    "summary": "Cryptocurrency exchange Binance says North Korean hackers used a fake job interview to trick an employee into installing malware that ultimately let them compromise the company's wallet infrastructure and steal about $6.34 billion in digital assets. [...]",
-    "analysis": {
-      "issue": "Cryptocurrency exchange Binance says North Korean hackers used a fake job interview to trick an employee into installing malware that ultimately let them compromise the company's wallet infrastructure and steal about $6",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
-    "link": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
-    "published": "Tue, 03 Nov 2026 13:51:04 -0500",
-    "summary": "Large language model hijacking attacks, also known as LLMjacking, are generating large fraudulent cloud charges, with some organizations losing more than $100,000 per day. [...]",
-    "analysis": {
-      "issue": "Large language model hijacking attacks, also known as LLMjacking, are generating large fraudulent cloud charges, with some organizations losing more than $100,000 per day",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -921,8 +922,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109618",
-        "CVE-2026-109619"
+        "CVE-2026-109619",
+        "CVE-2026-109618"
       ],
       "threat_categories": [
         "Ransomware",
@@ -1295,8 +1296,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1321,6 +1322,42 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "The fake $750 Apple Cash reward that pays out nothing",
+    "link": "https://www.malwarebytes.com/blog/scams/2026/11/the-fake-750-apple-cash-reward-that-pays-out-nothing",
+    "published": "Wed, 04 Nov 2026 18:49:13 GMT",
+    "summary": "A fake $750 Apple Cash offer uses scripted checks and fake countdowns. Affiliate marketers earn a commission; you get no reward.",
+    "analysis": {
+      "issue": "A page we found promises a $750 Apple Cash reward if you complete a quick “device verification",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "mSecure tells users to change passwords but won’t say why",
+    "link": "https://www.malwarebytes.com/blog/data-breaches/2026/11/msecure-tells-users-to-change-passwords-but-wont-say-why",
+    "published": "Wed, 04 Nov 2026 17:02:25 GMT",
+    "summary": "mSecure has urged users to protect information stored in its app, but hasn’t explained what happened or whether anyone’s data was exposed.",
+    "analysis": {
+      "issue": "Password manager mSecure has warned current and former customers to protect the confidential information stored in its app after detecting “suspicious activity",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1474,42 +1511,6 @@
     }
   },
   {
-    "source": "Malwarebytes",
-    "title": "Photo ID, bank checks, face scan? The UK’s age-check options",
-    "link": "https://www.malwarebytes.com/blog/news/2026/10/photo-id-bank-checks-face-scan-the-uks-age-check-options",
-    "published": "Fri, 30 Oct 2026 13:00:02 GMT",
-    "summary": "Ofcom has set out four possible age-verification methods for UK’s under-16 social media ban.",
-    "analysis": {
-      "issue": "As preparation for the UK’s planned social media ban, Ofcom has set out four ways social media platforms could check whether users are aged 16 or over",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Binance hit by largest-ever crypto theft, with $6.3 billion stolen",
-    "link": "https://www.malwarebytes.com/blog/news/2026/10/binance-hit-by-largest-ever-crypto-theft-with-6-3-billion-stolen",
-    "published": "Fri, 30 Oct 2026 12:24:19 GMT",
-    "summary": "Attackers stole about $6.3 billion in cryptocurrency from Binance in what analysts say is the largest crypto theft on record.",
-    "analysis": {
-      "issue": "Binance says a security incident affected approximately $6",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "APT"
-      ]
-    }
-  },
-  {
     "source": "Crowdstrike Blog",
     "title": "CrowdStrike Introduces Agentic Adversary Emulation to Counter AI-Enabled Adversaries",
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-agentic-adversary-emulation-counters-ai-enabled-adversaries/",
@@ -1601,24 +1602,6 @@
   },
   {
     "source": "Crowdstrike Blog",
-    "title": "Introducing AI Kill Switch: Taking Control When AI Agents Go Rogue",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-introduces-ai-kill-switch/",
-    "published": "Nov 03, 2026 00:00:00-0800",
-    "summary": "",
-    "analysis": {
-      "issue": "CrowdStrike debuts AI Kill Switch to deliver quick control over AI model access and lay the foundation for coordinated agent containment across the Falcon platform",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
     "title": "CrowdStrike Secures AI Agents Inside Claude Cowork",
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-secures-ai-agents-inside-claude-cowork/",
     "published": "Nov 03, 2026 00:00:00-0800",
@@ -1637,12 +1620,12 @@
   },
   {
     "source": "Crowdstrike Blog",
-    "title": "CrowdStrike to Acquire Dreadnode to Bring Automated AI Security Testing to the Falcon Platform",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-dreadnode/",
+    "title": "Introducing AI Kill Switch: Taking Control When AI Agents Go Rogue",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-introduces-ai-kill-switch/",
     "published": "Nov 03, 2026 00:00:00-0800",
     "summary": "",
     "analysis": {
-      "issue": "The acquisition of Dreadnode will bring automated AI security testing to the Falcon platform as AI systems proliferate across the enterprise",
+      "issue": "CrowdStrike debuts AI Kill Switch to deliver quick control over AI model access and lay the foundation for coordinated agent containment across the Falcon platform",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1652,6 +1635,13 @@
         "General Security"
       ]
     }
+  },
+  {
+    "source": "Crowdstrike Blog",
+    "title": "CrowdStrike to Acquire Dreadnode to Bring Automated AI Security Testing to the Falcon Platform",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-dreadnode/",
+    "published": "Nov 03, 2026 00:00:00-0800",
+    "summary": ""
   },
   {
     "source": "Crowdstrike Blog",

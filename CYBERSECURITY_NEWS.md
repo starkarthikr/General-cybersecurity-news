@@ -1,10 +1,38 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-04 16:29:25 UTC
+**Last Updated:** 2026-11-04 19:36:21 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits](https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html)
+### 1. [Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root](https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 04 Nov 2026 22:30:46 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-109518  
+**Categories:** Vulnerability, APT  
+
+---
+
+### 2. [SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records](https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 04 Nov 2026 22:30:38 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit](https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 04 Nov 2026 21:36:43 +0530  
+**Severity:** Low  
+**Categories:** Supply Chain  
+
+---
+
+### 4. [APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits](https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Nov 2026 19:57:52 +0530  
@@ -13,7 +41,7 @@
 
 ---
 
-### 2. [Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads](https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html)
+### 5. [Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads](https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Nov 2026 17:37:04 +0530  
@@ -22,7 +50,7 @@
 
 ---
 
-### 3. [Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory](https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html)
+### 6. [Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory](https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Nov 2026 17:16:27 +0530  
@@ -31,7 +59,7 @@
 
 ---
 
-### 4. [Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It](https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html)
+### 7. [Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It](https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Nov 2026 17:04:20 +0530  
@@ -40,7 +68,7 @@
 
 ---
 
-### 5. [China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor](https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html)
+### 8. [China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor](https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Nov 2026 16:54:31 +0530  
@@ -49,7 +77,7 @@
 
 ---
 
-### 6. [Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure](https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html)
+### 9. [Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure](https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Nov 2026 13:47:11 +0530  
@@ -58,7 +86,7 @@
 
 ---
 
-### 7. [Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction](https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html)
+### 10. [Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction](https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Nov 2026 13:16:15 +0530  
@@ -67,35 +95,34 @@
 
 ---
 
-### 8. [CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades](https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html)
+### 11. [DreamHost confirms data breach exposed FTP logins and webmail sessions](https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 04 Nov 2026 11:13:11 +0530  
+**Source:** Bleeping Computer  
+**Published:** Wed, 04 Nov 2026 14:05:19 -0500  
 **Severity:** Low  
-**CVEs:** CVE-2026-119977  
-**Categories:** Vulnerability  
+**Categories:** Data Breach, Vulnerability  
 
 ---
 
-### 9. [mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity](https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html)
+### 12. [Cyberattack disrupts blood storage refrigeration systems in France](https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 04 Nov 2026 00:16:38 +0530  
+**Source:** Bleeping Computer  
+**Published:** Wed, 04 Nov 2026 13:02:56 -0500  
 **Severity:** Low  
-**Categories:** General Security  
+**Categories:** Vulnerability, Supply Chain  
 
 ---
 
-### 10. [Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes](https://thehackernews.com/2026/11/chainstack-reports-production-systems.html)
+### 13. [NIKKE PC game launcher hacked to spread remote access, data-stealing malware](https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 03 Nov 2026 23:46:19 +0530  
+**Source:** Bleeping Computer  
+**Published:** Wed, 04 Nov 2026 11:58:46 -0500  
 **Severity:** Low  
-**Categories:** General Security  
+**Categories:** Malware  
 
 ---
 
-### 11. [mSecure password manager hack prompts password reset warnings](https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/)
+### 14. [mSecure password manager hack prompts password reset warnings](https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Nov 2026 11:00:18 -0500  
@@ -104,7 +131,7 @@
 
 ---
 
-### 12. [Google Calendar phishing campaign hijacks sessions, bypasses MFA](https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/)
+### 15. [Google Calendar phishing campaign hijacks sessions, bypasses MFA](https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Nov 2026 10:00:10 -0500  
@@ -113,17 +140,17 @@
 
 ---
 
-### 13. [SonicWall warns of unpatched flaws in end-of-life GMS software](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/)
+### 16. [SonicWall warns of unpatched flaws in end-of-life GMS software](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Nov 2026 09:42:25 -0500  
 **Severity:** High  
-**CVEs:** CVE-2026-109593, CVE-2026-109594  
+**CVEs:** CVE-2026-109594, CVE-2026-109593  
 **Categories:** Vulnerability  
 
 ---
 
-### 14. [US charges two Canadians accused of hacking US universities](https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/)
+### 17. [US charges two Canadians accused of hacking US universities](https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Nov 2026 08:13:20 -0500  
@@ -132,7 +159,7 @@
 
 ---
 
-### 15. [CISA flags WordPress RCE flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/)
+### 18. [CISA flags WordPress RCE flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Nov 2026 07:11:05 -0500  
@@ -142,7 +169,7 @@
 
 ---
 
-### 16. [Hackers use n-day exploits in zero-click attacks on iOS, Android devices](https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/)
+### 19. [Hackers use n-day exploits in zero-click attacks on iOS, Android devices](https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Nov 2026 04:39:54 -0500  
@@ -151,39 +178,12 @@
 
 ---
 
-### 17. [Hackers hijack cPGuard autoupdate to deploy backdoor, steal data](https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/)
+### 20. [Hackers hijack cPGuard autoupdate to deploy backdoor, steal data](https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 03 Nov 2026 17:18:50 -0500  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 18. [WorkOS says attacker used ARTEX AI to breach internal sales app](https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 03 Nov 2026 16:28:44 -0500  
-**Severity:** Low  
-**Categories:** Data Breach, Vulnerability  
-
----
-
-### 19. [Binance says fake job interview led to $6.3 billion crypto heist](https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 03 Nov 2026 15:05:50 -0500  
-**Severity:** Low  
-**Categories:** Malware, APT  
-
----
-
-### 20. [Google: LLMjacking attacks rack up $1 million in cloud AI charges](https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 03 Nov 2026 13:51:04 -0500  
-**Severity:** High  
-**Categories:** General Security  
 
 ---
 
@@ -449,7 +449,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 21 Oct 2026 15:10:53 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109618, CVE-2026-109619  
+**CVEs:** CVE-2026-109619, CVE-2026-109618  
 **Categories:** Ransomware, Vulnerability  
 
 ---
@@ -633,7 +633,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -648,7 +648,25 @@
 
 ---
 
-### 71. [Chrome 157 fixes 213 security issues, including 7 critical flaws](https://www.malwarebytes.com/blog/bugs/2026/11/chrome-157-fixes-213-security-issues-including-7-critical-flaws)
+### 71. [The fake $750 Apple Cash reward that pays out nothing](https://www.malwarebytes.com/blog/scams/2026/11/the-fake-750-apple-cash-reward-that-pays-out-nothing)
+
+**Source:** Malwarebytes  
+**Published:** Wed, 04 Nov 2026 18:49:13 GMT  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 72. [mSecure tells users to change passwords but won’t say why](https://www.malwarebytes.com/blog/data-breaches/2026/11/msecure-tells-users-to-change-passwords-but-wont-say-why)
+
+**Source:** Malwarebytes  
+**Published:** Wed, 04 Nov 2026 17:02:25 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 73. [Chrome 157 fixes 213 security issues, including 7 critical flaws](https://www.malwarebytes.com/blog/bugs/2026/11/chrome-157-fixes-213-security-issues-including-7-critical-flaws)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 04 Nov 2026 12:16:25 GMT  
@@ -657,7 +675,7 @@
 
 ---
 
-### 72. [A hidden backdoor put 1.3 million TV boxes to work for criminals](https://www.malwarebytes.com/blog/mobile/2026/11/a-hidden-backdoor-put-1-3-million-tv-boxes-to-work-for-criminals)
+### 74. [A hidden backdoor put 1.3 million TV boxes to work for criminals](https://www.malwarebytes.com/blog/mobile/2026/11/a-hidden-backdoor-put-1-3-million-tv-boxes-to-work-for-criminals)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 03 Nov 2026 14:11:25 GMT  
@@ -666,7 +684,7 @@
 
 ---
 
-### 73. [Hackers put porn on public billboards and claim it was “far too easy”](https://www.malwarebytes.com/blog/bugs/2026/11/hackers-put-porn-on-public-billboards-and-claim-it-was-far-too-easy)
+### 75. [Hackers put porn on public billboards and claim it was “far too easy”](https://www.malwarebytes.com/blog/bugs/2026/11/hackers-put-porn-on-public-billboards-and-claim-it-was-far-too-easy)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 03 Nov 2026 12:01:55 GMT  
@@ -675,7 +693,7 @@
 
 ---
 
-### 74. [Revolve card breach: 1.5 million people may be affected](https://www.malwarebytes.com/blog/data-breaches/2026/11/revolve-card-breach-1-5-million-people-may-be-affected)
+### 76. [Revolve card breach: 1.5 million people may be affected](https://www.malwarebytes.com/blog/data-breaches/2026/11/revolve-card-breach-1-5-million-people-may-be-affected)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 03 Nov 2026 11:26:44 GMT  
@@ -684,7 +702,7 @@
 
 ---
 
-### 75. [5 stars for sale: Inside the underground fake review trade](https://www.malwarebytes.com/blog/threat-intel/2026/11/5-stars-for-sale-inside-the-underground-fake-review-trade)
+### 77. [5 stars for sale: Inside the underground fake review trade](https://www.malwarebytes.com/blog/threat-intel/2026/11/5-stars-for-sale-inside-the-underground-fake-review-trade)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 02 Nov 2026 14:24:43 GMT  
@@ -693,7 +711,7 @@
 
 ---
 
-### 76. [Applebee’s customer data exposed by password left in app](https://www.malwarebytes.com/blog/news/2026/11/applebees-customer-data-exposed-by-password-left-in-app)
+### 78. [Applebee’s customer data exposed by password left in app](https://www.malwarebytes.com/blog/news/2026/11/applebees-customer-data-exposed-by-password-left-in-app)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 02 Nov 2026 14:22:43 GMT  
@@ -702,7 +720,7 @@
 
 ---
 
-### 77. [A week in security (October 26 – November 1)](https://www.malwarebytes.com/blog/news/2026/11/a-week-in-security-october-26-november-1-2)
+### 79. [A week in security (October 26 – November 1)](https://www.malwarebytes.com/blog/news/2026/11/a-week-in-security-october-26-november-1-2)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 02 Nov 2026 08:01:00 GMT  
@@ -711,30 +729,12 @@
 
 ---
 
-### 78. [Fake PDF and search tools hijacked searches for 13.4 million Chrome users](https://www.malwarebytes.com/blog/news/2026/10/fake-pdf-and-search-tools-hijacked-searches-for-13-4-million-chrome-users)
+### 80. [Fake PDF and search tools hijacked searches for 13.4 million Chrome users](https://www.malwarebytes.com/blog/news/2026/10/fake-pdf-and-search-tools-hijacked-searches-for-13-4-million-chrome-users)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 30 Oct 2026 15:25:41 GMT  
 **Severity:** Low  
 **Categories:** Malware, Phishing  
-
----
-
-### 79. [Photo ID, bank checks, face scan? The UK’s age-check options](https://www.malwarebytes.com/blog/news/2026/10/photo-id-bank-checks-face-scan-the-uks-age-check-options)
-
-**Source:** Malwarebytes  
-**Published:** Fri, 30 Oct 2026 13:00:02 GMT  
-**Severity:** High  
-**Categories:** Supply Chain  
-
----
-
-### 80. [Binance hit by largest-ever crypto theft, with $6.3 billion stolen](https://www.malwarebytes.com/blog/news/2026/10/binance-hit-by-largest-ever-crypto-theft-with-6-3-billion-stolen)
-
-**Source:** Malwarebytes  
-**Published:** Fri, 30 Oct 2026 12:24:19 GMT  
-**Severity:** Low  
-**Categories:** APT  
 
 ---
 
@@ -783,7 +783,7 @@
 
 ---
 
-### 86. [Introducing AI Kill Switch: Taking Control When AI Agents Go Rogue](https://www.crowdstrike.com/en-us/blog/crowdstrike-introduces-ai-kill-switch/)
+### 86. [CrowdStrike Secures AI Agents Inside Claude Cowork](https://www.crowdstrike.com/en-us/blog/crowdstrike-secures-ai-agents-inside-claude-cowork/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Nov 03, 2026 00:00:00-0800  
@@ -792,7 +792,7 @@
 
 ---
 
-### 87. [CrowdStrike Secures AI Agents Inside Claude Cowork](https://www.crowdstrike.com/en-us/blog/crowdstrike-secures-ai-agents-inside-claude-cowork/)
+### 87. [Introducing AI Kill Switch: Taking Control When AI Agents Go Rogue](https://www.crowdstrike.com/en-us/blog/crowdstrike-introduces-ai-kill-switch/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Nov 03, 2026 00:00:00-0800  
@@ -805,8 +805,6 @@
 
 **Source:** Crowdstrike Blog  
 **Published:** Nov 03, 2026 00:00:00-0800  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
