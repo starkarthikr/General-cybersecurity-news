@@ -188,6 +188,44 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
+    "link": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
+    "published": "Thu, 05 Nov 2026 14:24:26 -0500",
+    "summary": "OpenAI has disclosed another AI alignment incident where GPT-6 Astra was found to sometimes quietly withhold help on safety research. [...]",
+    "analysis": {
+      "issue": "OpenAI disclosed that its GPT-6 Astra frontier model sometimes hindered safety research by complicating simple tasks, abandoning viable approaches, and silently refusing researchers’ requests",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
+    "published": "Thu, 05 Nov 2026 12:45:29 -0500",
+    "summary": "A newly disclosed OpenSSH vulnerability dubbed \"*sshole\" allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts that are configured to block password authentication, simply by entering an oversized password. [...]",
+    "analysis": {
+      "issue": "A newly disclosed flaw involving OpenSSH and musl, dubbed \"*sshole,\" allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts configured to block password authentication simply by entering an oversized password",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2016-6210"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Hackers backdoor Linux servers using trojanized CWP web server",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
     "published": "Thu, 05 Nov 2026 11:24:26 -0500",
@@ -335,42 +373,6 @@
       "threat_categories": [
         "Vulnerability",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
-    "link": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
-    "published": "Wed, 04 Nov 2026 11:58:46 -0500",
-    "summary": "The developers of Goddess of Victory: NIKKE have confirmed that hackers tampered with the game's PC launcher scripts in a supply-chain attack, distributing malware capable of stealing credentials and cryptocurrency wallet data. [...]",
-    "analysis": {
-      "issue": "The developers of Goddess of Victory: NIKKE have confirmed that hackers tampered with the game's PC launcher scripts in a supply-chain attack, distributing malware capable of stealing credentials and cryptocurrency wallet data",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "mSecure password manager hack prompts password reset warnings",
-    "link": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
-    "published": "Wed, 04 Nov 2026 11:00:18 -0500",
-    "summary": "mSeven Software is warning current and former mSecure password manager customers to change passwords, reset two-factor authentication, and remove passkeys following a cyberattack that reportedly exposed an encrypted customer database. [...]",
-    "analysis": {
-      "issue": "mSeven Software is warning current and former mSecure password manager customers to change passwords, reset two-factor authentication, and remove passkeys following a cyberattack in which a hacker reportedly stole an encrypted customer database",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -567,6 +569,25 @@
   },
   {
     "source": "Security Week",
+    "title": "AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research",
+    "link": "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/",
+    "published": "Thu, 05 Nov 2026 17:32:37 +0000",
+    "summary": "<p>An unreleased OpenAI cyber model found and exploited 948 distinct Linux kernel privilege escalation bugs for about $1.2 million.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/\">AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "An unreleased OpenAI cyber model found and exploited 948 distinct Linux kernel privilege escalation bugs for about $1",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Bank Phishing Sites Show Fake ‘Suspended’ Pages to Evade Takedowns",
     "link": "https://www.securityweek.com/bank-phishing-sites-show-fake-suspended-pages-to-evade-takedowns/",
     "published": "Thu, 05 Nov 2026 13:22:12 +0000",
@@ -616,15 +637,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-121638",
-        "CVE-2026-121637",
         "CVE-2026-76506",
         "CVE-2026-109593",
-        "CVE-2026-121640",
+        "CVE-2026-98432",
         "CVE-2026-111497",
-        "CVE-2026-109594",
         "CVE-2026-121639",
-        "CVE-2026-98432"
+        "CVE-2026-109594",
+        "CVE-2026-121638",
+        "CVE-2026-121640",
+        "CVE-2026-121637"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -753,24 +774,20 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Barracuda ESG Authentication Bypass Flaw Opens Path to Root",
-    "link": "https://www.securityweek.com/barracuda-email-security-gateway-authentication-bypass-opens-path-to-root/",
-    "published": "Wed, 04 Nov 2026 14:24:54 +0000",
-    "summary": "<p>An authentication bypass and a command injection flaw can be chained for root access on Barracuda’s Email Security Gateway appliances.</p>\n<p>The post <a href=\"https://www.securityweek.com/barracuda-email-security-gateway-authentication-bypass-opens-path-to-root/\">Barracuda ESG Authentication Bypass Flaw Opens Path to Root</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "source": "Talos Blog",
+    "title": "Bring a tent, I've got the coffee: Lessons from it-sa",
+    "link": "https://blog.talosintelligence.com/bring-a-tent-ive-got-the-coffee-lessons-from-it-sa/",
+    "published": "Thu, 05 Nov 2026 19:00:00 GMT",
+    "summary": "Thorsten may have had to camp out in Nuremberg to attend it-sa, but the real story is the initiative to add a formal IT Security apprenticeship program in Germany for the thousands of young hackers ready to join our side.",
     "analysis": {
-      "issue": "An authentication bypass and a command injection flaw can be chained for root access on Barracuda’s Email Security Gateway appliances",
+      "issue": "Welcome to this week's edition of the Threat Source newsletter",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-116606",
-        "CVE-2023-2868",
-        "CVE-2026-111560"
-      ],
+      "severity": "High",
+      "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "General Security"
       ]
     }
   },
@@ -950,20 +967,20 @@
     }
   },
   {
-    "source": "Talos Blog",
-    "title": "Parasitizing trust: How legitimate infrastructure becomes a delivery pipeline for attackers",
-    "link": "https://blog.talosintelligence.com/parasitizing-trust-how-legitimate-infrastructure-becomes-a-delivery-pipeline-for-attackers/",
-    "published": "Wed, 21 Oct 2026 10:00:00 GMT",
-    "summary": "Adversaries are turning the tools businesses trust into delivery mechanisms for malicious activity. Cisco Talos observed abuse of more than 25 legitimate platforms over the past year, exploiting the built-in trust of collaboration, file-sharing, payment and other services to reach their targets.",
+    "source": "Recorded Future",
+    "title": "The Shift: Rethinking the Human in the Loop",
+    "link": "https://www.recordedfuture.com/blog/the-shift-rethinking-human-in-the-loop",
+    "published": "Thu, 05 Nov 2026 00:00:00 GMT",
+    "summary": "Understand how to identify automation doom loops in machine-speed workflows and learn strategies for implementing effective human oversight in AI systems",
     "analysis": {
-      "issue": "Talos recently analyzed two order notification campaigns abusing Staples and Dell transactional email pipelines",
+      "issue": "Understand how to identify automation doom loops in machine-speed workflows and learn strategies for implementing effective human oversight in AI systems",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "High",
+      "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Phishing"
+        "General Security"
       ]
     }
   },
@@ -1126,24 +1143,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Recorded Future Introduces AI Infrastructure Indicator Lists, Strengthening AI Governance",
-    "link": "https://www.recordedfuture.com/blog/ai-infrastructure-indicator-lists",
-    "published": "Fri, 09 Oct 2026 00:00:00 GMT",
-    "summary": "Recorded Future's new AI Infrastructure Indicator Lists help security teams find shadow AI, enforce policy, and prevent data loss.",
-    "analysis": {
-      "issue": "Recorded Future's new AI Infrastructure Indicator Lists help security teams find shadow AI, enforce policy, and prevent data loss",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -1314,8 +1313,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",

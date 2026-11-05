@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-05 16:40:41 UTC
+**Last Updated:** 2026-11-05 19:45:21 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -96,7 +96,26 @@
 
 ---
 
-### 11. [Hackers backdoor Linux servers using trojanized CWP web server](https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/)
+### 11. [OpenAI’s GPT-6 Astra silently obstructed safety research tasks](https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 05 Nov 2026 14:24:26 -0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 12. [OpenSSH flaw lets attackers log into password-disabled Linux accounts](https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 05 Nov 2026 12:45:29 -0500  
+**Severity:** Low  
+**CVEs:** CVE-2016-6210  
+**Categories:** Vulnerability  
+
+---
+
+### 13. [Hackers backdoor Linux servers using trojanized CWP web server](https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Nov 2026 11:24:26 -0500  
@@ -105,7 +124,7 @@
 
 ---
 
-### 12. [DigiCert data breach exposes customer information, identity documents](https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/)
+### 14. [DigiCert data breach exposes customer information, identity documents](https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Nov 2026 11:12:46 -0500  
@@ -114,7 +133,7 @@
 
 ---
 
-### 13. [Closing the Identity Gap at the Service Desk](https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/)
+### 15. [Closing the Identity Gap at the Service Desk](https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Nov 2026 10:00:10 -0500  
@@ -123,7 +142,7 @@
 
 ---
 
-### 14. [GhostMap Android flaw lets malicious app trigger persistent boot loop](https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/)
+### 16. [GhostMap Android flaw lets malicious app trigger persistent boot loop](https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Nov 2026 04:18:29 -0500  
@@ -132,7 +151,7 @@
 
 ---
 
-### 15. [Vercel rolls out new protection against stolen session cookie attacks](https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/)
+### 17. [Vercel rolls out new protection against stolen session cookie attacks](https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Nov 2026 16:31:18 -0500  
@@ -141,7 +160,7 @@
 
 ---
 
-### 16. [Zyxel fixes zero-day exploited to hack nearly 1,000 network switches](https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/)
+### 18. [Zyxel fixes zero-day exploited to hack nearly 1,000 network switches](https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Nov 2026 15:58:19 -0500  
@@ -151,7 +170,7 @@
 
 ---
 
-### 17. [DreamHost confirms data breach exposed FTP logins and webmail sessions](https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/)
+### 19. [DreamHost confirms data breach exposed FTP logins and webmail sessions](https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Nov 2026 14:05:19 -0500  
@@ -160,30 +179,12 @@
 
 ---
 
-### 18. [Cyberattack disrupts blood storage refrigeration systems in France](https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/)
+### 20. [Cyberattack disrupts blood storage refrigeration systems in France](https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Nov 2026 13:02:56 -0500  
 **Severity:** Low  
 **Categories:** Vulnerability, Supply Chain  
-
----
-
-### 19. [NIKKE PC game launcher hacked to spread remote access, data-stealing malware](https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 04 Nov 2026 11:58:46 -0500  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 20. [mSecure password manager hack prompts password reset warnings](https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 04 Nov 2026 11:00:18 -0500  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -279,7 +280,16 @@
 
 ---
 
-### 31. [Bank Phishing Sites Show Fake ‘Suspended’ Pages to Evade Takedowns](https://www.securityweek.com/bank-phishing-sites-show-fake-suspended-pages-to-evade-takedowns/)
+### 31. [AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research](https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/)
+
+**Source:** Security Week  
+**Published:** Thu, 05 Nov 2026 17:32:37 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, APT  
+
+---
+
+### 32. [Bank Phishing Sites Show Fake ‘Suspended’ Pages to Evade Takedowns](https://www.securityweek.com/bank-phishing-sites-show-fake-suspended-pages-to-evade-takedowns/)
 
 **Source:** Security Week  
 **Published:** Thu, 05 Nov 2026 13:22:12 +0000  
@@ -288,7 +298,7 @@
 
 ---
 
-### 32. [Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised](https://www.securityweek.com/cyberattack-hits-french-blood-bank-site-but-no-blood-products-are-compromised/)
+### 33. [Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised](https://www.securityweek.com/cyberattack-hits-french-blood-bank-site-but-no-blood-products-are-compromised/)
 
 **Source:** Security Week  
 **Published:** Thu, 05 Nov 2026 12:58:32 +0000  
@@ -297,17 +307,17 @@
 
 ---
 
-### 33. [Cisco, WatchGuard Release Patches; SonicWall Won’t Fix GMS Flaws](https://www.securityweek.com/cisco-watchguard-release-patches-sonicwall-wont-fix-gms-flaws/)
+### 34. [Cisco, WatchGuard Release Patches; SonicWall Won’t Fix GMS Flaws](https://www.securityweek.com/cisco-watchguard-release-patches-sonicwall-wont-fix-gms-flaws/)
 
 **Source:** Security Week  
 **Published:** Thu, 05 Nov 2026 12:33:49 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-121638, CVE-2026-121637, CVE-2026-76506, CVE-2026-109593, CVE-2026-121640, CVE-2026-111497, CVE-2026-109594, CVE-2026-121639, CVE-2026-98432  
+**CVEs:** CVE-2026-76506, CVE-2026-109593, CVE-2026-98432, CVE-2026-111497, CVE-2026-121639, CVE-2026-109594, CVE-2026-121638, CVE-2026-121640, CVE-2026-121637  
 **Categories:** Vulnerability  
 
 ---
 
-### 34. [The Agent Smith Dilemma: Governing Agentic Identities](https://www.securityweek.com/the-agent-smith-dilemma-governing-agentic-identities/)
+### 35. [The Agent Smith Dilemma: Governing Agentic Identities](https://www.securityweek.com/the-agent-smith-dilemma-governing-agentic-identities/)
 
 **Source:** Security Week  
 **Published:** Thu, 05 Nov 2026 11:15:00 +0000  
@@ -316,7 +326,7 @@
 
 ---
 
-### 35. [CISO Conversations: Ryan Davis – The Unknown Is Where Security Meets Reality](https://www.securityweek.com/ciso-conversations-ryan-davis-the-unknown-is-where-security-meets-reality/)
+### 36. [CISO Conversations: Ryan Davis – The Unknown Is Where Security Meets Reality](https://www.securityweek.com/ciso-conversations-ryan-davis-the-unknown-is-where-security-meets-reality/)
 
 **Source:** Security Week  
 **Published:** Thu, 05 Nov 2026 11:00:00 +0000  
@@ -325,7 +335,7 @@
 
 ---
 
-### 36. [Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day](https://www.securityweek.com/zyxel-switch-hacks-blamed-on-patched-flaw-actually-exploited-a-zero-day/)
+### 37. [Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day](https://www.securityweek.com/zyxel-switch-hacks-blamed-on-patched-flaw-actually-exploited-a-zero-day/)
 
 **Source:** Security Week  
 **Published:** Thu, 05 Nov 2026 10:56:41 +0000  
@@ -335,7 +345,7 @@
 
 ---
 
-### 37. [Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes](https://www.securityweek.com/russia-linked-hackers-hit-ios-android-devices-with-exploit-chains-via-watering-holes/)
+### 38. [Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes](https://www.securityweek.com/russia-linked-hackers-hit-ios-android-devices-with-exploit-chains-via-watering-holes/)
 
 **Source:** Security Week  
 **Published:** Thu, 05 Nov 2026 10:37:13 +0000  
@@ -345,7 +355,7 @@
 
 ---
 
-### 38. [OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks](https://www.securityweek.com/openai-finds-gpt-6-astra-quietly-holding-back-on-internal-red-teaming-exploit-tasks/)
+### 39. [OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks](https://www.securityweek.com/openai-finds-gpt-6-astra-quietly-holding-back-on-internal-red-teaming-exploit-tasks/)
 
 **Source:** Security Week  
 **Published:** Thu, 05 Nov 2026 10:02:00 +0000  
@@ -354,7 +364,7 @@
 
 ---
 
-### 39. [Sysdig Adds Runtime Security and Governance for AI Agents](https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/)
+### 40. [Sysdig Adds Runtime Security and Governance for AI Agents](https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/)
 
 **Source:** Security Week  
 **Published:** Wed, 04 Nov 2026 14:34:44 +0000  
@@ -363,17 +373,16 @@
 
 ---
 
-### 40. [Barracuda ESG Authentication Bypass Flaw Opens Path to Root](https://www.securityweek.com/barracuda-email-security-gateway-authentication-bypass-opens-path-to-root/)
+### 41. [Bring a tent, I've got the coffee: Lessons from it-sa](https://blog.talosintelligence.com/bring-a-tent-ive-got-the-coffee-lessons-from-it-sa/)
 
-**Source:** Security Week  
-**Published:** Wed, 04 Nov 2026 14:24:54 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-116606, CVE-2023-2868, CVE-2026-111560  
-**Categories:** Vulnerability  
+**Source:** Talos Blog  
+**Published:** Thu, 05 Nov 2026 19:00:00 GMT  
+**Severity:** High  
+**Categories:** General Security  
 
 ---
 
-### 41. [Appraisal by AI: Model-driven victim prioritization in the VOLTA infostealer](https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/)
+### 42. [Appraisal by AI: Model-driven victim prioritization in the VOLTA infostealer](https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/)
 
 **Source:** Talos Blog  
 **Published:** Sat, 31 Oct 2026 12:00:00 GMT  
@@ -382,7 +391,7 @@
 
 ---
 
-### 42. [A quiet week in infosec <.<](https://blog.talosintelligence.com/a-quiet-week-in-infosec/)
+### 43. [A quiet week in infosec <.<](https://blog.talosintelligence.com/a-quiet-week-in-infosec/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 29 Oct 2026 18:00:00 GMT  
@@ -391,7 +400,7 @@
 
 ---
 
-### 43. [IR trends Q3 2026: Actors impersonate IT help desks in vishing attacks as ransomware activity increases](https://blog.talosintelligence.com/ir-trends-q3-2026/)
+### 44. [IR trends Q3 2026: Actors impersonate IT help desks in vishing attacks as ransomware activity increases](https://blog.talosintelligence.com/ir-trends-q3-2026/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 29 Oct 2026 14:00:00 GMT  
@@ -401,7 +410,7 @@
 
 ---
 
-### 44. [NIK C2: The new AI-enabled command-and-control framework](https://blog.talosintelligence.com/nik-c2-new-ai-enabled-framework/)
+### 45. [NIK C2: The new AI-enabled command-and-control framework](https://blog.talosintelligence.com/nik-c2-new-ai-enabled-framework/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 29 Oct 2026 10:00:00 GMT  
@@ -410,7 +419,7 @@
 
 ---
 
-### 45. [Inside KeyDrift: Analyzing historical UAT-11473 activity on Cisco SD-WAN](https://blog.talosintelligence.com/uat-11473-keydrift/)
+### 46. [Inside KeyDrift: Analyzing historical UAT-11473 activity on Cisco SD-WAN](https://blog.talosintelligence.com/uat-11473-keydrift/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 28 Oct 2026 21:32:02 GMT  
@@ -419,7 +428,7 @@
 
 ---
 
-### 46. [From federal SOCs to Talos: Ryan Fetterman on practical security research](https://blog.talosintelligence.com/from-federal-socs-to-talos-ryan-fetterman-on-practical-security-research/)
+### 47. [From federal SOCs to Talos: Ryan Fetterman on practical security research](https://blog.talosintelligence.com/from-federal-socs-to-talos-ryan-fetterman-on-practical-security-research/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 27 Oct 2026 10:00:21 GMT  
@@ -428,7 +437,7 @@
 
 ---
 
-### 47. [I had plans for that second](https://blog.talosintelligence.com/i-had-plans-for-that-second/)
+### 48. [I had plans for that second](https://blog.talosintelligence.com/i-had-plans-for-that-second/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 22 Oct 2026 18:04:32 GMT  
@@ -437,7 +446,7 @@
 
 ---
 
-### 48. [Compromised eMudhra intermediate certificates](https://blog.talosintelligence.com/compromised-intermediate-certificates/)
+### 49. [Compromised eMudhra intermediate certificates](https://blog.talosintelligence.com/compromised-intermediate-certificates/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 21 Oct 2026 20:43:29 GMT  
@@ -447,7 +456,7 @@
 
 ---
 
-### 49. [Two critical RCEs in PHP core](https://blog.talosintelligence.com/two-critical-rces-in-php-core/)
+### 50. [Two critical RCEs in PHP core](https://blog.talosintelligence.com/two-critical-rces-in-php-core/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 21 Oct 2026 15:10:53 GMT  
@@ -457,16 +466,16 @@
 
 ---
 
-### 50. [Parasitizing trust: How legitimate infrastructure becomes a delivery pipeline for attackers](https://blog.talosintelligence.com/parasitizing-trust-how-legitimate-infrastructure-becomes-a-delivery-pipeline-for-attackers/)
+### 51. [The Shift: Rethinking the Human in the Loop](https://www.recordedfuture.com/blog/the-shift-rethinking-human-in-the-loop)
 
-**Source:** Talos Blog  
-**Published:** Wed, 21 Oct 2026 10:00:00 GMT  
-**Severity:** High  
-**Categories:** Phishing  
+**Source:** Recorded Future  
+**Published:** Thu, 05 Nov 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** General Security  
 
 ---
 
-### 51. [Prediction Markets Emerge as a New Vertical for Traffer Teams](https://www.recordedfuture.com/research/prediction-markets-traffer-teams)
+### 52. [Prediction Markets Emerge as a New Vertical for Traffer Teams](https://www.recordedfuture.com/research/prediction-markets-traffer-teams)
 
 **Source:** Recorded Future  
 **Published:** Thu, 29 Oct 2026 00:00:00 GMT  
@@ -475,7 +484,7 @@
 
 ---
 
-### 52. [Behind Japan’s Warnings of a Cyber Crisis](https://www.recordedfuture.com/blog/japan-cyber-crisis-warnings)
+### 53. [Behind Japan’s Warnings of a Cyber Crisis](https://www.recordedfuture.com/blog/japan-cyber-crisis-warnings)
 
 **Source:** Recorded Future  
 **Published:** Thu, 22 Oct 2026 00:00:00 GMT  
@@ -484,7 +493,7 @@
 
 ---
 
-### 53. [PHP2Shell Exploitation: Two Critical PHP Flaws Explained](https://www.recordedfuture.com/blog/php2shell-vulnerability-exploitation)
+### 54. [PHP2Shell Exploitation: Two Critical PHP Flaws Explained](https://www.recordedfuture.com/blog/php2shell-vulnerability-exploitation)
 
 **Source:** Recorded Future  
 **Published:** Wed, 21 Oct 2026 00:00:00 GMT  
@@ -493,7 +502,7 @@
 
 ---
 
-### 54. [TAG-217 Targets South Korean Financial Services with ARTEX](https://www.recordedfuture.com/blog/tag-217-artex-south-korean-banks)
+### 55. [TAG-217 Targets South Korean Financial Services with ARTEX](https://www.recordedfuture.com/blog/tag-217-artex-south-korean-banks)
 
 **Source:** Recorded Future  
 **Published:** Fri, 16 Oct 2026 00:00:00 GMT  
@@ -502,7 +511,7 @@
 
 ---
 
-### 55. [Working in Boston at the World’s Largest Intelligence Company](https://www.recordedfuture.com/blog/working-in-boston)
+### 56. [Working in Boston at the World’s Largest Intelligence Company](https://www.recordedfuture.com/blog/working-in-boston)
 
 **Source:** Recorded Future  
 **Published:** Thu, 15 Oct 2026 00:00:00 GMT  
@@ -511,7 +520,7 @@
 
 ---
 
-### 56. [Russia Is Tightening Internet Controls, Leading to Operational Risks](https://www.recordedfuture.com/research/russia-restrictive-info-environment)
+### 57. [Russia Is Tightening Internet Controls, Leading to Operational Risks](https://www.recordedfuture.com/research/russia-restrictive-info-environment)
 
 **Source:** Recorded Future  
 **Published:** Thu, 15 Oct 2026 00:00:00 GMT  
@@ -520,7 +529,7 @@
 
 ---
 
-### 57. [TAG-193’s Regional Espionage Operations](https://www.recordedfuture.com/blog/tag193-regional-espionage-operations)
+### 58. [TAG-193’s Regional Espionage Operations](https://www.recordedfuture.com/blog/tag193-regional-espionage-operations)
 
 **Source:** Recorded Future  
 **Published:** Wed, 14 Oct 2026 00:00:00 GMT  
@@ -529,7 +538,7 @@
 
 ---
 
-### 58. [September 2026 CVE Landscape](https://www.recordedfuture.com/blog/september-2026-cve-landscape)
+### 59. [September 2026 CVE Landscape](https://www.recordedfuture.com/blog/september-2026-cve-landscape)
 
 **Source:** Recorded Future  
 **Published:** Tue, 13 Oct 2026 00:00:00 GMT  
@@ -538,21 +547,12 @@
 
 ---
 
-### 59. [Malware Indicators of Compromise (IoCs) | Recorded Future](https://www.recordedfuture.com/blog/malware-indicators-of-compromise)
+### 60. [Malware Indicators of Compromise (IoCs) | Recorded Future](https://www.recordedfuture.com/blog/malware-indicators-of-compromise)
 
 **Source:** Recorded Future  
 **Published:** Tue, 13 Oct 2026 00:00:00 GMT  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 60. [Recorded Future Introduces AI Infrastructure Indicator Lists, Strengthening AI Governance](https://www.recordedfuture.com/blog/ai-infrastructure-indicator-lists)
-
-**Source:** Recorded Future  
-**Published:** Fri, 09 Oct 2026 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -636,7 +636,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
