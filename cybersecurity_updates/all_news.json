@@ -1,6 +1,27 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
+    "link": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
+    "published": "Thu, 05 Nov 2026 10:47:04 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation.\n\nThe vulnerability in question is CVE-2024-27834 (CVSS score: 5.5), a case of improper authentication that could allow an attacker with",
+    "analysis": {
+      "issue": "CISA adds Apple CVE-2024-27834 to its KEV catalog after reports of active exploitation involving a pointer authentication bypass",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2024-27834"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
     "link": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
     "published": "Thu, 05 Nov 2026 10:01:16 +0530",
@@ -166,25 +187,6 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
-    "link": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html",
-    "published": "Wed, 04 Nov 2026 13:47:11 +0530",
-    "summary": "Russian authorities have arrested three suspected members of a threat group known as VasyGrek and dismantled its criminal infrastructure.\n\nAlso known as Fluffy Wolf, the threat actor has a history of targeting Russian and international companies since 2016.\n\nThe Ministry of Internal Affairs of the Russian Federation (MVD) said members of the group are \"suspected of embezzling funds from the",
-    "analysis": {
-      "issue": "Russian police arrest three suspected VasyGrek members and dismantle infrastructure linked to phishing, malware, and financial theft",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
     "title": "Vercel rolls out new protection against stolen session cookie attacks",
     "link": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
@@ -330,8 +332,8 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-109593",
-        "CVE-2026-109594"
+        "CVE-2026-109594",
+        "CVE-2026-109593"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -482,8 +484,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-96951",
-        "CVE-2026-108398"
+        "CVE-2026-108398",
+        "CVE-2026-96951"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -599,9 +601,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-116606",
         "CVE-2026-111560",
-        "CVE-2023-2868",
-        "CVE-2026-116606"
+        "CVE-2023-2868"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1515,12 +1517,12 @@
   },
   {
     "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Introduces Agentic Adversary Emulation to Counter AI-Enabled Adversaries",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-agentic-adversary-emulation-counters-ai-enabled-adversaries/",
+    "title": "CrowdStrike Extends the Agentic SOC to Detect and Stop Agent Insider Threats",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-detects-and-stops-agent-insider-threats/",
     "published": "Nov 04, 2026 00:00:00-0600",
     "summary": "",
     "analysis": {
-      "issue": "New AI-powered red teaming capability, powered by SafeMind, combines purpose-built AI systems, adversary intelligence, and Falcon platform visibility to emulate real-world attacks and validate defenses",
+      "issue": "CrowdStrike extends the agentic SOC to detect agent insider threats, investigate across every domain, and govern response on the Falcon platform",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1533,12 +1535,12 @@
   },
   {
     "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Extends the Agentic SOC to Detect and Stop Agent Insider Threats",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-detects-and-stops-agent-insider-threats/",
+    "title": "CrowdStrike Introduces Agentic Adversary Emulation to Counter AI-Enabled Adversaries",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-agentic-adversary-emulation-counters-ai-enabled-adversaries/",
     "published": "Nov 04, 2026 00:00:00-0600",
     "summary": "",
     "analysis": {
-      "issue": "CrowdStrike extends the agentic SOC to detect agent insider threats, investigate across every domain, and govern response on the Falcon platform",
+      "issue": "New AI-powered red teaming capability, powered by SafeMind, combines purpose-built AI systems, adversary intelligence, and Falcon platform visibility to emulate real-world attacks and validate defenses",
       "solution": null,
       "cause": null,
       "timeline": null,

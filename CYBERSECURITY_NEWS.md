@@ -1,10 +1,20 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-05 06:00:27 UTC
+**Last Updated:** 2026-11-05 07:10:33 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run](https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html)
+### 1. [Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says](https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 05 Nov 2026 10:47:04 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2024-27834  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 2. [OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run](https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 05 Nov 2026 10:01:16 +0530  
@@ -13,7 +23,7 @@
 
 ---
 
-### 2. [Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root](https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html)
+### 3. [Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root](https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Nov 2026 22:30:46 +0530  
@@ -23,7 +33,7 @@
 
 ---
 
-### 3. [SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records](https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html)
+### 4. [SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records](https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Nov 2026 22:30:38 +0530  
@@ -32,7 +42,7 @@
 
 ---
 
-### 4. [Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit](https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html)
+### 5. [Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit](https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Nov 2026 21:36:43 +0530  
@@ -41,7 +51,7 @@
 
 ---
 
-### 5. [APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits](https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html)
+### 6. [APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits](https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Nov 2026 19:57:52 +0530  
@@ -50,7 +60,7 @@
 
 ---
 
-### 6. [Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads](https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html)
+### 7. [Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads](https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Nov 2026 17:37:04 +0530  
@@ -59,7 +69,7 @@
 
 ---
 
-### 7. [Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory](https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html)
+### 8. [Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory](https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Nov 2026 17:16:27 +0530  
@@ -68,7 +78,7 @@
 
 ---
 
-### 8. [Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It](https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html)
+### 9. [Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It](https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Nov 2026 17:04:20 +0530  
@@ -77,21 +87,12 @@
 
 ---
 
-### 9. [China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor](https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html)
+### 10. [China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor](https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Nov 2026 16:54:31 +0530  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 10. [Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure](https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 04 Nov 2026 13:47:11 +0530  
-**Severity:** Low  
-**Categories:** Malware, Phishing  
 
 ---
 
@@ -164,7 +165,7 @@
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Nov 2026 09:42:25 -0500  
 **Severity:** High  
-**CVEs:** CVE-2026-109593, CVE-2026-109594  
+**CVEs:** CVE-2026-109594, CVE-2026-109593  
 **Categories:** Vulnerability  
 
 ---
@@ -238,7 +239,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 13 Oct 2026 23:24:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-96951, CVE-2026-108398  
+**CVEs:** CVE-2026-108398, CVE-2026-96951  
 **Categories:** Vulnerability  
 
 ---
@@ -294,7 +295,7 @@
 **Source:** Security Week  
 **Published:** Wed, 04 Nov 2026 14:24:54 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-111560, CVE-2023-2868, CVE-2026-116606  
+**CVEs:** CVE-2026-116606, CVE-2026-111560, CVE-2023-2868  
 **Categories:** Vulnerability  
 
 ---
@@ -739,7 +740,7 @@
 
 ---
 
-### 81. [CrowdStrike Introduces Agentic Adversary Emulation to Counter AI-Enabled Adversaries](https://www.crowdstrike.com/en-us/blog/crowdstrike-agentic-adversary-emulation-counters-ai-enabled-adversaries/)
+### 81. [CrowdStrike Extends the Agentic SOC to Detect and Stop Agent Insider Threats](https://www.crowdstrike.com/en-us/blog/crowdstrike-detects-and-stops-agent-insider-threats/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Nov 04, 2026 00:00:00-0600  
@@ -748,7 +749,7 @@
 
 ---
 
-### 82. [CrowdStrike Extends the Agentic SOC to Detect and Stop Agent Insider Threats](https://www.crowdstrike.com/en-us/blog/crowdstrike-detects-and-stops-agent-insider-threats/)
+### 82. [CrowdStrike Introduces Agentic Adversary Emulation to Counter AI-Enabled Adversaries](https://www.crowdstrike.com/en-us/blog/crowdstrike-agentic-adversary-emulation-counters-ai-enabled-adversaries/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Nov 04, 2026 00:00:00-0600  
