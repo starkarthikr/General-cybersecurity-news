@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-04 22:06:16 UTC
+**Last Updated:** 2026-11-05 06:00:27 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root](https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html)
+### 1. [OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run](https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 05 Nov 2026 10:01:16 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root](https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Nov 2026 22:30:46 +0530  
@@ -14,7 +23,7 @@
 
 ---
 
-### 2. [SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records](https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html)
+### 3. [SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records](https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Nov 2026 22:30:38 +0530  
@@ -23,7 +32,7 @@
 
 ---
 
-### 3. [Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit](https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html)
+### 4. [Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit](https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Nov 2026 21:36:43 +0530  
@@ -32,7 +41,7 @@
 
 ---
 
-### 4. [APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits](https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html)
+### 5. [APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits](https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Nov 2026 19:57:52 +0530  
@@ -41,7 +50,7 @@
 
 ---
 
-### 5. [Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads](https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html)
+### 6. [Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads](https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Nov 2026 17:37:04 +0530  
@@ -50,7 +59,7 @@
 
 ---
 
-### 6. [Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory](https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html)
+### 7. [Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory](https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Nov 2026 17:16:27 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It](https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html)
+### 8. [Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It](https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Nov 2026 17:04:20 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor](https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html)
+### 9. [China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor](https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Nov 2026 16:54:31 +0530  
@@ -77,21 +86,12 @@
 
 ---
 
-### 9. [Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure](https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html)
+### 10. [Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure](https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Nov 2026 13:47:11 +0530  
 **Severity:** Low  
 **Categories:** Malware, Phishing  
-
----
-
-### 10. [Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction](https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 04 Nov 2026 13:16:15 +0530  
-**Severity:** Critical  
-**Categories:** Vulnerability  
 
 ---
 
@@ -109,7 +109,7 @@
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Nov 2026 15:58:19 -0500  
 **Severity:** Critical  
-**CVEs:** CVE-2026-107441, CVE-2026-7273  
+**CVEs:** CVE-2026-7273, CVE-2026-107441  
 **Categories:** Vulnerability  
 
 ---
@@ -164,7 +164,7 @@
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Nov 2026 09:42:25 -0500  
 **Severity:** High  
-**CVEs:** CVE-2026-109594, CVE-2026-109593  
+**CVEs:** CVE-2026-109593, CVE-2026-109594  
 **Categories:** Vulnerability  
 
 ---
@@ -188,7 +188,16 @@
 
 ---
 
-### 21. [Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies](https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/)
+### 21. [Want to Rent an Internet Address at the White House?](https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/)
+
+**Source:** Krebs On Security  
+**Published:** Thu, 05 Nov 2026 04:36:17 +0000  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 22. [Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies](https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 03 Nov 2026 02:24:31 +0000  
@@ -197,7 +206,7 @@
 
 ---
 
-### 22. [Widespread PHP Flaw May Cause Many Site Outages Today](https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/)
+### 23. [Widespread PHP Flaw May Cause Many Site Outages Today](https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 21 Oct 2026 15:26:07 +0000  
@@ -206,7 +215,7 @@
 
 ---
 
-### 23. [Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
+### 24. [Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 19 Oct 2026 13:48:56 +0000  
@@ -215,7 +224,7 @@
 
 ---
 
-### 24. [U.K. Sanctions Cryptomus for RU Money Laundering](https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/)
+### 25. [U.K. Sanctions Cryptomus for RU Money Laundering](https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Oct 2026 14:22:49 +0000  
@@ -224,7 +233,7 @@
 
 ---
 
-### 25. [Microsoft Patches More Than 1,400 Security Flaws](https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/)
+### 26. [Microsoft Patches More Than 1,400 Security Flaws](https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 13 Oct 2026 23:24:53 +0000  
@@ -234,7 +243,7 @@
 
 ---
 
-### 26. [FBI Arrests Executive at Ransomware Negotiation Firm](https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/)
+### 27. [FBI Arrests Executive at Ransomware Negotiation Firm](https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/)
 
 **Source:** Krebs On Security  
 **Published:** Sat, 10 Oct 2026 00:17:42 +0000  
@@ -243,7 +252,7 @@
 
 ---
 
-### 27. [ShinyHunters Extorted Boeing Spin-off Prior to Arrests](https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/)
+### 28. [ShinyHunters Extorted Boeing Spin-off Prior to Arrests](https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 07 Oct 2026 13:48:45 +0000  
@@ -253,7 +262,7 @@
 
 ---
 
-### 28. [Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation](https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/)
+### 29. [Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation](https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 28 Sep 2026 15:08:57 +0000  
@@ -262,21 +271,12 @@
 
 ---
 
-### 29. [U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions](https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/)
+### 30. [U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions](https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/)
 
 **Source:** Krebs On Security  
 **Published:** Fri, 25 Sep 2026 21:44:40 +0000  
 **Severity:** Low  
 **Categories:** Data Breach, Malware, DDoS  
-
----
-
-### 30. [Data Broker Radaris Loses Domains in Privacy Fight](https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/)
-
-**Source:** Krebs On Security  
-**Published:** Wed, 16 Sep 2026 18:14:22 +0000  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -294,7 +294,7 @@
 **Source:** Security Week  
 **Published:** Wed, 04 Nov 2026 14:24:54 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-116606, CVE-2026-111560, CVE-2023-2868  
+**CVEs:** CVE-2026-111560, CVE-2023-2868, CVE-2026-116606  
 **Categories:** Vulnerability  
 
 ---
@@ -450,7 +450,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 21 Oct 2026 15:10:53 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109618, CVE-2026-109619  
+**CVEs:** CVE-2026-109619, CVE-2026-109618  
 **Categories:** Ransomware, Vulnerability  
 
 ---
@@ -634,7 +634,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -784,7 +784,7 @@
 
 ---
 
-### 86. [CrowdStrike Secures AI Agents Inside Claude Cowork](https://www.crowdstrike.com/en-us/blog/crowdstrike-secures-ai-agents-inside-claude-cowork/)
+### 86. [Introducing AI Kill Switch: Taking Control When AI Agents Go Rogue](https://www.crowdstrike.com/en-us/blog/crowdstrike-introduces-ai-kill-switch/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Nov 03, 2026 00:00:00-0800  
@@ -793,7 +793,7 @@
 
 ---
 
-### 87. [Introducing AI Kill Switch: Taking Control When AI Agents Go Rogue](https://www.crowdstrike.com/en-us/blog/crowdstrike-introduces-ai-kill-switch/)
+### 87. [CrowdStrike Secures AI Agents Inside Claude Cowork](https://www.crowdstrike.com/en-us/blog/crowdstrike-secures-ai-agents-inside-claude-cowork/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Nov 03, 2026 00:00:00-0800  

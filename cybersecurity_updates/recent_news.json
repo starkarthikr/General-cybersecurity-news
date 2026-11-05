@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+    "link": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
+    "published": "Thu, 05 Nov 2026 10:01:16 +0530",
+    "summary": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs.\n\n\"Our prototype identified and analyzed 2,308 candidate Linux kernel findings, dynamically reproduced 1,724 vulnerabilities, and produced 948 local privilege escalation (LPE)",
+    "analysis": {
+      "issue": "OpenAI's AI pipeline reproduced 1,724 Linux vulnerabilities and generated 948 working local privilege escalation exploits for $1",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
     "link": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
     "published": "Wed, 04 Nov 2026 22:30:46 +0530",
@@ -61,7 +79,7 @@
     "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
     "link": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
     "published": "Wed, 04 Nov 2026 19:57:52 +0530",
-    "summary": "The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytics service called Plerdy SEO Tracker.\n\n\"The injected JavaScript code collects browser and device attributes,\" Sekoia researchers Amaury-Jacques Garçon and",
+    "summary": "The Russia-linked threat actor known as APT29 is presumed to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytics service called Plerdy SEO Tracker.\n\n\"The injected JavaScript code collects browser and device attributes,\" Sekoia researchers Amaury-Jacques Garçon and",
     "analysis": {
       "issue": "APT29-linked attackers use compromised sites and Plerdy analytics to deliver iOS and Android exploits that steal browser and device data",
       "solution": null,
@@ -167,24 +185,6 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
-    "link": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
-    "published": "Wed, 04 Nov 2026 13:16:15 +0530",
-    "summary": "A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its&nbsp;November security bulletin.\n\nThe flaw, CVE-2026-58868, affects Android 14 through 17. Phones get the fix with security patch level 2026-11-01 or later, which phone makers and carriers send on their own schedules.\n\nAs of November 4, Google's bulletin did not report",
-    "analysis": {
-      "issue": "Google fixes 216 Android flaws, including 23 Critical bugs and a remote code execution vulnerability requiring no user interaction",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
     "title": "Vercel rolls out new protection against stolen session cookie attacks",
     "link": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
@@ -216,8 +216,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-107441",
-        "CVE-2026-7273"
+        "CVE-2026-7273",
+        "CVE-2026-107441"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -330,8 +330,8 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-109594",
-        "CVE-2026-109593"
+        "CVE-2026-109593",
+        "CVE-2026-109594"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -374,6 +374,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "Want to Rent an Internet Address at the White House?",
+    "link": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
+    "published": "Thu, 05 Nov 2026 04:36:17 +0000",
+    "summary": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder's web hosting business was ground zero for cyberattacks against election systems in Arizona and Illinois in 2016.",
+    "analysis": {
+      "issue": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -551,24 +569,6 @@
     }
   },
   {
-    "source": "Krebs On Security",
-    "title": "Data Broker Radaris Loses Domains in Privacy Fight",
-    "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
-    "published": "Wed, 16 Sep 2026 18:14:22 +0000",
-    "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines against data brokers that publish personal information on state law enforcement officials. In the face of repeated stonewalling and prevarication by attorneys for Radaris, the judge in the case ordered that radaris.com and more than a dozen other data broker domains be transferred to the plaintiffs.",
-    "analysis": {
-      "issue": "The consumer data broker Radaris",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Security Week",
     "title": "Sysdig Adds Runtime Security and Governance for AI Agents",
     "link": "https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/",
@@ -599,9 +599,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-116606",
         "CVE-2026-111560",
-        "CVE-2023-2868"
+        "CVE-2023-2868",
+        "CVE-2026-116606"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -925,8 +925,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109618",
-        "CVE-2026-109619"
+        "CVE-2026-109619",
+        "CVE-2026-109618"
       ],
       "threat_categories": [
         "Ransomware",
@@ -1299,8 +1299,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1605,12 +1605,12 @@
   },
   {
     "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Secures AI Agents Inside Claude Cowork",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-secures-ai-agents-inside-claude-cowork/",
+    "title": "Introducing AI Kill Switch: Taking Control When AI Agents Go Rogue",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-introduces-ai-kill-switch/",
     "published": "Nov 03, 2026 00:00:00-0800",
     "summary": "",
     "analysis": {
-      "issue": "CrowdStrike announced it is bringing Falcon Guardian protection natively into Anthropic's Claude Cowork",
+      "issue": "CrowdStrike debuts AI Kill Switch to deliver quick control over AI model access and lay the foundation for coordinated agent containment across the Falcon platform",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1623,12 +1623,12 @@
   },
   {
     "source": "Crowdstrike Blog",
-    "title": "Introducing AI Kill Switch: Taking Control When AI Agents Go Rogue",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-introduces-ai-kill-switch/",
+    "title": "CrowdStrike Secures AI Agents Inside Claude Cowork",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-secures-ai-agents-inside-claude-cowork/",
     "published": "Nov 03, 2026 00:00:00-0800",
     "summary": "",
     "analysis": {
-      "issue": "CrowdStrike debuts AI Kill Switch to deliver quick control over AI model access and lay the foundation for coordinated agent containment across the Falcon platform",
+      "issue": "CrowdStrike announced it is bringing Falcon Guardian protection natively into Anthropic's Claude Cowork",
       "solution": null,
       "cause": null,
       "timeline": null,
