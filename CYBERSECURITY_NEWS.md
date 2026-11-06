@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-06 05:57:29 UTC
+**Last Updated:** 2026-11-06 07:10:51 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux](https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html)
+### 1. [Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs](https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 06 Nov 2026 11:28:54 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 2. [Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login](https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 06 Nov 2026 11:09:10 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux](https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 05 Nov 2026 22:12:46 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction](https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html)
+### 4. [Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction](https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 05 Nov 2026 22:12:32 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories](https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html)
+### 5. [ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories](https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 05 Nov 2026 20:11:10 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out](https://thehackernews.com/2026/11/is-your-exposure-management-platform.html)
+### 6. [Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out](https://thehackernews.com/2026/11/is-your-exposure-management-platform.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 05 Nov 2026 17:55:00 +0530  
@@ -40,7 +58,7 @@
 
 ---
 
-### 5. [OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run](https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html)
+### 7. [OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run](https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 05 Nov 2026 17:38:54 +0530  
@@ -49,7 +67,7 @@
 
 ---
 
-### 6. [5 Active Cyber Threats That Put US Enterprises at Risk in October 2026](https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html)
+### 8. [5 Active Cyber Threats That Put US Enterprises at Risk in October 2026](https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 05 Nov 2026 15:36:19 +0530  
@@ -58,7 +76,7 @@
 
 ---
 
-### 7. [Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content](https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html)
+### 9. [Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content](https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 05 Nov 2026 14:43:28 +0530  
@@ -67,31 +85,12 @@
 
 ---
 
-### 8. [CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access](https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html)
+### 10. [CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access](https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 05 Nov 2026 14:12:03 +0530  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 9. [Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution](https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 05 Nov 2026 12:36:33 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 10. [Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says](https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 05 Nov 2026 10:47:04 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2024-27834  
-**Categories:** Vulnerability, Malware  
 
 ---
 
@@ -319,7 +318,7 @@
 **Source:** Security Week  
 **Published:** Thu, 05 Nov 2026 12:33:49 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-98432, CVE-2026-121639, CVE-2026-111497, CVE-2026-109593, CVE-2026-121640, CVE-2026-76506, CVE-2026-121638, CVE-2026-121637, CVE-2026-109594  
+**CVEs:** CVE-2026-76506, CVE-2026-121640, CVE-2026-121639, CVE-2026-109594, CVE-2026-111497, CVE-2026-98432, CVE-2026-109593, CVE-2026-121638, CVE-2026-121637  
 **Categories:** Vulnerability  
 
 ---
@@ -459,7 +458,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 21 Oct 2026 15:10:53 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109619, CVE-2026-109618  
+**CVEs:** CVE-2026-109618, CVE-2026-109619  
 **Categories:** Ransomware, Vulnerability  
 
 ---

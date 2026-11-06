@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
+    "link": "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
+    "published": "Fri, 06 Nov 2026 11:28:54 +0530",
+    "summary": "A backdoor has been found hiding in the web server that runs Control Web Panel (CWP), a free panel for managing Linux hosting servers, researchers at QiAnXin's XLab said this week.\n\nThe backdoored web server executes commands that attackers send via web requests, and those requests never appear in its access logs. Installing it takes root access, so the attackers must already control the server.",
+    "analysis": {
+      "issue": "CWPdoor replaces Control Web Panel's web server after root access, enabling command execution through requests hidden from access logs",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login",
+    "link": "https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html",
+    "published": "Fri, 06 Nov 2026 11:09:10 +0530",
+    "summary": "Two flaws in Barracuda's Email Security Gateway, an email-filtering appliance, can be chained to run commands on it as root, its highest level of access, with no login required.\n\nThe company released patches on Monday, and the security firm watchTowr detailed the attack chain on Thursday.\n\nOne flaw, CVE-2026-116606, is an authorization bypass. An unauthenticated attacker can use it to restore a",
+    "analysis": {
+      "issue": "Two patched Barracuda Email Security Gateway flaws can be chained to execute root commands without authentication, watchTowr demonstrated",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
     "link": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
     "published": "Thu, 05 Nov 2026 22:12:46 +0530",
@@ -140,45 +176,6 @@
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
-    "link": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
-    "published": "Thu, 05 Nov 2026 12:36:33 +0530",
-    "summary": "Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found.\n\nThe exploit lets anyone who can reach a switch's web management interface run commands on it without logging in. Zyxel has released new firmware for 10 GS1900 models that closes the hole.\n\nThe earlier fix is the 2.90",
-    "analysis": {
-      "issue": "Zyxel fixes a GS1900 flaw that allows unauthenticated command execution after researchers show an earlier patch fails to block the exploit",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
-    "link": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
-    "published": "Thu, 05 Nov 2026 10:47:04 +0530",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation.\n\nThe vulnerability in question is CVE-2024-27834 (CVSS score: 5.5), a case of improper authentication that could allow an attacker with",
-    "analysis": {
-      "issue": "CISA adds Apple CVE-2024-27834 to its KEV catalog after reports of active exploitation involving a pointer authentication bypass",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2024-27834"
-      ],
-      "threat_categories": [
-        "Vulnerability",
         "Malware"
       ]
     }
@@ -651,15 +648,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-98432",
-        "CVE-2026-121639",
-        "CVE-2026-111497",
-        "CVE-2026-109593",
-        "CVE-2026-121640",
         "CVE-2026-76506",
+        "CVE-2026-121640",
+        "CVE-2026-121639",
+        "CVE-2026-109594",
+        "CVE-2026-111497",
+        "CVE-2026-98432",
+        "CVE-2026-109593",
         "CVE-2026-121638",
-        "CVE-2026-121637",
-        "CVE-2026-109594"
+        "CVE-2026-121637"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -953,8 +950,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109619",
-        "CVE-2026-109618"
+        "CVE-2026-109618",
+        "CVE-2026-109619"
       ],
       "threat_categories": [
         "Ransomware",
