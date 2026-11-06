@@ -187,6 +187,24 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+    "link": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
+    "published": "Fri, 06 Nov 2026 15:24:19 -0500",
+    "summary": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [...]",
+    "analysis": {
+      "issue": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Fake security tools on GitHub push backdoors and infostealers",
     "link": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
     "published": "Fri, 06 Nov 2026 13:46:52 -0500",
@@ -218,8 +236,8 @@
       "cves": [
         "CVE-2026-96652",
         "CVE-2026-96656",
-        "CVE-2026-96655",
-        "CVE-2026-96654"
+        "CVE-2026-96654",
+        "CVE-2026-96655"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -350,24 +368,6 @@
       "threat_categories": [
         "Phishing",
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
-    "link": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
-    "published": "Thu, 05 Nov 2026 15:15:08 -0500",
-    "summary": "Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed secrets that remain valid. [...]",
-    "analysis": {
-      "issue": "Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
       ]
     }
   },
@@ -593,8 +593,8 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2024-58351",
-        "CVE-2026-40217"
+        "CVE-2026-40217",
+        "CVE-2024-58351"
       ],
       "threat_categories": [
         "Ransomware",
@@ -940,8 +940,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109619",
-        "CVE-2026-109618"
+        "CVE-2026-109618",
+        "CVE-2026-109619"
       ],
       "threat_categories": [
         "Ransomware",

@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-06 19:08:34 UTC
+**Last Updated:** 2026-11-06 21:42:36 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -97,7 +97,16 @@
 
 ---
 
-### 11. [Fake security tools on GitHub push backdoors and infostealers](https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/)
+### 11. [OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs](https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 06 Nov 2026 15:24:19 -0500  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [Fake security tools on GitHub push backdoors and infostealers](https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Nov 2026 13:46:52 -0500  
@@ -106,17 +115,17 @@
 
 ---
 
-### 12. [QNAP says hackers breaching NAS devices in Plex2Shell attacks](https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/)
+### 13. [QNAP says hackers breaching NAS devices in Plex2Shell attacks](https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Nov 2026 12:04:23 -0500  
 **Severity:** Low  
-**CVEs:** CVE-2026-96652, CVE-2026-96656, CVE-2026-96655, CVE-2026-96654  
+**CVEs:** CVE-2026-96652, CVE-2026-96656, CVE-2026-96654, CVE-2026-96655  
 **Categories:** Vulnerability  
 
 ---
 
-### 13. [Veeam warns of Software Appliance boot failures on AMD EPYC hosts](https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/)
+### 14. [Veeam warns of Software Appliance boot failures on AMD EPYC hosts](https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Nov 2026 10:25:31 -0500  
@@ -125,7 +134,7 @@
 
 ---
 
-### 14. [IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It](https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/)
+### 15. [IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It](https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Nov 2026 10:00:10 -0500  
@@ -134,7 +143,7 @@
 
 ---
 
-### 15. [Chainalysis says breach exposed credentials for all customers](https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/)
+### 16. [Chainalysis says breach exposed credentials for all customers](https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Nov 2026 09:17:07 -0500  
@@ -143,7 +152,7 @@
 
 ---
 
-### 16. [D-Link warns of multiple zero-days in DGS-3130 Series switches](https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/)
+### 17. [D-Link warns of multiple zero-days in DGS-3130 Series switches](https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Nov 2026 07:37:22 -0500  
@@ -152,7 +161,7 @@
 
 ---
 
-### 17. [MetaMask says recent attack didn't affect wallet infrastructure](https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/)
+### 18. [MetaMask says recent attack didn't affect wallet infrastructure](https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Nov 2026 04:22:28 -0500  
@@ -161,7 +170,7 @@
 
 ---
 
-### 18. [FBI, CISA warn of cyberattacks targeting refrigeration systems](https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/)
+### 19. [FBI, CISA warn of cyberattacks targeting refrigeration systems](https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Nov 2026 19:56:44 -0500  
@@ -170,21 +179,12 @@
 
 ---
 
-### 19. [Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts](https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/)
+### 20. [Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts](https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Nov 2026 16:30:30 -0500  
 **Severity:** Low  
 **Categories:** Phishing, APT  
-
----
-
-### 20. [Nearly 1.5 million exposed secrets targeted in new revocation program](https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 05 Nov 2026 15:15:08 -0500  
-**Severity:** Low  
-**Categories:** Data Breach  
 
 ---
 
@@ -294,7 +294,7 @@
 **Source:** Security Week  
 **Published:** Fri, 06 Nov 2026 14:40:09 +0000  
 **Severity:** High  
-**CVEs:** CVE-2024-58351, CVE-2026-40217  
+**CVEs:** CVE-2026-40217, CVE-2024-58351  
 **Categories:** Ransomware, Vulnerability, Phishing, APT  
 
 ---
@@ -460,7 +460,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 21 Oct 2026 15:10:53 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109619, CVE-2026-109618  
+**CVEs:** CVE-2026-109618, CVE-2026-109619  
 **Categories:** Ransomware, Vulnerability  
 
 ---
