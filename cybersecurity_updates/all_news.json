@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
+    "link": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
+    "published": "Thu, 05 Nov 2026 22:12:46 +0530",
+    "summary": "Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package. They need network access to the server, an account name, and a password between 257 and 1,024 bytes long.\n\nOpenSSH, which rates the flaw critical, released version 10.6p2 today to block it. Alpine has published fixed packages for every",
+    "analysis": {
+      "issue": "6p2 fixes a critical password bypass allowing access to key-only accounts on affected Alpine Linux servers using long passwords",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
+    "link": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
+    "published": "Thu, 05 Nov 2026 22:12:32 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT.\n\nLockdown Mode was introduced by the artificial intelligence (AI) company in June 2026 as an optional setting to minimize data exfiltration risks arising from prompt injections.\n\n\"The flaw could enable silent chat data theft, phishing,",
+    "analysis": {
+      "issue": "A patched ChatGPT HTML preview flaw let crafted content bypass Lockdown Mode restrictions, enabling chat data exfiltration",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
     "link": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
     "published": "Thu, 05 Nov 2026 20:11:10 +0530",
@@ -148,41 +184,57 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
-    "link": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
-    "published": "Wed, 04 Nov 2026 22:30:46 +0530",
-    "summary": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own.\n\nThe attacker's code then runs as root, according to advisories that&nbsp;Debian,&nbsp;Ubuntu, and&nbsp;APT's developers&nbsp;published on November 4. The attack needs APT to retry failed downloads, which it does by default from Debian 12 and",
+    "source": "Bleeping Computer",
+    "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
+    "published": "Thu, 05 Nov 2026 19:56:44 -0500",
+    "summary": "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [...]",
     "analysis": {
-      "issue": "APT flaw CVE-2026-109518 lets attackers with HTTP traffic control replace verified packages and execute code as root when downloads retry",
+      "issue": "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-109518"
-      ],
+      "severity": "Critical",
+      "cves": [],
       "threat_categories": [
-        "Vulnerability",
-        "APT"
+        "Vulnerability"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
-    "link": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
-    "published": "Wed, 04 Nov 2026 22:30:38 +0530",
-    "summary": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched.\n\nDetails of the security flaws, which affect SonicWall GMS 9.5.2 and earlier versions, are below -\n\n\n  CVE-2026-109593 (CVSS score: 9.1) - An unauthenticated file read vulnerability that could allow an attacker with network access to read internal GMS files,",
+    "source": "Bleeping Computer",
+    "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
+    "published": "Thu, 05 Nov 2026 16:30:30 -0500",
+    "summary": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and authentication sessions. [...]",
     "analysis": {
-      "issue": "SonicWall warns two flaws in end-of-life GMS 9",
+      "issue": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and authentication sessions",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Phishing",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
+    "link": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
+    "published": "Thu, 05 Nov 2026 15:15:08 -0500",
+    "summary": "Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed secrets that remain valid. [...]",
+    "analysis": {
+      "issue": "Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
       ]
     }
   },
@@ -314,65 +366,6 @@
       "threat_categories": [
         "Malware",
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
-    "link": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
-    "published": "Wed, 04 Nov 2026 15:58:19 -0500",
-    "summary": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]",
-    "analysis": {
-      "issue": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-107441",
-        "CVE-2026-7273"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
-    "link": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
-    "published": "Wed, 04 Nov 2026 14:05:19 -0500",
-    "summary": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]",
-    "analysis": {
-      "issue": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Cyberattack disrupts blood storage refrigeration systems in France",
-    "link": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
-    "published": "Wed, 04 Nov 2026 13:02:56 -0500",
-    "summary": "France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored blood products. [...]",
-    "analysis": {
-      "issue": "France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored blood products",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
       ]
     }
   },
@@ -569,6 +562,27 @@
   },
   {
     "source": "Security Week",
+    "title": "3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million",
+    "link": "https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
+    "published": "Fri, 06 Nov 2026 03:03:29 +0000",
+    "summary": "<p>The trio, who have nicknames that include “Rocky Balboa,” “Superman Cash” and “Fat Boy,” often targeted the companies’ accounting departments. </p>\n<p>The post <a href=\"https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/\">3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The trio, who have nicknames that include “Rocky Balboa,” “Superman Cash” and “Fat Boy,” often targeted the companies’ accounting departments",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Phishing",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research",
     "link": "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/",
     "published": "Thu, 05 Nov 2026 17:32:37 +0000",
@@ -637,15 +651,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-76506",
-        "CVE-2026-109593",
         "CVE-2026-98432",
-        "CVE-2026-111497",
         "CVE-2026-121639",
-        "CVE-2026-109594",
-        "CVE-2026-121638",
+        "CVE-2026-111497",
+        "CVE-2026-109593",
         "CVE-2026-121640",
-        "CVE-2026-121637"
+        "CVE-2026-76506",
+        "CVE-2026-121638",
+        "CVE-2026-121637",
+        "CVE-2026-109594"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -702,8 +716,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-107441",
-        "CVE-2026-7273"
+        "CVE-2026-7273",
+        "CVE-2026-107441"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -752,24 +766,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Sysdig Adds Runtime Security and Governance for AI Agents",
-    "link": "https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/",
-    "published": "Wed, 04 Nov 2026 14:34:44 +0000",
-    "summary": "<p>Sysdig’s platform uses runtime visibility to track AI agent actions and block risky behavior before it reaches production systems.</p>\n<p>The post <a href=\"https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/\">Sysdig Adds Runtime Security and Governance for AI Agents</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Sysdig’s platform uses runtime visibility to track AI agent actions and block risky behavior before it reaches production systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "APT"
       ]
     }
   },
@@ -1344,6 +1340,62 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Phone return scams: where a real delivery and a fake return end up in a bill for you",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/11/phone-return-scams-where-a-real-delivery-and-a-fake-return-end-up-in-a-bill-for-you",
+    "published": "Thu, 05 Nov 2026 22:18:22 GMT",
+    "summary": "Phone return scams are part of a very convincing social engineering method where the criminals gets a phone and you get billed.",
+    "analysis": {
+      "issue": "A caller offers you a free phone upgrade or an exclusive deal from your mobile provider",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "NIKKE PC launcher compromise put players’ passwords and personal files at risk",
+    "link": "https://www.malwarebytes.com/blog/news/2026/11/nikke-pc-launcher-compromise-put-players-passwords-and-personal-files-at-risk",
+    "published": "Thu, 05 Nov 2026 22:06:59 GMT",
+    "summary": "Players of Goddess of Victory: NIKKE are being urged to check their PCs after attackers tampered with files used by the game’s Windows launcher.",
+    "analysis": {
+      "issue": "Players of Goddess of Victory: NIKKE are being urged to check their PCs after attackers tampered with files used by the game’s Windows launcher",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Scammers use AI-generated images of missing pets to extort owners",
+    "link": "https://www.malwarebytes.com/blog/ai/2026/11/scammers-use-ai-generated-images-of-missing-pets-to-extort-owners",
+    "published": "Thu, 05 Nov 2026 21:34:14 GMT",
+    "summary": "Scammers are using AI images to enhance their \"I've found your missing pet and want money to return it to you\" schemes.",
+    "analysis": {
+      "issue": "When your pet goes missing, it can be totally heartbreaking",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Vizio, Samsung smart TVs seem to ignore tracking opt outs",
     "link": "https://www.malwarebytes.com/blog/news/2026/11/vizio-samsung-smart-tvs-seem-to-ignore-tracking-opt-outs",
     "published": "Thu, 05 Nov 2026 12:10:50 GMT",
@@ -1469,61 +1521,6 @@
         "Data Breach",
         "Phishing",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "5 stars for sale: Inside the underground fake review trade",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/11/5-stars-for-sale-inside-the-underground-fake-review-trade",
-    "published": "Mon, 02 Nov 2026 14:24:43 GMT",
-    "summary": "Underground sellers offer five-star reviews and charge up to $1,100 to make negative feedback disappear.",
-    "analysis": {
-      "issue": "Recently, our team exposed sophisticated scam kits designed to steal sensitive data and trick consumers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Applebee’s customer data exposed by password left in app",
-    "link": "https://www.malwarebytes.com/blog/news/2026/11/applebees-customer-data-exposed-by-password-left-in-app",
-    "published": "Mon, 02 Nov 2026 14:22:43 GMT",
-    "summary": "A researcher found an embedded password in Applebee’s app that exposed customer data.",
-    "analysis": {
-      "issue": "Applebee’s has fixed a security flaw that exposed customers’ personal information after a researcher discovered a database password embedded in the restaurant chain’s Android app",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "A week in security (October 26 – November 1)",
-    "link": "https://www.malwarebytes.com/blog/news/2026/11/a-week-in-security-october-26-november-1-2",
-    "published": "Mon, 02 Nov 2026 08:01:00 GMT",
-    "summary": "A list of topics we covered in the week of October 26 to November 1 of 2026",
-    "analysis": {
-      "issue": "Last week on Malwarebytes Labs: Stay safe",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
       ]
     }
   },
