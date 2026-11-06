@@ -1,10 +1,47 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-06 07:10:51 UTC
+**Last Updated:** 2026-11-06 16:07:57 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs](https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html)
+### 1. [Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It](https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 06 Nov 2026 17:36:43 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-83844  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers](https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 06 Nov 2026 17:36:35 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [The Flood is Coming And The Pipes Were Already Full](https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 06 Nov 2026 17:00:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 4. [Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services](https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 06 Nov 2026 13:34:49 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 5. [Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs](https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Nov 2026 11:28:54 +0530  
@@ -13,7 +50,7 @@
 
 ---
 
-### 2. [Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login](https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html)
+### 6. [Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login](https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Nov 2026 11:09:10 +0530  
@@ -22,7 +59,7 @@
 
 ---
 
-### 3. [OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux](https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html)
+### 7. [OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux](https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 05 Nov 2026 22:12:46 +0530  
@@ -31,7 +68,7 @@
 
 ---
 
-### 4. [Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction](https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html)
+### 8. [Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction](https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 05 Nov 2026 22:12:32 +0530  
@@ -40,7 +77,7 @@
 
 ---
 
-### 5. [ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories](https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html)
+### 9. [ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories](https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 05 Nov 2026 20:11:10 +0530  
@@ -49,7 +86,7 @@
 
 ---
 
-### 6. [Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out](https://thehackernews.com/2026/11/is-your-exposure-management-platform.html)
+### 10. [Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out](https://thehackernews.com/2026/11/is-your-exposure-management-platform.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 05 Nov 2026 17:55:00 +0530  
@@ -58,43 +95,52 @@
 
 ---
 
-### 7. [OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run](https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html)
+### 11. [Veeam warns of Software Appliance boot failures on AMD EPYC hosts](https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 05 Nov 2026 17:38:54 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 8. [5 Active Cyber Threats That Put US Enterprises at Risk in October 2026](https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 05 Nov 2026 15:36:19 +0530  
-**Severity:** Low  
-**Categories:** Malware, Phishing  
-
----
-
-### 9. [Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content](https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 05 Nov 2026 14:43:28 +0530  
+**Source:** Bleeping Computer  
+**Published:** Fri, 06 Nov 2026 10:25:31 -0500  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 10. [CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access](https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html)
+### 12. [IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It](https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 05 Nov 2026 14:12:03 +0530  
+**Source:** Bleeping Computer  
+**Published:** Fri, 06 Nov 2026 10:00:10 -0500  
 **Severity:** Low  
-**Categories:** Malware  
+**Categories:** Phishing  
 
 ---
 
-### 11. [FBI, CISA warn of cyberattacks targeting refrigeration systems](https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/)
+### 13. [Chainalysis says breach exposed credentials for all customers](https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 06 Nov 2026 09:17:07 -0500  
+**Severity:** Low  
+**Categories:** Ransomware  
+
+---
+
+### 14. [D-Link warns of multiple zero-days in DGS-3130 Series switches](https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 06 Nov 2026 07:37:22 -0500  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 15. [MetaMask says recent attack didn't affect wallet infrastructure](https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 06 Nov 2026 04:22:28 -0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 16. [FBI, CISA warn of cyberattacks targeting refrigeration systems](https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Nov 2026 19:56:44 -0500  
@@ -103,7 +149,7 @@
 
 ---
 
-### 12. [Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts](https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/)
+### 17. [Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts](https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Nov 2026 16:30:30 -0500  
@@ -112,7 +158,7 @@
 
 ---
 
-### 13. [Nearly 1.5 million exposed secrets targeted in new revocation program](https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/)
+### 18. [Nearly 1.5 million exposed secrets targeted in new revocation program](https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Nov 2026 15:15:08 -0500  
@@ -121,7 +167,7 @@
 
 ---
 
-### 14. [OpenAI’s GPT-6 Astra silently obstructed safety research tasks](https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/)
+### 19. [OpenAI’s GPT-6 Astra silently obstructed safety research tasks](https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Nov 2026 14:24:26 -0500  
@@ -130,58 +176,13 @@
 
 ---
 
-### 15. [OpenSSH flaw lets attackers log into password-disabled Linux accounts](https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/)
+### 20. [OpenSSH flaw lets attackers log into password-disabled Linux accounts](https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Nov 2026 12:45:29 -0500  
 **Severity:** Low  
 **CVEs:** CVE-2016-6210  
 **Categories:** Vulnerability  
-
----
-
-### 16. [Hackers backdoor Linux servers using trojanized CWP web server](https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 05 Nov 2026 11:24:26 -0500  
-**Severity:** Low  
-**Categories:** Malware, APT  
-
----
-
-### 17. [DigiCert data breach exposes customer information, identity documents](https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 05 Nov 2026 11:12:46 -0500  
-**Severity:** Low  
-**Categories:** Data Breach  
-
----
-
-### 18. [Closing the Identity Gap at the Service Desk](https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 05 Nov 2026 10:00:10 -0500  
-**Severity:** Low  
-**Categories:** Data Breach  
-
----
-
-### 19. [GhostMap Android flaw lets malicious app trigger persistent boot loop](https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 05 Nov 2026 04:18:29 -0500  
-**Severity:** Low  
-**Categories:** Vulnerability, Malware  
-
----
-
-### 20. [Vercel rolls out new protection against stolen session cookie attacks](https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 04 Nov 2026 16:31:18 -0500  
-**Severity:** Low  
-**Categories:** Malware, APT  
 
 ---
 
@@ -235,7 +236,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 13 Oct 2026 23:24:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-96951, CVE-2026-108398  
+**CVEs:** CVE-2026-108398, CVE-2026-96951  
 **Categories:** Vulnerability  
 
 ---
@@ -277,7 +278,81 @@
 
 ---
 
-### 31. [3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million](https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/)
+### 31. [In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days](https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/)
+
+**Source:** Security Week  
+**Published:** Fri, 06 Nov 2026 14:40:09 +0000  
+**Severity:** High  
+**CVEs:** CVE-2024-58351, CVE-2026-40217  
+**Categories:** Ransomware, Vulnerability, Phishing, APT  
+
+---
+
+### 32. [DigiCert Data Breach Impacts Business Customer Information](https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/)
+
+**Source:** Security Week  
+**Published:** Fri, 06 Nov 2026 14:00:07 +0000  
+**Severity:** Low  
+**Categories:** Data Breach, Supply Chain  
+
+---
+
+### 33. [OpenAI Says New GPT-6 Cyber Model Hunts Flaws Without Crossing the Line](https://www.securityweek.com/openai-says-new-gpt-6-cyber-model-hunts-flaws-without-crossing-the-line/)
+
+**Source:** Security Week  
+**Published:** Fri, 06 Nov 2026 13:19:52 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 34. [US Agencies Urge Organizations to Harden Refrigeration Controllers](https://www.securityweek.com/us-agencies-urge-organizations-to-harden-refrigeration-controllers/)
+
+**Source:** Security Week  
+**Published:** Fri, 06 Nov 2026 13:02:26 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, Phishing  
+
+---
+
+### 35. [Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack](https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/)
+
+**Source:** Security Week  
+**Published:** Fri, 06 Nov 2026 12:47:55 +0000  
+**Severity:** High  
+**Categories:** Ransomware, Data Breach  
+
+---
+
+### 36. [Researchers Find Residential Proxies on White House Network](https://www.securityweek.com/researchers-find-residential-proxies-on-white-house-network/)
+
+**Source:** Security Week  
+**Published:** Fri, 06 Nov 2026 12:16:13 +0000  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 37. [OpenSSH Rushes Patches for ‘SSHole’ Authentication Bypass](https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/)
+
+**Source:** Security Week  
+**Published:** Fri, 06 Nov 2026 12:07:42 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-123158  
+**Categories:** Vulnerability  
+
+---
+
+### 38. [OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions](https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/)
+
+**Source:** Security Week  
+**Published:** Fri, 06 Nov 2026 09:33:51 +0000  
+**Severity:** High  
+**Categories:** Vulnerability  
+
+---
+
+### 39. [3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million](https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Nov 2026 03:03:29 +0000  
@@ -286,87 +361,12 @@
 
 ---
 
-### 32. [AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research](https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/)
+### 40. [AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research](https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/)
 
 **Source:** Security Week  
 **Published:** Thu, 05 Nov 2026 17:32:37 +0000  
 **Severity:** Critical  
 **Categories:** Vulnerability, APT  
-
----
-
-### 33. [Bank Phishing Sites Show Fake ‘Suspended’ Pages to Evade Takedowns](https://www.securityweek.com/bank-phishing-sites-show-fake-suspended-pages-to-evade-takedowns/)
-
-**Source:** Security Week  
-**Published:** Thu, 05 Nov 2026 13:22:12 +0000  
-**Severity:** Low  
-**Categories:** Phishing, APT  
-
----
-
-### 34. [Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised](https://www.securityweek.com/cyberattack-hits-french-blood-bank-site-but-no-blood-products-are-compromised/)
-
-**Source:** Security Week  
-**Published:** Thu, 05 Nov 2026 12:58:32 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, Supply Chain  
-
----
-
-### 35. [Cisco, WatchGuard Release Patches; SonicWall Won’t Fix GMS Flaws](https://www.securityweek.com/cisco-watchguard-release-patches-sonicwall-wont-fix-gms-flaws/)
-
-**Source:** Security Week  
-**Published:** Thu, 05 Nov 2026 12:33:49 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-76506, CVE-2026-121640, CVE-2026-121639, CVE-2026-109594, CVE-2026-111497, CVE-2026-98432, CVE-2026-109593, CVE-2026-121638, CVE-2026-121637  
-**Categories:** Vulnerability  
-
----
-
-### 36. [The Agent Smith Dilemma: Governing Agentic Identities](https://www.securityweek.com/the-agent-smith-dilemma-governing-agentic-identities/)
-
-**Source:** Security Week  
-**Published:** Thu, 05 Nov 2026 11:15:00 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, APT  
-
----
-
-### 37. [CISO Conversations: Ryan Davis – The Unknown Is Where Security Meets Reality](https://www.securityweek.com/ciso-conversations-ryan-davis-the-unknown-is-where-security-meets-reality/)
-
-**Source:** Security Week  
-**Published:** Thu, 05 Nov 2026 11:00:00 +0000  
-**Severity:** Critical  
-**Categories:** General Security  
-
----
-
-### 38. [Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day](https://www.securityweek.com/zyxel-switch-hacks-blamed-on-patched-flaw-actually-exploited-a-zero-day/)
-
-**Source:** Security Week  
-**Published:** Thu, 05 Nov 2026 10:56:41 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-7273, CVE-2026-107441  
-**Categories:** Vulnerability, Malware  
-
----
-
-### 39. [Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes](https://www.securityweek.com/russia-linked-hackers-hit-ios-android-devices-with-exploit-chains-via-watering-holes/)
-
-**Source:** Security Week  
-**Published:** Thu, 05 Nov 2026 10:37:13 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-3910, CVE-2025-27038, CVE-2024-27834  
-**Categories:** Vulnerability, Malware, Phishing, APT, Supply Chain  
-
----
-
-### 40. [OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks](https://www.securityweek.com/openai-finds-gpt-6-astra-quietly-holding-back-on-internal-red-teaming-exploit-tasks/)
-
-**Source:** Security Week  
-**Published:** Thu, 05 Nov 2026 10:02:00 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability  
 
 ---
 
@@ -648,7 +648,25 @@
 
 ---
 
-### 71. [Phone return scams: where a real delivery and a fake return end up in a bill for you](https://www.malwarebytes.com/blog/threat-intel/2026/11/phone-return-scams-where-a-real-delivery-and-a-fake-return-end-up-in-a-bill-for-you)
+### 71. [Big Tech sues over California plan to limit kids’ scrolling](https://www.malwarebytes.com/blog/news/2026/11/big-tech-sues-over-california-plan-to-limit-kids-scrolling)
+
+**Source:** Malwarebytes  
+**Published:** Fri, 06 Nov 2026 15:06:02 GMT  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 72. [Attacks on supermarket and blood storage systems prompt US warning](https://www.malwarebytes.com/blog/news/2026/11/attacks-on-supermarket-and-blood-storage-systems-prompt-us-warning)
+
+**Source:** Malwarebytes  
+**Published:** Fri, 06 Nov 2026 12:02:17 GMT  
+**Severity:** High  
+**Categories:** Vulnerability  
+
+---
+
+### 73. [Phone return scams: where a real delivery and a fake return end up in a bill for you](https://www.malwarebytes.com/blog/threat-intel/2026/11/phone-return-scams-where-a-real-delivery-and-a-fake-return-end-up-in-a-bill-for-you)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 05 Nov 2026 22:18:22 GMT  
@@ -657,7 +675,7 @@
 
 ---
 
-### 72. [NIKKE PC launcher compromise put players’ passwords and personal files at risk](https://www.malwarebytes.com/blog/news/2026/11/nikke-pc-launcher-compromise-put-players-passwords-and-personal-files-at-risk)
+### 74. [NIKKE PC launcher compromise put players’ passwords and personal files at risk](https://www.malwarebytes.com/blog/news/2026/11/nikke-pc-launcher-compromise-put-players-passwords-and-personal-files-at-risk)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 05 Nov 2026 22:06:59 GMT  
@@ -666,7 +684,7 @@
 
 ---
 
-### 73. [Scammers use AI-generated images of missing pets to extort owners](https://www.malwarebytes.com/blog/ai/2026/11/scammers-use-ai-generated-images-of-missing-pets-to-extort-owners)
+### 75. [Scammers use AI-generated images of missing pets to extort owners](https://www.malwarebytes.com/blog/ai/2026/11/scammers-use-ai-generated-images-of-missing-pets-to-extort-owners)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 05 Nov 2026 21:34:14 GMT  
@@ -675,7 +693,7 @@
 
 ---
 
-### 74. [Vizio, Samsung smart TVs seem to ignore tracking opt outs](https://www.malwarebytes.com/blog/news/2026/11/vizio-samsung-smart-tvs-seem-to-ignore-tracking-opt-outs)
+### 76. [Vizio, Samsung smart TVs seem to ignore tracking opt outs](https://www.malwarebytes.com/blog/news/2026/11/vizio-samsung-smart-tvs-seem-to-ignore-tracking-opt-outs)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 05 Nov 2026 12:10:50 GMT  
@@ -684,7 +702,7 @@
 
 ---
 
-### 75. [The fake $750 Apple Cash reward that pays out nothing](https://www.malwarebytes.com/blog/scams/2026/11/the-fake-750-apple-cash-reward-that-pays-out-nothing)
+### 77. [The fake $750 Apple Cash reward that pays out nothing](https://www.malwarebytes.com/blog/scams/2026/11/the-fake-750-apple-cash-reward-that-pays-out-nothing)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 04 Nov 2026 18:49:13 GMT  
@@ -693,7 +711,7 @@
 
 ---
 
-### 76. [mSecure tells users to change passwords but won’t say why](https://www.malwarebytes.com/blog/data-breaches/2026/11/msecure-tells-users-to-change-passwords-but-wont-say-why)
+### 78. [mSecure tells users to change passwords but won’t say why [updated]](https://www.malwarebytes.com/blog/data-breaches/2026/11/msecure-tells-users-to-change-passwords-but-wont-say-why)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 04 Nov 2026 17:02:25 GMT  
@@ -702,7 +720,7 @@
 
 ---
 
-### 77. [Chrome 157 fixes 213 security issues, including 7 critical flaws](https://www.malwarebytes.com/blog/bugs/2026/11/chrome-157-fixes-213-security-issues-including-7-critical-flaws)
+### 79. [Chrome 157 fixes 213 security issues, including 7 critical flaws](https://www.malwarebytes.com/blog/bugs/2026/11/chrome-157-fixes-213-security-issues-including-7-critical-flaws)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 04 Nov 2026 12:16:25 GMT  
@@ -711,30 +729,12 @@
 
 ---
 
-### 78. [A hidden backdoor put 1.3 million TV boxes to work for criminals](https://www.malwarebytes.com/blog/mobile/2026/11/a-hidden-backdoor-put-1-3-million-tv-boxes-to-work-for-criminals)
+### 80. [A hidden backdoor put 1.3 million TV boxes to work for criminals](https://www.malwarebytes.com/blog/mobile/2026/11/a-hidden-backdoor-put-1-3-million-tv-boxes-to-work-for-criminals)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 03 Nov 2026 14:11:25 GMT  
 **Severity:** High  
 **Categories:** Vulnerability, Malware  
-
----
-
-### 79. [Hackers put porn on public billboards and claim it was “far too easy”](https://www.malwarebytes.com/blog/bugs/2026/11/hackers-put-porn-on-public-billboards-and-claim-it-was-far-too-easy)
-
-**Source:** Malwarebytes  
-**Published:** Tue, 03 Nov 2026 12:01:55 GMT  
-**Severity:** High  
-**Categories:** Vulnerability  
-
----
-
-### 80. [Revolve card breach: 1.5 million people may be affected](https://www.malwarebytes.com/blog/data-breaches/2026/11/revolve-card-breach-1-5-million-people-may-be-affected)
-
-**Source:** Malwarebytes  
-**Published:** Tue, 03 Nov 2026 11:26:44 GMT  
-**Severity:** Low  
-**Categories:** Data Breach, Phishing, Supply Chain  
 
 ---
 

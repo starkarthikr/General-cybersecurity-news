@@ -1,6 +1,80 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
+    "link": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
+    "published": "Fri, 06 Nov 2026 17:36:43 +0530",
+    "summary": "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates.\n\nThe fixed build, 11.2609.401.0, was the newest Paint build in all ten countries The Hacker News checked today.\n\nThe flaw is an out-of-bounds read that could let an attacker run code over a network. Microsoft rates",
+    "analysis": {
+      "issue": "Microsoft Store now offers Paint 11",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-83844"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
+    "link": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
+    "published": "Fri, 06 Nov 2026 17:36:35 +0530",
+    "summary": "A browser extension that can run scripts on claude.ai could make Claude Desktop run code on a person's computer, researchers at Forever Security, an endpoint security company, showed in a test.\n\nThe attack needs Dispatch, a Claude feature that lets people send tasks from their phone to Claude Desktop. The flaw that makes this possible can still be exploited, the researchers said earlier this",
+    "analysis": {
+      "issue": "Researchers show how browser extensions can abuse Claude Dispatch to approve prompts and execute code through Claude Desktop",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "The Flood is Coming And The Pipes Were Already Full",
+    "link": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
+    "published": "Fri, 06 Nov 2026 17:00:00 +0530",
+    "summary": "An update on Athena, and some unsolicited predictions on what's coming next\n\nOn Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go read it if you haven't. I've spent the summer looking at what these models find, and the gap he describes between what they can do and what the rest of us are ready for is the one I've been staring at since May.\n\nThe hardest piece of his",
+    "analysis": {
+      "issue": "Chainguard's Athena validated over a dozen flaws, mostly pre-auth RCEs, in one open source project during a six-hour Mythos run",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
+    "link": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
+    "published": "Fri, 06 Nov 2026 13:34:49 +0530",
+    "summary": "Blockchain analysis firm Chainalysis has revealed that its ongoing investigation into the agentic cyber attack targeting its systems also exposed names, usernames, password hashes and live tokens for all users.\n\n\"While we investigated, we removed access to Reactor and Data Solutions,\" the company said. \"At this time we continue to have no evidence that any investigations data has been accessed",
+    "analysis": {
+      "issue": "Chainalysis says an agentic cyberattack exposed all users' names, usernames, password hashes and live tokens, prompting service shutdowns",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
     "link": "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
     "published": "Fri, 06 Nov 2026 11:28:54 +0530",
@@ -108,50 +182,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
-    "link": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
-    "published": "Thu, 05 Nov 2026 17:38:54 +0530",
-    "summary": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs.\n\n\"Our prototype identified and analyzed 2,308 candidate Linux kernel findings, dynamically reproduced 1,724 vulnerabilities, and produced 948 local privilege escalation (LPE)",
+    "source": "Bleeping Computer",
+    "title": "Veeam warns of Software Appliance boot failures on AMD EPYC hosts",
+    "link": "https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/",
+    "published": "Fri, 06 Nov 2026 10:25:31 -0500",
+    "summary": "​Veeam warned customers about boot failures affecting Software Appliance virtual machines (VMs) on hosts with AMD EPYC processors. [...]",
     "analysis": {
-      "issue": "OpenAI's AI pipeline reproduced 1,724 Linux vulnerabilities and generated 948 working local privilege escalation exploits for $1",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
-    "link": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
-    "published": "Thu, 05 Nov 2026 15:36:19 +0530",
-    "summary": "October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, these campaigns raise the stakes beyond individual security incidents, increasing the risk of financial losses, data breaches, and costly operational disruption.\n\nBelow, we examine five",
-    "analysis": {
-      "issue": "Five cyber threats target US businesses through Microsoft 365 device-code phishing, fake AI apps, credential theft, and malware",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
-    "link": "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html",
-    "published": "Thu, 05 Nov 2026 14:43:28 +0530",
-    "summary": "Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3.\n\nThe change specifically applies to scenarios where users share iCloud content, such as photos in iCloud Photos or files in iCloud Drive, by sharing a link and making it accessible to \"Anyone with the link.\"\n\nWhen users choose this option,",
-    "analysis": {
-      "issue": "Apple will check public iCloud links for harmful content starting with version 27",
+      "issue": "​Veeam warned customers about boot failures affecting Software Appliance virtual machines (VMs) on hosts with AMD EPYC processors",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -163,20 +200,74 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
-    "link": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
-    "published": "Thu, 05 Nov 2026 14:12:03 +0530",
-    "summary": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services, and Insurance (BFSI) sectors in the country.\n\nDescribing the threat as active and ongoing, the activity involves the use of publicly-available AI-driven offensive security tools",
+    "source": "Bleeping Computer",
+    "title": "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It",
+    "link": "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/",
+    "published": "Fri, 06 Nov 2026 10:00:10 -0500",
+    "summary": "IMSI and IMEI are IDs your phone shares with networks. Learn how they differ, how attackers get them, and why rotating your IMSI blunts tracking. [...]",
     "analysis": {
-      "issue": "CERT-In warns of AI-assisted attacks on Indian financial firms, while a backdoored ARTEX Docker image exposes 62 consoles to root access",
+      "issue": "In April 2026, BleepingComputer reported that Canadian authorities arrested three men for operating an “SMS blaster,” a device that pretends to be a cell tower to send phishing texts to nearby phones",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Chainalysis says breach exposed credentials for all customers",
+    "link": "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/",
+    "published": "Fri, 06 Nov 2026 09:17:07 -0500",
+    "summary": "Blockchain intelligence firm Chainalysis says a recent attack on its systems and internal tools has exposed credentials and live tokens for all customers. [...]",
+    "analysis": {
+      "issue": "Blockchain intelligence firm Chainalysis says a recent attack on its systems and internal tools has exposed credentials and live tokens for all customers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "D-Link warns of multiple zero-days in DGS-3130 Series switches",
+    "link": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/",
+    "published": "Fri, 06 Nov 2026 07:37:22 -0500",
+    "summary": "D-Link shared mitigation measures for multiple unpatched security flaws affecting DGS-3130 series managed Gigabit stackable switches. [...]",
+    "analysis": {
+      "issue": "D-Link shared mitigation measures for multiple unpatched security flaws affecting DGS-3130 series managed Gigabit stackable switches",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "MetaMask says recent attack didn't affect wallet infrastructure",
+    "link": "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/",
+    "published": "Fri, 06 Nov 2026 04:22:28 -0500",
+    "summary": "Cryptocurrency wallet provider MetaMask said a recent security incident has not affected MetaMask wallets or its wallet infrastructure. [...]",
+    "analysis": {
+      "issue": "Cryptocurrency wallet provider MetaMask said a recent security incident has not affected MetaMask wallets or its wallet infrastructure",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -270,99 +361,6 @@
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers backdoor Linux servers using trojanized CWP web server",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
-    "published": "Thu, 05 Nov 2026 11:24:26 -0500",
-    "summary": "A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface. [...]",
-    "analysis": {
-      "issue": "A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "DigiCert data breach exposes customer information, identity documents",
-    "link": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
-    "published": "Thu, 05 Nov 2026 11:12:46 -0500",
-    "summary": "DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity documents. [...]",
-    "analysis": {
-      "issue": "DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity documents",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Closing the Identity Gap at the Service Desk",
-    "link": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
-    "published": "Thu, 05 Nov 2026 10:00:10 -0500",
-    "summary": "Attackers target IT service desks to bypass MFA by impersonating employees and convincing staff to reset passwords or register new authentication devices. Specops Software explains why traditional identity verification methods are no longer sufficient and how organizations can secure account recovery against social engineering risks. [...]",
-    "analysis": {
-      "issue": "Organizations have invested heavily in securing employee logins",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
-    "link": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
-    "published": "Thu, 05 Nov 2026 04:18:29 -0500",
-    "summary": "Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]",
-    "analysis": {
-      "issue": "Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Vercel rolls out new protection against stolen session cookie attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
-    "published": "Wed, 04 Nov 2026 16:31:18 -0500",
-    "summary": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
-    "analysis": {
-      "issue": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "APT"
       ]
     }
   },
@@ -471,8 +469,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-96951",
-        "CVE-2026-108398"
+        "CVE-2026-108398",
+        "CVE-2026-96951"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -559,6 +557,161 @@
   },
   {
     "source": "Security Week",
+    "title": "In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days",
+    "link": "https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/",
+    "published": "Fri, 06 Nov 2026 14:40:09 +0000",
+    "summary": "<p>Noteworthy stories that might have slipped under the radar: Synology warns about NAS ransomware attacks, Flowise ‘hello’ attacks, Chainalysis breach impact expands.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/\">In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Noteworthy stories that might have slipped under the radar: Synology warns about NAS ransomware attacks, Flowise ‘hello’ attacks, Chainalysis breach impact expands",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2024-58351",
+        "CVE-2026-40217"
+      ],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "Phishing",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "DigiCert Data Breach Impacts Business Customer Information",
+    "link": "https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/",
+    "published": "Fri, 06 Nov 2026 14:00:07 +0000",
+    "summary": "<p>Hackers created an account on an internal system and accessed names, email addresses, phone numbers, and business addresses.</p>\n<p>The post <a href=\"https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/\">DigiCert Data Breach Impacts Business Customer Information</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Hackers created an account on an internal system and accessed names, email addresses, phone numbers, and business addresses",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "OpenAI Says New GPT-6 Cyber Model Hunts Flaws Without Crossing the Line",
+    "link": "https://www.securityweek.com/openai-says-new-gpt-6-cyber-model-hunts-flaws-without-crossing-the-line/",
+    "published": "Fri, 06 Nov 2026 13:19:52 +0000",
+    "summary": "<p>Rated Critical for cybersecurity, OpenAI’s new model beats GPT-5.6 Cyber at exploitation while staying in scope more reliably.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-says-new-gpt-6-cyber-model-hunts-flaws-without-crossing-the-line/\">OpenAI Says New GPT-6 Cyber Model Hunts Flaws Without Crossing the Line</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Rated Critical for cybersecurity, OpenAI’s new model beats GPT-5",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "US Agencies Urge Organizations to Harden Refrigeration Controllers",
+    "link": "https://www.securityweek.com/us-agencies-urge-organizations-to-harden-refrigeration-controllers/",
+    "published": "Fri, 06 Nov 2026 13:02:26 +0000",
+    "summary": "<p>The recommendations come amid attacks targeting fridges and freezers in supermarkets and blood banks in Europe.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-agencies-urge-organizations-to-harden-refrigeration-controllers/\">US Agencies Urge Organizations to Harden Refrigeration Controllers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The recommendations come amid attacks targeting fridges and freezers in supermarkets and blood banks in Europe",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack",
+    "link": "https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/",
+    "published": "Fri, 06 Nov 2026 12:47:55 +0000",
+    "summary": "<p>The October incident will cut fourth-quarter sales by up to €250 million and has led Ahold Delhaize to lower its 2026 outlook.</p>\n<p>The post <a href=\"https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/\">Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The October incident will cut fourth-quarter sales by up to €250 million and has led Ahold Delhaize to lower its 2026 outlook",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Researchers Find Residential Proxies on White House Network",
+    "link": "https://www.securityweek.com/researchers-find-residential-proxies-on-white-house-network/",
+    "published": "Fri, 06 Nov 2026 12:16:13 +0000",
+    "summary": "<p>In a month, 28 residential proxy services used 6 addresses, mainly between 5 p.m. and midnight, Eastern Time.</p>\n<p>The post <a href=\"https://www.securityweek.com/researchers-find-residential-proxies-on-white-house-network/\">Researchers Find Residential Proxies on White House Network</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "In a month, 28 residential proxy services used 6 addresses, mainly between 5 p",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "OpenSSH Rushes Patches for ‘SSHole’ Authentication Bypass",
+    "link": "https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/",
+    "published": "Fri, 06 Nov 2026 12:07:42 +0000",
+    "summary": "<p>On Linux distributions using musl libc without PAM, some accounts accept any password between 257 and 1024 characters.</p>\n<p>The post <a href=\"https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/\">OpenSSH Rushes Patches for &#8216;SSHole&#8217; Authentication Bypass</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "On Linux distributions using musl libc without PAM, some accounts accept any password between 257 and 1024 characters",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-123158"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions",
+    "link": "https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/",
+    "published": "Fri, 06 Nov 2026 09:33:51 +0000",
+    "summary": "<p>After its sandbox proxy failed, an internal OpenAI model crafted raw packets and probed AWS services trying to reach the internet.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/\">OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "After its sandbox proxy failed, an internal OpenAI model crafted raw packets and probed AWS services trying to reach the internet",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million",
     "link": "https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
     "published": "Fri, 06 Nov 2026 03:03:29 +0000",
@@ -594,175 +747,6 @@
       "threat_categories": [
         "Vulnerability",
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Bank Phishing Sites Show Fake ‘Suspended’ Pages to Evade Takedowns",
-    "link": "https://www.securityweek.com/bank-phishing-sites-show-fake-suspended-pages-to-evade-takedowns/",
-    "published": "Thu, 05 Nov 2026 13:22:12 +0000",
-    "summary": "<p>More than 200 sites were seen serving phishing content to first-time visitors but not to those who revisit.</p>\n<p>The post <a href=\"https://www.securityweek.com/bank-phishing-sites-show-fake-suspended-pages-to-evade-takedowns/\">Bank Phishing Sites Show Fake &#8216;Suspended&#8217; Pages to Evade Takedowns</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "More than 200 sites were seen serving phishing content to first-time visitors but not to those who revisit",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised",
-    "link": "https://www.securityweek.com/cyberattack-hits-french-blood-bank-site-but-no-blood-products-are-compromised/",
-    "published": "Thu, 05 Nov 2026 12:58:32 +0000",
-    "summary": "<p>The incident comes after supermarkets in a number of European countries reported this week that their fridges and freezers warmed up after they were remotely hacked.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyberattack-hits-french-blood-bank-site-but-no-blood-products-are-compromised/\">Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The incident comes after supermarkets in a number of European countries reported this week that their fridges and freezers warmed up after they were remotely hacked",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Cisco, WatchGuard Release Patches; SonicWall Won’t Fix GMS Flaws",
-    "link": "https://www.securityweek.com/cisco-watchguard-release-patches-sonicwall-wont-fix-gms-flaws/",
-    "published": "Thu, 05 Nov 2026 12:33:49 +0000",
-    "summary": "<p>Cisco patched an RCE in UCS Central Software; WatchGuard fixed authentication and MitM flaws.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-watchguard-release-patches-sonicwall-wont-fix-gms-flaws/\">Cisco, WatchGuard Release Patches; SonicWall Won’t Fix GMS Flaws</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Cisco patched an RCE in UCS Central Software; WatchGuard fixed authentication and MitM flaws",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-76506",
-        "CVE-2026-121640",
-        "CVE-2026-121639",
-        "CVE-2026-109594",
-        "CVE-2026-111497",
-        "CVE-2026-98432",
-        "CVE-2026-109593",
-        "CVE-2026-121638",
-        "CVE-2026-121637"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "The Agent Smith Dilemma: Governing Agentic Identities",
-    "link": "https://www.securityweek.com/the-agent-smith-dilemma-governing-agentic-identities/",
-    "published": "Thu, 05 Nov 2026 11:15:00 +0000",
-    "summary": "<p>Every autonomous AI agent deployed across your enterprise today is a new proxy identity operating inside your perimeter.</p>\n<p>The post <a href=\"https://www.securityweek.com/the-agent-smith-dilemma-governing-agentic-identities/\">The Agent Smith Dilemma: Governing Agentic Identities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Every autonomous AI agent deployed across your enterprise today is a new proxy identity operating inside your perimeter",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "CISO Conversations: Ryan Davis – The Unknown Is Where Security Meets Reality",
-    "link": "https://www.securityweek.com/ciso-conversations-ryan-davis-the-unknown-is-where-security-meets-reality/",
-    "published": "Thu, 05 Nov 2026 11:00:00 +0000",
-    "summary": "<p>Ryan Davis went from hacking his school’s network to running security at New Charter Technologies. What worries him now is shadow AI.</p>\n<p>The post <a href=\"https://www.securityweek.com/ciso-conversations-ryan-davis-the-unknown-is-where-security-meets-reality/\">CISO Conversations: Ryan Davis – The Unknown Is Where Security Meets Reality</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Ryan Davis went from hacking his school’s network to running security at New Charter Technologies",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day",
-    "link": "https://www.securityweek.com/zyxel-switch-hacks-blamed-on-patched-flaw-actually-exploited-a-zero-day/",
-    "published": "Thu, 05 Nov 2026 10:56:41 +0000",
-    "summary": "<p>Tracked as CVE-2026-107441, the out-of-bounds write flaw could allow attackers to execute OS commands via crafted HTTP requests.</p>\n<p>The post <a href=\"https://www.securityweek.com/zyxel-switch-hacks-blamed-on-patched-flaw-actually-exploited-a-zero-day/\">Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Tracked as CVE-2026-107441, the out-of-bounds write flaw could allow attackers to execute OS commands via crafted HTTP requests",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-7273",
-        "CVE-2026-107441"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes",
-    "link": "https://www.securityweek.com/russia-linked-hackers-hit-ios-android-devices-with-exploit-chains-via-watering-holes/",
-    "published": "Thu, 05 Nov 2026 10:37:13 +0000",
-    "summary": "<p>The large-scale watering hole campaign has been targeting entities in the US and Europe, mainly in Ukraine.</p>\n<p>The post <a href=\"https://www.securityweek.com/russia-linked-hackers-hit-ios-android-devices-with-exploit-chains-via-watering-holes/\">Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The large-scale watering hole campaign has been targeting entities in the US and Europe, mainly in Ukraine",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-3910",
-        "CVE-2025-27038",
-        "CVE-2024-27834"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Phishing",
-        "APT",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks",
-    "link": "https://www.securityweek.com/openai-finds-gpt-6-astra-quietly-holding-back-on-internal-red-teaming-exploit-tasks/",
-    "published": "Thu, 05 Nov 2026 10:02:00 +0000",
-    "summary": "<p>OpenAI says its Critical-rated cyber model met fewer hidden task goals when work was framed as AI safety research, often silently.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-finds-gpt-6-astra-quietly-holding-back-on-internal-red-teaming-exploit-tasks/\">OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "OpenAI says its Critical-rated cyber model met fewer hidden task goals when work was framed as AI safety research, often silently",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -1337,10 +1321,46 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Big Tech sues over California plan to limit kids’ scrolling",
+    "link": "https://www.malwarebytes.com/blog/news/2026/11/big-tech-sues-over-california-plan-to-limit-kids-scrolling",
+    "published": "Fri, 06 Nov 2026 15:06:02 GMT",
+    "summary": "Social media platforms Google, Meta, and TikTok say California’s law violates their free-speech rights and interferes with parents’ decisions.",
+    "analysis": {
+      "issue": "Google, Meta, and TikTok filed separate federal lawsuits on November 4, challenging Assembly Bill 1709, which Governor Gavin Newsom signed in September",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Attacks on supermarket and blood storage systems prompt US warning",
+    "link": "https://www.malwarebytes.com/blog/news/2026/11/attacks-on-supermarket-and-blood-storage-systems-prompt-us-warning",
+    "published": "Fri, 06 Nov 2026 12:02:17 GMT",
+    "summary": "US agencies have issued a warning about remote access to industrial refrigeration and cold-chain monitoring systems.",
+    "analysis": {
+      "issue": "Attackers don’t have to steal information to cause serious harm",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Phone return scams: where a real delivery and a fake return end up in a bill for you",
     "link": "https://www.malwarebytes.com/blog/threat-intel/2026/11/phone-return-scams-where-a-real-delivery-and-a-fake-return-end-up-in-a-bill-for-you",
     "published": "Thu, 05 Nov 2026 22:18:22 GMT",
-    "summary": "Phone return scams are part of a very convincing social engineering method where the criminals gets a phone and you get billed.",
+    "summary": "Phone return scams are part of a very convincing social engineering method where the criminals get a phone and you get billed.",
     "analysis": {
       "issue": "A caller offers you a free phone upgrade or an exclusive deal from your mobile provider",
       "solution": null,
@@ -1430,7 +1450,7 @@
   },
   {
     "source": "Malwarebytes",
-    "title": "mSecure tells users to change passwords but won’t say why",
+    "title": "mSecure tells users to change passwords but won’t say why [updated]",
     "link": "https://www.malwarebytes.com/blog/data-breaches/2026/11/msecure-tells-users-to-change-passwords-but-wont-say-why",
     "published": "Wed, 04 Nov 2026 17:02:25 GMT",
     "summary": "mSecure has urged users to protect information stored in its app, but hasn’t explained what happened or whether anyone’s data was exposed.",
@@ -1480,44 +1500,6 @@
       "threat_categories": [
         "Vulnerability",
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Hackers put porn on public billboards and claim it was “far too easy”",
-    "link": "https://www.malwarebytes.com/blog/bugs/2026/11/hackers-put-porn-on-public-billboards-and-claim-it-was-far-too-easy",
-    "published": "Tue, 03 Nov 2026 12:01:55 GMT",
-    "summary": "A hacking group called Leakers$ gained access to remote management software for billboards and used it to show porn.",
-    "analysis": {
-      "issue": "While digital billboards are supposed to grab your attention, recent reports from Egypt, Malaysia, and Brazil described them doing so with explicit footage",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Revolve card breach: 1.5 million people may be affected",
-    "link": "https://www.malwarebytes.com/blog/data-breaches/2026/11/revolve-card-breach-1-5-million-people-may-be-affected",
-    "published": "Tue, 03 Nov 2026 11:26:44 GMT",
-    "summary": "Revolve says shoppers’ saved card details were stolen. A Texas filing suggests as many as 1.5 million people may be affected.",
-    "analysis": {
-      "issue": "Online fashion retailer Revolve Group said customers’ payment card numbers and expiration dates were stolen",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Phishing",
-        "Supply Chain"
       ]
     }
   },
