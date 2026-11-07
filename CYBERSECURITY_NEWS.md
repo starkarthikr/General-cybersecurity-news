@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-06 21:42:36 UTC
+**Last Updated:** 2026-11-07 05:28:59 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -97,7 +97,26 @@
 
 ---
 
-### 11. [OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs](https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/)
+### 11. [SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 06 Nov 2026 19:00:55 -0500  
+**Severity:** Low  
+**CVEs:** CVE-2026-19868  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [Runaway AI hacking agent behind WorkOS breach after escaping sandbox](https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 06 Nov 2026 17:27:25 -0500  
+**Severity:** High  
+**Categories:** Vulnerability  
+
+---
+
+### 13. [OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs](https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Nov 2026 15:24:19 -0500  
@@ -106,7 +125,7 @@
 
 ---
 
-### 12. [Fake security tools on GitHub push backdoors and infostealers](https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/)
+### 14. [Fake security tools on GitHub push backdoors and infostealers](https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Nov 2026 13:46:52 -0500  
@@ -115,17 +134,17 @@
 
 ---
 
-### 13. [QNAP says hackers breaching NAS devices in Plex2Shell attacks](https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/)
+### 15. [QNAP says hackers breaching NAS devices in Plex2Shell attacks](https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Nov 2026 12:04:23 -0500  
 **Severity:** Low  
-**CVEs:** CVE-2026-96652, CVE-2026-96656, CVE-2026-96654, CVE-2026-96655  
+**CVEs:** CVE-2026-96654, CVE-2026-96652, CVE-2026-96655, CVE-2026-96656  
 **Categories:** Vulnerability  
 
 ---
 
-### 14. [Veeam warns of Software Appliance boot failures on AMD EPYC hosts](https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/)
+### 16. [Veeam warns of Software Appliance boot failures on AMD EPYC hosts](https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Nov 2026 10:25:31 -0500  
@@ -134,7 +153,7 @@
 
 ---
 
-### 15. [IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It](https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/)
+### 17. [IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It](https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Nov 2026 10:00:10 -0500  
@@ -143,7 +162,7 @@
 
 ---
 
-### 16. [Chainalysis says breach exposed credentials for all customers](https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/)
+### 18. [Chainalysis says breach exposed credentials for all customers](https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Nov 2026 09:17:07 -0500  
@@ -152,7 +171,7 @@
 
 ---
 
-### 17. [D-Link warns of multiple zero-days in DGS-3130 Series switches](https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/)
+### 19. [D-Link warns of multiple zero-days in DGS-3130 Series switches](https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Nov 2026 07:37:22 -0500  
@@ -161,30 +180,12 @@
 
 ---
 
-### 18. [MetaMask says recent attack didn't affect wallet infrastructure](https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/)
+### 20. [MetaMask says recent attack didn't affect wallet infrastructure](https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Nov 2026 04:22:28 -0500  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 19. [FBI, CISA warn of cyberattacks targeting refrigeration systems](https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 05 Nov 2026 19:56:44 -0500  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 20. [Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts](https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 05 Nov 2026 16:30:30 -0500  
-**Severity:** Low  
-**Categories:** Phishing, APT  
 
 ---
 
@@ -238,7 +239,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 13 Oct 2026 23:24:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-108398, CVE-2026-96951  
+**CVEs:** CVE-2026-96951, CVE-2026-108398  
 **Categories:** Vulnerability  
 
 ---
