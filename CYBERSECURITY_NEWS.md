@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-07 06:23:43 UTC
+**Last Updated:** 2026-11-07 15:00:59 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time](https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html)
+### 1. [Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub](https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 07 Nov 2026 12:14:17 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time](https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Nov 2026 21:38:38 +0530  
@@ -14,7 +23,7 @@
 
 ---
 
-### 2. [Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot](https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html)
+### 3. [Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot](https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Nov 2026 20:51:49 +0530  
@@ -24,7 +33,7 @@
 
 ---
 
-### 3. [OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits](https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html)
+### 4. [OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits](https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Nov 2026 20:28:32 +0530  
@@ -33,7 +42,7 @@
 
 ---
 
-### 4. [Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It](https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html)
+### 5. [Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It](https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Nov 2026 17:36:43 +0530  
@@ -43,7 +52,7 @@
 
 ---
 
-### 5. [Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers](https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html)
+### 6. [Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers](https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Nov 2026 17:36:35 +0530  
@@ -52,7 +61,7 @@
 
 ---
 
-### 6. [The Flood is Coming And The Pipes Were Already Full](https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html)
+### 7. [The Flood is Coming And The Pipes Were Already Full](https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Nov 2026 17:00:00 +0530  
@@ -61,7 +70,7 @@
 
 ---
 
-### 7. [Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services](https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html)
+### 8. [Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services](https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Nov 2026 13:34:49 +0530  
@@ -70,7 +79,7 @@
 
 ---
 
-### 8. [Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs](https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html)
+### 9. [Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs](https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Nov 2026 11:28:54 +0530  
@@ -79,7 +88,7 @@
 
 ---
 
-### 9. [Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login](https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html)
+### 10. [Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login](https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Nov 2026 11:09:10 +0530  
@@ -88,16 +97,16 @@
 
 ---
 
-### 10. [OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux](https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html)
+### 11. [CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands](https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 05 Nov 2026 22:12:46 +0530  
-**Severity:** Critical  
-**Categories:** General Security  
+**Source:** Bleeping Computer  
+**Published:** Sat, 07 Nov 2026 09:10:19 -0500  
+**Severity:** High  
+**Categories:** Vulnerability  
 
 ---
 
-### 11. [SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/)
+### 12. [SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Nov 2026 19:00:55 -0500  
@@ -107,7 +116,7 @@
 
 ---
 
-### 12. [Runaway AI hacking agent behind WorkOS breach after escaping sandbox](https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/)
+### 13. [Runaway AI hacking agent behind WorkOS breach after escaping sandbox](https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Nov 2026 17:27:25 -0500  
@@ -116,7 +125,7 @@
 
 ---
 
-### 13. [OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs](https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/)
+### 14. [OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs](https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Nov 2026 15:24:19 -0500  
@@ -125,7 +134,7 @@
 
 ---
 
-### 14. [Fake security tools on GitHub push backdoors and infostealers](https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/)
+### 15. [Fake security tools on GitHub push backdoors and infostealers](https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Nov 2026 13:46:52 -0500  
@@ -134,17 +143,17 @@
 
 ---
 
-### 15. [QNAP says hackers breaching NAS devices in Plex2Shell attacks](https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/)
+### 16. [QNAP says hackers breaching NAS devices in Plex2Shell attacks](https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Nov 2026 12:04:23 -0500  
 **Severity:** Low  
-**CVEs:** CVE-2026-96655, CVE-2026-96654, CVE-2026-96656, CVE-2026-96652  
+**CVEs:** CVE-2026-96656, CVE-2026-96655, CVE-2026-96654, CVE-2026-96652  
 **Categories:** Vulnerability  
 
 ---
 
-### 16. [Veeam warns of Software Appliance boot failures on AMD EPYC hosts](https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/)
+### 17. [Veeam warns of Software Appliance boot failures on AMD EPYC hosts](https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Nov 2026 10:25:31 -0500  
@@ -153,7 +162,7 @@
 
 ---
 
-### 17. [IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It](https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/)
+### 18. [IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It](https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Nov 2026 10:00:10 -0500  
@@ -162,7 +171,7 @@
 
 ---
 
-### 18. [Chainalysis says breach exposed credentials for all customers](https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/)
+### 19. [Chainalysis says breach exposed credentials for all customers](https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Nov 2026 09:17:07 -0500  
@@ -171,21 +180,12 @@
 
 ---
 
-### 19. [D-Link warns of multiple zero-days in DGS-3130 Series switches](https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/)
+### 20. [D-Link warns of multiple zero-days in DGS-3130 Series switches](https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Nov 2026 07:37:22 -0500  
 **Severity:** Critical  
 **Categories:** Vulnerability  
-
----
-
-### 20. [MetaMask says recent attack didn't affect wallet infrastructure](https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 06 Nov 2026 04:22:28 -0500  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -281,7 +281,17 @@
 
 ---
 
-### 31. [Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks](https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/)
+### 31. [SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins](https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/)
+
+**Source:** Security Week  
+**Published:** Sat, 07 Nov 2026 10:16:23 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-19868, CVE-2026-102255  
+**Categories:** Vulnerability  
+
+---
+
+### 32. [Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks](https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Nov 2026 18:28:41 +0000  
@@ -290,17 +300,17 @@
 
 ---
 
-### 32. [In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days](https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/)
+### 33. [In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days](https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Nov 2026 14:40:09 +0000  
 **Severity:** High  
-**CVEs:** CVE-2026-40217, CVE-2024-58351  
+**CVEs:** CVE-2024-58351, CVE-2026-40217  
 **Categories:** Ransomware, Vulnerability, Phishing, APT  
 
 ---
 
-### 33. [DigiCert Data Breach Impacts Business Customer Information](https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/)
+### 34. [DigiCert Data Breach Impacts Business Customer Information](https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Nov 2026 14:00:07 +0000  
@@ -309,7 +319,7 @@
 
 ---
 
-### 34. [OpenAI Says New GPT-6 Cyber Model Hunts Flaws Without Crossing the Line](https://www.securityweek.com/openai-says-new-gpt-6-cyber-model-hunts-flaws-without-crossing-the-line/)
+### 35. [OpenAI Says New GPT-6 Cyber Model Hunts Flaws Without Crossing the Line](https://www.securityweek.com/openai-says-new-gpt-6-cyber-model-hunts-flaws-without-crossing-the-line/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Nov 2026 13:19:52 +0000  
@@ -318,7 +328,7 @@
 
 ---
 
-### 35. [US Agencies Urge Organizations to Harden Refrigeration Controllers](https://www.securityweek.com/us-agencies-urge-organizations-to-harden-refrigeration-controllers/)
+### 36. [US Agencies Urge Organizations to Harden Refrigeration Controllers](https://www.securityweek.com/us-agencies-urge-organizations-to-harden-refrigeration-controllers/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Nov 2026 13:02:26 +0000  
@@ -327,7 +337,7 @@
 
 ---
 
-### 36. [Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack](https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/)
+### 37. [Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack](https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Nov 2026 12:47:55 +0000  
@@ -336,7 +346,7 @@
 
 ---
 
-### 37. [Researchers Find Residential Proxies on White House Network](https://www.securityweek.com/researchers-find-residential-proxies-on-white-house-network/)
+### 38. [Researchers Find Residential Proxies on White House Network](https://www.securityweek.com/researchers-find-residential-proxies-on-white-house-network/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Nov 2026 12:16:13 +0000  
@@ -345,7 +355,7 @@
 
 ---
 
-### 38. [OpenSSH Rushes Patches for ‘SSHole’ Authentication Bypass](https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/)
+### 39. [OpenSSH Rushes Patches for ‘SSHole’ Authentication Bypass](https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Nov 2026 12:07:42 +0000  
@@ -355,21 +365,12 @@
 
 ---
 
-### 39. [OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions](https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/)
+### 40. [OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions](https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Nov 2026 09:33:51 +0000  
 **Severity:** High  
 **Categories:** Vulnerability  
-
----
-
-### 40. [3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million](https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/)
-
-**Source:** Security Week  
-**Published:** Fri, 06 Nov 2026 03:03:29 +0000  
-**Severity:** High  
-**Categories:** Vulnerability, Malware, Phishing, APT  
 
 ---
 
@@ -636,7 +637,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
