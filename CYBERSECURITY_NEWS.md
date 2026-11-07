@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-07 17:39:37 UTC
+**Last Updated:** 2026-11-07 20:25:13 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -157,7 +157,7 @@
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Nov 2026 12:04:23 -0500  
 **Severity:** Low  
-**CVEs:** CVE-2026-96652, CVE-2026-96654, CVE-2026-96656, CVE-2026-96655  
+**CVEs:** CVE-2026-96655, CVE-2026-96652, CVE-2026-96654, CVE-2026-96656  
 **Categories:** Vulnerability  
 
 ---
@@ -239,7 +239,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 13 Oct 2026 23:24:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-108398, CVE-2026-96951  
+**CVEs:** CVE-2026-96951, CVE-2026-108398  
 **Categories:** Vulnerability  
 
 ---
@@ -286,7 +286,7 @@
 **Source:** Security Week  
 **Published:** Sat, 07 Nov 2026 10:16:23 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-102255, CVE-2026-19868  
+**CVEs:** CVE-2026-19868, CVE-2026-102255  
 **Categories:** Vulnerability  
 
 ---
@@ -305,7 +305,7 @@
 **Source:** Security Week  
 **Published:** Fri, 06 Nov 2026 14:40:09 +0000  
 **Severity:** High  
-**CVEs:** CVE-2026-40217, CVE-2024-58351  
+**CVEs:** CVE-2024-58351, CVE-2026-40217  
 **Categories:** Ransomware, Vulnerability, Phishing, APT  
 
 ---
@@ -462,7 +462,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 21 Oct 2026 15:10:53 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109619, CVE-2026-109618  
+**CVEs:** CVE-2026-109618, CVE-2026-109619  
 **Categories:** Ransomware, Vulnerability  
 
 ---
@@ -637,7 +637,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
