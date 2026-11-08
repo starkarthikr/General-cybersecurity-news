@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-08 06:31:07 UTC
+**Last Updated:** 2026-11-08 15:30:04 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -157,7 +157,7 @@
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Nov 2026 12:04:23 -0500  
 **Severity:** Low  
-**CVEs:** CVE-2026-96656, CVE-2026-96655, CVE-2026-96654, CVE-2026-96652  
+**CVEs:** CVE-2026-96656, CVE-2026-96654, CVE-2026-96652, CVE-2026-96655  
 **Categories:** Vulnerability  
 
 ---
@@ -281,17 +281,26 @@
 
 ---
 
-### 31. [SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins](https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/)
+### 31. [Brava Security Emerges From Stealth With $15 Million in Funding](https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/)
+
+**Source:** Security Week  
+**Published:** Sun, 08 Nov 2026 12:14:00 +0000  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 32. [SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins](https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/)
 
 **Source:** Security Week  
 **Published:** Sat, 07 Nov 2026 10:16:23 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-19868, CVE-2026-102255  
+**CVEs:** CVE-2026-102255, CVE-2026-19868  
 **Categories:** Vulnerability  
 
 ---
 
-### 32. [Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks](https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/)
+### 33. [Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks](https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Nov 2026 18:28:41 +0000  
@@ -300,7 +309,7 @@
 
 ---
 
-### 33. [In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days](https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/)
+### 34. [In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days](https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Nov 2026 14:40:09 +0000  
@@ -310,7 +319,7 @@
 
 ---
 
-### 34. [DigiCert Data Breach Impacts Business Customer Information](https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/)
+### 35. [DigiCert Data Breach Impacts Business Customer Information](https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Nov 2026 14:00:07 +0000  
@@ -319,7 +328,7 @@
 
 ---
 
-### 35. [OpenAI Says New GPT-6 Cyber Model Hunts Flaws Without Crossing the Line](https://www.securityweek.com/openai-says-new-gpt-6-cyber-model-hunts-flaws-without-crossing-the-line/)
+### 36. [OpenAI Says New GPT-6 Cyber Model Hunts Flaws Without Crossing the Line](https://www.securityweek.com/openai-says-new-gpt-6-cyber-model-hunts-flaws-without-crossing-the-line/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Nov 2026 13:19:52 +0000  
@@ -328,7 +337,7 @@
 
 ---
 
-### 36. [US Agencies Urge Organizations to Harden Refrigeration Controllers](https://www.securityweek.com/us-agencies-urge-organizations-to-harden-refrigeration-controllers/)
+### 37. [US Agencies Urge Organizations to Harden Refrigeration Controllers](https://www.securityweek.com/us-agencies-urge-organizations-to-harden-refrigeration-controllers/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Nov 2026 13:02:26 +0000  
@@ -337,7 +346,7 @@
 
 ---
 
-### 37. [Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack](https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/)
+### 38. [Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack](https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Nov 2026 12:47:55 +0000  
@@ -346,7 +355,7 @@
 
 ---
 
-### 38. [Researchers Find Residential Proxies on White House Network](https://www.securityweek.com/researchers-find-residential-proxies-on-white-house-network/)
+### 39. [Researchers Find Residential Proxies on White House Network](https://www.securityweek.com/researchers-find-residential-proxies-on-white-house-network/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Nov 2026 12:16:13 +0000  
@@ -355,21 +364,12 @@
 
 ---
 
-### 39. [OpenSSH Rushes Patches for ‘SSHole’ Authentication Bypass](https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/)
+### 40. [OpenSSH Rushes Patches for ‘SSHole’ Authentication Bypass](https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Nov 2026 12:07:42 +0000  
 **Severity:** Critical  
 **CVEs:** CVE-2026-123158  
-**Categories:** Vulnerability  
-
----
-
-### 40. [OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions](https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/)
-
-**Source:** Security Week  
-**Published:** Fri, 06 Nov 2026 09:33:51 +0000  
-**Severity:** High  
 **Categories:** Vulnerability  
 
 ---

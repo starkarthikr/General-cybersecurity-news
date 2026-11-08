@@ -309,9 +309,9 @@
       "severity": "Low",
       "cves": [
         "CVE-2026-96656",
-        "CVE-2026-96655",
         "CVE-2026-96654",
-        "CVE-2026-96652"
+        "CVE-2026-96652",
+        "CVE-2026-96655"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -565,6 +565,24 @@
   },
   {
     "source": "Security Week",
+    "title": "Brava Security Emerges From Stealth With $15 Million in Funding",
+    "link": "https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/",
+    "published": "Sun, 08 Nov 2026 12:14:00 +0000",
+    "summary": "<p>Its multi-agent AI platform generates the telemetry an attack would produce to fix gaps in enterprise defenses.</p>\n<p>The post <a href=\"https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/\">Brava Security Emerges From Stealth With $15 Million in Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Its multi-agent AI platform generates the telemetry an attack would produce to fix gaps in enterprise defenses",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
     "link": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
     "published": "Sat, 07 Nov 2026 10:16:23 +0000",
@@ -576,8 +594,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-19868",
-        "CVE-2026-102255"
+        "CVE-2026-102255",
+        "CVE-2026-19868"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -734,24 +752,6 @@
       "cves": [
         "CVE-2026-123158"
       ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions",
-    "link": "https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/",
-    "published": "Fri, 06 Nov 2026 09:33:51 +0000",
-    "summary": "<p>After its sandbox proxy failed, an internal OpenAI model crafted raw packets and probed AWS services trying to reach the internet.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/\">OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "After its sandbox proxy failed, an internal OpenAI model crafted raw packets and probed AWS services trying to reach the internet",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
       "threat_categories": [
         "Vulnerability"
       ]
