@@ -187,6 +187,24 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
+    "link": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
+    "published": "Sun, 08 Nov 2026 10:43:08 -0500",
+    "summary": "Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a third-party cloud service the company used. [...]",
+    "analysis": {
+      "issue": "Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Hackers pull off $133 million French bank heist via service provider",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
     "published": "Sat, 07 Nov 2026 10:25:35 -0500",
@@ -308,10 +326,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-96656",
         "CVE-2026-96654",
         "CVE-2026-96652",
-        "CVE-2026-96655"
+        "CVE-2026-96655",
+        "CVE-2026-96656"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -351,24 +369,6 @@
       "cves": [],
       "threat_categories": [
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Chainalysis says breach exposed credentials for all customers",
-    "link": "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/",
-    "published": "Fri, 06 Nov 2026 09:17:07 -0500",
-    "summary": "Blockchain intelligence firm Chainalysis says a recent attack on its systems and internal tools has exposed credentials and live tokens for all customers. [...]",
-    "analysis": {
-      "issue": "Blockchain intelligence firm Chainalysis says a recent attack on its systems and internal tools has exposed credentials and live tokens for all customers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
       ]
     }
   },
@@ -594,8 +594,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-102255",
-        "CVE-2026-19868"
+        "CVE-2026-19868",
+        "CVE-2026-102255"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -941,8 +941,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109618",
-        "CVE-2026-109619"
+        "CVE-2026-109619",
+        "CVE-2026-109618"
       ],
       "threat_categories": [
         "Ransomware",

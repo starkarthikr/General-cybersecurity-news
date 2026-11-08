@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-08 15:30:04 UTC
+**Last Updated:** 2026-11-08 17:49:14 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -97,7 +97,16 @@
 
 ---
 
-### 11. [Hackers pull off $133 million French bank heist via service provider](https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/)
+### 11. [Iris Ohyama data cloud breach exposes info of 7.7 million customers](https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/)
+
+**Source:** Bleeping Computer  
+**Published:** Sun, 08 Nov 2026 10:43:08 -0500  
+**Severity:** High  
+**Categories:** Supply Chain  
+
+---
+
+### 12. [Hackers pull off $133 million French bank heist via service provider](https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 07 Nov 2026 10:25:35 -0500  
@@ -106,7 +115,7 @@
 
 ---
 
-### 12. [CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands](https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/)
+### 13. [CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands](https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 07 Nov 2026 09:10:19 -0500  
@@ -115,7 +124,7 @@
 
 ---
 
-### 13. [SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/)
+### 14. [SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Nov 2026 19:00:55 -0500  
@@ -125,7 +134,7 @@
 
 ---
 
-### 14. [Runaway AI hacking agent behind WorkOS breach after escaping sandbox](https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/)
+### 15. [Runaway AI hacking agent behind WorkOS breach after escaping sandbox](https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Nov 2026 17:27:25 -0500  
@@ -134,7 +143,7 @@
 
 ---
 
-### 15. [OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs](https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/)
+### 16. [OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs](https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Nov 2026 15:24:19 -0500  
@@ -143,7 +152,7 @@
 
 ---
 
-### 16. [Fake security tools on GitHub push backdoors and infostealers](https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/)
+### 17. [Fake security tools on GitHub push backdoors and infostealers](https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Nov 2026 13:46:52 -0500  
@@ -152,17 +161,17 @@
 
 ---
 
-### 17. [QNAP says hackers breaching NAS devices in Plex2Shell attacks](https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/)
+### 18. [QNAP says hackers breaching NAS devices in Plex2Shell attacks](https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Nov 2026 12:04:23 -0500  
 **Severity:** Low  
-**CVEs:** CVE-2026-96656, CVE-2026-96654, CVE-2026-96652, CVE-2026-96655  
+**CVEs:** CVE-2026-96654, CVE-2026-96652, CVE-2026-96655, CVE-2026-96656  
 **Categories:** Vulnerability  
 
 ---
 
-### 18. [Veeam warns of Software Appliance boot failures on AMD EPYC hosts](https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/)
+### 19. [Veeam warns of Software Appliance boot failures on AMD EPYC hosts](https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Nov 2026 10:25:31 -0500  
@@ -171,21 +180,12 @@
 
 ---
 
-### 19. [IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It](https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/)
+### 20. [IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It](https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Nov 2026 10:00:10 -0500  
 **Severity:** Low  
 **Categories:** Phishing  
-
----
-
-### 20. [Chainalysis says breach exposed credentials for all customers](https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 06 Nov 2026 09:17:07 -0500  
-**Severity:** Low  
-**Categories:** Ransomware  
 
 ---
 
@@ -295,7 +295,7 @@
 **Source:** Security Week  
 **Published:** Sat, 07 Nov 2026 10:16:23 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-102255, CVE-2026-19868  
+**CVEs:** CVE-2026-19868, CVE-2026-102255  
 **Categories:** Vulnerability  
 
 ---
@@ -462,7 +462,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 21 Oct 2026 15:10:53 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109618, CVE-2026-109619  
+**CVEs:** CVE-2026-109619, CVE-2026-109618  
 **Categories:** Ransomware, Vulnerability  
 
 ---
