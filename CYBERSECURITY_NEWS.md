@@ -1,10 +1,29 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-09 05:40:08 UTC
+**Last Updated:** 2026-11-09 07:00:57 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub](https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html)
+### 1. [U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses](https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 09 Nov 2026 11:45:10 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation](https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 09 Nov 2026 11:35:24 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-19868  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub](https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 07 Nov 2026 12:14:17 +0530  
@@ -13,7 +32,7 @@
 
 ---
 
-### 2. [Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time](https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html)
+### 4. [Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time](https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Nov 2026 21:38:38 +0530  
@@ -23,7 +42,7 @@
 
 ---
 
-### 3. [Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot](https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html)
+### 5. [Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot](https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Nov 2026 20:51:49 +0530  
@@ -33,7 +52,7 @@
 
 ---
 
-### 4. [OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits](https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html)
+### 6. [OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits](https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Nov 2026 20:28:32 +0530  
@@ -42,7 +61,7 @@
 
 ---
 
-### 5. [Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It](https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html)
+### 7. [Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It](https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Nov 2026 17:36:43 +0530  
@@ -52,7 +71,7 @@
 
 ---
 
-### 6. [Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers](https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html)
+### 8. [Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers](https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Nov 2026 17:36:35 +0530  
@@ -61,7 +80,7 @@
 
 ---
 
-### 7. [The Flood is Coming And The Pipes Were Already Full](https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html)
+### 9. [The Flood is Coming And The Pipes Were Already Full](https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Nov 2026 17:00:00 +0530  
@@ -70,28 +89,10 @@
 
 ---
 
-### 8. [Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services](https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html)
+### 10. [Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services](https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Nov 2026 13:34:49 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 9. [Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs](https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 06 Nov 2026 11:28:54 +0530  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 10. [Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login](https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 06 Nov 2026 11:09:10 +0530  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -166,7 +167,7 @@
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Nov 2026 12:04:23 -0500  
 **Severity:** Low  
-**CVEs:** CVE-2026-96655, CVE-2026-96656, CVE-2026-96654, CVE-2026-96652  
+**CVEs:** CVE-2026-96656, CVE-2026-96655, CVE-2026-96654, CVE-2026-96652  
 **Categories:** Vulnerability  
 
 ---
@@ -295,7 +296,7 @@
 **Source:** Security Week  
 **Published:** Sat, 07 Nov 2026 10:16:23 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-102255, CVE-2026-19868  
+**CVEs:** CVE-2026-19868, CVE-2026-102255  
 **Categories:** Vulnerability  
 
 ---
@@ -462,7 +463,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 21 Oct 2026 15:10:53 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109618, CVE-2026-109619  
+**CVEs:** CVE-2026-109619, CVE-2026-109618  
 **Categories:** Ransomware, Vulnerability  
 
 ---

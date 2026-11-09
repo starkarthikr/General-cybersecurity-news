@@ -1,6 +1,44 @@
 [
   {
     "source": "The Hacker News",
+    "title": "U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses",
+    "link": "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html",
+    "published": "Mon, 09 Nov 2026 11:45:10 +0530",
+    "summary": "U.S. government agencies have warned that threat actors are actively targeting industrial refrigeration and cold-chain monitoring systems globally with an aim to cause service disruptions, fire hazards, and loss of inventory.\n\n\"The actors may exploit vulnerabilities or weaknesses in unpatched or internet-accessible controllers to remotely alter settings and force units into continuous heating",
+    "analysis": {
+      "issue": "Hackers targeted hundreds of European supermarkets, manipulating refrigeration controllers to spoil food and cause financial losses",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
+    "link": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html",
+    "published": "Mon, 09 Nov 2026 11:35:24 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity vulnerability impacting SonicWall SonicOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports that it said may have been exploited in real-world attacks.\n\nThe vulnerability, tracked as CVE-2026-19868 (CVSS score: 7.1 / 7.5), has been described as an authentication reinforcement",
+    "analysis": {
+      "issue": "CISA adds SonicWall SonicOS flaw CVE-2026-19868 to its KEV catalog following reports of possible exploitation involving SAML authentication bypass",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-19868"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
     "link": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
     "published": "Sat, 07 Nov 2026 12:14:17 +0530",
@@ -139,42 +177,6 @@
     "summary": "Blockchain analysis firm Chainalysis has revealed that its ongoing investigation into the agentic cyber attack targeting its systems also exposed names, usernames, password hashes and live tokens for all users.\n\n\"While we investigated, we removed access to Reactor and Data Solutions,\" the company said. \"At this time we continue to have no evidence that any investigations data has been accessed",
     "analysis": {
       "issue": "Chainalysis says an agentic cyberattack exposed all users' names, usernames, password hashes and live tokens, prompting service shutdowns",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
-    "link": "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
-    "published": "Fri, 06 Nov 2026 11:28:54 +0530",
-    "summary": "A backdoor has been found hiding in the web server that runs Control Web Panel (CWP), a free panel for managing Linux hosting servers, researchers at QiAnXin's XLab said this week.\n\nThe backdoored web server executes commands that attackers send via web requests, and those requests never appear in its access logs. Installing it takes root access, so the attackers must already control the server.",
-    "analysis": {
-      "issue": "CWPdoor replaces Control Web Panel's web server after root access, enabling command execution through requests hidden from access logs",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login",
-    "link": "https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html",
-    "published": "Fri, 06 Nov 2026 11:09:10 +0530",
-    "summary": "Two flaws in Barracuda's Email Security Gateway, an email-filtering appliance, can be chained to run commands on it as root, its highest level of access, with no login required.\n\nThe company released patches on Monday, and the security firm watchTowr detailed the attack chain on Thursday.\n\nOne flaw, CVE-2026-116606, is an authorization bypass. An unauthenticated attacker can use it to restore a",
-    "analysis": {
-      "issue": "Two patched Barracuda Email Security Gateway flaws can be chained to execute root commands without authentication, watchTowr demonstrated",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -326,8 +328,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-96655",
         "CVE-2026-96656",
+        "CVE-2026-96655",
         "CVE-2026-96654",
         "CVE-2026-96652"
       ],
@@ -594,8 +596,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-102255",
-        "CVE-2026-19868"
+        "CVE-2026-19868",
+        "CVE-2026-102255"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -941,8 +943,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109618",
-        "CVE-2026-109619"
+        "CVE-2026-109619",
+        "CVE-2026-109618"
       ],
       "threat_categories": [
         "Ransomware",
