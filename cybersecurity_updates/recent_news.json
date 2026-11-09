@@ -1,6 +1,169 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
+    "link": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html",
+    "published": "Mon, 09 Nov 2026 23:21:21 +0530",
+    "summary": "An attacker broke into AWS accounts belonging to multiple Qubole customers between October 14 and October 26 and stole stored secrets and data, cloud security company Wiz said today.\n\nThe attacker used credentials for an AWS account that Qubole's platform uses to reach those customers. How the attacker got those credentials has not been disclosed.\n\nQubole, a data lake platform owned by Idera,",
+    "analysis": {
+      "issue": "Attackers used Qubole AWS credentials to breach multiple customer accounts, steal cloud secrets, and copy S3 data through trusted IAM roles",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware",
+    "link": "https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html",
+    "published": "Mon, 09 Nov 2026 23:06:28 +0530",
+    "summary": "Attackers used the Ethersphere project's own release automation to publish malicious versions of two of its tools for the Swarm decentralized storage network: bee-js 13.3.0 and Swarm Desktop 0.56.2.\n\nBoth releases download and run code built to steal the wallet key that Swarm Desktop keeps for its node, along with the stored password that unlocks it. The code is also built to install a backdoor",
+    "analysis": {
+      "issue": "Attackers abused Ethersphere release workflows to distribute malicious bee-js and Swarm Desktop versions that steal wallet keys and install backdoors",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia",
+    "link": "https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html",
+    "published": "Mon, 09 Nov 2026 20:01:29 +0530",
+    "summary": "The South Asian cyber espionage group known as Bitter (aka APT-C-08, APT-Q-37, Hazy Tiger, Orange Yali, T-APT-17, and TA397) has been observed targeting South Asian organizations with a previously unreported remote access trojan called PapRAT.\n\n\"PapRAT has both C++ and Rust implementations,\" Fortinet FortiGuard Labs researcher Cara Lin said. \"Its capabilities include command execution, file",
+    "analysis": {
+      "issue": "Bitter targets South Asian organizations with new PapRAT malware, using three infection chains and C++ and Rust variants for remote access",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More",
+    "link": "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html",
+    "published": "Mon, 09 Nov 2026 18:58:25 +0530",
+    "summary": "A system doesn't always need a complicated bug to let someone in. Sometimes, a blank password is enough. That's one of the bigger stories this week. And it gets worse when the tools meant to keep systems updated or running safely become part of the attack.\n\nElsewhere, attackers are hiding inside normal web traffic, stealing credentials from network devices, and finding new uses for exposed",
+    "analysis": {
+      "issue": "SSHole attacks, APT root flaw, $6",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars",
+    "link": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html",
+    "published": "Mon, 09 Nov 2026 16:57:53 +0530",
+    "summary": "The login systems behind two car brands' mobile apps could be taken over completely, two security researchers found, allowing them to access any customer's account and, for an owner with a connected car, unlock the doors and start the engine.\n\nBoth apps signed customers in through ForgeRock, an identity platform now part of Ping Identity, and on those servers the researchers reached an",
+    "analysis": {
+      "issue": "ForgeRock misconfigurations let researchers hijack accounts at two car brands and remotely unlock and start connected vehicles",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety",
+    "link": "https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html",
+    "published": "Mon, 09 Nov 2026 16:26:25 +0530",
+    "summary": "Some people who set up a Keplr crypto wallet with their Google or Apple account have had money stolen by an attacker.\n\nKeplr uses a company called Web3Auth to run that Google and Apple sign-in. The attacker used a security flaw at that company to reach the wallets, both companies said late last week.\n\nWeb3Auth then used the attacker's own route to empty other at-risk wallets before the attacker",
+    "analysis": {
+      "issue": "A Web3Auth flaw led to crypto theft from Keplr wallets using social login, prompting emergency transfers of over $6 million to recovery wallets",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks",
+    "link": "https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html",
+    "published": "Mon, 09 Nov 2026 15:31:21 +0530",
+    "summary": "Everyone running LNbits, a free, open-source Bitcoin Lightning wallet system, should shut down their servers now because of a wave of attacks, the project said yesterday.\n\nIt has several security fixes to release and asked operators to be careful until they are out. One operator said new accounts used an exploit to withdraw 2,285,545 satoshis, about 0.023 bitcoin, from his server before he could",
+    "analysis": {
+      "issue": "LNbits urges server shutdowns amid attacks after an operator reports losing 2",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
+    "link": "https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html",
+    "published": "Mon, 09 Nov 2026 14:31:50 +0530",
+    "summary": "A single attacker using AI agents pulled emergency dispatch records covering seven Taipei districts, researchers at Acronis's Threat Research Unit said last week.\n\nThe agents also found a Taipei fire department platform exposing patient data from 2018, including ECG readings and ambulance video footage, without a login.\n\nThe researchers are highly confident that the attacker is a single person",
+    "analysis": {
+      "issue": "A single attacker used AI agents to pull Taipei emergency dispatch records and collect data from organizations in three countries",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
+    "link": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
+    "published": "Mon, 09 Nov 2026 12:35:48 +0530",
+    "summary": "The OpenAI engineer who was arrested and charged last month for planting a covert audio recording device in the company's office has pleaded not guilty.\n\nAccording to reports from Bloomberg and CNBC, Saudi national Abdulrahman Alfozan made an appearance in San Francisco federal court on Friday, where he entered the plea. His next hearing is scheduled for November 17, 2026.\n\nIf proven guilty, the",
+    "analysis": {
+      "issue": "Former OpenAI engineer Abdulrahman Alfozan pleads not guilty to a charge involving an alleged covert recording device in an executive meeting room",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses",
     "link": "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html",
     "published": "Mon, 09 Nov 2026 11:45:10 +0530",
@@ -18,37 +181,17 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
-    "link": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html",
-    "published": "Mon, 09 Nov 2026 11:35:24 +0530",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity vulnerability impacting SonicWall SonicOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports that it said may have been exploited in real-world attacks.\n\nThe vulnerability, tracked as CVE-2026-19868 (CVSS score: 7.1 / 7.5), has been described as an authentication reinforcement",
+    "source": "Bleeping Computer",
+    "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
+    "link": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
+    "published": "Mon, 09 Nov 2026 13:32:42 -0500",
+    "summary": "France has linked October cyberattacks that disrupted refrigeration systems at more than 700 supermarkets and other retail locations to Iranian state-backed hackers, saying the attacks caused food losses and sparked at least 15 fires. [...]",
     "analysis": {
-      "issue": "CISA adds SonicWall SonicOS flaw CVE-2026-19868 to its KEV catalog following reports of possible exploitation involving SAML authentication bypass",
+      "issue": "France has linked October cyberattacks that disrupted refrigeration systems at more than 700 supermarkets and other retail locations to Iranian state-backed hackers, saying the attacks caused food losses and sparked at least 15 fires",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-19868"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
-    "link": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
-    "published": "Sat, 07 Nov 2026 12:14:17 +0530",
-    "summary": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them.\n\nWhen a user selects \"Yes, and don't ask again,\" Anthropic's AI coding assistant can save the command, word-for-word, including the secret, in a project settings file.\n\nSoftware security company Apiiro said yesterday that 1,122 public",
-    "analysis": {
-      "issue": "Claude Code saves secrets in approved commands, exposing 2,539 credentials across 1,994 public GitHub repositories, Apiiro finds",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
         "General Security"
@@ -56,33 +199,50 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
-    "link": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
-    "published": "Fri, 06 Nov 2026 21:38:38 +0530",
-    "summary": "Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it.\n\nThe update that installs the fix still unpacks its files using the site's old, unpatched code, so an attacker who strikes at the right moment can run code on the server. The researcher advises blocking web access to the",
+    "source": "Bleeping Computer",
+    "title": "Russian cloud firm Beget rebuilds from scratch after data wiper attack",
+    "link": "https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/",
+    "published": "Mon, 09 Nov 2026 12:50:32 -0500",
+    "summary": "A data-wiping malware attack has forced Russian cloud services provider Beget to rebuild its cloud infrastructure from scratch, the company said. [...]",
     "analysis": {
-      "issue": "WordPress sites can remain exposed to code execution while installing the fix for actively exploited CVE-2026-119977 through vulnerable updates",
+      "issue": "A data-wiping malware attack has forced Russian cloud services provider Beget to rebuild its cloud infrastructure from scratch, the company said",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-119977"
-      ],
+      "severity": "High",
+      "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "Malware"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
-    "link": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
-    "published": "Fri, 06 Nov 2026 20:51:49 +0530",
-    "summary": "Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian.\n\nThe vulnerability, tracked as CVE-2026-123158 (CVSS score: 8.1) and codenamed SSHole (or *sshole), impacts Linux systems that run OpenSSH on the musl C library with Pluggable Authentication Modules (PAM) disabled,",
+    "source": "Bleeping Computer",
+    "title": "Binance denies data breach after alleged ShinyHunters claims",
+    "link": "https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/",
+    "published": "Mon, 09 Nov 2026 11:12:39 -0500",
+    "summary": "Binance, the world's largest crypto exchange, has denied claims of a new security breach made by a threat actor using the 'ShinyHunters' handle on a newly emerged underground cybercrime forum. [...]",
     "analysis": {
-      "issue": "Attackers are exploiting CVE-2026-123158 in OpenSSH, with root access confirmed on an Alpine Linux honeypot",
+      "issue": "Binance, the world's largest crypto exchange, has denied claims of a new security breach made by a threat actor using the 'ShinyHunters' handle on a newly emerged underground cybercrime forum",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/",
+    "published": "Mon, 09 Nov 2026 11:04:57 -0500",
+    "summary": "Hackers are actively exploiting the \"SSHole\" vulnerability (CVE-2026-123158) in OpenSSH to execute commands, steal credentials, and establish persistent access. [...]",
+    "analysis": {
+      "issue": "Hackers are actively exploiting the \"SSHole\" vulnerability (CVE-2026-123158) in OpenSSH to execute commands, steal credentials, and establish persistent access",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -96,51 +256,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
-    "link": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
-    "published": "Fri, 06 Nov 2026 20:28:32 +0530",
-    "summary": "OpenAI on Thursday unveiled GPT‑6 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilities with a step-change improvement in model alignment.\n\nThe new model is \"more capable at finding and fixing vulnerabilities, and far more reliable staying within the boundaries researchers set,\" OpenAI said. It has classified the model as",
+    "source": "Bleeping Computer",
+    "title": "The Biggest Threat to Your GRC Job Isn’t AI. It’s Ignoring AI.",
+    "link": "https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/",
+    "published": "Mon, 09 Nov 2026 10:05:15 -0500",
+    "summary": "AI agents are taking over routine governance, risk, and compliance tasks, forcing GRC professionals to rethink the skills needed to stay relevant. Anecdotes examines three essential skills for the AI-driven GRC workplace: data literacy, agent governance, and communication. [...]",
     "analysis": {
-      "issue": "OpenAI unveils GPT-6 Cyber, reporting 948 Linux privilege escalation exploits and 81 unknown Firefox flaws discovered with its help",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
-    "link": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
-    "published": "Fri, 06 Nov 2026 17:36:43 +0530",
-    "summary": "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates.\n\nThe fixed build, 11.2609.401.0, was the newest Paint build in all ten countries The Hacker News checked today.\n\nThe flaw is an out-of-bounds read that could let an attacker run code over a network. Microsoft rates",
-    "analysis": {
-      "issue": "Microsoft Store now offers Paint 11",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-83844"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
-    "link": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
-    "published": "Fri, 06 Nov 2026 17:36:35 +0530",
-    "summary": "A browser extension that can run scripts on claude.ai could make Claude Desktop run code on a person's computer, researchers at Forever Security, an endpoint security company, showed in a test.\n\nThe attack needs Dispatch, a Claude feature that lets people send tasks from their phone to Claude Desktop. The flaw that makes this possible can still be exploited, the researchers said earlier this",
-    "analysis": {
-      "issue": "Researchers show how browser extensions can abuse Claude Dispatch to approve prompts and execute code through Claude Desktop",
+      "issue": "By Yair Kuznitsov, Co-Founder & CEO, Anecdotes The question in GRC is no longer whether your job is safe",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -152,31 +274,49 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "The Flood is Coming And The Pipes Were Already Full",
-    "link": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
-    "published": "Fri, 06 Nov 2026 17:00:00 +0530",
-    "summary": "An update on Athena, and some unsolicited predictions on what's coming next\n\nOn Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go read it if you haven't. I've spent the summer looking at what these models find, and the gap he describes between what they can do and what the rest of us are ready for is the one I've been staring at since May.\n\nThe hardest piece of his",
+    "source": "Bleeping Computer",
+    "title": "FBI agent stole $2.5 million in crypto from hackers under investigation",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/",
+    "published": "Mon, 09 Nov 2026 09:34:03 -0500",
+    "summary": "A former FBI agent has pleaded guilty to stealing nearly $2.5 million from the wallets of fraud victims and nation-state hackers under investigation. [...]",
     "analysis": {
-      "issue": "Chainguard's Athena validated over a dozen flaws, mostly pre-auth RCEs, in one open source project during a six-hour Mythos run",
+      "issue": "A former FBI agent has pleaded guilty to stealing nearly $2",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "APT"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
-    "link": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
-    "published": "Fri, 06 Nov 2026 13:34:49 +0530",
-    "summary": "Blockchain analysis firm Chainalysis has revealed that its ongoing investigation into the agentic cyber attack targeting its systems also exposed names, usernames, password hashes and live tokens for all users.\n\n\"While we investigated, we removed access to Reactor and Data Solutions,\" the company said. \"At this time we continue to have no evidence that any investigations data has been accessed",
+    "source": "Bleeping Computer",
+    "title": "US bans MEXC crypto exchange over sanctions evasion, cybercrime links",
+    "link": "https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/",
+    "published": "Mon, 09 Nov 2026 08:28:56 -0500",
+    "summary": "The US Department of the Treasury has cut off the MEXC Global crypto exchange from the US financial system over sanctions evasion and links with cybercrime gangs. [...]",
     "analysis": {
-      "issue": "Chainalysis says an agentic cyberattack exposed all users' names, usernames, password hashes and live tokens, prompting service shutdowns",
+      "issue": "The US Department of the Treasury has cut off the MEXC Global crypto exchange from the US financial system over sanctions evasion and links with cybercrime gangs",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Ukraine dismantles crypto scam network that stole €4.3 million",
+    "link": "https://www.bleepingcomputer.com/news/security/ukraine-dismantles-crypto-scam-network-that-stole-43-million/",
+    "published": "Mon, 09 Nov 2026 07:16:13 -0500",
+    "summary": "Ukrainian law enforcement arrested four suspects in a case involving the theft of more than €4.3 million using a network of cryptocurrency investment scam call centers. [...]",
+    "analysis": {
+      "issue": "Ukrainian law enforcement arrested four suspects in a case involving the theft of more than €4",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -220,157 +360,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
-    "link": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
-    "published": "Sat, 07 Nov 2026 09:10:19 -0500",
-    "summary": "Scammers are impersonating major brands and celebrities to lure consumers into fake gift card giveaways that collect personal information and trigger unwanted subscriptions. CTM360 reveals how these campaigns use deceptive verification steps and affiliate networks to generate revenue without delivering the promised rewards. [...]",
-    "analysis": {
-      "issue": "Fraudulent reward portals and fake gift card giveaways are surging globally, tricking users into deceptive verification loops and paid subscriptions",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
-    "published": "Fri, 06 Nov 2026 19:00:55 -0500",
-    "summary": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
-    "analysis": {
-      "issue": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-19868"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
-    "link": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
-    "published": "Fri, 06 Nov 2026 17:27:25 -0500",
-    "summary": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and unintentionally attacked the company. [...]",
-    "analysis": {
-      "issue": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and unintentionally attacked the company",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
-    "link": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
-    "published": "Fri, 06 Nov 2026 15:24:19 -0500",
-    "summary": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [...]",
-    "analysis": {
-      "issue": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Fake security tools on GitHub push backdoors and infostealers",
-    "link": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
-    "published": "Fri, 06 Nov 2026 13:46:52 -0500",
-    "summary": "Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]",
-    "analysis": {
-      "issue": "Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
-    "published": "Fri, 06 Nov 2026 12:04:23 -0500",
-    "summary": "QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain. [...]",
-    "analysis": {
-      "issue": "QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-96656",
-        "CVE-2026-96655",
-        "CVE-2026-96654",
-        "CVE-2026-96652"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Veeam warns of Software Appliance boot failures on AMD EPYC hosts",
-    "link": "https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/",
-    "published": "Fri, 06 Nov 2026 10:25:31 -0500",
-    "summary": "​Veeam warned customers about boot failures affecting Software Appliance virtual machines (VMs) on hosts with AMD EPYC processors. [...]",
-    "analysis": {
-      "issue": "​Veeam warned customers about boot failures affecting Software Appliance virtual machines (VMs) on hosts with AMD EPYC processors",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It",
-    "link": "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/",
-    "published": "Fri, 06 Nov 2026 10:00:10 -0500",
-    "summary": "IMSI and IMEI are IDs your phone shares with networks. Learn how they differ, how attackers get them, and why rotating your IMSI blunts tracking. [...]",
-    "analysis": {
-      "issue": "In April 2026, BleepingComputer reported that Canadian authorities arrested three men for operating an “SMS blaster,” a device that pretends to be a cell tower to send phishing texts to nearby phones",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
       ]
     }
   },
@@ -479,8 +468,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-96951",
-        "CVE-2026-108398"
+        "CVE-2026-108398",
+        "CVE-2026-96951"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -567,6 +556,163 @@
   },
   {
     "source": "Security Week",
+    "title": "Revolve Puts Data Breach Victim Count at 1.5 Million",
+    "link": "https://www.securityweek.com/revolve-puts-data-breach-victim-count-at-1-5-million/",
+    "published": "Mon, 09 Nov 2026 14:08:08 +0000",
+    "summary": "<p>Online fashion retailer Revolve has told regulators that the September cyberattack affected more than 1.5 million individuals.</p>\n<p>The post <a href=\"https://www.securityweek.com/revolve-puts-data-breach-victim-count-at-1-5-million/\">Revolve Puts Data Breach Victim Count at 1.5 Million</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Online fashion retailer Revolve has told regulators that the September cyberattack affected more than 1",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Plex2Shell Exploited Against QNAP NAS Users",
+    "link": "https://www.securityweek.com/plex2shell-exploited-against-qnap-nas-users/",
+    "published": "Mon, 09 Nov 2026 13:13:28 +0000",
+    "summary": "<p>Threat actors are exploiting the four-flaw chain to hack the Plex Media Server application on QNAP NAS devices.</p>\n<p>The post <a href=\"https://www.securityweek.com/plex2shell-exploited-against-qnap-nas-users/\">Plex2Shell Exploited Against QNAP NAS Users</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Threat actors are exploiting the four-flaw chain to hack the Plex Media Server application on QNAP NAS devices",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-96652",
+        "CVE-2026-96654",
+        "CVE-2026-96656",
+        "CVE-2026-96655"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Iris Plaza Breach May Have Exposed Data of 7.7 Million Customers",
+    "link": "https://www.securityweek.com/iris-plaza-breach-may-have-exposed-data-of-7-7-million-customers/",
+    "published": "Mon, 09 Nov 2026 12:41:27 +0000",
+    "summary": "<p>Hackers compromised an external cloud service used by the shopping platform and may have stolen personal information from it.</p>\n<p>The post <a href=\"https://www.securityweek.com/iris-plaza-breach-may-have-exposed-data-of-7-7-million-customers/\">Iris Plaza Breach May Have Exposed Data of 7.7 Million Customers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Hackers compromised an external cloud service used by the shopping platform and may have stolen personal information from it",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Italy’s Meloni Blames Pro-Russian Hackers for Leak of Foreign Minister’s Data on the Dark Web",
+    "link": "https://www.securityweek.com/italys-meloni-blames-pro-russian-hackers-for-leak-of-foreign-ministers-data-on-the-dark-web/",
+    "published": "Mon, 09 Nov 2026 12:22:12 +0000",
+    "summary": "<p>Italian Foreign Minister Antonio Tajani said Saturday that his personal data had been disseminated on the dark web.</p>\n<p>The post <a href=\"https://www.securityweek.com/italys-meloni-blames-pro-russian-hackers-for-leak-of-foreign-ministers-data-on-the-dark-web/\">Italy&#8217;s Meloni Blames Pro-Russian Hackers for Leak of Foreign Minister&#8217;s Data on the Dark Web</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Italian Foreign Minister Antonio Tajani said Saturday that his personal data had been disseminated on the dark web",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Hackers Exploiting ‘SSHole’ Authentication Bypass in OpenSSH",
+    "link": "https://www.securityweek.com/hackers-exploiting-sshole-authentication-bypass-in-openssh/",
+    "published": "Mon, 09 Nov 2026 12:13:32 +0000",
+    "summary": "<p>The initial exploitation attempts are attributed to botnets and crypto miners, but other threat actors are expected to follow suit.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-exploiting-sshole-authentication-bypass-in-openssh/\">Hackers Exploiting &#8216;SSHole&#8217; Authentication Bypass in OpenSSH</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The initial exploitation attempts are attributed to botnets and crypto miners, but other threat actors are expected to follow suit",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-123158"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Amplifon Americas Data Breach Impacts 1.3 Million",
+    "link": "https://www.securityweek.com/amplifon-americas-data-breach-impacts-1-3-million/",
+    "published": "Mon, 09 Nov 2026 11:20:09 +0000",
+    "summary": "<p>Hackers stole personal, health, and insurance information, including Social Security numbers, from the company’s internal systems.</p>\n<p>The post <a href=\"https://www.securityweek.com/amplifon-americas-data-breach-impacts-1-3-million/\">Amplifon Americas Data Breach Impacts 1.3 Million</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Hackers stole personal, health, and insurance information, including Social Security numbers, from the company’s internal systems",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Over 3 Million People Hit by Frontline Education Data Breach",
+    "link": "https://www.securityweek.com/3-million-people-hit-by-frontline-education-data-breach/",
+    "published": "Mon, 09 Nov 2026 10:09:02 +0000",
+    "summary": "<p>Frontline Education told Indiana regulators that its August data breach affected over 3 million school district staff and students.</p>\n<p>The post <a href=\"https://www.securityweek.com/3-million-people-hit-by-frontline-education-data-breach/\">Over 3 Million People Hit by Frontline Education Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Frontline Education told Indiana regulators that its August data breach affected over 3 million school district staff and students",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Google DeepMind’s AI Agents Make 1024-Bit RSA Keys Cheaper to Attack",
+    "link": "https://www.securityweek.com/google-deepminds-ai-agents-make-1024-bit-rsa-keys-cheaper-to-attack/",
+    "published": "Mon, 09 Nov 2026 08:35:50 +0000",
+    "summary": "<p>Working with cryptographers, DeepMind’s AI agents cut the cost of forging RSA-1024 signatures and found a cheaper way to factor keys.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-deepminds-ai-agents-make-1024-bit-rsa-keys-cheaper-to-attack/\">Google DeepMind&#8217;s AI Agents Make 1024-Bit RSA Keys Cheaper to Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Working with cryptographers, DeepMind’s AI agents cut the cost of forging RSA-1024 signatures and found a cheaper way to factor keys",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Brava Security Emerges From Stealth With $15 Million in Funding",
     "link": "https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/",
     "published": "Sun, 08 Nov 2026 12:14:00 +0000",
@@ -596,163 +742,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-19868",
-        "CVE-2026-102255"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks",
-    "link": "https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/",
-    "published": "Fri, 06 Nov 2026 18:28:41 +0000",
-    "summary": "<p>The emergency package comes after dozens of companies and government agencies were hit by unauthorized access to their systems and leaks of client data, prompting uneasiness across Japan.</p>\n<p>The post <a href=\"https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/\">Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The emergency package comes after dozens of companies and government agencies were hit by unauthorized access to their systems and leaks of client data, prompting uneasiness across Japan",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days",
-    "link": "https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/",
-    "published": "Fri, 06 Nov 2026 14:40:09 +0000",
-    "summary": "<p>Noteworthy stories that might have slipped under the radar: Synology warns about NAS ransomware attacks, Flowise ‘hello’ attacks, Chainalysis breach impact expands.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/\">In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Noteworthy stories that might have slipped under the radar: Synology warns about NAS ransomware attacks, Flowise ‘hello’ attacks, Chainalysis breach impact expands",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2024-58351",
-        "CVE-2026-40217"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Phishing",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "DigiCert Data Breach Impacts Business Customer Information",
-    "link": "https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/",
-    "published": "Fri, 06 Nov 2026 14:00:07 +0000",
-    "summary": "<p>Hackers created an account on an internal system and accessed names, email addresses, phone numbers, and business addresses.</p>\n<p>The post <a href=\"https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/\">DigiCert Data Breach Impacts Business Customer Information</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Hackers created an account on an internal system and accessed names, email addresses, phone numbers, and business addresses",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "OpenAI Says New GPT-6 Cyber Model Hunts Flaws Without Crossing the Line",
-    "link": "https://www.securityweek.com/openai-says-new-gpt-6-cyber-model-hunts-flaws-without-crossing-the-line/",
-    "published": "Fri, 06 Nov 2026 13:19:52 +0000",
-    "summary": "<p>Rated Critical for cybersecurity, OpenAI’s new model beats GPT-5.6 Cyber at exploitation while staying in scope more reliably.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-says-new-gpt-6-cyber-model-hunts-flaws-without-crossing-the-line/\">OpenAI Says New GPT-6 Cyber Model Hunts Flaws Without Crossing the Line</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Rated Critical for cybersecurity, OpenAI’s new model beats GPT-5",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "US Agencies Urge Organizations to Harden Refrigeration Controllers",
-    "link": "https://www.securityweek.com/us-agencies-urge-organizations-to-harden-refrigeration-controllers/",
-    "published": "Fri, 06 Nov 2026 13:02:26 +0000",
-    "summary": "<p>The recommendations come amid attacks targeting fridges and freezers in supermarkets and blood banks in Europe.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-agencies-urge-organizations-to-harden-refrigeration-controllers/\">US Agencies Urge Organizations to Harden Refrigeration Controllers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The recommendations come amid attacks targeting fridges and freezers in supermarkets and blood banks in Europe",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack",
-    "link": "https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/",
-    "published": "Fri, 06 Nov 2026 12:47:55 +0000",
-    "summary": "<p>The October incident will cut fourth-quarter sales by up to €250 million and has led Ahold Delhaize to lower its 2026 outlook.</p>\n<p>The post <a href=\"https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/\">Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The October incident will cut fourth-quarter sales by up to €250 million and has led Ahold Delhaize to lower its 2026 outlook",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Researchers Find Residential Proxies on White House Network",
-    "link": "https://www.securityweek.com/researchers-find-residential-proxies-on-white-house-network/",
-    "published": "Fri, 06 Nov 2026 12:16:13 +0000",
-    "summary": "<p>In a month, 28 residential proxy services used 6 addresses, mainly between 5 p.m. and midnight, Eastern Time.</p>\n<p>The post <a href=\"https://www.securityweek.com/researchers-find-residential-proxies-on-white-house-network/\">Researchers Find Residential Proxies on White House Network</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "In a month, 28 residential proxy services used 6 addresses, mainly between 5 p",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "OpenSSH Rushes Patches for ‘SSHole’ Authentication Bypass",
-    "link": "https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/",
-    "published": "Fri, 06 Nov 2026 12:07:42 +0000",
-    "summary": "<p>On Linux distributions using musl libc without PAM, some accounts accept any password between 257 and 1024 characters.</p>\n<p>The post <a href=\"https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/\">OpenSSH Rushes Patches for &#8216;SSHole&#8217; Authentication Bypass</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "On Linux distributions using musl libc without PAM, some accounts accept any password between 257 and 1024 characters",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-123158"
+        "CVE-2026-102255",
+        "CVE-2026-19868"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -943,8 +934,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109619",
-        "CVE-2026-109618"
+        "CVE-2026-109618",
+        "CVE-2026-109619"
       ],
       "threat_categories": [
         "Ransomware",
@@ -1330,6 +1321,42 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "13.3 million people’s medical data exposed; companies pay $300,000",
+    "link": "https://www.malwarebytes.com/blog/news/2026/11/13-3-million-peoples-medical-data-exposed-companies-pay-300000",
+    "published": "Mon, 09 Nov 2026 13:13:02 GMT",
+    "summary": "The New York AG reached a settlement with Perry Johnson & Associates and four related companies over a 2023 breach.",
+    "analysis": {
+      "issue": "The New York attorney general (AG) has reached a settlement over a medical data breach that affected 13",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "A week in security (November 2 – November 8)",
+    "link": "https://www.malwarebytes.com/blog/news/2026/11/a-week-in-security-november-2-november-8",
+    "published": "Mon, 09 Nov 2026 08:01:00 GMT",
+    "summary": "A list of topics we covered in the week of November 2 to November 8 of 2026",
+    "analysis": {
+      "issue": "Last week on Malwarebytes Labs: Stay safe",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Big Tech sues over California plan to limit kids’ scrolling",
     "link": "https://www.malwarebytes.com/blog/news/2026/11/big-tech-sues-over-california-plan-to-limit-kids-scrolling",
     "published": "Fri, 06 Nov 2026 15:06:02 GMT",
@@ -1472,43 +1499,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Chrome 157 fixes 213 security issues, including 7 critical flaws",
-    "link": "https://www.malwarebytes.com/blog/bugs/2026/11/chrome-157-fixes-213-security-issues-including-7-critical-flaws",
-    "published": "Wed, 04 Nov 2026 12:16:25 GMT",
-    "summary": "Your browser may not have updated itself yet. Here’s how to check your version and install the fix manually.",
-    "analysis": {
-      "issue": "On November 3, Google issued Chrome 157 to the stable channel for Windows, Mac and Linux",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "A hidden backdoor put 1.3 million TV boxes to work for criminals",
-    "link": "https://www.malwarebytes.com/blog/mobile/2026/11/a-hidden-backdoor-put-1-3-million-tv-boxes-to-work-for-criminals",
-    "published": "Tue, 03 Nov 2026 14:11:25 GMT",
-    "summary": "Videostrong planted a backdoor in more than 1.3 million Android set-top boxes and sold criminals access to the resulting botnet.",
-    "analysis": {
-      "issue": "Most malware needs you to click something",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
       ]
     }
   },
