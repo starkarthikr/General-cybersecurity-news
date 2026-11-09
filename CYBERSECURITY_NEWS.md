@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-08 20:41:05 UTC
+**Last Updated:** 2026-11-09 05:40:08 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -166,7 +166,7 @@
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Nov 2026 12:04:23 -0500  
 **Severity:** Low  
-**CVEs:** CVE-2026-96655, CVE-2026-96652, CVE-2026-96654, CVE-2026-96656  
+**CVEs:** CVE-2026-96655, CVE-2026-96656, CVE-2026-96654, CVE-2026-96652  
 **Categories:** Vulnerability  
 
 ---
@@ -239,7 +239,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 13 Oct 2026 23:24:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-108398, CVE-2026-96951  
+**CVEs:** CVE-2026-96951, CVE-2026-108398  
 **Categories:** Vulnerability  
 
 ---
@@ -295,7 +295,7 @@
 **Source:** Security Week  
 **Published:** Sat, 07 Nov 2026 10:16:23 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-19868, CVE-2026-102255  
+**CVEs:** CVE-2026-102255, CVE-2026-19868  
 **Categories:** Vulnerability  
 
 ---
@@ -314,7 +314,7 @@
 **Source:** Security Week  
 **Published:** Fri, 06 Nov 2026 14:40:09 +0000  
 **Severity:** High  
-**CVEs:** CVE-2026-40217, CVE-2024-58351  
+**CVEs:** CVE-2024-58351, CVE-2026-40217  
 **Categories:** Ransomware, Vulnerability, Phishing, APT  
 
 ---
