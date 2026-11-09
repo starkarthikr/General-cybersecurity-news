@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-09 19:01:31 UTC
+**Last Updated:** 2026-11-09 22:08:59 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -94,7 +94,25 @@
 
 ---
 
-### 11. [France blames Iranian hackers for supermarket attacks that sparked fires](https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/)
+### 11. [N-able takes cloud platform offline after 30+ "zero-days" published](https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 09 Nov 2026 16:26:25 -0500  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [York University breach exposed personal information dating to 2007](https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 09 Nov 2026 16:22:31 -0500  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 13. [France blames Iranian hackers for supermarket attacks that sparked fires](https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 09 Nov 2026 13:32:42 -0500  
@@ -103,7 +121,7 @@
 
 ---
 
-### 12. [Russian cloud firm Beget rebuilds from scratch after data wiper attack](https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/)
+### 14. [Russian cloud firm Beget rebuilds from scratch after data wiper attack](https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 09 Nov 2026 12:50:32 -0500  
@@ -112,7 +130,7 @@
 
 ---
 
-### 13. [Binance denies data breach after alleged ShinyHunters claims](https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/)
+### 15. [Binance denies data breach after alleged ShinyHunters claims](https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 09 Nov 2026 11:12:39 -0500  
@@ -121,7 +139,7 @@
 
 ---
 
-### 14. [Hackers exploit SSHole OpenSSH flaw to breach Linux systems](https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/)
+### 16. [Hackers exploit SSHole OpenSSH flaw to breach Linux systems](https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 09 Nov 2026 11:04:57 -0500  
@@ -131,7 +149,7 @@
 
 ---
 
-### 15. [The Biggest Threat to Your GRC Job Isn’t AI. It’s Ignoring AI.](https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/)
+### 17. [The Biggest Threat to Your GRC Job Isn’t AI. It’s Ignoring AI.](https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 09 Nov 2026 10:05:15 -0500  
@@ -140,7 +158,7 @@
 
 ---
 
-### 16. [FBI agent stole $2.5 million in crypto from hackers under investigation](https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/)
+### 18. [FBI agent stole $2.5 million in crypto from hackers under investigation](https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 09 Nov 2026 09:34:03 -0500  
@@ -149,7 +167,7 @@
 
 ---
 
-### 17. [US bans MEXC crypto exchange over sanctions evasion, cybercrime links](https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/)
+### 19. [US bans MEXC crypto exchange over sanctions evasion, cybercrime links](https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 09 Nov 2026 08:28:56 -0500  
@@ -158,29 +176,11 @@
 
 ---
 
-### 18. [Ukraine dismantles crypto scam network that stole €4.3 million](https://www.bleepingcomputer.com/news/security/ukraine-dismantles-crypto-scam-network-that-stole-43-million/)
+### 20. [Ukraine dismantles crypto scam network that stole €4.3 million](https://www.bleepingcomputer.com/news/security/ukraine-dismantles-crypto-scam-network-that-stole-43-million/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 09 Nov 2026 07:16:13 -0500  
 **Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 19. [Iris Ohyama data cloud breach exposes info of 7.7 million customers](https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/)
-
-**Source:** Bleeping Computer  
-**Published:** Sun, 08 Nov 2026 10:43:08 -0500  
-**Severity:** High  
-**Categories:** Supply Chain  
-
----
-
-### 20. [Hackers pull off $133 million French bank heist via service provider](https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 07 Nov 2026 10:25:35 -0500  
-**Severity:** High  
 **Categories:** General Security  
 
 ---
@@ -291,7 +291,7 @@
 **Source:** Security Week  
 **Published:** Mon, 09 Nov 2026 13:13:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-96652, CVE-2026-96654, CVE-2026-96656, CVE-2026-96655  
+**CVEs:** CVE-2026-96654, CVE-2026-96656, CVE-2026-96655, CVE-2026-96652  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

@@ -182,6 +182,42 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
+    "link": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
+    "published": "Mon, 09 Nov 2026 16:26:25 -0500",
+    "summary": "N-able has taken its hosted N-central environments offline and urged on-premises customers to shut down their servers after a security researcher publicly disclosed more than 30 alleged zero-day vulnerabilities, including exploits that could let attackers take over vulnerable systems. [...]",
+    "analysis": {
+      "issue": "N-able has taken its hosted N-central environments offline and urged on-premises customers to shut down their servers after a security researcher publicly disclosed more than 30 alleged zero-day vulnerabilities, including exploits that could let atta",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "York University breach exposed personal information dating to 2007",
+    "link": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/",
+    "published": "Mon, 09 Nov 2026 16:22:31 -0500",
+    "summary": "York University has announced it suffered a cybersecurity incident in which a threat actor stole personal information people submitted through online forms. [...]",
+    "analysis": {
+      "issue": "York University in Toronto has confirmed that a threat actor breached its systems and accessed personal information submitted through online forms",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
     "link": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
     "published": "Mon, 09 Nov 2026 13:32:42 -0500",
@@ -321,42 +357,6 @@
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
-    "link": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
-    "published": "Sun, 08 Nov 2026 10:43:08 -0500",
-    "summary": "Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a third-party cloud service the company used. [...]",
-    "analysis": {
-      "issue": "Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers pull off $133 million French bank heist via service provider",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
-    "published": "Sat, 07 Nov 2026 10:25:35 -0500",
-    "summary": "French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [...]",
-    "analysis": {
-      "issue": "French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
       "cves": [],
       "threat_categories": [
         "General Security"
@@ -585,10 +585,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-96652",
         "CVE-2026-96654",
         "CVE-2026-96656",
-        "CVE-2026-96655"
+        "CVE-2026-96655",
+        "CVE-2026-96652"
       ],
       "threat_categories": [
         "Vulnerability",
