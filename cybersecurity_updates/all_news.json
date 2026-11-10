@@ -60,7 +60,7 @@
     "title": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
     "link": "https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html",
     "published": "Tue, 10 Nov 2026 17:45:31 +0530",
-    "summary": "An iOS sandbox escape published on GitHub lets an app read other apps' files on iPhones running iOS 26 and 27. That puts seed phrases, private keys, and login credentials at risk of exposure to malicious apps, Binance warned today. Apple's updates for iOS 26 and 27, released yesterday, do not list a fix.\n\nA researcher who goes by forcequit released the escape, called worse_query, on Sunday, a",
+    "summary": "An iOS sandbox escape published on GitHub lets an app read other apps' files on iPhones running iOS 26 and 27. That puts seed phrases, private keys, and login credentials at risk of exposure to malicious apps, Binance warned today. Apple's updates for iOS 26 and 27, released yesterday, do not list a fix.\n\nA researcher who goes by forcequit,&nbsp;&nbsp;in collaboration with 0xjohnny,&nbsp;",
     "analysis": {
       "issue": "Binance warns that an iOS sandbox escape could expose crypto wallet keys to malicious apps, with no confirmed fix in Apple's latest updates",
       "solution": null,
@@ -183,6 +183,42 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/",
+    "published": "Tue, 10 Nov 2026 14:07:36 -0500",
+    "summary": "Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability. [...]",
+    "analysis": {
+      "issue": "Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/",
+    "published": "Tue, 10 Nov 2026 13:33:26 -0500",
+    "summary": "Microsoft has released the Patch Tuesday Windows 11 and cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]",
+    "analysis": {
+      "issue": "Microsoft has released the Patch Tuesday Windows 11 KB513261 and KB5131087 cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs and add new features",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
     "link": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
     "published": "Tue, 10 Nov 2026 11:17:16 -0500",
@@ -249,10 +285,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-89126",
-        "CVE-2026-120017",
+        "CVE-2026-76964",
         "CVE-2026-89103",
-        "CVE-2026-76964"
+        "CVE-2026-120017",
+        "CVE-2026-89126"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -332,43 +368,6 @@
       "severity": "High",
       "cves": [],
       "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
-    "link": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
-    "published": "Mon, 09 Nov 2026 18:52:12 -0500",
-    "summary": "Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee, and research data. [...]",
-    "analysis": {
-      "issue": "Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee, and research data",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "SEGA newsletter data breach exposes 2.2 million email addresses",
-    "link": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
-    "published": "Mon, 09 Nov 2026 17:09:33 -0500",
-    "summary": "Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2.2 million newsletter subscribers. [...]",
-    "analysis": {
-      "issue": "Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
         "Supply Chain"
       ]
     }
@@ -566,6 +565,84 @@
   },
   {
     "source": "Security Week",
+    "title": "Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft",
+    "link": "https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft/",
+    "published": "Tue, 10 Nov 2026 19:19:46 +0000",
+    "summary": "<p>CVE-2026-124194 is the Outlook zero-day for which Microsoft says it’s aware of active exploitation. </p>\n<p>The post <a href=\"https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft/\">Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "CVE-2026-124194 is the Outlook zero-day for which Microsoft says it’s aware of active exploitation",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-124194"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Adobe Patches 110 Vulnerabilities Across 9 Products",
+    "link": "https://www.securityweek.com/adobe-patches-110-vulnerabilities-across-9-products/",
+    "published": "Tue, 10 Nov 2026 18:11:54 +0000",
+    "summary": "<p>Adobe has fixed vulnerabilities in AEM, Premiere, Photoshop, After Effects, Connect, Audition, Dimension, Content Credentials SDK, and Media Encoder.</p>\n<p>The post <a href=\"https://www.securityweek.com/adobe-patches-110-vulnerabilities-across-9-products/\">Adobe Patches 110 Vulnerabilities Across 9 Products</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Adobe has fixed vulnerabilities in AEM, Premiere, Photoshop, After Effects, Connect, Audition, Dimension, Content Credentials SDK, and Media Encoder",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Software Transparency Is Changing: Allan Friedman on SBOM, AI BOMs and What Comes Next",
+    "link": "https://www.securityweek.com/software-transparency-is-changing-allan-friedman-on-sbom-ai-boms-and-what-comes-next/",
+    "published": "Tue, 10 Nov 2026 16:45:00 +0000",
+    "summary": "<p>SBOM pioneer Allan Friedman joined the SecurityWeek Podcast to discuss why knowing what is inside software is only the beginning, how AI is complicating software supply chain visibility, and what organizations should be doing with SBOM data once they have it.</p>\n<p>The post <a href=\"https://www.securityweek.com/software-transparency-is-changing-allan-friedman-on-sbom-ai-boms-and-what-comes-next/\">Software Transparency Is Changing: Allan Friedman on SBOM, AI BOMs and What Comes Next</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "SBOM pioneer Allan Friedman joined the SecurityWeek Podcast to discuss why knowing what is inside software is only the beginning, how AI is complicating software supply chain visibility, and what organizations should be doing with SBOM data once they",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "APT",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Google Widens Gemini 4 Carbon Access After AI Agents Verify Signal Code",
+    "link": "https://www.securityweek.com/google-widens-gemini-4-carbon-access-after-ai-agents-verify-signal-code/",
+    "published": "Tue, 10 Nov 2026 16:42:02 +0000",
+    "summary": "<p>Google opened Carbon to paying developers and businesses as DeepMind used agents built on it to prove libsignal security guarantees.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-widens-gemini-4-carbon-access-after-ai-agents-verify-signal-code/\">Google Widens Gemini 4 Carbon Access After AI Agents Verify Signal Code</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Google opened Carbon to paying developers and businesses as DeepMind used agents built on it to prove libsignal security guarantees",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Today: CISO Forum Virtual Summit 2026 – Join Global Cybersecurity Leaders",
     "link": "https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders/",
     "published": "Tue, 10 Nov 2026 15:00:00 +0000",
@@ -613,15 +690,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109798",
-        "CVE-2026-109795",
-        "CVE-2026-89119",
-        "CVE-2026-76965",
-        "CVE-2026-89126",
-        "CVE-2026-89103",
         "CVE-2026-76964",
+        "CVE-2026-109798",
         "CVE-2026-120017",
-        "CVE-2026-109803"
+        "CVE-2026-89119",
+        "CVE-2026-89126",
+        "CVE-2026-76965",
+        "CVE-2026-89103",
+        "CVE-2026-109803",
+        "CVE-2026-109795"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -681,92 +758,6 @@
       "threat_categories": [
         "Vulnerability",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "IBM Aspera Faspex, SignalWire FreeSwitch Vulnerabilities Exploited in Attacks",
-    "link": "https://www.securityweek.com/ibm-aspera-faspex-signalwire-freeswitch-vulnerabilities-exploited-in-attacks/",
-    "published": "Tue, 10 Nov 2026 09:42:27 +0000",
-    "summary": "<p>CISA has added CVE-2026-123218 and CVE-2026-116779 to KEV, urging federal agencies to patch them within three days.</p>\n<p>The post <a href=\"https://www.securityweek.com/ibm-aspera-faspex-signalwire-freeswitch-vulnerabilities-exploited-in-attacks/\">IBM Aspera Faspex, SignalWire FreeSwitch Vulnerabilities Exploited in Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "CISA has added CVE-2026-123218 and CVE-2026-116779 to KEV, urging federal agencies to patch them within three days",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-123218",
-        "CVE-2026-123158",
-        "CVE-2026-102895",
-        "CVE-2026-116779"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "France Blames Iran for a Cyberattack That Heated Supermarket Refrigerators",
-    "link": "https://www.securityweek.com/france-blames-iran-for-a-cyberattack-that-heated-supermarket-refrigerators/",
-    "published": "Tue, 10 Nov 2026 07:35:05 +0000",
-    "summary": "<p>France summoned the Iranian ambassador and said it would seek European sanctions against those responsible for the attack</p>\n<p>The post <a href=\"https://www.securityweek.com/france-blames-iran-for-a-cyberattack-that-heated-supermarket-refrigerators/\">France Blames Iran for a Cyberattack That Heated Supermarket Refrigerators</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "France summoned the Iranian ambassador and said it would seek European sanctions against those responsible for the attack By Flipboard Reddit Whatsapp Whatsapp Email France on Monday blamed Iran for last month’s cyberattack on supermarket refrigerato",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Chrome Update Patches Exploited XML Zero-Day, Eighth This Year",
-    "link": "https://www.securityweek.com/chrome-update-patches-exploited-xml-zero-day-eighth-this-year/",
-    "published": "Tue, 10 Nov 2026 06:12:24 +0000",
-    "summary": "<p>The high-severity use-after-free in Chrome’s XML component was reported anonymously on November 6 and is already exploited in attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-update-patches-exploited-xml-zero-day-eighth-this-year/\">Chrome Update Patches Exploited XML Zero-Day, Eighth This Year</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The high-severity use-after-free in Chrome’s XML component was reported anonymously on November 6 and is already exploited in attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-11645",
-        "CVE-2026-87491",
-        "CVE-2026-5281",
-        "CVE-2026-3909",
-        "CVE-2026-85046",
-        "CVE-2026-125350",
-        "CVE-2026-2441",
-        "CVE-2026-3910"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Revolve Puts Data Breach Victim Count at 1.5 Million",
-    "link": "https://www.securityweek.com/revolve-puts-data-breach-victim-count-at-1-5-million/",
-    "published": "Mon, 09 Nov 2026 14:08:08 +0000",
-    "summary": "<p>Online fashion retailer Revolve has told regulators that the September cyberattack affected more than 1.5 million individuals.</p>\n<p>The post <a href=\"https://www.securityweek.com/revolve-puts-data-breach-victim-count-at-1-5-million/\">Revolve Puts Data Breach Victim Count at 1.5 Million</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Online fashion retailer Revolve has told regulators that the September cyberattack affected more than 1",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
       ]
     }
   },
@@ -965,6 +956,24 @@
   },
   {
     "source": "Recorded Future",
+    "title": "DoppelCart Fraud Network Grows to More Than 250,000 Domains",
+    "link": "https://www.recordedfuture.com/blog/doppelcart-fraud-network-grows-domains",
+    "published": "Tue, 10 Nov 2026 00:00:00 GMT",
+    "summary": "Explore DoppelCart, a 260K+ domain shopping fraud network impersonating global brands, utilizing shared infrastructure and Medusa.",
+    "analysis": {
+      "issue": "Explore DoppelCart, a 260K+ domain shopping fraud network impersonating global brands, utilizing shared infrastructure and Medusa",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
     "title": "GhostFrame: A new ESXi Implant Linked to Settra Ransomware",
     "link": "https://www.recordedfuture.com/blog/ghostframe-esxi-implant-settra-ransomware",
     "published": "Tue, 10 Nov 2026 00:00:00 GMT",
@@ -1116,24 +1125,6 @@
     "summary": "Explore Russia's escalating internet restrictions, VPN bans, and outages, and understand the growing operational and surveillance risks for organizations.",
     "analysis": {
       "issue": "Explore Russia's escalating internet restrictions, VPN bans, and outages, and understand the growing operational and surveillance risks for organizations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "TAG-193’s Regional Espionage Operations",
-    "link": "https://www.recordedfuture.com/blog/tag193-regional-espionage-operations",
-    "published": "Wed, 14 Oct 2026 00:00:00 GMT",
-    "summary": "Explore joint Cisco Talos and Recorded Future research on TAG-193's cyber-espionage operations targeting government across Central Asia and the wider Commonwealth of Independent States (CIS)",
-    "analysis": {
-      "issue": "Explore joint Cisco Talos and Recorded Future research on TAG-193's cyber-espionage operations targeting government across Central Asia and the wider Commonwealth of Independent States (CIS)",
       "solution": null,
       "cause": null,
       "timeline": null,
