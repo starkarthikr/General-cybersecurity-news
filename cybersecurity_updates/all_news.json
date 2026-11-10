@@ -1,6 +1,44 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
+    "link": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
+    "published": "Tue, 10 Nov 2026 12:22:54 +0530",
+    "summary": "Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild.\n\nThe high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score: N/A), has been described as a use-after-free bug in the XML component.\n\nUse-after-free bugs typically occur when a program attempts to access a memory location after",
+    "analysis": {
+      "issue": "Google patches nine Chrome flaws, including actively exploited CVE-2026-125350, a high-severity use-after-free vulnerability in the XML component",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2026-125350"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days with PoC Exploits",
+    "link": "https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html",
+    "published": "Tue, 10 Nov 2026 12:14:36 +0530",
+    "summary": "N-able said it has taken N-central Hosted Environments offline and is urging on-premises customers to shut down their servers until further notice following the public disclosure of over 30 vulnerabilities collectively tracked as Able2Shell.\n\n\"As a precautionary measure, we are temporarily taking our Hosted N-central environment offline while we take the necessary actions to secure the",
+    "analysis": {
+      "issue": "N-able takes hosted N-central offline and urges on-premises shutdowns after 30-plus Able2Shell flaws expose credentials and enable root execution",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws",
     "link": "https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html",
     "published": "Tue, 10 Nov 2026 12:01:42 +0530",
@@ -142,42 +180,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
-    "link": "https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html",
-    "published": "Mon, 09 Nov 2026 14:31:50 +0530",
-    "summary": "A single attacker using AI agents pulled emergency dispatch records covering seven Taipei districts, researchers at Acronis's Threat Research Unit said last week.\n\nThe agents also found a Taipei fire department platform exposing patient data from 2018, including ECG readings and ambulance video footage, without a login.\n\nThe researchers are highly confident that the attacker is a single person",
-    "analysis": {
-      "issue": "A single attacker used AI agents to pull Taipei emergency dispatch records and collect data from organizations in three countries",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
-    "link": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
-    "published": "Mon, 09 Nov 2026 12:35:48 +0530",
-    "summary": "The OpenAI engineer who was arrested and charged last month for planting a covert audio recording device in the company's office has pleaded not guilty.\n\nAccording to reports from Bloomberg and CNBC, Saudi national Abdulrahman Alfozan made an appearance in San Francisco federal court on Friday, where he entered the plea. His next hearing is scheduled for November 17, 2026.\n\nIf proven guilty, the",
-    "analysis": {
-      "issue": "Former OpenAI engineer Abdulrahman Alfozan pleads not guilty to a charge involving an alleged covert recording device in an executive meeting room",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -569,14 +571,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-3909",
-        "CVE-2026-11645",
-        "CVE-2026-85046",
+        "CVE-2026-5281",
         "CVE-2026-3910",
+        "CVE-2026-11645",
         "CVE-2026-125350",
-        "CVE-2026-2441",
+        "CVE-2026-85046",
+        "CVE-2026-3909",
         "CVE-2026-87491",
-        "CVE-2026-5281"
+        "CVE-2026-2441"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -614,10 +616,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-96652",
         "CVE-2026-96656",
         "CVE-2026-96655",
-        "CVE-2026-96654",
-        "CVE-2026-96652"
+        "CVE-2026-96654"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -942,8 +944,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-109618",
-        "CVE-2026-109619"
+        "CVE-2026-109619",
+        "CVE-2026-109618"
       ],
       "threat_categories": [
         "Ransomware",

@@ -1,10 +1,29 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-10 06:49:01 UTC
+**Last Updated:** 2026-11-10 07:38:14 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws](https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html)
+### 1. [Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026](https://thehackernews.com/2026/11/google-issues-chrome-security-update.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 10 Nov 2026 12:22:54 +0530  
+**Severity:** High  
+**CVEs:** CVE-2026-125350  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days with PoC Exploits](https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 10 Nov 2026 12:14:36 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws](https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 10 Nov 2026 12:01:42 +0530  
@@ -13,7 +32,7 @@
 
 ---
 
-### 2. [Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data](https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html)
+### 4. [Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data](https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 09 Nov 2026 23:21:21 +0530  
@@ -22,7 +41,7 @@
 
 ---
 
-### 3. [Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware](https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html)
+### 5. [Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware](https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 09 Nov 2026 23:06:28 +0530  
@@ -31,7 +50,7 @@
 
 ---
 
-### 4. [Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia](https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html)
+### 6. [Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia](https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 09 Nov 2026 20:01:29 +0530  
@@ -40,7 +59,7 @@
 
 ---
 
-### 5. [⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More](https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html)
+### 7. [⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More](https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 09 Nov 2026 18:58:25 +0530  
@@ -49,7 +68,7 @@
 
 ---
 
-### 6. [Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars](https://thehackernews.com/2026/11/default-adminadmin-server-password.html)
+### 8. [Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars](https://thehackernews.com/2026/11/default-adminadmin-server-password.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 09 Nov 2026 16:57:53 +0530  
@@ -58,7 +77,7 @@
 
 ---
 
-### 7. [Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety](https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html)
+### 9. [Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety](https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 09 Nov 2026 16:26:25 +0530  
@@ -67,30 +86,12 @@
 
 ---
 
-### 8. [LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks](https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html)
+### 10. [LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks](https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 09 Nov 2026 15:31:21 +0530  
 **Severity:** Low  
 **Categories:** Vulnerability  
-
----
-
-### 9. [Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records](https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 09 Nov 2026 14:31:50 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room](https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 09 Nov 2026 12:35:48 +0530  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -282,7 +283,7 @@
 **Source:** Security Week  
 **Published:** Tue, 10 Nov 2026 06:12:24 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-3909, CVE-2026-11645, CVE-2026-85046, CVE-2026-3910, CVE-2026-125350, CVE-2026-2441, CVE-2026-87491, CVE-2026-5281  
+**CVEs:** CVE-2026-5281, CVE-2026-3910, CVE-2026-11645, CVE-2026-125350, CVE-2026-85046, CVE-2026-3909, CVE-2026-87491, CVE-2026-2441  
 **Categories:** Vulnerability  
 
 ---
@@ -301,7 +302,7 @@
 **Source:** Security Week  
 **Published:** Mon, 09 Nov 2026 13:13:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-96656, CVE-2026-96655, CVE-2026-96654, CVE-2026-96652  
+**CVEs:** CVE-2026-96652, CVE-2026-96656, CVE-2026-96655, CVE-2026-96654  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -458,7 +459,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 21 Oct 2026 15:10:53 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109618, CVE-2026-109619  
+**CVEs:** CVE-2026-109619, CVE-2026-109618  
 **Categories:** Ransomware, Vulnerability  
 
 ---
