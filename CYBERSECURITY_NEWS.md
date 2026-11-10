@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-09 22:08:59 UTC
+**Last Updated:** 2026-11-10 06:49:01 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data](https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html)
+### 1. [CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws](https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 10 Nov 2026 12:01:42 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 2. [Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data](https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 09 Nov 2026 23:21:21 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware](https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html)
+### 3. [Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware](https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 09 Nov 2026 23:06:28 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia](https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html)
+### 4. [Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia](https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 09 Nov 2026 20:01:29 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More](https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html)
+### 5. [⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More](https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 09 Nov 2026 18:58:25 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars](https://thehackernews.com/2026/11/default-adminadmin-server-password.html)
+### 6. [Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars](https://thehackernews.com/2026/11/default-adminadmin-server-password.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 09 Nov 2026 16:57:53 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety](https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html)
+### 7. [Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety](https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 09 Nov 2026 16:26:25 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks](https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html)
+### 8. [LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks](https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 09 Nov 2026 15:31:21 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records](https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html)
+### 9. [Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records](https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 09 Nov 2026 14:31:50 +0530  
@@ -76,7 +85,7 @@
 
 ---
 
-### 9. [Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room](https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html)
+### 10. [Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room](https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 09 Nov 2026 12:35:48 +0530  
@@ -85,16 +94,25 @@
 
 ---
 
-### 10. [U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses](https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html)
+### 11. [Vanderbilt University hit in BYOD ransomware attack, data theft claimed](https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/)
 
-**Source:** The Hacker News  
-**Published:** Mon, 09 Nov 2026 11:45:10 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 09 Nov 2026 18:52:12 -0500  
 **Severity:** Low  
-**Categories:** General Security  
+**Categories:** Ransomware  
 
 ---
 
-### 11. [N-able takes cloud platform offline after 30+ "zero-days" published](https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/)
+### 12. [SEGA newsletter data breach exposes 2.2 million email addresses](https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 09 Nov 2026 17:09:33 -0500  
+**Severity:** Low  
+**Categories:** Data Breach, Supply Chain  
+
+---
+
+### 13. [N-able takes cloud platform offline after 30+ "zero-days" published](https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 09 Nov 2026 16:26:25 -0500  
@@ -103,7 +121,7 @@
 
 ---
 
-### 12. [York University breach exposed personal information dating to 2007](https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/)
+### 14. [York University breach exposed personal information dating to 2007](https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 09 Nov 2026 16:22:31 -0500  
@@ -112,7 +130,7 @@
 
 ---
 
-### 13. [France blames Iranian hackers for supermarket attacks that sparked fires](https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/)
+### 15. [France blames Iranian hackers for supermarket attacks that sparked fires](https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 09 Nov 2026 13:32:42 -0500  
@@ -121,7 +139,7 @@
 
 ---
 
-### 14. [Russian cloud firm Beget rebuilds from scratch after data wiper attack](https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/)
+### 16. [Russian cloud firm Beget rebuilds from scratch after data wiper attack](https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 09 Nov 2026 12:50:32 -0500  
@@ -130,7 +148,7 @@
 
 ---
 
-### 15. [Binance denies data breach after alleged ShinyHunters claims](https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/)
+### 17. [Binance denies data breach after alleged ShinyHunters claims](https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 09 Nov 2026 11:12:39 -0500  
@@ -139,7 +157,7 @@
 
 ---
 
-### 16. [Hackers exploit SSHole OpenSSH flaw to breach Linux systems](https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/)
+### 18. [Hackers exploit SSHole OpenSSH flaw to breach Linux systems](https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 09 Nov 2026 11:04:57 -0500  
@@ -149,7 +167,7 @@
 
 ---
 
-### 17. [The Biggest Threat to Your GRC Job Isn’t AI. It’s Ignoring AI.](https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/)
+### 19. [The Biggest Threat to Your GRC Job Isn’t AI. It’s Ignoring AI.](https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 09 Nov 2026 10:05:15 -0500  
@@ -158,30 +176,12 @@
 
 ---
 
-### 18. [FBI agent stole $2.5 million in crypto from hackers under investigation](https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/)
+### 20. [FBI agent stole $2.5 million in crypto from hackers under investigation](https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 09 Nov 2026 09:34:03 -0500  
 **Severity:** Low  
 **Categories:** APT  
-
----
-
-### 19. [US bans MEXC crypto exchange over sanctions evasion, cybercrime links](https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 09 Nov 2026 08:28:56 -0500  
-**Severity:** Low  
-**Categories:** Ransomware  
-
----
-
-### 20. [Ukraine dismantles crypto scam network that stole €4.3 million](https://www.bleepingcomputer.com/news/security/ukraine-dismantles-crypto-scam-network-that-stole-43-million/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 09 Nov 2026 07:16:13 -0500  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -235,7 +235,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 13 Oct 2026 23:24:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-108398, CVE-2026-96951  
+**CVEs:** CVE-2026-96951, CVE-2026-108398  
 **Categories:** Vulnerability  
 
 ---
@@ -277,7 +277,17 @@
 
 ---
 
-### 31. [Revolve Puts Data Breach Victim Count at 1.5 Million](https://www.securityweek.com/revolve-puts-data-breach-victim-count-at-1-5-million/)
+### 31. [Chrome Update Patches Exploited XML Zero-Day, Eighth This Year](https://www.securityweek.com/chrome-update-patches-exploited-xml-zero-day-eighth-this-year/)
+
+**Source:** Security Week  
+**Published:** Tue, 10 Nov 2026 06:12:24 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-3909, CVE-2026-11645, CVE-2026-85046, CVE-2026-3910, CVE-2026-125350, CVE-2026-2441, CVE-2026-87491, CVE-2026-5281  
+**Categories:** Vulnerability  
+
+---
+
+### 32. [Revolve Puts Data Breach Victim Count at 1.5 Million](https://www.securityweek.com/revolve-puts-data-breach-victim-count-at-1-5-million/)
 
 **Source:** Security Week  
 **Published:** Mon, 09 Nov 2026 14:08:08 +0000  
@@ -286,17 +296,17 @@
 
 ---
 
-### 32. [Plex2Shell Exploited Against QNAP NAS Users](https://www.securityweek.com/plex2shell-exploited-against-qnap-nas-users/)
+### 33. [Plex2Shell Exploited Against QNAP NAS Users](https://www.securityweek.com/plex2shell-exploited-against-qnap-nas-users/)
 
 **Source:** Security Week  
 **Published:** Mon, 09 Nov 2026 13:13:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-96654, CVE-2026-96656, CVE-2026-96655, CVE-2026-96652  
+**CVEs:** CVE-2026-96656, CVE-2026-96655, CVE-2026-96654, CVE-2026-96652  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
 
-### 33. [Iris Plaza Breach May Have Exposed Data of 7.7 Million Customers](https://www.securityweek.com/iris-plaza-breach-may-have-exposed-data-of-7-7-million-customers/)
+### 34. [Iris Plaza Breach May Have Exposed Data of 7.7 Million Customers](https://www.securityweek.com/iris-plaza-breach-may-have-exposed-data-of-7-7-million-customers/)
 
 **Source:** Security Week  
 **Published:** Mon, 09 Nov 2026 12:41:27 +0000  
@@ -305,7 +315,7 @@
 
 ---
 
-### 34. [Italy’s Meloni Blames Pro-Russian Hackers for Leak of Foreign Minister’s Data on the Dark Web](https://www.securityweek.com/italys-meloni-blames-pro-russian-hackers-for-leak-of-foreign-ministers-data-on-the-dark-web/)
+### 35. [Italy’s Meloni Blames Pro-Russian Hackers for Leak of Foreign Minister’s Data on the Dark Web](https://www.securityweek.com/italys-meloni-blames-pro-russian-hackers-for-leak-of-foreign-ministers-data-on-the-dark-web/)
 
 **Source:** Security Week  
 **Published:** Mon, 09 Nov 2026 12:22:12 +0000  
@@ -314,7 +324,7 @@
 
 ---
 
-### 35. [Hackers Exploiting ‘SSHole’ Authentication Bypass in OpenSSH](https://www.securityweek.com/hackers-exploiting-sshole-authentication-bypass-in-openssh/)
+### 36. [Hackers Exploiting ‘SSHole’ Authentication Bypass in OpenSSH](https://www.securityweek.com/hackers-exploiting-sshole-authentication-bypass-in-openssh/)
 
 **Source:** Security Week  
 **Published:** Mon, 09 Nov 2026 12:13:32 +0000  
@@ -324,7 +334,7 @@
 
 ---
 
-### 36. [Amplifon Americas Data Breach Impacts 1.3 Million](https://www.securityweek.com/amplifon-americas-data-breach-impacts-1-3-million/)
+### 37. [Amplifon Americas Data Breach Impacts 1.3 Million](https://www.securityweek.com/amplifon-americas-data-breach-impacts-1-3-million/)
 
 **Source:** Security Week  
 **Published:** Mon, 09 Nov 2026 11:20:09 +0000  
@@ -333,7 +343,7 @@
 
 ---
 
-### 37. [Over 3 Million People Hit by Frontline Education Data Breach](https://www.securityweek.com/3-million-people-hit-by-frontline-education-data-breach/)
+### 38. [Over 3 Million People Hit by Frontline Education Data Breach](https://www.securityweek.com/3-million-people-hit-by-frontline-education-data-breach/)
 
 **Source:** Security Week  
 **Published:** Mon, 09 Nov 2026 10:09:02 +0000  
@@ -342,7 +352,7 @@
 
 ---
 
-### 38. [Google DeepMind’s AI Agents Make 1024-Bit RSA Keys Cheaper to Attack](https://www.securityweek.com/google-deepminds-ai-agents-make-1024-bit-rsa-keys-cheaper-to-attack/)
+### 39. [Google DeepMind’s AI Agents Make 1024-Bit RSA Keys Cheaper to Attack](https://www.securityweek.com/google-deepminds-ai-agents-make-1024-bit-rsa-keys-cheaper-to-attack/)
 
 **Source:** Security Week  
 **Published:** Mon, 09 Nov 2026 08:35:50 +0000  
@@ -351,22 +361,12 @@
 
 ---
 
-### 39. [Brava Security Emerges From Stealth With $15 Million in Funding](https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/)
+### 40. [Brava Security Emerges From Stealth With $15 Million in Funding](https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/)
 
 **Source:** Security Week  
 **Published:** Sun, 08 Nov 2026 12:14:00 +0000  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 40. [SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins](https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/)
-
-**Source:** Security Week  
-**Published:** Sat, 07 Nov 2026 10:16:23 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-102255, CVE-2026-19868  
-**Categories:** Vulnerability  
 
 ---
 
@@ -633,7 +633,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
