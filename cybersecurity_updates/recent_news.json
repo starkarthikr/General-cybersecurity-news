@@ -1,10 +1,84 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
+    "link": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
+    "published": "Wed, 11 Nov 2026 00:53:10 +0530",
+    "summary": "A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with matching fixes for the 2.50 through 2.55 series in 2.50.2, 2.51.3, 2.52.1, 2.53.1, 2.54.1 and 2.55.1.\n\nThe flaw, tracked as CVE-2026-111760, is an integer truncation in how Git handles its index. An",
+    "analysis": {
+      "issue": "Git fixes six flaws, including CVE-2026-111760, which lets malicious repositories execute code during recursive clones via submodule hooks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-111760"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
+    "link": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
+    "published": "Wed, 11 Nov 2026 00:49:39 +0530",
+    "summary": "An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday.\n\nThe attacker could also have seen requests being processed on that server that day, including requests sent in confidential mode, the company said earlier this week. That mode processes requests inside a trusted execution environment (TEE",
+    "analysis": {
+      "issue": "An attacker exploited an SGLang RCE flaw at NEAR AI, stealing account and agent data and potentially viewing confidential AI requests",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
+    "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
+    "published": "Tue, 10 Nov 2026 23:42:21 +0530",
+    "summary": "French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild.\n\nThe authentication bypass flaw, which does not yet have a CVE identifier, is tracked as VSA-2026-062.\n\n\"REST cookie parsing turns authenticationToken=j:%7B%7D into {},\" Vates VMS said in an alert. \"REST authentication passes that object to the",
+    "analysis": {
+      "issue": "Hackers are exploiting a critical Xen Orchestra authentication bypass that can grant admin access and lead to XCP-ng node takeover",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
+    "link": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html",
+    "published": "Tue, 10 Nov 2026 23:13:23 +0530",
+    "summary": "Three distinct threat activity clusters with shared infrastructure and malware code similarities have been observed targeting telecommunications providers, government organizations, military entities, research institutions, and critical infrastructure across Latin America, Asia, and Europe over the past year.\n\nCheck Point Research is tracking the clusters under the names SilentDelivery,",
+    "analysis": {
+      "issue": "Check Point links three espionage clusters to the Sparrow malware ecosystem, targeting telecom, government, and other sectors across three continents",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
     "link": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
     "published": "Tue, 10 Nov 2026 21:30:55 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant.\n\nThe activity, observed by Huntress in October 2026, involves the exploitation of a chain comprising CVE-2026-105133 and CVE-2026-105134 to bypass authentication and execute arbitrary commands on affected systems. Patches for the two",
+    "summary": "Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant.\n\nThe activity, observed by Huntress in early October 2026, involves the exploitation of a chain comprising CVE-2026-105133 and CVE-2026-105134 to bypass authentication and execute arbitrary commands on affected systems. Patches for the two",
     "analysis": {
       "issue": "Attackers chained two now-patched AhsayCBS flaws to deploy web shells, XMRig miners, and a Python backdoor tied to its host",
       "solution": null,
@@ -39,7 +113,7 @@
   },
   {
     "source": "The Hacker News",
-    "title": "Fireworks AI Breach Widens to Expose Customer Billing Data and Incomplete Model Weights",
+    "title": "Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats",
     "link": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
     "published": "Tue, 10 Nov 2026 21:03:59 +0530",
     "summary": "Fireworks AI disclosed on Monday that its investigation into a security incident first reported early last month&nbsp; uncovered further malicious activity, affecting account and billing information, alongside secrets, datasets, and incomplete models for a \"limited set of accounts.\"\n\nIn a notice published on October 10, 2026, the company said it detected unauthorized use of internal Fireworks",
@@ -110,74 +184,75 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers",
-    "link": "https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html",
-    "published": "Tue, 10 Nov 2026 15:37:29 +0530",
-    "summary": "The Russia-aligned state-sponsored threat actor known as Turla (aka Snake) is wielding a previously undocumented cyber espionage toolset called Cereal that's used to break into victims' Microsoft Exchange servers with an aim to surreptitiously collect emails.\n\nAccording to an ESET report shared with The Hacker News ahead of publication, the sophisticated and modular tool is designed for",
+    "source": "Bleeping Computer",
+    "title": "Railway breach leads to $740,000 in fraudulent AI charges",
+    "link": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
+    "published": "Tue, 10 Nov 2026 17:20:19 -0500",
+    "summary": "Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing credentials for up to 100,000 workspaces. [...]",
     "analysis": {
-      "issue": "Turla's new Cereal malware targets government Exchange servers, using injected",
+      "issue": "Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing credentials for up to 100,000 worksp",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "Vulnerability"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution",
-    "link": "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html",
-    "published": "Tue, 10 Nov 2026 15:32:40 +0530",
-    "summary": "Four flaws that attackers could exploit without logging in were fixed today as part of SAP's monthly Security Patch Day—the vendor rates all four 10.0, the maximum CVSS score.\n\nThree are in the SAP NetWeaver application server, the software SAP systems run on, and one is in the Web Dispatcher, which receives web requests from the internet and passes them on to that server.\n\nThe flaws in the Web",
+    "source": "Bleeping Computer",
+    "title": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
+    "link": "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/",
+    "published": "Tue, 10 Nov 2026 15:54:55 -0500",
+    "summary": "Nitori, a major Japanese furniture and home accessories retailer, discovered that an attacker accessed a system on its network and may have stolen 37.62 million customer records. [...]",
     "analysis": {
-      "issue": "SAP fixes four unauthenticated NetWeaver and Web Dispatcher flaws rated CVSS 10",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites",
-    "link": "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html",
-    "published": "Tue, 10 Nov 2026 14:38:20 +0530",
-    "summary": "An October cyberattack on refrigeration controllers at about 700 French retail sites was carried out by a cyber unit of Iran's Islamic Revolutionary Guard Corps (IRGC), the French government said yesterday.\n\nThe attackers broke into controllers on the night of October 11 and changed their defrost settings to high temperatures. That caused food losses and, in at least 15 cases, fires.\n\nThe unit",
-    "analysis": {
-      "issue": "France attributes cyberattacks on refrigeration controllers at about 700 retail sites to an IRGC unit, citing fires and major food losses",
+      "issue": "Nitori, a major Japanese furniture and home accessories retailer, discovered that an attacker accessed a system on its network and may have stolen 37",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "High",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Data Breach"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark",
-    "link": "https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html",
-    "published": "Tue, 10 Nov 2026 13:46:14 +0530",
-    "summary": "Anthropic on Monday released Claude Fable 5.2 and Claude Mythos 5.2 models, which it said exhibit improvements in coding, reasoning, and vision.\n\nDuring pre-release training, the large language models (LLMs) helped its engineers \"complete otherwise-infeasible software migrations, designed three working electronic devices from scratch, solved two open problems in the physics of black holes, made",
+    "source": "Bleeping Computer",
+    "title": "Microsoft releases Windows 10 KB5131096 extended security update",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/",
+    "published": "Tue, 10 Nov 2026 15:04:36 -0500",
+    "summary": "Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
     "analysis": {
-      "issue": "Anthropic releases Claude Fable 5",
+      "issue": "Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixes and changes",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/",
+    "published": "Tue, 10 Nov 2026 14:31:11 -0500",
+    "summary": "A threat actor used compromised identity and access management (IAM) credentials for a Qubole big data platform's AWS account to access and exfiltrate data from multiple customers' AWS environments. [...]",
+    "analysis": {
+      "issue": "A threat actor used compromised identity and access management (IAM) credentials for a Qubole big data platform's AWS account to access and exfiltrate data from multiple customers' AWS environments",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Vulnerability",
+        "Supply Chain"
       ]
     }
   },
@@ -285,10 +360,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-76964",
         "CVE-2026-89103",
+        "CVE-2026-89126",
         "CVE-2026-120017",
-        "CVE-2026-89126"
+        "CVE-2026-76964"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -296,79 +371,22 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/",
-    "published": "Tue, 10 Nov 2026 05:10:20 -0500",
-    "summary": "Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities that let them run commands with root privileges. [...]",
+    "source": "Krebs On Security",
+    "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
+    "link": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
+    "published": "Tue, 10 Nov 2026 21:55:03 +0000",
+    "summary": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday addresses 63 critical flaws -- including a zero-day in Microsoft Outlook -- and comes amid important security updates from other software makers, including Adobe, Apple, Google and Mozilla.",
     "analysis": {
-      "issue": "Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities that let them run commands with root privileges",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-111560",
-        "CVE-2026-116606"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Turla hackers use new Cereal malware to spy on govt Exchange servers",
-    "link": "https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/",
-    "published": "Tue, 10 Nov 2026 05:04:32 -0500",
-    "summary": "The Russian state-backed threat group Turla has been using a new malicious toolset called 'Cereal' to intercept emails on Microsoft Exchange servers at government organizations. [...]",
-    "analysis": {
-      "issue": "The Russian state-backed threat group Turla has been using a new malicious toolset called 'Cereal' to intercept emails on Microsoft Exchange servers at government organizations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
-    "link": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",
-    "published": "Tue, 10 Nov 2026 03:51:25 -0500",
-    "summary": "Google has released emergency security updates to patch a new Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start of the year. [...]",
-    "analysis": {
-      "issue": "Google has released emergency security updates to patch a new Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start of the year",
+      "issue": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-125350"
+        "CVE-2026-124194"
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Fireworks AI discloses new breach after cloud provider hack",
-    "link": "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/",
-    "published": "Tue, 10 Nov 2026 02:49:58 -0500",
-    "summary": "AI infrastructure startup Fireworks has disclosed a new security breach in which attackers accessed its development machines after breaching a third-party cloud provider. [...]",
-    "analysis": {
-      "issue": "AI infrastructure startup Fireworks has disclosed a new security breach in which attackers accessed its development machines after breaching a third-party cloud provider",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
       ]
     }
   },
@@ -544,26 +562,6 @@
     }
   },
   {
-    "source": "Krebs On Security",
-    "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
-    "link": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
-    "published": "Fri, 25 Sep 2026 21:44:40 +0000",
-    "summary": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&#038;T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims.",
-    "analysis": {
-      "issue": "Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay ne",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Malware",
-        "DDoS"
-      ]
-    }
-  },
-  {
     "source": "Security Week",
     "title": "Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft",
     "link": "https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft/",
@@ -690,15 +688,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-76964",
-        "CVE-2026-109798",
+        "CVE-2026-76965",
+        "CVE-2026-109795",
         "CVE-2026-120017",
         "CVE-2026-89119",
-        "CVE-2026-89126",
-        "CVE-2026-76965",
+        "CVE-2026-76964",
         "CVE-2026-89103",
         "CVE-2026-109803",
-        "CVE-2026-109795"
+        "CVE-2026-109798",
+        "CVE-2026-89126"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -758,6 +756,29 @@
       "threat_categories": [
         "Vulnerability",
         "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Talos Blog",
+    "title": "Microsoft Patch Tuesday for November 2026 — Snort rules and prominent vulnerabilities",
+    "link": "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-november-2026/",
+    "published": "Wed, 11 Nov 2026 01:41:17 GMT",
+    "summary": "Microsoft has released its monthly security update for November 2026, which includes 1328 vulnerabilities affecting a range of products, including 60 that Microsoft marked as \"critical.\"\nOut of 60 \"critical\" vulnerabilities, 45 are remote code execution (RCE) vulnerabilities.",
+    "analysis": {
+      "issue": "Microsoft has released its monthly security update for November 2026, which includes 1095 vulnerabilities affecting a range of products, including 64 that Microsoft marked as \"critical",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-118148",
+        "CVE-2026-124194",
+        "CVE-2026-118146",
+        "CVE-2026-113862"
+      ],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -928,28 +949,6 @@
         "CVE-2026-111943"
       ],
       "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "Two critical RCEs in PHP core",
-    "link": "https://blog.talosintelligence.com/two-critical-rces-in-php-core/",
-    "published": "Wed, 21 Oct 2026 15:10:53 GMT",
-    "summary": "Two critical remote code execution vulnerabilities in PHP core could have implications across its wider ecosystem. Talos has published a blog to explain what we know so far, and details the Snort coverage available, including rules in the Community Ruleset.",
-    "analysis": {
-      "issue": "Update 10/22: Added section detailing observations of in the wild exploitation and associated IOCs",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-109619",
-        "CVE-2026-109618"
-      ],
-      "threat_categories": [
-        "Ransomware",
         "Vulnerability"
       ]
     }
@@ -1302,8 +1301,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1516,6 +1515,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "November 2026 Patch Tuesday: 1,252 CVEs Include One Zero-Day and 68 Critical Vulnerabilities",
+    "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-november-2026/",
+    "published": "Nov 10, 2026 00:00:00-0600",
+    "summary": "",
+    "analysis": {
+      "issue": "Microsoft has released security updates for 1,252 vulnerabilities, including one exploited zero-day and 68 critical, in its November 2026 Patch Tuesday rollout",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "How Adversaries Are Turning the Vulnerability Ecosystem Against Defenders",
     "link": "https://www.crowdstrike.com/en-us/blog/adversaries-turn-vulnerability-ecosystem-against-defenders/",
     "published": "Nov 05, 2026 00:00:00-0600",
@@ -1552,12 +1569,12 @@
   },
   {
     "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Extends the Agentic SOC to Detect and Stop Agent Insider Threats",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-detects-and-stops-agent-insider-threats/",
+    "title": "CrowdStrike Brings Enterprise Browser Security to the Falcon Platform",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-enterprise-browser-security-to-falcon-platform/",
     "published": "Nov 04, 2026 00:00:00-0600",
     "summary": "",
     "analysis": {
-      "issue": "CrowdStrike extends the agentic SOC to detect agent insider threats, investigate across every domain, and govern response on the Falcon platform",
+      "issue": "CrowdStrike Falcon Seraphic Enterprise Browser is now available through the new unified Falcon platform experience",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1570,12 +1587,12 @@
   },
   {
     "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Brings Enterprise Browser Security to the Falcon Platform",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-enterprise-browser-security-to-falcon-platform/",
+    "title": "CrowdStrike Extends the Agentic SOC to Detect and Stop Agent Insider Threats",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-detects-and-stops-agent-insider-threats/",
     "published": "Nov 04, 2026 00:00:00-0600",
     "summary": "",
     "analysis": {
-      "issue": "CrowdStrike Falcon Seraphic Enterprise Browser is now available through the new unified Falcon platform experience",
+      "issue": "CrowdStrike extends the agentic SOC to detect agent insider threats, investigate across every domain, and govern response on the Falcon platform",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1666,24 +1683,6 @@
     "summary": "",
     "analysis": {
       "issue": "The acquisition of Dreadnode will bring automated AI security testing to the Falcon platform as AI systems proliferate across the enterprise",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike to Acquire Fiddler to Deliver Falcon Observe for AI Agent Observability",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-fiddler/",
-    "published": "Nov 03, 2026 00:00:00-0800",
-    "summary": "",
-    "analysis": {
-      "issue": "The acquisition of Fiddler will bring AI observability to the Falcon platform",
       "solution": null,
       "cause": null,
       "timeline": null,
