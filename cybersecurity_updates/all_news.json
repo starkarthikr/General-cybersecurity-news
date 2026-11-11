@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
+    "link": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
+    "published": "Wed, 11 Nov 2026 21:42:46 +0530",
+    "summary": "Zoom has released software updates to address two security flaws impacting Zoom Workplace for Windows, including a critical bug that could result in privilege escalation on affected systems.\n\nThe vulnerabilities are listed below -\n\n\n  CVE-2026-108186 (CVSS score: 9.6) - An improper input validation vulnerability that could allow an unauthenticated user to conduct an escalation of privilege via",
+    "analysis": {
+      "issue": "Zoom patches two Workplace for Windows flaws that could let unauthenticated remote attackers escalate privileges, including a critical bug",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
     "link": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
     "published": "Wed, 11 Nov 2026 21:04:27 +0530",
@@ -157,26 +175,6 @@
       "timeline": null,
       "severity": "Low",
       "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
-    "link": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
-    "published": "Wed, 11 Nov 2026 00:53:10 +0530",
-    "summary": "A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with matching fixes for the 2.50 through 2.55 series in 2.50.2, 2.51.3, 2.52.1, 2.53.1, 2.54.1 and 2.55.1.\n\nThe flaw, tracked as CVE-2026-111760, is an integer truncation in how Git handles its index. An",
-    "analysis": {
-      "issue": "Git fixes six flaws, including CVE-2026-111760, which lets malicious repositories execute code during recursive clones via submodule hooks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-111760"
-      ],
       "threat_categories": [
         "Vulnerability"
       ]
@@ -368,6 +366,25 @@
   },
   {
     "source": "Krebs On Security",
+    "title": "Who Runs the Ransomware Group Qilin?",
+    "link": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
+    "published": "Wed, 11 Nov 2026 18:06:01 +0000",
+    "summary": "The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational security mistakes, and the administrator of Qilin has made a few key missteps over the last decade that all point to a 36-year-old man living in St. Petersburg, Russia.",
+    "analysis": {
+      "issue": "The cybercrime group Qilin has emerged as the world’s most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
     "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
     "link": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
     "published": "Tue, 10 Nov 2026 21:55:03 +0000",
@@ -491,8 +508,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-96951",
-        "CVE-2026-108398"
+        "CVE-2026-108398",
+        "CVE-2026-96951"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -539,21 +556,20 @@
     }
   },
   {
-    "source": "Krebs On Security",
-    "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
-    "link": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
-    "published": "Mon, 28 Sep 2026 15:08:57 +0000",
-    "summary": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect's arrest, remaining ShinyHunters members dramatically escalated their attacks, stealing highly sensitive data from the FBI and extorting the Russian ransomware group Cl0p.",
+    "source": "Security Week",
+    "title": "Today: CISO Forum Virtual Summit 2026 Day 2 – Join Cybersecurity Leaders Online",
+    "link": "https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders/",
+    "published": "Wed, 11 Nov 2026 16:29:42 +0000",
+    "summary": "<p>Designed for cybersecurity leaders, this immersive two-day virtual event is your premier destination to discuss, share, and learn innovative risk management and defense strategies defining the modern enterprise.</p>\n<p>The post <a href=\"https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders/\">Today: CISO Forum Virtual Summit 2026 Day 2 &#8211; Join Cybersecurity Leaders Online</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
-      "issue": "Authorities in the Netherlands have arrested a 24-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters",
+      "issue": "Designed for cybersecurity leaders, this immersive two-day virtual event is your premier destination to discuss, share, and learn innovative risk management and defense strategies defining the modern enterprise",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "High",
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
+        "Supply Chain"
       ]
     }
   },
@@ -611,9 +627,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-102705",
-        "CVE-2026-105425",
         "CVE-2026-121653",
-        "CVE-2026-121683"
+        "CVE-2026-121683",
+        "CVE-2026-105425"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -724,33 +740,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-111793",
-        "CVE-2026-20320"
+        "CVE-2026-20320",
+        "CVE-2026-111793"
       ],
       "threat_categories": [
         "Vulnerability",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Chipmaker Patch Tuesday: Over 200 Vulnerabilities Addressed by Intel, AMD",
-    "link": "https://www.securityweek.com/chipmaker-patch-tuesday-over-200-vulnerabilities-addressed-by-intel-amd/",
-    "published": "Wed, 11 Nov 2026 08:42:44 +0000",
-    "summary": "<p>Intel and AMD disclose more than 200 vulnerabilities, including critical flaws in Intel TDX software and numerous AMD graphics bugs.</p>\n<p>The post <a href=\"https://www.securityweek.com/chipmaker-patch-tuesday-over-200-vulnerabilities-addressed-by-intel-amd/\">Chipmaker Patch Tuesday: Over 200 Vulnerabilities Addressed by Intel, AMD</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Intel and AMD disclose more than 200 vulnerabilities, including critical flaws in Intel TDX software and numerous AMD graphics bugs",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-61887"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "APT"
       ]
     }
   },
@@ -768,9 +763,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-118146",
-        "CVE-2026-113862",
         "CVE-2026-124194",
-        "CVE-2026-118148"
+        "CVE-2026-118148",
+        "CVE-2026-113862"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1296,8 +1291,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1322,6 +1317,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Vanderbilt restores systems after cyberattack as hackers claim data theft",
+    "link": "https://www.malwarebytes.com/blog/news/2026/11/vanderbilt-restores-systems-after-cyberattack-as-hackers-claim-data-theft",
+    "published": "Wed, 11 Nov 2026 18:29:01 GMT",
+    "summary": "Vanderbilt University is restoring campus technology, but has not confirmed the attackers’ claims of stolen student and employee data.",
+    "analysis": {
+      "issue": "Vanderbilt University is bringing systems back online after a cybersecurity incident claimed by the BYOD ransomware group",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
       ]
     }
   },
@@ -1485,24 +1498,6 @@
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Attacks on supermarket and blood storage systems prompt US warning",
-    "link": "https://www.malwarebytes.com/blog/news/2026/11/attacks-on-supermarket-and-blood-storage-systems-prompt-us-warning",
-    "published": "Fri, 06 Nov 2026 12:02:17 GMT",
-    "summary": "US agencies have issued a warning about remote access to industrial refrigeration and cold-chain monitoring systems.",
-    "analysis": {
-      "issue": "Attackers don’t have to steal information to cause serious harm",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
       "cves": [],
       "threat_categories": [
         "Vulnerability"

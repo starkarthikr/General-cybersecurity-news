@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-11 16:28:27 UTC
+**Last Updated:** 2026-11-11 19:26:31 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets](https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html)
+### 1. [Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation](https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 11 Nov 2026 21:42:46 +0530  
+**Severity:** Critical  
+**Categories:** General Security  
+
+---
+
+### 2. [AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets](https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 11 Nov 2026 21:04:27 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits](https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html)
+### 3. [Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits](https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 11 Nov 2026 19:31:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords](https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html)
+### 4. [Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords](https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 11 Nov 2026 17:49:40 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.](https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html)
+### 5. [We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.](https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 11 Nov 2026 17:31:59 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise](https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html)
+### 6. [eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise](https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 11 Nov 2026 17:30:53 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes](https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html)
+### 7. [Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes](https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 11 Nov 2026 13:47:53 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges](https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html)
+### 8. [Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges](https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 11 Nov 2026 13:19:04 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons](https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html)
+### 9. [Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons](https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 11 Nov 2026 12:51:05 +0530  
@@ -76,21 +85,11 @@
 
 ---
 
-### 9. [Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches](https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html)
+### 10. [Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches](https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 11 Nov 2026 11:34:02 +0530  
 **Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 10. [Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones](https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 11 Nov 2026 00:53:10 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-111760  
 **Categories:** Vulnerability  
 
 ---
@@ -186,7 +185,16 @@
 
 ---
 
-### 21. [Microsoft Fixes Nearly 1,100 Security Vulnerabilities](https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/)
+### 21. [Who Runs the Ransomware Group Qilin?](https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/)
+
+**Source:** Krebs On Security  
+**Published:** Wed, 11 Nov 2026 18:06:01 +0000  
+**Severity:** Low  
+**Categories:** Ransomware, Vulnerability  
+
+---
+
+### 22. [Microsoft Fixes Nearly 1,100 Security Vulnerabilities](https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Nov 2026 21:55:03 +0000  
@@ -196,7 +204,7 @@
 
 ---
 
-### 22. [Want to Rent an Internet Address at the White House?](https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/)
+### 23. [Want to Rent an Internet Address at the White House?](https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 05 Nov 2026 04:36:17 +0000  
@@ -205,7 +213,7 @@
 
 ---
 
-### 23. [Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies](https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/)
+### 24. [Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies](https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 03 Nov 2026 02:24:31 +0000  
@@ -214,7 +222,7 @@
 
 ---
 
-### 24. [Widespread PHP Flaw May Cause Many Site Outages Today](https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/)
+### 25. [Widespread PHP Flaw May Cause Many Site Outages Today](https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 21 Oct 2026 15:26:07 +0000  
@@ -223,7 +231,7 @@
 
 ---
 
-### 25. [Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
+### 26. [Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 19 Oct 2026 13:48:56 +0000  
@@ -232,7 +240,7 @@
 
 ---
 
-### 26. [U.K. Sanctions Cryptomus for RU Money Laundering](https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/)
+### 27. [U.K. Sanctions Cryptomus for RU Money Laundering](https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Oct 2026 14:22:49 +0000  
@@ -241,17 +249,17 @@
 
 ---
 
-### 27. [Microsoft Patches More Than 1,400 Security Flaws](https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/)
+### 28. [Microsoft Patches More Than 1,400 Security Flaws](https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 13 Oct 2026 23:24:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-96951, CVE-2026-108398  
+**CVEs:** CVE-2026-108398, CVE-2026-96951  
 **Categories:** Vulnerability  
 
 ---
 
-### 28. [FBI Arrests Executive at Ransomware Negotiation Firm](https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/)
+### 29. [FBI Arrests Executive at Ransomware Negotiation Firm](https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/)
 
 **Source:** Krebs On Security  
 **Published:** Sat, 10 Oct 2026 00:17:42 +0000  
@@ -260,7 +268,7 @@
 
 ---
 
-### 29. [ShinyHunters Extorted Boeing Spin-off Prior to Arrests](https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/)
+### 30. [ShinyHunters Extorted Boeing Spin-off Prior to Arrests](https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 07 Oct 2026 13:48:45 +0000  
@@ -270,16 +278,16 @@
 
 ---
 
-### 30. [Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation](https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/)
+### 31. [Today: CISO Forum Virtual Summit 2026 Day 2 – Join Cybersecurity Leaders Online](https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders/)
 
-**Source:** Krebs On Security  
-**Published:** Mon, 28 Sep 2026 15:08:57 +0000  
-**Severity:** High  
-**Categories:** Ransomware, Vulnerability  
+**Source:** Security Week  
+**Published:** Wed, 11 Nov 2026 16:29:42 +0000  
+**Severity:** Critical  
+**Categories:** Supply Chain  
 
 ---
 
-### 31. [Critical Xen Orchestra Flaws Exploited in Attacks](https://www.securityweek.com/critical-xen-orchestra-flaws-exploited-in-attacks/)
+### 32. [Critical Xen Orchestra Flaws Exploited in Attacks](https://www.securityweek.com/critical-xen-orchestra-flaws-exploited-in-attacks/)
 
 **Source:** Security Week  
 **Published:** Wed, 11 Nov 2026 15:42:47 +0000  
@@ -288,7 +296,7 @@
 
 ---
 
-### 32. [Asus, Zoom Release Security Patches](https://www.securityweek.com/asus-zoom-release-security-patches/)
+### 33. [Asus, Zoom Release Security Patches](https://www.securityweek.com/asus-zoom-release-security-patches/)
 
 **Source:** Security Week  
 **Published:** Wed, 11 Nov 2026 13:58:38 +0000  
@@ -298,17 +306,17 @@
 
 ---
 
-### 33. [Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities](https://www.securityweek.com/citrix-ivanti-patch-critical-and-high-severity-vulnerabilities/)
+### 34. [Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities](https://www.securityweek.com/citrix-ivanti-patch-critical-and-high-severity-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Wed, 11 Nov 2026 13:37:19 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-102705, CVE-2026-105425, CVE-2026-121653, CVE-2026-121683  
+**CVEs:** CVE-2026-102705, CVE-2026-121653, CVE-2026-121683, CVE-2026-105425  
 **Categories:** Vulnerability  
 
 ---
 
-### 34. [Finite State Raises $27 Million to Secure Software and Firmware in Connected Devices](https://www.securityweek.com/finite-state-raises-27-million-to-secure-software-and-firmware-in-connected-devices/)
+### 35. [Finite State Raises $27 Million to Secure Software and Firmware in Connected Devices](https://www.securityweek.com/finite-state-raises-27-million-to-secure-software-and-firmware-in-connected-devices/)
 
 **Source:** Security Week  
 **Published:** Wed, 11 Nov 2026 12:24:33 +0000  
@@ -317,7 +325,7 @@
 
 ---
 
-### 35. [Fortinet Patches Nearly 100 Vulnerabilities](https://www.securityweek.com/fortinet-patches-nearly-100-vulnerabilities/)
+### 36. [Fortinet Patches Nearly 100 Vulnerabilities](https://www.securityweek.com/fortinet-patches-nearly-100-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Wed, 11 Nov 2026 12:10:14 +0000  
@@ -326,7 +334,7 @@
 
 ---
 
-### 36. [Bay Raises $50 Million to Control What Enterprise AI Agents Can Do](https://www.securityweek.com/bay-raises-50-million-to-control-what-enterprise-ai-agents-can-do/)
+### 37. [Bay Raises $50 Million to Control What Enterprise AI Agents Can Do](https://www.securityweek.com/bay-raises-50-million-to-control-what-enterprise-ai-agents-can-do/)
 
 **Source:** Security Week  
 **Published:** Wed, 11 Nov 2026 11:30:00 +0000  
@@ -335,7 +343,7 @@
 
 ---
 
-### 37. [Dreeze Emerges From Stealth With $33M to Rebuild Cloud Apps After Cyberattacks](https://www.securityweek.com/dreeze-emerges-from-stealth-with-33m-to-rebuild-cloud-apps-after-cyberattacks/)
+### 38. [Dreeze Emerges From Stealth With $33M to Rebuild Cloud Apps After Cyberattacks](https://www.securityweek.com/dreeze-emerges-from-stealth-with-33m-to-rebuild-cloud-apps-after-cyberattacks/)
 
 **Source:** Security Week  
 **Published:** Wed, 11 Nov 2026 11:16:40 +0000  
@@ -344,7 +352,7 @@
 
 ---
 
-### 38. [ICS Patch Tuesday: Siemens Flags High-Severity Flaws, Node2Shell Exposure](https://www.securityweek.com/ics-patch-tuesday-siemens-flags-high-severity-flaws-node2shell-exposure/)
+### 39. [ICS Patch Tuesday: Siemens Flags High-Severity Flaws, Node2Shell Exposure](https://www.securityweek.com/ics-patch-tuesday-siemens-flags-high-severity-flaws-node2shell-exposure/)
 
 **Source:** Security Week  
 **Published:** Wed, 11 Nov 2026 10:35:15 +0000  
@@ -353,23 +361,13 @@
 
 ---
 
-### 39. [Threat Actors Exploit Openwave, Cisco BroadWorks Vulnerabilities](https://www.securityweek.com/threat-actors-exploit-openwave-cisco-broadworks-vulnerabilities/)
+### 40. [Threat Actors Exploit Openwave, Cisco BroadWorks Vulnerabilities](https://www.securityweek.com/threat-actors-exploit-openwave-cisco-broadworks-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Wed, 11 Nov 2026 09:01:07 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-111793, CVE-2026-20320  
+**CVEs:** CVE-2026-20320, CVE-2026-111793  
 **Categories:** Vulnerability, Phishing  
-
----
-
-### 40. [Chipmaker Patch Tuesday: Over 200 Vulnerabilities Addressed by Intel, AMD](https://www.securityweek.com/chipmaker-patch-tuesday-over-200-vulnerabilities-addressed-by-intel-amd/)
-
-**Source:** Security Week  
-**Published:** Wed, 11 Nov 2026 08:42:44 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-61887  
-**Categories:** Vulnerability, APT  
 
 ---
 
@@ -378,7 +376,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 11 Nov 2026 01:41:17 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-118146, CVE-2026-113862, CVE-2026-124194, CVE-2026-118148  
+**CVEs:** CVE-2026-118146, CVE-2026-124194, CVE-2026-118148, CVE-2026-113862  
 **Categories:** Vulnerability  
 
 ---
@@ -636,7 +634,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -651,7 +649,16 @@
 
 ---
 
-### 71. [Remus malware claims Gmail access even after you change your password](https://www.malwarebytes.com/blog/news/2026/11/remus-malware-claims-gmail-access-even-after-you-change-your-password)
+### 71. [Vanderbilt restores systems after cyberattack as hackers claim data theft](https://www.malwarebytes.com/blog/news/2026/11/vanderbilt-restores-systems-after-cyberattack-as-hackers-claim-data-theft)
+
+**Source:** Malwarebytes  
+**Published:** Wed, 11 Nov 2026 18:29:01 GMT  
+**Severity:** Low  
+**Categories:** Ransomware  
+
+---
+
+### 72. [Remus malware claims Gmail access even after you change your password](https://www.malwarebytes.com/blog/news/2026/11/remus-malware-claims-gmail-access-even-after-you-change-your-password)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 11 Nov 2026 13:42:10 GMT  
@@ -660,7 +667,7 @@
 
 ---
 
-### 72. [Muse sleep band users weren’t told their brain data was training AI](https://www.malwarebytes.com/blog/ai/2026/11/muse-sleep-band-users-werent-told-their-brain-data-was-training-ai)
+### 73. [Muse sleep band users weren’t told their brain data was training AI](https://www.malwarebytes.com/blog/ai/2026/11/muse-sleep-band-users-werent-told-their-brain-data-was-training-ai)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 11 Nov 2026 12:23:05 GMT  
@@ -669,7 +676,7 @@
 
 ---
 
-### 73. [Microsoft Patch Tuesday fixes Outlook flaw already under attack](https://www.malwarebytes.com/blog/bugs/2026/11/microsoft-patch-tuesday-fixes-outlook-flaw-already-under-attack)
+### 74. [Microsoft Patch Tuesday fixes Outlook flaw already under attack](https://www.malwarebytes.com/blog/bugs/2026/11/microsoft-patch-tuesday-fixes-outlook-flaw-already-under-attack)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 11 Nov 2026 11:25:05 GMT  
@@ -679,7 +686,7 @@
 
 ---
 
-### 74. [Researcher bypassed Meta smart glasses’ safeguards to run her own code](https://www.malwarebytes.com/blog/news/2026/11/researcher-bypassed-meta-smart-glasses-safeguards-to-run-her-own-code)
+### 75. [Researcher bypassed Meta smart glasses’ safeguards to run her own code](https://www.malwarebytes.com/blog/news/2026/11/researcher-bypassed-meta-smart-glasses-safeguards-to-run-her-own-code)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 10 Nov 2026 15:09:39 GMT  
@@ -688,7 +695,7 @@
 
 ---
 
-### 75. [Update Chrome now to fix a flaw attackers are exploiting](https://www.malwarebytes.com/blog/bugs/2026/11/update-chrome-now-to-fix-a-flaw-attackers-are-exploiting)
+### 76. [Update Chrome now to fix a flaw attackers are exploiting](https://www.malwarebytes.com/blog/bugs/2026/11/update-chrome-now-to-fix-a-flaw-attackers-are-exploiting)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 10 Nov 2026 13:23:00 GMT  
@@ -697,7 +704,7 @@
 
 ---
 
-### 76. [Before you buy an advent calendar, check these warning signs](https://www.malwarebytes.com/blog/how-to/2026/11/before-you-buy-an-advent-calendar-check-these-warning-signs)
+### 77. [Before you buy an advent calendar, check these warning signs](https://www.malwarebytes.com/blog/how-to/2026/11/before-you-buy-an-advent-calendar-check-these-warning-signs)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 10 Nov 2026 13:03:12 GMT  
@@ -706,7 +713,7 @@
 
 ---
 
-### 77. [13.3 million people’s medical data exposed; companies pay $300,000](https://www.malwarebytes.com/blog/news/2026/11/13-3-million-peoples-medical-data-exposed-companies-pay-300000)
+### 78. [13.3 million people’s medical data exposed; companies pay $300,000](https://www.malwarebytes.com/blog/news/2026/11/13-3-million-peoples-medical-data-exposed-companies-pay-300000)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 09 Nov 2026 13:13:02 GMT  
@@ -715,7 +722,7 @@
 
 ---
 
-### 78. [A week in security (November 2 – November 8)](https://www.malwarebytes.com/blog/news/2026/11/a-week-in-security-november-2-november-8)
+### 79. [A week in security (November 2 – November 8)](https://www.malwarebytes.com/blog/news/2026/11/a-week-in-security-november-2-november-8)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 09 Nov 2026 08:01:00 GMT  
@@ -724,20 +731,11 @@
 
 ---
 
-### 79. [Big Tech sues over California plan to limit kids’ scrolling](https://www.malwarebytes.com/blog/news/2026/11/big-tech-sues-over-california-plan-to-limit-kids-scrolling)
+### 80. [Big Tech sues over California plan to limit kids’ scrolling](https://www.malwarebytes.com/blog/news/2026/11/big-tech-sues-over-california-plan-to-limit-kids-scrolling)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 06 Nov 2026 15:06:02 GMT  
 **Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 80. [Attacks on supermarket and blood storage systems prompt US warning](https://www.malwarebytes.com/blog/news/2026/11/attacks-on-supermarket-and-blood-storage-systems-prompt-us-warning)
-
-**Source:** Malwarebytes  
-**Published:** Fri, 06 Nov 2026 12:02:17 GMT  
-**Severity:** High  
 **Categories:** Vulnerability  
 
 ---
