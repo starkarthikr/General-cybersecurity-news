@@ -1,6 +1,151 @@
 [
   {
     "source": "The Hacker News",
+    "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
+    "link": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
+    "published": "Wed, 11 Nov 2026 21:04:27 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a campaign in which an emerging agentic penetration testing platform called AntiFox has been used to steal Amazon Web Services (AWS) credentials and pivot laterally into compromised environments.\n\n\"In several recently observed intrusions, Alibaba Cloud systems hosting AntiFox interfaces were associated with confirmed malicious actions against",
+    "analysis": {
+      "issue": "AntiFox-linked intrusions used IIS web shells and valid AWS credentials to enumerate cloud services and access production secrets",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
+    "link": "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html",
+    "published": "Wed, 11 Nov 2026 19:31:00 +0530",
+    "summary": "Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026.\n\nCynet's CyOps and Research teams said they identified the suspicious activity in October 2026 against several E.U.-based customers within a narrow window of just over three minutes.\n\nThe activity has been found to share some",
+    "analysis": {
+      "issue": "Attackers targeted Qlik Sense servers with blocked PowerShell reverse shell attempts, using infrastructure hosting backdoors and exploits",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
+    "link": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
+    "published": "Wed, 11 Nov 2026 17:49:40 +0530",
+    "summary": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday.\n\nThey included 24 apps built by staff at the social network X and at SpaceXSI, the company that makes the Grok AI assistant. Most of the open apps were games, landing pages, and calculators, but about 1 in 10 contained internal business or",
+    "analysis": {
+      "issue": "Researchers found 35,578 Grok-built apps accessible without sign-in, exposing internal data from X, SpaceXSI, and 30 other organizations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
+    "link": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
+    "published": "Wed, 11 Nov 2026 17:31:59 +0530",
+    "summary": "We tell customers three things about securing AI agents: they need their own identities, access that fits the job they’re given, and traceability that’s separate from any human’s. That was true for us at Token as well. Then, we built an agent that broke all three by default.\n\nThis helped us think through how such agents should be defended. When a browser agent acts inside a user’s authenticated",
+    "analysis": {
+      "issue": "Token shows how AI browser agents inherit user privileges, obscuring agent identity and task scope, and outlines ways to restrict access",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
+    "link": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
+    "published": "Wed, 11 Nov 2026 17:30:53 +0530",
+    "summary": "The in-house Python script behind eMudhra's October key compromise has now cost the company 8 more of its intermediate certificate authorities (CAs), even though it did not weaken their keys.\n\nEach intermediate CA has its own private key, which the company uses to sign the certificates it issues. The 8 intermediate CAs compromised in October had a different problem: a single line in the script",
+    "analysis": {
+      "issue": "eMudhra revoked 8 more certificate authorities after finding its Python script exposed RSA private keys to process memory during an HSM transfer",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
+    "link": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
+    "published": "Wed, 11 Nov 2026 13:47:53 +0530",
+    "summary": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws.\n\nThese cover 726 flaws in Windows, 174 in Office, 61 in Developer Tools, 59 in SQL Server, 53 in Developer Tools, and 27 in SharePoint Server. The patches also include 165 non-Microsoft-issued CVE identifiers.",
+    "analysis": {
+      "issue": "Microsoft patches 1,259 flaws, including an actively exploited Outlook vulnerability that could expose NTLMv2 hashes through crafted files",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
+    "link": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
+    "published": "Wed, 11 Nov 2026 13:19:04 +0530",
+    "summary": "AI provider keys that customers stored on Railway were stolen in an October breach and used to commit an estimated $740,000 in unauthorized spending, the platform-as-a-service provider said yesterday. It has promised to pay those charges itself when an AI provider will not refund them.\n\nThe company builds and runs apps for its customers and stores their secrets, such as API keys and database",
+    "analysis": {
+      "issue": "Railway says stolen AI API keys caused $740,000 in unauthorized charges after attackers decrypted secrets in up to 100,000 workspaces",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
+    "link": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
+    "published": "Wed, 11 Nov 2026 12:51:05 +0530",
+    "summary": "An AI model can be given a hidden backdoor by editing fewer than 10 of its rarely used neurons, without retraining the model, Microsoft researchers have shown.\n\nWhen a chosen trigger appears, the model outputs an attacker's command, which an agent using that model would run with the agent's own permissions. The attacker must be able to change the model's weights.\n\nThe team tested the method on",
+    "analysis": {
+      "issue": "Microsoft demonstrates how editing as few as six AI model neurons can plant backdoors that trigger command execution by agents",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
     "link": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
     "published": "Wed, 11 Nov 2026 11:34:02 +0530",
@@ -38,17 +183,36 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
-    "link": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
-    "published": "Wed, 11 Nov 2026 00:49:39 +0530",
-    "summary": "An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday.\n\nThe attacker could also have seen requests being processed on that server that day, including requests sent in confidential mode, the company said earlier this week. That mode processes requests inside a trusted execution environment (TEE",
+    "source": "Bleeping Computer",
+    "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
+    "link": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
+    "published": "Wed, 11 Nov 2026 11:24:18 -0500",
+    "summary": "Maersk announced that a threat actor gained unauthorized access to a local legacy system inherited through an earlier acquisition and extracted data from it. [...]",
     "analysis": {
-      "issue": "An attacker exploited an SGLang RCE flaw at NEAR AI, stealing account and agent data and potentially viewing confidential AI requests",
+      "issue": "Shipping giant Maersk has confirmed that a threat actor breached systems belonging to a company it previously acquired and stole data",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
+    "published": "Wed, 11 Nov 2026 10:12:59 -0500",
+    "summary": "Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web services and AWS environments. [...]",
+    "analysis": {
+      "issue": "Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web services and AWS environments",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
       "cves": [],
       "threat_categories": [
         "Vulnerability"
@@ -56,87 +220,50 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
-    "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
-    "published": "Tue, 10 Nov 2026 23:42:21 +0530",
-    "summary": "French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild.\n\nThe authentication bypass flaw, which does not yet have a CVE identifier, is tracked as VSA-2026-062.\n\n\"REST cookie parsing turns authenticationToken=j:%7B%7D into {},\" Vates VMS said in an alert. \"REST authentication passes that object to the",
+    "source": "Bleeping Computer",
+    "title": "eBPF Rootkits: Why Underground Actors Are Taking Notice",
+    "link": "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/",
+    "published": "Wed, 11 Nov 2026 10:01:11 -0500",
+    "summary": "Linux eBPF rootkits can hide malicious activity and evade traditional detection methods without loading kernel modules. Flare reveals how these techniques are spreading through underground forums, where threat actors are sharing rootkit source code, tutorials, and exploits targeting Linux systems. [...]",
     "analysis": {
-      "issue": "Hackers are exploiting a critical Xen Orchestra authentication bypass that can grant admin access and lead to XCP-ng node takeover",
+      "issue": "For years, eBPF (extended Berkeley Packet Filter) has been one of the most celebrated technologies in the Linux kernel",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "N-able releases security hotfixes for zero-day vulnerabilities",
+    "link": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/",
+    "published": "Wed, 11 Nov 2026 07:32:27 -0500",
+    "summary": "N-able released hotfixes to address zero-day bugs affecting its N-central remote monitoring and management (RMM) platform, which were publicly disclosed over the weekend and forced it to take vulnerable hosted environments offline. [...]",
+    "analysis": {
+      "issue": "N-able released hotfixes to address zero-day bugs affecting its N-central remote monitoring and management (RMM) platform, which were publicly disclosed over the weekend and forced it to take vulnerable hosted environments offline",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
       "cves": [],
       "threat_categories": [
+        "Data Breach",
         "Vulnerability"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
-    "link": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html",
-    "published": "Tue, 10 Nov 2026 23:13:23 +0530",
-    "summary": "Three distinct threat activity clusters with shared infrastructure and malware code similarities have been observed targeting telecommunications providers, government organizations, military entities, research institutions, and critical infrastructure across Latin America, Asia, and Europe over the past year.\n\nCheck Point Research is tracking the clusters under the names SilentDelivery,",
+    "source": "Bleeping Computer",
+    "title": "Microsoft fixes audio issues caused by September security updates",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/",
+    "published": "Wed, 11 Nov 2026 06:18:36 -0500",
+    "summary": "Microsoft says the November 2026 cumulative updates resolve USB audio issues plaguing Windows users who have installed security updates released since September. [...]",
     "analysis": {
-      "issue": "Check Point links three espionage clusters to the Sparrow malware ecosystem, targeting telecom, government, and other sectors across three continents",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
-    "link": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
-    "published": "Tue, 10 Nov 2026 21:30:55 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant.\n\nThe activity, observed by Huntress in early October 2026, involves the exploitation of a chain comprising CVE-2026-105133 and CVE-2026-105134 to bypass authentication and execute arbitrary commands on affected systems. Patches for the two",
-    "analysis": {
-      "issue": "Attackers chained two now-patched AhsayCBS flaws to deploy web shells, XMRig miners, and a Python backdoor tied to its host",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America",
-    "link": "https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html",
-    "published": "Tue, 10 Nov 2026 21:28:44 +0530",
-    "summary": "The threat actor known as Blind Eagle has resurfaced with a new campaign targeting organizations in Latin America through judicial and administrative-themed phishing lures to deliver a remote access trojan (RAT) that shares its lineage with AsyncRAT and DCRat.\n\n\"The campaign uses Portuguese and Spanish lures that resemble court notifications, fiscalía notices, tutela proceedings, and",
-    "analysis": {
-      "issue": "Blind Eagle targets Latin American organizations with judicial phishing lures and HTML smuggling to deliver an AsyncRAT-based trojan",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats",
-    "link": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
-    "published": "Tue, 10 Nov 2026 21:03:59 +0530",
-    "summary": "Fireworks AI disclosed on Monday that its investigation into a security incident first reported early last month&nbsp; uncovered further malicious activity, affecting account and billing information, alongside secrets, datasets, and incomplete models for a \"limited set of accounts.\"\n\nIn a notice published on October 10, 2026, the company said it detected unauthorized use of internal Fireworks",
-    "analysis": {
-      "issue": "Fireworks AI says attackers accessed customer billing data, secrets, datasets, and incomplete model weights in a broader security breach",
+      "issue": "Microsoft says the November 2026 cumulative updates resolve USB audio issues plaguing Windows users who have installed security updates released since September",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -148,31 +275,33 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
-    "link": "https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html",
-    "published": "Tue, 10 Nov 2026 17:45:31 +0530",
-    "summary": "An iOS sandbox escape published on GitHub lets an app read other apps' files on iPhones running iOS 26 and 27. That puts seed phrases, private keys, and login credentials at risk of exposure to malicious apps, Binance warned today. Apple's updates for iOS 26 and 27, released yesterday, do not list a fix.\n\nA researcher who goes by forcequit,&nbsp;&nbsp;in collaboration with 0xjohnny,&nbsp;",
+    "source": "Bleeping Computer",
+    "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
+    "published": "Wed, 11 Nov 2026 05:12:08 -0500",
+    "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vulnerability in attacks. [...]",
     "analysis": {
-      "issue": "Binance warns that an iOS sandbox escape could expose crypto wallet keys to malicious apps, with no confirmed fix in Apple's latest updates",
+      "issue": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vulnerability in attacks",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
+      "severity": "High",
+      "cves": [
+        "CVE-2026-20320"
+      ],
       "threat_categories": [
-        "General Security"
+        "Vulnerability"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Beyond the Alert: The Case for Rich Network Data",
-    "link": "https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html",
-    "published": "Tue, 10 Nov 2026 17:08:13 +0530",
-    "summary": "At some point your security will fail. This isn’t pessimism. It’s not because your team and tools aren’t sophisticated enough. It’s the reason we have detections in the first place. And, it’s why once we accept that prevention has its limits, we arrive at an interdiction strategy: finding and disrupting what got in.\n\nAfter the alert\n\nThe alert tells you something happened. However, gaining",
+    "source": "Bleeping Computer",
+    "title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/",
+    "published": "Wed, 11 Nov 2026 04:07:27 -0500",
+    "summary": "Microsoft has fixed Outlook sign-in and mail delivery issues on Exchange Server systems after installing the October 2026 Windows Server security updates. [...]",
     "analysis": {
-      "issue": "Rich network data helps SOC teams trace attacker activity, validate AI findings, and investigate incidents beyond initial alerts",
+      "issue": "Microsoft has fixed Outlook sign-in and mail delivery issues on Exchange Server systems after installing the October 2026 Windows Server security updates",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -232,139 +361,6 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/",
-    "published": "Tue, 10 Nov 2026 14:31:11 -0500",
-    "summary": "A threat actor used compromised identity and access management (IAM) credentials for a Qubole big data platform's AWS account to access and exfiltrate data from multiple customers' AWS environments. [...]",
-    "analysis": {
-      "issue": "A threat actor used compromised identity and access management (IAM) credentials for a Qubole big data platform's AWS account to access and exfiltrate data from multiple customers' AWS environments",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/",
-    "published": "Tue, 10 Nov 2026 14:07:36 -0500",
-    "summary": "Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability. [...]",
-    "analysis": {
-      "issue": "Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/",
-    "published": "Tue, 10 Nov 2026 13:33:26 -0500",
-    "summary": "Microsoft has released the Patch Tuesday Windows 11 and cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]",
-    "analysis": {
-      "issue": "Microsoft has released the Patch Tuesday Windows 11 KB513261 and KB5131087 cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs and add new features",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
-    "published": "Tue, 10 Nov 2026 11:17:16 -0500",
-    "summary": "A critical authentication bypass vulnerability in Xen Orchestra is being actively exploited in attacks that could grant administrator privileges and allow takeover of XCP-ng virtualization hosts. [...]",
-    "analysis": {
-      "issue": "A critical authentication bypass vulnerability in Xen Orchestra is being actively exploited in attacks that could grant administrator privileges and allow takeover of XCP-ng virtualization hosts",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Binance warns of iOS flaw that could leak crypto wallet secrets",
-    "link": "https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/",
-    "published": "Tue, 10 Nov 2026 10:59:19 -0500",
-    "summary": "Binance is warning about a vulnerability in Apple's iOS 26.7.1, 27.0.1, and 27.2 that could allow third-party apps to read private files stored by other apps, including cryptocurrency seed phrases, secret keys, and login credentials. [...]",
-    "analysis": {
-      "issue": "Binance is warning about a vulnerability in Apple’s iOS 26",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Ransomware recovery is now a client retention metric",
-    "link": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/",
-    "published": "Tue, 10 Nov 2026 10:01:11 -0500",
-    "summary": "Recovering from ransomware doesn't guarantee an MSP will retain its clients, especially when delays, poor communication, and unexpected costs undermine trust. Kaseya examines how disconnected recovery tools create these problems and how integrated workflows can improve response times, transparency, and client retention. [...]",
-    "analysis": {
-      "issue": "Your team has restored the client’s data, brought systems back online and put business operations back on track",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "SAP patches ICM2SHELL and PROXYGATE maximum severity flaws",
-    "link": "https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/",
-    "published": "Tue, 10 Nov 2026 07:07:03 -0500",
-    "summary": "SAP patched 35 vulnerabilities in its November 2026 security updates, including four maximum-severity issues affecting its NetWeaver, Web Dispatcher, and Gateway software. [...]",
-    "analysis": {
-      "issue": "SAP patched 35 vulnerabilities in its November 2026 security updates, including four maximum-severity issues affecting its NetWeaver, Web Dispatcher, and Gateway software",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-89126",
-        "CVE-2026-76964",
-        "CVE-2026-120017",
-        "CVE-2026-89103"
-      ],
       "threat_categories": [
         "Vulnerability"
       ]
@@ -563,19 +559,17 @@
   },
   {
     "source": "Security Week",
-    "title": "Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft",
-    "link": "https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft/",
-    "published": "Tue, 10 Nov 2026 19:19:46 +0000",
-    "summary": "<p>CVE-2026-124194 is the Outlook zero-day for which Microsoft says it’s aware of active exploitation. </p>\n<p>The post <a href=\"https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft/\">Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "title": "Critical Xen Orchestra Flaws Exploited in Attacks",
+    "link": "https://www.securityweek.com/critical-xen-orchestra-flaws-exploited-in-attacks/",
+    "published": "Wed, 11 Nov 2026 15:42:47 +0000",
+    "summary": "<p>A critical authentication bypass allows attackers to execute arbitrary code as admin and take over XCP-ng nodes.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-xen-orchestra-flaws-exploited-in-attacks/\">Critical Xen Orchestra Flaws Exploited in Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
-      "issue": "CVE-2026-124194 is the Outlook zero-day for which Microsoft says it’s aware of active exploitation",
+      "issue": "A critical authentication bypass allows attackers to execute arbitrary code as admin and take over XCP-ng nodes",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
-      "cves": [
-        "CVE-2026-124194"
-      ],
+      "cves": [],
       "threat_categories": [
         "Vulnerability",
         "Malware"
@@ -584,12 +578,56 @@
   },
   {
     "source": "Security Week",
-    "title": "Adobe Patches 110 Vulnerabilities Across 9 Products",
-    "link": "https://www.securityweek.com/adobe-patches-110-vulnerabilities-across-9-products/",
-    "published": "Tue, 10 Nov 2026 18:11:54 +0000",
-    "summary": "<p>Adobe has fixed vulnerabilities in AEM, Premiere, Photoshop, After Effects, Connect, Audition, Dimension, Content Credentials SDK, and Media Encoder.</p>\n<p>The post <a href=\"https://www.securityweek.com/adobe-patches-110-vulnerabilities-across-9-products/\">Adobe Patches 110 Vulnerabilities Across 9 Products</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "title": "Asus, Zoom Release Security Patches",
+    "link": "https://www.securityweek.com/asus-zoom-release-security-patches/",
+    "published": "Wed, 11 Nov 2026 13:58:38 +0000",
+    "summary": "<p>Attackers could exploit them for command execution, memory overwrites, and privilege escalation.</p>\n<p>The post <a href=\"https://www.securityweek.com/asus-zoom-release-security-patches/\">Asus, Zoom Release Security Patches</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
-      "issue": "Adobe has fixed vulnerabilities in AEM, Premiere, Photoshop, After Effects, Connect, Audition, Dimension, Content Credentials SDK, and Media Encoder",
+      "issue": "Attackers could exploit them for command execution, memory overwrites, and privilege escalation",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-108187",
+        "CVE-2026-108186"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities",
+    "link": "https://www.securityweek.com/citrix-ivanti-patch-critical-and-high-severity-vulnerabilities/",
+    "published": "Wed, 11 Nov 2026 13:37:19 +0000",
+    "summary": "<p>Attackers could exploit the bugs to tamper with certificate entries, achieve remote code execution, and compromise hosts.</p>\n<p>The post <a href=\"https://www.securityweek.com/citrix-ivanti-patch-critical-and-high-severity-vulnerabilities/\">Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Attackers could exploit the bugs to tamper with certificate entries, achieve remote code execution, and compromise hosts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-102705",
+        "CVE-2026-105425",
+        "CVE-2026-121653",
+        "CVE-2026-121683"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Finite State Raises $27 Million to Secure Software and Firmware in Connected Devices",
+    "link": "https://www.securityweek.com/finite-state-raises-27-million-to-secure-software-and-firmware-in-connected-devices/",
+    "published": "Wed, 11 Nov 2026 12:24:33 +0000",
+    "summary": "<p>The Series C round will fund international expansion and more autonomous features for the firm’s device security platform. </p>\n<p>The post <a href=\"https://www.securityweek.com/finite-state-raises-27-million-to-secure-software-and-firmware-in-connected-devices/\">Finite State Raises $27 Million to Secure Software and Firmware in Connected Devices</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The Series C round will fund international expansion and more autonomous features for the firm’s device security platform",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -602,33 +640,12 @@
   },
   {
     "source": "Security Week",
-    "title": "Software Transparency Is Changing: Allan Friedman on SBOM, AI BOMs and What Comes Next",
-    "link": "https://www.securityweek.com/software-transparency-is-changing-allan-friedman-on-sbom-ai-boms-and-what-comes-next/",
-    "published": "Tue, 10 Nov 2026 16:45:00 +0000",
-    "summary": "<p>SBOM pioneer Allan Friedman joined the SecurityWeek Podcast to discuss why knowing what is inside software is only the beginning, how AI is complicating software supply chain visibility, and what organizations should be doing with SBOM data once they have it.</p>\n<p>The post <a href=\"https://www.securityweek.com/software-transparency-is-changing-allan-friedman-on-sbom-ai-boms-and-what-comes-next/\">Software Transparency Is Changing: Allan Friedman on SBOM, AI BOMs and What Comes Next</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "title": "Fortinet Patches Nearly 100 Vulnerabilities",
+    "link": "https://www.securityweek.com/fortinet-patches-nearly-100-vulnerabilities/",
+    "published": "Wed, 11 Nov 2026 12:10:14 +0000",
+    "summary": "<p>The massive drop comes after the company integrated frontier AI models into its product security testing.</p>\n<p>The post <a href=\"https://www.securityweek.com/fortinet-patches-nearly-100-vulnerabilities/\">Fortinet Patches Nearly 100 Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
-      "issue": "SBOM pioneer Allan Friedman joined the SecurityWeek Podcast to discuss why knowing what is inside software is only the beginning, how AI is complicating software supply chain visibility, and what organizations should be doing with SBOM data once they",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "APT",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Google Widens Gemini 4 Carbon Access After AI Agents Verify Signal Code",
-    "link": "https://www.securityweek.com/google-widens-gemini-4-carbon-access-after-ai-agents-verify-signal-code/",
-    "published": "Tue, 10 Nov 2026 16:42:02 +0000",
-    "summary": "<p>Google opened Carbon to paying developers and businesses as DeepMind used agents built on it to prove libsignal security guarantees.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-widens-gemini-4-carbon-access-after-ai-agents-verify-signal-code/\">Google Widens Gemini 4 Carbon Access After AI Agents Verify Signal Code</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Google opened Carbon to paying developers and businesses as DeepMind used agents built on it to prove libsignal security guarantees",
+      "issue": "The massive drop comes after the company integrated frontier AI models into its product security testing",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -641,30 +658,12 @@
   },
   {
     "source": "Security Week",
-    "title": "Today: CISO Forum Virtual Summit 2026 – Join Global Cybersecurity Leaders",
-    "link": "https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders/",
-    "published": "Tue, 10 Nov 2026 15:00:00 +0000",
-    "summary": "<p>Designed for cybersecurity leaders, this immersive two-day virtual event is your premier destination to discuss, share, and learn innovative risk management and defense strategies defining the modern enterprise.</p>\n<p>The post <a href=\"https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders/\">Today: CISO Forum Virtual Summit 2026 &#8211; Join Global Cybersecurity Leaders</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "title": "Bay Raises $50 Million to Control What Enterprise AI Agents Can Do",
+    "link": "https://www.securityweek.com/bay-raises-50-million-to-control-what-enterprise-ai-agents-can-do/",
+    "published": "Wed, 11 Nov 2026 11:30:00 +0000",
+    "summary": "<p>Founded by three ex-IDF Unit 8200 intelligence officers, Bay is launched to provide a control plane for AI agents.</p>\n<p>The post <a href=\"https://www.securityweek.com/bay-raises-50-million-to-control-what-enterprise-ai-agents-can-do/\">Bay Raises $50 Million to Control What Enterprise AI Agents Can Do</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
-      "issue": "Designed for cybersecurity leaders, this immersive two-day virtual event is your premier destination to discuss, share, and learn innovative risk management and defense strategies defining the modern enterprise",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "WhiteMatter Raises $20 Million in Series A Funding",
-    "link": "https://www.securityweek.com/whitematter-raises-20-million-in-series-a-funding/",
-    "published": "Tue, 10 Nov 2026 14:58:19 +0000",
-    "summary": "<p>The cybersecurity startup deploys a dedicated guardian agent for every AI agent in an organization’s environment.</p>\n<p>The post <a href=\"https://www.securityweek.com/whitematter-raises-20-million-in-series-a-funding/\">WhiteMatter Raises $20 Million in Series A Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The cybersecurity startup deploys a dedicated guardian agent for every AI agent in an organization’s environment",
+      "issue": "Founded by three ex-IDF Unit 8200 intelligence officers, Bay is launched to provide a control plane for AI agents",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -677,85 +676,81 @@
   },
   {
     "source": "Security Week",
-    "title": "SAP Patches Critical ICM2SHELL, ProxyGate Vulnerabilities",
-    "link": "https://www.securityweek.com/sap-patches-critical-icm2shell-proxygate-vulnerabilities/",
-    "published": "Tue, 10 Nov 2026 14:46:28 +0000",
-    "summary": "<p>SAP has published 42 new and updated security advisories, including nine that address critical-severity vulnerabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/sap-patches-critical-icm2shell-proxygate-vulnerabilities/\">SAP Patches Critical ICM2SHELL, ProxyGate Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "title": "Dreeze Emerges From Stealth With $33M to Rebuild Cloud Apps After Cyberattacks",
+    "link": "https://www.securityweek.com/dreeze-emerges-from-stealth-with-33m-to-rebuild-cloud-apps-after-cyberattacks/",
+    "published": "Wed, 11 Nov 2026 11:16:40 +0000",
+    "summary": "<p>Created by Zerto and Kashya veterans, the startup has launched a platform designed to recover whole cloud applications. </p>\n<p>The post <a href=\"https://www.securityweek.com/dreeze-emerges-from-stealth-with-33m-to-rebuild-cloud-apps-after-cyberattacks/\">Dreeze Emerges From Stealth With $33M to Rebuild Cloud Apps After Cyberattacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
-      "issue": "SAP has published 42 new and updated security advisories, including nine that address critical-severity vulnerabilities",
+      "issue": "Created by Zerto and Kashya veterans, the startup has launched a platform designed to recover whole cloud applications",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
-      "cves": [
-        "CVE-2026-89103",
-        "CVE-2026-109795",
-        "CVE-2026-109803",
-        "CVE-2026-76965",
-        "CVE-2026-89119",
-        "CVE-2026-109798",
-        "CVE-2026-89126",
-        "CVE-2026-76964",
-        "CVE-2026-120017"
-      ],
+      "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "General Security"
       ]
     }
   },
   {
     "source": "Security Week",
-    "title": "Over a Dozen Organizations Hit in Qubole Supply Chain Attack",
-    "link": "https://www.securityweek.com/over-a-dozen-organizations-hit-in-qubole-supply-chain-attack/",
-    "published": "Tue, 10 Nov 2026 13:27:44 +0000",
-    "summary": "<p>Hackers used compromised Qubole IAM credentials to steal customer files, secrets, keys, environment variables, and credentials.</p>\n<p>The post <a href=\"https://www.securityweek.com/over-a-dozen-organizations-hit-in-qubole-supply-chain-attack/\">Over a Dozen Organizations Hit in Qubole Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "title": "ICS Patch Tuesday: Siemens Flags High-Severity Flaws, Node2Shell Exposure",
+    "link": "https://www.securityweek.com/ics-patch-tuesday-siemens-flags-high-severity-flaws-node2shell-exposure/",
+    "published": "Wed, 11 Nov 2026 10:35:15 +0000",
+    "summary": "<p>Pre-Patch Tuesday advisories were published by VDE CERT, Phoenix Contact, Johnson Controls, and Hitachi Energy. </p>\n<p>The post <a href=\"https://www.securityweek.com/ics-patch-tuesday-siemens-flags-high-severity-flaws-node2shell-exposure/\">ICS Patch Tuesday: Siemens Flags High-Severity Flaws, Node2Shell Exposure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
-      "issue": "Hackers used compromised Qubole IAM credentials to steal customer files, secrets, keys, environment variables, and credentials",
+      "issue": "Pre-Patch Tuesday advisories were published by VDE CERT, Phoenix Contact, Johnson Controls, and Hitachi Energy",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "Data Breach",
+        "Vulnerability",
         "Supply Chain"
       ]
     }
   },
   {
     "source": "Security Week",
-    "title": "Anthropic Rolls Out Mythos 5.2 With Improved Bug Hunting, Fewer Sandbox Escapes",
-    "link": "https://www.securityweek.com/anthropic-rolls-out-mythos-5-2-with-improved-bug-hunting-fewer-sandbox-escapes/",
-    "published": "Tue, 10 Nov 2026 12:17:13 +0000",
-    "summary": "<p>Anthropic says Mythos 5.2 improves vulnerability discovery while showing a lower tendency to escape sandboxes in controlled tests.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-rolls-out-mythos-5-2-with-improved-bug-hunting-fewer-sandbox-escapes/\">Anthropic Rolls Out Mythos 5.2 With Improved Bug Hunting, Fewer Sandbox Escapes</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "title": "Threat Actors Exploit Openwave, Cisco BroadWorks Vulnerabilities",
+    "link": "https://www.securityweek.com/threat-actors-exploit-openwave-cisco-broadworks-vulnerabilities/",
+    "published": "Wed, 11 Nov 2026 09:01:07 +0000",
+    "summary": "<p>The flaws, CVE-2026-111793 and CVE-2026-20320, let attackers leak sensitive information, including configuration data.</p>\n<p>The post <a href=\"https://www.securityweek.com/threat-actors-exploit-openwave-cisco-broadworks-vulnerabilities/\">Threat Actors Exploit Openwave, Cisco BroadWorks Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
-      "issue": "2 improves vulnerability discovery while showing a lower tendency to escape sandboxes in controlled tests",
+      "issue": "The flaws, CVE-2026-111793 and CVE-2026-20320, let attackers leak sensitive information, including configuration data",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-111793",
+        "CVE-2026-20320"
+      ],
       "threat_categories": [
-        "Vulnerability"
+        "Vulnerability",
+        "Phishing"
       ]
     }
   },
   {
     "source": "Security Week",
-    "title": "N-able Takes N-central Offline as Researcher Drops Over 30 Zero-Days",
-    "link": "https://www.securityweek.com/n-able-takes-n-central-offline-as-researcher-drops-over-30-zero-days/",
-    "published": "Tue, 10 Nov 2026 09:56:28 +0000",
-    "summary": "<p>Attackers could exploit the flaws for remote code execution, credential theft, and administrator account creation.</p>\n<p>The post <a href=\"https://www.securityweek.com/n-able-takes-n-central-offline-as-researcher-drops-over-30-zero-days/\">N-able Takes N-central Offline as Researcher Drops Over 30 Zero-Days</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "title": "Chipmaker Patch Tuesday: Over 200 Vulnerabilities Addressed by Intel, AMD",
+    "link": "https://www.securityweek.com/chipmaker-patch-tuesday-over-200-vulnerabilities-addressed-by-intel-amd/",
+    "published": "Wed, 11 Nov 2026 08:42:44 +0000",
+    "summary": "<p>Intel and AMD disclose more than 200 vulnerabilities, including critical flaws in Intel TDX software and numerous AMD graphics bugs.</p>\n<p>The post <a href=\"https://www.securityweek.com/chipmaker-patch-tuesday-over-200-vulnerabilities-addressed-by-intel-amd/\">Chipmaker Patch Tuesday: Over 200 Vulnerabilities Addressed by Intel, AMD</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
-      "issue": "Attackers could exploit the flaws for remote code execution, credential theft, and administrator account creation",
+      "issue": "Intel and AMD disclose more than 200 vulnerabilities, including critical flaws in Intel TDX software and numerous AMD graphics bugs",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
-      "cves": [],
+      "cves": [
+        "CVE-2026-61887"
+      ],
       "threat_categories": [
         "Vulnerability",
-        "Phishing"
+        "APT"
       ]
     }
   },
@@ -772,10 +767,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-124194",
-        "CVE-2026-118148",
+        "CVE-2026-118146",
         "CVE-2026-113862",
-        "CVE-2026-118146"
+        "CVE-2026-124194",
+        "CVE-2026-118148"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -955,6 +950,24 @@
   },
   {
     "source": "Recorded Future",
+    "title": "AI Is Both Target and Tool for Threat Actors",
+    "link": "https://www.recordedfuture.com/research/ai-cyber-threat-trends-2026",
+    "published": "Wed, 11 Nov 2026 00:00:00 GMT",
+    "summary": "Discover 2026 trends in AI-enabled cyber threats, supply-chain vulnerabilities, state-sponsored agentic attacks, and key mitigations.",
+    "analysis": {
+      "issue": "Discover 2026 trends in AI-enabled cyber threats, supply-chain vulnerabilities, state-sponsored agentic attacks, and key mitigations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
     "title": "DoppelCart Fraud Network Grows to More Than 250,000 Domains",
     "link": "https://www.recordedfuture.com/blog/doppelcart-fraud-network-grows-domains",
     "published": "Tue, 10 Nov 2026 00:00:00 GMT",
@@ -1106,24 +1119,6 @@
     "summary": "Discover Recorded Future's new Boston headquarters at Post Office Square. Explore our journey from a Somerville laundromat, vibrant culture, and modern workspace.",
     "analysis": {
       "issue": "Discover Recorded Future's new Boston headquarters at Post Office Square",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Russia Is Tightening Internet Controls, Leading to Operational Risks",
-    "link": "https://www.recordedfuture.com/research/russia-restrictive-info-environment",
-    "published": "Thu, 15 Oct 2026 00:00:00 GMT",
-    "summary": "Explore Russia's escalating internet restrictions, VPN bans, and outages, and understand the growing operational and surveillance risks for organizations.",
-    "analysis": {
-      "issue": "Explore Russia's escalating internet restrictions, VPN bans, and outages, and understand the growing operational and surveillance risks for organizations",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1301,8 +1296,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1324,6 +1319,63 @@
       "severity": "Critical",
       "cves": [
         "CVE-2022-2856"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Remus malware claims Gmail access even after you change your password",
+    "link": "https://www.malwarebytes.com/blog/news/2026/11/remus-malware-claims-gmail-access-even-after-you-change-your-password",
+    "published": "Wed, 11 Nov 2026 13:42:10 GMT",
+    "summary": "Developers of the infostealer Remus claim their malware can retain access to a victim’s Gmail even after a password reset.",
+    "analysis": {
+      "issue": "Changing your password should be part of recovering a compromised account",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Muse sleep band users weren’t told their brain data was training AI",
+    "link": "https://www.malwarebytes.com/blog/ai/2026/11/muse-sleep-band-users-werent-told-their-brain-data-was-training-ai",
+    "published": "Wed, 11 Nov 2026 12:23:05 GMT",
+    "summary": "Muse maker Interaxon reportedly trained AI on users’ de-identified brainwave data, then revised its privacy policy after journalists asked questions.",
+    "analysis": {
+      "issue": "Technology companies have spent years trying to get into your head for profit",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Microsoft Patch Tuesday fixes Outlook flaw already under attack",
+    "link": "https://www.malwarebytes.com/blog/bugs/2026/11/microsoft-patch-tuesday-fixes-outlook-flaw-already-under-attack",
+    "published": "Wed, 11 Nov 2026 11:25:05 GMT",
+    "summary": "Microsoft’s November 2026 Patch Tuesday fixes an actively exploited Outlook vulnerability. Check for Office updates separately.",
+    "analysis": {
+      "issue": "Microsoft’s November Patch Tuesday fixes more than 1,000 Microsoft vulnerabilities, including an Outlook flaw that attackers are already exploiting to steal authentication information",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-124194"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1454,62 +1506,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Phone return scams: where a real delivery and a fake return end up in a bill for you",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/11/phone-return-scams-where-a-real-delivery-and-a-fake-return-end-up-in-a-bill-for-you",
-    "published": "Thu, 05 Nov 2026 22:18:22 GMT",
-    "summary": "Phone return scams are part of a very convincing social engineering method where the criminals get a phone and you get billed.",
-    "analysis": {
-      "issue": "A caller offers you a free phone upgrade or an exclusive deal from your mobile provider",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "NIKKE PC launcher compromise put players’ passwords and personal files at risk",
-    "link": "https://www.malwarebytes.com/blog/news/2026/11/nikke-pc-launcher-compromise-put-players-passwords-and-personal-files-at-risk",
-    "published": "Thu, 05 Nov 2026 22:06:59 GMT",
-    "summary": "Players of Goddess of Victory: NIKKE are being urged to check their PCs after attackers tampered with files used by the game’s Windows launcher.",
-    "analysis": {
-      "issue": "Players of Goddess of Victory: NIKKE are being urged to check their PCs after attackers tampered with files used by the game’s Windows launcher",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Scammers use AI-generated images of missing pets to extort owners",
-    "link": "https://www.malwarebytes.com/blog/ai/2026/11/scammers-use-ai-generated-images-of-missing-pets-to-extort-owners",
-    "published": "Thu, 05 Nov 2026 21:34:14 GMT",
-    "summary": "Scammers are using AI images to enhance their \"I've found your missing pet and want money to return it to you\" schemes.",
-    "analysis": {
-      "issue": "When your pet goes missing, it can be totally heartbreaking",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Malware"
       ]
     }
   },
