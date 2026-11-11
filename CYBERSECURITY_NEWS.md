@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-11 19:26:31 UTC
+**Last Updated:** 2026-11-11 22:57:09 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -94,7 +94,34 @@
 
 ---
 
-### 11. [Maersk confirms data breach as WhiteArmor ransomware demands $5 million](https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/)
+### 11. [Active ScreenConnect attacks breach MSPs, impact dozens of organizations](https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 11 Nov 2026 17:56:21 -0500  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 12. [eMudhra revokes 8 more CA certificates after private key mishap](https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 11 Nov 2026 16:27:40 -0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 13. [Notion says Fireworks breach exposed customer AI chat transcripts](https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 11 Nov 2026 15:54:20 -0500  
+**Severity:** Low  
+**Categories:** Supply Chain  
+
+---
+
+### 14. [Maersk confirms data breach as WhiteArmor ransomware demands $5 million](https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 11 Nov 2026 11:24:18 -0500  
@@ -103,7 +130,7 @@
 
 ---
 
-### 12. [Hackers use AntiFox AI agents in AWS credential-theft attacks](https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/)
+### 15. [Hackers use AntiFox AI agents in AWS credential-theft attacks](https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 11 Nov 2026 10:12:59 -0500  
@@ -112,7 +139,7 @@
 
 ---
 
-### 13. [eBPF Rootkits: Why Underground Actors Are Taking Notice](https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/)
+### 16. [eBPF Rootkits: Why Underground Actors Are Taking Notice](https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 11 Nov 2026 10:01:11 -0500  
@@ -121,7 +148,7 @@
 
 ---
 
-### 14. [N-able releases security hotfixes for zero-day vulnerabilities](https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/)
+### 17. [N-able releases security hotfixes for zero-day vulnerabilities](https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 11 Nov 2026 07:32:27 -0500  
@@ -130,7 +157,7 @@
 
 ---
 
-### 15. [Microsoft fixes audio issues caused by September security updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/)
+### 18. [Microsoft fixes audio issues caused by September security updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 11 Nov 2026 06:18:36 -0500  
@@ -139,7 +166,7 @@
 
 ---
 
-### 16. [CISA flags Cisco BroadWorks flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/)
+### 19. [CISA flags Cisco BroadWorks flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 11 Nov 2026 05:12:08 -0500  
@@ -149,39 +176,12 @@
 
 ---
 
-### 17. [Microsoft fixes Exchange sign-ins broken by Windows Server updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/)
+### 20. [Microsoft fixes Exchange sign-ins broken by Windows Server updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 11 Nov 2026 04:07:27 -0500  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 18. [Railway breach leads to $740,000 in fraudulent AI charges](https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 10 Nov 2026 17:20:19 -0500  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 19. [Japanese furniture giant Nitori says hackers stole 37.6M customer records](https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 10 Nov 2026 15:54:55 -0500  
-**Severity:** High  
-**Categories:** Data Breach  
-
----
-
-### 20. [Microsoft releases Windows 10 KB5131096 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 10 Nov 2026 15:04:36 -0500  
-**Severity:** Critical  
-**Categories:** Vulnerability  
 
 ---
 
@@ -301,7 +301,7 @@
 **Source:** Security Week  
 **Published:** Wed, 11 Nov 2026 13:58:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-108187, CVE-2026-108186  
+**CVEs:** CVE-2026-108186, CVE-2026-108187  
 **Categories:** Vulnerability  
 
 ---
@@ -376,7 +376,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 11 Nov 2026 01:41:17 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-118146, CVE-2026-124194, CVE-2026-118148, CVE-2026-113862  
+**CVEs:** CVE-2026-124194, CVE-2026-118148, CVE-2026-113862, CVE-2026-118146  
 **Categories:** Vulnerability  
 
 ---
@@ -634,7 +634,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
