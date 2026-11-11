@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-11 05:37:32 UTC
+**Last Updated:** 2026-11-11 06:56:58 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones](https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html)
+### 1. [Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches](https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 11 Nov 2026 11:34:02 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones](https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 11 Nov 2026 00:53:10 +0530  
@@ -14,7 +23,7 @@
 
 ---
 
-### 2. [SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users](https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html)
+### 3. [SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users](https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 11 Nov 2026 00:49:39 +0530  
@@ -23,7 +32,7 @@
 
 ---
 
-### 3. [Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access](https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html)
+### 4. [Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access](https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 10 Nov 2026 23:42:21 +0530  
@@ -32,7 +41,7 @@
 
 ---
 
-### 4. [Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem](https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html)
+### 5. [Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem](https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 10 Nov 2026 23:13:23 +0530  
@@ -41,7 +50,7 @@
 
 ---
 
-### 5. [Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor](https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html)
+### 6. [Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor](https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 10 Nov 2026 21:30:55 +0530  
@@ -50,7 +59,7 @@
 
 ---
 
-### 6. [Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America](https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html)
+### 7. [Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America](https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 10 Nov 2026 21:28:44 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats](https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html)
+### 8. [Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats](https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 10 Nov 2026 21:03:59 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed](https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html)
+### 9. [Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed](https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 10 Nov 2026 17:45:31 +0530  
@@ -77,21 +86,12 @@
 
 ---
 
-### 9. [Beyond the Alert: The Case for Rich Network Data](https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html)
+### 10. [Beyond the Alert: The Case for Rich Network Data](https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 10 Nov 2026 17:08:13 +0530  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 10. [Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities](https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 10 Nov 2026 15:46:51 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
 
 ---
 
@@ -181,7 +181,7 @@
 **Source:** Bleeping Computer  
 **Published:** Tue, 10 Nov 2026 07:07:03 -0500  
 **Severity:** Low  
-**CVEs:** CVE-2026-89103, CVE-2026-89126, CVE-2026-120017, CVE-2026-76964  
+**CVEs:** CVE-2026-89126, CVE-2026-76964, CVE-2026-120017, CVE-2026-89103  
 **Categories:** Vulnerability  
 
 ---
@@ -246,7 +246,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 13 Oct 2026 23:24:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-108398, CVE-2026-96951  
+**CVEs:** CVE-2026-96951, CVE-2026-108398  
 **Categories:** Vulnerability  
 
 ---
@@ -339,7 +339,7 @@
 **Source:** Security Week  
 **Published:** Tue, 10 Nov 2026 14:46:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-76965, CVE-2026-109795, CVE-2026-120017, CVE-2026-89119, CVE-2026-76964, CVE-2026-89103, CVE-2026-109803, CVE-2026-109798, CVE-2026-89126  
+**CVEs:** CVE-2026-89103, CVE-2026-109795, CVE-2026-109803, CVE-2026-76965, CVE-2026-89119, CVE-2026-109798, CVE-2026-89126, CVE-2026-76964, CVE-2026-120017  
 **Categories:** Vulnerability  
 
 ---
@@ -376,7 +376,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 11 Nov 2026 01:41:17 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-118148, CVE-2026-124194, CVE-2026-118146, CVE-2026-113862  
+**CVEs:** CVE-2026-124194, CVE-2026-118148, CVE-2026-113862, CVE-2026-118146  
 **Categories:** Vulnerability  
 
 ---
@@ -634,7 +634,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

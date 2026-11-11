@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
+    "link": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
+    "published": "Wed, 11 Nov 2026 11:34:02 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Tuesday added two security flaws impacting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nDetails of the vulnerabilities are below -\n\n\n  CVE-2026-20320 (CVSS score: 7.5) - An improper restriction of XML external entity",
+    "analysis": {
+      "issue": "CISA adds exploited Cisco BroadWorks and Openwave flaws to its KEV catalog, requiring federal agencies to patch by November 24, 2026",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
     "link": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
     "published": "Wed, 11 Nov 2026 00:53:10 +0530",
@@ -162,24 +180,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
-    "link": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
-    "published": "Tue, 10 Nov 2026 15:46:51 +0530",
-    "summary": "An iMessage flaw could let a remote attacker join a group chat and receive its messages, Apple said yesterday, and it released updates to fix it. The updates also fix a separate iMessage flaw that could let someone added to a group access messages sent before they joined.\n\nAs of today, other updates released yesterday for the iPhone XS, XS Max and XR, the iPad (7th generation) and some Apple",
-    "analysis": {
-      "issue": "Apple fixes two iMessage flaws that could expose group messages, alongside a Brotli vulnerability listed in CISA's exploited catalog",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -360,10 +360,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-89103",
         "CVE-2026-89126",
+        "CVE-2026-76964",
         "CVE-2026-120017",
-        "CVE-2026-76964"
+        "CVE-2026-89103"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -495,8 +495,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-108398",
-        "CVE-2026-96951"
+        "CVE-2026-96951",
+        "CVE-2026-108398"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -688,15 +688,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-76965",
-        "CVE-2026-109795",
-        "CVE-2026-120017",
-        "CVE-2026-89119",
-        "CVE-2026-76964",
         "CVE-2026-89103",
+        "CVE-2026-109795",
         "CVE-2026-109803",
+        "CVE-2026-76965",
+        "CVE-2026-89119",
         "CVE-2026-109798",
-        "CVE-2026-89126"
+        "CVE-2026-89126",
+        "CVE-2026-76964",
+        "CVE-2026-120017"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -772,10 +772,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-118148",
         "CVE-2026-124194",
-        "CVE-2026-118146",
-        "CVE-2026-113862"
+        "CVE-2026-118148",
+        "CVE-2026-113862",
+        "CVE-2026-118146"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1301,8 +1301,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
