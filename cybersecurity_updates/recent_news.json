@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories",
+    "link": "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html",
+    "published": "Thu, 12 Nov 2026 12:12:47 +0530",
+    "summary": "Starting Tuesday, an attacker used stolen credentials for 4,837 GitHub accounts to plant a secret stealer in repositories those accounts could write to, according to Aikido Security, a security software company.\n\nThe stealer is built to take the secrets and cloud credentials that a repository's CI workflows can reach. It ran in at least 1,806 repositories, where the attacker has likely collected",
+    "analysis": {
+      "issue": "Attackers used 4,837 stolen GitHub accounts to plant a CI secret stealer that ran in at least 1,806 repositories",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
     "link": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
     "published": "Thu, 12 Nov 2026 10:42:26 +0530",
@@ -159,24 +177,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
-    "link": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
-    "published": "Wed, 11 Nov 2026 13:19:04 +0530",
-    "summary": "AI provider keys that customers stored on Railway were stolen in an October breach and used to commit an estimated $740,000 in unauthorized spending, the platform-as-a-service provider said yesterday. It has promised to pay those charges itself when an AI provider will not refund them.\n\nThe company builds and runs apps for its customers and stores their secrets, such as API keys and database",
-    "analysis": {
-      "issue": "Railway says stolen AI API keys caused $740,000 in unauthorized charges after attackers decrypted secrets in up to 100,000 workspaces",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -510,8 +510,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-108398",
-        "CVE-2026-96951"
+        "CVE-2026-96951",
+        "CVE-2026-108398"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -628,10 +628,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-121683",
-        "CVE-2026-102705",
+        "CVE-2026-121653",
         "CVE-2026-105425",
-        "CVE-2026-121653"
+        "CVE-2026-102705",
+        "CVE-2026-121683"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -764,9 +764,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-113862",
         "CVE-2026-124194",
         "CVE-2026-118146",
-        "CVE-2026-113862",
         "CVE-2026-118148"
       ],
       "threat_categories": [

@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-12 06:42:36 UTC
+**Last Updated:** 2026-11-12 07:32:07 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely](https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html)
+### 1. [Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories](https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 12 Nov 2026 12:12:47 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely](https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 12 Nov 2026 10:42:26 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients](https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html)
+### 3. [ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients](https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 12 Nov 2026 10:09:48 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation](https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html)
+### 4. [Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation](https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 11 Nov 2026 21:42:46 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets](https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html)
+### 5. [AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets](https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 11 Nov 2026 21:04:27 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits](https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html)
+### 6. [Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits](https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 11 Nov 2026 19:31:00 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords](https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html)
+### 7. [Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords](https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 11 Nov 2026 17:49:40 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.](https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html)
+### 8. [We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.](https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 11 Nov 2026 17:31:59 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise](https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html)
+### 9. [eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise](https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 11 Nov 2026 17:30:53 +0530  
@@ -76,21 +85,12 @@
 
 ---
 
-### 9. [Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes](https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html)
+### 10. [Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes](https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 11 Nov 2026 13:47:53 +0530  
 **Severity:** Low  
 **Categories:** Vulnerability  
-
----
-
-### 10. [Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges](https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 11 Nov 2026 13:19:04 +0530  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -254,7 +254,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 13 Oct 2026 23:24:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-108398, CVE-2026-96951  
+**CVEs:** CVE-2026-96951, CVE-2026-108398  
 **Categories:** Vulnerability  
 
 ---
@@ -311,7 +311,7 @@
 **Source:** Security Week  
 **Published:** Wed, 11 Nov 2026 13:37:19 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-121683, CVE-2026-102705, CVE-2026-105425, CVE-2026-121653  
+**CVEs:** CVE-2026-121653, CVE-2026-105425, CVE-2026-102705, CVE-2026-121683  
 **Categories:** Vulnerability  
 
 ---
@@ -376,7 +376,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 11 Nov 2026 01:41:17 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-124194, CVE-2026-118146, CVE-2026-113862, CVE-2026-118148  
+**CVEs:** CVE-2026-113862, CVE-2026-124194, CVE-2026-118146, CVE-2026-118148  
 **Categories:** Vulnerability  
 
 ---
