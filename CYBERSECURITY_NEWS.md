@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-11 22:57:09 UTC
+**Last Updated:** 2026-11-12 06:42:36 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation](https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html)
+### 1. [Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely](https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 12 Nov 2026 10:42:26 +0530  
+**Severity:** Critical  
+**Categories:** General Security  
+
+---
+
+### 2. [ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients](https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 12 Nov 2026 10:09:48 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 3. [Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation](https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 11 Nov 2026 21:42:46 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets](https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html)
+### 4. [AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets](https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 11 Nov 2026 21:04:27 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits](https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html)
+### 5. [Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits](https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 11 Nov 2026 19:31:00 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords](https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html)
+### 6. [Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords](https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 11 Nov 2026 17:49:40 +0530  
@@ -40,7 +58,7 @@
 
 ---
 
-### 5. [We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.](https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html)
+### 7. [We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.](https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 11 Nov 2026 17:31:59 +0530  
@@ -49,7 +67,7 @@
 
 ---
 
-### 6. [eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise](https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html)
+### 8. [eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise](https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 11 Nov 2026 17:30:53 +0530  
@@ -58,7 +76,7 @@
 
 ---
 
-### 7. [Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes](https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html)
+### 9. [Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes](https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 11 Nov 2026 13:47:53 +0530  
@@ -67,7 +85,7 @@
 
 ---
 
-### 8. [Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges](https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html)
+### 10. [Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges](https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 11 Nov 2026 13:19:04 +0530  
@@ -76,34 +94,25 @@
 
 ---
 
-### 9. [Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons](https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html)
+### 11. [Baker Tilly notifies clients of data breach at third-party provider](https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 11 Nov 2026 12:51:05 +0530  
+**Source:** Bleeping Computer  
+**Published:** Wed, 11 Nov 2026 18:01:31 -0500  
 **Severity:** Low  
-**Categories:** Malware  
+**Categories:** Data Breach, Supply Chain  
 
 ---
 
-### 10. [Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches](https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 11 Nov 2026 11:34:02 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 11. [Active ScreenConnect attacks breach MSPs, impact dozens of organizations](https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/)
+### 12. [Active ScreenConnect attacks breach MSPs, impact dozens of organizations](https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 11 Nov 2026 17:56:21 -0500  
 **Severity:** Low  
-**Categories:** Malware  
+**Categories:** Malware, Supply Chain  
 
 ---
 
-### 12. [eMudhra revokes 8 more CA certificates after private key mishap](https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/)
+### 13. [eMudhra revokes 8 more CA certificates after private key mishap](https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 11 Nov 2026 16:27:40 -0500  
@@ -112,7 +121,7 @@
 
 ---
 
-### 13. [Notion says Fireworks breach exposed customer AI chat transcripts](https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/)
+### 14. [Notion says Fireworks breach exposed customer AI chat transcripts](https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 11 Nov 2026 15:54:20 -0500  
@@ -121,7 +130,7 @@
 
 ---
 
-### 14. [Maersk confirms data breach as WhiteArmor ransomware demands $5 million](https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/)
+### 15. [Maersk confirms data breach as WhiteArmor ransomware demands $5 million](https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 11 Nov 2026 11:24:18 -0500  
@@ -130,7 +139,7 @@
 
 ---
 
-### 15. [Hackers use AntiFox AI agents in AWS credential-theft attacks](https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/)
+### 16. [Hackers use AntiFox AI agents in AWS credential-theft attacks](https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 11 Nov 2026 10:12:59 -0500  
@@ -139,7 +148,7 @@
 
 ---
 
-### 16. [eBPF Rootkits: Why Underground Actors Are Taking Notice](https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/)
+### 17. [eBPF Rootkits: Why Underground Actors Are Taking Notice](https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 11 Nov 2026 10:01:11 -0500  
@@ -148,7 +157,7 @@
 
 ---
 
-### 17. [N-able releases security hotfixes for zero-day vulnerabilities](https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/)
+### 18. [N-able releases security hotfixes for zero-day vulnerabilities](https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 11 Nov 2026 07:32:27 -0500  
@@ -157,7 +166,7 @@
 
 ---
 
-### 18. [Microsoft fixes audio issues caused by September security updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/)
+### 19. [Microsoft fixes audio issues caused by September security updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 11 Nov 2026 06:18:36 -0500  
@@ -166,22 +175,13 @@
 
 ---
 
-### 19. [CISA flags Cisco BroadWorks flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/)
+### 20. [CISA flags Cisco BroadWorks flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 11 Nov 2026 05:12:08 -0500  
 **Severity:** High  
 **CVEs:** CVE-2026-20320  
 **Categories:** Vulnerability  
-
----
-
-### 20. [Microsoft fixes Exchange sign-ins broken by Windows Server updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 11 Nov 2026 04:07:27 -0500  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -311,7 +311,7 @@
 **Source:** Security Week  
 **Published:** Wed, 11 Nov 2026 13:37:19 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-102705, CVE-2026-121653, CVE-2026-121683, CVE-2026-105425  
+**CVEs:** CVE-2026-121683, CVE-2026-102705, CVE-2026-105425, CVE-2026-121653  
 **Categories:** Vulnerability  
 
 ---
@@ -366,7 +366,7 @@
 **Source:** Security Week  
 **Published:** Wed, 11 Nov 2026 09:01:07 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20320, CVE-2026-111793  
+**CVEs:** CVE-2026-111793, CVE-2026-20320  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -376,7 +376,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 11 Nov 2026 01:41:17 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-124194, CVE-2026-118148, CVE-2026-113862, CVE-2026-118146  
+**CVEs:** CVE-2026-124194, CVE-2026-118146, CVE-2026-113862, CVE-2026-118148  
 **Categories:** Vulnerability  
 
 ---
