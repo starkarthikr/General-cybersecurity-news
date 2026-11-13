@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-12 19:44:20 UTC
+**Last Updated:** 2026-11-13 05:59:15 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them](https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html)
+### 1. [Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2](https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 13 Nov 2026 11:13:28 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them](https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 12 Nov 2026 23:37:15 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories](https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html)
+### 3. [ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories](https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 12 Nov 2026 23:32:51 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access](https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html)
+### 4. [New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access](https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 12 Nov 2026 23:20:27 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry](https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html)
+### 5. [Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry](https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 12 Nov 2026 21:57:01 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass](https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html)
+### 6. [Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass](https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 12 Nov 2026 21:08:49 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers](https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html)
+### 7. [186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers](https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 12 Nov 2026 20:45:40 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths](https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html)
+### 8. [SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths](https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 12 Nov 2026 18:38:28 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs](https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html)
+### 9. [Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs](https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 12 Nov 2026 17:39:14 +0530  
@@ -77,7 +86,7 @@
 
 ---
 
-### 9. [New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access](https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html)
+### 10. [New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access](https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 12 Nov 2026 17:21:43 +0530  
@@ -86,16 +95,45 @@
 
 ---
 
-### 10. [Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign](https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html)
+### 11. [New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks](https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 12 Nov 2026 17:21:31 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 12 Nov 2026 17:53:10 -0500  
 **Severity:** Low  
-**Categories:** Phishing, APT  
+**CVEs:** CVE-2026-84869  
+**Categories:** Vulnerability, Malware, Supply Chain  
 
 ---
 
-### 11. [Apache HTTP Server patches critical HTTP/2 remote code execution flaw](https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/)
+### 12. [Hackers compromise 4,800 GitHub accounts to steal cloud credentials](https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 12 Nov 2026 17:25:30 -0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 13. [Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide](https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 12 Nov 2026 15:15:16 -0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 14. [New N-able "4EverAble2Shell" zero-day exploited hours after PoC released](https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 12 Nov 2026 14:51:16 -0500  
+**Severity:** Critical  
+**CVEs:** CVE-2026-90436  
+**Categories:** Vulnerability  
+
+---
+
+### 15. [Apache HTTP Server patches critical HTTP/2 remote code execution flaw](https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 12 Nov 2026 14:12:55 -0500  
@@ -105,7 +143,7 @@
 
 ---
 
-### 12. [New Windows SignDrop zero-day gives hackers SYSTEM privileges](https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/)
+### 16. [New Windows SignDrop zero-day gives hackers SYSTEM privileges](https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 12 Nov 2026 11:04:00 -0500  
@@ -114,7 +152,7 @@
 
 ---
 
-### 13. [Police dismantle Gootloader, CastleRAT, StealC malware infrastructure](https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/)
+### 17. [Police dismantle Gootloader, CastleRAT, StealC malware infrastructure](https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 12 Nov 2026 10:07:20 -0500  
@@ -123,7 +161,7 @@
 
 ---
 
-### 14. [Your Endpoint Management Platform Could Be Your Biggest Security Risk](https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/)
+### 18. [Your Endpoint Management Platform Could Be Your Biggest Security Risk](https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 12 Nov 2026 10:00:10 -0500  
@@ -132,7 +170,7 @@
 
 ---
 
-### 15. [Apify rotates API tokens, prompts 2FA resets after breach](https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/)
+### 19. [Apify rotates API tokens, prompts 2FA resets after breach](https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 12 Nov 2026 09:36:47 -0500  
@@ -141,48 +179,12 @@
 
 ---
 
-### 16. [Microsoft: Recent Windows updates cause SQL Server performance issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/)
+### 20. [Microsoft: Recent Windows updates cause SQL Server performance issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 12 Nov 2026 07:11:11 -0500  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 17. [Microsoft confirms Windows security updates installation issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 12 Nov 2026 05:24:07 -0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 18. [Hackers plant GSocket on Linux servers for persistent access](https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 12 Nov 2026 04:38:00 -0500  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 19. [Baker Tilly notifies clients of data breach at third-party provider](https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 11 Nov 2026 18:01:31 -0500  
-**Severity:** Low  
-**Categories:** Data Breach, Supply Chain  
-
----
-
-### 20. [Active ScreenConnect attacks breach MSPs, impact dozens of organizations](https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 11 Nov 2026 17:56:21 -0500  
-**Severity:** Low  
-**Categories:** Malware, Supply Chain  
 
 ---
 
@@ -255,7 +257,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 13 Oct 2026 23:24:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-96951, CVE-2026-108398  
+**CVEs:** CVE-2026-108398, CVE-2026-96951  
 **Categories:** Vulnerability  
 
 ---
@@ -279,7 +281,26 @@
 
 ---
 
-### 31. [Apache Patches Critical HTTP Server RCE Found by Anthropic, Google](https://www.securityweek.com/apache-patches-critical-http-server-rce-found-by-anthropic-google/)
+### 31. [FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen From Binance](https://www.securityweek.com/fbi-says-us-seized-1-2-billion-worth-of-cryptocurrency-stolen-from-binance/)
+
+**Source:** Security Week  
+**Published:** Fri, 13 Nov 2026 02:28:21 +0000  
+**Severity:** Low  
+**Categories:** Data Breach  
+
+---
+
+### 32. [Microsoft 365 Outage Disrupts Outlook, Exchange Online and Teams](https://www.securityweek.com/microsoft-365-outage-disrupts-outlook-exchange-online-and-teams/)
+
+**Source:** Security Week  
+**Published:** Thu, 12 Nov 2026 20:55:30 +0000  
+**Severity:** Low  
+**CVEs:** CVE-2026-124194  
+**Categories:** Vulnerability  
+
+---
+
+### 33. [Apache Patches Critical HTTP Server RCE Found by Anthropic, Google](https://www.securityweek.com/apache-patches-critical-http-server-rce-found-by-anthropic-google/)
 
 **Source:** Security Week  
 **Published:** Thu, 12 Nov 2026 15:38:31 +0000  
@@ -289,7 +310,7 @@
 
 ---
 
-### 32. [Chrome, Firefox Updates Patch Over 180 Vulnerabilities](https://www.securityweek.com/chrome-firefox-updates-patch-180-vulnerabilities/)
+### 34. [Chrome, Firefox Updates Patch Over 180 Vulnerabilities](https://www.securityweek.com/chrome-firefox-updates-patch-180-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Thu, 12 Nov 2026 13:42:09 +0000  
@@ -298,7 +319,7 @@
 
 ---
 
-### 33. [Attacker Targets 60,000 GitHub Repositories in Credential Theft Campaign](https://www.securityweek.com/attacker-targets-60000-github-repositories-in-credential-theft-campaign/)
+### 35. [Attacker Targets 60,000 GitHub Repositories in Credential Theft Campaign](https://www.securityweek.com/attacker-targets-60000-github-repositories-in-credential-theft-campaign/)
 
 **Source:** Security Week  
 **Published:** Thu, 12 Nov 2026 13:39:03 +0000  
@@ -307,7 +328,7 @@
 
 ---
 
-### 34. [Daylight Lands $80 Million for AI-Powered Security Operations](https://www.securityweek.com/daylight-lands-80-million-for-ai-powered-security-operations/)
+### 36. [Daylight Lands $80 Million for AI-Powered Security Operations](https://www.securityweek.com/daylight-lands-80-million-for-ai-powered-security-operations/)
 
 **Source:** Security Week  
 **Published:** Thu, 12 Nov 2026 13:12:11 +0000  
@@ -316,7 +337,7 @@
 
 ---
 
-### 35. [Notion Customer Data Compromised in Fireworks AI Hack](https://www.securityweek.com/notion-customer-data-compromised-in-fireworks-ai-hack/)
+### 37. [Notion Customer Data Compromised in Fireworks AI Hack](https://www.securityweek.com/notion-customer-data-compromised-in-fireworks-ai-hack/)
 
 **Source:** Security Week  
 **Published:** Thu, 12 Nov 2026 11:08:52 +0000  
@@ -325,7 +346,7 @@
 
 ---
 
-### 36. [Hackers Deploy Malware in Fresh ScreenConnect Campaign](https://www.securityweek.com/hackers-deploy-malware-in-fresh-screenconnect-campaign/)
+### 38. [Hackers Deploy Malware in Fresh ScreenConnect Campaign](https://www.securityweek.com/hackers-deploy-malware-in-fresh-screenconnect-campaign/)
 
 **Source:** Security Week  
 **Published:** Thu, 12 Nov 2026 10:39:34 +0000  
@@ -334,41 +355,23 @@
 
 ---
 
-### 37. [Hackers Target N-central Zero-Days as N-able Rushes Patches](https://www.securityweek.com/hackers-target-n-central-zero-days-as-n-able-rushes-patches/)
+### 39. [Hackers Target N-central Zero-Days as N-able Rushes Patches](https://www.securityweek.com/hackers-target-n-central-zero-days-as-n-able-rushes-patches/)
 
 **Source:** Security Week  
 **Published:** Thu, 12 Nov 2026 09:39:55 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-125878, CVE-2026-125880, CVE-2026-125879, CVE-2026-125881, CVE-2026-91000, CVE-2026-125882, CVE-2026-125883  
+**CVEs:** CVE-2026-125880, CVE-2026-125879, CVE-2026-125882, CVE-2026-91000, CVE-2026-125878, CVE-2026-125883, CVE-2026-125881  
 **Categories:** Vulnerability  
 
 ---
 
-### 38. [Critical Red Hat Quay Vulnerability Could Expose Private Container Images](https://www.securityweek.com/critical-red-hat-quay-vulnerability-could-expose-private-container-images/)
+### 40. [Critical Red Hat Quay Vulnerability Could Expose Private Container Images](https://www.securityweek.com/critical-red-hat-quay-vulnerability-could-expose-private-container-images/)
 
 **Source:** Security Week  
 **Published:** Thu, 12 Nov 2026 09:23:21 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-123710, CVE-2026-110697  
+**CVEs:** CVE-2026-110697, CVE-2026-123710  
 **Categories:** Vulnerability  
-
----
-
-### 39. [Maersk Confirms Data Theft Amid $5 Million Extortion Attempt](https://www.securityweek.com/maersk-confirms-data-theft-amid-5-million-extortion-attempt/)
-
-**Source:** Security Week  
-**Published:** Thu, 12 Nov 2026 08:38:47 +0000  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach  
-
----
-
-### 40. [Today: CISO Forum Virtual Summit 2026 Day 2 – Join Cybersecurity Leaders Online](https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders/)
-
-**Source:** Security Week  
-**Published:** Wed, 11 Nov 2026 16:29:42 +0000  
-**Severity:** Critical  
-**Categories:** Supply Chain  
 
 ---
 
@@ -386,7 +389,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 11 Nov 2026 01:41:17 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-124194, CVE-2026-118146, CVE-2026-113862, CVE-2026-118148  
+**CVEs:** CVE-2026-118148, CVE-2026-113862, CVE-2026-124194, CVE-2026-118146  
 **Categories:** Vulnerability  
 
 ---
@@ -634,7 +637,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
