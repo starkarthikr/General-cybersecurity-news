@@ -1,6 +1,133 @@
 [
   {
     "source": "The Hacker News",
+    "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
+    "link": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
+    "published": "Fri, 13 Nov 2026 20:57:05 +0530",
+    "summary": "Two attacks made public this week allow a malicious host to read data inside AMD SEV-SNP-protected virtual machines (VMs), which are built to keep the server's operator out.\n\nOne of them, Mior, can also modify a VM's memory and fake the signed report confirming which software it runs. Both need control of the server's hypervisor, and Mior also needs control of the server's BIOS. Researchers",
+    "analysis": {
+      "issue": "Mior and Skyfall attacks expose data in AMD SEV-SNP confidential VMs, with Mior also enabling memory changes and forged attestation reports",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
+    "link": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
+    "published": "Fri, 13 Nov 2026 19:58:58 +0530",
+    "summary": "The U.S. Federal Bureau of Investigation (FBI) has established that threat actors tied to the Democratic People's Republic of Korea (DPRK aka North Korea) have stolen more than $400 million worth of cryptocurrency as part of a social engineering scheme codenamed FaceStealer in the last 18 months.\n\nAs part of a coordinated set of actions announced by the U.S. government, the cloud-based",
+    "analysis": {
+      "issue": "FBI says North Korea-linked FaceStealer stole over $400 million in crypto using fake video calls; U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases",
+    "link": "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html",
+    "published": "Fri, 13 Nov 2026 19:24:20 +0530",
+    "summary": "Three Trezor Safe 5 wallets bought from the reseller CryptoBilis contain an implant, an extra circuit board that can copy their recovery phrases, hardware wallet maker Trezor said yesterday.\n\nThe implant reads the phrase from the wallet's screen and sends it over the mobile network to a server controlled by the attackers. The company examined one of the wallets in its lab, identified the other",
+    "analysis": {
+      "issue": "Trezor confirms recovery phrase-stealing implants in three CryptoBilis-sold Safe 5 wallets and says firmware 2",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "When an AI Agent Goes Wrong, Can You Stop It?",
+    "link": "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html",
+    "published": "Fri, 13 Nov 2026 17:22:31 +0530",
+    "summary": "Suppose an AI agent is asked to sort support tickets and look up account details. A ticket contains instructions that lead the agent to export records to an unfamiliar destination. The agent can make the request because its identity has access to the records and its connected tools allow the action.\n\nThat kind of scenario raises a response question: what does “stop the agent” actually mean? A",
+    "analysis": {
+      "issue": "AI agent security starts with a plan",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users",
+    "link": "https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html",
+    "published": "Fri, 13 Nov 2026 16:40:40 +0530",
+    "summary": "A newly identified spying group used hacked equipment inside Asian mobile operators to intercept the calls and texts of selected people, mostly in Taiwan.\n\nEnea, a telecom and cybersecurity software company based in Stockholm, found the group's attack sources in at least six Asian countries and named it SilentAir this week. It assessed with high confidence that SilentAir is a state-level actor,",
+    "analysis": {
+      "issue": "SilentAir used compromised Asian telecom equipment to intercept calls, texts, and 2FA codes, targeting mainly Taiwan, Enea reports",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins",
+    "link": "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html",
+    "published": "Fri, 13 Nov 2026 16:25:03 +0530",
+    "summary": "An international police operation took down servers behind Gootloader, CastleRAT and StealC this week. Criminals used the three malware tools to gain access to computers, steal passwords, and launch ransomware attacks.\n\nPolice also seized about 6.4 million stolen logins belonging to more than 40,000 victims, according to Germany's Federal Criminal Police Office (BKA).\n\nGootloader is a loader:",
+    "analysis": {
+      "issue": "Operation Endgame seized 235 servers, 257 domains, and 6",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
+    "link": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
+    "published": "Fri, 13 Nov 2026 13:35:49 +0530",
+    "summary": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unreported local privilege escalation flaw in Gaia OS&nbsp; to deploy a backdoor called TSGA.\n\nThe activity, detailed by Check Point, began on October 30, 2026, and targeted Israeli organizations, with a broader follow-up",
+    "analysis": {
+      "issue": "Hackers exploit Check Point gateway flaws to deploy the TSGA backdoor, with some intrusions leading to destructive attacks on ESXi hosts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2",
     "link": "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html",
     "published": "Fri, 13 Nov 2026 11:13:28 +0530",
@@ -55,91 +182,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access",
-    "link": "https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html",
-    "published": "Thu, 12 Nov 2026 23:20:27 +0530",
-    "summary": "Public exploit code released earlier this week claims that a local Windows user can gain SYSTEM privileges through the Common Log File System driver.\n\nThe proof of concept, called SignDrop, targets a log-authentication feature added to the driver last year. It abuses how clfs.sys creates companion files when a privileged process opens a prepared log, using path redirection to take control of",
+    "source": "Bleeping Computer",
+    "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
+    "link": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
+    "published": "Fri, 13 Nov 2026 11:21:43 -0500",
+    "summary": "Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shell attacks that deployed data-wiping malware on VMware ESXi hosts. [...]",
     "analysis": {
-      "issue": "Public SignDrop exploit code abuses Windows CLFS log authentication to enable local SYSTEM privilege escalation, with no Microsoft fix available",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry",
-    "link": "https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html",
-    "published": "Thu, 12 Nov 2026 21:57:01 +0530",
-    "summary": "A critical flaw in Red Hat Quay allows an attacker who can access a Quay registry to read and overwrite private container images in every repository.\n\nQuay enables anonymous access by default, and while it is enabled, the attacker needs no account. When it is off, anyone with a valid account can still exploit the flaw, Red Hat said yesterday. The company has released fixed builds for eight Quay",
-    "analysis": {
-      "issue": "Red Hat patches two critical Quay flaws enabling registry-wide image access and cross-tenant robot token theft under different prerequisites",
+      "issue": "Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shell attacks that deployed data-wiping malware on VMware ESXi hosts",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass",
-    "link": "https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html",
-    "published": "Thu, 12 Nov 2026 21:08:49 +0530",
-    "summary": "Citrix has released patches for multiple critical security flaws impacting NetScaler ADC, Citrix NetScaler Gateway, and NetScaler Console that could lead to denial-of-service (DoS) or an authentication bypass.\n\nThe critical vulnerabilities that impact NetScaler ADC and NetScaler Gateway are listed below -\n\n\n  CVE-2026-120868 (CVSS score: 9.3) - A memory overflow vulnerability in Packet",
-    "analysis": {
-      "issue": "Citrix patches 12 flaws in NetScaler and Secure Access Client that could enable denial-of-service, authentication bypass, or privilege escalation",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers",
-    "link": "https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html",
-    "published": "Thu, 12 Nov 2026 20:45:40 +0530",
-    "summary": "Cybersecurity researchers have found that lookalike domains masquerading as artificial intelligence (AI) tools are being used to serve ClickFix-style lures, browser-hijacking malware, and a set of extensions that hijack user searches.\n\nThis delivery pattern has been codenamed TypoPrompting by Island.\n\n\"AI-app lookalikes that turn an attempt to reach a familiar tool into a prompt to verify,",
-    "analysis": {
-      "issue": "Island links 186 fake AI domains to ClickFix lures, Net Guard malware, and search-hijacking Chrome extensions with 972,000 declared users",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths",
-    "link": "https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html",
-    "published": "Thu, 12 Nov 2026 18:38:28 +0530",
-    "summary": "The ongoing campaign targeting ConnectWise ScreenConnect deployments involves the exploitation of a now-patched critical security flaw in the remote access software, and not a new vulnerability, it has emerged.\n\nBlackpoint Cyber's Adversary Pursuit Group (APG), which shared the details with The Hacker News, said the recovered attacker toolkit exploits CVE-2026-84869 (CVSS score: 9.9), an",
-    "analysis": {
-      "issue": "SCKit exploits patched ScreenConnect flaw CVE-2026-84869 and attempts to hijack technician sessions to spread across managed endpoints",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
       "cves": [
-        "CVE-2026-84869"
+        "CVE-2026-109618",
+        "CVE-2026-109619"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -148,13 +204,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
-    "link": "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html",
-    "published": "Thu, 12 Nov 2026 17:39:14 +0530",
-    "summary": "Google Cloud VMs on AMD Turin chips need a guest OS patch and a stop-and-start to protect against three CPU side-channel flaws, Google said this week.\n\nThe company has already applied mitigations against attacks between VMs, and between VMs and the host. Inside a VM, the flaws may let an attacker with code on the same processor core infer data from other processes or the kernel.\n\nThe affected",
+    "source": "Bleeping Computer",
+    "title": "How one AI agent exposed five critical enterprise security gaps",
+    "link": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
+    "published": "Fri, 13 Nov 2026 10:01:11 -0500",
+    "summary": "An AI agent built to automate invoice processing could be manipulated into changing vendor bank details through a malicious email, without triggering traditional security alerts. Token Security examines five critical AI agent security gaps and shares practical guidance from industry security leaders on preventing them. [...]",
     "analysis": {
-      "issue": "Google Cloud says AMD Turin VMs need OS patches and a stop-start cycle to mitigate three CPU side-channel flaws that could expose process data",
+      "issue": "Imagine an AI agent being created",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -166,20 +222,77 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access",
-    "link": "https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html",
-    "published": "Thu, 12 Nov 2026 17:21:43 +0530",
-    "summary": "N-able on Thursday said it's investigating a new public disclosure containing claims of additional vulnerabilities in on-premise versions of N-central running version 2026.4.1 HF2.\n\n\"Based on our initial review, the server issue described depends on a non-default configuration in which the Legacy API is turned on and exposed to the public internet,\" N-able said in a new advisory. \"Legacy API is",
+    "source": "Bleeping Computer",
+    "title": "Microsoft says November security updates cause printing issues",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/",
+    "published": "Fri, 13 Nov 2026 07:27:40 -0500",
+    "summary": "Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting. [...]",
     "analysis": {
-      "issue": "Attackers probe 4EverAble2Shell against N-able N-central servers with Legacy API enabled, but successful exploitation remains unconfirmed",
+      "issue": "Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Check Point warns of zero-day flaw exploited for root access",
+    "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
+    "published": "Fri, 13 Nov 2026 05:44:22 -0500",
+    "summary": "Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and establish persistence on vulnerable devices since late October. [...]",
+    "analysis": {
+      "issue": "Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and establish persistence on vulnerable devices since late October",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-123039"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft confirms Windows activation failures after November updates",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/",
+    "published": "Fri, 13 Nov 2026 04:36:18 -0500",
+    "summary": "Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes. [...]",
+    "analysis": {
+      "issue": "Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Police arrest 354 suspects in dark web cybercrime crackdown",
+    "link": "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/",
+    "published": "Fri, 13 Nov 2026 03:34:20 -0500",
+    "summary": "Authorities arrested 354 suspects in a joint international operation targeting vendors and buyers on the Archetyp, Nemesis, Tor2Door, Bohemia, and Kingdom dark web marketplaces. [...]",
+    "analysis": {
+      "issue": "Authorities arrested 354 suspects in a joint international operation targeting vendors and buyers on the Archetyp, Nemesis, Tor2Door, Bohemia, and Kingdom dark web marketplaces",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "APT"
       ]
     }
   },
@@ -230,7 +343,7 @@
     "published": "Thu, 12 Nov 2026 15:15:16 -0500",
     "summary": "Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide. [...]",
     "analysis": {
-      "issue": "Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide",
+      "issue": "Updated added to the end of the article",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -258,118 +371,6 @@
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
-    "link": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
-    "published": "Thu, 12 Nov 2026 14:12:55 -0500",
-    "summary": "A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE). [...]",
-    "analysis": {
-      "issue": "A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE)",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-119618"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
-    "link": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
-    "published": "Thu, 12 Nov 2026 11:04:00 -0500",
-    "summary": "Security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) has released a new Windows zero-day exploit that can let attackers gain SYSTEM privileges. [...]",
-    "analysis": {
-      "issue": "Security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) has released a new Windows zero-day exploit that can let attackers gain SYSTEM privileges",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
-    "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
-    "published": "Thu, 12 Nov 2026 10:07:20 -0500",
-    "summary": "Europol and law enforcement partners from nine countries have seized hundreds of servers and domains used by the Gootloader, CastleRAT, and StealC malware operations. [...]",
-    "analysis": {
-      "issue": "Europol and law enforcement partners from nine countries have seized hundreds of servers and domains used by the Gootloader, CastleRAT, and StealC malware operations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Your Endpoint Management Platform Could Be Your Biggest Security Risk",
-    "link": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/",
-    "published": "Thu, 12 Nov 2026 10:00:10 -0500",
-    "summary": "Endpoint management platforms can become powerful attack tools when compromised, allowing hackers to deploy malware, execute commands, and disrupt thousands of devices. Action1 explains how customer-controlled cryptographic authorization can prevent attackers from abusing sensitive endpoint operations. [...]",
-    "analysis": {
-      "issue": "Author: Gene Moody, Field CTO at Action1 Endpoint management platforms have become essential in modern IT operations and enterprise security",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Apify rotates API tokens, prompts 2FA resets after breach",
-    "link": "https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/",
-    "published": "Thu, 12 Nov 2026 09:36:47 -0500",
-    "summary": "Apify has rotated critical internal secrets and revoked some third-party OAuth connections after detecting unauthorized access to its internal systems. [...]",
-    "analysis": {
-      "issue": "Apify has rotated critical internal secrets and revoked some third-party OAuth connections after detecting unauthorized access to its internal systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft: Recent Windows updates cause SQL Server performance issues",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/",
-    "published": "Thu, 12 Nov 2026 07:11:11 -0500",
-    "summary": "Microsoft has confirmed that Windows updates released since the October 2026 Patch Tuesday are causing SQL Server performance and stability issues. [...]",
-    "analysis": {
-      "issue": "Microsoft has confirmed that Windows updates released since the October 2026 Patch Tuesday are causing SQL Server performance and stability issues",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -566,115 +567,38 @@
   },
   {
     "source": "Security Week",
-    "title": "FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen From Binance",
-    "link": "https://www.securityweek.com/fbi-says-us-seized-1-2-billion-worth-of-cryptocurrency-stolen-from-binance/",
-    "published": "Fri, 13 Nov 2026 02:28:21 +0000",
-    "summary": "<p>Also Thursday, the FBI blamed North Korea for a separate social engineering scheme that officials say resulted in the theft of $400 million worth of cryptocurrency.</p>\n<p>The post <a href=\"https://www.securityweek.com/fbi-says-us-seized-1-2-billion-worth-of-cryptocurrency-stolen-from-binance/\">FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen From Binance</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "title": "In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach",
+    "link": "https://www.securityweek.com/in-other-news-new-cisa-director-nominee-connected-car-hacking-baker-tilly-data-breach/",
+    "published": "Fri, 13 Nov 2026 15:20:00 +0000",
+    "summary": "<p>Noteworthy stories that might have slipped under the radar: Siemens details security advisory policy, OpenAI Codex backdoor risk, Microsoft warns of model weight backdoors.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-new-cisa-director-nominee-connected-car-hacking-baker-tilly-data-breach/\">In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
-      "issue": "Also Thursday, the FBI blamed North Korea for a separate social engineering scheme that officials say resulted in the theft of $400 million worth of cryptocurrency",
+      "issue": "Noteworthy stories that might have slipped under the radar: Siemens details security advisory policy, OpenAI Codex backdoor risk, Microsoft warns of model weight backdoors",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Microsoft 365 Outage Disrupts Outlook, Exchange Online and Teams",
-    "link": "https://www.securityweek.com/microsoft-365-outage-disrupts-outlook-exchange-online-and-teams/",
-    "published": "Thu, 12 Nov 2026 20:55:30 +0000",
-    "summary": "<p>Microsoft says failed server health checks disrupted Outlook and other Microsoft 365 services. The company is still investigating the cause and has disclosed no evidence of a cyberattack.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-365-outage-disrupts-outlook-exchange-online-and-teams/\">Microsoft 365 Outage Disrupts Outlook, Exchange Online and Teams</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Microsoft says failed server health checks disrupted Outlook and other Microsoft 365 services",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-124194"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Apache Patches Critical HTTP Server RCE Found by Anthropic, Google",
-    "link": "https://www.securityweek.com/apache-patches-critical-http-server-rce-found-by-anthropic-google/",
-    "published": "Thu, 12 Nov 2026 15:38:31 +0000",
-    "summary": "<p>The mod_http2 race condition, CVE-2026-119618, could let unauthenticated attackers execute code on servers with HTTP/2 enabled.</p>\n<p>The post <a href=\"https://www.securityweek.com/apache-patches-critical-http-server-rce-found-by-anthropic-google/\">Apache Patches Critical HTTP Server RCE Found by Anthropic, Google</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The mod_http2 race condition, CVE-2026-119618, could let unauthenticated attackers execute code on servers with HTTP/2 enabled",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-119618",
-        "CVE-2026-109163",
-        "CVE-2026-106023"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Chrome, Firefox Updates Patch Over 180 Vulnerabilities",
-    "link": "https://www.securityweek.com/chrome-firefox-updates-patch-180-vulnerabilities/",
-    "published": "Thu, 12 Nov 2026 13:42:09 +0000",
-    "summary": "<p>Google fixed 83 flaws with a new Chrome 157 release, and Mozilla addressed 99 bugs in Firefox 160.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-firefox-updates-patch-180-vulnerabilities/\">Chrome, Firefox Updates Patch Over 180 Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Google fixed 83 flaws with a new Chrome 157 release, and Mozilla addressed 99 bugs in Firefox 160",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Attacker Targets 60,000 GitHub Repositories in Credential Theft Campaign",
-    "link": "https://www.securityweek.com/attacker-targets-60000-github-repositories-in-credential-theft-campaign/",
-    "published": "Thu, 12 Nov 2026 13:39:03 +0000",
-    "summary": "<p>Using thousands of hijacked accounts, the wfx-loot campaign planted a CI secret stealer that ran in over 1,800 GitHub repositories.</p>\n<p>The post <a href=\"https://www.securityweek.com/attacker-targets-60000-github-repositories-in-credential-theft-campaign/\">Attacker Targets 60,000 GitHub Repositories in Credential Theft Campaign</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Using thousands of hijacked accounts, the wfx-loot campaign planted a CI secret stealer that ran in over 1,800 GitHub repositories",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
+        "Data Breach",
         "Vulnerability",
         "Malware",
-        "Phishing"
+        "APT",
+        "Supply Chain"
       ]
     }
   },
   {
     "source": "Security Week",
-    "title": "Daylight Lands $80 Million for AI-Powered Security Operations",
-    "link": "https://www.securityweek.com/daylight-lands-80-million-for-ai-powered-security-operations/",
-    "published": "Thu, 12 Nov 2026 13:12:11 +0000",
-    "summary": "<p>The company plans to accelerate product development, hire new talent, expand its US presence, and enter new markets.</p>\n<p>The post <a href=\"https://www.securityweek.com/daylight-lands-80-million-for-ai-powered-security-operations/\">Daylight Lands $80 Million for AI-Powered Security Operations</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "title": "Microsoft Struggles to Restore Email and Other Services in a Global Outage",
+    "link": "https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/",
+    "published": "Fri, 13 Nov 2026 13:47:42 +0000",
+    "summary": "<p>Microsoft is trying different ways to identify the cause of the problem and get its servers back online, using “a measured approach to identify and repair affected infrastructure.”</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/\">Microsoft Struggles to Restore Email and Other Services in a Global Outage</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
-      "issue": "The company plans to accelerate product development, hire new talent, expand its US presence, and enter new markets",
+      "issue": "Microsoft is trying different ways to identify the cause of the problem and get its servers back online, using “a measured approach to identify and repair affected infrastructure",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
         "General Security"
@@ -683,12 +607,12 @@
   },
   {
     "source": "Security Week",
-    "title": "Notion Customer Data Compromised in Fireworks AI Hack",
-    "link": "https://www.securityweek.com/notion-customer-data-compromised-in-fireworks-ai-hack/",
-    "published": "Thu, 12 Nov 2026 11:08:52 +0000",
-    "summary": "<p>The attackers accessed chat transcripts for fewer than 1% of Notion workspaces. Most transcripts were unattributable.</p>\n<p>The post <a href=\"https://www.securityweek.com/notion-customer-data-compromised-in-fireworks-ai-hack/\">Notion Customer Data Compromised in Fireworks AI Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "title": "Apify Confirms Customer Data Accessed in Cyberattack",
+    "link": "https://www.securityweek.com/apify-confirms-customer-data-accessed-in-cyberattack/",
+    "published": "Fri, 13 Nov 2026 12:41:01 +0000",
+    "summary": "<p>The web scraping company says an intruder accessed customer accounts and obtained personal information or stored data.</p>\n<p>The post <a href=\"https://www.securityweek.com/apify-confirms-customer-data-accessed-in-cyberattack/\">Apify Confirms Customer Data Accessed in Cyberattack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
-      "issue": "The attackers accessed chat transcripts for fewer than 1% of Notion workspaces",
+      "issue": "The web scraping company says an intruder accessed customer accounts and obtained personal information or stored data",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -696,53 +620,92 @@
       "cves": [],
       "threat_categories": [
         "Data Breach",
-        "Vulnerability",
-        "Malware",
         "Supply Chain"
       ]
     }
   },
   {
     "source": "Security Week",
-    "title": "Hackers Deploy Malware in Fresh ScreenConnect Campaign",
-    "link": "https://www.securityweek.com/hackers-deploy-malware-in-fresh-screenconnect-campaign/",
-    "published": "Thu, 12 Nov 2026 10:39:34 +0000",
-    "summary": "<p>The attackers exploited a vulnerability in a legitimate extension to bypass ScreenConnect authentication.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-deploy-malware-in-fresh-screenconnect-campaign/\">Hackers Deploy Malware in Fresh ScreenConnect Campaign</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "title": "SilentAir Hackers Intercept Calls, SMS From Inside Mobile Networks",
+    "link": "https://www.securityweek.com/silentair-hackers-intercept-calls-sms-from-inside-mobile-networks/",
+    "published": "Fri, 13 Nov 2026 12:20:28 +0000",
+    "summary": "<p>Enea says SilentAir hijacked mobile network nodes to intercept calls and messages, with Taiwanese subscribers the primary targets.</p>\n<p>The post <a href=\"https://www.securityweek.com/silentair-hackers-intercept-calls-sms-from-inside-mobile-networks/\">SilentAir Hackers Intercept Calls, SMS From Inside Mobile Networks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
-      "issue": "The attackers exploited a vulnerability in a legitimate extension to bypass ScreenConnect authentication",
+      "issue": "Enea says SilentAir hijacked mobile network nodes to intercept calls and messages, with Taiwanese subscribers the primary targets",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Law Enforcement Disrupts Gootloader, CastleRAT, and StealC Infrastructure",
+    "link": "https://www.securityweek.com/law-enforcement-disrupts-gootloader-castlerat-and-stealc-infrastructure/",
+    "published": "Fri, 13 Nov 2026 10:48:40 +0000",
+    "summary": "<p>Investigators seized 235 servers and 257 domains, along with 6.4 million victim credentials as part of Operation Endgame.</p>\n<p>The post <a href=\"https://www.securityweek.com/law-enforcement-disrupts-gootloader-castlerat-and-stealc-infrastructure/\">Law Enforcement Disrupts Gootloader, CastleRAT, and StealC Infrastructure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Investigators seized 235 servers and 257 domains, along with 6",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "Vulnerability",
+        "Ransomware",
         "Malware",
-        "Supply Chain"
+        "Phishing"
       ]
     }
   },
   {
     "source": "Security Week",
-    "title": "Hackers Target N-central Zero-Days as N-able Rushes Patches",
-    "link": "https://www.securityweek.com/hackers-target-n-central-zero-days-as-n-able-rushes-patches/",
-    "published": "Thu, 12 Nov 2026 09:39:55 +0000",
-    "summary": "<p>The malicious activity started shortly after a researcher dropped over 30 zero-days. N-able patched the unauthenticated ones.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-target-n-central-zero-days-as-n-able-rushes-patches/\">Hackers Target N-central Zero-Days as N-able Rushes Patches </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "title": "Citrix Patches 10 Critical NetScaler Vulnerabilities",
+    "link": "https://www.securityweek.com/citrix-patches-10-critical-netscaler-vulnerabilities/",
+    "published": "Fri, 13 Nov 2026 09:36:56 +0000",
+    "summary": "<p>Successful exploitation could lead to unexpected behavior or denial-of-service (DoS) conditions.</p>\n<p>The post <a href=\"https://www.securityweek.com/citrix-patches-10-critical-netscaler-vulnerabilities/\">Citrix Patches 10 Critical NetScaler Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
-      "issue": "The malicious activity started shortly after a researcher dropped over 30 zero-days",
+      "issue": "Successful exploitation could lead to unexpected behavior or denial-of-service (DoS) conditions",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-125882",
-        "CVE-2026-125880",
-        "CVE-2026-125878",
-        "CVE-2026-91000",
-        "CVE-2026-125879",
-        "CVE-2026-125883",
-        "CVE-2026-125881"
+        "CVE-2026-107412",
+        "CVE-2026-107407",
+        "CVE-2026-120869",
+        "CVE-2026-111338",
+        "CVE-2026-107415",
+        "CVE-2026-107410",
+        "CVE-2026-111334",
+        "CVE-2026-120868",
+        "CVE-2026-120864"
       ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools",
+    "link": "https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/",
+    "published": "Fri, 13 Nov 2026 09:21:01 +0000",
+    "summary": "<p>Daybreak Red Team pentests web applications with AI agents, while Defense Factory investigates security findings and prepares patches.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/\">OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Daybreak Red Team pentests web applications with AI agents, while Defense Factory investigates security findings and prepares patches",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
       "threat_categories": [
         "Vulnerability"
       ]
@@ -750,19 +713,60 @@
   },
   {
     "source": "Security Week",
-    "title": "Critical Red Hat Quay Vulnerability Could Expose Private Container Images",
-    "link": "https://www.securityweek.com/critical-red-hat-quay-vulnerability-could-expose-private-container-images/",
-    "published": "Thu, 12 Nov 2026 09:23:21 +0000",
-    "summary": "<p>Attackers could exploit a critical Red Hat Quay flaw to steal private container images, overwrite repositories and maintain persistent access.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-red-hat-quay-vulnerability-could-expose-private-container-images/\">Critical Red Hat Quay Vulnerability Could Expose Private Container Images</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "title": "Nightmare Eclipse Drops Windows Zero-Day Exploit ‘SignDrop’",
+    "link": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/",
+    "published": "Fri, 13 Nov 2026 08:50:36 +0000",
+    "summary": "<p>It abuses CLFS and Windows Defender to trigger arbitrary file creation in the context of the antimalware process.</p>\n<p>The post <a href=\"https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/\">Nightmare Eclipse Drops Windows Zero-Day Exploit &#8216;SignDrop&#8217;</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
-      "issue": "Attackers could exploit a critical Red Hat Quay flaw to steal private container images, overwrite repositories and maintain persistent access",
+      "issue": "It abuses CLFS and Windows Defender to trigger arbitrary file creation in the context of the antimalware process",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "PHP2Shell Exploited in Destructive Check Point Gateway Attacks",
+    "link": "https://www.securityweek.com/php2shell-exploited-in-destructive-check-point-gateway-attacks/",
+    "published": "Fri, 13 Nov 2026 07:39:04 +0000",
+    "summary": "<p>PHP2Shell enabled initial compromise, while CVE-2026-123039 allowed attackers to elevate privileges to root.</p>\n<p>The post <a href=\"https://www.securityweek.com/php2shell-exploited-in-destructive-check-point-gateway-attacks/\">PHP2Shell Exploited in Destructive Check Point Gateway Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "PHP2Shell enabled initial compromise, while CVE-2026-123039 allowed attackers to elevate privileges to root",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-110697",
-        "CVE-2026-123710"
+        "CVE-2026-109618",
+        "CVE-2026-123039",
+        "CVE-2026-109619"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Hackers Exploit New N-central Zero-Day Hours After PoC Publication",
+    "link": "https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication/",
+    "published": "Fri, 13 Nov 2026 07:20:50 +0000",
+    "summary": "<p>Dubbed 4EverAble2Shell, the flaw could allow remote, unauthenticated attackers to execute code with root privileges.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication/\">Hackers Exploit New N-central Zero-Day Hours After PoC Publication</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Dubbed 4EverAble2Shell, the flaw could allow remote, unauthenticated attackers to execute code with root privileges",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-90436"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -800,10 +804,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-124194",
-        "CVE-2026-118148",
         "CVE-2026-118146",
-        "CVE-2026-113862"
+        "CVE-2026-118148",
+        "CVE-2026-113862",
+        "CVE-2026-124194"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1340,6 +1344,42 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Google pushes second Chrome update this week",
+    "link": "https://www.malwarebytes.com/blog/bugs/2026/11/google-pushes-second-chrome-update-this-week",
+    "published": "Fri, 13 Nov 2026 11:20:50 GMT",
+    "summary": "Google has pushed out a second Chrome update this week, fixing security flaws that could allow attackers to run malicious code.",
+    "analysis": {
+      "issue": "On November 11, Google issued a security update to Chrome’s Stable channel for Windows, Mac, and Linux",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Worldwide Microsoft 365 outage disrupts Outlook, SharePoint, Teams, and more",
+    "link": "https://www.malwarebytes.com/blog/news/2026/11/worldwide-microsoft-365-outage-disrupts-outlook-sharepoint-teams-and-more",
+    "published": "Fri, 13 Nov 2026 08:35:18 GMT",
+    "summary": "A worldwide Microsoft 365 outage is having a severe impact on companies that rely on services like Outlook, Sharepoint, and Teams.",
+    "analysis": {
+      "issue": "We’ll update this article as more information becomes available",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "LEGO’s BrickLink taken offline: What users should know",
     "link": "https://www.malwarebytes.com/blog/news/2026/11/legos-bricklink-taken-offline-after-unusual-activity-what-users-should-know",
     "published": "Thu, 12 Nov 2026 14:25:49 GMT",
@@ -1482,43 +1522,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Update Chrome now to fix a flaw attackers are exploiting",
-    "link": "https://www.malwarebytes.com/blog/bugs/2026/11/update-chrome-now-to-fix-a-flaw-attackers-are-exploiting",
-    "published": "Tue, 10 Nov 2026 13:23:00 GMT",
-    "summary": "Google has released Chrome updates for desktop and Android to patch a zero-day vulnerability already being exploited in attacks.",
-    "analysis": {
-      "issue": "On November 9, Google issued a security update to Chrome’s Stable channel for Windows, Mac, and Linux",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "DDoS"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Before you buy an advent calendar, check these warning signs",
-    "link": "https://www.malwarebytes.com/blog/how-to/2026/11/before-you-buy-an-advent-calendar-check-these-warning-signs",
-    "published": "Tue, 10 Nov 2026 13:03:12 GMT",
-    "summary": "Copied storefronts, fake urgency, and contradictory product claims are among the warning signs we found on suspicious advent calendar sites.",
-    "analysis": {
-      "issue": "Advent calendar buying guides are already appearing across the holiday shopping coverage this year",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
