@@ -1,6 +1,26 @@
 [
   {
     "source": "The Hacker News",
+    "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
+    "link": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
+    "published": "Fri, 13 Nov 2026 22:23:08 +0530",
+    "summary": "A type confusion flaw in PostgreSQL lets a database user who can create objects run code on the server. Updates released yesterday fix it, along with 51 other security flaws. Full protection from this flaw also requires rebuilding any C-language extensions installed on the server.\n\nThe flaw, tracked as CVE-2026-6460, has a CVSS score of 8.8. Any code run this way has the rights of the operating",
+    "analysis": {
+      "issue": "PostgreSQL fixes 52 security flaws, including CVE-2026-6460, which allows users with object creation privileges to execute server code",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-6460"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
     "link": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
     "published": "Fri, 13 Nov 2026 20:57:05 +0530",
@@ -163,21 +183,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories",
-    "link": "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html",
-    "published": "Thu, 12 Nov 2026 23:32:51 +0530",
-    "summary": "A search result isn't always safe. An access request isn't always harmless. And a familiar account doesn't always mean a familiar person is using it. Simple things to remember. Yet a surprising amount of this week's trouble starts right there.\n\nAttackers are using fake websites, stolen access, and trusted tools to get into places they shouldn't be. AI is helping them build attacks faster, while",
+    "source": "Bleeping Computer",
+    "title": "German military drone operations disrupted by cyberattack",
+    "link": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
+    "published": "Fri, 13 Nov 2026 12:31:56 -0500",
+    "summary": "German defense technology company Quantum Systems confirmed that it detected an incident in late October that was part of an active cyberattack by \"hostile actors.\" [...]",
     "analysis": {
-      "issue": "This week's ThreatsDay Bulletin covers AI-powered cyberattacks, ransomware, stolen credentials, Linux flaws, browser espionage, and emerging security",
+      "issue": "German defense technology company Quantum Systems confirmed that it detected an incident in late October that was part of an active cyberattack by \"hostile actors",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "Ransomware",
-        "Malware"
+        "General Security"
       ]
     }
   },
@@ -343,7 +362,7 @@
     "published": "Thu, 12 Nov 2026 15:15:16 -0500",
     "summary": "Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide. [...]",
     "analysis": {
-      "issue": "Updated added to the end of the article",
+      "issue": "Updates added to the end of the article",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -351,26 +370,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
-    "link": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
-    "published": "Thu, 12 Nov 2026 14:51:16 -0500",
-    "summary": "Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed \"4EverAble2Shell\" to compromise servers and deploy cryptocurrency miners, with researchers reporting at least 21 affected systems, including 19 running the company's latest security update. [...]",
-    "analysis": {
-      "issue": "Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed \"4EverAble2Shell\" to compromise servers and deploy cryptocurrency miners, with researchers reporting at least 21 affected systems, including 19 running t",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-90436"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -677,15 +676,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-107412",
         "CVE-2026-107407",
+        "CVE-2026-107412",
         "CVE-2026-120869",
-        "CVE-2026-111338",
-        "CVE-2026-107415",
         "CVE-2026-107410",
+        "CVE-2026-111338",
         "CVE-2026-111334",
-        "CVE-2026-120868",
-        "CVE-2026-120864"
+        "CVE-2026-120864",
+        "CVE-2026-107415",
+        "CVE-2026-120868"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -744,8 +743,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-109618",
-        "CVE-2026-123039",
-        "CVE-2026-109619"
+        "CVE-2026-109619",
+        "CVE-2026-123039"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -804,10 +803,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-118146",
+        "CVE-2026-124194",
         "CVE-2026-118148",
-        "CVE-2026-113862",
-        "CVE-2026-124194"
+        "CVE-2026-118146",
+        "CVE-2026-113862"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1344,6 +1343,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "New York City votes to ban surveillance pricing",
+    "link": "https://www.malwarebytes.com/blog/news/2026/11/new-york-city-council-votes-to-ban-surveillance-pricing",
+    "published": "Fri, 13 Nov 2026 16:52:36 GMT",
+    "summary": "The bill would stop companies from using personal data to set individualized prices. Here’s what that means for shoppers.",
+    "analysis": {
+      "issue": "Two people shopping for the same product shouldn’t have to wonder whether one is paying more because a company knows more about them",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Google pushes second Chrome update this week",
     "link": "https://www.malwarebytes.com/blog/bugs/2026/11/google-pushes-second-chrome-update-this-week",
     "published": "Fri, 13 Nov 2026 11:20:50 GMT",
@@ -1508,24 +1525,6 @@
     }
   },
   {
-    "source": "Malwarebytes",
-    "title": "Researcher bypassed Meta smart glasses’ safeguards to run her own code",
-    "link": "https://www.malwarebytes.com/blog/news/2026/11/researcher-bypassed-meta-smart-glasses-safeguards-to-run-her-own-code",
-    "published": "Tue, 10 Nov 2026 15:09:39 GMT",
-    "summary": "She was able to bypass a safeguard meant to stop unauthorized software running on Meta glasses. It wasn't easy, but showed it is possible.",
-    "analysis": {
-      "issue": "We’ve written before about what Meta’s Ray-Ban smart glasses can see and hear, and who might get to use that information",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Crowdstrike Blog",
     "title": "CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Augmented Identity Security Solutions",
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-augmented-identity-security-solutions/",
@@ -1581,24 +1580,6 @@
   },
   {
     "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Brings Enterprise Browser Security to the Falcon Platform",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-enterprise-browser-security-to-falcon-platform/",
-    "published": "Nov 04, 2026 00:00:00-0600",
-    "summary": "",
-    "analysis": {
-      "issue": "CrowdStrike Falcon Seraphic Enterprise Browser is now available through the new unified Falcon platform experience",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
     "title": "CrowdStrike Extends the Agentic SOC to Detect and Stop Agent Insider Threats",
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-detects-and-stops-agent-insider-threats/",
     "published": "Nov 04, 2026 00:00:00-0600",
@@ -1648,6 +1629,24 @@
       "cves": [],
       "threat_categories": [
         "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
+    "title": "CrowdStrike Brings Enterprise Browser Security to the Falcon Platform",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-enterprise-browser-security-to-falcon-platform/",
+    "published": "Nov 04, 2026 00:00:00-0600",
+    "summary": "",
+    "analysis": {
+      "issue": "CrowdStrike Falcon Seraphic Enterprise Browser is now available through the new unified Falcon platform experience",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },

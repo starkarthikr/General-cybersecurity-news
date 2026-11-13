@@ -1,10 +1,20 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-13 16:40:39 UTC
+**Last Updated:** 2026-11-13 19:26:41 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs](https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html)
+### 1. [PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE](https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 13 Nov 2026 22:23:08 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-6460  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs](https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Nov 2026 20:57:05 +0530  
@@ -13,7 +23,7 @@
 
 ---
 
-### 2. [FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls](https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html)
+### 3. [FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls](https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Nov 2026 19:58:58 +0530  
@@ -22,7 +32,7 @@
 
 ---
 
-### 3. [Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases](https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html)
+### 4. [Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases](https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Nov 2026 19:24:20 +0530  
@@ -31,7 +41,7 @@
 
 ---
 
-### 4. [When an AI Agent Goes Wrong, Can You Stop It?](https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html)
+### 5. [When an AI Agent Goes Wrong, Can You Stop It?](https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Nov 2026 17:22:31 +0530  
@@ -40,7 +50,7 @@
 
 ---
 
-### 5. [SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users](https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html)
+### 6. [SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users](https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Nov 2026 16:40:40 +0530  
@@ -49,7 +59,7 @@
 
 ---
 
-### 6. [Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins](https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html)
+### 7. [Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins](https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Nov 2026 16:25:03 +0530  
@@ -58,7 +68,7 @@
 
 ---
 
-### 7. [Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files](https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html)
+### 8. [Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files](https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Nov 2026 13:35:49 +0530  
@@ -67,7 +77,7 @@
 
 ---
 
-### 8. [Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2](https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html)
+### 9. [Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2](https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Nov 2026 11:13:28 +0530  
@@ -76,7 +86,7 @@
 
 ---
 
-### 9. [Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them](https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html)
+### 10. [Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them](https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 12 Nov 2026 23:37:15 +0530  
@@ -85,16 +95,16 @@
 
 ---
 
-### 10. [ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories](https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html)
+### 11. [German military drone operations disrupted by cyberattack](https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 12 Nov 2026 23:32:51 +0530  
-**Severity:** Low  
-**Categories:** Ransomware, Malware  
+**Source:** Bleeping Computer  
+**Published:** Fri, 13 Nov 2026 12:31:56 -0500  
+**Severity:** Critical  
+**Categories:** General Security  
 
 ---
 
-### 11. [Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper](https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/)
+### 12. [Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper](https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Nov 2026 11:21:43 -0500  
@@ -104,7 +114,7 @@
 
 ---
 
-### 12. [How one AI agent exposed five critical enterprise security gaps](https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/)
+### 13. [How one AI agent exposed five critical enterprise security gaps](https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Nov 2026 10:01:11 -0500  
@@ -113,7 +123,7 @@
 
 ---
 
-### 13. [Microsoft says November security updates cause printing issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/)
+### 14. [Microsoft says November security updates cause printing issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Nov 2026 07:27:40 -0500  
@@ -122,7 +132,7 @@
 
 ---
 
-### 14. [Check Point warns of zero-day flaw exploited for root access](https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/)
+### 15. [Check Point warns of zero-day flaw exploited for root access](https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Nov 2026 05:44:22 -0500  
@@ -132,7 +142,7 @@
 
 ---
 
-### 15. [Microsoft confirms Windows activation failures after November updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/)
+### 16. [Microsoft confirms Windows activation failures after November updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Nov 2026 04:36:18 -0500  
@@ -141,7 +151,7 @@
 
 ---
 
-### 16. [Police arrest 354 suspects in dark web cybercrime crackdown](https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/)
+### 17. [Police arrest 354 suspects in dark web cybercrime crackdown](https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Nov 2026 03:34:20 -0500  
@@ -150,7 +160,7 @@
 
 ---
 
-### 17. [New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks](https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/)
+### 18. [New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks](https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 12 Nov 2026 17:53:10 -0500  
@@ -160,7 +170,7 @@
 
 ---
 
-### 18. [Hackers compromise 4,800 GitHub accounts to steal cloud credentials](https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/)
+### 19. [Hackers compromise 4,800 GitHub accounts to steal cloud credentials](https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 12 Nov 2026 17:25:30 -0500  
@@ -169,22 +179,12 @@
 
 ---
 
-### 19. [Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide](https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/)
+### 20. [Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide](https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 12 Nov 2026 15:15:16 -0500  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 20. [New N-able "4EverAble2Shell" zero-day exploited hours after PoC released](https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 12 Nov 2026 14:51:16 -0500  
-**Severity:** Critical  
-**CVEs:** CVE-2026-90436  
-**Categories:** Vulnerability  
 
 ---
 
@@ -331,7 +331,7 @@
 **Source:** Security Week  
 **Published:** Fri, 13 Nov 2026 09:36:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-107412, CVE-2026-107407, CVE-2026-120869, CVE-2026-111338, CVE-2026-107415, CVE-2026-107410, CVE-2026-111334, CVE-2026-120868, CVE-2026-120864  
+**CVEs:** CVE-2026-107407, CVE-2026-107412, CVE-2026-120869, CVE-2026-107410, CVE-2026-111338, CVE-2026-111334, CVE-2026-120864, CVE-2026-107415, CVE-2026-120868  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -359,7 +359,7 @@
 **Source:** Security Week  
 **Published:** Fri, 13 Nov 2026 07:39:04 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109618, CVE-2026-123039, CVE-2026-109619  
+**CVEs:** CVE-2026-109618, CVE-2026-109619, CVE-2026-123039  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -388,7 +388,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 11 Nov 2026 01:41:17 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-118146, CVE-2026-118148, CVE-2026-113862, CVE-2026-124194  
+**CVEs:** CVE-2026-124194, CVE-2026-118148, CVE-2026-118146, CVE-2026-113862  
 **Categories:** Vulnerability  
 
 ---
@@ -651,7 +651,16 @@
 
 ---
 
-### 71. [Google pushes second Chrome update this week](https://www.malwarebytes.com/blog/bugs/2026/11/google-pushes-second-chrome-update-this-week)
+### 71. [New York City votes to ban surveillance pricing](https://www.malwarebytes.com/blog/news/2026/11/new-york-city-council-votes-to-ban-surveillance-pricing)
+
+**Source:** Malwarebytes  
+**Published:** Fri, 13 Nov 2026 16:52:36 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 72. [Google pushes second Chrome update this week](https://www.malwarebytes.com/blog/bugs/2026/11/google-pushes-second-chrome-update-this-week)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 13 Nov 2026 11:20:50 GMT  
@@ -660,7 +669,7 @@
 
 ---
 
-### 72. [Worldwide Microsoft 365 outage disrupts Outlook, SharePoint, Teams, and more](https://www.malwarebytes.com/blog/news/2026/11/worldwide-microsoft-365-outage-disrupts-outlook-sharepoint-teams-and-more)
+### 73. [Worldwide Microsoft 365 outage disrupts Outlook, SharePoint, Teams, and more](https://www.malwarebytes.com/blog/news/2026/11/worldwide-microsoft-365-outage-disrupts-outlook-sharepoint-teams-and-more)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 13 Nov 2026 08:35:18 GMT  
@@ -669,7 +678,7 @@
 
 ---
 
-### 73. [LEGO’s BrickLink taken offline: What users should know](https://www.malwarebytes.com/blog/news/2026/11/legos-bricklink-taken-offline-after-unusual-activity-what-users-should-know)
+### 74. [LEGO’s BrickLink taken offline: What users should know](https://www.malwarebytes.com/blog/news/2026/11/legos-bricklink-taken-offline-after-unusual-activity-what-users-should-know)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 12 Nov 2026 14:25:49 GMT  
@@ -678,7 +687,7 @@
 
 ---
 
-### 74. [Why scammers want you to allow push notifications](https://www.malwarebytes.com/blog/mobile/2026/11/why-scammers-want-you-to-allow-notifications)
+### 75. [Why scammers want you to allow push notifications](https://www.malwarebytes.com/blog/mobile/2026/11/why-scammers-want-you-to-allow-notifications)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 12 Nov 2026 10:52:57 GMT  
@@ -687,7 +696,7 @@
 
 ---
 
-### 75. [FBI agent stole $2.47m in crypto from criminal wallets](https://www.malwarebytes.com/blog/news/2026/11/fbi-agent-stole-2-47m-in-crypto-from-criminal-wallets)
+### 76. [FBI agent stole $2.47m in crypto from criminal wallets](https://www.malwarebytes.com/blog/news/2026/11/fbi-agent-stole-2-47m-in-crypto-from-criminal-wallets)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 12 Nov 2026 09:03:03 GMT  
@@ -696,7 +705,7 @@
 
 ---
 
-### 76. [Vanderbilt restores systems after cyberattack as hackers claim data theft](https://www.malwarebytes.com/blog/news/2026/11/vanderbilt-restores-systems-after-cyberattack-as-hackers-claim-data-theft)
+### 77. [Vanderbilt restores systems after cyberattack as hackers claim data theft](https://www.malwarebytes.com/blog/news/2026/11/vanderbilt-restores-systems-after-cyberattack-as-hackers-claim-data-theft)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 11 Nov 2026 18:29:01 GMT  
@@ -705,7 +714,7 @@
 
 ---
 
-### 77. [Remus malware claims Gmail access even after you change your password](https://www.malwarebytes.com/blog/news/2026/11/remus-malware-claims-gmail-access-even-after-you-change-your-password)
+### 78. [Remus malware claims Gmail access even after you change your password](https://www.malwarebytes.com/blog/news/2026/11/remus-malware-claims-gmail-access-even-after-you-change-your-password)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 11 Nov 2026 13:42:10 GMT  
@@ -714,7 +723,7 @@
 
 ---
 
-### 78. [Muse sleep band users weren’t told their brain data was training AI](https://www.malwarebytes.com/blog/ai/2026/11/muse-sleep-band-users-werent-told-their-brain-data-was-training-ai)
+### 79. [Muse sleep band users weren’t told their brain data was training AI](https://www.malwarebytes.com/blog/ai/2026/11/muse-sleep-band-users-werent-told-their-brain-data-was-training-ai)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 11 Nov 2026 12:23:05 GMT  
@@ -723,21 +732,12 @@
 
 ---
 
-### 79. [Microsoft Patch Tuesday fixes Outlook flaw already under attack](https://www.malwarebytes.com/blog/bugs/2026/11/microsoft-patch-tuesday-fixes-outlook-flaw-already-under-attack)
+### 80. [Microsoft Patch Tuesday fixes Outlook flaw already under attack](https://www.malwarebytes.com/blog/bugs/2026/11/microsoft-patch-tuesday-fixes-outlook-flaw-already-under-attack)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 11 Nov 2026 11:25:05 GMT  
 **Severity:** Critical  
 **CVEs:** CVE-2026-124194  
-**Categories:** Vulnerability  
-
----
-
-### 80. [Researcher bypassed Meta smart glasses’ safeguards to run her own code](https://www.malwarebytes.com/blog/news/2026/11/researcher-bypassed-meta-smart-glasses-safeguards-to-run-her-own-code)
-
-**Source:** Malwarebytes  
-**Published:** Tue, 10 Nov 2026 15:09:39 GMT  
-**Severity:** Low  
 **Categories:** Vulnerability  
 
 ---
@@ -769,7 +769,7 @@
 
 ---
 
-### 84. [CrowdStrike Brings Enterprise Browser Security to the Falcon Platform](https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-enterprise-browser-security-to-falcon-platform/)
+### 84. [CrowdStrike Extends the Agentic SOC to Detect and Stop Agent Insider Threats](https://www.crowdstrike.com/en-us/blog/crowdstrike-detects-and-stops-agent-insider-threats/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Nov 04, 2026 00:00:00-0600  
@@ -778,7 +778,7 @@
 
 ---
 
-### 85. [CrowdStrike Extends the Agentic SOC to Detect and Stop Agent Insider Threats](https://www.crowdstrike.com/en-us/blog/crowdstrike-detects-and-stops-agent-insider-threats/)
+### 85. [CrowdStrike Introduces Agentic Adversary Emulation to Counter AI-Enabled Adversaries](https://www.crowdstrike.com/en-us/blog/crowdstrike-agentic-adversary-emulation-counters-ai-enabled-adversaries/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Nov 04, 2026 00:00:00-0600  
@@ -787,21 +787,21 @@
 
 ---
 
-### 86. [CrowdStrike Introduces Agentic Adversary Emulation to Counter AI-Enabled Adversaries](https://www.crowdstrike.com/en-us/blog/crowdstrike-agentic-adversary-emulation-counters-ai-enabled-adversaries/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Nov 04, 2026 00:00:00-0600  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 87. [New Falcon Cloud Security Innovations Secure the Cloud AI Runs On](https://www.crowdstrike.com/en-us/blog/falcon-cloud-security-innovations-secure-cloud-ai-runs-on/)
+### 86. [New Falcon Cloud Security Innovations Secure the Cloud AI Runs On](https://www.crowdstrike.com/en-us/blog/falcon-cloud-security-innovations-secure-cloud-ai-runs-on/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Nov 04, 2026 00:00:00-0600  
 **Severity:** Low  
 **Categories:** Supply Chain  
+
+---
+
+### 87. [CrowdStrike Brings Enterprise Browser Security to the Falcon Platform](https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-enterprise-browser-security-to-falcon-platform/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Nov 04, 2026 00:00:00-0600  
+**Severity:** Low  
+**Categories:** General Security  
 
 ---
 
