@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-14 15:16:31 UTC
+**Last Updated:** 2026-11-14 17:50:46 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -96,7 +96,25 @@
 
 ---
 
-### 11. [Trezor confirms crypto-stealing implants in three wallets, releases fix](https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/)
+### 11. [Cursor confirms security breach led to malicious Claude Code extension](https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/)
+
+**Source:** Bleeping Computer  
+**Published:** Sat, 14 Nov 2026 12:27:25 -0500  
+**Severity:** Low  
+**Categories:** Malware, Supply Chain  
+
+---
+
+### 12. [US disrupts North Korean campaign behind $400 million crypto theft](https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/)
+
+**Source:** Bleeping Computer  
+**Published:** Sat, 14 Nov 2026 10:15:49 -0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 13. [Trezor confirms crypto-stealing implants in three wallets, releases fix](https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Nov 2026 14:38:36 -0500  
@@ -105,7 +123,7 @@
 
 ---
 
-### 12. [German military drone operations disrupted by cyberattack](https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/)
+### 14. [German military drone operations disrupted by cyberattack](https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Nov 2026 12:31:56 -0500  
@@ -114,7 +132,7 @@
 
 ---
 
-### 13. [Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper](https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/)
+### 15. [Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper](https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Nov 2026 11:21:43 -0500  
@@ -124,7 +142,7 @@
 
 ---
 
-### 14. [How one AI agent exposed five critical enterprise security gaps](https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/)
+### 16. [How one AI agent exposed five critical enterprise security gaps](https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Nov 2026 10:01:11 -0500  
@@ -133,7 +151,7 @@
 
 ---
 
-### 15. [Microsoft says November security updates cause printing issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/)
+### 17. [Microsoft says November security updates cause printing issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Nov 2026 07:27:40 -0500  
@@ -142,7 +160,7 @@
 
 ---
 
-### 16. [Check Point warns of zero-day flaw exploited for root access](https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/)
+### 18. [Check Point warns of zero-day flaw exploited for root access](https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Nov 2026 05:44:22 -0500  
@@ -152,7 +170,7 @@
 
 ---
 
-### 17. [Microsoft confirms Windows activation failures after November updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/)
+### 19. [Microsoft confirms Windows activation failures after November updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Nov 2026 04:36:18 -0500  
@@ -161,31 +179,12 @@
 
 ---
 
-### 18. [Police arrest 354 suspects in dark web cybercrime crackdown](https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/)
+### 20. [Police arrest 354 suspects in dark web cybercrime crackdown](https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Nov 2026 03:34:20 -0500  
 **Severity:** High  
 **Categories:** APT  
-
----
-
-### 19. [New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks](https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 12 Nov 2026 17:53:10 -0500  
-**Severity:** Low  
-**CVEs:** CVE-2026-84869  
-**Categories:** Vulnerability, Malware, Supply Chain  
-
----
-
-### 20. [Hackers compromise 4,800 GitHub accounts to steal cloud credentials](https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 12 Nov 2026 17:25:30 -0500  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -368,7 +367,7 @@
 **Source:** Security Week  
 **Published:** Fri, 13 Nov 2026 09:36:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-107410, CVE-2026-107407, CVE-2026-120868, CVE-2026-111334, CVE-2026-107412, CVE-2026-120864, CVE-2026-111338, CVE-2026-107415, CVE-2026-120869  
+**CVEs:** CVE-2026-111338, CVE-2026-111334, CVE-2026-107410, CVE-2026-120864, CVE-2026-107415, CVE-2026-120869, CVE-2026-107412, CVE-2026-120868, CVE-2026-107407  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -635,7 +634,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
