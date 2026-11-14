@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-13 19:26:41 UTC
+**Last Updated:** 2026-11-14 05:48:20 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,16 @@
 
 ---
 
-### 11. [German military drone operations disrupted by cyberattack](https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/)
+### 11. [Trezor confirms crypto-stealing implants in three wallets, releases fix](https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 13 Nov 2026 14:38:36 -0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 12. [German military drone operations disrupted by cyberattack](https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Nov 2026 12:31:56 -0500  
@@ -104,17 +113,17 @@
 
 ---
 
-### 12. [Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper](https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/)
+### 13. [Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper](https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Nov 2026 11:21:43 -0500  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109618, CVE-2026-109619  
+**CVEs:** CVE-2026-109619, CVE-2026-109618  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 13. [How one AI agent exposed five critical enterprise security gaps](https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/)
+### 14. [How one AI agent exposed five critical enterprise security gaps](https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Nov 2026 10:01:11 -0500  
@@ -123,7 +132,7 @@
 
 ---
 
-### 14. [Microsoft says November security updates cause printing issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/)
+### 15. [Microsoft says November security updates cause printing issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Nov 2026 07:27:40 -0500  
@@ -132,7 +141,7 @@
 
 ---
 
-### 15. [Check Point warns of zero-day flaw exploited for root access](https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/)
+### 16. [Check Point warns of zero-day flaw exploited for root access](https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Nov 2026 05:44:22 -0500  
@@ -142,7 +151,7 @@
 
 ---
 
-### 16. [Microsoft confirms Windows activation failures after November updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/)
+### 17. [Microsoft confirms Windows activation failures after November updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Nov 2026 04:36:18 -0500  
@@ -151,7 +160,7 @@
 
 ---
 
-### 17. [Police arrest 354 suspects in dark web cybercrime crackdown](https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/)
+### 18. [Police arrest 354 suspects in dark web cybercrime crackdown](https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Nov 2026 03:34:20 -0500  
@@ -160,7 +169,7 @@
 
 ---
 
-### 18. [New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks](https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/)
+### 19. [New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks](https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 12 Nov 2026 17:53:10 -0500  
@@ -170,19 +179,10 @@
 
 ---
 
-### 19. [Hackers compromise 4,800 GitHub accounts to steal cloud credentials](https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/)
+### 20. [Hackers compromise 4,800 GitHub accounts to steal cloud credentials](https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 12 Nov 2026 17:25:30 -0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide](https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 12 Nov 2026 15:15:16 -0500  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -281,7 +281,16 @@
 
 ---
 
-### 31. [In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach](https://www.securityweek.com/in-other-news-new-cisa-director-nominee-connected-car-hacking-baker-tilly-data-breach/)
+### 31. [FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’](https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/)
+
+**Source:** Security Week  
+**Published:** Fri, 13 Nov 2026 21:33:27 +0000  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 32. [In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach](https://www.securityweek.com/in-other-news-new-cisa-director-nominee-connected-car-hacking-baker-tilly-data-breach/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Nov 2026 15:20:00 +0000  
@@ -290,7 +299,7 @@
 
 ---
 
-### 32. [Microsoft Struggles to Restore Email and Other Services in a Global Outage](https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/)
+### 33. [Microsoft Struggles to Restore Email and Other Services in a Global Outage](https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Nov 2026 13:47:42 +0000  
@@ -299,7 +308,7 @@
 
 ---
 
-### 33. [Apify Confirms Customer Data Accessed in Cyberattack](https://www.securityweek.com/apify-confirms-customer-data-accessed-in-cyberattack/)
+### 34. [Apify Confirms Customer Data Accessed in Cyberattack](https://www.securityweek.com/apify-confirms-customer-data-accessed-in-cyberattack/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Nov 2026 12:41:01 +0000  
@@ -308,7 +317,7 @@
 
 ---
 
-### 34. [SilentAir Hackers Intercept Calls, SMS From Inside Mobile Networks](https://www.securityweek.com/silentair-hackers-intercept-calls-sms-from-inside-mobile-networks/)
+### 35. [SilentAir Hackers Intercept Calls, SMS From Inside Mobile Networks](https://www.securityweek.com/silentair-hackers-intercept-calls-sms-from-inside-mobile-networks/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Nov 2026 12:20:28 +0000  
@@ -317,7 +326,7 @@
 
 ---
 
-### 35. [Law Enforcement Disrupts Gootloader, CastleRAT, and StealC Infrastructure](https://www.securityweek.com/law-enforcement-disrupts-gootloader-castlerat-and-stealc-infrastructure/)
+### 36. [Law Enforcement Disrupts Gootloader, CastleRAT, and StealC Infrastructure](https://www.securityweek.com/law-enforcement-disrupts-gootloader-castlerat-and-stealc-infrastructure/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Nov 2026 10:48:40 +0000  
@@ -326,17 +335,17 @@
 
 ---
 
-### 36. [Citrix Patches 10 Critical NetScaler Vulnerabilities](https://www.securityweek.com/citrix-patches-10-critical-netscaler-vulnerabilities/)
+### 37. [Citrix Patches 10 Critical NetScaler Vulnerabilities](https://www.securityweek.com/citrix-patches-10-critical-netscaler-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Nov 2026 09:36:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-107407, CVE-2026-107412, CVE-2026-120869, CVE-2026-107410, CVE-2026-111338, CVE-2026-111334, CVE-2026-120864, CVE-2026-107415, CVE-2026-120868  
+**CVEs:** CVE-2026-107407, CVE-2026-111338, CVE-2026-120869, CVE-2026-107412, CVE-2026-120868, CVE-2026-120864, CVE-2026-111334, CVE-2026-107415, CVE-2026-107410  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 37. [OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools](https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/)
+### 38. [OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools](https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Nov 2026 09:21:01 +0000  
@@ -345,7 +354,7 @@
 
 ---
 
-### 38. [Nightmare Eclipse Drops Windows Zero-Day Exploit ‘SignDrop’](https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/)
+### 39. [Nightmare Eclipse Drops Windows Zero-Day Exploit ‘SignDrop’](https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Nov 2026 08:50:36 +0000  
@@ -354,27 +363,26 @@
 
 ---
 
-### 39. [PHP2Shell Exploited in Destructive Check Point Gateway Attacks](https://www.securityweek.com/php2shell-exploited-in-destructive-check-point-gateway-attacks/)
+### 40. [PHP2Shell Exploited in Destructive Check Point Gateway Attacks](https://www.securityweek.com/php2shell-exploited-in-destructive-check-point-gateway-attacks/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Nov 2026 07:39:04 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109618, CVE-2026-109619, CVE-2026-123039  
+**CVEs:** CVE-2026-123039, CVE-2026-109619, CVE-2026-109618  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 40. [Hackers Exploit New N-central Zero-Day Hours After PoC Publication](https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication/)
+### 41. [ARTEX and beyond: AI-enabled penetration testing platforms](https://blog.talosintelligence.com/artex-and-beyond/)
 
-**Source:** Security Week  
-**Published:** Fri, 13 Nov 2026 07:20:50 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-90436  
-**Categories:** Vulnerability  
+**Source:** Talos Blog  
+**Published:** Fri, 13 Nov 2026 20:57:13 GMT  
+**Severity:** High  
+**Categories:** Ransomware, Vulnerability, APT  
 
 ---
 
-### 41. [Never be afraid to ask questions](https://blog.talosintelligence.com/never-be-afraid-to-ask-questions/)
+### 42. [Never be afraid to ask questions](https://blog.talosintelligence.com/never-be-afraid-to-ask-questions/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 12 Nov 2026 19:00:00 GMT  
@@ -383,17 +391,17 @@
 
 ---
 
-### 42. [Microsoft Patch Tuesday for November 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-for-november-2026/)
+### 43. [Microsoft Patch Tuesday for November 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-for-november-2026/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 11 Nov 2026 01:41:17 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-124194, CVE-2026-118148, CVE-2026-118146, CVE-2026-113862  
+**CVEs:** CVE-2026-118146, CVE-2026-118148, CVE-2026-113862, CVE-2026-124194  
 **Categories:** Vulnerability  
 
 ---
 
-### 43. [Bring a tent, I've got the coffee: Lessons from it-sa](https://blog.talosintelligence.com/bring-a-tent-ive-got-the-coffee-lessons-from-it-sa/)
+### 44. [Bring a tent, I've got the coffee: Lessons from it-sa](https://blog.talosintelligence.com/bring-a-tent-ive-got-the-coffee-lessons-from-it-sa/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 05 Nov 2026 19:00:00 GMT  
@@ -402,7 +410,7 @@
 
 ---
 
-### 44. [Appraisal by AI: Model-driven victim prioritization in the VOLTA infostealer](https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/)
+### 45. [Appraisal by AI: Model-driven victim prioritization in the VOLTA infostealer](https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/)
 
 **Source:** Talos Blog  
 **Published:** Sat, 31 Oct 2026 12:00:00 GMT  
@@ -411,7 +419,7 @@
 
 ---
 
-### 45. [A quiet week in infosec <.<](https://blog.talosintelligence.com/a-quiet-week-in-infosec/)
+### 46. [A quiet week in infosec <.<](https://blog.talosintelligence.com/a-quiet-week-in-infosec/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 29 Oct 2026 18:00:00 GMT  
@@ -420,7 +428,7 @@
 
 ---
 
-### 46. [IR trends Q3 2026: Actors impersonate IT help desks in vishing attacks as ransomware activity increases](https://blog.talosintelligence.com/ir-trends-q3-2026/)
+### 47. [IR trends Q3 2026: Actors impersonate IT help desks in vishing attacks as ransomware activity increases](https://blog.talosintelligence.com/ir-trends-q3-2026/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 29 Oct 2026 14:00:00 GMT  
@@ -430,7 +438,7 @@
 
 ---
 
-### 47. [NIK C2: The new AI-enabled command-and-control framework](https://blog.talosintelligence.com/nik-c2-new-ai-enabled-framework/)
+### 48. [NIK C2: The new AI-enabled command-and-control framework](https://blog.talosintelligence.com/nik-c2-new-ai-enabled-framework/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 29 Oct 2026 10:00:00 GMT  
@@ -439,7 +447,7 @@
 
 ---
 
-### 48. [Inside KeyDrift: Analyzing historical UAT-11473 activity on Cisco SD-WAN](https://blog.talosintelligence.com/uat-11473-keydrift/)
+### 49. [Inside KeyDrift: Analyzing historical UAT-11473 activity on Cisco SD-WAN](https://blog.talosintelligence.com/uat-11473-keydrift/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 28 Oct 2026 21:32:02 GMT  
@@ -448,21 +456,12 @@
 
 ---
 
-### 49. [From federal SOCs to Talos: Ryan Fetterman on practical security research](https://blog.talosintelligence.com/from-federal-socs-to-talos-ryan-fetterman-on-practical-security-research/)
+### 50. [From federal SOCs to Talos: Ryan Fetterman on practical security research](https://blog.talosintelligence.com/from-federal-socs-to-talos-ryan-fetterman-on-practical-security-research/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 27 Oct 2026 10:00:21 GMT  
 **Severity:** Low  
 **Categories:** APT  
-
----
-
-### 50. [I had plans for that second](https://blog.talosintelligence.com/i-had-plans-for-that-second/)
-
-**Source:** Talos Blog  
-**Published:** Thu, 22 Oct 2026 18:04:32 GMT  
-**Severity:** Critical  
-**Categories:** General Security  
 
 ---
 
@@ -669,7 +668,7 @@
 
 ---
 
-### 73. [Worldwide Microsoft 365 outage disrupts Outlook, SharePoint, Teams, and more](https://www.malwarebytes.com/blog/news/2026/11/worldwide-microsoft-365-outage-disrupts-outlook-sharepoint-teams-and-more)
+### 73. [Worldwide Microsoft 365 outage disrupts Outlook, SharePoint, Teams, and more [updated]](https://www.malwarebytes.com/blog/news/2026/11/worldwide-microsoft-365-outage-disrupts-outlook-sharepoint-teams-and-more)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 13 Nov 2026 08:35:18 GMT  
@@ -742,7 +741,16 @@
 
 ---
 
-### 81. [CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Augmented Identity Security Solutions](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-augmented-identity-security-solutions/)
+### 81. [Inside Falcon AI Gateway: One Control Point for AI Traffic](https://www.crowdstrike.com/en-us/blog/falcon-ai-gateway-one-control-point-for-ai-traffic/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Nov 13, 2026 00:00:00-0600  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 82. [CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Augmented Identity Security Solutions](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-augmented-identity-security-solutions/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Nov 12, 2026 00:00:00-0600  
@@ -751,7 +759,7 @@
 
 ---
 
-### 82. [November 2026 Patch Tuesday: 1,252 CVEs Include One Zero-Day and 68 Critical Vulnerabilities](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-november-2026/)
+### 83. [November 2026 Patch Tuesday: 1,252 CVEs Include One Zero-Day and 68 Critical Vulnerabilities](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-november-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Nov 10, 2026 00:00:00-0600  
@@ -760,7 +768,7 @@
 
 ---
 
-### 83. [How Adversaries Are Turning the Vulnerability Ecosystem Against Defenders](https://www.crowdstrike.com/en-us/blog/adversaries-turn-vulnerability-ecosystem-against-defenders/)
+### 84. [How Adversaries Are Turning the Vulnerability Ecosystem Against Defenders](https://www.crowdstrike.com/en-us/blog/adversaries-turn-vulnerability-ecosystem-against-defenders/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Nov 05, 2026 00:00:00-0600  
@@ -769,7 +777,7 @@
 
 ---
 
-### 84. [CrowdStrike Extends the Agentic SOC to Detect and Stop Agent Insider Threats](https://www.crowdstrike.com/en-us/blog/crowdstrike-detects-and-stops-agent-insider-threats/)
+### 85. [CrowdStrike Extends the Agentic SOC to Detect and Stop Agent Insider Threats](https://www.crowdstrike.com/en-us/blog/crowdstrike-detects-and-stops-agent-insider-threats/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Nov 04, 2026 00:00:00-0600  
@@ -778,7 +786,7 @@
 
 ---
 
-### 85. [CrowdStrike Introduces Agentic Adversary Emulation to Counter AI-Enabled Adversaries](https://www.crowdstrike.com/en-us/blog/crowdstrike-agentic-adversary-emulation-counters-ai-enabled-adversaries/)
+### 86. [CrowdStrike Introduces Agentic Adversary Emulation to Counter AI-Enabled Adversaries](https://www.crowdstrike.com/en-us/blog/crowdstrike-agentic-adversary-emulation-counters-ai-enabled-adversaries/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Nov 04, 2026 00:00:00-0600  
@@ -787,7 +795,7 @@
 
 ---
 
-### 86. [New Falcon Cloud Security Innovations Secure the Cloud AI Runs On](https://www.crowdstrike.com/en-us/blog/falcon-cloud-security-innovations-secure-cloud-ai-runs-on/)
+### 87. [New Falcon Cloud Security Innovations Secure the Cloud AI Runs On](https://www.crowdstrike.com/en-us/blog/falcon-cloud-security-innovations-secure-cloud-ai-runs-on/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Nov 04, 2026 00:00:00-0600  
@@ -796,7 +804,7 @@
 
 ---
 
-### 87. [CrowdStrike Brings Enterprise Browser Security to the Falcon Platform](https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-enterprise-browser-security-to-falcon-platform/)
+### 88. [CrowdStrike Brings Enterprise Browser Security to the Falcon Platform](https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-enterprise-browser-security-to-falcon-platform/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Nov 04, 2026 00:00:00-0600  
@@ -805,7 +813,7 @@
 
 ---
 
-### 88. [CrowdStrike Advances AI Security and Safety from Endpoint to Cloud](https://www.crowdstrike.com/en-us/blog/crowdstrike-advances-ai-security-and-safety-falcon-guardian/)
+### 89. [CrowdStrike Advances AI Security and Safety from Endpoint to Cloud](https://www.crowdstrike.com/en-us/blog/crowdstrike-advances-ai-security-and-safety-falcon-guardian/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Nov 03, 2026 00:00:00-0800  
@@ -814,16 +822,7 @@
 
 ---
 
-### 89. [CrowdStrike to Acquire Fiddler to Deliver Falcon Observe for AI Agent Observability](https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-fiddler/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Nov 03, 2026 00:00:00-0800  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 90. [Introducing AI Kill Switch: Taking Control When AI Agents Go Rogue](https://www.crowdstrike.com/en-us/blog/crowdstrike-introduces-ai-kill-switch/)
+### 90. [CrowdStrike to Acquire Fiddler to Deliver Falcon Observe for AI Agent Observability](https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-fiddler/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Nov 03, 2026 00:00:00-0800  
