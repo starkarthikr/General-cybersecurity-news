@@ -1,6 +1,26 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+    "link": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+    "published": "Sat, 14 Nov 2026 18:08:35 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation.\n\nThe vulnerability, tracked as CVE-2026-114713 (CVSS score: 8.6), is a case of improper neutralization of delimiters",
+    "analysis": {
+      "issue": "CISA adds actively exploited UnrealIRCd flaw CVE-2026-114713 to its KEV catalog; linked IRC servers are at risk of command injection",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-114713"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
     "link": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
     "published": "Fri, 13 Nov 2026 22:23:08 +0530",
@@ -161,24 +181,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
-    "link": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
-    "published": "Thu, 12 Nov 2026 23:37:15 +0530",
-    "summary": "Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what can they access?\n\nA suspicious login might belong to an employee. An unusual API call could come from a machine account. Or an AI agent might be accessing sensitive systems using permissions nobody",
-    "analysis": {
-      "issue": "Learn how identity context helps SOC teams investigate threats, assess access permissions, and respond to compromised accounts",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -566,6 +568,61 @@
   },
   {
     "source": "Security Week",
+    "title": "Is AI Making Us Worse at Cybersecurity?",
+    "link": "https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/",
+    "published": "Sat, 14 Nov 2026 14:00:00 +0000",
+    "summary": "<p>Overreliance on AI could erode the creativity, clear communication, and critical thinking security teams need when there’s no playbook.</p>\n<p>The post <a href=\"https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/\">Is AI Making Us Worse at Cybersecurity?</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Overreliance on AI could erode the creativity, clear communication, and critical thinking security teams need when there’s no playbook",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Apple Reveals How Secure Exclaves Shield Camera and Microphone Data",
+    "link": "https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/",
+    "published": "Sat, 14 Nov 2026 11:00:00 +0000",
+    "summary": "<p>The tech giant has detailed the architecture designed to isolate ambient sensor data from the main OS on HomeView and new iPhones.</p>\n<p>The post <a href=\"https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/\">Apple Reveals How Secure Exclaves Shield Camera and Microphone Data</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The tech giant has detailed the architecture designed to isolate ambient sensor data from the main OS on HomeView and new iPhones",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update",
+    "link": "https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/",
+    "published": "Sat, 14 Nov 2026 08:40:22 +0000",
+    "summary": "<p>Officials say there is no evidence of a cyberattack behind the nationwide FAA outage, which may have been caused by a software update.</p>\n<p>The post <a href=\"https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/\">No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Officials say there is no evidence of a cyberattack behind the nationwide FAA outage, which may have been caused by a software update",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’",
     "link": "https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/",
     "published": "Fri, 13 Nov 2026 21:33:27 +0000",
@@ -694,75 +751,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-107407",
-        "CVE-2026-111338",
         "CVE-2026-107410",
+        "CVE-2026-107407",
         "CVE-2026-120868",
-        "CVE-2026-120864",
         "CVE-2026-111334",
-        "CVE-2026-120869",
+        "CVE-2026-107412",
+        "CVE-2026-120864",
+        "CVE-2026-111338",
         "CVE-2026-107415",
-        "CVE-2026-107412"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools",
-    "link": "https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/",
-    "published": "Fri, 13 Nov 2026 09:21:01 +0000",
-    "summary": "<p>Daybreak Red Team pentests web applications with AI agents, while Defense Factory investigates security findings and prepares patches.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/\">OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Daybreak Red Team pentests web applications with AI agents, while Defense Factory investigates security findings and prepares patches",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Nightmare Eclipse Drops Windows Zero-Day Exploit ‘SignDrop’",
-    "link": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/",
-    "published": "Fri, 13 Nov 2026 08:50:36 +0000",
-    "summary": "<p>It abuses CLFS and Windows Defender to trigger arbitrary file creation in the context of the antimalware process.</p>\n<p>The post <a href=\"https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/\">Nightmare Eclipse Drops Windows Zero-Day Exploit &#8216;SignDrop&#8217;</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "It abuses CLFS and Windows Defender to trigger arbitrary file creation in the context of the antimalware process",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "PHP2Shell Exploited in Destructive Check Point Gateway Attacks",
-    "link": "https://www.securityweek.com/php2shell-exploited-in-destructive-check-point-gateway-attacks/",
-    "published": "Fri, 13 Nov 2026 07:39:04 +0000",
-    "summary": "<p>PHP2Shell enabled initial compromise, while CVE-2026-123039 allowed attackers to elevate privileges to root.</p>\n<p>The post <a href=\"https://www.securityweek.com/php2shell-exploited-in-destructive-check-point-gateway-attacks/\">PHP2Shell Exploited in Destructive Check Point Gateway Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "PHP2Shell enabled initial compromise, while CVE-2026-123039 allowed attackers to elevate privileges to root",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-109619",
-        "CVE-2026-123039",
-        "CVE-2026-109618"
+        "CVE-2026-120869"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -821,9 +818,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-118146",
         "CVE-2026-124194",
         "CVE-2026-113862",
-        "CVE-2026-118146",
         "CVE-2026-118148"
       ],
       "threat_categories": [

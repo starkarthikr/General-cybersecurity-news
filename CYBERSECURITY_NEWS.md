@@ -1,10 +1,20 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-14 06:53:34 UTC
+**Last Updated:** 2026-11-14 15:16:31 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE](https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html)
+### 1. [Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection](https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 14 Nov 2026 18:08:35 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-114713  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE](https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Nov 2026 22:23:08 +0530  
@@ -14,7 +24,7 @@
 
 ---
 
-### 2. [New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs](https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html)
+### 3. [New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs](https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Nov 2026 20:57:05 +0530  
@@ -23,7 +33,7 @@
 
 ---
 
-### 3. [FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls](https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html)
+### 4. [FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls](https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Nov 2026 19:58:58 +0530  
@@ -32,7 +42,7 @@
 
 ---
 
-### 4. [Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases](https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html)
+### 5. [Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases](https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Nov 2026 19:24:20 +0530  
@@ -41,7 +51,7 @@
 
 ---
 
-### 5. [When an AI Agent Goes Wrong, Can You Stop It?](https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html)
+### 6. [When an AI Agent Goes Wrong, Can You Stop It?](https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Nov 2026 17:22:31 +0530  
@@ -50,7 +60,7 @@
 
 ---
 
-### 6. [SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users](https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html)
+### 7. [SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users](https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Nov 2026 16:40:40 +0530  
@@ -59,7 +69,7 @@
 
 ---
 
-### 7. [Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins](https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html)
+### 8. [Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins](https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Nov 2026 16:25:03 +0530  
@@ -68,7 +78,7 @@
 
 ---
 
-### 8. [Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files](https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html)
+### 9. [Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files](https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Nov 2026 13:35:49 +0530  
@@ -77,21 +87,12 @@
 
 ---
 
-### 9. [Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2](https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html)
+### 10. [Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2](https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Nov 2026 11:13:28 +0530  
 **Severity:** Low  
 **Categories:** Vulnerability  
-
----
-
-### 10. [Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them](https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 12 Nov 2026 23:37:15 +0530  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -281,7 +282,34 @@
 
 ---
 
-### 31. [FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’](https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/)
+### 31. [Is AI Making Us Worse at Cybersecurity?](https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/)
+
+**Source:** Security Week  
+**Published:** Sat, 14 Nov 2026 14:00:00 +0000  
+**Severity:** Critical  
+**Categories:** General Security  
+
+---
+
+### 32. [Apple Reveals How Secure Exclaves Shield Camera and Microphone Data](https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/)
+
+**Source:** Security Week  
+**Published:** Sat, 14 Nov 2026 11:00:00 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 33. [No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update](https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/)
+
+**Source:** Security Week  
+**Published:** Sat, 14 Nov 2026 08:40:22 +0000  
+**Severity:** Low  
+**Categories:** Data Breach, APT  
+
+---
+
+### 34. [FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’](https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Nov 2026 21:33:27 +0000  
@@ -290,7 +318,7 @@
 
 ---
 
-### 32. [In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach](https://www.securityweek.com/in-other-news-new-cisa-director-nominee-connected-car-hacking-baker-tilly-data-breach/)
+### 35. [In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach](https://www.securityweek.com/in-other-news-new-cisa-director-nominee-connected-car-hacking-baker-tilly-data-breach/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Nov 2026 15:20:00 +0000  
@@ -299,7 +327,7 @@
 
 ---
 
-### 33. [Microsoft Struggles to Restore Email and Other Services in a Global Outage](https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/)
+### 36. [Microsoft Struggles to Restore Email and Other Services in a Global Outage](https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Nov 2026 13:47:42 +0000  
@@ -308,7 +336,7 @@
 
 ---
 
-### 34. [Apify Confirms Customer Data Accessed in Cyberattack](https://www.securityweek.com/apify-confirms-customer-data-accessed-in-cyberattack/)
+### 37. [Apify Confirms Customer Data Accessed in Cyberattack](https://www.securityweek.com/apify-confirms-customer-data-accessed-in-cyberattack/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Nov 2026 12:41:01 +0000  
@@ -317,7 +345,7 @@
 
 ---
 
-### 35. [SilentAir Hackers Intercept Calls, SMS From Inside Mobile Networks](https://www.securityweek.com/silentair-hackers-intercept-calls-sms-from-inside-mobile-networks/)
+### 38. [SilentAir Hackers Intercept Calls, SMS From Inside Mobile Networks](https://www.securityweek.com/silentair-hackers-intercept-calls-sms-from-inside-mobile-networks/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Nov 2026 12:20:28 +0000  
@@ -326,7 +354,7 @@
 
 ---
 
-### 36. [Law Enforcement Disrupts Gootloader, CastleRAT, and StealC Infrastructure](https://www.securityweek.com/law-enforcement-disrupts-gootloader-castlerat-and-stealc-infrastructure/)
+### 39. [Law Enforcement Disrupts Gootloader, CastleRAT, and StealC Infrastructure](https://www.securityweek.com/law-enforcement-disrupts-gootloader-castlerat-and-stealc-infrastructure/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Nov 2026 10:48:40 +0000  
@@ -335,40 +363,12 @@
 
 ---
 
-### 37. [Citrix Patches 10 Critical NetScaler Vulnerabilities](https://www.securityweek.com/citrix-patches-10-critical-netscaler-vulnerabilities/)
+### 40. [Citrix Patches 10 Critical NetScaler Vulnerabilities](https://www.securityweek.com/citrix-patches-10-critical-netscaler-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Nov 2026 09:36:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-107407, CVE-2026-111338, CVE-2026-107410, CVE-2026-120868, CVE-2026-120864, CVE-2026-111334, CVE-2026-120869, CVE-2026-107415, CVE-2026-107412  
-**Categories:** Vulnerability, Malware  
-
----
-
-### 38. [OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools](https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/)
-
-**Source:** Security Week  
-**Published:** Fri, 13 Nov 2026 09:21:01 +0000  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 39. [Nightmare Eclipse Drops Windows Zero-Day Exploit ‘SignDrop’](https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/)
-
-**Source:** Security Week  
-**Published:** Fri, 13 Nov 2026 08:50:36 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, Malware  
-
----
-
-### 40. [PHP2Shell Exploited in Destructive Check Point Gateway Attacks](https://www.securityweek.com/php2shell-exploited-in-destructive-check-point-gateway-attacks/)
-
-**Source:** Security Week  
-**Published:** Fri, 13 Nov 2026 07:39:04 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-109619, CVE-2026-123039, CVE-2026-109618  
+**CVEs:** CVE-2026-107410, CVE-2026-107407, CVE-2026-120868, CVE-2026-111334, CVE-2026-107412, CVE-2026-120864, CVE-2026-111338, CVE-2026-107415, CVE-2026-120869  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -396,7 +396,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 11 Nov 2026 01:41:17 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-124194, CVE-2026-113862, CVE-2026-118146, CVE-2026-118148  
+**CVEs:** CVE-2026-118146, CVE-2026-124194, CVE-2026-113862, CVE-2026-118148  
 **Categories:** Vulnerability  
 
 ---
