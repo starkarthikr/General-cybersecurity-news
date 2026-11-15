@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-15 15:47:19 UTC
+**Last Updated:** 2026-11-15 18:41:05 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -96,7 +96,16 @@
 
 ---
 
-### 11. [TSMC employee data breach linked to cloud provider](https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/)
+### 11. [FBI warns ARTEX AI hacking tool is powering global cyberattacks](https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Sun, 15 Nov 2026 13:29:53 -0500  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [TSMC employee data breach linked to cloud provider](https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 15 Nov 2026 10:23:48 -0500  
@@ -105,7 +114,7 @@
 
 ---
 
-### 12. [Cursor confirms security breach led to malicious Claude Code extension](https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/)
+### 13. [Cursor confirms security breach led to malicious Claude Code extension](https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 14 Nov 2026 12:27:25 -0500  
@@ -114,7 +123,7 @@
 
 ---
 
-### 13. [US disrupts North Korean campaign behind $400 million crypto theft](https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/)
+### 14. [US disrupts North Korean campaign behind $400 million crypto theft](https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 14 Nov 2026 10:15:49 -0500  
@@ -123,7 +132,7 @@
 
 ---
 
-### 14. [Trezor confirms crypto-stealing implants in three wallets, releases fix](https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/)
+### 15. [Trezor confirms crypto-stealing implants in three wallets, releases fix](https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Nov 2026 14:38:36 -0500  
@@ -132,7 +141,7 @@
 
 ---
 
-### 15. [German military drone operations disrupted by cyberattack](https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/)
+### 16. [German military drone operations disrupted by cyberattack](https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Nov 2026 12:31:56 -0500  
@@ -141,7 +150,7 @@
 
 ---
 
-### 16. [Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper](https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/)
+### 17. [Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper](https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Nov 2026 11:21:43 -0500  
@@ -151,7 +160,7 @@
 
 ---
 
-### 17. [How one AI agent exposed five critical enterprise security gaps](https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/)
+### 18. [How one AI agent exposed five critical enterprise security gaps](https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Nov 2026 10:01:11 -0500  
@@ -160,7 +169,7 @@
 
 ---
 
-### 18. [Microsoft says November security updates cause printing issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/)
+### 19. [Microsoft says November security updates cause printing issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Nov 2026 07:27:40 -0500  
@@ -169,22 +178,13 @@
 
 ---
 
-### 19. [Check Point warns of zero-day flaw exploited for root access](https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/)
+### 20. [Check Point warns of zero-day flaw exploited for root access](https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Nov 2026 05:44:22 -0500  
 **Severity:** Critical  
 **CVEs:** CVE-2026-123039  
 **Categories:** Vulnerability, Malware  
-
----
-
-### 20. [Microsoft confirms Windows activation failures after November updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 13 Nov 2026 04:36:18 -0500  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -394,7 +394,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 11 Nov 2026 01:41:17 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-113862, CVE-2026-118148, CVE-2026-118146, CVE-2026-124194  
+**CVEs:** CVE-2026-118148, CVE-2026-118146, CVE-2026-113862, CVE-2026-124194  
 **Categories:** Vulnerability  
 
 ---

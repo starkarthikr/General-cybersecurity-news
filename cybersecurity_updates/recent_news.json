@@ -185,6 +185,24 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
+    "published": "Sun, 15 Nov 2026 13:29:53 -0500",
+    "summary": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments. [...]",
+    "analysis": {
+      "issue": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer en",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "TSMC employee data breach linked to cloud provider",
     "link": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
     "published": "Sun, 15 Nov 2026 10:23:48 -0500",
@@ -351,24 +369,6 @@
       "threat_categories": [
         "Vulnerability",
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft confirms Windows activation failures after November updates",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/",
-    "published": "Fri, 13 Nov 2026 04:36:18 -0500",
-    "summary": "Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes. [...]",
-    "analysis": {
-      "issue": "Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -802,9 +802,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-113862",
         "CVE-2026-118148",
         "CVE-2026-118146",
+        "CVE-2026-113862",
         "CVE-2026-124194"
       ],
       "threat_categories": [
