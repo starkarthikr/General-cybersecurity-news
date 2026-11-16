@@ -186,6 +186,60 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
+    "link": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
+    "published": "Mon, 16 Nov 2026 16:31:44 -0500",
+    "summary": "Google Project Zero will replace its \"90+30\" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation. [...]",
+    "analysis": {
+      "issue": "Google Project Zero will replace its “90+30” disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
+    "link": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
+    "published": "Mon, 16 Nov 2026 15:59:44 -0500",
+    "summary": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents to escape isolated environments and launch cyberattacks against real-world organizations. [...]",
+    "analysis": {
+      "issue": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents to escape isolated environments",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
+    "link": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
+    "published": "Mon, 16 Nov 2026 14:57:13 -0500",
+    "summary": "Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing framework. [...]",
+    "analysis": {
+      "issue": "Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing framework",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/",
     "published": "Mon, 16 Nov 2026 11:43:24 -0500",
@@ -308,63 +362,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New NoisyTCP vulnerability lets attackers crash Linux servers",
-    "link": "https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/",
-    "published": "Mon, 16 Nov 2026 04:30:04 -0500",
-    "summary": "An 11-year-old Linux kernel vulnerability, dubbed NoisyTCP, affects almost all Linux distributions and lets attackers crash systems running Nginx, Apache, and SSH servers with default configurations. [...]",
-    "analysis": {
-      "issue": "An 11-year-old Linux kernel vulnerability, dubbed NoisyTCP, affects almost all Linux distributions and lets attackers crash systems running Nginx, Apache, and SSH servers with default configurations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-99288"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "DDoS"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft pushes Windows emergency updates to fix activation failures",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/",
-    "published": "Mon, 16 Nov 2026 03:26:52 -0500",
-    "summary": "Microsoft has released emergency out-of-band updates to fix Windows activation and licensing failures caused by this month's security updates. [...]",
-    "analysis": {
-      "issue": "Microsoft has released emergency out-of-band updates to fix Windows activation and licensing failures caused by this month's security updates",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
-    "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
-    "published": "Sun, 15 Nov 2026 13:29:53 -0500",
-    "summary": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments. [...]",
-    "analysis": {
-      "issue": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer en",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -512,8 +509,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-108398",
-        "CVE-2026-96951"
+        "CVE-2026-96951",
+        "CVE-2026-108398"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -556,6 +553,24 @@
       "threat_categories": [
         "Ransomware",
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Trump Administration Moves to Block China From Indirect Access to American AI Technology",
+    "link": "https://www.securityweek.com/trump-administration-moves-to-block-china-from-indirect-access-to-american-ai-technology/",
+    "published": "Mon, 16 Nov 2026 20:00:00 +0000",
+    "summary": "<p>Under the new rule, overseas data centers that serve companies in countries including China, Russia, Iran and Cuba are required to identify their end users.</p>\n<p>The post <a href=\"https://www.securityweek.com/trump-administration-moves-to-block-china-from-indirect-access-to-american-ai-technology/\">Trump Administration Moves to Block China From Indirect Access to American AI Technology</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Under the new rule, overseas data centers that serve companies in countries including China, Russia, Iran and Cuba are required to identify their end users",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -652,8 +667,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-114713",
-        "CVE-2026-123039"
+        "CVE-2026-123039",
+        "CVE-2026-114713"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -741,24 +756,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Pentagon Renames CDAO ‘Super Intelligence Office’",
-    "link": "https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/",
-    "published": "Sun, 15 Nov 2026 12:51:33 +0000",
-    "summary": "<p>The move follows President Trump’s order to replace “artificial intelligence” with “super intelligence” in executive branch communications.</p>\n<p>The post <a href=\"https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/\">Pentagon Renames CDAO ‘Super Intelligence Office’</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The move follows President Trump’s order to replace “artificial intelligence” with “super intelligence” in executive branch communications",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "ARTEX and beyond: AI-enabled penetration testing platforms",
     "link": "https://blog.talosintelligence.com/artex-and-beyond/",
@@ -809,10 +806,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-118148",
-        "CVE-2026-113862",
         "CVE-2026-124194",
-        "CVE-2026-118146"
+        "CVE-2026-113862",
+        "CVE-2026-118146",
+        "CVE-2026-118148"
       ],
       "threat_categories": [
         "Vulnerability"

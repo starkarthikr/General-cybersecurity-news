@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-16 18:47:26 UTC
+**Last Updated:** 2026-11-16 21:51:01 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,34 @@
 
 ---
 
-### 11. [Microsoft says months-old bug caused global Microsoft 365 outage](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/)
+### 11. [Google Project Zero cuts bug disclosures to 30 days amid AI threats](https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 16 Nov 2026 16:31:44 -0500  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [California sues OpenAI over AI agents escaping sandboxes, hacking firms](https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 16 Nov 2026 15:59:44 -0500  
+**Severity:** High  
+**Categories:** Supply Chain  
+
+---
+
+### 13. [Barracuda links cloud breach to ARTEX AI-powered cyberattack](https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 16 Nov 2026 14:57:13 -0500  
+**Severity:** Low  
+**Categories:** Supply Chain  
+
+---
+
+### 14. [Microsoft says months-old bug caused global Microsoft 365 outage](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 16 Nov 2026 11:43:24 -0500  
@@ -104,7 +131,7 @@
 
 ---
 
-### 12. [Fandango says hackers stole payment card details from checkout pages](https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/)
+### 15. [Fandango says hackers stole payment card details from checkout pages](https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 16 Nov 2026 10:44:21 -0500  
@@ -113,7 +140,7 @@
 
 ---
 
-### 13. [7 Tips For Complying with CJIS Password and MFA Requirements](https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/)
+### 16. [7 Tips For Complying with CJIS Password and MFA Requirements](https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 16 Nov 2026 10:01:11 -0500  
@@ -122,7 +149,7 @@
 
 ---
 
-### 14. [Google warns that fully-automated AI attacks are coming soon](https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/)
+### 17. [Google warns that fully-automated AI attacks are coming soon](https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 16 Nov 2026 09:00:00 -0500  
@@ -131,7 +158,7 @@
 
 ---
 
-### 15. [Microsoft: Windows Server 2016 reaches end of support in 60 days](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/)
+### 18. [Microsoft: Windows Server 2016 reaches end of support in 60 days](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 16 Nov 2026 07:53:18 -0500  
@@ -140,7 +167,7 @@
 
 ---
 
-### 16. [Australian retail giant Coles investigates cybersecurity incident](https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/)
+### 19. [Australian retail giant Coles investigates cybersecurity incident](https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 16 Nov 2026 06:18:09 -0500  
@@ -149,40 +176,12 @@
 
 ---
 
-### 17. [Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/)
+### 20. [Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 16 Nov 2026 06:00:00 -0500  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 18. [New NoisyTCP vulnerability lets attackers crash Linux servers](https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 16 Nov 2026 04:30:04 -0500  
-**Severity:** Low  
-**CVEs:** CVE-2026-99288  
-**Categories:** Vulnerability, DDoS  
-
----
-
-### 19. [Microsoft pushes Windows emergency updates to fix activation failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 16 Nov 2026 03:26:52 -0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [FBI warns ARTEX AI hacking tool is powering global cyberattacks](https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Sun, 15 Nov 2026 13:29:53 -0500  
-**Severity:** Low  
-**Categories:** Vulnerability  
 
 ---
 
@@ -255,7 +254,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 13 Oct 2026 23:24:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-108398, CVE-2026-96951  
+**CVEs:** CVE-2026-96951, CVE-2026-108398  
 **Categories:** Vulnerability  
 
 ---
@@ -279,7 +278,16 @@
 
 ---
 
-### 31. [Cursor Supply Chain Attack Started at Fireworks AI](https://www.securityweek.com/cursor-supply-chain-attack-started-at-fireworks/)
+### 31. [Trump Administration Moves to Block China From Indirect Access to American AI Technology](https://www.securityweek.com/trump-administration-moves-to-block-china-from-indirect-access-to-american-ai-technology/)
+
+**Source:** Security Week  
+**Published:** Mon, 16 Nov 2026 20:00:00 +0000  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 32. [Cursor Supply Chain Attack Started at Fireworks AI](https://www.securityweek.com/cursor-supply-chain-attack-started-at-fireworks/)
 
 **Source:** Security Week  
 **Published:** Mon, 16 Nov 2026 15:45:43 +0000  
@@ -288,7 +296,7 @@
 
 ---
 
-### 32. [Google Project Zero Sets Course for 30-Day Disclosure Deadline](https://www.securityweek.com/google-project-zero-sets-course-for-30-day-disclosure-deadline/)
+### 33. [Google Project Zero Sets Course for 30-Day Disclosure Deadline](https://www.securityweek.com/google-project-zero-sets-course-for-30-day-disclosure-deadline/)
 
 **Source:** Security Week  
 **Published:** Mon, 16 Nov 2026 15:31:25 +0000  
@@ -297,7 +305,7 @@
 
 ---
 
-### 33. [Barracuda Hacked Amid Surge in Artex-Powered Cyberattacks](https://www.securityweek.com/barracuda-hacked-amid-surge-in-artex-powered-cyberattacks/)
+### 34. [Barracuda Hacked Amid Surge in Artex-Powered Cyberattacks](https://www.securityweek.com/barracuda-hacked-amid-surge-in-artex-powered-cyberattacks/)
 
 **Source:** Security Week  
 **Published:** Mon, 16 Nov 2026 15:07:32 +0000  
@@ -306,7 +314,7 @@
 
 ---
 
-### 34. [Telegram Widgets Hit by RCE Demos, Malware Warning Days After Launch](https://www.securityweek.com/telegram-widgets-hit-by-rce-demos-malware-warning-days-after-launch/)
+### 35. [Telegram Widgets Hit by RCE Demos, Malware Warning Days After Launch](https://www.securityweek.com/telegram-widgets-hit-by-rce-demos-malware-warning-days-after-launch/)
 
 **Source:** Security Week  
 **Published:** Mon, 16 Nov 2026 12:48:03 +0000  
@@ -315,17 +323,17 @@
 
 ---
 
-### 35. [Recent UnrealIRCd Vulnerability Exploited in Attacks](https://www.securityweek.com/recent-unrealircd-vulnerability-exploited-in-attacks/)
+### 36. [Recent UnrealIRCd Vulnerability Exploited in Attacks](https://www.securityweek.com/recent-unrealircd-vulnerability-exploited-in-attacks/)
 
 **Source:** Security Week  
 **Published:** Mon, 16 Nov 2026 11:15:48 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-114713, CVE-2026-123039  
+**CVEs:** CVE-2026-123039, CVE-2026-114713  
 **Categories:** Vulnerability  
 
 ---
 
-### 36. [Hackers Probe Newly Disclosed Flaws in Copeland Refrigeration Controllers](https://www.securityweek.com/hackers-probe-newly-disclosed-flaws-in-copeland-refrigeration-controllers/)
+### 37. [Hackers Probe Newly Disclosed Flaws in Copeland Refrigeration Controllers](https://www.securityweek.com/hackers-probe-newly-disclosed-flaws-in-copeland-refrigeration-controllers/)
 
 **Source:** Security Week  
 **Published:** Mon, 16 Nov 2026 11:05:42 +0000  
@@ -335,7 +343,7 @@
 
 ---
 
-### 37. [Uber Data Breach Impacts 150,000 People](https://www.securityweek.com/uber-data-breach-impacts-150000-people/)
+### 38. [Uber Data Breach Impacts 150,000 People](https://www.securityweek.com/uber-data-breach-impacts-150000-people/)
 
 **Source:** Security Week  
 **Published:** Mon, 16 Nov 2026 11:02:48 +0000  
@@ -344,7 +352,7 @@
 
 ---
 
-### 38. [Tor Updates DoS Defenses Again as Relay Attacks Continue](https://www.securityweek.com/tor-updates-dos-defenses-again-as-relay-attacks-continue/)
+### 39. [Tor Updates DoS Defenses Again as Relay Attacks Continue](https://www.securityweek.com/tor-updates-dos-defenses-again-as-relay-attacks-continue/)
 
 **Source:** Security Week  
 **Published:** Mon, 16 Nov 2026 08:55:32 +0000  
@@ -353,21 +361,12 @@
 
 ---
 
-### 39. [Microsoft Rules Out Cyberattack in Outage, Warns of Phishing Campaign](https://www.securityweek.com/microsoft-rules-out-cyberattack-in-outage-warns-of-phishing-campaign/)
+### 40. [Microsoft Rules Out Cyberattack in Outage, Warns of Phishing Campaign](https://www.securityweek.com/microsoft-rules-out-cyberattack-in-outage-warns-of-phishing-campaign/)
 
 **Source:** Security Week  
 **Published:** Mon, 16 Nov 2026 08:15:12 +0000  
 **Severity:** Low  
 **Categories:** Vulnerability, Malware, Phishing  
-
----
-
-### 40. [Pentagon Renames CDAO ‘Super Intelligence Office’](https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/)
-
-**Source:** Security Week  
-**Published:** Sun, 15 Nov 2026 12:51:33 +0000  
-**Severity:** Critical  
-**Categories:** General Security  
 
 ---
 
@@ -394,7 +393,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 11 Nov 2026 01:41:17 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-118148, CVE-2026-113862, CVE-2026-124194, CVE-2026-118146  
+**CVEs:** CVE-2026-124194, CVE-2026-113862, CVE-2026-118146, CVE-2026-118148  
 **Categories:** Vulnerability  
 
 ---
