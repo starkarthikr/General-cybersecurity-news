@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
+    "link": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html",
+    "published": "Tue, 17 Nov 2026 12:42:13 +0530",
+    "summary": "An attacker exploited a flaw in Optimizely Web Experimentation to plant malicious code in some of the scripts that customers' websites load from the service, Optimizely said early today.\n\nVisitors to sites run by at least 178 organizations, including CNN, the BBC and Zoom, received the code yesterday, according to Report URI, a firm that monitors the scripts websites run.\n\nThe code was built to",
+    "analysis": {
+      "issue": "Attackers exploited an Optimizely flaw to serve card skimmers, crypto wallet swappers and iOS exploit kits through scripts used by 178 organizations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
     "link": "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html",
     "published": "Tue, 17 Nov 2026 11:59:27 +0530",
@@ -165,20 +183,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
-    "link": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
-    "published": "Sun, 15 Nov 2026 16:57:31 +0530",
-    "summary": "Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post.\n\nThe Garante, Italy's data protection authority, found that the feature was enabled by default and that the app accessed Italian users' photos, videos, and related metadata without their explicit consent.\n\nThe company has 60 days to",
+    "source": "Bleeping Computer",
+    "title": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
+    "link": "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/",
+    "published": "Tue, 17 Nov 2026 02:25:44 -0500",
+    "summary": "A Kazakh national has been extradited from Italy to face charges alleging he targeted US schools, hospitals, and healthcare entities in ransomware attacks. [...]",
     "analysis": {
-      "issue": "Italy fined Meta €805 million over Facebook's Android gallery access without explicit consent, ordering changes within 60 days",
+      "issue": "A Kazakh national has been extradited from Italy to face charges alleging he targeted US schools, hospitals, and healthcare entities in ransomware attacks",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Ransomware"
       ]
     }
   },
@@ -348,24 +366,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Microsoft: Windows Server 2016 reaches end of support in 60 days",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/",
-    "published": "Mon, 16 Nov 2026 07:53:18 -0500",
-    "summary": "Microsoft has reminded customers again that Windows Server 2016 will stop receiving security updates after it reaches the end of support in two months. [...]",
-    "analysis": {
-      "issue": "Microsoft has reminded customers again that Windows Server 2016 will stop receiving security updates after it reaches the end of support in two months",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Who Runs the Ransomware Group Qilin?",
     "link": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
@@ -509,8 +509,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-108398",
-        "CVE-2026-96951"
+        "CVE-2026-96951",
+        "CVE-2026-108398"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -667,8 +667,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-123039",
-        "CVE-2026-114713"
+        "CVE-2026-114713",
+        "CVE-2026-123039"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -688,8 +688,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-124010",
-        "CVE-2026-124014"
+        "CVE-2026-124014",
+        "CVE-2026-124010"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -808,8 +808,8 @@
       "cves": [
         "CVE-2026-118146",
         "CVE-2026-113862",
-        "CVE-2026-118148",
-        "CVE-2026-124194"
+        "CVE-2026-124194",
+        "CVE-2026-118148"
       ],
       "threat_categories": [
         "Vulnerability"
