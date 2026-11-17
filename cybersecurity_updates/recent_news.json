@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
+    "link": "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html",
+    "published": "Tue, 17 Nov 2026 11:59:27 +0530",
+    "summary": "ConnectWise on Monday said it completed its investigation into unauthorized access targeting partner ScreenConnect environments, and recommended customers to ensure that the technician client is running version 26.6.5 or later.\n\nThe company said additional activity targeting on-premises environments continues to be reported where the identified third-party extensions remain enabled, and",
+    "analysis": {
+      "issue": "ConnectWise disabled five ScreenConnect extensions across 400 partner environments amid continued activity targeting unpatched on-premises systems",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
+    "link": "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html",
+    "published": "Tue, 17 Nov 2026 10:30:34 +0530",
+    "summary": "N-able has released a new security update to address additional critical security flaws impacting N-central.\n\nDescribing N-central 2026.4 Hotfix 3 as a critical security update, the company said it includes a number of security patches and fixes that enhance the security of the Remote Monitoring and Management (RMM) and Unified Endpoint Management (UEM) platform.\n\n\"HF3 builds on the",
+    "analysis": {
+      "issue": "N-able patches 17 N-central flaws in Hotfix 3, removes legacy APIs, and urges Agent and Probe upgrades amid exploitation of earlier bugs",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
     "link": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
     "published": "Mon, 16 Nov 2026 19:30:00 +0530",
@@ -147,40 +183,40 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
-    "link": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
-    "published": "Sun, 15 Nov 2026 13:52:04 +0530",
-    "summary": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI.\n\n\"An attacker obtained an access key we had issued to Fireworks,\" Cursor said in a Friday update. \"The key was exposed by Fireworks, and the attacker used it to copy data from a read-only",
+    "source": "Bleeping Computer",
+    "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+    "link": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
+    "published": "Mon, 16 Nov 2026 21:12:17 -0500",
+    "summary": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors to scripts designed to steal cryptocurrency and payment information and exploit vulnerabilities in iOS devices. [...]",
     "analysis": {
-      "issue": "Cursor says a stolen Fireworks AI key enabled data theft and a Claude Code extension compromise that potentially affected up to 5,000 users",
+      "issue": "A supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors to scripts designed to steal cryptocurrency and paymen",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "Vulnerability",
+        "Malware",
+        "Supply Chain"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
-    "link": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
-    "published": "Sat, 14 Nov 2026 18:08:35 +0530",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation.\n\nThe vulnerability, tracked as CVE-2026-114713 (CVSS score: 8.6), is a case of improper neutralization of delimiters",
+    "source": "Bleeping Computer",
+    "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
+    "link": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
+    "published": "Mon, 16 Nov 2026 17:54:00 -0500",
+    "summary": "Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent increasingly restrictive security controls designed to prevent them from accessing live systems. [...]",
     "analysis": {
-      "issue": "CISA adds actively exploited UnrealIRCd flaw CVE-2026-114713 to its KEV catalog; linked IRC servers are at risk of command injection",
+      "issue": "Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent increasingly restrictive security controls designed to prevent them from accessing live systems",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [
-        "CVE-2026-114713"
-      ],
+      "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "General Security"
       ]
     }
   },
@@ -319,42 +355,6 @@
     "summary": "Microsoft has reminded customers again that Windows Server 2016 will stop receiving security updates after it reaches the end of support in two months. [...]",
     "analysis": {
       "issue": "Microsoft has reminded customers again that Windows Server 2016 will stop receiving security updates after it reaches the end of support in two months",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Australian retail giant Coles investigates cybersecurity incident",
-    "link": "https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/",
-    "published": "Mon, 16 Nov 2026 06:18:09 -0500",
-    "summary": "Coles Group Limited, Australia's second-largest retailer, is investigating what it described as a \"cyber security incident\" that has not impacted the company's stores. [...]",
-    "analysis": {
-      "issue": "Coles Group Limited, Australia's second-largest retailer, is investigating what it described as a \"cyber security incident\" that has not impacted the company's stores",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/",
-    "published": "Mon, 16 Nov 2026 06:00:00 -0500",
-    "summary": "Anthropic recently rolled out Claude Mythos 5.2 to selected partners and Fable 5.2 to regular users, with improvements to coding and reasoning. But we also noticed some interesting cybersecurity changes. [...]",
-    "analysis": {
-      "issue": "Anthropic recently rolled out Claude Mythos 5",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -509,8 +509,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-96951",
-        "CVE-2026-108398"
+        "CVE-2026-108398",
+        "CVE-2026-96951"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -688,8 +688,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-124014",
-        "CVE-2026-124010"
+        "CVE-2026-124010",
+        "CVE-2026-124014"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -806,10 +806,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-124194",
-        "CVE-2026-113862",
         "CVE-2026-118146",
-        "CVE-2026-118148"
+        "CVE-2026-113862",
+        "CVE-2026-118148",
+        "CVE-2026-124194"
       ],
       "threat_categories": [
         "Vulnerability"

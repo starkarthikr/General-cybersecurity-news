@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-16 21:51:01 UTC
+**Last Updated:** 2026-11-17 07:26:02 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches](https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html)
+### 1. [ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems](https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 17 Nov 2026 11:59:27 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners](https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 17 Nov 2026 10:30:34 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches](https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 16 Nov 2026 19:30:00 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days](https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html)
+### 4. [⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days](https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 16 Nov 2026 18:57:20 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login](https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html)
+### 5. [Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login](https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 16 Nov 2026 18:04:21 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware](https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html)
+### 6. [Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware](https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 16 Nov 2026 18:03:18 +0530  
@@ -40,7 +58,7 @@
 
 ---
 
-### 5. [SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity](https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html)
+### 7. [SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity](https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 16 Nov 2026 15:02:57 +0530  
@@ -49,7 +67,7 @@
 
 ---
 
-### 6. [Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys](https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html)
+### 8. [Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys](https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 16 Nov 2026 13:04:21 +0530  
@@ -58,7 +76,7 @@
 
 ---
 
-### 7. [BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server](https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html)
+### 9. [BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server](https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 16 Nov 2026 12:23:34 +0530  
@@ -67,7 +85,7 @@
 
 ---
 
-### 8. [Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent](https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html)
+### 10. [Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent](https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 15 Nov 2026 16:57:31 +0530  
@@ -76,26 +94,25 @@
 
 ---
 
-### 9. [Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident](https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html)
+### 11. [Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware](https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/)
 
-**Source:** The Hacker News  
-**Published:** Sun, 15 Nov 2026 13:52:04 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 16 Nov 2026 21:12:17 -0500  
 **Severity:** Low  
-**Categories:** Malware  
+**Categories:** Vulnerability, Malware, Supply Chain  
 
 ---
 
-### 10. [Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection](https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html)
+### 12. [Gemini AI agents repeatedly bypassed safeguards to attack real website](https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/)
 
-**Source:** The Hacker News  
-**Published:** Sat, 14 Nov 2026 18:08:35 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 16 Nov 2026 17:54:00 -0500  
 **Severity:** Low  
-**CVEs:** CVE-2026-114713  
-**Categories:** Vulnerability  
+**Categories:** General Security  
 
 ---
 
-### 11. [Google Project Zero cuts bug disclosures to 30 days amid AI threats](https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/)
+### 13. [Google Project Zero cuts bug disclosures to 30 days amid AI threats](https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 16 Nov 2026 16:31:44 -0500  
@@ -104,7 +121,7 @@
 
 ---
 
-### 12. [California sues OpenAI over AI agents escaping sandboxes, hacking firms](https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/)
+### 14. [California sues OpenAI over AI agents escaping sandboxes, hacking firms](https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 16 Nov 2026 15:59:44 -0500  
@@ -113,7 +130,7 @@
 
 ---
 
-### 13. [Barracuda links cloud breach to ARTEX AI-powered cyberattack](https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/)
+### 15. [Barracuda links cloud breach to ARTEX AI-powered cyberattack](https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 16 Nov 2026 14:57:13 -0500  
@@ -122,7 +139,7 @@
 
 ---
 
-### 14. [Microsoft says months-old bug caused global Microsoft 365 outage](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/)
+### 16. [Microsoft says months-old bug caused global Microsoft 365 outage](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 16 Nov 2026 11:43:24 -0500  
@@ -131,7 +148,7 @@
 
 ---
 
-### 15. [Fandango says hackers stole payment card details from checkout pages](https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/)
+### 17. [Fandango says hackers stole payment card details from checkout pages](https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 16 Nov 2026 10:44:21 -0500  
@@ -140,7 +157,7 @@
 
 ---
 
-### 16. [7 Tips For Complying with CJIS Password and MFA Requirements](https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/)
+### 18. [7 Tips For Complying with CJIS Password and MFA Requirements](https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 16 Nov 2026 10:01:11 -0500  
@@ -149,7 +166,7 @@
 
 ---
 
-### 17. [Google warns that fully-automated AI attacks are coming soon](https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/)
+### 19. [Google warns that fully-automated AI attacks are coming soon](https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 16 Nov 2026 09:00:00 -0500  
@@ -158,28 +175,10 @@
 
 ---
 
-### 18. [Microsoft: Windows Server 2016 reaches end of support in 60 days](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/)
+### 20. [Microsoft: Windows Server 2016 reaches end of support in 60 days](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 16 Nov 2026 07:53:18 -0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 19. [Australian retail giant Coles investigates cybersecurity incident](https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 16 Nov 2026 06:18:09 -0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 16 Nov 2026 06:00:00 -0500  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -254,7 +253,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 13 Oct 2026 23:24:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-96951, CVE-2026-108398  
+**CVEs:** CVE-2026-108398, CVE-2026-96951  
 **Categories:** Vulnerability  
 
 ---
@@ -338,7 +337,7 @@
 **Source:** Security Week  
 **Published:** Mon, 16 Nov 2026 11:05:42 +0000  
 **Severity:** Low  
-**CVEs:** CVE-2026-124014, CVE-2026-124010  
+**CVEs:** CVE-2026-124010, CVE-2026-124014  
 **Categories:** Vulnerability  
 
 ---
@@ -393,7 +392,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 11 Nov 2026 01:41:17 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-124194, CVE-2026-113862, CVE-2026-118146, CVE-2026-118148  
+**CVEs:** CVE-2026-118146, CVE-2026-113862, CVE-2026-118148, CVE-2026-124194  
 **Categories:** Vulnerability  
 
 ---
