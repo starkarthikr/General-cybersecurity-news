@@ -1,10 +1,38 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-17 17:46:40 UTC
+**Last Updated:** 2026-11-17 20:41:59 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap](https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html)
+### 1. [Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses](https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 18 Nov 2026 01:04:20 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges](https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 17 Nov 2026 20:47:36 +0530  
+**Severity:** Critical  
+**CVEs:** CVE-2026-114938  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers](https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 17 Nov 2026 20:47:28 +0530  
+**Severity:** Low  
+**Categories:** Malware, Phishing  
+
+---
+
+### 4. [Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap](https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 17 Nov 2026 17:55:06 +0530  
@@ -13,7 +41,7 @@
 
 ---
 
-### 2. [Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission](https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html)
+### 5. [Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission](https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 17 Nov 2026 17:44:36 +0530  
@@ -23,7 +51,7 @@
 
 ---
 
-### 3. [New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels](https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html)
+### 6. [New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels](https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 17 Nov 2026 16:50:18 +0530  
@@ -32,7 +60,7 @@
 
 ---
 
-### 4. [Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks](https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html)
+### 7. [Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks](https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 17 Nov 2026 16:37:31 +0530  
@@ -41,7 +69,7 @@
 
 ---
 
-### 5. [Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors](https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html)
+### 8. [Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors](https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 17 Nov 2026 12:42:13 +0530  
@@ -50,7 +78,7 @@
 
 ---
 
-### 6. [ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems](https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html)
+### 9. [ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems](https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 17 Nov 2026 11:59:27 +0530  
@@ -59,7 +87,7 @@
 
 ---
 
-### 7. [N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners](https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html)
+### 10. [N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners](https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 17 Nov 2026 10:30:34 +0530  
@@ -68,34 +96,34 @@
 
 ---
 
-### 8. [Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches](https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html)
+### 11. [Apple reports outages affecting iCloud Mail, AppleCare and more](https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/)
 
-**Source:** The Hacker News  
-**Published:** Mon, 16 Nov 2026 19:30:00 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability, Phishing  
-
----
-
-### 9. [⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days](https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 16 Nov 2026 18:57:20 +0530  
-**Severity:** Critical  
-**Categories:** Vulnerability, Supply Chain  
-
----
-
-### 10. [Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login](https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 16 Nov 2026 18:04:21 +0530  
+**Source:** Bleeping Computer  
+**Published:** Tue, 17 Nov 2026 14:24:07 -0500  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 11. [Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool](https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/)
+### 12. [Researchers hijack Hugging Face account for popular Kokoro AI model](https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 17 Nov 2026 13:21:24 -0500  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 13. [Tor releases emergency update amid ongoing DDoS attack](https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 17 Nov 2026 13:04:15 -0500  
+**Severity:** Low  
+**Categories:** DDoS  
+
+---
+
+### 14. [Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool](https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 17 Nov 2026 11:00:00 -0500  
@@ -104,7 +132,7 @@
 
 ---
 
-### 12. [Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions](https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/)
+### 15. [Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions](https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 17 Nov 2026 10:01:11 -0500  
@@ -113,7 +141,7 @@
 
 ---
 
-### 13. [Microsoft testing Remote Lock for lost or stolen Windows devices](https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/)
+### 16. [Microsoft testing Remote Lock for lost or stolen Windows devices](https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 17 Nov 2026 06:19:51 -0500  
@@ -122,7 +150,7 @@
 
 ---
 
-### 14. [Court clears brothers of $25 million Ethereum crypto heist charges](https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/)
+### 17. [Court clears brothers of $25 million Ethereum crypto heist charges](https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 17 Nov 2026 04:44:22 -0500  
@@ -131,7 +159,7 @@
 
 ---
 
-### 15. [Uber notifies drivers of data breach affecting nearly 150,000 people](https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/)
+### 18. [Uber notifies drivers of data breach affecting nearly 150,000 people](https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 17 Nov 2026 03:35:42 -0500  
@@ -140,7 +168,7 @@
 
 ---
 
-### 16. [Ransomware affiliate suspect extradited to US, faces 27 years in prison](https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/)
+### 19. [Ransomware affiliate suspect extradited to US, faces 27 years in prison](https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 17 Nov 2026 02:25:44 -0500  
@@ -149,39 +177,12 @@
 
 ---
 
-### 17. [Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware](https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/)
+### 20. [Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware](https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 16 Nov 2026 21:12:17 -0500  
 **Severity:** Low  
 **Categories:** Vulnerability, Malware, Supply Chain  
-
----
-
-### 18. [Gemini AI agents repeatedly bypassed safeguards to attack real website](https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 16 Nov 2026 17:54:00 -0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 19. [Google Project Zero cuts bug disclosures to 30 days amid AI threats](https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 16 Nov 2026 16:31:44 -0500  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 20. [California sues OpenAI over AI agents escaping sandboxes, hacking firms](https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 16 Nov 2026 15:59:44 -0500  
-**Severity:** High  
-**Categories:** Supply Chain  
 
 ---
 
@@ -254,7 +255,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 13 Oct 2026 23:24:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-108398, CVE-2026-96951  
+**CVEs:** CVE-2026-96951, CVE-2026-108398  
 **Categories:** Vulnerability  
 
 ---
@@ -278,7 +279,16 @@
 
 ---
 
-### 31. [Market Research Giant Ipsos Investigating Breach of Internal System](https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/)
+### 31. [AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says](https://www.securityweek.com/ai-framework-autonomously-weaponized-flaws-in-real-attacks-google-says/)
+
+**Source:** Security Week  
+**Published:** Tue, 17 Nov 2026 18:16:17 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, Phishing, APT  
+
+---
+
+### 32. [Market Research Giant Ipsos Investigating Breach of Internal System](https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/)
 
 **Source:** Security Week  
 **Published:** Tue, 17 Nov 2026 14:55:30 +0000  
@@ -287,7 +297,7 @@
 
 ---
 
-### 32. [Fandango Warns Ticket Buyers of Payment Card Data Exposure](https://www.securityweek.com/fandango-warns-ticket-buyers-of-payment-card-data-exposure/)
+### 33. [Fandango Warns Ticket Buyers of Payment Card Data Exposure](https://www.securityweek.com/fandango-warns-ticket-buyers-of-payment-card-data-exposure/)
 
 **Source:** Security Week  
 **Published:** Tue, 17 Nov 2026 14:14:24 +0000  
@@ -296,7 +306,7 @@
 
 ---
 
-### 33. [Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool](https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/)
+### 34. [Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool](https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/)
 
 **Source:** Security Week  
 **Published:** Tue, 17 Nov 2026 14:00:00 +0000  
@@ -305,7 +315,7 @@
 
 ---
 
-### 34. [MSP ScreenConnect Servers Targeted in Month-Long Campaign](https://www.securityweek.com/msp-screenconnect-servers-targeted-in-month-long-campaign/)
+### 35. [MSP ScreenConnect Servers Targeted in Month-Long Campaign](https://www.securityweek.com/msp-screenconnect-servers-targeted-in-month-long-campaign/)
 
 **Source:** Security Week  
 **Published:** Tue, 17 Nov 2026 13:24:43 +0000  
@@ -315,7 +325,7 @@
 
 ---
 
-### 35. [Access Dental Management Data Breach Impacts Over 340,000](https://www.securityweek.com/access-dental-management-data-breach-impacts-over-340000/)
+### 36. [Access Dental Management Data Breach Impacts Over 340,000](https://www.securityweek.com/access-dental-management-data-breach-impacts-over-340000/)
 
 **Source:** Security Week  
 **Published:** Tue, 17 Nov 2026 12:59:04 +0000  
@@ -324,7 +334,7 @@
 
 ---
 
-### 36. [Corma Receives $125 Million to Train Foundation Models for Defensive Cybersecurity](https://www.securityweek.com/corma-receives-125-million-to-train-foundation-models-for-defensive-cybersecurity/)
+### 37. [Corma Receives $125 Million to Train Foundation Models for Defensive Cybersecurity](https://www.securityweek.com/corma-receives-125-million-to-train-foundation-models-for-defensive-cybersecurity/)
 
 **Source:** Security Week  
 **Published:** Tue, 17 Nov 2026 12:51:54 +0000  
@@ -333,17 +343,17 @@
 
 ---
 
-### 37. [N-able Kills Legacy APIs, Patches 17 N-central Zero-Days](https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days/)
+### 38. [N-able Kills Legacy APIs, Patches 17 N-central Zero-Days](https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days/)
 
 **Source:** Security Week  
 **Published:** Tue, 17 Nov 2026 12:28:45 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-129271, CVE-2026-129287, CVE-2026-90436  
+**CVEs:** CVE-2026-129287, CVE-2026-129271, CVE-2026-90436  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 38. [California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack](https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/)
+### 39. [California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack](https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/)
 
 **Source:** Security Week  
 **Published:** Tue, 17 Nov 2026 12:00:00 +0000  
@@ -352,21 +362,12 @@
 
 ---
 
-### 39. [Optimizely Vulnerability Exploited to Serve Malware on Major Websites](https://www.securityweek.com/optimizely-vulnerability-exploited-to-serve-malware-on-major-websites/)
+### 40. [Optimizely Vulnerability Exploited to Serve Malware on Major Websites](https://www.securityweek.com/optimizely-vulnerability-exploited-to-serve-malware-on-major-websites/)
 
 **Source:** Security Week  
 **Published:** Tue, 17 Nov 2026 10:22:20 +0000  
 **Severity:** Critical  
 **Categories:** Vulnerability, Malware, Phishing, Supply Chain  
-
----
-
-### 40. [Trump Administration Moves to Block China From Indirect Access to American AI Technology](https://www.securityweek.com/trump-administration-moves-to-block-china-from-indirect-access-to-american-ai-technology/)
-
-**Source:** Security Week  
-**Published:** Mon, 16 Nov 2026 20:00:00 +0000  
-**Severity:** High  
-**Categories:** General Security  
 
 ---
 
@@ -393,7 +394,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 11 Nov 2026 01:41:17 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-124194, CVE-2026-118146, CVE-2026-118148, CVE-2026-113862  
+**CVEs:** CVE-2026-118146, CVE-2026-124194, CVE-2026-118148, CVE-2026-113862  
 **Categories:** Vulnerability  
 
 ---
@@ -632,7 +633,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -647,7 +648,16 @@
 
 ---
 
-### 71. [“Amazon” job offer promises $5,000 a month, but it’s got all the signs of a scam](https://www.malwarebytes.com/blog/threat-intel/2026/11/amazon-job-offer-promises-5000-a-month-but-its-got-all-the-signs-of-a-scam)
+### 71. [OpenAI lost control of AI agents over 80 times, California alleges](https://www.malwarebytes.com/blog/ai/2026/11/openai-lost-control-of-ai-agents-over-80-times-california-alleges)
+
+**Source:** Malwarebytes  
+**Published:** Tue, 17 Nov 2026 18:29:25 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 72. [“Amazon” job offer promises $5,000 a month, but it’s got all the signs of a scam](https://www.malwarebytes.com/blog/threat-intel/2026/11/amazon-job-offer-promises-5000-a-month-but-its-got-all-the-signs-of-a-scam)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 17 Nov 2026 13:37:48 GMT  
@@ -656,7 +666,7 @@
 
 ---
 
-### 72. [CNN, BBC, Zoom, and other sites served malicious code in supply-chain attack](https://www.malwarebytes.com/blog/news/2026/11/cnn-bbc-zoom-and-other-sites-served-malicious-code-in-supply-chain-attack)
+### 73. [CNN, BBC, Zoom, and other sites served malicious code in supply-chain attack](https://www.malwarebytes.com/blog/news/2026/11/cnn-bbc-zoom-and-other-sites-served-malicious-code-in-supply-chain-attack)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 17 Nov 2026 12:51:03 GMT  
@@ -665,7 +675,7 @@
 
 ---
 
-### 73. [Facebook may have access to your entire photo gallery](https://www.malwarebytes.com/blog/mobile/2026/11/facebook-may-have-access-to-your-entire-photo-gallery)
+### 74. [Facebook may have access to your entire photo gallery](https://www.malwarebytes.com/blog/mobile/2026/11/facebook-may-have-access-to-your-entire-photo-gallery)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 17 Nov 2026 11:34:09 GMT  
@@ -674,7 +684,7 @@
 
 ---
 
-### 74. [Holiday shopping in a world of fakes: How AI is changing the game](https://www.malwarebytes.com/blog/threat-intel/2026/11/holiday-shopping-in-a-world-of-fakes-how-ai-is-changing-the-game)
+### 75. [Holiday shopping in a world of fakes: How AI is changing the game](https://www.malwarebytes.com/blog/threat-intel/2026/11/holiday-shopping-in-a-world-of-fakes-how-ai-is-changing-the-game)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 17 Nov 2026 11:29:09 GMT  
@@ -683,7 +693,7 @@
 
 ---
 
-### 75. [Hijacked Bitly links turn old brand posts into offensive redirects](https://www.malwarebytes.com/blog/news/2026/11/hijacked-bitly-links-turn-old-brand-posts-into-offensive-redirects)
+### 76. [Hijacked Bitly links turn old brand posts into offensive redirects](https://www.malwarebytes.com/blog/news/2026/11/hijacked-bitly-links-turn-old-brand-posts-into-offensive-redirects)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 16 Nov 2026 13:50:47 GMT  
@@ -692,7 +702,7 @@
 
 ---
 
-### 76. [Fake Prime Gaming x FC 27 reward site harvests EA passwords and 2FA codes](https://www.malwarebytes.com/blog/threat-intel/2026/11/fake-prime-gaming-x-fc-27-reward-site-harvests-ea-passwords-and-2fa-codes)
+### 77. [Fake Prime Gaming x FC 27 reward site harvests EA passwords and 2FA codes](https://www.malwarebytes.com/blog/threat-intel/2026/11/fake-prime-gaming-x-fc-27-reward-site-harvests-ea-passwords-and-2fa-codes)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 16 Nov 2026 13:38:18 GMT  
@@ -701,7 +711,7 @@
 
 ---
 
-### 77. [Criminals are using ARTEX AI agents to speed up cyberattacks, FBI warns](https://www.malwarebytes.com/blog/ai/2026/11/criminals-are-using-artex-ai-agents-to-speed-up-cyberattacks-fbi-warns)
+### 78. [Criminals are using ARTEX AI agents to speed up cyberattacks, FBI warns](https://www.malwarebytes.com/blog/ai/2026/11/criminals-are-using-artex-ai-agents-to-speed-up-cyberattacks-fbi-warns)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 16 Nov 2026 13:34:35 GMT  
@@ -710,7 +720,7 @@
 
 ---
 
-### 78. [How to prepare your digital accounts for after your death](https://www.malwarebytes.com/blog/how-to/2026/11/how-to-prepare-your-digital-accounts-for-after-your-death)
+### 79. [How to prepare your digital accounts for after your death](https://www.malwarebytes.com/blog/how-to/2026/11/how-to-prepare-your-digital-accounts-for-after-your-death)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 16 Nov 2026 12:52:51 GMT  
@@ -719,21 +729,12 @@
 
 ---
 
-### 79. [How to prepare your data for your death (Lock and Code S07E23)](https://www.malwarebytes.com/blog/podcast/2026/11/how-to-prepare-your-data-for-your-death-lock-and-code-s07e23)
+### 80. [How to prepare your data for your death (Lock and Code S07E23)](https://www.malwarebytes.com/blog/podcast/2026/11/how-to-prepare-your-data-for-your-death-lock-and-code-s07e23)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 16 Nov 2026 12:20:44 GMT  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 80. [A week in security (November 9 – November 15)](https://www.malwarebytes.com/blog/uncategorized/2026/11/a-week-in-security-november-9-november-15-2)
-
-**Source:** Malwarebytes  
-**Published:** Mon, 16 Nov 2026 08:01:00 GMT  
-**Severity:** Low  
-**Categories:** Malware, Phishing  
 
 ---
 
@@ -827,49 +828,49 @@
 
 ---
 
-### 91. [Siemens Mendix Studio Pro](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-05)
+### 91. [Dorsett Controls InfoScan](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-01)
 
 **Source:** Cisa Alerts  
 **Published:** Tue, 17 Nov 26 12:00:00 +0000  
 
 ---
 
-### 92. [Siemens .NET Client Library for SIMATIC S7 Webserver API](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-02)
+### 92. [Siemens Mendix Studio Pro](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-05)
 
 **Source:** Cisa Alerts  
 **Published:** Tue, 17 Nov 26 12:00:00 +0000  
 
 ---
 
-### 93. [Siemens meta-iot2050](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11)
+### 93. [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog)
 
 **Source:** Cisa Alerts  
 **Published:** Tue, 17 Nov 26 12:00:00 +0000  
 
 ---
 
-### 94. [Siemens SIMATIC WinCC](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-09)
+### 94. [Siemens meta-iot2050](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11)
 
 **Source:** Cisa Alerts  
 **Published:** Tue, 17 Nov 26 12:00:00 +0000  
 
 ---
 
-### 95. [Siemens RUGGEDCOM APE1808](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07)
+### 95. [Siemens SIMATIC WinCC](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-09)
 
 **Source:** Cisa Alerts  
 **Published:** Tue, 17 Nov 26 12:00:00 +0000  
 
 ---
 
-### 96. [Dorsett Controls InfoScan](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-01)
+### 96. [Siemens RUGGEDCOM APE1808](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07)
 
 **Source:** Cisa Alerts  
 **Published:** Tue, 17 Nov 26 12:00:00 +0000  
 
 ---
 
-### 97. [Siemens Industrial Software Products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-04)
+### 97. [Siemens .NET Client Library for SIMATIC S7 Webserver API](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-02)
 
 **Source:** Cisa Alerts  
 **Published:** Tue, 17 Nov 26 12:00:00 +0000  
@@ -890,7 +891,7 @@
 
 ---
 
-### 100. [Siemens ROS#](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06)
+### 100. [Siemens Industrial Software Products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-04)
 
 **Source:** Cisa Alerts  
 **Published:** Tue, 17 Nov 26 12:00:00 +0000  
