@@ -1,10 +1,29 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-17 20:41:59 UTC
+**Last Updated:** 2026-11-18 06:50:44 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses](https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html)
+### 1. [Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization](https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 18 Nov 2026 11:28:04 +0530  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 2. [Java4Shell (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak on Java 17+ AVX-512 VBMI Servers](https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 18 Nov 2026 09:57:41 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-114938  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses](https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 18 Nov 2026 01:04:20 +0530  
@@ -13,7 +32,7 @@
 
 ---
 
-### 2. [Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges](https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html)
+### 4. [Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges](https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 17 Nov 2026 20:47:36 +0530  
@@ -23,7 +42,7 @@
 
 ---
 
-### 3. [Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers](https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html)
+### 5. [Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers](https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 17 Nov 2026 20:47:28 +0530  
@@ -32,7 +51,7 @@
 
 ---
 
-### 4. [Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap](https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html)
+### 6. [Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap](https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 17 Nov 2026 17:55:06 +0530  
@@ -41,7 +60,7 @@
 
 ---
 
-### 5. [Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission](https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html)
+### 7. [Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission](https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 17 Nov 2026 17:44:36 +0530  
@@ -51,7 +70,7 @@
 
 ---
 
-### 6. [New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels](https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html)
+### 8. [New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels](https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 17 Nov 2026 16:50:18 +0530  
@@ -60,7 +79,7 @@
 
 ---
 
-### 7. [Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks](https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html)
+### 9. [Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks](https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 17 Nov 2026 16:37:31 +0530  
@@ -69,7 +88,7 @@
 
 ---
 
-### 8. [Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors](https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html)
+### 10. [Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors](https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 17 Nov 2026 12:42:13 +0530  
@@ -78,25 +97,35 @@
 
 ---
 
-### 9. [ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems](https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html)
+### 11. [Critical Java4Shell flaw allows RCE attacks on major Java applications](https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 17 Nov 2026 11:59:27 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners](https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 17 Nov 2026 10:30:34 +0530  
-**Severity:** Low  
+**Source:** Bleeping Computer  
+**Published:** Tue, 17 Nov 2026 18:04:21 -0500  
+**Severity:** Critical  
+**CVEs:** CVE-2026-114938  
 **Categories:** Vulnerability  
 
 ---
 
-### 11. [Apple reports outages affecting iCloud Mail, AppleCare and more](https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/)
+### 12. [Cloud keys leaked in Docker Hub images are stolen within seconds](https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 17 Nov 2026 16:27:17 -0500  
+**Severity:** Low  
+**Categories:** Data Breach, Vulnerability  
+
+---
+
+### 13. [Japan takes Fugaku supercomputer offlline after cyberattack](https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 17 Nov 2026 15:51:21 -0500  
+**Severity:** Low  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 14. [Apple reports outages affecting iCloud Mail, AppleCare and more](https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 17 Nov 2026 14:24:07 -0500  
@@ -105,7 +134,7 @@
 
 ---
 
-### 12. [Researchers hijack Hugging Face account for popular Kokoro AI model](https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/)
+### 15. [Researchers hijack Hugging Face account for popular Kokoro AI model](https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 17 Nov 2026 13:21:24 -0500  
@@ -114,7 +143,7 @@
 
 ---
 
-### 13. [Tor releases emergency update amid ongoing DDoS attack](https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/)
+### 16. [Tor releases emergency update amid ongoing DDoS attack](https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 17 Nov 2026 13:04:15 -0500  
@@ -123,7 +152,7 @@
 
 ---
 
-### 14. [Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool](https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/)
+### 17. [Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool](https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 17 Nov 2026 11:00:00 -0500  
@@ -132,7 +161,7 @@
 
 ---
 
-### 15. [Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions](https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/)
+### 18. [Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions](https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 17 Nov 2026 10:01:11 -0500  
@@ -141,7 +170,7 @@
 
 ---
 
-### 16. [Microsoft testing Remote Lock for lost or stolen Windows devices](https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/)
+### 19. [Microsoft testing Remote Lock for lost or stolen Windows devices](https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 17 Nov 2026 06:19:51 -0500  
@@ -150,7 +179,7 @@
 
 ---
 
-### 17. [Court clears brothers of $25 million Ethereum crypto heist charges](https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/)
+### 20. [Court clears brothers of $25 million Ethereum crypto heist charges](https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 17 Nov 2026 04:44:22 -0500  
@@ -159,34 +188,16 @@
 
 ---
 
-### 18. [Uber notifies drivers of data breach affecting nearly 150,000 people](https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/)
+### 21. [Attackers Used Optimizely to A/B Test Malware on Top Websites](https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/)
 
-**Source:** Bleeping Computer  
-**Published:** Tue, 17 Nov 2026 03:35:42 -0500  
-**Severity:** Critical  
-**Categories:** Data Breach, Supply Chain  
-
----
-
-### 19. [Ransomware affiliate suspect extradited to US, faces 27 years in prison](https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 17 Nov 2026 02:25:44 -0500  
-**Severity:** High  
-**Categories:** Ransomware  
-
----
-
-### 20. [Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware](https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 16 Nov 2026 21:12:17 -0500  
+**Source:** Krebs On Security  
+**Published:** Wed, 18 Nov 2026 02:52:04 +0000  
 **Severity:** Low  
 **Categories:** Vulnerability, Malware, Supply Chain  
 
 ---
 
-### 21. [Who Runs the Ransomware Group Qilin?](https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/)
+### 22. [Who Runs the Ransomware Group Qilin?](https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Nov 2026 18:06:01 +0000  
@@ -195,7 +206,7 @@
 
 ---
 
-### 22. [Microsoft Fixes Nearly 1,100 Security Vulnerabilities](https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/)
+### 23. [Microsoft Fixes Nearly 1,100 Security Vulnerabilities](https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Nov 2026 21:55:03 +0000  
@@ -205,7 +216,7 @@
 
 ---
 
-### 23. [Want to Rent an Internet Address at the White House?](https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/)
+### 24. [Want to Rent an Internet Address at the White House?](https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 05 Nov 2026 04:36:17 +0000  
@@ -214,7 +225,7 @@
 
 ---
 
-### 24. [Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies](https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/)
+### 25. [Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies](https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 03 Nov 2026 02:24:31 +0000  
@@ -223,7 +234,7 @@
 
 ---
 
-### 25. [Widespread PHP Flaw May Cause Many Site Outages Today](https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/)
+### 26. [Widespread PHP Flaw May Cause Many Site Outages Today](https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 21 Oct 2026 15:26:07 +0000  
@@ -232,7 +243,7 @@
 
 ---
 
-### 26. [Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
+### 27. [Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 19 Oct 2026 13:48:56 +0000  
@@ -241,7 +252,7 @@
 
 ---
 
-### 27. [U.K. Sanctions Cryptomus for RU Money Laundering](https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/)
+### 28. [U.K. Sanctions Cryptomus for RU Money Laundering](https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Oct 2026 14:22:49 +0000  
@@ -250,7 +261,7 @@
 
 ---
 
-### 28. [Microsoft Patches More Than 1,400 Security Flaws](https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/)
+### 29. [Microsoft Patches More Than 1,400 Security Flaws](https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 13 Oct 2026 23:24:53 +0000  
@@ -260,7 +271,7 @@
 
 ---
 
-### 29. [FBI Arrests Executive at Ransomware Negotiation Firm](https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/)
+### 30. [FBI Arrests Executive at Ransomware Negotiation Firm](https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/)
 
 **Source:** Krebs On Security  
 **Published:** Sat, 10 Oct 2026 00:17:42 +0000  
@@ -269,17 +280,16 @@
 
 ---
 
-### 30. [ShinyHunters Extorted Boeing Spin-off Prior to Arrests](https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/)
+### 31. [Classified Communications Network at the National Security Agency Goes Down, Defense Official Says](https://www.securityweek.com/classified-communications-network-at-the-national-security-agency-goes-down-defense-official-says/)
 
-**Source:** Krebs On Security  
-**Published:** Wed, 07 Oct 2026 13:48:45 +0000  
+**Source:** Security Week  
+**Published:** Wed, 18 Nov 2026 02:15:07 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-35273  
-**Categories:** Ransomware, Vulnerability  
+**Categories:** APT  
 
 ---
 
-### 31. [AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says](https://www.securityweek.com/ai-framework-autonomously-weaponized-flaws-in-real-attacks-google-says/)
+### 32. [AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says](https://www.securityweek.com/ai-framework-autonomously-weaponized-flaws-in-real-attacks-google-says/)
 
 **Source:** Security Week  
 **Published:** Tue, 17 Nov 2026 18:16:17 +0000  
@@ -288,7 +298,7 @@
 
 ---
 
-### 32. [Market Research Giant Ipsos Investigating Breach of Internal System](https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/)
+### 33. [Market Research Giant Ipsos Investigating Breach of Internal System](https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/)
 
 **Source:** Security Week  
 **Published:** Tue, 17 Nov 2026 14:55:30 +0000  
@@ -297,7 +307,7 @@
 
 ---
 
-### 33. [Fandango Warns Ticket Buyers of Payment Card Data Exposure](https://www.securityweek.com/fandango-warns-ticket-buyers-of-payment-card-data-exposure/)
+### 34. [Fandango Warns Ticket Buyers of Payment Card Data Exposure](https://www.securityweek.com/fandango-warns-ticket-buyers-of-payment-card-data-exposure/)
 
 **Source:** Security Week  
 **Published:** Tue, 17 Nov 2026 14:14:24 +0000  
@@ -306,7 +316,7 @@
 
 ---
 
-### 34. [Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool](https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/)
+### 35. [Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool](https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/)
 
 **Source:** Security Week  
 **Published:** Tue, 17 Nov 2026 14:00:00 +0000  
@@ -315,7 +325,7 @@
 
 ---
 
-### 35. [MSP ScreenConnect Servers Targeted in Month-Long Campaign](https://www.securityweek.com/msp-screenconnect-servers-targeted-in-month-long-campaign/)
+### 36. [MSP ScreenConnect Servers Targeted in Month-Long Campaign](https://www.securityweek.com/msp-screenconnect-servers-targeted-in-month-long-campaign/)
 
 **Source:** Security Week  
 **Published:** Tue, 17 Nov 2026 13:24:43 +0000  
@@ -325,7 +335,7 @@
 
 ---
 
-### 36. [Access Dental Management Data Breach Impacts Over 340,000](https://www.securityweek.com/access-dental-management-data-breach-impacts-over-340000/)
+### 37. [Access Dental Management Data Breach Impacts Over 340,000](https://www.securityweek.com/access-dental-management-data-breach-impacts-over-340000/)
 
 **Source:** Security Week  
 **Published:** Tue, 17 Nov 2026 12:59:04 +0000  
@@ -334,7 +344,7 @@
 
 ---
 
-### 37. [Corma Receives $125 Million to Train Foundation Models for Defensive Cybersecurity](https://www.securityweek.com/corma-receives-125-million-to-train-foundation-models-for-defensive-cybersecurity/)
+### 38. [Corma Receives $125 Million to Train Foundation Models for Defensive Cybersecurity](https://www.securityweek.com/corma-receives-125-million-to-train-foundation-models-for-defensive-cybersecurity/)
 
 **Source:** Security Week  
 **Published:** Tue, 17 Nov 2026 12:51:54 +0000  
@@ -343,7 +353,7 @@
 
 ---
 
-### 38. [N-able Kills Legacy APIs, Patches 17 N-central Zero-Days](https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days/)
+### 39. [N-able Kills Legacy APIs, Patches 17 N-central Zero-Days](https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days/)
 
 **Source:** Security Week  
 **Published:** Tue, 17 Nov 2026 12:28:45 +0000  
@@ -353,7 +363,7 @@
 
 ---
 
-### 39. [California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack](https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/)
+### 40. [California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack](https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/)
 
 **Source:** Security Week  
 **Published:** Tue, 17 Nov 2026 12:00:00 +0000  
@@ -362,16 +372,17 @@
 
 ---
 
-### 40. [Optimizely Vulnerability Exploited to Serve Malware on Major Websites](https://www.securityweek.com/optimizely-vulnerability-exploited-to-serve-malware-on-major-websites/)
+### 41. [CVE-2026-114938: Critical vulnerability in OpenJDK JAVA](https://blog.talosintelligence.com/java4shell/)
 
-**Source:** Security Week  
-**Published:** Tue, 17 Nov 2026 10:22:20 +0000  
+**Source:** Talos Blog  
+**Published:** Wed, 18 Nov 2026 01:53:03 GMT  
 **Severity:** Critical  
-**Categories:** Vulnerability, Malware, Phishing, Supply Chain  
+**CVEs:** CVE-2026-114938  
+**Categories:** Vulnerability  
 
 ---
 
-### 41. [ARTEX and beyond: AI-enabled penetration testing platforms](https://blog.talosintelligence.com/artex-and-beyond/)
+### 42. [ARTEX and beyond: AI-enabled penetration testing platforms](https://blog.talosintelligence.com/artex-and-beyond/)
 
 **Source:** Talos Blog  
 **Published:** Fri, 13 Nov 2026 20:57:13 GMT  
@@ -380,7 +391,7 @@
 
 ---
 
-### 42. [Never be afraid to ask questions](https://blog.talosintelligence.com/never-be-afraid-to-ask-questions/)
+### 43. [Never be afraid to ask questions](https://blog.talosintelligence.com/never-be-afraid-to-ask-questions/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 12 Nov 2026 19:00:00 GMT  
@@ -389,17 +400,17 @@
 
 ---
 
-### 43. [Microsoft Patch Tuesday for November 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-for-november-2026/)
+### 44. [Microsoft Patch Tuesday for November 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-for-november-2026/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 11 Nov 2026 01:41:17 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-118146, CVE-2026-124194, CVE-2026-118148, CVE-2026-113862  
+**CVEs:** CVE-2026-118148, CVE-2026-113862, CVE-2026-118146, CVE-2026-124194  
 **Categories:** Vulnerability  
 
 ---
 
-### 44. [Bring a tent, I've got the coffee: Lessons from it-sa](https://blog.talosintelligence.com/bring-a-tent-ive-got-the-coffee-lessons-from-it-sa/)
+### 45. [Bring a tent, I've got the coffee: Lessons from it-sa](https://blog.talosintelligence.com/bring-a-tent-ive-got-the-coffee-lessons-from-it-sa/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 05 Nov 2026 19:00:00 GMT  
@@ -408,7 +419,7 @@
 
 ---
 
-### 45. [Appraisal by AI: Model-driven victim prioritization in the VOLTA infostealer](https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/)
+### 46. [Appraisal by AI: Model-driven victim prioritization in the VOLTA infostealer](https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/)
 
 **Source:** Talos Blog  
 **Published:** Sat, 31 Oct 2026 12:00:00 GMT  
@@ -417,7 +428,7 @@
 
 ---
 
-### 46. [A quiet week in infosec <.<](https://blog.talosintelligence.com/a-quiet-week-in-infosec/)
+### 47. [A quiet week in infosec <.<](https://blog.talosintelligence.com/a-quiet-week-in-infosec/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 29 Oct 2026 18:00:00 GMT  
@@ -426,7 +437,7 @@
 
 ---
 
-### 47. [IR trends Q3 2026: Actors impersonate IT help desks in vishing attacks as ransomware activity increases](https://blog.talosintelligence.com/ir-trends-q3-2026/)
+### 48. [IR trends Q3 2026: Actors impersonate IT help desks in vishing attacks as ransomware activity increases](https://blog.talosintelligence.com/ir-trends-q3-2026/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 29 Oct 2026 14:00:00 GMT  
@@ -436,7 +447,7 @@
 
 ---
 
-### 48. [NIK C2: The new AI-enabled command-and-control framework](https://blog.talosintelligence.com/nik-c2-new-ai-enabled-framework/)
+### 49. [NIK C2: The new AI-enabled command-and-control framework](https://blog.talosintelligence.com/nik-c2-new-ai-enabled-framework/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 29 Oct 2026 10:00:00 GMT  
@@ -445,21 +456,12 @@
 
 ---
 
-### 49. [Inside KeyDrift: Analyzing historical UAT-11473 activity on Cisco SD-WAN](https://blog.talosintelligence.com/uat-11473-keydrift/)
+### 50. [Inside KeyDrift: Analyzing historical UAT-11473 activity on Cisco SD-WAN](https://blog.talosintelligence.com/uat-11473-keydrift/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 28 Oct 2026 21:32:02 GMT  
 **Severity:** High  
 **Categories:** Malware  
-
----
-
-### 50. [From federal SOCs to Talos: Ryan Fetterman on practical security research](https://blog.talosintelligence.com/from-federal-socs-to-talos-ryan-fetterman-on-practical-security-research/)
-
-**Source:** Talos Blog  
-**Published:** Tue, 27 Oct 2026 10:00:21 GMT  
-**Severity:** Low  
-**Categories:** APT  
 
 ---
 
@@ -633,7 +635,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -828,70 +830,70 @@
 
 ---
 
-### 91. [Dorsett Controls InfoScan](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-01)
+### 91. [Siemens ROS#](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06)
 
 **Source:** Cisa Alerts  
 **Published:** Tue, 17 Nov 26 12:00:00 +0000  
 
 ---
 
-### 92. [Siemens Mendix Studio Pro](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-05)
+### 92. [Dorsett Controls InfoScan](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-01)
 
 **Source:** Cisa Alerts  
 **Published:** Tue, 17 Nov 26 12:00:00 +0000  
 
 ---
 
-### 93. [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog)
+### 93. [Siemens Mendix Studio Pro](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-05)
 
 **Source:** Cisa Alerts  
 **Published:** Tue, 17 Nov 26 12:00:00 +0000  
 
 ---
 
-### 94. [Siemens meta-iot2050](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11)
+### 94. [Siemens .NET Client Library for SIMATIC S7 Webserver API](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-02)
 
 **Source:** Cisa Alerts  
 **Published:** Tue, 17 Nov 26 12:00:00 +0000  
 
 ---
 
-### 95. [Siemens SIMATIC WinCC](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-09)
+### 95. [Critical Java Vulnerability Requires Immediate Patching](https://www.cisa.gov/news-events/alerts/2026/11/17/critical-java-vulnerability-requires-immediate-patching)
 
 **Source:** Cisa Alerts  
 **Published:** Tue, 17 Nov 26 12:00:00 +0000  
 
 ---
 
-### 96. [Siemens RUGGEDCOM APE1808](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07)
+### 96. [Siemens Industrial Software Products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-04)
 
 **Source:** Cisa Alerts  
 **Published:** Tue, 17 Nov 26 12:00:00 +0000  
 
 ---
 
-### 97. [Siemens .NET Client Library for SIMATIC S7 Webserver API](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-02)
+### 97. [Siemens Simcenter Femap](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10)
 
 **Source:** Cisa Alerts  
 **Published:** Tue, 17 Nov 26 12:00:00 +0000  
 
 ---
 
-### 98. [Siemens Industrial Automation Software Products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-03)
+### 98. [Siemens SIMATIC](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-08)
 
 **Source:** Cisa Alerts  
 **Published:** Tue, 17 Nov 26 12:00:00 +0000  
 
 ---
 
-### 99. [Siemens SIMATIC](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-08)
+### 99. [Siemens Industrial Automation Software Products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-03)
 
 **Source:** Cisa Alerts  
 **Published:** Tue, 17 Nov 26 12:00:00 +0000  
 
 ---
 
-### 100. [Siemens Industrial Software Products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-04)
+### 100. [Siemens RUGGEDCOM APE1808](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07)
 
 **Source:** Cisa Alerts  
 **Published:** Tue, 17 Nov 26 12:00:00 +0000  
