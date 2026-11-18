@@ -1,6 +1,62 @@
 [
   {
     "source": "The Hacker News",
+    "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
+    "link": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
+    "published": "Thu, 19 Nov 2026 00:01:17 +0530",
+    "summary": "A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in.\n\nThe decade-old flaw, CVE-2026-123007, dubbed \"nginx2root,\" has been present in NGINX's open-source code since version 1.9.5, released on September 22, 2015. Fixed versions 1.31.9 and 1.30.7 came out today.\n\nF5, the company behind NGINX, says attackers can run code where",
+    "analysis": {
+      "issue": "2 flaws, including a decade-old HTTP/2 vulnerability demonstrated to allow unauthenticated code execution",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
+    "link": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
+    "published": "Wed, 18 Nov 2026 23:45:39 +0530",
+    "summary": "Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts.\n\nEach flaw needs a specific setup on a virtual server: an iRule that uses a particular command, or an APM policy that includes two particular kinds of agent.\n\nF5, which makes BIG-IP, disclosed the flaws today and says they",
+    "analysis": {
+      "issue": "F5 fixes six critical BIG-IP flaws that allow unauthenticated traffic disruption and may enable code execution in specific configurations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
+    "link": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
+    "published": "Wed, 18 Nov 2026 22:40:45 +0530",
+    "summary": "A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF)\n\nThe vulnerability, tracked as CVE-2026-129448 (CVSS score: 9.8), is a case of unauthenticated deserialization in the XML-RPC endpoint that could lead to remote code execution.\n\n\"Deserialization of Untrusted",
+    "analysis": {
+      "issue": "Apache Roller CVE-2026-129448 is actively exploited, allowing unauthenticated remote code execution via XML-RPC",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-129448"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
     "link": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
     "published": "Wed, 18 Nov 2026 19:41:28 +0530",
@@ -132,56 +188,23 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
-    "link": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
-    "published": "Wed, 18 Nov 2026 12:15:26 +0530",
-    "summary": "Threat actors have compromised Microsoft's agent-framework package to push a credential stealer, according to reports from Aikido, Chainguard, Endor Labs, OX Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz.\n\nThe malicious versions, 1.26.1 and 1.26.2, were published 33 minutes apart on November 17, 2026, and are designed to run a credential stealer on every Python start. As of",
+    "source": "Bleeping Computer",
+    "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
+    "link": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
+    "published": "Wed, 18 Nov 2026 14:39:33 -0500",
+    "summary": "A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland. [...]",
     "analysis": {
-      "issue": "Two malicious Microsoft Agent Framework releases on PyPI used Python startup hooks to harvest cloud and CI/CD credentials; both were removed",
+      "issue": "A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
-    "link": "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html",
-    "published": "Wed, 18 Nov 2026 11:28:04 +0530",
-    "summary": "The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of linked intrusions resulting in third-party compromise.\n\nGoogle's Mandiant and Threat Intelligence Group (GTIG) said it investigated a 2026 compromise at a U.S.-based organization in which the adversary leveraged",
-    "analysis": {
-      "issue": "Cold Relic used stolen cloud data and employee impersonation to breach a second U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
-    "link": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
-    "published": "Wed, 18 Nov 2026 01:04:20 +0530",
-    "summary": "A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a security company.\n\nWidgets are small interactive blocks that bots send inside chat messages, and their JavaScript runs on the user's phone. The researchers ran their demonstration on a Telegram test server, because only approved bots can send",
-    "analysis": {
-      "issue": "NebuSec demonstrates two bypasses of Telegram's Android widget security filter, while ordinary bots remain barred from sending widgets",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
+        "Data Breach",
+        "Vulnerability",
+        "Phishing",
+        "Supply Chain"
       ]
     }
   },
@@ -355,24 +378,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
-    "link": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
-    "published": "Tue, 17 Nov 2026 14:24:07 -0500",
-    "summary": "Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork. [...]",
-    "analysis": {
-      "issue": "Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
     "link": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
@@ -536,8 +541,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-96951",
-        "CVE-2026-108398"
+        "CVE-2026-108398",
+        "CVE-2026-96951"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -709,8 +714,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-115732",
-        "CVE-2026-115731"
+        "CVE-2026-115731",
+        "CVE-2026-115732"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -870,10 +875,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-113862",
         "CVE-2026-124194",
-        "CVE-2026-118148",
-        "CVE-2026-118146"
+        "CVE-2026-113862",
+        "CVE-2026-118146",
+        "CVE-2026-118148"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1541,6 +1546,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "CrowdStrike Is Building the Engine of the Agentic SOC with Falcon Next-Gen SIEM",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-gartner-mq-siem/",
+    "published": "Nov 18, 2026 00:00:00-0600",
+    "summary": "",
+    "analysis": {
+      "issue": "CrowdStrike has been named a Leader in the 2026 Gartner® Magic Quadrant™ for Security Information and Event Management (SIEM)",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "Hidden in the Weights: Supply Chain Risk from Backdoored LoRA Models",
     "link": "https://www.crowdstrike.com/en-us/blog/supply-chain-risk-from-backdoored-lora-models/",
     "published": "Nov 16, 2026 00:00:00-0600",
@@ -1681,24 +1704,6 @@
       "cves": [],
       "threat_categories": [
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Brings Enterprise Browser Security to the Falcon Platform",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-enterprise-browser-security-to-falcon-platform/",
-    "published": "Nov 04, 2026 00:00:00-0600",
-    "summary": "",
-    "analysis": {
-      "issue": "CrowdStrike Falcon Seraphic Enterprise Browser is now available through the new unified Falcon platform experience",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
