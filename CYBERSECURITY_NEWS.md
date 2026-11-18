@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-18 06:50:44 UTC
+**Last Updated:** 2026-11-18 07:50:30 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization](https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html)
+### 1. [Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials](https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 18 Nov 2026 12:15:26 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization](https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 18 Nov 2026 11:28:04 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Java4Shell (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak on Java 17+ AVX-512 VBMI Servers](https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html)
+### 3. [Critical Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More](https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 18 Nov 2026 09:57:41 +0530  
@@ -23,7 +32,7 @@
 
 ---
 
-### 3. [Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses](https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html)
+### 4. [Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses](https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 18 Nov 2026 01:04:20 +0530  
@@ -32,7 +41,7 @@
 
 ---
 
-### 4. [Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges](https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html)
+### 5. [Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges](https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 17 Nov 2026 20:47:36 +0530  
@@ -42,7 +51,7 @@
 
 ---
 
-### 5. [Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers](https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html)
+### 6. [Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers](https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 17 Nov 2026 20:47:28 +0530  
@@ -51,7 +60,7 @@
 
 ---
 
-### 6. [Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap](https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html)
+### 7. [Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap](https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 17 Nov 2026 17:55:06 +0530  
@@ -60,7 +69,7 @@
 
 ---
 
-### 7. [Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission](https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html)
+### 8. [Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission](https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 17 Nov 2026 17:44:36 +0530  
@@ -70,7 +79,7 @@
 
 ---
 
-### 8. [New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels](https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html)
+### 9. [New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels](https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 17 Nov 2026 16:50:18 +0530  
@@ -79,21 +88,12 @@
 
 ---
 
-### 9. [Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks](https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html)
+### 10. [Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks](https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 17 Nov 2026 16:37:31 +0530  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 10. [Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors](https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 17 Nov 2026 12:42:13 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
 
 ---
 
@@ -280,7 +280,17 @@
 
 ---
 
-### 31. [Classified Communications Network at the National Security Agency Goes Down, Defense Official Says](https://www.securityweek.com/classified-communications-network-at-the-national-security-agency-goes-down-defense-official-says/)
+### 31. [Java4Shell Vulnerability Puts Many Enterprise Applications at Risk of Takeover](https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover/)
+
+**Source:** Security Week  
+**Published:** Wed, 18 Nov 2026 07:43:34 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-114938  
+**Categories:** Vulnerability, Malware, Supply Chain  
+
+---
+
+### 32. [Classified Communications Network at the National Security Agency Goes Down, Defense Official Says](https://www.securityweek.com/classified-communications-network-at-the-national-security-agency-goes-down-defense-official-says/)
 
 **Source:** Security Week  
 **Published:** Wed, 18 Nov 2026 02:15:07 +0000  
@@ -289,7 +299,7 @@
 
 ---
 
-### 32. [AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says](https://www.securityweek.com/ai-framework-autonomously-weaponized-flaws-in-real-attacks-google-says/)
+### 33. [AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says](https://www.securityweek.com/ai-framework-autonomously-weaponized-flaws-in-real-attacks-google-says/)
 
 **Source:** Security Week  
 **Published:** Tue, 17 Nov 2026 18:16:17 +0000  
@@ -298,7 +308,7 @@
 
 ---
 
-### 33. [Market Research Giant Ipsos Investigating Breach of Internal System](https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/)
+### 34. [Market Research Giant Ipsos Investigating Breach of Internal System](https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/)
 
 **Source:** Security Week  
 **Published:** Tue, 17 Nov 2026 14:55:30 +0000  
@@ -307,7 +317,7 @@
 
 ---
 
-### 34. [Fandango Warns Ticket Buyers of Payment Card Data Exposure](https://www.securityweek.com/fandango-warns-ticket-buyers-of-payment-card-data-exposure/)
+### 35. [Fandango Warns Ticket Buyers of Payment Card Data Exposure](https://www.securityweek.com/fandango-warns-ticket-buyers-of-payment-card-data-exposure/)
 
 **Source:** Security Week  
 **Published:** Tue, 17 Nov 2026 14:14:24 +0000  
@@ -316,7 +326,7 @@
 
 ---
 
-### 35. [Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool](https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/)
+### 36. [Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool](https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/)
 
 **Source:** Security Week  
 **Published:** Tue, 17 Nov 2026 14:00:00 +0000  
@@ -325,7 +335,7 @@
 
 ---
 
-### 36. [MSP ScreenConnect Servers Targeted in Month-Long Campaign](https://www.securityweek.com/msp-screenconnect-servers-targeted-in-month-long-campaign/)
+### 37. [MSP ScreenConnect Servers Targeted in Month-Long Campaign](https://www.securityweek.com/msp-screenconnect-servers-targeted-in-month-long-campaign/)
 
 **Source:** Security Week  
 **Published:** Tue, 17 Nov 2026 13:24:43 +0000  
@@ -335,7 +345,7 @@
 
 ---
 
-### 37. [Access Dental Management Data Breach Impacts Over 340,000](https://www.securityweek.com/access-dental-management-data-breach-impacts-over-340000/)
+### 38. [Access Dental Management Data Breach Impacts Over 340,000](https://www.securityweek.com/access-dental-management-data-breach-impacts-over-340000/)
 
 **Source:** Security Week  
 **Published:** Tue, 17 Nov 2026 12:59:04 +0000  
@@ -344,7 +354,7 @@
 
 ---
 
-### 38. [Corma Receives $125 Million to Train Foundation Models for Defensive Cybersecurity](https://www.securityweek.com/corma-receives-125-million-to-train-foundation-models-for-defensive-cybersecurity/)
+### 39. [Corma Receives $125 Million to Train Foundation Models for Defensive Cybersecurity](https://www.securityweek.com/corma-receives-125-million-to-train-foundation-models-for-defensive-cybersecurity/)
 
 **Source:** Security Week  
 **Published:** Tue, 17 Nov 2026 12:51:54 +0000  
@@ -353,22 +363,13 @@
 
 ---
 
-### 39. [N-able Kills Legacy APIs, Patches 17 N-central Zero-Days](https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days/)
+### 40. [N-able Kills Legacy APIs, Patches 17 N-central Zero-Days](https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days/)
 
 **Source:** Security Week  
 **Published:** Tue, 17 Nov 2026 12:28:45 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-129287, CVE-2026-129271, CVE-2026-90436  
+**CVEs:** CVE-2026-129271, CVE-2026-90436, CVE-2026-129287  
 **Categories:** Vulnerability, Malware  
-
----
-
-### 40. [California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack](https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/)
-
-**Source:** Security Week  
-**Published:** Tue, 17 Nov 2026 12:00:00 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability  
 
 ---
 
@@ -405,7 +406,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 11 Nov 2026 01:41:17 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-118148, CVE-2026-113862, CVE-2026-118146, CVE-2026-124194  
+**CVEs:** CVE-2026-124194, CVE-2026-113862, CVE-2026-118148, CVE-2026-118146  
 **Categories:** Vulnerability  
 
 ---
@@ -635,7 +636,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
