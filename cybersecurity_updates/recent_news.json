@@ -1,10 +1,142 @@
 [
   {
     "source": "The Hacker News",
+    "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
+    "link": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
+    "published": "Wed, 18 Nov 2026 19:41:28 +0530",
+    "summary": "The suspected Chinese advanced persistent threat (APT) group behind the sophisticated EggStreme malware has rebuilt its toolkit as it continues to target government organizations in the Philippines.\n\n\"When attackers are exposed, the cheap response is to rotate,\" Bitdefender said in a technical report shared with The Hacker News. \"A file hash changes with every recompile, a domain costs a few",
+    "analysis": {
+      "issue": "EggStreme operators retooled their backdoor with new commands and passive mode while continuing to target Philippine government organizations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
+    "link": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
+    "published": "Wed, 18 Nov 2026 17:58:30 +0530",
+    "summary": "On AMD-based PCs and some Intel PCs, the TPM lockout for Windows Hello and BitLocker PINs can be reset by someone who opens the PC's case, researchers at Technische Universität Berlin say.\n\nThat leaves short PINs open to guessing. In lab tests, the researchers found a four-digit Hello PIN on an AMD laptop and a 6-digit BitLocker PIN on an Intel laptop this way.\n\nBoth PINs were set by the",
+    "analysis": {
+      "issue": "Researchers demonstrate physical attacks that bypass TPM PIN lockouts on AMD and some Intel PCs, exposing Windows Hello and BitLocker PINs",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor",
+    "link": "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html",
+    "published": "Wed, 18 Nov 2026 17:45:00 +0530",
+    "summary": "TL;DR\n\n\n  Attackers move first. On average, exploitation now starts before a patch exists (Mandiant M-Trends 2026). In 1H 2026, 23% of vulnerabilities VulnCheck added to its exploited list were hit on or before disclosure day.\n  AI pentesting vendors aren't interchangeable. Most look convincing in a demo. The gaps show up in your logged-in flows, your coverage, and your production safety.\n  Make",
+    "analysis": {
+      "issue": "Evaluate AI pentesting vendors with 15 questions and a 36-point scorecard covering application context, exploit validation, coverage, and safety",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
+    "link": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
+    "published": "Wed, 18 Nov 2026 17:25:49 +0530",
+    "summary": "A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says Calif, the security research firm that disclosed it this week.\n\nThe flaw is present in Java 17.0.6 and later, and the vulnerable code runs only on x86-64 Intel and AMD chips that support the AVX-512 VBMI feature.\n\nTracked as",
+    "analysis": {
+      "issue": "Java4Shell (CVE-2026-114938) could enable unauthenticated code execution in six applications on affected AVX-512 Java servers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-114938"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Quality Isn’t The Main Worry About AI Pentesting — Data Privacy and Production Safety Are",
+    "link": "https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html",
+    "published": "Wed, 18 Nov 2026 16:33:57 +0530",
+    "summary": "AI is speeding up how software is built, which means more code, more changes, and more chances for vulnerabilities to reach production. It's speeding up how attackers find and exploit them too, with time-to-exploit now down to a single day. Security testing has to keep up with both.\n\nAI pentesting has emerged as a way to run in-depth tests whenever teams need them, instead of waiting for the",
+    "analysis": {
+      "issue": "Intruder's survey of 500 leaders finds 96% lack sufficient testing coverage, while 55% report using AI pentesting across their environments",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers",
+    "link": "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html",
+    "published": "Wed, 18 Nov 2026 13:54:31 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting Perforce Puppet, an enterprise infrastructure-as-code (IaC) and configuration management platform, to its Known Exploited Vulnerabilities (KEV) catalog, citing reports of active exploitation.\n\nThe vulnerability, tracked as CVE-2026-115731 (CVSS score: 9.4), is a case of",
+    "analysis": {
+      "issue": "CISA flags active exploitation of CVE-2026-115731, a critical Puppet RCE flaw requiring a valid agent certificate",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-115731"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution",
+    "link": "https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html",
+    "published": "Wed, 18 Nov 2026 13:54:23 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged organizations to immediately patch a newly disclosed critical security flaw impacting Oracle Java.\n\nThe flaw, tracked as CVE-2026-114938 (CVSS score: 8.1), refers to a case of out-of-bounds write that can lead to denial-of-service (DoS) or remote code execution under certain conditions.\n\n\"This critical memory-corruption",
+    "analysis": {
+      "issue": "CISA urges patching CVE-2026-114938 in Oracle Java after tests showed malformed Base64 input could crash the JVM and corrupt application data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-114938"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
     "link": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
     "published": "Wed, 18 Nov 2026 12:15:26 +0530",
-    "summary": "Threat actors have compromised Microsoft's agent-framework package to push a credential stealer, according to reports from Aikido, Endor Labs, OX Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz.\n\nThe malicious versions, 1.26.1 and 1.26.2, were published 33 minutes apart on November 17, 2026, and are designed to run a credential stealer on every Python start. As of writing, both the",
+    "summary": "Threat actors have compromised Microsoft's agent-framework package to push a credential stealer, according to reports from Aikido, Chainguard, Endor Labs, OX Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz.\n\nThe malicious versions, 1.26.1 and 1.26.2, were published 33 minutes apart on November 17, 2026, and are designed to run a credential stealer on every Python start. As of",
     "analysis": {
       "issue": "Two malicious Microsoft Agent Framework releases on PyPI used Python startup hooks to harvest cloud and CI/CD credentials; both were removed",
       "solution": null,
@@ -37,26 +169,6 @@
   },
   {
     "source": "The Hacker News",
-    "title": "Critical Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
-    "link": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
-    "published": "Wed, 18 Nov 2026 09:57:41 +0530",
-    "summary": "A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says Calif, the security research firm that disclosed it this week.\n\nThe flaw is present in Java 17.0.6 and later, and the vulnerable code runs only on x86-64 Intel and AMD chips that support the AVX-512 VBMI feature.\n\nTracked as",
-    "analysis": {
-      "issue": "Java4Shell (CVE-2026-114938) could enable unauthenticated code execution in six applications on affected AVX-512 Java servers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-114938"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
     "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
     "link": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
     "published": "Wed, 18 Nov 2026 01:04:20 +0530",
@@ -74,90 +186,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
-    "link": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
-    "published": "Tue, 17 Nov 2026 20:47:36 +0530",
-    "summary": "Oracle is preparing to release security patches for 11 vulnerabilities in Java SE on Tuesday, November 17, 2026, all of which may be exploited remotely without authentication, as separate reports warn of a potentially critical remote code execution (RCE) flaw affecting OpenJDK.\n\nThe 11 vulnerabilities carry a maximum CVSS 3.1 severity score of 8.1, according to Oracle's advance security notice.",
+    "source": "Bleeping Computer",
+    "title": "Microsoft’s Agent Framework PyPI package compromised to steal credentials",
+    "link": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/",
+    "published": "Wed, 18 Nov 2026 11:58:42 -0500",
+    "summary": "Hackers compromised Microsoft's official Agent Framework Python package on PyPI, publishing two malicious versions designed to steal cloud credentials and other sensitive information from developers' systems. [...]",
     "analysis": {
-      "issue": "Oracle plans fixes for 11 remotely exploitable Java flaws as a separate critical OpenJDK RCE report remains unconfirmed",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-114938"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
-    "link": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
-    "published": "Tue, 17 Nov 2026 20:47:28 +0530",
-    "summary": "Artificial intelligence (AI), blockchain, and logistics sectors across Europe and the U.S. have emerged as the target of a large-scale, industrialized campaign dubbed Trigram.\n\n\"Trigram is a large-scale campaign that impersonates about 50 brands in the blockchain and AI sectors, to trick developers into executing an infostealer themselves,\" Stormshield said in a deep-dive technical report",
-    "analysis": {
-      "issue": "Trigram impersonates about 50 AI and blockchain brands, using phishing and trojanized code to lure developers into running infostealers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
-    "link": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
-    "published": "Tue, 17 Nov 2026 17:55:06 +0530",
-    "summary": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it.\n\nIn March 2026, the hackers who hijacked Trivy, a widely used open-source security scanner, planted malicious code that looked like it came from GitHub's official checkout tool. They even labeled it a",
-    "analysis": {
-      "issue": "GitHub Actions attackers exploited SHA pinning trust gaps to disguise malicious commits, while new workflow lockfiles leave provenance risks unresolve",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission",
-    "link": "https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html",
-    "published": "Tue, 17 Nov 2026 17:44:36 +0530",
-    "summary": "A now-patched flaw in Apple's audio service let apps on iPhones and iPads record audio even after the user tapped \"Don't Allow\" on the microphone prompt.\n\nThe first security updates with the fix came out on August 17. Neither Apple nor the two researchers who found the flaw report that it was used in attacks.\n\nNik Tsytsarkin of Meta Red Team X published the technical details last week. Mustafa",
-    "analysis": {
-      "issue": "Apple patched CVE-2026-65339, which let installed apps record audio despite denied microphone permission on iPhones and iPads",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-65339"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels",
-    "link": "https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html",
-    "published": "Tue, 17 Nov 2026 16:50:18 +0530",
-    "summary": "Government sectors in Asia and Africa have been targeted by an active cyber intrusion campaign that delivers to previously undocumented backdoors that leverage legitimate services like Microsoft SharePoint and GitHub for command‑and‑control (C2).\n\nThe activity has been codenamed Operation ShadowCloud by Kaspersky. The Russian cybersecurity company said it identified the campaign in early 2026.",
-    "analysis": {
-      "issue": "Operation ShadowCloud targets governments in Asia and Africa with GitDoor and GraphDoor backdoors using GitHub and SharePoint for C2",
+      "issue": "Hackers compromised Microsoft's official Agent Framework Python package on PyPI, publishing two malicious versions designed to steal cloud credentials and other sensitive information from developers' systems",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -169,20 +204,95 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks",
-    "link": "https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html",
-    "published": "Tue, 17 Nov 2026 16:37:31 +0530",
-    "summary": "Apple on Monday introduced new controls that allow Mac users to give more granular access to data they give to apps, including those that use artificial intelligence (AI) agents.\n\nThe changes, currently previewed in macOS 27.3 beta 2, relate to increased transparency and more options for two of its APIs: Device Control and Data Access, and Full Disk Access.\n\n\"Before granting an app such",
+    "source": "Bleeping Computer",
+    "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
+    "link": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
+    "published": "Wed, 18 Nov 2026 10:00:10 -0500",
+    "summary": "Attackers are using deepfakes, helpdesk impersonation, and fake IT support requests to deceive employees and gain unauthorized access to corporate systems. Specops Software examines real-world attacks and explains how stronger identity verification can help organizations prevent social engineering threats. [...]",
     "analysis": {
-      "issue": "Apple introduces granular app and folder permissions in macOS 27",
+      "issue": "In 2024, an employee at engineering firm Arup was tricked into transferring $25 million after attending a fake video conference featuring deepfake versions of their colleagues",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Dizigom illegal streaming service with 21M monthly visits shuts down",
+    "link": "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/",
+    "published": "Wed, 18 Nov 2026 06:50:25 -0500",
+    "summary": "The Alliance for Creativity and Entertainment (ACE) has announced the shutdown of Dizigom, one of Turkey's largest piracy sites, after a settlement agreement with the site's operators. [...]",
+    "analysis": {
+      "issue": "The Alliance for Creativity and Entertainment (ACE) has announced the shutdown of Dizigom, one of Turkey's largest piracy sites, after a settlement agreement with the site's operators",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
       "cves": [],
       "threat_categories": [
         "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
+    "published": "Wed, 18 Nov 2026 05:35:05 -0500",
+    "summary": "Apache has released security updates to address a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers. [...]",
+    "analysis": {
+      "issue": "Apache has released security updates to address a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-129448",
+        "CVE-2026-82384"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft announces Windows Server 2028 with hardened security",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
+    "published": "Wed, 18 Nov 2026 04:24:31 -0500",
+    "summary": "Microsoft has announced Windows Server 2028, the next major release of its server operating system, at the Ignite 2026 conference on Tuesday. [...]",
+    "analysis": {
+      "issue": "Microsoft has announced Windows Server 2028, the next major release of its server operating system, at the Ignite 2026 conference on Tuesday",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "British Scattered Spider hacker sentenced to 6 years in prison",
+    "link": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/",
+    "published": "Wed, 18 Nov 2026 03:24:18 -0500",
+    "summary": "A leader of the Scattered Spider cybercrime collective has been sentenced to six years in prison in the United States for stealing millions in cryptocurrency and conspiring to hack a dozen companies. [...]",
+    "analysis": {
+      "issue": "A leader of the Scattered Spider cybercrime collective has been sentenced to six years in prison in the United States for stealing millions in cryptocurrency and conspiring to hack a dozen companies",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
       ]
     }
   },
@@ -259,115 +369,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Researchers hijack Hugging Face account for popular Kokoro AI model",
-    "link": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
-    "published": "Tue, 17 Nov 2026 13:21:24 -0500",
-    "summary": "A Lack of ownership verification on the Hugging Face platform allowed researchers to take control of Kokoro, a text-to-speech model used in projects from Google, NVIDIA, AMD, Intel, and Amazon Web Services. [...]",
-    "analysis": {
-      "issue": "A Lack of ownership verification on the Hugging Face platform allowed researchers to take control of Kokoro, a text-to-speech model used in projects from Google, NVIDIA, AMD, Intel, and Amazon Web Services",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Tor releases emergency update amid ongoing DDoS attack",
-    "link": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
-    "published": "Tue, 17 Nov 2026 13:04:15 -0500",
-    "summary": "The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service attack that it says has overwhelmed relays and affected most operators. [...]",
-    "analysis": {
-      "issue": "The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service attack that it says has overwhelmed relays and affected most operators",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "DDoS"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool",
-    "link": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
-    "published": "Tue, 17 Nov 2026 11:00:00 -0500",
-    "summary": "Flipper Devices, the company behind the popular Flipper Zero pentesting device, has launched a crowdfunding campaign for Flipper One, a portable Linux computer and networking multi-tool. [...]",
-    "analysis": {
-      "issue": "Flipper Devices, the company behind the popular Flipper Zero pentesting device, has launched a crowdfunding campaign for Flipper One, a portable Linux computer and networking multi-tool",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
-    "link": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
-    "published": "Tue, 17 Nov 2026 10:01:11 -0500",
-    "summary": "Huntress researchers break down how EvilTokens, Knight Office, and Kali365 capture and replay M365 tokens, plus how defenders can detect and contain them.  [...]",
-    "analysis": {
-      "issue": "It’s never been easier to steal credentials, thanks to a growing number of phishing kits that give aspiring attackers everything they need in one convenient interface",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft testing Remote Lock for lost or stolen Windows devices",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/",
-    "published": "Tue, 17 Nov 2026 06:19:51 -0500",
-    "summary": "Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them. [...]",
-    "analysis": {
-      "issue": "Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Court clears brothers of $25 million Ethereum crypto heist charges",
-    "link": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
-    "published": "Tue, 17 Nov 2026 04:44:22 -0500",
-    "summary": "US District Judge Jessica Clarke has acquitted two brothers accused of stealing $25 million in cryptocurrency in about 12 seconds through a scheme that exploited a bug in the Ethereum blockchain. [...]",
-    "analysis": {
-      "issue": "US District Judge Jessica Clarke has acquitted two brothers accused of stealing $25 million in cryptocurrency in about 12 seconds through a scheme that exploited a bug in the Ethereum blockchain",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -563,10 +564,186 @@
   },
   {
     "source": "Security Week",
-    "title": "Java4Shell Vulnerability Puts Many Enterprise Applications at Risk of Takeover",
+    "title": "VeroSecurity Raises $11 Million for AI Security Engineering Platform",
+    "link": "https://www.securityweek.com/verosecurity-raises-11-million-for-ai-security-engineering-platform/",
+    "published": "Wed, 18 Nov 2026 15:30:42 +0000",
+    "summary": "<p>AI Security Engineering is a new and essential security discipline now being brought into focus by VeroSecurity.</p>\n<p>The post <a href=\"https://www.securityweek.com/verosecurity-raises-11-million-for-ai-security-engineering-platform/\">VeroSecurity Raises $11 Million for AI Security Engineering Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "AI Security Engineering is a new and essential security discipline now being brought into focus by VeroSecurity",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Russian APT Poses as Employee of Hacked Firm to Breach Another US Organization",
+    "link": "https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization/",
+    "published": "Wed, 18 Nov 2026 13:33:47 +0000",
+    "summary": "<p>Star Blizzard weaponized data and identities stolen in late 2025 to phish and compromise a US organization.</p>\n<p>The post <a href=\"https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization/\">Russian APT Poses as Employee of Hacked Firm to Breach Another US Organization</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Star Blizzard weaponized data and identities stolen in late 2025 to phish and compromise a US organization",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Last of Five Defendants Sentenced in US Scattered Spider Hacking Case",
+    "link": "https://www.securityweek.com/last-of-five-defendants-sentenced-in-us-scattered-spider-hacking-case/",
+    "published": "Wed, 18 Nov 2026 13:19:32 +0000",
+    "summary": "<p>British national Tyler Robert Buchanan has been sentenced to 6 years in prison in the United States, the DOJ announced.</p>\n<p>The post <a href=\"https://www.securityweek.com/last-of-five-defendants-sentenced-in-us-scattered-spider-hacking-case/\">Last of Five Defendants Sentenced in US Scattered Spider Hacking Case</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "British national Tyler Robert Buchanan has been sentenced to 6 years in prison in the United States, the DOJ announced",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Phishing",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Microsoft Takes Perception Agentic Security Platform Out of Preview",
+    "link": "https://www.securityweek.com/microsoft-takes-perception-agentic-security-platform-out-of-preview/",
+    "published": "Wed, 18 Nov 2026 12:14:23 +0000",
+    "summary": "<p>Four blue team agents and the Recon Agent are now generally available, while integrations and vulnerability shielding are in preview.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-takes-perception-agentic-security-platform-out-of-preview/\">Microsoft Takes Perception Agentic Security Platform Out of Preview</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Four blue team agents and the Recon Agent are now generally available, while integrations and vulnerability shielding are in preview",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do",
+    "link": "https://www.securityweek.com/ciso-conversations-patti-degnan-part-of-the-job-is-deciding-what-not-to-do/",
+    "published": "Wed, 18 Nov 2026 12:00:00 +0000",
+    "summary": "<p>Patti Degnan’s identity was stolen in 2006. It set her on a path to the CISO seat at endpoint security firm Glow.</p>\n<p>The post <a href=\"https://www.securityweek.com/ciso-conversations-patti-degnan-part-of-the-job-is-deciding-what-not-to-do/\">CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Patti Degnan’s identity was stolen in 2006",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Chrome 158 Patches 204 Vulnerabilities",
+    "link": "https://www.securityweek.com/chrome-158-patches-204-vulnerabilities/",
+    "published": "Wed, 18 Nov 2026 11:43:22 +0000",
+    "summary": "<p>Google handed out $11,000 for five externally reported flaws but has yet to determine the amounts to be paid for 36 bugs.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-158-patches-204-vulnerabilities/\">Chrome 158 Patches 204 Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Google handed out $11,000 for five externally reported flaws but has yet to determine the amounts to be paid for 36 bugs",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Microsoft Agent Framework Releases Poisoned With Credential Stealer",
+    "link": "https://www.securityweek.com/microsoft-agent-framework-releases-poisoned-with-credential-stealer/",
+    "published": "Wed, 18 Nov 2026 11:05:39 +0000",
+    "summary": "<p>Versions 1.26.1 and 1.26.2 of agent-framework on PyPI steal Azure, Azure DevOps, and GitHub Actions credentials when Python starts.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-agent-framework-releases-poisoned-with-credential-stealer/\">Microsoft Agent Framework Releases Poisoned With Credential Stealer</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "2 of agent-framework on PyPI steal Azure, Azure DevOps, and GitHub Actions credentials when Python starts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Critical Perforce Puppet RCE Exploited in Attacks",
+    "link": "https://www.securityweek.com/critical-perforce-puppet-rce-exploited-in-attacks/",
+    "published": "Wed, 18 Nov 2026 10:37:08 +0000",
+    "summary": "<p>Tracked as CVE-2026-115731, it allows a client that holds any CA-signed agent certificate to execute code on the server.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-perforce-puppet-rce-exploited-in-attacks/\">Critical Perforce Puppet RCE Exploited in Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Tracked as CVE-2026-115731, it allows a client that holds any CA-signed agent certificate to execute code on the server",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-115732",
+        "CVE-2026-115731"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Oracle Patches 950 Vulnerabilities With November 2026 CSPU",
+    "link": "https://www.securityweek.com/oracle-patches-640-vulnerabilities-with-november-2026-cspu/",
+    "published": "Wed, 18 Nov 2026 08:47:18 +0000",
+    "summary": "<p>Over 300 patches address unauthenticated, remotely exploitable flaws, while 62 fix critical-severity flaws.</p>\n<p>The post <a href=\"https://www.securityweek.com/oracle-patches-640-vulnerabilities-with-november-2026-cspu/\">Oracle Patches 950 Vulnerabilities With November 2026 CSPU</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Over 300 patches address unauthenticated, remotely exploitable flaws, while 62 fix critical-severity flaws",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-114938"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Java4Shell Vulnerability Puts Enterprise Applications at Risk of Takeover",
     "link": "https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover/",
     "published": "Wed, 18 Nov 2026 07:43:34 +0000",
-    "summary": "<p>Calif demonstrated remote code execution in Jira, Jenkins and Keycloak, while VulnCheck says real-world RCE requires per-target work</p>\n<p>The post <a href=\"https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover/\">Java4Shell Vulnerability Puts Many Enterprise Applications at Risk of Takeover</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "summary": "<p>Calif demonstrated remote code execution in Jira, Jenkins and Keycloak, while VulnCheck says real-world RCE requires per-target work</p>\n<p>The post <a href=\"https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover/\">Java4Shell Vulnerability Puts Enterprise Applications at Risk of Takeover</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
       "issue": "Calif demonstrated remote code execution in Jira, Jenkins and Keycloak, while VulnCheck says real-world RCE requires per-target work By Flipboard Reddit Whatsapp Whatsapp Email Oracle and the OpenJDK project have patched Java4Shell, a critical Java r",
       "solution": null,
@@ -584,189 +761,52 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Classified Communications Network at the National Security Agency Goes Down, Defense Official Says",
-    "link": "https://www.securityweek.com/classified-communications-network-at-the-national-security-agency-goes-down-defense-official-says/",
-    "published": "Wed, 18 Nov 2026 02:15:07 +0000",
-    "summary": "<p>The problem disrupted the operations of NSANet, a classified internal network used by employees of the agency.</p>\n<p>The post <a href=\"https://www.securityweek.com/classified-communications-network-at-the-national-security-agency-goes-down-defense-official-says/\">Classified Communications Network at the National Security Agency Goes Down, Defense Official Says</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "source": "Talos Blog",
+    "title": "The challenge of defending against bulletproof dead drops on public blockchains",
+    "link": "https://blog.talosintelligence.com/the-challenge-of-defending-against-bulletproof-dead-drops-on-public-blockchains/",
+    "published": "Wed, 18 Nov 2026 11:00:00 GMT",
+    "summary": "The evolution of malware command-and-control (C2) infrastructure has shifted away from fragile, centralized servers and hardcoded domains toward resilient, decentralized blockchain networks that eliminate single points of failure.",
     "analysis": {
-      "issue": "The problem disrupted the operations of NSANet, a classified internal network used by employees of the agency",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says",
-    "link": "https://www.securityweek.com/ai-framework-autonomously-weaponized-flaws-in-real-attacks-google-says/",
-    "published": "Tue, 17 Nov 2026 18:16:17 +0000",
-    "summary": "<p>Threat actors are deploying multi-agent offensive frameworks to increase the velocity of multi-stage intrusions.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-framework-autonomously-weaponized-flaws-in-real-attacks-google-says/\">AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Threat actors are deploying multi-agent offensive frameworks to increase the velocity of multi-stage intrusions",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Phishing",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Market Research Giant Ipsos Investigating Breach of Internal System",
-    "link": "https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/",
-    "published": "Tue, 17 Nov 2026 14:55:30 +0000",
-    "summary": "<p>The company made the incident public on Monday, November 16, five days after filing a complaint with authorities.</p>\n<p>The post <a href=\"https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/\">Market Research Giant Ipsos Investigating Breach of Internal System </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The company made the incident public on Monday, November 16, five days after filing a complaint with authorities",
+      "issue": "The command-and-control (C2) channel is the operational backbone of any persistent malware campaign",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "High",
       "cves": [],
       "threat_categories": [
-        "Data Breach",
         "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Fandango Warns Ticket Buyers of Payment Card Data Exposure",
-    "link": "https://www.securityweek.com/fandango-warns-ticket-buyers-of-payment-card-data-exposure/",
-    "published": "Tue, 17 Nov 2026 14:14:24 +0000",
-    "summary": "<p>Card numbers, CVVs, expiration dates, and email addresses used at Fandango’s ticketing checkout over four days in October may have been exposed.</p>\n<p>The post <a href=\"https://www.securityweek.com/fandango-warns-ticket-buyers-of-payment-card-data-exposure/\">Fandango Warns Ticket Buyers of Payment Card Data Exposure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Card numbers, CVVs, expiration dates, and email addresses used at Fandango’s ticketing checkout over four days in October may have been exposed",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool",
-    "link": "https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/",
-    "published": "Tue, 17 Nov 2026 14:00:00 +0000",
-    "summary": "<p>Pretxt provides technology to prevent AI agents escaping their guardrails and causing unintended harm.</p>\n<p>The post <a href=\"https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/\">Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Pretxt provides technology to prevent AI agents escaping their guardrails and causing unintended harm",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "MSP ScreenConnect Servers Targeted in Month-Long Campaign",
-    "link": "https://www.securityweek.com/msp-screenconnect-servers-targeted-in-month-long-campaign/",
-    "published": "Tue, 17 Nov 2026 13:24:43 +0000",
-    "summary": "<p>More than 40 servers received over 688,000 requests exploiting CVE-2026-84869 to execute guest-pushed files.</p>\n<p>The post <a href=\"https://www.securityweek.com/msp-screenconnect-servers-targeted-in-month-long-campaign/\">MSP ScreenConnect Servers Targeted in Month-Long Campaign</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "More than 40 servers received over 688,000 requests exploiting CVE-2026-84869 to execute guest-pushed files",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-84869"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Access Dental Management Data Breach Impacts Over 340,000",
-    "link": "https://www.securityweek.com/access-dental-management-data-breach-impacts-over-340000/",
-    "published": "Tue, 17 Nov 2026 12:59:04 +0000",
-    "summary": "<p>Hackers breached Access Dental’s network and stole personal, health, and insurance information.</p>\n<p>The post <a href=\"https://www.securityweek.com/access-dental-management-data-breach-impacts-over-340000/\">Access Dental Management Data Breach Impacts Over 340,000</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Hackers breached Access Dental’s network and stole personal, health, and insurance information",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
+        "Malware",
         "Supply Chain"
       ]
     }
   },
   {
-    "source": "Security Week",
-    "title": "Corma Receives $125 Million to Train Foundation Models for Defensive Cybersecurity",
-    "link": "https://www.securityweek.com/corma-receives-125-million-to-train-foundation-models-for-defensive-cybersecurity/",
-    "published": "Tue, 17 Nov 2026 12:51:54 +0000",
-    "summary": "<p>Led by NEA and supported by existing investors, the funding brings the company’s valuation to $1 billion.</p>\n<p>The post <a href=\"https://www.securityweek.com/corma-receives-125-million-to-train-foundation-models-for-defensive-cybersecurity/\">Corma Receives $125 Million to Train Foundation Models for Defensive Cybersecurity</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "source": "Talos Blog",
+    "title": "UAT-12643: Suspected North Korea-aligned actor blends blockchain resilience with targeted infostealing",
+    "link": "https://blog.talosintelligence.com/uat-12643-suspected-north-korea-aligned-actor-blends-blockchain-resilience-with-targeted-infostealing/",
+    "published": "Wed, 18 Nov 2026 11:00:00 GMT",
+    "summary": "Cisco Talos discovered malicious infrastructure associated with a financially motivated threat group we are tracking as UAT-12643.",
     "analysis": {
-      "issue": "Led by NEA and supported by existing investors, the funding brings the company’s valuation to $1 billion",
+      "issue": "The threat actor is potentially targeting victims in Europe, according to the payload’s keyword-based file harvesting capability, which specifically targeted documents that had file names in English, French, Spanish, and Portuguese",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "N-able Kills Legacy APIs, Patches 17 N-central Zero-Days",
-    "link": "https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days/",
-    "published": "Tue, 17 Nov 2026 12:28:45 +0000",
-    "summary": "<p>The patches target recently disclosed zero-days, as well as vulnerabilities already exploited in the wild.</p>\n<p>The post <a href=\"https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days/\">N-able Kills Legacy APIs, Patches 17 N-central Zero-Days</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The patches target recently disclosed zero-days, as well as vulnerabilities already exploited in the wild",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-129271",
-        "CVE-2026-90436",
-        "CVE-2026-129287"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
+        "Malware",
+        "APT"
       ]
     }
   },
   {
     "source": "Talos Blog",
-    "title": "CVE-2026-114938: Critical vulnerability in OpenJDK JAVA",
+    "title": "CVE-2026-114938: Critical vulnerability in OpenJDK Java",
     "link": "https://blog.talosintelligence.com/java4shell/",
     "published": "Wed, 18 Nov 2026 01:53:03 GMT",
     "summary": "Cisco Talos is tracking the disclosure of a critical vulnerability in OpenJDK Java (CVE-2026-114938), dubbed “Java4Shell,” with a CVSS 4.0 score of 9.2 that may lead to unauthenticated remote code execution (RCE).",
     "analysis": {
-      "issue": "Cisco Talos is tracking the disclosure of a critical vulnerability in OpenJDK Java (CVE-2026-114938), dubbed “Java4Shell,” with a CVSS 4",
+      "issue": "Update 11/18/2026: Cisco has released a security advisory on products potentially affected by this vulnerability",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -830,8 +870,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-124194",
         "CVE-2026-113862",
+        "CVE-2026-124194",
         "CVE-2026-118148",
         "CVE-2026-118146"
       ],
@@ -919,39 +959,20 @@
     }
   },
   {
-    "source": "Talos Blog",
-    "title": "NIK C2: The new AI-enabled command-and-control framework",
-    "link": "https://blog.talosintelligence.com/nik-c2-new-ai-enabled-framework/",
-    "published": "Thu, 29 Oct 2026 10:00:00 GMT",
-    "summary": "Cisco Talos observed a new AI-integrated command-and-control (C2) framework in the wild called “NIK C2.”",
+    "source": "Recorded Future",
+    "title": "Recorded Future Launches New Automation Capabilities for Tech Stack Watch List",
+    "link": "https://www.recordedfuture.com/blog/tech-stack-automation",
+    "published": "Wed, 18 Nov 2026 00:00:00 GMT",
+    "summary": "Recorded Future's new Tech Stack Watch List Connectors keep your Tech Stack Watch List current through the tools you already run, with limited manual upkeep.",
     "analysis": {
-      "issue": "The NIK C2 implant is a Go-based, 64-bit Windows remote access tool that grants persistent control over compromised hosts using a resilient dual-channel C2 architecture",
+      "issue": "Recorded Future's new Tech Stack Watch List Connectors keep your Tech Stack Watch List current through the tools you already run, with limited manual upkeep",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "High",
+      "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Ransomware",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "Inside KeyDrift: Analyzing historical UAT-11473 activity on Cisco SD-WAN",
-    "link": "https://blog.talosintelligence.com/uat-11473-keydrift/",
-    "published": "Wed, 28 Oct 2026 21:32:02 GMT",
-    "summary": "Talos has identified UAT-11473, a highly sophisticated APT, who exploited CVE-2026-20127, an authentication bypass vulnerability in Cisco SD-WAN Catalyst Controller instances to bypass authentication and gain unauthorized access to affected systems to deploy KeyDrift.",
-    "analysis": {
-      "issue": "Talos assesses with high confidence that UAT-11473’s operating infrastructure overlaps considerably with Volt Typhoon’s “Silent Train” covert access network",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
+        "General Security"
       ]
     }
   },
@@ -1115,24 +1136,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "PHP2Shell Exploitation: Two Critical PHP Flaws Explained",
-    "link": "https://www.recordedfuture.com/blog/php2shell-vulnerability-exploitation",
-    "published": "Wed, 21 Oct 2026 00:00:00 GMT",
-    "summary": "Two critical PHP remote code execution flaws (PHP2Shell) are reportedly being exploited. See who’s exposed, how the exploits work, and how to remediate now.",
-    "analysis": {
-      "issue": "Two critical PHP remote code execution flaws (PHP2Shell) are reportedly being exploited",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -1303,8 +1306,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1326,6 +1329,46 @@
       "severity": "Critical",
       "cves": [
         "CVE-2022-2856"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Who protects the antivirus? How we secure Malwarebytes itself",
+    "link": "https://www.malwarebytes.com/blog/inside-malwarebytes/2026/11/who-protects-the-antivirus-how-we-secure-malwarebytes-itself",
+    "published": "Wed, 18 Nov 2026 13:32:54 GMT",
+    "summary": "Imagine a piece of malware that can disable your antivirus and leave you unprotected. That's exactly what we as engineers work to prevent.",
+    "analysis": {
+      "issue": "An antivirus is also software, and it can have weaknesses of its own",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Java4Shell: A critical flaw with a narrow reach",
+    "link": "https://www.malwarebytes.com/blog/bugs/2026/11/java4shell-a-critical-flaw-with-a-narrow-reach",
+    "published": "Wed, 18 Nov 2026 11:41:07 GMT",
+    "summary": "Researchers used AI to find a Java vulnerability and named it Java4Shell. Here’s why organizations need to patch.",
+    "analysis": {
+      "issue": "A critical-sounding Java flaw is making headlines",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-114938"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1479,31 +1522,13 @@
     }
   },
   {
-    "source": "Malwarebytes",
-    "title": "How to prepare your digital accounts for after your death",
-    "link": "https://www.malwarebytes.com/blog/how-to/2026/11/how-to-prepare-your-digital-accounts-for-after-your-death",
-    "published": "Mon, 16 Nov 2026 12:52:51 GMT",
-    "summary": "Make it easier for loved ones to manage your online accounts, preserve important files, and follow your wishes.",
+    "source": "Crowdstrike Blog",
+    "title": "CrowdStrike Brings the Human Advantage to AI Detection and Response",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-human-advantage-aidr/",
+    "published": "Nov 18, 2026 00:00:00-0600",
+    "summary": "",
     "analysis": {
-      "issue": "A little preparation can make your digital life easier for loved ones to manage after your death",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "How to prepare your data for your death (Lock and Code S07E23)",
-    "link": "https://www.malwarebytes.com/blog/podcast/2026/11/how-to-prepare-your-data-for-your-death-lock-and-code-s07e23",
-    "published": "Mon, 16 Nov 2026 12:20:44 GMT",
-    "summary": "This week on the Lock and Code podcast, we speak with Jed Brubaker about how people can organize and prepare their data before they die.",
-    "analysis": {
-      "issue": "Your family will one day want your photos",
+      "issue": "CrowdStrike Falcon Complete analysts and Falcon Adversary OverWatch threat hunters correlate AI activity with endpoint, identity, cloud, and SaaS telemetry to recognize suspicious patterns that may not be obvious from an isolated AI detection",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1667,24 +1692,6 @@
     "summary": "",
     "analysis": {
       "issue": "CrowdStrike Falcon Seraphic Enterprise Browser is now available through the new unified Falcon platform experience",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Advances AI Security and Safety from Endpoint to Cloud",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-advances-ai-security-and-safety-falcon-guardian/",
-    "published": "Nov 03, 2026 00:00:00-0800",
-    "summary": "",
-    "analysis": {
-      "issue": "CrowdStrike launches a new AI kill switch, now available to Falcon Guardian customers, and introduces innovations that strengthen AI security architecture, expand cloud coverage, and enable agent insider threat detection",
       "solution": null,
       "cause": null,
       "timeline": null,
