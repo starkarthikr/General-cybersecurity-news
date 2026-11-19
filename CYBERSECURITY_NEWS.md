@@ -1,10 +1,85 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-19 07:46:17 UTC
+**Last Updated:** 2026-11-19 17:33:11 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19](https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html)
+### 1. [PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution](https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 19 Nov 2026 20:48:07 +0530  
+**Severity:** Critical  
+**CVEs:** CVE-2026-115560  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication](https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 19 Nov 2026 20:41:06 +0530  
+**Severity:** Critical  
+**CVEs:** CVE-2026-123890  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites](https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 19 Nov 2026 20:03:06 +0530  
+**Severity:** Critical  
+**CVEs:** CVE-2026-132165  
+**Categories:** Vulnerability  
+
+---
+
+### 4. [Everything Is a Web Application, Including Your Firewall](https://thehackernews.com/2026/11/everything-is-web-application-including.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 19 Nov 2026 17:22:23 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 5. [Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions](https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 19 Nov 2026 15:01:26 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 6. [Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE](https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 19 Nov 2026 14:12:11 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 7. [Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle](https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 19 Nov 2026 13:44:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 8. [CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks](https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 19 Nov 2026 13:30:00 +0530  
+**Severity:** Low  
+**Categories:** Ransomware, Vulnerability  
+
+---
+
+### 9. [PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19](https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 19 Nov 2026 10:03:46 +0530  
@@ -13,7 +88,7 @@
 
 ---
 
-### 2. [10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers](https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html)
+### 10. [10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers](https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 19 Nov 2026 00:01:17 +0530  
@@ -22,82 +97,73 @@
 
 ---
 
-### 3. [F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE](https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html)
+### 11. [PHP security updates fix 18 flaws, including critical RCE bugs](https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 18 Nov 2026 23:45:39 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 19 Nov 2026 11:28:23 -0500  
 **Severity:** Critical  
-**Categories:** General Security  
-
----
-
-### 4. [Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required](https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 18 Nov 2026 22:40:45 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-129448  
+**CVEs:** CVE-2026-129289  
 **Categories:** Vulnerability  
 
 ---
 
-### 5. [New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks](https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html)
+### 12. [Five warning signs of ransomware breach before encryption or data theft](https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 18 Nov 2026 19:41:28 +0530  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 6. [New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years](https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 18 Nov 2026 17:58:30 +0530  
-**Severity:** Low  
-**Categories:** General Security  
+**Source:** Bleeping Computer  
+**Published:** Thu, 19 Nov 2026 10:00:10 -0500  
+**Severity:** High  
+**Categories:** Ransomware, Vulnerability, Phishing  
 
 ---
 
-### 7. [AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor](https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html)
+### 13. [Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers](https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 18 Nov 2026 17:45:00 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 8. [Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More](https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 18 Nov 2026 17:25:49 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-114938  
-**Categories:** Vulnerability  
-
----
-
-### 9. [Quality Isn’t The Main Worry About AI Pentesting — Data Privacy and Production Safety Are](https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 18 Nov 2026 16:33:57 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers](https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 18 Nov 2026 13:54:31 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 19 Nov 2026 09:57:24 -0500  
 **Severity:** Critical  
-**CVEs:** CVE-2026-115731  
+**CVEs:** CVE-2026-123007, CVE-2026-123633  
 **Categories:** Vulnerability  
 
 ---
 
-### 11. [Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms](https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/)
+### 14. [Drupal patches critical RCE flaw, warns exploits may surface quickly](https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 19 Nov 2026 08:08:08 -0500  
+**Severity:** Critical  
+**CVEs:** CVE-2026-132166, CVE-2026-132165  
+**Categories:** Vulnerability  
+
+---
+
+### 15. [Microsoft tests new Edge Lockdown Mode that disables GPU APIs](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 19 Nov 2026 06:46:00 -0500  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 16. [Microsoft confirms app installation, launch issues after hotpatch](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 19 Nov 2026 05:35:05 -0500  
+**Severity:** Low  
+**Categories:** Supply Chain  
+
+---
+
+### 17. [NVIDIA investigating Gentlemen ransomware breach claims](https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 19 Nov 2026 04:23:21 -0500  
+**Severity:** Low  
+**Categories:** Ransomware, Data Breach, Supply Chain  
+
+---
+
+### 18. [Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms](https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 18 Nov 2026 18:08:33 -0500  
@@ -106,7 +172,7 @@
 
 ---
 
-### 12. [Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam](https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/)
+### 19. [Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam](https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 18 Nov 2026 15:49:32 -0500  
@@ -115,77 +181,12 @@
 
 ---
 
-### 13. [Data breach impacts 40 Irish credit unions in reported IT provider hack](https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/)
+### 20. [Data breach impacts 40 Irish credit unions in reported IT provider hack](https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 18 Nov 2026 14:39:33 -0500  
 **Severity:** High  
 **Categories:** Data Breach, Vulnerability, Phishing, Supply Chain  
-
----
-
-### 14. [Microsoft’s Agent Framework PyPI package compromised to steal credentials](https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 18 Nov 2026 11:58:42 -0500  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 15. [From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters](https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 18 Nov 2026 10:00:10 -0500  
-**Severity:** High  
-**Categories:** Supply Chain  
-
----
-
-### 16. [Dizigom illegal streaming service with 21M monthly visits shuts down](https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 18 Nov 2026 06:50:25 -0500  
-**Severity:** High  
-**Categories:** General Security  
-
----
-
-### 17. [Apache warns of Roller RCE vulnerability exploited in attacks](https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 18 Nov 2026 05:35:05 -0500  
-**Severity:** Critical  
-**CVEs:** CVE-2026-129448, CVE-2026-82384  
-**Categories:** Vulnerability  
-
----
-
-### 18. [Microsoft announces Windows Server 2028 with hardened security](https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 18 Nov 2026 04:24:31 -0500  
-**Severity:** High  
-**Categories:** General Security  
-
----
-
-### 19. [British Scattered Spider hacker sentenced to 6 years in prison](https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 18 Nov 2026 03:24:18 -0500  
-**Severity:** Critical  
-**Categories:** Phishing  
-
----
-
-### 20. [Critical Java4Shell flaw allows RCE attacks on major Java applications](https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 17 Nov 2026 18:04:21 -0500  
-**Severity:** Critical  
-**CVEs:** CVE-2026-114938  
-**Categories:** Vulnerability  
 
 ---
 
@@ -281,95 +282,100 @@
 
 ---
 
-### 31. [Palo Alto Networks to Buy AI Startup Applied Compute for $4.5 Billion](https://www.securityweek.com/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion/)
+### 31. [PHP Patches Seven Critical RCE Vulnerabilities](https://www.securityweek.com/php-patches-seven-critical-rce-vulnerabilities/)
 
 **Source:** Security Week  
-**Published:** Thu, 19 Nov 2026 03:25:23 +0000  
-**Severity:** Low  
-**Categories:** APT  
-
----
-
-### 32. [VeroSecurity Raises $11 Million for AI Security Engineering Platform](https://www.securityweek.com/verosecurity-raises-11-million-for-ai-security-engineering-platform/)
-
-**Source:** Security Week  
-**Published:** Wed, 18 Nov 2026 15:30:42 +0000  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 33. [Russian APT Poses as Employee of Hacked Firm to Breach Another US Organization](https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization/)
-
-**Source:** Security Week  
-**Published:** Wed, 18 Nov 2026 13:33:47 +0000  
-**Severity:** High  
-**Categories:** Malware, Phishing, APT  
-
----
-
-### 34. [Last of Five Defendants Sentenced in US Scattered Spider Hacking Case](https://www.securityweek.com/last-of-five-defendants-sentenced-in-us-scattered-spider-hacking-case/)
-
-**Source:** Security Week  
-**Published:** Wed, 18 Nov 2026 13:19:32 +0000  
-**Severity:** Low  
-**Categories:** Ransomware, Phishing, APT  
-
----
-
-### 35. [Microsoft Takes Perception Agentic Security Platform Out of Preview](https://www.securityweek.com/microsoft-takes-perception-agentic-security-platform-out-of-preview/)
-
-**Source:** Security Week  
-**Published:** Wed, 18 Nov 2026 12:14:23 +0000  
-**Severity:** High  
-**Categories:** Vulnerability, Phishing  
-
----
-
-### 36. [CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do](https://www.securityweek.com/ciso-conversations-patti-degnan-part-of-the-job-is-deciding-what-not-to-do/)
-
-**Source:** Security Week  
-**Published:** Wed, 18 Nov 2026 12:00:00 +0000  
-**Severity:** High  
-**Categories:** Phishing  
-
----
-
-### 37. [Chrome 158 Patches 204 Vulnerabilities](https://www.securityweek.com/chrome-158-patches-204-vulnerabilities/)
-
-**Source:** Security Week  
-**Published:** Wed, 18 Nov 2026 11:43:22 +0000  
+**Published:** Thu, 19 Nov 2026 15:54:20 +0000  
 **Severity:** Critical  
-**Categories:** Vulnerability, Malware  
-
----
-
-### 38. [Microsoft Agent Framework Releases Poisoned With Credential Stealer](https://www.securityweek.com/microsoft-agent-framework-releases-poisoned-with-credential-stealer/)
-
-**Source:** Security Week  
-**Published:** Wed, 18 Nov 2026 11:05:39 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, Malware, Supply Chain  
-
----
-
-### 39. [Critical Perforce Puppet RCE Exploited in Attacks](https://www.securityweek.com/critical-perforce-puppet-rce-exploited-in-attacks/)
-
-**Source:** Security Week  
-**Published:** Wed, 18 Nov 2026 10:37:08 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-115731, CVE-2026-115732  
+**CVEs:** CVE-2026-126714, CVE-2026-115560, CVE-2026-129481, CVE-2026-129182, CVE-2026-129289, CVE-2026-129474, CVE-2026-109619, CVE-2026-129496  
 **Categories:** Vulnerability  
 
 ---
 
-### 40. [Oracle Patches 950 Vulnerabilities With November 2026 CSPU](https://www.securityweek.com/oracle-patches-640-vulnerabilities-with-november-2026-cspu/)
+### 32. [Nvidia Responds to Gentlemen Ransomware Claim](https://www.securityweek.com/nvidia-responds-to-gentlemen-ransomware-claim/)
 
 **Source:** Security Week  
-**Published:** Wed, 18 Nov 2026 08:47:18 +0000  
+**Published:** Thu, 19 Nov 2026 14:17:32 +0000  
+**Severity:** Low  
+**Categories:** Ransomware, Supply Chain  
+
+---
+
+### 33. [Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release](https://www.securityweek.com/hackers-exploit-cisco-expressway-vulnerability-soon-after-poc-release/)
+
+**Source:** Security Week  
+**Published:** Thu, 19 Nov 2026 13:12:20 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-76466  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 34. [StepSecurity Secures $20 Million to Expand Supply Chain Protection](https://www.securityweek.com/stepsecurity-secures-20-million-to-expand-supply-chain-protection/)
+
+**Source:** Security Week  
+**Published:** Thu, 19 Nov 2026 12:23:34 +0000  
+**Severity:** Low  
+**Categories:** Supply Chain  
+
+---
+
+### 35. [Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks](https://www.securityweek.com/critical-apache-roller-axis-vulnerabilities-exploited-in-attacks/)
+
+**Source:** Security Week  
+**Published:** Thu, 19 Nov 2026 12:13:24 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-82384, CVE-2026-129448, CVE-2026-90436  
+**Categories:** Vulnerability  
+
+---
+
+### 36. [The Governance Gap in Open-Weight AI and What to Do About It](https://www.securityweek.com/the-governance-gap-in-open-weight-ai-and-what-to-do-about-it/)
+
+**Source:** Security Week  
+**Published:** Thu, 19 Nov 2026 12:00:00 +0000  
+**Severity:** High  
+**Categories:** Malware, APT  
+
+---
+
+### 37. [Splunk Patches Nearly 140 Flaws Across Three Core Products](https://www.securityweek.com/splunk-patches-nearly-140-flaws-across-three-core-products/)
+
+**Source:** Security Week  
+**Published:** Thu, 19 Nov 2026 10:41:05 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-76536, CVE-2026-131202, CVE-2026-131253, CVE-2026-76535, CVE-2026-131287  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 38. [F5 Patches Critical NGINX2Root Flaws as PoC Exploits Go Public](https://www.securityweek.com/f5-patches-critical-nginx2root-flaws-as-poc-exploits-go-public/)
+
+**Source:** Security Week  
+**Published:** Thu, 19 Nov 2026 10:26:51 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-123007, CVE-2026-123634, CVE-2026-121810, CVE-2026-113425, CVE-2026-123633  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 39. [Java4Shell Exploitation Attempts Begin as Vendors Rush Out Advisories](https://www.securityweek.com/java4shell-exploitation-attempts-begin-as-vendors-rush-out-advisories/)
+
+**Source:** Security Week  
+**Published:** Thu, 19 Nov 2026 09:10:58 +0000  
 **Severity:** Critical  
 **CVEs:** CVE-2026-114938  
-**Categories:** Vulnerability, Supply Chain  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 40. [PHP Readies Critical Security Updates to Patch Another RCE Flaw](https://www.securityweek.com/php-readies-critical-security-updates-to-patch-another-rce-flaw/)
+
+**Source:** Security Week  
+**Published:** Thu, 19 Nov 2026 07:45:17 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-115560, CVE-2026-109619  
+**Categories:** Vulnerability  
 
 ---
 
@@ -466,7 +472,16 @@
 
 ---
 
-### 51. [Recorded Future Launches New Automation Capabilities for Tech Stack Watch List](https://www.recordedfuture.com/blog/tech-stack-automation)
+### 51. [Regional Insights: 2027 State of Threat Intelligence](https://www.recordedfuture.com/blog/2027-soti-regional-summaries)
+
+**Source:** Recorded Future  
+**Published:** Thu, 19 Nov 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 52. [Recorded Future Launches New Automation Capabilities for Tech Stack Watch List](https://www.recordedfuture.com/blog/tech-stack-automation)
 
 **Source:** Recorded Future  
 **Published:** Wed, 18 Nov 2026 00:00:00 GMT  
@@ -475,7 +490,7 @@
 
 ---
 
-### 52. [What Is Threat Intelligence Worth? 142 Security Teams Did the Math.](https://www.recordedfuture.com/blog/threat-intelligence-roi)
+### 53. [What Is Threat Intelligence Worth? 142 Security Teams Did the Math.](https://www.recordedfuture.com/blog/threat-intelligence-roi)
 
 **Source:** Recorded Future  
 **Published:** Tue, 17 Nov 2026 00:00:00 GMT  
@@ -484,7 +499,7 @@
 
 ---
 
-### 53. [Five Findings From the 2027 State of Threat Intelligence](https://www.recordedfuture.com/blog/state-of-threat-intelligence-2027)
+### 54. [Five Findings From the 2027 State of Threat Intelligence](https://www.recordedfuture.com/blog/state-of-threat-intelligence-2027)
 
 **Source:** Recorded Future  
 **Published:** Thu, 12 Nov 2026 00:00:00 GMT  
@@ -493,7 +508,7 @@
 
 ---
 
-### 54. [AI Is Both Target and Tool for Threat Actors](https://www.recordedfuture.com/research/ai-cyber-threat-trends-2026)
+### 55. [AI Is Both Target and Tool for Threat Actors](https://www.recordedfuture.com/research/ai-cyber-threat-trends-2026)
 
 **Source:** Recorded Future  
 **Published:** Wed, 11 Nov 2026 00:00:00 GMT  
@@ -502,7 +517,7 @@
 
 ---
 
-### 55. [DoppelCart Fraud Network Grows to More Than 250,000 Domains](https://www.recordedfuture.com/blog/doppelcart-fraud-network-grows-domains)
+### 56. [DoppelCart Fraud Network Grows to More Than 250,000 Domains](https://www.recordedfuture.com/blog/doppelcart-fraud-network-grows-domains)
 
 **Source:** Recorded Future  
 **Published:** Tue, 10 Nov 2026 00:00:00 GMT  
@@ -511,7 +526,7 @@
 
 ---
 
-### 56. [GhostFrame: A new ESXi Implant Linked to Settra Ransomware](https://www.recordedfuture.com/blog/ghostframe-esxi-implant-settra-ransomware)
+### 57. [GhostFrame: A new ESXi Implant Linked to Settra Ransomware](https://www.recordedfuture.com/blog/ghostframe-esxi-implant-settra-ransomware)
 
 **Source:** Recorded Future  
 **Published:** Tue, 10 Nov 2026 00:00:00 GMT  
@@ -520,7 +535,7 @@
 
 ---
 
-### 57. [October 2026 CVE Landscape](https://www.recordedfuture.com/blog/october-2026-cve-landscape)
+### 58. [October 2026 CVE Landscape](https://www.recordedfuture.com/blog/october-2026-cve-landscape)
 
 **Source:** Recorded Future  
 **Published:** Fri, 06 Nov 2026 00:00:00 GMT  
@@ -529,7 +544,7 @@
 
 ---
 
-### 58. [The Shift: Rethinking the Human in the Loop](https://www.recordedfuture.com/blog/the-shift-rethinking-human-in-the-loop)
+### 59. [The Shift: Rethinking the Human in the Loop](https://www.recordedfuture.com/blog/the-shift-rethinking-human-in-the-loop)
 
 **Source:** Recorded Future  
 **Published:** Thu, 05 Nov 2026 00:00:00 GMT  
@@ -538,21 +553,12 @@
 
 ---
 
-### 59. [Prediction Markets Emerge as a New Vertical for Traffer Teams](https://www.recordedfuture.com/research/prediction-markets-traffer-teams)
+### 60. [Prediction Markets Emerge as a New Vertical for Traffer Teams](https://www.recordedfuture.com/research/prediction-markets-traffer-teams)
 
 **Source:** Recorded Future  
 **Published:** Thu, 29 Oct 2026 00:00:00 GMT  
 **Severity:** Low  
 **Categories:** Vulnerability  
-
----
-
-### 60. [Behind Japan’s Warnings of a Cyber Crisis](https://www.recordedfuture.com/blog/japan-cyber-crisis-warnings)
-
-**Source:** Recorded Future  
-**Published:** Thu, 22 Oct 2026 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -636,7 +642,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -651,7 +657,25 @@
 
 ---
 
-### 71. [Outage or attack? Don’t let social media fill in the gaps](https://www.malwarebytes.com/blog/ai/2026/11/outage-or-attack-dont-let-social-media-fill-in-the-gaps)
+### 71. [Chrome patches six critical flaws, two found with AI’s help](https://www.malwarebytes.com/blog/bugs/2026/11/chrome-patches-six-critical-flaws-two-found-with-ais-help)
+
+**Source:** Malwarebytes  
+**Published:** Thu, 19 Nov 2026 12:38:38 GMT  
+**Severity:** Critical  
+**Categories:** General Security  
+
+---
+
+### 72. [Scattered Spider’s phishing and SIM-swap tactics led to six-year sentence](https://www.malwarebytes.com/blog/news/2026/11/scattered-spiders-phishing-and-sim-swap-tactics-led-to-six-year-sentence)
+
+**Source:** Malwarebytes  
+**Published:** Thu, 19 Nov 2026 09:41:18 GMT  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 73. [Outage or attack? Don’t let social media fill in the gaps](https://www.malwarebytes.com/blog/ai/2026/11/outage-or-attack-dont-let-social-media-fill-in-the-gaps)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 18 Nov 2026 22:07:01 GMT  
@@ -660,7 +684,7 @@
 
 ---
 
-### 72. [GTA 6 scams could cost you your account, money, or crypto](https://www.malwarebytes.com/blog/scams/2026/11/gta-6-scams-could-cost-you-your-account-money-or-crypto)
+### 74. [GTA 6 scams could cost you your account, money, or crypto](https://www.malwarebytes.com/blog/scams/2026/11/gta-6-scams-could-cost-you-your-account-money-or-crypto)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 18 Nov 2026 22:06:05 GMT  
@@ -669,7 +693,7 @@
 
 ---
 
-### 73. [Who protects the antivirus? How we secure Malwarebytes itself](https://www.malwarebytes.com/blog/inside-malwarebytes/2026/11/who-protects-the-antivirus-how-we-secure-malwarebytes-itself)
+### 75. [Who protects the antivirus? How we secure Malwarebytes itself](https://www.malwarebytes.com/blog/inside-malwarebytes/2026/11/who-protects-the-antivirus-how-we-secure-malwarebytes-itself)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 18 Nov 2026 13:32:54 GMT  
@@ -678,7 +702,7 @@
 
 ---
 
-### 74. [Java4Shell: A critical flaw with a narrow reach](https://www.malwarebytes.com/blog/bugs/2026/11/java4shell-a-critical-flaw-with-a-narrow-reach)
+### 76. [Java4Shell: A critical flaw with a narrow reach](https://www.malwarebytes.com/blog/bugs/2026/11/java4shell-a-critical-flaw-with-a-narrow-reach)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 18 Nov 2026 11:41:07 GMT  
@@ -688,7 +712,7 @@
 
 ---
 
-### 75. [OpenAI lost control of AI agents over 80 times, California alleges](https://www.malwarebytes.com/blog/ai/2026/11/openai-lost-control-of-ai-agents-over-80-times-california-alleges)
+### 77. [OpenAI lost control of AI agents over 80 times, California alleges](https://www.malwarebytes.com/blog/ai/2026/11/openai-lost-control-of-ai-agents-over-80-times-california-alleges)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 17 Nov 2026 18:29:25 GMT  
@@ -697,7 +721,7 @@
 
 ---
 
-### 76. [“Amazon” job offer promises $5,000 a month, but it’s got all the signs of a scam](https://www.malwarebytes.com/blog/threat-intel/2026/11/amazon-job-offer-promises-5000-a-month-but-its-got-all-the-signs-of-a-scam)
+### 78. [“Amazon” job offer promises $5,000 a month, but it’s got all the signs of a scam](https://www.malwarebytes.com/blog/threat-intel/2026/11/amazon-job-offer-promises-5000-a-month-but-its-got-all-the-signs-of-a-scam)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 17 Nov 2026 13:37:48 GMT  
@@ -706,7 +730,7 @@
 
 ---
 
-### 77. [CNN, BBC, Zoom, and other sites served malicious code in supply-chain attack](https://www.malwarebytes.com/blog/news/2026/11/cnn-bbc-zoom-and-other-sites-served-malicious-code-in-supply-chain-attack)
+### 79. [CNN, BBC, Zoom, and other sites served malicious code in supply-chain attack](https://www.malwarebytes.com/blog/news/2026/11/cnn-bbc-zoom-and-other-sites-served-malicious-code-in-supply-chain-attack)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 17 Nov 2026 12:51:03 GMT  
@@ -715,30 +739,12 @@
 
 ---
 
-### 78. [Facebook may have access to your entire photo gallery](https://www.malwarebytes.com/blog/mobile/2026/11/facebook-may-have-access-to-your-entire-photo-gallery)
+### 80. [Facebook may have access to your entire photo gallery](https://www.malwarebytes.com/blog/mobile/2026/11/facebook-may-have-access-to-your-entire-photo-gallery)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 17 Nov 2026 11:34:09 GMT  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 79. [Holiday shopping in a world of fakes: How AI is changing the game](https://www.malwarebytes.com/blog/threat-intel/2026/11/holiday-shopping-in-a-world-of-fakes-how-ai-is-changing-the-game)
-
-**Source:** Malwarebytes  
-**Published:** Tue, 17 Nov 2026 11:29:09 GMT  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 80. [Hijacked Bitly links turn old brand posts into offensive redirects](https://www.malwarebytes.com/blog/news/2026/11/hijacked-bitly-links-turn-old-brand-posts-into-offensive-redirects)
-
-**Source:** Malwarebytes  
-**Published:** Mon, 16 Nov 2026 13:50:47 GMT  
-**Severity:** Low  
-**Categories:** Vulnerability  
 
 ---
 
@@ -832,70 +838,70 @@
 
 ---
 
-### 91. [CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog)
+### 91. [Elecbrakes EB2, VM1, ELBC2000](https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02)
+
+**Source:** Cisa Alerts  
+**Published:** Thu, 19 Nov 26 12:00:00 +0000  
+
+---
+
+### 92. [libumqtt](https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03)
+
+**Source:** Cisa Alerts  
+**Published:** Thu, 19 Nov 26 12:00:00 +0000  
+
+---
+
+### 93. [Autonomy Logic OpenPLC Runtime](https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01)
+
+**Source:** Cisa Alerts  
+**Published:** Thu, 19 Nov 26 12:00:00 +0000  
+
+---
+
+### 94. [CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog)
 
 **Source:** Cisa Alerts  
 **Published:** Wed, 18 Nov 26 12:00:00 +0000  
 
 ---
 
-### 92. [Siemens ROS#](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06)
+### 95. [Siemens Simcenter Femap](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10)
 
 **Source:** Cisa Alerts  
 **Published:** Tue, 17 Nov 26 12:00:00 +0000  
 
 ---
 
-### 93. [Dorsett Controls InfoScan](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-01)
+### 96. [Dorsett Controls InfoScan](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-01)
 
 **Source:** Cisa Alerts  
 **Published:** Tue, 17 Nov 26 12:00:00 +0000  
 
 ---
 
-### 94. [Siemens Mendix Studio Pro](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-05)
+### 97. [Siemens Mendix Studio Pro](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-05)
 
 **Source:** Cisa Alerts  
 **Published:** Tue, 17 Nov 26 12:00:00 +0000  
 
 ---
 
-### 95. [Siemens .NET Client Library for SIMATIC S7 Webserver API](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-02)
+### 98. [Siemens .NET Client Library for SIMATIC S7 Webserver API](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-02)
 
 **Source:** Cisa Alerts  
 **Published:** Tue, 17 Nov 26 12:00:00 +0000  
 
 ---
 
-### 96. [Critical Java Vulnerability Requires Immediate Patching](https://www.cisa.gov/news-events/alerts/2026/11/17/critical-java-vulnerability-requires-immediate-patching)
+### 99. [Critical Java Vulnerability Requires Immediate Patching](https://www.cisa.gov/news-events/alerts/2026/11/17/critical-java-vulnerability-requires-immediate-patching)
 
 **Source:** Cisa Alerts  
 **Published:** Tue, 17 Nov 26 12:00:00 +0000  
 
 ---
 
-### 97. [Siemens Industrial Software Products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-04)
-
-**Source:** Cisa Alerts  
-**Published:** Tue, 17 Nov 26 12:00:00 +0000  
-
----
-
-### 98. [Siemens Simcenter Femap](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10)
-
-**Source:** Cisa Alerts  
-**Published:** Tue, 17 Nov 26 12:00:00 +0000  
-
----
-
-### 99. [Siemens SIMATIC](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-08)
-
-**Source:** Cisa Alerts  
-**Published:** Tue, 17 Nov 26 12:00:00 +0000  
-
----
-
-### 100. [Siemens Industrial Automation Software Products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-03)
+### 100. [Siemens Industrial Software Products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-04)
 
 **Source:** Cisa Alerts  
 **Published:** Tue, 17 Nov 26 12:00:00 +0000  

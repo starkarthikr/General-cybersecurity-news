@@ -1,6 +1,157 @@
 [
   {
     "source": "The Hacker News",
+    "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
+    "link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
+    "published": "Thu, 19 Nov 2026 20:48:07 +0530",
+    "summary": "The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including CVE-2026-115560.\n\nThe release of the patch follows an advance notice in which the project maintainers alerted users to multiple critical vulnerabilities affecting all supported PHP versions under specific",
+    "analysis": {
+      "issue": "PHP patches 7 critical vulnerabilities, including CVE-2026-115560, that could enable remote code execution on affected deployments",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-115560"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
+    "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
+    "published": "Thu, 19 Nov 2026 20:41:06 +0530",
+    "summary": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today.\n\nFixed versions are out for all supported branches, and the company lists no workaround. vCenter is the central console for managing an organization's ESX hosts and virtual machines.\n\nThe",
+    "analysis": {
+      "issue": "Broadcom patched CVE-2026-123890, a critical VMware vCenter authentication bypass flaw requiring network access, with no listed workaround",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-123890"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
+    "link": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
+    "published": "Thu, 19 Nov 2026 20:03:06 +0530",
+    "summary": "Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site.\n\nThat can lead to a site takeover or remote code execution, and the project rates the vulnerable configurations as uncommon. Fixed releases for all supported branches shipped yesterday.\n\nThe Drupal Security Team disclosed",
+    "analysis": {
+      "issue": "Drupal fixes critical CVE-2026-132165, an installer flaw that could enable site takeover or RCE under uncommon configurations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-132165"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Everything Is a Web Application, Including Your Firewall",
+    "link": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
+    "published": "Thu, 19 Nov 2026 17:22:23 +0530",
+    "summary": "One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, against PAN-OS management interfaces exposed to the internet. Both flaws let anyone execute code on the web server without authentication. The disclosure itself went a little wrong.",
+    "analysis": {
+      "issue": "Attackers exploited PHP2Shell flaws in PAN-OS management interfaces, chaining a Linux kernel bug to gain root on 25 systems",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
+    "link": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
+    "published": "Thu, 19 Nov 2026 15:01:26 +0530",
+    "summary": "N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces and APIs.\n\n\"We have taken steps to mitigate the threat and are continuing to harden our services to reduce the risk of recurrence,\" N-able said.\n\n\"The investigation is ongoing, but at this time we",
+    "analysis": {
+      "issue": "N-able confirms unauthorized server access disrupted Mail Assure and SpamExperts management services, with no evidence of customer data compromise",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
+    "link": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
+    "published": "Thu, 19 Nov 2026 14:12:11 +0530",
+    "summary": "Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown that crafted input can run code on the machine.\n\n\"We are aware of PoCs that prove some of them can be used to trigger remote code execution,\" the maintainers said.\n\nThe project released fixed versions",
+    "analysis": {
+      "issue": "Ruby patched seven memory-safety flaws, including five with remote code execution PoCs, in regex handling and string case conversion",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
+    "link": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
+    "published": "Thu, 19 Nov 2026 13:44:00 +0530",
+    "summary": "Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has shown, by reaching memory-corruption bugs in the engine code behind ordinary SQL.\n\nThe exploits, published yesterday, are the researcher's proofs of concept against PostgreSQL, MySQL and ClickHouse, plus a separate Oracle chain that needs no",
+    "analysis": {
+      "issue": "Researcher demonstrates database RCE exploits in PostgreSQL, MySQL and ClickHouse, plus an unauthenticated Oracle chain; no attacks observed",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
+    "link": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
+    "published": "Thu, 19 Nov 2026 13:30:00 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache Axis, and Vanderbilt University Research Electronic Data Capture (REDCap) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nThe vulnerabilities are listed below -",
+    "analysis": {
+      "issue": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks | Read more hacking news on The Hacker News cybersecurity news website and learn how to protect against cyberattacks and software vulnerabilities",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
     "link": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
     "published": "Thu, 19 Nov 2026 10:03:46 +0530",
@@ -36,152 +187,140 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
-    "link": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
-    "published": "Wed, 18 Nov 2026 23:45:39 +0530",
-    "summary": "Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts.\n\nEach flaw needs a specific setup on a virtual server: an iRule that uses a particular command, or an APM policy that includes two particular kinds of agent.\n\nF5, which makes BIG-IP, disclosed the flaws today and says they",
+    "source": "Bleeping Computer",
+    "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
+    "link": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/",
+    "published": "Thu, 19 Nov 2026 11:28:23 -0500",
+    "summary": "The PHP development team released security updates addressing 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers to remotely execute code on vulnerable servers. [...]",
     "analysis": {
-      "issue": "F5 fixes six critical BIG-IP flaws that allow unauthenticated traffic disruption and may enable code execution in specific configurations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
-    "link": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
-    "published": "Wed, 18 Nov 2026 22:40:45 +0530",
-    "summary": "A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF)\n\nThe vulnerability, tracked as CVE-2026-129448 (CVSS score: 9.8), is a case of unauthenticated deserialization in the XML-RPC endpoint that could lead to remote code execution.\n\n\"Deserialization of Untrusted",
-    "analysis": {
-      "issue": "Apache Roller CVE-2026-129448 is actively exploited, allowing unauthenticated remote code execution via XML-RPC",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-129448"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
-    "link": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
-    "published": "Wed, 18 Nov 2026 19:41:28 +0530",
-    "summary": "The suspected Chinese advanced persistent threat (APT) group behind the sophisticated EggStreme malware has rebuilt its toolkit as it continues to target government organizations in the Philippines.\n\n\"When attackers are exposed, the cheap response is to rotate,\" Bitdefender said in a technical report shared with The Hacker News. \"A file hash changes with every recompile, a domain costs a few",
-    "analysis": {
-      "issue": "EggStreme operators retooled their backdoor with new commands and passive mode while continuing to target Philippine government organizations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
-    "link": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
-    "published": "Wed, 18 Nov 2026 17:58:30 +0530",
-    "summary": "On AMD-based PCs and some Intel PCs, the TPM lockout for Windows Hello and BitLocker PINs can be reset by someone who opens the PC's case, researchers at Technische Universität Berlin say.\n\nThat leaves short PINs open to guessing. In lab tests, the researchers found a four-digit Hello PIN on an AMD laptop and a 6-digit BitLocker PIN on an Intel laptop this way.\n\nBoth PINs were set by the",
-    "analysis": {
-      "issue": "Researchers demonstrate physical attacks that bypass TPM PIN lockouts on AMD and some Intel PCs, exposing Windows Hello and BitLocker PINs",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor",
-    "link": "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html",
-    "published": "Wed, 18 Nov 2026 17:45:00 +0530",
-    "summary": "TL;DR\n\n\n  Attackers move first. On average, exploitation now starts before a patch exists (Mandiant M-Trends 2026). In 1H 2026, 23% of vulnerabilities VulnCheck added to its exploited list were hit on or before disclosure day.\n  AI pentesting vendors aren't interchangeable. Most look convincing in a demo. The gaps show up in your logged-in flows, your coverage, and your production safety.\n  Make",
-    "analysis": {
-      "issue": "Evaluate AI pentesting vendors with 15 questions and a 36-point scorecard covering application context, exploit validation, coverage, and safety",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
-    "link": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
-    "published": "Wed, 18 Nov 2026 17:25:49 +0530",
-    "summary": "A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says Calif, the security research firm that disclosed it this week.\n\nThe flaw is present in Java 17.0.6 and later, and the vulnerable code runs only on x86-64 Intel and AMD chips that support the AVX-512 VBMI feature.\n\nTracked as",
-    "analysis": {
-      "issue": "Java4Shell (CVE-2026-114938) could enable unauthenticated code execution in six applications on affected AVX-512 Java servers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-114938"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Quality Isn’t The Main Worry About AI Pentesting — Data Privacy and Production Safety Are",
-    "link": "https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html",
-    "published": "Wed, 18 Nov 2026 16:33:57 +0530",
-    "summary": "AI is speeding up how software is built, which means more code, more changes, and more chances for vulnerabilities to reach production. It's speeding up how attackers find and exploit them too, with time-to-exploit now down to a single day. Security testing has to keep up with both.\n\nAI pentesting has emerged as a way to run in-depth tests whenever teams need them, instead of waiting for the",
-    "analysis": {
-      "issue": "Intruder's survey of 500 leaders finds 96% lack sufficient testing coverage, while 55% report using AI pentesting across their environments",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers",
-    "link": "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html",
-    "published": "Wed, 18 Nov 2026 13:54:31 +0530",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting Perforce Puppet, an enterprise infrastructure-as-code (IaC) and configuration management platform, to its Known Exploited Vulnerabilities (KEV) catalog, citing reports of active exploitation.\n\nThe vulnerability, tracked as CVE-2026-115731 (CVSS score: 9.4), is a case of",
-    "analysis": {
-      "issue": "CISA flags active exploitation of CVE-2026-115731, a critical Puppet RCE flaw requiring a valid agent certificate",
+      "issue": "The PHP dev team released security updates for 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers to remotely execute code on vulnerable servers",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-115731"
+        "CVE-2026-129289"
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Five warning signs of ransomware breach before encryption or data theft",
+    "link": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
+    "published": "Thu, 19 Nov 2026 10:00:10 -0500",
+    "summary": "Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help defenders detect intrusions earlier, contain malicious activity, and protect critical systems and backups. [...]",
+    "analysis": {
+      "issue": "Ask many IT teams how they would recognize ransomware, and the answer is still “when files start changing extensions",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
+    "published": "Thu, 19 Nov 2026 09:57:24 -0500",
+    "summary": "Two critical NGINX vulnerabilities dubbed \"nginx2root\" allow unauthenticated attackers to execute code remotely on vulnerable web servers, with researchers demonstrating how the flaws can be chained with a Linux kernel bug to gain root access. [...]",
+    "analysis": {
+      "issue": "Two critical NGINX vulnerabilities dubbed \"nginx2root\" allow unauthenticated attackers to execute code remotely on vulnerable web servers, with researchers demonstrating how the flaws can be chained with a Linux kernel bug to gain root access",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-123007",
+        "CVE-2026-123633"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
+    "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
+    "published": "Thu, 19 Nov 2026 08:08:08 -0500",
+    "summary": "The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]",
+    "analysis": {
+      "issue": "The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-132166",
+        "CVE-2026-132165"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/",
+    "published": "Thu, 19 Nov 2026 06:46:00 -0500",
+    "summary": "Microsoft is developing a new Edge security feature to reduce the attack surface by disabling the WebGL, WebGL2, and WebGPU APIs. [...]",
+    "analysis": {
+      "issue": "​Microsoft is developing a new Edge security feature to reduce the attack surface by disabling the WebGL, WebGL2, and WebGPU APIs",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft confirms app installation, launch issues after hotpatch",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/",
+    "published": "Thu, 19 Nov 2026 05:35:05 -0500",
+    "summary": "Microsoft has shared a workaround for installation and launch issues affecting Office and third-party applications after installing this month's Windows 11 hotpatch. [...]",
+    "analysis": {
+      "issue": "Microsoft has shared a workaround for installation and launch issues affecting Office and third-party applications after installing this month's Windows 11 hotpatch",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "NVIDIA investigating Gentlemen ransomware breach claims",
+    "link": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
+    "published": "Thu, 19 Nov 2026 04:23:21 -0500",
+    "summary": "NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site. [...]",
+    "analysis": {
+      "issue": "NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Supply Chain"
       ]
     }
   },
@@ -239,137 +378,6 @@
         "Vulnerability",
         "Phishing",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft’s Agent Framework PyPI package compromised to steal credentials",
-    "link": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/",
-    "published": "Wed, 18 Nov 2026 11:58:42 -0500",
-    "summary": "Hackers compromised Microsoft's official Agent Framework Python package on PyPI, publishing two malicious versions designed to steal cloud credentials and other sensitive information from developers' systems. [...]",
-    "analysis": {
-      "issue": "Hackers compromised Microsoft's official Agent Framework Python package on PyPI, publishing two malicious versions designed to steal cloud credentials and other sensitive information from developers' systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
-    "link": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
-    "published": "Wed, 18 Nov 2026 10:00:10 -0500",
-    "summary": "Attackers are using deepfakes, helpdesk impersonation, and fake IT support requests to deceive employees and gain unauthorized access to corporate systems. Specops Software examines real-world attacks and explains how stronger identity verification can help organizations prevent social engineering threats. [...]",
-    "analysis": {
-      "issue": "In 2024, an employee at engineering firm Arup was tricked into transferring $25 million after attending a fake video conference featuring deepfake versions of their colleagues",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Dizigom illegal streaming service with 21M monthly visits shuts down",
-    "link": "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/",
-    "published": "Wed, 18 Nov 2026 06:50:25 -0500",
-    "summary": "The Alliance for Creativity and Entertainment (ACE) has announced the shutdown of Dizigom, one of Turkey's largest piracy sites, after a settlement agreement with the site's operators. [...]",
-    "analysis": {
-      "issue": "The Alliance for Creativity and Entertainment (ACE) has announced the shutdown of Dizigom, one of Turkey's largest piracy sites, after a settlement agreement with the site's operators",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
-    "published": "Wed, 18 Nov 2026 05:35:05 -0500",
-    "summary": "Apache has released security updates to address a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers. [...]",
-    "analysis": {
-      "issue": "Apache has released security updates to address a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-129448",
-        "CVE-2026-82384"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft announces Windows Server 2028 with hardened security",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
-    "published": "Wed, 18 Nov 2026 04:24:31 -0500",
-    "summary": "Microsoft has announced Windows Server 2028, the next major release of its server operating system, at the Ignite 2026 conference on Tuesday. [...]",
-    "analysis": {
-      "issue": "Microsoft has announced Windows Server 2028, the next major release of its server operating system, at the Ignite 2026 conference on Tuesday",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "British Scattered Spider hacker sentenced to 6 years in prison",
-    "link": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/",
-    "published": "Wed, 18 Nov 2026 03:24:18 -0500",
-    "summary": "A leader of the Scattered Spider cybercrime collective has been sentenced to six years in prison in the United States for stealing millions in cryptocurrency and conspiring to hack a dozen companies. [...]",
-    "analysis": {
-      "issue": "A leader of the Scattered Spider cybercrime collective has been sentenced to six years in prison in the United States for stealing millions in cryptocurrency and conspiring to hack a dozen companies",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
-    "published": "Tue, 17 Nov 2026 18:04:21 -0500",
-    "summary": "A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, including Jenkins, Atlassian Jira, Confluence, and Keycloak. [...]",
-    "analysis": {
-      "issue": "A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, including Jenkins, Atlassian Jira, Confluence, and Keycloa",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-114938"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -565,171 +573,25 @@
   },
   {
     "source": "Security Week",
-    "title": "Palo Alto Networks to Buy AI Startup Applied Compute for $4.5 Billion",
-    "link": "https://www.securityweek.com/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion/",
-    "published": "Thu, 19 Nov 2026 03:25:23 +0000",
-    "summary": "<p>The all-stock deal will give the cybersecurity company a platform for fine-tuning and running open-weight AI models in public and sovereign clouds.</p>\n<p>The post <a href=\"https://www.securityweek.com/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion/\">Palo Alto Networks to Buy AI Startup Applied Compute for $4.5 Billion</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "title": "PHP Patches Seven Critical RCE Vulnerabilities",
+    "link": "https://www.securityweek.com/php-patches-seven-critical-rce-vulnerabilities/",
+    "published": "Thu, 19 Nov 2026 15:54:20 +0000",
+    "summary": "<p>Successful exploitation could allow attackers to crash the worker process and execute code with the PHP worker’s privileges.</p>\n<p>The post <a href=\"https://www.securityweek.com/php-patches-seven-critical-rce-vulnerabilities/\">PHP Patches Seven Critical RCE Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
-      "issue": "The all-stock deal will give the cybersecurity company a platform for fine-tuning and running open-weight AI models in public and sovereign clouds",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "VeroSecurity Raises $11 Million for AI Security Engineering Platform",
-    "link": "https://www.securityweek.com/verosecurity-raises-11-million-for-ai-security-engineering-platform/",
-    "published": "Wed, 18 Nov 2026 15:30:42 +0000",
-    "summary": "<p>AI Security Engineering is a new and essential security discipline now being brought into focus by VeroSecurity.</p>\n<p>The post <a href=\"https://www.securityweek.com/verosecurity-raises-11-million-for-ai-security-engineering-platform/\">VeroSecurity Raises $11 Million for AI Security Engineering Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "AI Security Engineering is a new and essential security discipline now being brought into focus by VeroSecurity",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Russian APT Poses as Employee of Hacked Firm to Breach Another US Organization",
-    "link": "https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization/",
-    "published": "Wed, 18 Nov 2026 13:33:47 +0000",
-    "summary": "<p>Star Blizzard weaponized data and identities stolen in late 2025 to phish and compromise a US organization.</p>\n<p>The post <a href=\"https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization/\">Russian APT Poses as Employee of Hacked Firm to Breach Another US Organization</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Star Blizzard weaponized data and identities stolen in late 2025 to phish and compromise a US organization",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Last of Five Defendants Sentenced in US Scattered Spider Hacking Case",
-    "link": "https://www.securityweek.com/last-of-five-defendants-sentenced-in-us-scattered-spider-hacking-case/",
-    "published": "Wed, 18 Nov 2026 13:19:32 +0000",
-    "summary": "<p>British national Tyler Robert Buchanan has been sentenced to 6 years in prison in the United States, the DOJ announced.</p>\n<p>The post <a href=\"https://www.securityweek.com/last-of-five-defendants-sentenced-in-us-scattered-spider-hacking-case/\">Last of Five Defendants Sentenced in US Scattered Spider Hacking Case</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "British national Tyler Robert Buchanan has been sentenced to 6 years in prison in the United States, the DOJ announced",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Phishing",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Microsoft Takes Perception Agentic Security Platform Out of Preview",
-    "link": "https://www.securityweek.com/microsoft-takes-perception-agentic-security-platform-out-of-preview/",
-    "published": "Wed, 18 Nov 2026 12:14:23 +0000",
-    "summary": "<p>Four blue team agents and the Recon Agent are now generally available, while integrations and vulnerability shielding are in preview.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-takes-perception-agentic-security-platform-out-of-preview/\">Microsoft Takes Perception Agentic Security Platform Out of Preview</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Four blue team agents and the Recon Agent are now generally available, while integrations and vulnerability shielding are in preview",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do",
-    "link": "https://www.securityweek.com/ciso-conversations-patti-degnan-part-of-the-job-is-deciding-what-not-to-do/",
-    "published": "Wed, 18 Nov 2026 12:00:00 +0000",
-    "summary": "<p>Patti Degnan’s identity was stolen in 2006. It set her on a path to the CISO seat at endpoint security firm Glow.</p>\n<p>The post <a href=\"https://www.securityweek.com/ciso-conversations-patti-degnan-part-of-the-job-is-deciding-what-not-to-do/\">CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Patti Degnan’s identity was stolen in 2006",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Chrome 158 Patches 204 Vulnerabilities",
-    "link": "https://www.securityweek.com/chrome-158-patches-204-vulnerabilities/",
-    "published": "Wed, 18 Nov 2026 11:43:22 +0000",
-    "summary": "<p>Google handed out $11,000 for five externally reported flaws but has yet to determine the amounts to be paid for 36 bugs.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-158-patches-204-vulnerabilities/\">Chrome 158 Patches 204 Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Google handed out $11,000 for five externally reported flaws but has yet to determine the amounts to be paid for 36 bugs",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Microsoft Agent Framework Releases Poisoned With Credential Stealer",
-    "link": "https://www.securityweek.com/microsoft-agent-framework-releases-poisoned-with-credential-stealer/",
-    "published": "Wed, 18 Nov 2026 11:05:39 +0000",
-    "summary": "<p>Versions 1.26.1 and 1.26.2 of agent-framework on PyPI steal Azure, Azure DevOps, and GitHub Actions credentials when Python starts.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-agent-framework-releases-poisoned-with-credential-stealer/\">Microsoft Agent Framework Releases Poisoned With Credential Stealer</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "2 of agent-framework on PyPI steal Azure, Azure DevOps, and GitHub Actions credentials when Python starts",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Critical Perforce Puppet RCE Exploited in Attacks",
-    "link": "https://www.securityweek.com/critical-perforce-puppet-rce-exploited-in-attacks/",
-    "published": "Wed, 18 Nov 2026 10:37:08 +0000",
-    "summary": "<p>Tracked as CVE-2026-115731, it allows a client that holds any CA-signed agent certificate to execute code on the server.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-perforce-puppet-rce-exploited-in-attacks/\">Critical Perforce Puppet RCE Exploited in Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Tracked as CVE-2026-115731, it allows a client that holds any CA-signed agent certificate to execute code on the server",
+      "issue": "Successful exploitation could allow attackers to crash the worker process and execute code with the PHP worker’s privileges",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-115731",
-        "CVE-2026-115732"
+        "CVE-2026-126714",
+        "CVE-2026-115560",
+        "CVE-2026-129481",
+        "CVE-2026-129182",
+        "CVE-2026-129289",
+        "CVE-2026-129474",
+        "CVE-2026-109619",
+        "CVE-2026-129496"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -738,12 +600,161 @@
   },
   {
     "source": "Security Week",
-    "title": "Oracle Patches 950 Vulnerabilities With November 2026 CSPU",
-    "link": "https://www.securityweek.com/oracle-patches-640-vulnerabilities-with-november-2026-cspu/",
-    "published": "Wed, 18 Nov 2026 08:47:18 +0000",
-    "summary": "<p>Over 300 patches address unauthenticated, remotely exploitable flaws, while 62 fix critical-severity flaws.</p>\n<p>The post <a href=\"https://www.securityweek.com/oracle-patches-640-vulnerabilities-with-november-2026-cspu/\">Oracle Patches 950 Vulnerabilities With November 2026 CSPU</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "title": "Nvidia Responds to Gentlemen Ransomware Claim",
+    "link": "https://www.securityweek.com/nvidia-responds-to-gentlemen-ransomware-claim/",
+    "published": "Thu, 19 Nov 2026 14:17:32 +0000",
+    "summary": "<p>Nvidia says it has found no indication that its systems were compromised after the Gentlemen ransomware group listed the company as a victim.</p>\n<p>The post <a href=\"https://www.securityweek.com/nvidia-responds-to-gentlemen-ransomware-claim/\">Nvidia Responds to Gentlemen Ransomware Claim</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
-      "issue": "Over 300 patches address unauthenticated, remotely exploitable flaws, while 62 fix critical-severity flaws",
+      "issue": "Nvidia says it has found no indication that its systems were compromised after the Gentlemen ransomware group listed the company as a victim",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release",
+    "link": "https://www.securityweek.com/hackers-exploit-cisco-expressway-vulnerability-soon-after-poc-release/",
+    "published": "Thu, 19 Nov 2026 13:12:20 +0000",
+    "summary": "<p>Attackers hacked clustered Cisco Expressway devices at a Russian organization and prepared tooling for lateral movement.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-exploit-cisco-expressway-vulnerability-soon-after-poc-release/\">Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Attackers hacked clustered Cisco Expressway devices at a Russian organization and prepared tooling for lateral movement",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-76466"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "StepSecurity Secures $20 Million to Expand Supply Chain Protection",
+    "link": "https://www.securityweek.com/stepsecurity-secures-20-million-to-expand-supply-chain-protection/",
+    "published": "Thu, 19 Nov 2026 12:23:34 +0000",
+    "summary": "<p>The company will use the funds to accelerate the development and distribution of its security platform.</p>\n<p>The post <a href=\"https://www.securityweek.com/stepsecurity-secures-20-million-to-expand-supply-chain-protection/\">StepSecurity Secures $20 Million to Expand Supply Chain Protection</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The company will use the funds to accelerate the development and distribution of its security platform",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks",
+    "link": "https://www.securityweek.com/critical-apache-roller-axis-vulnerabilities-exploited-in-attacks/",
+    "published": "Thu, 19 Nov 2026 12:13:24 +0000",
+    "summary": "<p>Attackers are targeting Confluence Data Center through an Axis flaw and Apache is warning of attacks against Roller.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-apache-roller-axis-vulnerabilities-exploited-in-attacks/\">Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Attackers are targeting Confluence Data Center through an Axis flaw and Apache is warning of attacks against Roller",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-82384",
+        "CVE-2026-129448",
+        "CVE-2026-90436"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "The Governance Gap in Open-Weight AI and What to Do About It",
+    "link": "https://www.securityweek.com/the-governance-gap-in-open-weight-ai-and-what-to-do-about-it/",
+    "published": "Thu, 19 Nov 2026 12:00:00 +0000",
+    "summary": "<p>Lower costs, data privacy, and greater control are driving open-weight AI adoption, but many organizations are not addressing the risks that come with it.</p>\n<p>The post <a href=\"https://www.securityweek.com/the-governance-gap-in-open-weight-ai-and-what-to-do-about-it/\">The Governance Gap in Open-Weight AI and What to Do About It</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Lower costs, data privacy, and greater control are driving open-weight AI adoption, but many organizations are not addressing the risks that come with it",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Splunk Patches Nearly 140 Flaws Across Three Core Products",
+    "link": "https://www.securityweek.com/splunk-patches-nearly-140-flaws-across-three-core-products/",
+    "published": "Thu, 19 Nov 2026 10:41:05 +0000",
+    "summary": "<p>The security updates resolve critical and high-severity issues leading to authentication bypass, remote code execution, and privilege escalation.</p>\n<p>The post <a href=\"https://www.securityweek.com/splunk-patches-nearly-140-flaws-across-three-core-products/\">Splunk Patches Nearly 140 Flaws Across Three Core Products</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The security updates resolve critical and high-severity issues leading to authentication bypass, remote code execution, and privilege escalation",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-76536",
+        "CVE-2026-131202",
+        "CVE-2026-131253",
+        "CVE-2026-76535",
+        "CVE-2026-131287"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "F5 Patches Critical NGINX2Root Flaws as PoC Exploits Go Public",
+    "link": "https://www.securityweek.com/f5-patches-critical-nginx2root-flaws-as-poc-exploits-go-public/",
+    "published": "Thu, 19 Nov 2026 10:26:51 +0000",
+    "summary": "<p>The five NGINX2Root vulnerabilities could allow remote, unauthenticated attackers to execute arbitrary code.</p>\n<p>The post <a href=\"https://www.securityweek.com/f5-patches-critical-nginx2root-flaws-as-poc-exploits-go-public/\">F5 Patches Critical NGINX2Root Flaws as PoC Exploits Go Public</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The five NGINX2Root vulnerabilities could allow remote, unauthenticated attackers to execute arbitrary code",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-123007",
+        "CVE-2026-123634",
+        "CVE-2026-121810",
+        "CVE-2026-113425",
+        "CVE-2026-123633"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Java4Shell Exploitation Attempts Begin as Vendors Rush Out Advisories",
+    "link": "https://www.securityweek.com/java4shell-exploitation-attempts-begin-as-vendors-rush-out-advisories/",
+    "published": "Thu, 19 Nov 2026 09:10:58 +0000",
+    "summary": "<p>GreyNoise, WatchTowr and Cloudflare report probing and exploit attempts, while Cisco, Elastic, Red Hat and Siemens detail impact.</p>\n<p>The post <a href=\"https://www.securityweek.com/java4shell-exploitation-attempts-begin-as-vendors-rush-out-advisories/\">Java4Shell Exploitation Attempts Begin as Vendors Rush Out Advisories</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "GreyNoise, WatchTowr and Cloudflare report probing and exploit attempts, while Cisco, Elastic, Red Hat and Siemens detail impact",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -753,7 +764,28 @@
       ],
       "threat_categories": [
         "Vulnerability",
-        "Supply Chain"
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "PHP Readies Critical Security Updates to Patch Another RCE Flaw",
+    "link": "https://www.securityweek.com/php-readies-critical-security-updates-to-patch-another-rce-flaw/",
+    "published": "Thu, 19 Nov 2026 07:45:17 +0000",
+    "summary": "<p>Affecting the session upload progress, CVE-2026-115560 was publicly disclosed two days after PHP2Shell patches landed.</p>\n<p>The post <a href=\"https://www.securityweek.com/php-readies-critical-security-updates-to-patch-another-rce-flaw/\">PHP Readies Critical Security Updates to Patch Another RCE Flaw</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Affecting the session upload progress, CVE-2026-115560 was publicly disclosed two days after PHP2Shell patches landed",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-115560",
+        "CVE-2026-109619"
+      ],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -957,6 +989,24 @@
   },
   {
     "source": "Recorded Future",
+    "title": "Regional Insights: 2027 State of Threat Intelligence",
+    "link": "https://www.recordedfuture.com/blog/2027-soti-regional-summaries",
+    "published": "Thu, 19 Nov 2026 00:00:00 GMT",
+    "summary": "Regional findings from the 2027 State of Threat Intelligence report: how security teams in North America, EMEA, APJ, and LATAM use intelligence and AI.",
+    "analysis": {
+      "issue": "Regional findings from the 2027 State of Threat Intelligence report: how security teams in North America, EMEA, APJ, and LATAM use intelligence and AI",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
     "title": "Recorded Future Launches New Automation Capabilities for Tech Stack Watch List",
     "link": "https://www.recordedfuture.com/blog/tech-stack-automation",
     "published": "Wed, 18 Nov 2026 00:00:00 GMT",
@@ -1115,24 +1165,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Behind Japan’s Warnings of a Cyber Crisis",
-    "link": "https://www.recordedfuture.com/blog/japan-cyber-crisis-warnings",
-    "published": "Thu, 22 Oct 2026 00:00:00 GMT",
-    "summary": "Explore Japan's 2026 cyber crisis, rising breach trends, AI tooling, legacy systems, and key mitigation strategies to protect organizations.",
-    "analysis": {
-      "issue": "Explore Japan's 2026 cyber crisis, rising breach trends, AI tooling, legacy systems, and key mitigation strategies to protect organizations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -1303,8 +1335,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1329,6 +1361,42 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Chrome patches six critical flaws, two found with AI’s help",
+    "link": "https://www.malwarebytes.com/blog/bugs/2026/11/chrome-patches-six-critical-flaws-two-found-with-ais-help",
+    "published": "Thu, 19 Nov 2026 12:38:38 GMT",
+    "summary": "Chrome 158 fixes 204 security issues, including six critical flaws. Here’s what to update.",
+    "analysis": {
+      "issue": "On November 17, Google issued a security update to Chrome’s Stable channel for Windows, Mac, and Linux",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Scattered Spider’s phishing and SIM-swap tactics led to six-year sentence",
+    "link": "https://www.malwarebytes.com/blog/news/2026/11/scattered-spiders-phishing-and-sim-swap-tactics-led-to-six-year-sentence",
+    "published": "Thu, 19 Nov 2026 09:41:18 GMT",
+    "summary": "Scattered Spider used fake texts to break into systems and SIM swaps to intercept security codes. Here’s how to protect your number.",
+    "analysis": {
+      "issue": "A US court has sentenced a member of the Scattered Spider cybercrime group to six years in prison",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
       ]
     }
   },
@@ -1479,42 +1547,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Holiday shopping in a world of fakes: How AI is changing the game",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/11/holiday-shopping-in-a-world-of-fakes-how-ai-is-changing-the-game",
-    "published": "Tue, 17 Nov 2026 11:29:09 GMT",
-    "summary": "It’s the most wonderful time of the year—especially for scammers looking to make the most of shopping season.",
-    "analysis": {
-      "issue": "It’s the most wonderful time of the year, especially for scammers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Hijacked Bitly links turn old brand posts into offensive redirects",
-    "link": "https://www.malwarebytes.com/blog/news/2026/11/hijacked-bitly-links-turn-old-brand-posts-into-offensive-redirects",
-    "published": "Mon, 16 Nov 2026 13:50:47 GMT",
-    "summary": "Old Bitly links in social posts from McDonald's, Burger King, and others have been redirecting visitors to unrelated Wikipedia pages.",
-    "analysis": {
-      "issue": "An old social media post from a familiar brand may seem trustworthy",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -1701,6 +1733,27 @@
   },
   {
     "source": "Cisa Alerts",
+    "title": "Elecbrakes EB2, VM1, ELBC2000",
+    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02",
+    "published": "Thu, 19 Nov 26 12:00:00 +0000",
+    "summary": "<p><a href=\"https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-323-02.json\"><strong>View CSAF</strong></a></p>\n<h2>Summary</h2>\n<p><strong>Successful exploitation of these vulnerabilities could allow an attacker to gain control of the brakes of a trailer, modify the firmware, disable the brake lights, modify the brake conditions or disable other critical safety features.</strong></p>\n<p>The following versions of Elecbrakes EB2, VM1, ELBC2000 are affected:</p>\n<ul>\n<li>EB2 &lt;=3.0.4.2.0 (CVE-2026-124281, CVE-2026-125273, CVE-2026-96805)</li>\n<li>ELBC2000 vers:all/* (CVE-2026-124281, CVE-2026-125273, CVE-2026-96805)</li>\n<li>VM1 &lt;1.3.4.2.1 (CVE-2026-124281, CVE-2026-125273, CVE-2026-96805)</li>\n</ul>\n<div class=\"csaf-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS</th>\n<th>Vendor</th>\n<th>Equipment</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>v3 9.6</td>\n<td>Elecbrakes</td>\n<td>EB2</td>\n</tr>\n</tbody>\n</table>\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>3 Vulnerabilities</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Exposed Dangerous Method or Function, Authentication Bypass by Capture-replay, Missing Authentication for Critical Function</td>\n</tr>\n</tbody>\n</table>\n</div>\n<h3>Background</h3>\n<ul>\n<li><strong>Critical Infrastructure Sectors: </strong>Transportation Systems</li>\n<li><strong>Countries/Areas Deployed: </strong>Australia, New Zealand</li>\n<li><strong>Company Headquarters Location: </strong>Australia</li>\n</ul>\n<hr />\n<h2>Vulnerabilities</h2>\n<div class=\"icsa-etb-toggle-wrapper\"><a class=\"icsa-etb-toggle-all\" href=\"https://www.cisa.gov/\">Expand All +</a></div>\n<div class=\"c-expandable-textbox icsa-etb\">\n<div class=\"c-expandable-textbox__title\">CVE-2026-124281</div>\n<div class=\"c-expandable-textbox__body\">The affected product uses an unprotected firmware-update channel, which may allow for unauthorized firmware modification.</div>\n<div class=\"c-expandable-textbox-morebutton-wrapper\"><a class=\"c-expandable-textbox-morebutton\" href=\"https://www.cisa.gov/\">Read More</a></div>\n<div class=\"c-expandable-textbox__body2\">\n<h4>3 Affected Products</h4>\n<hr />\n<h5>Elecbrakes EB2 &lt;=3.0.4.2.0</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Elecbrakes has released updated firmware (EB2 3.0.4.4.3). Users should open the Elecbrakes app and install the firmware update.</p>\n</div>\n<hr />\n<h5>Elecbrakes VM1 &lt;1.3.4.2.1</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Elecbrakes has released updated firmware (VM1 1.3.4.2.1). Users should open the Elecbrakes app and install the firmware update.</p>\n</div>\n<hr />\n<h5>Elecbrakes ELBC2000 vers:all/*</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>None available</strong><br />This device is the predecessor to the EB2 and the VM1 and is no longer sold. The vendor is determining how to address these vulnerabilities for this particular controller.</p>\n</div>\n<hr />\n<h6>Additional Metrics</h6>\n<p><strong>Relevant CWE:</strong> <a href=\"https://cwe.mitre.org/data/definitions/749.html\">CWE-749 Exposed Dangerous Method or Function</a></p>\n<div class=\"csaf-table csaf-metrics-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS Version</th>\n<th>Base Score</th>\n<th>Base Severity</th>\n<th>Vector String</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3.1</td>\n<td>6.1</td>\n<td>MEDIUM</td>\n<td><a href=\"https://www.first.org/cvss/calculator/3.1#CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:C/C:N/I:L/A:L\">CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:C/C:N/I:L/A:L</a></td>\n</tr>\n<tr>\n<td>4.0</td>\n<td>5.3</td>\n<td>MEDIUM</td>\n<td><a href=\"https://www.first.org/cvss/calculator/4.0#CVSS:4.0/AV:A/AC:L/AT:N/PR:N/UI:N/VC:N/VI:L/VA:L/SC:N/SI:L/SA:L\">CVSS:4.0/AV:A/AC:L/AT:N/PR:N/UI:N/VC:N/VI:L/VA:L/SC:N/SI:L/SA:L</a></td>\n</tr>\n</tbody>\n</table>\n</div>\n<hr />\n<p><a href=\"https://www.cve.org/CVERecord?id=CVE-2026-124281\">View CVE Details</a></p>\n</div>\n</div>\n<div class=\"c-expandable-textbox icsa-etb\">\n<div class=\"c-expandable-textbox__title\">CVE-2026-125273</div>\n<div class=\"c-expandable-textbox__body\">No replay or command-integrity protection. Commands lack sequence numbers, nonces, or session tokens; captured commands can be replayed, and the last command persists across sessions.</div>\n<div class=\"c-expandable-textbox-morebutton-wrapper\"><a class=\"c-expandable-textbox-morebutton\" href=\"https://www.cisa.gov/\">Read More</a></div>\n<div class=\"c-expandable-textbox__body2\">\n<h4>6 Affected Products</h4>\n<hr />\n<h5>Elecbrakes EB2 &lt;=3.0.4.2.0</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Elecbrakes has released updated firmware (EB2 3.0.4.4.3). Users should open the Elecbrakes app and install the firmware update.</p>\n</div>\n<hr />\n<h5>Elecbrakes VM1 &lt;1.3.4.2.1</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Elecbrakes has released updated firmware (VM1 1.3.4.2.1). Users should open the Elecbrakes app and install the firmware update.</p>\n</div>\n<hr />\n<h5>Elecbrakes ELBC2000 vers:all/*</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>None available</strong><br />This device is the predecessor to the EB2 and the VM1 and is no longer sold. The vendor is determining how to address these vulnerabilities for this particular controller.</p>\n</div>\n<hr />\n<h5>Elecbrakes EB2 &lt;=3.0.4.2.0</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Elecbrakes has released updated firmware (EB2 3.0.4.4.3). Users should open the Elecbrakes app and install the firmware update.</p>\n</div>\n<hr />\n<h5>Elecbrakes ELBC2000 vers:all/*</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>None available</strong><br />This device is the predecessor to the EB2 and the VM1 and is no longer sold. The vendor is determining how to address these vulnerabilities for this particular controller.</p>\n</div>\n<hr />\n<h5>Elecbrakes VM1 &lt;1.3.4.2.1</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Elecbrakes has released updated firmware (VM1 1.3.4.2.1). Users should open the Elecbrakes app and install the firmware update.</p>\n</div>\n<hr />\n<h6>Additional Metrics</h6>\n<p><strong>Relevant CWE:</strong> <a href=\"https://cwe.mitre.org/data/definitions/294.html\">CWE-294 Authentication Bypass by Capture-replay</a></p>\n<div class=\"csaf-table csaf-metrics-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS Version</th>\n<th>Base Score</th>\n<th>Base Severity</th>\n<th>Vector String</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3.1</td>\n<td>9.6</td>\n<td>CRITICAL</td>\n<td><a href=\"https://www.first.org/cvss/calculator/3.1#CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:C/C:L/I:H/A:H\">CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:C/C:L/I:H/A:H</a></td>\n</tr>\n<tr>\n<td>4.0</td>\n<td>8.5</td>\n<td>HIGH</td>\n<td><a href=\"https://www.first.org/cvss/calculator/4.0#CVSS:4.0/AV:A/AC:L/AT:N/PR:N/UI:N/VC:L/VI:H/VA:H/SC:L/SI:H/SA:H/S:P\">CVSS:4.0/AV:A/AC:L/AT:N/PR:N/UI:N/VC:L/VI:H/VA:H/SC:L/SI:H/SA:H/S:P</a></td>\n</tr>\n</tbody>\n</table>\n</div>\n<hr />\n<p><a href=\"https://www.cve.org/CVERecord?id=CVE-2026-125273\">View CVE Details</a></p>\n</div>\n</div>\n<div class=\"c-expandable-textbox icsa-etb\">\n<div class=\"c-expandable-textbox__title\">CVE-2026-96805</div>\n<div class=\"c-expandable-textbox__body\">The affected product has an unauthenticated command injection, which may allow an in-range BLE device to gain access to write to the control interface and influence braking with no authentication or pairing.</div>\n<div class=\"c-expandable-textbox-morebutton-wrapper\"><a class=\"c-expandable-textbox-morebutton\" href=\"https://www.cisa.gov/\">Read More</a></div>\n<div class=\"c-expandable-textbox__body2\">\n<h4>9 Affected Products</h4>\n<hr />\n<h5>Elecbrakes EB2 &lt;=3.0.4.2.0</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Elecbrakes has released updated firmware (EB2 3.0.4.4.3). Users should open the Elecbrakes app and install the firmware update.</p>\n</div>\n<hr />\n<h5>Elecbrakes VM1 &lt;1.3.4.2.1</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Elecbrakes has released updated firmware (VM1 1.3.4.2.1). Users should open the Elecbrakes app and install the firmware update.</p>\n</div>\n<hr />\n<h5>Elecbrakes ELBC2000 vers:all/*</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>None available</strong><br />This device is the predecessor to the EB2 and the VM1 and is no longer sold. The vendor is determining how to address these vulnerabilities for this particular controller.</p>\n</div>\n<hr />\n<h5>Elecbrakes EB2 &lt;=3.0.4.2.0</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Elecbrakes has released updated firmware (EB2 3.0.4.4.3). Users should open the Elecbrakes app and install the firmware update.</p>\n</div>\n<hr />\n<h5>Elecbrakes ELBC2000 vers:all/*</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>None available</strong><br />This device is the predecessor to the EB2 and the VM1 and is no longer sold. The vendor is determining how to address these vulnerabilities for this particular controller.</p>\n</div>\n<hr />\n<h5>Elecbrakes VM1 &lt;1.3.4.2.1</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Elecbrakes has released updated firmware (VM1 1.3.4.2.1). Users should open the Elecbrakes app and install the firmware update.</p>\n</div>\n<hr />\n<h5>Elecbrakes ELBC2000 vers:all/*</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>None available</strong><br />This device is the predecessor to the EB2 and the VM1 and is no longer sold. The vendor is determining how to address these vulnerabilities for this particular controller.</p>\n</div>\n<hr />\n<h5>Elecbrakes EB2 &lt;=3.0.4.2.0</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Elecbrakes has released updated firmware (EB2 3.0.4.4.3). Users should open the Elecbrakes app and install the firmware update.</p>\n</div>\n<hr />\n<h5>Elecbrakes VM1 &lt;1.3.4.2.1</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Elecbrakes has released updated firmware (VM1 1.3.4.2.1). Users should open the Elecbrakes app and install the firmware update.</p>\n</div>\n<hr />\n<h6>Additional Metrics</h6>\n<p><strong>Relevant CWE:</strong> <a href=\"https://cwe.mitre.org/data/definitions/306.html\">CWE-306 Missing Authentication for Critical Function</a></p>\n<div class=\"csaf-table csaf-metrics-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS Version</th>\n<th>Base Score</th>\n<th>Base Severity</th>\n<th>Vector String</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3.1</td>\n<td>9.6</td>\n<td>CRITICAL</td>\n<td><a href=\"https://www.first.org/cvss/calculator/3.1#CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:C/C:L/I:H/A:H\">CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:C/C:L/I:H/A:H</a></td>\n</tr>\n<tr>\n<td>4.0</td>\n<td>8.5</td>\n<td>HIGH</td>\n<td><a href=\"https://www.first.org/cvss/calculator/4.0#CVSS:4.0/AV:A/AC:L/AT:N/PR:N/UI:N/VC:L/VI:H/VA:H/SC:N/SI:H/SA:H/S:P\">CVSS:4.0/AV:A/AC:L/AT:N/PR:N/UI:N/VC:L/VI:H/VA:H/SC:N/SI:H/SA:H/S:P</a></td>\n</tr>\n</tbody>\n</table>\n</div>\n<hr />\n<p><a href=\"https://www.cve.org/CVERecord?id=CVE-2026-96805\">View CVE Details</a></p>\n</div>\n</div>\n<hr />\n<h2>Acknowledgments</h2>\n<ul>\n<li>Patrick Forck and Jeremy McCarthy of Element Digital reported these vulnerabilities to CISA.</li>\n</ul>\n<hr />\n<h2>Recommended Practices</h2>\n<p>CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities.</p>\n<ul type=\"disc\">\n<li>Minimize network exposure for all control system devices and/or systems, ensuring they are <a href=\"https://www.cisa.gov/uscert/ics/alerts/ICS-ALERT-10-301-01\">not accessible from the internet</a>.</li>\n<li>Locate control system networks and remote devices behind firewalls and isolating them from business networks.</li>\n<li>When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices.</li>\n</ul>\n<p>CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures.</p>\n<p>CISA also provides a section for <a href=\"https://www.cisa.gov/resources-tools/resources/ics-recommended-practices\">control systems security recommended practices</a> on the ICS webpage on <a href=\"https://www.cisa.gov/topics/industrial-control-systems\">cisa.gov/ics</a>. Several CISA products detailing cyber defense best practices are available for reading and download, including <a href=\"https://www.cisa.gov/sites/default/files/recommended_practices/NCCIC_ICS-CERT_Defense_in_Depth_2016_S508C.pdf\">Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies</a>.</p>\n<p>CISA encourages organizations to implement recommended cybersecurity strategies for <a href=\"https://www.cisa.gov/sites/default/files/publications/Cybersecurity_Best_Practices_for_Industrial_Control_Systems.pdf\">proactive defense of ICS assets</a>.</p>\n<p>Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at <a href=\"https://www.cisa.gov/topics/industrial-control-systems\">cisa.gov/ics</a> in the technical information paper, <a href=\"https://www.cisa.gov/news-events/news/targeted-cyber-intrusion-detection-and-mitigation-strategies-update-b\">ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies</a>.</p>\n<p>Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents.</p>\n<p>CISA also recommends users take the following measures to protect themselves from social engineering attacks:</p>\n<ul type=\"disc\">\n<li>Do not click web links or open attachments in unsolicited email messages.</li>\n<li>Refer to <a href=\"https://www.cisa.gov/secure-our-world/teach-employees-avoid-phishing\">Recognizing and Avoiding Email Scams</a> for more information on avoiding email scams.</li>\n<li>Refer to <a href=\"https://www.cisa.gov/news-events/news/avoiding-social-engineering-and-phishing-attacks\">Avoiding Social Engineering and Phishing Attacks</a> for more information on social engineering attacks.</li>\n</ul>\n<p>No known public exploitation specifically targeting these vulnerabilities has been reported to CISA at this time.</p>\n<hr />\n<h2>Revision History</h2>\n<ul>\n<li><strong>Initial Release Date: </strong>2026-11-19</li>\n</ul>\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>Date</th>\n<th>Revision</th>\n<th>Summary</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>2026-11-19</td>\n<td>1</td>\n<td>Initial Publication</td>\n</tr>\n</tbody>\n</table>\n<hr />\n<h2>Legal Notice and Terms of Use</h2>"
+  },
+  {
+    "source": "Cisa Alerts",
+    "title": "libumqtt",
+    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03",
+    "published": "Thu, 19 Nov 26 12:00:00 +0000",
+    "summary": "<p><a href=\"https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-323-03.json\"><strong>View CSAF</strong></a></p>\n<h2>Summary</h2>\n<p><strong>Successful exploitation of this vulnerability could allow a remote attacker to cause a denial of service, memory corruption, or information disclosure.</strong></p>\n<p>The following versions of libumqtt are affected:</p>\n<ul>\n<li>libumqtt &lt;=1.1.1 (CVE-2026-125132)</li>\n</ul>\n<div class=\"csaf-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS</th>\n<th>Vendor</th>\n<th>Equipment</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>v3 8.6</td>\n<td>libumqtt</td>\n<td>libumqtt</td>\n</tr>\n</tbody>\n</table>\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>1 Vulnerability</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Integer Underflow (Wrap or Wraparound)</td>\n</tr>\n</tbody>\n</table>\n</div>\n<h3>Background</h3>\n<ul>\n<li><strong>Critical Infrastructure Sectors: </strong>Critical Manufacturing, Energy, Information Technology, Transportation Systems, Water and Wastewater</li>\n<li><strong>Countries/Areas Deployed: </strong>Worldwide</li>\n<li><strong>Company Headquarters Location: </strong>China</li>\n</ul>\n<hr />\n<h2>Vulnerabilities</h2>\n<div class=\"c-expandable-textbox icsa-etb\">\n<div class=\"c-expandable-textbox__title\">CVE-2026-125132</div>\n<div class=\"c-expandable-textbox__body\">The affected product is vulnerable to an integer underflow which may allow a remote attacker to cause a denial of service, memory corruption, or information disclosure.</div>\n<div class=\"c-expandable-textbox-morebutton-wrapper\"><a class=\"c-expandable-textbox-morebutton\" href=\"https://www.cisa.gov/\">Read More</a></div>\n<div class=\"c-expandable-textbox__body2\">\n<h4>1 Affected Product</h4>\n<hr />\n<h5>libumqtt libumqtt &lt;=1.1.1</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>None available</strong><br />The repository owners of libumqtt did not respond to CISA's request for coordination. Users are encouraged to reach out to libumqtt for support. Their GitHub page is located at https://github.com/zhaojh329/libumqtt.</p>\n</div>\n<hr />\n<h6>Additional Metrics</h6>\n<p><strong>Relevant CWE:</strong> <a href=\"https://cwe.mitre.org/data/definitions/191.html\">CWE-191 Integer Underflow (Wrap or Wraparound)</a></p>\n<div class=\"csaf-table csaf-metrics-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS Version</th>\n<th>Base Score</th>\n<th>Base Severity</th>\n<th>Vector String</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3.1</td>\n<td>8.6</td>\n<td>HIGH</td>\n<td><a href=\"https://www.first.org/cvss/calculator/3.1#CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:H\">CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:H</a></td>\n</tr>\n<tr>\n<td>4.0</td>\n<td>8.8</td>\n<td>HIGH</td>\n<td><a href=\"https://www.first.org/cvss/calculator/4.0#CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:L/VA:H/SC:N/SI:N/SA:N\">CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:L/VA:H/SC:N/SI:N/SA:N</a></td>\n</tr>\n</tbody>\n</table>\n</div>\n<hr />\n<p><a href=\"https://www.cve.org/CVERecord?id=CVE-2026-125132\">View CVE Details</a></p>\n</div>\n</div>\n<hr />\n<h2>Acknowledgments</h2>\n<ul>\n<li>Joseph Devasia reported this vulnerability to CISA</li>\n</ul>\n<hr />\n<h2>Recommended Practices</h2>\n<p>CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities.</p>\n<ul type=\"disc\">\n<li>Minimize network exposure for all control system devices and/or systems, ensuring they are <a href=\"https://www.cisa.gov/uscert/ics/alerts/ICS-ALERT-10-301-01\">not accessible from the internet</a>.</li>\n<li>Locate control system networks and remote devices behind firewalls and isolating them from business networks.</li>\n<li>When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices.</li>\n</ul>\n<p>CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures.</p>\n<p>CISA also provides a section for <a href=\"https://www.cisa.gov/resources-tools/resources/ics-recommended-practices\">control systems security recommended practices</a> on the ICS webpage on <a href=\"https://www.cisa.gov/topics/industrial-control-systems\">cisa.gov/ics</a>. Several CISA products detailing cyber defense best practices are available for reading and download, including <a href=\"https://www.cisa.gov/sites/default/files/recommended_practices/NCCIC_ICS-CERT_Defense_in_Depth_2016_S508C.pdf\">Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies</a>.</p>\n<p>CISA encourages organizations to implement recommended cybersecurity strategies for <a href=\"https://www.cisa.gov/sites/default/files/publications/Cybersecurity_Best_Practices_for_Industrial_Control_Systems.pdf\">proactive defense of ICS assets</a>.</p>\n<p>Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at <a href=\"https://www.cisa.gov/topics/industrial-control-systems\">cisa.gov/ics</a> in the technical information paper, <a href=\"https://www.cisa.gov/news-events/news/targeted-cyber-intrusion-detection-and-mitigation-strategies-update-b\">ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies</a>.</p>\n<p>Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents.</p>\n<p>CISA also recommends users take the following measures to protect themselves from social engineering attacks:</p>\n<ul type=\"disc\">\n<li>Do not click web links or open attachments in unsolicited email messages.</li>\n<li>Refer to <a href=\"https://www.cisa.gov/secure-our-world/teach-employees-avoid-phishing\">Recognizing and Avoiding Email Scams</a> for more information on avoiding email scams.</li>\n<li>Refer to <a href=\"https://www.cisa.gov/news-events/news/avoiding-social-engineering-and-phishing-attacks\">Avoiding Social Engineering and Phishing Attacks</a> for more information on social engineering attacks.</li>\n</ul>\n<p>No known public exploitation specifically targeting this vulnerability has been reported to CISA at this time.</p>\n<hr />\n<h2>Revision History</h2>\n<ul>\n<li><strong>Initial Release Date: </strong>2026-11-19</li>\n</ul>\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>Date</th>\n<th>Revision</th>\n<th>Summary</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>2026-11-19</td>\n<td>1</td>\n<td>Initial Publication</td>\n</tr>\n</tbody>\n</table>\n<hr />\n<h2>Legal Notice and Terms of Use</h2>"
+  },
+  {
+    "source": "Cisa Alerts",
+    "title": "Autonomy Logic OpenPLC Runtime",
+    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01",
+    "published": "Thu, 19 Nov 26 12:00:00 +0000",
+    "summary": "<p><a href=\"https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-323-01.json\"><strong>View CSAF</strong></a></p>\n<h2>Summary</h2>\n<p><strong>Successful exploitation of this vulnerability could allow several unauthenticated admin accounts to be created.</strong></p>\n<p>The following versions of Autonomy Logic OpenPLC Runtime are affected:</p>\n<ul>\n<li>OpenPLC Runtime &lt;=4.2.4 (CVE-2026-126088)</li>\n</ul>\n<div class=\"csaf-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS</th>\n<th>Vendor</th>\n<th>Equipment</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>v3 8.1</td>\n<td>Autonomy Logic</td>\n<td>OpenPLC Runtime</td>\n</tr>\n</tbody>\n</table>\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>1 Vulnerability</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition')</td>\n</tr>\n</tbody>\n</table>\n</div>\n<h3>Background</h3>\n<ul>\n<li><strong>Critical Infrastructure Sectors: </strong>Critical Manufacturing, Energy, Transportation Systems, Water and Wastewater Systems</li>\n<li><strong>Countries/Areas Deployed: </strong>Worldwide</li>\n<li><strong>Company Headquarters Location: </strong>United States</li>\n</ul>\n<hr />\n<h2>Vulnerabilities</h2>\n<div class=\"c-expandable-textbox icsa-etb\">\n<div class=\"c-expandable-textbox__title\">CVE-2026-126088</div>\n<div class=\"c-expandable-textbox__body\">In Autonomy Logic OpenPLC Runtime versions 4.2.4 and prior, a race condition allows multiple concurrent requests to pass the existence check before any user is committed, resulting in several unauthenticated admin accounts being created.</div>\n<div class=\"c-expandable-textbox-morebutton-wrapper\"><a class=\"c-expandable-textbox-morebutton\" href=\"https://www.cisa.gov/\">Read More</a></div>\n<div class=\"c-expandable-textbox__body2\">\n<h4>1 Affected Product</h4>\n<hr />\n<h5>Autonomy Logic OpenPLC Runtime &lt;=4.2.4</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Update to OpenPLC Runtime version 4.3.0 or later.</p>\n</div>\n<hr />\n<h6>Additional Metrics</h6>\n<p><strong>Relevant CWE:</strong> <a href=\"https://cwe.mitre.org/data/definitions/362.html\">CWE-362 Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition')</a></p>\n<div class=\"csaf-table csaf-metrics-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS Version</th>\n<th>Base Score</th>\n<th>Base Severity</th>\n<th>Vector String</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3.1</td>\n<td>8.1</td>\n<td>HIGH</td>\n<td><a href=\"https://www.first.org/cvss/calculator/3.1#CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H\">CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H</a></td>\n</tr>\n<tr>\n<td>4.0</td>\n<td>9.2</td>\n<td>CRITICAL</td>\n<td><a href=\"https://www.first.org/cvss/calculator/4.0#CVSS:4.0/AV:N/AC:H/AT:P/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N\">CVSS:4.0/AV:N/AC:H/AT:P/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N</a></td>\n</tr>\n</tbody>\n</table>\n</div>\n<hr />\n<p><a href=\"https://www.cve.org/CVERecord?id=CVE-2026-126088\">View CVE Details</a></p>\n</div>\n</div>\n<hr />\n<h2>Acknowledgments</h2>\n<ul>\n<li>Noureddin Lutfi reported this vulnerability to CISA.</li>\n</ul>\n<hr />\n<h2>Recommended Practices</h2>\n<p>CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities.</p>\n<ul type=\"disc\">\n<li>Minimize network exposure for all control system devices and/or systems, ensuring they are <a href=\"https://www.cisa.gov/uscert/ics/alerts/ICS-ALERT-10-301-01\">not accessible from the internet</a>.</li>\n<li>Locate control system networks and remote devices behind firewalls and isolating them from business networks.</li>\n<li>When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices.</li>\n</ul>\n<p>CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures.</p>\n<p>CISA also provides a section for <a href=\"https://www.cisa.gov/resources-tools/resources/ics-recommended-practices\">control systems security recommended practices</a> on the ICS webpage on <a href=\"https://www.cisa.gov/topics/industrial-control-systems\">cisa.gov/ics</a>. Several CISA products detailing cyber defense best practices are available for reading and download, including <a href=\"https://www.cisa.gov/sites/default/files/recommended_practices/NCCIC_ICS-CERT_Defense_in_Depth_2016_S508C.pdf\">Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies</a>.</p>\n<p>CISA encourages organizations to implement recommended cybersecurity strategies for <a href=\"https://www.cisa.gov/sites/default/files/publications/Cybersecurity_Best_Practices_for_Industrial_Control_Systems.pdf\">proactive defense of ICS assets</a>.</p>\n<p>Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at <a href=\"https://www.cisa.gov/topics/industrial-control-systems\">cisa.gov/ics</a> in the technical information paper, <a href=\"https://www.cisa.gov/news-events/news/targeted-cyber-intrusion-detection-and-mitigation-strategies-update-b\">ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies</a>.</p>\n<p>Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents.</p>\n<p>CISA also recommends users take the following measures to protect themselves from social engineering attacks:</p>\n<ul type=\"disc\">\n<li>Do not click web links or open attachments in unsolicited email messages.</li>\n<li>Refer to <a href=\"https://www.cisa.gov/secure-our-world/teach-employees-avoid-phishing\">Recognizing and Avoiding Email Scams</a> for more information on avoiding email scams.</li>\n<li>Refer to <a href=\"https://www.cisa.gov/news-events/news/avoiding-social-engineering-and-phishing-attacks\">Avoiding Social Engineering and Phishing Attacks</a> for more information on social engineering attacks.</li>\n</ul>\n<p>No known public exploitation specifically targeting these vulnerabilities has been reported to CISA at this time.</p>\n<hr />\n<h2>Revision History</h2>\n<ul>\n<li><strong>Initial Release Date: </strong>2026-11-19</li>\n</ul>\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>Date</th>\n<th>Revision</th>\n<th>Summary</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>2026-11-19</td>\n<td>1</td>\n<td>Initial Publication</td>\n</tr>\n</tbody>\n</table>\n<hr />\n<h2>Legal Notice and Terms of Use</h2>"
+  },
+  {
+    "source": "Cisa Alerts",
     "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
     "link": "https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog",
     "published": "Wed, 18 Nov 26 12:00:00 +0000",
@@ -1708,10 +1761,10 @@
   },
   {
     "source": "Cisa Alerts",
-    "title": "Siemens ROS#",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06",
+    "title": "Siemens Simcenter Femap",
+    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10",
     "published": "Tue, 17 Nov 26 12:00:00 +0000",
-    "summary": "<p><a href=\"https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-321-06.json\"><strong>View CSAF</strong></a></p>\n<h2>Summary</h2>\n<p><strong>ROS# before version 2.3.1 contains a code injection vulnerability that could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program. Siemens has released a new version for ROS# and recommends to update to the latest version.</strong></p>\n<p>The following versions of Siemens ROS# are affected:</p>\n<ul>\n<li>ROS# vers:intdot/&lt;2.3.1 (CVE-2026-109097)</li>\n</ul>\n<div class=\"csaf-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS</th>\n<th>Vendor</th>\n<th>Equipment</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>v3 8.2</td>\n<td>Siemens</td>\n<td>ROS#</td>\n</tr>\n</tbody>\n</table>\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>1 Vulnerability</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Improper Control of Generation of Code ('Code Injection')</td>\n</tr>\n</tbody>\n</table>\n</div>\n<h3>Background</h3>\n<ul>\n<li><strong>Critical Infrastructure Sectors: </strong>Critical Manufacturing</li>\n<li><strong>Countries/Areas Deployed: </strong>Worldwide</li>\n<li><strong>Company Headquarters Location: </strong>Germany</li>\n</ul>\n<hr />\n<h2>Vulnerabilities</h2>\n<div class=\"c-expandable-textbox icsa-etb\">\n<div class=\"c-expandable-textbox__title\">CVE-2026-109097</div>\n<div class=\"c-expandable-textbox__body\">Affected systems do not properly escape text of message definition files. This could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program.</div>\n<div class=\"c-expandable-textbox-morebutton-wrapper\"><a class=\"c-expandable-textbox-morebutton\" href=\"https://www.cisa.gov/\">Read More</a></div>\n<div class=\"c-expandable-textbox__body2\">\n<h4>1 Affected Product</h4>\n<hr />\n<h5>ROS# &lt; V2.3.1</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Update to V2.3.1 or later version</p>\n</div>\n<hr />\n<h6>Additional Metrics</h6>\n<p><strong>Relevant CWE:</strong> <a href=\"https://cwe.mitre.org/data/definitions/94.html\">CWE-94 Improper Control of Generation of Code ('Code Injection')</a></p>\n<div class=\"csaf-table csaf-metrics-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS Version</th>\n<th>Base Score</th>\n<th>Base Severity</th>\n<th>Vector String</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3.1</td>\n<td>8.2</td>\n<td>HIGH</td>\n<td><a href=\"https://www.first.org/cvss/calculator/3.1#CVSS:3.1/AV:L/AC:L/PR:L/UI:R/S:C/C:H/I:H/A:H\">CVSS:3.1/AV:L/AC:L/PR:L/UI:R/S:C/C:H/I:H/A:H</a></td>\n</tr>\n</tbody>\n</table>\n</div>\n<hr />\n<p><a href=\"https://www.cve.org/CVERecord?id=CVE-2026-109097\">View CVE Details</a></p>\n</div>\n</div>\n<hr />\n<h2>Acknowledgments</h2>\n<ul>\n<li>Siemens ProductCERT reported this vulnerability to CISA.</li>\n</ul>\n<hr />\n<h2>General Recommendations</h2>\n<p>As a general security measure, Siemens strongly recommends to protect network access to devices with appropriate mechanisms. In order to operate the devices in a protected IT environment, Siemens recommends to configure the environment according to Siemens' operational guidelines for Industrial Security (Download: https://www.siemens.com/cert/operational-guidelines-industrial-security), and to follow the recommendations in the product manuals. Additional information on Industrial Security by Siemens can be found at: https://www.siemens.com/industrialsecurity</p>\n<hr />\n<h2>Additional Resources</h2>\n<p>For further inquiries on security vulnerabilities in Siemens products and solutions, please contact the Siemens ProductCERT: https://www.siemens.com/cert/advisories</p>\n<hr />\n<h2>Terms of Use</h2>\n<p>The use of Siemens Security Advisories is subject to the terms and conditions listed on: https://www.siemens.com/productcert/terms-of-use.</p>\n<hr />\n<h2>Recommended Practices</h2>\n<p>CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities.</p>\n<ul type=\"disc\">\n<li>Minimize network exposure for all control system devices and/or systems, ensuring they are <a href=\"https://www.cisa.gov/uscert/ics/alerts/ICS-ALERT-10-301-01\">not accessible from the internet</a>.</li>\n<li>Locate control system networks and remote devices behind firewalls and isolating them from business networks.</li>\n<li>When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices.</li>\n</ul>\n<p>CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures.</p>\n<p>CISA also provides a section for <a href=\"https://www.cisa.gov/resources-tools/resources/ics-recommended-practices\">control systems security recommended practices</a> on the ICS webpage on <a href=\"https://www.cisa.gov/topics/industrial-control-systems\">cisa.gov/ics</a>. Several CISA products detailing cyber defense best practices are available for reading and download, including <a href=\"https://www.cisa.gov/sites/default/files/recommended_practices/NCCIC_ICS-CERT_Defense_in_Depth_2016_S508C.pdf\">Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies</a>.</p>\n<p>CISA encourages organizations to implement recommended cybersecurity strategies for <a href=\"https://www.cisa.gov/sites/default/files/publications/Cybersecurity_Best_Practices_for_Industrial_Control_Systems.pdf\">proactive defense of ICS assets</a>.</p>\n<p>Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at <a href=\"https://www.cisa.gov/topics/industrial-control-systems\">cisa.gov/ics</a> in the technical information paper, <a href=\"https://www.cisa.gov/news-events/news/targeted-cyber-intrusion-detection-and-mitigation-strategies-update-b\">ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies</a>.</p>\n<p>Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents.</p>\n<hr />\n<h2>Advisory Conversion Disclaimer</h2>\n<p>This ICSA is a verbatim republication of Siemens ProductCERT SSA-435267 from a direct conversion of the vendor's Common Security Advisory Framework (CSAF) advisory. This is republished to CISA's website as a means of increasing visibility and is provided \"as-is\" for informational purposes only. CISA is not responsible for the editorial or technical accuracy of republished advisories and provides no warranties of any kind regarding any information contained within this advisory. Further, CISA does not endorse any commercial product or service. Please contact Siemens ProductCERT directly for any questions regarding this advisory.</p>\n<h2>Revision History</h2>\n<ul>\n<li><strong>Initial Release Date: </strong>2026-11-10</li>\n</ul>\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>Date</th>\n<th>Revision</th>\n<th>Summary</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>2026-11-10</td>\n<td>1</td>\n<td>Publication Date</td>\n</tr>\n<tr>\n<td>2026-11-17</td>\n<td>2</td>\n<td>Initial CISA Republication of Siemens ProductCERT SSA-435267 advisory</td>\n</tr>\n</tbody>\n</table>\n<hr />\n<h2>Legal Notice and Terms of Use</h2>"
+    "summary": "<p><a href=\"https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-321-10.json\"><strong>View CSAF</strong></a></p>\n<h2>Summary</h2>\n<p><strong>Simcenter Femap is affected by an out of bounds read vulnerability that could be triggered when the application reads files in X_T format. This could allow an attacker to crash the application or execute arbitrary code. Siemens has released a new version for Simcenter Femap and recommends to update to the latest version.</strong></p>\n<p>The following versions of Siemens Simcenter Femap are affected:</p>\n<ul>\n<li>Simcenter Femap vers:intdot/&lt;2606.0002 (CVE-2026-64629)</li>\n</ul>\n<div class=\"csaf-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS</th>\n<th>Vendor</th>\n<th>Equipment</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>v3 7.8</td>\n<td>Siemens</td>\n<td>Simcenter Femap</td>\n</tr>\n</tbody>\n</table>\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>1 Vulnerability</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Out-of-bounds Read</td>\n</tr>\n</tbody>\n</table>\n</div>\n<h3>Background</h3>\n<ul>\n<li><strong>Critical Infrastructure Sectors: </strong>Critical Manufacturing</li>\n<li><strong>Countries/Areas Deployed: </strong>Worldwide</li>\n<li><strong>Company Headquarters Location: </strong>Germany</li>\n</ul>\n<hr />\n<h2>Vulnerabilities</h2>\n<div class=\"c-expandable-textbox icsa-etb\">\n<div class=\"c-expandable-textbox__title\">CVE-2026-64629</div>\n<div class=\"c-expandable-textbox__body\">The affected applications contains an out of bounds read vulnerability while parsing specially crafted X_T files. This could allow an attacker to execute code in the context of the current process.</div>\n<div class=\"c-expandable-textbox-morebutton-wrapper\"><a class=\"c-expandable-textbox-morebutton\" href=\"https://www.cisa.gov/\">Read More</a></div>\n<div class=\"c-expandable-textbox__body2\">\n<h4>1 Affected Product</h4>\n<hr />\n<h5>Simcenter Femap &lt; V2606.0002</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Update to V2606.0002 or later version</p>\n</div>\n<hr />\n<h6>Additional Metrics</h6>\n<p><strong>Relevant CWE:</strong> <a href=\"https://cwe.mitre.org/data/definitions/125.html\">CWE-125 Out-of-bounds Read</a></p>\n<div class=\"csaf-table csaf-metrics-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS Version</th>\n<th>Base Score</th>\n<th>Base Severity</th>\n<th>Vector String</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3.1</td>\n<td>7.8</td>\n<td>HIGH</td>\n<td><a href=\"https://www.first.org/cvss/calculator/3.1#CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H\">CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H</a></td>\n</tr>\n</tbody>\n</table>\n</div>\n<hr />\n<p><a href=\"https://www.cve.org/CVERecord?id=CVE-2026-64629\">View CVE Details</a></p>\n</div>\n</div>\n<hr />\n<h2>Acknowledgments</h2>\n<ul>\n<li>Siemens ProductCERT reported this vulnerability to CISA.</li>\n</ul>\n<hr />\n<h2>General Recommendations</h2>\n<p>As a general security measure, Siemens strongly recommends to protect network access to devices with appropriate mechanisms. In order to operate the devices in a protected IT environment, Siemens recommends to configure the environment according to Siemens' operational guidelines for Industrial Security (Download: https://www.siemens.com/cert/operational-guidelines-industrial-security), and to follow the recommendations in the product manuals. Additional information on Industrial Security by Siemens can be found at: https://www.siemens.com/industrialsecurity</p>\n<hr />\n<h2>Additional Resources</h2>\n<p>For further inquiries on security vulnerabilities in Siemens products and solutions, please contact the Siemens ProductCERT: https://www.siemens.com/cert/advisories</p>\n<hr />\n<h2>Terms of Use</h2>\n<p>The use of Siemens Security Advisories is subject to the terms and conditions listed on: https://www.siemens.com/productcert/terms-of-use.</p>\n<hr />\n<h2>Recommended Practices</h2>\n<p>CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities.</p>\n<ul type=\"disc\">\n<li>Minimize network exposure for all control system devices and/or systems, ensuring they are <a href=\"https://www.cisa.gov/uscert/ics/alerts/ICS-ALERT-10-301-01\">not accessible from the internet</a>.</li>\n<li>Locate control system networks and remote devices behind firewalls and isolating them from business networks.</li>\n<li>When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices.</li>\n</ul>\n<p>CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures.</p>\n<p>CISA also provides a section for <a href=\"https://www.cisa.gov/resources-tools/resources/ics-recommended-practices\">control systems security recommended practices</a> on the ICS webpage on <a href=\"https://www.cisa.gov/topics/industrial-control-systems\">cisa.gov/ics</a>. Several CISA products detailing cyber defense best practices are available for reading and download, including <a href=\"https://www.cisa.gov/sites/default/files/recommended_practices/NCCIC_ICS-CERT_Defense_in_Depth_2016_S508C.pdf\">Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies</a>.</p>\n<p>CISA encourages organizations to implement recommended cybersecurity strategies for <a href=\"https://www.cisa.gov/sites/default/files/publications/Cybersecurity_Best_Practices_for_Industrial_Control_Systems.pdf\">proactive defense of ICS assets</a>.</p>\n<p>Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at <a href=\"https://www.cisa.gov/topics/industrial-control-systems\">cisa.gov/ics</a> in the technical information paper, <a href=\"https://www.cisa.gov/news-events/news/targeted-cyber-intrusion-detection-and-mitigation-strategies-update-b\">ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies</a>.</p>\n<p>Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents.</p>\n<hr />\n<h2>Advisory Conversion Disclaimer</h2>\n<p>This ICSA is a verbatim republication of Siemens ProductCERT SSA-105852 from a direct conversion of the vendor's Common Security Advisory Framework (CSAF) advisory. This is republished to CISA's website as a means of increasing visibility and is provided \"as-is\" for informational purposes only. CISA is not responsible for the editorial or technical accuracy of republished advisories and provides no warranties of any kind regarding any information contained within this advisory. Further, CISA does not endorse any commercial product or service. Please contact Siemens ProductCERT directly for any questions regarding this advisory.</p>\n<h2>Revision History</h2>\n<ul>\n<li><strong>Initial Release Date: </strong>2026-11-10</li>\n</ul>\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>Date</th>\n<th>Revision</th>\n<th>Summary</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>2026-11-10</td>\n<td>1</td>\n<td>Publication Date</td>\n</tr>\n<tr>\n<td>2026-11-17</td>\n<td>2</td>\n<td>Initial CISA Republication of Siemens ProductCERT SSA-105852 advisory</td>\n</tr>\n</tbody>\n</table>\n<hr />\n<h2>Legal Notice and Terms of Use</h2>"
   },
   {
     "source": "Cisa Alerts",
@@ -1747,26 +1800,5 @@
     "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-04",
     "published": "Tue, 17 Nov 26 12:00:00 +0000",
     "summary": "<p><a href=\"https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-321-04.json\"><strong>View CSAF</strong></a></p>\n<h2>Summary</h2>\n<p><strong>On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write that could allow a remote attacker to cause memory corruption and potentially execute arbitrary code. This advisory covers the status of impact of various Siemens software products. Please also have a look on following Software Field Bulletins: Teamcenter: https://support.sw.siemens.com/en-US/knowledge-base/PL8869204 Polarion: https://support.sw.siemens.com/en-US/knowledge-base/PL8869197 Manufacturing Operations Center (Opcenter) and Process Preparation X: https://support.sw.siemens.com/en-US/knowledge-base/PL8869211 Siemens is preparing fixes and recommends specific mitigations for products where fixes are not or not yet available.</strong></p>\n<p>The following versions of Siemens Industrial Software Products are affected:</p>\n<ul>\n<li>HyperLynx vers:all/* (CVE-2026-111497)</li>\n<li>Innexis Architecture Native Acceleration 2026 vers:all/* (CVE-2026-111497)</li>\n<li>Insights Hub vers:all/* (CVE-2026-111497)</li>\n<li>Opcenter Connect Electronics vers:all/* (CVE-2026-111497)</li>\n<li>Opcenter Connect MOM vers:all/* (CVE-2026-111497)</li>\n<li>Opcenter Execution Core vers:all/* (CVE-2026-111497)</li>\n<li>Opcenter Execution Discrete vers:all/* (CVE-2026-111497)</li>\n<li>Opcenter Execution Foundation vers:all/* (CVE-2026-111497)</li>\n<li>Opcenter Execution Pharma vers:all/* (CVE-2026-111497)</li>\n<li>Opcenter Execution Process vers:all/* (CVE-2026-111497)</li>\n<li>Opcenter Intelligence vers:all/* (CVE-2026-111497)</li>\n<li>Opcenter Intra Plant Logistics vers:all/* (CVE-2026-111497)</li>\n<li>Opcenter Quality vers:all/* (CVE-2026-111497)</li>\n<li>Opcenter RDnL vers:all/* (CVE-2026-111497)</li>\n<li>Opcenter X vers:all/* (CVE-2026-111497)</li>\n<li>PADS Pro Essentials vers:all/* (CVE-2026-111497)</li>\n<li>PADS Pro Student Edition vers:all/* (CVE-2026-111497)</li>\n<li>PADS Professional vers:all/* (CVE-2026-111497)</li>\n<li>PAVE360 Automotive 2026 vers:all/* (CVE-2026-111497)</li>\n<li>Process Preparation X vers:all/* (CVE-2026-111497)</li>\n<li>Simcenter Executable Digital Twin vers:all/* (CVE-2026-111497)</li>\n<li>Simcenter Studio vers:all/* (CVE-2026-111497)</li>\n<li>Teamcenter V2412 vers:all/* (CVE-2026-111497)</li>\n<li>Teamcenter V2506 vers:all/* (CVE-2026-111497)</li>\n<li>Teamcenter V2512 vers:all/* (CVE-2026-111497)</li>\n<li>Teamcenter V2606 vers:all/* (CVE-2026-111497)</li>\n<li>Xpedition Designer vers:all/* (CVE-2026-111497)</li>\n<li>Xpedition Enterprise vers:all/* (CVE-2026-111497)</li>\n</ul>\n<div class=\"csaf-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS</th>\n<th>Vendor</th>\n<th>Equipment</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>v3 9.8</td>\n<td>Siemens</td>\n<td>HyperLynx, Innexis, Insights, Opcenter, PADS, PAVE360, Process Preparation, Simcenter, Teamcenter, Xpedition</td>\n</tr>\n</tbody>\n</table>\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>1 Vulnerability</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Out-of-bounds Write</td>\n</tr>\n</tbody>\n</table>\n</div>\n<h3>Background</h3>\n<ul>\n<li><strong>Critical Infrastructure Sectors: </strong>Critical Manufacturing</li>\n<li><strong>Countries/Areas Deployed: </strong>Worldwide</li>\n<li><strong>Company Headquarters Location: </strong>Germany</li>\n</ul>\n<hr />\n<h2>Vulnerabilities</h2>\n<div class=\"c-expandable-textbox icsa-etb\">\n<div class=\"c-expandable-textbox__title active\"><strong>CVE-2026-111497</strong></div>\n<div class=\"c-expandable-textbox__body c-expandable-textbox-open\">A buffer overflow vulnerability in the Brotli decoder (c/dec/decode.c) in Google Brotli versions 1.0.3 through 1.2.0 on all platforms allows a remote unauthenticated attacker to corrupt adjacent decoder state memory, disclose sensitive memory contents, cause a denial of service, or potentially execute arbitrary code using a crafted Brotli-compressed stream. Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.0 to the latest available version: 1.0.10 or 1.1.1 or 1.2.1.</div>\n<div class=\"c-expandable-textbox__body c-expandable-textbox-open\">&nbsp;</div>\n<div class=\"c-expandable-textbox__body2 c-expandable-textbox-open\">\n<h4><strong>28 Affected Products</strong></h4>\n<hr />\n<h5><strong>Opcenter Execution Core</strong></h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6><strong>Remediations</strong></h6>\n<div>\n<p><strong>Mitigation</strong><br />The vulnerability can be mitigated on the IIS Reverse Proxy. Please see https://support.sw.siemens.com/en-US/knowledge-base/PL8869211</p>\n</div>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h5><strong>Opcenter Execution Discrete</strong></h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6><strong>Remediations</strong></h6>\n<div>\n<p><strong>Mitigation</strong><br />The vulnerability can be mitigated on the IIS Reverse Proxy. Please see https://support.sw.siemens.com/en-US/knowledge-base/PL8869211</p>\n</div>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h5><strong>Opcenter Execution Foundation</strong></h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6><strong>Remediations</strong></h6>\n<div>\n<p><strong>Mitigation</strong><br />The vulnerability can be mitigated on the IIS Reverse Proxy. Please see https://support.sw.siemens.com/en-US/knowledge-base/PL8869211</p>\n</div>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h5><strong>Opcenter Execution Pharma</strong></h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6><strong>Remediations</strong></h6>\n<div>\n<p><strong>Mitigation</strong><br />The vulnerability can be mitigated on the IIS Reverse Proxy. Please see https://support.sw.siemens.com/en-US/knowledge-base/PL8869211</p>\n</div>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h5><strong>Opcenter Execution Process</strong></h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6><strong>Remediations</strong></h6>\n<div>\n<p><strong>Mitigation</strong><br />The vulnerability can be mitigated on the IIS Reverse Proxy. Please see https://support.sw.siemens.com/en-US/knowledge-base/PL8869211</p>\n</div>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h5><strong>Opcenter Intelligence</strong></h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6><strong>Remediations</strong></h6>\n<div>\n<p><strong>Mitigation</strong><br />The vulnerability can be mitigated on the IIS Reverse Proxy. Please see https://support.sw.siemens.com/en-US/knowledge-base/PL8869211</p>\n</div>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h5><strong>Opcenter Intra Plant Logistics</strong></h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6><strong>Remediations</strong></h6>\n<div>\n<p><strong>Mitigation</strong><br />The vulnerability can be mitigated on the IIS Reverse Proxy. Please see https://support.sw.siemens.com/en-US/knowledge-base/PL8869211</p>\n</div>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h5><strong>Opcenter Quality</strong></h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6><strong>Remediations</strong></h6>\n<div>\n<p><strong>Mitigation</strong><br />The vulnerability can be mitigated on the IIS Reverse Proxy. Please see https://support.sw.siemens.com/en-US/knowledge-base/PL8869211</p>\n</div>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h5><strong>Opcenter RDnL</strong></h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6><strong>Remediations</strong></h6>\n<div>\n<p><strong>Mitigation</strong><br />The vulnerability can be mitigated on the IIS Reverse Proxy. Please see https://support.sw.siemens.com/en-US/knowledge-base/PL8869211</p>\n</div>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h5><strong>Opcenter X</strong></h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6><strong>Remediations</strong></h6>\n<div>\n<p><strong>Mitigation</strong><br />The vulnerability can be mitigated on the IIS Reverse Proxy. Please see https://support.sw.siemens.com/en-US/knowledge-base/PL8869211</p>\n</div>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h5><strong>PADS Pro Essentials</strong></h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6><strong>Remediations</strong></h6>\n<div>\n<p><strong>Mitigation</strong><br />Disable brotli compression and block brotli compression at the network firewall.</p>\n</div>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h5><strong>PADS Pro Student Edition</strong></h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6><strong>Remediations</strong></h6>\n<div>\n<p><strong>Mitigation</strong><br />Disable brotli compression and block brotli compression at the network firewall.</p>\n</div>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h5><strong>PADS Professional</strong></h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6><strong>Remediations</strong></h6>\n<div>\n<p><strong>Mitigation</strong><br />Disable brotli compression and block brotli compression at the network firewall.</p>\n</div>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h5><strong>PAVE360 Automotive 2026</strong></h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6><strong>Remediations</strong></h6>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h5><strong>Process Preparation X</strong></h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6><strong>Remediations</strong></h6>\n<div>\n<p><strong>Mitigation</strong><br />The vulnerability can be mitigated on the IIS Reverse Proxy. Please see https://support.sw.siemens.com/en-US/knowledge-base/PL8869211</p>\n</div>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h5><strong>Simcenter Executable Digital Twin</strong></h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6><strong>Remediations</strong></h6>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h5><strong>Simcenter Studio</strong></h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6><strong>Remediations</strong></h6>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h5><strong>Teamcenter V2412</strong></h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6><strong>Remediations</strong></h6>\n<div>\n<p><strong>Mitigation</strong><br />For Teamcenter manual mitigation instructions can be found here: https://support.sw.siemens.com/en-US/knowledge-base/PL8869204</p>\n</div>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h5><strong>Teamcenter V2506</strong></h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6><strong>Remediations</strong></h6>\n<div>\n<p><strong>Mitigation</strong><br />For Teamcenter manual mitigation instructions can be found here: https://support.sw.siemens.com/en-US/knowledge-base/PL8869204</p>\n</div>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h5><strong>Teamcenter V2512</strong></h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6><strong>Remediations</strong></h6>\n<div>\n<p><strong>Mitigation</strong><br />For Teamcenter manual mitigation instructions can be found here: https://support.sw.siemens.com/en-US/knowledge-base/PL8869204</p>\n</div>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h5><strong>Teamcenter V2606</strong></h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6><strong>Remediations</strong></h6>\n<div>\n<p><strong>Mitigation</strong><br />For Teamcenter manual mitigation instructions can be found here: https://support.sw.siemens.com/en-US/knowledge-base/PL8869204</p>\n</div>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h5><strong>Xpedition Designer</strong></h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6><strong>Remediations</strong></h6>\n<div>\n<p><strong>Mitigation</strong><br />Disable brotli compression and block brotli compression at the network firewall.</p>\n</div>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h5><strong>Xpedition Enterprise</strong></h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6><strong>Remediations</strong></h6>\n<div>\n<p><strong>Mitigation</strong><br />Disable brotli compression and block brotli compression at the network firewall.</p>\n</div>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h5><strong>HyperLynx</strong></h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6><strong>Remediations</strong></h6>\n<div>\n<p><strong>Mitigation</strong><br />Disable brotli compression and block brotli compression at the network firewall.</p>\n</div>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h5><strong>Innexis Architecture Native Acceleration 2026</strong></h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6><strong>Remediations</strong></h6>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h5><strong>Insights Hub</strong></h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6><strong>Remediations</strong></h6>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h5><strong>Opcenter Connect Electronics</strong></h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6><strong>Remediations</strong></h6>\n<div>\n<p><strong>Mitigation</strong><br />The vulnerability can be mitigated on the IIS Reverse Proxy. Please see https://support.sw.siemens.com/en-US/knowledge-base/PL8869211</p>\n</div>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h5><strong>Opcenter Connect MOM</strong></h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6><strong>Remediations</strong></h6>\n<div>\n<p><strong>Mitigation</strong><br />The vulnerability can be mitigated on the IIS Reverse Proxy. Please see https://support.sw.siemens.com/en-US/knowledge-base/PL8869211</p>\n</div>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h6><strong>Additional Metrics</strong></h6>\n<p><strong>Relevant CWE:</strong> <a class=\"ext\" href=\"https://cwe.mitre.org/data/definitions/787.html\">CWE-787 Out-of-bounds Write</a></p>\n<div class=\"csaf-table csaf-metrics-table\">\n<div class=\"tablesaw-bar tablesaw-mode-stack\">&nbsp;</div>\n<table class=\"tablesaw tablesaw-stack\" id=\"tablesaw-3892\">\n<thead>\n<tr>\n<th><strong>CVSS Version</strong></th>\n<th><strong>Base Score</strong></th>\n<th><strong>Base Severity</strong></th>\n<th><strong>Vector String</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3.1</td>\n<td>9.8</td>\n<td><strong>CRITICAL</strong></td>\n<td><a class=\"ext\" href=\"https://www.first.org/cvss/calculator/3.1#CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H\">CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H</a></td>\n</tr>\n</tbody>\n</table>\n</div>\n<hr />\n<p><a class=\"ext\" href=\"https://www.cve.org/CVERecord?id=CVE-2026-111497\">View CVE Details</a></p>\n</div>\n</div>\n<hr />\n<h2>Acknowledgments</h2>\n<ul>\n<li>Siemens ProductCERT reported this vulnerability to CISA.</li>\n</ul>\n<hr />\n<h2>General Recommendations</h2>\n<p>As a general security measure, Siemens strongly recommends to protect network access to devices with appropriate mechanisms. In order to operate the devices in a protected IT environment, Siemens recommends to configure the environment according to Siemens' operational guidelines for Industrial Security (Download: https://www.siemens.com/cert/operational-guidelines-industrial-security), and to follow the recommendations in the product manuals. Additional information on Industrial Security by Siemens can be found at: https://www.siemens.com/industrialsecurity</p>\n<hr />\n<h2>Additional Resources</h2>\n<p>For further inquiries on security vulnerabilities in Siemens products and solutions, please contact the Siemens ProductCERT: https://www.siemens.com/cert/advisories</p>\n<hr />\n<h2>Terms of Use</h2>\n<p>The use of Siemens Security Advisories is subject to the terms and conditions listed on: https://www.siemens.com/productcert/terms-of-use.</p>\n<hr />\n<h2>Recommended Practices</h2>\n<p>CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities.</p>\n<ul type=\"disc\">\n<li>Minimize network exposure for all control system devices and/or systems, ensuring they are <a href=\"https://www.cisa.gov/uscert/ics/alerts/ICS-ALERT-10-301-01\">not accessible from the internet</a>.</li>\n<li>Locate control system networks and remote devices behind firewalls and isolating them from business networks.</li>\n<li>When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices.</li>\n</ul>\n<p>CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures.</p>\n<p>CISA also provides a section for <a href=\"https://www.cisa.gov/resources-tools/resources/ics-recommended-practices\">control systems security recommended practices</a> on the ICS webpage on <a href=\"https://www.cisa.gov/topics/industrial-control-systems\">cisa.gov/ics</a>. Several CISA products detailing cyber defense best practices are available for reading and download, including <a href=\"https://www.cisa.gov/sites/default/files/recommended_practices/NCCIC_ICS-CERT_Defense_in_Depth_2016_S508C.pdf\">Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies</a>.</p>\n<p>CISA encourages organizations to implement recommended cybersecurity strategies for <a href=\"https://www.cisa.gov/sites/default/files/publications/Cybersecurity_Best_Practices_for_Industrial_Control_Systems.pdf\">proactive defense of ICS assets</a>.</p>\n<p>Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at <a href=\"https://www.cisa.gov/topics/industrial-control-systems\">cisa.gov/ics</a> in the technical information paper, <a href=\"https://www.cisa.gov/news-events/news/targeted-cyber-intrusion-detection-and-mitigation-strategies-update-b\">ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies</a>.</p>\n<p>Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents.</p>\n<hr />\n<h2>Advisory Conversion Disclaimer</h2>\n<p>This ICSA is a verbatim republication of Siemens ProductCERT SSA-678870 from a direct conversion of the vendor's Common Security Advisory Framework (CSAF) advisory. This is republished to CISA's website as a means of increasing visibility and is provided \"as-is\" for informational purposes only. CISA is not responsible for the editorial or technical accuracy of republished advisories and provides no warranties of any kind regarding any information contained within this advisory. Further, CISA does not endorse any commercial product or service. Please contact Siemens ProductCERT directly for any questions regarding this advisory.</p>\n<h2>Revision History</h2>\n<ul>\n<li><strong>Initial Release Date: </strong>2026-11-10</li>\n</ul>\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>Date</th>\n<th>Revision</th>\n<th>Summary</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>2026-11-10</td>\n<td>1</td>\n<td>Publication Date</td>\n</tr>\n<tr>\n<td>2026-11-17</td>\n<td>2</td>\n<td>Initial CISA Republication of Siemens ProductCERT SSA-678870 advisory</td>\n</tr>\n</tbody>\n</table>\n<hr />\n<h2>Legal Notice and Terms of Use</h2>"
-  },
-  {
-    "source": "Cisa Alerts",
-    "title": "Siemens Simcenter Femap",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10",
-    "published": "Tue, 17 Nov 26 12:00:00 +0000",
-    "summary": "<p><a href=\"https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-321-10.json\"><strong>View CSAF</strong></a></p>\n<h2>Summary</h2>\n<p><strong>Simcenter Femap is affected by an out of bounds read vulnerability that could be triggered when the application reads files in X_T format. This could allow an attacker to crash the application or execute arbitrary code. Siemens has released a new version for Simcenter Femap and recommends to update to the latest version.</strong></p>\n<p>The following versions of Siemens Simcenter Femap are affected:</p>\n<ul>\n<li>Simcenter Femap vers:intdot/&lt;2606.0002 (CVE-2026-64629)</li>\n</ul>\n<div class=\"csaf-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS</th>\n<th>Vendor</th>\n<th>Equipment</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>v3 7.8</td>\n<td>Siemens</td>\n<td>Simcenter Femap</td>\n</tr>\n</tbody>\n</table>\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>1 Vulnerability</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Out-of-bounds Read</td>\n</tr>\n</tbody>\n</table>\n</div>\n<h3>Background</h3>\n<ul>\n<li><strong>Critical Infrastructure Sectors: </strong>Critical Manufacturing</li>\n<li><strong>Countries/Areas Deployed: </strong>Worldwide</li>\n<li><strong>Company Headquarters Location: </strong>Germany</li>\n</ul>\n<hr />\n<h2>Vulnerabilities</h2>\n<div class=\"c-expandable-textbox icsa-etb\">\n<div class=\"c-expandable-textbox__title\">CVE-2026-64629</div>\n<div class=\"c-expandable-textbox__body\">The affected applications contains an out of bounds read vulnerability while parsing specially crafted X_T files. This could allow an attacker to execute code in the context of the current process.</div>\n<div class=\"c-expandable-textbox-morebutton-wrapper\"><a class=\"c-expandable-textbox-morebutton\" href=\"https://www.cisa.gov/\">Read More</a></div>\n<div class=\"c-expandable-textbox__body2\">\n<h4>1 Affected Product</h4>\n<hr />\n<h5>Simcenter Femap &lt; V2606.0002</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Update to V2606.0002 or later version</p>\n</div>\n<hr />\n<h6>Additional Metrics</h6>\n<p><strong>Relevant CWE:</strong> <a href=\"https://cwe.mitre.org/data/definitions/125.html\">CWE-125 Out-of-bounds Read</a></p>\n<div class=\"csaf-table csaf-metrics-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS Version</th>\n<th>Base Score</th>\n<th>Base Severity</th>\n<th>Vector String</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3.1</td>\n<td>7.8</td>\n<td>HIGH</td>\n<td><a href=\"https://www.first.org/cvss/calculator/3.1#CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H\">CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H</a></td>\n</tr>\n</tbody>\n</table>\n</div>\n<hr />\n<p><a href=\"https://www.cve.org/CVERecord?id=CVE-2026-64629\">View CVE Details</a></p>\n</div>\n</div>\n<hr />\n<h2>Acknowledgments</h2>\n<ul>\n<li>Siemens ProductCERT reported this vulnerability to CISA.</li>\n</ul>\n<hr />\n<h2>General Recommendations</h2>\n<p>As a general security measure, Siemens strongly recommends to protect network access to devices with appropriate mechanisms. In order to operate the devices in a protected IT environment, Siemens recommends to configure the environment according to Siemens' operational guidelines for Industrial Security (Download: https://www.siemens.com/cert/operational-guidelines-industrial-security), and to follow the recommendations in the product manuals. Additional information on Industrial Security by Siemens can be found at: https://www.siemens.com/industrialsecurity</p>\n<hr />\n<h2>Additional Resources</h2>\n<p>For further inquiries on security vulnerabilities in Siemens products and solutions, please contact the Siemens ProductCERT: https://www.siemens.com/cert/advisories</p>\n<hr />\n<h2>Terms of Use</h2>\n<p>The use of Siemens Security Advisories is subject to the terms and conditions listed on: https://www.siemens.com/productcert/terms-of-use.</p>\n<hr />\n<h2>Recommended Practices</h2>\n<p>CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities.</p>\n<ul type=\"disc\">\n<li>Minimize network exposure for all control system devices and/or systems, ensuring they are <a href=\"https://www.cisa.gov/uscert/ics/alerts/ICS-ALERT-10-301-01\">not accessible from the internet</a>.</li>\n<li>Locate control system networks and remote devices behind firewalls and isolating them from business networks.</li>\n<li>When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices.</li>\n</ul>\n<p>CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures.</p>\n<p>CISA also provides a section for <a href=\"https://www.cisa.gov/resources-tools/resources/ics-recommended-practices\">control systems security recommended practices</a> on the ICS webpage on <a href=\"https://www.cisa.gov/topics/industrial-control-systems\">cisa.gov/ics</a>. Several CISA products detailing cyber defense best practices are available for reading and download, including <a href=\"https://www.cisa.gov/sites/default/files/recommended_practices/NCCIC_ICS-CERT_Defense_in_Depth_2016_S508C.pdf\">Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies</a>.</p>\n<p>CISA encourages organizations to implement recommended cybersecurity strategies for <a href=\"https://www.cisa.gov/sites/default/files/publications/Cybersecurity_Best_Practices_for_Industrial_Control_Systems.pdf\">proactive defense of ICS assets</a>.</p>\n<p>Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at <a href=\"https://www.cisa.gov/topics/industrial-control-systems\">cisa.gov/ics</a> in the technical information paper, <a href=\"https://www.cisa.gov/news-events/news/targeted-cyber-intrusion-detection-and-mitigation-strategies-update-b\">ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies</a>.</p>\n<p>Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents.</p>\n<hr />\n<h2>Advisory Conversion Disclaimer</h2>\n<p>This ICSA is a verbatim republication of Siemens ProductCERT SSA-105852 from a direct conversion of the vendor's Common Security Advisory Framework (CSAF) advisory. This is republished to CISA's website as a means of increasing visibility and is provided \"as-is\" for informational purposes only. CISA is not responsible for the editorial or technical accuracy of republished advisories and provides no warranties of any kind regarding any information contained within this advisory. Further, CISA does not endorse any commercial product or service. Please contact Siemens ProductCERT directly for any questions regarding this advisory.</p>\n<h2>Revision History</h2>\n<ul>\n<li><strong>Initial Release Date: </strong>2026-11-10</li>\n</ul>\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>Date</th>\n<th>Revision</th>\n<th>Summary</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>2026-11-10</td>\n<td>1</td>\n<td>Publication Date</td>\n</tr>\n<tr>\n<td>2026-11-17</td>\n<td>2</td>\n<td>Initial CISA Republication of Siemens ProductCERT SSA-105852 advisory</td>\n</tr>\n</tbody>\n</table>\n<hr />\n<h2>Legal Notice and Terms of Use</h2>"
-  },
-  {
-    "source": "Cisa Alerts",
-    "title": "Siemens SIMATIC",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-08",
-    "published": "Tue, 17 Nov 26 12:00:00 +0000",
-    "summary": "<p><a href=\"https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-321-08.json\"><strong>View CSAF</strong></a></p>\n<h2>Summary</h2>\n<p><strong>The products listed below contain an authentication bypass vulnerability that could allow an on-path attacker to take over the session of a legitimate user and execute arbitrary code with the privileges of the victim user. Siemens is preparing fixes and recommends specific mitigations for products where fixes are not or not yet available.</strong></p>\n<p>The following versions of Siemens SIMATIC are affected:</p>\n<ul>\n<li>SIMATIC BATCH V9.1 vers:all/* (CVE-2026-58114)</li>\n<li>SIMATIC Information Server 2020 vers:all/* (CVE-2026-58114)</li>\n<li>SIMATIC Information Server 2022 vers:all/* (CVE-2026-58114)</li>\n<li>SIMATIC PCS 7 V9.1 vers:all/* (CVE-2026-58114)</li>\n<li>SIMATIC Process Historian 2020 vers:all/* (CVE-2026-58114)</li>\n<li>SIMATIC Process Historian 2022 vers:all/* (CVE-2026-58114)</li>\n<li>SIMATIC WinCC Runtime Professional V17 vers:all/* (CVE-2026-58114)</li>\n<li>SIMATIC WinCC Runtime Professional V18 vers:all/* (CVE-2026-58114)</li>\n<li>SIMATIC WinCC Runtime Professional V19 vers:all/* (CVE-2026-58114)</li>\n<li>SIMATIC WinCC Runtime Professional V20 vers:all/* (CVE-2026-58114)</li>\n<li>SIMATIC WinCC Runtime Professional V21 vers:all/* (CVE-2026-58114)</li>\n<li>SIMATIC WinCC V7.5 vers:all/* (CVE-2026-58114)</li>\n<li>SIMATIC WinCC V8.0 vers:all/* (CVE-2026-58114)</li>\n<li>SIMATIC WinCC V8.1 vers:all/* (CVE-2026-58114)</li>\n</ul>\n<div class=\"csaf-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS</th>\n<th>Vendor</th>\n<th>Equipment</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>v3 7.5</td>\n<td>Siemens</td>\n<td>SIMATIC BATCH V9.1</td>\n</tr>\n</tbody>\n</table>\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>1 Vulnerability</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Weak Authentication</td>\n</tr>\n</tbody>\n</table>\n</div>\n<h3>Background</h3>\n<ul>\n<li><strong>Critical Infrastructure Sectors: </strong>Critical Manufacturing</li>\n<li><strong>Countries/Areas Deployed: </strong>Worldwide</li>\n<li><strong>Company Headquarters Location: </strong>Germany</li>\n</ul>\n<hr />\n<h2>Vulnerabilities</h2>\n<div class=\"c-expandable-textbox icsa-etb\">\n<div class=\"c-expandable-textbox__title\">CVE-2026-58114</div>\n<div class=\"c-expandable-textbox__body\">Affected systems do not properly secure their remote user authentication with the deprecated NTLM protocol. This could allow unauthenticated remote attackers, who have achieved a machine in the middle position, to relay NTLM authentication and impersonate a legitimate user. The potential impact depends on the services that are accessible, e.g. a SQL server used by WinCC.</div>\n<div class=\"c-expandable-textbox-morebutton-wrapper\"><a class=\"c-expandable-textbox-morebutton\" href=\"https://www.cisa.gov/\">Read More</a></div>\n<div class=\"c-expandable-textbox__body2\">\n<h4>14 Affected Products</h4>\n<hr />\n<h5>SIMATIC BATCH V9.1</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Mitigation</strong><br />Customers can manually configure the SQL Server Database for encrypting communication as described in https://support.industry.siemens.com/cs/mdm/109818202?c=145291786635&amp;lc=en-ID</p>\n</div>\n<div>\n<p><strong>No fix planned</strong><br />Currently no fix is planned</p>\n</div>\n<hr />\n<h5>SIMATIC WinCC Runtime Professional V20</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Mitigation</strong><br />Customers can manually configure the SQL Server Database for encrypting communication as described in https://support.industry.siemens.com/cs/mdm/109818202?c=145291786635&amp;lc=en-ID</p>\n</div>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h5>SIMATIC WinCC Runtime Professional V21</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Mitigation</strong><br />Customers can manually configure the SQL Server Database for encrypting communication as described in https://support.industry.siemens.com/cs/mdm/109818202?c=145291786635&amp;lc=en-ID</p>\n</div>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h5>SIMATIC WinCC V7.5</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Mitigation</strong><br />Customers can manually configure the SQL Server Database for encrypting communication as described in https://support.industry.siemens.com/cs/mdm/109818202?c=145291786635&amp;lc=en-ID</p>\n</div>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h5>SIMATIC WinCC V8.0</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Mitigation</strong><br />Customers can manually configure the SQL Server Database for encrypting communication as described in https://support.industry.siemens.com/cs/mdm/109818202?c=145291786635&amp;lc=en-ID</p>\n</div>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h5>SIMATIC WinCC V8.1</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Mitigation</strong><br />Customers can manually configure the SQL Server Database for encrypting communication as described in https://support.industry.siemens.com/cs/mdm/109818202?c=145291786635&amp;lc=en-ID</p>\n</div>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h5>SIMATIC Information Server 2020</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Mitigation</strong><br />Customers can manually configure the SQL Server Database for encrypting communication as described in https://support.industry.siemens.com/cs/mdm/109818202?c=145291786635&amp;lc=en-ID</p>\n</div>\n<div>\n<p><strong>No fix planned</strong><br />Currently no fix is planned</p>\n</div>\n<hr />\n<h5>SIMATIC Information Server 2022</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Mitigation</strong><br />Customers can manually configure the SQL Server Database for encrypting communication as described in https://support.industry.siemens.com/cs/mdm/109818202?c=145291786635&amp;lc=en-ID</p>\n</div>\n<div>\n<p><strong>No fix planned</strong><br />Currently no fix is planned</p>\n</div>\n<hr />\n<h5>SIMATIC PCS 7 V9.1</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Mitigation</strong><br />Customers can manually configure the SQL Server Database for encrypting communication as described in https://support.industry.siemens.com/cs/mdm/109818202?c=145291786635&amp;lc=en-ID</p>\n</div>\n<div>\n<p><strong>No fix planned</strong><br />Currently no fix is planned</p>\n</div>\n<hr />\n<h5>SIMATIC Process Historian 2020</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Mitigation</strong><br />Customers can manually configure the SQL Server Database for encrypting communication as described in https://support.industry.siemens.com/cs/mdm/109818202?c=145291786635&amp;lc=en-ID</p>\n</div>\n<div>\n<p><strong>No fix planned</strong><br />Currently no fix is planned</p>\n</div>\n<hr />\n<h5>SIMATIC Process Historian 2022</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Mitigation</strong><br />Customers can manually configure the SQL Server Database for encrypting communication as described in https://support.industry.siemens.com/cs/mdm/109818202?c=145291786635&amp;lc=en-ID</p>\n</div>\n<div>\n<p><strong>No fix planned</strong><br />Currently no fix is planned</p>\n</div>\n<hr />\n<h5>SIMATIC WinCC Runtime Professional V17</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Mitigation</strong><br />Customers can manually configure the SQL Server Database for encrypting communication as described in https://support.industry.siemens.com/cs/mdm/109818202?c=145291786635&amp;lc=en-ID</p>\n</div>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h5>SIMATIC WinCC Runtime Professional V18</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Mitigation</strong><br />Customers can manually configure the SQL Server Database for encrypting communication as described in https://support.industry.siemens.com/cs/mdm/109818202?c=145291786635&amp;lc=en-ID</p>\n</div>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h5>SIMATIC WinCC Runtime Professional V19</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Mitigation</strong><br />Customers can manually configure the SQL Server Database for encrypting communication as described in https://support.industry.siemens.com/cs/mdm/109818202?c=145291786635&amp;lc=en-ID</p>\n</div>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h6>Additional Metrics</h6>\n<p><strong>Relevant CWE:</strong> <a href=\"https://cwe.mitre.org/data/definitions/1390.html\">CWE-1390 Weak Authentication</a></p>\n<div class=\"csaf-table csaf-metrics-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS Version</th>\n<th>Base Score</th>\n<th>Base Severity</th>\n<th>Vector String</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3.1</td>\n<td>7.5</td>\n<td>HIGH</td>\n<td><a href=\"https://www.first.org/cvss/calculator/3.1#CVSS:3.1/AV:N/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:H\">CVSS:3.1/AV:N/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:H</a></td>\n</tr>\n</tbody>\n</table>\n</div>\n<hr />\n<p><a href=\"https://www.cve.org/CVERecord?id=CVE-2026-58114\">View CVE Details</a></p>\n</div>\n</div>\n<hr />\n<h2>Acknowledgments</h2>\n<ul>\n<li>Siemens ProductCERT reported this vulnerability to CISA.</li>\n</ul>\n<hr />\n<h2>General Recommendations</h2>\n<p>As a general security measure, Siemens strongly recommends to protect network access to devices with appropriate mechanisms. In order to operate the devices in a protected IT environment, Siemens recommends to configure the environment according to Siemens' operational guidelines for Industrial Security (Download: https://www.siemens.com/cert/operational-guidelines-industrial-security), and to follow the recommendations in the product manuals. Additional information on Industrial Security by Siemens can be found at: https://www.siemens.com/industrialsecurity</p>\n<hr />\n<h2>Additional Resources</h2>\n<p>For further inquiries on security vulnerabilities in Siemens products and solutions, please contact the Siemens ProductCERT: https://www.siemens.com/cert/advisories</p>\n<hr />\n<h2>Terms of Use</h2>\n<p>The use of Siemens Security Advisories is subject to the terms and conditions listed on: https://www.siemens.com/productcert/terms-of-use.</p>\n<hr />\n<h2>Recommended Practices</h2>\n<p>CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities.</p>\n<ul type=\"disc\">\n<li>Minimize network exposure for all control system devices and/or systems, ensuring they are <a href=\"https://www.cisa.gov/uscert/ics/alerts/ICS-ALERT-10-301-01\">not accessible from the internet</a>.</li>\n<li>Locate control system networks and remote devices behind firewalls and isolating them from business networks.</li>\n<li>When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices.</li>\n</ul>\n<p>CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures.</p>\n<p>CISA also provides a section for <a href=\"https://www.cisa.gov/resources-tools/resources/ics-recommended-practices\">control systems security recommended practices</a> on the ICS webpage on <a href=\"https://www.cisa.gov/topics/industrial-control-systems\">cisa.gov/ics</a>. Several CISA products detailing cyber defense best practices are available for reading and download, including <a href=\"https://www.cisa.gov/sites/default/files/recommended_practices/NCCIC_ICS-CERT_Defense_in_Depth_2016_S508C.pdf\">Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies</a>.</p>\n<p>CISA encourages organizations to implement recommended cybersecurity strategies for <a href=\"https://www.cisa.gov/sites/default/files/publications/Cybersecurity_Best_Practices_for_Industrial_Control_Systems.pdf\">proactive defense of ICS assets</a>.</p>\n<p>Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at <a href=\"https://www.cisa.gov/topics/industrial-control-systems\">cisa.gov/ics</a> in the technical information paper, <a href=\"https://www.cisa.gov/news-events/news/targeted-cyber-intrusion-detection-and-mitigation-strategies-update-b\">ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies</a>.</p>\n<p>Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents.</p>\n<hr />\n<h2>Advisory Conversion Disclaimer</h2>\n<p>This ICSA is a verbatim republication of Siemens ProductCERT SSA-970803 from a direct conversion of the vendor's Common Security Advisory Framework (CSAF) advisory. This is republished to CISA's website as a means of increasing visibility and is provided \"as-is\" for informational purposes only. CISA is not responsible for the editorial or technical accuracy of republished advisories and provides no warranties of any kind regarding any information contained within this advisory. Further, CISA does not endorse any commercial product or service. Please contact Siemens ProductCERT directly for any questions regarding this advisory.</p>\n<h2>Revision History</h2>\n<ul>\n<li><strong>Initial Release Date: </strong>2026-11-10</li>\n</ul>\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>Date</th>\n<th>Revision</th>\n<th>Summary</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>2026-11-10</td>\n<td>1</td>\n<td>Publication Date</td>\n</tr>\n<tr>\n<td>2026-11-17</td>\n<td>2</td>\n<td>Initial CISA Republication of Siemens ProductCERT SSA-970803 advisory</td>\n</tr>\n</tbody>\n</table>\n<hr />\n<h2>Legal Notice and Terms of Use</h2>"
-  },
-  {
-    "source": "Cisa Alerts",
-    "title": "Siemens Industrial Automation Software Products",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-03",
-    "published": "Tue, 17 Nov 26 12:00:00 +0000",
-    "summary": "<p><a href=\"https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-321-03.json\"><strong>View CSAF</strong></a></p>\n<h2>Summary</h2>\n<p><strong>On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write that could allow a remote attacker to cause memory corruption and potentially execute arbitrary code. This advisory covers the status of impact of various Siemens products. Siemens has released new versions for several affected products and recommends to update to the latest versions. Siemens is preparing further fixes and recommends specific mitigations for products where fixes are not or not yet available.</strong></p>\n<p>The following versions of Siemens Industrial Automation Software Products are affected:</p>\n<ul>\n<li>COMOS Walkinside vers:all/* (CVE-2026-111497)</li>\n<li>gDAP (gPROMS Digital Application Platform) vers:all/* ()</li>\n<li>Project Server Web Administration Tool vers:all/* (CVE-2026-111497)</li>\n<li>SIMATIC BRAUMAT vers:intdot/&gt;=8.2.0.1|&lt;8.2.0.5 (CVE-2026-111497)</li>\n<li>SIMATIC Profiling Tool vers:all/* (CVE-2026-111497)</li>\n<li>SIMATIC SISTAR vers:intdot/&gt;=8.2.0.1|&lt;8.2.0.5 (CVE-2026-111497)</li>\n<li>SIMATIC WinCC Companion vers:all/* (CVE-2026-111497)</li>\n<li>SIMATIC WinCC OA V3.20 vers:intdot/&lt;3.20.17.1 (CVE-2026-111497)</li>\n<li>SIMATIC WinCC OA V3.21 vers:all/* (CVE-2026-111497)</li>\n<li>SIMATIC WinCC Runtime Professional vers:all/* (CVE-2026-111497)</li>\n<li>SIMATIC WinCC Unified for Industrial Edge vers:all/* (CVE-2026-111497)</li>\n<li>SIMATIC WinCC Unified PC Runtime vers:all/* (CVE-2026-111497)</li>\n<li>SIMATIC WinCC Unified SIQENCE vers:all/* (CVE-2026-111497)</li>\n<li>SIMATIC WinCC V7/V8 vers:all/* (CVE-2026-111497)</li>\n<li>TIA Administrator vers:all/* (CVE-2026-111497)</li>\n<li>User Management Component (UMC) vers:all/* (CVE-2026-111497)</li>\n</ul>\n<div class=\"csaf-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS</th>\n<th>Vendor</th>\n<th>Equipment</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>v3 9.8</td>\n<td>Siemens</td>\n<td>COMOS Walkinside</td>\n</tr>\n</tbody>\n</table>\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>1 Vulnerability</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Out-of-bounds Write</td>\n</tr>\n</tbody>\n</table>\n</div>\n<h3>Background</h3>\n<ul>\n<li><strong>Critical Infrastructure Sectors: </strong>Critical Manufacturing, Food and Agriculture, Energy</li>\n<li><strong>Countries/Areas Deployed: </strong>Worldwide</li>\n<li><strong>Company Headquarters Location: </strong>Germany</li>\n</ul>\n<hr />\n<h2>Vulnerabilities</h2>\n<div class=\"c-expandable-textbox icsa-etb\">\n<div class=\"c-expandable-textbox__title\">CVE-2026-111497</div>\n<div class=\"c-expandable-textbox__body\">A buffer overflow vulnerability in the Brotli decoder (c/dec/decode.c) in Google Brotli versions 1.0.3 through 1.2.0 on all platforms allows a remote unauthenticated attacker to corrupt adjacent decoder state memory, disclose sensitive memory contents, cause a denial of service, or potentially execute arbitrary code using a crafted Brotli-compressed stream. Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.0 to the latest available version: 1.0.10 or 1.1.1 or 1.2.1.</div>\n<div class=\"c-expandable-textbox-morebutton-wrapper\"><a class=\"c-expandable-textbox-morebutton\" href=\"https://www.cisa.gov/\">Read More</a></div>\n<div class=\"c-expandable-textbox__body2\">\n<h4>15 Affected Products</h4>\n<hr />\n<h5>COMOS Walkinside</h5>\n<div>\n<p>Product Status: known_affected, known_not_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Mitigation</strong><br />Temporarily disable Brotli compression and decompression at the application or proxy layer if it is not strictly required</p>\n</div>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h5>SIMATIC WinCC Runtime Professional</h5>\n<div>\n<p>Product Status: known_affected, known_not_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Mitigation</strong><br />Temporarily disable Brotli compression and decompression at the application or proxy layer if it is not strictly required</p>\n</div>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h5>SIMATIC WinCC Unified for Industrial Edge</h5>\n<div>\n<p>Product Status: known_affected, known_not_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Mitigation</strong><br />Temporarily disable Brotli compression and decompression at the application or proxy layer if it is not strictly required</p>\n</div>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h5>SIMATIC WinCC Unified PC Runtime</h5>\n<div>\n<p>Product Status: known_affected, known_not_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Mitigation</strong><br />Temporarily disable Brotli compression and decompression at the application or proxy layer if it is not strictly required</p>\n</div>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h5>SIMATIC WinCC Unified SIQENCE</h5>\n<div>\n<p>Product Status: known_affected, known_not_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Mitigation</strong><br />Temporarily disable Brotli compression and decompression at the application or proxy layer if it is not strictly required</p>\n</div>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h5>SIMATIC WinCC V7/V8</h5>\n<div>\n<p>Product Status: known_affected, known_not_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Mitigation</strong><br />Temporarily disable Brotli compression and decompression at the application or proxy layer if it is not strictly required</p>\n</div>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h5>TIA Administrator</h5>\n<div>\n<p>Product Status: known_affected, known_not_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Mitigation</strong><br />Temporarily disable Brotli compression and decompression at the application or proxy layer if it is not strictly required. If UMC authentication is enabled, block requests that use Brotli compression: in IIS Manager, select the Default Web Site, open \"Request Filtering\" &gt; \"Rules\", click \"Add Filtering Rule\", enter Name \"CVE-2026-111497\", Scan Headers \"Content-Encoding\" and Deny Strings \"br\", then click OK.</p>\n</div>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h5>User Management Component (UMC)</h5>\n<div>\n<p>Product Status: known_affected, known_not_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Mitigation</strong><br />Temporarily disable Brotli compression and decompression at the application or proxy layer if it is not strictly required. In IIS Manager, select the Default Web Site, open \"Request Filtering\" &gt; \"Rules\", click \"Add Filtering Rule\", enter Name \"CVE-2026-111497\", Scan Headers \"Content-Encoding\" and Deny Strings \"br\", then click OK.</p>\n</div>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h5>Project Server Web Administration Tool</h5>\n<div>\n<p>Product Status: known_affected, known_not_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Mitigation</strong><br />Temporarily disable Brotli compression and decompression at the application or proxy layer if it is not strictly required</p>\n</div>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h5>SIMATIC BRAUMAT &gt;= V8.2 Update 1 &lt; V8.2 Update 5</h5>\n<div>\n<p>Product Status: known_affected, known_not_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Mitigation</strong><br />Temporarily disable Brotli compression and decompression at the application or proxy layer if it is not strictly required</p>\n</div>\n<div>\n<p><strong>Vendor fix</strong><br />Update to V8.2 Update 5 or later version</p>\n</div>\n<hr />\n<h5>SIMATIC Profiling Tool</h5>\n<div>\n<p>Product Status: known_affected, known_not_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Mitigation</strong><br />Temporarily disable Brotli compression and decompression at the application or proxy layer if it is not strictly required</p>\n</div>\n<div>\n<p><strong>No fix planned</strong><br />Currently no fix is planned</p>\n</div>\n<hr />\n<h5>SIMATIC SISTAR &gt;= V8.2 Update 1 &lt; V8.2 Update 5</h5>\n<div>\n<p>Product Status: known_affected, known_not_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Mitigation</strong><br />Temporarily disable Brotli compression and decompression at the application or proxy layer if it is not strictly required</p>\n</div>\n<div>\n<p><strong>Vendor fix</strong><br />Update to V8.2 Update 5 or later version</p>\n</div>\n<hr />\n<h5>SIMATIC WinCC Companion</h5>\n<div>\n<p>Product Status: known_affected, known_not_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Mitigation</strong><br />Temporarily disable Brotli compression and decompression at the application or proxy layer if it is not strictly required</p>\n</div>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h5>SIMATIC WinCC OA V3.20 &lt; V3.20 P17.1</h5>\n<div>\n<p>Product Status: known_affected, known_not_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Update to V3.20 P17.1 or later version</p>\n</div>\n<hr />\n<h5>SIMATIC WinCC OA V3.21</h5>\n<div>\n<p>Product Status: known_affected, known_not_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Mitigation</strong><br />Temporarily disable Brotli compression and decompression at the application or proxy layer if it is not strictly required</p>\n</div>\n<div>\n<p><strong>None available</strong><br />Currently no fix is available</p>\n</div>\n<hr />\n<h6>Additional Metrics</h6>\n<p><strong>Relevant CWE:</strong> <a href=\"https://cwe.mitre.org/data/definitions/787.html\">CWE-787 Out-of-bounds Write</a></p>\n<div class=\"csaf-table csaf-metrics-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS Version</th>\n<th>Base Score</th>\n<th>Base Severity</th>\n<th>Vector String</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3.1</td>\n<td>9.8</td>\n<td>CRITICAL</td>\n<td><a href=\"https://www.first.org/cvss/calculator/3.1#CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H\">CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H</a></td>\n</tr>\n</tbody>\n</table>\n</div>\n<hr />\n<p><a href=\"https://www.cve.org/CVERecord?id=CVE-2026-111497\">View CVE Details</a></p>\n</div>\n</div>\n<hr />\n<h2>Acknowledgments</h2>\n<ul>\n<li>Siemens ProductCERT reported this vulnerability to CISA.</li>\n</ul>\n<hr />\n<h2>General Recommendations</h2>\n<p>As a general security measure, Siemens strongly recommends to protect network access to devices with appropriate mechanisms. In order to operate the devices in a protected IT environment, Siemens recommends to configure the environment according to Siemens' operational guidelines for Industrial Security (Download: https://www.siemens.com/cert/operational-guidelines-industrial-security), and to follow the recommendations in the product manuals. Additional information on Industrial Security by Siemens can be found at: https://www.siemens.com/industrialsecurity</p>\n<hr />\n<h2>Additional Resources</h2>\n<p>For further inquiries on security vulnerabilities in Siemens products and solutions, please contact the Siemens ProductCERT: https://www.siemens.com/cert/advisories</p>\n<hr />\n<h2>Terms of Use</h2>\n<p>The use of Siemens Security Advisories is subject to the terms and conditions listed on: https://www.siemens.com/productcert/terms-of-use.</p>\n<hr />\n<h2>Recommended Practices</h2>\n<p>CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities.</p>\n<ul type=\"disc\">\n<li>Minimize network exposure for all control system devices and/or systems, ensuring they are <a href=\"https://www.cisa.gov/uscert/ics/alerts/ICS-ALERT-10-301-01\">not accessible from the internet</a>.</li>\n<li>Locate control system networks and remote devices behind firewalls and isolating them from business networks.</li>\n<li>When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices.</li>\n</ul>\n<p>CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures.</p>\n<p>CISA also provides a section for <a href=\"https://www.cisa.gov/resources-tools/resources/ics-recommended-practices\">control systems security recommended practices</a> on the ICS webpage on <a href=\"https://www.cisa.gov/topics/industrial-control-systems\">cisa.gov/ics</a>. Several CISA products detailing cyber defense best practices are available for reading and download, including <a href=\"https://www.cisa.gov/sites/default/files/recommended_practices/NCCIC_ICS-CERT_Defense_in_Depth_2016_S508C.pdf\">Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies</a>.</p>\n<p>CISA encourages organizations to implement recommended cybersecurity strategies for <a href=\"https://www.cisa.gov/sites/default/files/publications/Cybersecurity_Best_Practices_for_Industrial_Control_Systems.pdf\">proactive defense of ICS assets</a>.</p>\n<p>Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at <a href=\"https://www.cisa.gov/topics/industrial-control-systems\">cisa.gov/ics</a> in the technical information paper, <a href=\"https://www.cisa.gov/news-events/news/targeted-cyber-intrusion-detection-and-mitigation-strategies-update-b\">ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies</a>.</p>\n<p>Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents.</p>\n<hr />\n<h2>Advisory Conversion Disclaimer</h2>\n<p>This ICSA is a verbatim republication of Siemens ProductCERT SSA-242944 from a direct conversion of the vendor's Common Security Advisory Framework (CSAF) advisory. This is republished to CISA's website as a means of increasing visibility and is provided \"as-is\" for informational purposes only. CISA is not responsible for the editorial or technical accuracy of republished advisories and provides no warranties of any kind regarding any information contained within this advisory. Further, CISA does not endorse any commercial product or service. Please contact Siemens ProductCERT directly for any questions regarding this advisory.</p>\n<h2>Revision History</h2>\n<ul>\n<li><strong>Initial Release Date: </strong>2026-11-10</li>\n</ul>\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>Date</th>\n<th>Revision</th>\n<th>Summary</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>2026-11-10</td>\n<td>1</td>\n<td>Publication Date</td>\n</tr>\n<tr>\n<td>2026-11-17</td>\n<td>2</td>\n<td>Initial CISA Republication of Siemens ProductCERT SSA-242944 advisory</td>\n</tr>\n</tbody>\n</table>\n<hr />\n<h2>Legal Notice and Terms of Use</h2>"
   }
 ]
