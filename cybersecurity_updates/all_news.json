@@ -1,6 +1,46 @@
 [
   {
     "source": "The Hacker News",
+    "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
+    "link": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
+    "published": "Fri, 20 Nov 2026 00:17:58 +0530",
+    "summary": "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem. This week's stories show how ordinary things are being used to steal data, spread malware, and get people to hand over access.\n\nThere's another shift worth watching. AI is making some attacks easier",
+    "analysis": {
+      "issue": "This week's ThreatsDay covers GPT-6",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
+    "link": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
+    "published": "Thu, 19 Nov 2026 22:29:56 +0530",
+    "summary": "PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a suitable gadget chain in the app, those objects can allow the attacker to run code on the server.\n\nToday's PHP releases fix the flaw, called phpAfterShell.\n\nThe flaw is tracked as CVE-2026-126714 and rated",
+    "analysis": {
+      "issue": "PHP fixes CVE-2026-126714, a critical session file flaw enabling object injection and potential code execution when paired with another weakness",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-126714"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
     "link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
     "published": "Thu, 19 Nov 2026 20:48:07 +0530",
@@ -151,38 +191,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
-    "link": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
-    "published": "Thu, 19 Nov 2026 10:03:46 +0530",
-    "summary": "The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws.\n\nThe release is scheduled for November 19, 2026, between 2 and 2:30 p.m. UTC.\n\n\"These releases are part of PHP's regular four-week release cycle and will address security vulnerabilities affecting all supported PHP versions,\" the maintainers said.",
+    "source": "Bleeping Computer",
+    "title": "Transport for London breach exposes 265,000 Oyster card users' data",
+    "link": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/",
+    "published": "Thu, 19 Nov 2026 13:20:01 -0500",
+    "summary": "Transport for London (TfL) has announced that around 265,000 Oyster photocard customers may have had their account details exposed in a data breach. [...]",
     "analysis": {
-      "issue": "PHP plans critical security fixes for all supported versions on November 19, with the highest-severity flaws requiring uncommon setups",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
-    "link": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
-    "published": "Thu, 19 Nov 2026 00:01:17 +0530",
-    "summary": "A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in.\n\nThe decade-old flaw, CVE-2026-123007, dubbed \"nginx2root,\" has been present in NGINX's open-source code since version 1.9.5, released on September 22, 2015. Fixed versions 1.31.9 and 1.30.7 came out today.\n\nF5, the company behind NGINX, says attackers can run code where",
-    "analysis": {
-      "issue": "2 flaws, including a decade-old HTTP/2 vulnerability demonstrated to allow unauthenticated code execution",
+      "issue": "Transport for London (TfL) has announced that around 265,000 Oyster photocard customers may have had their account details exposed in a data breach",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "Data Breach"
       ]
     }
   },
@@ -239,8 +261,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-123007",
-        "CVE-2026-123633"
+        "CVE-2026-123633",
+        "CVE-2026-123007"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -357,27 +379,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
-    "link": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
-    "published": "Wed, 18 Nov 2026 14:39:33 -0500",
-    "summary": "A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland. [...]",
-    "analysis": {
-      "issue": "A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability",
-        "Phishing",
-        "Supply Chain"
       ]
     }
   },
@@ -545,8 +546,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-96951",
-        "CVE-2026-108398"
+        "CVE-2026-108398",
+        "CVE-2026-96951"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -573,6 +574,30 @@
   },
   {
     "source": "Security Week",
+    "title": "Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT",
+    "link": "https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/",
+    "published": "Thu, 19 Nov 2026 19:21:06 +0000",
+    "summary": "<p>Google says a China-linked espionage group exploited a critical VMware vCenter authentication bypass before Broadcom released a patch.</p>\n<p>The post <a href=\"https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/\">Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Google says a China-linked espionage group exploited a critical VMware vCenter authentication bypass before Broadcom released a patch",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-102764",
+        "CVE-2026-59309",
+        "CVE-2026-123890"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "PHP Patches Seven Critical RCE Vulnerabilities",
     "link": "https://www.securityweek.com/php-patches-seven-critical-rce-vulnerabilities/",
     "published": "Thu, 19 Nov 2026 15:54:20 +0000",
@@ -584,14 +609,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-129289",
+        "CVE-2026-129496",
+        "CVE-2026-129474",
+        "CVE-2026-129481",
+        "CVE-2026-109619",
         "CVE-2026-126714",
         "CVE-2026-115560",
-        "CVE-2026-129481",
-        "CVE-2026-129182",
-        "CVE-2026-129289",
-        "CVE-2026-129474",
-        "CVE-2026-109619",
-        "CVE-2026-129496"
+        "CVE-2026-129182"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -669,9 +694,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-90436",
         "CVE-2026-82384",
-        "CVE-2026-129448",
-        "CVE-2026-90436"
+        "CVE-2026-129448"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -710,11 +735,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-76536",
-        "CVE-2026-131202",
         "CVE-2026-131253",
-        "CVE-2026-76535",
-        "CVE-2026-131287"
+        "CVE-2026-76536",
+        "CVE-2026-131287",
+        "CVE-2026-131202",
+        "CVE-2026-76535"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -735,11 +760,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-121810",
+        "CVE-2026-123633",
         "CVE-2026-123007",
         "CVE-2026-123634",
-        "CVE-2026-121810",
-        "CVE-2026-113425",
-        "CVE-2026-123633"
+        "CVE-2026-113425"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -769,21 +794,18 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "PHP Readies Critical Security Updates to Patch Another RCE Flaw",
-    "link": "https://www.securityweek.com/php-readies-critical-security-updates-to-patch-another-rce-flaw/",
-    "published": "Thu, 19 Nov 2026 07:45:17 +0000",
-    "summary": "<p>Affecting the session upload progress, CVE-2026-115560 was publicly disclosed two days after PHP2Shell patches landed.</p>\n<p>The post <a href=\"https://www.securityweek.com/php-readies-critical-security-updates-to-patch-another-rce-flaw/\">PHP Readies Critical Security Updates to Patch Another RCE Flaw</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "source": "Talos Blog",
+    "title": "The internet needs a nap (and you do, too)",
+    "link": "https://blog.talosintelligence.com/the-internet-needs-a-nap-and-you-do-too/",
+    "published": "Thu, 19 Nov 2026 19:00:00 GMT",
+    "summary": "Bill takes a break from the non-stop breaking news to promote prioritizing environmental awareness and team stability over reactive patching.",
     "analysis": {
-      "issue": "Affecting the session upload progress, CVE-2026-115560 was publicly disclosed two days after PHP2Shell patches landed",
+      "issue": "“Not everything that is faced can be changed; but nothing can be changed until it is faced",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-115560",
-        "CVE-2026-109619"
-      ],
+      "severity": "Low",
+      "cves": [],
       "threat_categories": [
         "Vulnerability"
       ]
@@ -899,10 +921,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-113862",
         "CVE-2026-124194",
-        "CVE-2026-118146",
-        "CVE-2026-118148"
+        "CVE-2026-113862",
+        "CVE-2026-118148",
+        "CVE-2026-118146"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -961,29 +983,6 @@
       "threat_categories": [
         "Ransomware",
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "IR trends Q3 2026: Actors impersonate IT help desks in vishing attacks as ransomware activity increases",
-    "link": "https://blog.talosintelligence.com/ir-trends-q3-2026/",
-    "published": "Thu, 29 Oct 2026 14:00:00 GMT",
-    "summary": "Phishing remained the leading initial access technique, while percentage of ransomware and pre-ransomware cases increased. Finance and public administration tied as the top-targeted industries.",
-    "analysis": {
-      "issue": "Phishing remained the leading initial access technique, appearing in slightly over one-third of all Cisco Talos Incident Response (Talos IR) engagements — a decrease from over 50 percent last quarter",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2023-20198"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Malware",
-        "Phishing"
       ]
     }
   },
@@ -1335,8 +1334,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1361,6 +1360,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Deepfake Elon Musk  nearly costs viewers $4.7 million in crypto",
+    "link": "https://www.malwarebytes.com/blog/ai/2026/11/deepfake-elon-musk-nearly-costs-viewers-4-7-million-in-crypto",
+    "published": "Thu, 19 Nov 2026 17:26:39 GMT",
+    "summary": "Coinbase says it blocked $4.7 million in attempted payments to an Elon Musk deepfake scam.",
+    "analysis": {
+      "issue": "Coinbase says it stopped about $4",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1533,13 +1550,33 @@
     }
   },
   {
-    "source": "Malwarebytes",
-    "title": "Facebook may have access to your entire photo gallery",
-    "link": "https://www.malwarebytes.com/blog/mobile/2026/11/facebook-may-have-access-to-your-entire-photo-gallery",
-    "published": "Tue, 17 Nov 2026 11:34:09 GMT",
-    "summary": "Italy has fined Meta €805 million over aggressive Facebook photo access. The privacy violation remains ongoing for some users.",
+    "source": "Crowdstrike Blog",
+    "title": "Java4Shell (CVE-2026-114938): CrowdStrike Detects Exposure and Post-Exploitation Activity",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-java4shell-cve-2026-114938/",
+    "published": "Nov 19, 2026 00:00:00-0600",
+    "summary": "",
     "analysis": {
-      "issue": "If you’ve given Facebook access to your phone’s photos, the app may be able to read your entire gallery, including pictures you never intended to share",
+      "issue": "The Falcon platform helps organizations understand their exposure and detect post-exploitation activity related to Java4Shell",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-114938"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
+    "title": "CrowdStrike Brings the Human Advantage to AI Detection and Response",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-human-advantage-aidr/",
+    "published": "Nov 18, 2026 00:00:00-0600",
+    "summary": "",
+    "analysis": {
+      "issue": "CrowdStrike Falcon Complete analysts and Falcon Adversary OverWatch threat hunters correlate AI activity with endpoint, identity, cloud, and SaaS telemetry to recognize suspicious patterns that may not be obvious from an isolated AI detection",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1558,24 +1595,6 @@
     "summary": "",
     "analysis": {
       "issue": "CrowdStrike has been named a Leader in the 2026 Gartner® Magic Quadrant™ for Security Information and Event Management (SIEM)",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Brings the Human Advantage to AI Detection and Response",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-human-advantage-aidr/",
-    "published": "Nov 18, 2026 00:00:00-0600",
-    "summary": "",
-    "analysis": {
-      "issue": "CrowdStrike Falcon Complete analysts and Falcon Adversary OverWatch threat hunters correlate AI activity with endpoint, identity, cloud, and SaaS telemetry to recognize suspicious patterns that may not be obvious from an isolated AI detection",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1710,24 +1729,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "New Falcon Cloud Security Innovations Secure the Cloud AI Runs On",
-    "link": "https://www.crowdstrike.com/en-us/blog/falcon-cloud-security-innovations-secure-cloud-ai-runs-on/",
-    "published": "Nov 04, 2026 00:00:00-0600",
-    "summary": "",
-    "analysis": {
-      "issue": "CrowdStrike unifies proactive security, software supply chain protection, and real-time cloud detection and response to stop attacks from build to runtime",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
       ]
     }
   },
