@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-20 17:07:36 UTC
+**Last Updated:** 2026-11-20 19:50:50 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts](https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html)
+### 1. [WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams](https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 20 Nov 2026 23:27:20 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control](https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 20 Nov 2026 22:28:16 +0530  
+**Severity:** Low  
+**Categories:** Malware, Phishing  
+
+---
+
+### 3. [Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts](https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Nov 2026 17:50:00 +0530  
@@ -14,7 +32,7 @@
 
 ---
 
-### 2. [The Path to AI Autonomy in the SOC](https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html)
+### 4. [The Path to AI Autonomy in the SOC](https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Nov 2026 17:30:00 +0530  
@@ -23,7 +41,7 @@
 
 ---
 
-### 3. [SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws](https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html)
+### 5. [SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws](https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Nov 2026 16:08:22 +0530  
@@ -32,7 +50,7 @@
 
 ---
 
-### 4. [Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network](https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html)
+### 6. [Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network](https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Nov 2026 16:02:50 +0530  
@@ -42,7 +60,7 @@
 
 ---
 
-### 5. [China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data](https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html)
+### 7. [China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data](https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Nov 2026 15:08:15 +0530  
@@ -51,7 +69,7 @@
 
 ---
 
-### 6. [ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs](https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html)
+### 8. [ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs](https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Nov 2026 12:41:39 +0530  
@@ -60,7 +78,7 @@
 
 ---
 
-### 7. [New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It](https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html)
+### 9. [New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It](https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Nov 2026 11:00:01 +0530  
@@ -69,7 +87,7 @@
 
 ---
 
-### 8. [ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories](https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html)
+### 10. [ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories](https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Nov 2026 00:17:58 +0530  
@@ -78,27 +96,25 @@
 
 ---
 
-### 9. [phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution](https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html)
+### 11. [Bell Canada says 'agentic' hacker stole enterprise customer data](https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 19 Nov 2026 22:29:56 +0530  
+**Source:** Bleeping Computer  
+**Published:** Fri, 20 Nov 2026 13:51:43 -0500  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 12. [Hackers use autonomous AI tool Cairn to find zero-day, take over server](https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 20 Nov 2026 12:30:00 -0500  
 **Severity:** Critical  
-**CVEs:** CVE-2026-126714  
 **Categories:** Vulnerability  
 
 ---
 
-### 10. [PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution](https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 19 Nov 2026 20:48:07 +0530  
-**Severity:** Critical  
-**CVEs:** CVE-2026-115560  
-**Categories:** Vulnerability  
-
----
-
-### 11. [Vendor data breach exposes Chase, Visa, Mastercard customer info](https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/)
+### 13. [Vendor data breach exposes Chase, Visa, Mastercard customer info](https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Nov 2026 10:58:06 -0500  
@@ -107,7 +123,7 @@
 
 ---
 
-### 12. [Still tracking company passwords in spreadsheets? You’re flying blind.](https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/)
+### 14. [Still tracking company passwords in spreadsheets? You’re flying blind.](https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Nov 2026 10:00:10 -0500  
@@ -116,7 +132,7 @@
 
 ---
 
-### 13. [N-able says recent security breach led to major service outage](https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/)
+### 15. [N-able says recent security breach led to major service outage](https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Nov 2026 08:18:36 -0500  
@@ -125,7 +141,7 @@
 
 ---
 
-### 14. [Microsoft now automatically installs Windows 11 26H2 on unmanaged devices](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/)
+### 16. [Microsoft now automatically installs Windows 11 26H2 on unmanaged devices](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Nov 2026 07:14:28 -0500  
@@ -134,17 +150,17 @@
 
 ---
 
-### 15. [F5 releases emergency patches for critical BIG-IP RCE flaws](https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/)
+### 17. [F5 releases emergency patches for critical BIG-IP RCE flaws](https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Nov 2026 05:57:43 -0500  
 **Severity:** Critical  
-**CVEs:** CVE-2026-121805, CVE-2026-120285, CVE-2026-120292, CVE-2026-116953, CVE-2026-123637, CVE-2026-126822  
+**CVEs:** CVE-2026-116953, CVE-2026-123637, CVE-2026-121805, CVE-2026-120285, CVE-2026-120292, CVE-2026-126822  
 **Categories:** Vulnerability  
 
 ---
 
-### 16. [Windows 11 KB5132057 update released with 28 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/)
+### 18. [Windows 11 KB5132057 update released with 28 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Nov 2026 04:25:35 -0500  
@@ -153,7 +169,7 @@
 
 ---
 
-### 17. [VMware patches vCenter zero-day exploited in attacks since September](https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/)
+### 19. [VMware patches vCenter zero-day exploited in attacks since September](https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 19 Nov 2026 19:26:25 -0500  
@@ -163,31 +179,12 @@
 
 ---
 
-### 18. [Hackers steal data of 1.6 million SBC Medical Group customers](https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/)
+### 20. [Hackers steal data of 1.6 million SBC Medical Group customers](https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 19 Nov 2026 17:25:42 -0500  
 **Severity:** Low  
 **Categories:** Supply Chain  
-
----
-
-### 19. [ASUS warns of critical hard-coded key flaw in Control Center Express](https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 19 Nov 2026 16:15:59 -0500  
-**Severity:** Critical  
-**CVEs:** CVE-2026-114205, CVE-2026-114202, CVE-2026-114204  
-**Categories:** Vulnerability  
-
----
-
-### 20. [Transport for London breach exposes 265,000 Oyster card users' data](https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 19 Nov 2026 13:20:01 -0500  
-**Severity:** Low  
-**Categories:** Data Breach  
 
 ---
 
@@ -269,7 +266,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 13 Oct 2026 23:24:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-108398, CVE-2026-96951  
+**CVEs:** CVE-2026-96951, CVE-2026-108398  
 **Categories:** Vulnerability  
 
 ---
@@ -288,7 +285,7 @@
 **Source:** Security Week  
 **Published:** Fri, 20 Nov 2026 16:01:02 +0000  
 **Severity:** Medium  
-**CVEs:** CVE-2026-44908, CVE-2026-23871, CVE-2026-102769  
+**CVEs:** CVE-2026-102769, CVE-2026-23871, CVE-2026-44908  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -362,7 +359,7 @@
 **Source:** Security Week  
 **Published:** Thu, 19 Nov 2026 19:21:06 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-102764, CVE-2026-123890, CVE-2026-59309  
+**CVEs:** CVE-2026-123890, CVE-2026-102764, CVE-2026-59309  
 **Categories:** Vulnerability, Malware, APT  
 
 ---
@@ -372,7 +369,7 @@
 **Source:** Security Week  
 **Published:** Thu, 19 Nov 2026 15:54:20 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109619, CVE-2026-129289, CVE-2026-129481, CVE-2026-126714, CVE-2026-129496, CVE-2026-129182, CVE-2026-115560, CVE-2026-129474  
+**CVEs:** CVE-2026-129289, CVE-2026-129474, CVE-2026-126714, CVE-2026-129496, CVE-2026-109619, CVE-2026-115560, CVE-2026-129182, CVE-2026-129481  
 **Categories:** Vulnerability  
 
 ---
@@ -437,7 +434,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 11 Nov 2026 01:41:17 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-118148, CVE-2026-113862, CVE-2026-118146, CVE-2026-124194  
+**CVEs:** CVE-2026-124194, CVE-2026-118146, CVE-2026-113862, CVE-2026-118148  
 **Categories:** Vulnerability  
 
 ---
@@ -639,7 +636,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -836,70 +833,70 @@
 
 ---
 
-### 91. [Elecbrakes EB2, VM1, ELBC2000](https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02)
+### 91. [CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog)
+
+**Source:** Cisa Alerts  
+**Published:** Fri, 20 Nov 26 12:00:00 +0000  
+
+---
+
+### 92. [Elecbrakes EB2, VM1, ELBC2000](https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02)
 
 **Source:** Cisa Alerts  
 **Published:** Thu, 19 Nov 26 12:00:00 +0000  
 
 ---
 
-### 92. [libumqtt](https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03)
+### 93. [libumqtt](https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03)
 
 **Source:** Cisa Alerts  
 **Published:** Thu, 19 Nov 26 12:00:00 +0000  
 
 ---
 
-### 93. [Autonomy Logic OpenPLC Runtime](https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01)
+### 94. [Autonomy Logic OpenPLC Runtime](https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01)
 
 **Source:** Cisa Alerts  
 **Published:** Thu, 19 Nov 26 12:00:00 +0000  
 
 ---
 
-### 94. [CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog)
+### 95. [CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog)
 
 **Source:** Cisa Alerts  
 **Published:** Wed, 18 Nov 26 12:00:00 +0000  
 
 ---
 
-### 95. [Siemens Simcenter Femap](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10)
+### 96. [Siemens Simcenter Femap](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10)
 
 **Source:** Cisa Alerts  
 **Published:** Tue, 17 Nov 26 12:00:00 +0000  
 
 ---
 
-### 96. [Dorsett Controls InfoScan](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-01)
+### 97. [Dorsett Controls InfoScan](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-01)
 
 **Source:** Cisa Alerts  
 **Published:** Tue, 17 Nov 26 12:00:00 +0000  
 
 ---
 
-### 97. [Siemens Mendix Studio Pro](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-05)
+### 98. [Siemens Mendix Studio Pro](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-05)
 
 **Source:** Cisa Alerts  
 **Published:** Tue, 17 Nov 26 12:00:00 +0000  
 
 ---
 
-### 98. [Siemens .NET Client Library for SIMATIC S7 Webserver API](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-02)
+### 99. [Siemens .NET Client Library for SIMATIC S7 Webserver API](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-02)
 
 **Source:** Cisa Alerts  
 **Published:** Tue, 17 Nov 26 12:00:00 +0000  
 
 ---
 
-### 99. [Critical Java Vulnerability Requires Immediate Patching](https://www.cisa.gov/news-events/alerts/2026/11/17/critical-java-vulnerability-requires-immediate-patching)
-
-**Source:** Cisa Alerts  
-**Published:** Tue, 17 Nov 26 12:00:00 +0000  
-
----
-
-### 100. [Siemens Industrial Software Products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-04)
+### 100. [Critical Java Vulnerability Requires Immediate Patching](https://www.cisa.gov/news-events/alerts/2026/11/17/critical-java-vulnerability-requires-immediate-patching)
 
 **Source:** Cisa Alerts  
 **Published:** Tue, 17 Nov 26 12:00:00 +0000  
