@@ -1,6 +1,100 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
+    "link": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
+    "published": "Fri, 20 Nov 2026 17:50:00 +0530",
+    "summary": "A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server's memory from inside a virtual machine of their own on DigitalOcean.\n\nOn a shared server, that memory can include other customers' virtual machines. The flaw, tracked as CVE-2026-99312, affects only hosts with AMD processors and nested virtualization enabled.\n\nFixed kernels shipped",
+    "analysis": {
+      "issue": "Linux KVM flaw CVE-2026-99312 let researchers read 127 GB of DigitalOcean host RAM from a guest VM on AMD systems with nested virtualization",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-99312"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "The Path to AI Autonomy in the SOC",
+    "link": "https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html",
+    "published": "Fri, 20 Nov 2026 17:30:00 +0530",
+    "summary": "Security leaders are about to hand AI agents a lot more authority. In a recent a16z survey of CISOs at organizations with more than 1,000 employees, 36% said they are comfortable today letting AI agents act autonomously on low-risk security actions. In 12 months from now, 60% expect to be comfortable at that level. Overall, AI SOC was the highest ranking initiative for 2027.\n\nThe pressure",
+    "analysis": {
+      "issue": "An a16z survey finds 60% of CISOs expect to trust AI agents with low-risk security actions within a year, raising oversight questions",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws",
+    "link": "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html",
+    "published": "Fri, 20 Nov 2026 16:08:22 +0530",
+    "summary": "SonicWall has urged all customers still running Generation 6 firewalls to retire and replace them immediately and stop exposing the devices on the internet edge, citing security risks fueled by AI-assisted attacks.\n\n\"Attackers now use automation and AI to find and exploit unsupported edge devices faster than ever,\" SonicWall said. \"We expect internet-facing Gen 6 firewalls to be actively",
+    "analysis": {
+      "issue": "SonicWall urges immediate replacement of unsupported Gen 6 firewalls, warning that internet-facing devices face growing attack risks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
+    "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html",
+    "published": "Fri, 20 Nov 2026 16:02:50 +0530",
+    "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw in Cisco Expressway to breach a Russian organization shortly after the public release of a proof-of-concept (PoC) exploit.\n\nThe activity involves the exploitation of CVE-2026-76466 (CVSS score: 9.8), a vulnerability that could allow an unauthenticated, remote attacker with network access to a Cisco Expressway",
+    "analysis": {
+      "issue": "Attackers exploited Cisco Expressway CVE-2026-76466 to gain root access, compromise 4 devices, and attempt lateral movement in a Russian organization",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-76466"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
+    "link": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
+    "published": "Fri, 20 Nov 2026 15:08:15 +0530",
+    "summary": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026.\n\nThe vulnerability, tracked as CVE-2026-123890 (CVSS score: 9.8), is a case of authentication bypass in the VMware Directory Service that could be exploited to gain unauthorized",
+    "analysis": {
+      "issue": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data | Read more hacking news on The Hacker News cybersecurity news website and learn how to protect against cyberattacks and software vulnerabilities",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
     "link": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
     "published": "Fri, 20 Nov 2026 12:41:39 +0530",
@@ -14,24 +108,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
-    "link": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
-    "published": "Fri, 20 Nov 2026 12:03:31 +0530",
-    "summary": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026.\n\nThe vulnerability, tracked as CVE-2026-123890 (CVSS score: 9.8), is a case of authentication bypass in the VMware Directory Service that could be exploited to gain unauthorized",
-    "analysis": {
-      "issue": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data | Read more hacking news on The Hacker News cybersecurity news website and learn how to protect against cyberattacks and software vulnerabilities",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -114,71 +190,111 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
-    "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
-    "published": "Thu, 19 Nov 2026 20:41:06 +0530",
-    "summary": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today.\n\nFixed versions are out for all supported branches, and the company lists no workaround. vCenter is the central console for managing an organization's ESX hosts and virtual machines.\n\nThe",
+    "source": "Bleeping Computer",
+    "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
+    "link": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
+    "published": "Fri, 20 Nov 2026 10:58:06 -0500",
+    "summary": "J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]",
     "analysis": {
-      "issue": "Broadcom patched CVE-2026-123890, a critical VMware vCenter authentication bypass flaw requiring network access, with no listed workaround",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-123890"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
-    "link": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
-    "published": "Thu, 19 Nov 2026 20:03:06 +0530",
-    "summary": "Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site.\n\nThat can lead to a site takeover or remote code execution, and the project rates the vulnerable configurations as uncommon. Fixed releases for all supported branches shipped yesterday.\n\nThe Drupal Security Team disclosed",
-    "analysis": {
-      "issue": "Drupal fixes critical CVE-2026-132165, an installer flaw that could enable site takeover or RCE under uncommon configurations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-132165"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Everything Is a Web Application, Including Your Firewall",
-    "link": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
-    "published": "Thu, 19 Nov 2026 17:22:23 +0530",
-    "summary": "One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, against PAN-OS management interfaces exposed to the internet. Both flaws let anyone execute code on the web server without authentication. The disclosure itself went a little wrong.",
-    "analysis": {
-      "issue": "Attackers exploited PHP2Shell flaws in PAN-OS management interfaces, chaining a Linux kernel bug to gain root on 25 systems",
+      "issue": "Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
+        "Data Breach",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Still tracking company passwords in spreadsheets? You’re flying blind.",
+    "link": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
+    "published": "Fri, 20 Nov 2026 10:00:10 -0500",
+    "summary": "Tracking company passwords in spreadsheets can leave IT administrators unaware of weak, reused, or compromised credentials stored and shared outside approved systems. NordPass explains how centralized password management can improve credential visibility, identify security risks, and simplify secure password sharing. [...]",
+    "analysis": {
+      "issue": "The password spreadsheet your admins use may look like a complete inventory, but it only reflects some of the credentials employees have reported using",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "N-able says recent security breach led to major service outage",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/",
+    "published": "Fri, 20 Nov 2026 08:18:36 -0500",
+    "summary": "N-able says attackers who breached one of its servers have caused a major outage affecting Mail Assure and SpamExperts Hosted Cloud services worldwide. [...]",
+    "analysis": {
+      "issue": "N-able says attackers who breached one of its servers have caused a major outage affecting Mail Assure and SpamExperts Hosted Cloud services worldwide",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft now automatically installs Windows 11 26H2 on unmanaged devices",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/",
+    "published": "Fri, 20 Nov 2026 07:14:28 -0500",
+    "summary": "Starting this week, Microsoft has begun automatically upgrading eligible devices that aren't managed by an IT department to Windows 11 26H2. [...]",
+    "analysis": {
+      "issue": "Starting this week, Microsoft has begun automatically upgrading eligible devices that aren't managed by an IT department to Windows 11 26H2",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "F5 releases emergency patches for critical BIG-IP RCE flaws",
+    "link": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/",
+    "published": "Fri, 20 Nov 2026 05:57:43 -0500",
+    "summary": "US cybersecurity company F5 warned customers to patch five critical BIG-IP vulnerabilities that attackers can exploit to trigger denial-of-service (DoS) or gain remote code execution. [...]",
+    "analysis": {
+      "issue": "US cybersecurity company F5 warned customers to patch five BIG-IP vulnerabilities that attackers can exploit to trigger denial-of-service (DoS) or gain remote code execution",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-121805",
+        "CVE-2026-120285",
+        "CVE-2026-120292",
+        "CVE-2026-116953",
+        "CVE-2026-123637",
+        "CVE-2026-126822"
+      ],
+      "threat_categories": [
         "Vulnerability"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
-    "link": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
-    "published": "Thu, 19 Nov 2026 15:01:26 +0530",
-    "summary": "N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces and APIs.\n\n\"We have taken steps to mitigate the threat and are continuing to harden our services to reduce the risk of recurrence,\" N-able said.\n\n\"The investigation is ongoing, but at this time we",
+    "source": "Bleeping Computer",
+    "title": "Windows 11 KB5132057 update released with 28 changes and fixes",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/",
+    "published": "Fri, 20 Nov 2026 04:25:35 -0500",
+    "summary": "Microsoft released the KB5132057 November Windows 11 preview update, which comes with 28 changes, including improvements to Windows Search, Windows Hello, and the Run dialog. [...]",
     "analysis": {
-      "issue": "N-able confirms unauthorized server access disrupted Mail Assure and SpamExperts management services, with no evidence of customer data compromise",
+      "issue": "Microsoft released the KB5132057 November optional cumulative update for Windows 11 versions 25H2 and 26H2, which comes with 28 changes, including improvements to Windows Search, Windows Hello, and the Run dialog",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -264,124 +380,6 @@
       "cves": [],
       "threat_categories": [
         "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
-    "link": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/",
-    "published": "Thu, 19 Nov 2026 11:28:23 -0500",
-    "summary": "The PHP development team released security updates addressing 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers to remotely execute code on vulnerable servers. [...]",
-    "analysis": {
-      "issue": "The PHP dev team released security updates for 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers to remotely execute code on vulnerable servers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-129289"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Five warning signs of ransomware breach before encryption or data theft",
-    "link": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
-    "published": "Thu, 19 Nov 2026 10:00:10 -0500",
-    "summary": "Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help defenders detect intrusions earlier, contain malicious activity, and protect critical systems and backups. [...]",
-    "analysis": {
-      "issue": "Ask many IT teams how they would recognize ransomware, and the answer is still “when files start changing extensions",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
-    "published": "Thu, 19 Nov 2026 09:57:24 -0500",
-    "summary": "Two critical NGINX vulnerabilities dubbed \"nginx2root\" allow unauthenticated attackers to execute code remotely on vulnerable web servers, with researchers demonstrating how the flaws can be chained with a Linux kernel bug to gain root access. [...]",
-    "analysis": {
-      "issue": "Two critical NGINX vulnerabilities dubbed \"nginx2root\" allow unauthenticated attackers to execute code remotely on vulnerable web servers, with researchers demonstrating how the flaws can be chained with a Linux kernel bug to gain root access",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-123633",
-        "CVE-2026-123007"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
-    "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
-    "published": "Thu, 19 Nov 2026 08:08:08 -0500",
-    "summary": "The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]",
-    "analysis": {
-      "issue": "The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-132165",
-        "CVE-2026-132166"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/",
-    "published": "Thu, 19 Nov 2026 06:46:00 -0500",
-    "summary": "Microsoft is developing a new Edge security feature to reduce the attack surface by disabling the WebGL, WebGL2, and WebGPU APIs. [...]",
-    "analysis": {
-      "issue": "​Microsoft is developing a new Edge security feature to reduce the attack surface by disabling the WebGL, WebGL2, and WebGPU APIs",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft confirms app installation, launch issues after hotpatch",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/",
-    "published": "Thu, 19 Nov 2026 05:35:05 -0500",
-    "summary": "Microsoft has shared a workaround for installation and launch issues affecting Office and third-party applications after installing this month's Windows 11 hotpatch. [...]",
-    "analysis": {
-      "issue": "Microsoft has shared a workaround for installation and launch issues affecting Office and third-party applications after installing this month's Windows 11 hotpatch",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
       ]
     }
   },
@@ -577,6 +575,171 @@
   },
   {
     "source": "Security Week",
+    "title": "WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign",
+    "link": "https://www.securityweek.com/whatsapp-fixes-flaw-uncovered-while-disrupting-scam-campaign/",
+    "published": "Fri, 20 Nov 2026 16:01:02 +0000",
+    "summary": "<p>Tracked as CVE-2026-23871, the vulnerability was found by WhatsApp’s security team, and it may have been used to make scam messages more credible.</p>\n<p>The post <a href=\"https://www.securityweek.com/whatsapp-fixes-flaw-uncovered-while-disrupting-scam-campaign/\">WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Tracked as CVE-2026-23871, the vulnerability was found by WhatsApp’s security team, and it may have been used to make scam messages more credible",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Medium",
+      "cves": [
+        "CVE-2026-44908",
+        "CVE-2026-23871",
+        "CVE-2026-102769"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New Nightmare Eclipse Exploit",
+    "link": "https://www.securityweek.com/in-other-news-norwegian-energy-firm-cyberattacks-supercomputer-hack-new-nightmare-eclipse-exploit/",
+    "published": "Fri, 20 Nov 2026 14:56:23 +0000",
+    "summary": "<p>Noteworthy stories that might have slipped under the radar:  EU adds NoName057(16) to cyber sanctions list, malware targets CACs left in personal computers, Gemini agents targeted Epoch AI.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-norwegian-energy-firm-cyberattacks-supercomputer-hack-new-nightmare-eclipse-exploit/\">In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New Nightmare Eclipse Exploit</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Noteworthy stories that might have slipped under the radar:  EU adds NoName057(16) to cyber sanctions list, malware targets CACs left in personal computers, Gemini agents targeted Epoch AI",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Vulnerability",
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Industry Reactions to Major Outages and AI Patching Debate: Feedback Friday",
+    "link": "https://www.securityweek.com/industry-reactions-to-major-outages-and-ai-patching-questions-feedback-friday/",
+    "published": "Fri, 20 Nov 2026 12:38:55 +0000",
+    "summary": "<p>Experts commented on whether AI-accelerated patching played a role, the need for tested rollback plans, and the fragility of interconnected systems.</p>\n<p>The post <a href=\"https://www.securityweek.com/industry-reactions-to-major-outages-and-ai-patching-questions-feedback-friday/\">Industry Reactions to Major Outages and AI Patching Debate: Feedback Friday</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Experts commented on whether AI-accelerated patching played a role, the need for tested rollback plans, and the fragility of interconnected systems",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "SBC Medical Group Data Breach Impacts Over 2 Million",
+    "link": "https://www.securityweek.com/sbc-medical-group-data-breach-impacts-over-2-million/",
+    "published": "Fri, 20 Nov 2026 11:36:51 +0000",
+    "summary": "<p>Threat actors accessed databases containing customer information associated with clinics in Japan.</p>\n<p>The post <a href=\"https://www.securityweek.com/sbc-medical-group-data-breach-impacts-over-2-million/\">SBC Medical Group Data Breach Impacts Over 2 Million</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Threat actors accessed databases containing customer information associated with clinics in Japan",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "European Commission Confirms AI-Assisted Cyberattack Disrupted Services",
+    "link": "https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/",
+    "published": "Fri, 20 Nov 2026 10:51:42 +0000",
+    "summary": "<p>The Commission took certain services offline to contain the incident, but it has no evidence of a data breach.</p>\n<p>The post <a href=\"https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/\">European Commission Confirms AI-Assisted Cyberattack Disrupted Services</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The Commission took certain services offline to contain the incident, but it has no evidence of a data breach",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE",
+    "link": "https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/",
+    "published": "Fri, 20 Nov 2026 10:34:10 +0000",
+    "summary": "<p>Tracked as CVE-2026-132825, the bug is a heap-based buffer overflow that could lead to remote code execution (RCE).</p>\n<p>The post <a href=\"https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/\">Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Tracked as CVE-2026-132825, the bug is a heap-based buffer overflow that could lead to remote code execution (RCE)",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-132825"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "N-able Blames Service Disruption on Cyberattack",
+    "link": "https://www.securityweek.com/n-able-blames-service-disruption-on-cyberattack/",
+    "published": "Fri, 20 Nov 2026 09:08:35 +0000",
+    "summary": "<p>The incident affected Mail Assure and SpamExperts Hosted Cloud and could have led to credential theft.</p>\n<p>The post <a href=\"https://www.securityweek.com/n-able-blames-service-disruption-on-cyberattack/\">N-able Blames Service Disruption on Cyberattack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The incident affected Mail Assure and SpamExperts Hosted Cloud and could have led to credential theft",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak",
+    "link": "https://www.securityweek.com/jpmorgan-visa-mastercard-cite-third-party-incidents-amid-data-leak/",
+    "published": "Fri, 20 Nov 2026 07:35:46 +0000",
+    "summary": "<p>The companies point to third-party providers after the N0n extortion group leaked data allegedly tied to their customers.</p>\n<p>The post <a href=\"https://www.securityweek.com/jpmorgan-visa-mastercard-cite-third-party-incidents-amid-data-leak/\">JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The companies point to third-party providers after the N0n extortion group leaked data allegedly tied to their customers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Vulnerability",
+        "APT",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT",
     "link": "https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/",
     "published": "Thu, 19 Nov 2026 19:21:06 +0000",
@@ -588,8 +751,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-123890",
         "CVE-2026-102764",
+        "CVE-2026-123890",
         "CVE-2026-59309"
       ],
       "threat_categories": [
@@ -612,187 +775,17 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-129289",
         "CVE-2026-109619",
+        "CVE-2026-129289",
         "CVE-2026-129481",
+        "CVE-2026-126714",
         "CVE-2026-129496",
         "CVE-2026-129182",
         "CVE-2026-115560",
-        "CVE-2026-126714",
         "CVE-2026-129474"
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Nvidia Responds to Gentlemen Ransomware Claim",
-    "link": "https://www.securityweek.com/nvidia-responds-to-gentlemen-ransomware-claim/",
-    "published": "Thu, 19 Nov 2026 14:17:32 +0000",
-    "summary": "<p>Nvidia says it has found no indication that its systems were compromised after the Gentlemen ransomware group listed the company as a victim.</p>\n<p>The post <a href=\"https://www.securityweek.com/nvidia-responds-to-gentlemen-ransomware-claim/\">Nvidia Responds to Gentlemen Ransomware Claim</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Nvidia says it has found no indication that its systems were compromised after the Gentlemen ransomware group listed the company as a victim",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release",
-    "link": "https://www.securityweek.com/hackers-exploit-cisco-expressway-vulnerability-soon-after-poc-release/",
-    "published": "Thu, 19 Nov 2026 13:12:20 +0000",
-    "summary": "<p>Attackers hacked clustered Cisco Expressway devices at a Russian organization and prepared tooling for lateral movement.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-exploit-cisco-expressway-vulnerability-soon-after-poc-release/\">Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Attackers hacked clustered Cisco Expressway devices at a Russian organization and prepared tooling for lateral movement",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-76466"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "StepSecurity Secures $20 Million to Expand Supply Chain Protection",
-    "link": "https://www.securityweek.com/stepsecurity-secures-20-million-to-expand-supply-chain-protection/",
-    "published": "Thu, 19 Nov 2026 12:23:34 +0000",
-    "summary": "<p>The company will use the funds to accelerate the development and distribution of its security platform.</p>\n<p>The post <a href=\"https://www.securityweek.com/stepsecurity-secures-20-million-to-expand-supply-chain-protection/\">StepSecurity Secures $20 Million to Expand Supply Chain Protection</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The company will use the funds to accelerate the development and distribution of its security platform",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks",
-    "link": "https://www.securityweek.com/critical-apache-roller-axis-vulnerabilities-exploited-in-attacks/",
-    "published": "Thu, 19 Nov 2026 12:13:24 +0000",
-    "summary": "<p>Attackers are targeting Confluence Data Center through an Axis flaw and Apache is warning of attacks against Roller.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-apache-roller-axis-vulnerabilities-exploited-in-attacks/\">Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Attackers are targeting Confluence Data Center through an Axis flaw and Apache is warning of attacks against Roller",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-129448",
-        "CVE-2026-82384",
-        "CVE-2026-90436"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "The Governance Gap in Open-Weight AI and What to Do About It",
-    "link": "https://www.securityweek.com/the-governance-gap-in-open-weight-ai-and-what-to-do-about-it/",
-    "published": "Thu, 19 Nov 2026 12:00:00 +0000",
-    "summary": "<p>Lower costs, data privacy, and greater control are driving open-weight AI adoption, but many organizations are not addressing the risks that come with it.</p>\n<p>The post <a href=\"https://www.securityweek.com/the-governance-gap-in-open-weight-ai-and-what-to-do-about-it/\">The Governance Gap in Open-Weight AI and What to Do About It</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Lower costs, data privacy, and greater control are driving open-weight AI adoption, but many organizations are not addressing the risks that come with it",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Splunk Patches Nearly 140 Flaws Across Three Core Products",
-    "link": "https://www.securityweek.com/splunk-patches-nearly-140-flaws-across-three-core-products/",
-    "published": "Thu, 19 Nov 2026 10:41:05 +0000",
-    "summary": "<p>The security updates resolve critical and high-severity issues leading to authentication bypass, remote code execution, and privilege escalation.</p>\n<p>The post <a href=\"https://www.securityweek.com/splunk-patches-nearly-140-flaws-across-three-core-products/\">Splunk Patches Nearly 140 Flaws Across Three Core Products</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The security updates resolve critical and high-severity issues leading to authentication bypass, remote code execution, and privilege escalation",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-131253",
-        "CVE-2026-76535",
-        "CVE-2026-131202",
-        "CVE-2026-76536",
-        "CVE-2026-131287"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "F5 Patches Critical NGINX2Root Flaws as PoC Exploits Go Public",
-    "link": "https://www.securityweek.com/f5-patches-critical-nginx2root-flaws-as-poc-exploits-go-public/",
-    "published": "Thu, 19 Nov 2026 10:26:51 +0000",
-    "summary": "<p>The five NGINX2Root vulnerabilities could allow remote, unauthenticated attackers to execute arbitrary code.</p>\n<p>The post <a href=\"https://www.securityweek.com/f5-patches-critical-nginx2root-flaws-as-poc-exploits-go-public/\">F5 Patches Critical NGINX2Root Flaws as PoC Exploits Go Public</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The five NGINX2Root vulnerabilities could allow remote, unauthenticated attackers to execute arbitrary code",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-123634",
-        "CVE-2026-123633",
-        "CVE-2026-113425",
-        "CVE-2026-121810",
-        "CVE-2026-123007"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Java4Shell Exploitation Attempts Begin as Vendors Rush Out Advisories",
-    "link": "https://www.securityweek.com/java4shell-exploitation-attempts-begin-as-vendors-rush-out-advisories/",
-    "published": "Thu, 19 Nov 2026 09:10:58 +0000",
-    "summary": "<p>GreyNoise, WatchTowr and Cloudflare report probing and exploit attempts, while Cisco, Elastic, Red Hat and Siemens detail impact.</p>\n<p>The post <a href=\"https://www.securityweek.com/java4shell-exploitation-attempts-begin-as-vendors-rush-out-advisories/\">Java4Shell Exploitation Attempts Begin as Vendors Rush Out Advisories</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "GreyNoise, WatchTowr and Cloudflare report probing and exploit attempts, while Cisco, Elastic, Red Hat and Siemens detail impact",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-114938"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
       ]
     }
   },
@@ -924,10 +917,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-118146",
-        "CVE-2026-124194",
+        "CVE-2026-118148",
         "CVE-2026-113862",
-        "CVE-2026-118148"
+        "CVE-2026-118146",
+        "CVE-2026-124194"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1337,8 +1330,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1363,6 +1356,44 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "US launches center to disrupt scams and warn victims sooner",
+    "link": "https://www.malwarebytes.com/blog/news/2026/11/us-launches-center-to-disrupt-scams-and-warn-victims-sooner",
+    "published": "Fri, 20 Nov 2026 13:49:11 GMT",
+    "summary": "The US Homeland Security Task Force launched the Threat Disruption Center to target the crime networks behind scams and sextortion.",
+    "analysis": {
+      "issue": "When someone realizes they have been scammed, the obvious question is: Can I get my money back",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Hackers leak data linked to Visa, Mastercard, and JPMorgan customers",
+    "link": "https://www.malwarebytes.com/blog/data-breaches/2026/11/hackers-leak-data-linked-to-visa-mastercard-and-jpmorgan-customers",
+    "published": "Fri, 20 Nov 2026 12:51:36 GMT",
+    "summary": "A ransomware group has published data it claims was stolen from third-party providers linked to Visa, Mastercard, and JPMorgan Chase.",
+    "analysis": {
+      "issue": "Customer information linked by researchers to Visa, Mastercard and JPMorgan Chase has appeared after cyberattacks on third-party service providers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Supply Chain"
       ]
     }
   },
@@ -1511,44 +1542,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "“Amazon” job offer promises $5,000 a month, but it’s got all the signs of a scam",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/11/amazon-job-offer-promises-5000-a-month-but-its-got-all-the-signs-of-a-scam",
-    "published": "Tue, 17 Nov 2026 13:37:48 GMT",
-    "summary": "Lookalike Amazon sites advertise high-paying remote jobs, but has all the signs of a reshipping scam.",
-    "analysis": {
-      "issue": "Last month, Amazon announced plans to hire more than 300,000 people in the US for the holidays",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "CNN, BBC, Zoom, and other sites served malicious code in supply-chain attack",
-    "link": "https://www.malwarebytes.com/blog/news/2026/11/cnn-bbc-zoom-and-other-sites-served-malicious-code-in-supply-chain-attack",
-    "published": "Tue, 17 Nov 2026 12:51:03 GMT",
-    "summary": "If you browsed the web on November 16, it's a good idea to check your payments and update your devices.",
-    "analysis": {
-      "issue": "Visiting a familiar website should not mean exposing your payment details to criminals",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "APT",
-        "Supply Chain"
       ]
     }
   },
