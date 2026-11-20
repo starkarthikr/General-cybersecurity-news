@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
+    "link": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
+    "published": "Fri, 20 Nov 2026 11:00:01 +0530",
+    "summary": "A newly disclosed unpatched zero-day technique called FastUnlock lets someone with physical access to a locked Windows computer start programs without signing in. Whoever uses it gets only a limited account, not administrator control of the machine.\n\nThe method was posted yesterday by a researcher who uses the handles MSNightmare and Nightmare Eclipse, and the endpoint-security firm ThreatLocker",
+    "analysis": {
+      "issue": "FastUnlock lets someone with physical access bypass the Windows lock screen and run programs with limited privileges",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
     "link": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
     "published": "Fri, 20 Nov 2026 00:17:58 +0530",
@@ -61,7 +79,7 @@
   },
   {
     "source": "The Hacker News",
-    "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
+    "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
     "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
     "published": "Thu, 19 Nov 2026 20:41:06 +0530",
     "summary": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today.\n\nFixed versions are out for all supported branches, and the company lists no workaround. vCenter is the central console for managing an organization's ESX hosts and virtual machines.\n\nThe",
@@ -172,20 +190,61 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
-    "link": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
-    "published": "Thu, 19 Nov 2026 13:30:00 +0530",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache Axis, and Vanderbilt University Research Electronic Data Capture (REDCap) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nThe vulnerabilities are listed below -",
+    "source": "Bleeping Computer",
+    "title": "VMware patches vCenter zero-day exploited in attacks since September",
+    "link": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+    "published": "Thu, 19 Nov 2026 19:26:25 -0500",
+    "summary": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
     "analysis": {
-      "issue": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks | Read more hacking news on The Hacker News cybersecurity news website and learn how to protect against cyberattacks and software vulnerabilities",
+      "issue": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-123890"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
+    "published": "Thu, 19 Nov 2026 17:25:42 -0500",
+    "summary": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...]",
+    "analysis": {
+      "issue": "SBC Medical Group has warned in a filing with the U",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Ransomware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "ASUS warns of critical hard-coded key flaw in Control Center Express",
+    "link": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",
+    "published": "Thu, 19 Nov 2026 16:15:59 -0500",
+    "summary": "ASUS released Control Center Express v1.7.29 to fix three critical vulnerabilities that could let remote attackers gain administrative control of the management console and the devices it manages. [...]",
+    "analysis": {
+      "issue": "ASUS released Control Center Express v1",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-114202",
+        "CVE-2026-114205",
+        "CVE-2026-114204"
+      ],
+      "threat_categories": [
         "Vulnerability"
       ]
     }
@@ -323,62 +382,6 @@
       "cves": [],
       "threat_categories": [
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "NVIDIA investigating Gentlemen ransomware breach claims",
-    "link": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
-    "published": "Thu, 19 Nov 2026 04:23:21 -0500",
-    "summary": "NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site. [...]",
-    "analysis": {
-      "issue": "NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
-    "link": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
-    "published": "Wed, 18 Nov 2026 18:08:33 -0500",
-    "summary": "Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28 companies worldwide. [...]",
-    "analysis": {
-      "issue": "Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
-    "link": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
-    "published": "Wed, 18 Nov 2026 15:49:32 -0500",
-    "summary": "Coinbase says it blocked $4.7 million in cryptocurrency transfers to scammers promoting a fake giveaway using an AI-generated deepfake of Elon Musk during a Tesla livestream that attracted more than 500,000 viewers. [...]",
-    "analysis": {
-      "issue": "7 million in cryptocurrency transfers to scammers promoting a fake giveaway using an AI-generated deepfake of Elon Musk during a Tesla livestream that attracted more than 500,000 viewers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -585,9 +588,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-102764",
         "CVE-2026-59309",
-        "CVE-2026-123890"
+        "CVE-2026-123890",
+        "CVE-2026-102764"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -609,13 +612,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-129289",
         "CVE-2026-129496",
-        "CVE-2026-129474",
-        "CVE-2026-129481",
-        "CVE-2026-109619",
-        "CVE-2026-126714",
         "CVE-2026-115560",
+        "CVE-2026-129289",
+        "CVE-2026-129474",
+        "CVE-2026-126714",
+        "CVE-2026-109619",
+        "CVE-2026-129481",
         "CVE-2026-129182"
       ],
       "threat_categories": [
@@ -735,11 +738,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-131253",
-        "CVE-2026-76536",
-        "CVE-2026-131287",
         "CVE-2026-131202",
-        "CVE-2026-76535"
+        "CVE-2026-131287",
+        "CVE-2026-76536",
+        "CVE-2026-76535",
+        "CVE-2026-131253"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -761,10 +764,10 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-121810",
+        "CVE-2026-113425",
         "CVE-2026-123633",
         "CVE-2026-123007",
-        "CVE-2026-123634",
-        "CVE-2026-113425"
+        "CVE-2026-123634"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -921,10 +924,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-124194",
+        "CVE-2026-118146",
         "CVE-2026-113862",
-        "CVE-2026-118148",
-        "CVE-2026-118146"
+        "CVE-2026-124194",
+        "CVE-2026-118148"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1334,8 +1337,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1571,6 +1574,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "NGINX2Root: Identify and Protect with the CrowdStrike Falcon Platform",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-nginx2root-cve-2026-123007/",
+    "published": "Nov 19, 2026 00:00:00-0600",
+    "summary": "",
+    "analysis": {
+      "issue": "The Falcon platform helps organizations identify exposed assets and detect post-exploitation activity related to NGINX2Root",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "CrowdStrike Brings the Human Advantage to AI Detection and Response",
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-human-advantage-aidr/",
     "published": "Nov 18, 2026 00:00:00-0600",
@@ -1704,24 +1725,6 @@
     "summary": "",
     "analysis": {
       "issue": "CrowdStrike extends the agentic SOC to detect agent insider threats, investigate across every domain, and govern response on the Falcon platform",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Introduces Agentic Adversary Emulation to Counter AI-Enabled Adversaries",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-agentic-adversary-emulation-counters-ai-enabled-adversaries/",
-    "published": "Nov 04, 2026 00:00:00-0600",
-    "summary": "",
-    "analysis": {
-      "issue": "New AI-powered red teaming capability, powered by SafeMind, combines purpose-built AI systems, adversary intelligence, and Falcon platform visibility to emulate real-world attacks and validate defenses",
       "solution": null,
       "cause": null,
       "timeline": null,
