@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
+    "link": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
+    "published": "Fri, 20 Nov 2026 12:41:39 +0530",
+    "summary": "Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS.\n\n\"ROMULUS likely operates as a delivery service, distributing CNCMachineRMS and Legion Loader through separate chains while retaining ClickFix and signed binary sideloading techniques,\" Blackpoint",
+    "analysis": {
+      "issue": "ROMULUS ClickFix attacks deliver CNCMachineRMS RAT through DLL sideloading, enabling remote control, surveillance, and file access",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
+    "link": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
+    "published": "Fri, 20 Nov 2026 12:03:31 +0530",
+    "summary": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026.\n\nThe vulnerability, tracked as CVE-2026-123890 (CVSS score: 9.8), is a case of authentication bypass in the VMware Directory Service that could be exploited to gain unauthorized",
+    "analysis": {
+      "issue": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data | Read more hacking news on The Hacker News cybersecurity news website and learn how to protect against cyberattacks and software vulnerabilities",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
     "link": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
     "published": "Fri, 20 Nov 2026 11:00:01 +0530",
@@ -154,42 +190,6 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
-    "link": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
-    "published": "Thu, 19 Nov 2026 14:12:11 +0530",
-    "summary": "Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown that crafted input can run code on the machine.\n\n\"We are aware of PoCs that prove some of them can be used to trigger remote code execution,\" the maintainers said.\n\nThe project released fixed versions",
-    "analysis": {
-      "issue": "Ruby patched seven memory-safety flaws, including five with remote code execution PoCs, in regex handling and string case conversion",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
-    "link": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
-    "published": "Thu, 19 Nov 2026 13:44:00 +0530",
-    "summary": "Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has shown, by reaching memory-corruption bugs in the engine code behind ordinary SQL.\n\nThe exploits, published yesterday, are the researcher's proofs of concept against PostgreSQL, MySQL and ClickHouse, plus a separate Oracle chain that needs no",
-    "analysis": {
-      "issue": "Researcher demonstrates database RCE exploits in PostgreSQL, MySQL and ClickHouse, plus an unauthenticated Oracle chain; no attacks observed",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
     "title": "VMware patches vCenter zero-day exploited in attacks since September",
     "link": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
@@ -240,8 +240,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-114202",
         "CVE-2026-114205",
+        "CVE-2026-114202",
         "CVE-2026-114204"
       ],
       "threat_categories": [
@@ -341,8 +341,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-132166",
-        "CVE-2026-132165"
+        "CVE-2026-132165",
+        "CVE-2026-132166"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -588,9 +588,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-59309",
         "CVE-2026-123890",
-        "CVE-2026-102764"
+        "CVE-2026-102764",
+        "CVE-2026-59309"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -612,14 +612,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-129496",
-        "CVE-2026-115560",
         "CVE-2026-129289",
-        "CVE-2026-129474",
-        "CVE-2026-126714",
         "CVE-2026-109619",
         "CVE-2026-129481",
-        "CVE-2026-129182"
+        "CVE-2026-129496",
+        "CVE-2026-129182",
+        "CVE-2026-115560",
+        "CVE-2026-126714",
+        "CVE-2026-129474"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -697,9 +697,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-90436",
+        "CVE-2026-129448",
         "CVE-2026-82384",
-        "CVE-2026-129448"
+        "CVE-2026-90436"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -738,11 +738,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-131202",
-        "CVE-2026-131287",
-        "CVE-2026-76536",
+        "CVE-2026-131253",
         "CVE-2026-76535",
-        "CVE-2026-131253"
+        "CVE-2026-131202",
+        "CVE-2026-76536",
+        "CVE-2026-131287"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -763,11 +763,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-121810",
-        "CVE-2026-113425",
+        "CVE-2026-123634",
         "CVE-2026-123633",
-        "CVE-2026-123007",
-        "CVE-2026-123634"
+        "CVE-2026-113425",
+        "CVE-2026-121810",
+        "CVE-2026-123007"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -925,8 +925,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-118146",
-        "CVE-2026-113862",
         "CVE-2026-124194",
+        "CVE-2026-113862",
         "CVE-2026-118148"
       ],
       "threat_categories": [

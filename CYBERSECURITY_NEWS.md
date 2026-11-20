@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-20 06:40:45 UTC
+**Last Updated:** 2026-11-20 07:38:48 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It](https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html)
+### 1. [ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs](https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 20 Nov 2026 12:41:39 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data](https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 20 Nov 2026 12:03:31 +0530  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It](https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Nov 2026 11:00:01 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories](https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html)
+### 4. [ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories](https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Nov 2026 00:17:58 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution](https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html)
+### 5. [phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution](https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 19 Nov 2026 22:29:56 +0530  
@@ -32,7 +50,7 @@
 
 ---
 
-### 4. [PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution](https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html)
+### 6. [PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution](https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 19 Nov 2026 20:48:07 +0530  
@@ -42,7 +60,7 @@
 
 ---
 
-### 5. [Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication](https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html)
+### 7. [Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication](https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 19 Nov 2026 20:41:06 +0530  
@@ -52,7 +70,7 @@
 
 ---
 
-### 6. [Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites](https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html)
+### 8. [Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites](https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 19 Nov 2026 20:03:06 +0530  
@@ -62,7 +80,7 @@
 
 ---
 
-### 7. [Everything Is a Web Application, Including Your Firewall](https://thehackernews.com/2026/11/everything-is-web-application-including.html)
+### 9. [Everything Is a Web Application, Including Your Firewall](https://thehackernews.com/2026/11/everything-is-web-application-including.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 19 Nov 2026 17:22:23 +0530  
@@ -71,30 +89,12 @@
 
 ---
 
-### 8. [Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions](https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html)
+### 10. [Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions](https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 19 Nov 2026 15:01:26 +0530  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 9. [Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE](https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 19 Nov 2026 14:12:11 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle](https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 19 Nov 2026 13:44:00 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
 
 ---
 
@@ -122,7 +122,7 @@
 **Source:** Bleeping Computer  
 **Published:** Thu, 19 Nov 2026 16:15:59 -0500  
 **Severity:** Critical  
-**CVEs:** CVE-2026-114202, CVE-2026-114205, CVE-2026-114204  
+**CVEs:** CVE-2026-114205, CVE-2026-114202, CVE-2026-114204  
 **Categories:** Vulnerability  
 
 ---
@@ -170,7 +170,7 @@
 **Source:** Bleeping Computer  
 **Published:** Thu, 19 Nov 2026 08:08:08 -0500  
 **Severity:** Critical  
-**CVEs:** CVE-2026-132166, CVE-2026-132165  
+**CVEs:** CVE-2026-132165, CVE-2026-132166  
 **Categories:** Vulnerability  
 
 ---
@@ -290,7 +290,7 @@
 **Source:** Security Week  
 **Published:** Thu, 19 Nov 2026 19:21:06 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-59309, CVE-2026-123890, CVE-2026-102764  
+**CVEs:** CVE-2026-123890, CVE-2026-102764, CVE-2026-59309  
 **Categories:** Vulnerability, Malware, APT  
 
 ---
@@ -300,7 +300,7 @@
 **Source:** Security Week  
 **Published:** Thu, 19 Nov 2026 15:54:20 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-129496, CVE-2026-115560, CVE-2026-129289, CVE-2026-129474, CVE-2026-126714, CVE-2026-109619, CVE-2026-129481, CVE-2026-129182  
+**CVEs:** CVE-2026-129289, CVE-2026-109619, CVE-2026-129481, CVE-2026-129496, CVE-2026-129182, CVE-2026-115560, CVE-2026-126714, CVE-2026-129474  
 **Categories:** Vulnerability  
 
 ---
@@ -338,7 +338,7 @@
 **Source:** Security Week  
 **Published:** Thu, 19 Nov 2026 12:13:24 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-90436, CVE-2026-82384, CVE-2026-129448  
+**CVEs:** CVE-2026-129448, CVE-2026-82384, CVE-2026-90436  
 **Categories:** Vulnerability  
 
 ---
@@ -357,7 +357,7 @@
 **Source:** Security Week  
 **Published:** Thu, 19 Nov 2026 10:41:05 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-131202, CVE-2026-131287, CVE-2026-76536, CVE-2026-76535, CVE-2026-131253  
+**CVEs:** CVE-2026-131253, CVE-2026-76535, CVE-2026-131202, CVE-2026-76536, CVE-2026-131287  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -367,7 +367,7 @@
 **Source:** Security Week  
 **Published:** Thu, 19 Nov 2026 10:26:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-121810, CVE-2026-113425, CVE-2026-123633, CVE-2026-123007, CVE-2026-123634  
+**CVEs:** CVE-2026-123634, CVE-2026-123633, CVE-2026-113425, CVE-2026-121810, CVE-2026-123007  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -442,7 +442,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 11 Nov 2026 01:41:17 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-118146, CVE-2026-113862, CVE-2026-124194, CVE-2026-118148  
+**CVEs:** CVE-2026-118146, CVE-2026-124194, CVE-2026-113862, CVE-2026-118148  
 **Categories:** Vulnerability  
 
 ---
