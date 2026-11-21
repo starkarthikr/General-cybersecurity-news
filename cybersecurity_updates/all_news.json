@@ -1,10 +1,102 @@
 [
   {
     "source": "The Hacker News",
+    "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
+    "link": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
+    "published": "Sat, 21 Nov 2026 17:23:07 +0530",
+    "summary": "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown.\n\nThe same attack could be extended to reach the credentials Muse stores for the user's connected accounts.\n\nThe work was a laboratory demonstration, not an attack on real users, and it stayed inside the individual user's",
+    "analysis": {
+      "issue": "Researchers demonstrated Meta Muse flaws enabling conversation theft and cloud machine takeover; NebuSec says the issues are fixed",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
+    "link": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
+    "published": "Sat, 21 Nov 2026 16:35:53 +0530",
+    "summary": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG.\n\nThe GnuPG project warned yesterday that the flaw could be used to steal data from affected applications and has released fixed versions.\n\nThe bug, tracked as CVE-2026-129975, affects all software that uses GPGME before version 2.3.0,",
+    "analysis": {
+      "issue": "GnuPG fixes critical GPGME flaw CVE-2026-129975, which malicious OpenPGP keys could trigger to potentially expose application data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-129975"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
+    "link": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
+    "published": "Sat, 21 Nov 2026 16:33:17 +0530",
+    "summary": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence said this week.\n\nThe flaw allows an attacker with no account to write files outside the server's storage folder, and it affects MONAI Label 0.8.5 and earlier in the default setup,",
+    "analysis": {
+      "issue": "Suspected China-linked hackers used AI agents to exploit a MONAI Label flaw and gain root access to a university server; no patched release exists",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
+    "link": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
+    "published": "Sat, 21 Nov 2026 14:19:20 +0530",
+    "summary": "Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection is \"incomplete.\"\n\nThe feature applies to agentic systems built into iOS 27 and on Android versions where the encrypted messaging platform can detect an AI assistant attempting to read the Signal",
+    "analysis": {
+      "issue": "Signal is blocking screenshots by default on Android and iOS to limit AI access to private chats, but warns the protection is incomplete",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
+    "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
+    "published": "Sat, 21 Nov 2026 14:19:13 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation.\n\nThe vulnerabilities are listed below -\n\n\n  CVE-2026-129448 (CVSS score: 9.8) - A deserialization of untrusted data vulnerability in",
+    "analysis": {
+      "issue": "CISA adds four exploited flaws in Apache Roller, Cisco Expressway, SAP NetWeaver, and VMware vCenter to KEV, requiring federal patches by Nov",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
     "link": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
     "published": "Fri, 20 Nov 2026 23:27:20 +0530",
-    "summary": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages.\n\nThe vulnerability, tracked as CVE-2026-23871, has been described as a case of incomplete validation of external ad-reply URLs in WhatsApp for Android and WhatsApp Business for Android before 2.26.17.4.\n\nThe issue could",
+    "summary": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages.\n\nThe vulnerability, tracked as CVE-2026-23871 (CVSS score: 3.5), has been described as a case of incomplete validation of external ad-reply URLs in WhatsApp for Android and WhatsApp Business for Android before 2.26.17.4.",
     "analysis": {
       "issue": "WhatsApp fixed three security flaws, including an Android IP exposure bug suspected of abuse in scam messages",
       "solution": null,
@@ -93,96 +185,38 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
-    "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html",
-    "published": "Fri, 20 Nov 2026 16:02:50 +0530",
-    "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw in Cisco Expressway to breach a Russian organization shortly after the public release of a proof-of-concept (PoC) exploit.\n\nThe activity involves the exploitation of CVE-2026-76466 (CVSS score: 9.8), a vulnerability that could allow an unauthenticated, remote attacker with network access to a Cisco Expressway",
+    "source": "Bleeping Computer",
+    "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
+    "link": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
+    "published": "Sat, 21 Nov 2026 10:17:27 -0500",
+    "summary": "The BADBOX malware found in a broad range of generic Android TV boxes has returned to large-scale ad-fraud operations following last year's disruptions. [...]",
     "analysis": {
-      "issue": "Attackers exploited Cisco Expressway CVE-2026-76466 to gain root access, compromise 4 devices, and attempt lateral movement in a Russian organization",
+      "issue": "The BADBOX malware botnet has returned following last year's disruptions, generating a record 40 billion fraudulent advertising bid requests per day through infected Android-based devices",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [
-        "CVE-2026-76466"
-      ],
+      "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "Malware"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
-    "link": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
-    "published": "Fri, 20 Nov 2026 15:08:15 +0530",
-    "summary": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026.\n\nThe vulnerability, tracked as CVE-2026-123890 (CVSS score: 9.8), is a case of authentication bypass in the VMware Directory Service that could be exploited to gain unauthorized",
+    "source": "Bleeping Computer",
+    "title": "FBI reportedly hacked again, this time targeting nationwide police database",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
+    "published": "Sat, 21 Nov 2026 09:26:04 -0500",
+    "summary": "FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC), which is used to share information between local, state, and federal law enforcement agencies. [...]",
     "analysis": {
-      "issue": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data | Read more hacking news on The Hacker News cybersecurity news website and learn how to protect against cyberattacks and software vulnerabilities",
+      "issue": "FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC), which is used to share information between local, state, and federal law enforcement agencies",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Critical",
+      "severity": "Low",
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
-    "link": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
-    "published": "Fri, 20 Nov 2026 12:41:39 +0530",
-    "summary": "Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS.\n\n\"ROMULUS likely operates as a delivery service, distributing CNCMachineRMS and Legion Loader through separate chains while retaining ClickFix and signed binary sideloading techniques,\" Blackpoint",
-    "analysis": {
-      "issue": "ROMULUS ClickFix attacks deliver CNCMachineRMS RAT through DLL sideloading, enabling remote control, surveillance, and file access",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
-    "link": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
-    "published": "Fri, 20 Nov 2026 11:00:01 +0530",
-    "summary": "A newly disclosed unpatched zero-day technique called FastUnlock lets someone with physical access to a locked Windows computer start programs without signing in. Whoever uses it gets only a limited account, not administrator control of the machine.\n\nThe method was posted yesterday by a researcher who uses the handles MSNightmare and Nightmare Eclipse, and the endpoint-security firm ThreatLocker",
-    "analysis": {
-      "issue": "FastUnlock lets someone with physical access bypass the Windows lock screen and run programs with limited privileges",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
-    "link": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
-    "published": "Fri, 20 Nov 2026 00:17:58 +0530",
-    "summary": "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem. This week's stories show how ordinary things are being used to steal data, spread malware, and get people to hand over access.\n\nThere's another shift worth watching. AI is making some attacks easier",
-    "analysis": {
-      "issue": "This week's ThreatsDay covers GPT-6",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Malware",
-        "Phishing"
       ]
     }
   },
@@ -309,11 +343,11 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-121805",
-        "CVE-2026-120285",
-        "CVE-2026-120292",
+        "CVE-2026-123637",
         "CVE-2026-116953",
-        "CVE-2026-126822",
-        "CVE-2026-123637"
+        "CVE-2026-120292",
+        "CVE-2026-120285",
+        "CVE-2026-126822"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -335,44 +369,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "VMware patches vCenter zero-day exploited in attacks since September",
-    "link": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
-    "published": "Thu, 19 Nov 2026 19:26:25 -0500",
-    "summary": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
-    "analysis": {
-      "issue": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-123890"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
-    "published": "Thu, 19 Nov 2026 17:25:42 -0500",
-    "summary": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...]",
-    "analysis": {
-      "issue": "SBC Medical Group has warned in a filing with the U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
       ]
     }
   },
@@ -568,6 +564,24 @@
   },
   {
     "source": "Security Week",
+    "title": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day",
+    "link": "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/",
+    "published": "Sat, 21 Nov 2026 12:08:50 +0000",
+    "summary": "<p>A threat actor used autonomous Cairn AI agents to discover and exploit a critical MONAI Label vulnerability.</p>\n<p>The post <a href=\"https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/\">Amazon: China-Linked Hackers&#8217; AI Agents Exploited Medical Software Zero-Day</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "A threat actor used autonomous Cairn AI agents to discover and exploit a critical MONAI Label vulnerability",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign",
     "link": "https://www.securityweek.com/whatsapp-fixes-flaw-uncovered-while-disrupting-scam-campaign/",
     "published": "Fri, 20 Nov 2026 16:01:02 +0000",
@@ -579,9 +593,9 @@
       "timeline": null,
       "severity": "Medium",
       "cves": [
+        "CVE-2026-102769",
         "CVE-2026-44908",
-        "CVE-2026-23871",
-        "CVE-2026-102769"
+        "CVE-2026-23871"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -745,40 +759,13 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-59309",
-        "CVE-2026-102764",
-        "CVE-2026-123890"
+        "CVE-2026-123890",
+        "CVE-2026-102764"
       ],
       "threat_categories": [
         "Vulnerability",
         "Malware",
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "PHP Patches Seven Critical RCE Vulnerabilities",
-    "link": "https://www.securityweek.com/php-patches-seven-critical-rce-vulnerabilities/",
-    "published": "Thu, 19 Nov 2026 15:54:20 +0000",
-    "summary": "<p>Successful exploitation could allow attackers to crash the worker process and execute code with the PHP worker’s privileges.</p>\n<p>The post <a href=\"https://www.securityweek.com/php-patches-seven-critical-rce-vulnerabilities/\">PHP Patches Seven Critical RCE Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Successful exploitation could allow attackers to crash the worker process and execute code with the PHP worker’s privileges",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-129496",
-        "CVE-2026-109619",
-        "CVE-2026-126714",
-        "CVE-2026-129474",
-        "CVE-2026-115560",
-        "CVE-2026-129182",
-        "CVE-2026-129289",
-        "CVE-2026-129481"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -911,9 +898,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-124194",
-        "CVE-2026-118148",
         "CVE-2026-118146",
-        "CVE-2026-113862"
+        "CVE-2026-113862",
+        "CVE-2026-118148"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1323,8 +1310,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
