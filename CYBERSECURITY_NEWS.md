@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-21 06:33:18 UTC
+**Last Updated:** 2026-11-21 07:34:30 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -155,7 +155,7 @@
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Nov 2026 05:57:43 -0500  
 **Severity:** Critical  
-**CVEs:** CVE-2026-120285, CVE-2026-126822, CVE-2026-116953, CVE-2026-121805, CVE-2026-120292, CVE-2026-123637  
+**CVEs:** CVE-2026-121805, CVE-2026-120285, CVE-2026-120292, CVE-2026-116953, CVE-2026-126822, CVE-2026-123637  
 **Categories:** Vulnerability  
 
 ---
@@ -285,7 +285,7 @@
 **Source:** Security Week  
 **Published:** Fri, 20 Nov 2026 16:01:02 +0000  
 **Severity:** Medium  
-**CVEs:** CVE-2026-23871, CVE-2026-102769, CVE-2026-44908  
+**CVEs:** CVE-2026-44908, CVE-2026-23871, CVE-2026-102769  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -359,7 +359,7 @@
 **Source:** Security Week  
 **Published:** Thu, 19 Nov 2026 19:21:06 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-123890, CVE-2026-102764, CVE-2026-59309  
+**CVEs:** CVE-2026-59309, CVE-2026-102764, CVE-2026-123890  
 **Categories:** Vulnerability, Malware, APT  
 
 ---
@@ -369,7 +369,7 @@
 **Source:** Security Week  
 **Published:** Thu, 19 Nov 2026 15:54:20 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109619, CVE-2026-129474, CVE-2026-129496, CVE-2026-115560, CVE-2026-129289, CVE-2026-129481, CVE-2026-129182, CVE-2026-126714  
+**CVEs:** CVE-2026-129496, CVE-2026-109619, CVE-2026-126714, CVE-2026-129474, CVE-2026-115560, CVE-2026-129182, CVE-2026-129289, CVE-2026-129481  
 **Categories:** Vulnerability  
 
 ---
@@ -434,7 +434,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 11 Nov 2026 01:41:17 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-118148, CVE-2026-113862, CVE-2026-124194, CVE-2026-118146  
+**CVEs:** CVE-2026-124194, CVE-2026-118148, CVE-2026-118146, CVE-2026-113862  
 **Categories:** Vulnerability  
 
 ---
