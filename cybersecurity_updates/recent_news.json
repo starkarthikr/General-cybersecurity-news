@@ -308,12 +308,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-116953",
-        "CVE-2026-123637",
-        "CVE-2026-121805",
         "CVE-2026-120285",
+        "CVE-2026-126822",
+        "CVE-2026-116953",
+        "CVE-2026-121805",
         "CVE-2026-120292",
-        "CVE-2026-126822"
+        "CVE-2026-123637"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -373,6 +373,24 @@
       "cves": [],
       "threat_categories": [
         "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
+    "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+    "published": "Sat, 21 Nov 2026 00:36:39 +0000",
+    "summary": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been charged with wire fraud after an FBI sting operation found the company was simply paying the attackers for a decryption key and charging victims a markup for work that was never performed.",
+    "analysis": {
+      "issue": "The chief technology officer and co-founder of ransomwarehelp",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
       ]
     }
   },
@@ -549,24 +567,6 @@
     }
   },
   {
-    "source": "Krebs On Security",
-    "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
-    "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
-    "published": "Sat, 10 Oct 2026 00:17:42 +0000",
-    "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity.",
-    "analysis": {
-      "issue": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested an executive at a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thous",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
     "source": "Security Week",
     "title": "WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign",
     "link": "https://www.securityweek.com/whatsapp-fixes-flaw-uncovered-while-disrupting-scam-campaign/",
@@ -579,8 +579,8 @@
       "timeline": null,
       "severity": "Medium",
       "cves": [
-        "CVE-2026-102769",
         "CVE-2026-23871",
+        "CVE-2026-102769",
         "CVE-2026-44908"
       ],
       "threat_categories": [
@@ -768,14 +768,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-129289",
-        "CVE-2026-129474",
-        "CVE-2026-126714",
-        "CVE-2026-129496",
         "CVE-2026-109619",
+        "CVE-2026-129474",
+        "CVE-2026-129496",
         "CVE-2026-115560",
+        "CVE-2026-129289",
+        "CVE-2026-129481",
         "CVE-2026-129182",
-        "CVE-2026-129481"
+        "CVE-2026-126714"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -910,10 +910,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-124194",
-        "CVE-2026-118146",
+        "CVE-2026-118148",
         "CVE-2026-113862",
-        "CVE-2026-118148"
+        "CVE-2026-124194",
+        "CVE-2026-118146"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -972,6 +972,24 @@
       "threat_categories": [
         "Ransomware",
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "AI Joins the Industrial Attack Workflow",
+    "link": "https://www.recordedfuture.com/blog/ai-industrial-attack-workflow",
+    "published": "Fri, 20 Nov 2026 00:00:00 GMT",
+    "summary": "Insikt Group analyzes how GreenJuliett and AI frameworks like ARTEX are accelerating cyberattacks on OT networks.",
+    "analysis": {
+      "issue": "Insikt Group analyzes how GreenJuliett and AI frameworks like ARTEX are accelerating cyberattacks on OT networks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1135,24 +1153,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Prediction Markets Emerge as a New Vertical for Traffer Teams",
-    "link": "https://www.recordedfuture.com/research/prediction-markets-traffer-teams",
-    "published": "Thu, 29 Oct 2026 00:00:00 GMT",
-    "summary": "Discover how Russian traffer teams use turnkey fraud infrastructure to exploit prediction markets.",
-    "analysis": {
-      "issue": "Discover how Russian traffer teams use turnkey fraud infrastructure to exploit prediction markets",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -1323,8 +1323,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",

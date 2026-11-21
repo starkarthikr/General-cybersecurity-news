@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-20 19:50:50 UTC
+**Last Updated:** 2026-11-21 06:33:18 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -155,7 +155,7 @@
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Nov 2026 05:57:43 -0500  
 **Severity:** Critical  
-**CVEs:** CVE-2026-116953, CVE-2026-123637, CVE-2026-121805, CVE-2026-120285, CVE-2026-120292, CVE-2026-126822  
+**CVEs:** CVE-2026-120285, CVE-2026-126822, CVE-2026-116953, CVE-2026-121805, CVE-2026-120292, CVE-2026-123637  
 **Categories:** Vulnerability  
 
 ---
@@ -188,7 +188,16 @@
 
 ---
 
-### 21. [Attackers Used Optimizely to A/B Test Malware on Top Websites](https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/)
+### 21. [CTO of ‘RansomwareHelp’ Indicted for Wire Fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/)
+
+**Source:** Krebs On Security  
+**Published:** Sat, 21 Nov 2026 00:36:39 +0000  
+**Severity:** Low  
+**Categories:** Ransomware  
+
+---
+
+### 22. [Attackers Used Optimizely to A/B Test Malware on Top Websites](https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 18 Nov 2026 02:52:04 +0000  
@@ -197,7 +206,7 @@
 
 ---
 
-### 22. [Who Runs the Ransomware Group Qilin?](https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/)
+### 23. [Who Runs the Ransomware Group Qilin?](https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Nov 2026 18:06:01 +0000  
@@ -206,7 +215,7 @@
 
 ---
 
-### 23. [Microsoft Fixes Nearly 1,100 Security Vulnerabilities](https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/)
+### 24. [Microsoft Fixes Nearly 1,100 Security Vulnerabilities](https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Nov 2026 21:55:03 +0000  
@@ -216,7 +225,7 @@
 
 ---
 
-### 24. [Want to Rent an Internet Address at the White House?](https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/)
+### 25. [Want to Rent an Internet Address at the White House?](https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 05 Nov 2026 04:36:17 +0000  
@@ -225,7 +234,7 @@
 
 ---
 
-### 25. [Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies](https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/)
+### 26. [Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies](https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 03 Nov 2026 02:24:31 +0000  
@@ -234,7 +243,7 @@
 
 ---
 
-### 26. [Widespread PHP Flaw May Cause Many Site Outages Today](https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/)
+### 27. [Widespread PHP Flaw May Cause Many Site Outages Today](https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 21 Oct 2026 15:26:07 +0000  
@@ -243,7 +252,7 @@
 
 ---
 
-### 27. [Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
+### 28. [Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 19 Oct 2026 13:48:56 +0000  
@@ -252,7 +261,7 @@
 
 ---
 
-### 28. [U.K. Sanctions Cryptomus for RU Money Laundering](https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/)
+### 29. [U.K. Sanctions Cryptomus for RU Money Laundering](https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Oct 2026 14:22:49 +0000  
@@ -261,7 +270,7 @@
 
 ---
 
-### 29. [Microsoft Patches More Than 1,400 Security Flaws](https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/)
+### 30. [Microsoft Patches More Than 1,400 Security Flaws](https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 13 Oct 2026 23:24:53 +0000  
@@ -271,21 +280,12 @@
 
 ---
 
-### 30. [FBI Arrests Executive at Ransomware Negotiation Firm](https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/)
-
-**Source:** Krebs On Security  
-**Published:** Sat, 10 Oct 2026 00:17:42 +0000  
-**Severity:** Low  
-**Categories:** Ransomware  
-
----
-
 ### 31. [WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign](https://www.securityweek.com/whatsapp-fixes-flaw-uncovered-while-disrupting-scam-campaign/)
 
 **Source:** Security Week  
 **Published:** Fri, 20 Nov 2026 16:01:02 +0000  
 **Severity:** Medium  
-**CVEs:** CVE-2026-102769, CVE-2026-23871, CVE-2026-44908  
+**CVEs:** CVE-2026-23871, CVE-2026-102769, CVE-2026-44908  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -369,7 +369,7 @@
 **Source:** Security Week  
 **Published:** Thu, 19 Nov 2026 15:54:20 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-129289, CVE-2026-129474, CVE-2026-126714, CVE-2026-129496, CVE-2026-109619, CVE-2026-115560, CVE-2026-129182, CVE-2026-129481  
+**CVEs:** CVE-2026-109619, CVE-2026-129474, CVE-2026-129496, CVE-2026-115560, CVE-2026-129289, CVE-2026-129481, CVE-2026-129182, CVE-2026-126714  
 **Categories:** Vulnerability  
 
 ---
@@ -434,7 +434,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 11 Nov 2026 01:41:17 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-124194, CVE-2026-118146, CVE-2026-113862, CVE-2026-118148  
+**CVEs:** CVE-2026-118148, CVE-2026-113862, CVE-2026-124194, CVE-2026-118146  
 **Categories:** Vulnerability  
 
 ---
@@ -466,7 +466,16 @@
 
 ---
 
-### 51. [Regional Insights: 2027 State of Threat Intelligence](https://www.recordedfuture.com/blog/2027-soti-regional-summaries)
+### 51. [AI Joins the Industrial Attack Workflow](https://www.recordedfuture.com/blog/ai-industrial-attack-workflow)
+
+**Source:** Recorded Future  
+**Published:** Fri, 20 Nov 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 52. [Regional Insights: 2027 State of Threat Intelligence](https://www.recordedfuture.com/blog/2027-soti-regional-summaries)
 
 **Source:** Recorded Future  
 **Published:** Thu, 19 Nov 2026 00:00:00 GMT  
@@ -475,7 +484,7 @@
 
 ---
 
-### 52. [Recorded Future Launches New Automation Capabilities for Tech Stack Watch List](https://www.recordedfuture.com/blog/tech-stack-automation)
+### 53. [Recorded Future Launches New Automation Capabilities for Tech Stack Watch List](https://www.recordedfuture.com/blog/tech-stack-automation)
 
 **Source:** Recorded Future  
 **Published:** Wed, 18 Nov 2026 00:00:00 GMT  
@@ -484,7 +493,7 @@
 
 ---
 
-### 53. [What Is Threat Intelligence Worth? 142 Security Teams Did the Math.](https://www.recordedfuture.com/blog/threat-intelligence-roi)
+### 54. [What Is Threat Intelligence Worth? 142 Security Teams Did the Math.](https://www.recordedfuture.com/blog/threat-intelligence-roi)
 
 **Source:** Recorded Future  
 **Published:** Tue, 17 Nov 2026 00:00:00 GMT  
@@ -493,7 +502,7 @@
 
 ---
 
-### 54. [Five Findings From the 2027 State of Threat Intelligence](https://www.recordedfuture.com/blog/state-of-threat-intelligence-2027)
+### 55. [Five Findings From the 2027 State of Threat Intelligence](https://www.recordedfuture.com/blog/state-of-threat-intelligence-2027)
 
 **Source:** Recorded Future  
 **Published:** Thu, 12 Nov 2026 00:00:00 GMT  
@@ -502,7 +511,7 @@
 
 ---
 
-### 55. [AI Is Both Target and Tool for Threat Actors](https://www.recordedfuture.com/research/ai-cyber-threat-trends-2026)
+### 56. [AI Is Both Target and Tool for Threat Actors](https://www.recordedfuture.com/research/ai-cyber-threat-trends-2026)
 
 **Source:** Recorded Future  
 **Published:** Wed, 11 Nov 2026 00:00:00 GMT  
@@ -511,7 +520,7 @@
 
 ---
 
-### 56. [DoppelCart Fraud Network Grows to More Than 250,000 Domains](https://www.recordedfuture.com/blog/doppelcart-fraud-network-grows-domains)
+### 57. [DoppelCart Fraud Network Grows to More Than 250,000 Domains](https://www.recordedfuture.com/blog/doppelcart-fraud-network-grows-domains)
 
 **Source:** Recorded Future  
 **Published:** Tue, 10 Nov 2026 00:00:00 GMT  
@@ -520,7 +529,7 @@
 
 ---
 
-### 57. [GhostFrame: A new ESXi Implant Linked to Settra Ransomware](https://www.recordedfuture.com/blog/ghostframe-esxi-implant-settra-ransomware)
+### 58. [GhostFrame: A new ESXi Implant Linked to Settra Ransomware](https://www.recordedfuture.com/blog/ghostframe-esxi-implant-settra-ransomware)
 
 **Source:** Recorded Future  
 **Published:** Tue, 10 Nov 2026 00:00:00 GMT  
@@ -529,7 +538,7 @@
 
 ---
 
-### 58. [October 2026 CVE Landscape](https://www.recordedfuture.com/blog/october-2026-cve-landscape)
+### 59. [October 2026 CVE Landscape](https://www.recordedfuture.com/blog/october-2026-cve-landscape)
 
 **Source:** Recorded Future  
 **Published:** Fri, 06 Nov 2026 00:00:00 GMT  
@@ -538,21 +547,12 @@
 
 ---
 
-### 59. [The Shift: Rethinking the Human in the Loop](https://www.recordedfuture.com/blog/the-shift-rethinking-human-in-the-loop)
+### 60. [The Shift: Rethinking the Human in the Loop](https://www.recordedfuture.com/blog/the-shift-rethinking-human-in-the-loop)
 
 **Source:** Recorded Future  
 **Published:** Thu, 05 Nov 2026 00:00:00 GMT  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 60. [Prediction Markets Emerge as a New Vertical for Traffer Teams](https://www.recordedfuture.com/research/prediction-markets-traffer-teams)
-
-**Source:** Recorded Future  
-**Published:** Thu, 29 Oct 2026 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** Vulnerability  
 
 ---
 
@@ -636,7 +636,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
