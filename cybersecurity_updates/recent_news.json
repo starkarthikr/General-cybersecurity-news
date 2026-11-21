@@ -186,6 +186,25 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+    "link": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+    "published": "Sat, 21 Nov 2026 13:01:58 -0500",
+    "summary": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information. [...]",
+    "analysis": {
+      "issue": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
     "link": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
     "published": "Sat, 21 Nov 2026 10:17:27 -0500",
@@ -342,33 +361,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-121805",
-        "CVE-2026-123637",
-        "CVE-2026-116953",
         "CVE-2026-120292",
+        "CVE-2026-126822",
+        "CVE-2026-121805",
         "CVE-2026-120285",
-        "CVE-2026-126822"
+        "CVE-2026-116953",
+        "CVE-2026-123637"
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Windows 11 KB5132057 update released with 28 changes and fixes",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/",
-    "published": "Fri, 20 Nov 2026 04:25:35 -0500",
-    "summary": "Microsoft released the KB5132057 November Windows 11 preview update, which comes with 28 changes, including improvements to Windows Search, Windows Hello, and the Run dialog. [...]",
-    "analysis": {
-      "issue": "Microsoft released the KB5132057 November optional cumulative update for Windows 11 versions 25H2 and 26H2, which comes with 28 changes, including improvements to Windows Search, Windows Hello, and the Run dialog",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -593,9 +594,9 @@
       "timeline": null,
       "severity": "Medium",
       "cves": [
+        "CVE-2026-23871",
         "CVE-2026-102769",
-        "CVE-2026-44908",
-        "CVE-2026-23871"
+        "CVE-2026-44908"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -758,9 +759,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-59309",
+        "CVE-2026-102764",
         "CVE-2026-123890",
-        "CVE-2026-102764"
+        "CVE-2026-59309"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -897,10 +898,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-124194",
-        "CVE-2026-118146",
         "CVE-2026-113862",
-        "CVE-2026-118148"
+        "CVE-2026-124194",
+        "CVE-2026-118148",
+        "CVE-2026-118146"
       ],
       "threat_categories": [
         "Vulnerability"

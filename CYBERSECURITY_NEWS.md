@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-21 16:18:37 UTC
+**Last Updated:** 2026-11-21 18:57:05 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -96,7 +96,16 @@
 
 ---
 
-### 11. [BADBOX botnet returns with record-breaking 40 billion daily ad requests](https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/)
+### 11. [Microsoft Entra Connect Health flaw exploited to steal tenant data](https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/)
+
+**Source:** Bleeping Computer  
+**Published:** Sat, 21 Nov 2026 13:01:58 -0500  
+**Severity:** Low  
+**Categories:** Data Breach, Vulnerability  
+
+---
+
+### 12. [BADBOX botnet returns with record-breaking 40 billion daily ad requests](https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 21 Nov 2026 10:17:27 -0500  
@@ -105,7 +114,7 @@
 
 ---
 
-### 12. [FBI reportedly hacked again, this time targeting nationwide police database](https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/)
+### 13. [FBI reportedly hacked again, this time targeting nationwide police database](https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 21 Nov 2026 09:26:04 -0500  
@@ -114,7 +123,7 @@
 
 ---
 
-### 13. [Bell Canada says 'agentic' hacker stole enterprise customer data](https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/)
+### 14. [Bell Canada says 'agentic' hacker stole enterprise customer data](https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Nov 2026 13:51:43 -0500  
@@ -123,7 +132,7 @@
 
 ---
 
-### 14. [Hackers use autonomous AI tool Cairn to find zero-day, take over server](https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/)
+### 15. [Hackers use autonomous AI tool Cairn to find zero-day, take over server](https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Nov 2026 12:30:00 -0500  
@@ -132,7 +141,7 @@
 
 ---
 
-### 15. [Vendor data breach exposes Chase, Visa, Mastercard customer info](https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/)
+### 16. [Vendor data breach exposes Chase, Visa, Mastercard customer info](https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Nov 2026 10:58:06 -0500  
@@ -141,7 +150,7 @@
 
 ---
 
-### 16. [Still tracking company passwords in spreadsheets? You’re flying blind.](https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/)
+### 17. [Still tracking company passwords in spreadsheets? You’re flying blind.](https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Nov 2026 10:00:10 -0500  
@@ -150,7 +159,7 @@
 
 ---
 
-### 17. [N-able says recent security breach led to major service outage](https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/)
+### 18. [N-able says recent security breach led to major service outage](https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Nov 2026 08:18:36 -0500  
@@ -159,7 +168,7 @@
 
 ---
 
-### 18. [Microsoft now automatically installs Windows 11 26H2 on unmanaged devices](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/)
+### 19. [Microsoft now automatically installs Windows 11 26H2 on unmanaged devices](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Nov 2026 07:14:28 -0500  
@@ -168,22 +177,13 @@
 
 ---
 
-### 19. [F5 releases emergency patches for critical BIG-IP RCE flaws](https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/)
+### 20. [F5 releases emergency patches for critical BIG-IP RCE flaws](https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Nov 2026 05:57:43 -0500  
 **Severity:** Critical  
-**CVEs:** CVE-2026-121805, CVE-2026-123637, CVE-2026-116953, CVE-2026-120292, CVE-2026-120285, CVE-2026-126822  
+**CVEs:** CVE-2026-120292, CVE-2026-126822, CVE-2026-121805, CVE-2026-120285, CVE-2026-116953, CVE-2026-123637  
 **Categories:** Vulnerability  
-
----
-
-### 20. [Windows 11 KB5132057 update released with 28 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 20 Nov 2026 04:25:35 -0500  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -293,7 +293,7 @@
 **Source:** Security Week  
 **Published:** Fri, 20 Nov 2026 16:01:02 +0000  
 **Severity:** Medium  
-**CVEs:** CVE-2026-102769, CVE-2026-44908, CVE-2026-23871  
+**CVEs:** CVE-2026-23871, CVE-2026-102769, CVE-2026-44908  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -367,7 +367,7 @@
 **Source:** Security Week  
 **Published:** Thu, 19 Nov 2026 19:21:06 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-59309, CVE-2026-123890, CVE-2026-102764  
+**CVEs:** CVE-2026-102764, CVE-2026-123890, CVE-2026-59309  
 **Categories:** Vulnerability, Malware, APT  
 
 ---
@@ -432,7 +432,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 11 Nov 2026 01:41:17 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-124194, CVE-2026-118146, CVE-2026-113862, CVE-2026-118148  
+**CVEs:** CVE-2026-113862, CVE-2026-124194, CVE-2026-118148, CVE-2026-118146  
 **Categories:** Vulnerability  
 
 ---
