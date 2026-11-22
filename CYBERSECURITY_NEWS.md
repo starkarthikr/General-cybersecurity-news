@@ -1,10 +1,29 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-22 06:01:05 UTC
+**Last Updated:** 2026-11-22 07:16:41 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats](https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html)
+### 1. [OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms](https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html)
+
+**Source:** The Hacker News  
+**Published:** Sun, 22 Nov 2026 10:36:55 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps](https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html)
+
+**Source:** The Hacker News  
+**Published:** Sun, 22 Nov 2026 10:33:41 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-125396  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats](https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 21 Nov 2026 17:23:07 +0530  
@@ -13,7 +32,7 @@
 
 ---
 
-### 2. [GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys](https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html)
+### 4. [GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys](https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 21 Nov 2026 16:35:53 +0530  
@@ -23,7 +42,7 @@
 
 ---
 
-### 3. [Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access](https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html)
+### 5. [Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access](https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 21 Nov 2026 16:33:17 +0530  
@@ -32,7 +51,7 @@
 
 ---
 
-### 4. [Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS](https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html)
+### 6. [Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS](https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 21 Nov 2026 14:19:20 +0530  
@@ -41,7 +60,7 @@
 
 ---
 
-### 5. [Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge](https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html)
+### 7. [Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge](https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 21 Nov 2026 14:19:13 +0530  
@@ -50,7 +69,7 @@
 
 ---
 
-### 6. [WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams](https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html)
+### 8. [WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams](https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Nov 2026 23:27:20 +0530  
@@ -59,7 +78,7 @@
 
 ---
 
-### 7. [Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control](https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html)
+### 9. [Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control](https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Nov 2026 22:28:16 +0530  
@@ -68,31 +87,13 @@
 
 ---
 
-### 8. [Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts](https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html)
+### 10. [Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts](https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Nov 2026 17:50:00 +0530  
 **Severity:** Low  
 **CVEs:** CVE-2026-99312  
 **Categories:** Vulnerability  
-
----
-
-### 9. [The Path to AI Autonomy in the SOC](https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 20 Nov 2026 17:30:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws](https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 20 Nov 2026 16:08:22 +0530  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -310,7 +311,7 @@
 **Source:** Security Week  
 **Published:** Fri, 20 Nov 2026 16:01:02 +0000  
 **Severity:** Medium  
-**CVEs:** CVE-2026-23871, CVE-2026-102769, CVE-2026-44908  
+**CVEs:** CVE-2026-44908, CVE-2026-23871, CVE-2026-102769  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -430,7 +431,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 11 Nov 2026 01:41:17 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-118146, CVE-2026-113862, CVE-2026-118148, CVE-2026-124194  
+**CVEs:** CVE-2026-124194, CVE-2026-118148, CVE-2026-113862, CVE-2026-118146  
 **Categories:** Vulnerability  
 
 ---
@@ -632,7 +633,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

@@ -1,6 +1,44 @@
 [
   {
     "source": "The Hacker News",
+    "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+    "link": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+    "published": "Sun, 22 Nov 2026 10:36:55 +0530",
+    "summary": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week.\n\nSome of the stolen requests were flagged as Zero Data Retention, the setting that is supposed to mean a prompt is never stored.\n\nOpenRouter, a gateway that routes customers' AI requests to a pool of",
+    "analysis": {
+      "issue": "Attackers stole AI prompts from three inference providers, prompting OpenRouter to remove 125 endpoints from Zero Data Retention eligibility",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+    "link": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+    "published": "Sun, 22 Nov 2026 10:33:41 +0530",
+    "summary": "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it.\n\nGhostscript is the interpreter that many Linux servers use to convert uploaded PDFs, PostScript files, and images into other formats, often without the application calling it directly.\n\nSecurity firm pwn.ai showed this week that ordinary upload,",
+    "analysis": {
+      "issue": "Ghostscript flaw CVE-2026-125396 allows crafted files to escape its sandbox and execute server commands through common file-processing apps",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-125396"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
     "link": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
     "published": "Sat, 21 Nov 2026 17:23:07 +0530",
@@ -145,42 +183,6 @@
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "The Path to AI Autonomy in the SOC",
-    "link": "https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html",
-    "published": "Fri, 20 Nov 2026 17:30:00 +0530",
-    "summary": "Security leaders are about to hand AI agents a lot more authority. In a recent a16z survey of CISOs at organizations with more than 1,000 employees, 36% said they are comfortable today letting AI agents act autonomously on low-risk security actions. In 12 months from now, 60% expect to be comfortable at that level. Overall, AI SOC was the highest ranking initiative for 2027.\n\nThe pressure",
-    "analysis": {
-      "issue": "An a16z survey finds 60% of CISOs expect to trust AI agents with low-risk security actions within a year, raising oversight questions",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws",
-    "link": "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html",
-    "published": "Fri, 20 Nov 2026 16:08:22 +0530",
-    "summary": "SonicWall has urged all customers still running Generation 6 firewalls to retire and replace them immediately and stop exposing the devices on the internet edge, citing security risks fueled by AI-assisted attacks.\n\n\"Attackers now use automation and AI to find and exploit unsupported edge devices faster than ever,\" SonicWall said. \"We expect internet-facing Gen 6 firewalls to be actively",
-    "analysis": {
-      "issue": "SonicWall urges immediate replacement of unsupported Gen 6 firewalls, warning that internet-facing devices face growing attack risks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -623,9 +625,9 @@
       "timeline": null,
       "severity": "Medium",
       "cves": [
+        "CVE-2026-44908",
         "CVE-2026-23871",
-        "CVE-2026-102769",
-        "CVE-2026-44908"
+        "CVE-2026-102769"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -881,10 +883,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-118146",
-        "CVE-2026-113862",
+        "CVE-2026-124194",
         "CVE-2026-118148",
-        "CVE-2026-124194"
+        "CVE-2026-113862",
+        "CVE-2026-118146"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1294,8 +1296,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
