@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-21 21:48:23 UTC
+**Last Updated:** 2026-11-22 06:01:05 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -96,7 +96,16 @@
 
 ---
 
-### 11. [Microsoft Entra Connect Health flaw exploited to steal tenant data](https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/)
+### 11. [Rackspace Spot breach let hackers access customer Kubernetes secrets](https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/)
+
+**Source:** Bleeping Computer  
+**Published:** Sat, 21 Nov 2026 17:59:58 -0500  
+**Severity:** Low  
+**Categories:** Data Breach  
+
+---
+
+### 12. [Microsoft Entra Connect Health flaw exploited to steal tenant data](https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 21 Nov 2026 13:01:58 -0500  
@@ -105,7 +114,7 @@
 
 ---
 
-### 12. [BADBOX botnet returns with record-breaking 40 billion daily ad requests](https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/)
+### 13. [BADBOX botnet returns with record-breaking 40 billion daily ad requests](https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 21 Nov 2026 10:17:27 -0500  
@@ -114,7 +123,7 @@
 
 ---
 
-### 13. [FBI reportedly hacked again, this time targeting nationwide police database](https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/)
+### 14. [FBI reportedly hacked again, this time targeting nationwide police database](https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 21 Nov 2026 09:26:04 -0500  
@@ -123,7 +132,7 @@
 
 ---
 
-### 14. [Bell Canada says 'agentic' hacker stole enterprise customer data](https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/)
+### 15. [Bell Canada says 'agentic' hacker stole enterprise customer data](https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Nov 2026 13:51:43 -0500  
@@ -132,7 +141,7 @@
 
 ---
 
-### 15. [Hackers use autonomous AI tool Cairn to find zero-day, take over server](https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/)
+### 16. [Hackers use autonomous AI tool Cairn to find zero-day, take over server](https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Nov 2026 12:30:00 -0500  
@@ -141,7 +150,7 @@
 
 ---
 
-### 16. [Vendor data breach exposes Chase, Visa, Mastercard customer info](https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/)
+### 17. [Vendor data breach exposes Chase, Visa, Mastercard customer info](https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Nov 2026 10:58:06 -0500  
@@ -150,7 +159,7 @@
 
 ---
 
-### 17. [Still tracking company passwords in spreadsheets? You’re flying blind.](https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/)
+### 18. [Still tracking company passwords in spreadsheets? You’re flying blind.](https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Nov 2026 10:00:10 -0500  
@@ -159,7 +168,7 @@
 
 ---
 
-### 18. [N-able says recent security breach led to major service outage](https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/)
+### 19. [N-able says recent security breach led to major service outage](https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Nov 2026 08:18:36 -0500  
@@ -168,22 +177,12 @@
 
 ---
 
-### 19. [Microsoft now automatically installs Windows 11 26H2 on unmanaged devices](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/)
+### 20. [Microsoft now automatically installs Windows 11 26H2 on unmanaged devices](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Nov 2026 07:14:28 -0500  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 20. [F5 releases emergency patches for critical BIG-IP RCE flaws](https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 20 Nov 2026 05:57:43 -0500  
-**Severity:** Critical  
-**CVEs:** CVE-2026-121805, CVE-2026-120292, CVE-2026-126822, CVE-2026-123637, CVE-2026-116953, CVE-2026-120285  
-**Categories:** Vulnerability  
 
 ---
 
@@ -279,7 +278,25 @@
 
 ---
 
-### 31. [Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day](https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/)
+### 31. [FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says](https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/)
+
+**Source:** Security Week  
+**Published:** Sun, 22 Nov 2026 00:53:02 +0000  
+**Severity:** Low  
+**Categories:** Ransomware  
+
+---
+
+### 32. [President Trump Taps Kirsten Davies as National Cyber Director](https://www.securityweek.com/president-trump-taps-kirsten-davies-as-national-cyber-director/)
+
+**Source:** Security Week  
+**Published:** Sat, 21 Nov 2026 13:00:00 +0000  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 33. [Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day](https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/)
 
 **Source:** Security Week  
 **Published:** Sat, 21 Nov 2026 12:08:50 +0000  
@@ -288,17 +305,17 @@
 
 ---
 
-### 32. [WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign](https://www.securityweek.com/whatsapp-fixes-flaw-uncovered-while-disrupting-scam-campaign/)
+### 34. [WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign](https://www.securityweek.com/whatsapp-fixes-flaw-uncovered-while-disrupting-scam-campaign/)
 
 **Source:** Security Week  
 **Published:** Fri, 20 Nov 2026 16:01:02 +0000  
 **Severity:** Medium  
-**CVEs:** CVE-2026-44908, CVE-2026-102769, CVE-2026-23871  
+**CVEs:** CVE-2026-23871, CVE-2026-102769, CVE-2026-44908  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
 
-### 33. [In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New Nightmare Eclipse Exploit](https://www.securityweek.com/in-other-news-norwegian-energy-firm-cyberattacks-supercomputer-hack-new-nightmare-eclipse-exploit/)
+### 35. [In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New Nightmare Eclipse Exploit](https://www.securityweek.com/in-other-news-norwegian-energy-firm-cyberattacks-supercomputer-hack-new-nightmare-eclipse-exploit/)
 
 **Source:** Security Week  
 **Published:** Fri, 20 Nov 2026 14:56:23 +0000  
@@ -307,7 +324,7 @@
 
 ---
 
-### 34. [Industry Reactions to Major Outages and AI Patching Debate: Feedback Friday](https://www.securityweek.com/industry-reactions-to-major-outages-and-ai-patching-questions-feedback-friday/)
+### 36. [Industry Reactions to Major Outages and AI Patching Debate: Feedback Friday](https://www.securityweek.com/industry-reactions-to-major-outages-and-ai-patching-questions-feedback-friday/)
 
 **Source:** Security Week  
 **Published:** Fri, 20 Nov 2026 12:38:55 +0000  
@@ -316,7 +333,7 @@
 
 ---
 
-### 35. [SBC Medical Group Data Breach Impacts Over 2 Million](https://www.securityweek.com/sbc-medical-group-data-breach-impacts-over-2-million/)
+### 37. [SBC Medical Group Data Breach Impacts Over 2 Million](https://www.securityweek.com/sbc-medical-group-data-breach-impacts-over-2-million/)
 
 **Source:** Security Week  
 **Published:** Fri, 20 Nov 2026 11:36:51 +0000  
@@ -325,7 +342,7 @@
 
 ---
 
-### 36. [European Commission Confirms AI-Assisted Cyberattack Disrupted Services](https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/)
+### 38. [European Commission Confirms AI-Assisted Cyberattack Disrupted Services](https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/)
 
 **Source:** Security Week  
 **Published:** Fri, 20 Nov 2026 10:51:42 +0000  
@@ -334,7 +351,7 @@
 
 ---
 
-### 37. [Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE](https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/)
+### 39. [Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE](https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/)
 
 **Source:** Security Week  
 **Published:** Fri, 20 Nov 2026 10:34:10 +0000  
@@ -344,31 +361,12 @@
 
 ---
 
-### 38. [N-able Blames Service Disruption on Cyberattack](https://www.securityweek.com/n-able-blames-service-disruption-on-cyberattack/)
+### 40. [N-able Blames Service Disruption on Cyberattack](https://www.securityweek.com/n-able-blames-service-disruption-on-cyberattack/)
 
 **Source:** Security Week  
 **Published:** Fri, 20 Nov 2026 09:08:35 +0000  
 **Severity:** Critical  
 **Categories:** Vulnerability, Phishing, APT  
-
----
-
-### 39. [JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak](https://www.securityweek.com/jpmorgan-visa-mastercard-cite-third-party-incidents-amid-data-leak/)
-
-**Source:** Security Week  
-**Published:** Fri, 20 Nov 2026 07:35:46 +0000  
-**Severity:** Critical  
-**Categories:** Ransomware, Data Breach, Vulnerability, APT, Supply Chain  
-
----
-
-### 40. [Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT](https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/)
-
-**Source:** Security Week  
-**Published:** Thu, 19 Nov 2026 19:21:06 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-123890, CVE-2026-59309, CVE-2026-102764  
-**Categories:** Vulnerability, Malware, APT  
 
 ---
 
@@ -432,7 +430,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 11 Nov 2026 01:41:17 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-113862, CVE-2026-124194, CVE-2026-118146, CVE-2026-118148  
+**CVEs:** CVE-2026-118146, CVE-2026-113862, CVE-2026-118148, CVE-2026-124194  
 **Categories:** Vulnerability  
 
 ---

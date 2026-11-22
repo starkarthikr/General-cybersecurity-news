@@ -186,6 +186,24 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+    "link": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+    "published": "Sat, 21 Nov 2026 17:59:58 -0500",
+    "summary": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]",
+    "analysis": {
+      "issue": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
     "link": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
     "published": "Sat, 21 Nov 2026 13:01:58 -0500",
@@ -345,31 +363,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "F5 releases emergency patches for critical BIG-IP RCE flaws",
-    "link": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/",
-    "published": "Fri, 20 Nov 2026 05:57:43 -0500",
-    "summary": "US cybersecurity company F5 warned customers to patch five critical BIG-IP vulnerabilities that attackers can exploit to trigger denial-of-service (DoS) or gain remote code execution. [...]",
-    "analysis": {
-      "issue": "US cybersecurity company F5 warned customers to patch five BIG-IP vulnerabilities that attackers can exploit to trigger denial-of-service (DoS) or gain remote code execution",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-121805",
-        "CVE-2026-120292",
-        "CVE-2026-126822",
-        "CVE-2026-123637",
-        "CVE-2026-116953",
-        "CVE-2026-120285"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -565,6 +558,42 @@
   },
   {
     "source": "Security Week",
+    "title": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says",
+    "link": "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/",
+    "published": "Sun, 22 Nov 2026 00:53:02 +0000",
+    "summary": "<p>The FBI is investigating an apparent hack of a national law enforcement database that it maintains.</p>\n<p>The post <a href=\"https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/\">FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The FBI is investigating an apparent hack of a national law enforcement database that it maintains",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "President Trump Taps Kirsten Davies as National Cyber Director",
+    "link": "https://www.securityweek.com/president-trump-taps-kirsten-davies-as-national-cyber-director/",
+    "published": "Sat, 21 Nov 2026 13:00:00 +0000",
+    "summary": "<p>White House says the battle-tested cyber leader will drive an America First cyber strategy.</p>\n<p>The post <a href=\"https://www.securityweek.com/president-trump-taps-kirsten-davies-as-national-cyber-director/\">President Trump Taps Kirsten Davies as National Cyber Director</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "White House says the battle-tested cyber leader will drive an America First cyber strategy",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day",
     "link": "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/",
     "published": "Sat, 21 Nov 2026 12:08:50 +0000",
@@ -594,9 +623,9 @@
       "timeline": null,
       "severity": "Medium",
       "cves": [
-        "CVE-2026-44908",
+        "CVE-2026-23871",
         "CVE-2026-102769",
-        "CVE-2026-23871"
+        "CVE-2026-44908"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -720,52 +749,6 @@
       "threat_categories": [
         "Vulnerability",
         "Phishing",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak",
-    "link": "https://www.securityweek.com/jpmorgan-visa-mastercard-cite-third-party-incidents-amid-data-leak/",
-    "published": "Fri, 20 Nov 2026 07:35:46 +0000",
-    "summary": "<p>The companies point to third-party providers after the N0n extortion group leaked data allegedly tied to their customers.</p>\n<p>The post <a href=\"https://www.securityweek.com/jpmorgan-visa-mastercard-cite-third-party-incidents-amid-data-leak/\">JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The companies point to third-party providers after the N0n extortion group leaked data allegedly tied to their customers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Vulnerability",
-        "APT",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT",
-    "link": "https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/",
-    "published": "Thu, 19 Nov 2026 19:21:06 +0000",
-    "summary": "<p>Google says a China-linked espionage group exploited a critical VMware vCenter authentication bypass before Broadcom released a patch.</p>\n<p>The post <a href=\"https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/\">Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Google says a China-linked espionage group exploited a critical VMware vCenter authentication bypass before Broadcom released a patch",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-123890",
-        "CVE-2026-59309",
-        "CVE-2026-102764"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
         "APT"
       ]
     }
@@ -898,10 +881,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-113862",
-        "CVE-2026-124194",
         "CVE-2026-118146",
-        "CVE-2026-118148"
+        "CVE-2026-113862",
+        "CVE-2026-118148",
+        "CVE-2026-124194"
       ],
       "threat_categories": [
         "Vulnerability"
