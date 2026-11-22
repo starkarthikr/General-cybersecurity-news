@@ -188,6 +188,42 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
+    "link": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
+    "published": "Sun, 22 Nov 2026 10:43:04 -0500",
+    "summary": "E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes. [...]",
+    "analysis": {
+      "issue": "E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
+    "link": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/",
+    "published": "Sun, 22 Nov 2026 10:15:25 -0500",
+    "summary": "Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices. [...]",
+    "analysis": {
+      "issue": "Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
     "link": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
     "published": "Sat, 21 Nov 2026 17:59:58 -0500",
@@ -329,42 +365,6 @@
       "cves": [],
       "threat_categories": [
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "N-able says recent security breach led to major service outage",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/",
-    "published": "Fri, 20 Nov 2026 08:18:36 -0500",
-    "summary": "N-able says attackers who breached one of its servers have caused a major outage affecting Mail Assure and SpamExperts Hosted Cloud services worldwide. [...]",
-    "analysis": {
-      "issue": "N-able says attackers who breached one of its servers have caused a major outage affecting Mail Assure and SpamExperts Hosted Cloud services worldwide",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft now automatically installs Windows 11 26H2 on unmanaged devices",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/",
-    "published": "Fri, 20 Nov 2026 07:14:28 -0500",
-    "summary": "Starting this week, Microsoft has begun automatically upgrading eligible devices that aren't managed by an IT department to Windows 11 26H2. [...]",
-    "analysis": {
-      "issue": "Starting this week, Microsoft has begun automatically upgrading eligible devices that aren't managed by an IT department to Windows 11 26H2",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -550,8 +550,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-96951",
-        "CVE-2026-108398"
+        "CVE-2026-108398",
+        "CVE-2026-96951"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -626,8 +626,8 @@
       "severity": "Medium",
       "cves": [
         "CVE-2026-44908",
-        "CVE-2026-23871",
-        "CVE-2026-102769"
+        "CVE-2026-102769",
+        "CVE-2026-23871"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -883,10 +883,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-124194",
         "CVE-2026-118148",
-        "CVE-2026-113862",
-        "CVE-2026-118146"
+        "CVE-2026-124194",
+        "CVE-2026-118146",
+        "CVE-2026-113862"
       ],
       "threat_categories": [
         "Vulnerability"
