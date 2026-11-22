@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-22 16:32:27 UTC
+**Last Updated:** 2026-11-22 19:17:00 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -97,7 +97,16 @@
 
 ---
 
-### 11. [Cleverbridge warns hackers stole credit card numbers, CVVs in data breach](https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/)
+### 11. [Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices](https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/)
+
+**Source:** Bleeping Computer  
+**Published:** Sun, 22 Nov 2026 13:45:37 -0500  
+**Severity:** Low  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 12. [Cleverbridge warns hackers stole credit card numbers, CVVs in data breach](https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 22 Nov 2026 10:43:04 -0500  
@@ -106,7 +115,7 @@
 
 ---
 
-### 12. [Signal to block Siri, Gemini AI from capturing chats on iOS, Android](https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/)
+### 13. [Signal to block Siri, Gemini AI from capturing chats on iOS, Android](https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 22 Nov 2026 10:15:25 -0500  
@@ -115,7 +124,7 @@
 
 ---
 
-### 13. [Rackspace Spot breach let hackers access customer Kubernetes secrets](https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/)
+### 14. [Rackspace Spot breach let hackers access customer Kubernetes secrets](https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 21 Nov 2026 17:59:58 -0500  
@@ -124,7 +133,7 @@
 
 ---
 
-### 14. [Microsoft Entra Connect Health flaw exploited to steal tenant data](https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/)
+### 15. [Microsoft Entra Connect Health flaw exploited to steal tenant data](https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 21 Nov 2026 13:01:58 -0500  
@@ -133,7 +142,7 @@
 
 ---
 
-### 15. [BADBOX botnet returns with record-breaking 40 billion daily ad requests](https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/)
+### 16. [BADBOX botnet returns with record-breaking 40 billion daily ad requests](https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 21 Nov 2026 10:17:27 -0500  
@@ -142,7 +151,7 @@
 
 ---
 
-### 16. [FBI reportedly hacked again, this time targeting nationwide police database](https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/)
+### 17. [FBI reportedly hacked again, this time targeting nationwide police database](https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 21 Nov 2026 09:26:04 -0500  
@@ -151,7 +160,7 @@
 
 ---
 
-### 17. [Bell Canada says 'agentic' hacker stole enterprise customer data](https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/)
+### 18. [Bell Canada says 'agentic' hacker stole enterprise customer data](https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Nov 2026 13:51:43 -0500  
@@ -160,7 +169,7 @@
 
 ---
 
-### 18. [Hackers use autonomous AI tool Cairn to find zero-day, take over server](https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/)
+### 19. [Hackers use autonomous AI tool Cairn to find zero-day, take over server](https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Nov 2026 12:30:00 -0500  
@@ -169,21 +178,12 @@
 
 ---
 
-### 19. [Vendor data breach exposes Chase, Visa, Mastercard customer info](https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/)
+### 20. [Vendor data breach exposes Chase, Visa, Mastercard customer info](https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Nov 2026 10:58:06 -0500  
 **Severity:** Low  
 **Categories:** Data Breach, Supply Chain  
-
----
-
-### 20. [Still tracking company passwords in spreadsheets? You’re flying blind.](https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 20 Nov 2026 10:00:10 -0500  
-**Severity:** Low  
-**Categories:** APT  
 
 ---
 
@@ -311,7 +311,7 @@
 **Source:** Security Week  
 **Published:** Fri, 20 Nov 2026 16:01:02 +0000  
 **Severity:** Medium  
-**CVEs:** CVE-2026-44908, CVE-2026-102769, CVE-2026-23871  
+**CVEs:** CVE-2026-102769, CVE-2026-44908, CVE-2026-23871  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -431,7 +431,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 11 Nov 2026 01:41:17 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-118148, CVE-2026-124194, CVE-2026-118146, CVE-2026-113862  
+**CVEs:** CVE-2026-113862, CVE-2026-124194, CVE-2026-118146, CVE-2026-118148  
 **Categories:** Vulnerability  
 
 ---
