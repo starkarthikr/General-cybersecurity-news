@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-23 20:27:55 UTC
+**Last Updated:** 2026-11-23 23:40:12 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -99,7 +99,16 @@
 
 ---
 
-### 11. [OpenRouter drops AI providers over leaked prompts and secrets](https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/)
+### 11. [South Korea’s power giant KEPCO confirms data breach impacting 1.5 million](https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 23 Nov 2026 15:54:51 -0500  
+**Severity:** Critical  
+**Categories:** Data Breach  
+
+---
+
+### 12. [OpenRouter drops AI providers over leaked prompts and secrets](https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 23 Nov 2026 15:00:20 -0500  
@@ -108,7 +117,7 @@
 
 ---
 
-### 12. [Microsoft Azure flaw exploited to steal customers' API credentials](https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/)
+### 13. [Microsoft Azure flaw exploited to steal customers' API credentials](https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 23 Nov 2026 14:42:20 -0500  
@@ -117,7 +126,7 @@
 
 ---
 
-### 13. [Spanish LaLiga confirms hackers stole soccer fans’ personal data](https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/)
+### 14. [Spanish LaLiga confirms hackers stole soccer fans’ personal data](https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 23 Nov 2026 13:38:40 -0500  
@@ -126,7 +135,7 @@
 
 ---
 
-### 14. [GlobeTopper loses $2.5 million after hackers steal $70k in gift cards](https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/)
+### 15. [GlobeTopper loses $2.5 million after hackers steal $70k in gift cards](https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 23 Nov 2026 11:50:01 -0500  
@@ -135,7 +144,7 @@
 
 ---
 
-### 15. [AI Agents Are Creating a Shared Responsibility Gap](https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/)
+### 16. [AI Agents Are Creating a Shared Responsibility Gap](https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 23 Nov 2026 10:00:10 -0500  
@@ -144,7 +153,7 @@
 
 ---
 
-### 16. [Microsoft testing fix for Windows 11 Bluetooth audio quality drops](https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/)
+### 17. [Microsoft testing fix for Windows 11 Bluetooth audio quality drops](https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 23 Nov 2026 08:28:45 -0500  
@@ -153,7 +162,7 @@
 
 ---
 
-### 17. [Call center operator gets 8 years for helping scam 30,000 Americans](https://www.bleepingcomputer.com/news/security/call-center-operator-gets-8-years-for-helping-scam-30-000-americans/)
+### 18. [Call center operator gets 8 years for helping scam 30,000 Americans](https://www.bleepingcomputer.com/news/security/call-center-operator-gets-8-years-for-helping-scam-30-000-americans/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 23 Nov 2026 07:02:23 -0500  
@@ -162,7 +171,7 @@
 
 ---
 
-### 18. [Microsoft confirms Windows printing issues affecting Forcepoint users](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/)
+### 19. [Microsoft confirms Windows printing issues affecting Forcepoint users](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 23 Nov 2026 04:11:15 -0500  
@@ -171,22 +180,13 @@
 
 ---
 
-### 19. [CISA flags critical Cisco RCE flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/)
+### 20. [CISA flags critical Cisco RCE flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 23 Nov 2026 02:44:19 -0500  
 **Severity:** Critical  
 **CVEs:** CVE-2026-76466  
 **Categories:** Vulnerability  
-
----
-
-### 20. [Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices](https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/)
-
-**Source:** Bleeping Computer  
-**Published:** Sun, 22 Nov 2026 13:45:37 -0500  
-**Severity:** Low  
-**Categories:** Vulnerability, Malware  
 
 ---
 
@@ -277,7 +277,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 13 Oct 2026 23:24:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-108398, CVE-2026-96951  
+**CVEs:** CVE-2026-96951, CVE-2026-108398  
 **Categories:** Vulnerability  
 
 ---
@@ -343,7 +343,7 @@
 **Source:** Security Week  
 **Published:** Mon, 23 Nov 2026 11:35:15 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-76466, CVE-2025-42884, CVE-2026-123890, CVE-2026-129448  
+**CVEs:** CVE-2026-76466, CVE-2026-123890, CVE-2025-42884, CVE-2026-129448  
 **Categories:** Vulnerability  
 
 ---
@@ -435,7 +435,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 11 Nov 2026 01:41:17 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-118146, CVE-2026-118148, CVE-2026-124194, CVE-2026-113862  
+**CVEs:** CVE-2026-124194, CVE-2026-118148, CVE-2026-113862, CVE-2026-118146  
 **Categories:** Vulnerability  
 
 ---
@@ -467,7 +467,16 @@
 
 ---
 
-### 51. [AI Joins the Industrial Attack Workflow](https://www.recordedfuture.com/blog/ai-industrial-attack-workflow)
+### 51. [What are threat intelligence feeds?](https://www.recordedfuture.com/blog/what-are-threat-intelligence-feeds)
+
+**Source:** Recorded Future  
+**Published:** Mon, 23 Nov 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 52. [AI Joins the Industrial Attack Workflow](https://www.recordedfuture.com/blog/ai-industrial-attack-workflow)
 
 **Source:** Recorded Future  
 **Published:** Fri, 20 Nov 2026 00:00:00 GMT  
@@ -476,7 +485,7 @@
 
 ---
 
-### 52. [Regional Insights: 2027 State of Threat Intelligence](https://www.recordedfuture.com/blog/2027-soti-regional-summaries)
+### 53. [Regional Insights: 2027 State of Threat Intelligence](https://www.recordedfuture.com/blog/2027-soti-regional-summaries)
 
 **Source:** Recorded Future  
 **Published:** Thu, 19 Nov 2026 00:00:00 GMT  
@@ -485,7 +494,7 @@
 
 ---
 
-### 53. [Recorded Future Launches New Automation Capabilities for Tech Stack Watch List](https://www.recordedfuture.com/blog/tech-stack-automation)
+### 54. [Recorded Future Launches New Automation Capabilities for Tech Stack Watch List](https://www.recordedfuture.com/blog/tech-stack-automation)
 
 **Source:** Recorded Future  
 **Published:** Wed, 18 Nov 2026 00:00:00 GMT  
@@ -494,7 +503,7 @@
 
 ---
 
-### 54. [What Is Threat Intelligence Worth? 142 Security Teams Did the Math.](https://www.recordedfuture.com/blog/threat-intelligence-roi)
+### 55. [What Is Threat Intelligence Worth? 142 Security Teams Did the Math.](https://www.recordedfuture.com/blog/threat-intelligence-roi)
 
 **Source:** Recorded Future  
 **Published:** Tue, 17 Nov 2026 00:00:00 GMT  
@@ -503,7 +512,7 @@
 
 ---
 
-### 55. [Five Findings From the 2027 State of Threat Intelligence](https://www.recordedfuture.com/blog/state-of-threat-intelligence-2027)
+### 56. [Five Findings From the 2027 State of Threat Intelligence](https://www.recordedfuture.com/blog/state-of-threat-intelligence-2027)
 
 **Source:** Recorded Future  
 **Published:** Thu, 12 Nov 2026 00:00:00 GMT  
@@ -512,7 +521,7 @@
 
 ---
 
-### 56. [AI Is Both Target and Tool for Threat Actors](https://www.recordedfuture.com/research/ai-cyber-threat-trends-2026)
+### 57. [AI Is Both Target and Tool for Threat Actors](https://www.recordedfuture.com/research/ai-cyber-threat-trends-2026)
 
 **Source:** Recorded Future  
 **Published:** Wed, 11 Nov 2026 00:00:00 GMT  
@@ -521,7 +530,7 @@
 
 ---
 
-### 57. [DoppelCart Fraud Network Grows to More Than 250,000 Domains](https://www.recordedfuture.com/blog/doppelcart-fraud-network-grows-domains)
+### 58. [DoppelCart Fraud Network Grows to More Than 250,000 Domains](https://www.recordedfuture.com/blog/doppelcart-fraud-network-grows-domains)
 
 **Source:** Recorded Future  
 **Published:** Tue, 10 Nov 2026 00:00:00 GMT  
@@ -530,7 +539,7 @@
 
 ---
 
-### 58. [GhostFrame: A new ESXi Implant Linked to Settra Ransomware](https://www.recordedfuture.com/blog/ghostframe-esxi-implant-settra-ransomware)
+### 59. [GhostFrame: A new ESXi Implant Linked to Settra Ransomware](https://www.recordedfuture.com/blog/ghostframe-esxi-implant-settra-ransomware)
 
 **Source:** Recorded Future  
 **Published:** Tue, 10 Nov 2026 00:00:00 GMT  
@@ -539,20 +548,11 @@
 
 ---
 
-### 59. [October 2026 CVE Landscape](https://www.recordedfuture.com/blog/october-2026-cve-landscape)
+### 60. [October 2026 CVE Landscape](https://www.recordedfuture.com/blog/october-2026-cve-landscape)
 
 **Source:** Recorded Future  
 **Published:** Fri, 06 Nov 2026 00:00:00 GMT  
 **Severity:** Critical  
-**Categories:** General Security  
-
----
-
-### 60. [The Shift: Rethinking the Human in the Loop](https://www.recordedfuture.com/blog/the-shift-rethinking-human-in-the-loop)
-
-**Source:** Recorded Future  
-**Published:** Thu, 05 Nov 2026 00:00:00 GMT  
-**Severity:** Low  
 **Categories:** General Security  
 
 ---
@@ -833,70 +833,70 @@
 
 ---
 
-### 91. [CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog)
+### 91. [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog)
+
+**Source:** Cisa Alerts  
+**Published:** Mon, 23 Nov 26 12:00:00 +0000  
+
+---
+
+### 92. [CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog)
 
 **Source:** Cisa Alerts  
 **Published:** Fri, 20 Nov 26 12:00:00 +0000  
 
 ---
 
-### 92. [Elecbrakes EB2, VM1, ELBC2000](https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02)
+### 93. [Elecbrakes EB2, VM1, ELBC2000](https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02)
 
 **Source:** Cisa Alerts  
 **Published:** Thu, 19 Nov 26 12:00:00 +0000  
 
 ---
 
-### 93. [libumqtt](https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03)
+### 94. [libumqtt](https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03)
 
 **Source:** Cisa Alerts  
 **Published:** Thu, 19 Nov 26 12:00:00 +0000  
 
 ---
 
-### 94. [Autonomy Logic OpenPLC Runtime](https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01)
+### 95. [Autonomy Logic OpenPLC Runtime](https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01)
 
 **Source:** Cisa Alerts  
 **Published:** Thu, 19 Nov 26 12:00:00 +0000  
 
 ---
 
-### 95. [CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog)
+### 96. [CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog)
 
 **Source:** Cisa Alerts  
 **Published:** Wed, 18 Nov 26 12:00:00 +0000  
 
 ---
 
-### 96. [Siemens Simcenter Femap](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10)
+### 97. [Siemens ROS#](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06)
 
 **Source:** Cisa Alerts  
 **Published:** Tue, 17 Nov 26 12:00:00 +0000  
 
 ---
 
-### 97. [Dorsett Controls InfoScan](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-01)
+### 98. [Dorsett Controls InfoScan](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-01)
 
 **Source:** Cisa Alerts  
 **Published:** Tue, 17 Nov 26 12:00:00 +0000  
 
 ---
 
-### 98. [Siemens Mendix Studio Pro](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-05)
+### 99. [Siemens Mendix Studio Pro](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-05)
 
 **Source:** Cisa Alerts  
 **Published:** Tue, 17 Nov 26 12:00:00 +0000  
 
 ---
 
-### 99. [Siemens .NET Client Library for SIMATIC S7 Webserver API](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-02)
-
-**Source:** Cisa Alerts  
-**Published:** Tue, 17 Nov 26 12:00:00 +0000  
-
----
-
-### 100. [Critical Java Vulnerability Requires Immediate Patching](https://www.cisa.gov/news-events/alerts/2026/11/17/critical-java-vulnerability-requires-immediate-patching)
+### 100. [Siemens .NET Client Library for SIMATIC S7 Webserver API](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-02)
 
 **Source:** Cisa Alerts  
 **Published:** Tue, 17 Nov 26 12:00:00 +0000  
