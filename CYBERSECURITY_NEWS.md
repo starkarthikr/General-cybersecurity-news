@@ -1,10 +1,86 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-23 08:00:22 UTC
+**Last Updated:** 2026-11-23 20:27:55 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms](https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html)
+### 1. [Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access](https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 23 Nov 2026 23:15:15 +0530  
+**Severity:** Medium  
+**Categories:** General Security  
+
+---
+
+### 2. [⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble](https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 23 Nov 2026 20:40:48 +0530  
+**Severity:** Low  
+**Categories:** Malware, Supply Chain  
+
+---
+
+### 3. [Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions](https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 23 Nov 2026 18:52:20 +0530  
+**Severity:** Critical  
+**CVEs:** CVE-2026-134814  
+**Categories:** Vulnerability  
+
+---
+
+### 4. [Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning](https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 23 Nov 2026 18:11:04 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-84869  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 5. [N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation](https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 23 Nov 2026 17:58:09 +0530  
+**Severity:** Critical  
+**CVEs:** CVE-2026-134624  
+**Categories:** Vulnerability  
+
+---
+
+### 6. [Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE](https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 23 Nov 2026 14:41:56 +0530  
+**Severity:** Critical  
+**CVEs:** CVE-2026-131914  
+**Categories:** Vulnerability  
+
+---
+
+### 7. [Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices](https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 23 Nov 2026 14:34:08 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 8. [AI-Assisted Cyber Attacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms](https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 23 Nov 2026 13:54:15 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 9. [OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms](https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 22 Nov 2026 10:36:55 +0530  
@@ -13,7 +89,7 @@
 
 ---
 
-### 2. [Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps](https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html)
+### 10. [Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps](https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 22 Nov 2026 10:33:41 +0530  
@@ -23,81 +99,79 @@
 
 ---
 
-### 3. [A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats](https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html)
+### 11. [OpenRouter drops AI providers over leaked prompts and secrets](https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/)
 
-**Source:** The Hacker News  
-**Published:** Sat, 21 Nov 2026 17:23:07 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 23 Nov 2026 15:00:20 -0500  
+**Severity:** Low  
+**Categories:** Data Breach  
+
+---
+
+### 12. [Microsoft Azure flaw exploited to steal customers' API credentials](https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 23 Nov 2026 14:42:20 -0500  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 13. [Spanish LaLiga confirms hackers stole soccer fans’ personal data](https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 23 Nov 2026 13:38:40 -0500  
+**Severity:** Low  
+**Categories:** Data Breach  
+
+---
+
+### 14. [GlobeTopper loses $2.5 million after hackers steal $70k in gift cards](https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 23 Nov 2026 11:50:01 -0500  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 4. [GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys](https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html)
+### 15. [AI Agents Are Creating a Shared Responsibility Gap](https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/)
 
-**Source:** The Hacker News  
-**Published:** Sat, 21 Nov 2026 16:35:53 +0530  
-**Severity:** Critical  
-**CVEs:** CVE-2026-129975  
-**Categories:** Vulnerability  
-
----
-
-### 5. [Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access](https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html)
-
-**Source:** The Hacker News  
-**Published:** Sat, 21 Nov 2026 16:33:17 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 6. [Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS](https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html)
-
-**Source:** The Hacker News  
-**Published:** Sat, 21 Nov 2026 14:19:20 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 23 Nov 2026 10:00:10 -0500  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 7. [Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge](https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html)
+### 16. [Microsoft testing fix for Windows 11 Bluetooth audio quality drops](https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/)
 
-**Source:** The Hacker News  
-**Published:** Sat, 21 Nov 2026 14:19:13 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
+**Source:** Bleeping Computer  
+**Published:** Mon, 23 Nov 2026 08:28:45 -0500  
+**Severity:** High  
+**Categories:** General Security  
 
 ---
 
-### 8. [WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams](https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html)
+### 17. [Call center operator gets 8 years for helping scam 30,000 Americans](https://www.bleepingcomputer.com/news/security/call-center-operator-gets-8-years-for-helping-scam-30-000-americans/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 20 Nov 2026 23:27:20 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 23 Nov 2026 07:02:23 -0500  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 9. [Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control](https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html)
+### 18. [Microsoft confirms Windows printing issues affecting Forcepoint users](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 20 Nov 2026 22:28:16 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 23 Nov 2026 04:11:15 -0500  
 **Severity:** Low  
-**Categories:** Malware, Phishing  
+**Categories:** Supply Chain  
 
 ---
 
-### 10. [Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts](https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 20 Nov 2026 17:50:00 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-99312  
-**Categories:** Vulnerability  
-
----
-
-### 11. [CISA flags critical Cisco RCE flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/)
+### 19. [CISA flags critical Cisco RCE flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 23 Nov 2026 02:44:19 -0500  
@@ -107,84 +181,12 @@
 
 ---
 
-### 12. [Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices](https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/)
+### 20. [Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices](https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 22 Nov 2026 13:45:37 -0500  
 **Severity:** Low  
 **Categories:** Vulnerability, Malware  
-
----
-
-### 13. [Cleverbridge warns hackers stole credit card numbers, CVVs in data breach](https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/)
-
-**Source:** Bleeping Computer  
-**Published:** Sun, 22 Nov 2026 10:43:04 -0500  
-**Severity:** Low  
-**Categories:** Data Breach  
-
----
-
-### 14. [Signal to block Siri, Gemini AI from capturing chats on iOS, Android](https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/)
-
-**Source:** Bleeping Computer  
-**Published:** Sun, 22 Nov 2026 10:15:25 -0500  
-**Severity:** Low  
-**Categories:** APT  
-
----
-
-### 15. [Rackspace Spot breach let hackers access customer Kubernetes secrets](https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 21 Nov 2026 17:59:58 -0500  
-**Severity:** Low  
-**Categories:** Data Breach  
-
----
-
-### 16. [Microsoft Entra Connect Health flaw exploited to steal tenant data](https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 21 Nov 2026 13:01:58 -0500  
-**Severity:** Low  
-**Categories:** Data Breach, Vulnerability  
-
----
-
-### 17. [BADBOX botnet returns with record-breaking 40 billion daily ad requests](https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 21 Nov 2026 10:17:27 -0500  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 18. [FBI reportedly hacked again, this time targeting nationwide police database](https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 21 Nov 2026 09:26:04 -0500  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 19. [Bell Canada says 'agentic' hacker stole enterprise customer data](https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 20 Nov 2026 13:51:43 -0500  
-**Severity:** High  
-**Categories:** General Security  
-
----
-
-### 20. [Hackers use autonomous AI tool Cairn to find zero-day, take over server](https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 20 Nov 2026 12:30:00 -0500  
-**Severity:** Critical  
-**Categories:** Vulnerability  
 
 ---
 
@@ -275,12 +277,87 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 13 Oct 2026 23:24:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-96951, CVE-2026-108398  
+**CVEs:** CVE-2026-108398, CVE-2026-96951  
 **Categories:** Vulnerability  
 
 ---
 
-### 31. [FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says](https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/)
+### 31. [Azure Flaw Exploited to Target Secrets at Norwegian Energy Firms](https://www.securityweek.com/azure-flaw-exploited-to-target-secrets-at-norwegian-energy-firms/)
+
+**Source:** Security Week  
+**Published:** Mon, 23 Nov 2026 15:47:40 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 32. [N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack](https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/)
+
+**Source:** Security Week  
+**Published:** Mon, 23 Nov 2026 15:06:49 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-134624  
+**Categories:** Vulnerability  
+
+---
+
+### 33. [phpAfterShell Vulnerability Revives PHP2Shell’s Attack Path](https://www.securityweek.com/phpaftershell-vulnerability-revives-php2shells-attack-path/)
+
+**Source:** Security Week  
+**Published:** Mon, 23 Nov 2026 13:58:07 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-126714  
+**Categories:** Vulnerability  
+
+---
+
+### 34. [GL.iNet Routers, KVMs Compromised via Remote Management Service Flaw](https://www.securityweek.com/gl-inet-routers-kvms-compromised-via-remote-management-service-flaw/)
+
+**Source:** Security Week  
+**Published:** Mon, 23 Nov 2026 13:26:22 +0000  
+**Severity:** Low  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 35. [AI Inference Providers Failed to Detect Hacking and Prompt Theft, Says Dragos](https://www.securityweek.com/ai-inference-providers-failed-to-detect-hacking-and-prompt-theft-says-dragos/)
+
+**Source:** Security Week  
+**Published:** Mon, 23 Nov 2026 12:16:20 +0000  
+**Severity:** Critical  
+**Categories:** Data Breach, Vulnerability  
+
+---
+
+### 36. [BadBox 3.0 Ad Fraud Operation Generating 40 Billion Daily Bid Requests Disrupted](https://www.securityweek.com/badbox-3-0-ad-fraud-operation-generating-40-billion-daily-bid-requests-disrupted/)
+
+**Source:** Security Week  
+**Published:** Mon, 23 Nov 2026 11:44:18 +0000  
+**Severity:** High  
+**Categories:** Malware, Phishing, Supply Chain  
+
+---
+
+### 37. [SAP NetWeaver, Cisco Expressway Flaws Exploited in Attacks](https://www.securityweek.com/sap-netweaver-cisco-expressway-flaws-exploited-in-attacks/)
+
+**Source:** Security Week  
+**Published:** Mon, 23 Nov 2026 11:35:15 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-76466, CVE-2025-42884, CVE-2026-123890, CVE-2026-129448  
+**Categories:** Vulnerability  
+
+---
+
+### 38. [CrowdStrike to Acquire Zscaler in $43.9 Billion Deal](https://www.securityweek.com/crowdstrike-to-acquire-zscaler-in-43-9-billion-deal/)
+
+**Source:** Security Week  
+**Published:** Mon, 23 Nov 2026 11:31:44 +0000  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 39. [FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says](https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/)
 
 **Source:** Security Week  
 **Published:** Sun, 22 Nov 2026 00:53:02 +0000  
@@ -289,86 +366,12 @@
 
 ---
 
-### 32. [President Trump Taps Kirsten Davies as National Cyber Director](https://www.securityweek.com/president-trump-taps-kirsten-davies-as-national-cyber-director/)
+### 40. [President Trump Taps Kirsten Davies as National Cyber Director](https://www.securityweek.com/president-trump-taps-kirsten-davies-as-national-cyber-director/)
 
 **Source:** Security Week  
 **Published:** Sat, 21 Nov 2026 13:00:00 +0000  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 33. [Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day](https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/)
-
-**Source:** Security Week  
-**Published:** Sat, 21 Nov 2026 12:08:50 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 34. [WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign](https://www.securityweek.com/whatsapp-fixes-flaw-uncovered-while-disrupting-scam-campaign/)
-
-**Source:** Security Week  
-**Published:** Fri, 20 Nov 2026 16:01:02 +0000  
-**Severity:** Medium  
-**CVEs:** CVE-2026-44908, CVE-2026-102769, CVE-2026-23871  
-**Categories:** Vulnerability, Supply Chain  
-
----
-
-### 35. [In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New Nightmare Eclipse Exploit](https://www.securityweek.com/in-other-news-norwegian-energy-firm-cyberattacks-supercomputer-hack-new-nightmare-eclipse-exploit/)
-
-**Source:** Security Week  
-**Published:** Fri, 20 Nov 2026 14:56:23 +0000  
-**Severity:** Critical  
-**Categories:** Ransomware, Data Breach, Vulnerability, Malware, Supply Chain  
-
----
-
-### 36. [Industry Reactions to Major Outages and AI Patching Debate: Feedback Friday](https://www.securityweek.com/industry-reactions-to-major-outages-and-ai-patching-questions-feedback-friday/)
-
-**Source:** Security Week  
-**Published:** Fri, 20 Nov 2026 12:38:55 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 37. [SBC Medical Group Data Breach Impacts Over 2 Million](https://www.securityweek.com/sbc-medical-group-data-breach-impacts-over-2-million/)
-
-**Source:** Security Week  
-**Published:** Fri, 20 Nov 2026 11:36:51 +0000  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach, Supply Chain  
-
----
-
-### 38. [European Commission Confirms AI-Assisted Cyberattack Disrupted Services](https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/)
-
-**Source:** Security Week  
-**Published:** Fri, 20 Nov 2026 10:51:42 +0000  
-**Severity:** High  
-**Categories:** Ransomware, Data Breach, Supply Chain  
-
----
-
-### 39. [Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE](https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/)
-
-**Source:** Security Week  
-**Published:** Fri, 20 Nov 2026 10:34:10 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-132825  
-**Categories:** Vulnerability  
-
----
-
-### 40. [N-able Blames Service Disruption on Cyberattack](https://www.securityweek.com/n-able-blames-service-disruption-on-cyberattack/)
-
-**Source:** Security Week  
-**Published:** Fri, 20 Nov 2026 09:08:35 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, Phishing, APT  
 
 ---
 
@@ -432,7 +435,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 11 Nov 2026 01:41:17 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-118148, CVE-2026-124194, CVE-2026-113862, CVE-2026-118146  
+**CVEs:** CVE-2026-118146, CVE-2026-118148, CVE-2026-124194, CVE-2026-113862  
 **Categories:** Vulnerability  
 
 ---
@@ -649,7 +652,43 @@
 
 ---
 
-### 71. [US launches center to disrupt scams and warn victims sooner](https://www.malwarebytes.com/blog/news/2026/11/us-launches-center-to-disrupt-scams-and-warn-victims-sooner)
+### 71. [Muse AI got nosy and started making things up, Meta insiders say](https://www.malwarebytes.com/blog/ai/2026/11/muse-ai-got-nosy-and-started-making-things-up-meta-insiders-say)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 23 Nov 2026 15:37:05 GMT  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 72. [FBI crime database reportedly hacked](https://www.malwarebytes.com/blog/data-breaches/2026/11/fbi-crime-database-reportedly-hacked)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 23 Nov 2026 12:57:11 GMT  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 73. [OXLoader abuses DLL hijacking to distribute different malware families](https://www.malwarebytes.com/blog/threat-intel/2026/11/oxloader-abuses-dll-hijacking-to-distribute-different-malware-families)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 23 Nov 2026 11:35:39 GMT  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 74. [A week in security (November 16 – November 22)](https://www.malwarebytes.com/blog/news/2026/11/a-week-in-security-november-16-november-22)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 23 Nov 2026 08:01:00 GMT  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 75. [US launches center to disrupt scams and warn victims sooner](https://www.malwarebytes.com/blog/news/2026/11/us-launches-center-to-disrupt-scams-and-warn-victims-sooner)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 20 Nov 2026 13:49:11 GMT  
@@ -658,7 +697,7 @@
 
 ---
 
-### 72. [Hackers leak data linked to Visa, Mastercard, and JPMorgan customers](https://www.malwarebytes.com/blog/data-breaches/2026/11/hackers-leak-data-linked-to-visa-mastercard-and-jpmorgan-customers)
+### 76. [Hackers leak data linked to Visa, Mastercard, and JPMorgan customers](https://www.malwarebytes.com/blog/data-breaches/2026/11/hackers-leak-data-linked-to-visa-mastercard-and-jpmorgan-customers)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 20 Nov 2026 12:51:36 GMT  
@@ -667,7 +706,7 @@
 
 ---
 
-### 73. [Deepfake Elon Musk  nearly costs viewers $4.7 million in crypto](https://www.malwarebytes.com/blog/ai/2026/11/deepfake-elon-musk-nearly-costs-viewers-4-7-million-in-crypto)
+### 77. [Deepfake Elon Musk  nearly costs viewers $4.7 million in crypto](https://www.malwarebytes.com/blog/ai/2026/11/deepfake-elon-musk-nearly-costs-viewers-4-7-million-in-crypto)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 19 Nov 2026 17:26:39 GMT  
@@ -676,7 +715,7 @@
 
 ---
 
-### 74. [Chrome patches six critical flaws, two found with AI’s help](https://www.malwarebytes.com/blog/bugs/2026/11/chrome-patches-six-critical-flaws-two-found-with-ais-help)
+### 78. [Chrome patches six critical flaws, two found with AI’s help](https://www.malwarebytes.com/blog/bugs/2026/11/chrome-patches-six-critical-flaws-two-found-with-ais-help)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 19 Nov 2026 12:38:38 GMT  
@@ -685,7 +724,7 @@
 
 ---
 
-### 75. [Scattered Spider’s phishing and SIM-swap tactics led to six-year sentence](https://www.malwarebytes.com/blog/news/2026/11/scattered-spiders-phishing-and-sim-swap-tactics-led-to-six-year-sentence)
+### 79. [Scattered Spider’s phishing and SIM-swap tactics led to six-year sentence](https://www.malwarebytes.com/blog/news/2026/11/scattered-spiders-phishing-and-sim-swap-tactics-led-to-six-year-sentence)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 19 Nov 2026 09:41:18 GMT  
@@ -694,49 +733,12 @@
 
 ---
 
-### 76. [Outage or attack? Don’t let social media fill in the gaps](https://www.malwarebytes.com/blog/ai/2026/11/outage-or-attack-dont-let-social-media-fill-in-the-gaps)
+### 80. [Outage or attack? Don’t let social media fill in the gaps](https://www.malwarebytes.com/blog/ai/2026/11/outage-or-attack-dont-let-social-media-fill-in-the-gaps)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 18 Nov 2026 22:07:01 GMT  
 **Severity:** Low  
 **Categories:** Ransomware  
-
----
-
-### 77. [GTA 6 scams could cost you your account, money, or crypto](https://www.malwarebytes.com/blog/scams/2026/11/gta-6-scams-could-cost-you-your-account-money-or-crypto)
-
-**Source:** Malwarebytes  
-**Published:** Wed, 18 Nov 2026 22:06:05 GMT  
-**Severity:** High  
-**Categories:** General Security  
-
----
-
-### 78. [Who protects the antivirus? How we secure Malwarebytes itself](https://www.malwarebytes.com/blog/inside-malwarebytes/2026/11/who-protects-the-antivirus-how-we-secure-malwarebytes-itself)
-
-**Source:** Malwarebytes  
-**Published:** Wed, 18 Nov 2026 13:32:54 GMT  
-**Severity:** High  
-**Categories:** Ransomware, Vulnerability, Malware  
-
----
-
-### 79. [Java4Shell: A critical flaw with a narrow reach](https://www.malwarebytes.com/blog/bugs/2026/11/java4shell-a-critical-flaw-with-a-narrow-reach)
-
-**Source:** Malwarebytes  
-**Published:** Wed, 18 Nov 2026 11:41:07 GMT  
-**Severity:** Critical  
-**CVEs:** CVE-2026-114938  
-**Categories:** Vulnerability  
-
----
-
-### 80. [OpenAI lost control of AI agents over 80 times, California alleges](https://www.malwarebytes.com/blog/ai/2026/11/openai-lost-control-of-ai-agents-over-80-times-california-alleges)
-
-**Source:** Malwarebytes  
-**Published:** Tue, 17 Nov 2026 18:29:25 GMT  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -759,16 +761,16 @@
 
 ---
 
-### 83. [CrowdStrike Brings the Human Advantage to AI Detection and Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-human-advantage-aidr/)
+### 83. [CrowdStrike Is Building the Engine of the Agentic SOC with Falcon Next-Gen SIEM](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-gartner-mq-siem/)
 
 **Source:** Crowdstrike Blog  
-**Published:** Nov 18, 2026 00:00:00-0600  
+**Published:** Nov 18, 2026 00:00:00-0800  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 84. [CrowdStrike Is Building the Engine of the Agentic SOC with Falcon Next-Gen SIEM](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-gartner-mq-siem/)
+### 84. [CrowdStrike Brings the Human Advantage to AI Detection and Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-human-advantage-aidr/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Nov 18, 2026 00:00:00-0600  
