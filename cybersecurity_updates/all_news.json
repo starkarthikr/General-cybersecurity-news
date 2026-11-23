@@ -188,6 +188,26 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
+    "published": "Mon, 23 Nov 2026 02:44:19 -0500",
+    "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild. [...]",
+    "analysis": {
+      "issue": "​The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-76466"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
     "published": "Sun, 22 Nov 2026 13:45:37 -0500",
@@ -347,25 +367,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
-    "link": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
-    "published": "Fri, 20 Nov 2026 10:58:06 -0500",
-    "summary": "J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]",
-    "analysis": {
-      "issue": "Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Supply Chain"
       ]
     }
   },
@@ -626,9 +627,9 @@
       "timeline": null,
       "severity": "Medium",
       "cves": [
-        "CVE-2026-23871",
+        "CVE-2026-44908",
         "CVE-2026-102769",
-        "CVE-2026-44908"
+        "CVE-2026-23871"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1297,8 +1298,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",

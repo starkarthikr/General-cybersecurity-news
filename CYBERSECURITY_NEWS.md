@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-23 06:54:01 UTC
+**Last Updated:** 2026-11-23 08:00:22 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -97,7 +97,17 @@
 
 ---
 
-### 11. [Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices](https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/)
+### 11. [CISA flags critical Cisco RCE flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 23 Nov 2026 02:44:19 -0500  
+**Severity:** Critical  
+**CVEs:** CVE-2026-76466  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices](https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 22 Nov 2026 13:45:37 -0500  
@@ -106,7 +116,7 @@
 
 ---
 
-### 12. [Cleverbridge warns hackers stole credit card numbers, CVVs in data breach](https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/)
+### 13. [Cleverbridge warns hackers stole credit card numbers, CVVs in data breach](https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 22 Nov 2026 10:43:04 -0500  
@@ -115,7 +125,7 @@
 
 ---
 
-### 13. [Signal to block Siri, Gemini AI from capturing chats on iOS, Android](https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/)
+### 14. [Signal to block Siri, Gemini AI from capturing chats on iOS, Android](https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 22 Nov 2026 10:15:25 -0500  
@@ -124,7 +134,7 @@
 
 ---
 
-### 14. [Rackspace Spot breach let hackers access customer Kubernetes secrets](https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/)
+### 15. [Rackspace Spot breach let hackers access customer Kubernetes secrets](https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 21 Nov 2026 17:59:58 -0500  
@@ -133,7 +143,7 @@
 
 ---
 
-### 15. [Microsoft Entra Connect Health flaw exploited to steal tenant data](https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/)
+### 16. [Microsoft Entra Connect Health flaw exploited to steal tenant data](https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 21 Nov 2026 13:01:58 -0500  
@@ -142,7 +152,7 @@
 
 ---
 
-### 16. [BADBOX botnet returns with record-breaking 40 billion daily ad requests](https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/)
+### 17. [BADBOX botnet returns with record-breaking 40 billion daily ad requests](https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 21 Nov 2026 10:17:27 -0500  
@@ -151,7 +161,7 @@
 
 ---
 
-### 17. [FBI reportedly hacked again, this time targeting nationwide police database](https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/)
+### 18. [FBI reportedly hacked again, this time targeting nationwide police database](https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 21 Nov 2026 09:26:04 -0500  
@@ -160,7 +170,7 @@
 
 ---
 
-### 18. [Bell Canada says 'agentic' hacker stole enterprise customer data](https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/)
+### 19. [Bell Canada says 'agentic' hacker stole enterprise customer data](https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Nov 2026 13:51:43 -0500  
@@ -169,21 +179,12 @@
 
 ---
 
-### 19. [Hackers use autonomous AI tool Cairn to find zero-day, take over server](https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/)
+### 20. [Hackers use autonomous AI tool Cairn to find zero-day, take over server](https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Nov 2026 12:30:00 -0500  
 **Severity:** Critical  
 **Categories:** Vulnerability  
-
----
-
-### 20. [Vendor data breach exposes Chase, Visa, Mastercard customer info](https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 20 Nov 2026 10:58:06 -0500  
-**Severity:** Low  
-**Categories:** Data Breach, Supply Chain  
 
 ---
 
@@ -311,7 +312,7 @@
 **Source:** Security Week  
 **Published:** Fri, 20 Nov 2026 16:01:02 +0000  
 **Severity:** Medium  
-**CVEs:** CVE-2026-23871, CVE-2026-102769, CVE-2026-44908  
+**CVEs:** CVE-2026-44908, CVE-2026-102769, CVE-2026-23871  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -633,7 +634,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
