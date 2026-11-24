@@ -1,6 +1,150 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
+    "link": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
+    "published": "Tue, 24 Nov 2026 22:24:07 +0530",
+    "summary": "A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus.\n\nCentral to the group's operations is a backdoor called KuboShell that uses the InterPlanetary File System (IPFS) for command-and-control (C2) and deploys Homa, a post-compromise framework that's a reimplementation of",
+    "analysis": {
+      "issue": "Iran-aligned Volant Manticore targets Cyprus and Saudi Arabia using the IPFS-based KuboShell backdoor and a reworked MuddyWater framework",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
+    "link": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
+    "published": "Tue, 24 Nov 2026 18:58:26 +0530",
+    "summary": "Broadcom has shipped patches to address 23 vulnerabilities impacting VMware ESX, vCenter, Workstation, Fusion, and Avi Load Balancer, including one critical bug that could be abused to bypass authentication.\n\nThe critical vulnerability, tracked as CVE-2026-123903, is rated 9.8 out of 10.0 on the CVSS scoring system. It resides in the VMware Directory Service (\"vmdir\").\n\n\"A malicious actor with",
+    "analysis": {
+      "issue": "Broadcom patches 23 VMware flaws, including a critical vCenter authentication bypass that could allow unauthorized access to the system",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
+    "link": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html",
+    "published": "Tue, 24 Nov 2026 18:58:21 +0530",
+    "summary": "A threat cluster previously assessed to be affiliated with the ShinyHunters extortion crew may have rebranded and continued operations under a new name called INCEPTION, according to Okta's Threat Intelligence team.\n\nThe cluster, dubbed O-UNC-053, is characterized by the use of voice phishing (aka vishing) attacks to trick targets into entering credentials in phishing pages and approving",
+    "analysis": {
+      "issue": "Okta links an active vishing cluster previously associated with ShinyHunters to the INCEPTION leak site, but its operators remain unconfirmed",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
+    "link": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
+    "published": "Tue, 24 Nov 2026 18:12:09 +0530",
+    "summary": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it.\n\nIn March 2026, the hackers who hijacked Trivy, a widely used open-source security scanner, planted malicious code that looked like it came from GitHub's official checkout tool. They even labeled it a",
+    "analysis": {
+      "issue": "GitHub Actions attackers exploited SHA pinning trust gaps to disguise malicious commits, while new workflow lockfiles leave provenance risks unresolve",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
+    "link": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html",
+    "published": "Tue, 24 Nov 2026 17:32:00 +0530",
+    "summary": "A quirk in how the .NET Framework loads a program file let a local attacker run untrusted code past two separate protections on Windows built to block it, Google Project Zero researcher James Forshaw showed in a write-up published yesterday.\n\nThe same loading behavior bypassed Oracle VirtualBox's process hardening on Windows hosts, tracked as CVE-2026-87268, and Windows code integrity, tracked",
+    "analysis": {
+      "issue": "Google Project Zero details how",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk",
+    "link": "https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html",
+    "published": "Tue, 24 Nov 2026 17:31:54 +0530",
+    "summary": "What if your biggest SOC budget problem isn't how much you spend, but how much analyst time you lose?\n\nAccording to ANY.RUN's estimates, SOC teams could recover 450 analyst hours per 1,000 investigated alerts through faster threat analysis and IOC research. That's a significant opportunity as manual investigations, repeated checks, and unnecessary escalations continue to drain resources.\n\nAs",
+    "analysis": {
+      "issue": "2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk | Read more hacking news on The Hacker News cybersecurity news website and learn how to protect against cyberattacks and software vulnerabilities",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets",
+    "link": "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html",
+    "published": "Tue, 24 Nov 2026 16:14:49 +0530",
+    "summary": "Norway's National Security Authority (NSM) has disclosed that it became aware of a security vulnerability in Microsoft's Azure API Management (APIM) that has affected multiple businesses in the country, including energy companies Equinor and Skagerak Energi.\n\n\"An unknown actor has been actively looking for access tokens, secrets, and named values ​​in APIM,\" NSM said. \"It is still uncertain how",
+    "analysis": {
+      "issue": "Microsoft fixed an Azure API Management Classic flaw that could expose secrets in improperly secured instances as an unknown actor sought credentials",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login",
+    "link": "https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html",
+    "published": "Tue, 24 Nov 2026 14:04:20 +0530",
+    "summary": "A flaw in WHMCS's shopping cart, the billing and automation platform many web hosting companies use to run their businesses, could allow anyone on the internet to retrieve customer records and administrator password hashes from an installation's database. No login is needed.\n\nThe company disclosed the SQL injection yesterday along with two other flaws that need a logged-in client, and released",
+    "analysis": {
+      "issue": "WHMCS fixes an unauthenticated SQL injection that could expose customer records and admin password hashes, along with two other vulnerabilities",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching",
     "link": "https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html",
     "published": "Tue, 24 Nov 2026 11:32:57 +0530",
@@ -36,150 +180,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
-    "link": "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html",
-    "published": "Mon, 23 Nov 2026 23:15:15 +0530",
-    "summary": "The China-aligned threat actor known as Webworm is suspected to be using a custom version of the open-source SoftEther VPN Bridge tool in an attempt to remove recognizable detection fingerprints, while disguising it as network-monitoring software to establish covert remote access to compromised networks.\n\nThe modified variant \"implements various tricks to hide itself from security tools,\"",
+    "source": "Bleeping Computer",
+    "title": "Rackspace shuts down Spot cloud platform after security breach",
+    "link": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
+    "published": "Tue, 24 Nov 2026 16:37:30 -0500",
+    "summary": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and download their data. [...]",
     "analysis": {
-      "issue": "Rapid7 links a stealth-focused SoftEther VPN Bridge variant to Webworm with moderate confidence, detailing changes designed to evade detection",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Medium",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble",
-    "link": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
-    "published": "Mon, 23 Nov 2026 20:40:48 +0530",
-    "summary": "A stolen key. A trusted message. A routine update. None of these looks like the start of a major security problem. That's partly why they work. Attackers don't always need to break down a door. Sometimes they just use one that's already open.\n\nThis week's stories show how quickly a small opening can turn into a much bigger mess. One breach helps attackers reach another target. Tools people rely",
-    "analysis": {
-      "issue": "This week's cyber roundup covers VMware 0-day attacks, Java4Shell, NGINX2Root, Ruby2Shell, AI supply chain threats, router backdoors, and more",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
-    "link": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html",
-    "published": "Mon, 23 Nov 2026 18:52:20 +0530",
-    "summary": "A critical security flaw has been disclosed in the popular binary-parser library that could allow an attacker who controls parser definitions to execute arbitrary code.\n\nThe vulnerability, tracked as CVE-2026-134814 (CVSS score: 9.2 / 8.1), is a case of code injection impacting binary-parser versions prior to 2.3.1.\n\n\"Binary-parser before 2.3.1 contains a code injection vulnerability that allows",
-    "analysis": {
-      "issue": "Critical binary-parser flaw CVE-2026-134814 allows code execution via attacker-controlled parser definitions",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-134814"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning",
-    "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html",
-    "published": "Mon, 23 Nov 2026 18:11:04 +0530",
-    "summary": "Threat actors are exploiting a now-patched security flaw in ConnectWise ScreenConnect to target managed service provider (MSP) servers.\n\nThe activity revolves around CVE-2026-84869 (CVSS score: 9.9), a critical ScreenConnect client flaw that allows a guest to transfer and execute a malicious payload on a connecting technician's host.\n\n\"On November 12, 2026, we observed one managed service",
-    "analysis": {
-      "issue": "Attackers exploit CVE-2026-84869 in ConnectWise ScreenConnect to execute malware on MSP technician PCs and deploy rogue remote access clients",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-84869"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation",
-    "link": "https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html",
-    "published": "Mon, 23 Nov 2026 17:58:09 +0530",
-    "summary": "N-able yesterday disclosed a critical flaw it found while investigating the breach of its Mail Assure and SpamExperts Hosted Cloud, an email filtering service it runs for managed service providers.\n\nThe bug, tracked as CVE-2026-134624, is a server-side request forgery (SSRF) flaw. It allowed a user with high-level API access to open connections to internal systems of the user's choosing on the",
-    "analysis": {
-      "issue": "N-able patched critical Mail Assure SSRF flaw CVE-2026-134624 during a cloud breach investigation; its role in the attack remains unknown",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-134624"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
-    "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html",
-    "published": "Mon, 23 Nov 2026 14:41:56 +0530",
-    "summary": "Cybersecurity researchers have urged users to discontinue using a legacy ASP.NET anti-CSRF library named Idunno.AntiCsrf (\"Idunno.AntiCsrf.dll\") following the discovery of a critical vulnerability that has been exploited in the wild.\n\nThe vulnerability, tracked as CVE-2026-131914, carries a CVSS score of 9.3 out of 10.0. The issue affects versions 0.9.1.0 and 0.9.1 Beta, and relates to an",
-    "analysis": {
-      "issue": "Hackers are exploiting CVE-2026-131914, a critical unpatched Idunno",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-131914"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices",
-    "link": "https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html",
-    "published": "Mon, 23 Nov 2026 14:34:08 +0530",
-    "summary": "Hackers exploited a vulnerability in GL.iNet's GoodCloud remote management service to install malware on some customer routers and KVM devices, the maker of travel routers and remote-access KVM hardware said in a security notice updated today.\n\nThe company identified and fixed the flaw on Friday and blocked the access the attacker used, so devices can no longer be infected through this route.",
-    "analysis": {
-      "issue": "iNet GoodCloud flaw to infect routers and KVMs",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "AI-Assisted Cyber Attacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms",
-    "link": "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html",
-    "published": "Mon, 23 Nov 2026 13:54:15 +0530",
-    "summary": "The Indian Computer Emergency Response Team (CERT-In) has warned that threat actors are carrying out artificial intelligence (AI)-assisted cyber attacks targeting information and communication technology (ICT) assets in the country.\n\nThis unsanctioned activity has resulted in unauthorized financial transactions at banking and financial services entities, as well as technology service providers",
-    "analysis": {
-      "issue": "CERT-In warns AI-assisted attacks are abusing trusted business workflows to trigger unauthorized payments at Indian financial and technology firms",
+      "issue": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and download their data",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -192,120 +199,31 @@
   },
   {
     "source": "Bleeping Computer",
-    "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
-    "link": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
-    "published": "Mon, 23 Nov 2026 15:54:51 -0500",
-    "summary": "A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data. [...]",
+    "title": "New Inception extortion gang launches large-scale vishing campaign",
+    "link": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
+    "published": "Tue, 24 Nov 2026 15:21:20 -0500",
+    "summary": "A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]",
     "analysis": {
-      "issue": "A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data",
+      "issue": "A newly formed data extortion group named ‘Inception’ has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Critical",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "Data Breach"
+        "Data Breach",
+        "Phishing"
       ]
     }
   },
   {
     "source": "Bleeping Computer",
-    "title": "OpenRouter drops AI providers over leaked prompts and secrets",
-    "link": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/",
-    "published": "Mon, 23 Nov 2026 15:00:20 -0500",
-    "summary": "OpenRouter removed three AI providers from its platform after discovering that they had violated their stated data-handling policies and exposed sensitive data. [...]",
+    "title": "Turnitin discloses cyberattack affecting customer-facing systems",
+    "link": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
+    "published": "Tue, 24 Nov 2026 13:59:52 -0500",
+    "summary": "Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...]",
     "analysis": {
-      "issue": "OpenRouter removed three AI providers from its platform after discovering that they had violated their stated data-handling policies and exposed sensitive data",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft Azure flaw exploited to steal customers' API credentials",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
-    "published": "Mon, 23 Nov 2026 14:42:20 -0500",
-    "summary": "Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to cyberattacks against energy companies. [...]",
-    "analysis": {
-      "issue": "Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to cyberattacks against energy companies",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Spanish LaLiga confirms hackers stole soccer fans’ personal data",
-    "link": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/",
-    "published": "Mon, 23 Nov 2026 13:38:40 -0500",
-    "summary": "LaLiga, Spain's top men's football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs. [...]",
-    "analysis": {
-      "issue": "LaLiga, Spain's top men's professional football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
-    "link": "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/",
-    "published": "Mon, 23 Nov 2026 11:50:01 -0500",
-    "summary": "A cyberattack disrupted operations at B2B top-up solutions provider GlobeTopper, causing an estimated $2.5 million in lost revenue, while the attacker redeemed digital gift cards worth $70,000. [...]",
-    "analysis": {
-      "issue": "A cyberattack disrupted operations at B2B top-up solutions provider GlobeTopper, causing an estimated $2",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "AI Agents Are Creating a Shared Responsibility Gap",
-    "link": "https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/",
-    "published": "Mon, 23 Nov 2026 10:00:10 -0500",
-    "summary": "AI agents operate across multiple platforms, creating security gaps when no single vendor can see or control their actions. Token Security examines the shared responsibility problem and explains how organizations can better manage agent identities, permissions, and accountability. [...]",
-    "analysis": {
-      "issue": "Frontier AI labs are very clear about their responsibilities: making the model more robust, better guarded, and harder to hijack",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft testing fix for Windows 11 Bluetooth audio quality drops",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/",
-    "published": "Mon, 23 Nov 2026 08:28:45 -0500",
-    "summary": "Microsoft is working to fix a long-standing Windows issue that has been causing significant audio quality drops for Bluetooth headphone users. [...]",
-    "analysis": {
-      "issue": "Microsoft is working to fix a long-standing Windows issue that has been causing significant audio quality drops for Bluetooth headphone users",
+      "issue": "Educational technology company Turnitin disclosed that it detected unauthorized activity involving certain customer-facing systems and deployed its incident response plan",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -318,12 +236,89 @@
   },
   {
     "source": "Bleeping Computer",
-    "title": "Call center operator gets 8 years for helping scam 30,000 Americans",
-    "link": "https://www.bleepingcomputer.com/news/security/call-center-operator-gets-8-years-for-helping-scam-30-000-americans/",
-    "published": "Mon, 23 Nov 2026 07:02:23 -0500",
-    "summary": "A Peruvian call center operator was sentenced to eight years in prison for helping steal millions of dollars from over 30,000 Spanish-speaking US residents in a years-long government-impersonation fraud scheme. [...]",
+    "title": "Radware discloses breach exposing customer cloud access keys",
+    "link": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
+    "published": "Tue, 24 Nov 2026 12:49:05 -0500",
+    "summary": "Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left exposed online. [...]",
     "analysis": {
-      "issue": "A Peruvian call center operator was sentenced to eight years in prison for helping steal millions of dollars from over 30,000 Spanish-speaking US residents in a years-long government-impersonation fraud scheme",
+      "issue": "Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left exposed online",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
+    "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
+    "published": "Tue, 24 Nov 2026 11:30:19 -0500",
+    "summary": "The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]",
+    "analysis": {
+      "issue": "The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "European Commission confirms data theft in EU Academy breach",
+    "link": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
+    "published": "Tue, 24 Nov 2026 11:22:44 -0500",
+    "summary": "The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users. [...]",
+    "analysis": {
+      "issue": "The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Hackers compromise Check Point Servers in 22 organizations",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
+    "published": "Tue, 24 Nov 2026 11:15:23 -0500",
+    "summary": "Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations. [...]",
+    "analysis": {
+      "issue": "Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-16232",
+        "CVE-2026-61500"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Police disrupt 57 illegal streaming services with 7.3 million visits",
+    "link": "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/",
+    "published": "Tue, 24 Nov 2026 10:10:10 -0500",
+    "summary": "Law enforcement authorities from 11 countries have disrupted 57 illegal streaming services that operated hundreds of websites and drew over 7.3 million visits each year. [...]",
+    "analysis": {
+      "issue": "Law enforcement authorities from 11 countries have disrupted 57 illegal streaming services that operated hundreds of websites and drew over 7",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -336,39 +331,37 @@
   },
   {
     "source": "Bleeping Computer",
-    "title": "Microsoft confirms Windows printing issues affecting Forcepoint users",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/",
-    "published": "Mon, 23 Nov 2026 04:11:15 -0500",
-    "summary": "Microsoft confirmed printing issues on systems running Forcepoint DLP software after installing the KB5132043 November 2026 Windows 11 hotpatch. [...]",
+    "title": "From Vulnerability Noise to Resilience: Rethinking Security in the AI Era",
+    "link": "https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/",
+    "published": "Tue, 24 Nov 2026 10:01:11 -0500",
+    "summary": "AI-driven development is adding complexity to software supply chains, leaving security teams overwhelmed by vulnerabilities that may pose little actual risk. RapidFort explains how runtime visibility, container hardening, and automated remediation can reduce vulnerability noise and improve software resilience. [...]",
     "analysis": {
-      "issue": "Microsoft confirmed that some Forcepoint users may experience printing issues after installing the November 2026 Windows 11 hotpatch",
+      "issue": "Written by: George Manuelian, Chief Strategy Officer, RapidFort The modern software stack has become an iceberg",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "McDonald's Japan data breach exposes customer location information",
+    "link": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/",
+    "published": "Tue, 24 Nov 2026 09:09:37 -0500",
+    "summary": "McDonald's Japan, the fast-food giant's Japanese subsidiary, has disclosed a data breach after attackers accessed a database containing sensitive information for users of the company's official smartphone app. [...]",
+    "analysis": {
+      "issue": "McDonald's Japan, the fast-food giant's Japanese subsidiary, has disclosed a data breach after attackers accessed a database containing sensitive information for users of the company's official smartphone app",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
-    "published": "Mon, 23 Nov 2026 02:44:19 -0500",
-    "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild. [...]",
-    "analysis": {
-      "issue": "​The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-76466"
-      ],
-      "threat_categories": [
-        "Vulnerability"
+        "Data Breach"
       ]
     }
   },
@@ -564,6 +557,172 @@
   },
   {
     "source": "Security Week",
+    "title": "VMware Updates Patch Critical ESX, vCenter Vulnerabilities",
+    "link": "https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/",
+    "published": "Tue, 24 Nov 2026 16:32:56 +0000",
+    "summary": "<p>The critical bugs include an authentication bypass in vCenter and flaws that could allow code execution on ESX hosts.</p>\n<p>The post <a href=\"https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/\">VMware Updates Patch Critical ESX, vCenter Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The critical bugs include an authentication bypass in vCenter and flaws that could allow code execution on ESX hosts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-123912",
+        "CVE-2026-123911",
+        "CVE-2026-123903",
+        "CVE-2026-123910"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "European Commission Uncovers Data Breach in Cyberattack Investigation",
+    "link": "https://www.securityweek.com/european-commission-uncovers-data-breach-in-cyberattack-investigation/",
+    "published": "Tue, 24 Nov 2026 14:49:59 +0000",
+    "summary": "<p>Names and email addresses of EU Academy users were exposed in the AI-assisted cyberattack the European Commission detected in October.</p>\n<p>The post <a href=\"https://www.securityweek.com/european-commission-uncovers-data-breach-in-cyberattack-investigation/\">European Commission Uncovers Data Breach in Cyberattack Investigation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Names and email addresses of EU Academy users were exposed in the AI-assisted cyberattack the European Commission detected in October",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Check Point Security Management Servers Hacked in AI-Assisted Campaign",
+    "link": "https://www.securityweek.com/check-point-security-management-servers-hacked-in-ai-assisted-campaign/",
+    "published": "Tue, 24 Nov 2026 14:21:56 +0000",
+    "summary": "<p>The attacks were launched from 99 IP addresses and targeted organizations across multiple industries and countries.</p>\n<p>The post <a href=\"https://www.securityweek.com/check-point-security-management-servers-hacked-in-ai-assisted-campaign/\">Check Point Security Management Servers Hacked in AI-Assisted Campaign</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The attacks were launched from 99 IP addresses and targeted organizations across multiple industries and countries",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2020-1472",
+        "CVE-2021-26855",
+        "CVE-2021-21972",
+        "CVE-2026-61500",
+        "CVE-2021-34473",
+        "CVE-2026-41089",
+        "CVE-2024-21893",
+        "CVE-2026-16232",
+        "CVE-2026-98432",
+        "CVE-2023-34048",
+        "CVE-2025-5777",
+        "CVE-2023-4966"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Anthropic Expands Enterprise Safeguards for Detecting AI Misuse",
+    "link": "https://www.securityweek.com/anthropic-expands-enterprise-safeguards-for-detecting-ai-misuse/",
+    "published": "Tue, 24 Nov 2026 13:30:23 +0000",
+    "summary": "<p>EFS helps zero-retention customers spot Claude misuse spread across many requests while keeping conversation data in their own cloud.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-expands-enterprise-safeguards-for-detecting-ai-misuse/\">Anthropic Expands Enterprise Safeguards for Detecting AI Misuse</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "EFS helps zero-retention customers spot Claude misuse spread across many requests while keeping conversation data in their own cloud",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "OpenAI, Cisco Unveil Open Source Tool to Shield Unpatched Linux Systems",
+    "link": "https://www.securityweek.com/openai-cisco-unveil-open-source-tool-to-shield-unpatched-linux-systems/",
+    "published": "Tue, 24 Nov 2026 12:20:41 +0000",
+    "summary": "<p>OpenAI and Cisco’s Shirudo uses AI-generated shields to block Linux exploits while patches are prepared, but it’s not yet production-ready.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-cisco-unveil-open-source-tool-to-shield-unpatched-linux-systems/\">OpenAI, Cisco Unveil Open Source Tool to Shield Unpatched Linux Systems</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "OpenAI and Cisco’s Shirudo uses AI-generated shields to block Linux exploits while patches are prepared, but it’s not yet production-ready",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "1.5 Million Impacted by Data Breach at South Korean Electric Company KEPCO",
+    "link": "https://www.securityweek.com/1-5-million-impacted-by-data-breach-at-south-korean-electric-company-kepco/",
+    "published": "Tue, 24 Nov 2026 11:50:21 +0000",
+    "summary": "<p>Hackers stole personal information from the company’s customer portal and supplier relationship management platform.</p>\n<p>The post <a href=\"https://www.securityweek.com/1-5-million-impacted-by-data-breach-at-south-korean-electric-company-kepco/\">1.5 Million Impacted by Data Breach at South Korean Electric Company KEPCO</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Hackers stole personal information from the company’s customer portal and supplier relationship management platform",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Elecbrakes Bluetooth Vulnerabilities Expose Trailers to Forced Braking",
+    "link": "https://www.securityweek.com/elecbrakes-bluetooth-vulnerabilities-expose-trailers-to-forced-braking/",
+    "published": "Tue, 24 Nov 2026 10:44:44 +0000",
+    "summary": "<p>Critical Bluetooth flaws in Elecbrakes controllers could let nearby attackers force trailer braking, potentially causing accidents.</p>\n<p>The post <a href=\"https://www.securityweek.com/elecbrakes-bluetooth-vulnerabilities-expose-trailers-to-forced-braking/\">Elecbrakes Bluetooth Vulnerabilities Expose Trailers to Forced Braking</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Critical Bluetooth flaws in Elecbrakes controllers could let nearby attackers force trailer braking, potentially causing accidents",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine",
+    "link": "https://www.securityweek.com/peninsula-energy-halts-trading-after-cyber-incident-hits-us-uranium-mine/",
+    "published": "Tue, 24 Nov 2026 10:35:04 +0000",
+    "summary": "<p>The company told the ASX that a cybersecurity incident at its Wyoming uranium project would temporarily affect operations.</p>\n<p>The post <a href=\"https://www.securityweek.com/peninsula-energy-halts-trading-after-cyber-incident-hits-us-uranium-mine/\">Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The company told the ASX that a cybersecurity incident at its Wyoming uranium project would temporarily affect operations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Azure Flaw Exploited to Target Secrets at Norwegian Energy Firms",
     "link": "https://www.securityweek.com/azure-flaw-exploited-to-target-secrets-at-norwegian-energy-firms/",
     "published": "Mon, 23 Nov 2026 15:47:40 +0000",
@@ -597,161 +756,6 @@
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "phpAfterShell Vulnerability Revives PHP2Shell’s Attack Path",
-    "link": "https://www.securityweek.com/phpaftershell-vulnerability-revives-php2shells-attack-path/",
-    "published": "Mon, 23 Nov 2026 13:58:07 +0000",
-    "summary": "<p>If a session overwrite operation is interrupted, an attacker who controls the fresh data could trigger data deserialization and RCE.</p>\n<p>The post <a href=\"https://www.securityweek.com/phpaftershell-vulnerability-revives-php2shells-attack-path/\">phpAfterShell Vulnerability Revives PHP2Shell&#8217;s Attack Path</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "If a session overwrite operation is interrupted, an attacker who controls the fresh data could trigger data deserialization and RCE",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-126714"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "GL.iNet Routers, KVMs Compromised via Remote Management Service Flaw",
-    "link": "https://www.securityweek.com/gl-inet-routers-kvms-compromised-via-remote-management-service-flaw/",
-    "published": "Mon, 23 Nov 2026 13:26:22 +0000",
-    "summary": "<p>Attackers abused a flaw in the GoodCloud remote management service to push malware to devices, and cleaning them requires new firmware.</p>\n<p>The post <a href=\"https://www.securityweek.com/gl-inet-routers-kvms-compromised-via-remote-management-service-flaw/\">GL.iNet Routers, KVMs Compromised via Remote Management Service Flaw</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Attackers abused a flaw in the GoodCloud remote management service to push malware to devices, and cleaning them requires new firmware",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "AI Inference Providers Failed to Detect Hacking and Prompt Theft, Says Dragos",
-    "link": "https://www.securityweek.com/ai-inference-providers-failed-to-detect-hacking-and-prompt-theft-says-dragos/",
-    "published": "Mon, 23 Nov 2026 12:16:20 +0000",
-    "summary": "<p>Dragos uncovered undetected intrusions at three AI inference providers using nearly two million prompts sent to AI services.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-inference-providers-failed-to-detect-hacking-and-prompt-theft-says-dragos/\">AI Inference Providers Failed to Detect Hacking and Prompt Theft, Says Dragos</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Dragos uncovered undetected intrusions at three AI inference providers using nearly two million prompts sent to AI services",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "BadBox 3.0 Ad Fraud Operation Generating 40 Billion Daily Bid Requests Disrupted",
-    "link": "https://www.securityweek.com/badbox-3-0-ad-fraud-operation-generating-40-billion-daily-bid-requests-disrupted/",
-    "published": "Mon, 23 Nov 2026 11:44:18 +0000",
-    "summary": "<p>Backdoors on low-cost consumer devices served modules for ad fraud and for turning devices into residential proxies. </p>\n<p>The post <a href=\"https://www.securityweek.com/badbox-3-0-ad-fraud-operation-generating-40-billion-daily-bid-requests-disrupted/\">BadBox 3.0 Ad Fraud Operation Generating 40 Billion Daily Bid Requests Disrupted</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Backdoors on low-cost consumer devices served modules for ad fraud and for turning devices into residential proxies",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "SAP NetWeaver, Cisco Expressway Flaws Exploited in Attacks",
-    "link": "https://www.securityweek.com/sap-netweaver-cisco-expressway-flaws-exploited-in-attacks/",
-    "published": "Mon, 23 Nov 2026 11:35:15 +0000",
-    "summary": "<p>Threat actors could exploit them to leak or modify server information and to execute commands as root.</p>\n<p>The post <a href=\"https://www.securityweek.com/sap-netweaver-cisco-expressway-flaws-exploited-in-attacks/\">SAP NetWeaver, Cisco Expressway Flaws Exploited in Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Threat actors could exploit them to leak or modify server information and to execute commands as root",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2025-42884",
-        "CVE-2026-76466",
-        "CVE-2026-129448",
-        "CVE-2026-123890"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "CrowdStrike to Acquire Zscaler in $43.9 Billion Deal",
-    "link": "https://www.securityweek.com/crowdstrike-to-acquire-zscaler-in-43-9-billion-deal/",
-    "published": "Mon, 23 Nov 2026 11:31:44 +0000",
-    "summary": "<p>CrowdStrike expects the combined company to have more than $10 billion in annual recurring revenue.</p>\n<p>The post <a href=\"https://www.securityweek.com/crowdstrike-to-acquire-zscaler-in-43-9-billion-deal/\">CrowdStrike to Acquire Zscaler in $43.9 Billion Deal</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "CrowdStrike expects the combined company to have more than $10 billion in annual recurring revenue",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says",
-    "link": "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/",
-    "published": "Sun, 22 Nov 2026 00:53:02 +0000",
-    "summary": "<p>The FBI is investigating an apparent hack of a national law enforcement database that it maintains.</p>\n<p>The post <a href=\"https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/\">FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The FBI is investigating an apparent hack of a national law enforcement database that it maintains",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "President Trump Taps Kirsten Davies as National Cyber Director",
-    "link": "https://www.securityweek.com/president-trump-taps-kirsten-davies-as-national-cyber-director/",
-    "published": "Sat, 21 Nov 2026 13:00:00 +0000",
-    "summary": "<p>White House says the battle-tested cyber leader will drive an America First cyber strategy.</p>\n<p>The post <a href=\"https://www.securityweek.com/president-trump-taps-kirsten-davies-as-national-cyber-director/\">President Trump Taps Kirsten Davies as National Cyber Director</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "White House says the battle-tested cyber leader will drive an America First cyber strategy",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -883,10 +887,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-118148",
-        "CVE-2026-124194",
+        "CVE-2026-118146",
         "CVE-2026-113862",
-        "CVE-2026-118146"
+        "CVE-2026-118148",
+        "CVE-2026-124194"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -945,6 +949,24 @@
       "threat_categories": [
         "Ransomware",
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "The Cyber Threats Behind Space Race 2.0",
+    "link": "https://www.recordedfuture.com/blog/cyber-threats-space-race",
+    "published": "Tue, 24 Nov 2026 00:00:00 GMT",
+    "summary": "Explore the growing cybersecurity threats in Space Race 2.0, from commercial satellite attacks and ground vulnerabilities to maritime risks.",
+    "analysis": {
+      "issue": "Explore the growing cybersecurity threats in Space Race 2",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1108,24 +1130,6 @@
       "threat_categories": [
         "Ransomware",
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "October 2026 CVE Landscape",
-    "link": "https://www.recordedfuture.com/blog/october-2026-cve-landscape",
-    "published": "Fri, 06 Nov 2026 00:00:00 GMT",
-    "summary": "In October 2026, Insikt Group® identified 82 high-impact vulnerabilities that should be prioritized for remediation, 52 of which had a Very Critical Recorded Future Risk Score. This represents a 13% decrease from last month.",
-    "analysis": {
-      "issue": "In October 2026, Insikt Group® identified 82 high-impact vulnerabilities that should be prioritized for remediation, 52 of which had a Very Critical Recorded Future Risk Score",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -1327,6 +1331,61 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "A bot tested an AWS key within 8 seconds of exposure",
+    "link": "https://www.malwarebytes.com/blog/ai/2026/11/a-bot-tested-an-aws-key-within-8-seconds-of-exposure",
+    "published": "Tue, 24 Nov 2026 17:08:51 GMT",
+    "summary": "If you accidentally publish a cloud access key, a bot could find it before you have time to take it down.",
+    "analysis": {
+      "issue": "Eight seconds is barely enough time to notice a mistake, let alone fix it",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "New Windows security check could let apps block access",
+    "link": "https://www.malwarebytes.com/blog/news/2026/11/new-windows-security-check-could-let-apps-block-access",
+    "published": "Tue, 24 Nov 2026 12:22:17 GMT",
+    "summary": "Windows baseline protection will show which of eight safeguards your PC is missing and help you turn them on.",
+    "analysis": {
+      "issue": "Microsoft announced plans to introduce Windows baseline protection, a feature that brings eight existing safeguards together into a single, verifiable security status",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Researchers planted secrets in AI prompts. Attackers found them",
+    "link": "https://www.malwarebytes.com/blog/ai/2026/11/researchers-planted-secrets-in-ai-prompts-attackers-found-them",
+    "published": "Tue, 24 Nov 2026 11:21:42 GMT",
+    "summary": "Researchers planted access keys in AI prompts. Within hours, attackers were testing some of them against Amazon cloud accounts.",
+    "analysis": {
+      "issue": "Attackers have been reading queries sent indirectly to online AI services",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Muse AI got nosy and started making things up, Meta insiders say",
     "link": "https://www.malwarebytes.com/blog/ai/2026/11/muse-ai-got-nosy-and-started-making-things-up-meta-insiders-say",
     "published": "Mon, 23 Nov 2026 15:37:05 GMT",
@@ -1454,56 +1513,20 @@
     }
   },
   {
-    "source": "Malwarebytes",
-    "title": "Chrome patches six critical flaws, two found with AI’s help",
-    "link": "https://www.malwarebytes.com/blog/bugs/2026/11/chrome-patches-six-critical-flaws-two-found-with-ais-help",
-    "published": "Thu, 19 Nov 2026 12:38:38 GMT",
-    "summary": "Chrome 158 fixes 204 security issues, including six critical flaws. Here’s what to update.",
+    "source": "Crowdstrike Blog",
+    "title": "Reprioritizing Automated Leads with CrowdStrike Signal",
+    "link": "https://www.crowdstrike.com/en-us/blog/reprioritizing-automated-leads-crowdstrike-signal/",
+    "published": "Nov 24, 2026 00:00:00-0800",
+    "summary": "",
     "analysis": {
-      "issue": "On November 17, Google issued a security update to Chrome’s Stable channel for Windows, Mac, and Linux",
+      "issue": "Automated Leads now ranks every lead by how closely its activity resembles a real attack, not just by how unusual it is, so the leads that matter rise to the top of the queue",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Critical",
+      "severity": "Low",
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Scattered Spider’s phishing and SIM-swap tactics led to six-year sentence",
-    "link": "https://www.malwarebytes.com/blog/news/2026/11/scattered-spiders-phishing-and-sim-swap-tactics-led-to-six-year-sentence",
-    "published": "Thu, 19 Nov 2026 09:41:18 GMT",
-    "summary": "Scattered Spider used fake texts to break into systems and SIM swaps to intercept security codes. Here’s how to protect your number.",
-    "analysis": {
-      "issue": "A US court has sentenced a member of the Scattered Spider cybercrime group to six years in prison",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Outage or attack? Don’t let social media fill in the gaps",
-    "link": "https://www.malwarebytes.com/blog/ai/2026/11/outage-or-attack-dont-let-social-media-fill-in-the-gaps",
-    "published": "Wed, 18 Nov 2026 22:07:01 GMT",
-    "summary": "Recent outages and attacks have people worried, sometimes needlessly. Don’t let social media turn a bug into a disaster.",
-    "analysis": {
-      "issue": "Someone posts that an airline is having computer problems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
       ]
     }
   },
@@ -1673,22 +1696,32 @@
     }
   },
   {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Extends the Agentic SOC to Detect and Stop Agent Insider Threats",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-detects-and-stops-agent-insider-threats/",
-    "published": "Nov 04, 2026 00:00:00-0600",
-    "summary": "",
-    "analysis": {
-      "issue": "CrowdStrike extends the agentic SOC to detect agent insider threats, investigate across every domain, and govern response on the Falcon platform",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
+    "source": "Cisa Alerts",
+    "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+    "link": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+    "published": "Tue, 24 Nov 26 12:00:00 +0000",
+    "summary": "<div class=\"OutlineElement Ltr SCXW1462417 BCX8\">\n<p>CISA has added three new vulnerabilities to its <a class=\"Hyperlink SCXW1462417 BCX8\" href=\"https://www.cisa.gov/known-exploited-vulnerabilities-catalog\" rel=\"noreferrer noopener\"><u>Known Exploited Vulnerabilities (KEV) Catalog</u></a>, based on evidence of active exploitation.</p>\n<ul>\n<li>\n<div class=\"ListContainerWrapper SCXW85334591 BCX8\">\n<p><a href=\"https://www.cve.org/CVERecord?id=CVE-2026-131914\" target=\"_blank\"><u>CVE-2026-131914</u></a> Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability&nbsp;</p>\n</div>\n</li>\n<li>\n<div class=\"ListContainerWrapper SCXW85334591 BCX8\">\n<p><a href=\"https://www.cve.org/CVERecord?id=CVE-2026-132165\" target=\"_blank\"><u>CVE-2026-132165</u></a> Drupal Core Remote Code Execution Vulnerability&nbsp;</p>\n</div>\n</li>\n<li>\n<div class=\"ListContainerWrapper SCXW85334591 BCX8\">\n<p><a href=\"https://www.cve.org/CVERecord?id=CVE-2026-132224\" rel=\"noreferrer noopener\" target=\"_blank\"><u>CVE-2026-132224</u></a> Optimizely Web Experimentation External Control of Critical State Data Vulnerability&nbsp;</p>\n</div>\n</li>\n</ul>\n</div>\n<div class=\"OutlineElement Ltr SCXW1462417 BCX8\">\n<p>These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise.</p>\n</div>\n<div class=\"OutlineElement Ltr SCXW1462417 BCX8\">\n<p><a class=\"Hyperlink SCXW1462417 BCX8\" href=\"https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk\" rel=\"noreferrer noopener\"><u>Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk</u></a> establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA’s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied.</p>\n</div>\n<div class=\"OutlineElement Ltr SCXW1462417 BCX8\">\n<p>While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of <a class=\"Hyperlink SCXW1462417 BCX8\" href=\"https://www.cisa.gov/known-exploited-vulnerabilities-catalog\" rel=\"noreferrer noopener\"><u>KEV Catalog vulnerabilities</u></a>. CISA will continue to add vulnerabilities to the catalog that meet the <a class=\"Hyperlink SCXW1462417 BCX8\" href=\"https://www.cisa.gov/known-exploited-vulnerabilities\" rel=\"noreferrer noopener\"><u>specified criteria</u></a>.</p>\n</div>\n<div class=\"OutlineElement Ltr SCXW1462417 BCX8\">\n<p>Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA’s <a class=\"Hyperlink SCXW1462417 BCX8\" href=\"https://cisasurvey.gov1.qualtrics.com/jfe/form/SV_1Zwu52kgK2OYf3w\" rel=\"noreferrer noopener\" target=\"_blank\"><u>KEV Nomination Form</u></a>. Potential KEV additions must have a CVE ID, evidence of exploitation, and clear mitigation guidance.</p>\n</div>"
+  },
+  {
+    "source": "Cisa Alerts",
+    "title": "Danfoss AK-SM 8xxA Series",
+    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03",
+    "published": "Tue, 24 Nov 26 12:00:00 +0000",
+    "summary": "<p><a href=\"https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-328-03.json\"><strong>View CSAF</strong></a></p>\n<h2>Summary</h2>\n<p><strong>Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code with webserver privileges.</strong></p>\n<p>The following versions of Danfoss AK-SM 8xxA Series are affected:</p>\n<ul>\n<li>AK-SM8xxA &lt;=5.4.0 (CVE-2026-129713)</li>\n</ul>\n<div class=\"csaf-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS</th>\n<th>Vendor</th>\n<th>Equipment</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>v3 9.8</td>\n<td>Danfoss</td>\n<td>AK-SM8xxA</td>\n</tr>\n</tbody>\n</table>\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>1 Vulnerability</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Stack-based Buffer Overflow</td>\n</tr>\n</tbody>\n</table>\n</div>\n<h3>Background</h3>\n<ul>\n<li><strong>Critical Infrastructure Sectors: </strong>Commercial Facilities</li>\n<li><strong>Countries/Areas Deployed: </strong>Worldwide</li>\n<li><strong>Company Headquarters Location: </strong>Denmark</li>\n</ul>\n<hr />\n<h2>Vulnerabilities</h2>\n<div class=\"c-expandable-textbox icsa-etb\">\n<div class=\"c-expandable-textbox__title\">CVE-2026-129713</div>\n<div class=\"c-expandable-textbox__body\">A stack-based buffer overflow in an unauthenticated CGI handler of the Danfoss AK-SM 8xxA Series controller allows remote attackers to send specially crafted HTTP/S POST requests, leading to memory corruption, webserver restart and hypothetically potential arbitrary code execution with webserver privileges. Authentication is not required to exploit this vulnerability.</div>\n<div class=\"c-expandable-textbox-morebutton-wrapper\"><a class=\"c-expandable-textbox-morebutton\" href=\"https://www.cisa.gov/\">Read More</a></div>\n<div class=\"c-expandable-textbox__body2\">\n<h4>1 Affected Product</h4>\n<hr />\n<h5>Danfoss AK-SM8xxA &lt;=5.4.0</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Mitigation</strong><br />This vulnerability will be addressed in an upcoming Danfoss AK-SM 800A Series software release (version 5.5.x). In addition, Danfoss will remove the ability for users to disable Strict Mode in future software releases.</p>\n</div>\n<div>\n<p><strong>Mitigation</strong><br />Until a software update is available, Danfoss recommends the following mitigations: * Follow the guidance provided in the product documentation and do not expose devices directly to the Internet or assign them public IP addresses. * Restrict remote access to affected devices by using a secure VPN or other protected network architecture. * Configure all affected devices to operate in Strict Mode, which provides enhanced security protections. * Use strong, unique passwords for all user accounts and administrative access. * For additional security recommendations and best practices see the Danfoss AK-SM 800 security guidance page: https://www.danfoss.com/en/service-and-support/downloads/dcs/adap-kool-software/ak-sm-800a/#tab-overview</p>\n</div>\n<hr />\n<h6>Additional Metrics</h6>\n<p><strong>Relevant CWE:</strong> <a href=\"https://cwe.mitre.org/data/definitions/121.html\">CWE-121 Stack-based Buffer Overflow</a></p>\n<div class=\"csaf-table csaf-metrics-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS Version</th>\n<th>Base Score</th>\n<th>Base Severity</th>\n<th>Vector String</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3.1</td>\n<td>9.8</td>\n<td>CRITICAL</td>\n<td><a href=\"https://www.first.org/cvss/calculator/3.1#CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H\">CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H</a></td>\n</tr>\n<tr>\n<td>4.0</td>\n<td>9.3</td>\n<td>CRITICAL</td>\n<td><a href=\"https://www.first.org/cvss/calculator/4.0#CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N\">CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N</a></td>\n</tr>\n</tbody>\n</table>\n</div>\n<hr />\n<p><a href=\"https://www.cve.org/CVERecord?id=CVE-2026-129713\">View CVE Details</a></p>\n</div>\n</div>\n<hr />\n<h2>Acknowledgments</h2>\n<ul>\n<li>Carlo Meijer of Midnight Blue reported CVE-2026-129713 to CISA.</li>\n</ul>\n<hr />\n<h2>Recommended Practices</h2>\n<p>CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities.</p>\n<ul type=\"disc\">\n<li>Minimize network exposure for all control system devices and/or systems, ensuring they are <a href=\"https://www.cisa.gov/uscert/ics/alerts/ICS-ALERT-10-301-01\">not accessible from the internet</a>.</li>\n<li>Locate control system networks and remote devices behind firewalls and isolating them from business networks.</li>\n<li>When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices.</li>\n</ul>\n<p>CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures.</p>\n<p>CISA also provides a section for <a href=\"https://www.cisa.gov/resources-tools/resources/ics-recommended-practices\">control systems security recommended practices</a> on the ICS webpage on <a href=\"https://www.cisa.gov/topics/industrial-control-systems\">cisa.gov/ics</a>. Several CISA products detailing cyber defense best practices are available for reading and download, including <a href=\"https://www.cisa.gov/sites/default/files/recommended_practices/NCCIC_ICS-CERT_Defense_in_Depth_2016_S508C.pdf\">Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies</a>.</p>\n<p>CISA encourages organizations to implement recommended cybersecurity strategies for <a href=\"https://www.cisa.gov/sites/default/files/publications/Cybersecurity_Best_Practices_for_Industrial_Control_Systems.pdf\">proactive defense of ICS assets</a>.</p>\n<p>Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at <a href=\"https://www.cisa.gov/topics/industrial-control-systems\">cisa.gov/ics</a> in the technical information paper, <a href=\"https://www.cisa.gov/news-events/news/targeted-cyber-intrusion-detection-and-mitigation-strategies-update-b\">ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies</a>.</p>\n<p>Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents.</p>\n<p>CISA also recommends users take the following measures to protect themselves from social engineering attacks:</p>\n<ul type=\"disc\">\n<li>Do not click web links or open attachments in unsolicited email messages.</li>\n<li>Refer to <a href=\"https://www.cisa.gov/secure-our-world/teach-employees-avoid-phishing\">Recognizing and Avoiding Email Scams</a> for more information on avoiding email scams.</li>\n<li>Refer to <a href=\"https://www.cisa.gov/news-events/news/avoiding-social-engineering-and-phishing-attacks\">Avoiding Social Engineering and Phishing Attacks</a> for more information on social engineering attacks.</li>\n</ul>\n<p>No known public exploitation specifically targeting these vulnerabilities has been reported to CISA at this time.</p>\n<hr />\n<h2>Revision History</h2>\n<ul>\n<li><strong>Initial Release Date: </strong>2026-11-24</li>\n</ul>\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>Date</th>\n<th>Revision</th>\n<th>Summary</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>2026-11-24</td>\n<td>1</td>\n<td>Initial Publication</td>\n</tr>\n</tbody>\n</table>\n<hr />\n<h2>Legal Notice and Terms of Use</h2>"
+  },
+  {
+    "source": "Cisa Alerts",
+    "title": "Schneider Electric EcoStruxure Power Build Rapsody software",
+    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02",
+    "published": "Tue, 24 Nov 26 12:00:00 +0000",
+    "summary": "<p><a href=\"https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-328-02.json\"><strong>View CSAF</strong></a></p>\n<h2>Summary</h2>\n<p><strong>Schneider Electric is aware of a vulnerability in its EcoStruxure™ Power Build Rapsody product. The EcoStruxure™ Power Build Rapsody is used to enter or import the single line diagram, to get the extensive bill of material of your switchboard, including all devices, connection items, and mounting components. Failure to apply the remediations provided below may risk memory corruption, heap-based buffer overflow, and/or stack-based buffer overflow, which could result in local attackers being able to exploit these issues to potentially execute arbitrary code.</strong></p>\n<p>The following versions of Schneider Electric EcoStruxure Power Build Rapsody software are affected:</p>\n<ul>\n<li>EcoStruxure Power Build Rapsody software vers:generic/&lt;=2.9.1.0_FR, 2.9.12.0101_FR, vers:generic/&lt;=2.8.5.0301_ESP, 2.9.5.0000_ESP, vers:generic/&lt;=2.8.7.0101_PT, 2.9.7.0000_PT, vers:generic/&lt;=2.8.8.0201_BEL(FR), 2.9.8.0000_BELFR, vers:generic/&lt;=2.8.3.0201_BEL(EN), 2.9.3.0000_BELEN, vers:generic/&lt;=2.8.4.0401_INT(EN), 2.9.4.0000_INTEN, vers:generic/&lt;=2.8.6.0000_INT(FR), 2.9.6.0000_INTFR, vers:generic/&lt;=2.8.2.0000_NL, 2.9.6.0000_NL (CVE-2026-119055, CVE-2026-119055, CVE-2026-119055, CVE-2026-119055, CVE-2026-119055, CVE-2026-119055, CVE-2026-119055, CVE-2026-119055)</li>\n</ul>\n<div class=\"csaf-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS</th>\n<th>Vendor</th>\n<th>Equipment</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>v3 5.3</td>\n<td>Schneider Electric</td>\n<td>EcoStruxure Power Build Rapsody software</td>\n</tr>\n</tbody>\n</table>\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>1 Vulnerability</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Use After Free</td>\n</tr>\n</tbody>\n</table>\n</div>\n<h3>Background</h3>\n<ul>\n<li><strong>Critical Infrastructure Sectors: </strong>Energy, Critical Manufacturing, Commercial Facilities</li>\n<li><strong>Countries/Areas Deployed: </strong>Worldwide</li>\n<li><strong>Company Headquarters Location: </strong>France</li>\n</ul>\n<hr />\n<h2>Vulnerabilities</h2>\n<div class=\"c-expandable-textbox icsa-etb\">\n<div class=\"c-expandable-textbox__title\">CVE-2026-119055</div>\n<div class=\"c-expandable-textbox__body\">A CWE- 416: Use After Free vulnerability exists that could cause arbitrary code execution when a local attacker could trick the end user to open a specially crafted malicious SSD file.</div>\n<div class=\"c-expandable-textbox-morebutton-wrapper\"><a class=\"c-expandable-textbox-morebutton\" href=\"https://www.cisa.gov/\">Read More</a></div>\n<div class=\"c-expandable-textbox__body2\">\n<h4>8 Affected Products</h4>\n<hr />\n<h5>EcoStruxure Power Build Rapsody software Versions FR 2.9.1.0 and prior</h5>\n<div>\n<p>Product Status: fixed, known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Versions FR V2.9.12.0101, ESP V2.9.5.0000, PT V2.9.7.0000, BEL(FR) V2.9.8.0000, BEL(EN) V2.9.3.0000, INT(EN) V2.9.4.0000, INT(FR)V2.9.6.0000, NL V2.9.6.0000 of EcoStruxure™ Power Build Rapsody software includes a fix for this vulnerability and is available for download here: https://www.se.com/ww/en/product-country-selector/?pageType=product-range&amp;sourceId=2309</p>\n</div>\n<hr />\n<h5>EcoStruxure Power Build Rapsody software Versions ESP 2.8.5.0301 and prior</h5>\n<div>\n<p>Product Status: fixed, known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Versions FR V2.9.12.0101, ESP V2.9.5.0000, PT V2.9.7.0000, BEL(FR) V2.9.8.0000, BEL(EN) V2.9.3.0000, INT(EN) V2.9.4.0000, INT(FR)V2.9.6.0000, NL V2.9.6.0000 of EcoStruxure™ Power Build Rapsody software includes a fix for this vulnerability and is available for download here: https://www.se.com/ww/en/product-country-selector/?pageType=product-range&amp;sourceId=2309</p>\n</div>\n<hr />\n<h5>EcoStruxure Power Build Rapsody software Versions PT 2.8.7.0101 and prior</h5>\n<div>\n<p>Product Status: fixed, known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Versions FR V2.9.12.0101, ESP V2.9.5.0000, PT V2.9.7.0000, BEL(FR) V2.9.8.0000, BEL(EN) V2.9.3.0000, INT(EN) V2.9.4.0000, INT(FR)V2.9.6.0000, NL V2.9.6.0000 of EcoStruxure™ Power Build Rapsody software includes a fix for this vulnerability and is available for download here: https://www.se.com/ww/en/product-country-selector/?pageType=product-range&amp;sourceId=2309</p>\n</div>\n<hr />\n<h5>EcoStruxure Power Build Rapsody software Versions BEL(FR) 2.8.8.0201 and prior</h5>\n<div>\n<p>Product Status: fixed, known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Versions FR V2.9.12.0101, ESP V2.9.5.0000, PT V2.9.7.0000, BEL(FR) V2.9.8.0000, BEL(EN) V2.9.3.0000, INT(EN) V2.9.4.0000, INT(FR)V2.9.6.0000, NL V2.9.6.0000 of EcoStruxure™ Power Build Rapsody software includes a fix for this vulnerability and is available for download here: https://www.se.com/ww/en/product-country-selector/?pageType=product-range&amp;sourceId=2309</p>\n</div>\n<hr />\n<h5>EcoStruxure Power Build Rapsody software Versions BEL(EN) 2.8.3.0201 and prior</h5>\n<div>\n<p>Product Status: fixed, known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Versions FR V2.9.12.0101, ESP V2.9.5.0000, PT V2.9.7.0000, BEL(FR) V2.9.8.0000, BEL(EN) V2.9.3.0000, INT(EN) V2.9.4.0000, INT(FR)V2.9.6.0000, NL V2.9.6.0000 of EcoStruxure™ Power Build Rapsody software includes a fix for this vulnerability and is available for download here: https://www.se.com/ww/en/product-country-selector/?pageType=product-range&amp;sourceId=2309</p>\n</div>\n<hr />\n<h5>EcoStruxure Power Build Rapsody software Versions INT(EN) 2.8.4.0401 and prior</h5>\n<div>\n<p>Product Status: fixed, known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Versions FR V2.9.12.0101, ESP V2.9.5.0000, PT V2.9.7.0000, BEL(FR) V2.9.8.0000, BEL(EN) V2.9.3.0000, INT(EN) V2.9.4.0000, INT(FR)V2.9.6.0000, NL V2.9.6.0000 of EcoStruxure™ Power Build Rapsody software includes a fix for this vulnerability and is available for download here: https://www.se.com/ww/en/product-country-selector/?pageType=product-range&amp;sourceId=2309</p>\n</div>\n<hr />\n<h5>EcoStruxure Power Build Rapsody software Versions INT(FR) 2.8.6.0000 and prior</h5>\n<div>\n<p>Product Status: fixed, known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Versions FR V2.9.12.0101, ESP V2.9.5.0000, PT V2.9.7.0000, BEL(FR) V2.9.8.0000, BEL(EN) V2.9.3.0000, INT(EN) V2.9.4.0000, INT(FR)V2.9.6.0000, NL V2.9.6.0000 of EcoStruxure™ Power Build Rapsody software includes a fix for this vulnerability and is available for download here: https://www.se.com/ww/en/product-country-selector/?pageType=product-range&amp;sourceId=2309</p>\n</div>\n<hr />\n<h5>EcoStruxure Power Build Rapsody software Versions NL 2.8.2.0000 and prior</h5>\n<div>\n<p>Product Status: fixed, known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Versions FR V2.9.12.0101, ESP V2.9.5.0000, PT V2.9.7.0000, BEL(FR) V2.9.8.0000, BEL(EN) V2.9.3.0000, INT(EN) V2.9.4.0000, INT(FR)V2.9.6.0000, NL V2.9.6.0000 of EcoStruxure™ Power Build Rapsody software includes a fix for this vulnerability and is available for download here: https://www.se.com/ww/en/product-country-selector/?pageType=product-range&amp;sourceId=2309</p>\n</div>\n<hr />\n<h6>Additional Metrics</h6>\n<p><strong>Relevant CWE:</strong> <a href=\"https://cwe.mitre.org/data/definitions/416.html\">CWE-416 Use After Free</a></p>\n<div class=\"csaf-table csaf-metrics-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS Version</th>\n<th>Base Score</th>\n<th>Base Severity</th>\n<th>Vector String</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3.1</td>\n<td>5.3</td>\n<td>MEDIUM</td>\n<td><a href=\"https://www.first.org/cvss/calculator/3.1#CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:L/A:L\">CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:L/A:L</a></td>\n</tr>\n</tbody>\n</table>\n</div>\n<hr />\n<p><a href=\"https://www.cve.org/CVERecord?id=CVE-2026-119055\">View CVE Details</a></p>\n</div>\n</div>\n<hr />\n<h2>Acknowledgments</h2>\n<ul>\n<li>Schneider Electric CPCERT reported this vulnerability to CISA.</li>\n</ul>\n<p>&nbsp;</p>\n<hr />\n<h2>Recommended Practices</h2>\n<p>CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities.</p>\n<ul type=\"disc\">\n<li>Minimize network exposure for all control system devices and/or systems, ensuring they are <a href=\"https://www.cisa.gov/uscert/ics/alerts/ICS-ALERT-10-301-01\">not accessible from the internet</a>.</li>\n<li>Locate control system networks and remote devices behind firewalls and isolating them from business networks.</li>\n<li>When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices.</li>\n</ul>\n<p>CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures.</p>\n<p>CISA also provides a section for <a href=\"https://www.cisa.gov/resources-tools/resources/ics-recommended-practices\">control systems security recommended practices</a> on the ICS webpage on <a href=\"https://www.cisa.gov/topics/industrial-control-systems\">cisa.gov/ics</a>. Several CISA products detailing cyber defense best practices are available for reading and download, including <a href=\"https://www.cisa.gov/sites/default/files/recommended_practices/NCCIC_ICS-CERT_Defense_in_Depth_2016_S508C.pdf\">Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies</a>.</p>\n<p>CISA encourages organizations to implement recommended cybersecurity strategies for <a href=\"https://www.cisa.gov/sites/default/files/publications/Cybersecurity_Best_Practices_for_Industrial_Control_Systems.pdf\">proactive defense of ICS assets</a>.</p>\n<p>Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at <a href=\"https://www.cisa.gov/topics/industrial-control-systems\">cisa.gov/ics</a> in the technical information paper, <a href=\"https://www.cisa.gov/news-events/news/targeted-cyber-intrusion-detection-and-mitigation-strategies-update-b\">ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies</a>.</p>\n<p>Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents.</p>\n<p>&nbsp;</p>\n<hr />\n<h2>Advisory Conversion Disclaimer</h2>\n<p>This ICSA is a verbatim republication of Schneider Electric CPCERT SEVD-2026-314-01 from a direct conversion of the vendor's Common Security Advisory Framework (CSAF) advisory. This is republished to CISA's website as a means of increasing visibility and is provided \"as-is\" for informational purposes only. CISA is not responsible for the editorial or technical accuracy of republished advisories and provides no warranties of any kind regarding any information contained within this advisory. Further, CISA does not endorse any commercial product or service. Please contact Schneider Electric CPCERT directly for any questions regarding this advisory.</p>\n<h2>Revision History</h2>\n<ul>\n<li><strong>Initial Release Date: </strong>2026-11-10</li>\n</ul>\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>Date</th>\n<th>Revision</th>\n<th>Summary</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>2026-11-10</td>\n<td>1</td>\n<td>Original Release</td>\n</tr>\n<tr>\n<td>2026-11-24</td>\n<td>2</td>\n<td>Initial CISA Republication of Schneider Electric CPCERT SEVD-2026-314-01 advisory</td>\n</tr>\n</tbody>\n</table>\n<hr />\n<h2>Legal Notice and Terms of Use</h2>"
+  },
+  {
+    "source": "Cisa Alerts",
+    "title": "AutomationDirect C-More EA9 Programming Software",
+    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01",
+    "published": "Tue, 24 Nov 26 12:00:00 +0000",
+    "summary": "<p><a href=\"https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-328-01.json\"><strong>View CSAF</strong></a></p>\n<h2>Summary</h2>\n<p><strong>Successful exploitation of this vulnerability could allow attackers to corrupt application memory and cause instability or a crash, potentially leading to arbitrary code execution, if a user is convinced to open a malicious file.</strong></p>\n<p>The following versions of AutomationDirect C-More EA9 Programming Software are affected:</p>\n<ul>\n<li>C-More EA9 Programming Software &lt;=V6.80 (CVE-2026-127280)</li>\n</ul>\n<div class=\"csaf-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS</th>\n<th>Vendor</th>\n<th>Equipment</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>v3 7.8</td>\n<td>AutomationDirect</td>\n<td>C-More EA9 Programming Software</td>\n</tr>\n</tbody>\n</table>\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>1 Vulnerability</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Heap-based Buffer Overflow</td>\n</tr>\n</tbody>\n</table>\n</div>\n<h3>Background</h3>\n<ul>\n<li><strong>Critical Infrastructure Sectors: </strong>Critical Manufacturing, Energy, Water and Wastewater Systems</li>\n<li><strong>Countries/Areas Deployed: </strong>Worldwide</li>\n<li><strong>Company Headquarters Location: </strong>United States</li>\n</ul>\n<hr />\n<h2>Vulnerabilities</h2>\n<div class=\"c-expandable-textbox icsa-etb\">\n<div class=\"c-expandable-textbox__title\">CVE-2026-127280</div>\n<div class=\"c-expandable-textbox__body\">C-More EA9 Programming Software V6.80 does not adequately validate data read from a project file before using it in heap memory operations. A crafted file causes a heap buffer overrun during file open, resulting in heap corruption and instability within the application. An attacker can exploit this vulnerability by convincing a user to open a malicious project file delivered through common distribution channels such as email, file sharing, or removable media.</div>\n<div class=\"c-expandable-textbox-morebutton-wrapper\"><a class=\"c-expandable-textbox-morebutton\" href=\"https://www.cisa.gov/\">Read More</a></div>\n<div class=\"c-expandable-textbox__body2\">\n<h4>1 Affected Product</h4>\n<hr />\n<h5>AutomationDirect C-More EA9 Programming Software &lt;=V6.80</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Update C-More EA9 Programming Software to V6.81: https://www.automationdirect.com/support/software-downloads</p>\n</div>\n<div>\n<p><strong>Mitigation</strong><br />If you cannot update to the latest software or firmware version right away, apply the following compensating controls to reduce risk until the update can be performed. These measures are temporary and do not replace the update, which remains the primary and recommended remediation. Apply these controls as appropriate based on the vulnerability, assessed risk, operational requirements, and characteristics of your environment. Implement changes under your established management-of-change process. Before implementing isolation, access-control, or network-configuration changes, evaluate potential impacts to safety, availability, and essential operational functions. • Isolate affected engineering workstations and OT systems from external and nonessential networks, including the internet and corporate IT networks, where operationally feasible. • Disable or tightly restrict vendor, contractor, and other remote access to the affected OT environment until the vulnerability can be remediated. Where remote access is operationally required, use a hardened jump host, enforce multi-factor authentication, apply least-privilege access, and limit access to authorized, time-bound sessions. • Use trusted, dedicated OT networks for device communication. Where practicable and appropriate to the assessed risk, use dedicated or physically separated infrastructure for higher-criticality systems. Where logical segmentation is used, ensure segmentation controls are appropriately configured, secured, and monitored. • Restrict both physical and logical access to affected systems to authorized personnel only. Apply least-privilege principles to administrative, engineering, maintenance, and service access. • Configure application allowlisting, where supported, so that only trusted and pre-approved applications are permitted to execute. Block unauthorized software. • Use appropriate antivirus or endpoint detection and response (EDR) tools where supported and compatible with the affected system. Configure host-based and network firewalls to permit only required communications. • Disable unnecessary services, ports, protocols, and communication pathways associated with the affected systems. Where a service or protocol cannot be disabled for operational reasons, restrict access to trusted systems and authorized users wherever possible. • Enable and regularly review available system, security, and network logs to identify suspicious or unauthorized activity. Where appropriate, monitor communications to and from affected systems for unexpected connections or changes in network behavior. • Maintain secure, tested, and preferably offline backups of PLC programs, device configurations, engineering workstation configurations, and other information necessary to restore operations. Periodically verify that backups can be successfully restored. • Verify that critical OT functions can continue operating without unnecessary dependencies on external networks, cloud services, remote-access services, corporate IT services, or other nonessential systems. • If removable media is required to transfer files into an isolated or restricted environment, use controlled and trusted media and scan it for malicious content before use. • Continuously evaluate the risks associated with operating vulnerable or outdated firmware or software. Adjust compensating controls as the threat environment, operational requirements, or available vulnerability information changes. These compensating controls are intended to reduce exposure while remediation is pending. Organizations should prioritize applying the vendor-provided update as soon as it can be safely tested and deployed within the operational environment.</p>\n</div>\n<hr />\n<h6>Additional Metrics</h6>\n<p><strong>Relevant CWE:</strong> <a href=\"https://cwe.mitre.org/data/definitions/122.html\">CWE-122 Heap-based Buffer Overflow</a></p>\n<div class=\"csaf-table csaf-metrics-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS Version</th>\n<th>Base Score</th>\n<th>Base Severity</th>\n<th>Vector String</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3.1</td>\n<td>7.8</td>\n<td>HIGH</td>\n<td><a href=\"https://www.first.org/cvss/calculator/3.1#CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H\">CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H</a></td>\n</tr>\n<tr>\n<td>4.0</td>\n<td>8.4</td>\n<td>HIGH</td>\n<td><a href=\"https://www.first.org/cvss/calculator/4.0#CVSS:4.0/AV:L/AC:L/AT:N/PR:N/UI:A/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N\">CVSS:4.0/AV:L/AC:L/AT:N/PR:N/UI:A/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N</a></td>\n</tr>\n</tbody>\n</table>\n</div>\n<hr />\n<p><a href=\"https://www.cve.org/CVERecord?id=CVE-2026-127280\">View CVE Details</a></p>\n</div>\n</div>\n<hr />\n<h2>Acknowledgments</h2>\n<ul>\n<li>rgod of TrendAI Zero Day Initiative reported this vulnerability to CISA.</li>\n</ul>\n<p>&nbsp;</p>\n<hr />\n<h2>Recommended Practices</h2>\n<p>CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities.</p>\n<ul type=\"disc\">\n<li>Minimize network exposure for all control system devices and/or systems, ensuring they are <a href=\"https://www.cisa.gov/uscert/ics/alerts/ICS-ALERT-10-301-01\">not accessible from the internet</a>.</li>\n<li>Locate control system networks and remote devices behind firewalls and isolating them from business networks.</li>\n<li>When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices.</li>\n</ul>\n<p>CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures.</p>\n<p>CISA also provides a section for <a href=\"https://www.cisa.gov/resources-tools/resources/ics-recommended-practices\">control systems security recommended practices</a> on the ICS webpage on <a href=\"https://www.cisa.gov/topics/industrial-control-systems\">cisa.gov/ics</a>. Several CISA products detailing cyber defense best practices are available for reading and download, including <a href=\"https://www.cisa.gov/sites/default/files/recommended_practices/NCCIC_ICS-CERT_Defense_in_Depth_2016_S508C.pdf\">Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies</a>.</p>\n<p>CISA encourages organizations to implement recommended cybersecurity strategies for <a href=\"https://www.cisa.gov/sites/default/files/publications/Cybersecurity_Best_Practices_for_Industrial_Control_Systems.pdf\">proactive defense of ICS assets</a>.</p>\n<p>Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at <a href=\"https://www.cisa.gov/topics/industrial-control-systems\">cisa.gov/ics</a> in the technical information paper, <a href=\"https://www.cisa.gov/news-events/news/targeted-cyber-intrusion-detection-and-mitigation-strategies-update-b\">ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies</a>.</p>\n<p>Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents.</p>\n<p>CISA also recommends users take the following measures to protect themselves from social engineering attacks:</p>\n<ul type=\"disc\">\n<li>Do not click web links or open attachments in unsolicited email messages.</li>\n<li>Refer to <a href=\"https://www.cisa.gov/secure-our-world/teach-employees-avoid-phishing\">Recognizing and Avoiding Email Scams</a> for more information on avoiding email scams.</li>\n<li>Refer to <a href=\"https://www.cisa.gov/news-events/news/avoiding-social-engineering-and-phishing-attacks\">Avoiding Social Engineering and Phishing Attacks</a> for more information on social engineering attacks.</li>\n</ul>\n<p>No known public exploitation specifically targeting these vulnerabilities has been reported to CISA at this time.</p>\n<hr />\n<h2>Revision History</h2>\n<ul>\n<li><strong>Initial Release Date: </strong>2026-11-24</li>\n</ul>\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>Date</th>\n<th>Revision</th>\n<th>Summary</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>2026-11-24</td>\n<td>1</td>\n<td>Initial Publication</td>\n</tr>\n</tbody>\n</table>\n<hr />\n<h2>Legal Notice and Terms of Use</h2>"
   },
   {
     "source": "Cisa Alerts",
@@ -1713,13 +1746,6 @@
   },
   {
     "source": "Cisa Alerts",
-    "title": "libumqtt",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03",
-    "published": "Thu, 19 Nov 26 12:00:00 +0000",
-    "summary": "<p><a href=\"https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-323-03.json\"><strong>View CSAF</strong></a></p>\n<h2>Summary</h2>\n<p><strong>Successful exploitation of this vulnerability could allow a remote attacker to cause a denial of service, memory corruption, or information disclosure.</strong></p>\n<p>The following versions of libumqtt are affected:</p>\n<ul>\n<li>libumqtt &lt;=1.1.1 (CVE-2026-125132)</li>\n</ul>\n<div class=\"csaf-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS</th>\n<th>Vendor</th>\n<th>Equipment</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>v3 8.6</td>\n<td>libumqtt</td>\n<td>libumqtt</td>\n</tr>\n</tbody>\n</table>\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>1 Vulnerability</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Integer Underflow (Wrap or Wraparound)</td>\n</tr>\n</tbody>\n</table>\n</div>\n<h3>Background</h3>\n<ul>\n<li><strong>Critical Infrastructure Sectors: </strong>Critical Manufacturing, Energy, Information Technology, Transportation Systems, Water and Wastewater</li>\n<li><strong>Countries/Areas Deployed: </strong>Worldwide</li>\n<li><strong>Company Headquarters Location: </strong>China</li>\n</ul>\n<hr />\n<h2>Vulnerabilities</h2>\n<div class=\"c-expandable-textbox icsa-etb\">\n<div class=\"c-expandable-textbox__title\">CVE-2026-125132</div>\n<div class=\"c-expandable-textbox__body\">The affected product is vulnerable to an integer underflow which may allow a remote attacker to cause a denial of service, memory corruption, or information disclosure.</div>\n<div class=\"c-expandable-textbox-morebutton-wrapper\"><a class=\"c-expandable-textbox-morebutton\" href=\"https://www.cisa.gov/\">Read More</a></div>\n<div class=\"c-expandable-textbox__body2\">\n<h4>1 Affected Product</h4>\n<hr />\n<h5>libumqtt libumqtt &lt;=1.1.1</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>None available</strong><br />The repository owners of libumqtt did not respond to CISA's request for coordination. Users are encouraged to reach out to libumqtt for support. Their GitHub page is located at https://github.com/zhaojh329/libumqtt.</p>\n</div>\n<hr />\n<h6>Additional Metrics</h6>\n<p><strong>Relevant CWE:</strong> <a href=\"https://cwe.mitre.org/data/definitions/191.html\">CWE-191 Integer Underflow (Wrap or Wraparound)</a></p>\n<div class=\"csaf-table csaf-metrics-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS Version</th>\n<th>Base Score</th>\n<th>Base Severity</th>\n<th>Vector String</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3.1</td>\n<td>8.6</td>\n<td>HIGH</td>\n<td><a href=\"https://www.first.org/cvss/calculator/3.1#CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:H\">CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:H</a></td>\n</tr>\n<tr>\n<td>4.0</td>\n<td>8.8</td>\n<td>HIGH</td>\n<td><a href=\"https://www.first.org/cvss/calculator/4.0#CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:L/VA:H/SC:N/SI:N/SA:N\">CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:L/VA:H/SC:N/SI:N/SA:N</a></td>\n</tr>\n</tbody>\n</table>\n</div>\n<hr />\n<p><a href=\"https://www.cve.org/CVERecord?id=CVE-2026-125132\">View CVE Details</a></p>\n</div>\n</div>\n<hr />\n<h2>Acknowledgments</h2>\n<ul>\n<li>Joseph Devasia reported this vulnerability to CISA</li>\n</ul>\n<hr />\n<h2>Recommended Practices</h2>\n<p>CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities.</p>\n<ul type=\"disc\">\n<li>Minimize network exposure for all control system devices and/or systems, ensuring they are <a href=\"https://www.cisa.gov/uscert/ics/alerts/ICS-ALERT-10-301-01\">not accessible from the internet</a>.</li>\n<li>Locate control system networks and remote devices behind firewalls and isolating them from business networks.</li>\n<li>When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices.</li>\n</ul>\n<p>CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures.</p>\n<p>CISA also provides a section for <a href=\"https://www.cisa.gov/resources-tools/resources/ics-recommended-practices\">control systems security recommended practices</a> on the ICS webpage on <a href=\"https://www.cisa.gov/topics/industrial-control-systems\">cisa.gov/ics</a>. Several CISA products detailing cyber defense best practices are available for reading and download, including <a href=\"https://www.cisa.gov/sites/default/files/recommended_practices/NCCIC_ICS-CERT_Defense_in_Depth_2016_S508C.pdf\">Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies</a>.</p>\n<p>CISA encourages organizations to implement recommended cybersecurity strategies for <a href=\"https://www.cisa.gov/sites/default/files/publications/Cybersecurity_Best_Practices_for_Industrial_Control_Systems.pdf\">proactive defense of ICS assets</a>.</p>\n<p>Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at <a href=\"https://www.cisa.gov/topics/industrial-control-systems\">cisa.gov/ics</a> in the technical information paper, <a href=\"https://www.cisa.gov/news-events/news/targeted-cyber-intrusion-detection-and-mitigation-strategies-update-b\">ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies</a>.</p>\n<p>Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents.</p>\n<p>CISA also recommends users take the following measures to protect themselves from social engineering attacks:</p>\n<ul type=\"disc\">\n<li>Do not click web links or open attachments in unsolicited email messages.</li>\n<li>Refer to <a href=\"https://www.cisa.gov/secure-our-world/teach-employees-avoid-phishing\">Recognizing and Avoiding Email Scams</a> for more information on avoiding email scams.</li>\n<li>Refer to <a href=\"https://www.cisa.gov/news-events/news/avoiding-social-engineering-and-phishing-attacks\">Avoiding Social Engineering and Phishing Attacks</a> for more information on social engineering attacks.</li>\n</ul>\n<p>No known public exploitation specifically targeting this vulnerability has been reported to CISA at this time.</p>\n<hr />\n<h2>Revision History</h2>\n<ul>\n<li><strong>Initial Release Date: </strong>2026-11-19</li>\n</ul>\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>Date</th>\n<th>Revision</th>\n<th>Summary</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>2026-11-19</td>\n<td>1</td>\n<td>Initial Publication</td>\n</tr>\n</tbody>\n</table>\n<hr />\n<h2>Legal Notice and Terms of Use</h2>"
-  },
-  {
-    "source": "Cisa Alerts",
     "title": "Autonomy Logic OpenPLC Runtime",
     "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01",
     "published": "Thu, 19 Nov 26 12:00:00 +0000",
@@ -1727,37 +1753,16 @@
   },
   {
     "source": "Cisa Alerts",
+    "title": "libumqtt",
+    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03",
+    "published": "Thu, 19 Nov 26 12:00:00 +0000",
+    "summary": "<p><a href=\"https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-323-03.json\"><strong>View CSAF</strong></a></p>\n<h2>Summary</h2>\n<p><strong>Successful exploitation of this vulnerability could allow a remote attacker to cause a denial of service, memory corruption, or information disclosure.</strong></p>\n<p>The following versions of libumqtt are affected:</p>\n<ul>\n<li>libumqtt &lt;=1.1.1 (CVE-2026-125132)</li>\n</ul>\n<div class=\"csaf-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS</th>\n<th>Vendor</th>\n<th>Equipment</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>v3 8.6</td>\n<td>libumqtt</td>\n<td>libumqtt</td>\n</tr>\n</tbody>\n</table>\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>1 Vulnerability</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Integer Underflow (Wrap or Wraparound)</td>\n</tr>\n</tbody>\n</table>\n</div>\n<h3>Background</h3>\n<ul>\n<li><strong>Critical Infrastructure Sectors: </strong>Critical Manufacturing, Energy, Information Technology, Transportation Systems, Water and Wastewater</li>\n<li><strong>Countries/Areas Deployed: </strong>Worldwide</li>\n<li><strong>Company Headquarters Location: </strong>China</li>\n</ul>\n<hr />\n<h2>Vulnerabilities</h2>\n<div class=\"c-expandable-textbox icsa-etb\">\n<div class=\"c-expandable-textbox__title\">CVE-2026-125132</div>\n<div class=\"c-expandable-textbox__body\">The affected product is vulnerable to an integer underflow which may allow a remote attacker to cause a denial of service, memory corruption, or information disclosure.</div>\n<div class=\"c-expandable-textbox-morebutton-wrapper\"><a class=\"c-expandable-textbox-morebutton\" href=\"https://www.cisa.gov/\">Read More</a></div>\n<div class=\"c-expandable-textbox__body2\">\n<h4>1 Affected Product</h4>\n<hr />\n<h5>libumqtt libumqtt &lt;=1.1.1</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>None available</strong><br />The repository owners of libumqtt did not respond to CISA's request for coordination. Users are encouraged to reach out to libumqtt for support. Their GitHub page is located at https://github.com/zhaojh329/libumqtt.</p>\n</div>\n<hr />\n<h6>Additional Metrics</h6>\n<p><strong>Relevant CWE:</strong> <a href=\"https://cwe.mitre.org/data/definitions/191.html\">CWE-191 Integer Underflow (Wrap or Wraparound)</a></p>\n<div class=\"csaf-table csaf-metrics-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS Version</th>\n<th>Base Score</th>\n<th>Base Severity</th>\n<th>Vector String</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3.1</td>\n<td>8.6</td>\n<td>HIGH</td>\n<td><a href=\"https://www.first.org/cvss/calculator/3.1#CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:H\">CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:H</a></td>\n</tr>\n<tr>\n<td>4.0</td>\n<td>8.8</td>\n<td>HIGH</td>\n<td><a href=\"https://www.first.org/cvss/calculator/4.0#CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:L/VA:H/SC:N/SI:N/SA:N\">CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:L/VA:H/SC:N/SI:N/SA:N</a></td>\n</tr>\n</tbody>\n</table>\n</div>\n<hr />\n<p><a href=\"https://www.cve.org/CVERecord?id=CVE-2026-125132\">View CVE Details</a></p>\n</div>\n</div>\n<hr />\n<h2>Acknowledgments</h2>\n<ul>\n<li>Joseph Devasia reported this vulnerability to CISA</li>\n</ul>\n<hr />\n<h2>Recommended Practices</h2>\n<p>CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities.</p>\n<ul type=\"disc\">\n<li>Minimize network exposure for all control system devices and/or systems, ensuring they are <a href=\"https://www.cisa.gov/uscert/ics/alerts/ICS-ALERT-10-301-01\">not accessible from the internet</a>.</li>\n<li>Locate control system networks and remote devices behind firewalls and isolating them from business networks.</li>\n<li>When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices.</li>\n</ul>\n<p>CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures.</p>\n<p>CISA also provides a section for <a href=\"https://www.cisa.gov/resources-tools/resources/ics-recommended-practices\">control systems security recommended practices</a> on the ICS webpage on <a href=\"https://www.cisa.gov/topics/industrial-control-systems\">cisa.gov/ics</a>. Several CISA products detailing cyber defense best practices are available for reading and download, including <a href=\"https://www.cisa.gov/sites/default/files/recommended_practices/NCCIC_ICS-CERT_Defense_in_Depth_2016_S508C.pdf\">Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies</a>.</p>\n<p>CISA encourages organizations to implement recommended cybersecurity strategies for <a href=\"https://www.cisa.gov/sites/default/files/publications/Cybersecurity_Best_Practices_for_Industrial_Control_Systems.pdf\">proactive defense of ICS assets</a>.</p>\n<p>Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at <a href=\"https://www.cisa.gov/topics/industrial-control-systems\">cisa.gov/ics</a> in the technical information paper, <a href=\"https://www.cisa.gov/news-events/news/targeted-cyber-intrusion-detection-and-mitigation-strategies-update-b\">ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies</a>.</p>\n<p>Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents.</p>\n<p>CISA also recommends users take the following measures to protect themselves from social engineering attacks:</p>\n<ul type=\"disc\">\n<li>Do not click web links or open attachments in unsolicited email messages.</li>\n<li>Refer to <a href=\"https://www.cisa.gov/secure-our-world/teach-employees-avoid-phishing\">Recognizing and Avoiding Email Scams</a> for more information on avoiding email scams.</li>\n<li>Refer to <a href=\"https://www.cisa.gov/news-events/news/avoiding-social-engineering-and-phishing-attacks\">Avoiding Social Engineering and Phishing Attacks</a> for more information on social engineering attacks.</li>\n</ul>\n<p>No known public exploitation specifically targeting this vulnerability has been reported to CISA at this time.</p>\n<hr />\n<h2>Revision History</h2>\n<ul>\n<li><strong>Initial Release Date: </strong>2026-11-19</li>\n</ul>\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>Date</th>\n<th>Revision</th>\n<th>Summary</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>2026-11-19</td>\n<td>1</td>\n<td>Initial Publication</td>\n</tr>\n</tbody>\n</table>\n<hr />\n<h2>Legal Notice and Terms of Use</h2>"
+  },
+  {
+    "source": "Cisa Alerts",
     "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
     "link": "https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog",
     "published": "Wed, 18 Nov 26 12:00:00 +0000",
     "summary": "<div class=\"OutlineElement Ltr SCXW266414493 BCX8\">\n<p>CISA has added four new vulnerabilities to its <a href=\"https://www.cisa.gov/known-exploited-vulnerabilities-catalog\"><u>Known Exploited Vulnerabilities (KEV) Catalog</u></a>, based on evidence of active exploitation.&nbsp;</p>\n<ul>\n<li><a href=\"https://www.cve.org/CVERecord?id=CVE-2024-10441\" target=\"_blank\">CVE-2024-10441 </a>Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerability</li>\n<li><a href=\"https://www.cve.org/CVERecord?id=CVE-2026-40217\" target=\"_blank\">CVE-2026-40217</a> BerriAI LiteLLM Unprotected Alternate Channel Vulnerability</li>\n<li><a href=\"https://www.cve.org/CVERecord?id=CVE-2026-90436\" target=\"_blank\">CVE-2026-90436</a> Apache Axis Unsafe Reflection Vulnerability</li>\n<li><a href=\"https://www.cve.org/CVERecord?id=CVE-2026-90817\" target=\"_blank\">CVE-2026-90817</a> Vanderbilt University Research Electronic Data Capture (REDCap) Code Injection Vulnerability</li>\n</ul>\n<p>These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise.&nbsp;</p>\n<p><a href=\"https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk\"><u>Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk</u></a> establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA’s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied.&nbsp;</p>\n</div>\n<div class=\"OutlineElement Ltr SCXW266414493 BCX8\">\n<p>While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of <a href=\"https://www.cisa.gov/known-exploited-vulnerabilities-catalog\"><u>KEV Catalog vulnerabilities</u></a>. CISA will continue to add vulnerabilities to the catalog that meet the <a href=\"https://www.cisa.gov/known-exploited-vulnerabilities\" target=\"_blank\"><u>specified criteria</u></a>.&nbsp;</p>\n</div>\n<div class=\"OutlineElement Ltr SCXW266414493 BCX8\">\n<p>Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA’s <a href=\"https://cisasurvey.gov1.qualtrics.com/jfe/form/SV_1Zwu52kgK2OYf3w\" target=\"_blank\"><u>KEV Nomination Form</u></a>. Potential KEV additions must have a CVE ID, evidence of exploitation, and clear mitigation guidance.&nbsp;</p>\n</div>"
-  },
-  {
-    "source": "Cisa Alerts",
-    "title": "Siemens ROS#",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06",
-    "published": "Tue, 17 Nov 26 12:00:00 +0000",
-    "summary": "<p><a href=\"https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-321-06.json\"><strong>View CSAF</strong></a></p>\n<h2>Summary</h2>\n<p><strong>ROS# before version 2.3.1 contains a code injection vulnerability that could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program. Siemens has released a new version for ROS# and recommends to update to the latest version.</strong></p>\n<p>The following versions of Siemens ROS# are affected:</p>\n<ul>\n<li>ROS# vers:intdot/&lt;2.3.1 (CVE-2026-109097)</li>\n</ul>\n<div class=\"csaf-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS</th>\n<th>Vendor</th>\n<th>Equipment</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>v3 8.2</td>\n<td>Siemens</td>\n<td>ROS#</td>\n</tr>\n</tbody>\n</table>\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>1 Vulnerability</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Improper Control of Generation of Code ('Code Injection')</td>\n</tr>\n</tbody>\n</table>\n</div>\n<h3>Background</h3>\n<ul>\n<li><strong>Critical Infrastructure Sectors: </strong>Critical Manufacturing</li>\n<li><strong>Countries/Areas Deployed: </strong>Worldwide</li>\n<li><strong>Company Headquarters Location: </strong>Germany</li>\n</ul>\n<hr />\n<h2>Vulnerabilities</h2>\n<div class=\"c-expandable-textbox icsa-etb\">\n<div class=\"c-expandable-textbox__title\">CVE-2026-109097</div>\n<div class=\"c-expandable-textbox__body\">Affected systems do not properly escape text of message definition files. This could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program.</div>\n<div class=\"c-expandable-textbox-morebutton-wrapper\"><a class=\"c-expandable-textbox-morebutton\" href=\"https://www.cisa.gov/\">Read More</a></div>\n<div class=\"c-expandable-textbox__body2\">\n<h4>1 Affected Product</h4>\n<hr />\n<h5>ROS# &lt; V2.3.1</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Update to V2.3.1 or later version</p>\n</div>\n<hr />\n<h6>Additional Metrics</h6>\n<p><strong>Relevant CWE:</strong> <a href=\"https://cwe.mitre.org/data/definitions/94.html\">CWE-94 Improper Control of Generation of Code ('Code Injection')</a></p>\n<div class=\"csaf-table csaf-metrics-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS Version</th>\n<th>Base Score</th>\n<th>Base Severity</th>\n<th>Vector String</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3.1</td>\n<td>8.2</td>\n<td>HIGH</td>\n<td><a href=\"https://www.first.org/cvss/calculator/3.1#CVSS:3.1/AV:L/AC:L/PR:L/UI:R/S:C/C:H/I:H/A:H\">CVSS:3.1/AV:L/AC:L/PR:L/UI:R/S:C/C:H/I:H/A:H</a></td>\n</tr>\n</tbody>\n</table>\n</div>\n<hr />\n<p><a href=\"https://www.cve.org/CVERecord?id=CVE-2026-109097\">View CVE Details</a></p>\n</div>\n</div>\n<hr />\n<h2>Acknowledgments</h2>\n<ul>\n<li>Siemens ProductCERT reported this vulnerability to CISA.</li>\n</ul>\n<hr />\n<h2>General Recommendations</h2>\n<p>As a general security measure, Siemens strongly recommends to protect network access to devices with appropriate mechanisms. In order to operate the devices in a protected IT environment, Siemens recommends to configure the environment according to Siemens' operational guidelines for Industrial Security (Download: https://www.siemens.com/cert/operational-guidelines-industrial-security), and to follow the recommendations in the product manuals. Additional information on Industrial Security by Siemens can be found at: https://www.siemens.com/industrialsecurity</p>\n<hr />\n<h2>Additional Resources</h2>\n<p>For further inquiries on security vulnerabilities in Siemens products and solutions, please contact the Siemens ProductCERT: https://www.siemens.com/cert/advisories</p>\n<hr />\n<h2>Terms of Use</h2>\n<p>The use of Siemens Security Advisories is subject to the terms and conditions listed on: https://www.siemens.com/productcert/terms-of-use.</p>\n<hr />\n<h2>Recommended Practices</h2>\n<p>CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities.</p>\n<ul type=\"disc\">\n<li>Minimize network exposure for all control system devices and/or systems, ensuring they are <a href=\"https://www.cisa.gov/uscert/ics/alerts/ICS-ALERT-10-301-01\">not accessible from the internet</a>.</li>\n<li>Locate control system networks and remote devices behind firewalls and isolating them from business networks.</li>\n<li>When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices.</li>\n</ul>\n<p>CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures.</p>\n<p>CISA also provides a section for <a href=\"https://www.cisa.gov/resources-tools/resources/ics-recommended-practices\">control systems security recommended practices</a> on the ICS webpage on <a href=\"https://www.cisa.gov/topics/industrial-control-systems\">cisa.gov/ics</a>. Several CISA products detailing cyber defense best practices are available for reading and download, including <a href=\"https://www.cisa.gov/sites/default/files/recommended_practices/NCCIC_ICS-CERT_Defense_in_Depth_2016_S508C.pdf\">Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies</a>.</p>\n<p>CISA encourages organizations to implement recommended cybersecurity strategies for <a href=\"https://www.cisa.gov/sites/default/files/publications/Cybersecurity_Best_Practices_for_Industrial_Control_Systems.pdf\">proactive defense of ICS assets</a>.</p>\n<p>Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at <a href=\"https://www.cisa.gov/topics/industrial-control-systems\">cisa.gov/ics</a> in the technical information paper, <a href=\"https://www.cisa.gov/news-events/news/targeted-cyber-intrusion-detection-and-mitigation-strategies-update-b\">ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies</a>.</p>\n<p>Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents.</p>\n<hr />\n<h2>Advisory Conversion Disclaimer</h2>\n<p>This ICSA is a verbatim republication of Siemens ProductCERT SSA-435267 from a direct conversion of the vendor's Common Security Advisory Framework (CSAF) advisory. This is republished to CISA's website as a means of increasing visibility and is provided \"as-is\" for informational purposes only. CISA is not responsible for the editorial or technical accuracy of republished advisories and provides no warranties of any kind regarding any information contained within this advisory. Further, CISA does not endorse any commercial product or service. Please contact Siemens ProductCERT directly for any questions regarding this advisory.</p>\n<h2>Revision History</h2>\n<ul>\n<li><strong>Initial Release Date: </strong>2026-11-10</li>\n</ul>\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>Date</th>\n<th>Revision</th>\n<th>Summary</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>2026-11-10</td>\n<td>1</td>\n<td>Publication Date</td>\n</tr>\n<tr>\n<td>2026-11-17</td>\n<td>2</td>\n<td>Initial CISA Republication of Siemens ProductCERT SSA-435267 advisory</td>\n</tr>\n</tbody>\n</table>\n<hr />\n<h2>Legal Notice and Terms of Use</h2>"
-  },
-  {
-    "source": "Cisa Alerts",
-    "title": "Dorsett Controls InfoScan",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-01",
-    "published": "Tue, 17 Nov 26 12:00:00 +0000",
-    "summary": "<p><a href=\"https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-321-01.json\"><strong>View CSAF</strong></a></p>\n<h2>Summary</h2>\n<p><strong>Successful exploitation of these vulnerabilities could allow an attacker to retrieve sensitive system information, access application data without authorization, recover stored credentials, or intercept and manipulate network communications.</strong></p>\n<p>The following versions of Dorsett Controls InfoScan are affected:</p>\n<ul>\n<li>InfoScan &lt;=1.45.0 (CVE-2026-117659, CVE-2026-120157, CVE-2026-120255, CVE-2026-120260, CVE-2026-120271, CVE-2026-120298)</li>\n</ul>\n<div class=\"csaf-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS</th>\n<th>Vendor</th>\n<th>Equipment</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>v3 8.1</td>\n<td>Dorsett Controls</td>\n<td>InfoScan</td>\n</tr>\n</tbody>\n</table>\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>5 Vulnerabilities</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Improper Certificate Validation, Exposure of Sensitive System Information to an Unauthorized Control Sphere, Use of Hard-coded Cryptographic Key, Missing Authentication for Critical Function, Generation of Error Message Containing Sensitive Information</td>\n</tr>\n</tbody>\n</table>\n</div>\n<h3>Background</h3>\n<ul>\n<li><strong>Critical Infrastructure Sectors: </strong>Water and Wastewater Systems</li>\n<li><strong>Countries/Areas Deployed: </strong>Worldwide</li>\n<li><strong>Company Headquarters Location: </strong>United States</li>\n</ul>\n<hr />\n<h2>Vulnerabilities</h2>\n<div class=\"icsa-etb-toggle-wrapper\"><a class=\"icsa-etb-toggle-all\" href=\"https://www.cisa.gov/\">Expand All +</a></div>\n<div class=\"c-expandable-textbox icsa-etb\">\n<div class=\"c-expandable-textbox__title\">CVE-2026-117659</div>\n<div class=\"c-expandable-textbox__body\">The InfoScan Electron desktop client improperly handles TLS certificate errors by accepting certificates without validating their trustworthiness. The client also configures Electron with nodeIntegration enabled, contextIsolation disabled, and webSecurity disabled. These settings weaken the client’s security boundaries. An attacker who is able to intercept or manipulate network communications may be able to present an untrusted certificate without the application rejecting the connection.</div>\n<div class=\"c-expandable-textbox-morebutton-wrapper\"><a class=\"c-expandable-textbox-morebutton\" href=\"https://www.cisa.gov/\">Read More</a></div>\n<div class=\"c-expandable-textbox__body2\">\n<h4>1 Affected Product</h4>\n<hr />\n<h5>Dorsett Controls InfoScan &lt;=1.45.0</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Dorsett Controls recommends updating affected versions of InfoScan to v1.46 or higher. To install the security patch, user administrators will need to log in to InfoScan and select System Maintenance from the menu. Once the System Maintenance application is open, select Check for Updates, and click the Install Now button in the Ready To Install section. If you are an offline customer (InfoScan has no internet access), you will need to download the update from the Dorsett Controls Customer Portal by selecting the InfoScan Update tile, downloading the update, and following the instructions listed on the portal.</p>\n</div>\n<hr />\n<h6>Additional Metrics</h6>\n<p><strong>Relevant CWE:</strong> <a href=\"https://cwe.mitre.org/data/definitions/295.html\">CWE-295 Improper Certificate Validation</a></p>\n<div class=\"csaf-table csaf-metrics-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS Version</th>\n<th>Base Score</th>\n<th>Base Severity</th>\n<th>Vector String</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3.1</td>\n<td>8.1</td>\n<td>HIGH</td>\n<td><a href=\"https://www.first.org/cvss/calculator/3.1#CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:N\">CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:N</a></td>\n</tr>\n<tr>\n<td>4.0</td>\n<td>8.5</td>\n<td>HIGH</td>\n<td><a href=\"https://www.first.org/cvss/calculator/4.0#CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:A/VC:H/VI:H/VA:N/SC:N/SI:N/SA:N\">CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:A/VC:H/VI:H/VA:N/SC:N/SI:N/SA:N</a></td>\n</tr>\n</tbody>\n</table>\n</div>\n<hr />\n<p><a href=\"https://www.cve.org/CVERecord?id=CVE-2026-117659\">View CVE Details</a></p>\n</div>\n</div>\n<div class=\"c-expandable-textbox icsa-etb\">\n<div class=\"c-expandable-textbox__title\">CVE-2026-120157</div>\n<div class=\"c-expandable-textbox__body\">The publicly distributed InfoScan Electron installer contains configuration files identifying hostnames associated with customer installations and internal development, testing, and database infrastructure. An individual who obtains and inspects the installer can extract these hostnames without authenticating to the affected systems.</div>\n<div class=\"c-expandable-textbox-morebutton-wrapper\"><a class=\"c-expandable-textbox-morebutton\" href=\"https://www.cisa.gov/\">Read More</a></div>\n<div class=\"c-expandable-textbox__body2\">\n<h4>2 Affected Products</h4>\n<hr />\n<h5>Dorsett Controls InfoScan &lt;=1.45.0</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Dorsett Controls recommends updating affected versions of InfoScan to v1.46 or higher. To install the security patch, user administrators will need to log in to InfoScan and select System Maintenance from the menu. Once the System Maintenance application is open, select Check for Updates, and click the Install Now button in the Ready To Install section. If you are an offline customer (InfoScan has no internet access), you will need to download the update from the Dorsett Controls Customer Portal by selecting the InfoScan Update tile, downloading the update, and following the instructions listed on the portal.</p>\n</div>\n<hr />\n<h5>Dorsett Controls InfoScan &lt;=1.45.0</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Dorsett Controls recommends updating affected versions of InfoScan to v1.46 or higher. To install the security patch, user administrators will need to log in to InfoScan and select System Maintenance from the menu. Once the System Maintenance application is open, select Check for Updates, and click the Install Now button in the Ready To Install section. If you are an offline customer (InfoScan has no internet access), you will need to download the update from the Dorsett Controls Customer Portal by selecting the InfoScan Update tile, downloading the update, and following the instructions listed on the portal.</p>\n</div>\n<hr />\n<h6>Additional Metrics</h6>\n<p><strong>Relevant CWE:</strong> <a href=\"https://cwe.mitre.org/data/definitions/497.html\">CWE-497 Exposure of Sensitive System Information to an Unauthorized Control Sphere</a></p>\n<div class=\"csaf-table csaf-metrics-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS Version</th>\n<th>Base Score</th>\n<th>Base Severity</th>\n<th>Vector String</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3.1</td>\n<td>5.3</td>\n<td>MEDIUM</td>\n<td><a href=\"https://www.first.org/cvss/calculator/3.1#CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N\">CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N</a></td>\n</tr>\n<tr>\n<td>4.0</td>\n<td>6.9</td>\n<td>MEDIUM</td>\n<td><a href=\"https://www.first.org/cvss/calculator/4.0#CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:N/VA:N/SC:N/SI:N/SA:N\">CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:N/VA:N/SC:N/SI:N/SA:N</a></td>\n</tr>\n</tbody>\n</table>\n</div>\n<hr />\n<p><a href=\"https://www.cve.org/CVERecord?id=CVE-2026-120157\">View CVE Details</a></p>\n</div>\n</div>\n<div class=\"c-expandable-textbox icsa-etb\">\n<div class=\"c-expandable-textbox__title\">CVE-2026-120255</div>\n<div class=\"c-expandable-textbox__body\">InfoScan uses hard-coded cryptographic keys and initialization-vector values in its database-encryption implementation. The application uses these values to encrypt the MongoDB password before storing it in the Windows registry. Because the cryptographic material is embedded in the distributed application, an individual with access to the encrypted registry value and the application code may be able to recover the database password.</div>\n<div class=\"c-expandable-textbox-morebutton-wrapper\"><a class=\"c-expandable-textbox-morebutton\" href=\"https://www.cisa.gov/\">Read More</a></div>\n<div class=\"c-expandable-textbox__body2\">\n<h4>3 Affected Products</h4>\n<hr />\n<h5>Dorsett Controls InfoScan &lt;=1.45.0</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Dorsett Controls recommends updating affected versions of InfoScan to v1.46 or higher. To install the security patch, user administrators will need to log in to InfoScan and select System Maintenance from the menu. Once the System Maintenance application is open, select Check for Updates, and click the Install Now button in the Ready To Install section. If you are an offline customer (InfoScan has no internet access), you will need to download the update from the Dorsett Controls Customer Portal by selecting the InfoScan Update tile, downloading the update, and following the instructions listed on the portal.</p>\n</div>\n<hr />\n<h5>Dorsett Controls InfoScan &lt;=1.45.0</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Dorsett Controls recommends updating affected versions of InfoScan to v1.46 or higher. To install the security patch, user administrators will need to log in to InfoScan and select System Maintenance from the menu. Once the System Maintenance application is open, select Check for Updates, and click the Install Now button in the Ready To Install section. If you are an offline customer (InfoScan has no internet access), you will need to download the update from the Dorsett Controls Customer Portal by selecting the InfoScan Update tile, downloading the update, and following the instructions listed on the portal.</p>\n</div>\n<hr />\n<h5>Dorsett Controls InfoScan &lt;=1.45.0</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Dorsett Controls recommends updating affected versions of InfoScan to v1.46 or higher. To install the security patch, user administrators will need to log in to InfoScan and select System Maintenance from the menu. Once the System Maintenance application is open, select Check for Updates, and click the Install Now button in the Ready To Install section. If you are an offline customer (InfoScan has no internet access), you will need to download the update from the Dorsett Controls Customer Portal by selecting the InfoScan Update tile, downloading the update, and following the instructions listed on the portal.</p>\n</div>\n<hr />\n<h6>Additional Metrics</h6>\n<p><strong>Relevant CWE:</strong> <a href=\"https://cwe.mitre.org/data/definitions/321.html\">CWE-321 Use of Hard-coded Cryptographic Key</a></p>\n<div class=\"csaf-table csaf-metrics-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS Version</th>\n<th>Base Score</th>\n<th>Base Severity</th>\n<th>Vector String</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3.1</td>\n<td>4.3</td>\n<td>MEDIUM</td>\n<td><a href=\"https://www.first.org/cvss/calculator/3.1#CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N\">CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N</a></td>\n</tr>\n<tr>\n<td>4.0</td>\n<td>5.1</td>\n<td>MEDIUM</td>\n<td><a href=\"https://www.first.org/cvss/calculator/4.0#CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:A/VC:L/VI:N/VA:N/SC:N/SI:N/SA:N\">CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:A/VC:L/VI:N/VA:N/SC:N/SI:N/SA:N</a></td>\n</tr>\n</tbody>\n</table>\n</div>\n<hr />\n<p><a href=\"https://www.cve.org/CVERecord?id=CVE-2026-120255\">View CVE Details</a></p>\n</div>\n</div>\n<div class=\"c-expandable-textbox icsa-etb\">\n<div class=\"c-expandable-textbox__title\">CVE-2026-120260</div>\n<div class=\"c-expandable-textbox__body\">InfoScan does not enforce authentication on an endpoint used to retrieve sales-automation templates. A local attacker can submit an HTTP request to the affected endpoint without a valid session and retrieve the returned template data.</div>\n<div class=\"c-expandable-textbox-morebutton-wrapper\"><a class=\"c-expandable-textbox-morebutton\" href=\"https://www.cisa.gov/\">Read More</a></div>\n<div class=\"c-expandable-textbox__body2\">\n<h4>4 Affected Products</h4>\n<hr />\n<h5>Dorsett Controls InfoScan &lt;=1.45.0</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Dorsett Controls recommends updating affected versions of InfoScan to v1.46 or higher. To install the security patch, user administrators will need to log in to InfoScan and select System Maintenance from the menu. Once the System Maintenance application is open, select Check for Updates, and click the Install Now button in the Ready To Install section. If you are an offline customer (InfoScan has no internet access), you will need to download the update from the Dorsett Controls Customer Portal by selecting the InfoScan Update tile, downloading the update, and following the instructions listed on the portal.</p>\n</div>\n<hr />\n<h5>Dorsett Controls InfoScan &lt;=1.45.0</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Dorsett Controls recommends updating affected versions of InfoScan to v1.46 or higher. To install the security patch, user administrators will need to log in to InfoScan and select System Maintenance from the menu. Once the System Maintenance application is open, select Check for Updates, and click the Install Now button in the Ready To Install section. If you are an offline customer (InfoScan has no internet access), you will need to download the update from the Dorsett Controls Customer Portal by selecting the InfoScan Update tile, downloading the update, and following the instructions listed on the portal.</p>\n</div>\n<hr />\n<h5>Dorsett Controls InfoScan &lt;=1.45.0</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Dorsett Controls recommends updating affected versions of InfoScan to v1.46 or higher. To install the security patch, user administrators will need to log in to InfoScan and select System Maintenance from the menu. Once the System Maintenance application is open, select Check for Updates, and click the Install Now button in the Ready To Install section. If you are an offline customer (InfoScan has no internet access), you will need to download the update from the Dorsett Controls Customer Portal by selecting the InfoScan Update tile, downloading the update, and following the instructions listed on the portal.</p>\n</div>\n<hr />\n<h5>Dorsett Controls InfoScan &lt;=1.45.0</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Dorsett Controls recommends updating affected versions of InfoScan to v1.46 or higher. To install the security patch, user administrators will need to log in to InfoScan and select System Maintenance from the menu. Once the System Maintenance application is open, select Check for Updates, and click the Install Now button in the Ready To Install section. If you are an offline customer (InfoScan has no internet access), you will need to download the update from the Dorsett Controls Customer Portal by selecting the InfoScan Update tile, downloading the update, and following the instructions listed on the portal.</p>\n</div>\n<hr />\n<h6>Additional Metrics</h6>\n<p><strong>Relevant CWE:</strong> <a href=\"https://cwe.mitre.org/data/definitions/306.html\">CWE-306 Missing Authentication for Critical Function</a></p>\n<div class=\"csaf-table csaf-metrics-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS Version</th>\n<th>Base Score</th>\n<th>Base Severity</th>\n<th>Vector String</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3.1</td>\n<td>5.5</td>\n<td>MEDIUM</td>\n<td><a href=\"https://www.first.org/cvss/calculator/3.1#CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N\">CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N</a></td>\n</tr>\n<tr>\n<td>4.0</td>\n<td>6.8</td>\n<td>MEDIUM</td>\n<td><a href=\"https://www.first.org/cvss/calculator/4.0#CVSS:4.0/AV:L/AC:L/AT:N/PR:L/UI:N/VC:H/VI:N/VA:N/SC:N/SI:N/SA:N\">CVSS:4.0/AV:L/AC:L/AT:N/PR:L/UI:N/VC:H/VI:N/VA:N/SC:N/SI:N/SA:N</a></td>\n</tr>\n</tbody>\n</table>\n</div>\n<hr />\n<p><a href=\"https://www.cve.org/CVERecord?id=CVE-2026-120260\">View CVE Details</a></p>\n</div>\n</div>\n<div class=\"c-expandable-textbox icsa-etb\">\n<div class=\"c-expandable-textbox__title\">CVE-2026-120271</div>\n<div class=\"c-expandable-textbox__body\">InfoScan contains an unauthenticated information disclosure vulnerability in its mobile-enumeration and version-reporting endpoints. A remote attacker can send HTTP requests without authentication to retrieve system configuration information, including usernames and display names, multifactor authentication configuration status, session settings, application version information, server details, hardware module firmware versions, and the BACnet/IP port used by the installation.</div>\n<div class=\"c-expandable-textbox-morebutton-wrapper\"><a class=\"c-expandable-textbox-morebutton\" href=\"https://www.cisa.gov/\">Read More</a></div>\n<div class=\"c-expandable-textbox__body2\">\n<h4>5 Affected Products</h4>\n<hr />\n<h5>Dorsett Controls InfoScan &lt;=1.45.0</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Dorsett Controls recommends updating affected versions of InfoScan to v1.46 or higher. To install the security patch, user administrators will need to log in to InfoScan and select System Maintenance from the menu. Once the System Maintenance application is open, select Check for Updates, and click the Install Now button in the Ready To Install section. If you are an offline customer (InfoScan has no internet access), you will need to download the update from the Dorsett Controls Customer Portal by selecting the InfoScan Update tile, downloading the update, and following the instructions listed on the portal.</p>\n</div>\n<hr />\n<h5>Dorsett Controls InfoScan &lt;=1.45.0</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Dorsett Controls recommends updating affected versions of InfoScan to v1.46 or higher. To install the security patch, user administrators will need to log in to InfoScan and select System Maintenance from the menu. Once the System Maintenance application is open, select Check for Updates, and click the Install Now button in the Ready To Install section. If you are an offline customer (InfoScan has no internet access), you will need to download the update from the Dorsett Controls Customer Portal by selecting the InfoScan Update tile, downloading the update, and following the instructions listed on the portal.</p>\n</div>\n<hr />\n<h5>Dorsett Controls InfoScan &lt;=1.45.0</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Dorsett Controls recommends updating affected versions of InfoScan to v1.46 or higher. To install the security patch, user administrators will need to log in to InfoScan and select System Maintenance from the menu. Once the System Maintenance application is open, select Check for Updates, and click the Install Now button in the Ready To Install section. If you are an offline customer (InfoScan has no internet access), you will need to download the update from the Dorsett Controls Customer Portal by selecting the InfoScan Update tile, downloading the update, and following the instructions listed on the portal.</p>\n</div>\n<hr />\n<h5>Dorsett Controls InfoScan &lt;=1.45.0</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Dorsett Controls recommends updating affected versions of InfoScan to v1.46 or higher. To install the security patch, user administrators will need to log in to InfoScan and select System Maintenance from the menu. Once the System Maintenance application is open, select Check for Updates, and click the Install Now button in the Ready To Install section. If you are an offline customer (InfoScan has no internet access), you will need to download the update from the Dorsett Controls Customer Portal by selecting the InfoScan Update tile, downloading the update, and following the instructions listed on the portal.</p>\n</div>\n<hr />\n<h5>Dorsett Controls InfoScan &lt;=1.45.0</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Dorsett Controls recommends updating affected versions of InfoScan to v1.46 or higher. To install the security patch, user administrators will need to log in to InfoScan and select System Maintenance from the menu. Once the System Maintenance application is open, select Check for Updates, and click the Install Now button in the Ready To Install section. If you are an offline customer (InfoScan has no internet access), you will need to download the update from the Dorsett Controls Customer Portal by selecting the InfoScan Update tile, downloading the update, and following the instructions listed on the portal.</p>\n</div>\n<hr />\n<h6>Additional Metrics</h6>\n<p><strong>Relevant CWE:</strong> <a href=\"https://cwe.mitre.org/data/definitions/497.html\">CWE-497 Exposure of Sensitive System Information to an Unauthorized Control Sphere</a></p>\n<div class=\"csaf-table csaf-metrics-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS Version</th>\n<th>Base Score</th>\n<th>Base Severity</th>\n<th>Vector String</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3.1</td>\n<td>5.3</td>\n<td>MEDIUM</td>\n<td><a href=\"https://www.first.org/cvss/calculator/3.1#CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N\">CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N</a></td>\n</tr>\n<tr>\n<td>4.0</td>\n<td>6.9</td>\n<td>MEDIUM</td>\n<td><a href=\"https://www.first.org/cvss/calculator/4.0#CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:N/VA:N/SC:N/SI:N/SA:N\">CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:N/VA:N/SC:N/SI:N/SA:N</a></td>\n</tr>\n</tbody>\n</table>\n</div>\n<hr />\n<p><a href=\"https://www.cve.org/CVERecord?id=CVE-2026-120271\">View CVE Details</a></p>\n</div>\n</div>\n<div class=\"c-expandable-textbox icsa-etb\">\n<div class=\"c-expandable-textbox__title\">CVE-2026-120298</div>\n<div class=\"c-expandable-textbox__body\">InfoScan fails to properly handle certain malformed or incomplete requests to its login and password-reset endpoints. These requests can trigger unhandled server exceptions that return detailed Node.js stack traces to the requester. The responses disclose internal filesystem paths, application directory names, source file locations, and line numbers.</div>\n<div class=\"c-expandable-textbox-morebutton-wrapper\"><a class=\"c-expandable-textbox-morebutton\" href=\"https://www.cisa.gov/\">Read More</a></div>\n<div class=\"c-expandable-textbox__body2\">\n<h4>6 Affected Products</h4>\n<hr />\n<h5>Dorsett Controls InfoScan &lt;=1.45.0</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Dorsett Controls recommends updating affected versions of InfoScan to v1.46 or higher. To install the security patch, user administrators will need to log in to InfoScan and select System Maintenance from the menu. Once the System Maintenance application is open, select Check for Updates, and click the Install Now button in the Ready To Install section. If you are an offline customer (InfoScan has no internet access), you will need to download the update from the Dorsett Controls Customer Portal by selecting the InfoScan Update tile, downloading the update, and following the instructions listed on the portal.</p>\n</div>\n<hr />\n<h5>Dorsett Controls InfoScan &lt;=1.45.0</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Dorsett Controls recommends updating affected versions of InfoScan to v1.46 or higher. To install the security patch, user administrators will need to log in to InfoScan and select System Maintenance from the menu. Once the System Maintenance application is open, select Check for Updates, and click the Install Now button in the Ready To Install section. If you are an offline customer (InfoScan has no internet access), you will need to download the update from the Dorsett Controls Customer Portal by selecting the InfoScan Update tile, downloading the update, and following the instructions listed on the portal.</p>\n</div>\n<hr />\n<h5>Dorsett Controls InfoScan &lt;=1.45.0</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Dorsett Controls recommends updating affected versions of InfoScan to v1.46 or higher. To install the security patch, user administrators will need to log in to InfoScan and select System Maintenance from the menu. Once the System Maintenance application is open, select Check for Updates, and click the Install Now button in the Ready To Install section. If you are an offline customer (InfoScan has no internet access), you will need to download the update from the Dorsett Controls Customer Portal by selecting the InfoScan Update tile, downloading the update, and following the instructions listed on the portal.</p>\n</div>\n<hr />\n<h5>Dorsett Controls InfoScan &lt;=1.45.0</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Dorsett Controls recommends updating affected versions of InfoScan to v1.46 or higher. To install the security patch, user administrators will need to log in to InfoScan and select System Maintenance from the menu. Once the System Maintenance application is open, select Check for Updates, and click the Install Now button in the Ready To Install section. If you are an offline customer (InfoScan has no internet access), you will need to download the update from the Dorsett Controls Customer Portal by selecting the InfoScan Update tile, downloading the update, and following the instructions listed on the portal.</p>\n</div>\n<hr />\n<h5>Dorsett Controls InfoScan &lt;=1.45.0</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Dorsett Controls recommends updating affected versions of InfoScan to v1.46 or higher. To install the security patch, user administrators will need to log in to InfoScan and select System Maintenance from the menu. Once the System Maintenance application is open, select Check for Updates, and click the Install Now button in the Ready To Install section. If you are an offline customer (InfoScan has no internet access), you will need to download the update from the Dorsett Controls Customer Portal by selecting the InfoScan Update tile, downloading the update, and following the instructions listed on the portal.</p>\n</div>\n<hr />\n<h5>Dorsett Controls InfoScan &lt;=1.45.0</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Dorsett Controls recommends updating affected versions of InfoScan to v1.46 or higher. To install the security patch, user administrators will need to log in to InfoScan and select System Maintenance from the menu. Once the System Maintenance application is open, select Check for Updates, and click the Install Now button in the Ready To Install section. If you are an offline customer (InfoScan has no internet access), you will need to download the update from the Dorsett Controls Customer Portal by selecting the InfoScan Update tile, downloading the update, and following the instructions listed on the portal.</p>\n</div>\n<hr />\n<h6>Additional Metrics</h6>\n<p><strong>Relevant CWE:</strong> <a href=\"https://cwe.mitre.org/data/definitions/209.html\">CWE-209 Generation of Error Message Containing Sensitive Information</a></p>\n<div class=\"csaf-table csaf-metrics-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS Version</th>\n<th>Base Score</th>\n<th>Base Severity</th>\n<th>Vector String</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3.1</td>\n<td>5.3</td>\n<td>MEDIUM</td>\n<td><a href=\"https://www.first.org/cvss/calculator/3.1#CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N\">CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N</a></td>\n</tr>\n<tr>\n<td>4.0</td>\n<td>6.9</td>\n<td>MEDIUM</td>\n<td><a href=\"https://www.first.org/cvss/calculator/4.0#CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:N/VA:N/SC:N/SI:N/SA:N\">CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:N/VA:N/SC:N/SI:N/SA:N</a></td>\n</tr>\n</tbody>\n</table>\n</div>\n<hr />\n<p><a href=\"https://www.cve.org/CVERecord?id=CVE-2026-120298\">View CVE Details</a></p>\n</div>\n</div>\n<hr />\n<h2>Acknowledgments</h2>\n<ul>\n<li>Cyber-Tim reported these vulnerabilities to CISA.</li>\n</ul>\n<hr />\n<h2>Recommended Practices</h2>\n<p>CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities.</p>\n<ul type=\"disc\">\n<li>Minimize network exposure for all control system devices and/or systems, ensuring they are <a href=\"https://www.cisa.gov/uscert/ics/alerts/ICS-ALERT-10-301-01\">not accessible from the internet</a>.</li>\n<li>Locate control system networks and remote devices behind firewalls and isolating them from business networks.</li>\n<li>When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices.</li>\n</ul>\n<p>CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures.</p>\n<p>CISA also provides a section for <a href=\"https://www.cisa.gov/resources-tools/resources/ics-recommended-practices\">control systems security recommended practices</a> on the ICS webpage on <a href=\"https://www.cisa.gov/topics/industrial-control-systems\">cisa.gov/ics</a>. Several CISA products detailing cyber defense best practices are available for reading and download, including <a href=\"https://www.cisa.gov/sites/default/files/recommended_practices/NCCIC_ICS-CERT_Defense_in_Depth_2016_S508C.pdf\">Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies</a>.</p>\n<p>CISA encourages organizations to implement recommended cybersecurity strategies for <a href=\"https://www.cisa.gov/sites/default/files/publications/Cybersecurity_Best_Practices_for_Industrial_Control_Systems.pdf\">proactive defense of ICS assets</a>.</p>\n<p>Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at <a href=\"https://www.cisa.gov/topics/industrial-control-systems\">cisa.gov/ics</a> in the technical information paper, <a href=\"https://www.cisa.gov/news-events/news/targeted-cyber-intrusion-detection-and-mitigation-strategies-update-b\">ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies</a>.</p>\n<p>Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents.</p>\n<p>CISA also recommends users take the following measures to protect themselves from social engineering attacks:</p>\n<ul type=\"disc\">\n<li>Do not click web links or open attachments in unsolicited email messages.</li>\n<li>Refer to <a href=\"https://www.cisa.gov/secure-our-world/teach-employees-avoid-phishing\">Recognizing and Avoiding Email Scams</a> for more information on avoiding email scams.</li>\n<li>Refer to <a href=\"https://www.cisa.gov/news-events/news/avoiding-social-engineering-and-phishing-attacks\">Avoiding Social Engineering and Phishing Attacks</a> for more information on social engineering attacks.</li>\n</ul>\n<p>No known public exploitation specifically targeting these vulnerabilities has been reported to CISA at this time.</p>\n<hr />\n<h2>Revision History</h2>\n<ul>\n<li><strong>Initial Release Date: </strong>2026-11-17</li>\n</ul>\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>Date</th>\n<th>Revision</th>\n<th>Summary</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>2026-11-17</td>\n<td>1</td>\n<td>Initial Publication</td>\n</tr>\n</tbody>\n</table>\n<hr />\n<h2>Legal Notice and Terms of Use</h2>"
-  },
-  {
-    "source": "Cisa Alerts",
-    "title": "Siemens Mendix Studio Pro",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-05",
-    "published": "Tue, 17 Nov 26 12:00:00 +0000",
-    "summary": "<p><a href=\"https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-321-05.json\"><strong>View CSAF</strong></a></p>\n<h2>Summary</h2>\n<p><strong>Mendix Studio Pro contains multiple vulnerabilities in the MCP Server, that could allow an attacker with network access to interact with the server remotely or trick a user's browser into sending unauthorized requests, potentially leading to unauthorized data access, tool execution, or system compromise. Siemens has released new versions for the affected products and recommends to update to the latest versions.</strong></p>\n<p>The following versions of Siemens Mendix Studio Pro are affected:</p>\n<ul>\n<li>Mendix Studio Pro 11 vers:intdot/&gt;=11.15.0|&lt;11.16.0 (CVE-2026-112136, CVE-2026-112137)</li>\n<li>Mendix Studio Pro 11.12 vers:intdot/&gt;=11.12.6|&lt;11.12.7 (CVE-2026-112136, CVE-2026-112137)</li>\n</ul>\n<div class=\"csaf-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS</th>\n<th>Vendor</th>\n<th>Equipment</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>v3 8.8</td>\n<td>Siemens</td>\n<td>Mendix Studio Pro 11</td>\n</tr>\n</tbody>\n</table>\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>2 Vulnerabilities</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Binding to an Unrestricted IP Address, Cross-Site Request Forgery (CSRF)</td>\n</tr>\n</tbody>\n</table>\n</div>\n<h3>Background</h3>\n<ul>\n<li><strong>Critical Infrastructure Sectors: </strong>Critical Manufacturing, Energy</li>\n<li><strong>Countries/Areas Deployed: </strong>Worldwide</li>\n<li><strong>Company Headquarters Location: </strong>Germany</li>\n</ul>\n<hr />\n<h2>Vulnerabilities</h2>\n<div class=\"icsa-etb-toggle-wrapper\"><a class=\"icsa-etb-toggle-all\" href=\"https://www.cisa.gov/\">Expand All +</a></div>\n<div class=\"c-expandable-textbox icsa-etb\">\n<div class=\"c-expandable-textbox__title\">CVE-2026-112136</div>\n<div class=\"c-expandable-textbox__body\">The affected products MCP Server does not properly restrict its HTTP listener to the loopback interface, leaving it potentially exposed to remote systems. This could allow an attacker with network access to interact with the MCP Server remotely.</div>\n<div class=\"c-expandable-textbox-morebutton-wrapper\"><a class=\"c-expandable-textbox-morebutton\" href=\"https://www.cisa.gov/\">Read More</a></div>\n<div class=\"c-expandable-textbox__body2\">\n<h4>2 Affected Products</h4>\n<hr />\n<h5>Mendix Studio Pro 11 &gt;= V11.15.0 &lt; V11.16.0</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Mitigation</strong><br />Maintain strict inbound firewall policies (such as Windows Defender Firewall) blocking external traffic on port 7782. This is already the case by default on standard Windows installations. If remote access is required, restrict traffic via a secure, authenticated channel (e.g., a VPN or SSH tunnel) rather than opening direct inbound firewall rules.</p>\n</div>\n<div>\n<p><strong>Vendor fix</strong><br />Update to V11.16.0 or later version</p>\n</div>\n<hr />\n<h5>Mendix Studio Pro 11.12 &gt;= V11.12.6 &lt; V11.12.7</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Mitigation</strong><br />Maintain strict inbound firewall policies (such as Windows Defender Firewall) blocking external traffic on port 7782. This is already the case by default on standard Windows installations. If remote access is required, restrict traffic via a secure, authenticated channel (e.g., a VPN or SSH tunnel) rather than opening direct inbound firewall rules.</p>\n</div>\n<div>\n<p><strong>Vendor fix</strong><br />Update to V11.12.7 or later version</p>\n</div>\n<hr />\n<h6>Additional Metrics</h6>\n<p><strong>Relevant CWE:</strong> <a href=\"https://cwe.mitre.org/data/definitions/1327.html\">CWE-1327 Binding to an Unrestricted IP Address</a></p>\n<div class=\"csaf-table csaf-metrics-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS Version</th>\n<th>Base Score</th>\n<th>Base Severity</th>\n<th>Vector String</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3.1</td>\n<td>8.8</td>\n<td>HIGH</td>\n<td><a href=\"https://www.first.org/cvss/calculator/3.1#CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H\">CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H</a></td>\n</tr>\n</tbody>\n</table>\n</div>\n<hr />\n<p><a href=\"https://www.cve.org/CVERecord?id=CVE-2026-112136\">View CVE Details</a></p>\n</div>\n</div>\n<div class=\"c-expandable-textbox icsa-etb\">\n<div class=\"c-expandable-textbox__title\">CVE-2026-112137</div>\n<div class=\"c-expandable-textbox__body\">The affected products MCP Server does not properly validate Content-Type and Origin headers on incoming HTTP requests, leaving it vulnerable to Cross-Site Request Forgery (CSRF). This could allow a malicious web page to trick a user's browser into sending unauthorized requests and executing unintended actions on the local MCP Server.</div>\n<div class=\"c-expandable-textbox-morebutton-wrapper\"><a class=\"c-expandable-textbox-morebutton\" href=\"https://www.cisa.gov/\">Read More</a></div>\n<div class=\"c-expandable-textbox__body2\">\n<h4>4 Affected Products</h4>\n<hr />\n<h5>Mendix Studio Pro 11 &gt;= V11.15.0 &lt; V11.16.0</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Mitigation</strong><br />Utilize modern Chromium- or WebKit-based browsers with Private Network Access protections enabled, or use browser extensions (such as uBlock Origin or NoScript) to block external websites from issuing fetch requests to localhost (127.0.0.1).</p>\n</div>\n<div>\n<p><strong>Vendor fix</strong><br />Update to V11.16.0 or later version</p>\n</div>\n<hr />\n<h5>Mendix Studio Pro 11.12 &gt;= V11.12.6 &lt; V11.12.7</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Mitigation</strong><br />Utilize modern Chromium- or WebKit-based browsers with Private Network Access protections enabled, or use browser extensions (such as uBlock Origin or NoScript) to block external websites from issuing fetch requests to localhost (127.0.0.1).</p>\n</div>\n<div>\n<p><strong>Vendor fix</strong><br />Update to V11.12.7 or later version</p>\n</div>\n<hr />\n<h5>Mendix Studio Pro 11 &gt;= V11.15.0 &lt; V11.16.0</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Mitigation</strong><br />Utilize modern Chromium- or WebKit-based browsers with Private Network Access protections enabled, or use browser extensions (such as uBlock Origin or NoScript) to block external websites from issuing fetch requests to localhost (127.0.0.1).</p>\n</div>\n<div>\n<p><strong>Vendor fix</strong><br />Update to V11.16.0 or later version</p>\n</div>\n<hr />\n<h5>Mendix Studio Pro 11.12 &gt;= V11.12.6 &lt; V11.12.7</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Mitigation</strong><br />Utilize modern Chromium- or WebKit-based browsers with Private Network Access protections enabled, or use browser extensions (such as uBlock Origin or NoScript) to block external websites from issuing fetch requests to localhost (127.0.0.1).</p>\n</div>\n<div>\n<p><strong>Vendor fix</strong><br />Update to V11.12.7 or later version</p>\n</div>\n<hr />\n<h6>Additional Metrics</h6>\n<p><strong>Relevant CWE:</strong> <a href=\"https://cwe.mitre.org/data/definitions/352.html\">CWE-352 Cross-Site Request Forgery (CSRF)</a></p>\n<div class=\"csaf-table csaf-metrics-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS Version</th>\n<th>Base Score</th>\n<th>Base Severity</th>\n<th>Vector String</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3.1</td>\n<td>5.4</td>\n<td>MEDIUM</td>\n<td><a href=\"https://www.first.org/cvss/calculator/3.1#CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:N/I:L/A:L\">CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:N/I:L/A:L</a></td>\n</tr>\n</tbody>\n</table>\n</div>\n<hr />\n<p><a href=\"https://www.cve.org/CVERecord?id=CVE-2026-112137\">View CVE Details</a></p>\n</div>\n</div>\n<hr />\n<h2>Acknowledgments</h2>\n<ul>\n<li>Siemens ProductCERT reported these vulnerabilities to CISA.</li>\n</ul>\n<hr />\n<h2>General Recommendations</h2>\n<p>As a general security measure, Siemens strongly recommends to protect network access to devices with appropriate mechanisms. In order to operate the devices in a protected IT environment, Siemens recommends to configure the environment according to Siemens' operational guidelines for Industrial Security (Download: https://www.siemens.com/cert/operational-guidelines-industrial-security), and to follow the recommendations in the product manuals. Additional information on Industrial Security by Siemens can be found at: https://www.siemens.com/industrialsecurity</p>\n<hr />\n<h2>Additional Resources</h2>\n<p>For further inquiries on security vulnerabilities in Siemens products and solutions, please contact the Siemens ProductCERT: https://www.siemens.com/cert/advisories</p>\n<hr />\n<h2>Terms of Use</h2>\n<p>The use of Siemens Security Advisories is subject to the terms and conditions listed on: https://www.siemens.com/productcert/terms-of-use.</p>\n<hr />\n<h2>Recommended Practices</h2>\n<p>CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities.</p>\n<ul type=\"disc\">\n<li>Minimize network exposure for all control system devices and/or systems, ensuring they are <a href=\"https://www.cisa.gov/uscert/ics/alerts/ICS-ALERT-10-301-01\">not accessible from the internet</a>.</li>\n<li>Locate control system networks and remote devices behind firewalls and isolating them from business networks.</li>\n<li>When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices.</li>\n</ul>\n<p>CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures.</p>\n<p>CISA also provides a section for <a href=\"https://www.cisa.gov/resources-tools/resources/ics-recommended-practices\">control systems security recommended practices</a> on the ICS webpage on <a href=\"https://www.cisa.gov/topics/industrial-control-systems\">cisa.gov/ics</a>. Several CISA products detailing cyber defense best practices are available for reading and download, including <a href=\"https://www.cisa.gov/sites/default/files/recommended_practices/NCCIC_ICS-CERT_Defense_in_Depth_2016_S508C.pdf\">Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies</a>.</p>\n<p>CISA encourages organizations to implement recommended cybersecurity strategies for <a href=\"https://www.cisa.gov/sites/default/files/publications/Cybersecurity_Best_Practices_for_Industrial_Control_Systems.pdf\">proactive defense of ICS assets</a>.</p>\n<p>Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at <a href=\"https://www.cisa.gov/topics/industrial-control-systems\">cisa.gov/ics</a> in the technical information paper, <a href=\"https://www.cisa.gov/news-events/news/targeted-cyber-intrusion-detection-and-mitigation-strategies-update-b\">ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies</a>.</p>\n<p>Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents.</p>\n<hr />\n<h2>Advisory Conversion Disclaimer</h2>\n<p>This ICSA is a verbatim republication of Siemens ProductCERT SSA-710379 from a direct conversion of the vendor's Common Security Advisory Framework (CSAF) advisory. This is republished to CISA's website as a means of increasing visibility and is provided \"as-is\" for informational purposes only. CISA is not responsible for the editorial or technical accuracy of republished advisories and provides no warranties of any kind regarding any information contained within this advisory. Further, CISA does not endorse any commercial product or service. Please contact Siemens ProductCERT directly for any questions regarding this advisory.</p>\n<h2>Revision History</h2>\n<ul>\n<li><strong>Initial Release Date: </strong>2026-11-10</li>\n</ul>\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>Date</th>\n<th>Revision</th>\n<th>Summary</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>2026-11-10</td>\n<td>1</td>\n<td>Publication Date</td>\n</tr>\n<tr>\n<td>2026-11-16</td>\n<td>2</td>\n<td>Mapped the advisory to Mendix products to be present on the Mendix Atom Feed</td>\n</tr>\n<tr>\n<td>2026-11-17</td>\n<td>3</td>\n<td>Initial CISA Republication of Siemens ProductCERT SSA-710379 advisory</td>\n</tr>\n</tbody>\n</table>\n<hr />\n<h2>Legal Notice and Terms of Use</h2>"
-  },
-  {
-    "source": "Cisa Alerts",
-    "title": "Siemens .NET Client Library for SIMATIC S7 Webserver API",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-02",
-    "published": "Tue, 17 Nov 26 12:00:00 +0000",
-    "summary": "<p><a href=\"https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-321-02.json\"><strong>View CSAF</strong></a></p>\n<h2>Summary</h2>\n<p><strong>.NET Client Library for SIMATIC S7 Webserver API contains multiple vulnerabilities that could allow an attacker to obtain sensitive information or write arbitrary files outside the intended download directory. Siemens has released a new version for .NET Client Library for SIMATIC S7 Webserver API and recommends to update to the latest version.</strong></p>\n<p>The following versions of Siemens .NET Client Library for SIMATIC S7 Webserver API are affected:</p>\n<ul>\n<li>.NET Client Library for SIMATIC S7 Webserver API vers:intdot/&lt;3.3.61, vers:intdot/&lt;3.3.62 (CVE-2026-85114, CVE-2026-85115)</li>\n</ul>\n<div class=\"csaf-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS</th>\n<th>Vendor</th>\n<th>Equipment</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>v3 7.5</td>\n<td>Siemens</td>\n<td>.NET Client Library for SIMATIC S7 Webserver API</td>\n</tr>\n</tbody>\n</table>\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>2 Vulnerabilities</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'), Generation of Error Message Containing Sensitive Information</td>\n</tr>\n</tbody>\n</table>\n</div>\n<h3>Background</h3>\n<ul>\n<li><strong>Critical Infrastructure Sectors: </strong>Critical Manufacturing</li>\n<li><strong>Countries/Areas Deployed: </strong>Worldwide</li>\n<li><strong>Company Headquarters Location: </strong>Germany</li>\n</ul>\n<hr />\n<h2>Vulnerabilities</h2>\n<div class=\"icsa-etb-toggle-wrapper\"><a class=\"icsa-etb-toggle-all\" href=\"https://www.cisa.gov/\">Expand All +</a></div>\n<div class=\"c-expandable-textbox icsa-etb\">\n<div class=\"c-expandable-textbox__title\">CVE-2026-85114</div>\n<div class=\"c-expandable-textbox__body\">Affected applications do not properly validate filenames received from remote servers during ticket downloads. This could allow an attacker who can manipulate the ticket response to write arbitrary files outside the intended download directory and, when overwriting is enabled, replace existing files accessible to the application.</div>\n<div class=\"c-expandable-textbox-morebutton-wrapper\"><a class=\"c-expandable-textbox-morebutton\" href=\"https://www.cisa.gov/\">Read More</a></div>\n<div class=\"c-expandable-textbox__body2\">\n<h4>1 Affected Product</h4>\n<hr />\n<h5>.NET Client Library for SIMATIC S7 Webserver API &lt; V3.3.61</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Update to V3.3.61 or later version</p>\n</div>\n<hr />\n<h6>Additional Metrics</h6>\n<p><strong>Relevant CWE:</strong> <a href=\"https://cwe.mitre.org/data/definitions/22.html\">CWE-22 Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')</a></p>\n<div class=\"csaf-table csaf-metrics-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS Version</th>\n<th>Base Score</th>\n<th>Base Severity</th>\n<th>Vector String</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3.1</td>\n<td>7.5</td>\n<td>HIGH</td>\n<td><a href=\"https://www.first.org/cvss/calculator/3.1#CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:N\">CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:N</a></td>\n</tr>\n</tbody>\n</table>\n</div>\n<hr />\n<p><a href=\"https://www.cve.org/CVERecord?id=CVE-2026-85114\">View CVE Details</a></p>\n</div>\n</div>\n<div class=\"c-expandable-textbox icsa-etb\">\n<div class=\"c-expandable-textbox__title\">CVE-2026-85115</div>\n<div class=\"c-expandable-textbox__body\">Affected applications do not properly redact PLC restore passwords from HTTP error exception messages. This could allow an attacker with access to logs or other diagnostic output to obtain the plaintext restore password and potentially perform unauthorized operations on the PLC.</div>\n<div class=\"c-expandable-textbox-morebutton-wrapper\"><a class=\"c-expandable-textbox-morebutton\" href=\"https://www.cisa.gov/\">Read More</a></div>\n<div class=\"c-expandable-textbox__body2\">\n<h4>2 Affected Products</h4>\n<hr />\n<h5>.NET Client Library for SIMATIC S7 Webserver API &lt; V3.3.61</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<hr />\n<h5>.NET Client Library for SIMATIC S7 Webserver API &lt; V3.3.62</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Vendor fix</strong><br />Update to V3.3.62 or later version</p>\n</div>\n<hr />\n<h6>Additional Metrics</h6>\n<p><strong>Relevant CWE:</strong> <a href=\"https://cwe.mitre.org/data/definitions/209.html\">CWE-209 Generation of Error Message Containing Sensitive Information</a></p>\n<div class=\"csaf-table csaf-metrics-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS Version</th>\n<th>Base Score</th>\n<th>Base Severity</th>\n<th>Vector String</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3.1</td>\n<td>5.5</td>\n<td>MEDIUM</td>\n<td><a href=\"https://www.first.org/cvss/calculator/3.1#CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N\">CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N</a></td>\n</tr>\n</tbody>\n</table>\n</div>\n<hr />\n<p><a href=\"https://www.cve.org/CVERecord?id=CVE-2026-85115\">View CVE Details</a></p>\n</div>\n</div>\n<hr />\n<h2>Acknowledgments</h2>\n<ul>\n<li>Siemens ProductCERT reported these vulnerabilities to CISA.</li>\n</ul>\n<hr />\n<h2>General Recommendations</h2>\n<p>As a general security measure, Siemens strongly recommends to protect network access to devices with appropriate mechanisms. In order to operate the devices in a protected IT environment, Siemens recommends to configure the environment according to Siemens' operational guidelines for Industrial Security (Download: https://www.siemens.com/cert/operational-guidelines-industrial-security), and to follow the recommendations in the product manuals. Additional information on Industrial Security by Siemens can be found at: https://www.siemens.com/industrialsecurity</p>\n<hr />\n<h2>Additional Resources</h2>\n<p>For further inquiries on security vulnerabilities in Siemens products and solutions, please contact the Siemens ProductCERT: https://www.siemens.com/cert/advisories</p>\n<hr />\n<h2>Terms of Use</h2>\n<p>The use of Siemens Security Advisories is subject to the terms and conditions listed on: https://www.siemens.com/productcert/terms-of-use.</p>\n<hr />\n<h2>Recommended Practices</h2>\n<p>CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities.</p>\n<ul type=\"disc\">\n<li>Minimize network exposure for all control system devices and/or systems, ensuring they are <a href=\"https://www.cisa.gov/uscert/ics/alerts/ICS-ALERT-10-301-01\">not accessible from the internet</a>.</li>\n<li>Locate control system networks and remote devices behind firewalls and isolating them from business networks.</li>\n<li>When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices.</li>\n</ul>\n<p>CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures.</p>\n<p>CISA also provides a section for <a href=\"https://www.cisa.gov/resources-tools/resources/ics-recommended-practices\">control systems security recommended practices</a> on the ICS webpage on <a href=\"https://www.cisa.gov/topics/industrial-control-systems\">cisa.gov/ics</a>. Several CISA products detailing cyber defense best practices are available for reading and download, including <a href=\"https://www.cisa.gov/sites/default/files/recommended_practices/NCCIC_ICS-CERT_Defense_in_Depth_2016_S508C.pdf\">Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies</a>.</p>\n<p>CISA encourages organizations to implement recommended cybersecurity strategies for <a href=\"https://www.cisa.gov/sites/default/files/publications/Cybersecurity_Best_Practices_for_Industrial_Control_Systems.pdf\">proactive defense of ICS assets</a>.</p>\n<p>Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at <a href=\"https://www.cisa.gov/topics/industrial-control-systems\">cisa.gov/ics</a> in the technical information paper, <a href=\"https://www.cisa.gov/news-events/news/targeted-cyber-intrusion-detection-and-mitigation-strategies-update-b\">ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies</a>.</p>\n<p>Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents.</p>\n<hr />\n<h2>Advisory Conversion Disclaimer</h2>\n<p>This ICSA is a verbatim republication of Siemens ProductCERT SSA-390352 from a direct conversion of the vendor's Common Security Advisory Framework (CSAF) advisory. This is republished to CISA's website as a means of increasing visibility and is provided \"as-is\" for informational purposes only. CISA is not responsible for the editorial or technical accuracy of republished advisories and provides no warranties of any kind regarding any information contained within this advisory. Further, CISA does not endorse any commercial product or service. Please contact Siemens ProductCERT directly for any questions regarding this advisory.</p>\n<h2>Revision History</h2>\n<ul>\n<li><strong>Initial Release Date: </strong>2026-10-13</li>\n</ul>\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>Date</th>\n<th>Revision</th>\n<th>Summary</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>2026-10-13</td>\n<td>1</td>\n<td>Publication Date</td>\n</tr>\n<tr>\n<td>2026-11-10</td>\n<td>2</td>\n<td>Added researcher acknowledgement</td>\n</tr>\n<tr>\n<td>2026-11-17</td>\n<td>3</td>\n<td>Initial CISA Republication of Siemens ProductCERT SSA-390352 advisory</td>\n</tr>\n</tbody>\n</table>\n<hr />\n<h2>Legal Notice and Terms of Use</h2>"
   }
 ]
