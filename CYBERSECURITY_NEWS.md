@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-23 23:40:12 UTC
+**Last Updated:** 2026-11-24 09:20:30 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access](https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html)
+### 1. [OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching](https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 24 Nov 2026 11:32:57 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day](https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 24 Nov 2026 11:32:45 +0530  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access](https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 23 Nov 2026 23:15:15 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble](https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html)
+### 4. [⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble](https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 23 Nov 2026 20:40:48 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions](https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html)
+### 5. [Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions](https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 23 Nov 2026 18:52:20 +0530  
@@ -32,7 +50,7 @@
 
 ---
 
-### 4. [Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning](https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html)
+### 6. [Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning](https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 23 Nov 2026 18:11:04 +0530  
@@ -42,7 +60,7 @@
 
 ---
 
-### 5. [N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation](https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html)
+### 7. [N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation](https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 23 Nov 2026 17:58:09 +0530  
@@ -52,7 +70,7 @@
 
 ---
 
-### 6. [Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE](https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html)
+### 8. [Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE](https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 23 Nov 2026 14:41:56 +0530  
@@ -62,7 +80,7 @@
 
 ---
 
-### 7. [Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices](https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html)
+### 9. [Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices](https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 23 Nov 2026 14:34:08 +0530  
@@ -71,31 +89,12 @@
 
 ---
 
-### 8. [AI-Assisted Cyber Attacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms](https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html)
+### 10. [AI-Assisted Cyber Attacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms](https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 23 Nov 2026 13:54:15 +0530  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 9. [OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms](https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html)
-
-**Source:** The Hacker News  
-**Published:** Sun, 22 Nov 2026 10:36:55 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps](https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html)
-
-**Source:** The Hacker News  
-**Published:** Sun, 22 Nov 2026 10:33:41 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-125396  
-**Categories:** Vulnerability  
 
 ---
 
@@ -291,7 +290,7 @@
 
 ---
 
-### 32. [N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack](https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/)
+### 32. [N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack](https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/)
 
 **Source:** Security Week  
 **Published:** Mon, 23 Nov 2026 15:06:49 +0000  
@@ -343,7 +342,7 @@
 **Source:** Security Week  
 **Published:** Mon, 23 Nov 2026 11:35:15 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-76466, CVE-2026-123890, CVE-2025-42884, CVE-2026-129448  
+**CVEs:** CVE-2026-76466, CVE-2026-123890, CVE-2026-129448, CVE-2025-42884  
 **Categories:** Vulnerability  
 
 ---
@@ -435,7 +434,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 11 Nov 2026 01:41:17 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-124194, CVE-2026-118148, CVE-2026-113862, CVE-2026-118146  
+**CVEs:** CVE-2026-113862, CVE-2026-118146, CVE-2026-118148, CVE-2026-124194  
 **Categories:** Vulnerability  
 
 ---
@@ -637,7 +636,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
