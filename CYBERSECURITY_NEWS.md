@@ -1,10 +1,37 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-25 00:59:06 UTC
+**Last Updated:** 2026-11-25 07:54:04 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns](https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html)
+### 1. [Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign](https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 25 Nov 2026 12:20:19 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Com-Affiliated Hackers Hijack Cloud Accounts via Vishing for Data Theft and Extortion](https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 25 Nov 2026 12:07:06 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live](https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 25 Nov 2026 11:51:12 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 4. [Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns](https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 24 Nov 2026 22:24:07 +0530  
@@ -13,7 +40,7 @@
 
 ---
 
-### 2. [VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation](https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html)
+### 5. [VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation](https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 24 Nov 2026 18:58:26 +0530  
@@ -22,7 +49,7 @@
 
 ---
 
-### 3. [Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site](https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html)
+### 6. [Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site](https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 24 Nov 2026 18:58:21 +0530  
@@ -31,7 +58,7 @@
 
 ---
 
-### 4. [Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap](https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html)
+### 7. [Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap](https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 24 Nov 2026 18:12:09 +0530  
@@ -40,7 +67,7 @@
 
 ---
 
-### 5. [Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity](https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html)
+### 8. [Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity](https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 24 Nov 2026 17:32:00 +0530  
@@ -49,7 +76,7 @@
 
 ---
 
-### 6. [2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk](https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html)
+### 9. [2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk](https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 24 Nov 2026 17:31:54 +0530  
@@ -58,7 +85,7 @@
 
 ---
 
-### 7. [Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets](https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html)
+### 10. [Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets](https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 24 Nov 2026 16:14:49 +0530  
@@ -67,34 +94,16 @@
 
 ---
 
-### 8. [WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login](https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html)
+### 11. [Hackers reportedly breached CIA intelligence analysis system](https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 24 Nov 2026 14:04:20 +0530  
+**Source:** Bleeping Computer  
+**Published:** Wed, 25 Nov 2026 02:45:03 -0500  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 9. [OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching](https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 24 Nov 2026 11:32:57 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 10. [Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day](https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 24 Nov 2026 11:32:45 +0530  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 11. [Rackspace shuts down Spot cloud platform after security breach](https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/)
+### 12. [Rackspace shuts down Spot cloud platform after security breach](https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 24 Nov 2026 16:37:30 -0500  
@@ -103,7 +112,7 @@
 
 ---
 
-### 12. [New Inception extortion gang launches large-scale vishing campaign](https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/)
+### 13. [New Inception extortion gang launches large-scale vishing campaign](https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 24 Nov 2026 15:21:20 -0500  
@@ -112,7 +121,7 @@
 
 ---
 
-### 13. [Turnitin discloses cyberattack affecting customer-facing systems](https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/)
+### 14. [Turnitin discloses cyberattack affecting customer-facing systems](https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 24 Nov 2026 13:59:52 -0500  
@@ -121,7 +130,7 @@
 
 ---
 
-### 14. [Radware discloses breach exposing customer cloud access keys](https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/)
+### 15. [Radware discloses breach exposing customer cloud access keys](https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 24 Nov 2026 12:49:05 -0500  
@@ -130,7 +139,7 @@
 
 ---
 
-### 15. [ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof](https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/)
+### 16. [ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof](https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 24 Nov 2026 11:30:19 -0500  
@@ -139,7 +148,7 @@
 
 ---
 
-### 16. [European Commission confirms data theft in EU Academy breach](https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/)
+### 17. [European Commission confirms data theft in EU Academy breach](https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 24 Nov 2026 11:22:44 -0500  
@@ -148,17 +157,17 @@
 
 ---
 
-### 17. [Hackers compromise Check Point Servers in 22 organizations](https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/)
+### 18. [Hackers compromise Check Point Servers in 22 organizations](https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 24 Nov 2026 11:15:23 -0500  
 **Severity:** Low  
-**CVEs:** CVE-2026-16232, CVE-2026-61500  
+**CVEs:** CVE-2026-61500, CVE-2026-16232  
 **Categories:** Vulnerability  
 
 ---
 
-### 18. [Police disrupt 57 illegal streaming services with 7.3 million visits](https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/)
+### 19. [Police disrupt 57 illegal streaming services with 7.3 million visits](https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 24 Nov 2026 10:10:10 -0500  
@@ -167,21 +176,12 @@
 
 ---
 
-### 19. [From Vulnerability Noise to Resilience: Rethinking Security in the AI Era](https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/)
+### 20. [From Vulnerability Noise to Resilience: Rethinking Security in the AI Era](https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 24 Nov 2026 10:01:11 -0500  
 **Severity:** Critical  
 **Categories:** Vulnerability  
-
----
-
-### 20. [McDonald's Japan data breach exposes customer location information](https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 24 Nov 2026 09:09:37 -0500  
-**Severity:** Low  
-**Categories:** Data Breach  
 
 ---
 
@@ -291,7 +291,7 @@
 **Source:** Security Week  
 **Published:** Tue, 24 Nov 2026 16:32:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-123910, CVE-2026-123903, CVE-2026-123912, CVE-2026-123911  
+**CVEs:** CVE-2026-123903, CVE-2026-123911, CVE-2026-123910, CVE-2026-123912  
 **Categories:** Vulnerability  
 
 ---
@@ -310,7 +310,7 @@
 **Source:** Security Week  
 **Published:** Tue, 24 Nov 2026 14:21:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-16232, CVE-2024-21893, CVE-2026-98432, CVE-2021-26855, CVE-2021-21972, CVE-2021-34473, CVE-2020-1472, CVE-2023-4966, CVE-2023-34048, CVE-2025-5777, CVE-2026-41089, CVE-2026-61500  
+**CVEs:** CVE-2026-41089, CVE-2021-26855, CVE-2020-1472, CVE-2026-61500, CVE-2023-4966, CVE-2021-34473, CVE-2026-16232, CVE-2021-21972, CVE-2025-5777, CVE-2026-98432, CVE-2023-34048, CVE-2024-21893  
 **Categories:** Vulnerability  
 
 ---
@@ -429,7 +429,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 11 Nov 2026 01:41:17 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-118146, CVE-2026-118148, CVE-2026-113862, CVE-2026-124194  
+**CVEs:** CVE-2026-113862, CVE-2026-118146, CVE-2026-118148, CVE-2026-124194  
 **Categories:** Vulnerability  
 
 ---
