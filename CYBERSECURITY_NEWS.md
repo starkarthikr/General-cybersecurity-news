@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-25 18:46:14 UTC
+**Last Updated:** 2026-11-25 21:27:30 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -94,7 +94,16 @@
 
 ---
 
-### 11. [CISA warns of critical unpatched flaw in Danfoss refrigeration controllers](https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/)
+### 11. [Italy and Switzerland warn of autonomous AI-driven cyberattacks](https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 25 Nov 2026 14:39:31 -0500  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [CISA warns of critical unpatched flaw in Danfoss refrigeration controllers](https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 25 Nov 2026 11:13:40 -0500  
@@ -104,7 +113,7 @@
 
 ---
 
-### 12. [More Pentests Without More Pentesters: Where AI Safely Helps](https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/)
+### 13. [More Pentests Without More Pentesters: Where AI Safely Helps](https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 25 Nov 2026 10:00:10 -0500  
@@ -113,17 +122,17 @@
 
 ---
 
-### 13. [InfraTrust warns of exploited supply chain flaws in network appliances](https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/)
+### 14. [InfraTrust warns of exploited supply chain flaws in network appliances](https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 25 Nov 2026 10:00:00 -0500  
 **Severity:** Critical  
-**CVEs:** CVE-2026-109618, CVE-2026-109619  
+**CVEs:** CVE-2026-109619, CVE-2026-109618  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
 
-### 14. [Microsoft fixes Microsoft 365 bug blocking access to Office apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/)
+### 15. [Microsoft fixes Microsoft 365 bug blocking access to Office apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 25 Nov 2026 06:16:32 -0500  
@@ -132,7 +141,7 @@
 
 ---
 
-### 15. [Hackers now exploit critical Drupal RCE flaw to hijack sites](https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/)
+### 16. [Hackers now exploit critical Drupal RCE flaw to hijack sites](https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 25 Nov 2026 05:10:20 -0500  
@@ -142,7 +151,7 @@
 
 ---
 
-### 16. [Microsoft confirms authentication issues after November updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/)
+### 17. [Microsoft confirms authentication issues after November updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 25 Nov 2026 04:02:57 -0500  
@@ -152,7 +161,7 @@
 
 ---
 
-### 17. [Hackers reportedly breached CIA intelligence analysis system](https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/)
+### 18. [Hackers reportedly breached CIA intelligence analysis system](https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 25 Nov 2026 02:45:03 -0500  
@@ -161,7 +170,7 @@
 
 ---
 
-### 18. [Rackspace shuts down Spot cloud platform after security breach](https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/)
+### 19. [Rackspace shuts down Spot cloud platform after security breach](https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 24 Nov 2026 16:37:30 -0500  
@@ -170,21 +179,12 @@
 
 ---
 
-### 19. [New Inception extortion gang launches large-scale vishing campaign](https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/)
+### 20. [New Inception extortion gang launches large-scale vishing campaign](https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 24 Nov 2026 15:21:20 -0500  
 **Severity:** High  
 **Categories:** Data Breach, Phishing  
-
----
-
-### 20. [Turnitin discloses cyberattack affecting customer-facing systems](https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 24 Nov 2026 13:59:52 -0500  
-**Severity:** High  
-**Categories:** General Security  
 
 ---
 
@@ -285,7 +285,7 @@
 **Source:** Security Week  
 **Published:** Wed, 25 Nov 2026 15:27:36 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-129245, CVE-2026-129242, CVE-2026-120705, CVE-2026-120704, CVE-2026-129243, CVE-2026-129244  
+**CVEs:** CVE-2026-129245, CVE-2026-129244, CVE-2026-129242, CVE-2026-120705, CVE-2026-129243, CVE-2026-120704  
 **Categories:** Vulnerability  
 
 ---
@@ -370,12 +370,21 @@
 **Source:** Security Week  
 **Published:** Tue, 24 Nov 2026 16:32:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-123910, CVE-2026-123903, CVE-2026-123911, CVE-2026-123912  
+**CVEs:** CVE-2026-123911, CVE-2026-123903, CVE-2026-123912, CVE-2026-123910  
 **Categories:** Vulnerability  
 
 ---
 
-### 41. [The Great Escape: Tradecraft insights from an agentic swarm](https://blog.talosintelligence.com/the-great-escape-tradecraft-insights-from-an-agentic-swarm/)
+### 41. [Oh, is it Thanksgiving? I hadn’t noticed!](https://blog.talosintelligence.com/oh-is-it-thanksgiving-i-hadnt-noticed/)
+
+**Source:** Talos Blog  
+**Published:** Wed, 25 Nov 2026 19:00:00 GMT  
+**Severity:** High  
+**Categories:** APT  
+
+---
+
+### 42. [The Great Escape: Tradecraft insights from an agentic swarm](https://blog.talosintelligence.com/the-great-escape-tradecraft-insights-from-an-agentic-swarm/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 25 Nov 2026 11:00:00 GMT  
@@ -384,7 +393,7 @@
 
 ---
 
-### 42. [Securing Grandma's groceries with Pierre Cadieux](https://blog.talosintelligence.com/securing-grandmas-groceries-with-pierre-cadieux/)
+### 43. [Securing Grandma's groceries with Pierre Cadieux](https://blog.talosintelligence.com/securing-grandmas-groceries-with-pierre-cadieux/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 25 Nov 2026 11:00:00 GMT  
@@ -393,7 +402,7 @@
 
 ---
 
-### 43. [The internet needs a nap (and you do, too)](https://blog.talosintelligence.com/the-internet-needs-a-nap-and-you-do-too/)
+### 44. [The internet needs a nap (and you do, too)](https://blog.talosintelligence.com/the-internet-needs-a-nap-and-you-do-too/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 19 Nov 2026 19:00:00 GMT  
@@ -402,7 +411,7 @@
 
 ---
 
-### 44. [The challenge of defending against bulletproof dead drops on public blockchains](https://blog.talosintelligence.com/the-challenge-of-defending-against-bulletproof-dead-drops-on-public-blockchains/)
+### 45. [The challenge of defending against bulletproof dead drops on public blockchains](https://blog.talosintelligence.com/the-challenge-of-defending-against-bulletproof-dead-drops-on-public-blockchains/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 18 Nov 2026 11:00:00 GMT  
@@ -411,7 +420,7 @@
 
 ---
 
-### 45. [UAT-12643: Suspected North Korea-aligned actor blends blockchain resilience with targeted infostealing](https://blog.talosintelligence.com/uat-12643-suspected-north-korea-aligned-actor-blends-blockchain-resilience-with-targeted-infostealing/)
+### 46. [UAT-12643: Suspected North Korea-aligned actor blends blockchain resilience with targeted infostealing](https://blog.talosintelligence.com/uat-12643-suspected-north-korea-aligned-actor-blends-blockchain-resilience-with-targeted-infostealing/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 18 Nov 2026 11:00:00 GMT  
@@ -420,7 +429,7 @@
 
 ---
 
-### 46. [CVE-2026-114938: Critical vulnerability in OpenJDK Java](https://blog.talosintelligence.com/java4shell/)
+### 47. [CVE-2026-114938: Critical vulnerability in OpenJDK Java](https://blog.talosintelligence.com/java4shell/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 18 Nov 2026 01:53:03 GMT  
@@ -430,7 +439,7 @@
 
 ---
 
-### 47. [ARTEX and beyond: AI-enabled penetration testing platforms](https://blog.talosintelligence.com/artex-and-beyond/)
+### 48. [ARTEX and beyond: AI-enabled penetration testing platforms](https://blog.talosintelligence.com/artex-and-beyond/)
 
 **Source:** Talos Blog  
 **Published:** Fri, 13 Nov 2026 20:57:13 GMT  
@@ -439,7 +448,7 @@
 
 ---
 
-### 48. [Never be afraid to ask questions](https://blog.talosintelligence.com/never-be-afraid-to-ask-questions/)
+### 49. [Never be afraid to ask questions](https://blog.talosintelligence.com/never-be-afraid-to-ask-questions/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 12 Nov 2026 19:00:00 GMT  
@@ -448,22 +457,13 @@
 
 ---
 
-### 49. [Microsoft Patch Tuesday for November 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-for-november-2026/)
+### 50. [Microsoft Patch Tuesday for November 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-for-november-2026/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 11 Nov 2026 01:41:17 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-118146, CVE-2026-113862, CVE-2026-118148, CVE-2026-124194  
+**CVEs:** CVE-2026-118146, CVE-2026-124194, CVE-2026-113862, CVE-2026-118148  
 **Categories:** Vulnerability  
-
----
-
-### 50. [Bring a tent, I've got the coffee: Lessons from it-sa](https://blog.talosintelligence.com/bring-a-tent-ive-got-the-coffee-lessons-from-it-sa/)
-
-**Source:** Talos Blog  
-**Published:** Thu, 05 Nov 2026 19:00:00 GMT  
-**Severity:** High  
-**Categories:** General Security  
 
 ---
 
@@ -637,7 +637,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -833,73 +833,73 @@
 
 ---
 
-### 91. [CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog)
+### 91. [CISA Adds 10 Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/25/cisa-adds-10-known-exploited-vulnerabilities-catalog)
+
+**Source:** Cisa Alerts  
+**Published:** Wed, 25 Nov 26 12:00:00 +0000  
+
+---
+
+### 92. [AutomationDirect C-More EA9 Programming Software](https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01)
 
 **Source:** Cisa Alerts  
 **Published:** Tue, 24 Nov 26 12:00:00 +0000  
 
 ---
 
-### 92. [Danfoss AK-SM 8xxA Series](https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03)
+### 93. [CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog)
 
 **Source:** Cisa Alerts  
 **Published:** Tue, 24 Nov 26 12:00:00 +0000  
 
 ---
 
-### 93. [Schneider Electric EcoStruxure Power Build Rapsody software](https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02)
+### 94. [Schneider Electric EcoStruxure Power Build Rapsody software](https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02)
 
 **Source:** Cisa Alerts  
 **Published:** Tue, 24 Nov 26 12:00:00 +0000  
 
 ---
 
-### 94. [AutomationDirect C-More EA9 Programming Software](https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01)
+### 95. [Danfoss AK-SM 8xxA Series](https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03)
 
 **Source:** Cisa Alerts  
 **Published:** Tue, 24 Nov 26 12:00:00 +0000  
 
 ---
 
-### 95. [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog)
+### 96. [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog)
 
 **Source:** Cisa Alerts  
 **Published:** Mon, 23 Nov 26 12:00:00 +0000  
 
 ---
 
-### 96. [CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog)
+### 97. [CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog)
 
 **Source:** Cisa Alerts  
 **Published:** Fri, 20 Nov 26 12:00:00 +0000  
 
 ---
 
-### 97. [Elecbrakes EB2, VM1, ELBC2000](https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02)
+### 98. [Elecbrakes EB2, VM1, ELBC2000](https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02)
 
 **Source:** Cisa Alerts  
 **Published:** Thu, 19 Nov 26 12:00:00 +0000  
 
 ---
 
-### 98. [Autonomy Logic OpenPLC Runtime](https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01)
+### 99. [Autonomy Logic OpenPLC Runtime](https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01)
 
 **Source:** Cisa Alerts  
 **Published:** Thu, 19 Nov 26 12:00:00 +0000  
 
 ---
 
-### 99. [libumqtt](https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03)
+### 100. [libumqtt](https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03)
 
 **Source:** Cisa Alerts  
 **Published:** Thu, 19 Nov 26 12:00:00 +0000  
-
----
-
-### 100. [CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog)
-
-**Source:** Cisa Alerts  
-**Published:** Wed, 18 Nov 26 12:00:00 +0000  
 
 ---
 
