@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-11-24 22:11:04 UTC
+**Last Updated:** 2026-11-25 00:59:06 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -277,17 +277,26 @@
 
 ---
 
-### 31. [VMware Updates Patch Critical ESX, vCenter Vulnerabilities](https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/)
+### 31. [An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says](https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/)
+
+**Source:** Security Week  
+**Published:** Tue, 24 Nov 2026 22:41:58 +0000  
+**Severity:** Critical  
+**Categories:** General Security  
+
+---
+
+### 32. [VMware Updates Patch Critical ESX, vCenter Vulnerabilities](https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Tue, 24 Nov 2026 16:32:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-123912, CVE-2026-123911, CVE-2026-123903, CVE-2026-123910  
+**CVEs:** CVE-2026-123910, CVE-2026-123903, CVE-2026-123912, CVE-2026-123911  
 **Categories:** Vulnerability  
 
 ---
 
-### 32. [European Commission Uncovers Data Breach in Cyberattack Investigation](https://www.securityweek.com/european-commission-uncovers-data-breach-in-cyberattack-investigation/)
+### 33. [European Commission Uncovers Data Breach in Cyberattack Investigation](https://www.securityweek.com/european-commission-uncovers-data-breach-in-cyberattack-investigation/)
 
 **Source:** Security Week  
 **Published:** Tue, 24 Nov 2026 14:49:59 +0000  
@@ -296,17 +305,17 @@
 
 ---
 
-### 33. [Check Point Security Management Servers Hacked in AI-Assisted Campaign](https://www.securityweek.com/check-point-security-management-servers-hacked-in-ai-assisted-campaign/)
+### 34. [Check Point Security Management Servers Hacked in AI-Assisted Campaign](https://www.securityweek.com/check-point-security-management-servers-hacked-in-ai-assisted-campaign/)
 
 **Source:** Security Week  
 **Published:** Tue, 24 Nov 2026 14:21:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2020-1472, CVE-2021-26855, CVE-2021-21972, CVE-2026-61500, CVE-2021-34473, CVE-2026-41089, CVE-2024-21893, CVE-2026-16232, CVE-2026-98432, CVE-2023-34048, CVE-2025-5777, CVE-2023-4966  
+**CVEs:** CVE-2026-16232, CVE-2024-21893, CVE-2026-98432, CVE-2021-26855, CVE-2021-21972, CVE-2021-34473, CVE-2020-1472, CVE-2023-4966, CVE-2023-34048, CVE-2025-5777, CVE-2026-41089, CVE-2026-61500  
 **Categories:** Vulnerability  
 
 ---
 
-### 34. [Anthropic Expands Enterprise Safeguards for Detecting AI Misuse](https://www.securityweek.com/anthropic-expands-enterprise-safeguards-for-detecting-ai-misuse/)
+### 35. [Anthropic Expands Enterprise Safeguards for Detecting AI Misuse](https://www.securityweek.com/anthropic-expands-enterprise-safeguards-for-detecting-ai-misuse/)
 
 **Source:** Security Week  
 **Published:** Tue, 24 Nov 2026 13:30:23 +0000  
@@ -315,7 +324,7 @@
 
 ---
 
-### 35. [OpenAI, Cisco Unveil Open Source Tool to Shield Unpatched Linux Systems](https://www.securityweek.com/openai-cisco-unveil-open-source-tool-to-shield-unpatched-linux-systems/)
+### 36. [OpenAI, Cisco Unveil Open Source Tool to Shield Unpatched Linux Systems](https://www.securityweek.com/openai-cisco-unveil-open-source-tool-to-shield-unpatched-linux-systems/)
 
 **Source:** Security Week  
 **Published:** Tue, 24 Nov 2026 12:20:41 +0000  
@@ -324,7 +333,7 @@
 
 ---
 
-### 36. [1.5 Million Impacted by Data Breach at South Korean Electric Company KEPCO](https://www.securityweek.com/1-5-million-impacted-by-data-breach-at-south-korean-electric-company-kepco/)
+### 37. [1.5 Million Impacted by Data Breach at South Korean Electric Company KEPCO](https://www.securityweek.com/1-5-million-impacted-by-data-breach-at-south-korean-electric-company-kepco/)
 
 **Source:** Security Week  
 **Published:** Tue, 24 Nov 2026 11:50:21 +0000  
@@ -333,7 +342,7 @@
 
 ---
 
-### 37. [Elecbrakes Bluetooth Vulnerabilities Expose Trailers to Forced Braking](https://www.securityweek.com/elecbrakes-bluetooth-vulnerabilities-expose-trailers-to-forced-braking/)
+### 38. [Elecbrakes Bluetooth Vulnerabilities Expose Trailers to Forced Braking](https://www.securityweek.com/elecbrakes-bluetooth-vulnerabilities-expose-trailers-to-forced-braking/)
 
 **Source:** Security Week  
 **Published:** Tue, 24 Nov 2026 10:44:44 +0000  
@@ -342,7 +351,7 @@
 
 ---
 
-### 38. [Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine](https://www.securityweek.com/peninsula-energy-halts-trading-after-cyber-incident-hits-us-uranium-mine/)
+### 39. [Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine](https://www.securityweek.com/peninsula-energy-halts-trading-after-cyber-incident-hits-us-uranium-mine/)
 
 **Source:** Security Week  
 **Published:** Tue, 24 Nov 2026 10:35:04 +0000  
@@ -351,21 +360,11 @@
 
 ---
 
-### 39. [Azure Flaw Exploited to Target Secrets at Norwegian Energy Firms](https://www.securityweek.com/azure-flaw-exploited-to-target-secrets-at-norwegian-energy-firms/)
+### 40. [Azure Flaw Exploited to Target Secrets at Norwegian Energy Firms](https://www.securityweek.com/azure-flaw-exploited-to-target-secrets-at-norwegian-energy-firms/)
 
 **Source:** Security Week  
 **Published:** Mon, 23 Nov 2026 15:47:40 +0000  
 **Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 40. [N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack](https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/)
-
-**Source:** Security Week  
-**Published:** Mon, 23 Nov 2026 15:06:49 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-134624  
 **Categories:** Vulnerability  
 
 ---
@@ -430,7 +429,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 11 Nov 2026 01:41:17 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-118146, CVE-2026-113862, CVE-2026-118148, CVE-2026-124194  
+**CVEs:** CVE-2026-118146, CVE-2026-118148, CVE-2026-113862, CVE-2026-124194  
 **Categories:** Vulnerability  
 
 ---

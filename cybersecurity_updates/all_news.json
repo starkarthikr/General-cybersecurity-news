@@ -557,6 +557,24 @@
   },
   {
     "source": "Security Week",
+    "title": "An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says",
+    "link": "https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/",
+    "published": "Tue, 24 Nov 2026 22:41:58 +0000",
+    "summary": "<p>It was not clear what specific information was compromised or who was responsible.</p>\n<p>The post <a href=\"https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/\">An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "It was not clear what specific information was compromised or who was responsible",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "VMware Updates Patch Critical ESX, vCenter Vulnerabilities",
     "link": "https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/",
     "published": "Tue, 24 Nov 2026 16:32:56 +0000",
@@ -568,10 +586,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-123912",
-        "CVE-2026-123911",
+        "CVE-2026-123910",
         "CVE-2026-123903",
-        "CVE-2026-123910"
+        "CVE-2026-123912",
+        "CVE-2026-123911"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -610,18 +628,18 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2020-1472",
+        "CVE-2026-16232",
+        "CVE-2024-21893",
+        "CVE-2026-98432",
         "CVE-2021-26855",
         "CVE-2021-21972",
-        "CVE-2026-61500",
         "CVE-2021-34473",
-        "CVE-2026-41089",
-        "CVE-2024-21893",
-        "CVE-2026-16232",
-        "CVE-2026-98432",
+        "CVE-2020-1472",
+        "CVE-2023-4966",
         "CVE-2023-34048",
         "CVE-2025-5777",
-        "CVE-2023-4966"
+        "CVE-2026-41089",
+        "CVE-2026-61500"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -734,26 +752,6 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack",
-    "link": "https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/",
-    "published": "Mon, 23 Nov 2026 15:06:49 +0000",
-    "summary": "<p>The company has restored access to the affected services and continues to monitor the affected environments.</p>\n<p>The post <a href=\"https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/\">N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The company has restored access to the affected services and continues to monitor the affected environments",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-134624"
-      ],
       "threat_categories": [
         "Vulnerability"
       ]
@@ -888,8 +886,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-118146",
-        "CVE-2026-113862",
         "CVE-2026-118148",
+        "CVE-2026-113862",
         "CVE-2026-124194"
       ],
       "threat_categories": [
